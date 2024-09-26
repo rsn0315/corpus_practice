@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100001852
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 안녕하세요~
+P1 	: 스포츠 경기는 무엇으로하세요(?)
+P0 	: 음 전 좋아하는 스포츠는 야구랑 배구요 
+	  &name2&님은요?
+P1 	: 야구는 잘모르고 축구는 좋아합니다
+	  티켓 끊어서 보러 가식적 있으세요(?)
+P0 	: 코로나 전에는 직관 좋아했죠 
+	  지금은 못가서 슬퍼여
+P1 	: 그럼 경기 관람은 티비로만요(?)
+P0 	: 네네 ㅎㅎ 아쉽죠~
+	  &name2&님은 직관 좋아하세요?
+P1 	: 직관 못 가본지가 너무 오래되서 포기 집에 티비도 없어요
+P1 	: 티켓예약은 어디서 하시나요(?)
+P0 	: 저는 제가 하진 않고 친구가 해요
+	  예약해본적은  없어요  ㅎㅎ
+P0 	: 헉 티비가 없으시디니!!
+P1 	: 인터파크나 예약 사이트 이용 안하시는군요
+P1 	: 좋아하는 팀은 있으세요(?)
+P0 	: 야구는 엔씨요 ㅎㅎ
+P0 	: 근데 올해는 성적이 영 ㅜㅜㅋ
+P1 	: 전 서울이라 LG 였는데 지금은 없어요
+P0 	: 저도 야구 안좋아 했어요
+	  약간은 이상한? 팬심 ㅋ
+	  예전에
+	  nc 온라인게임을 매우 좋아했거든요 
+	  그걸 계기로야구랑 친해졌네요
+P1 	: 헐~  게임 으로 야구까지
+P0 	: 네넹 ㅋ 이상한 팬심이죠 ㅋ. ㅋ
+P1 	: 그래도 스포츠는 직관이 좋쳐 응원소리도 좋고
+P0 	: 글킨 한데 코로나 시대게 맞춰서 응원해요

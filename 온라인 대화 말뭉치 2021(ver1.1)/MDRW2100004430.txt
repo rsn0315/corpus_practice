@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004430
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 군어때요?
+P1 	: 저는 미필이라서 군대에대해 잘 모릅니다
+P1 	: &name1&님은 군대 다녀오셨나요?
+P0 	: 네 공군이요
+P1 	: 오
+P1 	: 어땠어요?
+P0 	: 힘들어요
+P1 	: ㅠㅠ 다들 고생하는 것 같더라구요ㅠㅠ
+P1 	: 특히 공군은 더 길게 있다고 들었는데 맞나요?
+P0 	: 4개월 더요
+P1 	: 그렇구나
+P0 	: 네 군은 짧은게 최고죠
+P1 	: 어쩌다 공군으로 가게된거에요?
+P0 	: 지원이요
+P1 	: 그렇구나
+P1 	: 제가 군대에대해 잘 몰라서 할 말이 없네요
+P0 	: 넘 힘들어요

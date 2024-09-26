@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100043287
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그거 귀엽다
+P0 	: 엄마도 쓸수 있을텐데 ㅋㅋㅋ 나중에 알려드릴게요
+P1 	: 근데 버섯 먹어 이제? 원래 싫다고 막 그러더니
+P0 	: 저 완전 목이버섯 킬러예요 막 죽여요
+P1 	: 목이버섯 비싼데 입 고급이네
+P0 	: 마라탕에 흰목이 넣어먹으면 진짜 짱인거같아요..
+P1 	: 흰목이도 간 잘 배서 맛있지
+P0 	: 그거랑 그냥 버섯도 먹고 ㅎㅎ
+P1 	: 표고버섯도 먹어?
+P0 	: 마라탕에 표고버섯은 이단이니까 안먹어요 새송이는 먹어요
+P1 	: 새송이 쫄깃해서 맛있지 구워서 먹어도 좋은데
+P0 	: 새송이 구이 좋아요 ㅋㅋㅋ 그리고 뭐지 그 버섯.. 송이 아니고 느타리인가? 그것도 맛있어요
+P1 	: 버섯볶음 해주면 맛있게 먹겠네 어쩌다가 이런 입맛이 됐대 고맙게
+P0 	: 모든것은 마라탕의 덕분...
+P1 	: 마라탕 근데 자극적이라 너무 많이 먹으면 몸에 안 좋긴 한가봐
+P0 	: 맞아요 기름도 둥둥이라 ㅋㅋㅋ 맛있는데...ㅠ
+P1 	: 당면도 짱 많이 넣어서 먹으니까 살쪄
+P0 	: 당면 말고 옥수수면도 맛있는데...
+P1 	: 숙주 많이 넣어서 먹어

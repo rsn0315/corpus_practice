@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 아니요 잘하지는않는데 사이트 많이 보기는했어요
+P0 	: 저는 당귾요
+P1 	: 주로 어떤거 거래하세요?
+P0 	: 최근 공기청정기 했어요
+P1 	: 오 저도 중고거래 해본적은있지만 전자기기같은건 어렵던데 대단하네요
+P0 	: 차량용이라 소형이에요
+P1 	: 그러시구나 저는 그 비누몰드 한번해본적있어요 싸게잘샀어요ㅎㅎ
+P0 	: 싸긴 하죠
+P1 	: 맞아요 그럼 요새 관심있는 물건있으세요? 사고싶은거요
+P0 	: 지금은 딱히
+P1 	: 아 그러시구나
+P0 	: 좋은거는 많은거 같덴데

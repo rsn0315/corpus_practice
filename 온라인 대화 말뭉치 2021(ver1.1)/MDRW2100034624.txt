@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034624
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세묘
+P0 	: 최근에 구매한것중에 마음에드는 상품이 잇으신가요
+P1 	: 네
+P0 	: 뭔데요
+P1 	: 냉동피자요
+P0 	: 오 왜죠?
+P1 	: 2500원에 샀어요
+P0 	: 오 얼마짜린데요
+P1 	: 꿀이죠
+P0 	: 원래
+P0 	: 꿀? 달다고요?
+P1 	: 4천 안팎이요
+P0 	: 너무어렵네요
+P1 	: 네
+P0 	: 오 그렇군요

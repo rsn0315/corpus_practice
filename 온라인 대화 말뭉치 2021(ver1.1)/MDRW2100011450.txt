@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011450
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 이제 곧 점심먹어야죠ㅎㅎ
+P1 	: 어떤음식 좋아하세요?
+P0 	: 한식이요
+P1 	: 오 한식 저는 돈까스 좋아해요
+P0 	: 초딩 입맛?  ㅋㅋ
+P1 	: 오 맞아요ㅎㅎ
+P0 	: 항상 어린이돈까스 식당에 있어요
+P1 	: 크레이지카츠 맛있어요!
+P0 	: 전 밥이요
+P1 	: 한국인은 밥이 최고죠
+P0 	: 맞아요
+P1 	: 점심 드셨나요?
+P0 	: sz네 한식이요

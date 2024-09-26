@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022512
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심드셨어요~?
+P1 	: 네 대충먹었네요!ㅋㅋ &name1&님도 점심잘드셨나요~
+P0 	: 전 그냥 빵이라우유먹었어요 ㅋㅋㅋ
+P1 	: 전 아침겸 점심이었는데도 대충 대충..ㅠㅠ
+P1 	: 저녁이라도 잘 먹어야겠어요!
+P0 	: 메뉴는 고루셨어요!?
+P1 	: 아니요 ㅋㅋㅋ  고민중이에요
+P1 	: 원래 오늘 햄버거 먹으려고 했었는데ㅋㅋㅋ
+P1 	: 아침굶고 점심을 아점으로떼웠더니
+P0 	: 햄버거는 어디 브랜드 ㅎㅎ
+P1 	: 저녁은 밥먹어야해서 안되겠네요ㅜㅜ다음기회에~ㅋㅋ
+P1 	: 저희동네는 버거킹 없어서 배달도안되고
+P1 	: 맘스터치 밖에없어요 ㅋ
+P0 	: 맘스터치도맛잇죠!!싸이버거
+P1 	: 네 ㅋㅋㅋ 먹고싶네요ㅠㅠ간식으로 먹을까요^^ㅋ
+P0 	: 그럼또 저녁이 부실해질듯해요ㅠㅠ
+P1 	: 그런가요ㅠ ㅠ허밍 ㅠㅠ 메뉴 무지고민됩니다 ㅋㅋ
+P1 	: 건강식 먹고싶어요 ㅋㅋ
+P0 	: 한식 먹어야죠ㅠㅠ ㅋㅋ 전 비빔밥좋아해요 ㅋㅋ
+P1 	: 오 저도 비빔밥 엄청 좋아해요
+P1 	: 저도 한식 좋아해서 밥+반찬  이게 너무좋아용
+P0 	: 맞아요! 전 국도 휘리릭 끓여서 같이 잘먹어요!

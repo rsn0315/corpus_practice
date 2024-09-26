@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100042873
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어제밤과 오늘 아침까지 오류가 너무 많더라구요
+P1 	: 비오는 날은 국물 있는 음식이 생각나죠
+P1 	: 아니면 부침개 쪽이던지요
+P1 	: 점심은 뭘 드셨나요?
+P0 	: 점심은 사내식당에서 먹었어요
+P0 	: 짬뽕먹으려다가 부타동먹었습니담
+P1 	: 부타동은 어떤 음식인가요? 일식 같은데
+P0 	: 아 돼지고기 덮밥이었어요! ㅋㅋㅋ
+P1 	: 그렇군요 맛있었겠네요
+P0 	: 점심 맛있게 드셨어요?
+P1 	: 저는 감자채볶음이랑 가지볶음을 해서 먹었어요
+P0 	: 우와 둘다 정말 제가 좋아하는 메뉴에요 ㅋㅋㅋ
+P0 	: 가지가 영양이 그렇게나좋대요
+P1 	: 네 그런데 싫어하는 사람들도 꽤 많죠
+P1 	: 저는 가지나물도 좋아한는데 딸아이가 싫어해서 가지볶음으로 해요
+P0 	: 헐 저도 가지 좋아해요ㅠㅋㅋ어떻게해도 다 맛있더라구여
+P1 	: 가지나물을 좋아하는군요
+P1 	: 참 그 맛을 모르다니 딸아이는 아무리 먹어도 적응이 안된다 하더군요
+P0 	: ㅋㅋㅋ맞아요 그 식감을 안좋아하는사람들도 있더라구요
+P1 	: 한국에서 대표적으로 불호식감 중 하나라고 하더구요

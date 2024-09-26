@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010268
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 저도 해외가고 싶었는데..또 인종차별 문제도 있다고 하더라구요
+P0 	: 유럽쪽이 진짜 심하대요
+P1 	: 유럽에 다시가고싶었는데...걱정이에요
+P0 	: 유럽은 어때요? 어디 다녀오셨어용?
+P1 	: 저는 동유럽 다녀왔어요ㅎㅎ분위기가 아주 좋았어요
+P0 	: 저두 기회가되면 스페인이나 스위스 다녀오고싶어요
+P0 	: 이때 여행경비 많이 모아놔야겠어요
+P1 	: 맞아요 저도 여행용으로 모으는중이에요ㅠ
+P0 	: 유럽 음식 입맛에 맞으셨어요?
+P1 	: 음 아뇨...그냥 빵이 제일 맛있었네요ㅎㅎ
+P0 	: ㅠㅠ 음식은 아시아쪽이 비슷해서인지 맛있더라구요!
+P0 	: 전 하노이나 다낭도 너무 궁금해요
+P1 	: 맞아요 아니면 고기종류로 먹거나..
+P0 	: 고기좋죠 ㅎㅎ
+P1 	: 어딜가나 그렇더라구요ㅎㅎ
+P0 	: 만두류도 대부분 취향 관계없이 먹기 좋아용

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020707
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요! 쇼핑 좋아하세요?
+P0 	: 쇼핑 좋아해요~
+P1 	: 최근에 뭐사셨어요?
+P0 	: 최근에 향수샀어요 ㅋㅋㅋㅋ
+P1 	: 요즘 시향이 안된다고하더라고요 늘 사던 향수예요?
+P0 	: 마쟈요 요새 백화점에서 시향이안되서 넘 슬퍼요 ㅠㅠ
+P0 	: 아뇨! 블라인드로 구매했어요 ㅌㅋ
+P1 	: 블라인드로 구매하는건 어떤거예요?
+P0 	: 시향없이 향수 노트만보고 질러버리는거에요 ㅋㅋㅋ
+P0 	: 배송오기전까지 두근두근해요 ㅋㅋㅋ
+P1 	: 아 진짜 두근댈 수 밖에 없네요! 복불복!!
+P0 	: 맞아요 ㅋㅋ 실패하는것들은 당근이나 번개장터에 내놓기도해요 ㅋㅋㅋ ㅜㅜ
+P1 	: 당근 너무 후려치지않아요?
+P0 	: 맞아요.. 절반은 후려쳐야 팔리더라구요 ㅜ
+P1 	: 기프티콘만 몇번 팔아봤는데 일상용품은 진짜 사고팔기 너무 어려운거같아요
+P1 	: 저번에 숙박권도 팔아봤는데 어머님이 나오셔서 너무 좋아하시니 팔면서도 기분이 좋았어요

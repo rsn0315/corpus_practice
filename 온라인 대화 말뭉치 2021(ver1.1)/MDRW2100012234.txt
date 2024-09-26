@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하는 온라인 커뮤니티 있어?
+P1 	: 저는 딱히 없어요! &name1&은요?
+P0 	: 저는 다음카페 트위터 해요!
+P1 	: 오 저도 트위터 가끔 들어가봐요 트윗 1도 없는 구독계지만요
+P0 	: 오 어떤 거 주로 보세요? 아이돌인가요?
+P1 	: 아이돌 계정이었는데 요즘은 휴덕이라 그냥 게임이나 예쁜거?(보석이라던가) 보고있어요
+P0 	: 그럼 교류활동은 한번도 안하셨겠네요
+P1 	: 네 없었어요 트위터 어렵기도 하고 그래서 눈팅만 하고있어요ㅋㅋㅋ큐ㅠ
+P0 	: 아이돌은 누구 좋아하셨어요?
+P1 	: 좀 오래 판건 방탄이고 자잘하게 빅스, 블락비, 비투비, 세븐틴, X1 등등.. 거의 잡덕이었어요
+P0 	: 우와 저는 엑소만 팠었어요
+P0 	: 처음이자 마지막인 아이돌..
+P1 	: 와..엑소..
+P0 	: 지금은 아니에요
+P0 	: 하는 온라인 커뮤니티 있어요?

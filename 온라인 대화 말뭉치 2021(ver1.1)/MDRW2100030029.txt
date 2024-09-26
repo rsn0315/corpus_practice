@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100030029
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &address&에 비가 오나요
+P1 	: 가을에 원래 이렇게 비가 많이 왔던가요
+P0 	: 비가오는가 같네요~
+P0 	: 가을 장마..정말 지겹구만요~
+P1 	: 아이고 내일 당근  하러 &address& 이차 갑니다
+P1 	: 아 비 오는 계절에 운전해도 될까요
+P0 	: 바쁘네요 ㅋㅋㅋㅋ
+P0 	: 저는 낼 일갑니다요~
+P0 	: 날씨가 이러니
+P0 	: 잠이 오네요;
+P1 	: 가을은 원래 낮잠이 잘 옵니다
+P1 	: 말이 살찌는 계절이죠
+P1 	: 말 말띠 신가요
+P0 	: 토끼띱니다~
+P0 	: 다 살찌는계절이네여 ㅋㅋㅋ
+P1 	: 아 그렇군요
+P1 	: 내일 비가 온다 나요
+P1 	: 내일 &address& 비 안오면 좋겠습니다
+P1 	: 날씨가 흐리멍텅 하요
+P0 	: 저희는 좀있다 구미갑니다 ㅋㅋㅋㅋㅋ
+P0 	: 너무 힘들어서 좀 쉬러 가야겠습니다~
+P1 	: 이런 날씨에 구미에 가다니요
+P1 	: 날씨 좋은 데 구미 가지 마세요
+P1 	: 놀러가야 됩니다 좋은 날씨
+P0 	: ㅋㅋㅋㅋㅋㅋ어디로 가십니꺼??
+P1 	: 구미 가셨습니까
+P1 	: 지금 엄마 집 왔어요
+P1 	: 밖에 비 옵니까
+P1 	: 햇볕이 쨍쨍한가요
+P0 	: 와따 여긴 진짜 추워요~감기걸릴꺼같네요~

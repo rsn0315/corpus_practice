@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 근무중이신가요?
+P1 	: 주말은 쉬어요^^
+P0 	: 저두요! 일은 적성에 맞으시나요
+P1 	: 네 전 만족하며 다니고 있어요.
+	  소미님은요
+P0 	: 저는 그냥그냥 다닙니다....ㅋ
+P1 	: 직장인들이 다 그렇죠^^
+P0 	: 업무 스트레스는 어떤식으로 푸시나요?
+P1 	: 맛난거 먹거나 퇴근하면서 차에서 노래부르기로 푸는 거 같아요
+P1 	: &name1&님은 업무 스트레스 많이 받나요?
+P0 	: 저는 퇴근하면 그냥 잊습니다
+P1 	: 그게 젤 좋죠.. 쌓아두면 병나요
+P0 	: 일과 생활이 분리되는게 스트레스 해소에 좋은 듯 해요
+P1 	: 맞아요. 일과 생활이 섞여버리면 정신없고 힘들어요
+P0 	: 그게 말처럼 쉽지가 않죠

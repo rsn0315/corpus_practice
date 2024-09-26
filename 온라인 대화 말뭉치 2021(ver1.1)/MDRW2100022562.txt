@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100022562
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그쪽도 날씨 흐린가요?
+P1 	: 아뇨 여긴 맑아요
+P1 	: 거긴 흐린가보군요 비 오나요?
+P0 	: 새벽까지 비왓어요..
+P1 	: 오 여긴 비가 안왔어요.. 비오는날 좋아하세요?
+P0 	: 아뇨.. 너무 실어요.. 축축하고 음침하고..
+P0 	: 비 좋아하세요?
+P1 	: 비는 싫은데 비 오기 직전은 좋아요
+P1 	: 시원하고 습한거요...
+P0 	: 헉.. 진짜요?
+P0 	: 습한걸 좋아하시다니...
+P0 	: 특이하시네요
+P1 	: 습하면 좀 숨이 잘 쉬어지는것 같아서요..ㅋㅋ 근데 덥고 습한건 저도 싫어요
+P1 	: 제일 좋아하는 계절이 뭐예요?
+P0 	: 가을이 젤 좋아요.. 쾌청하고 하늘고 높고
+P1 	: 아무래도 가을이 제일 살기 편하죠
+P1 	: 이제 거의 가을 날씨 돼가는것같지 않나요
+P0 	: 어제비오고 오늘 급 선선하네요..
+P0 	: 오늘은 딱 가을 같아요
+P1 	: 맞아요 이제 슬슬 긴팔옷을 입어도 될 것 같아요
+P1 	: 그런데 이러다가 또 급격하게 추워지겠죠 가 무슨 문제일까요..
+P0 	: 북태평양 고기압의 세력 축소이지 않을까요? ㅋㅋㅋ
+P1 	: 북태평양 고기압의 세력축소요?? 진짜 오랜만에 듣는 단어들이에요ㅋㅋㅋㅋ

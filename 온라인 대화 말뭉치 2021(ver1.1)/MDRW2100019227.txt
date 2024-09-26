@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019227
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 소설 좋아하세요?
+P1 	: 네 요즘은 잘 못읽어요
+P1 	: 웹소설 잘 봐요
+P0 	: 어디서 주로 읽으셨나요?
+P1 	: 요샌 시리즈요. 리디에서도 읽구요
+P0 	: 시리즈랑 리디는 뷰어가 좋죠ㅎㅎ
+P1 	: 맞아요ㅋㅋ 카카오거 추천을 받기는 하는데 뷰어가 안좋다고 해서 고민이에요
+P0 	: 카카오페이지 기존은 뷰어가 별론데 신규는 괜찮더라구요ㅋㅋ
+P1 	: 보시는 거 있나요?
+P0 	: 카카페에서는 데못죽 보고 시리즈에서는 화산귀환, 전독시 등등 봐요
+P1 	: 저두 전독시 봤어요.
+P1 	: 요새 웹툰도 하잖아요
+P0 	: 소설 외전도 빨리 나왓으면해요ㅠ
+P1 	: 그러게요ㅠㅠ 소식이 너무 없어요
+P0 	: 올해 안에는 나오겠지요ㅠㅠ
+P1 	: 제발이요ㅠㅠ

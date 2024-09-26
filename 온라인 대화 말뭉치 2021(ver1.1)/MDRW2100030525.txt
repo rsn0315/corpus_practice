@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100030525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 최근에 마음에 들엇던 사무용품이 잇으세요?
+P1 	: 바로 생각이 떠오르는 상품은 없네요
+P0 	: 곧 배송올것도 없어요?
+P1 	: 기다리는 볼펜이 있기는해요
+P0 	: 어떤 볼펜인데요?
+P1 	: 홀맨이 장식되어 있는 볼펜이에요
+P0 	: 되게 오랜만에 듣는 캐릭터이름이네요
+P1 	: 거의 15년 만에 듣는 이름이죠
+P0 	: 볼펜 디자인이 뭔가 남다른가요?
+P1 	: 크게 남다르지는 않는거 같아요
+P1 	: 모나미 볼펜 윗 부분에 인형이 달려있죠
+P0 	: 오. 그렇군요.
+P0 	: 판매가가 얼마나 될까요?
+P1 	: 일반 볼펜가 보다는 비싸지 않을까 예상합니다

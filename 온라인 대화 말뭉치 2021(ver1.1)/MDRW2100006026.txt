@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006026
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이번 추석 연휴는 어떻게 보내실예정이신가요
+P1 	: 일단 가족 모임이 있어요
+P1 	: 근데 어디 가지는 않을꺼 같아요
+P1 	: 추석 어떻게 보내세요?
+P0 	: 저도 부모님이 근거리에 계셔서 잠시 인사드리고 오는정도요..
+P1 	: 코로나가 이렇게 길어지다니...ㅠㅠ
+P0 	: 할머니가 살아계신데 둘째 태어나고 한번도 못뵀는데 연로하셔서 마음에 늘 걸려요 이번에도 못뵐듯하여....
+P1 	: 마음이 쓰이시겠어요
+P0 	: 네 건강이 안좋으셔서 그리고 아이 한참 예쁜 행동할때 만날수가 없으니 그런건 마음에 걸리네요..
+P1 	: 귀염둥이 보고 싶으실텐데
+P1 	: 할머니가 좀 멀리 계신가봐요
+P0 	: 네 거리도 있고 명절에나 찾아뵀었는데.. 또 코로나라 평상시도 가기 쉽지않고 이래저래 그렇네요~ &name2&은 원래 명절에 장거리이동 안하시나요?
+P1 	: 저희는 시댁 친정 다 근처라
+P1 	: 차로 30분 내외 ㅋㅋㅋ
+P0 	: 이젠 &name2&의 할머니댁까진 안가시나요?
+P1 	: 저희는 양가 할머니 할아버지는 다 돌아가셨어요
+P0 	: 그러시군요 그럼 명절이 평소와 크게 다르진 않겠네요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 네
+P0 	: 전 청소담당이요
+P1 	: 설거지포함인가요?
+P0 	: 아뇨 화장실 전담이요
+P1 	: 아하
+P1 	: 타일에 곰팡이 제거 팁있나요?
+P0 	: 락스죠
+P1 	: 아하
+P0 	: 락스냄새싫어요
+P1 	: 아 맞아요 그거 별로죠
+P1 	: 몸에도 안좋구
+P1 	: 마스크쓰고하세요
+P0 	: 마스크껴도 안됨
+P1 	: 아ㅠ
+P0 	: 힘들죠

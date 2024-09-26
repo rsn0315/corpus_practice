@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요ㅎㅎ
+P1 	: 안녕하세요
+P0 	: 관심있는 동호회같은거 있나요?
+P1 	: 글쎄요 동호회에 들어가본적은 한번도 없어서요!
+P1 	: 요즘 기타를 배우고잇긴한데
+P1 	: 기타동호회같은것도 잇을까요??
+P0 	: 그런거 있을거같아요!!
+P0 	: 저도 동호회에 들어가본적은 없네용
+P0 	: 만약들어간다면 기타에 관심이 있으신가보네요!
+P1 	: 넵!이제시작했거든요
+P1 	: &name1&님은 어떤 동호회에 관심있으힌가요??
+P0 	: 그러시군요!!
+P0 	: 저는 만약한다면 농구동호회같은데는 들어가고싶어요!ㅎㅎ
+P1 	: 오 농구좋아하세요??
+P0 	: 네 농구 엄청 좋아해요!
+P0 	: &name2&님도 농구 좋아하세요?
+P1 	: 아니요 전 농구 잘 못해요
+P1 	: 키가 작으서 그런가 ㅎㅎ
+P0 	: 저도 키는 작긴한데 농구 좋아해요ㅎㅎ
+P0 	: 키가 크면 유리하긴해도 재미있더라구요ㅋㅋㅋ
+P1 	: 그럼 농구 같이하는 친구들이 있나요??
+P0 	: 네 친한친구들이 농구를 좋우해서 종종해요!ㅎㅎ

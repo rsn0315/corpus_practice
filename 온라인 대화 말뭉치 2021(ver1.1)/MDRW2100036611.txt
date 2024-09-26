@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100036611
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 중고거래 자주하시나요?
+P1 	: ㅋㅋㅋㅋ 음 가끔이요
+P1 	: 잘 안팔리더라구요
+P0 	: 어떤거 판매하셨길래요?
+P1 	: 옷같은거요 ㅋㅋㅋ 입을까말까 하는것들 ...가격을 비싸게올려그런가
+P1 	: 웬만하면 입던건 안사가던데용...ㅋㅋㅋ
+P0 	: 흠 그런가요 중고옷 엄청 사고팔던데요 저도 사봐서요
+P1 	: ㅋㅋㅋㅋ ㅜㅜㅜ 제꺼가 별론가봐용 ㅋㅋㅋ
+P1 	: 브랜드...이런거 인기있어야하나
+P0 	: 흠 잘 모르겠네요 진짜 별로인 옷같은데 팔리긴 하더라구요
+P0 	: sns계정 열고 약간 개인 스토리 올리면서 친구만든 담에 팔아보세요
+P1 	: 헉...  ㅋㅋㅋ 얼마정도에요?
+P1 	: 제가 sns를 안해가지고..그냥 태그같은거 하고 옷 올리는건가요
+P0 	: 오천원 만원에도 팔구요
+P1 	: 오 그정도라도 좋은뎅 ..
+P0 	: 옷마다 다 달라서 이 가격에 파시란 뜻은 아니에요 ㅜㅜ
+P0 	: 그냥 일상이야기 올리면서
+P0 	: 친구들 좀 만들고 ㅇㅇ의 구제샵 이러면서
+P0 	: 파는 사람 봤어요
+P0 	: 글고 찻샷도 같이올리세요
+P0 	: 착샷

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100041362
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 여행 좋아하세요?
+P1 	: 안녕하세요 가끔 가요
+P0 	: 오 가장 최근 여행지는 어디세요?
+P1 	: 여수갔었어요
+P0 	: 우와 저 여수는 안가봤네요~
+P1 	: 크지않아서 하루만에 돌기도 좋아여
+P0 	: 오오 여수는 바다가 젤 유명하죠?
+P1 	: 네 밤바다죠
+P0 	: 당일치기 가신 거예요?
+P1 	: 아뇨 이박삼일요ㅋ
+P0 	: 오오 뭐뭐 드셨어요? 해산물?
+P1 	: 장어도 먹고 게도 먹고 여러가지요ㅋㅋ
+P0 	: 우와 저도 오늘 장어 먹었는데@!
+P0 	: 장어 진짜 좋아해요 저 ㅋㅋㅋ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 직장 다니시나요?
+P0 	: 네 출근준비중이요!
+P1 	: 직장은 적성에 맞으세요?
+P0 	: ㅋㅋ 적성.. ㅋㅋ먹고 살라고ㅋㅋ
+P0 	: 직장다니시나요?
+P1 	: ㅎㅎ 네 다닙니다
+P0 	: 원하던 일 하시나요?
+P1 	: ㅎ..원했던 일인데
+P1 	: 지금은 아니네요ㅜㅜㅜ
+P1 	: 첫번째 직장인가요
+P0 	: ㅋㅋ 아뇨 지금 네번째?? 아마 마지막 직장이 될거같아요
+P1 	: 아ㅎ 마음 먹으셨군요
+	  .!
+P1 	: 부럽네요ㅜ
+P0 	: ㅋㅋ 그냥 나이가 있어서 더이상 이직이 안될거같아요ㅠㅡㅋㅋ
+P1 	: ㅜㅜ전 이직하고는 싶은데
+P1 	: 어차피 이 업계가 그나물에 그밥이네요
+P0 	: ㅜㅜ 근데 익숙해져서 크게 연봉점프아님 메리트가 없더라고요ㅜㅠ
+P1 	: 맞아요
+P1 	: 이직하면 적응기도 필요하고

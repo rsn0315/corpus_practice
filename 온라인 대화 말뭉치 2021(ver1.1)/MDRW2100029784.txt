@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100029784
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: 로봇 청소기 추천 가능하시나요
+P1 	: 이번에 사려는데
+P0 	: 물청소 겸용으로 사세요
+P1 	: 근데 가격이
+P1 	: 생각보다 세더라고요
+P1 	: 한 30정도 생각했는데
+P1 	: 막 50, 60이러던데
+P0 	: 돈 많으니까 고
+P1 	: 돈 없어요 ㅡㅡ
+P1 	: ...재난 지원금?
+P1 	: 그러고보니
+P1 	: 재난 지원금 받으시면
+P1 	: 뭐 사실 생각이세요
+P0 	: 다이슨 에어랩이요
+P1 	: 그건 얼마 정도죠?
+P0 	: 60만 원입니다
+P1 	: 로봇 청소기 사시죠
+P1 	: 가격도 비슷한디
+P0 	: 회사에서 명절에 상품권 100만 원짜리 주면 두 개 다 사는데
+P0 	: 너무 짠 거 아니냐고 건의 좀 부탁드려요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 그러고보니 추석 상품권이 나오는군요
+P1 	: 잊고 있었네
+P1 	: 그러고보니 이번에 이어폰도
+P1 	: 갤럭시 버즈 프로로 바꿀 예정이었는데
+P0 	: 사세요
+P1 	: 진짜 살 생각이긴 함요

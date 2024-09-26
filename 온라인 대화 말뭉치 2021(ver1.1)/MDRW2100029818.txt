@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 방금 파운드케이크 먹었어요
+P1 	: 점심 드셨어요??
+P0 	: 버거요
+P1 	: 오 어떤 버거예요??
+P0 	: 맥도날드요 ㅋ
+P1 	: 오 요즘 맥도날드 뭐가 맛있나요??
+P0 	: 상하이여
+P1 	: 역시 상하이가 독보적이네요
+P1 	: 사이드는 뭐 드세요?
+P0 	: 맥너겟이요
+P1 	: 오 맛있겠네요
+P1 	: 매장에서 드신건가요???
+P0 	: 포장이여
+P1 	: 앗 포장이면 드시고 뒤처리 귀찮지 않으신가요?
+P0 	: 그래도 혼자 안전하게요
+P1 	: 하긴 코시국이죠ㅠ
+P1 	: 배달 자주 시키세요?
+P0 	: 가끔 밥하기 귀찮을 때만 시켜요

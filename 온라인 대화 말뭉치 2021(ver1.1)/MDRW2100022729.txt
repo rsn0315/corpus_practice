@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100022729
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 일주일 이상 지났는데 문제 없길래
+P1 	: 타이레놀도 안먹었어요!
+P0 	: 1차때는
+P0 	: 저도 팔근육 멍든거처럼 아프던데
+P0 	: 2차때도 비슷했군요
+P1 	: 잠결에 옆으로 누웠다가 아파서 깬 적도 있습니다...^^
+P0 	: 벌써 2차 접종 맞으신건
+P0 	: 잔여백신 성공해서 마치신건가요?
+P1 	: 헉
+P1 	: 어떻게 잘 해서 맞았어요
+P0 	: 저도 빨리 2차접종 맞고 걱정안하고싶네요 ㅋㅋ
+P0 	: 6주나 기다려야해서
+P1 	: 아 저희 엄마도 뉴스 보면서 그렇게 말씀하시더라구요 ㅋㅋㅋㅋ
+P1 	: 너는 접종 끝나서 걱정 안해도 되겠다고 ㅋㅋ
+P0 	: &name2&님은
+P0 	: 몇주정도 후에 2차 맞으셨어요?
+P1 	: 한 달 정도요!
+P0 	: 주위에 2차 접종 끝낸 지인들있으신가요?
+P1 	: 네네!
+P0 	: 그분들은 부작용 안심했데요?
+P1 	: 엄청 심하다는 얘기는 카더라로만 들어서
+P0 	: 뉴스보면 심근염에
+P0 	: 두통에 발열 그런분들 많아보여서
+P0 	: 젊은 사람들한테 부작용이 더 심하게 온다더라구여
+P1 	: 저도 그래서 걱정 많이 했는데 많이 아프진 않더라구요...!

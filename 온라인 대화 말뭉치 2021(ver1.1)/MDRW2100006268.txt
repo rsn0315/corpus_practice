@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006268
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직업이 뭐예요?
+P1 	: 네.일해요
+P0 	: 저는 체육교사예요
+P1 	: 저도 애들가르쳐요
+P0 	: 애들 가르치는 것이 너무 재밌잖아요
+P0 	: 오 정말요?
+P1 	: 체육제일좋아하죠
+P0 	: 학교 관련일 하시는 구나
+P1 	: 아이들은..
+P1 	: 네
+P0 	: 네
+P1 	: 전 방과후교사예요
+P0 	: 아 정말요?
+P1 	: 비정규직이죠
+P0 	: 괜찮아요
+P1 	: 코로나로 많이 못했네요
+P0 	: 저도 사실은 스포츠강사라
+P1 	: 정규직이 부러워요
+P0 	: 비정규직이죠

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100000356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 보는거 좋아하세요?
+P1 	: 네
+P1 	: 무슨영화좋아하세요
+P0 	: 음... 전 한국영화 거의 다 좋아해요ㅋㅋㅋㅋ
+P0 	: 싱크홀 보셨어요?
+P1 	: 저도ㅎㅎ자막안봐도되서
+P1 	: 저예고편만봤어요
+P0 	: 저도 아직 안봤는데
+P0 	: 광수님 나와서 재밌을거같아요ㅎㅎ
+P1 	: 광수재미써요
+P0 	: 맞아요ㅋㅋㅋㅋ 런닝맨에서 빠져서 너무 아쉬운ㅠㅠ
+P1 	: 유재석이노력하던데
+P1 	: 빠진거메울려고
+P0 	: ㅋㅋㅋㅋㅋ혹시 연극같은건 좋아하세요?
+P1 	: 연극좋아합니다
+P1 	: 근데많이못봐서아쉬워용
+P1 	: 코로나ㅠㅜㅜㅜ
+P0 	: 맞아요 코로나ㅠㅠㅠ
+P0 	: 저 진짜 보고싶은 뮤지컬이 있어서 예매했는데
+P0 	: 코로나때문에 취소했어요..ㅠㅠ
+P1 	: 뮤지컬어떤거요
+P1 	: 뮤지컬은본적이없어서ㅠ
+P0 	: 베어더뮤지컬이요! 좋아하는 배우분이 하셔서

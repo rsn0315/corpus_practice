@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100016138
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 식사하셨나요?!
+P1 	: 안녕하세요
+P1 	: 저는 이제 막 먹으려고 해요
+P1 	: 아침 드셨나요?
+P0 	: 네 저는 오징어볶음 먹었어요!
+P0 	: 뭐 드실건가요?!
+P1 	: 가지무침이랑 미역국 먹으려구요
+P1 	: 오징어볶음 아침에 먹기 맵지 않으셨어요?
+P0 	: 전혀요 해장도 되고 좋더라구요ㅋㅋㅋㅋ
+P0 	: 오늘 생일이신가요?!?
+P1 	: 그러셨구나 다행입니다 ㅋㅋ
+P1 	: 식구 중에 생일인 녀석이 있어서 한솥을 끓였어요
+P1 	: 좋아하는 들깨가루를 잔뜩 넣어서 끓였는데 당사자는 없는 그런 밥상입니다 ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ아ㅋㅋㅋ 그렇군요 생일이신 분이 너무 아쉽겠어요
+P0 	: 들깨가루를 넣으면 맛있나요?!
+P1 	: 네! 타 지역에선 낯설어 하더라구요
+P1 	: 경상도식 미역국은 들깨가루를 넣는게 일반적입니다
+P0 	: 그렇군요 저에게는 약간
+P0 	: 순대국밥 먹을 때 먹는 거=들깨가루
+P0 	: 라서
+P0 	: ㅋㅋㅋㅋㅋ저는 미역국에 소고기 넣는 거 좋아해요 &name2& 님은요?
+P1 	: 순대국밥에 들깨가루가 들어가는군요..!
+P1 	: 추어탕에만 들어가는 줄
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ다 다른 음식을 생각 중이네요
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 얼른 밥 먹고 커피 내려 마시고 싶네요
+P1 	: &name1&님도 커피 즐겨 드시나요?
+P0 	: 네 저도 커피 좋아해요!

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008010
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 점심 뭐 드셨어요?
+P1 	: 아직 안 먹었어요
+P1 	: 예정된 음식도 없는데 추천해주시겠어요?
+P0 	: 아직 안먹으셨다면 야채볶음밥을 추천해드릴게요
+P1 	: 야채볶음밥 좋아요
+P0 	: 면요리를 생각해봤는데 오후이고 밥이 나을거같아요
+P1 	: 저는 야채볶음밥 할 때
+P1 	: 마늘 위주로 넣는데
+P0 	: 야채볶음밥 할때 마늘을 왜 넣으신가요?  맛이 이상해지지않나요?
+P1 	: 저는 마늘 좋아해서
+P0 	: 제가 단순하게 햄, 감자 이렇게 생각해서 그런가 ㅎ
+P1 	: 마늘, 양파, 파 이렇게 넣어요
+P0 	: 요리할줄 아시나봐요 집밥 위주로 드시는구나
+P1 	: 간단한 것만 할줄 알아요
+P1 	: 생존을 위한 요리죠
+P0 	: 전 배달음식 자주먹는데 요즘은 끊을려고 노력하지만 ㅜ 막상 안되네요
+P0 	: 그럼 밥을 해서 먹을때가 많은가요?
+P1 	: 반반 되는거 같아요
+P1 	: 대신 해먹는건 레토르트 포함이요
+P0 	: 해서 먹는다는게 좋은거죠 비용도 아끼고 건강도 챙기고
+P0 	: 배달음식 시킬때 뭐 시키는데요?
+P1 	: 떡볶이나 치킨 시켜 먹어요
+P1 	: 떡볶이는 주로 엽떡으로요

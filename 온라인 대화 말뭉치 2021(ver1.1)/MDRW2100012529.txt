@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 안녕하세요
+P0 	: 스포츠 경기 관람하는 것 좋아하시나요?
+P1 	: 저는 야구 좋아하는데 직관 간 지는 꽤 된 것 같아요. 주로 중계방송 보구요
+P0 	: 아 저도 야구 경기 보는 것 좋아하는데
+P0 	: 야구장도 종종 갔는데 코로나 땜에 작년부터는 못 갔어요ㅜ
+P0 	: 어느 팀을 응원하시나요?
+P1 	: 저는 두산베어스 팬이에요
+P1 	: &name1&은요?
+P0 	: 오오 저희집도 두산베어스 팬인데ㅎㅎ
+P0 	: 저희 아버지는 ob베어스 때부터 팬이셔요
+P1 	: 올해는 성적이 좋지 않지만 그래도 이제 그럴 때도 됐다 싶긴 해요 ㅠ
+P0 	: 네 한동안 두산이 챔피언 계속 했으니까
+P0 	: 그래도 두산의 주전선수들이 떠나고 요즘 고전을 면치 못해서 안타까워요ㅜㅜ
+P1 	: 재정비하는 시간도 필요한 거죠
+P0 	: 네네~ 또 잘하는 날이 오겠죠!!
+P1 	: 그래도 오래 헤매지 않고 올라왔음 좋겠어요 ㅋㅋ
+P0 	: 네 저도 동감이예요!!ㅎㅎ
+P0 	: 스포츠 자체도 의미있지만 우승하면 더 좋으니까요ㅎㅎ
+P1 	: 유망주들이 빠른 시일 내에 자리 잡아서 세대 교체 잘 해야죠ㅋㅋ
+P0 	: 네 얼른 유망주들이 잘 크기를!!
+P0 	: 두산베어스 화이팅!!

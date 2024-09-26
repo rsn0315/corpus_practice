@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 좋아하세요?
+P1 	: 네 &name1&님은요? 추천 맛집있나요
+P0 	: 크레이지카츠요
+P1 	: 그렇구나 아직 안가봤는데 나중에 가볼께요
+P0 	: 서울3대 돈까스입니다ㅎ
+P1 	: 삼대돈까스구나! 전 돈까느느 그냥 사보텐 먹어요
+P1 	: 골목식당에 나온 연돈은 가보셨나요? 연돈이 제주도로 내려가고 나서 전 아예도전도 못해보고 있어요
+P1 	: 시간나실 때 말 걸어주세요 ㅋㅋ
+P0 	: 연돈 가보고시퍼요!!
+P1 	: 연돈 가보고 싶은데 제주도라서 ㅋㅋ이러대 평상못가보겠어요
+P0 	: 요즘도 못먹어서 난리래요...
+P1 	: 요즘에 연돈선 고로케를 판다더라고요 돈까스 못사면 고로케라도 사가란건지,,
+P0 	: 카츠볼도 맛있다네요ㅜ
+P1 	: 맛있어도 먹으려면 제주도에 가야하니 그림의 떡이군요
+P0 	: 그러게요ㅜ

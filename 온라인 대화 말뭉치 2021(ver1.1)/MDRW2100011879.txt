@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011879
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 봉사활동 가본 적 있어?
+P1 	: 예전에 몇 번 있었던거 같아
+P0 	: 어디로 갔었는데?
+P1 	: 기억안나;;
+P0 	: 엄청 오래 됐나 보구나
+P1 	: 응 좀 됐지
+P0 	: 요즘도 학교에서 봉사활동 가고 그러나?
+P1 	: 몰라 있긴 한데 코로나 땜에
+P0 	: 하긴 코로나 때문에 단체로 어디 가진 못 하겠구나
+P1 	: 그렇지
+P0 	: 코로나 때문에 참 못하는 게 너무 많다
+P1 	: 그런니까 빨리 끝나야 되는데
+P0 	: 그럼요 요양원이나 이런 데는 일손 모자라서 힘들겠다

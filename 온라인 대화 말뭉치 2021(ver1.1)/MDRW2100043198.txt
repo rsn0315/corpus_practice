@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043198
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아해요 떡 좋아해서
+P0 	: 쑥절편이랑 백절편중에 뭐가 좋으세요?
+P1 	: 큰 차이없지 않아요?
+P0 	: 쑥은 살짝 씁슬한 맛? 같은게 나던데요!
+P1 	: 쑥함량이 높다면 쑥절편이 더 좋아요
+P0 	: 헉 저는 백절편이요 ㅋㅋ 너무 써요
+P1 	: 쑥이 비싸서 대부분 색소일거에요
+P0 	: 그럼 앙금절편도 좋아하세요?
+P1 	: 절편안에 앙금들어간건가요?
+P0 	: 네 바람떡이랑 비슷해요!
+P1 	: 팥앙금 좋아해서 맛있을거같아요
+P0 	: 맛있어요 유행하기도 했고!
+P1 	: 너무 달지만 않으면 떡은 다 좋아해요
+P0 	: 저는 백설기 엄청 좋아해요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100004601
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 해외여행 좋아하세요?
+P1 	: 해외여행 보다는 국내여행 좋아해요!
+P1 	: 해외여행 좋아하세요?
+P0 	: 해외여행을 못가봐서 한번 가보고싶어요
+P0 	: 국내 어디가는거 좋아하세요?
+P1 	: 국내는 그때 그때 다른 거 같아요
+P1 	: 1년에 2번은 꼭 여행가는 편인데
+P1 	: 이번에는 4단계여서 못 갔어요ㅠㅜ
+P1 	: 최근에 여행간 곳은 경주였어요
+P0 	: 첨성대 보셨어요?
+P1 	: 네!
+P1 	: 첨성대는 언제 봐도 신기하고 흥미로운거 같아요
+P0 	: 경주 한옥마을도 가보셨어요?
+P1 	: 한옥마을은 안 가봤어요ㅠㅜ
+P0 	: 우리나라는 한옥 많은곳이 개인적으로 좋은거같아요
+P1 	: 맞아요!
+P1 	: 한옥체험은 해봤는데
+P1 	: 낮, 밤, 새벽에 따라 분위기가 달라서
+P1 	: 더 좋은거 같아요
+P0 	: 밤에가면 좋은곳은 어디있어요?
+P1 	: 저는 월정교가 예뻤던거 같아요
+P1 	: 동궁과 월지도 있지만
+P1 	: 월정교가 기억에 많이 남아요
+P0 	: 월정교도 경주에 있죠?
+P1 	: 네!

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034501
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페음료 좋아하세요?
+P1 	: 네!!! &name1&님은요?
+P0 	: 저도 좋아해요!
+P0 	: 보통 어떤거드세요 ㅎㅎ
+P1 	: 저는 아메리카노나 달달한 프라푸치노를 마시는편이에요.
+	  &name1& 님은요?
+P0 	: 저는 카페라떼나 밀크티 좋아해요!
+P0 	: 달달한거 좋아해요 ㅎㅎ
+P1 	: 오 ㅋㅋㅋ 어느카페에서요??
+P0 	: 저 보통 스벅가요 !
+P1 	: 오 스벅에도 밀크티를 팔아요??
+P0 	: 지금은 없는데 한때 한정메뉴로 나왔어요!
+P1 	: 얼그레이 밀크티 좋아하시나봐요
+P0 	: 네네 ㅎㅎ 근데 또 그냥 티는 안좋아해요 ㅋㅋ
+P1 	: ㅋㅋㅋ 달달해서ㅜ매력적이긴하죠
+P1 	: 집에서도 해드시는건 아니죠??ㅋㅋ
+P0 	: 집에서는 잘안해먹어요 ㅋㅋ
+P0 	: 커피먹어요!
+P1 	: 오 그렇군요. 설거지하기 너무 귀찮긴해요 ㅋㅋ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030651
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 김밥 가격이 많이 올랐어요
+P0 	: 김밥만 드시나요
+P0 	: 다른 음식은 없나요
+P1 	: 아까 전에 예감 과자랑 커피 먹었어요
+P0 	: 모든 물가가 올랐습니다
+P0 	: 오 저도 커피랑 먹었어요
+P1 	: 역시 남이 해준게 맛있네요
+P0 	: 찐 감자도 있어서 감자를 더 먹었지요
+P0 	: 몸에서 감자 냄새가납니다
+P1 	: 찐감자 맛있겠어요 소금 찍어 먹나요
+P0 	: 신 김치랑 먹었습니다
+P1 	: 좋은 선택입니다 맛있어 보이네요
+P0 	: 괜찮은 조합이네요
+P0 	: 감자가 아직 많이 있습니다
+P1 	: 물김치도같이 드셔 보세요
+P0 	: 놀러 오시면 드릴 텐데
+P1 	: 요즘 코로나 4단계로 놀러 가기 힘드네요
+P0 	: 김치는 백김치 지요

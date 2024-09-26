@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100036600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요
+P1 	: 식사하셨어요?
+P0 	: 네 간단히 집밥이요 &name2&님은요ㅡ
+P0 	: ?
+P1 	: 전 지금뭐먹을까 고민중이에요
+P1 	: 집밥뭐드셨어요?
+P0 	: 밑반찬과 밥이요..
+P0 	: ㅜ
+P1 	: 완전 집밥제대로시네여
+P1 	: 저도 있는반찬그대로 걍먹어야겠어요 땅콩조림이랑..밥
+P0 	: 드셨나요?
+P0 	: 전 지금 먹었는데 아직 일이 좀 남아서
+P0 	: 설거지도 귀ㅏㅊㄴㅎ아요
+P1 	: 네 오늘 닭갈비먹었어요
+P1 	: 진짜 먹고나서 치우는게 너무귀찮아요
+P0 	: 닭갈비 맛있겠네요
+P0 	: 갈비건 뭐건 누군가 남이 설거지 해주는게 제일 짱
+P1 	: 네 오늘 설거지당번 아빠여서 저는 편했네요
+P0 	: 아 더 좋네요 ㅋㅋㅋ 역시 다들  분담ㅎ야 편하죠
+P1 	: 네 ㅋㅋㅋ요리는제가하구여
+P1 	: 주말에는 또반대로..
+P0 	: 와 돌아가면서 가사역할까지 로테이션하는 모범적이 ㄴ사례네요
+P1 	: 딱 누구정해진건없는데 하다보니글케됐어요 ㅋㅋㅋㅋ엄마는 체력이많이안좋으셔서 손떼시구

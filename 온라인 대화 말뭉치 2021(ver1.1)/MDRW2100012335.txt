@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012335
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 봉사해본 적 있으신가요?
+P1 	: 중고등학교 다닐 때 해봤어요
+P1 	: &name1& 님은요?
+P0 	: 저는 지금 하고있어요
+P1 	: 어떤 봉사하시나요?
+P0 	: 아름다운가게랑 복지관 봉사를 해요
+P1 	: 복지관에서는 어떤 일 하세요?
+P0 	: 프로그램을 맡아서 기획, 준비, 실행, 평가해요
+P1 	: 쉽지만은 않을 것 같네요 봉사활동은 무슨 이유로 하시는 거예요?
+P0 	: 대학교 친구 소개로 시작했는데, 이제는 다들 너무 친해져서 그냥 연례 행사처럼 하게 되더라구요ㅋㅋ
+P1 	: 오 친한 사람들끼리 하면 재밌을 것 같아요
+P1 	: 힘든 건 없으세요?
+P0 	: 아무래도 시간을 주기적으로 빼야 하니 조금 부담되긴 해요
+P1 	: 그렇겠네요
+P1 	: 다른 동호회 같은 거는 하고 있으세요?
+P0 	: 다른 동호회는 안 하고 있어요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨 너무 습하지 않나요? 빨래가 잘 안마르더라고요
+P1 	: 네 습해요~ 
+	  빨래 잘 못 말림 냄새나죠
+P0 	: 계속 비가 내려서 이불 빨래 했다가 며칠을 말렸어요ㅠ
+P1 	: 두꺼워서 잘 안 말랐나보네요
+P0 	: 얇은 여름 이불이었는데도 그러네요..
+P0 	: 이럴 땐 큰 건조기 생각이 간절해요 ㅎ
+P1 	: 이불은 햇볕 쨍쨍할 때 말리는게 최곤데..
+P0 	: 요즘 날씨 변덕이 심해서 분명히 해떴을 때 세탁했는데 비가 오더라고요 ㅠ
+P1 	: 계속 비 예보가 있는거 같더라구요
+P0 	: 가을 장마 끝나도 내린다고 하네요.. 비 때문에 기분도 가라앉아요
+P1 	: 장마 끝나고도 비 온데요?
+	  가을비는 기온만 낮출거 같은데..
+P0 	: 네.. 끝나고도 비 자주 온다고 하더라고요
+P1 	: 이러다 바로 겨울 오는건 아니겠죠..
+P0 	: 요즘은 봄가을이 없고 여름 겨울만 있는 것 같아요

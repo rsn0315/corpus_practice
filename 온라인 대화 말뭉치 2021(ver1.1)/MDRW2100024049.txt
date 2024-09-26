@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024049
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 싫어하는 음식 있으세요?
+P0 	: 어머ㅜ 저 매운거 진짜 싫어해요
+P0 	: 특히 불닭소스 같이 인위적인거요
+P1 	: 헐 진짜요 ㅜㅜ?
+P1 	: 떡볶이도 안드시나요??
+P0 	: 떡볶이는 탄수화물 덩어리라서 안먹어요...
+P0 	: 대신 맛있게 매운 음식들은 괜찮아요~
+P1 	: 아아 ㅎㅎ 인위적인것만 싫어하시는군요?
+P0 	: 네 맞아요
+P0 	: 막 디진다돈까스 이런것도 싫구요
+P0 	: 캡사이신 소스 들어간거 다싫어요
+P0 	: 님은 어떤거 싫어해요?
+P1 	: 저는 버섯 싫어해요 ㅎㅎㅅ
+P0 	: 헐랭 버섯은 왜 싫어해요?
+P1 	: 그 버섯향을 안좋아해요!
+P1 	: 가지도 같은 계열이라 ㅋㅋ 안좋아한답니다
+P0 	: 아 ㅠㅠ 맞아요 그런거 싫어하는 사람 있더라구요
+P0 	: 특히 물컹거리는 식감이 그렇게 싫대요
+P1 	: 아 맞아욬ㄱㄲㄱ
+P1 	: 파프리카도 향때문에 싫어하네요ㅋㅋㅜㅜ
+P0 	: 앗 ㅋㅋㅋ 파프리카 싫어하면 피망은 어때요?
+P1 	: 피망도 싫어해욬ㅋㅋ 같은 친구친구라서 ㅋㅋ
+P1 	: 같은 친구친구 계열 안좋아해욬ㅋㅋ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아니 나는 이번에 망했어 ㅠ
+P0 	: 왜?
+P1 	: 전공이 두개나 실시간이야
+P0 	: 설마 1교시야?
+P1 	: 응 맞아....9시
+P0 	: 헐 정정기간에 정정할 수 있잖아
+P1 	: 정정할 수 있는데 다른 전공은 지금 수강가능인원이 0명이라 못해ㅠ
+P0 	: 인기많은 과야?
+P1 	: 응 인기가 너무 많아서 에타 보니깐 못 잡은 사람이 꽤 있더라구
+P0 	: 에타가 뭐야?
+P1 	: 에타는 같은 대학교에 다니는 사람들끼리 익명으로 학교 정보를 공유하거나 얘기를 자유롭게 하는 곳이야.
+P0 	: 오 신기하다
+P0 	: 그러면 교양은 몇과목 들어?
+P1 	: 교양은 두 과목!
+P0 	: 나는 이번에 6전공 하려고
+P1 	: 헉 6 전공? 그게 가능해?
+P0 	: 엉 비대면일때 최대한 많이 들어 놓는게 좋거든
+P1 	: 다 녹강이야?
+P0 	: 한과목은 실강 3번 있고 나머지는 다 녹강!
+P1 	: 와 진짜 좋겠다

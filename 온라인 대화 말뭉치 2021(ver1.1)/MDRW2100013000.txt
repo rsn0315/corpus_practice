@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 반려동물 키우시나요
+P0 	: 아뇨 고양이 키워보고싶어요
+P1 	: 아ㅎ 전 강아지 키우고 있어요
+P1 	: 한번도 키워본 적이 없으신가요?
+P0 	: 네 없습니다ㅎㅎ
+P1 	: 고양이는 무슨 종 키워보고 싶으세요?
+P0 	: 종 까지는 잘몰라요
+P1 	: 아 하긴 고양이 이즈 뭔들이지요
+P0 	: 눈이 너무 귀여워요
+P1 	: 댕냥이들은 천사지요
+P1 	: 놀라도 귀엽고 졸라도 귀엽고ㅎ
+P0 	: 울음소리도 귀여워요ㅠ
+P1 	: 가족들이 키우는 것을 반대하나요?
+P0 	: 네 조금 그래요ㅠ

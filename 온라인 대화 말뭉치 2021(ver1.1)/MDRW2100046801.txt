@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 오늘 금요일인데 저녁에 약속이나 계획있으신가요?
+P0 	: 아뇨집에갈거에요
+P1 	: 주로 집에서 뭐하면서 시간을 보내시나요?
+P0 	: 집에서 코딩공부해요
+P1 	: 오 어떤 언어공부하시나요?
+P1 	: 저는 파이썬 공부한적이 있어요 ㅎㅎ
+P0 	: 개발자라서요
+P1 	: 아 개발자이시구나,,!!
+P0 	: 주력은자바에요
+P0 	: 요론대화형 ai학습에관심이만아서
+P0 	: 평소에공부중이에요
+P1 	: 오,,개발자라는 직업이 항상 공부해야하는 직업으로 알고있었는데..
+P1 	: 진짜였네요ㅎㅎ
+P0 	: 나름열정을가지구 자기계발해야지만 꾸준하게성장하니까요
+P0 	: 지금은사람이하지만
+P0 	: 조만간 기계학습하는 ai가등장할거같아요
+P1 	: 그쵸~ 많은 사람들이 참여해주셔야 기계학습하는 ai도 나올 것 같아요 ㅎㅎ
+	  오늘도 열공하시고 좋은 결과가 나왔으면 좋겠네요:)

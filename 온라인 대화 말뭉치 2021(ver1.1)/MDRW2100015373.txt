@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 어떤 부분 신경쓰세요?
+P0 	: 몸의 부분이요?
+P1 	: 전  마스크때문에  기초 화장네 더 공들이네요
+P1 	: 미용 건강쪽으로요 ㅎㅎ
+P0 	: 오히려 안하게 되지 안나요?
+P0 	: 전 파데 바르면 마스크랑 트러블 나서..
+P1 	: 저도 기초만요
+P1 	: 기초이상 바르면  트러블이 ㅜㅜㅋ
+P0 	: 저도요.. 마스크에 습기 때문인거 가기도하고..
+P0 	: 마스크 닿는 분위로 여드름이 막 나요
+P1 	: 저오 오돌도돌 슬퍼요
+P0 	: 얼렁 코로나 끊나야... 
+	  시원하게 런닝해보고 싶네요..
+P1 	: 저는 나의시랑 사우나 가고싶어요 ㅎㅎㅎ
+P0 	: 나의신랑?
+P1 	: 사랑여 오타가 ㅋㅋ
+P0 	: 아..
+P0 	: 사우나 좋아하세요? 닺답하지 않아요?
+P1 	: 저는 넘넘 좋아해요 ㅜㅁ ㅜ
+P0 	: 하고나면 피부 안땡기나요?
+P1 	: 네전 괜찮아요 ㅎㅎ

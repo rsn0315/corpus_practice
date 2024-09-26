@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022984
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 자취 요리는 &name1&이 하신다고 했죠?
+P1 	: 잘하시는 요리 어떤 거 있나요?
+P0 	: 저는 자취용만 하긴하는데요
+P0 	: 닭도리탕 ,콩불, 된장찌개 부대찌개이런거 자주해요
+P1 	: 와 대단하신데요...
+P1 	: 요리 잘하시는 분들 보면 대단한 것 같앙ㆍ
+P1 	: 같아요
+P0 	: 백종원님만 믿으세요
+P0 	: 광명이 있을 것입니다...
+P1 	: 백종원님은 신이군요..
+P0 	: 네 그분은 많은 자취생들을 구원하셨어요
+P0 	: 요리방법만 알려주셔서
+P0 	: 식재료관리가 아직 미숙해요
+P1 	: 저도 예전에 백종원님 감자 짜글이 해봤는데
+P1 	: 그분 덕분에 새로운 맛을 알게 되는구나..깨달았어요
+P0 	: 짜글이 맛있죠 한식류는 정말 밥한끼 뚝딱인거 같아요
+P1 	: 네네ㅠㅠㅠ완전
+P1 	: 점심 드셨나요?
+P0 	: 네 샌드위치먹었어요
+P0 	: 점심드셨나요?
+P1 	: 네 순두부 찌개 먹었습니다!
+P0 	: 든든하게 드셨네요!
+P1 	: 네 어제 밥을 못 먹어서 오늘 밥 좀 먹었어요ㅎㅎ
+P1 	: 찌개류 오랜만에 먹었는데 든든하고 좋네요

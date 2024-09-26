@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100015393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 좋네
+P0 	: 웅 ㅋㅋ 피부 안좋으면 넘 스트레슨데 좋다
+P1 	: 그래 관리 열심히 해줘라
+P0 	: 옹옹 ㅜㅜ 모공 커지는거 넘 싫어
+P1 	: 잘 관리하면 괜찮다
+P0 	: 옹 ㅠㅠ이제 하루하루가 다른느낌ㅋㅋㅋ
+P1 	: ㅋㅋ 피부 좋은편이다 걱정마라
+P0 	: 웅 ㅋㅋ 엄마아빠 닮아서 피부가 좋아서 다행
+P1 	: 그래 다행이다
+P0 	: 웅 ㅋㅋ 민감하기도 하지만 안좋진 않으니까
+P1 	: 그래 관리하면 다 괜찮아짐
+P0 	: 욥 ㅋ 타고나는게 큰가보다
+P1 	: 그렇지

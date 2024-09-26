@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007710
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요ㅁ
+P0 	: !
+P1 	: 안녕하세요! 학생이신가요?
+P0 	: 네
+P0 	: &name2& 님은요?
+P1 	: 저는 졸업하지 좀 되었어요
+P1 	: 동아리활동 하세요?
+P0 	: 네 잡지 만드는 동아리 하고 있어요
+P1 	: 어떤 잡지인가요?
+P0 	: 지금은 어떤 주제의 잡지를 만들지 의논하고 있어요
+P0 	: 곧 있으면 개강이라 슬프네요....
+P1 	: 곧 개강이구나ㅠㅠ 수강신청 은 잘되셨나요?
+P0 	: 네 전 올클했습니다!!
+P1 	: 우와 축하드려요!!
+P0 	: &name2& 님은 졸업하고 뭐하고 지내세요?
+P0 	: ㅎㅎ감사해요
+P1 	: 저는 최근에 이직 준비중이예요
+P0 	: 같은 직종으로 이직 하시는 거예요?
+P1 	: 다른직종으로요!

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006127
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일하고계시나요
+P1 	: 네
+P1 	: 일하고 계시나요?
+P0 	: 네 저도요.몇년 되셨어요?
+P1 	: 전 취업을 늦게 해서 ㅋㅋㅋㅋ
+P1 	: 몇년 되셧어요?
+P0 	: 저는 10년정도요...
+P1 	: 첫직장에서 10년 다니신 거예요? 대단하시네요
+P0 	: 네...생존을 위해...ㅎㅎ...
+P1 	: 대단하세요
+P0 	: &name2&님 일은 할만하신가요
+P1 	: 일보다도 사람이 힘든것같아요 ㅋㅋㅋㅋ
+P0 	: 공감이요..동료??상사??
+P1 	: 상사요 ㅋㅋㅋㅋㅋ
+P0 	: 아...상사... 바뀔 가능성은 없죠??...
+P1 	: 이직을 해야...ㅋㅋㅋㅋㅋㅋ
+P0 	: 힘드시겠네요 업무스트레스는 어떻게 푸시나여
+P1 	: 저는 그냥 제 개인적인 행복을 찾는걸로 스트레스 풀어요

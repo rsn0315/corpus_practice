@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033251
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 추석내려가시나요
+P1 	: 아닝{emoji:‥}
+P0 	: 이번에 4단계 연장된거 보셨나요
+P1 	: 추석엔 성묘만 가요
+P1 	: 추석엔 어디가세요?
+P0 	: 성묘는 몇 명이서 가시나요
+P0 	: 전 안갈거에요
+P1 	: 성묘는 4명
+P0 	: 방역을 위해^^
+P0 	: 네 명은 너무 많지않나요~?
+P1 	: 가족이 네명이라
+P0 	: 한 명 안간다는데요~?
+P1 	: 야외니까
+P1 	: 괜찮아 보여서
+P0 	: 그렇군요
+P1 	: 네명은 가능하다고 했죠
+P0 	: 백신은 맞으셨나요?
+P1 	: 백신을 2차 안맞아서

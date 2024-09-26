@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100006325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일중에 뭘 제일 싫어하세요?
+P0 	: 저는 음...
+P0 	: 빨래 개기요
+P0 	: 빨래는 세탁기 건조는 건조기 설거지는 식세기 청소는 청소기
+P0 	: 그런데 빨래 개주는 기계가 없어요
+P1 	: 와 대박
+P1 	: 저도 빨래개기가 제일싫어요
+P0 	: 그쵸 예쁘게도 안개지고
+P0 	: 너무 귀찮아요
+P0 	: &name2&님은 집안일 분담하시나요?
+P1 	: 아 저는 혼자 살아요
+P0 	: 아그럼 혼자다해야하는군여 힘들겠다
+P0 	: 자취하세요?
+P1 	: 네 ㅋㅋㅋㅋㅋ
+P0 	: 학생이신가요?
+P1 	: 혼자산지 오래되어 익숙해요
+P1 	: 아니요 직장인입니다
+P0 	: 아하 그렇구나
+P1 	: &name1&님은요?
+P0 	: 저는 학생때 잠깐 자취하고 쭉 기숙사 살다가 19년부터 자취하다가
+P0 	: 작년에 결혼해서 이제 둘이 살아요
+P1 	: 오 저도 기숙사생활햇엇어요
+P1 	: 기숙사 오래 사셧으면 룸메 여러번 바뀌셧겟네요

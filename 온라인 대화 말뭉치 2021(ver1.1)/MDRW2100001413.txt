@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 군인
+sex : 남성
+birthplace : 전북
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요! 요즘 날씨가 가을 날씨가 됐어요
+P0 	: 날씨가 쌀쌀하네요 환절기 감기 조심하세요
+P1 	: 날씨가 추워지니 비염이 도졌어요..
+P1 	: 건강관리 따로 하시나요?
+P0 	: 저는 매일 헬스를 한답니다.
+P0 	: 약식동원이라는데 식사는 하셨나요?
+P1 	: 건강한 취미를 가지셨네요
+P1 	: 저는 간식을 많이 먹어버렸더니 배가 안고프네요
+P0 	: 저는 헬스를 하는데 &name2&님도 취미가 있으신가요?
+P1 	: 저는 책읽는게 취미랍니다
+P1 	: 좋아하는 책 있으신가요?
+P0 	: 저는 엮은이 김경식씨의 돈키호테를 좋아합니다
+P1 	: ㅋㅋㅋ무도를 감명깊게 보셨나 보군요
+P0 	: 네. 무한도전의 팬입니다. 종영해서 슬프네요ㅠ
+P0 	: &name2&님은 최근 무슨 책을 읽으셨나요?
+P1 	: 저는 최근엔 해리포터 신간 일러스트 북을 구해서
+P1 	: 한장한장 아껴보는 중입니다
+P0 	: 재미있는 책 보시는군요. 저도 한번 읽어봐야겠어요.
+P1 	: 해리포터는 최고의 판타지죠

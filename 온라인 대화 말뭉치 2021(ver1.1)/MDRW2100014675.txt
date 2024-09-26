@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 요새 드라마나 예능 보는거 있으세요?
+P1 	: 저는 유퀴즈? 봐요
+P1 	: &name1&님은 보시는거 있으신가요?
+P0 	: 저는 대탈출이요 ㅋㅋㅋㅋ
+P0 	: 유퀴즈 이번에 올림픽 선수들 나왔다고 해서 봐야겠다고 생각하긴했어요 ㅋㅋㅋ
+P1 	: 저는 대탈출 짤로 보면 무서워서 못보겠더라고요 무섭진 않나요?
+P0 	: 맞아요 지난번 좀비편은 진짜 무섭긴했어욬ㅋㅋㅋ
+P0 	: 그래도 멤버들?이 저보다 더 무서워해서 뭔가 위로가 되더라고요
+P1 	: 아 멤버들이 더 무서워해서 오히려 덜 무서운건가요?
+P0 	: 네ㅋㅋ 다들 덩치도 크고 그러니까 무서워하는모습이 예능적으로 느껴지는거 같아요
+P1 	: 대탈출 좋아하는 편 있으신가요?
+P0 	: 이전 시즌 까지 다 포함하면 타임머신 편이요!
+P1 	: 경성시대 맞죠?
+P0 	: 네 ㅋㅋㅋ 진짜 스케일이 엄청 커져서 놀라기도 했고
+P0 	: 스토리도 좀 감동었어요 ㅋㅋㅋㅋ
+P1 	: 그렇군요~~

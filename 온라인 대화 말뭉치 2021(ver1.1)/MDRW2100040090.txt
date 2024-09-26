@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100040090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니 아직.. 뭐 먹을까 생각 중
+P1 	: 메뉴 추천해주실???
+P0 	: 집에 된장찌개 있으면 그거에다 밥 먹어
+P1 	: 된장찌개... 오랜만에 먹고 싶긴하네
+P1 	: 근데 냉동실에 있어서 해동 시켜야돼
+P0 	: 아이고 그럼 점심에나 먹을 수 있겠네
+P0 	: 그냥 간단히 먹어 우유랑 시리얼 먹던가
+P0 	: 이따 저녁에 맛있는 거 해줄게
+P1 	: ㅋㅋㅋ알겠어 시리얼 먹을게
+P1 	: 엄마는 아침 뭐 먹을 거야?
+P0 	: 호박죽 있어서 그거 먹어야 돼
+P1 	: 호박죽 어디서 났어?? 직접 했어?
+P0 	: 어. 엊그제 어떤 아주머니가 호박을 주셔서. 호박죽 만들었어
+P1 	: 맛있겠당... 호박죽 안 먹은지고 백만년 된 것 같아
+P0 	: 너 호박죽 별로 좋아하지도 않잖아
+P0 	: 아님 이따 가져가서 먹던지
+P1 	: 이따 배고프면~~ 얼마전에 삼계탕 먹고 닭죽 먹었는데 너무 맛있었지 뭐야
+P0 	: 누룽지닭죽 맛있대. 나중에 그거 해줄게
+P1 	: 헐 누룽지 닭죽.. 이름부터 구수할 것 같아
+P0 	: 아빠가 밖에서 그거 먹고 와서 계속 맛있다고 칭찬했어
+P0 	: 저녁은 먹었어?

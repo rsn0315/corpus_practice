@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014559
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일기예보 보셨나요?
+P1 	: 네. 뉴스보면서 봤어요.
+	  내일은 비가 안온다네요.
+P0 	: &name2&님은 어떤 계절 좋아하세요?
+P1 	: 저는 살랑살랑 바람 부는  봄이요.
+P0 	: 저는 여름이요
+P1 	: 여름이 덥지만 자연이 살아있는 느낌이 들죠.
+P0 	: 표현이 풍부하시네요
+P1 	: 감사합니다.ㅎ
+	  님이 좋아하시는 여름이 거의 끝난 듯 싶은데 아쉽겠어요.
+	  올 여름에 피서 갔다 오셨어요?
+P0 	: 아니요 코로나때문에 못갔네요 &name2&님은요?
+P1 	: 여름 초입에 계곡 갔었는데요.
+	  장비 제대로 갖춰 다시 갈려니 폐쇄되었더라구요.
+P0 	: 속상하셨겠어요 여름 시원하게 나야하는데
+P1 	: 아이가 많이 속상해했어요.
+	  여름에 물놀이 꼭 시켜준다고 했거든요.
+P0 	: 다음 여름에는 꼭 휴가 갈수있길 바라요

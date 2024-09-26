@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100034951
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신거 있나요?
+P1 	: 옷 샀어요.
+P1 	: 할인하길래ㅎ
+P0 	: 이제 곧 가을이라 가을 옷 사셨어요?
+P1 	: 네 가을옷이랑 반팔도 한 벌 더 샀어요
+P0 	: 중고거래는 해보셨어요?
+P1 	: 아니요. 해보셨나요?
+P0 	: 네 저는 당근 종종 했어요
+P1 	: 요즘도 하세요?
+P0 	: 요즘은 올려둔게 없는데 한두달전에 했어요
+P1 	: 사기도 하세요?
+P0 	: 네 최근에는 동물의 숲 타이틀 샀어요
+P1 	: 저두 그거 사서 해봤어요.

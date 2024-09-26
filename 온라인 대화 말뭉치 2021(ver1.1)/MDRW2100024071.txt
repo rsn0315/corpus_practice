@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100024071
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 무슨 일 하석요?
+P0 	: 구직 활동 중 입니다
+P0 	: 서비스업이 힘들다고 알고있는데 대단하세요
+P1 	: 호텔 일이 적성에 맞아서 괜찬아요
+P0 	: 적성에 맞는 직업을 찾으셔서 부러워요
+P1 	: 업무 스트레스는 좀 있어도 괜찮아요
+P0 	: 저는 생산직을 생각하고있어요
+P1 	: 힘들겠지만 응원해요
+P0 	: 생산직이 몸은 힘들겠지만 보람있을 것 같아요
+P1 	: 직업은 귀천이 없으니까요
+P0 	: 맞아요 어떤 직업이든 본인이 만족하면되니까요
+P1 	: 그렇죠 구직활동은 잘 되가시나요
+P0 	: 열심히 하는 중이긴해요
+P1 	: 저는 이직생각이 조금 들긴해요
+P0 	: 낼출근!

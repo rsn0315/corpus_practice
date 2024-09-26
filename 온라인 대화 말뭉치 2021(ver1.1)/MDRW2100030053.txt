@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030053
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 곧 있으면 머리를 염색해야되는데
+	  집 앞을 갈까 아님 멀리 나갈까?
+P0 	: 제 생각에 집 앞이 좋을 것 같아요!
+P1 	: 왜 그렇게 생각하니?
+P0 	: 집 앞이 더 꼼꼼하고 싸요
+P0 	: 보통?
+P1 	: 그럴 수도 있겠구나
+P1 	: 요즘 운동 많이 안하는 것 같던데?
+P0 	: 너무 더워서 잘 안했고 요즘은 걷기 운동 조금씩 해요!
+P1 	: 요즘 더웠지 집 근처 산 등산하는건 어때?
+P0 	: 더워서 싫어요...
+P1 	: 등산이 얼마나 좋은 운동인데 그러냐
+P0 	: 등산 싫어요 차라리 수영할래요
+P1 	: 그럼 수영장은 열었고?
+P0 	: 아직 백신 못 맞아서 수영장 못가요ㅠㅠ
+P1 	: 언제 갈 수 있는데?
+P0 	: 2차까지 완료해야돼요
+P1 	: 그럼 그냥 등산가자니까

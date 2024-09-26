@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018615
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘도 비 예보가 있네요. 우산 챙기셨나요?
+P1 	: 네 우산 챙겼어요. 지금 비가 오네요
+P0 	: &name2& 지역은 벌써 오는군요! 이제 정말 여름이 끝난거같네요
+P1 	: 어젠 비 안왔는데 짐 비오고 바람 불어도
+P0 	: 바람이 이제 제법 차가워요
+P1 	: 그러게요. 얇은거 하나 걸쳐야겠더라구요
+P0 	: 비오는 날 좋아하시나요?
+P1 	: 소나기 오는거 좋아해요
+P1 	: 눈 오는거 조아하나요?
+P0 	: 네! 전 비보단 눈이 좋아요!!
+P1 	: 눈 내리는건 좋은데 도로에 쌓이는건 싫더라구요
+P0 	: 그건 그래요! 그냥 집 안에서 보는 것만 좋은 거 같아요
+P1 	: 그니까요ㅡ 눈 쌓이면 길 미끄러워서 안 좋더라구요
+P0 	: 맞아요 그리고 길도 너무 더러워져요 ㅠㅠ!!!
+P1 	: 하루종일 비 올 거 같아요
+P0 	: 비가 진짜 무섭게 내리더니 지금은 또 갰어요.. 날씨가 정말 오락가락이네요
+P1 	: 바와서 춥네요..거디건이라도 챙겨올걸

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018064
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 맛집 있으세요??
+P1 	: 흠 ... 이태원에 버거 파는데
+P1 	: 이름뭐지ㅠㅠㅠ 엄청 유명한덴데
+P1 	: 아 다운타우너 아보카도 버거 좋아해용
+P0 	: 세상에 저 거기 최애햄버거집이에요
+P1 	: 헉헉 ㅋㅋ 통햇당
+P1 	: 또 어디조아하세용 ㅋㅋ
+P0 	: 음 니뽕내뽕 아세요?? 거기로뽕이 진짜 맛있어요
+P1 	: 아 ㅋㅋㅋ 다른거 먹었는데 로뽕 안먹어봑어요
+P0 	: 다른거 뭐드셨었어요??
+P1 	: 그냥 일반 짬뽕 ? ㅋㅋㅋㅋ
+P1 	: 로제짬뽕이에요?
+P0 	: 네 로뽕은 로제에요
+P0 	: 위에 치즈가득이라 맛있어요
+P1 	: 신기하다 ㅋㅋㅋ
+P1 	: 로제 떡볶이보다 맛있나용 ㅋㅋㅋ
+P0 	: 헛 생각지 못 한..음 막상막하에요
+P0 	: 로뽕이 덜 질리는 거 같아요
+P1 	: 오호...한번 가보겟습니다 ..로뽕!!
+P0 	: 네 강추해요!!

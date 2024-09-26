@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가사일 분담하여 하시나요?
+P1 	: 나름 나눠서 가사분담해요
+P0 	: 저는 1인가구라 가사일은 제가 전부해요
+P1 	: 그렇군요 힘드시겠네요.
+P0 	: 괜찮아요. 가사분담 어떻게 하시나요?
+P1 	: 제가 직장인이라 주말에 청소해요
+P0 	: 그럼 평소식사는 어떻게 하세요?
+P1 	: 식사시간이 다 달라서 각자 해먹어요.
+P0 	: 치우는것도요?
+P1 	: 네 치우는것도 각자ㅎ
+P0 	: 좋은방법인것같아요!
+P1 	: 아직 미혼이신가요?
+P0 	: 네 ㅎㅎ
+P1 	: 나중에 가족꾸리면 그렇게 해보셔요

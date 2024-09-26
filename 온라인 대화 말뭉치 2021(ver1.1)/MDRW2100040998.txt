@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100040998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁머드실건가요
+P0 	: 저는 토스트해먹었어요!
+P0 	: 저녁 뭐 드셧어요?
+P1 	: 저짜장면먹었습니덩
+P1 	: 토스트맛있겠네용
+P0 	: 오 짜장면맛잇겟네요 탕수육도 드셧어요?
+P1 	: 당연하죠 사천짜장먹었는데
+P1 	: 맵더라구요 ㅠㅠ
+P0 	: 오 사천짜장 맛잇겟네요
+P0 	: 매운거 잘 못드세요?
+P1 	: 넹넹맵찔이입니당...ㅠㅠㅠ
+P0 	: 앗 그렇군요 ㅠㅠ
+P0 	: 탕수육은 찍먹이세여?
+P1 	: 저는
+P1 	: 찍든 붓든
+P1 	: 잘먹어요
+P0 	: 저두에요 ㅋㅋㅋㅋ둘다맛잇어요
+P1 	: 머든맛있어요 ㅠㅠ
+P0 	: 맞아요 ㅋㅋㅋㅋ
+P0 	: 배달 최애 메뉴가 몬가요?
+P1 	: 저는 아주 다양하게 써요
+P1 	: 요근래에는 와플이 땡기더라구요 ㅠㅠㅠ
+P0 	: 크 와플 맛잇죠 요즘에 엄청 다양하더라구요
+P1 	: 맞어요 크로플이 유향이자나요
+P1 	: 저는 그옛날느낌와플이 조터라구요!
+P0 	: 저두요 ㅋㅋㅋㅋ얇은와플에 사과쨈 생크림!

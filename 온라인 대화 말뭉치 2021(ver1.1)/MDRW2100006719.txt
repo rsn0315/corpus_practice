@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100006719
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 많이 보세요?
+P1 	: 요즘은 잘 안보네요
+P1 	: 책 좀봐야하슨데
+P1 	: &name1&는 어떠세요
+P0 	: 저는 꽤 읽어요
+P0 	: 근데 만화책도 많이 봐요ㅋ
+P1 	: 최근에 뭐 읽으셨어요?
+P0 	: 전 아몬드요ㅋ
+P1 	: 소설이죠 그거
+P0 	: 네 무표정한 표지에요
+P1 	: 내용이 뭐에요?
+P0 	: 뇌를 다쳐 감정을 잃어버린 소년의 내용이에요
+P0 	: 청소년 작품이라는데 어렵지 않나 싶어요
+P1 	: 그렇구나
+P1 	: 소설 읽어본게 언제인지
+P1 	: 저는 부의 인문학을 가장 마지막으로 읽었는데
+P1 	: 요즘 항상 재태크나 경제관련 책만 읽어요
+P1 	: 그나마도 잘 안읽어서
+P0 	: 저도 주식책 읽어요ㅎ
+P0 	: 경제를 알아야겠더라고요
+P1 	: 네네
+P1 	: 진짜 이제 필수죠 경제상식
+P0 	: 근데 어렵더라고요
+P0 	: 그래야 부자되겠지만ㅋ

@@ -1,0 +1,155 @@
+# FILE DATA
+ID : MDRW2100000172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210517
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 몇시쯤   도착?
+P1 	: 지금출발
+P1 	: 둘다 전화 안받네?
+P0 	: &name3& 수업
+P1 	: &name4&인?
+P0 	: 자지말라니까 그새 자고 있네
+P1 	: 으이그
+P1 	: 현재 위치는?
+P0 	: 아직도 송장번호만 나옴
+P1 	: {emoji}
+P1 	: 맛 점하세요
+P0 	: 자기도
+P0 	: 영통가능?
+P0 	: 병원
+P1 	: ㅇㅇ
+P1 	: 갔다왔어?
+P0 	: 어
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210518
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: &name5&?
+P0 	: 어
+P1 	: 애들은?
+P0 	: 공
+P1 	: 올
+P1 	: 저녁에 치맥?
+P1 	: ㅋ
+P0 	: 아니
+P1 	: ㅇㅇ
+P0 	: 김밥 쌀거야
+P0 	: 자기 치킨 먹고싶으면 집앞에서 사
+P1 	: 아냐~
+P1 	: 아 김밥은 지금봤어
+P0 	: ㅇ
+P1 	: {share:photo}
+P1 	: {share:photo}
+P1 	: 맛 점하세요
+P0 	: 자기도
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210520
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 이따갈거야?
+P1 	: ㅇㅇ
+P0 	: 저녁 먹고 가게 5시쯤 와
+P1 	: 헉
+P0 	: 4시에 가면   조금 보면  또 배고프대고 징징대
+P0 	: 9시까지 한다며?
+P1 	: ㅇㅇ
+P1 	: 
+	  1층으로
+	  내 우산도 부탁
+	  
+P0 	: ㅇ
+P1 	: 맛점하세요
+P0 	: 자기도
+P1 	: 네

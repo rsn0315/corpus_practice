@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2& 님! 요즘 읽고있는 책 있으세요?
+P1 	: 아뇨ㅠㅠ 사둔건 많은데 시간이ㅠㅜ읽는거 있으세요?
+P0 	: 저도ㅋㅋㅋ 옛날에 사두고 안읽은책 한권씩 읽는중이에요..
+P0 	: 어떤 책 사셨어요?
+P1 	: 저도 신간은 한번에 읽어야해서 읽은책만 손이 가네요 ㅎㅎ
+P1 	: 소년이 온다 샀는데ㅠㅠ 한장도 못읽었어요ㅠ
+P0 	: 아 한강 작가님 책 맞죠? 유명해서 저도 언젠가 읽어야지 해놓고 아직 안읽은책이네요..
+P1 	: 네 저도...근데 언제 읽을지..ㅎㅎ
+P0 	: 전 정세랑작가님 책 유명하길래 작년에 3권 사놓고
+P0 	: 이제 한권 읽었어요ㅋㅋㅋ
+P1 	: 예전같으면 막 하루에 한권도 읽는데 요즘은 힘들어요ㅋㅋ
+P0 	: 와 하루에 한권.. 엄청 열심히 읽으셨네요
+P0 	: 어떤 책 좋아하세요?
+P1 	: 근데 그렇게 읽은책은 추리소설같은거였어요ㅋㅋ
+P0 	: 아 저도 옛날에 추리소설 많이 읽었어요
+P0 	: 혹시 히가시노게이고책 읽어보셨어요?
+P1 	: 아 네 자주봤어요ㅎㅎ
+P0 	: 추리소설하면 히가시노책밖에 생각이안나네요..ㅎ 엄청 다작하는 작가잖아요

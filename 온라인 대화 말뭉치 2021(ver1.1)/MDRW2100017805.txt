@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P1 	: 뮤지컬 좋아하세요?
+P0 	: 좋아해요 근데 아이낳고 코로나 있고 본지 오래 ㅜㅜ
+P1 	: 저도요..ㅠ 애기 낳고 뭘 보러가본 기억이 없네요 ㅠ
+P0 	: 그쵸 ㅜ 공연보고 싶어도 뭐하는지도 모르겠네요
+P1 	: 맞아요..뭐하는지도 몰라요 ㅠ
+P1 	: 최근 보신 영화 있으세요?
+P0 	: 아니요 극장 마지막은 주토피아 ㅋㅋㅋㅋ ㅠㅠ
+P1 	: 앗..엄청 오래전인듯..
+P0 	: 맞아요 ㅋㅋ 만삭때 ㅋㅋ ㅠㅠ
+P1 	: 전 뭘 봤는지도 기억이 안 나요 ㅠㅠ
+P0 	: 아 정만 슬프네요 문화생홫도 해야하는데 ㅜ
+P1 	: 요즘엔 그냥 집에서 넷플릭스 같은 걸로만 보게 되더라구요.
+P0 	: 극장도 안가고 집에서 보고 ㅠ 오늘도 확진 많나요
+P1 	: 이쪽은 아랫지방이라 많진 않아요~
+	  한참 많이 나왔는데 살짝 소강상태인 것 같아요:)
+P0 	: 그럼 아래쪽은 공연 좀 하나요
+P1 	: 음 아무래도 모이면 불안하니 별로 안 하는 것 같더라구요.

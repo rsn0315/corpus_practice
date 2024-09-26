@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010908
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 창문 다 닫았어
+P0 	: 잘했어~ 태풍 때문에 새벽에 바람 많이 분다고 하더라
+P1 	: 부산 쪽엔 시속 100km 강풍이 불거래
+P0 	: 훌.. 뭐 하나 부서지겠는데
+P1 	: 꽤 강력한 것 같아.. 조심해야지
+P0 	: 비는 지금은 그친 것 같은데 바람이 많이 부네
+P1 	: 걸쇠까지 다 잠궜어. 혹시 모르니까
+P0 	: 근데 문 다닫았는데도 안덥네~ 선풍기도 안틀었는데
+P1 	: ㅇㅇ 닫기 전에 집안 온도가 23도더라고
+P0 	: 어쩐지 ㅎㅎ
+P1 	: 별 일 없이 태풍 지나가면 좋겠네
+P0 	: 여기야 뭐 태풍이랑은 거리가 있으니 괜찮겠지
+P1 	: 그래두.. 부산 쪽은 오늘 잠 못자겠다
+P0 	: 태풍은 이제 지나간건가

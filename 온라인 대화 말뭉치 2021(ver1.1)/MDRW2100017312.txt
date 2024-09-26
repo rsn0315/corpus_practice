@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017312
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 오늘 날씨 어땠어요?
+P1 	: 비도 안오고 안덥고 딱 좋았어요! &name1&님 있는쪽은요?
+P0 	: 어제까지 비가 엄청 오더니
+P0 	: 오늘은 여름처럼 더웠어요
+P0 	: 무슨 계절 좋아해요?
+P1 	: 해가 쨍쨍했어요? 여긴 흐렸는데
+P0 	: 어제 비 구름이 &name2&님 지역으로 갔나봐요
+P1 	: 저는 봄이요! 벚꽃을 좋아해서요ㅎㅎ
+P0 	: 오늘 햇빛 쨍쨍에 매미소리로 시끄러웠어요
+P0 	: 저는 가을요
+P1 	: 비는 다행히 안왔어요 그만 왔으면 좋겠어요ㅠㅠ
+P0 	: 가을 장마라던데 언제 끝나려나.... 비 그치면 금방 겨울 오겠어요
+P0 	: 벚꽃 좋아요 벚꽃 구경 재밌는데....
+P1 	: 가을 아직 시작 안하지 않았어요?ㅋㅋㅋ
+	  여름은 확실히 끝난 것 같아요
+P0 	: 요즘은 뽐! 여~~~름 가을 겨~~~~울
+P0 	: 이런 식이라 가을도 짧을듯 해요
+P1 	: 아ㅋㅋ 맞아요 진짜ㅠㅠ 요즘엔 날씨도 오락가락해서 단풍도 봄여름에 물들고.. 가을은 스쳐지나갈거같아요
+P0 	: 올해였나? 봄에 눈 왔던게 기억나네요
+P1 	: 아 맞아요 기억나요! 눈오리 아시죠? 그거를 살까말까 고민하다가 뒤늦게 눈와서 샀었던 기억이 나네요ㅋㅋ
+P0 	: 네 알아요 근데 여긴 눈이 올까말까 하는 곳이라 사진으로만 봤어요

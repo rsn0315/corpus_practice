@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016063
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅎㅎ 이번주 내내 노는 수업이라더니 진짜네
+P0 	: 내가 오전에 준비물 공기 챙겨놨는데 꼬맹이가 없는 줄 알고 방금 뛰쳐나왔어 ㅋㅋ
+P1 	: ㅎㅎ 준비물을 스스로 안챙기니 더해~ 챙겨주지 마
+P0 	: 리스트 주고 스스로 챙기라고 해야겠어ㅠ
+P1 	: ㅇㅇ 자기가 안챙기면 뭐가 어디에 있는지도 기억 안나
+P0 	: 매일 주간학습계획 보라고는 하는데 뭘 보는지 모르겠어 ㅎㅎ
+P1 	: 아직 저학년이니 뭐.. 계속 연습시키는 수밖에
+P0 	: 큰 아들보니 이제 슬슬 준비물 스스로 챙기던데 ㅎㅎ
+P1 	: 우리 다닐 때는 누가 챙겨줘~ 1학년 때부터 스스로 다했지ㅋㅋ
+P0 	: 그 때 생각하면 요즘 애들이 스스로 하는 게 부족하긴 하네
+P1 	: 내 생각엔... 요즘 애들이 아니라 엄마가 너무 다 해주는 듯
+P0 	: ㅎㅎ 너무 헬리콥터 맘인가..ㅠ
+P1 	: 너무 다 해주지마
+P0 	: 알았어.. 준비물 정도는 스스로 챙길 수 있게 해볼께

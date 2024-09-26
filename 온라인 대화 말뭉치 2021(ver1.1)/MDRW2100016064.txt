@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016064
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 ㅎㅎ
+P0 	: 하고 계신 운동 있으신가요
+P1 	: 저는 주말에 축구하고 있습니다
+P1 	: 운동 좋아하시나요
+P0 	: 저는 좋아하는 편은 아닌데 하려고 노력하늕편입니다
+P0 	: 주말에 축구하시는구나 팀이 있는건가요?
+P1 	: 코로나 때문에 친구들끼리 조촐하게 하고있어요 ㅎㅎ
+P1 	: 어떤 운동하시나용
+P0 	: 저 최근에 체력이 너무 떨어지는ㅈ거 같아서 헬스 끊었어요
+P0 	: 주로 유산소 하는편이에요
+P1 	: 오 대단하시네요 날마다 헬스 가시나요?
+P0 	: 저녁시간에 주 4일 정도 가는 편이에요 시간이 잘 안나서
+P0 	: 드시고계신 영양제는 있으신가요
+P1 	: 전 비타민만 챙겨먹고 있습니다 ㅎㅎ
+P1 	: 부지런하시네요
+P0 	: 저도 종합비타민 최근에 챙겨먹기시닥했어요
+P0 	: 아무래도 이제는 영양제의 도움을 받아야 할거같더라구요
+P0 	: 비타민 어떤거드세요
+P1 	: 평일에 밖엘 잘못나가서
+P1 	: 비타민디 챙겨먹고 있습니다
+P0 	: 비타민D중요하죠

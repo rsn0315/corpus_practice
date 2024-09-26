@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100030192
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘 동아리 갓다왔어?
+P0 	: 비대면 동아리 활동 말야
+P0 	: 아니
+P1 	: 비대면 동아리 하구왓어?
+P0 	: 오늘은 안했어
+P1 	: 그렇구나...
+P1 	: 비대면 동아리는 어떤식으루 하는뎅?
+P0 	: zoom 있자나
+P0 	: 그걸로 카메라 키고 선생님이 진행한대
+P0 	: 사실 나두 해본적은없어
+P1 	: 줌 알쥐 나도 싸강듣는 대학생이니깐
+P0 	: 들은거야
+P1 	: 카메라를 킨다니..
+P0 	: 좋겠다
+P1 	: 부담스럽겟다
+P0 	: 그러게 ㅋㅋ
+P0 	: 진짜 스트레스받겠다
+P0 	: 그라도 학교 직접가는거보단 나은거같아
+P1 	: 맞아 ㅎㅎ
+P0 	: 귀찮구 등교길이 귀찮잖아 ㅎㅎ
+P1 	: 학교가는길이 정말 귀찮지..
+P1 	: 인정ㅋㅋ
+P0 	: 다음주부터 고등학생은 전면등교라고 하더라구

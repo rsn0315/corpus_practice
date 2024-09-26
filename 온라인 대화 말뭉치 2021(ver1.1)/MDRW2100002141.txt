@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100002141
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지난 도쿄 올림픽 보셨나요?
+P0 	: 네 업무시간이라 잘 챙겨보지는 않았지만 양궁은 다 본거같아요
+P0 	: 양궁 보셨어요?
+P1 	: 네 양궁 봤어요!!
+P1 	: 엄청 먼데 잘맞추는게 너무 신기하더라구요
+P0 	: 저는 심박수가 너무 신기하더라구요
+P1 	: 아 맞아요!!!
+P1 	: 또 다른 관전 포인트네요!!
+P1 	: 양궁 한번도 안해봤는데
+P1 	: 올림픽 보고 한 번 해보고싶어졌어요ㅎㅎ
+P0 	: 저두요 시내지나가다보니 양궁장이 있긴하더라구요 실내라 그런맛은 안날것같지만 들어가보고싶더라구요
+P0 	: 안산 너무 대단한거같아요
+P1 	: 그쵸
+P1 	: 금메달 1개도 대단한데 3개라니
+P1 	: 얼마나 열심히 연습했을지...
+P0 	: 심박수도 진짜 떨림이 없더라구요
+P0 	: 표정도 너무 침착하고
+P1 	: 맞아요
+P1 	: 너무 멋있고 대단해요
+P1 	: 배구 경기도 보셨나요?
+P0 	: 배구는 한번봤는데 너무 편파판정도 심하고
+	  속답답해서 보다 말았어요
+P1 	: 맞아요ㅠㅠㅠ
+P0 	: 외국선수들은 남자선수들처럼 힘이 느껴지더라구요
+P1 	: 보다가 판정 때문에 화난적이 많아요
+P1 	: 진짜 브라질 경기 보면서 너무 놀랐어요...
+P0 	: 보는사람도 답답한데 선수들은 오죽 답답할까싶어 너무 안타깝더라구요

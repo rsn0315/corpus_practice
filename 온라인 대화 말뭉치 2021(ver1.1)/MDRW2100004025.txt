@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100004025
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 남동생있어요
+P1 	: &name1&님은요?
+P0 	: 저는 언니요 ㅎㅎ
+P0 	: 집안일은 분담하시나요?
+P1 	: 음 같이 살 때는 분담하긴했는데
+P1 	: 보통 제가 다 했어요
+P1 	: &name1&님은 분담하시나요?
+P0 	: 오 멋지세용
+P0 	: 네네 혼자하기엔 일이 넘 많아요 ㅠㅠ
+P1 	: 주로 어떤 일 분담하세요
+P0 	: 흠 한명이 밥을하면 한명은 설거지하고 ㅋㅋ 그렇게여
+P1 	: 설거지 너무 귀찮지않나요
+P1 	: 저는 하기싫어서 마지막에 먹은사람이 설거지하기 하고 도망쳤는데
+P1 	: 너무 약오르나요
+P0 	: ㅋㅋㅋㅋㅋㅋ그럴수도있죠
+P0 	: 저는 설거지는 괜찮은데
+P1 	: 네
+P0 	: 빨래개고하는게 넘 귀찮아여
+P1 	: 맞아요
+P1 	: 그거 너무 귀찮죠
+P1 	: 세탁기도 건조기도 있는데 왜 빨래정리기계는 없는거지
+P0 	: 그니깐요 ㅋㅋ 건조기땜에 일은 수월해졌는데
+P0 	: 꺼내서 개는게 넘 귀찮 ..ㅠ
+P1 	: 인정합니다

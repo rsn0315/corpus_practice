@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하시나요
+P1 	: 야구 보는거 좋아해요
+P0 	: 국내야구 보시나요?
+P1 	: 네. 국내.메이저 우리나라 선수 나오면 봐요.ㅋㅋㅋ
+P0 	: 어떤 구단 응원하시나요?
+P1 	: nc요
+P0 	: 오 엔씨 직관도 많이 가보셨나요?
+P1 	: 자주는 못 가고 몇 번요
+P0 	: 저도 예전에 한번 가봤는데 진짜 재밌더라구요
+P1 	: 어느 구단 응원 하세요?
+P0 	: 저는 야구보단 축구 좋아합니다!
+P1 	: 아. 국대 축구는 봐요.ㅋㅋㅋ
+P0 	: 저는 해외축구도 자주봅니다

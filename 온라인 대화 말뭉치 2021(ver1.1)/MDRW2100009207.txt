@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009207
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 갑자기 서늘해지지 않았나요?
+P0 	: 비가 많이와서 그런거 같아요
+P0 	: 저는 옥탑방사는데ㅜ
+P0 	: 비가새더라구요
+P1 	: 괜찮아요^^ 앗 ㅠ 비가 새다니 ㅠ ㅜ
+P1 	: 원랜 더위가 더 오래갔던것 같은데 요즘 날씨가 이상한것 같아요
+P0 	: 이상기후라서 점점더심해질것같네요
+P0 	: 슬픕니당흑흑
+P1 	: 갑자기 폭우가 쏟아지질 않나~ㅠ
+P0 	: 이게 열대지방서 나타나는 호우성 기후래요 갑자기 쏟아지다가 그치다가 하는거요 ㅜ
+P1 	: 맞아요 동남아 가면 나타나는.폭우요~
+P0 	: 전 그래서 우산겸 양산을 꼭들고다녀요
+P1 	: 맞아요 요즘은 완전 필수예요. 다음주는 계속 비더라고요
+P0 	: 홀ㅜㅜ호공
+P0 	: 내일은 태풍이 북상해서 남부지방권은 다 비오더라구요
+P0 	: 제가있는지역도 긴장해야겠어요ㅜㅜㅜㅜ
+P1 	: 어쩐지.. 올해 태풍이 안온다 싶었어요. 드디어 오는군요
+P0 	: 네 큰영향없을지라도 비는 많이 뿌리겠더라구요ㅋㅋㅋ
+P0 	: 우산필참입니다

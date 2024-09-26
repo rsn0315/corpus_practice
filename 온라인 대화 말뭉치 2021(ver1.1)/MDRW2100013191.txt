@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 음악 듣는 거 좋아하시나요?
+P1 	: 네 가끔 꽂히는 노래있으면 들어요 자주듣는편은 아니지만
+P1 	: &name1&은여
+P0 	: 저도 비슷해요!
+P0 	: 요즘엔 노래 다섯 개만 무한 반복으로 돌려 듣고있어요ㅎㅎ
+P1 	: 오 어떤노래 들으시나요
+P0 	: 싱스트리트 영화보셨나요?
+P1 	: 아뇨 음악영화인거져?
+P0 	: 그 영화ost두개랑 트로이시반 노래 세 개
+P0 	: 이렇게듣고있어요
+P0 	: 넵넵 음악영화요!
+P1 	: 오 좋다고 들었는데 한번 들어봐야겠네요
+P1 	: 좋아하는 뮤지션은 누구에요?
+P0 	: 엄청 팬인 가수는 없는데 두아리파랑 찰리푸스랑 악뮤 좋아해요 ㅎㅎ
+P0 	: &name2&은 좋아하시는 가수 있나요?
+P1 	: 저도 엄청 빠지고그런건아니구요 악뮤랑 자우림좋아해요ㅎㅎ
+P0 	: 자우림도 좋죠!
+P1 	: 네 콘서트에서 라이브듣고 눈물좔좔흘리고왔었어요ㅠ
+P0 	: 자우림 콘서트 ㅠㅠㅠㅠ 저도 한 번 가보고 싶어요 ㅠㅠㅠㅠㅠ
+P1 	: 진짜 너무좋았어요ㅜㅜ라이브첫소절듣는데 소름이쫘악..

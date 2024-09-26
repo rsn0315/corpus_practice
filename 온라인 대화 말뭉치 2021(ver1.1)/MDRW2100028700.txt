@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100028700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋았던 여행지 있으세요?
+P1 	: 음 다 좋아서 꼽기 힘드네요
+P1 	: 기억나는 여행지 있으신가요?
+P0 	: 저도 다 좋았던거같아요 ㅎ 싱가포르는 다시 가보고싶어요
+P1 	: 우와 저는 싱가포르 못가봤어요ㅠ 어떤점이 그렇게 좋았나요?
+P0 	: 혼자 다녀도 위험하지않고
+P0 	: 뭔가 그냥 다 좋았어요
+P0 	: 저는 호텔 수영장이 좋았어요
+P1 	: 오 그 유명한 인피니티풀 호텔 가셨어요?
+P0 	: 네!  비싸서 하루 지냈는데 수영장에서 잘 못놀아서 아쉬웠어요
+P1 	: 헐 사람이 많앗나요? 왜 잘 못놀았어요? ㅠㅠ
+P0 	: ㅠ 체크인 시간도 늦고 이것저것 하다보니 늦았어요ㅠ
+P1 	: ㅠ아쉬우셨겠어요ㅠ 그래도 한번 더 가야할 이유가 생겼네요!!
+P0 	: 네ㅠ근데 안가본나라도 많아서요
+P0 	: 일단 코로나부터ㅠ
+P1 	: 맞아요ㅠ 저는 원래 20년 여름에 미서부여행 길게 가려고 준비중이었는데ㅠㅠ 다 엎어져서 너무슬퍼요
+P0 	: 우와
+P0 	: 미서부
+P0 	: 안타깝네요ㅜ
+P0 	: 망할 코로나가

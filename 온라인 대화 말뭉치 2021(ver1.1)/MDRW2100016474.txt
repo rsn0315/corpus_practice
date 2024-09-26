@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016474
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 점심 뭐 드셨어요?
+P0 	: 점심에 간장비빔국수에 김치잘게썰은거랑 해서 먹었어요
+P1 	: 비빔국수 주로 김치처럼 빨갛게 매콤 양념으로 먹지만 가끔 간장양념도 맛있는 것 같아요
+P0 	: 맞아요
+	  &name2&님은여?
+P1 	: 저는 빵 먹었어요
+	  어제 빵 사고 남은게 있어 계란과 함께 먹었어요
+P0 	: 오.. 어디빵집인데요?
+P1 	: 동네에 있는 개인 카페인데 식빵을 매일매일 다른 종류로 나오는 곳이 있어요
+	  거기서 어제는 모카식빵과 베리깜빠뉴 샀었어요
+P0 	: 오 맛있는것만 드시나보네요.
+P1 	: 맛있는걸 좋아하는건 다 같은 마음 아닐까요?
+P0 	: 저는 내일쯤에 파리바게트에서 빵사먹으려고요
+P1 	: 파리바게트 자주 이용하세요?
+P0 	: 아니요. 행사하는날만 이용하고있어요 ㅎㅎ
+P1 	: 그러시군요
+	  저도 파리바게트 언제부턴가 잘 이용 안 하게 되더라구요
+P0 	: 오 그렇군요. 저도 그렇게 좋아하는 편은아니엇어요. 그래도 아침에 갓 구운건 그나마 맛있더라고요

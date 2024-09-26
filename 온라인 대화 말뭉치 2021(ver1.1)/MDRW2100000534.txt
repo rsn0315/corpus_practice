@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100000534
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 안녕하세요
+P0 	: 나야 나 &name1&
+P1 	: 안녕하세요
+P0 	: 놀러가고싶다
+P1 	: 요즘 코로나 심해져서 해수욕장 전부 폐쇄되었어요
+P0 	: 아니 나는 해수욕장말고
+P0 	: 논산에 가고싶어
+P1 	: 해운대 갔다왔어요
+P0 	: 언제? 요즘 해운대 막아놓지 않았나?
+P1 	: 예전보다 사람이 많이 없었다능~
+P0 	: 코로나 때문에 어쩔 수 없지뭐
+P1 	: 부산 떡볶이도 먹고 왔어요 ㅋㅋ
+P0 	: 부산 쌀 떡볶이 먹고싶다
+P0 	: 그거 엄청 맛있는데
+P1 	: 예전엔 100만명씩 왔었는데
+P0 	: 그렇게 사람 많을 때 못가봤어
+P1 	: 광안리에도 사람이 별로 없어요
+P0 	: 광안리도 재미있지
+P1 	: 다음에 같이 갑시다
+P0 	: 언제 가지? 논산에 가고 싶어
+P1 	: 요새 KTX 타면 1시간 40분 걸려요
+P0 	: 논산에 가면 영화 드라마 촬영 셋트장 있어서 엄청 좋대
+P0 	: 사진도 찍고 놀면 좋은데
+P1 	: 도착하면 렌트카 빌려서 다니면 됩니다
+P1 	: 논산에는 훈련소 체험 가나요?
+P0 	: 부산도 렌트카가 되나? 서울만 있는 줄  알았네
+P0 	: 아 논산훈련소 있구나 ㅠㅠ 거긴 안되겠다
+P1 	: 돈주고 그거 받으러 가는 사람들도 있던데

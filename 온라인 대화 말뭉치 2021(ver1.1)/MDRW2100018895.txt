@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100018895
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요새 사고싶음거 있으신가요
+P0 	: 저 요새 소소히 식탁 깔개가 갖고 싶어요
+P0 	: 지금 식탁은 그릇을 놓으면 소리가 많이 나더라구요
+P1 	: 아ㅋㅋㅋ 나무요?
+P1 	: 깔개하나 장만하셔야겟네요 ㅋㅋ
+P0 	: 네네 ㅠㅠ 귀찮아서 미뤘는데 오늘은 사려구요
+P0 	: &name2&님은 사고 싶은거 뭐있으세요?
+P1 	: 저 이쁜 목걸이 사구싶어요 ㅠㅋㅋㅋㅋ
+P1 	: 걍 오래낄거? 근데 비싸서 못삼 ㅠ
+P0 	: 아 맞아요 ㅠㅠ 오래낄거 사면 또 가격이 비싸죠
+P0 	: 안산선수 로이드 화보 보셨나요?
+P0 	: 로이드 별 생각 없었는데 그거 보니까 로이드꺼 하나 사고싶더라구요ㅋㅋㅋ
+P1 	: 짐찾아봤는뎅 이쁘네요 ㅠㅋㅋㅋ
+P1 	: 갖고싶은게 넘많아서 문제에요
+P0 	: 늘그렇죠 ㅠㅠㅠㅠ
+P0 	: 차량용방향제도 사고 싶어요
+P1 	: ㅋㅋㅋ 자차있으시구낭 뭐사고싶으세요
+P0 	: 저 그냥 꽃향기 별로 안독한거 사고 싶어요ㅋㅋㅋ 디퓨저형으로
+P0 	: 친구께 좋길래 친구한테 추천 받으려구요
+P0 	: &name2&님은 또 뭐사고 싶으세요?
+P1 	: 오호! 전 신발이요 ~ 근데 이미 많아서 누르는중 ㅋㅋ
+P0 	: 아하ㅋㅋㅋㅋㅋㅋ저도 신발 바꿔야해요
+P0 	: 발목 잡아주는 운동화가 갖고싶네요
+P1 	: 발목이 좀 흔들거리시나요
+P0 	: 예ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅠㅠ
+P0 	: 예전엔 슬리퍼신고도 잘다녔는데 요샌 시리네요

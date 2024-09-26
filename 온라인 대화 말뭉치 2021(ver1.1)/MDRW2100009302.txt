@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페에서 어떤 음료를 주로 드시나요?
+P1 	: 저는 라떼요^^
+P0 	: 저는 요즘은 밀크티가 당기더라고요ㅎㅎ
+P1 	: 오~밀크티도 좋아해요~~
+	  직접 만들기도 하시나요?
+P0 	: 만들 엄두는 안 나서 열심히 사먹고 있어요
+P1 	: ^^ 저두 열심히 이벤트에서 쿠폰받아서 스벅에서 바꿔먹어요
+P0 	: 별다방...비싸지만 그래도 가게 되죠...
+P1 	: 똑똑 많이 바쁘신가요~
+P0 	: 바쁘지 않아요ㅎㅎ 오늘은 이디야 들러 밀크티 한 잔 했네요ㅎㅎ
+P1 	: 오 행복한 시간이었네요^^
+P1 	: 이디야 밀크티는 싱겁지 않나요?
+P0 	: 매장에 따라 다른데 다행히 회사 근처 이디야는 적당하네요ㅋㅋ 동네는 싱겁더라구요ㅠ
+P1 	: 아~ 이디야도 매장 따라 다르군요.
+	  제가 가본곳은 다 라떼가 너무 싱거워서 이디야에서는 커피는 안먹구 과자같은거 샀어요ㅎ
+P0 	: 이디야는 허니브레드가 맛있어요ㅋㅋ
+P1 	: 맞아요 허니 브레드 맛있더라구요^^

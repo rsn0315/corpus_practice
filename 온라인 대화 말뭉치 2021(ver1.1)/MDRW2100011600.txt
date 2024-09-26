@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임 좋아하세요?
+P0 	: 게임 좋아하죠!!
+P1 	: 무슨개임하세요?
+P0 	: 피파온라인 게임합니다
+P1 	: 오 재밌나요? 들어보기만 해서
+P0 	: 축구 좋아하면 재밌어요ㅎㅎ
+P1 	: 원래도 축구 좋아하세요?
+P0 	: 네네ㅎ 무슨게임 좋아하시나요
+P1 	: 저는 테트리스좋아해요 ㅋㅋㅋ
+P1 	: 저댄같이 움직이는 게임도 좋아하고요
+P0 	: 오 테트리스 추억의게임
+P1 	: 질리지가 않더라고요
+P0 	: 지뢰찾기도 하시나요ㅋㅋ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아직이요 드셨나요?
+P0 	: 저는 방금 먹었어요!
+P1 	: 뭐 드셨나요
+P1 	: ??
+P0 	: 된장찌개에 계란후라이 등 집밥 먹었어요ㅎㅎ, &name2&님은 메뉴 정하셨나요?
+P1 	: 맛있었겠네요 저는 스파게티 먹을 예정입니다
+P0 	: 맛있으시겠어여ㅠㅜ 직접 만드시나요?
+P1 	: 그럴 것 같아요 된장찌개는 직접 만드셨나요?
+P0 	: 부모님이 만들어주셨어요....ㅎㅎ
+P1 	: 우와 정말 맛있을 것 같아요ㅠㅠ
+P1 	: 좋아하는 배달음식 있으신가요?
+P0 	: 저는 등갈비 김치찜이요!
+P1 	: 등갈비 김치찜 잘하는브랜드가 있나요?
+P0 	: 브랜드라기 보다는 주변 개인사업장에서 시켜요!
+P1 	: 그렇군요

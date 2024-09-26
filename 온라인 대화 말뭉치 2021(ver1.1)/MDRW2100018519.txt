@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018519
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋은아침입니다
+P0 	: 식사하셨나요
+P1 	: 좋은 아침입니당 아직 안먹었어요!
+P1 	: 뭐 드셨나용?
+P0 	: 저두 아직 식전입니다ㅎㅎ 아침 드실건가요?
+P1 	: 음 저는 아침점심겸 아점 먹으려구요ㅋㅋㅋ 빵 먹을거에요
+P1 	: &name1&님은요?
+P0 	: 전 아마 아침은 거르고 점심에나 먹을것같은데 점심메뉴는 아직 정하지않았어요
+P0 	: 무슨빵 드시나요
+P1 	: 어니언 베이글에 크림치즈 발라서 샐러드랑 같이 먹으려구용
+P1 	: 아침은 원래 안드세요?
+P0 	: 어니언 베이글이라니 좋네요.
+	  네 아무래도 아침은 바빠서 거르게되더라구요
+P0 	: 샐러드는 기본샐러드 드시나요
+P1 	: 아하ㅠㅠ 저도 아침 안먹은지 좀 됐어요 그래도 요즘 챙겨먹으려고 노력해요
+P1 	: 샐러드 치킨샐러드 맛있어요ㅎ
+P0 	: 치킨샐러드에 머스타드 뿌려드시나요
+P1 	: 저는 오리엔탈 드레싱 뿌려먹어용
+P1 	: 좀 언밸러스한데 특이 입맛이라ㅋㅋ
+P0 	: 저도 그게 더 취향이더라구요
+P1 	: &name1&님은 어떤빵 좋아하세요?
+P0 	: 저는 빵은 딱히 가리지않습니다

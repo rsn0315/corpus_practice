@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 백신 맞으셨나요?
+P1 	: 지금 1차만 맞은 상태에요 원래 2차가 어제였는데 밀렸어요 ㅜ
+P1 	: &name1&은요?
+P0 	: 저는 2차까지 다 맞았어요
+P1 	: 부작용은 괜찮으셨나요? 저는 1차 맞고 괜찮았는데 그러면 2차가 힘들거란 말이 있어서 좀 두렵거든묘
+P0 	: 저는 1차맞고 근육통에 시달렸고 2차맞고 몸살이 났네요ㅠ
+P1 	: 아이고 ㅜ 고생하셨네요
+P1 	: 혹시 2차 맞고 몸살이 얼마나 가나요?
+P0 	: 저는 몸살은 이틀만에 나았지만 편두통은 일주일쯤 갔어요
+P1 	: 그랬군요.. 그래도 2차까지 맞으셔서 약간 좀더 안심되는 게 있으실 것 같아요
+P0 	: 네 자가격리 면제라서 참 좋더라고요 하지만 백신 맞아도 항체가 안생길수 있다는건 걱정이에요
+P1 	: 그러게요.. 혹시 어떤 백신 맞았는지 여쭤도 될까요?
+P0 	: 저는 화이자를 맞았어요 &name2&은요?
+P1 	: 저도 화이자 맞았어요!! 잔여백신으로 겨우 잡았네요
+P0 	: 잔여백신 맞으셨다니 대단하시네요

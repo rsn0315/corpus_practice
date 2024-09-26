@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콘서트 가보셨나요
+P1 	: 콘서트 예전에는 많이 갔었는데 최근엔 거의 못 갔네요!
+P0 	: 어떤 콘서트 가보셨나요
+P1 	: 오래되서 가물가물한데 주로 홍대 인디밴드 공연 보러 다녔었어요~
+P0 	: 그러시군요 기억에 남는 밴드 있나요?
+P1 	: 저는 십센치 한창 뜨기시작할때 공연 본 적 있는데 너무 좋더라고요 ㅎㅎ
+P0 	: 아 십센치 히트곡 많죠~
+P1 	: 네 ㅎㅎ 라이브도 진짜 잘해요
+P0 	: 오 그 당시엔 2명 멤버였나요?지금은 아닌듯해서..
+P1 	: 네 맞아요 원래 2명인걸로 더 유명했는데 한명이 마약했나 그래요.. ㅠㅠ
+P0 	: 헉 그렇군요 프로그램 나왔을때 본 기억이 있는데 안타깝네요
+P1 	: 그쵸 저도 깜짝 놀랐어요.. ㅠㅠ
+P1 	: &name1&님은 가셨던 공연 있나요
+P0 	: 저는 김동률 콘서트가 기억에 남네요
+P1 	: 와 김동률 대박 부럽네요..
+P1 	: 티켓팅 안 어렵나요?
+P0 	: 힘들었죠 와이프가 성공해서 갔어요
+P1 	: 와 대단하네요 김동률 노래 라이브로 들으면 엄청 좋을 것 같은데
+P0 	: 네 엄청좋더라구요 와이프가 팬이라 같이 다녔는데 저도 좋아하게 됐어요

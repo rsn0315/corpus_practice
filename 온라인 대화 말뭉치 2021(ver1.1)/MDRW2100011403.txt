@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 건강.미용을 위해 챙기는 습관 있나요?
+P0 	: 콜라겐 비타민 챙겨먹고 야채 많이 먹어요 ㅋ
+P1 	: 와 좋은 습관이네요 저는 콜라겐은 안먹어봤는데 궁금해요
+P0 	: 그냥 피부에 조금 도움은 되는듯 해서요... 나이들며 피부관리가 가장 중요하다는 생각이ㅜㅋㅋ
+P1 	: 맞아요 혹시 피부관리도 받으시나요
+P0 	: 기미 심할때만 주기적으로 받아요.. 작년초 ㅜ10회 받고 그후론 안받았어요
+P1 	: 와..저도 둘째낳고 기미가 넘 심해져서 고민인데..효과는 있었나요,
+P0 	: 효과는 확실히 있어요. 피부는 진짜 돈빨이 있긴 한것같아요~~
+P1 	: 와 시술 비용도 여쭤봐도 될까요? 대략적으로? 저 겨울에 가려구요 ㅠㅠ
+P0 	: 흠.. 저는 그냥 동네 병원 10회권 80만원이었나..?
+P1 	: 100만원정도는 생각해야겠네요
+P0 	: 네~ 제가 간곳이 결코 비싼편이 아니라..
+P0 	: 그런데 그냥 10만원정도 주고 병원 아닌곳에서 싹 지져버리기도 하더라구요 ^^;,

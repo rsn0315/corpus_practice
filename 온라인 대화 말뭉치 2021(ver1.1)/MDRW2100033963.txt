@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033963
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님는 학생이에요~?!
+P0 	: 네 저는 학생이에요!
+P1 	: 아항~ 대학생이신가요~?
+P0 	: 네 대학 휴학 중이에요!
+P1 	: 아아~ 저는 제작년에 졸업했어요~
+P1 	: 그럼 이번학기도 휴학인건가요~?
+P1 	: 저는 대학다닐때 한번도 휴학을 안해서 후회스러워여ㅠ
+P0 	: 네 이번 학기도 휴학이에요
+P0 	: 스트레이트로 졸업하셨군요ㅎㅎ
+P1 	: 오오 그렇군요~
+P1 	: 네ㅠ 먼가 대학생때만 휴학의 특권?! 이 있는것같아서 진짜 부러웠어요~~
+P0 	: 아 그렇군요!ㅋㅋㅋ &name2& 님은 학교 다니실 때 동아리 하셨나욤?
+P1 	: 네~ 저는 봉사 동아리 가입했던것같아용ㅋㅋ 그리많른 활동은 없았지만용ㅋㅋ
+P1 	: &name1&님은요?!
+P0 	: 아 그렇군요 저는 동아리를 해본 적 없어요!
+P0 	: 봉사 동아리에서 기억 나는 일이 있나요?
+P1 	: 아하~ 음 저는 학교 거리정화하다가
+P1 	: 쥐를 보고 진짜 식겁했어요ㅠㅠ
+P0 	: 아이고...ㅋㅋㅋ 진짜 놀라셨겠어요 쥐 죽은 거는 진짜 무섭죠ㅠ
+P0 	: 저희 학교에는 고양이가 많아서 쥐는 잘 보이지 않았던 거 같아요ㅋㅋ
+P1 	: 근데 신기하게 저도 대학다닐때 고양이가 진짜 많았어요!!!

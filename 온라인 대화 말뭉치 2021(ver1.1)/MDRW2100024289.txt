@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100024289
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 엄마!
+P1 	: 엄마!
+P0 	: &name2&야!
+	  재롱쟁이 막내야!
+	  엄마는 네가 있어 행복하단다.
+P1 	: 나도 엄마 사랑해~{emoji:♡}
+P1 	: 아빠는 복숭아 더 안깎는거야???
+P0 	: 도시락 메뉴는 맘에 들었니?
+	  병아리콩 조림을 엄마가
+	  정성껏 했는데 맛있게
+	  먹었는지 궁금하다.
+P1 	: 당연히 맛있게 먹었지!
+P1 	: 도시락으로 싸간 초고추장도 맛있게 먹었어~{emoji:♡}
+P1 	: 두부 찍어먹으니까 맛있더라구
+P0 	: 아빠는 복숭아 하나이상 생각이 없으시나봐
+P1 	: 그러게
+P1 	: 아빠는 강의만 듣는다
+P1 	: 엄마가 뭐라고 할지 너무 궁금해~~~
+P0 	: 아빠 마음은 다른데 있어.
+	  먹는게 중요한게아니야.
+P1 	: 그러게 아빠는 공부만 하고 싶은가봐!
+P1 	: 복숭아는 내일 먹자
+P0 	: 아빠는 목표가 시간내에 강의를
+	  빨리 듣고 싶어 하시는 같애
+P1 	: 저거 돈 주고 강의 듣는건가??!
+P1 	: 아빠는 복숭아 깎으랴 강의 듣느라 바쁘네잉
+P0 	: 물렁물렁한 황도 복숭아!
+	  즙이 많아서 갈증이 금방 해소되어
+	  먹어도먹어도 자꾸만 먹고싶다.
+P1 	: 엄마랑 이야기하니까 좋다!!!

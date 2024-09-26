@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000767
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨가 많이 선선해졌어요
+P1 	: 네 시원해서 좋아요
+P0 	: 새벽에는 날씨가 추워서 창문열고 자다가 요즘엔 닫고자요
+P1 	: 맞아요 저도 자기전에 창문 닫아요
+P0 	: 낮에는 아직 덥긴한데 아침저녁으로 가을날씨에요
+P1 	: 맞아요
+P0 	: 이번주는 비가 자주 오네요
+P0 	: 지금은 안오는데 오늘도 비소식이 있네요
+P1 	: 다음주는 내내
+P0 	: 장마때도 안오던 비가 요즘오네요
+P1 	: 그르니까요
+P0 	: 대신 미세먼지 없어서 좋아요. 하늘도 맑고
+P1 	: 그건 좋아요
+P0 	: 미세먼지없어서 하루종일 창문열고 있어ㅇㆍ
+P1 	: 하날 맑죠

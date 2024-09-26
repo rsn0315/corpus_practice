@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031306
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 어떤 거 쇼핑 하셨어요
+P0 	: 코 살롱 선물세트 쇼핑 있어요
+P0 	: 그리고
+P1 	: 네 그리고
+P0 	: 오설록 선물세트 샀어요
+P1 	: 오설록 맛있는데
+P0 	: 추석 선물로 딱 좋은 거 같아서요
+P1 	: 그렇네요 환절기라 너무 좋네요
+P0 	: 좋다고 하시니 다행이네요
+P1 	: 그럼요 너무 좋죠
+P0 	: 추석 선물 사셨어요
+P1 	: 저는 아직이요
+P0 	: 차 종류가 좋은 거 같아요
+P1 	: 내 얘기 들어보니 그런 거 같네요

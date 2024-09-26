@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100007622
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 저는 자취중인데 &name2&님은 어떠신가요!
+P1 	: 저는 본가에 살고있어요ㅎㅎ
+P1 	: 자취하시면 집안일 힘드실거같아요
+P0 	: 아무래도 혼자 하니까 시간이 참 많이 들어요 ㅋㅋㅋㅋ
+P0 	: 부모님께 큰 감사를 느끼는중...
+P0 	: 본가에 사시면 아무래도 더 편하려나요!
+P1 	: 집안일은 해도해도 티가 안나서 더그런거같아요ㅎㅎㅎ
+P1 	: 아무래도 나눠서 하니까  그런면이ㅎㅎ
+P0 	: ㅎㅎㅎㅎ 아 집안일 같이 하시는군요!
+P0 	: 저는 본가 내려가면 아무것도 안하게돼요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 서로 바쁘니까 다같이 안하면 집안이 난리가 나더라구요ㅎㅎ
+P0 	: 아아 그러면 역시 같이 해야죠!
+P0 	: 개인적으로 전 빨래가 제일 재미납니다...
+P1 	: 어 전 재밌는건 없는거같아요ㅠㅠ다 지겨워서ㅎㅎ
+P0 	: 앗 정말요? 하긴 매일 같은 일이라ㅜ
+P1 	: 왜 다들 건조기나 로봇청소기를 사는지 알겠어요ㅎㅎ
+P0 	: 아 정말 저는 그거 너무 갖고싶어요
+P0 	: 로봇청소기보다도 건조기 제발
+P0 	: 집이 너무 습해요 ㅋㅋㅋ
+P1 	: 맞아요 에어컨기능으로는 한계가 있더라구요ㅠ
+P0 	: 맞아요ㅜㅜ 특히 또 요즘은 에어컨 그렇게 켜두면 추워요...

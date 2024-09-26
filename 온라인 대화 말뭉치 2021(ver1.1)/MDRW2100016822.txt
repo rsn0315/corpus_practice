@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016822
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 아르바이트 해보셨나요?
+P1 	: 안녕하세요! 
+	  네 아르바이트 해 봤어요 &name1&님은 해 보셨나요?
+P0 	: 네 저도 해봤어요! ㅎㅎ 제일 좋았던 알바는 뭐였나요?
+P1 	: 저는 여러가지 아르바이트를 해봤어요
+P1 	: 제일 좋았던 아르바이트는 사무 보조 일이었어요
+P0 	: 오 사무보조는 다들 좋다고 하더라구요!
+P1 	: 시원한 곳에서 자료 정리만 하면 되니깐요
+P0 	: 맞아요 ㅎㅎ 시원한 곳이 최고죠
+P1 	: &name1&님은 제일 좋았던 아르바이트 뭐예요?
+P0 	: 저는 공연장 안내를 했었는데 좋았었어요 ㅎㅎ
+P0 	: 여기도 역시 시원하기도 하구요 ㅋㅋ
+P1 	: 오 콘서트 아르바이트 했어요? 내부팀?
+P1 	: 저도 했었는데 ㅋㅋㅋㅋㅋ
+P0 	: 저는 소극장이었어요!ㅠ
+P0 	: 콘서트도 해보고싶네요!!
+P0 	: 재밌나요?
+P1 	: 네 재밌었어요
+P1 	: 근데 대기 시간이 너무 길었어요
+P0 	: 큰 콘서트장은 대기시간이 있어서 그런부분은 힘들겟네요ㅠ

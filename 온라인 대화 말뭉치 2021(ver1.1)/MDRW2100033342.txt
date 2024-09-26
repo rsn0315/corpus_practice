@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100033342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 최근에 사신 물건 있으신가요??
+P1 	: 최근에 옷을 샀어요!
+P1 	: &name1&님은요?
+P0 	: 중고책 샀어요!!
+P1 	: 책! 어떤 책을 사셨나요?
+P0 	: 알랭 드 보통 불안이랑
+P0 	: 마이클 샌델 돈으로 살 수 없는 것들이요
+P1 	: 깊이감 있는 책을 즐기시는 군요
+P1 	: 두 책 모두 읽어보지 못한 책인데
+P1 	: 사시게 된 이유가 어떤거에요?
+P0 	: 알랭 드 보통 책은
+P0 	: 라디오 방송에서 듣고 흥미가 생겨서 샀고
+P0 	: 돈으로 살수 없는 것들은 정의란 무엇인가 읽고
+P0 	: 궁금해져서 샀어요!
+P1 	: 정의란 무엇인가를 읽으셨군요!
+P1 	: 라디오 방송에서 어떤 이야기를 했길래 사셨는지도 궁금해요!
+P0 	: 사실 방송이 어땠는진 잘 기억 안 나요 ㅋㅋㅋ
+P1 	: 오? 그러면 정말 지나가다 들으신거에요? ㅋㅋㅋ
+P0 	: 들은지 한 한달 된 거 같네요 ㅋㅋㅋ
+P0 	: 오래돼서 기억이 잘 안 나요
+P1 	: 굉장히 독특한 계기로 사시게 된 것 같아요
+P1 	: 구매하신 책은 다 읽으셨나요?
+P0 	: 불안은 다 읽은지 좀 됐고
+P0 	: 샌델 책은 읽고 있어요!
+P1 	: 평소에도 책을 즐겨 읽으시나요?
+P0 	: 즐겨 읽는 편인거 같아요!!

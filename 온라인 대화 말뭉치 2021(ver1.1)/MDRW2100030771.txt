@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030771
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 오늘 날씨가 너무 좋아요~
+P1 	: 좋네요~ 아직 안나가봤는데 딱 나가서 광합성 하기 좋은 햋볕같네요
+P0 	: 맞아요~이제 가을이 오려나봐요
+P1 	: ㅎㅎ 가을이 오면서 건조해지는게 피부로 와닿는거같아요ㅠㅠ
+P0 	: 앗 맞아요ㅠ 그래서 어제 밤에 마스크팩 했어요
+P0 	: 피부관리하시는 꿀템있으신가요?
+P1 	: 헉 저는 피부관리안하고있어요ㅠㅠ 그냥 냅다 로션 하나만 바르고... 썬크림도 자주 안바르는 편이라...
+P1 	: 피부 노화의 끝판왕이죠 ㅎㅎ...
+P1 	: &name1&님은 비법이 있으신가요?
+P0 	: 앗ㅎㅎ저도 거의 없는편인데
+P0 	: 안좋다싶으면
+P0 	: 양심상 일찍자고 채소를먹어요ㅎㅎㅎ
+P1 	: 헉 채소가 확실히 효과가 있나봐요?!
+P0 	: 음..채소를 먹음으로써 커피과자를 안먹는 효과가..헤헤
+P0 	: 맛있는게좋죠근데 식사하셨어요?
+P1 	: 아니욬ㅋㅋㅋ 아침8시에일어나서 아직도 누워있네요....
+P1 	: 아직 세수도 안했어요...
+P1 	: 정말 건강하지않은 생활을 하고있답니다
+P0 	: ㅎㅎㅎㅎㅎ행복한 생활이죠

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100043676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화는 자주 보시나요?
+P1 	: 네 자주 봐요!
+P1 	: &name1&님은 어떠세요
+P0 	: 볼만한 거 있으면 가는데 최근에 3주 연속 봤어요ㅋㅋㅋ
+P1 	: 우와 뭐 보셨나요?
+P0 	: 싱크홀 올드 인질이요!
+P1 	: 싱크홀이랑 인질은 들어봤는데 올드는 어떤 내용이예용?
+P0 	: 어떤 섬에 갇힌 사람들 얘기에요, 시간이 빨리 흘러가는 섬
+P1 	: 아!! 티비에서 광고처럼 본적 있어요
+P1 	: 얘기해주시니까 생각났어요 ㅋㅋㅋ
+P1 	: 재밌어요?
+P0 	: 저는 그냥 그랬어요, 감독 이름에 비하면 별로인것 같은??
+P1 	: 아 약간 유명한 감독인가 보네요?
+P0 	: 네네, 샤말란이라고 유명한 것 같더라구요
+P1 	: 그렇군용 안봐야겠어요ㅋㅋㅋㅋ
+P1 	: &name1&님 크루엘라 보셨어요?
+P0 	: 재밌을 것 같았는데 못 봤어요, 어땠나요?
+P1 	: 재밌었어요!! 보는내내 눈이 정말 즐거웠고 재미도 있었구 질만들었어요
+P1 	: 나중에 기회 되면 보세요
+P1 	: 재밌어요
+P0 	: 오, 넵넵, 기억해둘게요
+	  저는 스파이더맨이 기대돼요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 숙주랑 옥수수면이랑 같이 먹으면 맛있지
+P0 	: 그게 진짜 짱인거같아요... 마라탕계의 혁명 숙주+옥수수면
+P1 	: 콩나물 넣어도 맛있으려나?
+P0 	: 콩나물은 비린맛 심해서 별로일거같긴 해요
+P1 	: 숙주나 콩나물이나 가격 그렇게 차이 안나니까 상관 없긴 한데
+P0 	: 마라탕 ㅅ소스 사서 해드시려구요?
+P1 	: 하나로마트에 마라탕 재료들 다 들어왔더라
+P0 	: 헐 하나로마트에 무슨일이...
+P1 	: 리모델링하고 품목 많이 바뀐지 좀 됐어
+P0 	: 맛있겠네요... 마라소스 사서 먹어요 탕도 먹고 샹궈도 먹고
+P1 	: 샹궈는 안먹어봤어
+P0 	: 샹궈는 볶음료리!! 근데 짜요 ㅋㅋㅋ
+P1 	: 볶음신라면 같은 느낌인가보네
+P0 	: 좀 그럴지도?? 약간 좀... 샹궈 먹고 남은거에 사골 육수 부으면 마라탕 되는 느낌이에요
+P1 	: 마라탕도 짠데 그러냐

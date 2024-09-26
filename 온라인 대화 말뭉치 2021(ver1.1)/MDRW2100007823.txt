@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007823
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 먹곰싶은 음료있니
+P1 	: 나지금 먹고있지
+P1 	: 핫식스
+P0 	: 그건 카페인 넘 많은것 아니니
+P1 	: 커피랑 같은거야
+P0 	: 그래도 몸에 안 좋을것 같은데
+P1 	: 공부하는데 넘 졸려서 먹는거야
+P0 	: 졸음을 참는데 다른 음료는 없을까?
+P1 	: 난 모르는데 ?
+	  커피 몇잔 보다 낫지
+P0 	: 나두 커피 양을 좀 줄여야 하는데 어렵네 ?
+P1 	: 조금만 줄이면 좋을것 같아
+P0 	: 그 조금이 엄청 어럽다
+P1 	: 그럼 커피 한잔을 두번 나누어서 먹는건 어떻까 .
+P0 	: 좋은 방법 이긴한데 할수 있은까 ?
+P1 	: 할수 있도록 노력을 해보세요
+P0 	: 그래 노력과 노력을 해볼께

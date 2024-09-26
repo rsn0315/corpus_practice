@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009751
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 치킨 좋아하세요?
+P0 	: 오늘 아침 뭐 드셨나요?
+P1 	: 엇 아침밥 안먹었어요
+P0 	: 오 치킨 좋아요 후라이드를 가장 좋아해요 좋아하는 치킨 있으세요?
+P1 	: 저도 치킨은 후라이드라고 생각해요
+P0 	: 저도요 ㅎㅎ 오리지널이 최고
+P1 	: 약간 치킨의 근본인거같아요
+P1 	: 그럼 순살좋아하요 뼈 좋아하세요
+P0 	: 맞아요 제일 기본적이에요
+P0 	: 저 뼈가 더 맛있어요
+P0 	: &name2&님은요?
+P1 	: 와우 음식소울메이트인가요
+P1 	: 저도 뼈가좋아요
+P1 	: 약간 뼈 붙어있는게 맛있어요
+P0 	: ㅋㅋㅋ 단체로 먹을땐 순살이 편한데 맛만 놓고보면 뼈가 나은거같아요
+P1 	: 좋아하는 브랜드있나요
+P0 	: 맞아요 근데 미국에서는 닭다리 선호도 낮은 부위래요 ㄷㄷ
+P1 	: 헉 진짜요?
+P0 	: 저 bbq 황금올리브가 가장 맛있는 후라이드같아요
+P1 	: 매콤한맛이 매력적인 브랜드에요 저도 좋아합니다ㅎㅎ

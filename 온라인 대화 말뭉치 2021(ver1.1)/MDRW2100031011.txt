@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100031011
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인 커뮤니티 활동하시나요?
+P1 	: 아니요 &name1&님 께서는 온라인 커뮤니티 활동을 하시나요?
+P0 	: 저는 트위터 해요ㅋㅋㅋ  관심사 맞는 사람들이랑 소통하는 게 재미있더라구요
+P1 	: 앗 온라인 커뮤니티라고 하셔서
+P1 	: sns가 아니라 커뮤니티를 연상했어요
+P1 	: 저도 트위터 해요 ㅋㅋ
+P0 	: 아 트위터는 하시는구나! ㅎㅎ 그럼 혹시 어떤 영역...? 쪽에서 트위터 하시나요ㅋㅋㅋ
+P1 	: 아 저는 계정 하나로 진짜 온갖거 다하는뎈ㅋㅋㅋ
+P1 	: 주로 소설 덕질해요!
+P1 	: &name1&님께서는...?
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ아 사실 저도 온갖거 다하지만
+P0 	: 역시 트위터라면 덕질이죠
+P0 	: 후후
+P1 	: ㅋㅋㅋ 메인 장르가.. 어떤 영역이신가요?
+P1 	: 덕질하기 너무 좋은 환경이에요 ㅋㅋ
+P0 	: 저는 차 덕질해요ㅋㅋㅋㅋㅋ 마시는 차
+P1 	: 헐... 차... 좋아해요
+P1 	: 종류는 잘 모르지만 밀크티를 엄청 좋아해요
+P0 	: 오 밀크티 저도 엄청나게 좋아해요!!! 집에서 만들어 드시나요?
+P1 	: 어떤 차를 사서 만들면 좋을지 몰라서 주로 사먹어요
+P0 	: 아앗 만들어 먹는게 더 싸고 맛있는데요! 어렵지도 않아요

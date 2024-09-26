@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035781
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세여?
+P0 	: 안녕하세요.
+	  독립하고싶으신가요?
+P1 	: 반반이영
+P0 	: 가족간의 스트레스가 있으셔서 그런가요? 반반인가요?
+P1 	: 집에 혼자있는게 무서워서요
+P0 	: 그러면 가족 중에 누구를 데려가고싶나요?
+P1 	: 하지만 스으레스 맥스일때가 꽤있어서..
+P0 	: 그러면 혼자사셔야하는거아닌지
+P1 	: 무슨 의도애요?
+P0 	: 독립하게되면 가족 중에 누구랑 같이살고싶나요
+P1 	: 그건 독립이 아니에요
+P0 	: 숙제입니다 알아오세요.
+P1 	: 숙제 싫어요

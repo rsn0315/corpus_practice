@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030025
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 아직 학생이에요
+P0 	: 아 저는 직장인입니다
+P1 	: 무슨 일 해요?
+P0 	: 사무직이요
+P1 	: 어떤 회사?
+P0 	: 사기업이여
+P1 	: 아하 넵 ㅋㅋㅋㅋ
+P0 	: 힘들어요
+P1 	: 뭐가 제일 힘들어요?
+P0 	: 사람이문제죠
+P1 	: 아 직장상사?
+P0 	: 네
+P0 	: 꼰대라서{emoji:…}
+P1 	: 아이고
+P1 	: 업무는 괜찮아요?
+P0 	: 힘들조

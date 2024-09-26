@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 영화관람 좋아하시나요?
+P1 	: 예전에는 많이봤는데 요즘은 안가고 있어요
+P0 	: 요즘엔 극장가기 많이 어렵죠ㅠㅠ
+P1 	: 네 그래서 안간지가 꽤됐네요
+P0 	: 집에서도 보시나요?
+P1 	: 가끔요
+P1 	: 집에서는 집중이 안되더라고요
+P1 	: 집에서 많이 보세요?
+P0 	: 극장에 못가니 집에서 자주봅니다!
+P1 	: 그렇군여
+P1 	: 콘서트같은것도 다니시나요
+P0 	: 네 예전에는 종종 다녔었는데ㅠㅜ
+P1 	: 그러네요 요즘은 그런것도 다니기가 힘들어서 아쉽네요
+P0 	: 좋아하는 콘서트 있으신가요
+P1 	: 전 콘서트는 많이 안가봐서요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100026851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요
+P0 	: &name2& 어디계세요. 갑자기 여행가셨긔?
+P0 	: 좋아합니다
+P1 	: 벚꽃보러 여행다니고 싶은데
+P0 	: 여행가고 싶은나라는 어디인가요
+P1 	: 코로나땜에 못가서 아쉽네묘
+P0 	: 벚꽃여행은 봄이니
+P1 	: 전 스웨덴 가보고싶어요
+P0 	: 코로나가 나아지길바라요
+P1 	: 남자들이 그렇게 잘생겼다고 해요
+P0 	: 스웨덴에  뭐 먹으러
+P0 	: 아
+P1 	: 잘생긴 남자들 많은 곳으로 여행가서
+P1 	: 눈호강하고싶네요
+P0 	: 영앤리치핸썸톨앤빅
+P0 	: 그렇지요
+P1 	: 얼굴맛집^^
+P0 	: 옳거니
+P1 	: 어디여행가고싶으세요
+P0 	: ^^
+P0 	: 음
+P0 	: 국내여행을 가고싶습니다
+P0 	: 정동진이나
+P0 	: 강원도나
+P0 	: 여수도 좋겟어요
+P1 	: 풍경때문에요?
+P1 	: 아니면 먹을거때문에요?

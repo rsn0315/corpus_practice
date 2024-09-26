@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013878
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 졸업하면 어떤 일 하고 싶어요?
+P1 	: 데이터사이언티스트 쪽 생각하고 있어요!
+P0 	: 오오 생소한 직업이에요
+	  그건 어떤 일 하는건가요?
+P1 	: 빅데이터 분석하고 예측하는 일 해요
+P1 	: 근데 하는 일은 대부분 코딩에 가까워요
+P0 	: 크으 진짜 멋져요!
+	  전 학교에서 애들 가르쳐요 ㅋㅋㅋㅋ
+P1 	: 와! 선생님이셨군요!
+P1 	: 너무 멋있어요!
+P0 	: ㅎㅎ&name2& 꼭 하시고 싶은 일 됐음 좋겠어요.
+P0 	: 데이터사이언티스트 하려면 어떤 스펙이 필요해요?
+P1 	: 그 안에서도 세부적인 분야가 나뉘는데 제가 고싶은 분야는 일단 코딩 능력이 제일 필요해요
+P0 	: 오 코딩
+	  요즘 제일 핫한(?) 능력이잖아요ㅎㅎ
+	  유아코딩도 있을정도..
+P1 	: &name1&은 어떤 과목 가르치세요?
+P0 	: 전 초등이에요. 그 중에서도 장애아동 가르치는 특수교사^^
+P0 	: 국어 수학 위주로 가르쳐요:)
+P0 	: 그 외에 다양한 활동 ㅎㅎ
+P1 	: 멋있는 일 하시네요!
+P1 	: 저도 옛날에는 수학 교사가 꿈이었어요ㅎㅎ
+P0 	: 수학 잘하는 거 너무 부러워요.
+	  중1부터 수포자...ㅋㅋ

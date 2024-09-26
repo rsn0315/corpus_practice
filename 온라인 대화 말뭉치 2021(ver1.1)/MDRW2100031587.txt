@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100031587
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용
+P0 	: 저녁 드셨나요?
+P1 	: 헉 넵넵 저는 태국음식을먹었어요
+P1 	: 맛좋더라구요... 맥주랑 같이먹었는데 정말 .. 너무맛있었어요
+P1 	: 역시 기름진 면요리는 맥주와함께죠
+P0 	: 우와 맛있었겠네요 어떤 태국요리 드셨나요?
+P1 	: 이야 팟타이랑 쌀국수 친구랑 노나먹었어요
+P0 	: 팟타이가 기름진 음식인가요?
+P1 	: ㅋㅋㅋ뭔가 고추기름이라던가 많지 않던가요?!
+P0 	: 어 그렇군요 저는 딱히 그런 생각을 안해서 몰랐던 것 같아요ㅋㅋㅋ
+P0 	: 그럼 좋아하시는 음식 있으신가요?
+P1 	: 오오 저는 라자냐 이좋아해요
+P1 	: 맛난...라자냐...
+P1 	: 냠냠굿~
+P0 	: 라자냐는 어떤 음식인가요?
+P1 	: 파스타의 종류라고생각하면되세요
+P1 	: 넓고 얇은 면인데
+P1 	: 그것과 다진고기와 토마토소스를 섞고 치즈를 층층히쎃아서 오븐에 구운요리에요
+P1 	: 맛이없을수가 없다구요~
+P1 	: &name1&님은 어떤음식좋아하시나요~
+P0 	: 오~~한번 먹어봐야겠네요
+	  저는 떡볶이요

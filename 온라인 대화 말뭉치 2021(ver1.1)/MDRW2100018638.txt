@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직업이라..
+P1 	: 학생이신가요 ㅎㅎ
+P0 	: 학생은 아니에요
+P0 	: 직장인이신가쇼
+P1 	: 네ㅎㅎ 그럼 취준이신가보네요
+P0 	: 아니요 직장인입니다
+P0 	: 무슨 업무를 하시나요
+P1 	: 저는 지하철에서 일해요
+P1 	: &name1&님은요?
+P0 	: 저는 사무직이요
+P0 	: 지하철은 주로 어떤일을 배정받나요
+P1 	: 저도 사무 직렬인데
+P1 	: 역사관리 해요 ㅎㅎ
+P0 	: 역사관리면 민원 이런쪽은 아니신가
+P1 	: 그거도 역사관리죠 ㅎ ㅎ
+P0 	: 힘든점은 없나요
+P1 	: 음 정상인은 안힘든데
+P1 	: 가끔 진상들이 ㅎㅎ
+P0 	: 어떤진상 있던가요
+P1 	: 취객이 제일 심하죠 ㅎㅎ

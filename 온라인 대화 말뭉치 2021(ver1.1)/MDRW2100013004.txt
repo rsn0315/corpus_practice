@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 쇼핑 좋아하세요?
+P1 	: 네 쇼핑좋아해요
+P0 	: 오 어떤물건 쇼핑하세요
+P1 	: 아름다운가게에 저렴하게 구매할수있어서 좋아요
+P0 	: 오 들어본것같은데
+P1 	: 그럼 그게 맞을꺼에요
+P0 	: 어떤품목 사시나요
+P1 	: 눈에 보이는거 저렴한거 사요
+P1 	: 종류구분은없어요
+P1 	: 괜찮다싶으면 사는거죠
+P0 	: 중고거래도 하시나요?
+P1 	: 중고거래 한적도 있어요
+P0 	: 어디 사이트 이용하시나요
+P1 	: 중고나라 이용하죠

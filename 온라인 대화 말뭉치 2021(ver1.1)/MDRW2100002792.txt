@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002792
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 막국수 맛있었겠어요
+P1 	: 네 ㅎ 맛있게 먹었어요 맛집이라고 하더라구요
+P0 	: 오~맛집가셨구나
+P1 	: 이런 얘기하니까 배가 고프네요   ㅋ
+P0 	: 메밀전도 드셧나요?
+P1 	: 아 ㅎ 메밀왕만두 같이 먹었어요
+P0 	: 오~~맛집만의 메뉴인가봐요
+P1 	: 여름엔 메밀이 최고같아요 ㅎ
+P0 	: ㅋㅋ 맞아욘 너무 맛있죠 ㅎ
+P1 	: 저녁은 뭘 먹어야할지 모르겠어요
+P0 	: 저는 등갈비 먹으려고요
+P1 	: 꺄~ 맛있겠어요 등갈비
+P0 	: 고기 좋아하세요?
+P1 	: 조금 좋아해요 ㅋ 고기 자주 드세요~?
+P0 	: 아 네 아주 자주 ㅎㅎ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100047393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 점심 메뉴가 어떤거였나요?
+P0 	: 오늘은 편의점김밥먹엇어요
+P1 	: 편의점 김밥 좋아하시나요?
+P0 	: 가끔 먹으면 맛있어요
+	  하루종일 앉아있다보니 점심은 간단히 먹으려고 하거든요
+P1 	: 저도 가끔 너무 많이 먹으면 부대끼더라구요...
+P0 	: 네 그래서 평소 점심은 거의 시리얼로 먹어요
+	  요즘은 식당 가기도 조심스럽잖아요
+P1 	: 집에서는 배달시킬 수 있는데 회사는 어려우니까요ㅠ
+P0 	: 맞아요 요즘은 내가 조심하는 수밖에 없잖아요
+P1 	: 진짜 제가 사실 확진자가 아닐까라는 생각을 하게 돼요..너무 많이 나와서요
+P0 	: 네 저도요. 증상없을수도 잇으니까요
+	  그래서 더 안나가고 배달같은거 마니 시키게 되는거 같아요
+P1 	: 배달도 비대면으로 받구요ㅠㅠ
+P0 	: 그쵸. 그래서 배달 사고도 많자나요.
+	  다른집 앞에 그냥 두고가고..
+P1 	: 코로나 이후 배달이 증가돼서 그런지 이슈도 많아졌어요ㅠㅠ
+P0 	: 그러게여 자주시키기도 조심스럽더라고요

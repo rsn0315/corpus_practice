@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009347
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 여행 좋아하죠
+P1 	: 시국이 시국이라 요즘은 못가지만요
+P0 	: 전 바다 보고싶네요
+P1 	: 저도요 물놀이 안한지 좀 됐어요
+P0 	: 코로나때문에
+P1 	: 그쵸... 부산도 좋은데
+P0 	: 맞아요
+P1 	: 최근에 다녀오신 곳 있나요
+P0 	: 남해요
+P1 	: 그래도 바다 다녀오셨네요
+P0 	: 네 7월에
+P1 	: 회 드셨나요
+P0 	: 멸치쌈밥이요

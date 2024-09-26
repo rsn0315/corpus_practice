@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100006214
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아무튼 출근이라는 프로그램 아시나요
+P1 	: 오 네네 들어봤어요!!!
+P0 	: 지금 보고있어서 여쭤봤어요 보신적은 없구요?
+P1 	: ㅋㅋㅋ네네 ㅋㅋ오늘은 어느회사 나오나요?
+P0 	: 오늘은 약사랑 라이브커머스pd요 ㅎㅎ
+P1 	: 우와 두명이나 나오나요?!?!?
+P0 	: 마지막에 건설소장?한명 더 나왔는데 짤렸네요~
+P1 	: 헐 세명인거에요 그럼?!?!?!
+P0 	: 네 약사라는 직업도 괜찮아보이네요
+P1 	: 그러게요 약사는 팀사람들이랑 부딛힐 일 없는게 부러워요ㅠ
+P0 	: 답답하다곤 하는데 말씀하신게 큰 장점인듯요
+P1 	: 하긴 혼자만 일하면 심심하기도 할것같아요 ㅋㅋㅋ
+P0 	: 네 그리고 구구절절 이야기 긴 단골손님들..

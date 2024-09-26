@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100013490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 다시 육출
+P1 	: 퇴근후 육출
+P1 	: 오늘 저녁은 뭐 해 먹니
+P1 	: 집안일은 다 했나
+P0 	: 응 언니 이제 집에 도착했다. 아까전에 시댁다녀옴.
+P0 	: 첫째 데리고 왔다.
+P1 	: 첫째 좀 어때??
+P1 	: 가라앉았나??
+P0 	: 아니 언니 아직 빨갛다
+P0 	: 알러지 맞는것같아.
+P0 	: 내일 일단은 안과 한번 데리고 가게.
+P0 	: 학교 들어가기전에 안과에 가고싶은데 등교시간이 있으니 난감하네. ㅠㅠ
+P1 	: 그렇네 내일 등교 전까지 가라앉으면 좋은데
+P1 	: 뭐 잘못 먹었나 보다
+P1 	: 간지럽다고는 안하나??
+P0 	: 살짝 간지럽대
+P1 	: 내일 일단 학교 갔다가
+P0 	: 눈꼽끼는건 없어서
+P1 	: 돌봄 안 하고 바로 와야겠다
+P0 	: 눈병은 아닌것 같은데
+P1 	: 그래 눈 주위가 빨간 거 보니까
+P0 	: 학교 먼저 가야되나?ㅠ ㅋㅋ
+P1 	: 알러지가 맞는 듯
+P1 	: 개학이니 학교를 안 갈 수는 없고
+P0 	: 그런가보다..ㅠㅠ
+P1 	: 일단 아침에 일어나서
+P1 	: 계속 빨가면 병원부터 가고

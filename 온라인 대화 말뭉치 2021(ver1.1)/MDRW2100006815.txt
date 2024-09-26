@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아침은 먹었나요?
+P0 	: 전 아침 안 먹어요
+P1 	: 그렇군요 그럼 점심을 맛잇는 걸 먹겠네요
+P1 	: 오늘 점심 메뉴는 골라놨나요?
+P0 	: 회사 식당에서 먹어요.  그냥 한끼 떼우는 정도
+P1 	: 먹는 거엔 큰 의미를 안두나 봅니다
+P1 	: 그럼 저녁에 맛있는 음식을 먹어야 하겠네요
+P0 	: 회사 식당이 진짜 맛없어요
+P0 	: 그냥 배고파서 먹고 있어요
+P1 	: 그렇네요
+P1 	: 좋아하는 음식은 있나요?
+P0 	: 생선 종류 제외하고는 다 좋아해요
+P1 	: 그렇군요 육고기 위주로 먹으면 되겟네요
+P0 	: 요즘에 식탐이 좀 없어졌어요
+P1 	: 그렇네요
+P1 	: 이게 가을 되면 식욕이 돌아올까요?
+P0 	: 그정돈 아니고 원래 잘 먹어요ㅋ
+P1 	: 그렇군요 비가 많이와서 일시적으로 입맛이 떨어졌나봅니다

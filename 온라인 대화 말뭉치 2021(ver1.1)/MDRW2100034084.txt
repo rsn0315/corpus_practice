@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100034084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맵기는 몇단계로 드세요?
+P0 	: 저는 2단계 주로 먹어요
+P0 	: &name2& 님은요?
+P1 	: 저는 보통 맵게 먹어요!
+P1 	: 매운걸 좋아해서 ㅎㅎ
+P1 	: 근데 또 너무 매우면 마라맛이 세져서 ㅋㅋ 3단계 매운맛으로 먹어요
+P0 	: 저도 좋아하는데 불닭정도가 한계인 거 같아요ㅠㅠ
+P1 	: 아 불닭도 매운편이잖아요 !
+P1 	: 저는 마라탕 0단계 드시는분도 봤어요 ㅋㅋ
+P0 	: 1단계는 먹어봤는데 0단계는 못 먹어봤어요 국물이 거의 하얗던데 마라맛이 날까 궁금하네요
+P1 	: 맞죠 ㅋㅋ 보기에는 그냥 사골국물 느낌인데 ㅋㅋ
+P1 	: 1단계는 어때요??
+P0 	: 얼얼하거나 맵은 맛이 거의 없었어요. 그래도 워낙 간이 쎄니까 맛있게 먹었어요
+P0 	: 매운 맛..!
+P1 	: 오오 1단계도 맛있군요 !
+P1 	: 제가 그 마라알갱이 씹히는걸 안좋아해서 ㅋㅋ
+P1 	: 1단계로도 먹어봐야겠어요
+P0 	: 요즘에는 맵기랑 얼얼한 맛 따로 조절할 수 있는 곳도 많더라고요! 한번 찾아보세요!
+P1 	: 오 헐 찾아봐야겠어요!!
+P1 	: 마라샹궈도 좋아하세요?
+P0 	: 아직 한번도 안 먹어봤어요!
+P1 	: 헐 드셔보세요!! 엄청 맛있어요 ㅎㅎ 왜 안드셨어요 ???
+P0 	: 제가 아직 마라탕도 입문한지 두 달밖에 안 돼서 마라탕만 몇 번 먹어봤어요!

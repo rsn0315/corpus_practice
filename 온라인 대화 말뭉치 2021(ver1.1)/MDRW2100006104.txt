@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 이제 먹으려구요
+P1 	: 식사하셨나요?
+P0 	: 네 먹었엉6
+P0 	: 어요
+P0 	: 뭐 드실 예정이신가요?
+P1 	: 저는 치킨이랑 샐러드요!
+P1 	: 뭐드셨나요?
+P0 	: 저는 볶음밥이요
+P0 	: 어떤 치킨 드셨나요?
+P1 	: 에어프라이어에돌려먹는 치킨이에요
+P1 	: 하림께맛있더라구요
+P0 	: 하림은 닭가슴살 아닌가요?
+P1 	: 하림 브랜드에 이것저것 많이 있죠 오늘 냉동치킨있길래 먹어봤는데 괜찮네요
+P0 	: 그럼 다리살도 있나요?
+P1 	: 그럼요 부위별로 다 있으니 한번구매해서 드셔보셔도 좋을거에요
+P0 	: 한 번 찾아볼께요

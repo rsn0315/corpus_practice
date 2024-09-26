@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100023490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아침부터 눈이 불편하더니ㅠ 출혈이 생겼네
+P0 	: 훌.. 어제 저녁부터 뻑뻑하다고 하더니
+P1 	: ㅇㅇ 아침에 부은 느낌이 들어서 회사 가서 거울봤더니.. ㅠ
+P0 	: 얘기하고 병원에 다녀와
+P1 	: 요즘 안과 찾기 힘든데
+P0 	: 검색하면 다 나올텐데 뭘..
+P1 	: 그냥 둬도 사라지지 않을까?
+P0 	: 그래도 혹시 모르니까 다녀와
+P1 	: 왜 갑자기 이렇게 됐지?ㅠ
+P0 	: 눈에 무리가 많이 갔나보지.. 너무 피곤하거나 스트레스 받아서
+P1 	: 요즘 일이 많긴 한데.. 눈 안에 출혈이 있으니 보기 흉하네
+P0 	: 사람들이랑 눈 마주치면 깜짝 놀라겠다 ㅠ 얼른 치료받아야지
+P1 	: 요즘 마스크 써서 눈밖에 안보이니 더하지 ㅎㅎ

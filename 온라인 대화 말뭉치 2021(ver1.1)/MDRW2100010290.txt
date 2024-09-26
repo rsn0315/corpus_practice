@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010290
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨가 참 왔다갔다해요..
+P1 	: 넵!! 내일까지.계속 비가 오려나봐요 ㅠ 눅눅하네요 ㅠ
+P0 	: 그쵸ㅠㅠㅠ 소나기도와서
+P0 	: 비올 때 가을이면 긴바지입으시나요?
+P1 	: 긴바지 입으면 다 젖어서 무릎선기장으로 입어요^^
+P0 	: 맞죠 ㅎㅎㅎ
+P0 	: 저도 그러려고하는데
+P0 	: 살때문에 반바지가 꺼려져서요ㅠㅠ
+P1 	: 뭐 다들 저만 보는거 아닌데요 ㅎㅎ 오늘도 비 왔나요?
+P0 	: 저희는 안왔어요
+P0 	: 거기는요?
+P1 	: 여기는 좀 왔어요. 일주일 내내 비오니 우울하네요
+P0 	: 지역이 어디세요?
+P1 	: 여긴 대전이예요. &name1&님은요?
+P0 	: 오오 저도 본가는 대전이요!
+P0 	: 지금은 서울이랍니닿ㅎ
+P1 	: 서울은 날씨 괜찮죠? 전 변산 반도 왔는데 호우 주의보라더니 완전 날씨 좋아요^^

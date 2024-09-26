@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002772
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임 좋아하세옼?
+P0 	: 음 최근에는 잘 안하는데 전에 테일즈런너했어요
+P0 	: 혹시 아시나요?
+P1 	: 윽 아니요ㅠ
+P0 	: 음 그럼 &name2&님이 즐겨하는 게임은 있으신가요?
+P1 	: 아니요~근데 저희 남편이 스타 좋아해요
+P0 	: 앗 스타는 제가 아는 게 없어서 죄송해요. 모바일 게임도 잘 안하시구요?
+P1 	: 앗 네~~ㅎㅎ 재밌는거 추천해주세요
+P0 	: 최근에 올림픽으로 양궁이 핫해서 올림픽양궁이란  게임을 하고있어요
+P0 	: 과녁에 활을 쏴서 맞추는거라 꽤 재미있더라구요
+P1 	: 아 그런게임도 있군요!!ㅎㅎ
+P0 	: 저도 최근에 알게됐어요. 신기하더라구요
+P1 	: 저도 한번 해봐야겠어요
+P0 	: 네 한 번 도전해보세요..ㅎ 
+	  여러나라에서 참가해서 겨루는 재미도 있더라구요
+P1 	: 오 재밌겠어요

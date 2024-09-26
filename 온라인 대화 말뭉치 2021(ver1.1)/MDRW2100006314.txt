@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006314
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘 비왔나요?
+P1 	: 네 아침부터 계속오네요
+P0 	: 여긴지금 그쳤어요
+P1 	: 날씨도 쌀쌀해요
+P0 	: 여기도 쌀쌀해요
+P1 	: 집은 근데 왜더울까요ㅎㅎ
+P0 	: 전 선풍기 안키고있어요
+P1 	: 선풍기틀고 있는데
+P0 	: 전 이불덥고있어요
+P1 	: 헉 ㅎ아파트라 시원한가봐요
+P0 	: 주택이요
+P1 	: 오피스텔이라 환기가 잘안돼서
+P0 	: 강옆이라 그런지  선선하네요
+P1 	: 바깥공기가 잘 안들어오네요
+P0 	: 맞바람불어야 환기도 잘되더라구요
+P1 	: 그니까요
+P0 	: 습해서 빨래말리기 힘드네요
+P1 	: 비 지긋지긋한데 태풍 북상중이래요

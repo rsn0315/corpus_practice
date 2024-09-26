@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025701
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ㅎㅎ
+P0 	: 최근에 공연 전시회 가신게 있으신가요?
+P1 	: 아뇨 요즘엔 많이 안가서요
+P0 	: 저는 요즘 이건희 미술 전시회 가고 싶어요
+P0 	: 서울이라 아주 결심하고 가야하긴하지만 ㅠ
+P1 	: 지방사시나봐요 저도그런데..
+P0 	: 네 서울엔 안살아요 ㅠ
+P0 	: 요즘 코로나라 또 입장제한도 있더라구요
+P0 	: 인터넷 신청해야하던데
+P0 	: 안해봤지만 그것도 빡실거같아요
+P1 	: 네 번거롭겠어요
+P1 	: 좋아하는 작가있으세요?
+P0 	: 요즘 작가는 잘 모르고 ㅠ 모네? 는 좋아요
+P0 	: 뭔가 그냥 그림이 맘에들어요
+P0 	: &name2&님은 있으세요?
+P1 	: 아뇨 할말이 별로 없어서요 ㅋㅋ
+P0 	: 그쵸 ㅠㅠ
+P0 	: 음 그럼 기억나는 아무거나 말해볼까요
+P1 	: 솔직히 저는 미술로는 이말저말 갖다붙이면서
+P0 	: 책보다가 알았는데 우리나라에서 가장 인기있는 화가가 빈센트 반 고흐래요 ㅋㅋ
+P1 	: 뻥튀기하는게 심한거같아요
+P0 	: 어 그런거같아요 저도
+P0 	: 예술성이 뭔지 잘 모르겠어요 ㅠ

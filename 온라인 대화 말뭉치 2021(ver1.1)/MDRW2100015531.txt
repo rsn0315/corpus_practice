@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100015531
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네
+P1 	: 같이살아요
+P0 	: 인천에서 같이 살아요?
+P1 	: 넵 ㅋㅋ
+P1 	: 이제 결혼과 동시에 독립해야죠
+P0 	: 결혼하셔도 신혼집은
+	  인천으로? ㅋㅋㅈ
+P1 	: 아뇨
+P1 	: 타지역으로 가야죠
+P1 	: 인천이제 벗어날때 됐어요 ㅋㅋ
+P0 	: 아.... &name2& 마저 떠나시는군요ㅋㅋㅋㅈ
+P1 	: 떠나야죠
+P1 	: 출퇴근 힘들어요
+P0 	: 그럼 신혼집은 서울로?
+P0 	: 지금은 연수구에 사시나보네용
+P1 	: 어?
+P1 	: 어떻게 아세요?
+P0 	: ㅋㅋㅋ배운여자는 다 압니다
+P1 	: 어떻게 아신거에요?
+P0 	: 연수구요?ㅋㅋㅋㅋㅋㅋ
+P1 	: 네
+P1 	: 앗?
+P1 	: 설마
+P0 	: 지금 뒤에
+P1 	: 공포감조성
+P1 	: 옐로카드
+P1 	: ㅋㅋㅋ
+P0 	: 아 쏴리ㅜㅜㅋㅋㅈ
+P1 	: 잘잤습니다 ㅋㅋㅋ
+P0 	: 굿모닝입니다:)
+P0 	: 매일 일찍 출근하셔서
+	  아침은 가족들이랑
+	  같이 못드시겠어요
+P0 	: 저녁은 가족 다같이 먹나요?

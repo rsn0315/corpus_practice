@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033934
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 집안일해요?
+P1 	: 청소랑 설거지 가끔해요
+P0 	: 저도
+P1 	: 일주일에 몇 번 정도 해요?
+P0 	: 화장실 일주일에 한번
+P1 	: 청소기는 몇 번 돌려요?
+P0 	: 매일
+P1 	: 그냥 편하게 말하자
+P0 	: 그래
+P0 	: 너는 청소기 언제언제 돌려?
+P1 	: 이틀에 한번!
+P1 	: 집안일 좋아하는 편이야?
+P0 	: 그냥 하면 뿌듯해
+P0 	: 근대 가끔 귀찮아
+P1 	: 그건 맞지
+P1 	: 피곤할 때는 그냥 던져 둬
+P0 	: 나도ㅋㅋㅋ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017698
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침식사는 했어요?
+P1 	: 네 식사 잘 하셨어요?
+P0 	: 갈비탕 끓여 먹었어요
+P1 	: 저도 갈비탕 좋아해요
+P1 	: 추어탕도
+P0 	: 맞아요 맛있고 영양도 있고
+P0 	: 속이 든든하죠
+P1 	: 요즘은 1인분 포장된채로 나오는 제품도 많아 좋아요
+P0 	: 그렇군요. 집에서 제대로 맛내려면 손이 워낙 많이 가니
+P0 	: 그렇게 사먹는게 훨 좋을수도 있겠네요
+P1 	: 맞아요 원산지랑 위생만 믿을 수 있으면
+P0 	: 아님 맛집에서 포장해오거나
+P1 	: 그 편이 더 좋더라구요
+P0 	: 좋아하는 브랜드(?)있어요?
+P0 	: 주로 어디서 구매하는 편이에요?
+P1 	: 저는 마켓컬리 헬로네이처 많이 쓰고
+P0 	: 컬리!
+P1 	: 배달어플도 자주 사용해요
+P0 	: 안녕하세요

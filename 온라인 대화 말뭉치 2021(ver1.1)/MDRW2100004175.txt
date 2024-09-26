@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100004175
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 여행 최근에 다녀오신적있나요?
+P0 	: 아니요 코로나때문에 못갔어요ㅜㅜ
+P0 	: &name2&님은 여행 다녀오셨어요?
+P1 	: 아쉽네요ㅠㅠ저는 속초로 잠깐 다녀왔어요
+P1 	: 제주도에 가고 싶었는데~ㅜㅜ
+P0 	: 오 속초 다녀오셨구나
+P0 	: 속초 여행 어떠셨어요?
+P1 	: 네 친척이 있어서 조심스럽게 다녀왔어요ㅎㅎ 바다는 엄청 좋더라구요
+P0 	: 바다ㅠㅠ 밤바다 가보고싶어요
+P0 	: 코로나 풀리면 여행 어디로 가보고싶으세요?
+P0 	: 제주도인가요?
+P1 	: 네 여름에만 느낄수있는 밤바다가 좋은데
+P1 	: 네 제주도도 가고싶고 동남아도 가고싶어요
+P0 	: 동남아가 여행하기 그렇게 좋다고 들었어요
+P0 	: 열대과일도 싸고
+P1 	: 네 날씨좋은게 제일 좋더라구요 바다랑ㅜㅜ
+P0 	: 동남아만의 그 감성 찰랑찰랑 롱원피스 입고 가보고싶어요!ㅜㅜ
+P1 	: 맞아요 여행가면 새로운 옷도 입어보구ㅎㅎ
+P0 	: 정말 좋죠... 여행 얘기하니까 여행 가고싶어요

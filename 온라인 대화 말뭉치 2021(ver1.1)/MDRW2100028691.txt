@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028691
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 읽고싶은 책 있으신가여?
+P0 	: 글쎄요. 산 책도 아직 못읽고 있네요ㅋㅋ
+P1 	: ㅋㅋㅋㅋ아 책 집중 안되져 ㅠ
+P0 	: 네 만화책만 재밌어요ㅋㅋ
+P1 	: 아 저두요
+P1 	: 만홫9ㄱ 뭐 보세요?!
+P1 	: 만화책
+P0 	: 웹툰 단행본이요
+P0 	: 이번엔 전독시 샀어요
+P1 	: 전독시 줄임말인가요.?!!
+P1 	: 무승 웹툰인가요
+P0 	: 전지적 독자 시점이라구 네이버 웹툰이에요
+P0 	: 판타지요ㅋㅋㅋ
+P1 	: 오.. 판타지
+P1 	: 좀 끌리는데요
+P0 	: 연재중인거니까 한번 보세요ㅋㅋ
+P1 	: 연재 많이 됐나여???!
+P1 	: 기다리다가 지칠까봐 하하
+P0 	: 웹툰은 오래 연재된건 아니에요
+P0 	: 소설이 원작이어서ㅋㅋ 소설은 완결났구요
+P1 	: 끝날 때까지 기다려야겠어요 ㅎㅎ

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100029734
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 벌써 또 점심 시간이네요
+P1 	: 점심 챙겨드셨나요ㅎㅎ
+P0 	: 네:) 아이 먹이면서
+	  같이 만두국 먹었어용
+P0 	: &name2&님은요?
+P1 	: 저도 간단하게 달걀국해서 먹었네요ㅎㅎ
+P1 	: 만두국도 맛있었겠네요
+P0 	: 와우 직접 하신거에요? :)
+P1 	: 다시다안 있으면 간단하죠ㅎㅎ
+P0 	: 앗ㅋㅋ  msg{emoji:♡}
+P0 	: 그래도 손수 만들어 드시는게
+P0 	: 대단하시네요
+P1 	: 만두도 있었는데 넣었다면 만둣국이 됐을거같아서 아쉬워요
+P1 	: 이번에 사놓은 만두가 밀가루 냄새가 심해서 씁쓸하긴 하지만..ㅎㅎ
+P0 	: 어떤 만두길래
+	  밀가루 냄새가 심할까요ㅠ
+P1 	: 대기업만두인데 실망감이 크네요ㅠ
+P1 	: 보통 시장에서 사오는데 마트간김에 사왔더니 배신감들어요ㅠ
+P0 	: 초성으로라도 알려주심
+P0 	: 만두구입할때 걸러야겠어염ㅋㅋ
+P1 	: 그냥 cj에서 만든건데 쉐프? 무슨 브랜드같아요
+P1 	: 똬리만두인데 피도 질기고 밀전병 특유의 냄새가 나던...ㅜ
+P0 	: 쉐프솔루션 만두인가보네용
+P1 	: 네네 맞아요!!
+P0 	: 다음번엔 비비고로 사세용{emoji:♡}

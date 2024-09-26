@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012345
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 비가 너무 오죠ㅠㅠ
+P1 	: 네 이틀 연속 등원때마다 폭우가 오더니 오늘은 좀 덜 하네요
+P0 	: 그러게요 이정도 날씨도 그저 감사 ㅜ
+P1 	: 여기는 갰다가 다시 또 비가 오네요?
+P0 	: 여긴 좀 개었어요 제발 계속 ㅜ
+P1 	: 습한가요? 추운가요?
+P0 	: 추운 정도 는 아닌데 에어컨을 켜놓으니 썰렁한 ㅋㅋ
+P1 	: 저는 문 열어놓으니 습하긴 해도 시원하기도 하네요^^
+P0 	: 그러게요 날씨가갑자기 선선
+P1 	: &name1&님은 어떤 계절을 좋아하시나요?
+P0 	: 전 봄가을이 좋지만 넘 금방 가요ㅜㅜ
+P1 	: 맞아요 봄가을 너무 짧은것 ㅠㅠ
+P0 	: 좋은 계절이 점점 짧아지고 ㅜㅜ
+P1 	: 여름 겨울은 넘 길어졌죠 ㅠ
+P1 	: 오늘 날씨 좋죠~?

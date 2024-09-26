@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001821
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 요즘 미세먼지 없어서 하늘이 엄청 깨끗하더라
+P0 	: 맞아 너무 쾌청해
+P1 	: 사진찍어 두고 싶은 하늘
+P0 	: 난 너무 예뻐서 찍어뒀엉 ㅎㅎ
+P1 	: ㅎㅎㅎ 역시나
+P0 	: 달도 엄청 밝게 보여
+P1 	: 미세먼지 없으니 살 것 같아
+P0 	: 공기청정기 돌아갈 일이 없엉 ㅎㅎ
+P0 	: 마스크만 안쓰면 딱인데
+P1 	: 곧 그렇게 될거야
+P0 	: 다음주엔 비온다던데
+P1 	: 요즘 먹구름이 자주 끼더만
+P0 	: 날씨가 변덕이 심해
+P1 	: 동남아처럼 갑자기 비오고 ㅎㅎ
+P0 	: 맞아 우산 항상 가지고 다녀야 됑
+P1 	: 일기예보 잘 안맞아서 항상 가지고 다니는 수밖에 ㅎㅎ
+P0 	: 진짜 일기예보 잘 안맞긴 하더라
+P1 	: 저번주 날씨도 거의 안맞음 ㅋ
+P0 	: 최신 컴퓨터 쓴다는데 왜그런지 ㅠ
+P0 	: 귀뚜라미 우네.. 이제 가을인가봐

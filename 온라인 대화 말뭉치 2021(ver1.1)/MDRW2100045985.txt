@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100045985
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 너 자신 있는 요리가 뭐야
+P0 	: 타스타
+P1 	: 파스타 잘하나 보네
+P0 	: 은근 쉬워
+P1 	: 레시피 알려줘
+P0 	: 일단 나는 마늘 스파게티를 좋아해
+P1 	: 나도 좋아해
+P0 	: 마늘을 잔뜩 타죠
+P1 	: 그런 다음
+P0 	: 기름에 열심히 볶아
+P1 	: 무조건 맛있겠다
+P0 	: 이제 면을 삶아

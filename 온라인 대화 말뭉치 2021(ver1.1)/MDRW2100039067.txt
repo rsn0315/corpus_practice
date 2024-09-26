@@ -1,0 +1,73 @@
+# FILE DATA
+ID : MDRW2100039067
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!!
+P0 	: 형제자매 있으세요?
+P1 	: 네네 &name1&님은요?
+P0 	: 저도 있어요
+P0 	: 2살 아래 남동생이요ㅎㅎ
+P1 	: 우와 ㅎㅎㅎ
+P1 	: 남동생이랑 친하신가요?
+P0 	: 많이 친해요
+P0 	: 이름만 안부르지 거의 친구죠
+P1 	: 오오 그러시구나
+P1 	: 저도 오빠랑 언니들이 있는데
+P1 	: 다들 나이차이가 저랑 많이 나서
+P1 	: 어렸을 땐 좋았는데 요즘은 좀 슬퍼여ㅠ
+P0 	: 왜요?ㅠㅠ
+P1 	: 뭐랄까... 삶의 주기가 안맞아서
+P1 	: 서로 공감대 형성이 안될 때가 있어요ㅠ
+P0 	: 나이 차이가 심하신가봐요
+P0 	: 형제간 세대 차이라니
+P1 	: 네네
+P1 	: 오빠랑은 16살 차이 나고
+P1 	: 큰언니랑은 14살, 작은언니랑은 12살 차이 나요 ㅎㅎ
+P0 	: 와 완전 늦둥이시네요
+P1 	: 네네 ㅎㅎ
+P1 	: 그래서 세대차이가 좀 나요 ㅋㅋㅋㅋㅋㅋ
+P0 	: ㅠ 혼자 외로우시겠어요
+P1 	: ㅎㅎ 괜찮아요 모부님 계셔서~!
+P0 	: ㅎㅎ 다행이네요
+P1 	: &name1&님은 여자분이신가요?!
+P0 	: 네전 여자에요
+P1 	: 오오 반갑습니다~~~
+P1 	: &name1&님은 어머니 아버지랑 친하신가요?!
+P0 	: 네 많이 친하세요
+P0 	: 이런말 하면 안되지만 치고박고 싸우기도 가능하신.. ㅋㅋ
+P1 	: 아낰ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 어무니 아부지가 젊으신가봐요~!

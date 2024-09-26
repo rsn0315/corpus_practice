@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100027812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 너 휴학하니
+P0 	: 잘못하면 하게 될지도
+P0 	: 수강신청 망해서
+P1 	: ...
+P1 	: 근데 수강신청 지난 거 아냐?
+P1 	: 정정기간인가
+P0 	: 아직 정정기간임
+P1 	: 근데 못 잡았구나
+P0 	: 하나라도 더 잡아야 하는데...
+P0 	: 자리가 없어..........
+P1 	: 아니 대체 전공 티오가 왜 그모양인
+P0 	: ㅋㅋ
+P0 	: 원투데이도 아닌데
+P0 	: 왜 이러는 걸까
+P1 	: 수업이라도 늘려달라고
+P0 	: 분반 좀 늘려보라고
+P1 	: ㄱㄴㄲ
+P0 	: 으아악 전공 수업 내놔
+P0 	: 역시 휴학이 답인가...
+P1 	: 졸업필수과목티오가 극악인 수업이 싫다
+P1 	: 정정서라도 받아줘
+P0 	: 그니까
+P0 	: 증원해줘
+P1 	: 수업내놔
+P0 	: 사람이 몇명인데.... 너무하다.......
+P1 	: ㄹㅇ

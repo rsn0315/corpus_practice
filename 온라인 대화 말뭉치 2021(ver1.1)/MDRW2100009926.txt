@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009926
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 2학기 시작하셨나요
+P1 	: 저는 학생이아니예요
+P1 	: 학생이신가요?
+P0 	: 아니용
+P1 	: 학교다니실때 동아리활동 하셨나요?
+P0 	: 네 전 일본어관련 동아리했어요
+P1 	: 어떠셨나요?일본어 배우는데 많은 도움이 되었나요?
+P0 	: 사실 사람 사귀려고 간 곳이라 제가 열심히 안해서 큰 도움은 안되었던거같아요ㅋㅋ
+P0 	: 동아리 뭐 하셨어요?
+P1 	: 저는 배드민턴 잠깐했다가
+P1 	: 나왔어요
+P0 	: 아 운동 좋아하시나봐요!
+P1 	: 네 좋아해요
+P0 	: 요즘도 꾸준히 운동하세요?
+P1 	: 주에 3번은 하려고해요

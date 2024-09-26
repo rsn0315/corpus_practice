@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046264
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211018
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~!
+P1 	: 오늘 너무 춥네요 ㅠㅠ
+P0 	: 네 많이 춥네요 ㅜ
+P1 	: 출근하시나요?!
+P0 	: 네 출근했어요
+P1 	: 아침은 드셨어요?
+P0 	: 아직 업무시작전 입니다
+P0 	: 네 먹었습니다
+P0 	: 간단히..
+P1 	: 부지런하시네요..!
+P1 	: 버통 아침에 뭐 드세요?
+P0 	: 과일조금과 고구마 같은거 먹습니다
+P0 	: 커피도요
+P0 	: 밥은 잘 안먹어요
+P1 	: 아하, 좋아하는 음식은 뭐예요?
+P0 	: 입맛이 한식파라 고등어조림 해장국 같은거 좋아하고 즐겨먹습니다
+P1 	: 역시 한국인은 해장국이죠! {emoji:👍}

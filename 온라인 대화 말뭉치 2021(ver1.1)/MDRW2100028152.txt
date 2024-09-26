@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100028152
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 아니요 아직입니다
+P1 	: 결혼하셨나요?
+P0 	: 네
+P1 	: 오 언제 결혼하셨어요?
+P0 	: 8년이요
+P1 	: 와
+P1 	: 신혼여행은 어디로 다녀오셨어요?
+P0 	: 파리요
+P1 	: 우와
+P1 	: 낭만적이네요 ㅇ0ㅇ
+P1 	: 스케쥴 짜시느라 정신 없으셨겠어요
+P0 	: 와이프가
+P1 	: 와
+P1 	: 몇박으로 다녀오셨어요?
+P0 	: 4박이요
+P1 	: 와 좋으셨겠어요
+P1 	: 센강 다음으로 기억에 남는 곳은 어디셨어요?
+P0 	: 루브르박물관이요

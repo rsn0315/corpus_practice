@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100003494
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 생활 어때요?
+P0 	: 아.. 학생이신지 묻는게 먼저겠구나 학생인가요?
+P1 	: 아뇨 학생은 아닌데
+P1 	: 수능준비중이에요
+P0 	: 아 어디과를 준비하고있나요?
+P1 	: 만화과 준비중이에요
+P1 	: 어디 과 나오셨어요?
+P0 	: 저는 조리쪽 전공했어요ㅎ
+P0 	: 만화과면 추후에 웹툰작가나 애니매이터 쪽을 꿈꾸시는건가요?
+P0 	: 스토리작가나..?
+P1 	: 웹툰작가 노리고 있어요
+P1 	: 조리쪽이면 직업도 그쪽이세요?
+P0 	: 직업은 아니구요 음 이상과 현실은 다르니까요ㅎ
+P0 	: 웹툰을 그리게 된다면 어떤 스토리를 그리고 싶나요?
+P1 	: 스토리는 다 좋은데
+P1 	: 풍경 이쁜거를 많이 그리고 싶네요
+P0 	: 너무 좋아요
+P0 	: 혹시 참고하는 작가님이 계신가요
+P1 	: 너의이름은 보면 풍경 되게 예쁘게 나오더라구요
+P1 	: 그런 그림 그리고 싶네요
+P0 	: 너무 좋은 작품이에요
+P0 	: 준비하면서 어려운 점은 없나요?
+P1 	: 따로 그렇게까지 어려운점은 없더라구요
+P0 	: 앗 그러시군요

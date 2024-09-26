@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여향
+P1 	: 어디 가고싶으세요
+P0 	: 저는 프랑스 남부 여행해보고 싶어요!
+P1 	: 아 좋죠 ㅠㅠㅠㅠ
+P1 	: 남부 오디요?
+P0 	: 니스랑 엑상프로방스요ㅎㅎ 와이너리도 가보고 싶어요 !!
+P1 	: 오 어딘지 잘 모르지만
+P1 	: 되게 좋아보이네요ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 아 스페인도 아직 안가봐서 가보고 싶어요
+P0 	: &name2&님은 가보신적 있나요?
+P1 	: 아뇨 저도 스페인 가고싶어요
+P1 	: 너무 예쁘죠
+P0 	: &name2&님은 어디 여행가보고 싶으세요?
+P1 	: 전 캐나다요 ㅠㅠㅠ
+P0 	: 이유가 있나용?!
+P1 	: 그냥 .. 너무 가고싶네요..
+P1 	: 겨울에에요
+P0 	: 캐나다 어느 지역 가고 싶으세요? 벤쿠버 아니면 토론토 퀘벡
+P1 	: 벤투버요 !!!!

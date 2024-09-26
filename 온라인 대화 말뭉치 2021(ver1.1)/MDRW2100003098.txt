@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아 그래 경북궁에도 하는데
+P0 	: 경기도 이천에 별빛정원이라고 있다
+P1 	: 평범할듯
+P0 	: 빛과 자연이 어울리는 신개념이라는데
+P1 	: 그래? 자세히
+P0 	: 미디어아트로 조명이 좀 틀린갑다
+P1 	: 특이하네 그럼
+P0 	: 미디어 아트 체험시설도 있고 라이팅쇼도 있다야
+P1 	: 시간은 언제인데
+P0 	: 점등이후 15분마다 한다는데
+P1 	: 흥 15분마다면 길게 안하겠다 무료야?
+P0 	: 아니  유료다
+P1 	: 흠
+P0 	: 버스킹도 있다는데 그럼 괜찮지
+P1 	: 버스킹까지
+P0 	: 응 거기다 산책로도 있고
+P0 	: 제주도 허브동산 가봤지

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100005994
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동하시나요
+P1 	: 빨리 걷기를 합니다
+P0 	: 얼마나 걸으시나여?
+P1 	: 하루 1시간을 걸어요
+P1 	: 주 5일 해요
+P0 	: 와 대단하시네요 주로  몇시에 걸으시나요
+P1 	: 저녁먹고9시에서 10시 까지 걸어요
+P0 	: 저녁 소화 잘 되시겠네요
+P1 	: 네 소화도 잘되고 운동후 잠도 잘 와요
+P0 	: 건강에 좋은 습관이네요 걸으신진 오래되셨나요?
+P1 	: 아니요
+P1 	: 올초부터 시작 했어요
+P0 	: 그럼 벌써 반년이 지났네요
+P1 	: 네 시간이 참 빠르네요
+P0 	: 꾸준하게 하는게 쉽지않으신데 알찬 한해를 보내십니다

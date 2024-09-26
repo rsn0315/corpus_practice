@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043226
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 돼지고기 김치찌개 맛있죠
+P0 	: 네 완전!
+P1 	: 푹끓이면 끓일수록 더 진해져서 진짜 맛있는 ㅠ..
+P0 	: 맞아요! 약간 진국이 되는듯한...
+P1 	: 삼겹으로 끓이면 기름이 너무 많아요
+P0 	: 저는 앞다리살로도 끓여봤는데요
+P1 	: 앞다리살도 괜찮지 않아요? 찌개용으로 많이 쓰기도하고
+P0 	: 저는 목살이 더 좋았어요
+P1 	: 왜요?
+P0 	: 앞다리살은 비계부분이 너무 커서 따로노는 느낌이 ㅎㅎ
+P1 	: 목살로 하면 비싸요
+P0 	: 그렇긴 한데ㅠㅠ 요즘 돼지값이 전체적으로 올라서 앞다리도 비슷해요
+P1 	: 그렇군요

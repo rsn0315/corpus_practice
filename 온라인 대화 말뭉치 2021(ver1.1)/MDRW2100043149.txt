@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100043149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 점심 드셨나요?
+P1 	: 안녕하세요 점심에 계란간장밥 먹었어요!!
+P1 	: &name1&님은 뭐 드셨어요?
+P0 	: 저는 육개장 먹었습니다!
+P0 	: 계란간장밥 오랜만이네요!!
+P0 	: 요즘 계란값이 너무 비싼거같아요ㅠㅠ
+P1 	: 그쵸 그래도 계란이 제일 만만하게 쉽게 먹을수 있어서
+P1 	: 먹을수 밖에 없네요
+P0 	: 맞아요
+P1 	: 빨리 내려갔으면 좋겠는데
+P0 	: 저도 비싸지만 항상 구비해놓는게 계란이더라구요ㅋㅋ
+P1 	: 안내려가겠죠 ㅋㅋㅋ 맞아요!!
+P0 	: 계란만큼 요리하기 쉬운것도 없는거 같아요ㅎㅎ
+P0 	: 여기저기 들어가도 맛있고
+P1 	: 그래서 좋아해요 ㅋㅋ
+P1 	: 계란 말이도 맛있고
+P1 	: 계란 찜도 좋고요!!
+P0 	: 맞아요
+P0 	: 김치볶음밥이랑 계란후라이 먹으면 최고더라구요ㅠㅠ
+P0 	: 아 반숙 좋아하시나요?!
+P1 	: 저 반숙 좋아합니다!!
+P1 	: 김볶에 최고죠 ㅠㅠ
+P1 	: &name1&님도 반숙파??
+P0 	: 네 저 반숙 좋아해요!!
+P0 	: 반숙 완전 좋아합니다ㅎㅎ

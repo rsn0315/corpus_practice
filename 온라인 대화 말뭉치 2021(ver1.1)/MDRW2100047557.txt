@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요?
+P1 	: 아니요!
+P1 	: &name1&님은요
+P0 	: 저도 안키워요 ㅎㅎ 언니가 알레르기가 있어서 ㅠㅠ
+P1 	: 키우고 싶은 동물은요?
+P0 	: 저는 강아지 키우고 싶어요 ㅠㅠ 애교쟁이 ㅎㅎ
+P1 	: 저는 고양이 키우고싶네요
+P0 	: 고양이도 매력있죠 ㅎㅎ 키우실 생각은 없으세요?
+P1 	: 여력이 되면 키우려고요!
+P0 	: 아 맞아요 ! 또 준비를 해야하니 ㅎㅎ
+P1 	: 키워보신적 한번도 없으신가요?
+P0 	: 음 제가 어렸을때 강아지 키웠는데
+P0 	: 기억이 안나요 ㅋㅋ 엄청 아기때여서 ..
+P1 	: 저는 닭 키웠어요
+P0 	: 헐 진짜요?? 마당 있어야 되지않나요 ㅎㅎ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002316
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 날씨 너무 좋다
+P0 	: 와 진짜 멀리까지 잘 보여
+P1 	: 미세먼지가 하나도 없네
+P0 	: 마치 안경을 닦아놓은 느낌 ㅎㅎ
+P1 	: 햇살도 너무 기분좋고
+P0 	: 확실히 하늘이 높아졌어 가을이라
+P1 	: 바람도 잘불어 빨래도 잘 말라
+P0 	: ㅎㅎ 아주 굿 날씨네
+P1 	: 집에만 있어도 기분좋은 날씨
+P0 	: 집에만 있긴 아까운 날씨지 ㅎㅎ
+P1 	: ㅎㅎ 진짜 떠나고 싶은 날씨야
+P0 	: 떠나자 레츠꼬우~~~!
+P1 	: 코로나라 못떠나서 슬프네 ㅠㅠ
+P0 	: 날씨라도 맘껏 감상해 ㅠㅠ

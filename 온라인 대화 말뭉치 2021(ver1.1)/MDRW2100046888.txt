@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046888
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210930
+topic : 시사(정치, 경제, 사회)>애플 신제품 공개
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P0 	: 애플 신제품이 공개될때마다 큰 화제였는데 이번에는 조용한 편이라 생각한다
+P1 	: 아이폰 혁신이 이제 끝이 난 것이 아닌가라고 하는 평들이 있기는 합니다
+P0 	: 하지만 여전히 바이오닉 칩셋의 성능이 독보적이며 시장 지배력을 무시할수가 없다
+P1 	: 미국 시장 60% 점유율이 깨지지 않고 있습니다
+P0 	: 아이폰13 이후 발표 행보가 애플에겐 중요하다
+P1 	: 혁신적 기술을 선도한 기업인데 답보 상태에 빠진 것은 맞다고 봅니다
+P0 	: 스마트폰 시장의 신기술에 대해 애플의 행보가 궁금하다
+P1 	: 저 역시 그렇다 중요한 시장이다
+P1 	: 인간에게 뗄수없는 중요한 사업이다
+P0 	: 삼성은 계속 견제 구도를 이루어야한다
+P1 	: 삼성의 매출과 점유율이 줄어들어 버거워하는 것같다
+P0 	: 애플의 독보적 부분을 부담스러워하기는 한다
+P1 	: 아무래도 점유율 자체가 높습니다
+P0 	: 애플은 시총 1위를 유지할 것이다

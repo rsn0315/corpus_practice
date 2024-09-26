@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아마도 칼국수를 먹기 싶어요
+P0 	: 밀키트인가요
+P1 	: 육수를 우려내 놓은 것이 있어요
+P0 	: 육수는 무엇을 넣었어요
+P1 	: 멸치 다시마 새우를 넣었어요
+P0 	: 구수 하겠네요
+P1 	: 한 번 우려내면 여러 번 먹을 수 있어요
+P0 	: 저는 다시다를 써요 간편하게
+P1 	: 칼국수 좋아하세요
+P0 	: 칼국수 보다는 수제비를 좋아해요
+P1 	: 해물넣으면 더 맛있어요
+P0 	: 저는 김치 칼국수가 맛있어요
+P1 	: 우동도 좋아해요
+P0 	: 버섯을 좋아하나요

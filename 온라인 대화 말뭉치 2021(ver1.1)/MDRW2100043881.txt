@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043881
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 괜찮아용 저녁은 드셨나요?
+P1 	: 네! 저녁먹었습니당
+P1 	: &name1&님은요?
+P0 	: 저두용
+P0 	: 어떤거 드셨어요?
+P1 	: 저는 콩나물국에 고추잡채먹었어요ㅎ
+P1 	: &name1&님은 뭐드셨어요?
+P0 	: 와 고추잡채 저 엄청 좋아해요ㅋㅋ
+P0 	: 저는 불닭크림리조또 먹었어요 ㅎㅎ
+P1 	: 요즘 불닭관련요리 드시는 분들이 많네요!
+P1 	: 저는 매운걸 못먹어서 불닭 한 번도 못먹어봤어요ㅜ
+P0 	: 불닭소스 쫌만 넣어도 맛있더라구요 ㅎㅎ!
+P0 	: 약간 불닭소스는 만능인 것 같아요..
+P1 	: 저도 눈 딱 한 번 감고 불닭소스 넣어서 요리해먹어볼까나...
+P1 	: 어느정도 맵기인지 모르겠어서 애매하네요ㅜ
+P0 	: 매운거 못드시면 반숟가락 정도만 넣으셔도 될 것 같아요!
+P1 	: 오오 꿀팁 감사해요!
+P0 	: 네네 담에 기회되심 해먹어 보셔요 ㅎㅎ
+P1 	: 네!! 그래야겠어요ㅋㅋㅋ
+P1 	: 매운거 도전   .....!!
+P0 	: 네네 좋아용 ㅋㅋ 도전 ..!

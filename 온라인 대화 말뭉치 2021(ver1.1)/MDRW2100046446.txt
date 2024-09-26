@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046446
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211022
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 선선한 오후네요!
+P0 	: 맞아요 날씨가 좋아요
+P1 	: 이런날 놀러다녀야 하는데 코로나 때문에 제한적이라 슬프네요 ㅠ
+P0 	: 저도 너무 슬퍼요
+P1 	: 코로나 끝나면 어디 여행 계획 있으신가요?
+P0 	: 캐나다 가고 싶어요
+P1 	: 헉 저도 전에 드라마 도깨비 보고 캐나다 가보고싶었는데!
+P0 	: 저도 가보진 못했어요
+P1 	: 캐나다에서 꼭 가보고싶은 곳이 있으신건가요?
+P0 	: 나이아가라  폭포요
+P1 	: 캐나다는 자연이 예쁜것같아요
+P1 	: 저는 퀘벡 가보고싶었거든요
+P0 	: 언젠가 꼭 가야죠
+P1 	: 해외여행 자유로워지면 꼭 가야겠어요 ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016882
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 전 대부분 뭐든 잘먹어요
+P1 	: 그런데 요즘 먹고픈건 훠궈에요
+P0 	: 훠궈 맛날것같아요
+P1 	: 맛도 있지만 코로나이후엔 거의 못먹어서 더 머꼬파요
+P0 	: 그러게요ㅠㅠ
+P0 	: 안타까운 현실
+P1 	: 마주보고 한 솥에 끓이니..
+P0 	: ㅠㅠ헐
+P0 	: 전 밀가루음식 다 좋아해요
+P1 	: 홈베이킹을 하시나요?
+P0 	: 아녀 그냥 사먹어요ㅋ
+P1 	: 전 핫케이크 정도만 해먹어요 ㅋㅋㅋ
+P0 	: 전 호떡이여ㅋㅋㅋ
+P1 	: 호떡도 홈 베이킹이죠!
+P1 	: 반죽이 부푼담에 굽자나요
+P0 	: 뽀끼도 해요ㅋ

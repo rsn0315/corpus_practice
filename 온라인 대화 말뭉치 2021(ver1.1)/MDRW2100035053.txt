@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100035053
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 나는 에버랜드에 가면 놀이기구를 타
+P0 	: 에버랜드에 여행을 갔으면 놀이기구는 꼭 타야지
+P1 	: 너 무서운 거 잘 타니
+P0 	: 티 익스프레스 정도는 꼭 타
+P1 	: 오 대단한데
+P0 	: 너는 주로 무엇을 타니
+P1 	: 나는 바이킹을 좋아해
+P0 	: 나도 바이킹 좋아해
+P1 	: 최근에 놀이공원 갔을 때 바이킹 만 다섯 번을 탔어
+P0 	: 줄이 길지 않았나 보다
+P1 	: 평일이라서 그랬나봐
+P0 	: 에버랜드 빨리 가고 싶다
+P1 	: 회전목마 도 꼭 가자

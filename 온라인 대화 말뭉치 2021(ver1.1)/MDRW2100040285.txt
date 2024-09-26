@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040285
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좀 이따 산책이나 나가려구요 ㅎㅎ
+P0 	: 저도 산책으로 운동하고 있어요
+P0 	: 걷기 좋은 공원이 근처에 있어서 사람들 덜 모인 곳으로 산책 다니죠
+P1 	: 저두요ㅎㅎ 집에만 있다보면 허리가 아프더라구요
+P0 	: 원래 수영을 오래 했었는데 작년부터 못하고 있어요
+P0 	: &name2&님은 예전에 했었던 운동 있나요?
+P1 	: 딱히 제대로 된 운동을 해 본적이 없어요ㅋㅋㅠ
+P0 	: 그래요? 저는 운동을 좀 좋아해서요.. 이것저것 했었거든요
+P1 	: 혹시 필라테스도 해보셨어요?
+P0 	: 헬스장 다녔는데 거기 한쪽에서 하는 필라테스 해봤어요
+P0 	: 필라테스 전문점은 가본적 없구요
+P0 	: &name2&님은 필라테스 해봤나요?
+P1 	: 아뇨 해보고는 싶은데 유연성이 떨어져서 잘 할 수 있을지 모르겠어요 ㅋㅋ
+P0 	: 전 유연성은 좋은 편이라 따라해봤더니 재미있더라구요
+P0 	: 운동을 좀 했던 사람이라 그런가봐요
+P1 	: 기초 운동부터 시작해야할까봐요ㅎㅎ
+P0 	: 운동 중요한데 기초부터 해야해요.. 갑자기 무리하면 병나요
+P1 	: 잘못하다 다치면 손해니까요ㅠ

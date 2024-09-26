@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003986
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: &name1&니
+P1 	: 누가봐도 &name1&다
+P1 	: ????
+P0 	: 왜?
+P1 	: 어이 아리마셍
+P0 	: 뭐야 그게ㅋㅋㅋㅋ
+P0 	: 피티 받고싶다...
+P1 	: ㅠ 나 퇴근 루트상
+P1 	: 3호선 라인에 덕천역에서 거제역 사이에
+P1 	: 피티샵 찾고 있는데 안보인다
+P0 	: 사상에
+P0 	: 사상은 위치 좀 그런가?
+P0 	: 사상 명지 경대 일케 3개 찾았거든..
+P0 	: 다 멀다..
+P1 	: 엉 사상에 피티 싼데 있긴한데
+P1 	: 그럼 내가 거제역 내려서
+P1 	: 덕천역 가서 사상역 가야함..
+P0 	: ㅏ...
+P0 	: 패스

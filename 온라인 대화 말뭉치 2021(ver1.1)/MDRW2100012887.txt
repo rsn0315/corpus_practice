@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012887
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 여행 자주다니시는 편인가요
+P1 	: 계획짜시는거나 뭔가 범상치 않은 느낌이어서요.. 
+	  전 국내여행 좋아하는 가족이 있어 정보없이 산이나 절보러 끌려가요 ㅎㅎ
+P0 	: 산이나 절 너무 좋아요
+P0 	: 기억에 남는 곳 있으신가요
+P1 	: 전 먹는거만 기억해서 ㅎㅎ해남 미황사 대추차가 진짜 하루인가 이틀 끓인거라 맛있었어요
+P0 	: 우와 해남 너무 좋을거같아요
+P0 	: 대추차도 너무 맛있을거같고
+P0 	: 저 궁금한게 있는데 해남가면 별 잘보이나요
+P1 	: 동해 낙산사 대추차는 오쿠가 해줘요..맛은 비슷합니다.ㅎㅎ
+P0 	: 아.. 당일치기 다녀오신건가
+P0 	: 동해 낙산사도 기억할게요
+P1 	: 밤에 숙소밖을 잘 안다녀서... 순천 천문대에서 별봤는데 겨울이 1등성 많댔어요
+P0 	: 순천 천문대 (메모 메모)
+P0 	: 겨울에 가봐야겠어요
+P1 	: 주위가 밝은곳은 낙산사/시가지구요
+P0 	: 오~ 대박 알려주셔서 고마워요
+P0 	: 약간 산에 가면 산이 주는 기운같은거 너무 좋지않으세요
+P1 	: 해남미황사는 주위깜깜해서 잘보일거예요
+P1 	: 산 좋아하시는 군요?ㅎㅎ
+P0 	: 그 산에서만 느낄 수 있는 느낌이 너무 좋더라구요

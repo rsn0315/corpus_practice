@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100001985
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일 하세요
+P0 	: ?
+P1 	: 네 그럼 하죠~ 요즘 할아버지랑 같이 살게 되어서 더욱 더 하게 되네요ㅠ
+P1 	: 밥 차려 치워 설거지해 청소해 빨래하고 널고 허허 바쁩니다ㅠ
+P1 	: &name1&님은 가족이랑 사시나요? 자취?
+P0 	: 집안일은 끝이 없는 것 같아요
+P0 	: 혼자요
+P1 	: 맞아요ㅠ 끝이 없죠ㅠㅠ 혼자 사시면 혼자해야하니까 더 할 게 많죠?!
+P1 	: 미루면 쌓이니까 그쵸
+P0 	: 네 제가 다해야 하죠
+P1 	: 자취하신지는 얼마나 되신거에요??
+P0 	: 9년이요
+P1 	: 헐 오래되셨네요 ㄷㄷ 그럼 집안일 거의 만렙이시겠는걸요!
+P1 	: 가끔 가족이랑 사는게 편하다 생각들지는 않으세요??
+P0 	: 거의 그렇죠
+P1 	: 그래도 혼자 지내는게 더 편하려나
+P0 	: 혼자 외롭죠
+P1 	: 가족이랑은 멀리 떨어져 지내시는거에요??
+P0 	: 네

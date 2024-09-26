@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100042807
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 백신 맞으셨어요?
+P1 	: 아뇨 오늘 맞으러가요!
+P0 	: 헉 대박
+P0 	: 잘 맞고 오세요!
+P0 	: 화이자 맞으시나요?
+P1 	: 그건 잘 모르겠어요 화이자 또는 모더나라고 적혀있더라구요
+P0 	: 쿠브어플에 그렇게 나오긴하는데 저는 문자도 이번주였나 저번주였나 한번 더 오더라구요
+P0 	: 거기에 화이자라고 적혀있긴 했네요
+P0 	: 저는 이번주 목요일에 맞아요 ㄷㄷㄷ
+P1 	: 아 저도 카톡으로 왔네요
+P1 	: 화이자 맞는대요
+P0 	: 10시에 맞으시나요??
+P1 	: 아뇨 오후 세시요 ㅎㅎ
+P0 	: 오 아직 여유있네요 ㅋㅋㅋ
+P0 	: 맞고나면 하루정도 못씻으니까 맞기 전에 샤워하고 가는게 좋대요!
+P1 	: 헐 그렇군요 그건 생각 못했어요
+P1 	: 씻구 가야겠네요
+P1 	: 약은 사놓으셨나요?
+P0 	: 네 저 엄빠가 사놓으신거 있는데
+P0 	: 열나는거 말고 통증?같은 증상에는 이부프로펜 계열이 좋다고해서 주사맞고나면 추가로 사려구요
+P1 	: 헐 그렇군요 근데 이부프로펜 먹어도 되나요? 아세트아미노펜만 먹어야된다 들었거든요
+P0 	: 아세트가 그 타이레놀인가요?
+P1 	: 네 타이레놀이요!

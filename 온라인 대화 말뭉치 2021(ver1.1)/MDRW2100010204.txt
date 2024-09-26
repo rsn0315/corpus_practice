@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100010204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 1회 미만
+
+P0 	: 너 나중에 자취할거임?
+P1 	: 응 기회와 돈만 된다면 할 거야
+P1 	: 너는?
+P0 	: 아직모르겠음
+P0 	: 엄마시골내려간다고하면자취하게
+P0 	: 하게되면대학근처에서할거임?
+P1 	: 아니 아마 대학 졸업 전 까지는 안할 것 같고
+P1 	: 졸업 후에도 대학 근처에는 하기 싫을 것 같음
+P0 	: 왜
+P0 	: 경기도아님?
+P1 	: &address& 쪽인데
+P1 	: 그냥 대학 근처에는 살기 싫음
+P1 	: 그것이 학생의 마음이니까
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ아그렇긴함
+P0 	: 학교는그냥싫어
+P0 	: 서울쪽으로갈거임?
+P1 	: 그니까 꼴도 보기 싫어
+P1 	: 엥 오 아마
+P1 	: 역근처에 주변에 병원과 놀이 시설이 많은 곳이었으면 좋겠다
+P1 	: 너는 뭐 가고 싶은 곳의 조건 같은 거 있어??
+P0 	: 완전완벽한집조건인데
+P0 	: 도시기만하면좋음
+P0 	: 아
+P0 	: 근처에
+P0 	: 술
+P0 	: 파는곳
+P0 	: 없는데
+P1 	: 아 ㅇㅈㅇㅈ
+P0 	: 시끄러울거같음
+P1 	: 아 맞지 진짜 집 가는 길에 불안하기도 하고
+P1 	: 진상들 난리 엄청 칠듯
+P0 	: 맞아. 그것도 엄청 중요하다
+P0 	: 너무구석지면위험할듯

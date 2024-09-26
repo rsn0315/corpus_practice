@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007912
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 해보셨어요?
+P0 	: 네~ 종종 하고 있고 거래까지 한적 있어요
+P0 	: 중고거래에서 어떤 물건 사보셨어요?
+P1 	: 주로 어디서 하시나요?
+P1 	: 전 사본적은 없고 판매는 해봤어요ㅎ
+P0 	: 저는 중고거래 사이트 보다는 안쓰는 문제집을 팔다보니 학업 커뮤니티 사이트에 판매글 올렸어요
+P1 	: 당근마켓이나 중고나라 이용해요
+P1 	: 문제집 거래하셨군요
+P0 	: 당근이나 중고 많이들 이용하시는데  장점이 어떻게 되나요?
+P1 	: 중나보단 전 당근이 더낫더라구요
+P1 	: 동네사는 분들이라 직거래도 편하고
+P0 	: 중고나라 사이트 들어가보니 비슷한 상품들도 많고 사기치는 사람도 많다보니.. 잘 이용을 안하는거같아요
+P0 	: 불안하고 직거래 할까 고민도 했었고요
+P0 	: 어떤 물품 판매해보셨어요?
+P1 	: 맞아요 중고나라 특히 그런듯요
+P1 	: 저도그래서 판매만해요
+P0 	: 온라인 쇼핑은 자주하시나요?
+P1 	: 코로나로 어디 돌아댕기지도않아서 주로 먹을것만 사요ㅎ
+P0 	: 오프라인보다 온라인이 할인되는게 많고 이벤트도 많이 하잖아요
+P1 	: 맞아요 쿠폰적용하고 카드할인받고ㅎ

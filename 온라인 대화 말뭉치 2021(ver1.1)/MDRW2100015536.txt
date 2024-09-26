@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015536
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 아니요? 결혼 하셨어요?
+P0 	: 네
+P1 	: 배우자분하곤 어떤 점이 좋아서 결혼하셨어요?
+P0 	: 말이 잘 통하는사람이요
+P1 	: 말 잘통하는거 중요한 것 같아요ㅋㅋㅋ 다 좋아도 말 안통하면 재미가 없죠 ㅎㅎ 두 분은 소개팅으로 만난거에요?!
+P0 	: 그르니까요
+P1 	: 소개팅으로 만나신거죠? 첫인상은 어떠셨어요?
+P0 	: 친구소개고ㅠ처음은 그냥
+P1 	: 오 그럼 원래 결혼관은 어떠셨나요? 어떤 사람이랑 결혼하고 싶다 이런거 있으셨나요?
+P0 	: 말이잘 통하는 사람이요
+P1 	: 와 그럼 결혼 잘 하셨네요 ㅎㅎ 
+	  결혼 후 데이트는 보통 뭐하세요?
+P0 	: 그냥 산책이여

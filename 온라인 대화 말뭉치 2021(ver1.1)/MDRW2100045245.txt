@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045245
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 엇 아니용 찌개로 끝납니당
+P0 	: 정답!!! 김치찌개!!!!
+P1 	: 오 맞아여 저녁으로 김치지개 먹었어요
+P1 	: 쌀밥이랑
+P0 	: 아싸 정답 ㅎㅎㅎㅎㅎ
+P0 	: 김치찌개 맛있죠
+P0 	: 이번엔 제 저녁메뉴 맞춰보시겠어요?
+P1 	: 음 요리해서 드셨나용?
+P0 	: 네! 직접 만들어 먹었답니다
+P1 	: 국물이 있겠죠? 아무래도?
+P0 	: 아니요 국물 없는 요리였습니다ㅎㅎ
+P1 	: 흠... 그럼 매운 요리인가요?
+P0 	: 아니요 전혀 안 매운 요리예요!
+P1 	: 고기가 들어가겠죠??
+P0 	: 아뇨! 고기가 안 들어가는 요리입니다
+P1 	: 힌트좀 주세여ㅠㅠ 모르겠어요.. 카레..?
+P0 	: ㅋㅋㅋㅋ카레처럼 노란 색도 들어가요
+P0 	: 야채로만 만들어요
+P1 	: 저 요리를 못해가지구ㅠ 제가 모르는 요리는 아닐까요 ㅋㅋㅋ큐ㅠ 뭐죠..
+P1 	: 카레 비슷한 노란 음식이라니
+P0 	: 힌트! 토마토가 들어가요!
+P0 	: 힌트! 노란 것도 들어가고 토마토가 들어가는 요리입니다

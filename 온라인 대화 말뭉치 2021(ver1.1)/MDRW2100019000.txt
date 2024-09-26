@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 뭐 얘기했는데
+P1 	: 기억이 안나요
+P1 	: 그건 기록 안했는데..
+P0 	: 나 저장해놨었는데
+P0 	: 어디있지
+P1 	: 찾아주세요
+P1 	: 저 경복궁인가 거기도 꼭
+P1 	: 봄에가고싶음
+P0 	: 헐 진짜 가고싶다
+P1 	: 거기에 뭐..
+P1 	: 차랑.. 전통
+P1 	: 과자..?
+P0 	: 저가 말한건 부산 국립해양박물관에서 하는
+P1 	: 파는 유명한 거기도 좀 궁금하고
+P0 	: 심연의 상상이라는 전시네요
+P1 	: 오 대박
+P0 	: 헐.. 재밌겠다
+P1 	: 그건 전시가 언제까지에요?
+P0 	: 10월10일
+P1 	: 빠듯하네..
+P0 	: 첨 홍보 봤을 땐 널널했는데
+P0 	: 이제 종료가 곧이네

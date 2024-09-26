@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005046
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 드라마 좋아하세요?
+P1 	: 네 좋아해요!
+P0 	: 지금 하고 있는드라마나 예전 드라마 중 재미있게 본 드라마 있어요?
+P1 	: 저는 슬의생 재밌게 보고있구 진짜 옛날 드라마 보는거 좋아해서..
+P0 	: 오 저두 슬의생 재밌게보고 있어요!!
+P1 	: 펜하도 넘 재밌구요!
+P1 	: 옛날드라마는 옥탑방왕세자 이런거
+P0 	: 아하 그렇군요  그럼 영화도 좋아하세요?
+P1 	: 네 영화를 더 좋아해요!
+P0 	: 아 그럼 어떤 영화장르 좋아하세요?
+P1 	: 저 로맨스 좋아해요!!
+P0 	: 아 저는 코미디랑 액션 좋아해요!  영화추천해주세요!
+P1 	: 지금 만나러 갑니다 이거 진짜!! 슬프고 .. 좋아요ㅠ
+P0 	: 오케이! 다음에 한번 봐볼게요!!

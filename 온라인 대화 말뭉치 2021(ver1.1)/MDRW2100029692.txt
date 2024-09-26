@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029692
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛난 점심드세요~
+P0 	: ㅋㅋ 맛점하세용
+P0 	: 식사 잘 하셨어요?
+P1 	: 네~드셨어요?
+P0 	: 네 그냥 간단히 빵 먹었어요
+P1 	: 바쁘셨어요?아님,혼자라서 간단히 드신거예요?
+P0 	: 밥차리기 귀찮아서요ㅎㅎㅎㅎ
+P1 	: 음..그런 심오한 의미가 있었군요.ㅎㅎ
+P1 	: 저녁에는 제대로 드셔야죠.메뉴 뭐하시게요?
+P1 	: 진짜 끼니마다 메뉴가 할게 없어요
+P0 	: 그쵸
+P0 	: 하루 삼시  세  끼
+P0 	: 너무 빨리 돌아와요
+P0 	: 뭘 먹는게 좋을까요ㅜㅡㅋ
+P0 	: 그쵸
+P0 	: 메뉴가 넘 빨리 고갈되네요
+P0 	: 뭘 먹는게 좋을까요ㅜㅡㅡㅜ

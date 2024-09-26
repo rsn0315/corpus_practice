@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100001953
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 같은 시대는 건강이 최고다
+P1 	: 열심히 영양제 챙겨먹어야한다
+P0 	: 그래 영양제는 꾸준히 먹어야 되는데...  그게 잘 안 되드라
+P1 	: 응 칼슘제라도 열심히 먹을려고
+P0 	: 나이들면 건강한게 최고다
+P1 	: 응 점점 건강이상이 생기는거 같아서 슽픔
+P0 	: 맞아..  아마 건강검진하면 하나씩은 안 좋은곳이 나올듯
+P1 	: 무섭워서 건강검진 못하겠다
+P0 	: 나도 이번엔 기본만 받을까 싶다ㅠ
+P1 	: 그정만 해도 충분하지
+P0 	: 원래는 위내시도 해야 되는데 올해 코로나가 더 심해져서 하기 싫음
+P1 	: 난 한번도 안해봤다
+P0 	: 진짜? 40세 넘으면 생애최초 검진이라고 나오자나
+P1 	: 안나오던데

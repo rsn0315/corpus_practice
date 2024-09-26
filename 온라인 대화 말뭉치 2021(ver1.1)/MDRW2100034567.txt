@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034567
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 여행 좋아하세요?
+P1 	: 네 코로나가 끝나문좋겠어요
+P0 	: 코로나 끝나면 어디부터 가고싶으세요?
+P1 	: 친구가 제주이사가서
+P1 	: 놀러가야해요
+P1 	: &name1&님은요
+P0 	: 영국이민 간 친구가 있어서
+P0 	: 영국 갈 것 같아요
+P1 	: 친구따라가시는군요
+P1 	: 영국 멋질거같아요
+P0 	: 날이 항상 흐리다그래서 좀 걱정이긴해요
+P0 	: 제주도는 2단계정도만 되도 가실 수 있겠어요
+P1 	: 지금4단계더라구요 ㅎㅎ
+P0 	: 얼른 끝나면 좋겠어요 ㅎㅎ
+P1 	: ㅋㅋ네 아이들이 힘들어하더라구요
+P0 	: 계속 이러면 수련회나 수학여행은 없어질 것 같네요ㅠ
+P0 	: 아쉽겠어요 큰 추억인데

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013751
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 머 좋아하세요
+P1 	: 저는 돈까스요 &name1&님은요?
+P0 	: 저는 치킨이요
+P1 	: 제일 좋아하는 치킨이 뭐예요?
+P0 	: 뿌링클치킨 맛있게먹었던게 생각나네요
+P1 	: 그럼 뿌링클 드실때 맥주? 콜라?
+P0 	: 물마셔요
+P1 	: 오 그렇군요 뭔가 멋있는데요
+P1 	: 탄산을 안좋아시는 건가요 아니면 건강을 위해?
+P0 	: 탄산을안좋아해서..... ㅠㅠ
+P0 	: 건강때문에 그런것도있어요
+P1 	: 맞아요 저는 원래 피자 치킨 햄버거 먹을 때 탄산 안 먹으면 소화가 안돼서 그 때만 마셨는데도 건강이 더 안좋아 지는 것 같아서 끊었어요 ㅠㅠ
+P1 	: 잘 하시고 계신 거예요
+P1 	: 커피 좋아하세요?
+P0 	: 커피는 안 좋아해요 커피빼고 다른 음료시켜요
+P1 	: 그럼 그 다른 음료는 어떤거 주로 드세요?
+P0 	: 토레타좋아해요

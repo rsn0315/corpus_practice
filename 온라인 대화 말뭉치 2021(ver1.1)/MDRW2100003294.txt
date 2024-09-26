@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 동물키우시나요?
+P1 	: 아 저만 기빨린거 아니죠 ㅠㅠ
+P1 	: 동믈 예전에 키우고 안키워요 ㅠㅠㅋ
+	  키우다 하늘나라 갔어요
+P0 	: 아 열대어는 어떠세요?
+P1 	: 열대어 키우려면 장비? 갖춰야 하는거 아녀요?
+P0 	: 아뇨 그냥 중고로해서
+P1 	: 근데 저 물고기는 안좋아해요 
+P0 	: 아 다시 키우실생각은요?
+P1 	: 이별이 싫어서  못키우겠어요 ㅎㅎ
+P0 	: 그렇죠 이별과 만남
+P1 	: &name1&님은 열대어 키우시는거에요?
+P0 	: 네 지금은 나둥에 니모키우고싶어요
+P1 	: 오 니모 귀엽겟네요 ㅎ
+P0 	: 다음에 꼭 도전
+P1 	: 화이팅이요 

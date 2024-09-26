@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006660
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 굿즈도 사시나요?
+P1 	: 그럼요
+P1 	: 어떻게 아세요?
+P0 	: 아 아미라고 하셔서요~
+P1 	: 주변에 아미가 있으신가요?
+P0 	: 아뇨 주변에는 없네요 &name2&님은 많으실듯요
+P1 	: 아 그쵸ㅋㅋㅋ 근데 아마 말씀안하셨을뿐 아미 많을거에요 ㅋㅋㅋ원래 한명이 고잭하면 야 사실 나두..야나도..너도? 나도.. 이렇게 되는거거든욮ㅋㅋㅋㅋ
+P0 	: ㅎㅎ 연예인중에도 정말 많아서 놀랐어요
+P1 	: 맞아요 연예인들 눈에도 멋있는 사람들인가봐요
+P1 	: 신기해요
+P0 	: ㅎㅎ 시대의 아이콘이긴 하죠 대단해요
+P1 	: ㅋㅋㅋㅋ 참 우리나라에서 나온게 신기하긴하죠
+P1 	: 요즘 가지거 싶은거 있으세요?
+P0 	: 저는 없고 와이프가 플립을 갖고 싶어했어요
+P1 	: 저 실물 봤는데 진짜 예쁘더라구요
+P1 	: 보셨어요?
+P0 	: 아니요 못봤습니다 &name2&님은.안사셨나요?

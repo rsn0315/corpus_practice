@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100032777
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 좋아하는 음식 있으신가요?
+P1 	: 전 가리지않고 다 좋아해요ㅋㅋ 특히 밀가루
+P0 	: 밀가루 정말 맛있죠 저는 특히 빵을 좋아한답니다
+P1 	: 빵 진짜 안물리죠!
+P1 	: 요즘 식사빵 좋아해요
+P0 	: 식사빵 중에 제일 좋아하는 거 있나요?
+P1 	: 치아바타 좋아해요!
+P0 	: 저도 치아바타 좋아해요
+P1 	: 올리브나 치즈 들어가면 짱맛
+P0 	: 맞아요 콘치즈 들어간 치아바타를 먹었는데 정말 맛있더라고요
+P0 	: 저는 통밀빵과 호밀빵도 좋아해요
+P1 	: 치아바타 만들어보셨어요?
+P0 	: 아니요 다른 빵은 만들어봤는데 치아바타는 아직이요 &name2&님은요?
+P1 	: 저 만들어봤는데 무반죽치아바타 쉬운데 4시간정도 기다려야해서 ㅋㅋ
+P1 	: 맛은 얼추 비슷해요!
+P0 	: 와 무반죽 대단하세요 그 파는 빵과 비슷한 맛이 나나요?
+P1 	: 네네 비슷하더라고요!
+P1 	: 제가 만들고 제가 먹어서 객관성은 좀 떨어지지만요
+P0 	: 신기하네요 홈베이킹 자주하시나요?
+P1 	: 근데 여름되곤 안하고있어요ㅋㅋ 더워서ㅋㅋ
+P0 	: 여름에는 홈베이킹 하기 힘들죠
+P0 	: 저는 여름에 스콘 만드는데 여름이라 버터가 녹아서 실패했던 경험이있네요

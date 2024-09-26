@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023445
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응 오늘 카드 발급 받아서 결제했어!
+P0 	: 웬 카드를 발급 받아서 샀어? 어떤 패딩으로 샀는데?
+P1 	: 하나카드 발급하면 12만원 페이백 해주길래 그거 만들어서 샀지~~
+P1 	: 전에 보여줬던 롱패딩으로 샀어!
+P0 	: 얼마에 샀는데?
+P1 	: 원래 40만원 짜리인데 나는 쿠폰 받고 적립금 써서 19만 4천원!
+P0 	: 12만원 페이백 받으면 완전 거저네. 잘 샀다.
+P1 	: 그치!! 롱패딩을 7만원 대에 사다니... 기분 좋아졌어!
+P0 	: 겨울 외투 걱정은 없겠네. 더 살 건 없고?
+P1 	: 응 아직은! 좀 더 추워지면 후드티를 몇 벌 사볼까 싶어
+P0 	: 그것도 나쁘지 않겠네.
+P0 	: 엄마도 다음달엔 사야 될 거 많아.
+P1 	: 뭐 사야 되는데?
+P0 	: 칫솔, 치약, 세제도 사야 하고 샴푸도 사야 해.
+P1 	: 다 생필품이네~~ 엄마도 저번에 원피스 사고 싶다며.. 한벌 쇼핑해보는 거 어때?
+P1 	: 충전기를 사야될 것 같아

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100016029
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠좋아하세요?
+P0 	: 넹  올림픽 때 배구랑 다른 스포츠 봤어요 축구보는 것도 좋아해요
+P1 	: 아앗ㅋㅋㅋ해외축구요?
+P0 	: 아니요  대한민국 축구국가대표팀 경기 보는걸 좋아해요
+P1 	: 아앗ㅋㅋ그럼 평소엔 안보셔요?
+P1 	: 프로축구
+P0 	: 네  평소엔 자주 안봐요..
+P1 	: 아핫 전 야구좋아해요ㅎ
+P0 	: 앗 그렇군요!  어느팀 좋아하세요?
+P1 	: 저 ssg랜더스요ㅎㅎㅎ
+P1 	: 구sk와이번스
+P0 	: 아하 그렇군요
+P0 	: 야구는 자주 하나요?
+P1 	: 지금도 하고있죠ㅋㅋㅋ
+P0 	: 오 그렇군요 그럼 지금 어느경기 보고계세요?
+P1 	: 아 어제는 못봤는데 이겼네요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041982
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 학교 다녀오셨나요?
+P1 	: 네 방금 끝나서 집에 가는 중이에요
+P1 	: 님은 학교 다녀오셨나요?
+P0 	: 헉 늦게 끝나네요 ㅜㅜ
+P0 	: 저흰 비대면이에요
+P1 	: 헉 부러워요
+P1 	: 저희는 대면이 좀 있어요 
+	  ㅠㅠ
+P0 	: 대학생이세요?
+P1 	: 네네!!
+P0 	: 저도예요!
+P1 	: 님은요?
+P0 	: 뭐 전공하시나요
+P1 	: 저는 해양학 전공이에요!
+P0 	: 헉 멋있어요
+P0 	: 뭘 배우는 전공인가요...?
+P1 	: 바다랑 관련된건 다 배워요
+P1 	: 물화생지 다...
+P1 	: 님은 무슨 전공인가요??
+P0 	: 저는 교육 전공해요
+P1 	: 멋있어요
+P1 	: 동아리도 하시나요?
+P0 	: 했다가 그만뒀어요... 비대면이라 하기가 힘들더라고요

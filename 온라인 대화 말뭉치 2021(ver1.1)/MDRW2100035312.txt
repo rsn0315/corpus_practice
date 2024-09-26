@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035312
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요?
+P1 	: 아직요 &name1&님은요
+P0 	: 저는 볶음밥 먹었어요 중국집 배달해서ㅎㅎ
+P1 	: 오우 배달음식 드셨군요 맛나겠당
+P1 	: 전 맨밥에 물말아서 먹으려구용
+P0 	: 입맛이 없으신가요??
+P1 	: 그냥 간단하게 먹으려구요ㅎㅎ빨리 간식먹으려구요
+P0 	: 간식 좋죠ㅋㅋ 전 간식으로 기정떡 먹었어요
+P1 	: 오 기정떡은뭐에요? 앙꼬있어요?
+P0 	: 그냥 술떡이에요ㅋㅋ 안에 앙꼬있는걸로 먹었네요 맛나요
+P1 	: 오 맛있겠네요 저녁겸용인가요?
+P0 	: 생각보다 많이 먹게되서 저녁겸용이 되버렸네요ㅋㅋ
+P0 	: &name2&님은 어떤 간식 드셨어요?
+P1 	: 저는 말차라떼마셨어요 크로플하구요
+P0 	: 말차라떼 드셨군요ㅎㅎ 기대만큼 맛있었나요?
+P1 	: 네 까다로운 친구가 맛있다고 알려줘서 신뢰가는 정보를 가지고 갔는데
+P1 	: 역시 잘하는집이더래요ㅎㅎ

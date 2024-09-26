@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100030811
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 꾸준히 읽어요
+P0 	: 네 최근 읽으신 것중 기억에 남는 건요?
+P1 	: 어떻게 말해줄까요
+P0 	: ? 전 안전마진읽었어요
+P1 	: 넹 안전마진이면 경제책인가봐요
+P0 	: 헉 네 어찌아셨어요
+P1 	: 마진이라는 낱말 때문에요
+P0 	: 음 마진은 상업용어인데...
+P1 	: 그런가요 제가 자세히는 몰라서. .
+P0 	: 네 잘 아시는줄..
+P1 	: 넹 요즘은 시집 읽어요
+P0 	: 오호 저는ㅈ경제만
+P1 	: 제가 첨 읽은 시집은 윤동주 시집이에요
+P0 	: 헉 고딩필독서..

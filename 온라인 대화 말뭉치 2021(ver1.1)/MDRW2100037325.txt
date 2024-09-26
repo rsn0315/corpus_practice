@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100037325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 혹시 연애중이신가요?
+P1 	: 아뇨 연애 안 한지 꽤 됐네요
+P1 	: &name1&님은요?
+P0 	: 저는 연애중이예요
+P0 	: 안한지 얼마나 되셨나요?
+P1 	: 한 3년 정도 된 것 같아요.
+P1 	: &name1&님은 지금 애인이랑 어떻게 처음 만나셨어요?
+P0 	: 원래는 친구였어요 취미도 같고 성격도 비슷해서 자연스레 가까워졌어요
+P1 	: 자연스럽게 만나는 게 제일 어려운데.. 좋은 인연이네요ㅎㅎ
+P1 	: 만난지 얼마나 되셨나요?
+P0 	: 3년조금 넘었어요
+P1 	: 오래 만나셨네요~ 코로나 때문에 데이트 하기 힘들진 않으신가요?
+P0 	: 가까이살아서 집근처에서 자주보는편이라 괜찮은데 데이트다운 데이트 못하는건 아쉬워요
+P0 	: &name2&님은 이상형있으신가요?
+P1 	: 전 과묵한 사람 좋아해요. &name1&님은 이상형과 현재 애인이 비슷하신가요?
+P0 	: 이상형 있던적이 오래되어서 잘모르겠는데 비슷한거 같아요
+P0 	: 과묵한사람 좋아하시는구나
+P0 	: &name2&님은 과묵한편이신가요?
+P1 	: 전 말수가 적지도 많지도 않은 평범한 편인데 상대방은 과묵한 게 좋더라구요.
+P1 	: 약간 진중한 스타일이 좋은 것 같아요
+P0 	: 단단하고 진중한 사람 좋죠

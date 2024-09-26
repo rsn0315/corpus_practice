@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010282
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 마카롱맛집 가보신적있나용?
+P1 	: 마카롱을 사실 좋아하지 않아서요ㅎㅎ
+P1 	: 마카롱 좋아하시나요?
+P0 	: 네! 요즘 설탕줄이느라 못먹지만요ㅠ
+P0 	: 좋아하는 음식있으세요?
+P1 	: 마카롱도 맛있는데는 엄청 맛있나봐요
+P1 	: 전 맛없는곳만 갔는지 ㅎㄹ
+P0 	: 이런!
+P0 	: 마카롱은 필링이 안느끼한게 맛있어용
+P1 	: 추천해주실 맛집 있나요?
+P0 	: 마리웨일과 패션5가 입문용으로 좋아용
+P1 	: 체인인가요?
+P0 	: 네네! 체인이 접하기 쉬우니깐요
+P1 	: 근처있나 함 찾아볼게요 ㅎ
+P0 	: 좋아요ㅎ 마리웨일은 기본마카롱 추천해요!
+P1 	: 무슨맛이 맛나나요?
+P0 	: 달달하고 상큼해용

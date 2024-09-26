@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020312
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건이 있나요?
+P1 	: 네 배송오길 기다리는 중이에요
+P1 	: &name1&은요?
+P0 	: 오 뭐사셨어요??
+P0 	: 저는 최근에 갤워치 샀습니다
+P1 	: 저는 플립 삿어요
+P1 	: 갤워치 이번에 나온거요?
+P0 	: 오와!!!!
+P0 	: 플립도 진짜 예쁘게 나왔던데ㅠㅠ
+P0 	: 네네 이번에 나온거맞아요!
+P1 	: 와와
+P1 	: 인바디도 된다면서요 ㅠㅠ
+P1 	: 예쁘기도 엄청 예쁘던데!!
+P0 	: 네 맞아여ㅋㅋㅋㅋㅋ 써보니까 정확한거같아요
+P0 	: 네저도 언팩행사 보자마자 파워결제...ㅎㅎ
+P1 	: 워치도 사고싶어서 드릉드릉하네요 ㅋㅋㅋㅋ
+P0 	: 원래 쓰시는게 있으신가요?
+P0 	: 저는 후진 미밴드에서 갈아타서 완전 만족중^_^
+P1 	: 아니요 원래 워치에 크게 관심이 없엇거든요 ㅋㅋㅋㅋ 그런데 이번에 나온게 인바디가 된다고 해서 눈이 번쩍...!!
+P0 	: 저도여 이번에 그런식으로 신규유입이 많은거같아요
+P0 	: 제트플립도 그렇구요
+P1 	: 플립도 너무 예뻐서 ㅋㅋㅋㅋㅋ
+P0 	: 진짜 플립 너무 예뻐요.....
+P0 	: 너무 예쁘게 잘 뽑았어요ㅠㅠ

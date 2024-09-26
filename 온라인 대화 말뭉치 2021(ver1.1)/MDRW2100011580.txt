@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011580
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교다닐때 동아리 활동하셨어요?
+P0 	: 네 저는 봉사동아리했어요ㅎㅎ
+P1 	: 어떤 활동의 봉사요?
+P0 	: 재활원에 주로갔어요ㅎㅎ
+P1 	: 저는 애망원에 봉사가봤어요ㅎㅎ
+P0 	: 그러시구나 거긴 규모가 컸나요?
+P1 	: 네 컸어요!동아리 활동에서 기억에 남는게 있나요?
+P0 	: 네 동아리하면서 다른학교 봉사동아리랑 만나서 같이 활동한거요
+P1 	: 뜻깊은 시간이었겠네요
+P1 	: 동아리활동하셨나요?
+P0 	: 봉사동아리말고요?
+P1 	: 네네 두개씩 동아리 가입하는건 안되나요
+P0 	: 네 보통은 안되죠ㅎㅎ

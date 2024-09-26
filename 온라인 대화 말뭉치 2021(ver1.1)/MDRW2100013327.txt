@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013327
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 아이돌 있어요?
+P1 	: 딱히 최애는 없는데 아이돌 알기는 많이 알아요
+P1 	: 요즘은 츄가 넘 귀여워요
+P0 	: 아 츄 이달소 맞나요?
+P1 	: 네네 맞아요
+P0 	: 그 강철부대? 거기서 봤어요 귀엽더라고요ㅎㅎ
+P1 	: 말티즈 닮았어요...
+P1 	: &name1&은 좋아하는 아이돌 있으세요?
+P0 	: 말티즈! 그러게요
+P0 	: 저는 워너원 좋아했었는데
+P1 	: 누굴 제일 좋아하셨나요
+P0 	: 윤지성 하성운 황민현 좋아했어요
+P0 	: 영원+1 이라는 노래 들어보셨나요
+P1 	: 아 그 세명이서 부른 노래 맞지요?
+P1 	: 친구가 황민현을 좋아해서 들어본 적은 있어요
+P0 	: 네 맞아요ㅎㅎ 그노래 제일 좋아했어요
+P0 	: 요즘 즐겨듣는 노래있으면 추천해주세요
+P1 	: 요즘 아이유랑 악뮤 신곡이 넘 좋더라고요
+P0 	: 낙화!
+P0 	: 그노래 중독성있더라고요

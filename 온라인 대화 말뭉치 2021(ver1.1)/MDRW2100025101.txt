@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025101
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저기요
+P0 	: 네?
+P1 	: 우주여행 가보샸나요
+P0 	: 아니요 돈 없어요
+P0 	: 근데 제 버킷리스트에요
+P1 	: 전 가봤어요
+P0 	: 오 어디가보셨어요
+P0 	: 용케 안드로메다에 빠지지 않으셨군요
+P0 	: ..
+P1 	: 내려서 구경한게 아니라
+P1 	: 비행선 타고 한바퀴 도는 거예요
+P0 	: 그니까 어디어디 다녀오셨어요?
+P1 	: 달 보고 왔어요
+P0 	: 달은 못볼텐데요
+P0 	: 얼어죽을텐데요
+P1 	: 비행선 안에서 봤다고요
+P0 	: 비행선도 얼을텤제요
+P1 	: 님 유딩이죠
+P1 	: 으
+P0 	: 헤헤헤

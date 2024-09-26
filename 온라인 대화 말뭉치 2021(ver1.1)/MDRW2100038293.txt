@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100038293
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 뭐 드실건가요
+P0 	: 떡볶이 땡기네요 ㅋㅋ
+P1 	: 어떤 떡볶이 좋아하세요?
+P0 	: 요샌 로제 떡볶이 좋아해요:)
+P0 	: 떡볶이 좋아하세용?
+P1 	: 좋아해요
+P1 	: 엽떡 로제 사랑합니다
+P0 	: 크으 사랑이쥬{emoji:♡}{emoji:♡}
+P0 	: 혹시 달쫀도 아세요?
+P1 	: 아니요 처음 들어봐요
+P0 	: 달쫀도 체인인데
+	  아시는 분을 못만나봤네여 ㅠㅋ
+P1 	: 저희 집 주변에는 없는거로 나오네요
+P0 	: 친구가 저희집 근처에서
+	  달쫀매장 운영을 해서
+	  저는 거기서 많이 시켜먹어요 ㅋㅋㅈ
+P1 	: 엌ㅋㅋ 친구가 운영하면 진짜 편하겠네요
+P0 	: 친구 가게 매상 올려주니 좋고
+	  저도 맛있는 떡볶ㅇㅣ 먹어서 좋고 ㅋㅋ
+P0 	: 로제시키면
+	  베이컨이랑 양송이버섯이랑
+	  아낌없이 들어가 있어서
+P0 	: 맛없을수가없는 비주얼이에여ㅋ
+P1 	: 으어 저도 먹어보고 싶네요
+P0 	: 달쫀도 맛있는데
+	  왜 없는걸까요ㅜㅜ 아쉽
+P1 	: 주변에 꼭 생겼으면 좋겠어요
+P0 	: ㅋㅋ꼭 드셔보셨음 좋겠어요{emoji:♡}

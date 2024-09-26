@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100025191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 알바하니?
+P0 	: 나 만화방 알바해
+P0 	: 너는?
+P1 	: 나는 편의점 알바생이야
+P1 	: 만화방 재밌니?
+P0 	: 개인이 하는 곳이라 사람이 잘 안와서 좋아
+P0 	: 개인시간이 많거든
+P0 	: 편의점 알바 힘들다던데 괜찮아?
+P1 	: 응 나도 개인시간이 많아서 좋아
+P1 	: 일하다가 만화책보기 가능?
+P0 	: 응 가능해
+P0 	: 이것저것 많이 봤어ㅋㅋㅋ
+P1 	: 시급은 최저였어?
+P0 	: 원래 최저였는데 오래 하니까 사장님이 더 챙겨주시더라!
+P1 	: 좋겠다 난 그런것도 없었어
+P0 	: 그래도 곧 그만두려고
+P1 	: 다음엔 편의점 안할려고
+P1 	: 왜?
+P0 	: 누가 자꾸 만화방 앞에 토하고 가더라
+P1 	: 오우 고생이많았구나
+P1 	: 다음엔 어디서 일하고싶니?
+P0 	: 나 영화관 알바 한번 해보고 싶어
+P0 	: 재밌어보이지 않아?
+P1 	: 맞아 근데 친목이 오진대
+P1 	: 괜찮겠어?
+P0 	: 안 괜찮으면 그만두지 뭐
+P1 	: 마인드멋있다
+P1 	: 나도 그렇게살아야지
+P0 	: 평생직장도 아니고 아르바이트인데 그렇게까지 스트레스 받고 싶지 않아

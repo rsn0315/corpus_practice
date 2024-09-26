@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100011116
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: tv 프로그램 보시는 거 있으신가요?
+P0 	: 티비보다는 유튜브 많이봐요!
+P1 	: 오 유튜브에서 주로 뭘 많이 보시나요?
+P0 	: 여행 유튜브 자주봅니다
+P1 	: 여행 유튜버 한 분 알려주실 수 있나요? 전 여행 쪽은 잘 안 보거든요!
+P0 	: 빠니보틀 추천합니다!
+P1 	: 빠니보틀??? 댓글에서 많이 봤는데 여행 유튜버셨군요ㅋㅋㅋㅋ
+P0 	: 네네 완전 재밌어요ㅎㅎ
+P1 	: 저는 유튜브로 요리 영상 많이 봐요!
+P0 	: 요리 유튜브 추천좀 해주세요!
+P1 	: 하루한끼 님 아시나요! 자취 요리 끝판왕이신 분과 베이킹 잘하시는 한세 님 추천 드립니다ㅎㅎ
+P0 	: 오 하루한끼 처음 들어봤어요 검색해볼게요!

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012575
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 배달음식 좋아하시나요
+P0 	: 네네
+P0 	: 치킨좋아하세요?
+P1 	: 넵 어제도 시켜먹었어요
+P1 	: 요기요에서 할인쿠폰 주더라구요
+P0 	: 와우
+P0 	: 좋네요
+P0 	: 지금도 주네요
+P1 	: 그쵸 저녁에 꼭 시켜드세요
+P0 	: ㅋㅋㅋ전 치킨먹었답니다
+P0 	: 점심에요
+P1 	: 아 무슨 치킨 드셨어요?
+P0 	: 저
+P0 	: 처갓집치킨이요ㅋㅋㅋ
+P1 	: 맛있는 메뉴 추천해주세요
+P0 	: 처갓집하면
+P0 	: 딱 시그니처있잖아요~~
+P1 	: 동네에 처갓집이 없어서ㅠ 뭘까요?
+P0 	: 슈프림양념치킨이요ㅣ
+P0 	: !

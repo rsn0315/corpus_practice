@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100023670
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 저 오늘 1차 맞았어요ㅎㅎ
+P0 	: 괜찮으신가요??
+P1 	: 아까 열두시에 맞았는데 아직은 멀쩡하네요!?
+P0 	: 그래도 혹시 모르니 푹 쉬시면서 경과를 지켜보세요!! 무탈하시다면 정말 다행이세요ㅠㅠ
+P1 	: 잠이 좀 오고 주사맞은팔이 좀 아파지네요!! 백신 언제맞아세요?
+P0 	: 저는 9월 말에 맞아요!
+P1 	: 아 아직 멀었네요!! 저는 딱히 부작용은 없나봐요..ㅎㅎ
+P0 	: 그렇다면 정말 다행이네요ㅎㅎ
+P1 	: 네네ㅎㅎ &name1&도 무사히 맞으시길 바래용
+P0 	: 월요일부터 맞으셔서 일주일이 기시겠어요ㅠ
+P1 	: 운동을 쉬어야해서 아쉽네여
+P0 	: 적어도 일주일간은 쉬어야 하니까요ㅠ
+P1 	: 흑흑 다이어트 열흘차에 고난이네요ㅋㅋㅋ

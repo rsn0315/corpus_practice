@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100010835
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 산 물건 있어?
+P1 	: 강아지 사료를 구입했어요
+P1 	: &name1&님은요?
+P0 	: 저는 옷이요!
+P0 	: 평소에 쇼핑하는거 좋아하세요?
+P1 	: 안 좋아하는데... 정신차리면 지르고 있어요
+P1 	: 어디서 사셨나요?
+P0 	: 인터넷이요! 요즘은 거의 인쇼로 사네요
+P0 	: 저도 그래요ㅋㅋㅋ 좋아하는건 아닌데 자꾸 뭘 사요
+P1 	: ㅎㅎ 인쇼가 무섭더라고요
+P1 	: 너무 구매가 간단해서
+P0 	: 그쵸
+P0 	: 요즘은 카드등록해서
+P0 	: 누르면 바로 결제되더라구요
+P1 	: ㅎㅎ 고민하다 실수로 누른 적도 있어요
+P1 	: 할인쿠폰 적용 알아보다 얼떨결에 구매도 하고
+P0 	: 맞아요
+P0 	: 그리고 카톡으로 할인 홍보도 자주오니까
+P0 	: 더사게되요ㅎㅎ
+P1 	: 예정에 없던 지출이 느는게 탈이죠ㅎ
+P1 	: 중고거래도 하시나요?
+P0 	: 당근마켓 진짜많이써요
+P1 	: 아 전 앱만 깔고 아직 안써봤어요
+P1 	: 종류가 다양한가요?
+P0 	: 네 종류도다양하고
+P0 	: 직거래위주라 사기가없어서 좋아요ㅎㅎ
+P1 	: 직거래를 잘 안해서 당근을 안했는데
+P1 	: 사기걱정 없다니 혹하네요

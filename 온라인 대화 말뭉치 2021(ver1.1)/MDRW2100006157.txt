@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006157
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요
+P1 	: 여행 좋아하죠
+P0 	: 해외vs국내
+P1 	: 국내 좋아해요!
+P0 	: 추천하는 여행지 잇으세요??
+P1 	: 전 부산이 재밌더라구요
+P0 	: ㅋㅋㅋ맞아요 뷰산 좋져 마지막으로 간지 오래되긴햇네요
+P0 	: 7년 전이던가..
+P0 	: 저는 최근에 전주다녀왓어요
+P1 	: 헐 전주좋죠...
+P1 	: 전주 가보고싶었어요..
+P0 	: 역시 ...전주...
+P0 	: 음식이 미쳣어요
+P0 	: 대존맛
+P1 	: 한옥마을 주변에 먹을거 많잖아요ㅠㅜ
+P0 	: 맞아요! 바로앞에 남부시장
+P0 	: 그안에 맛집들이 ㅋㅋㅋㅋ
+P1 	: 여자친구랑 같이 가보고싶었어요ㅠㅜ
+P0 	: 알바를 하지 않을 지금이 기회일거에요 ㅋㅋㅋㅋ

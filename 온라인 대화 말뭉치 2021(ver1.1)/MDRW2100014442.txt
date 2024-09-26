@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014442
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 처서가 지나서 그런지 날씨가 좀 쌀쌀해진거 같아요
+P1 	: 그러게요 그런데 모기가 너무 많아져서 문제예요...ㅠㅠㅋㅋㅋ
+P0 	: 모기.. 싫죠ㅋㅋㅋ큐ㅠㅠ 모기도 날씨 추워지면 사라지겠죠?
+P1 	: 그러게요... 날씨가 빨리 추워져서 모기가 사라졌으면 싶기도 하고 빨리 안 추워졌으면 하는 마음도 있네요
+P0 	: 헉 저는 겨울을 좋아해서 얼릉 추워졌으면 좋겠는데
+P0 	: 여름을 더 좋아하시나요?
+P1 	: 아뇨 전 가을을 더 좋아해서요 지금은 가을 날씨 같아서 안 추워졌으면 좋겠어요
+P0 	: 가을 좋죠~
+P0 	: 먹을 게 많잖아요!!ㅎㅎ
+P1 	: 맞아요ㅋㅋㅋㅋㅋㅋ &name1& 님 지역은 내일 날씨가 어떤가요?
+P0 	: 내일 유일하게 비가 안오는 날로 알고있는데 요즘 날씨가 변덕스러워서
+P0 	: 잘 모르겠네요ㅋㅋㅋ 오늘도 비온하다고는 안왔어요
+P0 	: &name2&님네는요?
+P1 	: 저희는 내일 비가 안온다고 하네요! 오랜만에 창문을 열 수 있겠어요ㅎㅎ
+P0 	: 저랑 같으시네요 밀린 빨래를 드디어 할 수 있을 거 같아요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 아ㅋㅋㅋㅋㅋ 저도 밀린 빨래를 내일 해야겠군요 가을 옷도 좀 꺼내놓고요ㅋㅋㅋ
+P0 	: 꺅 가을 옷 생각하면 기분이 좋아요
+P0 	: 가을옷이 제일 예쁘잖아요

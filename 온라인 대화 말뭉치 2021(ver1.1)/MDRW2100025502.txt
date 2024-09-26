@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100025502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여!
+P1 	: 안녕하세요:)
+P1 	: 점심 식사 하셨나요?
+P0 	: 네네 방금 먹었어요 ㅎㅎ 식사하셨어요?
+P1 	: 저는 아침을 늦게 먹어서
+	  아직이요:)
+P1 	: 뭐 드셨어요?
+P0 	: 학교에서 학식 먹었어요. 오삼불고기에 순두부찌개요 ㅎㅎ
+P0 	: 그럼 아침에 뭐 드셨어요?
+P1 	: 오 학식 너무 그립네요 ㅜㅜㅋㅋ
+P1 	: 저는 집밥 먹었어요:)
+P1 	: 요샌 학식 가격대가 어떻게 되나요?
+P0 	: 집밥이 좋죠!
+P0 	: 여기는 3500원이에요 ㅎㅎ &name2&님이 다니실때는 얼마였어요?
+P1 	: 김치전 1000원
+	  라면 1500원
+P1 	: 학식 가격은 비슷했던거 같아여 ㅋㅋ
+P0 	: 헐
+P0 	: 라면 김치전 겁나 싸네요... 여기 라면3천원..
+P1 	: 띠로리ㅜㅜ 3천원ㄷㄷ
+P0 	: 메뉴에 돈가스도 있었어요?
+P1 	: 벌써 10년도 더 지나서
+	  기억이 가물가물한데
+P1 	: 없었던거 같아요ㅋㅋ
+P1 	: 오늘 메뉴는 돈가스인가영?
+P0 	: 아뇨 ㅋㅋㅋ 돈가스를 좋아해서 물어봤어요 ㅎㅎ

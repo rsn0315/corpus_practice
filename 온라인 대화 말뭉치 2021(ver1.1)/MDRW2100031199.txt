@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100031199
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용~
+P1 	: 안녕하세요
+P0 	: 책 읽는거 좋아하세요?
+P1 	: 요즘 웹소설만 읽어요 ㅎ
+P1 	: &name1&님은요?
+P0 	: 오 웹소설도 책이죠ㅋㅋㅋ
+P0 	: 저는 안읽어요....ㅋㅋㅋㅋ 안읽은지 오래된것 같네요
+P0 	: 그런거 있짆아요 한번 느낌오면 쫘아아악 읽다가 지치는
+P0 	: 저는 그래요..ㅠㅠㅋㅋ
+P0 	: 어떤 웹소설이에요?
+P1 	: 아 요즘 오래 집중하기가 힘든거같긴해요
+P1 	: 그냥 판타지요
+P1 	: 카카오페이지에서요 ㅎ
+P0 	: 헐 저 판타지 좋아해요
+P0 	: 어떤 내용인지 알려주실 수 있으세요?
+P1 	: 들려드리긴 내용이 유치해서
+P1 	: 부끄럽네요
+P0 	: 곤란하게 하려던건 아닙니다  죄송해용 ㅎㅎㅎ
+P0 	: 카카오페이지는
+P1 	: 아니예요 ㅎㅎ
+P0 	: 카카오톡에 있는건가요?
+P1 	: 아뇨 따로 앱이 있어요
+P1 	: 같은 카카오계열이긴하지만요
+P0 	: 아아 그럼 카카오페이지는 웹소설만을 위한 앱인가요?
+P0 	: 아니면 윕툰도?
+P1 	: 네 웹소설이랑 웹툰도 있어요

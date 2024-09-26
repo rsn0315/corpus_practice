@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공제회 책 신청해서 당첨된 적 있어요?
+P0 	: 네 예전에 한번요
+P0 	: 님은요?
+P1 	: 저는 종종 됩니다
+	  남편것도 책 신청하거든요.
+P0 	: 와 행운이 많으신가봐요
+P1 	: 그런가요? 아.. 사주에 관한 책도 보고 싶더라구요.
+P0 	: 아~ 사주도 재밌을것같아요
+P1 	: 저는 예전에 사은품 보고 잡지를 사기도 했어요.
+P0 	: 맞아요 저도 잡지유행할때 그랬어요ㅋ
+P1 	: 화장품, 가방을 사은품으로 주는 잡지가 인기가 좋았잖아요.
+	  금방 품절
+P0 	: ㅎㅎ그때생각나요
+P1 	: 요즘도 가끔 사은품 있는 잡지를 구매하기 위해 서점을 방문하네요.ㅎ
+P0 	: 맞아요 상술인걸알면서도ㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100045864
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 안녕
+P0 	: 나 오늘 인터넷 배송 올거야
+P1 	: 뭐시켰어?
+P0 	: 냉동 식품
+P1 	: 어떤거?
+P0 	: 비비고 만두가 세일하더라
+P1 	: 많이샀어?
+P0 	: 총 6개
+P1 	: 많네
+P0 	: 싸서 안살수가 없었어
+P1 	: 핫딜이었니
+P0 	: 그렇다고 할 수 있지
+P1 	: 맛은?
+P0 	: 일단 다양하게 사봤어

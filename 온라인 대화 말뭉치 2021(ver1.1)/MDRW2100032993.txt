@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100032993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅇㅇ 먹었지 ㅎㅎ
+P0 	: 오늘은 뭐 먹었대?
+P1 	: 난 햄버거 먹었지
+P0 	: 에궁.. 밥으로 먹으라니까 또 햄버거 먹었어? ㅋ
+P1 	: 색시는 뭐 먹었는데?
+P0 	: 난 고추장찌개
+P1 	: 와 얼큰했겠다 ㅎㅎ
+P0 	: 오늘 날씨 흐려서 얼큰한게 먹고 싶더라공
+P1 	: 감자랑 애호박 고추장 넣고 끓이면 크~~ 엄청 맛있는데
+P0 	: 두부도 넣어쥥 ㅎㅎ 완전 밥도둑임
+P1 	: 나도 나중에 만들어줘
+P0 	: 알았어 언제든지~ 고추장 찌개는 금방 끓이니깐
+P1 	: 난 햄버거 먹었더니 좀 느끼해 ㅎㅎ
+P0 	: 그러니깐.. 다음엔 밥으로 좀 챙겨드삼
+P1 	: 알았엉 ㅎㅎ

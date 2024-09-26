@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100033769
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중식 좋아하세요?
+P1 	: 없어서..못먹어요
+P1 	: &name1&님은 짬뽕 짜장 둘 중 어느것?!
+P0 	: 저는 짬뽕이요ㅋㅋㅋㅋ
+P0 	: 국물을 포기못하죠
+P1 	: 아 저도요
+P1 	: 매운 고추짬뽕 시키면 얼큰 그자체..
+P1 	: 냉면이나 찌개류는 어떤 거 좋아하시나요?
+P0 	: 전 비냉이요ㅋㅋㅋ
+P0 	: 찌개는 된찌 김찌?
+P1 	: 오 저도 비냉! 전 고기먹을땐 된찌 밥이랑은 고기많은 김찌요ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: ㅋㅋㅋ
+P0 	: 제취향을
+P0 	: 적어두셨나요?
+P1 	: 아ㅋㅋㅋㅋㅋㅋ뭔가 웃기네여
+P1 	: &name1&님은 맛집탐방 좋아하시나요?
+P0 	: 네네 너무좋아하죠ㅋㅋㅋㅋㅋ
+P1 	: 오 저는 맛집가는건 좋은데 줄서는건 싫어요
+P1 	: 아이러니한..ㅠ
+P0 	: ㅋㅋㅋㅋ 모두의 딜레마 ㅡㅏ
+P0 	: 맛집은 줄이너무길죠ㅠㅠ
+P1 	: 그니까요..ㅠ아쉬운
+P1 	: 집에서 요리도 자주 해드시나요?
+P0 	: ㅋㅋㅋ네네 가끔이요
+P0 	: 샤브샤브정도?
+P1 	: 오 샤브샤브.. 요즘같이 날씨 꿀꿀할때 딱이네요
+P1 	: 국물요리 이제 가을이라 더 땡길 것 같아요

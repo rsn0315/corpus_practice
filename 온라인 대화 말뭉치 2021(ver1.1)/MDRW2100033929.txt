@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033929
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕
+P0 	: 안녕
+P0 	: 비 와?
+P1 	: 오전에 좀 왔어
+P1 	: 너희는?
+P0 	: 우리는 오늘은 비 안 왔어
+P0 	: 어제는 비 왔어?
+P1 	: 응 많이 왔어
+P0 	: 우리도
+P0 	: 태풍 피해는 없었어?
+P1 	: 응
+P1 	: 너희는 괜찮았어?
+P0 	: 응 큰 피해 없었어
+P0 	: 비 좋아해?
+P1 	: 실내에서 보는 건 좋아해
+P1 	: 너는?
+P0 	: 나도 실내에서는 좋아해
+P0 	: 옷 젖어서 찝찝한 게 싫어서
+P1 	: 나도 양말 젖는 거 너무 싫어
+P0 	: 아 진짜 끔찍해ㅠㅠ
+P0 	: 바지 밑단도ㅠㅠ
+P1 	: 맞아 바지도 많이 젖지

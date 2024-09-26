@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009404
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 미용 관심많아요?
+P1 	: 그럭저럭요
+P1 	: 그쪽은요?
+P0 	: 어릴땐 많았는데 요즘은 ..
+P0 	: 그래도 없진않아요 ㅎㅎ
+P1 	: 어떤거 주로 관리하세요?
+P0 	: 나이들수록 피부랑 몸매 신경쓰는거 같아요 아직 뚠뚠이지만 ..ㅋㅋ
+P1 	: 그쵸 피부랑 몸매가 중요하죠
+P1 	: 저도 일일1팩 붙이려고 다짐만하고 있어요
+P0 	: 화장품도 좋은거사게되고 하더라구요 ㅠ
+P1 	: 아이크림도 바르세요?
+P0 	: 아직 아이크림은 안발라용 ㅠㅠ 아이크림이 주름개선이죠??
+P1 	: 넹 눈밑 주름개선이요
+	  그건 20대부터 바르면 좋다던데요
+P0 	: 주름은 아직없눈데
+P0 	: 젤 고민은 모공이예요 ㅠㅠ
+P1 	: 아 모공 그건 어떻게 관리해야되죠
+P0 	: 그냥 모공에좋다는 폼클 오일 다사용하긴해요 ..
+P1 	: 아 저도 클렌징오일로 노폐물 녹이는게 젤 좋은거 같더라구요

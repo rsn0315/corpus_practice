@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021026
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요
+P1 	: 네 좋아해요
+P0 	: 어떤품목이요?
+P1 	: 요샌 핸드폰 바꾸고 싶어요
+P0 	: 저도 폴드사고싶네여
+P1 	: 저는 플립이요ㅋㅋ
+P0 	: 플립도 너무이쁘더라구요
+P1 	: 예전 폴더폰 감성도 있고요
+P0 	: 마자요 잘나온것가타효
+P1 	: 색상도 다 예쁘던데 갖고싶네요ㅎ
+P1 	: 최근 구매한거 있으세요?
+P0 	: 신발샀어요
+P1 	: 어떤 거요?
+P0 	: 나이키 샀습니다ㅎㅎ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100037292
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 초밥좋아해?
+P0 	: 새우초밥 좋아해 너는
+P1 	: 나는연어초밥
+P0 	: 오징어 초밥도 맛있어
+P1 	: 장어초밥 짱맛있어
+P0 	: 아 장어 초밥 먹고 싶다
+P1 	: 소스가맛있어
+P0 	: 요즘 오마카세가 유행이래
+P1 	: 예약하기도 힘들다더라
+P0 	: 근데 엄청 비싸더라
+P1 	: 일인당 10만원이라더라
+P0 	: 중요한 날 가야겠네
+P1 	: 계란 초밥도 맛있

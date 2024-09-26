@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026650
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요
+P1 	: 네
+P0 	: 최근 여행은?
+P0 	: 저는 코로나로..못 갔습니다
+P1 	: 저도 못가죠 그냥 근교 캠핑
+P0 	: 코로나가 끝나야 할텐데
+P0 	: 요즘은 비도 자주오네요
+P1 	: 이제 비 끝 여름끝~바람쇄러 고고
+P0 	: 명절에떠나야하나..
+P1 	: 아- 명절은 고향
+P0 	: 캠핑은 불멍이 최고
+P0 	: 고향에 살고있습니다
+P1 	: 와인과
+P0 	: 와인은 치즈지요
+P1 	: 아 전 멀리와서 고향가는게 여행임
+P0 	: 그렇군요
+P1 	: 450km
+P0 	: 요즘은 장거리 이동이 어렵네요
+P1 	: 차타고 4시간30
+P0 	: 끝과 끝이신가봐요
+P1 	: 네~거진 그래요 서울로 여행가요
+P0 	: 서울은 놀거리가 다양해서 좋아요

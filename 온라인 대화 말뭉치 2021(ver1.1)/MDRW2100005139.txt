@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100005139
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 반려동물키우세요?
+P0 	: 네! 저는 모란앵무라는 앵무새를 키우고 있어요!
+P0 	: &name2&님은 반려동물 키우세요??
+P1 	: 와 앵무새 키우시는분은 첨뵈요
+P1 	: 아뇨 저는 안키워요
+P1 	: 키울 자신이 없어서요 ㅎ
+P0 	: ㅎㅎ그러면 좋아하시는 동물은 어떤 동물인가요?
+P1 	: 저는 동물 별로 안좋아해요 ㅎㅎ
+	  보는것만 ㅎㅎ
+P1 	: 앵무새는 멀먹나요?
+P0 	: 저희는 앵무새 전용 사료랑 해바라기씨, 여러 잡곡, 과일들 주고 있어요!
+P1 	: 말도 진짜 따라하나요?
+P0 	: 저희집 앵무는 조금 작은 앵무새라서 말은 못해요ㅎㅎ물론 같은 종인 앵무새들 중에 말하는 걸 유튜브에서 봤지만요ㅎㅎ
+P1 	: 아 그리고 궁금한거있는데요
+P0 	: 네!
+P1 	: 새 니까 날아다닐텐데 집에서 날아다니나요?
+P0 	: 제가 키우는 앵무새도 어릴 때는 잘 날아다녔는데 지금은 올해 16살이 되어서 잘 못날아요ㅎㅎ그래서 매번 조심하고 있어요!
+P1 	: 그럼 16년을 같이 하신거예요?
+P0 	: 사실 &name3&는 저희 집 사촌이 키우던 아이였는데 저희 집에 온 거라서 정확히 기억은 안 나지만 아마 14년 정도는 같이 살았어요! 그래서 소중한 가족이에요ㅎㅎ
+P1 	: 오래 같이하셨네요 진짜 가족이네요

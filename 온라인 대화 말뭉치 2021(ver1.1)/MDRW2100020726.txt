@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020726
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 라면먹어야 될것 같아요
+P0 	: 무슨 라면 드실건가요?
+P1 	: 진라면요ㅋㅋㅋㅋ
+P0 	: 순한맛? 매운맛? 어떤건가요?
+P1 	: 순한맛요ㅋㅋㅋㄱ
+P0 	: 라면이 지겨우시다면 백종원표 라볶이 해드셔보세요
+P1 	: 백종원꺼맛있어요!
+P0 	: 맞아요! 단짠단짠! 맛없을수가 없어요
+P1 	: 백종원음식은 워낙 너무나도 유명해서ㅋㅋㅋ
+P1 	: 오늘 점심때 머먹지....
+P0 	: 전 떡볶이 먹었어요ㅋㅋ
+P1 	: 저는 햄버거먹었머요
+P0 	: 어디꺼 드셨나요?
+P1 	: 맥도날드먹었어요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100042066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 마스크 쓰고나오니까 땀난다
+P0 	: 잉 밖이신가 이시간에 무ㅡㄴ일로
+P1 	: 쓰레기 버리러 나왔어
+P0 	: 아하 맞아요 마스크 쓰니까 여름 다 끝나도 덥더라구요
+P1 	: 지금 2년째 마스크 쓰는건데도 익숙해지질 않네
+P0 	: 코로나가 진짜 무섭죠 ㅠㅠ
+P1 	: 백신
+P1 	: 백신 2차까지 다 맞으면 좀 나아지려나
+P0 	: 그러면 마스크 벗게되려나요 그럼 좀 나을텐데
+P1 	: 얼른 다들 백신 맞았으면 좋겠다
+P0 	: 저두 마스크 대문에 힘들어서 운동 못하겠어요
+P1 	: 핑계대는거 아니구?
+P0 	: 쪼끔은 그럴수도 있지만 진짜 힘들다구요 ㅎ ㅎ
+P1 	: 하긴 마스크 쓰니까 폐활량 떨어지는건지 많이 필요한건지
+P0 	: 아무튼 너무 불편해요 ㅠ
+P1 	: 덴탈마스크 쓰면 좀 나은데
+P0 	: 근데 그거는 또 그렇잔아요
+P1 	: KF94 안쓰면 눈치보이지
+P0 	: 맞아요 지난번에 결혼식장에서도 저희만 덴탈마스크 섰고
+P1 	: 그건 우리가 잘못했지만
+P0 	: ㅎㅎㅎ 좀 쪽팔렸어요
+P1 	: 새부리형 말고 큰거가 편하더라 엄마는
+P0 	: 저두요 대형 쓰면   숨이 덜 막히는거같아요
+P1 	: 새부리형은 대형 없나?
+P0 	: 모르겠는데 다 숨막히더라구요 ㅋㅋㅋ

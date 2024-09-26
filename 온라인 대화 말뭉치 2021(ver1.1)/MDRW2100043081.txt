@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P0 	: 배달음식 먹고싶다
+P1 	: 귀찮지...밥 매번하는거
+P0 	: 그니까...이렇게 비오는날에는 더 시켜먹고싶어
+P1 	: 뭐먹고싶은데?
+P0 	: 나는 새우찜...
+P1 	: 꾸준하네 새우찜쳐돌이
+P0 	: 찜류먹으면 한끼 든든하게 너무 잘먹은거 같아서 좋아
+P1 	: 좀 그런거 있는거 같아 보쌈 찜류 이런게 든든하긴해
+P1 	: 나는 치킨먹고싶다
+P0 	: 치킨도 좋지...
+P0 	: 뿌링클 좋아하잖아 너
+P1 	: 응 뿌링클 먹고싶네
+P0 	: 매번 시켜먹기엔 돈도...배달료도 부담스러워
+P1 	: 그니까....시켰다하면 이만원은 훌쩍넘어가니까
+P1 	: 너무 부담이지
+P1 	: 양도 많고...
+P0 	: 급식 먹을때 가 좋았지...

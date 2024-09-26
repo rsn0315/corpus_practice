@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020299
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 구입하신거있으세요?
+P1 	: 로션샀어요!
+P1 	: 일리윤 아토로션
+P0 	: 오 그거 좋나요??
+P1 	: 원래 세타필을 썼는데
+P1 	: 한번갈아타봤는데, 그냥,, 무난한거같아요,,
+P1 	: &name1&은 최근에 뭐 구매하셨나요 ?
+P0 	: 음 저는 트렌치코트 샀어요
+P1 	: 헉
+P1 	: 가을이니까~
+P1 	: 무슨색사셨어요 ?
+P0 	: 맞아요 ㅋㅋㅋ
+P0 	: 저는 정석인 택배박스색을 샀답니다
+P1 	: 아 당연한선택
+P0 	: ㅋㅋㅋㅋㅋ 정석인게 갖고싶었어요
+P1 	: 중고거래인 당근은 하시나요 ??
+P0 	: 네 가끔해요!
+P0 	: 해보셨어요?
+P1 	: 네 ! 판매만!
+P0 	: 뭐파셨어요??
+P1 	: 치마 팔았어요 !
+P1 	: 전에 사놨던 ,,
+P1 	: 한번도 안입은거라서 아까워서 팔았어요 ㅋㅋㅋ

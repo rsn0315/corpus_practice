@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006842
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침은 드셨나요?
+P1 	: 네 먹었어요
+P0 	: 뭐 드셨나요?
+P1 	: 저는 감자탕 먹었습니다
+P0 	: 오 아침부터 감자탕이요?
+P1 	: 네 어제 먹고 남아가지고 ㅎㅎ
+P0 	: 맛있겠네요
+P1 	: &name1&님은 아침 드셨나요?
+P0 	: 저는 별로 배가 안 고파서 안 먹었습니다
+P1 	: 지금 배고프시겠네요
+P0 	: 네 슬슬 배고파오네요 ㅠㅠ
+P1 	: 점심 많이 드시길 바라요
+P0 	: 그러게요 조금 있으면 점심시간이네요
+P1 	: 좋아하는 음식이 뭐가 있으신가요?

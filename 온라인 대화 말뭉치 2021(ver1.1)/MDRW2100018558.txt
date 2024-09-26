@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018558
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책을 많이 읽으려고 노력중입니다.
+P0 	: 그럼 어떻게 말해야 할까 읽어보셨나요?
+P1 	: 아뇨. 검색이 안되는데
+	  작가가 누구에요?
+P0 	: 오은영이요 ㅎ
+P1 	: 아.  오은영님이 저자인 책이네요.
+	  오은영 작가님의 다른 책은 읽어봤는데요.
+	  추천해주신 책도 읽어봐야겠어요.
+P0 	: 저 책 읽으면 한동안 아이에게 말을 예쁘게 하게 되어요
+P1 	: 오은영님의 책은 좋은 부모가 되게끔 도와주는 거 같아요.
+P0 	: 맞아요 이게 우리 애한테도 도움이 되는데 직업적으로도 도움이 되는듯요
+P1 	: 예전에 사은품 보고 잡지 산 적 있으세요?
+P0 	: 네~ 저 녹차카페 글 보고 잡지를 산적이 있어요 겨리님은요?
+P1 	: 저는 초임 때
+	  사은품 가방보고 잡지 사서 잡지는 전혀 안봤던 적도 있었나봐요.
+P0 	: 저도 가방보고 잡지 샀어요 분홍색 가방요
+P1 	: 요즘엔 사은품이 근사한 잡지가 예전만 못한 거 같아요.

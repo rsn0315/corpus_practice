@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026408
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 건강을 위해 먹는 영양제 있나요?
+P0 	: 저는 비타민과 오메가 3 먹고 있어요
+P0 	: &name2&은 뭐 드시나요?
+P1 	: 저는 골다공증이 있어서요
+P1 	: 칼슘과 비타민디를 먹습니다
+P1 	: 비타민은 종합비타민 먹나요?
+P0 	: 아 저도 자궁 문제로 병원에서 처방해준 비타민 디랑 칼슘, 마그네슘 먹어요
+P1 	: 옹 그렇군요.. 자궁쪽도 그렇게 먹는거군요..
+P1 	: 제 골다공은은 유전인가봐요.. 저희 친청엄마도 골다공증 있으셨거든요
+P0 	: 네 수술하고 나니 그런 영양제 처방해주더라구요
+P0 	: 가족력을 정말 무시 못하는 것 같아요
+P1 	: 맞아요.. 참.. 유전이란...
+P0 	: &name2&은 건강을 위해 하시는 운동 있나요?
+P1 	: 원래 운동을 좋아하는데 코로나 이후로 못하고 있어요
+P1 	: 수영 많이 했어요
+P0 	: 코로나 때문에 못 하게 된 게 참 많죠..
+P0 	: 코로나 백신은 접종하셨나요?
+P1 	: 네.. 2차까지 완료했어요
+P1 	: &name1&은요?
+P0 	: 저는 8월에 모더나 맞아ㅛ고 아직 2차 접종이 남았어요
+P0 	: 자도 얼른 2차까지 맞고 싶네요
+P1 	: 아.. 그렇군요.. 빨리 접종 완료하시길...

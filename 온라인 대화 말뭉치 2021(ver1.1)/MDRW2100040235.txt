@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100040235
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 후라이드 안매운거 좋아해요
+P0 	: 아하~ 평소 음식 드실때도요?
+P1 	: 네 저 매운거 잘 못먹어서
+P1 	: 짬뽕도 제 음식으로 시켜본적이 없네요
+P0 	: 아하..! 그럼 짜장면 좋아하세요?
+P1 	: 짜장면 아니면 볶음밥이요
+P1 	: 또봉이는 얼마정도 해요?
+P0 	: 또봉이는 두마리에 22000원 정도요!
+P0 	: 아 볶음밥 너무 맛있죠...
+P1 	: 두마리에요??
+P1 	: 싸네요?
+P0 	: 또봉이두마리치킨이라 두 마리예요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 맛있어요
+P1 	: 아...그렇네요 가게 이름부터 두마리네요 ㅎ
+P0 	: 다음에 기회되면 꼭 드셔보세요!
+P1 	: 네 그래야 겟네요 ㅎㅎ
+P1 	: 후라이드 매운건 아니죠?
+P0 	: 네! 그냥 후라이드입니다 ㅎㅎ
+P1 	: 굳 !

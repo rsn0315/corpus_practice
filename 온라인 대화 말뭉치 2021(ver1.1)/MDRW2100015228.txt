@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100015228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아뇨
+P0 	: 반려동물 키우세요?
+P1 	: 네
+P1 	: 강아지키워요
+P1 	: 님은요?
+P0 	: 키워요
+P1 	: 아 저 뱀도 키워요
+P1 	: 뭐 키우세요?
+P0 	: &name3&라는 이름의 콩이요
+P1 	: 콩을 키우신다고요?
+P1 	: 콩은 동물이 아니잖아요.
+P0 	: 그래도 제 반려식물이라
+P0 	: 말해봤어요
+P1 	: 또 어디가셨죠?
+P0 	: 뱀은 잘 자라나요?
+P1 	: 반려동물 말하는건데요
+P0 	: 저 바쁜데 자꾸 재촉하지 마세요
+P1 	: 뱀 요즘에 성장이 멈춘 것 같아요
+P0 	: 다 컸나보죠
+P1 	: 아 네 죄송합니다.

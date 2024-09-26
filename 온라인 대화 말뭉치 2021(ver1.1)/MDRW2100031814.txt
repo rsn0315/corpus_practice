@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100031814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 최근에 누군가에게 선물 주신 거 있으세요?
+P0 	: 와이프한테 선물로 현찰 줬어요 ㅎㅎ
+P1 	: 와!! 와이프분께서 좋아하셨을거같아요!
+P1 	: 어떤 물질적인 선물도 좋지만
+P1 	: 현찰이 원하는 물건을 구매할 수 있어도 좋기도 하잖아요
+P0 	: 그런 고차원의 의미는 아니고ㅋㅋ
+P0 	: 그냥 돈 생겨서 ㅎㅎ
+P1 	: 앟 용돈이었구나
+P1 	: 그럼 와이프분은 그거로 아직 뭐 안사셨어요?
+P0 	: 네 내일 네일받는다고ㅋㅋ
+P1 	: 헉 네일 너무 예쁠거같아요
+P1 	: 함께 네일 받아보신 적 있으세요?
+P1 	: 기분 전환으로라도..
+P0 	: ㅋㅋ제 취향은 아니라...
+P1 	: 그럴 수 있죠... 보통 남성분들이 많이 받지는 않으시니까요
+P0 	: 깜빡 잠들었네요
+P0 	: &name2&님은 최근에
+P0 	: 뭐 선물하셨나요
+P1 	: 저는 꽃다발 사서 친구 선물해준적 있어요!
+P0 	: 친구 생일이었나요 ㅎㅎ
+P1 	: 네 ㅎㅎ 친구 생일겸해서 꽃다발이랑 컵 선물 해줬어요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012474
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 보신적있으신가요?
+P1 	: 하도 오래전이라 ㅜㅜ
+	  제일 기억에 남는 공연이 뭔가요?
+P0 	: 아이유 콘서트요
+P1 	: 좋았겠어요 어때요? 노래 너무잘부르죠?
+P0 	: 그럼요 무대도 화려했어요
+P1 	: 아이유는 노래도 너무잘하고 이쁘고 
+	  참 매력있는가수에요
+P1 	: 전 폴킴 콘서트 가보고싶어요
+P0 	: 가수 콘서트인가요?
+P1 	: 네 폴킴
+	  ㅎ 목소리가 너무좋아요
+P0 	: 들어볼게요
+P1 	: 네
+	  요즘 영화 보러가시나요
+P0 	: 아니요 님은요?
+P1 	: 코로나때문에 못가죠.. 가고싶네요
+P1 	: 영화도 집에서 봐야하네요
+P0 	: 맞아요

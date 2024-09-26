@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000926
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 다른 일을 좀 찾아볼까
+P0 	: 갑자기 왜
+P1 	: 그냥.. 지금 하는일은 넘힘드넹
+P0 	: 디자인 하는게 어렵지
+P0 	: 그래도 잘 하는 건데 더 열심히 해 봐라
+P1 	: 흑흑 내보다 더 잘하는 사람들이 넘 많다 ㅠㅠ
+P0 	: 딸내미도 충분히 잘 한다
+P0 	: 조금만 힘내요
+P1 	: 흑흑 알았다 ㅋㅋ 그래도.. 암튼 10년쯤 뒤에는 다른 일 해야할듯
+P0 	: 그래 나중에 다른 일 뭐 할지 생각해 봐라
+P1 	: 알았옹 ㅋㅋ 넘 스트레스 받는 일은 오래 못하는듯
+P0 	: 그래 스트레스 안 받는게 좋다
+P1 	: 맞당~ 스트레스를 넘 많이 받으면 안좋다
+P0 	: 그래
+P1 	: 굿 ㅋㅋ 스트레스 해소하면서 일할겡

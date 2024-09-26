@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100004189
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키우는 반려동물 있어?
+P0 	: 지금은 키우는 반려동물은 없어!
+P1 	: 오 그럼 전에는 키웠던 거야?
+P0 	: 이전에는 구피랑 고슴도치 키웠었어!
+P1 	: 우와 구피.. 우리 할머니집 가면 그런 작은 물고기들 많았어
+P1 	: 고슴도치도 귀엽지 내 친구 중에 키우던 애 있었어 쓰다듬기 어렵더라
+P0 	: 핸들링이 중요한 동물이라ㅠ 그래도 엄청 귀여웠다ㅋㅋ
+P1 	: 맞아.. 이름은 어떻게 지어줬었어?
+P0 	: 수컷은 &name3&, 암컷은 &name4&로 지었어!
+P1 	: 오 &name3&&name4& 잘 어울린다ㅋㅋㅋ
+P1 	: 간식은 어떤 걸 줘?
+P0 	: 주식은 사료였고, 가끔 고슴도치 전용 소시지랑 밀웜?
+P1 	: 와우 밀웜 보다보면 적응 되는 거겠지
+P0 	: 나는 끝까지 적응이 안 되더라...
+P1 	: ㅋㅋㅋㅋㅋㅋ 키운 사람이 그런 말 하니까 되게 웃기다
+P1 	: 고양이 키우는 사람들은 집사라고 하잖아
+P1 	: 고슴도치 키우는 사람은 뭐라고 해?
+P0 	: 음 딱히 호칭을 나눴던 기억은 없어! 집사라는 호칭이 나오기 전에 길렀던 거라서ㅎㅎ
+P1 	: 집사라는 호칭이 나온지 별로 안됐나?
+P1 	: 암튼 귀엽구만 고슴도치
+P1 	: 나는 강아지 키워보고 싶더라

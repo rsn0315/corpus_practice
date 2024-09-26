@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 치과 비용이 만만치 않네요
+P0 	: 치아건강을 위해 하고 계신거 있으세요?
+P1 	: 비용이 너무 많이 들어요
+P1 	: 잇몸치약 구강청결제
+P1 	: 영양제 먹어요
+P0 	: 아~영양제는 뭐드세요?
+P0 	: 치아에 좋은게 따로 있나요?
+P1 	: 딱히 치아에 좋은거는 아니고 몸에 좋은거요
+P1 	: 치아 제품은 효과 없데요
+P0 	: 아~ㅠㅠ 아쉽네요ㅠㅠ 저도 잇몸이 너무 안좋아서ㅠㅠ
+P0 	: 고기 먹으면 잇몸이 너무 아파요
+P1 	: 맞아요
+P1 	: 임플란트 쪽은 잘안써서 반대쪽만 먹으니 그쪽이 부어요
+P0 	: 아~임플란트 쪽은 왜 안 쓰세요?ㅠㅠ 저도 곧 해야할수 있어서 관심이 많아요
+P1 	: 좀 겁나요 쓰기가
+P1 	: 어색하고요
+P1 	: 사이에 뭐 낄까봐도 안써요
+P0 	: 아~~저도 임플란트 하려고 했던 2개가 치아는 없고 뿌리만 있거든요
+P1 	: 아 빨리 하셔야 겠네요
+P0 	: 거기에 가짜 이빨로 몸통만 입힌거라 약해요
+P1 	: 전 뿌리도 없어져서 이식했어요
+P1 	: 헉 그거 빨리 해야해요

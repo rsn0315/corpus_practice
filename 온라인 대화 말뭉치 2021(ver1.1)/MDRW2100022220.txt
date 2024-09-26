@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022220
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 다음 가족여행은 어디로 갈까나?
+P0 	: 요?
+P1 	: 강원도쪽 어떠니?
+P0 	: 나쁘진 않네요.. 전에 갔었던거 같은데
+P1 	: 그땐  당일이었고
+P0 	: 네 아마도 올해는 힘들겠고... 내년엔 가능할 거같은니 내년을 노려보죠
+P1 	: 그래 안전한 여행이 최고지
+P0 	: 강원도도 여기저기 많은데 가고 싶으신 곳 있으세요?
+P1 	: 대관령 양떼목장 어떠니?
+P0 	: 거기도 괜찮겠네요..
+P1 	: 다른식구들도 좋아하겠지?
+P0 	: 아마도요? 일단 엄마는 여행을 워낙 좋아하니까요.. 동생이 시간 맞추기 어려우니 동생 시간에 맞게 가야하겠죠
+P1 	: 그래 동생이랑 상의해보렴
+P0 	: 네

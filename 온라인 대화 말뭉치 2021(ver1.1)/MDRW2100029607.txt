@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100029607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 양도키우고
+P1 	: 돼지도 키우고
+P1 	: 소도 키우고
+P0 	: 집도 짓고요
+P1 	: 닭도 키울수 있어요
+P1 	: 최근엔 염소도 생겼어요
+P0 	: 엄청 현실적이네요
+P1 	: 마을 찾으면
+P0 	: 집지어야 자는거 아닌가요
+P1 	: 거기서 고양이 길들여서
+P1 	: 데려올수 있어요
+P0 	: 집없음 땅바닥서 자나요
+P1 	: 침대만 만들어서 다녀도 된답니다
+P0 	: 냥이 이름도 지어주나요
+P0 	: 심즈같네요 섬세하네요
+P1 	: 이름은 못지어주지만
+P1 	: 목줄 색은 바꿀수있어요
+P0 	: 지금도 그 게임하시나요
+P1 	: 양털 염색할수 있어요
+P1 	: 한번씩 해요
+P0 	: 시간잘가겠군요
+P1 	: 모험하러 가는거죠
+P0 	: 폰으로 하시나요
+P1 	: 낚시두해요

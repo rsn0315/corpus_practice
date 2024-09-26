@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013267
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨 어때요?
+P1 	: 흐림이요.. 비오는거보단 좋네요
+P0 	: 어제 비가 와서 날씨도 흐렸고 쌀쌀하더라고요
+P1 	: 오늘은 다리가 아직 끈끈하지 않은게 좋네요.. 
+	  다음달만가도 시원하겠어요
+P0 	: 그쪽 지역은 아직까진 반팔 반바지 차림 어떤가요?
+P1 	: 9월말까진 반바지 아닌가염? ㅎㅎㄹ 서울이에요..
+P0 	: 어제는 밖에 게속 있다보니 춥더라고요
+P0 	: 수도권은 아직 덥긴 하죠
+P0 	: 언제부터 긴팔을 입어야 할까요?
+P1 	: 다음달만가도 출근때엔 긴팔 나올듯..
+P1 	: 추위많이타세요?
+P0 	: 날씨가 자꾸 바뀌니까 일기예보도 믿을 수없고
+P1 	: 진짜 날씨가...
+	  가을장마도 이제 자리잡은거 같고..
+P1 	: 예전이랑 완전달라요
+P0 	: 안오는 비가 요즘에 내려서 여름이 끝나가는건 맞는거같아요
+P1 	: 원래 이맘때까진 엄청 더웠는데... 
+	  여긴 장마때 비도 안왓어요
+P0 	: 얼릉 가을이 오긴해야 해요 여름은 지옥이라서

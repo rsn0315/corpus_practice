@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002083
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 반가워요!
+P0 	: 오늘 저녁 뭐 드셨나요?
+P1 	: 오늘은 순대국밥먹었어요 든든하게~
+P0 	: 오 따근한 국물!
+P0 	: 전 된장찌개 자박자박 끓여서
+P0 	: 상추에 쌈싸먹었어요ㅋㅋㅋ
+P0 	: 요즘 배달도 많이 시켜드시죠?
+P1 	: 오 맛있겠다 된찌
+P1 	: 배달은 일상이죠ㅋㅋ
+P1 	: 어젠 아구찜 시켜먹었어요
+P0 	: 헐... 진짜 밤에 음식 이야기하기
+P0 	: 힘드네요..ㅜ
+P0 	: 전 점심에 중식 시켜먹었어요ㅋㅋ
+P1 	: 점심은 김치나베우동...
+P1 	: 낼은 돈까스 먹을거예요
+P0 	: 와.. 진짜 맛있는 게 많아서 행복합니다
+P0 	: 내일은 뭐 먹지..
+P0 	: 매일 고민이네요ㅠ
+P1 	: ㅋㅋㅋㅋㅋ맞아요 매일 맛집만 찾아다니고싶은 마음..
+P0 	: 진짜 돈만 많으면 맛집투어하면서 살고 싶네요ㅎㅎ
+P0 	: 맛집 일주일에 몇 번 가시나요?
+P1 	: 흠 한달에 한두번정도..? 가는것같아요!
+P0 	: 오 맛집가는 거 진짜 좋아하는데
+P0 	: 요즘 너무 더워서 저도 그 정도 가는 거 같아요

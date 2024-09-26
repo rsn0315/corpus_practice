@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100004138
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 혹시 여행 좋아하세요~?
+P1 	: 네 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도 여행 다니는거 좋아해요~
+P0 	: 코로나 때문에 밖에 다닐 수가 없어서 아쉬워요 ㅠㅠ
+P1 	: 그러니까요 ㅎ
+P1 	: 여행 어디가 좋으셨나요?
+P0 	: 저는 개인적으로 태국이요!
+P0 	: 1일 1마사지 너무 행복했습니다
+P1 	: 우와 마사지 되게 시원할 거 같아요
+P1 	: 여행가서 힐링 제대로네요
+P0 	: 최고예요 ㅠㅠㅠㅠ 태국 왕실 마사지가 진짜 찐이었어요
+P1 	: 와 저도 한번 받아보고 싶어요...
+P1 	: 왕실마사지라니..
+P0 	: 약간 로컬이랑 다르게
+P0 	: 쭈물쭈물 안 해줘서
+P0 	: 아 이게 뭐지 돈 아깝다 하는데
+P0 	: 다 받고 일어나면 몸이 가벼워요
+P0 	: 혈자리를 눌린건지
+P1 	: 와..... 전뮨가의 솜씨가 대단 할 거 같아요
+P1 	: 태국가서 받고싶네요
+P0 	: ㅠㅠㅠ &name2&님은 어디가 제일 좋으셨어요?
+P1 	: 전 해외여행을 일본만 가봤어요
+P1 	: 어링 때 가서 그런지 좋았어요
+P0 	: 일본 좋죠~
+P0 	: 어디 가보셨어요?
+P1 	: 저 오사카 가봤어요
+P1 	: 저때 일본 가는게 유행아닌 유행이였거든요
+P0 	: 헐 오사카 재밌으셨겠다
+P0 	: 오.. 그런 때가 있었나봐요
+P0 	: 유니버셜 가보셨겠다
+P1 	: 네 ㅋㅋ ㅋㅋㅋㅋㅋ 해리포터 옷 입고 아주
+P1 	: 좋았어요 !!!!

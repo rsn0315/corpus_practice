@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032074
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 3요즘 KFC가 많이 없어졌죠
+P1 	: 커넬버거 좋아했었는데
+P0 	: 기름기 때문에 너무 느끼하더라고요
+P1 	: 많이 안 좋아졌나요 그땐 쿠키 사서 땜에 발라 먹는 것도 좋아 했거든요
+P0 	: 롯데리아도 오징어버거 단종되고 안 갔어요
+P1 	: 롯데리아에서 제가 제일 좋아했던 유러피안버거 완전 다른 버그로 변신하고 나서는 잘 안 가게 돼요
+P0 	: 왜 이렇게 맛이 변할까요
+P1 	: 옛날 버거가 훨씬 맛있었던 기억이 나네요
+P0 	: 그래서 맘스터치 가나요
+P1 	: 제 취향과 거리가 있어 졌습니다
+P0 	: 괜히 쓸데없이 변형해서 망 하네요
+P1 	: 맘스터치는 그 가격 대비 비해서 아주 패티도 크고 먹을 때 소스가 입에 묻는다는 단점 빼고는 완벽한 곳이잖아요
+P0 	: 쉑쉑은 아시나요
+P1 	: 아가 본 적은 없어요 들어본 적은 있습니다
+P1 	: 근처에 있나요
+P0 	: 웬일로 안 드셔 보셨네요
+P0 	: 여기 있는지는 모르겠고 서면에서 봤어요

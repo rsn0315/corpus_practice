@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011381
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 종교있으세요?
+P0 	: 무교입니다 누누님은요
+P1 	: 저도 무교입니다
+P1 	: 왜 종교를 안믿으시나요?
+P0 	: 귀찮아서요
+P1 	: 특이한이유군요
+P0 	: 누누님은 왜 무교이신가요
+P1 	: 저는 딱히
+P1 	: 신앙심이 생기지가않아서요
+P0 	: 절이나 교회 가보신적있으세요
+P1 	: 교회가본적있어요 어릴때친구따라서
+P1 	: 있으신가요?
+P0 	: 저도 초등학생때 문화상품권 준다고해서 가봤습니다
+P1 	: 오
+P1 	: 가서 받았나요진짜?
+P0 	: 네 받았습니다

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034266
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 급식세대신가요?
+P1 	: 전 아닌데 초등학교 다닐 때는 급식 먹었어요.
+P1 	: 급식 세대세요?
+P0 	: 저는 초등.고등학교때 먹었어요~!!
+P1 	: 급식 맛있었어요? 전 급식도 좋았고, 엄마 도시락 쉬는 시간에 까먹는 재미가 있었죠.ㅎㅎ 수업들을 때 앞자리 뒷자리 어디 선호하셨어요?
+P0 	: 음.. 기억이 잘 안나요..대학땐 늘 뒤에 앉아서 딴짓했던 기억이...ㅜㅜㅋㅋ
+P1 	: 전 사춘기 시절에 놀다가 고3때 빡세게 공부하고 수능대박나서 대학간 케이스라 대학때 공부 따라가기 힘들었어요.
+P0 	: 그러셨군요 뭐하고 노셨나요^^
+P1 	: 사실 별거 안한거 같은데.. 그냥 친구들이랑 여기저기 몰려다녔죠ㅎ 노래방도 가고, 영화도 보고, 맛난것도 먹고~^^
+P0 	: 추억이 많은 학창시절이겠어요^^
+P1 	: 네 다사다난했어요. 열심히 놀고 열심히 공부했죠.ㅎ
+P0 	: 저도 야자안하고 노래방 간 기억이 있어요^^
+P1 	: 전 야자가 없는 학교여서 방과후에 실컷 놀 수 있었어요.ㅎ
+P0 	: 와 그럼 저녁급식은 안했겠어요,
+P1 	: 안 했죠. 수업 땡 끝나면 종례하고 나가서 놀았죠.

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015720
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 무슨 일이에요.. 그 강의들 실시간이었어요??
+P0 	: 네 ㅋㅋㅌㅌㅌ ㅠ 진짜 죽을 맛이었어요
+P1 	: 헉.. 강의실만 집으로 바뀐 거네요ㅠㅜㅠ 고생하셨어요
+P1 	: 그래도 통학 안해도 된다는 게 그나마 편한 거 같아요
+P0 	: ㅎㅎ 맞아요 시간 절약 꿀
+P1 	: 통학 오래 걸리는 편이에요?
+P0 	: 1시간 좀 넘어요
+P1 	: 헉 먼 편이네요!
+P1 	: 비대면이 좋긴 좋아요 진짜
+P0 	: 동아리 하신 적 있나요?
+P1 	: 네 코로나 전에 했어요!
+P1 	: 그냥 친목 위주였지만
+P0 	: 오 어떤 동아리였어요?
+P1 	: 저 야구 동아리요! 저는 야구 잘 몰라서 응원만 했어요ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ 야구 직접 안해도 들어갈 수 있군요
+P1 	: 친구가 데리고 가줬어요ㅋㅋㅋㅋ 매니저였어요!
+P0 	: 아아 ㅋㅋㅋㅋㅋ 그럼 엠티도 가셨나요?
+P1 	: 아 네 동아리 엠티 갔어요!! 재밌었어요ㅋㅋㅋㅋ

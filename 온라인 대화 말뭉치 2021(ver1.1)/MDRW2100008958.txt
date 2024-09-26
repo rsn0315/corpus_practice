@@ -1,0 +1,72 @@
+# FILE DATA
+ID : MDRW2100008958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요+
+P0 	: !
+P1 	: 안녕하세요 디저트 좋아하시나요
+P0 	: 네
+P0 	: &name2& 님은 디저트 좋아하세요?
+P1 	: 저두 좋아해요! 지금 먹을까말까 고민중이었어요
+P1 	: 과즐이 좀 있어서..ㅎㅎ
+P0 	: 과즐이 뭔가요??
+P1 	: 그 한과같은건데
+P1 	: 그 쌀 튀긴거 겉에 붙이고 조청이랑 안에는 에이스같은거 있어요!
+P0 	: 오 맛있을 거 같아요
+P0 	: 저도 한과 좋아해요
+P1 	: 이시간만 되면 단게 땡기네요..
+P1 	: 저녁은 뭐 드셨어요?
+P0 	: 전 무화과 먹고 있어요ㅋㅋ
+P0 	: 저녁은 닭볶음탕이요
+P0 	: &name2& 님은요?
+P1 	: 헐 무화과 대박 맛있겠어요..
+P1 	: 부드러워서 너무 맛있어요 ㅠㅠ
+P1 	: 닭볶음탕에 고구마 파이신가요 감자 파이신가요
+P0 	: 무화과 완전 맛있죠!!
+P0 	: 헐 저 고구마는 안 먹어봤어요
+P0 	: 하지만 어떻게 하나를 고르죠 둘 다 맛있어요
+P1 	: 저도 탕평책입니다
+P1 	: 둘 다 너무 맛있어요..
+P1 	: 포실한 감자.. 달달한 고구마..
+P0 	: ㅋㅋㅋㅌㅋㅋㅋㅌ
+P0 	: 탄수화물은 뭐든 맛있죠
+P1 	: 인정입니다 탄수화물 짱..
+P1 	: 저는 저녁에 에어프라이어에 냉동돈까스 먹었는데
+P1 	: 바삭한 일식돈까스 먹구싶습니다
+P0 	: 저도 일식 튀김요리 좋아해요
+P0 	: 야채튀김 먹고 싶네요
+P1 	: 야채튀김 헉! 진짜 맛있겠어요
+P1 	: 튀김에 맥주한잔..!

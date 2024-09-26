@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043609
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 제주도가면 뭐할꺼야
+P1 	: 맛집 다니면서 맛있는거나 먹어야지
+P0 	: 뭐가 먹고싶어용?
+P1 	: 제주도 해산물 먹고 싶다
+P0 	: 맛있겠다..
+P1 	: 싱싱 하겠지
+P0 	: 그렇겠지?ㅋㅋ 직접 낚시도 해봐용 ㅋ
+P1 	: 낚시를 어떻게 하니
+P0 	: 그런거 체험하는거 있던데 ㅋㅋ아니면 해녀체험
+P1 	: 재밌겠네
+P0 	: 근데 엄마 물 무서워해서 못하겠군 ㅋ
+P1 	: 그래 그냥 사 먹어야지
+P0 	: 웅웅ㅋㅋ
+P0 	: 베트남 가서 망고먹고싶다

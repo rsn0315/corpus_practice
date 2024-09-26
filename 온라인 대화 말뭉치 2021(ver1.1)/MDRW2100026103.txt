@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100026103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁 드셨나요??
+P1 	: 아직이요!
+P1 	: &name1&님께서는 저녁 드셨나요?
+P0 	: 헉 배고프시겠어요!
+P0 	: 저는 떡볶이 먹었어용
+P1 	: 헉, 맛있겠다.
+P1 	: 어떤 떡볶이가 제일 좋으세요??
+P1 	: 엽떡이나, 신전이나 그런거요!
+P0 	: 저는 엽떡 좋아해요!
+P0 	: 비싸긴 하지만 ㅠㅠ 너무 맛있어요
+P0 	: &name2&님은요???
+P1 	: 엽떡 저도 좋아해요!
+P1 	: 최근에 허니콤보랑 같이 먹으면 더 맛있다고 들어서
+P1 	: 친구들이랑 같이 먹어봤는데 달고 맵고 해서 끝없이 들어가더라구요 ㅋㅋㅋ
+P0 	: 맞아요 진짜 맛있겠더라구요
+P0 	: 근데 저 허니콤보 한번도 안 먹어봤어용...
+P0 	: 맛있나요??
+P1 	: 맛있어요!
+P1 	: 근데 단거 안좋아하시면 조금 별로일 수도 있을 것 같아요...
+P1 	: 많이 단 간장치킨?? 정도에요
+P0 	: 오 그래서 떡볶이랑 잘 어울리나봐요
+P0 	: 저도 나중에 꼭 같이 먹어볼게요!!
+P1 	: 3~4명이서 먹으면 양 딱 맞아요!
+P1 	: 다음에 꼭 드셔보세요
+P0 	: 넵 ㅎㅎ 조아요
+P0 	: 혹시 아직도 저녁 안 드셨나요??
+P1 	: 네... 배달시키려고 하는데 친구들이랑 이야기하다가
+P1 	: 까먹어서 아직...
+P0 	: 아이고...
+P0 	: 얼른 뭐라도 시키세요!
+P0 	: 배 많이 고프실 것 같은데 ㅠㅠ
+P1 	: 방금 시켰어요!!

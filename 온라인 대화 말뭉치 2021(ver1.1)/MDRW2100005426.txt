@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005426
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 여행 좋아해요!
+P0 	: 저도
+P1 	: 어떤 여행지가 기억에 남으셨나요?
+P0 	: 호주요
+P1 	: 호주의 어떤 명소가 마음에 드셨어요?
+P0 	: 오페라하우스요
+P1 	: 저도 꼭 가 보고 싶은 곳이었어요!
+P0 	: 네 멋지더라구요
+P1 	: 저는 유럽일주를 해보고 싶었는데 요즘 그쪽은 난리라서요ㅠ
+P0 	: 선진국이 더 한거 같아요 미국도
+P1 	: 맞아요...약간 개인주의가 팽패한 나라에서 더 그런 것 같아요
+P0 	: 아마도 그렇겠죠

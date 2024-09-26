@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100026677
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가족이 몇명이세요?
+P0 	: 3명?
+P0 	: 4명?
+P0 	: 가족이 몇명이세요?
+P0 	: 2명?
+P1 	: 5인입니다
+P0 	: 와우
+P0 	: 부럽습니다
+P0 	: 딸 아들 딸
+P1 	: 네 부러우시면 많이 낳으세요
+P0 	: 제가 낳나요
+P1 	: 그럼 마음으로낳으세요
+P0 	: 넵
+P0 	: 육아 스트레스 두렵네요
+P1 	: 체험해보실래요?
+P0 	: 아뇨
+P0 	: 이미 집안일 많이하고 있어요
+P1 	: 집안일은 육아와다르니까요
+P0 	: 집안일 플러스 육아
+P0 	: 주제가 가족이군요
+P0 	: 가사와 가족이라..
+P1 	: 그무엇이던 힘든거죠^^
+P0 	: 그쵸
+P1 	: 힘내시고 일찍주무세요
+P0 	: 하지만 가족이 없으면 인생 의미가 없죠
+P1 	: 가족이 몇명?

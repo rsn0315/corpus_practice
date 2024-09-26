@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100033095
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 애들은 뭐해?
+P0 	: 숙제하고 있어
+P1 	: 오늘 학교 다녀오니 숙제가 많구나
+P0 	: ㅇㅇ 연산이랑 영어숙제가 있네
+P1 	: ㅎㅎ 힘들겠네
+P0 	: 특히 수학숙제는 너무 많아서 한시간 동안 했어 ㅠ
+P1 	: 훌 등교한다고 한꺼번에 너무 많이 내주시는 거 아냐?
+P0 	: 곱셈 연산인데 진짜 많긴 하더라.. 100문제도 더 푼듯
+P1 	: 꼬맹이 찡찡댔겠네
+P0 	: 지금도 영어 단어 쓰는 중인데 좀 안쓰럽네 ㅠ
+P1 	: 어쩔 수 없지.. 학교 숙제니까
+P0 	: ㅇㅇ 난 오늘 미션 하나도 안내줬어 학교 숙제 하느라
+P1 	: ㅎㅎ 오늘 전면등교 첫날이니 좀 봐줘

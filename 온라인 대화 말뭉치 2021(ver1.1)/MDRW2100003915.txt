@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003915
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사는?
+P0 	: 지금 중국집시켰어요 님은 드셨나여
+P1 	: 아직요
+P0 	: 뭐두실건가요
+P0 	: 뭐드실건가요
+P1 	: 아직요
+P0 	: 메뉴안정하셨어요?
+P1 	: 치킨 예정이요
+P0 	: 치킨좋져 어디치킨드실건가요
+P1 	: 네네
+P0 	: 네네 후라이드여?
+P1 	: 그렇죠
+P0 	: 오 후라이드랑 양념중에 후라이드파이신가요
+P1 	: 네 정통만

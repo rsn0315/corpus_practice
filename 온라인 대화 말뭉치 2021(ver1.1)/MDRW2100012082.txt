@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012082
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어디로 여행가고싶으세요?코로나 끝나면요
+P0 	: 전 유럽이요 ㅎ
+P1 	: 유럽 어디요?저도 유럽 가보고싶네요~
+P0 	: 이탈리아 피자먹고파요
+P1 	: 아 그러신군요~가보신 나라중에서 어느 나라가 가장 좋으셨나요?
+P0 	: 전 태국요~ 경치가 멋졌어요
+P1 	: 저의 첫 해외여행지였어요~
+P0 	: 아~~
+P1 	: 그래서 태국은 애뜻해요~
+P1 	: 벌써 15년전이네요ㅜ
+P1 	: 첫 해외여행지는 어디셨나요?
+P0 	: 전 일본이여ㅎ
+P1 	: 일본은 안 가봤어요~좋은가요?
+P0 	: 네 좋아요

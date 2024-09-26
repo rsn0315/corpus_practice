@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100029371
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님! 제가 맛집 리스트를 정리하고 있는데 혹시 추천해주실 맛집 있나요?
+P0 	: 헉
+P0 	: 술좋아하세요?!
+P1 	: 헉 넵
+P1 	: 제 삶입니다
+P0 	: 거주지가 어느쪽이세요?!
+P1 	: 저 서울이요!!
+P0 	: 아 그럼 혹시 문래아세요?!
+P0 	: 문래동! 영등포쪽!
+P1 	: 헐!!!완전 자주 가요~~~
+P0 	: 문래동 브릭스박스 가보세요,,,!
+P0 	: 와인하고
+P0 	: 진토닉이 진짜맛있어요
+P0 	: 진토닉,,최고!
+P1 	: 헉 감사합니다 지금 당장 메모해둘게요
+P0 	: 오늘은친구분이랑 뭐드시러가세요?!!
+P1 	: 문래 몽밀이랑 철판희도 맛집입니다앙!!
+P1 	: 저는 오늘 친구랑 서촌 메밀국수 가게에 갈 것 같아요!
+P0 	: 뭐파는곳인가요?!!
+P0 	: 아 맛있겠다
+P1 	: 헉!! 몽밀 냉모밀이 진짜 맛있구요!!
+P1 	: 철판희는 철판볶음밥 파는 가게입니다
+P1 	: 깔끔하고 짱이에요 ㅠ
+P0 	: 아 ㅠ 둘다최고네요 꼭 가볼게요

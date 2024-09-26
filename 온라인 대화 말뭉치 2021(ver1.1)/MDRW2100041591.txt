@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041591
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게장이요?
+P0 	: 네
+P1 	: 음 간장게장은 별로요
+P0 	: 아 왜요?
+P1 	: 짜기만 하고 맛을 잘 모르겠던데..
+P0 	: 그럼 양념 게장은 좋아하세요?
+P1 	: 양념게장은 양념맛이 맛있어서 좋아해요 ㅎㅎ
+P0 	: 저는 간장게장도 좋아하는데 맛있는집을 찾기가 어렵긴 해요
+P1 	: 저도 맛있는곳에서 안먹어봐서 그런걸지도
+P0 	: 맞아요! 양념게장은 양념맛이 거기서 거기라 ㅋㅋ
+P1 	: 그쵸 매콤하고 달콤하고 ㅋㅋㅋ근데 손을 너무 많이 배려서
+P0 	: 요즘은 그래서 순살양념게장같은거도 팔던데요!
+P1 	: 오 그래요? 신기하네요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100032125
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P1 	: 백신 맞았나?
+P0 	: 백신 저번주에 맞았지
+P0 	: 니는?
+P1 	: 나도 한 오일정도 됐음
+P0 	: 이번 백신 10부제한거 잘한거 같지 않나
+P0 	: 생각보다 안빡셌어
+P1 	: 그니까 왜 월이아니라 일인지 궁금했는데
+P1 	: 생가보다 월로 했을때 일정하지않더라...
+P0 	: 진짜 월로하니까 생각보다 다르더라....
+P0 	: 생각해보면 학교애서도 애들 생일 몰려있고 그러니까...
+P1 	: 그니까 아무래도 추우면 같이 붙어있게되어서 그런가ㅋㅋㅋㅋㅋ
+P1 	: 이맘때쯤 생일많아ㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 진짜 ㅋㅋㅋㅋㅋㅋ 이맘때쯤. 많네 ㅋㅋㅋ
+P0 	: 우리애들 3명이나 저번달이랑 지금 생일이네
+P1 	: 그니까ㅋㅋㅋㄱ생각보다 일별로하면 균등한가봐ㅋㅋㅋ
+P1 	: 니는 어디서 예약했음?
+P0 	: 나는 그 백신 앱?국가껄로 했음
+P1 	: 아 나도 그걸로했는데
+P1 	: 겁주던거랑 달리 엄청 금방되더라
+P0 	: 나도 오분도 안걸림
+P1 	: 소아과로 호다닥 예약함ㅋㅋㅋㄱ
+P0 	: 사탕받고 싶었냐고 ㅋㅋㅋㅋㅋ

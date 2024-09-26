@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100003026
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 식사하셨어요?
+P0 	: 아직이요 근무중이예요
+P0 	: 학생이신가요
+P1 	: 아뇨 저는 퇴근해서 저녁준비중이요 ㅎ
+P0 	: 주로 해드세요? 배달시키세요?
+P1 	: 왠만하면 해먹으려고요 간단히라도요
+P1 	: 배달은 자제하는편이예요
+P0 	: 결혼하셨어요?
+P0 	: 저는 집에서 잘 안먹어서 가끔먹으면 배달!
+P1 	: 네 결혼해서 애가 둘이라 ㅎㅎ
+P0 	: 저도 애기있어요 돌쟁이
+P0 	: 딸이예요
+P1 	: 배달시키면 어떤거 주로드세요?
+P0 	: 남편이 족발좋아해서 많으면 주1회먹어요
+P0 	: 저는 닭강정 좋아해요
+P0 	: 웃긴건 치킨은 안좋아해요ㅋㅋ
+P1 	: 족발 좋죠 닭도 좋고 ㅎㅎ
+P1 	: 저도 닭강정같은거 좋아하는데 신랑은 순살인거 안좋다고 시키는거 싫어해요
+P0 	: 맞아요ㅋㅋ
+P0 	: 어쩜 남편들이 생각이 같은지
+P0 	: &name2&님은 아이들 반찬 주로 뭐해주세요?
+P1 	: 저는 주로 하는것만해요
+P0 	: 애기들몇살이예요?
+P1 	: 멸치볶음 감자채볶음 같은거요
+P1 	: 5 6세요
+P0 	: 이유식사먹엤는데 이제는 돌쟁이라 해먹여야될것같아요
+P0 	: 요리를몽해서 고민이네요
+P0 	: 계속 사먹여야될지
+P1 	: 저도 똥손이예요 ㅎ
+P1 	: 애 어릴땐 주로 사먹였어요
+P1 	: 이유식도 유아식도...ㅎㅎ

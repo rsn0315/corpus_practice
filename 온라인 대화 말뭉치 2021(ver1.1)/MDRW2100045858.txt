@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100045858
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 루꼴라 좋아하세요?
+P1 	: 아녀ㅋㅋㅋ 그냥 지은 이름이에여
+P0 	: ㅋㅋㅋㅋ
+P0 	: 그럼 좋아하는 야채 있으세요?
+P1 	: 청경채 좋아해요
+P0 	: ㅎㅎ굴소스랑 먹음 찰떡이조
+P1 	: 맞아요ㅋㅋㅋㅋㅋ
+P1 	: 어떤 야채 좋아하세요?
+P0 	: 저는 대체로 좋아요
+P0 	: 버섯류도 좋고 ㅎㅎ
+P1 	: 오 버섯 이번에 안 하얀 팽이 ㅂㅓ섯 드셔보셨나요?
+P0 	: 황금팽이버섯이요?:)
+P1 	: 그렇게 불리나요? 그냥 좀 노르스름한거요
+P0 	: 음
+P0 	: 갈색인거 맞으면 먹어봤어요 ㅎㅎ
+P0 	: 맛은 비슷한데 그냥 색달라서 재밌는것 같아요~
+P1 	: 맛 비슷해요? 여기 마트에 안 들어와서요ㅠㅠ
+P0 	: 쿠팡에도 팔아요!
+P0 	: 네 색만 예뻐요 ㅎㅎ
+P1 	: 별로 다를 건 없군요ㅎㅎ
+P1 	: 어떤 음료 좋아하세요?
+P0 	: 밀크티요!!

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007020
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 경기
+current_residence : 강원
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 요즘 코로나라 여행가기어려운데ㅠㅠ 최근에 가신적있으신가용
+P1 	: 최근....저 2년 전이요 ㅋㅋ
+P1 	: 언제 여행하셨어요?
+P0 	: 국내여행 포함하면 이번달초에 다녀왔어요ㅎㅎ
+P1 	: 오 어디요?
+P0 	: 인천이요! 송도에서 호캉스하고왔어요ㅎㅎ
+P1 	: 오 편하게 쉬셨겠네요 ㅋ 호캉스 해본 적 없는데 추천할만 하신가요?
+P0 	: 네 뷰 좋은곳에서 편하게 쉬니까 좋더라구용
+P1 	: 아 한번 가봐야겠어요
+P1 	: 코로나 길어지니 답답해요
+P0 	: 맞아요ㅠㅠ 해외 넘 가고싶어요ㅠㅠ
+P0 	: 2년전에 가셨던곳은 어디였어요?
+P1 	: 파리갔었어요
+P1 	: 그땐 금방 다른 여행지도 갈 수 있을 줄 알았는데
+P0 	: 파리 좋죠..! 저도 짧게있어서 넘 아쉬웠지만 그래두 좋았어요
+P0 	: 그러게요 코로나전까지는 열심히 다녔었는데ㅠ
+P1 	: 또 가고 싶어요 언제가 될지
+P0 	: 내년에는 갈 수 있으면ㅠㅠ

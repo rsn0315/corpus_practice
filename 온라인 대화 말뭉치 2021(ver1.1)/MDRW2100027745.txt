@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2& 님 10대이신가요?
+P1 	: 안녕하세요! 저는 20대 대학생입니다.
+P0 	: 저도요 대화 걸기 전에 10대라고 쓰여 있어서 여쭤봤습니다 개강하셨죠?
+P1 	: 아 그런가요? 네 어제 개강했습니다!
+P1 	: 전공이 어떻게 되시나요?
+P0 	: 전 공대 다녀요 &name2& 님은요?
+P1 	: 전 미대 다닙니다!
+P0 	: 우와 멋져요 미대 다니시면 학기 중에 진짜 바쁘지 않나요?
+P1 	: 아 감사합니다 그쵸 과제가 좀 많긴 하죠...ㅎㅎ
+P1 	: 공대도 과제 많다고 들었는데...! 바쁘시지 않나요?
+P0 	: 그 마음 저도 공감합니다... 엄청 바빠요 오늘도 벌써 밤샘 예약입니다
+P1 	: 아이고ㅠㅠ 아직 오티밖에 안 한 거 아닌가요 벌써 과제를 내주시다니...
+P0 	: 전공 수업들은 바로 수업 시작이라... 힘들죠 ㅠㅠ
+P1 	: ㅠㅠ 그래도 저희는 아직 정정 기간이라 바로 수업을 하지는 않더라고요.
+P1 	: 혹시 동아리 활동 하시는 거 있나요?
+P0 	: 저는 논문 읽기 동아리 해요 &name2& 님은요?
+P1 	: 와 멋지네요...! 저는 올해 하는 건 없어요ㅎㅎ
+P1 	: 하고 싶었던 동아리가 있긴 한데 접수 기간을 놓쳐서ㅠㅠ

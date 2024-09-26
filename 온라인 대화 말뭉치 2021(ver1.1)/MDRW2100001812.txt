@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕
+P0 	: 넌 코로나 끝나면 가고싶은 여행지 있어?
+P1 	: 난 스폐인 가보고 싶어요
+P0 	: 스페인?
+P0 	: 아직 안 봤는데 나도 가고싶어
+P0 	: 예전에 다른 나라에서 게스트 하우스에서
+P0 	: 만난 애가 스페인 교환학생이었거든
+P1 	: 저두 안가봐서 
+	  프랑스갔을때 갔어야했는데 아쉬워요
+P0 	: 한여름 낮이 더워서 문 닫고 쉬는 시간 있대
+P0 	: 프랑스 갔어?
+P0 	: 난 유럽은 동유럽만 가봤거든
+P1 	: 한달가량 근데 파업하는 바람에 차질이 생겨서 돈도 날리고
+P0 	: 대부분 스페인도 많이 가더라
+P1 	: 볼것도 많고
+P0 	: 하긴 유럽애들이 파업 많이 해
+P0 	: 전에 꽃보다 할배 프로그램에 스페인 봤는데 매력 넘치더라
+P1 	: 맞아요 티비 영향인듯해요
+P0 	: 스페인 관련 되게 많았어
+P0 	: 프랑스 갔었으면 어땠어?
+P1 	: 생각보다 지저분하는 느낌
+P0 	: 지하철 더럽지 않아?
+P0 	: 난 체코랑 헝가리 갔는데
+P0 	: 지하철 무서웠어

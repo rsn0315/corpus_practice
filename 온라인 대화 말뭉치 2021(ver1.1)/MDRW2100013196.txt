@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100013196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 하시나요
+P0 	: 네 가끔여
+P0 	: 닝은요?
+P1 	: 저도 ㅎㅎ 최근에 뭐 파셨나요
+P0 	: 아이 책이여
+P1 	: 오 잘 팔리나요
+P0 	: 팔리는것도있고 안팔리면 드림하고ㅎ
+P1 	: 착하시군요
+P0 	: 그냥 처분하려고ㅎ
+P1 	: 그게 정답일수도 ㅎㅎ
+P0 	: 있으면 산더미
+P1 	: 맞아요 버리느니 싸게 넘기는게
+P0 	: 맞아요

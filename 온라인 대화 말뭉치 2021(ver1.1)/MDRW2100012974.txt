@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012974
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 다니고 있으세요?
+P1 	: 네! 이번 학기 재학중이에요
+P0 	: 지금 방학인가요 ?
+P1 	: 네 아직 개학을 하지 않았어요
+P0 	: 다음달부터 다니시나요??
+P1 	: 9월 초부터 다녀요!
+P1 	: &name1&님은 학교를 다니고 계신가요?
+P0 	: 저는 졸업을 해서 ㅜㅜ 과제가 많은 편인가요??
+P1 	: 그렇군요 네 다른학과보다 과제가 많는 편이에요...
+P1 	: 저번 학기에는 매주 과제를 안하는 날이 없었어요
+P0 	: 조별과제가 제일 힘들지않나요??
+P1 	: 저는 조별과제는 별로 없는 학과라서 많이 경험해보진 않았어요
+P1 	: 조별과제가 힘드셨나요?
+P0 	: 네.. 무임승차가 많아서.. 제가 거의 하느라 ㅎㅎ
+P1 	: 학업 스트레스가 많으셨겠어요 ㅠㅠ
+P0 	: 네네 ㅜㅜ 과제가 제일 힘들어요 ㅋㅋ

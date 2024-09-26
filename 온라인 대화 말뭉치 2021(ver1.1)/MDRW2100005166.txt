@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100005166
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님도 좋은 분이시니 좋은 연인분을 만날 수 있으셨겠죠!
+P0 	: 앗ㅎ 감사합니다
+P0 	: &name2&님께서는 연애 어떻게 생각하시나요?
+P1 	: 누구보다 서로를 제일 소중히 여기기로 약속한 관계라고 생각해요
+P1 	: 허허 연애를 안해봐서 ㅋㅋ
+P0 	: 가장 중요한 말씀을 해주셨잖아요 ㅋㅋㅋ!!
+P0 	: 뭐 그다지 관심도 없어서 사람 만나다 보면 어련히 하게 되더라고요
+P1 	: 연애하려면 일단 사람을 많이 만나야되군요
+P1 	: 제게 제일 어려운 일...!
+P0 	: 사람을 만나는 게 꼭 오프라인 만남만 있는 건 아니니까요 !
+P1 	: 아 맞아요 인터넷으로 만나기도 하죠??
+P0 	: sns도 잘 되어 있고 커뮤니티도 좋으니까요!
+P1 	: 맞아요 관심사가 통해야 또 말도 잘 통하고요
+P0 	: 천천히 알아가기엔 sns가 좋긴 하더라고요
+P0 	: !!
+P1 	: 근데 sns에서 만나려면 거리가 문제일거같아요
+P0 	: 뭐 아무래도 그렇긴 하죠 !!
+P0 	: 그래서 웬만큼 친한 사이 아니면 안 만나는 것 같아요ㅋㅋㅋ
+P0 	: 그럼 소개팅이나 미팅 경험은 있으신가요?
+P1 	: 아뇨 한번도요
+P1 	: 너무 집에만 있었어요 ㅋ큐ㅠ
+P1 	: 미팅은 대학때 아니면 기회가 없죠?
+P0 	: 그럴 수 있죠! 저도 잘 안 나가는 걸요 ㅋㅋㅋ
+P0 	: 음 친구 소개나 지인 소개가 많았어요
+P0 	: 아무래도 보다 자유로운 대학생 때가 많긴 하겠지만요

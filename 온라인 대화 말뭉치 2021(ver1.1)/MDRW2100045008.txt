@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100045008
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 어 낼까지 휴가야
+P1 	: 넌 낼 무슨일 있니
+P0 	: 나는 내일 공부하지 집에서
+P1 	: 할 공부가 많으니
+P0 	: 웅 좀 있어 집에서 할생각이야ㅠ 엄마는?
+P0 	: 휴간데 뭐해? 집에 있을거?
+P1 	: 아직 까진 집에 있을 생각이야
+P0 	: 글쿤 그럼 낼 같이 집에서 밥먹어야 겠네 ㅋㅋ
+P0 	: 아무래도 비오니까 운동 같은것도 못하자나
+P1 	: 아침에 비안오면 조금 하던지
+P0 	: 옹 아침에 나 깨워줘 그럼~~
+P1 	: 알았어 깨우면 잘일어나고
+P0 	: 당연하지~ 오늘 내방 침대에서 잘거얌
+P1 	: 좋은꿈꾸고 낼 활동하자
+P0 	: 좋아~! 내일도 엄마 화이팅

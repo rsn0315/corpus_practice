@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커피 좋아하세요?^^
+P0 	: 저 좋아하는데 카페인에 약해서 많이 못마셔요 ㅠㅠㅠ
+P1 	: 저랑 비슷하네요
+P1 	: 저도 하루에  한잔 아침 일찍 마셔야 해요
+P1 	: 안그럼 잠을 못자요
+P0 	: 커피는 아메리카노 좋아하세요?
+P1 	: 원두내려 마셔요
+P0 	: 우와 원두는 어디서 구매하시나요?
+P1 	: 원두는 그때그때 달라요.. 그냥 마트에서 살때도 있고 선물로 받을 때도 있고
+P0 	: 우와 ㅋㅋ 어떤 원두 좋아하세요? 저는 구수한맛 나는거 좋아해요 브라질같은
+P1 	: 저도.. 구수한쪽이요..
+P1 	: 원래 좋은 커피는 산미가 있다던데
+P1 	: 전 산미 있는 커피는 별로더라구요
+P0 	: 맞아요! 저도 똑같아요! ㅋㅋ 산미있는건 안좋아해요
+P0 	: 그러면 그라인더로 직접 갈아서 내려드시나요?
+P1 	: 네.. 커피 용품은 갖춰놓고 있어요
+P0 	: 요즘에 편한 캡슐머신? 같은 것들도 많이 나오던데 혹시 가지고 계신가요?
+P1 	: 아.. 캡슐은 안하고요.. 원두 내려마셔요

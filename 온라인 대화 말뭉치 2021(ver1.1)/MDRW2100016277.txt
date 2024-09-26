@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100016277
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 좋아하시나요
+P1 	: 좋아하는 편이에요
+P1 	: &name1&은 가고싶은 여행지 있으신가요
+P0 	: 일단 이번 주말에 제주도 가기로 했엉ㅅ요
+P0 	: 코로나 끝나면 외국 가고 싶네요 ㅎㅎ
+P1 	: 제주도 너무 좋네요
+P1 	: 제주도 가서 뭐 하실 예정이에요
+P0 	: 힐링을 주제로... 뚜벅이 여행 하려고요 제주도 가보셧나요
+P1 	: 저 예전에 수학여행으로 1번 가봤어요
+P1 	: 뚜벅이 좋죠 갈곳은 정해두셨나요
+P0 	: 함덕쪽으로 가려고요 ㅎㅎ 여행가서 느긋하게 돌아다니는 편인가요 아님 바쁘게 이것저것 다 보려는 스타일이세요
+P1 	: 저는 느긋한거요
+P1 	: 그냥 가면가고 아니면 말고 스타일이라
+P1 	: &name1&은 느긋한 스타일이시죠?
+P0 	: 오 맞아요 ㅋㅋㅋ 어떻게 아셨죠 ㅋㅋㅋㅋ
+P1 	: 광고에서 많이 나오기도하고
+P1 	: 차트순위권에도 계속 있었잖아요
+P1 	: 아 죄송해요
+P0 	: ㅋㅋㅋ 이해해요
+P1 	: 다른분과 헷갈렸어요
+P0 	: 네 저도 그럴 때 많아요
+P1 	: 그냥 뚜벅이 여행즐기신다그래서
+P1 	: 그럴 것  같았어요
+P0 	: 산이랑 바다 중엔 어디가 좋으세요
+P1 	: 전 산..?
+P1 	: 산에서 오는 기운이 좋아오
+P1 	: &name1&은 산이 좋으세요 바다가 좋으세요

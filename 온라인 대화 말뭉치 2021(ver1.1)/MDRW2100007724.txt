@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100007724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 아침은 간단하게 라떼 먹었어요
+P1 	: 식사하셨나요?
+P0 	: 아직요
+P1 	: 뭐 먹을건가요?
+P0 	: 생각중이요
+P1 	: 이제 10시라 아점이 되겠네요
+P0 	: 아 벌써
+P1 	: 빠르죠
+P0 	: 배는 안고픈데 머라도 먹어야 겠어요
+P1 	: 간단하게 챙겨드세요 ㅎㅎ
+P0 	: 네 우유라도 마셔야겠다
+P1 	: 우유 자주 드세요?
+P0 	: 매일 노력하는 중

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033903
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요!
+P1 	: 운동하세요?
+P0 	: 코로나전에는 했었는데... 터지고 나서는 못했네요..ㅠㅠ
+P1 	: 어떤거하셨나요?
+P0 	: 필라테스요! 몸 교정할겸 했었는데 좋았었어요
+P1 	: 와우 필테좋죠
+P1 	: 저도필테하고싶어요
+P0 	: 필테가 원래 비싼데...
+P0 	: 구민운동센터..? 이런곳에서는 싸더라구요
+P0 	: 괜찮았어요 되게!
+P1 	: 와우
+P1 	: 거기서는 얼만가요ㅣ
+P0 	: 일주일에 2번가는데
+P0 	: 한달에 4만 얼마..?
+P0 	: 수업은 1시간인데 꽉꽉 채워서 해주셨어요!
+P1 	: 와우
+P1 	: 왤케 저렴한가요?
+P0 	: 구민센터에서 운영하니까 그런거 아닐까요..?
+P0 	: 저렴하다고 뭐 대충하시고 그런건 전혀없었어요
+P0 	: 뭐 사설업체처럼 기계쓰고 그런건 없긴한데 그래도 저는 교정되는게 느껴져서 만족했었어요
+P1 	: 와우 좋네요

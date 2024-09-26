@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009905
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최애 음식이 뭐야?
+P0 	: 카페 가는거 좋아해?
+P1 	: 지금은 멕시코 음식인 파히타!
+P0 	: 멕시코 음식 독특하다
+P0 	: 한번 찾아볼게
+P1 	: 생각보다 접하기 어렵지 않더라구! 감성타코나 낙원타코로 입문하기를 추천해
+P0 	: 나는 부리또만 먹어봤어
+P1 	: 부리또도 맛있지 생각보다 입 맛에 맞아서 놀랐어
+P0 	: 나도 맛있더라
+P0 	: 요즘 음료수는 뭐 제일 좋아해?
+P1 	: 밀크티가 좋아져서 그것만 먹고 있어
+P0 	: 밀크티 맛있어
+P1 	: 너는 어떤 음료수 좋아해?
+P0 	: 나는 자몽허니블랙티 좋아해
+P0 	: 너는 두번째로 좋아하는 음료 뭐야?
+P1 	: 나도 자허블! 스벅가면 항상 자허블만 먹어, 혹시 스벅 말고 자허블같은 메뉴 파는 카페도 있어?
+P0 	: 집 주변에 있는데 프랜차이즈 카페가 아니야
+P1 	: 아쉽다ㅠ 생각보다 자허블같은 메뉴가 많지 않아서..

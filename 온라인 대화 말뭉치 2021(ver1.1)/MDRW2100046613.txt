@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100046613
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 공연 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 군인
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P1 	: 취미 있으신가요?
+P0 	: 야구보는거좋아해요
+P1 	: 오 야구 좋아하시는구나!
+P1 	: 직접 가서도 보세요?
+P0 	: 아뇨 코로나때문에
+P0 	: 전에는많이갔는데
+P0 	: 못가고있어요
+P1 	: 아 ㅠㅠ 그래도 위드코로나 하니까 이제는 좀 가실 수 있지않을까요?
+P0 	: 아뇨 시즌끝났어요
+P1 	: 앗
+P1 	: 제가 야구를 잘 몰라서 ㅎ
+P1 	: 시즌 끝난지도 몰랐네요 ㅠㅠ
+P0 	: 네 ㅎ
+P0 	: 뭐좋아하시나요?
+P1 	: 특별히 응원하는 팀이 있으신가요?
+P0 	: 기아요
+P1 	: 저는 지금은 안좋아하는데 3년 전쯤에 kbl 열심히 봤습니다 ㅎ.ㅎ
+P1 	: 기아는 연고지가 어딘가욤?
+P0 	: 광주요
+P1 	: 아 그렇구나
+P1 	: 다음 시즌 때는
+P1 	: 마스크도 벗고 직접 가서 응원하실 수 있었으면 좋겠네요 ㅠ
+	  

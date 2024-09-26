@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100019999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어디
+P0 	: 1박쁘띠 당일치기여행
+P1 	: 싫다
+P1 	: 님이짜라
+P0 	: 어디 좋은데 없나
+P0 	: 갈꺼임?
+P1 	: 강아지 카페
+P1 	: 큰데루
+P0 	: 그래
+P0 	: 경치좋은데로
+P1 	: 그래
+P1 	: 알아봐라
+P0 	: 강릉같은데
+P0 	: 가는게 좋을듯
+P1 	: 주말에 강쥐들데리고 갓다가
+P1 	: 강쥐들데리고 놀러가든동
+P0 	: 그러자
+P1 	: 애견카페 재밋던데 나는
+P0 	: 강릉여행 고고
+P1 	: 잔디많은곳으로
+P1 	: 먼 강릉
+P1 	: 무리데스요
+P0 	: 좋지당연히 거기도

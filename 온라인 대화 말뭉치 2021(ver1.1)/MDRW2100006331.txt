@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100006331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 넹 반가워요
+P1 	: 일하고계세요?
+P0 	: 전 알바하고있어요!
+P1 	: 업무 스트레스는 어떠세요?
+P0 	: 너무 심한 거 같아요..
+P1 	: 어떤거 때문에요?
+P0 	: 제가 패스트푸드점이랑 빵집에서 일하는데
+P0 	: 특히 패스트푸드점이 사람간 스트레스랑 일적으로도 힘든편이예요
+P1 	: 아 그러겠네요
+P1 	: 고객 있는 업무가 특히 그런거같아요
+P0 	: 맞아요 고객응대가 진짜 힘들어요..
+P0 	: &name2&은 어떤 일하세요?
+P1 	: 저는 그냥 회사 사무직인데
+P1 	: 외부고객은 외부고객대로 스트레스고
+P1 	: 같이 일하는 직원은 직원대로 스트레스예요 ㅋㅋㅋ ㅠ
+P0 	: 아아 알죠알죠
+P0 	: 원래 아무리 힘들어도 같이 일하는 사람이 좋으면 참을만한데
+P0 	: 그게 아니면 진짜 스트레스더라구요
+P1 	: 그쵸...
+P1 	: 좋은 사람 만나기 진짜 힘들어요
+P0 	: 사무직이면 윗사람들도 많을텐데 엄청 힘들겠네요..
+P1 	: 그래도 아예 윗사람은 사실상 만날 일이 없어서
+P1 	: 바로 위아래 사람들만 잘만나면 되는데
+P1 	: 그게 힘드네요 ㅋㅋㅋㅋ ㅠ
+P0 	: 아그래요?
+P0 	: 근데 그게 또 쉽지가 않죠
+P1 	: 그쵸 직장엔 진짜 별의 별 사람들이 다 오는거같아요

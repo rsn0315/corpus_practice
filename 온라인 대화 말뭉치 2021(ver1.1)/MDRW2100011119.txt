@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011119
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연이나 전시 좋아하시나요?
+P0 	: 영화 좋,아합니다!
+P1 	: 아하 그렇군요~ 영화 최근에 보신거 있으세요?
+P0 	: 모가디슈봤어요~
+P1 	: 오 요즘 그거 많이 보더라구요! 재밌나용ㅎㅎ
+P0 	: 재밌어요! 배우들 연기도좋고
+P1 	: 와 그런가요? 액션씬도 볼만할것같던데 영화관에서 보면 진짜 재밌을것같아요ㅎㅎ
+P1 	: 인생영화 있으세요?
+P0 	: 저는 비긴어게인이요!
+P1 	: 와 키이라나이틀리랑 그 헐크,,,그분 나오는거 맞죠?
+P0 	: 오 맞아요!!
+P1 	: ㅋㅋㅋㅋ거기 ost들 너무 좋아서 아직도 듣고있어요ㅎㅎ
+P0 	: 아 그 마룬5 보컬ㅎㅎㅎ

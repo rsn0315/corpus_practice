@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032720
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하고 계신 모임이 있나요?
+P0 	: 저는 나중에 모임을 하게 되면 독서모임을 해보고 싶어요~!
+P1 	: 친구모임이 있어요
+P0 	: 동창모임인가요?
+P1 	: 초등학생 모암이요
+P1 	: 저도 독서모암하고 싶네요
+P0 	: 아하!자주모이시는 편인가요?
+P1 	: 별로...요즘은 코로나땜에 거의 못봐요
+P0 	: 아하!ㅋㅋ
+P0 	: 독서모임하게 되면 좋을 것 같아요!
+P0 	: 같이 필사도 하고~~! 같은 책을 읽고와서 토론도 하고요!
+P1 	: &name1&님은 어떤 모암을 하시나요
+P0 	: 저는 하는 모임이 딱히없어요!ㅜㅜㅋㅋ
+P1 	: 네 같은 책을 읽어도 느낌이 다르니껀요
+P0 	: 맞아요!
+P1 	: 그 애길 들어보고 샆내요
+P0 	: 그것에대해 얘기를 하다보면 다양한 의견을 들을 수 있으니까 꼭 하고 싶어요!

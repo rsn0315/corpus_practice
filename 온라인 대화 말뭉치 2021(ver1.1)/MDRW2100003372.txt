@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003372
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식 자주 드시나요?
+P1 	: 네 방금도 커피랑 케이크 시켜먹었어요
+P0 	: 밤에 커피드셔도 잠이 잘오시나봐요~
+	  배달어플은 어떤거 이용하세요?
+P1 	: 배달의민족 주로 이용해요
+P1 	: 어떤 음식 좋아하세요?
+P0 	: 저도 배달의 민족 자주써요ㅎㅎ
+	  저는 치킨 좋아해서 일주일에 한번은 시켜 먹는거 같네요
+P1 	: 어떤치킨 좋아하세요?
+P0 	: bhc뿌링클 어제 시켜먹었어요
+	  아이들이 좋아하다보니 주로 이걸시켜먹네요
+P0 	: 식사로는 어떤거 자주 드세요?
+P1 	: 라면같은 면요리나 고기 자주먹는거같아요
+P0 	: 저도 라면 좋아해서 자주 먹는데..
+	  맛있는 라면 추천 부탁드려도 될까요?
+P1 	: 자주먹으니까 그날따라 변하긴하는데
+P1 	: 요즘은 진라면이 맛있는거같아요
+P0 	: 아 저는 매운라면 좋아해서 신라면 같은게 좋더라구요
+P1 	: 라면에 주로 뭐 넣어드세요?
+P0 	: 라연에 신김치는 필수예요 가끔 계란 넣기도 하구용

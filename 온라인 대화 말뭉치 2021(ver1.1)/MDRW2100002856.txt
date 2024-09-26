@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002856
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 네 퇴근하고 매일 gx 1시간씩 해요
+P1 	: 하시는 운동 있으세요?
+P0 	: 홈트요
+P1 	: 저는 집에서 운동하는게 재미가 없더라고요
+P1 	: 그래서 나가서 다른사람들이랑 같이 운동하는걸 선호해요
+P0 	: 그게 운동이 돼죠
+P1 	: 맞아요 그리고 아내랑 산책도 자주하는 편이에요
+P0 	: 저도 밤에 가끔씩 나가요
+P1 	: 그러시구나 혼자 산책하는 편인가요?
+P0 	: 가족이랑요
+P1 	: 주변에 걷기 좋은곳 있나요?
+P0 	: 아파트 공원이요
+P1 	: 아 저는 바닷가 근처에 살아서 해안길 따라 걷는데
+P0 	: 바다좋죠

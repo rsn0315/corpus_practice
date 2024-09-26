@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100034215
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그럴까
+P0 	: 웅 외식 안한지 넘 오래됐다
+P1 	: 그래 코로나 때문에 더 그렇지
+P0 	: 웅 우린 백신 맞았으니까 4명이서 밥 먹을 수 있다
+P1 	: 그래 먹으러 가자
+P0 	: 웅 뭐 먹을까 ㅎㅎ
+P1 	: 아빠한테 물어봐라
+P0 	: 엄마 좋아하는거로 먹자
+P1 	: 난 한식
+P0 	: 그럼 한정식집 고고
+P1 	: 저번에 간곳 갈까
+P0 	: 메밀 파는데?
+P1 	: 그래
+P0 	: 구랭 ㅎㅎ 맛있었다 거기로 가자 그럼

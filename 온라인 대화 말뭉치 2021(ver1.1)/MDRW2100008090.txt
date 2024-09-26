@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100008090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 날씨가 진짜 선선해요~
+P0 	: 그러게요
+P0 	: 지금은 비 안 오죠?
+P1 	: 네 오늘 원래 비온다고 했는데 비가 안오네요~
+P1 	: 다음주부터는 비가 내내 온대요..
+P0 	: 장마랑 태풍이 겹쳤대요
+P0 	: 비 좋아하시나요?
+P1 	: 실내에서 비오는걸 보는건 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도 비 맞는 건 안 좋아하는데 빗소리를 좋아해서
+P0 	: 실내에 있으면 창문 조금 열어놓고 비 구경해요
+P1 	: 맞아요 빗소리가 참 좋죠
+P1 	: 9월되면은 이제 긴팔입고 다녀도 되겠어요
+P0 	: 이번 장마 끝나면 정말 가을이네요
+P0 	: 옷 정리도 슬슬 해야겠어요
+P0 	: 정리 하셨나요?
+P1 	: 다음주쯤에 해야겠어요~
+P1 	: 이번에는 가을이 좀 길었으면 좋겠네요
+P0 	: 그러게요 작년에는 특히 짧아서 아쉬웠어요
+P0 	: 가을 좋아하세요?
+P1 	: 네 저는 가을이 제일 좋더라구요!
+P1 	: &name1&님은 어떤 계절 제일 좋아하세요?
+P0 	: 저도 가을 제일 좋아해요
+P0 	: 바람이 시원해서 너무 좋아요
+P1 	: 그쵸 가을날씨 너무 좋아요~
+P1 	: 봄도 좋아했는데 황사랑 콧샘추위가 있어서 가을이 최고인 것 같아요

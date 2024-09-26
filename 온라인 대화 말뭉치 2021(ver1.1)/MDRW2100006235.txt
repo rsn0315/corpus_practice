@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100006235
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 앗 아니요
+P1 	: 키우는 동물은 없어요
+P0 	: 동물 안좋아하시는건가요??
+P1 	: 딱히 그런건 아닌데
+P1 	: 잘 키울 자신은 없는 거 같아요
+P1 	: 요즘은 키우진 않고 그냥 길고양이 보고 좋아하고 사진찍고 하는 정도에요
+P0 	: 헐 길고양이랑 친하신가요
+P1 	: 길고양이 있으면 다가가는 편이에요
+P0 	: 다가가면 도망가지않나요?ㅠㅜ
+P1 	: 요즘 길고양이들은 대부분 사람한테 잘 다가가는 거 같더라고요
+P0 	: 전 동물 되게 좋아해서 유기견 봉사도 다니고 그랬는데
+P0 	: 길고양이랑 친해질수가없더라구요ㅠㅜ
+P1 	: 헉 그런가요
+P1 	: 이것도 동네마다 조금씩 다른가보네요 ㅠㅠ
+P0 	: 그런가봐요ㅠㅜ
+P1 	: 혹시 &name1&님은 반려동물 키우시나요??
+P0 	: 저는 못키우고있어요ㅠㅜ
+P1 	: 키우고 싶으신 동물 있으세요??
+P0 	: 네 미어캣이랑 강아지 관심있어요ㅠㅜ
+P1 	: 강아지도 완전 귀엽죠 ㅠㅠ
+P0 	: 강아지키우고싶어요ㅠㅜ

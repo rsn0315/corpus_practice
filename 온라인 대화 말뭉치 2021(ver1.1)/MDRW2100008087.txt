@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100008087
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인 커뮤니티 하시나요??
+P1 	: 네 드라마 커뮤니티하고 있어요 하시는 커뮤 있으세요?
+P0 	: 저는 트위터해요!
+P1 	: 트위터 재밌죠ㅎㅎ 저는 계정잃어버리고 안하고 있어요ㅠㅠ
+P0 	: 보통 저는 트위터로 드라마 덕질해요!!ㅋㅋ &name2&님은 어떤 드라마 좋아하세요?
+P1 	: 저는 영드 좋아해요ㅎㅎ
+P0 	: 그중에서 제일 좋아하는 영드는 어떤건데요? ㅋㅋ
+P1 	: 셜록도 좋아하구ㅎㅎ 왕겜도 재미있게 본거같아요 어떤 드라마 좋아하세요?
+P0 	: 저도 셜록 좋아해요!! 고등학교 야자때 친구랑 조금씩 보고 그랬어요 ㅋㅋ
+P0 	: 드라마 커뮤니티에서는 보통 어떤 토크를 하나요??
+P1 	: 정보 공유 많이하는거같아요ㅎㅎ 우리마라 드라마가 아니다보니 서로 잘몰라서ㅎㅎ
+P0 	: 영드 커뮤니티가 따로 있는건가요??
+P1 	: 아 네 저도 찾다가 알게 됐어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 구직자신가요(?)
+P1 	: 아니요 파트타임으로 일하고 있어요
+P0 	: 일은 만족하세요?
+P1 	: 아이들 키우면서 일하기는 좋은거 같애요
+	  &name1&님은 직장인이세요?
+P0 	: 네 직장 다니고있어요
+P1 	: 실례지만 어떤일 하시나요?
+P0 	: 사무관리 인데 품질 부서입니다
+P1 	: 아하! 어렵거나 스트레스는 없으신가요?
+P0 	: 네 스트레스는있지만 그게 월급에 포함이라고해서
+P1 	: 그렇죠 어떤일이 든지 업무와 스트레스가 많을수록 급여는 올라가지여ㅋ
+P0 	: 아.. 근데 잘안올라요
+P1 	: 연봉협상 같은건 따로 없나요?
+P0 	: 네 주는대로 받아요
+P1 	: 그래두 매년 올려줘야 맞는거 같은데요ㅠ

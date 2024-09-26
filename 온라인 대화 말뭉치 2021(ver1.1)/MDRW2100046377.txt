@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100046377
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 요즘 즐겨보는 콘텐츠 있으신가요?
+P0 	: 넷플릭스 나의네임 보고있어요
+P1 	: 아하 한소희 나오는 넷플 드라마 말씀이신가요?
+P0 	: 네네
+P1 	: 무슨 내용인가요? 광고만 보고 아직 못봤거든요
+P0 	: 한소희 아버지가 조폭인데 의문의 죽음을 당한 후 복수하는 내용이에요
+P1 	: 와 한소희 멋있게 나오는 것 같던데
+P1 	: 스릴러 느와르인가보네요
+P0 	: 네 맞아요
+P1 	: 연령제한은 없나요?
+P0 	: 18세 이상일걸요
+P1 	: 앗 청불인가보네요...
+P0 	: 네
+P1 	: 넷플에서 다른 작품은 뭐 보셨나요?
+P0 	: 오징어게임 dp요
+P1 	: 와 다 요즘 유명한 프로그램들이군요

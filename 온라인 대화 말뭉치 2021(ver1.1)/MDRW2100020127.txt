@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020127
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 키우시는 반려동물 있으세요?
+P1 	: 키우진 않지만 강아지 좋아해요
+P0 	: 저도 강아지 너무 좋아해요.
+P1 	: 귀엽죠! 리트리버가 가장 좋아요
+P0 	: 리트리버 똑똑하고 순하죠ㅎㅎ 전 친한 친구가 슈나우저 두 마리 기르는데 그 아이둘도 너무 귀엽더라구요
+P1 	: 비숑도 귀엽지않나요
+P0 	: 귀엽죠ㅎㅎ 만약 반려동물이 생긴다면 어떤 종으로 데려오고 싶으세요?
+P1 	: 비숑과 리트리버중에 고민되네요
+P0 	: 비숑 산책하는 걸 얼마전에 우연히 봤는데 생각보다 되게 크더라구요ㅎㅎ 전 소형견만 있는 줄 알았어요ㅎㅎ
+P1 	: 비숑자체가 똥글똥글한게 귀엽더라고요
+P0 	: 맞아요~ 만약 반려동물 키우신다면 이름운 뭘로 짓고 싶으세요?
+P1 	: 몽이나 빵이처럼 귀여운 이름이요
+P0 	: ㅎㅎ귀여운 이름이네요
+P0 	: 전 요즘 마당 있는 집에서 대형견 키우고 싶다는 생각 자주 해요

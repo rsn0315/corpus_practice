@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100019292
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 치킨을 자주 시켜드시나요?
+P0 	: 치킨은가끔
+P0 	: 피자파에요
+P1 	: 아하 전 치킨파라 교촌을 자주 먹어요
+P1 	: 피자는 어떤브랜드를?
+P0 	: 사실 다맛잇져 교촌은 레드
+P0 	: 피자는 도미노임다
+P1 	: 그러시구나 저도 교촌은 레드 파!
+P1 	: 피자는 피자헛 테이크아웃이요
+P0 	: 식사하셧나요?
+P1 	: 네 &name1&님은요?
+P0 	: 미역국먹고
+P0 	: 옥수수도ㅋㅋㅋ
+P1 	: 든든하게 드셨네요
+P1 	: 전 호박죽이라 좀 배고파요 ㅋㅋ
+P0 	: 헉ㅋㅋ
+P0 	: 요리해드시나요?
+P1 	: 엄마찬스 호박죽이에요 ㅋㅋ
+P0 	: ㅎㅎ저는 자취하는데
+P0 	: 남자친구가 장금이라서
+P0 	: ㅎㅅㅎ남친찬스!!
+P1 	: 아 님친이 요리해주는군요 어떤 요리를 자주해주나요?
+P0 	: 제가 한식 좋아해서 주로 한식?
+P0 	: 말만하면 뚝딱 나와요 ㅎㅅㅎ
+P1 	: 예를 들면 어떤 요리인가요?
+P0 	: 내일은 수육 해준다그랫어요

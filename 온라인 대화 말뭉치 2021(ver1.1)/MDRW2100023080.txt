@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100023080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아 그래?
+P0 	: 응 나는 요즘 와플이 그렇게 먹고 싶더라
+P1 	: 와플 맛있지
+P0 	: 벨기에식 어플도 좋고 미국식 어플도 좋고 홍콩식 와플 도 진짜 맛있어
+P1 	: 그냥 와플 자체가 맛있음
+P0 	: 근데 은근히 나라별 방식이 많이 달라
+P1 	: 그니까 그런거 같더라고
+P0 	: 근데 어쩜 그렇게 다 맛있을까 정말
+P1 	: 계속 먹어도 안물려
+P0 	: 계속 먹을려면 약간 담백한 와플을 먹으면 돼
+P1 	: 근데 와플이 좀 달지 않나?
+P0 	: 달 긴 한데 그래도 막 크림인 아이스크림을 올려 먹지 않으면 좀 덜 날지
+P1 	: 갑자기 와플 먹고 싶다
+P0 	: 난 며칠 전부터 계속 먹고 싶었어
+P0 	: 먹으면 어떤 와플 먹고 싶어?

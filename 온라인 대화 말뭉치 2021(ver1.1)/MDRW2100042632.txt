@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100042632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오오 그럼 뭔가 친숙할 것 같은 느낌이네요!
+P0 	: 다음에 한번 도전해볼게요ㅎㅎ
+P0 	: 그럼 자주가는 카페 있으세요?
+P1 	: 프차 중에는 스벅이랑 이디야요!
+P1 	: &name1&님은요??
+P0 	: 오오 저는 투썸 주로 가요!
+P0 	: 이디야는 거의 안가본 것 같아요 가면 뭐 드시나요?
+P1 	: 오, 투썸은 케이크죠
+P1 	: 이디야는 토피넛 라떼요!
+P0 	: 오 그거 들어본 것 같아요
+P0 	: 뭐 추가 안하시고 그대로 드세요?
+P1 	: 네네, 저는 복잡한 주문은 안해요ㅋㅋ 잘 몰라서
+P0 	: 저두요ㅋㅋㅋ 그냥 그대로 먹는게 맛있으니까 저렇게 낸거겠거니 해요ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ 그쵸?? 스벅에서는 마법주문 같이 복잡한 추가사항 얘기한대요
+P0 	: 맞아요 그것도 옵션이 엄청 많더라구요 뭐가 있는지 다 아는 것도 신기해요 ㅡㅋㅋㅋ
+P1 	: 좋아하는 디저트는 있으세요??
+P0 	: 저는 마카롱 빵 케이크 치즈볼 등등 디저트는 거의 다 좋아해요ㅋㅋㅋ
+P1 	: 오, 디저트 러버시네요ㅋㅋㅋ
+P0 	: 워낙 단걸 좋아해서요ㅎㅎ &name2&님은 어떠세요?
+P1 	: 저는 단걸 자주 먹진 않지만 좋아하는 편이에요ㅋㅋㅋ

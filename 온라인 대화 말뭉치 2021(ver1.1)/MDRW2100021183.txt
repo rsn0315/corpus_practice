@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100021183
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 위시템이있나여?
+P0 	: 사카이신발이요!
+P1 	: 오 첨들어봐여~  혹시 수제신발인가요?
+P0 	: 나이키신발입니다ㅎㅎ
+P1 	: 오! 검색해봐야겠어요~ 전 발볼이넓어서 나이키보단 아이다스 주로신어요 ㅋㅋ
+P0 	: 아디다스도 이쁘죠~
+P1 	: 마쟈용 ㅋㅋ 특유의 아디다스 파이어볼 감성 좋아해요
+P0 	: 최근에 어떤거사셨나요
+P1 	: 전 최근에 당근으로 에그팬 샀어용
+P0 	: 당근 꿀매 많더라구여
+P1 	: 마쟈영ㅋㅋㅋㅋ 가격이 절반이상 후려쳐서 더 합리적
+P0 	: 근데 잠수도많아서ㅠ

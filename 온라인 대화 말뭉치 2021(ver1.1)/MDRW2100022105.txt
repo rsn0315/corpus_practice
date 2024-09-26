@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022105
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 여행가고 싶으시죠?
+P0 	: 그럼
+P1 	: 우리 내리진 말고 차로 구경하는거 해볼까요?
+P0 	: 그렇게 할까?
+P1 	: 네 엄마 답답하시잖아요
+P0 	: 고맙다 딸~
+P1 	: 뭘요 도시락도 싸가서 차안에서 먹어요
+P0 	: 그것도 좋은 생각이구나
+P1 	: 네 아직 내려서 구경하긴 힘드니까요
+P0 	: 맞아.. 백신을 다 맞긴했지만 돌파감염사례도 있고
+P1 	: 그러니까요
+P0 	: 조심해서 나쁠 건 없지
+P1 	: 맞아요

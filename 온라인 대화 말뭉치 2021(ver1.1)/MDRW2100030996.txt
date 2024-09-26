@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100030996
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 멋있어요 듀얼컴퓨터
+P0 	: 일의 효율 높여줬나요?
+P1 	: 네네, 넓게 볼 수 있어서 좋더라구요
+P0 	: 실험실에서 인턴할때
+P0 	: 컴퓨터 2개 쓰시는 대학원생분들보면 뭔가
+P0 	: 멋있어보였어요
+P1 	: 그쵸ㅋㅋㅋ 저는 교수님 두개짜리 세개짜리 모니터 볼때 신기했어요
+P1 	: 비록 교수는 못됐지만 모니터는 두개
+P1 	: 모니터값 벌려고 열심히 일하고 있습니다
+P0 	: 와 세개짜리도있네요
+P0 	: 교수는 못됐지만ㅋㅋㅋㅋ
+P0 	: 교수가 꿈이셨나요
+P1 	: 아뇨, 공부랑은 거리가 멀어섴ㅋㅋㅋ
+P1 	: 교육업은 생각도 안했습니다
+P1 	: 지금도 재택 프리랜서
+P0 	: 프리랜서 멋있어요
+P0 	: 능력있어야 할 수 있는...
+P1 	: ㅎㅎㅎ 운이 좋아서 하고 있어요
+P0 	: 운도 노력하는 사람한테 온다구요!
+P0 	: 능력있는 사람중에 운있는 사람이 잘되는것같아요
+P0 	: !!
+P1 	: ㅎㅎㅎ 되고싶다 하고싶다 염불외면 그렇게 되는 것 같아요
+P1 	: &name1&님은 직장인이세요?
+P0 	: 전 대학생이요!
+P0 	: 이번학기가 막학기에요ㅠ
+P0 	: 22년 2월 졸업예정이랍니다
+P0 	: 유예하게될수도있구요
+P1 	: 오, 곧 졸업이시군요
+P1 	: 하고 싶은 일은 있으세요??
+P0 	: 반도체 소재 제작하고싶어요!!!
+P1 	: 오, 이과시군요
+	  어느 학과세요? 반도체공학?
+P0 	: 저 화학전공이요!!

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046473
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211025
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요 :)
+P1 	: 점심식사 하셨나요?
+P0 	: 네 &name2&님은 식사하셨어요?
+P1 	: 네 저도 방금 먹었습니다 ㅎㅎ
+P1 	: &name1&님 취미는 어떻게 되시나요~?
+P0 	: 저 요즘 유도요
+P0 	: 운동 좋아하세요?
+P1 	: 저 운동 잘 모르지만 예전에 친구가 유도 동아리에 있었어서
+P1 	: 시합 구경도 하고 그랬어요 ㅎㅎ
+P1 	: 그러면 유도 시합에도 나가시나요?!
+P0 	: 아니요 등록한지 얼마 안돼서
+P0 	: 걍 깔짝이는 수준이에요ㅋㅋ
+P1 	: 오 그래도 뭔가 운동을 하면 체력도 좋아지고 좋은 취미인 것 같아요 ㅎㅎㅎ
+P1 	: 유도는 어떻게 시작하시게 되었나요?? ㅎㅎ
+P0 	: 원래 하던 친구 따라갔어요ㅋㅋ
+P0 	: 요즘 살쪄서 다이어트도 할겸
+P1 	: 그렇군요..! 유도에도 격렬한 기술이 많아서\
+P1 	: 칼로리 소모가 많이 될 것 같아요..!
+P0 	: 도복도 무겁고 두꺼워서 땀 잘나요
+P0 	: 나중에 배워보세여
+P1 	: 네 저도 운동도 할 겸 꼭 배워봐야겠어요..! ㅎㅎㅎ

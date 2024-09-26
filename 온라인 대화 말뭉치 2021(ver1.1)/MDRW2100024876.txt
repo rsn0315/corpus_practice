@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024876
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 직장인이신가요?
+P1 	: 아니요
+P1 	: 아르바이트를 해요
+P0 	: 아르바이트는 재미있으신가요?
+P1 	: 아르바이트는 매일 안가고 주3일만 가서 갈만해요
+P1 	: 적당히 일하는건 나이와 상관없이 괜잔은것 같아요
+P0 	: 맞아요!
+	  돈도 벌고 할일이 있는건 좋은것 같아요ㅎㅎ
+P1 	: 일하세요?
+P0 	: 네ㅎ 과외해요ㅎㅎ
+P1 	: 과목은요?
+P0 	: 초중 수학 국어 과학이요ㅎ
+P1 	: 와! 능력있는 선생님이시네요
+P1 	: 직장에 묶여 있지않으니 스트레스는 덜하신가요?
+P0 	: 소수라 별 스트레스는  안받이요ㅎㅎㅎ
+P1 	: 이직할 필요도 없고 좋으시겠어요
+P0 	: 근데 많이 벌지는 못해서ㅜㅜ

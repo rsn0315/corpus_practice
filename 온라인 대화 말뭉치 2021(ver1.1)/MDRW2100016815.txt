@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요^^ 동아리활동 해보셨나요?
+P0 	: 네 해봤어요~
+P1 	: 어떤 동아리였나요~?
+P0 	: 저는 방송부가 제일 기억에남네요!
+P0 	: &name2&님은요?
+P1 	: 와 재밌었겠어요! 저는 독서토론을 빙자한..놀자 동아릴였어요 ㅎㅎ
+P1 	: 그럼 방송부에서 역할은 뭐였는지 물어봐도 되나요?ㅎㅎ
+P0 	: 아하~ 저는 아나운서랑 음향감독 겸직했었어요 ㅋㅋㅋ
+P1 	: 와 1인 2역이라니!
+P1 	: 그럼 작가는 따로 있었나요?~ㅎㅎ
+P0 	: 네! 작가도있긴했어요~ 근데 그친구도 작가겸 카메라맨이었어요 ㅎㅎ
+P1 	: 그렇군요~ 저희는 돌아가며 사회자 보는게 다엿는데
+P1 	: 정해진 역할이 있으면 에피소드도많겠어요!
+P0 	: 음 사실 오래전일이라 에피소드가 기억나진 않은데 방송사고 낸적도 몇번있긴했어요 ㅋㅋ
+P1 	: ㅎㅎ 방송사고라니 생각만해도 아찔해요
+P1 	: 그래도 그런것들 하나하나가 다 추억인 것 같아요 ㅎㅎ
+P0 	: 맞아요~ 넘나값진추억이죠 ㅎ

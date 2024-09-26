@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030888
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 450번
+P1 	: 뭐가요?
+P0 	: 앗 아니에요
+P1 	: 가족들이랑 같이 살고 계신가요
+P0 	: 아니요 저는 혼자 살아요
+P1 	: 외로우시겠네요
+P0 	: 네 시집 가려고요
+P1 	: 남자친구 분이 맘에 드시는군요
+P1 	: 집에서 보통 집안일은 하시나요
+P0 	: 새로 구래서 할 거예요
+P0 	: 오늘 대청소했어요
+P1 	: 그렇군요
+P1 	: 부지런하시네요
+P0 	: 청소하시나요?
+P1 	: 저는 청소를 잘 안해요
+P0 	: 게으르신 편인가요?
+P1 	: 네 뭐 그렇다면 그런거 같네요
+P0 	: 씻기는 하시죠?
+P1 	: 아 당연하죠 자기관리는 철저한 편입니다

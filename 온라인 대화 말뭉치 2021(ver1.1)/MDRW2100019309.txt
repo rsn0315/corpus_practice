@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019309
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 뭐 구매했나요?
+P1 	: 자켓 구매했어요
+P0 	: 오오 저도 가음 자켓 고민중인데
+P1 	: 아하 ㅎㅎㅎ 그러시구나
+P0 	: 어디걸로 구매햇나요?
+P1 	: 저는 타미힐피거에서요
+P1 	: 오 저 타미힐피거 좋아해요
+P0 	: 오오 저도요 좋아해요
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 앗
+P1 	: 보니까 타미진이었네요
+P0 	: ㅋㅋㅋㅋㅋ넴ㅋㅋㅋㅋ 무슨색인가요?
+P1 	: 베이지로 구매햇어요
+P0 	: 저두 베이지자켓 구매고민중인데 ㅜㅜ 가격때문에 고민이....
+P1 	: 얼마고민중이신가요?
+P0 	: 10만원 정도로 짧은거 구매하고싶어요

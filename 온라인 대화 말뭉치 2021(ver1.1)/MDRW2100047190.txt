@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100047190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요 &name1&님
+P0 	: 넵.^^
+	  저는 안마의자 사고 싶은데
+	  집에 놓을 공간이 마땅히 없네요.
+P1 	: 저도 안마의자 사고싶네요
+P0 	: 안마의자를 놓기 위해 거실에 소파를 확 중고거래로 넘기기엔 상태가 너무 멀쩡하네요.
+P1 	: 저는 엘지 그램 노트북사고 싶어요
+P0 	: 저 사무실에서 엘지 그램 노트북 쓰는데 완전 가벼워요.
+P1 	: 저는 19년식 14인치 쓰고있는데 17인치로 바꾸고 싶어요
+P0 	: 구입하신 지 그리 오래되지않으셔서
+	  다시 사기에 망설여지시겠네요.
+P1 	: 아니요 너무 사고싶어요
+P0 	: 그럼 19년도에 사신 것은 중고거래하시고
+	  새로 사세요.
+	  컴 살 돈 그냥 두면 다른 곳에 쓰일 거엥ᆞ.
+P1 	: 안그래도 중고로 팔생각이었어요ㅎㅎ
+P0 	: 제가 쓰는 것은 2월에 구입된 제품 같던데
+	  님은 더 이쁘고 가볍고 성능 좋은 것을
+	  더더더 저렴하게 사시길요.ㅎ
+P1 	: 아 감사합니다ㅎㅎ

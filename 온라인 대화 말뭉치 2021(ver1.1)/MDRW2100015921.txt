@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 쇼핑하신거 있으세요?
+P1 	: 네 최근에 모자하나샀어요 ㅋㅋㅋ
+P0 	: 저도 오늘 h패션몰에서 적립금 털고 옷이나골라봐야겠어요
+P1 	: 아 거기 저도 이용중이에요 ㅋㅋㅋㅋ적립금 많이주더라구요
+P0 	: 네 만근해서 2만포줬는데
+P0 	: 룰렛이 안도와주네요
+P1 	: 아 맞아요 ㅠㅠ 저는 500포인트 나왓어요 ㅎ..
+P0 	: 전아예쿠폰이요ㅎ
+P0 	: 실망스러운ㅎ
+P1 	: 그쵸 ㅠㅠ 저는 거기서 타미 모자하나삿어요!
+P0 	: 엄마꺼로 주말에 dkny후드집업하나샀는데
+P0 	: 괜찮더라구요
+P1 	: 오오 저도 참고해볼게요
+P1 	: 적립금 마저 털어야되서! 양말이나 살까했고든요
+P0 	: 비싸요ㅎ h포인트 탈탈털고사서ㅋ
+P0 	: 그냥적립금만으로 실결제가 많으니
+P0 	: 티셔츠쪽으로
+P1 	: 그렇군요 지금 적립금 만얼마 남아서 정말 애매해요 ㅋㅋㅋ
+P0 	: 다들 양말사시던데요
+P1 	: 네네 ㅋㅋㅋㅋ 고려중이에요
+P0 	: 포인트 오늘소멸이죠?
+P1 	: 네 오늘까지!
+P1 	: 예쁜거 품절 될거같은데 얼른사세용
+P0 	: 그래야겠어요

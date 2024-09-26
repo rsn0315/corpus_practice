@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨 학생이세요?
+P0 	: 아뇨 직장인입니당
+P1 	: 수강신청하던 생각 나네요 ㅎㅎ
+P1 	: 클릭질 ㅋㅋ
+P0 	: 그쵸 공강만들려고 ㅋㅋ
+P1 	: 그것도그렇고
+P1 	: 인기있는거 빨리넣으려구요 ㅋㅋ
+P0 	: 학교생활 재밌으셨나요
+P1 	: 아뇨 별로요 ㅎㅎ
+P0 	: 무슨 과 나오셨어요?
+P1 	: 법학과요
+P0 	: 오 주변에 법학과친구들 있었는뎅 ㅎㅎ
+P1 	: 무슨과나오셨어요?
+P0 	: 저는 치위생과요
+P1 	: 공부는 안어렵나요

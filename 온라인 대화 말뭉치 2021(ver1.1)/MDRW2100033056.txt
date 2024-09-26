@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033056
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가면 기념품 사오시나요,
+P1 	: 네네 자잘한 걸로 사와요 ㅋㅋ 마그넷 같은거
+P0 	: 어디어디에서 사오셨나요?ㅋ
+P1 	: 마그넷은 영국에서 많이 사왔네요 홍콩도요
+P0 	: 영국도 가보셨군요 유럽 다른 곳도 가보셨나요
+P1 	: 네 스위스 프랑스 이탈리아 이렇게 갔었어요!
+P0 	: 스위스 풍경이 그렇게 멋지다던데 좋으셨겠어요
+P1 	: 네 근데 제가 갔을땐 날이 흐려서 ㅋㅋ 구름만 보고왔어요.. 아쉬운 ㅋㅋ
+P0 	: 알프스 관광도 하셨나요
+P1 	: 네 산악열차 타고 올라갔은데 흐려서 올라가니까 안 보이더라고요 ㅋㅋㅋ
+P0 	: 융프라우?가셨나요?
+P1 	: 거긴 날이 흐려서 포기했어요 ㅎㅎ
+P0 	: 그러셨군요 유럽 중 가장 기억에 남는 국가는 어디었나요
+P1 	: 유럽중에선 이탈리아가 음식도 맛있고 분위기가 너무 멋졌어요

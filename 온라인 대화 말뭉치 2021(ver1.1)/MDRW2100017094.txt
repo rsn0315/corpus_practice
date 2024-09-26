@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017094
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 신혼여행으로 추천하는 여행지 잇으신가요?
+P0 	: 사이판이요
+P1 	: 우와~~ 말만 들어도 좋네요
+P1 	: 바다도 있고..좋을거같아요
+P0 	: 바다 색깔이 아주 환상적이에요.^^
+P1 	: 우와 &name1&님도 신혼여행으로 사이판 다녀오신거에요?
+P0 	: 아뇨. 가족여행으로요
+P1 	: 오 그럼 자녀분들도 같이 가신거에요? 너무 좋으셨겠어요!!
+P0 	: 네. 남편가족네랑도 갔어요.
+P1 	: 오 그럼 총 몇명이서 가신거에요?ㅎ
+P0 	: 9명요.
+P1 	: 오 여럿이서 가서 더 재밌으셨겠어요!!
+P1 	: 총 몇박몇일로 가셨나요?
+P0 	: 3박5일?이었던거 같아요
+P1 	: 정말 좋으셨을거 같아요!!
+P0 	: 네. ^^

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030466
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~혹시 최근 구매하신 물건이 있으신가요?
+P0 	: 스마트폰 바꿨어요~
+P1 	: 우와 큰 지출하셨네요
+P1 	: 아이폰 구매하셨나요?
+P0 	: 아..아니요 저는 안드 유저라 갤럭시로 했어요
+P1 	: 와! 저도 갤럭시에 뼈를 묻고있어요..
+P0 	: 저는 LG에서 갤럭시로 왔어요
+P1 	: 주변 친구들은 아이폰을 많이쓰더라구요
+P1 	: 아하
+P1 	: 그럼 혹시 조만간 구매 희망하시는 물건도 있으신가요?
+P1 	: 케이스라던가
+P0 	: 아 케이티샵에 제트플립 케이스 주문할려고요. 삼성멤버스에서는 아마 무선충전기랑 악세사리 사게될 것 같아요.
+P1 	: 헉 제트플립 사셨구나
+P1 	: 그거 완전궁금했어요
+P0 	: 어떤 점이 궁금하세요? 저는 라벤더 색으로 샀어요
+P1 	: 접힌다는게 신기했던것같아요~
+P1 	: 접힐때 화면이 안찌그러지는지..그런점?
+P0 	: 아 그 점은 많이 개선이 됐더라고요. 화면이 접힐 때 겹치거나 하얗게 되는 부분없이 매끄럽게 접혀요.
+P0 	: 사진 찍기 좋은 폰인것 같아요 막찍어도 보정이 필요없어요
+P1 	: 맞아요 요즘 갤럭시 나오는 것들 보면
+P1 	: 사진 화질이 아이폰 못지 않더라구요

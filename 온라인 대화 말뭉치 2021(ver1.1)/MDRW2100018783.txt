@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100018783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 좋아하세요?
+P1 	: 네
+P1 	: 특히 고양이라고
+P1 	: 이름이 &name3&라고
+P0 	: 와 저는 거미 키우는데!!
+P0 	: 이름은 &name4&이에요
+P1 	: 예...?
+P1 	: 우와...
+P1 	: 애완거미도 노래 잘 하나요?
+P0 	: 자기들만의 언어로는 할텐데 제 귀가 너무 커서 잘 안들리더라구요
+P1 	: 아 그쵸그쵸
+P0 	: &name3&도 한 곡조 뽑나요?
+P1 	: 거미분들도 아마 유거미의 스케치북 다 할 거에요
+P1 	: 아 잘 뽑죠
+P1 	: &name3&는 성악 쪽이에요
+P0 	: 옆에서 화음넣어주고싶으시겠어요
+P1 	: 주로 악을 질러서
+P0 	: 간식은 자주 주시나요?
+P1 	: 화음 장조로 넣어요 주로
+P1 	: 1일 10간식이라
+P1 	: 제 허리가 고양이보다 잘 꺽여요
+P0 	: 장난감도 잘 가지고 노시나요?
+P1 	: 네 올해 잃어버린 장난감만 해도 10개네요
+P1 	: 거미들은 주로 뭘 하나요?
+P1 	: 집 빼앗기?
+P0 	: 서로 깜짝 놀래키기 놀이 좋아하더라고요

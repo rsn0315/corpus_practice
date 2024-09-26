@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031308
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 머리하러 가야 되는데
+P1 	: 저도요
+P0 	: 그런데 코로나 때문에 어디 나가기가 겁나네요
+P1 	: 주사 아직 안 마셨어요
+P0 	: 일차 밖에 안 맞았어요
+P1 	: 그럼 다음 달에 하실 가라 가시면 되겠네요
+P0 	: 내 머리 길이를 좀 자르고 펌 하고 싶어요
+P1 	: 어떤 펌 이야
+P0 	: 씨 팜으로으로 하고 싶어요
+P1 	: 잘 어울리겠네요
+P0 	: 보도 않고 어떻게 아세요
+P1 	: 그것도 그렇네요 그냥 느낌상
+P0 	: 내 안 봐도 예쁘게 머리 하고 올게요

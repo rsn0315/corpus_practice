@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017609
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집 다니는 거 좋아하세요?
+P0 	: 네 ㅋㅋ 빵좋아해서 빵집투어간적있어요
+P1 	: 빵 좋아하시는구나!
+P1 	: 무슨 빵 제일 좋아하세요?
+P0 	: 저는 사워도우계열좋아해요~ 특히 치아바타! 좋아합니당
+P1 	: 오 치아바타 저도 좋아해요
+P1 	: 저는 양념? 없는 플레인빵? 좋아해요
+P0 	: 오~ 통했네요!
+P0 	: 고소한 밀가루맛 좋아해요
+P1 	: 저두요! 밀가루맛
+P1 	: 혹시 코엑스 쪽 빵맛집이 있나요??
+P0 	: 음 제가 서울에 안살아서 수도권쪽은 잘모르겠어요ㅜ
+P1 	: 그러시군요 ㅠ
+P1 	: 또 어떤 음식좋아하세요?
+P0 	: 저 아이스크림좋아해요~
+P1 	: 베라 최애 맛 3개가 뭔가요?
+P0 	: 제3픽은 피스타치오아몬드 쿠앤크그리고 아몬드봉봉이요ㅎㅎ
+P1 	: 대박 저랑 잘맞으시네요!
+P1 	: 저도 그 3개에요

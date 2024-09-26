@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100017221
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P0 	: 책 자주 읽으세요?
+P0 	: 저는 취향이 없어서 베스트셀러에서 고르는 편이에요
+P1 	: 아니요 자주 안 읽어요
+P0 	: 마지막으로 책 뭐 보셨어요?
+P0 	: 저는 신작 중에 이수정교수님꺼 범죄관련 서적읽었는데 재밌더라고요
+P1 	: 오 재밌겠어요
+P1 	: 저는 인플레이션 관련 책이요
+P0 	: 오.. 어려운 분야네요..
+P1 	: 재미가 없었어요
+P0 	: 어쩌다 읽게되신 거예요?
+P0 	: 유명한 책이라서?
+P1 	: 주식을 하고 있는데 인플레이션이 주식에 어떤 영향을 끼치는지 궁금해서요
+P0 	: 아아 주식관련 책도 엄청 많더라고요
+P0 	: 그럼 관심있는 분야는 없으세요? 소설이나 수필같은
+P1 	: 학창시절에는 소설 많이 읽었었어요
+P0 	: 그렇구나ㅎㅎ
+P1 	: 요즘엔 통 못읽었어요
+P0 	: 요즘도 소설 재밌어보이는거 많이 나오더라고요
+P0 	: 달러구트의 꿈백화점 엄청 재밌어보이는데 도서관 예약이 꽉차서 못 읽고 있어요ㅠ
+P1 	: 오~어떤 내용이에요?
+P0 	: 아직 안읽어봤는데...ㅎㅎ 잠들면 꿈속에서 꿈백화점을 방문하고
+P0 	: 거기서 꿈을 사는..? 그런내용이래요!
+P1 	: 오~재밌겠어요

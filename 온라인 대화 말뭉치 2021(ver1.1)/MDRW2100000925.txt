@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100000925
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동은 하세영?
+P0 	: 네! 수영하다가 코로나 때문에 필라테스 하고 있어요
+P0 	: 심심해님도 운동하세요?
+P1 	: 우와 .. 저는 수영전혀못하는데
+P1 	: 배워보고싶어하는중요 ! 코로나 풀리면 배우러다녀볼까하구
+P1 	: 요즘엔 코로나땜에 확찐자되서..
+P1 	: 집에서 땅끄부부해요ㅋㅋㅋㅋㅋ홈트
+P0 	: 엌ㅋㅋ땅끄부부 진짜 효과있지 않아요?
+P0 	: 더운데 대단하세요
+P1 	: ㅋㅋㅋㅋ시작한지 한 2주됏나
+P1 	: 몸이 덜무겁게 느껴져요 ㅋㅋ
+P0 	: 오오.. 홈트는 강제하는 사람이 없어서 쉽지 않더라구요
+P1 	: 맞아여 ㅠㅠ 근데 살이넘쪄서 .. 뭐라도 해야겟는데 밖에나가긴 습하고 더힘들어서 ㅠ
+P0 	: 맞아요ㅜㅜ
+P0 	: 코로나로 집에 있는 시간 길어지니까 엄청 살 찌더라구요
+P1 	: 주변에 코로나 걸리신분있어요? 코로나 넘 불안하고 .. 언제끝날지도 모르겠고 ㅠ
+P0 	: 저는 멀리 사는 친척이 걸렸어요
+P1 	: 아직 주변엔 없는데 ㅜㅜ 넘 불안하네요
+P0 	: 백신 신청하셨어요?

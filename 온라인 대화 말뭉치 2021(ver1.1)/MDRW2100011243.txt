@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011243
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 휴가 다녀오셨나요
+P1 	: 네 경주로 다녀왔어요 휴가 다녀오셨나요?
+P0 	: 저는 시가에만 다녀왔어요
+P0 	: 휴가라기엔 좀 그렇지만 지방이라 여행하는 기분으로 다녀왔죠
+P1 	: 긍정적인 마인드 좋네요 ㅎ 시가가 시골인가요?
+P0 	: 네 전라도에요 왕복10시간 ㅎㅎ
+P1 	: 앗!! 정말 큰맘 안먹으면 못갈 거리네요
+P0 	: 네 ㅋㅋ 그래서 여행이라고 생각하며 가죠
+P1 	: 시가만 가기 아까운데요~ 가면서 어디 다른곳도 들르셨나요?
+P0 	: 아니요 휴게소도 걱정된다며 5시간을 내리 달렸어요 애가 어리기도하구,,
+P1 	: 휴게소는 좀 그렇긴 하더라고요..
+P0 	: 네 그런데 시골에선 또 외지인 오니 눈치 주는 것같아서 마당근처랑 근처 바닷가정도 갔어요
+P0 	: 바다에 캠핑카가 몇년새 많아졌어요
+P1 	: 그래도 바다는 보고 오셨네요^^
+P1 	: 요즘은 캠핑 아니면 여행하기 겁나잖아요
+P0 	: 네 프라이빗하게 차박이든 캠핑이든 많이 하는것 같아요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100028659
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 오늘 계신 곳에 비가 왔나요?
+P1 	: 오늘은 비가 안온거같아요
+P1 	: 어제까지 비오고 난리도아니었어요
+P0 	: 어제는 여기도 많이 왔어요
+P0 	: 새벽되면 좀 추워진거 같아요ㅎ
+P1 	: 맞아요 계속 축축해서 에어컨 켜도 뭔가 찌뿌둥하고
+P1 	: 좀 선선해져서 좋네요
+P0 	: 네 어제만 해도 습했는데 오늘은 시원하네요
+P0 	: 나가서 산책하기 좋은 날씨에요
+P1 	: 그러게요
+P1 	: 얼른 가을이되면 좋겠어요
+P0 	: 맞아요
+P0 	: 요즘 미세먼지는 없어서 좋네요
+P1 	: 어떤계절 좋아하세요?
+P0 	: 저는 겨울 좋아합니다
+P0 	: 해가 짧은걸 좋아해요
+P0 	: 어떤 계절 좋아하세요?
+P1 	: ㅋㅋㅋ왜 해가짧은게 좋으세요?
+P1 	: 저도 여름보다는 겨울이좋은거같아요
+P0 	: 조용한 추운 겨운 밤이 좋더라구요ㅎㅎ
+P0 	: 이불 밖은 비록 추워서 힘들지만 
+	  ㅎ
+P1 	: 아..알거같아요

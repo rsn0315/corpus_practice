@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 앗녕하세요
+P1 	: 안녕하세요 저는 학생이 아니에요..ㅠㅠ
+P0 	: 동아리 해보셨나요?
+P1 	: 네~했었어요~ㅎㅎ &name1&님은 학생이세요?
+P0 	: 아니요ㅋㅋㅋ
+P0 	: 어떤 동아리였나요?
+P1 	: 아~저는 동아리는 팝송 동아리였는데 팝송은 안 부르고 그냥 놀기만 했었어욬ㅋ
+P0 	: 오 팝송동아리ㅋㅋㅋ
+P0 	: 동아리의 묘미죠ㅎㅎㅎ
+P1 	: 네~근데 초에 몇곡 하고 그다음 그냥 놀자판 ㅎㅎ
+P0 	: ㅋㅋㅋ 술마시고요?
+P1 	: 네네~ㅎㅎㅎ &name1&님은 어떤 동아리 하셨어요?
+P0 	: 저는 한번도요
+P0 	: 아쉽네요
+P1 	: 아~안해보셨군요
+P0 	: 네네 기회가없었네요

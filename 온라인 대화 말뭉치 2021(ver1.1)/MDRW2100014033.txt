@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 잘하시나요??
+P0 	: 아녀 ㅋㅋㅋㅋㅋ
+P1 	: 헐 저두요...
+P1 	: 저는 점심 설거지를 주로 해요! &name1&은 뭘 주로하시나요?
+P0 	: 저도 설거지
+P0 	: 개중에는 설거지가 제일 나은거 같아여
+P1 	: 맞아요 딴거 힘들어유..
+P0 	: 빨래도 귀찮고
+P1 	: 혹시 식세같은거 있으세요?
+P0 	: 아녀
+P0 	: 그거 있으면 편하다면서요 ㅠㅠ
+P1 	: 저도 갖고 싶은데 어머니가 집안일은 운동이다파 셔서ㅋㅋㅋ!
+P0 	: 그쳐그쳐 ㅋㅋㅋㅋㅋㅋ
+P1 	: 저는 나중에 다 갖고싶습니다.... 건조기 +식세+로청까지ㅎㅎㅎ
+P0 	: 저도요
+P0 	: 삶의 질이 달라지져
+P1 	: &name1&은 지금 가족들이랑 같이 사시나요?
+P0 	: 넵 ㅎㅎㅎ

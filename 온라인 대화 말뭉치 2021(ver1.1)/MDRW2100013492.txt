@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013492
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 지역의 날씨는 어떤가요?
+P0 	: 지금 해가 쨍쨍해요!
+P1 	: 오 바람은 많이 안부나요?
+P0 	: 네! 몇시간 전엔 흐렸는데
+P0 	: 지금 바람도 안불고 뜨거워요ㅋㅋ
+P1 	: 아 정말요??? 저희는 완전 어둡고 비까지 내리고 있어요...
+P0 	: 헉 지금 어두워요?!
+P0 	: 헐 신기하군요....
+P1 	: 네 아침부터 지금까지 계속 비가 내리더라구요ㅋㅋㅋㅋ
+P1 	: 분명 어제는 해가 떠서 산책도 갔던 거 같은데...ㅠㅠ
+P0 	: 헉ㅋㅋㄱㄱ저희 지역이랑 반대네요
+P0 	: 저흰 어제 우중충하고 비 내렸어요...ㅋㅋ
+P1 	: 오... 완전 반대네요ㅋㅋㅋ 신기해요ㅋㅋㅋ
+P1 	: 이제 쌀쌀해서 겉옷도 챙겨야 할 것 같아요
+P0 	: 맞아요! 이제 여름 거의 지나간 것 같아요
+P0 	: 밤에 잘 때도 좀 춥더라고요ㅎㅎ
+P1 	: 맞아요ㅋㅋㅋ 곧 가을이라서 가을 옷 입을 생각에 설레네요!
+P0 	: 저도 봄가을옷이 좋아요!
+P0 	: 트렌치코트랑 가디건 이런거 넘 입고싶네요
+P1 	: 어우 트렌치코트 좋죠ㅋㅋㅋ 전 빨리 후드티 입고 싶네요

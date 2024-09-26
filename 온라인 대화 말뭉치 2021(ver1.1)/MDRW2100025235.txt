@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100025235
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나 올리브영 왔는데 필요한거있어?
+P0 	: 음 파스? 뿌리는파스 다 썼어
+P1 	: 아니 그건 마트나 약국에서 사라고
+P0 	: 그럼... 그 뿌리는 방향제? 그거 사다줘
+P1 	: 룸 스프레이? 향은 어떤향으로 사?
+P0 	: 무슨무슨향  있는데? 너무 여자 느낌라는 꽃향 이런거 말고
+P1 	: ㅋㅋㅋㅋ꽃향 사려고 했는데 딱 걸렸네
+P0 	: 그럴줄알았다 저번에 메이플인가? 너 샀던것도 괜찮은거 같은데
+P1 	: 아우라꺼? 그 향도 괜찮고 비누향 나는것도 있어
+P0 	: 비누향? 오이비누 이런거 아니지? 그런건 싫다
+P1 	: 라임향이긴한데 뭔가 아저씨스킨냄새같기도하고ㅋㅋㅋ
+P0 	: 그런거사지마라 버린다...
+P1 	: ㅋㅋㅋ알았어 그러면 아우라꺼 메이플향으로 사간다
+P1 	: 이건 뭔가 올리브영냄새같기도하고ㅋㅋ 제일 괜찮은듯
+P0 	: ㅋ땡큐 그리고 시간되면 약국에서 파스도 부탁해 뿌리는걸로!!
+P0 	: 설마 아직도 올리브영이야?

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100026017
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 네.안녕하세요 저녁 드셨나요
+P1 	: 네 먹엇어요 저녁드셧어요?
+P0 	: 저 채식라면요
+P1 	: 채식라면이 잇어요?
+P1 	: 우와
+P0 	: 애터미에서 나온거요
+P0 	: 채식라면 풀무원에서도 맛난거 있어요 초록색
+P1 	: 우와
+P1 	: 일반 라면이랑 맛이 다른가요?
+P0 	: 저는 채식선호해서 더 맛있다?
+P0 	: 그런느낌
+P1 	: 오 왠지 훨씬 국물이 깔끔할것같아요
+P0 	: 네네 맞아여
+P0 	: 제주음식은 다 고기국물이라 ㅎㅎ
+P1 	: 저도 궁금해서 먹어봐야겟어요 나중에 ㅋㅋㅋㅋㅋ
+P0 	: 제가 이름 검색해볼게여
+P1 	: 앗 감사합니다
+P0 	: 풀무원 정백홍라면이 있어요
+P0 	: 정면 백면 홍면
+P0 	: 그중에 정면
+P1 	: 우와 감사합니다
+P1 	: 나중에 꼭 사먹어볼게요

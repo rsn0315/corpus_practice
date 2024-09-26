@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013512
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 최근에 구매하신 물건이 있나요?
+P1 	: 안녕하세요 책이랑 액정타블렛 정도 기억나요
+P0 	: 무슨 책인지 여쭤봐도 되나요??
+P1 	: 일러스트레이터 책 샀어요
+P0 	: 일러스트레이터 공부하시는거에요?
+P1 	: 네 ㅎㅎ
+P0 	: 대단하세요!직업이 일러스트레이터신가요?
+P1 	: 아뇨 이제부터 배워보려구요 ^^;;
+P0 	: 독학하시는거에요?!
+P1 	: 아뇨 출판사에서
+P1 	: 홍보로 쓰려는거 같던데 스터디 모집하더라구여
+P1 	: 그 책으로 6주 공부하면 출판사 포인트 2만포인트랑
+P1 	: 기프티콘 이것저것 준다길래 신청했어요
+P0 	: 오 엄청 좋은 이벤트네요!!
+P0 	: 지금도 참여할 수 있나요??
+P1 	: 계속 모집하나봐요 알려드릴까요?
+P1 	: 맛있는 디자인 일러스트레이터 2021
+P0 	: 알려주시면 감사하죠!
+P1 	: 이 출판사에요
+P0 	: 감사합니다 인터넷에 검색해볼게요 ㅎㅎ
+P1 	: {share:info}

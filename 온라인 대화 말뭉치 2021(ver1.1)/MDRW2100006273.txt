@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100006273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>국세청 근로장려금 신청 접수
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 근로장려금 신청하셨나요?
+P1 	: 안녕하세요
+P1 	: 네
+P0 	: 얼마 받으실 예정인가요?
+P1 	: 모르죠 ?
+P1 	: 아마 50퍼센트 깎일것같아서
+P1 	: 한
+P0 	: 저도요
+P1 	: 20?
+P0 	: 멋지시네요
+P1 	: 오 님도 신청하셨어요?
+P0 	: 네
+P1 	: 알아요
+P0 	: 그렇구나
+P1 	: 일 하셨어요?
+P0 	: 네
+P0 	: 햇죠
+P1 	: 무슨 알 하셨어요?
+P0 	: 뒷골목에서 주먹 좀 휘둘렀습니다
+P0 	: 농담이고요ㅋ 이젠 손 씻었습니다
+P1 	: 아 네 .
+P1 	: 자랑이시군옷
+P1 	: 얼마 버셨어요?
+P0 	: 멋있나요?
+P0 	: 한 15정도
+P0 	: 이 세계에서 이만큼 벌기 쉽지 않습니다
+P1 	: 15면 ... 1만5천원이요?
+P0 	: 농담도 귀여우시네ㅋ
+P0 	: 억이요 억
+P1 	: 15억이요 ?
+P1 	: 그럼 근로장려금은 얼마 받아요 ?

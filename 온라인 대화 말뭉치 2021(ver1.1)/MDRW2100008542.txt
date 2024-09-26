@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008542
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 자빱TV 보시나요?
+P1 	: 네~~ 모든 컨텐츠 다 봤어요
+P1 	: 데바데나..메이플도 다 봤고
+P0 	: 우와
+P0 	: 다 보셨군여
+P1 	: 네 &name1&님도 자빱TV 좋아하시나요?
+P0 	: 저는 친구가 좋아해서 봤는데
+P0 	: 우정리노트 재밌더라고요
+P0 	: 아직 다 보진 않았는데
+P0 	: 다른 콘텐츠도 차차 볼 생각이에요
+P1 	: 아 우정리노트 보셨군요 재미있죠!
+P1 	: 우정리노트 보기 전에 마인크래프트 게임은 해본 적 있으셍요?
+P0 	: 네! PC마크로 조금 했었어요
+P1 	: 아~~피씨로 마인크래프트 하셨으면 조금 더 장벽이 낮았겠어요
+P1 	: 저도 거의 10년 전에 이미 해봤었어서
+P1 	: 쉽게 재미 느꼈거든요
+P0 	: 네 ㅎㅎ 그런 것 같아요
+P1 	: 게임 평소에 많이 하세요?
+P0 	: 네 좋아하는 편이에요
+P1 	: 최근에 재미있게 한 게임은 어떤건가오?
+P0 	: 마크?
+P1 	: 마인크래프트 재밋죠~~~
+P1 	: 저도 열심히 했었어요ㅋㅋㅋㅋㅋ

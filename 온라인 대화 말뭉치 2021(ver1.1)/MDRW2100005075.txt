@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&
+P0 	: 님!
+P1 	: 안녕하세요 ^^
+P1 	: 네네 ^^
+P1 	: 저녁드셨나요?
+P1 	: 전 장보고 아직 전이어서요
+P0 	: 음 점저로 아까 3~4시쯤? 먹긴 했어요
+P0 	: 저녁은 뭐 드실 예정인가요??
+P1 	: 마트에서 회사서 가고있어요
+P1 	: 회에 소주 1잔 하려고요
+P0 	: 아 직장인이시군요!!
+P0 	: 멋있어요...
+P1 	: 앗 학생이신가요? ㅋㅋ
+P0 	: 네! 대학생... 새내기예요ㅋㅋㅋ
+P1 	: 오 이제 곧 회에 소주 한잔 할 날이 많을거예요
+P0 	: 멋진 어른이 되기엔 멀었나봐요... 아직도 초딩입맛이라
+P1 	: ㅎㅎ 안맞는 사람은 어쩔 수 없어요
+P1 	: 근데 전 워낙 어릴때부터 회 킬러라 ㅋㅋ
+P0 	: 옷 그렇군요

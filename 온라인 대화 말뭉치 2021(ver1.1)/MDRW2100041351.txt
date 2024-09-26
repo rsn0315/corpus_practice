@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100041351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 탄 커피 맛있나요
+P1 	: 방탄 커피요
+P0 	: 저도 먹어보지 않아서 궁금해서요
+P1 	: 지난번 코코넛 오일로 볶은 원두 마셔봤는데 따뜻한 것도 먹어 보고 싶더라구요
+P0 	: 알죠 알죠 부민동에 있는 그 커피숍 말씀하시는 거죠
+P1 	: 회사 쌤이 아이스로 사주셨었는데 두셨었는데 너무 뒷맛이 좋았어요
+P1 	: 그래서 따뜻한 것도 먹어 보고 싶드라구요
+P1 	: 집에 코코넛 512 있는데
+P0 	: 저도 거기 커피숍에서 먹어 봤는데 따뜻한게 더 맛이 진해요
+P1 	: 원두로 볶으면 그 맛이 날까요
+P0 	: 코코넛 오일로 원두를 로스팅한 걸까요 정말 신기한 맛이었답니다
+P0 	: 거기 근처에 맛집이 많아요
+P1 	: 다음에 원두를 사면 한 번 볶아 봐야겠어요
+P0 	: 고민 동갑 오셨나요
+P0 	: &address&동 가보셨나요
+P1 	: 언제 그 쪽으로 한번 갈까요 어디 사시나요
+P0 	: &address&동
+P1 	: 아니요 한번 가볼게요 만나주세요
+P0 	: 저는 그 근처에 살거든요 일을 그쪽에서 합니다
+P0 	: 맛집 투어 날짜 잡고 해야 될 거 같아요
+P1 	: 코코넛 오이도 좋았는데
+P1 	: 거기에 초콜릿들어간 커피도 판다고 하더라구요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100042063
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셧어요??
+P0 	: 네 저는 치킨 먹었어요! &name2&님은 저녁 드셨나요?
+P1 	: 저는 아직 안먹었어요!
+P1 	: 치킨 자주 드세요?
+P0 	: 좋아하는데 자주는 안먹어요ㅜㅜ
+P0 	: 아하 그럼 뭐 드실지 정하셨나요??
+P1 	: 라면 끓여먹을려구요!!
+P1 	: 너무 귀찮나거 ㅋㅋㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋㅋ 역시 귀찮을땐 라면만한게 없죠!!
+P0 	: 제일 좋아하시는 라면 있으세요?!
+P1 	: 저 비빔면 이나 짜파게티요!!!
+P1 	: 비벼먹는걸 좋아해요 ㅋㅋ
+P0 	: 오오오 저도 그런거 좋아해요 국물 없는거!ㅋㅋㅋ
+P0 	: 국물있는건 뭘 먹어도 느끼하더라구요ㅜㅠ
+P0 	: 그중에 저는 불닭 제일 좋아해요!
+P1 	: 오오 매운거 잘드세요?
+P0 	: 매운걸 좋아하긴 하는데 막 잘먹진 않아요ㅋㅋㅋ
+P1 	: 오 어떤거 드세요?? 엽떡...?
+P0 	: 저는 고추베이스(?) 매운맛 좋아해요!

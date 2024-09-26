@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100011397
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 뭐 산거 있으세여?
+P0 	: 신발이요!
+P1 	: 수집용이요? 일상용?
+P0 	: 둘다요!!
+P1 	: 수집용이면? 나이키?
+P0 	: 오 맞습니다
+P1 	: 당첨되신거에요?
+P0 	: 당첨도 한번 됐어요!!
+P1 	: 어떤 기종이요?
+P0 	: 덩크 제품이요!
+P1 	: 요즘 다시 덩크 바람이더군요..
+P0 	: 진짜패션 돌고돌아요ㅎㅎ

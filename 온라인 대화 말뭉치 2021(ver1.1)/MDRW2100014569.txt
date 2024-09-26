@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014569
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 게임좋아하시나요
+P1 	: 심즈 좋아해요!
+P0 	: 오 저도 심즈 했었어요
+P0 	: 근데 cc템 다운받으니까 컴퓨터가 터질것 같아서 그만뒀어요..ㅠㅠ
+P1 	: 저도 그래서 오래돼서 안쓰는 노트북에 깔고 하고 있어요 ㅠㅠ
+P0 	: 심즈언제부터 하셨어요?
+P1 	: 저는 3년전부터 했던 거 같아요 ㅎㅎ 뭉치님은 지금도 하시나요?
+P0 	: 피시방 갈때만 하는데
+P0 	: 코로나이후엔 피시방에 거의 안갔네요...ㅠ
+P1 	: 피시방에선 보통 어떤 게임 하시나요?
+P0 	: 롤도 하고 오버워치도 하고 그랬어요!!
+P0 	: 집에있을땐 메이플했었고요 ㅋㅋ
+P1 	: 롤도 랭킹이 있나요?!
+P0 	: 랭킹보다는 브론즈 실버 골드 처럼 등급이 있어요!
+P1 	: &name1&님은 무슨 등급이세요?!
+P0 	: 저는 골드입니다 ㅎㅎ

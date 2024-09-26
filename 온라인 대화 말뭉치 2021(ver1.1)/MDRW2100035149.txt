@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨 어때요??
+P1 	: 여긴 맑음이에요
+P0 	: 여긴 맑더니 빗방울이 떨어지네요ㅠㅠ
+P1 	: 가을장마 시작이에요 ㅜㅜ
+P1 	: 계속 주간날씨가 비 더라구요
+P0 	: 으윽ㅜㅜ 여긴 아까까지는 흐림이더니 중간중간 비로 바뀌었어요
+P0 	: 가을장마 자제 좀 해야하는거 아닌가요ㅠ
+P1 	: ㅋㅋ그러니깐요
+P1 	: 이러다 추석되면 추워지겟어요
+P0 	: 그러게요
+P0 	: 추석때 진짜 확 추워지잖아요ㅠ
+P1 	: 올해도 딱 그럴꺼같아요
+P0 	: 으윽
+P0 	: 비도 추석전에는 괜찮아지는 것 같던데말이죠
+P1 	: 가을옷 미리 준비하시나욤
+P0 	: 가을이 훅 지나가서 미리 준비하려해요!
+P0 	: 안그럼 못입더라구요ㅜㅜㅜㅜ
+P0 	: &name2&님은요?
+P1 	: 저는 오늘 월급날이라서
+P1 	: 이것저것 살려고 아이쇼핑중이에여
+P0 	: 크으 부럽슴다
+P0 	: 월급날은 쓰는 날이져!

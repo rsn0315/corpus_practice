@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 영화좋아하시나요?
+P1 	: 안녕하세요 영화 좋아합니다
+P0 	: 젤 최근에 머 보셨어요?
+P1 	: 최근에는 매드맥스 다시봣어요ㅋㅋㅋㅋㅋ
+P0 	: 매드맥스 완전 재밌죠ㅋㅋㅋㅋㅋ
+P1 	: 네 저 매드맥스 정말 좋아해서 영화관에서만 6번인가 봣거든요
+P0 	: 와 완전 회전문 돌으셨네요!
+P1 	: 네 ㅋㅋㅋㅋㅋ
+P1 	: &name1&님은 최근에 뭐 보셧어요?
+P0 	: 넷플릭스 성룡이 참여한 애니메이션봤어요
+P1 	: 오 괜찮앗나요?
+P0 	: 되게 알라딘 느낌 났는데... 액션씬에서 딱 성룡 느낌 나서 특이했어요
+P1 	: 오 진짜 특이할것같네요
+P0 	: 최근에는 샹치 보고 싶어요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023841
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요!
+P0 	: 사료는 어디서 구매하세요?
+P1 	: 저는 직접 병원가서 사고있습니다.
+P1 	: 나이에따라서 달라져서
+P0 	: 직접 가서 사시는균요
+P0 	: 대단하시네요
+P1 	: 부모님이 사다주시죠...ㅋㅋㅋ
+P0 	: 앗ㅋㅋ 부모님 찬스는 감사함이죠ㅋㅋ
+P1 	: 맞아요ㅋㅋㅋㅋ
+P1 	: 함부로 못쓰긴하지만ㅠ
+P0 	: ㅋㅋㅋ그래도 해주시니 감사하죠ㅋㅋ
+P0 	: 저는 인터넷 주문하거든요
+P1 	: 아하 인터넷이 편하긴하죵
+P0 	: 넹ㅋㅋㅋ 종류도 많고 세일도 있구요
+P1 	: 인터넷이 싸고 종류도 많죠!
+P0 	: 맞아요!!
+P0 	: 간식도 오프에서 사세요?
+P1 	: 간식은 항상 인터넷이요!

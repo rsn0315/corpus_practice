@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007627
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 오늘은 안 오네요. 어제는 난리도 아니었었죠
+P0 	: 그르니까요
+P1 	: 올해 여름 너무 더웠었죠?
+P0 	: 네 너무너무요
+P1 	: 이번주는 태풍 영향으로 비 예보가 계속되더라구요. 나가실 때 꼭 우산 챙기셔요~
+P0 	: 네 장마에 태풍까지
+P1 	: 올해 비가 너무 안 와서 좋긴 한데.. 일기예보가 잘 맞았으면 좋겠어요. 저번주던가ㅎㅎ 방심하고 나갔다가 예보보다 2시간 일찍 비가 내려서 쫄딱 맞고 들어왔었네요ㅜ
+P0 	: 이슬비가 아니라 폭우라서
+P1 	: 맞아요. 우산 써도 사실 효과는 없더라구요
+P0 	: 바람까지 불면 답없죠
+P1 	: 장마워터파크 개장한 느낌이에요ㅎㅎ
+P0 	: 습도도요

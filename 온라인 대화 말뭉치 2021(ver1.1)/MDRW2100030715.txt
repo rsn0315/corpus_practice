@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030715
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 제품 이름은 기억이 안나요 가서 찾아 봐야 해요
+P0 	: 화장품은 테스트 해 보는게 좋죠
+P0 	: 향이 좋으면 기분도 좋아져요
+P1 	: 이름을 알았으면 이미 시켰을 것 같아요 온라인 쇼핑 으로요
+P1 	: 나중에 나가게 된다면 가는 김에 확인 한번 해 봐야 되겠어요
+P0 	: 예전 본거면 없을 수도 있겠어요
+P1 	: 저는 아이라인은 꼭 그리고 다니는데 이제 아이라이너가 다 떨어져 가네요
+P0 	: 유행이 계속 바뀌어요
+P0 	: 아이라이너는 펜슬 쓰시나요
+P1 	: 예 전이라고 해 봤자 한두 달 전이었어요 괜찮아요 있을 거예요
+P0 	: 고양이라서 눈 화장이 필요하네요
+P1 	: 네 젤 펜스를 씁니다 그게 잘 안 지워져요
+P0 	: 잘 안 지워지게 있네요
+P1 	: 아이라이너 안 그리고 출근 한 적이 있는데 우리 팀장이 저보고 &name2& 씨 맞아요 하며 깜짝 놀라더라고요
+P0 	: 입술은 바를 필요가 없죠
+P1 	: 입술 제품은 사 놓고 안 쓴지 오래 됐습니다
+P0 	: 마스크가 있으니까요

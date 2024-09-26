@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 다 봤지
+P0 	: 허리 오래오래 건강하게 쓰는 내용 나오는 책?
+P1 	: 그래 병원 안 가고 허리 잘 관리하는 방법
+P0 	: 그렇군 허리는 수술하는거 추천안하잖아
+P1 	: 그래 최대한 안 해야지
+P0 	: 엄마도 허리 아팠었잖아
+P1 	: 그래 그때 수술 안 했어서 다행
+P0 	: 구래 이제 좀 잘 관리해봐용 책에서 뭐래?
+P1 	: 운동을 좀 조심해야 한다
+P0 	: 그렇군?! 허리에 안좋은 운동이 많나보네
+P1 	: 그래 앞으로 굽히거나 무리하면 안 됨
+P0 	: 그래 맞다 뒤로만 스트레칭 하는게 좋다더라
+P1 	: 그래 잘 아네

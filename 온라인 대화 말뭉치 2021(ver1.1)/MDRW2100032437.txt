@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 포케랑 양식 생각 중이에요
+P0 	: 아 전 뭐 먹을지 모르겠어요
+P0 	: 맨날 메뉴고민돼요ㅜ
+P1 	: 배달이에요, 집밥이에요?
+P0 	: 어제 배달먹어서 집밥먹어야될거 같아요
+P0 	: 하임님은 배달인가요?
+P1 	: 오늘은 나가서 먹을 것 같아요
+P1 	: 여행중이라서ㅎㅎ
+P0 	: 여행지에서 먹는 음식은 다맛있죠ㅜ
+P0 	: 지금 나갈준비중이세요?
+P1 	: 어머니가 꿈나라셔서 좀이따 나갈듯요ㅎㅎ
+P0 	: 그럼 맛집 검색은 끝내신건가요?ㅎㅎ
+P1 	: 네네, 후보는 온리원!
+P1 	: 종각역쪽에 있대요
+P0 	: 맛있겠어요ㅜㅜㅜ
+P0 	: 숙소 주변인가요?
+P1 	: 네넹, 도보 10분 이내래요
+P0 	: 좋네요 너무 멀면 배고프죠
+P1 	: 맞아요, 가깝고 오래 안기다리는 맛집이 좋아요
+P0 	: 저는 이제 밥먹으러 가려구요 ㅎ

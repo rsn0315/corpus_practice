@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100038615
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 머드셧나요
+P0 	: 전 미역국 백반을 먹었어요 맛이 심심ㅋ
+P1 	: 아하 식당서요?
+P0 	: 하하 예 식당서 매식이요
+P1 	: 다른 반찬은 뭐나왓어용 메인반창
+P0 	: 백반이라 그냥 밥반찬이요
+P0 	: &name2&님은 오늘 어떤 반찬을 드셨나요?
+P1 	: 미역국에 고기는요?
+P1 	: 저 반찬 안먹엇어요 ㅋㅋ 어제남은 쭈꾸미만 먹었어요
+P0 	: 고기없었어요 ㅎㅎ조개미역국이에요
+P1 	: 아하 그거도 맛있죠 얼마인가요
+P0 	: 7천원이요 ㅋㅋ 적당ㅇ한 가격이죠? 쭈꾸미는 얼마였나요
+P1 	: 쭈꾸미 냉동 350그람 칠처넌쯤...
+P1 	: 아 요즘 밥값 넘비싸요
+P0 	: 식재료가 오르고 수입원잦가 다 올라서,,어쩔수가없죠 ㅜ
+P1 	: ㅜㅜㅜ 내월급은 안오르고..
+P1 	: 맨날 비싼밥 맘껏먹고싶네요

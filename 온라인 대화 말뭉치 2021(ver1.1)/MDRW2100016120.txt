@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016120
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 콘서트 가신적 있으세요?
+P0 	: 티케팅을 잘 못해서
+P0 	: 항상 광탈을 해가지고..ㅎ
+P0 	: 콘서트 가보셨나요
+P1 	: 네 아이돌 콘서트 몇번 가봤어요! 뮤지컬 좋아하세요?
+P0 	: 네 뮤지컬 좋아해요
+P0 	: 누구 콘서트 가보셨나요
+P1 	: 저 소녀시대요! 가장 좋아하는 뮤지컬이 뭐예요?
+P0 	: 저 이게 뮤지컬이라긴 보단
+P0 	: 난타 공연? 인데 뮤지컬형식이던
+P0 	: 그 난타 라고 검색하시면 나올거에요
+P1 	: 아 교과서에서 본 적 있어요! 영화관에 영화 자주 보러 가세요?
+P0 	: 영화 보는거 좋아하는데 최근엔 못갔어요
+P0 	: &name2&은 최근에 보신거있으세요
+P1 	: 친구랑 모가디슈 보고왔어요! 아시나요?
+P0 	: 그거 들어봤어요 신파없이 재밌다고 하더라구요
+P0 	: 어떠셨나요!
+P1 	: 킬링타임용으로 볼만했어요ㅎㅎ
+P0 	: 최근 아프간사태로 더 와닿는다는 말이 많더라궁ᆢ
+P0 	: 많더라구요ㅎ
+P1 	: 맞아요~ 공감되네요

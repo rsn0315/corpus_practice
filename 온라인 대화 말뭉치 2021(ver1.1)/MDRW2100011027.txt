@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100011027
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 오늘도 팩 하셨어요?
+P0 	: 요즘 안합니다. 피부에 대한 열정이 식었어요.ㅎ
+P1 	: 꾸준히 하셔야죠 ㅎㅎ 그래야 좋아집니다 ㅋ (전 이미 포기)
+P0 	: 넵. 피부의 건강을 위해
+	  다시 애써볼게요.
+P1 	: 그치만 안 해도 피부가 좋은게 마스크를 뚫고 나오더라구요 ㅎㅎ
+P0 	: 마스크를 뚫다니.
+	  매우 건강한 피부 얘기인가요.ㅎ
+P1 	: ㅎㅎㅎ 아주 좋은 피부를 가진 그대 당신 &name1&님입니다 ㅎㅎㅎ
+P0 	: 카카오페이로 미용실에서 결제했는데
+	  패션지를 선물로 주더라구요.
+	  난 것 좀 봐야겠어요.
+P1 	: 그런 것 전혀 안 보실 것 같은 캐릭터 신기 ㅎㅎㅎ
+P0 	: 패션에 신경 좀 써야지요.
+	  안그러면 나이 먹어서 꽤재재해지잖아요.
+P1 	: 그래야 하는데 왜 이렇게 귀찮은지  ㅠㅠ
+P0 	: 저녁은 건강식으로 드셨나요?
+P1 	: 학교 근처 배달 백반 ㅜㅜ
+P0 	: 저는 빵으로 떼웠어요.
+	  오아시스 건강한 빵요..
+	  백반은 다이어트식이라
+	  잘 드셨네요.
+P1 	: 그닥 다이어트 인지는 ㅋㅋㅋ ㅜㅜ

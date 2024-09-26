@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100024061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 자주 다니셨나요?
+P0 	: 인직 못가본곳이 많아서
+P0 	: 많다고는 말을 못하겠어요
+P0 	: &name2&님은 어떠세요?
+P1 	: 저도 가볼데가 백만배많죠 ㅋㅋㅋㅋ
+P1 	: 최근 어디 다니셨나요....?
+P0 	: 이번 휴가때 부산 해운대에서 호캉스했어요
+P0 	: 먹으면서 보내는 여행
+P0 	: &name2&님은 가장 최근 여행지가 어디신가요?
+P1 	: ㅇ 좋네요 저희 간지 오래 ㅠ 마지막 간건 경주요 봄쯤
+P0 	: 저 오늘 경주 다녀왔는데
+P0 	: 황리단길
+P0 	: 오늘 황리단길에서 오스테리아 밀즈라는 식당에서
+P1 	: 오호 그쪽 사세요?
+P0 	: 리조또랑 파스타 먹었어요
+P0 	: 울산 살거든요
+P1 	: 우오ㅏ 그립네요 경주
+P0 	: 와이프랑 데이트 다녀왔어요
+P0 	: 경주 좋죠 해갈 갈수록 더 좋아지는 것 같아요
+P0 	: 도시도 계속 정비하고
+P1 	: 가까운가봐요
+P0 	: 저희 집에서 황리단길까지
+P0 	: 차로 한시간 정도 걸려요
+P1 	: 아 딱 적당하네요
+P0 	: 네네
+P0 	: 오늘 날씨도 제법 선선해서 좋았어요

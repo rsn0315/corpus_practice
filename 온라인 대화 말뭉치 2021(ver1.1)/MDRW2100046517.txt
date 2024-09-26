@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100046517
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211025
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 &name1&님 :)
+P1 	: 이제 곧 저녁시간인데, 저녁 뭐로 드시나요~?
+P0 	: 저녁은 부대찌개죠 ㅎㅎㅎㅎ &name2&님은 퇴근 언제하시나요... ㅠㅠ
+P1 	: 부대찌개 맛있을 것 같아요..! ㅎㅎㅎ
+P1 	: 저도 곧 6시에 퇴근하고 저녁먹을 것 같습니다 :)
+P1 	: &name1&님은 취미가 어떻게 되시나요~?
+P0 	: 요즘은 집에서 영화를 많이 보는거같아요!
+P0 	: &name2&님은요?? (우와)
+P1 	: 저도 요즘은 영화관을 못가서 집에서 vod 등으로 많이 보고 있어요! ㅎㅎㅎ
+P1 	: 오 그러면 최애 영화는 어떻게 되세요?!
+P0 	: 레옹이 인생영화에요 영화 내용보다 OST때문에 영화를 많이 보는거같아요 ㅎㅎ
+P1 	: 아아 그렇군요..! 레옹 진짜 명작인 것 같아요 인지도도 높은 영화이고..!
+P1 	: 저는 중경삼림이라는 영화를 좋아하는데, 혹시 중경삼림 아시나요..?!
+P0 	: 영화는 아는데 실제로 보진않았어요 ~~!! 거기에 나오는 ost는 알아요 ㅎㅎㅎ
+P1 	: 오오 ost아시는군요 ㅎㅎㅎ
+P1 	: 영화를 보고 나중에 들으시면 더 좋아지실 거예요..! ㅎㅎ

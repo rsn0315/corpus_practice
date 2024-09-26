@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나물풍선산거 우찌써야하는지를 모르겠음ㅎ
+P0 	: 샤워기 뜯어서 물넣어주니 잘 놀던데?
+P1 	: 그냥 만들어만주면 되는건가? 날씨가 애매모호해서 혹시 감기걸릴까싶더라구 
+	  어제 지구나이트에서 뭐샀어?
+P0 	: 어제는 타이밍놓쳐서 뭐안샀어
+P0 	: 다음주에 쥐포사려구ㅋ
+P1 	: 오 맛나지포있어?
+P0 	: 진짜 쥐포는 아니구 꾸이맨 같은거 사려구ㅋ
+P0 	: 안주용
+P1 	: 아 바삭바삭하게~~ 맛있지! &name3&이는 시판음식 요새 뭐좋아해?
+P0 	: 바나나일단 잘먹구ㅋ 젤리스트로가 최애!
+P1 	: 젤리스트로 좋지ㅋ 나도 트더가서 큰걸로 사옴ㅎㅎ &name4&는 오늘 소고기 구워먹자네ㅋ
+P0 	: 우와 먹고싶은거 말하니 넘귀엽다
+P1 	: 응 웃겼음 어제도그러더니 오늘 아침에도 소고기 먹자 길래 &name5&이가 나는소고기 싫어~ 하니 &name4&가 언니~ 나는 소고기 좋아한다구~~~ㅎ
+P0 	: ㅋㅋ악ㅋㅋㅋㅋ 좋아한다구~~이거넘귀엽네
+P0 	: 소고기 많이 사야겠다
+P1 	: 그니까 &name5&이도 그래 그럼먹자~함ㅎㅎ
+P0 	: 다키웠네ㅋㅋ

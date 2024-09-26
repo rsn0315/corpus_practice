@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100007329
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 반려동물이 있으신가요?
+P1 	: 반려동물은 여건이 안되서 못키우고있어요 !
+P1 	: 반려동물 키우시나요?
+P0 	: 아니요... 저도 아직 여건이 안 되어서 ㅠㅠ
+P0 	: 그래도 정말 좋아해요
+P1 	: 반려동물 키우시나요?
+P0 	: 아니요! 하지만 햄스터가 키우고 싶어요
+P1 	: 오 저 예전에 햄스터 키웠었어요!
+P1 	: 너무 귀엽죠 햄스터
+P0 	: 헉 진짜요
+P0 	: 친구가 회색 햄스터를 키우는데 손에 올려보고 너무 귀여워서...
+P1 	: 정글햄스터인가봐요 이름은 뭐예요?
+P0 	: &name3&예요... 완전 몰랑해요
+P1 	: 생김새와 완전 찰떡인 이름이군요ㅜㅜ
+P1 	: &name3&도 해바라기씨 좋아하나요..
+P0 	: 고구마 말랭이? 같은 거 잘 먹는댔어요
+P0 	: 근데 편식햄이라 자기가 싫어하는 곡식류는 남긴대요 ㅋㅋ
+P1 	: 취향이 확고한 햄스터인가봐요 ㅋㅋ귀엽네요
+P0 	: 키우시던 햄스터는 이름이 뭐였나요
+P1 	: 펄햄스터였는데 이름은 &name4&였어요!
+P1 	: 하얗고 발바닥은 핑크색이었어요 ㅠㅠ
+P0 	: 아이고 ㅠㅠ 말만 들어도 귀요미네요
+P0 	: &name4&는 해씨를 좋아했나요
+P1 	: 너무 좋아했어요 ..! 워낙 체구가 작았어서 해바라기씨를 자주 줬던 기억이 있네요
+P0 	: 지금은 반려동물이 있으신가요?
+P1 	: 아뇨 지금은 안키우고있어요 ㅠㅠ!

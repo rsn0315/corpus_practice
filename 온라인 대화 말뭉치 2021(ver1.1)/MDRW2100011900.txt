@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 소개팅해본적있으신가요
+P1 	: 아니요 해보신 적 있으신가요?
+P0 	: 아 네 전 2번해본것같아요 딱히하고싶은건 아니었는데...부탁받아서
+P0 	: 소개팅자체도 저랑안맞는것같아요 부담스럽고
+P0 	: ㅎㅎㅎ님은 자만추 스타일이신가여
+P1 	: 네 사실 모쏠이라 남자랑 단 둘이 있는 것 자체가 어색해요ㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ근데 저도 그래요 만나보기는 하는데 제대로 사귄적이없어서...ㅋㅋㅋㅋ
+P0 	: 그럼 이상형은 어떻게되시나요
+P1 	: 저는 귀여운 사람이요
+P1 	: 여름님은요?
+P0 	: 저도 웃을때 귀여운사람을 좋아해요 그런데 몸은 그렇지않은 ㅋㅋ
+P1 	: 아ㅋㅋㅋㅋ 그럼 키는 180이상?
+P0 	: 키는 저보다 크면상관없는데 운동좀한몸을좋아해요 ㅋㅋㅋㅋ
+P1 	: 아~~ 어느정도 운동한 몸이요? 완전 근육질 아니면 잔근육??
+P0 	: 네 빼빼마른몸보다는 근육이 어느정도 있는몸이여 잔근육과 근육질 그사이이의 어딘가..
+P0 	: ㅋㅋㅋㅋㅎㅎㅎ님은 어때여
+P1 	: 저는 사실 슬림한게 좋아요 대나무까지는 아니지만
+P0 	: 연예인으로 비유하면 모델느낌나는분들일까여
+P1 	: 아니 그정도까지는 아니고 아이돌들 데뷔초반, 벌크업하기 전이요

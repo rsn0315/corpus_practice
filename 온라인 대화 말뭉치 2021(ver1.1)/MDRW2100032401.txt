@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100032401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 만일 어떤 것을 하시나요
+P0 	: 집안일이요? 청소를 합니다
+P1 	: 청소는 티가 안 나서 쉬운 일은 아닌 거 같은데
+P0 	: 청소도 어렵고 저는 요리를 못합니다
+P1 	: 각자가 잘하는 걸 하면 효율적인 했네요
+P1 	: 각자가 잘하는 걸 하면 효율적이 했
+P0 	: 맞아요 저는 차라리 청소가 낫더라구요
+P1 	: 혼자 사시나요
+P0 	: 아니요 부모님과 삽니다
+P1 	: 어머니가 요리를 하셨군요
+P0 	: 네 어머니 요리가 맛있습니다
+P1 	: 저는 집안일을 좋아해요
+P0 	: 일이라고 생각하면 힘들지요
+P0 	: 가족
+P0 	: 가족과 함께 사는건 감사한일이에요

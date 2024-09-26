@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100043688
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일하고 계세요?
+P1 	: 지금은 퇴근했어요!
+P0 	: 오오 일하신지 오래 되셧어요?
+P1 	: 아니요 일년 좀 넘었어요!
+P1 	: 일하시나요?
+P0 	: 저는 아직이요!!
+P0 	: 담주에 첫출근해요!
+P1 	: 오 진짜요?
+	  첫직장이신거에요? 이직하신거에요?
+P0 	: 처음은 아니고 이직햇어요!!
+P0 	: 전직장이 너무 이상햇어서 ㅠㅠ
+P1 	: 마자요 전직장 이상하면 바로바로  그만두고 새로알아보는것도 좋은거같아요!
+P1 	: 거리는 가까워요?
+P0 	: 40분이용..! 가까운편인가요?? ㅠㅠ
+P1 	: 네 40분정도면 나쁘지 않은거같아요!
+P1 	: 무슨직종이세요?
+P0 	: 저는 간호조무사예요!!!
+P0 	: 근처엔 병원이없네용 ㅠ
+P1 	: 요새 더욱더 감사함을 느끼는 직종이시군요ㅠ
+P1 	: 근처에 있으면 그나마 편하고 좋을텐데ㅠ
+P0 	: &name2&님은 어디직종 이세용???
+P1 	: 저는 식품품질관리요

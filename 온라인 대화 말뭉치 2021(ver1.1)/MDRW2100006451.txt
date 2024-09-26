@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래 해보셨나요
+P1 	: 네네 해봤어요
+P0 	: 어디서 하시나요?
+P1 	: 전 그냥 에스엔에스에서 팔앗어요
+P0 	: 그러셨군요 당근은 안하시나요
+P1 	: 당근은 깔았다가 너무 그것만 보고 있어서 지웠어요ㅋㅋㅋㅋㅋ
+P1 	: 사지도 않지만 물건 구경하는게 재밌더라고요
+P0 	: 제가 그래요...ㅎㅎ
+P1 	: ㅎㅎ 거래 하신 적은 있나요?
+P0 	: 네 거래도 종종 합니다 ㅎㅎ
+P1 	: 주로 사시는 쪽인가요?
+P0 	: 주로 파는쪽인듯요.가끔 사구요
+P1 	: 머 파셨나요?
+P0 	: 캠핑용품 육아용품이요 ㅎ
+P1 	: 다 고가일 것 같아요
+P0 	: 당근은 고가는 팔리지 않는듯해요..ㅎㅎ
+P1 	: 아앗.... 그치만 캠핑용품은 거의 비싸던데요ㅠㅠ
+P0 	: 그러긴 한데 원가 생각하면 되팔땐 별로 못받는듯요..ㅎㅎ

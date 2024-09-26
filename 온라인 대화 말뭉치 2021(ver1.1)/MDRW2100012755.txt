@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012755
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 피부가 예민해서 그런가
+P1 	: 바디워시나 로션같은거 안맞는거 아냐?
+P0 	: 아니 그건 아닌거같아ㅠ 옛날에도 여름만되면 아토피인지 피부질환인지 엄청 올라옴
+P1 	: 겨울같은때에는 안그러고?
+P0 	: 응 여름 시작됐다하면 여지없이 피부 가렵고 난리나
+P1 	: 그럼 아토피나 이런건 아닌듯? 여름에 체력저하로 면역력 낮아서 그런거아냐?
+P0 	: 뭐 그럴수도 있고ㅠ
+P1 	: 그럼 빠지지말고 운동 꼬박꼬박 해 하기싫다고 미루지말고 운동해야 좀 면역력도 좋아지고 하지
+P0 	: 근데 내가 진짜 운동도 엄청 해보고 그랬는데 별 소용이 없음ㅠ
+P1 	: 바디워시같은것도 막 향이 강하게나고 그런거 쓰지말고
+P0 	: 안그래도 이번에 저자극 아토바디워시로 갈아탔는데
+P0 	: 초반에만 괜찮고 조금씩 올라오더니 가렵고 두드러기처럼 올라옴ㅠ
+P1 	: 아휴 피부가 그래서 어떻하냐 병원은 가봤어?
+P0 	: 요즘 코로나때문에 병원가기가 싫어 지지
+P1 	: 그래도 진료받고 연고나 약 처방 받으면 좀 괜찮아지지 않을까?
+P0 	: 그렇긴한데 약은 또 그 순간뿐이고ㅠ 내년 여름되면 다시 돌아올걸...고질병인듯

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022366
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하시나요
+P1 	: 그렇게 좋아하진 않아요 님은요?
+P0 	: 영화는 조아하시나요??
+P1 	: 저 아까 답 드렸어요 ㅋㅋ
+P1 	: 영화와 영화는의 차이가 있나요?
+P0 	: 콘서트는 가보셨나요ㅎㅎ
+P1 	: &name1&님이 좋아하시는 걸 얘기해주세요^^
+P1 	: 본인이 가고 즐기시는 걸로요
+P0 	: 랩 페스티벌 가봤어요~
+P1 	: 아 국힙 좋아하시나요?
+P0 	: 오 넵 완전조아해요
+P1 	: 아 그렇군요 전 뉴스에서 나오는 씨제이 랩?쇼미더 머니인가? 그 프로이름만 봤어요
+P0 	: 쇼미더머니 새로운시즌 곧 한다고 들었어요ㅎㅎ
+P1 	: 역시 시청률이 잘 나오니 쭉 가는군요
+P0 	: 장수프로그램이죠ㅎㅎ

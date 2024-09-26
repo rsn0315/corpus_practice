@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그럼 동아리는 하시나요??
+P1 	: 동아리는 하고 있는데 단계가 높아져서 활동을 못하고 있어요
+P0 	: 오 무슨 동아리인가요?
+P1 	: 태권도 동아리입니다
+P0 	: 와 멋져요! 가르치는 입장이신가요?
+P1 	: 아뇨 배우는 입장입니다 ㅜㅜ
+P0 	: 앗 그렇군요...! 그런데 코로나 때문에 못 활동한다니 아쉽겠어요
+P1 	: 아쉽지만 상황이니까 어쩔 수 없지요...
+P1 	: &name1&은 동아리 활동을 하시나요?
+P0 	: 아뇨 전 친구들 동아리 활동하는 거 보기만 했어요ㅋㅋㅋㅋ
+P1 	: 그럼 학업 스트레스가 생기시면 주로 어떻게 대처하셨나요?
+P0 	: 음... 주로 게임으로 풀었던 것 같아요 &name2&은요?
+P1 	: 저도 게임을 하기는 했지만
+P1 	: 주로 주변 정리나 운동을 하며 풀었어요!
+P0 	: 오 운동 좋네요 건전한 스트레스 푸는 방법이에요! 멋지네요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021218
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 나 배가 고픈데..생리터져서 배가 너무 아파가지고 입맛이 없다.. 뭘 먹어야할까
+P0 	: 나 어제 국밥먹었는데 맛있었어
+P1 	: 아 국밥 좋지..근데 나 다이어트중이라 탄수화물은 좀 피해야돼ㅠ
+P0 	: 앗...그럼 단백질류 먹어야하나?
+P1 	: 응응 그래서 고기류로 보고있는데 고기는 비싸니깐 또...
+P0 	: 아 나도 고기먹고싶네.. 근데 아무래도 다이어트용이면 양념있는거도 안되는거아냐?ㅠ
+P1 	: 요새는 생 닭가슴살 이런거만 먹기는 힘들어서 시즈닝 된 것들 많이 팔더라!
+P0 	: 나 예전에 다이어트할때 마늘이랑 파넣고 닭가슴살 먹었는데 맛있었어!
+P1 	: 어 맛있겟다! 난 그냥 닭가슴살 만두 먹으려구!
+P0 	: 아무래도 해먹는건 생리때 너무 귀찮지 요즘 닭가슴살 만두 잘나오더라
+P1 	: 맞아맞아 굽네 닭가슴살 만두가 맛있더라구!
+P0 	: 굽네에서도 닭가슴살 만두가 나오는구나!
+P1 	: 응 아임닭 만두도 먹어봤는데 아임닭보다 굽네가 훨맛있어
+P0 	: 오오..역시 믿고 먹는 굽네..
+P0 	: 요즘 버블티 먹는 재미가 들렸어

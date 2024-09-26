@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036442
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 꾸미는거 좋아하세요?
+P0 	: 꾸미는거 자체는 좋아해요
+P0 	: &name2&님은요?
+P1 	: 저는 화장품 좋아해요 ㅋㅋㅋㅋ
+P0 	: 기초쪽이요 아님 색조??
+P1 	: 둘다 좋아하는데 색조 모으는거 좋아해요!
+P0 	: 어느 브랜드 좋아하시나요?
+P1 	: 다양하게 사모으는거 같아요 ㅋㅋㅋㅋㅋ 어지간한건 다써본거같아요...
+P0 	: 수집욕 있으신가요??
+P1 	: 네 그러게말이에요... 볼은 두개밖에없는데 치크좋아해서... 거의 백개는있는거같아요  ㅋㅋㅋ 적다면적은숫자 이지만요
+P0 	: 와 멋지시네요
+P0 	: 퍼컬은 어떻게 되시나요?
+P1 	: 봄웜이요!
+P0 	: 라이트 아니면 브라이트???
+P1 	: 오오 자세히 물어보시는군요!! 좋아요 브라이트요!

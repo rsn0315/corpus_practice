@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100041346
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 먹거리 쇼핑이 어려워요
+P0 	: 전 아무거나 먹지만 강아지에겐 엄격
+P1 	: &name1& 님도 아무거나 말고 좋은거 드셔야죠
+P0 	: 그쵸 ㅋㅋㅋ
+P0 	: 말을 못하니 ㅜㅜ 뭐라도 젤 좋은거 주고 싶구
+P1 	: 그럼 간식 구매는 수제간식으로만 사세요?
+P0 	: 네네 병원 간식이나 수제 간식이요
+P0 	: 병원간식도 토해서 수제만 줘요
+P1 	: 힉..병원간식도 토해요?ㅠ
+P1 	: 수제간식은 어디서 사세요?
+P0 	: 네네ㅠ 친구 집 근처에서 사요 간식집이 있는데 거기껀 잘 먹어요 소화도 잘하고
+P1 	: 아아~ 오프라인에서 구매하시는구나
+P0 	: 네네 맞아용 ㅋㅋ
+P0 	: &name3&는 자나요?
+P1 	: 주말 잘보내셨어요?
+	  
+	  주말 잘보내셨나요? 전 바쁘게 보내고 이제 여유가있네요
+P0 	: 네네 저도 당직이라 바삐 보냈어요
+P0 	: 츄석선물 다 구매하셨나요?
+P1 	: 몇개주문했어요~ 아 근데 언니집에 선물하려고 신라명과 마들렌?주문했는데 유통기한이 5일남짓이라 그냥집에서 먹어야겠어요
+P0 	: 와하
+P0 	: 마들렌 너무 좋을것같아요 홍차와 함께
+P1 	: 마들렌도 냉동보관해놨다가 해동해서 먹으면 될까요? 양이 넘 많으네요
+P0 	: 아아 냥동 보관 하셔도 될거같은데요?
+P0 	: 근데 퍼석해질것만 같아요ㅠㅠ

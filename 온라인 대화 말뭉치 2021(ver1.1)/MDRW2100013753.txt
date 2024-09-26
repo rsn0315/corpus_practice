@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013753
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 시간 날 때 가는 편이에요
+P1 	: 카페 좋아하시나요
+P0 	: 넹 저는 좋아해요
+P0 	: 주로 공부할 때 가는 편이에요
+P1 	: 가면 주로 뭐 드세요?
+P0 	: 잠 깨려고 아메리카노 자주 먹어요
+P1 	: 좋아하는 프랜차이즈 있으신가요
+P0 	: 넹 저는 이디야 자주 가요
+P1 	: 이디야 너무 좋죠
+P0 	: 이디야 쿠키 참 맛있어요
+P1 	: 맞아요
+P1 	: 거기 쿠키맛집이더라구요
+P0 	: 사실 그걸 먹으러가요
+P0 	: 커피는 핑계에요
+P1 	: 저는 거기 허니브레드도 좋아해요ㅎ
+P1 	: 약간 이디야는 디져트 맛집
+P0 	: 맞아요 이디야는 디저트가 맛있어요

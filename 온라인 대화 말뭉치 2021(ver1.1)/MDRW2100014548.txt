@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100014548
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 저녁 드셨나요?
+P1 	: 안녕하세요:)
+P1 	: 네:) 저는 집밥 먹었어요
+P1 	: &name1&님도 식사 하셨나요?
+P0 	: 저는 아직 안먹었는데 치킨 먹으려구요!
+P0 	: 반찬 뭐드셨나요?
+P1 	: 치킨은 언제나 옳죠ㅋㅋ
+P1 	: 개구리 반찬 먹었습니다
+P0 	: 하핳
+P0 	: 맛있는거 드셨나보네요!!!!
+P0 	: 배달 음식은 자주 드시나요?
+P1 	: 잘 안시켜먹는 편이었는데
+	  코로나 이후에는 자주 먹게 되네요ㅋ
+P1 	: 치킨 좋아하세요?
+P0 	: 네 엄청 좋아해요!
+P0 	: 치킨 좋아하시나요?
+P1 	: 그럼요ㅋㅋㅋㅋ
+P1 	: 최애치킨은 뭔가용
+P0 	: 저는 bhc 뿌링클이나 굽네 고추바사삭 좋아해요!
+P0 	: 무슨 치킨 좋아하세요?
+P1 	: 오 저는 bbq 황올 좋아해요
+P0 	: 오 황올도 후라이드 땡기는날 먹기 좋더라구요!!
+P0 	: 후라이드 좋아하시나봐요!
+P1 	: 네ㅋㅋ저는 후라이드파요
+P1 	: 양념파세요?
+P0 	: 저도 요즘엔 후라이드가 더 좋더라구요!!

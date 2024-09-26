@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100036054
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세료
+P1 	: 안녕하세요
+P1 	: 좋아하는 음식 있으세요?
+P0 	: 저는 피자 좋아해요.
+	  &name2&님은요?
+P1 	: 전 떡볶이요
+P1 	: 어떤 피자 좋아하세요?
+P0 	: 저는 포테이토 베이컨피자요!!ㅋㅋ
+P0 	: &name2&님은 좋아하는 떡볶이브랜드가 잇으세여?
+P1 	: 전 떡볶이는 다 좋아해요!
+P0 	: 오.. 로제 이런것도 드세여? 요즘 핫한 브랜드많던데
+P1 	: 네 로제는 신전이랑 달토끼에서만 먹어봤어요
+P1 	: &name1&님은 드셔보셨어요?
+P0 	: 오.. 저는 안먹어봤어요 ㅎㅎ
+	  달토끼 괜찮아요? 신전은 기본떡볶이만 먹어봤엇어요
+P1 	: 달토끼 투움바떡볶이인데 진짜 맛있어요 안에 있는 스파게티도 잘 어울리고 마늘칩토핑도 맛있어요
+P0 	: 오..... 맨날 지나치기만햇는데
+	  요즘 투움바 소스가 유행인가봐요
+P0 	: 궁금하네요
+P1 	: 일반 로제보다 좀 더 크림이 진한 맛이에요
+P1 	: 저녁 드셨나요?
+P0 	: 오 그렇군요. 크림맛이 더 진하다니 흥미로워졌어요
+	  소세지 포테이토 피자 먹엇어요.
+	  &name2&님은요?
+P1 	: 전 집에 있는 반찬이랑 밥 먹었어요

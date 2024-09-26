@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100012488
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인으로 주문한 물건 있나요?
+P1 	: 최근에 강아지 간식을 주문했어요
+P1 	: &name1&은요?
+P0 	: 저는 이번에 탈모완화샴푸 샀어요
+P1 	: 오오 효과가 있는 것 같아요?
+P0 	: 탈모완화를 목적으로 산건 아니였고 지성샴푸를 원했는데
+P0 	: 사다보니까.. 탈모안화샴푸로 적혀있었네요
+P1 	: 저도 지성두피라 궁금하네요
+P1 	: 기능성이면 더 좋지요 뭐ㅎ
+P0 	: 녹차실감 샵푸 지성샴푸를 추천드려요 미용실에서도 알려줬어요
+P0 	: 2~3번 펌핑으로 거품도 잘나오고 머리카락도 안빠지게 나오는거같아요
+P1 	: 미용실서 추천하는 샴푸라니 신뢰가네요
+P0 	: 미용실도 비슷한 제품들을 추천해주시더라고요
+P1 	: 무엇보다 거품 잘 나 좋네요
+P1 	: 간혹 기능성이라고 거품 박한게 있어서
+P0 	: 근데 강아지 간식은 온라인으로 사면 저렴한가요?
+P1 	: 네 좀더 저렴하기도 하고요
+P1 	: 무엇보다 오프라인은 종류가 너무 적어서요
+P1 	: 유통기한 짧은 수제간식은 구입하기 어렵기도 하고
+P0 	: 강아지 간식은 온라인 쇼핑이 더 편하겠어요
+P1 	: 맞아요 오프라인은 대형매장이라도 한계가 극명해요
+P0 	: 오프라인은 찾기 어려운거같고
+P1 	: 네네 사료 종류도 마찬가지고요

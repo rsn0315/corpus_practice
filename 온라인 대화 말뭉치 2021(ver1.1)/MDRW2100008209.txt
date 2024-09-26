@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008209
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 맛있는 자취요리 레시피 알고 있는 거 있나요?
+P1 	: 안녕하세요~ 자취는 안하지만 집에서 스파게티 해먹는걸 참 좋아해요!
+P0 	: 우와 주로 어떤 스파게티 드시나요?
+P1 	: 알리오올리오를 마늘이랑 페페론치노 가득 넣고 먹는거 좋아해요! 치킨스톡을 넣으면 더 맛있더라구요
+P1 	: &name1&님도 알리오올리오 좋아하시나요?
+P0 	: 와 알리오올리오 너무 맛있죠~
+P0 	: 저는 거기다가 새우나 소세지 넣어서 먹어요ㅎㅎ
+P1 	: 다른 재료넣으면 더 맛있죠 !
+P1 	: 점심은 뭐드셨나요?
+P0 	: 점심은 소면으로 비빔국수 먹었어요 &name2&님은요?
+P1 	: 비빔국수 맛있겠어요ㅜㅜ
+P1 	: 저는 잡채볶음밥 먹었어요~
+P0 	: 와 잡채 볶음밥이라니... 그거 명절 다음에나 먹는 거 아닌가요ㅠㅋㅋㅋㅋ
+P1 	: 제가 당면을 워낙 좋아해서 잡채도 좋아해요ㅎㅎ
+P1 	: &name1&님도 당면 좋아하세요?
+P0 	: 네 당연히 좋아하죠 탄수화물 최고야...!
+P1 	: 맞아요ㅎㅎ 떡볶이 시킬때도 항상 당면 추가해서 먹어요
+P1 	: 탄수화물 가득한 음식 너무 맛있어요..
+P0 	: ㅋㅋ이제 저는 납작당면이랑 분모자 없으면 못사는 사람이 되었다구요...ㅋㅋㅋ

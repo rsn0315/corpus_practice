@@ -1,0 +1,75 @@
+# FILE DATA
+ID : MDRW2100013762
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 여행 좋아하세요?
+P1 	: 좋아하죠!!!
+P1 	: 어떠세요?
+P0 	: 저도 좋아하죠
+P0 	: 사실 싫어하는 사람 없을 듯
+P0 	: 가장 최근 여행지?
+P1 	: 전 강릉이요ㅋㅋㅋ
+P1 	: 님은요?
+P0 	: 저는 국내는 제주도
+P0 	: 강릉 좋았나요?
+P1 	: 좋았어요ㅋㅋㅋ
+P1 	: 오제주도가고싶어요
+P0 	: 제주도 주로 카페만다셔서
+P0 	: 조금 아쉬웠어요
+P0 	: 강릉 시마크호텔 가봤었는데
+P0 	: 좋더라고요
+P1 	: 와우 거기비싸던데
+P1 	: 얼마였나요?
+P0 	: 회사 휴양시설로 등로되어있어서
+P0 	: 무료로 이용했어요
+P0 	: 시설 좋더라고요
+P1 	: 헐...
+P1 	: 대체어떤회산가요
+P1 	: 반값도아니고 휴양시설로?!!!!!!!
+P0 	: 그 호텔이 저희회사 계열사 소유였나 그래서
+P0 	: 무료이요 가능했었어요
+P0 	: 지금은 안되는걸로 알고있어요
+P1 	: 허얼 쩌네요
+P1 	: 저도 씨마크가보고싶은데
+P1 	: 넘 비싸고 예약도 빡세더라고요
+P0 	: 저도 한번 이용해본게 다라서
+P0 	: 그때 겨울이었는데
+P0 	: 눈이 많이내려서
+P0 	: 고생했던 기억이에요
+P1 	: 눈때문에요?? 호텔에있는데왜죠?!
+P0 	: 여기저기 돌아다녔었거든요

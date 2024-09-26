@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002845
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛있나요?
+P0 	: 흑임자폼이 올라가있거든요ㅎ
+P0 	: 되게맛있어요
+P0 	: 근데 재료가 소진인지.. 두번밖에 못 먹어봤는데..품절
+P1 	: 오~~품절이라니!!!
+P1 	: 엄청 맛있나봐요!!
+P0 	: 꼬숩고 맛있었는데
+P1 	: 으~~먹고싶네요!!
+P0 	: 정규메뉴로 나왔으면 좋겠어요~
+P1 	: 인기가 좋으면 정규메뉴가 될것 같아요
+P0 	: 진짜 나오면 좋겠어요~
+P1 	: 네~저도 조만간 가서 먹어볼게요
+P0 	: 오늘 저녁메뉴는 ?ㅎ
+P1 	: 저는 폭립이요~ㅎㅎ
+P0 	: 꺄~~~ 너무맛있겠어요
+P1 	: &name1&님은요?
+P0 	: 전 집밥요ㅡㅠㅠㅋㅋㄱ폭립은 요리로?아님 시판?

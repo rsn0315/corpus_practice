@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003955
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드시고오셨어요?
+P1 	: 지금 먹고 있어요. 
+	  짜장 대신 쿠우쿠우 왔어요
+P0 	: 오 스시 맛있겠요 저도곱창이 도착해서 먹는중이네요ㅎ
+P0 	: 맛나게 드시고 이따 톡주세요^^ 뷔페는 집중해서 맛날걸로 골라드셔야하니
+P1 	: 곱창 맛나게 드세요~ 다시 올게요!
+P0 	: 네 비싼 스시로 골라드세요^^
+P1 	: 피자 치킨 초밥에 음료까지 먹었더니 저녁은 안 먹어도 될 거 같이 배부르네요
+P0 	: 쿠우쿠우 아직 한번도 안가봤는데 괜찮아요?
+P1 	: 초밥이랑 샐러드 피자 치킨 다 나오니까 메뉴가 많은걸 좋아하심 쿠우쿠우 괜찮죠..
+	  퀄리티 있는 초밥을 원하심 초밥 하는 집이 나을 거에요.
+P0 	: 가본친구들도 괜찮다고는 하더라구요ㅎ
+P0 	: 여름이라 초밥먹기 꺼려셔서 안먹었는데 한번 가봐야겠네요
+P1 	: 전 묵은지 광어 초밥인가 맛있게 먹었어요.
+P0 	: 오 묵은지 광어초밥 맛있겠어요
+P0 	: 광어 우럭좋아하는데
+P1 	: 저녁은 뭐 드세요?
+P0 	: 점심을 늦게 먹었더니 이따먹어야될거같아요
+P0 	: 걍 라면이나 먹을까 싶기도해요
+P1 	: 전 아직도 배가 안꺼진거 같아요. 
+	  아이들도 저녁 안 먹는데요
+P0 	: 뷔페 드시고와서 배부르실듯ㅎ 과일만 드시고 저녁 패스하셔요^^

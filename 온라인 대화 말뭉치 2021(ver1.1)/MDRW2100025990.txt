@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100025990
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 뭐 드셨어요?
+P0 	: 점심은 마라탕 먹었어요
+P0 	: 점심 뭐드셨어요?
+P1 	: 오늘 라면에 햇반요!
+P1 	: 진매
+P1 	: ㅋㅋ
+P1 	: 혼자지내니 배달음식 시키기가 어려워요
+P0 	: 진매 맛있죠
+P0 	: 혼자 사시면 그럴 거 같아요...
+P0 	: 최소 금액 때문에 조금은 배달이 안 되니까...
+P1 	: 저녁은 뭐가 좋을까 고민중입니당
+P0 	: 저는 미역국이랑 먹으려고요
+P1 	: 우왕 맛있겠어요
+P1 	: 저는 3가지팩 만원짜리 반찬으로 때워야겠어요
+P0 	: 반찬 가게에서 사오시는 건가요?
+P1 	: 네 근처에 제주 킹마트라고 웃긴 이름의 마트가 있어서
+P1 	: 거기서 사와요
+P0 	: 주로 어떤 반찬 사오세요?
+P1 	: 흠 메추리알 장조림 일순위구요
+P1 	: 나머지는 랜덤이예여
+P0 	: 장조림 너무 맛있죠!

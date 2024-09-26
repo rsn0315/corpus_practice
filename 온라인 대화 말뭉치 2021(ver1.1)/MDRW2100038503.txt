@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038503
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요 백신 맞으셨나요
+P0 	: 네 백신 1차 맞았어요,
+P0 	: 백신 맞으셨어요?
+P1 	: 저도 1차까지는 맞았어요
+P0 	: 저두요 ㅋㅋ 뭐 맞으셨어요?
+P1 	: 화이자를 맞았아요 첫날엔 좀 아팠지만 지금은 쌩쌩하답니다
+P0 	: 아 그러시구나 ㅋㅋ 저도 화이자1차요
+P0 	: 2차는 언제세요?
+P1 	: 10월초중순이예요
+P0 	: 아 제가 먼저 맞았네요 ㅋㅋ 저는 9월 말이요 ㅋㅋ
+P0 	: 2차 긴장이 되네요 ㅋ
+P1 	: 딱 백신 한번에 끝났으면 좋겠는데 이번 코로나가 워낙 독해서 그건 안되겠죠
+P0 	: 맞아요 ㅠㅠㅠ 백신 한번에 맞고 끝냈으면 좋겠네요 ㅋㅋ
+P0 	: 그게 안되니 ㅠㅠ
+P1 	: 그냥 조금 아프고 건강해지길 바랄뿐입니다
+P0 	: 맞아요 ㅠㅠㅠ 코로나 빨리 없어졌으면 좋겠네요 ㅠㅠ
+P0 	: 덜 아프게 퓨ㅠㅠ

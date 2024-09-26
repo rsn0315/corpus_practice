@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 마트가면 주로 뭐 사시나요
+P1 	: 대형마트요
+P0 	: 저는 마트 주로 과일사러 자주가요~
+P0 	: 어느마트 자주가세요??
+P1 	: 전 이마트 근처에 있어서 이마트가요
+P1 	: 어디마트 자주가세요?
+P0 	: 오오 저두요! 집앞이 이마트에요
+P1 	: 역시 이마트가 지점이 많긴해요
+P1 	: 요즘 이마트에 과일 뭐가 맛있던가요
+P0 	: 맞아요~ 최근에는 복숭아 맛있었어요! 특히 황도요!!
+P1 	: 황도나올 때 됐구나
+P1 	: 황도 너무 맛있어요ㅎㅎ
+P0 	: 음 제가알기론 복숭아 지금 끝물이긴해요
+P0 	: 달고 맛났어요 ㅎㅎ
+P1 	: 아앗.. 끝물이구나 열심히 사먹어야겠네요
+P1 	: 보통 2개입 들은거 사시나요
+P0 	: ㅋㅋㅋ 기회되면 먹으면되죠뭐~ㅎㅎ
+P0 	: 아뇨 4개씩들어있는거 샀어요~
+P1 	: 아무래도 2개는 아쉬우니까
+P1 	: 4개짜리가 좋겠어요
+P0 	: 맞아요ㅋㅋ 그리구 가족도 있으니깐요ㅎㅎ

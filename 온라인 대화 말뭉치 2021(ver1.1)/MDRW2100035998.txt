@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 계획중이신 여행이 있으신가요?
+P0 	: 아니요 코로나 없어지면 해외로 나가보고 싶어요~
+P0 	: 비행기 타고 싶네요ㅠ
+P0 	: 여행 계획 있으세요?
+P1 	: 아저두요 ㅠㅠ
+P1 	: 저는 코로나풀리면 호주나 뉴질랜드 이쪽으로 가보고싶어요!
+P0 	: 정말 코로나 때문에 너무 속상하네요ㅠ
+P1 	: 그러니깐말이에여 ㅠㅠ
+P1 	: 혹시 백신 맞으셧나여??
+P0 	: 저 솔직히 안맞고싶었는데..자의반 타의반으로 화이자 맞았어요ㅠ
+P1 	: 아정말요? ㅠ 어쩔수없죠 지금보면 일찍맞는게 그냥 더 이득이에요 ㅋㅋ
+P0 	: 1차맞은지.일주일.지났는데 피로감이 계속 있어요~
+P0 	: 예약하셨어요??
+P1 	: 아하그러시구나! 아 저는 2차까지 다맞았어요ㅎㅎ
+P0 	: 빠르시네요 ㅋㅋㅋㅋㅋ
+P0 	: 교차접종 하셨어요??
+P1 	: 아뇨~ 12차 다 화이자맞앗어용 ㅋㅋ
+P0 	: 피로감 없었어요??
+P0 	: 전 2차가 걱정인데;;
+P1 	: 아하~ 저는 운좋게도 아무런부작용도없엇어요!!
+P1 	: 1차 잘 지나가셧으니 2차도 잘지나가시길 기도할게여/
+P0 	: 저도 그랬음 좋겠네요~

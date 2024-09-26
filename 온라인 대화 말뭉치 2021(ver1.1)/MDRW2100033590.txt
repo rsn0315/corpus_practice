@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 공연 있으세요?
+P1 	: 저는 가수나 아이돌 공연 좋아해오
+P0 	: 오 누구 좋아하세요?
+P1 	: 방탄소년단이랑 청하요!
+P0 	: 오 그럼 콘서트도 가보셨나요?
+P1 	: 청하는 시상식에서 많이 봤고 방탄은 콘서트 가봤어요
+P0 	: 방탄콘 가기 힘들다는데
+P0 	: 가보셨군요ㅋㅋㅋㅋㅋㅋ
+P1 	: 티켓팅 정말 힘들었어요ㅠㅠ
+P0 	: 성공하고 가신게 신기해요ㅋㅋㅋㅋㅋㅋ
+P1 	: 저 성공하고 친구들도 다 놀라더라구오
+P0 	: 그럴 거 같아요 ㅋㅋ ㅋㅋㅋ
+P0 	: 뮤지컬도 좋아하세요?
+P1 	: 네! 다만 자리별로 가격이 천차만별이라 많이 보진 못 했어요

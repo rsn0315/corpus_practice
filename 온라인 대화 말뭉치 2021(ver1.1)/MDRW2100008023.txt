@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콜라보제품 사보신적있으세요?
+P1 	: 아직 한개도 사본적 없어요
+P0 	: 아 곰표팝콘같은거 귀엽더라구요
+P1 	: 곰표 팝콘도 있군요
+P1 	: 포장지가 상당히 귀엽네요
+P1 	: 다음번에 나가면 사봐야겠어요
+P0 	: 네 재밌어서 사봤는데 맛도 있더라구요ㅎㅎ
+P1 	: 다른 콜라보 제품 추천해주실 수 있나요
+P0 	: 맥주도 사실 좋아하는데 그런건 추천하기 그렇구ㅎㅎ
+P1 	: 제가 술을 못하긴해요... ㅎ
+P0 	: 박카스 젤리같은것도 귀엽던데ㅎㅎ
+P1 	: 박카스가 맛있으니 젤리도 맛있겠네요
+P0 	: 네 아이디어가 귀엽더라구요ㅎㅎ
+P1 	: 그러고보니 젤리 콜라보가 많네요
+P1 	: 죠스바랑 수박바도 젤리 있었는데
+P0 	: 맞아요ㅎㅎ 아이스크림도 그렇고 소소하게 많네요

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100047320
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이제 곧 있음 점심인데
+	  메뉴 정하셨나요?
+P1 	: 아뇨 ㅠㅠ &name1&님은 뭘 드실건가요?!!
+P0 	: 저도 아직 못 정했어요ㅠㅋ
+P0 	: &name2&님 치킨 좋아하세요?
+P1 	: 네!! 당모치!!! ㅎㅎㅎ
+P1 	: 좋아하는 치킨 브랜드 있으신가요?
+P0 	: 당모치요? ㅋㅋ 그게뭐지
+P0 	: 저는 비비큐 황금올리브요{emoji:♡}
+P1 	: 당연히 모든 치킨은 옳다!!ㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋㅋ 정답{emoji:♡}
+P1 	: 후라이드는 진짜 황올이 짱이죠 ㅠㅠ 바삭하고 고소하고
+P0 	: 네ㅋㅋㅋ
+P0 	: 후라이드파세용?ㅋㅋ
+P1 	: 근데 전 간장파요!! ㅋㅋㅋ
+P1 	: 그치만 후라이드는 황올이죠!
+P0 	: 아 간장파셨군요ㅋㅋ
+P0 	: 매운거 좋아하심
+	  자담 맵슐랭도 추천드려요ㅋㅋ
+P1 	: 맵슐랭도 간장베이스 매운치킨인가요?
+P1 	: 저희 동네 자담은 너무 맛없더라구요 ㅠㅠ흑흑
+P0 	: 간장베이스는 아닌데
+	  맵찔인데도 좋아해서요ㅋㅋ
+P0 	: 이게 지점마다 좀 다르긴 하죠 ㅜㅜㅋ

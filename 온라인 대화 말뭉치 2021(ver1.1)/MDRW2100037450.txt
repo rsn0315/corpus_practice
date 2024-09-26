@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100037450
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 최근에 구매한 물건 있나요?
+P1 	: 저는 전공책이요
+P1 	: &name1&님은요?
+P0 	: 곧 개강이군요~ 저는 전기모기채 구매했어요.
+P1 	: 어디꺼요??
+P0 	: 아이리버 제품이네요. 충전식이라 좋더라구요.
+P1 	: 효과는 좋은가요?
+P0 	: 네. 큰 벌레도 작은 벌레도 잘 잡더라구요. 만족스런 소비였어요.
+P1 	: 그렇다면 구매하시고 싶으신 물건이 있으신가요?
+P0 	: 저는 스마트폰 거치대를 사고 싶어요.
+P0 	: 누워서 유튜브 볼 때 딱일 것 같더라구요.
+P0 	: &name2&님은요?
+P1 	: 저는 태블릿이요
+P0 	: 태블릿 어떤 제품 사고 싶으셨어요?
+P1 	: 저는 탭이요 제가 좋은 기능을 원하지는 않아서 싼거를 원하거든요
+P0 	: 저도 영상 보는 용으로만 사용해서 갤탭 구매했어요.
+P1 	: 좋으신가요?
+P0 	: 괜찮더라구요.
+P1 	: 그렇군요

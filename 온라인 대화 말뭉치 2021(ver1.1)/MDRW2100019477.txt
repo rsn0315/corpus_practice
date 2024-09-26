@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019477
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장 업무 스트레스 중 가장 큰건 뭐라고 생각하세요?
+P0 	: 전 인간관계여
+P1 	: 인간관계 어렵죠..ㅠ
+P0 	: 답도없고ㅠ
+P1 	: 맞아요
+P1 	: 쉽게 어긋나고ㅜ
+P0 	: 사람이 젤 힘들더라구요
+P1 	: 맞아요 제일 신경쓸게 많아요
+P0 	: 아르바이트는 해보셨나요?
+P1 	: 넵 조금씩 해봤어요ㅋㅋ
+P0 	: 전 피자집ㅎ
+P1 	: 오오 피자집 힘들다던데 어떠셨어요?
+P0 	: 동료들이랑 노는 재미로 했던거같아여

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100043511
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요
+P1 	: 네 저는 좋아합니다 ㅎㅎ 여행 좋아하시나요?
+P0 	: 네 저도좋아해요 ㅎㅎㅎ 어디어디다니셨어요
+P1 	: 음 최근에 국내 여행은 남해.통영.제주 다녀왔습니다!
+P1 	: ㅎㅎ 다 바닷가네요
+P1 	: 여행 가본 곳중에 기억에 남는곳이 있으실까요?
+P0 	: 저도 그3군데넘좋아해여
+P0 	: 국내는 제주도 젤 기억에남아요 바다넘좋아해서
+P1 	: 아아 ㅎㅎ저두요! 제주 어디어디 가셨어요?
+P0 	: 혼자갔을땐 우도랑 서부동부 갔었는데 우도넘기억나요
+P0 	: &name2&님은요
+P1 	: 오 저도 우도 다시 가보고싶었는데 ㅎㅎ우도 어떤점이 좋으셨어요?
+P1 	: 저는 이번에는..겉할기 식으로 제주 한바퀴 다 돌은 것 같아요 ㅎㅎㅎ 그 중에서 기억에 제일 남은건 돌고래투어네요
+P0 	: 돌고래 배타고 투어하셨어요?
+P0 	: 전 우도 서빈백사 넘 좋았고 보트투어도 재밌었어요 ㅎㅎ
+P1 	: 오 ㅠㅠ너무 좋았겠어요..
+P1 	: 부럽습니당
+P0 	: 네 제주도갈때마다 보트투어하는데 진심 넘재밌어요 ㅋㅋㅋ
+P0 	: 우도에서타는게 젤잼나여
+P1 	: 네 요트타고 한시간 반 정도 다녀온것같아욯ㅎㅎ
+P1 	: 오오
+P1 	: 저도 다음엔 꼭 가봐야겠어요
+P0 	: 맨뒷자리 서서타야해요
+P0 	: ㅋㅋㅋㅋ바닷물싸대기맞으면서 슝슝

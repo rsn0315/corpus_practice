@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100042115
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 양식돈까스는 왕돈까스류 말하시는거죠..?
+P0 	: 네 소스 부어서 주는거요!
+P1 	: 저는 철판치즈 돈까스 이런것도 좋아해요..
+P0 	: 아 철판치즈돈까스 맛있겠네요!
+P1 	: 돈까스랑 치즈 너무 잘어울려요..
+P0 	: 저는 고구마돈까스도 좋아해요
+P1 	: 고구마 돈까스 달콤한건가요?
+P0 	: 고구마 무스 올라간거요!!
+P1 	: 음 맛있겠어요 이러니 저러니해도 돈까스는 다 맛있는..
+P0 	: 네네 밥도둑이에욬ㅋㅋ
+P1 	: 돈까스랑 같이먹는 장국도 맛있어요
+P0 	: 쫄면도요
+P1 	: 쫄면요?

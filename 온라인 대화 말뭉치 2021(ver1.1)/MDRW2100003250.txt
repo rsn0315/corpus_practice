@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100003250
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 학교 다니시나요?
+P1 	: 네 대학다녀요
+P1 	: &name1&님은요?
+P0 	: 오 저는 졸업하고 일하고 있어요
+P0 	: 요새 수강신청 하더라구요
+P1 	: 네 수강신청 이번주에 했어요
+P0 	: 우와 장바구니 식으로 되어있어요?
+P0 	: 저희학굔 아니었어서 하나하나 눌렀었어요
+P1 	: 저희도 누르는 식이었어요
+P1 	: 약간 실패했어요
+P0 	: 저도 매번 원하던 과목 완벽하게 성공한 적은 없는거같아요
+P0 	: 어려웠어요
+P1 	: 이번에 빠르게 눌렀는데도
+P1 	: 원하는 교수님은 다 나갔더라고요
+P0 	: 인기많은 수업은 진짜 힘들더라구요ㅠㅠ
+P0 	: 같은 등록금 내고 다니는데 듣고싶은 과목을 못듣고ㅠㅠ
+P1 	: 그러니까요ㅜㅜ
+P1 	: 그나마 원하는 시간은 골랐어요
+P0 	: 우와 다행이에요
+P0 	: 공강도 있어요?
+P1 	: 공강 만들기 싫어서 공강 거의 없게 계획했어요
+P1 	: 다행히 시간은 다 성공해서 공강 거의 없어요
+P0 	: 와 좋네요!
+P0 	: 저 예전에 수강신청 실패해서 과제 진짜 많은 과목 걸렸었는데
+P0 	: 너무 힘들었어요

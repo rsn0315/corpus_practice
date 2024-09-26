@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 네 당근 이용합니다^^
+P0 	: 저도 당근
+P1 	: 최근에 무엇을 거래해보셨나요..
+P0 	: 공기청정기요
+P1 	: 와 공청기 요즘 필수템이지요
+P1 	: 전 제습기를 팔고싶은데ㅠ
+P0 	: 아직 써야하는데
+P1 	: 그렇죠? 근데 수요 있을 때 팔려고요ㅋㅋ
+P0 	: 하긴 한철이라
+P1 	: 오늘은 무척 습하네요. 당근에 사기꾼도 많대요.
+P0 	: 동네에도 그러네요
+P1 	: 네 막 아무나 걸리라는 심보
+P0 	: 너무하죠

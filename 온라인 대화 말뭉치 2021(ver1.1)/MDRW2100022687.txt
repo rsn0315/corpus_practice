@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022687
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 도서앱 괜찮더라
+P0 	: 그쵸?
+P1 	: 니덕에 엄마라 아빠가 집에서 책을 볼 수 있구나
+P0 	: ㅎㅎ 엄빠가 좋으시다면 저도 좋아요
+P1 	: 요즘에 그걸로 이것저것 보고 있어
+P0 	: 오.. 잘 활용하시는군요
+P1 	: 그럼
+P0 	: 전자책이 어색하진 않았나요?
+P0 	: 금방 익숙해졌나요?
+P0 	: 어떠서요?
+P0 	: 아빠가 오셔야 직접 확인할텐데요
+P1 	: 그래.. 잘 된다
+P1 	: 오늘 퇴원해서 보니 구피 잘 돌봤더구나
+P0 	: 그럼요 아빠 부탁이잖아요
+P1 	: 울딸이 엄마 아빠를 위해 이것저것을 잘 하는구나
+P1 	: 덕분에 도서관을 안가도 집에서 편하게 책을 볼 수 있어서 좋다
+P0 	: 다행이네요
+P1 	: 그래.. 앞으로도 유용한 앱 있으면 알려주렴
+P0 	: 네 좋은 책 많이 보세요

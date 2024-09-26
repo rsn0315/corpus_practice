@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012598
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 내일 싫은 직장에 프로그램이 있어 벌써 스트레스네요...
+P0 	: 음. 그 시간에 업무 스트레스를 받느니
+	  그냥 폰질이나..
+P1 	: 그럴수 없는 소수 프로그램입니다
+P0 	: 엥..; 그럼 속으로 숫자세세요.ㅎ
+	  속으로 직장사람 흉보면 시간이 금방 갈수도.
+P1 	: 제가 말도 계속 해야해요
+P1 	: 귀도 입도 열어야 하는.고통의.시간
+P0 	: 직장에서의 모든 스트레스는 급여날 해소되는 것으로..
+P1 	: 그러기엔 너무나 작고소중하다
+P0 	: 아르바이트하며 구직활동하는 사람들을 생각하면 잠깐은 감사함을 느끼게 되지요.
+P1 	: 그쵸... 편히 살고 있어요 참
+P0 	: 우리가 같은 직장에서 만났다면 재밌었겠다 싶어요.
+	  일 잘하는 님에게 업무도 배우고
+P1 	: 제가요...? 저는 뺑끼부리는 스타일입니다만.....
+P0 	: 직장에서 스펙 좀 쌓으셨나요?
+P1 	: 그냥 안정은 찾은 것 같아요..^^ 현 직장 전에 다른 일 해보셨나요?

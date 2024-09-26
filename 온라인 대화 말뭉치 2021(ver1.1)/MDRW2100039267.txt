@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100039267
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&님 먹는 거 좋아하세요?!
+P1 	: 네!
+P1 	: &name1&님은요?
+P0 	: 저도요! &name2&님 뭐 좋아하셔요!
+P1 	: 저는 치킨이요
+P0 	: 헛 어떤 브랜드요?
+P0 	: 전 푸라닭 좋아해요!
+P1 	: 저는 후참이랑 bhc 좋아해요!
+P1 	: 푸라닭 메뉴 중에서 어떤 걸 가장 좋아하시나요?
+P0 	: 저는 블랙 알리오 제일 좋아해요!
+P0 	: 후참은 어떤 브랜드인가요!? 저희 집 주변에서는 못 본 거 같네요..!!
+P1 	: 후참은 후라이드 참 잘하는 집이라는 브랜드예요!
+P1 	: 집근처라 포장할인이 좋아서 가끔가요
+P0 	: 헐헐 첨 들어보는데 후라이드가 짱 맛난 집인가요!?!?!
+P1 	: 저는 항상 포장해가서 잘 모르겠지만 따끈해서 맛있는거 같아요! 그리구 기본적으로 치킨이 살짝 매콤해요.
+P0 	: 허억 저 약간 심한 맵찔인데...! 매콤 지수가 큰..가요?!?!?!?!?@
+P0 	: 약간 헉헉 할만큼인?!
+P1 	: 아뇨! 사람마다 좀 다르긴 할거가튼데 덜 심심할정도로 매워요. 저두 맵찔이 ㅎㅎ
+P0 	: 헛 그럼 다행이구만요!!!

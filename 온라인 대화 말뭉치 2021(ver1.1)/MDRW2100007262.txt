@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007262
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세여
+P1 	: 먹는거 좋아하시나여
+P0 	: 너~무 좋아합니다. &name2&님도 좋아하시나요?
+P1 	: 저는 입이 짧아서 즐기진 않아요
+P1 	: 뭐 좋아하세요? ㅋㅋㅋ
+P0 	: 커피를 좋아해요. &name2&님은 그래도 좋아하는 음식이ㅜ없으새요?
+P1 	: 전 요즘 담백한 음식이 좋더라구요
+P1 	: 담백한 음식 추천해 주세요! ㅋㅋ
+P0 	: 칼국수 어떠신가요?? 칼국수 너무 맛있어요!
+P1 	: 칼국수~ 좋죠
+P1 	: 좋긴한데 맛집을 찾긴 어렵더라구요ㅠ
+P0 	: 등촌칼국수 방문해보셨나요??
+P1 	: 아뇨 맛집인가여?
+P0 	: 네! 검색해봐도 충붕히 나오니 꼭 방문해보세요!
+P1 	: ㅋㅋㅋㅋ네 먹어볼게요 등촌칼국수
+P0 	: 다른 맛집 &name2&님도 추천해주세요!!
+P1 	: 저는 그럼 쌀국수집 레호이 추천해드릴께요!!
+P1 	: 진짜 맛있어요
+P0 	: 어디에 있나요?? 쌀국수집 미분당도 맛있습니담ㅁ
+P1 	: 서울에 있는데 딱 2군데있어요 신사랑 이태원쪽!

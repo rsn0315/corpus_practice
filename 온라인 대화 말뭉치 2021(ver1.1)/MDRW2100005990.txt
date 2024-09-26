@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005990
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콘서트 가보셨나요
+P1 	: 네 가봤어요!!
+P1 	: 콘서트 가보셨나요
+P0 	: 네 기억에 남는 콘서트는요?
+P1 	: 엑소콘서트요 ㅋㅋㅋ
+P0 	: 엑소 팬이신가요?
+P1 	: 옛날에요ㅠㅋㅋㅋ
+P0 	: 공연은 어떠셨나요?
+P1 	: 사운드도 좋고 분위기도 좋았습니다 ㅋㅋ
+P0 	: 기억에 남으실듯요... 저는 김동률 콘서트요 아시나요?
+P1 	: 헐헐 알죠ㅠ 티켓팅 잘하시나봐요 !!
+P0 	: 와이프가 성공해서..ㅎㅎ
+P1 	: 대박대박 ㅋㅋㅋ너무 로맨틱하고 좋았을것같아요ㅠ
+P0 	: 네 와이프가 팬인데 같이 다니며 저도 팬이됐어요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002705
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 동물 안키울거다
+P0 	: 그래그래 &name3& 생각난다
+P1 	: 그렇군
+P0 	: 좀 더 잘 해줄걸 ㅜㅜ
+P1 	: &name4&한테 잘 해줘
+P0 	: 그래야지
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 그러려고 일하는건데 ㅋ ㅋ
+P1 	: 추르나 많이 줘
+P0 	: 추르 주고 양치질 해야해
+P1 	: 그래 니카 시켜 ㅋㅋㅋㅋㅋ
+P0 	: 여튼 &name3&랑 &name5&이랑 보고싶다 ㅠㅠ
+P1 	: 나중에 죽어서 볼거야
+P0 	: 그래야할텐데
+P1 	: ㅋㅋㅋ 마중나올거
+P0 	: 웅 놀면서 기다리고 있음 좋겄다
+P1 	: 잘 놀고 있을거야
+P0 	: &name3&&name5&사랑해 ㅠㅠ
+P1 	: &name4&한테 잘 하렴
+P0 	: 웅 당근

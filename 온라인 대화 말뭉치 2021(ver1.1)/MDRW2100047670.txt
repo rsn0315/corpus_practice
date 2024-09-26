@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047670
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 저녁 어떤거 드셨나요?
+P0 	: 저는 짜글이요
+P0 	: &name2&님은 뭐 드셨나요?
+P1 	: 저는 짜파구리 먹었어용
+P1 	: 짜글이 돼지고기 넣고 끓이셨나요?
+P0 	: 저는 배달시켜 먹었어요 짜파구리 잘 만드시나요?
+P1 	: 언니가 만들어줬어요 ..ㅎㅎ!
+P1 	: 짜파구리 좋아하시나요?
+P0 	: 네 근데 물조절 하는게 어렵더라고요
+P1 	: 오오 맞아요 .. 근데 짜파게티가 뭔가 옛날보다 맛이 좀 없어진 것 같아요...
+P0 	: 그러니까요 뭔가 명확하게 단정짓지는 못하겠지만 맛이 달라진느낌? 그래서 너구리스프가 맛을 더해주는 것 같기도 해요
+P1 	: 그러니까요.. 짜파게티 끌려서 먹을때 단독으로 먹으면 2% 부족한 느낌이 들어요 ...ㅠ
+P0 	: 맞아요 그래서 짜파구리가 정말 좋은 것 같아요
+P1 	: 그쵸 ..! 불닭게티도 맛있어요 짜파게티는 섞어먹어야 맛있더러구요
+P0 	: 그렇죠 뭔가 섞어서 더 자극적으로 만들어야 더 맛있달까?

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016235
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 왜이렇게 답장이 늦었나요 기다렸잖아요
+P1 	: ㅋㅋㅋㅋㅋ죄송해요 다른거하고있어서
+P0 	: 딴거 하지말고 제게 집중하세요
+P1 	: 집착이 심하네요
+P1 	: 연애관이 그러신가봐여
+P0 	: 잘 아시는군요
+P0 	: 이런 연애를 할 겁니다
+P1 	: 별로 맞추고 싶지 않았네요
+P0 	: 하지만 맞추셨네요
+P0 	: 마음이 잘 맞아요
+P1 	: 뜬금없지만
+P1 	: 결혼은 하고싶으세요
+P0 	: 지금은 딱히 생각이 없고 나중에 햄스터를 키우면 귀엽지 않을까요
+P1 	: 네 키우세요 귀엽겠네요
+P0 	: 왜 이렇게 제 햄스터에 성의가 없죠
+P0 	: &name2&님은 결혼 생각 있나요
+P1 	: 별로 없어요 혼자 돈 많이벌고싶네요

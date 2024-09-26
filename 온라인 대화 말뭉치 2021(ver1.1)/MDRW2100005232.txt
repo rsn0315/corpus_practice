@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100005232
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 일은 안 힘드나
+P1 	: 요즘 바쁜일 없어서 조금 괜찮아요
+P0 	: 저는 휴가가 이제 끝나요
+P0 	: 일하기싫네요
+P1 	: 저두 출근하기 싫어요ㅠㅠ
+P0 	: 출근은 재미없지요
+P1 	: 네 내일 출근하는 날이네요
+P0 	: 우울합니다ㅜ
+P1 	: 비오는 날 일하니 싫네욤
+P0 	: 음 태풍 온다더니 금방갔네요
+P0 	: 부산은 물난리라던데요
+P1 	: 아하.. 업무 스트레스가 많겠네요
+P0 	: 그러게요 날씨도 좋아야 일도 잘 될텐데요
+P1 	: 가을 장마래요ㅠㅠ
+P0 	: 비오니까 습해서 일이 더 안되네요
+P1 	: 그래서 일하기 힘들어욤
+P0 	: 그래도 힘내서 일해야죠!
+P0 	: 일이 집중이 안되네요

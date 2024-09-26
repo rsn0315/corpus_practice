@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100029936
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 흐리죠?
+P1 	: 그러게요..요새 비가 자주 와서 해 보기가 어렵네요
+P0 	: 지겹네요
+P1 	: 그래도 내일은 비는 안오더라구요ㅋㅋ
+P0 	: 그른가요
+P1 	: 내일 비도 안오고 주말인데 어디 가시나요?
+P0 	: 미정이여
+P1 	: 요새 코로나 때문에 어디 여행가기도 좀 그렇긴 하더라구요ㅜ
+P0 	: 거리두기때문에
+P1 	: 맞아요...언제쯤 나아질런지ㅠ오늘 비와서 날씨가 엄청 선선하네요
+P0 	: 창문닫고자야죠
+P1 	: 창문은 엄청 더울때빼고 항상 닫고 잤는데 이젠 이불 덮고 자야할 것 같네요ㅋㅋ
+P0 	: 추위 많이 타시나봐요

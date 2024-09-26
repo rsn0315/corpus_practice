@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100032818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤음식인지 맞춰져?
+P0 	: 아니 더 물어봐야 알겠어
+P0 	: 멕시코에도 비슷한 음식이 있다구?
+P1 	: 응 있었던것같아
+P1 	: 아닌가
+P1 	: 퓨전으로 먹었어
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 궁금한걸
+P0 	: 쌀이 들어가?
+P1 	: 안들어가
+P0 	: 그래??? 빵도 쌀도 면도 아니라니
+P1 	: 내가 이러니까 잘못 말을 해줬나 싶을정도로
+P1 	: 쉬운음식이야
+P0 	: 이런 정답 말하지 말아봐 내가 맞춰볼래
+P0 	: 밀가루 들어가?
+P1 	: 밀가루 말고 다른가루가 들어갈것같아
+P0 	: 뭐지 그러면 전분이 들어가?
+P1 	: 전분이 들어가는 곳도 있겠다
+P1 	: 대부분 들어갈지도
+P0 	: 고기가 들어가?
+P1 	: 응 고기가 들어가

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100006174
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나여
+P1 	: 네 좋아합니다
+P0 	: 기억에남는곳잇으신가용
+P1 	: 신행으로 간 몰디브요
+P0 	: 아ㅜㅜ
+P0 	: 저는 신행 미루고잇어요 ㅜㅜ
+P0 	: 멀리갈수잇을 그날에 갈꺼에여
+P1 	: 신행으로 가고싶으셨던 곳 있나요?
+P0 	: 축구보러
+P0 	: 유럽가기로햇어여
+P0 	: 전에 유럽여행갓을때 축구보러 못갓거등요ㅎㅎ
+P1 	: 영국?스페인?어디요?ㅎㅎ
+P0 	: 그 두곳 입니다
+P0 	: ㅎㅎㅎㅎ
+P0 	: 신행 회사에서 2주정도 갈수잇어서
+P0 	: 갈수잇는날까지 존버할꺼에여ㅠㅠ
+P1 	: 꼭 가실 수 있길요 
+	  또 가고싶은 여행지 있나요
+P0 	: 에휴 멀리라면 다 좋아요 ㅜ
+P0 	: 이제 국내여행은 그만하고싶어요ㅜ
+P0 	: 최근에 여행 다녀오셧나욤
+P1 	: 네 부산.경주 다녀왔어요
+P0 	: 좋으셧나용?
+P1 	: 네 둘은 여행지로 여러번가도 항상 좋네요

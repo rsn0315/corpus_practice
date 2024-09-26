@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043870
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 약간 호박고구마!!! 이런 느낌으로 빡쳤음
+P0 	: 곱창 과자 먹어보고 이써
+P1 	: 어때?
+P0 	: 곱창맛은 모르겠고
+P0 	: 그릴에 구운 소시지 향 나
+P1 	: 소세지도 원래 내장으로 만들긴 하는데....ㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 역시 곱창은 찐으로 먹어야함
+P1 	: 막창이지만 &name3&이가 추천데 맛있더라
+P0 	: 어디? 저번에 갔던데?
+P1 	: &address&동에 있는 데
+P0 	: 머르겠다. 또 가야겠눼ㅋㅋㅋㅋ
+P1 	: 거기서 꾸워줘서 바삭함
+P0 	: 맛있겠당...

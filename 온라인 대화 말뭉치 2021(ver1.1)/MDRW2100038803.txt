@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038803
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집에서 볼 수 있으니까 간단한 간식과 분위기 좋게 하고 보면 재밌을거 같아요
+P1 	: 집에서 팝콘 먹으면서...ㅎㅎ
+P1 	: 밖에서 사먹는 팝콘이 훨씬 싸서 좋아요
+P0 	: 팝콘도 좋죠ㅎㅎ
+P0 	: 팝콘하니 영화 생각나네요
+P1 	: 팝콘 영화는 공식이죠
+P0 	: 맞아요! 영화는 즐겨 보시나요?
+P1 	: 자주 봐요
+P0 	: 오 최근에는 어떤 영화보셨어요?
+P1 	: 블랙 위도우 봤어요ㅎㅎ &name1&님은요?
+P0 	: 저는 모가디슈요
+P1 	: 모가디슈 재밌나요?
+P0 	: 네 재밌게 봤어요ㅎㅎ
+P0 	: 아직 안 보셨나요?
+P1 	: 안봤어요ㅠ
+P0 	: 한번쯤 보셔도 괜찮을거같아요 
+	  기회될때 나중에 보시면 되죠ㅎㅎ
+P1 	: 나중에 꼭 보겠습니다

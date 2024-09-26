@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043315
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 수입이야? 뭘 들어와
+P0 	: 다른나라 요리 그런 느낌은 아닌데 해외 케이에프씨에서 팔았나봐요 그걸
+P1 	: 반응 좋으니까 들여왔나보네
+P0 	: 그 그말도 맞는데 그게 아니고 ㅋㅋㅋ 어떤 사람이 해외에 나갔다가 너무 맛있어서
+P0 	: 맨날 본사에 글올렸대요
+P1 	: 그사람 소원성취했네
+P0 	: 그걸 인터넷에 올렸는데 그게 화제가 돼서 출시하기로 했다나봐요
+P1 	: 잘됐다 그래도 잘팔리는거같으니까
+P0 	: 그쵸 ㅋㅋㅋ 소원성취하고 맛있는것도 가까운데에서 먹고
+P1 	: 그거 유명해져서 다른곳에서도 팔게됐으니까
+P0 	: 맞아요 그래서 살 많이 없는 부위도 유행타기 시작한거같아요
+P1 	: 네네치킨인가 페리카나에서도 꼬들목 나왔더라
+P0 	: 목살 야들야들하지 않나? 어떻게 꼬들목이지
+P1 	: 그러게 연골까지 넣어서 튀기나 연골 맛있긴 한데
+P0 	: 물렁뼈 먹다가 이빨 나가거든요 ㅋㅋㅋ 조심하세요

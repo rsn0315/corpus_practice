@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100035674
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 저녁 식사 하셨나요!
+P0 	: 네 저녁 드셨나요?
+P1 	: 네 전 닭고기에 야채 곁들여서 구워먹었답니다ㅎㅎ
+P1 	: &name1&님은 어떤 걸 드셨나요?
+P0 	: 전 떡볶이 먹었어요
+P0 	: 직접 만들어드셨나요?
+P1 	: 닭 한마리를 사서 손질한 건 아니고 닭안심만 따로 나오는 걸 사서 구워먹는데 엄청 간편하더라구요
+P1 	: 떡볶이는 만들어드셨나요?
+P0 	: 저는 냉동된거 해동해서 먹었어요
+P0 	: 좋아하시는 음식 있으신가요?
+P1 	: 요즘은 굴소스볶음밥이 그렇게 맛있더라구요
+P1 	: 가장 좋아하는 음식 어떤 건가요?
+P0 	: 저는 떡볶이요
+P1 	: ㅋㅋㅌㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 젤 좋아하시는 거 드셨군요
+P1 	: 매운 걸 좋아하시나요?
+P0 	: 매운거 좋아는 하는데 잘 못먹어요
+	  &name2&님은요?
+P1 	: 매운걸 좋아하고 잘 먹기도 하는데, 늘 먹고 나서 돈고의 심판을 받아요
+P0 	: 앗!!그렇군요
+P0 	: 별로 야채 별로 안좋아해요

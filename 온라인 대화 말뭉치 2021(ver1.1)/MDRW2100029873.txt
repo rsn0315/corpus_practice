@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100029873
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하이&name2&
+P0 	: 아임 &name1&
+P1 	: &name1&이신데요??
+P0 	: 아..네...
+P0 	: 연애와 결혼에대해 토킹어바웃 해봅시다
+P1 	: 결혼하셨나요?
+P0 	: 안했습니다
+P0 	: 님은여
+P1 	: 저도 아직요ㅎ
+P1 	: 만나는 분은 있나요?
+P0 	: 네 있어요 몇년 됬습니다
+P0 	: 결혼은 잘모르겠네요
+P1 	: 그럼 왜 만나시는지...
+P1 	: 전 미래가 그려지지않으면 안만났거든요
+P1 	: 그래서그런지 텀이 기네요ㅎ
+P0 	: 만나봐야 미래가 그려지는지 아니까요?
+P0 	: 시도를해봐야 결과와 변수를 안다고 생각해서요
+P1 	: 그런건 만나기전에 얘기하다보면 어느정도 보이지 않나요??
+P1 	: 가치관이라던지
+P1 	: 음
+P0 	: 그게 쉽게 보이면 연애결혼말고 선을보는게 빠르겠군요
+P0 	: 연애한지 얼마나 되셨어요
+P1 	: 저 이전 연애는 5년반 이었네요
+P1 	: 지금은 없구요
+P0 	: 5년동안 자유를 즐기셨군요
+P0 	: 혼자일때가 그립습니다
+P0 	: ㅜ
+P1 	: 아뇨 연애 기간이 5년반ㅋㅋㅋ
+P0 	: 아 오래하셨네요
+P1 	: 헤어지고는 3년? 4년차 됐네요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047460
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요새 사고싶은 물건 있으세요?
+P1 	: 가을옷 사고싶네요^^
+P0 	: 맞아요 요새 슬슬 옷가게에 가을옷이 걸리던데..
+P0 	: 눈여겨보는 아이템 있나요 ㅎㅎ
+P1 	: 아뇨 다이어트에 실패해서 마음만 가득하네요
+P0 	: 아 저도.. ㅠㅠ 원래 사이즈대로 사려니 지금 못 입고 말이죠 ㅋㅋㅋ
+P1 	: &name1&님은 뭐사고싶으세요
+P0 	: 저는 트렌치코트 아이보리색으로 사고 싶어요 ㅎㅎ
+P1 	: 오 가을에는 역시 트렌치!!!!
+P0 	: 네네 트렌치 근데 오래는 못 입는 게 슬퍼요 ㅋㅋ
+P1 	: 맞아요 입을라하면 코트 입을때죠 ㅋ
+P0 	: 그러니까요.. 가을옷은 그래서 항상 사고 별로 못 입는 느낌이네요~
+P0 	: 옷은 온라인이랑 오프랑 어디서 많이 사시나요
+P1 	: 아이 낳고선 온라인 쇼핑이 편하네요~ &name1&님은요?
+P0 	: 저는 온라인으로 사는 경우도 있긴 한데 그래도 오프에서 많이 사는거 같아요 반품하기 귀찮고 해서요 ㅎㅎ
+P1 	: 입어보고 구입하시는군요 어디서 사시나요? 매장? 백화점??
+P0 	: 네 다양하게 가는데 스파매장이 입어보긴 편하더라고요~~

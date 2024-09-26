@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037247
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 있으세요?
+P1 	: 아니요 &name1&님은 있으신가요?
+P0 	: 저도 없어요
+P0 	: 대체적으로 냥이 많이 키우시는 것 같더라구요
+P0 	: 냥이 좋아하세요? 아님 멍멍이 또는 다른 동물을 좋아하나요?
+P1 	: 저는 보는거는 강아지랑 고양이 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저는 라쿤이 귀여워서 제일로 좋더라구요 물론 멍냥이도 다 귀엽죠ㅎㅎ
+P1 	: 라쿤은 그 짤로 유명한 동물?
+P0 	: 혹시 너구리랑 라쿤 비교해서 나온 짤인가요? 난 너구리가 아니야~하는거요
+P1 	: 네ㅋㅋㅋㅋㅋ
+P1 	: 맞나요?
+P0 	: 네 더 귀엽게 생긴 애요 너구리는 약간 도둑?같이 생겼어요
+P1 	: 아니 이거 말고 너굴맨이 해치웠으니 걱정말라고의 짤이 너구리가 아니라 라쿤 아니였나요?
+P0 	: 맞아요 그 너굴맨이 라쿤이에요 전 그거 변형한 짤도 봤거든요
+P1 	: 너구리가 라쿤으로 변형된 짤인가요?
+P0 	: 아뇨 너굴맨이 난 라쿤이야 바보들아 하고 너구리가 내가 너구리야 하는 짤로 기억해요
+P1 	: 앜ㅋㅋㅋ 그렇군요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028563
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 거기 날씨는 어땠어요?
+P1 	: 요즘 일기예보가 안 맞잖아요 비가 많이 왔어요
+P0 	: 여기도 비가 왔다갔다 했네요
+P1 	: 진짜요 장마라더니 정말 그런가봐오
+P0 	: 이젠 여름장마가 아니가 가을장만가봐요
+P1 	: 시원해지는 건 좋은데 출근하기가 너무 힘들어요 습하고
+P0 	: 그쵸 계속 비가 오니 빨래를 못해요
+P1 	: 공감!! 빨래에서 꿉꿉한 냄새가 나는 게 짜증나요
+P0 	: 얼른 화창해져서 산책이라도 하고싶네요
+P0 	: 비만 오다 겨울이 되는건 아니겠죠...ㅠ
+P1 	: 요즘 워낙 이상기후라 그것도 이상하지 않을 듯...
+P1 	: 저도 퇴근은 걸으면 40분이라 걸어서 하는데... 요즘 못 걸으니까 너무 피곤해요
+P0 	: 와 40분 오래 걸으시네요
+P0 	: 운동삼아 걷는 거네요?
+P1 	: 딱 그러고 집에 와서 바로 씻으면 기분 좋으니까 ㅋㅋ
+P1 	: 저도 앉아서 일하다보니 안 걸으면 몸이 아파서 힘들더라구요
+P1 	: 아무튼 비가 와서 운동도 못 하고 괴롭네요
+P0 	: 그쵸 앉아있는것도 지쳐요
+P0 	: 얼른 날이 맑아지길!
+P1 	: 제발... 꿉꿉하지만 않아도 만점이에요
+P0 	: 꿉꿉하지 않은 날을 바라며...

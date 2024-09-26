@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005588
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 딸내미 아직도 게임 하나
+P0 	: 게임 안하는뎅?
+P1 	: 거짓말
+P0 	: 진짜다 지금 안한다
+P1 	: 게임 소리가 나던데
+P0 	: 엄마가 잘못들은거다
+P1 	: 그런가
+P0 	: 웅 나 게임 별로 안한다 요샌 ㅎ
+P1 	: 그래 게임 많이 하면 안 좋다
+P0 	: 알지~
+P1 	: 우리 아들내미는 맨날 게임만 해서 탈이다
+P0 	: 그니까..거의 게임중독자다
+P1 	: 게임이 뭐 그렇게 재밌다고

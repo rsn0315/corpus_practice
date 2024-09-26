@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028858
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 네 좋아하는 편이에요!
+P1 	: &name1&님은 좋아하시나요?
+P0 	: 집순이라 매우 좋아하진않지만,그래도 코로나때문에 못 가는건 아쉬워요
+P1 	: 맞아요 코로나 때문에 못 가는게 너무 아쉽네요
+P1 	: 국내 여행도 쉽게 가지 못하는 상황이 참 아쉬울 뿐이에요 ㅠㅠ
+P0 	: 2년 가까이 이러니까 예전의 자유로움이 얼마나 행복한건지 알겠어요
+P1 	: 맞아요 ㅠㅠ
+P1 	: 혹시 해외여행은 어디어디 다녀오셨나요??
+P0 	: 세부랑 대만 갔었어요.
+P0 	: 애들이랑 시간이 안 맞아서 겨우..
+P1 	: 와 저는 대만은 가봤는데 세부는 못 가봤네요
+P1 	: 세부 여행은 어떠셨나요?
+P0 	: 좋았어요.
+P1 	: 세부 음식은 어떤 편인가요?
+P0 	: 그게 음..그땐 지인들과 패키지로 간거라 한국인들이 많이 묵는 숙소여서    먹을만 했어요.ㅎㅎ
+P1 	: 아 ㅎㅎㅎ 그렇군요!!
+P0 	: 현지음식은 청결도가 ..
+P1 	: 아 ㅜㅜㅜㅜ 청결도 문제가 있군요
+P1 	: 세부가 바다가 그렇게 예쁘다던데 바다는 어떠셨나요??
+P0 	: 오~!그건 인정~

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018442
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 오늘 저녁 뭐 드셨어요?
+P0 	: 안녕하세요^^ 전 오늘 잡채 먹었어요
+P1 	: 와 잡채 너무 맛있겠다... 배달로 시켜드신 거에요??
+P1 	: 아님 만들어서?
+P0 	: 아 오늘 딸이랑 만들었거든요~ㅎ
+P0 	: 재료 준비는 제가 다했구요
+P1 	: 우와 대단하세요!! 따님 계시구나 ㅎㅎ
+P1 	: 잡채 어떻게 하면 잘 만들 수 있을까요?
+P1 	: 요리법 좀 알려주세요ㅠㅠ
+P0 	: 그렇게까지 잘하는 건 아니에요ㅋㅋㅋ
+P0 	: 당면 삶고 야채 데친 다음에
+P0 	: 섞어서 기름 버무리면 됩니다
+P1 	: 오 생각보다 간단하네요??
+P1 	: 감사해요 다음에 부모님이랑 잡채 만들어봐야겠어요
+P0 	: 네 좋아요!
+P0 	: 오늘 저녁 뭐 드셨어요?
+P1 	: 전 떡볶이 먹었어요
+P1 	: 떡볶이 오랜만에 먹으니 너무 맛있더라구요
+P0 	: 허걱 떡볶이 최고죠 저도 떡볶이 좋아해요 엄청
+P1 	: 떡볶이에 순대 조합은 환상이에요ㅠㅠ
+P0 	: 맞아요 어묵까지 먹으면 정말 행복합니다
+P0 	: 갑자기 배고파지네요ㅠㅠ
+P1 	: 그러게요 야식 땡겨요ㅋㅋㅋㅋ

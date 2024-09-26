@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003368
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일상 트렌드>싸이월드 부활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기능원 및 관련 기능 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 싸이월드 하셨나요?
+P0 	: 네
+P1 	: 재밌었나요?
+P0 	: 친구들과대화가 좋았어요
+P1 	: 그리고요?
+P0 	: 사진보는것도 좋아요
+P1 	: 다시 하실건가요?
+P0 	: 네 시간남으면 하고 싶어요
+P1 	: 브금은 정하셨나요?
+P0 	: 비티에스버터요
+P1 	: 좋네요
+P0 	: 놀러오세요
+P1 	: 그럴게요
+P0 	: 재밌겠어요

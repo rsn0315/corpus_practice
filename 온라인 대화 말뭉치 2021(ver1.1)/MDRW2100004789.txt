@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100004789
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나두 해외나 제주도 한달살이라도
+P0 	: 제주도 한달 살이 할려면 돈이 많이 들껀데
+P1 	: 그래서 못하고 있잖아
+P0 	: 한달 제주도에서 살면 웬만한곳은 다 구경하겠다
+P1 	: 그렇지 부지런히 구경하고 다니면
+P0 	: 택시 대절해서 오늘은 여기 내일은 저기 하면 편할껀데
+P1 	: 숙박비 만큼 나올수도 있다 그럼
+P0 	: 운전면허가 없으니 이게 불편하다
+P1 	: 응 렌트카 해도 운전할 사람이 없으니
+P0 	: 그러게 여기저기 구경할려고 해도 대중교통은 불편하지
+P1 	: 응 시간맞추어야지 환승해야지 다 불편
+P0 	: 그렇다 편하게 여행할수 는 없겠다
+P1 	: 외국가서는 운전안해도 우리나라에서는 해야하는데
+P0 	: 지금이라도 여행을 위해서 운전면허 취득해

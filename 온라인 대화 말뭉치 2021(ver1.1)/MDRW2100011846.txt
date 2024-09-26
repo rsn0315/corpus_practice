@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011846
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 다른 동물 좋아하는거 있어?
+P0 	: 고슴도치 엄청 귀엽더라
+P1 	: 근데 냄새 많이 나잖아
+P0 	: 고슴도치 냄새 많이 나?
+P1 	: 나도 안키워봐서 잘모르는데 냄새 좀 날걸?
+P0 	: 난 강아지 냄새만 맡아봤어
+P1 	: 난 강아지도 안맡아봤어
+P0 	: 개 키우는 친구네 집 가 본 적 없어?
+P1 	: 있긴 한데 안만져봐서
+P0 	: 냄새는 나던데
+P1 	: 냄새는 많이 나던데
+P0 	: 그니까 나는 냄새 때문에라도 못 키우겠더라
+P1 	: 그니까 그래도 고양이는 키워보고 싶어
+P0 	: 고양이 냄새는 맡아본 적 없는 거 같애
+P1 	: 나도
+P0 	: 난 고양이 카페 가봤어
+P0 	: 만화 카펜데 고양이가 있었어

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100023592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨 변덕인데 무슨 음료 많이 드시나요?
+P1 	: 저는 얼죽아임니다
+P0 	: 아 진짜요? 저는 아메리카노나 차류 에이드 좋아해요
+P1 	: 출근하자마자 아메리카노 때려넣어요 ㅋㅋ
+P0 	: 아하ㅋㅋ 전 피곤할때 말고는 아메리카노 잘안마시는데 신기하네요ㅋㅋ
+P1 	: 매일 아침 피곤하기때문에
+P1 	: 필수에여 ㅋㅋ
+P0 	: 습관되면 매일 마실거같긴해요ㅋㅋ
+P1 	: 점심드셧나요
+P0 	: 네 간단히 먹었어요?
+	  &name2&은 뭐드셨나요? 아직 이신가요?
+P1 	: 저희는 다같이 도시락배달해서먹어욤
+P0 	: 아 좋네요 저흰 회사식당 있어서 식당 좀 찝찝해서 간단한거 싸와요
+P0 	: 코로나 걸리고하니 안심이 안되더라고요
+P1 	: 헉
+P1 	: 그러셧구나ㅜㅜ
+P0 	: 코로나땜시 배달 많이 시켜먹는거 같아요

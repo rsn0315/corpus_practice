@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요ㅎㅎ
+P1 	: 안녕하세요!
+P0 	: 다이어트같은거 관심 있으신가요?
+P1 	: 다이어트라기보다 근육량 늘리고싶어요
+P1 	: 피티받았었는데 근육이 진짜 없더라구요
+P1 	: 다이어트 하시나요?
+P0 	: 아하 근육량 늘리고싶으시군요!
+P0 	: 저도 다이어트는 안하구 근육량늘리고싶어서 운동 열심히 하고있어요!
+P1 	: 근육운동하면 근육도 늘고 살도 빠지면 좋을텐데 유산소안해서 그런지 그냥 근육만 붙더라구요
+P0 	: 유산소랑 무산소운동이 둘다 중요한거같아요!
+P0 	: 저는 근육운동을 엄청 열심히 하고있어용ㅎㅎ
+P0 	: 피티는 얼마나 받으셨어요?
+P1 	: 한 6개월정도 받았어요
+P1 	: 그니까요 두 개를 적절히 잘 해야 되는거같아요
+P0 	: 피티 꽤 오래 받으셨네용! 저는 비싸서 피티는 받기가 좀 부담이더라구요ㅠ
+P1 	: 그니까요 저도 비싸서 그만뒀어요
+P1 	: 그래서 아예 운동기구 몇개사서 집에서 하고있어요
+P0 	: 집에서 운동하는것도 좋은거같아요! 이동시간도 줄이고 장점이 많죠
+P0 	: 운동기구는 어떤거 있으세요?
+P1 	: 덤벨이랑 바벨이랑 케틀벨 이런거있어요!
+P0 	: 오 바벨도 있으세요? 공간차지도 꽤 할텐데 열정이 있으시네요!!

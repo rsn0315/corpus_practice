@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037533
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행지에서 사온 기념품 중에 기억에 남는 거 있나요?
+P1 	: 음 전  특산품만 사는편이라 ㅎㅎ
+	  동해 갔을때 반건조 오징어 진짜 맛잇엇어요 ㅋㅋ
+P0 	: 와.. 맛있었겠네요.. 특산품 위주로 사는군요..
+P0 	: 이게 요샌 택배로도 준다고하는데 가서 사는 느낌이 안살죠
+P1 	: 네네 보고 사야지 뭔가 ㅎㅎㅎ 믿음이 가서요
+P0 	: 그러니까요
+P1 	: 보고사도 눈탱이 맞을때도 잇지만요 ㅋ
+P0 	: 여행 자체로 마음에 들었던 여행지 있었나요??
+P1 	: 음  전국일주요
+P0 	: 전국일주? 혹시 자전거?
+P1 	: 아녀 ㅎㅎ 자동차 타고요
+P1 	: 경기도출발 동해 해안선따라 부산 전남(시골집) 다시 경기도코스로 7박 8일이요
+P0 	: 자동차로 전국일주요? 진짜 좋았겠네요
+P0 	: 캠핑카였나요?
+P1 	: 아뇨 ㅎㅎ
+P1 	: 맛집 여행이였죠 뭐 ㅎㅎ
+P1 	: 8일덩안 엄청 먹었어여
+P0 	: 맛집 여행 좋네요~ ㅎㅎㅎ 맛있는거 실컷 먹었겠어요..ㅎㅎ
+P1 	: 네네 재밋고 좋앗어여

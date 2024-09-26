@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031017
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 다니는거 좋아하시나요?
+P0 	: 여행 아주 좋아합니다
+P1 	: 저도 여행 좋아해요
+P0 	: 국내여행 좋아하시나요 해외여행 좋아하시나요
+P1 	: 둘다 좋아요 사실
+P0 	: 맞아요 여행은 ㅁ어디든 즐겁죠
+P1 	: 굳이따지자면 해외가 더 좋긴해요
+P0 	: 오 그러시군요
+P1 	: 해외가 아무래도 전혀 다른 세계 온거같은 느낌이라서요
+P0 	: 맞아요 공감합니다
+P1 	: 음식도 색다르고 볼거리도 색다르고
+P0 	: 이국적인 풍경이 매력이죠
+P1 	: 외국사람들 많은것도 신기하고요

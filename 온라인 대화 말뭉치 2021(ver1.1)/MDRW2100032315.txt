@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100032315
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니 그냥 공부하기 싫어서
+P0 	: 아하... 왜?
+P1 	: 별로 재미가 없닪아
+P0 	: 그렇구나... 수업도 잘 안들어?
+P1 	: 아니 슈업은 들으려고 해
+P0 	: 학교에서 자주 졸아?
+P1 	: 아니 안 졸려고 노력
+P0 	: 오오 그건 좀 대단한데
+P0 	: 공부잘해?
+P1 	: 아니
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 그냥 물어봤어
+P1 	: 너는?
+P0 	: 난 좀 잘했었어
+P1 	: 오 어느정도?
+P0 	: 나 한 전교 1-2등? 했던거같아

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023056
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응. 김밥 먹었어. 너는 식사 했니?
+P1 	: 맛있게 먹었고?
+P0 	: 응~ 난 냉면 먹었어 맛있었음!
+P1 	: 잘했네. 아이스크림 사간 거 너무 많이 먹지 말고. 아껴 먹어.
+P0 	: 고럼고럼~~ 녹차맛 아이스크림 엄청 맛있다
+P1 	: 막내는 요거트맛도 맛있대. 내일은 그거 먹어봐.
+P0 	: 아 예전에 먹어본 적 있음!! 나도 원래 좋아하는 아이스크림이야
+P1 	: 다행이네. 엄마가 맛을 잘 골랐나봐.
+P1 	: 커피는 마셨어?
+P0 	: 응 아이스 아메리카노~~ 엄마각 걱정해서 디저트는 떠로 먹지 않았어
+P1 	: 왜 차가운 걸로 마셨어.. 차가운 거 몸에 안 좋은데. 따뜻한 걸로 마시지 그랬어.
+P1 	: 엄마는 따뜻한 커피 마셨는데.
+P0 	: 너무 더워서 어쩔 수 없이 그랬지~ 낼부터 따뜻한 거 마실게!!
+P0 	: 사실 커피는 아까 다 마시고 입이 심심해서 초콜릿이나 좀 먹고 있어
+P1 	: 그럼 초콜릿 말고 견과류 먹어.
+P0 	: 오케이 이따 배고프면 견과류 먹을게!
+P0 	: 견과류에 꿀 묻혀 먹으면 맛있는데ㅎㅎㅎ
+P1 	: 너무 달게는 먹지 말고. 과일이랑 같이 먹어.

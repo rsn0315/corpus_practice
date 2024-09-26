@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010917
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 커피 좋아하세요??
+P1 	: 네 아메리카노만마시지만 좋아해요
+P0 	: 아 저는 아메도 라떼도 다 좋아해요~ 점심 드셨나요?
+P1 	: 네 갑자기바빠서ㅜㅜ커피한잔의여유도없네요ㅠ
+P1 	: 저는 라떼는별론데 달고나라떼는 맛잇더라구요
+P0 	: 아 달달구리 좋아하시나보네용
+P1 	: 카페라떼는진짜우유맛..ㅋㅋ
+P1 	: 오히려아메리카노가맛잇어용
+P0 	: 아 ㅎ저도 나이드니 아메가 깔끔하니 괜찮더라구요
+P1 	: 네 깔끔하죵
+P1 	: 아메랑차라리달달한디저트먹는게ㅋㅋ좋아요
+P0 	: 맞아욤^^
+P1 	: 디저트뭐좋아하세요
+P1 	: ?
+P0 	: 빵이나 케익 다 좋아해요^^
+P1 	: 커피엔케익이죵
+P0 	: 맞아용ㅎㅎ

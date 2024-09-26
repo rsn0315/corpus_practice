@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100037569
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 챙겨드시는 영양제는 있나요?
+P1 	: 오메가3 정도요?
+P1 	: 근데 자주 깜박해요
+P1 	: 님은요?
+P0 	: 저는 요새 비타민씨를 먹어요
+P0 	: 원래 안먹다가 코로나 이후로 면역에 신경썯야 할 거 같아서요
+P1 	: 아 코로나 이후로 좀 경각심이 들죶ㅎ
+P1 	: 백신은 맞으셨나요?
+P0 	: 저 다담주에 맞아요
+P0 	: &name2&님은요?
+P1 	: 전 내일 맞아요! 화이자요
+P1 	: 첫백신이라 두근두근하네요
+P0 	: 헐.. 내일요? 와 오늘 고기 잘 드셔야겠어요.. 든든하게
+P0 	: 저는 아직 안정해졌지만 화이자나 모더나라는데.. 아마도 화이자일듯 해요
+P1 	: 대부분 화이자더라고요
+P1 	: 모더나가 델타변이에 더 강하대서 살짝 기대했는데
+P0 	: 네. 물량때문에 저도 화이자 같아요
+P0 	: 근데 화이자가 대기업이라 좀 더 안전할 거 같아요
+P1 	: 하긴 좀더 검증되기는 했죠
+P1 	: 더 많은 사람이 맞아서ㅎ
+P1 	: 일장일단이 있네요
+P0 	: 네.. 표본이 많대요
+P0 	: 그리고 어쩜 부스터샷도 맞을 수 있는데 그때도 교차접종이 아니라 같은 화이자 맞으면 좋으니까요
+P1 	: 부스터샷까지.. 사태가 정말 오래가네요ㅜ
+P1 	: 얼른 끝났음 좋겠어요
+P1 	: 계속 몸사리게 돼서ㅜ 감기로도 흠칫하고
+P0 	: 이시국엔 감기 절리면 안돼죠.. 눈치보이고..

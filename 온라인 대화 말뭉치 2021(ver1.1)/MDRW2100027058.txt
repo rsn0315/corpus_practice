@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027058
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 와인이 알코올향이 비교적 덜나지 않아요?
+P0 	: 맞아요!
+P0 	: 점심 뭐드셨나요?
+P1 	: 저는 라면이요!
+P1 	: 님은 점심 뭐드셨어요?
+P0 	: 베이글이랑 초코우유요 ㅎ
+P1 	: 초코우유 좋아해요?
+P0 	: 네! 정확히는 다크초코아이스 ㅋㅋㅋ 알바하는 데에서 음료 만들어 먹었어요
+P0 	: 흰우유는 안마셔요 ㅎ
+P0 	: 흰우유 잘 드세요?
+P1 	: 우와 언제나 초코는 옳아요
+P1 	: 저는 흰우유 좋아는 하는데
+P1 	: 소화를 잘 못시켜서 힘드네요ㅠ
+P0 	: 저두요ㅠ 라떼마시면 화장실 직행이에요 ㅋㅋㅋ
+P1 	: 저도 라떼마시면 하루가 힘들어요ㅋㅋㅠ
+P1 	: 두유로 먹어보셨어요?
+P0 	: 네네! 두유 옵션되는 스벅 커피빈만 가요ㅎ
+P1 	: 오 두유로 먹으면 좀 나은가요??
+P0 	: 네 두유는 배 안아프더라구요
+P0 	: 근데 좀 비린맛이나서 시럽 꼭 넣어요
+P1 	: 시럽넣으면 두유 특유의 냄새가 좀 덜 나나요?
+P0 	: 네 바닐라라떼랑 비슷한 맛 나요 ㅎㅎ

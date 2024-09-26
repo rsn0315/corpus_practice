@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016780
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: 뭐?
+P0 	: 나 울어도 되나
+P1 	: 아니 왜
+P0 	: 몰라... 졸업전에 자유를 싶다는데
+P1 	: 그 선밴 진짜...
+P0 	: 나 울고싶어
+P0 	: 나도 떠나고싶어
+P1 	: 정신차려
+P0 	: 자유를 찾아 떠나는선배를 찾아 떠날게
+P1 	: 진심이야?
+P1 	: 아니
+P0 	: 선배 휴학하고 고향다녀오신다함
+P0 	: &name3&이도 같이 가나봐
+P1 	: 헐
+P1 	: 둘이 가?
+P0 	: 사는데가 가까워서 그런가
+P1 	: 아 그치
+P1 	: 그래도 휴학을 같이 해?
+P0 	: 그냥 붙잡고 밥 사달라 하고싶어
+P1 	: 그냥 사달라해
+P0 	: 아냐
+P0 	: &name4&선배랑 둘이서만 밥먹고 놀릴거임ㅡㅡ

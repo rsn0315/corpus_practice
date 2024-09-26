@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100024259
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 단발로?
+P0 	: 응
+P1 	: 난 머리 기르고 싶은데
+P0 	: 얼마나?
+P1 	: 머리 기르다 답답해서 짜르게 됨
+P0 	: 맞아 기르는 거 쉽지 않아
+P1 	: 그냥 계속 기르는거지
+P1 	: 답답해서
+P0 	: 잊고 살아야 길어지더라
+P1 	: ㅋㅋㅋㅋ 그니까
+P0 	: 대강 묶고 다니면서 잊고 살다보면 길어져ㅋㅋㅋ
+P1 	: ㅋㅋㅋ 여름에 기르려고 한게 실수였어
+P0 	: 여름엔 아예 묶을 수 있는 수준 아니면 못길러ㅋㅋㅋ
+P1 	: 뒤에서 땀이나

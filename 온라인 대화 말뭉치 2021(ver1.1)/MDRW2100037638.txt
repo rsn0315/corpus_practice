@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건 있나요?
+P1 	: 머리 돌돌이요
+	  아들이 사달래서요 ㅎ
+P0 	: 돌돌이가 뭔가요? 장난감인가요
+P1 	: 앞머리에 돌돌 마는거요 ㅋㅋ
+P0 	: 아 헤어롤 맞나요 ㅋㅋㅋ 앞머리 안 뻗치게 하는거 ㅋㅋ
+P1 	: 맞아요^^
+	  드라이기도 사달래서 드라이기도 사려구요
+P0 	: 와 남자아이들도 그런거 신경쓰는군요
+P1 	: 아침마다 드라이기 안된다고 사달라고 하는데 자꾸 잊어버려서 못샀어요
+P1 	: 추석에 선물 어떤거 하세요?
+P0 	: 케익 이런거 살까 생각중이에요 ㅎㅎ 롤케익 같은거
+P1 	: 선물 고르기가 젤 힘들어요.
+P0 	: 그쳐 아무래도 취향이 다양하다보니.. ㅠㅠ
+P0 	: 그래서 생필품이 무난해보이신 하더라고요
+P1 	: 생필품은 많으면 좋으니 선물로 주고 받기 좋은 거 같아요
+P0 	: 그쵸 정 필요없으면 누구 줘도 되니까 어떻게든 쓸모는 있더라고요~
+P1 	: 네~ 맞아요

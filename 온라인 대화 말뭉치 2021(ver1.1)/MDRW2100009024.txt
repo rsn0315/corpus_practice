@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 육아맘이신가요?
+P1 	: 그럼요~ &name1&샘도요?
+P0 	: 넵 아둘맘입니다.. &name2& 쌤은요~^^
+P1 	: 앗!! 저도요 ㅠ 고생 많으십니다
+P0 	: 어머...동지애..
+P1 	: 몇살몇살인가요?
+P0 	: 3살 6살이요 &name2&쌤은요?
+P1 	: 전 5 7 입니다 제가 좀 상황이 낫네요 ㅋ
+P0 	: 5살 7살이라고 하셨죠? ㅠㅠ
+P1 	: 네 5살 7살 그나마 살만 합니다^^
+P0 	: 그런가요 조금씩 나아지는건가요...^^
+P1 	: 그럼요~ 샘은 힘드실때고요 ㅠ 3살이 장난 아닐텐데요
+P0 	: 어머 정답이요!!! 요즘 ..절레절레ㅠㅠㅠㅠㅠ
+P1 	: 그 3살이 5살이 되어야 좀 사람다운 삶을 사실 수 있어요
+P0 	: ㅋㅋㅋ 두 돌 지나고 의사소통 좀 되길래 웃을만하다했는데 곧 절레절레..
+P1 	: 할줄 아는건 별로 없으면서 고집이 겁나 쎄지고요 절레 절레
+P0 	: 진짜 정확하세요 ㅠㅠ 어휴..

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036253
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 드셨어용?
+P1 	: 저는 피자 먹었어요!
+P0 	: 네 저는 부대찌개요^^
+P1 	: 부대찌개 맛있죵~~
+P1 	: 부대찌개에서 어떤 걸 제일 좋아하세요?
+P0 	: 저는 면사리요..ㅋ &name2&님은요?
+P1 	: 저는 두부요!
+P1 	: 진짜 맛있어용
+P0 	: 부대찌개에 두부가 들어있나요? 제가 먹은거엔 없었어요
+P1 	: 헉! 저희 동네만 있나보네요
+P1 	: 두부가 진짜 맛있어서 많이 먹었었는데ㅣ
+P0 	: 맛있을것 같아요 부대찌개에 건강을 얹은 느낌?ㅋ
+P1 	: 넹!ㅋㅋ 혹시 나중에 집에서 해드신다면 추천을 한 번..!ㅋㅋㅋ
+P0 	: 네^^ 아침은 드셨나요
+P1 	: 아직이요! 한시간뒤쯤 먹을거같아요ㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저는 가족들이 부지런해서 먹었어뇨~^^
+P1 	: 우왕ㅋㅋ그러시군용
+P1 	: 어떤거 드셨어요?
+P0 	: 아이들은 밥먹고 저는 샐러드랑 고구마 먹었네요

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100006131
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학창시절에 어땟어요?
+P0 	: 저는 조용하고 내성적이어서
+P0 	: 대학 신입생때는 적응하는데 좀 어려웠어요
+P1 	: 그럴수잇죠
+P1 	: 저도 신입생때는 많이 헤맷던것같아요
+P0 	: 시간 좀 지나서 괜찮아졌어요
+P0 	: 방황하고해서 신입생때 학고 받은 경험도 있어요
+P1 	: 전 뒤늦게 방황해서 6학기때 성적이 엉망진창이엇어요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 아 정말요ㅎㅎ
+P0 	: 저는 군대다녀오고 정신 차렸어요
+P0 	: 겨우 학점 복구해서 졸업했죠
+P1 	: 저는 도리어 괜찮앗던 학점 왕창 까먹엇던 ㅋㅋㅋㅋㅋㅋ
+P1 	: 동아리나 학회 활동은 하셧나요?
+P0 	: 음 창업동아리했었어요
+P0 	: 한때 열정적으로 했었죠
+P0 	: &name2&님을 하셨었나요?
+P1 	: 저는 봉사동아리요 ㅋㅋㅋㅋ
+P1 	: 창업동아리 멋잇네요
+P0 	: 오 봉사동아리
+P0 	: 그거 더 멋지네요
+P1 	: 창업동아리에서는 뭘하셧나요?
+P0 	: 그때 골프 카트에 타수 알려주는 스크린 달기
+P0 	: 로 공모전 갔는데 떨어졌심다
+P1 	: 오오

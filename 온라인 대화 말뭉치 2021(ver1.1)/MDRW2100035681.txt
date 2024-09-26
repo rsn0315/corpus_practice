@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100035681
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요?
+P1 	: 저녁은 드셨나요?
+P0 	: 네 먹었어요 &name2&님은 드셨나요?
+P1 	: 네 저는 만두를 먹었어요 &name1&님은 무얼 드셨나요?
+P0 	: 저는 어묵볶음 먹었어요
+P0 	: 어떤 만두 드셨나요?
+P1 	: 전 비비고 한섬 만두요
+P1 	: 크고 맛있어요
+P1 	: ㅎㅎ님은 어떤 어묵을 드셨나요? 부산어묵?
+P1 	: 프리미엄어묵?
+P0 	: 그냥 부산어묵이요 한섬 만두는 그냥 고기 만두인가요?
+P1 	: 그냥 고기인데 오늘 제가 먹은건 좀 컸어요
+P1 	: 다른 만두 한 두배크기에요
+P0 	: 오 그렇군요!!좋아하는 음식이 있으신가요?
+P1 	: 전 대부분 좋아해요 &name1&님은요?
+P0 	: 저는 떡볶이요
+P1 	: 헐 저도 좋아하는 음식중 하나에요
+P1 	: 요즘은 로제나 엽떡등이 유행하지만 전 전통적인 달달 밀떡을 좋아합니다
+P0 	: 맞아요 그런게 사실 안질리고 맛있죠

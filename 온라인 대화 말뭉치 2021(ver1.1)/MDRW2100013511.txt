@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013511
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 키우는 동물 있으세요?
+P1 	: 네^^ 저 강아지
+P1 	: 키우고있어요
+P1 	: &name1&님은요?
+P0 	: 저도 강아지키워요
+P0 	: 어떤종 키우세요?
+P1 	: 오!! 저는 말티즈요
+P1 	: &name1&님은요?
+P0 	: 저는 시츄키우고있어요
+P0 	: 나이가 몇살이에요?
+P1 	: 저희 집 댕댕이는 7년됐어요!
+P1 	: 몇살이예요?
+P1 	: 수컷인가요?ㅎㅎ
+P0 	: 네 수컷이에요
+P0 	: 말티즈는 성격이 어때요?
+P1 	: 저희도 수컷이요!
+P1 	: 음 우리 댕댕이는 애교많고 활발해요!
+P1 	: 새침하기도 하고ㅋㅋ 시츄는어때요? 성격
+P0 	: 전체적으로 조용한데 산책이나 간식먹을땐 되게 날뛰더라구요
+P1 	: 그렇군요! 시츄 이름 물어봐도 될까요?
+P0 	: 저희 부모님이 지으셨는데 &name3&이에요
+P1 	: &name3&이!^^ 이름 예쁘네요
+P0 	: 말티즈는 이름이 뭐에요?
+P1 	: 저는 제 닉네임이요! &name4&입니다ㅎㅎ

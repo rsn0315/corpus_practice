@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바이트해 보신 적 있으신가요
+P1 	: 네  편의점도해보고 많이 해봤어요
+P0 	: 편의점 알바는 어땠나요
+P1 	: 편의점 편했어요~ 지역마다
+P1 	: 편차가 있을듯해요
+P0 	: 또 다른 건 어떤 걸 해봤나요
+P1 	: 목소리 녹음 알바 이런것도 해봤어요ㅎㅎ
+P0 	: 목소리 녹음 알바도 있어요?  신기하네요
+P1 	: 네네 신기했어요 저도ㅎㅎ
+P0 	: 목소리 녹음 알바는 주로 어떤 걸 녹음해요
+P1 	: 음 인쇄물 그냥 따라 읽으라 했었어요ㅋㅋㅋ
+P0 	: 인쇄물만 따라 읽으면 된다니 간단하네요
+P1 	: 네 꿀알바였어요ㅎㅎ
+P0 	: 저도 기회가 되면 한번 해보고 싶네요

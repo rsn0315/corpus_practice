@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007617
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요!
+P1 	: 지금 계신 곳 날씨는 어때요?
+P1 	: 제가 있는 곳은 좀 선선하니 좋은데 잘때는 좀 춥네요
+P0 	: 여기는 아직 더워요ㅎㅎ 잘때는 선선해요
+P1 	: 아 그렇군요 내일이 처서라니까 곧 시원해졌음 좋겠네요 ~
+P1 	: 저도 집에만 있을땐 시원한 줄 알았는데 나가니까 밖은 아직 덥네요 ㅠㅠ
+P0 	: 낮에는 좀 덥네요
+P1 	: 그러게요
+P1 	: 좋아하는 계절은 언제이신가요?
+P0 	: 저는 겨울이요ㅎㅎ
+P1 	: 겨울의 어떤 점을 좋아하세요?
+P0 	: 스키장 갈 수 있어서요!
+P1 	: 아 그러면 매번 겨울이 많이 기다려질 것 같아요 ㅎㅎ
+P0 	: ㅎㅎ언제 오려나요 그날이
+P1 	: 생각보다 시간이 빨리가서 금방 올꺼에요!
+P0 	: 네 지금도 많이 선선합니다

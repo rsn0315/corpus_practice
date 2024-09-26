@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: .아이스크림 먹고싶어
+P0 	: 엉 갑자기 달달한 아이스크림이 먹고 싶다
+P1 	: 무슨맛으로
+P0 	: 체리 쥬빌레랑
+P1 	: 엉
+P0 	: 뉴욕치즈케이크
+P1 	: 파인트가 3가지맛이지
+P0 	: 엉 그리고 마지막 맛은 초코렛 무스로
+P1 	: 매번 먹던 맛이네
+P0 	: 엉 저번에 꼬북칩 먹고 후회햇어
+P1 	: 왜
+P0 	: 민트 맛인가 이상한 맛이 나서
+P1 	: 아 ㅋㅋ 맛보기 하지
+P0 	: 배달시킨거라 맛보기가 안됨

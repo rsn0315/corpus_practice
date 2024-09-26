@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 알바 해보신 거 있으신가요?
+P1 	: 저는 도서관에서 단기로 해본적있어요
+P1 	: 책 정리하고 그러는 일이였어요
+P0 	: 도서관 알바 하면 힘든 점이나 재밌는점 있으세요
+P1 	: 책 정리하다보면 다른 섹션 책이 꽂혀있는 경우가 엄청 많았어요
+P0 	: 그러면 그걸 알바가 위치를 딱 보면 척하고 아나요?
+P1 	: 책마다 밑 부분에 숫자로 코드가 표시되어있어서
+P1 	: 그 코드를 보면 알 수 있어요
+P0 	: 도서관 가면 직원들이 논다고 여기는 사람 많다면서요
+P1 	: 맞아요
+P1 	: 근데 사서쌤들 보면 눈에 딱 보이는 큰 일들보다는
+P1 	: 엄청 작은 일이지만 손이 많이가는 일들은 많이 하시더라고요
+P1 	: 그래서 그렇게 느끼는거같긴해요
+P0 	: 그런 고충 있는데 사람들은 논다고 생각한다고 하더라고
+P1 	: &name1&님은 알바해본적있나요?
+P0 	: 이것저것 해봤습니다
+P1 	: 어떤게 제일 괜찮았나요?
+P0 	: 돈 많이 주는데 잴좋죠 과외 같은 거요
+P1 	: ㅋㅋㅋㅋ그쵸 알바는 페이갘ㅋ

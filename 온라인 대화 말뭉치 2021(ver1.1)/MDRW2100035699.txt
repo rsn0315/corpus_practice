@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100035699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동하시나요?
+P0 	: 운동 밤에 공원 뛰고옵니다!
+P0 	: &name2&님 하시나요?
+P1 	: 저는 아침에 걷기해요!
+P1 	: 밤에 달리기라니.. 전 무서워서 밤엔 못나가겠더라구요
+P0 	: 아 저도무서워서 6시에 가요ㅎㅎ
+P0 	: 여름엔7시에갔는데  해가짧아져서
+P0 	: 일찍어두워지더라고요
+P0 	: 백신맞으셨어요??
+P1 	: 아항! 맞아요ㅜ 일찍 어두워져요
+P1 	: 아직이요 맞으셨어요?
+P0 	: 네 저는 저번주에! 맞았어요
+P1 	: 오! 어떠셨어요?
+P1 	: 친구는 팔이 부었다더라구요
+P0 	: 저도 근육통 장난아니엇어요ㅠ3일내내
+P1 	: 헉..ㄷㄷ 장난아니네요ㅠ
+P0 	: 타이레놀먹어도 아프더라고요 저는
+P1 	: 엄청 힘드셨겠어요ㅜㅜㅠ 어떤거 맞으셨어요?
+P0 	: 저 화이자요!
+P0 	: 2차는 더아프다던데ㅠ
+P1 	: 세상에 2차는 더 아프대요..?
+P1 	: 무섭네요 증말
+P0 	: 2차는 더 아프다고 하더라구요!

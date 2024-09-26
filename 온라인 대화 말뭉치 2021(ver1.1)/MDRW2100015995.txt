@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015995
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 시험있어요?
+P1 	: 아니요
+P0 	: 자격증이라두
+P1 	: 자격증도 지금은 준비하고 있는게 없어서..
+	  자격증 준비하고 계신거 있으신가요?
+P0 	: 기사요
+P0 	: 어렵네여
+P1 	: 난이도가 높은가봐요
+P0 	: 네높아여
+P1 	: 시험이 언제인가요?
+P0 	: 올해는 공부맘
+P1 	: 올해는 공부만 하시는군요
+P0 	: 네 틈틈히 준비라
+P1 	: 조금씩이라도 꾸준히 하는게 중요하죠
+P0 	: 그쵸

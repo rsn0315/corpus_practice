@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100044204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그럼 우라나라에서 하면되지
+P0 	: 노노 외국에서 느껴지는 그 느낌이 필요
+P1 	: 참말로
+P0 	: 뭔말인지 모르겠나용 ㅋ
+P1 	: 알긴알겠다 ㅋ
+P0 	: ㅋㅋ그렇징?
+P1 	: 가자 엄마랑 ㅋㅋ
+P0 	: 웅웅..ㅋㅋㅋ 내년에 여행갈꺼 계획좀 짜야겠다
+P1 	: 그래 미리 짜놔야 갈수있다
+P0 	: 맞당 ㅋㅋ 지금 짜놔야겠어
+P1 	: 웅웅 코로나 금방 끝날거야
+P0 	: 그렇지!!
+P1 	: 그래 희망을 가져라
+P0 	: 웅 ㅋㅋ여행 계획 이것저것 짜놔야겠다
+P1 	: 그래 가면 호캉스하면서 놀자

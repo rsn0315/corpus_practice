@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009359
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 네
+P0 	: 언제여?
+P1 	: 5년 정도 되었네요
+P1 	: 결혼하셨나요
+P0 	: 네
+P1 	: 연애결혼이요?
+P0 	: 1년이요 연애
+P1 	: 저도 거의 비슷하네요.
+P1 	: 어차피 평생살건데 그정도가 좋은듯 요
+P0 	: 맞아요
+P1 	: 어떻게 결혼 결심하셨어요?
+P0 	: 말이 잘 통하는사람이요
+P1 	: 맞아요 제일 중요하죠
+P0 	: 그리고 믿고

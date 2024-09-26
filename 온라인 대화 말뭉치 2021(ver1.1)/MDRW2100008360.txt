@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008360
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 건강 쪽은 관심 있으신가요?
+P0 	: 앗 네!
+P0 	: 요새 건강 걱정이 많아져서
+P0 	: 운동도 하고 갤럭시 워치도 사려고 한답니다 ^.^
+P1 	: 갤럭시 워치 좋죠
+P1 	: 모델은 어떤 거 생각 중이세요?
+P0 	: 이번에 나온 거 4 사람들 휴기 보고
+P0 	: 사려고요!!! ㅎㅎ
+P1 	: 와ㅜ 저도 4 너무 사고 싶어요
+P0 	: 엄청 인기 많더라고요! 심지어 인바디도 가능하다면서요!?
+P1 	: 맞아요 ㅜ 15초만 있으면 다 알려주는 게 너무 신기해요
+P0 	: 그니까요 저 애플워치가 혈압? 알려준대서 그걸로 하려다가 그 얘기 듣고 갤워치로 마음 바꿨거든요 ㅎㅎ
+P0 	: &name2&님은 운동 자주 하시는 편이세요?
+P1 	: 지금은 쉬고 있는데
+P1 	: 다이어트 때문에 한창 했었어요
+P0 	: 헉 그렇구나! 저도 요즘 피티를 사작했는데
+P0 	: 너무 힘들어서 잠이 엄청 늘었어요...
+P1 	: 와ㅜ 피티 하시는군요
+P1 	: 운동하면 피곤해서 바로 기절이에요 ㅋㅋㅋ
+P0 	: 맞아요... 요새 그래서 잠이 너무 늘었어요
+P0 	: 침대에서 일어나기가 힘들더라거요 ㅎㅎ
+P0 	: &name2&님은 무슨 운동 하셨었어요?
+P1 	: 저는 배드민턴 했었어요!

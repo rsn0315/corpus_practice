@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100042151
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 반려동물 키우시나요?
+P1 	: 네 고양이 키워요!
+P0 	: 헉 정말요ㅠㅠㅜㅜㅠ진짜 너무 부러워요ㅠㅠㅠ
+P0 	: 저 자랑 좀 해주세요
+P1 	: 아ㅋ큐ㅠㅠㅠ 애기... 한 5개월쯤 된 코숏이에요
+P1 	: 엄청 착하고 귀여워요
+P0 	: 헉 진짜 애기ㅠㅜㅠㅠㅠㅠ
+P0 	: 너무 귀엽겠다ㅜㅠㅜㅠ 혹시 혼자 키우세요?
+P1 	: 가족들이랑 사는데 제가 거의 키우긴 해요!
+P0 	: &name2&님이 엄마네요!!ㅠㅠ 이번에 처음 입양하신거에요?
+P1 	: 네네 처음이라 좀 걱정했는데 이것저것 신경쓰다보니까 익숙해지더라구요
+P1 	: 잠도 같이 자고 너무 귀여워요...
+P0 	: 저도 나중에 꼭 고양이 키워보고싶어서 조금씩 공부하고 있는데 아직 걱정이 더 커요ㅠㅠ
+P0 	: 악 진짜 천사...
+P0 	: 심장 아파요ㅠㅠ
+P1 	: ㅋㅋ큐ㅠ 뭐가 제일 걱정되세요?
+P0 	: 저는 직장 다니면 혼자서 키울 거 같은데 그럼 애가 혼자 있는 시간이 길 거 같아서요ㅠㅠ
+P1 	: 에구... 그럴 수 있죠 집에 늦게 들어오세요??
+P0 	: 지금 직장은 괜찮은데
+P0 	: 곧 이직할 곳이 야근을 자주 할 거 같아요
+P1 	: 힘드시겠어요...
+P1 	: 애기 혼자 두는 시간이 너무 길면 아무래도 좀 그렇죠...
+P0 	: 그쵸.. 그래서 프리랜서 분들이 고양이 키우시는 거 볼 때 부러워요
+P0 	: 재택근무하시는 분들

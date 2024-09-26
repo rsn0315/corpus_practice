@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100039170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하시나요?
+P0 	: 넵 또 가고싶어요
+P0 	: 좋아하는 기념품 있으세요?
+P1 	: 전 자석을 종종 사와요.^^
+P0 	: 저도요 냉장고 한가득
+P1 	: 그동안 가보셨던 곳 중에 어디가 제일 좋으셨어요?
+P0 	: 저는 푸켓이 좋았어요
+P1 	: 푸켓 안 가봤는데~~ 전 싱가폴 좋았어요.^^
+P0 	: 아 싱가폴젤 가고싶어요
+P1 	: 진짜 좋더라고요. 날씨도 환경도~^^
+P0 	: 쇼핑도 하기 좋지요?
+P1 	: 전 쇼핑을 즐기는 스타일이 아닌데도 좋더라고요~ㅎ
+P0 	: 아이쇼핑도 행복ㅎ
+P1 	: 맞아요. 여행가서 하는 쇼핑은 뭔가 더 즐거운거 같아요~

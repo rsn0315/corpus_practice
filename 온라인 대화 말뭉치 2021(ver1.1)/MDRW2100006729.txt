@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006729
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 다녀오셨나요?
+P1 	: 최근엔 못다니네요
+P0 	: 여름 휴가 안다녀오셨어요?
+P1 	: 네 바쁘기도하고 코로나때문에 여유가없네요
+P1 	: 갔다오셨나요?
+P0 	: 네 전 한적한 전라남도로
+P1 	: 전라도 어디 다녀오셨나요?
+P0 	: 진도라는 섬이었어요
+P1 	: 진도 초딩때 가봤는데
+P1 	: 추억이네요
+P0 	: 와 기억나세요?ㅎㅎ
+P1 	: 그냥 갔다는 사실만 기억나요 ㅋㅋ
+P1 	: 빨리 코로나 끝나서 해외여행 가고싶네요
+P0 	: 해외가 좋지요ㅠ
+P0 	: 어디 좋으셨어요?
+P1 	: 저는 포르투갈이 정말 좋더라구요
+P1 	: &name1&님은 기억에 남는 여행지 있으신가요
+P0 	: 와 안가봤어요
+P0 	: 전 파리요ㅎㅎ
+P0 	: 포르투갈은 뭐가 좋으셨어요?

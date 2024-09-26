@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100023585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 난 짬뽕 먹으려고 ㅎㅎ
+P0 	: 밀가루 말고 밥먹지
+P1 	: 날씨가 우중충하니 매콤한 게 먹고 싶네
+P0 	: 회사 근처에 맛집있어?
+P1 	: 맛집은 아닌데 그냥저냥 먹을만해
+P0 	: ㅎㅎ 맛있겠네
+P1 	: 여기 나름 해물도 많이 들어있고 맛이 괜찮아
+P0 	: 오래된 곳이야?
+P1 	: ㅇㅇ 10년도 넘은 것 같은데
+P0 	: 와.. 오래됐네
+P1 	: 손님도 꽤 많아~ 점심 시간에 가면 자리 별로 없더라고
+P0 	: ㅇㅇ 얼른 가서 맛있게 먹어 ㅎㅎ
+P1 	: 알겠어~ 색시도 즐점해
+P0 	: 점심은 먹었어?

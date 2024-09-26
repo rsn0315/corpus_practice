@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005907
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠좋아하세요?
+P1 	: ㅋㅋㅋㅋㅋㅋ안타깝게도 스포츠엔 흥미가 없어요 ㅠㅠㅠ
+P1 	: 근데 뭐 하나 배워보고싶긴해욬ㅋㅋㅋ 스포츠 관람 좋아하는 사람들 부럽기도하고
+P0 	: ㅎㅎㅎ올림픽보셨어요?
+P1 	: ㅋㅋㅋㅋㅋ봤죠!! 살면서 운동경기 처음으로 챙겨본거같아욬 ㅋㅋㅋㅋ
+P0 	: ㅎㅎ양궁최고였어요
+P1 	: 아 그러니까요 ㅠㅠ 그리고 여자배구...
+P1 	: 저 평창 굿즈도 안샀는데... 이번 여자배구 유니폼은 샀어요 ㅠ
+P0 	: 캬
+P0 	: 배구장난아니었죠
+P1 	: 근데 유니폼 산지 한달됐는데 아직도안왔어요
+P1 	: &name1&은 야구나 이런거 챙겨보세요?
+P0 	: 음직관간적있어요!
+P1 	: 오오 어느팀경기요?
+P0 	: 기아요!
+P1 	: 오 직관 분위기 어때요?!
+P0 	: 좋아요~~

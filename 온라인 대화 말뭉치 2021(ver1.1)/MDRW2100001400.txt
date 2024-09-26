@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 군인
+sex : 남성
+birthplace : 세종
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 요즘 즐겨하시는 게임이 있으신가요?
+P0 	: 최근까지는 제2의나라 했었는데
+P0 	: 현생을 위해 지웠어요
+P1 	: 제2의 나라는 어떤 게임이에요?
+P1 	: 전략게임같은건가요?
+P0 	: RPG게임입니다!
+P0 	: 제가 지브리를 좋아해서
+P0 	: 그 갬성으로 하는 게임입니다 ㅎㅎ
+P1 	: 맞아요 저도 제2의나라 광고로 봤는데 지브리감성이더라구요! 
+P1 	: 지브리 애니메이션중에 제일 좋아하는 애니메이션 있으신가요?
+P0 	: 이웃집토토로를 제일 좋아합니다! &name2&는요?
+P1 	: 저는 마녀 배달부 키키를 제일 좋아해요! 
+P1 	: 키키가 귀여워서요 ㅎㅎ
+P1 	: &name1&님은 토토로를 제일 좋아하는 이유가 있으신가요?
+P0 	: 오 키키 좋아하시군요!
+P0 	: 아무래도 제일 처음 지브리를 접하게 된 애니메이션이기도 하고 토토로도 귀엽고 음악들도 좋아서요!!
+P1 	: 제2의 나라에도 토토로 같은 캐릭터가 있나요?
+P0 	: 네 굳이 찾자면{emoji:…}.크기는 더 작고 날라다니는 쿠우라는 캐릭터와 비슷해요!
+P1 	: 엇 방금 검색해봤는데 토토로랑 비슷하네요ㅋㅋ

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100004224
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안년하세요 최근에 여행 다녀오셨나요?
+P1 	: 아니요.ㅠㅠ 코로나때문에..
+P1 	: 어디 다녀오신곳 있으세요??
+P0 	: 아이구 저는 속초 짧게ㅠㅠ 해외가고 싶었는데ㅠㅠ
+P1 	: 흑흑 저도요.
+P1 	: 이전에라도 해외 다녀 오신곳 있으세요?
+P0 	: 유럽다녀왔는데 너무 좋았어요
+P0 	: 이젠 그전처럼 여행 못하겠죠ㅠㅠ
+P1 	: 흑.. 그럴꺼 같아요.ㅠ
+P1 	: 여행가면 구경하시는거 좋아하시나봐요.
+P1 	: 저는 휴양지 타입이라.. 몰디브가 너무 좋더라고요.
+P0 	: 와 몰디브 맞아요 가보고 싶었는데
+P0 	: 진짜 천국 같다면서요
+P1 	: 진짜 좋더라고요.
+P1 	: 한가롭고...
+P1 	: 물빛도 너무 예쁘고..
+P1 	: 좀만 나가도 거북이랑 상어랑 수영할수 있고요.
+P1 	: 흑.. 다시 못갈꺼 같아요.ㅠ
+P0 	: 꼭 가보고 싶어요ㅠㅠ 투명한 바다가 너무 좋아요
+P1 	: 고래상어 볼수 있는....
+P1 	: 어디였더라...
+P1 	: 세부 이쪽도 가보고 싶어요.ㅠ
+P0 	: 오 저도요 하와이도 가보고싶고ㅠㅠ
+P1 	: 하와이가 진짜 다 있다고 하더라고요
+P1 	: 휴양. 레저. 쇼핑..
+P1 	: 여행가면 어디에 중점 두는 편이세요??
+P0 	: 네 다녀온분들말로는 음식도 맛있다고ㅎㅎ
+P0 	: 휴양도 좋고 음식도 좋아해요ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014912
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!!
+P0 	: &name2&님은 관심있는 스포츠 있으세요?
+P1 	: 저는 사실 스포츠 안좋아하는데 이번 올림픽때 여자배구 너무 재밌게 봤어요!!!
+P0 	: 저도요! 그래서 배구에 빠졌어요ㅋㅋ
+P1 	: 그쵸??!! 진짜 너무 재밌게 봐서 다음에 경기하면 직관해보고 싶어요ㅋㅋㅋㅋ
+P1 	: 이 재밌는걸 왜 이제야 알았나 싶어요
+P0 	: 그러니까요!! 그래도 김연경 선수가 뛰는 마지막 올림픽은 실시간으로 봐서 다행이에요
+P1 	: 맞아요!!! 진짜 연경신 너무 멋있어요ㅠㅠㅠ
+P1 	: 국내리그 뛸때 보러 다녀볼걸 후회돼요ㅠㅠ
+P0 	: 그러게요 하 그때 직관간 팬들이 위너예요
+P1 	: 9월인가 10월부터 국내리그 있다던데 코로나 좀 잠잠해지면 가볼까 생각중이에요ㅋㅋㅋㅋ
+P0 	: 국내리그 때는 관중 있으려나요? 지금 코보컵은 무관중이잖아요
+P1 	: 맞아요ㅠㅠㅠㅠ 그땐 잠잠해져서 조금이라도 관중 받으면 좋겠어요
+P0 	: 그러니깐요 희진 선수 경기 직접 보고 싶네요
+P1 	: 맞아요ㅠㅠㅠ 저는 국대팀 모두한테 정들었는데 다들 다른팀이라서 슬퍼요ㅠㅠ
+P0 	: 그쵸ㅋㅋ 응원할 팀 고르기 어려워요

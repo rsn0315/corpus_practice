@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024541
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 좋아하세요?
+P1 	: 내 클래식 공연 좋아해요 ㅎㅎㅎ
+P0 	: 와 쉽지 않을 것 같은데
+P0 	: 음악전공이신가요?
+P1 	: 아뇨 전공자만 클래식 보나요
+P0 	: 하긴 그렇죠
+P0 	: 그럼 연주회같은거 보러 다니세요?
+P1 	: 네 요즘은 잘 안가는데 예전엔요
+P0 	: 그렇구나 다른 공연들도 좋아하시나요?
+P0 	: 뮤지컬 연극같은
+P1 	: 아뇨 주로 클래식만 봐요
+P0 	: 그러면 좋아하는 뮤지션은 누가 있어요?
+P1 	: 요즘엔 문지영이요
+P0 	: 누군지 몰라서 찾아보고 왔네요ㅎㅎ
+P0 	: 저 사는 곳에는 박규희 연주회한다고 요새 홍보하던데
+P0 	: 클래식 기타도 들ㅇㄷ시나요?
+P1 	: 아뇨 기타는 안듣는데요

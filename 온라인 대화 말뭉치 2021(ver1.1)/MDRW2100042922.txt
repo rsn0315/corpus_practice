@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100042922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아, 컴퓨터 주변기기가요?? 저 데스크탑은 흑백이고 장패드가 민트색이에요ㅎㅎ
+P1 	: 색있는 데스크탑도 있을까요??
+P1 	: 노트북은 있었는데
+P0 	: 아 패드가 민트색이군요! 조립식 데스크탑은 본체 색도 이쁘게 되는 것 같더라구요.
+P0 	: 막 빛도 나구요!
+P1 	: 오, 본 것 같아요, 커스텀이 가능한 거죠??
+	  조립식 사실 건가요?
+P0 	: 네! 이쁘긴 한데 나중에 고장나면 수리하기 힘들 것 같더라구요.
+P1 	: 아, 맞아요
+P1 	: 혹시 중고거래는 해보신적 있으세요?
+P0 	: 중고거래는 당근마켓만 해봤어요! &name2&님은요?
+P1 	: 저도 당근마켓으로 해봤어요
+P0 	: 주로 어떤 거 파세요?
+P1 	: 한번밖에 안 해봤는데 먹다가 질린 과자 팔아봤어요ㅋㅋㅋ
+P0 	: 오 과자도 팔리나요? 전 화장품만 팔아봤어요.
+P1 	: 네네, 팔리더라구요ㅋㅋㅋ
+P1 	: 아빠 책상도 하나 샀어요
+P0 	: 와 신기해요. 책상은 들고오기 힘들지 않으셨어요?
+P1 	: 차로 옮겼어요ㅋㅋㅋ 옮겨주신 거였나, 엄마가 거래해오시더라구요
+P0 	: 차로 옮길 수 있는 정도라니 다행이네요! 진짜 당근마켓에 다양한 물건들이 많군요!

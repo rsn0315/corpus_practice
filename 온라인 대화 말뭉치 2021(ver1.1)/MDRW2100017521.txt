@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 혹시 일하시는중이신가요?
+P1 	: 안녕하세요~ 아니요! 전 아직 학생이라서요ㅎㅎ
+P1 	: &name1&은 직장인이신가요?
+P0 	: 네 저는 직장인이에요! 학생이시라부러워요ㅠㅠ!
+P1 	: 전 &name1&이 부러운데요ㅎㅎ
+P1 	: 어떤 직종에서 일하시고 계신가요?
+P0 	: 저는 과학실험제품 만드는곳에서 일하고있어요ㅎㅎ
+P0 	: 혹시 취준생이신가용?
+P1 	: 아뇨 전 졸업반두 아니라서
+P1 	: 우와 신기하네요
+P0 	: 아아 정말 부러워용! 학생일때가 좋았다고 생각들더라구요!ㅎㅎ 저는 이직준비해야하는데 선뜻 마음이 안잡히네용ㅜㅜ
+P1 	: 이직 준비하시는 이유가 뭔지 여쭤봐두 될까요?
+P0 	: 아무래도 연봉이겠죠...?ㅠㅠ 그러려면 스펙도 더쌓아야하는데요ㅜㅜ
+P1 	: 헋 정말 어른같아요
+P1 	: 학생 시절일때 해놓으면 좋은게 뭐가 있을까요?
+P0 	: 저는 머리 굳기전에 어학이나 자격증따는게 좋은것같아요ㅠㅠ나이들면 공부를 안해서 그런지 힘들더라구요ㅜㅜ
+P1 	: 아...그런 것같아요
+P1 	: 과학실험제품 만들면 주로 어디로 가나요?
+P0 	: 학교로도 가고 실험실로도 가요ㅎㅎ저는 해외영업팀이라 수출을 한답니당

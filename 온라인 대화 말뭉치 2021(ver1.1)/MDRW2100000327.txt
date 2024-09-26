@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000327
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210818
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 일은 할만하신가요
+P1 	: 네 할만합니다~!
+P0 	: 어떤일하시나요?
+P1 	: 대화 내용 식별화 하는 일을 하고있습니다~!
+P0 	: 아 특이한 일을 하시네요
+P0 	: 재택은 아니죠?
+P1 	: 네 회사에 나와서 일하고 있어요
+P0 	: 아하ㅋㅋ
+P0 	: 출근길은 머시나요?
+P1 	: 집에서 50분 정도 걸리는거 같아요
+P0 	: 아 지하철로 다니시나요?
+P1 	: 네 지하철로 다녀요
+P0 	: 사람 많지않아요?
+P0 	: 요즘 코로나가 심해서;;
+P1 	: 출근시간이라 사람이 엄청 많네요 ㅠ

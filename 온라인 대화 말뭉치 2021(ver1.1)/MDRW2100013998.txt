@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 최근에 여행가신 적 있으세요?
+P1 	: 올해는 없네요 작년에 여수갔었어요
+P0 	: 여수 좋으셨겠어요!
+P0 	: 어디 추천할만한 곳 있나요?
+P1 	: 근데 비가 너무많이와서 제대로 구경못햇어요
+P1 	: 워낙작아서 사실 하루면 다돌아요ㅋㅋ
+P0 	: 예전에 엑스포 가보고 못가본거 같아요ㅋㅋㅋ
+P1 	: 친가가 여수라 어릴때는 휴가때마다 낚시 갔었는데
+P1 	: 오랫만에 관광가니 새롭더라고요
+P0 	: 낚시도 할 수 있군요!
+P0 	: 여수바다에서 하신거에요?ㅎㅎ
+P1 	: 그쵸 그때는 딴데는 안가고 무조건 바다낚시만 하다 왔었어요
+P0 	: 물고기 많이 잡히나요?
+P1 	: 네 고기잡고 성게 이런것도 잡고요ㅋㅋ
+P0 	: 오 바다낚시 가보고 싶네요ㅋㅋ
+P1 	: 요즘은 여행자체를 다니기가 힘드니 아쉽네요
+P0 	: 맞아요ㅜ 코로나만 끝나면 해외로 날아가고 싶네요ㅋㅋㅋㅋ
+P1 	: 해외여행 많이 다니셨어여?
+P0 	: 해외 여행 떠나고 싶어요ㅋㅋ

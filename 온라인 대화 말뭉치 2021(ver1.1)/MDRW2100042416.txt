@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100042416
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어제 춥더라니 또?
+P0 	: ㅎㅎ 에어컨 틀었어요 그래서
+P1 	: 전기세 많이 나오겠다
+P0 	: 근데 찝찝하고 건조기 못돌리면 빨래도 안말라서
+P1 	: 나중에 돈 많이 벌어서 건조기 사야겠네
+P0 	: 지금은 안오는거같은데 창문 열어볼까봐요
+P1 	: 열신데 지금 열면 춥지않을까
+P0 	: 자기 전엔 닫을거니까 괜찮을걸요
+P1 	: 선풍기만 틀어도 추운데 넌 참 열도 많다
+P0 	: 여름이라 어쩔수 없어요 9월이면 가을이지만
+P1 	: 입추 다 지났는데 무슨 여름이야~
+P0 	: 물결도 쓰시고.. 하여튼 더우면 여름이라구요 지금 장마인듯
+P0 	: 근데 장마 안끝난거면 여름 맞지 않아요?
+P1 	: 집에 복숭아 사놨다
+P0 	: 저는 못먹는거 자랑하시구
+P1 	: 와서 먹어
+P0 	: 그러고 싶다.. 복숭아 너무 맛있어요 요즘에 너무 못먹었어
+P1 	: 수박도 썰어줄게
+P0 	: 복숭아랑 수박 잔뜩 먹고싶다˜
+P1 	: 여름 지나가면 못먹을텐데

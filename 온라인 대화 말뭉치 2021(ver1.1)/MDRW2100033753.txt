@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100033753
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 &name1&님
+P0 	: 치킨좋아하세요?!
+P1 	: 있으면 먹어요!
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: 치킨플러스
+P1 	: 자주먹어요
+P1 	: 싸서ㅋㅋ
+P0 	: 저렴한가요???
+P0 	: 얼마정도인가요?
+P1 	: 만원대에요!
+P0 	: 와우
+P0 	: 만원이면 사나요?
+P1 	: 정확하게 기억은 안나네요
+P1 	: 어떤브랜드 좋아하세요?
+P0 	: 전 페리카나요ㅋㅋㅋㅋ
+P0 	: 양념vs후라이드?
+P1 	: 아
+P1 	: 어렵네요ㅋㅋ
+P1 	: 양념?
+P0 	: ㅋㅋㅋ저도요
+P0 	: 처갓집 vs 페리카나?
+P1 	: 둘다 안먹어봤어요ㅋㅋ
+P1 	: 뿌링클vs고추바사삭
+P0 	: ㅋㅋㅋ전 뿌링클이요

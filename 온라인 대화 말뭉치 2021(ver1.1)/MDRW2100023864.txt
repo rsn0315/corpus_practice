@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100023864
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁드셨나요
+P0 	: 네 아우 배불러 죽겠네요 ㅎㅎ
+P1 	: 오 뭐드셨나요
+P0 	: 저 참치회덮밥 만들어 먹었어요~
+P0 	: 님은요?
+P1 	: 어제 참치뽈찜 아니었어요?
+P1 	: 저는 소고기뭇국 !!
+P0 	: 어머 맞아요 기억하시네요!!
+P0 	: 소고기뭇국 ㅋㅋㅋ 그것도 맛있겠는데 딱 그것만 드셨어요?
+P1 	: 네네 밥말아서 그것만 먹었어요 ㅋㅋㅋ
+P0 	: 아이구ㅜㅜ 그럼 헛배 부르지 않겠어요?
+P1 	: 그래서 복숭아 또먹네요 ㅋㅋ
+P0 	: 아 ㅋㅋㅋ 진짴 ㅋㅋ
+P0 	: 완벽한 디저트이자 후식이네요
+P1 	: 구쵸 ㅋㅋ
+P1 	: 맥주 마실지 고민중이에여
+P0 	: 아이쿸 ㅋㅋ 거기다가 또 맥주까지 먹으시면
+P0 	: 맥주만 곱게 먹진 않으실텐데..
+P1 	: 안주가없어서 복슝아 + 맥주

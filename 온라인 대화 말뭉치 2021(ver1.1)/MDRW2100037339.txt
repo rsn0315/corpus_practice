@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100037339
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 새우 먹고 싶다
+P0 	: 새우는 어떻게 요리하든 맛있어
+P1 	: 새우구이가 제일 맛있어
+P0 	: 우리 자주 가는 집 맛있지
+P1 	: 거기는 직접 키우잖아
+P0 	: 맞아 그래서 싱싱해
+P1 	: 에우튀김도 맛있어
+P0 	: 새우튀김 진짜 맛있지
+P1 	: 멘보샤도 맛있는데
+P0 	: 이염 복꺼가 그렇게 맛있다던데
+P1 	: 나는 먹어봤지
+P0 	: 새우 만두 도 맛있어
+P1 	: 정말 만능이구나

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013039
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연애중이신가요??
+P1 	: 네 ㅎㅎ 연애하세요?
+P0 	: 저는 솔로예요!!
+P0 	: 소개로 만나셧나요?
+P1 	: 아 아뇨 대학에서 만났어요ㅎ
+P0 	: 결혼은 몇살때 하고싶으세요?
+P1 	: 음 아직 생각안하고 있어요ㅠ 더모으면 생각하려구요
+P0 	: 연애하시면서 자주 싸우기도 하시나요?
+P1 	: 네 자주 싸우죠ㅎㅎ 연애하실때 자주 싸우세요?
+P0 	: 사소한걸로 많이 싸우게 되지않나요?? ㅎㅎ
+P1 	: 네 시간이 지나도 싸우더라구여ㅋㅋ
+P0 	: 그러다가 다시 풀리고 반복이죠 ㅋㅋㅋ
+P1 	: 맞아요 그리고 어느순간 그게 지겨워지면 헤어지구ㅜㅜ
+P0 	: 이별은 슬프죠 ㅠㅠ

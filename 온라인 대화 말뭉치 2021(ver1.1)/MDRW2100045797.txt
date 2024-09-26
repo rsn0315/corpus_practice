@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100045797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 형제 있으세요?
+P0 	: 네 오빠 한명 있어요 &name2&님은요?
+P1 	: 전 언니랑 남동생이요!
+P0 	: 와 세명이시네요 ㅎㅎㅎ 중간이 다들 제일 힘들다고 하던데 ㅠ
+P1 	: 약간 중간에 낀 느낌이 있긴해요ㅋㅋㅠㅠ
+P1 	: 오빠랑 사이 좋으신가요?
+P0 	: 저희는 그냥... 혈연관계입니다..ㅎㅎㅎ
+P0 	: 사이가 나쁜건 아닌데 친하지도 않아서 이쉬워요
+P0 	: 형제분들과 친하신가요?
+P1 	: 저도 진짜 혈연관계요ㅋㅋㅋㅋ
+P1 	: 언니랑 친한 애들 많던데 부럽더라구요ㅠㅠ
+P0 	: 맞아요. 저는 친오빠보다 친척언니동생들이랑 저 친해요
+P0 	: 그래도 진짜 속마음은 한번씩 친오빠함테만 하고 그렇네요
+P1 	: 그래도 형제가 있으니 좋은 것 같아요
+P1 	: 해가 갈수록 사람들하고도 조금 터놓고 이야기하기 힘들어지네요
+P0 	: 네. 친구들하고도 안맞을때가 좀 있어서.. 말도 가려서 하게되더라구요
+P0 	: 공통주제만 얘기히고
+P1 	: 맞아요...갈수록 친구풀도 점점 좁아지는 거 같아요
+P0 	: 네 서글프네요. 딱맞는 사람이 있으면좋뎄는데 욕심이겠죵
+P1 	: 맞아요...그래도 점점 익숙해지겠죠...서글프네요 진짜

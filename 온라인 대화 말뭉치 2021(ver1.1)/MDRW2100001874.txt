@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001874
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 혹시 좋아하는 책 있으세요?
+P1 	: 요즘 주식책보고있어요
+P1 	: &name1&님은요(?)
+P0 	: 저는 만화책이나 철학책 자주봐요
+P0 	: 드래곤볼이나 이런거..ㅎㅎ
+P1 	: 드래곤볼은 문학상 받아안죠
+P0 	: 혹시 만화책 보시는거 있어요?
+P1 	: 예전에 나루토요
+P0 	: 전 아직 나루토 안봤는데 재밌어 보이더라구요
+P0 	: 근데 혹시 주식책 보시고 돈 좀 버셨어요?
+P1 	: 나루토 재미있어요
+P1 	: 주식은 손해죠^^
+P1 	: 책은 도움이 됩니다
+P0 	: 아..ㅎㅎ
+P0 	: 저도 철학책 가끔 보면 생각 많이 들더라구요
+P1 	: 맞아요 생각 하게되는 책 이죠
+	  잡지도 많이보세요?)
+P0 	: 아뇨 제가 잡지는 잘 안보고 미용실 가면 있는거 가끔...ㅎㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100040809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 특히 학생은 빨리 잡아주시는게 좋을꺼같아여!
+P1 	: 코막히면 입으로 숨쉬면서 잠도 숙면에 들기 힘들수있어여ㅠ
+P0 	: 네..어제가려다 아들이 괜찮다해서안갔는데
+P1 	: 코가막히면 여러모로 이만저만 힘들어여ㅠㅠ
+P0 	: 오늘은 꼭 데리고 갈께요
+P1 	: 전 독립해서 지금 부모님댁이랑 멀리살지만
+P1 	: 딱가는병원정했었어요
+P1 	: 그병원에서 처방해주는약이 잘맞더라구여
+P0 	: 소아과도괜찮죠,
+P0 	: 이빈후과는일요일에 안해서요
+P1 	: 소아과는 일요일날하나요!?
+P1 	: 이비인후과가면 치료도 3분정도 하는데
+P0 	: 네..집앞소아과요
+P0 	: 아..그래요?
+P1 	: 그런건 소아과에 없을꺼같긴한데!
+P0 	: 맞아요..약처방해주는거밖에는
+P0 	: 이빈인후과로 가야겠네요
+P0 	: 그냥 어찌어찌 낫겠지했는데 &name2&님이야기들어보니 병원가야겠네요.
+P1 	: 병원가서 한번 진찰은 받아보세요ㅠ! 거의..매년 그럴 증상이있을확률이 높겠어요ㅠㅠ
+P0 	: 네.감사해요
+P0 	: 꼭 가볼께요
+P1 	: 아드님이 언능 낫길바랍니다!!

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드셧나용
+P1 	: 네. 간단하게 시리얼 먹었어요.아침 챙겨드셨나요
+P0 	: 오오 시리얼 !!
+P0 	: 저는 아침 안먹고 점심 먹을려고요 !
+P1 	: 브런치인가요~점심은 어떤거 드실생각인가요
+P0 	: 짜파게티 먿을려구용!!!!
+P1 	: 짜장라면 맛있겠네요. 전 점심때는 김치찌개 먹으려구요
+P0 	: 우아 김치찌개
+P0 	: 직접 만드셧너요?
+P1 	: 아뇨 식당에서 ㅋ
+P0 	: 오오 김치찌개 좋죠 ㅠㅠㅠ 부대찌개 먹고싶네여
+P1 	: 햄듬뿍 들어간 부대찌개도 맛있죠.
+P0 	: 맞아요!! 부대찌개 은근 재료 엄청 넣드라구요
+P1 	: 그렇죠. 밀키트 사서 먹는것도 좋아요. 재료손질이 다되어있어서 끓이기만 하면되요
+P0 	: 오오 밀키트

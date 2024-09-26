@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100002808
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 네 좋아합니다
+P0 	: 저도 여행 좋아해요
+P1 	: 최근에 가본 여행지 있으신가요
+P0 	: 최근에는 코로나 때문에 여행을
+P0 	: 못갔네요
+P1 	: 저도요
+P1 	: ㅠㅠ
+P0 	: 기억에 남는 곳은?
+P1 	: 음
+P1 	: 잘 생각이...
+P1 	: 먼저 말씀해주시겠어요
+P0 	: 저는 강릉이요
+P1 	: 오 강릉 좋지요
+P0 	: 뭐가 기억에 남으셨나요
+P0 	: 저는 안목해변이요
+P1 	: 저는 강릉에 가본 적은 없어요
+P1 	: 좋다고 들어서 ㅋㅋㅋ
+P0 	: 글쿠나
+P1 	: 코로나때문에 안타깝네요
+P0 	: 맞아요
+P1 	: 여행 가고싶네요 ㅠㅠ

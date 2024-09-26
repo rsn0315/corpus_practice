@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002714
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 고구마 좋아하시나요
+P1 	: 네 고구마 좋아해요
+P0 	: 어떤 고구마 좋아하시나요
+P0 	: 저는 퍽퍽한 밤고구마 좋아해요
+P1 	: 저는 호박고구마요!ㅋㅋㅋㅋ
+P1 	: 오늘 점심은 드셨나요!
+P0 	: 호박고구마 달콤하니 맛나죠!
+P0 	: 네 저는 초밥먹었어요! 식사하셨나요?
+P1 	: 초밥 맛있었겠다ㅎㅎ 저는 아직 안먹었는데 곧 먹으려구요~!
+P0 	: 어쩌다 식사를 거르셨대요ㅠ 에구 뭐 드실거에요?
+P1 	: 저는 제육덮밥 먹을 것 같아요ㅋㅋㅋ 자꾸 생각이나서..
+P0 	: 너무 맛있겠다
+P0 	: 매콤하니 좋은 선택인 거 같아요
+P0 	: 점심을 너무 늦게 드시면 저녁 조금 부담되지않으세요?
+P1 	: 생활 패턴이 다른 사람들보다 좀 늦은 편이라..! 저한테는 이게 점심이긴 해요!
+P1 	: 후식은 안드셨나요 날도 더운데 시원한 음료라거나..
+P0 	: 아 그러시구나 제가 너무 편협적인 생각을 가지고 있었네요
+P0 	: 후식은 편의점에서 파는 컵음료 마셨어요
+P0 	: 요즘 잘 나오더라구요
+P0 	: 좋아하는 음료는 어떤건가요?
+P1 	: 카페음료는 아니지만ㅎㅎㅎ 요슴 펩시제로 많이 마셔요 라임맛 맛있더라구요
+P1 	: &name1&님은 어떤 음료 좋아하세요~?
+P0 	: 라임맛도 있어요? 저도 한번 먹어봐아겠어요^^
+	  전 자몽에이드 좋아합니다
+P0 	: 뭔가 새콤함이 매력적이에요

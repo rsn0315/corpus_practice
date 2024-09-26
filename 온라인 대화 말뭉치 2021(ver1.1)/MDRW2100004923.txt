@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100004923
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 드셨나요?
+P1 	: 아직이요 점심을 늦게먹어서^^
+P1 	: 식사하셨어요?
+P0 	: 그렇군요^^ 뭐드시나요? 저는 감자부침개를 해먹으려고요ㅎㅎ
+P1 	: 오 비오는날 부침개 좋죠
+P1 	: 감자전 저도 좋아해요
+P0 	: 그죠 이상하게 비만오면 부침개가 땡겨요ㅋ
+P1 	: 빗소리랑 비슷해서 그렇대요
+P1 	: 부침개 지지는 소리가^^
+P0 	: 아ㅋㅋ 그렇네요 정말 신기하네요ㅋㅋ
+P1 	: 감자는 채썰어서넣나요?
+P0 	: 네네 저는 재료준비만 도와드리고 ㅎㅎ
+P1 	: 갈아서 해도 맛있던데ㅎ 저도 먹고싶네요
+P1 	: 저녁은 감자전으로 끝?
+P0 	: 아마두요ㅎㅎ 밤늦게 배고프면 간식을 먹는걸로ㅎㅎ
+P1 	: 초간장도 만드셔야죠ㅎㅎ
+P0 	: ㅋㅋ그러네요 저녁은 뭐드셨어요?
+P1 	: 저녁은 이따 배고프면 먹을려구요
+P1 	: 제육볶음 꺼내놨는데 녹질않네요
+P0 	: 날씨도 선선해져서그런지 음식이 바로 안녹더라구요ㅎㅎ
+P1 	: 냉장고에 올려놨는데 물에 담가야 되겠어요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100042667
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 헤어스타일이 어케 되세요?
+P1 	: 저는 지금 중단발이요
+P1 	: &name1&님은요.
+P1 	: ??
+P0 	: 저는 어깨선에서 꽤 내려왔어요.
+	  염색도 해야하는데 귀찮네요.
+	  염색하셨어요?
+P1 	: 저는 한 번 했다가 색 신경쓰는게 싫어서 이젠 안해요
+P0 	: 저도 염색을 안하고 있어요.
+	  파마하셨어요?
+P1 	: 지금은 안했어요
+P1 	: 파마 하셨나요?
+P0 	: 저는 그냥 긴 생머리를 묵고 다녀요.ㅎ
+P1 	: &name1&님은 다이어트 하시나요?
+P0 	: 저는 마른 편이지만 뱃살 다이어트는 하고 있어요.ㅎ
+P1 	: 어떤 운동 하시나요?
+P0 	: 계단오르기 하고 있는데요.
+	  힘들어요.ㅋ
+P1 	: 몇 층을 오르시나요??
+P0 	: 6층요.
+	  엘베타고 내려가서 힘들 때까지 반복해요.
+P1 	: 진짜 운동이네요

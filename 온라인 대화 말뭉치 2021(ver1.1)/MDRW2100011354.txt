@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011354
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 비가 오나요?
+P0 	: 아까까진 내렸는데 지금은 안오네요
+P0 	: &name2&님 지역은 어떠신가요?
+P1 	: 서울이요~
+P1 	: 가을이 부쩍 온것같아
+P1 	: 요!
+P0 	: 맞아요 이제 슬슬 춥다는 느낌이 오고 있다는 느낌이 오죠?
+P1 	: 맞아요ㅋㅋㅋ
+P1 	: 에어컨도껐어요
+P0 	: 그러니까요
+P0 	: 가을에 주로 어떻게 입으시나요?
+P1 	: 주로 슬랙스
+P1 	: 입는것같아요
+P1 	: 님은요?
+P0 	: 저도 긴팔에 슬랙스 입는 것 같아요
+P1 	: 가을이 날씨가
+P1 	: 제일좋은것같아요
+P0 	: 맞아요 낙엽밟는 것도 좋고 옷차림도 다양하잖아요
+P1 	: 맞아요 그리고
+P1 	: 가을옷이 제일이쁜것같아요
+P0 	: 맞아요 적당히 차분하면서도 레이어드 할 부분도 많아서 다양하게 입을 수 있으니까요

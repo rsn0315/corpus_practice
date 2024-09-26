@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100010121
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 안녕하세요?
+P1 	: 안녕하세요
+P0 	: 결혼하셨나요?
+P1 	: 아니요
+P0 	: 이상형이 어떻게되나요
+P1 	: 저는 약간 곰돌이상을 좋아해요
+P0 	: 저랑 비슷하네요ㅋㅋ
+P0 	: 마른남자 젤시러요ㅋㅋ
+P1 	: 아 &name1&님도 곰돌이상이 이상형이시군요
+P0 	: 마지막연애는요?
+P1 	: ㅎㅎ지금 만나는 사람이 있어요
+P0 	: 아 글쿠나ㅋ
+P0 	: 어떤사람인가요?
+P1 	: &name1&님은요?
+P0 	: 전 기혼이고 신혼입니다ㅋㅋ
+P1 	: 아 신혼이시군요
+P1 	: 결혼하신지 얼마나 되셨나요?
+P0 	: ㅣ년이요~
+P0 	: &name2&님은 어떤분과 결혼하고싶나요?
+P1 	: 오 그러시군요
+P1 	: 저는 안정적이고 따뜻한 사람이랑 결혼했으면 좋겠다고 생각하는데
+P1 	: 결혼도 인연과 때가 있다고 하더라고요
+P1 	: &name1&님은 결혼을 결심한 계기가 있었나요?
+P0 	: 소개팅에 지쳐있었는데, 그날도어김없이 그저그런사람이 나오겠지하고 나갔는데
+	  남편이 밝은얼굴과 살아있는 똘망한 눈빛을하고있었어요
+P0 	: 자상하고 다정하고 성실한사람이라 결혼하게됐어요
+P0 	: 지금 남친은 어떠신가요?!~^^
+P1 	: 오 좋은 인연을 만나셨군요!!
+P1 	: 제 지금 연인은 성실하고 따뜻한 사람이예요
+P0 	: 네 결국 돌고돌아 만난거죠^^
+P0 	: 오~~그럼 결혼할수도있겠네요?!~
+P1 	: 그건 아직 잘 모르겠어요~
+P0 	: 만나신지오래됐나요?
+P1 	: 아뇨 이제 100일정도요

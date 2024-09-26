@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027475
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요
+P1 	: 네! 비빔밥 먹었어요 &name1&은 드셨나요?
+P0 	: 저는 컵라면 먹었은데 엄마가 소고기 사오셔소
+P0 	: 둘다먹었어요 ㅋㅋ
+P0 	: 재택근무중이에용
+P1 	: ㅋㅋㅋㅋ옹 점심 소고기 짱이에요!!! 부러운ㅋㅋㅋㅋ 재택근무하면 집밥 먹을 수 있어서 좋죠 
+P0 	: 맞아요 재택 최고 일은 잘 안되지만 ㅋㅋ
+P1 	: ㅋㅋㅋ맞아요 좀 분위기 환기시키고 싶어지구{emoji:…}{emoji:…}카페 좋아하세요??
+P0 	: 네카페좋아하는데 요즘은 ㅌㅔ이크아웃만해요
+P1 	: 저두요ㅜㅜ 헉 을지로에 있는 커피한약방 가보셨나요? 나중에 시국 풀리고 함 가보세요 거기 분위기 좋아요!!!
+P0 	: 헐 저는 뷰산이에요ㅠㅠ 커피한약방 메모메모
+P0 	: 서울가면 꼭 가볼게요
+P1 	: 네!!! 저도 서울 갔을 때 한 번 가봤어요 ㅋㅋㅋㅋ 부산도 맛있는 거 짱 많다던데 한 번도 못 가본ㅜㅜ.....
+P0 	: 그렇군요ㅠㅠ코로나 ㅠㅠ
+P1 	: ㅜㅜ 여행 이리 저리 국내라도 가고 싶었는데 딱 코로나가 터지더라고요.....
+P0 	: 저도 딱 해외나가자하는순간 코로나
+P1 	: 하{emoji:…}{emoji:…}{emoji:…} 해외{emoji:…}유럽여행가고 싶었어요ㅜㅜ
+P0 	: 저는 전주 콩나물 국밥 정말 좋아해요

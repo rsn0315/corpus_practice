@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019314
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 나 지금 샐러디에 와서 저녁식사중
+P1 	: 오늘은 웜랩을 먹어보고 있엉
+P0 	: 오 웜랩 메뉴는?
+P1 	: 칠리베이컨
+P0 	: 굳
+P1 	: 나는 익숙한 걸 선택하지ㅋㅋ
+P0 	: 같은 드레싱이겠지?
+P1 	: 응 같은 드레싱인듯
+P0 	: 크리미 칠리
+P0 	: 집에서 내가 만든거랑 비겨해봐
+P0 	: ㅋㅋㅋ
+P1 	: 이게 좀 더 매콤한 듯한데
+P0 	: ㅋㅋㅋ글쿤 달콤한 맛은 어때
+P1 	: 반만 먹으려고 했는데 먹다보니 맛있어서 그냥 다 먹어야겠어
+P1 	: 달콤한 건 우리거랑 큰 차이 없는듯
+P1 	: 가족들 저녁메뉴는 뭐야?
+P0 	: 잘했어유
+P0 	: 돈까스 먹었지
+P1 	: 아 시장표 돈까스
+P1 	: 든든히 잘먹었네
+P0 	: 엉 배부르다 집에 김치찌개도 끓였어 아빠가
+P1 	: 오 요즘 메뉴가 화려하네

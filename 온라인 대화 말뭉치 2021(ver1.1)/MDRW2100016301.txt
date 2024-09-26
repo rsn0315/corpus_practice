@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016301
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 아침 드셨나용?
+P1 	: 아니요 오늘 아침은 안 먹었어요 아침 드셨어요?
+P0 	: 저도 늦게 일어나서 아침 못먹었네요
+P0 	: 점심은 뭐 드실건가요?
+P1 	: 지금 먹고 있는데 누룽지 먹고 포도 먹는중이에요ㅎㅎ 아직 점심 안드셨나요?
+P0 	: 오 되게 간단하게 드시네요 갑자기 누룽지가 먹고싶네요ㅋㅋ
+P0 	: 네 이제 곧 먹으려고요!
+P1 	: 오 점심 메뉴 뭐로 드실꺼에요?
+P0 	: 저는 대충 볶음밥 만들어서 먹으려구요ㅋㅋ
+P1 	: 볶음밥이 짬처리도 좋고 간단한데 맛나서 좋죠ㅎㅎ 무슨 볶음밥 좋아하세요? 전 김치나 새우 넣는게 좋더라구요
+P0 	: 그쵸!! 저도 김치볶음밥 좋아해요ㅎㅎ
+P1 	: 김치가 집에 항상 있으니 구하기도 쉽고 만들기도 간단해서 좋은 것 같아요 ㅎㅎ
+P0 	: 맞아요ㅋㅋ 맛있기도 하구요
+P0 	: 혹시 좋아하는 배달음식 있으신가요?
+P1 	: 전 치킨이요 ㅎㅎ &name1&님은요?
+P0 	: 저도 치킨 너무 좋아하죠!ㅎㅎㅎ
+P0 	: 어떤 브랜드 좋아하세요?
+P1 	: bhc랑 교촌 좋아해요 &name1&님은 어느 브랜드 치킨 좋아하세요?
+P0 	: 저는 교촌이요!! 특히 허니콤보 좋아해요ㅋㅋ

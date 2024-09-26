@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100026552
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 뭐해요?
+P1 	: 안녕하세요~ 저는 그냥 누워있어요ㅋㅋ
+P0 	: 아~ㅎㅎ 혹시 학생이세요?
+P1 	: 네 학생입니다!
+P0 	: 개강 하셨겠네요?
+P0 	: 저는 31일에 개강했어요~
+P1 	: 네... 힘들어 죽을거같아요...........
+P1 	: 학교 대면이세요??
+P0 	: 저는 비대면이에요
+P0 	: 시험은 대면입니당
+P1 	: 전 비대면 너무 좋아요
+P1 	: 비대면 만족하세요??
+P0 	: 저도 코로롱은 싫긴하지만 비대면은 솔직히 만족해요 ㅎㅋ
+P0 	: 수강신청은 잘 하셨어요??
+P1 	: 맞아요 수업시작 1분전에 일어나서 들을수 있는게 제일 좋은거같아요ㅋㅋㅋㅋ
+P1 	: 저는 학교에서 정해져서 선택권이 없었어요...ㅜ
+P1 	: 올클 하셨나요???
+P0 	: 넵!! 올클입니다
+P0 	: 솔직히 넘 쉬운거같아요 헤헤
+P1 	: 헉 완전 금손이시네요!
+P1 	: 전 선착순으로 수강신청했던 학기에
+P1 	: 매번 실패했던거같은데...
+P0 	: 근데 수강신청이 참 변수가 많아서
+P0 	: 본인이 잘해도 튕기거나 하는경우가 많도라고용 ㅜㅜ
+P0 	: 저는 운이 좋았던거 같습니당

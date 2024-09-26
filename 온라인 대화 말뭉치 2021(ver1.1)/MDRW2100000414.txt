@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 운동 좋아하세요?
+P1 	: 운동을 전혀 안좋아해서 다이어트는 몸에 안좋지만 약으로 하고 있어요ㅋ
+P0 	: 다이어트 해야하는데 점점 배만 나오네요
+P1 	: 나이가 들면 들수록 배도 나오고 살도 잘 더 안빠지더라구요
+P0 	: 맞아요 딱 제 얘기네요..
+P1 	: 다들 그렇지요^^&name1&님은 
+	  운동 좋아하시나요?
+P0 	: 좋아 했었는데 다치고 나서 부터 몸이 안따라 주니 멀리하고 있네요
+P1 	: 확실히 몸 회복이 더뎌지고 있어요 
+	  더 피로하구요
+P0 	: 맞아요  진짜 30대 딱 되니까 확 느껴져요
+P1 	: 저는 30대후반으로 가니 눈도 피로하고 ... ㅋㅋㅋ
+	  나이를 먹고 있구나..싶어요
+P0 	: 영양제 드시나요?
+P1 	: 네 유산균, 루테인, 종합비타민 먹고있어요
+	  &name1&님은요?
+P0 	: 저는 아무것도 안먹고 있어요
+P0 	: 먹어야 할까봐요...

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용 저녁뭐드셨나요?
+P0 	: 비빔밥먹엇어요
+P0 	: 뭐드셧어요?
+P1 	: 저는 육개장사발면이욬ㅋㅋㅋ
+P0 	: 작은거요?
+P1 	: 네! 작은게 맛있더라구요ㅋㅋ
+P0 	: 그렇죠 작은게 맛잇죠
+P0 	: 그런데 양이 너무 작지 않아요?
+P1 	: 앗 제가 그전에 피자도 한조각 먹었어용
+P1 	: 요즘 피자 너무 맛있어서ㅜㅜ
+P0 	: 피자 좋아하세여?
+P1 	: 요즘 빠졌어요ㅋㅋ 치즈토핑추가해서 먹으니까 완전 맛있어요
+P1 	: 피자좋아하세요?
+P0 	: 네 피자 좋아해요
+P0 	: 무슨피자 좋아하세요?
+P1 	: 저는 종류상관없는데 화덕피자보다는 두꺼운 피자가 좋아요!
+P0 	: 아 저도 두꺼운피자 좋아해요
+P0 	: 좋아하는 피자 브랜드 잇으세요?
+P1 	: 저는 요즘 도미노피자요!
+P0 	: 도미노에 맛잇는 메뉴 잇나요?
+P1 	: 저는 페퍼로니피자 맛잇더라구요?

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036602
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 치킨 드시나요?
+P1 	: 네 치킨있으면 먹죠ㅎㅎ
+P0 	: 자주 시키는 치킨 있나요?
+P1 	: 음 아니요
+	  때마다 다른 치킨을 시키는것 같아요
+	  그리 자주 시키는것도 아니지만요
+P0 	: 그렇군요ㅎ 저는 그때그때 할인 많이하는 치킨을 시켜먹는 편이에여
+P1 	: 할인 이용하면 좋죠
+	  현명한 소비를 하시네요
+P0 	: 굽네 고.추.바.사.삭 치킨은 드셔보셧나요?
+P1 	: 아니요 아직이요 다른 메뉴만..
+P1 	: 그 바사삭메뉴 맛있었나요?
+P0 	: 네 유명한만큼 먹을만 하더라고요
+P1 	: 그렇군요
+	  오랫동안 메뉴에서 사라지지않고 오래 남아 사랑받는거보면 맛있는거겠죠?ㅎㅎ

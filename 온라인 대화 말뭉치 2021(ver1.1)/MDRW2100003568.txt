@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003568
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전시회 보러 다니세요?
+P0 	: 전시회는 잘안보고 영화 가끔보러다녀요
+P0 	: 전시회 좋아하세요?
+P1 	: 저는 대학 때 과제하러 보러 다녔는데 요즘에는 잘 안다녀요
+P1 	: 코로나 때문인지 큰 전시도 많이 없더라구요
+P0 	: 코로나땜에 공연들도 줄고 타격이 심하겠더라구요
+P1 	: 네 공연 업계가 타격이 크겠더라구요
+P0 	: 주말에 영화보고왔는데 그래도 영화관은 사람 많아요
+P1 	: 콘서트 같은 건 전혀 못하는 것 같고요
+P1 	: 무슨 영화 보셨어요?
+P0 	: 모가디슈  보고왔어요
+P1 	: 아 그거 재밌다고 하더라구요
+P1 	: 어떠셨어요?
+P0 	: 저도 내용모르고갔는데 생각보다 재밌었어요
+P0 	: 2시간인데 지루하지도 않고
+P1 	: 실화라고 하니까 더 재밌어 보이더라구요
+P0 	: 다들 연기 잘하더라구요  조인성이랑 김윤석이랑
+P1 	: 저도 극장 가서 봐야겠네요
+P1 	: 미리 어플에서 예매해야겠어요
+P1 	: 요즘 티켓 값도 비싸더라구요
+P0 	: 시간나실때 보고오세요 추천해요ㅎ
+P0 	: 13000원이래요 영화도

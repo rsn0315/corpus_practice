@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010128
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 대화 가능하신가요?
+P1 	: 네ㅎ
+P1 	: 태풍온대서 그런지 비오네요
+P1 	: 거기도 비오나요?
+P0 	: 오전부터 왔다가 안 왔다가 하네요
+P0 	: 많이 오시나요?
+P1 	: 점심먹고나오니 비오더라구요
+P1 	: 많이오진 않네요
+P1 	: 남부지방은 많이오는거같던데
+P0 	: 그러게요
+P0 	: 큰 피해 없었으면 좋겠어요
+P1 	: 제주도 많이오나봐요
+P1 	: 그래도 비와서그런지 선선해져서 좋네요
+P0 	: 네 이번 장마 끝나면 가을일 거 같아요
+P0 	: 가을 좋아하세요?
+P1 	: 가을 제일좋아해요^^
+P0 	: 저도요! 시원하고 습하지 않아서 제일 좋아요
+P0 	: 더위나 추위 많이 타시나요?
+P1 	: 좀 길면 좋겠는데 이러다 훅 겨울 와서 아쉬워요
+P0 	: 맞아요ㅠㅠ 너무 짧아요
+P1 	: 네 둘타 타는 이상한체질ㅋ
+P1 	: 여름보단 겨울이 낫지 싶어요
+P1 	: 파르페님은요?
+P0 	: 매번 고생하시네요ㅠㅠ 전 더위를 더 많이 타서 여름에 정말 죽는 줄 알았어요
+P0 	: 이번에 너무 덥더라고요

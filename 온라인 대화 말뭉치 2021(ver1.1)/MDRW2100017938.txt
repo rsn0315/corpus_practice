@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017938
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리 하는거 좋아하세요?
+P0 	: 예쁘게 하지는 못하는데 그래도 먹을순있게.. 약간 생존형 요리를 해요! ㅋㅋ
+P1 	: 생존형 요리라니ㅋㅋㅋ 궁금하네요
+P1 	: 배달 음식보단 직접 해먹는게 좋을 거 같아요
+P0 	: 맞아요 그래도 직접 해먹는게 맛도 건강에도 좋은 것 같아요 !
+P0 	: 그래도 요즘에는 밀키트가 잘나와서 예전보다 요리하기가 수월해진것 같아요!
+P1 	: 맞아요 편리한 세상! 밀키트 맛있는 거 있나요
+P0 	: 음 아 이건 밀키트는 아닌데 매콤한거 좋아하시면 하남쭈꾸미 너무 맛있어요! 쭈꾸미도 넉넉하고 맛있어요
+P1 	: 앗 쭈꾸미 너무 맛있는 메뉴네요! 메모해둬야겠어요ㅎㅎ
+P1 	: 저는 아직 엄마밥 먹어서 밀키트 먹을 기회는 잘 없는데
+P0 	: ㅋㅋ오 사실 엄마밥이 최고죠ㅠㅠ 점심드셨어요?
+P0 	: 저는 떡볶이먹었어요 ㅋㅋ
+P1 	: 네 오늘 식당 메뉴가 모밀소바랑 닭오븐구이였습니다 ㅎㅎ
+P0 	: 헐 닭오븐구이에 모밀소바라니!!! 밸런스가 짱인데요?!?!?!
+P1 	: ㅋㅋㅋㅋ저희 동료들끼리는 이게 무슨 조화냐 했는데 말이죠
+P0 	: ㅋㅋㅋ헛 정말요?ㅋㅋㅋ 하긴 차가운소바에 뜨끈한거라고 생각하면 좀 그럴수도있겠어요 ㅋㅋㅋ

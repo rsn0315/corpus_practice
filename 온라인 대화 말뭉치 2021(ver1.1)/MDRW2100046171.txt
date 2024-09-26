@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P1 	: 나는 부대찌게 시켜먹을거야
+P0 	: 소세지 좋아하나보다
+P1 	: 스팸도 추가할거야
+P0 	: 요즘 쌀쌀해서 국물있는게 좋아
+P1 	: 너는 뭐먹을거야
+P0 	: 나는 순두부찌개먹을거야
+P1 	: 오 맛있겠다
+P0 	: 순두부찌개좋아해?
+P0 	: 점심시간곧이네
+P1 	: 응 곧 밥먹어야지
+P0 	: 부대찌개에 사리 뭐 추가해?
+P1 	: 스팸이랑 라면
+P0 	: 맛있겠다
+P0 	: 나는 쫄면
+P1 	: 쫄면로 맛있지

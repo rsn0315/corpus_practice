@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100037455
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 님 점심 뭐 드시나요?
+P0 	: 저는 만두국 먹었어요ㅋㅋㅋㅋ
+P0 	: 점심 뭐드셨어요?
+P1 	: 전 집에 있는 반찬 꺼내서 먹었어요
+P0 	: 어떤 반찬 드셨어요?
+P1 	: 가지볶음이랑 어묵볶음 그리고 이것저것 먹었어요ㅋㅋ
+P1 	: 저녁도 똑같이 먹고 있어요
+P0 	: 오 어묵볶음 맛있겠다
+P0 	: 가지 좋아하세요?
+P1 	: 네ㅋㅋ 요즘 가지볶음에 꽂혔어요
+P0 	: 아 ㅋㅋㅋㅋ가지 좋아하시능구나
+P0 	: 가지요리 생각보다 엄청 많더라구요!
+P1 	: 그쵸 가지파스타 이런 것도 있던데요
+P0 	: 네네 신기해요 ㅋㅋㅋㅋ저는 가지는 안좋아해서요...ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋ전 가지가 왜 이렇게 좋은지 모르겠어요 생가지도 먹어본 적 있는데 맛있더라고요
+P0 	: 생가지두요??ㅋㅋㅋㅋ
+P0 	: 진짜 취향에 맞으시나봐요 ㅋㅋㅋ
+P1 	: 네ㅋㅋㅋ
+P1 	: 또 안 좋아하거나 안 먹는 거 있으세요?
+P0 	: 저는 비린거 못먹어요 ㅠㅠ
+P1 	: 그럼 해산물 잘 못 드세요?
+P0 	: 네네 익힌건 좀 먹지만 날거잘 못먹어요!
+P1 	: 저도 날음식은 별로더라고요 이걸 굳이 왜 먹나 싶어요ㅋㅋ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009233
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 반려동물 키워보신 경험이 있으신가요?
+P1 	: 네 저는 햄스터 키워본 적 있어요
+P0 	: 햄스터 이름도 지어주셨었나요?
+P1 	: 색깔 대로 &name3&이 &name4&이 였던 거 같아요ㅋㅋ
+P0 	: 한 번에 두 아이를 동시에 기르셨나요?
+P1 	: 네 각각 암컷 수컷이었거든요
+P0 	: 저도 예전에 고슴도치 두 아이를 키웠었어요!
+P1 	: 고슴도치 이름이 궁금하네요~
+P0 	: &name5&랑 &name6&로 지었어요!
+P1 	: 헐 너무 귀엽네요 두 아이는 성별이 어떻게 되나요?
+P0 	: 저도 암컷 수컷 한 마리씩 키웠어요!
+P1 	: 저희 햄스터는 아기들을 낳았는데 고슴도치 친구들도 그랬나요?
+P0 	: 2번 임신해서 5마리, 4마리 나았었어요

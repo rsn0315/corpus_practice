@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 어디 여행이 제일좋으셨나요
+P0 	: 저는 일본여행이요!
+P1 	: 일본좋죠
+P1 	: 저는 북해도갔었어요
+P0 	: 오 저는 오사카 후쿠오카 가봤어요
+P1 	: 대마도도 가봤네요
+P1 	: 머가 맛있나요
+P0 	: 후쿠오카 함바그 맛있었어요! 우와 대마도
+P1 	: 함바그저도 맛있게 먹었어요 후쿠오카가 우유가 질좋더라구요 초코도 맛있구
+P0 	: 대마도는 어떠셨나요 부산에서 배타죠?
+P1 	: 네 등산하러 많이 가는동네더라구요 전 산안탔지만 ㅋㅋ
+P0 	: 대마도도 일본 특유의 분위기있나요ㅎㅎ
+P0 	: 요즘 그립네요
+P1 	: 오밀조밀 시골 사람들 사는동네같아요
+P1 	: 가구며 집도작고 깨끗한동네더라구요
+P0 	: 코로나가 잠잠해져야 가볼텐데ㅠ
+P1 	: 맞아요ㅜㅜ

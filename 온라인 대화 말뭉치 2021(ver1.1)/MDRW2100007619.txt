@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요 비와서 날씨가 시원하네요
+P0 	: 네 요새 선선해져서 좋네요
+P1 	: 바람부니까 살거같아요ㅎ
+P0 	: 그러게요 한창 더워서 죽을거 같았는데!
+P1 	: 요즘은 딱 산책하기 좋은 날씨같아요
+P0 	: 네 점심은 좀 덥더라고요
+P1 	: 그래도 여름이 지나간다니 벌써 계절이 바뀌는게 안믿기네요
+P0 	: 네 여름이 가는군요
+P1 	: 휴가도 못가서 여름같지가 않았어요ㅠ
+P0 	: 아 그러게요 ㅎㅎ 코로나때문에
+P1 	: 네..계절 지나가는걸 그냥 보고만 있네요ㅎㅎ
+P0 	: 그래도 벌써 가을이에요!

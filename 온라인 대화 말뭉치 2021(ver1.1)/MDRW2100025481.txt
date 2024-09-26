@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025481
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 점심뭐드셨어요??
+P0 	: 집밥 먹었어요 &name2& 님은요?
+P1 	: 저는 회사밥ㅋㅋㅋ 오늘생선나와가지고 너무먹을게없었어요ㅜㅜ
+P0 	: 생선 싫어하세요?
+P1 	: 넹ㅋㅋㅋ 물에빠진고기를안좋아해여
+P0 	: ㅋㅋㅋㅋㅋ저도 해산물 별로 안 좋아해요
+P0 	: 좋아하는 음식이 뭐예요?
+P1 	: 고기?ㅋㅋㅋㅋㅋㅋ
+P1 	: 육식파인거같아여
+P0 	: 아ㅋㅋㅋ
+P0 	: 저는 채식파예요
+P1 	: ㅋㅋㅋ 채식은 고기있을때만먹어여..ㅋㅋㅋㅋㅋㅋ
+P0 	: 저희 엄마랑 똑같으시네요ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ그럼요 말하니까 고기가먹고싶어여
+P0 	: ㅋㅋㅋㅋ 점심 드셨나요?
+P1 	: 오늘은 안동찜닭이였어여ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ 맛있었겠네요
+P0 	: 전 아까 제가 제일 좋아하는 크림소보루 먹었어요
+P1 	: 크림소보루맛있겠다 ㅜㅜ 빵맛있쪄

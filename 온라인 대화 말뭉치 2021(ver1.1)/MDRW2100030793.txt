@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네 안녕하세요!ㅎㅎ
+P0 	: 날씨가 좋죠!
+P1 	: 네 오랜만에 이불세탁해서 마당에 널어놓구 광합성하려고 산책 나왔어요ㅎㅎ
+P0 	: ㅎㅎ앗 저도 여름옷 빨고 산책갔어요
+P0 	: 산책은 좋으셨나요?
+P1 	: 네 오늘은 바람도 시원하더라구요ㅎㅎ 몇일 비만와서 우울했는데 기분전환 됐어요ㅎ
+P0 	: ㅎㅎ맞아요 저도 오늘기분좋았어요
+P0 	: 식사는하셨죠?
+P1 	: 네 저녁 맛있게 먹었습니다ㅎㅎ
+P0 	: ㅎㅎ메뉴는어떤거였나요
+P1 	: 엄니가 해주신 제육볶음이요ㅎㅎ &name1&님은 저녁메뉴가 뭐였나요?
+P0 	: ㅎㅎ저는 감바스랑맥주요
+P0 	: 동호회하시는거있나요?
+P1 	: 몸이 안좋아서 질병관련 모임 하나에 참여하고 있어요ㅎ
+P0 	: 앗ㅜㅜ좋아지시면좋겠어요
+P0 	: 모임에서얻는게있을것같아요
+P1 	: 그렇죠 병원점보라든가 위급상황 대처법 등등 정보공유가 활발하죠ㅎ

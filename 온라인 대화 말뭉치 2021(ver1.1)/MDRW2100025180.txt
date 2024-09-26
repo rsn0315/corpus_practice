@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100025180
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 요즘 드라마 보시나요?
+P1 	: 요즘 슬의생 보고 있어요!
+P0 	: 시즌1도 보셨나요?
+P1 	: 네! 시즌1 재밌어서 2도 보는건데
+P1 	: 2는 1보다 좀 재미가 덜해서 아쉬워요ㅜㅜ
+P0 	: 저도 시즌1  재밌게 봐서 엄청 기다린건데 너무 뻔하고 작위적인 느낌이 강해서 아쉬워요
+P0 	: 라켓소년단은 보셨나요?
+P1 	: 아니요! &name1&님은 재미있기 보셨나요??
+P0 	: 꼭 보세요 요즘 드라마 자극적인데 너무 힐링되고 재밌어요
+P1 	: 맞아요 요즘 드라마 자극적인게 너무 많아요ㅜㅜㅜ
+P1 	: 오오 궁금하네요!
+P1 	: 어떤 내용이에요??
+P0 	: 배드민턴부 학생들 성장드라마? 느낌이에요 시골어르신들 이야기도 있고
+P1 	: 정말 힐링되는 느낌이겠어요!
+P1 	: 담에 시간되면 봐봐야겠어요!
+P1 	: 노래는 좋아하시나요?ㅌ
+P0 	: 노래듣는거 좋아해요!
+P1 	: 요즘 어떤노래 자주 들으세요?
+P0 	: 요즘은 유튜브뮤직에서 랜덤으로 들어서 딱 어떤노래라고는 못말하겠네요 보통 팝송들어요

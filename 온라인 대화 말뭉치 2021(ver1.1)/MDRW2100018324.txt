@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018324
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P1 	: 스포츠 좋아하시나요?
+P0 	: 네~~야구요 &name2&은요?
+P1 	: 어제인가 야구경기 5시간 넘게 했다는 기사를 봤는데...
+P1 	: 저는 스포츠는 잘 모르는데 주변 분들은 야구 팬들이 많으세요!
+P0 	: ㅋㅋㅋ 아하
+P0 	: 스포츠는 좋아하는거 없으신가요
+P1 	: 네 스포츠는 제가 관심을 잘 안 갖게 되더라구요
+P1 	: 야구 어느 팀 팬이세요?
+P0 	: 저는 키움이요ㅎㅎ
+P0 	: 그래도 올림픽
+P1 	: 올림픽 재밌게 보셨어요? 이번 올림픽은 워낙 말이 많아서...
+P0 	: 음 그렇긴한데 볼땐 재밌더라구요
+P1 	: 어느 경기를 제일 재밌게 보셨나요?
+P0 	: 여자배구죠!ㅋㅋ
+P1 	: 아 여자배구 ㅋㅋ 한일전 엄청 스릴 있었죠
+P0 	: 맞아요 터키전도 ㅎㅎ

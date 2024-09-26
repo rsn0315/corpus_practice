@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100018054
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 기억나는 관광 명소가 있으신가요
+P0 	: 음 저는 몽셍미셀이 인상 깊었어요
+P0 	: 프랑스에 있는 수도원인데 바다에 있어요
+P1 	: 헐헐 엄청 유명한 관광지잖아요!! 저도 너무 가보고 싶은 곳이에요ㅠㅠ
+P0 	: 조용하고 아름답고 평화로웠어요
+P0 	: &name2&님은 어느 여행지가 기억에 남았나요?
+P1 	: 저는 말레이시아 코타키나발루요
+P0 	: 오 좋았겠다
+P0 	: 어떤점이 기억에 남아요?
+P1 	: 바다가 이뻤어요!
+P0 	: 산도 높지 않나요
+P1 	: 산은 안 가도 바다만 봐서요...ㅎㅎ
+P0 	: 언제 다녀오신거에요?
+P1 	: 몇 년 전에 다녀왔어여
+P0 	: 아 여행가고싶네요  코로나때문에ㅠㅠ
+P1 	: 코로나 끝나고도 한동안은 못 가겠죠ㅠ

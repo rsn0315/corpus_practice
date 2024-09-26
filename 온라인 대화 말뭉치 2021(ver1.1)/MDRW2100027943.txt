@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027943
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 식사하셨나요?
+P1 	: 네 저는 육회 먹었습니다 식사하셨어요?
+P0 	: 아 육회 안 먹은지 꽤 됐네요ㅠ
+P0 	: 저는 치킨 먹었어요!
+P0 	: 육회 자주 드시나요??
+P1 	: 최근에 자주 먹었어요
+P1 	: 어떤 치킨 좋아하세요?
+P0 	: 유명하다는데 오늘에야 먹어봤네요 ㅎㅎ
+P1 	: 배달음식 자주 드세요?
+P0 	: 치킨은 자주 시키는데 다른 음식은 잘 안시켜요 ㅎㅎ
+P0 	: 배달음식 좋아하세요??
+P1 	: 저는 배달음식 편해서 자주 먹습니다
+P0 	: 어떤 음식을 제일 자주 시키시나요??
+P1 	: 저도 치킨 자주 먹어요
+P1 	: 점심엔 뭐드셨나요?
+P0 	: 닭볶음탕 먹었어요!

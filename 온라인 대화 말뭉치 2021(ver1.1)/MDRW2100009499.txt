@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100009499
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 좋아하세요?
+P0 	: 네 좋아해요
+P1 	: 주로 무얼 사시나요?
+P0 	: 아무래도 옷같은거 사는거 좋아해요
+P1 	: 아하? 저는 다른건 욕심이 없는데
+	  립 제품 애정자에요.
+P1 	: 서랍 가득 립스틱, 틴트, 립밤이 ㅠ
+P0 	: 오~ 기분전환하기에 립만한게 없죠
+P1 	: 요즘은 마스크를 해서 입술을 안발라도 되는데
+P1 	: 욕심쟁이죠 ㅎㅎ
+P0 	: 저는 마스크속에도 틴트같은거살짝 발라요ㅋㅋ
+P0 	: 벗었을때 내가보니까요
+P1 	: 그니까요 맞아요 ㅋㅋㅋ 
+	  잠깐 벗을 때의 칙칙함이 싫더라고요
+P0 	: 맞아요ㅋㅋ아파보이고 칙칙해보이고
+P1 	: 지금 여름 끝무렵인데 
+	  옷 사시면 뭐 사세요?
+P0 	: 여름옷위에 걸칠바람막이랑
+P1 	: 여름옷 세일하는거 ?
+	  아님 가을 옷?
+P0 	: 원피스샀어요ㅋ 세일하는거
+P1 	: 오~
+P1 	: 맞아요 반팔에 가디건, 점퍼 입으면 
+	  또 몇주 가니까요 ㅎㅎ
+P1 	: 저는 집에 옷이 사이즈별로 다 있어요 ㅠ
+P1 	: 살이 계속 쪄서 ㅠㅠ
+P0 	: 저는 빅사이즈수집해요ㅋㅋㅋ
+P1 	: 뺄 수 있다는 희망으로 작년 사이즈를 버리지 못하고
+P0 	: 저두요ㅠ

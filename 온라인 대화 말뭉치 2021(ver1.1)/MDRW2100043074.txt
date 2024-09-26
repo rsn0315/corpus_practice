@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043074
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물좋아하세요
+P1 	: 네 좋아해요
+P0 	: 어떤동물좋아하세요?
+P1 	: 거의 다 좋아하는 것 같아요
+P0 	: 고양이도좋아하세요?
+P1 	: 네 좋아해요 고양이 넘 귀엽죠
+P0 	: 키우시나요
+P1 	: 아니오ㅠㅜ
+P0 	: ㅠ나중에여건되면키우고싶네요
+P1 	: &name1&님도 반려동물 안 키우세요?
+P0 	: 네 ㅠ좀바빠서..
+P1 	: 아ㅠㅠ
+P1 	: 키운다면 어떤 반려동물 키우고 싶으세요?
+P0 	: 저는강아지나고양이요

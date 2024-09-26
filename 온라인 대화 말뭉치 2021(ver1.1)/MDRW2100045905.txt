@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045905
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 샐러드를 먹을까
+P0 	: 다이어트중?
+P1 	: 그렇다기보단
+P0 	: 그럼?
+P1 	: 맛있잖아
+P0 	: 샐러드가 맛있다니
+P1 	: 연어 샐러드
+P0 	: 그건 맛있지
+P1 	: 올리브도넣고
+P0 	: 새우도 어울리겠다
+P1 	: 소스도 중요해
+P0 	: 하얀소스 이름뭐더라
+P1 	: 양파맛 나는거?
+P0 	: 그게 어울릴거같아

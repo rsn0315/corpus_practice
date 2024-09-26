@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100046646
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 웹툰 좋아하세요?
+P0 	: 네
+P0 	: 맨날봐요
+P1 	: 어떤 웹툰 제일 좋아하세요?
+P0 	: 네이버웹툰에 광장 이요
+P1 	: 오오 이건 첨 들어봐요 ㅋㅋ
+P1 	: 토요일 웹툰이군요
+P0 	: 네 지금은 연재 끝났어요
+P1 	: 오 그럼 저도 한번 정주행 해봐야겠네요 ㅋㅋ
+P1 	: 저는 화요일 웹툰 중에
+P0 	: 네 꼭 보세요 재밌어요
+P0 	: 네
+P1 	: 집이 없어 라는 웹툰이 제일 재밌더라구요 요즘
+P0 	: 그렇군요
+P1 	: 넹 ㅋㅋ 추천해요 
+P0 	: 한번 봐볼게요
+P0 	: 주식하세요?
+P1 	: 네! 주식하죠 ㅎㅎ
+P0 	: 어제 카카오페이 
+P0 	: 청약하셨엇나요??
+P0 	: 아주 달달하게 먹었습니당
+P1 	: 카카오페이 청약 바빠서 까먹었잖아요.. 진짜 억울해요
+P0 	: ㅠㅠ
+P1 	: 부러워요!
+P1 	: 몇 주 받으셨어요?
+P0 	: 네 ㅋㅋㅋ
+P0 	: 저 3주요
+P1 	: 부럽습니다...

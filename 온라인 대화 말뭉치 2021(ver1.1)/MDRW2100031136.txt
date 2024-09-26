@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100031136
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 강아지 키우고 오셨어요
+P0 	: 강아지 키워 봤어요
+P1 	: 어떤 종류의 강아지를 키우고 셨나요
+P0 	: 요크셔테리어 한 마리 키워 봤어요
+P1 	: 오 귀여웠겠네요
+P0 	: 당연히 사랑스럽지요
+P1 	: 지금은 강아지가 없나요
+P0 	: 대학교 때 죽었어요
+P0 	: 13살 이었어요
+P1 	: 보고 싶겠어요
+P0 	: 네 요즘도 생각해요
+P0 	: 강아지를 키우는 건 행복한 일이에요
+P1 	: 저도 반려동물이 있으면 좋겠어요
+P0 	: 고양이는 어떠세요
+P1 	: 길냥이는 좋아해요
+P1 	: 가끔 밥도 줘요

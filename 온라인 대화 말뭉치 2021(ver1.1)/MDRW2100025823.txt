@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100025823
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 뭔 음료 좋아하세요?
+P0 	: 커피?
+P0 	: 탄산?
+P1 	: 커피좋아요
+P0 	: 커피 어느 브랜드 좋아해요?
+P1 	: 음 브랜드커피는 너무 쓰더라구요
+P1 	: 아니면 익숙하지않거나..
+P1 	: 그런거같아요
+P0 	: 그럼 뭐 드세요?
+P1 	: 커피는 개인카페로 가는거같고
+P1 	: 브랜드커피는.. 특별한거먹는거같아요
+P0 	: 특별한 날이...언제에요?????
+P1 	: 특별한메뉴를 먹어요
+P1 	: ㅎㅎ
+P0 	: 아 케이크요??ㅋㅋㅋ
+P0 	: 어떤 케이크 좋아하세요?
+P1 	: 저는 생크림케이크아좋아요
+P0 	: 저는 모카케익요!
+P0 	: 파는데가 별루없어요 ㅍ
+P1 	: 모카케익 좋아하시는구나
+P0 	: 네 정항우 존맛인거같아요

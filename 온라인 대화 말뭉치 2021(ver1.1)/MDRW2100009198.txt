@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009198
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 대학 때 조별과제 많이 하셨나요?
+P0 	: 네 ㅠㅠ정말 많았던거같아요 많이 하셨어요?
+P1 	: 꽤 했었죠ㅋㅋ
+P1 	: 조별과제 때 제일 별로였던 팀원 기억나세요?
+P0 	: 아 네ㅎㅎ전 의욕넘치는 신입생이 제일 힘즐었어요ㅋㅋㅋ
+P1 	: 의욕만 넘치고 제대로 못 했나요?
+P0 	: 네ㅎㅎ 정해진 양식이 있는데 그걸 자꾸 엎자고ㅎㅎㅠㅠ 교수님들 성향이 있잖아요ㅠㅠㅋㅋ
+P1 	: ㅋㅋ 고집 있는 스타일이었나보네요
+P0 	: 네ㅎㅎ 신입생 보듬어야하는데 너무 힘들었어요ㅜ 기억에 남는 조원있으세요?
+P1 	: 전 주로 ppt 만들기 담당이었는데요 자료조사 대충하는 경우가 싫었어요. 그냥 인터넷에서 긁어서 쓱
+P0 	: 아ㅜㅜ저도 그런 사람은 참 뭔생각인지 궁금했어요..아직도 이해안가요ㅋㅋ
+P1 	: 아! 발표 하기로 하고 잠수 탄 선배도 있었어요
+P0 	: 진짜 그런경우가 있나요? ㅋㅋ뭔생각이래요..ㅋㅋㅋ
+P1 	: 어쩐지 연락이 안되더라니..ㅋㅋ
+P0 	: 대박이네요...

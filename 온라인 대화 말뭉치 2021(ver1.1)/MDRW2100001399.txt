@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕!
+P1 	: 안녕하세요~
+P1 	: 혹시 요즘 즐겨하는 게임이 있으신가요?
+P0 	: 안녕하세요 ㅎㅎㅎ
+P0 	: 앗 음
+P0 	: 혹시 스팀게임아세요? ㅎㅎ
+P1 	: 폴가이즈나 어몽어스도 스팀게임인가요?
+P0 	: 아아 맞아요 폴가이즈는 스팀이랑 플레이스테이션 모두에서 될 거예요 ㅎㅎ
+P1 	: 주로 하시는 스팀게임있으신가요?
+P0 	: 저는 스팀게임에 문명이라는 게임을 좋아해요!
+P0 	: 문명 아시나요? ㅎㅎㅎㅎ
+P1 	: 엇 알지만 직접 플레이해본적은 없어요 ㅎㅎ
+P1 	: 어떤 형식의 게임인가요?
+P0 	: 앗 &name2&님 문명 아시는군요 ㅎㅎㅎ 문명은
+P0 	: 하나의 문명을 선택해서, 나라를 세우고 그 나라의 문명을 키우는 전략게임 같은 거예요!
+P1 	: 아~ 약간 심즈랑 비슷한 개념인가요?
+P1 	: 심즈해보신적 있으신가요?
+P0 	: 앗 맞아요 심즈랑 비슷한 면도 있어요! ㅎㅎㅎ 심즈 해보고 싶은데
+P0 	: 아직 못해봤네요 ㅠㅠㅠ &name2&님은 심즈 좋아하시나요??
+P1 	: 저는 옛날에 잠깐했었는데 심즈는 용량을 너무 많이 차지하더라구요..

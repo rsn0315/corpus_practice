@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006658
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임 하시나요?
+P1 	: 오버워치 조금 했었습니다
+P0 	: 그러시군요 혹시 보드게임은 하셨을까요
+P1 	: 모두의 마블 옛날에 했어요
+P0 	: 아 그게 휴대폰 게임이 아니었나봐요
+P1 	: 아아 현물 보드게임은 잘 몰라요ㅠㅠ
+P0 	: 아 그러시군요 
+	  프로게이머 직업은 어떻게 보세요,
+P0 	: ?
+P1 	: 신기하죠. 전 똥손이라 겜을 잘 못해서요ㅋㅋ
+P1 	: 좋아하는 프로게이머 있으신가요?
+P0 	: 따로 있진 않아요 아이들이 흔히 프로게이머라는 직업을 장래희망으로 하는데 사실 쉽지 않을 것 같아 여쭤봤어요
+P1 	: 맞아요 프로로 데뷔하는 거 보면 극소수더라고요
+P1 	: 저희 동생도 꿈꿨었는데 현실적으론 쉽지 않죠
+P0 	: 그렇죠 동생도 게임을 잘 했나요,
+P1 	: 자기 말로는 잘했다는데 허세인 거 같아요
+P0 	: 게임도 두뇌회전이 잘되야 잘하지 싶어요 전략같은것도 필요할거 같고

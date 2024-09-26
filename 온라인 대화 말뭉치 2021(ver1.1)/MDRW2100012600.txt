@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅇㅇ 잘 만들었겠네
+P0 	: 잘 만들긴했는데 갑자기 나를 부르더라고 ㅎㅎ
+P1 	: 왜? 수업하는데 왜 불러?
+P0 	: 모란을 보고 느낀점을 적으라는데 아무 생각이 안난데
+P1 	: 이런.. 글쓰기가 너무 약해ㅋ
+P0 	: AI처럼 받아적기만 하니 어떻게 해야할지
+P1 	: 잘쓰던 말던 스스로 하게 냅둬
+P0 	: 어떻게 쓰면 좋겠다고 방법을 많이 알려주는데도 못쓰더라고
+P1 	: 매일 한두줄이라도 쓰는 연습 해야지
+P0 	: 그래야 할 것 같아
+P1 	: 그래서 쓰긴 썼엄?
+P0 	: ㅇㅇ 억지로 한 두줄 써서 냈지 ㅋㅋ
+P1 	: 뭐라고 적었는데
+P0 	: 모란을 보니 아름답다고 느꼈다. 왜냐하면 모란은 꽃잎이 겹겹이 많아 화려하고 풍성하기 때문이다 블라블라 ㅋㅋ
+P1 	: ㅎㅎ 대충 잘 썼네

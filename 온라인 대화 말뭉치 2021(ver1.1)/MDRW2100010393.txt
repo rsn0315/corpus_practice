@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 중고거래 해보신적 있나요?
+P1 	: 당근마켓으로 몇 번 해본적 있어요!
+P0 	: 저도요! 찜해둔 상품이 있나요?
+P1 	: 막 찜해뒀던 무드등이 팔려서 지금은 없어요ㅠ
+P0 	: 그럴때 너무아쉬워요ㅠㅜㅜ
+P1 	: 중고거래는 타이밍이라는 사실을 항상 뒤늦게 깨달아요ㅠ
+P0 	: 진짜 어려워용 일찍사면 비싸고요
+P1 	: 정확한 타이밍을 잘 찾으면 어케 할인도 받을 수 있는데 말이죠ㅠ
+P0 	: 맞아요ㅠ 어렵긴해두 거래성사되면 뿌듯해요!
+P1 	: 중고로 판매해보셨나요?
+P0 	: 네! 파우치 판매해봤어용
+P1 	: 어떤 플렛폼을 이용하셨나요?
+P0 	: 당근마켓이죠!

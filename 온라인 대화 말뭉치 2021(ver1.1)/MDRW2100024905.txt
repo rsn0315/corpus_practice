@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024905
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어. 두부 유통기한 임박한 게 있어서 그거로 두루치기 해먹었어.
+P1 	: 너는?
+P0 	: 나는 튀김우동 컵라면 먹었지~
+P0 	: 두루치기 맛있었겠다ㅠㅠ 맛있었지??
+P1 	: 그냥 그랬어. 별로 안 매워가지고. 더 맵게 먹고 싶었는데 말야.
+P0 	: ㅋㅋㅋ나도 매운 거 먹고 싶다.. 불닭볶음면 같은 거!!
+P1 	: 그것도 엄청 맵다던데. 맛있어?
+P0 	: 응 나는 맛있어~ 치즈랑 먹으면 매운맛도 중화되고 괜찮아ㅋㅋ
+P1 	: 그렇군. 핫초코는 먹어 봤어?
+P0 	: 안 그래도 오늘 타먹었어
+P0 	: 아이스 초코로 마셨는데 괜찮던데??
+P1 	: 엄마는 막내한테 만들어줬는데 엄청 달더라.
+P0 	: 초코 음료는 원래 단 맛으로 먹는 거지~
+P1 	: 그렇긴 해. 막내도 허쉬우유랑 맛 똑같다고 하더라.
+P0 	: 그치! 그리고 우유 아니고 그냥 물에 타 마셔도 괜찮더라고~ 진한 초코맛이라 맘에 들어ㅎㅎ
+P1 	: 단 음료니까 너무 자주는 마시지 말고. 평소에는 따뜻한 차 마셔.
+P0 	: 엉 요즘 보이차 마시고 있어 걱정 마~

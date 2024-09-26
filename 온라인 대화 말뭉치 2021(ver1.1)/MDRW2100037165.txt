@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100037165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 예전엔 안 좋아했는데 최근에 먹다 보니 좀 정들었어요ㅋㅋㅋ
+P1 	: 그래도 아직 못 먹는 야채는 꽤 많아요
+P1 	: 제일 싫어하는 야채 있으세요?
+P0 	: 저는 파프리카요
+P0 	: &name2&님은요?
+P1 	: 저는 토란이요
+P1 	: 파프리카의 어떤 점이 싫으셨나요?
+P0 	: 토란에 어떤 점이 싫으신건가요?
+P1 	: 예전에 급식으로 토란탕이 나왔는데 감자인줄 알고 먹었다가 배신감을 느낀 적이 있어요
+P0 	: 좋아하시는 배달음식 있으신가요?
+P1 	: 치킨 매우 좋아합니다 배달음식의 대표주자
+P1 	: 치킨 좋아하세요?
+P0 	: 네 어떤 치킨 제일 좋아하시나요?
+P1 	: 전 간장치킨이 제일 좋아요
+P1 	: &name1&님은요?
+P0 	: 저도 간장이나 뿌링클같이 치즈가루치킨 좋아해요
+P0 	: 어떤 브랜드 치킨 가장 좋아하시나요?
+P1 	: 헙 저는 브랜드별 치킨 맛 구분을 잘 못해서 아무거나 내키는 대로 먹습니다
+P1 	: 최애 브랜드가 있으신가요?
+P0 	: 저는60계나 교촌이요
+P1 	: 교촌 짭짤하니 맛있죠! 60계는 전 아직 안 먹어봤는데 많이 들어본 것 같아요
+P0 	: 전 자극적인 걸 좋아해서요

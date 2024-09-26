@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006362
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 자주 읽으시나요?
+P1 	: 가끔ㅋㅋ
+P1 	: 자주 보시나요?
+P0 	: 저도 가끔..ㅋㅋ
+P1 	: 가장 최근에 어떤거 보셨어요?
+P0 	: 분노의 돌파구라고 아세요?
+P1 	: 소설이에요..
+P1 	: ?
+P0 	: 에세이.같은 건데요 노벨상 수상자가 썼어요
+P1 	: 아..읽어봐야겠어요
+P1 	: 전 미비포유 그 시리즈 보그 있어요
+P0 	: 그건 뭘까요?
+P1 	: 그 영화나온건데 사지마비 환자와 사랑에 빠지는
+P0 	: 아.. 제가 영화를 안봐서 몰랐네요
+P1 	: 저도 사실 비극이라... ㅋㅋ아닌가..해피일까요
+P1 	: 애매하긴 해요
+P0 	: 영화는 비극인가요?

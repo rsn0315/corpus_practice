@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100018605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집 아는데 있으세요?
+P0 	: 어.. 저는 프렌차이즈 주로 가는 편이라ㅎ
+P0 	: 맛집 좋아하세요?
+P1 	: 저는 기다리는거 싫어해섴ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 맛집을 찾아다니진 않는 편이에요
+P1 	: 근데 맛있는거 먹으면 어깨춤춰요..
+P0 	: 악간 맛있는거 드시면 신나시는 타입이시구나
+P0 	: 저도 그래요
+P0 	: 최근에 뭐가 가장 맛있던가요
+P1 	: 어제 순대볶음 먹었는데 진짜 끝장났어요.
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 진짜.
+P0 	: 순대볶음 진짜 맛있었겠다
+P0 	: 양념순대드셨어요 백순대드셨어요
+P1 	: 양념!!!!!! 백순대는 아직 안먹어봤어요
+P1 	: 양념 좋아하세요 백순대 좋아하세요?
+P0 	: 아니요 저도 양념좋아해요
+P0 	: 약간 매콤하면서 입맛당기는거
+P0 	: 너무 좋아합니다
+P0 	: 순대랑 뭐 같이 드셨어요
+P1 	: ㅇㅈ 오랜만에 먹었는데 맛있더라구요
+P1 	: 친구랑 돼지파티했어요.. 초밥이랑 에그타르트...
+P0 	: 진짜 돼지파티 제대로 하셨네요
+P0 	: 친구들이랑 먹으면 웬지 더 맛있는 기분
+P1 	: 맞아요 ㅎㅎ 어제 뭐드셨어요?
+P0 	: 저 어제 배달시켜먹으려다 반대에 부딪혀 된장국 먹었습니다ㅎ
+P1 	: 아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 배달 맛있는데 왜 반대하셨대요ㅠㅠ
+P1 	: 근데 된장국도 존맛이죠

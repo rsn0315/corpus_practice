@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012683
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 시험있어요?
+P1 	: 아니요 ㅜㅜ 직장인인걸요
+P1 	: 그리고 초중고는 개학 이제 막 했고 대학생은 아직 개강도 안했잖아요..
+P0 	: 자격증이라두
+P1 	: ㅎㅎ 딱히 준비하고 있는 건 없어요.
+P1 	: 학교 다니세요?
+P0 	: 아뇨 졸업했어요
+P1 	: 학교 다닐 적에 공부 잘했어요?
+P0 	: 초등 때요
+P1 	: 아 초등학교 때만... ㅋㅋㅋ
+P1 	: 그럼 학업스트레스는 많으셨겠네요
+P0 	: 네 힘들없죠
+P1 	: ㅠㅠ 학교생활은 어떠셨어요?
+P0 	: 잼났죠
+P0 	: 친구들이 주변이 다 있어서
+P1 	: ㅋㅋㅋ다행이네요 동아리나 학생회 같은 것도 해봤어요?
+P0 	: 아니요

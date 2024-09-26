@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 마제소바 같은 게 많이 보이던데
+P1 	: 드셔보셨나요?
+P0 	: 양념이 가게마다다르지만맛있더라고요
+P1 	: 오 보통 어떤 양념이 들어가나요?
+P0 	: 음매콤간장맛의,
+P0 	: 어렵네용
+P1 	: 음 그런가요... 그림보면 비벼먹는 것 같은데 맞나요?
+P0 	: 맞아요!
+P1 	: 그림만 보고 뭔지 잘 모르갰어서 안 먹어봤거든여ㅎㅎ
+P0 	: 맛있어용
+P1 	: 다른 또 추천해주실 음식은 있나요?
+P0 	: 음 최근에 시카고피자먹었어요
+P1 	: 그 도우 두껍고 치즈 많이 들어간거요?
+P0 	: 맞아용{emoji:❤}
+P1 	: 그거 저희동네는 유행 지났다고 파는데가 없어요ㅜㅠ
+P0 	: 앗..아

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033817
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 식사 하셨나요?
+P1 	: 아침엔 원래  안 먹어서요
+P1 	: &name1&님은요?
+P0 	: 저도 아침 식사는 하지 않았어요
+P0 	: 음..점심메뉴는 생각해 놓으신 거 있으신가요
+P1 	: 비가 추적추적 오니 국물요리가 당기네요
+P1 	: 동태탕이라거나
+P0 	: 어 저도요 따끈한 국물 너무 좋다
+P0 	: 동태탕 너무 시원하고 맛있어요
+P1 	: 맞아요! 생태탕 잘하는곳이 회사에서 조금 멀어서 고민이네요
+P1 	: &name1&님은 정하셨나요
+P0 	: 음 저는 비도 오고 하니까 짜장면?
+P0 	: 약간 비 오는 날은 국물도 좋은데 탄수화물도 먹고 싶어서
+P1 	: 짜장면에 짬뽕국물 같이 먹으면 좋겠어요
+P0 	: 그 생각을 왜 못했지.. 정말 똑똑하시네요
+P0 	: 짬짜면을 시켜야겠어요
+P1 	: 하버드대 먹방학과 졸업했습니다ㅎ
+P0 	: 역시 뭔가 남다르시다 했더니 배우신 분이셨구나
+P1 	: 다 잡으셨네요
+P1 	: ㅎㅎ 위장끈이 길지요
+P0 	: 선생님 덕분입니다 많은 걸 배워 가요

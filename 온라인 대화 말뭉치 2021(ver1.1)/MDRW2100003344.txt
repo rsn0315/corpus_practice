@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003344
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 직장인이세요?
+P1 	: 네 직장인이에요 직장인이세요?
+P0 	: 저는 이직 준비중인 백수입니다
+P0 	: 요즘 직장생홫중에 가장 힘든 일은 어떤거세요?
+P1 	: 아무래도 인간관계가 제일 힘드네요ㅜ
+P0 	: 맞아요 그렇죠ㅜ 일은 잘 맞으시나요??
+P1 	: 그렇다기조단 익숙해졌어요ㅎㅎ
+P0 	: 직장 다니시기전에 알바는 많이 하셧나요??
+P1 	: 네 인턴을 주로 했었어요ㅎㅎ
+P0 	: 와 제일 기억남는 직무나 일을 한 인턴이 있나요??
+P1 	: 모 회사에서 매일 아이디어회의해서 인턴들 아이디어 뺏어가던것만 생각나요ㅎ
+P1 	: 너무 분했던...
+P0 	: 맞아요.. 돈도 많이 안주면서 젊은 사람들 아이디어만 뺏어가는 회사들 많더라구요... 아이디어 회의를 매일 한다니 충격적이네요
+P0 	: 지금 하시는 일을 오래 하실 것 같으신가요?
+P1 	: 네 그러려고 계획중이에요ㅎㅎ
+P0 	: 오 멋지네요 그런 계획!

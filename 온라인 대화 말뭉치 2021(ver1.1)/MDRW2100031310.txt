@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100031310
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 사람 안 많았나요
+P0 	: 오늘 사람 엄청났습니다
+P1 	: 예전 많이 다니다 결혼 육아 코로나로 못간지 오래 ㅠ
+P0 	: 아 육아라면 앞으로도 한동안 어렵겠네요
+P0 	: 가장 좋았던 여행지는 어디에요?
+P1 	: 이제 코로나 좀 나아지면 같이 가야죠
+P1 	: 전 이탈리아 요
+P0 	: 아 저는 못가봤는데
+P0 	: 와이프가 자꾸 이탈리아도 못가봤냐고 놀리던데
+P0 	: 그렇게 아름답고 낭만적인가요?
+P1 	: 도시마다 특색있고 볼거리 많고 분위기도 좋았어요
+P0 	: 음식도 좋나요?
+P1 	: 좋았죠 ㅎㅎ가보세요 나중에 ㅎ 어디 좋으셨나요 ?
+P0 	: 저는 여행이라고 하기는 그런데
+P0 	: 영국에서 어학연수 했거든요
+P0 	: 캠브리지에 있었는데
+P0 	: 그때 너무 행복한 시간이었고
+P0 	: 소중한 추억들이어서
+P0 	: 가장 좋았어요
+P1 	: 우와 멋지네요 오래 계셨나요
+P0 	: 8개월있었어요
+P1 	: 와 여행도 많이 하셨나요
+P0 	: 많이 다녔다고 하기에는 국가 수가 많지 않아서
+P0 	: 몇군데만 다녀봤어요
+P0 	: &name2&님은 많이 다니셨나요

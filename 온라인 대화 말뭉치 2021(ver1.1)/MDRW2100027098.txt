@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&도 재탕하시나요
+P1 	: 다먹을때까지
+P1 	: ?
+P0 	: 네 주전문입니다
+P0 	: 남은것 처리합니다
+P1 	: 어떤요리를 재탕해드시나요
+P0 	: 감자탕 일주일째 먹습니다
+P0 	: 입에서 고기향이 납니다
+P1 	: 일주일이면 좀 많이 길군요
+P1 	: ㅋㅋㅋㅋㄱㅋㅋㅋㅋㅋ
+P0 	: 어머니가 한솥 끓이셔서
+P1 	: 전에 오뎅도
+P1 	: 계속 드시지 않았나요
+P0 	: 오뎅은 다릅니다
+P0 	: 질리지 않지요
+P1 	: 몇달 드신거같은데
+P1 	: 조리법을 다르게하나요
+P0 	: 감자튀김도 일주일먹습니다
+P1 	: 감자가 많으시군요
+P1 	: 고구마도 맛있습니다
+P0 	: 감자튀김 한 봉지가 저렴합니다
+P1 	: 감자로 떠먹는 피자 해먹으면 헤븐입니다
+P0 	: 고구마도 튀기면 맛있죠
+P0 	: 해서 드시나요

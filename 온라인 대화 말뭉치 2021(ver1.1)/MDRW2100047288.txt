@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커피 즐기시나요
+P0 	: 커피 알못이지만 카페인 중독이죠ㅎ
+P0 	: &name2&님은요?
+P1 	: 저는 커피는 잘 모르고...달달한거 먹는걸 좋아해요
+P0 	: 아 프라프치노 같은 거요?
+P1 	: 네 그거랑 디저트요^^
+P0 	: 케잌을 먹을 때도 단 음료 드세요?
+P1 	: 아 그럴땐 아메로..ㅋ
+P0 	: 그렇죠ㅎㅎ
+P0 	: 저는 단거 잘 못먹어서 선택지가 적어요ㅜ
+P0 	: 그래도 아메리카노나 에스프레소에 휩 올리는 것은 좋아합니다ㅎ
+P1 	: 단걸 잘 못드신다니 부러워요 ㅠ 저는 입맛이 ㅠㅠ
+P0 	: 저는 단 거 잘 먹는게 부러운데요
+P0 	: 아주 맛있는 케잌도 몇입 못 먹어서
+P1 	: 건강에 해로우니까요^^ 어떤 음식을 좋아하세요
+P0 	: 단 거 외에는 다 잘 먹어요ㅎ
+P0 	: 마찬가지로 건강에 해로운 맵고 짠 것 특히요ㅜ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008932
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 키워보셨나요?
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 어릴때 고향에선 마당있는집에 살아서 강아지 키웠었는데 지금은 서울에서 자취하느라 환경이 안되서 못키우네요
+P1 	: 반려동물 키우세요?
+P0 	: 저는 키워본적이 아예 없어요
+P1 	: 괜찮으시면 이유 여쭤봐두될까요?
+P0 	: 계속 아파트에서 살기도 했고 관리가 까다롭다고 해서요
+P1 	: 그렇긴 하죠 기본적으로 케어해줘야될것도 많고 돈도많이 들죠 정말 애정없인 하기 힘들죠
+P1 	: 그럼 나중에라도 키워보시고 싶으신 동물 있으세요?
+P0 	: 웰시코기 키워보고 싶어요
+P1 	: 웰시코기 치명적으로 귀엽긴하죠
+P0 	: 빵댕이랑 웃는 얼굴에 반했어요
+P1 	: 엉덩이 씰룩씰룩하면서 짧은 다리로 뽈뽈뽈 걷는거 보면 귀여워서 미치죠
+P0 	: 그래서 유튜브로도 코기 영상 자주 봐요
+P1 	: 역시 유튜브 최고의 기능이 대리만족이죠
+P1 	: 전 고양이 키워보고 싶어서 종종 유튜브 봐요
+P0 	: 예전엔 고양이 유튜브 크림히어로즈 봤었어요
+P1 	: 저도 좋아하는 채널이예요
+P0 	: 고양이도 귀엽지만 고양이들은 귀여운게 몇배나 더하죠

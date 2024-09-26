@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 엄마 시장에서 뭐사왔옹
+P0 	: 양파 사 왔다
+P1 	: 양파 ? 집에 많던데
+P0 	: 싸게 하니까 사 왔지
+P1 	: ㅋㅋ 집 터지겠다
+P0 	: 안 터진다
+P1 	: ㅋㅋ 요새 양파 철인가보네
+P0 	: 많이 팔더라
+P1 	: 요리에 많이 쓰이니까~ㅋㅋ
+P0 	: 다 먹고 또 사야지
+P1 	: 구랭 양파 몸에좋으니 많이 먹자
+P0 	: 그래 많이 먹어라
+P1 	: 옹옹 ㅋㅋ
+P1 	: 새로나온 휴대폰 사고싶다 ㅋㅋ

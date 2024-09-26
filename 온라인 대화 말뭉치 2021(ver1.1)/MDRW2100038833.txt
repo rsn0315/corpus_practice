@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100038833
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 웹디자인이 구체적으로 뭘 하는건가요?
+P1 	: 디스플레이를 통해 나오는 화면을 만든다고 보시면 돼요
+P1 	: 마우스나 키보드 움직임에 따라가기도 하구요
+P0 	: 오~ 신기한데요~ 제가 아예 모르는 분야예요
+P1 	: 저도 최근에 관심을 갖게 돼서
+P1 	: 잘 알게된지는 얼마 안됐어요
+P0 	: 그럼 오래 컴퓨터 앞에 앉아계시겠어요?
+P1 	: 네ㅠ 한학기만에 거북목 얻었어요
+P0 	: 앗.. ㅠ 손목은 괜찮으시고요?
+P1 	: 손목은 많이 안써서 괜찮아요
+P0 	: 마우스 오래하면 손목도 아프잖아요 주로 키보드를 쓰시나요?
+P1 	: 저는 프로그래밍 위주로 하고 있어서 키보드 주로 써요
+P0 	: 오~ 프로그래밍~ 완전 멋있어보여요 ㅎㅎ
+P1 	: 별거 없어요...ㅎㅎ
+P0 	: 그건 아무나 못하는거니까요~

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100004221
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 개학하셨나요..?
+P1 	: 아니요 아직 안 했어요
+P1 	: &name1& 님은 개학 하셨나요?
+P0 	: 네 저는 17일에 했어요
+P1 	: 비대면 수업 하시나요? 4단계라
+P0 	: 아니요..저는 학교 매일 가요..
+P1 	: 아이고
+P1 	: 그래도 온라인 수업보다 대면 수업이 확실히 집중이 잘 되더라고요
+P0 	: 맞아요 온라인 수업은 집중도 안되고 선생님들도 기기를 다루는 데 미숙하시고..
+P1 	: 소리 끊기거나 화질 안 좋으면 정말 답답하죠
+P0 	: 그리고 댓글 써도 잘 안봐주시고
+P1 	: 맞아요 녹화 영상이면 더 소통하기 힘들고
+P1 	: 빨리 코로나가 끝났으면 좋겠는데
+P1 	: 아직도 4단계라 막막하네요
+P0 	: 그러니까요..끝이 안보이는 거 같고
+P1 	: 학교 생활은 좀 어때요?
+P1 	: 작년에는 비대면 수업 기간이 길어서 저는 거의 반 친구들이랑 친해지지도 못했어요
+P0 	: 맞아요..저도 작년에는 거의 비대면이였어서 못친해졌는데
+P0 	: 올해는 다 대면수업이라 작년보다는 더 많이 친해졌어요
+P1 	: 처음에는 학교 안 가서 좋았는데 수업 퀄리티도 떨어지고 여러모로 피해보는 게 많아서 대면 수업이 낫다고 느껴지더라고요
+P1 	: 예체능 과목은 거의 수업 진행이 어렵고
+P0 	: 맞아요 예체능 과목은 영상만 보고 재미가 없더러구요

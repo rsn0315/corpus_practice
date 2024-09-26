@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100047208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요 쇼핑하는거 좋아하세요?
+P1 	: 아니요!
+P1 	: 님은요?
+P0 	: 저는 하는 거 좋아해여!
+P0 	: 최근에 구매하신 물건 없으신가용?
+P1 	: 운동화요ㅋㅋㅋ
+P1 	: 님은요?
+P0 	: 저는 핸드폰 바꿨어요 플립으루요ㅋㅋ
+P0 	: 운동화 어디꺼 구매하셨나용
+P1 	: 아디다스꺼요ㅋㅋㅋ
+P1 	: 오
+P1 	: 얼마주고사셨나요
+P0 	: 자급제로 사서 백만원 조금 넘게 주고샀어요ㅎㅎ
+P1 	: 대리점
+P1 	: 가서샀나요?!
+P0 	: 아뇨 인터넷으로 샀어요!!
+P1 	: 오
+P1 	: 공식사이트에서요?
+P0 	: 공식은 할인되는 카드가 한정되어있어서 하이마트에서 구매했어요ㅎㅎ
+P0 	: 사전예약이라 버즈도 주고 좋더라구요
+P1 	: 헐
+P1 	: 버즈를 주나요
+P1 	: 좋네요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100046437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕
+P0 	: /
+P1 	: 안녕하세요 :)
+P1 	: 점심식사 하셨나요~?
+P0 	: &name2&는 먹었어?
+P1 	: 제 저도 방금 찜닭 먹었어요 :)
+P1 	: &name1&님은 어떤 메뉴로 드셨나요??
+P0 	: 나는 샐러드먹었어
+P1 	: 샐러드 뭔가 간단하지만 요즘 많이 먹는 메뉴 같아요
+P1 	: 샐러드 가게도 많이 생겼고!
+P0 	: 나도 그렇게 생각해 뭉치도 내일은 샐러드를 먹어봐
+P1 	: 앗 저도 그럴게요 감사합니다 :) 혹시
+P1 	: 추천하시는 메뉴 있나요??
+P0 	: 간단한 치킨샐러드~
+P1 	: 치킨샐러드 맛있을 것 같아요 ㅎㅎ
+P1 	: &name1&님은 샐러드 자주 드시나요??
+P0 	: 나는 평일 점심마다 샐러드를 먹어
+P0 	: 저녁을 많이 먹기위해서지 ㅎㅎ
+P1 	: ㅎㅎㅎ정말 그렇게 하면 저녁을 양껏 먹을 수 있을 것 같아요
+P1 	: 그러면 주영님은 저녁 뭐로 드실 예정이세요~?
+P0 	: 저녁은 게된장국이지
+P0 	: 가을은 꽃게가 제철이자나
+P1 	: 크 맞아요 게된장국 ㅎㅎ 정말 맛있을 것 같아요
+P1 	: 게 하니까 게장도 생각나네요 간장게장도 정말 맛있는데!
+P0 	: 게장도 좋지
+P0 	: 이번 주말은 게장이다
+P1 	: 게장 드시고 꼭 밥도 비벼주세요 ㅎㅎㅎ 정말 맛있을 것 같아요..!

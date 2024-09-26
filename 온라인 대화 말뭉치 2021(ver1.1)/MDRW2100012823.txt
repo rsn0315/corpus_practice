@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012823
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네,안녕하세오~
+P0 	: 새벽이라그런지 배가고파지네요 ㅎㅎ
+P1 	: 아.늦게 자면 가끔 배고플때도 있죠~
+P0 	: 저녁 뭐드셨어요?
+P1 	: 튀김떡볶이요~
+P0 	: 저는 삼겹살먹었어요ㅎㅎ
+P1 	: 오~고기맛있죠ㅎ
+P0 	: 저녁많이먹었는데 야식안먹어서그런지 ㅋㅋ 왜 배가고픈지ㅋㅋ
+P1 	: 가끔 그럴때도 있죠 저도그래요ㅎㅎ
+P1 	: 배고프지면 뭐안드세요?
+P0 	: 요새 살이쪄서 자제중이에요ㅠㅠ 맛집도 좋아하고 카페도 좋아하다보니 ㅎㅎ
+P1 	: 맞아요 저도 살쪄서 조절중인데 힘드네요ㅎ
+P0 	: 음식조절이 제일 어려운거같아요 ㅜㅜ
+P1 	: 맞아요~ㅠ 먹는것도 좋아하는편이라서요
+P0 	: 저도그래요! 왜이리 맛있는 음식이 많죠?ㅋㅋ
+P1 	: 그쵸ㅎㅎ

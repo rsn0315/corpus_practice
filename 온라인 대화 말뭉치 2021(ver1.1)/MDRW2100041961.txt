@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100041961
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: 네 저는 불닭에 짜파게티섞어서 먹었습니다
+P0 	: 2개끓였더니 배부르네요 ㅎㅎ
+P0 	: 메뉴는 뭘로 드실건가요??
+P1 	: 저는 아직 못 정했어요
+P1 	: 근데 식사를 일찍 하셨네요
+P0 	: 네 ㅎㅎ 많이먹을때 좀 일찍먹게 되더라구요
+P0 	: 저는 닭구이가 먹고싶네요 ㅎㅎ
+P1 	: 닭구이는 통닭이나 치킨이랑 다른건가요?
+P0 	: 숯불에 구워먹는 닭다리살이나 주로 부위를 구워먹는건데 맛있어요!!
+P1 	: 오 그렇군요
+P1 	: &name1&님은 좋아하시는 음식 있으신가요?
+P0 	: 저는 해산물 좋아해요 진짜 맛있잖아요 ㅠ 담백하고
+P0 	: 양고기도 좋아하구요
+P0 	: 님은요??
+P1 	: 저는 떡볶이요
+P1 	: 근데 양고기 파는 곳은 적지 않나요?
+P0 	: 떡볶이 너무 맛있죠 저는 두꺼운떡좋아해요!!할매떡볶이 같은떡이요
+P0 	: 양고기는 마트에서 구워먹거나 식당들도 꽤 있어서 괜찮더라구요
+P0 	: 요즘 인터넷으로 주문도 되구요!
+P1 	: 양고기를 식당에서 많이 파나요???
+	  주로 어떤 식당에서 파나요??
+P0 	: 네 양고기집이 따로 있어요 ㅎㅎ
+P0 	: 아니면 양고기 집에서 구워먹기 쉽거든요
+P0 	: 마트에서 사도 됩니다!
+P1 	: 그렇군요

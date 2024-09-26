@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100045596
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 용산 맛집 추천해주라
+P1 	: 몽탄 유명하지않아?
+P0 	: 처음들어봤는데 뭐야?
+P1 	: 우대갈비 파는 고깃집이야
+P0 	: 오 맛있겠다 거기
+P1 	: 여기 전참시 나온 맛집이야
+P0 	: 헐 이영자 맛집이야?
+P1 	: 어 맞아 방송서 본적있을걸
+P0 	: 어 본거같아 대빅
+P1 	: 근데 당일 예약만 받아
+P0 	: 줄서서먹으면되나?
+P1 	: 오픈하면 바로 하루 예약 마감이래
+P0 	: 헐 진짜 인기 맛집이구나
+P0 	: ㅎㅇ

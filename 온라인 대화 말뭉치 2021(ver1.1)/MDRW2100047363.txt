@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100047363
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 패션에 관심 있으신가요?
+P0 	: 그닥 관심이 없었는데
+	  거울보고 추리한 모습에 깜놀해서 관심 좀 가져볼려구요.
+P1 	: 전 센스가 없어서요 ㅠ 관심을 가져도 잘 입을지 의문입니다
+P0 	: 우리 패션에 대한 정보를 나눠보아요.ㅎ
+	  우선 가방?
+P1 	: 명품 가방은 있으신가요?
+P0 	: 구찌, 코치? 있고
+	  루이비통은 누구 줘버렸고
+	  짝퉁도 몇 개 갖고 있어욯
+P1 	: 생각보다 많으시네요 전 프라다 하나 있습니다
+P0 	: 프라다 승!!
+	  악세사리는 많이 갖고 계시나요!
+P1 	: 악세서리는 예물이 다네요 &name1&임은요?
+P0 	: 저도요.
+	  예물조차 방치중이네요.ㅋ
+P1 	: 전 예물 매일 하고 다녀요 ㅎㅎ 살때 한 20군데 돌고 마음에 드는걸로 샀거든요
+P0 	: 저도 그래야하는데요.
+	  하고 있으면 손이 약간 무겁네요. 이쁜 스타일이긴한데
+	  악세서리도 습관이 돼야하나봐요.ㅎ
+P1 	: 엄청 큰거로 사셨었나봐요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035902
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+	  좋아하는 연예인 있나요?
+P1 	: 네 레드벨벳이요
+P1 	: &name1& 님은요?
+P0 	: 저도 레드벨벳 좋아해요 딱히 없긴한데 요즘 투바투 관심 있어요
+P1 	: 전 투바투 노래는 문명특급으로 처음 들었는데 컨셉이 확실한 것 같아요
+P0 	: 전 동생이 노래 들려줘서 알게 되었어요
+P0 	: 요즘 보는 프로그램 있나요?
+P1 	: 티비는 잘 안 봐요
+P1 	: &name1& 님은요?
+P0 	: 저도 요즘은 잘 안 보는것 같아요 유튜브를 봐서요
+P1 	: 어떤 채널 자주 보세요?
+P0 	: 자취 요리나 드라마 클립 자주 봐요 &name2&님은요?
+P1 	: 전 해쭈 님이나 예랑가랑 님 좋아해요
+P1 	: 요리하는 거 좋아하세요?
+P0 	: 브이로그 같은거죠? 들어봤어요 
+	  좋아하는 건 아니고 눈으로만 봐요!
+P1 	: 저는 빵 만드는 영상도 보는 거 좋아해요ㅋㅋ 직접 만들 일은 없지만 계속 보게 되더라고요
+P0 	: 공감해요! 눈으로 보는 재미가 있어요 요즘은 짧고 핵심만 있는 영상들이 좋더라구요

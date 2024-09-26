@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바이트 해보신적 있으신가요
+P1 	: 네 편의점과 과외알바해봤어요
+P1 	: &name1&님은요?
+P0 	: 사무보조 알바해봤어요
+P1 	: 단기간에 일 익히기 어렵지 않나요
+P0 	: 단순업무라서
+P0 	: 쉬웠어요
+P0 	: 공부잘하셨나보네요
+P0 	: 과외알바 어떠셨나요?
+P1 	: 편해데...이렇게 돈벌어도 되나 싶어요
+P1 	: 약간 학부모에게 미안하기도 하고
+P0 	: 오
+P1 	: 그래도 편하긴 진짜 편해요
+P0 	: 학부모들이 깐깐하게 요구안하던가요?
+P1 	: 커리큘럼 한번 짜두면 앵무새처럼 반복하면 되니까요
+P1 	: 그런 경우는 전혀 없었어요
+P1 	: 대신 처음 과외 시작할때 얘가 이 과목이 너무 취약하다할때 대충 목표선은 암묵적으로 잡아두죠
+P0 	: 그렇군요
+P0 	: 직장 다니시나요?
+P1 	: 네 지금은 회사  노비입니다ㅜ
+P1 	: &name1&님은 학생이신가요?
+P0 	: 백수예요

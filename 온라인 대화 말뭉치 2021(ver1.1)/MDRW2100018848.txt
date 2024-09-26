@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 즐겨읽으시나요
+P1 	: 저는 웹소설 많이 봐요ㅋㅋ
+P0 	: 이북으로 보시나요
+P1 	: 완결난건 이북으로 보고, 연재중인건 그냥 봐요
+P0 	: 어..그럼 웹툰같은것도 보시나요
+P1 	: 웹툰 자체도 많이 보고, 소설 웹툰화도 봐요
+P0 	: 어떤 웹툰 보시나요?
+P0 	: 저는 네이버 플랫폼 자주봐요
+P1 	: 장르 안 가리고 많이 봐서ㅋㅋㅋ 저도 시리즈, 리디 메인에 카카페아 문피아도 봐요ㅋㅋ
+P0 	: 되게 다양하게 보시네요
+P0 	: 그럼 네이버 금요웹툰중에 오늘 뭐 보셨나요
+P1 	: 풋사과 보습학원, 강림전기, 로판빙의만화, 트럼프 봤어요
+P0 	: 저도 예전에 트럼프봤었는데 최근에 시간이 안맞아서..
+P0 	: 쭉 밀려버렸네요
+P1 	: 전개가 빠르지 않아 몰아보는 게 나을지도요ㅋㅋ
+P0 	: 맞아요 한참  쌓인 후에 보는것도 좋더라구요
+P0 	: 너무 쌓이면 앞 내용을 잊어버려서 그렇지..ㅋㅋ

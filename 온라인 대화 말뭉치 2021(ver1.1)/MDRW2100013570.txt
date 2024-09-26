@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013570
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐 제일 사고 싶으신가요?
+P1 	: 저는 오븐이요!!
+P0 	: 요리좋아하시나봐요? 
+	  대형 오븐이요?
+P1 	: 넹 일단 자리부터 만들어야하는데 암튼 그렇네요.ㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저는 사고 싶은건.. 스팀청소기?
+P0 	: 물.걸.레
+P0 	: 청소기 같은거요
+P1 	: 물{emoji:★}걸{emoji:★}레 청소기 무겁더라고요 ㅠ
+P0 	: ㅋㅋ 그래요? 물.걸.레 청소기 써본적 없어서..
+P0 	: 안 편한가요?
+P1 	: 무거워요 ㅋㅋㅋ 저는 그냥 기본 청소기가 좋았어요. 잘안닦이고요.
+P0 	: 글쿠나
+P0 	: 지금 1회용 물티슈 청소기써서.. 그게 더편할줄알앗는데
+P1 	: 넹
+P1 	: 그냥 걸￦레 밀대가 전 제일 좋았어요.
+P0 	: 역시 기본이 왕도인가..
+P1 	: 망가지는건 둘 다 똑같긴한데 가볍고 부담도 덜하고 좋아요. 근데 로봇청소기는 안써봐서 비교를 못하겟네요
+P0 	: 마져.. 로봇청소기도 사고 싶네요

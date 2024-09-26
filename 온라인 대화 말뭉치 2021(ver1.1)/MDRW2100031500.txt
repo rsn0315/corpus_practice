@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 요리 직접하시나요?
+P1 	: 저는 본가에 살다보니 직접 요리할 일이 없어요
+P1 	: 그래서 요리초보
+P0 	: 저도 요리못해요ㅜㅜ
+P0 	: 점심 드셨어요?
+P1 	: 아침을 많이 먹어서 점저로 먹으려구요
+P0 	: 엇 아침 뭐 드셨어요?
+P1 	: 김치찌개 먹었어용!! 어묵사리 추가ㅋㅋㅋ
+P0 	: 어묵사리 맛있겠네요ㅜ
+P0 	: 저는 김치국 먹었어요
+P1 	: 오 둘다 김치수프 먹었네요
+P0 	: 그러게요ㅎ
+P0 	: 마침 집에 김치도 떨어져서
+P0 	: 홈쇼핑에서 시켰어요
+P0 	: 김치 시켜드세요?
+P1 	: 시키기도 하고 어무니가 담기도 하세요
+P0 	: 저희집도 옛날에는 담았는데 힘들어서 ㅎㅎ
+P0 	: 그리고 요즘에는 사는게 비용이 덜 들기도 하더라구요
+P1 	: 맞아요ㅜㅜ 보통 일이 아니죠 김장이

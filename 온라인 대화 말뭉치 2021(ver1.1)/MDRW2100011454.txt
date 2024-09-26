@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011454
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 지금막 먹으려구요
+P1 	: 씨타입님 드셨어요?
+P0 	: 한식이요
+P1 	: 저두 한식먹어요
+P0 	: 밥심이죠
+P1 	: 김치찌개 맛있네욧
+P0 	: 전 불고기요
+P1 	: 든든한메뉴네요
+P0 	: 고기 좋죠
+P1 	: 고기도좋고 저는 밥이좋아요
+P0 	: 맛나죠
+P1 	: 네 맛있어요 밥이
+P0 	: 저도 좋아요

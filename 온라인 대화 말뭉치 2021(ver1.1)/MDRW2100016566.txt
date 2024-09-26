@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016566
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장인이신가요?
+P1 	: 전업이에요ㅠ
+P0 	: 전업이 뭐에요? 전업 주부여?
+P1 	: 네 주부ㅋㅋ
+P0 	: 예전엔 어떤일 하셧엇나요?
+P1 	: 사회복지사요
+P0 	: 스트레스 엄청 많은 직종이죠?
+P1 	: 모든일이 그런것같아요^^  그땐 그랬는데 쉬다보니
+P1 	: 재밌었던 기억도나고
+P0 	: 추억보정? ㅋㅋㅋㅋㅋ
+P0 	: 원래 약자? 대하는 직업이 현타가 더 심하다고 하더라구요..
+P0 	: 공무원도 복지파트가 ㅈ젤 힘들고
+P1 	: 아 사람대하는 직업은 다그런것같아요ㅠㅠ
+P0 	: 성격이랑 잘 맞으셨나보네요..
+P1 	: 그런것같아요~
+P0 	: 공공기관 같은데 근무하셨던 건가요? 
+	  아님 회사 같은거도 많나요? 잘 몰라서..
+P1 	: 단체에요~  공공기관은 아니고 장애인단체
+P0 	: 아.. 비영리법인 그런거여?
+P1 	: 네네 맞아요

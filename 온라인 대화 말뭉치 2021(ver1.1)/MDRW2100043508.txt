@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100043508
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 저녁식사 하셨나요?
+P0 	: 가지 베이컨말이 해서 먹어보려고요
+P1 	: 와 메뉴 너무 좋은데요! 저는 배달도시락으로 오야코동을 먹었어요
+P1 	: 요리를 자주 하시나요?
+P0 	: 간단하게 해먹는거 좋아해요
+P1 	: 간단한 요리 배우고 싶어요! 저도 해먹는 걸 싫어하진 않는데 퇴근하고 나면 복잡한 요리 잘 안하게 되더라구요
+P0 	: 그건 맞아요 피곤해서 하기싫져
+P1 	: 혹시 피곤해도 이런건 해먹을 만해 하는 메뉴 있으신가요?
+P1 	: 전 물말아서 김치랑 먹는 게 전부인 것 같아요 ㅋㅋ
+P0 	: 그것도맛잇져
+	  전 냉동식품 마니사놔요ㅋㅋ
+P1 	: 오 저도 냉동 도시락 몇 개 사두긴 했어요
+P1 	: 어떤 냉동식품 주로 사세요?
+P0 	: 쭈꾸미도 잇고요
+	  돈가스같은것도 잇고요
+P1 	: 오 돈가스는 사봤는데 쭈꾸미도 파는 줄은 몰랐어요
+P1 	: 볶음 상태로 파나요?
+P0 	: 양념상태요 볶아먹는거에요
+P1 	: 아하 양념 쭈꾸미도 검색해봐야겠네요
+P1 	: 쭈꾸미만도 볶고 삼겹살이랑도 볶고 하면 편리하면서도 다양하게 먹을 수 있겠어요
+P0 	: 맛아요 안질기고 맛잇어요
+P0 	: 쭈삼 맛잇죠

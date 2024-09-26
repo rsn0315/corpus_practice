@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100028273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠는 어떤거 좋아하시나요?
+P1 	: 저는 딱히 없어요
+P1 	: &name1&님은요?
+P0 	: 저는 축구도 즐겨봤고 배구도 요즘 재밌을 것 같구요!
+P0 	: 몸으로 할수있는건 배드민턴인것 같아요 ㅎㅎ
+P1 	: 오 배드민턴 잘하시나요?
+	  저는 배드민턴은 잘하는 사람이랑 하면 보통은 하는데 저랑 비슷한 실력이랑 하면 꽝이더라고요
+P0 	: 약간 상대에 맞춰지는 타입이시군요!
+P0 	: 보고싶은 경기가 있나요??
+P1 	: 저는 배구나 높이뛰기요
+P1 	: &name1&님은요?
+P0 	: 그렇군요 저도 배구 보러가보고 싶어요!
+P0 	: 보러가보신적 있나요?
+P1 	: 아니요 &name1&님은 있으신가요?
+P0 	: 아니요 저도 없었어요 ㅎㅎ
+P0 	: 한번 보러가보고 싶어요 ㅠ
+P0 	: 배구는 본다면 어디 팀 보러가실건가요??
+P1 	: 저는 김희진 선수 있는 팀이요...
+P0 	: 헉....저두요......ㅠㅠㅠㅠ너무 멀어서 저는 엄두를 못내고 있지만 너무 좋을 것 같아요
+P0 	: 가서 보는 김희진선수라니 ㅠㅠ
+P0 	: 김연경선수도 너무 보고싶어요
+P1 	: 근데 김연경선수는 곧 있으면 못 볼 것 같은데 코로나가 안끝나네요ㅠㅠ
+P0 	: 아 ㅠㅠ 그러니까요 김연경선수 보러 중국가야겠어요
+P0 	: 한번이라도 실제로 보고싶어요
+P1 	: 그러니까요

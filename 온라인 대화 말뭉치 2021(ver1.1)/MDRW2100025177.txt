@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025177
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교있으세요?
+P1 	: 저는 부디스트야요 &name1&은여
+P0 	: 그게 뭔가요?
+P0 	: 처음 들어요
+P1 	: 불교야요
+P0 	: 아!
+P0 	: 다른 용어 인가요?
+P1 	: 기냥 영어야요
+P0 	: 아하ㅋ
+P1 	: &name1&은 MUGYO
+P1 	: 영어야요
+P0 	: 네
+P0 	: 근데 절 좋아해요
+P0 	: ㅋ 절밥도요
+P1 	: 뷔빔밥 마싯는데 코로나라 닫았어요ㅜ
+P0 	: ㅜㅜ슬프네요
+P0 	: 어느절이 맛있나요?
+P1 	: 빡세게
+P1 	: 산에 올라간절이 맛있어요
+P0 	: 역시

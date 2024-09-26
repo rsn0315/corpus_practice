@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034871
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 음식 좋아하시나요?
+P1 	: 네~~
+P1 	: 근데 전 식당에서 먹는게 좋더라고요
+P1 	: &name1&님은요
+P0 	: 저도 식당을 선호하는데, 요즘은 배달 전문식당이 늘고 4단계라 좀 시키는 편이에요!
+P1 	: 외식은 아무래도 조심스럽긴해요 ㅜ
+P0 	: 요즘은 더더욱이요ㅠ 2000명에 육박하니까여ㅠ
+P1 	: 에효..확진자수볼때마다 한숨만나오네요
+P0 	: 외식이 확 줄어서 설거지가 늘었어요ㅠ
+P1 	: 그쵸..쌀도 자주사먹어요ㅋㅋ
+P0 	: 원래는 주기다 길었는데 요즘은 잊을 만 하면 시킬 때가 돼요ㅋㅋ
+P1 	: 그니까요ㅎㅎ
+P0 	: 요즘 어떤 메뉴 주로 시키시나요?
+P1 	: 돈가스나 짬뽕이요ㅎㅎ
+P1 	: 자주먹어도 맛있어요
+P1 	: 어떤거 시켜드세요?
+P0 	: 저는 마라탕이나 등갈비김치찜이요ㅋㅋㅋ

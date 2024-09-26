@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022519
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 혹시 키우는 동물 있으세요?
+P1 	: 강아지요
+P0 	: 강아지 몇살이에요?
+P1 	: 음 18년된거같아요
+P1 	: 장수견이랍니다!
+P0 	: 진짜 소중한 가족이겠어요
+P1 	: 그쵸ㅎ 동생이에요
+P1 	: 지금은 전 결혼해서 나가고 부모님이 키우세요
+P0 	: 보고싶고 그러겠어요
+P0 	: 강아지 이름은 뭐에요~?
+P1 	: &name1&요ㅎ
+P0 	: &name1&는 뭘 잘 먹어요?
+P1 	: 소세지요ㅎ
+P0 	: 귀여워요 ㅋㅋ

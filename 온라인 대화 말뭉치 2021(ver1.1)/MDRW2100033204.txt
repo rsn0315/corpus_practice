@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100033204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비올때 보통 어떤 음식을 먹나요?
+P1 	: 저는 보통 전이나 떡볶이 혹은 어묵탕 주로먹어요!
+P0 	: 그렇군요
+P0 	: 지금 비가 시작됐는데 이미 저녁을 먹었으니 내일 전종류를 먹어야 겠네요
+P0 	: 전이 먹고 싶군요
+P1 	: 해물파전이나 김치전 추천드려요!
+P1 	: 오.. 감자전도 좋조
+P0 	: 저희 처형이 농사를 지으시는데 감자를 세박스나 보내주셨지요
+P0 	: 그래서 아직도 감자가 많습니다
+P0 	: 이따 저녁에 감자전을 먹을까 합니다
+P1 	: 때마침 오늘 비오니
+P1 	: 감자전에 막걸리 한잔 어떠심이..
+P0 	: 아주 좋습니다
+P0 	: 그렇게 한번 먹어봐야 겠습니다
+P0 	: &name2&님은 배달 음식을 종종 시키시나요?
+P1 	: 네 종종 시켜먹죠!
+P1 	: 요즘 타코야끼에 꽂혀서 좀 자주 시켜먹어요 ㅋㅋㅋ
+P0 	: 저도 몇번 먹어봤어요
+P0 	: 맛있더군요
+P1 	: 맞아요 ㅠㅠ
+P1 	: 너무 맛있어서 자주 시켜먹게되요..
+P0 	: 저는 트럭에서 사먹어 봤답니다
+P0 	: 요즘은 배달도 되는군요
+P1 	: 맞아요! 배달도 되더라구요
+P0 	: 요새는 왠만한 건 다 배달이 되는군요

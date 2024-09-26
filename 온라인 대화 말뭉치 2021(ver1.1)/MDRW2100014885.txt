@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014885
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그죠. 우리나라만큼 안전한곳이 또 없는거 같앙ᆢ
+	    국내여행 계획은 없으세요?
+P0 	: 국내여행은 제주도 가고 깊어요
+P1 	: 잘 지내셨어요?^^
+	  저두 제주도는 갈때마다 좋더라구요
+P0 	: 잘 지냈어요ㅎㅎ 요즘 제주도에 유명 맛집들이 많이 생겨서 투어 돌고 싶더라구요ㅎㅎ
+P1 	: 그 돈까스는 진짜 먹어보고싶더라구요. 근데 줄설 자신이 없어요ㅎ
+P0 	: 맞아요 연돈ㅠㅠㅠ 코로나 끝나면 더 많아질까봐 겁나네여ㅠ
+P1 	: 맛이 변한게 아니면 100%그렇겠지요?
+P0 	: 제주도까지 놀러가서 쓰레기를 버리고 온다던데 바다가 여전히 예뻤으면 좋겠어여ㅠ
+P1 	: 헐 사람들이 참.. 바다가 10년전이 더 이쁘긴하더라구요..
+P0 	: 제주도 바다들이 다 이뻤는데 정말 아쉬워여...
+P1 	: 대신이라해야하는지 전 5월에 부산다녀왔는데 바닷가 까페같은곳 예쁘게 잘꾸몄더라구요.
+P0 	: 부산 좋으셨겠어요ㅠㅠ
+P1 	: 기장쪽에 대나무숲인 아홉산 숲이랑 기장까페갔는데 좋았어요^^
+	  해운대쪽도 사람없을때라 좋았구요
+P0 	: 대나무 숲이 넓게 조성되어있나요?

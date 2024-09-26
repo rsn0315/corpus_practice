@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011659
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페에서 어떤 메뉴를 가장 좋아하세요?
+P1 	: 저는 녹차라떼 좋아해요. 커피는 못마시지만 녹차 정도는 괜찮아서요.
+P0 	: 어느 카페의 녹차라떼가 가장 취향에 맞으세요?
+P1 	: 어딜가나 잘 먹기는 하는데 투썸플레이스 음료가 맛있는 것같아요.
+P1 	: 투썸이 케이크도 맛있어서 카페 중에 좋아해요.
+P0 	: 투썸 맛있죠! 어떤 케익을 즐겨 드세요?
+P1 	: 티라미수도 좋아하고 아이스박스도 좋아해요. 아이스박스는 많이 달아서 다른 사람과 나눠먹어야하지만요.
+P0 	: 아이스박스는 아아랑 먹어야 중화되죠ㅋㅋ
+P1 	: 맞아요ㅋㅋㅋㅋㅋㅋ
+P0 	: 쓴걸 싫어하지만 투썸 가면 케이크 때문에 아아 많이 먹어요
+P1 	: 저도 그래서 아아를 연하게 시켜서 먹기도 해요. 카페인때문에 못먹는 편이어서요.
+P0 	: 밤에 뜬 눈으로 지새기는 힘드니까요..
+P1 	: 맞아요. 심장이 빨리 뛰어서 2배는 피곤한 느낌이에요ㅠㅠ &name1&님은 어떤 음료 주로 드세요?
+P0 	: 스벅 자허블 가장 좋아해요
+P1 	: 저도 자허블 자주 먹어요. 아이스로 드세요? 따듯하게 드세요?
+P0 	: 저는 아이스로 먹어요

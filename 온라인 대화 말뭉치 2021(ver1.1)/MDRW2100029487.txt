@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100029487
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당근마켓 자주 이용하시나요?
+P0 	: 당근 하긴 하는데
+P0 	: 팔기만 해요
+P1 	: 저는 팔기도하고 무료받기도하고 ㅋ
+P0 	: 오오
+P1 	: 어떤거 파시나요?
+P0 	: 공기청정기요 최근에
+P1 	: 큰거파셨네요
+P0 	: 차량용이라소형이에요
+P1 	: 바로 팔리나요?
+P0 	: 네
+P1 	: 가격이 좋았나보네요
+P0 	: 싸게요
+P1 	: 역시 싸야 잘 팔리는군요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023189
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응 이번편은 재밌었어
+P0 	: 게스트 누구 나왔어?
+P1 	: 게스트 안나왔어
+P0 	: 아 무슨 설정이었는데?
+P1 	: 멤버들 중 귀신이 한명 있어
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ재밌네 귀신 찾는거야?
+P1 	: 응
+P1 	: 요즘 1박2일 재밌어?
+P0 	: 귀신 누구였는데?
+P1 	: 송지효
+P0 	: 1박2일 오늘 거는 재미있던데?
+P1 	: 재밌긴 하더라
+P0 	: ㅋㅋㅋㅋㅋ나도 바다가고 싶었어
+P1 	: 그니까
+P0 	: 바다 구경한지 너무 오래됐어
+P1 	: 한 번 가야 되는데
+P0 	: 동해 가고싶다
+P0 	: 지금 티비에 뭐해?

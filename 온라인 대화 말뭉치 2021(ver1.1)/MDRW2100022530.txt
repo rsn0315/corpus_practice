@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022530
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 도서앱 까니가 훨 낫죠?
+P1 	: 그래 덕분에 잘 보고 있다
+P0 	: 무료 도서 많으니까 이용 자주 해보세요
+P1 	: 오냐
+P0 	: 들어보니까 요새 도서관도 코로나 대비로 뭐 많이 해놨나봐요
+P1 	: 그런가? 그럼 도서관에 좀 안전해졌겠네
+P0 	: 그럼요 물론 조심해야 하지만 도서관에서 이제 책도 빌릴 수 있을 듯 해요
+P1 	: 좋은데? 니가 알려준 전자책도 볼만은 하다만 역시 책은 종이책이 느낌이 있지
+P0 	: 그러게요
+P1 	: 아날로그만의 장점이 있어.. 종이책이 더 기억에 남아
+P0 	: 연구결과도 그렇게 나오더라고요
+P1 	: 종이책은 오감을 느끼면서 볼 수 있어서 좋아
+P0 	: 맞아요

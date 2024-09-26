@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100044240
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 작업은 잘 끝났나??
+P0 	: 웅~ 완벽하데 끝냈지~~~~
+P1 	: 수고했네~
+P1 	: 아예 끝낭거야??
+P0 	: 일단은~ 끝!!!
+P0 	: 근데 또 수정사항 주면.. 해야하고..
+P1 	: 끝이여도 꿑이 아니네
+P0 	: 어쩔슈없이.. 회사일이라는게...ㅠ
+P1 	: 다른 일은 없는 거야???
+P0 	: 다른 일 바로 시작하는데...
+P0 	: 겹치면 어쩔수없는 거고..ㅠ
+P1 	: 아이고. 일이많으면 야근인가??
+P0 	: 그러겠지... 어쩔수없이..
+P1 	: 고생이네 우리딸..ㅠ
+P1 	: 야근비는 없는가??
+P0 	: 당연하게도... 없다..
+P1 	: 이제부터는 52시간?? 그거라서 야근수당 챙겨줘야한다던데
+P0 	: 법은 그런데 직업특성상 어쩔 수앖지 않냐며..
+P0 	: 대표님이 그냥 넘겨버리심..ㅠ
+P1 	: 아이고.... 어떡하나
+P0 	: 어쩔수없는 거지
+P0 	: 그냥 무상으로 야근해주는 수밖에..ㅠ

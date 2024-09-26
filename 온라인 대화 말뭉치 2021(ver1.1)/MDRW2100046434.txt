@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046434
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: &name1&님 활기찬 월요일 아침 보내고 계신가요~?
+P0 	: 네 활기찬 하루를 보내고 있어요
+P0 	: 날씨가 많이 춥네요
+P1 	: 정말요 갑자기 추워졌어요
+P1 	: 옷은 따뜻하게 입으셨나요?
+P0 	: 오늘은 재택근무라서 밖을 나갈 일이 없네요
+P0 	: 반팔 차림으로 집에서 근무중입니다
+P1 	: 다행이네요!
+P1 	: 재택근무는 &name1&님과 잘 맞으신가요? :)
+P0 	: 네 잘맞네요 엄청 편하고 효율도 좋은거 같아요
+P1 	: 그렇군요! 재택근무를 하게 되면 일에 집중도 더 잘 될 것 같네요
+P1 	: 그러면 회의도 화상 회의로 진행되나요?
+P0 	: 네 아침부터 쭉 화상 회의 진행했네요
+P1 	: 회의가 길게 진행되었군요!
+P1 	: 앞으로도 재택 근무가 계속 되면 업무 효율이나 직원 복지 차원에서 좋을 것 같아요 ㅎㅎ
+P0 	: 맞아요 효율면에서도 집중도도 높아지고 좋은거같아요!
+P1 	: 앞으로도 재택근무가 잘 되어서 &name1&님의 워라밸 라이프가 잘 이루어지기를 바랍니다~!
+P0 	: 고생하셨습니다

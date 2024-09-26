@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100025104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 님 연애하시나요
+P1 	: 네
+P0 	: 저도요
+P1 	: 오 며칠돼셨어요
+P1 	: 되셨어요
+P0 	: 2년이여
+P0 	: 님은요
+P1 	: 전 5년이요
+P1 	: 중학생때 부터 사귀었어요
+P1 	: 님은 언제부터 사귀셨어요 ?
+P0 	: 중2때부터요?
+P0 	: 전 대학교 다니면서 만낫어요
+P0 	: 애인분의 어디가 좋으신가요?
+P1 	: 콕 집기 얼럽네요
+P1 	: 목소리요
+P1 	: 님은요
+P0 	: 목소리ㅋ
+P0 	: 저는 모든거요
+P1 	: 콩깍지가 제대로 씌셨네요
+P1 	: 대학교에서 만나셨으면 cc인가요 ?
+P0 	: 네
+P1 	: 오 안깨지고 잘 사귀셨나요 ?
+P1 	: cc힘드실텐데
+P0 	: 왜요?
+P0 	: 지금도 사귀고 잇죠 하하
+P1 	: 올
+P1 	: 좋네요
+P1 	: 결혼 생각도 있으세요?
+P0 	: 아뇨
+P0 	: 님은요
+P1 	: 전 있어요
+P0 	: 안하신담서요
+P0 	: 언제 하시게요

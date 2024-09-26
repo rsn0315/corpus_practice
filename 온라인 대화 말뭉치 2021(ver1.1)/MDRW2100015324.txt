@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015324
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기억나는 여행지 있으세요?
+P1 	: 네
+P0 	: 어디가 기억에 남으세요
+P1 	: 단양이요
+P0 	: 제주도라고 하실 줄 알았는데요
+P1 	: 하려다 말았어요
+P1 	: 왜 그렇게 생각하셨어요?
+P0 	: 왜 하려다 마셨을까요?
+P0 	: 전 제주도거든요^^
+P1 	: 왜냐하면
+P1 	: 제주도는 너무 흔하잖아요
+P1 	: 재밌었고 좋았긴했는데
+P1 	: 제주도는 다 아는 여행지라서
+P1 	: 다른 걸 얘기하고 싶었어요
+P0 	: 그렇군요
+P0 	: 하지만 소중한 친구와 간 여행은 흔하지 않죠?
+P1 	: 그럼요
+P1 	: 그래서 고민했었어요
+P0 	: 그렇군요
+P0 	: 담양에서 뭐하셨나요
+P1 	: 단양이요
+P1 	: 패러글라이딩탔어요
+P1 	: 제주도 어디가 제일 맘에 드셨나요?
+P0 	: 재밌었겠어요

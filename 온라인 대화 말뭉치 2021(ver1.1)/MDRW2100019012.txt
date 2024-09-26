@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100019012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘은 비가 너무 많이 와서 산책은 힘들 것 같아ㅠ
+P0 	: ㅇㅇ 하루 쉬어 ㅎㅎ 비 안올 때 나가면 되지
+P1 	: 주말엔 비소식 없으니 같이 나가자
+P0 	: 그러자~ 산책도 하고 맛있는 것도 사오고 ㅎㅎ
+P1 	: 매일 운동하다 안하면 안하는 날 몸이 더 아픈 기분이야 ㅋ
+P0 	: 며칠이나 했다고 ㅋㅋㅋ
+P1 	: 원래 초보자가 더 티를 내는 법이지 ㅎㅎ
+P0 	: 며칠 꾸준히 했으니 하루 정도 쉬어줘도 괜찮아
+P1 	: ㅇㅇ 그리고 비가 계속 내리니 기분도 축 내려앉아서 ㅎㅎ
+P0 	: 커피 마셨어?
+P1 	: 아 맞다 커피~ 그걸 안마셔서 기분이 다운됐나? ㅋㅋ
+P0 	: 얼렁 마셔 ㅎㅎ 기분 좀 올라오게
+P1 	: ㅎㅎ 그래야겠네
+P1 	: 힘든 한 주가 끝나고 주말만 남으니 너무 좋다 ㅎㅎ

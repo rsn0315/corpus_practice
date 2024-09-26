@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100045066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 반려동물 키우세요?
+P1 	: 아니요ㅜㅜ 관심만 좀 있어뇨!
+P1 	: &name1&님은 반려동물 키우시나요?
+P0 	: 아아 저는 고양이 한마리 키우고있어요ㅋㅋ
+P0 	: &name3&가 우리 고양이랍니다
+P1 	: 앟ㅎㅎ 뭔가그러실것같았어요ㅎㅎ
+P1 	: 몇살이에요??
+P0 	: &name3& 이제 4개월이에요ㅋㅋ 완전 발랄한 캣초딩ㅋㅋ
+P1 	: 우와아아앙 너무귀여울걱같아요ㅠㅠㅠㅠ 세상에
+P1 	: 성별이 뭐에요??
+P0 	: 남자애예요ㅋㅋ 엄청엄청 발랄해서 사고뭉치랍니다...
+P1 	: 앜ㅋㅋㅋ 그래도 발랄하니까 보기좋을것같아요ㅎㅎ
+P1 	: 뭐하면서 고양이랑 놀아요??
+P0 	: 아무래도 낚싯대로 많이 놀아주죠ㅋㅋㅋ 그래야 재울수있어요..
+P1 	: 앜ㅋㅋㅋ 고양이도 몸으로 놀아줘야 잘자는군요ㅋㅋㅋ
+P0 	: 그렇쥬ㅋㅋ 요새는 자꾸 벽지를 뜯어서ㅠㅠ 전셋집인데 나중에 보수비용 내줘야될듯해요
+P1 	: 아이고ㅠㅠㅠㅠ 이럴수가
+P0 	: 그리고 자꾸 깨물어서 너무 아파요ㅠ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100007012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이에요~
+P0 	: 저도 대학생이에요!
+P0 	: 저는 과외 하는데 아르바이트 하시나요?
+P1 	: 아뇨! 아르바이트 안 해요
+P1 	: 과외 말고는 다른 아르바이트 안 해보셨나요?
+P0 	: 파리바게트에서 했는데 다신 하고 싶지 않아요 ㅎㅋㅋㅋㅋㅋ
+P1 	: 친구가 파바 알바 하는데 진짜 힘들어하더라구요
+P1 	: 과외는 어때요?
+P0 	: 과외는 그냥 하다보니까 할만해요 ㅎㅎㅎ
+P0 	: 벌써 2년 정도 흘렀네요~
+P1 	: 오 과외만 2년째 하고 계시는 거예요?
+P1 	: 대단하시네요
+P0 	: 쉬다가 하다가 멘토링도 하고 ㅎㅎㅎ 여러가지 가르치는 일 하는 것 같아요!
+P1 	: 가르치는 게 적성에 맞으시나 봐요!
+P1 	: 저도 학원 보조강사 알바는 해봤었는데
+P1 	: 누구 가르치는 걸 잘 못하겠더라구요
+P0 	: 그렇군요 저는 이제 가르치는게 익숙해서
+P0 	: 이제는 그냥 숨 쉬는 것 처럼 하고 있어요 ㅎㅎㅎ
+P1 	: 처음부터 가르치는 걸 잘 하시는 편이셨나요?
+P0 	: 음 그냥 공부를 잘하는 편이어서 계속 가르치는 역할을 했던 것 같아요 ㅎㅎ
+P1 	: 멋지시네요!
+P0 	: ㅎㅎㅎ 감사해요 &name2&님도 멋져요!

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036446
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하시요
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요
+P0 	: 저녁 드셨나요??
+P1 	: 네 고등어구워서 잘 먹었어요^
+P0 	: 생선 굽기 쉽지 않은데 잘 구우시나봐요??
+P1 	: 생선팬을 샀어요 ㅎㅎ
+P0 	: 뒤집을 수 있는 프라이팬 맞나요?
+P1 	: 그거는 예전에 썼었는데 세척이 너무 힘들어서 ㅠㅠ 다른걸로 샀어요 ㅎㅎ
+P0 	: 그럼 그 생선팬은 일반 프라이팬과 어떤점이 다른가요?
+P1 	: 똑같이 생겼는데 테두리에 고무가 둘러져있어서 기름이 안튀고 김 빠지는 홀이 있어요 ㅎㅎ
+P1 	: 생선 구울떄 딱입니다 ㅎㅎ
+P0 	: 약간 식당에서 고기먹을 때 쓰는 기울어진 불판같은 모습인가요??
+P1 	: 아니에요 그냥 사각 후라이팬 이요
+P0 	: 오 그렇군요

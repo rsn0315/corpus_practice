@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100047312
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P0 	: 지금 연애중이신가요?
+P1 	: 안녕하세요. 아뇨! &name1&님은 연애중이신가요?
+P0 	: 아뇽:)
+	  저는 연애가 그리운 유부입니다ㅋㅋ
+P1 	: 와 결혼 몇 년 차세요?! ㅎㅎ
+P0 	: 저는 7년차에요:)
+P0 	: &name2&님은 자만추에요?
+P1 	: 네! 자만추면서 집순이죠ㅋㅋㅋㅋㅋ 연애 안녕..
+P0 	: ㅋㅋㅋㅋ앗 저도 자만추에
+	  집순이였었어요 ㅋㅋㅋㅋ
+P0 	: 근데 인연은 다 있더라구요ㅋ
+P0 	: 집순이를 집 밖으로
+	  끌어낼 누군가가 나타날거에요ㅋ
+P1 	: ㅋㅋ과연....ㅜㅠㅠ &name1&님은 남편분과 어떻게 만나셨나요?!!
+P0 	: 저는....ㅋㅋ 
+	  대학때 썸타다 군대갔는데
+	  시간이 흘러흘러 다시 만나 결혼까지 했네요
+P1 	: 우와! 진짜 인연이 있나봐요ㅋㅋ 역시 학교 다닐 때 한 놈 찍어뒀어야했는데.....
+P0 	: ㅋㅋ&name2&님을 찍어뒀던 넘이 
+	  뒤늦게 나타날지도요? ㅋㅋㅈ
+P1 	: 앗 그럴까요..?ㅋㅋㅋㅋ거 내가 늙어죽기전에 나타나주겠니...?ㅋㅋㅋㅋ
+P0 	: 아휴 ㅋㅋㅋㅋ 암요암요
+	  인연이 당장 낼 나타날지도 모르죠ㅋㅋ
+P1 	: ㅋㅋㅋ내일 나타난다면 그건 다 &name1&님 덕분이에요..!

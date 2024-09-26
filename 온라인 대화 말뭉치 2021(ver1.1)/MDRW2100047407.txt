@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100047407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하세요?
+P1 	: 네 &name1&님은요?
+P0 	: 저두용 전시회 가본적은있나요?
+P1 	: 네 ㅋㅋ 예전에는
+P1 	: 자주 갔어요
+P0 	: 우와 전시회는 아직 안가봤어여
+P0 	: 함 가봐야겠어요 ㅎㅎ
+P1 	: 만족스러유ㅓ요
+P0 	: 요즘 한국영화도 많이 개봉했더라구요
+P1 	: ㅋㅋㅋ맞아요 ㅎ
+P1 	: 보신 거 있나요
+P0 	: 아뇨 아직 못봤네요 ㅠ
+P1 	: 저도요..
+P1 	: ㅋㅋ 사실 요새 안본지 됐어요
+P0 	: 콘서트도 넘 가고파요 ㅠㅠ
+P1 	: 저두요 ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 어디 가고싶으세요
+P0 	: 박효신콘서트용 ㅠㅠ
+P1 	: 아 귀 힐링일 거 같아요ㅋㅋㅋㅋ
+P1 	: 전 아이유요!!

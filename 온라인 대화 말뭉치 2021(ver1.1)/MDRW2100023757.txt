@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아까 예시 보여주니까 잘 어울릴거 같아
+P0 	: 그치 그 머리 괜찮을 거 같지?
+P1 	: 응
+P0 	: 근데 내가 숱이 없어서 그게 좀 걱정이야
+P1 	: 아 그럴 수 있지
+P0 	: 너무 착 가라 앉을까봐
+P1 	: 드라이로 어느정도는 커버할 수 있지 않나?
+P0 	: 그렇기는 하지
+P1 	: 그리고 잘 안나가잖아
+P0 	: 사실 그거 때문에 더 용기를 내서 짜르려는 것도 있어
+P1 	: 그럼 한 번 해보는 것도 나쁘진 않을 듯
+P0 	: 맞아 최양락이 돼도 마스크가 가려줄거야
+P1 	: ㅋㅋㅋㅋㅋㅋ 그 짤밖에 생각이 안나
+P0 	: 나도 단발병이 올 때마다 그 짤 보고 치유를 하는데 이번에는 치료 불가였어
+P1 	: 이번에?
+P0 	: 응 이번에 머리 자르고 싶단 생각하고 나서 제일 먼저 본 사진이 최양락 사진이었거든

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100016107
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅎㅎ 아직 생각 중.. 오늘은 그냥 집밥 먹고 내일 먹을까 해
+P0 	: 왜 오늘 안먹고? ㅎㅎ
+P1 	: 애들 내일 성적표 받아오잖아~ 피자 먹을 일이 있을 것 같아서 ㅋㅋㅋ
+P0 	: ㅎㅎㅎㅎ 김칫국 한사발 드링킹 한거 아냐?
+P1 	: ㅎㅎ 믿습니다~
+P0 	: 꼬맹이들 어떻게 받아올지 궁금하네
+P1 	: 내일 매우잘함 잔뜩 받아오면 피자 먹어야지 ㅋㅋ
+P0 	: ㅎㅎ 파티=피자구나
+P1 	: 애들한테는 더 그렇지
+P0 	: 좋네~ 기분도 낼겸
+P1 	: 피자는 왠지 특별한 날 먹는 기분이야
+P0 	: 우리가 보통 상장 받아오는 날 많이 사주다보니
+P1 	: ㅎㅎ 그러네 진짜

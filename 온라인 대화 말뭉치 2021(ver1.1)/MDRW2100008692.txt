@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008692
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이신가요?
+P1 	: 아니요 학생이세요?
+P0 	: 학교 다녀요
+P0 	: ㅡㅜ 내일개학
+P1 	: 요즘 온라인 수업 아닌가봐요ㅜ
+P0 	: 아항.... 안해봤어요ㅋㅋ
+P0 	: 졸업 언제하셨어요?
+P1 	: 저는 30대라 한참 전에 졸업을 ㅋㅋ
+P1 	: 다시 학생이고파요ㅋㅋㅋ
+P0 	: 헉! 30대 여 이신가용
+P1 	: 어 뭐 그렇게 되네요? ㅋㅋ
+P1 	: ㅋㅋ별로 어른 된것같지는 않지만요
+P0 	: 헉...저도 삼십대인데 학교다녀요ㅜ
+P1 	: 오 어느 학과세요?
+P0 	: 그건은 창피합니다ㅜㅜ
+P0 	: 학교 어느과졸업하셨어요?
+P1 	: 저는 간호대학 편입 생각하고 있어요
+P1 	: 삼십대에 대학원도 아니고 학부 생활이라니
+P1 	: 겁도 나네요
+P0 	: 엇 그래도 새출발 결심만으로
+P0 	: 대단하신듯요

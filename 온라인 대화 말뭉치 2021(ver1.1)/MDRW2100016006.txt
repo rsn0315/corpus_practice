@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016006
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사하셨나요
+P1 	: 아침 먹었고 이제 점심시간이 가까워지네요
+P0 	: 점심메뉴 정하셨냐요
+P1 	: 점심 고민중이에요, 샌드위치를 먹을지 쌀국수를 먹을지요ㅋㅋ
+P0 	: 쌀국수 좋아하세요?
+P1 	: 저는 쌀국수 쿨타임이 있어서 주기적으로 먹어요!ㅎㅎ
+P0 	: 저는 쌀국수의 고수가 좀 어러워서 ㅎ
+P0 	: 고수도 좋아하시나요?
+P1 	: 아직 고수를 직접적으로 못 먹어봐서요ㅋㅋ 쌀국수는 고수 안 넣어먹는 편이에요!
+P0 	: 아무래도 그렇죠ㅎ
+P0 	: 전 고수 뭣도 모르고 씹었다가 그대로 뱉었거든요
+P0 	: 약간 퐁퐁맛..
+P1 	: 유전자에 따라 퐁퐁맛과 고수맛으로 갈린다고 하더라구요ㅋㅋㅋ
+P0 	: &name2&은 어떤 쪽인거 같으세요
+P1 	: 부모님도 고수를 못 드셔서 퐁퐁쪽이지 않을까 생각해요ㅎㅎ
+P0 	: 아하 그럴 확률이 높겠어요
+P0 	: 식사하셨나요

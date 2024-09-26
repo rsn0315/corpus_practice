@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100014869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반려동물과 함께 지내시나요?
+P1 	: 안녕하세요
+P1 	: 허스키한마리 키우고있어쇼
+P0 	: 우와 이름이 뭔지 물어봐도 될까요?
+P1 	: &name3&에요
+P1 	: 반려동물 키우시나요
+P0 	: 아뇨 저는 자신이 없어서 그냥 유튜브로 예뻐해요..
+P0 	: 강아지 엄청 좋아하거든요
+P0 	: &name3&는 왜 &name3&에요?
+P1 	: 의미는 딱히 없고 부르기가 편해서 마루라고 지었어요
+P0 	: &name3& 털색은 어떤색이에요?
+P1 	: 허스키라 검정에 흰색인데
+P1 	: 얼굴은 진돗개 중에
+P1 	: 블랙탄이라고 있는데 아시나요
+P0 	: 네 알아요!
+P1 	: 약간 그렇게 생겼어요ㅎㅎ
+P0 	: 검정에 흰색인데 브랙탄을 닮았다고 하니까 어떤 모습일지 상상이 안가요ㅋㅋㅋ 귀엽나요? 멋지게 생겼나요?
+P1 	: 약간 늠름한 모습보다는
+P1 	: 멍충미가 있는 거 같아요ㅎㅎ
+P0 	: 너무 귀여울것같아요 무릎정도 오나요?
+P1 	: 25키로 정도 나가는데 그쯤 올거에요

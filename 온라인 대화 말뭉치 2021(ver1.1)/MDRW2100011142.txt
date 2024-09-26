@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011142
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 메뉴 어떤거 좋아하시나요
+P1 	: 중식이요!
+P1 	: &name1&님은?
+P0 	: 오 저도 중식 좋아해요!
+P1 	: 그 중에 뭐 좋아하세요
+P0 	: 꿔바로우 마라탕 좋아해요!
+P1 	: 꿔바로우 맛있죠
+P0 	: 아우 너무 맛있어요 바삭하고
+P1 	: 양꼬치도 맛있죠
+P0 	: 와 양꼬치랑 칭따오 침나와요
+P1 	: 고추잡채도 ㅎㅎ
+P0 	: 와 꽃빵이랑 같이
+P1 	: 카
+P0 	: 배고프네요ㅠ

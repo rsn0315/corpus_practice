@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100002554
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 기억에 남는
+	  여행지가 있나요?
+P1 	: 전 스위스 제일 좋았어요
+P1 	: &name1&님은요?
+P0 	: 저는 하와이요...ㅋㅋㅋㅋㅋ
+P1 	: 오 하와이~ 가보고싶었는데
+P1 	: 아직못가봤네요
+P0 	: 스위스는 아직 못가봤는데
+	  저도 가보고 싶어요:)
+P0 	: 저희 다시 갈 날 오겠죠? ㅠㅠㅋ
+P1 	: 와야할텐데요....ㅜㅜㅜ
+P1 	: 코로나가 끝나도...인종차별무섭고...
+P1 	: 예전에 좀 다녀놓은게
+P1 	: 그나마 다행이다 싶어요
+P0 	: 더 다닐걸 그랬어요ㅠ
+P0 	: 이렇게 일상이 많이 바뀔줄 몰랐는데
+P1 	: ㅜㅜ너무 갑작스러웠죠
+P1 	: 아직 가고픈곳이
+P1 	: 참 많은데ㅜㅜ
+P0 	: 그러게요
+P0 	: 모리셔스도 꼭 가보고 싶었는데ㅋㅋ
+P0 	: 이젠 괌이라도 다시 갈 수 있음 좋겠다 싶어요
+P1 	: 휴양지 좋아하시나봐요
+P1 	: 저는 휴양지쪽은 거의 못가봤어요
+P0 	: 체력이 저질이라
+	  휴양지를 찾게 되는거 같아여ㅋㅋ
+P1 	: 저도 체력 저질인데ㅎㅎ 휴양지가서 느긋하게 누워있고싶네요
+P1 	: 지금까진 엄청 걷는 곳들만...
+P1 	: 갔어서..
+P0 	: ㅋㅋ 더 격렬히 아무것도 안하고픈ㅋㅋ
+P0 	: 근데 것도 젊을때 가야죠 ㅋㅋ
+P1 	: ㅋㅋ 그건그래요
+P1 	: 고생하면서 다니는것도
+P1 	: 다추억이죠

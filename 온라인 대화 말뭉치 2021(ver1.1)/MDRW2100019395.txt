@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100019395
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 과일 있으세요?
+P0 	: 밥먹고 와서 답이 늦었어요 죄송해요 ㅋㅋㅋ
+P0 	: 대부분 좋아하는데 시큼하거나 단 과일을 좋아합니다
+P0 	: 귤 패션후르츠 거봉 오렌지 딸기
+P1 	: 복숭아 좋아하세요?
+P0 	: 복숭아도 불론 좋아해요
+P0 	: 딱복 ? 물복?
+P1 	: 전 딱복이요!
+P1 	: &name1&님은요?
+P0 	: 전 물복파인데 보관이 어려워서 오래 먹을거면 딱복사요
+P1 	: 그럼 상온에 보관하시나요?
+P0 	: 냉장고에 넣지만 물복은 금방 멍드니가요
+P1 	: 과일 중에 냉장고에 넣으면 맛없어지는 종류가 잇더라구요
+P0 	: 헐 복숭아는 냉장고에 넣음 안되나요?
+P1 	: 며칠전에 키위 사서 냉장고에 넣었는데 샀을 때보다 신맛이 강해져서 놀랐어요
+P1 	: 그건 모르겠어요 ㅋㅋㅋㅋ
+P0 	: 와 키위는 더 셔진다니 몰랐어요
+P0 	: 밖에서 후숙해야겠네요
+P1 	: 그런거같아요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007429
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 연예인이나 콘텐츠 있으시나요?
+P1 	: ㅇㅇ 모시는 아이돌 있고 드라마 보는 거 좋아해요ㅋㅋ
+P1 	: 요새 보는 드라마 있으세요?
+P0 	: 요새는 잘 안 본 것 같아요
+P1 	: 그럼 유튭 보세요?
+P0 	: 네 아무래도 짧은 게 보기 편하더라고요
+P1 	: 아 글쵸 요새는 대세더라구요 유튭쪽이
+P1 	: 보통 모 보세요? 어떤 분야
+P0 	: 예능이나 요리쪽이요 &name2&님은요?
+P1 	: 전 유툽은 잘 안보는데
+P1 	: 아 제 돌 직캠이나 팬튜브는 봐요ㅋㅋㅋ
+P0 	: 어떤 돌 좋아하시나요?
+P1 	: 아 별로 안유명한 돌이라ㅋㅋㅋㅋ
+P1 	: 유툽 전용 예능을 보세요? 아님 티비 요약본?
+P0 	: 저는 티비 요약본이요
+P1 	: 나 혹시 프리미엄인가? 그거도 이욘하세요?
+P1 	: 이용
+P0 	: 네 무료체험이긴 하지만요
+P1 	: 아항

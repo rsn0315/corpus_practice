@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100006950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P1 	: 저녁은 뭘 드셨나요?
+P0 	: 저는 밥이랑 반찬 먹었어요
+P0 	: 가지볶음이랑 애호박볶음 좋아하는데 완전 맛있었어요
+P0 	: &name2&님은요?
+P1 	: 전 삼치구이를 먹었어요~
+P0 	: 맛있었겠네요
+P0 	: &name2&님은 디저트 좋아하세요?
+P1 	: 빵 과자를 좋아해요
+P0 	: 저도 빵 좋아해요
+P1 	: 무슨 빵이 제일 좋으세요?
+P0 	: &name2& 님 닉네임 보니까 &name2&타르트 생각나요 울프소셜클럽이라는 카페에 파는 &name2&타르트가 그렇게 맛있대요
+P0 	: 흠 엄청 많아서 고르기 어려운데 찹쌀떡 들어간 거 좋아해요
+P1 	: 그 빵집은 어느.지역에 있을까요?~
+P0 	: 서울 용산구요
+P0 	: 좀 멀어서 못 가봤는데 언제 한 번 가볼거예요
+P1 	: 아하 용산에 가면 저도 가봐야겠네요
+P0 	: &name2& 님은 떡볶이 좋아하세요?
+P1 	: 아 너무 좋아하죠 ㅠ
+P1 	: 그런데 좀 줄이려고 노력 중입니다 ㅎㅎ
+P0 	: ㅋㅋㅋㅋ확실히 한번 먹으면 다음 날 속이 안 좋거나 피부가 안 좋아져요
+P0 	: 하지만 제 몸 속엔 이미 떡볶이 양념이 흘러서 멈출 수 없죠
+P1 	: 몸 속에 떡볶이 ㅋㅋㅋ 찰떡같은 표현이네요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100039352
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배 겨자 식초 좋아하고
+P0 	: 넹
+P1 	: 오인 싫어요
+P0 	: 저랑 잘 통하시네요
+P1 	: 오이는 쫄면에는 어울리는데
+P1 	: 물냉면는 정말 아니에요
+P0 	: 그쵸 육수 맛이 이상해져요
+P1 	: 오이를 좋아하는 편이거든요
+P0 	: 아 전 오이 자체를 별로 안 좋아해요
+P1 	: 오이소박이 같은 것도 항상 잘 먹고
+P1 	: 오이 반찬 다 좋아하는데
+P0 	: 네네
+P1 	: 물냉면은 정말 아니에요
+P0 	: 혹시 평양냉면 좋아하세요?
+P1 	: 슴슴한 매력이 있긴 한데
+P0 	: 방금 백석 같으셨어요
+P1 	: 전 함흥냉면 스타일이 좋아요
+P1 	: 해주냉면도
+P0 	: 해주냉면은 뭐예요?
+P1 	: 근처에 유명한 해주냉면 맛집이 있는데 따끈한 육수를 물 대신 줘요

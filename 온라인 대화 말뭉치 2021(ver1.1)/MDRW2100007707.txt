@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100007707
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P1 	: 지금 일하고 계신가요?
+P0 	: 아뇨 학생이에요
+P0 	: &name2&님은요?
+P1 	: 저는 직장인이요ㅠㅠ
+P1 	: 학생이시면 대학셍이새요?
+P0 	: 네
+P0 	: 어느 분야세요?
+P1 	: 의료직이요ㅠㅠ
+P1 	: 지금 방학이죠?
+P1 	: 요즘 아르바이트 자리도 없죠?
+P0 	: 의료직이시면 요즘 많이 바쁘시진 않나요?
+P0 	: 맞아요 방학이에요 알바 많이 없더라고요
+P1 	: 방금 일마치고 집에와서 누웠어요ㅠㅠ
+P1 	: 전공이 뭐예요??
+P0 	: 고생하셨어요!!
+P0 	: 전 패션이요
+P1 	: 우와 멋져요!
+P1 	: 어디취업하고 싶은곳을 정했나요?
+P0 	: 아뇨 요즘엔 전공분야 말고 다른 분야 생각해보고 있어요
+P0 	: IT관련해서 배우고 싶어서요
+P0 	: &name2&님은 직업 마음에 드세요?
+P1 	: 오 앞으로 IT 관련 중요하죠
+P1 	: 아뇨ㅠㅠ
+P1 	: 사실 저도 다른걸 배워보고 싶어요
+P0 	: 어떤 쪽 관심 있으세요?
+P1 	: 저는 문예창착 쪽이요!

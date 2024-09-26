@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 식사하셨나요
+P0 	: 네 먹었습니다
+P1 	: 뭐 드셨나요?
+P0 	: 볶음밥이요!
+P1 	: 너무 맛잇었겠어요
+P1 	: 어떤 볶음밥을 해드셨나요
+P1 	: 그냥 있는 재료로 대강 하셨나요? 아.. 혹시 배달드신건가
+P0 	: 해먹었습니닿ㅎ
+P1 	: 해드셨구나 ㅎㅎ
+P1 	: 김치넣고 볶아드셨나요
+P0 	: 오 맞아요ㅎㅎㅎ
+P1 	: 그럼 햄이나 고기도 넣으셨구요?
+P0 	: 참치 넣었습니다~
+P1 	: 아~참치김치볶음밥을 해드셨구나
+P1 	: 다른 야채 뭐 넣으셨나요
+P0 	: 양파요ㅎㅎ

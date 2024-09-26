@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음료 있으신가요
+P1 	: 전 음료보다는 믹스커피를 좋아합니다
+P1 	: 어떤 음료 좋아하시나요
+P0 	: 아하 저는 모카커피를 좋아해요
+P0 	: 그럼 디저트는 좋아하시는 거 있나요?
+P1 	: 달달한 초코 아이스크림 좋아요
+P1 	: 어떤 디저트 좋아하시나요
+P0 	: 저는 도지마롤이 좋아요
+P0 	: 초코아이스크림 맛있죠
+P1 	: 커피말고 다른 음료는 무엇을 좋아하나요
+P0 	: 저는 차종류 좋아해요 &name2&님은요?
+P1 	: 저도 꽃차 좋아해요
+P0 	: 아하 저는 캐모마일을 좋아해요 안 달아서 좋더라고요
+P1 	: 전 자스민차 좋아합니다
+P1 	: 국화차도 향이 좋아요
+P0 	: 국화차 향이 진짜 좋더라고요 깜짝 놀랐어요
+P1 	: 꽃차에 매력은 향인것 같아요
+P0 	: 맞아요 향을 맡으면 그 확 퍼지는 꽃내음이 좋죠

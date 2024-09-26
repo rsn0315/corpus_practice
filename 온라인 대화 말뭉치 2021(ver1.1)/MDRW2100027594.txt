@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100027594
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안됐다
+P1 	: 세제 직접 사오시는 편인가요
+P0 	: 아뇨 어머니가 사오심
+P1 	: 우리도
+P1 	: 세제 없다더니 설거지는 어떻게 잘 끝내셨는지
+P0 	: 싱크대 밑에 봤더니 리필 있어서
+P0 	: 다행히 잘 끝냈습니다
+P1 	: 굿
+P1 	: 우리 집도 설거지 쌓여있는데
+P1 	: ...언제 하지
+P0 	: ...지금?
+P1 	: 2시부터 수업임(ㅋㅋ)
+P1 	: 끝나고 해야지
+P0 	: 저런...
+P0 	: 난 이제 설거지 다 해서 커피 마실 건데
+P1 	: 글쿤... 우리 집은 커피 잘 안 마셔서
+P1 	: 오히려 액상과당을 먹는 편
+P0 	: 액상과당 어떤 거
+P1 	: 요즘은 포도맛 웰치스 쌓아두고 먹음
+P0 	: 맛있겠다...
+P0 	: 웰치스 최애맛이 포도맛인가요
+P1 	: 넹 포도맛 짱.
+P1 	: 코스트코 가면 한 박스씩 사오는 듯

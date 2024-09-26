@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015739
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행하는 거 좋아하세요??
+P1 	: 넹! 좋아하는 편이에요
+P1 	: &name1&님은요?
+P0 	: 저도요ㅎㅎ 기억에 남는 데 있나요??
+P1 	: 저는 기억력이 안좋은 편이라
+P1 	: 최근에 가까울 수록 기억에 남는 것같아서
+P1 	: 파리요!
+P0 	: 오 저도 파리 가봤는데 너무 좋더라고요
+P0 	: 전 2019년 11월에 갔는데 &name2&님은 언제 가보셨어요??
+P1 	: 헉 전 2020년 1월에 갔어요
+P1 	: 별로 차이가 안나네요
+P0 	: 역시 코로나 전에 갔다왔어야 했던가 같아요
+P0 	: 그 이후로는 여행을 못가네요...
+P1 	: 저도 1월 여행이 막타였어요....
+P1 	: 얼른 코로나가 종식되어야 여러 나라를 여행할텐데요ㅠ
+P0 	: 그러게요ㅠ
+P0 	: 국내 여행은 자주 다니시나요??
+P1 	: 국내 여행도 적지 않게 다녔던 것같아요
+P1 	: &name1&님은요?
+P0 	: 전 어렸을 때 많이 가고 좀 크고 나서는 잘 안가는 것 같네요
+P1 	: 크면 시간이 없어지기도 하지만 돈 이렇게 많이 들어가나 싶기도 해서 그런걸까요ㅠㅎㅎ
+P0 	: 맞아요ㅠㅠ 어렸을 땐 부모님이 계획도 다 짜주셨는데 계획 짜는것도 일이고...

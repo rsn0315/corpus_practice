@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015429
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 스포츠좋아하세요?
+P0 	: 배구 좋아해요
+P1 	: 저도 이번 올림픽계기로 배구 좋아하게 되었는더
+P1 	: 반갑네용
+P0 	: 저랑 계기가 같네요
+P1 	: 아 그러시군요
+P1 	: 그럼 혹시 김연경님 팬이 되기도?
+P0 	: 당근이죠
+P1 	: ㅋㅋㅋ한국인의 대동단결ㅋㅋㅋ
+P1 	: 연경선수는 없겠지만 배구직관가보고 싶어요
+P0 	: 저도 직관 가고싶네요
+P1 	: 그쵸 재밌을거 같아요
+P1 	: 응원하는 팀 있으세요?
+P0 	: 아직이요!
+P1 	: 저도 아직이에요 혹시 다른 좋아하는 스포츠있어요?
+P1 	: &name1&님 말씀이 되게 간단명료한게 군인 같이 각이 딱 잡혀있어 재밌어요ㅋㅋㅋㅋㅋㅋ
+P0 	: 손가락 아파서요ㅠㅠ

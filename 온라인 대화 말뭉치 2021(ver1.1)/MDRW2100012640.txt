@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012640
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 치킨좋아하세요?
+P1 	: 네 &name1&도 치킨 좋아하시나요?
+P0 	: 네네
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: 저는 bhc요
+P1 	: &name1&은요?
+P0 	: 전 교촌이요ㅋㅋㅋ
+P0 	: 양념vs후라이드?
+P1 	: 저는 둘 중엔 양념이요 누누님은요?
+P0 	: 오
+P0 	: 저와같네요
+P0 	: 전 후라이드가 싫어요
+P1 	: 저는 후라이드가 약간 기름맛이 좀 더 느껴져서 별루더라고요
+P0 	: ㅋㅋㅋ 맞아요
+P0 	: 저는 후라이드는
+P0 	: 뭔가 밋밋하더라고요
+P1 	: 최애 치킨은 어떤 치킨이신가요?
+P0 	: 전 페리카나요ㅋㅋㅋㅋ
+P0 	: 삘이오죠? 양념파인게
+P1 	: 오!! 양념의 정석이네요ㅋㅋㅋ

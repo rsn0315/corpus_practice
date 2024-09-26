@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100032849
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니 나한테 사이트 좀 보내줘
+P0 	: 카톡으로 보냈어
+P1 	: 이게 이번에 새르 나온거야???
+P1 	: 이쁘네
+P0 	: 이쁘지 기능도 좋더라구
+P1 	: 저것도 사려고???
+P0 	: 시계를 안차고 다녀서 필요없긴한데
+P0 	: 교통카드로 쓸 수 있더라고
+P1 	: 시계 안차고 다니는데 뭐하러사
+P1 	: 집에 사놓고 안쓰는거 많잖아
+P0 	: 나에 대해서 너무 잘아는군
+P1 	: 그냥 핸드폰으로 시간봐
+P0 	: 흥 그럴거야
+P1 	: 시계 가격은 얼마야
+P0 	: 크기마다 가격이 다르긴한데 25만원 정도
+P1 	: 비싸네

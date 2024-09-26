@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008240
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화좋아요?
+P1 	: 전 영화관 간 지 정말 오래된 것 같아요 영화 좋아하세요?
+P0 	: 좋아하는데 여건이 ㅎㅎ
+P0 	: 자주 봐요?
+P1 	: 저는 영화를 별로 잘 안봐요
+P1 	: 어떤 영화 제일 좋아하세요?
+P0 	: 로코요
+P1 	: 예를 들면요?
+P0 	: 첫키스만 50번째요
+P1 	: 오 넷플꺼인가요?
+P0 	: 예전까요
+P1 	: 어느나라 영화인가요?
+P0 	: 외국 인디 잘 몰라서
+P1 	: 영어영화인가요?
+P0 	: 네

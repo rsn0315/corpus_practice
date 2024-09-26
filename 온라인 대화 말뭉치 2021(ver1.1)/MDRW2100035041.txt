@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 보따리는 자고 일어나서 풀어볼까요? ㅎㅎ
+P0 	: 네네!! 주무세요!
+P1 	: 넹 해 뜨고 봬요~
+P1 	: 좋은  낮... 이에요 ㅎㅎ
+	  최근에 구매한 물건이 있나요?
+P0 	: ㅋㅋㅋ 간식거리요!! ㅋㅋㅋ 과자샀어요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋ 무슨 과자 사셨나요? 
+	  저는 젤리를 쓸어 담는걸 좋아해요 ㅋㅋㅋ
+P0 	: 와! 저도 젤리 좋아해요! 요즘 맛있는젤리뭐있나요! 전 에이스 초코샀어요 ㅋㅋ
+P1 	: 커클랜드 젤리빈 아시나요 ㅋㅋㅋㅋ
+P1 	: 그거 입에 쏟아 붓고 먹으면 오묘하고 맛있어요 ㅋㅋㅋㅋ
+P0 	: 알죠알죠 ㅋㅋ 젤리빈 한창 먹었었는데
+P0 	: 원래 유명한 젤리빈이 어디꺼죠?
+P1 	: 젤리벨리 일까요?
+P0 	: 아 맞아요 맞아요! 그거 많이 사먹었어요 ㅋㅋㅋ 신기한맛 많잖아요 ㅋㅋ
+P1 	: 맞아요 ㅋㅋㅋㅋㅋ
+	  해리포터 젤리로 시작해서 여기까지 오네요 ㅋㅋㅋ

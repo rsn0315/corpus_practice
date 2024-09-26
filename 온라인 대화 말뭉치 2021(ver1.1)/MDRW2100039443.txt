@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100039443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 뭐먹었어?
+P1 	: 점심은 국밥!
+P1 	: 뭐 먹었어?
+P0 	: 난 시간없어서 점심은 건너뛰고 지금 카레먹는중
+P1 	: 집에서? 아님 밖에서
+P0 	: 집!
+P0 	: 근데 고기떨어져서 고기없는카레 먹는중
+P1 	: 헉..... ㄷㄷ
+P1 	: 고기없는카레 에반데
+P1 	: 낼은 점심도 먹어...
+P0 	: 낼은 토욜이니까 먹을수있어
+P0 	: 늦잠땜에(..)아침은 안먹을지도 모르지만
+P1 	: ㅋㅋㅋ 오늘은 왜 못먹었어
+P0 	: 숙제하느라ㅎ,,,,
+P0 	: 오늘 못먹은대신 내일은 맛있는거먹어야지
+P1 	: 에구... 그랭 맛난거 사먹어
+P0 	: 저녁 먹었니
+P0 	: 난 지금 학원끝나서 부침개먹는중
+P1 	: ㅋㅋ 먹었지
+P1 	: 부침개 맛있겠다
+P0 	: 뭐 먹었어?
+P1 	: 뭐 먹었더라
+P1 	: 된장찌개 먹었다
+P0 	: 아 된장찌개 맛있겠다...
+P0 	: 고깃집 된장찌개 먹고싶음

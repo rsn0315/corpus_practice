@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100045824
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 어플 많이 쓰세요
+P1 	: 아니요
+P0 	: 대단하세요
+P1 	: 뭘요
+P0 	: 전 배달 어플 단골 이거든요
+P1 	: 음식 만드는 것도 버릇하면
+P1 	: 처음에만 좀 어렵지 쉬어요
+P0 	: 쉽다고 할 수 있는 연륜이 부럽습니다
+P1 	: 아우 정말 쉬워요
+P0 	: 저는 조리도 그렇지만 설거지랑 그전에 재료 손질 힘들어요
+P1 	: 그렇죠 조리 그 자체보다 전후가 좀 힘들긴 하죠
+P0 	: 채소 씻고 다듬고
+P1 	: 정말 그래요

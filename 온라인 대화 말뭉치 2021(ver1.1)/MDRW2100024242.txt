@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100024242
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 갑자기?
+P0 	: 응 난 늘 먹고싶어
+P1 	: 한 번 먹어
+P0 	: 근데 너무 비싸
+P1 	: 많이 비싸?
+P0 	: 음 좀 비싼 과일이지
+P1 	: 체리 말고 다른건?
+P0 	: 가격? 아님 먹고싶은 거?
+P1 	: 먹고싶은거
+P0 	: 체리가 제일 먹고싶고 다음은 수박
+P1 	: 수박 좋지
+P0 	: 이제 여름 지나면 못 먹을텐데
+P1 	: 그러네
+P1 	: ㅋㅋ

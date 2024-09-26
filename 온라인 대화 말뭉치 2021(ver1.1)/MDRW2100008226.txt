@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100008226
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임 하시는 거 있으신가요?
+P1 	: 저는 요새 모바일 카트라이더 하고있어요!
+P0 	: 와 카트라이더 잘 하시나요??
+P1 	: 한 지 일년정도 되었는데 잘하는건 아니고 ㅎㅎㅎ 그냥 친구들이랑 마이크 켜서 하는게 재밌어서 꾸준히 하게 돼요
+P0 	: 오오 저는 롤이랑 테런 주로해요!ㅎㅎ
+P1 	: 우와 저는 그런 게임이 진짜 어려운 것 같아요 대단하시네요!
+P0 	: 저는 막 뭐 키우고 그런 게임보다 한판한판이 재밌는게 좋더라구요
+P1 	: 그렇군요! 모바일 게임은 하는거 있으세요?
+P0 	: 저는 쿠키런 주로해요!
+P1 	: 오 저도 쿠키런 잠깐 했었는데 그것도 넘 어렵더라구요 ㅠㅠ 하신지 얼마나 되셧어요?
+P0 	: 한 3년 정도 한 거 같아요 잠깐 접을 때도 있었지만 하루에 2시간씩은 꼭해요...ㅋㅋ
+P1 	: 와 저는 최대로 오래한 게임이 1년인데 대단하시네요!
+P0 	: 캐릭터가 자주 업데이트 되고 이벤트도 많아서 계속 하게 되네요!

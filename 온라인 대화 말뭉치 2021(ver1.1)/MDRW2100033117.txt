@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033117
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 저녁은 뭐야?
+P0 	: 닭갈비 먹을까 하는데 어때?
+P1 	: ㅇㅇ 좋아 ㅎㅎ 근데 난 밥은 주지마
+P0 	: 왜? 밥 안먹게?
+P1 	: ㅇㅇ 다이어트 하니까 닭갈비만 먹으려고
+P0 	: 그럼 그냥 닭갈비랑 사리 위주로 먹어
+P1 	: ㅇㅇ 고구마랑 떡 면도 넣을거 아냐?
+P0 	: 글치 ㅎㅎ
+P1 	: 그거면 충분해
+P0 	: 고럼 오늘 저녁은 구구닭갈비 ㅋ
+P1 	: 나 7시쯤 도착하니까 살짝 미리 구워주시면 감사 ㅎㅎ
+P0 	: 알았어 사리 넣기 직전까지 볶아놓을께
+P1 	: 맛있겠다 배고파 ㅎ
+P0 	: 사리는 우동사리?
+P1 	: 당연하쥬

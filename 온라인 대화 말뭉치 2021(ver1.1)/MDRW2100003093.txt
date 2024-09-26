@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 &name1&님
+P0 	: 카페 좋아하세요?
+P1 	: 넘 좋아하는데 코로나 또르르 이네요
+P0 	: 저도 카페가서 힐링하는게 낙인데 여러모로 조심스럽네요ㅠㅠ
+P1 	: 코로나 후로  전체 100명이하일때 좀갔는데
+	  그뒤론 못간거 같아요
+P0 	: 저도 그래요 가도 오래못있고 나오게 되구ㅠㅠ빵순이라 요즘 넘 힘드네요
+P1 	: 아아에 케이크 맛나죠 ㅠㅁ ㅠ
+P0 	: 꾸덕한 초코케잌 먹고싶네요ㅠㅠ어떤종류 케잌 좋아하세요?
+P1 	: 저도 투썸 ㅎㅎ 초코케익 먹고 싶네여 ㅎㅎ
+P0 	: 투썸 최애인데ㅎㅎㅎ맘이 맞았네요ㅎㅎ
+P1 	: 오앙 !! 진짜 꾸덕 하더라구요 ㅎㅎ
+P0 	: 네 진짜 좋아해요ㅎㅎ

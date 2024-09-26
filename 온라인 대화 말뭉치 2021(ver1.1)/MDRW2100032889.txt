@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032889
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>2026년 병장 월급 100만원
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 와... 2026년에는 병장 월급이 100만원이래???
+P0 	: 와... 진짜??
+P1 	: 어 나도 뉴스보고 처음 알았네..
+P0 	: 나때 병장월급 얼마였지???
+P1 	: 여보때???
+P0 	: 어..
+P1 	: 얼마였지???? 여보가 기억해야지.ㅋㅋㅋㅋ
+P0 	: 20만원 안넘은거 같은데??
+P1 	: 와....20도 안넘었어????
+P0 	: 넘었나??
+P1 	: 하여튼 20만원 언저린거 아니야..
+P0 	: 그랬던거 같은데???
+P1 	: 와.... 완전 무료봉사네...
+P0 	: 100만원이면 진짜 크긴 크다..
+P1 	: 그래서 100만원 주면 다시가냐.???
+P0 	: 안가지.
+P1 	: 그럼 100만원도 적은 돈이네..
+P0 	: 그래도 이러나 저러나 가야되면 많이 주면 좋지

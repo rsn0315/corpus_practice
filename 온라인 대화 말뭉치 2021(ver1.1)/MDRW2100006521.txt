@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 올해 간 제주도요
+P0 	: 얼마나 머무셨나요?
+P1 	: 5박이요
+P0 	: 리조트에 계셨나요?
+P1 	: 숙소를 옮겼어요 호텔 2박씩 리조트 1박
+P0 	: 신라호텔??
+P1 	: 새로 생기거나 리뉴얼한 곳을 주로 갔어요
+	  
+	  그랜드하얏트.그랜드조선.
+P0 	: 리뉴얼 하신곳 가셨군요. 리조트는 어디 가셨나요?
+P1 	: mj리조트라고 인기많은곳을 취소분으로 급 예약했어요
+P0 	: 우와!! 그럼 엄청 저렴하게 가셨겠는데요
+P1 	: 네 예약도 힘든곳인데 운이 좋았죠 가격도 적정하고..
+P0 	: mj리조트가 유명한 곳이군요 아이랑 가기 좋은가요?
+P1 	: 네 부대시설이 많진 않은데 바닷가에 있어 경치가 좋고 산책로도 좋고 주인분이 엄청 친절하세요 관리도 깔끔하게 잘되구요

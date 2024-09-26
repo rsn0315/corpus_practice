@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100041648
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 혹시 반려동물을 기르시나요?
+P1 	: 아니요! &name1&님은요??
+P0 	: 저두요 ㅋㅋ
+P0 	: 저는 사진보는건 좋아하는데
+P0 	: 실제론 동물을 무서워해요ㅠ
+P1 	: 오, 저는 개한테 물린 적 있어서 무서워해요
+P1 	: 사진은 저도 좋아해요ㅋㅋㅋ
+P0 	: 헐!! 저도 개한테 물릴뻔! 한적있어서 무서워해요ㅠ
+P0 	: 크게 다치시진않으셨나요? ㅠㅠㅠ
+P1 	: 작은 개여서 손가락 살짝 물렸어요ㅋㅋㅋ
+P0 	: 오우ㅜㅜㅜ그래두 다행이긴하지만
+P0 	: 무서웠겠어요ㅠㅠ
+P1 	: 네, 그래서 그뒤로 무섭더라구요ㅜㅜ
+P0 	: 저도 어렸을때 옆집 강아지가
+P0 	: 푸들인데 겁나 싸나운 푸들이어서
+P0 	: 너무 짖고 맨날 쫓아와서 물려고하고 그래서ㅠ
+P0 	: 어렸을때 기억이 너무 강렬해서 지금도 무서워요ㅠㅠ
+P1 	: 개물림사고나 사건이 많잖아요ㅜㅜ 주인들이 주의 좀 했으면
+P0 	: 그니까요!!!! 가끔 정말 목숨을 잃는 사람도 나오잖아요
+P0 	: 너무 안타까워요ㅠㅠ
+P1 	: 맞아요ㅜㅜ 개가 아무리 귀해도 사람에게 상처입히면 안되죠
+P0 	: 맞아요ㅠㅠㅠ
+P0 	: 조심히 잘 내려가셨나요? 비가 꽤많이오네요ㅠ
+P1 	: 네네, 비오기 전에 내려왔어요

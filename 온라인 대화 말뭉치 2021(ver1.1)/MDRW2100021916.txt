@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021916
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니 안갔어
+P0 	: 오늘 날씨 딱 적당했던 거 같은데
+P1 	: 근데 주말이라 사람 많을거 같아서
+P0 	: 맞아 좀 많긴 하더라
+P1 	: 주말은 피해야지
+P0 	: 주말엔 나가서 좋을 게 없는 거 같아
+P1 	: 차라리 평일에 나가야지
+P0 	: 평일은 확실히 사람이 좀 적지 근데 오늘 날씨가 좋았어
+P1 	: 근데 요즘 날씨 괜찮지 않나?
+P1 	: 요즘 날씨 괜찮지 않나?
+P0 	: 맞아 요즘 날씨 딱 적당하지
+P1 	: 그래서 좋은거 같아
+P0 	: 요즘 만 같았으면 좋겠다
+P1 	: 그러니까

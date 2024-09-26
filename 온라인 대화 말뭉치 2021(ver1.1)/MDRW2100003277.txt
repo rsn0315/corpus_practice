@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003277
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 넵 대만 좋아해요
+P0 	: 대만 어디가보셨어요?
+P1 	: 타이페이에 주로 있었어요
+P0 	: 타이페이 어디가 좋으셨어요?
+P1 	: 박물관 아세요?
+P1 	: 그 장개석이 도망올때 배를 격추시키지 못한 이유가
+P1 	: 보물때문이라는 설도 있거든요
+P0 	: 아뇨 장개석도 처음들어보네요...
+P0 	: 거기가면 분위기는 어때요?
+P1 	: 박물관이 엄청 크거든요
+P1 	: 분위기가 되게 웅장하고
+P1 	: 보물을 어디 산속에 보관한대요
+P1 	: 박물관에서 보물을 몇개월에 한번씩 바꿔주는데
+P1 	: 그거 다 보려면 몇십년이? 걸린다고 그러더라구여
+P0 	: 보물은 어떤보물있어요?
+P0 	: 황금이나 그런건가?
+P1 	: 그 삼겹살 돌 아세요?
+P1 	: 돌인데 진짜 삼겹살처럼 생겼어요
+P0 	: 돌이 되게 재밌는게 많은거같아요

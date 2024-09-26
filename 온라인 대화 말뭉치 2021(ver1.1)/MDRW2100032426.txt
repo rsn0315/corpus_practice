@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100032426
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 자외선은 피 해야죠
+P0 	: 햇살이 따가우면 피부가 벗겨지죠
+P1 	: 저는 꼭 전 그라스를 씁니다
+P0 	: 저도 모자를 쓰고 나가는 편이에요
+P1 	: 햇살에 눈이 부신일까요
+P0 	: 햇볕을 쬐긴 해야합니다
+P1 	: 햇볕 둘째어야 잠 인디가 생겨요
+P0 	: 비타민은 햇볕이 보충해줘요
+P1 	: 덥지만 밖으로 한 번씩 나가야 해요
+P0 	: 여름에도 산책은 필수에요
+P1 	: 겨울 햇살은 따뜻하고 좋아요
+P0 	: 햇볕은 사실 좋은거죠 활력을 주잖아요
+P1 	: 구름이 낀 날은 좀 우울하죠

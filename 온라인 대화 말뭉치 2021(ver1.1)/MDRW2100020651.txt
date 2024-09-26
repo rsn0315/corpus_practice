@@ -1,0 +1,72 @@
+# FILE DATA
+ID : MDRW2100020651
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 그럼 한학기 휴학내고 여행 가시는게 어때요
+P0 	: 다이어트 실패한 기념으로
+P1 	: 와
+P1 	: 상처..
+P1 	: 받아써여..
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 미안해요
+P0 	: 저는 아침에 늦게 일어난 기념으로 휴학하고 국토종주했었어요
+P1 	: 오
+P1 	: 어땠어용??
+P0 	: 갔다가 3일만에 돌아왔어요
+P1 	: 오호~
+P1 	: 어디 갔다오셨어요?
+P0 	: 집이 너무 그리워서...
+P1 	: 앗
+P0 	: 대구까지 갔다가 친구 만나서 친구 차 얻어타고 집 갔어요
+P1 	: 집이 대구랑 가까우신가요?
+P0 	: 출발을 부산에 기차타고 갔어요ㅋㅋ
+P1 	: 아아
+P1 	: 집이 부산이세요?
+P0 	: 아뇨 부산에서 서울로 가려고 부산까지 기차타고 가서 거기서 사작했어요
+P1 	: 아아
+P1 	: 그럼 짧은 기간동안 가장 기억에 남는 것이 뭐였어요??
+P0 	: 땡볕에 쪄지면서 걸어가는데
+P0 	: 맞은편 자전거가 침뱉고간게 제일 기억나네요
+P1 	: 와 정말 잊을 수 없는 기억이겠군요
+P1 	: 여름에 가셨나봐요
+P0 	: 완전 여름까진 아니었는데 엄청 더운날이었어요
+P1 	: 아 몇 월에 가셨어요?
+P0 	: 6월쯤에 갔던것같아요
+P1 	: 아 약간 더워질 때네요
+P1 	: 여행 많이 다니셨어요?
+P0 	: 간단하게 국내여행 자주 갔었어요
+P0 	: 가까운곳

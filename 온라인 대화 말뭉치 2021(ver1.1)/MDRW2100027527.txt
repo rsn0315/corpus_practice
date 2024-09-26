@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027527
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~
+P0 	: 학생이세요?
+P1 	: 아니요~ 졸업했어요!
+P0 	: 아하 ㅎㅎ 뭐 전공하셨어요?
+P1 	: 저는 전자공학 전공했어요 ㅎㅎ
+P0 	: 우와 멋있어요!!
+P0 	: 저는 아직 학생 신분... ㅜㅜ
+P1 	: 오~ 대학생이세요?
+P0 	: 아직은 아니에요ㅜㅎㅎ
+P0 	: 학교 생활하면서 뭐가 제일 즐거우셨어요?
+P1 	: 아 그럼 수능 준비하고계시겠네요!
+P1 	: 저는 친구들 만나서 이것저것 같이 한게 제일 좋았던 것같아요!
+P1 	: 같이 여행도 가고 술도 마시고~ 시험기간에는 도서관에서 같이 밤도 새고 프로젝트도 하고 그런거요
+P0 	: 아하 그러시군요
+P0 	: 어쨌든 학창시절은 추억이 제일 큰 부분을 차지하는 것 같아요 ㅎㅎ
+P1 	: 맞아요 ㅋㅋㅋ
+P1 	: 고등학생때도 애들이랑 같이 석식먹고 야자하고 그런게 제일 기억에 남아요
+P0 	: 혹시 학교 생활하면서 스트레스 받으셨던 적 있으세요?
+P1 	: 팀플하면서 인간관계로 제일 스트레스 많이 받았던 것 같아요
+P0 	: 헉 맞아요.. 인간관계가 생각만큼 쉽지가 않죠

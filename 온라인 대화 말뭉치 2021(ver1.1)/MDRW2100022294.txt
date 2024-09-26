@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 님은 ㅁ뭐 좋아해요?
+P0 	: 전 가리는건 없는데
+P0 	: 육류좋아해요
+P1 	: 저도 가리진 않아요!
+P0 	: 아 해산물가린다
+P1 	: 육류 좋아하시는 구나~
+P0 	: 알러지때매
+P1 	: 아 돼지고기 vs 소고기?
+P0 	: 돼지고기
+P0 	: 아무래도 삼겹살이
+P1 	: 그럼 돼지고기 vs 닭고기?
+P0 	: ㅎ
+P0 	: 돼지고기
+P0 	: 삼겹살을 어찌이겨요
+P1 	: 그래도 돼지고기라구요? 삼겹살?
+P0 	: &name2&님은요
+P1 	: 그럼 삼겹살 vs 양고기
+P0 	: 양고기 냄새때매 못먹어요ㅋㅋ
+P0 	: 삼겹살이요
+P1 	: 저는 당연 1등이 소고기인데....

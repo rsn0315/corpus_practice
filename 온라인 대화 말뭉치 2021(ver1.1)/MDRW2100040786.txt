@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040786
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 백신 안 맞았어요 안 맞고 싶어요
+P0 	: 이유가 있으신가요?
+P1 	: 밖에 잘 안 나가는데 굳이 죽을 위한 무릅쓰면서 맞은 이유를 못 느끼겠어요
+P0 	: 그쵸 아무래도 걱정되죠ㅜ
+P0 	: 저는 엊그제 2차 접종까지 했는데
+P0 	: 맞기 전엔 걱정 많이 되더라고요
+P1 	: 지금 어떠세요
+P1 	: 별다른 증상은 없으신가요?
+P0 	: 어제는 몸살기도 느껴지고 그랬는데
+P0 	: 오늘은 괜찮아요
+P1 	: 다이어트는 자주 하시는 편이세요?
+P0 	: ㅎㅎ늘 하는 편이죠
+P1 	: 저도 요즘에 살이 쪄서 하고 있는데요
+P0 	: 식이조절 하시는 거예요?
+P1 	: 네 밥을 약간 적게 먹고 있어요
+P0 	: 다이어트는 식이가 중요하다고 하더라고요
+P0 	: 운동도 하시나요?
+P1 	: 이제 운동도 하려고요

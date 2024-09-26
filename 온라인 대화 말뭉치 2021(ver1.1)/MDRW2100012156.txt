@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012156
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 와 이제야 되네요!! 내인생 최고의 여행지는 어디셨습니까??
+P0 	: 전 태국여ㅎ
+P1 	: 오오 태국 완전 그리워요.. ㅠㅠㅠㅠㅠㅠ
+P1 	: 어느 지방 다녀오셨어요??
+P0 	: 푸켓요ㅎ
+P1 	: 크 휴양지가셨네요..
+P0 	: 네 환락의 도시ㅋ
+P1 	: 악.ㅋㅋㅋㅋ 맞아요 거기서 트젠쇼 본것이 생각이 나네요.ㅋㅋㅋㅋ
+P0 	: 저도요 ㅋ
+P1 	: 예쁜언니들 쇼 끝나고 사진 같이 찍으라고 호객하는데.. 한장도 안찍고 쌩하니 술마시러 간기억이 나네요. 유명한 수제 맥주집에서 알수없는 외국인커플이랑 합석했었는데... 그립네요.
+P0 	: 그런 문화가 쑈킹하더라구요
+P1 	: 그러게요. 유명연예인중에도 트젠이 있다는거 같구.  좀 놀랍긴했어요!
+P0 	: 신기한나라

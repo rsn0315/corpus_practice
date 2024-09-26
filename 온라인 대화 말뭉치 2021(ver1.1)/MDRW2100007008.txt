@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007008
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 경기
+current_residence : 강원
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 전남
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘엔 운동도 온라인으로 가르쳐주나봐요
+P1 	: 친구가 아이돌이 원격으로 춤 가르쳐주는 이벤트가 있다고 하더라구요 ㅋㅋ
+P0 	: 오오오 재밌겠어요
+P1 	: 그쵸 ㅋㅋ 온라인으로 할수 있는게 정말 많은 것 같아요
+P0 	: 최애가 춤을 가르쳐준다고 생각하면 열정이 샘솟겠어요 ㅋㅋ
+P0 	: 온라인으로 헬스도 가르쳐주더라고요
+P0 	: 피티 검색하다보니 그런 것도 있더라고요
+P1 	: 오오 그럼 피티를 집에서 하는거예요?
+P0 	: 네 선생님이 집으로 찾아오는 게 제가 원하던 방식인데 온라인으로 보여주는 것도 저렴하게 있어요
+P1 	: 좋네요!
+P1 	: 그럼 보고 따라하는 거예요?
+P0 	: 네네 요즘 같은 때 좋은 거 같아요
+P0 	: 사실 유튜브 운동 채널도 있긴한데 뭐 맞춤형 진도 이런 게 있겠죠? 궁금은 해요.
+P1 	: 그럼 진짜 피티랑 똑같을 것 같아요!
+P0 	: 그쵸 혼자하긴 어렵잖아요
+P1 	: 맞아요 ㅋㅋ 운동도 같이 다니면 훨씬 잘되더라구요 ㅋㅋ
+P0 	: 운동친구가 좋죠

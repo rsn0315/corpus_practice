@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020280
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 안녕
+P1 	: 내일은 옷을 사러 가기로 해서
+P0 	: 어떤 종류의 옷을 살 거니
+P1 	: 가을이 됐으니 호두 티를 사야지
+P0 	: 후드티는 은근히 잘 안 입게 되던데
+P1 	: 후드티가 제일 실용성이 지 않나
+P0 	: 그렇긴 한데 너무 뚱뚱해 보여
+P1 	: 너는 무슨 옷 살 거야
+P0 	: 나는 헬스장을 갈 거라서 운동복 살거야
+P1 	: 공동복 브랜드 어디 브랜드 꺼
+P1 	: 운동복
+P0 	: 로로 레몬
+P1 	: 루루 레몬 좋다고 들었어
+P0 	: 대신 가격이 조금 비싸
+P1 	: 비쌀 만하네

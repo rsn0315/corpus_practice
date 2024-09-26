@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 최근에 극장에서 보신 영화 있으신가요,
+P1 	: 최근에 극장안간지 너무 오래됏어요ㅜ
+P0 	: 코로나때문에 극장 가는것도 무섭죠ㅠㅠ 저는 제일 최근에 본건 블랙 위도우 였던것 같아요
+P1 	: 전2년정도ㅋㅋ된거같아요ㅋㅋ
+P0 	: 요즘엔 넷플릭스같은곳에서 바로 나오니까 극장관람이 줄어드는 추세같아용
+P1 	: 맞아요~
+P1 	: 접하기 쉬운 컨텐츠가 많아져서 그런거 같아요
+P0 	: 코로나때문에 극장은 물론 전시회나 뮤지컬도 보러간지 오래된것같아요~~
+P1 	: 요즘 재미있는 영화 개봉 많이하는거 같아요
+P0 	: 저는 더 수어사이드 스쿼드 보고싶더라구요! 극장에서 보고싶으신 영화있으신가요?
+P1 	: 인질이나 모가디슈요ㅋ
+P0 	: 모가디슈 재미있다는 말 많이 들어서 저도 보고싶어요!
+P1 	: 저두요ㅋㅋ후기가 좋드라구요ㅋ
+P0 	: 조인성도 큰화면에서 보고싶어요ㅎㅎ

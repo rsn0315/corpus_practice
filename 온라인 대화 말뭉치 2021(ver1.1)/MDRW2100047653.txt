@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100047653
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기억에 남는 과제가 있으신가요?
+P1 	: 저는 한페이지의 단편소설 적는 과제가 기억이 나네요
+P1 	: &name1&님은요
+P1 	: ???
+P0 	: 저는 설문조사를 만들어 통계내고 발표하는 과제가 기억나요
+P1 	: 통계와 관련된 수업이었나요?
+P0 	: 네네...진짜 너무 힘든 조별이었어요ㅠ
+P1 	: 아무래도 조별과제가 힘들죠ㅠㅠ
+P0 	: 진짜 최악이었어요...ㅋㅋ
+P1 	: 다들 설문은 잘 참여해주셨나요? 저는 중딩때 설문조사 했다가 참여 1도 안해줘서 그 뒤로 학을 땠거든요
+P0 	: 그래서 사탕이나 초콜릿 등을 준비했어요..
+P1 	: 앗! 귀엽네요ㅎㅎ 그래서 성적은 고생한만큼 나오셨나요?
+P0 	: 나름 잘 나왔어요 ㅎㅎ
+P1 	: 다행이네요ㅎㅎㅎ
+P0 	: &name2&님도 노력을 들인 만큼 나오셨나요?
+P1 	: 저는 기억이 안나는걸 보니 좋게 나오진 않았을꺼라는 예상이 드네요ㅠㅠ

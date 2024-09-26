@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100004007
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 식사는 하셨나요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 저는 방금 라면 끓여먹었습니다
+P1 	: 저는 삼겹살에 비빔면 먹었어요
+P0 	: 남겼지만...
+P1 	: 무슨라면 드셨어요
+P1 	: 남겼어도 식사하셨다니 훌륭합니다
+P1 	: 박수 짝짝
+P0 	: 진라면에 고춧가루 넣어먹었어요
+P0 	: 저는 이상하게 비빔면이 잘 손이 안가요
+P0 	: 새콤해서 그런가
+P1 	: 아 신맛 별로 안좋아하신댔죠
+P1 	: 비빔장엔 주로 식초가 들어가니까
+P0 	: 네네
+P1 	: 전 신거 좋아해요
+P1 	: 사실 단거 쓴거도 다 잘 먹지만 후후
+P0 	: 무슨 라면을 제일 좋아하시나요
+P1 	: 저 라면 요새 많이 안먹긴 하는데
+P1 	: 너구리 매운맛 오래 먹었어요
+P0 	: 아 그거 괜찮더라구요
+P0 	: 근데 어떤 날은 엄청 매운 것 같고
+P0 	: 어떤날은 하나도 안매운 것 같은
+P0 	: 이상한...
+P1 	: ㅋㅋㅋㅋ
+P1 	: 어느날은 엄청 느끼한것도 같고
+P1 	: 그래도 그 오동통한 면이 좋아요
+P0 	: 그래도 너구리가 다른 라면보다 덜 물리는 것 같아요
+P0 	: 면이 통통해서 그런가
+P1 	: 오 너무 가는 면은 별로에요?
+P0 	: 막 별로는 아닌데
+P0 	: 금방 물리는 것 같아요
+P0 	: 라면이 다 그렇지만...

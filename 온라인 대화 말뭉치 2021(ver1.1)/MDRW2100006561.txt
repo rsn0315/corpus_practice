@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 네 변이가 나왔더라고요
+P1 	: 백신은 맞으셨나요
+P0 	: 네 일차는 맞았어요 맞으셨나요?
+P1 	: 네 저는 얀센이요
+P0 	: 아 얀센 맞으셨군요!
+P1 	: 네.1회로 끝나니.좋긴해요
+P0 	: 또 안맞아도 되니까 편하시겠어요
+P1 	: 네.부담이 덜하긴하네여
+P0 	: 저도 귀찮아서 빨리 맞고 싶은데 추석 이후에 맞네요
+P1 	: 화이자인가요?
+P0 	: 네 화이자 맞았어요
+P0 	: 좀 빨리 맞아야 효과가 있을거 같기도 한데
+P0 	: 이주 미뤄졌어요
+P1 	: 아 백신 수급 문제때문에 그럴까요
+P0 	: 네 그랬던거 같아요

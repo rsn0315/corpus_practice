@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018427
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 결혼하셨나요?
+P0 	: 아니요 ㅜ &name2&은요??
+P1 	: 저도 미혼이에요
+P1 	: 그럼 혹시 연애하고 계신가요?
+P0 	: 아니요 연애는 안해봣어요. &name2&은요??
+P1 	: 지금은 솔로입니다
+P0 	: 오 해보시긴하셧군요
+P1 	: 네 몇 년 전에 연애를 해보긴했어요
+P0 	: 별로 기억하고싶지않으시겟죠..
+	  누구나 다 그렇듯??
+P1 	: 꼭 그렇지만은 않아요
+	  좋지 않은 기억도 있고, 좋았던 기억도 있고 그러니까요
+P0 	: 오 그렇군요. 그러면 그냥 평범한 그런거엿겟네요.
+	  보통 이별에따라서 그사람의 마지막 인상이 결정되더라고요.
+P1 	: 그렇군요..이별에 따라서 결정된다면, 사실 안 좋은 기억으로 남아있는게 맞는거 같아요ㅋㅋㅋ
+P0 	: ㅋㅋ 그럼 결론이 바뀌신건아니죠??
+P1 	: 꼭 이별방식으로 지난 연애를 평가 할 필요는 없는거니까요ㅎㅎ

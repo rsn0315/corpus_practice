@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100038368
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 커피 좋아하세요?
+P1 	: 좋아해요
+P1 	: 대신 쓴건 싫어해서 달게 타서 먹습니다
+P0 	: 그럼 아메리카노는
+	  안드시겠군용
+P1 	: 시럽 타면 먹어요
+P0 	: 그렇군용
+P1 	: &name1&님은 어떤 커피 좋아하세요?
+P0 	: 저는 커알못이라서
+	  프라푸치노나 과일에이드 좋아해요:)
+P1 	: ㅋㅋ 카페가서 다른 메뉴 찾는 타입이시군요
+P1 	: 저도 막상 카페가면 다른거 마셔요
+P0 	: 저도 그때그때 다른거 같아요:)
+P0 	: 식사는 하셨어요?
+P1 	: 곧 먹으려구요
+P0 	: ㅋㅋ맛점하세요:) 
+	  커피도 드시구염
+P1 	: 이미 마셨죠ㅋㅋ 모닝커피로 딱
+P0 	: 커피는 하루에
+	  한 잔만 드세요?
+P1 	: 피곤하면 두잔까지도 마셔요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100030441
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 안가시나요
+P1 	: 저 나름 자주 갑니다 ㅎㅎ
+P0 	: 오 정말요 최근 어디?
+P1 	: 최근에는 송도 오크우드요 ㅎㅎ
+P0 	: 리조트에요?
+P1 	: 아뇨 호텔인댕
+P0 	: 호캉스하셧어요?
+P1 	: 네 즐기다왔죠
+P1 	: 38층!!
+P0 	: 우와 .. 멋잇엇겟다
+P0 	: 조식 즐기셨나요
+P1 	: ㅋㅋㅋ 코시국이라 안했는데 할껄 그랬나봐요
+P0 	: ㅋㅋㅋㅋㅋ 으아 아깝당 ,, 거기만 잇으셧나요
+P1 	: 네 2박 있다가 복귀 ㅋㅋ
+P0 	: 힐링하고오셨군요ㅏ
+P0 	: 또가고싶으신덴 어딘가요
+P0 	: 와근데 오크우드 엄청비싸네요 칠십마넌 ?_?_?
+P1 	: ㅋㅋㅋㅋㅋㅋ회사 휴양소 당첨되서 간거라서
+P1 	: 제 돈 내고 가기엔 너무 비싸쥬
+P0 	: 대박.. 럭키.......
+P0 	: 축하..드렷엇습니다~ ㅋㅋㅋㅋㅋ
+P0 	: 부럽슴다

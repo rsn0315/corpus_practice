@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100032082
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 뮤지컬 보시는거 좋아하시나요?
+P1 	: 아직 뮤지컬을 본 적이 없어요
+P1 	: &name1&은 뮤지컬 좋아하시나요?
+P0 	: 사실 저도 공연장을 가본적은 많진 않은데
+P0 	: dvd나 영화로 많이 봤어요
+P1 	: 그럼 어떤 뮤지컬 좋아하시나요?
+P0 	: 해밀턴이라고 혹시 아실진 모르겠네요
+P0 	: 요즘은 이거 젤 좋아하고
+P0 	: 어쩌면 해피엔딩이랑 팬레터도 좋아해요!
+P1 	: 제가 뮤지컬을 잘 몰라서 그러는데 지금 말씀해주신 뮤지컬들이 대극장 뮤지컬들은 아니죠??
+P0 	: 어쩌면 해피엔딩은 소극장이고
+P0 	: 팬레터는 대극장이에요
+P0 	: 해밀턴은 미국 뮤지컬인데 아직 한국에 온 적은 없어요 ㅠㅠ
+P1 	: 그렇군요ㅠㅠ 그럼 팬레터는 대략 어떤 내용인가요?
+P0 	: 일제시대 시인과 소설가들을 다룬
+P0 	: 스릴러라 해야 하나...?
+P0 	: 소설가의 죽음을 다룬 내용이에요
+P1 	: 오 팬레터 제목과 다른 반전내용이네여
+P0 	: 그럼 혹시 최근에 영화관에 가신 적은 있으신가요??
+P1 	: 최근은 코로나때문에 못갔네요ㅠㅠ

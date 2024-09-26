@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 언제 복직해요?
+P0 	: 저요?? 내년 3월..ㅋㅋㅋㅋ
+P0 	: &name2& 언제 복직이였죠??
+P1 	: 저도저도 내년 3월! 그면 막내는 우째요?
+P0 	: 남편이랑 바통터치해요..
+P0 	: 어린이집에 보내되... 적응은 남편이 알아서..
+P1 	: 오 신랑이 휴직인거죠? &name3&이 1학년이고!
+P0 	: 네네!! 저는 &name3&이랑 같은학교 복직..ㅋㅋ
+P1 	: 오! 학군!! 거기로복직확정이군요
+P0 	: 어제 &name3&이랑 같은학년될 애들 엄마 만났는데.. 같은 학교 다니는게 잘하는 짓인지.. 모르겠네요.ㅠㅠ
+P0 	: 아마 엄마들 모임 나가긴 어려울듯??ㅠ
+P1 	: 맞아요{emoji:…}&affiliation&&others&이라 모임 나가면 &affiliation&관련 다물어보고 .. 그럴듯.. ㅠ
+P0 	: 그죠..ㅠㅠ 휴 걱정..ㅠㅠ
+P0 	: 내년 3월에 &affiliation& 복직이에요??
+P1 	: 네 &others&이 3월이면 백퍼온다고 하시더라구요
+P0 	: 좋은거에요??
+P1 	: 음.. 막가깝지는 않고 차로 20분쯤 걸려요 대신 &affiliation&가 엄청커서 업무가 적어요~
+P0 	: 장점이네요.ㅠㅠㅠ
+P0 	: 저 이제 작은학교... 두려움에 떨고 있어요.ㅠㅠ

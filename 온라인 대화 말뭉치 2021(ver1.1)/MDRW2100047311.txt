@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100047311
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P0 	: 아침 식사는 하셨나요?
+P1 	: 네 이제점심고민해야줘
+P0 	: 그러네요:)
+	  벌써 점심을 고민할 시간이네여
+P1 	: 배달 시켜놨어요ㅎ
+P1 	: &name1&님은 뭐드세요?
+P0 	: 저는 아직 못 정했는데
+P1 	: 저는 떡볶이 시켰어요
+P0 	: 맛있겠네요 :)
+P0 	: 로제떡볶이 드시나요?ㅋㅋ
+P1 	: 내 요즘로 제 떡볶이에 꽂혀서
+P1 	: 어떻게 아셨죠 ㅋㅋㅋ
+P0 	: ㅋㅋ제가 먹고 싶어서
+	  던져봤어요 ㅋㅋㅋ
+P0 	: 저도 요새 넘나 좋아해요{emoji:♡}
+P0 	: 배떡꺼 드세요?
+P1 	: 아뇨 동네 이름없는곳이예요ㅎ
+P1 	: 커피도 먹고싶네요
+P1 	: 요즘카페도 잘못가고
+P0 	: 어떤 커피 좋아하세요?
+P1 	: 저는 아메리카노좋아해요 &name1&님은오ㅡ?
+P0 	: 저는 커피를 못마셔서
+	  프라푸치노나 쥬스 좋아해요ㅋ
+P1 	: 프라푸치노도 맛있죠 스벅가고싶네오ㅡ
+P0 	: 저도 요즘은 드라이브 스루로
+	  이용하는데 스벅 간지 오래 되었네여

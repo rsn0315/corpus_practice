@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100012778
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 요새 코시국에 학교생활은 어떠세요?
+P1 	: 대부분 비대면 수업으로 진행중이에요
+P0 	: 오 그럼 학교 잘 안나가서 좋으시겠어요!?
+P0 	: &name2&님은 대면이 좋으세요 비대면이 좋으세요?
+P1 	: 기숙사 들어가야 해서 비대면이 편하긴 한 것 같아요 ㅋㅋ
+P1 	: 대학 로망은 사라졌지만요
+P0 	: 아 기숙사시구나!
+P0 	: 로망은 왜요ㅋㅋㅠ
+P0 	: 22년도 신입생이세요?
+P1 	: 딱 20년도 입학했을 때 코로나가 터져서요... ㅋㅋ ㅠㅠ
+P0 	: 아하.. 그럼 진짜 없으시겠어요..ㅠ
+P0 	: 체육대회나 엠티 오티 다 없었던건가요?
+P1 	: 네....... 어쩔 수 없죠
+P0 	: 진짜 아쉬우시겠다 비대면으로 3학년 마주하겠어요..
+P0 	: 비대면이면 성적 절대평가 하시나요?
+P1 	: 네네 다 절대평가해요
+P0 	: 오 성적 잘받으실수있는 기회네요ㅠㅠ
+P0 	: 시험도 비대면이니까 뭔가 덜 부담스러울것 같아요!
+P1 	: 그건 맞아요 ㅋㅋ
+P1 	: 반대로 공부를 너무 안하는 것 같아서 좀 죄책감이 들기도 해요
+P0 	: 거의 오픈북이겠어요ㅋㅋ
+P0 	: 맞아요 첨엔 꿀이네? 생각하다가 이제 학년이 올라가면
+P0 	: 전공지식도 좀 머리에 남아야하니까..ㅠ

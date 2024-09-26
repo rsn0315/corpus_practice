@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021559
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요
+P1 	: 결혼하셨어요?
+P0 	: 네
+P1 	: 결혼한지 얼마나 되셨어요?
+P0 	: 8년이요
+P1 	: 자녀 분도 있으신가요?
+P0 	: 네
+P1 	: 몇 명 있으세요?
+P0 	: 2명이요
+P1 	: 저희도 저랑 동생 2명이에요
+P1 	: 자녀 분들은 서로 몇 살 차이 나나요?
+P0 	: 7살이요
+P1 	: 나이차이가 꽤 많이 나네요
+P0 	: 네 그렇개 됬네오
+P1 	: 저희도 5살 차이나요

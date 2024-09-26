@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003314
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 보시는 책있으신가요?
+P1 	: 요즘은 공부중이라 읽는책이없어요ㅠ &name1&님은 읽고있는 책이 있나요?
+P0 	: 엄마 오늘도 사랑해란 책을 구매했는데
+P0 	: 아직읽어보지는 못했어요
+P1 	: 되게 마음따뜻해지게 해주는 책일거같아요^^ 저는 추리소설좋아해요ㅎㅎ
+P0 	: 네 엄마와 딸의 얘기를 그린거라고 하더라구요
+	  슬플것 갇애요
+	  추리소설은 어떤거 읽어보셨나요?
+P1 	: 히가시노게이노 추리소설 재밌더라구요ㅎㅎ 근데 일본이름이 읽을때 헷갈려요ㅋㅋ
+P0 	: 아~~ 저도 ㅋㅋㅋ
+	  해리포터도 처음에 볼땐 헷갈리더라구요ㅋ
+	  우리나라 소설은 안그런데ㅋㅋ
+P1 	: 이름외워지지않아서ㅋㅋ 쓰면서봤어요ㅋㅋ
+P0 	: 그쵸 저도 헷갈리니 앞으로 돌아가서 다시보고 다시보고ㅋㅋ
+P1 	: ㅋㅋ 저도그러는데 추리소설이니까 막 마지막에 반전에 놀라면서 봐요 ㅋㅋ
+P0 	: 영상이 아닌데도 책을 읽으면서 그럴수 있군요!
+P1 	: 네네 영화로도 만들어진 것도있는데 책이 더 재밌더라구요ㅎㅎ
+P0 	: 추리소설은 책으로 읽어보지 않았는데 이번기회에 한번 도전해봐야겠어요!

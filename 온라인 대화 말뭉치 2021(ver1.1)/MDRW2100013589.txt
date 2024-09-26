@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100013589
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임 좋아하시나요??
+P1 	: 아주 가끔해요
+P1 	: &name1&님은요?
+P0 	: 저는 게임은 요새 잘 안하는거같어요 ㅎㅎ
+P0 	: 어렸을땐 큐플레이란 게임 좋아햇어요
+P1 	: 모바일 게임인가요?
+P0 	: 아니요 컴터로 했는데 퀴즈도풀고 ox게임도 잇고..그런 게임이엇어요 ㅎㅎ
+P0 	: &name2&님이 가끔 하시는 게임은 이름이 뭔가요?
+P1 	: 저는 리듬게임이나 2048이요
+P0 	: 오 리듬을 좋아하시나봐요!
+P0 	: 저는 리듬 맞춰야하는건 잘 못하겠더라구요 ㅎㅎ
+P1 	: 네 뭔가 스트레스 받으면서도 계속하게 되더라고요ㅋㅋㅋ
+P0 	: 리듬게임이 정확히 먼지는 모르는데
+P0 	: 음악 맞춰서 누르는거 맞죠?ㅎㅎ
+P0 	: 2048은 처음 들어봐요
+P1 	: 2048 한 번 찾아보시면 아~~하실꺼예요 숫자를 모으는 게임이에요
+P0 	: 오 왠지 듣기에는 어려워보이는데요 ㅎㅎ 한번 검색해 볼게요
+P1 	: 게임 언제 주로 하시나요?
+P0 	: 저는 예전에 잠깐 잠깐 시간날때  폰으로 했었어요 3개 맞추면 터지는거 한 때 꽂혔던거같아요
+P0 	: 퇴근하고 나서는 저녁엔 게임 생각은 안나더라구요 ㅋㅋ
+P0 	: 아 2048 이거 알아요..이거 너무 어렵던데 멋지시네요!!
+P1 	: 시간날 때 짬짬이 하는 게임이 제일 재밌죠ㅋㅋㅋ
+P1 	: 2048은 보면 대부분 아는 게임이예요ㅋㅋㅋ

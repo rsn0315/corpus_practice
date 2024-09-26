@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 침대 테이블 살려고
+P0 	: 어디꺼 살라고?
+P1 	: 그냥 산껄로 책상 살려니 내년에 이사가면 공간 없을꺼 같아서
+P0 	: 어디로 이사가는데?
+P1 	: 책상 겸 공간활용하게
+P1 	: &address&으로 이사가지 싶다
+P0 	: 요새 그런 제품 많드라
+P0 	: 집  구했어?
+P1 	: 엉 다리에 바퀴달려서 움직이기도 편하고
+P0 	: 이사가면 사야 될 제품들이 많겠다
+P1 	: 아니 집은 아직 돈만 있으면 금방이지  지금집도 삼일만에 결정하고 이사했는데뭐
+P0 	: 우리도 이사가거나 리모델링 해야 되는데...  그래서 지금 물건을 못 사겠다
+P1 	: 가전제품 다 바꿀듯하다 언니가
+P0 	: 이사가면 가전제품 다 바꺼야  함
+P1 	: 공간때문에 뭐 사기도 힘들다 정말
+P0 	: 더 큰집으로 갈거 아니가?
+P1 	: 아니다 더 작은집으로 가서리 책상도 못사는거다
+P1 	: &address&의 오래된아파트 거기서 재건축을 노릴꺼란다
+P0 	: 아 그런거야?  그럼 물건 사기도 그렇겠다
+P1 	: 올겨울 가습기 사야할거같다

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016169
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 식사하셨나요
+P1 	: 이제 하려구용
+P1 	: 점심 뭐 드세요~~
+P0 	: 저 간단하게 라면 생각중이에요
+P0 	: 메뉴 정하셨나요?
+P1 	: 순대국 먹으려구요
+P0 	: 순대국 너무좋아요
+P0 	: 순대국 취향은 어떻게 되시나요
+P1 	: 저 고기만 먹어요 근데
+P1 	: ㅋㅋㅋㄱㅋ
+P0 	: 전 빨간걸 선호하지않아서 소금이랑 새우젓으로만 간을 하는 편이에요
+P0 	: 다대기 이런거 안넣으시나요
+P1 	: 전 빨간거 선호합니다!ㅋㅋ
+P0 	: 매콤한거 좋아하시는구나
+P0 	: 그럼 깍두기도 같이 넣어드시나요
+P1 	: 아뇨 그건.....ㅋㅋ
+P0 	: 아앗.. 그거까진 아니시군요

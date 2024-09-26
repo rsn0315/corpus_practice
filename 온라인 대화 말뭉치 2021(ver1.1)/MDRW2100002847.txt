@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002847
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 전시회 좋아하시나요?
+P1 	: 별로 경험이 없어요~
+P0 	: 공연은요?
+P1 	: 연극 본적있어요
+P0 	: 어떤 연극 보셨나요?
+P1 	: 대학로에서 하는거요
+P0 	: 저도 대학로에서 연극본적있는데..
+P0 	: 너무 재미없었던것만 기억나네요ㅠㅠ
+P0 	: 제목도 까먹었어요
+P1 	: 아 ㅋㅋ저도 제목이 생각이 안나요
+P1 	: 최근 본 영화는 모가디슈봤어요
+P0 	: 재밌던가요?? 모가디슈 후기 좋아보이던데
+P1 	: 꼭 보세요~ 저는 정말 잘 봤어요
+P0 	: ㅎ한번 봐야겠네요 ㅎㅎ 전 마지막으로 본 영화가 블랙위도우예요
+P0 	: 보셨어요?
+P1 	: 앗 ㅎ 못봤어요~ 블랙위도우 재밌어요?
+P0 	: 진짜 재밌어요 ㅋㅋㅋ 마블 보셨으면.. 꼭 보시길..ㅠㅠ
+P1 	: 오 감사합니다 꼭 보겠습니다

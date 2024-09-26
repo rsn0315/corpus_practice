@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027474
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교다녀요?
+P1 	: 아뇨! 전 졸업했어요 ㅎㅎ
+P0 	: 저도요
+P0 	: 학교생활 어땠어요
+P1 	: 교수님들 농노였어요...건강하지 않은 농노라 초입에서 탈락했지만요! &name1&은요?
+P0 	: 농노가 뭐에용?ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ중세시대 영주에게 예속된 농민을 뜻해요...쉽게 말하면 노예{emoji:…}ㅋㅋㅋㅋ
+P0 	: 아아 ... 농민 노예 군요
+P0 	: 교수님들이 잡다한 일 많이 시키셨느뷰네요
+P1 	: 네.,.,ㅋㅋㅋ 그리고 대학원...? 초입까지 갔었어서... 아무래도 그랬었어요 그래도 다양한 경험해서 좋았어요!
+P0 	: 아하 그러셨구나
+P0 	: 저도 대학원인데 특수대학원이라
+P0 	: 겨수님 농노는 안되도 되어서 관찮아요
+P1 	: 오 다행이에요 ㅎㅎ 그래도 대학원 자체가 힘들잖아요ㅜ 전 대학원 준비하다가 갑자기 건강때문에 진학이 쉽지 않아서 안했거든요 ㅋㅋㅋ 대학원도 요즘 비대면하나요?
+P0 	: 네네 거의 줌 수업 실시간이에요
+P0 	: 학교가 좀 멀어서 그건 좀 다행입니다
+P1 	: 학교 멀면 줌 수업이 좋죠!!! ㅎㅎ 부담 좀 덜어지셔서 다행이에요ㅜㅜ!! 전 교통비 아끼게 되어서 좋고 그러더라구요..
+P0 	: 아 맞아요 교통비도 좀 크네요

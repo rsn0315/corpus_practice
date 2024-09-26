@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002027
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘 저녁 맛있었다
+P1 	: 저녁에 뭐?
+P0 	: 찌게 말이야
+P1 	: 글쿤 ㅋ 내가 좀 맛있게 하지
+P0 	: 무얼 넣었는데?
+P1 	: 애호박 만땅에 양념을 비법양념으로 하면 이렇게 나온다
+P0 	: 배터질 정도로 먹었다
+P1 	: 굿굿 ㅎㅎ 내일도 먹자
+P0 	: 엄마도 먹었냐?
+P1 	: 아니 ㅠㅠ 엄마 안먹음
+P0 	: 왜 맛있는데...
+P1 	: 글게 ㅋ 안떙기나봄
+P0 	: 그렇게 맵지도 않고
+P1 	: 딱 아빠 맞춤이다
+P0 	: 아무튼 잘 었었다.
+P0 	: 아무튼 잘 먹었다
+P1 	: ㅎㅎ 잘먹으니 좋군욤
+P1 	: 내일 점심엔 뭐 먹을까

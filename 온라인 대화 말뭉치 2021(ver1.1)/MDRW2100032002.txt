@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100032002
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 안녕하세요!
+P1 	: 저는 치킨을 제일 좋아해요 ㅎㅎ
+P0 	: 어떤 치킨 조아하세요?
+P1 	: 다 좋아하는데
+P1 	: 양념보단 후라이드가 더 좋은 것 같아요
+P1 	: 밍정님은요?
+P0 	: 전 양념치킨이요 ㅋㅋ
+P0 	: 처갓집 먹어보고싶어요
+P1 	: 헉 저 처갓집 좋아해요!!
+P1 	: 우연히 먹어봤는데 진짜 맛있더라구요
+P0 	: 우와
+P0 	: 꼭시켜봐야겠어요
+P1 	: &name1&님은 좋아하는 음식 있으세요 ?
+P0 	: 저는 랍스터요!!
+P0 	: ㅎㅎ
+P1 	: 우와 랍스터!! 대박이네요
+P1 	: 비주얼이 진짜 미쳤죠..{emoji:♡}
+P0 	: ㅎㅎㅎ맞아요 미국가서 랍스터 잔뜩 먹구파요
+P1 	: 우와 미국까지요? 멋있어요 
+P0 	: ㅋㅋㅋ한국보다 저렴하고 흔하고 그래서요
+P1 	: 그렇긴 하죠 ㅎㅎ 저도 가끔 미국가서 비주얼 대박인 패스트푸드 먹어보고싶어요
+P1 	: 대부분 값도 싸니까요!!

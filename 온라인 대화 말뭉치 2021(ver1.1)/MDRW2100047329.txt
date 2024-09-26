@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047329
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주로 즐겨입는 패션은 무엇인가요?
+P0 	: 좋아하시는 패션이나 즐겨입는 패션 있으신가요?
+P1 	: 여름엔 주로 더위타서 원피스위주
+P1 	: 겨울엔 추위타서 레깅스에 롱치마ㅋ
+P0 	: 편리하네요ㅎㅎ
+P1 	: 예전엔 청바지입었는데 겨울엔 그게 더춥더라구요
+P0 	: 맞아요 기모청바지 아닌 이상 청바지만 입는건 오히려 더 춥더라구요
+P0 	: 근데 겨울엔 롱패딩을 자주 입어서 청바지 입어도 괜찮을것 같아요
+P1 	: 저도 거의 롱패딩이라   코트는추워서 못입겠더라구요
+P0 	: 맞아요ㅋㅋ코트는 가을이나 겨울 초에만 입을 수 있는 것같아요
+P1 	: &name1&님은 하시는 운동있으세요?
+P0 	: 저는 플랭크랑 산책을 주로 해요
+P0 	: &name2&님은요?
+P1 	: 전 요즘하는건없고 스피닝이랑 줌바해봤어요
+P0 	: 스피닝이 그 자전거 하는거 맞나요?
+P1 	: 네네 엄청 달리는거요ㅎ 신나는데 힘들어요
+P0 	: 유튜브에서 본 것같아요ㅎㅎ 제가 하면 탈진할 것같더라구요ㅋㅋ 대당하시네요

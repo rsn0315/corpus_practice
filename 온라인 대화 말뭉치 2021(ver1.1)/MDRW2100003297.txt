@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100003297
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 요즘 책보시는거 있으세요?
+P0 	: 책이랑 사실 친하지 않아서ㅋ
+P0 	: 커넥츠라고 아시나요?
+P1 	: 네~~ 거기서 책주문해요
+P0 	: 책 할인 많이하나요? 주로 어떤책사세요?
+P0 	: 베스트셀러가 요즘 뭔지도 모르겠네요
+P1 	: 전 주로 애들 문제집이요
+P1 	: 책은 도서관에서 빌려봐요
+P0 	: 추리소설이나 자기계발서는 좋아하는데 요즘은 읽은적이 없네요
+P1 	: 전 요즘 로맨스^^
+P1 	: 도서관가서 제목맘에드는거 빌려와요.
+P0 	: 재밌는 책있나요? 로맨스도 좋죠 ㅎ
+P1 	: ㅎ 딱히 재미있는걸 못찾았어요.
+P1 	: 중간정도보다 반납ㅡ
+P0 	: 전 책읽음 집중이 안돼요ㅎ
+P0 	: 다음장 넘기는순간 앞장내용 까먹는 스타일
+P1 	: ㅎㅎ 저도 요즘엔 그렇긴해요. 다시읽으면 앞장 다시한번보고^^
+P0 	: 폰이랑 티비만 보니 가끔은 난독증인가 싶기도해요
+P1 	: 예전엔 눈에 왠만큼 들어왔는데... 진짜 책자주안보고 폰많이하고해서 그런가봐요.
+P0 	: 그러게요 이제 시간내서 책도 좀읽고 지식좀 쌓아야겠어요
+P1 	: 가을은 독서의 계절이니^^  저도 완독을 목표로해야겠어요

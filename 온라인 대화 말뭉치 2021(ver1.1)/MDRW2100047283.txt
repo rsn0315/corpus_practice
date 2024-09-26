@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100047283
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 개강하면 대면수업인가요?
+P1 	: 아직까지 저희는 비대면이에요~
+P0 	: 학교생활을 못즐기겠어요
+P1 	: 맞아요.. 어쩔수없죠뭐 ㅜ
+P0 	: 엠티이런것도 못가겠네요?
+P1 	: 네~ 근데오히려좋아요! 전 그런거 안좋아하거든요 ㅎㅎ
+P0 	: 아하ㅋㅋ 그래도 학교가서 친구들이랑 수다떠는 재미도있는데
+P1 	: 고닥교친구들끼리 집이 가까워서 생각날때마다 얼굴보고있어서 딱히 아쉽진않아요 ㅎㄹ
+P0 	: 시험도 비대면으로 봐요?
+P1 	: 네~
+P0 	: 대학다닐땐 시험스트레스 넘 심했는데
+P0 	: 생각만해도 넘싫으네요ㅎㅎ
+P1 	: 맞아요.. 과제스트레스ㅠㅠ
+P0 	: 과제도 그럴듯ㅎ 특히 팀과제

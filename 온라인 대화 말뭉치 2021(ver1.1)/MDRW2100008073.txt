@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008073
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑은 주로 어디에서하세요?
+P1 	: 전 홈쇼핑같은데서 적립금 조금씩 모아서 자주해요
+P0 	: 저는 인터넷 쇼핑몰만 사용해요
+P0 	: 사는게 많은 편은 아닌지라
+P1 	: ㅎ 이벤트적림금주고 할인쿠폰주고. 택배가 끊기지않고와요
+P0 	: 저도 쇼핑 많이 해보고 싶어요
+P0 	: 아직 학생이라 제약이 많네요
+P1 	: 학생이세요? 울딸램은 알바해서 사고싶은거 사더라구요.
+P1 	: 제가볼땐 쓰잘떼기없는것만사서...
+P0 	: 한번은 그런 소비도 해봐야 나중에 정신차리는거 같아요
+P0 	: 저도 한때는 여러가지 모았는데 지금은 돈 아깝다고 안사요
+P1 	: ㅎ 자기가 벌어서 사는거니 냅두고있어요. 적당한선에서 하라고 말은하지만요~
+P0 	: 알바까지 하면서 사는거 보면 열정이 대단하신가봐요
+P1 	: ㅎ 키티가 좋다고 이것저것 사더라구요. 라이브로 방송하면서 대행해주는데 거기서 사더라구요
+P0 	: 키티 좋아하시는구나 귀엽네요
+P0 	: 대행 서비스까지 찾아내는 정성이면 말 다했죠
+P1 	: ㅎ 이것도 한때니...
+P0 	: 그럴 때 즐기시라고 놔두시는게 좋을거 같아요
+P0 	: 혹시 모르죠 스트레스 푸는 방법일지도

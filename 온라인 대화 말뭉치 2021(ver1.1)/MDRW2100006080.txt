@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100006080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리 하시나요?
+P0 	: 가끔해요
+P0 	: 식재료 처리하려고
+P0 	: 얼마전에 집에 감자가 많아서 감자수프했고
+P0 	: 최근에는 두부가 유통기한 지나서
+P0 	: 두부강정 만들엇어요
+P0 	: &name2&님 요리 자주 하세요?
+P1 	: 간단간단한것만 자주 해요 ㅋㅋㅋㅋㅋ
+P1 	: 와 두부강정
+P1 	: 요리잘하시나봐요
+P0 	: 아뇨 안그래요
+P0 	: 유튜브보고 따라했어요
+P1 	: 그대로 따라하는것도 어려운걸요 ㅋㅋㅋㅋㅋ
+P0 	: 그런가요ㅎㅎ
+P0 	: 간단한 요리는 어떤거에요?
+P0 	: 라면? 계란후라이?
+P1 	: 김치볶음밥이나 어묵볶음 같은정도요 ㅋㅋㅋㅋ
+P0 	: 그정도면 훌륭하죠
+P0 	: 맛이 어댔어요?
+P1 	: 조미료의 힘으로 맛은 나쁘지 않앗어욬ㅋㅋㅋㅋ
+P0 	: 조미료를 지배하는 사람이 요리를 지배하죠
+P0 	: 그리고 조미료랑 건강이랑 관련이 없대요
+P0 	: 많이 써도 돼요
+P1 	: 조미료를 쓰지 않고 맛을 낼 정도의 실력이 없어요 ㅋㅋㅋㅋ
+P0 	: 기술의 힘을 이용하는건 나쁜게 아니라 생각해요
+P1 	: ㅋㅋㅋㅋㅋ맞아요 제겐 구세주입니다

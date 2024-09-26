@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020250
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕 나도 배고파
+P0 	: 마라탕 먹고 싶다
+P1 	: 마라탕좋아해?
+P0 	: 엄청 좋아해 매콤해서 좋아
+P1 	: 나도 매운 거 좋아해서 좋아해
+P0 	: 어떤 재료 넣는 거를 좋아하니
+P1 	: 스팸 은 필수야
+P0 	: 버섯도 맛있어
+P1 	: 넙적 장면도 꼭 들어가야 해
+P1 	: 당면
+P0 	: 청경채 도 꼭 넣어야 해
+P1 	: 땅콩소스 찍어 먹는 게 맛있지
+P0 	: 나는 마라 샨 거보다는 마라탕이 좋아
+P1 	: 나는 마라샹궈는 아직 안 먹어 봤소
+P0 	: 마라탕은 정말 일주일에 한 번도 만나 먹을 수 있어
+P0 	: 하이

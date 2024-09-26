@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 밥은 주로 어떻게 먹어?
+P0 	: 집에서 부모님이랑 먹는다
+P0 	: 맥도날드가 좋아 버거킹이 좋아
+P1 	: 네 취향대로 해줘??
+P1 	: 난 롯데리아 좋아하는데ㅋㅋㅋ
+P0 	: 네 맘대로 말해
+P1 	: 왜 그건 후보에 안 넣어줘
+P0 	: 그럼 롯데리아 좋다고 하면 되지
+P1 	: 롯데리아 좋아
+P0 	: 롯데리아 햄버거 중에서 뭐가 좋은데
+P1 	: 롯데리아는 리아미라클버거가 맛있어.
+P0 	: 그래 믿어본다 먹어
+P1 	: 롯데리아는 감자튀김이 소중하지
+P0 	: 그래 롯데리아 감자튀김 맛있다

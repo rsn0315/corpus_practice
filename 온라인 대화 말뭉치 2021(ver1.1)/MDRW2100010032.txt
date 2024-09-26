@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 벌써 점심 시간이네요 점심 드셨나요?
+P1 	: 점심 이제 먹으려고요
+P1 	: 고요님은 드셨나요?
+P0 	: 아뇨. 점심 메뉴는 뭔가요?
+P1 	: 비비고 곰탕 끓여먹었어요
+P0 	: 오 곰탕 맛있겠네요!
+P1 	: 점심이라서 소면은 안 먹었는데 조금 아쉽네요
+P0 	: 곰탕엔 소면인데 아깝군요!
+P0 	: 전 라면 투움바를 먹을 예정이에요
+P0 	: 안녕하세요! ㅋㄴ 님은 오늘 저녁 뭐 드셨나요?!
+P1 	: 저 콩국수 먹었어요
+P0 	: 오 콩국수 맛있죠 지금 먹기 딱 좋네요! 전 오늘 사과랑 옥수수를 먹었어요 ㅡㅋㅋ
+P1 	: 사과랑 옥수수만요??
+P0 	: 배고파서 그 담에 마들렌도 먹긴 했지만 저녁으로는 그 둘만 먹었어요ㅋㅋㅋ
+P1 	: ㅋㅋ 역시 과일이랑 야채만으로는 안돼요
+P0 	: 맞아요ㅋㅋㅋㅋ 그래서 내일 아침은 든든하게 오징어볶음 먹으려구요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100031599
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>국민 지원금 스타벅스/이케아 제외
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 국민지원금 받으시나요?
+P0 	: 요즘 카드사마다 문자오던데
+P1 	: 아마 받겠죠?ㅋㅋ 6일부터 확인 가능하다고 하더라구요
+P0 	: 네 6일부터 가능하다고ㅎㅎ
+P0 	: 지원금 어디에 쓸 지 생각해보셨어요?
+P1 	: 이것저것 동네마트에서 장보고 병원 다니고 하다보면 금방 쓸 것 같아요 ㅋㅋ
+P0 	: 아 그러시구나
+P1 	: &name1&님은요?
+P0 	: 큰 마트는 못쓴다고 들었는데
+P0 	: 쓸 수 있으려나요?
+P1 	: 이마트같은 대형마트는 안 돼서 지난번에도 동네마트 이용했었어요
+P1 	: 평소에도 자주 가는 곳이지만요ㅎㅎ
+P0 	: 그쵸 대형마트는 안된다고
+P0 	: 지역화폐 쓸 수 있는 곳만 된다고 봐야하나봐요
+P0 	: 저는 일단 부모님과 살아서
+P1 	: 일단 목적이 소상공인 돕는 거니까요
+P0 	: 받을 수 있나부터 확인해봐야해요ㅜ
+P0 	: 받게 되면 저도 아마 동네마트랑
+P1 	: 저도 가족들이랑 살아서 확인 해보긴 해야해요
+P0 	: 운동 수강권 끊는 데 쓰지 않을까 싶어요
+P1 	: 헬스장이요? 저도 솔깃하네요ㅎㅎ 요즘 가도 괜찮을지 모르겠어서 망설이고는 있는데...
+P0 	: 국민지원금 받으면 좋겠네요!!

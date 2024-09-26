@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100026577
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 관심있는 동호회가 있나요
+P1 	: 단체로 하는 봉사동호회에 관심이 많아요
+P0 	: 저는 급식봉사를  하고있어요 이쪽은 흥미가있나요
+P1 	: 네 흥미가있지만 봉사활동하시느라 고생이많으시겠습니다
+P0 	: 아니에요 다보람을 가지고하는일인걸요
+P1 	: 봉사말고 동호회는하시나요?
+P0 	: 네 축구동호회를합니다
+P1 	: 운동이네요 저도 걷기모임은 하고있습니다
+P0 	: 걷기라니좋네요 모임분들가 다함께 걷나요?
+P1 	: 네 공원한바퀴다같이걸으면 정말 좋습니다
+P0 	: 운동은 역시좋네요
+P1 	: 축구도 고생하시겠어요 아침모임인가요?
+P0 	: 네 아침에 하는모임이라 일어나기힘들어도 뿌듯합니다

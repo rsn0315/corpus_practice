@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100028623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 그러니까요
+P1 	: 학교 생활 기억나는거 있으세여?
+P1 	: 전 맨날 야작했던 기억밖에 안나요 하리보 뜯어먹었던 기억
+P1 	: 턱 끊어지는줄 알았어요
+P0 	: ㅋㅋㅋㅋㄱㅋ야작,,,!
+P0 	: 미대다니셨나요?!!
+P1 	: 저 시각디자인 전공했어요 혹시 &name1&님도???
+P0 	: 아뇨,, 저는 행정.경영,,!
+P0 	: 친구가 미대여서ㅋㄱㅋㅋㄱㅋ
+P1 	: 아 그러시구나!!
+P1 	: 네 맨날 새벽에 하리보 뜯어먹어서 진짜 턱나갈뻔 했어요
+P1 	: 카톡으로 서로 깨워주고 ㅋㅋㅋㅋ
+P0 	: 맨날 밤새더라고요ㅠ
+P1 	: 네 그랬었죠
+P1 	: &name1&님은 어려우셨겠어요 경영은 진짜...
+P0 	: ㅋㅋㅋㄱㄱ그래서 학점이 나빠요ㅎ,,,
+P1 	: 저는 뭔말 써있는지도 모르겠던데요
+P0 	: 저도모르겠더라고요,,,ㅋㄱㅋㅋㅋㄱㅋ
+P0 	: 억장 와르르
+P1 	: 졸업한것만으로도 대단하십니다 ㅎㅎㄹ
+P0 	: ㅋㅋㅋㅋㄱ근데 다시재입학하고싶어요
+P1 	: 진짜요???
+P1 	: 전 돌아가기 싫어요 ㅎㅎㅎ
+P0 	: 재입학하면 더놀거에요
+P1 	: ㅋㅋㅋㅋ 지금 놀면 되잖아요
+P1 	: 사실은 돌아가서 놀아도 놀 자신이 없어요
+P0 	: 지금은,,돈을벌어야죠,,,!

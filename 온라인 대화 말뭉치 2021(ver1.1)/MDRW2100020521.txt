@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 잡채좋아하는데 명절에는 못먹습니다 ㅠ
+P0 	: 헉 왜죠
+P1 	: 저희 지역 명절 메뉴가 아니랍니다
+P0 	: 아앗
+P1 	: &name1&님네는 잡채도 하시나봐요
+P0 	: 그럼 뭐 주로 드시나요
+P0 	: 네 저희는 다 해먹어요
+P1 	: 너비아니 동그랑땡 산적..?
+P0 	: 산적 동태전 잡채 동그랑땡..각종 생선.. 뭇귀
+P0 	: 뭇국
+P0 	: 너비아니 맛있어요 동그랑땡도
+P1 	: 저희는 탕국이라고 부르는데
+P0 	: 탕국?
+P0 	: 그게 뭐죠
+P1 	: 무랑 소고기를 넣고 끓이는 맑은 국입니다
+P1 	: 탕국도 지역마다 다르더라구요
+P0 	: 너무 맛있겠다
+P1 	: 그쪽 뭇국은 어떤가요
+P0 	: &name2&님 지역이랑 비슷한거같아요
+P0 	: 맑게 끓여요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019129
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 자는 주로 피자 자주시켜먹어요!
+P0 	: 저는 떡볶이요!
+P1 	: 아하! 어떤떡볶이좋아하세요?
+P0 	: 청년다방 떡볶이 좋아해요
+P1 	: 오 저도좋아해요~
+P1 	: 종류는요?일반 로제 아님 짜장?
+P0 	: 일반 빨간 떡볶이요ㅋㅋ
+P1 	: 아! 역시 근본!!
+P1 	: 전 시장떡볶이는 빨간게좋구 배달은 로제가좋더라구요!
+P0 	: 로제맛있는데 추천해주세요
+P1 	: 음 저는 신전 엽떡 응떡 말하고보니 유명프랜차이즈 다좋아하는거같은데 그냥 각기 다른매력이있어서 다 좋아해옆ㅋㅋㅋ
+P0 	: ㅋㅋ 다 한번씩 먹어봐야겠어요
+P1 	: 네ㅋㅋㅋㅋㅋ 한번씩은 다 먹어볼만해요~
+P0 	: 먹어보겠습니다!
+P1 	: 좋슴돠~~~

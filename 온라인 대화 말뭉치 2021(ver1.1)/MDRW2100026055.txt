@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 상그라 맛있더라
+P0 	: 상그라가 뭐야
+P1 	: ㅋ 중식집 이름
+	  코스먹었는데 맛있었어
+P0 	: 유래등보다 맛있었어?
+P1 	: 거기보다 가격은 비싼데 먓있는듯
+P0 	: 비싼값을 하는군 음식이 몇개 나와?
+P1 	: 한 열개정도
+	  근데 짬뽕에 마약넣었나 왜그리 맛나 했다는데 그정돈아님
+P0 	: ㅋㅋㅋ 게살수프도 있어?
+P1 	: 그코슨엔 없구 런치코스에 있대
+P0 	: 그럼 디너엔 무슨 수프나오는데?
+P1 	: 스픈 기억이 앉나네 단호박스프였나 ㅠ
+P0 	: 뭐야 중국집에서 왜 뜬금없이 단호박스프?
+P1 	: ㅋ 그치  담에가서 봐야겠다
+	  칠리새우가 탱글탱글 맛났어

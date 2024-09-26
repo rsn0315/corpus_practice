@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020484
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이렇게 맛을 잘아는 분을 뵙게되어 영광입니다
+P1 	: &name1&님도 뭘 좀 아시네여
+P0 	: 그럼 맥날에서 사이드는 뭐 드시나요
+P1 	: 맥날은.... 기본감자에 그 치킨랩을 추가로 시켜서 먹어요
+P1 	: 배송비 채우기
+P0 	: 소오름
+P0 	: 치킨랩을 아시다니
+P0 	: 저 상하이랑 치킨랩먹으러 맥날가잖아요
+P1 	: 아니 &name1&님도 치킨을 좋아하시는 분이군요
+P0 	: 그 또띠아에 감싸진 치킨패티 너무 매력적
+P0 	: 치킨패티가 가장 맛있더라구요
+P1 	: 맞아요 그리고 뭔가 건강한 느낌이 나죠... 드물게
+P0 	: 채소가 많이 들어있어서 그런가봐요
+P1 	: 저도 치킨패티만 먹어요ㅋㅋㅋ
+P0 	: 양상추 한가득 들어있는게 좋아요
+P1 	: 맞어요 만들어먹으면 그맛이 안나더라구요
+P1 	: 그럼 맘스터치도 좋아하시겠군뇨
+P0 	: 아까 저번에 다른버거 드셨다 했는데 그건 뭐였나요
+P0 	: 궁금해요
+P1 	: 상하이 아니면 빅맥이죠

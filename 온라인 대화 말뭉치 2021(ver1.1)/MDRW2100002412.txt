@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 아침 내내 집안일 했더니 지친다
+P1 	: 일 많이 했어?
+P0 	: 웅 날씨 좋아서 빨래하고 청소기 돌리고 설거지 하고 ㅠㅠ
+P1 	: 아궁 쉬엄쉬엄해 너무 많아 ㅠ
+P0 	: 하나하나 손대다 보니 안할 수가 없네
+P1 	: 그냥 둬~ 내가 집에 가서 할게
+P0 	: 신랑은 일하느라 힘든데 내가 해야지
+P1 	: 그런 게 어딨어~ 조금이라도 힘센 내가 해야지
+P0 	: ㅎㅎ 나보다는 훨씬 힘이 세지
+P0 	: 그래도 내가 할께
+P1 	: 쉬엄쉬엄 해
+P1 	: 집안일 하다가 병날라
+P0 	: 걱정마요 ㅎㅎ
+P1 	: 내가 반찬이랑 몇 가지는 해줄게
+P1 	: 집에 가면
+P0 	: ㅎㅎ 말이라도 고마워

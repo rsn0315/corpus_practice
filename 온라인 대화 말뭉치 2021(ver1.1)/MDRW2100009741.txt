@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100009741
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동 하고 계신거 있나요?
+P1 	: 저는 홈트하다가 포기했어요
+P0 	: 저는 매일 퇴근하고
+P0 	: g x 하고있어요
+P1 	: GX면 같이 하는 운동 맞죠?
+P0 	: 넵
+P1 	: 저는 사람 모이는게 무서워서 시도도 못해봤어요ㅠ
+P0 	: 아무래도 운동은 강제성이 있어야 꾸준히 하는것같아서
+P0 	: 아무래도 코로나때문에
+P0 	: 걱정되지만
+P0 	: 또 코로나때문에 사람이 별로없어요
+P0 	: 운동도하고 최근에 식단조절도 시작했어요
+P0 	: 다이어트좀 해보려고
+P0 	: 홈트는 뭐하셨어요?
+P1 	: 식단 조절까지 하면서 운동하시면 힘들텐데 의지가 대단하시네요
+P1 	: 유튜브 보면서 따라했었어요
+P0 	: 그렇구나
+P0 	: 다이어트는 운동보다 식단이 더 힘들대요
+P1 	: 운동은 선택일 수 있지만 식단은 인생의 낙을 제한하는 거라...
+P0 	: 맞아요 식욕은 도저히 참기 어려워요
+P0 	: 그래도 건강을 위해서 시도해야지
+P0 	: 디자인 공부하시면 패션에도 관심 많으시겧어요
+P1 	: 패션 관련한 디자인은 아닌지라 가끔 패션쇼 보는게 고작이에요ㅎㅎ
+P0 	: 그렇구나
+P0 	: 옷 코디할때 어떤 스타일이세요?
+P0 	: 단정 깔끔? 개성? 화려함?
+P1 	: 저는 차려입을 때는 깔끔한거 선호하고
+P1 	: 평상시에는 그냥 츄리닝 입고 다녀요ㅋㅋ
+P0 	: ㅋㅋㅋ 저도 집주변 다닐때는 츄리닝에 슬리퍼
+P0 	: 회사갈때는 근무복

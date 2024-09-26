@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100032745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 싫어하시는 음식있나요?
+P1 	: 저는 굴을 싫어해요
+P0 	: 헉 저도 굴은 안먹게 되도라고요 식감이 구려서 그런가?!
+P1 	: 네 저도요 안먹게 되더라고요
+P0 	: 굴의 특유의 식감이 진짜 별로죠ㅠ
+P1 	: 네 &name1&님은요
+P0 	: 저는 버섯처럼 말캉거리는 음식을 전부싫어해요ㅜ
+P1 	: 버섯 맛읶지않나요
+P0 	: 아뇨ㅠ 말캉거려서 별로더라고요!ㅜㅜ
+P1 	: 그럼 가지도ㅠ싫어하시나요
+P0 	: 네! 가지도 잘 안먹게 돼요ㅠ
+P1 	: 식감을 싫어하나보네요
+P0 	: 네 맞아요ㅠ!!!! 진짜 식감이 싫어요!ㅜㅜ

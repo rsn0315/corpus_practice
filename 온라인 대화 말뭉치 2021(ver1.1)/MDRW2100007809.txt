@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100007809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 나도 ㅎㅎ
+P0 	: 점심엔 뭐먹지?
+P1 	: 냉동실에 닭갈비 있던데 그거 먹을까?
+P0 	: 좋지 ㅎㅎ
+P1 	: 깻잎도 같이 볶으면 되겠다
+P0 	: 고구마도 있어
+P1 	: 오 딱이네
+P0 	: 우동사리도 넣을까?
+P1 	: 좋~지. 완전 맛있겠다 ㅎㅎ
+P0 	: 구구닭갈비 진짜 맛있는 것 같아
+P1 	: ㅇㅇ 질기지 않고 부드럽지
+P0 	: 양념도 따로 보내주니 편하고
+P1 	: 가격도 적당해서 할인할 때 사면 너무 좋은 듯
+P0 	: 오늘 저녁메뉴도 미리 정해놔야겠다.

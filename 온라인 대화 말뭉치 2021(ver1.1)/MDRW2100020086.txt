@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020086
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이신가요?
+P1 	: 아니요 졸업한지 오래되었어요
+P0 	: 그러시구나 저도 오래되었네요
+P0 	: 동아리활동 학교다닐때 하셨나요?
+P1 	: 학교에 정이 안들어서 끝나고 늘 집에 갔어요...하하
+P1 	: 그래도 고등학교2학년때 선생님 정말 좋은 분이셨어요
+P0 	: 어떤분이셨어요?
+P1 	: 성적으로 아이들을 압박하지않았어요
+P1 	: 친절하고 다정했지요
+P0 	: 참스승이시네요
+P0 	: 어떤과목 당담이셨나요?
+P1 	: 국어였어요
+P0 	: 그러셨구나 1,3학년땐 성적으로 아이들을 압박하는 분이 계셨나요?
+P1 	: 1학년때 선생님이 젊어서 그런지 좀 심했어요
+P1 	: 그분도 국어였네요
+P0 	: 같은 국어담당이신데...에궁
+P0 	: 어떻게 압박하셨나요?
+P0 	: 성적으로 차별했나요?
+P1 	: 그러게요 요즘 아이들 수도 줄어드니까 학업과잉경쟁도 줄어들길 바랄뿐입니다
+P1 	: 아니요 손바닥 때렸어요 그때는 체벌이 가능했으니까
+P0 	: 아...너무 하셨다 정말... 그런식으로는 학업에 도움도 안되는데...

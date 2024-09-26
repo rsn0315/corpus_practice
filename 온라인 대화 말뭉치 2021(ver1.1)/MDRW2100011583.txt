@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011583
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요리 자주 하시나요
+P1 	: 가끔해요 요리잘하세요?
+P0 	: 잘은 모르겠고 매일해요
+P1 	: 자취하시는거에요? 결혼하셔서 매일하시는거에요?
+P0 	: 결혼은 안했고 주로 제가 요리를 해요
+P1 	: 네 그러시군요
+P0 	: 주로 어떤요리하세요?
+P1 	: 손안가는거요 라면이랑요 냉동볶음밥에 치즈 올리고 전자렌지돌리는거요 ㅋㅋ
+P0 	: 요즘 밀키트도 잘나오더라고요
+P1 	: 아 그죠 밀키트좋은거같아요
+P0 	: 손질되어있어서 편해요
+P1 	: 네 재료비도 싸게들고요
+P1 	: 버섯 대파 양파 감자 이런거 다 사면 비싸잖아요
+P1 	: 한두개쓰는데 여러개 파니까..
+P0 	: 맞아요 돈아낄수있죠

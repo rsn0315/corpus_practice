@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012545
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교
+P1 	: 이제 개강하죠
+P1 	: ㅠ
+P0 	: 학생이세요?
+P1 	: 내
+P1 	: 네
+P1 	: 이제 학교로 돌아가야합니다
+P1 	: 시간이 빠르네요
+P0 	: 학교 생활 화이팅입니다
+P0 	: 화상 수업하나요?
+P1 	: 네 이론사업은 화상인데
+P1 	: 실습수업은 직접 가야할 수도 잇어서
+P1 	: 걱정이에요
+P0 	: 코로나 때문에 불안하시겠어요
+P1 	: 네 아무래도 수업 다니다보면 만나는 사람도 많고
+P1 	: 오고가는 대중교통도 많이 이용해서 불안합니다
+P1 	: 왠만하면 학교 근처에서 밥도 안먹으려고 노렫하는데
+P0 	: 스트레스가 엄청나시겠어요
+P1 	: 그게 쉽지않네요
+P0 	: 학업은 잘되어가시나요?

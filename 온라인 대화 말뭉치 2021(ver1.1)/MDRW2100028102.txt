@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100028102
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 애인있어요
+P0 	: ?
+P1 	: 아뇨
+P0 	: 전 있어요
+P1 	: 결혼하셨어요?
+P0 	: 아뇨ㅎ
+P1 	: 하실건가요
+P0 	: 아마두요
+P1 	: 왜요
+P0 	: 사람일이란 모르는거니까요
+P1 	: 그건그렇죠
+P0 	: 비혼이세요?
+P1 	: 거의요
+P0 	: 혼자가 좋죠
+P1 	: 맞아요

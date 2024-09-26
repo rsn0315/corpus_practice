@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100007738
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 자주보는 시청 프로그랭 이 있나요
+P1 	: 갓앰마이크스타
+P0 	: 어디서 하는 프로인지 잘모르겠네요
+P1 	: cbs
+P0 	: 아 어떤 컨셉에 내용 인가요 ?
+P1 	: 디스혈전
+P0 	: 네 그렀군요
+P1 	: 그랭
+P0 	: 재미는 있나요 ?
+P1 	: 넹
+P0 	: 한번에 몇시간 소요 되나요
+P1 	: 넹 1시간
+P0 	: 오래걸리진 않네요
+P1 	: 마자요

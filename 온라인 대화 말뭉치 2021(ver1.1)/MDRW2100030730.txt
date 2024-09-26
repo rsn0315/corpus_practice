@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 시간이네요
+P0 	: 무슨 메뉴 드실건가요?
+P1 	: 유부초밥 재료 사놓은게 있어서 유부초밥 만들어 먹으려구요
+P0 	: 유부초밥 맛나죠 ㅎㅎ 전 목살구이 먹으려구요
+P0 	: 맛있게 점심 드세요 전 먹으러 갑니다
+P1 	: 네 맛있게 드세요~^^
+P0 	: 점심 먹고 왔어요
+P1 	: ㅎ저는 저녁까지 먹고 왔네요
+P0 	: 저녁 뭐 드셨나요? 전 분식이요
+P1 	: 전 된장찌개요
+P0 	: 된장찌개 맛있죠 ㅎㅎ 전 많이 먹었더니 살짝 질리더라구요
+P1 	: 전 된장찌개는 별로 안질리는거 같아요~
+	  먹고 나면 속이 편안해지는거 같아서 좋아해요
+P0 	: 된장이 소화 잘 된다고 하더라구요 아 청국장도요 청국장 먹고 싶네요
+P1 	: 요즘은 청국장도 냄새 안나긴 하던데 그래도 전 된장파임다~ㅎ
+P0 	: 청국장이 냄새가 좀 꾸리꾸리하긴 하죠 ㅋㅋ 요샌 달라졌어도요
+P1 	: 청국장 가루로도 팔더라구요~
+	  그건 냄새 안난다고 하던데 아직 안사봤어요

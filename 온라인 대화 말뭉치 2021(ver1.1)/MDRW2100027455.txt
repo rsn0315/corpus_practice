@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100027455
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 또 뭐 읽으시는거 있으세요?
+P0 	: 저 최근에 천개의 파랑이라는 한국 소설 읽었어요!
+P1 	: 오오 천선란님!
+P1 	: 저도 사놓고는 안읽어봤네요 ㅋㅋㅋ
+P0 	: 저는 재밌었어요!! 추천추천
+P1 	: 오 사놓은거 읽어볼게요!!
+P0 	: 책 좋아하시면 보통 어떤 거 보세요?
+P1 	: 추천 감사합니다{emoji:❤}
+P1 	: 저는 진짜 잡식으로 읽어요
+P1 	: 챌린지하며 읽는건 시공디스커버리 총서예요
+P0 	: 오 시공서쪽은 잘 모르긴 하는데 추천해주세요!
+P0 	: 저도 좀 잡식이에요 ㅋㅋ
+P1 	: 시공서는 약간 복불복이에요 ㅋㅋㅋ
+P1 	: 신화나 종교 혹은 위인전 이런건 그 분야 덕후박사가 열심히 써서 재밌는데
+P1 	: 건물 이런 주제는 건물도 보여주고 각도가 몇이고 이래버려요
+P0 	: 아 비문학 좋아하시는거에요 그럼?ㅋㅋ
+P1 	: 소설도 좋아해요 사실 소설 전공이거든요!ㅋㅋ
+P1 	: 근데 약간 이게 전공이니까 미묘해요 전공서 읽는 느낌이라 ㅋㅋㅋ 즐기면서 읽는건 비문학이에요
+P0 	: 아하 그마음 좀 이해돼요 ㅋㅋㅋ
+P0 	: 뭔가 분석해야할거같은..
+P0 	: 지금 읽는 책은 뭔가요?
+P1 	: 요즘 매일 읽는 건 하루 쓰기 공부요+
+P1 	: 힐링책 재질이에요 ㅋㅋㅋ

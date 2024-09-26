@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물을 키워본적 있나요?
+P0 	: 중학생에서 대딩때까지 한마리키원어요
+P1 	: 이름은 무엇인가요?
+P0 	: &name3&에요
+P1 	: 예쁘네요 암컷인가요?
+P0 	: 네. 이뻤죠
+P1 	: 견종도 있나요?
+P0 	: 요키요. 15살까지 살았어요
+P1 	: 오래 살았군요 보낼때 많이 슬펐겠어요
+P0 	: 네 힘들더라구요
+P1 	: 저도 햄스터키웠는데 수명이 길지않았어요
+P0 	: 보내고나면 슬퍼요
+P1 	: 그래서 저도 이후로 키우고 싶지만 참아요
+P1 	: 요즘엔 반려동물 시장이 너무 커졌지요

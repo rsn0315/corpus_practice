@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 건강 어떻게 챙기세요?
+P1 	: 채식위주로 식사해요
+P0 	: 저도요! 채식하는데 너무 만족스러워요
+P1 	: 영양제는 드세요?
+P0 	: 비타민b6랑 비타민c 비타민d 열심히 먹고있어요
+P1 	: 저는 종합비타민, 마그네슘 먹어요
+P0 	: 저는 마그네슘 너무 졸려서 못먹겠더라고요
+P1 	: 운동은 하시나요?
+P0 	: 해야하는데 못하고 있어요
+P1 	: 저는 못할때 자기전 스트레칭 해요
+P0 	: 저도 스트레칭 해봐야겠어요
+P0 	: 크게 아파보신적 있으세요?
+P1 	: 아니요
+P0 	: 저는 독감 걸려봤는데 죽을 맛이었어요
+P1 	: 백신 맞으셨나요?
+P0 	: 모더나 맞았어요!
+P1 	: 저는  화이자요

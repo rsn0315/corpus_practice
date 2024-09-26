@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100024342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 쇼핑 좋아하시나요 ㅎ
+P1 	: 안녕하세요
+	  자주 하지는 않지만 좋아해요
+P0 	: 인터넷쇼핑이나 중고거래 자주하시나요
+P0 	: 저는 얼마전에 처음으로 직구해봤는데 신기하네요
+P1 	: 인터넷쇼핑은 하고 중고거래는 자주 하지 않아요
+P1 	: 어떤 제품을 직구로 구매하셨나요?
+P0 	: 갤럭시탭 직구 대란 났던거 아시나요?
+P0 	: 자꾸 주문 취소된다는 후기가 많던데 이번에 유튜버가 알려준 방법대로 해서 성공했어요!
+P1 	: 아니요 잘 몰랐어요 
+	  성공했다니 축하드려요ㅎㅎ
+P0 	: &name3&님은 요즘 인터넷에서 산 물건들이 있으신가요?
+P1 	: 네? 전 &name3&가 아닌데...?
+P0 	: 아 제가 착각했네요
+P1 	: 최근에는 물건 구입한게 딱히 없어요
+P0 	: 아 그러시군요..
+P0 	: 저는 요즘
+P0 	: 사고싶은건 많은데 돈이없어서 힘드네요ㅠㅠ
+P1 	: 그쵸..그건 저도 항상 그렇네요
+P0 	: 그래도 쿠팡같은거 잘 살펴보면
+P0 	: 할인도 많이 뜨는거같아요
+P1 	: 할인소식들보면 필요한 물건 아니어도 사고 싶어지더라구요
+P0 	: 그니까요.. 그러다가 통장잔고 거덜나는거 순식간이네요
+P1 	: 맞아요ㅜㅜ

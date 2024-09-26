@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100039035
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 백신 접종 하셨나요?
+P0 	: 네!  저저번주?에 맞은것같아요
+P0 	: &name2&님은 맞으셨나요?!
+P1 	: 저는 오늘 접종 예정이에요!
+P0 	: 세상에!!
+P0 	: 타이레놀 구비해놓으셨나요
+P1 	: 네 타이레놀은 구비해있어요
+P0 	: 저는 근육통이 며칠있었어요
+P1 	: ㅠㅠ 제 주변에도 다들 근육통 있었다고 하더라구요... 그래서 걱정이에요
+P0 	: 제친구는 복통도 엄청심했어요
+P0 	: 근데 저는 근육통만있어서
+P0 	: 그리고 다른친구는 근육통 타이레놀먹으니까 금방내려갔대요
+P1 	: 복통도 심했다니ㅠㅠ
+P1 	: 걱정이 많이 되네요 ㅜㅜ
+P0 	: 아녜요!  맘편히맞으시는게 제일좋은거같아요
+P1 	: 네! 마음을 편하게! 생각하고 가야겠어요
+P0 	: 화이자맞으시는건가요?!
+P1 	: 네 화이자 접종이에요
+P0 	: 건강히 잘맞으실거에요!

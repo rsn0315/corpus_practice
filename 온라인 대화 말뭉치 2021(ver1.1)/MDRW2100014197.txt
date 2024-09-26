@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014197
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 넷플릭스 구독해?
+P0 	: 응 넷플릭스 랑 왓챠 구독중이야
+P1 	: 넷플릭스는 오리지널 컨텐츠가좋다던데
+P0 	: 왓챠 도 단독 콘텐츠 많아서 괜잖아
+P1 	: 추천해줄수있어?
+P0 	: 요즘 나는 와이 우먼 킬 시즌2를 보고있어
+P1 	: 아 그거 들어봤어  시즌1도본거야?
+P0 	: 응 시즌 1이 더 재미있던것 같긴해
+P1 	: 그렇구나 기묘한이야기도 오리지널인가?
+P0 	: 응 맞아 제일 대표적인 오리지널 드라마지
+P1 	: 나도 그거 재밌더라!
+P0 	: 그치 곧 시즌 4나온대서 기대돼
+P1 	: 헉!얼른 시즌3봐야겠네
+P0 	: 이번 9월에 어둠속으로 시즌 2도 나온대
+P1 	: 그게 뭐더라?
+P0 	: 안녕

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠 좋아하세요?
+P0 	: 특수시즌때만요
+P1 	: 특수시즌이라 하면 올림픽 월드컵이요?
+P0 	: 네네ㅋㅋ
+P0 	: 좋아하세요?
+P1 	: 전 평소에도 야구 열심히 봐요ㅋㅋ
+P0 	: 직관도 가요?
+P1 	: 직관은 못 간지 한 3년 됐어요
+P1 	: 그전에도 일년에 두어번 갔지만요ㅋㅋ 주로 중계방송으로 보구요
+P0 	: 전 한번 ㅋㅋ 가봤어요
+P0 	: 어느팀 응원하세요?
+P1 	: 두산베어스 팬이에요
+P0 	: 두산 팬층 두껍더라고요
+P1 	: 최근에 잘 하는 편이어서 젊은 팬들 많이 생겼죠ㅋㅋ
+P0 	: 잘하고있나봐요!
+P1 	: ㅋㅋ 근데 올해는 못하고 있어요. 이제 뭐 그럴 때도 되긴 했죠

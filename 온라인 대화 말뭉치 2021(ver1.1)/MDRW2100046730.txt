@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100046730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심시간인가봅니다
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 커피 좋아하세요?
+P0 	: 커피 좋아합니다 매일 마시죠
+P1 	: 하루에 몇 잔 정도 마시세요?
+P0 	: 2잔 정도 마십니다 투샷으로 마시니 총4샷이나 마시네요
+P1 	: 꽤 드시네요!
+P1 	: 카페인 잠에는 영향 없으신가요 ㅎㅎ
+P0 	: 그래서 오후부턴 안마십니다
+	  근데 특별히 영향은 없어보입니다.
+P1 	: 저는 점심 먹고 디카페인 아메리카노를 한잔 사왔어요
+P0 	: 디카페인인 뭔가 맛없다는 느낌이 들어요 커피맛은 모르지만 그냥...?
+P1 	: 맞아요
+P1 	: 사실 카페인 들어간게 훨씬 맛있긴 해요
+P1 	: 근데 저는 오후에 커피를 마시면 잠을 못자서요!
+P0 	: 제 주변에도 있어요 
+	  항상 커피외 다른걸 먹더라구요
+P1 	: 맞아요 ㅋㅋ 
+P1 	: 근데 또 커피 맛은 너무 좋아해서
+P1 	: 포기를 못하겠어요 ㅋㅋㅋ
+P1 	: 디카페인으로라도 마시게 되더라구요
+P0 	: 한국의 직장인들에게 커피는 영양제와 비슷무리 하죠

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키워보신 적 있으신지요
+P1 	: 예전에 어릴때 키워봤어요
+P1 	: &name1&님은요?
+P0 	: 저는 지금 구피라는 물고기 키우고 있답니다
+P1 	: 저도 구피 키웠었어요! 친구가 감당이 안되서 줬는데 저도 감당 안됐었죠 ㅠㅠ
+P1 	: 구피 예쁘잖아요
+P1 	: 몇머리나 있아요?
+P1 	: 마리
+P0 	: 처음에 10마리였는데 지금은 100마리쯤 됩니다
+P1 	: 구피들은 조금 번식을 천천히 할 필요가 있다고 생각해요
+P0 	: 워낙 번식력이 좋은 생물이죠
+P0 	: 그래서 종종 가정분양도 합니다
+P1 	: 오래 키우셨나요?
+P0 	: 거의 10년 키운 듯 합니다
+P1 	: 저는 털달린애들 좋아해요
+P1 	: 강아지 고양이 이런애들이요
+P0 	: 그런 동물들이 더 정이 가지요
+P0 	: 저는 괸리에 자신이 없어서 물고기 키우기 시작했답니다
+P1 	: 저는 책임질 준비가 안됐어요
+P1 	: 아마 나이가 많이 들면 키울지도 모르겠어요
+P0 	: 그래요 생명이니까 책임질 수 있을때 키우는 게 맞다고 봅니다

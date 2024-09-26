@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100014950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 거주하시는 지역이 어디세요? 저는 서울인데 시원해요
+P0 	: 어제는 긴팔 긴바지 입고 잤어요ㅋㅋ
+P1 	: 서울거주하고 있는데 잠시 본가내려와있어요
+P1 	: 저는 여수인데 여긴 아직 비가 많이 오네요
+P0 	: 아 휴가신가요?비가 많이와서 야외활동이 어렵겠어요
+P0 	: &name3&도 데려가셨나요?
+P1 	: 네 맞아요 뭘 할 수가 없더라구요ㅠ
+P1 	: 네 &name3&도 같이 갔어요
+P1 	: 산책하려했는데 할 수가 없더라는..
+P1 	: 비오는 날 어떠세요
+P0 	: &name3&는 비오는 날 좋아하나요?
+P0 	: 비오면 산책 못해요?
+P1 	: 아니요 비오면 산책을 못해서 안좋아해요
+P1 	: 아무래도 이렇게 많이 오면 못나가죠
+P0 	: 아 많이 온다고 하셨죠 그쵸 많이 오면 안되죠
+P0 	: 저는 비오는거 좋아해요 빗소리랑 비오는날 냄새가 너무 좋아요
+P1 	: 비오는 날 냄새
+P1 	: 뭔지 알 거 같아요
+P0 	: 뭐가 나쁜말일까요...ㅋㅋㅋ
+P1 	: 뭐 치셨는데요?
+P0 	: 근데 다른 지방에서는 피해가 있다보니까 나이들면서 부터는 좋다고 함부러 말을 못하겠더라구요
+P0 	: 제가 보낸건 저게 다에요ㅋㅋㅋ
+P1 	: 뭐가 문제였던거지ㅋㅋ
+P1 	: 맞아요 이번에 피해 심하더라구요ㅠ
+P0 	: &name3&도 천둥번개 같은거 무서워 하나요?

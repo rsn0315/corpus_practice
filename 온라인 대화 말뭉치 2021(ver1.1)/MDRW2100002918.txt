@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002918
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 거기 엄청 맛있다고 하더라고요
+P0 	: 거기는 다 맛있나요?
+P1 	: ㅎㅎ 튀김소보로가 유명한데 저는 그건 별로고 케익이 맛있더라구요
+P0 	: 아~~케익 맛있다고 들었던것 같아요
+P1 	: 부추빵도 맛있고 보문산메아리 라는 빵도 맛있어요
+P0 	: 오~~먹고 싶어요ㅠㅠ
+P1 	: 크림이~ 우유맛이 나는 생크림이 맛있어요
+P0 	: 오~~맛있겠어요 저 우유맛나는거 진짜 좋아하거든요
+P1 	: 저두요^^!
+	  &name1&님 계신곳에 유명한 카페 궁금해요
+P0 	: 크로플 먹을때 생크림듬뿍 찍어 먹으면 엄청 맛있어요
+P1 	: 꺅 크로플 맛있지용
+P0 	: 네ㅠㅠ 한번에 5개도 먹을수 있어요 ㅎㅎ
+P0 	: 저희 동네에는 장블랑제리라는 나름 유명한 빵집이 있어요
+P1 	: 5개^^ 크로플에 진심이시군요
+P0 	: 네 ㅎㅎㅎ 빵순이라 ㅎㅎ
+P1 	: 오 장블랑제리 ~ 뭔가 고수느낌의 빵집이네요
+P0 	: 티비에 몇번 나온곳인데 줄서서 사는 곳이에요
+P1 	: 우우왕 ㅜ 줄서서 사는 유명한빵이 모에요?
+P0 	: 최고 유명한 빵은 단팥빵이랑 맘모스빵이에요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100010568
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 좋아하는 게임 있으신가요?
+P1 	: 아뇨 게임은 잘 못해서 게임플레이 영상만 종종 봐요
+P1 	: &name1&은요?
+P0 	: 오! 저두요
+P0 	: 전 제가 하는 것보다 보는걸 더 좋아해요
+P1 	: 보는 게임 유튜버 있으세요?
+P1 	: ㅋㅋㅋ저도예요
+P0 	: 간단한 폰겜 같은건 빼구요
+P0 	: 저는 수탉님 봐요
+P0 	: &name2&은 보는 스트리머나 유튜버 있으신가요?
+P1 	: 자빱티비요
+P0 	: 오옹 주로 하시는 게임이나 게임 종류 있나요?
+P1 	: 자빱님이요? 자빱님은 마인크래프트 컨텐츠 주로 하시고 다른 게임은 데바데나 스듀 많이 하세요
+P0 	: 아하 왠지 알고리즘으로 떴었던 것같아요
+P0 	: 수탉님도 데바데 많이 하시는데 왠지 반갑네요ㅋㅋㅋ
+P1 	: 전 게임 잘하는 사람 보면 신기해요 어렸을 때부터 게임 잘 못해서 그런지ㅋㅋ 그냥 스트리머 입담이 재밌어서 봐요
+P0 	: 맞아요ㅋㅋㅋㅋ잘하는 게임 플레이도 보고 싶지만 스트리머가 좋아서 보는 것도 있어요
+P1 	: 예랑가랑 아세요? 전 이분들이 하시는 게임영상도 재밌게 봐요
+P0 	: 아아 그 혹시 미술 전공 졸업한ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 고양이 병철이랑 누구였지 한마리 더 키우는!
+P0 	: 맞죠맞죠?

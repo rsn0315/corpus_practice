@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100025630
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 요샌 홈트요
+P1 	: 하는 운동 있어요?
+P0 	: 저도 홈트
+P1 	: 꾸준히 하기 힘들잖아요
+P0 	: 건강위해서
+P1 	: 영양제도 챙겨드시나요
+P0 	: 네 락토핏이요
+P1 	: 효과 보는거 같아요?
+P0 	: 네 조금요
+P1 	: 전 비타민 챙겨먹어요
+P0 	: 저도 비타민디 먹어여
+P1 	: 덜 피곤해지긴 해요
+P0 	: 효과있어요

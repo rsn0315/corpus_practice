@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100025473
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책 많이 읽으시나요
+P0 	: 일주일에 한권은  읽으려하고 있어요
+P0 	: &name2&은요?
+P1 	: 전 한달에 두권 정도요
+P1 	: 고전문학 한권 정도와
+P1 	: 이슈관련책 1권정도 읽으려고 생각중이에요
+P0 	: 고전도 읽으시군요
+P1 	: 요즘은 멋진 신세계 읽는중이에요
+P1 	: 뭐읽고 계세요?
+P0 	: 전 살아남은 아이요
+P1 	: 잼나나요?
+P0 	: 아뇨
+P0 	: 슬프고 화나요
+P0 	: ㅜㅜ
+P1 	: 현실 고발 책인가요
+P0 	: 내얘기좀들어주세요 라고 끝나는데 너무 먹먹하네요
+P1 	: 아이고 안타깝네요
+P1 	: 이번엔 힐링물로 읽어보시는건 어떨까요
+P0 	: 아직 다 못읽어서ㅜㅜ
+P0 	: 책이 두꺼워요
+P1 	: 한번에 두권 읽어도 괜찮더라구요
+P1 	: 번갈아가며 읽으세요
+P1 	: 먹먹하실때 기분좋아지는 책으로 맘달래세요
+P0 	: 멀티가 ㅜㅜ 힘들어서..ㅜㅜ
+P1 	: 그럼 빨리 완독하세요!
+P1 	: 속독으로 ㄱㄱ
+P0 	: 2부는 내용이 어렵더라구요

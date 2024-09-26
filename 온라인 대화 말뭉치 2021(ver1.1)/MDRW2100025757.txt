@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P1 	: 사고싶은 물건 있으세요?
+P0 	: 네 요즘 의자를 사고 싶어요
+P0 	: 최근에 산 물건 있으세요?
+P1 	: 최근에 젤다야숨 타이틀을 샀어요
+P1 	: 게임 이예요!
+P0 	: 들어봤어요 닌텐도!
+P0 	: 게임 재밌나요?
+P1 	: 네 재밌어요 중고거래로 구매했는데 잘산거 같아요
+P1 	: 중고거래하세요?
+P0 	: 몇번 해봤어요!
+P1 	: 어떤거 파셨어요?
+P0 	: 최근에는 커블체어 안써서 팔았어요
+P0 	: 중고거래 자주 하세요?
+P1 	: 이사할때 많이 했어요!
+P1 	: 책상, 책 , 다트판 이런것들 팔았어요
+P0 	: 아 저도 곧 이사하면 많이 하게 될 것 같아요!
+P0 	: 그냥 버리는 것보다 훨씬 낫죠? ㅎㅎ
+P1 	: 그죠 버리기도 번거롭구요
+P1 	: 큰것도 싸게올리면 와서 차 가져가시는분들도 있어요
+P1 	: 차타고..
+P0 	: 네네 ㅎㅎ 싸게 올리면 연락 빨리와서 금방 거래완료 되더라구요

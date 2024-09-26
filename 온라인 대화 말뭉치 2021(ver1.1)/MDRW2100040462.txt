@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100040462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그러게
+P0 	: 웅 ㅋㅋ 고기 기름에 구우니 고기같네
+P1 	: 맛이 좋네
+P0 	: 웅 쫄깃쫄깃하다
+P1 	: 버섯 많은데 더 구워 먹어라
+P0 	: 그러자 ㅎㅎ
+P1 	: 팽이버섯도 있다
+P0 	: 오 좋넴 ㅋㅋ
+P1 	: 팽이버섯 국에 넣어 먹어야 맛있는데
+P0 	: 글게 ㅋ 그럼 놔뒀다 담에 먹자
+P1 	: 그래 새송이버섯 더 구하라
+P1 	: 구하라
+P1 	: 구워 먹어라 오타가 이상하게 나네
+P0 	: 웅ㅋㅋㅋㅋ 새송이 더 구워올게용
+P1 	: 그래

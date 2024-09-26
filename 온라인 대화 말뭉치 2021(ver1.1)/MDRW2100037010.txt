@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037010
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 네 고양이1마리키우고있어요
+P0 	: &name2&님은여
+P1 	: 저는 지금은 없어요. 어릴 땐 새 키웠었어요
+P0 	: 어떤 새 키우셨었나요
+P1 	: 백문조 키웠었어요
+P0 	: 하얀새인가요?
+P1 	: 네ㅋㅋ 참새 사이즈에 흰 깃털, 다홍색 부리에요
+P0 	: 오오 넘귀여울거같아요
+P1 	: 고양이는 몇 살인가요?
+P0 	: 1마리였나여
+P0 	: 저희애5살이여
+P1 	: 쌍으로 키웠었는데 얘들이 알 낳고 좀 이따 보면 부리에 노란 게 발라져있던 기억이..
+P0 	: 알도낳았군여 신기해요 ㅎㄹ
+P1 	: 고양이 용품도 종류가 되게 다양하더라구요
+P0 	: 네 넘많고 근데 사줘도 안쓰는게 더많아요ㅠ
+P1 	: ㅋㅋ 마음 같지가 않군요. 선물보다 박스를 선호하나요?
+P0 	: 걍 쳐다도안보더라구여 ㅋㅋㅋㅋㅋㅋ
+P0 	: 박스는 한번 들어갔다나오고하네요
+P0 	: 흑흑

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000911
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 와우 살찐다
+P1 	: 아까 밥 많이 먹었잖아
+P0 	: 그렇지만 ㅠㅠ 땡기네
+P0 	: 조금만 시키자 ㅋ
+P1 	: 됐다 다음에 먹자
+P0 	: 노옵~~ 먹고싶당.. 내혼자 먹어야겠다
+P1 	: 무슨소리
+P0 	: ㅋㅋ 같이 먹던지그럼
+P1 	: 그러자
+P0 	: 구래 ㅋㅋ 먹고싶을땐 먹어야지~
+P0 	: 로제 떡볶이 시킬게 ㅋㅋ
+P0 	: 옹옹 ㅋ 꿀맛~
+P1 	: 좀만 시켜라
+P0 	: 알았슴당
+P1 	: 금방 오나
+P0 	: 옹 30분 내로 올듯
+P1 	: 좋네
+P1 	: 닭발 좀 그만 시켜먹어라

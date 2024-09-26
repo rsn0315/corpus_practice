@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033086
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재난지원금 받으시나여
+P1 	: 네 받아요 내일신청하려구요
+P0 	: 오 저는 미리신청했어요 국민카드
+P0 	: 그거 받으면 뭐 사실 예정인가여
+P1 	: 흠 식료품이나 블라인드맞출 생각이에요
+P0 	: 오 블라인드. 저는 자전거 킥보드 생각중입니다
+P1 	: 전에받은것도 그냥 머사먹고하니 금방없더라구여 이번은 평소에 내돈주고사기 고민했던걸로 장만하려구요 자전거나 킥보드도 괜찮네요
+P0 	: 네 내돈내산으로 아까운 것들 사는게 좋은거 같아요 아니면 캔햄 같은거 사재기ㅋ
+P1 	: 맞어요 식재료도 구비하면 언젠가 먹으니ㅋㅋ 내일신청인데 기대되네요
+P0 	: 헉 전 미리신청했어요 국민카드ㅋ
+P0 	: 예약신청되서요
+P1 	: 아 예약이란것도있나요? 저는 지역상품권카드로 신청하려구요
+P0 	: 네 국민카드 신용카드로 예약되더라구요
+P1 	: 기대되네요 내일사용하실수있겠네요!
+P0 	: 아니요ㅜㅜ 사용은 아직 못해요ㅋ 지금 신청기간이잖아요ㅋ
+P1 	: 다음날 들어온다고 들었는데 사용기간이 있었나요?;;
+P0 	: 아 저는 신청 예약이라서...신청하면 바로 들어오나보네요..그럼 주말 쇼핑을...ㅋ

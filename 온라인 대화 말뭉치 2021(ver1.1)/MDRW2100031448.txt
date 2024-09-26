@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031448
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 요즘 이용하는 ott 있어요?
+P1 	: 티빙 하나 구독하고 있어요
+P0 	: 티빙으로 최근에 뭐 봤어요?
+P1 	: 놀라운 토요일이랑 대탈출이요
+P0 	: 놀라운 토요일이 노래듣고 가사맞추고 퀴즈 맞추는거죠?
+P1 	: 네, 맞아요. 보시나요?
+P0 	: 종종 티비 틀어서 하면 봐요
+P0 	: 그거 재방송도 엄청해주더라고요
+P1 	: 티비엔에서 꽤 인기있는 예능이니까요
+P1 	: 중간부터 봐도 이해가 안가는 포맷도 아니구요
+P0 	: 맞아요 잠깐잠깐 볼때 시청자들도 같이 풀 수 있는 퀴즈라서 더 좋은거 같아요
+P1 	: 님은 어떤 ott 이용하나요?
+P0 	: 저는 넷플이랑 티빙 써요!
+P1 	: 오, 님은 티빙에서 뭘보시나요?
+P0 	: 저는 라이프온 마스봤어요
+P0 	: 라이프 온 마스 아세요?
+P1 	: 오, 알아요. 아직 보진 않았지만
+P0 	: 저도 추천받아서 봤는데 이거 디게 재미있더라고요

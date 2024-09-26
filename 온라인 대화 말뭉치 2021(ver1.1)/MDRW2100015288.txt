@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100015288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페 좋아하세요?
+P1 	: 완전 좋아해요
+P0 	: 제일 좋아하는 프렌차이즈는요?
+P1 	: 스벅 제일 많이 가요
+P0 	: 헉 저도 스벅 많이 가요 ㅋㅋㅋ
+P1 	: 쿠폰도 자주 주고 별쌓이는게 좋더라구요
+P0 	: 왜 저는 쿠폰을 안주죠?ㅠㅠ
+P1 	: 깔끔하고 간섭도 안하고 ㅋㅋㅋ
+P1 	: 쿠폰 ㅋㅋ생일쿠폰은 받으시죠?
+P0 	: 어떤 메뉴를 제일 좋아하세요?
+P0 	: 생일쿠폰 필수죠 ㅋㅋ
+P1 	: 저는 프라푸치노 도 좋아하는데
+P1 	: 콜드브루메뉴도 잘먹어요
+P1 	: &name1&님은요?
+P0 	: 오~ 비싼 거 좋아하시구나.
+P0 	: 전 최애메뉴가 자바칩 프라푸치노에요 ㅋㅋ
+P1 	: 자바칩 스테디죠
+P1 	: 진짜 맛있음
+P0 	: 콜드브루 메뉴 중에선 돌체라떼 괜찮은 것 같아요
+P1 	: 진짜 맞아요
+P1 	: 돌체 최고존엄
+P1 	: 자허블도 맛있어요
+P0 	: 그거 먹으면 설사한단 사람 있다던데 전 멀쩡하던데용
+P0 	: 유당불내증이 없나봐요..
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ축복이네요
+P0 	: 자허블이 뭐죠 자몽허니블렌드?
+P1 	: 저도 장이 튼튼한가 괜찮아서
+P1 	: 잘먹어요
+P1 	: 자몽허니 블랙티요

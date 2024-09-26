@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034088
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ㅎㅎ
+P1 	: 안녕하세요
+P1 	: 점심 드셨나용
+P0 	: 네 점심드셨어요?
+P1 	: 네 저도 먹었어요
+P1 	: 어떤거 드셨나요?
+P0 	: 전 백반먹엇어요 &name2&님은요?
+P1 	: 백반 맛있죠! 저는 볶음쌀국수 먹었어용
+P0 	: 볶음쌀국수!! 아 오랜만에 먹고싶네요
+P1 	: 좋아하시나요? 맛있는데 쌀국수는 배가 금방 꺼지네요
+P1 	: 조금 배고픈 것 같아요..ㅎㅎ
+P0 	: 맞아요 면 너무맛잇는데 배가 빨리 꺼짐 ㅠㅠ
+P1 	: 그쵸 ..저녁은 뭐드실 예정이신가요?
+P0 	: 아직 메뉴 고민중이에요 &name2&님은요?
+P1 	: 저는 오늘 회 먹기로했어요!
+P1 	: 회 좋아하시나요?
+P0 	: 회 너무 좋아해요
+P0 	: 무슨 회 드시나요?
+P1 	: 노량진에서 배달도 되더라구요! 모둠회 먹을 것 같아요ㅎㅎ
+P0 	: 아 저도 회먹은지 좀 됏는데 군침도네요 ㅎ

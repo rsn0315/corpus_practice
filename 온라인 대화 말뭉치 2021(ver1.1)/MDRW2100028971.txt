@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100028971
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 책을 좋아하시나봐요?
+P0 	: 네~ &name2&님은요?
+P1 	: 저는 추리소설 해리포터  이런거만 봤어요 ㅜㅜ
+P0 	: 오 추리소설 좋죠!
+P0 	: 저도 해리포터 영화보다 책으로 먼저 접했어요 ㅎㅎ
+P1 	: 책이 상상하며 봐서 잼더라구요 ㅎㅎ
+P1 	: 영화는 짤린거도있으니 ㅜ
+P0 	: 그쵸! 재미있게 읽은 추리소설 있으신가요?
+P1 	: 검은집이랑 푸른불꽃 잼게봤어요
+P1 	: 둘다 기시유스케 작가 꺼래요
+P0 	: 오 제목이 뭔가 멋있네요!
+P0 	: 추리소설 좋아하시는 분들은 대체적으로 일본 쪽 많이 보시는 것 같아용
+P1 	: 그쵸
+P1 	: 음침해서 그런쪽으로 잘쓰는걸까요 ㅋㅋ
+P0 	: ㅋㅋㅋ 워낙에 괴담이나 그런게 많다보니
+P0 	: 아이디어가 쑥쑥 솟아나나봐요
+P0 	: 확실히 한국 추리소설이랑 다른 으스스함이 있죠
+P1 	: 님은 어떤거 좋아하세요
+P0 	: 저는 가리지 않고 다 읽는 편이에요 ㅎㅎ
+P0 	: 한참 히가시노 게이고에 빠졌던 적이 있어요!
+P1 	: 오 그분 숨쉬듯
+P0 	: 일본 문학은 학교 배경이 많다 보니 풋풋함이 그리울 때 많이 읽어보는 것 같아요
+P1 	: 책을 내심
+P0 	: 앜ㅋㅋㅋ 맞죠
+P0 	: 매번 신간이 있어서 신기해요..
+P1 	: ㅋㅋㅋㅋㅋㅋ 대단한 아이디어에요

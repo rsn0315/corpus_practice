@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014693
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 추워지고있군요
+P0 	: 가을이 오고있어요
+P1 	: 가을에는 목에 수건을 꼭하는데 &name1&님도 추위타시나요
+P0 	: 네 완전요 스카프 좋아하시나요?
+P1 	: 스카프는 생존이죸ㅋㅋ
+P1 	: 내복을 준비해야겠어요
+P0 	: 가을옷 꺼내셨나요
+P1 	: 아직요ㅎㅎ 비가오니 쌀쌀하네요
+P0 	: 새벽에는 너무 춥더라고요
+P1 	: 새벽에  벌써ㅜㅜㅜ
+P1 	: 살을찌워야겠어요
+P0 	: 좋아하는ㅈ계절 있나요
+P1 	: 겨울빼고 다좋아요ㅋㅋㅋㅋ
+P0 	: 윽 저도 겨울이 싫어요
+P1 	: 춥고 밤도 길어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006878
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 튀김 싫어하는 사람이 있을까요
+P0 	: 아마 없겠지요?ㅎㅎ 통닭이 제일이지요
+P1 	: 집에서 튀기긴번거롭죠
+P0 	: 추석엔 튀김하는 사람들 많아요
+P1 	: 제주도는 추석에 하진않아요
+P0 	: 그래요? 부산은 튀김과 전이 필수거든요
+P1 	: 어떤 튀김해요
+P0 	: 오징어랑 고구마는 기본이에요
+P1 	: 쥐포도 튀기죠
+P0 	: 네 간편해서 좋아요 바로 튀겨져서요
+P1 	: 저는 음.. 새우튀김
+P0 	: 그건 진짜 없어서 못먹죠
+P1 	: 계란이나 순대 튀겨도좋죠
+P0 	: 빙어 튀김 드셔보셨나요
+P0 	: 우유는 쟁여두고 마셔요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006669
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콘서트 가보셨나요
+P1 	: 네 옛날엔 다녔는데 지금은 가본지가 오래되었네요.
+P1 	: &name1&님은요?
+P0 	: 저두요 누구 콘서트가 기억에 남나요
+P1 	: 저는 해외가수 콜드플레이 생각나네요.
+P1 	: &name1&님은 어떤 가수 기억이 나시나요?
+P0 	: 와 내한공연 가신거죠?
+P1 	: 네. 비쌌지만 행복한 경험이었습니다.
+P0 	: 그러셨구나 저는 김동률 콘서트요
+P1 	: 김동률 좋아하세요?
+P0 	: 네 저보단 와이프가 더..ㅎ
+P1 	: 와이프 때문에 가셨나보네요 ㅎㅎ
+P0 	: 네 같이 다니다보니.제가 더 팬이.되는듯요
+P1 	: 김동률 노래 추천하시는거 있으신가요?
+P1 	: 저는 replay랑 취중진담밖에 모르겠네요
+P0 	: 크...replay 좋아합니다.. 기억의 습작도 들어보셨을지도..
+P1 	: 아 맞네요 ㅎㅎ 명곡이라

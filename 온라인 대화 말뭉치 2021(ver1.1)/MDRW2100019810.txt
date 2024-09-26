@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P1 	: 연애는 얼마나 하셨나요?
+P0 	: ㅋㅋ 오래 안 했어요  연애 기억도 안남 ㅜㅠ
+P1 	: 지금 사시는 분과 연애 안하신건가용? ㅋㅋㅋ
+P0 	: 결혼까지 1년도 안걸렸 ㅜ
+P1 	: 저도요 ㅎㅎ 그럼 6개월은 만나신거죠?
+P0 	: 네 ㄱ 정도요
+P1 	: 6개월만에 결혼하신거예요?
+P0 	: 7개월째 ㅋ ㅠ 미쳤었네요 ㅠㅠ ㅋㅋ
+P1 	: ㅋㅋㅋㅋ 지금 만족하시는거죠?
+P0 	: 하하 그저 웃지요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ저도 결론까지.10개월걸렸는데 다 초고속이었군요
+P0 	: ㅋㅋㅋㅋ나이가 많아 ㅜ
+P1 	: &name1&님이랑 비슷하신가요? ㅎ
+P0 	: 조금은어려요 ㅋ
+P1 	: 저보단 많으신걸로 알고 있을게요 ㅎㅎ 어떻게 만나셨어요? 소개팅?
+P0 	: ㅋㅋㅋ 몇살이에요 ㅋㅋ네 소개

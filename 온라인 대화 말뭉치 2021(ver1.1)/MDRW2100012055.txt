@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 파르페님 
+	  중고거래 많이 하는 편이세요?
+P1 	: 가끔 하는 편이에요
+P1 	: 중고거래 자주하세요?
+P0 	: 아니요 저는 실제로 해본 적은 없어요ㅎㅎㅎ 앱 구경만 하는 편이에요
+P1 	: 당근 쓰시나요?
+P0 	: 넹넹 당근이 대세인듯해요
+P0 	: 해외로도 진출했더라구요
+P1 	: 정말요? 근데 편하고 사용도 쉬워서 진출할만 한 거 같아요
+P0 	: 맞아요 캐릭터도 귀엽고
+P0 	: 지역기반이라 커뮤니티 느낌도 나고
+P1 	: 당근 채팅할 때 쓰는 이모티콘도 정말 귀여워요
+P0 	: 진짜 핵귀욤
+P1 	: 커뮤니티 기능도 진짜 좋은 거 같아요 동네 사람들만 있으니까
+P1 	: 지역 소식도 알 수 있고 소소하게 소통도 하고요
+P0 	: 맞아용 인기 많은데는 다 이유가  있는 듯해요
+P1 	: 그리고 물건도 진짜 종류별로 올라오는 거 같아요
+P1 	: 구경만해도 재밌어요ㅎㅎ
+P0 	: 그쵸 청담동쪽은 구하기 힘듯 찐명품들도 많다는 소문이ㅋㅋ

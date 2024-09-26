@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100031652
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 저는 부모님이랑 같이 사는데 &name2&님은 어떤가요?
+P1 	: 저도 가족이랑 같이 살아요
+P1 	: &name1&님은 자취해보신 적 있으신가요?
+P0 	: 아직 없어요 &name2&님은요?
+P1 	: 저도 없어요 겁이 많아서,,,
+P0 	: 저는 친구들 대부분이 다 자취하고 있어서
+P0 	: 엄청 좋아보이긴하더라고요
+P1 	: 오 다들 되게 부지런하신가봐요
+P1 	: 전 게을러서 컨트롤이 안 될 것 같아요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ 저도 아마 자취하면 처음에는 좀 꾸며뒀다가
+P0 	: 나중에는 엉망일 거 같긴하네요
+P1 	: 무엇보다 밥먹는걸 제대로 못 할 것 같아요..
+P1 	: 해먹어도 걍 인스턴트 달고 살 것 같은,,ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ 친구 자취방가면 다 햇반이랑 컵밥 종류로 채워져있더라고요
+P1 	: 그럴만도 해요ㅜㅜ 가족이랑 같이 사는 집에 먹을게 넘쳐나도 혼자 있음 귀찮아서 안먹게 되더라구요..
+P1 	: 먹어도 컵라면.. 자주먹어요ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 혹시 자취로망같은거 있어요?
+P1 	: 음.... 자취로망은 딱히 없는 것 같아요
+P1 	: 워낙 흉흉한 소문만 들으니까 로망이 없어지더라구요ㅋㅋㅋ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100040745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 머드셧어요?
+P0 	: 불고기 먹었어요
+P1 	: 오 불고기 좋아하세요?
+P0 	: 아니요 집에 불고기가 있었어요
+P1 	: 아하 그렇군요
+P1 	: 저는 초밥 먹엇어요
+P0 	: 내가 아까 초밥 먹고 왔다고 말하셨어요
+P1 	: 네?
+P0 	: 아까 연어초밥이야기
+P0 	: 하지않으셨나요
+P0 	: 부대찌개 좋아하세요?
+P1 	: 좋아하진 않고 잇음 그냥 먹어여
+P0 	: 부대찌개 먹고 싶네요

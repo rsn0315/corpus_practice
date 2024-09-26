@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100022992
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~!
+P0 	: 저녁 드셨나요?
+P1 	: 네 먹었어요
+P1 	: 집에 있는 반찬으로 대충 ㅋㅋㅋ
+P1 	: ㅎㅎㅎ님은 저녁 드셨나요
+P0 	: 네 &name2&은 뭐 드셨나요?
+P1 	: 저는 밥에 참치랑 고추장 넣고 비벼먹었어요 ㅎㅎ
+P1 	: 별거 아니어도 나름 맛있어요 ㅋㅋㅋ
+P0 	: 맛있을 것 같은데요?
+P0 	: 좋아하는 음식 있으신가요?
+P1 	: 너무 많은데 음.. ㅋㅋㅌㅌㅋㅋ
+P1 	: 짬뽕도 좋아하고 마라탕도 좋아하고 양꼬치도 좋아하고 족발도 좋아하고 곱창도 좋아해요
+P1 	: ㅋㅋㅌㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ그럼 좋아하는 음식 브랜드 있으신가요?
+P1 	: 딱히 없는 것 같아요 ㅋㅋㅋㅋ
+P1 	: &name1&은요?
+P0 	: 저는 떡볶이 좋아해서 엽떡 좋아해요
+P0 	: 떡볶이 좋아하시나요?
+P1 	: 아하
+P1 	: 떡볶이 싫어하진 않는데
+P1 	: 저는 배달떡볶이보단 시장떡볶이 이런 게 더 좋더라구요 ㅋㅋㅋ
+P0 	: 시장떡볶이도 맛있죠!!

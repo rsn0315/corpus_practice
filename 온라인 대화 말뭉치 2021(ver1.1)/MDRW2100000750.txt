@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000750
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 스타벅스엔
+P1 	: 마성의 메뉴가있지
+P0 	: 무슨 메뉴인데?
+P1 	: 쿠크앤쿠크로 제조할수도있고
+P1 	: 바나나망고 차애
+P0 	: 커피위에?
+P1 	: 응 요청하면 해준대 친구강력추천
+P0 	: 걸으니까 아이스초코나 먹고싶다
+P1 	: 난 시원한 아메리카노
+P0 	: 스벅은 과일메뉴가 너무 적어
+P1 	: 시즌메뉴로 나와서 그런듯
+P0 	: 그래서 잘 안가는데 기프티콘땜시 가게됨
+P1 	: 얼마전이었지 청포도 맛있었대
+P0 	: 오 나중에 마셔봐야겠다
+P1 	: 나도 마셔보고싶음

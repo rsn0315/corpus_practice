@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017577
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 배달음식 좋아해요?
+P1 	: 안녕하세요! 배달 자주 시켜먹어요ㅎㅎ
+P0 	: 주로 어느 시간대에 시켜먹어요?
+P1 	: 주로 점심에 시켜요!
+P1 	: 배달음식 자주 드세요?
+P0 	: 저는 자주 먹진 않은데 한 때는 1주 1치킨 했어요 ㅎㅎ
+P1 	: 악 저두 옛날에 그랬어요ㅋㅋㅋㅋ
+P1 	: 치킨 어디꺼 드세요?
+P0 	: 후참잘이라고 브랜드 있는데 아세요?
+P1 	: 아 들어봤어요ㅋㅋㅋㅋㅋ
+P1 	: 바로 어딘지 알겠네요
+P0 	: 네네 거기 가격도 착한데 포장할인까지 해줘요
+P0 	: 치킨집의 천사에요 ㅜㅜ
+P1 	: 오오 다음에 거기서 시켜야겠어요
+P1 	: 배민에 떠서 몇 번 봤거든요!
+P0 	: 이번주 내내 거기 할인행사 하고 있어요~
+P1 	: 헉 내일 바로 시켜요 저
+P0 	: 오 ㅎㅎ 근데 배달만 적용 돼더라구요 ㅠㅠ
+P0 	: 내일만 포장도 2천원 할인 해줘서 저도 내일 시켜요!!
+P1 	: 내일 둘 다 치킨 먹겠네요!!
+P1 	: 좋은 정보 감사해요 히히
+P0 	: 내일 치킨으로 함께 불금 보내요! 하하!

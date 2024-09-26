@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007835
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아직 미혼이시죠?
+P1 	: 네  학생이에요!
+P0 	: 혹시 캠퍼스커플이세요?
+P1 	: 아뇨 고등학생이라서요 연애 한번도 못해봤어요ㅋㅋ
+P0 	: 허걱~
+	  고등학샐이시라니  당황
+P0 	: 비혼주의자는 아니시죠?
+P1 	: 네  나중에 좋은시람 만나서 결혼하고 싶어요
+P0 	: 어떤 사람 만나고 싶은데요?
+P1 	: 외적으로는  남자 평균키 이상이면 되고 얼굴은 잘생겼으면 좋겠고 내적으로는 착한 사람이면 좋겠어요ㅎㅎ
+P0 	: 오~잘생기고 키크고
+	  내말 잘들어주는 착한남자!
+P1 	: &name1&님은 결혼하셨어요?
+P0 	: 아니오 나는 비혼주의예요
+	  하지만 권장하지는 않아요
+P1 	: 아하 그렇군요
+P0 	: 네 아직 고등학생이시니까
+	  좀 더 크면 이상형 만나서
+	  이쁜 사랑 하세요 ^^
+P1 	: 네!!

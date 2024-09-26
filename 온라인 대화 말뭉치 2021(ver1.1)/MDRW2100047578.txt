@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100047578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 잘하는 요리 있으신가요?
+P0 	: 그나마 볶음밥이요 ㅎㅎ
+P0 	: &name2&님은 어떤요리 잘하세요
+P1 	: 전 요리를 잘하지 못합니다 ㅎㅎㅎ
+P0 	: 저도 잘못해요 ㅎㅎㅎ
+P0 	: 어떤 음식좋아하세요 한식중에
+P1 	: 저 원래 한식 안좋아하는데 요즘 찌개류면 다 좋아요. &name1&님은요?
+P0 	: 저도 찌개류 좋아하고 한식에서 국밥이랑 갈비찜좋아해요
+P0 	: 원래는 어떤음식좋아하세요?
+P1 	: 피자 스파게티 이런거요 ㅎ 근데 요즘은 안땡겨요 나이 먹었나봐요 ㅋㅋ
+P0 	: ㅎㅎ저도 그래요 소화가 잘안되더라규여
+P0 	: 어떤피자 젤좋아하세요
+P1 	: 전 불고기 피자요^-^ &name1&님은 갈비찜 해드시나요?
+P0 	: 불고기피자맛있죠 어디브랜드거 자주드시나요
+P0 	: 전 갈비찜 좋아하는데 아주가끔해먹어요 귀찮아서 ㅎㅎ..
+P1 	: 그거 손이 너무 많이가잖아요 제 일생에 딱 한번 해보았습니다 ㅎ
+P0 	: ㅎㅎ사먹는게 최고죠
+P0 	: 스파게티는 어떤종류 좋아하세요
+P1 	: 전 까르보나라요^-^

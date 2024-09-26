@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100004924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 라면하면 우리나라지
+P0 	: 응 우리나라 라면은 인트턴트 라면이래
+P1 	: 된장 라면 해물 라면 맛있겠다
+P0 	: 티비에 라면 나오면 그렇게 먹고 싶 을수 가 없다
+P1 	: 응 특히 밤에 나오면
+P0 	: 맞아 야식으로 라면먹어서 살만 찐다
+P1 	: 라면에도 저기는 비법이 있네
+P0 	: 라면 전문점인가보다 추가 양념장도 만들고 하는거보니
+P1 	: 칼칼하게 끓여서 먹는 라면 최고지
+P1 	: 난 버섯 넣어도 맛있더라
+P0 	: 청 양 고 추 넣어서 먹어도 맛있음
+P1 	: 그건 너무 맵지 않겠나
+P0 	: 좀 칼칼해야지 라면 먹는 재미가 있지
+P1 	: 해물넣으면 더 맛있음
+P0 	: 그래 해물모듬 넣으면 엄청 맛있지

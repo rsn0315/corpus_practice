@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100002503
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 책 자주 읽으세요?
+P0 	: 저는 책보단 웹소설 주로 보게돼요
+P1 	: 어릴 때는 많이 읽었는데 커서는.. 웹툰말고는 잘 안보는거같아요
+P1 	: 웹소설 어떤게 재밌나요?
+P0 	: 다른 사람한테 소개하기엔 제목이 좀 난감한데...ㅋㅋㅋ
+P0 	: 카카페에서 데뷔못하면죽는병 봐요
+P1 	: 데뷔를 하고싶어하는 인물의 이야기인가요?
+P1 	: 뭔가 제목부터 강렬한데요?
+P0 	: 으으음 제목그대로
+P0 	: 데뷔를 못허면 죽는 시스템이라
+P1 	: 헉
+P0 	: 어쩔수없이 데뷔를 해야만하는 거이요
+P1 	: 진짜 강렬 하군요
+P1 	: 꼭 봐야겠어요 궁금해졌어요
+P1 	: 웹툰도 보는 거 있으신가요?
+P0 	: 추천합니다ㅎㅎ
+P0 	: 웹툰은 어떤거보세요?
+P1 	: 네이버쪽에 있는 걸 많이 보는 편이에요
+P1 	: 음 좀 사랑 연애 이런건 잘 안보고 사람사는 이야기 같은거 좋아해요
+P0 	: 저도 하나 추천해주세요
+P0 	: 웹툰안본지 오래라 어떤게 재밌는지 모르겠어요
+P1 	: 집이없어 추천해드려요. 액션물 좋아하면 화이트 블러드 약간 아포칼립은 숲속의 담
+P0 	: 오늘부터 도장깨기해야겠네요

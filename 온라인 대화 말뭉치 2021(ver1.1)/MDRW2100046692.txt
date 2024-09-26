@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100046692
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하십니까
+P1 	: 안녕하세요:)
+	  식사는 하셨나요~?
+P0 	: 아직
+P0 	: 동료랑 나갈겁니다
+P1 	: 어떤거 드실예정이에요?
+P0 	: 백반먹고 싶은데
+P0 	: 햄버거먹자네요
+P1 	: 앗..백반이 더 끌리는 날이 있죠..! 혼밥은 싫은건가요..?
+P0 	: 같이나가기로 햬서요
+P1 	: 약속이니까요! 그래서 햄버거 드시러 가시나요?
+P0 	: 네
+P1 	: 오늘 퇴근 후에는 저녁에 약속이나 계획하신거 있으신가요?
+P0 	: 아뇨
+P1 	: 그럼 퇴근 후에 주로 뭐하시는 활동 없으신가요? 저는 게임이나,, 공부나,,,운동같은거 하거든요!!
+P0 	: 집에서 영화봐요  애니나
+P1 	: 오호 최근에 보신 영화는 무엇인가요? 저는 영화본지 너무 오래됐네요..
+P0 	: 애니는 귀멸의칼날
+P0 	: 요새는 애니가재밌죠
+P1 	: 다들 귀멸의 칼날 많이 보시더라구요!! 저도 나중에 한번 봐야겠어요:)
+P1 	: 제가 점심시간 뺏은것같네요! 점심 맛있게 드시고 오늘 하루도 파이팅입니다!
+P1 	: {emoji}
+P0 	: 네

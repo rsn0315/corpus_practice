@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100027187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 하시는 운동 있으신가요?
+P1 	: 저 필라테스 다니고 있어요!
+P0 	: 저도 필라테스 다녔었는데~
+P0 	: 얼마나 다니셨어요?
+P1 	: 저 지금 3개월 끊어 놨던 게 이제 끝나가네요 ㅋㅋ
+P0 	: 오래 꾸준히 하셨네요!
+P0 	: 튼튼해진 게 느껴지나요?
+P1 	: 저 너무 불성실하게 다녀서
+P1 	: 지금 기간은 얼마 안 남았는데 횟슈가 너무 많이 남았어요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 헉 ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 전 코어위주로 필라테스 수업 들었는데
+P0 	: 안 되던 동작이 한달만에 되는 거 보고...
+P0 	: 필라테스의 힘을 깨달았습니다
+P1 	: 아 필라테스 수업을 부위별로 하나요? ㅋㅋㅋㅋㅋㅋ
+P0 	: 저는 시간표가 짜여져 있었는데
+P0 	: 코어강화나
+P0 	: 이런 식으로 진행됐던 거 같아요!
+P1 	: 아 그렇구나 제가 다니는 센터는 도구별로 시간이 나뉘어져 있더라구요
+P1 	: 몇 시부터 몇 시까지는 리포머.. 이런 식으로요
+P0 	: 기구 필라테스 하시는군요!
+P0 	: 전 그건 안 해봤어요
+P1 	: 그럼 무슨 필라테스 하세요?
+P0 	: 그냥 맨몸필라테스였는데
+P0 	: 소도구 정도만 이용했어요
+P0 	: 밴드나 무슨 요가링이나
+P1 	: 맨몸 필라테스 ㅋㅋㅋㅋㅋ매트 필라테스라고 보통 지칭하는 그것인가요

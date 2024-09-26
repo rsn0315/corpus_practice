@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100044807
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: ㅋㅋㅋㅋ 집에 월드콘 있지 않아? 그거라도 먹어
+P0 	: 월드콘은 싫어. 녹차 아이스크림 먹고 싶네
+P1 	: 헐 우리집에 녹차 아이스크림 있는데.. 갖다주고 싶다ㅋㅋ
+P0 	: 부러워. 너네 아빠는 맨날 월드콘이랑 빠삐코만 사와서 지겨워
+P1 	: ㅋㅋㅋㅋ 우리 집에도 녹차마루랑 요맘떼밖에 없어
+P0 	: 오늘은 아이스크림 먹지 말고 참아야지 뭐.
+P0 	: 유자차나 마실래
+P1 	: 나도 유자차 마시고 싶다
+P1 	: 우리집엔 생강차밖에 없음
+P0 	: 생강차도 먹다보면 적응 돼
+P0 	: 나름의 맛이 있는 건데.
+P1 	: 목 아플 때 생강차 먹긴 하는데 맛은 영ㅠ
+P0 	: 아니면 나중에 집에서 매실청 가져가
+P1 	: 매실청도 그냥 물만 타마시면 매실차야?
+P0 	: 응. 매실음료수는 잘 먹잖아 너
+P0 	: 소화 안될 때 그거 타마셔
+P1 	: 엉 매실차는 새콤하니 맛있잖아ㅋㅋㅋ

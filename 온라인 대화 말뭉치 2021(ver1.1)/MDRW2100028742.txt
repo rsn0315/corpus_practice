@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100028742
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재밌는 책 있나요~?
+P1 	: 저는 얼마나 닮았는가 재밌게 읽었어요
+P1 	: &name1&님은 재미있게 읽으신 책 있으신가요?
+P0 	: 저는 최근에는 책을 안읽어서 ㅠ 기억이 안나는데 그냥 짧은 시 읽는게 좋아요
+P1 	: 어떤 종류의 시를 좋아하시나요?
+P0 	: 그런건 잘 모르겠고 그냥 읽다가 좋으면 좋은거같아요 ㅎ
+P0 	: 직장다니고 책하고는 거리가 멀어져서ㅠ
+P0 	: 기억이 안나요 ㅎ
+P1 	: 그럼 어떤 종류의 시를 좋아하시나요?
+P0 	: 예전엔 시도 좋아하고 쓰기도 하고 그랬는데 ㅎ 지금 직장다니고 나서 기빨려서 그런가 ㅋㅋ감정따위 없어진거같아요
+P1 	: 그렇군요ㅠㅠㅠ
+P1 	: 그럼 좋아하시는 작가 있으신가요?
+P0 	: 어..그 안도현? 맞나 그분 시 좋아했는데
+P0 	: 연탄...?연탄불
+P0 	: 그거요
+P1 	: 저도 그 시 좋아해요
+P1 	: 연탄불 차지말라는 시 맞죠?
+P0 	: 맞아요!
+P0 	: 그 시가 참 좋았어요
+P0 	: 요즘 느끼는건 연탄불 차는 인간들이 많다
+P0 	: 입니다
+P1 	: 맞아요 저도 그 사 읽고 공감 많이했어요
+P1 	: 그 시가 생각할 점이 많더라고요
+P0 	: 맞아요
+P0 	: 연탄불 만큼 타오르는 열정이 있었는지 생각해보게 되더라고요
+P0 	: 그냥 사는거에 급급해서 그냥저냥 시간만 흘러보낸거같은
+P1 	: 사는게 다 그렇죠

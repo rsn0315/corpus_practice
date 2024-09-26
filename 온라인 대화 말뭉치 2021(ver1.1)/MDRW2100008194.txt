@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008194
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 다녀오셨어요?
+P1 	: 국내 조금씩 다녀왔어요
+P0 	: 올해 어디다녔오셨어요?
+P1 	: 울릉도요ㅎㅎ
+P0 	: 오 울릉도 가보고싶던데 어때요?
+P1 	: 좋아요ㅋㅋ 편안하고
+P1 	: 지금 시국에서 베스트입니다
+P0 	: 사람없던가요?ㅎ
+P0 	: 코로나라 암데도 못가고있어요ㅠㅠ
+P1 	: 아뇨 핵많던데요ㅋㅋㅋㅋㅋ
+P0 	: 그럼 베스트는 아닌거 아니예요?ㅎ
+P1 	: ㅋㅋ다른데 보다는 그래도. . .
+P0 	: 가족여행가신거예요?
+P0 	: 가는길 험난하지않아요?
+P1 	: 와이프랑 ㅎㅎ 배타고 한참 가요
+P0 	: 얼마나 타고 가요?
+P1 	: 강릉에서 세시간정도 걸렸어요

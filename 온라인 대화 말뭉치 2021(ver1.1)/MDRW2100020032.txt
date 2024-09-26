@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 오늘 저녁에 식사 잘 하셧어요??
+P1 	: 네 쌀국수 먹었어요
+P1 	: &name1&님은 어떤거 드셧나요?
+P0 	: 오.. 배달음식인가요? 저는 치킨이란 소맥이랑 빵먹었어요 ㅋㅋ
+P1 	: 집 근처에 단골 쌀국수 집이 있어서 간단하게 먹었어요
+P1 	: 치맥이라니 정석적인 불금 음식이네요 ㅋㅋㅋ
+P0 	: 오.. 쌀국수면 베트남쌀국수인가요??
+	  그쵸 치킨이면 정석이죠 ㅋㅋㅋ 그런데 푸라닭안시켜서 욕먹엇어요
+P1 	: 아 ㅋㅋㅋㅋ 푸라닭 맛있죠
+P1 	: 네네 베트남 쌀국수요!
+P1 	: 어떤 치킨 드셨나요?
+P0 	: 오 너무 맛잇겟어요..
+	  저는 인스턴트 쌀국수 자주먹거든요
+P0 	: 치킨더홈 먹엇어요 .근데 푸라닭안시켯다고 ㅜㅜ 욕먹엇어요 ㅋㅋ
+P1 	: 처음듣는 브랜드 같은데 맛있었나요??
+P0 	: 엄마가 닭비린내 너무 많이만다고해서 이젠 안시키려고요 ㅠㅠ
+	  그냥 푸라닭이나 시킬껄 그랫나봐요
+P1 	: 앗 ㅜㅜ
+P1 	: 저도 푸라닭은 좋아해요
+P1 	: 소스가 독특해서 좋아요
+P0 	: 오 좋아하는 메뉴가 있으신가봐요.
+	  저는 최근에 고.추 마요랑 블랙알리오를  먹어봤었는데, 고.추마요가 굉장히 기억에 남았엇어요.

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 뭐 드셨어요?
+P1 	: 된장찌개 먹었어요
+P0 	: 오 ㅎㅎ 직접 해 드셨나요?
+P1 	: 아니요 엄마가 해준거 먹었네요 &name1&은 저녁 드셨어요?
+P0 	: 넵 저는 참치비빔밥으로 ㅎㅎ 슥삭
+P1 	: 참치마요 이런건가요?
+P0 	: 아뇨아뇨 마요랑 좀 달라요
+P0 	: 야채랑 참치 초고추장 밥 넣고
+P0 	: 슥슥~~
+P1 	: 요리 좋아하시나요?
+P0 	: 간단한 요리라면 좋아해요ㅋㅋㅋ
+P0 	: 설거지 많이 안 나오면 더 좋고요
+P1 	: 저도 그래요 뒷정리가 너무 성가셔서ㅎ
+P0 	: 간단한 요리할 줄 아는 거 뭐 있으신가요?
+P0 	: 자신 있는 메뉴!
+P1 	: 라면이랑 파스타요ㅋㅋ
+P1 	: 저는 라면이랑 파스타가 그나마 자신있네요ㅎ

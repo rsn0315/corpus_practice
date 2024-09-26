@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003497
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 티비 자주 보시나요?
+P0 	: 티비에서 가끔 영화나 무한도전 다시보기같은거 자주봐요
+P0 	: 티비 자주 보세요?
+P1 	: 아~무도 팬이셨군요
+P0 	: 무도 좋아하세요?
+P1 	: 네~예전에는 무조건 본방사수 !!
+P0 	: 그러면 어떤노래 좋아하세요?
+P1 	: 요즘에는 sg워너비요
+P1 	: &name1&님은요!
+P0 	: 저는 퀸이나 리쌍노래가 좋더라구요
+P1 	: 아~ 찾아 들어보진 않았는데 한번 들어봐야 겠어요
+P0 	: 넷플릭스로는 뭐 보세요?
+P1 	: 앗 넥플릭스 안해요ㅠㅠ
+P1 	: 그거 좋나여?
+P0 	: 저는 왓챠로 영화보는데
+P0 	: 좋더라구요
+P1 	: 아~볼게 많은가요?
+P0 	: 볼것도 많고 다른곳보다 싸더라구요

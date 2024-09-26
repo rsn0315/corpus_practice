@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 곰표 콜라보 드셔보셨나요
+P1 	: 곰표..맥주는 마셔봤어요
+P0 	: 오 어떠셨나요?
+P1 	: 저한테는 안맞더라구요..
+P1 	: 뭐드셔보셨어요??
+P0 	: 저는 아이스크림과 나쵸요
+P1 	: 아 다양한제품이 나오네요 맛있나요?
+P0 	: 아이스크림은 느끼했어요 ㅍ
+P1 	: 아..ㅋㅋ아이스크림 느끼하기 힘든데요
+P1 	: 곰표 디자인은 참 이뻣어요
+P0 	: 곰표 아이스크림은 다시 안먹어도 되겠다 하는 후기였습니다^^
+P1 	: 네 좋은 정보입니다 ㅎ
+P1 	: 맥주도 다시는 안사먹을려구요 ㅎ
+P0 	: 어떤 점이 입맛에 안맞았나요!
+P1 	: 맥주가 싱겁고 썼던 기억이 있어요 
+	  2모금 마시고..안마셨어요 ㅎ
+P0 	: 근데 다들 곰표 맥주 구하려고 바쁘더라구요..ㅋ

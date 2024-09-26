@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100004259
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 학교 다녀?
+P0 	: 응응 대학교
+P0 	: 너는?
+P1 	: 나도! 이제 곧 개강이네ㅜㅜ
+P0 	: 그러게.. 수강신청은 했어? 나는 23일이야
+P1 	: 바로 다음주네? 응 수강신청은 지난주쯤? 한 거 같애
+P0 	: 원하는 수업 잘 잡았어?
+P1 	: 응 나는 들을 거 별로 없어서 수강신청 수월하게 했어
+P1 	: 수강신청 잘 됐어?
+P0 	: 노노 다음주 월욜이 수강신청이야
+P1 	: 아 수강신청이 23일이라는거구나
+P1 	: 헉 되게 늦네 신청할 거 많아?
+P0 	: 미리 장바구니 담아놔서 한번에 누르기만 하면 되는데
+P0 	: 튕기지만 않았음 좋겠어
+P0 	: 응응 개강은 9월 1일
+P1 	: 잘 됐으면 좋겠다
+P1 	: 나는 이번에 거의 인원초과 안 돼서 그냥 일괄로 처리돼서
+P1 	: 수업은 비대면으로 해?
+P0 	: 오 다행이네
+P0 	: 우리는 비대면 예정이야 너도 그래??
+P1 	: 응 나도 10월정도까진 비대면이더라고
+P1 	: 근데 아직 제대로 된 공지는 없고 기숙사입사할 학생들한테만 얘기했더라

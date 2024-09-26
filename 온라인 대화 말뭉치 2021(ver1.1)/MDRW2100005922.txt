@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100005922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이제 앞으로 위드코로나가 되면 무엇을 가장 하고 싶나요?
+P1 	: 여행요~~
+P0 	: 국내와 해외중 어딜가고 싶나요?
+P1 	: 해외요
+P1 	: 어디가고싶으세요?
+P0 	: 저는 아내와 단풍구경 가고 싶네요
+P0 	: 아내가 단풍을 좋아해요
+P1 	: 아..가을이 딱이네요
+P0 	: 네 아내가 가을을 가장 좋아합니다
+P0 	: 작년엔 보러가지 못했지만
+P0 	: 이번엔 차로 움직이며 볼까합니다
+P1 	: 단풍구경
+P0 	: 아내를 위해 가는 거지요
+P0 	: 아직까진 등산하면서 보기는 좀 힘들 듯하고
+P0 	: 드라이브 하면서 눈으로 구경할까 합니다
+P1 	: 드라이브 좋은것같네요
+P0 	: &name2&은 어디 여행을 가고 싶은가요?
+P0 	: 생각해 놓은 곳이 있습니까?
+P1 	: 부산에가볼생각입니다
+P0 	: 부산 좋지요
+P0 	: 지난 여름은 사람들 많았다고 하는데
+P0 	: 여름 지나서 가는 것도 좋을 듯 합니다
+P1 	: 맞아요

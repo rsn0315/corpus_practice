@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010022
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 무슨게임 하고있어?
+P0 	: 에픽세븐
+P0 	: 유희왕
+P1 	: 요즘 광고많이나오는 리니지는 안해?
+P1 	: 게임광고가 무슨영화광고 같더라
+P0 	: 리니지는 제스타일이 아니라...
+P1 	: 넌어떤 스타일 게임좋아하는데?
+P0 	: 전 rpg
+P0 	: 별이되어라 같은 게임이요
+P1 	: 유희왕게임은 카드게임이야?
+P0 	: ㅇㅇ 다들 만화로알고있는데
+P0 	: 게임으로도 나왔음
+P1 	: 너 게임 랭킹높아?
+P1 	: 맨날겜하니까 순위높겠네
+P0 	: 하핳....
+P0 	: 아니높진않은뎅...
+P1 	: 아그럼 프로게이머는 꿈도꾸지말아야겠다
+P0 	: 흥
+P0 	: 어차피 게이머할 생각없었어요

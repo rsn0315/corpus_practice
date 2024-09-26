@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012118
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 여행 어디로 가셨어요?
+P0 	: 저는 속초 짧게 다녀왔어요ㅎㅎ 어디 다녀오셨어요?
+P1 	: 저도 안면도 1박2일로 다녀왔어요. 잠깐이라도 바다 보려고요.
+P0 	: 여름인데 바다 안볼수가 없더라구요ㅎㅎ 예전같았으면 해외도 생각했을텐데ㅜㅜ
+P1 	: 맞아요ㅠㅠ가까운 일본이나 중국이라도 가고 싶었는데ㅠㅠ
+P0 	: 맞아요...진짜 답답하구...갈수도 있긴한데 2주 자가격리ㅋㅋㅋㅋ휴가를 그렇게 낼수가 없잖아요ㅋㅋ
+P1 	: 맞아요ㅋㅋㅋ 차라리 안가고 말죠ㅠㅠ 국내에서라도 여행 간 느낌 내고 싶어서 오션뷰로 펜션 찾았었네요ㅜㅠ
+P0 	: 아 저도 속초 다녀오긴 했는데...다녀온거 같지도 않고ㅜㅜ호캉스 알아보구 있어요ㅠ
+P1 	: 호캉스 좋죠. 푹신한 침대에서 시원하게 쉬다오면 좋을 것같아요.
+P0 	: 네ㅎㅎ 이렇게 여름을 보내긴 아쉬워서ㅋㅋ연말엔 여행 갈수있었으면 좋겠어요
+P1 	: 저는 9월 말에 백신 2차까지 다 맞아서 10월에는 드라이브라도 가보려고요
+P0 	: 오 저도 그런데ㅎㅎ 백신접종자는 여행가도 된다고 권고좀 해줬으면...ㅎㅎ
+P1 	: 그러게요ㅠㅠ 빨리 제한이 풀렸으면 좋겠어요
+P0 	: 그러게요ㅎㅎ

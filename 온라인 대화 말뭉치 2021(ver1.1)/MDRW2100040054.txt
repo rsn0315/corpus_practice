@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040054
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어제 면접 봤는데 오랜만에 정장을 입으니까 살찐게 너무 티가 나 슬펐어요
+P0 	: 운동 좀 해야겠어요
+P1 	: 아 다이어트 정말 어려운 것 같아요
+P0 	: 뱃살이 너무 많이 쪘어요
+P1 	: 운동 배우러 다녀보신 적 있으신가요?
+P0 	: 내 수영 이 3년 정도 배웠어요
+P1 	: 전 어릴 때 방학에 배우러 다녔는데 영 소질이 없더라구요ㅋㅋㅠ
+P1 	: 수영 엄청 잘하시겠어요
+P0 	: 엄청 잘 아는 편은 아니고요 어릴 때 몇 살 때 가셨어요?
+P1 	: 6학년 때였나 여튼 저만 진도를 못 따라갔던 기억이..
+P0 	: 저는 5학년때 배웠는데 &name2&님이랑 똑같은거 느꼈어요
+P0 	: 근데 크고나서 생각해보니 거기서 잘하는 애들 중에 진짜 잘해서 그런애들도 있고
+P0 	: 같은 수업 자꾸 들어서 저보다 잘하는 경우가 있다는걸 알았어요
+P1 	: 전 아예 자유형도 기초부터 못 따라가서..ㅋㅋ 워낙에 몸치기도 하구요
+P0 	: 수영이 꾸준히 배우면 익혀지더라구요
+P0 	: 그게 좋았어요
+P1 	: 전 사실 자전거도 못 타요ㅎㅎ 균형을 못잡겠더라구요
+P0 	: 그렇군요 저도 못타요

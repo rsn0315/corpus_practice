@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100017653
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁드셨나요?
+P1 	: 네네 먹었어요
+P0 	: 뭐드셨어요?
+P1 	: 김치찌개 먹었어요
+P1 	: &name1&은 저녁 드셨나요?
+P0 	: 네 먹었어요!
+P1 	: 어떤 거 드셨나요?
+P0 	: 새우찜먹었어요
+P0 	: 룸메가 백신을 맞아서 든든하게 먹을려고요
+P1 	: 와 새우찜 대박
+P1 	: 저 새우 좋아해요
+P1 	: 룸메 덕이려나요 ㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋ덕이죠!
+P0 	: 새우 언제나 좋죠ㅠㅠ
+P0 	: 뭘해먹어도 좋지않나요
+P1 	: 알리오올리오 진짜 좋아해요
+P1 	: 근데 이건 새우 때문도 있고 마늘 때문도 있어요
+P0 	: 헉 저도 알리오올리오 좋아해요
+P0 	: 오일파스타 너무 맛있죠
+P0 	: 간단하면서도요ㅠㅠㅠ
+P1 	: 맞아요 근데 저는 그 맛을 못내겠더라고요
+P1 	: 그냥 사서 먹어요 ㅋㅋㅋ
+P0 	: 집에서 내면 이상하게 맛이 덜나죠ㅋㅋㅋㅋㅋ
+P0 	: 식당에서는 양파랑 굴소스로 어떤 조미료처럼 만들어쓴다고들 하는데
+P0 	: 집에서 그러긴 안쉬우니까요ㅠ

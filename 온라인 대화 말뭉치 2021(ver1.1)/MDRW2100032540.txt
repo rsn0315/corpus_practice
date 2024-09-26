@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&님은 노래 듣는 거 좋아하시나요?
+P1 	: 네네!!노래 듣는거 좋아해요~!
+P0 	: 헛 어떤 가수 좋아하세요 ㅎ.ㅎ !?
+P1 	: 저는 영화노래 좋아하는데 &name1&님은 어때요?
+P0 	: 저는 노래는 장르 가리지 않고 다 들어요!!!!
+P1 	: 오오!!그렇군요
+P0 	: &name2&님은 영화 ost 좋아하시는 건가요 ㅎ.ㅎ !!!!?
+P1 	: 네네!!
+P1 	: &name1&님은 혹시 좋아하는 가수 있으신가요?
+P0 	: 아이돌은 엔시티랑 레드벨벳 노래 자주 듣고요!
+P0 	: 아이유랑 태연 노래 좋아해요!
+P1 	: 헉헉!!그렇군요!!
+P1 	: 아이유...어릴때 노래 많이 들었어요ㅎㅎ
+P0 	: &name2&님이 좋아하시는 노래는 뭔가요!
+P0 	: 하나 추천해주세요 ㅎ.ㅎ
+P1 	: 위대한 쇼맨에 나오는 come alive요!
+P0 	: 헛 한 번 들어봐야겠네요!! 전 그 네버 이너프? 그 노래가 좋더라고요 ㅎ.ㅎ !
+P0 	: &name2&님은 그럼 약간 뮤지컬 영화 좋아하시너요!
+P1 	: 헉헉!!그 노래 마자요!!
+P1 	: 음...뮤지컬 보다는 sf나 판타지, 액션 좋아해요~!

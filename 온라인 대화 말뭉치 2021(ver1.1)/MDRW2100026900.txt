@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 좋아하는 음식 있으신가요?
+P0 	: 저는 피자 넘좋아해여~~
+P1 	: 피자 맛있죠... 어디 피자 젤 좋아하셔요??
+P1 	: 전요즘 피자는 배달로는 거의 못먹어본거같네요ㅜ
+P0 	: 아하! 저는 파파존스피자만먹는거같아여! 여기께 젤 제스탈이라서~~
+P1 	: 아~ 파파존스 맛있죠
+P1 	: 거기 브라우니도 드셔보셨어요?? 잠깐 sns에서 반짝 유행햇던거같은데ㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋ맞아여 여기 사이드맛집이기도하져 ㅋㅋㅋ 근데 저는 잘 안시켜요 ㅋㅋ 피자에만집중하는스타일~
+P1 	: 아하~ 전 피자는 넘 예전에 먹었더니 기억이 쪼끔 가물하네요ㅠ
+P1 	: 먼가 되게 토핑이 많았던거같긴한데 맞나요?
+P0 	: 맞아여!! 토핑푸짐하구 미국맛피자!!
+P1 	: ㅠㅜ 맛있겠다... 이시간에 피자 얘기하니까 넘 배고파요...
+P1 	: 담에 제몫까지 드셔주세요ㅋㅋㅋㅋ
+P0 	: 넹 ㅋㅋㅋ 지금냉동실에 두조각있는데 낼아침에 데워먹을게요~ㅋㅋㅋㅋ
+P1 	: 아~~~넘부러워요ㅜㅜ 맛있게드세요!!!
+P0 	: 넵 ㅎㅎ 벌써부터 침이고이네요 ㅋㅋ

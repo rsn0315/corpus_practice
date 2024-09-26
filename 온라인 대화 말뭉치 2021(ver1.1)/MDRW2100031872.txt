@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100031872
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P0 	: 날씨가 선선해지면서 가을이 성큼 다가왔습니다
+P0 	: 가을이오면 어느 것이 가장 기대되시나요?
+P1 	: 기대까지되는건없고 날씨가 좋아 기분이 좋네요
+P1 	: 화창하고 깨끗해서
+P0 	: 한동안 가을장마라고 2주정도 비가 오더니
+P0 	: 주말부터 날씨가 좋아져서 정말 좋습니다
+P1 	: 날씨요즘넘좋아요
+P0 	: 이제 진짜 가을이 오려나 봅니다
+P1 	: 하늘 진짜예뻐요
+P0 	: 좀전에 산책 다녀왔는데 좋더군요
+P1 	: 벌써요?
+P1 	: 일요일인데 부지런하시네요..
+P0 	: 제가 아침에 일찍 일어납니다
+P1 	: 아침형인간이시군요..대부분일요일은 늦게일어나는데
+P0 	: 맞습니다
+P0 	: 항상 일찍 일어납니다
+P0 	: 습관이에요
+P1 	: 날씨좋아서 산책하기좋으셨겠어요
+P1 	: 저도이제일어나려구요
+P0 	: 산책하기 아주 좋은 아침이었지요
+P0 	: 가을은 걷기에 좋은 계절입니다

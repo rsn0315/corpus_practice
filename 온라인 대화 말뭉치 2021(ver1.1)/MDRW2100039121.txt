@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100039121
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근.잘 산템 있으신가요
+P1 	: 최근에 할인받아서 샴푸샀어요
+P0 	: 와 무슨 샴푸에용
+P1 	: 헤드앤 숄더요. 맨솔 쓰는데 좋더라구요
+P0 	: 오 멘솔 시원할거같아여
+P0 	: 저도 샴푸 살때가 다가왔는데
+P1 	: 바디워시도 잔뜩구매했어요 ㅋ
+P0 	: 우와 어디꺼 사셨어요
+P1 	: 해피바스꺼요 ㅋ 찾아보면 세일해요
+P0 	: 와 그런가요 찾아볼게요
+P1 	: 최근에  어떤거 구매하셨나요?
+P0 	: 저 방금 니트랑 바지 구매하고와싼용
+P1 	: 가을옷 구매하셨군요
+P0 	: 네네 고민 엄청 하다가 샀어요
+P0 	: 최근에인테리어를 바꿨는데
+P0 	: 이케아조명 맘에둘어요

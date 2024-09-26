@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100046349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P0 	: 반갑습니다
+P1 	: 안녕하세요!
+P1 	: 점심 드셨나요~?
+P0 	: 네네 방금 배불리 먹었습니다
+P0 	: 식사하셨어요?
+P1 	: 네! 점심을 살짝 늦게 드셨네요~?
+P1 	: 뭐 드셨어요?!
+P0 	: 회사 식당에서 수제비나와서 먹었네요ㅎㅎ
+P1 	: 회사 식당 부러워요 ㅠㅠ
+P1 	: 메뉴 고민할 필요는 없겠어요!
+P0 	: 그렇긴하죠. 근대 이젠 회사밥에 익숙해져서 맛이 별로 없어요ㅜㅜ
+P0 	: &name2&님은 식사는 하시고 일하시는거에요?
+P1 	: 그럼요! 저는 오늘 베이컨 치즈버거 먹었어요 ㅎㅎ
+P1 	: 가끔 외식도 하세요?
+P0 	: 오 맛있는거 드셨네요. 제가 햄버거를 좋아해서~^^
+P0 	: 요즘 코로나때문에 외식은 자제하고있어요ㅜㅜ
+P1 	: 저희 회사 앞에 새우패티 버거가 있는데 진짜 맛있거든요....
+P1 	: 앗 이제 규제 좀 풀려서 밖에 사람들 많아질 것 같아요 ㅠㅠ
+P0 	: 소개해 주세여ㅎ 기회가된다면 가보고싶네요
+P1 	: 어떤 음식 좋아하세요?
+P0 	: 저는 육류는 왠만하면 다 좋아합니다
+P1 	: 오오 그럼 새우버거보다는 불고기 버거를 좋아하시겠네요 ..ㅎㅎ
+P0 	: ㅋㅋㅋ그렇게되나요

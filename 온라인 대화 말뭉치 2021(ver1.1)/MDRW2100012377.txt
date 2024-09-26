@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012377
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연이나 전시회 자주 보러 가시나요?
+P0 	: 영화 좋아해요!
+P1 	: 오 영화 어떤 장르 좋아하시나요?
+P0 	: 액션이요ㅎㅎ
+P1 	: 액션이면.. 마블 같은 거 좋아하시나요?
+P0 	: 마블 빠입니다ㅎㅎ
+P1 	: 오 마블... 전 친구가 보러가자해서 몇번 보러 갔었는데
+P0 	: 마블 꼭 챙겨봅니다저는
+P1 	: 세계관을 몰라서 스토리는 모르고 그냥 액션씬만 보고왔거든요
+P0 	: 액션씬도좋죠ㅎㅎ
+P1 	: 보통 시리즈 다 보면 뭔가 이해가 되는 편인가요?
+P1 	: 제가 띄엄띄엄봐서..
+P0 	: 네네 다보면 됩니다ㅎㅎ

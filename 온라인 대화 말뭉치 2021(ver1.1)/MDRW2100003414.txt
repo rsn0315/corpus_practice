@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 결혼하셨어요?
+P1 	: 아뇨~ 아직 혼자에요ㅎ
+P0 	: 이상형은 어떻게 되세요?
+P1 	: 아, 다정다감하고 재미있고 책임감있는 사람이요
+P0 	: 외모는 어느편이 좋아요?
+P1 	: 보통?좋은데  잘생긴편도 좋아해요ㅎ
+P0 	: 외국인도 상관없어요?
+P1 	: 으흠 대화잘통하면 연애는 좋아요
+P0 	: 키는 얼마정도면 좋을거같아요?
+P1 	: 170이나 이상이요~
+P0 	: 신혼여행으론 어디 가시고 싶으세요?
+P1 	: 유럽쪽이요~~
+P0 	: 유럽 중에 어디가 좋을거같아요?
+P1 	: 파리요~

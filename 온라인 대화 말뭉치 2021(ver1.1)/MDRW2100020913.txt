@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020913
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이번주 습하더니 오늘은. 맑아요
+P0 	: 거긴 비안오나요?
+P0 	: 저는 출발할땐 맑고 덥더니
+P0 	: 세종 도착하니 흐리고
+P0 	: 빗방울이 한두방울 떨어지네요
+P1 	: 오늘 날씨 맑고 비올것  같지 않아요
+P1 	: 아침에비해 살짝 덥네요
+P0 	: 기상청이 안맞는건지 ㅋ
+P1 	: 잘 안맞죠 ㅋ 지난주 지지난주 외출할때 우산 필수
+P0 	: 스콜처럼 왔다가서 ㅜㅠ
+P0 	: 황당했어요
+P1 	: 동남아 날씨랑 비슷해지는것 같아요
+P1 	: 봄 가을 짧고 여름덥고..장마처럼 비오기 보다 스콜같이 ㅇ비왔다 그치고
+P0 	: 맞아요 동남아 딱 그날씨예요
+P1 	: 미세먼지 없어서 좋네요
+P0 	: 맞아요 요새는 황사 미세먼지 이야기가 없네요
+P0 	: 더우면 더워서 못나가고
+	  안더우면 미세먼지땜에 못나가고
+	  아니면 이젠 추워서 못나가네요 ㅎㅎ
+P1 	: 이번주 비오면서 날씨가 갑자기 추워졌어요.
+P0 	: 글쵸 반팔이 이제 스산한기분이 들어요
+P0 	: 커피도 따뜻한걸 찾게되구요
+P1 	: 따뜻한 커피의 계절다가왔어요
+P0 	: 맞아요 따뜻한 맥심 마셨어요 ㅎ

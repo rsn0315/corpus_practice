@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100036987
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 최근에 구매한 물건이 있으신가요~?
+P1 	: 책샀어요 ㅋㅋ 일러스트레이터 책이요
+P0 	: 우와 그림 잘 그리시는군요?!
+P0 	: 혹시 아이패드에
+P0 	: 프로크리에이터도 사용하시나요?
+P1 	: 아뇨 아이패드가 없어요
+P1 	: 조금씩 배우려는 입장이라 잘그리진못해요
+P0 	: 앗 그러시구나
+P0 	: 그러면 컴퓨터로 그리시려는건가요?
+P1 	: 네 액정타블렛 사놨어요
+P0 	: 왠지 비쌀 것 같아요 타블렛...!!!
+P1 	: 네 비싸요
+P1 	: 젤비싼모델은 삼백 넘어요 ㄷㄷㄷ
+P0 	: 와 세상에
+P0 	: 아이패드보다 훨~~~씬 비싸네요???
+P0 	: 저는 지금까지 아이패드를 비싼 물건의 대명사 쯤으로 생각하고 있었는데!!!
+P1 	: 진짜 비싸죠 저도 이런게 있는지 몰랐는데 3백 넘는다는 말 듣고 진짜 놀랐어요
+P0 	: 와....
+P0 	: 그럼 진짜 그림을 업으로 하시는 분들이 주로 구매하시겠네요
+P0 	: 아이패드 프로도 그렇게 비싸고 좋다는데!
+P1 	: 웹툰 작가 일러스트레이터 같은 사람들이 그런 물건을 쓴다고 하더라구요
+P0 	: 와 그런 분들은 정말 사실만 하네요!!

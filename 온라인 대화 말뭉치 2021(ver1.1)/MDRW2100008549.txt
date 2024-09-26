@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008549
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 위한 노력을 하시나요
+P1 	: 운동하고있어요
+P1 	: 필라테스해요
+P1 	: 운동하시는거 있으세요?
+P0 	: 필라테스 어렵지않나요
+P1 	: 어렵지않아요
+P1 	: 허리아파서 시작했는데 이젠 안아파요
+P0 	: 저도 허리가 아픈데 필라테스가 도움 되나요
+P1 	: 필라가 코어운동이라
+P1 	: 코어잡히면 허리아픈거에 도움되요
+P0 	: 아 ? 코어운동 알아보고 싶어지네요
+P1 	: 저는 출산하고 허리 다쳐서 도수 치료받다가
+P1 	: 이비용으로 필라시작해봐야겠다싶어서 했는데
+P1 	: 도움많이 되더라구요
+P1 	: 도수치료 한번받는데 비용이 2~30만원 우습더라구요
+P0 	: 도수치료 넘 아프고 힘들어요
+P1 	: 운동이 남는거더라구요
+P0 	: 그렀긴 하죠 나중에 안 아프려면 운동 해야죠
+P1 	: 맞아요
+P1 	: 체력이 되야 멀해도 하겠더라구요
+P0 	: 유산소 운동 걷기 달리기 하죠

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100006358
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네네
+P1 	: 여러 룸메들과 살아본 결과 역시 혼자사는게 제일 편하다는 생각을했습니다
+P1 	: 자취는 얼마나 오래 하셨어요?
+P0 	: 8년쯤 된 것 같네요
+P0 	: 그전에는 기숙사 생활 햇어요
+P1 	: 와 진짜 오래하셨네요
+P1 	: 자취하면 생활비 많이 나가지 않아요?
+P0 	: 네 많이나가죠 ㅠㅠㅋㅋㅋㅋㅋㅋ
+P1 	: 저도 자취할때 사야 할것도 많고
+P1 	: 그래도 그 자유로움은 너무 좋아요
+P0 	: 네 저도 기숙사 생활하면서 온갖 룸메 많이 만나서 ㅋㅋㅋㅋㅋㅋ
+P0 	: 혼자 사는게 편하다는걸 깨달앗죠
+P1 	: 본가는 얼마나 자주 가세요?
+P0 	: 코로나때문에 자주 못가요 ㅠㅠ
+P1 	: 아 안타깝다
+P1 	: 저도 부모님댁 못간지 꽤됐는데
+P1 	: 빨리 추석되서 가고 싶네요
+P0 	: 저도요 ㅋㅋㅋㅋ
+P1 	: 본가가 많이 멀어욫?
+P0 	: 네 좀 멀어요
+P0 	: &name2&님은 부모님댁이 멀어요?
+P1 	: 저는 자가용으로 세시간 정도 걸려요

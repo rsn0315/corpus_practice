@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 홍삼 사야 하는데
+P0 	: 맞아 정관장 홍삼
+P0 	: 얼마 주면 돼?
+P1 	: 아직 주문 안 했어 이제 할게
+P1 	: 너는 드러이기 언제 살 거야?
+P1 	: 다이슨
+P0 	: 천천히 해도 돼 난 추석 끝나고 지원금 받으면 살래
+P0 	: 다이슨 체험해보고 싶오
+P1 	: 홍대에서 체험할 수 있대 체험하고 구매해
+P0 	: 그래야겠다 너무 먼데 다른지점도 있는지 찾아봐야지
+P0 	: 너도 살의향 있어?
+P1 	: 너 사면 써 보고 살래 드라이기
+P0 	: 그래 좋아
+P0 	: 그게 롱버전이 있고 보통이있다는데 난 보통으로 사도 되겠지
+P1 	: 머리 기를 생각이면 롱버전 드라이기가 좋지 않을까?
+P0 	: 아 그런가 고민이네
+P0 	: 가격차이가 있는 것 같더라고
+P0 	: 써보고 결정하겠어
+P1 	: 중고나라에서 싸게 파는데 중고는 별로니?
+P0 	: 중고도 좋아 알아보는게 귀찮을뿐
+P1 	: 맞아 새거로 구매하자

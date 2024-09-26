@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041255
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 좋아 하시나요
+P0 	: 아니요 &name2&님은 좋아하시나요?
+P1 	: 전 집안일중 청소가 제일싫어요
+P0 	: ㅋㅋㅋㅋ그렇죠
+P0 	: 그럼 그나마 나은 집안일은 무엇인가요?
+P1 	: 요리가 나아요
+P1 	: 그리고 빨래 요
+P1 	: 어떤가요
+P0 	: 저도 빨래가 그나마 괜찮고 설거지랑 청소가 정말 싫은 것 같아요
+P1 	: 청소중 욕실 청소가 최악이죠
+P0 	: 그러니까요 찌린내가 정말 최악이죠ㅋㅋㅋㅋ
+P1 	: 곰팡이도 찌든때도 참 어려워요
+P0 	: 게다가 락스냄새는 정말 어지럽더라고요
+P1 	: 그래도 락스가 청소엔 짱이죠
+P0 	: 맞아요 그래서 어지럽거나 냄새나도 쓰는거죠ㅋㅋㅋ
+P1 	: 문 활짝 열고해야지 
+	  안그렁 큰일나요
+P0 	: 맞아요

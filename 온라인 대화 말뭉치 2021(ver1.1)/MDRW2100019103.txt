@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100019103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 치킨 좋아하세요?
+P1 	: 네 어제 치킨시켜먹었어요
+P0 	: 오 어떤 거 시켜드셨나요?
+P1 	: bhc 치킨 시켜먹었습니다
+P0 	: 저도 bhc 좋아하는데 맛있죠ㅎㅎ
+P1 	: 치킨 어디브랜드 좋아하시나요?
+P0 	: 저는 교촌이랑 처갓집 자주 시켜먹어요!
+P1 	: 교촌 처갓집 맛있죠
+P1 	: 처갓집은 역시 양념이죠
+P0 	: 맞아요 슈퍼슈프림 젤 좋아해요 ㅎㅎ
+P0 	: 양념이 달달해서 맛있더라구요
+P1 	: 예전에 트러플슈프림?
+P1 	: 한번 먹어봤었는데
+P1 	: 그건 좀 다른 느낌이었던거같아요
+P0 	: 오 그건 안먹어봤어요 별로였나요...?
+P1 	: 약간 특이한맛이었어요
+P1 	: 역시 처갓집은 슈프림이 젤 무난한거같아요
+P1 	: 교촌은 어떤 메뉴 먹으시나요
+P0 	: 트러플이라 그랬었나봐요 ..!
+P0 	: 교촌은 허니콤보자주 먹고 트리플순살..? 새로나온것도 맛있어서 자주 먹었어용
+P1 	: 트리플순살은 뭐죠? 처음 들어봐요
+P0 	: 약간 트러플맛 나는 치즈시즈닝치킨인데 맛있더라구요!
+P1 	: 아 그렇군요 저는 교촌은 허니콤보랑 레드콤보
+P1 	: 이거말곤 먹어본적이없어요
+P0 	: 그 두개가 제일 무난하죠
+P0 	: 후라이드도 먹어보고싶었는데 아직 못먹어봤네요

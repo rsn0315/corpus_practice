@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100047411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 맛잇게.드셧어요?
+P0 	: 네 &name2&님은요?
+P1 	: 저도 맛있게 잘먹었어요 ㅋㅋ
+P0 	: 뭐 드셨나요
+P1 	: 간장 참기름 마늘맛나는 비빔라면에 김치 얇게썬거 비벼서 먹었어요 ㅋㅋ
+P0 	: 와 요리잘하시나요?
+P1 	: 못하는건 아니지만 자기만족을위해 열심히 이것저것 참고하고있어요 ㅎㅎ
+P0 	: 라면 좋아하세요?
+P1 	: 좋아하죠 ㅎㅎㅎ 근데 살찔까봐 많이 못먹어요 ㅠ
+P0 	: 신라면vs진라면
+P1 	: 저는 진라면을 그나마 많이먹긴했어요 ㅋㅋ
+	  신라면을 사먹을기회가 없었거든요 ㅋㅋ이번에 구매햇어요
+P0 	: 저는 진라면 순한맛 좋아해용

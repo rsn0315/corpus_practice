@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100040224
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 라떼는 산미죠
+P0 	: 알았어요 저도 담부턴 라떼는 산미 명심할게요
+P1 	: 명심또명심
+P1 	: 파란보틀 가밧어요?
+P0 	: 아뇨 근데 블루보틀 삼청동점은 예약안하면 못간대요
+P1 	: 헉 ...
+P1 	: 글케인기많나요
+P0 	: 그니까요 한옥이라 그런가
+P1 	: 예약 해주세용 저대신
+P0 	: 요즘엔 음식점도 다 예약해야하더라구요..
+P0 	: 밥 한번 먹기 참 힘드네요
+P1 	: 먹기어렵네요
+P0 	: 사람은 없고 맛집은 많은 동네 없나요
+P1 	: 그런데가 잇을까요
+P1 	: 대전어때요
+P0 	: 대전은 맛집 웨이팅 없나요
+P1 	: 잇긴해요
+P1 	: 님 가시면 프리패스요
+P0 	: 제가 부자도 아니고 프리패스라뇨
+P1 	: 착한분은 프리패스요

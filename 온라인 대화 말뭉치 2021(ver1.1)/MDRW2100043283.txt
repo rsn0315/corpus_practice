@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043283
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가보고 싶은 여행이 있나요
+P1 	: 저는 일본 안간지 꽤되어서
+P1 	: 가까운 일본가고싶네요
+P1 	: 먼곳은 이제 힘들어요ㅠㅠ
+P0 	: 일본 괜찮나요
+P1 	: 그냥 가깝고 저렴한데 외국느낌  나는맛에가는 거같아요
+P1 	: 그리고 일본어를 조금할줄알아서
+P1 	: 의사소통이 편해서요
+P0 	: 일본은 가격이 비싸지 않나요
+P1 	: 아 유럽 호주 미국 이런곳 가는것보단 덜 든다는 뜻이었어요
+P0 	: 아 그렇군요
+P0 	: 일본은 가까워서 가는 시간 많인 안걸리죠
+P1 	: 어디 선호하는 여행지 있나요?
+P0 	: 아직 선호하는 여행지는 없네요
+P1 	: 아 어디 가보고 싶으세요?
+P0 	: 발리 푸켓 이런곳은 신혼여행지라 좀 그런가요?
+P1 	: 아니용 친구들 패키지로 가던걸요
+P1 	: 휴양하기 좋을거같아요
+P1 	: 레포츠같은것도 많이하더라구요
+P0 	: 저도 꼭 가서 레포츠도 해보고 싶어요
+P1 	: 스킨스쿠버나 스쿠버다이빙 같은거 많이하더라구요

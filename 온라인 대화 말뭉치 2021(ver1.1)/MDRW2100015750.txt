@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015750
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요ㅎㅎ
+P0 	: 식사하셨나요?
+P1 	: 아니요 아직 안했어요!
+P0 	: 뭐 드실건가요?
+P1 	: 떡국먹을거같어요!ㅎㅎ
+P0 	: 떡국 좋아하세요?
+P1 	: 떡국좋아해요!!ㅎㅎ&name1&도 좋아하시나요?
+P0 	: 네 사골육수로 하면 꿀맛이죠
+P1 	: 맞아요!!!
+P1 	: &name1&은 저녁 뭐드셨어요?
+P0 	: 타코요
+P1 	: 타코 좋네요! 맛있게 드셨어요?
+P0 	: 네네

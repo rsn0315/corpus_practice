@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100037109
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 저녁 드셨나요
+P0 	: 네 &name2&님은 드셨나요?
+P1 	: 네 어떤거 드셨어요?
+P0 	: 저는 고기 먹었어요
+P0 	: &name2&님은 뭐 드셨나요?
+P1 	: 저는 소고기무국이랑 오징어볶음이요 ㅎㅎ
+P0 	: 맛있었겠네요
+P0 	: 직접 요리하신건가요?
+P1 	: 넵..ㅋㅋ 좌충우돌 요리초보입니다
+P0 	: 저도 똥손이예요
+P0 	: 요리 잘하고싶어요ㅜ
+P1 	: 저도 ㄸ손이예요..ㅋㅋ 애들 먹이려고 어찌어찌 생존요리를..
+P0 	: 그래도 여러가지 하시는게 대단하세요
+P1 	: 만개의레시피 어플 아세요? 도움 많이 받아용
+P0 	: 아 본거같아요
+P0 	: 몇분안돼서 좋은거같아요

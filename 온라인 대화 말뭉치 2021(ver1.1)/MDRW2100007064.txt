@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007064
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 네ㅋㅋ여행 좋아하시나여
+P1 	: ㅋㅋㅋ여행 좋아하죠 가고싶은 곳 있으세요??
+P0 	: 해외요.... 코로나ㅠㅠㅠㅜㅠ
+P1 	: ㅠㅠ해외 어디 가고싶으세요??
+P0 	: 어디든지. . . 국내 재미없어요ㅋㅋ
+P1 	: 그럼 마지막여행은 어디예요?
+P0 	: 국내요? 해외요? ㅋㅋ
+P1 	: 해외는 어디신데요?
+P0 	: 해외는 대만이 마지막이에요~ &name2&님은요?
+P1 	: 저는 일본 오사카가 마지막이었어요~ 대만 진짜 가보고싶어요
+P0 	: 음 대만 좋아요! 좀 깔끔한 중국 느낌이에요
+P0 	: 일본도 좋을거 같은데요?
+P1 	: 일본은 그냥 잠깐 여행가기에 좋은거같아요 맛있는것두 많아요 ㅎㅎ
+P0 	: 그러게요 짧게 다녀오기 좋을듯요!ㅋㅋ 대만은 물가도 싸서 좋아요
+P1 	: 물가도 싸면 진짜 망고 마니 먹을수 있을것 같아요 ㅋㅋㅋ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015694
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 :)
+P1 	: 안녕하세요! 가장 최근에 구매하신 상품이 뭔가요?
+P0 	: 저는 가장 최근에는 옷이요!
+P0 	: 바지를 샀는데 너무 크게 사서 실패했어요 ㅠ
+P0 	: &name2&님은 어떤 쇼핑 하셨나요?
+P1 	: 저는 토니모리에서 기초앰플 구매했어요! 어디브랜드 바지 사셨어요?
+P0 	: 지그재그에서 샀는데 브랜드가 잘 기억은 안나네요
+P1 	: 위시리스트 있으세요?
+P0 	: 저는 판도라 반지 좋아해요
+P0 	: 위시리스트라고 할 수 있겠죠???
+P1 	: 헉 저도요! 하트링 가지고싶어요ㅠㅠ 제 위시리스트는 라코스테 원피스예요!
+P0 	: 아 라코스테 예쁘죠 ㅋㅋㅋ
+P0 	: 저는 라코스테는 신발이 예쁘던데 물론 원피스도 예쁘고요
+P0 	: 아무튼 요즘은 반지? 나 목걸이같은 류들이 좀 사고 싶더라구요
+P1 	: 또 눈여겨보시는 쥬얼리브랜드 있으세요?
+P0 	: 티파니요!
+P0 	: 티파니 그 민트 하트 목걸이도 예뻐서 사고 싶어요
+P0 	: 그거 되게 뭔가 눈에 밟히는 디자인이더라구요
+P1 	: 그 특유의 민트민트가 구매욕 오르게하죠ㅠㅠ
+P1 	: 중고거래 해본적 있으세요?
+P0 	: 넵 사본적은 없고 팔아본 적은 있어요

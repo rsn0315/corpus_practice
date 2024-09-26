@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003773
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요ㅎ
+P1 	: 책뭐좋아하세요?
+P0 	: 저는 철학책이나 만화책 좋아해요
+P0 	: 만화책 좋아하세요?
+P1 	: 만화책좋아해요ㅎㅎ 근데 어릴때좋아했던것밖에ㄹ 요즘꺼는 잘몰라요 ㅡㅎ
+P0 	: 그럼 평소에 어떤책 읽으세요?
+P1 	: 재테크책 많이 읽어요ㅎ
+P1 	: 최근에는 돈요정 밍키언니 책읽었고
+P1 	: 그전에는 주식이랑 코인 책들 위주로요ㅎ
+P0 	: 주식관련 책도 읽어보셨어요?
+P1 	: 주식은 조금밖에 안읽었어요ㅎㅎ 거의 코인위주로 읽고ㅎ 부동산책도 좀보규요ㅎ
+P0 	: 그거 읽고 수익에 영향있었어요?
+P1 	: 음... 조금정도?
+P1 	: 별로 없더라구요ㅎ 정말 전업투자하지않는 이상은 직장인이 시간써가면서 투자하는게 쉽지는 않아요ㅎ
+P0 	: 단기투자 하세요 장기투자하세요?
+P1 	: 전 단기투자에요ㅎㅎ 무조건ㅎ 장투를 해야하는데 잘안되네요ㅎ 하루에 등락을 많이하면 장투하는거랑 똑같애서ㅎ 그러다 물리기도하는데ㅎㅎ 어짜피 내가 사고싶은 가격은 아니었어도 사려고 했던거니 강제 장투가 되죠 ㅡㅎ
+P0 	: 주식은 본업있으면 그냥 재미로 하는편이 좋은거같아요 ㅎㅎ

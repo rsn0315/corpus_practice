@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100023851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용 저녁 식사는 하셨어요~?
+P1 	: 네 일찍 먹었어요~~^^
+	  식사하셨어요?
+P0 	: 네네 저는 방금 카레 먹었어요ㅎㅎ
+P0 	: 어떤거 드셨나요~?
+P1 	: 전 비빔밥이요.
+	  나물이 맛있어서 비빔밥이 생각나더라구요~^^
+P0 	: 우와 비빔밥!
+P0 	: 참기름파이신가요
+P0 	: 들기름파이신가요?
+P1 	: 전 들기름이요!
+P1 	: 그 고소한 냄새는 정말 한그릇 뚝딱 비울 수 있더라구요!
+P0 	: 저도 들기름파에용!ㅎㅎ
+P0 	: 무생채 먹으면 맛있어요ㅎㅎ
+P1 	: 앗 반가워요!
+P1 	: 아 무생채!
+	  무생채도 시도해봐야겠네요~!
+P0 	: 김가루는 넣어드시나용?
+P0 	: 전 조금 넣어먹는뎅!
+P1 	: 네 김가루 조금 깨소금도 넣어서 먹어요~!
+P0 	: 저랑 입맛이 비슷하신것같아요~ㅎㅎㅎ
+P0 	: 비빔밥 땡기네요 갑자기ㅋㅋ
+P1 	: 내일은 비빔밥으로 드세요 
+	  들기름 넣어서~~^^
+P0 	: 네넵ㅋㅋㅋ 나물하려면
+P0 	: 살짝 일이겠네요ㅠㅜㅋㅋ
+P0 	: 불닭볶음면 좋아하세요?

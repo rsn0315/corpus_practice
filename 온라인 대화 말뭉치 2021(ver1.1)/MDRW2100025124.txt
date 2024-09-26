@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 코로나 끝나면 가고싶은 여행지 있으신가요?
+P1 	: 안녕하세요! 저는 프랑스에 가보고 싶어요
+P0 	: 저도 프랑스 가고싶어요 특히 프랑스에 지베르니요
+P1 	: 저는 프랑스 에펠탑 가보고 싶어요
+P1 	: 외국여행 가본 경험 있으세요?
+P0 	: 아니요 저는 제주도가 가장 먼 여행이에요ㅋㅋ &name2&님은 해외 가보셨나요?
+P1 	: 저도 ㅋㅋㅋㅋㅋ 하나 밖에 없어요 어릴때 태국 가본게 다네요
+P0 	: 외국이 쉽게 가긴 힘드니까요 ㅋㅋ아니면 국내 여행은 많이 가보셨나요?
+P1 	: 음 국내는 가평, 강원도, 부산, 제주도? 정도 가봤어요
+P1 	: &name1&님은요?
+P0 	: 저는 강릉, 가평, 여수, 제주도 가본것같아요
+P0 	: 어디가 가장 좋으셨어요?
+P1 	: 저는 부산이 제일 좋았던것 같아요~! 해운대 바다가 진짜 예쁘더라구요
+P0 	: 뭔가 여행하면 제주도, 부산이 생각나는데 저는 부산은 한번도 안가봤네요 다음에 꼭 부산도 가봐야겠어요
+P1 	: 부산은 낙곱새랑 국밥이 유명하니깐 꼭 가보세요! 그리고 저녁에 밤바다 산책도 너무 좋아요 ㅎ
+P1 	: &name1&님은 어디가 가장 좋으셨어요?
+P0 	: 낙곱새는 다들 추천하네요 ㅋㅋ위에는 까먹고 못적었는데 통영 좋았어요

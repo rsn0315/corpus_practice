@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034193
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 소개팅 많이 해보셨나요
+P0 	: 많이는 못해봤네요ㅠ
+P1 	: 그러셨군요 사부님은 어떻게 만나셨어요
+P0 	: 소개팅이여ㅎ
+P0 	: 이상형이랑 결혼하셨나요?
+P1 	: 흠..모르겠어요?..ㅋㅋ &name1&님은요?
+P0 	: 음.....
+P0 	: 하...
+P1 	: 음..다른 이야기로 넘어갑시다
+P1 	: ㅋㅋㅋ 좋아하는 데이트는 뭐였나요
+P0 	: 전 대화잘통하는게 좋더라고요
+P1 	: 맞아요 그럼 지금도 사부님과 대화는 잘 통하시나요?
+P0 	: 하....
+P1 	: 질문이 별로죠.. 전 안되서 여쭤봤어요..ㅋ 부러워라도 하려구요
+P0 	: ㅋㅋㅋㅋ

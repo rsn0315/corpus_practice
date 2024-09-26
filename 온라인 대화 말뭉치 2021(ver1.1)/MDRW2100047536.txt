@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100047536
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 졸업하셨나요 ??
+P1 	: 네 님은요?
+P0 	: 저도 졸업했어요 ㅎㅎ 학교 생활 어떠셨어요?
+P1 	: 다니기 싫었어요
+P0 	: 저두요ㅋㅋ 수업듣는게 너무 싫었어요
+P1 	: 어떤 수업이 싫으셨나요?
+P0 	: 저는 해부학을 젤 싫어했습니다 ㅎㅎ
+P1 	: 의대생이세요?
+P0 	: 아니요 ! 보건계열이였어요 ㅎㅎ
+P1 	: 동아리 해보셨나요?
+P0 	: 네 해봤어요 ! ㅎㅎ
+P1 	: 어떤 동아리요?
+P0 	: 사진 동아리였어요 !

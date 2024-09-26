@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022569
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교 있으신가요
+P1 	: 아뇨 무교에요.. 있으세요?
+P0 	: 네 저는 기독교예요~
+P1 	: 모태신앙인가요? 가족들도 교인이세여?
+P0 	: 네 모태신앙맞아요^^
+P1 	: 오.. 성격 몇회독하셧나염?
+P0 	: 글쎄요 부끄럽지만 제대로 한적이 ㅠㅠ
+P1 	: 요즈 구약은 왠만해서 안 읽됴?
+P0 	: 골고루 읽는 것 같아요 저는 순서대로 필사를 해보고 있어요
+P1 	: 시간 엄청 걸리겠어요..
+P1 	: 주위에 하시는준 많아요?
+P0 	: 아뇨.. 주변에 많이는 없는듯해요 저도 한해에 불가하지 싶어요^^
+P1 	: 오늘 교회갓다오셧어용? 비대면?
+P0 	: 아뇨 최근 2년동안 대면 예배 참석이 드물게 되네요

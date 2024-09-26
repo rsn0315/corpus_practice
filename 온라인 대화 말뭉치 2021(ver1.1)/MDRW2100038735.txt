@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100038735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 나으 해방 일지 라는 드라마도 있네
+P0 	: 드라마 정말 많네요
+P0 	: 여긴 주인공이 누구예요?
+P1 	: 이건 이제 내년 방송예정
+P0 	: 이민기 김지원이 주연이네요
+P0 	: 나의 아저씨 작가네요
+P1 	: 여주는 김지원이다
+P0 	: 이민기는 별로 맘에 안들어요
+P1 	: 노답 인생에서 탈출을 원하는 세남매와 미스터리 외지인
+P0 	: 미스터리 외지인은 누구죠?
+P1 	: 출연진이 좋은듯
+P0 	: 무엇보다 작가가 맘에 들어 보고 싶네요
+P1 	: 손석구가 미스터리 외지인
+P0 	: 아 손석구 연기 잘 하던데
+P1 	: 세남매의 아버지가 천호진

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100032566
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 ~
+P1 	: 부먹이세요 찍먹이세요??
+P0 	: 저는 찍먹이요
+	  &name2&님은요
+P0 	: ????
+P1 	: 오 저도 찍먹이예요!
+P0 	: 똑같네요ㅋㅋㅋ
+	  좋아하시는 음식 있으세요?
+P1 	: 그렇지만 부어 먹어도 바삭하면 부먹도 먹어욬ㅋㅋㅋ
+P1 	: 좋아하는 음식은 너무 많아서..ㅎ 가리기가 힘들죠..
+P1 	: &name1&님은 최애픽 있나요??
+P0 	: 저는 떡볶이요
+P0 	: 떡볶이 좋아하시나요?
+P1 	: 아 떡볶이 엄청 좋아하죠 !!
+P1 	: 엽떡으로 엄청 많이 시켜먹어요
+P1 	: &name1&님은 시켜드시나요 만들어드시나요??
+P0 	: 저도 시켜먹어요
+P0 	: 떡볶이는 배달을 못이기겠더라고요ㅋㅋㅋ
+P0 	: &name2&님은 어떠신가요?
+P1 	: 저도 시켜먹어요! 집에서 만들어 먹어도 그 맛이아니라서.. ㅎ
+P1 	: 게다가 저는 떡볶이 먹을 때 이것저것 같이 먹는걸 좋아해서
+P1 	: 집에서 만드는 걸로는 절 만족시키지 못하죠 ㅋㅋㅋㅋㅋ
+P1 	: 주로 어디서 시켜드세요??
+P0 	: 저도 엽떡이요ㅋㅋㅋㅋ
+P1 	: 엌ㅋㅋㅋㅋ
+P0 	: 비싸긴한데 맛있어서 먹어요ㅋㅋㅋㅋ

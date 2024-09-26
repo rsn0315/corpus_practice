@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 오늘 비가 왔나요?
+P1 	: 오늘 너무 맑았어요!!
+P0 	: 제가 사는 곳도 오늘 맑았어요
+P0 	: 낮에는 조금 더웠는데 해지니까 시원하더라구요
+P1 	: 약간 여름이 가기전 더위가 힘을 쥐어짜는 느낌이에요 ㅋㅋㅋ
+P1 	: 그래도 바람이 선선해요 ㅋㅋ
+P0 	: 맞아요
+P0 	: 확실히 한참 더웠을 때랑은 다르네요
+P1 	: 확실히 가을이다 싶어요!! 가을 좋아하세요?
+P0 	: 가을 좋죠
+P0 	: 덥지도 춥지도 않은 날씨를 좋아합니다
+P0 	: 단풍도 예쁘고요
+P1 	: 봄가을 너무 좋은데 알레르기 때문에 여름이 좋아졌어요 ㅋㅋ
+P0 	: 혹시 알레르기성 비염 있으신가요?
+P1 	: 네네 ㅜㅜ 꽃가루 ㅜㅜ
+P0 	: 저두 심해요ㅜㅜ
+P0 	: 여름이 숨쉬기 좋은 계절이잖아요
+P0 	: 근데 또 요즘은 여름도 선풍기나 에어컨 때문에..ㅜㅜ
+P1 	: 맞아요맞아요 ㅜㅜ 자유롭게 숨쉴수있는시기가 많지도 않아요 ㅜㅜ ㅋㅋ
+P0 	: 가을 오는 것도 코가 먼저 알게 되지 않나요?ㅎㅎ
+P1 	: 정말그래요 ㅜㅜ벌써 훌쩍이기 시작해요

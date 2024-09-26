@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030526
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 내일 뭐드세여
+P1 	: 아직 모르겠어요
+P0 	: 저희집은 중국집에서 시킬것같아요.
+P1 	: 중국집에서 시킬 때 어떤 메뉴로 주문하시나요?
+P0 	: 저는 볶음밥이요.
+P0 	: 님은?
+P1 	: 저도 최근에는 볶음밥을 골랐어요
+P0 	: 국물도 줘요?
+P1 	: 하지만 짜장면 주문한 사람과 조금씩 나누어 먹었죠
+P1 	: 짬뽕국물요?
+P0 	: 오... 네
+P1 	: 정확히 기억나지는 않네요
+	  받은듯도 하고 아닌듯도 하고
+P0 	: 만약에 시키게되면 어떻게 나오지 궁근하네요
+P1 	: 국물 오는거 좋아하시나요
+P0 	: 네 입가심이요

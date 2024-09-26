@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100029745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장인이신가요?
+P1 	: 네 &name1&은요?
+P0 	: 저도 직장인이에요
+P0 	: 퇴근하고 싶네요...
+P1 	: 그쵸 날씨도 모처럼 맑고 퇴근하고 싶네요
+P1 	: 와아... 금요일...이다...
+P0 	: 월요일에 연차 내서 더더욱 퇴근이 고파요
+P0 	: 오늘만 끝나면....
+P1 	: 와 부러워요 3일 내리 쉬쉬는구나
+P1 	: 3일간 자유라니ㅠㅠㅠ
+P0 	: 남은 연차로 추석이랑 대체공휴일 포함해서
+P0 	: 2주에 한번씩은 주4일제를 하는 게 목표예요
+P1 	: 오 좋은 생각인 거 같아요ㅋㅋㅋㅋㅋ 점진적으로 주 4일제 되었으면 좋겠네요 ^^
+P0 	: 예전에는 주6이었을텐데 진짜 너무 힘들었을 것 같아요
+P1 	: 그쵸그쵸 그때는 연차개념도 없고 여름휴가 이런 케이스였으니까
+P1 	: 어떻게 다니셨을까 싶고...
+P0 	: 주 4일제가 되면 지금을 신기하게 생각하겠죠?
+P1 	: 그렇겠죠? 유럽쪽은 주4일제 시작한 나라도 있고 국내도 슬슬 논의해봐야할 단계 라고 작년 쯤에 기사를 봐서
+P1 	: 빨리 왔으면 좋겠어요ㅋㅋㅋㅋ
+P0 	: 4일제되면
+P0 	: 무슨 요일에 쉬었으면 좋겠어요?
+P1 	: 저는 수요일이요ㅋㅋㅋㅋ &name1&은요?

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100012911
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 비가 자주 오는 거 같아요
+P1 	: 그러게요 우산없이는 못 다닐 것 같아요
+P1 	: 계신 곳은 비 많이 오시나요?
+P0 	: 새벽에 잠깐 그쳤다가 지금도 막 쏟아져요
+P0 	: 용용님 지역에도 비가 많이 오나요
+P1 	: 외출하실때 조심하셔야겠어요 ㅠㅍ
+P0 	: 그러게요 비 오는 날은 좀 위험한 거 같아요
+P1 	: 제가 있는 곳은 이젠 좀 그쳤는지 우산을 쓰기도 안쓰기도 애매하게 비가 오고있어요
+P1 	: 맞아요 바닥도 미끄럽고 웅덩이도 많아요 ㅠㅠ
+P0 	: 애매하게 내릴 때가 가장 좀 그래요 우산을 즐기도 안 들기도 뭐 한...ㅎ
+P0 	: &name2&님도 조심하세요
+P0 	: 좋아하는 계절이 있나요
+P1 	: 감사합니다~ 이번주는 외출을 최소한으로 해야겠어요
+P1 	: 저는 봄 좋아해요~
+P1 	: 뭔가 겨울 지나서 푸르고 새싹 돋는게 좋더라구요ㅎㅎ
+P0 	: 꽃이 피는계절
+P0 	: 뭔가 새로 시작되는 그 느낌이 좋으신가봐요
+P1 	: 맞아요! 알록달록 꽃들도 좋아요~
+P1 	: &name1&님은 어느계절 좋아하세요?
+P0 	: 저는 늦여름을 좋아하는데..
+P0 	: 올해의 늦 여름은.. 장마로 뒤덮혀버렸네요ㅎ
+P1 	: 아쉬우시겠어요 ㅠㅠㅠ
+P1 	: 늦여름을 좋아하시는 이유가 있으신가요?
+P0 	: 맞아요ㅠ 덥지도않고 약간 선선한바람 부는게좋아요

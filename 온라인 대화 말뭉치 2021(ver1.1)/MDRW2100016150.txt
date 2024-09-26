@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100016150
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당근 자주 사용 하시나요?
+P0 	: 몇번 사용했어요
+P0 	: 중고거래 많이 해보셨나요?
+P1 	: 인터넷서점으로는 자주 구입하는 편입니다
+P1 	: 막상 제가 팔려니 신경 쓸 일이 많아서 주저하게 되요
+P0 	: 맞아요. 사기도 조심하게 되구요.
+P0 	: 거래할 물건이 있으세요?
+P1 	: 네 예전엔 직접 만나서 서로 확인하는게 어렵지 않았는데 요즘은 시국이 참..
+P1 	: 얼마전에 옷 정리를 해서요
+P1 	: 올려볼까 하다가 그냥 버리게 되었어요
+P0 	: 그렇네요. 코로나가 참...
+P0 	: 버리고나면 꼭 하나 사고싶어지더라구요
+P1 	: 옛말에 사람은 오래될 수록 물건은 새 것일 수록 좋다고 하더라구요 ㅋㅋㅋ
+P1 	: 다들 비슷한가봐요
+P0 	: 그런거 같아요ㅋㅋ
+P0 	: 요샌 쇼핑몰에서 구경만 하고있어요
+P1 	: 네 저두요
+P1 	: 요즘 역시즌으로 겨울 외투가 많이 올라오더라구요
+P1 	: 이월상품이긴 하지만 패딩을 4만원 정도에 사서 기분이 좋았습니다 ㅎㅎ
+P0 	: 싸게 샀네요ㅋㅋ 할인 놓치면 비싸지니깐 많이 둘러봐야겠어요
+P1 	: 네네 겨울 초입에 몇십만원씩 주고 사곤 했었는데 앞으론 역시즌을 노리려구요 ㅎㅎ
+P0 	: 자리 차지해서 그렇게 사본적 없는데
+P0 	: 정리해두고 노려봐야겠네요

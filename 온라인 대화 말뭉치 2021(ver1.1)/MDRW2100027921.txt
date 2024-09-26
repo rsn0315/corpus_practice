@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100027921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 쇼핑 좋아해요
+P1 	: 좋아하진 않고 필요한 거 사요
+P0 	: 현명한 소비 습관이네요
+P1 	: 쇼핑 좋아하세요?
+P0 	: 쇼핑 몰 구경 좋아해요
+P1 	: 집 근처에 백화점이 있으세요?
+P0 	: 아울렛이 있는데 사람이 너무 많아서 요즘은 안 가요
+P1 	: 가면 주로 무엇 하세요?
+P0 	: 사람 구경 신상품 구경 세일상품 사기도 하고
+P1 	: 다양한 일을 하시네요
+P0 	: 백화점은 전시회도 하고 식당가도 잘 만들어져 있어서
+P0 	: 쇼핑 안 하고 그냥 놀러도 가는 편인 거 같네요
+P1 	: 그러시군요

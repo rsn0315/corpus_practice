@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 이제 나가는중인데 아직못정했어요
+P1 	: 불고기 맛나겠네요 좋아하는 메뉴인데
+P0 	: 근데 같이 나온쌈채소들이 좋아요
+	  미역줄기같은거요 맛나요
+P0 	: 나이가 들었나봐요 호박잎 미역같은게 맛나져요
+P1 	: 미역줄기 저도 좋아해요 갑자기 도라지 초무침 먹고싶네요
+P0 	: 도라지초무침은 첨들어요
+P1 	: 그냥 도라지에 오이넣고 ㅋ새콤달콤하게 무친거요
+P0 	: 그런게있군요 맛나겠어요
+	  여기서는 매콤하게만해서잘안먹는 메뉴예요
+	  도라지
+P1 	: 전  우렁강된장 쌈밥먹으러왔어요
+P0 	: 맛있겠어요
+	  저도 쌈장에는 우렁이 들어가있네요 ㅎ
+P1 	: 오ㅎ &name1&님도 우렁이드시나요ㅋ
+P0 	: 우렁쌈장 맛있지않아요? 저는 좋아해요 ㅎ
+P1 	: 저도 좋아해요 쫄깃하니
+P0 	: 글쵸 질감이 틀려요 ㅎ
+	  맛나게 드세요
+P1 	: 비벼먹으라고 채소넣은 거줘서 먹고있어요
+P1 	: &name1&님도 맛점하세요

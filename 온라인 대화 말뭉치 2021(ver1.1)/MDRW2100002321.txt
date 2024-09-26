@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장인이신가요?
+P1 	: 네 회사 다녀요~ 직장인이세요?
+P0 	: 넵 저도 직장인이요 ! 금요일이라 넘 행복해요
+P1 	: 맞아요 회사 너무 힘들어요 ㅠ ㅠ 주말만 기다려져요 항상
+P0 	: 9시 출근 6시퇴근이신가요?
+P1 	: 네 보통 그런데 늦게 끝나는 날도 있어요
+P1 	: 야근 많이 하세요?
+P0 	: 네 휴.. 자주해요
+P0 	: 무슨업계에서 일하시는데 야근이많으세요? 전 it..
+P1 	: it쪽이시구나 저는 교육쪽이에요 ㅠㅠ
+P1 	: it도 힘드실거같아요
+P0 	: 힘들어요.. 아직 출근 30분밖에 안지났다는 사실이 믿기지않아요
+P1 	: 맞아요 정말 ㅠㅠ 하루하루가 쉽지않아요
+P1 	: 그래도 금요일이니깐..!
+P0 	: 취업하신지는 얼마나되셨어요? 전 올해요
+P1 	: 저는 3년정도 되었어요
+P1 	: 근데 아직도 막내라서 더 슬퍼요 ㅠㅠㅋ
+P0 	: 헉 3년차인데 막내시라니
+P0 	: 신입왜안뽑아준데요?
+P1 	: 모르겠어요 채용을 거의 안하더라구요
+P1 	: 제가 막차탄거라 다행인가 싶으면서도 계속 막내하면 힘들거같아요 ㅠㅠ
+P0 	: 막내 너무 힘들어요.. 저도 막내인데 계속 잡일 시켜서 현타와요 흑흑
+P1 	: 맞아요 ㅠㅠ 빨리 후배 받으시면 좋겠네요
+P1 	: 저는 올해도 글른거같아요

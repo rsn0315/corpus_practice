@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100001082
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210723
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 형제 자매가 어떻게 되세요?
+P0 	: 저는 형있어요
+P0 	: &name2&님은요?
+P1 	: 아 그렇군요 저는 언니랑 동생 있어요!
+P0 	: 잘 안싸워요? ㅋㅋㅋ
+P1 	: 어우 옛날엔 말도 못했어요
+P1 	: 말 하기만 하면 싸우니까ㅋㅋㅎㅎㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ동생은 여동생이에요?
+P1 	: 네! 세자매입니다
+P1 	: 완전 딸부자집ㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ그러네요
+P0 	: 그래도 친구들 보니까
+P0 	: 나중엔 자매가 사이 엄청 좋더라구요
+P1 	: 맞아요 그건 있는 것 같아요
+P1 	: 언니 화장품이랑 옷 빌리기도 하고ㅎㅎ
+P1 	: 언니도 제꺼 빌리면서 서로 그렇게 친해지는 것 같아요
+P1 	: &name1&님은 형이랑 안싸워요?
+P0 	: 예전엔 싸웠는데
+P0 	: 지금은 필요할 때만 대화해요 ㅋㅋㅋㅋ
+P1 	: 아ㅋㅋㅋㅋㅋㅋ
+P1 	: 완전 전형적인 형제네요
+P0 	: 그쵸 ㅋㅋㅋㅋ
+P0 	: 몇살차이나요?
+P1 	: 언니랑은 4살차이 동생이랑은 7살 차이나요
+P1 	: 꽤 많이나죠?ㅋㅋㅋ
+P0 	: 헐 그러네요!!
+P0 	: 어릴때 동생 귀여웠겠다

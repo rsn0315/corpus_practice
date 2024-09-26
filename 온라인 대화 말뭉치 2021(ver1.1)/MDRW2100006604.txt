@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006604
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그럼 &name2&님은 영양네 뭐챙겨드세요?
+P1 	: 저는 종비기본으로 먹고
+P1 	: 피곤할일이많아서 ㅎㅎ 그럴때 아주그냥 때려붓습니다
+P1 	: 에스터시 실리마릴 과다복용해요 ㅋㅋㅋ
+P0 	: 종비는 뭐드세요
+P1 	: 저 요즘은 얼라이브요!
+P1 	: 센트룸에서 갈아탔어요 ㅋㅋ
+P0 	: 아 둘다 들어봣어요 그것도 직구하시는거죠
+P1 	: 네네 근데 얼라이브는 그냥 쿠팡에서 사시면될듯합니다 ㅋㅋㅋ
+P1 	: 진짜 피곤할때는 약국에서 피로회복제 달라고해서 그것도 과다복용합니다 ㅋㅋㅋㅋㅋ
+P0 	: 저도 쿠팡 직구로 영양제.사기도 해요
+P1 	: 약빨로 버텨요....일많을때는...
+P0 	: 효과가ㅜ느껴지시나요
+P1 	: 네 ㅋㅋㅋㅋㅋㅋ 효과있습니다 ㅋㅋ
+P1 	: 잠깐 정신이 아주 초롱초롱해집니다 ㅋㅋㅋㅋ
+P1 	: 제가 정신을 좀 빠릿빠릿하게 차리고 있어야 하는 일의 시기가 있어서 그때는 복용합니다 ㅋㅋ
+P0 	: 핫식스같은.효과인아요
+P0 	: 가요
+P1 	: 카페인은 안들어서 그것보다는 정말 잠을 못자도 그런 티가 덜난다해야하나 ㅋㅋㅋ
+P0 	: 그렇군요 ㅎㅎ 운동은 하시나요
+P1 	: 약국가면 막 만원짜리 피로회복제있거든요 진짜 죽겠다 싶을때는 그런거 마십니다

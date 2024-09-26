@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024948
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 오늘 식사 뭐하셨어요
+P0 	: 저는 떡볶이 먹었어요
+	  &name2&님은 어떤거 드셨나요?
+P1 	: 저는 오늘 장조림 먹었어요
+P0 	: 사드셨나요?
+P1 	: 아니요 어머님께서 직접 장조림 해주셔서
+P0 	: 오 그렇군요!!
+	  좋아하는 음식 있으신가요?
+P1 	: 날씨때문에 조금 많이 짜게 해서 밥이랑 먹으니 딱 알맞았어요 ㅎㅎ
+P1 	: 아아 네!
+P1 	: 저는 닭발 좋아하고
+P1 	: 고기 종류는 다 좋아합니다
+P1 	: &name1&님은 좋아하시는거 있으세요?
+P0 	: 저는 떡볶이요 
+	  닭발 좋아하는 프렌차이즈 있으신가요?
+P1 	: 음 저는 닭발은 어머님이 직접 해주시는거 좋아합니다.
+P1 	: 맵고 달달하면서 저의 입맛을 사로잡거든요
+P1 	: 근데 엽기떡볶이에 있는 닭발 한번 먹어보고 싶네요 ㅎㅎ
+P0 	: 우와 어머님이 요리를 잘하시나봐요
+P1 	: 맞아요 ㅎㅎ 음식 솜씨좀 본받아야되는데 ㅠ
+P1 	: &name1&님은 카페가면 주로 무슨 음료 드세요
+P0 	: 저는 과일에이드요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100005124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~:)
+P0 	: 혹시 이번에 올림픽 보셨어요?
+P1 	: 네네! 당연 봤죠 &name1&님은 보셨어요?
+P0 	: 넵 봤어요! 여자배구랑 양궁이랑ㅎㅎ
+P0 	: 여자배구 넘 멋있더라구요
+P1 	: 헐 저두 여배랑 양궁 봤어요!
+P1 	: 가끔 펜싱도 봤어요 ㅎㅎ
+P0 	: 앗 진짜요??ㅎㅎㅎ
+P0 	: 여배 선수 혹시 좋아하는 선수 있나요?
+P1 	: 이번에 여자배구 정말 멋있더라구요
+P0 	: 앗 저는 펜싱은 안봤어요!ㅠㅠ
+P1 	: 저는 김연경 선수랑 이소영 선수 좋아해요!
+P0 	: 오 저두요ㅋㅋㅋ
+P0 	: 여배 본 분들은 다들 김연경 선수 좋아할거같아요
+P0 	: 넘 멋있었어요 진짜ㅋㅋ
+P1 	: 맞아요 다들 김연경선수에게 빠졌더라구요
+P0 	: 그쵸 이번에 은퇴해서 너무 아쉬워요
+P1 	: 맞아요ㅜ 중국리그인가 다른나라로 가신다는데
+P1 	: 자세히는 알지못해요
+P0 	: 아~~이번에 다른나라로 가시는구나
+P0 	: 저는 영영 은퇴하시는 줄 알았어요
+P1 	: 아마 국대은퇴만 하는걸로 알고있어요!

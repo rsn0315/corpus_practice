@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043791
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 다녀오신 여행이 있나요?
+P1 	: 주말에 급 양양떠나서 차박하고 홍천 캠핑다녀왔어요 ㅎㅎ
+P0 	: 캠핑 다니시는군요~ 부러워요
+P1 	: 저희는 텐트는 없고 차박위주로만 해서 아주 자주는 못가고 겨울에도 못가요 ㅋㅋ
+P0 	: 홍천 캠핑장만 가신건가요?
+P1 	: 아뇨 ㅋ 차박 되는 캠핑장으로 다녀요 ㅎㅎ 여름에만 주로 갑니다 ㅎㅎㅎ 올해는 한 네번 갔나봐요
+P0 	: 저도 캠핑 가는게 꿈인데 신랑이 안도와줘요 ㅡ.ㅡ
+P1 	: 에휴,, 그렇담 시작도 마세요.. 저희남편도 헉헉대고 짜증내는것이 보다가 저도 짜증나요 ㅋㅋㅋㅋㅋ
+P1 	: 저 그냥 아이랑 둘이 다니고 싶어요. 차박은 텐트안쳐도 되서 편하거든요
+P0 	: 그럼 텐트는 집에거만 칠게요 ㅠ
+P1 	: 텐트는 이미 사신거에요??ㅋㅋ
+P0 	: 네~ 피크닉용 텐트라 집에 펼쳐져있어요
+P1 	: 아하 피크닉용ㅋ ㅋ 거실이 넓은가봐요 그래도!!
+P0 	: 안방에 폈어요 캠핑 느낌으로 여기서 자요 ㅋㅋㅋㅋ

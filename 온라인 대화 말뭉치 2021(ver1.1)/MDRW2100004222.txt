@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100004222
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물 키우세요?
+P0 	: 아니요..ㅠㅠ
+P0 	: 저희집은 동물 별로 안좋아해서
+P0 	: 부모님이 특히 안좋아하셔서 못키우네요
+P0 	: 키우시는 반려동물 있나요?
+P1 	: 아니요 없어요
+P1 	: 좋아하는 동물은 있습니더 ㅎ
+P0 	: 어떤 동물 좋아하세요?
+P1 	: 전 고양이 좋아합니다
+P1 	: 좋아하는 동물 있으세요?
+P0 	: 저도 고양이 좋아해요!
+P0 	: 고양이 너무 귀엽죠ㅠㅠ
+P1 	: 네 ㅠㅠ 제 최애 동물입니다
+P0 	: 저는 자주는 아니지만
+P0 	: 가끔 집근처 고양이들한테 밥주고 그러네요...
+P0 	: 그래두 동네마다 캣맘있으셔서 다들 돌보시는 것 같더라구요
+P1 	: 전 물만 줘봤어요!
+P1 	: 저희 동네도 신경 써주시는 분이 계시더라구요
+P0 	: 그쵸 그쵸
+P1 	: 요새 길고양이들이 되게 많이 늘었더라구요
+P0 	: 맞아요ㅠㅠ
+P0 	: 고양이 보면 키우고싶은데
+P0 	: 자취하더라도 혼자 감당 할수있을지 모르겠고
+P0 	: 좀 망설여지더라구요
+P1 	: 맞아요
+P1 	: 저도 그 책임감 때문에

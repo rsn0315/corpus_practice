@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036176
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 술 드시나요?
+P1 	: 아니요
+P1 	: &name1&님은요?
+P0 	: 저는 종종 마셔요?
+P1 	: 술 좋아하시나봐요
+P0 	: 그냥 그렇지만 가족끼리 종종 먹어요
+P0 	: 치맥이라든가..
+P1 	: 맥주 좋아하세요?
+P0 	: 전 술중에선 맥주가 젤 나아요 탄산 좋아해서요
+P1 	: 아하 탄산 좋아하시는군요?
+P0 	: 네 탄산수도 한때 주기적으로 시켜먹었을 정도에요
+P1 	: 오 정말 좋아하시나봐요 
+	  저는 탄산을 안 좋아해서..
+P0 	: 그럼 어떤 음료를 좋아하세요?
+P1 	: 저는 음료는 커피빼고는 많이 안 좋아해요
+	  과일에이드 종류들은 가끔 먹지만요
+P1 	: 탄산도 이온음료도 음료를 즐기지는 않아서요

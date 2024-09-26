@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100030834
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 어떤일을 하시나요?
+P0 	: 저는 보건쪽 일을 해요
+P0 	: 오늘 날씨가 좋죠
+P1 	: 네 날씨 너무 좋더라고요 선선하고 바람불고
+P1 	: 보건쪽이면 코로나때문에 많이 바쁘고 힘드시겠어요
+P0 	: ㅎㅎ맞아요ㅠ 검사도자주하고자주당하고..
+P0 	: 어떤계열에계세요?
+P1 	: 저는 발전소에서 일해쇼
+P0 	: 앗 발전소 멋있어요ㅎㅎ
+P0 	: 오늘일안가니까좋네요
+P1 	: 일  안하실땐 주로 뭐하세요?
+P0 	: 저는지인들만나요!
+P1 	: 지인들 만나면 뭐해요?
+P1 	: 맛집 간다던가 카페 간다던가 하시나요?
+P0 	: ㅎㅎ둘다가요
+P0 	: 내일 출근해야하는데
+P0 	: 월요병이오려고해요ㅎㅎ
+P1 	: 저도 출근하기 너무 싫으네요
+P1 	: 출근 준비는 다 해놨지만
+P1 	: 주말은 잘 보내셨어요?
+P0 	: 흡ㅠㅜ저도..
+P0 	: 주말행복했어요..
+P0 	: 주말잘쉬셨나요?
+P1 	: 네 어제는 와이프랑 경주 황리단길 다녀오고
+P1 	: 오늘은 맛집 다녀왔어요
+P1 	: 어제는 아내랑 경주황리단길 나들이하고
+P1 	: 오늘은 맛집가서 외식했어요
+P1 	: 즐거웠습니다

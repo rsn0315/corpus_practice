@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100036951
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 가장 기억에 남는 선물 있으세요?
+P1 	: 지금 막상 생각나는 게 없는데 최근에 미니 가습기 받았어요
+P1 	: &name1&님은 기억 남는 선물 있나요?
+P0 	: 전 제가 엄청 갖고 싶었던 걸 받았을 때 기억에 많이 남는 것 같아요
+P0 	: 비싼 재킷 같은거요
+P1 	: 어떤 재킷이길래 기억 남나요? 겨울께 더 비싸던데
+P0 	: 특별한 건 아니고 제가 오랫동안 마음에 담아두고 있던 거였어요ㅋㅋ 한 10만원 정도 하는 거여서 사기 좀 어려웠었거든요
+P1 	: 오 그러면 정말 기억남겠네요 선뜻 못 산걸 누가 선물 준거니...
+P0 	: 맞아요
+P0 	: &name2& 님은 갖고 싶은 거 있으세요 ?
+P1 	: 새 노트북이나 건조기요
+P1 	: &name1&님은요?
+P0 	: 저는 수면안대요 한번도 안 써봤는데 쓰고 자면 훨씬 눈이 편할 것 같아요
+P1 	: 빛 차단해서 좋긴해요
+P0 	: 그쵸 나중에 사야겠어요
+P1 	: 근데 동생 보니 몇 번 쓰다가 말더라구요 나중엔 헤어밴드용으로 ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ맞아요 헤어밴드용으로도 좋죠

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006142
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 위드 코르나 마음에 안 들어요 어떻게 생각하 세요
+P0 	: 국민들한테 완화해도 된다는 잘못된 시그널을 줄 수 있을 거 같아 걱정스럽긴합니다
+P1 	: 제 말이요
+P0 	: 또 한편으로는 경제를 생각하면 필요하기도 한 거 같아요
+P1 	: 자영업 종사자들이 다들 죽으려고 하더라고요
+P0 	: 국민들 피로감도 클테고
+P1 	: 하더라도 확실히 접종률 올라 가고 난 다음 하면 좋겠어요
+P0 	: 백신 접종 말씀하시는 거죠
+P1 	: 네네
+P0 	: 맞아요 순차적으로 해야 할 것 같아요
+P1 	: 영국도 섣불리 풀었다가
+P1 	: 사망자수 엄청 많아 졌잖아요
+P0 	: 그랬죠
+P1 	: 그냥 계속 마스크 쓰고 다니긴 해야 할 텐데
+P0 	: 코로나 얘기 괜찮은가요?

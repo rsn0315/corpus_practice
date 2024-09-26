@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025361
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 하이
+P0 	: 하이루
+P1 	: 커뮤니티 활동하세요?
+P0 	: 네이버랑 다음해요
+P1 	: 어떤 종류하시나요
+P0 	: 온라인 활동만요
+P0 	: 쌍거풀코수술요ㅋ
+P1 	: 성형수술 관련으로 보시는군요
+P1 	: 저는 중고물품이랑 애완동물 관련 위주로 봐요
+P0 	: 뭐 이것저것 정보 커뮤니티에요
+P1 	: 시사관련도 보시나요?
+P0 	: &name2&은예?
+P0 	: 주식카페도 봐요
+P0 	: 거기 시사랑 정치. 경제 있어요
+P1 	: 저도 인기글 보고 시사 도 봐요
+P1 	: 그럼 정모도 하시나요?
+P0 	: 인기글은 지나칠수 없지요
+P1 	: 맞아요 넘 잼나죠
+P0 	: 아뇨. 코로나때문에 정모안해요
+P1 	: 꿀팁도 많이 얻구요

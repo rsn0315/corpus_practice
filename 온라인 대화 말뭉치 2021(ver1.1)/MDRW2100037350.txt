@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100037350
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 저녁 드셨나요?
+P0 	: 네~ 저녁으로 불고기덮밥먹었어요ㅎㅎ
+P1 	: 사신건가요?
+P0 	: 아뇨 해먹었어요 ㅋㅋㅋ
+P1 	: 직접 만드신건가요?
+P0 	: 네~ㅋㅋㅋ 근데양념장비율 약간 실패한거같긴해요 ㅋㅋ
+P1 	: 그래도 맛있을 것 같은데요? 
+	  레시피는 어디서 보고 하셨나요?
+P0 	: 레시피 없이 그냥 주워들은내용토대로 감으로했어요 ㅋㅋㅋ
+P0 	: 레시피보고할걸그랬나봐여
+P1 	: 그래도 요리를 잘하시나봐요 불고기 양념장 만들기 쉽지 않은데
+P0 	: 음 잘하진않지만 요리하는거 좋아해서 이것저것 많이해봐여~ㅋㅋㅋ
+P1 	: 그럼 잘하시는 요리 있으신가요?
+P0 	: 저는 바질페스토파스타 잘한다고 자부(?)합니다 ㅋㅋㅋㅋㅋ

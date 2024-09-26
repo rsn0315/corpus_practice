@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100031217
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 먹으러 가려구요!
+P0 	: 맛있게 드셨나요 ㅋㅋ
+P1 	: 네넹, 잘 먹고 왔습니다
+P1 	: 대게 먹었어요
+P0 	: 와 비싼거
+P0 	: 맛잇겠네요
+P0 	: 음식점에서 드셨어요?
+P1 	: 네네, 대게만 취급하는 식당이었어요
+P1 	: kg당 75,000원이더라구요
+P1 	: 금으로 된줄
+P0 	: 역시 ᆢ 비싼음식
+P0 	: 오늘 기념일인가요?
+P1 	: 그건 아니구욬ㅋㅋㅋ
+P1 	: 여행 온김에 근처에 있길래
+P1 	: 가봤습니다
+P0 	: 아 여행중이라고 하셨죠
+P0 	: 맛집 많이 다니세요 ㅎ
+P1 	: 그래야죠ㅎㅎ 먹는게 남는거!
+P0 	: 그쵸 먹는게 남는거예요
+P0 	: 후식 드시나요?
+P1 	: 오늘은 패스요ㅎㅎ
+P1 	: 어제는 팥빙수 먹었어요
+P0 	: 팥빙수 맛있겠네요
+P0 	: 이제 곧 가을인데 마지막으로 먹기 좋네요 ㅎ
+P1 	: 그쵸?
+P1 	: 근데 겨울에 먹는 빙수도.별미예요ㅎㅎ
+P0 	: 아 그쵸 겨울도 괜찮죠
+P0 	: 이냉치냉 좋네요
+P1 	: &name1&님은 어떤 음식 좋아하세요??
+P0 	: 저는 샤브샤브요

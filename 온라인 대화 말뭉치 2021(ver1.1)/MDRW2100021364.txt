@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 공연 보는 거 좋아하시나요?
+P1 	: 네 공연보는거 좋아해요
+P0 	: 오 그럼 혹시 최근에 보신 공연 있으세요?
+P1 	: 요즘은 유투브로 가수공연 주로봐요
+P0 	: 어떤 가수 좋아하시나요?
+P1 	: 해외가수들과 아이돌무대 두루두루 봐요
+P0 	: 아하 음악 감상을 좋아하시나 봐요ㅎㅎ
+P1 	: 네 해일님은 어떤 공연 주로 보세요?
+P0 	: 전 공연은 특별히 좋아하는 편은 아니지만 뮤지컬 몇 번 봤어요
+P0 	: 옥주현 배우님 나오는 거 봤었는데 아직도 잊혀지지가 않네요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 무슨 뮤지컬이었나요?
+P0 	: 엘리자벳 봤었어요! 김준수 배우님도 봤네요 그때
+P1 	: 엘리자벳 많이 들어봤어요 티켓팅하고 가신건가요?
+P0 	: 저 김준수 배우 팬이었던 친구가 양도 해줬어요 ㅋㅋㅋㅋ
+P0 	: 저 티켓팅 이런 거에 재능이 없어가지고...

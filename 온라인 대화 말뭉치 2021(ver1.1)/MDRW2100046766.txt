@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046766
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요! 뭐하고 계세요?
+P0 	: &name2&님 답변 기다리고 있었어요
+P1 	: ㅎㅎㅎ 늦어서 죄송해요 빨래하느라 ㅠㅠ
+P0 	: 아~ 그러셨군요 빨래 중요하죠 ㅎㅎ
+P1 	: ㅎㅎㅎ 집안일 중 제일 좋아하는 게 뭐예요?
+P0 	: 저는 무선청소기로 미는걸좋아해요 
+	  머리카락같은 눈에보이는것들는 치워야 마음이 편하더라구요
+P1 	: 아 맞아요!
+P1 	: 저는 허리가 아파서 설거지를 싫어하거든요..
+P0 	: 아이고.. 허리는 모든 성인들의 거의 만성질환이죠
+P0 	: 아무래도굽히다보니그런것같아요
+P1 	: 빨래를 끝내서 청소기를 밀고와야할 것 같아요..
+P1 	: 즐거운 저녁 보내세요!

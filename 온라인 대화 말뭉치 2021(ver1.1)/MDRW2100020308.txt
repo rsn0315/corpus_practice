@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020308
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 즐겨읽으시는 책이 있으신가오ㅡ
+P1 	: 인생책 말씀하시는 건가요?
+P0 	: 인생책도 좋고 재밌게 읽으셨던 책도 좋아요
+P1 	: 제 인생책은 해리포터에요ㅎ 정말 많이 읽었거든요
+P0 	: 해리포터 너무 재밌어요
+P0 	: 해리포터 시리즈 중 어느 편을 가장 졸아하시나요
+P1 	: 저는 불의잔이 젤 좋아요ㅎ
+P0 	: 불의 잔을 좋아하시는 이유가 있으실까요
+P1 	: 여러 학교가 등장하면서 세계관이 넓어지고 스펙터클함이 업 되서요
+P1 	: &name1&은 해리포터 어떤 편이 인상깊으셨나요?
+P0 	: 어이구 답이 늦었습니다 일이있어가지고
+P0 	: 저는 그 론이 해리를 날으는 마법차타고 데려온 장면이 있던..
+P1 	: 아 그렇구나 혹시 해리포터 최애캐는 누구에요?
+P0 	: 전 헐마이니 헤르미온느 좋아해요
+P0 	: 약간 똑똑하신분을 좋아해서
+P0 	: &name2&은요
+P1 	: 아 저는 시리우스요ㅎㅎ
+P0 	: 시리우스
+P0 	: 그대는 마음아픈 이름..
+P1 	: ㅋㅋㅋ네맞아요ㅋㅋ
+P0 	: ㅋㅋㅋㅋ 생각하면 맘아파요ㅠ 그렇게갈지 누가알았어요

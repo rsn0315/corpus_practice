@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 전남
+current_residence : 전남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 어떤 책 좋아하시나요
+P0 	: 저는 에세이 좋아해요
+P0 	: &name2&은 어떤책 좋아하세요
+P1 	: 저는  스릴러  관련된 책 좋아해요
+P1 	: 혹시 지금 어떤 책 읽으시나요
+P0 	: 저는 오늘 서른의품격 책 빌려왔어요
+P0 	: 어떤 내용일지 기대되요
+P1 	: 좋은 책 읽으시네요
+P0 	: 원래는 양희은 그러라그래
+P0 	: 빌려오고싶었는데 대출중이라
+P1 	: 책빌리기도 쉽지 않군요
+P1 	: 저는 예전 천사와악마 같은 책 좋아해요
+P0 	: ㅎㅎ천사와악마 책이름은 기억나는데 내용이 기억이나지않네요...
+P1 	: 그런가요 검색해보면 아실듯해요
+P0 	: ㅎㅎ검색해봐야겠어요. 궁금하네요
+P1 	: 검색해 보시면 금방 알아요
+P0 	: ㅎㅎ네. 최근에는 보신책 있으신가요
+P1 	: 네 라이트노벨 책 본 것 같네요

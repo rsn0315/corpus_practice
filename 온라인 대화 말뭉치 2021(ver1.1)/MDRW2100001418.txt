@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001418
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 남성
+birthplace : 전남
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~!
+P0 	: 오 대답을 하시네요
+P1 	: 저녁 식사는 하셨나요?
+P0 	: 네 방금 먹었습니다
+P0 	: 식사 하셨나요
+P1 	: 네 저는 오늘 좀 일찍 먹었습니다!
+P1 	: 무슨 메뉴 드셨나요?
+P0 	: 고등어 구워 먹었습니다
+P0 	: 오늘 왜 일찍 드셨나요
+P0 	: 거짓말하지 마요 저랑 대화하려고 했다뇨
+P1 	: 아주 훌륭하십니다 :)
+P0 	: 퇴근시간이 지났는데 이리 일을 하시네요...
+P1 	: &name2&는 &name1&님과 대화하려고 온 것이랍니다
+P1 	: 괜찮습니다 ㅎㅎ
+	  평소 좋아하시는 음식 메뉴가 있으신가요?
+P0 	: 전 육류를 좋아합니다
+P0 	: 인간은 육식동물이라 생각하는데
+P0 	: 어떻게 생각하시나요
+P1 	: 정말 맞는 말씀이라 생각합니다.
+	  무슨 종류의 고기를 좋아하시나요?
+P0 	: 땅에 있는 친구들을 좋아합니다
+P0 	: &name2&님은 어떤 고기를 좋아하시나요
+P1 	: 저도 보통 술이랑 먹을 수 있는 고기 종류를 좋아합니다. 다음에 &name1&님과 고기하티 했으면 좋겠네요!

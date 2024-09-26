@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100045720
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식감이 딱딱한가요?
+P0 	: 아니요 물컹물컹해요
+P1 	: 초록색 야채예요?
+P0 	: 아니요 초록색 아니에요
+P1 	: 빨간색인가요?
+P0 	: 아니요 빨간색 아니에요
+P1 	: 그럼 흰색인가요?
+P0 	: 아니요 흰색도 아니에요
+P1 	: 으음..물컹한 야채라
+P1 	: 갈색인가요?
+P0 	: 갈색도 아니에요 ㅋㅋㅋ
+P0 	: 주재료가 되는 야채가 늘 물컹하기만 한건아니에요 조리법에 따라 ㅋㅋㅋㅋㅋ
+P1 	: 동그란 야채인가요?
+P0 	: 길쭉한 야채예요
+P1 	: 으으응 뫃기
+P1 	: 혹시 보라색이예요?
+P0 	: 네 맞아여 ㅋㅋㅋㅋ

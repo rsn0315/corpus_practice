@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100024810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 하죠
+P0 	: 전 청소담당이요
+P1 	: 전 주로 청소기 빨래해요
+P1 	: 매일하세요?
+P0 	: 일주일에한번정도요
+P1 	: 저도 주말에 대부분 하는거같아요
+P1 	: 가족과 분담해서 하시는거죠?
+P0 	: 그렇져
+P1 	: 저도 언니랑 엄마랑 나눠서해요
+P0 	: 그게 가족이죠
+P1 	: 어떤게 가장 하기싫은 집안일인가요?
+P0 	: 화장실청소가 가장 힘들죠
+P1 	: 맞아요 그건 아빠나 남동생이 했음 좋겠어요ㅜ
+P0 	: 그렇져

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 좋아하는 동물있니?
+P1 	: 응
+P1 	: 강아지 키워봤어?
+P0 	: 아니 키워본적 없어
+P1 	: 키우고싶어?
+P0 	: 아니
+P1 	: 좋아하는 강아지 품종있어?
+P0 	: 좋아하는 강아지 품종 없어
+P1 	: 고양이는 좋아해?
+P0 	: 아니 좋아하지 않아
+P1 	: 좋아하는 동물있어?
+P0 	: 없어
+P1 	: 동물 알러지있어?
+P0 	: 돼지 알레르기 있어
+P1 	: 저번에 고양이카페갔잖아
+P1 	: 고양이 귀엽지 않았어?
+P0 	: 조금 귀엽다
+P1 	: 어떤 품종 좋아해?
+P0 	: 다 싫어
+P0 	: 어떤 품종 좋아해?
+P1 	: 나는 다 좋아해

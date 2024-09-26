@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021746
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 온라인 커뮤니티 하시나요?
+P1 	: 저는 눈팅을 많이 합니당
+P0 	: 맞아요 저도 눈팅만 해용
+P1 	: &name1&님은 어디하세용 ㅋㅋ
+P0 	: 저는 아이돌 덕질하고있어서
+P0 	: 트위터 눈팅해용
+P1 	: 오오 ㅋㅋㅋㅋ 트위터 재밌는거 참 많쵸 ...
+P1 	: 오프모임도 가보셨나요
+P0 	: ㅋㅋ아니용
+P0 	: 온니 눈팅이에용
+P1 	: ㅋㅋㅋ 어떤사람들인지 궁금하지않나요
+P0 	: ㅋㅋㅋ아니요 궁금하진않아요
+P0 	: 어짜피 트친?? 이있는것도 아니고 걍 자료계 정보계니까 ㅋㅋㅋ그사람들 뭐...
+P0 	: 님은 오프가보셨나요
+P1 	: 아니요 전 쩌리될거같아요 ㅋㅋ
+P1 	: 그 후기 보셨어요 ?ㅋㅋㅋ 오프만남 후회 후기
+P0 	: 아 봤어요 ㅋㅋㅋ 개나빠요 그사람.....
+P0 	: 저 제 얘기아닌데도 상처받음ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 그죠 진짜ㅠㅠ 머 그럴 트친도 없지만 ㅋㅋㅠㅠ
+P0 	: 그니까요 ㅋㅋ 근데 전 의심이많아서 트친안만들고 만들어도 절대 오프는 안할것같아요

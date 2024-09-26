@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046564
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211031
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+P1 	: 즐거운 주말 오후 보내고 계신가요? ㅎㅎ
+P0 	: 안녕하세요.
+P0 	: 네 즐거운 일요일 저녁입니다. ^^
+P1 	: 네 벌써 주말이 다 지나고 있네요..! &name1&님은 저녁식사 하셨나요? ㅎㅎ
+P0 	: 네 저는 카레랑 먹었어요. &name2&님은 저녁 드셨어요?
+P1 	: 네 저도 방금 먹었어요! ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되시나요~?
+P0 	: 저는 요리하는걸 좋아해요.
+P0 	: &name2&님은 취미가 무엇인가요?
+P1 	: 저는 요리는 못하지만 먹방 보는 걸 좋아해요..! ㅎㅎ
+P1 	: 오오 주로 어떤 메뉴 요리하시나요??
+P0 	: 저는 한식을 좋아해서 자주 요리해요.
+P1 	: 그렇군요! 저는 요리가 어려워서 주로 시켜서 먹는 편인데
+P1 	: &name1&님은 주로 요리해서 드시는 편인가요? ㅎㅎ
+P0 	: 네 저는 요즘 집에서 일을해서 거의 해먹고 있어요 ㅎ
+P1 	: 앗 그렇군요 확실히 재택을 하면 점심 저녁도 자율성이 있는 것 같아요 ㅎㅎ 그러면
+P1 	: 혹시 가장 잘하시거나 자신 있는 메뉴는 어떤 것인가요?!
+P0 	: 저는 가장 잘하는건... 음... 떡볶이? 미역국?이요? ㅎㅎ
+P0 	: &name2&는 어떤 음식을 제일 좋아하세요?
+P1 	: 저 떡볶이 제일 좋아해요 ㅠㅠㅠ 생각만 해도 맛있을 것 같아요..!

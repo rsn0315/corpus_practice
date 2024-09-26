@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100014028
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 여행 가신 적 있나요?
+P1 	: 음
+P1 	: 한참전인데
+P1 	: 강릉이요!
+P0 	: 강릉에서 뭐하셨어요?ㅋㅋ
+P1 	: 맛집여행이요ㅋㅋㅋ
+P1 	: 바다도보고 카페도요
+P0 	: 갈만한 카페 있어요?ㅎㅎ
+P1 	: 안목 카페거리
+P1 	: 유명하죠
+P0 	: 거기서 추천하시는 카페 있어요?ㅎㅎ
+P1 	: 이름은 기억이안나네요 영어이름이라
+P1 	: 그쪽에 웬만하면 다 이뻐요ㅋㅋㅋ 오션뷰라
+P0 	: 전 강릉 카페하면 테라로사만 생각나네요ㅎㅎ
+P1 	: 그 안목카페거리쪽
+P1 	: 카페들 나중에 기회되면한번가보세요ㅋㅋㅋ
+P1 	: 루프탑쭉있어요!
+P0 	: 오 분위기 좋을 것 같아요ㅎㅎ
+P0 	: 전 얼마전에 바로 옆 속초를 다녀왔었어요ㅋㅋ
+P1 	: 오우 속초좋죠
+P1 	: 가서뭐하셨나요?!
+P0 	: 바닷가 가서 놀다가 물회도 먹었어요ㅋㅋ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100008009
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 bhc좋아합니다!
+P1 	: 치하오 드셔보셨나요???
+P0 	: 오 아뇨
+P0 	: 매콤한 치킨인가요?
+P1 	: 넵! 매콤해서 많이 안질려요ㅎㅎㅎ
+P1 	: &name1&님은 어떤 치킨 좋아하세요?
+P0 	: 굽네 고추바사삭 제일 좋아해요
+P0 	: 드셔보셨나요?
+P1 	: 네ㅎㅎ
+P1 	: 전 굽네 갈비천왕 좋아해요!!
+P1 	: 항상 마지막에 밥을 비벼먹습니다ㅎㅎ
+P0 	: 치밥 맛있죠!
+P0 	: 치킨 어떤 부위 제일 좋아하세요?
+P1 	: 전 윙봉만 시킵니다ㅋㅋㅋ
+P0 	: 부드러운 부위가 맛있죠
+P0 	: 치킨 드실 때 음료는 뭐 드세요?
+P1 	: 전 제로콜라요!
+P1 	: 맥주도 좋구요ㅎ
+P0 	: 코카콜라랑 펩시 중에 어떤 거 좋아세요?
+P1 	: 코카콜라요ㅎㅎ
+P0 	: 코카콜라가 더 탄산도 쎄고 맛있는 거 같아요
+P1 	: 사이다는 칠성사이다ㅋㅋㅋ
+P1 	: 스프라이트는 제취향아니더라구요ㅎㅎ
+P0 	: 치킨 얘기했어요!

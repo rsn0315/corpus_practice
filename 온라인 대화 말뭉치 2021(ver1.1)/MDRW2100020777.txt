@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100020777
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심에 뭐 드시나요?
+P1 	: 저 떡볶이요!
+P1 	: &name1&님은 뭐 드시나요?
+P0 	: 저는 비빔면 먹었어요
+P1 	: 비빔면 완전 좋아요!!
+P1 	: 먹다보면 순식간에 다 먹게 되더라고요ㅋㅋ
+P0 	: 그쵸 &name2&님은 떡볶이 만들어 드셨나요?
+P1 	: 아뇨 시켜먹었어요!
+P0 	: 와 어디꺼요??
+P1 	: 배떡이요!
+P1 	: 배떡 로제 진짜 맛있어요
+P0 	: 맛있겠네요ㅠㅠ 배떡 로제는 담에 시켜봐야겠어요ㅎ
+P0 	: &name2&님은 어떤 떡종류 주로 시키세여?
+P1 	: 저 원래 밀떡파였는데 누들밀떡 먹어보고 바꼈어요
+P1 	: 누들밀떡 진짜 맛있어요
+P0 	: 누들밀떡이 정말 먹음직스러워 보이더라고요
+P0 	: 분모자는 드셔봤나요?
+P1 	: 네! 분모자도 맛있더라고요
+P0 	: 맘같아선 분모자 잔뜩들은거 먹고싶은데 칼로리가 겁나죠ㅠ

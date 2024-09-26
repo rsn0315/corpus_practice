@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100033272
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>2026년 병장 월급 100만원
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 병장월급 지금은 얼마인데 저때가서 백만원이지?
+P0 	: 60만원 아닌가
+P1 	: 사실 지금 넘 싼거지?
+	  줄만큼 주고 다른 특혜안주면 군대로인한 피해의식도 없을거야
+P0 	: 아니야 그래도 있을거야
+P1 	: 그래 생각해보니 그렇다
+P0 	: 그래도 돈이라도 많이 주면 좀 낫겠지
+P1 	: 병장월급이 100이면 나머지는 얼마야
+P0 	: 나머지? 일병 이병 상병?
+P1 	: 응 그리고 간부랑 부사관들..
+P0 	: 글쎄 일병 월급이야 동생한테 물어보면되고
+P1 	: 아니 지금 월급 말고 2026 월급
+P0 	: 25만원 아닐까

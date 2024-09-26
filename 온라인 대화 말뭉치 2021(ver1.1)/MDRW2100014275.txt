@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100014275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕안녕
+P0 	: 안뇽안뇽 나도 반려동물이있으면좋겠다 &name2&처럼
+P1 	: 요즘 냥이들 밖에 많이보여?
+P0 	: &name3&는잘지내닝
+P1 	: &name3& 잘있지 우리 예쁘니강아지
+P0 	: 응 엄청많아 길냥이들이 다 개냥이됐어 귀엽당
+P0 	: &name3&같은 반려동물있으면 행복할거같아 흑흑
+P1 	: 정말 행복하지 동시에 불행하기도해ㅠ
+P1 	: 너무너무사랑하면 너무너무괴롭기도해
+P0 	: 흐잉 ㅠㅠ  그러면안되는데ㅜㅜ
+P1 	: 그치... 아프면 정말 말로 할수없이 슬퍼
+P0 	: 그치 완전 가족인데 얼마나 슬프겠어..
+P1 	: 근데 정말 큰 행복이야!!
+P1 	: &name1&이두 담에 반려동물 고양이 !!
+P0 	: 능력이될때 꼭 키우고싶다!!!!!
+P1 	: &name3& 사료는 요즘 소화가 잘되는 사료를 먹여
+P0 	: 소화가잘되는 사료면 가격은 좀 더 비싼고니? 맛은 비교할수가없으니..ㅎㅎ허허
+P0 	: 궁금하다
+P0 	: &name3&맛좀알려죵....
+P1 	: 1키로에 29000원정도 병원에서 사
+P0 	: 아 병원에서 파는걸 사는구나
+P0 	: 따로 아픈덴없는거지 &name3&
+P1 	: 병원 처방식 사료야
+P1 	: 지금 중성화 수술 고민중이야
+P0 	: 헐 처방식 사료도 있나
+P1 	: 난소에혹이있대
+P0 	: 아 아직 결정못내렸나..
+P0 	: ㅜㅜ
+P1 	: 엉엉 병원 사료

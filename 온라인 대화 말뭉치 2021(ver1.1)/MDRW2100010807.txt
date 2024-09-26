@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010807
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네. 님께서 즐겨하는 게임 이름이 뭐에요?
+P0 	: 저는 인디게임 즐겨해요 ㅎㅎ
+P0 	: 게임에 대해 어떻게 생각하세요??
+P1 	: 예전에는 많이 부정적이었는데요.
+	  지금은 밥벌이하면서 적당한 취미생활로는 괜찮은 거 같아요.
+P0 	: 아하 혹시 하시는 게임 잇으세요??
+P1 	: 저는 게임할 에너지로 웹툰보고 있어요.ㅎ
+	  인디게임이 뭔가요?
+P0 	: ㅋㅋㅋㅋ 대형게임사가 아니라 작은 게임사에서 만든 게임을 통칭해서 저렇게 불러요 indie game이라구요
+P0 	: 전 색다른 게임을 좋아하는지라.. 인디게임만 하네요 호
+P1 	: 아.. 게임 장르가 다양하겠어요.
+	  앱스토어에서 다운받을 수 있나요.
+P0 	: 앱스토어에도 인디게임 많죠!!
+P0 	: 근데 사람마다 좋아하는 장르가 달라서 잘 살펴보셔야해요 ㅎㅎ
+P1 	: 님 덕분에 몰랐던 게임 정보를 알게 됐네요.ㅎ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ 그러게요 게임유튜브같은건 안보시죠?
+P1 	: 넵. 게임정보 볼 시간이 안나는 거 같아요.
+	  웹툰보다가 날이 새더라구요.ㅎ
+P0 	: 앜ㅋㅋㅋㅋㅋ 요즘 웹툰도 게임화 많이 되더라구요
+P1 	: 게임하면 심쿵, 달달한가요. ㅎ

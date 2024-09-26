@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024110
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그럼 학교생활 지금 하고 계신건가요??
+P1 	: 네ㅋㅋㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저도 학생이에요 ㅎㅎ
+P0 	: 수강신청 잘하셨나요?
+P1 	: 네 &name1&님은요??
+P0 	: 렉이 많았지만 잘했어요 ㅋㅋㅋ 공강을 쟁취하셨나요?
+P1 	: 넵 금공강 얻었습니다 &name1&님도 공강 챙기셨나요??
+P0 	: 네! 아주 만족스러워요 ㅋㅋㅋ
+P0 	: 평소 과제가 많으편인가요??,
+P1 	: 교양은 과제 적거나 보통인걸로 골랐는데 전공은 팀플이랑 과제 밭이네요ㅠㅠ
+P1 	: &name1&님은 어떠신가요??
+P0 	: 팀플 ㅠㅜ 최악이네요 저는 발표가 많아요
+P0 	: 제가 담대한 사람이 아니라 2명앞에서만 발표해도 떨거든요 ㅠ팀플도 많구요
+P1 	: 맞아요 솔직히 팀플이나 발표수업 왜해야 하는지 모르겠어요
+P1 	: 너무 힘들고 짜증나지 않나요?
+P0 	: 맞아요 왜 시키는지 모르겠어요 정말 저는 하고싶지도 않고 눈앞에 보이는 성과가 없으니 더 하기싫더라구요
+P0 	: 동아리 활동도 하시나요?
+P1 	: 저는 동아리 안해요
+P1 	: &name1&님은 하시나요?
+P0 	: 저도 안하고 있어요 멋모르고 들어갈뻔 했는데 별로 즐거울 것 같지 않더라구요
+P0 	: 술은 좋아하시나요?,
+P1 	: 술은 별로 안좋아해요

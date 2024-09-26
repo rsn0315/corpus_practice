@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100011285
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비가 많이 와요 밤새님 지역도 비가 오나요
+P1 	: 네 아침부터 계속 내리네요
+P0 	: 태풍이 와서 그런가 봐요
+P0 	: 그래서 그런가 습하지 않나요
+P1 	: 맞아요. 습해서 에어컨 틀어뒀더니 춥네요
+P0 	: 비 오는 날 어떠세요
+P0 	: 비 좋아하시나요 싫어하시나요
+P1 	: 적당히 내리는건 좋아해요
+P1 	: 운치있기도 하구요
+P0 	: 어떤 느낌인지 알 것 같아요
+P1 	: 지원님은 어떠세요?
+P0 	: 저는그렇게 좋아하지는 않아요
+P0 	: 습한 것도 있고 젖는 것도 싫고 그래서 별로 선호하지 않는 편이에요
+P1 	: 그렇긴하죠. 눈도 별로 좋아하진 않겠네요?
+P0 	: 눈 오면 설레기는 하는데  녹으면 미끄러워서
+P0 	: 밤새님은 눈 좋아하시나요
+P1 	: 좋아하는 편이에요
+P0 	: 그러시구나 눈도 비도 좋아하는 편이시네요

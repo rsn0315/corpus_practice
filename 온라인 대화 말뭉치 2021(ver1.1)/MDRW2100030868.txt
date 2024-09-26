@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030868
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가는 거 좋아하세요?
+P1 	: 네 좋아해요
+P1 	: 지금은 코로나라서 못가서 아쉬워요
+P1 	: &name1&님은 코로나 전에 여행을 가신적이 있으신가요?
+P0 	: 네! 강릉에 다녀왔어요
+P0 	: &name2&님은요?
+P1 	: 네 해외도 다녀왔었고 국내도 자주 다녔어요
+P1 	: 계획은 미리 세우시는 편인가요?
+P0 	: 계획은 잘 세우지 않는 편이에요. 요즘은 호캉스가 좋더라구요 ㅎㅎ
+P1 	: 호캉스 최근에 다녀왔는데 좋더라구요
+P1 	: &name1&님도 가보시길 바라요
+P0 	: 그래야겠어요! &name2&님도 호캉스 좋아하시나 봐요
+P1 	: 네 좋아해요
+P1 	: 힐링이 되더라구요
+P0 	: 맞아요! 요즘 나가기도 힘들어서ㅠㅠ 호캉스가 좋은 것 같죠
+P1 	: 그렇죠 멀리가기 힘드니 호캉스라도 즐기는게 좋은거같아요
+P0 	: 가까운 곳에서 잠깐 쉬어도 엄청 휴식이 되니까요!
+P1 	: 그건 맞죠
+P1 	: 호캉스 추천드릴게요
+P0 	: 만약 코로나가 끝나면 어디로 여행가고 싶으세요?
+P1 	: 저는 코로나가 끝나면 일본으로 가고싶어요

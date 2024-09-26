@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012602
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 야식좋아해요
+P0 	: 야식  좋아는 하는데 다이어트 하려구여  ㅎㅎㅎ
+P1 	: 아구 다이어트 전 지금 감자튀김
+P0 	: 맛잇겟어요 ㅜㅁ ㅠ
+P0 	: 아 왜 튀김냄세 난느거 같지요 ㅡㅅ ㅡ
+P1 	: 어제는 맛나게 먹었어요
+P1 	: 오늘 아침식사하셨나요?
+P0 	: 네넹 ㅎㅎ  아침은 간단하게 핫케이크 먹엇어요 ㅎㅎ
+P1 	: 오~ 맛있겠다 점심은요3
+P0 	: 점심 수제비!!! 먹었어요
+	  비와서 맛있었지요~
+P0 	: 오늘도 야식 ㄱㄱ 하시나요
+P1 	: 오늘 치킨요
+P0 	: 날마다 매일 다르게 먹네요 ㅎㅎ
+P1 	: ^^ 오늘은 아무것도 없네요
+P0 	: 엇  토닥토닥요
+P0 	: 야식도 없눈건가요 ㅎㅎ
+P1 	: 먹을게 없어서 배달해야할듯
+P0 	: 와 배달비도 좀 나오겠어요

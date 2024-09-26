@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네
+P0 	: 무슨 택배 왔나요?
+P1 	: 가족꺼
+P1 	: 택배요
+P0 	: 뭔물품요?
+P1 	: 남방이여
+P0 	: 남방이 뭐애요?
+P1 	: 외투처럼 입으려고 삿대요
+P0 	: 외투요?
+P1 	: 넹
+P0 	: 독특하네요
+P1 	: 맞아여 원래 별낫죠
+P0 	: 아닐걸요?
+P1 	: 내가족인데 제가알아여
+P0 	: 중고거래 자주 하새요?

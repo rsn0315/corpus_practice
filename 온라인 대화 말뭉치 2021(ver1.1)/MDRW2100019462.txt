@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100019462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 혹시 봉사활동 하고 계세요?
+P1 	: 요새는 안해요ㅎㅎ
+P1 	: 예전엔 했었어요
+P0 	: 그렇구나~ 어떤 봉사활동 했어요?
+P1 	: 교육봉사 했어요~
+P1 	: &name1&님은요?
+P0 	: 어! 저도 교육봉사 했어요~
+P0 	: 혹시 지역아동센터에서 하셨어요?ㅎㅎ
+P1 	: 아뇨 전 학교랑 연계해서요!
+P1 	: 초등학교에서 했었어요
+P0 	: 오~ 대박!
+P0 	: 교대 나오셨나봐요!
+P1 	: 아뇨 교대는 아닙니당ㅎㅎ
+P1 	: 어쩌다 기회가 생겨서ㅎㅎ
+P0 	: 오 그러시구나~
+P0 	: 방과후수업 같은 걸로 하신거에요?
+P1 	: 그냥 애기들 멘토링 같은거였어용
+P1 	: 일대일로요ㅎㅎ
+P0 	: 아아 ~
+P0 	: 초등학교에서 했어요 그거를?
+P1 	: 네네 초등학교요ㅎㅎ
+P1 	: 애들 말도 잘 듣고 귀여웠어요
+P0 	: 꺅 몇학년이였어요?
+P1 	: 초등학교 1학년이랑 3학년이용~

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100026453
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용!ㅎㅎ
+P0 	: 여행 좋아하시나요?
+P1 	: 여행 좋아요!ㅎㅎ
+P1 	: 편하게 힐링여행가는거 좋어해요!
+P0 	: 힐링 여행 너무 좋죠! 
+	  그럼 여행갈때 일정 넉넉하게 세우시는 편이겠어요
+P0 	: 넉넉하게가 아니고 여유있게요 ㅎㅎ
+P1 	: 네 맞아요!! 여유있게 가는거 좋어해요!!
+P1 	: &name1&은 어떠시나요?
+P0 	: 저도 여유있게 일정 정해서 가는거 좋아해요!
+P0 	: 너무 빡빡하게 세우면 피곤해서 별로구요
+P1 	: 맞아요!! 여행가서까지 피곤하게 돌아다니면 너무 힘들더라구오ㅠ
+P0 	: 맞아요 여행은 좀 쉬려고 가는건데 
+	  여행까지가서 시간에 일정에 쫓기고 싶지는 않더라구요
+P1 	: 맞아요!ㅠㅠ 그래서 같이 가는 사람이랑 너무 스타일이 다르면 힘든거같아요ㅜ
+P0 	: 그쵸!! 여행은 어디 가느냐도 중요하지만 누구와 가느냐도 정말 중요한거 같아요
+P1 	: 맞아요! 괜히 여행갔다와서 멀어지는 친구도 생기더라구요ㅋㅋ큐ㅠㅠ
+P0 	: 실제로 여행 후에 멀어진 친구가 있으신거에요?ㅜㅜ
+P1 	: 네ㅠ 여러명이서 갔는데 저말고 다른 친구들 두명이 좀 갈등이 생기다보니 그중 한명이랑 멀어지게 됐네요ㅠ

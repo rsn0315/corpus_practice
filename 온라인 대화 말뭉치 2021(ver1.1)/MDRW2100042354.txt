@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100042354
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 중고거래해보셨어요?
+P0 	: 기프티콘팔아봤어요 중고거래해보셨어요?
+P1 	: 사는건 안하고 파는것만 종종했어요ㅎㅎ
+P0 	: 아 그러시군요
+P0 	: 뭐뭐 파셨었어요?
+P1 	: 집에서 안쓰는것들 팔았는데
+	  생각보다 잘팔리더라구요 옷은 못팔겠어요!
+P0 	: 어제  티비 보니까 헌옷을 모아서 돈받고 팔 수 있더라고요
+P1 	: 오 갯수로따지나요?
+P0 	: 키로당 300원 쳐주더라고요ㅋ
+P1 	: 외투같은건 상당하겠어요
+P1 	: 최근사신물건있으세요?
+P0 	: 집까지 찾아와서 가져가니 편하기도 하겠더라고요
+P1 	: 진짜 정리한번해봐야겟네요
+P0 	: 요새 중고로 육아용품 알아보고 있긴 해요ㅎㅎㅎ
+P1 	: 오 당근마트?ㅎㅎ

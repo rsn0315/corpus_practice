@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100007066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁은 어떤거 드셨나요? 저는 마침 야식으로 식빵 먹고 있었어요ㅋㅋ
+P1 	: 저 보쌈 먹었어요 !
+P1 	: &name1&님 저녁은 드셨어요?
+P0 	: 헉 너무 맛있었겠어요
+P0 	: 네 저는 카레 먹었어요! 내일 아침도 카레일 것 같네요ㅋㅋ
+P0 	: &name2&님은 내일 드시기로 한거 있으세요?
+P1 	: 저는 아침은 빵 먹을 것같아요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 카레 너무 맛있겠어요!!
+P0 	: 앗ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 계속 비가와서 나가질 못하니까 집에 있는 것만 야금야금 요리하고 있어요
+P0 	: 맛있는 거 사먹고 싶네요ㅠㅠ
+P1 	: 저는 배달 자꾸 시켜먹게 되더라구요
+P1 	: 최저 주문 금액 맞추느라 늘 남아요..
+P0 	: 하 맞아요 배달은 금액맞추기가 너무 힘들죠...
+P0 	: 족발도 배달시키신 건가요??
+P1 	: 네네! 요즘은 1인 배달이 늘었다지만 그래도 힘든 것같아요
+P0 	: 그러게요ㅠㅠㅠㅠㅠ
+P0 	: 평소에 어떤거 많이 시키세요? 저는 주로 피자 시키는 것 같아요
+P1 	: 저는 주로 초밥 시키는 것같아요!
+P0 	: 맛있는 거 많이 드시네요
+P0 	: 어떤 초밥 제일 좋아하세요?
+P1 	: ㅋㅋㅋㅋㅋ 전 연어요!
+P1 	: &name1&님은 어떤 초밥 좋아하세요?
+P0 	: 저도 연어 좋아해요! 초밥이라고 하긴 뭐한데 타코와사비도 넘 좋아요
+P1 	: 헉 저도요!!

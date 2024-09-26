@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012559
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 어떤음식 좋아하세요?
+P0 	: 저는 다좋아요
+P0 	: 치킨좋아하세요?
+P1 	: 네 오늘도 먹었어요
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: 전 굽네치킨 좋아해요
+P1 	: 님은요?
+P0 	: 전 페리카나요
+P0 	: 양념vs후라이드?
+P1 	: 음 간장은 보기에 없나요?!ㅋㅋ
+P0 	: 간장파시군요ㅋㅋㅋ
+P0 	: 뿌링클vs스노윙?!
+P1 	: 뿌링클!
+P1 	: 푸라닭도 먹어보셨나요
+P0 	: 푸라닭맛있나요?
+P0 	: 한번도요ㅠ
+P1 	: 푸라닭 블랙알리오 맛있어요
+P0 	: 알리오올리오
+P0 	: 맛인가요?

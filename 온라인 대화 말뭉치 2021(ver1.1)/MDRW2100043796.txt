@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100043796
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 네 먹엇어요
+P1 	: 저녁드셧어요?
+P0 	: 네 먹었어요
+P0 	: 뭐 드셨나요?
+P1 	: 비빔밥 먹엇어요 ㅎㅎㅁ
+P1 	: 뭐드셧어요?
+P0 	: 저는 볶음밥 먹었어요
+P0 	: 어떤 비빔밥 드셨나요?
+P1 	: 집에잇던 야채랑 콩나물무침넣고 계란후라이 얹어서 먹엇어요 ㅋㅋㅋㅋㅋ
+P1 	: 무슨 볶음밥 드셧어요?
+P0 	: 저는 깍두기 볶음밥이요
+P0 	: 어떤 음식 좋아하시나요?
+P1 	: 전 웬만한거 안가리고 다 잘먹어요 ㅋㅋㅋㅋ
+P1 	: 어떤음식좋아하세요?
+P0 	: 저는 떡볶잉ㅅ
+P0 	: 이요
+P0 	: 떡볶이 좋아하시나요?
+P1 	: 저도 떡볶이 좋아해요 ㅋㅋㅋ
+P0 	: 어떤 브랜드 떡볶이 좋아하시나요?
+P1 	: 저는 사실 시장떡볶이좋아해요
+P1 	: 꾸덕꾸덕한 쌀떡볶이

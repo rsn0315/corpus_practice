@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100028313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나 스파게티 먹으러 가고싶어.
+P0 	: 아 배고파 난 연어김밥
+P0 	: 아사할것같아
+P1 	: 아사라니 너무 전문적이야.
+P0 	: 그리고 이제 고등어 먹었어
+P1 	: 난 오늘 저녁으로 룸메랑 떡볶이 먹었지.
+P0 	: 어디 떡볶이먹었는데
+P1 	: 엽떡 먹었어. 다 못먹음.
+P0 	: 오 엽떡 맵지않나
+P1 	: 순한맛으로 먹었지 당연히
+P0 	: 순한맛은 별로 안맵나?
+P1 	: 응 걍 떡볶이맛이지 머.
+P0 	: 넌 무슨 떡볶이가 제일 좋아?
+P1 	: 난 그냥 떡볶이가 조아. 심플이즈 베스트. 하지만 궁중떡볶이도 조아하지.
+P0 	: 궁중떡볶이도 맛있지

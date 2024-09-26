@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014893
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오 요즘 운동 열심히 하더니 효과가 좀 있나?
+P0 	: 오늘 보니 더 빠진 것 같아. 키도 부쩍 크고
+P1 	: 몸무게는 그대로인데 키가 자라서 빠진 것처럼 보이는 거 아냐?
+P0 	: 그런가..? 아냐 배랑도 확실히 들어갔어
+P1 	: 옛날의 리즈 모습을 되찾나요 ㅎㅎ
+P0 	: 통통이에서 벗어나야 해 ㅋ
+P1 	: 요즘 산책이랑 스쿼트 줄넘기 매일매일 하니 효과 있겠지
+P0 	: 타고난 근육이 있어서 조금만 살쪄도 더 쪄보여
+P1 	: ㅎㅎ 뼈 자체가 굵은 것 같더라
+P0 	: 완전 내 체형이야
+P1 	: 어렸을 때부터 관리해줘야지~ 비만되면 안되니까
+P0 	: 살찌면 커서 성인병도 문제지만 알러지도 심해져
+P1 	: 에궁.. 그럼 특히 더 신경 써야겠네
+P0 	: ㅇㅇ 알러지 있으니까 더 살찌지 않도록 조심해야해

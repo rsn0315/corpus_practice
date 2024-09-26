@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학창시정 추억 있나요
+P1 	: 특별한 추억은 없는 것 같아요
+P1 	: &name1&님은요?
+P0 	: 저는 야자 쉬는시간에 떡볶이 배달해 먹은거요~?
+P1 	: 오 야자 하니까 생각이나네요
+P0 	: 어떤 추억이요
+P1 	: 야자시간에 반 전체가 영화 봤어요
+P1 	: 영화관에서요
+P0 	: 와 어떻게요?
+P1 	: 담임쌤이 데려가 주셨습니다 ㅋㅋ
+P0 	: 오 멋진 담임쌤이셨네요
+P1 	: 네 좋은 쌤이였어요 과목은 수학이라서... ㅠ
+P1 	: 혹시 수학 좋아하셨나요?
+P0 	: 아뇨..수학은 늘 어려웠죠 ㅠㅠ
+P1 	: 맞아요 어려워요 수학 잘하면 부러웠어요
+P0 	: 저도 고등학교 때 좋으신 선생님들 기억나요
+P1 	: 좋으신 선생님들이 많았나봐요?
+P0 	: 네 따뜻하셨던 분들이 많았어요 사춘기 여학생들 대하시기 쉽지 않으셨을텐데..

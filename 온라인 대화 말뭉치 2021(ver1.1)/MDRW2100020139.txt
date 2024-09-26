@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020139
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 영화관 가고 싶다 무슨 영화 좋아해
+P1 	: 나는 킹스맨이란 영화를 제일 좋아해
+P0 	: 들어는 본 거 같아 무슨 영화지
+P1 	: 영국 비밀요원 이야기야
+P0 	: 오와 듣기에 신기하네
+P1 	: 거기 주인공인 배우가 너무 멋있어 콜린 퍼스
+P0 	: 나 그 배우 비비씨 드라마에서 본 적 있어
+P1 	: 오 오만과 편견  봤어?
+P0 	: 맞아 거기서 정말 잘생겼던데
+P1 	: 킹스맨 시즌 투도 재밌게 봤어
+P0 	: 찾아보니까 정말 인기가 많았네
+P1 	: 영국 테일러 샵 이야기도 재미있음
+P0 	: Netflix에서 찾아서 볼 수 있나
+P1 	: 아마 없을걸

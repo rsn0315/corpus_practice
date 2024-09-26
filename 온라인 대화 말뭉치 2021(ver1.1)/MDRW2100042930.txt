@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100042930
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는하셨나요
+P1 	: 아직이요 ㅎㅎ &name1&님은 식사하셨나요?
+P0 	: 저도아직이요
+P0 	: 배안고프세요?
+P1 	: 이제 슬슬 먹으려고 메뉴 고민중이에요 마땅히 떠오르는게 없네요 ㅎㅎ
+P0 	: ㅎㅎㅎ시켜드세요?
+P1 	: 가서 먹었네요! 비빔밥 먹었어요 ㅎㅎ &name1&님은 뭐 드셨나요?
+P0 	: ㅎㅎ저는고구마랑오레오먹었어요
+P1 	: 헉 그것만 드셨어요? 더 든든하게 드시지는 ㅠㅠ
+P0 	: 앗 더먹을거에요ㅎㅎㅎ
+P0 	: 군것질을좋아해요ㅠㅜ단거
+P1 	: 앗 그렇군요 ㅎㅎ 저도 군것질 좋아해요! 저는 단건 막 좋아하지 않는데 입이 심심한걸 못 견뎌서 정말 뭘 많이 먹는 것 같아요 ㅋ큐ㅠㅠ
+P0 	: 뭔지알아요ㅜㅜ
+P0 	: 차나커피도좋아하세요?
+P1 	: 어... 무슨 커핀지 모르겠어요! 어떤건가요?
+P0 	: 차 혹은 커피요ㅎㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 여름에 회 먹는건 좀 그렇지 그래도
+P0 	: 저 친구들한테 그 얘기만 잔뜩 들었잖아요 ㅠㅠ
+P1 	: 이번에 김밥집에서 식중독 나와가지고 사람 많이 죽었다잖아
+P0 	: 애들이 제가 연어 좋아하는거 아니까 여름에 연어 먹지 말라고 뭐라고 막 하더라고요 ㅋㅋㅋ
+P1 	: 갓떠서 먹으면 괜찮지 않나?
+P0 	: 칼이나 그런거에 병균 증식할수도 있으니까 조심하기는 해야할거같아요
+P1 	: 그것도 그렇네 집에서 먹어야하나봐
+P0 	: 집에 회뜰수있는사람 없잖아요 ㅋㅋㅋ
+P1 	: 살아있는 생선 만져본지도 30년은 된거같다
+P0 	: 보통 마트에 있는건 다 피 빼둔거니까...
+P1 	: 그래서 구이만 막 먹고 그러지
+P0 	: 생선구이도 좋아하는데 비싸서 문제예요 바닷가인데도 너무해
+P1 	: 바닷가여도 회는 비싸더라 여기 어업 많이 안해서 그런가봐
+P0 	: 하긴 물질하시는분도 별로 없고 취미낚시가 많으시죠
+P1 	: 예전에는 바다 맑아서 좋았는데

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100032200
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 순대내장 너무 좋아
+P1 	: 저번에보다 천원치 더 샀는데
+	  왜 저번보다 먹어보니 작은 느낌ㅎ
+P0 	: ㅋㅋ 난 순대만 좋아 ㅋㅋ
+P1 	: 지금 다시 먹을려고 데우는중
+P0 	: 양 줄인거 아녀?
+P1 	: 난 순대없이 내장만도 좋아ㅋ
+P0 	: 잘팔리는집 갈수록 양 줄이는집있더라
+P0 	: 어떻게해도 잘 팔려서 그런건지
+P0 	: 맘스터치 싸이버거만 먹고싶은데 배달시키면 많이시켜야돼ㅜㅜ
+P1 	: ㅜㅜ부모님꺼랑 주문은?
+	  그럼 많으니까ㅎ
+P0 	: 부모님 없어 ㅋㅋ
+P0 	: 나 혼자 시켯엉 나머지 냉장고 넣어두려고
+P1 	: 좋은데ㅋ
+P1 	: 난 어께랑 목이 계속아프서 자다깨다자다하는중
+	  핑계일지돜ㅋ
+P1 	: 글서 오늘 밥은 떡볶이 순대였어ㅋ
+P0 	: ㅋㅋ 떡볶이 어제 사다놓길 잘했네
+P1 	: 응ㅎ없음 식당 갔을텐데ㅋㅋ
+P0 	: ㅇㅇ 떡볶이 하나 사서 세끼해결 ㅋㅋ
+P1 	: 맞어ㅋㅋ빵이랑 요거트랑 복숭이랑 잘먹었어ㅋ
+P1 	: 난 점심으로 장각삼계탕 먹었는데
+	  반찬으로 봄동무침이 새콤하니 맛있더라

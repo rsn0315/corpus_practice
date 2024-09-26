@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 자주 가시는 카페 있나요?
+P1 	: 안녕하세용~
+P1 	: 요즘은 텐퍼센트 커피를 자주 가요
+P1 	: 아시려는가
+P0 	: 오 저번에 어떤 분이 추천해줘서 들어봤어요!!
+P0 	: 맛있나봐요
+P1 	: 바닐라빈라떼가 진짜 맛있어서 계속 생각나더라규요
+P0 	: 오 맛있을거 같네요!! 바닐라향 진한가요?
+P1 	: 네네 다른데 비해서 좀 진한거같어요
+P0 	: 동네에 하나 있는데 가봐야겠어용..
+P0 	: 배달음식은 어떤거 시켜드시나요
+P1 	: 배달은 주로 보쌈이나 치킨이요 ㅌㅋㅋ
+P1 	: 님은요
+P0 	: 저도 치킨 제일 많이 시켜요 ㅋㅋㅋ
+P0 	: 어디꺼 좋아하세요?
+P1 	: 저 교촌 젤 좋아하는데
+P1 	: 최근엔 처갓집양념통닭에 꽂혀서 계속 시켜요
+P0 	: 오 처갓집 저도 좋아하는데 은근 동네에 찾기가 힘들더라고요 ㅋㅋㅋ
+P0 	: 양념 최고죠..
+P1 	: 네 양념치킨 이게 생각날때가 있더라고요 종종
+P0 	: 네 맞아요 클래식한 맛이 있는거 같아요 ㅋㅋ 손으로 직접 뜯으면서 먹는

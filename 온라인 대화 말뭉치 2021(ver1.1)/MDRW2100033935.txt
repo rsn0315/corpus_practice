@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033935
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 있죠ㅎ 가끔 급체할때있어요
+P1 	: 건강하시죠?^^
+P0 	: 급체 불편하겠어요
+P1 	: 일년에 한번정도 그러는데 요즘은 괜찮아요
+P1 	: &name1&님은 건강관리하시나요
+P0 	: 열심히 해요
+P1 	: 영양제는 드시나요?
+P0 	: 네 &name2&님은요
+P1 	: 전 귀찮아서 ㅎ
+P0 	: 다이어트해보셨나요?
+P1 	: 아니요 먹는즐거움을 포기할수가 없어요
+P1 	: &name1&님은?
+P0 	: 안해봤어요
+P1 	: 운동은 하세요?
+P0 	: 네해요

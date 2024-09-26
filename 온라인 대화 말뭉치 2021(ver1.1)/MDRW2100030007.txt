@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030007
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 스포츠가 있나요
+P1 	: 직접 하는건 탁구 좋아하고
+P1 	: 보는건 배구, 농구 좋아해요
+P0 	: 전 배구 보단 농구가 재미있어요
+P0 	: 그보단 야구가 잼있네요
+P1 	: 저는 배구보다 야구보면 조금 지루해서...
+P1 	: 야구장에서 치킨 먹는건 해보고 싶긴 합니다
+P0 	: 저도 오래전에 해보고 못했네요
+P0 	: 그전이 그립네요
+P1 	: 지금은 함성도 금지죠?
+P0 	: 치킨도 금지죠
+P1 	: 아쉬우시겠어요
+P0 	: 너무나 아쉽고 코로나 이전이 그립죠
+P1 	: 코로나 끝나면 바로 가실건가요
+P0 	: 완전 종식되면 그때 가야죠
+P1 	: ㅎㅎ좋아요

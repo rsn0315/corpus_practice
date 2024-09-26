@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025988
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는최근에 책 선물받았어요!
+P1 	: 어떤책인가요?!
+P0 	: 에스에프소설입니다!
+P0 	: 김초엽작가아시나요?!
+P1 	: 오..아니요! 그쪽 장르에사 유명한 작가님이신가요?
+P0 	: 네! 그러신것같아요
+P0 	: 이번에 신작이 나와서
+P0 	: 재밌을것같아요
+P1 	: 오 제목이뭔가요?
+P0 	: 지구끝의온실 이고
+P0 	: 저작가제일유명한책은 우리가빛의속도로 갈수없다면
+P0 	: 이에요!
+P1 	: 한번 찾아볼게요!
+P1 	: 좋아하는 장르가 sf인가요?
+P0 	: 장르 상관없이 읽으려고 노력중인데
+P0 	: 제일좋아하는건 소설이에요ㅠ
+P0 	: &name2&님은요???
+P1 	: 저도 책을 읽으려고 노력중인데
+P1 	: 에세이나 자기계발서 좋아해요 ㅋㅋㅋㅋ
+P0 	: 최근에 읽은 에세이 있으세요?!!
+P1 	: 아니요 ㅠㅠ최근에 거의 책을 안읽엇어요 ㅋㅋㅋㅋ
+P1 	: 유병재 말장난이라는 책 가볍게 보기만햇어요 ㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㄱ책은 가볍게 읽는게 제일좋은거같아요,,,

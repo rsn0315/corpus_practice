@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100041407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 네네 치킨이랑 통닭요 님은 ?
+P0 	: 저는 찜닭이요
+P0 	: 어떤 브랜드 치킨이랑 통닭을 드셨나요?
+P1 	: 오 닭드셨네요
+P1 	: 어머 통닭이랑
+P1 	: 피자 먹었어요 ㅋㅋㅋㅋ
+P0 	: 어떤브랜드 피자 드셨나요?
+P1 	: 도미노요 !
+P1 	: 좋아하는 브랜드있나요?
+P0 	: 저는 반올림이요
+P0 	: 도미노 어떤 피자 드셨나요?
+P1 	: 오늘은 기프티콘이 포테이토있어서 그거용
+P1 	: 올만애 먹으니 맛나더라구요
+P0 	: 그럼 도미노 어떤 피자 좋아하시나요?
+P1 	: 원래는 그 새우들어간거 블랙타이거인가 그거좋아해용
+P1 	: 반올림 맛나나요? 안먹어봣어요!
+P0 	: 네 자극적이어서 맛있어요!!

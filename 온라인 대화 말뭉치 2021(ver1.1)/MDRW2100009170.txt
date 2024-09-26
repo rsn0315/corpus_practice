@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 여행 좋아하는데 요즘 코로나때문에 다 취소돼서 울적해요 ㅜ
+P1 	: 여행 좋아하시나요?
+P0 	: 완전 좋아합니다 맞아요ㅜ 코로나전에 마지막으로 가셨던데가 어디셨어요?
+P1 	: 음~ 부산인 것 같아요
+P0 	: 부산에 추천해주실만한 여행지가 있나요??
+P1 	: 부산 이미 많이 유명해서 새로운 건 아니지만 저는 광안리가 좋더라구요  낮에는 해수욕하고 밤엔 광안대교 바라보면서 회먹는 것도 좋구요
+P0 	: 그쵸 밤에 광안대교는 너무 예쁜 것 같아요...
+P0 	: 코로나 끝나면 어디로 가고싶으세요?
+P1 	: 그러게요 일단 해외로 가보고 싶어요 원래 친구들이랑 해외여행 가자고 하던중이었는데 코로나때문에 끊긴 거거든요
+P0 	: 어디 생각해두신 곳 있으세요??
+P1 	: 동남아가 친구들끼리 가긴 좋은 것 같더라구요
+P1 	: 근데 돈만 더 허락된다면 유럽도 가보고 싶어요
+P0 	: 동남아가 진짜 친구들이랑 가긴 좋은 거 같아요 물가도 싸고!
+P0 	: 유럽중에 어딜 젤 가고싶으세요?
+P1 	: 스페인이요 예전에 알함브라궁전의 추억이라는 드라마를 본적있는데 가보고 싶더라구요
+P0 	: 아 저도 스페인 너무 가고싶더라구요

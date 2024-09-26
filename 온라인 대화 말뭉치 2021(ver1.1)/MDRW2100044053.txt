@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100044053
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그냥 맛집이나 찾아 다니고 싶지
+P0 	: 맞다 그게 최고지 ㅋㅋ
+P1 	: 맛있는 거 많이 있을 듯
+P0 	: 웅웅
+P1 	: 타코야끼 먹고 싶다
+P0 	: 나도~~ 오코노미야끼 이런거 ㅋㅋ
+P1 	: 기름 맛으로 먹는 거
+P0 	: 맞다 기름맛 ㅋㅋㅋ
+P1 	: 맛있는게 많을 듯
+P0 	: 웅 초밥도 먹고싶다
+P1 	: 초밥 좋지
+P0 	: 빨리 가고싶네
+P1 	: 그러게

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 운동하는 거 있으세요?
+P0 	: 저는 걷기 운동이 다랍니다ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: ㅋㅋㅋ전 런데이어플로 달리기랑 걷기 조금 하고 아령운동 해요
+P1 	: 오늘 아침도 하고 왔어요
+P0 	: 오 대단하세요
+P0 	: 온라인으로 하는건 아무래도 한계가 있겠죠?
+P0 	: 요즘 홈트 많이 하잖아요
+P1 	: 그쵸 그래도 좋은 어플이 꽤 많아서 꾸준히만 하면 좋을 것 같아요
+P0 	: 런데이어플도 그런건가요?
+P0 	: 그래서 자도 홈트 결제 할지 고민이에요
+P1 	: 런데이는 달리기 시작할 때 되게 좋아요
+P1 	: 1분 뛰고 2분 걷는 식으로 쉬운 인터벌운동부터 시작할 수 있거든요
+P0 	: 우와 그러면 진짜 운동되겠어요
+P0 	: 금방 땀날거 같은데요?
+P1 	: 그쵸ㅋㅋ 저 런데이로 체력 많이 길렀어요
+P1 	: 체력 바닥인 사람들은 걷기나 달리기부터 하면 좋대요
+P0 	: 저도 체력을 길러야 하는데..ㅎㅎ
+P0 	: 온라인으로는 이게 맞게 하는건지 알 수 없어서 애매한거 같아요
+P1 	: 그쵸 저도 운동에 욕심생기다 보니까 헬스장 등록하고 싶어졌어요
+P0 	: 우와 멋있어요 &name2&님
+P0 	: 저는 등록해도 잘 안갈 저를 잘알아서ㅠㅠ
+P1 	: 아녜요ㅋㅋㅋ 저는 아직 종이인간....

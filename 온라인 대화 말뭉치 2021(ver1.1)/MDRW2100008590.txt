@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 어디맛집이 핫한가요
+P1 	: 블루보틀 카페 유명하더라고요
+P0 	: 오 맞아요. 줄도 길다고하던데 전 아직 한번도 못가봤어요
+P1 	: 저도 못가보고 얘기만 들었는데
+P1 	: 커피가 진짜 맛있다더라고요
+P0 	: 맛난라떼 마시고싶네요.
+P1 	: 라떼 좋아하세요?
+P1 	: 저는 아메리카노 파 ㅎ
+P0 	: 집안일 하느라 답장이.늦었어요.ㅠ
+	  저도 얼죽아였는데 나이드니..... ㅋㅋ
+P1 	: 고생많으셨어요 ㅠㅠ
+P1 	: 집안일 너무 힘들죠.. 이따 요 얘기도 해봐요 ㅎㅎ
+P1 	: 요즘은 따아가 좋으신가요
+P0 	: ㅎㅎ일찍일어나시나봐요!! 
+	  저는 요즘 임신중이라 커피를 안마시고있아요 ㅜㅜ
+P1 	: 아아 글쿤뇽
+P1 	: 축복이네요! 고생이 많으시겠어요
+P1 	: 막땅기는 음식 없으새요?
+P0 	: 땡기는게 그때 그때 달라요
+P0 	: 신기하더라구요.ㅎㅎ
+P1 	: 신기하내요 ㅎㅎ
+P1 	: 오늘은 뭐드셨나요
+P0 	: 떡볶이요!

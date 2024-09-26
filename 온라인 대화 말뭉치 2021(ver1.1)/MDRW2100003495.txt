@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100003495
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 네 코로나라 못가지만
+P1 	: 여행 좋아해요
+P0 	: 제일 좋았던 여행지가 어디예요?
+P1 	: 저는 스위스요 ㅎㅎ
+P1 	: 진째 평온 그 자체였어요
+P0 	: 헙 저도 스위스 좋아요ㅠㅠ
+P0 	: 평온하고 공기맑고...
+P1 	: 진짜 물가만 아니면 눌러살고싶죠 ㅋㅋ
+P1 	: 물가는 허거덕 숨막혀요
+P0 	: 맞아요..ㅋㅋㅋㅋ 스위스에선 딱히 뭘 사먹은 기억도 없어요
+P0 	: 학생때 여행간거라ㅠ
+P1 	: 저도 ㅋㅋ
+P1 	: 마트에서 작은 초콜렛 정도만 사먹었어요
+P1 	: 넘 그립네요
+P0 	: 편의점에서 샌드위치 사먹었는데 넘 비싸고 양 작아서 놀란 기억이 있네요.. 관광지여서 그렇긴했지만 ㅋㅋㅋ
+P0 	: 유럽도 좋지만 동남아쪽은 물가가 싸서 심적으로 편해서 좋은거같아요
+P1 	: 맞아요 ㅎㅎ
+P1 	: 거긴 특히 과일이 싸고 맛있어서 좋아요
+P0 	: 동남아는 어디 여행 해보셨나요?
+P1 	: 세부가봤어요
+P0 	: 세부는 물이 넘 맑고 좋아보이더라구요.. 여행가서 호핑투어? 하셨나요?
+P1 	: 호핑투어하려던 찰나에 같이 간 조카가 울어서 못했어요
+P0 	: 아이고.. 아쉬우시겠어요. 호핑이 세부 여행의 하이라이트라던데..!

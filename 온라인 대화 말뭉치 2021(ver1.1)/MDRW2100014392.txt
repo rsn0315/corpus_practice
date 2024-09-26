@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100014392
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 혹시 종교 갖고 계신가요?
+P1 	: 아니요 &name1&님은 종교 있으세요?
+P0 	: 아니오. 저도 종교 없어요. 혹시 가족 중 종교 가진 분 계신가요?
+P1 	: 저희 아버지가 불교 신자세요
+P1 	: &name1&님 가족 중에는 종교 있으신 분 있나요??
+P0 	: 저희 할머니 할아버지께서 불교 신자세요.
+P0 	: 절에 자주 가시나요?
+P1 	: 네네 매일 기도도 드리세요
+P0 	: 저희 할머니 할아버지도 기도하세요
+P1 	: 저 수능 준비할 때 아버지가 매일 절에 나가셔서 기도했는데
+P1 	: &name1&님 조부모님도 중요한 일 있으실 때 절에 가셔서 기도 드리시나요?
+P0 	: 네네 수능때도 기도하셨어요.
+P1 	: 그렇군요ㅎㅎ
+P1 	: &name1&님은 조부모님 따라서 절에 가보신 적 있으세요?
+P0 	: 네 자주 갔어요.
+P0 	: 임님은 어떠세요?
+P1 	: 전 자주 가지는 않았는데
+P1 	: 수능 끝나고 아빠가 기도드리던 절에 간 적은 있어요
+P0 	: 절에 가면 향 냄새 나잖아요
+P1 	: 맞아요 절 냄새 좋아하세요?
+P0 	: 싫어하지는 않아요

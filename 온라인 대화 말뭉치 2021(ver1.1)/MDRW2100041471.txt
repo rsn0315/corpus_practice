@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041471
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 에그 슬럿은 오렌지 주스도 유명하던데
+P0 	: 뭘 좀 아네
+P1 	: 캘리포니아 오렌지야
+P0 	: 뭘 직접 착즙하는 건가
+P1 	: 맞아 매장에서 직접 짜는 거야
+P0 	: 정말 신선하겠다
+P1 	: 나도 오늘 버거와 함께 오렌지 주스를 시켰지
+P0 	: 가격은 얼마야
+P1 	: 5500원
+P0 	: 좀 비싼데
+P1 	: 그래도 먹어보면 그 값이 할만해
+P0 	: 정말 맛있었나보네 부럽다
+P1 	: 다음엔 베이컨 버거도 먹어볼려고

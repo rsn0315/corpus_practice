@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018874
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 중고거래 하신적있나요?
+P0 	: 네 저 당근 좋아해요
+P0 	: 얼마전엔 고양이 물품을 사왔답니다ㅎㅎ
+P1 	: 오~ 저두 당근으로 얼마전에 에그팬 구매했답니다 ㅋㅋㅋ
+P0 	: 오오 당근 좋죠ㅋㅋㅋ 중고나라보다 편한거같아요
+P0 	: 에그팬은 써보셨나요?
+P1 	: 네 ㅋㅋ 오늘썼어요! 새제품마냥 좋더라구요~
+P0 	: 프라이는 이쁘게 만들어지던가요?
+P0 	: 저도 급 뽐뿌오네요ㅋㅋㅋㅋㅋㅋ
+P1 	: 네 ㅋㅋㅋ 딱 프라이하기 좋은사이즈라 편하고 좋았어요
+P0 	: 저는 당근에 샴푸 파는 중인데 아무도 안사시네요
+P1 	: 앜ㅋㅋㅋㅋ이런.. 샴푸살생각은 안해봣어요 ㅋㅋ
+P0 	: 추석되기 전에 팔고 싶네요
+P1 	: ㅋㅋㅋㅋ 명절선물로 사가는분이 있길 바래요 ㅋㅋ
+P0 	: 맞아요 명절선물로 딱인데 사가시길..ㅠㅠ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009438
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 뭐드셨나요
+P1 	: 돈가스랑 감튀 먹었어요. 뭐 드셨나요?
+P0 	: 저는 편의점 삼각김밥이요 ㅎㅎ
+P0 	: 그 가격에 그만한게 달리 없더래요ㅎㅎ
+P0 	: 돈가스랑 감튀 맛났겠어요
+P1 	: 편의점 삼각김밥 맛있죠 저도 가끔 생각나서 사먹어요 ㅎ
+P0 	: 길가다 배고파서 넘 고통스러웠는데 그거라도 하나 배에 넣으니까
+P0 	: 잠잠해졌어요
+P0 	: 라면도 같이 먹을껄 넘 바빠가지구ㅋㅋㅋ
+P1 	: 컵라면에 삼각김밥 먹으면 맛나죠^^
+P0 	: 네 국물에 김밥담궛다 먹으면 더 맛나지는거 같아요
+P0 	: &name2&님은 컵라면 어떤거좋아하세요?
+P1 	: 저 그때그때 다른데 요즘 튀김우동이 그리 땡기네요 ㅎ
+P0 	: 아 튀김우동 맛있죠
+P0 	: 요즘은 베트남쌀국수도 컵라면나오더라구요
+P0 	: 깜짝놀랐어요
+P1 	: 맞아요. 쌀국도 컵라면도 한참 먹었었는데 그것도 엄청 맛나요
+P0 	: &name2&님은 얼큰한거보다 시원한국물을 더 좋아하시는군요
+P1 	: 네~ 매운것보단 시원한거요. 난드니님은 어떤 컵라면 좋아하시나요?
+P0 	: &name2&님 저녁드셨나요
+P1 	: 네 김치랑 김이랑 먹었어요.

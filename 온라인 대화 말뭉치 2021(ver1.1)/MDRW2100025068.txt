@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025068
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 여행이 너무 가고싶다
+P1 	: 그러게
+P1 	: 코로나 끝나면 어디 가고싶어?
+P0 	: 나는 일본. 일본어 공부하고있으니까
+P1 	: 아 2년 전에 도쿄 가려다 취소한거 너무 아깝네
+P0 	: 진짜 그때 갔어야했는데. 그땐 금방 다시 갈 수 있을 줄 알았지
+P1 	: 진짜 갈 수 있을 때 가는게 좋은 것 같아
+P0 	: 맞아 나중에는 어떻게 될지 모르잖아
+P1 	: 젊었을 때 여행 많이 다닐걸
+P0 	: 백신 맞았으니까 곧 갈 수 있지 않을까?
+P1 	: 그럼 좋겠는데 변이 때문에..
+P0 	: 아... 델타변이 무섭더라
+P1 	: 네 친구 일본 살잖아. 거기는 지금 어떻대?
+P0 	: 우리나라보다 심각한 것 같아
+P0 	: 그런데 그 친구가 나중에 오면 관광시켜준다고 했어

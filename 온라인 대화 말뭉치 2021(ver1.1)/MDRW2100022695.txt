@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100022695
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 오늘 날씨가 맑네요
+P0 	: &name2& 사시곳도 맑나요
+P1 	: 네 요즘 날씨가 흐리고 비가많이 오더니 오늘은 맑네요
+P1 	: 그래서그런지
+P1 	: 요새 좀 추운것 같아요
+P1 	: 긴팔옷 꺼내셨나요
+P0 	: 맞아요 저도 오늘자면서 이불덮고 선풍기를 껐어요
+P0 	: 꺼내는 놨는데 아직 반팔입어요
+P1 	: 아직 반팔입으시는구나
+P0 	: 긴팔입으세요?
+P1 	: 네 저는 긴팔 긴바지입어요
+P0 	: 추위를 많이타세요?
+P1 	: 날씨 볼 때마다 기온이 많이 낮아졌더라고요
+P1 	: 네 좀 유난인편이에요
+P0 	: 겨울이좋으세요 여름이 좋으세요?
+P1 	: &name1&은 계절잘타세요?
+P0 	: ㅋㄱㄱㄱㅋㅋㄱㅋㄱㅋㄱㄱㄱ유난
+P0 	: 네 제철음식은 찾아먹는편입니다
+P1 	: 아 저는 그래도 여름이 나아요 겨울엔 추워서 소화를 못시켜서요
+P1 	: 제철음식 좋죠
+P1 	: 이제 곧 꽃게철
+P0 	: 아 올여름은 정말끔찍했어요
+P0 	: 꽃게최고죠

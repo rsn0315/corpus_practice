@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100014881
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 요즘 사고싶은 위시템 있으세요?
+P1 	: 저는 태블릿이요 &name1&님은 있으신가요?
+P0 	: 저는 화장품 덕질을 해가지고 입생로랑 틴트 가지고싶어용ㅎㅎ
+P0 	: ㅎㅎㅎ님은 중고거래 자주 이용하세요?
+P1 	: 아니요 &name1&님은 이용하시나요?
+P0 	: 저는 주로 판매 위주로 이용하는데
+P0 	: 택배로 많이 보내고 있어요ㅎㅎ
+P0 	: 최근에 중고사이트에서
+P0 	: 가지고싶은 물건을 발견했는데
+P0 	: 가격이 맞지 않아서 고민이 되네요ㅠ
+P1 	: 무엇인지 물어봐도 될까요?
+P0 	: 앗 제가 아기자기한걸 좋아하는데 귀여운 솜인형이에요ㅎㅎ
+P0 	: 그런데 3만원이라 너무 비싸더라구요ㅠㅍ
+P1 	: 솜인형이 3만원이요? 어떤 캐릭터인가요?
+P0 	: 이 캐릭터 이름이 따로 있는지는 모르겠는데
+P0 	: 귀여운 토끼모양 인형이에용ㅎㅎ
+P0 	: &name2&님은 귀여운거 좋아하시나요?
+P1 	: 네 저 귀여운거에 아주 환장하죠ㅎㅎㅎ
+P0 	: 주위에서 아기자기한거 선물해주면 좋으시겠네요ㅎㅎ
+P1 	: 네. 제 친구는 인형을 20개 넘게 가지고 있어서 놀러갈 때마다 귀여워해줘요ㅋㅋㅋ
+P0 	: 저도 침대에 인형 쌓아두고 자요ㅎㅎ
+P0 	: 아침에 일어나면 기분이 엄청 좋더라구요
+P1 	: 우와 정말 귀엽겠어요ㅠㅠ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020028
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 포지션이 무엇인가요??
+P0 	: 전 기다리기 싫어서 걍 탱커 아님 지원 하네요
+P0 	: ㅠ 딜러가 재밌는데
+P0 	: 딜러 뭐하세요?
+P1 	: 저도 기다리는 거 싫을 땐 힐러 해요
+P1 	: 그나마 모이라나 아나는 할만해서
+P0 	: 모이라 아나 재밌죠 ㅋㅋ
+P1 	: 딜러는 위도우메이커 한조 많이 했어요
+P0 	: 전 루슈나 멜시 해요
+P0 	: 위메 한조 오
+P0 	: 실력있으신가봐요? ㅋㅋ
+P1 	: 멜시 어렵지 않나요??
+P1 	: 헤드 잘 따여서
+P0 	: 그냥 잘숨고 따라가기
+P0 	: ㄹㅇ
+P1 	: 이니에요 실력은... 심해인데ㅋㅋㅋㅋ
+P0 	: 위메 한조가 죽여요
+P0 	: ㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ그렇죠
+P0 	: &name2&님이 죽이나봐요
+P1 	: 저격수가 재밌는 것 같아요

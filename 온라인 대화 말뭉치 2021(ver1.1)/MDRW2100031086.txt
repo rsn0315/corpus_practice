@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031086
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요 당신은요?
+P0 	: 구피요
+P1 	: 오 구피는 저도 키워본 적 있어요
+P1 	: 그렇게 오래 키우진 못했지만...
+P1 	: 몇마리에요?
+P0 	: 열마리요
+P1 	: 키우는거 어렵지 않아요?
+P0 	: 물관리힘들잖아요
+P1 	: 구피는 번식도 빠르다던데...그건 어때요
+P0 	: 많이 낳아여
+P1 	: 그러면 어떻게 해요? 다 키우나요?
+P0 	: 네
+P1 	: 구피 사료 냄새 이상하지 않아요?
+P0 	: 약간여

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028596
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 했죠
+P1 	: 오늘은 회를 포장해와서 먹었어요
+P0 	: 맛나겠네녀
+P1 	: 밥도 안하고 푸짐히 먹어서 뿌듯합니다
+P1 	: 뭐드셨나요?
+P0 	: 치킨이요
+P1 	: 배달로 드셨나요?
+P0 	: 네
+P1 	: 저는 제주도 떠나느라 일찍 나왔네요^^
+P1 	: 맛집에 가서 먹을 예정이랍니다
+P0 	: 좋네여
+P1 	: 우도에 들어가서 땅콩막걸리 먹으려고하는데 드셔보셨나요?
+P0 	: 그것 맛나요
+P0 	: 감귤막걸리는 비추요
+P1 	: 감귤은 쥬스만 먹어야겠네요^^
+P0 	: 그래요

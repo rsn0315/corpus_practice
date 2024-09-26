@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041495
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 너 어깨 아픈 건 괜찮아졌어?
+P0 	: 아 그거 아직도 아퍼
+P0 	: 진짜 병원을 가야되나
+P1 	: 정확이 어디가 어떻게 아퍼
+P0 	: 오른쪽 어깻죽지가 시려
+P0 	: 아파서 팔을 들기가 힘들어
+P1 	: 정형외과를 한번 가보는 게 좋을 것 같긴 해
+P0 	: 서치해보니까 자세 때문이라고
+P0 	: 자세 교정하거나 물리치료를 꾸준히 받아야 된다는데
+P1 	: 아니 어깻죽지 통증은 오십견 같은 건데
+P1 	: 넌 어린 애가 벌써 그래서 어떻게 해
+P0 	: ㅋㅋㅋ큐ㅠㅠ 요새는 젊은 사람들도 많이 이런대
+P0 	: 목디스크일수도 있다는데 그건 아닌 것 같고
+P1 	: 너 발목도 아프잖아
+P0 	: 아 그건 예전에 인대 늘어나서 그런 거고
+P0 	: 인대는 한번 늘어나면 계속 그런대
+P1 	: 그니까 너도 관절이 안좋은 거야
+P1 	: 운동할 때도 조심하고
+P1 	: 평소에 자세도 신경써야돼 흐트러지지 않게
+P0 	: 알지 알지
+P0 	: 요새는 스트레칭도 꾸준히 하는데 별 효과가 없네
+P1 	: 칼슘 같은 것도 챙겨먹는게 좋을 것 같아
+P0 	: ㅋㅋㅋ지금도 영양제 충분히 많이 먹고 있어

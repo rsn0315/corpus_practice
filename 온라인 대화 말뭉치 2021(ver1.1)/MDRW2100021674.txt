@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021674
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 많이 보세요?
+P1 	: 가끔이요 &name1&님은요?
+P0 	: 전 잘 못보네요 ㅜ
+P1 	: 재밌게 보신 책 있으신가요?
+P0 	: 한때 기욤뮈소 좋아했어요 어떤책 좋으셨어요?
+P1 	: 저는 얼마나 닮았는가요 기욤뮈소는 어느나라 책인가요?
+P0 	: 작가에요 기욤뮈소
+P1 	: 어느나라 작가인가요?
+P0 	: 프랑스요 글을 참 잘써여
+P1 	: 어떤 작가인가요? 환경?경제?인문?
+P0 	: 소설가에요 ㅎㅎ
+P1 	: 기욤뮈소에 어떤 책을 제일 재밌게 읽으셨나요?
+P0 	: 구해줘  당신 거기 있어줄래요그런거요
+P1 	: 오 찾아봐야겠어요

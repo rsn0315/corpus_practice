@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034952
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님...백신 맞으셨나요?!
+P0 	: 1차는 맞았어요!
+P1 	: 저도요!ㅎㅎ 부작용은 없으셨나요?!?
+P0 	: 3일정도 팔 아프고 미열있었어요
+P1 	: 지금은 괜찮으신가요?ㅎ.ㅎ
+P0 	: 네네! 3일 정도 지나니까 괜찮았어요!
+P0 	: &name2& 님은 부작용 없으셨나요?
+P1 	: 저는 팔 아픈거랑 소화불량 외에는 없는데 요즘 가슴 두근거림이 조금씩 있네요! 이게 식도염때문인지는 모르겠지만요!
+P0 	: 식도염이 나아야 알 수 있겠네요ㅠㅠ 식도염 있으시면 식사도 제한 되나요?
+P1 	: 병원에서는 권고로 먹지말라고 하는데 그... 식도염이 심하면,,, 뭘먹어도 소화가 안돼서 속이 답답하거든요ㅜㅜㅋㅋㅋㅋㅋ
+P1 	: 그래서 권고하는대로 먹게 되더라고요
+P0 	: 너무 불편할 거 같아요ㅠㅠ 소화 안 되면 계속 신경쓰이고 답답하더라고요
+P0 	: 죽 드셔야 하는 건가요?
+P1 	: 꼭 죽이 필수는 아닌데 죽이 제일 편하더라고요ㅜㅜㅋㅋㅋㅋㅋ
+P1 	: 죽만큼 소화가 잘 되는게 없어서요ㅠㅠ
+P0 	: 그쵸ㅠㅠ 원래 죽 좋아하세요? 저는 싫어해서 아플 때 너무 괴로워요ㅎㅎ
+P1 	: 네!ㅋㅋㅋㅋ 죽은 잘 먹는 편이에요! 전 흰죽 빼면... 다 잘먹어요 ㅎ.ㅎ.....
+P1 	: 흰죽 너무 맛없지 않나요 특히 병원죽 ㅜㅜ

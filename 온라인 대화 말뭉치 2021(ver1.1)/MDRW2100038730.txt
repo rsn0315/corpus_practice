@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 저녁 뭐드셨나요
+P1 	: 생선조림이요~
+P1 	: 님은요?
+P0 	: 떡볶이 사먹었어요ㅎㅎ
+P1 	: 맛저하셨네요~
+P1 	: 무슨음식 제일 좋아해요?
+P0 	: 라면 좋아해요ㅎㅎ 국민음식
+P1 	: ㅋㅋ다른건요
+P0 	: 마카롱이랑 센베이 과자 좋아해요
+P1 	: 센베이 과자는 뭔가요?
+P0 	: 얇은 과자 있어요 질소포장된거 말구
+P0 	: 김이나 땅콩 들어간거요
+P1 	: 아 먹어본거같아요
+P1 	: 디저트류는 다 맛있죠
+P0 	: 맞아요
+P0 	: 달고 고소한건 언제나 진리

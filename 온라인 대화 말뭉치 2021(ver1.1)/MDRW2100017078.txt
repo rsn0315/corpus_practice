@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시는지?
+P1 	: 아니요 ㅠ 키우고싶어요ㅠㅠ &name1&님은요?
+P0 	: 저두요 ㅜㅜ
+P0 	: 강아지 고양이?
+P1 	: 저 둘다좋은데 사실 강아지가 더좋아요
+P1 	: 그치만 매일 산책시켜줄 자신감도없구..
+P1 	: 아직조금무섭긴해요
+P0 	: 그죠ㅠㅠ 책임감이
+P0 	: 키우고싶은 종 있어요?
+P1 	: 음 저는 요즘에 포인핸즈에서 강아지친구들 많이보거든요. 한국의 똥강아지들 정말 귀여운것같아요
+P0 	: 헉 저도 거기 앱 해놧엇는데 ㅋㅋㅋ
+P0 	: ㅠㅠ 왜버려 이사람들 ㅠㅠ
+P1 	: 그쵸..너무나빠요... 반려동물 데려갔으면 잘 길러야지... 사람이젤 나쁜것같아요
+P0 	: 마자요 입양 다시된거보면 진짜 ㅇ넘 소중한 아이들인데
+P1 	: 구쵸.... 글구 그 기간안에 입양안되면 무지개별로 보내지는것도 너무맘아파요... 그기간을 좀더길게해주면안되나ㅜ
+P0 	: ㅜㅜ 그거 기간이 얼마나돼요
+P1 	: 뭔가 자치구마다 다른것같기두하구.. 저번엔 5일이라 ... 진짜 눈물났던 아가있었어요ㅠ
+P0 	: 홀...진짜 너어무짧은데요

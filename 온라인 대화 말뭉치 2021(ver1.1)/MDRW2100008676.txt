@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 곧 저녁인데 저녁으로 뭐 드실건가요?!
+P1 	: 안녕하세요~~! 전 오늘 저녁은 가볍게 먹으려고요! 샐러드랑 닭가슴살이요! &name1&님은요?
+P0 	: 와 건강식이네요 저는 닭볶음탕 먹을 예정이에요 :-)
+P1 	: 와 닭볶음탕 너무 맜있겠어요ㅠㅠㅠ 요리도 직접하시나요?!
+P0 	: 아뇨 저희 어머니가 해주기로 하셨어요...ㅎㅎ
+P1 	: 우와,, 너무 맛있겠다,,, 저는 닭볶음탕에 있는 재료중에 고기보다 감자가 좀 더 맛있더라고요,,, 밥이랑 슥슥 비벼먹으면 진짜 맛있잖아요ㅠ
+P0 	: 맞아요 그래서 전 닭볶음탕에 감자가 푹 익는게 좋더라구요
+P1 	: 헐 맞아요~~~~~~! 너무좋아요ㅠ 푹 익어야 으깨기도 좋고! &name1&님 좋아하는 음식은 뭔가요?!
+P0 	: 저는 매운 음식 좋아해요!
+P1 	: 저도요! 저도 매운음식 엄청 좋아해요!
+P0 	: 오 저는 불닭 볶음면 같은 거 좋아하는데 가을님은요?
+P1 	: 저 어제도 불닭볶음면 먹었어요! 진짜 맛있잖아요ㅠㅠ
+P1 	: 불닭소스 떡볶이 만들때 넣으면... 진짜 맛있는거 아세요?
+P0 	: 진짜요??!! 어제 떡볶이 먹었는데 내일 또 만들어먹어서 시도해볼게요

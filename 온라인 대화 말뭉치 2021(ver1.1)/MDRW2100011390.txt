@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011390
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가가구님어디가보셨어요
+P0 	: 저 해외는 대만 세부 일본 홍콩 가봤어요ㅎㅎ
+P1 	: 와 많이가셨네요
+P1 	: 저는 인도 일본 우즈베키스탄 딱여기 ㅎ
+P0 	: 와 인도 대박 어떠셨나요
+P1 	: 관광이 아니고 해외봉사로 간거라 여기저기는 못본거같아요
+P0 	: 아 그러시구나 일본은 어디 가보셨나요
+P1 	: 북해도갔었어요 가가구님은요?
+P0 	: 저는 오사카랑 후쿠오카요!
+P1 	: 오 부럽네요 맛있는거 많은곳이네요
+P0 	: 일본 특유의 분위기 너무 좋아요
+P1 	: 네 제가 간곳은 따뜻한동네 느낌이 들더라구요
+P0 	: 코로나끝나면 다시 가고싶네요ㅠ

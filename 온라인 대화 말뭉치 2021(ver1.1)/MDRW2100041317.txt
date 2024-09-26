@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100041317
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 같이갔던친구랑수다떨며봐서재밓었어요!
+P1 	: 그렇군요 여행 좋아하시나요?
+P0 	: 저는 좋아해요!
+P0 	: 좋아하세요?
+P1 	: 네 좋아해요
+P1 	: 그동안 어디 여행 가보셨나요?
+P0 	: 음 유럽이랑 아시아 동남아 가봤어요ㅎㅎ
+P0 	: 인상깊었던곳이있으신가요?
+P1 	: 저는 국내밖에 안가봐서 춘천이요
+P1 	: &name1&님은 가장 좋으셨던 여행지가 어디셨나요?
+P0 	: 춘천 가보고싶었는데 좋으셨나요?
+P0 	: 저는 런던이랑 라오스요!
+P1 	: 춘천 재미있었어요
+P1 	: 라오스는 어느 나라인가요?
+P0 	: 동남아에요!
+P0 	: 춘천에서어디가셨어요?
+P1 	: 저 레일바이크 탔어요
+P0 	: 오 저도꼭타봐야겠어요
+P1 	: 라오스에선 뭐가 제일 좋으셨나요?
+P0 	: 음식 날씨 다 좋았어요
+P0 	: 같이갔던친구가 첫사랑이라 더 좋았던것 같아요
+P1 	: 헐 엄청 로맨틱하네요

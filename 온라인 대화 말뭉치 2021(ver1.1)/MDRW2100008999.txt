@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 음식이 뭐에여?
+P1 	: 매운거 좋아해요. 쭈꾸미 불막창 이런... 그리고 해산물류요 ㅎㅎ
+P0 	: 오 저도 매운거 좋아해요 전 고기좋아해요 ㅋㅋ
+P1 	: 전 고기보단 해산물입니다. 오늘 저녁메뉴는 삼겹살이었네요
+P0 	: 아 ㅋㅋㅋ 저는 오늘 치킨먹엇어영
+P1 	: 흐흐 전 치킨을 싫어해요
+P0 	: 헐 진짜요!?
+P1 	: 네 ㅎㅎ 먹긴하는데 영 별로에요
+P0 	: 우와 신기해요 ㅋㅋㅋ 주변엔 다 좋아하는데
+P1 	: 떡볶이도ㅜ싫어해요
+P0 	: 헐헐
+P0 	: 대박..
+P1 	: 흐흐 회가 젤 좋네요
+P0 	: 오 전 연어회 좋아해요!
+P1 	: 저는 모든~ 회
+P0 	: 오오!!

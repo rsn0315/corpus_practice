@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100008745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 키우는 동물 있어?
+P1 	: 아니 나 키우는 동물은 없어
+P0 	: 키웠던 동물도?
+P1 	: 응 동물은 한 번도 키워본 적 없어
+P1 	: 혹시 키우고 있어?
+P0 	: 아니 사실 나도 한 번도ㅋㅋㅋ
+P0 	: 근데 주변에 키우는 사람들은 있어
+P0 	: 고양이, 개, 고슴도치..
+P1 	: 아아 맞아 나도 주변에 고양이나 개 키우는 건 많이 봤어
+P1 	: 고슴도치는 좀 신기하네
+P0 	: 그치 고슴도치는 쓰다듬기도 어렵더라
+P0 	: 가시를 안 세우고 있는 걸 만져도 따가워..
+P0 	: 알레르기 있거나.. 뭐 그런 건 아니지?
+P1 	: 아 나 고양이털 알레르기는 있어
+P0 	: 헐 그렇구나
+P0 	: 키워보고 싶지는 않았어?
+P1 	: 가끔 그런 생각할 때도 있는데
+P1 	: 반려동물이 혹여나 아프거나 무지개다리 건너면 내가 마음이 많이 아플 것 같아서..?
+P1 	: 그게 마음에 걸려서 못 키우겠더라고
+P0 	: 오 되게 마음이 깊구나
+P0 	: 보통 애완동물의 귀여운 모습을 생각하지 마지막을 떠올리진 않으니까
+P0 	: 맞는 말이야 나도 그거 생각하면 못 키울 거 같다
+P1 	: 그치.. 그리고 금전적인 문제도 좀 있어서?
+P1 	: 밥도 사야하고 미용도 시켜줘야하고 아프면 병원도 가야하니...
+P0 	: 맞아 동물 키우는 게 쉬운 일이 아니지..

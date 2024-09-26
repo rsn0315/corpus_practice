@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100018768
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 형제자매잇으신가요
+P1 	: 네네 있어요
+P1 	: &name1&님도있으세요?
+P0 	: 넵 전 3자매에요
+P0 	: 언니랑 동생있어요!!
+P1 	: 앗 둘째시구나! 저는 막내에요 ㅎㅎ
+P0 	: &name2&님도
+P0 	: (뭐라불러야할지모르겠네요 ㅎㅎ)
+P0 	: 아무튼 세자매이신가요??
+P1 	: 아뇨 저는 남매에요~!
+P1 	: 근데 10대 남성분으로 나오는데 여자분이세요?
+P0 	: 넵 20대여자인데
+P0 	: 초기설정이 잘못됐네요!!ㅠ
+P1 	: 아하ㅠㅠ
+P0 	: 오빠랑 몇살차이나세요??
+P1 	: 5살 차이나요 ㅎㅎ
+P1 	: 몇살터울이세요?
+P0 	: 저는 위로 3살 아래로 5살이에요 ㅎㅎ
+P0 	: 오빠랑 말 잘통하시나요??
+P0 	: 저는 가끔 동생세대 언어 따라잡기 힘들던데 ㅎㅎ
+P1 	: 둘다 헛소리하면서 노는편이라 잘 통해요 ㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋ오빠랑 싸우신적은 없으신가요??
+P1 	: 자주싸우져 ㅋㅋㅋㅋㅋ
+P0 	: 저는 언니랑 사이는 좋은데
+P0 	: 한번 크게싸우몈
+P0 	: 1년동안 말안하고 지내요 ㅋㅋ

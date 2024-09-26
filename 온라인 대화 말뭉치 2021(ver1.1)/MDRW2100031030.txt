@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031030
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동아리 활동 해보셨나요?-
+P1 	: 그럼요 ㅎㅎ 전 컴퓨터 동아리 만들어서 했어요
+P0 	: 오 그럼 어떤 활동을 주로 하나요?
+P1 	: 엄청 오래전의 일이라 사람들 컴이랑 친하지도 않을 때네요 ㅋㅋ ㅠㅠ
+P0 	: 그럼 주로 뭘 하셨나요?
+P1 	: 작품이라고 ppt 로 만들고  부끄럽네요
+P0 	: 오 작품을 만드셨군요 그당시 ppt만드는거면 신식이었을듯요
+P1 	: 그런것도 와 하며 신기해했지만 생각해보면 웃긴 ㅋㅋ
+P0 	: 피피키 주제는 주로 무엇이었을꺼요
+P1 	: 영화 좋아하는거 조사해서 만들었어요
+P0 	: 아 그러시군요! 학창시절 당시 기억나는 영화 있나요?
+P1 	: 그때 1위가 타이타닉 ㅋ
+P0 	: 오 그럼 피피티도 타이타닉이었나요?
+P1 	: 네 1-10위 포스터 랑 여러가지 ㅋ
+P0 	: 뭔가 아련한 추억이네요 그시절 영화..

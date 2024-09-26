@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002952
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~ 저녁 뭐드세요?
+P0 	: 오늘 저녁은 집밥 먹을거같아요~ 코로나때문에 그냥 집에서~
+P0 	: 응아님은요?
+P1 	: 저는 친구랑 약속있어서 양식먹을거같아요 ㅎㅎ
+P0 	: 오호 저도 양식 좋아해용 스테이크같은거
+P1 	: 까르보나라랑 스테이크 먹고올거에요 ㅎㅎ설렌다
+P0 	: 와 맛있겠네요
+P0 	: 저는 집에서 김치랑 김 ㅋㅋㅋ..
+P1 	: 반찬이 ㅠㅠ넘나슬픈데요 계란후라이라도 해먹어요
+P0 	: 음료수는 어떤 음료수 좋아하세요?
+P1 	: 알로에나 매실 좋아해요 ㅎ 알로에를 더좋아하는듯
+P0 	: 저는 토마토 주스 좋아해요~ 근데 과일주스가 설탕이 엄청 들어갔대요
+P1 	: 마자요 ㅠ 시럽빼달라고하면 맛없어서 먹을수가없어요 ㅋㅋㅋ
+P1 	: 토마토 좋아하시는군요!
+P0 	: 콜라랑 사이다 둘중에 어떤거 좋아하세요?
+P1 	: 저는 탄산별로안좋아해용 ㅠㅠㅋㅋㅋ 굳이 먹는다면 사이다!
+P0 	: 저도 사이다가 더 좋아요~

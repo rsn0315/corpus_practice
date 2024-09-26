@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016146
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심메뉴 정하신거있으신가요
+P1 	: 저는 떡볶이요ㅎ
+P1 	: 뭐드시나요?
+P0 	: 떡볶이 너무 좋네요
+P0 	: 저 아마 라면..?
+P0 	: 오늘은 좀 간단히 먹고싶어서요ㅎ
+P1 	: 아ㅎ라면도 좋죠ㅎ
+P0 	: 떡볶이 배달시켜드시나요 만들어드시나요?
+P1 	: 배달요ㅇ
+P1 	: 일하고있어서ㅎ
+P0 	: 자주시켜먹는 곳이 있나요?
+P1 	: 아뇨 정한곳은없어요
+P1 	: 배민자주써요
+P0 	: 프랜차이즈 주로 시켜드세요?
+P1 	: 이것저것요ㅎ  좋은곳 있나요?
+P0 	: 어.. 저는 떡볶이는 그냥 로컬맛집에서 시켜먹어서..
+P0 	: 엽떡이나 그런건 너무 자극적이라 잘 못먹어요
+P0 	: &name2&은 매운거 잘 드시나요
+P1 	: 아니요 매운맛은 잘못먹어요
+P1 	: 초딩입맛
+P0 	: 저도 그래요ㅎ
+P0 	: 매운건 먹고나면 항상 후회해서

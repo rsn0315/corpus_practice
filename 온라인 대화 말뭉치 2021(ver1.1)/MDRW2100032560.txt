@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032560
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책은 얼마나해요?
+P0 	: 제 책은 싸면 2만원대 비싸면 6만원대예요ㅠㅠ
+P1 	: 비싸군요..한두권도아닐텐데
+P0 	: 그러니까요ㅠㅠ
+P0 	: 좋아하시는 책 있으신가요??
+P1 	: 저두 애들 문제집이나 필독도서만 사서~~
+P0 	: 그럼 재밌게 읽으신 책 있으신가요??
+P1 	: 저도 제가일하는 서적만읽어서
+P0 	: 그렇군요
+P1 	: 재미있다기보다는 공부하기위해 읽는책요
+P0 	: 저도예요 일하시는데 책읽으실 일이 있으신가봐요??
+P1 	: 네..애들가르치는일이라
+P0 	: 그럼 책을 많이 읽으셔야 하겠어요
+P1 	: 많이는 아니고~ㅎ

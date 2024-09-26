@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100035951
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 오늘 서브웨이 갔답니다 ㅎㅎ
+P0 	: 오 어떤 메뉴 드셨나요!
+P1 	: 로티세리 치킨이요!
+P1 	: 핫칠리소스랑 머스타드 소스넣었는대
+P1 	: 와 너무 맛있어서 감탄했어요
+P1 	: &name1&님은 좋아하는 메뉴 있으세요?
+P0 	: 저는 예전에는 에그마요에 베이컨추가 좋아했는데 요즘에는 터키요 !
+P0 	: 로티세리 먹어봐야겠네요 ㅎㅎ
+P1 	: 아아 에그마요 맛있다 들었어요 ㅋㅋㅋ
+P1 	: 터키도 맛있나요!!
+P1 	: 소스 맛 레시피는 뭐죠 !!
+P0 	: 터키는 담백해요ㅋㅋ!
+P0 	: 소스는 렌치 스윗어니언 핫칠리조금 입니다..
+P0 	: 조금 소스가 많아도 밸런스가 굿이에용
+P1 	: 오호
+P1 	: 기억해두겠숩니다 ㅋㅋㅋㅋㅋ
+P0 	: 좋아요ㅋㅋ 저도 로티세리 그 조합으로 먹어보겠어요..
+P1 	: 쿠키는 뭐 좋아하새요?
+P0 	: 제 최애는 화이트마카다미아요 !!
+P0 	: 쿠키뭐 좋아하세요?
+P1 	: 오 그것도 맛나나요?!
+P1 	: 잔 다크초코 그것만 먹어봐서 ㅋㅋㅋㅋㅋ
+P0 	: 네네 젤 맛있어요 ㅋㅋㅋㅋ!!
+P0 	: 사실 서브웨이쿠키는 다 맛있는 것 같아요ㅜㅜ
+P1 	: 쿠키가 대체로 다 맛나긴하죠 ㅎ..

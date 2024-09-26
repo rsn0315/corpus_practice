@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 오늘 점심 뭐 드셨나요
+P1 	: 라면이요. 배달음식 시키려다가 때를 놓쳤어요
+P1 	: &name1&는 뭐 드셨어요?
+P0 	: 삼겹살을 먹었어요
+P0 	: 언니가 도드람 한돈을 샀는데 고소하더라고요
+P1 	: 도드람 한돈 맛있죠ㅜㅜ 비싸지만 값어치를 합니다
+P0 	: ㅎㅎ 드셔보셨군요.
+P0 	: 일반 한돈과 다르더라고요
+P0 	: 무슨 라면 드셨나요
+P1 	: 전 가볍게 진라면에 계란이랑 파 송송 넣어서 먹었어요
+P1 	: 국물은 안먹고 면만 싹 건져먹었네요
+P0 	: 국물은 원래 안 드세요?
+P0 	: 진라면 국물도 맛있는데ㅜ
+P1 	: 국물까지 먹으면 배불러요ㅜㅜ
+P1 	: 아 끓일 때 물 조금 덜 넣고 우유 넣어도 맛있어요
+P1 	: 면도 꼬들함 유지됩니다
+P0 	: 우유와 물 비율이 얼마인가요?
+P1 	: 물 3/4, 우유 1/4이요
+P1 	: 무슨 라면 좋아하세요?
+P0 	: 진매요!
+P0 	: 진라면 매운맛은 사랑입니다
+P1 	: 아 같으시네요 배우신분
+P0 	: ㅎㅎ 순한맛은 겸상 안해요

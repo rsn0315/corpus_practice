@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당근 거래 해 보셨어요?
+P0 	: 아뇨 당근은 안해봤어요
+P0 	: 눈팅만 해봤어요
+P1 	: 전 몇 번 해봤는데
+P1 	: 노력에 비해 돈이 너무 안 되더라고요ㅋㅋ
+P0 	: 그렇군요 네이버페이 쓰시나요?
+P1 	: 내 페이쓰죠~
+P1 	: 네이버가 할인도 많이 되고 포인트도 많이 적립해주더라구요
+P0 	: 그렇더라구요 네이버 멤버쉽 가입하면
+P0 	: 포인트 더 주는거도 쏠쏠해요
+P1 	: 다른데는 포인트 잘 안 쌓이는데
+P1 	: 네이버는 진짜 쏠쏠해요
+P0 	: 충전해서 쓰면 2.5%적립인가 그렇죠?
+P0 	: 그거만 해도 웬만한 신용카드 무찌르겠던데요
+P1 	: 네이버 페이에 진심이시 군요ㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋ그래보이나요 ㅋㅋ
+P1 	: 저도 쇼핑에는 진심이라ㅋㅋㅋㅋ
+P1 	: 네이버는 최저가 검색하기도 편하고
+P1 	: 포인트도 좋고
+P0 	: 네 편리해보였어요

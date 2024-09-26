@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100033546
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 무슨일하세요?
+P1 	: 저 사무직이요. &name1&님은요
+P0 	: 저도 사무직이라해야되나  ㅎ
+P0 	: 회계 행정쪽은 아니고
+P1 	: 네.. 컴으로 사무 보면 사무직이죠 ㅎ
+P0 	: 그럼 사무직이요ㅎㄹ
+P1 	: 전 혼자라 이것저것 해요. 사장님 차 운전도 하고 ㅋ
+P0 	: 오 운전도요?ㅎ
+P0 	: 전 장롱면허
+P1 	: 술 달 깨셨을 때 가끔이요 ^^
+P0 	: ㅎㅎ 그런것까지 다챙길려면 피곤하실듯
+P1 	: 아주 가끔이라 괜찮아요.
+P0 	: 혼자겨심 심심하시겠어요
+P0 	: 말동무도 없고
+P1 	: 알바 말고 정규직은 여기가 첨 인데
+	  처음부터 혼자 일해서 넘 편해요
+P0 	: 일은 혼자가 편한거같아요
+P0 	: 상사있음 스트레스 ㅎ 부하직원있어도 관리스트레스
+P1 	: 맞아요..조금 심심한게 훨 좋죠
+P1 	: 12년을 혼자 하니까 다른 직원 들어옴 불편할 거 같아요
+P0 	: 오 오래하셨네요 한직장에서요?
+P1 	: 네 ㅋ
+P0 	: 오 대단하셔요 ㅎ
+P1 	: 어찌 지내다 보니 세월이 그리됐더라구요..
+P0 	: 전 두회사를 왔다갔다 반복했는데
+P0 	: 상사땜에 스트레스 받아서 때려쳤다가
+P0 	: 다시 결국 돌아왔어요
+P1 	: 에고 상사 스트레스 겪어보진 않았지만 힘드셨을 거 같네요.
+P0 	: 맨날 싸웠어요ㅋ 제가 할말다하는스타일이라
+P1 	: 할말은 하고 살아야죠. 잘하셨어요. ㅎㅎ

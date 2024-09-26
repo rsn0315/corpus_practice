@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100023458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 네 안녕하세요
+P1 	: 여행 계획 있으신가여
+P0 	: 아뇨 관심만 조금 있어요
+P1 	: 아 네 제주 여행겸 지내고 있어요
+P0 	: 숙소는 어디서 구하셨어요?
+P1 	: 아무래도 코시국이라
+P1 	: 저는 제주시에 있어요
+P1 	: 당근마켓에서
+P1 	: 연세 승계헸어요
+P0 	: 당근이 좋네요 ㅎㅎ
+P0 	: 시세가 얼마쯤 해요?
+P1 	: 서울이랑 비슷한 것 같은데
+P1 	: 연세500-600선이예여
+P1 	: 제주하면 떠오르는 기념품 있으세요
+P0 	: 그렇군요 서울원룸이랑 비슷하네요
+P0 	: 하루방이요 ㅎㅎ
+P0 	: 감귤초콜렛이랑요
+P1 	: 요즘엔 스타벅스 한정 굿즈나
+P1 	: 제철과일 많이사시더라구요
+P1 	: 제주산 애플망고도 있어요
+P0 	: 아하 네 그거맛있어요?
+P0 	: 가격이 넘비싸던데요
+P1 	: 비싸요
+P1 	: 전 청귤나오길래
+P1 	: 청담아서 친구들 놀러오면 기념으로 줄려구요

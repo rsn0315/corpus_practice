@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009823
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 친구가 스벅쿠폰줬는데
+P1 	: 은제 먹으러갈까 각잡고있어요
+P1 	: 스벅자주가시나요
+P0 	: 더울때 마셔야 좋은데ㅎㅎ
+P0 	: 네 저는 스벅 자주가요 커피 좋아서ㅎㅎ
+P1 	: vip시네요 저는 가끔가는데
+P1 	: 카페가 많아서요
+P0 	: 주변에 스벅이 제일 가깝구 아니면 편의점이라...선택지가 없네요ㅠㅠㅋㅋ
+P1 	: 아하!  그럼 스벅가야죠ㅋㅋ
+P0 	: 어쩔수없이 vip가 되고있어요ㅠㅠㅋㅋ
+P1 	: 저는 초코음료 쿠폰이라 점심먹고 살 가려구요
+P1 	: vip는 어떤혜택이 있나요
+P0 	: 오 저도 초코좋아하는데ㅎㅎ
+P1 	: 초코 진리죠ㅋ
+P0 	: 저는 프라푸치노 좋아하는데 왠지 오늘은 날이 아닌거같은ㅎㅎ
+P1 	: 마싯죠 그거 ㅜㅜ  거품좋아요
+P1 	: 저는 이가시려서ㅜㅜ 프라페?류를 못먹게됐어요
+P1 	: 프라페가 얼음간거 맞나요?
+P0 	: 네 맞아요ㅎㅎ
+P1 	: 거품은 먹을수있어요ㅋㅋ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100005625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 수요가 많은 직종이라 그럴수있었던것같아여ㅎㅎ
+P0 	: 오!! 어떤 직종이신가요?
+P1 	: 저 개발자예요!
+P1 	: 요즘 핫하져ㅎㅎ
+P0 	: 헐 개발자 완전 멋있으세요!!
+P1 	: 뽑는데가많아서
+P1 	: 엄청눈이높지만않다면..
+P1 	: 괜찮은 분야인것같아요
+P0 	: 멋있다... 수요 많지만 그만큼 공부가 힘들지 않나요?ㅠㅠ
+P1 	: 공부 힘들죠ㅠㅜ  끝이 없어요..
+P1 	: 평생공부해야된다는데
+P1 	: 눈물뿐
+P0 	: ㅠㅠ그러면 it계열 학과 나오신 거예요?
+P1 	: 네네 컴공이에요
+P0 	: 헐 사실 저도 그쪽 학과인데 제 적성이 아닌가 싶어서 고민이에요...
+P1 	: 헐 그렇군요ㅠㅠ
+P1 	: 동기들중에서도 적성안맞아서 힘들어하는친구들 꽤있었어요
+P0 	: 전공이 너무...어렵더라구요ㅠㅠ
+P0 	: 그런 분들은 어떻게 하셨나요?
+P1 	: 휴학하고
+P1 	: 생각정리하고오는친구들도잇었고
+P1 	: 다른분야로 진로바꾼친구들도있어요
+P0 	: ㅠㅠ제 미래일까요...

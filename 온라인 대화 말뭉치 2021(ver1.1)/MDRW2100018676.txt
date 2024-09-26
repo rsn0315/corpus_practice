@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 별로안해요
+P0 	: 전 청소담당이요
+P1 	: 전 청소보단 설거지 좋아해요 ㅋㅋㅋ
+P0 	: 화장실청소가가장 힘들죠
+P1 	: 사용해보니 추천할만한 청소용품 있으신가요?
+P0 	: 락스가 최공요
+P1 	: 락스와 세제라는 제품 괜찮았어요 ㅋㅋ  이름이 락스와 세제에요 ㅋㅋ
+P0 	: 그른가요?
+P1 	: 청소를 잘하는 비결이 있으신가요
+P0 	: 환기잘해도 곰팡이생길까보ㅓ
+P1 	: 벽지에 곰팡이 생긴적있는데 튜브에 든 젤형태 락스로 다 없앴었어요
+P0 	: 잘 안 없어지는데

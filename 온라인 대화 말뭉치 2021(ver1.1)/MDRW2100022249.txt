@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음료 자주 드세요?
+P0 	: 음료 네 좋아해오
+P1 	: 어떤 음료 주로 드세요?
+P0 	: 탄산종류 자주먹어요
+P0 	: &name2&님은요
+P1 	: 오 저도 탄산 좋아해요
+P1 	: 근데 설탕 덩어리라 하더라구요 ㅜㅜ
+P0 	: 맞아요..
+P0 	: 당쩔..
+P1 	: 그래서 저 제로음료만 먹어요
+P1 	: 제로음료 먹어봤어요?
+P0 	: ㅋㅋㅋㅋ 콜라요?
+P1 	: 콜라랑 사이다
+P0 	: 콜라는 먹어봤어요
+P1 	: 어디 브랜드꺼요?
+P0 	: 사이다도 제로가있나요
+P1 	: 네 그럼요 스프라이트랑 칠성사이다 둘다 있던데요?
+P0 	: 콜라 보통 코카콜라먹지않나요
+P1 	: ㅋㅋ펩시도 제로펩시 내놨더라구요

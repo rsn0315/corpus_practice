@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014202
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 한옥수영장이 뭐야
+P0 	: 여기가 예능프로에도 나왔다고 하더라
+P1 	: 그럼 사람들 많이 오겠다
+P0 	: 경기도 양주에 있고
+P1 	: 전라도가 아니네
+P0 	: 응 전라도가 아닌 경기도
+P1 	: 잘못 갈뻔했네
+P0 	: ㅋㅋ여기가 전통한옥이랑 수영장을 하는데
+P1 	: 펜션인가보네
+P0 	: 한옥펜션이래 독특하다 가볼만 할듯
+P1 	: 응 완전 이쁘겠다
+P0 	: 그렇지 한옥도 이쁜데 수영장까지 있으니
+P1 	: 여긴 진짜 한빈 가봐야겠다

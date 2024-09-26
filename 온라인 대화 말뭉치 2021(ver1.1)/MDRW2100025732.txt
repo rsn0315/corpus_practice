@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025732
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 동호회 활동해보신적있나요?
+P1 	: 음 동호회는 아니구 그냥 운동 클럽은 들어가봤어요
+P1 	: 동호회 활동 해보셨어요?
+P0 	: 아뇽 ㅠ 들어가면 친목도모 위주인가용?
+P1 	: 친목도모도 많이 하시긴하시더라구요
+P1 	: 전 그냥 운동만 하고 싶은데
+P1 	: 운동끝나고 회식도 하시더 그러더라구요
+P0 	: 어떤 운동모임이었어요?
+P1 	: 탁구도 하고 수영도 하고 했어요!
+P0 	: 오 활동적이시네용!
+P1 	: 집들어가기 전까지만 활동적이에요ㅋㅋ
+P1 	: 들어가보고싶은 동호회있으세요?
+P0 	: 저도 운동동호회? 저는 아예운동에 취미가없어서 배우면서 해보고싶네용 ㅎㅎ
+P1 	: 동호회같은데 들어가서하면 배우는데 더 좋을거같아요
+P1 	: 어떤 운동 하고싶으세요?
+P0 	: 요즘엔 테니스배워보고싶어용

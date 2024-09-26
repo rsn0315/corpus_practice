@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003780
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :) 비가 엄청 내리네요ㅠㅠ
+P0 	: 가을장마라 그런가봐요
+P0 	: 혹시 어느계절이 제일 좋으세요?
+P1 	: 저는 겨울을 제일 좋아해요! 칼바람은 좀 시리긴한데 찬공기가 너무 기분 좋아서요 ㅎㅎ
+	  어떤 계절 좋아하세요??
+P0 	: 저도 원래는 겨울 좋아했는데
+P0 	: 요즘은 봄이나 여름이 냄새때문에 좋은거같아요
+P1 	: 계절냄새 좋아하시나봐요!
+	  그럼 겨울 끝나갈 때쯤 되게 설레겠어요! 좋아하는 계절이 연달아 다가오니까 ㅎㅎ
+P0 	: 겨울은 냄새는 안나는데
+P0 	: 크리스마스 분위기가 참 좋은거같아요
+P1 	: 맞아요 크리스마스의 그 연말분위기는 딱 그 때만 느낄 수 있는 거라 더 좋은 것 같아요 ㅎㅎ
+	  한창 춥다가도 그 때는 잠깐 포근해지는 것 같기도 하고요 ㅎㅎ
+P0 	: 크리스마스때 캐롤 들리는게 참 좋더라구요
+P0 	: 캐롤 좋아하세요?
+P1 	: 찾아듣지는않는데 그냥 기분 내기에는 좋은 것 같아요!
+	  작년엔 꽤 조용히 크리스마스가 지나가서 캐롤도 별로 못 들어본 것 같아요ㅜㅜ
+P0 	: 요즘에는 계절이 빨리빨리 바뀌네요
+P1 	: 그러게요! 가을은 더 빨리 가겠죠!
+	  개인적으로 얼른 겨울이 왔으면해요 ㅎㅎ
+P0 	: 넵 이제 곧 오겠죠?

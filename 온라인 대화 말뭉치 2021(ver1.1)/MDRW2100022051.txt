@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022051
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 요즘은 서점에 많이 가
+P0 	: 너 원래 책 안 좋아하잖아
+P1 	: 코로나 이후에 많이 가고 있어
+P0 	: 심심해서 그러니
+P1 	: 그런 이유도 있지
+P0 	: 또 다른 이유는 뭔데
+P1 	: 내가 여행을 좋아하잖아
+P0 	: 그런데
+P1 	: 코로나로 인해 갈 수 없게 돼야지
+P0 	: 그것이 책이랑 무슨 상관이야
+P1 	: 그래서 여행책을 보면서 대신 만족을 해
+P0 	: 아하 기행문을 보는구나
+P1 	: 맞아 직접 여행가지 않아도 그 기분을 느낄 수 있어

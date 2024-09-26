@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 헉 진짜요?
+P1 	: 치킨 떡볶이도 호캉스에 딱이죠ㅋㅋㅋ
+P0 	: 맞아요 ㅎ.ㅎ &name2& 여행지 고르실 때
+P0 	: 천천히 생각해뷰ㅣㅅ거 고르세요!? 아님 즉흥적이세요?!
+P1 	: 오 저는 즉흥적인 것도 좋아해요
+P1 	: 항상 해보고만 싶은건데 기차나 버스 타고 아무데나 내려보고싶어욬ㅋㅋㅋ
+P0 	: 헐 저도요!!!!!!!!!! 도착지 모르고 떠나는 여행 너무 낭만이에요 ㅎㅎ
+P1 	: 그쵸 근데 해보진 않았어욬ㅋㅋㅋ
+P1 	: 그리구 버스 처음 시작하는 곳에서 타서 종점까지 가보는 거 이런 것도 좋아해용
+P0 	: 저도요! 특히 노래 들으면서 창밖 보는 거요!!!!!
+P1 	: 저두요ㅋㅋㅋㅋ
+P1 	: 특별하게 뭘 하는건 아닌데
+P1 	: 그냥 좋아요ㅎㅎ
+P0 	: ㅎㅎ &name2&은 기념품 많이 사오시는 편이신가요! 여행갈때
+P1 	: 네 좋아해요!
+P1 	: 소품샵 같은 곳 가는거 좋아해요
+P0 	: 저도요!!! 귀여운건... 가격도 안 보고
+P0 	: 막 지르거든요 ㅎㅎ
+P1 	: 저도욬ㅋㅋㅋㅋㅋ고민은 하는데
+P1 	: 결국 사더라구요
+P0 	: ㅋㅋㅋㅋㅋㅋ 약간 추억의 힘이죠 ㅎㅎ
+P0 	: &name2&은 여행 계획 완전 꼼꼼하게 정해서 떠나시나요?
+P1 	: 음 완전 꼼꼼하게는 아니에요!
+P1 	: 어디 갈지 대강 정하는 정도ㅎㅎ

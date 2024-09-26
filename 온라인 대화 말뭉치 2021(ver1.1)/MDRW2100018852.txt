@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018852
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠경기 자주보는거 있으세요?
+P0 	: 저는 안보는데 이번에 올림픽에서는 양궁이랑 배구 재미있게봤어용
+P1 	: 오저도 배구요! 진짜 흥미진진했죠?
+P0 	: 네 맞아요! 정신력이 정말 대단해보이더라고요!ㅠㅠ
+P1 	: 연경신같은 분이랑 같이 일하면 너무 든든할거같았어요!!
+	  양궁은 어느분 중점적으로 보셨어요?
+P0 	: 저는 안산선수와 재덕선수요! 두분다 어리신데 대단하시더라고요!
+P1 	: 맞아요 안산선수 안산역 재미있었어요ㅋ
+P0 	: 운동선수들은 집중력이 대단해야하는것 같았어요!ㅎㅎ
+P1 	: 네 엄청나게 노력도 많이 했을거구요! 국가대표되는게 진짜 힘들잤아요
+P0 	: 맞아요ㅜㅜ 그래서 더 대단해보여요! 배구관람도 가보고싶네용
+P1 	: 맞아요 관심이 생겼어요! 직관하고싶어졌어요!
+P0 	: 김연경 선수말고 다른 선수들에게도 관심이 가더라고용!
+P1 	: 맞아요~ 게임 자체에 흥미도생겼어요

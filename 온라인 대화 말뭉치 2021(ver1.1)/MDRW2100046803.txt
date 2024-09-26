@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046803
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 에이욧
+P0 	: 하이
+P1 	: 오늘 금요일인데, 약속 있으신가요?
+P0 	: 네 ㅎ 없어요
+P0 	: 세차나 하려구요
+P1 	: 오 저는 세차만 하면 비가 와서 요즘 안하고 다녀요..
+P1 	: 세차하면 확실히 기분은 좋아지죠
+P0 	: 네 글쵸 ㅎㅎ
+P0 	: 사실 너무 오래 안해서 오늘 오랫만에 한번 하려구요
+P1 	: 세차하고 어디 드라이브는 안가시나요
+P0 	: 네 내일 가야죠 ㅋ
+P0 	: 금요일인데 퇴근하고 머하시나요 &name2&님은
+P1 	: 저는 오늘 치맥하면서 넷플릭스나 보려구요
+P0 	: 오 어떤거 보실거에요?
+P1 	: 요즘은 한소희 나온 마이네임이 핫하대서 그거 볼까 생각중이에요
+P0 	: 아 마이네임 들어봤어요 잔인한데 재밌다고 하더라구요
+P1 	: 네네 ㅋㅋ 배우들도 다 연기 잘한다고해서 기대중입니다
+P1 	: 빨리 퇴근하고 보고싶네요
+P0 	: 네 ㅋㅋ 재밌게 보세요
+P1 	: 네~ &name1&님도 즐거운 불금 보내시길 바랍니다 ㅋㅋ
+P0 	: 네 감사해요 ㅋㅋ 
+	  &name2&님도 즐거운 주말 보내세요 ㅋㅋ

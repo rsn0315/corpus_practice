@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 끝나면
+P1 	: 여행 어디 가고싶으세요?
+P0 	: 저는 해외요 ㅠㅠㅠ
+P1 	: 오 해외 좋죠
+P1 	: 해외 어디요??
+P0 	: 프랑스 가고싶어용 !
+P0 	: 가고싶은곳 있으세요?
+P1 	: 오 전 미국이요
+P1 	: 듣기만해도 프랑스 너무 좋네요
+P1 	: 아니면 캐나다도 가고싶어요ㅋㅋ
+P0 	: 친구가 코로나전에 다녀왓는데
+P0 	: 그렇게 극찬을 하더라구요 ㅠㅠ
+P1 	: ㅠㅠㅠㅠㅠ 아 너무 좋을 거 같아요
+P1 	: 이름만 들어도 부럽네요
+P0 	: 그쵸 ㅠㅠ 내년엔 제주도라도 가려구용
+P1 	: 제주도 좋죠 ㅠㅠㅠㅠ
+P0 	: 집에만 있으니
+P0 	: 넘 우울해영 ㅠ
+P1 	: 알아요 ㅠㅠㅠㅠㅠㅠ
+P1 	: 여행 가고싶죠 ㅠㅠㅠ
+P0 	: 기억나는 여행지 있나요?
+P1 	: 저도 제주도요ㅋㅋㅋㅋㅋㅋㅋ

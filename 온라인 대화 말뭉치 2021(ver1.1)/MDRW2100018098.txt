@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100018098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 구매 희망하시는 물건 있으세요?
+P0 	: 글쎄요 최근에 쇼핑을 너무 해서요 ㅋㅋㅋ
+P1 	: ㅋㅋ최근 구매하신건 어떤거에요?
+P0 	: 가을 옷 구입했어요
+P1 	: 날씨가 좋아지니 옷 구매할때죠
+P0 	: 맞아요 가을옷 장만하셨어요??
+P1 	: 아직요! 최근에 음식만 계속 산거같아요ㅋㅋ
+P0 	: 음식은 끝없는 굴레죠..
+P0 	: 뭐사셨어요??
+P1 	: 맞아요..
+P1 	: 냉동야채들이요ㅋㅋ
+P0 	: 야채들 쟁여두면 든든할거같아요
+P1 	: 맞아요ㅋㅋ 귀찮아서 샀는데 꽤 괜찮더라구요
+P0 	: 냉동식품도 계속 쟁여두게 되는거같아요
+P1 	: 그쵸그쵸 다음엔 냉동 새우 사려구요
+P0 	: 새우 너무 맛있죠

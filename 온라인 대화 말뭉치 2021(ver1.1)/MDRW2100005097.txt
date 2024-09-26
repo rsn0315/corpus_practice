@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100005097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 좋아하는 책 있으세요?
+P1 	: 모모좋아해요
+P1 	: 모모 읽어보셨나요?
+P0 	: 오 네 예전에 읽어봤어요
+P0 	: 모모는 그 패키지가 너무 귀여워요 책 표지
+P1 	: 맞아요
+P1 	: &name1&님은 재밌게 봤던 책 있나요
+P0 	: 저는 비행운 재밌게 봤어요
+P0 	: 우울한 얘기긴 한데 장마철에 읽어서 그런지 잘 어울리더라구요
+P1 	: 들어본거 같아요 기회가 되면 한 번 읽어봐야겠어요
+P1 	: 웹툰이나 웹소설같은 것도 보시나요? 저는 웹툰은 봐요
+P0 	: 저 예전엔 열심히 봤는데 요샌 안봐요
+P1 	: 재밌게봤었던 웹툰있나요?
+P0 	: 웹툰 뭐 보세요? 저 치인트랑 신과함께 이런거 봤었어요ㅎㅎ
+P1 	: 치인트 완전 재밌죠
+P1 	: 명작이잖아요
+P1 	: 인물들의 특성을 잘 표현해 내서 더 사랑 받았던 거 같아요
+P1 	: 저는 어서오세요. 305호에 재밌게 봤어요
+P0 	: 오 어떤 얘기예요?
+P0 	: 저도 찾아봐야겠어요
+P1 	: 약간 갇혀있던 성소수자에 대한 편견을 깨는? 이야기에요. 무거운 이야기는 아니고 아 세상에는 다양한 사람들이 존재하는구나 하고 이 웹툰 보고나면 자신을 되돌아보게 한다고 하는 사람들이 많더라구요
+P1 	: 앗 너무 횡설수설했나요
+P0 	: 오 아뇨 좋은데요? 저 지나가다가 설명 본 거 같은데
+P0 	: 그 웹툰 제목이 그건가봐요!

@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100012300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 너 몇학점 들어?
+P1 	: 나 17학점!
+P0 	: 2학점짜리 듣는거야?
+P1 	: 2학점이랑 3학점 번갈아가면서 들어!
+P0 	: 그렇구나 나는 3학점만 들어
+P1 	: 넌 몇 학점 듣는데?
+P0 	: 나는 18학점
+P0 	: 3학점짜리 6개
+P1 	: 이번에 기대되는 강좌있어?
+P0 	: 나는 게임 메이킹
+P1 	: 우와 재밌겠다
+P0 	: 맞아 기대된다
+P0 	: 너는 기대되는 강좌있어?
+P1 	: 나는 디자인 표현기법!
+P0 	: 오 재밌겠다. 너네 등록금은 얼마야?
+P1 	: 한 417만원 정도 나왔어ㅠ
+P0 	: 혹시 미대야?
+P1 	: 앗 맞아!
+P1 	: 너는 공대?
+P0 	: 아니야 나는 인문계야
+P0 	: 등록금은 냈어?
+P1 	: 게임 메이킹 이라며!!!
+P0 	: 콘텐츠 학과라그래
+P1 	: 아 그렇구나ㅎㅎㅎ
+P0 	: 등록금냈어?
+P1 	: 웅 오늘 냈어!
+P1 	: 넌?
+P0 	: 오 나도 오늘 냈어!
+P1 	: 넌 얼마 나왔어?
+P0 	: 너네 과 과제 많아?

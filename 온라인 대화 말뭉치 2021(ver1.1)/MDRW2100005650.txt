@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100005650
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 오늘처럼
+	  비오는날 좋아하세요?
+P1 	: 집 안에만 있는 날은 비 오는 게 좋고, 외출 일정이 있는 날은 화창한 게 좋아요!
+P0 	: 정답이네요:)
+P0 	: 사계절 중 어느 계절을
+	  가장 좋아하세요?
+P1 	: 저는 겨울을 가장 좋아해요!
+P0 	: 오 겨울이요?
+P0 	: 좋아하는 이유는요?^^
+P1 	: 제일 큰 이유는 땀이 안 나서요! 여름에는 땀 흘리는 게 너무 싫은데 겨울은 아니니까요!
+P0 	: 저도 겨울을 좋아했던거 같은데
+P0 	: 출퇴근거리가 좀 멀었었는데
+P0 	: 겨울에 눈이 많이 오면
+	  새벽부터 나가도 지각하게되는
+	  경우들이 생겨서 싫어졌어요ㅠㅋ
+P1 	: 그건 정말 불가피한 경우니까요...비슷한 이유로 가을도 좋아해요!
+P0 	: 저도 가을을 좋아해요:)
+P0 	: 가을하늘 가을바람 너무 좋아요
+P1 	: 또 식욕의 계절이기도 하지요! 가을에 좋은 경치를 보면서 맛있는 걸 먹으면 참 쉽게 행복해져요ㅎㅎ
+P0 	: 행복이란게 참 별거 없죠:)
+P0 	: 이렇게 소소하게도 행복할수 있는데
+P1 	: 한 여름 습할 때 집에서 켜는 에어컨처럼요ㅋㅋㅋㅋ
+P0 	: ㅋㅋ맞아요:)
+	  아 일기예보보니
+	  다음주도 계속 비소식
+	  있는거 같더라구요
+P1 	: 외출하는 시간대에 비가 그나마 들 오기를 바라요ㅠㅠ

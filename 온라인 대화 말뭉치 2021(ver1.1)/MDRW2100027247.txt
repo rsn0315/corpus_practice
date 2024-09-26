@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100027247
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 네! 국내 국외 다 좋아해요. &name1&도 여행 좋아하세요?
+P0 	: 네 좋아여
+P1 	: 가장 기억에 남는 여행지가 어디셨나요?
+P0 	: 호주요
+P1 	: 오{emoji:…}호주엔 어디가 관광명소인가요?
+P0 	: 오페라하우스봤어요
+P1 	: 헐 시드니 오페라 하우스 말이죠??? 대박...전 호주 안 가봤거든요! 오페라도 직접 보셨나요?
+P0 	: 네 직접오
+P1 	: 와{emoji:…}{emoji:…}대박 문화생활 하고 오셨군요 전 싱가폴이랑 대만 베트남 이런 곳만 갔어서 그런 기회는 없었네요ㅜㅋㅋㅋㅋ
+P0 	: 동남아 덥죠?
+P1 	: 네! 스콜도 꽤 오고 완전 물 먹은 솜 되더라고요 ㅋㅋㅋ 그래도 적응하니까 놀기 좋았어요.
+P0 	: 부럽네네요

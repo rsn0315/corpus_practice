@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100023290
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 다이어트 하세요?
+P0 	: 다이어트 하시나요?
+P1 	: 네하고있어여있
+P1 	: 지금 5키로뺐어요
+P1 	: 다이어트하세요?
+P0 	: 오 대단하세요
+P0 	: 전 맨날 입다이어터예요ㅜ
+P1 	: 지방흡입도 했는데 할게못됩니다
+P0 	: 무슨 운동하세요?
+P1 	: 많이아파요ㅠㅠ
+P1 	: 저는 강아지랑산책다니고 홈트해요
+P0 	: 홈트 좋죠
+P1 	: 운동하세요?
+P1 	: 유튜브로보고하고있어요
+P0 	: 네저도 저녁에
+P0 	: 조금씩 나가서 걸어요
+P0 	: 빨리걷기정도 ㅎㅎ
+P1 	: 좋네요감량하셨어요?
+P1 	: 다이어트 관한음식도 해드시나요?
+P0 	: 아뇨 감량은 안되고 현상유지중이예요ㅜ
+P0 	: 음식은 그냥 먹고
+P0 	: 야식은 안먹어요
+P0 	: 음식도 해드세요?
+P1 	: 체력이좋아지면되는거아닐까요 건강하려고운동하는거잖아요
+P1 	: 네저는닭가슴살먹어요
+P0 	: 아 대단하시네요
+P1 	: 샐러드도건강을위해먹고있어요
+P0 	: 음식 참는거 진짜힘든데

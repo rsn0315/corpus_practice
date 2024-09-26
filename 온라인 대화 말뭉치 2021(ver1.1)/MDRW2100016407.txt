@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100016407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녀하세요^^ 좋아하는 게임 있으신가요?
+P0 	: 데바데 했었어요
+P1 	: 아하 pc게임을 주로 하시나봐요
+P0 	: 예전에요ㅋㅋ
+P1 	: 그럼 요새는 게임 잘 안하시나요?
+P0 	: 네 님은요?
+P1 	: 저는 모바일 게임만 조금하고 있어요 pc게임은 어렵더라구요 ㅎㅎ
+P0 	: 메이플 해보셨나요
+P1 	: 네 옛날에 해봤는데 전에 다시보니까 많이 바뀌었더라구요 막 영상도 나오고 그러던데 신기하더라구요 ㅎㅎ 메이플도 하셨나요?
+P0 	: 마법사 키웠어요ㅋㅋ
+P1 	: 아하 저는 뭐 키웠는지 기억이 안나네요ㅋㅋㅋㄱ 하도 예전에 했던 게임이라... 모바일 게임은 해보신적 있으세요?
+P0 	: coc요!

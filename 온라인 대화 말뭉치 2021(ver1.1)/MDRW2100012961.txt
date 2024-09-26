@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012961
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 고양이 한 마리 키워요
+	  반려동물 키우세요?
+P0 	: 아뇨! 부럽네요!! 키운지 얼마나 되셧어요
+P1 	: 6년 됐어요!
+	  기회가 되면 키울 생각있으세요?
+P0 	: 지금은 부모님이 반대하셔서.. ㅜㅜ
+P0 	: 고양이 이름은 뭔가요?
+P1 	: &name3& 이에요!
+	  &name3&이랑 무늬가 똑같아서 ㅎㅎ
+	  저희 부모님도 처음엔 안내켜 하셨는데 지금은 너무 잘 지내셔서 안타깝네요ㅠ
+P0 	: 저희엄마가 알러지가 있으셔서 ㅜㅜ &name3&은 애교가 많은편인가요??
+P1 	: 기분 내키면 하루종일 애교 부리는 날이 있는데 평소엔 그냥 상전이에요 ㅋㅋㅋㅋ
+P1 	: 알러지는 어쩔 수 없네요ㅜㅜ
+P0 	: 너무 귀엽겠어요!! 밥은 잘 먹나요??
+P1 	: 네 엄청 잘 먹어요 ㅎㅎ
+	  고양이들 입맛 까다로운 경우가 많은데 얘는 입맛이 없나봐요ㅎ
+P0 	: 우아 다행이예요!! 간식도 자주 주세요??
+P1 	: 살 빼야해서 요즘은 잘 안줘요ㅠ
+	  발톱깎기나 목욕처럼 싫어하는 일 할 때 가끔 줘요 ㅎㅎ
+P0 	: 너무 귀여울거같아요 !!

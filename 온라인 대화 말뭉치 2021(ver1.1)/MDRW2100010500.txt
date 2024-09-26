@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 홈앤쇼핑에서 낙지 방송하네
+P0 	: ㅎㅎ 맛있어 보여?
+P1 	: 누적판매 1000만팩이래
+P0 	: 광고할 때는 다 그렇게 말하지
+P1 	: 딩동 팬인데 홈쇼핑도 하나봐
+P0 	: ㅎㅎ 맛있게 보이면 하나 사던지
+P1 	: 10팩에 54900원이면 싼건가? ㅎㅎ
+P0 	: 잘 모르겠네 시세를 몰라서
+P1 	: 앱결제하면 완전 싸게 살 수 있는데 고민중 ㅎㅎ
+P0 	: 얼마나 싸게 살 수 있는데?
+P1 	: 5천원 넘게 저렴 ㅎㅎ
+P0 	: ㅎㅎ 고민되겠네
+P1 	: 요즘 반찬할 거 없어서 하나 있으면 좋을듯
+P0 	: 요즘 고구마가 싼가봐

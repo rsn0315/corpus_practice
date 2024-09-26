@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100039541
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 끝나면 꼭 직관 가보세요ㅜ
+P0 	: 네!!감사합니당ㅎㅎ
+P1 	: 여행은 좋아하세요??
+P0 	: 요샌 코로나 때문에 많이 못가지만
+P0 	: 좋아해요!!
+P1 	: 계획?? 무계획??
+P0 	: 아 저는 계획 짜서 가요!!
+P0 	: 안 그럼 좀 불안해서ㅋㅋㅋㅋ
+P1 	: 저도ㅋㅋㅋ
+P1 	: 안그러면 시간을 버릴꺼같아요
+P0 	: 맞아요맞아요 맛집도 다 조사해서 가는 편이에요ㅋㅋㅋ
+P1 	: 맛집은 주로 어디서 찾으세요???
+P1 	: 인스타?
+P0 	: 인스타도 보고 블로그 검색도 많이 해요!!
+P1 	: 제주도는 학교 근처가 맛있다는 말이 있더라구요!!
+P1 	: 찾아보는것도 넘 힘들어요ㅜ
+P1 	: 광고도 잘 걸러야해서ㅜ
+P0 	: 맞아요! 저도 갔다가 좀 실망한 적이 있어요ㅠ
+P0 	: &name2&님은 여행 많이 가 보셨나용??
+P1 	: 여행은 많이 못가봤어요ㅜ
+P1 	: 좀 바쁘게 살아서..???
+P1 	: 귀찮은것도있고ㅎㅎ
+P0 	: 우와 멋져용!!!

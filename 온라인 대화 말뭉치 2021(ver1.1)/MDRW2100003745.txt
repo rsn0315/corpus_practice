@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네
+P0 	: 혹시 어느영화 좋아하세요?
+P1 	: 다 좋아하는 편이에요.
+	  공포도 좋고 엑션 스릴 코미디 
+	  최근에 영화 본 거 있나요?
+P0 	: 최근에 언브로큰 봤어요
+P0 	: 아세요?
+P1 	: 아니요. 어떤 장르에요?외국 영화인가요?
+P0 	: 2차 세계대전때 외국올림픽선수가 일본 포로수용소에서 사는 내용이에요
+P0 	: 티비에서 지나가다 봤는데 재밌더라구요
+P1 	: 아 그래요. 몰랐는데 볼만 했나요?
+P1 	: 전 최근에 싱크홀 모교 발신제한 모가디슈 봤어요
+P0 	: 모가디슈는 무슨영화에요?
+P1 	: 우리나라 대사관이 모가디슈라는 아프리카? 지역에 있다 전 쟁 비스무리하게 일어나서 북한 사람들이랑 합심해서 탈출하는 내용이에요. ㅋ 설명이 좀 거시기 하죠^^
+P1 	: 조인성이랑 허준호 나온 영화에요.
+P0 	: 해외영화는 안좋아하세요?
+P1 	: 해외영화 보단 한국영화를 더 보게 되는거 같아요.
+P0 	: 저는 둘다좋아하는데 해외영화가 더 편한거같아요

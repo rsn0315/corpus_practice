@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100024438
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 좋아하는 책 있으세요?
+P1 	: 저는 책은 자주 안읽어요!
+P1 	: 책 좋아하헤요?
+P0 	: 좋아하는 편인데 자주 읽진 않아요 오늘은 오랜만에 책 펴서 읽었어요ㅋㅋ
+P1 	: 저도 오늘 책 한권샀어요! 시집으로!
+P1 	: 내일 집으로 배송와용 ㅎㅎ
+P0 	: 어떤 시집이에요?
+P1 	: 당신의 이름을 지어다가 며칠은 먹었다 라는 시집입미당
+P1 	: 제목이 뭔가 좋아서 충동적으로 샀어용
+P0 	: 오 끌리는 제목이네요
+P1 	: 그쵸 제목이 뭔가ㅠ멋있어요 책 후기도 괜찮길래 구매했어용
+P1 	: 얼른 와서 읽어보고싶어요
+P1 	: 뭔가 카페같은 곳에 혼자 가서 읽으면.. 멋짐이 폭발할거같은 느낌..~? ㅎㅎ
+P0 	: ㅋㅋㅋㅋㅋㅋ그쵸 카페에서 책 읽는 감성이 있죠
+P1 	: 맞아요 걉쟈기ㅠ더욱 기대되기 시작했어요
+P1 	: 어똔 종류의 책을 가장 좋아허세요? 소설이나 시..?
+P0 	: 시집이나 에세이 좋아해요!
+P1 	: 저도 이번이 첫 시집인데 기대돼요
+P1 	: 아직 안왔는데.. 언재쯤..
+P0 	: ㅋㅋㅋㅋㅋ&name2&은 책 빨리 읽는 편이세요?
+P1 	: 네..! 그래서 여러번 읽는편이긴 해요..ㅠㅠ!
+P1 	: 한번에 제대로 잘 못읽는 스타일이에요!

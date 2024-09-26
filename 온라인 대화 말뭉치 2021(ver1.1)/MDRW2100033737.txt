@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100033737
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아치 식사 하셨나요?
+P1 	: 아침 ^^
+P0 	: 아니요ㅎㅎ
+P0 	: 점심드셨나요?
+P1 	: 네~ 어제 먹다 남은 샌드위치 먹었어요 ㅎㅎ
+P0 	: 오 샌드위치좋네요ㅋㅋㅋ
+P0 	: 커피 좋아하세요?
+	  아메리카노vs푸라푸치노?
+P1 	: 푸라푸치노요 ㅋㅋ &name1&님은요?
+P0 	: 저도요ㅋㅋㅋ
+P0 	: 전 아메를 못마신답니다
+P1 	: 아메를 못마시시는건가요? 맛이 없어 안마시시는 건가요?
+P0 	: ㅋㅋㅋ 맛이없어서요
+P0 	: 살면서 1년에 커피 5잔 마실까말까입니다
+P1 	: 아직 커피맛을 모르시는군요 ㅎㅎ 전 초딩 입맛이라 달달한 커피 마셔요
+P0 	: ㅋㅋㅋㅋ 저도초딩입맛인데
+P0 	: 저는 아메는진짜너무싫어요
+P0 	: 아바라까지만 허용되더라고요ㅋㅋㅋ
+P1 	: 근데 원두 직접 갈아먹으면 좀 다르던데요. 전 갈아주는 친구가 있어서 억지로 몇번 먹다 아메의 맛을 알게 됐엉ㅅ
+P1 	: 어요
+P0 	: 저는 일단 써서싫더라구요ㅎ 모든종류가
+P0 	: 근데 또 커피머신은 사고싶어요ㅋㅋㅋㅋ
+P0 	: 이유도없이
+P1 	: 내려 마시면 좀 다를거예요

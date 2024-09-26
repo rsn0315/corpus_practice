@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100036194
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 산거 뭐 있으세여?
+P1 	: 저는 전공책이요 &name1&님은요?
+P0 	: 저는 가방이요!
+P1 	: 어떤 가방이요?
+P0 	: 회사다닐때 들고다닐 가방 하나 샀어요!!!
+P1 	: 가죽인가요 아니면 에코백인가요???
+P0 	: 가죽이라고 해야하나? 가볍게 메고다닐 가방으로 샀어요ㅎㅎ
+P0 	: 전공책 어떤거 사셨어요?
+P1 	: 저는 병리학이요
+P1 	: &name1&님은 사고싶으신 물건이 있으신가요?
+P0 	: 저 이쁜 악세사리 사고싶어요
+P0 	: 여즘 반지에 빠져서ㅎㅎ
+P1 	: 얼마짜리 반지인가요?
+P0 	: 브랜드 반지라 그런지 비싸네요ㅠㅠ
+P1 	: 어떤 브랜드껀지 물어봐도 될까요?
+P0 	: 구찌요!
+P1 	: 구찌면 많이 비싼가요??
+P0 	: 흠 한.....20~30사인것같더라구요
+P1 	: 그렇군요

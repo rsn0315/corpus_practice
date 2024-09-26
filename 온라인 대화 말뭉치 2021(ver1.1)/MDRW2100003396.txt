@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003396
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충남
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 너무 안녕합니다
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 출장으로 가서 놀러나간것도 해외여행이라고 해야할까요 ㅋㅋㅋ 중국 가봤어요 상해
+P0 	: 중국은 요리가 맛있다던데 진짜에요?
+P1 	: 홍콩반점 생각하시면 오산입니다
+P1 	: 오만거 다 먹어봤는데 10개 먹으면 2개정도 맛있어요 ㅌㅋㅋ
+P0 	: 상해는 어느점이 좋았어요?
+P1 	: 좋은거 없어여 중국이란나라를 별로 안좋아해서
+	  굳이 꼽자면 만두가 맛있다는거 ㅎ
+P0 	: 그럼 어느나라 가보고 싶으세요?
+P1 	: 저는 유럽이나 미국 서양 가고싶어요 ㅋㅋ
+P0 	: 유럽 어디 가보고싶으세요?
+P1 	: 스패인이나 페루
+P0 	: 스페인 좋을거같아요

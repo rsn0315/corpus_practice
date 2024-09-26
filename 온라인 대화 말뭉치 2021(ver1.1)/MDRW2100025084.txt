@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100025084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 테
+P1 	: 네
+P0 	: 어떤 메뉴요?
+P1 	: 짜장이요
+P0 	: 맛있겠네요 ㅜㅜ
+P1 	: 3분요리라 그닥
+P0 	: 아 ㅎㅎ 전 짜장면 드신줄 알았네요 !
+P1 	: 짜장밥이요 ㅋ
+P0 	: 저도 갑자기 땡기네요 ㅋㅋ 짜장밥
+P1 	: 맛나요
+P0 	: 낼 먹어야겠어요 !
+P1 	: 식당에서 강추요
+P0 	: 중국집 가야겠네요 ㅎㅎㅎ
+P1 	: 네 맛집으로요

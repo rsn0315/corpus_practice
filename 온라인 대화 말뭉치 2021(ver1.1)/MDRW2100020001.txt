@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100020001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 로망이요?!
+P1 	: 네네!!
+P0 	: 신기하네요 ㅋㅋㅋㅋ
+P0 	: 요새날씨 엄청 선선해졌어요
+P1 	: 대구는 하루종일 비왔어욤 ㅠㅠ
+P0 	: 아 대구사시는구나
+P0 	: 여기는 오늘 그냥 흐렸어요
+P1 	: 아아아!!!서울은 그랬군요 ㅠㅠ
+P1 	: 이젠 가을이죠 ㅠㅠ
+P0 	: 맞아여
+P0 	: 여름너무 힘들어요 ㅋㅋㅋ
+P1 	: 하 그니까요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 더운거진짜 ㅠㅠ
+P0 	: 아땀나는거 너무 싫어요 ㅠㅜ
+P1 	: 아 그죠 ㅠㅠㅠ
+P0 	: 축축..습하고 ㅠㅠ
+P1 	: 대구날씨 지옥...
+P0 	: 아 대프리카죠 참...

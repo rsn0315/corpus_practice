@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 버블티?
+P1 	: 공차야?
+P0 	: 응응 공차
+P1 	: 난 공차 주문 어렵더라
+P0 	: 아 진짜? 사실 나도 ㅋㅋㅋㅋ
+P1 	: 당도 이런거 정하는거 어려워ㅋㅋ
+P0 	: 나 저번에 얼음 보통했더니 음료 적게줘서 얼음 적게 주문했거든?
+P1 	: 응 그럼 아예 양이 줄지않아?
+P0 	: 그랫더니 아이스 음료인데...차가 많긴한데...미지근했엌ㅋㅋㅋ
+P1 	: ㅋㅋㅋ아무래도 차는 뜨겁게 우려서 얼음을 타주는거라 그런가?
+P0 	: 아니 음료는 많이줬어 꽉 채워서
+P1 	: 우리 카페에서 파는 아이스차는 뜨겁게 우린담에 얼음에 부어서 식혀주는거란말야. 그래서 얼음적게 해서 미지근한가 했지ㅋㅋ
+P0 	: 아 정말? 거기도 그런가봐 차는 엄청 줬어 ㅋㅋㅋ
+P1 	: 버블티면 막 펄 이런거도 추가하는거야?
+P0 	: 응응 추가해도 되는데 원래 기본으로도 들어가있어
+P1 	: 그러고보니 나 공차 기프티콘이 있었던거같은데.. 안썻나?
+P0 	: 자동으로 연장될걸? 나는 우롱밀크티 좋아해 ㅋㅋ
+P1 	: 오오 우롱차에 우유 탄건가?
+P0 	: 우유에 우롱차 우린게 아닐까? 찐하던데! 맛있어 먹어봐봐
+P0 	: 요즘 곱창 먹고싶다

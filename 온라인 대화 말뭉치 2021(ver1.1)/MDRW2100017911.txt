@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017911
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 평소엔 잘 안보는데 올림픽이나 월드컵같은거만 챙겨봐요
+P0 	: 이번에 올림픽 중 재밌게 보신건 어떤거에요?
+P1 	: 저는 펜싱이랑 축구 재밌게봤어요
+P0 	: 어떤점이 재밌으셨어요?
+P1 	: 축구는 원래 잘 모르지만 좋아했고 펜싱은 선수들 얼굴까지 재밌더라구여 ㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋ아는형님에서 잠시 봤는데 재밌더라구요ㅋㅋㅋ
+P1 	: 맞아요 ㅋㅋㅋ 재밌게본 경기있으세요?
+P0 	: 저는 양궁이요!
+P1 	: 오 저도 재밌게봤어요 ㅋㅋㅋ
+P0 	: 선수들의 안정감이 편해서 보게 되더라구요ㅋㅋ
+P1 	: 맞아요 심장박동수 보셨어요? ㅋㅋㅋ
+P0 	: 네ㅋㄲ 제가 더 높을거 같더라구요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037643
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 많이 아세요?
+P1 	: 아니요 그냥 주워듣는 정도로만 ㅋㅋㅋ
+P1 	: 많이 가시나요
+P0 	: 저도 즉흥적으로 가요
+P1 	: ㅎㅎㅎ 저도 후기 좀 찾아보고 괜찮으면 가요 ㅋㅋ
+P0 	: 반은 성공
+P0 	: 반은 실패ㅋ
+P1 	: 맞아요 ㅋㅋㅋ 아저씨들이 많은 집이 맛집이기도 하더라고요 ㅋㅋㅋ
+P0 	: 아저씨들ㅋㅋㅋ
+P0 	: 기사식당도요
+P1 	: 기사식당 좋죠 ㅋㅋㅋ 밥도 많이 먹어도 되고 ㅋㅋㅋ
+P1 	: 한식부페 이런거 좋아하는데 은근 찾기 어려워요..
+P0 	: 한식이 별로 없더라구여
+P1 	: 그쵸.. 요새 맛있는 한식집 찾기가 은근 어려워요 백반집도 거의 없는거 같고
+P0 	: 맞어요
+P0 	: 슬퍼요
+P0 	: 먹어도 먹어도 끝이없어요
+P1 	: ㅠㅠㅠ
+P1 	: 뭘 제일 좋아하세요 음식?
+P0 	: 전밀가루여

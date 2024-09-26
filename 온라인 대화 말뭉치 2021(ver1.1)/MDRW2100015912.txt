@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100015912
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~
+P0 	: 반려동물 기르시나요??
+P1 	: 아뇨.. &name1&님은 기르는 동물 있으세요?
+P0 	: 네! 저는 구피 길러요 ㅋㅋㅋ
+P1 	: 우와 귀엽겠어요 사료먹어요?
+P0 	: 네 ㅋㅋ 밥만주면 혼자서 잘 크는 물고기라 밥만제때줍니당
+P1 	: 키운지얼마나 되셨어요?
+P0 	: 저는 3년 조금 더된거같아요~
+P1 	: 정많이 드셨겠네요
+P0 	: 음 아뇨 ㅋㅋ 사실 저는 금붕어한테 그닥 정은 안가더라구요ㅋㅋ
+P1 	: 앗 그러신가요 ㅋㅋ 궁금해요 ㅋㅋㅋ
+P0 	: ㅋㅋ 작고 알도 많이낳아서 바글바글해여 ㅋㅋ

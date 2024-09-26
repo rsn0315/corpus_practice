@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034139
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 디저트 있나요 ㅎㅎ
+P0 	: 치즈 케이크 좋아해요!
+P0 	: &name2& 님은요?
+P1 	: 저는 당근 케이크 좋아하구 치즈케이크도 좋아해요 !
+P0 	: 한번도 안 먹어봤는데 당근 케이크는 당근 맛 많이 나나요?
+P1 	: 저 당근 싫어하는데 당근 케이크는 좋아해요 !
+P1 	: 당근 맛 많이 안나구 시나몬 맛이 더 많이 나요 ㅎㅎ
+P0 	: 저도 당근은 싫어하는데 시나몬은 좋아해요!
+P0 	: 다음에 한 번 먹어봐야겠어요ㅎㅎ
+P1 	: 드셔보세요 ㅎㅎ 대신 잘하는 곳에서 !
+P1 	: 약간 맛없는곳은 당근맛 많이나요..
+P0 	: 평을 잘 찾아보고 가야겠어요!
+P0 	: 음료는 어떤 음료 좋아하세요?
+P1 	: 전 카페라떼 좋아해요 ㅎㅎ &name1&님은요?
+P0 	: 원래는 아메리카노만 마셨는데 요즘에는 얼그레이 자주 마셔요!
+P1 	: 오 얼그레이 저도 좋아해요 ㅎㅎ
+P1 	: 그냥 티로 드시나요??
+P0 	: 네!
+P0 	: &name2& 님은요?
+P1 	: 전 밀크티 좋아해요 ㅎㅎ

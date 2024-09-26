@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000571
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는 최근에 아이패드 샀어요
+P1 	: 오 프로사셨어요?
+P0 	: 네 프로 12.9인치 샀어요! 후덜덜
+P1 	: 오오 저는 프로 11인치 쓰고 있어요
+P1 	: 어떤 목적으로 사셨어요?
+P0 	: 저는 그림그리고 싶어서 샀어요!
+P0 	: &name2&님은 무슨 목적으로 사셧나요?
+P1 	: 저도 웹툰 그려보고 싶어서 샀는데 그냥 일기작성용으로만 쓰게 되네요
+P0 	: 오 웹툰 대단하신데요
+P0 	: 저는 그림을 아예몰라서 큰화면으로 만화나 보네욬ㅋㅋㅋ
+P1 	: ㅋㅋ보통 넷플이나 만화보게 된다고 하더라구요
+P0 	: 맞아요 ㅋㅋ
+P0 	: 구매할때 휠수있다구 해서
+P0 	: 애플케어 들었는데 &name2&님도 드셨나요?
+P1 	: 아 저도 그거 걱정했는데 초반 보증도 있어서 안 들었어요
+P0 	: 맞아요 좀 비싸죠ㅠㅠ 저도 손떨면서 결제했어요
+P1 	: 저 2달 고민하다 샀잖아요ㅎㅎ
+P1 	: 근데 좋긴한거 같아요!
+P0 	: 저도 고민했는데 배송만 늦춰졌네요 ㅋㅋ
+P0 	: 맞아요 좋긴 좋아요!

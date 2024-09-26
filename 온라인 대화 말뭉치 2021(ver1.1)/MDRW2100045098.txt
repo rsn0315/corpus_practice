@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100045098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 추석선물로 어떤거 준비하세요?
+P1 	: 아직 고민 중이예요
+P1 	: &name1&님은요?
+P0 	: 저는 과일 사서 보내주려고요
+P1 	: 오 어떤 과일 생각중인가여
+P0 	: 샤인머스캣이랑 배는 매년 보낸거라 패스하고 황금향이요 과일값으로 돈 다 썼어요
+P1 	: 헉ㄷㄷ 얼마 정도 나오나요?
+P0 	: 2kg이 4~5만 선이에요. 이거 2박스랑 황금향 2만원대 작은거 4만원대 큰거로 대충 18만원 정도 썼네요.
+P1 	: 헉ㄷㄷㄷㄷ 과일이 진짜 비싸네요...
+P1 	: 샤인머스캣 많이 비싸던데 진짜 맛있는편인가요?
+P0 	: 네 과대포장 빼면 좀 저렴할 것 같은데.. 보자기에 두꺼운 박스에 또 2중포장 ㄷㄷ
+P0 	: 18브릭스 사세요. 경북꺼 사시고요
+P1 	: ㅋㅋㅋ저 김천에 사는데 근처에 농장이 있더라구요
+P1 	: 근데 농장도 별로 저룜하지 않은 거 같아서요...
+P0 	: 거기가 당도보장 되는 곳이 많아요. 그래도 라방에서 사면 달달한거로 보내주세요. 이왕이면 환불 보장 해주는데로 비싼 만큼 해요
+P1 	: 오 라방 어디인가요 네이버인가요?
+P0 	: 저는 네이버랑 GS홈쇼핑 보고 샀어요
+P1 	: 아하 참고할게요! ㅎㅎ
+P0 	: 11번가랑 배민 라이브에서도 괜찮은거 팔더라고요. 배민 라이브는 주로 포장이 최소화된거라 가족들 먹는거 사시 좋아요.

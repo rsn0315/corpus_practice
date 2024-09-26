@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016106
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 추석상여금 언제받아 &name1&?
+P0 	: 추석상여 없어
+P0 	: 상품권 줘 10만원
+P0 	: 추석 전주에 줬던걸로 기억해
+P1 	: 왜없어 좋은직장인데
+P0 	: 없어
+P0 	: 상품권 온리
+P1 	: 너무하네 돈도 잘버는 회사가
+P0 	: 뭐 다른걸로챙겨주겠지
+P0 	: &name2&
+P1 	: 엉
+P0 	: 퇴근하고 뭐하고 있셔?
+P1 	: 누어서 책 보고있었엉
+P0 	: 무슨책봤숴?
+P1 	: 예술과 경제를 움직이는 다섯가지힘
+P0 	: 다섯가지 힘?
+P0 	: 그게 뭐래?
+P1 	: 투시력 재정의력  원형력  생명력  중력과 반중력  이래
+P0 	: ㅋㅋㅋ 너무 심오하다
+P1 	: 재밌네 근데
+P1 	: 어렵긴해도 ㅋㅋㅋ
+P0 	: 내일은 몇시까지 출근이야?

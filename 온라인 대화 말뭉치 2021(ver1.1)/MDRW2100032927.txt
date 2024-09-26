@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032927
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 독서 좋아하세요?
+P1 	: 네 자주 책 읽어요!
+P1 	: 좋아하세요?
+P0 	: 자주는 못 읽지만 좋아해요!
+P0 	: 어떤 분야 좋아하세요?
+P1 	: 저 인문서적을 많이 읽어요! 요즘은 프로타고라스 보고 잇어요!
+P0 	: 와 처음 들어봐요 어떤 내용이에요?
+P1 	: 소크라테스랑 프로타고라스가 말싸움하는 ㅋㅋㅋㅋ 내용이에요
+P0 	: 와ㅋㅋㅋㅋㅋㅋㅋㅋㅋ철학적일 것 같아요
+P0 	: 추천하고 싶으신가요ㅋㅋㅋ
+P1 	: ㅎㅎㅎㅎ 굳이 봐야하나 싶어요
+P1 	: 탁월함을 가르칠 수잇냐 없냐로 싸우는데 결론이 안 나거든요
+P0 	: 와 결론이 안 난다니..생각하게 만드는 책인가봐요
+P1 	: ㅋㅋㅋㅋㅋㅋ 소크라테스 본인도 혼란스러워하면서 끝나요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ혼란스럽네요...
+P0 	: 읽고 싶은 책은 바로바로 읽으시는 편이신가요?
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 저도 혼란스럽더라구요
+P1 	: 저 자기전에 좀 읽다가 졸려지면 자요
+P1 	: 잠자기 위해 책을 이용하는..
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ엄청 현명하시네요

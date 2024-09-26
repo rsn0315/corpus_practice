@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 봉사활동도 하신 적 있나요?
+P1 	: 코로나 전에는 자주 했었어요
+P1 	: &name2&은요?
+P0 	: 저는 대학생 땐 했는데 그 후론 안 했네요ㅜ
+P0 	: 어떤거 하셨어요?
+P1 	: 주로 교육 봉사하고 복지관에서 3개월 정도 했던 거 같아요
+P0 	: 복지관은 어떤분들이 계신 곳인가요??
+P1 	: 노인 복지관이었어요! 토요일마다 노인분들 대상으로 프로그램을 진행했는데 보조하는 역할을 맡았어요
+P0 	: 아 저희 집 근처에도 있는 것 같네요!
+P0 	: 힘들진 않으셨나요?
+P1 	: 안내하고 프로그램 전후로 청소 같은 거 해서 크게 어렵진 않았어요
+P1 	: &name1&은 어떤 봉사활동 하셨나요?
+P0 	: 저는 캠페인 같은거 참여하거나
+P0 	: 유기견 보호소요!
+P1 	: 유기견 보호소에서는 주로 어떤 활동을 하나요?
+P0 	: 밥 주고 똥 치워주고 사료 날랐습니다ㅋㅋㅋ
+P0 	: 코로나 끝나면 다시 하실 예정인가요??
+P1 	: 시간 맞춰서 틈틈히 하려고요
+P1 	: 하면 주말에나 할 거 같긴 해요
+P0 	: 그렇군요 봉사활동 하게 된 계기가 있나요???
+P1 	: 학교 봉사활동 시간 채우면서 뿌듯하고 재밌어서 더 자주하게 된 거 같아요

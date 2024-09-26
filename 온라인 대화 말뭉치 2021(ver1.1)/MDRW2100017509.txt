@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017509
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 배달 음식 자주 시켜드세요?
+P1 	: 네 배달음식 좋아해요
+P0 	: 주로 어떤거 시켜드세요?
+P1 	: 치킨이나 햄버거 시켜먹어요
+P0 	: 무슨 치킨 좋아하시는데요?
+P1 	: 저는 딱 기본 후라이드좋아해요 &name1&님은요?
+P0 	: 저는 후라이드반 양념반이요~
+P0 	: 후라이드 먹다가 물리면 양념소스 찍어먹거든요!
+P1 	: 반반이 제일 무난하죠 ㅋㅋㅋㅋㅋ 어디서 시켜드세요?
+P0 	: 어플이요? 저 배달의민족을 주로 써요
+P1 	: 아 어느브랜드 치킨을 드시는지 여쭤봣어요
+P0 	: 저 후라이드참잘하는집이라고 일명 후참잘 있어요!
+P0 	: 가격도 저렴한데 살짝 매콤바삭속촉해서 좋아해요
+P0 	: 님은요?
+P1 	: 아 저도 후참잘 좋아해요
+P1 	: 매콤하고 맛잇더라구요
+P0 	: 이번주에 배민에서 후참잘 3천원 할인해주는 거 아세요?ㅎㅎ
+P1 	: 아 진짜요? 일주일내내요?
+P0 	: 네 이번주까지에요~ 근데 배달만 적용 되더라구요 ㅠㅠ
+P0 	: 포장은 바로 내일만! 2천원 할인해줘요 ㅎㅎ
+P1 	: 이번주내로 시켜먹어야겟어요 ㅋㅋㅋ
+P1 	: 좋은정보 감사해요!

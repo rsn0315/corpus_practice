@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 여행 진짜 좋아해요
+P1 	: 어디어디 다녀오셨어요~?
+P0 	: 호주요
+P1 	: 오 저는 멀리는 못갔는데
+P0 	: 청정지역이에여
+P1 	: 동남아가고싶네요
+P0 	: 것도 좋죠
+P0 	: 언제쯤 갈 수 있을까ㅇ?
+P1 	: 그러니까요
+P1 	: 그래서 요즘은 국내로다녀요
+P0 	: 전 바다여
+P0 	: 남해좋죠
+P1 	: 산도좋아여
+P0 	: 것도 좋죠
+P1 	: 등산좋아해여?
+P0 	: 네

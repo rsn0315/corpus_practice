@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010596
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 옥수수 쪘어
+P0 	: 맛있겠다
+P1 	: 근데 안에 약간 속대 쪽으로 거뭇거뭇한데 괜찮나
+P0 	: 뭐? 옥수수 알이?
+P1 	: 먹어도 되나 모르겠네
+P0 	: 그거 아마 수확한지 좀 오래돼서 그럴걸
+P1 	: 먹어도 상관은 없겠지?
+P0 	: 내가 보고 얘기해줄게~ 아마 상관은 없을거야
+P1 	: 괜히 먹었다가 배탈날까봐 ㅎㅎ
+P0 	: 수확하고 오래되면 검게 변하더라고
+P1 	: ㅇㅇ 있다가 와서 좀 봐줘
+P0 	: 알았어 애들 아직 먹이지 마
+P1 	: 당연하지 확인하고 먹일께

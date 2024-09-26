@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018290
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나 양고기 먹고싶어
+P1 	: 어떤 스타일 커피 좋아해?
+P1 	: 라면 안 불은 게 좋아 불은 게 좋아?
+P0 	: 안불은거
+P1 	: 나도 꼬들한 게 좋아
+P0 	: 불은거 비주얼이 별로야
+P1 	: 비주얼 때문에 별로야?
+P0 	: 그것도 그런데 뭔가 먹다 남긴거 같음;;
+P1 	: ㅋㅋㅋㅋㅋㅋ라면 얘기하니까 라면 먹고싶다
+P0 	: ㅋㅋㅋㅋㅋ 이따 먹어
+P1 	: 안그래도 그렇게 될 거 같아ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ
+P1 	: 꼬들하게 끓여먹어야지
+P0 	: 있다가 머 먹지?
+P1 	: 이따가?
+P0 	: 응
+P1 	: 생각나는 거 없어?

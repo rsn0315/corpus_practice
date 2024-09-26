@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100017848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 날씨가 많이 선선해졌네요
+P1 	: 안녕하세요 맞아요  이제 비도 덜오고요!
+P0 	: 네 근데 저희 지역은 내일 비온다더라고요
+P1 	: 아 찾아보니 저희 지역도네요 ㅜㅜ
+P1 	: 장마지나면 정말 가을 시작되겠엉ㆍ르
+P1 	: 어요
+P0 	: ㅠㅠ그러게요
+P0 	: 가을장마 온다던데
+P1 	: 가장 좋아하는 계절은 언제이신가요?
+P0 	: 저는 봄을 좋아해요
+P0 	: 점점 따뜻해지는 날씨가 좋아요
+P1 	: 저는 가을을 좋아해서 곧 올 가을이 기대돼요~
+P0 	: 아 그럼 선선해지는 날씨가 더 반가우시겠네요
+P1 	: 네 덥지도 춥지도 않고 딱 좋은것같아요
+P0 	: 네 요즘은 선선해서 다니기 좋죠~
+P0 	: 비만 좀 덜 오면 좋을텐데
+P1 	: 그러게요 저는 비오는거 별로 안좋아해서요ㅜㅜ
+P0 	: 저도요
+P0 	: 비 오면 컨디션도 축 처지고
+P1 	: 맞아요 날씨에 따라 되게 기분이 다운되는것 같앙노
+P1 	: 같아요

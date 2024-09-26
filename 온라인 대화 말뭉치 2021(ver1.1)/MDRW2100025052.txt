@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~~~
+P1 	: 야식이 땡기는 시간이네요
+P0 	: 그러게요 야식 뭐 드시고 싶으신가요
+P1 	: 저 갑자기 족발이 땡기네요
+P0 	: 그렇군요 그럼 좋아하는 족발 프랜차이즈 있으신가요?
+P1 	: 족발을 막 즐겨먹는건 아닌데 어쩌다가 한번씩 땡길때가 있더라고요
+P1 	: 프렌차이즈는 아니고 동네 족발집에서 사 먹어용
+P0 	: 거기가 맛있나요??
+P1 	: 네네 양도 많고 맛있어요!!!!!!!!
+P1 	: 아 먹고싶어지네요 흑흑
+P1 	: 야식 좋아하세요?
+P0 	: 네 좋아해요
+P1 	: 뭘 자주드세요?
+P0 	: 저는 떡볶이요
+P1 	: 오 떡볶이
+P1 	: 최애하는 떡볶이 프랜차이즈 있으세요?
+P0 	: 저는 엽떡이요

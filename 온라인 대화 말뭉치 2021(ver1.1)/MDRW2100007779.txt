@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007779
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동은 자주하세요?
+P0 	: 요즘 헬스하고 있어요ㅎㅎ 운동하세요?
+P1 	: 우와 헬스! 저도 도전해 보고 싶은데 그냥 숨쉬기만 ㅠㅠ
+P0 	: 저는 요즘 살이쪄서ㅠㅠ 다이어트 꼭해야해요ㅋㅋ
+P1 	: 다이어트 쉽지가 않은데 어려운 결심을 하셨네요
+P0 	: 네 먹을때는 좋았는데..어렵네요ㅎㅎ
+P1 	: ㅎㅎ 몇 키로 감량이 목표세요?
+P0 	: 2키로 빼려구요ㅎㅎ
+P1 	: 오오 그럼 헬스장 가면 어떤 운동 주로 하세요?
+P0 	: 저는 런닝주로 하는데 이제 근력운동도 하려구요
+P1 	: 건강하려면 근육이 진짜 중요한 것 같더라구요!
+P0 	: 네 근육을 만들어야 살도 덜찐다리구..
+P1 	: 아 그건 몰랐어요 왠지 지금 당장 스쿼트 한세트 해야할 것 같은 느낌이 왔어요

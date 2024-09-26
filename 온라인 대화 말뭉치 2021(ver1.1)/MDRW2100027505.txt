@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100027505
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 있으세요
+P0 	: 반려동뭉 있으세요
+P1 	: 네 있어요 ㅋㅋㅋ 고양이키워요 &name1&은요?
+P0 	: 저는 강아지 키워요
+P0 	: 고양이몇살이에요
+P1 	: 14살이에여 ㅠㅠ &name1&은요?
+P0 	: 저희 4살입니다
+P0 	: 냥이와 벌써 14년지기이시군요
+P1 	: 네네ㅎㅎ ㅠㅠ 시간이 가는게두렵네여
+P1 	: 4살이면 한창 깨발랄할때아닌가요 ㅎㅎ
+P0 	: 맞어요 그래도 저는 시간 가능게 두려워요
+P0 	: 점점아픈곳도생기고ㅠㅠ
+P1 	: 맞아요 ㅠㅠ 그래서 적금들고있어요
+P1 	: 내새꾸 아플때 돈이 없을까봐..ㅠㅠ
+P0 	: 그것도그래요 얼만큼 드시나요 한달에?
+P0 	: 전 아직 없어요ㅠ
+P1 	: 저는5마넌하고 가족들까지해서 십얼마씩 한달에 들어요 ㅎㅎ
+P1 	: ㅠㅠ 검사비용만 몇십이어서 모으시는게 조을거에요 ㅠㅠ
+P0 	: 와 가족분들것도 같이하시는구나
+P0 	: 맞아요ㅠㅠ올해부터 들려고요ㅠㅠ
+P0 	: 올해건강검진 해줬는데40나왔어요
+P1 	: 맞아요 ㅠㅠ 저도 얼마전에 팔십인가 나왔어여 ㅠㅠ
+P1 	: 그래도건강하니 다행인데 비싸긴하더라구요 ㅠㅠ
+P0 	: 맞아요ㅠㅠ저희는 관리할 게 좀 생겨서 자주가야해요ㅠ
+P0 	: 제가대신 아프고싶어요
+P1 	: 맞아요 ㅠㅠ

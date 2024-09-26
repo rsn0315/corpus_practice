@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑조아하시나요
+P1 	: 그럼요~ 돈만 충분하면 뭔들 못사겠어요 ㅋ
+P0 	: 중고거래도하시나요
+P1 	: 그럼요~ 당근 좋아합니다. 당근 거래 하시나요?
+P0 	: 오 네하죠ㅎㅎㅎ
+P1 	: 최근에 뭐 거래하셨나요?
+P0 	: 일년째 안팔리는 옷이있네요ㅜ
+P1 	: 저도 그냥 올려놔요. 1년 지나도 필요한 사람이 산다고 하더라고요
+P0 	: 빨리 팔렷음좋겠네요
+P1 	: 어떤 옷인가요?
+P0 	: 털자켓이요ㅎㅎ
+P1 	: 곧 추워지니 이제 팔릴거예요
+P0 	: 감사합니당ㅠㅠ

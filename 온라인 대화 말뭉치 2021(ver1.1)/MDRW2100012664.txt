@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012664
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 요즘은 가끔 스트레칭 정도만요
+P1 	: &name1&은요?
+P0 	: 홈트요
+P0 	: 해요
+P0 	: 유투브로
+P1 	: 어떤 채널 보세요?
+P0 	: 땅크여
+P1 	: 거기가 진짜 유명한가봐요. 이름은 많이 들어봤어요
+P0 	: 부부케미가
+P1 	: 헬스장도 다녀보셨어요?
+P0 	: 코로나전에
+P1 	: 전 한 번도 안 가봤어요
+P0 	: 가면 분위기가너무좋아요
+P1 	: 활기찬 분위기?
+P1 	: 코로나 종식되면 가보고 싶네요
+P0 	: 저도요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100009519
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 대학생이신가요? 곧 개강이네요!
+P1 	: 으악!! 끔찍하네요ㅠㅜ
+P0 	: 수강신청은 하셨나요?
+P1 	: 수강신청 했어요!
+P1 	: 실패했지만요...
+P1 	: 수강신청 하셨어요?
+P0 	: 저는 휴학생이에요
+P0 	: 수강신청 얼마나 실패하셨어요?
+P1 	: 원래 들어야했던
+P1 	: 전공을 신청 못 햇ㅇㆍ요
+P1 	: 교수님께 말씀드렸는데 안된다고 하셔서..
+P1 	: 신청 못 했죠
+P0 	: 헐 전공은 너무 큰데... 이제 다시 기회가 없나요?
+P1 	: 내년에 들으라고 하시더라구요ㅠㅜ
+P1 	: 어쩔 수 없죠ㅠㅜ
+P0 	: 아이고... 너무 아깝네요 꼭 자리가 생기길...ㅠㅠ
+P1 	: 그때는 꼭 들어야죠!!
+P1 	: 화이팅!!
+P1 	: 휴학 하신거 부러워요!!
+P0 	: 전 다른 거 준비하느라 휴학해서...ㅠ 원래 1년 생각했는데 2년으로 늘어났네요ㅎ
+P0 	: 동아리는 하시나요?
+P1 	: 영상 제작 동아리해요!
+P1 	: 큰 기술 없이 간단한 것만 하는 동아리에요
+P0 	: 우와 그래도 뭐를 만드는 데서 보람이 있겠어요!
+P1 	: 맞아요!
+P1 	: 과정은 힘들지만
+P1 	: 결과가 나오면 뿌듯하고 좋아요

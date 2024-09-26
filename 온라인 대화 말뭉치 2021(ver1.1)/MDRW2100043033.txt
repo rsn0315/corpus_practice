@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100043033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 뭐 드셨어요?
+P0 	: 저는 방금 피자랑 스파게티 먹었어요
+P0 	: 점심 뭐 드셨어요?
+P1 	: 저는 그거 머야 편의점 김밥 먹었어요!
+P0 	: 저는 저녁에 비빔밥 먹었어요
+P0 	: 김밥 하나면 양 괜찮으신가요?
+P1 	: 아니요 안괜찮아서 물 한병 원샷 했어요..
+P1 	: 삼겹살 김밥이래서 기대했는데
+P1 	: 맛도 진짜 짜증났어요 그냥 비계맛만 났어요 ㅠ
+P1 	: 비빔밥 재료 뭐 넣으셨어요? 알려주세요 상상으로 먹을래요 ㅠ
+P0 	: 편의점은 삼각김밥만 맛나더라구요ㅜ
+P0 	: 콩나물 버섯 무생채 고사리 오이 이렇게 넣어서 먹었어요
+P1 	: ㅠㅠㅠㅠㅠㅠㅠㅠ 양념은요!
+P0 	: 고추장이랑 참기름요~ㅎㅎ
+P1 	: 하 저는 재료중에 고사리가 제일 땡겨요
+P0 	: 포도도 후식으로 먹었어요
+P1 	: ㅠㅠㅠㅠ 오늘 잘드셨네요
+P0 	: 고사리  좋아하시군요~~
+P0 	: 사실 저는 친정엄마가 살림 봐주셔서 가능해요~ㅎㅎ
+P1 	: 네 ㅎㅎㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 지금 대학생이신거죵?
+P1 	: 네네, 현재 대학생이에요
+P0 	: 수업은 어떻게 들어요?
+P1 	: 저는 모두 비대면으로 들어요
+P0 	: 아 그럼 집에서 수업듣는거에요?
+P1 	: 네! 가끔 실시간 줌 수업도 있는데 그 것도 집에서 들어요
+P0 	: 그럼 시험은요?
+P0 	: 코시국에 대학생들은
+	  어떻게 학업을 이어가고 있는지
+	  궁금했어요
+P1 	: 시험도 온라인으로 보는데 줌을 켜고 봐요!  얼굴이랑 컴퓨터 화면이 나오도록요
+P0 	: 아ㅠㅠ 시험도 온라인이군용
+P1 	: 통학비는 들지 않지만 여러모로 의욕은 반감되더라구요ㅠ
+P0 	: 그쵸ㅜㅜ 에휴......
+P0 	: 확실히 대면과
+	  비대면의 차이는 큰 거 같아요
+P1 	: 일단 의욕과 의지가 정말 없어져요ㅠ
+P0 	: 저라도 그럴거 같아요ㅠ
+P0 	: &name2&님 전공하시는 과는
+	  실습 나가시는건 없나요?
+P1 	: 실습 나가야 해서 작년에 어찌어찌 완료했어요ㅋㅋ
+P0 	: 오 완료하셨군용!

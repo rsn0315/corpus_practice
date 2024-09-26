@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100026751
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 좋아하세요?
+P1 	: 예전에는 많이 봤었는데 최근에는 잘 못 보고 있어요 ㅠ
+P1 	: 좋아하는 책이나 작가 있으신가요?
+P0 	: 히가시노 게이고 좋아해요
+P1 	: 예전에 용의자x의 헌신 봤었어요ㅎㅎ 하도 오래전이라 내용은 가물가물한데
+P1 	: 최근작 중에는 어떤 게 유명한가요?
+P0 	: 최근건 저도 잘 못봤어요ㅎㅎ나미야 잡화점의 기적이 젤 히트였던것 같아요
+P1 	: 아 그것도 들어는 봤는데 본다본다하고 못봤네요. 표지 이미지만 기억나요ㅋㅋ
+P0 	: 그건 좀 따뜻한 이야기더라구요ㅎㅎ
+P0 	: 어떤 책 보셨어요? 기억나는거 있으세요?
+P1 	: 예전에는 박민규 소설 이것저것 다 많이 봤었어요
+P1 	: 근데 표절 논란 이후로는 관심 없어져서..ㅎㅎ
+P0 	: 박민규 작가님을 좋아하시는군요
+P0 	: 표절논란이 있었나요?
+P1 	: 논란의 책도 봤었는데.. 뭐 다른 책들은 아니라지만 괜히 좀 그렇더라구요
+P0 	: 그럴것같아요ㅜㅜ
+P0 	: 젤 재밌게 봤던게 뭐였어요?
+P1 	: 죽은 왕녀를 위한 파반느가 젤 기억에 남네요
+P0 	: 저도 빌려봐야겠어요

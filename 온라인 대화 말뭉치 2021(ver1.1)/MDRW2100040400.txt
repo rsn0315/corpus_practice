@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 함께하는 반려동물이 있으신가요?
+P1 	: 아뇨 님은용
+P0 	: 아니요 저도 따로 없어요
+P1 	: 강아지 키우고파요
+P0 	: 키우고 싶은 동물이 있으신가요?
+P0 	: ㅋㅋㅋ 강아지 귀엽죠
+P1 	: 고양이도요
+P0 	: 키우신다면 대형견? 소형견?
+P1 	: 대형견 로망이지만
+P1 	: 현실적으로 소형견
+P0 	: 고양이도 좋아요
+P0 	: 직접 키우지는 못해서 랜선으로 보는 거에 대리 만족중이에요
+P1 	: 마자요 근데 산책하고싶어요
+P0 	: 알러지가 있어서 키우지 못하시나요?
+P1 	: ㅜㅜㅜ 제가 책임져야하는데 ㅠㅠ혼자사니까요ㅠㅠ
+P0 	: 아 ㅠㅠ 혼자 케어하기도 힘들거고
+P0 	: 외출한 동안 또 동물이 혼자 있는 것도 신경 쓰이니까 그렇겠군요 ㅠ
+P1 	: 넹 ㅠㅠ흑흑흑 너무키우고싶다...

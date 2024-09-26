@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100004018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P1 	: 안녕하세요 여행 최근에 다녀오셨어요?
+P0 	: 아뇨 코로나라서 아무데도 못갔어요ㅜㅜ
+P1 	: 아 아쉽네요ㅠㅠ저는 짧게 다녀왔어요ㅜㅜ 해외 가고 싶었는데
+P0 	: 어디 다녀오셨어요??
+P1 	: 속초다녀왔어요ㅎㅎ
+P0 	: 오오 재밌었겠네용
+P1 	: 근데 거의 숙소에만 있어서 아쉬워요ㅠㅠ
+P0 	: 해외 어디 가고싶으세요?
+P1 	: 저 동남아 가고싶었는데...
+P1 	: 가고싶은곳 있으세요?
+P0 	: 저는 일본이랑 대만 가보고 싶어요
+P1 	: 일본이랑 대만 좋죠 얼른 코로나 끝나면ㅜㅠ
+P0 	: 옛날에 유럽 갔다온적 있는데 넘 옛날이라서 사진도 별로 못찍었고 기억도 잘 안나서 아쉬워요ㅜㅜ
+P1 	: 저도 유럽 그립네요

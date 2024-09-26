@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010499
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 학교 다니세요?
+P1 	: 네  고등학교 다녀요!
+P0 	: 공부하느라 스트레스가 많으시겠어요. 혹시 고3은 아니죠?
+P1 	: 고2에요!
+P1 	: &name1&님은 지금 학교 다니시나요?
+P0 	: 아직 여유 있군요^^
+P0 	: 전 방학입니다 아직 ㅋ
+P1 	: 오오 부럽네요  저는 개학해서 학교다니는 중이에요ㅎㅎ
+P0 	: 가실 대학은 정했나요?
+P1 	: 방송,영상 계열로 가고 싶기는 한데 대학은 아직 못 정했어요
+P0 	: 오 멋있네요. 대학은 나중에 성적 맞춰서 저절로 정해지더라고요 ㅎ
+P1 	: 아 그렇군요!
+P0 	: 그럼요. 좀더 나은 레벨로 가려면 성적이 좋은게 유리하긴 하죠^^ 선택의 폭이 넓어지니까요
+P1 	: 그렇네요  앞으로 공부를 더 열심히 해야겠네요!
+P0 	: 그쵸~^^ 나중에 사회 나가면 대학이 곧 자격증이거든요

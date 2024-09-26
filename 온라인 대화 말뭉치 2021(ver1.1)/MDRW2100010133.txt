@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010133
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 반려동물 키운 경험이 있으신가요?
+P0 	: 지금 고양이 한 마리 키우고 있어요
+P0 	: &name2& 님은 키운 적 있으세요
+P1 	: 저는 예전에 고슴도치 키웠어요, 아이 이름이 어떻게 되나요??
+P0 	: 고슴도치를 기르셨구나
+P0 	: 고양이 이름은 &name3&예요
+P0 	: 고슴도치의 이름은 뭐였나요
+P1 	: &name4&랑 &name5&였어요! &name3&는 언제부터 기르셨나요?
+P0 	: 2019년 쯤 부터 키웠어요.  삼년쯤 된 거 같애요
+P1 	: 아이에 대해 모르는 게 없으시겠어요ㅎㅎ
+P0 	: 사실 항상 봐도 새로운 건 있어요 약간 말 약간  말이 안 통하니까 왜 저런 행동을 하지 싶을 때 뭔지 아시죠
+P1 	: 이해하기 어려운 행동 자주 하죠...카페에도 물어봤는데 그냥 아이가 좋아하는 행동일 수 있다고 해서 그려러니 하기도 했어요ㅋㅋ
+P0 	: 맞아요ㅋㅋ 별의미 없는 행동 많이 하더라구요
+P0 	: &name2&님은 고슴도치한테 물어보고 싶었던 거 있나요
+P1 	: 가끔 사료를 다 먹고 굳이 밥 통을 엎는 행동을 왜 하는지 물어보고 싶었어요ㅋㅋ
+P0 	: 사료통을 엎다니 왜 그랬을까 저도 궁금하네요ㅎㅎ
+P0 	: 말이 통했다면 진짜 많은 것을 물어 봤을 거 같아요

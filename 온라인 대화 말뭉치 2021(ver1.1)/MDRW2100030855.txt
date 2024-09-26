@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030855
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: ㅁ날씨어때유
+P1 	: 서울 맑아요! 사진 올릴 수 있으면 하늘을 찍어서 보여드리고 싶을 정도
+P0 	: 저도서울 ㅋㅋ
+P0 	: 집이세요?
+P1 	: 네네 집에 있어요. 주말 맞아서 집 청소도 하는 중이여요
+P0 	: 청소하기조은날씨
+P0 	: 혼자요?
+P1 	: 네네 혼자요~ 창문 열어두고 있어요 ㅋㅋㅋ 날씨가 좋아서... 바람도 선선하게 부네요
+P0 	: 오 옷은 머입으셧어요
+P1 	: 지금 입고 있는 옷이요? 그냥 편하게 입고 있어욤~
+P0 	: 반팔 ??
+P1 	: 네네 반팔!
+P1 	: &name1&님은요~? 집이셔요?
+P0 	: 나왓엉유
+P0 	: 나가보세용 날 조은대
+P1 	: 나갈 예정이 없긴 한데 한번 그래볼게욤!
+P0 	: 해가 쨍해요

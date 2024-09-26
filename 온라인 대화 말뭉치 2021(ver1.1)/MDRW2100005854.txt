@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100005854
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘에 감기 걸리면 눈치 보이지요
+P1 	: 재채기 나올때 소리 크게 날까봐 조심해야 해요
+P0 	: 그래서 이런 환절기가 위험하지요
+P0 	: 감기라도 걸리면 안되니 옷도 잘 챙겨 입어야 합니다
+P1 	: 접종은 하셨나요?
+P0 	: 접종완료자 됐습니다
+P1 	: 우와 일찍 하셨네요.
+	  아픈건 어떠셨나요?
+P0 	: 1차 2차 다 별증상 없었어요
+P1 	: 전 아직 안 맞았어요. 좀있음 청소년 접종한다기에 애들하고 같이 맞으려구요
+P0 	: 미뤘군요
+P0 	: 이게 언제 맞냐도 중요한것 같습니다
+P1 	: 흑. 그래요?
+	  원래 내일 맞으려고 예약했는데 대상포진 걸려서 취소 했거든요
+P0 	: 저런
+P0 	: 대상포진 정말 아픈데
+P0 	: 지금은 괜찮나요?
+P1 	: 다행이 통증 없이 지나갔어요.
+	  울 아들이 접종하고 죽으면 어쩌냐고 안 맞는다거 하는데 그래도 맞아야 하겠죠
+P0 	: 다행이네요
+P0 	: 전 작년 이맘때 걸렸는데
+P0 	: 엄청 아픈데도 참고 있다가
+P0 	: 수포올라와서 병원가니
+P0 	: 시기를 놓쳤다고 하더군요
+P1 	: 그게 항생제를 빨리 먹는게 중요하다고 하더라구요.
+	  전 통증은 없는 대신 재발을 많이 해요..
+P0 	: 그래서 신경이 이미 손상돼서
+P0 	: 일년째 입퇴원을 반복하고 있답니다

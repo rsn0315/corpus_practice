@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023562
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 너꺼?
+P1 	: 쓰려고해ㅛ는데 배민1 막혀서 못썼어
+P1 	: 너 아직 첫구매쿠폰있더라?
+P0 	: 응 내꺼 삼천원 나온거
+P0 	: 왜 막혀?
+P1 	: 전화해서 물어봤는데
+P0 	: 아 나 첫구매 쿠폰도 있어?
+P1 	: 배민1이 쿠팡이츠같은거라서
+P1 	: 응 그것도 안썼어아직
+P0 	: 이제 이벤트 끝난거야?
+	  오늘은 이벤트 안뜨네
+P1 	: 배달기사가 그 시간대에 부족해서 막힌거같다 하더라구
+P1 	: 응 끝났어ㅋㅋ
+P0 	: 아 막힐수도 있구나
+P0 	: 그래서 못시켜먹었구나?
+P1 	: 아냐 그냥 배민1말고 일반으로 시켜먹음^^ㅋㅋ
+P0 	: 아 시켜먹긴 먹었구낰ㅋㅋ
+P0 	: 뭐 먹었어?
+P1 	: 숙성회!ㅋㅋㅋ
+P0 	: 아 숙성회 드디어  먹었구나?
+P1 	: 응 숙성회 먹고싶었거든ㅋㅋㅋ

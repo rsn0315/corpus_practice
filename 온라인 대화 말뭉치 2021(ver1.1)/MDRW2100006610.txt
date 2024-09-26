@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006610
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 음식은 뭐좋아하세요?
+P1 	: 햄버거랑 피자요
+P0 	: ㅋㅋ 자주 드세요!
+P0 	: ?
+P1 	: 아뇨 월에 한두번이요 ㅎ
+P0 	: ㅋㅋ넘 적게ㅋㅋ
+P0 	: 회사다니시죠?
+P1 	: 네 그렇습니다
+P0 	: 그럼 도시락드세요?
+P1 	: 회사 식당에서 먹습니다
+P0 	: 아!구내식당있음 편하겠어요!
+P1 	: 네 고민할 필요가 없네요 ㅎㅎ
+P0 	: 고를수 있나요? 메뉴를??
+P1 	: 아니요..단일메뉴요..ㅠㅠ
+P0 	: 그래도 공짜면...ㅜ
+P0 	: 저흰 제공 안해요ㅋㅋ
+P1 	: 공짜 아니예요...ㅜㅜ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100039816
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우시나요
+P0 	: 아뇨 없어요
+P0 	: &name2&님은요?
+P1 	: 키워본적도 없어요
+P1 	: 키우고 싶은 동물은 있나요
+P0 	: 어릴 때 병아리 키워봤어요 잠깐이지만요
+P0 	: 라쿤이나 골든 리트리버요
+P1 	: 와 라쿤
+P1 	: 똑똑해서 키우기 힘들거 같아요
+P0 	: 그냥 좋아만 하려고요
+P0 	: 반려동물은 책임감과 돈이 필수잖아요
+P1 	: 맞아요 돈이 그렇게 많이 든대죠
+P0 	: &name2&님은 키우고 싶은 동물 있으세요?
+P1 	: 저는 웰시코기 키워보고 싶어요
+P0 	: 코기 귀엽죠 ㅎㅎ
+P1 	: 맞아요ㅠ 너무 귀여워요
+P0 	: 언밸러스한 비율 특히 엉덩이요 ㅋㅋ

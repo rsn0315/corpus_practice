@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003650
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘이 절기상 처서라네요
+P0 	: 아 그러네요 어쩐지 시원하더라구요
+P1 	: 아직도 매미는 울더라고요ㅎㅎ 여긴 비가올듯 안오네요
+P0 	: 저는 남부쪽이라 태풍영향으로 좀전까지 비가 왔었거든요
+P1 	: 와 전국적으로 흐린 모양이에요. 올 여름은 그래도 비교적 수월했지요?
+P0 	: 네 올해는 엄청 덥다곤 생각이 안들었던거 같네요
+P1 	: 3년전인가 진짜 더웠었는데
+P1 	: 남부는 더 더운 편인가
+P0 	: 저는 대구 살아서 몇년전까진 엄청났어요 ㅎㅎㅎ
+	  확실히 올해는 여름이 금방 지나간 기분이네요!
+P1 	: 대구가 대프리카로 불리웠지요?
+P1 	: ㅋㅋ
+P0 	: 네 !ㅋㅋ 그나맞요즘은 덜 덥다더라구요
+P1 	: 요즘엔 살만하지요.
+P1 	: 그런데 습하네요ㅠ
+P0 	: 맞아요 ㅜ 꿉꿉해서 제습기돌리고..에어콘 틀고 했네요

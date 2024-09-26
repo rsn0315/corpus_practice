@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040882
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 뭐 드실 계획이세요?
+P1 	: 저는 아침을 방금 먹었어요!
+P1 	: 아침 드셨나요?
+P0 	: 앗 그러셨구나ㅎㅎ
+P0 	: 네 아침 먹고 점심 메뉴 고민중
+P1 	: ㅋㅋ저는 아침에 미역국이랑 계란 말이로 먹었어요 ㅋㅋ 아침은 밥으로 챙겨드셨나요? 아니면 간단히 드셨나요?
+P0 	: 저는 간단히 먹고 점심에 밥 먹으려고요
+P1 	: 아항 그럼 점심을 알차게 드셔야겠군요!!!
+P0 	: 네 주꾸미 먹을 것 같아요ㅎㅎ
+P1 	: 오오 나가서 드시나요? 아니면 직접 해드시나요?
+P0 	: 배달시키려고요
+P1 	: 오 주말엔 배달이 짱이죠!!
+P1 	: 요즘 인터넷에서 하남쭈꾸미 유행하길래 사먹어봣는데  맛있더라구요!! 좋아하시면 다음에 드셔보세요!
+P0 	: 오 하남돼지? 그 체인인가요
+P1 	: 음 그 체인은 아닌것같아요! 근데 적당히 매콤하고 쭈꾸미도 많이 들었어요!!
+P0 	: 오 찾아봐야겠어요
+P0 	: 쭈꾸미 배달시키면 은근 쭈꾸미 양 땜에 아쉬울 때가 있어요
+P1 	: 맞아요 아무래도 쭈꾸미가 푸짐해야지 먹을맛이 나는데 아쉬울때가 많더라구요!!

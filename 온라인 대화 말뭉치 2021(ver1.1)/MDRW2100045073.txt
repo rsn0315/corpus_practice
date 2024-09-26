@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100045073
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 짬뽕!
+P1 	: 님은요?
+P0 	: 전 짜장요 ㅎㄹ
+P0 	: 그럼 콜라 사이다 중에서는요?
+P1 	: 옹?? ㅋㅋ
+P1 	: 사이다!
+P0 	: 자도요 사이다!
+P0 	: 그럼 칠성? 스프라이트?
+P1 	: 둘다!
+P1 	: 크림 토마토???
+P0 	: 전 크림
+P1 	: 밥?? 면??
+P0 	: 면 ㅋ
+P0 	: &name2&님은요?
+P1 	: 전 밥!! ㅋㅋ
+P0 	: 그럼 김치찌개? 된자찌개?
+P1 	: 김치요!
+P1 	: &name1&님은요?
+P0 	: 저도 김치가 좋아요 ㅎ
+P0 	: 김치찌게에 계란 넣으시나요?
+P1 	: 아뇨??
+P1 	: 돼지!!!
+P0 	: 전 돼지고기도 넣고 계란 넣는거 좋아해요 ㅎ

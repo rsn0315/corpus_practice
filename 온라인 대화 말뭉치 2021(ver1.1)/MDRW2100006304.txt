@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 추석 방역대책 아세요?
+P1 	: 아니요
+P1 	: 조심하라는거아닌가요?
+P0 	: 몇인이상 집합 금지 있지 않을까요?
+P1 	: 그렇겠죠
+P1 	: 하도바뀌니
+P0 	: 이번엔 백신 접종완료자 포함 할때 또 다른것 같더라고요
+P1 	: 많이안모이니 인원신경안쓰네요..저는
+P0 	: 저도 집에만 있을것 같아요.
+P1 	: 잘안나가게되더군요
+P0 	: 요즘은 집에 있는게 안위험하죠. 전 시댁 가기 싫은데 이동 금지 명령을 내려줬으면 좋겠어요
+P1 	: ㅎㅎ 그러면좋겠네요
+P0 	: 그러게요~ 지난 명절엔 좋았고든요. ㅎ
+P1 	: 이동금지 되면좋은데 그러면전일을못해서..시댁가기는 싫은데..
+P0 	: &name2&도 시댁가기 싫으시군요 ㅋㅋㅋ

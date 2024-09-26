@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000542
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일하시나요?
+P1 	: 네~저도 직장다녀요 ㅎ
+P0 	: 업무스트레스는 없으시나요?ㅋㅋ
+P1 	: 당연히 많죠ㅠㅠ
+P0 	: 저는 아이들때문에 다른분들 보다 일찍퇴근을 하는데도..  역시 일은 스트레스가 없을수 없나봅니다
+P1 	: 아~ 저는 상사 스트레스 요ㅠ &name1&님은요?
+P0 	: 저는 직장에 인원이 적다보니 다 가족같은 분위기라서 그런건 없지만 서비스업이다보니 타인에 대한 스트레스가 많아요
+P1 	: 아~! 그러시구나~서비스업이시면 진짜 스트레스 받으실것 같아요~저도 어찌보면 서비스업이라ㅠ
+P0 	: 클래임 한건 터지면 와..  멘붕이.,ㅜㅜ
+P1 	: 네 맞아요ㅠㅠ 생각도 하기 싫네요
+P0 	: 그나마 직장동료들끼리 성격이 맞다보니 겨우 다니고 있네요
+P1 	: 와 그러기쉽지 않은데~좋으시겠어요
+P0 	: 네  그래서 아이키우면서도 잘 다니고 있어요!!
+	  회사에서도 편의도 많이 봐주구요
+P1 	: 좋은 회사네요!^^
+P0 	: 네~!! 그건 진짜 좋아요!!
+P1 	: 동료들도 워킹맘인가요?

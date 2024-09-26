@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100043228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 오늘 뭐 외식하러 가세요?
+P1 	: 아직 정하지 않았는데 고민중이에요ㅠㅠ
+P0 	: 뭐 드시고싶으신데요?
+P1 	: 특이한거 먹고싶어요 한번도 안가본데...
+P0 	: 오. 주변에 특이한 음식점 없으세요?
+P1 	: 있긴 하지만 맛집인건지 알수가 없어서 선뜻 가기 뭐하네요ㅠ
+P0 	: 네이버 리뷰나 지역맘카페 이런곳에서 보시는게어떨까요.
+P1 	: 혹시나 홍보성 글들땜에 진짜 맛집을 고를 수 없을까봐서요ㅠ
+P0 	: 몇시에 만나시는데요?
+P1 	: 5시에 만날 예정이에요

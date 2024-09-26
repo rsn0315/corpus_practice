@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000920
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 끝나면 어디로 여행하고 싶으신가요
+P0 	: 저는 파리요!
+P1 	: 저도 유럽은 안 가봐서 저는 스페인 가보고 싶어요
+P0 	: 오오 저는 사실 외국안가봐사
+P1 	: 저도 많이는 안 가봤어요 국내 여행도 좋아하구요
+P0 	: 저두 제주도 자주가요
+P1 	: 제주도 가고싶었는데 작년에 코로나때문에 비행기 취소되서 못 갔어요ㅜ
+P0 	: ㅠㅠ 저는 지난달에 다녀왔어요!
+P1 	: 제주도에서 어디가 가장 좋으셨나요
+P0 	: 저는 1988이요! 카트타는곳
+P1 	: 오 재미있을것 같아요 사람 많았을것 같아요
+P0 	: 그다지 없었어요 개장맞춰서 가서
+P1 	: 아 꿀팁이네요 개장 맞춰서 ㅋㅋ
+P0 	: 근데 엄청 비싸요,,

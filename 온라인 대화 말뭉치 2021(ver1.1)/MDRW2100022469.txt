@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022469
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 좋아하시나요
+P1 	: 좋아는 하는데 많이 읽는것 같지는 않아요 ㅋㅋ 책많이 읽으세요?
+P0 	: 저도 비슷해요" 사는거 빌리는건 좋은데...ㅋ
+P1 	: 최근에 뭐 읽으셨어요?
+P0 	: 아 이번에 양희은 책을 빌려왔어요 인기많더라구요
+P1 	: 주로 어떤 장르 읽으세요?
+P0 	: 저는 에세이나 육아서..자기계발서..이런거 읽어요
+P1 	: 아 저는 소설 주로 읽어요! ㅋㅋ
+P0 	: 좋아하는 작가 있나요?
+P1 	: 특별히 좋아하는 작가가 있는건 아닌거 같아요 ㅋㅋ 정유정작가거 재밌게 읽었어요!
+P0 	: 아 정유정 작가는 엄청 유명하죠 안읽었지만 알아요 ㅎ
+P1 	: 최근에 읽은 책은 천개의 파랑이라는 책이에요!
+P0 	: 처음 듣네요~ 소설인거죠?
+P1 	: 네네 소설이에요 제가 아이가 있다면 읽히고 싶어요 ㅋㅋ
+P0 	: 어머 어떤 이유에서요?
+P1 	: 천개의 파랑 내용이 따듯해요!

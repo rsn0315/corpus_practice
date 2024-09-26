@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100025086
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 요즘 구매하고 싶은 물건 있으신가요?
+P1 	: 저는 태블릿이요 &name1&님은 있으신가요?
+P0 	: 와 저도 지금 쓰는 태블릿 너무 옛날거라 바꾸고싶긴했어요! 아니면 갤럭시워치 갖고싶네요
+P1 	: 위치 이번 신상 말씀하시는건가요?
+P0 	: 네 원래는 별관심 없었는데 이번 신상이 기능이 다양하더라고요~
+P1 	: 그렇군요
+P1 	: 지금 가지고 계신 태블릿은 무엇인가요?
+P0 	: 제가 가진건 가족이 쓰던거라서 엄청 옛날거에요!
+P1 	: 그렇군요 근데 태블릿은 오래되도 잘 안망가지나요?
+P0 	: 그래도 튼튼한것같아요 사실 많이 쓰지않아서 그런것같아요
+P1 	: 오 그러니 더 구매하고 싶네요
+P0 	: 태블릿 처음 쓰시는건가요? 그러면 당근같이 중고로 알아보시는건 어떠신가요?
+P1 	: 제가 중고는 잘 못믿어서요ㅠㅠ
+	  미개봉이라면 사고 싶은데 애매하네요
+P0 	: 중고가 사기도 많으니까요 그럼 저렴한 버전으로 새거 사는게 좋겠네요
+P1 	: 맞아요 전 어짜피 고급기능을 원하지는 않거든요

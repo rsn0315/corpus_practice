@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017202
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어디로 여행간게 가장 기억에 남아요?
+P1 	: 전 짧지만 좋았던 프랑스 스위스 이탈리아 여행이요!!
+P1 	: &name1&님은 어디가 가장 기억에 남나요?
+P0 	: 우와 저는 프랑스요
+P0 	: 파리요
+P1 	: 우와! 저도 파리 다녀왔어요!
+P0 	: 파리에 오페라하우스 였나 거기가 제일 좋았어요
+P0 	: 오페라의 유령
+P1 	: 저는 파리 센 강에서 크루즈타고 구경한게 좋았어요! 무지 추웠지만
+P0 	: 오오
+P0 	: 그것도 좋았어요
+P0 	: 겨울에가셨나봐요
+P1 	: 네! 겨울에 가서 감기걸려서 골골 거리며 여행한 기억이 나네요 ㅋㅋㅋ
+P0 	: 아 ㅋㅋ
+P0 	: 전 여름에갔었어요
+P0 	: 대혁명기념일 주간에요
+P1 	: 와 여름 파리가 훨씬 좋을거같아요!!
+P0 	: 짐은 가벼웠어요 ㅋㅋ
+P0 	: 또 이탈리아도 겨울인가요?
+P1 	: 네! 3국 다 추웠어요! &name1&님은 기념품 사오셨나요?
+P0 	: 아 네 ㅋㅋㅋ 도시마다 다요

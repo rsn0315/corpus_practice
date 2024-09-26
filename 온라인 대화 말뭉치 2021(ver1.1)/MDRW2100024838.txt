@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100024838
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 방금 &name3& 부대찌개 컵밥먹었어
+P1 	: 포도랑 커피랑ㅋㅋ
+P1 	: 넌 저녁먹음?
+P0 	: ㅇㅇ두부부침이랑 참치랑 인스턴트 육가장 조금?
+P0 	: 육계장
+P1 	: 다양하게 먹었네ㅎ
+P1 	: 인스턴트 국 맛 괜찮?
+P0 	: 아니 인스턴트는 인스턴트맛 나서 항상 별로
+P0 	: 그래도 사오천원 이상 준건 먹을만은함
+P1 	: 오 잘사면 괜찮네
+P0 	: 국은 진짜 비싼걸 사야겠더라 싼건 맛이 다 구려
+P1 	: 아고%
+	  아니 저번에 인스턴트 국이 생겨서
+	  부모님 드셨는데 조미 맛이 강해서 불호라 하시더라고
+P1 	: 내 생각 컵밥 인스턴트 국이가 더 맛날거같아
+P0 	: 컵밥은 괜찮아? 밥은 집에서 지은걸 먹어서 컵밥은 안사게돼 안에 햇반있어서
+P1 	: 응 난 컵밥 국 먹을만했던걸로 기억해ㅎ
+P1 	: 맛 괜찮괜찮
+P0 	: 그렇구만 미역국컵밥 괜찮다는 소린 들은적있당 ㅋㅋ
+P1 	: 나 황태국먹음ㅋㅋㅋ
+	  시원 짭쪼롬ㅎ
+P1 	: 미역국 먹어봐야지ㅋ
+	  생일때ㅋㅋ
+P0 	: 황태국도 괜찮구만 먹어봐야겠다
+P1 	: 응 밥 귀찮을때 편리편리

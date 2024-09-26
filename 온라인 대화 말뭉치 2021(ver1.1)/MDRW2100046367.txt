@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046367
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: {share:url}
+	  문의 했더니 오픈챗 추천인 폼 줬네요
+P1 	: 안녕하세요 최근에 재밌게 보신 영화나 드라마 있으신가요?
+P0 	: 저는 오징어게임과 요즘에 옛드라마
+P0 	: 인어아가씨 보고 있어요
+P1 	: 헉 인어아가씨는 엄청 오래된 드라마네요??
+P0 	: 네 티비에서  틀어주길래 보고있습니다
+P0 	: 검은태양도 본방사수중입니다
+P1 	: 오오 콘텐츠를 굉장히 많이 접하고 계시나봐요
+P0 	: 몇개안보는데  그런것같네요
+P1 	: 장르불문 가리지 않고 보시는 편인가요?
+P0 	: 로맨스는 안좋아합니다
+P1 	: 유명한 영화라도 로맨스는 안보시나요?
+P0 	: 네
+P1 	: 단호하시군요 ㅋㅋ
+P0 	: 나이들수록  바뀌더라고요
+P1 	: 사람마다 선호 장르가 다르니까요 ㅎㅎ

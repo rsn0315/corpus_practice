@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100009081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P0 	: &name2&님은 대학생이세요?
+P1 	: 네!
+P1 	: &name1&님도 대학생이신가요?
+P0 	: 네!!
+P0 	: 수강신청 하셨어요?? ㅠㅠㅋㅋ
+P1 	: 수강신청이랑 정정도 끝났어요!
+P1 	: 하셨어요?
+P0 	: 우와 빠르네요...!
+P0 	: 저는 며칠 전에 신청기간 끝났어요
+P1 	: 수강신청 성공하셨어요?
+P0 	: 올클은 실패해서 겨우 겨우 다른거 줍줍했어요
+P0 	: &name2&님은 성공하셨어요?
+P1 	: 저도 올클은 실패했어요ㅠㅜ
+P1 	: 다른 거 듣게 되었죠...하..
+P0 	: ㅠㅠㅠ저는 pc방까지 갔는데 실패했어요
+P0 	: 몇학점 들으세요?
+P1 	: 18.5학점 들어요!
+P1 	: 3.5학점 더 신청할 수 있었는데..
+P1 	: 망해서 날렸어요..ㅠㅜ
+P0 	: 으아ㅠ 저랑 비슷하네요 저는 19학점!
+P0 	: 20학점 채우고싶었는데 잘 안됐어요

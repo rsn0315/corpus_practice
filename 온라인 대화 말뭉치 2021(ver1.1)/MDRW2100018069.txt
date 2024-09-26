@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018069
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 가족과 함께 사시나요?
+P1 	: 아뇨 저는 친구랑 자취해요
+P0 	: 친구랑 집안일은 어떻게 나누고 계세요?
+P1 	: 음 따로 나누지는 않고 할 때 같이 하는 듯해요
+P1 	: &name1&은 가족이랑 사시나요?
+P0 	: 저도 친구랑 자취해요
+P1 	: 오 그러셨구나 사이 좋으신가요?
+P0 	: 네 사이 좋죠
+P0 	: 사이좋으시죠?
+P1 	: 넵ㅋㅋ 성격이 비슷해서 잘 지내는 것 같아요
+P1 	: 혼자 사는 것보다 친구랑 사는 게 더 잘 맞더라고요
+P0 	: 집안일 나누기도 좋고 재밌기도하고 확실히 혼자보다 훨씬 좋은거 같아요
+P0 	: 같이산지 얼마나 되셨나요?
+P1 	: 맞아요 좀 덜 무기력해지구요
+P1 	: 6개월 정도 됐어요!&name1&은요?
+P0 	: 일년 조금 넘었어요
+P1 	: 오 주말에는 그럼 어떻게 보내세요?
+P0 	: 코로나때문에 어딜가진 못하구요
+P0 	: 같이 마트에서 장보고 맛있는거 먹으면서 게임이나 영화봐요
+P1 	: 우와 다들 비슷하게 사나봐요 저희도 그래요 ㅋㅋㅋ

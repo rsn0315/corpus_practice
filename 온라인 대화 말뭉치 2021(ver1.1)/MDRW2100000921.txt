@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100000921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 여행에 미치고싶습니다
+P1 	: 가고싶은 여행지는요?
+P0 	: 저 영국 가고싶어요
+P1 	: 오 저도요
+P1 	: 문화가 많은 도시라 궁금해요
+P0 	: 영국가서 뭐하실예정이신가요?
+P1 	: 영국하면 빅벤이죠
+P1 	: 시계탑 보고싶어요
+P1 	: &name1&님은요
+P0 	: 저는 런던에 힙합 클럽 가보고싶어요
+P0 	: 그라임이라고 영국 힙합이 있는데
+P0 	: 한때 거기에 미쳤어요
+P1 	: 누치님 덕에 새로운걸 많이 알아가네요
+P1 	: 힙합클럽이라..듣기만해도 힙한데요
+P0 	: 영국 발음 특징이 거기에 쏙 들어가있어요
+P0 	: 쏜워너콩콩콕 궝웨너범범봄
+P1 	: 매력적이죠
+P1 	: 약간 딱딱한듯 격조있는 발음이 매력적이에요
+P0 	: 오우터 발음 멋있어요 그래서 가보고싶네요
+P1 	: 미국과는 다른 그 느낌
+P0 	: 작년엔 너무나 가보고싶어서
+P1 	: 너무 좋아요ㅎㅎ
+P0 	: 영국인에게 인종차별 당하는 꿈까지 꿨어요
+P0 	: 근데 좋았어요
+P1 	: ㅋㅋㅋ 인종차별 당하는 상상하지말아요 우리
+P1 	: 생각만으로도 슬퍼요
+P1 	: 영국 되게 매력있는거같아요

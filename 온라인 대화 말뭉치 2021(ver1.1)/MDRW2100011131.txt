@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100011131
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 뭐 사셨나요?
+P1 	: 자동차 와이퍼랑 아이 간식이요.
+P0 	: 아이 간식은 뭐 사셨어요?
+P1 	: 제리뽀요.
+	  얼려서 주니 좋아하네요.
+P0 	: 우와 저도 좋아해요
+P0 	: 아이가 좋아했겠어요
+P0 	: 전 최근에 갤럭시탭 s7을 샀어요
+P1 	: 오.. 좋은 거 사셨네요.
+	  온라인수업 듣기에도 좋겠어요.
+P0 	: 맞아요
+P0 	: 제가 화상과외를 하는데
+P0 	: 이번에 s7 사서 화상과외에 도움이 되네요
+P1 	: 네.. 저는 먹거리 쇼핑 좀 하다 자려구요.
+P0 	: 먹거리는 어디서 사세요?
+P1 	: 저는 오아시스에서 주로 삽니다.
+P0 	: 오아시스 처음 들어보네요
+P0 	: 가격이 좋나요?
+P1 	: 네.. 가끔 5천원 할인쿠폰이 나오는데 쿠폰적용하면 편해요.
+P1 	: 저렴해요.
+P1 	: 님은 먹거리 쇼핑은 어디서 하시나요?
+P1 	: 지마켓, 옥션에서 빅스마일데이 행사 하던데요. 뭐사셨어요?
+P0 	: 빅스마일데이에 물건 좀 사셨나요?
+P0 	: 저는 저번에 노트북을 사서 이번에는 건너뛰었어요

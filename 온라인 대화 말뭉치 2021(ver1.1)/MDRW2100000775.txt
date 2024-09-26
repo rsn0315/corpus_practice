@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 군대는 어디 나오셨나요
+P1 	: 저는 군대를 가지않았어요
+P1 	: 혹시 군대 가셨나요?
+P0 	: 네 군대 다녀왔습니다
+P0 	: 육군으로 다녀왔어요
+P1 	: 어떤 보직을 맡으셨나요
+P0 	: 작업병을 했습니다.
+P1 	: 작업병은 주로 무슨 일을 하나요?
+P0 	: 부대 정비를 주로 합니다. 제초작업. 부대 보수.
+P1 	: 군대에 있었을 때 가장 힘들었던 점이 뭐에요?
+P1 	: 친구한테 들었는데 삽질하는게 제일 힘들었다 그러던데.. &name1&님도 그러셨나요
+P0 	: 삽질은 재밌었죠 그나마
+P0 	: 단체생활이라 선임이랑 있을때가 제일 힘들었습니다
+P1 	: 요즘엔 과거에 비해 군기잡는게 덜 하다던데 그래도 윗사람이 어려운건 어쩔 수 없나봐요ㅠ
+P1 	: 혹시 군대에서 가장 기억에 남는 일이 있나요?
+P0 	: 말년에 혹한기훈련때 라면먹던게 기억에 남네요
+P0 	: 그나마 제일 최근 기억이라서 그런지
+P1 	: 보통 배치는 강원도로 받나요?
+P0 	: 저는 강원도에 받았습니다
+P0 	: 강원도쪽이 제일 많이 가지 않을까요?

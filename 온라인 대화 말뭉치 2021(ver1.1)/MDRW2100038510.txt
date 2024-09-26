@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100038510
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 서울 여행 오세요~~ 아 맞다 저 예전에
+P0 	: 서울 여행 추천해주세요
+P1 	: 저는 고즈넉한 분위기를 좋아해서
+P1 	: 서촌이나 북촌 궁 있는데 좋아하고요
+P1 	: 요즘은 서울숲도 좋아요
+P0 	: 오... 고즈넉분위기
+P0 	: 좋죵
+P0 	: 주말에 서울여행이나 갈까해요
+P1 	: 오호라~~ 주말에 날씨도 화창한가보더라구요~
+P0 	: 어디가좋을까요
+P1 	: &name1&님의 마음 가는대로 정해봐요~~
+P0 	: 어렵네요
+P0 	: 어디든 가고싶어요
+P0 	: 그라운드시소도 추천받앗눈데
+P1 	: 아 그거 지금 요시고 사진전 하는..??
+P0 	: 앗 마자요 수영장 ㅋㅋㅋ
+P0 	: 아 날조은데 산책도 가고싶고~
+P1 	: 맞아요 겨울오기전에 산책 많이많이하고싶네요
+P1 	: 서울 여행가서 먹고싶은거 뭐에요
+P0 	: 파스타? ㅎㅎ 아당장생각나는게없네 걍 맛잇으면 다 좋죠
+P1 	: 맞아요 맛있으면 다좋고 여행이 좋으면 괜히 더 맛있고

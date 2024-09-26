@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003177
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 스포츠있으세요?
+P1 	: 사격, 펜싱, 양궁 정도요. 요즘에는 양궁이랑 배구만 본 것 같아요
+P0 	: 전 직관은 야구 농구 자주 봤어요 코로나때문에 못가본지 오래됐네요ㅜㅜ
+P1 	: 야구 재밌죠 사실 용어나 플레이는 잘 모르지만 흥미진진해서 계속 보고 있게 되요. 직관 아쉽네요. 빨리 상황이 좋아졌으면 좋겠어요
+P0 	: 그러게요 뛰는 선수들도 응원소리가 없어서 힘빠질것같아요
+P1 	: 맞아요 응원가 보는 재미도 있었는데.
+P0 	: 아  얼마전 올림픽도 재밌게 봤어요
+P1 	: 올림픽 야구는 많이 아쉬웠어요. 다음 경기에서는 더 잘 하겠죠?
+P0 	: 올림픽에선 야구보다 배구가 대박이었던것같아요!!
+P1 	: 아 배구. 저 보다가 울었잖아요. 정말 선수들 너무 대단하고 많이 안타까웠어요
+P0 	: 맞아요ㅠㅠ진짜 스포츠 영화 한편보는 느낌이었어요!!
+P1 	: 비주류였던 경기에서 이 만큼의 성과를 낸 것도 정말 대단했죠. 부상당한 상태에서 뛴 선수도 있어서 가슴이 많이 아팠네요
+P0 	: 전세계에서 4등이라는것도 대단한 성과인것같아요

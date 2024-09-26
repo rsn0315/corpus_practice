@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100043080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키워본 경험 있으세요?
+P1 	: 예전에 새들 키운적 있어요
+P0 	: 새요? 와 무슨 새요?
+P1 	: 백문조라고 하얀새에요ㅎㅎ
+P0 	: 아뇨 지금 처음 듣는데 듣기만 해도 엄청 예쁠 거 같네요
+P1 	: 참새과라 딱 참새사이즈에요
+P0 	: 참새과요? 사이즈도 귀엽네요
+P0 	: 그런데 키우기 쉽나요?
+P0 	: 참새는 사람  근처만 와도 도망가던데
+P1 	: 애기 때부터 밥 먹여가며 길들인 녀석들은 손 위에 잘 올라오고 그래요ㅎㅎ
+P0 	: 어머나
+P0 	: 새는 한번도 못키워봤는데
+P0 	: 너무 너무 키워보고 싶네요
+P0 	: 소리도 참새소리랑 비슷한가요?
+P1 	: 다른 동물 키워보신 적 있으신가요?
+P1 	: 참새하고 조금 다르긴 하지만 비슷했어요ㅎㅎ
+P0 	: 저는 강아지요
+P0 	: 말티즈 키워봤어요
+P0 	: 일반적이죠
+P1 	: 말티즈 귀엽죠ㅎㅎ
+P1 	: 몇 년이나 키우셨어요?
+P0 	: 몇년 못키우고 우리 곁을 떠났어요
+P0 	: 너무 슬펐죠
+P1 	: 반려동물 키우는 건 그게 정말 힘든 것 같아요 ㅠㅜ

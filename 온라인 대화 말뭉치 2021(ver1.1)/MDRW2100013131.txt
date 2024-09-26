@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013131
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨나요?
+P1 	: 점심을 늦게 먹어서 복숭아 하나 먹었어요
+P1 	: &name1& 님은요?
+P0 	: 있는 반찬에 밥 먹었어요.
+P0 	: 과일 좋아하시나요?
+P1 	: 네 좋아해서 제철 과일 자주 챙겨먹어요
+P1 	: 과일 좋아하세요?
+P0 	: 네. 사과는 매일 먹는거 같네요
+P1 	: 초록 사과랑 빨간 사과 중에 어떤 걸 더 좋아하시나요?
+P0 	: 전 빨간 사과요.
+P0 	: 초록색도 나오는 시기엔 잘 사먹어요.
+P1 	: 둘 다 맛있죠!
+P1 	: 배달 음식 자주 시켜 드시나요?
+P0 	: 네. 치킨을 자주 먹어요
+P1 	: 어느 브랜드에서 시켜드세요?
+P0 	: 요샌 노랑통닭이요
+P0 	: 좋아하는 치킨 있으세요?
+P1 	: 굽네 치킨 좋아해요!
+P1 	: 갈비천왕 진짜 맛있어요
+P0 	: 안먹어봤는데 한번 먹어봐야겠네요

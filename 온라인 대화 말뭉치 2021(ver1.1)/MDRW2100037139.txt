@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100037139
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페 좋아하세오?
+P1 	: 네 기분전환하고 싶을 때 가요
+P1 	: &name1&님은 어떠신가요?
+P0 	: 저는 케이크 먹고싶을때 가용!
+P1 	: 케이크 좋아하시나봐요
+P0 	: 네! 그렇게 안좋아했는데 갈수록 단게 땡기네요
+P1 	: 저랑 입맛이 반대시네요 전 단 것을 점점 안 먹게 되네요
+P0 	: 그러게욥 헣헣
+P0 	: 그럼 카페가시면 어떤거 많이드세요?
+P1 	: 허브티요 아니면 전통차 같은 것 먹어요
+P0 	: 차 좋아하시는군요~
+P0 	: 허브티 한번마시기 시작하면 생각나는거같아요
+P1 	: 네 &name1&님도 허브티 좋아하세요?
+P0 	: 넹~ 좋아해욤!
+P0 	: 홍차나 얼그레이티 좋아해요
+P1 	: 저도 홍차 좋아해요 레이디 그레이 최애입니다
+P0 	: 그건 안마셔본거같네욥
+P0 	: 어떤가요??
+P1 	: 얼그레이에 시트러스가 가미되어 전 더 맛있더라고요 
+	  얼그레이 좋아하시면 잘 드실거에요
+P0 	: 오오 담에 마셔봐야겠네요!
+P0 	: 향이 진짜 좋죠~

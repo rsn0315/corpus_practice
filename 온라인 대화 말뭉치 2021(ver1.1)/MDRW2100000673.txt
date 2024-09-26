@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100000673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ㅎ
+P1 	: 안녕하세요
+P0 	: 반가워요 ㅎㅎ
+P1 	: 네 반갑습니다
+P0 	: ㅎㅎ 언제 군대 다녀오셨나요 ㅎㅎ
+P1 	: 98년 입대했어요
+P0 	: 앗 그렇군요... 전 15년에 햇어요 ㅎㅎ 많이 힘드셨을수도..?
+P1 	: 그땐 힘들었죠~~
+P1 	: 많이 어리시군요
+P0 	: 구타도 많았나요 ㅋㅋ
+P1 	: 그럼요
+P1 	: 지금은 없지요?
+P0 	: 제 부대는 저때부터 사라졌더라구요 운좋게 ㅎㅎ
+P1 	: 좋을때 가셨네요.
+P0 	: 그러게요 ㅎㅎ 어디 갔다오셨나요?
+P1 	: 요즘 조카들보니 아주 편하겠더라구요
+P1 	: 전 해군이요
+P0 	: 아하.. 해군 ㅎㅎ 배도 타셨나요?
+P1 	: 네 평택 &affiliation&에 있었어요
+P0 	: 오호 평택... 배멀미 없으셨나요 ㅋㅋ
+P1 	: 체질인가봐요. 그런건 없더라구요
+P0 	: 오호 좋은체질이군요 ㅋㅋ
+P1 	: 네^^

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010398
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 어떤음식 좋아하시나요?
+P1 	: 가리지 않지만 요즘은 파스타가 좋아요
+P0 	: 파스타 맛있죠! 오늘 점심에 뭐드셨나요?
+P1 	: 오늘은 라면이요! 신라면 건면이 맛있어요
+P0 	: 오 라면 맛있었겠네요 신라면 건면은 처음보는데 담에 한번 멋어봐야겠어요~
+P1 	: 안튀긴거라 담백해요!
+P0 	: 아하 그렇군요 배달음식 좋아하시나요?
+P1 	: 직접가는 편이지만 치킨 좋아해요
+P0 	: 치킨 맛있죠ㅎㅎ
+P1 	: 뿌링클이 제일 맛있더라구요
+P0 	: 오 저도 뿌링클 젤 좋아해요!
+P1 	: 달달해서 딱 맛있어용ㅋㅋㅋ
+P0 	: 맞아요~

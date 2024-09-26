@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 이번에 산 와플팬 괜찮죠?
+P1 	: 선물 받은 거 아니었니?
+P0 	: 산거나 마찬가지에요
+P1 	: 그래? 암튼 좋더라
+P0 	: 주로 인절미만 해먹는데 다르게도 먹을수 있대요
+P1 	: 어떻게?
+P0 	: 누룽지요
+P1 	: 아.. 밥을 눌러먹는거구나
+P0 	: 김치 볶음밥 도요
+P1 	: 아무거나 눌러먹으면 되는거군
+P0 	: 맞아요
+P1 	: 한번 해봐야겠다
+P0 	: 해서 저도 좀 주세요~ 먹어보고 싶네요
+P1 	: 니가 하면 되잖아~ 너도 와플팬 할줄 알면서
+P0 	: 엄마가 해줘야 더 맛있어요 ㅎㅎ

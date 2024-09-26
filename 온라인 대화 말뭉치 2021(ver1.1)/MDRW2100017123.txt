@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017123
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 즐겨이용해요
+P0 	: 어느쇼핑몰 이용하세요 주로??
+P1 	: 저는 11번가요
+P0 	: 11번가 저렴하죠
+P1 	: 쿠팡도 가끔 이용해요
+P0 	: 쿠팡이 최저가라 그러더라구여
+P1 	: 어디 이용하세요?
+P0 	: 저는 그냥 네이버 최저가로 보거나 쿠팡써요
+P1 	: 해외직구는 쿠팡이 정말 편하더라구요
+P0 	: 맞아요 진짜 빨리오더라구요
+P1 	: 11번가는 십일절 행사할때 이것저것 사기 좋아서 써요
+P0 	: 오 십일절은 11월11일 맞나요?
+P1 	: 매달 11일로 알고잇어요

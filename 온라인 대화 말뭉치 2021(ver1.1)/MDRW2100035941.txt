@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035941
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 가끔 마셔요~
+P1 	: &name1& 님은요?
+P0 	: 저도 오늘 소이라떼 해먹었어요!
+P1 	: 맛있으셨겠어요~
+P1 	: 자주 해서 드시나요?
+P0 	: 우유가 좀 부담될때 ㅎㅎ 해먹어요 !
+P0 	: 우유 당류가 높아서 ㅜㅜ
+P1 	: 그렇군요
+P1 	: 혹시 영양제 챙겨 드시는 거 있으세요?
+P0 	: 네 있어요!
+P1 	: 어떤 거 챙겨드세요?
+P0 	: 유산균 오메가3 비타민 마그네슘 챙겨먹어요!
+P1 	: 오메가3 좋은 거 같으세요? 챙겨야 하나 고민중이에요
+P0 	: 네 저는 좋은거같아요 ㅎㅎ
+P0 	: 근데 알약이 큰편이라서
+P1 	: 네네
+P0 	: 약간 거부감들기도 해요 ㅜㅜ
+P0 	: 꼭 식사하구 드시는게 나아요 !
+P1 	: 아하 그렇군요!

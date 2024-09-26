@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011549
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매한 물건있으세요
+P1 	: 네 후드집업 하나 샀는데 오는중이요
+P0 	: 곧 가을이니까 자주 입으시겠네요
+P1 	: 잘안입는 옷이긴한데 적립금쓰느라 하나 사봤어요ㅎㅎ
+P0 	: 중고거래 해보신적있나요
+P1 	: 당근마켓 종종 이용해요ㅎ
+P1 	: 옥돔님은요?
+P0 	: 저도 당근 자주해요~~
+P0 	: 최근에 갤럭시 버즈 팔았네요
+P1 	: 오ㅎ얼마에 파셨어요?
+P0 	: 버즈 플러스 핑크색이고 7만 5천원에 팔았어요
+P1 	: 어디서 선물받으신거예요?
+P1 	: 아님 쓰시던거?
+P0 	: 사은품으로 받았어요
+P1 	: 좋네요 그런건 받아본적이 없어서
+P0 	: 전자기기라서 잘팔리더라고요

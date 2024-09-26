@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012589
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!!
+P0 	: 치킨좋아하세요?
+P1 	: 네 치킨 좋아해요!!
+P1 	: &name1&은요
+P0 	: 좋아하죠
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: 저는 노랑통닭 알싸한 마늘치킨 하고 bhc 맛초킹 좋아해요!
+P0 	: 와우 알싸마늘그거
+P0 	: 맛있나요?
+P1 	: 네 튀김이 엄청 바삭바삭해요 근데 마늘이 진짜 알싸해요 ㅋㅋㅋㅋ
+P1 	: 혀가 찌릿
+P0 	: 와우
+P0 	: 노랑통닭 파닭드셔보셨어요?
+P0 	: 파채추가나
+P1 	: 오 아니요 맛있나요 파닭은 안 먹어봤네요 ㅎㅎ
+P0 	: 네네 완전
+P0 	: 존맛이더라고요 네네파닭보다 맛있어요
+P1 	: 오 네네파닭도 유명한데 그거보다 더 맛있군요
+P1 	: 노랑통닭이 튀김이 진짜 바삭해서 맛있는 거 같아요
+P0 	: 맞아요ㅋㅋㅋㅋ
+P0 	: 네네파닭은 오히려실망했어요

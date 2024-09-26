@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012691
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 아니요
+P1 	: &name1&은요
+P0 	: 전 했어여
+P1 	: 오우 그러시군요
+P1 	: 결혼생활어떠신가요
+P0 	: 행복한하루에요
+P1 	: 오 좋네요 행복하시다니
+P0 	: 때론 싸워도 좋아여
+P1 	: 오!! 정말 좋은분과 결혼하셨네요
+P0 	: 네 맞아요
+P1 	: 멀로싸우시나요
+P0 	: 사소한 일이죠
+P1 	: 원래다그렇죠
+P0 	: 아무것도아닌일에 싸우죠
+P0 	: 결혼했어요ㅌ?

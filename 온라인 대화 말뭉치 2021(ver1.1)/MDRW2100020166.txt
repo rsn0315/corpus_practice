@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020166
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 카페인에 약해?
+P0 	: 나 카페인 엄청  약해
+P1 	: 의왠데?
+P0 	: 의외지?
+P1 	: 어
+P0 	: 가슴이 엄청 두근두근 하고 손도 떨리고 이상한 각성 상태가 돼
+P1 	: 나도 약간 두근거리기는 한데 손은 안떨림
+P0 	: 아까 밥 먹으면서 깜짝 놀랐잖아 손 떨려서
+P1 	: 나 못봤어
+P0 	: 보고 놀랄까봐 내가 잘 숨겼어
+P1 	: 그래서 커피 잘 안먹는구나
+P0 	: 응 밖에서도 디카페인 많이 팔았으면 좋겠어
+P1 	: 그거 인정
+P0 	: 어떤 날은 매운 것 잘 먹겠는데 어떤 날은 매운 거 너무 못 먹겠어

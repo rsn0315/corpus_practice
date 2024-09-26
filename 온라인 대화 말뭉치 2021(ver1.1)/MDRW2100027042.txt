@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100027042
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 아침으로 닭가슴살이랑 샐러드요ㅎㅎ아침드셨나요?
+P0 	: 시리얼이오
+P1 	: 어떤 시리얼이여?ㅋㅋ 맛잇으셨겟다
+P0 	: 호랑이기운이요
+P1 	: 크 맛있겠어요ㅠ
+P1 	: 하 오레오랑 첵스초코 섞어먹고싶네여
+P0 	: 맛나겠네녀
+P1 	: 그쵸 점심은 뭐드실거에요?
+P0 	: 분식이요
+P1 	: 오 맛있으셨겠어요 ㅎㅎ
+P0 	: 네
+P1 	: 종류은 뭐드셨어요? 전 칼국수 ㅎ
+P0 	: 순대여

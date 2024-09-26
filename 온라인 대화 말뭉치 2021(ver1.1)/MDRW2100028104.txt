@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요!
+P0 	: 거긴 날씨 어떤가요?
+P1 	: 그냥 흐린것 같아요. 비도 오다 말다 하고요.
+P0 	: 여긴 해떠서 좀 더웠어요
+P0 	: 장마 끝났음좋겠네요
+P1 	: 그쵸! 이제 슬슬 끝날때도 됐는데ㅠ
+P0 	: 가을하늘좀 보고싶어요~ㅜㅜ
+P0 	: 먹구름은그만
+P1 	: 이제 슬슬 단풍 들면 어디든 놀러가고 싶네요! 가을 옷도 입고싶구요!
+P0 	: 맞아요~~! 가을도 후딱지나가서 금방 패딩입기전에ㅋㅋ
+P0 	: 가을옷좀 사셨나요
+P1 	: 이제 슬슬 사려고 보는 중이예요!
+P0 	: ㅎㅎ뭐 생각하시나요
+P1 	: 원피스도 사고싶구... 아우터도 하나 사야하네요ㅠㅠ
+P0 	: 슬슬 입을때 되서 얼른사야겠네요!
+P1 	: 맞아요!ㅎㅎ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100037646
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키우는 동물 있으세요?
+P0 	: 네 강아지 키워여ㅎ
+P1 	: 오~ 어떤 종이요?
+P1 	: 전 예전에 말티즈 키웠었는데
+P0 	: 전 비숑이여ㄴㅅ
+P0 	: 말티즈도 이뻐요
+P1 	: 비숑.. 너무 예쁜데..
+P1 	: 말티즈는 털이 길어서 묶어주기 좋았죠..ㅎㅎㅎ
+P0 	: 비숑은 뽀글뽀글
+P0 	: 엉켜요ㅠ
+P1 	: 그렇구나 말티즈는 직모~ 그래서 예쁘더라구요 ㅎㅎ
+P1 	: 비숑은 귀엽잖아요
+P0 	: 귀여워서 다 용서되요ㅋ
+P0 	: 말똥말똥
+P1 	: ㅋㅋㅋ 귀여운게 다죠
+P1 	: 귀여운게 최고에요
+P1 	: 1마리 키우세요?
+P0 	: 네 1마리여
+P1 	: 저도 강아지 1마리 키웠어요..
+P1 	: 여러마리 키우는 집들도 많길래요
+P1 	: 비숑 이름은 뭐예요?
+P0 	: &name3&이여
+P0 	: 아들이 지었어요ㅎ
+P1 	: 네 우리 말티즈는 하니였어요 ㅎㅎ

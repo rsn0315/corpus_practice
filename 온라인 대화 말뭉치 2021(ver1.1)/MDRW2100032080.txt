@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100032080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 이제 거의 가을날씨가 다 됐네요
+P0 	: 혹시 &name2& 계신 곳은 어떤가요?
+P1 	: 네 너무좋아요
+P1 	: 저는 대프리카라서
+P1 	: 더 좋슴다ㅜㅜ
+P0 	: 헉 저도 대구 사는데...
+P0 	: 신기하네요 ㅋㅋㅋ
+P1 	: ㅋㅋ그러네요
+P1 	: 무사히 여름 보냇슴다
+P0 	: 혹시 제일 좋아하는 계절은 언제이신가요??
+P1 	: 여름빼고 다좋아해요
+P0 	: 여름 너무 덥죠...
+P0 	: 비오면 꿉꿉하고
+P1 	: 네 이제 여름끝이라서 너무좋슴다
+P0 	: 확실히 요즘 많이 시원하긴 해요
+P0 	: 추위는 많이 안 타시나봐요??
+P1 	: 네 땀쟁이라서
+P1 	: 추운거조아해요
+P0 	: 저하고 너무 비슷하시다...
+P0 	: 저 만나는 사람마다 땀 그만큼 흘리는 사람은 처음이래요
+P1 	: ㅋㅋㅋ여름에 진짜 출퇴근만하고
+P1 	: 집콕하면서 몸사렷어요
+P1 	: 좋아하는계절잇으신가요

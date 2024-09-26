@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 오늘은 취침 내일 맛난거 드세요
+P1 	: 오늘야식은 안먹었어요
+P0 	: 졸리시죠 ㅎㅎ
+P1 	: 네~항상버티는거죠^^ 배고파서 더 졸린듯
+P0 	: 흑흑  배고파도 졸리죠
+P1 	: 저녁에 먹는게좋은데 와이프가 모라해서 못ㅇ먹는중ㅠ
+P1 	: 눈치보며 살아요
+P0 	: ㅜㅜ 왜 눈치봐영 흐규 먹는건 잘먹어야죠
+P1 	: 술같이먹고 늦게먹는다고.,
+P0 	: ㅜㅁ ㅜ 슬프겟어요
+P1 	: 눈치보고 와이프잘때만 먹어요ㅋ
+P0 	: 토닥토닥 합니다아아
+P1 	: 감삽합니다아아
+P1 	: 오늘은 와이프님과 집정리해서 못먹음요
+P0 	: 안타까운데요 ㅜㅜ
+P0 	: 내가 &name1&임 ㅋㅋㅋ요 ㅋㅋㅋ
+P1 	: 그런날저런날 내일 뭐먹을지나ㅋ
+P1 	: ^^ &name1&
+P0 	: ㅋㅋㅋㅋ 누구신지 알앗어여 ㅋㅋ
+P1 	: &name1&은 야식안드시나요?
+P0 	: 이제 다이어트 하려구요

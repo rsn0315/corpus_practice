@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007615
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+	  혹시 요즘에 재미있게 보고 계시는 예능 프로그램이 있다면 추천해주실 수 있나요?
+P1 	: 저는 놀면뭐하니 재밌게 보고 있어요
+P0 	: 놀면뭐하니 재밌죠!
+P0 	: 요즘엔 시간이 별로 없어서 주로 클립만 보고 있긴한데ㅠㅠ
+P0 	: 가장 최근편에 신유빈 선수 나왔던가요?
+P1 	: 네네 맞아요 신유빈 선수가 놀뭐에 나왔죠
+P1 	: 무도 리턴즈 보는 느낌이었어요ㅋㅋ
+P0 	: 무도도 진짜 좋아했는데! 이번 편은 꼭 풀로 봐야겠어요
+P1 	: 맞아요ㅠㅠㅠ ㄱㄴㄷㄹ님은 자주보는 영상컨텐츠 있나요?
+P0 	: 저는 주로 유튜브로 예능이나 드라마 클립 많이 봐요!
+P1 	: 오 하나만 소개해주실 수 있나요?
+P0 	: 최근에 본 예능클립은 식스센스요!
+P0 	: 시즌1을 재밌게 봐서 기대하고 있었는데 재미있더라구요
+P0 	: 시간 날 때 날 잡아서 사즌2 몰아보기 할 거예요 ㅠ
+P1 	: 와 식스센스 재밌죠ㅋㅋㅋㅋㅋ 저는 맨날 못보고 놓치지만 클립 같은 걸로 보고 있어요
+P0 	: 가끔은 클립으로 보는 게 더 재미있는 것 같기도 해요 ㅋㅋㅋ
+P0 	: 하이라이트 부분만 편집되서 그런지
+P1 	: 아ㅋㅋㅋㅋ 맞아요 그래서 런닝맨도 종종 클립으로만 봐요
+P0 	: 런닝맨 ㅋㅋㅋㅋ 저도요!

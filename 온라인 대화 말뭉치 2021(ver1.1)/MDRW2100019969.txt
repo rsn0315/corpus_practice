@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019969
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책좋아하시나봐요!
+P0 	: 사는걸 좋아해요ㅋ
+P1 	: 아 ㅋㅋ 최근 어떤책사셧나요?
+P0 	: 어떻게말해줘야할까
+P0 	: 육아책이에여
+P1 	: 아하~ 오 출산하신지 얼마안되셨나봐요!!
+P0 	: 아녀 10살ㅎ
+P1 	: 아 그렇구나!! 아들인가요?
+P0 	: 네 아들이여
+P1 	: 축하드려요! 이게맞나모르겟어요 ㅋㅋ
+P0 	: ㅋㅋ 그러게요
+P1 	: ㅋㅋㅋ 아참 좋아하시는 작가 잇나요?
+P0 	: 전 이상 이여

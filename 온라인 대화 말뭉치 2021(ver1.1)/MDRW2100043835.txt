@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100043835
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 ㅎㅎ 좋아하죠 ㅎㅎ
+P1 	: 최근에 제주도 갔었는데
+P1 	: 좋았어요 ㅎㅎ
+P0 	: 와 제주도
+P0 	: 좋으셨겠네요
+P1 	: 맞아요 ㅎㅎ 정말 오랜만에 갔는데
+P1 	: 좋았어요 ㅎㅎ
+P0 	: 제주도 안간지도 몇년 됐네요
+P0 	: 작년에 가려다 못갔어요
+P1 	: 그쵸 코로나라 기회보기가 힘드니 ㅠ
+P0 	: 네 맞아요ㅜ
+P0 	: 코로나 전엔 해외도 자주 가고 했는데
+P1 	: ㅠㅠ곧 갈수있을겁니다
+P0 	: 네 코로나 잠잠해지는대로 국내여행이라도 다녀오려고요!
+P1 	: 잽싸게 가셔야해요 ㅎㅎ 그러다 다시 단계올라가니 ㅠ
+P0 	: 네네ㅠ
+P1 	: 국내여행은 어디가고싶으신가요
+P0 	: 음 부산 가고 싶어요
+P1 	: 오우 부산 어디 가장 가고싶으신가요?
+P0 	: 광안리 해수욕장이랑
+P0 	: 맛집들이요ㅎㅎ
+P1 	: 좋아요 이쁘고 맛난거많아요!
+P1 	: 부산놀러오세요 ㅎㅎ
+P0 	: 아 &name2&님 부산 사시나요?ㅋㅋ
+P1 	: 네 ㅎㅎㅎㅎ
+P0 	: 좋은 곳에 사시네요

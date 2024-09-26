@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 현재 대학 재학중이신가요?
+P1 	: 안녕하세요  대학 졸업한지 얼마 안됐고 9월에 대학원 입학예정입니다
+P1 	: 대학 재학중이신가요
+P0 	: 올해 입학한 따끈따끈한 새내기입니다
+P1 	: 코시국 새내기시군요...
+P1 	: 등교하신 적 많으세요?
+P0 	: 대면 비대면 반반이었어요
+P1 	: 아 그럼 그래도 학교 좀 아시겠네요
+P1 	: 학교 거의 안가본 친구도 많더라구요
+P0 	: 시험 제외 아예 비대면인 학교 다닌 친구는 등록금 아깝다고 하더라구요
+P1 	: 사이버대학교인데 등록금 내기 진짜 아깝겠어요
+P1 	: 학교 인프라도 활용 못하구
+P0 	: 인프라도 활용 못하고 동아리 활동도 못해봤어요
+P1 	: 아 동아리 ㅜㅜ
+P1 	: 저도 연극부였는데 요즘 활동 아예 못한다더라구요
+P0 	: 연극하셨다니 멋있어요 저는 탁구부 정도 하려고 했는데
+P1 	: 탁구부도 못하겠네요 요새
+P1 	: 뭐 학술분과 같은거나 제대로 활동하려나요?
+P0 	: 그냥 동아리 전체가 멈춘거 같더라구요
+P1 	: 기대 많이하셨을텐ㄴ데 아쉽겠어요 ㅜ

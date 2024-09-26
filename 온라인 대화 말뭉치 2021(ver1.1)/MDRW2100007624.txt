@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007624
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 날씨가 오락가락하네요. 지금은 안 와요
+P0 	: 여긴 맑아요
+P1 	: 요새 일기예보가 잘 안 맞는 것 같아요. 해 표시 뜨는데 비가 오고ㅜ
+P1 	: ctype님 동네는 일기예보가 잘 맞나요
+P0 	: 요즘 잘 안 맞더라구요
+P1 	: 그렇죠. 게다가 날씨도 열대지방처럼 게릴라성 폭우가 오고 그래서.
+P0 	: 오락가락하고
+P1 	: 올 여름엔 무척 더웠죠. 열대야에 잠은 잘 주무셨나요
+P0 	: 에어컨 내내 틀었죠 ㅎ
+P1 	: ㅎㅎ 정말 에어컨 없던 옛날에는 사람들이 여름을 어찌났는지 모르겠네요
+P0 	: 대단한 것 같아요
+P1 	: 그래도 요새는 좀 선선해서 좋네요
+P1 	: 슬슬 가을이 오니
+P0 	: 네 잘때 창문 닫고 자요
+P1 	: 긴팔 옷장에서 꺼내야겠어요

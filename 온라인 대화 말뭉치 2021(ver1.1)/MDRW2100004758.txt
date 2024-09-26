@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100004758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 볶음밥을 좋아하시는건가여?
+P1 	: 네 좋아해요!
+P1 	: 김치볶음밥도 좋구
+P0 	: 그래서 닉네임이 &name2&이시구나..!!
+P0 	: 허닭 볶음밥 드셔보셨어요??
+P1 	: 오 네네 먹어봤어요!
+P1 	: 다이어트 한다고 먹었는데 속세의 맛이었습니다
+P0 	: 앜ㅋㅋㅋㅋㅋ완전 공감..
+P0 	: 저도 다이어트 한다고 사뒀는데, 왜그랬는지는 모르겠지만 불닭소스 더해서 맛있게 먹었어요
+P1 	: 거기에 치즈까지 넣으면 행복했어요
+P0 	: 깍두기볶음밥 진짜 맛있어요
+P1 	: 그냥.. 그냥 볶음밥
+P0 	: 헐 치즈 생각도 못했어요
+P1 	: 우와 깍두기는 안 먹어봤어요!
+P0 	: 그거 양도 꽤 많은 거 같아요. 먹고나면 든든해요
+P0 	: 깍두기에 불닭소스 좀 더해서 먹으면 완전 속세의 맛이에요...
+P1 	: 헉 너무 맛있겠다
+P1 	: 저 다음에 깍두기볶음밥 사먹어볼래요
+P0 	: 깍두기볶음밥 추천하는 사람 많더라구요.
+P0 	: 베스트셀러인가봐요..!!

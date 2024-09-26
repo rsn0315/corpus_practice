@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032305
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 최근에 여행 다녀오셨나요?
+P1 	: 반갑습니다
+P1 	: 마침 여행중이에요ㅎㅎ
+P0 	: 와 어디요?
+P1 	: 용인이랑 북촌-인사동이요!
+P0 	: 아 재밌겠어요ㅎㅎ
+P0 	: 오늘 날씨도 좋고
+P1 	: 그쵸ㅎㅎ 딱 놀러다니기 좋은 날씨예요
+P0 	: 가족이랑 여행중이신가요
+P1 	: 네네, 셋이서 다니고 있어욥
+P0 	: 자주 다니시나요? 여행
+P1 	: 네네, 종종 다녀요
+P1 	: &name1&님은요?
+P0 	: 여행좋아는하는데 최근에는 못갔어요ㅠ
+P0 	: 바닷가 가고싶네요
+P1 	: 아하, 바다 하면 여수나 부산?
+P0 	: 남해도 좋고 동해서해 다요ㅋㅋ
+P0 	: 그냥 너른수평선을 보고싶네요
+P1 	: 그 탁 트인 바다가 그리울 때가 있죠

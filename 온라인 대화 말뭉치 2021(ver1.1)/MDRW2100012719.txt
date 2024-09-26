@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012719
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: Dog 키우시나요?
+P0 	: 아뇨! 저는 지금은 키우는게 없네요
+P1 	: 그럼 전에 키워본 적 있어요?
+P0 	: 네 씨몽키 키워봤어요
+P1 	: 와 씨몽키 오랜만이다 ㅋㅋㅋ
+P1 	: 걔네 진짜 생명체인가요?
+P0 	: 당연하죠...ㅠㅠ 살아있어욬ㅋㅋㅋ
+P1 	: 전 매번 실패했던 것 같아요..
+P1 	: 비결이 뭐에요?
+P0 	: 저는 진짜 교과서적 말밖에.. 적힌대로 해주면 잘자라욬ㅋㅋ
+P1 	: 왜 나는 그마저도 실패했을까요 ㅠㅜ
+P0 	: 저런.. 뭐가 문제였을까요..
+P1 	: 혹시 키워보고 싶은 반려동물 있어요?
+P0 	: 저는 고양이요! 근데 털알러지..
+P1 	: 앗.. ㅋㅋㅋㅋ 털알러지 심해요?
+P0 	: 네 콧물나욬ㅋㅋ
+P1 	: 헐.. 그럼 안되겠다.
+P1 	: 털빠짐 덜한 고양이도 있던거 같은데
+P1 	: 닿기만 해도 털알러지 나요?ㅠㅠ
+P0 	: 맞아욬ㅋㅋ

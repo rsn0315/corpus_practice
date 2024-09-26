@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100036064
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용 점심은 어떤거 드셨어요~?
+P1 	: 저는 훈제오리 먹었어요
+P0 	: 아항 저는 수제버거 먹었어요ㅎㅎ
+P1 	: 오호 맛있는 것 드셨네요ㅎㅎ
+P1 	: 수제버거 좋아하시나요?
+P0 	: ㅎㅎ네네 좋아해요
+P0 	: 햄버거보다는 그래도
+P0 	: 건강에 좋지않을까 싶아서...ㅎㅎ
+P1 	: ㅎㅎ햄버거보다는 수제버거가 좀 더 건강식? 느낌이긴 하죠
+P0 	: 네네ㅎㅎ &name2&님은 매운음식 잘드세요?
+P1 	: 한때는 매운음식 자주 먹었는데 요즘은 자제중이예요
+P0 	: 오 잘드시는구나
+P0 	: 속이 불편하죠?ㅠㅠ 매운거 먹으면
+P1 	: 네네 매운음식 잘 안먹다보니 요즘은 잘 먹지 못해요
+P1 	: 입이 얼얼하고 힘들더라고요
+P0 	: 맞아요 저도 매운음식 잘 못먹어요ㅋㅋㅋㅋ
+P0 	: 근데 한국에는 매운음식이 넘 많네요ㅋㅋ
+P1 	: 네 맞아요. 배달음식도 매운 것이 많고
+P0 	: 어디가면 매운거 못먹으니까 저만 따로 시켜야해서 민망하고 그래요ㅠㅠㅋㅋㅋ

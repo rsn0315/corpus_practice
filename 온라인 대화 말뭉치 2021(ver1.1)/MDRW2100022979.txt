@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100022979
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오오ㅎ 쇼핑많이하세요?
+P0 	: 쇼핑많이하세요?
+P0 	: 최근에 구입한 상품은요?
+P1 	: ㅋㅋ 저 생필품 샀어요 비누 치약
+P1 	: &name1&은요?
+P0 	: 오오ㅎㅎ 저도 생필품이요ㅎㅎ
+P0 	: 물티슈ㅎㅎㅎㅎ
+P0 	: 공영몰에서 990원에 10개샀습니당ㅎㅎ
+P0 	: 주로 어디서 사세요? 인터넷? 아니면 마트?
+P1 	: 어???? 대박!!!!
+P1 	: 그런 핫딜이 있었네요
+P1 	: 전 인터넷이요ㅎㅎ
+P0 	: 네네ㅎㅎ 핫딜로만 사요 ㅡㅎ
+P0 	: 요즘은 앱테크하면서 살아요ㅎ 짠돌이에요ㅎ
+P0 	: 인터넷이 참 좋은데 배송비가 붙어서 좀 그래요ㅠ
+P0 	: 코로나라 홈플러스도 배달시켜요ㅎ
+P0 	: &name2&도?
+P1 	: 저도 지마켓 떠리몰 단골이에요ㅋㅋ
+P0 	: 오오ㅎㅎ 떠리몰 알아요ㅎ
+P1 	: 홈플러스가 세일할땐 싼데 아닐땐 지마켓이 싸서ㅋㅋ
+P1 	: 떠리몰 중독이에요ㅋㅋ
+P0 	: 같은제품인데 싸게사면좋죠ㄹㅎ
+P0 	: ㅎㅎㅎㅎㅎㅎ
+P0 	: 너무 중독되시면 카드값이 많이나오실텐데요?ㅎㅎ
+P1 	: 맞아요ㅋㅋ 농협시럽카드 담달이 마지막이라 이번달에 무리해서 샀어요
+P0 	: 너무싸게 사서좋은데ㅎㅎ 냉장고는 쌓이고ㅎ
+P0 	: 오오ㅎㅎ
+P1 	: 떠리몰은 만원이하상품
+P0 	: 절약왕이시네요ㅎㅎ
+P1 	: 냉동고가 터져요ㅜ
+P1 	: 그래도 물티슈를 이길 수 없어요
+P1 	: 대박 할인이네요

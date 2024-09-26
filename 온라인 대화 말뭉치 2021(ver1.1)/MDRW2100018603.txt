@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018603
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P0 	: 대학생이신가요?
+P1 	: 아뇨 직장인입니다
+P0 	: 저는 아직 대학생이에요...
+P0 	: 4학년 휴학 중인데 아직 따놓은 자격증이 없어요...
+P0 	: 컴활 2급도 괜찮나요?
+P0 	: 1급은 너무 어려울 것 같아서요.
+P1 	: 헛 저도 컴활 2급 생각만 하고 따진 않았는데..기왕 딸거면 1급이 낫다고 들은것 같아요 ㅠㅠ
+P0 	: 아아 ㅠㅜ 역시 그런가 보네요...
+P0 	: 오늘 금요일 퇴근하시면 드디어 주말이네요!
+P1 	: 네네..드디어요 ㅠㅠ 그러면 취업준비 하시는거예요?
+P0 	: 네네
+P0 	: 사실 동시에 다른 대학으로 다시 입학할까 고민하고 있어요...
+P0 	: 인문대학이라 정말 쉽지 않더라고요...
+P1 	: 아 고민이 많으시겠어요.. 진짜 진로에 대한 고민은 끝이없는것 같아요
+P0 	: 맞아요...
+P0 	: 이번에 지역아동센터 아르바이트 접수했는데
+P0 	: 꼭 되고 싶어요! ㅠ
+P1 	: 오 되실거예요! 면접 보고 결과 나오는건가요?
+P0 	: 예비 채용이라 기다리고 있어요 ㅜㅡㅠ
+P0 	: 이때 좀 많이 떨리는 것 같아요
+P1 	: 잘되셨으면 좋겠네요 ㅠㅠ
+P0 	: 감사합니다 ㅜㅜ

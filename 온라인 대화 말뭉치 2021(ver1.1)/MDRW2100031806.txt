@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100031806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 많이 가보셨나요?
+P0 	: 저는 국내여행을 주로 많이갔었어요
+P1 	: 오 어디가 가장 기억에 남나요?
+P0 	: 저는 김해에 캠핑간게 코로나 전 마지막 여행여섴ㅋㅋ
+P0 	: 그게 제일 기억에 남네요
+P0 	: &name2&님은요?
+P1 	: 오오 김해는 한번도 안가본 것 같아요
+P1 	: 김해는 어디가 명소인가요??
+P1 	: 저는 아무래도 제주도가 기억에 남는 것 같아요
+P0 	: 저는 김해태마파크 캠핑장에 갔었는데 좋았어요
+P0 	: 제주도도 엄청 좋죠
+P0 	: 기억에 남는 곳 있으세요?
+P1 	: 오 테마파크면 진짜 재밌었을 것 같아요!
+P1 	: 전 에코랜드 좋았어요 사진찍기도 좋고 넓어서 볼 것도 많더라구요
+P0 	: 저는 제주도에 갔을 때 드라이빙 하는 것도 좋더라고요
+P0 	: 바깥 풍경이 새로운 느낌이여서 그런지
+P1 	: 맞아요 해안도로 달리는 것 자체가 좋아요
+P1 	: 그냥 뻥뚫리는 기분ㅎㅎ
+P0 	: 그 동해안 쪽 국도도 바다보면서 드라이빙하기 좋다고 하더라고요
+P1 	: 오 역시 바다 근처에서 뭘 하든 좋은 것 같아요
+P1 	: 맛있는 것도 많구요
+P0 	: 맞아요 해산물요리도 맛있는게 엄청 많으니까요
+P0 	: 해외에 가보신적 있으세요?
+P1 	: 아니요 해외는 아직 가본적이 없어요ㅠ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100040533
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 고구마 맛있겠네
+P0 	: 웅 군고구마~
+P1 	: 고구마 사 올까
+P0 	: 고구마 철 아니지 않낭
+P1 	: 그래 좀 더 추워야 많이 나오지
+P0 	: 웅 그럼 좀 있다가 ㅎㅎ
+P1 	: 그래
+P0 	: 에어프라이어로 구우면 넘 맛나다
+P1 	: 구운 고구마 먹고 싶네
+P0 	: 웅웅 호박고구마 노릇노릇하게
+P1 	: 맛나게 꾼
+P0 	: 김치랑 같이~
+P1 	: 우유랑 먹어야 맛있지
+P0 	: 우유도 좋다 ㅋ

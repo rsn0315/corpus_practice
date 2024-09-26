@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 젤라또랑 아이스크림이랑 뭐가 다르니?
+P0 	: 갑자기 왜요? 식감인가 그럴거같은데
+P1 	: 젤라또 전문점 생겼다고 전단지 오더라고
+P0 	: 이시국에 젤라또 전문점이라니 용감하다...
+P1 	: 맛있으면 먹어보고 아빠도 사주게
+P0 	: 젤라또에는 크림보다 우유가 더 많이 들어간대요
+P1 	: 아이스크림엔 우유 안들어가? 이름값하네
+P0 	: 아이스크림엔 크림이 많이 들어간다고 하네요 ㅋㅋㅋ 달걀 노른자도 들어가고
+P1 	: 아이스크림 집에서 만들때 달걀 노른자 넣긴 하지
+P0 	: 저도 유튜브에서 맨날 보는 사람중에 아이스크림 만드는 사람 있는데 노른자랑 크림 넣어서 만들더라고요
+P1 	: 초코 아이스크림이 땡긴다
+P0 	: 초콜릿이랑 노른자랑 휘핑크림!!
+P1 	: 누가 아이스크림 하나 먹는다고 만들어 먹고 그러니 밑에 내려가기만 하면 되는데
+P0 	: 하긴 집앞에 바로 편의점 있으니까요 ㅋㅋㅋ
+P0 	: 저번에 되게 예쁜 치즈케이크 봤어요

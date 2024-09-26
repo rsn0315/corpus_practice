@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032986
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 제주도에 관광객이 안 와야 합니다
+P1 	: 관광객때문에 코로나가 심해졌지요
+P0 	: 친구 가족들이 덜 뭐야 하지요
+P1 	: 모임을 줄여야하는데 추석이라 어렵지요
+P0 	: 이때 아니면 언제 모이긴 나는 마음이죠
+P1 	: 추석이라고 지역 이동도 자제해야죠
+P0 	: 집에서는 마스크를 잘 써야 해요
+P1 	: 마스크는 어디서나 필수에요
+P0 	: 모이지 않는게 가장 중요해요
+P1 	: 추석때 어디 가나요
+P0 	: 내 저는 고향 부산에 가요
+P1 	: 조심하셔야 겠네요 부산이 심각해요
+P0 	: 네 그냥 밥 한 끼만 먹고 오려고요
+P1 	: 4단계라서 많이 모이지 못할거에요

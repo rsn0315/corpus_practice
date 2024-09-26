@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100011861
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 전 아직 잘 모르겠는데
+P1 	: 스파게티 해먹을까 생각중이에요
+P0 	: 스파게티가 생각보다 해먹기 간편한 편이죠??
+P1 	: 네 소스만 있으면 면만 끓이면 돼서
+P1 	: 자주 해먹어요!
+P0 	: 저도 곧 자취를 시작하는데
+P0 	: 스파게티 자주 해먹을 것 같아요
+P0 	: 또 간편하게 해먹을 수 있는 음식 뭐가있나요?
+P1 	: 완전 간단하게 계란 볶음밥도 자주 먹어요
+P0 	: 요즘 계란 가격이 비싸다던데
+P0 	: 얼마정도하나요??
+P1 	: 날계란에 밥 비벼서 파기름이랑 굴소스에 볶는거요
+P1 	: 흠
+P1 	: 비싼 건 아는데 가격은 잘 모르겠어요!
+P0 	: 음 굴소스 정말 만능이죠
+P0 	: 집에 하나 구매해둬야겠네요
+P1 	: 맞아요 꽤 자주 쓰더라구요
+P0 	: 에어프라이기는 생각보다 쓰기 귀찮은가요?
+P1 	: 채소 볶은거에 굴소스 넣어도 맛있어요
+P1 	: 음 귀찮진 않은데
+P1 	: 에어프라이어 돌리면 뭔가.. 좀 지나면 음식이 딱딱하고 뻣뻣해져서
+P1 	: 별로 좋아하진 않아요
+P0 	: 아아 무슨느낌인지 알 것 같아요
+P1 	: 친구들은 잘 쓰더라구요!
+P0 	: 조절하기도 조금 힘들죠
+P0 	: 저도 잘 태워먹어요

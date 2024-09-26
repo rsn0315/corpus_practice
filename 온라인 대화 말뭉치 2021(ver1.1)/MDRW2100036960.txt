@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036960
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배민에서 배달 음식 자주 시켜 드세요?
+P1 	: 가끔이요. 배달 자주 시키나요?
+P0 	: 아니요  배달 보다 사 와서 포장해서 많이 먹고 배달은 가끔 해요
+P1 	: 배달이나 포장은 쓰레기 버리기 번거로워서 식당서 먹은 편이에요
+P0 	: 그렇죠 집에서 먹으면 쓰레기가 생기죠
+P1 	: 먹을 땐 좋은데 버리기 넘나 귀찮어요
+P0 	: 얼마 전에 해물칼국수 먹다가 칼국수에서 휴지가 나왔어요
+P1 	: 헐 배달 음식에서요??
+P0 	: 아니요 매장에서 먹는데 먹고 있는데 휴지가 나왔어요
+P1 	: 다시 끓여달라고 하셨나요? 어케 하셨어요?
+P0 	: 주인 불러서 보여 주고 그냥 나왔어요 그리고 주인이 휴지 든 사진 찍어서 지금 신고하려고요
+P1 	: 주인은 뭐라고 하던가요?
+	  휴지나왔는데 돈 받진 않았겠죠
+P0 	: 네 그냥 가라고 퉁명스럽게 말해서 식약청에 신고 하려고요
+P1 	: 허걱.. 빨리 신고해야 겠네요

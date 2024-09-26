@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100014516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는 학교 졸업한지가 꽤 됐네요.
+P1 	: 저는 아직 다니고 있어요
+P0 	: 몇학년이세요?
+P1 	: 저는 2학년이요
+P0 	: 아.. 정말 좋을 때네요.
+	  한창 전공 공부한다고 힘드시겠어요.
+P1 	: 맞아요 사실 어른들은 지금 나이가 좋다고 하지만 공부에 시험이 과제까지 힘들죠ㅠㅠ
+P0 	: 레포트 쓸 때 힘들었고
+	  모범 풀이없는 전공 문제 풀 때 진짜 답답하고 힘들더라구요.
+P1 	: 맞아요 학교 생활은 가면 갈수록 어려운 것 같아요
+P0 	: 열공하셔서 시험도 잘보시고
+	  과수석 먹어버리세요.ㅎ
+P1 	: 좋습니다!!
+P1 	: &name1&님은 조별 과제 좋아하셨나요?
+P0 	: 저는 팀으로 하는 것보다는 개별과제가 낫더라구요.ㅎ
+	  팀별과제는 결국 제가 주도하게 되더라는
+	   .ㅋ
+P1 	: 고생하셨네요 저는 기사는 아니었지만 안하는 사람이 생기면 제가 다 얄미워서 혼자하는 게 훨씬 좋더라고요
+P0 	: 공부도 스터디?하는 것보다는 혼자가 나았네요.ㅎ

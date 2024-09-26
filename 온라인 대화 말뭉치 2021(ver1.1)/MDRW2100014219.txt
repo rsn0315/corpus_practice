@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100014219
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하새용
+P1 	: 안녕하세요
+P1 	: 비가 자주오는거같아요
+P0 	: 넵 그러게용
+P0 	: 여기도 지금 비가 엄청내려서
+P0 	: 우산 완전 필수에영
+P1 	: 맞아요 근데  이런 날씨는
+P1 	: 우산도 소용이 없더라구요
+P0 	: 마자요 흑흑..
+P1 	: 비에  젖어 축축해지더라구요
+P0 	: 사실 오늘 밖에 나왔는데 차가 지나가서 빗물로 다 젖었답니다^^;;;
+P1 	: 세상에
+P1 	: 너무 화나셨겠다
+P1 	: 괜찮으세요?
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 뭐 그런 차가 다 있대요
+P0 	: 어쩔 슈 없죠ㅠ
+P1 	: 고생이 많으셨네요ㅠ
+P1 	: 좋아하는 계절있나요
+P0 	: &name2&은 오늘 비오는데 뭐하셨어여
+P0 	: 아 저는 겨울이요
+P1 	: 더운거 안좋아하시는구나
+P1 	: 저도그래요
+P0 	: 넵 그쵸 겨울에 스키장가서 눈쌓인 곳에서 열심히 스키 타는것도 좋아영

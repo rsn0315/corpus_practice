@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 혹시 알바하시는거 있나요?
+P1 	: 아니요 지금 쉬는 중이에요
+P1 	: 알바중이신가요
+P0 	: 아 그러면 예전에는 혹시 어떤일하셨나요.??
+P0 	: 저는 키즈카페 알바하고 있습니다!
+P1 	: 요즘은 코로나로 별로 손님이 없나요?
+P0 	: 요즘은 얼마없는데 최근에는 방학이었어서 사람이 많더라구요!
+P1 	: 아 요즘도 많군요 아무래도 아이들은 집에만 있기 힘들죠
+P0 	: 그렇죠 ㅜ 방학이라 많고 비오면 실내라서 더많더라구요
+P1 	: 아 요즘 비도 많이 와서 .. 규모가 큰 곳인가요?
+P0 	: 네 좀 큰곳이라서 하하..
+P1 	: 힘드시겠어요 방학이 어서 끝나기를 ㅋㅋ
+P0 	: ㅋㅋ 그래도 이제 방학끝나서 주말만 많아요 ㅎ

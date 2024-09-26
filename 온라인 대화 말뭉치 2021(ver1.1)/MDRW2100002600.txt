@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 민트초코 좋아하시나 보네요
+P1 	: 안녕하세요
+P1 	: 네 좋아합니다
+P1 	: &name1&님은요?
+P0 	: 저도 좋아해요! 민초단입니다 ㅎㅎ
+P0 	: 민트초코 들어간 커피 음료 넘 맛난것 같아요
+P1 	: 동지네요ㅋㅋ
+P1 	: 어디꺼 좋아하시나요
+P0 	: 음 스타벅스에서 팔던거 괜찮았어요!ㅋㅋ
+P0 	: 민초 아이스크림도 좋아하시나요 ㅎㅎ
+P1 	: 스타벅스 맛있다던데 아직 못먹어봤네요
+P1 	: 네 민초아이스크림
+P1 	: 정말 좋아해요
+P0 	: 저두요 ㅎㅎ 싫어하는 사람들을 이해할수가 없어요
+P1 	: 그니까여ㅋㅋ
+P1 	: 을매나 맛있는데..
+P0 	: 마자용 ㅋㅋ 이해불가~
+P0 	: 주말에 한번 먹어야겠어요
+P1 	: 저는 오늘...먹어야겠어요
+P1 	: 그 개운한맛이
+P1 	: 그립네요
+P0 	: 맞아요 주기적으로 먹어줘야해요 ..
+P1 	: 민초말고는 무슨맛 좋아하시나요?
+P0 	: 그냥 초코맛도 좋아해요!

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100001073
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210723
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키우세요?
+P1 	: 네 키워요
+P0 	: 뭐 키워요?
+P1 	: 햄스터요 ㅎㅎ
+P0 	: 햄스터 한마리 키워요??
+P1 	: 네 한마리만 키워요~^~^
+P0 	: 이름있나요??
+P1 	: &name3&요 &name3&
+P0 	: 헉 귀엽다
+P0 	: &name3&색이에요??
+P1 	: 아뇽ㅋㅋㅋ
+P1 	: 연갈색이요
+P1 	: 근데 &name1&님 몇살이세요?
+P0 	: 19살이요

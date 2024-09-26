@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012243
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 보는거 좋아하시나요?
+P1 	: 뮤지컬을 가끔 봐요. &name1&은 어떤 공연 보시나요?
+P0 	: 아이유랑 해외 연예인 내한 콘서트 보러다녔어요
+P1 	: 우와 아이유콘서트 유튜브에 올라오는 클립만 봐도 대단하더라구요! 좋으셨겠어요
+P0 	: 저 밥좀 먹고올게요
+P1 	: 네네 천천히 다녀오세요 ㅎㅎ
+P0 	: 아이유 콘서트에서 자본의 맛을 느꼈습니다
+P1 	: 자본의 맛 좋았을 것 같아요
+P1 	: 어떤게 제일 좋으셨나요?
+P0 	: 무대가 화려했고
+P0 	: 밴드 세션이 있어서 사운드가 풍부했어요
+P1 	: 와.. 하긴 밴드부르고 무대 꾸미는게 다 돈이겠네요
+P1 	: 표값이 아깝지 않겠어요
+P0 	: 뮤지컬은 어떤 작품 보셨나요?
+P1 	: 큰 공연들을 봤어요 몬테크리스토 레베카 캣츠 이런 것들요
+P0 	: 뮤지컬도 티켓값 장난아닌걸로 아는데요

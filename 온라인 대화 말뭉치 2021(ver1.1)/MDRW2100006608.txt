@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006608
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요.먹는건.순식간인데
+P0 	: 맞아요 ㅠㅠ 과일 진짜 먹는거 금방인데
+P1 	: 자주 드시는.메뉴는.뭐있나요
+P0 	: 음식 통틀어서요?
+P1 	: 네ㅎㅎ
+P0 	: 자주먹는건 떡만둣국이에요
+P0 	: &name2&님은요?
+P1 	: 저희도 떡만둣국 자주 먹어요 아이들이 잘 먹어서
+P0 	: 오 아이들이 떡만둣국 잘먹는군요
+P1 	: 네 떡을 좋아해요
+P0 	: 떡볶이도 잘 먹어요?
+P1 	: 간장떡볶이만요 ㅎㅎ
+P0 	: 아 아직 매운걸 못먹는구나 ㅋㅋㅋㅋ
+P1 	: 네 먹을수있는나인데 의지가 없어요..ㅎㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025368
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 가끔 가요
+P0 	: 저도 가끔
+P1 	: 요즘은 너무안가서 가고싶긴해요
+P0 	: 코로나때문에
+P1 	: 맞아요 답답해서
+P0 	: 유럽가고 시 ㅍ어요
+P1 	: 거긴 한번도 안가봤네요
+P0 	: 스페인 좋다고 하더라구요
+P1 	: 티비에서 보면 좋을거같아요
+P1 	: 요즘은 가질 못하니 티비에 여행프로만 보게되네요
+P0 	: 대리만족해요
+P1 	: 얼른 마스크없이 여행가고 싶어요
+P0 	: 그쵸
+P0 	: 여행좋아해요??

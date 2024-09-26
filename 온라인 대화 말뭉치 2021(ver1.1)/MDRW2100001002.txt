@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001002
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P0 	: 넌 요즘 어떤 책 읽어?
+P1 	: 메이즈러너 다시 읽어보고 있어
+P0 	: 메이즈러너 오랜만이다
+P0 	: 고등학생때 재미있게 읽었었는데
+P1 	: 나도 고등학교때 이후로 책을 안읽었는데 뒷권이 나왓더라구
+P0 	: 아 정말? 새로 나온지 몰랐네
+P0 	: 새로 나온건 이름이 뭔데?
+P1 	: 나온지는 좀 됐는데 킬오더랑 피버코드가 있더라고
+P0 	: 오 처음들어본다
+P0 	: 나도 안읽은 책이네
+P1 	: 너도 한번 사서 읽어보는거 어때
+P0 	: 도서관 가서 찾아봐야겠어
+P0 	: 요즘 소설 사는 돈이 아깝더라고 ㅜㅜ
+P1 	: 맞아.. 종이책은 무겁기도 하고 관리도 힘들구
+P0 	: 이북리더기 사서 그런가
+P0 	: 전자책이 더 좋아
+P1 	: 나도 전자책 종류가 보기 편하더라구 그래서 요즘 웹소설이나 전자책 자주봐
+P0 	: 웹소설 재미있지

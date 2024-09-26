@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 연애중이신가요ㅎㅎ
+P0 	: 네 연애중이예요
+P0 	: 결혼하셨다고 했죠!
+P1 	: 연애 행복하신가요
+P0 	: 네 좋죠
+P0 	: 결혼 행복하신가요?
+P1 	: 네 장단점이 있지만
+P1 	: 장점이 더 큰듯해요
+P0 	: 어떤 장점이 있나요?
+P1 	: 확실히 뭔가 안정적이에요
+P0 	: 그럼 혹시 단점도 물어봐도 될까요?
+P1 	: ㅋㅋ옆에 계속 있어요
+P0 	: 장점이자 단점이군요ㅋㅋ
+P0 	: 얼마나 되셨어요?
+P1 	: 저 작년 11월이오ㅎㅎ
+P0 	: 이분이다 하게되신 계기가 있나요?
+P1 	: 성품이 착한게 ㅎㅎ

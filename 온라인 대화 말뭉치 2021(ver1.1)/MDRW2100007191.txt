@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100007191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 안녕하세요?
+P0 	: &name2&님은 게임 좋아하시나요?
+P1 	: 저는 게임은 크게 좋아하지 않는데 요즘 모바일 게임 열심히 하고있어요 ㅎ &name1&님은요??
+P0 	: 저는 게임이 너무너무 재밌어요! 모바일 게임은 어떤 게임을 하세요?
+P1 	: 심슨 스프링필드라는 게임 하고있어요~ 마을 재건하는 게임인데 심슨덕후라그런지 정말 재밌게 하고있어요. 무슨 게임 좋아하세요
+P0 	: 저는 리그 오브 레전드라는 게임을 즐겨합니다! 셈슨 스프링필드는 마을 짓는 게임아닌가요?! 제 아내가 정말 좋아해요!!
+P1 	: 오~ 제 남편도 롤이라고 하는 게임 엄청 좋아하더라고요. 근데 마우스 부술것같아서 무섭습니다
+P0 	: 마우스를 부슨다는건 무슨 말씀이신가요?! 또 다른게임은 하시는게 없나요?
+P1 	: 넹 저는 오직 심슨만......
+P1 	: 현질도 심슨에 처음 해봤슨
+P0 	: 심슨은 한국게임인가요?
+P1 	: ea에사 나온 게임이에요 퀄리티가 아주 좋죠
+P0 	: ea 스포쯔 재밌는게임!!! 인트로를 아시나요?,
+P1 	: 그게 뭐지요
+P0 	: ea사에서 스포츠 게임 시작화면에 등장하는 인트로에요. 심슨은 그래서 한국게임인가?!
+P1 	: 미국게임이에요 이에이가 미국꺼니께...
+P0 	: 미국회사에서 만든 한국게임일 수도...!!

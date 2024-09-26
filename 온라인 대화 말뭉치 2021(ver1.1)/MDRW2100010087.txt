@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010087
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 오늘부터 진짜 건강식단 들어갔어요
+P0 	: 어떻게 식단 구성하셨는데요?
+P1 	: 점심은 장어로 든든하게 먹었어요
+P0 	: 아하 저는 채식이나 다이어트 식을 생각했었는데
+P0 	: 말그대로 건강식인가보네요
+P0 	: 직접 요리하셨어요
+P1 	: 저녁엔 쉐이크 먹으려고요
+P0 	: 아 그렇구나
+P0 	: 단백질 쉐이크?
+P1 	: 네 근데 노니 곡물맛이라서 기대가 안되네요ㅜ
+P0 	: 노니요?
+P1 	: 저도 한번도 안먹어봤어요
+P1 	: 동생이 주고가써요 ㅋㅋ
+P0 	: 건강에 좋은건가요
+P0 	: ??
+P1 	: 그냥 단백질 쉐이크 같은데 그렇게 적혀있더라고요
+P0 	: 다이어트 때문에 식단관리하시는 건가요?
+P1 	: 네 정말 확찐자가 되어서요ㅜ
+P0 	: 아 저도 결혼하고 체중이 급격하게 불어서
+P0 	: 운동하면서 샐러드 먹고있는데
+P0 	: 식욕참는게 너무어려워요
+P1 	: 저도요 딱 저녁만 쉐이크로 바꾸려고요
+P1 	: 점심도 탄수화물 줄이려고 밥안먹고 장어만 먹음 ㅋㅋ
+P0 	: 그럼 아침은 평소처럼 일반식으로 드시나요?
+P1 	: 아침은어영부영하다가 안먹었어요
+P1 	: 근데 낼부턴 비타민? 이거마시려고욥ㅋㅋ

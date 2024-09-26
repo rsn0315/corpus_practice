@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021755
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아뇨! 안 보낸 거 같아요!
+P1 	: 아하 그렇군요
+P1 	: &name1&님은 오늘 뭐 드셨나요?
+P0 	: 돼지갈비 구워 먹었어요!
+P1 	: 으아 맛있는거 드셨네요 ㅋㅋㅋㅋ
+P0 	: &name2& 님은 뭐드셨어요?
+P1 	: 저는 오늘 늦게 일어나서 마라탕 한끼 먹었어요 ㅋㅋㅋㅋ
+P1 	: 점심에 먹은건데 꿔바로우도 같이 먹어서
+P1 	: 아직도 배가 부르네요 ㅎㅎ
+P0 	: 든든하게 드셨나봐요! 마라탕 너무 부러워요~
+P0 	: 저는 이번 달에 너무 많이 시켜서 마라탕은 자제중이에요ㅋㅋㅋ
+P1 	: 오랜만에 먹은 거라 먹고싶은 걸 다 넣었더니 ㅋㅋㅋㅋ
+P1 	: 양조절을 실패했어요
+P0 	: 마라탕 너무 맛있어서 양조절하기 어려워요ㅋㅋㅋ
+P1 	: 맞아욬ㅋㅋㅋㅋ 항상 과식하게 되더라구요 ㅎㅎ;;
+P1 	: 마라탕만 먹고오면 배불러서 한끼 건너뛰게돼요 ㅋㅋㅋㅋㅋ
+P0 	: 야채도 많이 먹어서 포만감도 더 오래 가는 거 같아요ㅋㅋㅋ
+P1 	: 맞아요 중당도 많이 먹어서 더 포만감 오래가는 것 같아요

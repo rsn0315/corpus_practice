@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008243
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 홈쇼핑에서 토마토샀는데 반 눌리고 너무 익은게왔네요
+P0 	: 에고 어디에서사셨어요?
+P0 	: 교환해야되는거 아니예요?
+P1 	: h몰이요. 그냥 못먹을정도는 아니에요
+P1 	: 반송이 더귀찮아서~~
+P0 	: 방울토마토요?
+P1 	: 완숙토마토요
+P0 	: 몇키로사셨어요?
+P1 	: 마트는 단단하던데 배송중에 택배차에서 익은건지..
+P1 	: 5키로요
+P0 	: 엄청 많이사셨네요  얼마예요?
+P1 	: 13천정도 준거같아요
+P0 	: 5키로면 가격 괜찮네요ㅎ 무배인거죠?
+P1 	: 적립금있어서 천원주고산거같아요
+P1 	: 네 무배~~ 전 무배아님 잘안사요
+P0 	: 오 천원이면 알뜰쇼핑하셨네요ㅎㅎ
+P1 	: 네. 어차피 적립금으로 싸게샀으니  골라서 먹어야겠어요^^
+P0 	: 무른건 갈아드셔도 될듯요
+P0 	: 아님 으깨서 계란이란 볶아먹어도 맛있던데 해보셔요
+P1 	: 네 그래야겠어요

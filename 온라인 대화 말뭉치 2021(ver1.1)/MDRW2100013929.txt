@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100013929
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 애완동물 키우세요?
+P1 	: 아뇨.. 안키워요.. 
+	  뭐 키우시남여?
+P0 	: 아...저는 거북이 한마리요
+P0 	: 강아지좋아하세요?
+P1 	: 어쩌다 거북이를?
+P1 	: 전 털달린거 다 좋아해요..
+P1 	: 멍멍이 야옹이 토끼 사자.. 공룡..ㅋㅋㅋ
+P0 	: 아 네 전 강아지 무서워해요
+P0 	: 물까봐요 ㅠ
+P1 	: 진짜요? 작은거도요?
+P0 	: 네 작은강아지도 무서워요 못만져요
+P0 	: 고양이는 눈이무섭고.. 너무재빨라서 식탁위에도 오르네 혼이빠지구요
+P1 	: 어릴때 트라우마 그런거 아니고 그냥 무서워요?
+P0 	: 아네 ㅜㅜ 저도 강아지 잘 안을수있으면 좋겠어요
+P1 	: 그럼 조류는요? 앵무새 같은거
+P0 	: 무섭죠 ㅜㅜ 비둘기는 싫어해요 
+	  조류좋아하세요?
+P1 	: 앵무새나 펭귄은 귀엽던데.. 
+	  갑각류 빼곤 다 좋아하는 편이에요
+P0 	: 아 네.. 좋은거죠..
+P0 	: 저는 소극적이라서요

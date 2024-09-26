@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001035
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210722
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: ㄷ운동하세요?
+P0 	: 운동 잘 안해요
+P0 	: 해야되는데..
+P1 	: 아하 뭐 걸리는게 있나요?
+P1 	: 귀찮음?
+P0 	: 네..
+P0 	: ㅋㅋㅋ
+P0 	: 운동하시나요?
+P1 	: 회사 들어가기전에는 조금 했는데
+P1 	: 일과가 생기니 힘드네요 ㅋㅋ
+P0 	: ㅋㅋㅋ비타민같은건 챙겨드세요?
+P1 	: 비타민은 안먹고
+P1 	: 라토핏은 먹습니당
+P0 	: 아하
+P0 	: 저는 약도 귀찮아서 잘안먹어요
+P0 	: 먹어야되는데
+P1 	: 그럼 뭘 하시나요...
+P0 	: ㅋㅋㅋㅋ
+P0 	: 누워있습니다
+P0 	: 휴식이 건강도 아주 중요합니다
+P1 	: 근데 뭐 운동 안해도 그렇죠?
+P1 	: 식이요법하시면되지

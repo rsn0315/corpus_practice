@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100038990
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 어떤 물건을 사셨나요
+P0 	: 저 최근에...워치4샀어요
+P1 	: 인터넷쇼핑으로 사셨나요
+P0 	: 네 사전예약이요
+P0 	: 필름이 안와서 모셔만 놨다가
+P0 	: 오늘 필름 도착했네요 ㅎ
+P1 	: 써보니 괜찮나요
+P0 	: 아직 적응이 안되서 ㅋㅋ
+P0 	: 근데 체지방 측정되는게 신기하더라구요
+P1 	: 혈압 맥박도 체크가 된다고 들었는데 ......
+	  그런가요
+P0 	: 네 그건 다른것도 되지않아요?
+P1 	: 몸관리하는데 도움이 되겠네요
+P0 	: 그런지 그냥 측정만하고
+P0 	: 에이 하고 워치 던질지 ㅋㅋ
+P1 	: 전 최근에 삼성버즈2  예약 구매했어요
+P0 	: 오~~
+P0 	: 버즈2 괜찮아요??
+P1 	: 네 성능 좋아요

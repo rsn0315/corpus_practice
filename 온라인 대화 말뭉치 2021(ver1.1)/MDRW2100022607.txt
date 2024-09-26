@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100022607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁메뉴정하셨어요?
+P0 	: 아직 고민중인데 김치볶음밥 먹을까 생각중이에요
+P0 	: 저녁메뉴 정하셨나요?
+P1 	: 아녀ㅠ 정한건아닌데 집에잇능걸로 해먹어야할듯해여ㅠ
+P0 	: 직접 요리하세요?
+P1 	: 요리라긴뭔가 거창한거같고 ㅋㅋ 그냥 국찌개정도ㅠ
+P0 	: 국, 찌개 하시는거면 잘하시는거죠!
+P0 	: 저는 국 만드는게 젤 어렵더라구요ㅠㅠ
+P1 	: 맛은 보장못합니다 ㅋㅋㅋ
+P0 	: 아ㅎㅎ
+P1 	: 전연두살짝 마무리 ㅋㅋ!
+P0 	: 오 꼭 필요하죠ㅎㅎ
+P1 	: 간만 대충 맞으면될꺼같아요ㅠㅠ
+P0 	: 찌개 어떤거 자주 하세요?
+P1 	: 차돌된장 !
+P1 	: 이건 기본들어가는재료가잇으니 ㅋㅋ차돌에힘으로 그냥끓여도 괜찮더라구요!!
+P1 	: 국을 자주해요~ 콩나물귝 어묵국 김치국 김치어묵국 김치콩나물국 ㅋㅋㅋㅋ 이런식으로

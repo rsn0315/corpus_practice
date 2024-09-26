@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011693
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아메리카스 컵 보셨나요?
+P0 	: 그게 어떤거죠??
+P1 	: 요트 경기인데 요즘은 하이드로포일세일링으로 합니다. 유투브에 America's cup으로 검색해 보시면 바로 나와요 !
+P1 	: 거의 영미권 국가가 독식하는데 출전 국가에서 요트를 제작해야 해서 그 나라의 선박건조 기술 순위가 매겨지거든요. 한국이 나가면 분명 이길 것 같은데 없네요.
+P1 	: 공중에 붕 떠서 다니는 걸 보고 있으면 몹시 타보고 싶어져요 ㅎㅎ
+P0 	: 와 요트경기는 생소한데 신기하네요!
+P1 	: 저도 안 지 얼마 안 됐는데 아주 흥미진진합니다.
+P1 	: 어떤 스포츠 좋아하시나요?
+P0 	: 저는 축구좋아해요!
+P1 	: 어느 팀 좋아하시나요 !
+P0 	: 토트넘 좋아합니다!
+P1 	: 역시 ! ㅋㅋㅋㅋㅋ
+P1 	: 직접 하시는 스포츠 있으신가요?
+P0 	: 축구 좋아합니다ㅎㅎ
+P1 	: 그러시군요 ㅋㅋ
+P1 	: 그럼 모여서 축구하는 친구들이 있으신가요?
+P0 	: 있는데 코로나라ㅠ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100001427
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P1 	: &name1&님 이제 곧 점심 드시나요? ㅎㅎ
+P0 	: 네 12시에 갑니다
+P1 	: 그러시군요!
+P1 	: 오늘 점심 메뉴는 정하셨나요?!
+P0 	: 오늘의 메뉴 정해주시려고요?
+P0 	: 제가추천해드릴까요??
+P0 	: 전오늘 이겁니다
+P0 	: {system:delete}
+P0 	: {share:photo}
+P0 	: 식단표가 있어요...
+P1 	: 구내식당에서 드시는군요!
+P1 	: 알감자조림 맛있을 것 같아요 ㅠㅠ
+P0 	: 네 바쁘신가봐요 
+P0 	: 저희회사 식당은 소문난 맛집입니다
+P1 	: 앗 제가 많이 느리지요? ㅠㅠ 아직 미숙해서 이해 부탁드릴게요..!
+P1 	: 확실히 &name1&님 말씀이 맞는게
+P1 	: 순대볶음도 아니고 순대오징어볶음이라니
+P1 	: 메뉴가 다 맛있어 보여요 ㅎㅎㅎ
+P1 	: &name1&님 이제 점심식사 하러 가시지요~?
+P0 	: 12시에가요
+P1 	: 곧 가시는군요..! 오늘 식당에서 맛점하셨으면 좋겠어요 ㅎㅎ

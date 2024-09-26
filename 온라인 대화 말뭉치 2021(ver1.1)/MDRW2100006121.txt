@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100006121
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 학교에서 인기 많죠?
+P1 	: 저요?
+P1 	: 아뇨
+P1 	: 학교에 친구없는데요
+P1 	: 대학교에...친구있는사람도있나...
+P0 	: 코로나라 학교를 잘 안가서 그런거 아니에요
+P0 	: 지난해 올해 신입생들은 대학생활이 없었다고 하던데
+P1 	: 아니에요...
+P1 	: 대학다닌지 몇년되었습니다...
+P1 	: &name1&님은...
+P1 	: 대학겨에서...
+P1 	: 친구많으셨나요....
+P0 	: 저는 대학 졸업하고
+P0 	: 꾸준히 연락하고 지내는 친구 두 명있습니다
+P1 	: 이야
+P1 	: 좋네요..
+P0 	: 그 중 한명이 와이프 소개해줬고
+P1 	: 헐랭
+P0 	: 다른 한명은 직장 때려치고 코인해서 부자됐어요
+P0 	: 우리 동기들 중 최고 아웃풍
+P1 	: 헐
+P0 	: 아웃풋
+P1 	: 부럽다
+P1 	: 아웃풍
+P0 	: 그러니까요
+P0 	: 너무부러웁습니다
+P0 	: &name2&님 여중 여고 나왔어요?
+P1 	: 아뇨
+P1 	: 공학이용
+P1 	: 껄껄
+P1 	: 추측을 참 못하십니다
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 아니구나

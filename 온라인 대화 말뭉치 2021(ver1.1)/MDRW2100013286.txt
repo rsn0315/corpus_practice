@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013286
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요 식사하셨어요?
+P0 	: 네 식사하셨나요?
+P1 	: 김치찌개랑 밥 먹고 왔어요
+P0 	: 비오는 날 먹기좋은 음식이네요
+P1 	: 그쵸 저녁에는 부침개를 먹을까봐요
+P0 	: 부침개 너무좋은거같아요
+P0 	: 비오는날은 탄수화물먹어줘야해요
+P1 	: 저는 해물 들어간거 좋아해요
+P0 	: 해물부침개해드겠어요?
+P1 	: 새우랑 오징어 넣으면 참 맛있죠
+P0 	: 맞아요 씹는재미가 있어요
+P1 	: 부추전은 좋아하세요?
+P0 	: 네 부추전좋아합니다
+P1 	: 카페 자주 가세요?

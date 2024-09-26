@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100005068
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 직장인이야?
+P1 	: 웅 나는 일하고 있어 &name1&는?
+P0 	: &name1&도 일하고 있어 지금도 직장이야
+P1 	: &name1&는 무슨일해?
+P0 	: 나는 좀 특이한데 보건+서비스야
+P0 	: 안경사야
+P1 	: 우와 그렇구나 나는 사회복지사! 일할때 언제가 제일 기뻐?
+P0 	: 아무래도 바꾼 도수 편안하다고 할 때가 제일 기뻐. &name2&은?
+P1 	: 나는 월급날! 그리고 대상자가 감사하다고 할때!
+P0 	: 맞네 사실 월급날이 최고지. 사회복지사 정말 멋진 직업이다!
+P0 	: 직장동료랑은 잘 맞아?
+P1 	: 음 지금 동료들은 너무 좋아 , 싫은 사람도 있지만 &name1&는?
+P0 	: &name1&는 동료가 없어. 전에 직장엔 있었는데 요즘은 사장 대신 가게를 봐주고있어서 혼자 일해
+P0 	: 그래서 편하고 좋으면서도 정신 없기도하고 심심하기도해
+P1 	: 혼자는 편하면서도 심심할것같아 바쁠때는 많이 바쁘지?
+P0 	: 응 한꺼번에 여러손님 오거나 손님 받으면서 주문하거나 행사준비하면 정신없어

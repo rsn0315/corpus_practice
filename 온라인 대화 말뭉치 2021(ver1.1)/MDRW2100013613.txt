@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100013613
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 가족이랑 사시나요??
+P1 	: 형이랑 둘이 살고있어요ㅎㅎ
+P0 	: 오! 그럼 집안일은 어떻게 분담하세요?
+P1 	: 기냥 제가 하죠...
+P1 	: 근데 빨래는 제가 일부러 안해줘서
+P1 	: 자기가 하더라고요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ 일부러 안해주시다니ㅋㅋㅋ 친형이신가봐요!
+P1 	: ㅋㅋㅋ넵 친형이에요
+P1 	: 여튼 매번 해줄순없죠
+P0 	: 맞아요ㅋㅋㅋㅋ 전 세탁기를 제가 안돌려서 어머니가 매번 잔소리를 하세요ㅋㅋㅋㅋ
+P1 	: ㅋㅋ다른 사람이 돌리는 세탁기가
+P1 	: 더 세탁잘되는데ㅋㅋ
+P1 	: &name1&님은 가족이랑 사시죠?
+P0 	: ㅋㅋㅋㅋ 네 저는 가족이랑 살고 있어요
+P1 	: 오오 역시 가족들과 사는게좋죠ㅎ..
+P1 	: 형제자매있으신가요
+P0 	: 네ㅋㅋㅋㅋ 전 여동생만 2명 있어요ㅋㅋ
+P1 	: 오우ㅎㅎ 저는 형만 있어서ㅋㅋ
+P1 	: 동생있으면 어떤가요ㅎㅅㅇ
+P0 	: 동생 있으면... 가끔 내가 동생인가? 같은 생각도 해요 워낙 허물없이 대해서ㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 나이차가 적은가봐요!
+P0 	: 넼ㅋㅋㅋㅋ 2살 차이 나는 동생이랑 맨날 싸워요
+P1 	: ㅋㅋ저는 형이랑 3살차이인데
+P1 	: 진짜 안 친하거든요
+P1 	: 안친하면 싸우지도않죠...
+P0 	: 아 그건 맞아요... 형이 많이 무뚝뚝한가봐요...!
+P1 	: ㅋㅋ서로 집에선 무뚝뚝하죠

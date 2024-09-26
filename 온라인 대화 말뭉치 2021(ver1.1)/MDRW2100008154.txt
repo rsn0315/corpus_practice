@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008154
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 선호하는 배달 음식이 있으신가요?
+P0 	: 저는 닭갈비 떡볶이 초밥..엄청 많네요 ㅎㅎ
+P1 	: 저도 모두 좋아해요ㅋㅋ 요즘은 로제 떡볶이가 좋더라구요
+P0 	: 네 맛있더라구요 느끼할줄알았는데 안그렇더라구요ㅎㅎ 거의 중독
+P1 	: 매운걸 잘 못 먹는 편인데 로제는 부담이 없어서 더 좋아요ㅋㅋ
+P0 	: 네 잘하는 집은 계속 생각나서 일주일이도 여러번 먹게되더라구요ㅎㅎ
+P1 	: 배달이 거의 다 가능하니까 지출도 계속 늘어나더라구요ㅠㅜ 좋은 데 좋지 않아요ㅋㅋ
+P0 	: 맞아요...버리는것도 많구...근데 맛있어서ㅠㅠ
+P1 	: 또 배달 전문점도 많이 생기는 데 그런 곳은 배달을 해야만 먹어볼 수 있으니까요..
+P0 	: 맞아요 포장도 안하시는곳도 있더라구요
+P1 	: 배달로만 즐길 수 있는 맛집이 많아지더라구요
+P0 	: 네 포장하러 갔다가 당황했던기억이ㅋㅋ
+P1 	: 그대로 집 와서 배달시켰던 기억도 있어요ㅋㅋ
+P0 	: 저도 그래요ㅎㅎ

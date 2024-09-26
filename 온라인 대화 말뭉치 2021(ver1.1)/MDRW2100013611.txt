@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013611
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 요즘 운동 하고 계신가요?
+P1 	: 유산소운동해요
+P0 	: 홈트 주로 하시나요?
+P1 	: 네 다이어트중이라 홈트위주 유산소운동과 스트레칭같이하고있어요
+P0 	: 유튜브로 주로 배우시나요?
+P1 	: 네 유튜브영상보면서 따라하고있어요
+P0 	: 어떤 유튜버 영상을 주로 참고하시나요?
+P1 	: 스트레칭은 자세요정꺼 보고 유산소는 땅끄부부꺼 보는중이에요
+P0 	: 저도 땅끄부부 주로 참고해요
+P1 	: 무릎에무리없이할수있더라고요 좋은거같아요
+P0 	: 맨몸 운동방법도 많구요ㅎㅎ
+P1 	: 기구없이 하는게많아서 손목에도 무리안가고요
+P0 	: 기구 운동은 안 하시나요?
+P1 	: 네 손목이 안좋아서 기구는 안해요ㅠ

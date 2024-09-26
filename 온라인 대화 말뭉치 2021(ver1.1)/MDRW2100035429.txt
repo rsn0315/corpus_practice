@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035429
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 정보 얻기 좋은 곳 있나요?
+P1 	: 저는 필요하면 물건 찾고 바로 사는 편이에요
+P1 	: 상세정보 꼼꼼하게 읽는 편이구요
+P0 	: 아하 네
+P0 	: 업체후기는 걸러보시나요?
+P1 	: 별점 낮은 리뷰들을 꼼꼼히 보는 것 같아요
+P0 	: 앗 저도 그래요 ㅎㅎㅎ
+P1 	: 보통 화내면서 쓰는 리뷰들이 현실적이고 상세해서요 ㅎ
+P0 	: ㅋㅋㅋ그죠 맞아요 ㅋㅋ
+P1 	: 주로 어떤 거 구매하세요?
+P0 	: 요즘에는 별로 사는게 없어요 ㅜㅜ
+P1 	: 사고싶은 물건은 없나요?
+P0 	: 자동차 사고싶네요 ㅋㅋ
+P1 	: 선호하는 기종이 있나요?
+P0 	: 아뇨 없어요
+P1 	: 그냥 막연하게 갖고싶으셨나봐요

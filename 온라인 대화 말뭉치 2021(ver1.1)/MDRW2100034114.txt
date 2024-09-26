@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034114
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 학생이세요 ?
+P1 	: 네 대학생입니다!
+P0 	: 오 ! 아직 개강 안했죠 ??
+P1 	: 다음 달에 개강해요
+P0 	: 몇학년이에요?
+P1 	: 1학년이요! 올해 입학했어요
+P0 	: 헐헐 ㅋㅋㅋ 완전 설레겠어요
+P0 	: 1학기때 대면수업했죠???
+P1 	: 대면이랑 비대면 섞어서 했는데 거리두기 3단계부터는 거의다 비대면으로 전환했었어요
+P0 	: 아 헐 ㅠㅠ 친해진 동기는 있어요?
+P1 	: 같은 수업 들었던 동기 몇 명이랑은 좀 친해졌어요!
+P0 	: 오오 ! 원래 막 엠티도 가고 해야되는데
+P0 	: 그런거 아예 안했죠 ㅠㅠ ?
+P1 	: 네ㅠㅠ 작년부터 다 취소됐다고 하더라고요
+P0 	: ㅠㅠ 아쉽겠어요 그런곳에서 선배들이랑 친해져야되는데 !
+P1 	: 맞아요ㅠㅠ

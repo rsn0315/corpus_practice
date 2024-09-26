@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 혼자 있으니까
+P1 	: 좋나요
+P0 	: 아 시댁에서 쉬나요?
+P0 	: 그럼 내일 못보겠군요
+P1 	: 몰러요 언제 갈지
+P0 	: 알겠어요
+P0 	: 도련님 소개팅의사있는지 내일 만나면 물어보세요
+P1 	: 이상형이 어떻게
+P1 	: 되시나요
+P0 	: 전 목소리좋고 다정한사람인데요
+P1 	: 저군요
+P0 	: 아닌데요
+P1 	: 맞는데요
+P0 	: 다정한가요?
+P1 	: 네
+P0 	: 모르겠는데요
+P1 	: 맞아요
+P0 	: 증거를대보시죠

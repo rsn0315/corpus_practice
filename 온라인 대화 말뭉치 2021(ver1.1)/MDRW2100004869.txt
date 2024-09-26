@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100004869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 알러지 있어요?
+P1 	: 아뇨 없어요! 알러지 있으세요?
+P0 	: 저도 없어요 ㅎㅎ 동물 좋아하시나요?
+P1 	: 좋아하긴하는데 따로 반려동물 키우진않아요
+P1 	: 좋아하긴하는데 따로 반려동물 키우진않아요
+P1 	: 키우시는 반려동물 있으세요?
+P0 	: 저도요 잘 키우지 못할 거 같아서 인터넷상에 보이는 동물 사진 보기만 해요 ㅎㅎ
+P1 	: 어떤 동물 좋아하세요?  고양이?  강아지?
+P1 	: 아아ㅜ 저도 키울 여건이 안되다보니 키우진 못하고 있는데ㅜ
+P0 	: 고양이 강아지 둘 다 좋아해요  &name2&님은요?
+P1 	: 전 고양이 더 좋아해요! 강아지도 귀엽지만 고양이의 도도한 모습이 더 심쿵해요
+P0 	: 고양이 도도한 모습 너무 귀여운 거 같아요 ㅠㅠ 좋아하는 고양이 종 있으신가요?
+P1 	: 렉돌이요!!
+P0 	: 렉돌이 처음 들어봤는데 고양이사진 보니까 알 것 같고 너무 귀엽네요 다음 답장은 내일 드릴게요 내일 봬요!
+P1 	: 네에! 내일 봬요!
+P0 	: 렉돌이 고양이 키우고 싶네요 ㅎㅎ

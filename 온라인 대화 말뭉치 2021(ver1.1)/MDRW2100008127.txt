@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100008127
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 음식 드세요?
+P1 	: 아 그래요?
+P1 	: 라멘 되게 좋아해요
+P1 	: 라멘 좋아하세요?
+P0 	: 가끔 먹어요
+P0 	: 어떤 라멘 좋아하세요?
+P1 	: 저는 쇼유라멘 좋아해요
+P1 	: 그럼 어떤음식 좋아하세요?
+P0 	: 저는 요즘 마라탕 먹어요
+P0 	: 마라탕 드셔보셨어요?
+P1 	: 마라탕면이었나 그거는 먹어봤어요
+P1 	: 제가 매운걸 잘 못먹어서
+P0 	: 아 그러면 힘들죠
+P0 	: 요리는 자주 해드시나요?
+P1 	: 엄청 자주하는편은 아닌데 그래도 맛있는건 좋아해요
+P1 	: 어떤 요리 할줄아세요?
+P0 	: 해먹는 건 국수 자주 해먹는 거 같아요
+P0 	: 요즘에는 식단 조절중이라 그냥 고기 좀 굽는 거 말고는 요리랄 게 없어서요ㅎㅎ
+P1 	: 아 다이어트 하시는구나
+P1 	: 다이어트할때는 계란이 배 많이부르게 해서 좋은거같아요
+P0 	: 네 건강 때문에
+P0 	: 계란 요리 좋아하세요?
+P1 	: 네 요즘은 교정하느라 계란요리 자주먹는거같아요
+P0 	: 제 친구도 교정할 때 계란찜 많이 먹더라고요

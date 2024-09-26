@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100005052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인 커뮤니티 하시는거 잇으세요?
+P1 	: 아뇨 없어요 &name1&님은요?
+P0 	: 저는 오픈카톡 많이 들어가요
+P0 	: 스터디나 그런것도 즐기고요
+P1 	: 아하 그러시군요  온라인커뮤니하면 온라인에서만 만나는건가요?
+P0 	: 가끔 정모를 나가기도하죠
+P0 	: 비슷한 나이대의 분들이랑은 친구먹고 놀기도해요
+P0 	: 게임하는 카톡있었는데 그사람들하고는 그냥 친구가 다됐내요 ㅎㅎ
+P1 	: 오오 신기하네요
+P1 	: 저는 내향형이라 커뮤니티해도 쉽게 못친해질것 같아요ㅎㅎ
+P0 	: 저도 그런줄 알았는데ㅋㅋㅋ
+P0 	: 제가 생각보다 말이 많더라고요?
+P0 	: 채팅에서도 좀 느껴지지 않나요 ㅎㅎ
+P0 	: 뭔가 모르는 사람이라 더 편허게 얘기하개되는거같아요
+P1 	: 맞아요  그런것 같아요 ㅎㅎ
+P0 	: 심심할때 하면  시간이 잘가기도 하고요 ㅎㅎ
+P0 	: 스터디는 좀 더 들어가고싶은대
+P0 	: 마땅한곳이 없는게 좀 아쉽네요
+P0 	: 오픈채팅앤 서실 연애하고싶은 사람들이 은근 잔뜩 모여서 ;;
+P1 	: 아아 그렇군요
+P0 	: &name2&님은 커뮤니티는
+P0 	: 별로 관심업ㄱ으신거죠?
+P1 	: 네..
+P0 	: 사실 막 떠들썩한것도
+P0 	: 마냥 좋진 않으니까요 ㅋㅋㅋㅋ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012195
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 일정 짜기 어렵다
+P0 	: 응 그래서 가격이 저렵한거야
+P1 	: 그래
+P0 	: 사람들이 많이 출발하는 목~토요일은 무조건 삐삼
+P1 	: 엉 그렇더라
+P0 	: 응 그래서 일요일~화요일에 출발하는 비행기를 예매하는것 만으로도 아낄수 있음
+P1 	: 그렇겠다
+P0 	: 응 특히 항공권이 제일 싸지는 요일이 일요일
+P1 	: 다들 돌아와서 월요일 출근을 할려니
+P0 	: 응 그리고 여행사 이벤트 하잖아
+P1 	: 엉
+P0 	: 월요일 출발하는 여행이 당첨확률이 가장 높음
+P1 	: 그거 정말 좋은 팁이네

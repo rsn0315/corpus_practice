@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006768
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근에 극장에서 보신 영화 있으신가요?
+P1 	: 올해는 극장에 간적이 없네요
+P1 	: 보신 영화 있나요
+P0 	: 최근에 팜스프링스라는 영화 봤어요
+P0 	: 혹시 들어보신적 있으신가요??
+P1 	: 아니요 잘모르겠네요
+P1 	: 어떤 영화 인가요
+P0 	: 사실 유명한 영화는 아니에요
+P0 	: 관객수도 만 명이 안 된걸로 알고 있는데..
+P0 	: 타임루프 로코 영화에요!
+P1 	: 아 그렀군요
+P0 	: 그럼 혹시 뮤지컬 보시는건 좋아하세요??
+P1 	: 싱크홀 영화가 궁금하긴해요
+P1 	: 뮤지컬 좋아요
+P0 	: 우와 무슨 뮤지컬 제일 좋아하세요??
+P1 	: 광화문연가 재밌게 봤어요
+P0 	: 앗 광화문연가는 본 적 없네요...
+P1 	: 잔잔한 추억여행 같은 뮤지컬이죠
+P0 	: 광화문연가 어쩌다가 보시게 된거에요?
+P1 	: 딸이 보고 싶다고 해서 보게 되었어요

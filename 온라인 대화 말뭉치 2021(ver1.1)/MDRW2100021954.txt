@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021954
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요! 키우고는 싶어요 ㅎ
+P0 	: 저도ㅠ여건이
+P1 	: 어떤 동물 키우고 싶으세요?
+P0 	: 강아지요
+P1 	: 전 고양이나 새요! 제동생은 강경 강아지파라서 강아지 키우더라구요 ㅋㅋ
+P0 	: 고양이 털 걱정이에요
+P1 	: 강아지도 털은 빠지지 않나요?
+P0 	: 고양이가 심하죠
+P1 	: 제 동생이 닥스훈트 키우는데 진짜 많이 빠지더라구요
+P0 	: 아ㅜ그런것도
+P1 	: 그래도 귀엽긴 하더라구요 ㅋ
+P0 	: 귀요미

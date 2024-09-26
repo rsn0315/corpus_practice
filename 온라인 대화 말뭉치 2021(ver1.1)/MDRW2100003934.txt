@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100003934
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 혹시 종교 있으신가요?
+P1 	: 네 안녕하세요
+P1 	: 아니요 종교있으신가요
+P0 	: 아니요 저도 없습니다
+P1 	: 없는 이유 있나요?
+P1 	: 저는 신을 믿지않아서 없습니다
+P0 	: 이유는 딱히 없습니다 종교를 믿는 사람에 대한 거부감도 없어요
+P0 	: 왜 신을 믿지 않나요?
+P1 	: 음 눈에 보이지 않는 허상을 믿지 않아요
+P1 	: 약간 보이지 않는 것에 대한 불신?
+P0 	: 아 그러면 만약 신의 존재를 확인할 수 있다면 믿는 건가요??
+P1 	: 글쎄요
+P1 	: 생각해본적은 없는데 그래도 안믿을거같아요
+P0 	: 아아 그럼 종교가 있는 사람들에 대해서는 어떻게 생각하세요?
+P1 	: 본인들의 믿음이니 크게 신경은 안쓰는데 그게 저한테까지 피해가 온다면
+P1 	: 거부감이 들 것 같아요
+P0 	: 아 그렇죠
+	  그들 입장의 선의라고는 해도 믿음을 강요하거나 다른 피해가 생기면 반감이 들 것 같아요
+P1 	: 맞아요. 없던 감정도 생기게 되는거라
+P1 	: 강요만 없다면 그냥 지나가는 존재일 것 같아요
+P0 	: 저는 종교 자체를 공부하는 건 재밌더라고요
+P0 	: 역사라던지 신화라던지
+P1 	: 신화요{emoji:…}

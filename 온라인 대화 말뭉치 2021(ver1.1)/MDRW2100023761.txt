@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100023761
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그게 젤 많이 돌아다니지 않나?
+P0 	: 진짜 유명하지 여자 연예인들 예쁜 단발 사진 검색하면 꼭 같이 나와
+P1 	: 그게 젤 위에 뜨지 않나?
+P0 	: 제일 위는 아닌데 잘 보고 있는데 갑자기 뛰어나와
+P1 	: 공포만화인가?
+P0 	: 약간 그런 느낌은 있지 오 예쁘다 하고 보고 있는데 어우 깜짝이야 이렇게 되는 거야
+P1 	: ㅋㅋㅋㅋㅋ 리얼반응이네
+P0 	: 그치 그리고 현실을 직시하게 되는 거지
+P1 	: 팩폭이네 ㅋㅋ
+P0 	: 진짜 두드려 맞는 느낌
+P1 	: ㅋㅋ 근데 또 잘 어울리는 사람도 있을텐데..?
+P0 	: 잘 어울리는 사람도 당연히 있지 근데 단발이 은근히 자르기 전에는 몰라
+P1 	: 그니까 전후가 많이 차이나잖아
+P0 	: 이게 여자는 머리 기장이 은근히 세분화되어 있어

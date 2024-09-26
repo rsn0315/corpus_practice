@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017706
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 불닭로제떡볶이가 나왔는데 드셔보셨나요?
+P1 	: 아직요
+P0 	: 불닭 시리즈 좋아하세요?
+P1 	: 네 잘먹어요
+P0 	: 그럼 평소에 매운 걸 잘 먹으시나봐요? 제일 좋아하는 음식이 뭔가요?
+P1 	: 쭈꾸미 좋아요
+P0 	: 쭈꾸미 맛있죠 주로 어디에서 드세요? 식당을 가시나요 아니면 마트에서 사오시나요?
+P1 	: 식당이요
+P0 	: 알고 계신 맛집이 있으신가요?
+P1 	: 불쭈꾸미오
+P0 	: 그건 식당에서만 먹을 수 있나요? 맛집들 중에 택배서비스하는 곳도 많잖아요
+P1 	: 식당요
+P0 	: 그렇군요

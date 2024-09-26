@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016784
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 연예인 있나요
+P1 	: 티비는 잘안봐서 한국연예인은 방탄정도만 알고 있어요 가수나 배우 좋아하세요
+P0 	: 저는 조여정이 예쁘더라구요. 오밀조밀  하고 귀염상 이라서요
+P1 	: 아 예쁘시죠 동양적인 미인...저는 송혜교씨랑 이다희씨 넋넣고봐요
+P0 	: 둘 다 이쁘죠!! 넘 예쁘고 잘생긴 연예인이 많은 거 같아뇨
+P1 	: 네 윤세아씨가 예뻐서 삼시3끼도 보고 그랬어요 삼시3끼같은 힐링예능 보시나요?
+P0 	: 저는 참바다씨 나온거 봤어요
+P0 	: 차승원이랑 같이 나온편이요
+P1 	: 저도 참바다씨 성격 좋아서 재밌게 봤어요 차승원씨 요리도 잘하시고 별내용 없는데 재밌어요 유튜브에서 예능컷도 가끔 봐요 유튜브 뭐보세요?
+P0 	: 유투브는 심야신당 보고 있어요
+P1 	: 홀 어떤 주제인가요
+P0 	: 배우였던 정호근님이 연예인들 점사 봐주는 내용이요
+P1 	: 점사 첨 들어봐요 진짜 유튜브는 무궁무진해요 저는 잡다하게 많이 봐요 밥먹을때 먹방보고 등등...
+P0 	: 먹방도 잼나죠
+P0 	: 요즘 듣는 음원 있나요
+P1 	: 얼마전에 마마무 앨범 많이 들었어요 좋아하는 가수 있으세요?
+P0 	: 아이유 노래 좋더라구요

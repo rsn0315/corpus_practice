@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016242
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요? 반려동물 키우시나요?
+P1 	: 아뇨  안키워요 키우시나요?
+P0 	: 구피 키워요
+P1 	: 오 귀엽겠네요
+P1 	: 이름은 뭔가요?
+P0 	: 많아서 그냥 키워요
+P1 	: 색깔은 뭔가요?
+P0 	: 흰색 검은색이에요
+P1 	: 수조관리는 얼마나하시나요?
+P0 	: 한달에 한번 씻어요
+P1 	: 어렵나요?
+P0 	: 귀찮아요ㅠ
+P1 	: 쉬운건 없네요
+P0 	: 구피조차 쉽지않네요

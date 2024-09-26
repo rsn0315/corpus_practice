@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005163
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 공연 좋아하세요? 저는 한때 콘서트를 많이 다녔어요.
+P1 	: 코로나 이전에는 힙합 공연 보러 자주 갔어요
+P1 	: 어떤 콘서트를 주로 보셨나요?
+P0 	: 저는 일본 밴드를 좋아해서 여행겸 일본에 갔어요.
+P0 	: 저도 코로나때문에 이제는 너무 옛날일이 됐지만요
+P1 	: 일본 밴드는 어떤 밴드가 있나요?
+P1 	: 전 x japan밖엔 몰라서
+P0 	: 제가 주로 찾던 밴드는 B'z 나 Moi dix mois예요
+P1 	: 오... 프랑스 느낌 이름이네요
+P1 	: 장르가 모던락인가봐요
+P0 	: 네 Moi dix mois는 프랑스어 맞아요. 말하신 엑스재팬이랑 비슷한쪽으로 분류되구요.
+P0 	: 어떤 힙합 가수 라이브에 주로 가셨어요?
+P1 	: 이센스 씨잼 이런 친구들 있으면 보러 갔었습니다.
+P0 	: 아하 어떤점이 맘에드셨어요? 저는 힙합 잘 몰라서요
+P1 	: 그냥 대학 축제때 있으면 보러 간 수준이라서 ㅎㅎ
+P1 	: 볼빨간사춘기 이분들 공연도 보러 갔던 기억이 나네요
+P0 	: 그렇군요.

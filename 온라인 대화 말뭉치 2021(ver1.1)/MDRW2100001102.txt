@@ -1,0 +1,1642 @@
+# FILE DATA
+ID : MDRW2100001102
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210729
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 쟈기야
+P1 	: 난 이제 계곡 다녀올거야
+P0 	: 어느 계곡에?
+P1 	: &address& 계곡
+P0 	: 엊그제 갔던 곳으로 가요?
+P0 	: 소나기 예보도 있는 것 같은데
+P1 	: 괜찮아요
+P1 	: 여기선 &address&이 제일 가까운 계곡이야
+P0 	: 응 점심도 밖에서 먹고?
+P1 	: 응응 그럴랴고
+P1 	: 집에서 심심하니까 자꾸 떼만 써
+P0 	: 응 사람 많지 않은 곳으로 가요~
+P0 	: 응응 &name3&가 많이 답답한가 봐
+P0 	: 자기도 밖에서 바람 좀 쐐요~
+P1 	: 평일이라 낮엔 사람 없더라구
+P0 	: 응~처형네도 다 같이 가요?
+P1 	: ㅇㅇ같이왔어요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 밥은 먹었어?
+P0 	: 응~좀전에 먹고 커피 마시고 회사로 왔어요
+P0 	: 닭볶음탕 먹었오
+P1 	: 잘했어요
+P1 	: 우린 삼겹살 먹어요
+P0 	: 오 삼겹살 식당 갔어요?
+P0 	: 맛있겠네~
+P1 	: 맛은 없어
+P1 	: 살코기 적고 기름 많오
+P0 	: 헐퀴
+P1 	: 넘 덥다
+P1 	: 요기 와서도 징징대고... 나 너무 힘들다 진짜
+P1 	: 내일 밤에 꼭 공주가! 나 안그럼 진짜 미쳐버림
+P1 	: 오늘 칼퇴하눙?
+P0 	: 오늘 바빠서 어찌될지모르겠어
+P1 	: 헝퀴
+P1 	: &address&으로 오는거지?
+P0 	: 오늘 &address&으로 오라고하지 않았어?
+P1 	: 맞아
+P1 	: 오늘 안양 내려가겡
+P0 	: 이제탔어요
+P1 	: 고생했어요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: {share:info}
+P1 	: 이런곳듀 있네요
+P1 	: 쟈기야
+P1 	: 잘 도착했어?
+P1 	: 아기 차에서 잤어?
+P0 	: ㅇㅈㅈ
+P1 	: 이제 자?
+P1 	: 헐키
+P0 	: 이제도착
+P1 	: 거생했네우
+P1 	: 아기 칭얼 안댔누?
+P0 	: 첨에조금
+P0 	: 잘잣슈
+P1 	: 다행이네
+P1 	: 울아기 할먼네 가서 신나겠겠네유
+P0 	: {share:photo}
+P0 	: 잘놀고있어
+P1 	: 울아기 잘 노네유
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 뭐하눙
+P1 	: 언니랑 &address&에서
+P1 	: 생맥 마셔유
+P1 	: {share:photo}
+P1 	: 코젤다크 시나몬 가루 솔솔
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 헐퀴
+P0 	: &address& 어디야?
+P0 	: {share:photo}
+P1 	: 크래프트한? 수제맥즈집이애
+P1 	: 아기가 엄마 안찾눙?
+P0 	: 응ㅋㅋ
+P0 	: 잘때찾을지도
+P1 	: 오잉ㅋㅋㅋ웬일루 안찾눙
+P1 	: 울아기 많이 컸넴
+P1 	: 엄마 오늘 나혼산 본방사수할거이얌
+P0 	: 아기 이제 맘마 먹을거야
+P1 	: 푸핫ㅋㅋㅋㅋ자유를 누린다잉
+P1 	: 오 ㅋㅋㅋ뭐묵누
+P1 	: 소고기 먹누
+P0 	: 응 오징어도 있고
+P0 	: 아까 오자마자 옥수수 먹었어
+P1 	: 오징어회?
+P1 	: 오 ㅋㅋㅋ옥시기 잘 먹누
+P0 	: 오징어 볶음 안맵게해서
+P0 	: 응 잘먹었어
+P1 	: 오 잘했넹ㅋㅋㅋ
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 집이눙
+P1 	: 앗백이얌ㅋㅋㅋ
+P1 	: 오지치즈프라이랑 멕주 먹는중이얌
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 오잉
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 열심히 수다하는 중얌ㅋㅋㅋ
+P0 	: 처형하고 치맥?
+P1 	: 앗맥ㅋㅋㅋ
+P1 	: 아웃백에서 맥주 ㅋㅋㅋ
+P0 	: 웅
+P1 	: 배터져유 ㅋㅋㅋ
+P0 	: &name3&는 소고기 많이 먹고 응가도 했어
+P1 	: 오 ㅋㅋㅋ 응가 많이 했눙
+P1 	: 아빠가 닦아줬겠네
+P0 	: 응잘했어요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 이제 집에 가려구 해유 ㅋㅋㅋ
+P0 	: 응가하고서 옥수수 또 먹고 이제 복숭아 먹는중
+P1 	: 배불러유
+P1 	: 헐키
+P1 	: 울애기 하루종일 먹네유
+P0 	: {share:photo}
+P1 	: 울아기 잘먹네유 ㅋㅋㅋㅋ
+P0 	: &name3&칫솔이안보이네
+P1 	: 칫솔 공주 싱크대에
+P1 	: 왼쪽 위에 걸이에 잇오
+P1 	: 난 집이에유
+P0 	: ㅇㅇ
+P1 	: 칫솔 찾았눙
+P0 	: ㅇㅇ
+P0 	: 아기재우는중
+P1 	: 오~ 울아기 일찍 자렴
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 아기보고싶눙
+P1 	: 웅웅 쟈깅
+P0 	: 기다려봐
+P1 	: 아기 사진 보내주눙
+P0 	: {share:photo}
+P1 	: 귀엽네 울아기
+P1 	: 눈에 붓기는 좀 빠졌늉
+P0 	: 응약간
+P1 	: 다행이네
+P1 	: 형아누나 만나서 신났누?
+P0 	: 근데 애들이 게임만해ㅋㅋ
+P0 	: &name3&도아빠랑 할머니랑 놀았오
+P1 	: &name3&가 형누나 기다렸을텐데 아숩네유
+P0 	: &name4&이네는 7시반에와서ㅈ오자마자 배고프다고 밥먹고서 게임하고그랫오
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name3&자요
+P0 	: 엄청 예뻐요
+P1 	: 오~ 울아기 많이 안보챘어?
+P1 	: 잘 때 엄마 안 찾았누?
+P0 	: 아빠가 많이안아주고 그러니 괜찮았어
+P1 	: 파파터치가 좋았나보네유
+P1 	: 고생했어유 쟈기
+P0 	: 엄마는 집에 있지 하면서 엄마는 힘들어 이랬오
+P1 	: 헐키
+P1 	: 울아기ㅠㅠ
+P1 	: 맴찢이야
+P0 	: 엄마팔아프지 이러던뎅ㅋㅋ
+P1 	: 울아기 속깊네~
+P0 	: 웅 그래서 아빠가 안아줄게했어요
+P1 	: 우리 아기가 엄마 걱정 많이 했네
+P1 	: 많이 컸네 우리 아기
+P0 	: 엄마는 집에서 청소한다고 했어ㅋㅋ
+P1 	: 웅웅 내일 거실 청소하려구요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 내가 &name3&한테 ㅋㅋ
+P1 	: 우웅
+P0 	: 청소해야돼서 &name3&집에 있는다고
+P1 	: 엄마 청소 열심히 해야겠네
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 웃겨
+P0 	: 나혼산 재밌게 봐
+P0 	: 빠잉
+P0 	: 새벽에 소나기 예보있네요
+P1 	: 쟈깅인 자게?
+P1 	: 뭐해유
+P0 	: 핸폰이나 좀 하다 자야지
+P1 	: 구래요 쟈기
+P1 	: 푹쉬어여
+P0 	: 응 잘자요
+P0 	: 넘 늦지 않게 자요
+P1 	: 응 쟈기
+P1 	: 빠잉
+P0 	: 앙
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 자기 일어났어요? &name3&는 8시에 일어났어ㅎ
+P1 	: 헐키 울아기 엄청 일찍 일어났네
+P0 	: 오잉 자기도 일어났네
+P0 	: 꿀잠잤어요?
+P0 	: 안무서웠눙
+P1 	: 웅웅 잘잤어용
+P1 	: 잘 때 자기랑 &name3&랑 생각났오
+P0 	: 웅 자기 맘마 챙겨먹어요
+P0 	: &name3&가 팔이 가려운지 긁넴
+P0 	: 리도맥스바르고 밴드다시 붙여줄깡
+P1 	: 에스로반 발라줘요
+P1 	: 약간 진물나오니깐
+P0 	: ㅇㅇ
+P1 	: 난 커피한잔 내려서 마시는 중이야
+P1 	: 우유가 오늘까지라서 딱 맞네
+P0 	: 잘했어요
+P0 	: &name3&는 아침 조기랑 다섯숟갈 먹었나..김에 꽂혀서 김만 먹ㅋㅋ
+P0 	: 짜니까 좀 먹다가 그만 먹게했어
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 울아기 공주가면 할머니가 구워준 김 넘 잘 먹더라궁
+P1 	: 바로 구워서 더 맛있었나보넹
+P0 	: 어제도 김 엄청먹었어
+P1 	: 밥이랑 김이랑 주지 그랬눙
+P0 	: 이제물놀이할듯
+P1 	: 밥은 싫대유?
+P1 	: 오 ㅋㅋㅋ
+P0 	: 김만ㅋㅋ
+P1 	: 물놀이할 때 아기 잘봐줘유
+P0 	: {share:video}
+P1 	: 울아기 누나랑 잘 노네요
+P0 	: 쓱주문해줘
+P1 	: 쓱주문했어~ 아기 간장닭갈비랑 콩나물무침, 항정살 해주려거
+P1 	: 아기 좋아하는 야쿠르트랑 김자반, 꼬마돈까스도 샀엉
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: ㅇㅇ&name3&는 물놀이끝내고집에왓어
+P1 	: 잼나게 잘 놀았엉?
+P0 	: {share:photo}
+P0 	: 이제 아기상어보며 복숭아먹어요
+P0 	: 복숭아가 엄청맛있어
+P1 	: 울아기 복숭아 엄청 좋아하는데
+P1 	: 아주 신났겠네요
+P1 	: 물놀이 후 먹는 복숭아 맛있지
+P0 	: 울자기도 좋아해
+P1 	: 맞오~ ㅋㅋㅋ난 말랑이복숭아 좋아해
+P0 	: 여기서 자기는 나야
+P1 	: 오잉ㅋㅋㅋ나 아니었누
+P0 	: ㅋㅋ나도먹는중
+P1 	: 쟈기도 맛있게 많이 묵구 와유
+P1 	: 엄마밥 먹어서 좋겠네요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 자기 밥은?
+P1 	: 나 아직ㅋㅋㅋㅋ
+P0 	: 뭐하고있어용
+P1 	: 꼬꼬무 보면서 아기 스티커 정리중
+P0 	: 꼬꼬무강서야
+P0 	: 머야
+P0 	: 아
+P1 	: 꼬리에 꼬리를 무는 이야기
+P0 	: ㅇㅇ
+P1 	: 넘나 재미있어
+P1 	: 이거 이제 정규편성이래
+P1 	: 원래 시즌제였나봐
+P1 	: 암튼 꿀잼이야
+P0 	: 글쿠먼
+P0 	: 스브스에서 따라서 만들었던데
+P1 	: 원래 스브스꺼야
+P1 	: 스브스에서 방영하는거얌
+P0 	: 글눙
+P1 	: ㅇㅇ
+P0 	: {share:video}
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 울아기 눈에 붓기 많이 빠졌네
+P1 	: 다행이에요
+P0 	: 엄청 예쁘지
+P0 	: 이제손으로먹ㅋㅋ
+P0 	: 나이키 플렉스 러너 "Lil Bugs"
+	   - {share:url}
+P0 	: 싼건가
+P1 	: 흠
+P1 	: 맘에 들진 않오
+P0 	: 오잉 글눙
+P0 	: 이쁜딩
+P1 	: 맘에 들면 사요
+P1 	: 내 취향은 아니얌ㅋㅋ
+P0 	: 패스
+P1 	: 비싼건 아닌거같앙
+P1 	: 사고픔 사든지요
+P0 	: {share:photo}
+P1 	: 울아기 응가하는구나
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 물놀이 2차전에 옥수수 또 먹고 시타했오
+P1 	: 공주에선 꼭 저기서 응가하더랑ㅋㅋㅋㅋ
+P1 	: 귀여워 울아기
+P0 	: ㅋㅋㅋ물놀이하다가 집에 들어가자길래 더워서그런줄알았더니 곧장 저곳으로 갔어
+P1 	: 울아기 똑똑하네
+P1 	: ㅋㅋㅋㅋ
+P0 	: {share:photo}
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210801
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 이렇게옥수수 맛있게 먹었어요
+P1 	: 형누나랑 맛있게 먹넹
+P0 	: 점심먹었어요?
+P1 	: 울아기 잘 있내요
+P1 	: 웅웅 냉동치킨이 집에 있길래 묵
+P0 	: {share:video}
+P0 	: 아하
+P1 	: 개구쟁이 ㅋㅋㅋㅋ
+P1 	: 옥수수낱알 또 바닥에 버리려는 거 봐 ㅋㅋㅋㅋ
+P0 	: 여러개그랫오
+P1 	: ㅋㅋㅋㅋ
+P1 	: 완전 제대로 피서네
+P1 	: 물놀이에 옥수수 묵구
+P0 	: 웅 맞오
+P1 	: 아기 낮잠 자눙?
+P0 	: 이제누웟어
+P1 	: 웅 쟈깅이도 좀 쉬어요
+P0 	: 울아기 코자요
+P1 	: 그래더 많이 늦지 않게 잠들었네유
+P1 	: {share:photo}
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 화장대 밀어내고 곰팡이 닦았어
+P1 	: 아 근데 저 모서리는 엄청 박박 문질러도 해결이 안도ㅑ
+P0 	: 헐퀴
+P1 	: 넘 더워유
+P1 	: {share:photo}
+P1 	: 션풍기 돌려서 말리는 중이야
+P1 	: 많이 말렸어
+P0 	: 대단해요
+P1 	: 화장실 천장 곰팡이도 지워야하는데
+P1 	: 넘 더워유
+P1 	: 환기하느라 에어컨을 못 틀어유
+P0 	: 냄새좀빠졌눙
+P1 	: 글쎙
+P1 	: 아직 잘은 모르겠오
+P0 	: 울아기는아직도자
+P0 	: 이제깨워야겠다잉
+P0 	: 2시간반자넹ㅋㅋ
+P1 	: 오 엄청 많이 자네
+P1 	: 물놀이해서 피곤했나보네
+P1 	: 안본 사이에 더 잘생겨졌네 울아기
+P0 	: 꽃미남이야
+P1 	: 모기물린 데 붓기 빠지니
+P1 	: 역시 미모가 다시 돌아오는군
+P0 	: 맞아
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 뭐하고있눙
+P1 	: 지굼은 티비 보는 중이얌
+P0 	: 올림픽?
+P1 	: 화장실 천장 세제로 닦아봤는데
+P1 	: 약간 얼룩덜룩하긴 한데 지워지긴 해유
+P1 	: 아니 ㅋㅋㅋ해방타운?
+P1 	: 예능ㅋㅋ
+P0 	: 웅자기
+P1 	: 쟈기
+P0 	: 코트교환안되나봐 품절처리네
+P1 	: 난 순대곱창 시켰오 ㅋㅋㅋ푸핫
+P1 	: 헐키
+P0 	: 문의남기긴햇는데
+P0 	: 헐퀴야
+P1 	: 구롬 환불만 가능하누?
+P1 	: 다른사이즈 재주문 안되눙
+P0 	: 환불해야되나
+P0 	: 답글보고
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 웅웅 쟈기
+P1 	: 울아기 사진 더 없누
+P0 	: 응가사진이 마지막이야
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 웃겨
+P0 	: 지금이러고있어
+P0 	: {share:photo}
+P1 	: ㅋㅋㅋㅋ아빠가 비행기 태워주고 있누
+P0 	: 거침없오
+P1 	: ㅋㅋㅋㅋ아빠와 아주 즐거운 시간 보내고 있구만
+P1 	: 울아기 이발해야 하는디
+P0 	: &name3& 저녁에 소고기랑 항정이랑 잘먹고 바로 응가하고 다시 또 고기만달래서 묵ㅋㅋ
+P0 	: 지금은 꺼꺼이먹어요
+P0 	: 자기 핸드폰박스 여기에두고갓엇네
+P1 	: 오 맞오 ㅋㅋㅋ나 그거 좀 챙겨줘
+P1 	: ㅋㅋㅋㅋ
+P0 	: ㅇㅇ
+P1 	: 울아기 거기서 항정 먹었넹
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나 쓱으루 항정도 샀눈뎀
+P0 	: 웅할머니가아침에 사갖고오셨어요
+P1 	: 할머니가 고생이 많네요
+P1 	: {share:photo}
+P1 	: 거실청소했슈
+P1 	: 재깅이는 낼 언제 출발할거눙
+P0 	: 아가는 누웠어요
+P0 	: 치카잘하고 이제잘거야
+P0 	: 낮잠시간에 출발해야징
+P0 	: 밤잠시간은 늦으니
+P1 	: 웅웅 구롬 낼 점심 묵구 출발해유
+P0 	: 응자기 2시~3시정도에가려구
+P1 	: 응 그래유
+P0 	: 아기는 이제잠들려해요
+P1 	: 늦게 자네요
+P0 	: 응 자러온건좀됏는데 늦었네
+P0 	: 웬일로 코끼리없이자요
+P0 	: 아빠 손 꼬옥잡고 이제잠들었어요
+P1 	: 오잉 웬일로 코끼리 없이?
+P1 	: 오늘 엄마 없다고 안보챘어?
+P0 	: 응 자장가틀어달라며 먼저자러갔어
+P0 	: 아빠빨리오라고했어ㅋㅋ
+P1 	: 넘 재미잇게 놀아서 피곤했나보네
+P0 	: 그런거치곤느재ㅣ잠들긴햇다잉
+P0 	: 늦게
+P0 	: 손가락도 꺾지않아요
+P1 	: 다행이네요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 집에 보일러 좀 틀었오
+P1 	: 집이 더워서 31도로 하니 운전에 불 들너오네
+P1 	: 내일은 분리수거랑 화장실 청소도 해야도ㅑ
+P0 	: 에어컨이라도틀어요
+P1 	: 틀었슈
+P1 	: 넘 더워서
+P0 	: ㅇㅇ
+P1 	: 집에서 얼른 냄새가 빠져야 할텐데
+P0 	: 그러겡
+P0 	: 오늘밖엔안나갓눙
+P1 	: 웅웅 안나갓오
+P1 	: 그대신 먹고픈 걸 묵었오
+P1 	: 야채곱창 시켜묵엇오 ㅋㅋㅋㅋ
+P0 	: 혼자다먹,
+P1 	: {emoji}
+P1 	: 아니 ㅋㅋㅋ절반도 못먹ㅋㅋ
+P0 	: 나도먹엇는데
+P1 	: 2인부터 팔아서... 절대 혼자 다 못먹을 양ㅋㅋㅋ
+P1 	: 그래서 덜어먹고 나머진 냉장고에 넣어놨오
+P0 	: 형네가 닭갈비랑 순대볶음이랑 사온게있어서 저녁어먹엇오
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 큰외삼촌이 아까 &name3& 낮잠 잘때  처갓댁갓다가 오는길에 잠깐 막걸리 주고 가서 막걸리랑 소고기&항정살이랑 순대볶음 먹었어요
+P0 	: 흡족했겠네자기
+P0 	: 배구봣눙
+P1 	: 오~ 쟈기 역시 공주가서 맛난 거 많이 묵었넹
+P1 	: 난 올림픽 안 봐요
+P1 	: 금쪽같은 내새끼 봐요
+P0 	: 보이콧이눙
+P0 	: {share:photo}
+P0 	: &name3& 자세 웃겨
+P0 	: {share:photo}
+P0 	: 천사예요
+P1 	: 울아기 이뿌네요
+P1 	: 근데 뒷짐지고 자눙
+P0 	: 이제자세바꿨어요
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 아기 공주에서 잘 먹었나
+P1 	: 어째 통통해진 느낌이야
+P0 	: 엄청잘먹었어
+P0 	: 오늘3똥ㅋㅋ
+P0 	: 저녁에 소기기&항정먹고 끙아하고선 다시 또 고기조금먹고 참외먹고 또 끙아했어ㅋㅋ둘다마니ㅋㅋ
+P1 	: 대단한데?
+P1 	: 어마어마하게 먹었구나
+P0 	: 웅근데누우면아직도배가쏙들어가있어ㅋㅋ
+P1 	: 그렇구만ㅋㅋㅋ날씬이야
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 쟈기는티비뭐보눙
+P0 	: 난걍핸폰하다자려구
+P1 	: 넷플 금쪽이 보다가 애로부부 봐유 ㅋㅋㅋ
+P0 	: 응자기
+P1 	: 옛날에 하던 사랑과 전쟁 그거랑 똑같 ㅋㅋㅋㅋ
+P0 	: 보일러는언제끄겡
+P1 	: 자기전에 꺼야징
+P0 	: 응 알람해놔요
+P1 	: 웅웅 쟈깅잉
+P0 	: 일어낫눙
+P0 	: &name3&오늘7시50분에일어낫오
+P1 	: 헐킈
+P1 	: 울아기 왤케 일찍 인낫누
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210801
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 난 던킨이야
+P1 	: 오늘 신한카드 던킨 1만 이상 결제시 6천 할인이라
+P1 	: 언니랑 잠깐 왓슈
+P0 	: 글눙
+P1 	: 이제 집에 가요
+P1 	: 곧 잇음 쓱배송 온대서 가는 중이얌
+P0 	: 웅
+P0 	: &name3&는일찍일어나서 엄청꼬장꼬장해유
+P1 	: 엄마 보고픈가
+P1 	: 울아기
+P1 	: 엄마도 보고픈젬
+P0 	: 웅 점심먹이려고하는데 안먹는디ㅣ
+P1 	: 구렇눙? 아침도 안먹었어?
+P1 	: 아기 엄마 보고픈가 아님 어디 아픈가? ㅠ
+P0 	: 아침은 잘묵
+P0 	: 대하잘먹었어
+P1 	: 아침 든든히 먹어서 배가 안고픈가보네
+P1 	: 오 ㅋㅋㅋ대하
+P0 	: 젤리도먹고그랫오
+P1 	: 웬일로 새우를 다 먹었댕
+P1 	: 잘했네요
+P0 	: 점심에 장어먹으러가는건데
+P1 	: 웅웅
+P0 	: &name3&는졸려하고 &name4&이네는 계속 물놀이하고
+P1 	: 장어 먹구 와유
+P1 	: 헐퀴 그렇구마링
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210801
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어디쯤 왔어요?
+P0 	: 군포
+P0 	: 세시24분ㄷㅊ
+P1 	: 오킹 알겠어요
+P1 	: 도착하면 전화줘요~ 주차장으로 갈게요
+P0 	: 우리아기 일어났어요?
+P0 	: 아침에 집 나가려는데 넘덥길래 에어컨 한시간 예약걸고나왔어요
+P1 	: 응응 9시에인낫어
+P0 	: 자기는 코트 환불할까나
+P1 	: 맘대로해요
+P1 	: {share:photo}
+P1 	: 간장닭갈비 콩나물국 멸치 피클
+P0 	: 숟가락이 바꼈넴~
+P0 	: 울아기 엄마한테 짜증안부리고 잘 있눙
+P1 	: 아니 징징대 ㅋㅋ
+P0 	: ㅋㅋㅋ
+P0 	: 징징대는 모습도 예쁜 &name3&얌
+P0 	: 울아기 보고파유
+P1 	: 또 종일 징징이애
+P0 	: ㅜㅜ
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210803
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 에후
+P0 	: 밥잘안먹엇어?
+P0 	: 난오늘배아파서혼낫다잉
+P0 	: 지금도 장실왓어ㅜ
+P1 	: 나두 아침에 똥꼬 불났슈
+P1 	: ㅋㅋㅋㅋ이젠 갠츈
+P1 	: 내가 간장닭갈비 해줬는데 맛있러
+P1 	: 근데 밥 절반밖에 안먹어
+P0 	: 나회의시간동안 참앗오 두시간ㅋㅋ
+P1 	: {share:photo}
+P1 	: 대단해유 쟈기
+P0 	: ㅋㅋ울아기 넘예쁘네
+P1 	: 매일 물놀이여 ㅋㅋㅋ이번 여름에 물놀이 원없이 하는구마잉
+P0 	: ㅋㅋ그러겡
+P1 	: {share:photo}
+P1 	: 쟈기 힐링해유
+P1 	: 아기 웃는 사진리야
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 울아기 넘 행복해보이네
+P0 	: 자기가 재밌게 놀아주고 있군
+P0 	: 엄마 마음이 녹았겠구만~~
+P1 	: {share:photo}
+P1 	: 하지 말라면 더해여
+P0 	: ㅋㅋㅋㅋㅋㅋ웃겨
+P1 	: 청개구리야
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210802
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 쟈기 어제 주유했누?
+P0 	: ㅇㅇ
+P1 	: 5천쿠폰 썻누
+P0 	: 5만원어치 했어 공주에 항상 하는 곳
+P0 	: 아니 sk아니라서 안썼어
+P1 	: 헐
+P1 	: 이거 쿠폰 오늘까진뎅
+P0 	: 그럼 이따 퇴근해서 쓸게
+P0 	: 2만원어치 정도는 더 해야 만땅될듯?
+P1 	: 엔진오일도 갈아야 돼
+P0 	: 그건 주말에 내가 다녀올게
+P0 	: 20%라 괜찮아
+P1 	: 그래요
+P1 	: 오늘 저녁 먹고 오눙
+P0 	: 글셍
+P0 	: 어찌하는게 좋눙
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210802
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 자기 희소식이 있오
+P0 	: 나 담주 월욜은 9시출근해도 될듯
+P0 	: 지금 하는 부문회의가 7시였던게 8시로 미뤘는데 이제 격주로 한다넴
+P0 	: 일단 오늘은 조금 늦을듯...ㅜㅠ
+P1 	: 오 좋네유
+P1 	: 언니 놀러왔슈
+P1 	: 구롬 저녁 먹고 왔눙
+P1 	: 저녁 먹고 오눙ㅋㅋㅋ
+P0 	: 늦을거같아
+P1 	: 알겠어유
+P1 	: {share:photo}
+P1 	: 물놀이 2차 ㅋㅋㅋ
+P0 	: ㅋㅋㅋ귀요미얌
+P1 	: 근데 말 안들어
+P1 	: 자꾸 장난감 던지고
+P0 	: 웅 자깅
+P0 	: 울아가 반항하는거얌ㅋㅋ
+P0 	: 잠깐은 안던지다고 응~이렇게 대답하는데 ㅋㅋ
+P1 	: 안들어ㅠ
+P0 	: 난이제하철이타러왓어
+P0 	: 저녁은 방금먹었어요
+P1 	: 저녁 먹었어요?
+P0 	: 응 늦었다잉
+P1 	: 뭐 먹었누
+P0 	: 자기는?
+P1 	: 난 언니가 배떡 로제떡볶이 시켜줘서 그거 묵
+P0 	: 배떡이뭐야
+P1 	: 떡볶이 가게 이름이 배떡이얌
+P1 	: 요즘 핫행
+P0 	: 웅
+P0 	: 이제 출구나가유
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210803
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 나예요
+P0 	: 난 12시부터 회의 들어가요...점심도 못 묵ㅜ
+P0 	: 아침에 보니까 &name3&가 자기한테 착 달라붙어서 자기도 좁게 자고 있길래 보니까 &name3&가 바디필로우 바깥에 있더라구 그래서 바디필로우 치웠오
+P0 	: 에어컨도 30분 예약하구왓오
+P1 	: 웅웅 고생했어요 쟈기
+P1 	: 언니랑 &address& 근처 고깃집 왔오 ㅋㅋㅋ놀이방 있는 고깃집
+P1 	: {share:photo}
+P1 	: {share:video}
+P0 	: 난이제회의끝
+P1 	: 이제 밥먹으러 가눙?
+P1 	: 고생많았네요
+P0 	: 응 이제먹었어요
+P1 	: 잘했네요
+P1 	: {share:info}
+P1 	: 난 요기야 ㅋㅋㅋ&name3& 지금 1시간 넘게 노는중
+P0 	: 호오
+P1 	: 이제 언니네 왔어여 ㅋㅋㅋㅋ
+P0 	: 오옹
+P1 	: 퇴근핶어요?
+P0 	: 네 이제 하철이 타러 왔어요
+P1 	: &name3&는 아주 징징징
+P1 	: 짜증내규 잇어
+P0 	: {emoji}
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210803
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 자기 저녁은?
+P0 	: 항정 먹어야되지않낭
+P1 	: 여기서 볶음밥이랑 치킨너겟 주는데
+P1 	: 안먹ㄱㅆ다고 떼써
+P0 	: 간식마니먹엇어?
+P0 	: 그럼 아빠랑 고기묵자
+P0 	: 근데 치너도 안먹는거는 첨이네
+P1 	: 아니 낮잠자고 간식 안먹었어
+P1 	: 그냥 밑도끝도 없이
+P1 	: 떼써
+P1 	: 안아달라해서 안아줘도
+P1 	: 징징징
+P0 	: &name3& 밥 안먹으면 집에서 같이 묵쟈
+P1 	: 치너만 먹어
+P0 	: 헐퀴
+P1 	: 암튼 치너만 4개 정도 묵
+P0 	: 자기 거기서먹을거야?
+P0 	: 편한대로해요
+P1 	: 볶음밥 먹엇는데 &name3&는 집에 가서 다시ㅜ밥 먹어야 할듯
+P1 	: 집에 와서 &name3&랑 항정이 묵어유
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210803
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 쟈기 어디쯤이눙
+P0 	: 선바위
+P0 	: 그래요
+P1 	: ㅇㅇ구롬 10분뒤에 출발할게오
+P0 	: ㅇㅇ
+P0 	: Louis Vuitton, 창업자 탄생 200주년을 기념하는 게임인 'LOUIS THE GAME' 발표 - {share:url}
+P0 	: 자기야 동물원 안갔지?? 가지마요
+P1 	: 아침에 인나서 야쿠르트 시리얼 먹이고
+P1 	: 응가해서 목욕시키고
+P1 	: 설거지하고 밥 안치고
+P1 	: 이제야 겨우 쇼파에ㅜ앉앗오
+P1 	: 아 힘드류
+P0 	: 고생 많네 자기
+P0 	: 난 오후에 집주인한테 전화 좀 해볼게
+P1 	: 웅웅 쟈기야
+P0 	: {share:url}
+P0 	: 우린 이재명 뽑으면 안되겟다 ㅋㅋ
+P1 	: 11월 중순~말 이사예정이라고ㅜ해요
+P0 	: ㅇㅇ
+P1 	: 이재명 뽑을 생각 없는디 ㅋㅋㅋㅋ
+P0 	: 입주일 선정이 어찌될지 모르겠는데 아마 희망 선착순이겠지
+P0 	: 주말이 아무래도 치열할테지?
+P1 	: ㅇㅇ
+P0 	: 흠. 봐서 11월에 금요일로 휴가 좀 잡아놔야겟네
+P1 	: 평일 이사해야 편해
+P0 	: 목,금 이때로 
+P1 	: 그래야 애기 얼집 보내고 이사하지
+P0 	: ㅇㅇ
+P1 	: 쟈기 코트 반품신청했어요?
+P1 	: 현관앞에 내놔야 하나?
+P0 	: 신청했는딩
+P0 	: {share:photo}
+P0 	: 고객센터 문의하니 내일까지 기다려보고 안되면 말해달라넴
+P1 	: 알겠어요

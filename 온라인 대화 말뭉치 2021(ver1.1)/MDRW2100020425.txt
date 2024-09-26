@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020425
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달음식 좋아하세요?
+P1 	: 저는 아직 배달앱을 안깔았어요 ㅎㅎ
+P0 	: 저는 배달앱 3개나 깔았어요 왜 안 까셨어요?
+P1 	: 헐 3개요 전 깔면 막 시킬까봐서요 ㅎㅎ
+P1 	: 3개면 배민 요기요 또 뭔가요?
+P0 	: 저는 싼곳 돌아가면서 시켜요 쿠팡잇츠요
+P1 	: 아~ 쿠팡도 시작했죠
+P1 	: 그 중에 뭐가 제일 낫나요?
+P0 	: 요기요가 할인이 많구요 쿠팡잇츠는 빨라요 배민은 편안한 느낌?ㅎ
+P1 	: 아항
+P0 	: 네~배달앱깔면 할인쿠폰도 있고 편해요
+P1 	: 아 그래서 고민중이에이 할인행사 많이 한다더데
+P0 	: 처음엔 10000원 쿠폰줘요~
+P1 	: 오~ 솔깃하네요
+P0 	: 네 한번 해보세요
+P1 	: 시작하면 자제 못하고 막 시킬까봐 선뜻 안깔게 되지만
+P0 	: 근데 배달음식 계속 먹으면 지겨워서요ㅜ

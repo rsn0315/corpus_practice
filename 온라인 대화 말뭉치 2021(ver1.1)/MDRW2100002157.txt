@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002157
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달 많아 해용?
+P0 	: 아뇨 전 배달보단  해먹는걸 더 즐겨해요 ㅎ
+P1 	: 잘하시나보다
+P0 	: 재미있어요 만드는과정이 ㅎ 물론 배달도 해요 ㅋ
+P1 	: 배달이 편해서
+P0 	: 편하고 맛있는데 맛있어요 ㅋ.ㅋ
+P1 	: ㅋㅋ 그래요
+P0 	: 배달 메뉴 주로 머드세여 ㅎㅎ
+P1 	: 치킨이요
+P0 	: 저도 치킨  
+	  치킨도 집에서 하면 맛있는데 뒷처리 귀찮어요 ㅎㅎ
+P1 	: 맞아요
+P1 	: 식사는요?
+P1 	: 드셨나요?
+P0 	: 네넹 꽃게탕 먹었지요
+P1 	: 맛나겠네녀

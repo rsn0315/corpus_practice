@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 어제 저녁엔 어떤 메뉴를 드셨나요?
+P1 	: 어제저녁에 피자 먹었어요ㅎ
+P0 	: 오오 어디꺼 드셨어요~?
+P1 	: 도미노에서 포테이토 피자 먹었네요ㅎㅎ
+P0 	: 오! 도미노피자 사실때 도우 얇기는 어떤걸로 하셨어요?
+P0 	: 저는 항상 중간두께 나폴리로 해요!
+P1 	: 저도 중간두께 선호해요ㅋㅋ 빵맛을 좋아하기도 하고 씬먹으면 배가 안차는 느낌이더라고요ㅋㅋ
+P0 	: 맞아요 씬은 뭔가 아쉽고 오리지널은 살짝 두꺼운 느낌이 들어서요ㅋㅋㅋ
+P0 	: 도미노 뉴욕오리진 피자도 맛있는데 추천드립니다
+P1 	: 뉴욕 오리진 한번도 안먹어봣는데 담에 꼭 먹어볼게요!ㅎㅎ
+P1 	: &name1&님은 피자 즐기시나요?
+P0 	: 넹넹!ㅎㅎ 파파존스의 수퍼파파스라는 피자를 가장 좋아해요
+P1 	: 파파존스 그거 진짜 유명하던데 아직 못먹어봤어요ㅠ
+P0 	: 이거 시키실때 사이드로 꼭 브라우니도 시켜드세요 브라우니 맛집이에요ㅎㅎ
+P1 	: 브라우니 식감이 꾸덕한 느낌 인가요? 제가 그런걸 좋아해서ㅋㅋ
+P0 	: 네네! 엄청 꾸덕하고 쫀득해요ㅎㅎ

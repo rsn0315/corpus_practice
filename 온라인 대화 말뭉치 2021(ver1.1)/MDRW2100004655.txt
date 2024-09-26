@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100004655
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 좋아하는 연예인 있으신가요?
+P1 	: 별로없는데 &name1&님은요?
+P0 	: 아 저는 아이유 좋아해요ㅎㅎ
+P0 	: 요즘 악뮤랑 같이 부른 낙하 듣고 있어요
+P1 	: 아이유 귀엽고 예쁘고 정말 팬많은거같아요
+P0 	: ㅎㅎㅎ 맞아요!!
+P1 	: 음악을 좋아하시는군요^^
+P0 	: 네네 이선희 좋아하시나요?
+P0 	: 이번에 악뮤랑 같이 전쟁터 부르셨던데 들어보셨을까요?
+P0 	: 느낌 오묘하고 좋아서 추천드려요
+P1 	: 이선희 좋죠^^ 팬이라고하긴 좀그렇고 그냥 노래좋으면 듣는 정도?
+P0 	: 어떤 노래 좋아하세요?
+P1 	: 구지따지면 트로트 요즘 많이 듣는듯해요
+P0 	: 아 저는 트로트 잘 모르기는 하는데 임서원양이 너무 귀엽더라고요
+P0 	: 유튜브에서 가끔 봤는데 진짜 반짝이는게 너무 사랑스럽던데요ㅎㅎ
+P1 	: 그죠 미스터트롯 미스트롯 인가 보면 어린아이들이 트로트를 왜이리 잘부르는지 신기해요^^

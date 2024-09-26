@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021366
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 배달음식좋아하세요?
+P0 	: 별로 안좋아해요 좋아하세요?
+P1 	: 좋아하는데 메뉴가 한정되있어요
+	  건강식 같은건 배달이 안되는것같아서요
+P0 	: 맞아요 일주일에 몇번드세요?
+P1 	: 3일은 먹는것같아요
+	  직접 조리해드세요?
+P0 	: 저는 주로 식당가서 먹어요 요리하세요?
+P1 	: 라면끓일때만요ㅋㅋㅋ
+P1 	: 요리배우고싶어요
+P0 	: 요리 좋아하세요?
+P1 	: 잘하고싶어요 막 조리법다적어서 공책만들고싶어요
+P1 	: 요리좋아하세요?
+P0 	: 요리하는건 싫어해요 어떤 음식 만들고 싶으세요?
+P1 	: 건강식 위주로 만들어서 먹고싶은데 보고따라하기쉽지않아요
+P1 	: 아침은 드시나요?
+P0 	: 잘안먹는편이에요
+P1 	: 아침 안먹으면 배안고프세요?

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응닭칼시킬게 15분까지 배달해달라함되겠지?
+P0 	: 응 이제 오면 맛나게 먹자
+P1 	: 언재오지...15분캤는데
+P0 	: 배고파죽겠네 ㅠㅠ 오랜만에 닭칼 묵네
+	  ￦
+P1 	: 십분 남았데 ㅎ
+P0 	: 아직도 그마이 남았나ㅠㅠ
+P1 	: 점심시간이라서 몰리나봐ㅠㅠ 빨리 먹고푼데
+P0 	: 그러게 오늘 바쁜데
+P1 	: 맘이 급함..ㅠㅠ
+P0 	: 오!! 이제 왔는거 같다 흐흐흐
+P0 	: 점심 맛있게 먹었나?
+P1 	: 응 배부르다ㅋㅋ
+P0 	: 나도 닭칼국수 먹었는데
+P1 	: 와우ㅎㅎ

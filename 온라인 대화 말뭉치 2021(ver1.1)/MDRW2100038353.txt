@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100038353
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 추천해주세요
+P0 	: 같이 떡볶이 가시죠 :)
+P1 	: 좋아요
+P1 	: 어디 떡볶이 먹을까요
+P0 	: 배떡도 있어요?
+P1 	: 배떡이 뭔가요? 처음 들어봐요
+P0 	: 엇? 배떡로제가 유명한뎅...
+P1 	: 저는 엽떡 로제로 입문해서요
+P0 	: 그럼 오늘도 엽떡으로 가시죵:)
+P1 	: 좋아요ㅎㅎ
+P0 	: 떡볶이 먹을때 음료는
+	  주로 어떤거 마셔요?
+P1 	: 저는 쿨피스 복숭아맛이요
+P0 	: 역시 배우신 분이군영ㅋㅋ
+P1 	: 가장 기본적인 거죠ㅋㅋ
+P0 	: 쿨피스도 은근 호불호 있더라구염ㅋㅋㅈ

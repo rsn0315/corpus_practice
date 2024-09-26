@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014223
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 올해 여행 어디 다녀온신곳 있나요?
+P1 	: 제주도 다녀왔어요
+P0 	: 오호 제주도 좋죠
+P0 	: 바다색이 너무 이쁘죠
+P1 	: 네 협재 가봤는데 아이들 놀기도 좋더라구요
+P0 	: 협재 좋죠 .  전 작년에  한달 살다왔어요
+P0 	: 수목원에서2시간은 있었어요
+P0 	: 아이들이 잇군여
+P1 	: 와 한달살기! 하셨군요 넘 부러워요  숙소는 어떻게 정하셨나요
+P0 	: 여성전용 1인 게스트룸이 잇어서 성산쪽에 있어쭁
+P1 	: 아 성산이면 표선?? 맞나요?
+P0 	: 가끔  주인언니가  동영상 보내주는데 좋더라고요
+P1 	: &name1&은 올해 다녀오신 곳 있나요?
+P0 	: 올해는 포항에 휴가 다녀왓죠
+P1 	: 오 포항이요 한두번 가봤는데..어디가셨나요
+P0 	: 월포해수욕장 다녀왓어요
+P0 	: 평일에 가서  사람들은 별로 없어죠

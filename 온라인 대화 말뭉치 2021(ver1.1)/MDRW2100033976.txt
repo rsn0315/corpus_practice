@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100033976
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 조별과제 많이해보셨나요?
+P1 	: 네 &name1&님은요?
+P0 	: 저도 학과 특성상 많이 했어요..ㅠ
+P1 	: ㅠㅠ솔직히 다같이 잘하면 괜찮은데 그게 아니니ㅠㅠ 저는 그냥 혼자하는게 제일 좋더라구요
+P0 	: 저도요...조별과제가 필수인 과목은 듣기 싫었어요ㅋㅋ
+P1 	: 맞아요 저도 조별과제에서 잊을 수 없는 경험하고 교양에서 조별과제있는건 절대 선택안해요ㅋㅋㅋ
+P0 	: 전공은 선택지가 없어 어쩔 수 없지만요ㅠ
+P1 	: 공감합니다 지금 휴학중이시죠?
+P0 	: 네ㅋㅋ 코로나 터지고 휴학했어요ㅋㅋ
+P1 	: 그럼 2년째 휴학중이신가요?
+P0 	: 이번에 복학해요! 내년에도 마찬가지일 것 같아서요ㅠ
+P1 	: 그럼 수강신청 하셨나요?
+P0 	: 수강신청 했어요!

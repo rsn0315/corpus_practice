@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100000479
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 요즘 운동할만해??
+P0 	: 요즘 운동 할만하십니까
+P1 	: ㅇㅇ
+P0 	: 안피곤해?
+P1 	: 귀찮아
+P0 	: 난어제 80분 걷고 쓰러져서 잤어
+P1 	: 피곤하진 않은데
+P0 	: 살빼야지...60키로 넘으면 죽을고라며
+P1 	: 살이 안빠지는것 같아
+P1 	: 걷기만해선
+P0 	: 뛰어야지 그럼
+P0 	: 언니는 안뛰어??
+P1 	: 뛰어야겠대
+P1 	: 걘 뛰는것보다 걷는게 더 힘들대
+P0 	: 마라톤 선수들 보면 엄청말랏잖아
+P0 	: 오래뛰면 그렇게 살빠짐..
+P1 	: 그전에 내 무릎이 먼저 나갈까봐
+P1 	: 못뛰어
+P0 	: 아하
+P0 	: 그렇지 무릎조심해야지
+P0 	: 할머니집 가서 자전거나 타

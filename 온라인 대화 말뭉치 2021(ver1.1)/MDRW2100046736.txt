@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046736
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 점심 먹고 올게요! 맛점하세요!
+P1 	: 영화 좋아하시나요?
+P0 	: 네 좋아합니다
+P1 	: 최근엔 무슨 영화 보셨어요~?
+P0 	: 베놈2봤어요
+P1 	: 검색해봐야겠네요 ㅋㅋ
+P1 	: 영화는 재밌으셨어요?
+P0 	: 네 ^^재밌었어요
+P1 	: 영화관 간지가 너무 오래됐어요
+P1 	: 베놈2는 영화관에서 보셨나요?
+P0 	: 베놈 영화관에서 봤습니다
+P0 	: &name2&님은 영화보셨나요?
+P1 	: 저는 영화관 간지 진짜! 오래됐어요
+P1 	: 언제 갔는지도 가물가물해요 ㅋㅋㅋ
+P1 	: 코로나 터진 이후로는 거의 한두번..? 정도 간 것 같네요
+P0 	: 그러시군요
+P1 	: 네네 영화관 자주 가셔요~?
+P0 	: 아뇨 저도 코로나터진이후로는 잘 안가네요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 창문으로 선선한 바람이 들어오네요.
+P1 	: 오늘은습하고  더워요
+	  비가 올듯  말듯 해요
+P0 	: 비가 오네요. 근데 바람은 좀 덜차가운 거 같아요.
+P1 	: 어제 습하고 더워서 에어컨이랑 제습기 돌렸어요
+P0 	: 저도  오늘은  퇴근 후 제습기를 돌려야겠어요. 꿉꿉하네요.;
+P1 	: 습도가 높아서  제습기 돌려야해요
+P1 	: 오늘은 비오네요.
+P0 	: 주말에도 큰 비가 온다는데 비피해 없으시길요.
+P1 	: 주말에도 비소식이  있군요~지금은 날씨맑아요.
+P0 	: 오늘 비올지 알고 집에 있으려고 했는데 날씨가 맑네요.
+P1 	: 주말 날씨좋네요.태풍이 지나간건지
+P1 	: 미세먼지도 없고 날씨좋아요
+P0 	: 그러게요. 창문 열어놓고
+	  누워있어요.ㅎ 시원하네요.
+P1 	: 습도만 없으면 좋겠어요. 습한날씨 싫어요
+P0 	: 그쵸. 끈적 끈적
+	  계속 샤워해야하고..

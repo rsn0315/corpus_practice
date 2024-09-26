@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046272
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:) 오늘 점심메뉴 정하셨나요?
+P0 	: 네 된장찌개 먹을 예정이네요 ㅎㅎ
+P1 	: 와 된장째개에 다른 반찬은 없나요?
+P0 	: 김치랑 김, 계란말이정도? 가 있어요.
+P1 	: 딱 간단한 점심식사네요~~!
+P1 	: 좋아하는 음식있으신가요?
+P0 	: 고기류는 다 좋아합니다~ :)
+P1 	: 그럼 돼지, 소, 닭, 양 중에 어떤 고기를 제일 좋아하시나요?
+P0 	: 닭을 제일 좋아해요
+P1 	: 저는 돼지를 제일 좋아하지만 자주먹는건 닭고기인것 같아요
+P1 	: 어제도 닭갈비 먹었거든요 ㅎㅎ
+P0 	: 닭갈비 맛있지요~ 볶음밥까지 드셨나요? ㅎㅎ
+P1 	: 넵 당연하죠! 필수코스아닌가요 ㅎㅎ~~
+P0 	: {emoji}
+P1 	: 가장 좋아하는 치킨 있으신가요?
+P0 	: 굽네치킨 좋아해요~
+P1 	: 굽네치킨에서 가장 좋아하는 치킨있으신가요? 전 볼케이노 좋아해요 ㅎㅎ
+P0 	: 기본 후라이드를 좋아해요. 볼케이노는 안먹어봤어요. 맛있나봐요?
+P1 	: 매운거 좋아하시면 볼케이노 좋아하실거에요~~ 담에 기회되면 한번 도전해보세요!!

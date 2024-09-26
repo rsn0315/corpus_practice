@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 많이 읽으세요?
+P1 	: 책도 폭식하는 습관이 있어서
+P1 	: 볼때는 몰아보고 아닐때는 거리가 멀고 하네요
+P1 	: &name1&님은요?
+P0 	: 저는 이북으로 많이봐요
+P0 	: 최근엔 동네 도서관 카드 발급 받았어요
+P1 	: 저는 e북으로는 아직 본적이 없네요:)
+P0 	: 이북이 편하더라고요 한번 보기시작하니까요
+P1 	: 요새는 어떤 책 보고 있으세요?
+P0 	: 다이어트 책 보고있어요
+P0 	: 물론 실천이 힘들죠ㅜ
+P1 	: 다이어트 책은
+	  식단 관련 내용인가요?
+P0 	: 평균 700칼로리에 맞춘 요리책 느낌이었어요
+P1 	: 와... 700칼로리면
+	  뭘 먹을 수 있는거죠? ㅠ
+P0 	: 양이 진짜진짜작더라고요
+P0 	: 전부 다해서 100그램? 200그램?
+P1 	: 가혹한 책이네요ㅠ ㅋㅋ
+P0 	: 그거말고 토익책도 이북으로 빌렸었어요 ㅎ요새 도서관 좋아요 ㅎㅎ

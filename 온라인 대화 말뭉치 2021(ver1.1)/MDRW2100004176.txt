@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100004176
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 혹시 뮤지컬 좋아하시나요?
+P1 	: 좋아하는데 기회가 없어서 많이 보지는 못했어요
+P1 	: 뮤지컬좋아하시나요
+P0 	: 저도 많이는 아니고 가끔 보러다녀요
+P0 	: 최근에 영화나 전시회 보러가신적 있으세요?
+P1 	: 가장 좋아하는 뮤지컬은 무엇인가요
+P1 	: 앗.. 코로나 때문에 못본지 꽤됐어요
+P0 	: 저는 프랑켄슈타인이라는 뮤지컬 좋아해요!
+P1 	: 어떤점이 좋았나요?
+P0 	: 넘버들이 너무 좋았고 초반에 빅터와 앙리라는 캐릭터가 나오는데 둘의 케미가 정말 좋더라고요
+P1 	: 설명만 들어도 너무 매력적이네요
+P1 	: 기회가 된다면 꼭 한번 보러가고싶어요
+P1 	: 저는 영화관에서 영화는 못봤는데 최근에 집에서 정직한 후보 시청했어요
+P0 	: 라미란배우님 나오는거 맞나요? 재밌을 것 같아요
+P1 	: 네 맞아요 가볍게 볼 수 있는 코미디라 좋았어요
+P1 	: 영화장르는 어떤거 좋아하시나요?
+P0 	: 저는 sf 좋아해요! &name2&님은요?
+P1 	: 저는 코미디나 액션물을 좋아해요
+P1 	: sf영화 중 재밌게 보신 영화가 있나요?
+P0 	: 혹시 스타트렉이라고 아시나요?
+P0 	: 저도 액션물 좋아해요!
+P1 	: 네 16년도에 나온 영화 맞죠?
+P0 	: 네!!! 혹시 보셨나요?
+P1 	: 네 재밌게봤던 기억이 있어요

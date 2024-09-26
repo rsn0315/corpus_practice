@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100035493
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 님 저녁 드셨나요?
+P0 	: 아니오 좀 늦게 먹을거에요 &name2&님은 드셨나요?
+P1 	: 네 밥이랑 집에 있는 반찬 먹었어요
+P0 	: 집밥이 돈도 안나가고 참 좋아요
+P1 	: 그쵸ㅋㅋ 근데 먹고 났는데도 빵이 먹고 싶어요
+P0 	: 먹다 보면 또 배불러서 안 먹힐거에요
+P1 	: 맞아요 참아야죠ㅋㅋㅋ
+P0 	: 귀퉁이만 잘라서 샬샬 드셔보세요
+P0 	: 와 스알스알이 금칙어네 진자 필터링이상하네요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 와 진짜네요ㅋㅋㅋㅋㅋ
+P1 	: 빵 먹으려면 나가서 사와야해서 너무 귀찮아요ㅠ
+P0 	: 저 아까 님한테 답한줄 알고 가만히 있는데 답이 안와서 ㅋㅋㅋ
+P0 	: 다시보니깐 스알스알이 걸려있더라고요 ㅋㅋ
+P0 	: 나가야 되는거면 안먹어야죠 나갈려면 씻어야되고,,,
+P1 	: 아휴 그러니까요
+P0 	: 내일 나갈떄 씻음되는데 지금 싯기 싫어요,, 게을,,게을,,
+P1 	: ㅋㅋㅋ 단거 먹는 것도 끊어야 하는데...
+P0 	: ㅎㅎㅎ 단거도 끊어야 할 당위는 있지만,,
+P0 	: 솔직히 당뇨 정도의 위기가 안오면 자발적으로 끊긴 좀 힘드룢
+P1 	: ㅋㅋㅋㅋㅋㅋ맞아요
+P1 	: 먹다보면 당뇨 걸릴까봐 걱정 될 때가 와요ㅋㅋ
+P0 	: 가족력이 있으면 좀 줄여야 하긴 하는데
+P0 	: 설탕이 없음 일하기가 힘들어요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100023062
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~~~
+P1 	: 저녁 뭐 드셨어요~?
+P0 	: 저는 어묵이요 &name2&은요?
+P1 	: 와 어묵 맛있었갰어요!!
+P1 	: 어묵탕 드셨어요 어묵볶음 드셨어요?
+P1 	: 저는 돈까스 먹었어요!!
+P0 	: 저는 어묵볶음이요 어떤 돈까스 드셨나요? 왕?치즈?고구마?
+P1 	: 오 저는 옛날 왕돈까스요!!!
+P1 	: 근데 그게 약간 일본식 돈까스를 곁들인..?
+P1 	: 그래서 약간 제 기준에서는 실패인 돈까스였어요..!!
+P1 	: 저는 완전 원조 왕돈까스 느낌을 좋아해서요!!
+P1 	: 돈까스 좋아하세요?
+P0 	: 프랜차이즈꺼였나요?
+P0 	: 네 저는 돈까스 좋아해요
+P1 	: 아뇨!!÷? 동네 가게에서 시켜먹었어요!
+P1 	: 좋아하는 프랜차이즈 이ㅛ으세요?
+P0 	: 저는 돈까스는 그냥 아무곳이나 잘 먹어요
+P0 	: 좋아하는 음식 있으신가요?
+P1 	: 저는 가리지않고 다 잘먹는 편이라 그날그날 좋아하는 음식이 달라지는거 같아요!!!
+P1 	: 약간 불호? 하는 음식만 있어요!
+P1 	: 딱 최애음식이 있으신가요?
+P0 	: 저는 떡볶이요
+P0 	: 어떤 음식을 불호하시나요?
+P1 	: 헐 떡볶이를 좋아하시는군요!
+P1 	: 가장 좋아하는 프렌차이즈 있으셍ㅅ?
+P0 	: 저는 엽떡이요

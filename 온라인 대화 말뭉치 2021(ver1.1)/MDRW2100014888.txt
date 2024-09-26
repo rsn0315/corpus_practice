@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014888
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 어떤 선물 받아보셨어요?
+P1 	: 최근에 받아본 선물은 커피 기프티콘요 ㅋ
+P0 	: 앗 저도 엊그제 스벅세트 받았는데ㅋㅋ
+P1 	: 기프티콘 선물이 받기도 좋고 쓰기도 좋은것 같아요
+P0 	: 네 카톡으로 바로 사서보내니까 편하더라고요
+P1 	: 온라인 쇼핑으로 샴푸구매했어요
+P1 	: 당장 필요한건 아닌데 할인하길래 충동구매했어요
+P0 	: 할인하는건 참을수 없져ㅋㅋ
+P0 	: 그런건 쟁여놔도 언젠간 쓰니까요
+P1 	: 쟁여두어도 상관없어서 자꾸 구매하게되요
+P0 	: 저도 그렇게 되더라고요ㅋㅋ
+P1 	: 바디워시는 자꾸사서 대용량 6개 있어요.
+P0 	: 와 많긴 하시네요ㅋㅋ 전 핸드워시를 자꾸 쟁이게 되네요
+P1 	: 할인해서 지나칠수 없더라구요.ㅋ 핸드워시 도 자주쓰는거죠
+P0 	: 맞아요 할인은 소중하니까요ㅋㅋ
+P1 	: 쇼핑몰 자주 구경하시니요?
+P0 	: 요즘은 거의 온라인으로 보죠

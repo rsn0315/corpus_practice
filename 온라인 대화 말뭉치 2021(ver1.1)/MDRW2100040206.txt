@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100040206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오 경복궁가게 되면 봐야겠어요
+P0 	: 네 근데 경복궁은 너무 넓어서 다 보려면 정말 많이 걸어야돼요.. 그게 단점 ㅋㅋ
+P1 	: 글쿤요 몇 군데만 봐야겠어요
+P1 	: 아 여행갈 때 기념품 잘 사세요?
+P0 	: 아 저는 너무 비싼건 말고 자잘한걸로 좀 많이 사는거 같아요 ㅋㅋ
+P1 	: 어떤거요? 전 잘 안사는데 엽서 사 볼까 생각중이에요
+P0 	: 저도 엽서 같은거나 마그넷 같은거요 냉장고에 붙이는거 아니면 키링 같은?
+P1 	: 오 여행 기념품으로 넘 좋네요
+P0 	: 그쵸 마그넷에 보통 도시이름이 새겨져있으니꺼 나란히 붙여두기 좋더라고요
+P1 	: 마그넷 탐나네요 오늘 여행 관련해서 좋은 정보 알아가요 ㅎㅎ
+P0 	: ㅎㅎㅎ 여행계획 새울때 어떤 타입이세요
+P1 	: 전 계획형이요 코스 비용 플랜비까지 세워요
+P1 	: &name1&님은요?
+P0 	: 우와 저는 예산이랑 숙소만 짜고 그 안에선 유동적으로요!!
+P1 	: 오 여행다운 느낌에요 전 관광사나 패키지 같아요ㅠㅋㅋ

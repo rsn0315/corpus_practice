@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002997
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 점심은 뭘 드셨나요
+P0 	: 오늘 점심은 카레 먹었어요
+P1 	: 직접 만드셨나요
+P0 	: &name2&님은 뭐 드셨나요?
+P0 	: 하숙집주인이 만들어줬어요
+P1 	: 저는 오늘 장어구이를 먹었습니다
+P1 	: 부장님이 사주셨습니다
+P0 	: 우왕 최고에요
+P0 	: 장어먹고 보양해야죠
+P1 	: 사람들이 많이먹어서 저는 조금밖에 못 먹었습니다
+P1 	: 배가 고픕니다
+P0 	: 아이코
+P0 	: 장어도 경쟁이네요
+P1 	: 예 전어회도 나왔습니다
+P1 	: 그거는 인기가 없어서 많이 남았습니다
+P0 	: 전어회도 맛있겠는데요
+P0 	: 회 먹으러 가고싶네요
+P1 	: 저는 초밥을 좋아합니다
+P1 	: 초밥좋아하시나요
+P0 	: 초밥 좋죠
+P0 	: 어떤 초밥 좋아해요?
+P1 	: 저는 흰살생선을 좋아합니다
+P1 	: 계란초밥도 좋아합니다
+P1 	: 어떤 초밥을 좋아하시나요
+P0 	: 전 연어초밥이 좋아요

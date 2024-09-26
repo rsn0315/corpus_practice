@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010195
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 집안일 어떤 게 제일 힘들어?
+P1 	: 빨래
+P0 	: 빨래 힘들지
+P1 	: 넘 어려워
+P0 	: 빨래가 은근히 신경쓸 게 많더라고
+P1 	: 그니까
+P0 	: 그럼 그나마 제일 나은 건 뭐야?
+P1 	: 설거지
+P0 	: 설거지가 그나마 만만한가?
+P1 	: 응 그나마?
+P0 	: 난 쓰레기 버리는 게 그나마 제일 나은 거 같아
+P1 	: 아 맞다 그것도 있었지
+P0 	: 그럼 둘중에 하나를 고른다며?
+P1 	: 둘 중에 뭐?
+P0 	: 설거지랑 분리수거
+P1 	: 분리수거
+P0 	: 뭐야ㅋㅋㅋㅌ
+P1 	: ㅋㅋㅋㅋ 그게 편하니까

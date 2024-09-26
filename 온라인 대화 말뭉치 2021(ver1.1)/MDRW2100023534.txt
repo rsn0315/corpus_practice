@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100023534
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑몰은 주로 어디쓰시나요?
+P1 	: 주로 11번가 지마켓이용하네요~
+P0 	: 11번가는 그 전용카드쓰시나여?
+P1 	: 따로 11번가 카드를 가지고있진않아요ㅠ!!
+P0 	: 그거 안쓰면 11번가 별로 같던데.. 
+	  어떤 점 땜에 쓰시는거에요?
+P1 	: 그냥 보다가 딜있거나 sk할인되고할때쓰는거같아요!
+P0 	: 아.. sk폰쓰면 할인되져..
+P0 	: 전.. 지마켓 주력이라..
+P1 	: 지마켓도 스마일캐쉬충전해서 사용해요!
+P0 	: 오... 엄청 알뜰하시네여...
+P0 	: 최근 스캐 수수료가 아쉽긴하죠
+P1 	: 전 전환은 잘 할줄은 몰라여ㅠ
+P0 	: ? 그럼 스마일 캐쉬는 어케 충전하세요?
+P1 	: 야놀자에서 토스로 샀어요! 아님 북앤이나 컬쳐랑 교환하던가지!
+P0 	: 쇼핑많이 하시나봐여? 엄청 잘 아시네요..
+P1 	: 스캐는 요기요나 해피오더할때도 잘쓰고잇어서 유용하더라구요!
+P1 	: 60퍼이상인가 환급도되서요!
+P0 	: 오.. 그건 저도 말랐네요..
+P0 	: 몰
+P1 	: 스마일캐쉬쓰고 출금누르면 출금가능금액있으면 뜨더라구요!
+P0 	: 오호... 글쿠나.. 꿀정보

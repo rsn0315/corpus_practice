@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100011400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 여행지가 있으신가요?
+P0 	: 바다보단 산쪽이 좋아요..
+P0 	: 바다랑 산 어느쪽니세요?
+P1 	: 저는 바다를 좀 더 좋아해요
+P0 	: 활동적인거 좋아하시나바요?
+P1 	: 스노쿨링을 좋아해서요ㅋㅋ
+P0 	: 와.. 멋있다..
+P0 	: 자주 다니세요?
+P1 	: 코로나 이후로는 못 갔어요ㅠ
+P0 	: 강릉쪽 가시나여ㅡ
+P1 	: 같은 강원도지만 속초로 많이 갔어요
+P0 	: 잘몰라서.. 속초가 젤 유명한 곳이에요?
+P1 	: 속초 근처에 회사 연수원이 있어서 주로 그쪽으로 갔어요ㅋㅋ 동해바다는 대부분 유명하죠
+P0 	: 수영 못해도 배울 수 있다고 들었는뎅..
+P1 	: 스노쿨링 수경을 착용하면 물 위에서 엎드리고 숨을 쉴 수 있어서 계곡에서는 조끼 없이도 물에 떠요ㅎㅎ
+P0 	: 사람은 원래 가라앉는 생물 아닌가요? ㅋㅋㅋㅋ
+P0 	: 수영2달배우다 포기..
+P0 	: 그래서 스노쿨링하는 사람들 엄청 멋져보임..ㅋㅋ

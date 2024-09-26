@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기숙사나 자취 경험이 있으신가요?
+P1 	: 기숙사 경험은 없는데 자취경험, 동거경험은 있어요!
+P0 	: 룸메이트분과는 원만하셨나요?
+P1 	: 딱히 싸운 기억은 그리 많지 않아요. 싸웠다고 해도 크게 싸운것도 아니고 그냥 작은 다툼정도였는데 살면서 안 부딪치는건 쉽지 않을테니까 원만하게 잘 보냈다고 볼 수 있겠네요!
+P0 	: 생활 패턴이 크게 다으지 않으셨나봐요!
+P1 	: 생활 패턴도 비슷했지만 다를 때는 얼굴도 잘 못 볼 정도로 달라서 그랬던것 같아요
+P1 	: &name1&님은 자취나 동거 경험 있으신가요??
+P0 	: 기숙사에 살아본 적은 있어요
+P1 	: 오! 기숙사 생활은 어때요??
+P0 	: 청소데이나 통금 제외하고는 할만했어요ㅎㅎ
+P1 	: 청소데이는 뭐에요??
+P0 	: 모든 기숙사생들이 청소하고 각 층장에게 검사를 받는 날이에요
+P1 	: 층장에게 통과받지 못하면 통과받을때까지 다시 해야하는건가요?ㅠㅠ
+P0 	: 네네ㅠㅠ 그래서 싫어했어요..
+P1 	: 허어ㅠㅠㅠㅠ 생각만으로도 너무 끔찍하네요ㅠㅠ 저였어도 너무 싫어서 외출이든 뭐든 빠져나올 방법이 없는지 열심히 생각했을 것 같네요ㅠㅠ

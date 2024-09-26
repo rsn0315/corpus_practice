@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100040800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저랑 비슷하네요
+P1 	: 카페인에 약해서 커피 마시면 잠을 잘 못자요
+P1 	: 근데  향은 너무 좋지 않나요?
+P0 	: 네 커피향은 좋아해요~
+P0 	: 그래서 주변 사람들 커피 내리면 향 맡고 좋아해요ㅎㅎ
+P1 	: 저도 향은 포기 못해서 원두 내려서 향만 맡은적도 있어요
+P1 	: 카페인 상관없는 사람이 참 부러워요
+P0 	: 맞아요
+P0 	: 카페인에 강한 분들
+P1 	: 커피 10잔 마셔도 끄덕없다는 분도 있더라구요
+P1 	: 어떻게 그럴 수 있는지
+P0 	: 와 진짜 세시네요 그분은
+P0 	: 가족들 일어나면 아침식사 하시는 건가요?
+P1 	: 그렇죠
+P1 	: 그런데 우리 가족들이 다들 일찍 일어나요
+P1 	: 그래서 아침도 일찍 먹어요
+P0 	: 아 그렇군요
+P0 	: 저희도 평일엔 일찍 먹는데
+P0 	: 주말엔 9시쯤 먹어요
+P1 	: 저희는 평일 주말 따로 없이 아침 6시쯤이면 다들 일어나서
+P1 	: 7시엔 먹어야 해요
+P0 	: 와 주말에도 다들 일찍 일어나서 식사하시는군요
+P0 	: 좋아하시는 음식 있으세요?
+P1 	: 저는 국을 좋아해요. 그래서 밥할때 국을 꼭 하죠
+P0 	: 그러시군요! 국 있으면 확실히 밥 먹기에 좋죠
+P1 	: 식구들 중에 제가 제일 국을 좋아해서요

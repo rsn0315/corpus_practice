@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009772
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 어디로 가세요?
+P1 	: 변산반도요 ㅎ
+P0 	: 변산반도는 처음 들어봤는데~ㅎㅎ 어느 지역에 있는거에요?
+P1 	: 전북이래요~ 채석강 아세요?
+P0 	: 으...아니요..채석강도 몰라요..ㅠㅠ
+P1 	: 거기 격포 해수욕장도 있어요 격포는 들어보셨나요?
+P0 	: 헛...격포도 처음 들어요~해수욕장 가시나봐요~!
+P1 	: 네~ 이주전쯤 해운대 갔었는데 애들이 엄청 좋아했거든요 바다바다 노래를 불러서요
+P0 	: 와~벌써 해운대도 다녀 오셨군요~! 좋으셨겠어요
+P1 	: 다른 볼일때문에 갔다가 잠깐 들렸는데 여름바다는 진리인듯요 ㅎ
+P0 	: 네~ 특히나 해운대는 유명하잖아요~!
+P1 	: 맞아요 사람 진짜 많았는데 엘시티 쪽으로 바짝 붙으면 한적하거든요 나중에 가시면 엘시티쪽에 자리 잡으셔요
+P0 	: 오~네~꿀팁 감사해요^^
+P1 	: 가셨던 여행중 좋았던곳 있으세요?
+P0 	: 저는 해외보다는 국내가 좋더라고요~
+P0 	: 그중에서 제주도가 가장 좋았어요
+P1 	: 제주도는 언제가도 좋죠~ 내년에 저 제주도 보름 살기 해보려고요
+P0 	: 와~정말요? 대박~~저도 해보고 싶은데~~

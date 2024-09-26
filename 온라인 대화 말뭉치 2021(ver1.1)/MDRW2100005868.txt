@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100005868
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 구매하신거 있나요?
+P1 	: 저 오늘 아침에 커튼봉 구매했습니다
+P0 	: 최근 이사하셨나요?
+P1 	: 헐 밎아요 ㅋㅋㅋㅋㅋㅋㅋㅋ바로 아시네요
+P1 	: 아직 커튼은 구매 못했습니다!
+P0 	: 보통 커튼이랑 같이 구입하지 않나요,
+P0 	: ?
+P1 	: 커튼 보고 있는데 거기서 같이 파는건 못으로 설치해야하더라구요!!
+P1 	: 근데 오늘 산건 그냥 압축봉같은거라 못없어도 설치가능하다길래 사봤어요!!
+P0 	: 그러셨군요 이사하면 살 물건도 많으시겠네요
+P1 	: 네 맞아요ㅜㅜ 지금 엄청 장바구니에 담고 있는데  ㅋㅋㅋㅋ 좀 빼야 해요..ㅋㅋㅋㅋㅋ
+P0 	: 뭐 사시나요?ㅎㅎ
+P1 	: 거울, 정리함이랑 암막커튼은 꼭 사야하는거고
+P1 	: 가을 이불도 사고싶네용
+P0 	: 그렇죠 암막커튼은 필수템인듯해요
+P1 	: 쓸데없는데 방 꾸밀 포스터도 사고싶어요..ㅋㅋㅋㅋㅋㅋ
+P0 	: 인테리어 소품도 쇼핑하는거 좋아하시나요?
+P1 	: 구경하는건 완전 좋아합니다!!
+P1 	: 다 사기엔 무리.. ㅜㅜㅋㅋㅋㅋ
+P0 	: 아이쇼핑이요?ㅋ 어디서 주로 하시나요
+P1 	: 그리고 이쁠수록 비싸더라구요
+P1 	: 저는 오늘의 집 눈팅합니다 ㅋㅋㅋㅋㅋㅋ
+P0 	: 아 오늘의집이 소품 많죠? 와이프도 그릇 거기서 사더라구요

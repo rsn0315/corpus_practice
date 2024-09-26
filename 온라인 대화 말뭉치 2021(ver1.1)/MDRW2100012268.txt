@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012268
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 스포츠 좋아하세오?
+P0 	: 네 좋아해요~
+P1 	: 어떤 스포츠 좋아하세요?
+P0 	: 축구 좋아합니다
+P1 	: 직관해보신 적도 있으세요?
+P0 	: 네네 있죠!
+P1 	: 우와...저는 직관해본 적이 없어서 어떤느낌인지 궁금하네요
+P0 	: 맥주먹으면서 응원하면 재밌어요! 코로나전 ㅠ
+P1 	: 역시 야구장이나 축구장이나 치맥은 진리인가요ㅋㅋ
+P0 	: 국룰이죠ㅎㅎ
+P1 	: ㅋㅋㅋㅋㅋ 전 맥주못마시니까 치콜하면서 직관해야겠네요ㅋ
+P0 	: 치콜도 좋죠ㅎㅎ

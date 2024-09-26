@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012157
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 이번 올림픽 덕분에 더 좋아하게 됐어요! 그전엔 많이 하는 편은 아니었어요 ㅋㅋ
+P1 	: &name1&은 어떠세요?
+P0 	: 저도 이번 올림픽 보고 배구에 관심이 생겼어요
+P1 	: 맞아요 요새 배구 배우는 사람들 많다는 신문기사 봤어요! 아쉽게도 저희동네엔 없더라구요
+P0 	: 선수들 멋있어요
+P0 	: 특히 김연경 멋있습니다
+P1 	: 너무 멋있더라구요 김연경선수 리더십에 반했어요
+P0 	: 스포츠 경기 직관 해본적있으신가요?
+P1 	: 저 야구 직관한적 있어요! 경기보다는 치맥하러 간 느낌이긴 했지만
+P1 	: &name1&은요?
+P0 	: 저는 한번도 없어요
+P0 	: 배구 직관하러 가고싶네요
+P1 	: 직관하면 확실히 응원하는 분위기가 좋더라구요 으쌰으쌰하고
+P1 	: 가까운 곳에 경기장이 있으신가요?
+P0 	: 네 있어요 김천에
+P0 	: &name2&은요?
+P1 	: 아하 저희 도시는 아니구 근처에 있는것 같더라구요
+P1 	: 김천이면 인삼공사인가요!
+P0 	: 맞아요 리그열리면 가보려고합니다

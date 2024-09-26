@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001483
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~~
+P1 	: 술 좋아하세요?
+P0 	: 술은 몸에 안맞는듯
+P0 	: 즐기지 않아요
+P1 	: 아 그러시구나 ㅠㅠ 사실 멀리할수록 좋죠 ㅎㅎ
+P0 	: 가끔 맥주 한잔정도
+P1 	: 딱 그정도가 좋은 거 같아요 ㅎㅎ
+P1 	: 좋아하시는 음료수는 있으세요?
+P0 	: 파워에이드요
+P1 	: 오!!?! 저도 파워에이드랑 게토레이 ㅋㅋㅋㅋ 좋아해요
+P0 	: 갈증날땐 이만한게 없어요
+P0 	: 근데 이게 당함량이 높아서..
+P1 	: 헐
+P1 	: 그래요...?
+P1 	: 뭔가 배신감 느껴진다...
+P0 	: 그래서 맛있죠^^
+P1 	: 어쩐지 맛있더라니...
+P1 	: 가끔만 마셔야겠네요 ㅠ
+	  

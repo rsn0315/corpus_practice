@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100014239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 치즈돈까스를 좋아하시나봐요
+P0 	: 일주일에 몇 번 정도 드세요?
+P1 	: 두번정도 먹습니다
+P1 	: 없어서 못먹죠
+P0 	: 오 자주 드시네요.
+P0 	: 치즈 돈까스 외에 최고 애정하는 음식이 또 있나요?
+P1 	: 치즈돈가스가 최고존엄이ㅛ
+P1 	: 이죠
+P1 	: 어떤음식 좋아하세요?
+P0 	: 최고 존엄 중요하죠.
+P0 	: 저는 중식러버라서 중화요리를 모두 좋아합니다.
+P0 	: 하나 고르기 어렵네요.
+P1 	: 중화비빔밥 좋아하세요?
+P0 	: 아뇨.
+P0 	: 밥보다는 면을 선호해서
+P0 	: 면보다는 또 고기를 선호해서
+P0 	: 중화 비빔밥은 어떤 맛인가요?
+P1 	: 짬뽕밥이랑 비슷한것같아요
+P1 	: 탕슉 좋아하시겠네요 그럼
+P0 	: 그럼요
+P0 	: 중화요리의 꽃이죠
+P1 	: 찍먹이세요 부먹이세요?
+P0 	: 근본은 찍먹이죠.
+P0 	: 설마
+P0 	: 아니죠?
+P1 	: 부먹은 머리에 소스를 부어버려야죠
+P0 	: 현명하시네요.
+P0 	: 디저트는 어떤 것을 좋아하시나요?

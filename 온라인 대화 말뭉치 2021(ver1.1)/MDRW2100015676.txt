@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100015676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이신가요?
+P1 	: 아니요 학생이신가요?
+P0 	: 네! 전 학생이에요
+P0 	: 직장인이신가요?
+P1 	: 이직준비중이예요ㅠ
+P1 	: 코로나로 상황이 안좋아서요
+P1 	: 졸업반이세요?
+P0 	: 아뇨ㅎㅎ
+P1 	: 그러시구나 그럼 아직 구직활동은 먼이야기시겠다
+P0 	: 앗 멀지만 멀지도 않은ㅋㅋㅋㅋㅋ...이야기쥬
+P0 	: 학교 선배림으로써 학교 생활 꿀팁 말해주실 수 있나오?
+P1 	: 음 ...각자 학교생활이 달라서 모르겠지만요
+P1 	: 진부한 이야기로는 학점챙기기 스펙쌓기 챙겨야하는게 있구요
+P1 	: 졸업반이되면 거의 혼강하는경우가 많아서 친구관계에 너무 스트레스받지마시란 소리 해드리고싶어요
+P0 	: 흗흑 이제 거의다 혼강이라 그건 크게 걱정 안해도 될 것같아요
+P1 	: 그렇군요ㅠㅠ 첫연봉신경쓰셔야한다는 이야기도 드려야겠네요ㅜ
+P0 	: 헉 왜요??
+P1 	: 연봉 인상률도 첫연봉이 다르면 액수가 다르구요
+P1 	: 첫연봉을 얼마받았는지를 보고 그것을 기준으로 다음연봉이 정해지기 쉬워서요 이직을하더라도요
+P0 	: 아하...이건 처음 듣는 얘기에요 유익하네용

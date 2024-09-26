@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 자주 하시는 게임이 있나요?
+P1 	: 무한의 계단
+P1 	: 안녕하세요
+P0 	: 아 그거
+P1 	: &name3& 아버님
+P0 	: 네 ㅋㅋㅋ&name3& 아빠입니다
+P1 	: 게임 안에서 할 말이 없는데요
+P0 	: &name3&도 크면 저거 하겠죠
+P0 	: 조금 이야기하다가
+P1 	: 저것만 할까요
+P0 	: 혹시 피카추 배구아세요?
+P0 	: 옛날 게임인데
+P1 	: 아니요 그런 거 모릅니다만
+P1 	: 꿈이 프로 게이머세요?
+P0 	: 무한계단은 모바일로 하는거죠?
+P1 	: 내 네 폰으로 한답니다
+P0 	: 아뇨 돈 많이 버는게 꿈입니다
+P1 	: 손가락이 튼튼해질 거 같은 게임이에요

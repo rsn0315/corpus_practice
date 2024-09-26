@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010198
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 반려동물 키우세요?
+P1 	: 아니요  좋아는 해요 &name1&님은요?
+P0 	: 저도 키우고 있지는 않은데 강아지를 키워볼까 해서요
+P1 	: 예전에 부모님이랑 살땐 키웠는데 귀여워요
+P1 	: 지금도 부모님댁에 한마리 키우는중
+P0 	: 어떤 종인가요?
+P1 	: 지금 키우는건 믹스견이예요
+P1 	: 시츄랑 말티즈 키웠는데 나이먹어서 보내주고
+P0 	: 아~오래전부터 키우셨군요
+P1 	: 어떤종 키우고 싶으세요?
+P0 	: 저는 포메를 키우고 싶은데...털이 날리고 관절이 안좋다고 해서 좀 고민이에요
+P1 	: 포메 귀엽죠 털은 다많이 빠지는거같아요
+P1 	: 비숑키워보고 싶은데 성질이 고약하대요ㅎㅎ
+P0 	: 아~비숑도 귀여운것 같아요~ 성질이 고약한지는 몰랐는데~ㅋㅋ 얼마가 고약하길랰ㅋ
+P1 	: 잘은 모르겠는데 변덕이 심하다그런거같아요
+P1 	: ㅎㅎ
+P0 	: 헛..비숑은 변덕쟁이군욬ㅋㅋ 강아지들도 성격이 있는게 신기해요
+P1 	: 시츄가 식탐이 많아서 그렇지 말도잘듣고 무난한거같이요
+P0 	: 제가 어렸을때는 시츄가 너무 못 생기다고 생각됐었는데 요즘은 시츄도 너무 귀여운것 같아요~ 나름 매력이 있어요

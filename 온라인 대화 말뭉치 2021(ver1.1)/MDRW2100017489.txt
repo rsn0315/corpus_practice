@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100017489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁드셧나욤
+P0 	: 이제먹어야하는데 누워있어요
+P0 	: 가족들 식사중인데 ㅋㅋ
+P1 	: 저는 진작먹고
+P1 	: 침대누웟어요
+P0 	: 우와정말요
+P0 	: 저도이제먹고앉았네요
+P1 	: 메뉴는 뭔가요?
+P0 	: 낙지볶음입니다
+P0 	: &name2&님은요?
+P1 	: 저는 잔치국수 배민시켜서 먹엇어요
+P1 	: 탄수화물 중독자에요ㅜ
+P0 	: 오 잔치국수
+P0 	: 국수 맛나겠다
+P1 	: 좋아하는 음식 뭐에요 ? ㅎㅎ
+P0 	: 저는 마라샹궈 좋아해요 &name2&님은요?
+P1 	: 마라탕이욥!!
+P0 	: 우아우아
+P1 	: 사실 다 좋아해요 가리는거없어요
+P0 	: 저 부산인데 마라탕 맛집 서면에있어요
+P0 	: 라라관이라구
+P0 	: 저는 생미역 다시마 멍게 못먹어요ㅠㅠ
+P1 	: 가봣죠....ㅎ
+P0 	: 우와 대박
+P0 	: 부산분이세요ㅡ
+	  ?
+P1 	: 제 최애는 해산물이에요ㆍ
+P0 	: 저도 새우 전복 이런거좋아해요

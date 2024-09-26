@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014110
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세여!
+P0 	: 스포츠 보는거 좋아하세요?
+P1 	: 아아 넹 좋아해요 축구, 배구, 농구 두루두루 챙겨봐요
+P1 	: 어뗜스포츠 좋아하세요?
+P0 	: 저는 수영이나 축구랑 육상이 좋더라구요
+P0 	: 이번 올림픽도 보셨어요?
+P1 	: 네네 올림픽 경기 거의 다 챙겨봤어요
+P1 	: 높이뛰기, 수영, 배구 다 감동적이었어요 ㅠㅠ
+P0 	: 배구도 결승 못가서 너무 아쉬워요ㅜ
+P1 	: 맞아요 ㅠㅠ 다들 무릎이며 발목이며 안아픈 곳 없다고 하던데 그렇게까지 플레이 한거보면 대단하다는말밖엔 안나오네용
+P0 	: 혹시 동계올림픽도 좋아하세요?
+P1 	: 동계올림픽은 잘 안챙겨봐서 그렇게 막 좋아하진 않는데 종목은 대충 알아요
+P1 	: 동계올림픽 좋아하세요 ?
+P0 	: 막 챙겨보진 않는데 개막식이랑 폐막식은 챙겨봐요
+P0 	: 피겨스케이팅이나 봅슬레이는 보는정도?
+P1 	: 어 저두요 ㅋㅋㅋ 돌려보다가 한국선수나오면 챙겨보고 없으면 하는구나 하고 넘어가는정도?
+P0 	: 아 저도 그런데 ㅎㅎ

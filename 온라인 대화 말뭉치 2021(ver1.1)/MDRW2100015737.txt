@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015737
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 패키지는 제 체력이 안되서 힘들더라구요
+P0 	: 아하
+P1 	: 일정대로 무조건 움직이니~ 그리고 패키지는 기억에도 안남어요ㅠ
+P0 	: 숙소잡고 편히둘러보시는군요
+P1 	: 내가 알아보고 공부하고 가야지 기억에 잘남아요
+P0 	: 아 글쵸 아무래도
+P0 	: 저는 위험한거 싫어서 ㅋㅋ 안전하게 패키지한번하구
+P0 	: 가고싶은곳을 개인적으로가보고싶네요
+P1 	: 그것도 좋죠~ 제일 가고싶은곳은 어디세요?
+P0 	: 글쎄요.. 일본가고싶네요
+P1 	: 일본은 혼자나 개인적으로 걱정없이 다니기 안전하긴해요 혹시 어디지역이요?
+P0 	: 아 대마도랑 북해도가봤었는데 다른데도 가보싶네요
+P1 	: 오 북해도는 어때요? 거긴안가봤어요 게가유명하던데
+P0 	: 거기는 추운동넨데 자연이 멋져요
+P1 	: 그 협곡? 눈많이올때 가보고싶어요 추위많이타서 그건 싫지만 멋진 광경일꺼같아요
+P0 	: 저는 여름에갔는데 녹색풍경이 좋았어요

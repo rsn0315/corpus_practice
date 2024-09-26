@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033987
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 중고거래 해보신 적 있으세요?
+P1 	: 네 당근거래 해봤어요ㅎㅎ 해보셨나요?
+P0 	: 네! 두번 해봤어요!!
+P0 	: &name2&님은 물건 파시는거였나요?
+P1 	: 네 저는 파는것만 해봤어요ㅎㅎ 어떤거 거래하셨어요?
+P0 	: 저는 당근에서는 파는것만 했고 중고나라에서는 게임기 샀어요!
+P0 	: &name2&님은요?
+P1 	: 오 중고나라ㅎㅎ 사기 많다고 해서 무섭더라구요
+P1 	: 저는 공기계 팔아봤어요ㅎㅎ
+P0 	: 저 뭣도 모르고 거래한게 잘 돼서 다행이었던 중고나라 첫 거래였어요ㅋㅋㅋㅋㅋ
+P1 	: 오 다행이네요ㅋㅋㅋ사실 사기꾼만 있는건 아닌거 아는데 꺼려져요ㅋㅋ
+P0 	: 그죠 막 택배거래했는데 벽돌들어있다 그러고.. 직거래 해야 그나마 좀 믿을만 한거 같아요
+P1 	: 맞아요..저도 파는 입장이네 흠있을까봐 엄청 인절부절했어요ㅋㅋ
+P0 	: 오 맞아요 그래서 물건 사진 올릴때 흠 있는 부분은 사진 따로 찍어서 올리고 글에도 써둬요 흠이나 하자 있으니까 염두에 두고 구매 결정하시라고
+P1 	: 네...또 막 이상한 분걸리면 환불해달라고 한다구해서...겁났었네요ㅋㅋ
+P0 	: 와 맞아요ㅋㅋㅋㅋ 요즘은 환불 안된다고 글에다 미리 고지하는 분들도 계시더라구요
+P1 	: 오 저도 다음엔 그래야겠어요ㅋㅋ

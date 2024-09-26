@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008244
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 경기 직관해보셨나요?
+P1 	: 아니요
+P1 	: &name1&님은 해보셨나요?
+P0 	: 네.. 티켓은 남편이 티켓링크에서 사더라구요.
+P1 	: 어떤 경기 보셨나요?
+P0 	: 무난한 야구, 축구요.
+P1 	: 그냥 구경인가요? 아니면 팬으로써 응원가신건가요?
+P0 	: 남편이 광팬이기도 하고.. ㅎ
+	  그냥 놀러갈겸 가기도 했어요.
+P1 	: 어떤 팀 팬이신가요?
+P0 	: 남편은 두산
+	  저는 기아요.
+	  님도 야구 응원팀이 있으신가요?
+P1 	: 아니요 저는 야구는 경기를 이해 못하겠더라고요
+P1 	: 요즘도 경기입장 가능한가요?
+P0 	: 잘모르겠어요. 제가 갈 생각이 없어서요.
+P1 	: 아 하긴 요즘은 코로나가 심각하니까요
+P0 	: 나중에 기회되면 배구도 직관하려구요.

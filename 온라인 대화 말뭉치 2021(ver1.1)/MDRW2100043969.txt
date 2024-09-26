@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043969
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 전 오늘 전복 버터구이 먹었어요 &name1&님은요?
+P0 	: 앗 저는
+P0 	: 닭볶음탕 먹었습니다
+P0 	: 전복버터구이 맛있겠니요ㅠㅠ
+P1 	: 우와!! 맛난거 드셨네요 만들어 드셨나요?
+P0 	: 네넹 사촌동생이
+P0 	: 해줬어요!
+P0 	: &name2&님도 해드신 건가요?
+P1 	: 전 제가 해먹었어요 ㅠ 무려 한시간 걸렸습니다 ㅠ
+P0 	: 헉..
+P0 	: 전복손질이 오래걸리셨나요?ㅠㅠ
+P1 	: 저 두번째 전복 손질이었거든요 ㅠ 제가 요리에 소질이 없어서...
+P0 	: ㅠㅠㅠㅠㅠ 해산물 손질은
+P0 	: 워낙 어렵고 힘드니까요 흑흑..
+P0 	: 시간이 많이 걸리져ㅠㅠㅠㅠ
+P1 	: 전복이 막 버텨요 ㅠ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 살아있는 전복이었나요
+P1 	: 어휴 네.. 두마리가 붙어 있는게 제일 난감했어요
+P0 	: ㅠㅠ힘드셨겠어요

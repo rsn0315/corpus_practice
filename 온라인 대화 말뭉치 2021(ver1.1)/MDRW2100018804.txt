@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100018804
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 놀라는 표정이 귀여워요
+P1 	: 우와
+P1 	: 궁금하네요
+P1 	: 나중에 돋보기로 보여주세요
+P0 	: 좋아요ㅎㅎ 거미 밥 주려고 파리 잡고있어요!
+P1 	: 저도 생선 잡으러 가야겠어요
+P1 	: 파리는 주로 양시가시나요?
+P0 	: 옛날엔 양식했는데 입맛이 까다로워서 자연산만 먹더라구요
+P1 	: 우와 참 지배인이시네요.
+P1 	: 거미들이 좋아하겠어요.
+P0 	: 집사의 본분을 다 하려고 해요ㅎㅎ &name3&주인님은 뭐 하고 계세요?
+P1 	: 이름도 있나요?
+P0 	: &name4&이요??
+P1 	: 아 이름이 &name4&인 거에요.
+P1 	: ?
+P0 	: 네ㅎㅎ 거미 이름이 &name4&이에요!
+P1 	: 이런
+P1 	: 실수를 했네요
+P1 	: 성이 &name4&고 이름이 &name4&인 건가요?
+P0 	: 성은 무음처리했어요! 바프처럼요ㅎㅎ 이름이 &name4&이에요
+P1 	: 아하

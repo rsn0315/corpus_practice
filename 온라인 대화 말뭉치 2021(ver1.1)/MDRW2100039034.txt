@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100039034
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 소고기가 좋나요 돼지고기가 좋나요?
+P1 	: 저는 개인적으로 둘 중 돼지고기 선호해요
+P0 	: 돼지고기 맛을 좋아하나요?
+P1 	: 음 돼지고기가 더 익숙해서 그런거같아요ㅋㅋㅋ
+P0 	: 저는 소고기가 좋아요ㅎ
+P1 	: 좋은 이유는요?
+P0 	: 비싸서...?ㅋㅋㅋㅋ
+P1 	: 앜ㅋㅋㅋㅋㅋ 그쵸 한우는 비싸니까요
+P0 	: ㅋㅋㅋㅋ그리고 씹을수록 고소해서 좋아해요ㅎ
+P1 	: 소고기의 맛을 제대로 느끼려면 구워서 그냥 먹던가 소금을 아주 조금만 찍어서 먹어야한다 하더라구요
+P0 	: 오 그렇군요ㅎㅎ 저는 허브솔트를 애용했죠ㅎ
+P1 	: 허브솔트 좋네요

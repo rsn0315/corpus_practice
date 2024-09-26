@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029786
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장인이세요?
+P0 	: 네 회사다니고 있어요
+P0 	: &name2&님은 어떤일을 하세요?
+P1 	: 저는 그냥 회사원이에요 ㅋㅋ &name1&님은요?
+P0 	: 저도 그냥 회사원ㅋㅋ
+P0 	: 회사는 맘에드시나요?
+P1 	: 무난해요ㅋㅋㅋ 여태 다녔던 회사중에 제일 무난...
+P0 	: 여러군데 다니셨군요
+P1 	: 네맞아요 ㅋㅋ 출근하셨나요
+P0 	: 네 출근해서 메일이랑 공람 확인하고 커피 한 잔하고있어요
+P0 	: &name2&님의 업무는 뭐에요?
+P0 	: 회사에서 하는 일
+P1 	: 저는 영업관리에요ㅋㅋㅋ 출하내보내고 가끔 발주도받고 재고맞추고 마감치고
+P0 	: 업무강도는 어때요
+P0 	: 부담스럽거나 어렵거나 하지는 않아요?
+P1 	: 네 엄청 무난해욬ㅋㅋ 사실 그래서 비전이없네요
+P0 	: 아ㅋㅋㅋ 저도 업무강도 낮은건 맘에 드는데 내가 여기서 뭘 더 배울수 있을까 싶네요
+P1 	: 아 다들 똑같은 고민이네여 ㅋㅋㅋㅋ

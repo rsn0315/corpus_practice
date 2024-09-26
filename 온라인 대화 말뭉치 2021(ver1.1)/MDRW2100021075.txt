@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 전 피자는 피자헛걸 주로 먹어요
+P0 	: 테이크아웃 할인률이좋아서요
+P1 	: 가끔 통신사 할인 할때 좋아요40%할인
+P1 	: 음식은 주로 어떤것 해서 드시나요?
+P0 	: 전 좀 쉬운거요 토마토 계란볶음 같은거요 &name2&님은요?
+P1 	: 전 부대찌개. 미역국. 김치찌개
+P0 	: 우와 국종류를 잘하시는 구나 국 저도 좋아해요
+P1 	: 다른 반찬많이 필요하지 않은. 음식 위주로 해요
+P1 	: 메인 음식 김치
+P0 	: 아하 전 좀 편한 메인반찬만드는걸 좋아해요
+P0 	: 토마토 볶음ㄱㅌ은,,
+P1 	: 토마토 계란볶음도 맛있죠
+P0 	: 쉽고 편하구요 ㅋㅋ 너무 조 ㅎ아요
+P1 	: 김치볶음밥도 즐겨해먹어요
+P0 	: 저도요 편하고 김치처리도 하고,,, 아무거나 넣어도 ㅁ사잇구요
+P0 	: 김볶은 참치파? 돼지고기파? 햄파? 뭐세요?
+P1 	: 스팸도 넣고 참치도넣고가끔 고기도 넣는데 스팸이 젤 맛나요
+P0 	: 그렇군요 짭잘하고 돼지라서 좋아요
+P0 	: 참치나 일반 고기는 간이 좀 덜된느낌이죠
+P1 	: 굴소스를 넣어보세요. 볶음요리에 굴소스 넣으면 맛있어요
+P0 	: 굴소스 저도 좋아해요
+P0 	: 간장 굴소스 자주 써요

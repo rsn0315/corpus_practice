@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100018795
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이직 해보셧나요?
+P1 	: 아직 학생이에요 &name1&님은 해보셨나요?
+P0 	: 저는 몇번 해봤어요..
+P0 	: 구직 스트레스는 없으세유?
+P1 	: 저는 아직까지는 꽃밭이라 심각하게 해본적은 없네요. &name1&님은 취업 안어려우셨나요?
+P0 	: ㅎㅎ 네.. 저는 타겟이 확실해서 하고 싶은일 했던거 같아요..
+P1 	: 취업이 상대적으로 편한 직업을 가지셨나봐요?
+P0 	: 그..... 남들이 많이하지 않는 분야랄까..
+P0 	: 반도체 계열.. 일본어라는 분야를 확실히 정해놓고 그 분야만 팠어요..
+P1 	: 우와 그럼 반도체에다가 일본어까지 하실 수 있는건가요?
+P0 	: 네.. 일본어가 워낙 좋았고.. 
+	  전공이 반도체라..  장비쪽이 대부분 일본꺼 거든요..
+P1 	: 와 대단하신데요 이정도면 모셔가는 정도 아닌가요?
+P0 	: 딱 좁은분야 정해 놓으니까.. 
+	  비교적 취직 쉬웠어요.. ㅋㅋㅋ
+P0 	: 어떤분야 일하고 싶은세요?
+P1 	: 저는 사무직이요 사실 대학은 사람 대면하는 직업쪽으로 왔는데 전 사람 대면하기 싫거든요ㅋㅋㅋ
+P0 	: 하긴.. 대면하는 일은... 진상들 너무 많죠..
+P1 	: 맞아요 사람 대하는거 한번 트라우마 겪으면 사람이 진절머리가 나더라고요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100007112
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 올 여름에 혹시 다녀오신 여행지 있으신가요?
+P1 	: 저는 순천 쪽에 바다보러 잠깐 다녀왔어요!
+P0 	: 전남 순천 말씀하시는 거죠?
+P0 	: 전라도 쪽은 안 가봐서.. 순천은 뭐가 유명한가요??
+P1 	: 저도 이번에 처음 가봐가지고 잘은 모르는데
+P1 	: 닭구이 유명하대서 먹었어요!
+P0 	: 오호 닭구이... 맛있었겠어요!
+P0 	: 평소에 여행 다니는 거 좋아하시나요
+P0 	: ??
+P1 	: 자주는 아니지만 여름마다는 대부분 갔었던 것 같아요
+P0 	: 저도 여름한번 겨울한번은 약간 의무적으로...ㅎㅎ
+P0 	: 올 여름도 코로나 때문에 걱정은 됐는데 결국 양양 한 번 다녀왔네요
+P1 	: 오 저는 양양 안 가봤어요!
+P0 	: 저도 진짜 오랜만에 가 봐요
+P0 	: 요새 서핑이 유행이라더니 서핑하기 좋게 해놨더라구요
+P0 	: ㅋㅋㅋㅋ
+P1 	: 오 서핑 재밌겠어요! 그럼 가서 해 보셨나요?
+P0 	: 네 저는 몇번 해봤어요!
+P1 	: 헐 멋있으세요 올림픽 서핑 봤는데 완전 스릴 넘치던데
+P0 	: 아 그거랑은 많이달라요...............
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 저는 한 50번정도 구르고 1번씩 타요

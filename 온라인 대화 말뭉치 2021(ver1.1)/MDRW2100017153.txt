@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100017153
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리 하시나요??
+P0 	: 잘 못해요 ㅠㅠ 잘 하세요??
+P1 	: 아뇨 저도 간편식 정도?
+P1 	: 배달은 많이 시켜드시나요?
+P0 	: 엄청 시켜먹어요 ㅋㅋㅋ
+P1 	: ㅋㅋ 뭐 제일 자주 시켜드세요??
+P1 	: 로제떡볶이?
+P0 	: 요샌 유가네닭갈비가 맛있더라구요
+P1 	: 저는 유가네닭갈비 닭갈비보다
+P0 	: ㅋㅋㅋ 로제떡볶이도 자주 먹어요 또 먹고 싶네요
+P1 	: 닭갈비볶음밥이
+P1 	: 그렇게맛있더라구요
+P0 	: 맞아요 그 양념에다가..
+P1 	: 그래서 배달시킬 때 볶음밥만 시켜먹어요 ㅋㅋ
+P1 	: 어디 로제 제일 좋아하세요?
+P0 	: 저는 신전 좋아해요 양도 적당하고 꾸덕해서 맛있어요
+P1 	: 오 아직 신전 로제는 못먹어봤어요
+P1 	: 배떡 삼첩 명랑 엽떡 까지는 먹어봤는데
+P0 	: 와 많이 드셔보셨네요 명랑까지
+P0 	: 저는 배떡 삼첩 신전이요 ㅋㅋㅋ
+P1 	: 명랑 그제 먹어봤어요! 맛있더라구요
+P0 	: 명랑에 로제파는줄은 몰랐어요

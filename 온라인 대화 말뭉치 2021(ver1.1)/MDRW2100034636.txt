@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034636
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 카페 다니시나요
+P0 	: 케이크 먹고싶을때 가요
+P0 	: &name2&님은요?
+P1 	: 저도 종종 다녀요 어느 체인 좋아하시나요
+P0 	: 투썸이요!
+P0 	: 케이크가 맛있더라구요
+P1 	: 맞아요 투썸 케이크가 맛있죠^: 뭐좋아하세요
+P0 	: 요즘 티라미스에 빠졌어요
+P0 	: 케이크 좋아하세요?
+P1 	: 네 좋아하죠 전 초코도 좋아해요
+P0 	: 오우 초코도 맛있죠
+P0 	: 어느체인 자주 가세요?
+P1 	: 저는 스타벅스도 자주 가요 쿠폰이 많이 생기더라구요
+P0 	: 쿠폰은 확실히 스타벅스가 많더라구요
+P1 	: 네 선물 주고받기도 스벅이 무난하죠
+P0 	: 맞아요 매장도 많고요!
+P1 	: 스타벅스 가면 뭐드시나요?
+P0 	: 카페모카 자주마셔요
+P0 	: 어떤거 드세요?
+P1 	: 저는 두유라떼요^^

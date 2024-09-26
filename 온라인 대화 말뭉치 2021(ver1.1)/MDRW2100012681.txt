@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012681
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 아니요 배우자는 없습니다
+P0 	: 언제쯤?
+P1 	: 언제쯤은 어떤걸 말씀하시는걸까요?
+P0 	: 결혼 계획이요
+P1 	: 아직 결혼 계획은 없습니다
+P1 	: &name1&은 결혼 계획이 있으신가요?
+P0 	: 전 했어요
+P1 	: 어떻게 연애를 하시게 되셨는지 여쭤봐도 될까요?
+P0 	: 친구 소개로ㅠ만나 1년
+P1 	: 연애 1년 뒤에 결혼을 하신걸보면 상대분이 이상형이셨나봐요
+P0 	: 말이 잘 통하는사람이요
+P1 	: 이상형이 말이 잘 통하시는분이셨군요
+P1 	: 이상형 만나신 것을 축하드려요
+P0 	: 꼭 그렇진 않아요

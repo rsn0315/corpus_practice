@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100027544
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요!
+P0 	: 학생이세요?
+P1 	: 네 대학생이에요!
+P0 	: 뭐 전공이세용?
+P1 	: 저는 미술 쪽 전공이에요! 어제 개강했어요ㅎㅎ
+P0 	: 우와 고생하셨겠네요ㅜ
+P0 	: 미술 전공하시는 분들 뭔가 멋있어요!!
+P1 	: ㅎㅎ 으악 감사해요!! &name1&님도 학생이신가요?
+P0 	: 네네!! 근데 아직은 조금 어려요ㅜㅎㅎ
+P1 	: 아 그렇군요! 요즘 학교 나가고 계신가요?
+P0 	: 아뇨 코로나 때문에 비대면 수업으로 진행하고 있어요!
+P1 	: 아ㅠㅠ 그렇군요
+P1 	: 대면이랑 비대면 중에 어떤 게 더 나아요?
+P0 	: 매번 달라요 각자의 장점이 있는 것 같아요!

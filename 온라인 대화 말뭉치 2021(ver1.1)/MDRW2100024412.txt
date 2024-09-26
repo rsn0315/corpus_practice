@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100024412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: ㅎㅎ &name2&님은 무슨 일 하세요?
+P1 	: 직장 다니시나요?
+P1 	: 저는 발전소에서 근무해요
+P1 	: 오늘은 휴가라 출근을 안해요
+P0 	: 오 발전소 멋지네요!!
+P1 	: &name1&님은 어떤일을 하시나요?
+P0 	: 전 아직 학생이라 아르바이트만 하고 있어요!
+P1 	: 학생이시구나
+P0 	: 발전소일은 어떠세요?
+P0 	: 힘드신일 있으신가요?
+P1 	: 가끔 제가 담당하는 주요설비가 고장나거나 문제 발생하면
+P1 	: 새벽이나 주말에도 연락오는점
+P1 	: 이런게 조금 스트레스죠
+P1 	: 그 외에는 만족해요
+P0 	: 헉 새벽에도 일을 해야 하나요?
+P1 	: 작년 태풍왔을때
+P1 	: 딱 한번 그런경우 있었어요
+P0 	: 그런점은 좀 힘들겠네요ㅜㅠ
+P1 	: 아무래도 그렇죠
+P0 	: 저도 만족할만한 직업을 찾고 싶네요ㅎㅎ

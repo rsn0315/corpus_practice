@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038057
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 근데 탄산 강도가 어느정도인지 감이 안잡혀서ㅠ
+P1 	: 오 왜안사셨나요
+P0 	: 탄산강도 어때요??
+P1 	: 그건 가스가 새거일땐 세고..ㅎ
+P1 	: 가스가 팁이에요
+P0 	: 아 그 탄산캡슐이 중요하군요ㅎ
+P0 	: &name2&님은 탄산수 즐겨 드시나요?
+P1 	: 전 있으면 잘먹어요
+P0 	: 맥주는요?
+P1 	: 맥주도좋죠
+P1 	: 막걸리도좋구요
+P0 	: 특별히 찾는 막걸리 브랜드 있나요??
+P1 	: 아 느린마을막걸리 좋더라구요
+P1 	: &name1&님은요?
+P0 	: 느린마을 막걸리 맛있죠ㅎㅎ
+P0 	: 저는 영탁 팬은 아니지만 영탁막걸리 자주 마시거나 탄산 쎈 월매 먹어요
+P1 	: 오 또 다른막걸리군요 제가 먹어보겠습니다 저는 복분자주나 단거좋아해요
+P0 	: 복분자주 맛있죠ㅎㅎ

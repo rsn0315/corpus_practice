@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029341
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 최근에 뭐삿어요?
+P1 	: 그립톡 샀어요
+P0 	: 어디서요?
+P1 	: 다이소에 갔다가 다람쥐를 발견해서...
+	  사버렸어요
+P0 	: 얼마죠 ?
+P1 	: 천원이요
+P0 	: 퀄리티는 어때요 ?
+P1 	: 나쁘지 않아요 
+	  지금까지는 마음에 들어요
+P0 	: 접착력 떨어지면 강력본드 붙이면 되요.
+P1 	: 오 좋은 팁이네요 
+	  그립톡을 난생 처음 써보고 있어요
+P0 	: 아무리 비싼거를 써도 떨어져서
+	  케이스 하나 버리는셈치고 붙혀야해요.

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035478
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~저녁 어떤거드시나요
+P0 	: 밥이랑 집에 있는 반찬으로 일찍 먹었어요
+P0 	: &name2& 님은요?
+P1 	: 저는 치킨과 피자중에 고민중이에요
+P0 	: 맛있겠네요! 전 치킨 피자 중에서는 항상 고구마피자 먹어요
+P1 	: 오오 저도 고구마피자좋아해요
+P0 	: 고구마피자는 웬만하면 실패가 없어서 좋아요
+P1 	: 맞아요 또 어떤 토핑 좋아하시나요
+P0 	: 흠 피자는 항상 고구마만 먹어서 모르겠어요ㅋㅋ
+P1 	: ㅎㅎㅎ결국저녁은 치킨을먹었어요!
+P0 	: 맛있게 드셨나요?ㅋㅋ
+P0 	: 전 친구랑 논알콜 맥주 마셨어요
+P1 	: 논알콜맥주 좋죠 ㅎㅎ요즘 칼로리엄청낮은ㅁ무알콜 맥주도 있더라구오ㅡ
+P0 	: 맞아요 전 처음 먹어본건데 살짝 과일맛도 나고 맛있더라고요

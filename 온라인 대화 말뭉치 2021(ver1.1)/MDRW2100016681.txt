@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016681
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스벅에서 프리퀀시 모아서 다이어리나 레디백 같은 거 겟한 적있으세요?
+P1 	: 스벅꺼는 없고 콜라보레이션한 먹을 꺼는 먹어좠어요
+P1 	: 먹어봤어요
+P0 	: 요즘 추세가 콜라보, 짬뽕시켜서 상품을 만들어내더라구요.
+P1 	: 맞아요 뭔가 콜라보 제품들은 디자인이 귀여워서 좋아요
+P0 	: 밀가루 회사 곰표에서 만든 맥주가 핫했잖아요.
+P1 	: 그러니까요 드셔보신 적 있으신가요?
+P0 	: 아직 취음전인데요.
+	  맛이 궁금하긴합니다.
+	  세븐일레븐에서 롯데월드에서 간편식을 파는데 맛스럽게 생겼더라구요.
+P1 	: 세븐일레븐에서 롯데월드에서 파는 간편식을 출시한건가요?
+P0 	: 네.. 두 업체에서 제휴했다고..
+	  둘 다 롯데 계열사라서 가능했을려나요.ㅎ
+	  상생하기 위해 손잡는 기업이 많더라구요.
+P1 	: 맞아요 대부분의 콜라보는 괜찮고 재밌는 경우가 많은데 잘못하면 비난받기 쉽죠
+P0 	: 음악분야에서도 콜라보가 성행하네요.
+P1 	: 같은 분야에서도 하지만 다른 분야에서도 많이하죠
+P0 	: 다른 분야들끼리 만나는게 시너지효과가 큰 거 같아요.

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030576
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>자영업 고용 한파
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 자영업자이신가요?
+P0 	: 아니요
+P0 	: 주변에친한언니네가 자영업자요
+P1 	: 고용한파어떻게 생각하시나요?
+P0 	: 인건비가 넘비싸서
+P0 	: 덜팔고 사람안쓴다고하더군요
+P1 	: 인건비가 비싸지니 파는음식값도 엄청오르는듯해요
+P0 	: 맞아요
+P0 	: 그러다보니 사람을 안쓰고
+P1 	: 인건비가 오른다고 다좋은건아닌듯하더군요
+P0 	: 옛날엔 오천원이면 밥한끼 사먹었는데
+P0 	: 지금은 오천원짜리 찾기가 어려워요
+P1 	: 착한음식점이죠
+P1 	: 그정도가격이면
+P0 	: 수입보다 지출이많아지면 일 안하는게 낫다고 생각하는것같아요
+P0 	: 인건비주고나면 남는게없으니
+P1 	: 요즘시대 자영업자진짜힘들듯하더라구요
+P0 	: 가장 많이줄일수있는게 인건비인듯

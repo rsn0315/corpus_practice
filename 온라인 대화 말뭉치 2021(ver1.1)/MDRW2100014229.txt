@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014229
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 오늘 드신 식음료는 어떤게 있으세요?
+P0 	: 저는 오늘 짬뽕을 먹고 아이스아메리카노와 샤인머스캣 쥬스를 마셨어요:)
+P1 	: 저는 떡볶이를 먹고 민트초코 우유를 마셨어요
+P1 	: 샤인머스캣 쥬스 궁금하네요ㅋㅋㅋ
+P0 	: 우와 민초단이시군요
+P0 	: 투썸플레이스에 샤인머스캣 에이드가 새로나왔더라구요
+P1 	: 네 민초단ㅎㅎ
+P1 	: 심지어 에이드라니 맛있을 것 같아요
+P1 	: 어땠어요?
+P0 	: 안에 코코젤리도 들어서 상큼하고 좋았어요
+P0 	: 떡볶이맛있었겠어요!
+P1 	: 네 떡볶이 좋아해서요ㅋㅋㅋ
+P1 	: 생각나서 먹었어요
+P1 	: 짬뽕은 배달시키신거예요?
+P0 	: 아 회사에서 점심에 앞에 나가서 먹었어요
+P1 	: 훨씬 맛있게 드셨구나
+P1 	: 저녁은 뭐드세요? 전 고민중인데
+P0 	: 전복중이에요 뭐드세요
+P1 	: 저는 카레 먹을것 같아요
+P1 	: 전복죽 맛있겠다 죽안먹은지 진짜 오래됐어요
+P0 	: 우와 카레 부럽다
+P1 	: 얼른 집에가서 먹어야겠어요 배고프네여ㅜㅠ
+P0 	: 네 저도 곧 먹으려구요

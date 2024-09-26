@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015978
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 너는 무슨 음식을 제일 좋아해?
+P0 	: 나는 지금 연어회가먹고싶어
+P1 	: 나는 지금 떡볶이가 너무 먹고싶다
+P0 	: 나도 떡볶이 좋아해
+P1 	: 로제 떡볶이 먹어봤어?
+P0 	: 한 번 먹어봤어! 엽기떡볶이에서
+P1 	: 오 배떡 에서 파는 로제 떡볶이 도 맛있더라고
+P0 	: 배떡에 신메뉴도 있다던데
+P1 	: 아 떡볶이에 핫도그 찍어먹으면 맛있대
+P0 	: 하긴 어울릴것 같긴해  해먹어봤어?
+P1 	: 나도 아직 안먹어봐서 다음에 시도해보려고
+P0 	: 핫도그 하니까 통모짜먹고싶다
+P1 	: 아 명랑 핫도그 맛있는데
+P0 	: 소스가 다양해서맛있어
+P1 	: 칠리소스에 치즈 가루 잔뜩 뿌려먹고싶다
+P0 	: 먹으러가자

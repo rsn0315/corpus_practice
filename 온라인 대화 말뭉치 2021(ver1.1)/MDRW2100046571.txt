@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046571
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211102
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 주말은 잘 보내셨나요?
+P0 	: 넹 잘보냈습니다
+P1 	: 뭐 특별한 일 있으셨나욤?
+P0 	: 주말에 시험을 봤어요!
+P1 	: 오오 무슨 시험 보셨어요!
+P0 	: 전공시험이요!
+P1 	: 아이고 잘 보셨나요 
+P0 	: 나쁘지 않았던 것 같아요
+P1 	: 시험보고 할로윈은 즐기셨는지..
+P0 	: 아뇨ㅠㅠ
+P1 	: ㅠㅠ왜요
+P1 	: 물론 코로나때문에 제대로 놀기 힘들긴 했지만 ㅠㅠ
+P0 	: 주말  내내 바빴어요
+P1 	: 그래도 시험 끝나셨으니 조금 여유 챙기시면 좋겠네요 ㅎㅎ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 저녁드셨나요?
+P1 	: 네. 짜장 먹었어요
+P0 	: 짜장맛있죠 저는 순두부찌개 끓여먹었어요!
+P1 	: 오.. 요리 잘하시나봐요 ㅎㅎ
+P0 	: 다담 순두부찌개라고 있는데 이거넣고 물붓고 순두부 넣으면 끝이에요ㅋㅋ 다담 소스 꼭 드셔보세요 짱맛
+P1 	: 오 저희집도 그거 애용해요 ㅎㅎㅎ 진짜 맛잇죠 
+P0 	: 아시는군요 진짜 자취생만나면 꼭 먹어보라고 권유하고 다녀요ㅋㅋ 다담 소스에서 순두부찌개말고 드셔보신거있나요?
+P1 	: 저는 모르겟는데
+	  제친구말로는 부대찌개요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 네 그거요ㅋㅋ 꼭 드셔보세요 소스 물 순두부 세가지만 있으면 순두부 맛집입니다ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ아는맛이라.갑자기 급 먹고싶어지네여 ㅜㅜㄴㄴㄴ
+P1 	: ㄴㄴㄴ 는 오타
+P1 	: 입니닷
+P0 	: 아는맛이 제일 괴롭죠ㅋㅋ그래서 제가 라면을 못 끊어요 &name2&님은 라면 좋아하시나요?
+P1 	: 네.. 저는 불닭볶음면이랑 짜장라면이랑 너구리 같은 라면이요 ㅎㅎㅊ
+	  &name1&님은요?
+P0 	: 세개다 처돌이 입니다ㅋㅋ저는 요즘 멸치칼국수 에 빠졌어요 멸치칼국수 라면 드셔보셨나요?
+P0 	: 감칠맛 대박이에요

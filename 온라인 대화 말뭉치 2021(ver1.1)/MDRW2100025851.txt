@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100025851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요새 일은 어때요
+P1 	: 굿
+P1 	: 내다
+P1 	: &name1&
+P0 	: 오늘 언제 퇴근하시나용
+P1 	: 그저그래요 일이죠뭐
+P1 	: 6시에요 칼퇴해요
+P0 	: 우와 부러우어ㅛ
+P1 	: &name1&는요?
+P0 	: 부러워요 전8시에 퇴근해요
+P0 	: 8시가 칼퇴랍니다
+P1 	: 출근이 늦은거 아녀요?
+P0 	: 출근은 10시까지긴 해용 몇시 출근하세요
+P1 	: 8시40분에 해요
+P0 	: 우와 몇시에 일어나세요 그럼
+P0 	: 출근 힘들겠어요
+P1 	: 8시10분이요 ㅋㅋ
+P0 	: 오 그래도 숙소랑 가까운가보네요
+P0 	: 이직생각은 없으신가요
+P1 	: 일찍 일어나야 하는데 넘 딱 맞춰 일어나서 사람 구실만 하고 출근하네요
+P1 	: 차로 5분거리
+P0 	: 그래도 출근할 수 있어서 다행입니다
+P1 	: 이직은 비밀 ㅋㅋ
+P1 	: 네..
+P1 	: 감사한 마음으로 다니겠습니다
+P0 	: 직장은 맘에 드시나요
+P1 	: 맘에 들어요 연말 인사이동 후엔 어떻게 될지 모르겠지만
+P1 	: 아직은 만족합니다
+P1 	: &name1&는 대구 자주 가나요?
+P1 	: 직업적으로
+P0 	: 동생 공무원 무슨직종인거요?

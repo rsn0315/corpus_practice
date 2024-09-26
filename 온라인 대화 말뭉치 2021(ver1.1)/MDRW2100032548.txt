@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032548
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물있으신가요?
+P1 	: 네네 지금도 옆에 있어요{emoji:♡} 강아지
+P0 	: 우와 무슨종이에요?
+P1 	: 치와와에요 너무 기여워요
+P0 	: 우왕ㅎㅎ
+P0 	: 애교만ㅎ아요?
+P1 	: 네네 말도 넘 잘듣고 근데 밥을 잘 안먹어요ㅠㅠ
+P0 	: 오잉ㅜㅜ
+P0 	: 간식은먹어요?
+P1 	: 네 방금 사과 나눠먹었어요 ㅋㅋ
+P0 	: ㅎㅎㅎ
+P1 	: 너무 이뻐요 반려동물 있으세요?
+P0 	: 저는없는데동물좋아해요~
+P0 	: 몇살이에요?
+P1 	: 4살이에요 너무이뻐요
+P1 	: 어떤동물 좋아해요?
+P0 	: 저는고양이,강아지 다 좋아해요
+P0 	: 힐링되실것같아요

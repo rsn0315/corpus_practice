@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100014377
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물 키우세요?
+P0 	: 아니요.. 근데 다 조아해요..
+P0 	: 멍멍이 야옹이.. 공룡.. 독수리? ㅋㅋㅋ
+P0 	: 뭐 조아하세요ㅡ
+P1 	: 저도 동물 다 좋아해요 벌레 빼고ㅋㅋ
+P0 	: 맞아요.. 벌레는... 윽..
+P0 	: 그래도 파충류 사랑하시죠? ㅋㅋㅋㅋ
+P1 	: 네 파충류까진 괜찮네요ㅋㅋ
+P0 	: 윾... 전 파충류 징그러워서 싫은데.. ㅋㅋ 
+	  뭐키워보신거 있나요ㅏ
+P1 	: 저 강아지랑 햄스터요ㅋㅋ 호랑이님은요?
+P0 	: 햄스터 키우기 어렵나요?
+P1 	: 어릴때라 오래 키운게 아니라 잘 모르겠어요
+P0 	: 햄찌도 너무 귀여운데.. 
+	  그것도 생명이라 시도하기 어렵네요..
+P1 	: 네 병원 데려가긴 오히려 힘들거 같더라고요
+P0 	: 전 고양이 너무 키우고 싶어요
+P1 	: 고양이 귀엽죠
+P1 	: 요즘 길고양이들 많이 보이더라구요
+P0 	: 길고양이도 귀여운데.. 캣맘문제도 심각하더라구요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 퍼먹는게 더 낫죠?? ㅋㅋㅋ
+P0 	: 네ㅋㅋㅋㅋ 하프갤런이 더 싸고 좋아하는 것만 먹을 수 있어서 훨배 더 나아요ㅋㅋㅋ
+P1 	: 아이스크림 가격이 너무 비싸요 ㅠㅠ
+P0 	: 맞아요 무슨 한스쿱에 3200원... 깊티 받았을때만 먹어요ㅠ
+P1 	: 맞아욬ㅋㅋㅋ 생일때만 먹어요 저는 ㅋㅋ
+P1 	: 마트에서 먹어도 만족합니다 ㅋㅋ
+P0 	: 맞아요ㅋㅋㅋ 그 돈으로 최소 바 아이스크림 5개는 먹을 수 있어요 가성비 왕별로..
+P1 	: 찰떡 아이스크림 좋아하세요?
+P0 	: 네 찰떡아이스 좋아해요 양은 좀 적지만..
+P1 	: 그쵸!! 그안에 아이스크림 맛있어요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 맞아요ㅜㅠ 그것만 팔아줬으면 싶기도 해요ㅋㅋㅋ 이벤트 성이라두
+P0 	: 뭔가 호두마루 비슷한 것 같기도 하고..!
+P1 	: 맞아요!! 무슨 맛인지 표현이 안되는데 ㅠㅠ
+P1 	: 베라에서 솜사탕이랑 좀 비슷하데용
+P0 	: 오옷 정말요? 완전 끌리는데요! 솜사탕 그 찐득거리는 것만 빼면 맨날 먹고싶네요ㅜ
+P1 	: 그쵸 ㅠㅠ

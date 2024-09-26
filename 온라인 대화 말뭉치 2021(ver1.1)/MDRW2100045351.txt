@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100045351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 먹어보고싶은 고기
+P0 	: 아웃백에잇어
+P1 	: 놉
+P0 	: 엄마가 먹어봣어
+P1 	: 놉
+P0 	: 소고기야
+P1 	: 응
+P0 	: 안심이야
+P1 	: 아니
+P0 	: 덩어리야
+P1 	: 응
+P1 	: 소스?응
+P0 	: 한우스테이크
+P1 	: 오오오오
+P0 	: 이게맞다니

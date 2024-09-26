@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011183
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 봉사활동 최근에 하신 거 있으신가요?
+P0 	: 봉사활동을 자주하진 못했어요ㅠㅠ
+P1 	: 하셨던 봉사활동은 어떤 활동이셨나요?
+P0 	: 예전에 연탄봉사 한번 해봤어요
+P1 	: 연탄봉사 한번도 안 해봐서 궁금해요
+P1 	: 어떠셨어요?
+P0 	: 힘들긴했는데 보람있었어요!
+P0 	: 봉사활동 어떤거 해보고싶으신가요
+P1 	: 저 연탄봉사도 궁금하고 김장봉사 해보고 싶었어요
+P1 	: 학생 때 해보나 했는데 할 기회가 없었네요
+P0 	: 오 김장봉사도 있군요
+P1 	: &name1&님은 어떤 봉사활동 해 보고 싶으신가요?
+P0 	: 김장봉사 재밌을것 같아요!
+P1 	: 김장철에 김장봉사 찾아보는 것도 좋을 것 같아요!
+P1 	: 좋은 경험이 될 거라고 생각해요
+P0 	: 코로나나 할수, 있을지 모르겠네요

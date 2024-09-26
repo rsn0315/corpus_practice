@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셨어요?
+P0 	: 네~ 오늘은 불고기비빔밥 먹었어요~
+P1 	: 와 요리해서 드신거죠??
+P0 	: 아니요~ㅎㅎ식당에서 먹었어요~ㅎ
+P1 	: 맛있겠어요 참 일하셨죠??
+P0 	: 네~직장 다니고 있어요~
+P1 	: 점심은 나오는게 아니고 따로 나가서 사먹는 거에요??
+P0 	: 네~ 나가서 사먹어야 해요~점심이 나오는 직장은 참 좋을 것 같아요
+P1 	: 아 ㅠㅠ 그렇겠네요ㅠㅠ 저는 사먹는 직장은 안 다녀봐서
+P1 	: 사실 구내식당은 맛없는거 자주나와서
+P1 	: 자주 사먹곤 했는데 살이..ㅋㅋ
+P0 	: 아~그런 단점이 있을 수 있겠네요
+P1 	: 네 맨날 맛 없는거 나와서 차타고 나가서 먹고 오고 그랬는데 ㅋㅋ 돈은 돈대로 쓰고 ㅋㅋ
+P0 	: 그러게요~구내식당에서는 돈 내고 먹는거였어요?
+P1 	: 그것도 조금 나가는거였여요 ㅎㅎ 월급에서 먹든 안먹든 일부공제 ㅋㅋ
+P0 	: 아~그럼 돈 아깝네요.ㅠㅠ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100026993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 요즘 강아지 너무 키우고 싶어
+P1 	: 강아지? 한번도 키워본 적 없잖아
+P0 	: 아빠가 무서워하잖아ㅋㅋㅋ
+P0 	: 근데 엄마는 예전에 강아지 키운 적 있다며
+P1 	: 응 옛날에 진돗개 길렀지
+P0 	: 우왕 진돗개~~ 강아지 이름 뭐였어?
+P1 	: &name3&. 엄청 늠름한 개였어.
+P0 	: 그니까 우리도 늠름한 강아지 한 마리 키우면 좋잖아?
+P1 	: 강아지 키우는 게 얼마나 힘든 일인데. 돈도 시간도 많이 들어가.
+P0 	: 난 매일 산책도 시켜줄 수 있어...
+P0 	: 오늘도 산책하는 말티즈 봤는데 넘 귀여웠어
+P1 	: 말티즈는 당연히 귀엽지
+P1 	: 그래도 집에 들이는 건 너무 어려운 결정이야
+P0 	: 왜 난 벌써 강아지 종부터 이름까지 지어놨다구..
+P1 	: 그 강아지 이름 들어나보자.
+P0 	: 푸들이구 이름은 &name4& 어때?ㅡ
+P0 	: 요새 이런 이름 많이 짓더라
+P1 	: 귀엽긴 하네. 그래도 강아지 키우는 건 반대.

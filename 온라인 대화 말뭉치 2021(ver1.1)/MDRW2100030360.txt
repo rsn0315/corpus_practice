@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030360
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아침 드셨나요?
+P0 	: 오늘 2시에 눈이 떠졌네요,..,.,.,.,^^.,..,.,.!!!!!!!
+P0 	: 게으름으로 인해 5시에 아점저 먹을려고요 ㅋㅋㅠ
+P1 	: 배고프시겠어요
+P0 	: 네네 ㅠㅜ 그래도 저녁 먹으니까 괜찮아졌네요 ㅋㄱㄱㄱㅋ
+P0 	: &name2&는 저녁 드셨나요??
+P1 	: 네 간단히 먹었어요
+P1 	: 맛있는 거 드셨나요?
+P0 	: 네네 전 로제떡볶이 먹었어요! ㅎ.ㅎ
+P1 	: 오 요즘 로제떡볶이 인기 있죠
+P0 	: 처음 먹어보는데 맛있더라구요 ㅋㄱㅋㄱㅋ 인기있는 이유가 있었네요!
+P0 	: &name2&님은 떡볶이 좋아하시나요???
+P1 	: 네 떡볶이 좋아해요 쌀떡파입니다 ㅋㅋ
+P0 	: 맛잘알이시네요 역시 쌀떡이 근본이죠!!
+P0 	: 밀떡은 나가라 우우~~
+P1 	: 쫀득쫀득 맛나죠 ㅎㅎ
+P0 	: 맞아요 요즘은 밀떡으로 파는데만 많아서 아쉬워요 ㅠㅜ!!
+P1 	: 그러게요 밀떡이 유행하더라구요 ㅜ 그래서 쌀떡인지 물어봐요 ㅎㅎ

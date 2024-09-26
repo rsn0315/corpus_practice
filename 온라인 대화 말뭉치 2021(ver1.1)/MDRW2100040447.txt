@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100040447
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁드셨나요?ㅎㅎ
+P1 	: 네 분식 먹었어요
+P1 	: &name1&님은 뭐 드셨나요?
+P0 	: 오 떡볶이 튀김 이런거요?
+P0 	: 저는 집에 늙은호박이 들어와서
+P0 	: 그걸로 전 부쳐 먹었어요
+P1 	: 김밥 떡볶이 순대요 일명 김떡순이라 불리우는 메뉴로 먹었어요ㅋㅋ
+P0 	: 오 김떡순은 불변의 진리죠!!
+P1 	: ㅋㅋ 늙은호박 가을에 잘 어울리는 좋은 재료네요
+P1 	: 어릴땐 별로 좋아하지 않았어요
+P0 	: 늙은호박 맛있었는데 넘커요ㅜ
+P0 	: 며칠동안 먹어야할듯..
+P1 	: 엄청 큰 호박이 들어왔나봐요 메뉴 고민되시겠네요
+P0 	: 일단 오늘 전 부쳐서 1/3정도 먹었어요
+P0 	: 호박죽을 끓여야하나ㅠ
+P0 	: &name2&님 얘기 들으니 떡볶이 먹고 싶네요ㅜ
+P1 	: 호박죽도 좋죠 ㅎㅎ 떡볶이 좋아하세요?
+P0 	: 네 떡볶이 좋아해요ㅎㅎ
+P1 	: 저도요 쌀떡파 밀떡파 어느 쪽이세요 전 쌀떡파입니다ㅋㅋ
+P0 	: 오 저도 쌀떡!!
+P0 	: 쫄깃쫄깃

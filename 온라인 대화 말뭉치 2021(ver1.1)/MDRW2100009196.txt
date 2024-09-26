@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 무슨음식 좋아해요
+P1 	: 저 크림파스타 조아해요
+P0 	: 오 저도 파스타 환장합니다
+P0 	: 다른건요?
+P1 	: 마라탕이욤!!
+P0 	: 마라탕 맛있죠 ㅠ
+P0 	: 맛있는거만 좋아하시네용 ㅋㅋ역쉬
+P1 	: 오오 &name1&님은 좋아하시는 음식 더잇어요!?
+P0 	: 저는 해산물류 좋아해요
+P0 	: 초밥 해물찜이런거 ㅎㅎ
+P1 	: 오 전 초밥중에 연어초밥조아해요
+P0 	: 미식가시네요 ㅋㅋㅋㅋ연어초밥 진짜맛나죠
+P1 	: ㅋㅋㅋ &name1&님도 미식가신데요? 저랑 입맛 완전 비슷해요
+P0 	: 한식은 안좋아하세요?
+P1 	: 저 김치찌개 조아해요!
+P0 	: 저는 한식은 다좋아해요 ㅎㅎ 맛있는거 넘많아요

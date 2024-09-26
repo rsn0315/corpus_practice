@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100004249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 성형하셨어요?
+P1 	: 아니요!
+P0 	: 미용에 관심많으신가요
+P1 	: 넹 그런편인것 같아요
+P0 	: 잘 꾸미고 다니세용?
+P1 	: 요즘엔 마스크써서 불편해서 중요한 날에만 꾸미는 편이에요!
+	  &name1&님은 잘꾸미고 다니세요?
+P0 	: 아뇨 ㅋㅋ저도 마스크때문에 진짜 후줄근하게다녀요
+P1 	: 운동 자주 하시는 편인가요?
+P0 	: 요즘 살쪄서 조금씩 하려고 노력중이에요 ㅎㅎ
+P1 	: 저도요 코로나 터지고 집에만 있다보니 살쪘어요..
+P0 	: 그치만 또 치킨과 술을 먹을생각이라는...
+P1 	: 맛있으니까 치킨은 먹어야죠ㅎㅎ
+P0 	: 코로나때문에 살만 디룩디룩..

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100019160
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 런데이 라고 어플이 있는데
+P1 	: 인터벌로 걷다 달리다 할 수 있게 도와주는 어플이에요
+P0 	: 오 신기하네요
+P1 	: 디이어트 해보신 적 있나요?
+P0 	: 네 지금 하고 있어요
+P0 	: &name2&님은오?
+P1 	: 저는 두달 전까지 했어요
+P1 	: 얼마나 되신건가요?
+P0 	: 제대로한건 한달정도 됐어요
+P1 	: 할만하신가요? 저는 8개월정도 햇어요
+P0 	: 오.. 대단하세요
+P0 	: 틈틈히 14키로 빼고 제대로 빼보려 하고 있어요
+P1 	: 대박 14키로 대단하세요
+P1 	: 바디프로필도 찍으시나요?
+P0 	: 아직 20키로는 더 빼야해서 그때 도전해보고싶어요
+P0 	: 바디프로필 찍어보셨나요?
+P1 	: 도저히못하겠어서 8개월만에 다이어트 끝냇어요ㅠ
+P0 	: 앗ㅜㅠ 그래도 8개월하신거면 대단하세요
+P0 	: 한달도 힘든데..
+P1 	: 나중에는 슬로어터로 가자는 생각으로 한끼만 식단하고 그랫어요
+P1 	: 일반식시작하니까 끊을수가없더라구요....ㅠ

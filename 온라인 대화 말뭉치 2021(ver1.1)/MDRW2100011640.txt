@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100011640
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요.
+P1 	: 저는 전시회는 잘 안가고 공연은 가끔씩 보러가고 있어요.
+P1 	: &name1&님은 최근에 어떤 걸 보러가셨나요?
+P0 	: 저는 영화보는거 좋아합니다
+P1 	: 저도 좋아하는데 요즘은 극장가는 게 꺼려지게 돼요. 최근에 올드가 개봉해서 보러갈까 생각 중이에요.
+P1 	: 코로나19 때문에 조금 무섭긴 하지만 재밌어보여서요.
+P0 	: 거리두기도 하니 마스크 잘끼면 괜찮지않을까요!
+P1 	: 그럴 것같아요! 일주일 뒤면 통신사 등급이 올라가서 통신사 할인을 받아서 예약하려고요.
+P0 	: 오 영화할인 좋네요!
+P1 	: 네. 요금제를 바꾼 지 얼마 안돼서 9월초부터 혜택을 받을 수 있어서요!
+P1 	: 어떤 영화 주로 보세요?
+P0 	: 공짜는 안되나요ㅠ
+P0 	: 저는 액션 좋,아해요
+P1 	: 아마 vip고객은 한달에 한번 공짜일 거에요. 액션도 좋죠.
+P1 	: 저는 액션 중엔 히어로물 위주로 본 것같아요.
+P0 	: 저는 마블 좋아해요!
+P1 	: 블랙 위도우를 보고 싶었는데 어쩌다보니 아직 못보고 있네요.
+P0 	: 블랙위도우 괜찮았네요!

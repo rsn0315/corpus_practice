@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100005268
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요새 카페 자주가요?
+P1 	: 코로나 이후론 잘 안 가고있어요. 원래는 안가본곳 찾아 가고 그러는데
+P1 	: 카페가면 주로 뭐 주문하세요?
+P0 	: 저는 디저트 있으면 아메리카노요
+P0 	: &name2&님은 뭐 주문해요?
+P1 	: 저도 디저트에 아메리카노나 카페에서 시그니처로 내는 라떼를 주로시켜요
+P0 	: 비슷하네요
+P0 	: 카페인 민감하지는 않아요?
+P1 	: 술 많이마시면 커피가 안받더라구요. 요즘은 술을 마셔서 좀만먹어도 잠을못자요
+P0 	: 에고 어째요 요새 그거말고 주로 뭐 많이 먹어요
+P1 	: 요새는 프랜치토스트 만들어먹는거에 재미들렸어요 !!! 우유랑 계란 설탕 섞고 식빵 반나절 재워두는거로
+P1 	: 재워두니까 촉촉하니 맛있더라구요
+P1 	: 요리 잘 못해도 괜찮던
+P0 	: 오 저도 좋아해요
+P0 	: 잼 같이 먹으면 완전 맛있어요
+P1 	: 옹 맨날 설탕만 뿌려먹었는데 잼도 생각해봐야겠네요
+P1 	: &name1&님은 뭐 자주드세요
+P0 	: 저는 샌드위치요!
+P0 	: 만들기 편해서 좋아요
+P1 	: 둘다 식빵을 엄청 먹고있네요
+P1 	: 야채를 많이넣는지 고기나 계란같은걸 많이넣는지?
+P0 	: 빵은 한장하구 위에 상추같은걸로 덮어요
+P0 	: 다른 재료는 기분따라 달라요
+P0 	: 그냥 있는거

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027164
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가을 다가오는데 가을옷 사셨나요??
+P1 	: 네 전 재킷이랑 트레이닝세트 샀어요
+P1 	: &name1&은요?
+P0 	: 저는 니트랑 바막이요!
+P0 	: 지금 배송중이라 기대돼요ㅎㅎ
+P1 	: 오 니트 어떤 색 사셨나요?
+P0 	: 저 아이보리 니트 샀어요!
+P1 	: 역시 아이보리가 제일 무난하죠ㅋㅋ 저도 아이보리 계열 옷이 가장 많아요
+P0 	: 맞아요! 아무데나 받쳐입기 좋아서
+P0 	: 옷장에 흰회검이 제일 많아요...ㅎㅎㅎ
+P1 	: 저도 무채색이 제일 많아요ㅋㅋ 그래서 요즘엔 색깔 있는게 입고 싶더라고요
+P0 	: 색있는것도 포인트 되고 예쁘죠!
+P0 	: 이번에 구매해셨다는 트레이닝복도 색있는거세요??
+P1 	: 아뇨 회색이요ㅋㅋ
+P1 	: 색 있는 옷은 왜 항상 거의 안 사나 싶긴한데 막상 쇼핑할 때보면 무난한 거 찾게 되는 것 같아요
+P0 	: 맞아요 실패확률이 적어서요ㅋㅋㅋㅋ
+P1 	: &name1&은 주로 어떤 스타일로 옷 입으세요?
+P0 	: 저는 놈코어나 그냥 편하게 입는 편이에요!
+P0 	: &name2&은 어떤 스타일 좋아하세요?
+P1 	: 제가 좋아하는 건 세미수트 같은 스타일인데 자주 입는 건 그냥 편한 캐주얼이요ㅋㅋ

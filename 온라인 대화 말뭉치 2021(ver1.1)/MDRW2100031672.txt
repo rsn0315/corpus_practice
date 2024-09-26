@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100031672
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 백신 다 맞으셨나요?
+P1 	: 네 금요일에 2차 맞았어요~
+P1 	: 다행히 팔만 아프고 다른 증상은 없네요:)
+P0 	: 아 다행이네요 전2차맞고 두통 몸살로 고생했어요
+P1 	: 그러셨군요ㅠ 고생하셨네요...
+	  저도 무서워해서 의사쌤이 근육통 약이랑 두통약 다 처방해주셨는데 근육통 약 딱 하나 먹었어요;;ㅎㅎ
+P0 	: 다행이네요 사부님도 맞으셨나요?
+P1 	: 네 저희 신랑은 다음주에 2차 맞으러 가요~
+P0 	: 아 저희 신랑은예약했는데 부정맥 약간 있어 맞을지 고민중 입니다
+P1 	: 아아..고민되시겠어요ㅠ
+	  기저질환 있음 취약한 것 같더라구요;;
+P0 	: 그니까요  ㅠㅠ 없어도 생긴다니 좀 걱정되네요 ㅜ 본인인 더 겁먹었고 ㅜㅜ
+P1 	: 그럴만도 해요 ㅠㅠ
+	  아예 1차도 안 맞으신거죠??
+P0 	: 네 맞아요 아직 ㅜㅜ
+P1 	: ㅠㅠ근데 백신이 의무는 아닌거죠??
+P0 	: 네 의무는 아니나 권고?
+P1 	: 권고...애매하네요;;
+	  백신대상을 애들까지도 낮춘다는데..
+	  어른도 부작용 많은데 애들은 어쩔라나요 ㅠ

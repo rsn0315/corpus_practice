@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020348
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 종교 잇으세요?
+P1 	: 저는 종교 있어요!
+P0 	: 오오 어디에요?
+P1 	: 기독교예요! &name1&님은요?
+P0 	: 저는 무교에요!
+P0 	: 그럼 교회 다니시는건가요?
+P1 	: 네네, 지금은 유튜브 실시간 중계로 참여해요ㅠ
+P0 	: 아하 그렇군용
+P0 	: 그래도 가서 하시는게 더 좋으시죠?
+P1 	: 아무래도 사람들과 교류가 있으니까요ㅎㅎ
+P0 	: 아하아하 그러네용
+P1 	: 연세가 많으신 분들은 일요일에 뵈면서 상태 체크? 건강에 대한 이슈를 살폈는데 코로나 이후로는 전화로밖에 여쭐 수 없다는 것도 조금 걱정돼요ㅠ
+P0 	: 연세 많으신 분들은 사람들 만나시는 거 좋아하실텐데 더욱 아슈ㅏㅈ겠네요
+P0 	: 아쉽겠네요
+P1 	: 네네ㅜ 그런 부분에서는 아쉽됴ㅠ
+P0 	: 빨리 코로나가 끝나야 할텐데요ㅠ

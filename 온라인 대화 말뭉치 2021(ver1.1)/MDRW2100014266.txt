@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014266
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어떤거?
+P0 	: 종류는 상관없는데
+P1 	: 난 야구
+P0 	: 나도 야구 좋은데
+P1 	: 야구장 안간지 넘 오래되서
+P0 	: 진짜 오래 됐잖아
+P1 	: 그니까
+P0 	: 응원가 따라 부르고 이럴 때가 좋았지
+P1 	: ?
+P0 	: 응원가 부르는 거 재밌잖아
+P1 	: 응 갈때쯤 되면 다 외우지
+P0 	: 난 미리 예습해서 간 적도 있어
+P1 	: ㅋㅋㅋ 그정도라고?
+P0 	: 야구장에서 맥주 마시고 싶다

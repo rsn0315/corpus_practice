@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000888
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 취업하셨나요?
+P1 	: 아뇨 아직 대1이라 알바중입니다!
+P0 	: 저도 알바하고싶어요
+P0 	: 무직이여서요
+P1 	: 요즘 많이 안구해져서 ㅠㅠ
+P0 	: 맞아요 그래서 일용직 나가는데 스트레스에요
+P0 	: 조주기능사도 있어서 바에서 일하고싶은데
+P0 	: 여자만뽑아요
+P1 	: 아아
+P1 	: 슬프네요
+P1 	: 저는 키즈카페 일하고 있어요
+P0 	: 부러워요 저도 저는 고양이카페 일해봤어요
+P1 	: 오호 근데 저도 취직하고 싶네요 아직 멀었지만
+P0 	: 대학생이시니 취직 잘되실거에요 어디 취직하고싶으세요?
+P1 	: 복지관이요!
+P0 	: 와 어디 복지관이요?
+P1 	: 아동복지나 그런쪽에 관심이 있어요!
+P0 	: 아 그래서 키즈카페에서도 일하시는군요 우와
+P0 	: 자기소개서가 벌써 다 나왔네요
+P1 	: 히히 봉사도 자주하고 있어요 ㅇㅎ

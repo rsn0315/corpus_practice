@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015359
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 드라마 보셨나요?
+P1 	: 앗 저 마지막 드라마가 도깨비입니당...ㅋㅋㅋㅋ
+P1 	: 드라마 좋아하시나요??!
+P0 	: 네  ! 최근에  악마판사랑 너는나의봄 보고 이번주에 방영하는 갯마을 차차차 기다리는 중이에요ㅎㅎ
+P1 	: 아하 저는 오월의 청춘 이라는 드라마 재밌을거같아서 시간날때 보려구요!!
+P0 	: 아아 그렇군요 유튜브로는 어떤 영상 주로 보시나요?
+P1 	: 교차편집이나 게임영상 자주봐요 ㅎㅎ
+P0 	: 그럼 어떤 노래 즐거 들으시나요?
+P1 	: 요즘은 걸그룹 노래 자주들어요 ㅎㅎ
+P1 	: 퀸덤이랑 던던댄스 좋아해요!!
+P0 	: 저두 퀸덤 노래 좋아해요!!
+P1 	: 아하ㅎㅎ 또 자주 듣는 노래 있으세용??
+P0 	: 드라마 슬기로운의사생활2 ost 자주들어요!
+P1 	: 아하~ 저는 원래 영화보러가는거 엄청 좋아했는데
+P1 	: 코로나이후로 한번도 못갔어요ㅜㅜ 팝콘도 못먹게해서...
+P0 	: 맞아요ㅜㅜ 저두 영화보러 가는거 좋아하는데  코로나 이후로 못갔네요..
+P1 	: 마지막으로 어떤 영화 보셨어용?
+P0 	: 영화관에서 본건 아니구 집에서 티빙으로 택시운전사 봤어요!

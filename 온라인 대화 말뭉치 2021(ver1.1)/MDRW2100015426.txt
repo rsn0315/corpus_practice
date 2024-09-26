@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015426
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 애완동물 기르시나요?
+P1 	: 네 강아지 두마리요
+P1 	: &name1&님은요?
+P0 	: 저는 기르고싶다는 생각만 ㅜ
+P0 	: 강아지 이름이 뭐예요?
+P1 	: &name3&와 &name4&에요
+P0 	: 앗 귀엽겠다
+P0 	: 무슨 종인가요?
+P1 	: 믹스예요 재패니즈 스피치 믹스와 말티즈믹스
+P1 	: 정말 귀여워요
+P0 	: 믹스들이 더 귀엽더라구요
+P0 	: 가끔영상보면 ㅎㅎ
+P1 	: ㅎㅎ 건강하기도 더 건강해요
+P0 	: 반려동물 기르는데 얼마씩 들어요?
+P1 	: 어;; 어떻게 기르느냐에 따라 다른데요;
+P0 	: 아 그쵸그쵸
+P1 	: 병원비가 안들어도 한달에 최소 십만원은 잡아야 할거예요
+P0 	: 돈이 많아야 기르겠네요ㅜ

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100025423
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 배달음식 자주 시켜드시나요?
+P1 	: 저는 배달앱도 없어요..ㅎㅎㅎ
+P0 	: 그럼 집에서 요리해서 드세요?
+P1 	: 네.. 주로~ㅎㅎ
+P1 	: &name1&님은 배달앱 쓰시나요?
+P0 	: 우와 대단하세요
+P0 	: 전 요리를 못하는데 집에 있는 시간이 없어서
+P0 	: 배달로 자주 먹어요
+P0 	: 치킨은 일마치고
+P1 	: 그렇구나.. 주로 사용하시는 앱이 있나요?
+P0 	: 사들고 가는경우도 많구요
+P0 	: 전 요기요 자주 사용해요
+P1 	: 그런거 행사도 자주 한다고 들었어요
+P1 	: 그런 소리 들으면 저도 혹할떄가 있죠
+P0 	: 맞아요 ㅋㅋㅋ할인행사요
+P0 	: 그런데 배달료가 너무 아까워요
+P1 	: 맞아요.. 요새 비싸죠? 배달을 잘 안시키니까 체감 어려운데.. 자주 시키는 분들은 느끼실 거같아요
+P0 	: 배달료도 많이 오르고 그래서 요즘은 픽업하는걸로 많이 사가요
+P1 	: 저도 픽업은 몇번 했어요.. 앱 사용안하고.. 가게에서 주문해서 픽업해와서 먹는거죠.. 식당에서 먹기 그러니까
+P0 	: 맞아요 코로나시대여서
+P0 	: 밖에서 먹기 그렇죠
+P0 	: 고기를 밖에서 못먹는게 너무 슬프더라구요
+P0 	: 집에서 먹는거와는 분위기가 달라서요 ㅠㅠ
+P1 	: 맞아요.. 밖에서 구워먹는 그 느낌
+P1 	: 지인들과 만나서 수다 떨면서 먹는 그 느낌
+P0 	: 너무 아쉬워요 ㅠㅠ

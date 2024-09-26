@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019473
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P1 	: 안녕하세요. 운동하시나요?
+P0 	: 가끔 홈트만 하고 있어요. &name2&님은요?
+P1 	: 저는 얼마전에 실내자전거를 사서 타고있어요!
+P0 	: 와 부러워요 ㅋㅋ 저는 놓을 공간이 애매해서 사고싶은데 못 사고 있어요.
+P0 	: 어떠신가요?
+P1 	: 아직은 열심히 타고 있는데 언제 옷걸이가 될 지 모르겠어요 ㅋㅋㅋ
+P0 	: ㅋㅋㅋ 구매를 망설이게 되는 가장 큰 이유죠
+P1 	: 홈트는 유튜브 보고 따라하시는건가요? ㅎㅎ
+P0 	: 저는 핏데이라는 어플을 보고 따라하고 있어요
+P1 	: 자세하게 설명되어있나요?
+P0 	: 설명이랑 자세 보고 따라하면 돼요. 순서대로 운동 코스를 알려주는 식이에요.
+P1 	: 좋군요! 혼자서 꾸준히만 한다면 요즘 운동하는 법은 무궁무진한 것 같아요!
+P0 	: ㅋㅋ 근데 꾸준히가 진짜 어렵더라구요ㅠ
+P1 	: 맞아요 ㅠㅠ 전 근육을 갖고 싶은데 근력운동해야한다더라구요
+P0 	: 근력운동 진짜 힘들어요ㅠ

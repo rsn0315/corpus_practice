@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028719
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 공연보는거 좋아하시나요?
+P1 	: 네 뮤직컬 보는 거 좋아해요 공연 좋아하세요?
+P0 	: 아! 네 저는 뮤지컬엔 빠진지 얼마 안 됐고 전엔 콘서트 자주 갔었어요
+P0 	: 최근에 뮤지컬 본 적 있으신가요?
+P1 	: 코로나 전에 지킬앤하이드 본 게 마지막이에요
+P1 	: 지킬앤하이드 보셨어요?
+P0 	: 앗 아뇨ㅜㅜ 보진않았는데 홍광호씨가 부른 지금 이 순간 좋아해서 되게 자주 들은 기억은 있어요!
+P1 	: 최근에 어떤 공연 보셨어요?
+P0 	: 저도 코로나 터진 이후엔 본 적 없었는데 얼마전에 레드북을 재밌게 봤어요!
+P1 	: 레드북은 잘 모르는데 한번 봐봐야겠어요ㅎㅎ
+P1 	: 혹시 누가 나오나요??
+P0 	: 앗 레드북 얼마전에 막 내렸어요ㅜㅜ
+P0 	: 이번이 재연이었는데 주연에 아이비 차지연 김세정 이렇게 나왔어요~
+P0 	: 남자 주연으로는 서경수 송원근 인성 이렇게 나왔구요!
+P1 	: 헐... 아이비 좋은데 아쉽네요
+P0 	: 사실 남자배우님들은 처음들어봤는데 여자배우님들은 다들 너무 유명하신 분들이어서! 신기하더라구요ㅎㅎ
+P1 	: 그러게요 저도 남자 배우들은 모르는 사람들이에요;;

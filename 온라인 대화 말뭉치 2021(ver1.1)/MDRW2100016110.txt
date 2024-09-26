@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016110
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 식사하셨나요?
+P1 	: 안녕하세요 ~
+P1 	: 제가 아침은 잘안먹어서 ㅎㅎ
+P1 	: 아침드셨나요??
+P0 	: 네 저는 오징어볶음 먹었어요~! 그럼 점심은 뭐 드실 예정이신가요?
+P1 	: 점심 샌드위치먹을까 생각중이에요 ㅎㅎ
+P0 	: 오 샌드위치는 만들어드시나요?ㅎㅎ
+P1 	: 아뇨 사먹었습니당 ㅎㅎ
+P1 	: 만들라믄 시간이걸려소 ㅎ.ㅎ
+P1 	: 점심드셨나요 ?
+P0 	: 네 점심 먹었어요~!
+P1 	: 뭐드셨나요??
+P0 	: 저 까르보불닭 먹었어요!
+P1 	: 불닭 볶음면 저도 엄청좋아하는데
+P0 	: 오ㅎ 어느 거 제일 좋아하세요?
+P1 	: 전 아무래도 오리지널이 제일 좋은거같아요 ㅎㅎ
+P0 	: 오 그런가요 전 까르보불닭이 제일 좋더라구요

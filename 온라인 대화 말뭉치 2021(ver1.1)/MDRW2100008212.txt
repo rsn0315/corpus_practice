@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008212
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회라 뭐 참여하는거 있으세요?
+P1 	: 봉사동아리 합니다!!
+P0 	: 오 대학에서 하는 그런건가요?
+P1 	: 맞아용ㅋㅋㅋ
+P0 	: 요즘 코로나인데 어떤 활동하세요
+P1 	: 쓰레기 줍기 활동해요!!
+P0 	: 오 뭔가 좋네요 매주 하시나요?
+P1 	: 넵 매주해요ㅎㅎ
+P1 	: 비대면으로 각자 합니다
+P0 	: 오 그래도 뭔가 사회에 보탬이 된다는 취지는 좋아요 ㅋ
+P0 	: 아 저는 헌혈했어요
+P1 	: 옹 헌혈 동아리 인가요?? 아 그냥 봉사 말씀인가용
+P0 	: 그냥 봉사활동으로?ㅋㅋ그냥 개인이?ㅋㅋㅋ
+P1 	: 아항 혹시 동호회는 안하시나요?!
+P1 	: 봉사 말고도요!
+P0 	: 음 해본적없네요
+P0 	: 운동 동호회같은건 해보고싶어요
+P1 	: 좋아요 동호회ㅎㅎ

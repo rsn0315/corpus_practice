@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024464
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 결혼하신건가요??
+P1 	: 네 기혼이에요 &name1&님은요
+P0 	: 전 미혼이요! 지금은 솔로입니다ㅋㅋ
+P1 	: 그러시군요~^^ 솔로인지 오래되셨나요
+P0 	: 벌써 일년이 되가네요ㅋㅋㅋ
+P0 	: 배우자분은 어떻게 만나셨나요?
+P1 	: 저는 소개팅이요~^^
+P0 	: 오!! 소개팅 어떤가요?
+P0 	: 해보고 싶은데 넘 어색할 것 같아서
+P0 	: 맨날 거절하고 있어요ㅜㅠ
+P1 	: 오 정말요?만나보셔야죠!!!!
+P0 	: 근데 무슨말할지...할말이 없을 것 같아요ㅎㅋㅋ
+P1 	: 그냥 취향..이런거 이야기 하죠..ㅋ 매번 비슷하긴 하지만..ㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 뭔가 넘 어색하고
+P0 	: 머쓱할까봐 안나가봤어요ㅠ
+P1 	: 열에 아홉은 그렇지만 하나의 인연을 만난다면 해볼만하지 않을까요.ㅡㅋ 넘 피곤하려나요..ㅋ
+P0 	: ㅎㅎ아뇨 해보고 싶긴 해요!! 코로나 끝나면.... 해봐야겠어요ㅋㅋㅋ
+P0 	: 결혼생활 어떠세요? 혼자보다 확실히
+P0 	: 재밌고 좋죠?!!
+P1 	: 흠...좋기도 하고 아닌점도 있고 그릏네요...주변 친구들은 어떻다고 하나요 ㅎㅎ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034756
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 청양고추인가요?
+P0 	: 매운편에 속하는것같아요.
+P1 	: 그렇군요, 저희집은 매운걸 잘 못 먹어서 구매하지 않는 식재료네요ㅎㅎ
+P0 	: 네.. 저는 동생이 매운라면 끓여주면 화나더라고요 ^^
+P1 	: 동생이 매운걸 잘 먹나봐요
+P0 	: 라면 잡내 잡는다거 먹더라고여 ㅎ
+P1 	: 라면 잡내를 잡는다라 동생이 음식에 예민한편인가요?
+P0 	: 네.. 오이 싫어해요 ㅋㅋ
+P1 	: 오이는 저도 별로 안 좋아하는데..ㅋㅋㅋ
+P1 	: &name1&님은 오이 좋아하세요?
+P0 	: 저는 양념만 잘되어잇다면 좋아해요.ㅋㅋ 생것도 먹을수잇긴하고요
+P1 	: 그러시군요
+	  저는 생오이나 오이소박이같은것도 못 먹는 편이에요
+	  오이의 향을 안 좋아하는거같아요
+P0 	: 그래서 제 동생은 오이도 싫어하고. 수박도 그렇게 안좋아하고 참외도 별로안좋아해요.
+	  참외는 단것만 좋아하더라고요
+P1 	: 저도 오이 수박 참외 잘 안 먹어요
+P1 	: 토마토는 조금 먹구요
+P0 	: 오 제동생은 이제 토마토 먹어요.ㅋㅋㅋ
+P0 	: 토마토를 중국식으로 알아서 해먹더라고요

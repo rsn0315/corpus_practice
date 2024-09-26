@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 제로 콜라 같은거 말하시는건가요?
+P0 	: 네 맞아요
+P1 	: 저는 탄산을 별로 안좋아해서
+P0 	: 아 안드셔보셨나요?
+P1 	: 최근에 펩시제로 나와서 한번 사마셔 봤어요
+P0 	: 펩시제로요!
+P1 	: 네
+P0 	: 별로였나요?
+P1 	: 아니요 생각보다 괜찮았어요 감미료 특유의 단맛도 잘 안느껴지구요
+P0 	: 아 저는 탄산을 정말 좋아하는데 제로칼로리 음료가 엄청 도움이 되거든요
+P1 	: 어떤 점에서요?
+P0 	: 제가 다이어트를 하는데 아무래도 탄산음료를 마시면 설탕을 먹게되니까 제로음료가 엄청 도움이 되더라구요
+P1 	: 아 다이어트 하시면 그렇겠어요

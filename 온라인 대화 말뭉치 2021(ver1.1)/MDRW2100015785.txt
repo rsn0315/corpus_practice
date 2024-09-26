@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100015785
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 최근에 구매하신 상품이 뭔가요?
+P1 	: 음...요즘 쇼핑을 정말 안해서요
+P1 	: 그래도 장바구니는 넘쳐납니다ㅎㅎ...
+P1 	: &name1&님은 최근에 구매하신 상품 있나요
+P1 	: ?
+P0 	: 전 얼굴에 바르는 미샤 크림 구매했어요! 인터넷쇼핑 자주 안하시나봐요!
+P1 	: 제가 고민을 많이 해서ㅋㅋㅋㅋㅋ
+P1 	: 충동적이기도 해서 잘 조절해야하거든요 그래서
+P1 	: 조절만 하다 끝납니다
+P0 	: 엄청 신중한 타입이신가봐요!
+P0 	: 중고거래는 해보셨나요?
+P1 	: 중고거래는 잘 안해봤어요
+P1 	: 아 이런건 해봤어요
+P1 	: 학교 책방 내에서 중고 책 사고 팔거나
+P1 	: 알라딘 중고 책 이런거요
+P0 	: 위시리스트는 있으세요?
+P1 	: 장바구니 같은거 말씀하시는건가요?
+P1 	: 찜 목록같은거면 아까 말했듯이 넘쳐나는...ㅎㅎ 상황이에요
+P0 	: 네네! 혹시 생일선물로 가장 받고싶은건 뭔가요?
+P1 	: 오와 제 생일은 이제 다음해를 기다려야해서 생각 안해봤는데
+P1 	: 음...벽걸이 cd 플레이어 있으면 좋겠네요
+P1 	: &name1&님은요?
+P0 	: 저는 예쁜 반지 받고싶어요!
+P1 	: 반지 이쁘죠ㅠ
+P1 	: 반지 잘 어울리는 사람이 부러워요
+P0 	: 맞아요ㅎㅎ

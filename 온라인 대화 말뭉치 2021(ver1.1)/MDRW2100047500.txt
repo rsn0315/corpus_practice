@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100047500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 드셨나요?
+P1 	: 저녁 드셨나요?
+P1 	: 앗ㅎㅎ
+P0 	: 앗
+P1 	: 네 보쌈 먹었어요
+P0 	: 저는 아직이요!
+P0 	: 보쌈! 든든하게 드셨네요
+P0 	: 저는 새우찜 시켜서 기다리고있어요
+P1 	: 네 집에 왔더니 보쌈이 있더라고요
+P1 	: 오호 새우찜도 맛있겠네요
+P0 	: 룸메가 오늘 백신을 맞아서
+P0 	: 든든하게 먹으려구요!
+P1 	: 아 그랬구나
+P1 	: 백신 맞은 날은 식사 든든히 해야죠!!
+P1 	: 간식도 먹고
+P0 	: 그쵸 방금 밥도 먹고 간식도 사왔어요
+P0 	: 디저트류 좋아하세요?
+P1 	: 오 잘하셨어요
+P1 	: 네 디저트류 좋아해요
+P0 	: 하나 꼽자면 무엇인가요?
+P1 	: 한동안 마카롱에 빠져있다가
+P1 	: 요즘은 마들렌이요ㅎㅎ
+P0 	: 마들렌! 기본 마들렌 좋아하세요?
+P1 	: 네 기본도 좋아하고
+P1 	: 얼그레이 마들렌도 좋아해요
+P1 	: 단것 당길땐 초코도

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100028197
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 뭐 드셨어요??
+P0 	: 저는 맥날 불고기버거랑 맥너겟먹었어요
+P0 	: &name2&님은요?!
+P1 	: 불고기 버거 맛있겠다 저는 초밥먹었어요
+P0 	: 세상에
+P0 	: 더맛있는거 드셨네요
+P1 	: 세상에?
+P0 	: 세상에!
+P1 	: ㅋㅋㅋㅋㅋ 근데 생각보다 별로였어요 맛이 변했어요
+P1 	: 비싸지기만 하고 연어가 질이 떨어져서 슬펐어요
+P1 	: 불고기버거 맛있겠네여...
+P0 	: 아 초밥이 약간
+P0 	: 덜싱싱하셨나요?
+P1 	: 그 가게가 맛이 떨어진거 같아요
+P1 	: 그래도 먹을때는 열심히 먹고 왔어요 ㅋㅋ
+P0 	: 새로운 맛집을 찾으셔야겠네요,..
+P0 	: 원래 즐겨가던곳 맛변하는것만큼 속상한게 없는데,,,
+P1 	: 맞아요 좀 아쉬운데 새로운 곳을 개척해야겠어요 ㅋㅋ
+P0 	: 맛집이나 유명카페 가는거 좋아하세요?!
+P1 	: 네 좋아했는데 요즘엔 못가고 있어요 ㅠㅠ
+P1 	: &name1&님도 좋아하세요???
+P0 	: 저는 데이트할때만,,,!

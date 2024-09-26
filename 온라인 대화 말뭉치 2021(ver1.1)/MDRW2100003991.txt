@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003991
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아침에 비가 많이 오더니 해가 덨네
+P0 	: 해가 나왔어 ? 커튼 치워봐야 겠다
+P1 	: 날씨도 모르고 잇니 ?
+P0 	: 커튼 때문에 안보여
+P0 	: 보슬비 오고 있는줄 알았네
+P1 	: 뉴스는 좀 보고
+P0 	: 티비로는 잘 안챙겨보고
+P0 	: 핸드폰으로는 보는데
+P1 	: 그래
+P0 	: 몇일동안 온다고 했다며 ?
+P1 	: 주말 내내 비래
+P0 	: 내일 약속 있어서 나가 봐야 하는데 얼마나 올려나
+P1 	: 어딜가니 누구 만날려고
+P0 	: 친구가 결혼한다고 만나자고 하네
+P1 	: 만나야 하는거니
+P0 	: 낼 아니면 언제보겠어

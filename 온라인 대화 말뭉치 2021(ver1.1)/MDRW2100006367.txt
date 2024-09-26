@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006367
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 투어 다니시나요?
+P1 	: 투어는 아닌데 찾아보긴해요
+P0 	: 만족하시나요 보토으
+P0 	: 보통??
+P1 	: 네네
+P1 	: 인스타맛집은 보러가고
+P1 	: 그주에 맛있는집도있고
+P0 	: 저는.네이버리뷰보고가는데.실패가 대부분이었어요
+P1 	: 아.. 네이버는 광고가 많아서 많이 비교해야해호
+P0 	: 그 영수증 리뷰가 있길래 믿고갔거든요 ㅠㅠ
+P1 	: 지원받는곳많어서.. 사진같은거나 메뉴 잘 비교해야 해요
+P0 	: 그렇군요 인스타.맛집은 믿을만한가요
+P1 	: 쉽지않아요..ㅋㅋㅋㅋ 그것도 비교해야해옷
+P0 	: 그렇군요..이러하니 늘 가던 곳에 가는게 맘편하더라구요 ㅎㅎ
+P1 	: 그게 편하긴 하죠 ㅎㅎ
+P1 	: 좋았던곳 있으실까요? 가보신곳중에?
+P0 	: 저는 그냥 동네맛집이요ㅎㅎ 칼국수만두먹으러

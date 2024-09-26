@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100043242
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 타르트요! 살구 블루베리 딸기 레몬...
+P0 	: 오 타르트도 맛있죠ㅜㅜ 딸기랑 청포도도 맛있고 호두도 최고..
+P1 	: 하, 청포도랑 호두도 좋죠ㅎㅎ
+P0 	: 주변에 타르트파는 카페가 없어서 슬퍼요ㅠ
+P1 	: 아아, 아깝네요ㅜㅜ 저는 집근처에 카페거리가 있어요
+P0 	: 헐 완전 좋으시겠어요ㅠㅠ 저라면 맨날가서 돈 거덜날듯요.. 부러워요
+P1 	: ㅋㅋㅋㅋㅋㅋ 음료는 어떤거 좋아하세요??
+P0 	: 음료도 딸기좋아해요ㅋㅋㅋ 딸기스무디 딸기요거트 딸기라떼 등등
+P0 	: &name2&님은요??
+P1 	: 저는 초코 피스타치오 토피넛 같은 거요ㅎㅎ
+P0 	: 아항ㅋㅋㅋ 소나무시네요ㅎㅎ
+P0 	: 한식 일식 중식 중에 제일 좋아하시는거 있으세요?
+P1 	: 나라는 안 가려요 번갈아가면서 먹는 편 ㅋㅋㅋ
+P1 	: 인도 멕시코 태국 베트남도 좋아해요
+P0 	: 오ㅋㅋㅋ 진짜 다양하게 드시네요 저는 한식이 제일 좋아요
+P1 	: 오, 역시 한국인
+	  이것저것 먹어보는 게 좋아서요ㅋㅋㅋ
+P0 	: 맞아요 여러 경험해보는게 좋죠!
+P0 	: 전 모험하기 두려워서 먹던것만 먹다보니...ㅋㅋㅋ

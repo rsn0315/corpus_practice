@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008941
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다이어트중에 단거드시고싶으면 대체하시는거 있으신가요
+P0 	: 대체하고 싶은데 ...그냥 먹고 운동하자입니다ㅠㅠ
+P1 	: 좋다고생각합니다 넘 참으면 스트레스받잖아요
+P0 	: ㅋㅋ근데 지켜진적이 거의 없어요...
+P1 	: 사람이 어떻게 맘먹은대로만 살겠어요~
+P1 	: 먹자고 사는건데요~!
+P0 	: 대신 이제 샐러드 먹으려고 생각중이에요ㅎㅎ
+P1 	: 오 좋다고생각해요ㅋㄱㄱ샐러드는 해드세요?
+P1 	: 아님 사드시나요?
+P0 	: 샐러드용 야채랑  드레싱은 사고 있으니 사먹는거네요ㅎㅎ
+P1 	: 건투를 빌어요 드레싱은 뭐좋아하세요?
+P1 	: 저는 맛은 흑임자인데 건강생각하면 올리브유요..ㅜ
+P0 	: 저도 고소한거 좋아해서 참깨도 좋아하구ㅋㅋ흑임자도 좋아해요
+P1 	: 그쵸 참깨도 맛있는데요ㅠ
+P1 	: 샐러드에 단백질도 넣으세요?
+P0 	: 아 저는 그냥 달걀..로 대체하는 편ㅎㅎ
+P1 	: 저는 달걀은 그닥 좋아하지 않았는데 운동하면서 챙겨먹어버릇하니 좋아지더라구요ㅎㅎ
+P0 	: 저도 후라이만 먹다가 요즘 먹게 됐어요ㅎㅎ

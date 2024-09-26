@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100016416
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P0 	: 식사는요?
+P1 	: 피자로 한끼 떼웠어요
+P1 	: 님은요?
+P0 	: 정식이여
+P1 	: 무슨 정식인가요. 한식? 일식?
+P0 	: 한식이요
+P1 	: 아 근처에 한정식 잘하는 곳이 있나봐요
+P0 	: 네 맛집많아여
+P1 	: 오오 서울인가요? 지역이 어디인가요
+P0 	: 지방이요
+P1 	: 아 추천할 맛집이 있으신가요
+P1 	: 여행 가면 들러보려고요
+P0 	: 순두부
+P1 	: 강릉인가요?
+P0 	: 경주로

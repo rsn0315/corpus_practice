@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010203
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 둘다 타는데 추위를 더 타요
+P1 	: &name1&님은요ㅣ???
+P0 	: 저는 더위를 더 많이 타요!
+P0 	: 이번 여름 너무 덥지 않았나요!
+P1 	: 네 재택근무 하는데 너무 더웠어요ㅜㅜ
+P1 	: 어떻게 버티셨나요
+P0 	: 이번엔 못 참고 낮에는 에어컨 틀었어요ㅜㅜ 외출도 자제하고
+P0 	: 에어컨 없이 못 버티겠더라고요
+P1 	: 그쵸 진짜 더워서ㅜㅜ
+P1 	: 빨리 가을 되면 좋겠네요..
+P0 	: 그레도 이번 장마 끝나면 가을이네요
+P0 	: 슬슬 가을 옷을 꺼내야 할 거 같아요
+P1 	: 네~~~가을에는 주로 어떤옷 입으세요?
+P0 	: 긴팔 셔츠나 남방 좋아해요 바지는 슬랙스 자주 입어요
+P0 	: &name2& 님은요?
+P1 	: 저도요~~~저랑 똑같군요
+P1 	: ㅋㅋ가을 남방이 이상하게 많더라고요
+P0 	: 무난하고 좋은 거 같아요
+P0 	: 적당히 따뜻하고
+P1 	: 네 가을엔 남방이죠~~~
+P0 	: 가을이 코디하기도 좋아요
+P0 	: 레이어드 하기도 좋고
+P0 	: 여름에는 그냥 최대한 얇게 입고
+P0 	: 겨울엔 그냥 롱패딩 입어서ㅋㅋㅋ
+P1 	: 네ㅋㅋㅋ 간단하게 겉에 걸치면 되니까요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033911
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 구매한 제품이 뭔가요?
+P0 	: 키보드 스티커 구매했어요
+P1 	: 우와 뭐 구매하셨어요???!?
+P0 	: SNS에서 개인이 공구 올리는걸로 구매했어요 심플한걸루요
+P1 	: 공구로 키보드도 파나요?
+P1 	: 몰랐어요 ㅋㅋㅋㅋㅋ
+P0 	: 키보드 스티커요! 자판 위에 붙이는 용도로 사용해요ㅎㅎ
+P1 	: 아 키보드 스티커군요ㅋㅋㅋㅋㅋㅋ
+P1 	: 제가 잘못 읽었어요
+P0 	: 그러실 수 있죠ㅎㅎ 잘 찾아보면 키보드 공구도 있을 것 같아요!
+P1 	: 스티커는 어떤 거에요?
+P1 	: 막 캐릭터로 사셨어요??
+P0 	: 캐릭터보다는 도형? 문양?이 그려진걸로 샀어요
+P1 	: 아하 디자인이 궁금하네요 !!!
+P0 	: 말로 설명하기가 애매하네요...ㅋㅋ 요즘은 이쁜 캐릭터도 많더라구요
+P1 	: 맞아요 ~ ~~ 디자인이 다양해졌어요

@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100015687
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우고 계시나요?
+P0 	: 네 강아지요ㅎ
+P1 	: 이름이 뭐예요?
+P0 	: &name3&요ㅎ
+P1 	: 어머~ 귀여운 이름이네요. &name3&는 몇 살인가요?
+P0 	: 1살이예요~~
+P1 	: 나이도 귀엽네요ㅎㅎ &name3&가 좋아하는 간식은 뭔가요?
+P0 	: 오리고기요ㅎ
+P1 	: 어머나~ 간식은 안 귀엽네요.ㅋ 사료만 먹이시는게 아닌가봐요?
+P0 	: 네 간식도주는데더비싸요ㅠ
+P1 	: 반려동물은 아이 한 명 더 기르는 셈일 것 같아요. 이 전에도 죽 강아지 키우셨었나요?
+P0 	: 예전엔 부모님이 키우셨어요

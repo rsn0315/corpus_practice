@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000662
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 날씨가 좀 춥네
+P1 	: 글게 이제 가을인듯
+P0 	: 계절의위대함 ㅎ
+P1 	: ㅋㅋ 긴옷 입어야겠다
+P0 	: 아직도 낮은 덥다
+P1 	: 그렇긴 함 ㅎ
+P0 	: 잠잘땐 약간 뚜거운 이불이 필요함 ㅎ
+P1 	: 옹 좀 있으면 극세사 이불 꺼내야할듯
+P0 	: 극세사는 겨울되야지 오바다
+P1 	: ㅋㅋㅋ 오바 아님 다음주만 돼도 필요할듯
+P0 	: 그러게 요즘 봄 가을이 짧으니 ㅋ
+P1 	: 그릏다 ㅎ ㅠ 가을 넘 짧아
+P0 	: 아쉽아쉽 ㅠㅠ
+P1 	: 미세먼지 요새도 안좋은가?

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100014029
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 동아리활동 해보신적 있으세요?
+P1 	: 네 전 풍물패에서 북쳤어요ㅋㅋ님은요?
+P0 	: 저는 산악자전거동아리였어요
+P1 	: 오우 빡신데요.
+P0 	: 북!  신기해요
+P1 	: 저도 산악자전거 신기하네요ㅋ
+P0 	: 덩기덕쿵더러러럭!  초딩때해보고
+P0 	: 안해본것같아요
+P1 	: ^^ 풍물패가 단대마다 있어서 타단대 학생들이랑도 교류가 있어서 더 재미있었던거 같아요.
+P0 	: 동아리는 사람들 만나는게 재밌는것같아요
+P0 	: 다양한사람들, 비슷한취미를 가진 사람들
+P1 	: 그죠. 그래서 학교졸업 후에도 다른 취미로 동호회 따로 들었었는데 대학때보다 더 다양한 사람들을 만나서 좋았어요
+P0 	: 아 그렇군요.
+P0 	: 저는 사회인 동호회는 해본적이없어요
+P0 	: 역시풍물 하신거예요?
+P1 	: 아니요~ 스노우보드요ㅎㅎ 대학때부터 접했으면 좋았을거 같은데 넘 재미있어요
+P0 	: 오
+P0 	: 저는 스노우보드 못타겠던데ㅎㅎ
+P0 	: 대신 스키를타요
+P1 	: ^^  스키도 타봤는데 재미있더라구요. 요즘학교는 스노우보드.스키동아리도 있으려나요..
+P0 	: 그러면 겨울아닐때는 어떤활동해요?

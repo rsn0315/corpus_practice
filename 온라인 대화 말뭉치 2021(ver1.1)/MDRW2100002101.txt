@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002101
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 하시는 운동 있으신가요?
+P1 	: 어제 일찍 잠들어 톡을 이제봤네요ㅜㅜ 저 필라테스 몇년간하다가 요즘은 운동쉬고있어요
+P0 	: 코로나땜에 운동가기도 꺼려지긴해요
+P1 	: 그죠 지금 날이 선선해서 운동하기 딱인데 홈트라도 해야할까봐요
+P0 	: 전 게을러서 혼자운동이 안되더라구요 돈을써야 아까워서라도 가게되는데
+P1 	: 어떤운동좋아하세요?
+P0 	: 전 줌바 스피닝이런거 좋아해요
+P1 	: 스피닝한번하고 포기했는데 대단하신데요? 근데 마스크쓰고하기 힘들거같아요
+P0 	: 예전에해보고 코로나터진후로는 못했어요
+P1 	: 신나는 운동 좋아하시는군요
+P0 	: 운동자체를 안좋아해서 음악이라도 들음서하니 괜찮더라구요ㅎ
+P1 	: 저도 필라테스는 땀이 적당히 나고 1시간이 후딱 가더라구요 자기한테맞는운동이 꾸준히할수도 있고 좋은거같아요
+P0 	: 필라도 잠깐해봤는데 괜찮긴 하더라구요 자세교정도 되고
+P1 	: 네네 허리가안좋아서 시작했는데 필라테스하고 허리통증 없어져서 꾸준히하게되더라구요 ㅎㅎ
+P0 	: 진짜 자세교정이 되긴하나봐요 그날의 통도 좀덜하더라구요

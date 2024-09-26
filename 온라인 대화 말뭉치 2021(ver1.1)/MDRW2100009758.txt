@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 강한 비와 바람이 예상된다네..
+P0 	: 또 습해지겠군..
+P1 	: 어제 빨래 미리 다 해놨지?
+P0 	: ㅇㅇ 근데 아직 다 안말랐어
+P1 	: 태풍 오기 전에 다 말라야 할텐데 ㅎㅎ
+P0 	: 또 마르는데 3일 걸리는 거 아닌가 몰라
+P1 	: 비 너무 많이 안왔으면 좋겠다.
+P0 	: 예상이랑 조금 다르게 이동하는 것 같던데
+P1 	: 항상 그렇지 뭐 ㅋㅋ
+P0 	: 이번에도 일기예보가 맞지 않길 바래보겠어
+P1 	: 비가 안와야 밖에서 운동도 하고 할텐데
+P0 	: 며칠 날씨 좋더니 계속 흐리네
+P1 	: 기온도 훅 떨어져서 이제 창문 열면 춥다
+P0 	: 맞바람 치면 새벽에 춥더라고
+P1 	: ㅇㅇ 선풍기 집어넣을 때가 된듯
+P0 	: 날씨가 점점 흐려지고 있어

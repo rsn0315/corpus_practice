@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100025487
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 네~많이 오네요
+P0 	: 여기더요
+P1 	: 오~여긴 방금 그쳤어요.내일도 많이 온다니 조심하게요.
+P0 	: 걱정이에요
+P1 	: 뭐가 제일 걱정인가요?
+P0 	: 너무 많이 오니
+P1 	: 집이 주택이예요?아니면,출근할때 힘들어서..?
+P0 	: 출퇴근이요
+P1 	: 지하철이나 버스인지,혹은 자가용인지 모르겠지만 그건 눈오는날도 힘들긴하지요.
+P0 	: 네 마찬가지요
+P1 	: 그렇군요....
+P0 	: 그냥 출근이 싫어서

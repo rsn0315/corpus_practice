@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100043400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뜨거운음식인가요?
+P0 	: 제가 오늘 먹을 저녁 맞춰보세요 후후
+P0 	: 네 뜨거운 음식입니다!
+P1 	: 맵나요?
+P0 	: 음.. 사람마다 다를 것 같은데 일단 빨간 음식이예요
+P1 	: 떡볶이!
+P0 	: 땡~ 떡볶이 아닙니다~~~
+P1 	: 음 빨간음식
+P1 	: 헐
+P1 	: 뢔면인가요?
+P0 	: ㅋㅋㅋㅋㅋㅋ라면도 아닙니다! 아쉽습니다
+P0 	: 낫 뢔면
+P1 	: 아 뭘까요
+P1 	: 밀가루인가요?
+P0 	: 후후후 막 음식 관련 뭐든 물어보세요
+P0 	: 밀가루 안 들어가요!
+P1 	: 아악 더 모르겠어요
+P1 	: 고기인가요?
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 헉 네 고기 들어갑니다!
+P1 	: 헐 혹이
+P1 	: 치킨?
+P1 	: 아 치킨은 밀가루있구나
+P0 	: 허어억 아닙니다! 맛있겠다

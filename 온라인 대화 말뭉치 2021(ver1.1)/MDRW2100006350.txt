@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006350
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 뭔가요
+P1 	: 웬만한건 안가리고 다 잘먹어요
+P1 	: &name1&님은요?
+P0 	: 저도 다 잘 먹습니다
+P1 	: 먹는거 좋아해서 제일좋아하는 음식 꼽기 힘들어욬ㅋㅋㅋㅋㅋ
+P0 	: 최애 음식 없나요??ㅎㅎ
+P1 	: 음...
+P1 	: 초밥도 좋아하고...
+P1 	: 파스타도 좋아하곸ㅋㅋㅋㅋㅋㅋ
+P1 	: 오리주물럭도 좋아하곸ㅋㅋㅋㅋㅋㅋ
+P0 	: 다 맛있는거네요..ㅎㅎ
+P1 	: 끝도없이나열할수잇어요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 인도커리... 장어구이... 텐동...대게...
+P0 	: 인도커리는 사드시나요?
+P1 	: 네 맛집 찾아다니고 그랫는데 코로나때문에ㅠㅠ
+P0 	: 맛집 찾아가면 보통 만족하시나요?
+P1 	: 음 반반인것같아요
+P0 	: 저는 실망할때가.많았어서 기대가.안되더라구요 ..

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047123
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 전남
+current_residence : 전남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 종류의 일 하세요
+P0 	: 현재 취업준비중이에요
+P1 	: 취업준비로 고생하시네요
+P0 	: 열심히 구직활동해야죠.
+P0 	: 어떤 업무 하시나요?
+P1 	: 전 프리랜서라서 일감을 구해서 일하죠
+P1 	: 블로그도 하고 머 말하자면 아무거나  다하고 있어요
+P0 	: 저도 영상쪽으로 프리랜서일은 하고있어요.
+P1 	: 영상분야 일하시군요
+P0 	: 네 스펙이 될정도는 아니라 간식값 정도로만ㅎㅎ
+P0 	: 그럼 다른곳에 취업하실 생각은 있으신가요?
+P1 	: 일단 코로나 좀 괜찮아지면 취업해야죠
+P0 	: 코로나때문에 취업이 정말 힘든것같아요
+P1 	: 그렇죠 기업들도 경제가 안좋으니
+P0 	: 취업난이 개선되길 바래야죠

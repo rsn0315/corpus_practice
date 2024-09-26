@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001909
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 구매한 물건이 있나요
+P0 	: 그것은 샤오미 공기 청정기입니다
+P1 	: 어때요? 궁금해요
+P1 	: 공청기 가격이 있어서 망설여지는데 샤오미는 저렴한쪽에 속히니까
+P1 	: 속하니까
+P0 	: 근데 문제가 제 방이 공기가 깨끗해요
+P0 	: 처음부터 깨끗했어요 창문이 없어서
+P0 	: 아닌가... 얘가 인식을 안하나??
+P1 	: 아 지하실이라고 하셨지
+P1 	: 전기세같은건 많이 나오나요
+P1 	: 공청기 쓰면요 많이 나온다고들 해서..
+P0 	: 작업실 형태라 물세, 전기세 다 집주인이 내줘요
+P1 	: 그럼 월세만 내고사세요?
+P0 	: 네 그렇습니다
+P0 	: 그래서 전기 많이 먹는거 막 사요
+P1 	: 아.. 그럼 요즘 위시리스트있어요?
+P0 	: 저 안마의자...
+P1 	: 안마의자..
+P1 	: 너무 비싸죠..
+P1 	: 효도템..
+P0 	: 여행을 가도 안마의자가 있는 곳을 선호합니다
+P0 	: 저번에 간곳은 와 의자가 진공 상태가 되는데
+P0 	: 예술이었죠
+P1 	: 오.. 그러시군요

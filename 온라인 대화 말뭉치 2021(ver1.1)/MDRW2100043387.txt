@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043387
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오! 집밥이시군요! 저는 요리를 너무 너무 못해서 룸메이트인 동생이 하거든요. 칼국수도 엄청 맛있을 것 같아요! 오늘 같이 비 오는 날!
+P0 	: 오늘 날이 비오고 추워서 저도 기대되요! &name2&님은 저녁 드셨나요?
+P1 	: 저도 곧 먹으려구요! 오늘은 본가에서 갈비 보내주셔서 동생이랑 먹으려는데 너무 냄새가 좋아요!
+P0 	: 와아 갈비!! 무슨 날인가봐요
+P1 	: 앗 추석 전이라고 미리 보내주셨나봐요! 추석 전 후는 맛있는 음식이 많아서 행복해요.
+P0 	: 미리 명절 기분이군요! 명절음식 좋아하시나요?
+P1 	: 네! 갈비도 전도 송편도 다 좋아해요! &name1&님은요?
+P0 	: 저는 송편 별로 안 좋아했어요!
+P0 	: 다 직접 만들어서...ㅋㅋㅋㅋㅋ
+P1 	: 헉 직접 만드셨어요? 금손이시다! 저희는 송편은 사먹었어요!
+P0 	: 할머니께서 다 준비해주시면 만들기만 했어요 ㅋㅋㅋㅋ
+P1 	: 오, 깨송편인가요? 콩송편인가요?
+P0 	: 저희는 동부? 그거 넣었어요 할머니가 깨송편 싫어하셔서
+P1 	: 동부? 신기하네요! 단 맛이 나나요?
+P0 	: 그렇게 달진 않아요 좀 꼬수운 맛? 나요
+P1 	: 오, 고소한 송편이네요! 저희는 깨송편이랑 콩송편을 섞어서 하셔서 참 찾아내는데 시간이 걸렸어요.

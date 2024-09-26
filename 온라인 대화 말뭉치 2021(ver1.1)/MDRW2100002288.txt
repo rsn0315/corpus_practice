@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 중고거래를 해보신 적이 있나요?
+P1 	: 당근마켓에서 치킨 기프티콘 팔았어용 !
+P0 	: 당근마켓을 자주 이용하시나요?
+P1 	: 할일없을때 가끔씩 봐요!
+P0 	: 쇼핑을 하실 때 온라인과 오프라인 어르쪽을 선호하시나요?
+P1 	: 오프라인에서 보고 온라인으로 사고있어요
+P0 	: 좋은 방법인거같아요
+P0 	: 최근에 구매한 물품 중 만족스러운게 있나요?
+P1 	: 구입은 안하고 주로 파는걸 많이 하는 편이에요
+P0 	: 판매를 할 때 어려운 점은 없었나요?
+P1 	: 딱히 없었던 것 같아요 다들 많이 친절하시더라고요
+P0 	: 앗 그러시군요!
+P1 	: 님은 중고거래를 자주 하시는편인가요?
+P0 	: 저도 거의 판매하는 입장이라 구매는 잘 안하는거같아요

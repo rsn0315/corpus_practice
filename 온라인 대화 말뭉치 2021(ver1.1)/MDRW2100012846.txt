@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012846
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 사고 싶은 물건 있으세요?
+P1 	: 핸드폰 케이스 사고싶네요
+P0 	: 저는 엘지 그램 노트북 사고싶어요
+P1 	: 오 저도요
+P1 	: 가벼운 노트뷱 최고
+P0 	: 19년식 14인치 쓰고있는데
+P0 	: 17인치 사고싶네요
+P1 	: 전 삼성 노트북 쓰도 있는데 좀 무거워요
+P0 	: 어떤 쇼핑몰 자주 이용하세요?
+P1 	: 퓨즈서울이요
+P0 	: 그 브랜드 들어본적있어요
+P1 	: 옷 살 때 구경해보세요 ㅎㅎ
+P0 	: 어떤 옷 구매하셨어요?
+P1 	: 반팔 긴바지 생활한복 샀어요

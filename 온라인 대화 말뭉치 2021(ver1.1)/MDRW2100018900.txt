@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 요즘 개학하셧나요
+P1 	: 다음 달에 개강해요!
+P1 	: &name1& 님은요?
+P0 	: 앗 대학생이시구나
+P0 	: 전 졸업하고 일하고 있어요
+P1 	: 멋있으세요!
+P0 	: 일하는 개미인걸욜..ㅠㅠ
+P0 	: 몇학년이세요??
+P1 	: 올해 입학한 1학년입니다!
+P0 	: 앗 파릇파릇하네요 !!
+P0 	: 근데 입학후에 학교에 많이 가셧나요?ㅠㅠ
+P1 	: 저희는 1학기에 대면이랑 비대면이랑 섞여있어서 좀 갔어요!
+P0 	: ㅎㅎ오 그래도 다행이네요!!
+P0 	: 제동생은 2학년인데 학교간날이 안간날보다 적어서
+P0 	: 좀 걱정이네요 ㅎ
+P1 	: 저도 아직 학교 구조도 잘 몰라요ㅠ 수업 있는 건물만 외웠어요...ㅎㅎ
+P0 	: ㅎㅎ빨리 코로나가 끝나서
+P0 	: 학교생활을 즐겨보는게 좋을텐데말이에요..
+P1 	: 맞아요ㅠㅠ 아는 동기도 별로 없고... 동아리도 활동을 거의 못 한다고 해서 못 들어 갔어요

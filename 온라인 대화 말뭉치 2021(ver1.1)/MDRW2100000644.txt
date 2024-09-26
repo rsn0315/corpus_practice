@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100000644
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 가장 최근에 간 여행지가어디인가요?
+P1 	: 안녕하세요! 
+	  여행 간 적이 없어요ㅜㅠ 굳이 따지자면 작년에 인천쪽 해수욕장 당일치기 ..?
+P1 	: &name1&님은요?
+P0 	: 저는 혼자서 여수 갔었어요
+P0 	: 사람들 없을때요!
+P1 	: 우와 여수!! 여수 좋죠?
+P0 	: 네 엄청 좋았어요
+P0 	: 사람들도 착하고 한적하고 바다구경하기에 좋았어요!
+P1 	: 여수밤바다 노래필수인데 들으셨나요ㅋㅋ
+P0 	: 아그럼요 ㅋㅋㅋ
+P1 	: 모래 위에 앉아서 노래들으면서 바다구경하는게 로망입니다...ㅜ
+P0 	: 여수밤바다 들으면서 밤바다 구경했어요
+P0 	: 모래는 아니고 카페안에서 ㅎㅎ
+P1 	: 카페도 좋져 음료마시면서 보는 것도 운치있어요
+P0 	: 맞아요 전 계획형인간이라
+P0 	: 카페갈 계획이없었는데
+P0 	: 핸드폰 충전하느라 급하게 들어간 카페였는데
+P0 	: 되게 괜찮았어요 ㅎㅎ
+P1 	: ㅋㅋㅋ저도 작년에 인천 해수욕장 갔을 때 카페에서 음료 마시면서 구경했었어요
+P1 	: 낮이라 사람이 많아서.. 카페로 피신했죠...ㅋㅋ
+P1 	: 근데 오히려 높은곳에서 내려다보니까 좋더라구요
+P0 	: 높은곳에가면 기분이 좋더라구요
+P1 	: 바람도 살랑살랑 불고 경치도 좋구요
+P1 	: 나중에 갈 수 있다면 파리 에펠탑에 올라가보고싶어요

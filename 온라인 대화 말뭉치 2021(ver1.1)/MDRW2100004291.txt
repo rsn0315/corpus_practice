@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100004291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 온라인 커뮤니티에 자주 참여하시는 편인가요?
+P1 	: 자주는 아니고 관심분야만요~
+P1 	: 안녕하세요~
+P0 	: 아 그러시구나
+P0 	: 저도 최근에 관심분야의 온라인 커뮤니티에 자주 접속하고 있는데
+P0 	: 열심히 활동하시는 분들도 참 많더라고요
+P1 	: 아무래도 코로나때문에
+P1 	: 활동을 많이 못해서그런가봐요
+P0 	: 맞아요
+P1 	: 어떤 커뮤니티에 관심잇으세요?
+P0 	: 음 저는 좀 다양한 곳에 관심이 있는데
+P0 	: 사진이나 글쓰기 쪽에 요즘 관심이 가더라고요
+P0 	: 찰떡이님은요?
+P1 	: 사진도 좋네요
+P1 	: 전 운동이나 원데이클래스쪽
+P0 	: 아 원데이클래스 좋죠
+P1 	: 자주 찾아봣엇어요
+P0 	: 요즘 원데이도 정말 다양하더라고요
+P1 	: 맞아요
+P0 	: 해보신 것 있어요?
+P1 	: 저 샹그리아 만드는거 체험해봣는데 재미잇엇어요
+P0 	: 오오 재미있겠어요
+P0 	: 저는 향초만들기랑 떡케이크만들기 해봤어요
+P1 	: 오 그런것도 좋네요
+P0 	: 네 재미있더라고요
+P1 	: 전 등산쪽도 한번참여해보고
+P0 	: 오 등산~ 건강도 챙길 수 있어서 좋을 듯해요
+P1 	: 원데이라 부담없더라구요
+P0 	: 네 원데이는 부담이 없고
+P0 	: 근데 또 참여하면 기분전환이 되는 건 좋죠!

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 우리 백신예약 언제지?
+P1 	: 27일인가 28일인가? 둘중 하나
+P0 	: 시간은?
+P1 	: 2시일꺼야
+P0 	: 예약 바꿀수 있다던데 미리 맞을까?
+P1 	: 굳이~~~ 귀찮아
+P0 	: 뉴스나오는거보면 걱정스럽긴하다
+P1 	: 많은사람이 한꺼번에 맞아서그래
+P1 	: 부작용없는 백신이 어디있어
+P0 	: 알고는 있는데도 불안반그렇네....
+P1 	: 나도 그렇긴한데
+P1 	: 걸리는것보다는 백신불안감이 덜할꺼같아
+P0 	: 난 쫌 이런거에 예민하잖아
+P1 	: 울신랑이야 내가 이해하지~~
+P1 	: 아파죽어도 병원은 안갈텐데
+P0 	: 두근두근한다
+P1 	: 안죽어 걱정마

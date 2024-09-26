@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013886
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: &name2&은 정모 나가본적 있나요?
+P1 	: 정모라고 할수있을지는 모르겠는데 같이 게임하던 분들은 만나봤어요
+P0 	: 현재도 연락하시나요?
+P1 	: 네 3년째 잘지내고 있어요
+P0 	: 어떤 게임 커뮤니티예요?
+P1 	: 그냥 오버워치를 하다 알게된 분들이였어요
+P1 	: 항상 6인큐로 같이하게된분들이요
+P0 	: 다른 커뮤니티는 어떤거하세요?
+P1 	: 다른 커뮤니티는 하는게 없어요
+P1 	: &name1&은요?
+P0 	: 주식, 코인 커뮤니티 눈팅해요
+P1 	: 정보얻으러다니시나요?
+P0 	: 맞아요

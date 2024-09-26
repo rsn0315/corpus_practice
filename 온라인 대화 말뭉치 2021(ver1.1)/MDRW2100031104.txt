@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100031104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 예약은  하셨나요
+P1 	: 아 저 우선접종자였는데
+P1 	: 중간에 취소했더니
+P1 	: 예약이 안되네요
+P1 	: 백신 맞으셨어요?
+P0 	: 아니요 7일날 예약 됐어요
+P0 	: 좀 두렵네요
+P0 	: 기다림이 무섭네요
+P1 	: 아 화이자시죠?
+P1 	: 괜찮을거예요!
+P0 	: 네 화이자
+P0 	: 뉴스에서 부작용 사례가 많이나와서 걱정이되죠
+P1 	: 그렇긴 해요 그리고 수급도 모자란다고 접종 간격도 늘이는게 영 맘에 안들어요
+P0 	: 2차는 6주후에 접종이죠
+P0 	: 시간이 다가 올수록 더 긴장이 되네요
+P0 	: 미루면 너무 늦어질까 그럴수도 없구요 ?
+P1 	: 네 4주로 땡겨준단말이  있던데
+P1 	: 언제 시행될지 모르겠네요
+P0 	: 약이 부족해서 아직은 미지수 이지 않을까요
+P1 	: 그쵸 그냥 기대안하는게 나을 거같아요
+P1 	: 화이자맞으세요?
+P0 	: 네 화이자 이네요
+P0 	: 모더니 부족으로 변경 됐어요
+P1 	: 아 원래 모더나하셨나보네요
+P1 	: 10부제 예약하실때
+P1 	: 원하는 날짜에 잘 잡히던가요?
+P0 	: 처음 예약할땐 모더나 라고 문자왔죠
+P0 	: 원하는 날짜 가능해요
+P1 	: 아 그렇군요 그럼 내일  직장 쉬시겠네요

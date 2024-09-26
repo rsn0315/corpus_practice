@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100003586
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 일 하고 계세요?
+P0 	: 저 오늘 취업했어요!
+P0 	: 월요일날 입사합니다 ㅎㅎ
+P1 	: 우와 너무 축하드려요~
+P0 	: 감사합니다 **^^**
+P1 	: 요즘 취업난도 심한데 정말 잘됐네요!
+P0 	: &name2&님은 일 하고 계세요?
+P0 	: 생각보다 취업이 빨리된거같아요..
+P0 	: 조금 당황스럽기도 ^^;
+P1 	: 네 저도 졸업하고 바로 취업했어요
+P1 	: 지금 2년차예요
+P0 	: 우와 대단해요
+P1 	: 취업하기 전에 많이 놀러다니셔야 하는데ㅎㅎㅎ
+P0 	: 그럼 내채공 하고계신가요?
+P1 	: 아 저는 직업이 교사라서
+P0 	: 아 선생님이시군요!!
+P0 	: 저는 개발자로 취직했어요
+P1 	: 멋있어요~
+P1 	: 전 사실 임용 공부만 해서 기업 취업은 잘 몰라요^^;;;
+P0 	: 제 친구들중에서도 임용고시 치는 친구들 많았어요
+P0 	: 그래서 대단한거같아요 ㅠㅠ!!
+P1 	: 전 개발자가 더 대단해보여요ㅎㅎ
+P1 	: 공대 츄ㅣ업은 1도 몰라서
+P0 	: 근데 전 개발을 잘 못해요...(뚜둔
+P1 	: 친구들 보면 스펙 쌓고 인턴하고 한다고 고생이 많더라구요

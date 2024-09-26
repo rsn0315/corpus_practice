@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100017165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 외항사라 별로 안심했어요
+P1 	: 가끔 한국 사무장님 만날 때만
+P0 	: 어느항공사에 계셨나요
+P1 	: 아아 역시 심하다! 이렇게
+P1 	: 느꼈어요
+P0 	: 아하
+P1 	: 중동 항공사요
+P0 	: 거기도
+P1 	: 중동 항공사는 다 영어로 이야기해서
+P1 	: 수직관계 느낄 일이 잘 없어요
+P1 	: 아 근데 제 이야기만 하네요
+P0 	: 하긴 한국이 제일 빡세긴하죠
+P1 	: &name1&님 직장 이야기 하셔도 괜찮아요!
+P0 	: 괜찮은데 혹시 불편하신가요
+P1 	: 오 아니요
+P0 	: 아뇨 저 듣는거 좋아해서
+P1 	: 그냥 제가 수다떨고
+P1 	: &name1&님만 듣는 기분이라
+P0 	: 재밌게 듣고 있었어요
+P1 	: 아 ㅎㅎ 그럼 됐어요
+P1 	: 맞아요
+P1 	: 또 제가 워낙에 그 아부성 멘트를 잘 못해요 ㅎㅎ
+P0 	: 약간 속된말로 꼰대..사회
+P1 	: 맞아요
+P0 	: 한국은 뭐 든 다 좀 빡센거같아요ㅠ
+P1 	: 저 예전에 한국인들이랑 비행했는데

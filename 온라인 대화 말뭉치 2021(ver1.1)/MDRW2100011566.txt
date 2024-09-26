@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100011566
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매한 물건있으세요
+P1 	: 책이랑 액정타블렛이요
+P1 	: 쇼핑 좋아하세요?
+P0 	: 네 쇼핑 좋아해요~
+P0 	: 어떤책 구매하셨어요?
+P1 	: 일러스트레이터 책이요
+P0 	: 배우시는 중인가요? 멋지세요
+P1 	: 감사합니다 ㅎㅎ 근데 잘못해요
+P0 	: 중고거래해 보신적있나요
+P1 	: 네 핸드폰사보고
+P1 	: 요즘엔 기프티콘을 팔았어요
+P0 	: 저는 갤럭시 버즈 팔았어요
+P0 	: 중고나라랑 당근중에 어떤걸 이용하세요?
+P1 	: 가격은 원하시는만큼 받으셨어요?
+P1 	: 둘다 안해요
+P0 	: 올려놓은가격대로 팔았어요
+P0 	: 금방 나가더라고요
+P1 	: 잘됐네요
+P0 	: 어떤 플랫폼 이용하세요?
+P1 	: 중고거래요?
+P1 	: 저는 예전에 한두번해본게 다여서요

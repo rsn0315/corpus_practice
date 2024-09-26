@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100038469
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 꽈배기 사 먹을까
+P0 	: 오! 우웅 먹고싶다
+P1 	: 시장에서 사 올게
+P0 	: 예이~
+P1 	: 또 다른 거 사 올까
+P0 	: 그럼 핫도그도 ㅎㅎ
+P1 	: 알았다
+P0 	: 핫도그에 설당 묻혀서~
+P1 	: 살찌겠다
+P0 	: 안찐다 ㅋ
+P1 	: 몰라 갔다 올게
+P0 	: 웅웅 ㅎㅎ 빨리 다녀와용
+P1 	: 알겠다

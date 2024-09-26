@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031406
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요!
+P1 	: 혹시 동물 키우시나요?
+P0 	: 구피여
+P1 	: 오 구피
+P1 	: 물고기는 물 관리나 온도조절?을 섬세하게 신경써줘야하는 것 같아서
+P1 	: 공부를 많이 해야할 것 같아요!!
+P0 	: 일이에여
+P1 	: 그렇겠네요ㅠㅠㅠ
+P0 	: 강아지 키우고싶은데
+P1 	: 강아지 좋죠
+P1 	: 귀여운데 전 산책자주 시켜줘야하는게 힘들듯요ㅠ
+P0 	: 케어가 어렵죠
+P1 	: 돈도 많이 들고요ㅠ 병원비ㅠㅠ
+P0 	: 사람보다더ㅜ힘들듯
+P1 	: 보험이 안되니까요ㅠ
+P0 	: 그쵸

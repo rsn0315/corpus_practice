@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 중고거래 해보셨나요?
+P1 	: 네 당근마켓 해봤어요
+P0 	: 뭐 파셨나요?
+P1 	: 저는 안 쓰는 기프티콘 팔았어요
+P0 	: 저는 버즈 팔았어요 최근에
+P1 	: 아! 저도 에어팟 판적이 있네요
+P1 	: 당근에서 파셨나요
+P0 	: 네 금방 팔렸어요
+P1 	: 버즈도 역시 인기가 많나봐요
+P0 	: 문의 엄청 오더라고요ㅋㅋ
+P1 	: 인기상품이네요 ㅋㅋㅋ
+P1 	: 다른건 안팔아보셨어요?
+P0 	: 자전거 팔아봤어요

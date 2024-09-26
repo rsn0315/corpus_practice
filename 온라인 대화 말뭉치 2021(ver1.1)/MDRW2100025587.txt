@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025587
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 스포츠가 있으신가요
+P1 	: 저는 딱히 없어요
+P1 	: &name1&님은요?
+P0 	: 저는 한 10년전에? 대학생땐 야구좋아했어요
+P1 	: 어떤 팀 좋아하셨나요?
+P0 	: 저는 대구에서 학교나와서 삼성라이온즈 팬이었어요ㅎㅎ
+P1 	: 삼성이 대구였나요??
+P0 	: 네네 ㅋㅋ그때만해도 까마득한 옛날이었죠 감독 선동열이고 ㅋㅋ
+P1 	: 그렇군요 그럼 직관도 자주 가셨나요?
+P0 	: 그때는 자주갔었어요 ㅋㅋ
+P0 	: 표를 공짜로 얻거나 2천원에 사거나 그렇게해서요
+P1 	: 어떻게 그렇게 싸게 가요?
+P0 	: 매우 오래전이었어요 ㅋㅋㄱ
+P0 	: 물가가 쌌던것도있고
+P1 	: 그러면 요즘 관심가는 스포츠 있으신가요?
+P0 	: 여전히 야구는좋아하는데 전처럼 막 챙겨보지는않네요ㅜ
+P1 	: 그렇군요

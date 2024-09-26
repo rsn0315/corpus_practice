@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100003001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페 잘가세요?
+P1 	: 시간 날 때 가는데 자주는 안가요
+P1 	: 카페 좋아하세요?
+P0 	: 저도 찾아가는건 아니지만
+P0 	: 주변에서 가자하면 잘가요 ㅋㅋ
+P1 	: 카페가면 주로 뭐 마시나요
+P1 	: 저는 커피는 못마셔서 에이드종류 마셔요
+P0 	: 오 저도요
+P0 	: 마시긴하는데 커피를 안좋아해서
+P0 	: 음료 위주로 마셔요
+P1 	: 어떤거 마시나요?
+P1 	: 에이드? 쥬스? 스무디?
+P0 	: 보통은 과일주스 좋아해서
+P0 	: 잘 마셔요
+P1 	: 과일주스 너무맛있죠
+P1 	: 카페디저트 음.. 케익류도 즐기시는 편인가요?
+P0 	: 음 아뇽 전 디저트는 잘 ..
+P0 	: &name2&님은 ?
+P1 	: 저는 케익류도 좋아해서ㅎㅎ
+P1 	: 같이 즐기는 편이에요
+P1 	: 그럼 카페가면 음료만 드시는 편이신가봐요
+P0 	: 네네 아님 씹어먹는 쿠키정도
+P0 	: ㅎㅎ
+P1 	: 쿠키도 좋죠
+P1 	: 맛있어요
+P0 	: 요즘 카페가 정말 많은거같아요

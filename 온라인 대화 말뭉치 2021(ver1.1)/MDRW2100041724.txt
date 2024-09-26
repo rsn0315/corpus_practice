@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100041724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요, 기본에 충실한 곳이 맛집!!
+P0 	: 그런 곳이 롱런하는 것 같아요ㅎㅎㅎ
+P0 	: &name2&님은 카페 자주 가시나요?
+P1 	: 일하다가 집중 안되면 가끔 가요!
+P1 	: &name1&님은요?
+P0 	: 저는 커피를 안마셔서 에이드나 스무디 땡길때 가끔 가요!
+P0 	: &name2&님은 커피 잘 드시나요?
+P1 	: 저도 커피 안 마셔요, 맛을 잘 모르겠더라궁ᆢ
+P0 	: 저두요 쓰기만해서 굳이 먹고싶지 않더라구요
+P0 	: 그럼 카페가서 뭐 드세요??
+P1 	: 저는 피스타치오랑 초코, 그린티 좋아하는데 휘익님은요??
+P0 	: 오호 저는 초코 딸기 에이드 좋아해요!
+P0 	: 특히 딸기요거트나 딸기스무디가 최애입니다ㅎㅎ
+P1 	: 오 딸기파시군요 딸기 새콤달콤해서 맛나죠
+P0 	: 맞아요 딸기정도가 딱 깔끔하고 좋더라구요ㅎㅎ
+P0 	: 피스타치오는 무슨맛이에요??
+P1 	: 피스타치오는 고소한 맛인 것 같아요, 많이 달지 않아요
+P0 	: 오 그럼 많이 먹을 수 있을 것 같아요
+P0 	: 아몬드나 캐슈넛같은 맛이랑은 다른가요?
+P1 	: 오, 좀 비슷할 것 같아요

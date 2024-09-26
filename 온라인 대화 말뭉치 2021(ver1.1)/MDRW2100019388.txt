@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100019388
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 아니요 ㅜㅜ &name2&님은요?
+P1 	: 저도 안키워요 ㅜㅜ
+P1 	: 강아지 좋아하는데ㅜㅜ
+P0 	: ㅠ 오 저는 고양이 좋아해요
+P1 	: 고양이도 좋아요 ㅜㅜ 매력있어요 ㅋㅋㄱ
+P0 	: 저희동네 1층집중에 고양이키우는집이 세곳잇는데 부럽더라고요
+P1 	: 으아 완전 귀엽겠어요 !!
+P1 	: 어떤종이에요?
+P0 	: 한곳은 샴
+	  두집은 코숏이요 ㅋㅋ
+P1 	: 아 셋 다 넘 좋아하는 친구들이네요 ㅋㅋㅋ
+P1 	: 제 친구도 코숏 키우는데 은근 애교쟁이던데요 ㅎㅎ
+P0 	: 너무 귀엽네요. 
+	  그래서 가끔 그  중 한집 고양이들이 창가에서 사람구경하거든요.너무 귀엽더라고요ㅠㅠ
+P1 	: 으아 짱 귀엽겠어요 ㅜㅜ
+P1 	: 뭔가 동네 마스코트 느낌 ㅋㅋ ㅠㅠㅠ
+P0 	: 고양이 보러 놀러갈수잇어서 부럽네요 ㅠ
+P1 	: 저 가끔 놀러가는데 하 넘 부러워요 키우는거 ㅋㅋ
+P1 	: 근데 털이 진짜 많이 묻더라구요 ㅋㅋ

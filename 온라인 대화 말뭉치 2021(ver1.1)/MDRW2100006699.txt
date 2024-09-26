@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100006699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요?
+P0 	: 여행 다들 좋아하지 않을까요
+P0 	: 마지막 여행지가 어디에요?
+P1 	: 제주도요!
+P0 	: 오 좋았겠다
+P0 	: 누구랑 가셨어요?
+P1 	: 동기들이랑 갔어요
+P1 	: &name1&님은요?
+P0 	: 저는 지난달말에 부산으로 호캉스다녀왔어요
+P1 	: 헐 완전 부러운데요?
+P0 	: 여름휴가로 짧게 다녀왔어요
+P1 	: 여름에는 더우니까 호캉스가 짱이죠
+P0 	: 네 좋았어요
+P1 	: 맛있는 것도 드셨겠네요
+P0 	: 거대갈비라고 해운대에 유명한 고깃집있는데
+P0 	: 거기 다녀왔었고
+P0 	: 꼬막정찬도 먹었어요
+P0 	: 체크님은 제주도에서 뭐하셨어요?
+P1 	: 오오 이름만 들어도 범상치 않네요
+P1 	: 저는 친구들이랑 고기 꾸워먹고...
+P1 	: 배타고 그랬던 거 같아요
+P0 	: 바나나보트?
+P0 	: 요트?
+P1 	: 음 모터보트요!
+P0 	: 재밌겠다
+P0 	: 스노쿨링이나 다이빙 하셨나요?
+P1 	: 아뇨 물에 들어가긴 싫어서요ㅠ

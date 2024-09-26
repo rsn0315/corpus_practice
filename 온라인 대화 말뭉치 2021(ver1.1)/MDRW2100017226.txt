@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017226
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네안녕하세요
+P0 	: 맛집 좋아하시나요
+P1 	: 겁나 좋아합니다
+P1 	: &name1& 님은요?
+P0 	: 저도 겁나ㅎㅎㅎ
+P1 	: 최근에 어디가샸나요
+P0 	: 크레이지카츠요!
+P1 	: 오 어디 았는거죠??
+P0 	: 합정에 있습니다ㅎㅎ
+P1 	: 오 저 있는 곳에서 먼 곳이 아닌데 가봐야 겠네요
+P1 	: 유튜브에서 본 것 겈아요
+P1 	: 추천메뉴가 있나요
+P0 	: 특로스카츠 무조건드세요ㅎㅎ
+P1 	: 헉 기억해두겠습미다!!!!
+P0 	: 아 침고이네요...
+P1 	: ㅋㅋㅋ 정돈도 존맛이에요!

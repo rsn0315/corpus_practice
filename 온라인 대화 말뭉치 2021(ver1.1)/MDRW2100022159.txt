@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022159
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨나요?
+P1 	: 아뇨. &name1&은요?
+P0 	: 저도 안 했어요. 전 부모님이랑 같이 살아요
+P1 	: 저두요! 자취해보신 적 있나요?
+P0 	: 저 한번도 없어요ㅋㅋ &name2&은요?
+P1 	: 전 대학교 가면서부터 집에서 나가 살다가 다시 들어왔어요 ㅎㅎ
+P0 	: 아 자취경험이 있으시군요ㅎㅎ 학업이랑 집안일을 병행하는게 좀 힘들진 않으셨어요?
+P1 	: 혼자 살다보니깐 일이 많진 않아서 괜찮은데 먹는게 좀 힘들더라구요 ㅠㅠ 잘 안먹게되고 주로 사먹게되고!
+P0 	: 아 맞아요 아무래도... 요리는 시간도 많이 들고 번거로우니까요. 룸메는 없었어요?
+P1 	: 기숙사살때는 어차피 식당에서 나오니까 괜찮았는데 혼자서 자취해서 룸메가 없었어요 ㅠㅠ
+P1 	: 혼자 사니까 전 무섭기도해서 가족들이랑 사는게 훨씬 좋아요 ㅎㅎ
+P0 	: 저도 가족들이랑 사는게 좋은것같아요
+P0 	: 남매 있으세요?
+P1 	: 네! 남동생있습니다. &name1&은요??
+P0 	: 오 저도 남동생있어요! 3살차이에요

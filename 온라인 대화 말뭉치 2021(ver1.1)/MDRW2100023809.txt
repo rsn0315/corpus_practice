@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다^^ 요즘 비가 자주 오던데 지역에 비피해는 없나요?
+P1 	: 안녕하세요?^^ 다행이 집안이 매일 눅눅하다는 거 말고는 딱히 없는듯해요.
+P0 	: 다행이네요
+P0 	: 습해서 옷이 잘 안마르죠?
+P1 	: 그래서 제습기에게 날마다 신세를 진답니다.아직 건조기를 못 샀거든요.
+P1 	: 지금도 곧 비가 올것같이 하늘이 흐려지네요.
+P0 	: 저도 제습기는 있어서 잘 썼는데.. 건조기가 없어요 요새 애먹고 있답니다.. 세탁물이 안말라요
+P1 	: 비를 참 좋아하는데,이렇게 분위기없이 질척거리는건 별루네요.ㅎㅎ
+P0 	: 그러니까요.. 예전엔 비가 분위기 있게 왔는데 요새는 동남아식 비같아요
+P1 	: 가을에는 비와 특유의 그 바람이 정말 운치있는데 말이죠.^^
+P0 	: 그러게요.. 기상 이변이 점점 심해지고 있어요..
+P0 	: 제가 가을을 가장 좋아하는데 제가 좋아하는 그 느낌을 며칠 못느끼고 겨울로 넘어가네요
+P1 	: 그러게 말이예요..
+P0 	: &name2&은 가장 좋아하는 계절이 언젠가요?
+P1 	: 저두 일편단심 가을이요~
+P0 	: 오~ 같네용.. 원래 가을이 정말 아름다운 계절인데 말이죠..
+P0 	: 가을의 운치를 좋아하시는 건가요?
+P1 	: 맑은 하늘과 설레이는 바람이 너무 좋아서요

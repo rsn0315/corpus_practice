@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요
+P1 	: 네 물건 구경하는 것도 재밌구요
+P0 	: 어떤품목이요?
+P1 	: 보통 옷이나 신발 많이 보는것 같아요
+P0 	: 오 이제 가을옷~
+P1 	: 맞아요 할인도 하니까 사고싶어요
+P0 	: 어디서 할인하나요?
+P1 	: 대형쇼핑몰은 계속 하는거 같더라구요
+P0 	: 최근에 뭐 사셨나요
+P1 	: 최근엔 핸드크림 정도 샀네요
+P1 	: 금방 써버리더라구요
+P0 	: 오 핸드크림 어디브랜드가좋나요
+P1 	: 전 카밀 자주 써요
+P0 	: 카밀! 많이들어봤어요

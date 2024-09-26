@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005972
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 이제    재택근무 안하나
+P0 	: 웅 ㅠㅠ끝남..
+P1 	: 아직 코로나 확진자 많은데
+P0 	: 그니까.. 근데 출근하래
+P1 	: 이상하네
+P0 	: 웅 이상한 회사임 ㅎ
+P1 	: 어쩔 수 없지
+P0 	: 웅웅..ㅋㅋㅋ
+P1 	: 일찍 일어나야겠네
+P0 	: 웅 ㅠㅠ 이제 늦잠 못잔다
+P1 	: 힘내라
+P0 	: 웅웅..ㅋㅋㅋ
+P1 	: 야근만 안 하면 좋겠다
+P0 	: 그니까~

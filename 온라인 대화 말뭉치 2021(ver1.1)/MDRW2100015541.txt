@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015541
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 건강 관리 따로 하는 거 있으세요?
+P1 	: 저는 따로 하는건 없구 비타민 챙겨먹어요!
+P0 	: 와 저두요! 저는 비타민 c만 챙겨먹는데 요즘 종합비타민 먹어야하나 고민이에요
+P1 	: 종합비타민 챙겨먹으면 좋죠
+P1 	: 이제 날씨 슬슬 추워지면 면역력 챙겨야죠!!!
+P0 	: 그쵸ㅠㅠ 지금은 또 특히나 아프면 안되니까요!!
+P1 	: 맞아요 백신은 맞으셨어요?
+P0 	: 저는 이번에 예약해서 9월에 맞아요!
+P0 	: &name2&님은 접종하셨어요?
+P1 	: 저도 9월에 맞아요!
+P1 	: 부작용 있을까봐 조금 무서워요ㅠㅠ
+P0 	: 아 저두요ㅠㅠㅠ 다행히 주변 사람들은 괜찮은데
+P0 	: 뉴스가 매일 떠가지구 저도 걱정돼요
+P0 	: ㅠㅠ
+P1 	: 맞아요ㅠㅠ왜 내가 맞으려니까 부작용이 더 많이 나타나는 것 같은지
+P1 	: 그래도 맞는게 낫겠죠..?
+P0 	: 네 그래도 확률이랑 리스크를 비교했을 때 맞는 게 낫다고는 해요
+P0 	: 저도 그래서 유투브에 의사분들이 영상 찍은 거 보고 그랬어요
+P0 	: 저희같은 걱정하는 사람들이 많다보니까 관련 영상이 몇 개 있더라구요
+P0 	: 물론 그 낮은 확률이 내 일이 될 수도 있어서 그게 무서운거지만요ㅠㅜㅠ
+P1 	: 맞아요ㅠㅠㅠ괜히 마음이 불안한건 어쩔 수 없는것같아요
+P0 	: 무사히 잘 맞고 넘어가길ㅠㅠ

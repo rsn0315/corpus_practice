@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100046252
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 이제 점심 드시나요?
+P0 	: 네~ 콘푸로스트 먹고 있습니다ㅎㅎㅎ
+P0 	: &name2&님은 점심 안 드세요?
+P1 	: 헑 점심으로 시리얼인가요?
+P1 	: 저도 곧 먹으러 갈 거예요! 
+P0 	: 네ㅎㅎㅎ 요리하거나 설거지하는 걸 너무 귀찮아해서
+P0 	: 콘푸로스트 많이 먹어요ㅎㅎ
+P0 	: &name2&님은 뭐 드세요?
+P1 	: 간편식이네요 ! 전 아침에는 종종 먹는데 시리얼 점심까지는 못 먹겠어요 ㅋㅋ
+P1 	: 평소에 도시락 싸오다가 오늘 늦잠 자서 오랜만에 사먹으러 나가야돼요 ㅠㅠ 
+P1 	: 떠오르는 메뉴 하나 추천해주시겠어요 ?ㅋㅋ
+P0 	: 음
+P0 	: 다른 것보다
+P0 	: 밥을 먹고 싶긴한데
+P0 	: 거창한 거는 말고
+P0 	: 그냥 된장찌개나 불백 같은..
+P0 	: 집밥느낌
+P1 	: 오호
+P1 	: 혹시 집밥이 그리우신가요 ㅠ 
+P0 	: 그런게있으면 좋을 거 같아요
+P0 	: ㅎㅎㅎ 아녀.. ㅋㅋ 그립다기보다는..
+P0 	: 그냥 먹고싶은걸요?ㅋㅋ
+P0 	: 배가고픈건가ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 역시 시리얼로는 부족한 거예요!
+P0 	: 그럴지도 모르겠어요
+P0 	: 저녁은 맛있는 거 먹어야겠어요
+P1 	: 맞아요 저녁엔 꼭 맛있는거 드세요 ! 

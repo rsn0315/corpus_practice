@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026987
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘 먹은 알볼로피자어땠어
+P1 	: 간이 심심한게 맛있었어
+P1 	: 다른 피자는 너무 짜
+P0 	: 맞아 난 다른 피자도 좋긴한데 가끔 너무 짜더라
+P0 	: 다음에는 다른 맛 먹어보자
+P1 	: 다음에는 치즈 많은 걸로
+P0 	: 알겠어
+P0 	: 아 나 오늘 조선호텔 석박지 샀어
+P1 	: 석박지 집에 있잖아
+P0 	: 없어 내가 다먹었어
+P1 	: 만들어먹지 뭐하러사
+P0 	: 힘들게 뭘 만들어먹어
+P0 	: 그리고 조선호텔 김치 엄청 맛있대
+P1 	: 그럼 먹어보고 나중에 사먹자
+P0 	: 종류도 엄청 많더라 배추김치총각김치 겉절이도 있던데
+P1 	: 콩국수랑 먹게 겉절이로 사야겠네 가격은
+P0 	: 김치를 안사봐서 비싼지 안비싼지 모르겠네

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100016367
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘은 날씨가 맑네요! &name2&님 계신곳도 맑나요?
+P1 	: 여기는 조금 흐려요!
+P1 	: 드디어 맑은 날씨라니 기분좋으시겠어요
+P0 	: 습하진 않으세요?ㅎㅎ
+P1 	: 조금 습해요ㅠㅠ
+P1 	: 에어컨을 잠깐 돌리려구요
+P1 	: 거긴 습한가요?
+P0 	: 확실히 어제보단 덜 하네요~ 일기예보 챙겨보세요?
+P1 	: 필요할때만 검색해봐요
+P0 	: 어떤 계절 좋아하세요?
+P1 	: 저는 가을이요
+P1 	: &name1&님은요?
+P0 	: 저도 가을 좋아해요ㅎㅎ 무슨 날씨 좋아하세요?
+P1 	: 맑고 하늘 깨끗한 날씨요
+P1 	: 걷기좋은 날씨 좋아해쇼
+P1 	: 요
+P0 	: 저도요! 그쪽지역은 미세먼지 어떤가요?
+P1 	: 최근에는 미세먼지가 괜찮았어요
+P1 	: 더워도 미세먼지덜하니까 너무좋았어요
+P0 	: 공기청정기 보유하고 계세요?
+P1 	: 아니요 사고싶은 물건중 하나예요
+P1 	: 있으세요?
+P0 	: 여긴 날씨가 흐리네요!

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하시는거 있으세요?
+P1 	: 필라테스 하고 있어요
+	  운동하시나요?
+P0 	: 필라테스 저도 관심 있는데!! 예전에 조금 했었거든요
+P1 	: 저는 허리아파서 시작했는데 좋아요
+P0 	: 오~전 무릎이 안좋은데 필라테스 괜찮을까요?
+P1 	: 처음엔 허리아파서 도수치료받다가 좋아졌는데 다시 아파서 도수치료받는비용으로 필라테스 시작했는데
+	  이젠 허리안아파요
+P0 	: 오~~!!건강도 챙기고 허리도 안아프고!좋네요
+P1 	: 필라가 코어강화운동이라 무릎에 무리도 덜갈꺼예요
+P1 	: 확실히 코어는 좋아지더라구요
+P0 	: 아~~!! 기구로 하세요?
+P1 	: 대기구로 해요 리포머 바렐 체어 종류별로 돌아가면서 해요
+P0 	: 아~일대일로 하세요?
+P1 	: 아니요 초반에는 3:1로했는데 거의 1:1이였거든요
+	  지금은 2년쯤되서 5:1로 해요
+P0 	: 아~엄청 오래하셨네요
+P1 	: 네 저는강추해요 자세도 좋아지고 ㅎㅎ

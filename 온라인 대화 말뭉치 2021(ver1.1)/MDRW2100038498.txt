@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100038498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집 찾아다니는 편이세요?
+P0 	: 찾아다녀야하는데 문을 많이 닫아서ㅜㅜ
+P0 	: 맛집탐방좋아합니다
+P1 	: 그러면 맛집 관련 tv 프로그램 자주 보세요?
+P0 	: 생생정보통에서 맛집홍보해주는거 본 기억이 나네요
+P1 	: 저도 예전에는 생생정보통 따라서 자주 갔는데
+P1 	: 요즘엔 식스센스 따라서 다녀요
+P0 	: 아항
+P0 	: 먹는거 퀴즈 내도 될까요?
+P1 	: 네 내주세요ㅎㅎ
+P0 	: I wanna play a game
+P0 	: 답은 두 개입니다
+P0 	: 사과가 열 개가 있었습니다
+	  다섯 개의 사과를 먹었다면 남는 사과는 몇개 입니까?
+P1 	: 일단 기본적인 답은 5개겠죠
+P0 	: 땡~~~
+P0 	: 진짜 답을 얘기해주세요ㅋㅋㅋ제가원하는답이요
+P1 	: 으아 모르겠어요
+P0 	: 그럼 제가 답을 얘기해줄께요
+P0 	: 답은 두 개에요
+P1 	: 아하
+P1 	: 두개군요
+P1 	: 이렇게 답을 주시다니ㅋㅋ

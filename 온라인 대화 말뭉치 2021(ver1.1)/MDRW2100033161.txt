@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁은 머 드실 생각이에요?
+P0 	: 저녁 고민중이에요 김치찌개 남은거 먹을지
+P0 	: 마라샹궈 시킬지 ^^
+P1 	: 오  ㅎㅎ 여기는 비와서 저는 부침개 해먹으려고요 ㅎ
+P0 	: 우아우아 부침개ㅠㅠ 직접 하세요?
+P1 	: 네  부침개 파는데는 잘 없어서요 주변에 ㅋㅋㅋ
+P0 	: 레시피 있나요?
+P1 	: 그냥하는거죠 뭐 ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 글쿤요 ㅋㅋ 저는 부침개 하면 잘 안되더라고요
+P1 	: 반죽할때 농도가 중요한거같더라고요 ㅋㅋ
+P0 	: 와 농도 맞아요
+P0 	: 김치전? 재료는 뭐할거에요
+P1 	: 호박전이요 ㅎㅎ
+P0 	: 아하 호박전 드시는구나
+P0 	: 호박이랑 부침가루만 있음 되나요?
+P1 	: 계란도넣고 부침가루랑 튀김가루 조금?
+P0 	: 아 계란도 들어가는군요
+P1 	: 감자전분있으면 그것도 좀 넣고요 ㅎ

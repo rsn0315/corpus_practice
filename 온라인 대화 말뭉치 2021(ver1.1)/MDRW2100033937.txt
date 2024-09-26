@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033937
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P0 	: 동물 키우세요?
+P1 	: 지금은 안 키우고 어릴때 키웠어요!! 강아지들
+P0 	: 강아지 이름이 뭐예요?
+P1 	: 머루 순둥이 쎄리.. 이 정도네요 지금 생각나는건 ㅋㅋㅋ
+P1 	: 여러마리 키웠어서 ㅎㅎ
+P0 	: 강아지가 아팠던적이 있나요?
+P1 	: 네 복막염인가 걸려서 바로 떠난 아이가 있었어요..
+P0 	: 아이고 속상하셨겠어요ㅠㅠ
+P1 	: 아 네 그때는 제가 어릴때라 정신이 없었던 거 같아요 ㅠ
+P1 	: &name1&님은 반려동물 키워보셨나요?
+P0 	: 닭 키운적있어요
+P1 	: 오 마당에서 키우셨나요
+P0 	: 아니요 집에서요
+P1 	: 아 실내에서요!! 거의 가족이나 다름없었겠네요
+P0 	: 맞아요

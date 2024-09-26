@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013113
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 최근에 광명에서 하는 무료 전시 다녀왔어요 아이 활동이 있어서 바람쐬러 갔죠
+P0 	: 오.. 재밌었겠어요.
+	  저도 근처에서 하는 무료 전시회를 알아봐야겠어요.
+P1 	: 생각보다 많고 온라인 전시도 있더라고요
+P0 	: 아.. 전시회 정보는 어디서 얻으세요?
+P1 	: 저는 엄마들 카톡모임에서도 얻고 구청 에서 홍보 메세지가 오기도해요
+P1 	: 광명전시도 광명시청에서 한거에요
+P0 	: 아.. 저도 엄마들 카톡 모임 만들어 전시회 정보를 공유해야겠어요.ㅎ
+P1 	: 네 뮤지컬보러 간건 5년전이 마지막인거같아요
+P0 	: 뮤지컬은 비용이 비싸서 자주 보긴 어려운데
+	  본 사람들은 또 계속 찾아서 보러가더라구요.
+P1 	: 처음 본 게 지킬이었는데 너무 감동 받았어요
+P0 	: 주인공이 누구였어요.
+	  그 공연은 규모가 엄청나잖아요.
+P1 	: 홍광호요!!
+P1 	: 왜 홍지킬 하는지 알갰더라고요
+P0 	: 오..  유명배우가 하는 공연을 보셨군요.
+	  귀호강하셨겠어요.
+P1 	: 네ㅡ맞아요 그뒤로는 케이윌 노트르담봤는데 홍광호만큼은 아니어도 잘하시더라고요

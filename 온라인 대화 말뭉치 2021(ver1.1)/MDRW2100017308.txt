@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017308
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생인가요?
+P1 	: 아뇨 직장인입니다~
+P0 	: 퇴근 하셨나요?
+P1 	: 퇴근중이에요~ &name1&님은 학생이신가요?
+P0 	: 아니요 졸업한 지 꽤 되었고
+P0 	: 이직 준비 하고 있어요
+P1 	: 아~ 이직하는 이유가 뭔가요?
+P0 	: 전 해외 근무 하다가 한국 왔거든요
+P0 	: 그래서 자연스럽게 이직이에요
+P1 	: 아~ 직종은 동일하게 하시는건가요?
+P0 	: 아마 그럴지도 몰라요
+P0 	: &name2&님은 어떤 직무인가요?
+P1 	: 저는 사무직이요~ 이전에는 연구직이었다가 변경했어요
+P0 	: 아하
+P0 	: 변경한 직무는 괜찮나요? 저도 사무직이었어요
+P1 	: 변경한 지 3개월밖에 안되긴했지만 아직까진 괜찮아요ㅎㅎ
+P0 	: 두 직무가 다른가요?
+P1 	: 연구직은 실험을 주로 했었고 사무직은 책상에서 컴퓨터로만 업무를 하는게 가장 큰 차이같아요~

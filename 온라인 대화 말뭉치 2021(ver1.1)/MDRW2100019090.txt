@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 반려동물 이름이 &name2&?
+P1 	: 우와맞습니다
+P1 	: 천재 &name1&님
+P0 	: ㅋㅋㅋ 그거슨 강아지 일거시여..?
+P1 	: 네강아지입니다 ㅋㅋ
+P0 	: ㅋㅋ 하야색 말티즈? 이면 돗자리 깝니다..
+P1 	: 앗 아까워요 장모치와와 크림색 ㅋㅋ
+P1 	: 돗자리말고 다른 일 하실 운명!!
+P0 	: ㅋㅋㅋㅋ 모애요...
+P0 	: 예전엔 말티즈엿엇죠?
+P1 	: 앗 처음 키우는 강아쥐에요 ㅋㅋㅋㅋㅋ
+P0 	: 이참에 한마리 더 키우시죠.. ㅋㅋㅋ 
+	  강아지 얼마나 됫어요?
+P1 	: 앗ㅋㅋㅋ하얀말티즈
+P1 	: 4살이에용 넘 이뻐요
+P0 	: 근데 치와와도 크림색이 있어요? 많이 못본듯..
+P1 	: 바닐라 라떼같은
+P1 	: 크림색이에요
+P0 	: 보통 브라운이 많지 않나요? 크림이고 엄청 귀옂겟당
+P1 	: 브라운도 섞여있어요 ㅋㅋ
+P1 	: 브라운 크림
+P1 	: 내 너무 이뻐요 제 전부 제 심장

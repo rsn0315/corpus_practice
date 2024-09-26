@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100005142
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요리하는거 좋아하시나요?
+P1 	: 요리 귀찮아서 잘 안해먹어용
+P1 	: &name1&님은여?
+P0 	: 전 가끔 분식이나 찌개  요런건 해먹어요
+P0 	: 삼겹살도 구워먹고
+P1 	: 오 그래도 잘해드시네요
+P1 	: 저는 부대찌개나 제육볶음 밀키트로 나온거 가끔 먹어용
+P0 	: 요즘 밀키트 잘나오더라구요
+P1 	: 그춍
+P0 	: 편하고 재료도 다들어있어서
+P1 	: 맛도 있고 편하더라고요
+P0 	: 얼마전에 신림백순대 밀키트팔길래 샀는데
+P0 	: 진짜 신림서 먹는 맛이더라구요
+P1 	: 헉 정말요? 나중에 먹어볼게여
+P0 	: 맛있어요 기회되면 사서 드셔보세요
+P1 	: 그래야겠어용
+P1 	: 오늘은 뭐드셨어요?
+P0 	: 낮에 감자고로케랑 안주야 곱창볶음ㅎ 좀전에 토마토에 모짜렐라치즈넣고 발사믹소스에 비벼먹었어요ㅎ
+P0 	: 저녁은 뭐드셨어요?
+P1 	: 오 맛있는거 드셨네요
+P1 	: 저는 치즈라볶이 먹었어요! 카스테라랑
+P0 	: 떡볶이에 카스테라요? ㅎ 조합이 특이하네요
+P1 	: 따로따로 먹었어요ㅋㅋㅋㅋㅋ카스테라는 간식이영

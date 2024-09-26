@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014330
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 혹시 동호회같은 거 하고 계신가요?
+P1 	: 아니요! 전 봉사활동 예전에 하다가 지금은 쉬고 있어요
+P0 	: 아 그러시구나
+P0 	: 저도 예전엔 봉사활동 했었는데! 어떤 거 하셧어요?
+P1 	: 전 과학관 특별전 교육 봉사 했었어요! &name1&님은요?
+P0 	: 저는 독거노인 고독사 봉사요! 과학관 교육이면 어떤거 하는거예요?
+P1 	: 특별전에 다양한 부스가 있는데 그 부스에 관한 과학 지식을 알려주는 봉사예요ㅎㅎ
+P0 	: 와 애기들 많이 오죠??
+P1 	: 네ㅋㅋㅋㅋㅋ 애기들이 대부분이에요ㅋㅋㅋ
+P1 	: 그래도 즐거워 하는 모습 보면 힘이 나더라구요ㅋㅋㅋ
+P0 	: 와 그런건 애기들 좋아해야 할 수 있는 봉사같아요
+P0 	: 저는 아동 봉사만 하면 기빨려가지고 너무 힘들더라고요ㅜㅜ
+P1 	: 힘들긴 하죠 그래도 과학관이라 애기들만 있는게 아니라 가족들이 다같이 오니까 좀 편해요ㅋㅋㅋ
+P0 	: 아 그렇겠네요ㅋㅋ
+P1 	: 그리고 돌보는게 주 목적이 아니라 치우고 정리/이론 설명이 중요한 거라서 엄격하게 해도 뭐라고 안하는게 좋았어요...ㅎㅎ
+P0 	: 오오 보살피는거면 ㄹㅇ 땡깡부려도 어떻게 하기가 어렵더라구요ㅜ

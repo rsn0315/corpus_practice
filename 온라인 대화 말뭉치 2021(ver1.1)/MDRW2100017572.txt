@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017572
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 오늘 식사뭐드셨나용?
+P1 	: 소고기 구어 먹었어요~ 뭐드셨어요?
+P0 	: 와 맛있겠네요! 저는 토스트를 배달해서 먹었어요! 배달을 요즘 자주 시키게되는것 같아용
+P1 	: 저도 배달앱 vvip 에요! 토스트 어디꺼 드셨어요?
+P0 	: 이삭토스트요! 와 vvip시라니! 어떤걸 주로 드시나요?
+P1 	: 다양하게 다먹어요 분식 패스트푸드 야식... ㅎㅎ
+P0 	: ㅋㅋ저는 떡볶이를 주로 시켜먹어요!
+P1 	: 오 저도 떡볶이 진짜 좋아해요! 근데 요새 떡볶이가 너무비싸졌어요
+P0 	: 맞아요~~ 엽떡을 시작으로 가격이 너무 비싸진것같아요!
+P0 	: 집에서 밀키트사서 만들어먹을까 생각중이에요
+P1 	: 맞아요 밀키트도 좋죠~~
+P0 	: 밀키트로 음십 만들어보신적 있으신가요?
+P1 	: 떡볶이요ㅋㅋㅋ 뭐만들어보셨어요,
+P1 	: ?
+P0 	: 저도 떡볶이랑 냉면이요! 냉동피자도 간편하고 좋더라구요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑하고싶네요
+P1 	: 전 쇼핑하면 반품이 절반 이상이에요
+P1 	: 배송비만 들고 있어요
+P0 	: 저는 음.. 중고로 많이 사요
+P1 	: 전 아직 중고거래는 안해봤어요
+P0 	: 네 요샌 뭐 사고싶으세요
+P1 	: 옷이요 님은요
+P0 	: 음 저는 자동차를 바꾸고 싶어요
+P0 	: 자동차는 있으시죠?
+P1 	: 중고 알아보고 있어요
+P0 	: 아하. bmw좋아요
+	  bus metro walk
+P1 	: 네 물론 좋죠 전 suv 사고싶어요
+P0 	: 오호.....요즘 대세 에슈비
+P0 	: 지비육공 나와요
+P1 	: 아파트도 쇼핑하고 싶어요
+P0 	: 헉...........그렇군요. 요즘 그건 비싸서 쇼핑에 부담이

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100039860
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 백신 맞으셧나요?
+P1 	: 네 오늘이요
+P0 	: 괜찮았나요?
+P1 	: 네 맞을때는 괜찮았어요
+	  하지만..
+P0 	: 지금 좀 이상한가요??
+P1 	: 네 증상이 확실히 나타나기 시작했어요
+P0 	: 어떤 증상이요??
+P1 	: 팔이 열이 많이 나고 아프고 무겁고 그렇네요
+P0 	: 근육통인가요?
+P1 	: 네 그 느낌+팔이 올라가면 접종 부위가 아파 소스라치게 놀라고 소리가 나오네요
+P0 	: 살짝만 기대도 악소리날만큼 아프거나 하는 정도인가요?
+P1 	: 기대는건 안 해보았어요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017547
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 네 가끔 스포츠 경기를 관람하는 정도로 좋아해요
+P0 	: 어떤 경기를 관람하셨나요?
+P1 	: 최근엔 올림픽 경기들을 봤어요
+P0 	: 아 맞아요 최근에 올림픽 했었죠
+P0 	: 저도 여자배구 경기는 봤었어요
+P1 	: 저도 여자배구 흥미롭게 봤네요
+P0 	: 재밌더라구요 공이 빠르게 움직이는데
+P0 	: 선수들도 멋지구요
+P0 	: 또 재밌게 본 경기 있나요?
+P1 	: 전 피겨경기를 직접 보러 간적이 있네요
+P0 	: 와 피겨를 직관하셨구나 언제 보셨어요??
+P1 	: 평창올림픽때 우연히 티켓을 얻어 봤어요
+P0 	: 와 좋았겠어요
+P0 	: 평창올림픽 경기장은 가봤는데 경기직관까지는 못해봤거든요
+P1 	: 실제로 보면 더 속도감이 있고 움직임이 시원시원하더라고요
+P0 	: 저도 직접 보고 싶네요

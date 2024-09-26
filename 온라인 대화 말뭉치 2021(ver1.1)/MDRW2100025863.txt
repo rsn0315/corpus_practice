@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025863
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하는 편이세요?
+P1 	: 네 좋아해요
+P1 	: 좋아하시나요?
+P0 	: 네 그런데 요즘은 자주 못가요..
+P0 	: 최근엔 어디 다녀오셨나요?
+P1 	: 최근이라고해봐야 3년전이지만요 전주 갔었어요
+P0 	: 아 전주 ㅎㅎ 맛있는거 많이 드셨나여?
+P0 	: 저는 전주 다녀온지 5년은 넘은 거 같아요
+P1 	: 전주는 역시 맛집이죠
+P1 	: 국밥도 먹고 해산물도 먹고 이것저것 먹었어요
+P0 	: 12월에 다시 갈 것 같은데 벌써 맛집 기대되네요 ㅎㅎ
+P1 	: 그죠! 12월에 가시는구나
+P1 	: 피순대국밥 꼭 먹어주세요
+P0 	: 넵 리스트업할게요 ㅋㅋ
+P1 	: 콩나물국밥도요...ㅠㅠ 시장쪽에서
+P1 	: 너무맛있게먹어서 너무 그리워요
+P1 	: 12월에는 코로나 잠잠해지면 좋겠네요
+P0 	: 그쵸 제발 조금이라도 줄길...
+P0 	: 국내여행도 이렇게 힘든 날이 올 줄 몰랏어요ㅜ
+P1 	: 그러니까요ㅠㅠ 서울로 와서 궁궐구경도 다니고싶은데
+P1 	: 참 상황이 애매하네요
+P0 	: 그래서 차타고 멀리 가서 숲보고 바다보고 그런거만 해요...
+P1 	: 차있으면 그런게 좋네요

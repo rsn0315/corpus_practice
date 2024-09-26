@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100018884
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 식사하셨나요?
+P1 	: 지금요!
+P1 	: 김밥이욤
+P0 	: 어떤 김밥 드시나요!
+P1 	: 그냥 편의점 주먹밥입니딩
+P1 	: 뭐드셔욤
+P0 	: 저는 닭볶음탕이랑 먹었어요!
+P0 	: 닭고기 좋아하시나요?
+P1 	: 네!!
+P1 	: 닭요리는 다 좋아요
+P0 	: 치킨도 좋아하시나요?
+P1 	: 아 당연하죠
+P1 	: 누가 싫어하죠
+P0 	: 아ㅋㅋㅋㅋ
+P0 	: 어디서 자주 시켜드세요?
+P1 	: 전 근데 뼈잇는게 더 맛있는거 같아요
+P1 	: 그냥 사먹기도하고
+P0 	: 뼈있는 게 더 맛있죠!
+P0 	: 저는 bhc에서 자주 시켜먹는 거 같아요
+P1 	: 오
+P1 	: 저는 맛있는건 교촌인거 같아요
+P1 	: 최근에는 귭네 많이 먹었고요
+P0 	: 저도 굽네 고 추바사삭 맛있게 먹었어요!
+P0 	: 교촌에서는 어떤 메뉴 시켜드시나요?
+P1 	: 레드요
+P1 	: 존.맛.탱
+P1 	: 저는 매운거 좋아하거든요
+P1 	: 매운거 잘 드세요?
+P0 	: 네 좋아해요! 굽네 레드 맛있죠

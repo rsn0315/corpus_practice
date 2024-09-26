@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100025831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!! 당근마켓 자주 쓰시나요?
+P1 	: 앗 아뇨 ㅠㅠ 당근마켓 이용해본적 없어요!
+P0 	: 앗 그러시군요 혹시 쇼핑은 좋아하시나요!
+P1 	: 넹넹 ㅋㅋㅋㅋㅋ
+P0 	: 저도요ㅋㅋㅋㅋ 주로 직접 물건 보고 사시나요 아니면 인터넷으로 사시나요??
+P1 	: 요즘은 웬만한건 다 인터넷으로 사는 것 같아요 ㅋㅋㅋㅋㅋㅋ 몇몇 식재료들 제외하고는...
+P0 	: 그쵸 아무래도 밖에 나가기가 어렵다보니...
+P0 	: 식재료는 우유나 계란같은거 말씀하시나요!
+P1 	: 네네 인터넷으로 사기엔 좀 그런것들은 ㅋㅋㅋㅋ 나가서 사요
+P0 	: 맞아요 마트 안에서도 최저가나 유통기한 비교하기 편하고요ㅋㅋㅋㅋ
+P1 	: &name1&님은 주로 어떤것들 쇼핑하시나요?_?
+P0 	: 생필품 같은 거 빼면... 요즘은 방을 열심히 꾸미고 있어요!
+P1 	: 와 인테리어 용품 이런거 구입하시는 건가요??
+P0 	: 먼저 방에서 지내면서 필요한 좌식 책상같은거 사고 인테리어도 조금씩 생각중이에요ㅎㅎ

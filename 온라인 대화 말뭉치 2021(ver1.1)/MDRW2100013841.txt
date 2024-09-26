@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013841
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 경기를 즐기시나요?
+P1 	: 즐겨보는 편은 아닌데
+	  이번에 올림픽은 좀 봤어요
+P0 	: 올림릭에서 어느 경기 보셨었나요?
+P1 	: 양궁이랑 도마도 보고요
+P1 	: 도마가 의외로 재미있더라고요
+P0 	: 도마는 정말 입 벌리고 봤어요..너무 대단하시더라구요
+P1 	: 네 정말 사람이 가능한 건가 싶더라고요
+P0 	: 코어 힘으로 딱 서는 게 정말 신기했어요
+P1 	: 운동선수들 진짜 대단해요
+P0 	: 노력을 한다는 것 자체가 너무 멋있더라구요
+P1 	: 아무나 못할일이져 하루스케줄보니까 진짜 먹고자고운동 이거뿐이더라고요
+P0 	: 맞아요...나중에 관절이 걱정되더라구요ㅠ
+P1 	: 다들 수술몇번씩은 하더라고요
+P0 	: 재활도 힘들텐데 복귀하는걸 보면 그저 대단해요
+P1 	: 네 맞아요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100036401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 네 당연히 먹었죠ㅋ
+P0 	: 뭐 드셨나요?
+P1 	: 콩나물국 진미채 콩장 등등
+P1 	: &name1& 님은요?
+P0 	: 저는 김치찌개 먹었어요
+P0 	: 좋아하는 음식이 있으신가요?
+P1 	: 전 딱히 가리진 않는데 생선 종류 별로 안 좋아해요
+P0 	: 구운거나 조린 거 상관없이 다 싫어하시는건가요??
+P1 	: 제가 고등어 알러지가 있어가지고 좀 가리게 됐어요ㅠ
+P0 	: 그렇군요ㅠㅠ 그럼 생선육수도 싫어하시나요??
+P1 	: 트라우마가 있어 잘 안 먹는 편이예요
+P0 	: 그럼 고기는 좋아하시나요?
+P1 	: 고기는 당연히 좋아합니다ㅋ
+P0 	: 그렇군요ㅎㅎㅎ

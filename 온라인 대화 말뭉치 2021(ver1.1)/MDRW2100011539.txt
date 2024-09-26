@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011539
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 종교 있으세요?
+P1 	: 현재는 교회를 다니지않고 있지만 기독교 믿고 있어요.
+P0 	: 아 그러시군요~교회는 다시 나가실 생각이신가요?
+P1 	: 코로나 상황이 좋아지면 다니고 싶어요.
+P0 	: 코로나때문에 못 나가시는군요..부디 좋아지길요
+P1 	: 네.. 내년이면 대면 예배가 가능할려나 모르겠어요.
+P0 	: 그래야할텐데요...
+P1 	: 님은 종교가 있으신가요.
+P0 	: 저는 무교예요ㅜ
+P1 	: 네.. 종교에 대해 부정적이지는 않으시죠.
+P0 	: 네~~당연하죠~남편은 카톨릭이예요%
+P1 	: 아..  남편분은 님이 무교이지만  종교활동을 이해해주시니 편하겠어요.
+	  간혹 종교가 달라 의가 상하는 부부들도 있더라구요.
+P0 	: 근데 지금은 성당 안 나가요~ㅎㅎ저희는 종교로 다툰적은 없어요~

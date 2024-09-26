@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000507
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤일을 하시나요
+P1 	: 아이티 직종에 종사하고있어요
+P0 	: 와 좋네요 사무직 인거죠?
+P1 	: 네 앉아서 하루종일 컴퓨터만 보는데 터널증후군생긴거같아요ㅜㅜ
+P0 	: 저는 아직 무직이라 힘드네요
+P1 	: 어느쪽으로 취업하실지는 정하셨나요??
+P0 	: 사무직 쪽으로 가고는 싶은데
+P0 	: 나이도 스펙도 너무 안되네요
+P0 	: 신입은 잘안뽑고 경력직만 뽑아서 더욱이 힘드네요
+P1 	: 아... 맞아요 요즘 경력직들도 중고신입으로 들어가서 자리가 없는것같아요
+P0 	: 아무래도 30대 초반인데 힘들겠죠 사무직은..
+P1 	: 초반이면 그렇게 힘들지는 않을것같아요... 저희 사촌형도 워홀갔다와서 33살에 첫회사 취업했거든요
+P0 	: 그분은 스펙이 엄첨 좋은거 아닌가요ㅎ
+P1 	: 수도권 끝자락 문과 졸업하고 자격증도 별로 없었던것같은데.... 친하진 않아서 잘 모르겠어요
+P0 	: 그렇군요 저도 한번 노력해봐야겠어요

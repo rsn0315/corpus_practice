@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000359
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 여름휴가 다녀오셨어요?
+P1 	: 아니요~ 아직이요ㅎㅎ
+P1 	: 다녀오셨나요?
+P0 	: 저는 호캉스요
+P1 	: 와 좋으셨겄어요~ 요즘엔 코로나라ㅠㅠ 어디 맘대로 못가겠더라구요
+P0 	: 네~사람 많은곳 가기 좀 그래서 호캉스로 갔다왔어요
+P1 	: 맞아요. 안전한게 우선이죠 ㅎ
+P0 	: 네~ 휴가 어디 안가시나요?
+P1 	: 저희는 9월쯤 갈수있을것같아요
+P0 	: 아~날씨가 선선해서 좋겠네요
+P1 	: 네~ 그때쯤이면코로나도 잠잠해지길ㅠ
+P1 	: 그래야 여행도 좀 마음놓고 다닐수있을것 같아요ㅠㅠ
+P0 	: 네 제발요ㅠ
+P0 	: 여행지는 정하셨어요?
+P1 	: 아직이요ㅜㅠ슬슬정해봐야죵

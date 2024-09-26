@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100020938
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 공연 좋아하세요?
+P0 	: 공연좋죠
+P0 	: &name2&님은 공연좋아하세요?
+P1 	: 저도 좋아해요
+P1 	: 어떤 공연 좋아하세요?
+P0 	: 저는 뮤지컬이요
+P0 	: 공연을 많이 안 봐서ㅋㅋㅋㅋㅋㅋ
+P0 	: 근데 잔잔한거는 별로라
+P0 	: 시끌벅적한게 좋더라구요
+P0 	: &name2&님은요?
+P1 	: 저는 콘서트 좋아해요 ㅎㅎ
+P1 	: 저도 조용한거 안좋아해요!
+P0 	: 오 누구 콘서트 가보셨어요?
+P1 	: 저 방탄 콘서트 가봤어요!
+P0 	: 티켓팅 완전 빡세지않아요??
+P0 	: 대박
+P1 	: 빡셌는데 ㅋㅋ 방탄이 티켓팅 실력을 키워주더라구요 ..
+P0 	: 앜ㅋㅋㅋㅋㅋㅋ
+P0 	: 콘서트 어때요??
+P0 	: 저는 콘서트는 안 가봐서
+P0 	: 너무 재밌을거같아요
+P1 	: 요즘은 못가지만 ㅜㅜ 엄청 재밌어요 !
+P1 	: 꼭 라이브 하는 가수로 가보셨으면 ㅎㅎ 좋겠어요
+P0 	: 저는 아이유 콘서트 가보고싶더라구요
+P0 	: 영상으로만 봤는데 너무 잘불러서
+P0 	: 직접들어보고싶더라구요

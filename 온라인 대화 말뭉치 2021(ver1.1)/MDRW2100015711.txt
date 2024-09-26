@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015711
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 동물이나 키우고 있는 반려동물 있으신가요?
+P1 	: 강아지 좋아하는데 키워본 적은 없어요
+P1 	: &name1&님은요??
+P0 	: 저두저두!
+P0 	: 강아지 좋아하는데 키워본 적없어요
+P0 	: 고양이도 좋아하시나요?
+P1 	: 앗 고양이는 좀 무서워해요...
+P1 	: 어렸을 때 엄마가 겁을 줘서...
+P0 	: 앗 고양이가 째려본다 이렇게영?
+P0 	: 저희 엄마두 고양이 무서워하세요
+P0 	: 눈이 무섭다네요
+P1 	: 길고양이 쳐다보면 달려든다고 겁주셨어요..ㅋㅋ
+P1 	: &name1&님은 고양이 좋아하세요??
+P0 	: 네넹 전 동물 거의 다 좋아해요ㅎㅎ
+P0 	: 전 만약에 동물을 키운다면
+P0 	: 콩이라고 이름 짓고 싶었는데
+P0 	: 제 성이 홍씨라서
+P0 	: 풀네임이........
+P1 	: 앜ㅋㅋㅋ 이름이 좀 특이해지네요...
+P1 	: 전 강아지 키우면 꼬마라고 짓고 싶어요ㅎㅎ
+P0 	: 아잇 기여울 것같아요
+P0 	: 엇 생각해보니 제 친구 고양이 이름이 꼬마인데
+P0 	: 가족들은 그냥 다 꼬맹이라 부르더라구요ㅋㅋㅋ
+P1 	: 앜ㅋㅋㅋ 저절로 별칭이 생겼네요ㅋㅋ
+P1 	: 혹시 다른 이름도 생각해보신 적 있으신가요??
+P0 	: 음...왠지 애기라 부를 것같아요
+P1 	: 오 근데 저도 이름 붙여줘도 애기라 부를 것 같아요ㅋㅋ
+P0 	: 그쵸ㅋㅋㅋ귀여워가지구ㅠ

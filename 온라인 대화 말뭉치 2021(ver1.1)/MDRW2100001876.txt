@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001876
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 좋아하시나요??
+P1 	: 여행 다니는거 좋아하는데
+P1 	: 흥미 느낀지 얼마 안되고 코로나가 생겨서 자주 못가고 있네요ㅠㅠ
+P1 	: 여행 좋아하시나요?
+P0 	: 네~ 좋아해요ㅠ근데 요즘에는 코로나때문에ㅠㅠ
+P1 	: 마지막으로 다녀온 여행이 어디신가요?
+P0 	: 얼마전에 애들이 너무심심해해서 포항에 스파있는 곳으로 다녀왔어요
+P1 	: 헐 스파ㅠㅠㅠ
+P1 	: 저도 너무 가고싶네요ㅠㅠ
+P1 	: 포항 관광지 구경은 안하셨나요?
+P0 	: 네ㅠㅠ 코로나때문에 안에서만ㅠ죽도시장만 잠시 들렀다가
+P1 	: 아쉬우셨겠어요ㅠㅠ
+P1 	: 포항에도 볼거리 많을거 같은데ㅠㅠ
+P0 	: 바다 발도 한번 못 담궈보고ㅠ
+P1 	: ㅠㅠㅠㅠ아쉽네요
+P1 	: 기억에 남는 여행지는 어디신가요?
+P0 	: 신혼여행이요ㅋㅋ 정말제대로 힐링으로 다녀왔는데 그뒤로는 애가있으니 힐링위주는ㅠㅠ
+P1 	: 오 어디로 다녀오셨나요?
+P0 	: 푸켓이요~ㅎ
+P1 	: 오 푸켓도 휴양지인가요?
+P0 	: 관광도있고 마사지있고 볼거리도 꽤있었어요

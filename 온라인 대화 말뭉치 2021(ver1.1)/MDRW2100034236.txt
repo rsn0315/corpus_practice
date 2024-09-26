@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100034236
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 ㅜㅜ 해보셨어요?
+P0 	: 네 해보긴했는데 제 스타일은 아니더라구요
+P0 	: 저는 자연스럽게 알아가는게 더 좋아서ㅠ
+P1 	: 아 저두요! 자만추시군요 ㅋㅋㅋ
+P0 	: 마자요! 자만추에요
+P0 	: 그래서 연애하기가 힘드네요ㅋㅋ
+P0 	: 자연스럽게 만날곳이 딱히 없더라구요
+P1 	: 맞아요 그런 사람들이 대부분 솔로더라구요 저처럼 ㅌㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ제  얘기네요ㅋㅋ
+	  연애 많이 해보셨나요?
+P1 	: 별로 못해봤어요 ㅜㅜ 많이 해보셨어요?
+P0 	: 아니요ㅋㅋ저두 많이 못해봤어요ㅋㅋ
+P0 	: 엄청 금사빠긴한데ㅋㅋ
+P1 	: 금사빠 오랜만에 들어요 ㅋㅋㅋ
+P1 	: 나중에 인연을 만나겠죠? 저희둘다 ㅋㅋㅋㅋ
+P0 	: 너무  올드했나요?ㅋㅋㅋ
+P0 	: 마자요 언젠간 찾아오겠죠ㅋㅋ
+P1 	: ㅋㅋㅋㅋ 아녀 추억돋는 말이었어요 약간 ㅋㅋㅋ
+P1 	: 결혼생각은 있으세요?
+P0 	: 아니요 연애는 하고싶은데 
+	  결혼은 별로 안하고싶어요
+P0 	: &name2&님은요?
+P1 	: 저는 나중에 꼭 하고 싶어요 ㅋㅋㅋ

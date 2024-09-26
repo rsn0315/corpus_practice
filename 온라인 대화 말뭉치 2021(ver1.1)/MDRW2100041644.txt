@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100041644
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 오늘 점심으로 어떤거 드셨나요? :)
+P1 	: 안녕하세요 써브웨이 샌드위치 먹었어요!
+P0 	: 오~ 써브웨이 점심으로 먹기 딱 좋죠 ㅎㅎ
+P0 	: 주로 점심으로 어떤거 드세요?
+P1 	: 저는 주로 한식 먹는거 같아요 소화 잘되는 걸루요!!
+P1 	: &name1&님은요?
+P0 	: 기름 많은거 먹으면 속이 안 좋긴하더라구요 ㅠㅠ... 그래서 저도 한식? 밥집 주로 가는것 같아요!
+P0 	: 밥 먹고 후식 드시나요? :)
+P1 	: 후식 아무래도 커피가 땡겨요 ㅋㅋㅋ
+P1 	: 아메리카노 수혈..
+P0 	: ㅋㅋㅋㅋ 앗 아메리카노.. 제 혈관속에도 흐르고 있어요.. ㅎㅎ
+P0 	: 커피는 개인카페 다니시나요? 아니면 브랜드 있는 곳으로 다니시나요?
+P1 	: 주로 프차 위주로 다니는거 같아요 지금 이사와서 개인카페는 아직 ㅠㅠ 스벅 젤 많이 가네유
+P0 	: 스벅 아이스아메리카노가 제일 좋긴하죠 ㅎㅎ
+P0 	: 커피 드실때 디저트 드시나요?
+P1 	: 디저트 항상 먹진 않는데 먹는다면 치즈케익 같은거 좋아해요 ㅎㅎ
+P0 	: 오 그렇군요 :) ! 요즘 카페에 크라플 많이 팔던데 드셔보셨나요?
+P1 	: 아뇨 아직요 궁금한데 드셔보셨나용
+P0 	: 넹! 달고 바삭하고 진짜 맛있어요 ㅎㅎ 메뉴에 있다면 꼭 드셔보셨으면 좋겠네요 :)

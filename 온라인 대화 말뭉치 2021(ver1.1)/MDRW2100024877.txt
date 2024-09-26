@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100024877
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 좋아하시나요?
+P1 	: 넼ㅋㅋ.조아해용
+P0 	: 혹시 추천해주실 여행지가 있으신가요?
+P1 	: 저는 제주도용..ㅋㅋ 제주도 한달 있고싶어요ㅠㅋㅋㅋ
+P0 	: 제주도!
+	  어디곳이 좋나요?
+P1 	: ㅋㅋㅋㅋ 다 좋은거같아요 어딜가도...어디든 바다가 잇어서 ㅋㅋㅋ
+P0 	: 전 아직 한번 밖에 못가봤는데 우연히 성산일출봉 근처 바다에서
+P0 	: 돌고래봤어요ㅎㅅ
+P0 	: 너무 좋더라구요~!
+P1 	: 헐 ..진짜조앗겟다ㅠㅠㅠㅠ
+P0 	: 네!
+	  복권을 사야한다고 하던데 못사서 아쉽더라구요
+P0 	: 그래도 너무 좋은 장면을 봐서ㅎㅎ
+P0 	: 제주도는 또 가보고 싶네요
+P1 	: 글게요 진짜 기억에 남겠어요
+P1 	: 요즘 제주도 넘 인기있어졌어요 코로나때문에 다들 해외를 못가니 ㅋㅋㅋ
+P1 	: 랜트카비용이...
+P0 	: 제주도는 정말 너무 비싸요ㅜㅜ
+P0 	: 그만큼 좋기도 하구요ㅜ
+P1 	: 맞아용... 가고싶다당장 ㅠㅠ
+P0 	: 제주도에서 맛있는 음식은 드셨어요?
+P1 	: 아근데 생각보다...너무 관광에 치우친데가 많아그런가?
+P1 	: 다 맛있진 않았어요
+P1 	: 그냥 흑돼지랑 전복죽 이런건 맛있더라구요 ㅋㅋㅋ
+P0 	: 그쵸?
+	  저도 아직은 제주도에서 맛있는 음식을 못먹었어요ㅜㅜ

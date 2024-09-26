@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007893
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네
+P1 	: 설거지 하시나요?
+P0 	: 하죠
+P0 	: 청소담당이요
+P1 	: 청소기는 일주일에 몇 번정도 돌리세요?
+P0 	: 매일요
+P1 	: 공기청정기 쓰시나요?
+P0 	: 네
+P1 	: 화장실 청소는 일주일에 몇 번 하세요?
+P0 	: 1번이요
+P0 	: 락스 싫아요
+P1 	: 식기세척기나 건조기 집에 있으신가요?
+P0 	: 건조기는 있아요
+P1 	: 건조기 괜찮은가요?
+P0 	: 대만족이요
+P1 	: 건조기에 넣으면 다 말라서 나오나요?
+P0 	: 네 뽀송뽀송

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100016601
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 배달음식 최애가 뭔가요!?
+P0 	: 저는 떡볶이 되게 자주 시켜 먹어요~
+P0 	: &name2&님은요?
+P1 	: 저는 치킨 자주먹어요 ㅋㅋㅋㅋ 떡볶이도 좋아해요
+P1 	: 어느 떡볶이좋아해요?
+P0 	: 저는 로제 떡볶이 자주 먹어요!
+P1 	: 오오 브랜드는요?요즘에 로제 많이팔더라구요
+P0 	: 저 배떡 자주시켜먹는것 같아요 ㅋㅋ
+P0 	: &name2&님은 어디에서 자주 시키시나요?
+P1 	: 저는 동네에 신참있어서 신참먹어요!
+P1 	: 배떡 궁금한데 가까이에 없어요 ㅠㅠ
+P0 	: 오 저 신참 떡볶이 궁금한데 저도 가까이에 없어서 못시켜봤어ㄱ요
+P0 	: 달고마 떡볶이? 먹어보고싶은데
+P1 	: 오오 그거맛잇어요 맵고 달고 ㅋㅋㅋㅋ
+P1 	: 떡볶이얘기하니까 먹고싶네요 ㅋㅋㅋㅋ
+P1 	: 저녁 뭐드셧어요?
+P0 	: 저는 오늘 새우튀김 사와서 먹었어요 ㄱㅋ
+P1 	: 헐맛잇겟어요 ㅠㅠㅠㅠ 새우튀김만 드신거에요?
+P0 	: 네 맥주가 마시고 싶어서 안주로 먹었어요 ㅋㅋㅋㅋㅋ
+P0 	: &name2&님은 저녁 뭐 드셨나요
+P1 	: 크 맥주안주였군요!
+P1 	: 저는 그냥 빵먹었어요 ㅋㅋㅋㅋ파바 할인으루요

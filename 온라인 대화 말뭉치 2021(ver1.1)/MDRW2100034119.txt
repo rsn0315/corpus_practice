@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034119
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 수업은 어때요 ?
+P0 	: 너무 어려워요~ 그래도 열심히 하고 있어요!
+P1 	: 어떤과에요 ?? 대충 어느쪽인지만 알려주세요 !
+P0 	: 공대요!
+P0 	: 소프트웨어 쪽이에요!
+P1 	: 오 헐 대박이에요!
+P1 	: 멋지네요 공대라니 ㅎㅎ
+P1 	: 막 프로그래밍 같은거 배우나요??!
+P0 	: 맞아요! 전공으러 프로그래밍 언어 배우고 있어요
+P1 	: 와 진짜 어려울거같아요 ㅠㅠ
+P1 	: 저도 한때 그쪽으로 나가고싶었는데 ㅋㅋ
+P0 	: 오 정말요? 저는 이쪽 생각 전혀 안 하다가 온 거라서 급하게 배우고 있어요ㅎㅎ
+P1 	: 오오 원랜 어느 과 생각했어요?
+P0 	: 수학과나 통계학과요!
+P1 	: 오 완전 다른 분야네요???
+P1 	: 약간 수학쪽이 재밌었나봐요 ㅎㅎ
+P0 	: 수학이 제일 재밌었어요ㅎㅎ 진로나 취직 생각해서 공대쪽으로 빠졌어요...ㅠ
+P1 	: ㅠㅠ 진짜 취직이 문제네요 ...
+P1 	: 저도 취직때문에 다른과 갔었어요 ㅎㅎ

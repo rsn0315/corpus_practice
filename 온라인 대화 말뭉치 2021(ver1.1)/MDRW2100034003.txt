@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100034003
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강은 잘 챙기고 계신가요 어떠세요
+P1 	: 치아 건강 챙겨요
+P0 	: 오 치과 잘 다니시나요
+P1 	: 네 6개월에서 3개월에 한번요
+P1 	: 더 저주 가게됐어요
+P0 	: 와 엄청 잘 챙기시네요 근데 치과가는거 안 무서우신가요? 전 무서워요 아직 ㅋㅋㅋ
+P1 	: 잇몸이 안좋아서요
+P1 	: 엄청 무서워요
+P0 	: 아 잇몸때문에..
+P1 	: 눈물찔끔
+P0 	: ㅠㅠㅠ 그 소리가 너무 공포예요 ㅋㅋㅋ
+P1 	: 맞아요 발이 오므러지고
+P1 	: ㅜㅜ손꼭 잡고
+P0 	: 아 진짜.. 늦게갈수록 돈깨지는걸 아는데도 ㅋㅋㅋ
+P1 	: 네 그러다 수백 들어요
+P1 	: 저 임플란트 했어요
+P0 	: 임플란트가 신경치료보다 더 아프죠? ㅠ
+P1 	: 무서웠어요
+P1 	: 아프기도하고
+P1 	: 마취를 왕창하고 ㅜㅜ
+P1 	: 쇠가 들어간다는 공포가 ㅜㅜ
+P0 	: 아 ㅠㅠㅠ 그 뼈처럼 심는거요.. 느껴지나요? ㅠㅠ
+P1 	: 네
+P1 	: 잇몸도 소뼈 이식했어요 ㅜㅜ
+P1 	: 3개월 ㅜㅜ
+P1 	: 걸렸어요
+P0 	: 헐 소뼈 이식도 있군요 몰랐어요 그게 더 좋은가요?
+P1 	: 모르겠어요
+P1 	: 제 뼈가 없어서 한거라 ㅜㅜ
+P0 	: 아 저는 인공으로만 이식하는줄 알았어요!! 소뼈는 몰랐네요

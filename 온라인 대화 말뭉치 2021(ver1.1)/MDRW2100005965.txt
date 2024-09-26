@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그래
+P0 	: 언제가?
+P1 	: 다음 달에
+P0 	: 엄마랑 같이?
+P1 	: 그래
+P0 	: 재밌겠다~~
+P1 	: 같이 갈래
+P0 	: 아니 ㅋㅋ 일해야지
+P1 	: 휴가 내면 되지
+P0 	: 저번에 썼잖아 ㅠㅠ
+P1 	: 그랬군
+P0 	: 이틀정도만 연차 내서 같이 갈까?ㅋㅋ
+P1 	: 그래도 되면 응
+P0 	: 오 ㅋㅋ 그럼 한번 생각해볼게

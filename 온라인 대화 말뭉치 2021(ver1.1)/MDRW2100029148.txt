@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100029148
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 학생이신가요?
+P1 	: 네 아직 학생이에요.
+P1 	: 방학때 여행이 꿈이었는데
+P1 	: 망했어요ㅠㅠ
+P0 	: 아 코로나때문에 힘들겠어요
+P0 	: 내년에도 해외여행 어렵겠죠
+P1 	: 아무래도 그렇겠죠
+P1 	: 우리나라보다 심각한 나라들도 있다고하고...
+P1 	: 어머니 지인분이 터키에 계시는데
+P1 	: 장 보러도 못나가서
+P0 	: 거기는 더 심한가보네요
+P1 	: 여기서 식료품 챙겨서 보내드렸어요
+P1 	: 네 한인마트를 못가신대요
+P0 	: 아 대단하시다
+P0 	: 다들 고생이네요
+P1 	: 맞아요ㅠㅠ
+P0 	: 이번여름에 휴가다녀오셨어요?
+P1 	: 요양병원에서 일하시는 지인은
+P0 	: 네네
+P1 	: 작년 봄이었나 한창 심해질때
+P1 	: 혹시 코호트격리 될까봐
+P1 	: 바로 들고갈 수 있게 캐리어에 짐 싸두셨대요
+P0 	: 제 주변에도
+P0 	: 요양병원에서 일하던 지인있는데
+P0 	: 매주 코로나검사받았었다고 하더라고요

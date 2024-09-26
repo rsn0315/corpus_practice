@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033880
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 점심은 드셨나요?
+P1 	: 네 비빔밥먹었어요 점심 뭐드셨어요?
+P0 	: 우와 비빔밥!! 저는 남아있던 돼지고기 구워서 부추무침이랑 깻잎에 싸먹었어요!!
+P1 	: 우와 너무 맛있을거같아요 깻잎 최고죠
+P0 	: 오 &name2&님 깻잎 좋아하세요?
+P0 	: 저는 상추보다 깻잎이 좋아요!!
+P1 	: 네 저도 그래요ㅋㅋ닭갈비 깻잎 최고ㅠㅠ
+P0 	: 와아아아 맞아요 닭갈비에 깻잎 진짜 최고에요 저 집에서 먹으면 깻잎 따로 더 뿌리고 남은 깻잎으로 쌈까지 싸먹어요ㅋㅋㅋㅋㅋ
+P1 	: 저도 그래요ㅠㅠㅠ깻잎 많이 넣을수록 맛있어서ㅠㅠ
+P0 	: 와 &name2&님 정말 저랑 취향 비슷하시네요 최고시다!!!!
+P1 	: 깻잎파는 적은데 반가워요ㅋㅋㅋ
+P0 	: 저희 엄마가 보라색 깻잎으로 장아찌 담아주시거든요 그거 진짜 맛있어요 고기먹을때 깻잎에 깻잎장아찌 한장 올려서 먹으면 진짜 맛있어요
+P1 	: 보라색 깻잎??찾아봐야겠어요ㅋㅋㅋ신기하다
+P0 	: 생으로 먹으면 일반깻잎보다 향이 덜해서 장아찌로 담아 먹어요 맛있어요!!
+P1 	: 저도 장아찌 좋아해서 찾아볼게요ㅎㅎ

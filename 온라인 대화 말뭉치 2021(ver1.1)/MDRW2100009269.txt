@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009269
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오빠는 다음달에 화이자 접종한다네
+P0 	: 백신 예약하셨구나
+P1 	: 회사에서 일괄적으로 하는듯해
+P0 	: 1차이신가?
+P1 	: 아니 이번달에 벌써 1차 맞고 9월엔 2차래
+P0 	: 오 별 이상 없으셨나보네
+P1 	: 아니.. 맞은 날부터 팔 엄청 아파서 고생했다던데
+P0 	: 화이자 맞은 사람들 대부분 그렇더만
+P1 	: 독감이랑은 비교도 안될정도로 진짜 아프대
+P1 	: 팔이 1주일도 넘게 ㅠㅠ
+P0 	: 훌.. 일하는데 힘드시겠네
+P1 	: 회사에도 확진자 나와서 난리도 아니었다고
+P0 	: 요즘 여기 저기 난리도 아니네
+P1 	: 어디에서 걸렸는지도 모르니 스스로 조심하는 수밖에 없는듯
+P0 	: 에휴.. 한숨밖에 안나옴

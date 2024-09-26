@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011137
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기억에 남는 여행지 있으세요?
+P1 	: 전 제주도요!
+P0 	: 제주도 어떤 음식 드셨나요!?
+P1 	: 흑돼지랑 고기국수랑 여처가지 먹었는데 잘기억이 안나네요 ㅋㅋ
+P0 	: 바닷가는 어디 가셨나요? 저는 제주도 가면 협재해수욕장으로 가는데
+P1 	: 오 저도 협재갔는데 물이 너무 예쁘더라구요
+P0 	: &name2&님은 앞으로 가보고 싶은 여행지가 있으신가요?
+P1 	: 전 해외여행 가보고 싶어요 ㅋㅋ
+P0 	: 어떤 곳이요?!
+P1 	: 이탈리아나 동남아쪽이요
+P0 	: 동남아 제일 가보고 싶은 나라 있어요?!
+P1 	: 저 베트남 가보고 싶어용
+P0 	: 베트남 좋아요!!! 특히 호치민이 좋았던 거 같아요

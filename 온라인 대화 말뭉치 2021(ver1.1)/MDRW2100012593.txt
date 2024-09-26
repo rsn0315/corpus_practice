@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012593
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 미용이나 건강을 위해서 하시는 일이 있나요
+P1 	: 요가하고 피부과 정기적으로 다녀요ㅎㅎ
+P0 	: 요가 어렵진 않나요
+P1 	: 요가 첨엔 힘들었는데 좀 나아졌어요 화장품 뭐 쓰세요?
+P0 	: 유연성이 좋아야 하기 좋겠죠
+P1 	: 네 유연성이 없어서 하면서 길렀죠 하루만 걸러도 다시 돌아와요
+P0 	: 전 너무 나무토막이라서 해도 어려울것 같아요
+P1 	: 그래도 꾸준히 해보세요
+P1 	: 거북목도 고쳐지고 자세도 좋아져요
+P0 	: 건강에 도움이 많이 되죠
+P1 	: 네 이제 운동은 필수인거 같아요
+P0 	: 전 유산소 걷기를 합니다
+P1 	: 아 걷기도 좋은 거 같아요 몇시간정도 하세요?
+P0 	: 하루 1시간 주6일 정도 해요

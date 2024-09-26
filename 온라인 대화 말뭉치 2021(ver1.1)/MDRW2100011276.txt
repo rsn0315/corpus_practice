@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011276
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 기르시나요
+P1 	: 아니요 근데 한번 키워보고싶어요
+P0 	: 어떤 동물 키워보고 싶나요
+P1 	: 저는 고양이 키워보고싶어요
+P0 	: 고양이 좋아하시나 봐요
+P1 	: 고양이 눈이 너무 귀여워요ㅠㅠ
+P0 	: 맞아요 동그랗고 크고 보석 같아요
+P0 	: 고양이에 또 어떤  점이 좋으신가요
+P1 	: 소리도 귀여워요ㅎㅎ
+P0 	: 야옹 하는 소리 말씀이시죠
+P0 	: 맞아요 너무 귀여워요
+P1 	: 반려동물 키우시나요?
+P0 	: 진돗개 한 마리 키우고 있어요
+P1 	: 와 진돗개 엄청 멋있을것같아요
+P0 	: 진돗개 좋아하시나요
+P1 	: 네 좋아하죠ㅎㅎ 늠름한 진돗개

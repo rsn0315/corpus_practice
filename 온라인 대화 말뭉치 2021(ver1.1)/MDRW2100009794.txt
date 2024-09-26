@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009794
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책봐요?
+P1 	: 안녕하세요 저는 웹툰이나 장르소설봐요^^;
+P0 	: 네이버요?
+P1 	: 카카오페이지로 주로봤어요. &name1&님은 책 좋아하세요.
+P1 	: ?
+P0 	: 시간이 핑계죠
+P1 	: 그죠..좋아하는 웹툰도 볼시간이 부족하네요.
+P0 	: 살다보니
+P0 	: 추천좀
+P1 	: 오랫만이네요~ 요즘 카카오 웹툰이 핫하던데요
+P0 	: 그른가요
+P1 	: 그림.색상이 엄청 고퀄리티에요
+P0 	: 그래여

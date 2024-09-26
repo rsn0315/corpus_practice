@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019186
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 여행 다녀오셨나요?
+P0 	: 몇달 된 듯요 ㅜ
+P1 	: 저도 6월에 바다 갔다오고 추석 연휴에 바다 한 번 더 다녀오려구요
+P0 	: 바다 좋아하시나봐요
+P1 	: 네! 산보단 바다를 조아해요
+P0 	: 바다에서 뭐라세요?
+P1 	: 6월엔 바다 물에서 놀았는데
+	  추석때는 추워져서 발만 담글거 같아요
+P0 	: 아 저흰 바다 별로 안가요 ㅋㅋ
+P1 	: 그럼 어디가세요?
+P0 	: 여기저기 관광지 공원 카페 드
+P1 	: 산은 안가세요?
+P0 	: 별로요 ㅋㅋ
+P1 	: 그쵸 저도 산은 별로에요.
+P0 	: ㅎㅎㅎ식물원이나 공원  아이 위한 동물원이 좋아요 ㅎ
+P1 	: 아이 있음 그런 곳이 여행하기 좋죠

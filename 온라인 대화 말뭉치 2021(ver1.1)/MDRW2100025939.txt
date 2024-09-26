@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025939
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 좋아하는 음식이 뭔가요????
+P0 	: 비빔면 다 좋아해요!
+P0 	: 좋아하는 음식이 뭔가요??
+P1 	: 오 저는 곱창볶음을 제일 좋아해요!
+P1 	: 비빔면 중에 어떤 비빔면을 제일 좋아하세요???
+P0 	: 밀면 좋아합니다!
+P0 	: 최근에 배홍동비빔면 먹어봤는데 이것도 좋았어요
+P1 	: 헐 배홍동 안먹어봤는데 맛있군요
+P0 	: 포장지는 식욕감퇴되는 기분인데 맛은 괜찮았어요 ㅎㅎ
+P0 	: 행사 자주하던데 다음에 도전해보세요!
+P1 	: 그러게요 더 추워지기전에 한번 먹어봐야겠어요
+P0 	: 저는 곱창볶음 먹어봐야겠네요 ㅎㅎ
+P0 	: 요즘 포장해서 파시던데 사와서 드시나요??
+P1 	: 저는 곱창트럭에서 자주 먹어요
+P0 	: 곱창트럭이 있어요?? 왜 우리 지역은 ㅠㅠ..!!
+P1 	: 저도 이사 와서 처음봣어요!
+P0 	: 너무 부러워요ㅠㅠ

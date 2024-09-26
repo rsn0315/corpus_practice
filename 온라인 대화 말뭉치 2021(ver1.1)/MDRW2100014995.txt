@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100014995
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 지금은 안키우는데 예전에 강아지 키웠어요^^
+P0 	: 혹시 키우세요?
+P1 	: 저도 예전에 강아지를 키웠어요.
+P0 	: 강아지 좋아하세요?
+P1 	: 그럼요. 귀엽잖아요.
+	  애견카페도 종종 갑니다.
+P0 	: 전 애견카페는 안가봤는데 거기 강아지들은 사람 엄청 좋아할꺼 같아요
+P1 	: 네. 순한 강아지들이 엄청 많고..
+	  관리가 된 강아지들이라 더 이쁘더라구요.
+P0 	: 나중에 아이랑 같이 가봐야겠어요~
+P1 	: 애견팬션도 있고 애견보험도 있고
+	  애견산업이 갈수록 번창하더라구요.
+P1 	: 요즘엔 다양한 동물을 키우더라구요.
+P1 	: 애견 옷들 보셨어요?
+	  아이 옷처럼 귀엽지요.ㅎ
+P0 	: 애견 옷 귀여운거 많아요~
+P0 	: 한복도 있고 ㅋㅋ
+P1 	: 입혀놓으면 이쁘겠어요.^^
+P0 	: 애완견도 가족이니 예쁘게 꾸며주고 싶을꺼 같아요

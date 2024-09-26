@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가장 최근 여행지가 어디세요??
+P0 	: 국내에서는 양양이요! 뉴질랜드에서 한국 들어와서는 필리핀 보홀 갔다왔어요!
+P0 	: 저는 수영을 못하는데 바다는 좋아해서 ㅋㅋㅋㅋ
+P1 	: 와 보홀 많이 들어봤어요
+P1 	: 보홀도 진짜 가고싶었는데 세부랑 ....
+P1 	: 저도 수영 잘은 못하지만 바다 좋아해요~
+P0 	: 여행중 가장 기억남는 일 있으세요?
+P1 	: 당일에 친구에게 수영 배우고 수영만 8시간 했던게 기억남아요 ㅋㅋㅋㅋ
+P0 	: 와 8시간이라니 진짜 체력이 대단하시네요....
+P0 	: 혹시 나라마다 기념품 꼭 사온다 이런거 있으세요?
+P1 	: 마그넷 작은거로 늘 사오는거같아요 ㅋㅋㅋ
+P1 	: 하나 둘 모으는 재미가 있어욮
+P0 	: 그거 쌓이면 보는 맛이 있죠 ㅋㅋㅋ
+P0 	: 제주도도 가보셨나요?
+P1 	: 네네 제주도 작년에 코로나 딱 직전인 1월 초에 다녀왔었어요 ㅎㅎ
+P1 	: 몇주 뒤 코로나가 ㅜㅜ
+P0 	: ㅜㅜ아이고 한라산도 등반 하셨나요?
+P1 	: 한라산은 한번도 못가봤네요 ㅜㅜ
+P0 	: 제주도는 어디가 제일 좋으셨나요!
+P1 	: 제주 애월쪽 바다를 둘러싼 길에서 전기자전거를 탔는데 진짜 재밌었어요 ㅋㅋㅋ

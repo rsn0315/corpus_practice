@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 전 청포도그린티에 먹었어요~
+P1 	: 오 그거 한번도 안먹어봤는데
+P1 	: 당도 몇으로 드세요? 다음에 한번 먹어볼게요!
+P0 	: 당도는 모든메뉴 다 중간으로 하는거같아요ㅋㅋㅋ
+P0 	: 너무 안단거는 안좋아해서요
+P1 	: 저는 단걸 조금 피하는 편이라
+P1 	: 당도 30으로 자주먹는데 담에 한번 50으로 청포도그린티 먹어볼게요 ㅎㅎ
+P0 	: 아하! 간거피하시는거면 30하셔도 충분할거같아요!ㅋㅋㅋ
+P1 	: ㅎㅎ 참고할게용
+P1 	: 베이커리류는 혹시 좋아하세요?
+P0 	: 저 완전 빵순이에용ㅋㅋㅋㅋㅋㅋ
+P1 	: 오오!!
+P1 	: 무슨 빵 제일 좋아하세요?
+P0 	: 저는 치아바타같은 사워도우 종류의 빵들 좋아해욮ㅎㅎ
+P1 	: jmt....
+P1 	: 저도 그런 것 좋아하구 또 구움과자류 좋아해요
+P0 	: 오 구움과자 너무좋죠 ㅜㅜ 저 휘낭시에 좋아해여
+P1 	: 아 휘낭시에ㅜㅠㅠㅠ 좋아요
+P1 	: 저는 까눌레 가장 좋아해요!!
+P0 	: 아하~ 근데 까눌레 맛집은 정말 드문거같아요
+P1 	: 맞아요ㅠㅠ 어떤곳들은 가격만 비싸고 찔기더라구요
+P0 	: 역시 많이 가보셨나봐요!

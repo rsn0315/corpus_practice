@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100015401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 엄마 계란 다 떨어지지 않았나?
+P0 	: 다 떨어져 간다
+P1 	: 그러면 주문할겡~ 오늘까지 5천원 할인 쿠폰 있다
+P0 	: 새벽에 배달오는거?
+P1 	: 옹옹
+P1 	: 11시전에 시켜야 내일오는데!
+P0 	: 빨리 시켜라 그럼
+P1 	: 알았당~
+P0 	: 웅 사는김에 다른것도 주문하나
+P1 	: 옹 ㅋㅋ 맛있는거 좀 같이 담아야징
+P0 	: 그래라
+P1 	: 주문하고올게
+P0 	: 15개만 사라
+P1 	: 30개짜리 말고?
+P0 	: 웅 15개면 된다
+P1 	: 알았당
+P1 	: 프렌치 토스트 오랜만에 먹으니까 맛있다

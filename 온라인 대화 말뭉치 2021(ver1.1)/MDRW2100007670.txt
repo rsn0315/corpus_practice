@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007670
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요?
+P1 	: 네 직장 다닙니다. 님은요?
+P0 	: 저도요
+P1 	: 직장 다닌 지 얼마 되셨어요
+P0 	: 9년이요
+P1 	: 헉 오래 다니셨네요. 적성과 잘 맞으시나요
+P0 	: 이직 매일 고민요
+P1 	: 아 ㅜ 하긴 저도 이직 고민중이에요. 일은 적성인데 윗사람이 너무 별로라
+P0 	: 사람이 문제죠
+P1 	: 그쵸. 요새 고용시장이 얼어 붙었는데 님 직장은 구인구직이 활발한가요
+P1 	: 직장 말고 직종이요^^;;
+P0 	: 여기도 어려워요
+P1 	: 아이고 이직 준비도 큰 일이겠네요
+P1 	: 일단  자리가 나야 시도를 하지
+P0 	: 네 할게 없아요

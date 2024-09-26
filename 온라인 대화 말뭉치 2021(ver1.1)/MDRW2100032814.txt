@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100032814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 빵이 들어가?
+P1 	: 빵은 안들어가
+P0 	: 빵이 식재료로 안 들어간다고?
+P0 	: 진짜?
+P1 	: 응 안들어가
+P0 	: 그럼 면이 들어가?
+P1 	: 아니 면도 안들어가
+P0 	: 면이 안 들어간다고? 진짜?
+P0 	: 양식이야?
+P1 	: 어 면도 안들어가
+P1 	: 양식은 아닐걸
+P0 	: 그럼 중식이야?
+P1 	: 중식도 아니야
+P0 	: 그럼 일식이야?
+P1 	: 일식도 아니야
+P1 	: 한식이지싶어
+P0 	: 멕시코 음식이야?
+P0 	: 한식과 다른 나라의 퓨전요리야?
+P1 	: 멕시코에도 비슷한 음식이 있지않을까

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P0 	: 요즘 아르바이트 시장이 급변하고 있어
+P1 	: 어떤식으로 급변하고 있어?
+P0 	: 무인 키오스크가 엄청 늘어났어
+P1 	: 키오스크? 그게 뭐야
+P0 	: 키오스크는 사람 없이 무인으로 결제할 수 있는 기계야
+P1 	: 그럼 사람이 일하는 곳이 줄어들지 않아?
+P0 	: 응 지금도 서서히 줄어들고 있는데
+P0 	: 10년 뒤에는 엄청나게 줄어들었을것 같아
+P1 	: 지금도 일자리문제가 많은데 10년뒤면 심각하겠네
+P0 	: 응 정말 인간만이 할 수 있는 직업을 가져야 할 듯
+P0 	: 작가같은거
+P1 	: 맞아 글쓰는것도 기계가 가능하긴한데 인간만의 감정이 없어서 대체 불가라잖아
+P0 	: 글은 사람의 마음을 두드려야 하니까
+P1 	: 작가말고 영화제작 관련도 그렇지 않을까
+P0 	: 영화도 감각이 필요하니까
+P0 	: 인간이 필요할것 같아
+P1 	: 기계가 있어도 찾아보면 사람이 할일이 많아서 한편으론 다행인듯
+P0 	: 맞아 아직까진 그런 일을 찾아서 해볼만한것같아

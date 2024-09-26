@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046910
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20211005
+topic : 시사(정치, 경제, 사회)>10월 대체공휴일 확대 적용
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 너는 지금 학생이야?
+P1 	: 난 고등학생이야
+P0 	: 그럼 대체공휴일 확대에 찬성하겠네
+P1 	: 당연하지
+P0 	: 나는 별로 상관이 없긴 해
+P1 	: 쉬는날이
+P1 	: 별로야?
+P0 	: 나는 온라인으로만 수업해서 별로 의미가 없어
+P1 	: 음 그럴수도 있겠구나
+P0 	: 그래도 취업 후를 생각하면 확대가 좋겠지
+P1 	: 적당한 선에서 늘리는건 괜찮다고 생각해
+P0 	: 그래봤자 휴일 자체가 많지 않으니 한계고 있고
+P1 	: 그것도 맞는거같아
+P0 	: 뭐 그것도 적용되야 좋으니 싫으니 하겠지만

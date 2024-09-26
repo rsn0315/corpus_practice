@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002324
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안뇽
+P0 	: &name2&야 얼른 글을 읽어주렴
+P1 	: 결혼하셨나요?
+P0 	: 네
+P1 	: 언제 결혼하셨나요?
+P0 	: 2016년도에 했어요
+P0 	: 당신은 하셨나요?
+P1 	: 저는 아직 안했어요
+P0 	: 결혼에 긍정이신가요? 부정이신가요?
+P0 	: 결혼관도 궁금하네요
+P1 	: 저는 아직 고민 중이에요
+P1 	: 결혼에 긍정적이신가요?
+P0 	: 긍정적이예요
+P1 	: 어떤점이 긍정적이신가요?
+P0 	: 든든한 편이 생겨서 좋네요
+P1 	: 맞아요 그게 가장 큰 장점인것 같아요
+P0 	: 결혼에 대해서 뭐가 제일 무서우시나요?
+P1 	: 시댁과의 관계가 무섭네요
+P0 	: ㅎㅎ
+P0 	: 남편한테 잘하라고 해야겠네요

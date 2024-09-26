@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006832
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 메뉴 좋아하시나여?
+P1 	: 피자햄버거요 20님은요
+P0 	: 곱창 막창 이런 거 좋아해요
+P1 	: 치킨은요?
+P0 	: 치킨도 좋아하져!!
+P0 	: 치킨은 후라이드 좋아하구여
+P1 	: 어디거 드세요?
+P0 	: 흠 여기저기 다 좋아하는데 BBQ가 제일 맛있는거 같긴해여
+P1 	: 동감입니다 비비큐 후라이드
+P0 	: 그쳐 거기 후라이드가 뭔가 조금더 맛있는 느낌이긴해요
+P0 	: 후라이드 파세요?
+P1 	: 네 후라이드파입니다
+P0 	: 역시 치킨은 후라이드죠~ ㅋㅋ
+P1 	: 푸라닭은 드셔보셨나요
+P0 	: 엇 아니요~ 나중에 먹어봐야 겠네요
+P1 	: 블랙마요가 유명하더라구요
+P0 	: 오 알아두겠습니당~
+P0 	: 디저트는 어떤거 좋아하세영?

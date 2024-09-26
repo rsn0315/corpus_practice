@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100005996
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이마트에서 밀키트 샀어요!
+P0 	: 밀키트도 요즘 많이 나오죠
+P1 	: 네 잘 나옵니다 ㅎㅎ
+P1 	: 가성비!
+P0 	: 맛도 괜찮나요
+P0 	: 요즘 밀키트 무인점포도 생기던데요
+P1 	: 네 배달도 있어요
+P1 	: 밀키트배달
+P0 	: 아 배달은 잘 모랐네요
+P1 	: 요새 틈새시장이 ㅎㅎ
+P0 	: 전 아직 한번도 구매를 해보지 않았어요
+P1 	: 한번 찾아보세요 ㅎㅎ
+P0 	: 음식하기 싫을때 시켜서 해 먹으면 좋을것 같네요
+P1 	: 아 조리는 직접입니다만ㅎㅎ
+P0 	: 그래도 끓이기만 하면 되는것 아닌가요
+P1 	: 네 그렇죠

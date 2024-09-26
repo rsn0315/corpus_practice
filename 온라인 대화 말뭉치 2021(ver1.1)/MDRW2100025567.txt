@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025567
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 저 &name3&님 친구입니다 ㅎㅎ
+P0 	: 사실 잇님으로 만낫는데 &name2&님 소개해주셔서 ㅎㅎ
+P0 	: &name2&님 종교 있으세요?
+P1 	: 안녕하세요!!!
+P1 	: 전 기독교에요ㅋㅋ
+P0 	: 아하 저는 천주교입니다 ㅋㅋㅋ
+P0 	: 근데 이제 성당은 안가는...
+P1 	: 저도 코로나라 안간지 좀 된거같아요ㅋㅋㅋ
+P0 	: 아하 맞네요 코시국..
+P1 	: 성당은 예전에 가족분들이랑 가셨던건가요???
+P0 	: 아뇨 사실 저는 종교에 전혀 관심이 앖는데..
+P0 	: 어릴땐 엄빠따라 가족끼리 갔었는데 거의 친구들이랑 놀러간다고 생각해서 갔던거같아요ㅎ ㅋㅋ엄마가 세례받길 원하셔서
+P0 	: 성인되고나서 갔는데 세례만 받고 안갔답니다..ㅎ
+P1 	: 저도ㅋㅋㅋ 가족이 기독교아니었으면 안갔을거같긴해요....
+P0 	: 세례명 있으세요?
+P1 	: 아니요 없어요!!!
+P1 	: 개신교도 세례명 있나요???
+P0 	: 아니요 암것도 몰라서 물어봤어욬ㅋㅋㅋㅋ
+P1 	: 헤헤 사실 저도잘몰라요ㅋㅋ
+P1 	: 기세 c 받았답니다
+P0 	: 기세가 기독교와 뭔가요? 기독교와 세계? 세계사?
+P1 	: 기독교와 세계요!!
+P1 	: 필교라들었는데...ㅎ

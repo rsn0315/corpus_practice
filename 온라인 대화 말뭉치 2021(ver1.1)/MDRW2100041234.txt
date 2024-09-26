@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑좋아하세요?
+P0 	: 아이쇼핑은 좋아해요
+P0 	: &name2&님은요?
+P1 	: 좋아해요
+P1 	: 요즘은 좀 못가요
+P0 	: &name2&님은 오프라인쇼핑 좋아하시나요??
+P1 	: 둘다좋아해요!!
+P0 	: 그렇군요
+P0 	: 최근에 사신 물건 있으신가요?
+P1 	: 어떤거많이사세요?
+P1 	: 코코가서 옷사고 장보고
+P0 	: 저는 주로 전공책 많이사요
+P0 	: 아님 냉동식품류요
+P1 	: 책도사시는군요.멋져요
+P0 	: 아니 그냥 교재라서 사는거예요ㅋㅋㅋ
+P1 	: 학생?
+P0 	: 네ㅋㅋㅋ 최근에 구매하고 만족하신 제품이 있으신가요??
+P1 	: 학생이시면 책많이사겠네요
+P1 	: 코코에서사면 거의다 만족
+P0 	: 네 요즘 교재값이 왜이리 비싼지ㅠㅠ
+P1 	: 그런것같아요

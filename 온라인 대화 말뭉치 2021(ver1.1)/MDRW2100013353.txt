@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013353
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 요리하는 거 좋아하나요?
+P1 	: 넵 요리도 좋아하긴 하는데 먹는걸 더 좋아해요!
+P0 	: 어떤 음식을 좋아하시나요?
+P1 	: 먹는거면 다 좋아하는데 요새는 곱창이 먹고싶더라고요
+P0 	: 아 곱창 맛있죠! 요즘엔 곱창이랑 떡볶이랑 같이 팔더라구요
+P1 	: 맞아요 토핑개념으로 팔던데 예전 떡볶이가 그리워요ㅠ
+P1 	: 프랜차이즈 말고 그냥 시장떡볶이 찾기 어렵더라고요
+P0 	: 아&name2&님은 시장떡볶이 좋아하시나봐요!ㅋㅋㅋㅋ 저도 요즘 그런 떡볶이 사라져서 좀 아쉽더라구요
+P1 	: 네 옛날에는 떡볶이 이즈 뭔들이었는데 아무래도 다 체인점화 되더라고요
+P0 	: 맞아요 저는 카레향 나는 게 취향이긴 하지만 가끔 그리운 건 어쩔 수 없나봐요...ㅋㅋㅋㅋㅋ
+P1 	: 어디 떡볶이가 제일 좋으세요?
+P0 	: 전 신전 제일 좋아해요!
+P1 	: 신전 처음 먹었을때 오뎅튀김 대박이었는데
+P1 	: 먹고싶네요
+P0 	: 아 맞아요 오뎅튀김이 진짜 너무 맛있었는데ㅋㅋㅋ 지금은 신전+오뎅튀김+컵밥 같은 거 무조건 시키는 것 같아요
+P1 	: 떡볶이 먹은지 오래된것같아요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100034880
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 미세먼지 때문에 문을 닫았는데
+	  덥네요.
+P1 	: 오늘 미세먼지 있었나요?
+	  집콕해서 해뜬거 말고 날씨를 몰랐어요
+P0 	: 다른 지역은 공기가 좋다는데
+	  제가 사는 지역은 미세먼지 어플에 나쁨이라고 나오네요.
+P1 	: 아.. 오늘 덥긴 한거 같더라구요ㅡ 습하기도 하고
+P0 	: 환절기엔 날씨가 애매해서 옷입기가 어렵네요.
+P1 	: 긴팔입ㄱㅣ엔 아직 더운거 같고
+	  아침 저녁은 추워요
+P0 	: 네. 그래서 겉옷을 챙겨서 다니고 있어요.ㅎ
+P1 	: 저도 겉옷 하나 챙겨다니려구요
+P0 	: 날씨에 맞는 가디건 쇼핑을 해야할까봐요.ㅎ
+P1 	: 추울때 입기 편한걸로 사는게 좋을 거 같아요
+P0 	: 네. 내일은 날씨가 좋았으면 했는데
+	  또 비가 온다네요.
+P1 	: 여긴 해 떴어요. 
+	  오늘 덥네여
+	  거기 날씨는 어때요?
+P0 	: 여기도 날이 매우 맑은 것은 아닌데..
+	  후덥지근하네요.
+P1 	: 햇살이 따가워요. 가을하늘이 예뻐요ㅡ 구름도 엄청 크게 뭉쳐있고

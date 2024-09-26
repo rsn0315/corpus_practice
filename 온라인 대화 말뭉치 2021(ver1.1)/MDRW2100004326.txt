@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100004326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨어요?
+P1 	: 네
+P1 	: &name1& 님은요?
+P0 	: 저도 먹었어요! 어떤 음식 드셨어요?
+P1 	: 오징어 데치고 된장찌개 끓여서 같이 먹었어요
+P1 	: 뭐 드셨어요?
+P0 	: 와 직접 해서 드시는구나 멋있어요
+P0 	: 저는 그냥 시리얼 먹었어요!
+P1 	: 저녁에 시리얼만 먹어도 괜찮아요?
+P0 	: 오징어 손질도 직접하신거에요?
+P1 	: 손질은 어머니가 해주셨어요
+P1 	: 원래 좀 가볍게 드시나요?
+P0 	: 그렇구나 너무 맛있을거 같아요
+P0 	: 네 요즘은 많이 안 들어가서요ㅎㅎ
+P0 	: 대신 점심은 많이 먹었어요
+P1 	: 잘하셨네요
+P1 	: 점심은 뭐드셨어요?
+P0 	: 점심은 저도 된장찌개 먹었어요
+P1 	: 된장찌개랑 김치찌개 중에 어떤 걸 더 좋아하세요?
+P0 	: 고르기 너무 어려운데요..! 저는 된장찌개요
+P1 	: 된장찌개 좋아하시는 군요!
+P1 	: 저는 김치찌개를 더 좋아해요
+P1 	: 한식이랑 양식 중에서는 어떤 걸 더 좋아하세요?

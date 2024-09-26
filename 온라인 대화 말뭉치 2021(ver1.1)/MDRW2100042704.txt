@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100042704
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 조심해서 나쁠 거 없지
+P1 	: 새로 옮겨서 실적 챙기려고 할 수도 있고
+P0 	: ㅇㅇ..아 내친구 엄청 놀라고 속상할듯
+P1 	: 그렇겠다 진짜
+P1 	: 세계로도 잘하는데
+P1 	: 거기도 한군데 더 가보라고해
+P0 	: 안그래도 서울갈거 아님
+P0 	: 한군데라도 더 가보고 결정하라고
+P0 	: 세계로도 가보라고 했어
+P1 	: 잘했다
+P1 	: 거기 의사가 설명도 잘해주고 괜찮더라
+P1 	: 과잉진료도 안하고
+P0 	: ㅇㅇ그 얘기도 해줌
+P1 	: 그래서 가본대? 어떻게한대
+P0 	: 어머니 모시고 낼 세계로 가본대
+P1 	: 그래 가보고 믿음가는데서 치료받아야지
+P0 	: 엄마는 아프지마ㅠㅜ
+P1 	: 니가 속안썩이면 괜찮다
+P0 	: ㅡㅡ꼴뵈기시렁
+P0 	: 내가 속을 언제썩였다고
+P1 	: 니 친구 기도 많이 해라
+P0 	: ㅇㅇ아부지도 아프신데 진짜 걱정된다ㅠ

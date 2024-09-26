@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015270
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 푸라닭어떤거요?
+P0 	: 푸라닭어떤메뉴 드셨어요?
+P1 	: 아...  필터링이 된거 같은데
+P1 	: 고 추 마요 에요.ㅋㅋㅋㅋㅋ
+P0 	: 아 ㅋㅋㅋㅋㅋ고마 맛있죠
+P0 	: 카페가는거 좋아하세요?
+P1 	: 네ㅋㅋㅋ 커피도 좋아하고 카페 가는거도 좋아해요
+P0 	: 프차카페중에선 어디가는거좋아하시나요
+P1 	: 스벅이요 ㅋㅋㅋ 제일 자주 가는거같아요
+P1 	: &name1&님은 카페 자주 가세요?
+P0 	: 저도 집근처에 스벅있어서 자주가요
+P0 	: 스벅가시면 어떤거 자주드세요?
+P1 	: 아아요 ㅋㅋㅋ
+P1 	: 제일 무난한거같아요 ㅋㅋ
+P0 	: ㅋㅋㅋ맞아요 전 달달한것만먹어서 단거별로안좋아하시나봐요
+P1 	: 단거는 좋아하는데 음료는 안달은게 좋더라고요
+P1 	: 대신에 디저트를 달달한거로 ㅎㅎ
+P0 	: 전 단은료와 달달디저트를 같이먹어요 ㅋㅋㅋㅋ디저트는 어떤거 자주드세요
+P1 	: 스벅에서는 생크림 카스테라? 그게 제일 맛있더라고요 ㅋㅋㅋ
+P1 	: 달달한 음료는 주로 뭐드세요?
+P0 	: 맞아요 저도 스벅에선 카스테라가 젤낫더라구여

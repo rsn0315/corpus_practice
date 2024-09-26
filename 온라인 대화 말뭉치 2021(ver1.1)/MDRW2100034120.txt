@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100034120
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님
+	  요새 즐겨보는 프로그램 있으세요?
+P1 	: 저는 티비가 없어서 유투브봐요
+P1 	: &name1&님은요?
+P0 	: 아항 저도 유투브 즐겨봤었는데
+	  넷플 가입한 이후로는 유툽
+	  잘 안보게 되더라구요
+P1 	: 넷플 머보시나요
+P1 	: 애들하구보시나요
+P0 	: 요즘에는 슬의생 보구요:)
+P0 	: 아이들은 브레드이발소 보여줘요^^
+P1 	: ㅋㅋㅋ오재밌는거보시나요
+P1 	: 보시네요
+P1 	: 유툽은 애들 보여주는거 고르기가쉽지않더라구요
+P0 	: 유투부는 주로
+	  어떤 컨텐츠 즐겨보세요?
+P1 	: 저는 고양이 멍멍이보고 노노카짱 봐요
+P0 	: 앗ㅋㅋㅋ그 동요대회 아이 맞나요?
+P1 	: 노노카짱아시나요
+P1 	: 구독중이에요
+P0 	: 네:) 알아요^^
+	  저는 구독까진 아니고
+	  영상 봤었어요
+P1 	: 너무 이쁘게 노래하더래요
+P0 	: &name2&님
+	  작고 귀여운걸 좋아하시나봐요:)
+P1 	: ㅎㅎ 취향이 그러네요 ㅎㅎ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 경기
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: &name1&님 안녕하세요 :)
+P1 	: 점심시간인데 식사는 하셨나요~?
+P0 	: 네 식사하셨어요?
+P1 	: 저도 곧 식사 하려고요 ㅎㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되세요~?
+P0 	: 전 노래듣는거 좋아해요
+P1 	: 앗 보통 어떤 음악 들으시는지
+P1 	: 저한테도 추천해 주실 수 있나요? ㅎㅎ
+P0 	: 저는 임창정 노래요
+P0 	: ㅎㅎ
+P1 	: 앗 저 소주한잔은 많이 들어봤는데
+P1 	: 노래 되게 좋더라구요 ㅎㅎㅎ
+P1 	: &name1&님 최애 노래는 어떻게 되세요~?
+P0 	: 저도 소주한잔이요!
+P1 	: 앗 그렇군요 ㅎㅎㅎ
+P1 	: &name1&님 혹시 백예린이라는 가수 아시나요?ㅎㅎ
+P0 	: 아니요 처음 듣네요
+P1 	: 앗 그러시군요..! 저는 백예린이라는 가수를 좋아하는데
+P1 	: 약간 아련한 노래를 위주로 부르는 것 같아요 ㅎㅎ 저도 추천드릴게요!

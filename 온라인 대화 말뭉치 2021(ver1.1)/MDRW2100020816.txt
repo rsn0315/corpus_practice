@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020816
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 작가 있나요?
+P1 	: 유발 하라리요. 사피엔스 전부를 읽지는 안았지만 글을 잘 쓰는 것 같아요. 좋아하는 작가 있으세요?
+P0 	: 와 저도 그 책 모셔만 놓고 읽진 못했어요 저는.심윤경 작가요
+P1 	: 어떤 책을 쓴 작가신가요?
+P0 	: 나의 아름다운 정원이랑 최근에 설이요
+P1 	: 그렇구나~ 저도 한 번 살펴볼게요. 소설인거죠?
+P0 	: 네 소설이예요~^^
+P1 	: 나의 아름다운 정원은 사랑이야기 인가요?
+P0 	: 음.. 시대+성장소설같아요 민주화 운동이 나왔어요
+P1 	: 아하~ 제목만 보고 아름다운 사랑이야기인 줄 알았는데.. 민주화운동까지 다루는 소설이군요~
+P0 	: 네 마음이 먹먹했던 기억이 있어요'!!
+P1 	: 전 책이나 영화, 드라마 보면서도 가슴저리게 눈물나고 마음이 힘들어서 언젠가부터 가볍고 행복한 것만 찾아보게 되는 것 같아요.
+P0 	: 아 그런거 있죠 ㅠ 어떤 책이 인상적이인가요
+P1 	: 모리와 함께한 화요일이요.ㅎ
+P0 	: 아 예전에 읽었던 기억이 나요 명작이죠

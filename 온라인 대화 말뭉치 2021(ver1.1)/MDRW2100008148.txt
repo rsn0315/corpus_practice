@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008148
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 설거지 합니다~
+P0 	: 전 청소담당이요
+P1 	: 설거도 하세요?
+P1 	: 설거지도하세요?
+P0 	: 네
+P1 	: 와 다 하면 힘드시겠다
+P0 	: 요리는 못합니다
+P1 	: 요리는 쉽지않죠...
+P0 	: 네 준비시간도 길구
+P1 	: 그래서 엄마들이 대단한거 같아요
+P0 	: 존경하는 분이죠
+P1 	: 아무나 하는거지만 아무나 하는건 아닌거같아오
+P0 	: 네
+P1 	: 집안일 쉽지않죠..
+P0 	: 맞아요

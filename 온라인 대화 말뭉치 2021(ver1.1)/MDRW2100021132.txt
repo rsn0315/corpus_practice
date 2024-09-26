@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021132
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 덥죠?
+P1 	: 낮엔 좀 덥고 아침저녁은 선선하네요
+P0 	: 너무 더워요
+P1 	: 저는 경기도 사는데 다음주도 비소식이 많네요.
+P0 	: 아 지겹네요
+P0 	: 이제.그만 왔으면
+P1 	: 아침저녁 제법 추워요. 일교차로 감기 조심해야하는 계절이 오네요.
+P0 	: 간절기라
+P1 	: 얇은 옷 하나씩은 챙겨 다녀야 될듯요
+P0 	: 그렇죠
+P1 	: 요즘은 기상청이 일을 잘하는건지 날씨예보가 제법 잘 맞는거 같아요
+P0 	: 그런가여?
+P1 	: 나이가 들수록 날씨에 컨디션이 너무 좌우되는거 같더라구요.

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘은 야식없어요
+P0 	: ㅎㅎ  속은 괜찮으서요?
+P1 	: 어제 많이먹어서,.
+P0 	: 헐 ㅎㅎ  해장은 하셨어료?
+P1 	: 내 점심에 매운탕 먹었어요 아점으로
+P0 	: 오오 맛나겠어요 ㅎㅎ
+P1 	: ^^잘먹고 점저로  피자시켜먹고
+P1 	: &name1&은 뭐드셨어요?
+P0 	: 오늘은 낮에 비와서 닭칼국수!!해먹엇어요 ㅎㅎ
+P1 	: 엇 비왔어요(?)
+P1 	: 비올때 칼국수 좋쳐
+P0 	: 네네 ㅋㅋ 비옴요
+P1 	: 비를보면 빗소리에 맛있겠네요 비소리들으면 막걸리먹고싶네요
+P0 	: ㅎㅎㅎㅎ &name2&은 애주가인거 같아요 ㅎㅎ
+P1 	: 애주가보다는 그냥 한잔씩하고싶어요
+P0 	: ㅎㅎㅎ 그러시구낭!! rere

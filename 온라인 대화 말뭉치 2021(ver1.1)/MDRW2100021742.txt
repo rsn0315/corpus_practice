@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021742
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 좋아하는 음식 있으세요?
+P1 	: 저 중국음식 좋아해요~
+P1 	: 꿔바로우랑 마라샹궈 같은 거 맛있더라구요
+P0 	: 오 전 한 번도 안 먹어 봤어요
+P0 	: 매운 거 잘 드시나요?
+P1 	: 저 어제 매운거 먹고 오늘 피똥 세번 쌌어요^^..
+P1 	: 님은요?
+P0 	: ㅋㅋㅋㅋㅋ속은 잘 못 받는군요
+P0 	: 전 좋아하는 편이에요 엄청 잘 먹진 않아요
+P1 	: 그럼 불닭볶음면 이런거 잘 먹어요?
+P0 	: 네 스트레스 받을 때 먹어요
+P1 	: 와.. 그럼 핵불닭볶음면은요? 먹어봤어요?
+P0 	: 아뇨 안 먹어봤네요 전 불닭볶음면으로 충분해요ㅋㅋ
+P1 	: 그럼 디진다돈까스는요?
+P0 	: 그거 엄청 매운거잖아요 안 먹어봤어요
+P0 	: 드셔보셨나요?
+P1 	: 아니요 저 매운거 잘 못먹어서
+P1 	: 불닭볶음면은 호기심에 먹어보고 그 뒤로 안먹어봤어요 ㅠㅠ
+P1 	: 그래도 까르보나라 불닭은 괜찮더라구요?
+P0 	: 맞아요 훨씬 덜 맵고 맛있죠ㅋㅋ

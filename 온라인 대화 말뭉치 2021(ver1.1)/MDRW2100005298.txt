@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100005298
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교생활은 어떠신가요
+P1 	: 학교생활은 잔잔하죠
+P0 	: 잔잔하시군요. 학생이신가요
+P1 	: 네예
+P1 	: 시험 때문에 간혹 스트레스 받아요
+P1 	: 학교 졸업하신지 좀 되셨나요?
+P0 	: 아직 다니고 있습니다
+P1 	: 복학생?
+P0 	: 네 뭐 학교는 힘들어요
+P1 	: 그래도 학교 다닐때가 좋은것같아요
+P1 	: 아는 형이 학교 다니는데 마음이 떠서 힘들어해요
+P1 	: 얼른 적성에 맞는 직업을 찾아야할텐데
+P1 	: 아는 형님 재밌네요
+P0 	: 저는 학교다닐때가 그리워요
+P1 	: 과학 맡고 있어요
+P0 	: 과학을때렷다고요?
+P1 	: 정보는 어려워요 일이
+P0 	: 과학자신가요?
+P1 	: 사회 좋아해요
+P0 	: 네
+P1 	: 주로 역사요
+P0 	: 음 예전 학교에 박모양이잇엇는데
+P0 	: 진짜 완전 자기일 힘든척오졌어요
+P1 	: 세계사 국사 근현대사
+P0 	: 아 뭔말이에요
+P1 	: 과목 좋아해요
+P0 	: 전수학조아해요
+P1 	: 수능 몆등급 이시나요

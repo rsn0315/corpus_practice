@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037859
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 최근에 사신 물건 있으신가요?
+P1 	: 전 손목운동기구를 샀어요ㅎㅎ
+P0 	: 아.... 손목에 통증이 있으신가요
+P1 	: 네ㅠ 최근엔 건초염이 생겼었어요ㅠ
+P0 	: 헉 그거 진짜 아픈 거 아닌가요... 운동기구 진짜 필요하겠네요ㅠ 평소에 손목을 많이 쓰시나요?
+P1 	: 네ㅠㅠ 컴퓨터 자주써서요ㅠ
+P0 	: 아이고 하시는 일이 컴퓨터 관련된 일이세요?
+P1 	: 네 맞아요ㅠ 그래서 손목보호대 했었는데 너무 불편하더라고요ㅜ
+P0 	: 저는 버티컬 마우스 살까 고민 중인데 혹시 써보셨나요?
+P1 	: 전 그냥 이마트 전자기기 코너에서 체험만 해본게 다에요ㅋㅋ
+P0 	: 손목 아프시면 도움이 될 텐데요!
+P1 	: 그쵸 근데 전 왼쪽 손목이 주로 아프거든요ㅋㅋ
+P1 	: 하필 마우스를 이용하는 손이 아니네요ㅋㅋ
+P0 	: 앗 ..왼손잡이이신가요 혹시 ?!

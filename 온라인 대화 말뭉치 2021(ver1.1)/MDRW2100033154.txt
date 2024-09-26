@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033154
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 최근에 읽은 책은 어떤 책인가요?
+P1 	: 장류진 작가의 달까지 가자를 읽고 있어요
+P1 	: 읽기 시작한 지는 꽤 됐는데 너무 조금씩 읽어서 진도가 빨리 안나가네요 ㅋㅋ
+P0 	: 오오 어떤 내용이에요?
+P1 	: 아직 초반이긴한데 직장인인 주인공이 동료의 말에 홀려서 코인에 투자하는 것까지만 읽었어요 ㅋㅋ 그냥 전반적으로 직장인인 주인공이 겪는 이야기를 담은 것 같아요
+P0 	: 오옹 요즘 시대 딱맞는 내용이네요!
+P1 	: 맞아요!! 작가가 직장생활을 했던 경험을 살려서 일화를 재밌게 풀어내더라구요
+P1 	: 이 작가의 전작이 단편집이었는데 거기에서 이야기를 재밌게 풀어내서 신작도 사본 거였거든요
+P0 	: 저도 나중에 한번 읽어봐야겠어요
+P1 	: &name1&님은 어떤 책을 읽으세요?
+P0 	: 저는 학교다니느라 읽는 책이 전공서적 밖에 없네요ㅠㅠ
+P1 	: 아 그러시구나 ㅜ 저도 사실 읽어야하는 책은 따로 있는데 도피하는 느낌으로 소설 읽어요 ㅋㄱㄱ
+P0 	: 아~~ 맞아요ㅠ
+P0 	: 가볍게 읽을 수 있는 소설같은건 가끔씩 보기 좋은 것같아요!
+P0 	: 기분전환도 되고~
+P1 	: 맞아요!! 전공은 읽다보면 정신이 혼미해져서 ㅋㅋㅋ
+P1 	: 필기하면서 읽어도 뭔가 막막하죠 ㅋㅋ
+P0 	: 맞아요 ㅠㅠㅠ

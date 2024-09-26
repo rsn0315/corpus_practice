@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002418
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하새요 점심드셨나요?
+P1 	: 안녕하세요. 방금 먹었어요. 점심 드셨나요
+P0 	: 아니요~ 집에있으니 잘안챙겨먹게되네요ㅎㅎ 어떤메뉴 드셨어요?
+P1 	: 회사식당에서 스파게티 먹었어요. 주로 집에서 식사는 만들어서 드시나요?
+P0 	: 네~ 만들어먹으려고 노력합니다 아니면 식비가 어마어마해져서요 배달음식 너무 비싸요
+P1 	: 맞아요 배달음식이 요새 너무 비싸져서 시켜먹기 힘들죠
+P0 	: 너무 편하긴한데 먹고나몀 폭풍 후회해요ㅋㅋ 근대 다들 똑같다고 하는데 오요디님도 그런가요?
+P1 	: 네 맞아요 시켜서 먹을때는 좋은데 먹고나면 항상 후회하게돼요
+P1 	: 배달음식 자주 드시나요?
+P0 	: 아니요 주 1회넘지않으려고 노력해요 퇴근하고 너무 힘들때 1번정도로 유지하려고 노력합니다 안그러면 너무 엥겔지수가 높아져서요
+P1 	: 맞아요 한번 시키면 3만원은 기본이더라구요 요리 잘 하시나요?
+P0 	: 아뇨~ 요리를 시작한지 얼마안되서 유튭보고 따라해요
+P1 	: 오 요새 유튭에 조리법 많이 나오더라구요 최근에 어떤 음식 만드셨나요?
+P0 	: 단호박오리고기요~ 치즈듬뿍넣어서 에어프라이어에 구웠어요

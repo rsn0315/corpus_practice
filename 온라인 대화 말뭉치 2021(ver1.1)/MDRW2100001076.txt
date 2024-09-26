@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001076
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210723
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 네 좋아합니다!
+P1 	: 일하다가 언제 스트레스 받으세요?
+P0 	: 저는 최근에 고깃집 알바 하고있는데 술취하신 분들 응대해드리기가 너무 스투레스 받아요..ㅠ
+P1 	: 아헐 ㅜㅜ
+P1 	: 전 최근에 카페 만들었습니당
+P0 	: 우와 카페를 만드셨다고요?
+P1 	: 네 네이버 카페요
+P1 	: {share:url}
+P0 	: 아ㅋㅋㅋ 전 또 카페 창업하신줄 알았어요ㅋㅋㅋ
+P1 	: {share:url}
+P1 	: 게임 좋아하시면 들어오세요
+P0 	: 네 나중에 한번 들어가 볼게요
+P0 	: 그러면 카페 관리일 하고계시는거에요?
+P1 	: 예?
+P1 	: 네그쵸 ㅋㅋㅋㅋ
+P0 	: 오ㅋㅋ 그렇군요 카페 관리는 어떤거 주로 해요?
+P1 	: 인테리어 하고 메뉴개발이랑 상권분석합니다
+P0 	: 네? 네이버 카페 운영하신다면서요?
+P1 	: 네이버 카페에서도 이런일 해용ㅇ
+P0 	: 아 그래요? 되게 특이하네요

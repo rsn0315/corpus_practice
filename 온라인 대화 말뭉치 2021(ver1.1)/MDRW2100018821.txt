@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100018821
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심드셧나요?
+P1 	: 아직이요 드셨나요?
+P0 	: 저도요.. 주로 뭐 드세요?
+P1 	: 저는 반찬에다가 밥 먹어요
+P1 	: &name1&님은요?
+P0 	: 전 쌀 안좋아래서... 주로 면이요..
+P0 	: 우동이나 라면..
+P1 	: 헐 저도 면 엄청 좋아하는데 근데 엄마가 면먹는걸 싫어하세요ㅠㅠ
+P0 	: 생각해보면 면이 그리 나쁜거도 아닌거 같아요..
+P1 	: 맞아요 사실 밥이랑 면 둘 다 탄수화물인데 저희 엄마는 왜 면 먹는걸 싫어하시는지ㅠㅠ
+P0 	: 맞아요... 지구인 절반은 쌀 안먹잖아요..
+P0 	: 전 면,빵 주식으로 10년 넘었어요
+P1 	: 맞습니다ㅋㅋㅋㅋ 저도 얼른 돈벌어서 &name1&님처럼 먹고싶네요ㅋㅋ 점심 뭐 드시고 싶나요?
+P0 	: 오늘은.. 치킨이요..ㅋㅋ 
+	  에프로..
+P1 	: 냉동인가요? 배달시킨거 해동인가요?
+P0 	: 냉동을 에어후라이로 돌려서요...
+P0 	: 혼자사니까.. 간편한거 많이 먹죠

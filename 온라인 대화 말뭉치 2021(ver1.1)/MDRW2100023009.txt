@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100023009
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 경기 좋아하세요?
+P1 	: 자주는 못보고 가끔요
+P0 	: 어떤거 보시나요?
+P1 	: 축구나 야구요
+P0 	: 응원하는 팀은요?
+P1 	: 저는 이기는팀요
+P0 	: 아 그러시군요
+P1 	: 넵 관람하는거 좋아하세요?
+P0 	: 저는 2002년 월드컵 끝나고 프로축구를 보러 다녔어요 ㅎ
+P1 	: 오 프로축구도 재미잇죠ㅎ
+P0 	: 네 홍명보 선수 좋아해서 포항팀 경기 보러다니고 했네요 ㅎㅎ
+P1 	: 전 수원팀 경기 한번 가봣어요ㅎ
+P0 	: 오 수원에 고종수 선수 있었던 것 같은데..ㅋ
+P1 	: ㅋㅋ선수까지는 잘모르지만..
+P0 	: 그러시군요 ㅎㅎ &name2& 직관하신적 있으신가요

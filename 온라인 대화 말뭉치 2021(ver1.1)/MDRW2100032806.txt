@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100032806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요~
+P0 	: 주부님이신가여
+P1 	: 아니요! 저는 주부는 아니에요:) &name1&님께서는 주부신가요?
+P0 	: 아뇨 저도 싱글이요
+P0 	: 요즘 이사해서 집꾸미고 이것저것 집안일 많이 해서요
+P1 	: 그렇군요! 저도 싱글입니다
+	  저도 이사날짜가 얼마 남지않았어요:)
+P0 	: 오 어디로 가시나요
+P0 	: 가족과 함께?
+P1 	: 넵 가족과 함께 갑니다:)
+	  멀리는 못가고 지금 사는 집 근처로만 이동할것같아요!
+P0 	: 저는 룸메이트들과 살다가 제주에 혼자왔어오
+P1 	: 정말 부러워요ㅠㅠ
+	  저도 자취해보고 싶은데 장소가 무려 제주라니 
+	  제주에는 다닐곳도 많지요?
+P0 	: 넹 저도 얼마안되서
+P0 	: 집정리하고 이제 돌아다니려구요
+P1 	: 혼자서 집정리 하시려면 많이 힘드시겠어요
+	  룸메이트분들과 계시다가 혼자 사시는데 적적하진않으세요?
+P0 	: 혼자여서 좋은거도 많았는데
+P0 	: 지금은 밥 먹는게 적적해요
+P0 	: 요리하는거 좋아하거든요

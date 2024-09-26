@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018654
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도 여행 좋아해요 코로나때문에 최근엔 못갔지만 ㅠㅠ
+P0 	: 어디 다녀와보셨어요?
+P1 	: 맞아요ㅠㅠ
+P1 	: 저는 해외는 못가보고
+P1 	: 국내 부산 가봤어요
+P1 	: &name1&님은요?
+P0 	: 저는 강릉 속초 부산 여수 강화 가평 요런 곳들 가봤어요!
+P1 	: 여수 어땠어요
+P1 	: 밤바다 보셨나요ㅎ
+P0 	: 여수는 진짜 짧게다녀와서 딱히 별거 못느끼구왔어요ㅠ
+P1 	: 그럼 어디가 좋으셨나요
+P0 	: 저는 강릉 좋아해요
+P1 	: 강릉가면 주로 뭐하시나요
+P0 	: 바다 보고 카페가고..
+P1 	: 힐링여햄사고오시는구나
+P0 	: 와 뭐했었지 근 2년 여행을 못갔더니 기억이 멈췄어요
+P1 	: 코로나의 피해ㅠ
+P1 	: 게하 어때요?
+P1 	: 저는 게하를 가본적이 없어서

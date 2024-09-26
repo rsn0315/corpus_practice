@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033126
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 흐리네요
+P0 	: 그러게요
+P1 	: 거기도 흐린가요?
+P0 	: 네
+P0 	: 이런날에는 뭔가 집에서 누워만 있고싶네요
+P1 	: 비 맞는 건 싫어서..
+P1 	: 저도요
+P0 	: 갑자기 피곤하네요..
+P1 	: 아고 흐린 날엔 저기압 될수밖에..
+P0 	: 아ㅏ 빨리 겨울이 되면 좋겠네요
+P1 	: 지금 가을이니 곧이죠 ㅎㅎ
+P0 	: &name2&님도 겨울 좋아하세요?
+P1 	: 네.. 요즘 여름보다 겨울이 좋다더라고요 다들
+P0 	: 저는 눈사람 한번 만들어보는게 꿈이랍니다

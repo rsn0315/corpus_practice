@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017322
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 저녁 드셨어요?
+P1 	: 지금 저녁 먹으려구요!
+P0 	: 직접 요리해서 드시나요?
+P1 	: 오늘은 엄마께서 해주셨어요!
+P0 	: 메뉴가 어떻게 되나요?
+P1 	: 김치찌개 입니다!
+P0 	: 돼지고기 김치찌개인가요?
+P1 	: 오 마자요!
+P0 	: 와~ 좋아하는 치킨 브랜드 있으세요?
+P1 	: 저 교촌이요!
+P1 	: &name1&님은요?
+P0 	: 저는 bhc요! 뿌링클 좋아하세요?
+P1 	: 뿌링클 맛있죠!
+P0 	: 배고프네요
+P0 	: 좋아하는 카페 브랜드 있으세요?
+P1 	: 저 스벅 좋아해요

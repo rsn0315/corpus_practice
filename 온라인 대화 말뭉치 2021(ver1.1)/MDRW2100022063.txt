@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022063
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P0 	: 운동하세용?
+P1 	: 안녕하세요? 아니요 스트레칭만해욬
+P0 	: 오 그래도 스트레칭만 해도 습관이면 되게 좋죠
+P1 	: 그러니 하는거죠 ㅋㅋ
+P1 	: &name1&의 운동이 궁금해요
+P0 	: 저는 예전에 홈트 했엇는데
+P0 	: 요즘은 그냥 안하구잇어요
+P1 	: 홈트라면어떤 홈트요? 유산소? 무산소?
+P0 	: 다시해야 하긴 하는데 말이죠 ㅋㅋ
+P0 	: 음 그
+P0 	: 집에 자전거가 잇어서 그런거 타기도 하고
+P0 	: 유튜브 보고 하기도해요
+P1 	: 어 유튜브의 영상도 종류가 있잖아요
+P1 	: 카디오 워크아웃이라거나,,,
+P1 	: 스트레칭이라거나,
+P0 	: 그냥 저 칼로리 빼는 운동이여 ㅋㅋ
+P1 	: 아 칼로리 버닝 이런거면 강도가 좀 있겠네요
+P1 	: 운동강도가요
+P0 	: 네네 좀만 해도 힘들더라구요
+P1 	: 그래도 하시는 동안 건강에 도움이 많이 됐겠어요
+P0 	: 네넹 그런거 같아요
+P0 	: 정확히는 모르지만말이죠 ㅋㅋㅋ
+P1 	: 뭐든 안 하는 것 보단 반이라도 하는게 나아요

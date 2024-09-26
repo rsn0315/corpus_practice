@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100039769
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 음식 좋아하세요?
+P0 	: 저는 샤브샤브요
+P1 	: 아 샤브샤브도 너무 맛있죠!!
+P1 	: 샤브샤브 먹은지 오래되서 먹으러 가고 싶네요 ㅠㅠ
+P0 	: 저도요ㅜㅜㅜ
+P0 	: 식당에서 오래먹어야되서
+P0 	: 코로나땜에 가기 꺼려져요
+P1 	: 맞아요ㅜㅜㅜ 코로나때문에 쉽게 갈 수가 없네요
+P0 	: 샤브샤브  해먹으려면
+P0 	: 재료비가 너무 많이들더라구요
+P1 	: 아 맞아요 ㅠㅠㅠ 재료비도 재료비고 손도 많이 가서
+P1 	: 집에서 해먹기 쉽지 않죠
+P0 	: 맞아요ㅜㅜ
+P0 	: 끓이면서 먹어야하는데
+P0 	: 쉽지않아요
+P1 	: ㅠㅠㅠㅜ 어서 코로나가 없어져서 편히 먹으러 가고 싶네요
+P0 	: 진짜요 ᆢᆢ친구도 좀 편하게 만나고싶어요ㅜ
+P1 	: 배달음식은 어떤 거 주로 드시나요?
+P0 	: &name2&님은 어떤음식 좋아하세요?
+P0 	: 역시 치킨이요
+P0 	: ㅎㅎㅎ
+P1 	: 저는 떡볶이나 양식류 좋아해요!
+P0 	: 오 떡볶이 어디거 좋아하세요?

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100002682
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 밥은 주로 해드세요?
+P1 	: 네 집에서는 거의 저녁만 먹어서 간단히 해서 먹어요
+P0 	: 아~저는 해먹기도 하고 배달도 자주해요 ㅎ
+P1 	: 어떤거 주로 배달하세요?
+P0 	: 식사류도 하고 야식도 하고 간식도 배달하고요 ㅎ
+P1 	: 골고루 하시네요 ㅋㅋ
+P1 	: 저는 배달은 주로 식사만해요
+P1 	: 고기종류로요
+P0 	: 아~어떤 고기요?
+P1 	: 족발 보쌈 감자탕 이런거요
+P1 	: 고기를 좋아해서ㅋㅋ
+P1 	: 치킨도 많이 시키고요
+P0 	: 아~~ㅎㅎ 저도 고기 좋아해요 ㅎ
+P0 	: 저도 치킨 자주시켜요 ㅎ
+P1 	: 치킨은 역시 허니콤보
+P0 	: 그거 맛있나요?
+P1 	: 오늘먹어도 내일또 먹고싶은 맛이에요
+P0 	: 아 진짜요?너무 달기만 할까봐 아직 안 먹어봤어요
+P1 	: 꼭 드셔보세요 중독입니다
+P0 	: 아~네~~콤보면 닭다리랑 윙인가요?
+P1 	: 네 먹기도 편하고 순삭이에요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011156
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 누구 보고?
+P0 	: 누구를 보는건 아니라 그냥 갑자기 왔어...
+P1 	: 단발이 오히려 관리하기 어렵던데
+P0 	: 그런가? 맞아 난 반곱슬이라 더 그래
+P0 	: 최근에 머리 한게 언제야?
+P1 	: 5월달 쯤에 그냥 커트만 했어. 그전에 너무 많이 길었어서
+P0 	: 그렇구나 나도 커트는  해야 하는데
+P0 	: 탈색 해본 적 있어?
+P1 	: 아니. 탈색도 생각있어?
+P0 	: 아니 나는 머리가 얇아서 미용실에서 안해줘 ㅎㅎㅎ
+P1 	: 머릿결 많이 상한다더라구
+P0 	: 맞아 그래서 못해ㅠㅠ
+P0 	: 파마는 해본 적 있어?
+P1 	: 파마 해 본지도 진짜 오래됐어. 사실 미용실 별로 자주 안 가는 편
+P0 	: 그렇구나 나는 요즘엔 긴머리 유지하려고 몇 개월마다 자르는 것 같은데
+P0 	: 은근히 돈이 많이 들더라고?ㅜㅜ
+P1 	: 맞아 미용실 한 번 가면 돈 꽤 들지 ㅋㅋ

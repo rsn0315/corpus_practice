@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002857
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 동남아 어디요?
+P1 	: 저는 태국이요
+P1 	: 약간 느리고 여유로운 분위기가 좋더라구요
+P0 	: 아~~가보신적 있으세요?
+P1 	: 네 한 번 가봤어요ㅎㅎ
+P1 	: &name1&님은 해외 가보신 적 있으신가요?
+P0 	: 저는 한번이요ㅠ
+P1 	: 어디다녀오셨나요?
+P0 	: 저는 발리 다녀왔어요 ㅎ
+P1 	: 너무 좋았겠다 대표적인 휴양지잖아요
+P1 	: 가서 뭐 하셨나요?
+P0 	: 네ㅎㅎ 주로 먹고 마사지 받고 쉬고 했어요 ㅎㅎ 1일1마사지 ㅎㅎ
+P1 	: 완전 제대로 휴양하다 오셨네요~
+	  발리음식은 어때요?
+P0 	: 음식점마다 다른데 아무래도 좀 비싼곳이 입맛에 맛더라고요
+P1 	: 어떤음식을 드셨나요? 음 발리는 가본적이없어서 어떤음식이 있는지 생소하네요
+P0 	: 대표음식이 나시고랭 이런거였어요
+P1 	: 아 그게 발리음식이구나
+P1 	: 몰랐어요 그거 맛있잖아요ㅎㅎ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007813
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 진행은 하고 있는데 아무래도 부원들 얼굴을 다 못봐서 아쉽더라고요
+P0 	: 어떤 동아리 들어가셨어요?
+P1 	: 저는 도서부에요
+P0 	: 도서부 괜찮죠
+P0 	: 진로랑 관련해서 들어가신 건가요?
+P1 	: 진로보다는 도서부면 어디진로여도 엮기 좋겠다싶었어요 ㅎ
+P0 	: 괜찮네요
+P0 	: 도서부는 어떤 활동을 하나요?
+P1 	: 책 추천하는 활동이나 도서관 행사 기획을 하고 있어요
+P0 	: 동아리는 면접보고 들어가셨나요?
+P1 	: 네 서류면접봤어요
+P0 	: 문과랑 이과랑 예체능 중에 어느쪽이신가요?
+P1 	: 저는 문과에요
+P0 	: 저는 이과여서 수학부에 있었어요
+P0 	: 대회는 정상적으로 열리나요?
+P1 	: 네 대회같은건 굳이 만나서 안해도 되니까 많이 열더라고요

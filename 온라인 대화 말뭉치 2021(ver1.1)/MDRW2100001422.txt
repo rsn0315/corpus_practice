@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100001422
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&치킨시킴
+P1 	: &name1&님 안녕하세요 :)
+P1 	: 무슨 치킨 시키셨나요?
+P0 	: 안녕
+P0 	: 니가만든치킨
+P0 	: &name2&치킨
+P1 	: &name2&치킨이라니 누가 만든 치킨인지 몰라도 정말 맛있겠네요 ㅎㅎ
+P1 	: 저녁을 조금 늦게 드시는군요!
+P0 	: ㅇㅇㅇㅇ
+P0 	: 근데
+P0 	: &name2&는 언제머거
+P1 	: 저는 오늘 저녁을 좀 빨리 먹었어요 :)
+P1 	: &name1&님은 좋아하는 음식이 있나요?
+P0 	: &name2&야
+P0 	: 랍스터 플랫브레드
+P0 	: 버거 엔 랍스터
+P0 	: 머거봐써?
+P0 	: 존맛탱이야
+P1 	: 버거 엔 랍스터가 가게 이름인가요?
+P1 	: 메뉴 이름만 들어도 맛있겠어요...
+P1 	: &name1&님은 이 메뉴 자주 드시나요?
+P0 	: 버거엔 랍스터는 영국 런던에 있는 체인점이야 :)
+P0 	: &name2&도 가서 머거봐
+P1 	: 감사해요 다음에 영국을 간다면 꼭 먹어볼게요 :)
+P1 	: 영국에 다른 맛있는 음식도 있나요? ㅎㅎ
+P0 	: 오징어게임 정주행하다가 밤샜다{emoji:🤣}
+P0 	: &name2&야 영국에 가면
+P0 	: GBK버거, 플랫 아이언, 파이브가이즈 버거, 호텔 초콜릿 꼭 머거
+P0 	: 말하니까 먹고싶다ㅜ
+P1 	: 와 나중에 영국 여행가면 &name1&님 덕분에 든든할 것 같아요 bb
+	  감사해요 저도 다 먹어볼게요~! 또 얘기할 기회가 있었으면 좋겠어요!

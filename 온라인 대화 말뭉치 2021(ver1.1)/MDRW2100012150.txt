@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012150
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 뭔데
+P0 	: 반값으로 항공권을 예매하는건데
+P1 	: 어떻게 하는데
+P0 	: 일단 해외여행은 출발일만 바꾸어도 돈을 벌어
+P1 	: 진짜로 몰랐네
+P0 	: 일정을 맞추어서 항권을 끊으니 좀 비싸지
+P1 	: 그렇지 근데 다 그렇게 하잖아
+P0 	: 그렇지 일단 비성수기에 여행을 가야해
+P1 	: 비성수기?
+P0 	: 응 사람들이 여행을 잘 안가는 달이 있는데
+P1 	: 그래? 언제
+P0 	: 3월 입학시기. 6월 휴가전 마지막 9월
+P1 	: 3월은 이해가 가네
+P0 	: 여행 출발일은 사람들이 돌아오는 요일에 출발하면 또 사게

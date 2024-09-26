@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100020589
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 콘서트 가보셨나요?
+P1 	: 예전에 아주 예전에
+P1 	: 마룬5 콘서트 갔었어요
+P1 	: &name1&님은요?
+P0 	: 와 마룬5라니! 신기하네요
+P0 	: 저는 아이돌 좋아해서
+P1 	: 네 ㅎㅎ 근데 가사를 안외우고가서
+P1 	: 재미없었어요
+P1 	: 오 무슨 아이돌이요?
+P0 	: 빅스랑 마마무랑 데이식스 콘서트 가봤어요
+P1 	: 오 마마무 좋아해요 저
+P0 	: 마자요 따라부르는 재미도 있어서 가사모르면그렇죠
+P1 	: 데이식스도 멤버는 모르지만 노래 알아요
+P0 	: 오호! 진짜요?
+P1 	: 근데 데이식스 하니까 급 병크 생각나네요 ㅠㅠ
+P1 	: 죄송 ㅠㅠ
+P0 	: 무슨 병크요?
+P1 	: 하지만 노래는 좋아요!
+P0 	: 마자요 노래좋죠!
+P1 	: 그 멤버 탈퇴설이었나?
+P1 	: 데이식스 아닐 수도 있어요
+P0 	: 탈퇴한 분이요?
+P1 	: 아 맞아요?
+P1 	: 빅스도 들어본 것 같아요
+P0 	: 그전에 팬이랑 연애? 한다고해서
+P1 	: 공연 어떠셨어요?
+P0 	: 탈퇴한 멤버있긴했어요
+P1 	: 아 그거였나봐요
+P0 	: 빅스콘서트때는 스탠딩한번 가고 좌석 한번 갔었는데
+P0 	: 좌석은 너무 좋았었는데 스탠딩에서 진짜 힘들었어요ㅠ

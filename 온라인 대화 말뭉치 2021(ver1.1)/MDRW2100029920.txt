@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100029920
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아해요
+P1 	: 벌레만 아니면 거의 모든 생명체 좋아합니다
+P0 	: 전 구피요
+P1 	: 구피면 물고기 맞죠?
+P0 	: 네
+P1 	: 되게 작은 친구 아닌가요
+P0 	: 그쵸
+P1 	: 그러면 동시에 여러마리 키워야겠군요
+P0 	: 열마리요
+P1 	: 지금 키우고 계신건가요
+P0 	: 네
+P1 	: 관리 힘들지 않나요
+P0 	: 힘들죠
+P1 	: 물은 얼마마다 갈아주나요
+P0 	: 일주일에한번씩

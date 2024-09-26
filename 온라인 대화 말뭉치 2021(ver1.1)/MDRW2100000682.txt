@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100000682
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요리하시는거 좋아하세요?
+P1 	: 네 고기 유튜브 주로 봐요
+P1 	: 이번 주제로 길게 해봐요
+P0 	: 고기! 혹시 스테이크 같은거 주로 해드시나요?
+P1 	: 네네 로즈마리넣고 아웃백스타일로
+P0 	: 우와 대단하네요 스테이크 굽는거 생각보다 어렵던데ㅠㅠ
+P1 	: 처음에는 덜 익히는거 포함해서 굽기 힘들었어요
+P0 	: 그쵸 전 아직 굽기 단계들이 너무 어렵더라구요ㅠㅠ
+P1 	: 그래서 전 그냥 타이머써요
+P0 	: 오오 타이머로도 그 굽기가 정확하던가요? 다들 온도계 사라고 그러던데ㅠㅠ
+P1 	: 온도계도 필요해요
+P1 	: 타이머랑 온도계만 있으면 됩니다
+P0 	: 그렇군요ㅎㅎ 다음에 스테이크 구울 때 잘 해봐야겠어요

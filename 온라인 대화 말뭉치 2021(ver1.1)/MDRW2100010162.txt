@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010162
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맞벌이 하시나요?
+P1 	: 네~맞벌이에요~^^ 근데 회사는 엄청 멀리 떨어져  있어요
+P0 	: 집에서 회사가요?
+P1 	: 서로 회사가요~ㅎ 저희 회사랑 남편 회사요~
+P0 	: 아아 ㅎㅎ 집은 중간지점인가요
+P1 	: 중간은 아니고 저랑 더 가까워요
+P1 	: 집안일은 나눠서 하시나요?
+P0 	: ㅋㅋ맞벌인데 당연하죠!!
+P1 	: 오~~ 어떻게 나눠서 하세요? 저는 거의 제가 다해요
+P0 	: 요리는 제가 하고 뭐 빨래는 와이프가?
+P0 	: 근데 그냥 눈에 띄면 서로 하죠
+P1 	: 아~좋네요~!!
+P0 	: ㅋㅋ 같이 버는데 같이 해야죠
+P1 	: 같이 출퇴근하시니 집안일도 자연스레 같이 하게 되실것 같아요
+P0 	: 남편분은 왜 안하신대요!
+P1 	: 회사가 너무 멀어서요 제가 더 빨리 퇴근해서 더 일찍 도착해요
+P0 	: 아 그러면 또 이해가....
+P1 	: ㅋㅋㅋ 어쩔수없죠

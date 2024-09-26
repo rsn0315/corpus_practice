@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 점심 뭐드셨어요?
+P1 	: 저는 육회비빔밥을 먹었어요
+P1 	: 오늘 저녁은 뭐드실 예정이에요?
+P0 	: 헐 육비 ㅠㅠ맛있었겠어요 저도 육비좋아하는데
+P0 	: 점심을 너무 잘먹어서 저녁은 안먹으려구요 ㅎㅎ
+P1 	: 그러시구나ㅎ
+P1 	: 요리하는거 좋아하세요?
+P0 	: 하는것보단 먹는거좋아해요 ㅋㅋㅋㅋ
+P0 	: 맛있게 하는게 자신이없어섷
+P1 	: 생각보다 어렵지 않은 음식들도 많아요
+P1 	: 저는 지난주에
+P1 	: 집에 감자가 많아서 감자수프 만들고
+P1 	: 두부 유통기한이 조금 지났길래 두부강정 만들어먹었어요
+P1 	: 유튜브보면 많아요
+P0 	: 우와 요리잘하시는구나
+P1 	: 잘하지 못하는데
+P0 	: 요리해본것중에 제일 맛있었던거 있으세요?
+P1 	: 최근에한것 중에 감자수프 맛있었어요
+P1 	: 커피는좋아하세요
+P0 	: 저 수프별로 안좋아하는데 감자여서 맛있었겠어요! 감자좋아하거든요 ㅎㅎ
+P0 	: 넹 커피 필수죠~ 무조건 아아
+P0 	: 마스터 쉐프 코리아인가? 거기나온 닭봉조림 친구가해줘서 먹어봣는데 완전맛있어요
+P1 	: 오늘 저는 저녁에 오리탕을 처음 먹어봤는데
+P1 	: 시원하고 맛잇더라고요
+P1 	: 오리도 맛있어요
+P0 	: 우와 오리탕

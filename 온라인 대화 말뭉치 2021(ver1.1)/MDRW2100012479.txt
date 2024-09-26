@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012479
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 갖고 싶은 물건이 있으신가요?
+P1 	: 음 저 되게 많은데 ㅋㄱㄱㄱㅋ 요즘은 스케이트보드 사는걸 고민 중이에요!
+P0 	: 오 멋지세요
+P0 	: 타보고 싶다는 생각만하고있네요
+P0 	: 다치는게 싫어서ㅋㅋ
+P1 	: 저도 딱 그 생각 때문에 고민에서 결제로 안 이어지고 있어요!!! ㅋㄱㄱㄱㅋ
+P1 	: 골절이 제일 무서운지라,,^^!!!
+P1 	: &name1&은 요즘 무슨 물건을 갖고 싶으신가요?
+P0 	: 엘지 그램 노트북 갖고 싶습니다!
+P1 	: 오호 멋지네요
+P1 	: 역시 노트북은 가벼운게 제일인거 같아요~
+P0 	: 맞아요~
+P0 	: 발열 문제만 어떻게 해줬으면
+P0 	: 바로 샀을텐데요ㅋㅋ
+P1 	: 그러게요 ㅋㅋㅠㅜ LG 일해라~~!~!!!!
+P0 	: 중고거래 해보셨나요?
+P1 	: 당근마켓은 구경만 해보고 번개장터는 한번인가?? 써봤어요
+P0 	: 중고나라는요?
+P1 	: 중고나라는 뭔가 사기 당할거 같은 이미지가 커서 안 써봤어요 ㅋㄱㄱㅋ &name1&은 어떻나요?
+P0 	: 자주 거래해봤어요

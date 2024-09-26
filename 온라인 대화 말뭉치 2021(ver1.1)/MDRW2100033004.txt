@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100033004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임 좋아하시나요
+P0 	: 가끔 모바일게임 이것저것 해요
+P1 	: ㅋㅋ저는 요새 흥미가 없어서
+P0 	: 프렌즈샷 이벤트 하길래 깔아봤는데 나름 재밌더라구요
+P1 	: 무슨 이벤트하죵
+P0 	: 새로 런칭하는 게임이라 이모티콘 주더라구요ㅎㅎ
+P1 	: 한번 무슨 이모티콘인지 봐야겠네요
+P0 	: 튜토리얼 하면 준다고 하더라구요. 내일부터 순차 지급
+P1 	: 오 한번 알아보겠습니다ㅎㅎ
+P0 	: 참고로 골프게임이에요ㅎㅎ
+P1 	: 어라 골프요?ㅎㅎ
+P0 	: 기본은 랜덤유저랑 일대일로 붙는 방식이더라구요
+P1 	: ㅋㅋ진행 빠른가요

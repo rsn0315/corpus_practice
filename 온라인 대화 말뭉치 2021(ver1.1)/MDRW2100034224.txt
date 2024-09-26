@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100034224
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 엄마 다낭 여행 어땠어?
+P0 	: 좋았지
+P1 	: 뭐가 제일 좋았어?
+P0 	: 마사지 받는거 ㅋㅋ
+P1 	: 오 ㅋㅋ마자 마사지가 짱이었다
+P0 	: 그리고 열대과일
+P1 	: 오 ㅠㅠ마자 넘 맛있었지
+P0 	: 또 먹고싶네
+P1 	: 나도.. 넘 좋았다 담에 또 가요
+P0 	: 그럴까
+P1 	: 다낭 물가도 싸고~ 넘 좋다 ㅋㅋ
+P0 	: 그래 치안도 나름 괜찮은듯
+P1 	: ㅋㅋ웅 안전한데만 다니면 된다

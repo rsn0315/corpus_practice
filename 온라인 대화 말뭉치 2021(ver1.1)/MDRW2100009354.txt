@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009354
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이번주에 뭐 구입하신 것 있나요?
+P1 	: 가을옷도 사고ㅎㅎ 런닝화 보구있어요
+P0 	: 옷 같은거는 어디서 주로 사세요??
+P1 	: 아울렛에서도 사고 인터넷에서도 사는거같아요 어디서 구매하세요?
+P0 	: 저는 인터넷에서 많이 사는것 같아요 실패와 성공의 반반 확률이지만..
+P0 	: 그래서 맘에 들면 색깔별로 다 사서 입어요
+P0 	: 혹시 당근마켓 해보셨나요?
+P1 	: 네 당근 해봤는데 팔기만 해봤어요ㅎㅎ
+P0 	: 저는 완전 당근 마켓 애용자거든요 ㅋㅋ
+P0 	: 혹시 지금 장바구니에 넣어두신거 있으신가요?
+P0 	: 런닝화랑 다른거?
+P1 	: 갤럭시 워치 보구있어요ㅎㅎ
+P0 	: 아 이번애 나온 워치죠??새로운 기능이 추가된게 있나요??
+P1 	: 그 인바디기능이 있다고 해서 혹하더라구요
+P0 	: 와 대박 워치에 인바디가 있다구요...?
+P0 	: 대체 무슨 원리일까요 대박이다
+P1 	: 네 저도 신기해서 사보구 싶더라구요
+P0 	: 저도 사보고 싶네요!

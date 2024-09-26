@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033932
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕
+P0 	: 안녕
+P1 	: 어떤 계절 가장 좋아해?
+P0 	: 나는 겨울
+P0 	: 너는?
+P1 	: 나는 가을
+P1 	: 시원해서 좋아
+P0 	: 가을도 좋지
+P0 	: 겨울은 안 좋아해?
+P1 	: 겨울도 좋아
+P1 	: 겨울 냄새 되게 좋아해
+P0 	: 더위나 추위 타?
+P1 	: 둘 다 타ㅠㅠ
+P1 	: 너는?
+P0 	: 나는 더위 많이 타
+P0 	: 이번 여름에 너무 힘들었어
+P1 	: 진짜 너무 더웠지ㅠㅠ
+P0 	: 에어컨 없이 살 수가 없었어
+P1 	: 나도 낮에는 거의 틀었던 거 같아

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030671
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 서울 어디에 있나요가 보고 싶네요
+P0 	: 베트남에서는 코코넛을 자주 마셨습니다
+P1 	: 코코넛 맛있죠
+P0 	: 콩 카페라고 검색해 보시면
+P0 	: 체인점이 있습니다
+P1 	: 좋은 정보 감사합니다
+P0 	: 베트남에서는 코코넛이 천원 이었어요
+P1 	: 오늘은 아마스빈이 가고 싶네요
+P0 	: 더우니까 매일 마셨지요
+P1 	: 굉장히 저렴한 가격에 맛있는 음료를 드셨네요
+P0 	: 코코넛이 발에 차고 넘칩니다
+P0 	: 길에도 주렁주렁 매달려 있지요
+P1 	: 혹시 살이 찌지 않으셨나요
+P0 	: 코코넛 천국 이니까요
+P0 	: 코코넛 과육을 먹으면 살찌지요
+P1 	: 코코넛은 다이어트 음식입니까
+P0 	: 과육은 다행히 먹지 않았습니다

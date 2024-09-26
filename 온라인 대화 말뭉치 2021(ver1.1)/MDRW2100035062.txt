@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100035062
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 고민이 있니
+P0 	: 미용실을 가야겠어
+P1 	: 갑자기 왜
+P0 	: 여름이 되니까 머리 상태가 안 좋아
+P1 	: 미용실 가서 어떤 거 하려고
+P0 	: 그게 고민이야
+P1 	: 파마를 해보는 건 어때
+P0 	: 긍정적으로 생각하고 있어
+P1 	: 너는 에스컬 파마를 하면 어울릴 걸
+P0 	: 매직도 고민하고 있어
+P1 	: 매직과 파마를 같이 하는 것도 괜찮지
+P0 	: 그렇게 되면 가격이 너무 높잖아
+P1 	: 그래도 예뻐지면 기분이 좋아

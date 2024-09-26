@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100033033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 점심드셨나요??
+P1 	: 네, 닭갈비 먹었어요
+P0 	: 와 마싯겟다..
+P0 	: 전 오늘 초밥을 먹었어요
+P1 	: 오, 모둠초밥?
+P0 	: 은행골아시나요??
+P1 	: 어, 들어본 것 같아요
+P0 	: 넵 거기서 특진초밥인가 먹었어요ㅎ
+P1 	: 오, 맛있던가요??
+P0 	: 넵 맛있어요! 근데 밥알이 잘 부서저요
+P1 	: 아하, 그랬군요
+P0 	: 그래서 먹기가 좀 불편한점말고는 없어요!
+P1 	: 오, 네네
+	  초밥 자주 드시나요?
+P0 	: 넵 전 초밥좋아해요!!저번주에도 먹었어요 ㅎㅎ
+P1 	: 해산물을 좋아하시는구나
+P0 	: 해산물 안좋아하시나요??
+P1 	: 자주 먹는 편은 아니에요ㅎㅎ
+P0 	: 어떤음식을 좋아하세요??
+P1 	: 떡볶이 김밥 오므라이스 냉면 좋아해요ㅎㅎ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100037786
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 공연 보는거 좋아하세요?
+P1 	: 좋아해요!
+P1 	: 공연 자주 보세요??
+P0 	: 공연 좋아하지만 자주 보지는 못 해요ㅜㅜ
+P1 	: 저도 자주 못 봐요ㅠㅠ
+P1 	: 시간 맞추기가 어렵네요ㅠ
+P0 	: 맞아요 시간 맞추기도 힘들고
+	  수도권이 아니다보니 공연 기회도 많이 없구요
+P1 	: 그쵸ㅠ 지방에는 늘 하던 공연만 하고 그러니까 더 기회가 없는 것 같아요!
+P0 	: 맞아요ㅠㅠ
+	  마음같아서는 뮤지컬 연극 콘서트들 다양하게 즐기고 싶은데 그러지 못하니 아쉬워요ㅜㅜ
+P1 	: 그쵸! 공급이 한정적이니 재수요가 없죠...
+P1 	: 이걸 좀 알아주면 좋으련만 ㅠㅠ
+P1 	: 유명한 배우들은 바라지도않아요 ㅋㅋㅋㅋ 공연만 다양하게 해줬으면 좋겠어요ㅠ
+P0 	: 맞아요ㅠㅠ &name2&님도 지방에 거주에 하시나봐요
+	  이 고충에 공감하시는거보니ㅜㅜ
+P1 	: 네 지방인입니다ㅠㅠ
+P1 	: 뮤지컬 좋아하고싶은데 기회를 안주네요 ㅋㅋㅋㅋ
+P0 	: 그러니까요ㅋㅋㅋ
+P0 	: 한 번씩 서울로 올라가야 볼 수 있을텐데
+P0 	: 가려면 시간도 내야하고 왕복 차비도 들고..
+	  마음먹고 가야하네요ㅜㅜ

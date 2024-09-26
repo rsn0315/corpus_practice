@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100031248
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 드셨나요~
+P1 	: 네~ 집에 늙은호박이 생겨서
+P1 	: 전 부쳐 먹었어요
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: ^^ 하루가 지났네요. 어제 저녁을 거하게 먹어서 아직도 배부른거 같아요
+P1 	: 오 저녁 거하게 드셨군요ㅎㅎ
+P0 	: 양념갈비 구워먹구 하남쭈꾸미도먹구 과일이랑 오징어랑..과자랑..안주발엄청 세웠네요ㅋ
+P1 	: 오 엄청 든든히 드셨귄ㆍ
+P1 	: 드셨구나
+P0 	: 오늘 저녁도 명륜진사갈비에서 든든하게먹었네요;;;
+P1 	: 잘 드시면 좋죠~
+P0 	: 오늘처럼 비오는날은 부침개가 좋겠네요/
+P1 	: 부침개 좋죠!!
+P0 	: 호박이 받은지 오래돼서 고롱고롱 죽어가서 양파랑 당근좀 넣고 호박전해봐야겠어요ㅎ
+P1 	: 오 저도 지난 주말에 호박전 부쳐먹었어요
+P0 	: 오~ 호박전 굽는 꿀팁있나요?
+	  &name2&님은 소금으로만 간을 맞추시나요?
+P1 	: 네 소금 조금 넣고
+P1 	: 초간장 만들어서 찍어먹어요
+P0 	: 오~초간장 맛있겠어요. 그건어떻게 만들어요?
+P1 	: 집에 맛간장 만들어놓은 것이 있는데 거기에 식초 약간 넣어서 만들어요
+P0 	: 와~맛간장도 직접만드시다니 대단해요
+P1 	: 아 어머니께서 만드셨어요
+P1 	: 간장이랑 과일 넣고
+P0 	: 맛있겠어요!!
+P1 	: 네 만들어두니 여기저기 활용할 곳이 많더라고요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011895
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 언제 오는데?
+P0 	: 오늘 올거 같은데
+P1 	: 근데 그릇은 갑자기 왜?
+P0 	: 요거트 시리얼이랑 말아 먹는데 손잡이가 있으면 좋을 거 같아서
+P1 	: 아 그럴 수 있지
+P0 	: 색깔도 되게 예뻐
+P1 	: 무슨색인데?
+P0 	: 엄청 진한 초록색
+P1 	: 민트는 아니지?
+P0 	: 민트색은 아니지
+P1 	: 다행이네
+P0 	: 왜? 민트색 싫어해?
+P1 	: 응  별로야
+P0 	: 아 그래 왜?
+P1 	: 색상이 좀 별로라서
+P0 	: 그럼 좋아하는 색깔은 뭐야?
+P1 	: 검은색

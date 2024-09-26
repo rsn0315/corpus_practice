@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017092
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 관람하신 공연 있나요??
+P1 	: 공연은 최근에 본적없는거같아요!
+P1 	: &name1&은 관람하신 공연있으세요?
+P0 	: 저는 최근에 뮤지컬 레드북 봤어요!
+P0 	: 가장 마지막으로 보신 게 뭔가요?
+P1 	: 뮤지컬 좋아하시나보네요!?ㅎㅎ
+P1 	: 음 저는 공연같은거를 본게 딱히 없는거같아요! 영화는 꽤 많이 봤어요!
+P0 	: 네 뮤지컬 좋아해요 ㅎㅎ
+P0 	: 전시회는 보신 적 있으세요?
+P1 	: 오호 그러시군요! 뮤지컬이 어떤게 좋으세요?
+P1 	: 전시회는 우연히 피카소전시회가 근처에서 하길래 본적있었어요!
+P0 	: 저는 노래 라이브 듣는 게 좋아요 ㅎㅎ 특히 앙상블 화음이요!
+P0 	: 피카소 전시회 어떠셨어요?
+P1 	: 아하 그러시군요!! 저도 노래듣는건 좋아해요!
+P1 	: 책에서만 보던걸 실제로 보니까 정말 신기하더라구요!
+P0 	: 그럴 것 같아요!
+P0 	: 그럼 콘서트는 가보신 적 있나요??
+P1 	: 콘서트도 안가봤어요!ㅠㅠ
+P1 	: 콘서트는 진짜 가보고싶은데!
+P0 	: ㅠㅠ 누구 콘서트 가장 가고싶으신가요?
+P0 	: 저는 페스티벌 가고싶어요
+P1 	: 어릴때는 에이핑크 콘서트 진짜 가보고싶었는데 못갔네요ㅠ
+P1 	: 발라드가수들 콘서트 가보고싶어요!
+P0 	: 전 정승환 콘서트도 가보고싶어요!

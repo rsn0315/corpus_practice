@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100008755
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달먹어요?
+P1 	: 네 자주 시켜먹어요
+P0 	: 메뉴는요?
+P1 	: 배떡 로제
+P0 	: 맛나겠네녀
+P1 	: 그쵸 맛나여
+P0 	: 전 치킨이요
+P1 	: 치킨 뭔 치킨요?
+P0 	: 네네 맛나요
+P1 	: 좋겠네요
+P0 	: 후라이드가 좋다고생각합니다.
+P1 	: 전 양념이요 ㅋ

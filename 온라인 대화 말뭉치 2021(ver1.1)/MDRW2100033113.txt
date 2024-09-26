@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100033113
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 학교 다니세요?
+P0 	: 네 다니죠 ㅎㅎ
+P1 	: 음 그럼 어떤 과목 좋아하세요?
+P0 	: 수학을 제일 좋아합니다
+P0 	: 국어는.. 젤 별루에요
+P0 	: 지금 중학생인데 고등학교 가면 국어를 어떻게 할지가 제일 고민이네요
+P1 	: 아ㅜㅜ 국어
+P1 	: 한국말이여도 어렵죠..
+P0 	: 그런데 요즘 온라인이다 보니까 수업에 집중도 안 되고.. 어떡할지 모르겠네요
+P1 	: 아이고.. 요즘은 학교가 온라인이니까 그렇겠네요
+P0 	: 혹시 고등학생이신가요.
+P1 	: 넵 고등학교.
+P1 	: 고등학교가 좀 다르긴 하죠
+P0 	: 저한테 약간의 팁이라도 주실수 있나요?
+P1 	: 음 그러면
+P1 	: 일단 책 많이 읽기.
+P0 	: 음.. 제가 책읽기를 잘 안하는데 노력해봐야겠네요
+P1 	: 네 ㅋㅋㅋㅋ 나중에 오면 책 읽을 걸 하고 막 후회해여

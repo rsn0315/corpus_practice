@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036539
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 학교에 다니시나요?
+P0 	: 아니요 ㅋㅋㅋㅋ
+P0 	: 학교다니세요?
+P1 	: 네
+P1 	: &name1&님은 학교 다니실 때 공부 잘하셨나요?
+P0 	: 음 과목마다 달랏어요 ㅋㅋㅋㅋ
+P0 	: 코로나때문에 학교에도 변화가 많앗겟어요
+P1 	: 맞아요 이제 이론과목은 학교를 아예 안가니까요
+P0 	: 아 학교에 가는 과목도 잇군요
+P1 	: 네 아예 실습은 나가기도 해요
+P0 	: 아 그렇군요
+P0 	: 실례가 안된다면 무슨전공인지 여쭤봐도 될까요?
+P1 	: 저는 간호요
+P1 	: 지금은 4단계라서 실습도 안나가지만요
+P0 	: 아 간호시구나 멋잇어요
+P1 	: &name1&님 전공은 어느쪽이셨나요?
+P0 	: 저는 언론쪽 전공이에요
+P1 	: 그렇군요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100001440
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P0 	: 반갑습니다
+P1 	: &name1&님은 취미가 어떻게 되세요~?
+P0 	: 취미라 ㅋㅋ
+P0 	: 그냥 뭐 별거없어요
+P0 	: 퇴근하고 맥주 한 잔마시고
+P0 	: 예능보는 거
+P0 	: 아님 배그하거나 해요
+P1 	: 앗 게임도 하시는군요 ㅎㅎ
+P1 	: 다른 게임도 하시는 것 있으신가요? ㅎㅎ
+P0 	: 롤하거나그렇져
+P1 	: 약간 실시간 게임 위주로 하시는군요 ㅎㅎ
+P1 	: 혹시 스팀게임도 하시나요..?ㅎㅎ
+P0 	: 아녀 두 개만 해여ㅋㅋ
+P0 	: Pc방가서
+P1 	: 그렇군요..! 하긴 둘다 사양이 좋아야 하는 게임이라,, &name1&님 취미가 생긴다면 또 알려주세요 ㅎㅎ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043641
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그러게 재택 근무가 좋은데
+P0 	: 웅 ㅜㅜ이제 하던 프로젝트 끝나서 출근해야하는듯
+P1 	: 집에서 하면 안 되나
+P0 	: 회사 컴터가 필요하다
+P1 	: 그러면 어쩔 수 없네
+P0 	: 웅웅 ㅠ출근해야함 ㅋ
+P1 	: 출근 퇴근 힘들겠다
+P0 	: 웅웅..오고가는시간 넘 아까워
+P1 	: 앞으로 계속 집에서 일 하면 너무 좋을 텐데
+P0 	: 웅..그냥 때려치우고 프리랜서를 하던지 ㅋ
+P1 	: 잘 알아보고 해야지
+P0 	: 웅웅..ㅋㅋ일하면서 알아봐야짘
+P1 	: 재택근무 해 달라고 말해 봐라
+P0 	: 여기 회사 그만두면 또 이직준비해야할까

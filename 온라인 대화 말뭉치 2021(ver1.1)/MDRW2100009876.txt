@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009876
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나로 댕기기가참 힘드네요ㅎ
+P0 	: 맞아요...너무 아쉬워요 가고싶은곳이 많았는데
+P1 	: 출장만댕기구
+P1 	: 제친구는 제주로 이사가버렸네요ㅋㅋ
+P0 	: 우와 너무 부러워요 상상만 하던걸ㅎㅎ제주가 너무 좋잖아요
+P1 	: 제친구는 여행좋아하는 앤데 해외못나가니까 이사가버리더라구요ㅋㅋ
+P0 	: 해외여행 가고싶다가도 자가격리가 너무 걸려서...ㅠ
+P1 	: 2주 격리하다 돌아옴ㅋㅋㅋ
+P1 	: 휴가가 아니네요 격리지
+P0 	: 그쵸ㅋㅋ그리고 그만큼 휴가를 낼수도 없구ㅋㅋ
+P1 	: 그건 퇴사하고 가야할판ㅋㅋㅋ
+P1 	: 글구 위험하잖아요
+P0 	: 맞아요ㅠㅠ진짜 내년에나 가능하겠어요
+P1 	: 요즘 서양에 동양인차별 심해져서..문제가 큰거같아요ㅜ
+P0 	: 맞아요..그전에도 있었는데 요즘은 더 심하겠죠
+P1 	: 요샌 대놓고 그런다나봐요 신고해도 묵인당한대요
+P0 	: 세상에ㅠㅠ

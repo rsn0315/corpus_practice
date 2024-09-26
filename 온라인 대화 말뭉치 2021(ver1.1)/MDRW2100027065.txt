@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027065
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞자요.. 참 좋은 식재료죠
+P1 	: 배달음식은 종종 시켜먹나요?
+P0 	: 네 가끔 시켜먹어요
+P0 	: 처음 자취시작했을때는 매일 시켜먹었는데
+P0 	: 요즘엔 좀 줄였어요
+P1 	: 배달앱 주로 뭘 썼었나요?
+P0 	: 저는 요기요 주로 사용해요
+P1 	: 요기요가 다른 앱보다  행사가 많다면서요?
+P0 	: 오 그래요? 저는 가입을 이거만 해둬서 다른곳은 잘 모르겠지만
+P0 	: 행사가 자주 있는것 같긴해요
+P1 	: 하나만 쓰시는구나.. 제가 배달앱이 없어요
+P1 	: 그래서 이번에 여러분들께 물어보고 있는 중이거든요..ㅎㅎ
+P0 	: 아항 ㅋㅋ 처음 가입하면 쿠폰 주거든요!
+P0 	: 쿠폰받을겸 배민이랑 요기요 둘다 사용해보시구
+P0 	: 편한거로 정착하세요 ㅋㅋㅋ
+P1 	: 그런 방법이 있었네요..ㅎㅎㅎ
+P1 	: 어딜 가입해도 첫쿠폰이 있을테니 시켜보고 싶은 음식이 생기면 바로 깔아봐야겠네요
+P0 	: 네네 맞아요 ㅋㅋ 배달 음식 먹다보면 배달비가 너무아까워요
+P1 	: 그렇다면서요.. 배달비 없을때부터 안시켜먹어서 몰랐는데
+P1 	: 요새 엄청 비싸졌다고 들었어요
+P0 	: 맞아요 2천원도 아까운데... 요즘엔 3천원 4천원도 있어요ㅠ
+P1 	: 그래요? 진짜 비싸졌네요..

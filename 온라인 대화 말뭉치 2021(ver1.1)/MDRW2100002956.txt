@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002956
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 뭐 드실지 메뉴 정하셨어요?
+P1 	: 처음으로 꽃게를 사봤어요
+	  꽃게탕? 같은걸 끓여볼까 하고 있습니다
+P0 	: 와 요리금손이신가봐요
+P1 	: 아니요 요린이입니다 ㅜ
+	  꽂게를 손질할 자신이 없어서 
+	  일단 냉동손질꽃게를 오늘 사봤어요
+P0 	: 아~예전에 만들어 보신적 있으세요?
+P1 	: 한번도 없거든요 ㅜ
+P0 	: 아~! 처음 도전이시네요~!
+P1 	: 네 ㅜ 혹시 끓여보셨나요?
+P0 	: 아니요~저도 요린이라서 안해봤어요
+P1 	: 아~^^ 저녁은 뭐드실건가용?
+P0 	: 저는 된장찌개 해먹으려고요
+P1 	: 아~^^ 저두 된장풀어서 끓여보려구요
+P0 	: 네~! 꽃게탕 너무 기대되네요~!
+P1 	: 먹을 수 있게 완성되길 바라요 ㅜ
+P0 	: 맛있을 것 같아요~!

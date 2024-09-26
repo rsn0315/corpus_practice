@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100045292
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저희 날씨 얘기 봄 가을 얘기했어용
+P0 	: 건강에 신경쓰고 계신가요?
+P1 	: 그냥 그럭저럭요 &name1&님은 건강관리하세요?
+P0 	: 아뇨..ㅠㅠ 저는 게으름뱅이에요ㅠㅋㅋㅋㅋ
+P1 	: 저도 누워서 숨쉬기 운동이 다예요
+P0 	: 앜ㅋㅋㅋㅋㅋㅋ 그럼 영양제 같은거 드세요?
+P1 	: 여성 유산균 먹어요 &name1&님은 영양제 챙기나요?
+P0 	: 저는 비타민 b 먹고 있어요 그냥 누가 줘서 먹고 있습니다...ㅋㅋㅋㅋ
+P0 	: 유산균은 좋아요?
+P1 	: 엄마 잔소리때문에 먹어요 좋대요 ㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ사랑이 담겨있는 유산균이네요
+P0 	: 그람 따로 하시는 운동은 없으세요?
+P1 	: 네 딱히..
+	  님은 따로 하는 운동 있나요?
+P0 	: 저 아주 가끔가다가 집에서 실내자전거 타요 ㅋㅋㅋ
+P1 	: 자전거요? 다리 아프겠어요
+P0 	: 어차피 체력 없어서 오래 못타니까 안아파요!

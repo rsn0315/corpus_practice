@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100041487
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 나 폰케이스 살거야
+P0 	: 또?
+P1 	: 또라니 케이스는많을수록좋지
+P0 	: 어떤 케이스 보고 있어?
+P1 	: 귀여운거
+P0 	: 귀여운거좋지
+P1 	: 곰돌이모양살거야
+P0 	: 우와 진짜 귀여울거같은데
+P1 	: 너도같이 살래?
+P0 	: 내 기종 있는지 봐줘
+P1 	: 너가 갤럭시노트20이지?
+P0 	: 맞아 한번확인해줘
+P1 	: 사진보냈어 봐봐
+P0 	: 살래!

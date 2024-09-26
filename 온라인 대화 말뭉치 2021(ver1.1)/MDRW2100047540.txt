@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100047540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 배달 음식이 아닌갑다
+P0 	: 정말?  언니가 만들어 주는거야?
+P1 	: 뭘 요리하는지 볶음밥 같은 냄새가 진동한다
+P0 	: 오ㅋ 오랜만에 하시는거 아님?
+P1 	: 냉동볶음밥 반조리하는갑다 ㅋㅋ
+P0 	: ㅋㅋ 볶기만 하면 되네
+P1 	: 요즘 일주일에 한번씩 하는거 같다 
+	  토스앱을 설치했는데 지갑이 텅빈 이유를 배달음식을 너무 먹어서라고 메시지를 계속 보내니
+P0 	: 아 맞나. 근데 언니 거의 요리를  안하시는거지?
+P1 	: 하긴 하는데 잘 안하지 하면 부담스럽다 양을 너무 많이 해서
+P0 	: 차라리 배달 시켜 먹는게 나은거네?
+P1 	: 그래서 내가 맨날 양 적게 하라고 한다
+P0 	: 샘은 요리 거의 안하지?
+P1 	: 언니가 음식 솜씨가 있었는데 일하기 시작한 부터 요리를 안하니 솜씨가 줄더라

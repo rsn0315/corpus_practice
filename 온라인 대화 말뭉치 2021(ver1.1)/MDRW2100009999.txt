@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 주로 어디서하세요
+P0 	: 저는 온라인 쇼핑 주로 해요 네이버쇼핑이나 지마켓 주로 이용해요
+P1 	: 최근에 좋은 거 사신거 있나요?
+P0 	: 플립3 샀어요!!
+P0 	: 뭉틔기님은 쇼핑할 때 주로 어디 이용하세요?
+P1 	: 저도 최근엔 네이버쇼핑 자주쓰는거 같아용
+P1 	: 최근엔 재래시장도 자주 가고요
+P0 	: 근데 편리성 때문에 대형마트를 더 자주가게 되긴하지만요
+P1 	: 맞아요 무거운거 들고다니기 불편해요 사람도 너무 많고 불친절하고
+P0 	: 맞아요 단점이 명확해서 재미있지만 즐겨찾지는 않게되더라고요
+P1 	: 인쇼는 뭔가 장바구니담고 결제할때 재미가 나요
+P0 	: 맞아요 근데 막상 배송 받고 나면 감흥이 없어지더라고요 ㅎㅎㅎ
+P0 	: 요새는 오프라인에서 보고 온라인으로 사게되는 경우도 많은거 같아요
+P1 	: 저도 옷살때 그래요
+P0 	: 온라인으로 보통 더 저렴해서 그게 좋더라고요
+P1 	: 맞아요 가끔 십만원씩 차이나는것도 봤어요
+P0 	: 그니까요 ㅎㅎ 오프가서도 폰으로 막 검색해보고 구매하고 그래요 ㅎㅎ

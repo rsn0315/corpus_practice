@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 기르셨나요
+P1 	: 지금 고향이 기르고 있어요 ㅎㅎㅎ
+P1 	: 고양이...ㅋㅋ
+P0 	: 와 1마리요?
+P1 	: 네네!  지금도 열심히 캣휠 돌리고 있네요
+P0 	: 이름은요~?^^
+P1 	: 이름 &name3&예요ㅋㅋㅋㅋㅋㅋ
+P0 	: 아 반려견.묘 들 이름은 다 왜케 귀여운지..^^
+P1 	: ㅋㅋㅋ 어릴 때는 얼굴이 넙대대해서 만두 같았어요
+P0 	: 그랬군요 지금은 안그런가요?ㅋ
+P1 	: 지금은 좀 샤프해졌죠ㅋㅋㅋㅋ
+P1 	: &name1&님은 기르는 동물 있으세요?
+P0 	: 저는 경험이 없네요 ㅠ
+P1 	: 아하 혹시 이유를 여쭤봐도 될까요? 가족이 동물을 별로 안 좋아하는지..
+P0 	: 아 저는 비염이 있고 엄마가 결벽증 직전으로 깔끔하세요 ㅠ

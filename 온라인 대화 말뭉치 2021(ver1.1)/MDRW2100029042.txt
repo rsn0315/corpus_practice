@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100029042
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직업 스트레스가 있으신가요?
+P0 	: 스트레스 있어요??
+P1 	: 네네 많습니다. 많아요 아주 많다구요
+P1 	: 당신은 있습니까??
+P0 	: 네 있습니다
+P0 	: 가끔 악플이 달려요
+P1 	: 그렇군요
+P1 	: 연예인이신가봐요
+P0 	: 인플러서 일을 겸업하고 있어요
+P0 	: 인플런서
+P0 	: 대학원생이면 아르바이트도 하시나요?
+P1 	: 안해요 시간이 없어요
+P0 	: 저는 하루 2시간 정도는 월루한답니다
+P1 	: 와우
+P0 	: 맨날 일만 하세요?
+P0 	: 저기요?
+P0 	: 똑똑
+P1 	: 네 안녕하세요
+P0 	: 연구소이신가요? 월급은 며칠에 받으세요?
+P1 	: 24일에 받습니다. 당신은 언제 받으시나요?
+P0 	: 저는 25일입니다 비슷하네요
+P1 	: 저보다 하루 늦게 받으시는군요
+P1 	: 점심은 드셨나요? 점심시간이네요
+P0 	: 코로나 때문에 햄버서 테이크 아웃해서 들고 갈 예정이에요

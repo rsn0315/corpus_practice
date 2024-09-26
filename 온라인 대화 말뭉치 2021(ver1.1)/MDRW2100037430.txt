@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100037430
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요!
+P1 	: 오늘 날씨는 어땠나요?
+P0 	: 아침부터 지금까 지비가 와요
+P0 	: 까지
+P0 	: 그래서 많이 습하네요
+P0 	: &name2&님네는 어떤가요?
+P1 	: 오후에 소나기 한번오고 흐리기만했어요!
+P1 	: 밤새 비가 온다하네요ㅠ
+P0 	: 아 저는 중부지방인데 계속 비만와요 ㅠㅠ 남부쪽에 사시나요?
+P1 	: 저도 중부에요!
+P1 	: 같은 중부인데도 다르네요ㅠ
+P0 	: 혹시 제가,, 방에 있어서 빗소리를 잘못들었나 하구 나가보니 제쪽은 아직 비와요
+P1 	: 세상에.. 여기 올 비가 그쪽에 아직 있나봐요..
+P1 	: 계속 비오면 문도 못열고 계시겠네요ㅠ
+P0 	: 그래 도작년 장마보단 살만하지 않나요?
+P0 	: 그땐 진짜 습했어요
+P1 	: 아 그건 그래요
+P1 	: 작년에 진짜.. 에어컨 끼고 산거같아요
+P0 	: 날이 좀 좋은 해가 참 적어요 ㅋㅋ사게절이다보니
+P0 	: 한계절은 꼭 문제가 생겨요
+P1 	: 맞아요 가을이 그래서 아쉬울뿐이에요
+P0 	: ㅠ코로나라 놀러못나가긴하지만,,

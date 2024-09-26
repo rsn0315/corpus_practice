@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100036521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하새요
+P0 	: 요즘 어떤 옷차림을 주로 입으시여?
+P1 	: 밖에나갈땐 반팔 긴바지요
+P1 	: &name1&님은여
+P0 	: 저도 반팔 긴바지 요
+P1 	: 요즘 날씨가 딱좋은것같아요. 더 추운건 싫어서
+P0 	: 저도용ㅎㅎ 선선한거 좋네요
+P1 	: 목욕도 맨날하능것도 스트레스더라고요
+P0 	: 그쵸 목욕 맨날하면 개운하긴 하지만 귀찮아요
+P1 	: 이젠추워서.
+P0 	: 네 춥죠 찬물샤워 못하네여
+P1 	: 이제 뜨거운샤워만 가능해요
+P0 	: 네이제 각질도 올라올 시기네여
+P1 	: 네.. 그럼 핸드크림 열심히 바르세여

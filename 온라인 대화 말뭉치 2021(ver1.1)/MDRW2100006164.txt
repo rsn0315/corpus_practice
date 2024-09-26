@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006164
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 기억에 남는 선물 있나요
+P0 	: 친구가 매년생일때마다
+P0 	: 소소한선물을 했는데
+P0 	: 큰건아니지만 고맙더라구요
+P1 	: 어떤 선물들이었나요?
+P0 	: 음 그냥 귀걸이나 향수 같은거였어요
+P0 	: 비싼건 아니고 가볍게 받을수있는것들
+P1 	: 가벼운게 아닌데요?정성이나 관심이 필요한거네요
+P0 	: 아 근데 친구도 어디 뭐 이벤트 당첨되고 필요없어서 남은거주는거라ㅋㅋ
+P0 	: 그래도 제생일을 안잊고 챙겨주는거자체가 고마웠어요
+P1 	: 그러셨군요 받고싶은 선물은 있나요?
+P0 	: 음ㅋㅋ 현금주면 제일좋고 지금 필요한건 식세기네요
+P0 	: 받고싶은 선물있으세요?
+P1 	: 식세기 좋죠..ㅎㅎ 저도 현금이..
+P0 	: 최근에 선물받은경험 있으세요?
+P1 	: 생일이면 온 가족에게 현금...친구들에겐 기프티콘..받았네요
+P0 	: 와 유용한 걸로 많이 받았네요
+P0 	: 치킨기프티콘 받으면 기분좋을거같아요
+P1 	: 그렇죠.. ㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100000377
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 플스4 사놓고 못하고 있습니다.
+P1 	: 플스4를 산다면 뭘하고 싶은가요?
+P1 	: 플4 무슨게임 하시나요?
+P0 	: 저는 무료로 주는거 합니다ㅎㅎ
+P1 	: 그러시구나
+P1 	: 최근에 하신 게임이 있나요?
+P0 	: 저는 라오어. 아시나요? 인기 게임인데
+P1 	: 알죠
+P1 	: 라오어2는 평가가 안 좋지만요
+P1 	: 라오어 엔딩 보셨어요?
+P0 	: 다 못깼어요ㅜ 게임을 못해서
+P1 	: 저런
+P1 	: 바쁘신가봐요
+P0 	: 어렵더라고요. 이스포츠도 실력이 있어야해요.
+P1 	: 하다보면 실력이 늘거예요~
+P1 	: 정 안되면 난도 낮추는 방법도 있고요~
+P0 	: 아 그런 방법이
+P0 	: &name2&님은 무슨 게임 좋아하시나요?
+P1 	: 전 로스트아크 좋아합니당
+P0 	: 어떤 장르인가요?
+P1 	: 온라인 rpg입니당
+P1 	: 사람들과 어울려 지내는 게임이에용ㅎㅎ

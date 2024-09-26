@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100041558
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 보통 요리 뭐 해드세요?
+P1 	: 저는 양식 위주인데 근래에는 파스타나 팽이버섯전 하고
+P1 	: 야식으로 단호박 쪄서 마요네즈+케이퍼+아티초크절임 이렇게 먹었어요
+P0 	: 팽이버섯저뉴맛있겠어요!
+P0 	: 저는 팽이버섯을 안 좋아하는데 전은...해먹어봐도 좋을 거 같아요
+P1 	: 아주 맛있어요 ㅎㅎ
+P0 	: 야식으로 되게 건강하게 드시네요
+P0 	: 아티초크절임 직접 하시나요?
+P1 	: 팽이버섯+달걀+파+소금 이렇게 섞어서 부쳐요 !
+P1 	: 아뇨 이마트에서 사요
+P0 	: 첨 들어봐서 사시는 줄 알았어요
+P0 	: 요새 단호박 진짜 달더라고요
+P1 	: 구성을 보니 직접 해도 될 듯 한데 아티초크를 구하는 게 어려울 것 같아요 ㅎㅎ
+P1 	: 맞아요 작은 것부터 중간 사이즈까지
+P1 	: 아 어제는 브로콜리를 살짝 데쳐서 치즈를 얹어 먹었어요
+P1 	: 요리 하시나요?
+P0 	: 브로콜리 위에 치즈라니 상상도 못해본 조합이에요
+P0 	: 요리를 좋아합니다!
+P1 	: 어떤 거 하시나요 ?
+P0 	: 지금는 시나몬롤 하는 중이에요 ㅋㅋㅋ
+P0 	: 보통은 냉털로 요리해서 특정종목이 없습니다..
+P1 	: 우와 시나몬롤 어떻게 하는 거죠
+P0 	: 호떡믹스로 할 수 있도록 편한 조리법이 있더라고요 ㅋㅋㅋ
+P0 	: 에어프라이기로요!
+P1 	: 오오

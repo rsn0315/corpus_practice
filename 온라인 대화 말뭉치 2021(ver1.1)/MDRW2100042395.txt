@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100042395
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어디로?
+P0 	: 올리브영같은데에서 시향지 쓸수있더라구요 ㅎㅎ 굿
+P1 	: 근데 마스크 끼는데 향을 어떻게 맡아
+P0 	: 엄청 높이 막 흔들면 괜찮다구욧
+P1 	: 빨리?
+P0 	: 네 빨리.. 글구 종이니까 걍 샥 뿌리고 마스크 안쪽으로 숙 집어넣어도
+P0 	: 괜찮은거같던데
+P1 	: 위험하지 않냐 마스크 안에 넣으면
+P0 	: 금방 뿌려서 넣는거니까 괜찮지 않을까 하고
+P1 	: 사람들 다닐때 뿌리면 안되니까
+P0 	: 당연 사람들 안다니는거 구석에서 뿌리죠 ㅋㅋ
+P0 	: 향수코너도 구석입니다
+P1 	: 올리브영 너무 오랜만에 가봐서 모르겠다
+P0 	: 저랑 같이갈곳이 너무 많으시ㅔㄴ요
+P1 	: 또 귀찮다고 안나갈거지
+P0 	: 아니에요 ㅋㅋ 마스크만 안써도 되면 나갈거야
+P1 	: 안나가겠다는 소리 아냐?
+P0 	: 아니라구요 백신맞으면 그래두 나중에 괜찬하질테니까
+P1 	: 꽤 오래 기다려야할텐데...

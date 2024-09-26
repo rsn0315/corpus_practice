@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011101
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 저녁 뭐 드셨어요 ㅎㅎ
+P1 	: 저녁은 시댁표 꽃게탕과 겉절이를 먹었습니다 &name1&님은요?
+P0 	: 어머나 시댁표 부럽네요 ㅠㅠ 어머니 들으세요 좀 ㅋㅋㅋ 전 어젠 떡볶이..벌써 오늘  오늘은 학교 주변 식당 배달 백반 ㅜㅜ
+P1 	: 백반은 먹을만 한가요?
+P0 	: 반찬 몇가지와 국 주셔서 집 가져와서 있던 반찬이랑 친정엄마 와 아이와 먹고 한끼 떼웠어요
+P1 	: 떡볶이는 사드셨나요?
+P0 	: 냉동있던거 해서요 ㅎㅎ
+P1 	: 오 그렇군요 저도 지난주말 동네분식집에서 사먹었어요 ㅋ
+P0 	: 떡볶이 는 언제나 진리 ㅜ 넘 맛있어요 ㅜ
+P1 	: 로제떡볶이 드셔보셨나요 궁금해요
+P0 	: 네 ㅎㅎ 맛있었는데 아이가 좋아하더라구요 ㅋㅋㅋ
+P1 	: 오 매운맛이 아예 없나요?
+P0 	: 조금 있어서 그런지 크림 맛으로 먹더라구요 ㅎㅎ 요즘 매운맛 도전 ㅋㅋ

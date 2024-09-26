@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100040827
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가까운 사람 중에 암 걸린 사람 보셨어요?
+P1 	: 아 요즘은 주변에 암 걸린 분 한두분씩은 다 있는 듯요
+P0 	: 네 저도 친구가 20대 때 암에 걸렸어요
+P1 	: 에고
+P1 	: 괜찮아지셨나요?
+P0 	: 그래도 안 죽고 살아 있어서 다행이에요
+P0 	: 처음엔 죽는 줄 알았어요
+P1 	: 정말 다행이네요
+P1 	: 초기에 발견하셨나보다
+P0 	: 내 혈액암이 두 번이나 재발했어요
+P1 	: 재발까지 했다니
+P1 	: 고생 많으셨겠네요
+P0 	: 한참 약 먹을 때는
+P0 	: 약 기운 때문에 잔다고 연락이 안 됐어요
+P1 	: 항암약이 독하니까요ㅜ
+P1 	: 그래도 건강해지셨다니 정말 다행이예요
+P0 	: 그러니까요 살아서 다행이지 죽으면 너무 우울한 거 같아요
+P1 	: 그쵸
+P1 	: 나이도 젊은데
+P1 	: 젊으면 암세포도 빨리 퍼진다더라고요
+P0 	: 그런가 봐요 늙어서 안 걸리면
+P0 	: 암세포가 사람이랑 공생처럼 그러면서 잘 안 죽는다고

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이제 김밥 끝 부분 남았어요
+P0 	: 베트남 땡초 조금 들고 왔어요
+P1 	: 먹을 때 말하니 인식이 잘 안 되네요
+P0 	: 땡초 가루
+P1 	: 음식에 넣으면 완전 매워 지지요
+P0 	: 겁나 겁나 매워요
+P0 	: 낙지볶음에 한 스푼 넣었는데
+P0 	: 울면서 먹었어요
+P1 	: 저희 숙모가 좋아하시겠네요 성모님 매운음식을 엄청 드시거든요
+P0 	: 관심 있으신가요
+P0 	: 나눔 가능합니다
+P1 	: 괜찮습니다 넌 잘 안 해요
+P0 	: 정말 정말 맵거든요
+P1 	: 저는 요리를 잘 안 해요
+P0 	: 그냥 음식에 한 스푼 넣어서 먹어요
+P0 	: 짜장면 위에 뿌린다거나
+P1 	: 저희 고모가 매운 건 못 드세요
+P0 	: 찍어 먹거나
+P1 	: 음식 시킬 때 매운 걸 못 시켜요
+P0 	: 아쉽네요

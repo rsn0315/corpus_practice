@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100003765
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 뭐드실거에여
+P1 	: 저 아직 안골랐어요
+P1 	: 사실 눈뜬지 얼마안돼서ㅎㅎ &name1&님은 뭐드실거예요?
+P0 	: 사실 비도 오고 그래서 귀찮아서 라면 먹을까 생각중이에요
+P0 	: 라면 좋아하시나요?
+P1 	: 헉 라면 좋죠!
+P0 	: 어떤라면 좋아하시나요?
+P1 	: 불닭볶음면도 좋아하고 국물있는 라면도 좋아해요
+P0 	: 불닭 너무 좋아요
+P0 	: 붉닭 먹을 때 추가해먹는게 있나요
+P1 	: 저는 치즈! 어느정도 먹고 치즈랑 삼김 넣어서 다시 돌려먹어요
+P0 	: 치즈는 국룰이죠
+P0 	: 약간 치즈넣으면 그 뭐라해야하지 치즈맛이 너무 좋아요
+P0 	: 체다치즈도 좋고 모짜렐라도 좋고
+P1 	: &name1&님은 불닭에 특별히 넣는거 있으세요?
+P1 	: 맞아요 전 치즈가 정말 좋아요
+P0 	: 저도 치즈넣구요 음 비엔나 넣어먹는거 좋아해요
+P1 	: 헐 비엔나도 좋아요!
+P1 	: 저 마라탕에도 비엔나 넣어요
+P0 	: 저는 아직 마라탕을 안먹어봐서
+P0 	: 마라탕을 표현한다면 어떤맛인가요?
+P1 	: 중독성이 진짜 심해요
+P1 	: 저도 처음엔 이게 무슨 맛이야..? 했는데 즐겨먹고 있어요

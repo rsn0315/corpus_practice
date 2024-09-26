@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012370
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반가워요! 무슨 장르소설 좋아하시나요?
+P1 	: 저 추리소설 좋아해요
+P0 	: 혹시 추천해주실 수 있나요?
+P1 	: 가볍게 읽기 좋은건 괴짜탐정의 사건노트가 좋구
+P1 	: 장기간으로 읽으실거 원하시면 애거서 크리스티 전집이 좋아요
+P0 	: 추천감사합니다! 애거서 크리스티 작들 읽어보고 소름이 막 돋았던 기억이 생생하네요
+P1 	: 이미 읽어보셨군요ㅎㅎ
+P0 	: 네 ㅎㅎ 어릴때 읽었어서... 세세히 기억나진 않아요
+P1 	: 저도 좀 예전에 읽긴 했어요...
+P1 	: 최근에 재밌게 읽으신 책이 있나요?
+P0 	: 최근에는 센서티브라는 책을 재밌게 읽었어요
+P1 	: 오 어떤 내용인가요??
+P0 	: 예민한 사람에 관한 심리내용인데 좋습니다!
+P1 	: 심리에 관련된 책이라니 관심이 생기네요
+P1 	: 한번 읽어봐야겠어요
+P0 	: 추천합니다. 저는 개인적으로 엄청공감하면서 봤어요
+P1 	: 표지가 엄청 깔끔하고 감각적으로 생겼네요
+P0 	: 맞아요! 깔끔해서 눈이가죠
+P1 	: 예민함이라는 주제를 바늘로 표현했군요
+P0 	: 오 맞아요. 아마 그런 뜻이였어요

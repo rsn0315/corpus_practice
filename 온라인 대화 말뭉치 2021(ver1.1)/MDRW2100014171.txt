@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 컴퓨터가 왜 느린데
+P0 	: 산지 넘 오래되어서 사양이 안좋은듯
+P1 	: 얼마 전에 샀잖아
+P0 	: 아니다 10년은 되갈껄
+P1 	: 그렇구나
+P0 	: 대학생때 샀으니~ 그정도 되었당
+P1 	: 새로 사려면 비싸잖아
+P0 	: 그렇지 ㅠㅠ 돈 아깝다
+P1 	: 그래도 필요하면 사야지
+P0 	: 옹 ㅠㅠ 좀 알아봐야겠다
+P1 	: 그래
+P0 	: 옹..이대로 쓰다간 갑자기 고장날듯
+P1 	: 그럼 안 되지
+P0 	: 옹옹 무섭
+P0 	: 엄마 머 필요한거있어용?

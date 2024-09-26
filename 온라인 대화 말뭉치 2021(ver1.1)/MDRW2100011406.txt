@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011406
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는하셨나요
+P1 	: 네 비도 오고 그래서 칼국수먹었네요
+P0 	: 저는 식사메뉴고민중이에요
+P1 	: 점심 식사니깐 맛난거 드셔요ㅎㅎ
+P0 	: 직접 해먹으려고요. 메뉴추천해주세요~
+P1 	: 비많이오니깐 국물요리는 어때요?
+P0 	: 좋죠 칼국수 직접해서 드신건가요?
+P1 	: 네 직접요리했어요ㅎㅎ
+P0 	: 조리법 알 수있을까요?안해봐서
+P1 	: 재료는 다 있나요?
+P0 	: 칼국수면이랑 야채랑 해산물 조금요ㅎㅎ
+P0 	: 시간이 많이 걸릴까요?
+P1 	: 30분내외요
+P1 	: 육수내고 면넣고 야채,해산물 끓임되요
+P0 	: 다른 양념은요?
+P1 	: 저는 다른 양념은 안하고 후추만 살짝해요

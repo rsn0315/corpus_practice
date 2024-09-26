@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 회사 사람이랑 커피 한 잔 마셔도 되지?
+P0 	: ㅇㅇ 당연 되지 ㅎㅎ
+P1 	: 고마워 ㅎㅎ
+P0 	: 그런 건 나한테 얘기 안하고 마셔도 돼요 ^^,;;
+P1 	: 안 돼~ 다 얘기해야 돼 ㅋㅋ
+P0 	: 이름 있는 커피 먹어
+P1 	: 노노 여기 천원짜리 커피 맛있는 거 많아
+P0 	: 거기 스타벅스도 있잖아 ㅡㅡ
+P1 	: 여기 아메리카노 맛있어 ㅎㅎ 충분해
+P0 	: 기분 전환으로 마시는건데 기왕이면 좋은 데서 먹지 ㅜㅜ
+P1 	: 어차피 테이크 아웃인데 뭘~ 다 똑같아 ㅋㅋ
+P0 	: 아.. 테이크 아웃 해야되는구나 ㅎㅎ 그걸 생각 못했네
+P1 	: 비 많이 내린다~ 따뜻한 걸로 마셔야지
+P0 	: ㅎㅎ 그랴요

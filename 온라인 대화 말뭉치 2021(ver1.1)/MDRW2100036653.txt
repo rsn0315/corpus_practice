@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036653
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕라새요
+P0 	: 안녕하세욥
+P1 	: 우유 좋아하세요?
+P0 	: 네.. 저는 부산우유{emoji:♥}
+P1 	: 부산우유를 따로 파나요?
+P0 	: gs수퍼에서 1974우유,
+	  이마트에서도 부산우유에서 만든 제품이잇어용
+P0 	: 피코크꺼인가
+P1 	: 왕 자세히 아시네요!
+P0 	: 네..찾아봣죱. 확인해보세요 숫자체크
+P1 	: 서울우유보다 맛있나요?
+P0 	: 모루겟네요
+P0 	: 테스트좀하고 후기좀
+P1 	: 해외우유는 어땨요?
+P0 	: 저는 맛잇다고생각해요
+P0 	: ㅎㅎㅎㅎ
+P0 	: 멸균말고용
+P1 	: 저는 멸균 맛으로 안먹어요

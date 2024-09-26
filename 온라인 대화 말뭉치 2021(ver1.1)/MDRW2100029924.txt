@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100029924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 해야죠
+P0 	: 분담해야죠
+P1 	: 뭐 그냥 알아서 보이는거 해서요
+P0 	: 전 청소담당이요
+P1 	: 청소도 쉽지않죠
+P0 	: 화장실전담이요
+P1 	: 거긴 특히 힘들어요
+P0 	: 화장실청소가 가장 힘들죠
+P1 	: 깨끗이 안돼요
+P0 	: 락스냄새싫어요
+P1 	: 곰팡이없애려면 써야하니까요
+P0 	: 머리도아프고
+P1 	: 청소가 힘드네요
+P0 	: 마스크껴도 안됨

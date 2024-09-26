@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017862
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 서울
+current_residence : 충남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: &name2& 클래식 좋아하시죠?
+P1 	: 네 클래식 좋아하져~
+P1 	: &name1&은 언제부터 들으셨어요?
+P1 	: 전 중학교때부터 들었어요
+P0 	: 본격적으로 듣기는 대3학년때요
+P1 	: 본격적이라 함은 무슨 말일까요?
+P0 	: 어릴땐 무슨 아가용 클래식 테이프 하나를 주구장창 들었어요 베토벤 피아노 소나타 테잎도 하나있었어요
+P1 	: 전 근데 애 낳고 근10년간응 못들었어요
+P0 	: 세계적으로 이름있는 연주자 찾아듣는거요
+P1 	: 아하 그래도 기억에 남고 감동받고 그렇잖아요
+P1 	: 전 fm 클래식채널 중학교때부터 들었어요
+P0 	: 넹넹 저도 새로나온 사람들 소식안접한지 꽤오래에요
+P0 	: 아하 그렇게 들으셨군요
+P1 	: 연주회는 서울 사니깐 아주 가끔 가고요
+P0 	: 넹넹
+P1 	: 지금은 충남 살아서 좋은 연주회 가기가 어렵네요
+P0 	: 아아 이사가셨나했어요
+P0 	: 서울말씀하시길래요
+P1 	: &name1&은 피아니스트들 좋아하시나봐요

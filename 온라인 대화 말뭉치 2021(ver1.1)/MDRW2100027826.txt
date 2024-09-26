@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100027826
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하실까요
+P1 	: 네!여행 좋아합니다!
+P1 	: 여행 좋아하세요?
+P0 	: 네 저도요 해외vs국내?
+P1 	: 국내도 너무 좋은데 요즘 해외여행을 못가서
+P1 	: 해외여행 가고싶어요
+P1 	: &name1&은 국내?해외??
+P0 	: 해외죠 ㅋㅋㅋㅋ
+P0 	: 내 여행 ㅜㅜ
+P1 	: 흑ㅠㅠㅠ
+P1 	: 해외 어느나라가 제일 좋으셨나요??
+P0 	: 저는 베트남이랑 대만이 ㅋㅋ
+P0 	: 태국도 좋았고
+P0 	: 홍콩은 좋긴한데 너무 비싸여
+P1 	: 저도 태국 너무 좋았어요!
+P1 	: 홍콩 가보고 싶었는데 비싸군요ㅜㅜㅜ
+P0 	: 네 홍콩은 확실히 비싸요 ㅋㅋ
+P0 	: 태국이면 방콕 가셨을까요
+P1 	: 저는 푸켓갔어요!
+P1 	: &name1&은 방콕으로 가셨나요
+P1 	: ??
+P0 	: 네 ㅋㅋ 3박5일의 지옥 스케쥴
+P0 	: 싸서 갔습니다ㅋㅋㅋㅋ
+P1 	: 저도 3박 5일이라 엄청 힘들었어요
+P1 	: 푸켓은 별로 싼지 모르겠던데 방콕은 싸나보군요!
+P0 	: 그때 비행기+숙소로 했는데 얼마였더라
+P0 	: 평일에 가서 되게 쌌는데

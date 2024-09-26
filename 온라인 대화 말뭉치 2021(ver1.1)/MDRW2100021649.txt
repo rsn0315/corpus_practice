@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100021649
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~
+P1 	: 저녁 맛있게 드셨어요?
+P0 	: 네 저녁드셨어요?
+P1 	: 그럼요~ 롯데리아에서 햄버거 사먹었어요
+P0 	: 어떤 버거드셨나요?
+P1 	: 한우불고기버거 아세요?
+P1 	: 원래 맛있는데 리뉴얼 되었다고 하더라구요
+P0 	: 한우불고기버거 알죠
+	  리뉴얼되었는지는 몰랐어요
+P1 	: 뭐가 25% 정도 더 많아졌다고 하던데
+P1 	: 오늘 보니까 양상추가 푸짐해졌더라고요 ㅎㅎ
+P0 	: 아 그럼 양상추가 추가된건가요ㅎㅎ
+P1 	: 양상추 원래 있었는데 더 많아진거죠 ㅎㅎ
+P0 	: 아 그렇네요ㅎㅎ
+P1 	: 근데 오늘 {censored}에서 기분 나쁜 일 있었어요 ㅠㅠ
+P0 	: 어떤 일이 있었나요?
+P0 	: 어머나..
+P0 	: 충격이네요
+P0 	: 매장 위생관리가 허술한가보네요ㅠㅠ
+P0 	: 충격이었겠어요..

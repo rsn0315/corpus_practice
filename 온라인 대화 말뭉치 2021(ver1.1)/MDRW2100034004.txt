@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100034004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 동물 키워보신적 있으신가요
+P1 	: 아니요 &name1&님은요?
+P0 	: 닭 키운적있어요
+P1 	: 우와 어떻게 키우시게 되었어요?
+P0 	: 초딩때 데려왔어요
+P1 	: 병아리때 데려왔나요?
+P0 	: 맞아요
+P1 	: 도시에서 키우기 힘들다던데
+P1 	: 대단하시네요
+P0 	: 동물 키워본적 한번도 없으신가요?
+P1 	: 네 한번도 없어요
+P0 	: 그렇군요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 게임 좋아하시나요??
+P1 	: 게임 엄청 좋아했죠ㅋㅋ
+P1 	: 요즘엔 잘 안하는 것같아요
+P0 	: 아 그래요??? 무슨 게임 많이 하세요??ㅋㅋㅋ
+P1 	: 요즘엔 플스4로 해요!
+P0 	: 오 플스 4에 게임 많나요? 저는 그런 건 없어서요ㅎㅎ
+P1 	: 게임은 많죠ㅋㅋ
+P1 	: 그런데 거의 유료라서요ㅎㅎ
+P1 	: 그래서 전 집앞에 플스 시디 대여점에 자주가요
+P0 	: 아 대여도 해주시는군요! 약간 옛날 만화방 같네요ㅋㅋㅋ
+P1 	: 저도 그런 느낌나서 자주 가요ㅎㅎ
+P1 	: &name1&님은 게임하세요?
+P0 	: 전 주로 롤해요 쿠키런도 하고요!
+P1 	: 쿠키런 예전에 했었는데
+P1 	: 그런데 요즘은 쿠키런 킹덤...? 이란거하지않나요?
+P0 	: 아 전에 쿠키런 킹덤 하긴 했어요 컨텐츠 부족에 점점 귀찮아져서 접었지만요!
+P1 	: ㅋㅋㅋㅋ그럼 위 말씀하신 쿠키런은 오븐브레이크인가요?
+P0 	: 네ㅋㅋㅋ 오븐브레이크예요@
+P0 	: !

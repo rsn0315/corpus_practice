@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100004539
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 아침은 뭘로 드시나요?
+P0 	: 그 닭칼국수 김치먹어보셧나요?
+P0 	: 그 김치가 진짜 짜파게티랑먹으면 장난아니에요
+P1 	: 무슨소리예요 닭칼을 사면 주는 김치를 짜파게티랑 먹는다는 건가요?
+P1 	: 닭칼에 대한 배신 아닌가요?
+P0 	: 참내 닭칼도 헤치워주고먹는거죠
+P1 	: 존경스러워요
+P1 	: 저는 아직 아침 전인데
+P1 	: 추천해줄 수 있나요?
+P0 	: 안타까워요
+P0 	: 물 소금 설탕
+P1 	: 주식 말고 특별식 먹고싶어요
+P0 	: 특별식 짬뽕어떠세요
+P1 	: 송장
+P1 	: 안그래도 배달시킬까 했는데 폭우가 와서 고민중이에요
+P0 	: 아 저런... 그럼 &name2&님이 사러가요
+P0 	: 비를맞고..
+P0 	: 눈물젖은짬뽕을
+P0 	: 쟁취해요
+P1 	: 선넘네요 배달뽀이보단 제가 소중해요
+P1 	: 답변이 도움됐어요 시킵니다
+P0 	: 역시 전 현명해요
+P1 	: 낙.지.

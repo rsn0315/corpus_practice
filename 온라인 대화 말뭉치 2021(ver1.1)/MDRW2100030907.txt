@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030907
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 탁자에 앉는게
+P0 	: 허리나 다리에는 좋아요
+P1 	: 맞아요 하지만 의자에 앉아도 양반다리 하게 돼요
+P0 	: 양반다리가 다리에 안 좋잖아요
+P1 	: 왜 그런 걸까요
+P0 	: 그거는 많네요 저도 그러네요
+P1 	: 머리로는 알지만 몸이 따라주지 않네요
+P0 	: 의자에 앉은 것인가 방바닥에 앉은 것인가
+P1 	: 다리 꼬고 앉는 습관도 고치려고는 하는데 저도 모르게 하게 되네요
+P0 	: 그런 말이 있지요
+P0 	: 편한 자세가 안 좋은 자세다
+P1 	: 의식적으로 왼쪽으로 하면 오른쪽도 해 주긴 하지만 왼쪽을 한다고 해서 오른쪽으로 끌어오는게 바로 잡아 주진 않고 더 꼬인다고 하더라고요
+P0 	: 백년허리라는 책 아시나요
+P1 	: 엎드린 것도 좋지 않아요
+P0 	: 허리의 1인 잔데 볼 만한 거 같아요
+P1 	: 아니요 처음 들어 봐요 좋은 책인가요
+P0 	: 엎드리면 안 좋죠
+P1 	: 추천 감사합니다 나중에 한번 읽어 보도록 할게요
+P0 	: 네 의사가 쓴 거니까 볼만해요

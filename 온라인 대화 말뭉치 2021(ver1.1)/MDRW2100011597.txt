@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100011597
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 드셨나요?
+P1 	: 네 ㅎㅎ 닭가슴살 도시락 먹었어요
+P0 	: 퍽퍽살 ㅎ 듣기만해도 퍽퍽ㅋ
+P1 	: ㅋㅋ요새는 그래도 먹을만하게 나와요!
+P0 	: 허닭 괜찮던데요
+P0 	: 적립금으로 함박스테이크샀는데
+P1 	: 오 소름....
+P1 	: 허닭입니다
+P1 	: 허닭이 저랑 잘 맞더라고요
+P0 	: 아 글쿤요 ㅎ 함박 치즈퐁듀사는데 괜찮더라구요
+P1 	: 오 그건 다음 주문때 해볼께요
+P1 	: 저녁은 뭐드세요?
+P0 	: 아직 퇴근시간이 남아서 ㅋㅋ
+P0 	: 보통 나가면서 결정해요
+P1 	: 회사에서 드시고 퇴근하시나요
+P0 	: 오늘은 9시 요기요 파바나 주문해서 먹을려구요
+P0 	: 만원어치 0원결제
+P1 	: 오 배송비도 없나요
+P0 	: 포장으로요ㅎ

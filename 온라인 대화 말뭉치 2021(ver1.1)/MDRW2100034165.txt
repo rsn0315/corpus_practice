@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100034165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 먹고왔어요!
+P1 	: 오리고기 넘 맛나네요 ㅎㅎ
+P1 	: 맛있는거 드셨나요?
+P0 	: 남은 닭볶음탕 데워서 먹었어요!
+P0 	: 오리고기 드셨군요! 구워드신 건가요?
+P1 	: 네!! 전 구워먹는게 젤 좋더라고요 ㅎㅎ
+P0 	: 소스는 뭐 찍어드세요?
+P1 	: 보통 소스ㄴ없이먹어요
+P1 	: 머스타드있으면 그거 먹어도 되긴하는데
+P1 	: 허니머스타드밖에 없어서 자제했죠 ㅎ..
+P0 	: 저도 소스 없이 쌈무랑 먹는 걸 더 좋아해요
+P0 	: 쌈무 좋아하세요?
+P1 	: 쌈무 좋아해요?
+P1 	: !!
+P1 	: 상큼하고~ 시원하고
+P0 	: 네 새콤달콤해서 좋아해요!
+P0 	: 다른 고기에도 쌈무랑 자주 먹어요
+P1 	: 무슨 고기 제일 좋아하세요?
+P0 	: 고기는 닭고기를 제일 좋아하는 거 같아요
+P1 	: 정말 닭킬러시군요 ㅋㅋㅋㅋ
+P1 	: 닭.. 버릴곳이없죠
+P1 	: 닭발도 좋아하새요?
+P0 	: 닭발도 먹긴 먹어요
+P0 	: &name2& 님은 닭발 드세요?
+P1 	: 저 너무 좋어햐요 ㅠㅠ
+P1 	: 최고의 안주

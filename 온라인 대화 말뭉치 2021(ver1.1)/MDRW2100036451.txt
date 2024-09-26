@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100036451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일은 많이 하시나요?
+P1 	: 자주는 안하고 몰아서 하는 타입이에요 ㅎ
+P0 	: 저도요ㅋ 너무 싫어욧
+P1 	: 저녁 먹은 설거지가 아직 설거지통에 쌓여 있어요 ㅎ
+P0 	: 앗 동지에요ㅋ
+P1 	: &name1&님도 아직 설거지가 쌓여 있으신가봐요 ㅎ
+P0 	: 내일 할래여ㅋㅋ
+P1 	: 저두 ㅎㅎ 너무 귀찮아요
+P0 	: 설거지 로봇 있었으면ㅠ
+P1 	: ㅋㅋ 식기세척기가 요즘 잘 씻기긴 한다고 하더라고요
+P0 	: 그거있는데 넣다뺐다 귀찮네요ㅋ
+P1 	: 아~식세기 있으시군요! 잘 안쓰시나요?
+P0 	: 쓰긴하는데 그것도 귀찮은ㅠ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046436
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P1 	: 점심식사 하셨나요~?
+P0 	: 네 안녕하세요
+P0 	: 네 좀전에 먹었어요
+P1 	: 어떤 메뉴로 드셨나요? ㅎㅎ
+P0 	: 짜파게티 컵라면과 구운계란 2개 먹었습니다
+P1 	: 오 꿀조합으로 드셨네요 ㅎㅎ
+P1 	: 요즘 날씨가 많이 추워졌는데,
+P1 	: 옷 따뜻하게 입고 다니시나요??
+P0 	: 네, 긴바지와 반팔, 겉옷위주로 입어요
+P1 	: 맞아요 이제 외투는 꼭 입어야 하는 것 같아요
+P1 	: 날씨가 더 추워지면 이제 패딩을 입어야 되겠어요..!
+P0 	: 맞아요 벌써부터 패딩입고다니는 사람들이 보이기 시작했어요
+P1 	: 맞아요 이제 겨울 시작인가봐요..!
+P1 	: 어제는 창문을 열어놨었는데 밤에 엄청 춥더라구요
+P0 	: 낮에는 환기를 시키기위해 창문을 열필요가 있지만, 아침저녁으로는 쌀쌀해서 문을 닫아놔야할 것 같아요
+P1 	: 앗 그렇군요 낮에만 환기하고 이제는 저녁에는 닫아놔야겠어요!

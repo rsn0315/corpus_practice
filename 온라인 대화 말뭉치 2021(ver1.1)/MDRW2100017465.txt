@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100017465
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어떤 반려동물 좋아해?
+P0 	: 나는 강아지
+P1 	: 나는 고양이랑 강아지 좋아해
+P0 	: 고양이랑 강아지는 너무귀엽징....
+P1 	: 어떤 강아지 좋아해?
+P0 	: 요크셔테리어가 제일 귀여운거같앙
+P1 	: 나도 요크셔테리어 좋아해
+P0 	: 레오 보고싶당
+P1 	: 나도.....&name3& 너무 귀엽지
+P0 	: 저번에 만났을때 재밌었는데
+P1 	: 나도 만나고 싶다
+P0 	: 귀여운 강아지 &name3&{emoji:♡}{emoji:♡}{emoji:♡}

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013177
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&은 뜨아파 이신가요 아아 파이신가요??
+P0 	: 전 커피를 안 마셔요.ㅋㅋ
+P1 	: 오 아예 커피를 안드시는거에요??ㅎㅎ
+P0 	: 네. 머리가 아파서요.
+P0 	: 카페인에 취약한거 같아요
+P1 	: 잠도 안오시나요?
+P0 	: 네.
+P0 	: 남편이 밤에 커피 먹는대서 잘 밤에 잠 못 잔다고 먹지말라고 하면 그런게 어딨냐며 비웃어요.ㅋㅋㅋ
+P1 	: ㅎㅎㅎ그게 사람마다 다른거 같아요
+P1 	: 근데 저는 신기한게 시험보는 날 전에 밤새보려고 커피마시면 가슴뛰기만 하고 잠은 또 잘오더라구요
+P0 	: 신기하네요.ㅋㅋㅋ
+P1 	: 그럼 커피 잘 안드시면 평소에 무슨 음료를 주로 드시나요?
+P0 	: 요즘 조릿대차 마셔요
+P1 	: 오 조릿대차는 처음 들어봐요!
+P1 	: 먼가 맛이 구수할거같아요 ㅎㅎ
+P0 	: 구수해요. 깔끔하고
+P1 	: 오 저도 한번 검색해봐야겠어요
+P1 	: 혹시 구매하신게 아닌 직접 만드신건가요?
+P0 	: 네. 직접 씻어서 덖었어요.ㅋㅋㅋ
+P1 	: &name1&은 저녁식사 하셨나요?

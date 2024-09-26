@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019499
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 내일 또 신입연수에요
+P0 	: 우와 선배님이신가보다
+P1 	: 네ㅋㅋ
+P0 	: 정규직이세요?
+P1 	: 다음달이면 정규직이에요
+P0 	: 우와 축하드려요
+P1 	: 출근하기싫네요
+P0 	: 주말이라 더 싫으시겠어요
+P1 	: 네... 또 어떤일잊생길지
+P0 	: 주말이 이상한가요?
+P1 	: 음 좀 바빠요
+P0 	: 내일은 안바쁠 거에요
+P1 	: 그럴까요?
+P0 	: 넹! 해야할일 다 끝내시길 바랄게요
+P1 	: 감사합니다

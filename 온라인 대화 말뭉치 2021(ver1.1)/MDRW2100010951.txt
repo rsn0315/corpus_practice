@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010951
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 버블티 먹고 싶어
+P0 	: 버블티 무슨 맛?
+P1 	: 쿨블루라즈베리
+P1 	: 먹고 싶어
+P0 	: 쿨불루라즈베리면
+P0 	: 라즈베리맛?
+P1 	: 지구젤리맛!
+P1 	: 라즈베리겠지...?
+P0 	: 라즈베리좋아해?
+P1 	: 맛있어서 좋아해
+P0 	: 라즈베리는 딸기랑 비슷한가?
+P1 	: 엄청 비슷한 건 아니지 않아?
+P0 	: 딸기는 좋아해?
+P1 	: 딸기 완전 맛있어
+P0 	: 딸기주스 이런것도 좋아해??
+P1 	: 웅
+P1 	: 딸기 에이드
+P1 	: 딸기 스무디 다 좋아해

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동하세요?
+P1 	: 네 저 피티하구있어요! 헬스장도 끊엇는데 피티할때만 가고 안가게되네요,, 운동하세요?
+P0 	: 저는 gx해요
+P0 	: 매일하는데
+P0 	: 살이 안빠져서 고민이에요
+P1 	: 와 요새gx하나요??거의 안하는거같던데
+P0 	: 역시 다이어트는 운동이 아니라 식단조절인것 같아요
+P0 	: 네 저 사는 곳은 하는데
+P1 	: 오,, 그럼 뭐뭐하나요? 요가 필라테스 많던데, ,
+P0 	: 저는 근력운동이요
+P0 	: 스쿼트 프레스 런지 데드리프트
+P0 	: 이런것들
+P0 	: 피티랑 비슷할것 같은데요
+P1 	: 아아 그냥 일대 다수 피티같은건가요?
+P0 	: 네넵 그런거죠
+P0 	: 운동하고 근량은 늘었는데 체지방이 안낮아져요
+P0 	: 저는 다이어트 목적 운동인데 &name2&님의 운동 목적은 뭔가요?
+P1 	: 저는 근육증량이요 표준이하라 ,, 근데 쉽지않네요 운동도 꾸준히해야되는데 그것도쉽지않더라구요,,
+P0 	: 힘내세요 꾸준히하면 성취하실거에요
+P1 	: 네 열심히해봐야겟어요 ㅜ아 혹시 백신맞으셨어요?
+P0 	: 네 저는 얀센 맞았어요

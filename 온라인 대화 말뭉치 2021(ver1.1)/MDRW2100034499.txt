@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034499
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세ㄹ요
+P1 	: 안녕하세요
+P0 	: 점심은 맛잇게 드셧어요?
+P1 	: 네 간단하게 먹었어요!
+P1 	: 뭐 드셨어요?
+P0 	: 저는 오늘은 인스턴트 쌀국수 먹었어요 ㅎㅎ
+P1 	: 인스턴트 쌀국수에도 혹시 고수가 들어가나요?
+P0 	: 들어가는 제품도있고 안들어가는제품도 잇죠 ㅎㅎ
+P1 	: 안 들어가는 제품을 도전해봐야겠네요 ㅎㅎ
+P1 	: 아직 무서워서 고수를 안 먹어봤는데
+P1 	: 안전하게 먹어야겠어요 ㅎㅎ
+P0 	: 아 무서우시군여 ㅜㅜ 그러면 이국적인 요리는 피하셔야겟네요. 은근 비누향같은게 나더라고요
+P1 	: &name1&님 혹시 오이 잘 드시나요?
+P0 	: 저는 이젠 잘 먹긴해요 ㅎㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 저는 잘 못 먹어요ㅠ
+P1 	: 오이 잘 먹으면 고수도 잘 먹는다고 들어서 여쭤봤어요 ㅎㅎ
+P0 	: 오 그렇균요.. 그것도 아니더라고요 ㅎㅎㅎㅎ
+	  제동생이 그래요 ㅋㅋ
+P1 	: 아 어렵다... 그냥 다음에 작정하고 고수를 한 번 도전해봐야겠어요

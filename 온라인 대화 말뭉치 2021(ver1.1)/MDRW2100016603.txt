@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100016603
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그럼 &name2&은 사고 싶은 거 있나요?
+P1 	: 저는 곧 이사를 해서
+P1 	: 침대를 하나 사고 싶어요
+P0 	: 오 곧 이사하시는 군요 침대는 어느 정도 큰거 좋아하세요???
+P1 	: ㅋㅋ혼자자니까 슈퍼싱글이면 되지않을까합니다
+P0 	: 저도 슈퍼싱글이 딱 적당하다고 생각해요ㅋㅋㅋㅋ
+P0 	: 저는 가을 맞아서 옷을 사고 싶어요!
+P1 	: 오호
+P1 	: 어떤거 사시게요?
+P0 	: 후드티 종류 생각 중이에요 역시 가을은 반바지+후드티 조합이 최고죠
+P1 	: 오호 후드좋죠
+P1 	: 생각해두신 브랜드있나요
+P0 	: 아직 없는데 일단 회색 후드티랑 밝은 색 하나를 살 생각이에요! 회색 후드티가 예쁘더라고요
+P1 	: 맞아요ㅠ 회색 후드티 예쁘죠
+P1 	: 전 집업만 있는데 그냥도 하나 살까봐요
+P1 	: 반바지는 요즘 나일론 반바지 많이 입더라고요
+P0 	: 오 나일론 반바지 괜찮나요?
+P0 	: 저는 뭔가 쉽게 찢어질 거 같아서 최근에 면으로 된 거 하나샀나요...ㅎ
+P1 	: ㅋㅋㅋ 나일론 은근 튼튼해서 괜찮아요
+P1 	: 파타고니아 반바지 좋던데
+P0 	: 파타고니아가 브랜드예요...?ㅎ
+P0 	: 옷 잘 몰라서 철되면 암거나 사서...ㅋㅋㅋㅋ
+P1 	: 아하
+P1 	: 걍 아웃도어 브랜드에요ㅎㅎ

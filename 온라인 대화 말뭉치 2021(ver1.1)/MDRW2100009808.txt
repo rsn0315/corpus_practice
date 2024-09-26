@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009808
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 라면 좋아하시나요?
+P1 	: 네 라면 오늘같이 흐린날 더 땡기네요
+P1 	: 라명좋아하세요?
+P0 	: 저도 좋아해요!
+P0 	: 저는 열라면을 좋아하는데 &name2&님은 어떤 라면 좋아하시나요
+P1 	: 저는 짬뽕라면도 좋아하구 불닭볶음면 좋아해요ㅎㅎ
+P0 	: 불닭볶음면 완전 맛있죠!
+P0 	: 불닭볶음면에 추가해서 먹는게 있나요?
+P1 	: 네 오늘 먹어야겠네요ㅎㅎ 열라면도 좋아해요 맛있게 매운맛ㅋㅋ
+P1 	: 저는 딱 치즈만ㅎㅎ
+P0 	: 치즈는 모짜렐라? 체다?
+P1 	: 저는 모짜렐라가 좋더라구요ㅎㅎ
+P0 	: 역시 불닭은 모짜렐라죠ㅎ
+P0 	: 뭔가 매운맛도 잡아주고 더 맛있어지는 거 같아요
+P1 	: 맞아요 고소하구ㅎㅎ
+P0 	: 국물라면에는 계란을 넣어드시나요?
+P0 	: 저는 계란넣어먹는걸 좋아해요
+P1 	: 아 저는 넣는데 풀지는 않구ㅎㅎ
+P0 	: 탁한걸 안좋아하시는구나

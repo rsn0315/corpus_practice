@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 스포츠경기 좋아하세요?
+P1 	: 이번에 올림픽은 봤어요!
+P1 	: 스포츠에 관심이 많진 않았는데 올림픽 보니까 재밌더라구요
+P0 	: 올림픽 개폐막식도 보셨어요?
+P1 	: 개막식은 못봤고 폐막식은 봤어요
+P0 	: 폐막식 어땠어요?
+P1 	: 음 도쿄 올림픽 진행하는게 우려스럽긴 했는데 그래도 잘 끝난 것 같아서 다행이라고 생각했어요
+P0 	: 올림픽중에 뭐가 제일 재밌었어요?
+P1 	: 음 저는 끝에 막 봐서 배구가 젤 재밌었던것 같아요
+P1 	: 심장이 막 떨리더라고요
+P0 	: 배구 결승 못가서 아쉬웠던거같아요
+P1 	: 그쵸 워낙 강한 상대였는데 동메달을 못따서 아쉬웠어요
+P0 	: 이번 동계올림픽도 보실거에요?
+P1 	: 네 이번에 보니까 재밌어서 보려구요
+P0 	: 이번에 하계올림픽 끝났는데 이번겨울에 또 열리겠네요

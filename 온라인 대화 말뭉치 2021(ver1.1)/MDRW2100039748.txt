@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100039748
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨어요?
+P1 	: 아니요 &name1&님은 결혼하셨어요?
+P0 	: 아뇨ㅎㅎ 미혼이에요
+P0 	: 연애는 하고계세요?
+P1 	: 아니요 다 안하고 있네요 ㅎㅎㅎ &name1&님은 연애하세요?
+P0 	: 아뇨ㅋㅋ
+P0 	: 저 사실 비혼이랄까요... ㅋㅋ
+P0 	: 안한지 너무 오래ㅋㅋ
+P1 	: ㅎㅎ 요즘들어서는 안하고 살아도 될거 같은 기분이에요
+P0 	: ㅋㅋ 맞아요 근데 만나는 사람들은 이시국에도 잘만나더라고요ㅋㅋ
+P1 	: 오히려 이시국이라 결혼 결심하는 사람도 있는거 같아요
+P0 	: 그럴까요?? 한번도 막 결혼하고 싶었던 적이 없어서..ㅜ
+P0 	: ㅋㅋ
+P1 	: 엄청 좋은 사람을 만나게 된다면... 그런일이 있을수도 있지 않을까요? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋ 아 쉽지않죠ㅋㅋ 좋은남자.... ㅋㅋ
+P1 	: 드라마에도 없던데요 ㅋㅋㅋㅋ
+P0 	: 맞아요!!! 드라마 남주도...줘도 싫은 그런 류...들만
+P1 	: ㅋㅋㅋㅋㅋ 맞아요 솔직히 브리저튼도 좀 짜증났어요
+P1 	: 애가 무슨
+P1 	: ㅋㅋㅋ 여주가 아까웠어요
+P0 	: 한드나 미드나 요즘 다 왜그런거죠.ㅜㅜ

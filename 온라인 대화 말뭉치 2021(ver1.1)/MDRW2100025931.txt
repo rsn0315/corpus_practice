@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025931
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P0 	: 여행좋아해요?
+P1 	: 예전에는 여행 가는 것도 귀찮았는데 요즘은 코로나 때문에 놀러 다니질 못해서 여행 가고 싶어졌어요 ㅜㅠ
+P0 	: 저도
+P1 	: 최근에 가신 여행이 있을까요?
+P0 	: 남해요
+P1 	: 오 남해!
+P1 	: 남해에서 뭐 하셨어요???
+P0 	: 바다봤어요
+P1 	: 남해하면 바다죠ㅠㅠ
+P1 	: 해산물도 드시고 오셨나요?
+P0 	: 네 회여
+P1 	: 무슨 회 드셨어요?
+P0 	: 모듬이라 이름이 ㅋㅋ
+P1 	: 아ㅋㅋㅋㅋㅋㅋㅋ 모둠이면 기본적인 회는 다 있었겠네요
+P1 	: 저도 회 좋아하는데 맛있으셨겠어요ㅠㅠ
+P0 	: 네 다양해서

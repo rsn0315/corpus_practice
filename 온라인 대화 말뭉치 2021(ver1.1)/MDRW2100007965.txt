@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100007965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비와요?
+P0 	: 아니요
+P0 	: 비오세요?
+P1 	: 맑아요
+P0 	: 습도는 어때요?
+P1 	: 높아요
+P0 	: 장마라 또 비올 수도 있겠어요
+P0 	: 비 좋아하세요?
+P1 	: 아니요
+P0 	: 눈은 좋아세요?
+P1 	: 둘다 싫아요
+P1 	: 구름 좋아요
+P0 	: 맑은 날이랑 구름 있는 날 중에서는 어떤 걸 더 좋아하세요?
+P1 	: 구름이요 이뻐요
+P0 	: 지금 바람은 좀 부나요?
+P0 	: 이쪽은 시원한 바람이 불어요
+P1 	: 습하지 않아요?
+P0 	: 구름은 많은데 생각보다 습하지 않아요

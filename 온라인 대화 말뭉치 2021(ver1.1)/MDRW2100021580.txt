@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021580
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 고학년들 사용하는 걸로?
+P0 	: ㅇㅇ 어떤 브랜드 많이 쓰지?
+P1 	: 뭐 가방은 브랜드 상관 없지 않나? 그냥 가볍고 단정한 걸로 사면 되지
+P0 	: 에이.. 그래도 기왕이면 몇년씩 쓰니까 브랜드가 낫지
+P1 	: 노스페이스나 언더아머 꺼 가벼워 보이더만
+P0 	: 그래.. 그 브랜드는 중고등학생들도 많이 메는 것 같더라
+P1 	: ㅇㅇ 가볍고 디자인도 깔끔하니까
+P0 	: 닥스나 빈폴은 좀 무거운 것 같아
+P1 	: 안그래도 책도 무거운데 가벼운 걸로 사줘
+P0 	: 500g 이하면 좋겠는데
+P1 	: 상품 상세설명에 무게 나오겠지
+P0 	: ㅇㅇ 검색 좀 해봐야겠네 ㅎㅎ
+P1 	: 디자인 같은 거 보면 mlb도 예쁘던데
+P0 	: mlb가 스포티하긴 하지

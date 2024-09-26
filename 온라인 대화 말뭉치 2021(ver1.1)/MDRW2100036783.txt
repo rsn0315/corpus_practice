@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100036783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하시요
+P1 	: 점심 드셨아요?
+P0 	: 아뇨. 이제 먹어야죠. 먹을지 안먹을지는 모르겟네요
+P1 	: 저는 먹었을까요?
+P0 	: 모르겟네요. 먹었을것같아요.
+P1 	: 네 안먹었어용ㅠ
+P0 	: 이유가 뭔가요?
+P1 	: 배고파요
+P0 	: 이런... ㅠ얼른 식사하셔야죠
+P1 	: 아직 시간이 안 되엇죠
+P0 	: 아침은 왜 안드셧야요?
+P1 	: 늦잠이용
+P0 	: &name2&님은 일주일에 아침을 몇번 챙겨드세요?
+P1 	: 0번이내요

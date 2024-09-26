@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100023859
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠 좋아하시나요
+P0 	: 네.. 하는 것은 싫고..ㅎ
+	  보는 것은 좋아합니다.ㅎ
+P1 	: 저도 비슷해요~^^ 프로 스포츠경기 관람하신거 있나요?
+P0 	: 네. 야구, 축구 봤었어요.
+	  응원하는 야구팀 있으세요?
+P1 	: 아뇨 특별하게 없어요!
+	  &name1&님은요?^^
+P0 	: 저는 기아요. ㅎ
+	  고향팀이에요.^^
+	  올림픽은 보셨어요?
+P1 	: 앗..기아요~^^ 저도 가까워서 기아 경기만 몇 번 직관했어요 반갑네요{emoji:♡}>
+P0 	: 저는 올림픽 야구 넘 아쉽더라구요.
+	  선수들 병역 문제도 걸려있는데요.
+P1 	: 이번엔 투수 자리가 아쉬웠다고 하는데 맞나요?
+P0 	: 네.. 투수 진이 약하니 대량 실점하고...
+	  선수들이 더 열심히 해줬음 하는 바람도 있었어요.
+P1 	: 네 기사보니 여자배구가 비교해서 선수들에 대한 아쉬움도 있더라구요.. 귀국길에도 그렇고..국민들이 좀 실망스러운 ..?
+P0 	: 선수들이 가장 속상할텐데 여론이 많이 안좋아 선수들이 더 속상했겠더라구요. 
+	  지금 가을 시즌하고 있는데
+	  계속 비가 오니 취소된 경기가 많네요.ㅎ
+P1 	: 그렇군요 &name1&은 야구를 꾸준히 보시네요~^^

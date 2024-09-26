@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100000718
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 건강 챙기려고 하고계신 거 있나요?
+P1 	: 요즘 해가 좀 지면 자전거 타려고 해요
+P1 	: 조깅도 하고 싶은데 아직은 너무 덥더라구요
+P0 	: 오 전 자전거 잘 못 타요
+P0 	: 직선은 잘 가는데 방향을 꺾는게 너무 힘들어요ㅠㅠㅋㅋㅋ
+P1 	: 네ㅎ 연습을 자꾸 해야해요~
+P1 	: 코로나때문에 헬스도 못하구 야외운동 찾게되요
+P0 	: 맞아요ㅠㅠ 단지안에 헬스장이 있는데
+P0 	: 2.5단계부터 닫아서.. 안 연지 진짜 오래됐어요
+P1 	: 아고 네 맞아요~
+P0 	: 헬스장 가고 싶은데 도대체 언제 갈런지ㅎㅎ
+P1 	: 네 코로나가 무섭긴 무섭네요~
+P1 	: 밖에 걷거나 조깅이라도 해야죠ㅠ
+P0 	: 그러려고요ㅋㅋㅋ걷는거 좋아하세요?
+P1 	: 네~ 걷기모임을 햇엇는데 둘레길 코스를
+	  팀으로 다녓는데 정말 서서히 몸이 회복되더라구요~
+P0 	: 우와 좋았을 거 같아요
+P0 	: 몇시간 정도 걷는거예요?
+P1 	: 걷기모임 보통 하루 날잡아서 5시간은 걸은거
+	  같아요 쉬기도하고 식사도 해요~
+P0 	: 우와 5시간이면 진짜 기네요
+P0 	: 좋을 거 같아요ㅎㅎ식사도 하고
+P1 	: 네 정신과 육체가 다 건강해지는거 같아요~

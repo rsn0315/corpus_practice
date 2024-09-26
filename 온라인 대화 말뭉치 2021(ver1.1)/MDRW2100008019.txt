@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 드셨나요?
+P0 	: 네 점심 먹었어요
+P0 	: 오랜만에 밑반찬 꺼내서 밥이랑 먹었어요
+P0 	: &name2&님도 점심 드셨나요?
+P1 	: 네 저도 먹었어요 저는 오랜만에 엽떡을 시켜먹었어요 ㅎㅎ
+P0 	: 오 엽떡 드셨구나
+P0 	: 어떤 메뉴를 드셨어요?ㅎㅎ
+P1 	: 엽기반반이요 2단계로 ㅋㅋ
+P0 	: 2단계면 조금 매운 단계죠?
+P0 	: 전 요즘 매운 음식을 잘 안 먹었더니 1단계도 맵게 느껴지더라고요
+P1 	: 맞아요 저는 1단계는 넘 안맵고 2단계는 콧물쫌 흘리며너 먹는 ㅋ
+P0 	: 엽떡 드셨단 얘기를 들으니 저도 떡볶이가 먹고 싶네요
+P1 	: 저녁으로?ㅋ
+P0 	: 저녁에 엽떡 배달시켜야 하나
+P0 	: 고민이 되네요ㅎㅎ
+P0 	: &name2&님은 저녁 메뉴 정하셨어요?
+P1 	: 점심 시켜먹었으니 저녁은 집밥 먹으려구요~
+P0 	: 아하 &name2&님과 저는 점심-저녁 스타일이 딱 반대되겠네요ㅎㅎ
+P1 	: ㅋㅋ 그렇네요~~~저녁도 시켜먹고 싶지만ㅠㅠ

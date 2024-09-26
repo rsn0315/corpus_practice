@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100026970
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그거 말고 다른건없어??
+P0 	: 이불이랑 옷 몇개도 밑에 집에 있어
+P1 	: 컴퓨터도 내려보낸다며
+P0 	: 그거 아직 인터넷연결을 못했어
+P1 	: 밑에 집에서도 와이파이는 되잖아
+P0 	: 컴퓨터에 연결하려면 회선을 하나 더 설치해야된대
+P1 	: 내려가는게 오래걸리겠구만
+P0 	: 인터넷만되면 내려간대
+P1 	: 내가 연결해주고싶네
+P0 	: 내려가면 방정리해야지
+P1 	: 방청소 잘 안해서 먼지 많을듯
+P0 	: 공기청정기 켜놓고 청소해야돼
+P1 	: 내가 도와줄게
+P1 	: 아빠는 요즘 계속 살이빠지던데

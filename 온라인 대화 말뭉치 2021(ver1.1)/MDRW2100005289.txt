@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100005289
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음
+P1 	: 서울에 인왕산 추천해
+P0 	: 등산이야?
+P1 	: 등산이라기보다는 야경이 정말 멋져
+P0 	: 지금 사진 찾아보는 중인데 멋있다
+P1 	: 한양 성곽 따라서 올라가서 내려다 보는 서울 야경이 진짜 멋지더라
+P0 	: 나도 꼭 가보고 싶다
+P1 	: 드라이브로 북악 스카이웨이도 추천해
+P0 	: 어 거기 가봤어
+P1 	: 가봤구나
+P1 	: 거기도 야경이 멋지잖아
+P0 	: 맞아맞아
+P1 	: 근데 차 없이는 가기 불편하겠더라
+P0 	: 대중교통으로는 가기 어렵나
+P1 	: 갈 수는 있는데 좀 복잡하지

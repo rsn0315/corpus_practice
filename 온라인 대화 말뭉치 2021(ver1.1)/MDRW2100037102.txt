@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100037102
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 사고픈게 많은 요즘이에요
+P1 	: 오 어떤 거 사고 싶으신가요?
+P0 	: 요즘은 요리재료요!
+P1 	: 예를 들어 어떤 게 있을까요?
+P0 	: 스파게티면이나 소스들이요!!
+P0 	: 소스에 빠져버렸어요
+P0 	: 냉동새우나 오징어도요!
+P1 	: 스파게티 좋아하시나봐요!
+P0 	: 넹!
+P0 	: 사먹다가 집에서 만들어먹고싶어져서요!!
+P1 	: 어떤 스파게티 제일 좋아하시나요?
+P0 	: 치즈오븐스파게티요.!
+P0 	: &name2&님은 사고싶은거 있으세요?
+P1 	: 보조배터리요!
+P1 	: 없이 다녔는데 외출할 때 있으면 좋을 거 같아서 하나 살까 고민중이에요
+P0 	: 아 확실히 필요하긴하죠!
+P0 	: 용량큰건 무거워서 좀 그렇지만 있음 진짜 좋긴하죠
+P1 	: 확실히 너무 무거운 건 불편할 거 같아요
+P1 	: 안 쓴지 오래 됐는데 학교 다니면서 가끔 필요할 때가 있더라고요
+P0 	: 맞아오 맞아요
+P0 	: 충전기는 망가지기도 쉽고 전기 찾는것두 일이구요

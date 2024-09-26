@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100013411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 최근에 읽은책이 있나요?
+P0 	: 아니요 최근에는 책을 읽지 않았어요
+P0 	: 가장 기억에남는 책 있어요?
+P1 	: 최근에 읽은 헝거게임이라는 책이 기억에남네요
+P1 	: 영화로도 만들어졌어요
+P1 	: 만화책은 좋아하세요?
+P0 	: 만화책도 요즘엔 읽지 않았네요.
+P0 	: 베스트셀러에 있는 책들 제목만 본적있어요
+P0 	: 책 자주 읽으시나요?
+P1 	: 가끔씩 읽어요
+P1 	: 요즘은 히가시노 게이고의 책을 읽고 있어요
+P1 	: 잔잔하지만 역시 지루하네요
+P0 	: 주로 어떤시간에 책을 읽으세요?
+P1 	: 저는 업무도중 남는시간에 읽어요
+P0 	: 오 업무시간에 책도 읽으시고 부지런하시네요.
+P0 	: 저는 오디오북을 가끔 듣기도해요 ㅋㅋㅋ
+P1 	: 오디오북은 한번도 들어본적없어요
+P1 	: 어디에서 들을수있어요?
+P0 	: 저는 밀리의서재에서 듣고있어요
+P0 	: 이동할때 들으면 좋더라구요
+P0 	: 오프라인 서점이 별로 없기도 하고..ㅠ
+P1 	: 아하 밀리의 서재 들어보기만했는데 나중에 한번 봐야겠네요
+P1 	: 유료 결제죠?
+P0 	: 네 맞아요. 저는 무료 이용권이 있어서 체험중이에요
+P0 	: 종이책을 읽는거랑은 또 다른 느낌이에요

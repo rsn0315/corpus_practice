@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 님 밥 빵 면 중에서는 뭐를 제일 좋아하시나요?
+P0 	: 완전 빵순이 군것질파예요.. 살이 쪄서 줄이고 있어요..
+P0 	: &name2&님은 어떤 파신가요
+P1 	: 엇 저도 빵을 제일 좋아해요ㅋㅋㅋㅋ 식빵 바게트 같은 식사빵도 좋고 마들렌 마카롱 같은 간식류도 좋아요
+P0 	: 말씀하신 빵 다 좋아해요 .. 빵은 왜이렇게 맛있는 걸까요..?
+P1 	: ㅋㅋㅋ 그러게요 전 파리바게트한테 매일 통장을 바치는 신세예요...
+P0 	: 파리바게트 왕슈도넛 진짜 왕 맛있어요...
+P1 	: 왕슈도넛이요...? 도넛+슈+큼=최고...!!!
+P1 	: 저는 파리바게트에서 카스테라 고구마가 최애예요
+P0 	: 오 그건 안먹어봤어요 약간 고구마케이크 맛인가요?
+P0 	: 맛있겠어요
+P1 	: 고구마 무스+ 생크림이 들어있는 빵이에요 고구마케익이랑 비슷하겠네요!
+P0 	: 맛이 없을 수가 없겠네요... 다음에 발견하면 꼭 먹어봐야겠어요 ㅜㅜ
+P1 	: 케이크는 좋아하시나요?
+P0 	: 아 너무 좋아하죠 ㅠㅠ 고요님은 케이크 좋아하시나요
+P1 	: 네 전 케이크도 너무 좋아해요ㅋㅋㅋ 특히 투썸 케이크요
+P0 	: 투썸 케이크 맛집이죠 ..

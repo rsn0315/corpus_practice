@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100012089
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 드셧어요?
+P1 	: 네 챙겨먹었어요!
+P1 	: 저녁 드셨나요?
+P0 	: 네 라면끓여먹었어요
+P1 	: 어떤 라면 드셨나요?
+P0 	: 저는 풀무원 신상에다가 콩나물 추가해서 먹었어요
+P0 	: 혹시 드셔보셨어요?
+P0 	: 강추해요
+P1 	: 콩나물 넣으면 진짜 맛있을 거 같아요
+P1 	: 꼭 먹어볼게요
+P1 	: 라면 자주 드시나요?
+P0 	: 자주는 아닌데 한번씩 생각나더라구요 파르페님은요?
+P1 	: 바쁠 때는 끼니 때우느라 자주 먹었는데 방학이라 요즘엔 거의 안 먹은 거 같아요
+P1 	: 저는 순두부찌개 먹었는데
+P1 	: 순두부 좋아하시나요?
+P0 	: 네 좋아해요 몽글몽글 순두부
+P0 	: 진짜 맛있죠 갑자기 먹고 싶네요
+P1 	: 순두부 드실 때 맑은 국물로 드시나요 아니면 양념해서 드시는 편인가요?
+P0 	: 저는 다 좋아해요 각자의 매력이 있어서
+P0 	: 맑은 국물 더 좋아하긴하는데
+P0 	: 잘 하는 집이 별로 없어서ㅜㅡ
+P1 	: 맞아요 둘 다 맛있죠
+P1 	: 라면에 콩나물 말고 넣어드시는 거 있나요? 저는 계란이나 떡 자주 넣어 먹는 거 같아요
+P0 	: 저도요 만두 파 마늘 넣을때도 있어요

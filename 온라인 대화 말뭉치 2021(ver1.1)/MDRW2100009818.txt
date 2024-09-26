@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 정해놓은 저녁 메뉴가 있나요?
+P0 	: 저 곰탕먹으려구요ㅎㅎ 메뉴 정하셨어요?
+P1 	: 곰탕 맛있겠다 저는 아직 정하지 못했어요
+P0 	: 내일 백신맞으러가서 좀 든든하게 먹으려구요ㅋㅋ
+P1 	: 내일 백수를 맞으세요 오늘 든든히 챙겨 드세요
+P1 	: 백신..ㅠ
+P1 	: 아 죄송해요 지금 폰이 이상해서 자꾸 오타가나네요 양해부탁드려요
+P0 	: 네ㅎㅎ 내일 아침에는 간단하게 먹고 가려구요ㅋㅋ
+P1 	: 아침에는 뭘 드실 예정이세요?
+P0 	: 아침을 원래 안먹어서 떡을 좀 먹을까..생각중이에요
+P1 	: 떡 너무 좋아요 어떤 떡을 드실 예정이신가요
+P0 	: 가래떡이 있어서 구워서 꿀에 찍으려구요ㅋㅋ
+P1 	: 대박
+P1 	: 너무 맛있겠다
+P0 	: 백신핑계로ㅎㅎ식단만 만들고 있어요ㅋㅋ 낼 점심엔 삼겹살먹구ㅋㅋ
+P1 	: 와 완벽하네요
+P1 	: 진짜 완벽 그자체
+P1 	: 백신맞고 삼겹살 먹는게 좋다고들 하더라구요
+P0 	: 네ㅎㅎ 그래서 핑계삼아 먹으려구요ㅋㅋ

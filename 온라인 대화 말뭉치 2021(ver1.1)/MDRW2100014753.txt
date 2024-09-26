@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014753
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그럼요 수술도 한번했었어요
+P0 	: 어떤 수술인가요
+P1 	: 장기내에 혹이 있어서 혹을 잘라냈어요
+P0 	: 큰 수술인가요?
+P1 	: 위험하지는 않구요 전신마취는 하는 수술이였어요
+P1 	: &name1&님은 아파본적 있으세요?
+P0 	: 독감걸려서 죽는줄알았어요
+P1 	: 독감힘들죠...
+P1 	: 고생하셨네요
+P1 	: 며칠 앓으셨겠다
+P0 	: 의외로 타미플루 먹고 30분만에 안정되었어요
+P1 	: 다행이였네요
+P0 	: 다이어트해보셨나요?
+P1 	: 네 학생때 해봤어요
+P0 	: 어떻게 하셨나요?
+P1 	: 식이 간단하게하고 매일 운동했어요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100027223
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 네 좋아해요 님은 좋아하세요?
+P0 	: 저도요
+P1 	: 지금까지 어디 가보셨어요?
+P0 	: 호주요
+P1 	: 오 호주 여행 재미있으셨나요??
+P0 	: 청정지역이에요
+P1 	: 호주 어디어디 가보셨어요?
+P0 	: 오페라하우스봤어요
+P1 	: 우와 거기 엄청나게 크다고 하더라고요
+P0 	: 네 대단해요
+P1 	: 예술의전당 같은 사이즈인줄 알았는데 전혀아닌
+P1 	: 생각해보면 예당같은 사이즈이면 사진으로 그만한 사이즈가 나올리가 없는데 말이죠ㅋㅋ
+P0 	: 공연이 없어서 아쉬움요

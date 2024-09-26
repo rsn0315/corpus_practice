@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 백신 맞으셨어요?
+P0 	: 아직이요
+P0 	: &name2&은 맞으셨나요?
+P1 	: 저는 어제 화이자1차 맞았어요
+P0 	: 오 어떠셨나요?
+P1 	: 아플까봐 겁먹고 소아과로 예약했는데
+P1 	: 생각보다 안아프더라구요ㅋㅋ
+P0 	: 그렇군요
+P0 	: 모더나가 이번에 많이 와서 백신 공급이 원할해지면 좋겠네요
+P1 	: 그러게요 모더나도 예약 받아서 맞겠죠?
+P0 	: 그럴 것 같아요
+P1 	: 백신 예약은 하셨어요?
+P0 	: 네 저는 모더나 맞기를 원해요
+P1 	: 언제 맞으시나요?
+P0 	: 9월 말이요
+P1 	: 명절 지나고 맞으시는구나

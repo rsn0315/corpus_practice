@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021655
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회 하시는거 있나요?
+P1 	: 없어요. &name1&님은요?
+P0 	: 저도 지금은 없어요.. 
+	  학생때도 뭐 안해보셧어요?
+P1 	: 학생때는 운동 동호회 했었어요. 예전에는 하셨나보군요?
+P0 	: 어떤 운동이요?
+P1 	: 수영이요~
+P0 	: 오.. 멋지십니다...
+P1 	: &name1&님은요?
+P0 	: 수영 동호회도 끝나고 소주같은거 마시나여? ㅋㅋㅋ
+P0 	: 전 일본어 동호회 잠깐햇어요
+P1 	: 그럼요~ 매일 막걸리 마셨습니다 ㅎ 일본어 동호회라니~ 일본어 잘하시나봐요
+P0 	: ㅎㅎ 일본어는 밥벌이엿죠.. ㅋㅋ
+P0 	: 수영은 배나옴 창피한데..ㅋㅋ 술 마시다니..
+P1 	: 오~ 일어 전공이신건가요? 수영 하고 나서 마시고 일주일뒤에 보는거라 괜찮아요 일어 동호회도 끝나고 술 마시나요?
+P0 	: 저때는 다들 바뻐서.. 거의 스터디 그룹 분위기였어요..
+P1 	: 일본어 자체가 그럴것 같아요 .

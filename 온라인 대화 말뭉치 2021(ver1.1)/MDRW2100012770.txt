@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012770
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^ 최근에 보신 영화 있으신가요
+P0 	: 우리들이라는 영화봤어요
+P0 	: &name2&님은요?
+P1 	: 저는 랑종을 봤어요
+P1 	: 우리들은 장르가 뭔가요
+P0 	: 드라마입니다
+P0 	: 랑종 어떠셨어요
+P1 	: 좀..무섭다기보다 찜찜했어요ㅜ
+P0 	: 평이 안좋더라고요..
+P1 	: 제가 공포물을 잘 못보기도 하고요
+P1 	: 그래도 볼때는 참 몰입했어요
+P0 	: 저도 공포영화 잘못봐요
+P0 	: 심장에 무리갈까봐..
+P1 	: ㅎㅎ 무서운 놀이기구 싫어하듯 공포물도 싫어하는데
+P1 	: 휩쓸려서 봤네요
+P0 	: 좋아하는 연예인 있으세요?
+P1 	: 박보검 옹성우 좋아해요ㅎ
+P1 	: &name1&님은 누구 좋아하세요?
+P0 	: 잘생긴사람 좋아하시네요ㅎㅎ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027705
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님
+P1 	: 안녕하세요 &name1&님
+P0 	: 어떤주제로 얘기해볼까요 ㅎㅎ 무궁무진
+P1 	: 일과 직업이라네영
+P1 	: &name1&님이 설정하신 건가요?
+P0 	: 퇴근하고 싶다
+P0 	: 오늘 1번 주임님 없는데 끊임없이 민원이 와... 오빠는 어때요
+P1 	: 난 평상시 같아요. &name1& 힘들겠다 ㅠㅠㅠ
+P1 	: 1번 대직자가 &name1&야??
+P0 	: 아니 2번쥠님 있는데 혼자 감당 안돼서 돌아가면서 도와주는중 ㅠㅠ
+P1 	: 흐어 오늘 진짜 고생이다..
+P0 	: 민원들.. 잠깐 괜찮다가 몰아치다가 ㅠㅜ 그래도 배는 이제 안아파요!
+P1 	: 다행다행! 그냥 잠깐 배아팠던건가..
+P1 	: 상했던건 아닌가보다
+P1 	: 오늘 스트레스 많이 받았을텐데 퇴근하고 맛난거 먹자구요
+P0 	: 웅웅!! 벌써 목요일이라니(일이 쌓임)와 아직도 목요일이라니(쉬고 싶음)가 교차하는 기분
+P0 	: 왜 4시지?(위와같음)
+P1 	: ㅋㅋㅋㅋㅋㅋ 어느덧 다섯시!
+P0 	: 어뜨캐 아침에 그 5만원진상 6시직전에 온댓는데
+P0 	: 너뮤  너무 무섭다

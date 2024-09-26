@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100023523
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 네 좋아합니다 선선해지면 경주가고싶어요
+P0 	: 어디 여행 가보셨나요?
+P0 	: 경주 좋아요 예전에 갔는데 고즈넉하니 좋았어요
+P1 	: 저는 월정교랑 동궁과월지? 어디가보셨어요
+P0 	: 20대 초반에 친구들이랑 갔는데 기억은 안나요 ㅋㅋㅋㅋㅋ
+P1 	: 야간투어 해주는 게스트하우스가 있더라구요
+P0 	: 오 재밌겠다 야간투어때 뭐 했어요?
+P1 	: 안압지 둘러보고 월정교 사진 촬영 같은거했어요
+P1 	: 야간밤산책이랑
+P0 	: 안압지는 가본것 같아요 연못? 엄청 큰거요
+P0 	: 되게 재밌게 가셨네요!
+P1 	: 맞아요 큰 연못 맞아요
+P0 	: 거기 밤에 보면 이쁘던데 전 일정상 낮에 본것 같아요
+P1 	: 오 낮도 이쁘죠
+P1 	: 경주는 낮과밤 다 좋아요
+P1 	: 가고픈 곳 있으세요
+P0 	: 전 강릉이나 속초 가고 싶어요
+P0 	: 강원쪽은 안가봐서요
+P1 	: 저듀요 넘 멀어서 못가봤어요

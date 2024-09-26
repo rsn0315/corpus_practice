@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022613
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행하고 싶은 여행지가 있나요
+P1 	: 저는 이제 동남아 쪽으로 휴양지 가고싶네요
+P0 	: 전 해외를 가본적이 없어서 어디로 가야할지 모르겠네요
+P1 	: 아 제일 처음에는 가까운 곳 패키지로 가보시는게 어때요?
+P0 	: 처음엔 가까운곳이 낫겠네요
+P1 	: 아무래도 일 터졌을때 대처하기가 쉬울거 같아요 여러 변수가 많아서
+P0 	: 가까운곳 추천할 나라는 없나요
+P1 	: 저도 가까운 곳은 일본만 가봐서요 먼곳만 가봤네요 그동안
+P0 	: 일본도 좋을것 같네요
+P0 	: 일본에서 좋은 추억 많이 쌓으셨나요
+P1 	: 네 여러곳에서 많은경험을 했어요 어디 가보고 싶으신곳 잏나요?
+P0 	: 전 태국 한번 가보고 싶어요
+P0 	: 태국 가보셨나요
+P1 	: 아니요 동남아쪽은 나이들어서 가려고 아껴두고 있어요
+P0 	: 가면 엄청 좋겠죠
+P1 	: 좋을거같아요 깨끗한 바다보고싶네요

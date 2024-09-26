@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100007717
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 네 고양이 키워요
+P1 	: &name1&님은 동물좋아하시나요?
+P0 	: 네 좋아해요!
+P0 	: 집사시군요
+P0 	: 고양이 이름은 뭔가요?
+P1 	: 고양이 이름은 감자에요
+P0 	: 귀엽네요!
+P0 	: 주로 간식은 뭘 먹나요?
+P1 	: 아무래도 추르 가장 좋아하더라구요
+P1 	: 고양이들의 소울푸드랄까
+P0 	: 저는 진짜 키우고 싶은데 털 알러지 때문에 못키워요ㅠㅠ
+P0 	: 사진으로만 보고 있습니다
+P1 	: 아이고.. 알러지 너무 힘들죠ㅠㅠ
+P1 	: 랜선집사하시는구나
+P0 	: 어머 맞아요 랜선집사ㅋㅋ
+P0 	: 장난감도 많이 있으신가요?
+P1 	: 아무래도 낚시놀이 좋아하니까 비슷한 종류로 많이 있어요
+P1 	: 동물 좋아하는데 털 알러지 있으시면 많이 힘드시겠어요
+P0 	: 네ㅠㅠ사진으로 앓는답니다ㅎㅎ
+P0 	: 간식이랑 사료비로 많이 나가나요?
+P1 	: 달에 크게 나가는건 없어요 한번 사면 한달~한달 반 정도? 버티니까 네..
+P1 	: 대신 병원비같은게 좀 비싸더라구요
+P0 	: 맞아요 예방접종비? 이런것도 비싸더라구요
+P0 	: 어디 아프면 또 더 나가고

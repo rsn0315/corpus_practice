@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015278
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 스포츠 좋아하세요?
+P0 	: 네 올림픽이나 월드컵 보는거 좋아해요
+P1 	: 혹시 한국에서 할 때 보러가신 적 있으신가요?
+P0 	: 딴건없고 야구 한번 본적 있어요
+P0 	: 근데 제가 야구 볼줄 몰라서 재미 없더라구요
+P1 	: 리그 경기요?
+P1 	: 아님 혹시 아시안게임 때?
+P0 	: 그때가 2017년인가?여서 아시안게임때는 아닌거같아요
+P0 	: 실제로 본적 있으세요?
+P1 	: 저는 야구 좋아해요
+P1 	: 직관은 자주는 아니고 일년에 두세번쯤 갔었어요. 못 간지 좀 됐지만요
+P0 	: 아 올림픽은 실제로 본적 있으세요?
+P1 	: 올림픽은 못 가봤고 인천아시안게임 야구 경기 보러 간 적 있어요
+P1 	: 어릴 때 월드컵 경기도 가봤어요. 우리나라 경기는 아니었지만
+P0 	: 월드컵은 언제 월드컵 말씀하시는거에요?
+P1 	: 2002년이요ㅋㅋ
+P0 	: 아 2002월드컵이구나

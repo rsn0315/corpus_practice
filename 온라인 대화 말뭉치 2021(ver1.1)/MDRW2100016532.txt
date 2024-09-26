@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100016532
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 카페 자주 다니세요?
+P0 	: 네 카페 자주가요! 커피 좋아해서요!
+P0 	: &name2&은요?
+P1 	: 저도 자주 가는 편이에요
+P1 	: 프랜차이즈로 가세요?
+P0 	: 네네 프차도 가고 개인카페 핫플도 찾아가구 그래요 ㅋㅋㅋㅋ
+P0 	: 어디 주로 이용하세요?
+P1 	: 제가 바닷가에 살거든요
+P1 	: 주변에 예쁜카페가 많아요
+P1 	: 그런데 제일 많이 가는 곳은 스타벅스에요
+P0 	: 바닷가!!! 뷰예쁜 카페 많겟어요 ㅠㅠ
+P1 	: 네 그렇긴 한대
+P1 	: 요즘은 다 비슷비슷핫 컨셉의 카페들이고
+P1 	: 가격은 엄청 높아지고
+P1 	: 맛은 가격 못따라가는것 같고
+P1 	: 그래서 결국 스타벅스 이용하게 되더라고요
+P1 	: 카페가면 가자 잘 드시는 음로는?
+P0 	: 아아 맞아요 맛보다 자리값느낌으루 비싸더라구요
+P0 	: 오히려 스벅이 합리적인느낌!
+P0 	: 저는 아아 좋아해요! 가끔 라떼
+P1 	: 저도 아아
+P1 	: 칼로리가 낮아서
+P1 	: ㅎㅎㅎ
+P1 	: 스벅 라떼는 제입에는 안맞아서
+P0 	: 맞아요 스벅라떼 좀 연해서 좀 그래여 ㅋㅋㅋ
+P0 	: 디저트는 드세요?
+P1 	: 디저트는 잘 안먹어요
+P1 	: 그리고 요즘은 집에서 네스프레소 머신 사용해서
+P1 	: 카페를 잘 안가슨것 같아요
+P0 	: 오 머신사용하시는군요
+P0 	: 저는 모카포트 이용해요!
+P1 	: 그게 뭐에요?

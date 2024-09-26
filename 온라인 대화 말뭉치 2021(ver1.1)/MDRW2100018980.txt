@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 불금인데
+	  저녁메뉴는 뭔가요?
+P1 	: 햄버거?
+P1 	: 버거킹 햄버거가 먹고 싶어요
+P1 	: &name1&님은요?
+P0 	: 버거킹 맛있쥬{emoji:♡}
+P0 	: 저는 치킨 먹으려구요:)
+P1 	: 앗 어디꺼 시키실건가요
+P0 	: 어디 치킨 좋아하세요?
+P1 	: 저는 후라이드참 잘하는 집이요ㅋㅋㅋ
+P1 	: 저는 확고한 후라이드파랍니다
+P0 	: 오ㅋㅋㅋ 부위는요?
+P1 	: 전 퍽퍽살파! 닭다리나 날개는 먹지 않아요ㅎㅎㅎ
+P0 	: ㅋㅋㅋ같이 치킨 먹고 싶네여ㅋㅋㅋㅋ
+P0 	: 저는 닭다리 사랑하거든요{emoji:♡}
+P1 	: ㅋㅋㅋㅋㅋㅋ맞아요 닭다리파 친구들과 먹을 때 딱 좋아요
+P1 	: 평화로운 식사시간ㅋㅋㅋ
+P0 	: 친구분들께
+	  인기 많으시겠어요 ㅋㅋㅋ
+P1 	: 맞아요 서로 윈윈ㅋㅋㅋㅋ
+P1 	: &name1&님은 양념파이신가요 후라이드파이신가요?
+P0 	: 저 후라이드파에요 ㅋㅋㅋ
+P0 	: 바밤바는 먹어봤습니다만ㅋㅋ

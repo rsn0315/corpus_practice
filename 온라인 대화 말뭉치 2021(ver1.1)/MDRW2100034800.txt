@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 동물 좋아하시나요?
+P1 	: 네 좋아해요~~ 좋아하시나요?
+P0 	: 저도 좋아해요! 혹시 키우고 계신가요?
+P1 	: 네 고양이 한마리 있어용
+P0 	: 아이 이름을 여쭤봐도 될까요?
+P1 	: 턱시도 남아구요 &name3&에요
+P0 	: &name3&라니 귀여운 이름이네요ㅎㅎ
+P1 	: 제가 방씨라서 &name3&에요ㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋㅋ 아이가 &name3&아 부르면 알아듣나요???
+P1 	: 흐음 듣는거는같은데 오진않아요^^
+P1 	: 불러도안와요
+P0 	: 도도한 &name3&네여ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ본인이 오고싶을때만 오는거같아요
+P1 	: 애교 많은고양이가 신기해요
+P1 	: 혹시 유튜브 방송하는 고양이중에 마일로 아시나요?
+P0 	: 알아요!! 진짜...집사분 너무 부러뷰ㅠㅠㅠ
+P1 	: 완전 신기해요 애교 많은 고양이라니ㅠㅠ 저도 부럽더라구요
+P0 	: 집사분이 잘해줘서 그랬겠지만 그래두 부러워요ㅠㅠ

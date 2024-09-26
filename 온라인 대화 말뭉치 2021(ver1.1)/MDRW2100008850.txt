@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008850
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 뭐먹었나요
+P1 	: 초밥먹었어요ㅎㅎ 뭐드셨나요?
+P0 	: 대박
+P0 	: 부타동 먹었습니다
+P1 	: 우와 맛있겠어요ㅎㅎ낼 점심메뉴로 해야겠네요
+P0 	: 무슨 초밥 좋아하시나요
+P1 	: 저는 새우초밥좋아해요 초밥좋아하세요?
+P0 	: 간장새우는 좋아해요
+P1 	: 저도 간장새우 좋아하는데ㅎㅎ 게장도 좋아하구
+P0 	: 맞아요~
+P0 	: 전 연어초밥 제일 좋아해요
+P1 	: 저도 연어 좋아해요ㅋㅋ고소한맛
+P0 	: 구운연어초밥 왕맛있어요
+P1 	: 아 진짜 좋아해요ㅠㅠㅠ맛있겠다
+P0 	: 신촌에 엄청 맛있는 곳이 있답니다
+P1 	: 신촌에 맛집많죠

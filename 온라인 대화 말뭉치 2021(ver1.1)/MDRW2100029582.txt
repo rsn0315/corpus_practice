@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100029582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 아니요 여긴 해가 쨍쨍합니다
+P0 	: 습해요?
+P1 	: 이젠 안 습해요
+P0 	: 선선하져
+P1 	: 가을이네요
+P0 	: 그쵸
+P1 	: 단풍 구경 갈만한데 없을까요?
+P0 	: 아직요
+P1 	: 아직 좀 먼 얘기긴 하죠
+P0 	: 맞아요
+P1 	: 언제 단풍 질까요
+P0 	: 금방이요

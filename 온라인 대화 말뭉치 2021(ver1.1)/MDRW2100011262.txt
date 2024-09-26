@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011262
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 산 물건 있으신가요?
+P1 	: 저 어제 갤럭시워치4 샀어요!!
+P1 	: 배송언제오려나 목빠지겠어요 ㅠㅠㅋㅋ
+P0 	: 와 갤럭시워치4 부러워요!!! 저도 사고 싶은 것들 중에 하나예요ㅋㅋㅋ
+P1 	: 어제가 마지막 사전예약이였는데 사은품이 제대로 올지 모르겠어요
+P0 	: 오 사은품이 뭐였나요?
+P1 	: 티비, 세탁기모양 거치대였는데 삼성공홈에서 세탁기모양은 품절이더라구여 ㅜ
+P1 	: 하이마트가 아직 사은품 두종류 다 남아있어서 세탁기모양으로 주문하긴햇는데 잘 올지모르겠어요 ㅋㅋㅋ
+P0 	: 아ㅋㅋㅋㅋ 너무 귀여운 거치대 아닌가요ㅋㅋㅋ
+P0 	: 전 최근에 헤드폰을 사고 싶어서 찾아보고 있어요!
+P1 	: 애플헤드폰 진짜좋다던데 노이즈캔슬링도되고
+P0 	: 그거 온도차 나면 물기 맺힌다고 했던가...? 그래서 그건 뺐어요ㅋㅋㅋ
+P0 	: 보스랑 젠하이저 중에 고민 중이에요!
+P1 	: 아 물기라니 ㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋ물기는 심했죸ㅋㅋㅋ 삼성이랑 협업하는 jbl도 고민 중인데 가격대가 다 높아서 돈 모으는 중이에요
+P1 	: jbl좋죠 거기는 워낙유명해서ㅋㅋㅋ
+P0 	: 맞아요ㅋㅋㅋㅋ 근데 가격대가 높으니 눈을 낮춰야겠어요

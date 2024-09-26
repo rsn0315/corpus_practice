@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100041398
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소 건강을 챙기시나요
+P1 	: 물 많이 먹어요
+P1 	: &name1&님은요?
+P0 	: 전 물을 좋아하지 않아서 조금 먹어요
+P1 	: 그럼 운동 하시나요?
+P0 	: 하루 얼마나 드세요
+P1 	: 2리터는 채우려고 노력해요
+P0 	: 주6일 정도 한시간 빨리걷기를 해요
+P1 	: 꾸준히 하시네요 효과는 어떤가요??
+P0 	: 2리터 어마어마 하네요
+P0 	: 살은 조금 빠지고 몸은 건강해 지는것 같이 느껴져요
+P1 	: 운동 꾸준히하기 힘든데 성실하신편인가봐요
+P0 	: 힘들어도 꾸준하려고 노력해요
+P1 	: 아침에 하시나요?아님 저녁에 운동을 하시나요?
+P0 	: 저녁먹고 밤에 해요
+P1 	: 그렇군요 운동을 열심히 하시네요

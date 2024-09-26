@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030010
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~~
+P0 	: 식사하셨나요??
+P1 	: 아직이요ㅎ
+P0 	: 메뉴는 정하셨나요?
+P1 	: 뭐 먹을까 고민중이네요
+P1 	: 아니요ㅎ
+P0 	: 아하 저는 오리고기구워먹으려구용ㅋㅋㅋㅋ
+P1 	: 오
+P1 	: 맛있겠네요
+P1 	: 집에서 구워드세요?
+P0 	: 네~~ 부추절임이랑같이먹으려구용
+P1 	: 맛있겠네요~
+P1 	: 전 내일 메뉴는 정했는데 오늘이 문제네요ㅎ
+P1 	: 생각이 안나서~~
+P1 	: 오리 로스로 구워드시는건가요?
+P0 	: 로스는아니구 훈제오리구울예정이에요~ㅎㅎ
+P0 	: 한식좋아하시나요 양식좋아하시나요?
+P1 	: 전 한식이요~
+P1 	: 뭐 좋아하세요?
+P0 	: 앗 저는 양식이요 ㅋㅋㅋ

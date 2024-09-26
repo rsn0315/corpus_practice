@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045445
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이신가요?
+P0 	: 아뇨 학생은 아니에요
+P0 	: 학교 다니시나요?
+P1 	: 아니요..ㅋㅋㅋㅋ 그럼 학창시절 얘기 할까요
+P0 	: ㅋㅋㅋㅋㅋ 넵...
+P0 	: 기억에 남는 추억 잇으신가요
+P1 	: 저 야자빼고 한강 간거요 ㅋㅋㅋㅋ
+P0 	: 앗 ㅋㅋㅋㅋㅋ 정말 추억이네요 ㅋㅋㅋ
+P0 	: 가서 치킨 드셧나요
+P1 	: 네!!!ㅋㅋㅋㅋㅋ 한강하면 치킨이져
+P0 	: ㅋㅋㅋㅋ 한강을 제대로 느끼셨네요 ㅋㅋㅋ
+P0 	: 저흰 기숙사였어서
+P0 	: 몰래 가방에 치킨담아와서 방 안에서 먹고 그랬어요 ㅋㅋㅋ
+P1 	: 꺄 ㅋㅋㅋㅋㅋㅋ
+P1 	: 걸리면 벌점 받나요?
+P0 	: 네 ㅋㅋㅋㅋㅋ
+P0 	: 외부음식 반입 금지예요 ㅋㅋㅋㅋ
+P0 	: 치킨집에서 몰래 뒷문으로 배달해주고 그랬어요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ 냄새는 어떡해요?
+P0 	: 창문 활짝 열고
+P0 	: 열심히 페브리즈 뿌려요 ㅋㅋㅋㅋㅋㅋ

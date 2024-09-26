@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 나 요즘 &name3& 간식 많이 안줘
+P1 	: 그렇게 하는게 맞는거야
+P1 	: 요즘 &name3& 살이 넘 많이 쪘어 ㅠ
+P0 	: 동물병원 의사가 3키로 초반이 제일 적당하댔어
+P0 	: 우리 &name4&는 몇키로였을까?
+P1 	: 글쎄 &name4&도 육개월지나선 그정도 한거 같아
+P1 	: 오래도록 같이 살아야하니 건강관리를 해줘야해
+P0 	: 나 &name4&는 기억이 하나도 안 나 &name4&도 간식 사먹였나?
+P1 	: &name4& 사료도 비싼거먹이고 캔도 주고 그랬지 마당에서 안좋은것먀 먹지않았음 그렇게 빨리 안갔는데
+P0 	: &name4& 참치캔 먹였었어?
+P1 	: 참친진 기억이 안나
+P1 	: &name3&는 건강하게 잘키우자
+P1 	: 반려동물이 있으니 집안이 활기차고 좋아
+P1 	: 윈윈하는게 반려동물과 함께 사는것같아
+P0 	: 우리 강아지는 백살까지 살거야
+P1 	: 그럼 너무 좋지요
+P0 	: 개껌이 나쁜말이야?
+P1 	: 아닐걸
+	  개껌 만들어야하는데
+P0 	: 뭘로 만들거야?
+P1 	: 우유랑 브로컬리 당근 글구 젤라틴으로 아주맛나게 맹글어야지
+P0 	: 강아지 양치 시켜주라고

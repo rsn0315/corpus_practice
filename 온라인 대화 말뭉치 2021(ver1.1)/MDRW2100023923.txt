@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023923
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택 해보셨나요
+P1 	: 제가 재택해보고 싶었는데 실패했어요..ㅋ
+P0 	: 왜 실패하셨나요
+P1 	: 과외 일을 했었는데 비대면 수업을 하고 싶었거든요
+P1 	: 코로나 이후로 대면수업은 제가 너무 싫어서요
+P1 	: 근데 학부모들은 그게 아닌가봐요
+P0 	: 아 그러셨군요 비대면으로 하면 아이들 집중력이 떨어진다고 생각하셨을까요
+P1 	: 그러게요 과외는 아무래도 큰돈이니까 뭔가 최상의 효과를 얻고 싶은 마음이겠죠
+P0 	: 맞아요 재택 의사를 여쭤봤는데 거절하신거죠? 학부모님이??
+P1 	: 그죠
+P1 	: 전 재 목숨이 더 중요해서 그 참에 다 정리했답니다 ㅋ
+P1 	: 그래서 지금은 쉬는중이에요
+P1 	: &name1&은 재택근무 가능한 일인가요?
+P0 	: 상황에 따라 다른데 현재는.휴직중이라 경험이 없네욮ㅍ
+P0 	: 요 ㅠ
+P1 	: 아항  &name1&도 휴직중이시구나
+P1 	: 재택 가능하면 재택을 더 선호하시나요?
+P0 	: 네 육아휴직중이라 재택이 어떤지 궁금해요
+P0 	: 장단점이 있다고 하더라구요..
+P1 	: 그러겠죠? 전 집순이 성향이라 재택하고 싶어요
+P0 	: 저같이 육아하는 경우엔 아이들도 같이 집에 있으니까 오롯이 일에 집중하기가 어렵다고 하더라구요

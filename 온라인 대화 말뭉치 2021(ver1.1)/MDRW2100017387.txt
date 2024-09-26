@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100017387
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨나요?ㅎㅎ
+P1 	: 넵 방금요
+P1 	: 파스타 ㅋㅋ
+P1 	: &name1&님은요
+P0 	: 아 저는 오랜만에 보쌈
+P0 	: 먹었어요
+P1 	: 크 보쌈 ㅠㅠ
+P1 	: 시켜서요?
+P0 	: 아 부모님이 고기 삶아두셔서
+P0 	: 쌈채소 곁들여 먹었어요ㅎㅎ
+P1 	: 우와ㅜㅜㅜㅜ
+P1 	: 부럽당 ㅎ
+P1 	: 김장할때 수육삶아 같이먹는거도 글케꿀맛인데.   ..갑자기 생각나네요
+P0 	: ㅎㅎ김장 때 수육 먹음 진짜 꿀맛이죠
+P1 	: 또 어떤거 좋아하세요
+P0 	: 크게 가리는 것 없이 잘먹는데
+P0 	: 일식이나 베트남음식 좋아해요
+P1 	: 오오 혹시 추천식당 잇으신가요
+P0 	: 음 그때그때 맛집 찾아서 먹는 스타일이라
+P0 	: &name2&님은 어떤 음식 좋아하세요?
+P1 	: 저 파스타요! ㅋㅋㅋ그리구 다 좋아해요 일식 베트남 저도 다 ㅠㅠ
+P0 	: 파스타!
+P0 	: 어떤 파스타 좋아하세요?ㅎㅎ
+P1 	: 크림류 ~~?? 오일 ?
+P1 	: 다...조아해요 다
+P1 	: 맛있는데 가고싶네요
+P0 	: 저도 로제 오일 다 좋아해요
+P0 	: 소스가 촉촉한 게 좋아요

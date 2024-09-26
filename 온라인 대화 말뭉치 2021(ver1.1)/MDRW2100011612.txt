@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011612
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 유튜브 자주보세요?
+P1 	: 유튜브 자기전에 매일 봐요
+P1 	: 자주보세요?
+P0 	: 네저도 자주봐요
+P1 	: 어떤 유튜브 주로 보세요?
+P0 	: 여행 유튜브요!
+P1 	: 여행유튜브! 기억에 남는 영상있나요?
+P0 	: 빠니보틀이요!
+P1 	: 어디로 여행가는 영상이 맘에 드셨나요?
+P0 	: 미국이요ㅎㅎ
+P1 	: 미국 ! 저는 한번도 가본적없는데 궁금하네요
+P0 	: 저도뉴욕 가고싶어요ㅠ
+P1 	: 좋아하던 미드가 뉴욕이 배경이라 저도 뉴욕 가보고싶어요ㅠㅠ
+P0 	: 오 미드 재밌죠

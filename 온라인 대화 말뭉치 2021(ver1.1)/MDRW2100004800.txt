@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100004800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 동물 좋아하세요?
+P0 	: 네?
+P1 	: 네 저 동물 좋아해요!
+P0 	: 반말 써도 되나요?
+P1 	: 네 가능해요 쓰세요 저도 반말쓸게요
+P0 	: 응 고마워 근데 강아지가 좋아? 아님 고양이가 좋아?
+P0 	: 난 강아지가 좋아
+P1 	: 나는 강아지가 좋아 왜냐하면 강아지가 귀여웡
+P0 	: 아하 난 강아지 키워서 강아지 더 좋아해
+P0 	: 근데 둘 다 좋아하긴 해 엄청
+P1 	: ㅋㅋㅋㅋㅋㅋ그렇구나ㅠ나도 강아지 키워서 강아지가 좋아
+P0 	: 오 강아지 종이 혹시 치와와?
+P1 	: 헐 맞아 장모치와와
+P1 	: 너도 치와와 키우니?
+P0 	: 당연하지 같이 사니까
+P1 	: 아하 그렇구나
+P0 	: ㅋㅋㅋㅋ 그럼 무슨 동물이 젤 좋아
+P1 	: 강아지가 좋아^^ 귀엽잖아^^
+P0 	: 강아지 다음으론?
+P1 	: 강아지 다음으론 고양이가 좋을 걸 아마도
+P0 	: 평범해
+P1 	: 근데 토끼도 좋고 알파카도 좋아 근데 알파카는 반려공물이아니라슬포

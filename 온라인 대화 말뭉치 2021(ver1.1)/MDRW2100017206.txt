@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100017206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 눈이 부시게
+P1 	: 어느 점이 좋으셨어요?
+P1 	: 그 혹시 시한부 인생에 관한 내용 맞나요?
+P0 	: 드라마 마지막에 김혜자씨가 나레이션하는게 있어요
+P1 	: 아아아
+P1 	: 그거 저도 너무 좋아해요
+P0 	: 시한부 아니고 치매내용인데
+P1 	: 삶의 사소한 순간들을 사랑하는 느띰
+P1 	: 아 그렇구나
+P0 	: 그걸 좀 잘 연출했다 해야하나
+P0 	: 약간 치매오면
+P0 	: 정신이 어려진다ㅈ하잖아요
+P1 	: 아아 그렇구나
+P0 	: 그걸 한지민씨랑 김혜자씨로 표현을 잘했어요
+P1 	: 아아 나중에 저도 한번 볼게요
+P1 	: 드라마를 싫어하는 게 아니구
+P1 	: 쭉 볼 만큼 시간이 잘 안나요
+P1 	: 그래서 나이 먹을 수록
+P1 	: 영화를 보게돼요
+P0 	: 영화최근에 뭐 보신거 있으신가요
+P1 	: 영화....
+P1 	: 아빠가 되다?
+P1 	: 넷플릭스 영화 하나 봤어요
+P0 	: 그건 무슨내용인가요
+P1 	: 사실 일하면서 봐서
+P1 	: 조금만 봤는데
+P0 	: 약간 아기와 나 같은 느낌인가
+P1 	: 아내가 갑자기 죽어서
+P0 	: 아.. 사별
+P1 	: 남편 혼자 아기 키우는 내용이에요

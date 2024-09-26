@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010644
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 202P1082
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커피 좋아하시나요?
+P0 	: 커피 먹으면 어지러워요
+P0 	: 카페는 자주가는데
+P1 	: 아 카페인 안 받으시는군요!
+P0 	: 그러더라고요ㅠㅠ 현대인의 마약이...
+P0 	: 카페 자주가세요?
+P1 	: 아 저는 요샌 그냥 포장해서 마시는데 커피는 좋아해요 ㅎㅎ
+P1 	: 그럼 카페가면 뭐 시켜드시나요
+P0 	: 에이드나 티먹어요!!
+P0 	: 카페에 유명디저트 있으면 먹구요!
+P0 	: 지난 번엔 수플레케이크 먹었는데 맛있더라고요
+P1 	: 오 그거 약간 폭신한 거 맞나요 아직 안 먹어봤는데 ㅎㅎ
+P0 	: 맞아요! 맛있더라고요!
+P1 	: 오 다음에 한번 도전해봐야겠네요
+P1 	: 배달음식은 어떤 거 가장 많이 드시나요?
+P0 	: 전 회나 곱창볶음 같은거 많이 시켜요
+P0 	: &name2&은요?
+P1 	: 저는 아무래도 치킨을 가장 많이 먹는 것 같네요! ㅎㅎ
+P0 	: 치킨 맛있죠
+P0 	: 어떤 치킨을 가장 좋아해요?
+P0 	: 전 굽네도 맛있더라고요
+P1 	: 아 굽네 맛있죠 첨에 먹을때 신세계 ㅎㅎ
+P1 	: 전 노랑통닭 알싸한 마늘치킨 제일 좋아해요
+P0 	: 오 맛있겠어요
+P0 	: 한국인은 마늘이죠
+P0 	: ㅋㅋㅋㅋ

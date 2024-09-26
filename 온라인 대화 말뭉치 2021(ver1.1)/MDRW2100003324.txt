@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003324
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 딱한번 가봤어요! 대만이요~
+	  지인님은요?
+P0 	: 저는 아직 안가봤는데
+P0 	: 1~2년후에 일본 가보고 싶네요
+P1 	: 코로나가 빨리 끝나야 해외여행도 갈수 있을텐데요
+P0 	: 코로나 끝나면 여행계획 있으세요?
+P1 	: 캠핑을 좋아해서 캠핑을 더 자주 다닐것 같아요!
+P0 	: 오 캠핑 좋아하세요?
+P0 	: 저도 캠핑같은거 가서 밤에 별보고 싶네요
+P1 	: 요즘은 갬성 캠핑이라고 해서 다들 많이 다니시더라구요
+P0 	: 근데 캠핑은 우리나라가 좁다보니까 사람 많지않아요?
+P1 	: 코로나 때문에 캠핑자리도 한군데씩 건너서 예약잡아주더라구요
+P0 	: 저는 어디서 본것처럼 숲같은데서 혼자 불피우고 그런게 좋은거같아요
+P0 	: 은하수 실제로 한번 보고싶네요
+P1 	: 불멍이라고 하죠ㅋㅋ
+	  은하수는 저도 본적없는거 같은데 산골에 가면 볼수 있나요?
+P0 	: 주변에 빛없는곳이 잘보인다던데
+P0 	: 산쪽이면 아무래도 잘보이지 않을까요?
+P1 	: 아! 나중에 한번 자세히 봐야겠네요

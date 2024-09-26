@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018475
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘 회사에서 어땠어?
+P1 	: 오늘 과장님 새로 오셨어.
+P0 	: 오 새로운 과장님은 어떠셔? 괜찮아?
+P1 	: 아직까지는 괜찮은 것 같아. 출근도 일찍하셨더라고.
+P0 	: ㅋㅋㅋ부지런한 타입이신가 보네~ 이번 과장님은 좀 오래 근무하셨으면 좋겠다ㅠ
+P1 	: 동감. 다음주에 대표 회의 있어서 그것만 잘 넘어가면 좋겠어.
+P0 	: 출근한 지 얼마 안돼서 대표회의 참석하려면 힘들겠네ㅠ
+P0 	: 소장님이랑도 만났어?
+P1 	: 오늘 소장님 병가 내셨어.
+P1 	: 다음주 월요일에 처음 보게 될 듯.
+P0 	: 갑자기 웬 병가?? 아프시대?
+P1 	: 어. 엊그제부터 그러시더니 오늘은 출근하기 힘드셨나봐.
+P1 	: 덕분에 과장님이랑 둘이 편하게 근무했어.
+P0 	: ㅋㅋㅋ첫 출근에 스트레스 받을 일은 없었겠다
+P1 	: 오늘은 인수인계만 받았으니까 그렇겠지.
+P1 	: 사람들 상대하다 보면 금방 스트레스 받을 걸.
+P0 	: 또 한달만에 이직한다고 뛰쳐나가는 거 아닌지 몰라~

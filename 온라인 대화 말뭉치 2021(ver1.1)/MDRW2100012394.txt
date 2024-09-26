@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012394
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교 있으세요?
+P1 	: 없어요 님은요?
+P0 	: 저도 무교에요
+P0 	: 이유 있으신가요
+P1 	: 신이 존재한다는게 믿어지지 않아서요
+P1 	: 그쪽은요?
+P0 	: 내 앞가림이나 잘하고
+P0 	: 나를 믿으면 된다고 생각해서요
+P1 	: 저도 그렇게 생각해요
+P1 	: 부모님도 종교가 없으셔서 그런 영향도 있는것 같아요
+P0 	: 교회나 절 가보신적 있으세요?
+P1 	: 둘다 가본적은 있어요
+P0 	: 저는 봉은사 가봤어요
+P1 	: 어디 지역에 있는 절인가요?
+P0 	: 서울 강남이요
+P1 	: 오잉 되게 의외네요 
+	  산골짜기에 있을줄  알았는데
+P0 	: 그죠ㅋㅋ

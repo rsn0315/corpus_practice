@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100033528
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 뭐드실예정인가요ㅎ
+P1 	: 김밥헤븐 가려구요. 혼밥러라서요
+P1 	: 점심 뭐 드세요?
+P0 	: 아 직장동료랑  같이안드세요?
+P0 	: 전 가면서정하려구요
+P1 	: 직원이 저 혼자라서요 ㅎ
+	  사장님은 맨날 나가계셔서
+P0 	: 아 두분이신거예요?ㅎ
+P0 	: 맛난거드시지 왜 맨날 김천으로~
+P1 	: 혼밥이라 좀 그래요. 햄버거나 천국이 맘이 편해요
+P0 	: 사실 전 혼밥을 못해서 아마 맨날포장해서 먹을듯요ㅎㅎ
+P0 	: 굶거나
+P1 	: 굶는건 안돼요. 뭐라도 먹어야죠
+P0 	: 전 이사님이 밥멤버라 ㅎ
+P0 	: 밥먹으러 가고있어요
+P1 	: 저도 밥멤 있음 좋을거 같아요.
+	  맛난거 드시고 오세요!!
+P0 	: 국물땡겨서 바지락칼국수를 먹을까싶어요
+P1 	: 바지락 칼국수 맛나죠~~
+P0 	: &name2&님도 맛난걸로 드세요^^
+P1 	: 쫄면 먹고 삼실 가려구요.
+	  무ㅓ 드셨어요?
+P0 	: 오ㅎ 쫄면 맛나죠ㅎ
+P0 	: 보영만두 쫄면이 맛있는데!

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028324
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 엄마 아까 뭐 찾아봤지? 어디 가고 싶다며
+P0 	: 군산에 신시도
+P1 	: 머야 그건또 어떻게 알았어ㅋㅋ
+P0 	: &name3&이 이모가 갔다왔대
+P1 	: 군산까지?
+P1 	: 아 &name4&이 보고 갔나보다
+P0 	: 걔는 안 다니는데가 없어
+P1 	: 신시도 좋대?
+P0 	: ㅇㅇ사진 보내준 거 보니까 진짜 멋있더라
+P1 	: 바닷간가? 도면 섬인가?
+P0 	: 섬인데 섬에 무슨 민박집 하나 있고 아무것도 없대
+P1 	: 헐 그럼 거기 왜 감
+P1 	: 민박집에서 할 것도 없을거 같은데
+P0 	: 거기 풍경보러 가는 거지
+P0 	: 먹을 거 요즘은 다 싸다니니까
+P1 	: 그래도 밥은 그럼 어디서먹냐..
+P0 	: 우린 안자고 당일치기로 갔다와야지
+P0 	: 밥은 군산에서 먹고 사람 별로 없어서 괜찮을거야
+P1 	: 엄마 기장에
+P1 	: 그
+P1 	: 이흥용 제과점 생겼대

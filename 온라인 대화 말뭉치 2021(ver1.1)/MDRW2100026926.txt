@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100026926
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P0 	: 혹시야식드셧나여??
+P1 	: 아뇨 오늘 저녁을 늦게 먹어서 야식은 안먹었어요!
+P1 	: &name1&은 야식 드셨나요?-?
+P0 	: 아하! 저는 야밤에 야식해먹엇어욬ㅋㅋㅋ
+P1 	: 앗 어떤거 해드셨어요?
+P0 	: 저 어제 야밤에 주먹밥해먹엇어영ㅋㅋㅋㅋㅋ
+P1 	: 헉 맛있었겠다!!
+P1 	: 주먹밥에 뭐 넣어 드셨어요?
+P1 	: 전 김치랑 참치랑 햄 넣는거 좋아해요
+P0 	: 오옹 맛잘알이시네여~~ 저는 역시나 참치땡초마요주먹밥했답니당 단무지도다져서넣구요ㅎㅎ
+P1 	: 헉 저보다 훨씬 맛잘알이신거 같은데요?! 전 맨날 김치스팸만 넣어서 
+P1 	: 전 맵찔이라 신라면도 매워하는데 땡초김밥은 많이 안맵나영?
+P0 	: 앜ㅋㅋㅋㅌ 아 저두 맵찔인데 땡초를 엄청잘게다져서 조금만넣어주면 그렇게맵지도않고 감칠맛싹돌아서 좋아여 ㅎㅎㅎ
+P1 	: 오오오 그렇구나! 감칠맛이라니 요잘알들이 낼 수 있는 그 맛!
+P1 	: 마요네즈랑 참치는 섞어서 김밥에 넣어주면 되는건가요?
+P0 	: 맞아여~~ 비벼서넣는거에요 ㅎㅎ

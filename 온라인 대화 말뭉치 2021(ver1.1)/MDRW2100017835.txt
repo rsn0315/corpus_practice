@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100017835
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 무슨 책 좋아하세요?
+P1 	: 안녕하세요!
+P1 	: 과학이랑 스릴러 좋아합니다!
+P1 	: 그리고 시리즈물도 좋아해요~
+P0 	: 오 스릴러!
+P0 	: 가장 최근에 본 책 제목이 뭐였나요?
+P1 	: 최근에 본 책이라면
+P1 	: 용의자 X의 헌신과 편지라는 책을 읽었어요!
+P0 	: 아아 저 용의자 X 봤어요
+P0 	: 근데 책 말고 영화로 봤어요
+P1 	: 아하 개인적으로 책이 좀 더 좋아요!
+P0 	: 책이랑 영화랑 줄거리 똑같나요?
+P1 	: 영화는 중간에 삭제되는게
+P0 	: 아 다르군요
+P1 	: 좀 많아서
+P1 	: 2시간안으로 내용을 압축해야하기에
+P0 	: 아아 짧으니까 영화는 ㅠㅠ
+P1 	: 중요한게 날라가고 그럴수도 있어서
+P0 	: 그러네요
+P1 	: 책이 좀 더 좋긴합니다!
+P0 	: 결말은 같나요 ㅠㅠ
+P1 	: 그래서 전 책 먼저 읽고 추후에 영화를 보러가곤합니다
+P1 	: 네 결말은 같아요
+P0 	: 남주 넘 맘 아팠어요 ㅠㅠ
+P1 	: 그렇죠..ㅠㅠ
+P0 	: 다르길 바랬는데 ㅠㅠ
+P0 	: 저도 책 읽어야하는데ㅠㅠ
+P0 	: 안 읽은지 백만년 됐네요 ㅠㅠ

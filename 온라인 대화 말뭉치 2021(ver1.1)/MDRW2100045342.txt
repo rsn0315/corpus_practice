@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 카페에서 디저트 먹는거 좋아해요 ㅎㅎ
+P0 	: 저도 디저트 좋아해요
+P0 	: 어떤 디저트 좋아하시나요?
+P1 	: 오 저는 요새 크로플 자주먹어요!!
+P0 	: 크로플 맛있죠 ㅠ
+P0 	: 아이스크림 얹어먹으면 궁합이 잘맞아요
+P1 	: 맞아요! 가끔 바나나랑 같이 주는 곳도 있는데 맛있더라구요
+P0 	: 전 초코시럽도 뿌려먹어요 ㅠㅠㅠ
+P1 	: 아ㅜㅜ 상상만해도 군침돌아요
+P1 	: 초코시럽 하니까 생각났는데 전 어릴때 옛날 와플에 초코소스 좋아했어요 ㅋㅋㅋ
+P0 	: 저도요 ㅋㅋㅋㅋ
+P0 	: 생크림에 사과잼추가하면
+P0 	: 진짜 맛있엇는데요 ㅠ
+P1 	: 와 사과잼 ㅠㅠㅠㅠㅠ 생각하니까 먹고싶어요
+P1 	: 요즘에 옛날 와플이라고 해서 판다던데 안먹어봐서 그때 그맛인지는 모르겠어요 ㅋㅋㅋ
+P0 	: 살짝 추억 보정들어간거 빼면
+P0 	: 똑같아요 ㅋㅋㅋ
+P1 	: 오 진짜요? 먹어보고 싶어져서 내일 시켜봐야겠어요 ㅋㅋㅋ
+P0 	: 네네 ㅋㅋㅋㅋ 저도 저번에 지나가다가 사먹어봑는데
+P0 	: 옛날맛이더라구요 ㅋㅋㅋ
+P1 	: 와 ㅋㅋㅋ 어릴 때 닭꼬치도 되게 자주 먹었는데 갑자기 생각나요ㅜㅜ
+P1 	: 학교 앞 분식집 떡볶이랑..

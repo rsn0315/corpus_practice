@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100014844
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요! 저녁 드셨나요?
+P0 	: 먹었어요
+P0 	: 드셨나요?
+P1 	: 네 저도 먹었어요!
+P1 	: 맛있는 거 드셨나요?
+P0 	: 사온 반찬에 먹었어요
+P1 	: 저는 양념 갈비 구워 먹었어요!
+P1 	: 갈비 좋아하시나요?
+P0 	: 좋아해요! 맛있었겠네요
+P0 	: 잘못하면 금방 타잖아요
+P1 	: 맞아요ㅠㅜ 그래서 불을 좀 약하게 해서 구웠어요
+P1 	: 반찬은 보통 사서 드시나요?
+P0 	: 네. 요리를 잘 못하다 보니ㅎㅎ
+P0 	: 요리 잘 하세요?
+P1 	: 저도 잘 못하는데 할머니가 자주 해주세요
+P1 	: 어떤 반찬 제일 좋아하세요?
+P0 	: 오징어 젓갈이요
+P0 	: 흰밥이랑 금방 먹어요ㅋㅋ
+P1 	: 오징어 젓갈 맛있죠! 젓갈 양념 너무 맛있어요ㅋㅋㅋ 밥이 술술 들어가요
+P0 	: 맞아요. 젓갈은 다 맛있더라구요ㅋㅋ
+P0 	: 간단하게 간장이랑 계란 비벼먹는것두 맛있어요
+P1 	: 간장계란밥 간단한데 너무 맛있어요!

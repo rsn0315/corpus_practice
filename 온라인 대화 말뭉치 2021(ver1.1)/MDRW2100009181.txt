@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009181
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 땜시 여행 못가는데..
+P1 	: 여행 넘 가고파요 ㅠ
+P0 	: 여행 좋아하시나봐요?
+P1 	: 좋아해요 님은?
+P0 	: 저는 혼자가끔씩 등산가는 정도요..
+P0 	: 어떤 여행 좋아하세요?
+P1 	: 바다보단 산 좋아하세요?
+P1 	: 저는 드라이브 좋아해서
+P1 	: 차타고가는곳은 다좋네요
+P0 	: 수영을 못해서 바다가 싫어요.. ㅋㅋㅋ
+P1 	: 저도 못하는데 ㅋㅋ
+P1 	: 보는건 힐링돼요
+P0 	: 오.. 혼자있는거 안좋아하시나봐요? 
+	  / 수영은 진짜 어렵더라구요..
+P1 	: 혼자있는것도 좋아해요 조용히 드라마보고 하는거 ㅎㅎ
+P0 	: 최근엔 여행 전혀못가셧어요?
+P1 	: 아뇨 가긴했어요
+P1 	: 강릉이요 ㅎㅎ
+P0 	: 서퍼비치? 거기 많이가시던데

@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100043233
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 근데 지금가면 잘 놀 수 있을 것 같아요
+P1 	: 프랑스어를 써볼 수 있다는 것과
+P1 	: 미드나잇인파리
+P1 	: 같은 영화에 나오는 장면에 내가 들어간 기분이랄까요
+P0 	: 로맨틱하네요
+P0 	: 홈스테이 경험은 괜찮으셨어요?
+P1 	: 지금도 그 느낌때문에 다시 가보고싶어요 ㅎㅎ
+P0 	: 부러워요
+P1 	: 영화에 나온 곳 여행가보고싶은 곳 있으신가요?
+P0 	: 음 저는 영화는 아닌데 미드를 좋아해서
+P0 	: 뉴욕 가보고싶어요
+P1 	: 아 정말요??
+P0 	: 네 미드배경이라 봤던장소들
+P0 	: 하나하나 가보고싶어요
+P0 	: &name2&님은 있으세요?
+P1 	: 아 정말요??
+P1 	: 예를 들어주실 수 있나요??
+P1 	: 저는 미드를 안봐서용 ㅜㅠㅠ
+P1 	: 외국영화도 전애인덕분에 관심갖기시작했답니다
+P0 	: 음 설명하기 애매하긴한데 주요장면에 나왔던 큰 다리라던지 건물 이런곳이요
+P1 	: 오오
+P0 	: 그럼 그런거와 상관없이
+P1 	: 그런 곳은 사진한장이 좋은 추억이되겠네요
+P0 	: 가보고싶으신곳 있으세요?
+P1 	: 그냥 가보고싶은 곳은
+P1 	: 지금운 부산입니다!
+P0 	: 저 부산사람이라
+P1 	: 많은 인파 속에 혼자 덩그러니 남아서 바다를 보고싶어료
+P1 	: 헉

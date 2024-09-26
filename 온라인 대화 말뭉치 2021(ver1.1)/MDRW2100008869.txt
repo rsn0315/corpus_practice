@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는하셨나요?
+P1 	: 네 초밥먹었어요 저녁 드셨어요?
+P0 	: 저희는 아직인데ㅎㅎ 저는배불러서 패스하고
+P0 	: 다른식구들은 고기볶아주려구요
+P1 	: 아 맛있겠네요ㅠㅠ 꼬기
+P0 	: 근데 어디서 삼겹살을 굽는지 ㅠㅠ 삼겹냄새가나요ㅜㅋㅋ
+P0 	: 삼겹살이 더땡기는데 일단없으니 ㅠ 주물럭고기라도ㅜ
+P1 	: 삼겹살ㅠㅠㅠㅠ배가 부른거 같았는데 아녔나봐요ㅎㅎ
+P0 	: ㅋㅋㄱㅋ 배는부르지만ㅋㅋ삼겹살은 ㅋㅋ 포기못해요
+P0 	: 근데없으니 ㅋㅋ냄새만 맡겠습니다ㅋ
+P1 	: 저는 낼 먹어야겠네요ㅜㅜ 근데 이러다 배달시킬수도ㅋㅋ쿠ㅠㅠ
+P0 	: 삼겹이요,ㅎㅎ?
+P1 	: 네 말들으니 너무 먹고싶네요ㅎㅎ
+P0 	: 아 저도 조만간 삼겹을 먹어야ㅋㄱ
+P1 	: 삼겹살은 먹어도 먹어도 안질려서ㅎㅎ
+P0 	: 삼겹살은 질릴수가 없어요

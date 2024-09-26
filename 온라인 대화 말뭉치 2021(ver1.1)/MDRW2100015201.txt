@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015201
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요ㅎㅎ
+P0 	: 군대에 대해서는 할말이 별로 없으시려나요..!
+P1 	: 제가 군대를 안다녀와서ㅠㅠ
+P1 	: 그래도 동생이 훈련소갔다왔어요!
+P0 	: 아하 그러시군요ㅎㅎ
+P0 	: 동생분은 아직 군인이신거에요?
+P1 	: 훈련소갔다가 공익하고있어요
+P1 	: &name1&님은 군대 다녀오셨나요?
+P0 	: 아하 공익이시구나!
+P0 	: 네 저는 12월쯤에 전역했어요!ㅎㅎ
+P1 	: 고생많으셨겠어요ㅠㅠ
+P1 	: 동생은 하필 코로나 심할때가서 훈련도 거의 못받고 씻지도 못했다고 하더라고요
+P0 	: 아이구 감사합니다ㅠㅠ
+P0 	: 아 코로나심할때 훈련소였으면 그럴만 했겠네요ㅠ
+P1 	: 군대생활은 어떠셨어요??
+P0 	: 저도 군생활때 코로나때문에 휴가도 못나오고 답답하긴했어요ㅠ
+P1 	: 그랬겠네요ㅠㅠ많이 불편하셨겠다
+P0 	: 그래도 주변 사람들이 괜찮아서 어떻ㄱ게 잘 버텼네요ㅎㅎ
+P1 	: 동기나 선임이나 다 괜찮았나보네요ㅎㅎ
+P1 	: 듣기로는 군대에 핸드폰 사용도 된다고 하더라고요
+P0 	: 넹 다 괜찮았어서 잘 버텼어요ㅎㅎ
+P1 	: 제 친구들이 갈때만 해도 안됐어가지고
+P1 	: 이렇게 나이먹음이 느껴지네요ㅠ
+P0 	: 요즘에 일과끝나면 핸드폰 쓸수있어서 좋더라구요!

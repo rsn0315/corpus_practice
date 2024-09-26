@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100045404
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 네
+	    닭발과 오징어 좋아해요^^
+P0 	: 오..닭발. 맛있죠.^^
+P0 	: 오징어는 생물 마른거 다 좋아하시나요?
+P1 	: 네. 버터구이도 좋아하고
+	  반건조도 좋아해요.^^
+	  님은 어떤 음식 좋아하세요?
+P0 	: 저는 찜종류요
+P1 	: 저도 아구찜 좋아해요.^^
+P0 	: 전 미더덕찜 특히 좋아해요
+P1 	: 오.  저도 미더덕 좋아하는데요.
+	  미더덕을 주재료로 하는 찜은 안먹어봤어요.
+P0 	: 그쵸. 다들 잘 모르시더라구요
+P1 	: 양념은 아구찜과 같지요.
+	  직접 만들어드시나요?
+P0 	: 네. 보통 직접 만들어 먹어요
+P1 	: 솜씨가 좋으시네요.
+	  진득한 것은 녹말가루인가요?
+P0 	: 네. 전분가루 아무거나 넣어요

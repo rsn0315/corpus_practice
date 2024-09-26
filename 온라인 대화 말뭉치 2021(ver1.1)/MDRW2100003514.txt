@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003514
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 요새 날씨가 좀 추운듯
+P0 	: 오늘 하루종일 비온다는데 비올때 머하는게 최고임?
+P1 	: 여름이 다간듯 가을이 벌써 왔나보다 가을이 좋은데
+P0 	: 비올땐 누워서 귤까먹으면서 넷플릭스 본느게 최고임
+P1 	: 비올때는 티비보면서 뒹굴뒹굴하는게 최고지
+P0 	: 맞음 여름이 다가온듯하지만 이미 가을이 온느낌
+P1 	: 그래 뭘 좀 잘 아는구나 귤 먹고싶다 맛난 귤좀 사와봐라
+P0 	: 비올떄 티비보면서 뒹굴하는거도 괜찮긴하지 뭘좀아네
+P1 	: 근데 귤은 겨울에 먹어야 제맛이다
+P0 	: 귤 먹고 싶다고? 맛난 귤? 나도 맛난귤 먹고 싶긴함
+P0 	: 맞음 귤은 겨울에 먹어야 아주 제맛인데 겨울 언제오노
+P1 	: 아직 가을도 안되었는데 귤은 제철이 아니지
+P0 	: 가을도 아니라서 귤은 제철이 아니라고? 그럼 가을 제철은 뭔대
+P1 	: 그러게 맛난 귤 먹을 수 있는 겨울이 빨리 오면 좋겠다

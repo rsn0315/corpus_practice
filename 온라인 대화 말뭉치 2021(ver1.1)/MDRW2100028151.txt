@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100028151
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 안녕하세요!
+P0 	: 반려동물에 대해 이야기해볼까요?
+P0 	: 키우고 있는 동물이 있으신가요?
+P1 	: 안녕하세요! 전 반려동물이 없어요 ㅠㅠ &name1&님은 키우시나요?
+P0 	: 저는 7년 전 쯤에 고양이를 키웠어요! 지금은 키우지 않지만요...
+P1 	: 고양이별에 갔나요...? ㅠㅠ
+P0 	: 네ㅠㅠ 뇌 쪽에 병이 생겨서 떠났어요
+P1 	: ㅠㅠ 많이 보고싶겠어요.... 고양이 이름은 뭐였나요?
+P0 	: 이름은 &name3&였어요!
+P1 	: 냥택 당하신건가요!ㅎㅎ
+P0 	: 네 길고양이였는데 겨울에 저희 엄마가 아파보인다고 데려오셨어요
+P0 	: 길냥이 중에 코리안숏헤어가 많은데 &name3&도 코숏이었어요. 털무늬는 고등어태비고
+P0 	: 고양이 좋아하시나요?
+P1 	: 고등어태비!! 제 친구가 치즈냥이 키워서 사심채우러 종종 간답니다 ㅎㅎ
+P1 	: 길냥이들 볼 때마다 눈인사 시도하며 다녀요 ㅎㅎ
+P0 	: 아 눈인사! 냥이가 깜빡여주면 괜히 맘이 몽글몽글해지죠
+P1 	: 넘 황송하고 몸둘 바를 모르겠고 ㅠㅠㅋㅋㅋㅋㅋ 행복해요
+P0 	: 맞아요 털동물들이 주는 그런 애정이 기분을 따뜻하게 만들어요

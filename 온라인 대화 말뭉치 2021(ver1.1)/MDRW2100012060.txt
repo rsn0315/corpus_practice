@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행계획을 항상 짜서 가는편이세요?
+P1 	: 원랜 그런 스타일인데 점점 풀어지네요 힘들어요.. 귀찮고
+P0 	: 저도 엄청 계획짜는 스타일인데 애생기니... 계획이 소용없더라구요ㅋ
+P1 	: 맞아요 저도 그러면서 더 달라진거 같아요^^ 아이랑 간 곳 중 기억에 남는 곳 있으신가요
+P0 	: 이번에 제주도 갔는데 금능해수욕장이 정말좋았어요~
+P1 	: 오 금능? 저도 올해 갔는데 금능은 안간것 같아요
+P0 	: 애들놀기딱인 해수욕장이였어요~ 제주서 어디어디 갔어요~!
+P0 	: ?
+P1 	: 저는 협재요! 제주도에서 또 뭐하셨나요 ^^
+P0 	: 오 협재도 좋죠! 화조원이랑 항공우주박물관갔어요!
+P0 	: 뭐드셨어요?
+P1 	: 저는 거의 숙소에만 있었어요 그나마 기억에 남는건 은희네해장국?
+P0 	: 저희두요 코로나라 거의 시켜먹고... 수두리보말칼국수 먹고싶었는데.. 그냥 공항근처서 먹었어요~
+P1 	: 오 수두리보말? 중문인가요? 지난번엔 먹어본것 같기도..
+P0 	: 중문 맞아요!!  대기가 어마어마 해서 여름에 애들 데리고 대기는 못하겠어서 포기했어요~
+P1 	: 맞아요 당시에 매장도 작아서 겨우 먹었던 기억이..

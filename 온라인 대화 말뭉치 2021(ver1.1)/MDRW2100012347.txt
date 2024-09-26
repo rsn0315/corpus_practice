@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012347
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식은 어떤거 시켜드시나요?
+P1 	: 치킨 많이 시켜먹는 것같아요. 노랑통닭 좋아해요.
+P0 	: 치킨말고는 뭐 자주 시켜드세요?
+P1 	: 쌀국수도 자주 먹고 와플도 시켜먹어요.
+P0 	: 요즘은 배달료가 올라서 시키기 부담스럽지 않나요ㅠㅠ
+P1 	: 맞아요!! 4000원씩 하는 경우도 있어서 쿠폰이 없는 날은 부담스러워요ㅠㅠ
+P0 	: 4000원 진짜 너무 하잖아요ㅠㅠ
+P0 	: 왠만한 메뉴하나값인데...
+P1 	: 2000원까지는 괜찮았는데 날이 갈수록 오르네요ㅠㅠ
+P0 	: 그래서 포장해서 드신다는 분도 있더라구요
+P0 	: 저도 그래야할까봐요
+P1 	: 맞아요 포장도 괜찮은 것같아요. 집 근처면 할만하죠.
+P0 	: 집에서 자주 해드시는 음식이 있나요?
+P1 	: 저는 스파게티 자주 해먹어요. 물조절이나 양조절이 필요없는 음식이라서요.
+P0 	: 스파게티중에 토마토 로제 크림 오일 뭐드세요?
+P1 	: 다 좋아해요. 로제를 제일 많이 먹고 그 다음은 오일인 것같아요.
+P0 	: 저는 오일이 제일좋고 그다음이 로제인데 비슷하네요

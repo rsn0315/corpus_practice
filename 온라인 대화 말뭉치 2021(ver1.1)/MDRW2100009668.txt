@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009668
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼 계획 있으세요?
+P1 	: 결혼 생각은 없습니다. &name1&님은 어떠세요?
+P0 	: 저도 없어요
+P0 	: &name2&님은 왜 결혼생각 없으세요?
+P1 	: 그냥 결혼을 꼭 해야할 이유를 모르겠더라구요
+P1 	: &name1&님은요?
+P0 	: 결혼하면 저를 잃을것 같아서요
+P1 	: 결혼하면 변할 수밖에 없는 것 같아요
+P0 	: 그러게요
+P0 	: 그래서 결혼도 연애도 안하는 중이에요
+P1 	: 사는 데 필수는 아닌 거 같아요 ㅋㅋ
+P0 	: 하긴 그래요
+P0 	: 친구들이랑 같이 살게 될 거 같아요
+P1 	: 결혼 안 하더라도 가까이에 친한 친구 있음 괜찮을 것 같아요
+P0 	: 네 그래서 친구들이 결혼하면 슬플것 같아요
+P1 	: 아직 주변에 결혼한 친구 별로 없나요?
+P0 	: 아직은 몇명 없어요
+P1 	: 저는 반반 정도

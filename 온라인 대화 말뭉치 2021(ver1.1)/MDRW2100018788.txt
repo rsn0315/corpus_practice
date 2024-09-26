@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018788
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 주로 모 드세요?
+P1 	: 요즘엔 다이어트식 먹으려해요
+P0 	: 밀키트 같은거요? 아님 샐러드?
+P1 	: 만들어먹어요!
+P1 	: 오늘은 통밀또띠아요!
+P0 	: 그런 고급스러운걸 직접 만드세요?
+P1 	: 한번 도전해봤어요!ㅋㅋ
+P1 	: 꽤 먹을만해서 만족스러워요
+P1 	: 점심 드셨어요?
+P0 	: 전 1시 넘어서 먹어요.. 
+	  아침을 늦게 먹고.. 
+	  
+	  또띠아 빵은 파는거에요?
+P1 	: 늦게 드시는편이시군요
+P1 	: 네 통밀또띠아 인터넷에서 구매해서 다이어트 책보고 만들어 먹고 있어요
+P0 	: 빵은 생지같은거에요?
+P1 	: 구워진걸 냉동판매하는거 같아요
+P0 	: 아.. 그럼 해동만하면 되능?
+P1 	: 네!
+P1 	: 저는 더 맛있으면해서 후라이팬에 구워먹어요
+P0 	: 맛잇겟다... 저도 샐러드가 주식이라..
+P0 	: 해보고 싶네요

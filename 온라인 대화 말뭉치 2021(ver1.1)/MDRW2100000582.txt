@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100000582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 혹시 요즘 읽으시는 책 있으세요?ㅎㅎ
+P0 	: 요즘 책 안읽고 유튜브 주로 봐요 ㅋㅋ
+P0 	: 책을 읽어야하는데
+P1 	: 요새 책 읽는 게 쉽지만은 않죠ㅋㅋㅋ
+P0 	: 옛날에 책 읽을때면 초등학생때?
+P1 	: 올해 읽었던 책 중에 달러구트 꿈백화점 재밌게 봤는데 읽을 책 없으시면 한번 봐보세요ㅎㅎㅎ
+P0 	: 평소 좋아하는 작가인가요?
+P1 	: 아뇨! 주변에서 추천 받아서 읽어봤는데 재밌더라고요ㅋㅋㅋ
+P0 	: 저는 나쓰메 소세키의 도련님 재밌게 읽었어요
+P1 	: 우와 저는 첨 들어보는 책이예요ㅎㅎ 그 작가 작품을 좋아하시나요?
+P0 	: 중학교때 일본어 선생님이 추천해주셨는데 그 작가 작품들 재밌어요
+P1 	: 와 지금 읽고 있는 책 다 읽으면 한번 읽어볼게요ㅎㅎ
+P0 	: 요즘엔 책도 오디오로 듣는 책이런게 있어서
+P0 	: 출퇴근길에 듣는걸로 읽어보세요
+P1 	: 윌라같은거요?ㅋㅋㅋㅋ아직 해본적은 없는데 뭔가 어색할 것 같아요ㅋㅋ

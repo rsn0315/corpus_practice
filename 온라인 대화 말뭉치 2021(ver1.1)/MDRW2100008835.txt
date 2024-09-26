@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008835
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨 어떤가요?
+P1 	: 날씨 선선하고 좋네요. 그 동네는 어때요?
+P0 	: 여긴 흐리고 습하고
+P0 	: 별루네요ㅠ
+P1 	: 그래도 여름처럼 덥고 습한것 보단 나은 것 같아요.^^
+P0 	: 맞아요
+P0 	: 이제 가을이 온듯해요
+P1 	: 금새 겨울되겠지요?
+P0 	: 그럴것같아요
+P1 	: 이제 간절기 옷은 꺼내셨어요?
+P0 	: 아직요
+P0 	: 넘나 귀찮은ㅠ
+P1 	: 전 봄 옷 정리도 아직 못해서 그냥 그거 입으려고요ㅋ
+P0 	: 하하 봄이나 가을이나 비슷
+P1 	: 전 색깔만 좀 고려하고 거의 비슷한거 같아요
+P0 	: 그냥 들어가면 주서입고ㅠ

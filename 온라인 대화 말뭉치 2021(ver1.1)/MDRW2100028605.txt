@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100028605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: 아르바이트 해 보셨나요?
+P0 	: 막노동부터
+P0 	: 과외까지
+P0 	: 해봤어요
+P0 	: 알바 때문에 섬에서 숙박도 해봄요
+P1 	: 뭐가 제일 재밌으셨나요
+P0 	: 재미는...
+P0 	: 국토 종주 스탭이요
+P1 	: 헐
+P1 	: 인싸네
+P0 	: 진짜 종주할때 힘든건
+P0 	: 안하면서
+P0 	: 국토 종주는 함께함
+P0 	: 인싸라기보다는
+P0 	: 인싸 친구 때문에 했던 알바라;;
+P1 	: 알바비 많이 주나요?
+P0 	: 6일 60만원이었나
+P0 	: 했던걸로 기억합니다
+P1 	: 헐 많이 주네요
+P0 	: 다만 숙박하면서 하는거라
+P1 	: 업무 스트레스 있으신가요
+P0 	: 보통 없는데

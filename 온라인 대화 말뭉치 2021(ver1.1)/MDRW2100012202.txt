@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012202
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연애 얼마나 하고 결혼하셨나요
+P1 	: 음..연애는 2년 정도 한것 같아요ㅎㅎ
+P0 	: 오 그러시군요~^^ 적당하네요
+P1 	: &name1&은 얼마나 연애하셨어요??
+P0 	: 저는 1년반이요 비슷하죠~^^
+P1 	: 그러네요ㅎㅎ
+	  어떻게 만나신거에요?
+P0 	: 저는 소개팅이요 &name2&은요?
+P1 	: 전 교회오빠ㅋㅋㅋ
+P0 	: 와~ 교회오빠랑 결혼하셨군요^^ 어떻게 연애를 시작하시게 됐나요~~
+P1 	: 어느날 신랑이 갑자기 일 때문에 못 나오게 됐는데 안부차 연락했다가 1시간 이상 통화를 하게 된거에요ㅎㅎ
+	  어쩌다보니 그 뒤로 연락하는 횟수가 잦아지고 하다 자연스럽게...???ㅋㅋㅋ
+P0 	: 와 자연스러운 연애 좋네요^^ 저도 미혼 때 교회오빠 잠깐 만났었네요...ㅋㅋ
+P1 	: ㅎㅎ지금 남편분의 어떤 점이 가장 좋으셔요?
+P0 	: 성실하고 가정에 충실한 점이요! &name2&은요?
+P1 	: 오 그거 너무 좋네요!
+	  전 경제적인 부분 믿고 맡길수 있는거요~
+P0 	: 그것또한 넘 좋네요^^ 
+	  그럼 경제권은 남편분이 담당하시나요?

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100028220
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 간단한 건 하는데 주중엔 통 못하네요 ㅎㅎ
+P0 	: 전 청소담당이요
+P1 	: 오 어떤 청소를 제일 자주 하거나 잘하세요?
+P0 	: 화장실이대박이죠
+P1 	: 화장실! 저 사실 화장실 청소 안하다가 이제 해야 하는데 ㅋㅋ
+P0 	: 화장실청소가 가장 힘들죠
+P1 	: 화장실 청소는 며칠에 한번 정도 하시나요 ㅎㅎ
+P0 	: 일주일에한번씩
+P1 	: 규칙적이시네요~ 저는 이불 털고 청소하는 건 곧잘 하는데 요즘은 시간이 잘 안나서 ㅋㅋ
+P0 	: 주말밖에 시간이요
+P1 	: 그렇죠 평일엔 퇴근하고 오면 집안일 할 기력도 없어서 뻗어요
+P0 	: 자기바쁘죠

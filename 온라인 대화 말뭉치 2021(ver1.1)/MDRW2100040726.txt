@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100040726
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요! 그냥 혼자만 아니면 될 것 같기도 해요ㅋㅋㅋ
+P0 	: &name2&님 집 주변에는 맛집 많나요!?
+P1 	: 아뇨 집 주변에는 다 편의점이나 카페가 많아서 맛집은 많이 없어요ㅠ
+P1 	: &name1&님은 어떠세요??
+P0 	: ㅠ.ㅠ 저도 맛집이 아예 없어요
+P0 	: 그래서 그냥 배달로 만족 중이에요..
+P1 	: 맞아요... 어쩔 수가 없네요ㅠㅠ
+P1 	: 뭘 주로 시켜드세요??
+P0 	: 저는 그냥 한식 시킬 때도 있고요!
+P0 	: 샌드위치나 파스타도 시켜먹어요 ㅎ.ㅎ
+P1 	: 오오 샌드위치 맛있는 곳 있나요??
+P0 	: 네네! 제가 훈제연어를 좋아해서
+P0 	: 훈제연어 샌드위치 맨낼 시켜먹어요
+P1 	: 오오오 연어 샌드위치 맛있어보여요!!
+P1 	: 막 아보카도도 넣어먹고 그러세요?
+P0 	: 앗 제가 또 편식쟁이라
+P0 	: 아보카도는 안 먹었거든요..
+P0 	: 그래서 연어랑 양상추만 넣어 먹어요 ㅎㅎ
+P1 	: 오옷 저도 아보카도 안먹어요ㅋㅋㅋㅋ
+P1 	: 연어랑 양상추만 있어도 충분히 맛있죠!!
+P1 	: 아보카도는 대체 뭔맛으로 먹는지 모르겠네요,,
+P0 	: 그니까요!!
+P0 	: 아보카도 그 식감도...? 너무 이상해요
+P1 	: 아 맞아요 흐물텅한 것 같기도하고...

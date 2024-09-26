@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100042407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집좋아하세요?
+P1 	: 네네!! 맛집 가는거 좋아해요! &name1&님은요?
+P0 	: ㅎㅎ저도요~
+P0 	: 주로어떻게검색하세요
+P1 	: 블로그나 인스타 보고 가는데요~ 요즘엔 코로나 때문에 잘 다니질 못해 아쉬워요 ㅜㅜ &name1&님은 어떻게 찾아가세요?
+P0 	: 저는 지인추천이요ㅎㅎㅎ
+P0 	: 귀가얇아용ㅎㅎ
+P1 	: 앗 ㅋㅋㅋ 저도 귀가 얇은데 지인 추천으로 가시면 만족도는 어떠셨어요? :)
+P0 	: ㅎㅎ항상좋더라고요~
+P1 	: 오옷!!! 좋네요~~ 저는 블로그 보고 찾아갔는데 실망했던 적도 있었거든요 ㅜㅜ
+P0 	: 그럴수있어요ㅜㅜ밥이맛없었나요?
+P1 	: 가지튀김? 이었나 그랬는데 기름이 너무 많더라구요 ㅠㅠ 한 입 먹었을 때는 너무 맛있었는데 자꾸 먹으니 느끼해서 같이 간 친구랑 다 못 먹고 남긴 거 있죠!
+P0 	: ㅜㅜ그러셨군요
+P0 	: 그게메인이었나요
+P1 	: 중국음식점이었는데 몇가지 요리 중 하나긴 했어요 ㅜㅜ

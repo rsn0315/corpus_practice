@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>3기 신도시 1차 사전청약 4,333가구 당첨
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오 청약 알아보시나요
+P1 	: 아직은 안알아보고 있네요
+P1 	: &name1&은 어떠신가요?
+P0 	: 저는 이것저것 넣고있긴 한데
+P0 	: 하나도 안되네요ㅠㅠ
+P1 	: 몇 년 넣으셨나요?
+P0 	: 정확하진 않지만 5년 이상 넣어왔어요!
+P1 	: 이번 3차 신도시에도 넣어보셨나요?
+P0 	: 아쉽게도 뒤늦게 확인해서 못넣었어요ㅠㅠ
+P0 	: &name2&은 아예 안넣으시나요?
+P1 	: 아직은 대학생이라 돈이 없어서요
+P1 	: 3차 신도시 청약에 더 넣어보실 생각 없으신가요?
+P0 	: 아하 무조건 넣어야죠
+P1 	: 넣어보고 싶은 도시 있으신가요?
+P0 	: 서울지역이라면 어디든요
+P1 	: 3기 신도시에 관심이 많으신가요?
+P0 	: 당첨되면 행운인데 당연하죠~
+P1 	: 근데 4333가구라니 정말 많이 뽑았네요
+P0 	: 그러게요 많은것 같은데 그중에 나는 없다니ㅠㅠ
+P1 	: 그러게요ㅠㅠ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100008354
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 방학인가요?
+P0 	: 학생이세요?ㅎ 전직장인
+P0 	: 요즘 학교 수업하나요?
+P1 	: 저는 요새 쉬어요 계약직하다가 코로나로 짤리고
+P1 	: 요새 온라인수업하려나 어떠려나
+P0 	: 졸업하신지 얼마나 되셨어요?ㅋ
+P1 	: 대학 졸업한지 한참 됐네요
+P1 	: 요즘은 차라리 학생때가 좋았다싶어요 ㅋ
+P0 	: 아ㅎ 대학생활은 즐거우셨나요?
+P0 	: 동아리활동 해보셨어요?
+P1 	: 음 고등학교 때까진했는데 대학땐 안했어요
+P1 	: 지금생각하면그거도 다 경험인데 싶어요
+P0 	: 무슨 동아리 해보셨어요?
+P0 	: 저도 고딩때만 방과후 활동 이런것만 해봤네요
+P1 	: 저는 그냥 독서부?
+P1 	: 와 너무 옛날이라 기억이 거의 안나요 ㅋㅋ
+P0 	: 오 책좋아하셨어요?ㅎ
+P0 	: 전 퀼트공예 ㅎ
+P0 	: 바늘질해서 인형도 만들고 했는데
+P1 	: 전 책좋아했어요
+P1 	: 한참 꿈 많은10대때는 작가나 사서를 꿈 꿨 ㅋㅋ
+P0 	: 오ㅎ 작가 멋있네요
+P0 	: 요즘은 다들 학교를 못가니
+P0 	: 친구들이랑 노는것도 다추억인데 그러질못할듯요
+P1 	: 대학생들도 안타깝죠 뭔가 엠티 이런거도 못갈거고 흠
+P0 	: 그니까요 엠티도 잼난데
+P0 	: 그때  아님 할수없는일이라 좀 안타까워요

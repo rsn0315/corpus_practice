@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100016398
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학창시절로 돌아가고싶으신가요
+P1 	: 잘 모르겠어요 장단점이 있는데 아직까지는 단점이 많아 보여요 언젠가는이 시절을 그리워할 날이 오겠죠?
+P0 	: 오 저두요..저는 돌아가고싶진 않아요~~ㅋ
+P1 	: 일단 공부를 다시 해야 된다는게 너무 싫어요ㅋㅋㅋ
+P0 	: 저두요저두요..잦은 시험과 그때마다의 긴장감이 힘들었어요
+P1 	: 야간자율학습 또 왜 10시까지 했었는데 &name1& 님은요?
+P0 	: 저도 10시까지요^^
+P1 	: 야간자율학습 뺀다고 선생님한테 사정 사정 하고 그랬던게 생각나네요ㅋㅋㅋ
+P0 	: 맞아요 꾀병 비슷하게...부린적도 있구요
+P1 	: 요즘엔 다 자율에 맡기는 거 같더라고요 이런 부분은 되게 부러워요
+P0 	: 일요일에도 가서 공부했던 기억이 있어요
+P1 	: 맞아요 거의 주말이 없었죠 공부하는게 많이 지치더라구요

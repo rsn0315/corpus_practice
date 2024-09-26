@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100047206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 쇼핑 자주하시나요?
+P1 	: 네~ 자주 해요~ &name1&님은요?
+P0 	: 주로어디서하세요?
+P0 	: 저는 네이버에서 많이해요
+P1 	: 저도 네이버에서 주로 해요~네이버 쇼핑에서 최저가 검색하고 시작해요~
+P0 	: 뭐사셨나요?
+P1 	: 가장 최근에 산건 쌀을 샀어요
+P0 	: 저는 브리타를 샀어요
+P1 	: 브리타가 뭔가요?
+P0 	: 정수기요
+P1 	: 아~ 정수기를 사신거에요?
+P0 	: 네네

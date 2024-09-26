@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014007
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P0 	: 혹시 기혼이세요?
+P1 	: 네네 기혼입니다 님은요?
+P0 	: 저는 아직 20대 초반이라~ㅎㅎ
+P1 	: 연애중이세요?
+P0 	: 아니요! 지금은 옆구리가 좀 시리네요..ㅎ
+P1 	: 마지막연애가 ?
+P0 	: 학생때가 마지막이에요 ㅠㅋㅋ 제가 완전 여초과거든요
+P0 	: 남자사람이 없네요....ㅡ_ㅡ;
+P1 	: 아 ㅠㅠ 외롭겠어용 ㅜ
+P0 	: ㅠㅠㅠㅋㅋ 그래도 뭐 요즘은 그러려니 하구 할일하면서 살고있어요
+P0 	: &name2&은 결혼하긴지 좀 되셨나요?
+P1 	: 작년에 했어요 ~지금 29이에용 ㅎㅎ
+P0 	: 아하 신혼이시네요!!
+P0 	: 좋으시겠어요 ㅋㅋ
+P1 	: 이상형이 어떻게되세요?

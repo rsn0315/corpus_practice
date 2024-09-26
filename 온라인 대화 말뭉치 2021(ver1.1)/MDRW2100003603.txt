@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100003603
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘은 아침부터 비가 오네요^^
+P1 	: 비 많이 오나요?
+P0 	: 지금은 조금씩 내리고 있어요^^
+P0 	: 거긴 어때요?
+P1 	: 아침에는 폭우더니 자금은 세찬비
+P1 	: 또 퍼붓고 있네요. 태풍이 오긴 오나봐요.
+P0 	: 병원가려고 나왔는데
+P0 	: 우산도 소용 없는 날이네요ㅡㅠㅡㅜ
+P1 	: 우산 펴는 시간에 맞어요.ㅜㅜ
+P0 	: 심지어 우산까지 고장났어요ㅠㅠㅋ
+P0 	: 손잡이가 부러질 정도로
+	  바람이 불었었네요ㅠ
+P1 	: 태풍이 오고 있대요.
+P0 	: 인명피해없이
+P0 	: 무사히 잘 지나감 좋겠네요
+P0 	: 강물처럼님은 비오는 날 좋아하세요?
+P1 	: 집에 있을 때 보는 건 좋아해요.
+P0 	: 창밖으로 보는것만
+	  좋아하시는군용
+P0 	: 좋아하는 계절은요?
+P1 	: 봄요
+P1 	: 따뜻하고 밝고 이뻐서요
+P0 	: 뭔가 &name2&님 
+	  이미지와 잘 어울리는
+	  계절 같아요^^
+P0 	: 따듯하고 밝고 예쁜{emoji:♡}
+P0 	: 저는 가을을 좋아해요^^
+	  가을하늘과 바람이
+	  참 기분좋아요{emoji:♡}

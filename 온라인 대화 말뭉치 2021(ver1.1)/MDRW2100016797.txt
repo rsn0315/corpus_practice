@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100016797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: &name3& 선배는?
+P0 	: 그 선배는 군휴학 아니야?
+P1 	: 근데 수강신청 줍고있던데
+P0 	: 그냥 다니나보다
+P1 	: 선배없으면 우리 동아리 망하지 않냐
+P0 	: 그치...
+P1 	: 아니 무슨 코딩 동아리가 아니라 휴학동아리 됨
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 다 떠나요 동아리의 숲
+P1 	: ㅋㅋㅋㅋ나는 일단 휴학할 일 없는데...
+P1 	: 너도 휴학 할거야?
+P0 	: 나는 있어
+P1 	: 언제
+P0 	: ...&name4& 선배 없는 대학은 의미 없어
+P1 	: ...
+P0 	: 하...
+P1 	: &name4& 선배는
+P1 	: 군대 안가서
+P1 	: 휴학 안하지 않을까
+P0 	: 나도 그냥 같이 복학하고싶어
+P0 	: &name5&이랑 고향간다고 휴학한다는데
+P1 	: 아
+P0 	: 아직 안내긴 함

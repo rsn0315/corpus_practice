@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100001443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전북
+current_residence : 세종
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 :)
+P1 	: &name1&님 점심식사는 하셨나요?
+P0 	: 넵
+P0 	: 맛나게했습니다
+P1 	: 어떤 메뉴 드셨나요?ㅎㅎ
+P0 	: 김밥과
+P0 	: 쫄면
+P1 	: 앗 완벽한 조합으로 드셨군요
+P0 	: 최애점심입니다{emoji:…}..
+P1 	: 분식류 쪽을 좋아하시나요?ㅎㅎ
+P0 	: 초딩 입맛입니다..
+P0 	: 다좋아 합니다
+P1 	: 그렇다면 &name1&님 혹시 디델리라고 아세요..?ㅎㅎ
+P1 	: 분식류 파는 곳인데 라볶이가 엄청 맛있는 집이에요 ㅎㅎ
+P0 	: 첨들어요???
+P0 	: 어디죠?
+P0 	: {share:photo}
+P0 	: 체인인데 저희동네에는 없네요
+P1 	: 네 맞아요 체인인데 요즘은 많이 보이지는 않더라구요..!
+P1 	: 음 우선 신촌쪽에 한 군데 봤었던 것 같아요 ㅎㅎ
+P1 	: 여기 라볶이랑 참치김밥을 같이 먹으면 정말 최고랍니다..!
+P0 	: ㅎㅎ 수고 하셨습니다

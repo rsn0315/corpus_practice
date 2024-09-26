@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100046340
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요!
+P1 	: 백신은 다 맞으셨나요?
+P0 	: 안녕하세요 
+P0 	: 네 2차까지 맞앗습니다
+P1 	: 어떤거 맞으셨어요?!
+P0 	: 1차 아스트라제네카 2차 화이자요
+P1 	: 아~ 그렇게 종류를 다르게 맞아도 되는 건가봐요
+P1 	: 처음 알았어요 ㅎㅎ
+P0 	: 네~
+P1 	: 부작용은 없으셨나요?
+P1 	: 전 이번주에 화이자 2차 맞는데 걱정되네요..
+P0 	: 네 없었어요 
+P0 	: 타이레놀 한개먹은게 다에요
+P1 	: 오 열도 안 나고 그냥 지나가셨나봐요!
+P0 	: 넹
+P1 	: 화이자는 지속 기간이 짧아서
+P1 	: 부스터샷까지 맞으면 좋다고 하던데
+P1 	: 맞으실 생각 있으신가요?
+P0 	: 네 문자오면 예약하려구요
+P1 	: 얼른 코로나 없는 세상에서 살고 싶네요
+P0 	: ㅎㅎㅎ
+P1 	: 코로나 끝나면 어떤걸 가장 먼저 하고 싶으세요?
+P0 	: 격리없어지면 해외여행가려구요

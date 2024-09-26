@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009355
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 많이다니세요?
+P0 	: 많이는 아닌데 예전에 혼자 여행가본적 있어요
+P1 	: 어 저도요 부산 혼자다녀왓어요
+P1 	: 어디가셨어요?
+P0 	: 저는 포항 구룡포마을이요!
+P1 	: 오 포항좋죠
+P1 	: 얘기하니깐 가고싶네요 ㅠㅠ
+P0 	: 동백꽃필무렵 드라마 촬영진데 그거 촬영하기전에 다녀왔었어요
+P0 	: 그러게요
+P1 	: 저도 그전에 다녀왔는데
+P1 	: 그 드라마보니 또 가고싶더라구요
+P1 	: 조만간 계획 세워봐야겟어용
+P0 	: 어 진짜요? 또 가도 재밌을거 같아요
+P0 	: 혹시 해외는 어디가보셨어요?
+P1 	: 저 학생때 일본가본거말고 없어요 ㅠㅠ 제작년에 블라디보스톡 예약다해놨는데
+P1 	: 코로나때문에 취소되구요 ㅠㅠ
+P0 	: 아아 아쉬우셨겠네요ㅠㅠ 저는 제주도 밖에 못가봐서 코로나 끝나면 유럽 가보고 싶어요
+P1 	: 저두용 .. 코로나 끝나자마자 해외갈거예여 ㅠ
+P1 	: 근데 끝나긴할까요 ㅠㅋㅋㅋㅋㅋ 슬프네여
+P0 	: 그러게요 돈만 모으고 있고ㅠ 끝나면 보복소비 해줄 수 있는데

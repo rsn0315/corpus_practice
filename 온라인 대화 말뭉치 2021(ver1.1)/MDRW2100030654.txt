@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030654
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어제 목이 말라서 편의점에 갔는데
+P0 	: 백김치가 없어서 신김치를
+P1 	: 녹차 종류 중에 저도 녹차라고 들어 보셨나요
+P0 	: 물에 씻어서 먹습니다
+P1 	: 편의점 음료인데 정말 맛있네요 자주 마시나요
+P0 	: 처음 들어 봅니다
+P0 	: 무엇이 다른가요
+P1 	: 자두녹차 맛잇습니다 다음에 드셔 보세요
+P1 	: 신김치 밥 싸 먹으면 진짜 맛있어요
+P0 	: 자두 맛이 난다고요
+P0 	: 묵은 김치가 더 맛있어요
+P1 	: 복숭아 녹차나 레몬 녹차는 드셔보셔야 됐지요
+P0 	: 신맛이 나지 않거든요
+P1 	: 자두 맛이 나는 녹차입니다
+P0 	: 녹차랑 어울릴 거 같지가 않네요
+P1 	: 이름이 녹차 지 사실은 음료수 같아요
+P0 	: 녹차는 그저 쓴 맛이납니다
+P0 	: 달달한 가요
+P1 	: 가향 된 녹차 인의 녹차 성분은 약간 있을 것 같고 맛이 있어서 그게 중요한 거죠
+P0 	: 녹차 맛이 나는 음료 이군요
+P1 	: 조금 달콤합니다

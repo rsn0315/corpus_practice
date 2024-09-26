@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017912
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 좋아하는 음식이 뭔가요?
+P1 	: 저는 떡볶이좋아해요! &name1&은요?
+P0 	: 저는 피자를 정말 좋아해요
+P1 	: 피자 오랜만에 먹고싶어지네요ㅠㅠ! 배달로 자주 시켜드시나요?
+P0 	: 네 배달로도 먹고 가끔 냉동식품을 구입하거나 식빵으로 대충 만들어먹기도 해요
+P1 	: 오 식빵으로 만들어 드신다니 신기해요!
+P1 	: 레시피가 어떻게 되나요?
+P0 	: 토마토 소스나 케찹 발라서 각종 치즈를 듬뿍 쌓고 올리브랑 페퍼로니를 올려 먹어요
+P0 	: &name2&은 떡볶이 배달 자주 시켜드시나요?
+P1 	: 와 정말 본격적으로 만들어 드시네용!
+P1 	: 맛있을것같아요!
+P0 	: 네 언젠가는 피자도우도 직접 만들어보고 싶네요
+P1 	: 멋있어요!ㅋㅋㅋㅋ저도 가끔 떡볶이 만들어먹지만 피자는 못만들어봤어용
+P0 	: 그렇군요 떡볶이는 밀떡을 선호하시나요?
+P1 	: 저는 솔직히 쌀떡 밀떡 다좋긴한데 밀떡을 더좋아해용
+P1 	: &name1&은요?
+P0 	: 저도 다 좋은데 밀떡이 더 좋네요 맛이 잘 베는거 같아서요
+P0 	: 오늘 뭐 드셨나요?

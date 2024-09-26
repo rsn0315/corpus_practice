@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 어떤 물건을 구입하고 싶으세요?
+P1 	: 요즘에는 비즈재료를 더 구매할까 고민하고 있어요
+P0 	: 비즈로 뭘 만드세요?
+P1 	: 반지나 팔찌도 만들고 마스크스트랩도 만들어요
+P0 	: 근데 묵주팔찌도 비즈인가요?
+P1 	: 음 생각에 따라서 포함할수도 있지 않을까요?
+P0 	: 글쿤여ㅎ 소품 만드시는걸 좋아하시나보네요
+P1 	: 네 이것저것 만드는걸 좋아하는편이에요
+P0 	: 저는 손재주가 없어서 그런걸 잘 못해여ㅠ
+P1 	: 앗 그러시군요ㅠㅠ
+P1 	: 그럼 여가시간에 주로 뭐하세요?
+P0 	: 전 주로 드라마나 영화봐요ㅎㅎ
+P1 	: 최근에는 어떤거 보셨어요?
+P0 	: 최근엔 영화 크루엘라를 봤어요

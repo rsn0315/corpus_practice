@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025856
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 비 오기 전에
+P1 	: 나갔다 와서 다행이다
+P0 	: ㅇㅇ 잘 버리고 왔음
+P1 	: 요즘 계속 비오네
+P1 	: 오락 가락 한다
+P0 	: ㅇㅇ습한데 괜찮기도하고 습함
+P1 	: 방 제습기 한번씩 돌려
+P0 	: 그제 돌렸는데 돌릴 때 뿐인 거 가틈
+P1 	: 그래도 옷장에 습기 있음 안되니까 자주 돌려라
+P0 	: ㅇㅇ비 이제 좀 그쳤음 좋겠다
+P1 	: 여름에 가물더니 이제 계속 오네
+P0 	: 그래도 비 와서 좀 기온은 낮아진듯
+P0 	: 대신 습해서 힘들어서 그렇지
+P1 	: 습하니까 빨래가 안 말라서
+P1 	: 빨래를 못 하고 있다
+P0 	: 맞아 비 그치면 이불갈자ㅠㅜ
+P1 	: 베개커버랑 싹 바꿔줘야지

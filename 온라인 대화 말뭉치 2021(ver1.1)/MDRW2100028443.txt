@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 군대 다녀왔나요
+P1 	: 아녀 저는 면제입니다
+P0 	: 오우
+P0 	: 그러시구나
+P1 	: 넹 &name1&님은 군필이신가여?
+P0 	: 아니여 군대 갈 일이 없어여
+P1 	: 근데 뭐 군대는 피하면 좋은거니까요
+P0 	: 그죠
+P0 	: 그게 장병들 마스크 벗긴다는 얘긴가요?
+P1 	: 장병들 접종률 높으니까 마스크 벗고 생활하는게
+P1 	: 그게 국방부에서 질본으로 건의한거같더라고요
+P0 	: 아하 그렇게 된거군요
+P0 	: 어찌보면 답답할테니 벗겨야할거 같기도 하고
+P0 	: 또 위험한거 같기도 하고
+P0 	: 떼껄룩님은 어떻게 생각하세요
+P1 	: 군대에서 살다시피 하니까 마스크 안쓰는게 편하긴하겠죠
+P1 	: 근데 막 휴가같은거 나왔는데 운나쁘게 돌파감염되면 큰일날거같긴해요
+P1 	: 마스크 벗기 해도 올해 12월 되어야 하지않으려나요...
+P0 	: 휴가가 정말 큰일인거 같긴 해요
+P0 	: 한명 걸려오면 싹 걸리겠죠..
+P0 	: 12월 되면 밖의 사람들도 백신 많이 맞아서 좀 괜찮겠죠

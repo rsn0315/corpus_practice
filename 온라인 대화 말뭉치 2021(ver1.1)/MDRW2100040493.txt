@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100040493
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 햄버거 좋아하세요?
+P1 	: 햄버거 좋아하는 편은 아니지만 가끔 먹어요ㅎㅎ
+P0 	: 오 어디 브랜드 좋아하세요
+P1 	: 저는 맘스터치 좋아해요
+P0 	: 싸이버거 가 유명하죠!!
+P1 	: 맞아요! 하지만 저는 싸이버거보다는 휠렛버거 좋아해요
+P0 	: 우아 햄 들어간건가요??
+P1 	: 햄들어간 종류는 다른 메뉴로 알고 있고,
+	  싸이버거가 닭다리살/훨렛은 닭가슴살이요
+P0 	: 아아 그게 닭부위 차이군요 !!!!
+P1 	: 또 다른 차이가 있을수도 있지만, 제가 알고있기로는 그렇게 알고 있어요ㅎㅎ
+P0 	: 오 저는 처음 알았어요 ㅋㅋㅋㅋ 맘스터치 감자튀김도 맛있어요 ㅠㅠ
+P1 	: 맞아요!! 저 맘스터치 감자튀김 좋아해요ㅜㅜ
+P0 	: 치킨은 어디브랜드 좋아하세요

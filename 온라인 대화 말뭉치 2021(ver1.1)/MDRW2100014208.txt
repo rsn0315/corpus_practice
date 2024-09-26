@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 메뉴 정하셨나요?
+P0 	: 오늘은 냉장고 잔반처리를 위해
+	  다넣고 비벼먹으려고요
+P1 	: 비빔밥 맛있죠, 입맛 없을 때 자주 먹어요ㅎㅎ
+P0 	: 네 간단하게 한끼 떼울수 있어서요ㅋ
+	  오늘 뭐드세요?
+P1 	: 저는 서브웨이 포장해가려구요!
+P0 	: 서브웨이 맛있죠ㅋㅋ
+P1 	: 서브웨이 자주 드시나요?
+P0 	: 가끔 한번씩 먹어요
+P1 	: 어떤 메뉴를 좋아하시나요?
+P0 	: 전 그냥 시켜주는데로 먹어서ㅋㅋ
+	  추천해 주실거 있으세여?
+P1 	: 저는 서브웨이 멜트 좋아했는데 지금은 클럽으로 이름이 바뀌었어요!
+P0 	: 뭐들어가는 건가요
+P1 	: 베이컨, 햄 등이 들어가는 약간 짭쪼름한 맛이에요!
+P0 	: 아 맛있겠네요ㅋㅋ

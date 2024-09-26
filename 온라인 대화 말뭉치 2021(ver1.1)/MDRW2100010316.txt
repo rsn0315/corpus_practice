@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010316
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 쌀쌀해졌어요
+P0 	: 오늘 선선하죠? 비와서
+P1 	: 네! 지금은 아까보단 덜와용
+P0 	: 태풍올라온대요
+P1 	: 헉 어느쪽에서 오고있나요?
+P0 	: 제주도 400미리 온다는데요?
+P0 	: 비피해 없어야될텐데 수도권은 괜찮읃거같아요
+P1 	: 제주도는 피해가 크겠어요ㅠ
+P1 	: 미세먼지가 줄은게 그나마 다행이에요
+P0 	: 저도 그건좋더라구요
+P1 	: 하늘도 맑고!
+P0 	: 파란가을하늘 보고싶어요
+P1 	: 맞아요 가을하늘이 제일 깨끗하죠
+P0 	: 가을좀 길었음 좋겠는데 금방 겨울오겠죠?
+P1 	: 가을이 너무짧아서 그래요ㅠ

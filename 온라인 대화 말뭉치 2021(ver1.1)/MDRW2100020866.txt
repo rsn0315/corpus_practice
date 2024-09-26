@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100020866
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 많이 틀렸어?
+P0 	: ㅇㅇ 처음이라 그런지 좀 ㅎㅎ
+P1 	: 어려운 문제도 많이 풀어보고 익숙해져야 하니깐
+P0 	: ㅇㅇ 매번 쉬운 문제만 풀고 다 맞다가 멘붕온듯
+P1 	: ㅎㅎ 중고등학교 생각하면 응용 문제는 필수지
+P0 	: 머리 썼더니 머리가 지끈지끈하대 ㅋ
+P1 	: 평소에 얼마나 안썼으면
+P0 	: 만점왕 응용도 어려워하는데 쎈수학 풀면 ㅋㅋ
+P1 	: 머리 지끈 정도가 아니라 뱅글뱅글 돌지
+P0 	: 이 위에 응용은 어느 정도 수준인지 한 번 보고 싶네 ㅎㅎ
+P1 	: 지난 학기는 응용으로 한 번 풀어봐도 괜찮을듯
+P0 	: 문제집만 너무 많으면 애가 질릴까봐 ㅋ
+P1 	: 암튼 자꾸 부딪혀 봐야해 그래야 실력도 늘어

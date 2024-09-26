@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 잘 깨는거 같아요 그래서 아침에 일어나면 좀 피곤한..
+P0 	: 소음이 많이 들리나요?
+P1 	: 그냥 제가 깊게 자는 스타일이 아닌거 같아요 ㅎㅎ 항상 언제라도 일어날수있는 느낌 ㅋㅋ
+P1 	: &name1&님은 몇시간 정도 주무시나요
+P0 	: 릴렉스하지 못하시나봐요
+P0 	: 저는 많이자고싶은데ㅜㅜㅜ7시간정도 자는거같아요
+P1 	: 아 저랑 비슷하네요
+P1 	: 근데 보면 7시간도 못 자는 사람 많더라고요
+P0 	: ㅜㅜ안타까워요 잠이보약인데
+P0 	: 치료상담찾아보셨나요
+P1 	: 아니요 그 정도까진 아닌거 같아요 ㅋㅋ
+P0 	: ㅋㅋ 쌓이면 번아웃온대요 조심하세요
+P1 	: 아 네 ㅎㅎ 나이들수록 잠 잘자는게 중요한거 같네요 ㅎㅎ
+P0 	: 꿀잠 자려면 스마트폰보지말라던데..렙업을 위해 쩔수없이..ㅋㅋ
+P1 	: 맞아요 자기전에 빛에 노출되면 안 좋다는데 쉽지 않은 거 같아요 ㅋㅋㅋ
+P0 	: 루테인먹으면서..폰도보고 살아야죠
+P1 	: 루테인 효과 좋은가봐요 ㅎㅎ 저도 사야되는데

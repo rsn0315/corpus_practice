@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100016692
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘저녁부터 다이어트 할라했는데
+P0 	: ㅋ  라면 맛있게 먹었으니 퉁!!
+P1 	: 내일부터 다이어트 ㄱㄱ
+P0 	: 알겠습니다 ~
+P1 	: 내일 아침은 머야~
+P0 	: 닭가슴살 샐러드 & 주스
+P1 	: 흑 샐러드라늬 ㅠㅠ
+P0 	: 너므 슬퍼 ㅎㅎㄹ?
+P1 	: 응 슬픈데 건강을 위해서 해야지
+P1 	: 아니야 그냥 똑같이 줘
+P0 	: 알겠어  고기 더줄라 했는데 ㅋ
+P1 	: 똑같이 줘~~
+P0 	: 알았옹~  주스는 abc
+P1 	: abc는 뭐야
+P1 	: 웅웅

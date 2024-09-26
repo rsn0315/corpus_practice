@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100031095
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집 가는 거 좋아하세요??
+P0 	: 헉 좋아하죠~
+P0 	: 디저트도 엄청좋아해서
+P0 	: 새로운 동네 가면 그동네 빵집은 꼭 가봐요
+P1 	: 오, 디저트 좋아하시는구나
+P1 	: 저는 쌀의 민족이라 밥집ㅋㅋㅋ
+P1 	: 약속 잡히면 맛집 조사해서
+P1 	: 리스트 준비합니다
+P0 	: 우와ㅋㅋㅋ
+P0 	: 그럼 한식파이신가요?
+P1 	: 아, 그건 아니에요 다른 나라 음식도 좋아해요
+P1 	: 가리는 나라 없습니다
+P1 	: 인도 멕시코 태국 베트남
+P0 	: 저두요~!~~
+P0 	: 나열하신것만보면 향신료 잘드시나봐요
+P0 	: 저도 향신료들어간거 엄청좋아해서요
+P1 	: 현지에서 먹어본적은 없는데 한국에서 파는 정도는 잘 먹어요ㅎㅎ
+P0 	: 그럼혹시
+P0 	: 마라탕도좋아하시나요?
+P1 	: 막 좋아하진 않는데 한번씩 땡기더라구요ㅋㅋㅋ
+P0 	: 맞아요ㅋㅋㅋㅋ
+P0 	: 얼마전에 샹궈를 처음먹었는데 너무맛있더라구요
+P0 	: 푹빠져버렸어요
+P1 	: 오, 샹궈는 어떤 거예요??
+P0 	: 마라랑 당면 고기 야채 듬뿍 넣고 볶은거요!
+P0 	: 밥도둑입니당
+P1 	: 이야...맛있겠어요 

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211102
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 단순 노무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 강원
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 ㅎㅎ
+P1 	: 곧 점심시간인데 점심식사 하시나요?ㅎㅎ
+P0 	: 네 간단히 햄버거로 때울 예정이에여 ㅋ
+P1 	: 그렇군요 ㅎㅎㅎ 햄버거 맛있죠
+P1 	: 어떤 햄버거를 가장 좋아하시나요~?
+P0 	: 저는 버거킹 베이컨치즈와퍼요 ㅋㅋ
+P0 	: &name2&님은 점심은 뭘로 드실거에여?
+P1 	: 저는 원래 참치김밥을 먹으려고 했는데
+P1 	: 저도 햄버거 좋아해서 ㅎㅎㅎ 햄버거 먹을까 살짝 고민이 되네요 ㅎㅎ
+P0 	: ㅋㅋㅋ
+P1 	: 버거킹에서 혹시 추천하실 만한 메뉴 있나요?! ㅎㅎ
+P0 	: 스태커요
+P0 	: 고기패티가 많아서 좋더라고요
+P0 	: 참치회도 먹고 싶네여
+P1 	: 우왕 스태커 광고로 봤었는데 맛있어 보였어요..! 오늘 먹어야겠어요 ㅎㅎㅎ
+P0 	: ㅎㅎㅎ네
+P1 	: 참치회도 술안주로 정말 좋은데 요즘 회가 정말 비싸더라고요 ㅠㅠ
+P0 	: 네 회 너무 비싸여 ㅠㅠ
+P1 	: 맞아요 ㅠㅠ 요즘 회 철이어서 방어회도 맛있을 것 같아요..! ㅎㅎ

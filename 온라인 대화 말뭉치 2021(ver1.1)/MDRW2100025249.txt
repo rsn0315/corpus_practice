@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100025249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키워본 경험이 있어?
+P1 	: 아니
+P0 	: 그렇구나.
+P0 	: 동물을 혹시 좋아하는데 사정에 의해 못키운거야 아니면 동물을 조금 무서워하거나 그런거야?
+P1 	: 동물을 귀여워하면서도 한편으로는 무서워하지
+P0 	: 아하 약간 지나가는 동물 귀여워하지만, 눈으로만 볼 수 있는??? 사실 내가 그렇거든!
+P1 	: 맞아ㅎㅎ
+P0 	: 그럼 혹시 만질 수 있는 반려동물 있어?
+P0 	: 친구 집에 가서 한 번 쓰다듬어봤다거나? 그런거!
+P1 	: 없어 무서워하니까
+P1 	: 좋아하는 동물 있으신가요?
+P0 	: 저 고양이 좋아해요! 물론 보는 것만 할 수 있지만..
+P0 	: &name2&님은요?
+P1 	: 저는 강아지, 다람쥐, 토끼 정도 좋아해요
+P0 	: 우와 모두 너무 작고 귀여운 동물들이네요!
+P1 	: 주로 귀여운 동물을 좋아해요

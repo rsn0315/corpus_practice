@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100036336
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 좋아하는 노래 있으세요?
+P1 	: 저는 실크소닉 - leave the door open이요!ㅋㅋ
+	  &name1&님은요?
+P0 	: 처음 들어봐요 무슨 장르예요?
+P0 	: 전 인디 노래 많이 들어요
+P1 	: 아 팝송이에여ㅋㅋㅋㅋ
+	  저는 한국노래는 안들어섴ㅋㅋ
+P0 	: 저도 전에는 팝송 많이 들었어요 알앤비 가수들 노래에 빠졌어서ㅋㅋ
+P1 	: ㅋㅋㅋ 제동생때문네 요즘에 알엔비 옛날노래 복습중이에요 ㅋㅋㅋㅋ걔가 선곡의 주도권을 갖고잇거든요 ㅋㅋ
+P0 	: 오ㅋㅋㅋ 알엔비 옛날노래는 어떤 거 있어요?
+P1 	: 요즘 머라이어캐리에 빠져서 자꾸 뮤직비디오 틀거든요 ㅎㅎㅎ 목소리가 참 감미로워요
+P0 	: 머라이어 캐리 노래는 캐롤송 말고는 거의 안 들어본 것 같네요
+P0 	: 머라이어 캐리 노래 중에서 특히 좋아하는 노래있으세요?
+P1 	: always be my baby요
+P0 	: 나중에 들어봐야겠네요
+P1 	: ㅋㅋㅋ 그분 곡들 하나하나 들어보니 목소리가 보물이라는걸 알게되엇어요 ㅋㅋ
+P0 	: 워낙 가창력이 뛰어나니까 욕을 해도 듣기 좋을 것 같아요ㅋㅋㅋ

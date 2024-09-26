@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요
+P0 	: 여행 많이 가보셨나요?
+P1 	: 네 저 진짜 많이 가봤어요
+P1 	: 일 년에 2-3번은 해외 나가곤 했어요!
+P0 	: 아.. 저도 일년에 1번씩 해외 갔는데 코로나 때문에
+P1 	: 그죠 저도 코로나ㅜㅜ
+P1 	: 진짜 앞으로 언제 또 나갈 수 있을지ㅜㅜ 모르겠네요
+P0 	: 백신맞으면 나갈 줄 알았는데 요즘 더 심하네요
+P1 	: 오늘 2000명 넘었더라고요ㅜㅜ
+P1 	: 해외는 커녕 집 근처도 못나가고 있어요ㅜㅜ
+P0 	: 네 연휴 때문에 더 그런것 같아요
+P1 	: 국내여행이라도 가고 싶어요ㅜㅜ
+P0 	: 저도요 제주도라도
+P1 	: 제주도 진짜 비싸더라고요
+P1 	: 동남아 다녀오는게 더 싸게 먹힐 것 같더라는요ㅜㅜ
+P0 	: 바가지 때문이죠

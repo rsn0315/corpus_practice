@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008731
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 운동하시나요?
+P0 	: 집앞 필라테스 다니고 있어요!
+P1 	: 오 저도 할까 고민중인데
+P1 	: 자세교정에 도움이 좀 되나요?
+P0 	: 네 꽤 도움 돼요! 저도 척추때문에 시작했어요
+P1 	: 척추측만증이세요?
+P1 	: 척추에도 도움이 많이 되나봐요
+P0 	: 네네... 자세가 안 좋다보니...
+P0 	: 바른 자세를 알려주는 것부터 시작하니까 도움이 되는 것 같아요
+P1 	: 저도 척추측만증이라서 도움된다니 시작해야겠네요
+P1 	: 바른자세를 유지하는게 어려운 일인 것 같아요ㅠㅠ
+P0 	: 맞아요 ... 인간의 몸이란...
+P1 	: 어렵네요.. 영양제도 챙겨드시나요?
+P1 	: 건강챙기려고 몇몇개 먹기시작했어요 !
+P0 	: 저는 비타민 D랑 오메가쓰리 먹고 있어요!
+P1 	: 오 저도 그거 두개에 마그네슘, 비타민B 먹고있어요
+P1 	: 확실히 비타민d는 챙겨먹어야겠더라구요
+P0 	: 맞아요 아침에 일어나는 속도가 다른 것 같아요
+P1 	: 약간 무기력하지않게 해주는 게 있어요!!

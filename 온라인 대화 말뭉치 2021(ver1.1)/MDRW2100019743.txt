@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019743
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 읽은 책은무엇인가요
+P1 	: 저는 김영민 교수님 책인 아침에는 죽음을 생각하는 것이 좋다 를 읽었어요!
+P0 	: 아하!!!! 나중에 읽어보겠어여!
+P1 	: 민트 님은 최근에 책 읽으셨나요?
+P0 	: 저는 추리소설이요!
+P1 	: 오 어떤 추리소설인가요?
+P0 	: 보통 밀실살인관련책을 좋아해요!
+P1 	: 헐 책 제목이 무엇인가요??!?! 저도 보고 싶네요ㅋㅋㅋㅋ
+P1 	: 밀실살인관련책은 잘 읽지는 못하지만 흥미로워요ㅋㅋㅋ
+P0 	: 그죠그죠!!!!!
+P0 	: 밀실살인게임 추천해요!
+P1 	: 오 그게 제목인가요??!
+P0 	: 네네네네!!
+P1 	: 꼭 읽어볼게요ㅋㅋㅋㅋ 민트 님은 베스트셀러 책 읽어보신 적 있으신가요?
+P0 	: 네네!!

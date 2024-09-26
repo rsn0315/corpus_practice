@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007152
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네ㅋㅋ 그렇죠! &name1&님은 연애중이신가요?
+P0 	: 앗 ㅋㅋㅋ 네 ㅋㅋㅋ
+P0 	: &name2&님은요?
+P1 	: 저는 연애는 안하고 있습니다ㅋㅋ
+P1 	: 결혼은 했습니다ㅋㅋ
+P0 	: 아!! ㅋㅋㅋㅋ 결혼하신지는 얼마나 되셨어요?
+P1 	: 저 식은 작년 11월에 올렸어요
+P1 	: 정말 운좋게 1단계 막차 탔네요^^
+P0 	: 우와 신혼이시구나! 코시국 결혼도 역시 ㅠㅠ 쉽지 않죠
+P0 	: 저는 남자친구랑 지금 8년째 연애중이에요..ㅠㅠㅋㅋㅋ
+P1 	: 우와 8년 엄청 오래되셨네요!!!
+P0 	: 그쵸! 어쩌다 보니 그렇게 됐네요..ㅋㅋㅋ
+P1 	: 그럼 학생때부터 연애하셨겠어요!
+P0 	: 네네 20대를 같이 보내는 중인데.. 이러다 얼렁뚱땅 결혼하나 싶고 그렇네요 ㅎㅎ
+P1 	: 때가 되면 어느 순간 결혼하실 거에요
+P1 	: 어어?하다보면 식장에 계실겁니다
+P0 	: 아 ㅠㅠㅠㅋㅋㅋ 결혼하고 나서 가장 좋은 점은 뭐예요?
+P1 	: 같이 있을 수 있는거요
+P1 	: 근데 그게 단점이기도 ^^;;
+P0 	: 알 것 같아요 ㅎㅎㅎ

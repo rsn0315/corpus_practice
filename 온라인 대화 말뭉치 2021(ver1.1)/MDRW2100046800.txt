@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 오늘 금요일인데 오후에 약속있으신가요?
+P0 	: 네친구들약속이요
+P1 	: 친구들이랑 저녁에 뭐 드시기로 하셨나요?
+P0 	: 피자치킨맥주요
+P1 	: 크 최고의 조합이네요ㅎㅎ
+P0 	: 네 조용히 혼자있고싶어서요ㅎ
+P1 	: 집에서 시켜드시는건가요?
+P0 	: 배달이요ㅎ
+P1 	: 사람많은 시끌벅적한곳보다는 배달시켜서 먹는게 더 좋긴해요 ㅎㅎ
+P1 	: 피자치킨 두개다 시키는거면 피자나라 치킨공주 여기서 시키시는건가요?
+P0 	: 아뇨
+P0 	: 따로따로요
+P0 	: 도미노 치킨은 네네
+P1 	: 헐 저도 네네치킨 좋아해요! ㅎㅎ
+P1 	: 오늘 친구분들이랑 좋은 저녁시간 갖길 바랄게요:)

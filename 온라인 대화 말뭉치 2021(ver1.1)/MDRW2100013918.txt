@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100013918
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 나는 강아자 두마리를 키우고있어
+P0 	: 큰 애는 &name3&고
+P1 	: 쿠키
+P0 	: 작은 애는 &name4&야
+P1 	: ㅎ그럴거같았어
+P0 	: 입맛이 까다로워서 나우 사료만 먹는 고급진 애들..
+P0 	: 고구마말랭이를 가장 좋아해
+P0 	: 너는 반려동물을 키우고있니?
+P1 	: 나도 고양이 키우는데 처방사료라비싸
+P1 	: 간식주면 설사해서 잘안줘
+P1 	: 그래서 성격이 모나졌어 물어 사람을
+P1 	: 어제 스크래쳐 산거 줬더니 좋아서 긁어
+P0 	: 어머 너가 조금 더 잘해주면 안물지 않을까?
+P1 	: 어떻데 더잘해
+P0 	: 오 고양이는 스크래쳐가 있구나
+P0 	: 우리 강아지는
+P0 	: 인형 많이줬는데
+P0 	: 애기 때 처음으로 받은 인형만 좋아해
+P0 	: 둘 다
+P1 	: 오 우리는 상자만 있으면돼
+P0 	: 그게 첫 선물이라 기분이 좋은가봐
+P1 	: ㅋㅋㅋ귀엽다 애착인형인가
+P0 	: 너덜너덜해서 꼬매고 또 꼬매고..
+P1 	: 나도 집에인형많아
+P1 	: ㅎ..
+P1 	: 고양이껀아니고..
+P0 	: 우리 강아지 줄래?
+P1 	: 아니..
+P1 	: &name3& &name4&를 내게 줘
+P0 	: 미안
+P0 	: 안녕

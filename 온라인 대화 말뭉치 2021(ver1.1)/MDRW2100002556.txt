@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100002556
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 여행좋아하시나요?
+P1 	: 네 요즘 못가서 아쉬워요
+P1 	: 마지막여행은 어디 가보셨어요?
+P0 	: 저 강릉이요ㅋㅋㅋ
+P0 	: 님은요?
+P1 	: 저는 여수요
+P1 	: 비가 많이와서 제대로 구경은 못했지만요
+P0 	: 와우 여수좋죠
+P0 	: 장범준의 여수
+P1 	: 네 음식도 맛있고 좋았어요
+P1 	: 여행은 계획을 철저히 세우고 다니시는 편이세요?
+P0 	: 아니요 저는
+P0 	: 그냥 여행지만 정하는 스타일이예요ㅋㅋㅋ
+P0 	: 거기에 맛집정도?
+P1 	: 저도 그게 느긋해서 좋더라고요
+P1 	: 계획대로 안되면 짜증나서 차리리 안세우는게ㅋㅋ
+P1 	: 여행은 쉬러가는거니까요ㅋㅋ
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 숙소랑 여행지 교통편정도면
+P0 	: 끝이죠
+P1 	: 네 예전에는 막 엄청걸으면서 여기저기 다녀서
+	  저녁에 파스붙이고 그랬는데
+P1 	: 지금생각하면 왜그랫나 싶어요
+P0 	: ㅋㅋㅋ맞아요ㅋㅋㅋ
+P0 	: 어릴때의 패기라해야하나요
+P0 	: 나이드니 편한게좋더라고요

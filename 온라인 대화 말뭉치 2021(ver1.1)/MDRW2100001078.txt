@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210723
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 여행 좋아하세요?
+P1 	: 당연하죵ㅋㅋㅋ
+P0 	: 오오 최근에 다녀오시거나 가고싶은 여행지 있어요?
+P1 	: 저는 미국 뉴욕 가고싶네용
+P1 	: 엄청 높은 건물들을 보고싶어서..ㅋㅋ
+P0 	: 크흐ㅠㅠㅠ 뉴욕 좋죠
+P0 	: 뉴욕 건물들이 한눈에 보이는 전망대에서 사진도 찍고 그러고 싶어요..
+P1 	: 그쵸 ㅜㅜ그런감성 너무좋습니다
+P0 	: 맞아요ㅠㅠㅠ 저는 또 특히 유럽도 가보고싶더라구요
+P1 	: 유럽은 왜용??
+P0 	: 유럽 건물들도 너무 예쁘고 특히 유럽만의 감성 있잖아요
+P0 	: 그게 너무 좋더라고요
+P1 	: 아 그 감성 알죠
+P1 	: 이쁜 지붕들 ㅋㅋㅋ
+P0 	: 맞아요ㅋㅋㅋㅋ
+P1 	: 크크
+P0 	: 제주도 가보셨어요?
+P0 	: 요즘 방학이라고 제주도에 꽤 놀러가던데
+P1 	: 아뇨 ㅠㅠ
+P1 	: 가고싶긴한데
+P1 	: 위험하잖아요 코로나 ㅠ
+P0 	: 아 맞아요ㅠㅠㅠ
+P1 	: 코로나 끝나면 가야죠 여행 ㅋㅋ
+P0 	: ㅋㅋㅋ 맞아요 얼른 끝났으면 좋겠네요

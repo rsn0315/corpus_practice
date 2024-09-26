@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041969
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 저녁 김치찌개 남은거 먹을지 마라샹궈 먹을디 고민
+P1 	: 뭐머거요?
+P0 	: 오마라샹궈
+	  저는 버거킹요!
+P1 	: 와 오늘 버거킹 먹나요 버거킹 뭐가 맛있어요?
+P0 	: 저는 와퍼밖에안먹어본듯해요!
+P0 	: 오늘요기요행사해서ㅎㅎ
+P1 	: 우와 행사하는구나
+P1 	: 저는 무슨 새우 와퍼인가 진짜 맛났던거같아요
+P0 	: 오새우와퍼궁금해요
+P1 	: 버거킹 조아요 뭐 골랐나요
+P0 	: 그냥와퍼시켜쪄여!
+P0 	: 저녁정햇어요?
+P1 	: 저녁 아마도 남은 김치찌개 먹을것같아요
+P0 	: 아하 마라샹궈를참앗군요
+P1 	: 네네 마라샹궈 줄여야해요ㅠ
+P1 	: 버거킹 맛나겠다
+P0 	: 맛납니다 또 2버거때렷어요
+P1 	: 우아 잘했어요
+P1 	: 콜라됴 드시나요
+P0 	: 그럼요세트때렷어요
+P0 	: &name2&도
+P0 	: 밥두그릇먹어요!

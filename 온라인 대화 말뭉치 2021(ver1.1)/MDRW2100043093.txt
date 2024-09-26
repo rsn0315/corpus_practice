@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100043093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name3&뭐해
+P1 	: &name3& 집에
+P1 	: &name4&는
+P0 	: 집에
+P1 	: &name5&이는
+P0 	: 누워있을듯
+P1 	: 본가언제가??
+P0 	: 토요일에가려고
+P0 	: 해초들고
+P1 	: 간식은..
+P1 	: 해초는 너먹을거잖아
+P0 	: &name5&이 눈물자국나는게 간식 알러지래
+P1 	: 어어 그거 들었다
+P0 	: 있는것만먹이고 끊으려고
+P1 	: &name4&는 알러지없어?
+P0 	: 당근 무 배추오 바꾼다
+P1 	: 올
+P0 	: &name5&이도 재작년부터 생겼어

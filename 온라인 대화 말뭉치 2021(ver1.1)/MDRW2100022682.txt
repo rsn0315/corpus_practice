@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100022682
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근구매하신거
+P0 	: 있으세요?
+P1 	: 안녕하세요
+P1 	: 최근에
+P1 	: 고양이 간식 구매했어요.
+P0 	: 고양이와 같이 사시는구나
+P1 	: 네 두마리요
+P1 	: 고양이 좋아하세요?
+P0 	: 네 깜찍한생명체죠
+P0 	: 뭐사셨어요?
+P1 	: 고양이 간식샀어요
+P1 	: 차오츄르 샀어요
+P0 	: 차오츄르인가요
+P1 	: 네 &name1&도 사보셨나요
+P0 	: 네모간식이름이 기억이 안나요
+P1 	: 제가 사 본 네모난 간식은 템테이션이었어요
+P1 	: 템테이션 사셨나요?
+P0 	: 아 맞아요
+P0 	: 연어맛이었어요
+P0 	: 애옹 옷도 사시나요?
+P1 	: 그러셨구나 고양이옷은 전에는 샀었는데 잘 안입어서
+P1 	: 개키우는 집에 선물보내고
+P1 	: 했어요
+P0 	: 애옹이 입었다면 더 귀여웠겠어요
+P1 	: 네 귀엽죠 말도못해요
+P0 	: 꽃게 사실건가요?

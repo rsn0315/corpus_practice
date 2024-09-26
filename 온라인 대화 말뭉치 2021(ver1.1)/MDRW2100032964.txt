@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 세탁기가 고장이 났나요
+P0 	: 고장까진 아닌데 무척 오래되어서 안에 곰팡이도 피었어요
+P1 	: 엄청 오래 쓰셨나 봐요
+P0 	: 기능은 되는데 아무래도 찜찜해서 이제 보내려해요
+P1 	: 세탁기 모델 받은게 있나요
+P0 	: 통돌이 살건데 아무래도 대우가 좋더군요
+P1 	: 통돌이가 이불도 빨 수 있어요
+P0 	: 30만원대 정도에서 알아보고 있어요
+P1 	: 새 제품을 사면 헌 제품을 수고해 가나요
+P0 	: 네 같은 제품군으로 수거해간다고해요 처치곤란이니까요
+P1 	: 그래서 어디서 구입할 거예요
+P0 	: 지금 지마켓이 할인하니까 20%할인하거든요
+P1 	: 그러면 구입해야겠네요
+P0 	: 재난지원금을 받으시나요

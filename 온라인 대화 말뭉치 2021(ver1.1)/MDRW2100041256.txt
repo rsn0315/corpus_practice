@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100041256
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 네 두부김치 랑 무국 만들어 먹었죠
+P1 	: 저녁 메뉴는 무얼 드셨나요
+P0 	: 저는 찜닭이요
+P0 	: 요리 잘하시나봐요??
+P1 	: 배달한 찜닭 인가요
+P1 	: 잘하지는 못해도 먹을 만큼은 해요
+P1 	: 요리는 좀 하시나요
+P0 	: 저는 거의 못해요 찜닭도 마트 찜닭이었어요ㅋㅋㅋ
+P0 	: 좋아하시는 음식 있으신가요?
+P1 	: 전 개인적으로 비지장을 좋아해요
+P1 	: 어떤 음식 좋아 하나요
+P0 	: 저는 떡볶이요
+P0 	: 비지장이 그 콩으로 만든 음식 맞아요?
+P1 	: 네 맞아요
+P1 	: 두부 만들면서 나온 자투리라고 볼수 있죠
+P1 	: 매운 음식 좋아하나요
+P0 	: 매운 건 잘 못먹지만 매운 음식은 좋아해요
+P0 	: &name2&님은 매운 음식 잘 드시나요?
+P1 	: 아니요
+P1 	: 전 매운음식 못 먹어요
+	  먹으면 속이 많이 아퍼요
+P0 	: 헐...그러시군요

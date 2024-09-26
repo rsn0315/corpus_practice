@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 노래있으신가요?
+P1 	: 최근에는 안예은씨의 창귀 듣고있어요
+P1 	: 들어본적있으신가요?
+P0 	: 헉 아니요! 어떤 스타일의 노래인가요
+P1 	: 장르가 공포인데 타령같으면서도 섬뜩한 노래예요
+P1 	: 노래장르로 공포를 내세우는게 신기해서 들어봤다가
+P1 	: 매력적이라 계속듣고있어요
+P0 	: 헉 저는 상사화 좋아했어요
+P1 	: 상사화도 좋죠 독특한 노래 많이 내시는거 같아요
+P0 	: 맞아요 근데 모든 컨셉을 다 잘 소화하시는 것같아요
+P1 	: 맞아요 좋아하는 노래 있으신가요?
+P0 	: 전 요즘 루시의 조깅 많이들어요!
+P1 	: 나중에 시간나면 들어볼게요!
+P1 	: 왠지 취향일것만 같아요
+P0 	: 저도 추천으로 들었는데 좋더라구요~ 저도 창귀 한번 들어봐야겠어요!
+P1 	: 창귀 듣다보니 자연스레 듣게된 안예은씨 출항도 좋았어요
+P0 	: 어 그건 들어봤어요!! 다 좋더라구요

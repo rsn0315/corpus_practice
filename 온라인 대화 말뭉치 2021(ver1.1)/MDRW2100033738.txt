@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033738
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가족이랑 같이 살고 계세요? 아니면 자취?
+P0 	: 전 가족이랑 같이 살고 있어요~ &name2& 님은요?
+P1 	: 저도 가족이랑 같이 살고 있어요
+P0 	: 오 그럼 집안일 분담은 어떻게 하시나요?
+P1 	: 여유로운 사람이 도맡아서 해요
+P1 	: 방학기간에는 제가 하고, 시험기간에는 부모님이 하시는 방식으로요
+P0 	: 오오 그렇군요! 저는 주로 설거지, 방 청소, 시간 날 때 집 청소를 하는 편이에요
+P1 	: 역할 분담을 하셨군요
+P0 	: 아ㅋㅋㅋ 네 그런 편이죠 집에 계속 있는 사람들이 3명이나 있어서 청소할 땐 나누는게 편하더라구요
+P1 	: 그건 좋네요
+P0 	: &name2& 님은 가족이랑 연락 많이 하세요?
+P1 	: 저는 같이 살고 있는 가족 외에도
+P1 	: 할아버지 할머니께는 일주일에 한번씩은 연락드려요
+P0 	: 오... 엄청 좋아하시겠어요! 저는 할머니댁이 근처라서 주로 뵙기만하고 연락은 잘 안하거든요
+P1 	: 저는 근처여도 코로나 때문에 찾아뵙기를 잘 안해요ㅠ
+P1 	: 제가 백신을 아직 못맞아서...
+P0 	: 앗... 그렇군요 좀 슬프네요...ㅠㅠ 저희도 백신 못 맞는 사람들 때문에 이번 추석도 안 만난다고 하시더라구요
+P1 	: 이번 추석도 힘들군요...
+P0 	: 그러게요...ㅠㅠㅠ 아쉽게 되었어요 이번에도 집 안 가족들하고만 추석을 보내겠네요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100037758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 그곳은 오늘 날씨가 어떤가요?
+P1 	: 흐린데 비는 안와요
+P1 	: &name1&님 동네는 어때요?
+P0 	: 여기는 어제 저녁부터 계속 비가 많이 오다가 
+	  지금은 잠시 소강상태에요
+P1 	: 다행이네요 비로 인한 피해는 없으시죠?
+P0 	: 네 큰 피해는 다행히 없어요
+P0 	: 요즘 비가 너무 자주 내리는듯해요
+P1 	: 맞아요 장마가 무서워요... 이상태가 일주일이 넘었죠 아마
+P0 	: 주말을 제외하고는 계속 내렸던거 같아요
+P0 	: 8월에 비가 내리지 않았던 날이 열흘밖에 안 된다고 하더라구요
+P1 	: 와 정확한 수치로 보니 엄청 심했군요
+P0 	: 네 저도 오늘 이야기 들었는데 좀 충격이었어요
+	  비가 그렇게나 계속 내렸구나 싶더라구요
+P1 	: 아래 지방 뉴스에서 보면 재난영화급이던데...
+P0 	: 그쵸.. 넘 무섭더라구요
+P1 	: 피해 복구 잘 했으면 좋겠어요
+P0 	: 맞아요  
+	  그리고 이제 비 좀 그만 오고 맑은 날씨 좀 보고 싶네요
+P0 	: 안녕하세요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 제주도에서 기억에 남는 음식 있나요
+P1 	: 어릴때라 잘 기억 안나진 않네요
+P1 	: 흑돼지 먹으러 갔던거 같아요
+P0 	: 흑돼지..맛있죠 멜젖 아세요?
+P0 	: 멜젓..
+P1 	: 들어만 봤어요ㅋㅋㅋ
+P0 	: 흑돼지랑 잘 어울리더라구요 ㅎ
+P1 	: 어떤거에요? 새우젓같은건가요?
+P0 	: 네 그런식인것 같더라구요 요즘은 마트에서 아예 팔더라구요 ㅎㅎ
+P1 	: 아ㅋㅋ 요샌 안 파는게 없긴 하져
+P0 	: 마트다면 어떤거 사세요? 먹을거
+P1 	: 마트면 보통 과자나 음료 같은걸 사요. 유제품도 자주 사고요.
+P0 	: 그러시군여 좋아하는.과자 뭔가요
+P1 	: 홈런볼이요ㅋㅋ 얼려먹어두 맛있어요
+P1 	: 맞아요. 약간 빵같기도 하구ㅋㅋ
+P0 	: 어릴땐 홈런볼 약간 고급과자느낌이었어요..ㅎㅎ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100024953
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 패션에 관심 많으세요?
+P1 	: 관심은 있는데 잘 따라가진 못해요 &name1&님은요?
+P0 	: 저는 관심이 많지 않은편이라 기본템만 사서 입는 스타일이에요
+P0 	: 어떤 스타일의 패션 좋아하세요?
+P1 	: 약간 페미닌한 스타일좋아해요
+P0 	: 여성스러운건가요?
+P0 	: 꾸준히 하는 운동은 있나요?
+P1 	: 아뇨 없어요 운동하는거 있으세요?
+P0 	: 저는 gx하고 있어요
+P0 	: 스쿼트하고 프레스하고 그런 근력운동
+P1 	: 코로나에 문 안닫고 하나봐요
+P0 	: 네 샤워는 제한됐는데 체육관 운영은 하더라고요
+P1 	: 동네마다 다른가봐요
+P1 	: 저희는 운영은 하고 인원수를 제한해요
+P0 	: 수영을 좀 배우고싶은데 수영장은 한동안 정말 가기힘들거같아요
+P1 	: 저희동네엔 열기는 열더라구요
+P1 	: 근데 눈가리고 아웅이라 위험해보였어요
+P0 	: 그렇구나 수영장은 아무래도 좀 더 위험한거같아요

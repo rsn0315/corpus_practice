@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 나한데 스벅 쿠폰 여러개 있던데.. 올때 스벅 어떠 십니까??
+P0 	: 뭐 마실라고??
+P1 	: 아아??
+P0 	: 사이즈는??
+P1 	: 그란데 플리즈~~
+P0 	: 일회용컵에??
+P1 	: 아니 차에 텀블러 있어.
+P0 	: 그럼 할인 받아?? 아님 별적립??
+P1 	: 아마 알아서 설정되어 있을껄??
+P0 	: 알았어.
+P0 	: 내껀???
+P1 	: 알아서 시키세요.ㅋㅋㅋ
+P0 	: 오케이
+P0 	: 케이크는???
+P1 	: 먹고 싶으면 암꺼나!!
+P0 	: 알았어!!

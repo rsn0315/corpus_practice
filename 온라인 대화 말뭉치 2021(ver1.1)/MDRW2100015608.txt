@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015608
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~~
+P0 	: 요즘 다이어트나 운동하시나요?
+P1 	: 아뇨 ㅜㅜㅋㅋㅋㅋ 작심삼일이라 안하고 있어요 ㅌㅋㅋㅋㅋ
+P0 	: 저두요,,
+P0 	: 혹시 백신은 맞으셨나요??
+P1 	: 저 1차는 맞았어요 ㅋㅋㅋㅋㅋ
+P0 	: 아하! 건깅이 최고죠 ㅋㅋ
+P1 	: &name1&님은 맞으셨나요??
+P0 	: 네 전 2차까지 맞았어요 ㅎㅎ
+P1 	: 오 어떤거 맞으셨어요??
+P0 	: 전 화이자요~
+P1 	: 저도 화이자예요!
+P1 	: 부작용같은건 괜찮으셨나요??
+P0 	: 아하! 전 운좋게도 아무부작용도 없었어요ㅎㅎ
+P1 	: 와 ㅠㅠㅠ 부러워요
+P1 	: 저는 1차때 이런저런 부작용들이 좀 있었어서
+P1 	: 2차가 걱정이네요 ㅠㅠ
+P0 	: 아정말요?? 파이팅하셔요,, 끼니든든하게챙겨먹고가시길권유드려요 ㅎㅎ

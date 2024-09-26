@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100000698
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 가끔은 안 좋음 ㅠ
+P0 	: 그렇군 ㅜㅜ 미세먼지 넘 싫다
+P1 	: 부천은 살기 좋은데 미세먼지땜에 싫다
+P0 	: 부천이 미세먼지 심하나?
+P1 	: 응 다른 지역에 비해 많이 심하다 ㅠ
+P0 	: 이런 ㅜㅜ 안좋구만
+P1 	: 공기 좋은곳으로 이사 가야지
+P0 	: ㅠㅠ그런곳이 있는가
+P1 	: 나이 들면 공기 좋고 물 좋은곳이 최고여
+P0 	: 그렇치~~ 시골 가야겠네 ㅋㅋ
+P1 	: 엄만 충남 태안이 좋다
+P0 	: ㅋㅋ 갑자기 태안?
+P1 	: 바다랑 안면도 소나무가 천지니 내가 딱 좋아하는곳 ㅎ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100042226
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네 안녕하세요
+P0 	: 여행좋아하시나요??
+P1 	: 네 좋아하는 편이에요
+P1 	: 좋아하는 여행지 있으세요?
+P0 	: 저는 대만 여행이 너무 재미있어서 기억에 남는 편이에요!
+P0 	: &name2&님은요?
+P1 	: 전 통영이요. 여름에 자주 갔어요.
+P1 	: 대만은 어떤가요?
+P0 	: 아 통영도 좋죠~!
+P0 	: 대만은 뭔가 일본과 중국이 합쳐져서 특유의 아기자기함이 있어서 좋아요!
+P0 	: 향신료에 거부감 없으면 음식들도 너무 괜찮고요!
+P1 	: 오... 대만도 고수 많이 먹나요?
+P0 	: 음 고수도 있긴 한데 마라나 약간 중국쪽 향신료들이 좀 들어가더라구요!
+P0 	: 그래도 심한편은 아니었어요!
+P1 	: 가리는 편은 아니어서ㅋㅋ 티비에서 보면 맛있어보이더라구요
+P0 	: ㅎㅎ 딤섬도 괜찮고 잔잔한 가정식들이 너무 괜찮더라구요! 무엇보다 밀크티가 정말 찐하고 맛있어요
+P1 	: 해외여행 갈 수 있게 되면 가보고 싶네요
+P0 	: ㅜㅠㅜㅠ 빨리 코로나가 좋아져서 다시 해외여행 다니고 싶네요 ㅠㅠ
+P1 	: 국내도 다니기 어려워서ㅠㅠ 여행 못간지 오래네요
+P0 	: 맞아요 ㅠㅠㅠ 쉽게 갈 수가 없죠 호캉스도 걱정되는 시국이라 참 아쉬워요

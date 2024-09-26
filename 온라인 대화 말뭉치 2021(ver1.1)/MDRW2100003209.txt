@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100003209
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 역시 악명 높은 롯데 택배네
+P1 	: 하긴 문의하기 해도 언제 답변 받을지 모르고
+P0 	: 응응..ㅋㅋㅋㅋ와 설마~하고 기다렸는데 설마가 사람을 역시 잡더라.
+P0 	: 이제 진짜로 버스로 15분 거리에 있는 터미널에 물건이 도착했는데 다음주에 받아야한다니.
+P0 	: 당장 달려가서 내가 찾아오고 싶어.
+P1 	: 뭔가 촉이 왔나보네
+P1 	: 헐 다음주라니 머리핀인데 너무 오래 걸린다
+P0 	: 송장 번호 조회가 판매자가 보낸 다음날부터 뜨는건 진짜 처음 봤어.
+P1 	: 택배사가 인도 받고 늦게 바코드 등록한가봐
+P0 	: 흑흑..슬프다. 너는 오늘은 뭐 산거 있어?
+P1 	: 오늘은 딱히 산거 없어
+P1 	: 근데 티트리 오일 싼거 있나 검색함
+P0 	: 아 어제 말했던 식염수팩이랑 같은 이유로?
+P1 	: 응 맞아
+P1 	: 요즘 마스크때문에 트러블 심해서 알아보고있었어
+P0 	: 헐ㅠ 근데 나도...진짜 화나는게 딱 마스크랑 닿는 부위에 막 트러블+두드러기가 계속 나서 너무 스트레스야...안 쓸 수도 없는데
+P0 	: 티트리 오일 쓰고 너는 꼭 나아지면 좋겠다!
+P1 	: 맞아 요즘은 마스크 안 쓰고 나갈수 없지
+P1 	: 딜 뜨면 사야지
+P0 	: 보통 어디에서 사는데?
+P1 	: 네이버 쇼핑이나 11번가에서 사

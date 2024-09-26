@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030164
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&님은 드라마 보는 거 좋아하세요?!
+P1 	: 드라마 싫어해요!
+P0 	: 앗 노래는 자주 들으시나요?
+P1 	: 넹
+P0 	: 좋아하는 가수 있으세요?
+P1 	: 켈리클락슨 좋아해요
+P0 	: 들어봐야겠네요 ~
+P1 	: 노래 좋은거 추천 해주실수있나요?
+P0 	: 혹시 올리비아 로드리고 아시나요?
+P0 	: 그 가수 데자부란 노래가 좋더라고요
+P1 	: 몰라요 한번 찾아들어봐야겠네요
+P1 	: 잔잔한건가요?
+P1 	: 아니면 지르는?
+P0 	: 약간 잔잔한데 하이라이트가 좀 쎈 느낌이에요
+P0 	: 굿 포 유는 좀 지르는? 느낌에 가깝고요
+P1 	: 어 굿포유 아는거같은데
+P0 	: 이번에 나왔던 거라 아실 것 같아요

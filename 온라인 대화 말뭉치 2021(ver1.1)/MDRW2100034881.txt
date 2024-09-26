@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100034881
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오 특정업체만시키나요?
+P1 	: 이용하던곳을 계속 이용하는편이에요
+	  가끔 다른 곳 주문 할 때도 있지만요
+P0 	: 오 거기가 저렴한가요?
+P1 	: 저렴하다고 생각해요
+P1 	: 일반 원두는 200+200=400g 9000원 정도
+	  디카페인은 500g 17000 정도에요
+P0 	: .그 정도 양이면 한달에 몇번먹어요?
+P1 	: 보통 구매해서 한달정도 먹으니까, 약 25번정도?
+P0 	: 오 다른가족들도 마시지않나요?
+P1 	: 엄마와 저 이렇게 둘이 커피를 주로 마셔요
+P0 	: 오 그럼 50회겟네요??
+P0 	: 집에서ㅜ핸드드립하시는거세요?
+P1 	: 그라인더로 갈아서 머신에 넣어 내리는데,
+	  내리면 6잔정도 나와요 (커피잔 기준)
+P0 	: 오...집에 그라인더랑 머신이 다 있나보네오. 그러면 매일 내리는거에요?
+P1 	: 거의 매일이긴 한데 요즘은 저 혼자 마셔서 내리지 않아요
+P1 	: 혼자 마실때는 카누나 더치팩을 주로 이용해요
+P0 	: 오.. 카누 맛잇어요??
+	  g7은 마셔보셧어요?
+P1 	: 마셔본거같은데 잘 기억이 안 나요ㅠㅠ
+	  카누 괜찮아요
+P0 	: 오 더치팩 맛잇엇겟네여
+P1 	: 크게 맛있는지는 모르겠지만 무난한거 같아요

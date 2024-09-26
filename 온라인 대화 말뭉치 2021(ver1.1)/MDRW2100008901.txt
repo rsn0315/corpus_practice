@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008901
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>선후배
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 보이나
+P1 	: 보인다
+P0 	: 오늘 뭐 먹었어
+P1 	: ......
+P0 	: 뭐 말했는지 안보여
+P0 	: 난 오늘 훠궈 먹었어
+P0 	: 부럽지
+P1 	: 부럽다.. 난 go추마요순살치킨 먹었는데
+P1 	: 이마트에서 팔거든... 진짜 맛잇더라
+P0 	: 와 맛있겠다 배달 안되고 가서 사먹어야하나?
+P1 	: 그런 거 같더라. 아니면 그냥 업체? 브랜드에도 비슷한 거 팔긴 하는데
+P1 	: 맛도 비슷하지 않을까?
+P0 	: 아하 신기하네 다음에 이마트가보면 찾아봐야지 음료는 뭐 마셨어 콜라?
+P1 	: 아니 물 마셧어
+P1 	: 훠궈 어디서 먹엇어
+P0 	: 이런 훠궈는 당연 건대지 여전히 맛있더라 오늘은 좀 손님 많았어
+P1 	: 이 시국인데 여전하구나.. 훠궈에 뭐뭐 넣어 먹엇어?
+P0 	: 나 버섯이랑 두유피랑 소 돼지 뭐 많이 넣었는데 JMT 벌써 또 먹고 싶어 걍 요즘 맛있는 거에 돈 바르고 싶어

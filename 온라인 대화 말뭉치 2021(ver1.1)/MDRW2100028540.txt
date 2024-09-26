@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100028540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 반려동물 있으세요?
+P1 	: 아뇨.  기르지 않아요
+P0 	: 그렇군요 저두요
+P0 	: 혹시 고양이와 개 중 어느 쪽 더 좋아하세요?
+P1 	: 요즘엔 고양이가 더 귀여운거같아요
+P1 	: 도도하니 새침하니 보기만해도 좋더라구요
+P0 	: 아 그게 고양이의 매력이죠
+P0 	: 전 개가 좀 더 좋아요 주인에게 애정을 잘 보여줘서요
+P1 	: 반려동물기르시나요?
+P0 	: 아니요 그냥 보기만 해요
+P1 	: ㅎ 저도 만지는건 싫고 보는것만 좋아해요
+P0 	: 그렇군요  전 어릴 때 물릴 뻔한 경험 몇번 있어서요 지금처럼 반려동물 인식이 별로 없어서 막 방치하더라구요
+P1 	: 예전엔 그랬죠.  저도 예전에 도사같은거에 물렸는데 아직도 생각나요
+P0 	: 많이 아프셨겠네요 지금처럼 밖에 나갈 때 목줄하고 그러면 참 좋았을텐데요
+P1 	: 그러게요. 어렸을때라 저보다 더 큰 느낌이였어요
+P0 	: 어릴 땐 유독 동물이 크게 느껴지죠 확실히 개에 비하면 고양이는 먼저 접근 안해서 좋네요
+P1 	: 네... 거리두기^^

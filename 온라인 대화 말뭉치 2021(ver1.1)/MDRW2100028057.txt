@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100028057
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 흥미는 있는데 시국이 이래서 못가봣어요
+P0 	: 저도
+P1 	: 어디가고싶으세요?
+P0 	: 유럽ㅇ
+	  이요
+P1 	: 저도 유럽 독일가보고싶은데 인종차별 넘 무서워요 ㅋㅋㅋ
+P1 	: ㅜㅜ
+P0 	: 특정지역만 그런것 아닌가오?
+P1 	: 그건 모르겠어요 ㅋㅋㅋ근데 말이 아예 안통하니 무서워요 ㅋㅋ
+P0 	: 하긴요
+P1 	: 아무래도 전 영어도 잘못해서 ㅎㅎ
+P0 	: 패키지 있자뇽ㅇ
+P1 	: 오 그것도그렇네요 그거 함 가봐야겠어여 ㅋㅋㅋ
+P0 	: 준비만 하죠

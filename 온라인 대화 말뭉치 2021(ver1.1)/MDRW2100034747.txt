@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100034747
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 미용실 자주 다니시나요?
+P1 	: 네 며칠전에도 볼륨펌했어요ㅋ
+P1 	: 미용실 자주가세요?
+P0 	: 이쁘게 잘나왔나요?
+	  전 미용실 아주 어쩌다 한 번 가네요.ㅋ
+P1 	: 네 이번에는 만족해요
+P1 	: 지난번에는 파마했다가
+P1 	: 머리 다 타서ㅜㅜ
+P1 	: 이번에 거의 잘랐거든요
+P0 	: 엥; 미용실도 잘 골라야 겠어요..
+P1 	: 네ㅠㅠ정말ㅋㅋㅋ
+P1 	: 저렴해서갔다가 화만났네요ㅋ
+P0 	: 미용실은 지인들의 후기를 믿는 게 가장 좋겠더라구요..
+P1 	: 네 그게맞는것같아요
+P0 	: 저도 오픈해서 50퍼하는 미용실이 있길래 가볼까 고민되네요.ㅋ
+P1 	: 거기는 제가했는곳보다 낫겠죠ㅋ
+P1 	: 너무 걱정마셔요ㅋ
+P0 	: ㅎㅎ
+	  그럼 정보를 더 수집해서 이쁜 스타일을 만들어봐야겠어요.
+P1 	: 맞아요. 후기 꼭 보고 가셔요ㅋ
+P0 	: 자주 하는 헤어스타일은 어떤거에요?
+P1 	: 볼륨펌이요 매직ㅋㅋ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨 어떤가요?
+P1 	: 오늘 하루종일 비가 오네요
+P0 	: 그러시군요 여긴 갰다 왔다 변덕스러웠어요
+P1 	: 여기는 계속 오고 있어요
+P1 	: 비가 넘 자주 오네요
+P0 	: 벌써 2주째인가요...3주째인가요..가을장마같아요
+P1 	: 채소 과일값이 올라 가겠죠
+P0 	: 오늘 복숭아 한박스 사는데 3만2천원이더라구요 비쌌어요
+P1 	: 비가 많이와서 떨어진 과일도 병든 과일도 많아서 그렇겠죠
+P0 	: 그렇죠 비가와서 맛도 더 싱거운듯했어요 ㅠㅠ
+P1 	: 추석이 다가오니 더 가격이 올라가겠죠
+P0 	: 아 그러겠네요 명절 특수...
+P1 	: 제사지내기가 점점 힘들어지네요
+P0 	: 좋아하는 계절은요?
+P1 	: 전 추운것보단 더운 계절이 좋아요
+P1 	: 봄 여름이 좋아요

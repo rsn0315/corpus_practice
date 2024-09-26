@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100027153
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 네!!
+P1 	: 식도락여행에 환장합니다ㅋㅋ
+P1 	: &name1&은요?
+P0 	: 저는바다요
+P1 	: 가본곳중에서
+P1 	: 어디가 제일 좋았나요?
+P0 	: 호주요
+P1 	: 서핑하셨나요?
+P0 	: 아뇨 관광이요
+P1 	: 호주에서 뭐가 젤 좋았어요??
+P0 	: 오페라하우스봤어요
+P1 	: 캥거루도 보셨나요?
+P1 	: 저도 호주여행가보고싶네요
+P0 	: 청정지역이에요
+P1 	: 또 다른나라는 어디가보셨어요?
+P0 	: 파리요

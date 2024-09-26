@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012248
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응 다리품
+P0 	: 응 맞다 다리품 여행은 검색품이다
+P1 	: 인터넷?
+P0 	: 응 여기 저기 다 알아봐야 한다.
+P1 	: 아~진짜 할거 많네
+P0 	: 응 쉬운게 없다 쇼셜사이트나 항공사 실시간 예약 홈페이지등 다 찾아봐야함
+P1 	: 일이네 정말
+P0 	: 안그럼 비싸게 가거나 패키지로 가야지뭐
+P1 	: 그렇네 고생하는만큼  절약이다
+P0 	: 거기서가 끝이 아니다
+P1 	: 또 있어?
+P0 	: 엉 탑습권도 요즘 키오스크나 모바일로
+P1 	: 편한세상이네
+P0 	: 엉 구지 탑승수속을 할 필요가 없다

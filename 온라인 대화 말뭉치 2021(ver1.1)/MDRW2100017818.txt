@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나 옷 샀는데
+P1 	: 셔츠 이뻐
+P0 	: 오
+P0 	: 무늬 있는 셔츠야?
+P1 	: 아니 그냥 셔츠!
+P0 	: 아하
+P0 	: 어떤 색?
+P1 	: 민트색!
+P0 	: 오 대박!
+P0 	: 긴팔 셔츠야?
+P1 	: 반팔!
+P0 	: 더 추워지기 전에 자주 입어야겠다
+P1 	: 추워서 이제 못입어
+P1 	: 헿
+P0 	: 저번에 생일 선물로 준 옷 사이즈 괜찮았어?
+P1 	: 엉엉!!
+P0 	: 그 뒤로 따로 물어본 적이 없었네
+P0 	: 오 다행이다~
+P1 	: 이쁘더라!
+P0 	: 굿굿~

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100038263
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요
+P0 	: 식사하셨나요?
+P1 	: 네ㅎㅎ 먹고 설거지까지 끝냈어요
+P0 	: 뭐드셨어요?
+P1 	: 어제 점심과 비슷하게 먹었어요
+	  반찬있던거+계란후라이요
+P0 	: 오 저도 오늘 김치볶음밥에 계란후라이 먹엇죠ㅎㅎ
+P1 	: 오 직접 요리하셨나요?
+P0 	: 아니요 만들어준거 먹었어요
+P0 	: 저 당분간 요리 안하려고요ㅠ
+P1 	: 왜 안하시려구요?
+P0 	: 제가 안남미를 구입해서 냄비밥을 첨 해봤죠ㅜ 망해서 타격이 커요ㅠㅜ
+P1 	: 아 냄비밥을 도전하셨었군요!
+	  냄비밥 은근 까다롭죠ㅜㅜ
+P0 	: 안남미가 특이해선지 어렵더라고요ㅠ

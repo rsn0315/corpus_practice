@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요ㅎㅎ 여행 좋아하세요??
+P0 	: 네 &name2&님은 좋아하시나요?
+P1 	: 네네 요즘은 못가지만요
+P1 	: 어디어디 가보셨어요?
+P0 	: 저는 국내만 돌아다녀서 춘천이랑 경주정도?
+P0 	: &name2&님은 어디 여행 다니셨나요?
+P1 	: 전 국내여행은 어렸을 때 다니고 좀 커서는 주로 해외로 다녔던 것 같아요
+P0 	: 어디가 제일 좋으셨나요?
+P1 	: 전 파리요ㅎㅎ
+P1 	: 영화에서 봤던 데를 실제로 보는 것 같아서 좋더라구요
+P0 	: 그럼 관광지 위주로 다니신건가요?
+P1 	: 네네 아무래도 그렇죠
+P1 	: 근데 길거리만 걸어도 분위기가 많이 달라서 좋았어요ㅎㅎ
+P0 	: 파리에서는 뭐가 제일 맛있으셨나요?
+P1 	: 음 전 오리 스테이크요
+P1 	: 살면서 처음 먹어봤는데 맛있더라구요ㅎㅎ
+P0 	: 저는 오리고기는 많이 먹어봤는데 다른 맛인가요?
+P1 	: 훈제향이 빠져서 그런지 저는 되게 색달랐어요ㅎㅎ
+P1 	: 과일 퓨레같은것도 곁들여 주는데 거기에 찍어 먹으니까 새롭더라구요

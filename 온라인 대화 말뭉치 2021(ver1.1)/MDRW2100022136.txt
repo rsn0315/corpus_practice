@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100022136
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연애하고 계신가요
+P1 	: 안타깝게도 기혼이네요..
+P0 	: 동지시군요ㅎㅎ
+P0 	: 연애는 안하죠
+P0 	: ㅋㅋㅋㅋ
+P1 	: 네..다시 태어나도 결혼하실건가요?
+P0 	: 네 할거같은데 ㅎ
+P0 	: &name2&님은요?
+P1 	: 음..잘 모르겠어요^^ 육아도 하시나요,
+P0 	: 아 아직 준비중이에요ㅎㅎ
+P1 	: 그러시군요! 결혼을 결심하게 된 계기가 있나요
+P0 	: 같은 직업인것도 있고
+P0 	: 성품이 착해서요
+P1 	: 그러시군요~ 성품이 좋으면 괜찮죠~!!
+P0 	: &name2&님은요?ㅋㅋ
+P1 	: 저도 비슷해요 직업이 같고 성실한점?
+P0 	: 그쵸 그게 크죠 ㅎㅎ

@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100012526
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 아빠 언제와?
+P1 	: 아빠 요즘 일이 바빠
+P0 	: 무슨 일 때문에?
+P1 	: 계약하러 다녀야 해
+P0 	: 그래도 코로나때문에 요즘은 해외는 안가지?
+P1 	: 한동안 안가다가 다음달에는 미국 가야해
+P0 	: 미국?
+P0 	: 위험하지 않아?
+P1 	: 백신도 맞았고 일도 밀려서 어쩔수없지
+P0 	: 갔다가 언제와?
+P1 	: 일주일정도  걸려
+P0 	: 그래도 오래있지는 않네
+P1 	: 그래 다행이지
+P0 	: 맞아 그럼 아빠혼자가?
+P1 	: 사장이랑 둘이 간대
+P0 	: 스트레스 엄청 받겟네
+P1 	: 그러게 그래도 방은 따로 잡는대
+P0 	: 그건 다행이네
+P0 	: 이번에는 뭐때문에 가는거야?
+P1 	: 전시회 둘러보고 수입해올거 있나 체크해야지
+P0 	: 그렇구나
+P0 	: 바쁘겠네
+P1 	: 업무 끝나면 휴가준대
+P0 	: 정말?
+P0 	: 왠일이야
+P1 	: 그러게 그동안 휴일도 없더니
+P0 	: 그러니까 얼마만이야 이게
+P1 	: 휴일 없는 대신 복지가 좋긴하지
+P0 	: 무슨 복지?
+P1 	: 휴대폰 요금이랑 자동차 지원해주잖아
+P0 	: 그런점은 좋네
+P0 	: 엄마는 왜 가정주부해?

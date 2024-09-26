@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100009366
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 주로 쇼핑을 어디서 하나요
+P0 	: 저는 아울렛에서 많이 하는거같아요
+P1 	: 아울렛이 다양해서 좋긴하죠
+P0 	: 네 어디서 쇼핑하세요?
+P1 	: 백화점이나 브랜드 매장도 가요
+P0 	: 네저도 그런곳 좋아해요
+P1 	: 코로나 땀에 좀 가기 겁이 나긴해요
+P0 	: 맞아요근데 옷같은건 안입어보고 사면 실패해서ㅠㅠ
+P1 	: 언제나 맘편히 쇼핑 할수가 있을까요 ?
+P0 	: 그러게요 쇼핑하는 재미가 사라진기분ㅠㅠ
+P1 	: 아이 쇼핑 만으로도 스트레스 해소가 되는데요
+P0 	: 저는 근데 돌아다니는게 좋아서요ㅎㅎ

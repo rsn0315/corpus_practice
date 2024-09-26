@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 사람만나요?
+P1 	: 고등학교 동창들은 만나요
+P1 	: 학생인가요?
+P0 	: 직장인이요
+P0 	: 일하니 만나기 쉽지 않네오
+P1 	: 준비하셨던 시험이 있나요?
+P0 	: 자격증이요
+P1 	: 어떤자격증인가요?
+P0 	: 전기기사요
+P1 	: 전기기사를 공부할때 뭐가 제일 힘드셨어요?
+P0 	: 전공인데도 생소한게 ㅎ
+P1 	: 전공이 전기 관련 이였나요?
+P0 	: 네
+P1 	: 기사자격증은 실무경험이나 학사가 필요한 자격증이니 당연한이야기겠네요 어떤 과였나요
+P0 	: 전기요

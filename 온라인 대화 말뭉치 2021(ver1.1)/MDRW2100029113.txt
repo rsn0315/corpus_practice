@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100029113
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 나중에 여행 가능해지면 가보고싶은 곳 있으신가요?
+P0 	: 저는 베트남가고 싶어요
+P0 	: 한번도 가본적이 없어서
+P1 	: 베트남 좋죠
+P0 	: &name2&은요?
+P1 	: 저는 이탈리아요
+P1 	: 관광지들이랑 바티칸 가보고싶어요
+P0 	: 이탈리아 낭만적이다
+P0 	: 저는 가본적 없는데
+P0 	: 아내가 이탈리아 못가봤냐며 자주 놀려요
+P0 	: 저도 이탈리아 가보고 싶네요
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 해외여행 많이 해보셨어요?
+P1 	: 전에 읽었던 책에서 주인공이 이탈리아를 갔던게 인상깊었거든요
+P1 	: 앗 많이 안가봤어요
+P1 	: 가족여행으로 네번 다녀왔네요
+P0 	: 어디 다녀오셨어요?
+P1 	: 어릴때 베트남이랑 앙코르와트 가봤고
+P1 	: 학생때 보라카이, 청도, 태국 다녀왔어요
+P0 	: 보라카이가 인도네시아?
+P1 	: 베트남 앙코르와트는 패키지로 묶어서 다녀왔어요

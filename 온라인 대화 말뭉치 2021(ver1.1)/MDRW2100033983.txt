@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033983
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 하시는 일에 만족하시나요
+P1 	: 지금은 만족하는데 출근하면 불만족스러울듯요 ㅋ
+P0 	: 아 지금은 쉬고 계시나봅니다!!
+P1 	: 네~ 아직 출근하기 5일전 입니다 ㅎ
+P0 	: 그러시군요^^ 업무 스트레스는 없으신가요?
+P1 	: 있죠 전 민원인이 제일 싫어요
+P0 	: 오 민원 고충 장난아니죠 ㅠㅠ
+P1 	: 맞아요. 나이도 먹을만큼 먹고 왜들 그러시는지 모르겠어요
+P0 	: 진상?엔.. 나이가 중요하지않은듯요 업무스트레스는 어떻게 푸셨나요
+P1 	: 이렇게 쉬면 풀리는듯요. &name1&님은요?
+P0 	: 저도 육아휴직중이예요 업무스트레스 생각하니 복직하기 싫어지네요
+P1 	: 육휴도 힘들던데요... 차라리 나가서 일하고팠던 육휴
+P0 	: 아..아이들이 좀 커서 어린이집에 갑니다^^; 그래서 휴직이 행복하네요...
+P1 	: 전 딱 1년씩만 해서 힘들었나보군요

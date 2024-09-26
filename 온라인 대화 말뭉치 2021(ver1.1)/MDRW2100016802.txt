@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100016802
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:> 좋아하는 음식 있으신가요?
+P1 	: 저는 주로 한식을 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저는 주로 양식을 선호하는 것 같아요!ㅋㅋㅋ 한식 중 최애음식은요?
+P1 	: 삼겹살이요ㅎㅎ어떤거 좋아해요?
+P0 	: 하 삼겹살...저도요...
+P0 	: 전 항정살도 좋아요...
+P0 	: 대체로 기름진걸 좋아하는 편이네요 저 ㅋㅋㅋㅋㅋㅋ
+P1 	: 오 저도 항정살ㅋㅋ목살도 좋아하고ㅋㅋ
+P1 	: 그냥 돼지는 다 좋아하나봐요ㅋ
+P0 	: 아 저도요!!!
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 그냥 돼지를.. 잘 먹는 편.
+P0 	: 그럼 중식 중에서 최애 음식은요?
+P1 	: 탕수육이요
+P1 	: &name1&님은요?
+P0 	: 헐 저도요
+P0 	: &name2&님 저랑 입맛 완전 똑같아요 !!ㅋㅋㅋㅋㅋㅋ
+P1 	: 신기하네요ㅋㅋ꿔바로우도 좋아해요
+P0 	: 헐
+P0 	: 헐...
+P0 	: 맛 잘 알.
+P0 	: 진짜 음식 먹을 줄 아시는 분이다 증말...
+P1 	: 일단 고기가 들어가야해요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ맞아요맞아요~~~~!
+P0 	: 저녁은 뭘 드샸나요?!
+P1 	: 비빔밥먹었어요

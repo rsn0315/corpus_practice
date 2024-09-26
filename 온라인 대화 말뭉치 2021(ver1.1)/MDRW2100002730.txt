@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100002730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁메뉴는 뭘로 생각중이신가요?
+P1 	: 저는 음 삼겹살생각중이예요!
+P1 	: &name1&님은요?
+P0 	: 삼겹살 으허ㅠ맛있겠어요ㅠ 저는... 그냥 있는거?ㅋㅋㅋ 대충 ..ㅋㅋㅋ
+P0 	: 요즘 삼겹살도 되게 비싸더라구요ㅠ흑
+P1 	: 맞아요ㄷㄷ목살이 더비쌌던거같은데
+P1 	: 어느순간 삼겹이
+P1 	: 훨더비싸졌더라고요
+P0 	: 삼겹살 먹고싶네요 쩝쩝. 저도 조만간 사와서 먹어야겠어요ㅋ
+P1 	: 맛있겠네요ㅋㅋㅋ
+P1 	: 미나리삼겹살 드셔보셨나요?
+P0 	: 아 대박 상상했어요ㅠㅠㅋㅋ
+P0 	: 너무맛있죠ㅠ
+P1 	: 맞아요ㅋㅋㅋ
+P1 	: 매운건잘드세요?
+P0 	: 매운거는 엽떡2단계정도요~
+P1 	: 저는 초보맛먹는답니다ㅎㅎㅎ
+P1 	: 불닭은 드시나요?
+P0 	: 저도초보맛ㅋㅋ그게2단계같아요
+P0 	: 불닭?볶음면?아니면 닭발?
+P1 	: 불닭볶음면이요ㅋㅋㅋ
+P1 	: 그건잘드시나요?
+P0 	: 컵라면은 맛있어서 가끔 먹어요

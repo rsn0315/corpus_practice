@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100023938
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 동남아 여행 가본 적 있으신가요?
+P1 	: 넵 안녕하세요!!
+P1 	: 앗 전 동남아는 가본적없어요ㅜ!!
+P1 	: &name1&님은 가보셨나요??
+P0 	: 네! 저 베트남 여행 가본 적 있어요 ㅎㅎ
+P1 	: 오 어떠셨나요? 맛난거 많을 것 같은데
+P0 	: 하하 베트남... 맛있는 음식! 많았어요!
+P0 	: 한국에도 유명한 분짜가 아직도 맴돌아요
+P1 	: 분짜.... 현지음식은 다르겠죠?!!
+P0 	: 한국에선 별로에ㅛ요? 먹어본 적 없어서..
+P0 	: 현지에선 진짜 너무 맛있어가지고 저 두번 세번 시켜먹었어요 그 자리에서 ㅋㅋㅋㅋㅋ
+P1 	: 앗 전 좋아하는데 현지는 더 맛있을 것 같아요!
+P1 	: 코로나 끝나면 동남아 여행도 계획해야겠어요ㅎㅎ
+P0 	: 거기서 반미도 먹어봤어야 했는데 못먹어본게 한이에요
+P1 	: 동남아는 무조건 가야겠어요ㅎㅎ
+P1 	: 동남아 말고 또 다른곳은 어디가보셨어요?전 일본밖에 안가봐서....
+P0 	: 저 중국이랑 유럽여행이요~
+P0 	: 생각해보니 캄보디아도 다녀왔었네요 ㅎㅎ 일본은 어땠어요?
+P1 	: 일본은 거리가 엄청 깨끗하고 사람들이 너무 친절해서 약간 무서울정도였어요ㅎㅋㅋ
+P0 	: 와.. 진짜 일본인 되게 착하고 친절하다던데
+P0 	: 그런 면에서 선진국이긴 하네요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 책 좋아하세요?
+P1 	: 최근에는 많이 못읽은것 같아요 ㅠㅠㅠ 책 좋아하시나봐요!
+P0 	: 아 저 소설위주로ㅎㅎ... 다양하게 읽어야하는데 그게 참 어렵더라구요
+P1 	: 앗 저도 그래요 ㅎㅎ 추리소설 같은거 좋아해서! 최근에 어떤 책 읽으셨어요?
+P0 	: 최근에는 정은궐 작가 소설 읽었어요! 홍천기라는 제목의 소설이에요
+P1 	: 오 드라마로 나오는 그 소설인가요? 성균관 유생들 썼던 작가 작품인가봐요~ 그것도 재밌게 읽었는데
+P0 	: 오오 맞아요!! 이번에 드라마화 한다고 해서 후딱 봤죠
+P0 	: 그 작가님거 도장깨기하듯이 최근에 읽었어요
+P1 	: 아하! 어떤가요? 재밌었나요? 성균관 너무 재밌게 읽어서 궁금하네요!
+P0 	: 네 재밌어요!! 조선시대 화공들 이야기인데 판타지가 들어갔어요
+P1 	: 오오 뭔가 재밌을것 같아요 나중에 기회되면 읽어봐야겠어요! 그거 외에 또 재밌게 읽으셨던 책 있나요?
+P0 	: 음 저 예전에는 히가시노 게이고 추리소설 많이 읽었어요!
+P1 	: 헉 저두요 붉은 손가락 정말 재밌게 읽었어요! 어떤 작품 제일 좋아하세요?
+P0 	: 저는 악의도 좋았고, 유성의 인연도 기억에 남아요

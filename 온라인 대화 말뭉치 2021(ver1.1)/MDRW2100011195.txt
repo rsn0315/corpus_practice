@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011195
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 추천 쇼핑템 있나요
+P0 	: 아몬드브리즈요
+P0 	: 꼭 언스위트로
+P1 	: 오 언스위트는 먹기 힘들다던데 괜찮으셨나봐요
+P0 	: 저는 맛있더라고요
+P1 	: 식단 조절로 챙겨드시나요? 아님 정말 취향이라?
+P0 	: 오리지날은 달더라고요
+P1 	: 저는 다 안먹어봐서 궁금하네요 최근 프로틴도 나왔던데
+P0 	: 최근에 구매한 물건있으세요
+P0 	: 중고거래 해보신적있나요
+P1 	: 네 저 당근마켓 애용해요
+P0 	: 저도요~
+P0 	: 뭐팔아보셨어요?
+P1 	: 육아용품을 사고 팔고 해요
+P0 	: 저는최근에 갤럭시 버즈 팔아봤어요

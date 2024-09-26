@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014429
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장 다니시나요??
+P0 	: 네 저 직장다녀요ㅎㅎ
+P0 	: &name2&님도요?ㅎㅎ
+P1 	: 아뇨! 전 아르바이트 해요 ㅎㅎ
+P0 	: 아 어디서 하세요?ㅎㅎ
+P1 	: 패스트푸드 점에서 해요!
+P0 	: 오 패스트푸드 바쁜데 재밌을꺼 같아요ㅋㅋ
+P1 	: 진짜 바빠요 요즘은 배달이 많아서ㅋㅋㅋㅋㅋ 일은 약간 스펀지밥처럼 기쁘게 하고 있어요 알바 선배들이 좀 스트레스여서 그렇지ㅋㅋㅋ
+P0 	: ㅋㅋ네 저도 패스트푸드 배달해 먹어요ㅋㅋ
+P0 	: 선배들이 일 많이 시켜요?ㅎㅎ
+P1 	: 각자의 일이 있는 거죠ㅋㅋㅋ 근데 a선배 b선배 지시하는게 말이 다르고 시간대가 다르니까 업무적으로 스트레스가 받네요ㅋㅋ
+P0 	: ㅜ맞아요 일할땐 업무보다 사람 스트레스가 많은거 같아요ㅜㅜ
+P1 	: 맞아요 &name1& 님도 경험 있으신가요?
+P0 	: 네 저도 거래처와 상대할 일이 있을때는 스트레스 받을 일들도 있더라고요ㅎㅎ
+P0 	: 이해관계가 다를때도 있어서 그런 부분이 힘들때도 있고ㅋㅋ
+P1 	: 아 그렇군요 여러모로 직장도 힘들겠어요...ㅠㅠ

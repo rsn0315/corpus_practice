@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100015160
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 실례지만 혹시 불자이신가요?
+P1 	: 아니요 무교에요 불교 이신가요?
+P0 	: 아 &name2&이라는 아이디가 뭔가 불교의 느낌이 들어 여쭤봤어요
+P0 	: 저는 불교입니다
+P1 	: 앗 불교군요 뒤에껄 늦게 봤네요ㅠ
+P0 	: ㅎㅎㅎㅎㅎ
+P1 	: 가족분들도 불교신가요?
+P0 	: 네 집안이 불교쪽이에요
+P0 	: 막 열심히 절에 다니고 막 불공 드리는것까지는 아닌데
+P0 	: 마음이 향해있는?
+P1 	: 아하 근데 종종 산타면 절 있어서 뭔가 은근 친숙한 느낌이에요 산에 있어서 그런가 분위기가 평화로워서 맘이 차분해지는 느낌이라 좋아해요
+P0 	: 사찰이 풍수좋은데에만 있어서 진짜 그런듯해요
+P0 	: 종소리도 좋고
+P0 	: 독경소리도 좋고
+P0 	: 풍경도 고즈넉학{emoji:‥}
+P0 	: 하고
+P1 	: 맞아요 요새는 아예 힐링코스에 절체험도 들어가있던데 그만큼 힐링되는 공간인 것 같아요
+P0 	: 그쵸 몸과 마음이 모두 힐링되는
+P0 	: 템플스테이
+P1 	: 해보신적있으신가요?
+P0 	: 네 한번 다녀와봤어요
+P0 	: 맛난거먹고 다도도 배우고
+P0 	: 나름 좋은 경험이었어요
+P1 	: 오 전 은근 절이 멀리 있어서 한번 가려면 마음 먹고 가야되더라구요ㅠㅠ
+P0 	: 그게 딱 하나 단점인듯해요
+P0 	: 접근성이 떨어져 큰 맘먹고 준비해야한다는거

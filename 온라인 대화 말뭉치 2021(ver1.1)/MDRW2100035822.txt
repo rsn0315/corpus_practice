@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100035822
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 그런 것도 있죠ㅠ 확실히 운동은 파트너가 있어서 더 재밌는 것 같아요
+P1 	: 같이 할 사람 없으면 오래 못하게 되더라구요
+P0 	: 네네ㅠㅠ ㅋㅋㅋㅋ 이번에 코로나 백신 맞으셨어용?
+P0 	: 그건 그래요ㅎㅎ
+P1 	: 네! 저는 백신 맞았어요~ &name1&님은요?
+P0 	: 저도 삼일전에 맞았는데
+P0 	: 첫날이랑 둘째날에만 몸살기운 있는거 빼고는
+P0 	: 지금은 아주 쌩쌩해요~
+P1 	: 그쵸 저는 주사 맞은지 10일 정도 됐는데 저도 이틀까지만 아프고 멀쩡하더라구요
+P0 	: 다행이네용ㅎㅎ
+P1 	: 2차가 더 아프대서 걱정 중이에요ㅋㅋㅋ
+P0 	: 오늘은 엄마가
+P0 	: 보양하라고 삼계탕을 만들어주셔서 그런것같기도하구용ㅋㅋㅋ
+P0 	: 아 그런가요ㅠ
+P1 	: 주사 맞고 나서는 컨디션 관리가 중요하다고 하더라구요~삼계탕 잘 챙겨드셨네요!ㅎㅎ
+P0 	: &name2&님도 아프지않게 잘 챙겨드세용!
+P0 	: 건강이 뭐든 우선이니까용ㅎㅎ
+P1 	: 네 건강이 제일 중요하죠~ 전 영양제까지 챙겨먹고 있어요ㅎㅎ
+P0 	: 오 영양제 어떤거 드세요??
+P0 	: 저는 비타민 D 만 먹어요
+P1 	: 저도 비타민 디랑 비타민 비, 오메가 3 먹어요
+P0 	: 오옹 잘 챙겨드시네용!
+P0 	: 좋아요좋아요

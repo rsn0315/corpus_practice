@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100029617
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 막 엄청 좋아하진 않는데 드라이브하고 그런건 좋아해요!
+P0 	: 저도 드라이브가 좋아요
+P1 	: 여행 가면 기념품 같은 거 사세요?
+P0 	: 네
+P1 	: 주로 어떤걸 사오세요?
+P0 	: 열쇠고리요
+P1 	: 오 귀여울거같아요
+P0 	: 작고 귀엽죠
+P1 	: 전 관광지에서 엽서 사는걸 좋아해요
+P0 	: 것도 좋죠
+P1 	: 최근에는 어디 여행 가보셨어요?
+P0 	: 남해요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014647
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물을 키우고 계신가요???
+P1 	: 아뇨 &name1&님은요?!
+P0 	: 저는 강아지 키우고 있어요!
+P1 	: 무슨 강아진가요?!
+P0 	: 푸들키우고있어요
+P0 	: 갈색푸들!
+P1 	: 푸들 이름이 뭔가요!!!!
+P0 	: 푸들이름은
+P0 	: &name3&입니다 ㅋㅋㅋ
+P1 	: &name3&는 몇살인가요?!
+P0 	: 5살이에요!
+P0 	: 어른다됐어요
+P1 	: 여자강쥐에용 아님 남자강쥐에요?
+P0 	: 수컷이에요 ㅎㅎ
+P1 	: 강아지가 제일 좋아하는 간식있나요?!
+P0 	: 고구마 간식을 제일 좋아해요 ㅎㅎ

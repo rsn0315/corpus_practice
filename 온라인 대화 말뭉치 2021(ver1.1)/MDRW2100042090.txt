@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100042090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 와사비요?
+P0 	: 네 와사비 초밥위에 올려먹는거요!
+P1 	: 아 저는 와사비는 매워서 잘 못먹어요
+P0 	: 아하..근데 우리가 먹는 그 와사비가 진짜 와사비가 아니래요..
+P1 	: 왜요?
+P0 	: 와사비 함량이 적다네요..1프로..?
+P1 	: 헉..1프로면 가짜아닌가요
+P0 	: 네 근데 엄청 유명한와사비도 그래서 제가 어제 와사비 함량이 엄청 많은걸 사봤어요
+P1 	: 인터넷에서 사셨나요?
+P0 	: 네 마트같은데서는 안팔고 식자재전문 쇼핑몰에서 샀어요 ㅎㅎ
+P1 	: 신기하네요 ㅎㅎ
+P0 	: 와사비 함량이 높아서 좀 비싸더라고요ㅠ
+P1 	: 인터넷에는 안파는게 없네요
+P0 	: 저는 요즘 키링에 빠졌어요

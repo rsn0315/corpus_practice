@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037179
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 영화 보신것 있으세요
+P0 	: 저는 최근에는 본게 없네요
+P0 	: &name2&님은 본 영화 있으신가요?
+P1 	: 저는  그 핸드폰 멤버십 쓴다고 최근에 봤어요
+P0 	: 어떤 영화요?
+P1 	: 블랙위도우요! ㅋㅋ 마블은항상 평타는 친다길래
+P0 	: 재밌으셨나요?
+P1 	: 마블영화 처음 본건데 이해할수있어서 다행이라 생각했어요
+P0 	: 내용이 어렵지 않은가봐요
+P1 	: 그래도 블랙위도우란 캐릭터 자체는 매력있었어요
+P1 	: 여성 히어로는 잘없기도하고 ㅎ
+P0 	: 그렇군요
+	  그럼 &name2&님이 보신 영화중에 제일 재밌었던 영화는 무엇이었나요?
+P1 	: 저는 음 반지의제왕? 해리포터?
+P1 	: 뭔가 시리즈물 좋아요 판타지스러우면서
+P0 	: 그리고 약간 대작도 좋아하시는군요
+P1 	: 뭔가 대작들은 볼게 많더라고요
+P1 	: 영화관가서봐도 안아까움 ㅋㅋ

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100013873
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P1 	: 가고싶은 여행지 있으신가요
+P0 	: 가고싶은 곳 많죠 ㅠㅠ
+P0 	: 근데 솔직히 지금은 코로나때문에
+P0 	: 해외라면 어디든 좋을거같아요ㅋㅋ
+P1 	: 맞아요ㅠ
+P1 	: 해외 어디 가보고싶으신가요
+P0 	: 지금은 산토리니랑 이스탄불이요 ㅠ
+P0 	: &name2&은요?
+P1 	: 저는 스페인이요
+P1 	: 산토리니면 그리스 맞나요?
+P0 	: 네네ㅎ 그 하얀벽 파란지붕!
+P0 	: 스페인도 좋죠 ㅠㅠㅠ 너무너무 가보고싶어요
+P1 	: 너무좋다
+P1 	: 그곳을 가고싶은 이유 있을까요?
+P1 	: 저는 스페인 축구경기 보러가보고 싶어서 ㅎ
+P0 	: 아하!! 하긴 스페인하면 딱 축구 생각나긴해요
+	  뭔가 비스트로에서 단체로 응원할것같고ㅋㅋ
+P0 	: 저는 그냥 그런 지중해 국가들 분위기에 로망이 있어서요ㅋㅋ
+P1 	: 푸른바다
+P1 	: 맑은 하늘 이런거요
+P0 	: 거기에 이국적인 건물들 거리 풍경 이런거요ㅋㅋ
+P0 	: 저는 여행가면 막 두세시간 지도안보고 발닿는대로 걸어다니고 이런거 좋아하거든요
+P1 	: 너무 좋다
+P1 	: 지도 없는 여행 매력있어요
+P0 	: ㅎㅎ 그쵸
+P0 	: &name2&도 코로나 끝나면 한번 해보세요

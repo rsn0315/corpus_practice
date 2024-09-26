@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100033579
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 가서 이색 경험있나요?
+P0 	: &name2&님 저 일좀하고올게요^^
+P0 	: 이따또얘기해요
+P1 	: 네
+P1 	: 혼자 여행 가본 적 있나요?
+P0 	: 국내는 잘안돌아다니고 일년에 한번해외나가는데
+P0 	: 코로나터지고 스톱상태네요ㅠ
+P1 	: 여행에서 좋은 기억이나 경험 같은거 있나요?
+P0 	: 그냥 맘맞는 친구랑가서 놀면 힐링되는듯해요
+P0 	: 좋은거보고
+P0 	: 먹고ㅎ
+P0 	: &name2&님은요?
+P1 	: 전 애들 데리고 바다가서 놀다 오는게 좋더라구요.
+P0 	: 바다 좋죠 ㅎ 올해 어디다녀오셨어요?
+P1 	: 몽산포에서 놀고 드르니항 숙소 잡아서 하루 있다 왔어요
+P0 	: 몽산포 들어는 봤는데 어디지역인가요ㅎ
+P1 	: 태안이요. 거의 태안만 다녀본거 같아요.
+P0 	: 아 꽃게 유명한게 안면도인가요?
+P0 	: 그근처인가ㅎ
+P1 	: 맞아요ㅡ 안면도 태안 다 연결되어 있죠
+P0 	: 대하철에도 안면도가나요?
+P0 	: 대부분 서해로 가는거같던데
+P1 	: 대하철에 안면도 많이 가는거 같아요ㅡ 축제 같은거 할 때 가진 않았던 거 같아요

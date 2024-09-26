@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100032842
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아침 몇시에 나가
+P0 	: 아침에 차막히니까 7시반에는 나가야할 거같아
+P1 	: 데려다줄까???
+P0 	: 맨날 가는데 매일 데려다주려고??ㅋㅋㅋㅋ
+P0 	: 아니 버스타고 갈거야
+P1 	: 신림까지 한번에 가는거 있어
+P0 	: 넹 그거 타고 갈거여요
+P1 	: 아침먹고 갈거야????
+P0 	: 아니 난 잠을 더 자고싶어...
+P1 	: 몇시에 끝나???
+P0 	: 12시 반인가 그때 끝납
+P1 	: 바로 집에 올거야???
+P0 	: 그날 그날 다를거같아
+P0 	: 끝나고 학원근처에서 스터디카페 갈수도 있고
+P1 	: 밥은 챙겨먹고 다녀

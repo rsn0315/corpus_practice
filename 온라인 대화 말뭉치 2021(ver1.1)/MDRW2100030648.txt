@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030648
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 사서 먹고 있습니다
+P1 	: 만들어 먹기에는 너무 귀찮아서요
+P0 	: 오늘 사셨나요
+P1 	: 감자를 정말 자주 드시네요
+P0 	: 요새 김밥 사건이 말이 많습니다
+P1 	: 네 오늘 샀습니다
+P0 	: 감자농사 하시는 분이 잔뜩 주셨어요
+P0 	: 아직 많습니다
+P1 	: 주변에 주시는 분이 있어서 좋겠어요
+P0 	: 무슨 김밥인가요
+P0 	: 감자만 줍니다
+P1 	: 먹을 거 나눠 주는 사람 좋은 사람
+P1 	: 기본 김밥입니다 원조 김밥
+P0 	: 냥코 됐는데 드리고 싶네요
+P0 	: 양껏있는데
+P0 	: 원조 김밥은 얼마입니까
+P1 	: 근처에 살면 서로 음식 나눠 먹고 좋을 텐데요
+P1 	: 제가 안 사서 가격을 모르겠습니다
+P0 	: 나눠 먹으면 더 맛있겠네요
+P1 	: 기본 김밥인데 3,000원이라고 하시네요
+P0 	: 얻어 먹을 셨군요 좋네요

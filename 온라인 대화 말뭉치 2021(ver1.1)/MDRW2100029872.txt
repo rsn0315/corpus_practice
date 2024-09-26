@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100029872
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이건 인공지능이에요
+P0 	: 인공지능?
+P1 	: 알파고요
+P0 	: 이세돌이랑 붙은 로봇?
+P1 	: 정확히는 로봇이라기 보다 인공지능이죠
+P0 	: 차이가 뭐지?
+P1 	: 로봇은 몸채가 있지만 이건 두뇌만 있어요
+P0 	: 그럼 컴퓨터 같은 거잖아
+P1 	: 그쵸 근데 일반적이지 않고 스스로 학습해서 결론을 내릴수 있는 컴이에요
+P0 	: 그러니까 인간이 입력한 대로가 아니라 스스로 선택가능하다는 거지? 그래서 지능이라고 하는거고
+P1 	: 맞아요
+P0 	: 그래.. 알파고도 그랬지
+P1 	: 지금은 그때보다 더 잘한대요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003014
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 냉동오징어는 어디서 사셨어요?
+P0 	: 지마켓에서 구매했는데 1마리씩 씰링되있는데
+P0 	: 펼쳐져서
+P0 	: 깔끔하고 좋더라구요~ 손질도다되있고ㅎㅎ
+P1 	: 한마리씩 씰링되어 있으면 엄청 편하겠어요
+P0 	: 네~  먹기전에 꺼내놓고 녹으면 요리바로하고
+P1 	: 해동은 먹기전에 바로하는게 위생상 좋죠
+P0 	: 인터넷쇼핑 좋아하시나요?
+P1 	: 요즘 다 인터넷으로 사고 있어요 장보는거까지
+P0 	: 저도요!!!
+P0 	: 거의 80프로이상 인터넷으로
+P1 	: 코르나때문에 어디 나가지를 못하니
+P0 	: 맞아요 마트가는것도 꺼려지더라구요
+P1 	: 엘리베이터 타는것도 무섭워서 편의점도 못가요
+P0 	: 엇..ㅋㅋ그럼 외출은 어떻게 하시나요ㅋㅋ
+P1 	: 혼자탈때까지 기다려요

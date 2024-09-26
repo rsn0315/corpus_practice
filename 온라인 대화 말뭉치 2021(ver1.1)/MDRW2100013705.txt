@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100013705
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가는건 좋아하세요?
+P1 	: 어우 좋죠
+P1 	: 제주도 올레길ㅇ종주
+P0 	: 올레길 종주하셨어요? 대단하시다 ㅎㅎ 전 한코스 도는것도 이제 못할거같어요 ㅎ
+P1 	: 하루만엔 못하구 중간중간에 게스트하우스에서 숙박도 하죠ㅎㅎ
+P1 	: 올레길 가보신적 있으세요?
+P0 	: 예전에 한코스 정도 걸어본적 있어요 근데 요즘은 제주 가면 렌트카로 돌아다녀서 걸을 일이 없어요
+P1 	: 워우
+P1 	: 플렉스 하시네요
+P1 	: 저는 가난뱅이 여행만 다녀봐서 주로 대중교통 이용합니다ㅋㅋㅋ
+P0 	: 렌트카도 시기를 잘 맞추면 저렴해서요 예전에 2박3일에 4만원에 다녀온적도 있어요
+P1 	: 와 진짜 싸네요
+P1 	: 여행가면 주로 어떤 테마로 다니세요?
+P1 	: 저는 식도락 여행을 주로 갑니당
+P0 	: 구경이나 힐링이요 먹는것도 좋아하고요
+P0 	: 숙소에서 쉬는것도 좋고 나가는 것도 좋아해요
+P1 	: 크 힐링 여행
+P1 	: 진짜 좋죠
+P1 	: 호캉스도 해보셨겠네요?
+P0 	: 네 얼마전에 제주 그랜드하얏트에서 저녁 아침 점심 다 해결했는데 너무 좋더라고요 새호텔 최고 ㅋㅋ
+P1 	: 크 진짜 듣기만해도 좋네요
+P1 	: 조식도 엄청 맛있겠죠?
+P0 	: 조식은 쏘쏘했는데 패키지에 있던 석식이 그냥 호텔부페라 넘 좋았어요 ㅋㅋ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 좋아하는 과일있으신가용?
+P1 	: 안녕하세요~ 저는 파인애플 좋아해요!!
+P1 	: &name1&님은 무슨 과일 제일 좋아하세요?
+P0 	: 저는 포도가 제일좋아요!
+P1 	: 오 포도! 저도 포도 좋아해요 특히 청포도
+P1 	: 블랙 사파이어 포도 드셔보셨어요?
+P0 	: 아직못먹어 봤어요! 진짜 맛있다든데
+P1 	: 생긴건 좀 이상하게 생겨도 진짜 맛있더라구요!
+P1 	: 샤인머스켓은 너무 비싸서 막 엄두가 안나요ㅋㅋㅋ
+P0 	: 헉 꼭먹어봐야겠어요
+P0 	: 맞아요ㅋㅋㅋ특별식이에요ㅋㅋ
+P1 	: 맛은 있다만 가격이 문제네요ㅜㅜ
+P1 	: 이제 가을이니까 먹을 과일이 많아져서 좋아요!!
+P0 	: 저렴하다면 매일먹을텐데요ㅠ
+P0 	: 맞아요!감도 나오고
+P1 	: 맞아요 저는 또 귤킬러라 벌써 기대돼요ㅋㅋㅋ
+P0 	: 귤도 완전 최고죠ㅋㅋㅋㅋ
+P1 	: 정말 칼로리만 아니면 앉은자리에서 5개 이상 먹을텐데요ㅜㅜ
+P1 	: 정량이 하루 2개였던가 아무튼 너무나 적어요..ㅜ
+P0 	: 마자요ㅠㅜㅜ

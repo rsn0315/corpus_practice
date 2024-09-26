@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000495
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 애완동물 키우시나요?
+P1 	: 지금은 안키우고 예전에는 강아지 키웠었어요
+P0 	: 강아지 몇년키우셨어요?
+P1 	: 결혼 전에 엄마집에서 키웠었고 결혼하고 나와서는 안키우고 있어요
+P0 	: 아 그럼 강아지는 아직 친정에 있겠네요
+P1 	: 네~ㅎㅎ &name1&님은 키우시나요?
+P0 	: 햄스터 2마리와 달팽이 키워요!! ㅎㅎ
+P1 	: 오~귀엽겠어요
+P0 	: 네 귀여워요 ㅋㅋ 간식달라고 문 긁고 그래요ㅎㅎ
+P1 	: 진짜 귀엽네요 주인 알아보고 그러나요?
+P0 	: 주인을 알아보는 건지는 모르겠지만 손에 올려도 물지 않아요ㅋ 따라다니기도 하구요
+P1 	: 아~너무 귀여울것 같아요~ 암수 한쌍이에요?
+P0 	: 아니요 햄스터는 한마리씩 독립적으로 키워야 해서 따로 키워요 아니면 서로 물고 싸우거든요
+P1 	: 아~그렇군요! 은근 무섭네요
+P0 	: 네 절대로 안마주치게 한답니다^^

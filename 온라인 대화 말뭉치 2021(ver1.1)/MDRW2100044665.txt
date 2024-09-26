@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100044665
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 그룹피티 다녀요 ㅋㅋㅋ
+P0 	: 와 진짜 노력중이셨군요!
+P0 	: 몇명이요?
+P1 	: 그때그때 신청해서 가는 거라서
+P1 	: 매번 달라요 ㅋㅋㅋ
+P1 	: 오늘은 7명 정도? 있엇어요
+P0 	: 오 신기하네요 어떻게 신청하는거에요?
+P1 	: 온라인으로 가고 싶은 시간대 신청해요! ㅋㅋ
+P0 	: 오 그럼 가기전에는 몇명이 모이는지 모르고 가는건가요?
+P1 	: 아니여 1시간 전까지만 신청이랑 취소돼서
+P1 	: 가기 전엔 알 수 있어요
+P0 	: 아하 그렇군요~ 오늘 수업은 어떠셨어요?
+P1 	: ㅎㅎ 늘 그렇듯이 넘 힘들었어요
+P0 	: 근데 지금 헬스장에서 샤워 가능해요?
+P1 	: 아니요 집 앞이라서 그냥 다냐와요 ㅋㅋ
+P0 	: 역시 운동은 가까운게 짱이네요 ㅠ
+P0 	: 피티는 어떤 목표로 하시는건가요?
+P1 	: 체력증진이요 ㅋㅋㅋㅋ
+P1 	: 계단 1층도힘들거든요

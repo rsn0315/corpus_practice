@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031045
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주말 메뉴는 뭔가여
+P1 	: 아직 정하진 않았어요
+P1 	: 닭백숙할까 생각중인데 애들이 좋아하지않는거라 고민이요~~
+P0 	: 오 보양식이네요
+P1 	: ㅎ 압력솥에다하면 부드럽게 먹기좋더라구요
+P0 	: 요리 잘 하시나봐요~^^ 즐겨하시는 메뉴 있나요?
+P1 	: 젤쉬운 된장찌개요^^
+P1 	: 채소랑 된장만있음 금방해요
+P0 	: 가족들도 잘 먹나요?
+P1 	: 네 된장찌개는 다들 잘먹어요.  채소는 빼고~
+P0 	: 된장은 어떤거 드시나요
+P1 	: 다담꺼요
+P1 	: 예전에는 집된장먹었는데 사먹는게 더 맛있더라구요
+P0 	: 아 다담 양념류가 평이 좋더군요
+P1 	: 네~~ 대기업맛^^   실패확률이 적어요
+P0 	: 된장양념 말고 또 만족하신 양념 있나요?
+P1 	: 순두부요. 양념사다가만했었는데 요즘엔 백종원 레시피로 끓여요
+P0 	: 그럼  다담 순두부양념인가요?
+P1 	: 네. 다담께 괜찮은거같아요

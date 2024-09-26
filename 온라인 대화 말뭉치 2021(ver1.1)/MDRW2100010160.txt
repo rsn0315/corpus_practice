@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010160
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페가면 보통 뭐드세요?
+P0 	: 저는 무조건 아아요
+P1 	: 저는 커피를 잘안마셔서 아이스초코나 민초먹어요
+P0 	: 민초 저두 좋아해요
+P1 	: 정말요? 요즘 민초시장 활발해서 너무 행복해요
+P0 	: 민초과자도 엄청 많이 나와서 좋아요
+P1 	: 저 시중에 나오는 민초 디저트 다 먹어보는 중이에요ㅋㅋ
+P0 	: 앗 저돈데ㅋㅋ
+P0 	: 스벅 민초프라푸치노 맛있지않나요?ㅜㅠ
+P1 	: 저 스벅민초만  엄청 사먹었어요
+P0 	: 갑자기 저도 민초 먹고싶은데요ㅠㅠ
+P0 	: 배달시킬까....
+P1 	: 근처에 카페 없으세요?
+P0 	: 집근처에 있는 카페는 민초를 안팔아요
+P1 	: 아쉽네요ㅜㅡㅜ 비안오면 산책삼아 스벅 다녀오세요!
+P0 	: 그럴까요ㅋㅋ 배달의 민족 어플 보고있긴한데...

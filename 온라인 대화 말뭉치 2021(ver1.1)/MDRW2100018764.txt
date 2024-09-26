@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018764
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 반려동물 키우시나요?
+P1 	: 네 금붕어도 반려동물일까요?
+P0 	: 그럼요
+P0 	: 금붕어 몇마리 키우세요??
+P1 	: 3마리요! 키워본적있으세요?
+P0 	: 넵 전 엄청 어릴때
+P0 	: 4마리키워봤어요 ㅋㅋ
+P1 	: 지금은 반려동물 키우세요?
+P0 	: 지금은 강아지랑 살구있습니당
+P0 	: 갈색푸들이에요
+P1 	: 강아지 이름은 초코인가요?
+P0 	: 아쉽게도
+P0 	: 초코는 아니고
+P0 	: &name3&입니다 ㅋㅋㅋ
+P1 	: 특이한 이름이네요! 빈둥빈둥거려서 &name3& 인가요?
+P0 	: ㅋㅋㅋㅋ빈둥거리라고 &name3&라고 지어줬는데
+P0 	: 닉값하는 강아지입니다...
+P0 	: 매일매일 빈둥대요ㅠㅠ
+P1 	: 댕댕팔자 상팔자네요ㅠㅠ
+P1 	: 하지만 이미 귀여운걸로 자기 몫은 다 하고있지않나요?
+P0 	: ㅠㅠ맞아요 ㅋㅋㅋㅋ

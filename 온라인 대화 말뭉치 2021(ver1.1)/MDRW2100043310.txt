@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100043310
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨어요?
+P1 	: 아니요 미혼이에요!
+P0 	: 결혼생각있으세요?
+P1 	: 아직은 계획에 없어요
+P0 	: 저도 없어요
+P0 	: 다 없는거같아요
+P1 	: 연애는 하실 생각 있나요?
+P0 	: 저 21살인데
+P0 	: 모솔이에여
+P1 	: 21살이면 뭐 그럴수도 있죠 ㅎㅎ
+P1 	: 이상형 같은 거 있나요?
+P0 	: 착하구 귀여운사람이요
+P0 	: 님은요?
+P1 	: 저는 대화가 잘 통하는거요 웃음코드 맞는 거랑
+P0 	: 아하 대화잘맞으면 좋아할수밖에없죠
+P0 	: 몇살이신가요
+P1 	: 30대입니당
+P0 	: 글쿠나

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100044575
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 앤녕하세여
+P1 	: 배송중인 ㅈ0품이 있으세요?
+P0 	: 네. 볼펜이요
+P1 	: 얼마짜리인데요?
+P0 	: 만오천원쯤 될것같아요
+P1 	: 볼펜이 너무 비싸네요. 할인받으셨어요?
+P0 	: 아니여 ㅎㅎㅎㅎ
+	  공짜로받았어요 ㅎㅎㅎ
+P1 	: 그게 가능해요?? 땅파서 돈도안나오는데
+P0 	: 조금 어려웠지만 무난하게 성공해서 받았어요
+P1 	: 브랜드가 어디죠?
+P0 	: 모나미인데, 153 ID라는 제품 라인이래여.
+	  비싸요
+P1 	: 오... 그러시군요. 할인정보에 밝그시네요

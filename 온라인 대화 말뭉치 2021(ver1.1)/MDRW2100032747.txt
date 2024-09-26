@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032747
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교 있으세요?
+P0 	: 아니요
+P0 	: &name2&님은 있으신가요??
+P1 	: 저도 무교입니당 부모님은 말하자면 불교쪽이구요 ㅋㅋ
+P0 	: 그럼 절에는 자주 다니셨나요?
+P1 	: 아뇨 그건또아니예용 ㅋㅋ 아주 가끔 부처님오신날에 가서 국수먹고 비빔밥먹고오고 그정도
+P0 	: 그렇군요 그럼 절에 가시면 108배 같은 절도 하시나요?
+P1 	: 아뇨 ㅋㅋㅋㅋㅋ많이 안가봣지만
+P1 	: 하시는분들 얼마없더라구요
+P0 	: 그럼 &name2&님은 교회나 성당에 가보신 적이 있나요?
+P1 	: 어릴때 크리스마스에 몇번 가본거같아용 ㅎㅎ
+P0 	: 친구따라 가신건가요?
+P1 	: 네네 님은요?
+P0 	: 저는 어렸을적엔 교회를 다녔어요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100034240
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 장은 주로 어디서 보나요?
+P0 	: 장은 거의 온라인으로 사고 야채나 과일은 마트요
+P1 	: 온라인은 어디 이용하셔요
+P0 	: 지마켓.옥션.지구.네이버 돌아가면서 사요
+P1 	: 저도 많이 이용하는 쇼핑몰들이네요
+P0 	: 제일 대중적인 몰이죠? 쿠폰들도 많고 행사들도 많이 하니까요
+P1 	: 네 저는 식품은 오아시스 마켓 이용해요 아시나요?
+P0 	: 네 보긴봤어요 쿠폰도 종종 주던데 문자로 ㅎㅎ 아직 한번도 이용은 안해봤어요
+P1 	: 어머 이용전인데 어떻게 쿠폰을 주죠? ㅋ
+P0 	: 가입만 ㅋㅋㅋ
+P1 	: 아 그래서 쿠폰을 줬던거군요^^ 그럼 식재료는 가까운곳에서 사시나요?
+P0 	: 야채나  계란 그런것들은 동네마트서사요~
+P1 	: 그렇군요 저는 자연드림이나 오아시스마켓 이용해요
+P0 	: 자연드림 동네에있는데 첫째 애기때는 종종 유기농산다고 갔는데 둘째는 그럿것도없네요ㅋㅋ

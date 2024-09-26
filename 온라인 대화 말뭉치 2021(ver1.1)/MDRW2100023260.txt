@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023260
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 반려동물 키우시나요??
+P1 	: 아뇨!
+P1 	: &name1&은 키우시나요?
+P0 	: 네 강아지 키워요! 동물 좋아하시나요?
+P1 	: 동물너무좋아해요
+P1 	: 부러워요
+P1 	: 이름이 뭔가요??
+P0 	: &name3&에요!! 갈색 푸들이라ㅎㅎ
+P1 	: 아 너무 잘어울리는 이름이네요ㅠ
+P1 	: 갈푸ㅠ
+P0 	: 말은 안 듣지만 귀여워요ㅠㅠ 강아지 키우신다면 어떤스타일 강아지 키우고 싶으세요??
+P1 	: 어릴때부터 말티즈가 최애였고
+P1 	: 지금은 시고르자브종이 제일 좋아요
+P0 	: 아ㅠㅠㅠㅜㅠㅠㅠㅠ진짜 억울해보이는얼굴 너무귀여워요
+P0 	: 그런애들이 또 크기는 완전 쑥쑥크는게 신기하더라구요
+P1 	: 경제적으로 여건이 된다면 꼭 데려오고싶어요
+P1 	: 유기견보호소에서
+P0 	: 맞아요 저도 지금 키우는 아이 가고나서 또키우게된다면 보호소에서 데려오려고요ㅠㅠ
+P0 	: 이번에 방송에서 유기견 가지고 이상한소리한거 진짜 화나더라구요
+P1 	: 기사로봤는데
+P0 	: &name2&도 보셨군요! 아니 그 유기견들도 다 멀쩡하게 살다 사람때문에 왔구만 방송에서 그러니까 너무 어이없어요ㅡㅡ

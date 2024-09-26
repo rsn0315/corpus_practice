@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017648
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이상형이 어떻게되시나요?
+P1 	: 저는 차분하고 묵직한 사람이요! 이상형어떻게되시나요?
+P0 	: 저는 재밌는 사람이요!
+P0 	: 지금 연애 중이신가요??
+P1 	: 아니용! &name1&은 연애중이신가요?
+P0 	: 저두 솔로에용ㅎㅎ
+P0 	: 최근에 소개팅은 하신 적 있나요??
+P1 	: 아니요ㅠㅜ아무래도 코로나다보니 만날기회가 없네용ㅠㅠ
+P0 	: 아쉽네요ㅠ
+P0 	: 나중에 결혼 생각은 있으신가요??
+P1 	: 저는 주변에 결혼안한 친구들이 많아서 그런지 아직까진 결혼은 굳이 안해도 될것같아요! &name1&은 어떠신가요?
+P0 	: 저도 좋은 사람 생기면 하겠지만 꼭 해야지는 아니에요 ㅎㅎ
+P1 	: 맞아요! 세상도 흉흉하고요ㅠㅠ &name1&은 연애관이 어떻게 되세요?
+P0 	: 연애관 너무 어렵네요ㅠ
+P0 	: &name2& 연애관언 어떻게 되시나요?
+P1 	: 저도 특별한 연애관은 없는것같아요ㅎㅎ 그냥 맘맞는 사람아니면 아예 혼자사는거??
+P0 	: 데이트는 집데이트 좋아하시나요 외부데이트 좋아하시나요?
+P1 	: 저는 외부요! 데이트까지 집에있기는 싫더라구요ㅠㅠㅎㅎ &name1&은 어떠신가용
+P0 	: 저도 외부 좋아해요!

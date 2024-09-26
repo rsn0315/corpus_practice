@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100009742
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 책이 있나쇼
+P0 	: 있나요
+P1 	: 저는 주로 소설 좋아해요
+P0 	: 어떤장르 좋아하시나요
+P1 	: 추리소설 SF소설 등등 가리지 않고 좋아해요~
+P1 	: 최근엔 정세랑 작가 책 재밌게 읽었어요
+P0 	: 어떤 거 읽으셨나요?
+P0 	: 아 안은영 작가님이구나
+P1 	: 네 보건교사 안은영! 읽어보셨나요?
+P0 	: 저 그거 넷플릭스로 봐서
+P0 	: 책은 읽어보지 못했어요
+P0 	: &name2&님은 책으로 읽어보신건가요?
+P1 	: 책으로 먼저 읽고 넷플릭스도 봤어요!
+P1 	: 책으로 먼저 보면 좋다는 얘기가 있어서요
+P0 	: 어떤게 더 감흥있었나요?
+P0 	: 보통 책으로 읽고 영상보면 실망하는 경우 있다고 하던데 영상 잘 표현한 거 같나요?
+P1 	: 네네 저는 되게 재밌었어요 책 읽고 보니까 더 이해도 잘 됐고 다음 장면도 빨리 보고 싶어졌고
+P1 	: &name1&님은 좋아하는 책 있으세요?
+P0 	: 저는 모모 좋아해요
+P0 	: 모모아시나요
+P1 	: 엄청 오래전에 읽어봤어요
+P1 	: 시간도둑얘기 맞죠?
+P0 	: 맞아요
+P0 	: 좋아하는 책이라 여러번 읽었어요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100033893
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 보쌈 좋아요 보쌈 김치를 좋아해서요
+P1 	: &name1& 님은요
+P0 	: ㅋㅋㅋ저도요
+P0 	: 족발보단 보쌈파입니다
+P1 	: 전 항아리보쌈 좋아해요. 생활의 달인 나왔다고 하더라구요.
+P0 	: 와우
+P0 	: 항아리보쌈은 뭔가요?
+P1 	: 아 보쌈이 항아리 뚜껑 같은데 나와요
+P1 	: 박경규의 항아리보쌈 일거에요ㅡ 식당 이름이
+P0 	: 와 ..봤는데
+P0 	: 엄청ㅈ맛있겠어요
+P1 	: 맛있어요!보쌈김치 넘 맛나요
+P0 	: 오 굿이죠
+P0 	: 단무지없이 자장면 먹기 vs 김치없이 라면먹기 어떠세요?
+P1 	: 김치 없이 라면은 안 될 거 같아요
+P0 	: 오우
+P0 	: 저랑 반대시네요
+P1 	: 야식이 땡기는 밤이네요.
+	  배달 시킬까 하다 빵 있길래 빵 먹었어요.
+P0 	: 어떤빵드셨나요ㅋㅋㅋㅋ
+P1 	: 맘모스빵 비슷한거요.
+P1 	: 아침 드시나요? 전 거의 안 먹어요
+P0 	: 저는 아침을 꼬박꼬박 먹어요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그거도 궁금해요
+P0 	: 축구얘기 맨날하던데
+P0 	: 진짜 축구 자주해요?
+P1 	: 족구는요?
+P0 	: 족구에요?
+P1 	: 전 축구보다 족구 엄청해서....
+P0 	: 축구아니고?
+P1 	: 그게
+P1 	: 부대마다 다른데
+P1 	: 축구 족구 쌍벽이에요
+P0 	: 뭐가 더 좋았어요
+P1 	: 둘다 싫었어요
+P1 	: ㅋㅋㅋㅋ
+P0 	: 운동 싫어하시는구나
+P1 	: 제가 개발이라
+P0 	: 아 ~
+P1 	: 손으로 하는게 좋지
+P1 	: 야구나

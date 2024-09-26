@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013347
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P1 	: 저는 서울 사는데 오늘 날씨 조금 습하네요~
+P0 	: 저는 전라남도 사는데 비가 많이 오네요! 일기예보 챙겨보세요?
+P1 	: 아뇨 전 맨날 까먹고 나가서 비오는데 우산 없고 그래요ㅎㅎ 일기예보 챙겨보세요?
+P0 	: 저는 뉴스보고 나오는 일기예보 가끔 보는거같아요! 요즘 간절기라 옷을 입기가 애매하네요~
+P1 	: 맞아요 꼭 좀 따뜻하게 입으면 덥고 얇게 입으면 춥더라구요 이제 태풍은 다 지나간걸까요?
+P0 	: 오늘중으로 태풍이 지나갈거같아요! 무슨 계절 좋아하세요?
+P1 	: 저는 가을이 좋아요~ 제 생일이 있어서요 좋아하는 계절 있으세요?
+P0 	: 헉 저도 가을에 생일이 있어서 가을이 좋아요! 무슨 날씨 좋아하세요?
+P1 	: 햇빛 너무 강하지 않은 화창한 날씨가 좋아요 ㅎㅎ 무슨 날씨 좋아하세요?
+P0 	: 저는 비오는 날, 습한날만 빼면 다 좋은거같아요! 옷차림이 무거운 겨울보다 여름이 좋은데 여름이 좋으세요 겨울이 좋으세요?
+P1 	: 저는 겨울이요! 저는 뭔가 추울 때 그 나른한 분위기?가 좋은거같아요!
+P1 	: 봄은 날씨는 좋은데 미세먼지가 너무 심하죠?
+P0 	: 네ㅠㅠ 공기청정기 구매 하셨어요?

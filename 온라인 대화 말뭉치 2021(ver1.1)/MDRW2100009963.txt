@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009963
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 저는 떡볶이요
+P1 	: &name1&님은요?
+P0 	: 전 요즘 로제떡볶이에 빠져있어요~
+P1 	: 어머 어느 브랜드꺼 제일 좋아하세요?
+P0 	: 전 배떡이 가장 좋아여! 순한맛으로ㅎㅎ
+P1 	: 배떡 순한맛은 한 번도 안 먹어 봤는데 안느끼한가요?
+P0 	: 네 전 살짝 매웠어요ㅋㅋㅋ같이 먹던 친구는 무슨 맛으로 먹냐 하긴 했지만요
+P1 	: 느끼하지 않다니 다행이네요
+P0 	: 느끼하다 느끼실 수도 있어요! 전 그런 맛을 좋아해서..
+P0 	: 요즘 너무 초등학교 앞 떡볶이가 땡겨요
+P1 	: 맞아요 뭔가 자극적이지 않고 달달한 떡볶이가 땡길 때가 있죠
+P0 	: 맞아요 슬러쉬랑 같이 먹어줘야해요ㅋㅋ
+P1 	: 그리고 오뎅국물까지!!
+P0 	: 먹을 줄 아시네요ㅎㅎㅎ
+P0 	: 최근에 튀긴 떡볶이 먹어봤는데 얘도 되게 맛있어요!
+P1 	: 튀긴 떡볶이는 뭔가요?
+P0 	: 떡꼬치 떡처럼 튀기고 떡볶이 소스랑 먹는거예요
+P1 	: 맛있겠네요

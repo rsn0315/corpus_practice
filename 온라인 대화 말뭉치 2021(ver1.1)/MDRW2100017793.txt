@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 도서나 잡지 좋아하시나요?
+P1 	: 책 많이 읽으려고 노력하고 있어요.
+P1 	: 스마트 도서관이 생겨서 요새 대출 자주해요~
+P0 	: 저희 구에도 있어서 종종 사용해요ㅎㅎ 최근 어떤 책을 읽으셨나요?
+P1 	: <공정하다는 착각>이라는 책이요!
+P1 	: 지금 반납하러 가는 길이에요 ㅎㅎ
+P0 	: 오오 어떤 내용인지 여쭈어도 될까요?
+P1 	: 네 굉장히 철학적인 내용인데 능력주의에 대한 비판이였어요.
+P1 	: 공정하다는 것이 과연 정의가 맞을까?에 대한 의문으로 시작해요. 예를 들면 수능 같은거요 ㅎㅎ
+P0 	: 약간 정의란 무엇인가 같은 느낌일까요?
+P1 	: 엇 비슷해요 그걸 사회현상학적 관점에서 얘기해요
+P1 	: 님은 어떤 책 대출해보셨나요?
+P0 	: 저는 로마인이야기 보고 있어요
+P1 	: 오 그건 무슨 내용인가요?
+P0 	: 로마의 시작과 끝의 역사를 개인이 서술한 책이에여
+P1 	: 로마의 이야기는 재밌어요?
+P0 	: 약간 역사서술도 서술이지만 그 안에 있는 전쟁들을 지휘한 명장들의 이야기가 좋아서요ㅎㅎ
+P1 	: 굉장히 궁금해지네요 ㅎㅎ
+P1 	: 요즘 베스트셀러는 뭐가 있죠?
+P0 	: 음...총균쇠는 아직 있지 않을까요? 정의란 무엇인가나요ㅋㅋㅌ

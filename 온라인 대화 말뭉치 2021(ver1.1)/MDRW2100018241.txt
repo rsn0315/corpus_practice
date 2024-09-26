@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 뭐 사려고
+P0 	: 과자  ㅎㅎ
+P1 	: 지금 과자 먹으려고?
+P0 	: 아니 내일 일하면서 먹게 ㅋㅋ
+P1 	: 낼 사면 되지 그럼
+P0 	: ㄴㄴ 일어나자 마자 피곤할때 당충전하면서 일해야한당 ㅠㅠ
+P1 	: 밥을 먹으면 되잖아
+P0 	: ㄴㄴ 과자 사고싶은거 있당~
+P1 	: 넘 늦었다
+P0 	: 그니까 같이 가줘~
+P1 	: 알았다
+P0 	: 구램 ㅋㅋ 그럼 엄마 필요한것도 사줄겜
+P1 	: 그래라
+P0 	: 와인이 마시고 싶다

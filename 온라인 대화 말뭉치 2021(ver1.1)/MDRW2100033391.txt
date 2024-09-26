@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033391
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 내일 운동 갈꺼야??
+P0 	: 아니 내일은 못 갈듯
+P0 	: 여보????
+P1 	: 왜???
+P0 	: 문가 문제가 있나... 내일 못간다고 썼는데 안간거지????
+P1 	: 어 안온거 같네.. 왜 못가??
+P0 	: 어 내일 막내 영유검 가야할 것 같아서
+P1 	: 벌써 영유검 또가??
+P0 	: 어... 원래는 이제 첫번째 영유검인데.. 예전에 한달전 영유검이 새로 생긴거지 뭐
+P1 	: 그렇구만. 몇시에 갈라고??
+P0 	: 11시에 예약.ㅋㅋㅋㅋ
+P1 	: 예약해야 갈 수 있는거??
+P0 	: 그럼 나름 시간 많이 걸림
+P1 	: 그게 키재고 몸무게 재고 한거지??
+P0 	: 어어 다른애들이랑 비교해서 얼마나 큰지 알 수 있음.
+P0 	: 뭐.. 어디 문제 있나 없나도 알려주고.

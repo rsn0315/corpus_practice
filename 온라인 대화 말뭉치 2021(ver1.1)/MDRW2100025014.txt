@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100025014
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교있으신가요
+P0 	: 아니요 &name2&은 있으신가요?
+P1 	: 네 저는 기독교요
+P0 	: 그럼 매주 예배 들이시나요?
+P1 	: 네 그런데 코로나로 비대면한지 2년 다되가네요
+P0 	: 그럼 2년동안 교회를 못가신건가요?
+P1 	: 중간에 좀 나아지면 대면예배 드리다가 금세 비대면되고..오락가락 했죠
+P0 	: 그렇군요 &name2&은 언제부터 교회에 다니셨나요?
+P1 	: 모태신앙이라고 아시나요
+P0 	: 네 그럼 태어날 때부터 교회에 다니셨나요?
+P1 	: 네 그렇지요~ㅎㅎ 아시는군요
+P0 	: 우와 멋지시네요!!
+P1 	: 그런가요? 그렇지도 않네요 ㅠ 결혼하셨나요? 결혼에 종교도 중요한것 같아요
+P0 	: 맞아요 결혼에 종교도 많이 중요하죠

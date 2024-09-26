@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005991
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동하시나요
+P1 	: 혈압이 낮아서 격한 운동은 못하구 산에 자주 올라가요ㅎ
+P0 	: 가까운 곳에 산이 있나요*-
+P1 	: 네 집 바로뒤에 공원이랑 산이 있어요ㅎㅎ
+P0 	: 걷기운동하기 좋은 곳에 살고 계시는군요
+P1 	: 네 그렇죠ㅎㅎ 님은 무슨운동 하세요?
+P0 	: 저는 헬스합니다
+P1 	: 아항 헬스좋죠ㅎ  마스크 꼭 잘 끼고 하세요 헬스장에서도 코로나 감염 종종 일어나더라구요
+P0 	: 맞아요 마스크 쓰고 운동하니 더 힘들더라구요..
+P1 	: 그쵸? 저도 마스크 쓰고 산 오르니 더 힘들어요ㅋㅋ
+P0 	: 집에서 홈트하는게 편할수도 있겠다 싶어요
+P1 	: 근데 홈트는 꾸준히 하는게 힘들지 않나요ㅋㅋ
+P0 	: 그렇죠 저는 안하긴해요..ㅎㅎ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100031564
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 어떤 음료 좋아하세요?
+P1 	: 오! 하나만 골라야하나요
+P0 	: 아뇨 여러개 말씀해주셔도 좋죠~
+P1 	: 최근에는 집앞에파는 민트초코프라페가 좋아요 ㅎㅎ
+P0 	: 헉 민초프라페 맛있죠ㅜㅜ 저도 가끔 먹어요!
+P0 	: 다른 음료는 어떤 걸 좋아하시나요?
+P1 	: 고구마라떼도 좋아해요 ㅎㅎ 한동안은 버블티 많이먹었어요 ㅋㅋ
+P0 	: 아 저도 버블티 좋아해요ㅋㅋㅋㅋ 어제 모처럼 먹여보려고 했다가 버블티 품절이라 못마셨던ㅜㅜ
+P0 	: 고구마라떼는 아직 먹어본 적 없는데 어떤 맛인가요?
+P1 	: 고구마맛 우유라 해야할까요..? 고구마랑 우유를 같이먹는 맛과는 또 다른거 같아요 ㅎㅎ 공차좋아하세요?
+P0 	: 오 그렇구나.
+P0 	: 공차는 자주 가본진 않았어요!
+P1 	: 주로어디서 버블티사드세요?
+P0 	: 버블티를 막 챙겨먹진 않는데 근처에 아마스빈이 있어서 종종 여길 찾아요
+P1 	: 오 제가사는곳에는 아마스빈이없어서 못먹어봤어요 ㅜㅜㅡ
+P0 	: 예전에 보니까 매장이 적긴 하더라구요ㅜㅠ
+P1 	: 맞아요 ㅜㅜ 아마스빈 맛있다던데 ㅜ
+P1 	: 디저트 즐기시나요

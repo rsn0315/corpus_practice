@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100005449
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P0 	: &name2& 님은 연애하시나요??
+P1 	: 아뇨 저는 관심이 없어서요
+P1 	: &name1&님은 연애 중이신가요?
+P0 	: 아뇨 전 딱히 안 해봤어요ㅋㅋ
+P0 	: 결혼은 어떻게 생각하세요?
+P1 	: 저는 비혼이라서요
+P1 	: 결혼 생각이 있으신가요?
+P0 	: 헐 저도요
+P0 	: 저 초등학생 때부터 비혼결심했어요
+P1 	: 와 저도요 ㅋㅋㅋㅋㅋ
+P1 	: 친구들도 저만 보면 결혼하는게 상상이 안간대요 ㅋㅋ
+P0 	: 대박
+P0 	: ㅋㅋㅋㅌㅋ
+P0 	: 연애도 안 한다는 주의신가요?
+P1 	: 네 원래 사람한테 관심도 없고
+P1 	: 연애 생각만 해도 귀찮아서요
+P0 	: 저는 제대로된 연애를 안해봐서 궁금하긴 해요
+P0 	: 워낙 감정소모하는 걸 싫어하는 편이라 제가 연애를 할 수나 있을까 싶기도 하고요ㅋㅋ
+P1 	: 감정소모 진짜 기빨리긴 하죠
+P1 	: 소개팅 같은 건 해보셨나요??
+P0 	: 아뇨 남자한테는 관심 없기도 하고
+P0 	: 소개팅 생각만 해도 어색해요ㅋㅋㅋㅋ
+P1 	: 아 ㅋㅋㅋㅋㅋ 저도 주변 친구들 가는것만 봤지 해본적은 없네요

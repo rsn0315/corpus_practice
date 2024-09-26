@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100011176
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하시는거 있으신가요?
+P1 	: 저 이제 헬스 시작하려구요!
+P0 	: 헬스장끊으실려구요?
+P0 	: 요즘 코로나인데 괜찮나요?
+P1 	: 아 헬스장은 무서워서
+P1 	: 홈트부터 하려구요
+P0 	: 아 홈트면 주로 무슨운동해요?
+P1 	: 푸시업이랑 철봉부터 시작하려구요ㅎㅎ
+P0 	: 오 철봉도요?
+P0 	: 아 남성분이시군요ㅎ
+P1 	: 아 네네 좋아하는운동 있으세요?
+P0 	: 전 음악들음서 하는게 그나마 낫더라구요
+P0 	: 요즘은 안하고 스피닝 줌바해봤어요
+P1 	: 와 그거 엄청 힘들지않나요
+P0 	: 둘다 힘들어요ㅎ
+P0 	: 특히 스피닝
+P1 	: 체력소모 엄청날듯 한데
+P0 	: 그래서 했는데 잘못 함 근육파열되기도 한다더라구요
+P0 	: 근육이 녹는다나

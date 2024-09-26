@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018314
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네,안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 쉐이크요~
+P0 	: 다이어트 하시는 중이신가요?
+P1 	: 아뇨,그냥 입맛없어서요
+P0 	: 그럼 좋아하는 음식이 있으신가요?
+P1 	: 많아서 하나고르면 삼겹살이요
+P0 	: 아무 소스 안바르고 굽기만 한 걸 좋아하시나요?
+P1 	: 보통 그렇게 먹고요 간혹 허브솔트나 파체,쌈무,소스찍어먹는거 좋아해요~
+P0 	: 소스는 어떤 소스찍어먹는 걸 좋아하시나요?
+P1 	: 고추,쌈장이요~
+P0 	: 오 맛있게 드시네요

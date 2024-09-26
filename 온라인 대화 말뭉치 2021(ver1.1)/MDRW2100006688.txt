@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006688
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요
+P1 	: 네 강아지 키워요
+P1 	: 이제 두 살이에요
+P0 	: 요즘엔 강아지 학교도 있더라고요
+P1 	: 맞아요 막 낮잠도 재워주더라고요
+P0 	: 강형욱 보면서 생각이 많이 달라졌어요
+P1 	: 그쵸 좋은 영향력을 주는 것 같아요
+P1 	: &name1&씨도 반려동물 키우시나요
+P0 	: 키웠었어요. 저는 열대어요ㅎㅎ
+P1 	: 오 열대어 멋있죠!
+P0 	: 오 아시는군요ㅎㅎ 종류가 다양해서요
+P1 	: 색도 화려하고 되게 이쁘더라고요
+P0 	: 맞아요 근데 이것도 꽤 힘든 노동이 들어가요
+P1 	: 그죠ㅠㅠㅠ 물 관리가 어렵잖아요
+P0 	: 네 물관리ㅋㅋ

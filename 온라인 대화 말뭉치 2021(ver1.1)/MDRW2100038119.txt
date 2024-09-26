@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100038119
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 코코아를 좋아하나요?
+P0 	: &name2&는 갈색이니깐요!
+P1 	: 오.. 정말 저는 코코아 좋아해요..
+P1 	: 마쉬멜로 들어간 코코아가루 그거 좋아해요..
+P0 	: 역시 이름이 &name2&시니깐 코코아를 좋아하시는군요
+P0 	: 인터넷 유투브의 사주풀이 식으로 말하자면 성명학적으로
+P0 	: &name2& = ㅋㅋ
+P0 	: ㅋㅋ= 콜라=코코  아
+P0 	: 농담인데..
+P0 	: 망한 농담인가요?ㅋㅋㅋ
+P1 	: 앗 조금 당황스러운 농담이네요ㅋㅋ
+P1 	: 코코아 좋아하세요?
+P0 	: 네 좋아해요 이제 코코아가 어울릴 철이왔구요 ㅋㅋ
+P1 	: 네 맞죠 쌀쌀해지면 코코아가 딱이죠 ㅎㅎ
+P0 	: 전 스위스미스 핫초코를 좋아헤요
+P0 	: &name2&님은요?
+P1 	: 오 저도 그거요 안에 마쉬멜로우 들어있잖아요
+P1 	: 우유에 타먹으면 맛있더라구요
+P0 	: 네 ㅋㅋ진하구,,
+P0 	: &name2&님은 어떤 코코아를 좋아하세요?
+P1 	: 저두 스위스미스 코코아 좋아해요~!
+P0 	: 저두요 미떼보다 좀 더 맛있어요
+P1 	: 맞아요 뭔가 더 찐한느낌...
+P0 	: 더 짭짜하고요

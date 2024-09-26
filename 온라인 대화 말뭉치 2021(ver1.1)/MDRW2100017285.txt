@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017285
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페가서 보통 뭐 드세요?
+P1 	: 저는 달달한거요
+P1 	: &name1&님은요?
+P0 	: 저는 아아요!
+P0 	: 근데 민초도 가끔 먹어요ㅎㅎ
+P1 	: 카페 어디 브랜드 제일 좋아하시나요?
+P0 	: 스벅도 좋고 메가커피같은데도 좋아해요!
+P1 	: 메가커피 아아도 맛있나요?
+P0 	: 넹! 스벅이랑 비슷해요
+P1 	: 아아에 시럽 넣어 드시나요?
+P0 	: 아니용ㅋㅋ 단  커피 땡기면 연유라떼 마시는 편이에용
+P1 	: 보통 아아 먹으면 정신차려지는 느낌이 좋다는데 어떤 맛으로 아아 드시나요?
+P0 	: 커피를 너무좋아해서 고소하고 쌉쌀한맛을 너무 좋아해요
+P0 	: 얼죽아로다가요ㅋㅋ
+P1 	: ㅋㅋㅋㅋ그럼 신맛이 나는 커피는 별로이신건가요?
+P0 	: 네..  산미 진짜 싫어해요

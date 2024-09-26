@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하소요 ㅎㅎ
+P1 	: 안녕하세요!
+P0 	: 여기 날씨는 너무 우중충해요 &name2&님 동네는 어떤가요?
+P1 	: 여기도 꽤 흐려요
+P1 	: 근데 저는 비 안오는 날이면 다 좋아해요ㅎㅎ
+P0 	: 맞아요 그래도 몇 주전보다 엄청 선선해져서 좋더라구요
+P1 	: 맞아요 얼마전까진 너무 더웠어요
+P1 	: 더운 데다가 예측불가 소나기까지ㅠ
+P0 	: 그러니까요,, 가을 날씨에 맞는 맨투맨이 입고싶어지더라구요 ㅎㅎ
+P0 	: 우산은 항상 챙겨다니게 되네요 소나기때문에
+P0 	: 가방에도 넣고다니고 회사에도 하나 두고 왔네요..
+P1 	: 어서 가을이 오면 좋겠네요
+P1 	: 어떤 계절을 가장 좋아하세요?
+P0 	: 저는 가을겨울이 좋아요! 봄도 좋지만.. 요즘 봄이 많이 짧아지고 금방 더워져서 ㅋㅋㅋ 차라리 추운게 낫더라구요
+P0 	: &name2&님은요??
+P1 	: 저도요~! 더우면 불쾌지수가 올라와서요ㅋㅋ
+P1 	: 추우면 껴입을수라도 있잖아요
+P0 	: 맞아요 덥다고 벗을 수는 없으니.. 이거 한번 제출해볼까요??
+P0 	: 그리구 저 카페에서 닉네임보고 메세지 드렸어요!ㅎㅎ
+P1 	: 와 &account&님이셨군요!! 너무 반가워요
+P0 	: 넵!!

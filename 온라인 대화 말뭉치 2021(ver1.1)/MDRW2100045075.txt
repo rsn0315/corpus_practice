@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 혹시 반려동물 키우세요?
+P1 	: 아니요 반려동물 안키워요ㅠㅠ
+P1 	: 키우시나요?
+P0 	: 네 &name3&가 저희 고양이에요ㅋㅋ
+P0 	: 4개월된 캣초딩이랍니다
+P1 	: 세상에ㅠㅠㅠㅠ
+P1 	: 너무 귀엽겠어요ㅠㅠㅠㅠㅠ
+P0 	: 지금 한창 우다다 시즌이라 사고를 엄청 쳐요ㅠㅠ
+P1 	: 많이 돌아다니나요?
+P0 	: 엄청 뛰어다니고 벽지 다 뜯어요ㅋ쿠ㅜㅜ
+P1 	: 헉
+P1 	: 화이팅 넘치는 시기네요!!!
+P0 	: 전셋집인데... 나중에 벽지 보수 비용 내줘야될거같아요ㅠㅠ
+P1 	: 와우 &name3&가 빨리 자제할줄알아야할텐데......
+P1 	: &name3& 데려온지는 얼마나 되셨나요?
+P0 	: &name3& 3주정도 됐을때 길바닥에 비맞고 쓰러져있는걸 구조해서... 이제 3개월 정도 됐어요!
+P1 	: 오 &name3& 스트릿 출신이네요!!!
+P1 	: 건강엔 이상 없나요?
+P0 	: 엄청 아팠어요ㅠㅠ 병원비로 거의 100만원 냈어요
+P1 	: 헉 지금은 괜찮나요ㅠㅠㅠ
+P0 	: 지금은 괜찮아요ㅋㅋ 눈도 많이 나아졌구 이제 예방접종 한번 남았어요! 중성화랑!

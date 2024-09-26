@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100040530
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 넵 너무 배부르네요 식사하셨어요?
+P1 	: 네 먹었어요
+	  뭐 드셨나요?
+P0 	: 냉동삼겹살이요!
+P0 	: 뭐드셨어요ㅡ??
+P1 	: 저는 곱창이요
+	  외식하신건가요?
+P0 	: 네네 오랜만에 친구 만났어요 ㅎㅎ
+P1 	: 냉삼겹 맛있죠 사이드나 후식으로 뭐 드셨나요?
+P0 	: 녹차라떼 마셨어요 ㅎㅎ 아메리카노 마실걸 후회만 ㅎㅎ
+P0 	: 곱창이랑 뭐 드셨어요?
+P1 	: 저는 곱창이랑 그냥 야채랑 먹었네요ㅋㅋㅋ
+P1 	: 좋아하시는 음식 있으신가요?
+P0 	: 저는 초밥 좋아해요!
+P0 	: 어떤음식 좋아하세요?
+P1 	: 전 떡볶이요!!!
+P0 	: 앗 저도 너무 좋아해요
+P0 	: 어디거 제일 좋아하세요?
+P1 	: 저는 엽떡이요
+P1 	: 어디꺼 좋아하세요?
+P0 	: 저는 신전이요!
+P0 	: 친구들 거의 엽떡 좋아하더라구요 ㅎ
+P1 	: 그러시군요 신전도 맛있죠

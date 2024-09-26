@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100047325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요 비오는날좋아하시나요
+P1 	: 습해서 싫어요 님은요?
+P0 	: 저도요
+	  근데 코로나때문에 못나가니
+	  .가끔은 비가 확내리면 기분좋더라구요
+P1 	: 가을옷 꺼내셨나요?
+P0 	: 아직요..벌써 꺼내셨어요?
+	  저도 여름옷 세탁좀 해야겠어요 ㅎ
+P1 	: 좋아하는 계절 있으세요?
+P0 	: 전 초여름요
+P0 	: 날씨가 너무좋아요 나가고싶고 활력을 주는 날씨같아요
+P0 	: 님은요?
+P1 	: 저도 여름 좋아해요!
+P0 	: 겨울은 너무 게을러져요
+P1 	: 춥고 건조해서 싫어요ㅋㅋ
+P0 	: 맞아요 건조한것도 너무싫어요
+P1 	: 가습기 씻어놔야겠네요ㅎ

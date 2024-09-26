@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨 어떤가요?
+P1 	: 여긴 비는 안오고 흐리기만 하네요.
+P0 	: 여기도요 태풍이 온다는데
+P1 	: 태풍이 또 오나요? 맑은 하늘이 보고 싶네요.
+P0 	: 그러게요ㅠ
+P0 	: 우중충 하네요
+P1 	: 비 그만 왔음 좋겠어요.
+P0 	: 이제 지겨워요
+P1 	: 우산을 말려놓으면 또 젖고.
+P0 	: 신발다젖고
+P1 	: 애들은 옷에 흙물도 튀니깐..  비가 적당히 왔음 좋겠네요.
+P0 	: 언제 미세먼지도 사라질런지
+P1 	: 그래도 요 며칠 미세먼지가 좋음이라서 문 열고 자네요.
+P0 	: 다행이에요

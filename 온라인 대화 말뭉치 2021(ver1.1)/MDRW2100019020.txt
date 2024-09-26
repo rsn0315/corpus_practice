@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019020
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P1 	: 점심드셨나요?
+P0 	: 전오늘 육개장국밥 먹었어요~
+P1 	: 전 돈까스 먹었어요
+P1 	: 날씨가 흐려서 칼칼하고 좋았을거같아요!
+P0 	: 오 어느부위 드셨나요?
+P1 	: 등심 먹었어요!
+P0 	: 아하! 등심좋아하시나봐요! 전 안심좋아해요
+P1 	: 안심도 부드럽고 좋죠!
+P0 	: 맞아요 ㅎㅎ 돈가스 뭐에찍어드시나요?
+P1 	: 여기는 일반 소스랑 와사비 주는데 생각보다 와사비가 잘어울리더라구요
+P0 	: 아하~ 전 소금에 찍어먹어요 ㅋㅋ
+P1 	: 소금에 찍어먹으면 담백하겠네요
+P0 	: 맞아요 ㅋㅋ 그래서 쉽게 안질리는거같아요

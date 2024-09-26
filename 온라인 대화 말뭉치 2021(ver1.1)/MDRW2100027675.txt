@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100027675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는 주로 주말에 영국 축구를 봅니다
+P0 	: 어떤 스포츠에 관심이 있으신지요?
+P1 	: 전 농구 좋아해요
+P0 	: 저도 엔비에이 가끔 봅니다
+P0 	: 국내농구 보시나요?
+P1 	: 어쩌다 한번씩 보는 편이에요
+P0 	: 네. 류현진 야구는 안보시나요?
+P1 	: 종종 봤어요 야구 좋아하시나요??
+P0 	: 네 어제도 류현진 보는데 잘던지다가 마지막에 무너졌어요
+P1 	: 어제 경기는 못봤는데 졌나보네요ㅠ mlb는 류현진 선수 경기 위주로 보세요?
+P0 	: 네 가끔 김광현도 보는데 요새는 안나오네요
+P0 	: 5일에 선발이니까 시간되면 보세요
+P1 	: 5일이면 딱 주말이네요ㅎ 꼭 볼게요ㅋㅋ
+P0 	: 네 보시고 장단점을 말씀해주세여 ㅎㅎ
+P0 	: 오늘 이라크랑 축구도 보시고요
+P1 	: 아 그 월드컵 예선말이죠? 네 볼게요ㅎㅎ
+P0 	: 아마 권창훈 골을 넣을거애여

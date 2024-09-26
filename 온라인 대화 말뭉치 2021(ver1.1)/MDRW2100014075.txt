@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100014075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 종교가 있으신가요
+P1 	: 무교입니다!
+P0 	: 오 저는 기독교 입니다
+P1 	: 오
+P1 	: 이유가 있으신가요?
+P0 	: 모태신앙이고 종교에 의지하는 부분이 있는 것 같아요
+P0 	: &name2&은 종교에 관심은 있으신가용
+P1 	: 그렇군요!
+P1 	: 저는 무교인데 사실
+P1 	: 큰 관심은없답니다ㅠ진짜솔직히
+P0 	: 저도 가끔 의문이 들 때는 많아요 ㅋㅋ
+P0 	: 진짠가 싶어서
+P1 	: ㅠㅠ 그래요??
+P1 	: 요즘은 코로나때문에
+P1 	: 교회를더잘못가겠어요
+P0 	: 맞아요 일부 교회들이
+P0 	: 방역지침어겨서
+P0 	: 문제도 많더라구요  ㅠ
+P1 	: ㅠ 참 코로나시대엔
+P1 	: 종교도 쉽지않겠어요
+P0 	: 네 ㅠ 여러사람들에게 피해주는 행위가 참된 종교인지는 모르겠네요
+P1 	: ㅠㅠ 참 어려운부분같네요
+P1 	: 자제해야하는 부분은 맞는것같아요
+P0 	: 그쵸 ㅠ
+P0 	: 어릴 때 친구따라 종교행사 가본적 있으신가용

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요 ㅎㅎ
+P1 	: 가족이랑 같이 생활하세요?
+P0 	: 네 ㅎㅎ &name2&님도 가족들과 살고 있나요?
+P1 	: 저도요!
+P1 	: 독립은 언제하실 생각이세여?
+P0 	: 요새 독립이 더 어려워져서ㅠㅠ 집구하는 것 부터가 막히네요 ㅎㅎ &name2&님은요..?
+P1 	: 저도 자가생기면 나가려고용
+P0 	: &name2&님은 형제나 자매 있으신가요? 아무래도 같이나가면 n분의 1이 되니까...
+P1 	: 동생있어요ㅋㅋ
+P0 	: 동생이랑은 친하세요?
+P1 	: 아니요ㅋㅋㅋ님은요?
+P0 	: 전 외동이라 형제 자매 있으면 부럽더라구요 ㅎㅎ
+P1 	: 그런가요? 룸메이트랑 생활해보셨나요

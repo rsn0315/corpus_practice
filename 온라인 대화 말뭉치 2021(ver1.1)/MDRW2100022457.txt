@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022457
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세오 혹시 학생이신가요?
+P1 	: 아뇨ㅎㅎ 졸업한지 꽤 됐어요. 님은요?
+P0 	: 저도 졸업한지 꽤 됐어요
+P1 	: 대학시절에 축제 기억 나는 거 있으세요?
+P0 	: 저 고졸이라..
+P1 	: 아 그럼 고등학교 때 축제는요? 전 선생님들이 보디빌딩 무대 하신게 급 생각나네요ㅎㅎㅎㅎ
+P0 	: 고등학교때 축제는 없었어요. 오 선생님들 보디빌딩이라 신박하네요 ㅋㅋ
+P1 	: ㅋㅋㅋ 상상도 못한 무대였어서 기억에 오래 남나봐요
+P1 	: 학창시절 기억나는 선생님 있으신가요?
+P0 	: 선생님이라.. 딱히 없었던거 같아요
+P1 	: 학교 급식은 어땠어요?
+P0 	: 급식은 괜찮았어요 금요일마다 특식도 나오고
+P1 	: 저희 학교도 괜찮은 편이었던 거 같아요
+	  급식실 위치가 멀어서 좀 힘들었지만 ㅋㅋ
+P0 	: ㅋㅋㅋ우리학교도 급식실이 좀 멀었어요

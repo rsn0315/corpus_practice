@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047714
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P0 	: 혹시 연애중 이신가요?
+P1 	: 아니요!
+P0 	: 이상형 있으세요?
+P1 	: 저는 다정한 사람이요!
+P1 	: &name1&님은요??
+P0 	: 저는 연애중이예요
+P0 	: 저랑 비슷한. 사람이 좋아요
+P1 	: 아하 그렇군요
+P0 	: 연애에서 다정함은 필수 인거 같아요 그렇지. 않나요?
+P1 	: 맞아요 비슷한 사람이 편해요
+P1 	: 맞아요! 진짜 필수라고 생각해요
+P0 	: 그죠 상대방 배려해주고 챙겨주려는 마음이 꼭 필요해요
+P1 	: 진짜 동의해요 그런마음조차 없다면 연애를 해서는 안된다고 생각해요
+P1 	: &name1&님은 결혼하실 생각이 있으신가요?
+P0 	: 저는 아직 없어요

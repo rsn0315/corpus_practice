@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100008701
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 좋아하는 맛집 있으세요?
+P0 	: 자주 먹게 되는 곳은 등촌칼국수요!
+P0 	: 고기도 먹을 수 있고 칼국수도 먹고 볶음밥도 먹고!
+P1 	: 오 저도 칼국수 좋아해요
+P1 	: 등촌은 근처에 없어서 넘 슬퍼요ㅠㅠ
+P0 	: 요즘에는 배달도 되어서 너무 편하더라구요
+P0 	: 지점이 흔하지는 않죠ㅠㅠ
+P0 	: &name2&님은 자주 가는 맛집 있으세요?
+P1 	: 저는 요새는 마라탕집!
+P1 	: 그리고 샤브샤브집 좋아해요
+P0 	: 오오 저도 한때 마라탕 많이 먹었었는데ㅋㅋㅋㅋ 맛이 중독성있죠
+P0 	: 저는 마라탕도 고기 많이 넣어먹어요ㅋㅋㅋㅋ
+P1 	: 저도요!
+P1 	: 근데 전 양고기보다 소고기를 좋아해요ㅋㅋㅋ
+P0 	: 저도요! 양고기는 특유의 누린내가 힘들어요ㅠㅠ
+P1 	: 그쵸 특히 탕에는 더 그렇더라고요ㅠㅠ
+P1 	: 그래서 항상 소고기로..ㅎㅎ
+P0 	: 하이디라오 처음가서 양고기로 도전했다가 먹기 힘들었던 경험이 있네요ㅠㅠ
+P1 	: 오 저 하이디라오는 안가봤어요
+P1 	: 근처에 없어서ㅠㅠ서울가면 가봐야지 한답니다ㅎ
+P0 	: 제친구들은 엄청 좋아하는데 저는 좀 안맞았어요
+P0 	: 토종 한국인 입맛인가봐요ㅋㅋㅋ
+P1 	: 오 진짜요?
+P1 	: 향신료 맛이 좀 센가

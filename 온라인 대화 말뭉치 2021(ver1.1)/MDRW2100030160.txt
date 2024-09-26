@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100030160
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 집안일 많이하시나요
+P0 	: 저는 생활비 드리는 대신 집안일로 퉁치고 있어요 ㅋㅋㅋ
+P1 	: 오 그렇군요
+P1 	: 저는 생활비 안드리곸ㅋㅋㅋ제가 하네요
+P0 	: &name2& 님은요?
+P1 	: 제가 많이해요 ㅋㅋ부모님 바쁘셔서
+P0 	: 앜ㅋㅋㅋ
+P0 	: 아 그러시구나!!
+P0 	: 음식도 하세요?
+P1 	: 네네 요리 많이해요
+P1 	: 여름엔 힘들었는데 선선해지니 좋네요
+P0 	: 마자요 지금 날씨가 정말 좋죠
+P0 	: 우와 어떤 요리 가장 자신있으세요?
+P1 	: 전 미역국이 반응이좋더라고요
+P0 	: 우와 멋져요!!
+P1 	: 시원하니 집안일도 괜찬ㄹ은데
+P1 	: 더울땐 짜증나서 동생한테 화내고 그랬어요
+P0 	: 네네
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 막 밥먹고 쏠랑 들어가버려서
+P1 	: 어찌나 열받던지
+P1 	: 지금은 미안하네요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ아이고
+P0 	: 동생분이 잘못했네요
+P0 	: 설거지라도 하고 다지
+P0 	: 가지
+P1 	: 그쵸 ㅋㅋㅋ

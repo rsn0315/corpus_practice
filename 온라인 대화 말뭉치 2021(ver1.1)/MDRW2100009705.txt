@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009705
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 미용이나 건강을 위해 챙기는 습관있으신가요
+P0 	: 딱히 없는데 나이를 먹다보니 신경쓰이네요.
+P1 	: 맞아요 건강이 정말 중요하잖아요
+P0 	: 날개살이 처져서리..;
+	  탄력이 없어져서 운동이 필요하다 싶더라구요.
+P1 	: 날개살이 쳐졌다니^^; 어떤 의미인지 낯서네요!!!
+P0 	: 팔뚝살이라고 해야 하나봐요. ㅎ
+	  암튼 몸 전체적으로 탄력운동이 필요하네요.
+P1 	: 맞아요 유산소와 더불어 근력운동도 참 중요하죠
+P0 	: 계단 오르는 것은 유산소운동이겠죠.
+	  근력운동은 스쿼트?
+P1 	: 계단은 둘 다 효과가 있다고 들었어요^^
+P0 	: 그럼  저도 계단운동을 해볼까봐요.ㅎ
+P1 	: 계단 해보셨나요? 쉽지 않더라구요 ㅋㅠㅠ
+P0 	: 3층만 올라가는 계단 운동도 후덜덜입니다.ㅎ
+P1 	: 한혜진이 계단운동 강추하더라구요! 화이팅입니다

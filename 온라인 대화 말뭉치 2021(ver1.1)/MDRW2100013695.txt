@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013695
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 전시회나 공연 보는거 좋아해?
+P1 	: 너무 좋아하지 너는?
+P0 	: 나도 좋아해  최근에 공연 뭐봤어?
+P1 	: 라포엠이라는 성악가 공연 봤어
+P0 	: 어땠어? 노래좋아?
+P1 	: 응 되게 감동적이였어
+P0 	: 나는 공연보단 전시가 좋아
+P1 	: 오 어떤 전시 가봤어?
+P0 	: 최근에 국립중앙박물관에서 이건희 전시 보고왔어
+P1 	: 와 인왕제색도 보고옴?
+P0 	: 맞아! 사실 그거 보려고 간게 컸는데 진짜 좋더라
+P1 	: 좋았겠다
+P0 	: 다음에 같이 갈래?
+P1 	: 좋아 나랑 공연도 갔이 가자
+P0 	: 난 아무때나 좋아
+P0 	: 안녕

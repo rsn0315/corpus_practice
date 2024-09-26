@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100033802
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 자주하세요?
+P0 	: 따로 살아서 제가 하는 편이에요
+P0 	: 집안 일 하시나요
+P1 	: 매일해요
+P1 	: 자취하시는군요
+P0 	: 가장 하기 싫은  집안일은 무엇인가요
+P1 	: 음식물처리요
+P0 	: 저도 그래요
+P0 	: 제때 제때 안 버려주면 벌레 꼬이고
+P1 	: 룸메이트랑 생활한적있으세요?
+P0 	: 냄새도 나고 그렇더라고요
+P0 	: 아니요. 룸메이트랑 생활해 보신 적 있으신가요
+P1 	: 아니요
+P1 	: 언제 독립하셨어요?
+P0 	: 독립은 아니고 주택인데 가족이랑 층을 따로 살아요
+P0 	: 가족이랑 사시나요?
+P1 	: 오 신기하네요
+P1 	: 네 같이 살아요
+P0 	: 그러시구나  가족이랑 사는 거 어떠신가요
+P1 	: 나쁘지않아요

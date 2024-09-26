@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100025422
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 음식 있으세요?
+P0 	: 저는 가리는게 거의 없어요!
+P0 	: &name2&님은요?!
+P1 	: 저두요ㅋㅋ 홍어같은건 못먹지만요
+P1 	: 드셔본적 있나요?
+P0 	: 아 홍어를 안먹어봤어요!
+P1 	: 삭힌 홍어는 못 먹겠더라구요
+P1 	: 그냥 무침같은것도 있는데 그건 괜찮아요
+P0 	: 오 회는 좋아하는데
+P0 	: 전혀다른거겠죠?
+P1 	: 회무침이긴 한데 좀 더 꼬독꼬독해요
+P0 	: 너무맛있겠네요,,,
+P0 	: 점심 뭐드실예정이세요?!
+P1 	: 백반집 가려구요
+P1 	: 뭐 드실거에요?
+P0 	: 저 백반진짜좋아해요
+P0 	: 뭘먹어야할지 고민중입니다
+P0 	: 딱히없으면 라면먹을것같아요
+P1 	: 라면도 좋져. 전 달걀 휘휘 풀어서 먹는거 좋아해요
+P0 	: 어떤라면좋아하세요?
+P0 	: 저는 오동통면!
+P1 	: 저 요새 신라면볶음면에 빠졌어요
+P1 	: 달콤매콤해서 맛있더라구요
+P0 	: 저그거안먹어봤어요!

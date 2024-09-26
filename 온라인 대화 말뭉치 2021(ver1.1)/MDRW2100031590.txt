@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100031590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용
+P1 	: 오늘 저녁 뭐드셨나용
+P0 	: 저는 곱창이요
+	  &name2&님은요?
+P1 	: 악 저는 냉동실에 있는 치킨 파먹엇습니당 막창 먹고싶네용
+P0 	: 냉동식품 데워서 드신건가요?
+P1 	: 넼ㅋㅋㅋ 냉동실에 뭐갗가득이라 할수없이(?) 먹었내욬ㅋㅋㅋ
+P0 	: 그렇군요ㅎㅎㅎ
+	  그럼 좋아하시는 음식이 무엇이신가요?
+P1 	: 저는 떡볶이도 좋아하고 분식루 좋아해용
+P1 	: 어떤음식 좋아하시나용
+P0 	: 저도 떡볶이요
+P0 	: 어떤 떡볶이 좋아하시나요?
+P1 	: 로제 요새 맛있더라구요 배떡..ㅋㅋ
+P0 	: 배떡 맵기 어느정도로 드시나요?
+P1 	: 사실 항상 같이 먹어서 뭔지 모르겠는데 맵기 단계가 있었나욬ㅋㅋ
+P0 	: 네 있어욬ㅋㅋㅋㅋ

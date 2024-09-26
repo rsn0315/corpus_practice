@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015911
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요! 여행 다니는거 좋아하세요?
+P0 	: 안녕하세요~~~
+	  네 여행 좋아해요
+P0 	: &name2&님은 좋아하세요?
+P1 	: 저도 여행 자주 다니지는 않지만 좋아해요ㅎㅎ
+P0 	: 어디가 가장 좋으셨어요?
+P1 	: 음..사실 가 본 장소가 많지 않아서...
+P0 	: 아니면 어디 가보고싶은곳 있으세요?
+P1 	: 음..마음으로는 기회가 된다면 유럽 쪽 가보고 싶어요
+	  국내로는 제주도 다녀오고 싶고.. 수학여행 이후로 제주도를 가보지 않아서요ㅎㅎ
+	  &name1&님은 여행 어디 가보셨어요?
+P0 	: 코로나가 어서 끝나야할텐데ㅠㅠ
+P0 	: 저는 국내는 부산좋아해요
+P1 	: 그쵸ㅠㅠ 코로나가 끝나야 할텐데, 아직 그럴 기미가 보이지 않네요
+P1 	: 부산은 가보기는 했는데, 친척 결혼식이나 명절 때 한 두번 다녀 온 기억밖에 없네요..ㅜㅜ
+P0 	: 저는 여행으로 3번 정도 다녀왔어요!
+P0 	: 나중에 부산가시게 되면 꼭 여기저기 둘러보세요
+P1 	: 부산에서 여기는 꼭 가보면 좋다라고 추천하시고싶은 장소 있을까요?
+P0 	: 해동용궁사랑 태종대요

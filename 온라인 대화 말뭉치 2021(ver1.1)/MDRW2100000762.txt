@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000762
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 어디 가는 거 좋아하세요?
+P0 	: 해외 좋아하는데 못가고 있어요
+P1 	: 해외 어디 좋아하세요????
+P0 	: 스페인 가고 싶어요
+P1 	: 우와 스페인 너무 좋을 거 같아여
+P1 	: 전 안가봤거든요
+P0 	: 네 저도 듣기만 해서 너무 좋다고 하더라구요
+P1 	: 아하 너무 좋을 거 같아요
+P1 	: 해외 어디가보셨어요?
+P0 	: 파리 호주 괌 정도요
+P1 	: 우와 많이 가보셨네요
+P1 	: 전 예전에 간 일본이 다에요 ㅎ
+P0 	: 전 방사능때문에 일본은 아직
+P1 	: 이제는 안가여!!
+P0 	: 홍콩은 야경이 이쁜데 도로가 더럽더라구요
+P0 	: 도로에 바퀴벌레가 마트에도 돌아다네여
+P1 	: 헉 도로에 바퀴벌레요? 제가 가기에는 어려울 거 같네요
+P1 	: 그래도 홍콩 정말 예쁘던데...!

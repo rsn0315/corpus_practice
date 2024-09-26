@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014512
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~ 저녁 드셨나요?
+P0 	: 저녁 미역국밥먹었어요~
+P0 	: &name2&님은요??
+P1 	: 저는 이제 퇴근중이라서 못먹엇네요 ㅠㅠ
+P0 	: 아하! 얼른드셔야겠네요!
+P0 	: 주로 해드시나요 외식이나배달드시나요?
+P1 	: 저는 부모님이랑 같이 살아서 해먹는편이예요!
+P1 	: 근데 요샌 배달이 잘되있어서 자주 시켜먹어요 ㅎㅎ
+P0 	: 아하! 혹시 주변에 맛집이나 자주시키는곳 있나요??
+P1 	: 저는 분식 좋아해서 떡볶이 위주로 시켜먹어요!
+P1 	: &name1&님은 좋아하는 음식 있으신가요?
+P0 	: 저는 브리또 좋아해서 요새 자주시켜먹어요 !!
+P1 	: 오 불고기 브리또 맛있어요 ㅎㅎ
+P0 	: 그쵸! 저멕시코음식 좋아해요~~
+P1 	: 오 맥시코하면 타코
+P0 	: 맞아요 ㅋㅋ 넘맛있어요
+P0 	: 타코벨 최애..
+P1 	: 체인점인가봐요 여기에는 없네요~
+P1 	: 다른 음식은 뭐 좋아하시나요?
+P0 	: 네 체인이에요!! 한국은 아직 수도권쪽에만 있는걸로알아요 ㅠ 얼른 밑으로도내려왔으면 ㅠㅠ
+P0 	: 다른건 피자 좋아해요!!!
+P0 	: 브랜드는 파파존스 젤 좋아합니다 ㅎㅎ

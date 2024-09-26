@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006787
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 제철음식 챙겨드리나요?
+P1 	: 제철음식을 좋아하는 편입니다
+P1 	: 사실 요즘은 4계절이 무색하게 아무때나  먹거리가 나오지만
+P1 	: 그래도 제철에 먹어야 맛이 있지요
+P0 	: 그렇죠ㅡ 챙겨드시는거 있나요? ㅎㅎ
+P1 	: 아직 감이 안나왔는데 저는 감을 아주 좋아합니다
+P1 	: 단감 홍시 곶감 다 좋아하지요
+P0 	: 그 중 제일은요??
+P1 	: 곶감 좋아하지요
+P0 	: 어디서 사드세요??
+P1 	: 저희는 친척중에 농사짓는 분이 계셔서 보내줍니다
+P0 	: 좋으시겠어요 곶감 고급 음식이잖습니까
+P1 	: 그렇지요
+P1 	: 감사하고 있습니다
+P1 	: 항상 먹거리를 자주 보내주세요
+P0 	: 또 어떤걸 보내주시나요? 쌀?
+P1 	: 맞아요 쌀은 해마다 보내주셔서 돈주고 안사먹고 있습니다
+P0 	: 아 든든하시겠어요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100023097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 옛날에 한국지리 배울 때는 가고 싶은 곳 정말 많았는데
+P0 	: 난 옛날에 가본 적도 별로 없어가지고
+P0 	: ㅠㅜ
+P1 	: 너무 슬프다 코로나 끝나면 많이 가
+P0 	: 그래야 되는데
+P1 	: 친구들이랑도 가고 가족들이랑도 가고
+P0 	: 그니까
+P1 	: 가보고 싶은 곳 제주도 말고 없어?
+P0 	: 강릉이나 부산?
+P1 	: 나도 부산 좋아
+P0 	: 바닷가에서 해산물 같은거 먹고
+P1 	: 조갸구이 먹고 싶다
+P1 	: 조개
+P0 	: 조개구이 맛있지
+P1 	: 부산가서 먹었었는데
+P0 	: 맞아 기억난다
+P1 	: 등산 좋아해?

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100019797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요?
+P0 	: 동호회나 모임 해보신적있거나 하시고있는거 있으세요?
+P1 	: 아뇨 님은요?
+P0 	: 저도 동호회들어본적은없네요 ㅎㅎ..
+P0 	: 관심있거나 한번 들어보고싶은 동호회 있으세요?
+P1 	: 음,, 지금은 딱히 없는데요
+P1 	: &name1&님이 꺼내신 주제라 &name1&닌ㅁ이 관심있으실줄ㅋㅋ
+P0 	: ㅎㅎ..랜덤이라 
+	  저는 운동동호회같은곳 한번들고싶어요
+P0 	: 여성러닝크루 이런곳도 들어보고싶고
+P1 	: 운동동호회 좋죠 제일 대중적인건 산악이랑 자전가겠니요
+P0 	: 네 운동동호회 같이으쌰으쌰할수있을것같아요
+P1 	: 그렇죠 친한사람들이랑 하면 혼자할때부다 수월하니까요
+P0 	: 그쳐 친구들이랑도 한번해보고싶네요
+P0 	: 봉사활동해보신적있으세요
+P1 	: 시각장애인용 점자책 만들기를 했었어요 님은요?
+P0 	: 우와 신기해요 점자책만들기
+P0 	: 저는 유기견보호센터에서 봉사활동해봤어요
+P0 	: 관련일을 하셔서 하신건가요?
+P1 	: 아뇨 주변인이 그 봉사를 해서 같이 했어요 ㅋㅋ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018883
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 여행에 대해 이야기 해볼까
+P0 	: 여행에 대해 이야기 해볼까
+P0 	: 너가 가고싶은 여행지는 어디야?
+P1 	: 나는 LA에 가보고 싶어
+P1 	: 너는?
+P0 	: 난 유럽여행
+P0 	: 한 달 동안 유럽 곳곳을 여행해보고 싶어
+P1 	: 영행은 가봤니?
+P0 	: 세계여행은 안 가봤어
+P0 	: 국내여행만
+P1 	: 해외여행 계획은 있어?
+P0 	: 상황이 괜찮아진다면 꼭 한번 가고 싶어
+P1 	: 어딜 가고싶니?
+P0 	: 나 유럽
+P0 	: 진짜진짜 유럽여행은 꼭 가볼거야
+P0 	: 넌 여행 계획있어?
+P1 	: 여행,,,,  언젠간 가지 않을까,,,,,
+P1 	: 당장은 일밖에 없어서 여행 생각을 할 수가 없네ㅜㅜ
+P0 	: 그건 나도 그래ㅠㅠ
+P0 	: 귝내여행이라도 가고싶다
+P0 	: 국내여행이라도 가고 싶다
+P1 	: 나 회사 옮겨서 주말에 여행가고싶어
+P0 	: 언제 우리 다시 한 번 모여서 여행가자

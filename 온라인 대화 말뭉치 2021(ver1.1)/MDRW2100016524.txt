@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016524
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교 있으세요?
+P1 	: 아뇨ㅠㅜ종교있으세요?
+P0 	: 저도 무교예요
+P0 	: 그럼 절이나 교회 성당에 가보신적은 있으세요?
+P1 	: 아 네 어렸을땐 성당에 다녔어요ㅎㅎ
+P0 	: 성당다니셨구나 ㅎㅎ 세례명도 있으세요?
+P1 	: 네ㅎㅎ 어렸을때 세례받았죠ㅋㅋ
+P0 	: 그럼 가족들은 여전히 성당 다니시나요?
+P1 	: 아뇨ㅠㅠ부모님도 안다니세요ㅠㅜ무교라기보단 그냥 멀어지신?
+P0 	: 아 자연스럽게 멀어지신거구나
+P0 	: 저도 어릴땐 부모님께서 절에 갔었는데 자연스럽게 멀어졋어요 ㅋㅋㅋ
+P1 	: 네 일바쁘고 그러시면서 자연스럽게..ㅎㅎ
+P1 	: 그런경우 많은거같아요 ㅋㅋ깊지않아서
+P0 	: 네ㅋㅋㅋㅋ일이 바쁘면 특히 그런것같아요
+P1 	: 근데 전나중에도 나갈일 없는거같아요ㅠㅜㅎㅎ
+P0 	: 저도 그래요ㅋㅋㅋ어릴때도 믿음은 없엇어요
+P1 	: 저두요...그냥 그냥 나갔네요ㅋㅋㅋ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023597
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨어요? 가끔 배달도 시켜드시나요?
+P1 	: 네 점심은 먹었고 배달음식은 주말 가끔씩 시키게 되네요
+P1 	: &name1&도 배달 자주하시나요?
+P0 	: 저는 아직 배달앱을 안깔았어요..ㅎㅎ
+P0 	: 가게 가서 주문하고 픽엉해서 집에서 먹는 편이죠
+P1 	: 배달앱 저도 최근에야 사용했는데 정말 신세계이긴해요 가게도 많고 메뉴도 다양하구요
+P0 	: 동생이 쓰는 거보니까.. 막 후기도 남기면 서비스도 주고 하더라구요
+P1 	: &name1& 선호하시는 치킨브랜드있으신가요?
+P0 	: 저는 노랑통닭 마늘치킨이요..ㅎㅎ
+P1 	: 노랑통닭 맛있지요ㅎㅎ
+P1 	: 배달앱도 한번 써볼만해요 첫주문하면 아무래도 할인율이 높고 배달앱도 주문후 픽업할수 있는 매장도 잇더라구요
+P0 	: 네.. 동생  쓰는 거 보니까 그러던데.. 원래 안해본거에 대해 거리감을 느껴서 그런가봐요.. 전 배달앱 깔면 막 시켜서 안좋을듯도 하고..ㅋㅋㅋ
+P1 	: 아무래도 배달앱사용하게 되면 과식하게되긴하네요ㅎㅎ
+P0 	: 저도 그게 걸려요..ㅋㅋ 저라만 일단 깔면 막 시킬거 같아서요
+P1 	: 여튼 요즘 온라인쇼핑이고 배달앱이고 발전을 많이해서 참 편리한거같아요
+P0 	: 네.. 좋은 세상이에요

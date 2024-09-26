@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041842
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주로 요리는 가족중에 다른분이 하시나요
+P1 	: 네 보통 그런편이죠
+P1 	: 먹고싶은거 생기면 각자 하던가 사던가 하기도 하고요
+P0 	: 아 그거 편하겠네요
+P0 	: 배달음식도 자주드시나요
+P1 	: 자주 먹어요. 주말엔 거의 배달이네요ㅋㅋ
+P0 	: 아 주로 이용하시는 배달어플같은거 있나요
+P1 	: 저 배민이요. 지역앱도 있긴한데 잘 안쓰게 되네요
+P0 	: 배민은 할인같은거 많이하나봐요
+P0 	: 주로 뭐 시켜드세요?
+P1 	: 저 피자랑 치킨이요
+P1 	: 피자는 토핑 다양하니까 안 질리고 먹어요ㅋㅋ
+P0 	: 어떤 토핑을 주로 선호하시나요?
+P0 	: 전 고구마나 감자요
+P1 	: 저는 불고기나 페퍼로니 좋아해요
+P0 	: 고기종류 좋아하시는군요
+P0 	: 보통 한번시키면 몇조각드세요?
+P1 	: 얇으면 서너조각은 먹는거 같아요ㅋㅋ

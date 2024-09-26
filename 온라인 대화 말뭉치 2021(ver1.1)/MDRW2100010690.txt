@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010690
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁은 어떤거 드셨어요??
+P1 	: 라면요.오동통면.ㅎ
+P0 	: ㅋㅋㅋㅋ귀찮을땐 라면이 최고죠
+P0 	: 볶음면도 많이 드세요?
+P1 	: 볶음면에 야채 추가해서 먹는 거 좋아해요.
+P0 	: 오! 어떤 야채 올려드세요??
+P1 	: 주로 콩나물, 오이, 배추요.
+P0 	: 우와 라면도 건강하게 드시네요!!
+P0 	: 무슨 라면 좋아하세요?
+P1 	: 오동통면이요.ㅎ
+	  너무 맛있어요.
+P0 	: 맞아요 저도 오동통면 좋아해요ㅎㅎ
+P0 	: 내일은 뭐 드실 계획이세요?
+P1 	: 그러게요.
+	  날마다 출근하면서 저녁메뉴 고민이네요.ㅎ
+P0 	: ㅎㅎ 저는 떡볶이 시켜먹고 남은 국물에 야채 넣어서 볶음밥 만들었어요!
+P1 	: 거기에 김가루 넣으면 맛이 더 좋지요.
+	  참기름 팍팍에..
+P0 	: 헉 맞아요 볶음밥에 참기름이랑 김가루는 정말 필수인 것 같아요!!!

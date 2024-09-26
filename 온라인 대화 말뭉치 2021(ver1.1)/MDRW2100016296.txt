@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100016296
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 전북
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P0 	: 좋아하시는 음악이나 드라마 영화 있으세요?
+P1 	: 안녕하세요
+P1 	: 음악은 탑100들어요
+P1 	: 영화 추천해주세요!
+P0 	: 아항ㅎㅎ
+P0 	: 저 최근에 마샬이라고
+P0 	: 블랙펜서로 유명한 채드윅보스만 배우가 주연한 영화봤는데
+P0 	: 감명깊었어요!
+P0 	: 아 마셜이에요!ㅎㅎ
+P1 	: 아하 어디서 볼수있어요?
+P1 	: 스트리밍 사이트? 아니면 극장인가요?
+P0 	: 저는 왓챠에서 봤는데
+P0 	: 다른 OTT 사이트에도 있는지는 모르겠어용ㅠ
+P1 	: 아.. 왓챠없는데 ㅜㅜ
+P0 	: 좋아하는 영화 있으세요?
+P1 	: 음 저는 액션 주로봐요
+P1 	: 최근에 넷플릭스에서 뤼팽 드라마 보고있어요!
+P1 	: 액션이라기보다는... 범죄? 쪽인거같네요 ㅎㅎ
+P0 	: 뤼팽 처음 들어보는데 꼭 한번 봐볼게요!ㅎㅎ
+P1 	: 최근에 영화관 가신적 있으세요?
+P0 	: 아 저 최근에 개봉한 영화
+P0 	: 그 세글잔데 뭐죠 이광수나오는
+P1 	: 아그 집무너지는거 맞죠?
+P0 	: 네네 맞아요 이거 예고편 봤는데 너무 재밌어 보이더라구요ㅋㅋ
+P1 	: 저도 함 보러 가야겠네요 ㅎㅎ
+P1 	: 유튜브는 뭐 주로 보세요?
+P0 	: 주로 동물 동영상 보는데 &name2&님은 뭐보세용?
+P1 	: 저는 먹방 많이봐요ㅋㅋㅋ

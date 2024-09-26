@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 여행 좋아하시나요?
+P1 	: 네 좋아하는데 다른 분들에 비함 평범? ㅋㅋ
+P0 	: 주로 어디 가는 것 좋아하셔요?
+P1 	: 맛집위주로 고르고요 점점 휴양쪽으로 빠지는거같아요 호캉스
+P0 	: 아 호캉스 좋죠!
+P0 	: 맛집은 여행의 필수고요ㅎㅎ
+P0 	: 좋아하시는 여행지 있나요?
+P1 	: 동유럽 어디가 제일 좋으셨어요??
+P0 	: 동유럽은 다 각각 매력이 있었는데
+P0 	: 체코 프라하는 첫 도시여서 기억에 남고 가족들과 스냅 찍어서 인상에 강하게 남았고요
+P0 	: 마지막 아웃 도시였던 크로아티아 두브로브니크도 성벽 돌면서 본 풍경이 좋았어요
+P1 	: 총 몇명이 가신거예요??
+P0 	: 마지막이라 더 애틋?했고요
+P1 	: 그럴거같아요ㅜㅜ
+P0 	: 가족 4명이요
+P1 	: 너무 대단하세요!
+P1 	: 부모님과 가신거예요?
+P0 	: 네 부모님이랑 언니랑

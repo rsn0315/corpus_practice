@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100029486
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 아침메뉴는 무엇인가요
+P0 	: 볶음밥이요
+P0 	: 드셨나요?
+P1 	: 어제도 볶음밥 아니었나요?
+P0 	: 맞아요 엄청많아서
+P0 	: 계속먹네요
+P1 	: 어제 남은 전복죽을 먹었습니다
+P0 	: 감자탕은 다드셨나요
+P0 	: 감자국이었나요
+P1 	: 언제쯤 다 먹을까요
+P1 	: 음식이 쌓여갑니다
+P0 	: 전몇끼 더남았어요
+P0 	: 그래도 카레는 다먹었어요
+P1 	: 저도 감자탕 한참 남았어요
+P0 	: 된장 찌개해보려구요
+P1 	: 계속 먹으면 질리겠군요
+P1 	: 순두부찌개는 어떤가요?
+P0 	: 그것도 좋은데
+P0 	: 양념을 된찌로 샀어요
+P1 	: 금강만두 육개장도 맛있습니다

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100026743
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요 칠성은 옛날부터 기억이 나는데
+P1 	: 스프라이트는 뭔가 새로 등장한 느낌이에요
+P0 	: 이온음료는 뭐 제일 많이드시나요
+P0 	: 역시 포카리?
+P1 	: 포카리죠
+P1 	: &name1&은요?
+P0 	: 저도 ㅋㅋㅋ
+P0 	: 그거 진짜 맛없어요 토레타
+P0 	: 박보영이 광고를 너무 귀엽게해서.. 속았지만 진짜 맛없어요
+P1 	: 아 토레타...
+P1 	: 저는 일단 입에도 안댔어요
+P1 	: 이프로 같은 맛인줄 알았는데
+P1 	: 아닌가봐요?
+P0 	: 네 진짜..뭐라 설명할 수 없는 이상한 맛입니다
+P0 	: 소주vs맥주vs와인
+P0 	: 아니면 그외?
+P1 	: ㅋㅋㅋ저는 와인이요
+P1 	: &name1&은요?
+P0 	: 소맥 섞어마셔야죻ㅎㅎ
+P0 	: 와인은 뭔가 진입장벽이임ㅅ네요 가격때문인가
+P1 	: 아 소맥이 있었네요ㅋㅋㅋ
+P1 	: 저는 소주따로 맥주따로 먹으면 알코올향이 너무 나더라고요
+P0 	: 오 공감합니다
+P0 	: 근데 이상하게 섞어마시면 괜찮죠
+P1 	: 맞아요 사실 와인도 그나마 알코올향이 덜나서...
+P0 	: 오호 와인은 가격대에 따라 맛이 많이 다른가요?
+P1 	: 가격대보단 종류가 많으니까 맛의 선택의 폭이 넓어지더라고요
+P0 	: 오 좋아하시는 종류가 뭐에요??

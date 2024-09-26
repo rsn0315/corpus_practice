@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100013657
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 졸업했어요! 휴학1년 하고 졸업했는데
+P1 	: 스트레이트 졸업할걸 그랬어요ㅠ!!
+P1 	: &name1&님은 휴학생각 있으세요?
+P0 	: 제가 교육쪽이라
+P0 	: to때문에 그냥 스트레이트로 하려고요
+P1 	: 아 임용보셔야하는구나..!
+P1 	: 티오 꼭 꿻님이 보셨을때 증원되어야하는데
+P1 	: 저번에 티오 기사를 봐서욥
+P0 	: ㅋㅋㅋㅋ 그러니까요... ^__ㅠ
+P0 	: 근데 현실적으로 계속 줄거 같아서
+P0 	: 줄기전에 보려고요
+P1 	: 그러게요 학생수가 적어져서 그런건가..
+P1 	: 진짜 취업전까진 스트레스가 없어지지 않을듯 싶어요^.ㅠ
+P1 	: 졸업이 다가 아니라니~~
+P0 	: 졸업한지 얼마 안 되셨나봐요
+P1 	: 넵 1년 됐어요~!
+P0 	: 한창 바쁘시겠어요 ㅜㅜ
+P1 	: 네 뭐 이것저것 하고는 있는데 안정적인 일자리가 좋긴하죠ㅠㅠ
+P1 	: 과제같은건 많이 없으신가요?
+P0 	: 다른 과보다는 어렵진 않은 것 같아요
+P0 	: 초등이라!
+P1 	: 오 초등이시구나! 와우
+P1 	: 교대다니세용?!
+P0 	: 네네!
+P1 	: 와 멋져용..! 교대는 그래도 사범대보다는 임용합격률이 높지않나요?!
+P1 	: 멋진 선생님이 되시겠어요!!!! 오

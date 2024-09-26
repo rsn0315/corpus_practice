@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100035750
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요^_^
+P0 	: 안녕하세여
+P1 	: 배달음식 많이 드시는편인가요?
+P0 	: 한달에 4번이하로 먹는것같아요~~
+P0 	: &name2&님은여?
+P1 	: 저도 그 정도요ㅎㅎ
+	  예전에는 1달에 1번 먹을까 말까 였는데 요즘에는 좀 늘었어요
+P0 	: 오.. 그러시군여. ㅋㅋㅋ 뭐시켜드실때 제일.설레세요?
+P1 	: 크게 설레지는 않아요ㅋㅋㅋ
+P0 	: 오ㅡㅡ저는 치킨시킬때나 평소에 안시켜먹는 은식이 올때 설레더라고요.ㅋㅋ
+P1 	: 맛있는 음식 먹는걸 좋아하지만,
+	  무언가 특정메뉴가 먹고싶다고 생각이 드는 경우는 별로 없어서요ㅎㅎ
+P1 	: 치킨을 많이 좋아하시나봐요
+P0 	: ㅋㅋㅋㅋ 그렇긴한데
+	  엄마가 안좋아하셔서 앞으로 동생이랑 단둘이 먹으려고요
+P1 	: 그럼 동생과 둘이 있는 시간을 노려야겠네요
+P0 	: ㅋㅋㅋ 맞아요.ㅋㅋㅋ안그래도 약속을햇엇어요
+P1 	: 약속날이 기다려지겠네요

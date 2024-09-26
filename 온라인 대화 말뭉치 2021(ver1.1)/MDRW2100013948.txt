@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100013948
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 어제 사온 빵 중에 꽈배기가 젤 맛난듯
+P1 	: 그래 맛이 괜찮네
+P0 	: 옹 ㅋㅋ 기름에 튀긴거라 더 맛나나봄
+P1 	: 그렇지 튀기면 맛없는게 없다
+P0 	: 그런듯..ㅋ 살에 찌는 음식이 넘 맛있당
+P1 	: 조금만 먹으면 괜찮겠지
+P0 	: 마장 ㅋ 비록 왕꽈배기였지만 ㅋㅋ
+P1 	: 괜찮다 이따 저녁은 적게 먹어라
+P0 	: 구래용 ㅎ 그럼 살안찌겠군
+P1 	: 그래 다음에는 사 오지 마라
+P0 	: 왱 맛있는뎁~
+P1 	: 나중에 살 빠지면 사 와라
+P0 	: 알았어요~

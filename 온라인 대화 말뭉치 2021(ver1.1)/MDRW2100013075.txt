@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 님 점심 뭐드시나요??
+P0 	: 저는 김치찌개랑 밥을 먹었어요!
+P0 	: &name2&님은 식사 메뉴가 뭔가요?
+P1 	: 저는 버터간장계란밥을 먹을까 아님 라면을 먹을까 고민중이에요
+P0 	: 헉 두 개다 너무 좋은 선택 같아요
+P1 	: ㅋㅋㅋㅋ&name1& 님은 국물 라면 뭐 좋아하시나요?
+P0 	: 저는 신라면을 주로 먹어요!
+P0 	: 신라면에 계란과 파 만두를 넣어먹는걸 좋아해요
+P0 	: &name2&님은 어떤 라면 좋아하시나요?
+P1 	: 와 신라면에 계란이랑 파 만두 넣어 먹는거 진짜 맛있을 것 같아요ㅋㅋㅋ
+P1 	: 전 진라면 순한 맛에 계란 넣어 먹는 거 좋아해요!!
+P0 	: 저도 진라면 순한 막 좋아해요!
+P1 	: 국물라면은 무조건 별로 안 매운 게 좋더라구요ㅋㅋㅋㅋ
+P0 	: 특유의 순한맛이 국물맛도 좋아요
+P1 	: 맞아요 설날 쯤 됐을 때 떡국떡 남으면 라면에다가 넣어서 먹는 것도 좋아해요
+P0 	: 떡국떡 넣으면 국물에 점성이 생겨서 맛있어요 저도 정말 좋아한답니다

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021778
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 편이에요
+	  주로 아이쇼핑이요ㅎㅎ
+P0 	: 어떤품목이요?
+P1 	: 여러가지죠ㅎㅎ
+	  생활용품/옷/신발/식자재 등 이요
+P0 	: 쿠팡 쓰시나요
+P1 	: 아니요
+P0 	: 그럼 어디서 구매하세요?
+P1 	: 지마켓이나 네이버에서 검색해서 많이 구매하는편이에요
+P0 	: 스마일클럽 하시나요
+P1 	: 네~
+P0 	: 오 저도 고민중인데
+P1 	: 고민하고 계시군요
+P0 	: 네네 예전부터 생각은했었는데
+P1 	: 저는 신청해두고 이용한지 좀 오래되었어요

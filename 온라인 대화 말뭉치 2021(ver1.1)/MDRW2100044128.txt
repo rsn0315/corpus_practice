@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100044128
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 있으세요?
+P0 	: 지금은 없고 어릴때 키웠어요 강아지 !!
+P1 	: 오 전 병아리 어릴 때 중간까지 키웠어요
+P0 	: 학교앞에서 파는 병아리요?
+P1 	: 네 그 병아리요
+P1 	: 어려서 철이 없었죠 ㅠ
+P0 	: ㅋㅋㅋ 근데 거기서 파는 아이들 어차피 안 팔리면 죽는 애들이라네요 ㅠㅠ
+P1 	: ㅠㅠ 전 중간에 닭 키우는 곳으로 보냈어요
+P0 	: 아 그래도 그 아이는 좋은 환경에서 자랐겠네요
+P1 	: 그런가요? 그 뒤로는 동물 키우는 것에 신중해 졌어요
+P0 	: 실내에서 키우신 거예요?
+P1 	: 네 실내에서요
+P0 	: 병아리는 모이가 따로 있죠?
+P1 	: 곡물 줬던 것 같아요 어릴 적이라서요
+P1 	: 참 어떤 강아지 키우셨나요?
+P0 	: 저희는 치와와랑 진돗개요!
+P1 	: 치와와는 물릴 뻔한 안 좋은 추억이 ㅠㅠ 주인 잘 못이지만요
+P0 	: 치와와가 아주 성격이 드세요..
+P1 	: 우리 개는 안문다는 말을 했거든요 ㅠ 진돗개는 어때요? 똑똑하고 충성심이 강하죠?
+P0 	: 진돗개는 엄청 영리해요 근데 고집도 세요 ㅋㅋ

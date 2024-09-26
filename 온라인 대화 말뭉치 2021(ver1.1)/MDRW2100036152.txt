@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100036152
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 아르바이트 해보셨나요?!
+P1 	: 한 번 해봤어요!
+P0 	: 오오 어떤 아르바이트를 하셨나요?!
+P1 	: 아름다운 가게에서 오후타임 매니저 알바를 했어요!
+P0 	: 우와 그러셨군요!
+P0 	: 아름다운 가게는 이윤이 많이 남나요...?
+P1 	: 기부로 이루어지기 때문에 정확한 이윤은 알 수 없지만 매장 매출은 어느 정도 나와요
+P0 	: 그렇군요!
+P0 	: 하긴 기부를 하는 가게니까
+P0 	: 이윤이 목적이진 않겠네요 ㅎㅎ
+P1 	: 그렇죠ㅎㅎ
+P0 	: &name2&님은 지금 대학생이라고 하셨나요?
+P0 	: 아니면 직장인이신가요?
+P1 	: 대학생이에요!
+P0 	: 아하 그러시구나~~
+P0 	: 대학생이라니 부럽습니다
+P0 	: 진로에 대해 생각해볼 여유가 있으니까요!!
+P1 	: 하지만 막상 졸업이 오니 코로나 때문에 막막하네요ㅠ
+P0 	: 아이고 그렇죠?
+P0 	: 저도 대학원 오게 된 이유가....
+P0 	: 취업준비 딱 한 학기 해봤는데
+P0 	: 삼성에서도 사람 많이 뽑겠다면서 결국 학점 엄청 보고... 기회가 안오더라구요ㅠ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100014300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회 가입하신 적 있으세요?
+P1 	: 아니요 &name2&은 있으신가요?
+P0 	: 전 등산동호회 가입 신청서만 내고
+P0 	: 참석을 안했던 기억이 나네요.
+P1 	: 앜ㅋㅋㅋㅋㅋㅋ
+P1 	: 죄송해요 너무 웃기네요ㅋㅋㅋㅋ
+P1 	: 그럼 보통 연락 안오나요?
+P0 	: ㅎㅎ
+P0 	: 연락 왔는데 애매한데? 생각하다
+P0 	: 차단을 눌렀더랬죠
+P1 	: 근데 신청서를 내셨던 이유가 있나요?
+P0 	: 그땐 흥미로워 보였어요
+P0 	: 뭔가 열쩡!!!! 파이팅!!!
+P0 	: 이런 느낌이요
+P1 	: 아 근데 그 열정이 며칠만에 사그라져 버렸군요
+P0 	: 그렇죠 바람처럼 날아갔죠
+P0 	: 혹시 그럼 동호회 말고 정기적으로 나가시는 모임 있으세요?
+P1 	: 저는 진짜 집순이라 없어요
+P1 	: &name2&은 있으신가요?
+P0 	: 전 봉사는 오래 다녔는데
+P0 	: 회사다니면서 시간 맞추기가 어려워서
+P0 	: 요새는 다니는 곳 없네요
+P1 	: 그래도 봉사 오래 다니셨다니 멋지신데요
+P0 	: 관성적으로 다니다 보니깐 그렇더라구요
+P0 	: 요샌 줌으로 모임이나 회의를 많이 하던대
+P0 	: 집순이에게 줌 모임은 더 좋은 선택지인가요?
+P1 	: 그쵸 집순이는 나가는 것도 귀찮거든요ㅋㅋㅋ

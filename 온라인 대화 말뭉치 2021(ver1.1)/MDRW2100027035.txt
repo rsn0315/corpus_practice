@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027035
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&은 좋아하는 계절 있나요?
+P1 	: 안녕하세요~ 
+	  저는 서늘하고 맑은 하늘이 있는 가을 날씨 좋아해요!
+P1 	: &name1&은 어떤 계절 좋아하시나요!
+P0 	: 저도 가을이요~
+P0 	: 단풍땜에 좋아한답니다
+P1 	: 조금만 더 있으면 정말 좋아하는 가을의 시점이 오겠네요!
+P0 	: 네.. 이번 장마가 너무 길어서 좀 그렇지만 이게 끝나면 제가 좋아하는 날씨가 될거라 믿고 있습니다
+P1 	: 그쵸ㅠㅠ 장마가 여름 막쯔음에 기네요
+P1 	: 여기는 비가 쏟아지네요!
+P1 	: 거기도 그런가요?
+P0 	: 여기도 오락가락인데 지금은 안오네요
+P0 	: 똑똑똑~ 계신가요?
+P1 	: 똑똑 있습니다!
+P1 	: 지금은 맑게 하늘이 갰네요
+P1 	: 시원하고 날씨도 좋은 게 놀러가기 좋은 오전인 것 같아요
+P1 	: 거긴 어떤가요~
+P0 	: 여기도 해가 화창해요~ 너무 좋아요~
+P0 	: 2주간 흐리고 비오다가 어제부터 화창해졌어요 :)
+P1 	: 이제 진짜 다음주부터는 가을이 성큼 다가올 것 같아요ㅎㅎ
+P0 	: 기대중입니다..ㅎㅎ
+P0 	: 추석지나면 단풍도 점점 늘겠죠?
+P1 	: 그럴꺼같아요! 그때 되면 정말 확 늘 것 같네요!
+P0 	: 제가 가장 좋아하는 단풍 볼 일이 정말  기대가 돼요

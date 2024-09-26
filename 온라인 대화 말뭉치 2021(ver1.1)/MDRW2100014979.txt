@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100014979
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤일 하시나요?
+P0 	: 사무직종이예요! &name2&님은요?
+P1 	: 전 서비스직이요,,^^
+P0 	: 서비스직종 힘들죠ㅠㅠ 안힘든일이 있겠냐만은 ,,,,
+P1 	: 그렇죠. &name1&님은 지금하는일어떠세요?
+P0 	: 이직한지 얼마안돼서 적응하고있는 중이예요~~ 저 알바도 많이 했어요
+P1 	: 이직하셨구나,,잘됐네요ㅎㅎ 알바는어떤?
+P0 	: 카페랑 빵집 영화관 옷가게 서비스직은 다양하게 해봤어요 ㅎㅎ
+P1 	: 많이하셨네요,, 제일재밌던알바는모에요?
+P0 	: 카페도 재밌고~ 영화관이 재밌었어요 ! 재밌는거론 영화관 1등이요 ㅎㅎㅎ
+P1 	: 영화관재밌겠어요. 영화좋아하나요?
+P0 	: 네 영화보는거 좋아해서 영화관 알바한것도 있어요! 영화 공짜로 볼 수 있거든요 ㅎㅎㅎ

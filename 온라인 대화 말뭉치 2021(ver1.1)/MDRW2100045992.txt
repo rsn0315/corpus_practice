@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045992
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 구매물건이 있으신가요
+P0 	: 저 버즈2  샀어요
+P1 	: 구매한것 만족 하시나요
+P0 	: 아직 2일되서 ㅋ
+P0 	: 버즈 쓰세요?
+P1 	: 아니요
+P1 	: 가격은 비싸지 않나요
+P0 	: 당근에서 샀어요
+P1 	: 당근에서도 판매하나요
+P1 	: 당근도 구경해봐야 겠어요
+P0 	: 중고죠 ㅎ
+P0 	: 지금 미개봉으로 팔더라구요
+P1 	: 개봉 안한 새것도 있군요
+P0 	: 네
+P0 	: 출시한지얼마안되고
+P0 	: 플립3 인가 사면서 사은품으로 받으신분들은
+P0 	: 필요없으면 내놓으시더라구요
+P1 	: 그런제품은 구매하면 좋겠네요
+P0 	: 맞아요
+P0 	: 싸게 사니 좋아요
+P0 	: 새제품을
+P1 	: 새제품을 득템 할수도 있겠네요

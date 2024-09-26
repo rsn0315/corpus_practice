@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036453
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 뭘 마셨어? 궁금하다
+P0 	: 커피를 마셨어. 아아. 어디 걸 마셨는지 맞혀봐.
+P0 	: 더 벤티 아아를 마셨는데 정말 맛없더라.
+P1 	: 흠 빽다방은 아닐 것 같아
+P0 	: 탄맛만 가득했어
+P1 	: 스타벅스일까?
+P0 	: 나 빽다방도 나름 자주가는데.. 오늘은 아니었어
+P0 	: 더벤티에 갔다구.
+P1 	: 더벤티는 너네 집 근처에있니??
+P0 	: 음 아니 조금 거리가 있어
+P0 	: 근데ㅜ너무 맛없었어
+P0 	: 조심해!
+P1 	: 그럼 걸어서 간게 아니겠구나
+P0 	: 가격만 싼 곳이야.
+P0 	: 걸어서 갈 수 있을 정도야 근데.
+P1 	: 싸서 갔다온거야?
+P0 	: 아니 그냥 있길래 가봤어.
+P1 	: 흠 가끔 새로운걸 먹어보고싶지

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&님은 좋아하는 계절 있나요?
+P1 	: 겨울이요
+P0 	: 그렇군요~ 겨울의 어떤 점이 좋은지요?
+P1 	: 겨울에 태어났거든요
+P0 	: 그렇군요.. 추위는 안타시나 보네요?
+P1 	: 네 추위는 안타요
+P0 	: 좋네요.. 저도 추위를 타는 편은 아니에요
+P0 	: 그래도 겨울보다는 가을이 좋더라구요
+P0 	: 가을의 단풍을 좋아하죠..
+P1 	: 네 가을도 아름답죠
+P0 	: 겨울눈도 좋아하시나요?
+P1 	: 네
+P0 	: 오.. 정말 겨울에 딱이네요.. 전 가을 단풍이 좋아서 단풍구경 하러 다니곤 했어요
+P0 	: 코로나 이후론 꿈도 못꾸고 있지만요
+P1 	: 전 겨울음악들이 좋아요
+P0 	: 음악도 겨울 음악 좋아하는군요..ㅎㅎ

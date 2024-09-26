@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100015411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 그냥 알러지겠지 하다가도 너무 오래 가니까
+P0 	: 요즘 화면 보는 시간이 많아져서 그런 것 같기도 한데
+P1 	: 한숨만 나와
+P0 	: 그럼 더 미루지 말고 알러지 검사하러 가보자
+P1 	: 그것만 피하면 안깜빡일라나
+P0 	: 보통 이비인후과에서 많이 검사하니까 가까운데로 가보자
+P1 	: 원인만 밝혀지면 덜 답답할 것 같아
+P0 	: 검사는 피한두방울이면 된다네
+P1 	: ㅇㅇ 신랑 쉬는 날 같이 가보자
+P0 	: 근데 이비인후과 있는 곳이 주차하기가 좀 힘든 곳이네..
+P1 	: 나만 내려주고 가 ㅎㅎ 끝나면 전화하믄 되지
+P0 	: 일단 가는 날 보고
+P1 	: ㅇㅇ 아마 건물 내에 주차 가능할거야

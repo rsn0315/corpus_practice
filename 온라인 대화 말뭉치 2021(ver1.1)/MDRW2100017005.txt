@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017005
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전시회 자주 보러 가세요?
+P0 	: 전시회는 못 가봤어요 ㅠㅠ 좋아하세요?
+P1 	: 네네 좋아해요! 근데 요즘엔 가기 힘드네요
+P0 	: 그러겠어요 ㅠㅠ
+P0 	: 무슨 전시회 위주로 다니셨어요?
+P1 	: 저는 사진전 좋아해요
+P1 	: 최근에 요시고사진전 핫하덩데
+P1 	: 대기가 3시간이어서 못봣어요 ㅠ
+P0 	: 헉 엄청나네요
+P0 	: 인기가 진짜 많나봐요
+P1 	: 네네 ㅠㅠ 서울에서하는건데 간김에 볼랬더니 못봐서 아쉽네요 ㅠ
+P0 	: ㅠㅠ 정말 아쉬우셨겠어요 시간내서 오셨는데
+P1 	: 그래도 다행인건 다른볼일때문에 간거라 ㅠㅠ 그래도 많이아쉽네용
+P0 	: 그나마 다행이네요 ㅠㅠ 다음엔 원하는 전시회 꼭 성공하시길!!
+P1 	: 네네 연극은 보신적 있어요?
+P0 	: 예전에 고등학생때 봤는데 제목도 기억이 안나여 너무 옛날이라 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ그렇군요 저는 연극은 본적없어요
+P1 	: 뭔가 딱히 안끌려섴ㅋㅋㅋ

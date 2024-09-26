@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001880
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 좋아하는 계절이 있으신가요?
+P1 	: 저는 봄, 가을이요ㅋ
+	  더위도 많이 타고 추위도 많이타서 여름,겨울은 싫더라구요 ㅋ
+	  &name1&님은요?
+P0 	: 오 저두요 ㅎ
+P0 	: 봄하고 가을 중 고르라면 가을입니다
+P1 	: 저두요
+P1 	: 따스한 봄바람보다 시원한 가을바람이 좋아요
+P0 	: 맞아요 여름도 가끔 좋은데 그때는 여름에서 가을로 넘어가는
+P0 	: 그 약간 서늘한 밤 공기가 좋아요
+P1 	: 네 요몇일은 에어콘도 안켜고 집에서 잘견디고 있어요ㅎㅎ
+P0 	: 맞아요 요새 에어컨 잘 안켰는데 오늘은 조금 덥더라구요
+P0 	: 그래도 밤에되면 바람이 시원해서 춥기도 해요ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 어제 깜밖잊고 문을 열어 놓고 잤더니 바로 목이 쌔 하더라구요
+P0 	: 헉 오히려 이렁 때 감기를 더 조심해야해요
+P0 	: 은근 감기 잘 걸리더라구요
+P1 	: 아직 조금 이른 환절기긴 하지만 확실히 일교차가 커지긴 했어요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ맞아요 감기 조심하세요!
+P1 	: 재프리님두요!!ㅎㅎ 아까 여긴 천둥치던데 내일도 비가 올 것같네요
+P0 	: 다시 장마가 시작하나봐요
+P0 	: 은근 비온 곳들이 꽤 있더라구요

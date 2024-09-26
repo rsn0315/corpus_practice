@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 역시 감자튀김이나 치킨요
+P0 	: 오 저는 맥주 안주로는 피자나 햄버거 좋아해요
+P1 	: 햄버거요?
+P0 	: 맥도날드 빅맥이랑 엄청 잘어울려요
+P1 	: 신기한 조합이네요
+P0 	: 드셔보시면 생각보다 엄청 잘어울려요
+P1 	: 저는 맥주는 감자튀김이랑 먹는게 제일 맛있던데요
+P0 	: 감자튀김도 진리죠... 빅맥에 감자튀김까지 ㅋㅋㅋ하면 환상
+P1 	: 아 햄버거니까 그렇네요 ㅋㅋ
+P0 	: 오징어류도 맛있긴한데 역시 튀김은 못따라와요
+P1 	: 그건 그래요
+P0 	: 저녁이라 맥주마시고 싶네요..
+P1 	: 시원한 맥주..

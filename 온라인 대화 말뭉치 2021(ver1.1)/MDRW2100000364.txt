@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반가워요 어디여행을 자주다니세요??
+P1 	: 저는 부산을 자주다녀요
+P1 	: 바다가 없는곳에 살고있어서요
+P0 	: 부산 가끔 가봤는데 볼거리가 많나봐요
+P1 	: 네 부산에 가면 기장 해녀촌이 유명해요
+P0 	: 해녀촌이면 어떤걸 하는곳인가요??
+P1 	: 주로 해산물을 많이먹어요
+P1 	: 멍게,해삼,낙지,소라등등 해산물과 전복죽을 먹으러가요
+P0 	: 맛있을거 같아요 가격은 비싸지 않나요??
+P1 	: 3~5만원이면 충분히 배부르게 먹을수 있어요
+P1 	: 바다가 바로  앞이라 보는재미도 있구요
+P0 	: 그렇군요 한번쯤 가봐야겠네요
+P0 	: 부산 또 다른곳은 추천 해 주실곳 있으신가요~?
+P1 	: 이하정 간장게장은 꼭드셔보세요
+P1 	: 정말 인생 간장게장이에요
+P0 	: 얼마나 맛있길래 극찬일까요~??
+P1 	: 진짜 입에서 살살녹아요
+P0 	: 검색해보니 정말 맛있어 보이네요 부산가면 먹어보러 갈게요

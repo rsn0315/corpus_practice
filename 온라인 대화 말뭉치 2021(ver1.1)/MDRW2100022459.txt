@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 콘서트 가시나요?
+P1 	: 아뇨 저는 한번도 안 가봤어요ㅠ
+P0 	: 그렇군요ㅎ 전 티켓팅이 빡세서 부담이 크더라고요
+P1 	: 와 그니까요
+P1 	: 주변에 아이돌팬인 친구말 들어보면 진짜 빡세더라고요
+P0 	: 전 친구 도와서 방탄 콘서트 티켓팅해본적 잇어요ㅋㅋ
+P1 	: 친구들 보면 여러명한테 부탁해서 티켓팅하더라고요ㅋㅋㅋ
+P1 	: 콘서트 티켓팅 몇초컷인가요?보통
+P0 	: 방탄은 일단 서버가 터지죠ㅋㅋ 우왕좌왕하는 사이에 끝나있더라고요
+P1 	: 와우 다들 어떻게 티켓팅 성공하는걸까요ㅋㅋㅋ
+P0 	: 결국 취켓팅하더라고요 밤도 새던데 ㄷㄷ
+P1 	: 맞아요 다들 밤을 새우더라고요
+P0 	: &name2&은 방탄 누구 최애인가요?
+P1 	: 저 제이홉이요!
+P0 	: 저도 제이홉 춤 잘추고 유쾌해보여서 호감이에요
+P1 	: 맞아요 저도 그래서 제이홉 실제로 보러 콘서트 가고 싶어요ㅎㅎ

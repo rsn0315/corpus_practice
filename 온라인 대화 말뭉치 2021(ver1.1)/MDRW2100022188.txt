@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100022188
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 날씨 어떤가요
+P0 	: 요즘 환절기 어떻게 지내세요? 옷 입기 애매하지 않나요?
+P1 	: 어 전 아직 좀 더워서
+P1 	: 반팔입고있어요
+P1 	: &name1&님은요
+P0 	: 근데 아침저녁으로는 쌀쌀해지지 않았아요?
+P0 	: 전 처서 이후로 그래서 두꺼운 이불 꺼냈어요
+P1 	: 헉
+P1 	: 진짜요?
+P1 	: 전 아직 더워서 에어컨 키거든요
+P1 	: 추위 많이 타시나봐요
+P0 	: 오.. 맞아요.. 추위타요.. 전 선풒기만 낮에 잠깐잠깐 트는데
+P0 	: 더위타시는구나
+P0 	: 사실 전 추운것도 더운것도 싫답니다..ㅋㅋㅋ
+P1 	: 겨울싫어하시게써요
+P1 	: 어떤계절좋아하시나요
+P0 	: 봄 좋아하는데.. 요즘은 봄하면 미세먼지라 속상해요..ㅠ.ㅠ
+P1 	: 아 약간
+P1 	: 설레는 계절을 좋아하시나봐요
+P1 	: 만물이 자라는 계절..
+P1 	: 미세먼지 때문에 많이 속상하시겠어요ㅠ 요즘 봄은.. 봄보다는... 먼지의 계절이 되어버려서
+P0 	: 그니까요.. 봄이 언제부터 먼지의 계절이 됐는지..ㅠ.ㅠ
+P1 	: 그러게요
+P0 	: 그래서 차선책으로 가을을 좋아해보려고 했더니.. 이 가을장마랑.. 가을모기 때문에...;;;
+P1 	: 아....
+P1 	: 환경오염으로 이상기후가 심해져서ㅠ

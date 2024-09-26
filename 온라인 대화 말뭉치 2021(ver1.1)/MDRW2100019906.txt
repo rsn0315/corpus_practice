@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100019906
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 회같은거
+P0 	: 회는 비싸다
+P0 	: 다른거 뭐 없을까
+P1 	: 초밥
+P1 	: 육회
+P1 	: 머그런거
+P0 	: 초밥도 비싸다
+P1 	: 몰겟음
+P0 	: 육회도 비싸다 ㅡㅡ 돈없다
+P1 	: 햄버거
+P1 	: ㅣ키든동
+P1 	: 시켜든동
+P0 	: 그냥 만만한 치킨 가자
+P0 	: 햄버거 얼마전에 먹음
+P1 	: 치킨 양별루임
+P1 	: 차라리
+P1 	: 우라빠시켜서
+P0 	: 그럴까
+P1 	: 조금만무라
+P1 	: 구래
+P1 	: 우라빠시켜라
+P0 	: 그래 알았다
+P1 	: 지금시켜라
+P1 	: 그래잘햇군
+P1 	: 매운맛으롯
+P1 	: 켜라
+P0 	: 알았다
+P0 	: 야
+P0 	: 편의점에서 콜라사와라

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006076
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 오늘 날씨 어땠나요
+P0 	: 여긴 계속 비가 오네요.
+P1 	: 여긴 갰다 왔다 변덕스럽네요
+P0 	: 방금 집에 들어오는데 신발이 다 젖었어요.
+P1 	: 그정도로 많이 오나요? 폭우??
+P0 	: 방금은 많이 왔어요.
+	  옷도 젖고
+	  바람도 불고요..
+	  월드컵 축구 예선하는데.. 축구장도 비가 엄청 오네요.
+P1 	: 아 빗속에서 경기 진행중인가요?
+P0 	: 넵. 축구는 비가 매우 많이 와도 하나봐요.
+P1 	: 선수들이 고생이네요 부상위험도 높을텐디
+P1 	: 데
+P0 	: 미끄럽겠죠.
+	  저도 빗길에 미끄러진 적 있거든요.
+P1 	: 비오는날 어떠세요 좋아하는 분들도 계시길래...
+P0 	: 저도 좋았는데요.
+	  자주 내리니깐 별로네요. ㅎ

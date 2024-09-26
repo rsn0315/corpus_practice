@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011151
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 알바 많이 해보셨나요?
+P1 	: 알바 저는 애들 돌보는 알바를 했었어요 &name1&님은요
+P0 	: 저는 편의점도 해보고 이것저것 많이 해봤어요
+P1 	: 와 부럽네요 그런경험이 다 재산이 되더라구요
+P0 	: 아기들 돌보는 알바도 보람있을것 같네요
+P1 	: 미술학원선생알반데 돌보는역활이죠 머 거의
+P0 	: 돌보는게 제일 힘든것 같아요ㅠㅠ
+P1 	: 애들은 자기들 신나게 두면 되요ㅎㅎ
+P1 	: 편의점알바가 힘들죠
+P0 	: 편의점도 편해요!
+P1 	: 도난이나 계산안맞으면 알바비서 빼나요?
+P0 	: 네 저는 제가 채웠었어요ㅠㅠ

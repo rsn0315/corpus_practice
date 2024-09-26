@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100018072
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 티비에서 복숭아가 나오네요
+P1 	: 우리도 복숭아 먹어야 되는데요
+P0 	: 그러게 복숭아가 예쁘네 우리도 복숭아 먹자
+P1 	: 복숭아에 크림치즈는 안 어울리네요
+P0 	: 복숭아 맛도 아니고 치즈 맛도 아니고 이도저도 아니다
+P1 	: 우리 복숭아가 좀 덜 물러서 더 아무맛도 안나네요
+P0 	: 이번 복숭아는 정말 그냥 먹어도 맛있어
+P1 	: 자르는게 좀 귀찮아서 그렇지 잘라놓고 나니 먹기 좋아서 맛있어요
+P0 	: 그러게 달고 맛있네
+P0 	: 지난번에 따온게  크기도 그렇고 빨갛게 잘 익었어
+P1 	: 후식이 맛있어서 기분 좋아요 저녁이 별로였거든요
+P0 	: 저녁밥 뭐 먹었는데 맛이 없었어
+P1 	: 토마토 파스탄데 맛이 좀 그랬어요
+P0 	: 나는 오이냉국이랑 콩자반에 장떡 먹었어
+P1 	: 토마토 파스타 이번주에 드실래요?
+P0 	: 니들이 좋아하면 먹어 나는 아무거나 다 잘 먹으니까

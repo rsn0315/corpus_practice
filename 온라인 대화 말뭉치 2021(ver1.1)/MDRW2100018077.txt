@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018077
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전시나 영화 좋아하시나요??
+P0 	: 전시 종종 가곤 했는데 코로나 이후로는 못 가봤네요
+P1 	: 아 그렇네요ㅠㅠ어떤전시를 좋아하세요?
+P0 	: 영화는 미나리 보러 한 번 갔었어요. 사람 진짜 없더라구요
+P1 	: 미나리!재미있죠ㅠㅠ
+P0 	: 보셨어요? 마지막에 앗 했었는데 약간 스포? 알고 간 상태라 마음이 편하더라구요
+P1 	: 네네ㅜㅜ극장에서봤어요 마지막에 엄청 걱정하면서 봤어요 진짜
+P0 	: 감독님네 자전적 이야기인데 아버지 농장 지금도 잘 하고 계신다고 들었어요ㅋㅋ
+P1 	: 오호 ㅋㅋㅋ비하인드 스토리네요ㅠㅠ 감독이 데이빗인거겠죠?
+P0 	: 네 맞아요 ㅋㅋ
+P1 	: 잘컸네요 ㅎㅎ영화에서 너무 귀여웠는데
+P1 	: 뮤지컬 같은것도 좋아하세요?
+P0 	: 자주는 못 가지만 종종 보러가는 편이에요
+P1 	: 저는 뮤지컬은 아직 본 적이 없어서 추천해주실만한 작품 있나요??
+P0 	: 킹키부츠도 신나고 좋았고 김광석 노래로 만든 그날들도 추천합니다:)

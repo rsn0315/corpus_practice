@@ -1,0 +1,105 @@
+# FILE DATA
+ID : MDRW2100046946
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210729
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 여보.
+P0 	: &name3&이가 여기서 자고 간다는데?
+P1 	: 그래서??
+P1 	: &name3&이 옷도 없잖아
+P0 	: 옷은있어
+P1 	: 어떻게 하게??
+P0 	: 두벌씩 챙겼어
+P0 	: 어쩌지?
+P1 	: &name4&이랑 여보는??
+P0 	: 근데 내일 바다에도 간대
+P0 	: 그니까..
+P1 	: 장모님은 머라하셔??
+P1 	: 오후랑 오전에 안 계시잖어
+P1 	: 장모님 바쁘시면 그냥 데리고 와
+P0 	: 어.. 알겠어.
+P1 	: 저녁 먹고 올 꺼??
+P0 	: 아니
+P0 	: 가맨
+P0 	: 순대국 사가맨
+P1 	: 알안
+P0 	: {share:url}
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210802
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name3&이 데리고 갔어?
+P1 	: &name5&이 자는디
+P0 	: 걍 집에서 먹어야겠네??
+P0 	: 뭐먹지..ㅠㅠ
+P1 	: 곧 깰 수도 이서
+P1 	: 일단 와봐
+P1 	: 그리 오래 안 자겠지
+P0 	: 알겠어
+P1 	: 아니면 여보랑 &name3&이만 먹고 와
+P0 	: 흠...
+P0 	: 고민해 봅시다
+P0 	: 일단 귀가중
+P1 	: 넵

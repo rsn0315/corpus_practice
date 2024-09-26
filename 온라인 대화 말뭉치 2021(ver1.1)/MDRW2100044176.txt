@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100044176
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 디저트 좋아하시나요
+P0 	: 네! 쿠키를 젛아해요
+P1 	: 어떤 쿠키를 제일 좋아하시나요
+P0 	: 저 쫀득한 쿠키류요! &name2&님은요?
+P1 	: 저도요 딸이해줬는데 맛있더라고요
+P0 	: 홈베이킹 하나봐요?!
+P1 	: 네 이것저것 해주네요
+P0 	: 와 좋겠다~! 그럼 &name2&님은 어던걸 제일 좋아하세요?
+P1 	: 전 스콘이요 딸이해줬는게 맛있어요
+P0 	: 헉 스콘! 저 스콘 엄청 좋아해용!!!
+P1 	: 오레오스콘 맛있더라고요
+P0 	: 와..... 제가 사는 곳은 안 팔아서 저도 만들어먹어야하나봐요ㅠ
+P1 	: ㅋㅋ 한번 만들어 드샤보세요

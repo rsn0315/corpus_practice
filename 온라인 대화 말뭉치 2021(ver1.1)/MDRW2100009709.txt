@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009709
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 코로나 때문에 일도 못하고 답답하진 않니?
+P1 	: 코로나가 시기에 취업도 쉽지 않아서요
+P0 	: 그치만 집에만있으면 답딥하지 않니
+P1 	: 엄마가 워낙 집에 있는 걸 힘들어해서 그렇게 생각되시나봐요
+	  전 집이 좋은데 ㅋㅋㅋ
+P0 	: 나는집에있으면 우울증걸려
+	  그래서 센터에서하는일 해보려고
+P1 	: 행복센터요? 어떤 일 하시게요? 제 주변도 하는 사람 많던데
+P0 	: 재활용 분리수거 도와주는 일이래
+P1 	: 시급 얼마예요?
+P0 	: 시간당 만원 . 괜찮지?
+P1 	: 오 최저시급보다 더 주네요
+P0 	: 응 그리고 일도 인힘들어
+P1 	: 좋네요  엄만 집에만 계신것보다 나가는 게 도움이 되니 돈도 벌고 건강에도 좋은 일을 하는거 찬성이에요^^
+P0 	: 아빠도 찬성하시겠지?
+P1 	: 아빠야 뭐 엄마가 하신다면 다 찬성하시잖아요~
+P0 	: 그래 그럼 신청해봐야겠다
+P1 	: 일자리 잡는거 성공하길 빌게요!!!

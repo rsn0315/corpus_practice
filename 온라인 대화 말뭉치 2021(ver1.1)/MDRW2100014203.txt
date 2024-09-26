@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014203
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아 배고파 ㅎㅎ
+P0 	: 퇴근 시간 거의 다 됐네~
+P1 	: 오늘 저녁엔 뭐 먹어?
+P0 	: 아직 안정했는데 ㅎㅎ
+P1 	: 삼양라면 어때?
+P0 	: 크~ 라면에 김치 얹어 먹으면 맛있겠다
+P1 	: 5개 끓여서 나눠먹자 ㅎㅎ
+P0 	: 그랴 실컷 먹어보자
+P1 	: 밥도 말아먹고 ㅎㅎ
+P0 	: 삼양라면 안매워서 애들도 잘 먹을듯
+P1 	: ㅇㅇ 진짜 하나도 안매워
+P0 	: 라면에 계란 풀어줘?
+P1 	: 당연하쥬 ㅎㅎ 난 두개
+P0 	: ㅎㅎ 알았어

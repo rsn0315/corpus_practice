@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030051
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 오늘 뭐했니?
+P1 	: 오늘 도서관에 가서 공부했어
+P0 	: 무슨 공부했는데?
+P1 	: 한국사 공부했어 재미없었어ㅠ
+P0 	: 한국사 어떤 부분을 공부했어?
+P1 	: 한국사 삼국시대를 공부했어! 신라가 너무했어ㅠ
+P0 	: 왜? 신라가 왜 너무했어?
+P1 	: 내 친구가 강아지를 키우는데 너무 귀여워요!
+P0 	: 강아지? 아파트에서?
+P1 	: 아니 주택에서 키워요
+P0 	: 주택이면 괜찮겠다 아파트는 너무 좁아
+P1 	: 그래서 강아지 키우고싶은데 못키우잖아요...
+P0 	: 강아지도 행복해야지 아파트에서 키우니까 맨날 짖더라
+P1 	: 그건 그 사람들이 훈련을 잘못시킨건 아닐까요?
+P0 	: 그래? 고모집 개도 짖던데
+P1 	: 다른 이유도 있나봐요 아무튼 독립하면 키우고싶어요
+P0 	: 독립해서도 원룸에 살면 키우면 안돼
+P1 	: 그러면 저도 안키울거예요 조금 넓은집 가면 키우려고요
+P0 	: 그럼 강아지 한참 뒤에 키우겠네
+P1 	: 강아지는 거의 아기라니까 어쩔수없죠
+P0 	: 그건 맞지

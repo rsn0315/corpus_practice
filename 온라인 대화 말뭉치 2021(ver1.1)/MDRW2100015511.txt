@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015511
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 무슨 날씨가 좋아?
+P0 	: 무슨 날씨 좋아해
+P1 	: 선선한 날씨! 딱 뛰어놀기 좋잖아
+P0 	: 어 그치ㅋㅋ
+P0 	: 그럼 계절은
+P1 	: 요즘 비 많이 오던데
+P1 	: 나는 가을좋아해
+P0 	: 비 그쳤는데ㅋㅋ
+P0 	: 난 봄이 좋아ㅎㅎ
+P1 	: 봄하니까 벚꽃보고싶다
+P1 	: 오늘은 별이 잘보인다
+P0 	: 이제 선선해지니까 하늘이 맑네
+P1 	: 점점 날씨가 선선해지구 있어 ㅎ
+P1 	: 밤하늘에 별을따서 너에게 주고싶어
+P0 	: 그러고보니 요즘 미세먼지도 없는 것 같아
+P0 	: 그치?
+P1 	: 맞아 공기가 맑아!
+P0 	: 예전에는 진짜 하늘이 회색빛이었는데
+P0 	: 요즘은 맑아
+P1 	: 미세먼지 때문에 넘 힘들어씀 ㅠㅜ
+P0 	: 그니깡ㅠㅠ

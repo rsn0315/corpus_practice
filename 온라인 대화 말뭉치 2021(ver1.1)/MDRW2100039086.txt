@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100039086
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 연예인 있나요?
+P1 	: 저 투바투 좋아해요
+P0 	: 아이돌이죠? 제가 잘 몰라서요
+P1 	: 맞아요
+P1 	: &name1&님은 좋아하는 연예인 있으신가요
+P0 	: 해외 배우 좋아해요
+P0 	: 그래서 영화랑 드라마 추석에 볼려고요
+P1 	: 어느 배우요? 저도 추석에 볼만한 영화 골라야하는데
+P1 	: 추천해주세요
+P0 	: 벤반스라고 영국배우요
+P0 	: 좋아하는 장르 있으세요?
+P1 	: 호러만 아니면 다 봐요
+P0 	: 극장에서 보실거면 마블 샹치 추천이요
+P1 	: 아 샹치 개봉했겠군요
+P0 	: 네 개봉했어요 마블 영화 재밌잖아요
+P1 	: 맞아요 저번 블랙위도우까지 챙겨보고
+P1 	: 까먹었네요...ㅋㅋ
+P0 	: 마블 영화 잘 챙겨 보시는군요
+P1 	: 네 마블 영화는 다 봤어요

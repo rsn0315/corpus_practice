@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032803
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 재택근무를 하신적이 있나요
+P0 	: 아뇨 저는 없어요
+P0 	: &name2&님은 있나요
+P1 	: 저도 재택 근무한적 없네요
+P1 	: 회사는 코로나로 부터 괜찮나요
+P0 	: 전 회사가 아니라 알바 중이어서 재택은 어림도 없네요
+P1 	: 회사도 재택 할수 있는 여건이 안되어서 꼭 출근해요
+P0 	: &name2& 님은 재택근무하면 더 좋을 것 같나요?
+P1 	: 좋긴하죠
+P1 	: 그런데 재택근무가 힘들긴 하죠
+P0 	: 헉 그런가요? 왜 재택근무가 힘들다고 생각하세요??
+P1 	: 동료들과 함께 도와 가면서 하는 일이라서 힘들죠
+P1 	: 아님 그룹 근무를 해야 해요
+P0 	: 아하 그렇군요
+P1 	: 재택 근무 하고싶네요
+P0 	: ㅋㅋㅋㅋ저두요ㅋㅋㅋㅋ
+P0 	: 나중에 회사가면 꼭 하고 싶네요
+P1 	: 꼭 해보세요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100029309
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 점심 맛있게 드셧어요 ?
+P1 	: 네 점심 맛있게 먹었죠
+P0 	: 뭐 드셨어요?
+P1 	: 밑반찬에 계란후라이 먹었어요
+P0 	: 무슨 밑반찬 ?
+P1 	: 깍두기 부추무침 단무지무침 그리고 잘 안 떠오르네요
+P0 	: 오 너무 푸짐하다. !!
+P1 	: 정말 그렇게 생각하시나요?
+	  저는 그정도는 푸짐으로 보기에는
+P0 	: ㅎㅎㅎ 농담 ㅎㅎ
+P1 	: 네 그렇겠죠
+P1 	: 첨부터 농담이다니 재밌으시네요
+P0 	: 할말이 없어서..

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008914
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 좋아해요
+P1 	: 근데 못간지 너무 오래됐어요ㅜ
+P0 	: 저도
+P1 	: 최근 어디 다녀오셨어요?
+P0 	: 남해요
+P1 	: 저는 부산 갈까했는데
+P1 	: 포기했어요ㅜ
+P0 	: 부산심하죠?
+P1 	: 4단계라길래 괜히 갔다가 사달날까 싶더라고요
+P0 	: 네 겁나여
+P1 	: 전 그래서 그냥 동네 걸어요 ㅋㅋ
+P0 	: 어디 가고 싶은데 있어요?
+P1 	: 해외라면 가까운 일본이라도 가고싶어요 ㅋㅋ
+P0 	: 방사능 위험 은요

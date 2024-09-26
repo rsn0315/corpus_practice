@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003454
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 저번에 치료받은 무릎은 좀 괜찮아?
+P0 	: ㅇㅇ 많이 좋아졌어. 그 때는 아예 펴지도 못하겠더니 지금은 아주 좋아.
+P1 	: 다행이네~ 계단 같은거 오르내릴 때 조심해
+P0 	: 그것보다 무리하게 스트레칭 하지 않으려고
+P1 	: 스트레칭하다 다쳤었나?
+P0 	: ㅇㅇ 몸이 너무 뻣뻣한 것 같아서 유연성 기르려다ㅠㅠ
+P1 	: 이런이런
+P0 	: 한 번 그러고 나니 무서워서 못하겠어
+P1 	: 운동할 때도 넘 무리하면 안돼
+P0 	: 아예 걷기도 힘들 정도였던지라 다신 그러기 싫어 ㅎ
+P1 	: 지금부터 잘 관리해야 나이들어서도 문제없지
+P0 	: 무릎 아프고나서는 스쿼트도 안해
+P0 	: 그냥 가벼운 산책만 해
+P1 	: 당분간은 그 정도만 해~무리 말고

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 요즘 대면하고 있어?
+P1 	: 지금은 방학이지 ㅡㅅ0
+P1 	: 이제 2일 후면 학교가
+P0 	: 고등학생이야?
+P0 	: 나도 지금은 방학ㅋㅋ
+P1 	: 난 중학생이야
+P0 	: 학업 스트레스는 딱히 없어?
+P1 	: 학업..공부싫어ㅠㅠ
+P0 	: 어떤 과목이 힘들어?
+P1 	: 전부다..
+P0 	: 좋아하는 과목은 없어?
+P1 	: 체육!
+P0 	: 오 나도 체육 좋아하는데
+P0 	: 체육 잘해?
+P1 	: 못해ㅋㅋ
+P0 	: 못하면 보통 좋아하기 어렵지 않아? 어쩌다 좋아하게 됐어?
+P1 	: 딴 과목이 싫어서 좋아하게 됬달까.?
+P0 	: 체육 관련 동아리도 해?
+P1 	: 동아리는 있지만 하진 않지

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023796
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 음 종류가 되게 많아서
+P0 	: 생크림에 오레오 과자 뿌려주는 것도 맛있고
+P1 	: 오 맛있겠다
+P0 	: 미국식 어플의 정석은 생크림에 사과쨈이야
+P1 	: 그것도 좋을거 같아
+P1 	: 다 먹어봤어?
+P0 	: 약간 처음 먹는 피자집에 포테이토 피자 시키는 것처럼 처음 먹는 와플 집은 생크림에 사과쨈으로 간을 볼 수 있지
+P1 	: 다 먹어봤어?
+P0 	: 응 나 전에 살던 동네에 엄청 유명한 와플 집 있었어
+P1 	: 오
+P0 	: 바바플이라고 맛있었는데
+P1 	: 그래?
+P0 	: 응 거기는 딱 길거리 와플 파는 집이었어
+P1 	: 아 어떤 느낌일지 알거 같아
+P0 	: 카페 디저트 느낌이 아니라 그냥 손에 들고 집에 가면서 먹는 그 느낌
+P0 	: 시장 부대찌개도 맛있더라

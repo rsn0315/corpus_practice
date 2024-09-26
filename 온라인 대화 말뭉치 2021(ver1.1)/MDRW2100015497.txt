@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015497
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 좋아하세요?
+P1 	: 아주 좋아해요
+P1 	: 요새 못가서 슬프네요
+P0 	: 하긴 싫어하는 사람 거의 못봤어요
+P1 	: &name1&님은요?
+P1 	: 그치요ㅎㅎ 힐링인걸요
+P0 	: 저도 좋아해요 마지막 여행지는 어디셨어요?
+P1 	: 가평 애견펜션이요
+P1 	: 코로나로 콕 처박혀 있는 여행만 하네요
+P0 	: 와 강아지있으니까 그런곳도 좋겠네요
+P1 	: 네ㅎ 강아지 수영장도 있고 뛰어놀 잔디 운동장도 있고 좋아요
+P1 	: 최근 어디 다녀오셨어요?
+P0 	: 저도 여행간지 오래됐어요ㅜㅜㅜ
+P0 	: 그나마 제일최근이 속초요
+P1 	: 속초에서 뭐하고 노셨나요
+P0 	: 그냥 예쁜 까페가고 바다보고 그랬어요ㅎㅎ
+P1 	: 그거면 됐죠. 제대로 힐링하셨네요
+P0 	: 뭔가하기엔 역시 코로나땜시 ㅜㅜㅜ

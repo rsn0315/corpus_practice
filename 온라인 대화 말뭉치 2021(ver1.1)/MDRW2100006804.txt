@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006804
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 모더나가 오늘 일부물량 도착했다고 뉴스에 나오네요
+P1 	: 오오 다행이네요
+P1 	: 조금더 순차공급이 원활햇더라면 제 백신 접종 간격이 6주가 되지는 않앗을텐데 ㅠㅠ
+P0 	: 뭐 맞으셨어요?
+P1 	: 저 모더나 맞앗어요
+P0 	: 와 주변에 모더나 맞은 사람 1명봤어요
+P1 	: 갑자기 간격 6주로 늘어나서 아직 2차 못맞앗어요
+P0 	: 모더나는 어떻게 예약하셨나요 잔여백신 아니었나요
+P1 	: 네 잔여백신 잡앗어요
+P0 	: 아 역시...지인도 잔여백신이더라구요
+P1 	: 네 &name1&은요?
+P0 	: 저는 얀센이요 ㅎㅎ
+P1 	: 아 얀센맞으셧구나
+P1 	: 괜찮으셧어요?
+P0 	: 하루정도는 힘들더라구요

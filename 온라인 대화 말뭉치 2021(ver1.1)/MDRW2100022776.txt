@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022776
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 저녁 고민중이에요
+P0 	: 저는 만두요
+P1 	: 군만두인가요
+P0 	: 네 구운거
+P1 	: 저는 배달 어플을 켰어요
+P0 	: ㅎㅎ
+P0 	: 메뉴는?
+P1 	: 음 마라탕이 좋을까요 치킨이좋을까요
+P0 	: 치킨이여
+P1 	: 후라이드 파인가요 양념파인가요
+P0 	: 후라이드요
+P1 	: 후라이드랑 소금은 잘어울리죠
+P0 	: 네 대박

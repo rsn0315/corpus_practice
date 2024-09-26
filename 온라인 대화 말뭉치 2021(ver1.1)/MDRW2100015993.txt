@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화좋아하세요?
+P1 	: 좋아하는데 잘 ㅁ못봐요
+P0 	: 저도
+P1 	: 그쵸ㅠ 바빠서 ㅜㅜ
+P0 	: 네 시간이
+P1 	: 공연은 더 못보고
+P0 	: 거리두기가문제죠
+P1 	: 맞아요 공연계도 문제고
+P0 	: 모이기가 쉽지않죠
+P1 	: 그쵸 ㅠ 안타까워요
+P0 	: 현실이 그렇죠
+P1 	: 뮤지컬 좋아하세요?
+P0 	: 네
+P1 	: 많이 보셨나요
+P0 	: 1번이요

@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100015412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 저녁 식사는 하셨어요?
+P1 	: 넵 전 아까 6시 다되서 먹었어요!
+P1 	: 다돼서
+P1 	: &name1&님은요?
+P0 	: 저도 식사했어요:)
+P0 	: 치킨 좋아하세요?
+P1 	: 네 치킨 맛있죵ㅎㅎ
+P1 	: 혹시 치킨 드셨나요!
+P0 	: ㅋㅋ오늘 먹은건 아닌데
+	  이 시간되니 생각나서요ㅋ
+P0 	: &name2&님의 최애치킨은 어딘가용
+P1 	: 아ㅋㅋㅋ 이시간이면 생각날때죠ㅜㅋㅋ
+P1 	: 전 뿌링클 좋아하구 교촌 라이스치킨 좋아해요
+P0 	: 오 뿌링클과 라이스 치킨ㅋㅋ
+P0 	: 라이스치킨은 한번도 안먹어봤네용
+P0 	: 교촌은 허니콤보만ㅋ
+P1 	: 허니콤보가 유명한 대표메뉴맞죠??
+P1 	: 라이스 치킨은 소스 맛있는거 줘서 좋아용 같이오는 감자튀김도 맛있고
+P0 	: 오 이번에 라이스 치킨도 먹어봐야겠어요ㅋ
+P0 	: 맛있는 소스 궁금하네요 ㅋㅋ
+P1 	: ㅋㅋㅋㅋ 하얀 소스? 하나랑 달짝지근한 초록색 소스, 소금 이렇게주는데
+P1 	: 다른메뉴에 주는지는 모르겠지만 진짜 맛있어요 ㅋㅋ
+P0 	: 오호 궁금증이 밀려오네요 ㅋㅋ
+P1 	: ㅋㅋㅋ &name1&님 최애치킨 교촌 허니콤보말고 있나요??
+P0 	: 저의 최애는 비비큐에요
+P0 	: 황금올리브{emoji:♡}
+P1 	: 오 저도 황올 좋아하는데ㅠㅠ
+P1 	: 근데 가족들이 후라이드 먹기싫다그래서
+P1 	: 먹어본지 까마득하네여ㅠㅠㅠ
+P0 	: 앗 정말요?
+	  완전 맛있죠? ㅋㅋㅋ
+P0 	: 저는 꼭 닭다리 추가해서 시켜요 ㅋㅋ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021892
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 재택근무 해보셨어요?
+P0 	: 네 몇번했는데 힘들더라구요
+P1 	: 아이와 함께 재택근무 하셨겠죠?
+P0 	: 네ㅠㅠ 할게못되는
+P1 	: 저도 늘 아이와 함께 였는데, 제일 최근에는 진짜 단둘이 있는 재택인데, 전 줌으로 해야되서 걱정이었는데, 생각보단 협조적으로 잘 해주더라고요. 아이 어린이집 안 보내고 재택할 수 있다는 것만으로도 감사했어요.
+P0 	: 맞아요 그런점은 좋더라구요
+P0 	: 장단점이 있는것같아요
+P1 	: 이제 곧 재택은 못 하게 되니 아이도 어린이집에 보내야할 듯요.. 빨리 코로나가 좀 잦아들기를..
+P0 	: 언제 끝날지 기약이 없네요
+P1 	: 이젠 함께 잘 살아나가야 한다는 추세로 가고있으니 재택하는 회사도 줄고, 경제 활성화에 더 초점을 맞추게 되겠지요?
+P0 	: 네 자영업자도 넘 힘들고ㅠ
+P1 	: 맞아요. 재택 많은 회사 앞에서 음식점하는 친구가 있는데 많이 힘든가보더라고요..
+P0 	: 에휴

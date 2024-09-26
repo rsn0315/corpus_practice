@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P0 	: 요새 다이어트나 운동 하시나요?
+P1 	: 시간적 여유가 안되서 못하고있어요
+P1 	: 하고 계신 운동 있으신가요
+P0 	: 아뇨 저두 운동은 안하고있어요, 그냥 가벼운산책정도만해요ㅋㅋ
+P1 	: 걷기가 여러모로 좋은거같아요
+P1 	: 음 그럼 영양제 드시는 거 있으세요?
+P0 	: 맞아요! 저는 유산균이랑 비타민d 두가지 챙겨먹어요~
+P1 	: 비타민D 먹으면 좋더라궁ᆢ
+P1 	: 약간 힘이 더 나는 기분
+P1 	: 유산균은 어디꺼드시나요
+P0 	: 맞아요!
+P0 	: 유산균 종근당 먹어요
+P0 	: 노란색
+P1 	: 엇 저도 그거 먹어요!!
+P1 	: 가볍게 먹기좋더라구요
+P0 	: 오 이거드시는분 많더라구요~
+P1 	: 맛도 나쁘지않구요
+P0 	: 가만보면 가루유산균들 다 맛난거같아요

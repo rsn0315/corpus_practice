@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 동물아기 키우시나요?
+P0 	: 앗 아니요^^ 동물 좋아하시나요?
+P1 	: 좋아하는데 키울자신은 없네욧 구피가 있어요
+P0 	: 저도 구피 키운적 있어요!! 작은물고기 맞죠?
+P1 	: 네 작은애요ㅎㅎ
+P0 	: 귀엽고 또 무늬가 다 달라서 예쁘더라구요^^
+P1 	: 네 매일 한번밥줘서 편해요 ㅋㅋ
+P0 	: 키우기도 좀 수월한편이고 ㅎㅎ 근데 저 예전에 겨울에 이사를 했는데 그때 물온도 못맞춰서 안좋았던 경험이 있어요ㅜㅜ
+P1 	: ㅜㅜㅜㅜ추워서ㅡ저런ㅜ
+P1 	: 저희구피도 조심해야겠네요ㅜ
+P0 	: 네네! 그렇게 보내고나니 다시 못키우겠더라구요ㅜㅜ
+P1 	: ㅜㅜㅜㅜㅜ슬퍼요ㅜㅠㅜ
+P1 	: 땅에묻으셨나요
+P0 	: 물갈아주다가 하수구에 거의 반 빠진거같고.... 나머지는 그래도 묻어주었어요ㅜㅜ

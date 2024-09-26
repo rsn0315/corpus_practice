@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100040524
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 와 안녕하세요! 저는 지금 번데기탕 먹고 있는데 야식 좋아하세요?
+P0 	: 네!! 번데기탕 저도 좋아하는데 
+	  번데기탕 잘 드시나요?
+P1 	: 네!! 번데기 어릴때부터 좋아해서 엄청 잘먹어요
+P0 	: &name2&님은 어떤 음식 좋아하시나요?
+P1 	: 저는 대체로 가리는 건 없어요! 아 소시지 되게 좋아해요 ㅎㅎ
+P1 	: 더블링 콘&스윗치즈 이거 참 맛있어요
+P0 	: 어디 브랜드꺼인가요?
+P1 	: 천하장사에서 나왔어요!
+P0 	: 횟집에서 나오는 콘치즈같은 음식인가요?
+P1 	: 오 아니요 맥스봉 같은건데 소시지 가운데에 치즈 크게 들어있어요!
+P0 	: 오 그렇군요
+	  그 소시지가 다른 소세지와 다르게 특별히 맛있나요?
+P1 	: 네! 가격대는 좀 있는데 치즈랑 옥수수 좋아하시면 한번쯤 드셔보세요!
+P0 	: 오 한 번 먹어볼께요!!!!

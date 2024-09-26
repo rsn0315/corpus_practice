@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100037043
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 전에 유행하던 달고나 라떼 해먹어본 적 있어?
+P1 	: 달고나는 먹어봤는데 그건 안 먹어 봤네
+P0 	: 커피에 설탕을 넣고   수천 번 젖는 거야
+P1 	: 어깨 아프겠다
+P0 	: 맞아 그 재미로 하는 거야
+P1 	: 맛은 어때
+P0 	: 달고나 맛이라서 진짜 맛있어
+P1 	: 나도 다음에 한번 사 먹어봐야겠다
+P0 	: 까먹지 말고 만들어봐
+P1 	: 그냥 사 먹을게
+P0 	: 너는 무슨 커피 좋아해
+P1 	: 난 요즘 프라푸치노가 좋아
+P0 	: 무슨 맛을 좋아해?
+P1 	: 녹차 프라푸치노가 제일 맛있어

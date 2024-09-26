@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100018708
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 점심은 뭐먹어?
+P0 	: 오늘은 떡만두국 먹으려고 ㅎㅎ
+P1 	: ㅎㅎ 좋네~ 국고기 넣고 끓여먹어
+P0 	: 안그래도 국고기 해동시키는 중
+P1 	: 굿 야채도 듬뿍 넣고 끓이면 영양만점이겠네
+P0 	: ㅎㅎ 당근이랑 버섯 양파 넣고 끓이게
+P1 	: 국물 시원하겠네
+P0 	: 날씨도 찌뿌뚱하고 뜨끈한 국물 먹어야겠어
+P1 	: 난 뭐먹지?
+P0 	: ㅎㅎ 아직 못골랐어?
+P1 	: ㅇㅇ 결정장애야 ㅋㅋ
+P0 	: 신랑도 국물 음식으로 먹어 ㅎㅎ
+P0 	: ㅇㅇ 그러던지
+P0 	: 칼국수 이런건 어떠심 ? ㅋ
+P1 	: 생각 좀 해보고 ㅎㅎ
+P0 	: 든든한 걸로 먹고 오후에도 힘내요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006746
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 당신 건강은 좀 나아져서 다행이에요
+P0 	: 많이 좋아지고 있어요
+P1 	: 내 대상포진도 많이 좋아지고 있으니 걱정 말아요
+P0 	: 정말 다행이네요
+P1 	: 나는 점점 나아지고 있으니 당신 건강 잘 챙기면 좋겠어요
+P0 	: 나야말로 지금 아무렇지도 않고 잘 지내니
+P0 	: 당신 건강하게 잘 챙겨먹어고 운동도 하고 해요
+P1 	: 그래요 우리 같이 건강합시다
+P0 	: 영양제도 먹고
+P1 	: 운동도 하고
+P0 	: 좋아오
+P1 	: 산책도 하고
+P0 	: 잘 자기도 하고
+P1 	: 그러면 좋아질 거에요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 주사 맞으셨나요?
+P1 	: 네 이번 주말에 2차 맞을 예정이예요
+P0 	: 저는 2주 후에 1차 예정이에요. 뭐 맞으셨어요?
+P1 	: 대답을 보냈다고 생각했는데 에러가 났나봐요
+P1 	: 저는 어제 화이자 2차접종 했어요
+P0 	: 어떠신가요?
+P1 	: 음 괜찮은 것 같았느뉘ㅣ
+P1 	: 는데
+P1 	: 24시간 지나고나니 몸살기가 좀...
+P0 	: 약 먹고 쉬셔야 하겠네요ㅠ
+P1 	: 안그래도 약 먹고 뒹굴거리고 있어요ㅎㅎ
+P0 	: 저도 걱정은 좀 되는데.. 빨리 맞고 싶네요 ㅎㅎ
+P1 	: 아 아직 1차접종 안하셨다고 했죠?
+P1 	: 화이자나 모더나 중에 뭔지 결정됐나요?
+P0 	: 화이자 또는 모더나라고 써 있네요ㅎㅎ
+P1 	: 아아
+P1 	: 모더나가 예방효과는 더 좋다고 하던데
+P1 	: 근데 면역반응은 더 심하대요ㅜ
+P0 	: 으 뭐가 됐든 팔만 좀 아프다 지나갔음 좋겠네요ㅠ
+P1 	: 네네 무사히 지나가길

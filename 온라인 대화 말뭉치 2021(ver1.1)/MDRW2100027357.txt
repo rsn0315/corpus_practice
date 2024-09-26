@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027357
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~~
+P1 	: 안녕하세요! 기다리셨죠ㅠㅠ
+P0 	: ㅋㅋㅋㅋ
+P0 	: 학창시절 가장 좋아했던 과목이 뭔가요!
+P1 	: 수학이랑 과학 좋아했어요! 그런데 좋아만 했어요ㅠㅠ &name1&님은요?
+P0 	: 저는 수학 국어 사회?? 이렇게 좋아했던 것 같아요
+P0 	: 과학은 잘 못했고 ㅠㅠ
+P1 	: 와 저도 국어 좋아했어요ㅎㅎ 사회는 잘 못해서 이과로 왔지만ㅠㅠ
+P0 	: 전 과학 못해서 문과감!!
+P0 	: 제일 싫어한 과목은 뭔가여
+P1 	: 영어요! (즉답)
+P1 	: 학창시절엔 진짜 싫어했어요ㅎㅎ 요즘은 미드 영향으로 쫌 괜찮아짐ㅋㅋㅋ
+P0 	: 앜ㅋㅋ 저도 영어 안좋아해서 공부 많이 안했는데..
+P0 	: 사회 나오고 폭풍후회중 ㅠ
+P1 	: 오 근데 또 최근엔 미드 안봤는데 괜찮을까요? 뭐 괜찮겠죠
+P1 	: 학교 다닐때 동아리 활동 하신 적 있어요?
+P0 	: 저 중학교때 방송부 했어요!
+P0 	: 대학교때는 독서토론동아리...? 독서모임??
+P1 	: 오 방송부! 중학교 방송부도 점심시간 방송하나요?
+P0 	: 네네 사실상 점심시간 방송이 메인업무였어요 ㅋㅋ
+P0 	: 저는 작가했어요! 대본쓰는...
+P1 	: 그러셨구나ㅎㅎ 대학에서도 독서토론 동아리였다고 하고 글 읽는거 좋아하시나봐요!

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 엉 아빠 일어나서 출출하다고 파이드시고
+P0 	: 점심은 안차려 먹고?
+P1 	: 축 처져있긴 한데 나쁘진 않은듯
+P1 	: 어 나도 아침겸 점심으로 넘겼어
+P0 	: 응 오늘 식사 챙기기는 소홀하겠군 서로
+P0 	: 엄마는 따로 연락 없지?
+P1 	: 응 아까 아빠전화벨 울리긴 했는데
+P1 	: 그게엄만지는 잘 모르겠네
+P1 	: 아빠걱정돼서 연락한겨?
+P0 	: 응 겸사겸사
+P0 	: 오전에 정신없다가 오후 되니 가족들 안부가 궁금해서
+P1 	: 가족걱정에 여념이 없구먼
+P1 	: 날씨 이런데 넌 괜찮아?
+P0 	: 그럼 가족에 대한 사랑이 넘치지
+P0 	: 응 난 괜찮아
+P1 	: 가족들이 비오고 저기압이면 상태가 안좋아서
+P0 	: 응 다들 그렇지
+P1 	: 엄마 회사일은 잘 되고 있으려나
+P1 	: 어제 저녁에도 막 연락하고 그랬는디
+P0 	: 그러게 엄마가 오늘 출근하면서도 한 걱정했는데
+P0 	: 가족들한테 연락할 겨를도 없을겨
+P0 	: 이따 퇴근하면 얘기들을 수 있겠지
+P1 	: 하긴 아침에 둘이 같이 나갔지
+P0 	: 응
+P1 	: 가족들 다 무사히 하루 보내고 만나면 좋겠네
+P0 	: 오늘은 집안일 하지 말고 푹 쉬어~

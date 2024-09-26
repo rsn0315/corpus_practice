@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020541
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 자주가세요?
+P1 	: 자주가요
+P0 	: 체인점인가요?
+P1 	: 인것도잇고 아닌것도잇어요
+P0 	: 아ㅎ 어떤 메뉴 주로 즐겨드세요?
+P1 	: 안가리고 다잘먹는데 면 좋아해요
+P1 	: 식사하셧나여
+P0 	: 아니요 아직ㅋㅋ 좀따 먹으려구요
+P1 	: 주말인데 오늘 어디 식사하러 나가시나용
+P0 	: 그러고 싶긴한데 배달할까 고민중이에요
+P1 	: 저는 트레이더스 털러 가요
+P0 	: 아 뭐 사러 가시나요?
+P1 	: 일단 먹고 둘러볼려구요
+P1 	: 점심메뉴먼가요
+P0 	: 일단은 냉장고 털어서 남은 김과 두부를 먹을 계획입니당

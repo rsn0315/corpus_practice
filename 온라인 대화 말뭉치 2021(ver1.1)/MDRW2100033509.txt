@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033509
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name1&님 아침드셨어요?
+P1 	: 아뇨ㅠㅠ아침대신 커피마셨어요 아침드셨나요
+P0 	: 저는 어제 막걸리마셔서 빈속만들어놨어요 ㅎㅎ
+P0 	: 빈속에 커피 몸괜찮으신가요
+P1 	: 막걸리 맛있죠ㅠㅠ 파전에 먹고싶네요
+P1 	: 그래서 빵도 먹을까 생각중이에요ㅋㅋ
+P0 	: 아 빵이 있으면 그나마 서양식 아침 느낌나네요ㅎㅎ
+P1 	: 그러고 보니 그렇네요ㅋㅋ배는 안차는데ㅎㅎ
+P0 	: ㅋㅋ 든든한아침식사보다는 위로하는 느낌 ㅋ
+P0 	: 이제 안먹다버릇해서 아침먹으면 더부룩해요
+P1 	: 맞아요 부담스러운 느낌..ㅎㅎ
+P0 	: 빈속에 그냥 양치하고 미지근한물만 마셔요
+P1 	: 저는 우유마실때도 있는데 그것도 그냥..ㅎㅎ
+P0 	: 아침햇살이나 식혜는어떤가요
+P1 	: 어 아침햇살 괜찮죠ㅎㅎ고소하고 좋더라구요
+P0 	: 달아서 끝맛이 찝찝한거빼곳조아요
+P1 	: 식사대용으로도 좋더라구요ㅎㅎ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트?
+P1 	: 네네 다이어트는 항상 하는것같아요
+P1 	: 빼고 요요오고 반복...
+P0 	: 앗
+P0 	: 얼마나 오래 했어여?
+P1 	: 올해부터 했는데 수술할 일이 있어서 두달 쉬고 살이 또 붙었네요
+P1 	: ㅜㅜ
+P0 	: 어머 ㅠㅠ 힘드셨겠어요
+P0 	: 건강이 중요한데.. 어디 아프신거에요?
+P1 	: 아 큰병은 아니구요 ㅋㅋ 혹이 생겨서 제거술했어요 ㅋㅋ
+P0 	: 휴 그럼 다행이네요
+P0 	: 빨리 발견했나봐요?
+P1 	: 빠른편 이었을거예요 이래서 아프면 빨리 병원 가야되나봐요
+P0 	: 오 다행이다 ㅋㅋㅋ
+P0 	: 그거 나중에 암으로 발전하고 그러기도 하죠?
+P1 	: 아 저는 다행히 암은 아니었어요! 혹이 커지면 옆 장기에 협착되서 수술이 더 어려워져서 작을때 수술하는게 좋대요
+P0 	: 아 그렇구나 처음 알았어요~!
+P0 	: 근데 어떻게 발견하신거에요?
+P1 	: 초음파 보고 씨티 찍었어요!
+P0 	: 아~ 건강검진이에요?
+P1 	: 아뇨 배가 아파서 병원 갔었어요

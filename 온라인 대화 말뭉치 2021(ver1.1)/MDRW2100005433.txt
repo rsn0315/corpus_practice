@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100005433
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 최근에 구매하신 아이템이 먼가요
+P0 	: 기억이 안나네요
+P0 	: ebook을 구매한것도 아이템으로 치나요?
+P0 	: 리디북스에서 책을 한권 구입했습니다
+P1 	: 와~ 어떤 책인가요?
+P0 	: 이합화타적백묘사존이라는 외국도서에요
+P0 	: 재밋어요
+P1 	: 오~ 제목 뜻이 뭐예요??
+P0 	: 잘모르겠어요
+P0 	: &name2&씨는 최근에 구매하신 아이템이 뭔가요
+P1 	: 저는 최근에 핸드폰 보호필름을 샀어요!
+P1 	: 제목 뜻이 뭔지 궁금하네요^^
+P0 	: 찾아봤는데 <바보 허스키와 그의 하얀 고양이 스승>이라네요^^
+P0 	: &name2&님 핸드폰 기종이 뭔가요?
+P1 	: 오우~ 제목이 특이하네요
+P1 	: 저는 블랙베리 써요! ㅎㅎ
+P0 	: 블랙베리 좋나요?
+P1 	: 뭐.. 그냥 좀 독특하다 말고는 장점이 딱히 없어요
+P0 	: &name2&씨는 독특한거 좋아하시나봐요
+P1 	: 하지만 그 '독특함'만으로 큰 매력이 있죠
+P1 	: ㅎㅎ네 &name1&님은 어떠신가요?
+P0 	: 저는 사용하기 쉬운게 좋아요^^
+P1 	: 블랙베리도 사용은 쉬워요
+P1 	: 편리하지 않아서 글치
+P0 	: ㅋㅋㅋㅋ불편하지 않아야해요 ㅎㅎ

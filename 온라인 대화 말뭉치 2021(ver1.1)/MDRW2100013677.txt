@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013677
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 티켓팅을 해보셨나요?
+P1 	: 저는.. 저번에 악뮤 티케팅 시도했다 실패했어요
+P1 	: 너무 어렵고 어버버하늕순간 끝나더라구요
+P0 	: 악뮤....ㅜㅜ 좌석을 늘려주면 더 나을텐데 아쉽네요ㅠㅜ
+P1 	: 그러게요ㅠ
+P1 	: 연말시상식에서 기억남는 무대있었나요?
+P0 	: 2019 멜론뮤직어워드가 가장 기억에 남아요
+P1 	: 그 때 어떤 가수 보러갔나요
+P0 	: 방탄, 청하, 에이비식스, 김재환 등등 많이 나왔던 것 같아요
+P1 	: 가장 기억에 남는 무대는 어떤거였나요
+P0 	: 청하 의상이 이뻐서 가장 기억에 남아요
+P1 	: 그 때 뭘 불렀나요
+P1 	: 2019년면..
+P1 	: 12시? 그거 나올 때인가
+P0 	: 오래돼서 기억도 안 나네요ㅋㅋ 코로나 전이니까요..ㅠ
+P1 	: 아무래도 그렇겠죠
+P1 	: 코로나로 인해서 공연이 많이 취소되서 아쉽겠어요
+P0 	: 티켓팅도 나름의 재미가 있는데 요즘 많이 아쉽네요ㅠ

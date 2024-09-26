@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043927
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집에서 만드셨나요?
+P0 	: 네 아빠가 만들어주셨어요
+P1 	: 오 아버님이요? 맛있었겠어요
+P0 	: 네ㅎㅎㅎ
+P0 	: &name2&님은 좋아하시는 음식 있으신가요??
+P1 	: 좋아하는 음식은 엄청 많아요ㅋㅋㅋㅋㅋ
+P0 	: 예를 들면요?
+P1 	: 초밥도 좋아하고 마라탕도 좋아하고 쌀국수도 냉면도 다 좋아해요
+P0 	: 엄청 많네요ㅋㅋㅋ
+P1 	: 네 먹는 거 되게 좋아해서요 ㅎㅎ
+P1 	: 님은 어떤 음식 좋아하세요?
+P0 	: 저는 떡볶이요
+P1 	: 떡볶이도 완전 맛있죠
+P1 	: 어느 브랜드 좋아하세요?
+P0 	: 저는 엽떡이요
+P0 	: 엽떡 좋아하시나요?
+P1 	: 자주 갔었죠ㅋㅋㅋㅋ

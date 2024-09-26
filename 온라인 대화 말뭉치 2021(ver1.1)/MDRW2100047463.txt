@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047463
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁밥 드셨어요?
+P0 	: 먹고왔어요 저녁 드셨나요
+P1 	: 네~ 뭐 드셨어요?
+P0 	: 새우찜 먹었어요
+P0 	: 뭐드셨나요
+P1 	: 전 샤브샤브요! 샤브샤브 좋아하세요?
+P0 	: 좋죠! 고기 조개 다 좋아해요
+P0 	: 외식하신건가요?
+P1 	: 네~ 숙주 좋아하세요?
+P0 	: 네! 숙주 좋아요
+P0 	: 콩나물도 좋아해요
+P1 	: 민트초코 좋아하세요?
+P0 	: 네 좋아해요
+P0 	: 좋아하시나요?
+P1 	: 네ㅎㅎ 매운거 잘 드세요?
+P0 	: 네 좋아해요!
+P1 	: 뭐가 최애예요?

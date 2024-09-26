@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 아들 안자?
+P1 	: 응
+P0 	: 지금 몇신데 아직까지 안자
+P1 	: 폰 좀만 더 하다 잘게
+P0 	: 불끄고 하면 눈나빠지니까
+P0 	: 얼른 끄고
+P1 	: 아
+P1 	: 알겠어요
+P1 	: 엄마 내일 시장갈거야?
+P0 	: 반찬이 없어서 장을보긴 봐야되는데
+P0 	: 태풍온대서 모르겠다
+P1 	: 그럼 온라인으로봐요
+P0 	: 뭐먹고싶은거 있어?
+P1 	: 불고기
+P0 	: 알겠어 해줄게
+P1 	: 넴
+P0 	: 온라인으로 장 보는거 도와줄래?
+P1 	: 네

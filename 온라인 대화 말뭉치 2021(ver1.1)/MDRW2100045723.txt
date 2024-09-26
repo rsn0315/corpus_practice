@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045723
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 반려동물 키우시나요?
+P1 	: 반려동물 키우세요?
+P0 	: 네 고양이 한마리 있어요 ㅎㅎ
+P0 	: &name2&님은 어떠신가요?
+P1 	: 저는 안키워요 자신이 없어요..ㅋㅋㅋ
+P1 	: 그럼 추석에 데리고 가시겠네요?
+P0 	: 아뇨 못데리고 가서 방문하시는 분 모셔야 할 듯 해요 ㅠㅜ
+P1 	: 아이고 고양이가 외롭겠어요
+P1 	: 이름이 뭐에요?
+P0 	: &name3&라고 합니다 ㅎㅎ
+P0 	: &name2&님은 개파인가요 고양이파 이신가요?
+P1 	: 저는 둘다 좋아해요 ㅋㅋㅋ 루씨는 무슨색인가요?
+P0 	: 샴고양이라 알록달록해요 ㅎㅎ
+P1 	: 샴고양이가 얼굴까맣고 몸이 회색? 은색? 밝은색이지 않나요?
+P0 	: 네 얼굴이랑 꼬리 다리 끝은 까맣고 다른부분은 밝은색이에요 ㅎㅎ
+P0 	: 몸통색은 온도에 따라 다르게 바끼는데 신기해요
+P1 	: 온도에 따라 바뀐다구요??? 고양이가요?
+P0 	: 한번 바뀌면 그대로 지속되는데
+P0 	: 사는 온도에 따라서 털 색이 짙거나 옅어져요 ㅎㅎ
+P1 	: 커멜레온도 아니고 고양이가 그렇다는거 처음 알았어요 너무 신기하네요
+P1 	: &name3&는 여자에요 남자에요?

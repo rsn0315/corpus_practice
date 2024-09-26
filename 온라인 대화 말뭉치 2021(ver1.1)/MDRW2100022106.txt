@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022106
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 건주기 사는 거 어때요??
+P1 	: 건조기?
+P1 	: 나도 그 생각하고 있는데
+P1 	: 지금 빨래가 장난 아니다
+P0 	: 그니까요
+P1 	: 호우주의보 내릴 정도니 빨래 마를 틈이 없네
+P0 	: 건조기가 필요해요
+P1 	: 이럴때 있으면 좋은 건 맞지만
+P1 	: 사람들일아 대회해보니 장단점이 있더라고
+P0 	: 어떤거호?
+P1 	: 자리를 차지하고.. 옷이 망가진대
+P0 	: 그렇긴 한데 옷이 안마르니까요
+P1 	: 조금 지나면 더 졿은 성능의 건조기가 나오지 않을까?
+P0 	: 언제까지 기다려야 할 까요?
+P1 	: 집안일을 다 기계로 하려고 하면 안돼
+P1 	: 빨래 건조기 설거지 식기세척기 청소 로봋청소기 쓰면
+P1 	: 할만한 집인일이 없지
+P0 	: 굳이 사람 손을 쓸 필요가

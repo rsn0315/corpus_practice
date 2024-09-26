@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010614
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨ㅠㅠ 그래도 로봇청소기 사니까 그거 보는 재미는 있어요 ㅋㅋ
+P0 	: 로봇청소기 돌릴 정도로 깨끗하군요 집이~^^
+P1 	: 그건 아니구ㅎㅎ 집에 오기전에 청소가 되있으면 해서요ㅎㅎ
+P0 	: 로봇 청소리를 돌리려면 일단 바닥에 뭐가 없어야 하잖아요 ㅋㅋㅋ
+P1 	: 네 하루종일 수건옆에 있던날도 있어요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ 수건에 걸린건가요??
+P1 	: 네ㅎㅎ 귀엽고 짜증나구ㅎㅎ
+P0 	: ㅋㅋㅋㅋㅋ 저희집 로봇 청소기는 몇달째 방치중이예요 돌릴 수 없는 지경이라
+P1 	: 아ㅎㅎ 로봇청소기 완전 예민해서 다 치워줘야 겨우 다니죠ㅋㅌ
+P0 	: 맞아요 시중들기 힘들어서 못쓰고 있어요 ㅋㅋ
+P1 	: 제말이욬ㅋㅋ
+P0 	: 브라바는 아세요?
+P1 	: 아뇨 그게 머에요?
+P0 	: 바닥 닦는 로봇 청소기예요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100016088
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바아트 경험 있나요?
+P1 	: 과외만 해봤구요 아빠 일도와드려봤어요ㅎㅎ과외말고 해보신 알바 있으세요?
+P0 	: 저도 과외뿐이네요..ㅎㅎ
+P1 	: 과외 제일 많이 받은게 주몇회 얼마였어요?ㅋ
+P1 	: 혹은 회당 얼마!
+P0 	: 음 너무 오래됐는데 제가 할 당시는 주 2회 하면 한달에 30만원정도 했던것 같아요
+P1 	: 저도 그쯤이였는데 한곳이 너무멀어서 1회당 5만원 이였어요! 출근하고 계세요?
+P0 	: 저는 육아휴직중이예요~ 회당 5만원이면 월 40-50이네요
+P1 	: 네 멀어서 오래못했어요~ 저도 휴직중인데 복직 생각만해도 스트레스네요ㅎ
+P0 	: 언제 복직 예정이신가요
+P1 	: 내년3월이요! 언제 복직하세요?
+P0 	: 오 저도 그때 예정입니다^^
+P1 	: 얼마나 쉬셨어요~~^
+P0 	: 2년이요~ &name2&님은요?
+P1 	: 전 5년이요.. 으하하 넘 오래되었죠

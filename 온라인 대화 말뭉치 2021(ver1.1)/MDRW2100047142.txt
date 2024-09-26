@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047142
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요ㅎㅎ
+P0 	: 벌써 오후 늦어졌으니.. 점심식사 하셨겠죠?
+P1 	: 네 점심으로 베트남 쌀국수를 먹었어요 쌀국수 좋아하세요?
+P0 	: 쌀국수는 샤브샤브 먹고나서 나오는걸로 간단하게 먹기는 했어도, 따로 안 먹어봐서 잘 모르겠어요ㅎㅎ
+P1 	: 샤브샤브랑 같이 먹는 쌀국수 맛있죠 밀가루보다 위에 부담이 덜가서 좋더라고요
+P0 	: 그쵸
+	  밀가루 줄이는게 건강에 좋다고 하는데 쉬운 일은 아니다보니, 대체해서 먹으며 천천히 줄이는게 좋은것 같아요
+P1 	: 저는 다음에 쌀국수 면만 구입해서 먹어볼 생각이에요 요즘은 국산 쌀국수도 나오더라고요
+P0 	: 오 그렇군요! 맛이 어떨지 궁금해지네요ㅎㅎ
+P1 	: &name1&님은 저녁에 뭐 드실 예정이세요?
+P0 	: 아직 고민중이에요ㅎㅎ
+	  확실하게 정하지는 않았지만, 칼국수면 샀던게 남아있어서 만두 넣어 김치칼국수를 끓여먹을까 하고 생각해보았어요
+P1 	: 와 칼국수에 만두 맛있겠네요 생각만해도 군침이 돋아요
+P0 	: 사실 김치칼국수를 생각만 했지, 만들어보지는 않아서 맛있게 할 수 있을지 모르겠어요ㅜㅜ

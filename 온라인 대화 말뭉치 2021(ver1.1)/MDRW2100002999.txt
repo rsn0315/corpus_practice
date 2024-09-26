@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 좋아하시나요
+P0 	: 돈이 많이 없어서 쇼핑하면 다이소에서 해용
+P0 	: 쇼핑 많이 하시나요?
+P1 	: 예 저는 인터넷쇼핑을 많이합니다
+P1 	: 매일 접속합니다
+P0 	: 저는 부모님이랑 같이 살아서 엄마가 많이 쇼핑을 하세요
+P1 	: 저는 부모님이 인터넷을 할 줄 몰라서
+P1 	: 제가 대신 주문합니다
+P0 	: 오호.. 저는 제가 식재료 같은거 사면 엄마가 되게 싫어하시더라구요 냉장고 관리 안된다고
+P1 	: 재료사면 버리는 일이 많아서 요리를 잘 안하게되더라구요
+P0 	: 쇼핑몰은 어디를 주로 이용하세요?
+P1 	: 티몬과 지마켓을 이용합니다
+P1 	: 항상 쓰는곳이 편합니다
+P0 	: 쿠팡은 이용 잘 안하시는군요~
+P1 	: 쿠팡은 문제가 많다고해서 잘 안씁니다
+P1 	: 불매운동까지는 아니지만
+P0 	: 맞아요 저도 쿠팡 정말 안좋아해요 사실
+P0 	: 남들보다 더 싫어합니다 쿠팡

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100004208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 지금 방학이신가요?
+P0 	: 아니요 다시 개학했어요
+P1 	: 학교는 집에서 가까우세요?
+P0 	: 네! 걸어서 한 15분정도 걸려요
+P1 	: 그건 다행이네요ㅠㅠ 혹시 언덕은 없으신가요? 저 고등학교는 언덕이 엄청 높아서 등교할 때마다 등산하는 기분이에요
+P0 	: 저희 고등학교도 산 밑에 있어서 언덕이 많아요...
+P1 	: ㅠㅠ 왜 평지에 안지어주는 걸까요??
+P0 	: 그러니까요
+P1 	: 에스컬레이터 설치해달라고 항의하고 싶어요
+P0 	: 진짜 등교하면서 맨날 에스컬레이터 설치해달라고 해요
+P0 	: 너무 힘들어요
+P1 	: 혹시 거기도 학생들은 엘베 사용 못하게 해요?
+P0 	: 네...학생들은 못쓰는데 다들 몰래 쓰죠...ㅎ
+P1 	: 저희는 1층에는 교사용화장실밖에 없어서 급하면 가끔 쓰기도 했어요ㅋㅋ
+P0 	: 아..급하면 당연히 써야죠! ㅋㅋ
+P1 	: ㅋㅋㅋㅋ학교 시설들 좀더 신식으로 고쳐줬으면 좋겠어요
+P0 	: 맞아요

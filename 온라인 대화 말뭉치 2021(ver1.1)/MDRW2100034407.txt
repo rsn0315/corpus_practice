@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 맞으셨오요?
+P1 	: 1차만요 &name1&님은요?
+P0 	: 저두 아직 1차만 맞았어요
+P0 	: 담주에 2차 맞으러가요!
+P1 	: 화이지 맞으셨나요?
+P0 	: 네네 화이자
+P1 	: 저는 Az맞았어요
+P0 	: 아 그러셨군요 Az가 1차가 좀 힘들었다던데
+P0 	: 2차도 곧 맞으러 가시겠네요?
+P1 	: 네 고열나더라구요 2차는 2주후에 맞아요
+P0 	: 2차는 화이자에요?
+P1 	: 네 교차접종이더라구요
+P0 	: 저는 둘다 화이자라ㅋㅋ 교차접종이 더 안전하다는 말도 잇던데 뭐가 좋은건지 도통 모르겠네요
+P1 	: 맞아요 부작용도 천차만별이고
+P0 	: 이제 가족분들은 다 맞으셨어요?
+P1 	: 아이들 빼곤 완료했네요
+P0 	: 애기들두 있으시구나! 애기들은 어리나요?
+P1 	: 네 영유아요^^

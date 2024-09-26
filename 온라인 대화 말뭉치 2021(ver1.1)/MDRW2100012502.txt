@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100012502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: &name3&이 건강검진 언제 받아?
+P1 	: 이제 곧 받아야지
+P0 	: 언제?
+P1 	: 아빠 쉬는날 데려가면 돼
+P0 	: 이번에 목줄을 바꿔서 목에 무리가 덜가겠지?
+P1 	: 저번꺼보단 나을거야
+P0 	: 안그래도 목이 안좋은 앤데 걱정이네
+P1 	: 아직 튼튼하니까 너무 걱정안해도 돼
+P0 	: 그래도 요즘 &name3& 켁켁 거리는거 보니까 안쓰러워
+P1 	: 그정도면 나이에 비해 건강한거니까 넘 걱정하지마
+P0 	: 이번에 건강검진할때도 아무 이상 없다고 하면 좋겠다.
+P1 	: &name3& 정도면 튼튼한거랬어
+P0 	: 그렇긴한데 아무래도 나이가 있어서
+P0 	: 걱정이 되는거지
+P1 	: &name3&가 너보다 건강해
+P0 	: 그러면 다행인거고
+P0 	: 이번에 의사 선생님한테 당근은 먹어도 되는지 물업허
+P0 	: 물어봐
+P1 	: 당근은 먹어도 될거야
+P0 	: 그래도 혹시 모르잖아
+P1 	: 사람이든 강아지든 야채는 다 건강에 좋아
+P0 	: 확실해?
+P1 	: 티비에서 봤어
+P0 	: 그럼 좀 정확하겠네.
+P0 	: &name3& 다리 아팠던거는 괜찮나?
+P1 	: 3키로 넘어가면 좀 절어
+P0 	: 그거는 어쩔 수 없는건가?
+P1 	: 다이어트 사료 먹고있삼
+P0 	: 그거 효과있어?
+P1 	: 2.8키로 유지중
+P0 	: 오 괜찮네

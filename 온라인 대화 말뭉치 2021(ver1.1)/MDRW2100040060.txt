@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100040060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 아직 반팔 입으시나요?
+P1 	: 종종요
+	  요즘에는 반팔과 긴팔 사이의 옷을 자주 입어요
+P0 	: 저도 그래요 요즘 날씨 선선해서 좋더라고요ㅎㅎ &name2&님 지역도 선선한가요?
+P1 	: 네 여기도 낮에 쨍하기도 하지만, 대체로 선선해요
+P0 	: 혹시 거기도 얼마전 밤에 천둥 심하게 쳤었나요?
+P1 	: 네 밤에 갑자기 비오면 천둥치곤 했었어요
+P0 	: 전 천둥치는 소리가 첨엔 층간소음인줄 알았었죠
+P1 	: 밤에 너무 시끄럽네 
+	  저 집 예의가 없네 싶었겠어요
+P0 	: ㅋㅋ마자요ㅋㅋ 언니가 천둥소리 아니야? 이랬는데 제가 뭔 천둥이야 층간소음이자나 했다가 며칠은 놀림받았어요ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ 잠깐의 착각이 놀림거리가 되었군요
+P0 	: 그쵸 놀리는게 삶의 낙인가 싶을때가 많아요 ㅡㅡ

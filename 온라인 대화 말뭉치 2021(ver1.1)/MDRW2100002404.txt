@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002404
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P1 	: 여행가고싶다
+P0 	: 나도 가고 싶었는데 코로나 끝나면 같이 갈래?
+P1 	: 헐 완전 좋지
+P1 	: 어디로 여행갈까?
+P0 	: 해외 여행? 국내 여행? 어느쪽으로 갈래??
+P1 	: 둘 다 가자
+P1 	: 국내여행은 가볍게 가기 좋고
+P1 	: 해외여행은 계획 빡 세워서 가자
+P1 	: 너는 어디 가고 싶어?
+P0 	: 젤 가까운 곳은 일본이긴한데 일본 온천이나  보라카이쪽 같은 바다도 가고 싶고
+P0 	: 넌 어디로 가고 싶어?
+P1 	: 나도 일본이 여행가기 만만하네
+P1 	: 유럽 한번도 안가봐서 유럽도 가보고싶긴 해
+P0 	: 나도 유럽 한번도 안가봐서 가보고 싶다
+P0 	: 근데 영어를 못하니까 가기 무서워
+P1 	: 내가 영어공부 열심히 할게
+P1 	: 여행가서 잘 말할 수 있게
+P0 	: 구랭 그럼 같이 가보자!
+P1 	: 코로나 끝나고 계획 잡자
+P0 	: 응응 코로나가 끝나기만 한다면 ㅠㅠ

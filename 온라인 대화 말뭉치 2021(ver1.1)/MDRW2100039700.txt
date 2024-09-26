@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100039700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 뭐 드셨나용
+P0 	: 부대찌개먹었어요
+P0 	: &name2&님은요?
+P1 	: 만드신건가요?
+P1 	: 저는 땅땅치킨
+P0 	: 아뇨 밀키트요 ㅎ
+P0 	: 땅땅치킨 맛있나요?
+P1 	: 오 요즘 밀키트 잘나오더라구요
+P0 	: 그쵸
+P1 	: 모든 치킨이 먹으면 느끼해서 ㅎㅎ
+P1 	: 먹을만해요
+P0 	: 오 땅땅 안먹어봐서
+P0 	: 궁금하네요
+P0 	: 무슨 치킨드셨어요?
+P0 	: 후라이드?
+P1 	: 오븐반 간장치킨반 세트에요 ㅎㅎ
+P1 	: 리뷰 떡볶이 도 주네요
+P0 	: 오 요즘은 그렇게도 해주나보네요
+P0 	: 떡볶이는 맛있나요?
+P1 	: 세트 라서 그런가바요
+P0 	: 세트가 가성비 좋죠

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100024947
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 이상형 있으신가요?
+P1 	: 저는 츄리닝 잘 어울리고 마음씨가 이쁘고 자상한사람 좋아합니다.
+P0 	: 츄리닝이 잘어울리는 사람이 이상형인 이유가 있나요?
+P1 	: 저의 첫사랑이자 지금 짝사랑인분이 츄리닝이 잘어울리십니다.
+P1 	: 그리고 제가 배드민턴 하는걸 좋아해서 츄리닝 입고 같이 운동 데이트 하는 걸 선호하는편입니다.
+P0 	: 오 츄리닝잘어울리기 쉽지 않은데 몸매가 좋으신편인가봐요
+P1 	: 제눈에는 뭐든 좋아보이더라고요
+P1 	: 혹시 &name1&은 이상형이나 연애관 같은거 있으신가요
+P0 	: 저는 귀여운 사람이 좋아요
+P1 	: ㅎㅎ 귀여운 사람 좋죠
+P1 	: 결혼관에 대해선 어떠신지 여쭤봐도 될까요
+P0 	: 저는 집안일 하는 사람이 좋아요
+P0 	: &name2&은요?
+P1 	: 저는 결혼은 안정감을 느끼고 싶어서 빨리 하고싶어요! 집안일 하는 사람 좋죠 ㅎㅎ 저는 저한테 잘해주는 사람이면 좋아요
+P1 	: 현모양처가 될 준비 되어있고든요!
+P0 	: 우와 그럼 30대 초반정도에 하고 싶으신건가요?
+P1 	: 네 맞아요!! 20대 후반에서 30대 초반에 하고 싶어요
+P1 	: &name1&은요??
+P0 	: 저는 솔직히 못할 것 같아요ㅋㅋㅋㅋ

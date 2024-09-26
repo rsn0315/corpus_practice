@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010471
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아직뇨
+P0 	: 키우고 싶은 동물은 있나요
+P1 	: 강아지요
+P0 	: 저는 알러지 땜에 좀 힘드네요
+P1 	: 저도 털이싫어서
+P0 	: 그럼 열대어 키우는건 어떨까요
+P1 	: 물관리가 힘들죠
+P0 	: 뭐든 키운다는건 힘들긴 하죠
+P1 	: 네 케어가 장난아님
+P0 	: 식물을 키우는건 어떨까요?
+P1 	: 아.것도 좋네요
+P0 	: 식물도 사랑과 정성으로 키워야 잘큰대요
+P1 	: 음악도 틀구요

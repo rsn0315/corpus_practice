@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100001452
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P0 	: 퇴근 하셨나요?
+P1 	: 아니요 ㅠㅠ 아직 못했습니다
+P1 	: &name1&님은 퇴근하시나요? ㅎㅎ
+P0 	: 네 저는 한시간 전에 했어요 ㅎㅎ
+P0 	: 오늘 불금인데 뭐 하세요?
+P1 	: 저는 집에 가서 쉬려고요 ㅎㅎㅎ &name1&님은 곧 저녁 드시나요..? ㅎㅎ
+P0 	: 네 저는 장 봐왔어요 ㅎㅎ
+P1 	: 오오 직접 해서 드시는군요
+P1 	: 어떤 메뉴 해서 드세요~?
+P0 	: 저 치즈 라볶이 먹으려구요 ㅎㅎ
+P0 	: 좋아하세요?
+P1 	: 네 저도 라볶이 좋아해요 ㅎㅎㅎ 맛있겠다 라볶이 ㅠㅠ
+P1 	: &name1&님은 요리 잘하시나요? ㅎㅎ
+P0 	: 저 요리하는거 좋아해요 먹는거도
+P0 	: 설거지 빼구요 ㅎㅎ
+P1 	: ㅎㅎㅎ맞아요 요리하고나면 설거지 너무 귀찮아요
+P1 	: &name1&님 다른 음식은 어떤 거 좋아하세요~?
+P0 	: 저는 한식류랑 치킨이요!
+P0 	: &name2&님은요?
+P1 	: 저도 한식 치킨 좋아하고 찜닭도 좋아해요..! ㅎㅎ 저는 오늘 저녁 찜닭으로 먹으려구요 ㅋㅋㅋ

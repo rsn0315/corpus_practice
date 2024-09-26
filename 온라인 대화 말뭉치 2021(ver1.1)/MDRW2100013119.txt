@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013119
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 쇼핑 좋아하세요?
+P0 	: 넵.  자잘한 거 사는 거 좋아해요.ㅁ
+P1 	: 최근엔 뭐 사셨어요?
+P0 	: 어제는 젤리뽀샀어요.ㅎ
+P1 	: 전 고구마요.ㅎ 지금 배송중이라는데 비 안 맞고 잘 왔으면 좋겠어요~
+P0 	: 잘 포장되어 배송오겠지요.
+	  고구마 맛있겠어요.
+P1 	: 저 오늘도 고구마 잔뜩 싸왔는데 마지막 고구마 찌고 나니 또 구매하게 되네요.ㅎ 오늘도 뭔가 쇼핑거리 있으신가요?
+P0 	: 저는 어제 저녁에 구두 샀어요.
+	  승무원구두..ㅎ
+P1 	: 우아~ 날씬하신데 승무원 구두까지 신고 나가시면 다들 미스인줄 아시겠어용~^^
+P0 	: 뒷모습은 그럴 수 있어요.ㅋ
+	  최근에 산 치마를 입으면..ㅋ
+P1 	: 우와~~ 승무원 구두에 새로 구입한 치마 입고 출근하면 모두 한 마디씩 하시겠네요ㅎ
+P0 	: 그럴듯요. ㅎ
+	  뒷모습만 보고는..  ㅋ
+	  님은 요즘 구입한 템들 중에서 추천해주실 거 있나요?
+P1 	: 전 요즘 외식이 안되니 음식재료들 주문해서 집에서 해먹는데, 쌀국수 재료들 사면 대충 비슷하게 요리가 되는 것 같아요~ 요리똥손인 저도 되니 충분히 가능하실 거에용~^^

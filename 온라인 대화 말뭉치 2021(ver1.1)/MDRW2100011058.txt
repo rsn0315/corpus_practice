@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011058
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 현재 짓장을 다니고 계신가용
+P1 	: 아뇨 알바하고있어요!
+P1 	: &name1&님은요?
+P0 	: 저는 취직 준비중입니다 !
+P0 	: 어떤 알바 하시는지 여쭤봐도 될까용ㅎㅎ
+P1 	: 저 학원쪽에서 일해요!
+P0 	: 오호!
+P0 	: 어떤 과목 가르치세요??
+P1 	: 저 과학이랑 수학이요!
+P0 	: 오호 중학생이나 고등학생인가요??
+P0 	: 이과이신가봐요!
+P1 	: 네넹 수학은 중학생만해요! ㅋㅋㅋㅋ
+P0 	: 애들 가르치는거 힘드시죠ㅠㅠ
+P1 	: 네 ..목이 너무아프더라구요 ㅜㅠ
+P0 	: 애들이 말은 잘 듣나요??
+P1 	: 여자아이들은 잘들어요 !ㅋㅋㅋ
+P0 	: ㅎㅎ ㅜㅜ 전국 공통인가봐요!
+P0 	: 저도 선생님이꿈이라 학교에서 잠깐 일했었거든요... ㅎㅎ ㅜㅜ애들 넘 좋은데 미워요
+P1 	: 아아 ㅜㅜㅜ 맞죠 좋은데 밉고..
+P1 	: 선생님이꿈이라니 멋져요!!
+P0 	: 좋을때 보람이 훨씬 크긴하지만 요즘애들 넘 무서워요 흑흑
+P1 	: 맞아요..

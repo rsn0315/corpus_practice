@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100017501
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 여행 좋아해요 ㅠㅠㅠ 코로나땜에 전혀...못가고...마음만 먹고 있지만요 ㅠㅠㅠ
+P0 	: 오 그럼 코로나전에 다녀오신곳 있나요?
+P1 	: 음... 전주 갔었던거 같아요
+P0 	: 오 전주 전주에서 뭐하셨나요?
+P1 	: 맛있는거 먹으러 다녔어요 ㅋㅋㅋㅋ
+P1 	: 콩나물국밥이랑
+P1 	: 새우만두랑
+P1 	: 이것저것...
+P0 	: 새우만두 맛있었겠어요
+P1 	: 네네 맛있었어요 ㅋㅋㅋㅋ
+P1 	: 야시장에서 파는 케밥도 맛있었는데
+P1 	: 그 집은 사라졌다더라구요 ㅠㅠ
+P0 	: 헉 ㅠㅠ 야시장이라 그런가봐요
+P1 	: ㅠㅠ 그러니까요...
+P1 	: &name1&님은 인상깊은 여행장소 있으신가요??
+P0 	: 저는 오사카 갔던게 인상 깊어요
+P0 	: 첫 해외여행이라
+P1 	: 와 오사카
+P1 	: 어떤것들 하셨어요??
+P0 	: 그냥 구경 다녔어요 수족관 커서 고래상어 봤어요
+P1 	: 와 수족관
+P1 	: 수족관 가보고 싶네요 ㅠㅠ
+P1 	: 전 일본은 가본적없어요
+P1 	: 디즈니랜드 때문에 가보고 싶긴해요 ㅠㅠ

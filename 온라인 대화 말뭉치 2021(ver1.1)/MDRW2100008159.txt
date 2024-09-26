@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100008159
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 제일 좋아하는 음식은 무엇인가요?
+P1 	: 안녕하세요 저는 회를 좋아해요
+P1 	: &name1&님은요?
+P0 	: 회 너무 맛있죠~ 저도 회 좋아해요
+P0 	: 면류도 좋아하구요
+P0 	: 무슨 회 제일 좋아하세요?
+P1 	: 경상도에서는 밀치라고 부르는 가숭어 좋아해요
+P1 	: 무슨 회 좋아하세요?
+P0 	: 오 밀치 처음 들어봐요 한번 먹어봐야겠어요
+P0 	: 저는 연어 좋아해요
+P0 	: 생연어도 좋고 훈제연어도 좋아해요
+P1 	: 연어도 좋죠 주기적으로 생각나요
+P1 	: 저는 회를 좋아하다보니 일식을 좋아하는편인데
+P1 	: 뭐 좋아하시나요 &name1&님은
+P0 	: 저는 콩국수 빼고 모든 면 음식을 좋아해요
+P0 	: 삼시세끼 면 먹을 수 있어요ㅋㅋㅋ
+P1 	: 면 맛있죠ㅋㅋㅋㅋ라면 우동 칼국수
+P1 	: 콩국수 안드시는건 저랑도 같아요ㅋㅋㅋ
+P0 	: 오오ㅠㅋㅋㅋㅋㅋ
+P0 	: 주변에선 콩국수 맛있는데 왜그러냐고 질타받았는데ㅋㅋㅋ
+P1 	: 뭔가 텁텁하고 콩비린내나지 않나요ㅠ
+P0 	: 맞아요 전 그 특유의 텁텁한 맛이 별로에요
+P1 	: 뭔가 면에는 깔끔하거나 진한 국물이 취향이예요
+P0 	: 아 좋죠
+P0 	: 혹시 마라탕 좋아하세요ㅡ
+P0 	: ?
+P1 	: 마라탕 한두번 먹어봤는데 그렇게취향은 아니였어요
+P1 	: &name1&님은 좋아하실거 같은데

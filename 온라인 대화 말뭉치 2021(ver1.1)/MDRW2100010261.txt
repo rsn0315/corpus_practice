@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010261
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 음식 좋아하세요?
+P1 	: 제가 요리를 안 한다는 건 좋은데, 맛은 집밥이 더 좋긴해요.ㅋ 요리 똥손이라 2시간씩 걸려서 가성비가 꽝이라 문제죠.
+P1 	: 요리 좋아하세요?
+P0 	: 요알못ㅠ
+P0 	: 잘못해요 흑
+P1 	: 저도 요알못인데 외식도 안 되고 배달음식은 입에 안 맞으니 블로그 보며 겨우겨우 따라하고 밀키트 사서 이것저것 추가해 먹어요.ㅎ
+P0 	: 배달도 먹다보니 질리더라구요
+P1 	: 배달 돌려막기도 한계가 있더라고요. 밀키트 써보셨어요?
+P0 	: 밀키트 쓰레기가ㅠ
+P0 	: 괜찮은거있나요?
+P1 	: 집근처 이마트 에브리데이에 들어와있는거 이것저것 먹어봤는데, 전 마라탕 괜찮았고, 어머니는 청국장 괜찮아하셨어요.
+P0 	: 앗 마라탕 궁금해요
+P1 	: 생각보다 괜찮더라고요. 한 번 드셔보세요.
+P0 	: 앗 마라탕 평소에궁금했는데
+P1 	: 저도 밀키트 이것저것 다 먹어보고 마지막 픽이었는데, 생각보다 맛있어서 놀랐어요.ㅎ 코로나 끝나면 맛집 가서 먹어보고파요.
+P0 	: 낼 바로 도전

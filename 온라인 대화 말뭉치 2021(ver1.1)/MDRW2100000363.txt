@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000363
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 반려동물 있으세요?
+P1 	: 아니요 한번도 키워본 적이 없어요
+P1 	: 그냥 랜선 동물들 보면서 귀여워해요 ㅋㅋ
+P0 	: 아 키우고 싶지는 않으세요?
+P1 	: 키울 자신이 없어서요 ㅠ
+P1 	: 반려동물 있으신가요
+P0 	: 아~저는 키우다가 지금은 없어요
+P1 	: 어떤 동물 키우셨었나요
+P0 	: 강아지 키웠었어요^^
+P1 	: 그러시구나
+P1 	: 반려동물이 주는 행복이 어떤 느낌일까 때로는 궁금해요
+P0 	: 저는 포메라니안 키웠었어요
+P1 	: 포메 넘넘 귀여운것 같아요
+P0 	: 너무 귀엽고 사랑스러워요^^
+P1 	: 요즘은 반려동물과 함께 하는사람들이 정말 많은것 같아요
+P0 	: 키우고 싶은 반려동물 있으세요?
+P1 	: 만약 키우게 된다면 저도 강아지 키워보고 싶어요
+P0 	: 생각해보신 종류 있으세요?

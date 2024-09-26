@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100017925
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 백신 맞으셨나요?
+P1 	: 1차만 맞았어요
+P1 	: 이제 다음주에 2차 맞아여
+P0 	: 오 저도 다음주에 2차 맞는데
+P0 	: 1차 때는 건강 이상 반응 없으셨어요?
+P1 	: 네네 그냥 근육통 정도?
+P1 	: 2차가 찐이래서 무섭네요
+P0 	: 저도 팔만 이틀 아팡ㅎ는데
+P0 	: 아팠는데
+P1 	: 타이레놀 사놔야해요
+P0 	: 제 주변에 2차 맞은 사람들 중에 크게 앓은 분들도 있어서
+P0 	: 1차때 근육통 정도였던 사람도요
+P0 	: 걱정되기는 해요ㅜ
+P1 	: ㅠㅠ토요일에 맞는데 주말내내 집에서 요양해야해요
+P0 	: 그러게요
+P0 	: 저도 주말엔 운동도 외출도 다 자제하고 쉬려고요
+P1 	: 부디 무탈하게 지나가길 바라요!
+P1 	: 그냥 1차땐 유서 쓰고 가겠다 유난이었는데
+P0 	: 근데 또 2차때 무사히 지나간 사람들도 많으니
+P0 	: 저희도 무탈하게 지나갈 거라 믿어요!
+P1 	: 넵 화이자 맞으시죠?
+P0 	: 네네 화이자요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100030745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 이상형은 있으신가요?
+P0 	: 아니요 이상형은 따로 있지않아요
+P0 	: 연애중이신가요?
+P1 	: 아니요. &name1&님은요?
+P0 	: 연애중이에요
+P0 	: &name2&님은 소개팅을 해본적이 있으신가요?
+P1 	: 소개팅은 해본 적 없어요
+P0 	: 연애를 해본적는 있으신가요?
+P1 	: 관심이 없어서 없는 것 같아요. 데이트는 많이 하시나요?
+P0 	: 지금 코로나때문에 이주에 한 번 하는거 같아요
+P1 	: 요즘은 만나기 힘들죠ㅠㅠ
+P0 	: 맞아요 ㅠㅠ 데이트를 할곳도 마땅치 않더라구요
+P1 	: 다니기 힘들 텐데. 어떻게 만나게 되셨나요?
+P0 	: 소개팅으로 만나게 되었어요

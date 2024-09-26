@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012320
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가고 싶은 유명 카페가 있으신가요?
+P0 	: 저는 맛집좋아해요!
+P1 	: 어떤 음식 종류을 좋아하세요?
+P0 	: 돈까스 좋아해요!
+P1 	: 혹시 연돈 가보셨나요?
+P0 	: 연돈 못가봤어요ㅠ 치즈
+P1 	: 저도 가보고 싶은데 제주도까지 갈 엄두가 안 나네요ㅠ 더더욱이나 지금은요..
+P0 	: 요즘도 못먹어서 난리래요..
+P1 	: 코로나 끝나고는 또 몰릴 것 같은데말이죠..
+P0 	: 맞아요 더 심해지겠죠ㅠ
+P1 	: 제주오는 워낙 카페도 많으니 간 다면 후회는 안 하겠지만요..ㅎ
+P0 	: 경치도 좋고ㅠ
+P1 	: 오션뷰 카페에서 친구들과 사진찍고 싶네요ㅠ

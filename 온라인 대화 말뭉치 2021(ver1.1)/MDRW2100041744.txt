@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100041744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 염색 머리 손상 안되는거 있었음 좋겠네요 ㅠ
+P0 	: 오징어먹물로 염색하면
+P0 	: 먹물된다
+P1 	: 그거 감을때마다 먹나올텐데 ㅋㅋㅋㅋ
+P0 	: 머리로 먹글씨도 쓸수있을듯
+P1 	: 비싼거만 아니면 괜찮은데...
+P0 	: 나중에 싸지면 사야지
+P1 	: 돈 많이 벌어서 사드릴게요 ㅎㅎ
+P0 	: 얼른 취직이나 해라
+P1 	: 졸업먼저 하구!!
+P0 	: 너는 아직 새치없지
+P0 	: 부럽다
+P1 	: 저는 아직 20대니까...
+P0 	: 벌써 흰머리 있으면 큰일이긴 해
+P1 	: 그쵸 아직 23인데

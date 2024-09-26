@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009962
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이번 토요일에 무슨 약속 있으세요? 달력에 표시돼 있던데
+P0 	: 줌회의
+P1 	: 아 지난 번에 말씀하셨던 친구들과의 화상통화요?
+P0 	: 그래
+P1 	: 코로나라 동호회 친구들 못 만나셔서 아쉬워 하시더니 화상모임이라도 할 수 있어 정말 다행이에요
+P0 	: 그니까 말이다
+P1 	: 이제 다들 거의 백신 맞으셨나요?
+P0 	: 아직일걸?
+P1 	: 백신 2차까지 다 맞으시면 좀 더 안심하고 봉사 활동도 다닐 수 있을텐데요
+P0 	: 그렇지
+P1 	: 일단은 혹시 모르니까 거리두기 완화되도 백신 2차 맞지 않은 사람은 피하세요
+P0 	: 그럴 생각이야
+P1 	: 그리고 만나더라도 마스크 꼭 쓰시구요
+P0 	: 알았다

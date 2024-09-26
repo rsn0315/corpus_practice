@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 혹시 좋아하는 책 있으세요?
+P1 	: 저는 만화책 좋아해요..ㅎㅎㅎㅎㅎ
+P0 	: 어느 만화책 읽으셔요?
+P1 	: 웹툰도 조금씩 보기는 하는데 요즘 볼게 없더라구요
+P1 	: 혹시 추천해주실만한게 있을까요?
+P0 	: 전 올해 초에 드래곤볼이랑 귀멸의칼날 사서봤는데 재밌더라구요
+P1 	: 드래곤볼 진짜 오랜만이네요!
+	  어렸을때 재밌게봤었어요 ㅎㅎ
+P1 	: 명탐정 코난도 재밌게 봤는데 좋아하세요?
+P0 	: 네 티비로 본거 기억나네요
+P0 	: 혹시 소설책은 안읽으세요?
+P1 	: 추리소설책은 가끔 읽어요ㅎㅎ
+P1 	: 아가사 크리스티 작가님꺼 재밌더라구요
+P1 	: 추리소설 좋아하세요?
+P0 	: 많이 읽어보진 못했는데
+P0 	: 그리고 아무도 없었다 이거 재밌어 보이더라구요
+P1 	: 저 그거 재밌게 봤어요
+P1 	: 유명한 책이죠
+P1 	: &name1&님은 어떤 책 좋아하세요?
+P0 	: 저는 철학책이나 만화책이 좋은거같아요

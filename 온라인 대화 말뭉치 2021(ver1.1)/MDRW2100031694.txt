@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100031694
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물 키우세요?
+P0 	: 지금은 안 키워요
+P1 	: 아 저희도 아이만 ㅋㅋㅋ
+P0 	: 제 친구는 고양이 키우는데 집에 놀러 가보면 털 날리는게 장난아니더라구요
+P1 	: 그쵸 ㅎㅎ 절대 못 키울 것 같아요 관리도 사랑과 정성 들이기도 쉽지 않은 것 같고
+P0 	: 특히 요즘은 애완동물 개념보다는 반려동물 개념이니까 거의 가족이나 마찬가지니 정말 애정을 가지고 키워야지 되니까 입양할 때 정말 심사숙고해서 입양해야할듯요
+P1 	: 맞아요 끝까지 책임지려면 신중해야죠
+P0 	: 사료나 간식 보면 사람이 먹는것 보다 고급진것도 많더라구요
+P1 	: ㅎㅎ 그렇게 먹이려면 무한 애정 ㅎ 정말 가족인거죠
+P0 	: 사료 cf 보니까 연어에 쇠고기에 안들어간게 없더라구요~ㅎ
+P1 	: 저보다 좋은거 먹고 사네요 ㅎㅎ
+P0 	: 친구들 이야기 들어보니까 병원비도 사람보다 더 든다 하더라구요
+P1 	: 보험 안되어 그렇다고 한거 같아요
+P0 	: 그렇군요~
+	  정말 반려동물은 본인이 시간이랑 경제적 여유와 마음가짐을 가지고 키워야겠어요~
+P1 	: 맞아요 그럼 유기견 유기묘도 없어질테구요

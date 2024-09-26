@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100019716
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 최근 보신 책 잇나요
+P1 	: 와 책은자신이없는데요
+P1 	: 마음의양식이없어요
+P1 	: 저최근본거라곤일본어책..
+P1 	: 재밌게본책있나요?
+P0 	: 일본어 천재 아니십니까
+P0 	: 저는 최근에 채식주의자 봤어요
+P1 	: 오 유명한책아닙니까  재밌게봤나요?
+P1 	: 일본어천재라고해주는사람 &name1&님뿐
+P1 	: ㅋㅋㅈㄱㅈㅋㅈㄱㅈㅋ
+P0 	: 애써 기피하다가 봤어요 맨부커상 받아서
+P0 	: 아니 맞잖아요 당연해서 다들 천재라 안하는듯
+P0 	: 당연리 천재라서
+P1 	: ㅋㅋㅋㅋ&name1&님은 말을이쁘게해주세요
+P1 	: 기피하다가봤대
+P1 	: ㅋㄱㅈㅋㅈㅋ
+P1 	: 예전에김밥집갔는데 저책이있었어요
+P0 	: 오 김밥집에 특이하네요
+P0 	: 상받아서 그러려니 해요
+P0 	: 아니면 뭔 이런 글을 써 했을거에요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 아 그러고보니 주식책사놓고아직도안읽었어요..
+P0 	: 맞아요 저도요
+P1 	: 우리주식책읽고부자되어야하눈데
+P0 	: 마자요
+P1 	: &name3&이가얼마나부잔지는모르겠지만
+P1 	: 어쨌든 주식으로대박나서 &name4&가 더부자되자
+P0 	: &name3&은 거렁뱅이야

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다른 나라는 또 가보신 곳 있으신가요?
+P0 	: 저는 미국은 멕시코갈때 하루 잠시 갔었고
+P0 	: 유럽쪽에 많이갔어요! 독일에서 잠시 살았었거든용
+P1 	: 전 유럽은 이탈리아 밖에 안 가봤어요
+P0 	: 이탈리아 너무좋죠 ㅎㅎ어디가셨어요?
+P1 	: 여기저기 많이 갔어요. 밀라노 공항 도착해서 베니스 피사 피렌체 로마 폼페이도 갔었네요
+P0 	: 오 저랑 거의 비슷하네요!!ㅎㅎ 폼페이는 저는 생각보다 그냥 그랫고 피렌체가 의외로 좋았어요
+P0 	: &name2&님은 어디가 젤 좋으셨어요?
+P1 	: 저도 기억에 남는 건 피렌체요
+P1 	: 풍경도 좋았고 미술관 가서 비너스의 탄생 본 것도 거기였던 거 같아요
+P0 	: 그쵸ㅜㅜ 피렌체 밤에 풍경도 예쁘고 도시 자체가 예쁜거같아요
+P0 	: 이탈리아는 피자도 너무 맛있었어요
+P1 	: 맞아요. 근데 파스타는 한국에서 먹는 게 더 맛있었던 거 같아요 ㅋㅋ
+P0 	: 파스타는 좀 짰던걸로 기억해요 ㅋㅋㅋ
+P0 	: 피자가 짱맛있고 ㅜㅜ
+P1 	: 아 그리고 바티칸에서 본 천지창조 천장벽화도 정말 경이로웠어요
+P0 	: 아 바티칸 ㅜㅜ맞아요 진짜 살면서 꼭 한번은 봐야할!!
+P0 	: 저는 종교는 없지만 성수같은거 팔길래사왔어요 ㅋㅋㅋ신기해서
+P1 	: 전 선물용 묵주팔지 샀어요 ㅋㅋ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100031304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오 스포츠도 즐기시나요
+P0 	: 스포츠를 하기보단 보는 걸 좋아해요
+P1 	: 어떤 경기를 주로 보세요
+P0 	: 야구도 보고
+P0 	: 최근에 올림픽 끝나고는 여자배구도
+P1 	: 바쁘셔도 다 챙겨보시나봐요ㅋㅋㅋ
+P0 	: 아 실시간으로는 못볼 때도 있는데
+P0 	: 경기 하이라이트나 소식은 챙겨봐요
+P0 	: 아버지가 워낙 스포츠 중계 보는 걸 좋아하시기도 하고
+P1 	: 아하 아버지랑 같이 보시는군요ㅋㅋㅋ
+P1 	: 어느 팀 응원하시나요
+P0 	: 야구는 두산베어스요ㅎ
+P0 	: 배구는 아직 못정했어요
+P1 	: 아 두산! 좋은 팀이죠ㅋㅋㅋ
+P0 	: 네네 아버지가 예전부터 두산 팬이셔서
+P0 	: 야구 좀 보시나요?
+P1 	: 옛날엔 구장으로 좀 보러다녔는데
+P1 	: 안간지 좀 됐네요 ㅋㅋㅋ
+P1 	: 롯데의 연고지라 ㅋㅋㅋ
+P0 	: 오 직관도 많이 다니셨구나
+P0 	: 앗앗 부산갈매기~
+P0 	: 저희 이모부가 롯데 왕팬이신데
+P1 	: 넹 ㅋㅋㅋ 응원하는게 꿀잼이지만
+P1 	: 경기내용은 안 꿀잼..
+P0 	: ㅠㅠ
+P0 	: 야구장 가는 것도 재미있는데
+P0 	: 요즘은 갈수가 없으니 아쉬워요

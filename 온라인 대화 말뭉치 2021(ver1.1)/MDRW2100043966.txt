@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동을 하시나요?
+P1 	: 네 필라테스요
+P0 	: 오 매일가세요?
+P1 	: 주3회 정도 해요
+P0 	: 오 ㅋㅋ 그룹으로 하세요? 일대일?
+P1 	: 그룹과 일대일 병행해요
+P0 	: 우와 병행!! 신기해요 그러면 일대일은 일주일에 한번 그룹 두번 이런식인가요?
+P1 	: 오 맞아요
+P0 	: 같은 곳에서 그룹이랑 일대일 다 하세요?
+P1 	: 네네
+P0 	: 오 너무 좋을것같은데요?!
+P0 	: 생각 못해봣는데 좋은것같아요!!
+P1 	: 네 일대일 좋은데 금액적인 부분이 부담도 있고
+P1 	: 그룹만 하기는 세세한 코칭을 받고 싶기도 해서요
+P0 	: 맞아요 그게정말 딱좋은것같아요 !!

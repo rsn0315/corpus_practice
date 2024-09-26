@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002410
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 스포츠 좋아하시나요?
+P0 	: 넵 저는 해외축구좋아해요~ 좋아하시는스포츠있으신가요?
+P1 	: 음 최근에 올림픽 하면서 양궁이랑 배구에 관심을 가지게 되었어요
+P1 	: 좋아하는 축구선수가 누구인가요?
+P0 	: 아 배구좋죠 저도 이번에 올림픽보면서 배구경기 전부챙겨봤답니다
+P1 	: 진짜요?
+P0 	: 손흥민선수 좋아해서 요즘 토트넘챙겨봐요!
+P0 	: 네네 김연경선수 너무멋있더라구요
+P0 	: 좋아하시는선수있으신가요?ㅎㅎ
+P1 	: 저도 김연경선수 좋아해요
+P1 	: 리더쉽이나 경기력 너무 멋있어요
+P0 	: 맞아요 이번올림픽 정말 최고였어요
+	  보는재미가 엄청나더라구요ㅎㅎㅎ
+P0 	: 올림픽끝나서 아쉬우시겠어요?ㅠㅠ
+P1 	: 맞아요ㅠㅠ 시작전에는 무슨 올림픽했는데..
+P1 	: 시작하니까 너무 재밌더라구요
+P0 	: 맞아요ㅠㅠ 진짜 일본전이랑 경기너무멋졌어요
+P0 	: 일본이랑 한 배구보셨나요?
+P1 	: 그럼요
+P1 	: 손모으고봤어요
+P0 	: 진짜 그때 5세트때 아직도기억납니다ㅎㅎㅎ
+P0 	: 저도치킨먹으면서 봤는데
+	  어느새 배구만보고있었어요..!

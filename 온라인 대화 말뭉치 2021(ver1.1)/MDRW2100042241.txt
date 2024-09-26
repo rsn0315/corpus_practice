@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100042241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨어요?
+P1 	: 네 갈치구이 해서 먹었답니다
+P1 	: &name1&님은 뭐 드셨어요?
+P0 	: 저는 치킨 먹었어요
+P0 	: 맛난거 드셨네요ㅠ 갈치 좋아하세요?
+P1 	: 치킨이 더 맛있는 거 아닌가요? ㅎㅎ
+P1 	: 가리는 음식 없어서 갈치도 좋아해요
+P1 	: 사실 남편이 워낙 좋아해서 남편 위해 했어요
+P0 	: 근데 전 생선 엄청 좋아하거든요 치킨도 맛있지만ㅎㅎ...
+P0 	: 갈치말고 또 좋아하는 음식있으세요?
+P1 	: 저는 물고기보다 육고기를 좋아해서요 ㅎㅎ
+P1 	: 남편은 해산물을 좋아하고
+P1 	: 근데 제가 요리하니까 보통 돼지 소 닭 오리 이런게 올라와요
+P1 	: 가끔 생선 올리구요 ㅎㅎ
+P0 	: 요리하는 자의 특권이네요 저도 육고기 엄청좋아해요!
+P0 	: 사실 싫어하는 사람이 있을까싶은ㅜ
+P1 	: 그렇죠 요리하는 사람 맘이죠 ㅎㅎ
+P1 	: &name1&님은 배달음식도 종종 시켜먹나요?
+P0 	: 네 종종 시켜먹어요!
+P0 	: &name2&님은요?
+P1 	: 저는 배달음식보다 제가 요리하는 걸 좋아해서 잘 안시키는데
+P1 	: 가족들이 먹고 싶다고 특히 딸이 그럴때 가끔 시켜요
+P0 	: 아하 따님분 배달음식 뭐뭐좋아하세요?
+P1 	: 너무나 평범하게 치킨 피자 같은거요
+P1 	: 가끔 마라탕
+P0 	: 마라탕도 배달되나요? 신기하네요 우와...
+P1 	: 네 저희 딸이 워낙 좋아해서 알게 됐네요

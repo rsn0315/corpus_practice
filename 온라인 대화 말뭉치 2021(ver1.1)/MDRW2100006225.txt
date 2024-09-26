@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006225
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가면 음식은 뭐먹나요?
+P0 	: 뭐 따개비밥 지리탕
+P0 	: 근데 물가가 매우 비싸요 ㅎㅎ
+P0 	: 식사가 보통 만오천 ㅋㅋ
+P1 	: 그렇네요 근데 메뉴가 독특하긴 하네요 못먹어본것들..
+P0 	: 네ㅋㅋ근데 비싸다는 점ㅠ
+P1 	: 그렇네요 그래도 간김에 팍팍 쓰고 먹고 와야죠 쉽개 갈 수 없으니
+P0 	: 네 맞아요 플렉스
+P1 	: 가장 맛있는건요?
+P0 	: 따개비가 신선했던거 같아요 ㅎㅎ
+P1 	: 따개비를 꼬막처럼 먹나요?
+P0 	: 그냥 밥에 비벼 먹었어요 ㅎㅎ
+P1 	: 궁금한 맛입니다 날이좋아 풍경이 멋졌겠어요
+P0 	: 네 이뻤어요 ㅎㅎ
+P1 	: 사진 많이 찍으셨겠어요

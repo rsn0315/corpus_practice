@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010225
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 알바해보셨나요?
+P1 	: 네 예전에 편의점 알바 해본적 있습니다 ㅎ
+P1 	: &name1&님은 알바해보셨어요???
+P0 	: 네 저 빵집
+P0 	: 알바요ㅋㅋㅋ
+P1 	: 오 빵집 알바
+P1 	: 재미있으셨겠넹 빵집에서는 알바 오래하셨어여???
+P0 	: 오래는아니고 8개월정도?
+P0 	: 아 오래네요 저정도면
+P1 	: ㅋㅋㅋㅋㅋㅋ 8개월이면 오래하셨네요
+P1 	: 전 편의점 알바 대학생때 잠깐잠깐 해서 2,3개월씩 찔금찔금 했네여
+P0 	: 편의점알바
+P0 	: 어떤가요?
+P1 	: 동네 편의점에서 야간알바 주로 했는데 자리만 지키면 됐죠 ㅎ
+P1 	: 알바하면서 남는시간에 책 읽었죠
+P1 	: 빵집 알바는 분위기가 어떤가요??????
+P0 	: 야간에 험한? 손님들은 안오나요??
+P0 	: 빵집은 뭐.. 분위기는 평화로워요ㅋㅋㅋ
+P1 	: 정말 가아아아아아끔 진상손님 와서 피곤했던 적 몇 번 있었어요
+P1 	: 평화로운게 최고죠 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 빵집 말고 다른 알바는 안 해보셨어요??
+P1 	: 빵집 하셨으면 카페 알바도 왠지 해보셨을듯
+P0 	: ㅋㅋㅋ 카페알바는 안해봤네요
+P0 	: 저는 마트알바해봤어요

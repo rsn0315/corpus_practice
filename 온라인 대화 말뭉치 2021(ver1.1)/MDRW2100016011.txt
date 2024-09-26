@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016011
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 스포츠가 있나요
+P1 	: 음..올림픽때 양궁은 꼭 봐요
+P0 	: 저도 꼭 봅니다
+P1 	: 어느 선수 관심 있게 보셨어요?
+P0 	: 이번엔 안산 선수가 눈에 보이더라고요
+P1 	: 그쵸 멘탈 대단한듯
+P0 	: 보이시한 모습이 매력이 있네요
+P0 	: 어떤 선수에 관심이 가나요 ?
+P1 	: 저도 김제덕 안산 양궁선수들이랑 안창림이요
+P0 	: 양궁선수들을 잘알고 계신가요
+P1 	: 이번에 첨봤어요
+P0 	: 저도 이번 올림픽때 자세히 보았어요
+P1 	: 그쵸 그이후로 방송나오는 것도 관심있게 보게 되더라구요
+P0 	: 온국민의 관심이 되었죠

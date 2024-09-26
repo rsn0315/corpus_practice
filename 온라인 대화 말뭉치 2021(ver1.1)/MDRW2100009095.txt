@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009095
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~!
+P0 	: &name2&님은 카페 자주 다니세요?
+P1 	: 가끔 다녀요  &name1&님은요?
+P0 	: 저는 자주 다녀요!
+P0 	: 최애 음료나 카페 있어요?
+P1 	: 저는 메가커피 쿠키프라페 좋아해요!  &name1&님은 어떤 음료 좋아하세요?
+P0 	: 저는 아아메나 버블티 좋아해요!
+P0 	: 메가커피는 유니콘프라페? 많이 먹었던 것 같아요
+P1 	: 오오 다음에 한번 먹어봐야겠네요!
+P0 	: 호불호가 좀 갈릴 수도 있어요 좀 사탕같은 맛...?
+P0 	: 저도 쿠키프라페 다음에 먹어볼게요!! ㅎㅎ
+P0 	: 밥 종류는 어떤 거 좋아하세요?
+P1 	: 김치볶음밥 좋아해요!  &name1&님은 어떤 음식 좋아하세요?
+P0 	: 김치볶음밥 진리죠!
+P0 	: 저는 방금 만두 먹었어용
+P1 	: 오오 만두 맛있겠네요!!
+P0 	: 만두 좋아하세요??
+P0 	: 최애 만두 어떤 거예요? 물만두 군만두 찐만두!
+P1 	: 만두 좋아하죠!! 다 좋아하지만 최애만두는 찐만두에요!  &name1&님의최애 만두는 뭐에요?
+P0 	: 저는 물만두요! 방금도 물만두 먹었어요ㅎㅎ

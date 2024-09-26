@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100006659
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 시사(정치, 경제, 사회)>갤럭시 폴드3, 플립3 흥행 예고
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이번 신제품 보셨나요?
+P1 	: 네 관심이 많이 가더라구요. 저는 실시간으로 유튜브로 언팩영상 봤어요
+P0 	: 오 보신 소감은 어떤가요?
+P1 	: 길어서 드문드문 보긴 했는데 재밌었어요. ㅎㅎ
+P0 	: 그럼 폴드. 플립 중에 뭐가 더 끌리세요?
+P1 	: 아무래도 플립이 예뻐서 더 눈길이 가네요. 집에서 태블릿이 있어서 폴드는 아직은 필요성을 못느낍니다. 님은 어떠신가요?
+P0 	: 저는 폴드 성능이나 크기가 더 끌리더라두요
+P1 	: 구매계획이 있으신가요?
+P0 	: 아뇨 휴대폰 바꾼지 1년이 안되서 자제중입니다 얄리님은요
+P1 	: 저도 1년도 안돼서 못바꾸네요. 약정이 잡혀있어서요
+P0 	: 그러시군요 이번에 이렇게 흥행하는 이유는 뭐인것 같나요
+P1 	: 아무래도 디자인 얘기가 많이 나오는걸 보니 그게 크지 않나 싶어요
+P0 	: 그렇군요 액정이 약하다는 이야기도 있더라구요

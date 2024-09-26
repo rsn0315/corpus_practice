@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100004806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 점심에 먹은 미역국 소고기 어디서 산거야?
+P0 	: 이마트에서.. 호주산 소고기인데 맛있지?
+P1 	: ㅇㅇ 엄청 구수하던데
+P0 	: 국고기치고 부드럽더라고
+P1 	: 다음에 트레이더스 가면 많이 사와야겠다
+P0 	: 소고기라 그런가 엄청 비싸더라
+P1 	: 요즘 물가 다 비싸 ㅎㅎ
+P0 	: 300g에 8000원이야 세일해서
+P1 	: 쇠고기치곤 싼건데
+P0 	: 하긴 요즘 삼겹살도 한근에 18000원씩 하더라 ㅋㅋ
+P1 	: ㅎㅎ 뭘 먹고 살아야 하나
+P0 	: 닭고기는 그나마 좀 나아
+P1 	: 닭은 계속 먹으면 질려서

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012062
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 에어컨이랑 보일러 같이 켰더니 그래도 훨씬 낫다
+P0 	: 습도 뚝뚝 떨어지지?
+P1 	: ㅇㅇ 아까는 88프로였는데 지금은 67프로 ㅎㅎ
+P0 	: 와우 엄청 떨어졌네
+P1 	: 이제 좀 살 것 같다
+P0 	: 너무 습하면 기분도 다운돼
+P1 	: 맞아 아까 습하고 끈적끈적하니 괜히 짜증나더만
+P0 	: ㅎㅎ 보일러+에어컨 조함 최고네
+P1 	: 요금 많이 나오는 것 빼곤 최고야
+P0 	: 길어야 며칠이니 쾌적하게 살자 ㅎㅎ
+P1 	: 그러자 ㅎㅎ 안그래도 밖에 못나가 답답한데 집이라도 쾌적해야지
+P0 	: ㅎㅎ 맞는 말씀
+P1 	: 이럴 때 습도계 있으니 엄청 편하네
+P0 	: 그렇지 그냥 습하다 정도로는 수치가 어느 정도인지 모르니

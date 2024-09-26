@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009923
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 점심 드셨나요?
+P0 	: 네 먹었습니다. 이제 저녁 먹어야죠
+P1 	: 저녁 뭐 드실 예정이신가요?
+P0 	: 퇴근해봐야 알 것 같아요
+	  정하셨어요?
+P1 	: 저는 피자 먹으려고요
+P1 	: 그럼 점심 뭐 드셨나요?
+P0 	: 점심은 국밥 먹었어요
+P0 	: 피자 맛있겠네요
+P1 	: 어떤 국밥 드셨나요?
+P0 	: 돼지국밥 먹었어요
+	  국밥 좋아하시나요?
+P1 	: 네 저는 순대국밥 특히 좋아해요
+P0 	: 순대국밥 맛있죠
+	  피자는 어떤 거 좋아하세요?
+P1 	: 저는 불고기요
+	  좋아하는 피자 있으신가요?
+P0 	: 저는 해물피자 빼고는 다 좋아해요
+	  침 고이네요

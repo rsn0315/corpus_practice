@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046581
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211102
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하이
+P0 	: &name2&야
+P0 	: &name2&님
+P1 	: 하이~
+P1 	: &name1& 백신 다 맞았음?
+P0 	: 네 2차 다 맞았습니다
+P0 	: &name2&는 백신 맞았음?
+P1 	: &name2&는 2차 아직임 :)
+P1 	: 2차 많이 아프다던데 사실임? 
+P0 	: 난 1차가 더 아팠고 2차는 조금 덜 아팠음
+P1 	: 오
+P1 	: 1차 맞은 뒤에 더 건강해진건가 
+P1 	: 난 2차 아직인데 아프다고해서 무서워서 
+P0 	: 사람마다 다 다른 캐바캐 같음
+P1 	: 그렇네
+P1 	: 부스터샷도 맞을 계획 있음?
+P0 	: 케바케가 맞는 표준어 인가?
+P1 	: 외래어 표기법상 '케'가 맞긴 할거야
+P0 	: 부스터샷 아직까지는 생각 안해봤어
+P0 	: 그렇군 맞춤법이 어렵네
+P1 	: 부스터샷 같은 걱정 없이 얼른 치료제라도 나왔으면 좋겠다ㅠㅠ 
+P1 	: 건강해집시다!

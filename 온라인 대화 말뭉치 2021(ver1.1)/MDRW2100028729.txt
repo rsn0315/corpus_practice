@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100028729
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 팔뚝 운동 하고있지?
+P1 	: 아니 요즘 운동 안 하고
+P1 	: 식이조절만 함
+P1 	: 너는?
+P0 	: 난 운동하고 식이를 안해 점심에 양껏 먹어
+P1 	: 나는 점심은 간단하게 하고 저녁을 잘 먹는 중이야
+P0 	: 반대가되면 좋을텐데
+P1 	: 배고프면 잠이 안 와
+P1 	: 운동하니?
+P0 	: 요즘 헬스장 가서 gx랑 요가해
+P0 	: 요가는 하기로 했어?
+P1 	: 돈 없어서 홈트하려고
+P1 	: 넌 얼마 주고 요가해
+P0 	: 난 1년 헬스권에 요가랑  gx포함으로 60만원
+P0 	: 요가전문은 아니야 근데 할만해
+P1 	: 저렴하다
+P0 	: 맞아 이제 헬스장 가격 다 공개된거 아니?
+P0 	: 전화랑 방문으로 안물어봐도 된다
+P1 	: 좋다
+P1 	: 헬스 너무 비싸
+P0 	: 응 PT는 받아볼생각 없니
+P1 	: 있어

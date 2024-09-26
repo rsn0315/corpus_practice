@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008433
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 전남
+current_residence : 전남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네. 무슨 일하세요?
+P0 	: 프리랜서에요
+P1 	: 아.. 재택에서 근무하시나요?
+P0 	: 네 집에서 일해요
+P1 	: 저는 아이들 가르치고 있어요.
+P0 	: 대단하시네요
+P1 	: 그냥 밥벌이이지요.ㅎ
+P0 	: 밥 먹고 살아야죠
+P0 	: 학교선생님이면 최근에는 어찌 일하시나요
+P1 	: 방송에 나온 것처럼 원격 수업과 등교 수업을 병행하고 있어요.
+P0 	: 그렇군요 전 그냥 업체로부터 일거리 받아서 하는중이에요
+P1 	: 네.. 일이 몰리면 바쁘시겠어요.
+P0 	: 네 지금 시기가 제일 힘들죠
+P1 	: 그러게요.. 프리랜서분들은 자영업하시는 분들처럼 많이 힘들 것 같아요. 어여 코로나가 사라지고 상황이 좋아졌음 하네묘.
+P0 	: 그렇죠 코로나 때문에 힘들어서 어떻게 살지 참 고민이 되요

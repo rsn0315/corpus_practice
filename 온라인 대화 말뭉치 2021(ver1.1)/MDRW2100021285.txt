@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021285
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 식사메뉴가 어떻게 되세요??
+P0 	: 저는 다 잘 먹지만 한식 제일 좋아해요!
+P1 	: 저도 한식 좋아해요! 덮밥류도 좋아하구요
+P0 	: 오 맞아요 덮밥도 맛있죠!
+P0 	: 제육덮밥도 좋고 일식 덮밥같은 것도 맛있어요
+P1 	: 연어덮밥 제 최애예요! 잠실에 정말 맛있는 연어덮밥집이 있는데 이름이 기억 안 나네요 ㅠ
+P0 	: 연어덮밥 진짜 맛있죠 저도 좋아해요!
+P0 	: 잠실에요? 나중에 생각나심 말해주세요 가보고싶어요 ㅋㅋ
+P1 	: 롯데타워 안에 있었다는 것만 기억나요ㅠ &name1&님은 아는 맛집 있으세요?
+P0 	: 저는 연남동에 있는 곳인데.. 이름이 기억이 안나네여..
+P0 	: 요즘 일식 덮밥 맛집들이 많이 오픈해서 좋아요ㅎㅎ
+P1 	: 연남동 좋죠 예쁜 카페도 많아서
+P0 	: 그쵸ㅎㅎ 아기자기한 가게들도 많고
+P0 	: 맛집도 꽤 많더라구요 자주 가고 있어요
+P1 	: 배달도 자주 시키세요??
+P0 	: 네네 많이는 아니지만요
+P0 	: 배달시키면 주로 떡볶이 먹어요ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004441
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 반려동물을 키운 경험이 있으신가요?
+P1 	: 네 지금 물고기 키우고 있어요 ^^
+P0 	: 여러 마리를 키우고 계신가요? 혹시 이름도 지어주셨을까요?
+P1 	: 베타 한 마리 키우고 있어요~ 이름은 &name3&예요~
+P0 	: 엄청 이쁜 아이를 키우고 계셨네요! 물고기도 일반 먹이와 간식이 나눠져있나요?
+P1 	: 네 가끔 장구벌레..같은 걸 주기도 하고
+P1 	: 사료 종류가 다양하고 입맛이 다 달라요 ㅎㅎ
+P1 	: 저희집 애는 마늘 들어간 걸 좋아하네요
+P0 	: 저는 물고기는 구피밖에 안 키워봐서요..정말 전문적이신 것 같아요!
+P1 	: 아니예요 ㅎㅎㅎ 저도 처음 키워보는거예요..!
+P0 	: 아이가 있는 수조도 다 직접 꾸미시나요?? 막 자갈이나 수초 등등이요!
+P1 	: 저는 지느러미가 화려한 아이를 키우고 있어서
+P1 	: 막 꾸미면 안된다고 하길래 겁나서 조금 휑해요..
+P1 	: 침대랑 은신처정도?
+P0 	: 지느러미가 화려하면 정말 그렇겠네요...그런 정보는 카페에서 얻으시나요??
+P1 	: 친구가 베타를 키우고 있어서 친구한테 배워요~
+P0 	: 저는 예전에 고슴도치를 키울 때 카페에서 주로 물어봤어서요ㅋㅋ 주변에 물어볼 사람이 있다니 다행이에요ㅎㅎ

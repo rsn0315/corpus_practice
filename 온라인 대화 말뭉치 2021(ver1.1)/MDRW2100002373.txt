@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100002373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 안녕
+P1 	: 안녕
+P1 	: 카페 가는거 좋아해?
+P0 	: 응 좋아하는데
+P0 	: 솔직히 너무 비싼것 같아
+P0 	: 코로나때문에 테이크아웃 하는 편인데
+P0 	: 6~8천원짜리 음료 홀랑 마시고나면 허탈하더라 ㅎ
+P0 	: 분위기때문에 가는건데 오래 앉아있을순 없구 ㅎ
+P1 	: 맞아
+P1 	: 음료 가격에
+P1 	: 카페 공간을 이용하는 가격도 책정되었다고 생가하는데
+P0 	: 맞아
+P1 	: 테이크아웃만하는데 음료가격은 비싼것 같아
+P0 	: 코로나여도 창가에 노트북 놓고 시간 보내는 사람들 제법 있더라
+P0 	: 좋아하는 음료 있어?
+P1 	: 나는 음 아이스아메리카노
+P1 	: 그리고 쿨라임피지오탄산세게
+P0 	: 맞아 무난하게 아이스아메리카노 많이 골라 나도 ㅎ
+P0 	: 처음엔 커피를 안좋아했는데 가장 무난해
+P1 	: 응응 카페는 주로 누구랑 가는편이야?
+P0 	: 약속 생기면 지인이나 친구를 만나는 자리기도 하고
+P0 	: 나는 집순이 스타일이라 가족이랑 주로 사간 보내는 편이어서
+P0 	: 넌 어때?
+P1 	: 나는 와이프랑 주로 가는편이고 가끔 친구들이랑 갈때도 있어
+P1 	: 와이프가 카페 가는걸 많이 좋아해
+P0 	: ㅋㅋㅋ여자들 카페가서 조각케이크랑 사진찍고
+P0 	: 인스타업뎃하고 그런거 좋아하지
+P1 	: 와이프는 블로그를해서
+P1 	: 블로그에 올려

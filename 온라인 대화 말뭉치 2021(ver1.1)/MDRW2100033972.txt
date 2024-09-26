@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033972
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 하이
+P0 	: 안녕
+P1 	: 마카롱 좋아해?
+P0 	: 가끔 생각나는데
+P0 	: 사먹진 않아
+P1 	: 난 나름 자주 사먹는 듯
+P0 	: 어떤 맛 제일 좋아해?
+P1 	: 나 안 가리고 잘 먹어
+P1 	: 초코나 민초 제일 좋아하는 듯
+P0 	: 초코는 나도 맛있게 먹었어
+P0 	: 초코칩 잘게 썰려서 씹히는 게 특히 좋아
+P1 	: 아 맛있겠다
+P0 	: 마지막 마카롱 언제야?
+P1 	: 나 일주일 전?ㅋㅋㅋㅋ
+P0 	: 진짜 자주 먹네
+P0 	: 음료는?
+P1 	: 음료 없이도 잘 먹어
+P1 	: 요즘 쉐이크 맛있더라
+P0 	: 아 맛있지~

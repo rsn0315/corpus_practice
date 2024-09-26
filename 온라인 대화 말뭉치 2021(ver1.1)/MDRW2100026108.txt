@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026108
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 여기는 지금은 비 안오네요!ㅎㅎ
+P1 	: 어디사시나요? 그쪽은 비오나요?
+P0 	: 대구요
+P1 	: 그러시군요!
+P1 	: 그쪽도 비 안오나요?
+P0 	: 네
+P1 	: 저는 지금 대전인데 여기도 비는 안오네요!ㅎㅎ
+P1 	: 어제 서울에ㅜ비 엄청 많이와서 다 젖었어요!ㅋㅋㅋ
+P0 	: 폭우였나요?
+P1 	: 네 어제 서울은 진짜  폭우였어요!!!
+P0 	: 지역별로 다르네요
+P1 	: 그러게요..!!
+P0 	: 저흰 어제 더운날씨에고생
+P1 	: 그러셨겠어요!ㅠㅠ
+P1 	: 여기도 좀 습해서 덥긴하네요!ㅠㅠ
+P0 	: 습도가 너무

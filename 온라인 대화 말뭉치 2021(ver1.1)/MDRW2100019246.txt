@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100019246
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이신가요?
+P0 	: 네 대학생이에요
+P1 	: 저는 올해 졸업했어요..!
+P1 	: 수강신청 잘 하셨나요?
+P0 	: 오 졸업 축하드려요
+P0 	: 저는 수강신청 올클했습니다 ㅋㅋ
+P1 	: 감사해요ㅎㅎ
+P1 	: 수강신청 올클하셨다니 다행이네요 !
+P0 	: 정말 다행인거같아요
+P1 	: 이번에도 비대면 수업인가요?
+P0 	: 대면이었는데
+P0 	: 비대면으로 바뀌었어요
+P1 	: 그쵸 .. 계속 비대면이네요 ㅜㅠ
+P1 	: 과제는 괜찮으신가요?
+P0 	: 과제는 항상 어렵죠 특히 조별과제
+P1 	: 맞아요 .. 비대면하면 조별과제도 참 애매하지 않나요..
+P0 	: 온라인으로 조별과제하는데
+P0 	: 참.. 무임승차가 많더라구여
+P0 	: 얼굴안본다고 뻔뻔하게 나가는건지
+P1 	: 대면으로해도 그러는데 비대면은 더 하겠어요...
+P1 	: 조별과제할때 그런 사람들 있음 너무 짜증나죠
+P0 	: 이번엔 그런사람들 없었으면 좋겠어요
+P1 	: 그러니까요..

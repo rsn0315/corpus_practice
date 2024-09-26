@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100003529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 읭? 무슨 택배?
+P0 	: 집 앞에 택배 와있는데?
+P0 	: 뭐 시켰어?
+P1 	: 읭? 시킨 거 없는데..ㅎ
+P1 	: 누구한테서 온 거에요?
+P0 	: &name3&라고 적혀있어
+P1 	: 아!!! 그거
+P1 	: 보험 설계 담당자 분이 선물 보내주신다고 햇었는데
+P1 	: 그건가보네요~~
+P0 	: 아~ 그래?
+P0 	: 이게 뭔데?
+P1 	: 저도 뭔지는 잘 몰라요~
+P1 	: 뜯어봐야 알 수 있을듯ㅎㅎ
+P0 	: 뜯어볼까?
+P1 	: 그래요~
+P0 	: 물 담아먹는 건데
+P1 	: 아~~ 텀블러인가 보네요~
+P0 	: 어 그런거 같아
+P1 	: 커요 작아요?
+P0 	: 그냥 보통 사이즈
+P1 	: 평소에 쓰기 괜찮겠네요~

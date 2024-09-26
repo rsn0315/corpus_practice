@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100026305
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 저녁식사 하셨어요?
+P0 	: 네 &name2&님도 저녁 드셨나요?
+P1 	: 네!  김밥싸서 먹었어요.  숙주나물 넣은 라면하구요
+P1 	: 뭐 드셨어요?
+P0 	: 저는 비빔냉면 먹었어요
+P0 	: 숙주나물에 라면 괜찮나요??
+P1 	: 네!  맛있어요.
+P1 	: 숙주나물은 어떤요리에도 잘 어울리는것같아여
+P1 	: 비냉도 맛있겠어요
+P0 	: 비냉은 그냥저냥이었답니다.
+	  그럼 숙주나물 좋아하시나요?
+P1 	: 배홍동 비빔면 드셔보셨어요?  전 이거 맛있던데ㅎㅎ
+P1 	: 네 좋아해요
+P1 	: 어떤 음식좋아해요?
+P0 	: 배홍동 한번 찾아봐야겠네요
+	  저는 떡볶이 좋아해요
+P1 	: 저도 떡볶이 좋아요!
+P0 	: 좋아하는 떡볶이 브랜드 있으신가요?
+P1 	: 주로 마트에서 사서 집에서 해먹어요
+P1 	: 쌀떡 좋아하세요?  밀떡 좋아하세요?
+P0 	: 저는 밀떡이요

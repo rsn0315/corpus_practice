@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 책 읽고 계신게 있나요?
+P1 	: 아니요
+	  요즘 책을 잘 안 읽게 되네요ㅠㅜ
+P1 	: &name1&은요?
+P0 	: 저도 안 읽어요... 수험 생활 끝나고 나서도 읽은 거라고는 참고서밖에 없네요
+P1 	: 책은 학교 다닐 때 제일 열심히 읽은거 같아요
+P0 	: 맞아요 독서록 쓰느라고 꼬박꼬박 읽었었는데 말이죠
+P1 	: 저는 공부하라그러면 그렇게 책이 재밌게 읽어지더라구요ㅋㅋㅋ
+P1 	: 시험기간에는 공부제외하고 모든것이 재미있게 느껴져서 그런건지
+P0 	: 맞아요 시험기간에는 평상시에 거들떠본적 없는것들도 눈에 들어오죠
+P1 	: 그쵸 그래서 책이 술술 읽혀져서 그 때 참 열심히 읽었던거 같아요
+P0 	: 어떤 책 기억에 남으세요?
+P1 	: 고등학교때 한비야님이었던가
+	  여기저기 여행다니시는 분이 쓰셨던 책을
+P1 	: 많이 읽었던거 같아요
+P0 	: 한비야님 이름 진짜 오랜만에 들어봐요 저도 읽었었는데
+P1 	: &name1&도 읽어보셨군요!
+P1 	: 직접 내가 여행간게 아니어도 여행기를 읽는것만으로도 재밌더라구요
+P0 	: 맞아요 읽기만 해도 재밌고 여행지에 대한 궁금증이 풀리는거 같아요
+P0 	: 여행 가고싶은 마음도 커지구요
+P1 	: 맞아요!  여행가고싶은 마음이 자연스레 생기더라구요

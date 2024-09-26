@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100006011
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기혼/미혼 어느쪽이신가요
+P1 	: 미혼입니당
+P1 	: 결혼하셨나요
+P0 	: 저는 기혼입니다 연애중이신가요
+P1 	: 넵넵 와 결혼하셨군요
+P1 	: 이상형과 만나신건가요
+P0 	: 음 비슷합니다...ㅎㅎ
+P1 	: 와 정말 부럽네요
+P1 	: 이상형에 가까운 배우자라니
+P1 	: 어떻게 만나셨나요
+P0 	: 소개팅입니다...
+	  &name2&님은요?
+P1 	: 저도 소개팅이요
+P1 	: 자연스러운만남은 어렵죠
+P1 	: 소개해준 분이 은인이네요
+P0 	: ㅎㅎ 네 예상치 못한 소개팅인데 잘 만났었죠
+P1 	: 와 첨보는순간 느낌이왔나요?
+P0 	: 네 저는 좋더라구요...ㅎㅎ &name2&님은요??
+P1 	: 저는 그닥 느낌이 온상대는 많이못만나본거같아요
+P1 	: 그냥 만나다보면 호감이라던가
+P1 	: 좋은사람이라서 만나게 되는거같아요
+P0 	: 그러시군요 지금 만나시는분은 몇 번 만나고 그런 느낌이 오셨나요
+P1 	: 음 저는 한 3개월 정도는 만나야
+P1 	: 그런 생각이 들어요
+P1 	: 그래서 성미급한분과는 연애가 참 힘들어요

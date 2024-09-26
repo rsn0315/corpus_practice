@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002352
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 쉽게할수있는 음식 레시피 있으세요?
+P0 	: 음,, 파스타요! ㅋㅋ 의외로 쉬워요
+P1 	: 저는 고기파라 고기류 좋아해요
+P1 	: 오 파스타 크림? 토마토?
+P0 	: 저두 고기 넘 좋아해요!! ㅠ.ㅠ 전 삼겹살
+P0 	: 음 크림도 좋고 토마토도 좋아요 둘다 은근 쉬워요ㅎㅎ 레시피만있다면~
+P0 	: 고기도 썰어넣으면 더 맛나고 ^^
+P1 	: 파스타에도 고기요?
+P0 	: 네 스테이크 같은거요! ㅎㅎ 아니면 닭 고기
+P1 	: 아.., 스테이크.., 닭고기는 닭가슴살인가요?
+P0 	: 넵! 그럼 맛있어용
+P1 	: 그래요? 그거 넣을생걱은 한번도 안해봤어요
+P1 	: 주말에 한번 시도해봐야겠어요
+P0 	: 넴넴 추천드려요 ㅎㅎ
+P1 	: 막창 대창 이런거드시나요?
+P0 	: 오 ㅠㅠ좋아해용!! 비싸서 잘 못먹는 ㅠㅋㅋ
+P1 	: 저두요 ㅎㅎㅎ

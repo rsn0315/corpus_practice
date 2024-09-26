@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100028097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 점심 맛있게 드셨나요?
+P1 	: 네 전 돈까스 먹었습니다. 뭐드셨어요?
+P0 	: 닭볶음탕 먹었어요!
+P0 	: 돈까스 안먹은지 좀 됐네요ㅠ 
+	  일반 돈까스 드셨나요??
+P1 	: 닭볶음탕 좋져 ㅠㅠ 저는 돈가스 정식으로 먹었어요 치킨. 등심. 생선 골고루요 ㅎ
+P0 	: 완벽한 메뉴선정이었네요 ㅎㅎ
+P0 	: 오늘 저녁은 돈까스 먹을까봐요 ㅋㅋㅋㅋ 갑자기 너무 먹고싶네요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ배달 시켜드시죠~~!
+P1 	: 저도 저녁메뉴 고민이네요 ㅎ
+P0 	: 저희 지역은  비가 오는데 그쪽도 비가 오나요??
+P0 	: 비 오면 파전 드셔야죠!
+P1 	: 여긴 비가 안오네오 ㅠ 파전 진짜 좋아하는데~~~
+P1 	: 파전엔 막걸리가 딱이죠 ㅎ
+P0 	: 그쵸! 돈까스 먹으면서 파전 부쳐야겠어요 ㅎㅎ
+P0 	: 막걸리는 좋아하는 막걸리가 있나요??
+P1 	: 막걸라는 장수막걸리랑 지평좋아합니당 ㅎ
+P1 	: &name1& 님은용
+P0 	: 저는 생탁이랑 복순도가 좋아해요!
+P0 	: 지역막걸리도 좋아해서 여행 다니면 꼭 먹어봐요 ㅎㅎ

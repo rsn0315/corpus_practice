@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100025001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요!
+P1 	: 저녁 식사 하셨나요?
+P0 	: .제가 오늘 좀 바빠서 이제 왔네요
+P0 	: 네 집밥 먹었어요
+P0 	: 님은요?
+P0 	: 요?
+P1 	: 안녕하세요!!!
+P1 	: 저녁 식사 하셨나요?
+P0 	: 네 대충 오트밀이요
+P0 	: 님은요?
+P1 	: 저는 마파두부 먹었어요
+P1 	: 냉장고에서 말라가는 식재료에 시판 소스를 부어 만들었어요
+P0 	: 와 맛이게따 저도 먹고 싶네요
+P1 	: 두부 싫어하지만 마파두부는 좋아해요ㅋㅋㅋ
+P1 	: 오트밀...은 맛있나요?
+P0 	: ㅇㅏ뇨  매ㅐㅐㅐㅐㅐㅐㅐ우 맛없어요
+P0 	: 일하다가 죽기싫어 먹은 밥이라 맛도 없고
+P1 	: 맛없음에 대한 진심이 느껴지네요...
+P1 	: 참, 전에 선물용으로 만든다고 했던 치즈케이크는 성공 했나요?
+P1 	: 받은 분의 감상이 궁금쓰~
+P0 	: 그건 무난하게 잘 됐어요 ㅋㅋ 3번재 만든거라서
+P0 	: 검증된 맛
+P1 	: ㅋㅋㅋㅋ 연유는 맛에 큰 영향을 주진 않았나보네요
+P0 	: 맛은 좀 다를건데요 그래도 크게 변수는 아니니깐 괜찮을듯요
+P1 	: ㅎㅎㅎ 오트밀은 식사용으로 상비해두시는 건가요?
+P0 	: 네 시리얼도 오트밀도 다 있어요

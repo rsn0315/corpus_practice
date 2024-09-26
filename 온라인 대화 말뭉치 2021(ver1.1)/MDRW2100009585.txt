@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100009585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 사고싶은 물건 있어요?
+P1 	: 티켓북 추가 구매하려고 생각 중이에요
+P0 	: 티켓북이 뭐에요?
+P1 	: 티켓이나 팜플렛 같은 거 보관하는 용도예요 ㅎㅎ
+	  쓰던 거 다 차서 새로 사야는데 계속 미루고 있어요
+P1 	: 최근에 뭐 새로 사신 거 있으세요?
+P0 	: 우와 신기해요
+P1 	: 장바구니에만 담아두고 있어요. 요즘 티켓 생길 일이 잘 없어서
+P0 	: 저는 갤럭시탭 s7 샀어요
+P0 	: 티켓 생길 일이 없겠네요 ㅜㅜ
+P1 	: 어때요? 전 태블릿은 안 써봤어요
+P0 	: 저는 너무 잘 쓰고 있어요
+P0 	: 화면이 크니까 문서작업과 영상 시청 모두 편해요
+P1 	: 저는 올해 갤럭시 S21 샀어요. 새 폰이 좋긴 하더라구요.
+P0 	: &name2&님도 갤럭시 유저시군요
+P0 	: 저는 노트20 쓰는데 정말 편리해요
+P0 	: 어쩌다 s21 사셨나요?
+P1 	: 계속 갤럭시만 썼더니 익숙해져서요. 결제할 때 삼성페이도 편하구요
+P1 	: 더 고스펙일 필요는 없을 거 같아서 플러스나 울트라 말고 그냥 s21로 샀어요
+P0 	: 삼성페이가 짱이죠
+P0 	: 애플폰은 못쓰겠어요
+P1 	: 앞으로도 계속 삼성 폰 살 것 같아요 ㅎㅎ

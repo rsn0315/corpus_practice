@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010333
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~~
+P0 	: 정모하시나요?
+P1 	: 정기적으로 만나진 않았는데 친해진 사람들이랑 만난 적은 있어요!
+P0 	: 오
+P0 	: 어떤 공통분모였나요?
+P1 	: 같은 게임했어요~
+P0 	: 어떤게임이었나요ㅋㅋㅋ
+P1 	: 슈스엠이라고 리듬게임이에요 ㅋㅋㅋㅋㅎ
+P0 	: 슈스엠이요?
+P0 	: 와우 처음듣네요
+P1 	: 아 진짜요? ㅋㅋㅋ
+P0 	: 네ㅋㅋㅋ
+P0 	: 유명한가요?
+P1 	: 네 거의 모르는 사람 못봤어요ㅎㅎ 신기
+P1 	: &name1&님은 정모하세요?
+P0 	: 아니요 저는
+P0 	: 한번도안해봤어요ㅎㅎㅎ

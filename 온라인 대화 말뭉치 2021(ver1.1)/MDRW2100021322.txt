@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021322
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 음식점 있으세요?
+P1 	: 치킨좋아해요!
+P0 	: 어디거 드세요?
+P1 	: 교촌 좋아합니다ㅎㅎ
+P0 	: 맛있죠 어느메뉴요??
+P1 	: 허니콤보요!
+P0 	: 그게 젤 유명하더라구요
+P1 	: 교촌 대표메뉴죵ㅎㅎ
+P0 	: 퍽살 촉촉살 어느파세요?
+P1 	: 촉촉살이요ㅎㅎㅎ 다리부분
+P0 	: 저두여 ㅋㅋㅋ 다같나봐요 대부분
+P1 	: 아우 치킨 침고이네요
+P0 	: 저도요 ㅋㅋ

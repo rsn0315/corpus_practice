@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021311
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 백신 접종 하셨나요
+P0 	: 예약은 했는데.. 9월초에요..
+P0 	: 잔여 맞으셧나요?
+P1 	: 8일에 1차 예약해놨어요
+P1 	: 추석 지난 날짜로 예약했는데 일찍 맞아도 된다고 해서 날짜 변경했어요
+P0 	: 변경도 가능해요?
+P1 	: 네 예약 취소하고 다시 하면 되요
+P0 	: 아.. 저도 알아봐야겟네요..ㅋㅋㅋ 
+	  걍 날짜대로 되는줄..
+P1 	: 날짜랑 병원 선택해서 예약한거 아니에요?
+P0 	: 그냥 열려있는 날짜중 주말 걸쳐서 선택했어요..
+P1 	: 더 일찍 맞으시려구요?
+P0 	: 매도 먼저 맞는게.. ㅋㅋㅋ
+P1 	: 원래 날짜가 언제에요?
+P0 	: 주위에 백신 맞으신준 많아요? 
+	  기억안나는데 9월2째주엿던듯..
+P1 	: 맞은 사람 좀 있어요. 팔 아프다고 하더라구요

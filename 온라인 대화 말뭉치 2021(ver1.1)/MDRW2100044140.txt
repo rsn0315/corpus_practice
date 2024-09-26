@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100044140
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 곱창전골은 어디서 사신건가요?
+P1 	: 트레이더스에서 샀어요
+P0 	: 가격도 괜찮은편이었나요?
+P1 	: 네 회원카드로 결제하면 추가 할인이 되어서 싸게 샀어요
+P1 	: &name1&님은 뭐 드셨나요?
+P0 	: 저는 볶음밥이요
+P1 	: 직접 만들었나요?
+P0 	: 아니요 아빠가 만들어주셨어요
+P0 	: &name2&님은 좋아하시는 음식 있으신가요?
+P1 	: 저는 면 종류음식을 좋아해요
+P1 	: &name1&님은요?
+P0 	: 너는 떡볶이요
+P0 	: 떡볶이 좋아하시나요?
+P1 	: 네 좋아해요!!
+P1 	: 어떤 종류 좋아하세요?
+P0 	: 전 프랜차이즈 떡볶이요
+P0 	: &name2&님은요?
+P1 	: 저도 배달시켜서 자주 먹어요
+P1 	: 어떤 브랜드꺼 좋아해요?
+P0 	: 저는 엽떡이요

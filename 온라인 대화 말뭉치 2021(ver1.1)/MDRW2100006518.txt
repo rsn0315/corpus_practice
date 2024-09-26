@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100006518
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 가수 있나요
+P1 	: 네 저 온앤오프랑 세븐틴 좋아해요
+P0 	: 아 나혼자산다 비슷한 느낌이죠ㅡ온앤오프
+P1 	: 앗 가수 이름도 온앤오프 있어요ㅠㅠ
+P0 	: 아..죄송해요..노래 여쭤봐놓고...
+P1 	: 죄송하시면 노래 들어주세요ㅠㅠ
+P0 	: ㅎㅎ 팬이신가요
+P1 	: 네 ㅎㅎ 그러니까 신곡 여름 쏙 들어주세요
+P0 	: 온앤오프는 언제 데뷔?했나요
+P1 	: 데뷔한지 5년?6년? 쯤 됐어요
+P0 	: 꽤 됐네요 언제부터 팬이셨나요
+P1 	: 로드 투 킹덤 보면서 부터요

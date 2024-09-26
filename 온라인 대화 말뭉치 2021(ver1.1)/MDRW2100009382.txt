@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100009382
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 민초 좋아하세요?
+P1 	: 네 민트 민트초코 초코 다 좋아해요
+P1 	: 민초 좋아하시나요?
+P0 	: 네 저두 좋아해요!
+P0 	: 초코도 좋아해요 넘 맛있죠 ㅠㅠ
+P1 	: 네 여름에 민트초코스무디 한잔 마시면 속이 다 시원해서 좋아요
+P1 	: 카페가면 뭐 마시세요?
+P0 	: 전 그냥 카페라떼나 아메리카노요! ㅎㅎ 가끔 민초~
+P0 	: 마자요 그 시원~한 민초가 땡길때가 있어요
+P1 	: 중독성있죠 ㅎㅎ 커피 좋아하시군요
+P0 	: 네 ㅎㅎ &name2&님은 주로 어떤 카페 많이 가세용?
+P1 	: 저는 친구들이랑 자주 가는 카페 2군데 있는데
+P1 	: 둘다 개인카페에요
+P1 	: 하나는 사장님께서 일본유학(?) 다녀오셨는데 케익 샌드위치 빵도 다 맛있어요
+P1 	: 다른 곳은 초코전문 카페인데 초코음료종류가 많고 맛있어요
+P1 	: &name1&님은요?
+P0 	: 우와 말만들어도 넘 맛있을것 같은곳이네요!!
+P0 	: 전 그런 단골? 개인 카페가 따로있진 않네요 ㅠ그냥 회사근처 스타벅스를 주로,,가네요,,ㅠㅋㅋㅋ
+P1 	: 스타벅스도 좋죠 스벅 커피 맛이 좋다던데
+P0 	: 넹 ㅋㅋ 가끔 새로나오는 음료들 먹어보는 재미도있고~
+P1 	: 맞아요 예뻐요 스벅음료..
+P0 	: 넹 맛은 좀 복불복이긴하지만~ㅎㅎ
+P0 	: 커스텀해먹고한게 넘 편해용
+P1 	: 자기취향대로 만들어 먹을 수 있는게 최고네요 ㅎㅎ

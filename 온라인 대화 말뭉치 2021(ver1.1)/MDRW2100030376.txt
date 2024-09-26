@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030376
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 주식 관련 책 읽으려고 해도 소설로 빠져요
+P0 	: 기본 몰라도 돼요
+P0 	: 차트만 보기도 해요
+P1 	: 소설은 한 번 읽으면 끝까지 다 읽게 되더라고요
+P0 	: 차라리 회사 분석 책을 보세요
+P0 	: 회계 같은 거
+P1 	: 좋은 생각이에요
+P1 	: 회계 관련 책은 뭐가 좋나요
+P0 	: 공시 보는 법
+P1 	: 차트만 설명되어 있는 책도 있나요
+P0 	: 저자 사경인
+P0 	: 차트는 유목민
+P1 	: 1캡처 해 놨어요 나중에 볼게요
+P0 	: 철저히 단타 만 해요
+P0 	: 사경인 회계사에요
+P0 	: 회사를 알아내기 해줘요
+P1 	: 좋은 정보 감사합니다
+P0 	: 책 10권 보고 시작했어요
+P1 	: 시간 될 때 꼭 읽어볼게요
+P0 	: 아니 뭘요
+P1 	: 유튜브로도 공부합니다

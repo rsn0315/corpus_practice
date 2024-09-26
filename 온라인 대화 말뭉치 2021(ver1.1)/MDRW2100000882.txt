@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000882
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 마미~ 요새 일하는게 넘 힘들다
+P1 	: 왜구를까 ㅠㅠ
+P0 	: 흑흑 일하기 싫엉
+P0 	: 할게 넘 많다 ㅠ
+P1 	: 와우 우리 딸내미 과로를 시키다니
+P0 	: ㅠ 돈버는게 쉽지않당~ㅋㅋ
+P1 	: 그렇지 ㅠ힘내라
+P0 	: ㅜㅜ 쉼이 필요하다
+P1 	: ㅠ 주말에 어디 힐링하러 가자
+P0 	: 구램 ㅠㅠ 일에서 벗어나서 휴식을 좀 취해야겠으
+P1 	: 구랭 울 딸램 넘 고생이 많다
+P0 	: ㅠㅠ 크흡 힘내야지~
+P1 	: 구랭 ㅜㅜ 쪼금만 힘내 이또한 지나가리라
+P0 	: 옹옹,,!그렇길!

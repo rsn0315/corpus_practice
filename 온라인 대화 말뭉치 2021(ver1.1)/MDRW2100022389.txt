@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022389
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 음식은 어떤걸 좋아하세요?
+P1 	: 저는 치킨 좋아해요
+P0 	: 저도 치킨좋아하는데
+P1 	: 음료는 어떤거 좋아하시나요?
+P0 	: 저는 콜라요 옛날에 사이다를 더 좋아했는데 콜라가 더 맛있네요
+P1 	: 저도 콜라좋아하는데
+P0 	: 백반 같은 것도 좋아하시나요?
+P1 	: 네, 좋아해요. 김치찌개 백반 같은 걸 좋아한답니다
+P0 	: 오오 저도 김치찌개 좋아해요!
+P1 	: 저랑 입맛이 맞으시네요 ㅎ 역시 김치찌개는 얼큰해야죠
+P0 	: 얼큰해야 밥한공기 뚝딱이니까요 ㅎ
+P1 	: 그렇죠! 다 먹은뒤에 라면사리 넣고
+P0 	: ㅋㅋㅋ먹을 줄 아시네요

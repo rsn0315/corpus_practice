@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100017190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P1 	: 네 아녕하세요? ㅎㅎㅎ
+P1 	: 안녕
+P1 	: 종교를 믿으시나요?
+P0 	: 네:) 저는 기독교에요
+P0 	: &name2&님은
+	  종교가 있으세요?
+P1 	: 전 종교는 없는데 외할머니가 교회에 다니세요
+P1 	: 코로나라 교회가 닫아서 슬퍼하시는 중이에요
+P0 	: 아 그렇죠ㅠ
+	  저도 20년부터는 교회에 못갔네요
+P1 	: 할머니는 교회가야 친구들이 다 있는데
+P1 	: 외로워하세요
+P0 	: 아 교회에서
+	  예배도 드리고
+	  실버부 분들이랑
+	  모임도 갖고 하셨었나보네요ㅠㅠ
+P1 	: 하루종일 사셨어요 밥도 드시고 예배도 보고 봉사도하고
+P0 	: 에고 그러셨음 더 힘드시겠어요ㅠ
+	  교회도 사람도 다 그리우시겠네요
+P1 	: 네 그래서 엄마에게 전화를 자주하세요 교회를 못가니간 ㅠ
+P0 	: &name2&님도 할머님
+	  너무 적적하시지 않게
+	  전화드려주세요^^^^
+P0 	: 할머님은 그럼 예배를
+	  어떻게 드리세요?
+	  온라인 예배 드리시나요?
+P1 	: 온라인예배를 해도 잘 못하실걸요 눈이 어두우셔서,,
+P0 	: 에궁ㅠ 얼른 코로나로부터
+	  좀 자유로워져야 할머님도
+	  교회 가실수 있을텐데요 ㅠ
+P0 	: 확진자가 줄질 않네요ㅠ
+P1 	: 할머니는 백신을 맞았지만 이런 확진다수면 교회에 못가시죠 ㅠ

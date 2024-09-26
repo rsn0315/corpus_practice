@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100041803
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근가지고 싶으신게 있나요?
+P1 	: 저는 차요! 운전을 하고싶어서요! &name1&님은요?
+P0 	: 저는 로봇청소기 가지고 싶어요 편하다고 하던데 올해안에 사려구요
+P1 	: 와! 로봇 청소기! 요즘에는 바닥도 닦아준다더라구요!
+P0 	: 물걸래로봇청소기 말씀하시는거군요
+P1 	: 네! 맞아요! 그거 너무 부럽더라구요!
+P0 	: 흡입만하는것보다 깨끗할꺼같긴하내요
+P1 	: 그쵸! 아 갖고싶은 가전이 너무 많아요.
+P0 	: 재난지원금으로 살수있을까 싶어서 찾아봤는데 안될꺼같내요;;;
+P1 	: 앗... 바닥 닦아주는 애들은 비싸더라구요. 재난지원금으로 어떤 거 사실 거예요?
+P0 	: 흠 큰걸하려고 생각중이에요
+P0 	: 블라인드를 맞출까 고민하고있어요
+P1 	: 블라인드 좋죠! 진짜 여름 필수 아이템 같아요! 어떤 색으로 사실 거예요?
+P0 	: 흠 집이 전체적으로 화이트나 우드톤이라서 베이지나 우드색으로 생각하고있어요
+P1 	: 와! 베이지도 우드톤도 너무 예쁠 것 같아요!
+P0 	: 아는데가 없어서 견적먼저 받아보려구용ㅋㅋ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002138
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 좋아하는 게임이 있나요?
+P0 	: 언더테일 재밌게 했어요. &name2&님은요?
+P1 	: 제가 게임을 즐겨하는 편은 아니라 테일즈런너랑 메이플 재밌게했어요
+P0 	: 저는 테런 처음 했을 때 자꾸 부딪혀서 그날 관뒀어요 ㅋㅋ 현질같은 것도 하셨나요?
+P1 	: 음 조금? 10만원 이내요ㅎㅎ
+P0 	: 메이플은 확률조작 사건있던데 좀 배신감 느끼셨겠어요..ㅠ
+P1 	: 아.. 그거 뒤집어졌죠.. 진짜 유저 기만이에요
+P0 	: 그러니깐요... 메이플에서 어떤 캐릭터 쓰세요? 저는 친구따라서 잠깐 해봤을 때 아델 했어요
+P1 	: 전 마법사요ㅎㅅㅎ 그게 제일 쉬워서요
+P0 	: 요즘도 게임하시나요?
+P1 	: 음.. 모바일 게임 양궁게임하는데 모르시져
+P0 	: 오 해보고싶네요 어플 이름이 뭔데요?
+P1 	: 양궁 월드컵이요

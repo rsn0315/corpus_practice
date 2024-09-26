@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014395
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P0 	: 혹시 지금 가족이나 룸메랑 같이 사시나요?
+P1 	: 네. 저는 엄마, 아빠랑 살고 있어요.
+P1 	: &name1&님은 어떠신가요?
+P0 	: 저두 부모님이랑 동생이랑 같이살아요!
+P0 	: 4인가구 ㅎㅎ
+P1 	: 동생 있으시구나.
+P1 	: 동생과 사이는 어떤 편이세요?
+P0 	: 동생이랑 엄청 친하진않지만 싸우지도 않고 잘 지내는거같아요~ 근데 성별이달라서 공감거리가 잘 없긴해요 ㅠ
+P1 	: 확실히 성별에 따라 동생과 사이가 미묘하게 다른 것 같아요~
+P0 	: 맞아요! 동생이랑 5살차이에다가 성별까지 다르니 대화할일이 잘 없긴 하더라구요ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ제 주변에도 그렇더라구요.
+P0 	: 혹시 룸메이트 있어본적 있으신가요?
+P1 	: 저는 예전에 기숙사 쓸 때 있었어요.
+P0 	: 저두요! 룸메랑 트러블은 없으셨나요??
+P1 	: 딱히 없었어요. &name1&님은요?
+P0 	: 저는 있었어요 ㅋㅋㅋ 근데 이또한 지나가리 하는마음으로 꾹참고살았어요 ㅋㅋ ㅠㅠ

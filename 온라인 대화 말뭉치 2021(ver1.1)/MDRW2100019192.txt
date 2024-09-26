@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019192
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 알바 해보셨나요?
+P1 	: 네 식당 알바 해봤어요!
+P0 	: 오 서빙 하셨나요?
+P1 	: 네 주문 받고 서빙하구요ㅎㅎㅎ
+P0 	: 헉 다 하셨구나 안힘드셨어요??
+P1 	: 네 괜찮았어요!! 혼자 일 하는게 아니어서 그랬던 거 같아요
+P0 	: 다행이네요~~ 얼마나 오래 하셨어요?
+P1 	: 둘 다 6개월 정도 했어요!!
+P0 	: 오! 꽤 하셨네요!!
+P1 	: 그쵸! 그때는 단기알바 잘 안 받아서 그랬던 거 같아요
+P0 	: 아 그쵸 오래 일하는 게 좋을테니까~~
+P0 	: 지금은 하는 일 있으세요?
+P1 	: 지금은 안하고 취업준비하고 있어요!
+P1 	: &name1&님은 알바해보셨어요?
+P0 	: 아하!
+P0 	: 네! 저도 해봤어요
+P1 	: 어떤 거 해보셨어요?
+P0 	: 저 학원 알바 해봤어요!

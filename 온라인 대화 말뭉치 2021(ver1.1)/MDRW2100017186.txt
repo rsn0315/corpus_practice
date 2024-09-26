@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017186
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요
+P1 	: 네 좋아해요
+P0 	: 어떤거하시낭보
+P1 	: 요즘 컵밥이나 레토르트음식이 땡겨서
+P1 	: 쟁여놓고있어요
+P0 	: 오 쿠팡쓰시나요
+P1 	: 네 쿠팡쓰고있어요
+P0 	: 로켓배송너무좋죠
+P1 	: 맞아요 하루만에 오고
+P0 	: 와우도 쓰세요??
+P1 	: 네 와우 쓰고있어요
+P0 	: 오 가성비가괜찮나요
+P1 	: 네 가성비 좋아요.
+P0 	: 오한번 찾아봐야겠어요

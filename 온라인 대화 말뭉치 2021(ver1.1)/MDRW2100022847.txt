@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022847
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 계절 좋아하세요?
+P1 	: 저는 겨울좋아합니다!
+P1 	: 어느계절좋아하세요?
+P0 	: 전 가을이요
+P1 	: 가을좋죠 좋아는 이유는 무엇인가요?
+P0 	: 덥지도 않고 춥지도 않고 적당한 온도라서 좋아요
+	  선선한 느낌과 시원한 바람도 좋구요
+P1 	: 아하 저도 그런데 왠지 겨울이 더좋더라구요
+P0 	: 겨울도 좋죠
+	  겨울 좋아하시는 이유가 있나요?
+P1 	: 흰바탕이좋아서요
+P1 	: 눈이좋다고해야되나?
+P1 	: 더위보단 추위를 잘안타서 좋아하긴하죠
+P0 	: 눈내리는 풍경 보고 있으면 넘 예쁘죠
+P1 	: 맞아요!
+P1 	: 항상 사진으로 보관해요 저는
+P0 	: 사진 찍어두면 좋죠!
+P1 	: 추억놀이할때 좋죠ㅋㅋㅋㅋ
+P1 	: 요즘 날이 선선해져서 옷이 사려는데 옷은 자주사시나요?
+P0 	: 맞아요ㅋㅋㅋ 사진들 보면 자연스레 기억이 나더라구요

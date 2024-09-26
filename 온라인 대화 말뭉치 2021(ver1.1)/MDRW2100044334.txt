@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100044334
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 최근에 영화 보러 가신 적 있으세요??
+P1 	: 네 저 주말에 보고왔어요
+P0 	: 어떤거 보셨어요??
+P1 	: 프리가이? 였나 그거보고 왔어요
+P0 	: 오 재미있었나요??
+P1 	: 막 엄청 재밌진 않은데
+P1 	: 소소한 재미정도는 있더라구요
+P0 	: 오 그렇군요!! 요즘 영화관에 사람 많나요 아니면 아직도 별로 없나요??
+P1 	: 그래도 꽤 있더라구요
+P0 	: 저는 거의 집에서 봐서 신기하네요! 요즘은 영화관에서 보면 음식 못 먹나요??
+P1 	: 마자요 저도 영화관에서  오랜만에 봐요 맨날  집에서만 봐서
+P1 	: 네 음료만 되는거같더라구요
+P0 	: 헐 영화관에서 캬라멜팝콘 못먹으면 너무 심심하겠네요....
+P0 	: 티켓값도 많이 올랐죠ㅠㅠ
+P1 	: 마자요 영화는 팝콘인데ㅠ
+P1 	: 티켓은 제가 결제를 안해서 잘 모르겠지만 많이오르거같아요
+P0 	: 그러니까요 점점 영화관 갈일이 없어지는것 같아요ㅠㅠ 가격도 오르고 음식도 못먹고...

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043053
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가고싶은 여행지가 있나요
+P1 	: 저는 이탈리아요
+P1 	: &name1&님은요?
+P0 	: 전 따뜻한 나라로 가고 싶어요
+P1 	: 예를 들면요?
+P0 	: 바로셀로나 . 이탈리아 따뜻하지 않을까요
+P0 	: 전 추운게 싫어요
+P1 	: 그럼 발리나 세부같은 곳도 좋아하시나요?
+P0 	: 그런곳도 좋겠네요
+P1 	: 여행가보신 적 있으신가요?
+P0 	: 아니요
+	  가보고 싶은 소망 이네요
+P0 	: 다른 나라 가보신곳이 어디있나요
+P1 	: 국내 여행도 없어신가요?
+P0 	: 제주도 이쁘고 좋아요
+P1 	: 제주도 가보신건가요?
+P0 	: 네 제주도는 4번정도 간거 같네요

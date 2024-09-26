@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037111
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 선물 하신적 있으세요?
+P0 	: 오 마침 생일인 친구에게 그릭요거트와 그래놀라를 보내봤어요
+P1 	: 우왕~ 완전 맛난거만 보내셨네욤
+P0 	: 유명한 곳이 있길래 종류별로 보내봤어요 부디 맛있기를 ㅜㅜ
+P1 	: 맛있죠 그거 완전 맛있죠!
+P1 	: 좋아하시면 더더욱 만족하실거에욤
+P0 	: &name2&님은 최근 선물 하신거 있나요
+P1 	: 저는 키링이요!
+P1 	: 만들어서 나눠줬어욤
+P0 	: 와..수제로!! 재료는 뭐였나요
+P1 	: 색별로 잡아서 했어요!
+P1 	: 인터넷으로 구매하다가 처음으로 동대문에 가봤어요!
+P1 	: 가보신적 있으신가요?
+P0 	: 구경만 한번 해봤어요 각종 잡화 상점들이 많더군요!!!
+P1 	: 맞아요!!
+P1 	: 간곳만 계속 간거같아서 담에 가면 적으면서 다니려구요
+P0 	: 남대문인지..동대문인지 아동복 유명한곳도 있더라구요 저는 안가봤지만 ㅠ
+P1 	: 그렇다더라구요!
+P1 	: 저는 5층 한층만 갔는데도 다 못돌고 3시간걸렸어요
+P0 	: 하..저는 그런곳가면 약간 멍해져요..공황장애란 이런건가 하는 기분??

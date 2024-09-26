@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100013358
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 전 독서가 좋아요
+P1 	: 요즘 읽는 책 있나요
+P0 	: 오늘도 도서관 갔어요
+P1 	: 전 조선왕조실록을 좋아해요
+P0 	: 베르나르베르베르 개미 아세요?
+P1 	: 아니요
+P0 	: 진짜 재밌어요
+P1 	: 전 한국사를 좋아해요
+P0 	: 전 한국사 안좋아해요
+P1 	: 잡지도 좋아해요
+P0 	: 사극로맨스 도서는 좋아요
+P1 	: 군대에서 에스콰이어 잡지 봤어요
+P0 	: 전 부록때문에 잡지샀었어요

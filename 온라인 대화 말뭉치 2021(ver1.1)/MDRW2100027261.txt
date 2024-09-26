@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027261
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저 이제 밥먹으러가요
+P0 	: 점심요
+P1 	: 벌써요ㅎㅎ 식사 맛있게 하세요
+P0 	: 밥다먹었어요ㅎㅎ
+P0 	: 아침안먹어서 배고팠는데
+P0 	: 점심먹고나니깐 피곤때문에 잠이올려구하네요
+P1 	: 곧 퇴근시간 아닌가요?
+P0 	: 오늘 아침에 물마셔야하는데 못마셨어요ㅜㅜ
+P1 	: 출근 진짜 빠르시네요
+P1 	: 회사가서 마시면 되죠
+P0 	: 네 도착해서 물마셨어요
+P0 	: 밥을안먹었더니 되게 배고프네요
+P1 	: 비스켓이나 초코바같은거 챙겨다니세요
+P1 	: 무슨일하시는거에요?
+P0 	: 유치원에서 일해요
+P0 	: 들어오기전에 편의점 들러야겠다ㅜㅜ
+P1 	: 네네 편의점 들러서 먹기편한 스낵 몇개 사가세요
+P0 	: 간식으로 명랑핫도그먹었머요
+P1 	: 저도 그거 좋아해요
+P1 	: 새로나온 고구마 맛있더라구요
+P1 	: 달달하니
+P0 	: 예전에 명랑 핫도그 맛있게먹었어요
+P0 	: 지금도인기여전하네요
+P0 	: 오늘 KFC치킨먹었어요

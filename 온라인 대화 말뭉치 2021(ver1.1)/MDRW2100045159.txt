@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045159
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 인상깊은 여행 있으신가요?
+P1 	: 신혼여행도 기억이 안나는데요. ㅎ
+P0 	: 신혼여행 어디 가셨는데요?
+P1 	: 괌이요. 
+	  ㅎ 다행히 기억이 나네요.ㅎ
+	  님은요?
+P0 	: 전 발리랑 싱가폴요
+P1 	: 좋은데 가셨네요.
+	  싱가포르 진짜 좋다고 하더라구요
+P0 	: 근데 전 호주랑 뉴질랜드가 더 좋았어요
+P1 	: 자연경관이 멋진 곳을 좋아하시네요.
+	  여행계획은 직접 짜시나요?
+P0 	: 아뇨 패키지로 갑니다 ㅎ &name2&님은요?
+P1 	: 저도요.
+	  영어가 부족해요. ㅎ
+	  여행지에서 기념품도 사오시나요?
+	  양털 이불?
+P0 	: 돌고래 귀걸이를 사왔는데 깨지고 지금은 없네요
+P1 	: 아. 이뻤을텐데 아깝네요.ㅎ
+	  제 남편은 아이핀과 옷을 사오더라구요.
+	  제 것은 제가 지정해준 면세품을 사고요.
+P0 	: 아이껀 알아서 잘 챙기시는군요 ㅎㄹ 여행의 묘미는 면세품이죠^^

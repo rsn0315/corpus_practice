@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100047730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이제 개강까지 얼마 안남았어요...
+P1 	: 9월 1일에 개학하시나요?
+P0 	: 저도 당연히 그런 줄 알았는데 8월 30일티 개강이더라고요...
+P1 	: 헉 월요일이라 그런 건가요?
+P0 	: 그러게요? 항상 9월 초에 개강해서 이번에도 그럴 줄 알았는데 아니었어요 ㅠㅠ
+P1 	: 1학기도 월요일부터 시작한 건 아니었는데ㅠㅠ 9월에 시작하지ㅠㅠ 개강은 하루라도 늦추고 싶은데...
+P0 	: 그러니까요 그럼 이틀 더 쉴 수 있었는데 말이에요 ㅠㅠ
+P1 	: 수강신청은 잘 하셨나요?
+P0 	: 전 전공 5개 들어요 ㅎㅎ
+P1 	: 으악...
+P1 	: 강의평 좋은 걸로 잘 담으셨나요ㅜㅠ
+P0 	: 제가 3학년인데 3학년 전공선택 전부 들어요
+P1 	: 선택지가 없었군요ㅜㅜ
+P1 	: 어떤 전공이세요?
+P0 	: 교양학점에 제한이 있어서 더이상 교양을 못듣거든요..
+P0 	: 저 영상미디어쪽이에요!
+P1 	: 앗..ㅠㅠ
+P1 	: 우와! 멋있으세요!

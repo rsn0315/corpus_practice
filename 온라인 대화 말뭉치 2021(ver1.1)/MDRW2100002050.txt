@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 뮤지컬 보신 적 있으세요?
+P0 	: 올림픽 개막식때 공연하는거 외에는 엄청 어렸을때 본게 다네요
+P1 	: 저는 담주에 레드북 보러가요ㅋㅋㅋㅋ뮤지컬 입덕한지 얼마 안되서 진짜 기대되네요ㅋㅋㅋ
+P0 	: 저도 한번 뮤지컬같은거 보고싶은데 보러가기가 참 귀찮네요...
+P0 	: 혹시 샹치 예고편 보셨어요?
+P1 	: 네ㅋㅋㅋㅋ저번에 봤어유ㅋㅋㅋㅋ재밌어보이더라구요
+P0 	: 다음달에 보러 가실거에요?
+P1 	: 시간되면 그러려구요!
+P1 	: 제가 마블 영화를 좋아해서 웬만하면 영화관에서 보고 싶네요ㅋㅋㅋ
+P0 	: 블랙위도우는 보셨어요?
+P1 	: 네ㅋㅋㅋㅋ엄청 재밌었어요ㅠㅜㅜ결말을 알고보니 더 슬프기도하고 그랬어요ㅠㅜ
+P0 	: 영화관 가서 보셨어요?
+P1 	: 네ㅋㅋㅋㅋ사람 별로 없는 조조로 봤는데 재밌더라고요ㅋㅋㅋ보셨나요??
+P0 	: 아뇨 저는 스파이더맨 마지막으로 보고 영화관을 안간거같아요....
+P0 	: 집에서 왓챠나 넷플릭스보는게 좋더라구요
+P1 	: 저도 왓챠 넷플 티빙 보는데 액션같은 건 큰 화면으로 보고 싶더라고요ㅋㅋㅋ

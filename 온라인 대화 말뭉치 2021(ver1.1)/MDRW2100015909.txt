@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100015909
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P0 	: &name2&님은 종교가 있나요?
+P1 	: 네 저는 종교를 가지고 있어요!
+P0 	: 기독교인가요? :)
+P0 	: &name2&
+P1 	: 네! 기독교입니당 ㅎㅎ
+P0 	: ㅋㅋ반갑습니다 자매님{emoji:♡}
+P1 	: 얼라리?ㅋㅋㅋㅋ 교회다니시나봐여!
+P0 	: 네ㅋㅋ 우리 모두 주님안에서
+	  다 형제 자매 아니겠습니까ㅋㅋㅋㅈ
+P0 	: 모태신앙이세요?
+P1 	: 모태신앙은 아니구 어릴때부터 교회다녔어요~ 어릴땐 성가대도 하고 ㅎㅎ
+P1 	: 교회학교도 다니셨나요?
+P0 	: 그럼요ㅋㅋㅋㅋㅋ
+P0 	: 요즘 비대면예배 드리고 계세요?
+P1 	: 오! 몇살때부터 교회다니신거예요??
+P0 	: 빵살때부터요ㅋㅋ
+P0 	: 저는 모태신앙이에요:)
+P1 	: ㅋㅋㅋㅋㅋㅋ빵살ㅋㅋㅋㅋㅋ
+P1 	: 좋네요 ㅋㅋㅋ
+P1 	: 요즘 99명까지 허용되지 않았나요?
+P1 	: 지금은 비대면이랑 대면예배 병행하고 있어요!
+P0 	: 저는 잘모르겠어요ㅠ
+P0 	: 20년부터 지금까지 쭈욱
+	  온라인예배로 드려서요ㅋ
+P1 	: 1시간 정규예배시간만 교회입장가능해서 예배드리고 다른 활동은 줌으로 진행해요 ㅎㅎ
+P1 	: 아아 교회광고에서도 그렇게 이야기안하던가요?
+P1 	: 온라인예배를 선택해서 드리고 계신거죠?
+P0 	: 네ㅠ 아직 어린아이가 있어서요^^

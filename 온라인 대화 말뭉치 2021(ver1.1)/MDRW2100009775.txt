@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 즐겨 읽으세요?
+P1 	: 최근에는 김연경 선수 자서전 읽었어요
+P0 	: 표지만 보고 아직 읽지는 못했는데
+P0 	: 혹시 인상깊은 부분이 있었나요?
+P1 	: 힘든 과정이나 슬럼프를 이겨낸 방법들이 기억에 남아요. 세계적인 선수들은 생각하는 방식이 다르구나 싶더라고요
+P0 	: 김연경 선수가 대단하긴 하죠 인터뷰만 봐도 멘탈이 단단한게 느껴져요
+P1 	: 맞아요
+	  저는 이 책 읽기 전에는 정세랑, 구병모 작가 책도 자주 봤었어요
+P0 	: 처음 들어보는 작가인데 혹시 책 추천해주실 수 있나요
+P1 	: 정세랑 작가님은 sf 장르 좋아하시면 재밌게 보실 거예요
+	  '목소리를 드릴게요' 재밌었어요
+P1 	: 구병모 작가 위저드 베이커리도 재밌어요
+P0 	: 찾아봤더니 두 책 다 표지부터 흥미롭네요
+P1 	: 두 분 다 베스트셀러 작가라 잘 보실 듯 해요ㅎㄹ
+P1 	: 근데 저는 소설책 보단 자기계발서 매니아에요ㅋㅋㅋ
+P0 	: 자기계발서는 읽어본적이 없네요
+P1 	: 자기계발서는 읽고 실천하는 게 제일 중요한데 정작 실천은 잘 못하고 있습니다..ㅎ
+P0 	: 실천이 모든 일에 있어서 제일 어려운거 같아요

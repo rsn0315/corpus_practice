@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 님은 가족과 같이 사시나요?
+P0 	: 네 본가에 살고있어요호
+P0 	: ㅎㅎ
+P1 	: 옹 집안 일은 어떻게 분담하시나요?
+P0 	: 나눠서하고 있는데 쉽지않네요ㅠㅜ
+P1 	: 오 주로 무슨 일을 담당하시나요?
+P0 	: 저는 설거지도 하구 주말엔 청소기도 돌려요ㅎㅎ 어떤거 하세요?
+P1 	: 저는 설거지랑 방 청소, 평일에 바닥 쓸기 정도 해요!
+P1 	: &name1& 님은 외동이신가요?
+P0 	: 아뇨 자매에요ㅎㅎ
+P1 	: 오 동생이신가욥??
+P0 	: 아뇨 언니에요ㅋㅋㅎㅎ
+P1 	: 오ㅋㅋㅋ 그렇군요 동생이랑 같이 청소 하시나요?
+P0 	: 네 그렇죠ㅎㅎ 동생이 더 집안일을 좋아하는편이라 혼나요ㅠㅠ
+P1 	: 앗ㅋㅋㅋㅋㅋ 그럴 때 좀 슬프죠...

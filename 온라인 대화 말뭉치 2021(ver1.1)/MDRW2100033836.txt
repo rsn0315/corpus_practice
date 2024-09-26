@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100033836
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 점심 뭐 드셨어요
+P0 	: 저 치킨이요ㅋㅋㅋ
+P0 	: 점심 드셨나요?
+P1 	: 네 전 순두부찌개요!!!
+P1 	: 점심부터 치킨리요?
+P0 	: ㅋㅋㅋ네네 점심부터요
+P0 	: 오 순찌좋네요
+P1 	: 어디 치킨
+P1 	: 드샸어요 ㅎ
+P0 	: 저
+P0 	: 처갓집치킨이요ㅋㅋㅋ
+P1 	: 오 처갓집 맛있죠
+P1 	: 후라이드용?
+P0 	: 아니요!
+P0 	: 슈프림 양념이요ㅋㅋㅋ
+P0 	: 어제할인하더라고요
+P1 	: ㅋㅋㅋㅋㅋㅋ우오ㅓ
+P1 	: 맛있겠어요 ㅠㅠㅠㅠ
+P0 	: 네네
+P0 	: 떡볶이는 좋아하세요?
+P1 	: 네 좋아해요
+P1 	: &name1&님은요
+P0 	: 좋아하죠ㅋㅋㅋ
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: 전 신전이요 #~~
+P0 	: 로제는 어떠세요?
+P1 	: 로제 엄청나게
+P1 	: 좋아합니다
+P0 	: 배떡먹어보셨어요?
+P1 	: 아니요
+P1 	: 맛있나요!!!
+P0 	: ㅋㅋㅋ
+P0 	: 떡군이네가 더 맛있답니다

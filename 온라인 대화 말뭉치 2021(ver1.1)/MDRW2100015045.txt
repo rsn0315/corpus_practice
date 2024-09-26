@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100015045
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 강아지 좋아하시는듯 해서요
+P0 	: 반려동물 키우시나요?
+P1 	: 네 맞아요 ㅎㅎ 강아지를 기르고 있어요
+P1 	: &name1&님은요?
+P0 	: 저는 아직 환경이 안되어서 못키우고 있어요
+P0 	: 강아지 친구 이름이 뭔가요?
+P1 	: &name3&랍니다
+P1 	: 이름보면 어떤 종일거같으세요?
+P0 	: &name3&라....종잘모르지만 푸들?
+P1 	: 요크셔랍니당
+P1 	: 그럼 나이는 어떨 거 같으세요?
+P1 	: 이름은 관계성이 없어서 다들 어려워하는데
+P0 	: 6살쯤되었나요?
+P0 	: 찍었어요
+P1 	: 아 아뇨
+P1 	: 강아지도 유행을 탄다고 하더라구요
+P1 	: 요크셔는 2000년대에 유행을 했대요!
+P1 	: 그래서 대부분 10살 전후라고 잘 맞추시더라고요
+P0 	: 앗...그러시구나
+P1 	: 저희 강아지는 13살이에요 ㅎㅎ
+P0 	: 그렇구나 &name3&친구는 성격이 어때요?
+P0 	: 애교가많나요?
+P1 	: 네 새침떼기 애교쟁이 입니다 ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 새침떼기라니 너무 귀엽겠다ㅠㅠㅠㅠ
+P1 	: &name1&님은 환경이 되신다면 어떤 동물을 기르고 싶으세요?
+P0 	: 저는 유기묘 데려오고싶어요
+P1 	: 아 맞아요 포인핸드보면 정말 예쁜 아이들이 많더라구요
+P0 	: 그쵸 맘에 걸리는 친구들이 한둘이 아니예요
+P1 	: 진짜로요 하나 하나 보면 못난 구석이 없는 애들인데
+P1 	: 참 그런애들이 많다는게 슬프죠

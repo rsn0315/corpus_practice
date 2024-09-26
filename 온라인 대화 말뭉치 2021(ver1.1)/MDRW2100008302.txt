@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 출발해서 도착까지요?
+P1 	: 숙박시설은 어떤가요?
+P0 	: 네ㅋㅋ
+P0 	: 숙박 안좋아요!
+P1 	: 아무래도 외져있어서 그런가보네요
+P1 	: 울릉도 추천하실만한 장소있나요?
+P0 	: 네 음 독도요ㅎㅎ
+P1 	: 울릉도가서 독도추천하시는건가요?ㅎ
+P1 	: 보통 두군데 같이 가나요?
+P0 	: 네 그쵸 독도는 울릉도에서 또 배 타고 두시간 가야해서
+P1 	: 배멀리 나겠어요ㅎㅎ
+P1 	: 배멀미
+P0 	: 네 멀미약 먹어야죠
+P1 	: 울릉도는 몇박몇일 다녀오셨어요?
+P0 	: 저 2박~3일이요ㅎㅎ
+P0 	: 강릉에 하루 있었구요
+P1 	: 그렇게 가면 비용은 얼마나드나요?
+P0 	: 둘이서 백 안들었어요ㅎㅎ
+P1 	: 아 애기는 없으시군요
+P1 	: 저도 기회되면 울릉도가봐야겠네요

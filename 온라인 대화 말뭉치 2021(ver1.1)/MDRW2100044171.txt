@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100044171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+	  야식은 종종 드시나요?
+P1 	: 네넵 야식은
+P1 	: 인생의 진리죠
+P0 	: 어떤 야식 좋아하세요?
+P1 	: 저는 오돌뼈랑 주먹밥 좋아해요
+P1 	: &name1&님은요?
+P0 	: 오. 저랑 취향이 비슷하시네요.
+	  저는 닭발도 좋아해요.ㅎ
+P1 	: 앗 저는 닭발은 못 먹어요ㅠㅠ
+P1 	: 역시 야식은
+P1 	: 야식집에서 파는 메뉴가 최고죠 ㅎㄹ
+P0 	: 아.. 닭발을 처음 드실 땐 잘게 잘라서 드셔보세요.
+	  오돌뼈처럼 씹는 맛이 좋아요.
+P1 	: 흐억 하지만 무언가
+P1 	: 닭의 발은 거부감이 드는 것이....ㅠㅠㅠㅠ
+P0 	: 눈감고 드셔보시면 신세계일거에요.
+	  족발도 발이 잖아요. ㅎ
+	  저녁밥은 뭐드셨어요?
+P1 	: 저녁은 닭볶음탕 먹었어요
+P1 	: &name1&님은요?
+P0 	: 맛있었겠어요.
+	  저는 족발요. 맥주도 마셨어요.
+	  
+	  아침은 잘 챙겨드시나요?
+P1 	: 아니여 전 아침은 먹지 않아요..
+P1 	: 귀찮지않나요?ㅠㅠ
+P0 	: 네. 저도 그래서 잘안먹었는데요.
+	  이제 아침엔 배도 안고프네요. 
+	  건강에는 그닥일 듯 싶은데요.
+	  점심은 든든하게 드시지요.

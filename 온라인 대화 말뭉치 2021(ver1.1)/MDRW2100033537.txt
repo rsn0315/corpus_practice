@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033537
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 패션을 선호하시나요?
+P1 	: 딱히 선호하는 건 없고 편한 걸 좋아해요
+P1 	: &name1&님은 어떠신가요
+P0 	: 저도 요즘엔 편하게 입는 것 같아요
+P1 	: 편한게 가장 좋은 거 같아요
+P0 	: 요즘 운동 하시나요?
+P1 	: 사실 전 운동을 좋아하지 않아요 집에서 숨쉬기 운동만 하고 있어요
+P1 	: &name1&님은 운동하시나요
+P0 	: 요즘 홈트하고 있어요
+P1 	: 홈 트의 매력은 무엇인가요
+P0 	: 아무래도 헬스장이나 다른 필라테스 수업보다 코로나의 영향을 적게 받고 제가 원할 때 할 수 있다는 점인 것 같아요
+P1 	: 원할 때 할 수 있다는 것 아주 큰 장점이에요
+P1 	: 주로 어떤 운동을 집중적으로 하시나요
+P0 	: 저는 엄청 오래 하진 않지만 스트레칭과 플랭크는 꼭 하고 있어요
+P1 	: 플랭크 엄청 힘들지 않나요
+P0 	: 아직 40초가 한계예요...진전이 없네요ㅠㅠ
+P1 	: 꾸준히 하시다보면 느실 거예요

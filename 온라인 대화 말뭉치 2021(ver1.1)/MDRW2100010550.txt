@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010550
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 대전
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 수강신청 하셨나요?
+P0 	: 앗 저는 직장인입니다
+P0 	: 수강신청 하셨나요
+P1 	: 나이는 많은데 막학기예요
+P0 	: 그러시군요 전공이 무엇인가요?
+P1 	: 저는 생명공학이에요
+P1 	: &name1&은요?
+P0 	: 저는 아동복지인데요 지금은 안 합니다ㅋㅋ
+P1 	: 오 저 친구가 그 전공 졸업했는데
+P1 	: 전공 살려서 일하더라구요
+P1 	: 졸업하신지 오래되셨어요?
+P0 	: 아 적성에 맞나보네요!
+P0 	: 네 전 좀...ㅎㅎ
+P1 	: 앗ㅎㅎ 저는 휴학을 3년해서
+P1 	: 오랜기간 대학생인데
+P1 	: 이젠 졸업하고싶어요 ㅜ ㅋㅋㅋ
+P0 	: 그러시군요 휴학기간에 뭔가 준비하신건가요???
+P1 	: 네 수험생활을 했었어요ㅋㅋㅋ
+P1 	: 동창들이랑 계속 연락 유지 되시나요?
+P0 	: 연락을 아주 가끔 하긴 하는데
+P0 	: 거의 안 하네요ㅋㅋ수풀님은요?
+P1 	: 저도 거의 안해요 ㅋㅋㅋ
+P1 	: 취준기간이 다들 다르고 일다니니 얼굴보기도 쉽지않더라구요
+P1 	: 코로나도 있고...
+P0 	: 저도 일 다니면서부터 잘 안 만난거 같아요
+P0 	: 동기들이랑 친하셨나요?

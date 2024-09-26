@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100001704
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나두~ 
+	  곧 그날이 오기를 소망 ㅎ
+P0 	: 웅 코로나 때문에 여행도 잘 못가고 ㅠ불편
+P1 	: 코로나 감기 수준이라는데 넘 예민하게 반응하는지 ㅠ
+P0 	: 머라는겨~ 조심해야지!!
+P1 	: 어디가고싶어
+P0 	: 해외여행 ㅠㅠ
+P0 	: 미국 가고싶네~
+P1 	: 미국 가면 되지  
+	  백신도 2차까지 맞았으니
+P0 	: 근데 미국에 코로나 확진자가 넘 많아서 ㅠ
+P1 	: 엄만 친구 미쿡딸네집에 가서 두달째 있음
+P0 	: 집에 방콕해야할듯
+P1 	: 아직은 이를지도 ㅠㅜㅠ
+P0 	: 구램 ㅠ조심해야해유~ 여행은 나중에~
+P1 	: 알겠다 ㅠ

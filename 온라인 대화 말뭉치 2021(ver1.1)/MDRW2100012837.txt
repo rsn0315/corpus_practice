@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012837
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 여기는 날씨가 흐려요
+P1 	: 여기도 아까 비가 왔었는데 가을장마 얼른 끝났으면 좋겠네요..
+P0 	: 맞아요 습해요ㅜ
+P1 	: 다른곳도 그렇겠지만 부산쪽은 홍수? 침수? 장난아니더라구요..
+P1 	: 올해 날씨가 좀 심상치 않네요ㅠ
+P0 	: 정말요?
+P0 	: 작년에도 난리났었는데
+P1 	: 아 맞아요ㅠ
+P1 	: 점점 이상기후가 많아져서 지구온난화가 점점 실감나는..
+P1 	: 여름엔 햇빛도 엄청 따갑더라구요
+P0 	: 저는 양산써요
+P1 	: 양산 좋죠! 저도 내년부터는 양산쓸까 고민이네요 그냥 다녔다니 샌들 모양대로 발이 타버려서ㅎㅎ
+P0 	: 좋아하는 계절있나요?
+P1 	: 저는 겨울을 가장 좋아합니다!
+P1 	: 좋아하는 계절 어떻게 되세요?
+P0 	: 여름이요

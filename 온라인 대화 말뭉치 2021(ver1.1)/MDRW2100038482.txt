@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100038482
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요!
+P1 	: 배달음식 잘 시켜드시나요?
+P0 	: 네 배달음식 좋아해요
+P1 	: 오 어떤거 주로 시켜드시나요 저는 치킨 ㅎㅎ
+P0 	: 저도요 치킨 최애음식이죠!!
+P1 	: 자주 시켜드시는 브랜드 있나요?
+P0 	: 저는 골고루 시키는거 같아요 여기시켰다 저기시켰다
+P0 	: 처갓집도 맛있고 네네 또래오래도 맛있고
+P1 	: 오 다양하게 드시는군요 저는 노랑통닭이랑 bhc 많이 시켜요 ㅎㅎ
+P0 	: 아저도 bhc 좋아해요!
+P0 	: 노랑통닭도 바삭바삭 맛있더라구요
+P1 	: 맞아요 노랑통닭 튀김옷이 엄청 바삭해요
+P1 	: 알싸한 마늘치킨 드셔보셨나요?
+P0 	: 헐 그러고보니 그걸 안먹어봤네요
+P0 	: 먹어봐야지 했는데 까먹었어요
+P1 	: 엄청 알싸해요 진짜로 ㅋㅋㅋ
+P1 	: 입안이 얼얼..
+P0 	: 네 그렇다더라구요 맛있겠어요!
+P0 	: 전 노랑통닭 깐풍치킨도 맛나더라구요
+P1 	: 네 마늘 좋아하면 엄청 취향일거 같아요 ㅎㅎ
+P1 	: 아 맞아요 그것도 맛나요
+P0 	: 네네 꼭 먹어볼게요!

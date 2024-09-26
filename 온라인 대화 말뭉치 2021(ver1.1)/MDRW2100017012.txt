@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요
+P1 	: 네 좋아해요
+P0 	: 가장 최근에 다녀오신곳이 어디예요?
+P1 	: 속초 다녀왔습니다
+P0 	: 속초 맛있는 음식이 뭔가요?
+P1 	: 회가 맛있죠
+P0 	: 무슨 회가 맛있나요?
+P1 	: 광어회가 제일 맛있더라구요
+P0 	: 해외여행 갔다온적 있어요?
+P1 	: 아직 없어요
+P0 	: 어디 가보고 싶으세요?
+P1 	: 괌이나 하와이 가보고싶어요
+P0 	: 이유가 있나요?
+P1 	: 휴양하기 좋다고 들었어요
+P0 	: 관광파보다 휴양파인가요?
+P1 	: 네 휴양파예요

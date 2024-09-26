@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100012800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요 &name1&님! 요새 보는 티비 프로그램이나 유튜브 있으세요?
+P0 	: 요즘 소그노 봐요!
+P0 	: &name2&님은요?
+P1 	: 오 저는 하말넘많 구독자요!
+P1 	: 소그노는 아직 본적 없는데 휘수?님은 알아요!
+P0 	: 자빱티비 보시나요?
+P1 	: 오 아뇨! 근데 추천은 많이 받았어요!
+P1 	: 자빱티비 보세요?!
+P0 	: 저도요 본적은 없어요~
+P0 	: 좋아하는 영화있으세요?
+P1 	: 아하ㅎㅎ 저 딱히 가리는 장르는 히어로물 안보는거 빼곤 없는데
+P1 	: 최근 개봉작중에 올드 보려고 생각중이에요
+P1 	: 최근에 보신 영화 있으신가요?
+P0 	: 우리들 이라는 영화를 봤어요
+P1 	: 어 저 저거 약간 영화홍보? 같은 글 보고 봐야지 생각했던건데
+P1 	: 저런 애기들 ? 나오는 영화 비슷한거중에
+P0 	: 아역 배우들 나오는 영화 맞아요
+P0 	: 올드는 어떤영화인가요
+P1 	: 개를훔치는완벽한방법 이거랑
+	  우리집도 재밌게 봤어요
+P1 	: 올드 약간 잠시만용
+P0 	: 네네
+P1 	: 스릴런데 가족들끼리 바다에 놀러갔는데 아이들이
+	  아침엔 아이 오후엔 어른 저녁엔 노인?이 되는 그런 영화에요!
+P1 	: 혹시 23아이덴티티 아시나요 그 감독이 만든거!

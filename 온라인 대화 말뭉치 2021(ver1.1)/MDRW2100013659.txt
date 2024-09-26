@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013659
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 좋아하시는 음식 있나요?
+P0 	: 전 파스타 좋아해요ㅎㅎ
+P1 	: 파스타 좋죠 전 로제파스타가 최애에요
+P0 	: 로제파스타 맛있어요ㅎㅎ
+P0 	: 요새 로제 소스 인기 많은거 같아요!
+P1 	: 맞아요 로세떡볶이도 인기많더라구요
+P0 	: 네 맞아요 은근 잘 어울려요ㅋㅋ
+P0 	: 맛집 아세요?
+P1 	: 신전이요
+P1 	: 신전 진짜 맛있어요 로제떡볶이는
+P0 	: 오 먹어봐야겠어요ㅎㅎ
+P0 	: 배떡도 괜찮더라고요ㅋㅋ
+P1 	: 배떡도 맛있죠 청년다방도 맛있어요
+P1 	: 솔님은 무슨파스타가 최애에요?
+P0 	: 전 크림파스타를 좋아해요ㅎㅎ
+P1 	: 크림 맛있죠  ㅋㅋㅋ 피클하고 같이 먹으면 궁합좋더라고요
+P0 	: 맞아요 궁합좋죠ㅎㅎ
+P0 	: 전 만들때 새우도 넣어서 먹어요ㅋㅋ
+P1 	: 오 직접 만들어서 드세요??
+P0 	: 네네ㅎㅎ그냥 다 넣고 볶으면 되니까요ㅋㅋㅋ

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100021696
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 자주하세요?
+P0 	: 중고거래 귀찮아서 안해요
+P0 	: 이거 보여달라 저거 보여달라 뭐 인증해달라
+P0 	: 왜 세상이 이렇게 됐나요 ㅠ
+P1 	: 아 맞아요..
+P1 	: 꼭 나쁜 사람들이 와서 판을 바꾸는거같아요
+P0 	: 사실 저도 중고거래 하다가 사기 당해본 적 있어요 ㅜㅜ
+P1 	: 헉 어떤거 구매하시다가요?ㅜㅠ
+P0 	: 그 당시에 스마트폰 자급제 구매하다가요 ㅜㅜ
+P0 	: 어쩐지 시세가 엄청 싸더라구여....
+P1 	: 아..ㅜㅠ
+P1 	: 진짜 나쁜사람들이에요
+P0 	: 님은 사기 당해본 적 없으세요?
+P1 	: 네 감사하게도 아직까진 없어요
+P1 	: 그래도 늘 조마조마해요
+P0 	: 그건 다행이에요 ㅠㅠ
+P0 	: 전 아직도 사기당한거 돈 못돌려받았어요 ..
+P1 	: 신고하셨어요??
+P0 	: 고소 했어요 사기죄로 ㅎㅎ
+P0 	: 재판까지 갔고 형사처벌도 받았는데 ㅏ잠수 ^^
+P1 	: 우와.. 그거 가능한거예요?
+P1 	: 처벌 받았는데?
+P0 	: 형사처벌은 처벌이고
+P0 	: 피해금액은 따로 민사고소 해야돼요
+P0 	: 손해배상으로.

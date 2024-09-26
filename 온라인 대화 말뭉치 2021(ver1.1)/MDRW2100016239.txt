@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100016239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요ㅎㅎ
+P1 	: 안녕하세요
+P0 	: 혹시 요즘에 관심있는 동호회같은거 있으시나요?
+P1 	: 음 동호회는 따로 하고있지않아요
+P1 	: &name1&님은 있으신가요
+P0 	: 너도 하고있지는 않아요!
+P0 	: 저도
+P1 	: 아
+P0 	: 관심있는 동호회 분야는 있으세요?
+P1 	: 저 예전에 사물놀이했었어요
+P0 	: 오 사물놀이 신기하네요!
+P0 	: 학교에서 배우신건가요?
+P1 	: 아니요
+P1 	: 아는 분 따라서 갔다가 배우게된건데
+P1 	: 저는 거기서 징을 쳤습니다
+P0 	: 아하 그러셨군요!
+P0 	: 그런거 배우는 모임같은게 있었나봐요!?
+P1 	: 그건 아닌데 재밌는거 있다고 따라갔다가
+P1 	: 징을 잡게 되었습니다
+P0 	: 아하 그러셨균요! 재미는 있으셨나요?
+P1 	: 아무래도 새로운 걸 배우는다는건
+P1 	: 꽤 흥미있고 재밌더라구요
+P1 	: &name1&님은 관심있는 분야 있으신가요
+P0 	: 그럴거같아요!!ㅎㅎ
+P0 	: 저는 농구동호회같은건 생각이 있어요!
+P0 	: 운동을 좋아해서용
+P1 	: 농구 좋아하세요?
+P1 	: 오 활동적인거 좋아하시는
+P1 	: 구나

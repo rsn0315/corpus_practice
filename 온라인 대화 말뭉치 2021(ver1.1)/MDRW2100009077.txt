@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009077
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 저녁 드셨나요
+P1 	: 저는 아직 안먹었어요
+P1 	: 저녁 드셨어요?
+P0 	: 네 먹었습니다! 집에서 삼겹살 구워먹었네요
+P1 	: 와 대박
+P1 	: 그 말 들으니까 배고파졌어요 ㅋㅋㅋㅋㅋ
+P0 	: 저녁은 뭐드실 예정이세요?
+P1 	: 컵라면? 먹을까 생각 중이에요
+P0 	: 오 그것도 가볍고 괜찮을 것 같네요
+P1 	: 그쵸 틈새라면 맛있어요
+P0 	: 매운거 좋아하시나봐요!! 그거 엄청 맵지 않나요?
+P1 	: 맞아요! 매운 게 땡길 때가 있죠
+P0 	: 매운거 잘 드시나보다ㅋㅋㅋ저는 신라면 작은컵이 최대라서ㅎㅎ...
+P1 	: 아 진짜요? ㅋㅋ 그럼 매운 거 안좋아하세요?
+P0 	: 좋아하는데 위장이 안따라주더라구요ㅠㅠ 맵찔이에요
+P1 	: 아이고 진짜 큰맘 먹고 먹어야겠네요ㅠㅠ
+P0 	: 그래서 틈새라면이나 핵불닭 이런 유명한거는 쳐다보지도 않아요
+P1 	: ㅋㅋㅋㅋ 저도 핵불닭은 쳐다도 안봐요
+P1 	: 그냥 불닭도 먹기 힘들어서

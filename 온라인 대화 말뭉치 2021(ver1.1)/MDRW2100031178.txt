@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100031178
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 어머니와 식사 했어요
+P1 	: 점심 먹었어요
+P0 	: 저는 혼자 먹었어요
+P1 	: 주말인데 혼자 계시나요
+P0 	: 혼자 먹으면 간편하게 먹어서 좋아요
+P1 	: 뭘 드셨나요
+P0 	: 남은 반찬을 먹었어요 밥이랑 함께
+P1 	: 반찬이 맛있는 곳이 있나요
+P0 	: 소고기 요리랑 미역이 있어요
+P1 	: 해조류를 좋아하시나요
+P0 	: 다 좋아해요 음식은 가리지 않습니다
+P1 	: 저도요 근데 저는 채소 채소가 좋아요
+P0 	: 저는 해산물을 좋아합니다
+P1 	: 해산물 중에 어떤 걸 좋아하세요
+P0 	: 새우를 가장 좋아해요
+P0 	: 저녁은 뭘 먹을 건가요

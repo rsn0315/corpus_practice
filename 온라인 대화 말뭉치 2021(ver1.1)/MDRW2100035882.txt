@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100035882
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님 아침식사 하셨나요?!
+P1 	: 아니요 자는게 더 좋아서 생략했어요
+P0 	: 오오 그렇군요 그럼 바로 점심 드실건가요?!
+P1 	: 네ㅋㅋㅋ 그래서 점심시간 쯤 되면 너무 배고픈데 잠을 못 줄이겠어요
+P0 	: 아...ㅠㅠ 그렇죠 저도 자는 게 먹는 거보다 좋더라구요ㅋㅋㅋ
+P0 	: 전 아침으로 달걀 말이랑 김치찌개 먹었어요ㅎㅎ
+P1 	: 맛있는 거 드셨네요
+P1 	: 저는 달걀말이도 잘 못 만드는데 대단하세요
+P0 	: 저도 잘 못 만들어서
+P0 	: 사각팬을 샀어요!
+P0 	: 요리는 템빨이죠ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ템을 잘 다루는 것도 능력이잖아요 ㅋㅋ
+P0 	: &name2& 님은 달걀 요리 중에 뭐 제일 좋아하세요?!
+P1 	: 저는 달걀찜 좋아해요 일식집에 나오는 부들부들한거요
+P0 	: 오오오 진짜 맛있죠 그런 거ㅋㅋㅋㅋ
+P0 	: 저는 토마토 달걀 볶음이 제일 좋더라고요! 뭔가 감칠맛이 좋아요
+P1 	: 그거 얘기는 많이 들었는데! 소문이 진짜였나봐요
+P0 	: 네 첨엔 에엑 뭔 맛이야 하고 먹었는데 자꾸 생각이 나더라고요...
+P0 	: 라면이랑도 조합 좋고 웬만한 거에 다 잘 어울리는 거 같아요
+P1 	: 토마토가 생각보다 요리에 잘 어울리나봐요
+P1 	: 라면에 케찹 넣으면 맛있어진다 그러고

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015935
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 실시간 강의가 뭐야
+P0 	: 어플로 교수님이랑 수업하는거야
+P1 	: 그래서?
+P0 	: 나 캠이 없어서 엄마 노트북 써야해
+P1 	: 노트북 빌려달라고?
+P0 	: 응
+P1 	: 너 컴퓨터도 있잖아
+P0 	: 노트북에만 캠이 달려있아
+P1 	: 컴퓨터에는 없어?
+P0 	: 컴퓨터로 하려면 캠을 따로 사야해
+P1 	: 하나 사
+P0 	: 돈낭비 같은데 그냥 노트북 쓸래
+P1 	: 그래 그럼
+P1 	: 얼마나 쓰는데?
+P0 	: 거의 매일 써야해
+P1 	: 모든 과목이 다 실시간 강의야?
+P0 	: 아니 두과목 빼고 다
+P1 	: 몇시부터 몇시까지 하는데?
+P0 	: 매일 달라
+P1 	: 평일에만 하는거지?
+P0 	: 응 평일에는 수업듣고 주말에는 과제해야해
+P1 	: 과제는 노트북 없어도 되지?
+P0 	: 응응 과제는 컴퓨터로 해도 돼
+P1 	: 저녁에는 노트북 줘야한다
+P0 	: 알겠야

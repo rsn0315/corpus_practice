@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100014807
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 먹는거 좋아하세요? ㅋㅋㅋ
+P0 	: 네 아주좋아해요
+P0 	: 다이어트하실때 음식은 어떤걸로 드셔요?
+P1 	: 다이어트 할때는 계란이랑 샐러드 위주로 먹었어요
+P0 	: 샐러드는 전 넘 빨리 배꺼지더라구여 다이어트 도시락 먹어보신적있나요?
+P1 	: 아니요 다이어트 도시락은 뭐뭐 들어있어요?
+P0 	: 다이어트도시락은 그 잡곡곤약섞인밥이랑
+P0 	: 소세지 닭가.슴살 스테이크 돌아가며나오더라구여
+P1 	: 아 알차게 나오네요ㅋㅋㅋ
+P1 	: 도시락 배달 같은거에요?
+P1 	: 다이어트 너무 힘들어요ㅠㅠ 맛있는건 너무 많고...
+P0 	: 2주치주문하면 와여 냉동도시락으로
+P0 	: 은근먹을만하더라구여 일반냉동도시락보다 밥이 더맛있어요
+P0 	: 맞아요 배달음식좋아하세요?
+P1 	: 배달음식 좋아하죠 ㅋㅋㅋ
+P1 	: 치킨도 좋고 떡볶이도 좋고ㅎㅎ
+P0 	: 저도 완전좋아해요 ㅎㅎ
+P0 	: 치킨 어느치킨 좋아하세요
+P1 	: 저는 허니 콤보요 ㅋㅋㅋㅋ
+P0 	: 저도 교촌 허니콤보가 최애치킨인데 ㅎㅎ

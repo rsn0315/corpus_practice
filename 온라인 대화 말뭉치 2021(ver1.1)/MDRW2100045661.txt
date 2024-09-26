@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045661
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저두요!!ㅠㅠ
+P1 	: 거의 대부분 국내가 그렇지만 부산에 한 번도 가본적이 없거든요ㅠㅠ
+P0 	: 아 정말요???
+P0 	: 부산 너무 좋아요
+P1 	: 네ㅠㅠ 여름에 쩌죽어도 한 번 가보고 싶어요ㅠㅠ
+P1 	: 부산에서 가봐야한다 싶은곳 추천해주실 수 있나요??
+P0 	: 저는 태종대 좋아해요
+P1 	: 방금 검색해봤는데 가보고 싶네요ㅠㅠ
+P1 	: 나무들이 있어서 여름에도 많이 안 더울 것 같아요ㅠㅠ
+P0 	: ㅋㅋㅋㅋ아 여름에 걸어가면 더워요
+P1 	: 그럼 낙엽있는 가을에 가면 좋겠네요!!
+P0 	: 여름에 가신다면 버스같은거 잇는데 그거 타는걸 추천할게요
+P1 	: 사진 하나보고 상상만했는데 풍경이 벌써 멋있네욬
+P1 	: 네네! 잘 알아보고 버스타고 갈게요!!
+P1 	: 감사합니더! &name1&님 덕분에 좋은 곳 알았네요ㅠㅠ
+P0 	: 동백섬도 좋앗어요
+P0 	: 한바퀴 산책하기에
+P1 	: 이름이 동백꽃이 많이 피어있을 것 같네요!!
+P0 	: 네 동백필때 가면 좋겟더라구요
+P0 	: 저는 동백필때 가본건 아니에요 ㅋㅋㅋㅋ
+P1 	: 동백꽃이 폈을때 가려면 시기를 잘 잡아야 겠네요!

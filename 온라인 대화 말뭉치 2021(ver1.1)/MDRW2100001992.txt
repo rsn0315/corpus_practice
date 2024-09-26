@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100001992
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 학교 수업을 못가니 과제가 많겠네요
+P1 	: 안녕하세요^^
+	  저는 학생이아니라서 과제는 없지만 저희아들들이 방학숙제가 조금 있더라구요^^
+P0 	: 요즘은 학교 못가서 걱정이시겠어요
+P1 	: 지방이긴하지만 주위에 코로나확진자가 나오다보니 방학이기도 해서 아이들은 집에만 있어요ㅠ
+	  아무래도 코로나 전보다는 학습량이 부족해서 조금 걱정되네요
+P0 	: 원격수업은 잘따라가나요(?)
+P1 	: 원격수업도 거의 한방향 학습이다보니 그걸로는 힘들어하네요
+	  혹시 학생이신가요?
+P0 	: 아.. 저는 6 4 2  아이 부모입니다^^
+P1 	: 아 부모님이시구나 저는 10 8 아들둘이예요.
+	  세자녀신데 학업도 신경 많이 쓰이시겠네요
+P0 	: 아직은 아니지만 이제 조금씩 오네요^^ 시기가
+P0 	: 여름방학인가요(?)
+P1 	: 네 다음주 목요일부터 개학이네요
+P0 	: 코로나 인데 걱정 되시죠(?)
+P1 	: 아무래두요 학교보내도 걱정 안보내도 걱정이네요
+P0 	: 교우관계 경쟁 등 만나서 배울것들이 있으니,..
+P1 	: 맞아요 그런걸 제대로 못하니 아이들도 힘들것 같네요
+P0 	: 학원도 다니나요(?)
+P1 	: 공부방이랑 줄넘기 보내고 있어요

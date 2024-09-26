@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100012225
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임 좋아하시나요?
+P0 	: 폰게임은 좋아해요! 꿈의정원 같은거 꾸준히 합니다
+P0 	: &name2&은 어떠세요?
+P1 	: 요즘엔 잘안하는데
+P1 	: coc랑 데바데 했었어요
+P1 	: 꿈의 정원은 어떤게임인가요?
+P0 	: 와 두 게임 다 잘 모르는데 꿈의정원은 가든스케이프라고도 하구.. 퍼즐게임이에요!
+P0 	: 퍼즐 풀면 별을모아서 대머리 주인공과 정원을 꾸밀 수 있어요
+P1 	: 대머리요?
+P1 	: 동물의 숲 같은건가요?
+P0 	: 음 아니요 애니팡이나 캔디크러쉬 같은 게임이에요!
+P0 	: 메인 스토리가 있긴 하지만 기본적으로 동일한 도형?과일 모아서 터뜨리는게 메인이에요
+P0 	: 메인스토리 주인공은 제 집사라고 하는데 대머리에요 ㅌㅋ
+P1 	: 아 이해했어요ㅋㅋㅋ
+P1 	: 좋아하는 스트리머 있으세요?
+P0 	: 게임 실황 말씀하시는 거죠? 아뇨 잘 찾아보진 않아요
+P0 	: 어떤 스트리머 좋아하세요?
+P1 	: 요즘 잘안보는데
+P1 	: 짬타수아 자주봤었어요
+P0 	: 전 전에 지컨인가 하는 분 거 유튜브에 떠서 봤어요
+P0 	: 이름이 지금 생각났네요!
+P1 	: 그
+P1 	: 옷가게 직원?
+P0 	: 네네네 에잇세컨즈!!!
+P1 	: 성대모사한거봤어요ㅋㅋ
+P0 	: ㅋㅋㅋ넘웃겼어요

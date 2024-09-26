@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100046905
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20211005
+topic : 일상 트렌드>가상 인간
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 가상인간에 대해 어떻게 생각하시나요
+P1 	: 글쎄요 좀 무섭기도하고
+P1 	: 잘 상용되면 생활이 편리해지지않을까요?
+P0 	: 동의합니다.
+P0 	: 인간이 해결하기 어려운 문제를 왕만하게 해결할 수 있다고 생각합니다.
+P0 	: 하지만 부작용으로 일거리나 노동자들의 권리가 박탈되지 않을까요?
+P1 	: 어떤 일이든 부작용은 따르니까요
+P1 	: 한번에 나아지지는 않더라도 차차 좋은 방향으로 바뀔거라 믿어요
+P0 	: 맞습니다.
+P0 	: 그렇다면 나아가서 가상인간이 가쟈오는 다른 긍정적인 효과는 뭐가있을까요?
+P1 	: 서비스업에서 쓸모있지 않을까요
+P0 	: 안내같은 용도 인가요?
+P1 	: 네 상담, 안내같은 용도나 단순 업무 같은경우는 대체 가능성이 높은것 같아요
+P0 	: 좋내요.
+P0 	: 어디에나있는 진상손님들도
+P0 	: 줄어들지도 모르겟네요
+P1 	: 가상인간이 진상 고객을 상대하면 정말 편할것 같네요
+P1 	: 그렇지만 가상인간인걸 알면 더 진상부릴지도 몰라요
+P0 	: 자신이 가상인간이라는걸
+P0 	: 자각 한다는 말씀하시는건가요?
+P1 	: 아 아니요 상대가 가상인간이라는걸 알게되면요
+P0 	: 아 땅콩사건처럼
+P0 	: 그거보다 더한 일이 생길 수 있다는말씀이시죠

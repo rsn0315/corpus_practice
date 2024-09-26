@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그쵸 코로나 때문에 제약이 너무 많아여
+P1 	: 여행취소도 여러번했어요
+P0 	: 속상하셨겠어요 ㅠㅠ
+P0 	: 여행이 보통 활력소 아닌가요
+P1 	: 맞아요. 그날을손꼽아 기다리면서 버티는거 있지않아요?
+P0 	: 맞아요 그게 큰 낙이죠 날 정해놓으면 ㅜㅜ
+P1 	: 진짜 코로나 괜찮아지면 해외휴양지 놀러가는게 꿈이에요
+P1 	: 저는 휴양지로 여행 못가봤어요
+P0 	: 어디로 가고 싶으세요??
+P1 	: 글쎄요 태국이요
+P0 	: 태국 많이 가더라구요
+P1 	: 이제 여행은 너무 막연해진것같아요
+P1 	: 맞아요 남해도 좋구요
+P1 	: 가고싶은데 멀어여
+P1 	: 주로 강원도 가요
+P0 	: 강원도 가본적 없는데 재밌을거같아요!
+P1 	: 정말요?
+P0 	: 네 ㅠㅠ
+P1 	: 주로 어디로 가세요?
+P0 	: 전 여행 자체를 잘 안가서요 집순이인지라 ㅜㅜ 그냥 국내로만요

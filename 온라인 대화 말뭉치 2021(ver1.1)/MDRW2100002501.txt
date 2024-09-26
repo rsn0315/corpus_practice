@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100002501
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요?
+P1 	: 너무 좋아해요!
+P1 	: 저는 백패킹도 자주다녓어요
+P0 	: 오 어디로가보셨나요?
+P1 	: 여주에 노지나
+P1 	: 산같은곳도 가고
+P1 	: 지금은 애기키우느라 못간지 좀 됫네요ㅠ
+P0 	: 와 애기키우시는구나 대박이네요ㅠㅠ
+P0 	: 힘드시겠어요ㅠ
+P1 	: 그러게요ㅠ 놀던때가 좋앗는데요
+P1 	: 여행자주다니세요?
+P0 	: 저도 요즘은코로나땜에
+P0 	: 못가네요ㅠㅠ
+P0 	: 가고싶어도
+P1 	: 그러게요ㅠ 코로나
+P0 	: 저는 괌 가고싶더라고요ㅠㅠ
+P1 	: 괌 좋죠ㅜㅜ 가보고싶어요
+P0 	: 저도요ㅠㅠ 글고 싱가폴도요
+P0 	: 진짜로
+P1 	: 저는 스위스요!!
+P0 	: 오 스위스좋네요 저도유럽쪽 가보고싶어요!
+P1 	: 버킷리스트에요ㅎ
+P0 	: 꼭 이루실거예요!
+P1 	: 저는 신혼여행으로 동유럽 다녀왓는데 북유럽쪽도 가보고싶어요
+P0 	: 오 유렵으로신혼여행너무좋네요
+P1 	: 그냥 지금은 국내라도 ㅇㅓ디든 자유롭게 가고싶네요!!!!!
+P0 	: 얼마간다녀오셨나요??!
+P1 	: 2주다녀왓엇어요

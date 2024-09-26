@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100038084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 나는 카모마일을 점심에 마셨어
+P0 	: 나는 아이스 아메리카노 마셨는데
+P1 	: 시원한 카모마일 맛있더라
+P0 	: 역시아직은 아이스 음료지
+P1 	: 친구는 아이스 밀크티를 마셨어요
+P0 	: 아나 밀크티 진짜 좋아
+P1 	: 일크티는 투썸
+P0 	: 투썸플레이스 음료가 맛있긴 해
+P1 	: 투썸 플레이스는 아이스크림도 맛있어
+P0 	: 폴바셋도 아이스크림 맛있어
+P1 	: 폴바셋은 스무디 종류도 맛있어
+P0 	: 이 근처에는 폴바셋이 없어
+P1 	: 원래 있었는데 없어졌어
+P0 	: ㅎㅇ

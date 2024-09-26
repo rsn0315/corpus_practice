@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015336
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨 어떠셨어요?
+P1 	: 계속 비가 오락가락하네요
+P1 	: &name1&님 지역은요?
+P0 	: 저희 지역은 오늘 맑았어요
+P0 	: 약간 덥더라구요
+P0 	: 비오셨으면 추우셨어요?
+P1 	: 아뇨 적당히 선선해서 좋았어요
+P1 	: 아직은 반팔 날씨네요
+P1 	: 그럼 오늘 아예 비가 안 왔어요?
+P0 	: 네 아예 안왔어요
+P0 	: 요즘 날씨가 오락가락해서 옷입기 애매한거 같아요
+P1 	: 긴팔 가디건 가방에 챙겨다녀요
+P1 	: 그런데 밖보다 대중교통 때 걸치는 것같아요
+P0 	: 그쵸 에어컨틀어져있는데가 애매해요
+P0 	: 회사는 춥지않으세요?
+P1 	: 그나마 요새는 조금 나은데 예전에는 너무 빵빵하게 틀었죠
+P1 	: 회사도 사실 좀 추워요ㅜ
+P0 	: 저는 에어컨 직빵인 자리라 추워요ㅜ
+P0 	: 그나마 요즘에는 껐다켰다하네요
+P1 	: 자리 이사할 때 에어컨자리 피하느라 동료끼리 눈치싸움했네요
+P1 	: 전력대란이다 뭐다하며 아끼라 할 때 솔직히 좀 반가웠어요ㅡ
+P0 	: ㅎㅎㅎ 그럼 요즘은 에어컨 안트세요?
+P1 	: 집에서는 안 틀어요ㅎㅎ
+P1 	: &name1&님은 트시나요?
+P0 	: 저도 집에서는 안틀어요 선풍기만 써요

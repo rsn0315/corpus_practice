@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002996
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 왜 혈압 높으시대?
+P0 	: 저번에 병원에서 쟀더니 수치가 140 정도래
+P1 	: 관리해야겠네
+P0 	: ㅇㅇ 그래서 혈압계 알아보고 보내달라고 하심
+P1 	: 혈압계는 그렇게 안비쌀거야
+P0 	: ㅎㅎ 우리가 사드리는 건 아냐
+P1 	: 그냥 알아만 봐드리는 거?
+P0 	: 웅 ㅎㅎ 편한 걸로 알아봐서 보내드려야겠어
+P1 	: ㅇㅇ 가정 혈압계가 병원보다는 수치가 좀 낮게 나오는 것 같던데
+P0 	: 그래?
+P1 	: ㅇㅇ 감안하고 재야할 듯
+P0 	: 미리 말씀드려야겠네
+P1 	: 혈압은 매일 재면서 관리해야하니 버튼이랑 편한거 알아봐
+P0 	: 웅 ㅎㅎ

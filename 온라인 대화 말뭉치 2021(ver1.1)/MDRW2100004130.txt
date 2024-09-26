@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100004130
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P0 	: 쇼핑?
+P0 	: 나는 최근에 후드티를 샀어
+P1 	: 오 예쁘겠다
+P1 	: 나는 방금 엄마랑 마라탕 시켜먹었어
+P0 	: 마라탕 좋지
+P1 	: 그리고
+P1 	: 엄청 오래전에 시켰던 인형이
+P1 	: 배송터미널에 도착했다는 소식을 들었어
+P0 	: 와
+P0 	: 좋은 소식이네
+P0 	: 빨리 오면 좋겠다
+P1 	: 맞아
+P0 	: 나도 인형을 샀는데
+P0 	: 인형 옷 만들어주고싶어서 천을 알아보고 있어
+P1 	: 우와 너 손재주가 좋은거 보다
+P0 	: 약간 좋아
+P0 	: 사실은 옷을 사주기엔 돈이 별로 없오소
+P0 	: 천 사서 직접 만들어주려고
+P1 	: 앜ㅋㅋㅋㅋ
+P1 	: 그럴수 있죠
+P1 	: 그런옷은 유독 비싸니까
+P0 	: 성공하면 너에게도 나눠줄게
+P1 	: 우와 정말?
+P1 	: 고마워ㅠㅠ
+P0 	: 멜빵 바지랑 망토중에 뭐가 더 귀여울까?
+P1 	: 멜빵 바지가 더 귀여울것 같아
+P0 	: 좋다

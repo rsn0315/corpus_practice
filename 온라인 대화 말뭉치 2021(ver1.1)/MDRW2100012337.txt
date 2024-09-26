@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 응응
+P0 	: 산거야 판거야?
+P1 	: 사기도 하고 팔기도 했어
+P0 	: 산거는 뭐삿어?
+P1 	: 나 마카 샀엉
+P0 	: 마카? 미술용품 말하는거야?
+P1 	: 웅ㅇ웅 맞아 싸게 팔아주셨어
+P0 	: 얼마에 삿어?
+P1 	: 정확하게 기억은 안나는데 6만원 정도에 샀어
+P0 	: 그렇구나.
+P0 	: 판거는 뭐 팔았어?
+P1 	: 코난 굿즈 팔았어!
+P0 	: 얼마에 팔았어?
+P1 	: 8000원?
+P0 	: 싸게 판거야?
+P1 	: 당연하지 일본 직구상품이었다구!
+P0 	: 그렇구나 어떤사람이 사갔어?
+P1 	: 귀여운 학생이 사갔어
+P0 	: 오 나는 항상 아줌마들이랑만 했는데
+P1 	: 아 진짜 넌 뭘 팔았어?
+P0 	: 나는 주로 안읽는 책을 팔았어
+P1 	: 아 그렇구낭
+P1 	: 요새 구매 희망 물건 있어?
+P0 	: 나는 토익 공부중이라 토익책
+P1 	: 아 토익책이 비싸.
+P1 	: ?
+P0 	: 아니 저렴한거 많더라

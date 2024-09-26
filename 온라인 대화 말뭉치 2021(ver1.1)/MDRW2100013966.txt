@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 너는 아직 대학생인데 학교다니는거 어때?
+P1 	: 학기중에 시험보는게 힘들었어
+P0 	: 시험기간은 정말 힘들지 ㅜㅜ
+P1 	: 과제도 그 시기에 유난히 많고
+P0 	: 그래도 수업듣는건 좋지
+P1 	: 맞아 수업듣는건 그래도 재미있어
+P0 	: 동아리 활동은 어때.
+P0 	: ?
+P1 	: 나는 중앙동아리 가입했어
+P0 	: 오 나도 사진 동아리 해본적 있어
+P1 	: 아 요즘 수강신청 기간이였어
+P0 	: 수강신청 싫어ㅜㅜ
+P1 	: 맞아 듣고싶은 수업 듣기 너무 힘들어
+P0 	: 경쟁률이 너무 세지
+P1 	: 수강 인원좀 늘려줬으면 좋겠어
+P1 	: 안녕

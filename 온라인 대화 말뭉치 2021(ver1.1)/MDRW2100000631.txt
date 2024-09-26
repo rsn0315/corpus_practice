@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100000631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 고등학교때가 나았던거같아요
+P0 	: 앗 저도요~
+P0 	: 고등학생때가 아무 생각없이 친구들이랑 잘 지냈던~
+P0 	: 대학가니 인맥이 많이 정리되더라구요!
+P1 	: 맞아요 특히 제 동기들은 5명 남고 자퇴했어요
+P0 	: 대학은 맞지않으면 바로 자퇴할수도있으니 가끔은 삭막하더라구요ㅠ!
+P0 	: 대학때 수업은 재밌으셨나요~?
+P1 	: 아뇨 ㅋㅋ... 적성에 안 맞아서 고민이네요
+P0 	: 아하! 지금 대학생이신가요~?
+P1 	: 네 맞아요 &name1&님은요?
+P0 	: 저는 작년에 졸업했습니다~!!
+P0 	: 수업은 저도 4년들었지만 적성에 안맞는건 마찬가지인것같아여ㅠ
+P1 	: 그러면 취직은 하셨나요??
+P0 	: 저는 현재 프리랜서로 일하고 있어요~~
+P0 	: 과를 물어봐도 될까요? 저는 식품과 나왔어요~
+P1 	: 저는 화학과에요
+P1 	: 취직이 안 되는 과라 고민이에요
+P0 	: 화학과ㅠㅠ 쉽지 않죠 제 주변분은 대학원까지 가시더라구요!!
+P0 	: 화학정말 쉽지않은!
+P1 	: 맞아요 대학원은 가야 취직 될까말까..
+P0 	: 대학원도 생각있으신거에요~?
+P1 	: 아뇨 탈출하고 싶어요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034870
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 가고싶은 여행지 있나요?
+P1 	: 전 제주도요
+P1 	: &name1& 님은요?
+P0 	: 저는.... 경주요. 경주가고싶네요,,,,,
+P1 	: ㅋㅋㅋ가본 적 있으세요?
+P0 	: 아뇨ㅜ 갔던 곳은 부산이 제일 좋았던 것 같아요
+P0 	: 신기하게 국외보다 국내여행이 더 좋게 기억에 남더라고요
+P1 	: 오 그런가요? 전 국외로 안 나가봤거든요
+P1 	: 저도 부산 갔을 때 재밌었어요
+P0 	: 그쵸! 부산 너무 즐겁더라고요!!!!!!!!
+P0 	: 전 여행내내 비가왔는데도 재밌었던 기억이있네요 ㅎ.ㅎ
+P1 	: 부산에서 어디어디 가셨어요?
+P0 	: 저 일단... 자갈치 시장이랑 남포동은 다 가봤던 것 같아요!
+P0 	: 바다는 못보고 왔지만요ㅜㅜㅋㅋ
+P1 	: 아 바다하니까 밤바다 보고 싶어요
+P1 	: 요즘 날씨가 딱 바다 가기 좋은 날씨 같아요
+P0 	: 맞아요 ㅠㅠㅠ 요즘 밤바다 가기에 딱 좋잖아요ㅠㅠ
+P0 	: 진짜 코로나만 아니였으면 바로 갔을 거 같아요ㅜㅜ
+P1 	: 그쵸 저도 시간만 있으면...ㅠ
+P0 	: 맞아요ㅠㅠㅠㅠㅠ

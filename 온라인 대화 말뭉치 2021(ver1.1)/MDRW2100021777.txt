@@ -1,0 +1,77 @@
+# FILE DATA
+ID : MDRW2100021777
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 요보쇼
+P0 	: &name2&
+P0 	: 찾았네요
+P0 	: 최근 멀 샀는디요
+P0 	: 야아아아앙
+P0 	: 나는 제주도 오면서 당근마켓 무료나눔 많이했는데
+P0 	: 와서 또 구입하누라 당근 중독자됨
+P1 	: 오 &name1&님  당신이군요
+P1 	: 뎃츠유!
+P1 	: 당근중독은 여전하구만
+P0 	: 최근구매물건에대해말해보세요
+P1 	: 전 말차라떼 사물랫는데 안샀슈
+P1 	: &name1&님은여
+P0 	: 흠 물건은 뭐더라
+P1 	: 돈까스를 배달했죠
+P0 	: 테팔테팔
+P0 	: 그게무슨물건이요
+P1 	: 테팔냄비?
+P1 	: 후라이팬?
+P0 	: 응
+P0 	: 압렵솥밥도 해먹고
+P1 	: 오예
+P0 	: 냄비로도 쓰고 여러용도가 있는 물건
+P1 	: 맛있겠다 보내실곳은 드니드니 5층집 입니다
+P0 	: 엄마 선물은 어떻게 할거임
+P1 	: 오우
+P1 	: 노 초이스 낫옛
+P0 	: 드니 근데 이거 어디가면 데이터가 나오능거야
+P0 	: 글쿠만
+P0 	: 언제시지
+P1 	: 10월
+P1 	: 10월 언젠가임 까묵어부럿다
+P0 	: 주제로 돌아가서
+P0 	: 나에게 줄 선물은 제작되고있는가
+P1 	: 오잉?
+P1 	: 오오잉??
+P1 	: &name1&님 선물 오잉??
+P0 	: 그림
+P0 	: 그으림
+P0 	: 내집을환허게해줄무울건

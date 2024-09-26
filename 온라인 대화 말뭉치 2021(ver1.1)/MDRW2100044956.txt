@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044956
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사 메뉴는 무엇으로 드시나요
+P1 	: 저는 최근에 카레 먹었어요
+P0 	: 전 카레보다는 짜장밥을 아주 가끔 해먹죠
+P1 	: 오 카레보다는 짜장을 좋아하시나봐요
+P0 	: 네 전 짜장이 좋아요
+P0 	: 음식 배달도 자주 드시나요
+P1 	: 음 일주일에 한 번은 시키는 편이에요
+P0 	: 저도 주 1회는 배달음식을 시켜 먹어요
+P0 	: 메뉴는 무얼시키나요
+P1 	: 저는 주로 치킨을 시켜먹어요
+P0 	: 저도 치킨 피자가 많이 배달되요
+P1 	: 어디 치킨 주로 시키세요?
+P0 	: 전 bhc 주로 먹어요
+P0 	: 어떤 치킨 드시나요
+P1 	: 사쿠사쿠나 피나치공 많이 먹어요
+P1 	: bhc 주로 어떤 거 시키시나요?
+P0 	: 후라이드 치킨
+P1 	: 후라이드 치킨 좋죠

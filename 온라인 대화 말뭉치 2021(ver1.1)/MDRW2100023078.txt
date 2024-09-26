@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100023078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 매운 맛이 있나요?
+P0 	: 매콤한 맛이 나나요?
+P1 	: 과자 자체는 맵지 않아요!
+P0 	: 양파가 들어가나요?
+P1 	: 과자를 찍어 먹는 소스에는 양파가 들어가요
+P0 	: 오감자 사워크림맛?!
+P1 	: 틀~렸습니다~
+P1 	: 오감자 새우깡 이런 과자는 아니에여
+P0 	: 크아아아악
+P0 	: 감자 과자인가요?
+P1 	: 감자 안들어갑니다!
+P0 	: 한국 과자인가요?
+P1 	: 한국에서도 만들긴 하지만
+P1 	: 기원이 한국은 아닙니다
+P0 	: 멕시코가 기원인가요?
+P1 	: 허걱 맞아요
+P1 	: ㅋㅋㅋㅋㅋ명예멕시코인 해일
+P0 	: 나쵸?!
+P0 	: 나쵸 사워크림
+P1 	: 헉 나쵸 딩동댕!

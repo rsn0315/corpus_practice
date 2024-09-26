@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100003356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네,안녕하세요
+P0 	: &name2&님은 여행에 대해서 어떻게 생각하세요?
+P1 	: 힐링,탐방?같아요
+P0 	: 저는 기분전환하러 가는것같아요 ~
+P0 	: 맛집에 가서 맛있는 음식도 먹고
+P0 	: 관광지가서 풍경 구경도 하고 ~
+P1 	: 오~ 그렇죠ㅎㅎ
+P1 	: 여행은 언제나 좋아요~
+P0 	: 맞아요!
+P0 	: 꿀같은 휴식시간이기 때문에
+P0 	: 정말 좋죠 ㅎㅎ
+P1 	: 해외처럼 휴가가 몇주나 한달처럼 길었으면 좋겠어요ㅎ
+P0 	: 가족과 가도 즐거운것같아요 ~
+P0 	: 맞아요 ㅠㅠ
+P1 	: 항상 아쉬워요 ~
+P0 	: 그쵸... ㅠㅠ
+P0 	: 요즘 시국에는
+P0 	: 여행을 가고 싶어도
+P1 	: 네, 지금은 코로나라 더욱 가기도 힘들고요
+P0 	: 코로나 19  때문에 ㅜㅜ
+P0 	: 안그래도 바쁜데...
+P0 	: 코로나까지 겹쳐버리니
+P0 	: ㅠㅠ
+P1 	: 요즘 코로나 단계도 많이 올라간 지역도 많아서 국내여행도 겁나서 못가네요
+P0 	: ㅠㅠ
+P0 	: 확진자는 더 나오고 ㅜㅜ
+P0 	: 여행가기 참 어렵네요 ~

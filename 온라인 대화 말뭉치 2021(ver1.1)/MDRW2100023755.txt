@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100023755
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그러니까 갑자기 해가 쨍해
+P0 	: 이따가 나가야 하는데
+P1 	: 장보러 간다고 했지?
+P0 	: 응
+P1 	: 더워서 걸어갈 수 있겠나?
+P0 	: 그니까 말이야
+P1 	: 한동안 좀 가을 날씨가 되는 것 같더니
+P0 	: 하 그러게
+P1 	: 며칠 날씨가 참 좋았었는데
+P0 	: 날씨가 시원해져야 맘편히 나갈텐데
+P1 	: 맞아 날씨가 선선하면 다니기가 좋지
+P0 	: 그니까
+P1 	: 갑자기 왜 다시 더워졌을까
+P0 	: 날씨가 오락가락 하는듯
+P1 	: 오늘 날이 덥다

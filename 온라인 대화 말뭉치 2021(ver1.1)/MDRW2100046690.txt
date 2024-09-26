@@ -1,0 +1,81 @@
+# FILE DATA
+ID : MDRW2100046690
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 오늘 저녁에 계획있으신가요?
+P0 	: 오늘 저녁 강아지랑 산책할 예정이에요
+P1 	: 오!!저도 오늘 저녁에 강아지랑 산책할거에요! 강아지 산책코스는 주로 어디인가요???
+P0 	: 그냥 강변걷기~ 하거나 집근처가 산책로에요~^^
+P0 	: &name2&님  강아지인가요?
+P0 	: 푸들~~
+P1 	: 넵 맞아요 귀엽죠!!ㅎㅎ
+P1 	: 저랑 산책코스가 비슷하네요~
+P0 	: 네!!!
+P0 	: 저도 푸들 키웁니다
+P0 	: ^^
+P1 	: 오~ 갈색푸들인가요??
+P0 	: 갈색^^
+P1 	: 갈색푸들이 진리죠~ ㅋㅋㅋ
+P1 	: 강아지 이름은 뭐에요??
+P0 	: ㅎㅎ &name3&에요
+P0 	: {share:photo}
+P1 	: 헉 세상에나 너무 귀엽네요 ㅋㅋㅋ
+P1 	: 강아지 몇살이에요 ㅋㅋ??
+P0 	: &name2&님 강아지도 귀엽네요
+P0 	: 7살이요
+P1 	: {share:photo}
+P0 	: 수컷이요 ㅎ
+P1 	: 저희강아지는 5살이에요 수컷!!!
+P0 	: 악
+P1 	: 이름은 &name4&입니다 ㅋㅋㅋㅋ
+P0 	: 넘 귀여워요
+P0 	: 털쪄써 찐 귀엽네요
+P1 	: 사실 털도 쪘지만 살도 잔뜩 쪘어요 ㅋㅋ
+P0 	: 그게 더 귀엽죠 ㅋ
+P0 	: 우와  &name4&는 진짜 털이 {emoji:👍}{emoji:👍}{emoji:👍}{emoji:👍}
+P1 	: &name3&는 진짜 작고 귀엽네요 ㅠㅠ
+P1 	: &name3&도 고구마 좋아하나요?
+P0 	: ㅋㅋ작아요 
+	  고구마가 주식이에요 ㅋㅋㅋㅋ
+P0 	: 입이 짧아서 고구마를 ..ㅋㅋ
+P1 	: 저희강아지는 뭐든지 잘 먹어서,,고구마도 잘먹고 어떤 사료를 줘도 잘 먹어요 ㅋㅋㅋ ㅠㅠ
+P0 	: ㅋㅋㅋㅋㅋ^^  원래 그래요 ㅋㅋ
+	  &name4&는 잘먹어서 좋네요
+	  푸들이 입이 짧은데 부러워요
+P0 	: 저렇게 약간 비숑삘 나는 푸들 넘 귀엽네요
+P1 	: ㅋㅋㅋㅋ저희는 &name4&가 첫 강아지여서 모든 강아지가 다 잘 먹는줄 알았어요 ㅠㅠ
+P1 	: &name3&도 충분히 귀여운걸요^^ 오늘 퇴근하시고 &name3&랑 좋은 산책시간 갖길 바랄게요!!

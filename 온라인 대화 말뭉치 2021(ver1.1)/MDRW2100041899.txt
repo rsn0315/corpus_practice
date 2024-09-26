@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041899
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 로제 스파게티 만들어줄까?
+P1 	: 그게 뭐야
+P0 	: 크림이랑 토마토 반반 섞인거~
+P1 	: 떡볶이 먹었던 거
+P0 	: 웅웅 요새 떡볶이 로제맛으로 많이 나오지 ㅋㅋ
+P1 	: 맛있겠네 해 봐라
+P0 	: 웅웅 생크림도 있으니까 가능함~
+P1 	: 냉장고에 있는 재료 다 써라
+P0 	: 알았다 ㅎㅎ
+P1 	: 면은 많이 하지 말고
+P0 	: 웅웅 살찌니까 적당히 ㅋ
+P1 	: 그래 지금 할 거야
+P0 	: 웅웅~

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012608
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 할머니 방금 들어오셨어.
+P0 	: 방금? 그래도 다행이네
+P0 	: 어디 갔다 오셨대?
+P1 	: 할머니 친구네 댁에 옥수수 갖다 준다고 가셨대.
+P0 	: 옥수수 그거 내일 갖다 주면 되는걸...
+P0 	: 낮에 아빠가 집에 있으니까 할머니 잘 살펴보라고 해
+P1 	: 안 그래도 얘기했어. 어머니 잘 챙기라고,
+P0 	: 오케이~~ 막내는 자??
+P1 	: 아니 아직. 아직 씻지도 않았어.
+P0 	: 왜 아직도 안 자? 내일 출근해야 되는 애가
+P1 	: 그러게 말이여. 요즘 뒤늦은 사춘기가 왔나 말을 영 안 들어.
+P0 	: ㅋㅋㅋ말 안 들으면 나한테 얘기해
+P0 	: 언니는 무서워하니까 혼내 줘야지~~
+P1 	: 그래. 오늘도 너무 늦게까지 자길래 깨웠더니 짜증을 내더라고.
+P0 	: 완전 불효녀네~~
+P1 	: 그래도 설거지며 빨래며 집안일은 막내가 제일 잘 도와줘.
+P0 	: 그런 건 맨날 막내 시키지.말고 아빠랑 오빠 시켜!!
+P1 	: 요즘엔 식구들이 돌아가면서 할 때도 많아
+P1 	: 예전에 비하면 이것도 많이 발전한 거야.
+P1 	: 오늘은 무슨 청소를 하셨남?

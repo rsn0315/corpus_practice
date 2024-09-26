@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100036080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: &name2&님 여행하실때 어떻게 계획하시는 편이세요
+P1 	: 전 숙소잡고 숙소 기준으로 맛집을 찾는 먹는 여행이에요
+P1 	: 여행계획을 세우실때 어떻게 하시나요?
+P0 	: 전 여행일단지역정하고 교통을 먼저끊어놓고 여행전날 숙소정하고 당일 대충어딜갈지 정하는편이에요
+P1 	: 아항 전 숙소정하고 교통편 끊어요 ㅋㅋ
+P0 	: 국내는 숙소먼저정하긴해여 ㅋㅋㅋㅋ해외는 뱅기미리끊고
+P0 	: 계획 탄탄하게 짜서 가시는편인가요
+P1 	: 저도 해외는 뱅기부터ㅋㅋㅋㅋ
+P1 	: 전 다른건 계획을 안세우는데 먹는건 리스트업해요ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ먹는거중요하져 저도 여행가면 젤중요한게 음식이라
+P0 	: 당일날 음식점부터 찾아봅니다
+P1 	: 그렇죠.. ㅎㅎ
+P1 	: 놀거 즐길거 구경거리는 여행지가서 해도 되는데 먹는건 맛집이나 풍경맛집을 찾게 되더라구요 ㅎㅎ
+P1 	: 그게 여행의 묘미중 하나기도하죠ㅎㅎ
+P0 	: 맞아요 또 맛있는거 찾아서 먹으면 그 여행지가 기억에 오래남고 좋게남더라구여
+P1 	: 네네 정말 그래요ㅋㅋㅋㅋ 또 가고싶고요 ㅎㅎ
+P1 	: 그런 의미에서 기억에 남는 곳이 있으셨나요?
+P0 	: 저 국내는 제주도여 ㅎㅎㅎ
+P0 	: 음식이랑 바다가 너무 좋았어요

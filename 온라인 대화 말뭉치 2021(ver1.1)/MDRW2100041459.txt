@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 오늘 뭐 먹었어
+P1 	: 아 오늘 사보텐 가서 돈까스
+P0 	: 아 나도 돈까스 먹었는데
+P1 	: 나는 치즈 돈까스 먹었어
+P0 	: 와 치즈 돈까스 맛있겠다
+P1 	: 너는 무슨 돈까스 먹었어
+P0 	: 나는 그냥 일반 돈까스였어
+P1 	: 치즈가 굳지도 않고 마시더라
+P1 	: 맛있더라
+P0 	: 사보 테는 샐러드가 있어서 좋아
+P1 	: 맞아 샐러드 소스도 다양하잖아
+P0 	: 넌 무슨 소스를 좋아하니
+P1 	: 는 참깨소스
+P0 	: 또 참깨 소스가 더 좋아
+P1 	: 깨 갈아서 돈까스 소스 찍어 먹는 거 맛있어
+P0 	: 맞아 재미도 있고
+P1 	: 돈까스 가 짱이지

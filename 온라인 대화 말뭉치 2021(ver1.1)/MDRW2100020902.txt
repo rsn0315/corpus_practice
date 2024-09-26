@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100020902
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P1 	: 최근에 여행다녀온적있으세요?
+P0 	: 안녕하세요~
+P0 	: 코로나 이후로는 드라이브만요
+P1 	: 오 타지역으로도 드라이브갔다오신거에요?
+P0 	: 네네 당일치기로 ㅎㅎ
+P1 	: 오 그렇군요 저두 잠깐 다녀오고 그게다에요 ㅠㅠ
+P1 	: 어디 다녀오셨어요!?
+P0 	: 강원도나 영종도 이런곳들 다녀왔어요!
+P0 	: &name2&님은 어디 다녀오셨어요?
+P1 	: 저는 문경 다녀왔어요!
+P1 	: 강원도 저도 가고싶네요 ㅠㅠ 너무멀어요
+P0 	: 오 문경은 한번도 안가봤어요!
+P0 	: 어떠셨나요?
+P1 	: 작고 한적한 도시였어요 ㅋㅋㅋㅋ
+P1 	: 넓은카페도 좀 있어서 잘있다가왔어요
+P0 	: 저도 다음에 가볼게요 ㅎㅎ
+P0 	: 가장 좋았던 여행지가 어디에요?
+P1 	: 저는 제주도요ㅋㅋㅋㅋ
+P1 	: 어느여행지 가장 좋으셬ㅅ어뇨?
+P0 	: 저는 강릉이요!!
+P1 	: 오오 어떤점이 좋으셨어요!?
+P1 	: 저두 강릉가고싶었어요
+P0 	: 그냥 바다도 좋고 음식도 좋고..
+P0 	: 항상 좋은 기억만 있었던 것 같아요
+P0 	: 매년 한번씩 가요!
+P0 	: 제주도는 한번밖에 못가봤어요ㅠㅠ

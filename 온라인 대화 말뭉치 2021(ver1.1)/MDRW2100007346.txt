@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007346
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤 음식 선호하시나요?
+P1 	: 저는 간장베이스의 맛을 좋아해요~
+P1 	: 볶음 우동... 교촌치킨 등등
+P0 	: 오 우동
+P0 	: 저 우동 진짜 좋아해요
+P1 	: 하루한끼님 볶음 우동에 마요네즈 뿌려드셔보세요!!
+P1 	: 제 야식 최애메뉴 넘 맛나요
+P0 	: 우와 진짜 맛있겠어요
+P0 	: 볶음우동은 댁에서 만들어드시나요?
+P0 	: 아니면 반조리로 사와서 조리만?
+P1 	: 사누끼 냉동 우동 면을 사두고 가끔 먹고 싶을 때마다 조리해먹어요
+P0 	: 아 그러시구나~
+P1 	: 냉장 우동면은 삶으면 너무 불어버려서 식감이 안살더라구요ㅜㅜ
+P0 	: 야식으로 딱이네요 진짜
+P0 	: 맞아요 그 타이밍 진짜 중요하죠
+P1 	: &name1&님은 냉동 우동 면 드세요
+P1 	: 훨 맛나요! 저 자취 경력 2년! 믿고 드세요우!
+P0 	: 오 자취2년차 분 말씀이면 진짜 믿먹!
+P0 	: 꼭 해먹을게요
+P0 	: 마요네즈는 그냥 오뚜기꺼 사용하시나옹?
+P1 	: 네! 오뚜기 마요가 칼로리 높은만큼 왕 고소해요
+P0 	: ㅎㅎㅎㅎ 칼로리 높은게 나름 맛의 지표가 되니까요 ㅋㅋㅋ
+P0 	: 맛있는걸 먹으려면 고칼로리로!

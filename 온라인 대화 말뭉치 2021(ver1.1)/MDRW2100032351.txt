@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P0 	: 언니집에 &name3&랑 &name4&이 너무 귀엽지
+P1 	: 그지 &name3&는 특히 접대묘라 너무 좋아
+P0 	: 요즘앤 &name5&도 있어서 예민하겠다
+P1 	: &name4&이는 좀 덜할거 같은데
+P1 	: &name3&는 스트레스심하겠다
+P0 	: 안그래도 같은 고양이 싫어하니까...
+P0 	: 너는 고양이 키울 생각있어?
+P1 	: 키울수있으면 키우고싶지
+P0 	: 나도...아직 경제적인것도 별로니까...
+P1 	: 그니까 돈 많이 든다고들어서
+P1 	: 좀 모아두고 데려와야할듯
+P0 	: 그러게 괜찮았으면 &name5& 내가 키우면 좋은데
+P1 	: 그지 &name5& 아픈데가 많아서 입양가기 힘들거 같구..
+P1 	: 언니도 데리고있기 힘들긴하니까
+P0 	: 얼른 입양 갈 수 있으면 좋겠다
+P1 	: 그러게나말이다....
+P0 	: &name5& 아프지마...

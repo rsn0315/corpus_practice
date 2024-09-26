@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100044120
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+	  님이 계신 지역도 비가 오나요?
+P1 	: 네 하루종일 오네요~님도 그러신가요?
+P0 	: 네.. 아까 7시 경 집에 들어올 땐 신발도 다 젖었어요.;
+P1 	: 에고 ㅠㅠ많이 내렸다가 안내렸다가 하더라구요
+P0 	: 쌀쌀해져서 긴팔 겉옷은 꼭 챙겨야겠더라구요.
+P1 	: 넹넹 저두 어젠 후드입고 나갔는데 딱이더라구요 ㅋ
+P0 	: 긴바지 입고 다닐래요.
+	  발목이 시렵더라구요. ㅆ
+P1 	: 마자용 감기걸려요~ ㅠㅠ 감기 조심조심
+P0 	: 우산은 이쁜 거 쓰고 다니세요?
+P1 	: 아니용 그냥 집에 있는거 써요 ㅎㅎ
+P0 	: 검은색, 남색..ㅎ
+	  저는 우산을 막 굴리니깐
+	  때가 타서 어두운 색만 쓰게 되네요.
+P1 	: 아 저두요 ㅋㅋ 어두운색만 쓰게 되긴하네요 !
+P0 	: 초록색 우산이 있는데 내일은 기분 전환용으로 써볼까싶어요.ㅎ

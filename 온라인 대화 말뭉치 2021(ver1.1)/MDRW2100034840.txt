@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요
+P0 	: 주말인데 뭐 맛있는거 드셨나용
+P1 	: 아 그냥 밥은 평범하게 하고 과일먹었어요 ㅋㅋ&name1&님은요?
+P0 	: 자 라면..ㅋㅋㅋㅋㅋ 맛있는거 무러 나가야하는뎅 ㅋㅋㅋㅋㅋ
+P1 	: 배달이라도 해드세요 ㅋㅋ
+P0 	: 메뉴추천받아용ㅋㅋㅋ
+P1 	: 밥이랑 드실거면 교촌레드콤보고 밥만 드실라면 움,,쌀국수?
+P0 	: 아 쌀국수먹고싶다 쌀국수는 직접 가서 먹어여하는데 ㅋㅋㅋ
+P0 	: 교촌도 좋네욬ㅋㅋㅋㅋ
+P1 	: 쌀국수도 배달돼요 면 따로 국물다로 와요
+P1 	: 조립은 셀프로 해야하지만요
+P0 	: 아 ㅋㅋㅋ 조립 ㅋㅋㅋㅋ
+P0 	: 고수듬뿍 가져달라하고 먹고싶은데요
+P0 	: 고수좋아하시나요
+P1 	: 고수 좋아해요 그치만 그거 구비안한집이 더 많더라구요
+P0 	: 마자요 달라해도 손톱만틈 주는데도 있고 ㅠㅠ

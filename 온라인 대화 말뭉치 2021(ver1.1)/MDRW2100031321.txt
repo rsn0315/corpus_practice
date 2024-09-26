@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 라면이요?
+P0 	: 네 컵라면이든 끓인거든
+P1 	: 라면 좋아하죠
+P0 	: 어떤 라면 좋아하세요?
+P1 	: 저는 삼양라면 좋아해요
+P0 	: 아 저도 삼양라면 좋아해요!
+P1 	: 햄이나 계란 넣고 끓이면
+P0 	: 아 먹고싶네요 이시간에 라면 ㅠㅠ
+P1 	: 누가 먹는 냄새 풍길때 제일 맛있는 ㅎ
+P0 	: 맞아요 한젓가락만 얻어먹을때 제일..
+P1 	: 님은 무슨 라면 좋아하세요?
+P0 	: 저도 끓인것도 좋아하고 짜장라면도 좋아해요
+P1 	: 요즘은 볶음면같은것도 많던데요

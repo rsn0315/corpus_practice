@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그래야지
+P0 	: 이직하는거 넘 힘듦 ㅠㅠ
+P1 	: 그럼 지금 회사 오래 다녀야지
+P0 	: 요기 이제 오락가락해서 ㅠㅠ
+P1 	: 오래 못 다닐 수도 있나
+P0 	: 웅웅.. 앞날이 어케될지 모르겠다
+P1 	: 그러면 빨리 알아봐야지
+P0 	: 웅웅..ㅋㅋ
+P1 	: 경력이 많으니까 좋은 회사 할 수 있다
+P0 	: 그럴수있겠지?ㅋㅋ
+P1 	: 당연하지
+P0 	: 웅..그럼 서서히 준비해야겠다
+P1 	: 지금까지 잘 했으니까
+P0 	: 웅웅ㅋㅋ
+P0 	: 이직준비 조금씩 해야겠어
+P0 	: 내일부터 야근할수도

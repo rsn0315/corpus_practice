@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100001454
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 공연 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 강원
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕!
+P1 	: 앗 &name1&님 안녕하세요 :)
+P1 	: 맛있는 저녁 드시고 계신가요~?
+P0 	: 넵
+P0 	: 보쌈
+P0 	: 머것서요
+P0 	: &name2&님은요?
+P1 	: 앗 보쌈 ㅎㅎㅎ 맛있었을 것 같아여
+P1 	: 저는 지금 찜닭 시켰는데 도착해가지고
+P1 	: 신나게 뜯고 있었어요 ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되세요~?
+P0 	: 음
+P0 	: 저는 스포츠경기 시청하는게
+P0 	: 취미입니다 ㅋㅋ
+P1 	: 오와 그렇군요..!  ㅎㅎ 뭔가 신기하네요!
+P1 	: 주로 어떤 경기를 시청하세요?? ㅎㅎㅎ
+P0 	: 대부분 보는편인데
+P0 	: 축구랑 야구를 제일 조아해요 ㅋㅋ
+P0 	: 농구도 가끔 보구요 ㅋㅋ
+P1 	: 오오 되게 다양하게 보시네요 ㅎㅎㅎ
+P1 	: 저는 정말 스포츠알못이지만
+P1 	: 요즘에는 배구도 많이 보는 것 같던데 그러면 배구도 보시나요?ㅎㅎ
+P0 	: 오 배구도
+P0 	: 가끔씩 봅니다 ㅌㅋ
+P0 	: 배구도 관심갖고 보면 엄청 재미나요 ㅎㅎ
+P1 	: 그러게요 이번에 배구에도 스타선수들도 많이 생겨서
+P1 	: 뭔가 관심이 가는 것 같아요 ㅎㅎㅎ

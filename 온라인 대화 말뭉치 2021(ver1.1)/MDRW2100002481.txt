@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002481
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 나중에 여행 갈 생각 있어?
+P1 	: 여기저기 다녀보고 싶어
+P1 	: 너는 여행 갈 생각 있어?
+P0 	: 엉 나도 코로나 끝나면 일본이나 바다 가고 싶어
+P0 	: 넌 어디가고 싶어?
+P1 	: 나 국내여행 다녀보고 싶어
+P0 	: 오오 구체적으로 어디쪽으로 가고 싶어?
+P1 	: 구체적으로 생각한건 아니고
+P1 	: 정말 여기저기 다녀보고 싶어
+P0 	: 제주도 같은곳은 어때?
+P1 	: 오 제주도 좋지
+P1 	: 나 한번도 가본적 없어
+P0 	: 사람들이 제주도 올레길 같은데 막 추천하던데 가볼 생각 있어?
+P1 	: 응 가보고 싶어
+P1 	: 너는 제주도 갈 생각 없어?
+P0 	: 난 우리집만 해도 바람이 엄청 불고 그래서 굳이 싶어
+P0 	: 굳이 갈거면 일본으로 갈려구
+P1 	: 오 일본도 좋지
+P0 	: 담에 온천갈 생각인데 같이 갈래?
+P1 	: 와 좋아!

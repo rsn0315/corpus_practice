@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043755
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임 많이 좋아하시나요?
+P1 	: 거의안하기는해요ㅠ
+P0 	: 가보자구요~~  보통 무슨 장르 좋아하시나요? aos?rpg?
+P1 	: 알피지용
+P0 	: 알피지면 던파나 파판 와우 같은거 하시는 건가요? 아니면 모바일 겜 위주로 하시나
+P1 	: 모바일이요!
+P0 	: 아 그러면 쿠키런 킹덤이나 로오히 같은거 하시나요?
+P1 	: 넵쿠키런해요~
+P0 	: 헐 저 모바일 겜은 잘 안해서 쿠킹덤은 잘 모르는데 주변 친구들이 왕.꾸 진짜 예쁘게 하더라고요 &name2&님도 왕.꾸 열심히하시는 편이신가요
+P1 	: ㅎㅎ저는꾸미진않아요!
+P0 	: 아 그러면 혹시 성능 위주로 캐릭을 키우시나요 ㅋㅋㅋㅋ
+P0 	: 쿠키 캐릭터 뭐뭐있으신지도 궁금해요
+P1 	: 네네

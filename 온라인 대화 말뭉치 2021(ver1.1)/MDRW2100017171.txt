@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하시나요?
+P0 	: 그럼요 여행은 다들 좋아하지 않을까요
+P0 	: 가장 최근 여행지가 어디에요?
+P1 	: 저는 속초를 마지막으로 갔었어요
+P0 	: 언제 다녀오셨어요?
+P1 	: 작년 여름에 다녀왔어요
+P0 	: 속초에 뭐가 좋았어요?
+P1 	: 계곡에서 스노쿨링 했었어요ㅎㅎ
+P0 	: 계곡에서 스노쿨링하면 볼게 있나요?
+P1 	: 계곡이 깊어서 3, 4미터 아래의 물고기도 다 보이더라구요!
+P1 	: 이쁘진 않지만 보면서 입맛을 다신달까요...
+P0 	: 계곡이 꽤 깊네요
+P0 	: 어느 계곡이에요?
+P1 	: 속초 폭포민박을 치면 나오는데, 사진상 보여지는 곳에서 산길로 올라가면 더 깊은 곳도 나와요!
+P0 	: 그렇구나

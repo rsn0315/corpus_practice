@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017220
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요ㅎㅎ 지금 직장 다니시나요?
+P0 	: 네 다니고있어요
+P1 	: 오 그렇군요
+P1 	: 전 아직 학생이에요
+P0 	: 알바 많이해보셨나요
+P1 	: 앗 아뇨 한번밖에 안해봤어요
+P1 	: 직장 다니기 전에 알바 많이 하셨어요?
+P0 	: 네많이 해봣습니다
+P1 	: 오 어떤거 해보셨어요?
+P0 	: 편의점이 젤꿀알바였네요
+P1 	: 아 그래요? 손님 없으면 편해서 그런가요??
+P0 	: 아무래도 실내고해서ㅎㅎ
+P1 	: 아 그런 장점이 있었군요ㅋㅋ
+P1 	: 힘든 알바도 많았을 거 같아요
+P0 	: 출장부페 힘들어요ㅜ

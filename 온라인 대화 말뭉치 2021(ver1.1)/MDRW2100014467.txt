@@ -1,0 +1,74 @@
+# FILE DATA
+ID : MDRW2100014467
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁식사 하셨나요!
+P0 	: 네!
+P0 	: 저희. 음식 호불호 하구 있었어요!
+P1 	: 아하! 기록 안보야서 넘 헷갈려요 ㅋㅋㅋㅋㅋ
+P1 	: 또 뭐있죠 흠 너무 잘먹는 사람이라 고민고민
+P1 	: 딱복 vs 물복
+P0 	: 저는 물복이요
+P0 	: &name2&님은요?
+P1 	: 저도 물복이요 ㅋㅋ
+P1 	: 잘맞네요 이거
+P1 	: 감은 어때요?
+P0 	: 감은 살짝 말랑한 반홍시라고 하나요?그거 좋아해요
+P1 	: 오 그렇게도 부르나요?
+P1 	: 처음 들어봤어요
+P1 	: 저는 딱복파라 ㅎ
+P1 	: 아니
+P1 	: 단감..?
+P1 	: 갑자기 단어가막
+P0 	: 딱감...?
+P1 	: 단감이 맞는데 ㅋㅋㅋㅋㅋ
+P0 	: 호불호갈리는 닭발은 좋아하시나요?
+P0 	: 앗
+P1 	: 저도 무의식적으로 속으로 딱감.. 하고있던거
+P0 	: ㅋㅋㅋㅋㄱㅋㅋㅋ
+P1 	: 닭발 너무 좋죠
+P1 	: 사랑스러운 맛
+P1 	: &name1& 님은요?
+P0 	: 앜ㅋㅋㅋㄱㄲ
+P0 	: 저는 어떻게먹는지 아직도 모르겠어요
+P0 	: 막 뜯어드시던데...
+P1 	: 발골이.. 아주 포인트죠
+P1 	: 무뼈닭발도 안드셔보셨어요?
+P0 	: 역시 맛잘알...
+P0 	: 먹어봤는데 저는 취향아니였어요
+P1 	: 아하. 식감이 되게 오묘하죠
+P0 	: 그럼 굴은 좋아하세요?
+P1 	: 굴 익힌건 좋아해요!

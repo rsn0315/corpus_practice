@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022659
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 다이어트 하시나요
+P1 	: ㅋㅋ아니요 먹고싶은건 걍 다 먹고살아요
+P1 	: &name1&은 다이어트 하시나요
+P0 	: ㅋㅋㅋㅋ 저도 딱히안합니다
+P0 	: 건강음 어찌챙기세요
+P1 	: ㅋㅋㅋ건강은.. 음 영양제로 챙겨요 ㅋㅋㅋ
+P1 	: 자꾸 까먹긴하지만ㅋㅋㅋㅋ
+P0 	: 오 머머드세요?
+P1 	: 저는 종합비타민 오메가3 비타민d 루테인
+P1 	: 또뭐먹더라ㅜㅋㅋㅋㅋㅋ
+P1 	: 어쨌든 3개 꼭 먹어야되는게 종비 오메가 유산균이래요 ㅋㅋㅋ
+P0 	: 루테인 효과가 있는 것 같나요?
+P0 	: 저도 맨날 까먹는데 오늘은 챙겨먹어야겟어요 ㅠㅠㅋㅋ
+P1 	: 음 잘모르겠어요 ㅋㅋㅋ 그냥 먹으라니 먹어요 ㅋㅋㅋㅋ
+P1 	: 저는 사무실에 갖다두고 먹어요 ㅋㅋㅋ 그럼안까먹을수있어요
+P1 	: 대신 주말엔 안먹음ㅋㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋ  주말엔 건강해서 괜찮을수도잇아요  스트레스 안받으니까 ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ맞어요 글구 맨날 까먹는거보단 5일이라고 먹는게 낫겟다 싶어요
+P0 	: 그죠그죵ㅜㅜ
+P0 	: 아픈덴 없으신가요
+P1 	: ㅋㅋㅋ늘 아프죠....힝
+P1 	: &name1&은 영양제안드시나요?
+P0 	: 저도 필수3대 사다놧어요 ㅋㅋ 일주일에 두번 ? 쯤 기억나서 먹는듯 ㅋㅋ
+P1 	: 운동하시나용?

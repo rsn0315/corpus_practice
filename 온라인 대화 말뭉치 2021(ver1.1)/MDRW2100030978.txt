@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100030978
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 일본 좋아하쥬
+P0 	: 아 어디 가보셨어요?
+P1 	: 오사카만 가봤어요
+P1 	: 식도락여행을 좋아해서..ㅋㅋ
+P0 	: 아ㅋㅋ타코야끼 드셨겠네요
+P0 	: 우동이랑
+P1 	: 타코야끼 오코노미야끼 라멘
+P1 	: 배터지게 먹었죠ㅋㅋ
+P1 	: 어디좋아하세요
+P0 	: 저는 유럽쪽이 좋았던거같아요
+P1 	: 어디 어디 가봤어요?
+P0 	: 저는 일본 홍콩 호주 유럽이용
+P1 	: 와 많이 가보셨구나
+P1 	: 유럽가서 스테이크 먹어보고싶네요
+P0 	: 호주가 스테이크 정말싸요
+P0 	: 일주일에 하루 할인하는날 가면
+P0 	: 3달러던가?ㅋㅋ
+P1 	: 3달러가 얼만큼일까요
+P1 	: 1kg??
+P1 	: 레어로 소금찍어먹으면맛있는데
+P0 	: 그냥 1인분이요ㅋㅋ
+P0 	: 호주가 소고기가 싸어
+P1 	: 와 근데 진짜 좋긴하다 1인분 3달라라니
+P1 	: 질리도록 먹을수 있겠네요
+P1 	: 휴 강강술래 고기 맛있네요

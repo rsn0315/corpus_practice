@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100029075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 진짜 영상쪽은 정답이 없으니까 더해요
+P0 	: 뜨거운 아아를 만드는 느낌 ᆢ
+P1 	: 뭔지 알 것 같아요...세련된 걸 원하는데 넣으라는 건 그 반대인 상황 같은 거..
+P0 	: 맞아요 보면 설명은 엄청나게 다들어가야하는데 심플한걸 원하고 ㅜㅜㅜ
+P1 	: ppt만들때 일어나는 그런 상황이 역시 영상에서도 일어나는군요..
+P0 	: &name2&은 회사 다니신지 얼마나 되셨어요?
+P1 	: 저 이번 회사는 올해 들어왔네요 ㅋㅋ 사회인 경력은 얼마 안됩니다 ㅎㅎ
+P0 	: 오 신입이시네요
+P0 	: 신입인데 왜 아이디가 &name2&이예요ㅜ
+P1 	: 신입이라서 더 도망가고 싶은 그런 마음이 ㅎㅎ
+P1 	: 그런데 아마 앞으로도 퇴사하고 싶겠죠...?
+P0 	: 아 ᆢ 그쵸
+P0 	: 언제나 퇴사는 맘에품고살죠
+P0 	: 윗상사는 어때요?
+P1 	: 사실은 현재 직속상사 자리가 공석이에요
+P0 	: 헉 퇴사하셨어요?
+P1 	: 네 그렇게 오래 빈건 아니에요 ㅋㅋ
+P0 	: 아 새로운 분 오셨나봐요
+P1 	: 상사가 있긴 한데 역시 직속상사가 비면 불편하네요...

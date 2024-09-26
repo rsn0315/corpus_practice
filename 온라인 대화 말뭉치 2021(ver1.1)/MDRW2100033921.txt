@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100033921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 방학 언제 끝나?
+P0 	: 이번달 말
+P0 	: 너는?
+P1 	: 나도
+P1 	: 수강신청 했어?
+P0 	: 저번주에
+P0 	: 너는 했어?
+P1 	: 나도 금요일에 했어
+P1 	: 몇 과목 들어?
+P0 	: 7과목
+P0 	: 너는 6과목 듣나?
+P1 	: 응
+P1 	: 대면 수업 있어?
+P0 	: 3개 정도
+P0 	: 너는?
+P1 	: 나도 2개
+P1 	: 꿀교양 잡음?
+P0 	: 아니
+P0 	: 너는?
+P1 	: 난 시도도 않했어
+P1 	: 안 했어
+P0 	: 다음에 한번 도전해보려고
+P1 	: 나도 그래야겠다
+P1 	: 학교 가기 싫어

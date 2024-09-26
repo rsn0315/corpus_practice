@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100038148
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요?
+	  ^^
+P0 	: 공연 보러 다니시는거 좋아하세요?
+P1 	: 네 공연 너무 좋아해요
+P1 	: 요즘에 코시국이라서 ㅠㅠ 잘 보지는 못하지만요
+P0 	: 어떤 공연 주로 보러다니셨어요
+P0 	: 콘서트? 아니면 뮤지컬?
+P1 	: 뮤지컬, 콘서트 그런거 좋아했구요 ㅋㅋ 연극도 한번씩 소극장 많이 봤었어요
+P0 	: 와 저는 소극장은 몇번 못다녀봤어요
+P1 	: 마지막이....딸래미가 보고싶어한 겨울왕국 연극인것같네요 ㅋㅋ 뮤지컬이요 ㅋㅋ
+P1 	: 소극장도 나름 ㅋㅋㅋ 좋았어요 ㅋㅋ
+P1 	: 저렴하구 ㅋㅋ 배우들이랑 소통도 되구요
+P0 	: 그런 장점이 있었군요 소통에 대한 생각은 못해봤어요
+P1 	: 네네 그런 장점이 있더라구요 ㅋㅋ
+P1 	: 공연 좋아하세요?
+P0 	: 좋아해요 콘서트 가보고 싶었는데
+P0 	: 온라인 콘서트만 보고 있어요ㅠ
+P1 	: 네넨 못가보셨나요?
+P1 	: 아하 ㅠㅠㅠ
+P1 	: 지금 그렇게 하교 잇죠 ㅠㅠ
+P0 	: 가본적은 없어요ㅠ
+P1 	: 그러시군요 ㅠㅠ 코시국이 끝나야지 갈텐데요
+P1 	: 저도가고싶네요 ㅠㅠㅠㅠ 재미있었는데

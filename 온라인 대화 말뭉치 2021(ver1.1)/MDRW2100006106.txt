@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100006106
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 책 좋아하시나요
+P1 	: 책 사시나요?
+P0 	: 네. 요즘엔 아이 책을 많이 사고 있어요.
+	  님은요?
+P1 	: 저는 안사고 와이프가 주로...ㅎㅎ 어디서 사시나요
+P0 	: 저는 예스24 쿠폰써서 사요. ㅎ
+	  쿠폰 줄 때 주로 주말에요.
+	  님네는 어디서 책을 구입하시나요?
+P1 	: 와이프가 제 아이디로 비슷한 방법으로 사는것같았어요
+P0 	: 아. 저도 남편 아이디로도 삽니다
+	  와이프분이 알뜰하시네요.
+	  
+	  님은 책 자주 읽으세요?
+P1 	: 저는 책과 거리가 멀어요
+P0 	: 와이프분은요?
+P1 	: 종종 읽더라구요 육아서가 곳곳에 있어요
+P0 	: 아.  님도 와이프분처럼 육아서를 읽어보세요.
+	  그럼 와이프분의 마음을 이해하실 듯요.^^;;
+P1 	: ...ㅎㅎㅎ 책읽기가 넘 힘들어요 집중이.안됨요..ㅡ
+P0 	: 핑계입니다.^^;
+	  저도 핑계이지만 시간없어 독서량이 적네요.ㅎ
+P1 	: 그렇죠..ㅎㅎ 폰을 줄이면 되는데 안되네요

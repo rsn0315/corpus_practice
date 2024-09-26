@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 즐겨보는 책이 있나요
+P0 	: 즐겨보진 않지만 강아지 관련 책을봐요
+P1 	: 강아지 키우시나봐요
+P1 	: 주로 어떤거에 관련된 책을 보시나요
+P1 	: 애견 건강같은거 찾아보시는건가요
+P0 	: 교육과 훈련이요
+P1 	: 아 교육과 훈련이구나
+P1 	: 저도 허스키 한마리 키우고있어서 책 추천해주실ㅈ수 있나요
+P0 	: 요즘 보는건
+P0 	: 냊강아지 스트레스없이 행복한 75가지 놀이 방법이요
+P1 	: 저에게 꼭 필요한 책인거같아요
+P0 	: 꼭 읽어보세요
+P1 	: 그 안에서 가장 기억에 남는 놀이법은 무엇이셨나요
+P0 	: 집에서 하는 놀이들 이요
+P0 	: 코로나와 날씨때문에 자주 못나가니
+P0 	: 도움됩니다
+P1 	: 꼭 한 번 구매해서 읽어봐야겠어요
+P1 	: 75가지나 된다니 진짜 유용할거같습니다.
+P1 	: 혹시 다른 거 하나 더 추천해주실 수 있으십니까
+P0 	: 훈련이 잘못됐습니다 저자 알렉스
+P1 	: 그 책도 너무 좋아보입니다

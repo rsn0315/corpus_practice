@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 가고싶네요ㅠㅠ
+P0 	: 저는 제주도라 여행객들이 많이오세요
+P0 	: 오늘은 비가와서 여행객들 다니지 못할거에요
+P0 	: 최근에 여행 가신곳이 어디인가요
+P1 	: 앗...제주도 요즘도 사람들 많이 가나요?
+P1 	: 저는 작년에 제주도 다녀왔구
+P0 	: 네 렌터카 없어서 못빌릴정도래요
+P1 	: 군산에 종종 가요. 할머니집이 있어요
+P0 	: 군산은 한번도 안가봤어요
+P1 	: 헉 4단곈데도 사람이 많군요ㅠㅠ
+P0 	: 자연경관이 좋은곳인가요
+P0 	: 네 여기도  4단계에여
+P1 	: 군산은...이성당이라는 빵집이 있어요
+P0 	: 그래도 많이들 와요
+P1 	: 철길마을이랑 역사박물관이 가까이 있어서
+P0 	: 오 전통있는 곳이군요!
+P0 	: 들어봤어요
+P1 	: 근대역사 관련 관광코스 돌고
+P0 	: 멋지네요!

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012766
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 ~ 대학생이신가요
+P0 	: 아니요 백수예요~
+P0 	: &name2&님은요?
+P1 	: 저는 대학생이에요 !
+P1 	: 기억에남는 동아리있으신가요?
+P0 	: 동아리 활동 해본적이 없어요
+P0 	: &name2&님은 해보셨나요?
+P1 	: 저는 고등학교때 과학동아리요~
+P1 	: 해보고싶으신 동아리는 있으셨나요?
+P0 	: 아니요~
+P0 	: 과학동아리 어떠셨어요?
+P1 	: 전 재밌었어요 ~
+P0 	: 학업 스트레스 있으신가요?
+P1 	: 지금봤네요 당연히 있어요 ㅜㅜ &name1&님은요?
+P0 	: 저는 공부를안해서 없었어요
+P1 	: 아하 저는 뭔가 성적의 압박감 같은게있었어요

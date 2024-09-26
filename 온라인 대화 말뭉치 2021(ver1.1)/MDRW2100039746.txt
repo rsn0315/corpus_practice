@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100039746
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 백신맞음 둘째날만 팔 아프고 삼일째부턴 멀쩡했어요!
+P0 	: ㅠㅠ 이런 분들만 계심
+P0 	: 접종하겠는데
+P0 	: 주변에 건강하시고 지병도
+	  없던 분이 돌아가시기도 했고
+P0 	: 심장이 쪼이는듯한 통증
+	  말하는 분들도 많더라구여ㅠ
+P1 	: 아 정말요? 제 주위엔 그런 분 한명도 없어서
+P1 	: 다행이죠ㅎㅎ
+P1 	: 회사도 친구도 식구들도 모두 멀쩡합니다
+P1 	: 걱정마세요
+P0 	: 정말 다행이네요ㅠㅠ
+P0 	: 접종 1차 하신거에여?
+P1 	: 네ㅎㅎ
+P1 	: 운동은 좋아하세요?
+P0 	: 운동은 홈트 종종 하구 있어영 ㅋ
+P1 	: 주로 어느 분꺼 보세요?
+P0 	: 저는 땅끄부부꺼 봅니당
+P1 	: 아 그분들 유명하더라고요
+P1 	: 효과도 있나요?
+P0 	: 효과를 볼만큼
+	  지속을 못하는게 함정이요ㅠㅋ
+P1 	: 근육통 생기나요?
+P0 	: 담날 생활하는데 불편할 정도는
+	  아니고 조금 있긴 해요 ㅋ
+P1 	: 아 그럼 효과가 있네요!

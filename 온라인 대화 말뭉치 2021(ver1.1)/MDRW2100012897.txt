@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012897
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 책 좋아하세요?
+P1 	: 예전에는 많이 봤는데 요즘은 잘 안보게 되요
+P0 	: 저도 종이책말고 이북 로판만 봐요 ㅎㅎ
+P1 	: 한번 보면 재미있는데 시작이 어렵네요
+P0 	: 맞아요 요즘 책 예전만큼 안 읽혀요
+P0 	: 이북이나 웹소설은 안보세요?
+P1 	: 웹소설은 가끔보긴 하는데 작은 폰으로 보다보니 눈도 아프고 그래서 열심히는 안보게 되더라고요
+P0 	: 폰이 작아서 눈과 손목이 시큰하긴 하더라구요
+P1 	: 아 손목도 진짜 아프져
+P0 	: 계속 터치해야하니.. 보기편한 유튜브나 영상에 도서잡지가 밀리게 되는거 같아요
+P1 	: 맞네요 영상이 워낙많아서 그런거만 보게되져
+P0 	: 잡지 부록도 예전에 좋았는데 요즘은 별로라 아예 안사게 되요 잡지부록 사보셨어요?
+P1 	: 음식종류 부록있는건 가끔사요
+P1 	: 엊그제도 인절미호떡 부록있는거 샀어요
+P0 	: 오 그런것도 있군요?이름이 뭔가요?
+P1 	: 이밥차라고 이천원으로 밥상차리기요
+P1 	: 이달은 팬케익믹스더라고요ㅋㅋ

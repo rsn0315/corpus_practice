@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046639
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 게임 좋아하세요?
+P0 	: 넵 게임 좋아해요 운동도 좋아하고요
+P1 	: 어떤 게임 주로 하세요?!
+P0 	: 피파축구게임이요
+P1 	: 아아 축구 좋아하시는구나 ㅎㅎ
+P1 	: 그럼 운동도 축구 즐겨하시겠네요!
+P0 	: 넵 ㅋㅋ
+P0 	: 지금 골때녀보고있어요
+P1 	: 그 예능 진짜 재밌죠
+P1 	: 감동도 넘치고 ㅋㅋㅋ
+P0 	: &name2&님은 어떤거 좋아해요?
+P1 	: 저는 게임하는거 좋아하고 자전거 타는거 좋아해요 ㅋㅋㅋ
+P1 	: 요즘엔 식물 키우는 취미도 생겼어요 ㅎㅎ
+P0 	: 자전거는 어디서 타세요?
+P1 	: 집 근처에 있는 탄천에서 타요! ㅎㅎ
+P1 	: {share:url}
+P0 	: 넵 운동할때 몸조심하세요~날씨가추워졍ㅅ
+P0 	: 추워지고있어요
+P1 	: 맞아요 ㅎㅎ 이제 야외운동은 감기를 조심해야할 계절이네요

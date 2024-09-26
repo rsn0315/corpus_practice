@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100044192
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐 안 읽으면 또 어떤가요 ㅋㅋ
+P0 	: 읽으면 좋겠지만 그냥 몸 건강히 졸업들 하기만을..
+P1 	: ㅋㅋ뭐 &name1&님의 소임은 다했으니까여!
+P0 	: 맞아요 ㅋㅋ 그리고 책읽고 거들먹거리느니
+P0 	: 안읽고 착하게 살면 좋겠어요 건강하게..
+P1 	: ㅋㅋㅋ정말 참스승의 맴..
+P0 	: ㅋㅋㅋㅋㅋ참스승이라는 말은 부끄럽습니다
+P0 	: 그냥 잘난척 하는 꼴을 못보는 새럼인걸요
+P1 	: 건강하고 착하게라는 마음이 중요한거지요ㅎㅎ
+P0 	: 어디서 사고치지 말어라 하는 마음이 들어있죠
+P0 	: ㅋㅋㅋ 이왕이면 건강하고 행복한게 더 좋구요
+P1 	: ㅋㅋㅋ 그쳐 맞아요

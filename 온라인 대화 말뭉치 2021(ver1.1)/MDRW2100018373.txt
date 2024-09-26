@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책 좋아하세요?
+P0 	: 가끔봐요
+P0 	: &name2&음요?
+P1 	: 저는 책을 좋아하는 편인데 최근에는 바빠서 많이 못봣어요 ㅠㅠ
+P1 	: 어떤 책 좋아하세요?
+P0 	: 저는 문학이요 만다린님은요?
+P1 	: 저도 소설이나 에세이도 좋아해요
+P0 	: 좋아하는 작가 있으신가요??
+P1 	: 저는 고전 좋아해서
+P1 	: 톨스토이를 좋아해요
+P0 	: 노인과 바다 그 작가 맞죠??
+P1 	: 노인과 바다는 헤밍웨이고 톨스토이는 안나카레니나나 부활이 유명해요
+P0 	: 아 제가 아는척 했네요ㅋㅋㅋ 그럼 톨스토이님의 책 중에서 추천하실만한 책이 있으신가요??
+P1 	: 아니에요 저도 작가랑 작품 엄청 헷갈려요 ㅋㅋㅋㅋㅋ
+P1 	: 저는 안나카레니나랑 이반일니치의 죽음, 전쟁과평화를 좋아해요
+P1 	: 주제가 다 달라서 어느 소설을 더 좋아하실지 모르겟어요 ㅋㅋㅋ
+P0 	: 셋 중에서 책덕후가 아니더라고 읽기 쉬운 책이 뭘까요?
+P1 	: 음 주제가 대체로 무거워서 선뜻 추천하기가 어렵지만
+P1 	: 이반 일리치의 죽음이 중편소설이라 짧아요
+P0 	: 오 한 번 찾아보겠습니다!!

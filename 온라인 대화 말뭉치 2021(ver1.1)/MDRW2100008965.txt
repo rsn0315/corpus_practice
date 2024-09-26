@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 요즘 학업 스트레스는 없으신가요?
+P1 	: 가끔 안풀리는 문제가 있어 스트레스를 받긴 합니다만..ㅎ
+P0 	: 저는 영어공부를 꾸준히 하고픈데..쉽지가 않네요
+P0 	: 어떤 과목을 좋아하시나요?^^
+P1 	: 영어 공부는 손을 놓은지가..
+	  좀 유식해보이고 싶은데 시도를 못하겠네요.
+P0 	: 다른면에서 훌륭하실듯요^^
+P1 	: 저는 한국사 좋아했어요.
+P0 	: 와 한국사 좋네요.. 저는 외우기 급급해서 지나고 나니 남는게 없어요 ㅠ
+P1 	: 한국사는 드라마에서 기본 지식 쌓고.. ㅎ 역사소설에서도..
+P0 	: 어떤 드라마 도움을 받으셨나요 ㅎㅎ
+P1 	: 조선왕조오백년.. ㅎ
+	  태조 왕건.. ㅎ
+P0 	: 와.. 저는 정주행 못한 드라마네요..ㅋ
+P1 	: 생명과학도 좋아했어요. 잘하기도 했고..
+P0 	: 와 저는 학교생활이 고된 기억이라 다시 돌아가고싶진 않네요~
+P1 	: 저도요. 근데 학생들을 보면 참 좋을 때다 싶더라구요. 싱싱한 열매같아보이는

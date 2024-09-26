@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100035930
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P1 	: 네 안녕하세요
+P0 	: 오늘 계신곳의 날씨는 어때요?
+P1 	: 아까 전까지는 매우 화창하고 더웠는데
+P1 	: 지금은 흐리네요
+P1 	: 님 계신 곳은 어때요?
+P0 	: 제가 있는 곳도 흐리네요:)
+P0 	: 좋아하는 계절 있으세요?
+P1 	: 날씨가 변덕이죠?
+P1 	: 저는 가을 좋아해요 지금은 말고 거의 겨울 초입 전 선선한 가을요
+P0 	: 그러게요:)
+	  지난주부터 날씨가
+	  계속 변덕을 부리네요
+P0 	: 저도 선선한 가을 바람 좋아해요
+P1 	: 11월쯤 되면 그래도 괜찮으려나 ㅋㅋㅋ 
+	  가을 바람 좋아서 어디 가기에도 좋아요 요즘은 아니지만ㅠ
+P0 	: 그쵸ㅠ 코시국만 아니면
+	  가을엔 어디 놀러다니기도
+	  참 좋은 날씬데 아쉬워요
+P0 	: 코시국만 아니면
+	  가을에 놀러다니기
+	  딱 좋은데 넘 아쉬워요ㅠ
+P1 	: 맞아요 가을은 어디든 가기 좋은데...
+P0 	: 코로나가 아니었다면
+	  가을에 어딜 가고 싶으세요?
+P1 	: 전 강원도쪽요!
+P1 	: 그쪽은 가보질 않았거든요
+P1 	: 님은 어디 가고싶나요?
+P0 	: 저도 딱 코로나 시작되기전에
+	  가을에 강릉 갔었는데 그때 날씨
+	  정말 좋았어서 다시 가고싶어요^^

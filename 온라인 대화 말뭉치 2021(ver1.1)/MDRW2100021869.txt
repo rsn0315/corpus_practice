@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요 ㅎㅎ 저도 병행수입만 조심해서 사는편이에요
+P1 	: 커버낫 브랜드 좋아하시나요?
+P0 	: 어머나 커버낫 브랜드가...
+P0 	: 저는 별로 안좋아하는 편이에요 ㅜㅜ
+P0 	: 님은 어떤 브랜드 좋아해요?
+P1 	: 저는 나이키 좋아해요 ㅎㅎ
+P0 	: 헉 저도 나이키 완전 좋아해요 ㅠㅠ
+P0 	: 특히 신발은 무조건 나이키만 신네요~
+P1 	: 전 운동복도 ㅎㅎ 주로 나이키로 입어요!
+P0 	: 어머 저도요 ㅠ
+P0 	: 운동복 예전에 코파? 카파? 그런거 입어봤는데 한숨 나와요
+P0 	: 백번양보해서 아디다스꺼까진 괜찮은 듯해요
+P1 	: 아 맞아요 ㅋㅋ 아디다스도 괜찮아요 ! 상의랑 레깅스 ㅎㅎㅎ
+P1 	: 카파 ㅋㅋ 오랜만이군요..
+P0 	: ㅋㅋㅋ카파 입어본 적 있어요?
+P1 	: 아니요! 로고가 제 스탈이 아니여섴ㅋㅋ
+P1 	: 한번도 안입어봤네요 !
+P0 	: ㅋㅋㅋㅋ저도 안입어보고 싶었는데
+P0 	: 고등학교 체육선생님이 카파를 그렇게 좋아하셨네요^^
+P1 	: 아 ㅋㅋㅋ 헐 그래서 운동복이 카파였나요??!
+P0 	: 네.. 고등학교 체육복이 카파였네요 ㅠㅜ
+P0 	: 다행히 지금은 졸업하고 바로 나이키로 갈아탔어요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100040014
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영화 좋아하세요?
+P0 	: 자주 보는 편은 아니에요 ㅎㅎ 1년에 몇편이나 보세요?
+P1 	: 코로나 전엔 일주일에 적어도 한편은 본것같은데 요즘은 잘 안보네요ㅎㅎ
+P1 	: 넷플로 드라마를 더 자주보는것같아요
+P0 	: 와 엄청 자주 보셨네요 ㅎㅎ
+P0 	: 넷플 영화보다 드라마가 더 재밌나요?
+P1 	: 네 전 드라마가 더 재밌더라구요ㅎㅎ
+P1 	: 티비보면 보통 뭐 보세요? ㅎㅎ
+P0 	: 예능도 보고 야구도 보고 뉴스도 보고... 드라마 빼고는 그냥 그때 하는 볼만한 거 걍 보는 편이에요ㅋㅋ
+P1 	: 요즘 즐겨보는 예능있으세요?ㅋㅋ전 나혼자산다 유퀴즈 즐겨봐요
+P0 	: 지금 나혼산 보고 있어요ㅋㅋ
+P0 	: 유퀴즈나 놀면뭐하니도 재밌구요
+P1 	: 유퀴즈 국대 나오는거 재밌더라구요ㅎㅎ
+P0 	: 말도 잘 하더라구요 ㅋㅋ
+P1 	: 참 조승우도 은근하게 진짜 웃겼어요ㅎㅎ
+P0 	: 유퀴즈 그 자연스럽게 이야기 끌어내는 부분이 좋은 것 같아요

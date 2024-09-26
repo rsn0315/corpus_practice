@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009322
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이런 품절이었나보네
+P0 	: ㅇㅇ 상품 고르고 있는데 갑자기 품절이더라고
+P1 	: 애들이 우유 너무 잘먹어서 한번에 3팩은 사야 하는데 ㅎㅎ
+P0 	: 안그래도 3팩 샀어 ㅋ
+P1 	: 아침마다 마시고, 씨리얼 말아먹고, 빵이랑 같이 먹고.. 계속 마시니 ㅎㅎ
+P0 	: 많이 먹고 키 쑥쑥 크면 좋지
+P1 	: 노브랜드 우유 맛은 괜찮을라나
+P0 	: 이름은 노브랜드인데 매일우유에서 만드는 거라고 하더라고
+P1 	: 아 그러면 맛있겠네
+P0 	: ㅇㅇ 내일 오면 한 번 먹어보려고
+P1 	: ㅎㅎ 그랴요
+P0 	: 그런데 요즘 우유는 900ml로 많이 나오더라
+P1 	: 가격 올리기 힘드니 용량을 줄이나보네

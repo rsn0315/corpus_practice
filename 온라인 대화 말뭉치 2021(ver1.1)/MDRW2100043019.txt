@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요?
+P1 	: 네 저는 볶음밥이요 &name1&님은요?
+P0 	: 아직이에요ㅋㅋㅋㅋ
+P1 	: 뭐드실예정이셔요~?
+P0 	: 정한 건 없는데 그냥 간단하게 먹지 않을까요ㅌㅌ
+P1 	: 맛있는것만 먹고싶어요
+P0 	: 아 그러게요 근네 맛있는 집 찾기 어려워요
+P0 	: 근데...
+P1 	: 저는 주로 해먹어요 그래서
+P0 	: 그것도 힘들지 않나요? 레시피 찾으면 여기랑 저기랑 말이 달라서...
+P1 	: 어맞아요 ㅋㅋㅋ 근데 그냥 대충 때려넣어욬ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ저는 그래서 백종원 레시피만 봐요ㅋㅋㅋㅋ
+P1 	: 오 백종원 못참죠 설탕만 좀 줄이면 딱
+P0 	: 아니면 요즘에 류수영 레시피듀 괜찮더라구여

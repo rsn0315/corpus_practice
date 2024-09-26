@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022742
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 농림/어업/임업 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 점심 먹었습니다.
+P0 	: 메뉴는요?
+P1 	: 이제 저녁먹어야할 시간이네요.
+P1 	: 저녁은 뭐로 드실건가요?
+P0 	: 만두요
+P1 	: 만두 맛있죠!
+P1 	: 아 참고로 점심에는 라면먹었습니다.
+P0 	: 전 칼국수여
+P1 	: 오 칼국수 맛있겠네요
+P0 	: 바지락칼국수ㅛ
+P1 	: 오오 바지락칼국수 국물맛이 일품이죠
+P1 	: 아 그럼 저녁에는 만두 드실거라 했는데
+P1 	: &name1&님은 어떤 만두 좋아하세요?
+P0 	: 군만두요
+P1 	: 오 군만두 간단하고 맛있죠!
+P1 	: 저는 번거롭지만 찐만두가 좋더라고요.
+P0 	: 말랑말랑 좋죠

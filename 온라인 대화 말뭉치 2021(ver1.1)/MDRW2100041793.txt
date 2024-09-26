@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100041793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: 다른사람 물건에 손대는 건 안 된다
+P1 	: 그렇게 얘기하고 그냥 지나갔어
+P1 	: 근데 그 다음날
+P0 	: 그 아빠는 맘이 확 상했뿟네
+P1 	: &name3& 어린이집 친구 중에 제일 친하게 지내는 &name4&이라는 여자애가 있거든
+P1 	: 걔가 영어도 같이 다니고 태권도 도 같이 다녀
+P0 	: 네 네
+P1 	: 근데 요새 &name3&가 그 &name4&이랑 계속 노는거야
+P1 	: 태권도 마치면 항상 &name5&이랑 여기 와서 놀았는데
+P1 	: 요새 몇 번을 태권도 마치면
+P1 	: 우리 &name5&한테 말도 안하고 둘이서 &address&에서 내려 버리는 거야
+P0 	: 아빠가..얘기했나보네,,
+P0 	: 할
+P1 	: 아니 캠핑 가기 전에
+P1 	: 그렇게 몇 번 둘이서 &name4&이랑 &address&에서 내리고 놀았거든
+P0 	: 이에 캠핑 가기 전 일이에요
+P1 	: &name5&은 요새 반도에 있는 형 아들이랑 아주 놀거든
+P1 	: &name3&도 반도에서 그 형 아들이랑 같이 놀았어
+P1 	: 근데 요새 &name3&가 &name4&이랑 노니까
+P0 	: 네 네
+P1 	: 우리 &name5&도 짜증나잖아
+P1 	: 같이 놀고도 싶고
+P0 	: 그렇죠
+P1 	: 그래서 그 게임지운 다음 날에도
+P0 	: 애매하게 됐네여;;

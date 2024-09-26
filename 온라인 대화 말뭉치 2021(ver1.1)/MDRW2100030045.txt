@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030045
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 광주
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨 어떤것같아?
+P1 	: 비가 자주오는데 그만큼 시원해진거같아
+P0 	: 계속 가을날씨였음 좋겠는데 여름날씨가 돌아올까봐 걱정 돼
+P1 	: 이제 9월인데 점점 쌀쌀해지지 않을까?
+P0 	: 그랬으면 좋겠어 가을 옷 꺼내고싶거든
+P1 	: 꺼내! 어차피 금방 겨울옷 입어야해서 얼마 못입을걸
+P0 	: ㅠㅠ 너무 슬픈 일이야 가을 길었으면 좋겠어!
+	  겨울 너무 추워
+P1 	: 그치만 난 겨울이 좋아
+P1 	: 여름은 너무 덥거든..
+P0 	: 유독 이번 여름이 더웠어 죽을것같았음ㅜㅠ
+P1 	: 맞아 그래서 내가 여름 햇빛에 녹아버렸지
+P0 	: 녹아버렸지만 다시 언거니?
+P1 	: 아직 녹아있어..
+P0 	: 안타깝다 언제 얼어?
+P1 	: 겨울에!

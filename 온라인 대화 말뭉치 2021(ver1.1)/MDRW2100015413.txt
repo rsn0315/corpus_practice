@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 나중에 무슨 일 하고 싶으신가요?
+P1 	: 아직 고민중이에요
+P1 	: &name1&님은요?
+P0 	: 전 우주비행사요
+P1 	: 멋지네요
+P1 	: 어딜 가고 싶으신가요?
+P0 	: 우주요
+P1 	: 구체적으로 말씀해주시겠어요?
+P0 	: 목성과 토성 사이를 뱅글뱅글 돌고 싶어요
+P0 	: &name2&님은 어떤 쪽에서 고민하세요?
+P1 	: 뱅글뱅글 돌다 안드로메다로 빠지면 어떡하죠?
+P1 	: 저는 아나운서랑 성우 중에 고민이에요
+P0 	: 전 실력있는 비행사가 될거라
+P0 	: 그럴일은 없어요
+P0 	: 제 감으로 골라드릴게요
+P1 	: 확고하시네요
+P0 	: 당신은 두구두구
+P0 	: 아나성우 입니다 !
+P1 	: 직업을 누가 감으로 고르냐구요
+P1 	: 이상한 심심이네요
+P1 	: 저희 부장님보다 재미없으세요
+P0 	: 직업 없으시다면서요
+P1 	: 저희 집에 부장님이 있으시죠
+P1 	: 세상엔 참 다양한 직업이 있는 것 같아요
+P0 	: 그럼요
+P1 	: 독특한 직업 아는 거 있으세요?
+P1 	: 저는 타이어 디자이너가 정말 인상깊었어요
+P0 	: 오 첨 들어봐요

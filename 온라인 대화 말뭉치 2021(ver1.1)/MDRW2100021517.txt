@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021517
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 식사하셨나요?
+P1 	: 네 저는 방금 먹었어요!
+P0 	: 어떤걸 드셨나요?
+P1 	: 서브웨이 샌드위치 사먹었어요!!유안님은요?
+P0 	: 저는 떡볶이랑 김치볶음밥 이요!
+P1 	: 오 직접 만드신건가용?
+P0 	: 아뇨! 배달시켰어요ㅎㅎ
+P1 	: 아ㅋㅋㅋ 어디 떡볶이에요??
+P0 	: 신전로제요!
+P1 	: 로제가 인기가 많네요! 신전거는 안먹어봤는데 맛있나요?
+P0 	: 저희 동네 신전이 더 맛있는건진 모르겠지만 완전 제 취향이었어요!!
+P1 	: 다이어트 끝나면 꼭 먹어볼래요ㅠㅠ
+P1 	: 튀김도 찍어서...
+P0 	: 중국당면 추가 추천드려여!
+P0 	: 식사 하셨나요?

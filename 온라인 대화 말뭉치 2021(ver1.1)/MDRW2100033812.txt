@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아까 다니지 않는다고 말씀드렸던 거 같아요. &name1&님은 직장을 다니시나요
+P0 	: 아니요 백수예요
+P0 	: 취업을 위해 자격증 준비해보셨나요?
+P1 	: 저는 회계 자격증을 땄었어요.
+P1 	: &name1&님은요?
+P1 	: 준비하신 자격증이 있으신가요
+P0 	: 저도 회계자격증 있어요ㅎㅎ
+P1 	: 회계 어렵지 않았나요?
+P0 	: 할만했어요
+P1 	: 저는 배울 때 좀 어려워서 힘들었어요
+P0 	: 인턴 해보셨나요
+P1 	: 아니요
+P1 	: 인턴 해보셨나요
+P0 	: 아니요
+P0 	: 어떤일 하셨나요?
+P1 	: 겹치는 게 많네요
+P0 	: 저는 재무팀에서 일하다가 퇴사했어요
+P1 	: 저는 사실 조리 쪽에 있었어요

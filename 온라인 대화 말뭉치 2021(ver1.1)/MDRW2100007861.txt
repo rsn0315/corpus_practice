@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007861
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 오늘 점심 피자먹을까?
+P1 	: 응 그러쟈 어디께좋아
+P0 	: 음 감자도 좋고 치즈도 잔뜩올라간게 좋은데
+P1 	: 그럼 도피?
+P0 	: 도미노피자보다 다른 치즈 더 많은거
+P1 	: 그럼 어디게 좋지
+P0 	: 골라보자 배민보곹ㅋㅋㅋ
+P1 	: 그래 ㅋ 감자랑 치즈면 반올림은?
+P0 	: 반올림 좋당
+P1 	: 그럼 그걸로하쟈
+P0 	: 주문해야겠다ㅋㅋㅋㅋ
+P1 	: 언제문열어?
+P0 	: 30분 쯤 확인해볼께
+P1 	: 그럼 보고 시키자
+P1 	: 배달음식 줄여야하는데ㅋ

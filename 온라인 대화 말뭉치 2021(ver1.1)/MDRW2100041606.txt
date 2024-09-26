@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100041606
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지난주에 백신맞고 쉬어서 이번주부터 다시 시작하려구요!ㅎㅎ
+P0 	: 오오 백신 맞고 괜찮으셧어요?
+P1 	: 앗 네네 걱정했는데 많이 아프진 않더라구요~!
+P0 	: 코로나가 너무 무섭네요 ㅠㅠ
+P1 	: &name1&님은 평소에 운동 즐겨 하시나요?
+P0 	: 저는 산책 다녀와요!
+P0 	: 요즘 비가 와서 못나가고 있어요 ㅠ
+P1 	: 아하 그죠ㅜㅜ 오늘도 비 오더라구요ㅜㅜ
+P0 	: 비오는날에 그래도 홈트라도 했는데 ㅠㅜ
+P0 	: 귀찮아지네요
+P1 	: 그쵸 ㅋㅋㅋㅋㅋㅋㅠㅠ 그래서 운동은 귀찮아지기 전에 해야하는 거 같아요ㅜㅜ
+P0 	: 네네 ㅠㅠㅠ 건강 생각해서 단것도 줄일려구요 ㅠㅠ
+P1 	: 그죠..ㅜㅜ 저도 얼마전에 치과 갔다가 충치 보고 단 거 줄여야겠다는 생각이 들더라구요..
+P0 	: 이도 바로바로 닦는게 중요한데 ㅠㅠ
+P0 	: 치과가기 무서워요 ㅋㅋ
+P1 	: 그쵸.. 저도 아파서간건아니고 그냥 정기검진때문에 간거였는데 충치 얘기 듣고 헉하게되더라구요ㅜㅜ
+P1 	: 이빨 건강도 잘 챙겨야겠어요..

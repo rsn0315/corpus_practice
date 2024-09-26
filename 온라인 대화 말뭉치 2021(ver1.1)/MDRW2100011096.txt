@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100011096
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요. 마지막 여행 언제셨어요?
+P1 	: 저는 3년 전 라오스 여행이 마지막이었네요 ㅠㅠ
+P0 	: 3년전 세부요ㅠㅠ
+P1 	: 와 3년 전이시군요 ㅠ 세부 좋았나요..
+P0 	: 라오스도 좋죠~?
+P1 	: 평화롭고 좋았어서 나중에 오래 가고 싶더라고요ㅋㅋ
+P0 	: 루앙프라방? 맞나요
+P1 	: 오 그랬던 것 같아요! 오래돼서 정확히 기억은 안나지만ㅋㅋㅋ
+P0 	: 라오스도 가보고싶네요~
+P1 	: 몸도 쉬고 마음도 쉬기에 좋더라고요. 치안도 한국만큼 안전해서 좋았어요. 저도 또 가고 싶네요!
+P0 	: 물놀이하기 엄청좋았을 것 같아요~

@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100031125
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 네 좋아해여 &name1&님은요
+P0 	: 저두요
+P0 	: 잘 못가서 그렇지
+P1 	: 그쵸 코로나이후로 그냥 스탑상태 ㅠㅠ
+P1 	: 좀 가려고하면 심각해지니까..
+P0 	: 마자요
+P0 	: 원래 한참전에 비행기표 예약해두고 여행만 기다리면서 회사다니는게 좋았는데
+P0 	: 이제 그 낙이 없네요
+P1 	: 진짜요 그냥 매년 시간만 흐르니까 너무 지루해요..
+P1 	: 여행지 어디가 제일 기억에 남으세요?
+P0 	: 해외는 다 좋았는데
+P0 	: 개인적으론
+P0 	: 가을에 10박11일로 갔던 프랑스랑 영국이여
+P0 	: 가을에가서 그런지
+P0 	: 날씨도 좋고
+P1 	: 오 저도 유럽 갔었는데 영국 좋더라고요
+P1 	: 그립네요..
+P0 	: 홍콩도 좋았는데
+P1 	: 홍콩 저도 마카오랑 같이 갔었는데 쇼핑하기 좋더라고요
+P0 	: 또 어디 가보셨어요?
+P1 	: 저는 유럽은 영프스이 그담에 일본 홍콩 태국 베트남 이렇게 가본거 같네요~
+P0 	: 많이 가셨네요
+P1 	: 동남아가 전 맞는거 같아요 ㅋㅋ 먹는 게
+P0 	: 아무래도 그렇죠
+P0 	: 영국에서 먹을게없어서
+P0 	: 한식당가서 먹었던 ㅋㅋㅋ
+P1 	: 아 영국은 진짜 ㅋㅋㅋ 물가도 넘 비싸구요..
+P1 	: 샌드위치가 젤 무난 ㅋㅋㅋ
+P0 	: 그니까요
+P0 	: 피쉬앤칩스 최악
+P1 	: 저는 피쉬앤칩스는 그래도 뜨끈하니까 맛있더라고요 ㅋㅋ

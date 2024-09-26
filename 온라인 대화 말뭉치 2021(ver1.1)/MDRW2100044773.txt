@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100044773
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 바쁘시죠?
+P0 	: 저는 일한지가 좀 되어..
+	  맨날 비슷해요.
+	  다 익숙한 일..ㅎ
+P1 	: 전 넘나 바빠요 ㅠ
+P0 	: 아.  무슨 일로 그리 바쁘세요?
+P1 	: 내일 체험학습이고요 금요일은 공개수업입니다
+P0 	: 아..  신경쓰실 일이 많네요. 
+	  내일 안전하게 다녀오시길요.
+P1 	: 그리고 이번달 말에 제출할 보고서만 2개예요
+P0 	: 아.. 무슨 내용의 보고서에요?
+P1 	: 하나는 연구대회 보고서고 다른 하나는 예산쓴거에 대한 보고서예요.
+P0 	: 아.. 예산은 그렇다고 해도
+	  연구대회 보고서는 시간과 정성이 많이 걸리겠어요.ㅎ
+P0 	: ㅎ는 취소할게용.^^^;;;;
+P1 	: 대충 내려고 했는데 동학년이랑 스터디 해요 ㅠ 매일 한쪽 쓰기 ㅡ.ㅡ
+P0 	: 제가 도와드리고 싶네요.
+	  전 담임인데요.
+	  저는 그냥저냥 할만한데
+	  옆에서 힘들다고 난리네요
+	  요령이 없는 것인지
+P1 	: &name1&님은 능력자시니까요~ 전 ㅠ 맨날 허덕입니다.

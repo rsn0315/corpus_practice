@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이른저녁먹고왔어용!
+P0 	: 오 어떤 메뉴 드셨나용
+P1 	: 편백찜샤브용!
+P0 	: 맛있으셨겠어요 .. 편백향이 맛에서도 느껴지나요?
+P1 	: 사실 그렇지는 않아요ㅋㅋㅋ담백한맛이 좋아요
+P0 	: 담백한맛좋죠 !!
+P0 	: 샤브샤브 먹으면 채소도 많이 먹을 수있어서 좋아요
+P1 	: 맞아요 특히 배추가 맛있어요ㅋㅋ
+P0 	: 그쵸ㅋㅋㅋㅋ 저는 팽이랑 배추가 제일 맛있어요
+P1 	: 헙저도요! 고기가 일순위지만요ㅋㅋㅋ
+P0 	: 그쵸 무조건 고기는 추가해야되죠ㅎㅎ
+P1 	: 고기 완전 필수죵ㅎㅎ
+P0 	: 마라탕도 좋아하시나요?
+P1 	: 마라탕 완전 맛있죠!!

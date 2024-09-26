@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100007462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 실례지만 혹시 지금 학교 다니고 계신가요?
+P1 	: 안녕하세요 네 다니고 있어요!
+P0 	: 아 저도 대학생이거든요~
+P0 	: 코로나 때문에 즐길 거리도 많지 않고 곧 2학긴데 또 4단계 난리나서 참...
+P1 	: 그러게요..9월에 어떻게 비대면하시나요?
+P0 	: 네 수강신청 하고 시간표 보니까
+P0 	: 학교 대면강의때문에
+P0 	: 갈 일은 없을 것 같아요
+P0 	: 전 비대면 실강보다는 녹강을 선호하는 편....
+P1 	: 저 역시 녹강을 사랑합니다
+P1 	: 그러나 학교는 저를 대면으로....
+P0 	: 아앗...
+P0 	: 이과나 예체능이신가요?
+P1 	: 전 전자공학 전공하고 있어요!!
+P0 	: 그쪽은 다른 분야에 비해선 대면이 많더라고요~
+P0 	: 아 그러시구나 저는 물리학과에요~
+P1 	: 물리....엄청난걸 하시네요
+P0 	: 전자공학도 거의 다 물리일텐데요 뭐
+P0 	: 대면이 많은건 실험과목 때문인가요? ㅋㅋㅋ
+P1 	: 네 저희 전공 강의가 대부분 이론+실습 이렇게 이루어져있다보니
+P1 	: 대면으로 진행 하더라고요
+P0 	: 수강신청은 성공적으로.... 하셨나요?
+P0 	: 원하시던대로 됐을까요....?
+P1 	: 이번에 올클리어 했답니다

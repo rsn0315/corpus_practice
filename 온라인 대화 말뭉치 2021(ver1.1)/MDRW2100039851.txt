@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100039851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 네 안녕하세요~
+P0 	: 가족과 함께 사시나요 자취중이세요?
+P1 	: 가족과요
+P1 	: &name1&님은요
+P0 	: 저도 가족과요
+P0 	: 집안일 나눠서 하세요?
+P1 	: 아니요 딱히 그러지는 않고
+P1 	: 잔소리를 듣고 살아요
+P1 	: ㅎㅎ
+P0 	: 앜ㅋㅋ그쵸
+P0 	: 전 제가 주로 합니다
+P0 	: 엄마가 너뮤 바쁘셔서
+P1 	: 우와 빨래 설거지 다요?
+P0 	: 넹 ㅠㅠ
+P0 	: 설거지가 제일 싫어요
+P1 	: 와우 대단해요
+P1 	: 저도 설거지 싫어요ㅜㅜㅠ
+P1 	: 요리도 싫고
+P0 	: 요리는 좋아요
+P0 	: 여름에 집안일 넘 싫어요
+P0 	: 가을겨울엔 좋아요할만해요
+P1 	: 여름에는 왜 싫어요?
+P0 	: 너무덥고 땀나고 해서요ㅠ
+P1 	: 아 마자요
+P1 	: 저도 여름 싫어요ㅠㅠ

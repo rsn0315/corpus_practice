@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100021560
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁은 드셨나요?
+P0 	: 네 저녁먹었어요
+P0 	: 저녁드셨나요?
+P1 	: 네! 먹었습니다
+P1 	: 좋아하는 음식 있나요?
+P0 	: 저는 해산물이면 거의다 좋아해요
+P0 	: 뭐 드셨어요?
+P1 	: 저 오늘 저녁에 소고기 먹었어요ㅎㅎ
+P1 	: 별님은요?
+P0 	: 저는 부대찌개 해먹었어요
+P0 	: 와...소고기 너무 맛있었겠어요!!
+P1 	: 으악 부대찌개 최고죠!
+P1 	: 네ㅎㅎㅎ 오랜만에 먹으니까 맛있더라구요
+P0 	: 고기중에 소고기 제일 좋아하시나요?
+P1 	: 아 목살 좋아해요..!ㅎㅎ
+P1 	: &name1&은 소고기 제일 좋아하세요?
+P0 	: 저는 오리고기 좋아해요!
+P1 	: 오리고기도 맛있죠ㅠㅠㅠ
+P1 	: 점심은 뭐 드셨나요?
+P0 	: 샌드위치먹었어요
+P0 	: 뭐드셨나요?
+P1 	: 저도 빵 먹었어요!
+P1 	: 도지마롤 먹어봤는데 맛있네요..
+P0 	: 도지마롤 맛있죠ㅠㅠ
+P0 	: 빵안좋아하는데 일본에서 먹어보고 반했어요
+P1 	: 현지에서 먹어보셨다니ㅠㅠ 부럽네요

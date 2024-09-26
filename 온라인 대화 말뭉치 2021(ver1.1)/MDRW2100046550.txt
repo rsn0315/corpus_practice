@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046550
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211028
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 세종
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: {emoji}
+P1 	: 저녁 드셨나요~?
+P0 	: 네, 먹었죠
+P1 	: 뭐드셨어요?
+P0 	: 그냥...불고기하고 밥이요
+P0 	: &name2&님은요?
+P1 	: 저는 햄버거 먹었어요 ㅎㅎ
+P0 	: 맛있겠네요
+P1 	: 집에서 드셨어요?
+P0 	: 넹
+P0 	: 부모님이 해주셨죠
+P0 	: 지금 수학 학원에서 선생님 기다리는중...
+P1 	: 헐 이 시간에 학원 ㅠㅠ 언제끝나요?
+P0 	: 10시..?
+P0 	: 흑흑
+P1 	: 헐 열공하시네요 ㅠㅠ
+P1 	: 화이팅이에요!!

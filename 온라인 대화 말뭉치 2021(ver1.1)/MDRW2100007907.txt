@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100007907
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 하시는 게임이 있으신가요?
+P1 	: &name2&가 아닙니다 &name2&입니다...
+P1 	: &name2&요
+P0 	: 죄송해요 &name2&님은 어떤 게임을 하세요?
+P1 	: 돈 벌어서 살 거예요 카마로를...
+P1 	: 저는 1년 정도 로오히를 했어요.
+P0 	: 그래요 서울 집 보단 카마로가 싸죠.. 요즘세상 그게 더 빠를거에요 흑흑..
+P1 	: 로드 오브 히어로즈 요.
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 아니 겜 얘기하다 왜 급 현실 얘기하세요 마음 아프게...
+P0 	: 로오히는 재미있나요?
+P1 	: 플레이 자체는 개노잼인데
+P1 	: 캐릭터 보는 맛으로 합니다...
+P0 	: 페그오랑 비슷하네요
+P1 	: 뽑기 게임이 대체로 그렇죠 머...
+P0 	: 돈내고 캐릭터를 사고 지루하게 키우고.
+P1 	: 마저요... 지루해요...
+P0 	: 너무 졸려요..
+P0 	: 하다보면 고생 하는 느낌
+P1 	: 저도 최근엔 자동전투 돌려놓고 딴짓 했어요.
+P1 	: 이젠 너무 질려서
+P1 	: 그나마도 끊었습니다.
+P0 	: 자동전투 좋네요
+P1 	: 금 롷 7일 째
+P0 	: 담배끊듯 얘기하시네요
+P1 	: ㅋㅋㅋ 웹서핑하다보면 자꾸 소식이 들려서요...
+P1 	: 신규 정보 들을 때마다 접속하고 싶어서 손 떨려요.
+P0 	: 게임 이콜 도박

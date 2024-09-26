@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100036813
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신은 맞으셨어요?
+P1 	: 아니요.., 예약도 안했어요
+P1 	: &name1&님은요?
+P0 	: 전 십부제 예약해서 추석 전주에 맞기로 했어요
+P0 	: 왜 예약 안했어요?
+P1 	: 맞게 되면 학기중밖에 없더라구요
+P1 	: 하루만 쉬어도 과제가 산더미인거 알아서... 일단은 보류했어요
+P0 	: 아.. 그런게 힘들어요.. 일정조절..
+P0 	: 이게 일차는 그냥 맞아도 이차는 정해진 날에 맞아야 하니까요
+P0 	: 그럼 겨울방학 중에 맞을 계획인가요??
+P1 	: 네 겨울방학이나 빠르면 중간고사 끝난 후에 맞으려구요
+P0 	: 가능하다면 중간고사 후에 맞아서 조금이라도 일찍 맞았으면 좋겠네요
+P0 	: 요새 변이가 워낙 심해서
+P0 	: 가족들은 다들 맞았나요?
+P1 	: 가족들은 동생 빼고 다 맞았어요
+P0 	: 아.. 저흰 저 빼고 다 맞아서요..ㅎㅎ
+P0 	: 제 차례돼서 맞는 건데도 굉장히 늦어진 느낌이에요
+P1 	: 진행이 좀 느리긴 하죠
+P0 	: 주변 지인들은 잔여백신으로도 막 맞던데
+P1 	: 그건 경쟁률이 너무 심하더라구요
+P0 	: 네.. 그래서 저도 못했어요.. 며칠 하다가 결국 포기
+P1 	: 저두요... 잔여백신 맞았으면 시기도 적절했을텐데
+P0 	: 맞아요

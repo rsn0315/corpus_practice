@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011931
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응 좋아해
+P0 	: 영화 소개 해주는 유튜브 이런 것도 봐?
+P1 	: 어 가끔?
+P0 	: 좋은 유투 버 있으면 소개 좀
+P1 	: 그냥 아무거나 보는데?
+P0 	: 아 딱히 구독하는 사람은 없고?
+P1 	: 응
+P0 	: 응 그렇구나
+P1 	: 자주보는 영상 있어?
+P0 	: 아니 요즘은 없는 거 같아
+P1 	: 그럼 예전에는?
+P0 	: 예전에는 이것저것 많이 봤던 거 같은데 잘 생각 안나
+P1 	: 그럴 수 있지

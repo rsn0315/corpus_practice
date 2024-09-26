@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029319
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심에 뭐드셨나요?
+P0 	: 다이어트 하느라고 안먹었지요.
+P1 	: 다이어트라니..
+	  그럼 저녁도 굶으셨나요?
+P0 	: 저녁에는 고기 먹었어요. 그리고 김치볶음밥도 먹었고요
+P1 	: 오 김치볶음밥은 언제 먹어도 보통 이상은 가죠
+P1 	: 어떤 고기를 드셨죠?
+P0 	: 닭고기요 ㅎㅎ
+P1 	: 닭고기라면 치킨?
+P0 	: 오븐에 구운 치킨 먹엇어요
+P1 	: 오븐에 구운거 맛있죠 
+	  기름도 빠지고
+P0 	: 가게 위생이 어떨지 궁금해지네요
+P1 	: 직접 확인이  불가능하니 믿고 먹어야겠죠
+P0 	: 맨날 굽는데 청소 못할것같은데
+P1 	: 그건 직원들만 알겠죠
+P0 	: 계란 어떻게 익힌거 좋아해요?

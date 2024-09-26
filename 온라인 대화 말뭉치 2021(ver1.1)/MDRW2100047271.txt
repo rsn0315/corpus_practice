@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100047271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~~
+P0 	: 공연 좋아하세요
+P1 	: 공연보러가는걸 즐기진 않고 그냥 폰으로 영상검색해서 봐요!
+P1 	: &name1&님은요?
+P0 	: 저는 몇번 다녔어요
+P1 	: 오 어떤공연이 인상에깊으셨나요??
+P0 	: 디엔씨이요
+P0 	: 기타리스트가 한국인이에용
+P1 	: 오 첨들어보는데 한번 찾아봐야겠어요!
+P0 	: 뮤지컬 좋아하시나요?
+P1 	: 음 저 시아준수 나온 뮤지컬 되게 재밌게봤어요~
+P1 	: 너무잘하시더라구요
+P0 	: 제목이 뭔가요
+P1 	: 드라큘라였던거같아요!
+P0 	: 저도 기회되면 봐야겠어용

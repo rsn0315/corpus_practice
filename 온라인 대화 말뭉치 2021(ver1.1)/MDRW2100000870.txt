@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100000870
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 네 안녕하세요
+P0 	: 어디 다녀왔나요?
+P1 	: 코로나 시국이라 안 갔어요
+P0 	: 빨리 코로나가 사라져야 할텐데요
+P1 	: 그러게요 추천하실만한 여행지가 있나요
+P0 	: 우리가족은 대만을 갔었는데,나름 좋았어요
+P1 	: 어디어디갔나요
+P0 	: 타이베이랑 야시장을 갔어요
+P1 	: 뭐먹었나요?
+P0 	: 지파이먹었어요
+P1 	: 어땟어요?
+P0 	: 한번 가서 드시고 오세요~^^

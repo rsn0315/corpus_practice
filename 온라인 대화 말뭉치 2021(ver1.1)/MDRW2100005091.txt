@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100005091
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저 요즘 버킷햇에 관심있는데 혹시 추천하실 브랜드 있으세요?
+P1 	: 음  버킷햇을 안써서 모르겠네요ㅜㅜ
+P1 	: 근데 연예인들 버킷햇쓴꺼 보면 잘어울리고  예쁘더라구요ㅎㅎ
+P0 	: 그러니까요ㅜ
+P0 	: 그럼 뭘 주로 구매하세요??
+P1 	: 저는 책 사거나 간식 사거나 이런게 다인것 같아요
+P0 	: 책좋아하세요?
+P1 	: 네
+P0 	: 그럼 인생책 이런 거 있으심가요?
+P1 	: 피프티 피플이요! 소설인데 재미있게 읽었어요!
+P0 	: 혹시 정세랑작가작품이에요?
+P1 	: 네네 맞아요!
+P0 	: 오옹ㅇ 꼭 한번 읽어볼게요
+P1 	: 네:)

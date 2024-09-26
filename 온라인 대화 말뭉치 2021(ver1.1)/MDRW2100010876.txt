@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010876
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 여름 좋아해요~ &name1&님은요?
+P0 	: 전 가을이요~
+P0 	: 더위가 약해서ㅠ
+P1 	: 가을이 날씨는 딱인데 전 비염이 있어서요 ㅠ
+P0 	: 아ㅠㅠ
+P0 	: 겨울도 좋아해요
+P1 	: 시원한 계절을 좋아하시는군요^^ 전 추으면 온 몸이 얼어붙는것 같아요
+P0 	: 전 차라리 추운게
+P0 	: 더위는 넘 힘들어서요ㅠ
+P1 	: 더위를 힘들어 하시는군요. 전 추위를 힘들어해서 여름에 에어컨 선풍기 다 안켜요
+P0 	: 앗 저랑 반대
+P1 	: 겨울에 온풍기를 안켜시나요?
+P0 	: 난방은 안해도 냉방은 빵빵
+P1 	: 난방을 어떻게 안할수가 있죠? 전 겨울에 항상 털조끼 입고 다녀요 추워서
+P0 	: ㅎㅎ 하긴하는데 냉방이 더 중요
+P0 	: 둘중에하나고르라면 냉방요ㅋ
+P1 	: 전 난방 ㅋㅋㅋ 이사온 집이 시원하기도 하고요~
+P0 	: 그러시구나^^

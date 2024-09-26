@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100036349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건있으신가요?
+P1 	: 최근에... 뜨개질 할 실 샀구요
+P1 	: 그리구 스트라이덱스 패드 샀어요!
+P1 	: 그리고 방금 아이스크림.지르고 오는 중입니다 ㅎㅎ
+P0 	: 알차게 구매하셨네요 !
+P0 	: 저도 그 패드 써봤는데 부담없이 쓱쓱 닦기에 좋더라구요
+P1 	: ㅋㅋㅋ그쵸 저게 가장 무난하고 부담스럽지 않게 닦기 좋더라구요
+P1 	: 없으면 허전하구...
+P0 	: 맞아요ㅋㅋ 여름에 쓰기 넘 좋아요 샤워하고 등부분 닦아도 좋더라구요..
+P1 	: 어 마자요 마자요 ㅋㅋㅋㅋ 얼굴닦고 가슴팍이랑 등 닦기 좋은 고 겉아요
+P1 	: 첨엔 몰랐는데 확실히 쓰니까 다르더라구요
+P0 	: 그러니까요 시원하구 각질제거 되는 느낌이에요
+P1 	: 사실 닦을 땐 잘 모르는데 안 쓰면 느껴지는 거 같아요 ㅋㅋㅋ
+P0 	: 맞아요 ㅋㅋ 패드 그래서 꾸준히 사두는 것 같아요
+P1 	: &name1&님은 최근에 뭐 사신 거 있으세요?
+P0 	: 저는 최근에 핸드폰 바꾸고 가을옷 쇼핑했어요!
+P1 	: 설마 플립 사셨나요??
+P0 	: 네네 플립 구매했어용
+P1 	: 우와 그거 진짜 예쁘고 좋아보이더라구요ㅠ
+P1 	: 어떠세요
+P0 	: 예뻐요.. 화면도 시원시원해서 좋네요 ㅋㅋ

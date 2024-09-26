@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나로 여행 못 가지만 그 전에 가장 좋았던 여행지가 있나요~?
+P1 	: 저는 유럽여행이 제일 기억에 남아요
+	  어디가 기억에 남으세요?
+P0 	: 저도 유럽이요 ㅎㅎ
+P0 	: 미국에 안 가봐서 그럴 수도 있지만요
+P1 	: 저도 미국은 안가봤는데 캐나다는 가봤어요ㅎㅎ
+P0 	: 캐나다도 좋지 않아요?
+P0 	: 저는 유럽은 많이 갔는데 아메리카 대륙은 한 번도 가본 적이 없네요
+P1 	: 네 좋았어요ㅎㅎ 생각보다 자연환경이 더 좋더라구요
+P0 	: 예전에는 도시 구경이 제일 좋았는데 요즘은 자연환경이 더 끌리더라구요
+P0 	: 코로나가 언젠가 종식되면 갈 수 있겠죠? ㅠㅠ
+P1 	: 맞아요 폭포같은거 보고있으니까 와닿더라구요ㅎㅎ 코로나끝나면 어디든 여행주터 가고싶어요
+P0 	: 그러니까요
+P0 	: 해외부터 가고 싶은데 인종차별 당할까봐 좀 두렵네요
+P1 	: 맞아요 코로나 전에도 은근하게 느껴졌는데 ㅠㅠ
+P0 	: 휴 그게 제일 걱정이에요
+P0 	: 어딜 제일 먼저 가고 싶으세요?
+P1 	: 휴양지가고싶어요ㅎㅎ
+P0 	: 휴양지 좋죠
+P0 	: 아무것도 안 하고 좋은 풍경 보면서 맛난 거 먹고 싶어요

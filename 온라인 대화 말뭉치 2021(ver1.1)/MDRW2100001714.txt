@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100001714
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 요즘 읽고 계신 책 뭐 있으세요?
+P1 	: 딱히 읽는건없고 가끔 엄마가 선물해주신책 읽어요
+P1 	: 요새 읽고계신거있으세요?
+P0 	: 아직요 근데 해리포터 책으로 보면 재밌다길래 고민이에요
+P1 	: 아하 그래요?
+	  근데 해리포터 양이 많아서 한참 봐야겠네요
+P1 	: 저는 어린이라는세계라는 책을 읽어보고싶긴한데
+P1 	: 아직 실천을 못하고있네요
+P0 	: 맞아요 양이 엄청 많아서,,,
+P0 	: 어린이라는세계는 어떤 책인가요?
+P1 	: 아직 안읽어봐서 정확히는 모르겠어요
+P1 	: 책 좋다고해서 읽어보려구요
+P0 	: 저도 한번 찾아봐야겠어요
+P0 	: 혹시 읽었던 책 중 감명 깊은 책 있으셨나요?
+P1 	: 제가 책을 잘 보는편이 아니라서 기억에 남는게 없네요ㅋㅋ
+P1 	: 읽으신책중에 추천할만한거 있으신가요?
+P0 	: 감명 받은 건 아니지만
+P0 	: 마당있는 집이라는 책 있는데 봐보세요
+P0 	: 약간 스릴러 같은 느낌이에여
+P1 	: 오~내용 찾아보고왔는데 재밌을거같아요!
+P1 	: 나중에 한번 읽어볼게요!
+P0 	: 네 꼭 읽어보세요
+P0 	: 제 지인들은 다 재밌다고 했어요
+P1 	: 오호! 꼭 읽어볼게요 
+	  지인분들 다 재밌다고 할 정도면 추천하실만하네요!
+P0 	: 네 그럴 때 마다 뿌듯 하더라구요

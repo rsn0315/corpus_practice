@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘보시는 콘텐츠 있으신가요?
+P1 	: 전 유튜브만 보는데 hahaha채널 아시나요?
+P1 	: 길고양이 나오는거요!
+P0 	: 처음들어 봤어요  한번 보고 왔는데 고양이 들이 귀여워요!
+P1 	: 그쵸ㅎㅎ 넘 힐링되더라구요ㅠ
+P1 	: &name1&님은 재밌게 보시는거 있나요~?
+P0 	: 맞아요 !  요즘 즐겨듣는 노래 있으신가요?
+P1 	: 전 요즘 뜬금없이 옛날 발라드에 빠졌어요ㅎㅎ
+P1 	: &name1&님은요~??
+P0 	: 저는 드라마 ost 주로 들어요!
+P1 	: 오 어떤 드라마요??
+P0 	: 슬기로운의사생활2 요!
+P1 	: 안본거긴한데 ost 추천해주세요!!
+P1 	: 지금 들어보겠습니다ㅎㅎㅎ
+P0 	: 슈퍼스타요!
+P1 	: ㅎㅎ 지금 들어보겠습니다 추천감사해요!
+P0 	: 넹:)

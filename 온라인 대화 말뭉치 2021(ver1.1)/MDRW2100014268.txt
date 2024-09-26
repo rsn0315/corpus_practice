@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014268
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 잘 챙겨먹네
+P0 	: 무릎이 아프니 칼슘때문인가 싶어서 열심히 칼슘 챙겨 먹고 있음
+P1 	: 잘하고 있다 꼬박꼬박 챙겨먹어야 효과가 있는거니
+P0 	: 응 오늘도 점심먹으로면서 중간에 먹었다 그럼 흡수가 더 잘 된다고 해서
+P1 	: 아 그래 몰랐네
+P0 	: 칼슘제는 밥먹을때 음식같이 소화될때 흡수가 잘 된다고 하더라
+P1 	: 별걸 다 아네
+P0 	: 돈들여서 먹는 건강 식품 이왕이면 흡수 잘되게 먹어야지
+P1 	: 그렇지 완전 좋은 마인드다
+P0 	: 응 이렇게 먹으면 골손실이 덜 오겠지
+P1 	: 응 견과류도 깉이 먹어라
+P0 	: 오메가 섭취가 ㅋㅋ
+P1 	: 건강생각하면 이거저거 먹어야지

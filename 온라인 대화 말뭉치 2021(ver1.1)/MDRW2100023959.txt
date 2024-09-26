@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100023959
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 학생이세요?0?
+P0 	: 네 &name2&님은요??
+P1 	: 저도 학생이에요!~
+P0 	: 학기 시작하셨나요??
+P1 	: 오늘 개강했어요 ~ㅠㅠ
+P1 	: 오늘부터 시작했읍니다{emoji:•}{emoji:•}{emoji:•}
+P1 	: ㅠㅠ
+P0 	: 전 수요일부터입니다ㅠㅠ
+P0 	: 수강신청 성공 하셨나요??
+P1 	: 헉 부럽네용..
+P1 	: 수강신청 올클했습니다!!
+P1 	: 히히
+P1 	: &name1&님은요??
+P0 	: 저도요 근데 사실 제가 듣고 싶은 강의가 전공이랑 겹쳐서 반의 수강신청 성공이예요ㅠㅠ
+P0 	: 이번에 몇학점 들으시나요??
+P1 	: 저 이번에 20학점이요!
+P1 	: 이번에 좀 바쁘게 살려구요 ㅋㅋㅋㅋㅋ
+P1 	: &name1&님은요??
+P0 	: 전 15학점이요 몇 학년이신가요??
+P1 	: 저 2학년이요~~~~
+P1 	: &name1&님은요??
+P0 	: 저도 2학년이요 3,4학년 때 취업준비하시려고 달리시는건가요??
+P1 	: 네!
+P1 	: 3학년 마치고
+P1 	: 휴학하고 준비하려구요~

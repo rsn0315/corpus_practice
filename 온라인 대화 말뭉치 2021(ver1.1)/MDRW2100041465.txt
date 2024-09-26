@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041465
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 나 오늘 카페 감
+P0 	: 무슨 카페에
+P1 	: 폴바셋
+P0 	: 폴바셋에 좋지
+P1 	: 지금은 피스타치오야
+P0 	: 우와 나 거기 아이스크림 좋아하는데
+P1 	: 시즌 아이스크림이 진짜 멋있어
+P0 	: 그랬겠다
+P1 	: 근데 가격이 올랐어
+P0 	: 얼마나
+P1 	: 4000원이야
+P0 	: 500원 올랐고요
+P1 	: 그랬구나

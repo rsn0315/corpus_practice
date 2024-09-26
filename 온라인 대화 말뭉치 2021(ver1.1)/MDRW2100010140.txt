@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100010140
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2& 님!
+P0 	: 거기도 지금 비가 오고 있나요?
+P1 	: 안녕하세요 &name1&님! 네 여기 비오네요
+P1 	: 거기도 오나요?
+P0 	: 네 저희도 아까 오전부터 조금씩 내리네요
+P0 	: 비오는 거 좋아하시나요?
+P1 	: 좋아는 하는데 이번엔 좀 자주 오네요^^;
+P0 	: 그러게요 여름엔 잘 안 오더니 늦은 장마네요
+P0 	: 그래도 기온은 많이 떨어져서 다행이에요
+P1 	: 네 덥진 않아서 좋네요ㅋㅋ
+P1 	: 오늘 외출하셨나요? 재택중인데 비 와서 나갈까 말까 고민이네요
+P0 	: 아침에 잠깐 했는데 우산을 안 챙겨서 금방 돌아왔어요
+P0 	: 남부는 비가 많이 오는 거 같은데 저희는 아직 그렇게 많이 내리진 않아요
+P0 	: 많이 안 내리시면 잠깐은 나가셔도 될 거 같아요
+P1 	: 네 집근처 산이나 갈까 했는데 비 와서 못 가겠네요
+P0 	: 산은 좀 위험한 거 같아요ㅠㅠ
+P1 	: 그쵸...ㅋㅋㅋ 비 그치고 나면 이제 가을 되겠네요
+P0 	: 그러게요
+P0 	: 가을 좋아하세요?
+P1 	: 좋긴 한데 가을엔 비염이 심해져요.....
+P1 	: &name1&님은 계절성 알러지 없으신가요?
+P0 	: 저는 다행히 없어요
+P0 	: 비염 힘들죠ㅠㅜ
+P0 	: &name2& 님은 그럼 어떤 계절 제일 좋아하세요?
+P1 	: 저는 그래도 봄가을이요ㅋㅋㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저도 봄, 가을 제일 좋아해요

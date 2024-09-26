@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100035080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P0 	: 배달음식 자주 시키세여?
+P1 	: 아니요 자주 시키지 않는데, 최근에는 좀 잦아졌어요
+P0 	: 주로 뭐시키세요?
+P1 	: 음 최근 기억나는건 감자탕/코다리조림/치킨 이요
+P0 	: 코다리조림같은건 한식 배달인가요?
+P1 	: 찜/탕 카테고리 같아요
+P0 	: 글쿤여
+P1 	: &name1&님은 배달 자주 주문하세요?
+P0 	: 네 10일에 한번쯤은 먹는거같아요
+P1 	: 보통 어떤거 주문해드시나요?
+P0 	: 주로 치킨먹어요 근데 주문할때마다 고통이네요

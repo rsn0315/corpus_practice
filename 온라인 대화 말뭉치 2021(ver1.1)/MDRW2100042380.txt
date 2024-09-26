@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100042380
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 뭐써? 냄새 잘 안나는거같아
+P0 	: 되게 멋부릴때만 써서 그런가봐요
+P1 	: 무슨 향인데 그렇게 아껴써
+P0 	: 저 예전에 엄마아빠랑 같이 인사동 갔을때
+P1 	: 그때사줬던거?
+P0 	: 네 ㅋㅋㅋ 고체향수
+P1 	: 엄마 그거 모기향 나던데 그게 좋니
+P0 	: 저는 오렌지 레몬 이런 향이 좋아서 ㅎㅎ
+P1 	: 자몽이었던거같긴 하네
+P0 	: 맞아요 자몽 고체향수 잘쓰고 있어요
+P1 	: 오래전인데 향 안날아갔니?
+P0 	: 고체라 더 좋은거같아요 아직 쓸만해요 ㅋㅋㅋ
+P1 	: 보습도 된다던데 자주 써 향 날아가기 전에
+P0 	: 저도 아끼다 똥되게 하지 말고 자주 서야져 ㅎ
+P0 	: 글고 뭐냐 그런거 좀 있던데
+P0 	: 나중에 같이 시향하러 가요

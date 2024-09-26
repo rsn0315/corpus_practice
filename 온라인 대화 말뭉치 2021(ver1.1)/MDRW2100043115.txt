@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100043115
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물좋아하세요?
+P0 	: 네 ! 집에서 햄스터 두마리, 달팽이 한마리 키우고 있어요~
+P1 	: 앗귀여워요ㅎㅎㅎ
+P1 	: 달팽이는뭐먹나요
+P0 	: 과일 좋아해서 사과 한쪽씩 넣어주고 있어요 ㅎㅎ
+	  캠핑갔다가 애들이 키우고 싶다고 해서 데려온 아이인데 아직까지 잘 크고 있어요 ㅎㅎ
+P1 	: 우왕ㅎㅎ
+P1 	: 신기하네요
+P0 	: 외래종이면 안데리고 왓을텐데 ㅋㅋㅋ
+	  다행히 아니라서 ㅎㅎ
+P1 	: 다행이네요ㅎㅎ
+P1 	: 애들이좋아하겠어요
+P0 	: 네~~
+	  처음은 애들이 좋아했는데 이젠 거의 제가 더 좋아서 키우네요ㅎ
+P1 	: ㅎㅎ다들그러더라고요
+P0 	: 그쵸 ㅋ 그래도 강아지는 안키우고 싶네요
+	  혹시 반려동물키우시나요?
+P1 	: ㅎㅎ저는안키우지만
+P1 	: 여건되면키우고싶어요

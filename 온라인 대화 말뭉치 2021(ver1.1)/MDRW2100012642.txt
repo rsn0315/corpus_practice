@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100012642
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 엄마 아직도 팔 아파?
+P1 	: 어제보단 괜찮아졌어.
+P1 	: 너는 귀 어때.
+P0 	: 나도 이제 심하게 아프진 않은데 아직도 가끔 따끔 거려
+P0 	: 심하진 않아도 아직도 아프긴 해
+P1 	: 내일도 그러면 꼭 병원 가 봐.
+P1 	: 중이염이면 어떡해.
+P0 	: 그러면 귀가 심하게 안 들리지 않았을까?
+P0 	: 너무 걱정하지마 심한 건 아닌 것 같아
+P1 	: 아까 저녁을 급하게 먹었더니 좀 체한 듯.
+P0 	: 요즘 자주 그러네 엄마
+P0 	: 먹고 바로 눕지 말고 1시간 동안은 좀 앉아 있어~
+P1 	: 요즘엔 바로 안 누워
+P1 	: 원래 소화기관이 좀 안 좋잖아
+P0 	: 그래도... 집에 사이클 있잖아 그거라도 타
+P0 	: 티비 보면서 타면 좋잖아
+P1 	: 어. 살도 뺄 겸 그래야겠어
+P1 	: 어제도 탔는데 힘들더라.
+P0 	: 평소에 운동을 너무 안해서 그래~~
+P1 	: 날 좋아지면 저녁 먹고 산책이라도 다녀야겠어
+P0 	: 막내랑 같이 다녀. 걔도 요새 다이어트 하더라
+P1 	: 응, 요즘 살 뺀다고 매일 유튜브 보면서 혼자 운동해.
+P1 	: 아빠 오늘 백신 주사 맞았다.

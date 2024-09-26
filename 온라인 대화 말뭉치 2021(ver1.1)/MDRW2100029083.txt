@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029083
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반려동물 키우세요?
+P1 	: 안녕하세요! 아뇨 ㅠㅠ아쉽게도 키우고는싶은데 돈을 모으고 키우고싶어서요
+P0 	: 어떤 동물 키우고싶으세요?
+P1 	: 저는 고양이를 좋아해요 &name1&은요?
+P0 	: 저두 고양이 좋아해요!
+P1 	: 고양이 귀엽죠 너무좋아요 ^^{emoji:♡} 키우시고 계신가요?
+P0 	: 아뇨ㅠㅠ 전 털알러지가 있어서ㅠㅠ
+P0 	: 짤만 열심히 모으고 있어요..ㅋㅋㅋ
+P1 	: 아ㅠㅠ 너무슬픈이유네요
+P1 	: 같은 랜선집사로써 응원합니다ㅠ.ㅠ
+P1 	: 유튜브가 활발해지면서 고양이영상 많이올라와서 좋아요 ^//^
+P0 	: 맞아요! 덕분에 랜선집사하기 너무 좋아요ㅋㅋㅋㅋ
+P0 	: 구독하시는분 있으세요?
+P1 	: 일단 제일 유명한 냥어장좋아해요 이얏호응
+P0 	: 오옹 저는 다 모르는 분들이에용 저는 하하하 봅니당
+P1 	: 헉 이분이 하하하 예요! 양어장에서 키우셔서 냥어장이라고 불러서
+P1 	: 자연속 고양이좋아요 편안해보여서
+P0 	: 아 그렇군용 요즘 보기 시작해서 잘몰랐어요ㅎㅎ

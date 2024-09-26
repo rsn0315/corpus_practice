@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100020135
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기억에 남는 책 있으신가요?
+P1 	: 저늗 추리소설좋아해서 좋아하는작가책들 다 좋아히니요
+P1 	: 히가시노게이고 아세요?
+P0 	: 오 유명한 사람이죠
+P0 	: 한때 그분책 많이봤는데 책마다 호불호가 갈리다보니 이젠 미나토가나에 좋아해요
+P1 	: 네 유명하죠
+P1 	: 미나토가나에는 첨들어요
+P1 	: 추리소설 썼나요,
+P1 	: ?
+P0 	: 음 스릴러라고 해야할까요
+P1 	: 오 그래요?
+P0 	: 고백을 재미나게 읽었어요
+P1 	: 제목이 머예요?
+P0 	: 고백 이 제목이예요
+P0 	: 그외에도 2권 더 읽었는데 모두 재밌었어요 제목은 기억이 안나네요
+P1 	: 아 찾아볼께요
+P1 	: 책 편식이 심해서 히가시노것만 읽었거든요
+P1 	: 김진명이랑요
+P1 	: 김진명아시죠?
+P0 	: 아니요 어떤책을 쓰셨나요?
+P1 	: 앗 그래요?
+P1 	: 많이 쓰셨는데 바이러스X
+P1 	: 글자전쟁 미중전쟁
+P1 	: 사드
+P1 	: 등등 많아요
+P1 	: 하나도 못들어보신책이신가요?
+P0 	: 최근 도서관이나 책방을 못가서 못들어봤네요

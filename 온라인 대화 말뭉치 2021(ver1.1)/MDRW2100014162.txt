@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014162
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 끝나면 어디 가고싶으세요?
+P1 	: 애들이랑 첫해외여행으로 괌가고싶어요!
+	  어디가고싶으세요?
+P0 	: 첫째랑은 괌에 가봐서 다음엔 사이판에 가보고싳너뇨^^
+P0 	: 싶어요
+P1 	: 사이판도 좋겠어요~ 저희아인 여권에 도장한번 못찍고 만료될판이에요ㅋ
+P0 	: 아 기간이 몇년이죠 애들건
+P1 	: 저는5년? 짜리 했어요ㅎㅎ
+P0 	: 그렇군요 생각해보니  둘째는 여권이 없네요ㅎㅎ
+P1 	: 즤둘째두요ㅎㅎ 해외여행 나갈수 있는 상황이 되면 바로 만들어야겠어요!
+P1 	: 괌과 사이판 바다.. 너무 좋을거같아요!
+P0 	: 기억에 남는 여행지는 어디인가요?
+P1 	: 하와이요! 휴양관광이 다되어서요~ 여행지 어디가 기억에 남으세요?
+P0 	: 저는 몰디브요! 오로지 휴양이긴 했지만^^
+P1 	: 저신행 몰디브였어요!! 전센트라? 계열 리조트갔었어요 어디가셨어요?
+P0 	: 저는 바로스요! 몰디브도 하와이도 가보셨다니 넘 부러워요^^

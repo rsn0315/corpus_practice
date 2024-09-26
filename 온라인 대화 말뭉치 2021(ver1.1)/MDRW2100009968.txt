@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009968
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 무슨 빵 좋아하세요
+P0 	: 저 피자빵이요 ㅎ
+P0 	: 무슨 빵 좋아하세요
+P1 	: 저는 파리바게트는 모카빵이랑 소시지빵 좋아해요
+P1 	: 오늘 빵 주문하시나요
+P0 	: 저 고민이에요...
+P0 	: 혹시 소시지빵이 돌돌말이 뭐 그건가요?
+P1 	: 아니요 뽀드득 그릴소시지요
+P1 	: 가운데 무채가 있는데 그게 핵심이에요
+P0 	: 궁굼하네뇨
+P1 	: 파바는 빵도 빵인데
+P1 	: 아이스크림도 진짜 맛있어요
+P0 	: 아 정말요? 어떤 아이스크림이요?
+P1 	: 캔디바있는데
+P1 	: 전부맛있어요
+P1 	: 약간 뻔한맛일거라 생각해서 기대가 없었는데
+P1 	: 기대이상으로 맛있더라구요
+P0 	: 아 ㅋㅋ 거기에도 캔디바가 있군요
+P0 	: 저 마트에서 파는 캔디바 좋아해요
+P1 	: 그거 소다맛이라 맛있어요
+P1 	: 아래는 밀크쉐이크맛ㅎ

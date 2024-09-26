@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012220
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 전남
+current_residence : 전남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 도서 어디서 주로 빌리시나요
+P0 	: 집근처 도서관에서 주로 빌려요
+P1 	: 그렇군요
+P1 	: 혹시 책 중에 좋아하는 작가 있으시나요
+P0 	: 딱히 없고 고로고로 읽어요
+P1 	: 저는 이영도 작가 책 좋아해요
+P0 	: 추천해주실만한 책 있으신가요?
+P1 	: 1984라는 책도 괜찮아요
+P0 	: 그책은 읽은기억이 있는데
+P1 	: 읽으셨군요. 그러면 무협지 읽어보세요 기분전환으로
+P0 	: 추천감사해요
+P1 	: 아니요 읽어보면 좀 색다른 것을 느낄듯 작가중 설봉 추천드려요
+P0 	: 설봉 추천 감사해요
+P1 	: 읽어보시고 마음에 드시면 다른 책 읽어도 될듯해요

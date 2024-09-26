@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008860
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P0 	: 반려동물 키우세요??
+P1 	: 안녕하세요
+	  아니요, 안 키워요
+P0 	: 오 저도 안키워용
+P0 	: 혹시 키우고 싶은동물이나 좋아하는동물 잇으세요??
+P1 	: 고양이는 기회가 되면 키워보고 싶다고 생각해요
+	  고양이를 좋아하기도 하구요
+P0 	: 오 고양이 귀엽죠!!!
+P0 	: 근데 저는 동물을 무서워해서 맨날 동영상으로만 봐요
+P1 	: 오, 주로 어떤 영상인가요? 고양이 영상? 아니면 강아지?
+P0 	: 다 보긴하는데 강아지를 더 많이 보는것같아요
+P1 	: 강아지 영상도 좋죠~
+	  저는 유튜브에서 즐겨보는 채널이 있는데 그 집 강아지들 진짜 너무 귀엽더라구요
+P0 	: 오오 혹시 알려주실수잇나요!
+P1 	: '루퐁이네' 이 채널이에요
+P0 	: 오 감사합니당 나중에 봐볼게요!
+P1 	: 네ㅎㅎ
+	  &name1&님도 혹시 즐겨보시는 채널 있나요?
+P0 	: 전 그냥 알고리즘에 뜨는거 다 봐서 딱히 기억나는 채널이 없네요
+P1 	: 아, 그러시구나

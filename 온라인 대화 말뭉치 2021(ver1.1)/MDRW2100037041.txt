@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100037041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 다이어트해보신적있으신가요
+P1 	: 아니요 다이어트보다는 평소에 꾸준히 관리하려고 하는 편이에요
+P0 	: 저도 다이어트 식단이나이런거 정말못하겠더라구여..
+P0 	: 평소에 어떻게관리하세요
+P1 	: 몸무게가 조금 늘것 같으면 
+	  간식을 끊고, 먹는 양을 줄이려고 해요
+P1 	: 과식이나 야식은 항상 안 하려고 하구요..
+P0 	: 오오 전 먹는거 도중에 멈추는게 넘힘들어요ㅜ과식하게되고
+P1 	: 아 그러시군요ㅠㅜ
+	  저는 과식하고나면 속이 별로 안 좋더라구요
+P0 	: 네 저도그래서 과식하면안되는데 식탐이항상이기네요ㅜ
+P1 	: ㅜㅜ 식욕이 많은 경우 음식을 앞에 두고 멈추는걸 많이 힘들어하시더라구요
+P0 	: 네ㅜ 먹고 소화안되고 후회하고 반복되네요
+P1 	: 맞아요 과식하고나면 꼭 후회하게되더라구요
+	  그래서 소식을 하려고 노력하고 있어요
+P0 	: ㅜㅜ소식진짜 넘어려워요
+P0 	: 배고파질땐 어떻게하시나요
+P1 	: 간단하게 먹을게 없나 찾아다녀요ㅋㅋㅋ
+	  군것질거리 있으면 조금씩 먹기도 하구요

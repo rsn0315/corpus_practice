@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 최근에 구입한 물건 있으세요?
+P1 	: 컵밥 낙지콩나물밥 샀어요
+P0 	: 어디 브랜드 구매하셨어요?
+P1 	: cj컵밥입니당
+P0 	: 재구매하시는건가요?
+P1 	: 네 재구매
+P0 	: 중고거래 해보셨어요?
+P1 	: 네 해봤어요
+P0 	: 갖고싶은 생일선물은 뭔가요?
+P1 	: 바리깡이요
+P0 	: 이유가 뭔가요?
+P1 	: 좋아해서요
+P0 	: 선호하는 바리깡 스타일이 있나요?
+P1 	: 잘드는거 좋아해요

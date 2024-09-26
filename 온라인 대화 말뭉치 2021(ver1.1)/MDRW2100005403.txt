@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아니 난 부작용 때문에 맞을 생각 없어 ㅠ
+P0 	: 나도 두통 때문에 좀 걱정이야
+P1 	: 부작용도 많고 효과가 영구적인 것도 아니라서 그냥 버텨보려구
+P0 	: 그래 색시는 어디 나가거나 하는 것도 아니니까
+P1 	: 마스크 잘 쓰고 손 잘 씻고 지금처럼 해보게...
+P0 	: ㅇㅇ 맞게 되더라도 최대한 늦게 맞아
+P1 	: 예전 독감 예방접종 맞고도 며칠 앓아누워서 무서웡
+P0 	: 백신 부작용 생각하면 진짜 무섭지
+P1 	: 젊은 사람은 더 심각하게 나타나니까
+P0 	: 맞아.. 누가 내 건강 챙겨주는 것도 아닌데 스스로 결정해야지
+P1 	: ㅇㅇ 백신은 선택인 것 같아. 임상시험도 짧고
+P0 	: 모더나가 그나마 부작용이 덜하다고는 하던데
+P1 	: 모르지.. 1프로의 부작용이라도 그게 나라면 100프로인거니까
+P1 	: 오늘 나혼자 산다 보니까 오상욱 선수 옷 진짜 잘입더라

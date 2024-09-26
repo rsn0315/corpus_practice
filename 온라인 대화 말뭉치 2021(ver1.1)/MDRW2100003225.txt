@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003225
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교가 있으신가요?
+P1 	: 아니요 전 무교요ㅎ &name1&님은요?
+P0 	: 저는 기독교를 배우는 중이에요.
+P0 	: 가족들이 신자여서요ㅎ
+P1 	: 아 기독교시군요
+P1 	: 일욜에 교회나가시나요?
+P0 	: 요즘에는 온라인으로 모임해요
+P0 	: 그래도 가족과 함께 신앙생활을 하면 좋더라고요
+P1 	: 믿음이 있음 든든한가봐요 의지도 되고
+P0 	: 네 종교는 다른 것 없이 그 믿음 때문인 것 같아요ㅎ
+P0 	: 근데 너무 잘못된 종교인이 많아요ㅠ
+P1 	: 강요만 안하고 혼자믿음 좋은데 안그런경우가 많아서
+P0 	: 맞아요. 믿음이 어디 쉽나요.
+P0 	: 종교보다 그런 사람들이 문제예요
+P1 	: 종교는 개인의 자유니까요ㅎ 범죄저지르고 그런경우도 많아서 부정적으로 보게 되더라구요
+P0 	: 그래서 교회에서도 사람 모임은 전혀 안 하는 편이에요ㅋ
+P1 	: 코로나로 위험하니 모임은 자제하는게 좋을것같아요
+P0 	: 맞아요 교회에서도 너무 많이 확진자가 나왔어요

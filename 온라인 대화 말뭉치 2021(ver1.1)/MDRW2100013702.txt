@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013702
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 하지요. 집안일 중에 어떤 게 제일 귀찮으세요?
+P0 	: 화장실이 대박이죠
+P1 	: 락스청소 해야는데 힘들어요
+P0 	: 락스냄새싫어요
+P1 	: 맞아요ㅠ
+P1 	: 청소해도 금방 또 더러워지고
+P0 	: 표가 안나요
+P1 	: 한 이틀 반짝ㅋㅋ
+P1 	: 근데 집안일이 다 그런 것 같아요
+P0 	: 무한반복중
+P1 	: 생각난김에 전자렌지 청소도 좀 해야겠네요
+P0 	: ㅎㅎ
+P1 	: 전자렌지 오래되서 그런지 청소해도 티가 잘 안 나요
+P0 	: 색이 바랬나오?

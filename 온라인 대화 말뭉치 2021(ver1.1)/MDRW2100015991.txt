@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015991
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 가보고 싶은ㅁ여행지 있어?
+P1 	: 디즈니 랜드 가보고 싶다
+P0 	: 디즈니랜드는 어떤 나라에 있어?
+P1 	: 일본에도 있고 홍콩도 있고
+P0 	: 나도 여행가서 그런 디즈니랜드나 유니버셜가는게 좋더라
+P1 	: 그치 영국에있는 해리포터 스튜디오도 꼭 가보고싶어
+P0 	: 나도 그거 찾아본적 있어. 진짜 같이 구현해놔서 꼭 가보고싶더라
+P1 	: 도쿄에도 해리포터 스튜디오 오픈할 예정이래
+P0 	: 아 정말? 우리나라는 들어올 계획 없나?
+P1 	: 우리나라는 그런 관광지는 안생길것 같아ㅜ
+P0 	: 나는 괌도 여행가보고 싶더라
+P1 	: 괌이나 하와이 같은 곳 여행가보고싶다
+P0 	: 나도 그런 휴양지 가보고 싶어
+P1 	: 그런 풍경 좋은곳에서 수영하면 되게 좋겠다

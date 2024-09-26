@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002230
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤음료좋아해?
+P1 	: 나는 오렌지쥬스!
+P0 	: 오렌지쥬스맛있지ㅋㅋㅋ
+P1 	: 콜라 좋아했었는데 너무 많이 마셔서 안 먹으려고 노력 중ㅜ
+P0 	: 나는 미닛메이드나 아침에쥬스 쌓아두고먹어
+P0 	: 제로콜라는 괜찮지않을까..?ㅋㅋㅋ
+P1 	: 와 나 미닛메이드 완전 좋아해ㅠㅜ 그 새콤함이 너무 좋아ㅜ
+P1 	: 제로콜라 맛있긴한데 걍 아예 입에도 안 대려고ㅠㅜ
+P0 	: ㅋㅋㅋ 다이어트에방해되긴해 단음료가
+P0 	: 카페가도 에이드같은거안먹으려구 나두ㅠㅠ
+P1 	: ㅋㅋㅋㅋ난 커피 잘 안 마셔서 카페가면 오곡라떼, 레몬에이드같은것만 마셔ㅋㅋ
+P0 	: 글쿠나 오곡라떼도 좋아 나ㅠㅠㅋㅋㅋ
+P1 	: 고소해서 좋지ㅠㅜ미숫가루도 좋아해 나ㅋㅋ
+P0 	: ㅋㅋㅋ미숫가루맛있지!! 난무조건 우유에타야해ㅋㅋㅋ
+P1 	: 당연하지ㅋㅋ미숫가루는 우유에,,  공식아님?ㅋㅋㅋㅋㅋ
+P0 	: 가끔 물에타도된다는 사람들이있어서ㅋㅋㅋ 뭘좀아는구나
+P1 	: 물에 타면 맛이 맹하잖아ㅠㅜ 우유가 최고임ㅋㅋㅋ

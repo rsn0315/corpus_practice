@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005274
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 농림/어업/임업 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 제주도 좋니?
+P0 	: 제주도 여행지로 어때?
+P1 	: 제주도!! 좋지
+P0 	: 한라산 가봤니?
+P1 	: 아니 힘들다던데??
+P0 	: 그러면 어디가 좋아?
+P1 	: 제주도의 어디가 좋냐구?
+P0 	: 응
+P1 	: 흠 나도 가족들이 가자는 곳을 가서 잘 몰라
+P0 	: 올레길 좋다던데
+P1 	: 너는 역시.. 걷는걸 좋아하는군
+P0 	: 안가봤니?
+P1 	: 차타고만 다녀서 안가본듯?
+P0 	: 차타는게 더 좋다! ㅎㅎ

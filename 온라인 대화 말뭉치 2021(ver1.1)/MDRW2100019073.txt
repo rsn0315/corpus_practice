@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100019073
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 안녕하세요
+P1 	: 밥드셨나요
+P0 	: 네 ㅜㅜ &name2&님도 드셧어요??
+P1 	: 헐.. 저 아직 안 먹엇어요
+P1 	: 닉값하죠
+P0 	: 헉..다이어트하시나요??
+P1 	: 뭐드셨어요
+P1 	: 아니요ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 저는 비빔국수에 오리고기랑해서 먹었어요
+P1 	: 대박 맛있는거 드셨네
+P1 	: 저는 배달음식 먹고싶은데
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ 아니군요 ㅋㅋㅋ
+	  ㅋㅋㅋㅋ많이 바쁘신가보다 ㅋㅋㅋ
+P0 	: 네네
+P1 	: 뭐 시켜먹을지 고민이이요
+P1 	: 추천하는거 있으세요
+P0 	: ㅋㅋㅋㅋㅋ 오늘은 불금이니까 치킨??
+P0 	: ㅋㅋㅋㅋㅋ
+P1 	: 헐~ 치킨도 좋지
+P1 	: 치킨 머가 좋을까요
+P0 	: 그럼 지금 드시는건가요??
+P1 	: 네
+P1 	: 너무 이른 치킨인가요?
+P0 	: 저는 가성비를 추구하는데 엄마가 제대로된거 시키라고 늘 말씀하셔서 
+	  bbq 후라이드나 bhc 후라이드 생각중이에요 ㅋㅋ 교촌이나 60계 간지치킨도 먹고싶어지네요

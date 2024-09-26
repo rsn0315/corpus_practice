@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 식사 하셨나요?
+P1 	: 아직이요. 식사하셨어요?
+P0 	: 저도 아직 안 했어요 아침을 잘 안 드시는 편인가요?
+P1 	: 아니요. 아침 잘먹는편인데 ㅋ이제 해야돼요. ㅠㅋㅋㅋ
+P0 	: 아침 메뉴가 뭔가요?
+P1 	: 콩나물국이랑 두부야채전이요ㅋ
+P0 	: 콩나물국 너무 맛있겠어요
+P1 	: 점심 뭐드세요?ㅋ
+P1 	: 네 맛있어요ㅋ
+P0 	: 점심... 짜장면 먹을까 생각 중이에요
+P1 	: 저는 고민고민이네요ㅋㅋㅋㅈ
+P0 	: 식사 메뉴 정하기가 참 어려운 거 같아요
+P1 	: 잡채밥먹을것같은 느낌이에요ㅋㅋ
+P0 	: 잡채밥이요? 시켜 드시는 건가요 집에 있는 거 드시는 건가요
+P1 	: 맞아요. 해먹어야되서 더 그런것같아요
+P1 	: 집에 있는걸로 먹어요ㅋㅋ
+P0 	: 아하 그러시구나

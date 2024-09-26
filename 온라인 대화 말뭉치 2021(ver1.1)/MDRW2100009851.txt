@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 요즘 어떤 옷 입으세요?!
+P1 	: 오늘부터 날이 쌀쌀해서 긴 팔 입었어요!
+P0 	: 저도 날이 쌀쌀해서 내일부터 긴팔 입을까 고민중이었어요
+P0 	: 날이 너무 변화무쌍한 것같아요
+P1 	: 맞아요.. 또 태풍이 온다고 해서 옷을 어떻게 입어야하나 걱정이에요 ㅠㅠㅠ
+P0 	: 맞아요 저는 추위를 많이타서 외투필수인것같아요
+P1 	: 맞아요 더우면 벗고 추우면 입을 수 있게 가디건 같은거 챙겨야겠어요
+P0 	: 운동은하시나요?
+P1 	: 저는 지금 딱히 하고있는 운동은 없고 런데이 할까 생각중이에요!
+P0 	: 런데이가 그 애플워치로하는건가요?
+P1 	: 워치로도 되고 핸드폰 어플로도 깔아서 할 수 있어요!
+P0 	: 아하 달리기하는거 측정하는건가요?
+P1 	: 네 그런것도 있고 음성으로 알려줘요 ㅋㅋㅋ 뛸때 뛰라는거랑 걸으면서 쉬라고 할 때 전부다요~
+P0 	: 와 신기해요 저도 해봐야겠어요!

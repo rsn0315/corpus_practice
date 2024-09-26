@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100020973
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 연애중이신가요?
+P1 	: 안녕하세요
+P1 	: 연애 안합니다!
+P1 	: &name1&님은 연애중이신가요?!
+P0 	: 네! 연애중이에요
+P0 	: 이상형 있으세요?
+P1 	: 저는 이상형은 딱히 없어요
+P1 	: 이상형이있었는데
+P1 	: 막상 만나는사람은 그 반대더라고요
+P1 	: &name1&님 애인분은 &name1&님 이상형과 비슷한가요?
+P0 	: 저도 다르더라구요
+P0 	: 이상형은 정말 이상형일뿐이구나 싶긴해요
+P1 	: ㅋㄲㅋㅋ그쵸ㅠ
+P1 	: 연애한지 얼마나 되셨어요?!
+P0 	: 저는 5년됐어요!
+P1 	: 우와 오래만나셨네요!!
+P1 	: 결혼생각도 종종 드시나요?
+P0 	: 음 아직은 안드는것 같아요
+P0 	: 결혼은 현실인 느낌이랄까요
+P1 	: 그쵸ㅠ
+P1 	: 저는 결혼은 둘만하는게 아니라 가족끼리 결합이라고 생각했어요
+P0 	: 저도요ㅠ
+P0 	: 쉬운게 아니구나하고 느끼고 있어요
+P1 	: ㅠ 커플링 언제맞추셨어요?!
+P1 	: 저는 1년때맞추고 쭉 꼈었는데
+P1 	: 오래만나면 한번 바꾸기도한다더라고요?!
+P0 	: 저는 안맞췄어요!

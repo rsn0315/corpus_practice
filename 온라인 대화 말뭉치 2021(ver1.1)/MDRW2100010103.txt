@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 엄청 좋아하죠 그래서 지금 여행 못가는 상황이 너무 슬퍼요
+P0 	: 저도
+P1 	: 특히 해외여행이요 
+	  
+	  수십개국 다녔었는데 이젠 해외는 진짜 가기 힘들어질거 같아서 아쉬워요
+P0 	: 언제쯤이면 될지
+P1 	: 님께서는 해외여행 어디 가보셨나요?
+P0 	: 호주요
+P1 	: 호주는 안가봤는데 부럽네요~^^ 시드니 가보고 싶었는데..
+	  호주 전국일주 같은 거 하신거예요?
+P0 	: 브리즈번이랑 7일정도
+P1 	: 와우~ 전 주로 유럽이랑 동남아쪽을 다녀서 / 남반구쪽 여행을 너무 해보고 싶었는데/ 그래서 호주랑 뉴질랜드 진짜 가고팠거든요~ 호주 여행시 가장 기악남는 게 있으신가요?
+P0 	: 오페라하우스요
+P1 	: 제 동생도 몇년전에 호주 여행 갔었는데 오페라 하우스에서 찍은 사진 보니 부럽더라구요 / 지금 호주는 겨울이겠네요
+P0 	: 네ㅜ그렇겠네여

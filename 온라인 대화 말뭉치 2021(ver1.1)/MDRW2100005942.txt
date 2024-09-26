@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005942
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 무슨 음식 좋아하세요
+P1 	: 저는 삼겹살 햄버거 좋아해요ㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 오 저도 삼겹살!!!! 고기최곱니다ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ고기가 최고쵸
+P1 	: 삼겹살 뭐 찍어드세요
+P0 	: 와사비죠 ^^ 고기는 와사비
+P0 	: 님은요??
+P1 	: ㅋㅋ저는 기름장이요
+P1 	: 와사비에 명이나물도 좋긴하져
+P0 	: 오 명이나물 못참죠
+P1 	: 예전엔 삼겹살 막 구워먹었는데
+P1 	: 요새는 고급?스러운 삼겹살집이 많이 생겼더라고요ㅋㅋ
+P0 	: 어맞아요 ㅋㅋㅋㅋ 근데 가끔 저렴한것도땡길때도있어요 ㅋㅋ
+P1 	: 무한리필집도 가시나요?
+P0 	: 아 그럼요 ㅋㅋ 가끔 싸구려땡길때
+P1 	: ㅋㅋㅋ저도요ㅋㅋ
+P1 	: 그런 곳은 된장찌개도 msg맛나서 좋음
+P0 	: 아 인정합니다 ㅋㅋㅋ MSG못참죠

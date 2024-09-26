@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041223
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가을에 나들이하고 싶은 곳이 있으신가요?
+P1 	: 글쎄요 어디 못 간지 꽤 됐는데 어디 큰 공원이라도 가고 싶네요 ㅎㅎ 집앞 공원 말고요
+P1 	: &name1&님은 가시고 싶은 곳 있으신가요?
+P0 	: 맞아요 가을엔 공원만 가도 좋죠
+P0 	: 저희 집 앞에 꽤 큰 공원이 있는데
+P0 	: 코로나 거리두기 때문에 출입구를 다 막았어요ㅜ
+P1 	: 앗ㅠㅠ 큰 공원은 그런 문제가 또 있군요
+P0 	: 네 지난번에 공원에 갔다가 나오는 곳이 막혀서 한참 돌았어요ㅜ
+P0 	: 딱 나들이하기 좋은 날씨인데 요즘ㅠ
+P1 	: 그러니까요ㅠ
+P1 	: 어디 가까운 곳이라도 가고싶네요..
+P0 	: 네 가까운 곳 나들이라도
+P0 	: 가고싶어요
+P1 	: 가장 최근에 여행 가신 곳은 어디인가요?
+P0 	: 최근엔 주로 당일치기로 근처 다녔어요
+P0 	: 여행이라 할만한 건..  남이섬?
+P1 	: 남이섬도 좋죠ㅎㅎ 나무들이 멋지더라구요
+P0 	: 네 플라타너스나무던가요?
+P0 	: 길쭉길쭉한 나무가 줄지어 있는 게 장관이죠
+P1 	: 계절마다 다르게 예쁠 것 같아요
+P0 	: 네 저는 봄에 가서 겹벚꽃 봤는데
+P0 	: 가을 단풍도 멋있다고 그러더라고요
+P1 	: 전 5월쯤 갔었는데 그때도 좋더라구요

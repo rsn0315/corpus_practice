@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027008
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&은 좋아하는 계절 있나요?
+P1 	: 저는 겨울이 더 좋더라구요
+P0 	: 오.. 그렇군요.. 추위 안타나봐요?
+P1 	: 추위는 옷입으면 해결이 되지만 여름은 어쩔수가 없으니 더 그런거 같아요
+P1 	: 여름도 여름 나름의 매력이 있기는 하죠!
+P0 	: 아.. 그이야기 많이들었어요.. 추우면 옷입으면 된다고..ㅎㅎ
+P0 	: 그래서 옷을 많이입으면 움직임이 좀 둔해지지 않나요?
+P1 	: 음 근데 움직일일 있으면 어차피 한겹벗으면 되죠
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ이불같은 것도 겨울이불 약간 무거운걸 좋아해서
+P0 	: 아.. 그건 그래요.. 저도 무거운 이불이 포근하니 좋더라구요
+P1 	: 맞아요 여름도 먹을게 많아서 좋아합니다
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 콩국수 사랑해...
+P0 	: 계절하면 음식도 빼놓을 수 없죠
+P0 	: 한국이 4계절이 있어서 다양한 먹거리 있는건 좋아요
+P1 	: 맞아요 이제 또 가을이니까 또 선선해져서 많이 먹으러 다닐 수 있죠
+P1 	: 어제 오늘 갑자기 비내리더니 확추워졌더라구요
+P0 	: 맞아요.. 이럴때 감기 조심해야해요
+P1 	: 진짜 이제 가을같아요 완전 선선~
+P1 	: 밖에 걸어다니기도 좋구
+P0 	: 비 좀 그만오고 진정한 가을을 즐기고 싶네요

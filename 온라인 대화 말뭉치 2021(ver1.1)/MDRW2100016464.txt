@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016464
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 온라인 커뮤니티 해 본 적 있으세요?
+P1 	: 네 많이해요
+P0 	: 거기선 주로 어떤 얘기 하나요?
+P1 	: 주식이랑 코인 얘기요
+P0 	: 오 그렇군요
+P0 	: 그런 쪽에 관심이 많으신가봐요
+P1 	: 부자되고싶어서요
+P1 	: 님은요?
+P0 	: ㅋㅋㅋ부자되면 좋지만 코인이랑 주식엔 관심 없어요
+P0 	: 근데 요즘엔 다들 많이들 하더라고요
+P1 	: 정모해보셨나용
+P0 	: 아뇨 인터넷에에 알게된 사람 실제로 만나는 건 꺼려지더라고요
+P0 	: &name2&님은요?
+P1 	: 저도요ㅋㅋ 두려움이 있어요
+P0 	: 아무래도 어떤 사람이 나올지 모르니까 그런거같아요ㅋㅋ
+P0 	: 커뮤에서 주식이랑 코인야기하는게 투자에 많이 도움이 되나요?
+P1 	: 좀 돼요!

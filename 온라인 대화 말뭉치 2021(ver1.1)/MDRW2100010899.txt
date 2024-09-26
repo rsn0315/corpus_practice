@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010899
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하세요?
+P1 	: 아시면서
+	  저 무지 많이 사댑니다. ㅎ
+P0 	: 저도요ㅎ 삶의낙
+P1 	: 오늘은 뭐샀어요?
+	  전 자동차 와이퍼 샀어요.ㅎ
+P0 	: 전 침구샀어요
+P1 	: 어디서 사셨어요?
+	  
+	  저도 침대패드를 바꾸고 싶은데요.
+P0 	: 쓰임 아세요?
+P0 	: 거기서 자주 사요
+P1 	: 아뇨. 처음 들어봤어요.
+	  기억할게요. 검색도 해보기ㅡ
+P0 	: 네 온라인 오프라인 있어요
+P1 	: 비싼가요.
+	  질도 중요하지만 가격도 중요함.
+P0 	: 싼편은 아닌데 질이 좋아요
+P1 	: 아.. 믿고 구매해볼게요.
+	  베개커버도 바꿔야하거든요.
+P0 	: 가끔 이부자리에서도 사고요ㅎ

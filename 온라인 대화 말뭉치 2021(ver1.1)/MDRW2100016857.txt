@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016857
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 제주도 가보셨나요?
+P0 	: 네 엄청 오래전에요
+P0 	: 제주도 가보셨어요?
+P1 	: 저는 업무 차 3~4번 갔고 가족과 지인들과 여러번 갔나봐요.
+P0 	: 오 제주도 많이 가시네요 어디가 젤 좋으셨어요?
+P1 	: 저는 산방산 아래
+	  용머리해안요.
+P0 	: 오 저도 가봤어요 거기 어떤점이 좋으셨어요?
+P1 	: 자연지형이 가장 제주도 스러웠어요. 제주도에서만 볼 수 있는 주상절리도 좋았구요.
+P0 	: 제주도 현무암인가요? 그 특유의 검은 돌이 정말 매력있어요
+P1 	: 네. 용두암도 무료 관광지 치고는 넘 근사한 거 같아요.
+P0 	: 전 한라산 한번 가보고 싶어요
+P1 	: 한라산 올라가봤어요.
+	  한겨울에도 가봤구요.ㅎ
+P0 	: 와 장비 다 있으셨어요?
+P1 	: 그냥 운동화에 아이젠 붙여서 갔어요.ㅎ
+P0 	: 오 그렇게만 가도 괜찮았나요?
+P1 	: 좀 힘들긴했는데
+	  제가 힘듦을 잘견디나봐요.ㅎ
+	  영실 쪽에서 가는 길은 막혀서 다른 길로 갔어요.

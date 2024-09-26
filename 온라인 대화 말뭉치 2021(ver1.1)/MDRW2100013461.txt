@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013461
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~식사하셨나요?
+P1 	: 아르바이트 해야해서 일찍먹어요!
+P0 	: 아 아르바이트하세요? 어떤일하세요?
+P1 	: 전 카페요! 아르바이트하세요?
+P0 	: 아 카페~ 저도 카페에서 1년넘게 했었는데 ㅋㅋㅋ
+P0 	: 아뇨 저는 직장다니고있습니다
+P1 	: 카페아르바이트 하시면 커피 좋아하시나요?
+P0 	: 그때는 안좋아해서 잘 안먹었는데 지금은 돈주고 사먹는경지에 이르렀네요
+P1 	: 업무 스트레스 많으세요?
+P0 	: 네,,,아무래도,,,
+P0 	: 그만두고싶은마음은 큰데 월급들어오면 또 못그만두겟드라구요
+P1 	: 이직 생각은 안해보셨어요?
+P0 	: 해봣는데 다 거기서거기같아요 ㅋㅋㅋㅋ 그래서 그냥버텨요
+P1 	: 인턴은 해보셨나요?
+P0 	: 아뇨 저인턴안해봣어요
+P0 	: 5인미만사업장에서 일해가지고,,
+P0 	: 큰곳에서 일해보고싶긴해요

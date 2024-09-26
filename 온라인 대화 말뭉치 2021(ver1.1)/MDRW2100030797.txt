@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100030797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요:)
+P0 	: 요새날씨가좋죠
+P1 	: 네:) 가을이 오려나봐요
+P0 	: 학교다니세요?
+P1 	: 아니요:) 졸업한지 10년도
+	  더 되었네요 ㅋㅋ
+P1 	: 학생이신가요?
+P0 	: ㅎㅎㅎ저는한2년됬어요
+P0 	: 같이과거를떠올려볼까요ㅎㅎ
+P1 	: 전공이 뭐였어요? :)
+P0 	: 저는 보건계열이었어요!
+P0 	: 시험이잦았죠
+P1 	: 학업 스트레스도
+	  많으셨겠게요ㅠ
+P1 	: 동아리 활동도 하셨었나요?
+P0 	: ㅎㅎㅎ안받으려고노력했어요
+P0 	: 저는봉사동아리했어요!
+P1 	: 오 과에서 해야하는거였나요?
+P1 	: 아님 자의로 하신거에요?
+P0 	: 다들하나씩하길래ㅎㅎ저도선택해서들어갔어요
+P0 	: 동아리활동하셨나요?
+P1 	: 아름다운 선택을 하셨네요:)
+P1 	: 네ㅋㅋ
+	  저는 종교 동아리였습니당

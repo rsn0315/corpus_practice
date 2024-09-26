@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011609
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강 챙기시나요?
+P1 	: 네 설탕든거 잘 안먹고 밀가루음식 잘안먹고 그런거는 해요
+P0 	: 저도 탄수화물, 당 조심하고있어요
+P1 	: 그러시군요 평소에 좋은 습관을 들이는건
+P1 	: 해볼만하다 생각해요
+P0 	: 맞아요
+P0 	: 영양제 드시나요?
+P1 	: 아뇨 있는데 안먹어요 ㅜㅠ 먹어야겠어요
+P0 	: 저는 마그네슘,아연, 비타민c, 비타민d, 오메가3 먹어요 님은요?
+P1 	: 안먹어요 ㅠㅠㅠ 잘챙겨드시네요
+P0 	: 오래살고싶어서요..ㅎ
+P1 	: 네 오래살아야죠
+P1 	: 잘하고계십니다
+P0 	: 운동 하시나요?
+P1 	: 요즘엔 안해요 예전엔 수영했어요
+P0 	: 수영 멋있네요

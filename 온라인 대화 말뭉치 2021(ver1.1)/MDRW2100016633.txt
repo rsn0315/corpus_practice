@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016633
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 로제떡볶이 좋아하시나봐요
+P0 	: 네 드셔보셨어요??
+P1 	: 아직이요 맛있나요?
+P0 	: 네 신전로제 맛나요 드셔보세요
+P1 	: 신전이 맛있군요! 친구말로는 배떡이 맛있다던데
+P1 	: 드셔보셨나요?
+P0 	: 배떡 많이 먹었죠 근데 떡군이네 표절이라서요 ㅠㅠ
+P1 	: 헉 그렇군요...
+P0 	: 넵 ㅠㅠ
+P1 	: 표절 음식이 유명하다니ㅠㅠ
+P0 	: 떡군이네 직원이 레시피 훔쳐가서 오픈한 가게가 배떡이래요 ㅜㅜ
+P1 	: 진짜 양심없다...
+P0 	: 그러니말이에요 ㅠㅠ

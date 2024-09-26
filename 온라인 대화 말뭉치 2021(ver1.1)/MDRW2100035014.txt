@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100035014
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 마스크스트랩은 6천원인데
+	  배송비가 또 붙더라고요.
+	  
+	  별로 안사고싶엇어요
+P1 	: 어머나
+P0 	: 실리콘재질이라 너무 아끼면 안되겟더라고요.
+P1 	: 홀맨이 아니더라도
+	  다른 마스크스트랩들도 넘 비싼거같아요
+P0 	: 열심히 씁시당.
+P1 	: 그래야겠어요
+	  사실 물건 아껴도 나중에 쓰지 않더라구요
+	  있을때 바로 쓰는게 제일 좋은거같아요
+P0 	: 저는 실리콘재질이면 얼른써버리는편이에요
+P1 	: 실리콘재질은 빨리 쓰느게 정답이군요
+P0 	: 나중에 기름같은게 뜨더라거여
+	   동생이 너무 아끼길래 얼른 뜯으라고 했엇어요.
+P1 	: 저도 그냥 꺼내써야겠네요
+	  아낄 필요가 없겠어요
+P0 	: ㅋㅋㅋㅋ 그리거 볼펜도 열심히쓰세여..
+	  ㅋㅋㅋ 잘나오고 귀엽고 좋아요
+P1 	: 벌써 써보셨군요!
+P0 	: 나중에 안나오면 맘아파요..

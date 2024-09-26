@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005094
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P1 	: 안녕하세요
+P0 	: 지금 학교다니세요?
+P1 	: 아뇨ㅎㅎ 직장인입니다 학교다니세요?
+P0 	: 네ㅔ 고딩이에요
+P1 	: 코로나때문에 학교생활 더 힘들거같아요
+P0 	: 맞아요 학교도 반만 가고 반애들이랑도 친해지기 힘들어요
+P0 	: 학교가는 날은 거의 수행평가 아니면 시험이니까
+P0 	: 시험장을 가는건지..학교를 가는건지 
+P1 	: 학교생활 돌이켜보면 너무 짧은 순간이라 더 안타까워요ㅠ
+P0 	: 고등학교를 추억할 거리가 없는게 진짜 슬픈거 같아요
+P1 	: ㅠㅠ한번뿐인데 말이에요ㅠㅠ벌써 2년이니 이러고 있어서
+P0 	: 실제 친구얼굴을 못보고 지나가네요
+P1 	: 그럼 수학여행도 없는건가여? 2학년때 갔던거같은데..
+P0 	: 네ㅠㅜㅜㅜ 선생님들이 어떻게든 보낼려고 국내로 수요조사하시고 2021계획표짜실때 12월에 넣어두샸는데...
+P0 	: 못갈거 같아요...
+P1 	: 아이고ㅠㅠ진짜 저도 속상하네요ㅠㅠ

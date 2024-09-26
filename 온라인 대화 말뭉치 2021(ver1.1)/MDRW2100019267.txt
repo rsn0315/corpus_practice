@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100019267
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 자주 하시나요
+P0 	: 원래 잘 안하는데 최근에 이사하느라 좀 많이했어요
+P0 	: &name2&님은요?
+P1 	: 전 좋아해서 마구 사요ㅠ
+P0 	: 앗ㅋㅋㅋ&name3&는 강아지인가요?
+P0 	: 강아지 용품 많으시겠어요
+P1 	: 지금 강아지는 &name4&
+P1 	: 강아지 간식 많이 사요
+P0 	: 아하 그럼 &name3&는 누구인가요..!
+P1 	: &name3&는 예전에 키우던 강아지여
+P0 	: 앗 글쿤요 &name3&나 &name4& 둘다 넘 귀엽겠어요
+P0 	: 저는 고양이 기르는데 안그래도 지금 고양이 간식 사야해요 ㅠㅠ
+P1 	: 앗 고양이는 어떤가요?
+P1 	: 기르기 괜찮나요?
+P0 	: 네네ㅋㅋㅋ 제가 집순이라서 잘맞더라구요
+P0 	: 매일 고양이 용품들 사서 오늘도 츄르배송왔네요
+P1 	: 저도 강아지 간식샀어요

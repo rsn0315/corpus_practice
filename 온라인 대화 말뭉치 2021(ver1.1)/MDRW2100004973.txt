@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100004973
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 !
+P0 	: 넷플릭스 보시나요?!
+P1 	: 아니요  전 티빙 써요! &name1&님은 드라마 보시나요?
+P0 	: 드라마 좋아해요 저는 추리물을 자주 봐요ㅎㅎ
+P0 	: &name2&님은 어떤 드라마 장르 좋아하시나요?
+P1 	: 오 저는 로맨스도 좋아하고  법정,수사,추리물 이런것도 좋아해요!  요즘에 드라마 뭐 보세요?
+P0 	: 요즘에는 최근 드라마보다는 보던걸 위주로 또 보고있어요
+P0 	: 법정드라마 좋아하시면 비밀의 숲이나 시그널도 보셨나요?!
+P1 	: 아니요ㅜㅜ 못봤어요  저는 최근드라마 보느라고.. 로스쿨, 마녀의법정, 친애하는 판사님께 이런건 봤어요!
+P0 	: 셋다 들어본 작품이에요ㅎㅎ
+P0 	: 혹시 셋 중에 제일 추천하는 드라마가 어떤건가요?
+P1 	: 로스쿨이요!!
+P0 	: 로스쿨 재밌다는 얘기 많이 들었는데 꼭 한번 봐야겠어요ㅎㅎ
+P0 	: 요즘에 자주 들으시는 곡 있으세요?!
+P1 	: 요즘에  슬기로운 의사생활2 ost 듣고 있어요 슈퍼스타 라는 노래 좋더라구요!
+P0 	: 저도 그 노래 잘 듣고있어요 !
+P0 	: 슬기로운의사생활 ost 다 좋더라구요..
+P1 	: 맞아요!
+P0 	: 출연진분들이 다 노래를 잘해서
+P0 	: 좋더라구요..밴드 부분 너무 좋아해요 ㅎㅎ
+P1 	: 저두요 밴드부분 좋아해요!

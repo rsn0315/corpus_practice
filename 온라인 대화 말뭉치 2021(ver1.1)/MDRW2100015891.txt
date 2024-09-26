@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015891
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P0 	: 안녕하세용!
+P0 	: 최근에 구매하신거 있으세용?
+P1 	: 아니요 요즘 쇼핑한지가 오래되어서..
+P0 	: 아항..
+P1 	: &name1&님은요?
+P0 	: 저는 무릎이 아파서
+P0 	: 스탠드 청소기밀대 샀아용
+P1 	: 구매 후 어떤가요?
+	  사용해보니 편리하셨나요?
+P0 	: 아직 한번밖에 사용은 안해봤는데
+P0 	: 무릎안닿으니까 좋아요ㅋㅋㅋ
+P1 	: 오 무릎이 편안하다면 좋은거네요
+	  목적을 이루었으니까요ㅎㅎ
+P0 	: 넵ㅋㅋㅋ 좋은 소비였다고 생각합니당
+P1 	: 청소기밀대말고 또 구매하신거 있으신가요?
+P0 	: 침대옆에두는 스탠드조명 샀어용
+P1 	: 스탠드조명 있으면 좋을꺼 같아요

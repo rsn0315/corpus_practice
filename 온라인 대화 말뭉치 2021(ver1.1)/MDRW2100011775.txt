@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 구매하신 물건이 있으신가요?
+P0 	: 신발 샀습니다!
+P1 	: 어느 사이트를 통해 구매하셨나요?
+P0 	: 해외직구 했습니다
+P1 	: 요즘 해외직구 빨리 오나요?
+P0 	: 네네 빨리오더라구요 구매하신거 있나요?
+P1 	: 저는 예전에 무선 이어폰? 주문해봤어요
+P0 	: 애플 제품인가요?
+P1 	: 네네ㅋㅋ 선물용이라 빠르게 시켰었는데 신속하게 와서 놀랐어요
+P0 	: 에어팟이진짜 좋은것같아요
+P1 	: 에어팟 프로 노이즈캔슬링 정말 대박이에요ㅠㅠ
+P0 	: 삼성이 그건 못따라가는듯해요ㅠ
+P1 	: 노이즈캔슬링은 에플이 위죠ㅠㅠ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022974
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 스테이크 구웠습니다!
+P0 	: 우와아아아 스테이크!!! 직접 구우신거에요?
+P1 	: 넹넹 ㅋㅋ 걍 굽기만 했습니다
+P1 	: 요즘 참 간편해요 밀키트
+P0 	: 오 밀키트셨구나! 저 아직 밀키트 안사봤는데 ㅋㅋ 추천해주세료~
+P1 	: 프레시지거가 전반적으로 괜찮은거같아요! ㅋㅋ
+P0 	: 프레시지! 기억해둘게요 ㅋㅋ 밀키트로는 어떤 음식들 먹어봤어요?
+P1 	: 감바스 ..스테이크.. 밀푀유나베 타이음식 뉴들 그거뭐더라..그런거요 ㅋㅋㅋㅋ
+P1 	: 샤브샤브랑..
+P0 	: 헐 대박 다 맛있을것같아요 밀푀유나베는 그대신 집에 큰.냄비가잇어야겠네용? ㅜ
+P1 	: 마자요..근데 전 없어서 금냥 야매로 머것습닏다 ㅋㅋㅋㅋㅋㅋ
+P1 	: 만두전골같은거두 먹어봤고ㅋㅋ
+P0 	: 오올ㅋㅋㅋ&name2& 왠지 요리고수의 향기가 납니다 ㅋㅋㅋ
+P1 	: 헷 헷 ㅋㅋㅋㅋ 그건 전혀 아닙니다~
+P0 	: &name2&은 스테이크 굽기는 어느정도를 좋아하세요?
+P1 	: 레어~ 미디움레어? 조아해요 ㅋㅋㅋㅋ

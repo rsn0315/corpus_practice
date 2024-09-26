@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011447
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 배달 음식 시켰는데 아직 안오네요
+P0 	: 어떤거요?
+P1 	: 치킨시켰어요ㅋ 감자붙어있는
+P0 	: 아 맛있겠다나겎
+P1 	: 코로나 없어지면 맛집 탐방 하고프네요
+P0 	: 저도요
+P1 	: 회사 점심시간에 매일 배달음식 시켜먹는데
+P1 	: 지겹네요ㅠㅠ
+P0 	: 식당가기 힘들죠
+P1 	: 네 차타고 나가고 기다리고 하면 시간 얼마안남아요
+P0 	: 그런가요
+P1 	: 12시까지 배달음식오니 그건 좋아요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100034685
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아마 그렇지 않을까요?
+P1 	: 친구가 베이킹 좋아하는데, 나눠주는것도 좋아하더라구요
+P0 	: 항상 궁금했어요 ㅋㅋ
+P0 	: 근데그럼 사먹는게 더 싸지 않나요??!! 그냥 취미인건가요
+P1 	: 취미로 하더라구요
+P0 	: 오호 그렇군요
+P0 	: 재밌을거같긴해요
+P1 	: 자주 만들면 대량으로 재료들 사니까
+P1 	: 여러 번 만들고 많이 만들면 만드는게 더 경제적인거같기도 하더라구요
+P0 	: 아  그렇겠네요
+P0 	: 저는 어렸을때 케익데코하는 동아리 들었었어요 ㅋㅋㅋ
+P1 	: 오 재미있을것 같아요!
+P0 	: 재밌었어요
+P0 	: 가장 인기있는 동아린데 운좋게 들어갔죠 후후
+P1 	: 케익 데코 동아리면 데코만 하는건가요?
+	  아니면 직접 만들고서 데코까지 하나요?
+P0 	: 그냥 데코만해요 ㅋㅋㅋ 시트는 주구요
+P1 	: 그렇군요ㅋㅋㅋ
+	  다 하기에는 시간이 오래 걸릴거 같아요
+	  데코하려면 미적 감각이 좀 필요하겠어요
+P0 	: 근데사실 중학교때 한거라 다 수준이 똑같았어요 ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ 그래도 만드는 과정의 의미를 두고 하는거죠
+P0 	: 맞아요 ㅋㅋㅋㅋ

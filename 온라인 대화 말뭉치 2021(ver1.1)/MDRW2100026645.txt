@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100026645
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여항가도 제출할게많죠
+P0 	: 서류들 여권
+P1 	: 자동으로 나오네요
+P1 	: 여행도 자동으로 갈 수 있죠
+P0 	: 제가 제출하는거죠
+P1 	: 아..
+P0 	: 이번에 비자 제출 해보세요
+P0 	: 기념품사세요
+P1 	: 여권부터 만들어야겠네요
+P1 	: 여권 비자
+P1 	: 기념품은 가이드만 좋음
+P0 	: 여권만들고 계획잡고 여행사 끼고
+P1 	: 관광명소 검색하고
+P0 	: 지도어플 필수
+P1 	: 지인 추천코스도 필수
+P0 	: 음식도 필수 밥먹고 영수증 제출 해보세요
+P1 	: 네이버로 여행지 검색하고
+	  네이버에 제출하고

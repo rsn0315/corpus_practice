@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020763
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 봉사 하시나요?
+P1 	: 안녕하세요~~! 예전엔 했었는데 지금은 못 하고 있네요 &name1&님은요?
+P0 	: 저는 지금 하고 있어요!
+P1 	: 헉 어떤 봉사를 하시나요?!
+P0 	: 아름다운 가게에서 봉사하고 있어요
+P1 	: 우와 좋은일 하시네요!!
+P1 	: 저는 예전에 연탄봉사를 했었어요!
+P1 	: ㅎㅎ
+P0 	: 오르막길에 연탄들고 오르시는 봉사 맞을까요?
+P1 	: 아 네! 맞아요!!
+P1 	: 저는 근데 일반 평지로도 갔었어요!ㅋㅋㅎㅎ
+P0 	: 그나마 다행이네요ㅠㅠ 추운 날씨에 의미있는 봉사 하셨네요
+P1 	: ㅋㅋㅋㅋㅎㅎ 맞아요! 엄청 즐거운 경험이었답니다!
+P1 	: 다른 봉사는 어떤 걸 해보셨나요?
+P0 	: 복지관에서 잠깐 했었어여
+P1 	: 우와 복지관은 무슨 일을 하나요? 봉사할때??
+P0 	: 프로그램을 짜는 걸 돕거나 실행에 일손을 거들어요ㅎㅎ

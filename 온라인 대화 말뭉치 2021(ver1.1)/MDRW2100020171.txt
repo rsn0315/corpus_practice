@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100020171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요! 점심 드셨나요?!?
+P0 	: 네! 바빠서 컵라면 먹었네요
+P0 	: 점심드셨어요?
+P1 	: 아니요 아직요!
+P1 	: 어떤 컵라면 드셨어요?!
+P0 	: 저는 육계장 작은컵이요!
+P0 	: 컵라면 자주드세요?
+P1 	: 아 역시 컵라면은 육개장이죠ㅋㅋ
+P1 	: 아니요ㅋㅋㅋ 라면을 그렇게 자주 먹진 않아요
+P1 	: 가끔 먹어야 맛있어요!
+P0 	: 그렇긴하죠!
+P0 	: 점심 뭐드실 예정이세요?
+P1 	: 저두 귀찮아서 씨리얼 말아먹었어요ㅋㅋ
+P0 	: 씨리얼 저는 초코쪽이 좋던데
+P0 	: 어떤거 좋아하세요?
+P1 	: 저는 초코도 좋고 기본 콘푸로스트도 좋아요!!
+P1 	: 코코볼도 자주 사먹어요ㅋㅋㅋ
+P0 	: 코코볼 좋죠ㅋㅋㅋㅋ
+P0 	: 시리얼은 역시조금 달아야
+P0 	: 맛있는거 같아요
+P1 	: 맞아요ㅋㅋㅋ 우유 없어도 간식으로 먹기도 좋구요ㅋㅋㅋ
+P0 	: 요플레랑 먹기도 좋구요
+P0 	: 아주 만능이예요
+P1 	: 맞아요ㅋㅋㅋ 다른분한테 들었는데 크로와상 안에 요거트 과일이랑 시리얼 넣고 먹으면 맛있대요!!
+P1 	: 빵이랑 시리얼 동시에 먹는거 생각해본적 없는데 너무 맛있을거같지 않나요?ㅋㅋ
+P0 	: 대박 맛잘알이시다...

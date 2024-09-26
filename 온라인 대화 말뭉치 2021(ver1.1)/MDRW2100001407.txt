@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 곧 점심시간인데 메뉴는 정하셨나요?
+P0 	: 네 회사에서 점심요
+P1 	: 와 회사에서 식사하시나봐요 
+P1 	: 메뉴 고민은 적겠어요
+P0 	: 아침 출근시 항상 메뉴부터 찾아요^^
+P1 	: ㅋㅋㅋ약간이나마 행복한 시간이겠네요
+P0 	: 네 아침 주 업무입니다 
+	  이제 점심인데? &name2&님은 식사 정하셨나요?
+P1 	: 음... 글쎄요..저는 얼큰한 국물있는 점심메뉴를 생각중인데
+P1 	: 뭘 먹어야할지 고민중입니다 ㅋㅋ
+P0 	: 항상 고민이죠^^ 점심 저녁 ^^
+P1 	: 그래도 삼시세끼 메뉴 고민은 항상 재미있어요 ㅋㅋ
+P0 	: 네 삼시세끼 고민 및 야식도 고민이죠^^ㅋ
+P1 	: 앜ㅋㅋ 야식ㅋㅋㅋ맞아요
+P1 	: 좋아하는 야식 메뉴 있으세요?
+P0 	:  회사 동료들과 메뉴 공유하면 치킨 치킨 치킨요 ^^ 1순위 치킨 ㅋㅋ
+P1 	: 역시 한국사람은 어딜가나 치킨이 진리네요 ㅋㅋㅋ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033532
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 식사 메뉴는 무엇인가요
+P1 	: 핫... 점심식사 시간 한참 지났네요. 오늘 저녁은 볶음밥 먹기로 했어요 ㅋㅋㅋㅋ
+P0 	: 볶음밥 맛있겠다..
+	  무슨 볶음밥 드시나요
+P1 	: 감자 당근 햄 넣어서 볶아주고 왔어요.ㅋㅋㅋㅋ
+P1 	: 국물은 두부미소장국
+P0 	: 야채볶음밥을 드시는군요!
+P0 	: 국물도 잘 어울려요
+P0 	: 볶음밥에 케찹 뿌려드시나요
+P1 	: 아뇨.. 안뿌린대요..
+P0 	: 아앗.. 그러시군요
+P1 	: 저는 계란 덮어서 뿌려먹는게 좋은데..
+P0 	: 저두요
+P0 	: 계란은 반숙으로 하시나요 완숙으로 하시나요
+P1 	: 저는 반숙이요.ㅋㅋㅋㅋ 노른자 톡 터뜨려서 먹는 짜파게티 좋아해요.ㅋㅋㅋ
+P0 	: 너무 좋다
+P0 	: 짜파게티먹을 때 김치같이 드시나요
+P1 	: 그럼요.. 파김치에 먹습니다.ㅋㅋㅋㅋ
+P0 	: 저두요ㅎ

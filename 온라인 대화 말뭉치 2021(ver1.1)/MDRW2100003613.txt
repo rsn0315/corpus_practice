@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100003613
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있어요?
+P0 	: 아니면 지금 가장 먹고싶은 음식이라던가
+P1 	: 김치부침개
+P1 	: 감자전
+P0 	: 비오니까?
+P1 	: 땡기네요
+P0 	: 부침개 맛있지
+P0 	: 가장 좋아하는 부침개는 뭐에요 김치전?
+P0 	: 저는 부추전 좋아해요
+P1 	: 오 부추전
+P1 	: 전 파전 좋아하는데
+P0 	: 오 파전도 좋아요
+P0 	: 매운고추넣고
+P1 	: 오징어 넣고
+P0 	: 기름에 자글자글 부치면
+P0 	: 오징어도 좋다
+P1 	: 맛나겠다
+P1 	: 비오니까
+P0 	: 간장 찍어드세요?
+P1 	: 국물음식도
+P1 	: 네
+P1 	: 양념장
+P0 	: 아 맛있겠다 말하니까 먹고싶어졌어요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006297
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 계속 비가 오네요
+P0 	: 비가오네
+P1 	: 안끊기고 계속 내리는거 같아요
+P1 	: 주륵주륵 내리는 비네요
+P0 	: 안그치네
+P1 	: 내일 아침에는 좀 그쳤으면 좋겠는데요
+P0 	: 가기안좋아
+P1 	: 네 그럴거 같아서요 아무래도
+P0 	: 차도막히고
+P1 	: 걷는거 싫어요
+P0 	: 그러게 운전하라니까
+P1 	: 운전면허부터 따야되는거 아닐까요
+P0 	: 좀따라
+P1 	: 근데 무서워서여
+P0 	: 으이구
+P1 	: 겁 많잖아요

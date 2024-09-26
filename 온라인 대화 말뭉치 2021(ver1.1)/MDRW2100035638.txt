@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 어떤 음식 좋아하세요?
+P1 	: 저는 포테이토 베이컨피자가 좋은데 &name1& 님은요?
+P0 	: 저는 떡볶이요 어떤 브랜드 포테이토 베이컨 피자를 좋아하시나요?
+P1 	: ㅋㅋㅋ 도미노피자요 ㅋㅋㅋ
+P1 	: 떡볶이 어디꺼 좋아하세요?
+P0 	: 저는 엽떡이요
+P1 	: 오... 로제떡볶이 는 드셔보셧어요?
+P0 	: 네 혹시 로제떡볶이 좋아하시나요?
+P1 	: 아뇨.. 안먹어봣어요.  ㅠㅠ 조만간 먹으러가보려고요
+P0 	: 어디꺼 드셔보실 예정이신가요?
+P1 	: 그게 또 고민이에요 ㅋㅋㅋ 저는 배떡이나 떡군이네 거기서 먹어보고싶은데 배달비가 5천원 이래갖고 찾아가서 먹어야할것같기도하네요 ㅋㅋ
+P0 	: 헐 배달비가 왜그리 비싸요?
+P1 	: 너무 멀어서 그래요 ㅜ 버스타고 40분걸리는 그런동네라 ㅋㅋㅋㅋㅋㅋㅋㅋ

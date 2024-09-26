@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100009675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나는 피자가 제일 좋아~
+P1 	: 너는 무슨 음식이 가장 좋아?
+P0 	: 나는 뼈해장국을 좋아해~~
+P1 	: 뼈해장국 맛있지
+P1 	: 크아 지금 먹고싶다
+P0 	: 그리고 빵은 파리바게트 카스테라 구마 좋아해
+P0 	: 너는 무슨 피자 좋아해?
+P1 	: 나는 새우 올라간 피자 좋아해
+P1 	: 너는 새우 잘 먹어?
+P0 	: 나도 새우 좋아해 ㅎㅎ 파스타에 있는 새우 좋아해
+P0 	: 또 다른 건 뭐 좋아해?
+P1 	: 포테이토 피자도 좋아해
+P1 	: 너는 포테이토 피자 먹어?
+P0 	: 오 나 그거 완전 좋아해 ㅎㅎ 불고기 피자 급이야!
+P1 	: 불고기 피자도 좋아하는구나!
+P1 	: 나도 좋아해{emoji:♡}
+P0 	: 하와이안 피자 좋아해?
+P0 	: 피자 좋아하는 사람들이 그거 좋아하더라고
+P1 	: 좋아하는 편이야
+P1 	: 너는 안좋아해?
+P0 	: 따뜻한 파인애플이라..
+P0 	: 나는 아직 먹어보질 못했어
+P0 	: 피자몰 가봤어?
+P1 	: ㅋㅋ 하긴 호불호가 갈리지
+P1 	: 아니 저번에 가려고 했는데
+P1 	: 못갔어

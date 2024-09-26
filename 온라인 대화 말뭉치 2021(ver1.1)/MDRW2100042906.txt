@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100042906
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는하셨나요
+P1 	: 네, 방금 집밥 먹었어요
+P1 	: &name1&님은요?
+P0 	: ㅎㅎ저는단호박이랑사과먹었어요
+P0 	: 메뉴가무엇인가요
+P1 	: 오, 프레시한 식단이네요
+P1 	: 저는 김, 소세지, 계란말이였어요
+P0 	: ㅎㅎㅎ꿀조합이네요
+P0 	: 직접하신건가요
+P1 	: 아니요, 메이드 바이 어머니입니다ㅋㅋㅋ
+P0 	: ㅎㅎㅎ보장된맛이죠
+P1 	: 맞아요ㅋㅋㅋ 집밥이 최고
+P0 	: ㅎㅎ배달도좋아하세요?
+P1 	: 한달에 두세번은 먹어요ㅎㅎ
+P0 	: 최근에뭐드셨나요
+P1 	: 떡볶이랑 찜닭 자주 먹어요
+P1 	: &name1&님은요?
+P0 	: 저도떡볶이요~
+P0 	: 최근에청년다방차돌먹었어요

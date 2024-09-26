@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003259
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘은 집에서 치킨 튀겨먹었어요~~
+	  식사는 하셨나요?
+P0 	: 헉 직접 기름에 튀겨드세요?
+P1 	: 네! 튀김기가 있어서 집에서 튀겨먹어요^^
+P0 	: 와 남는 기름은 어떻게 하시나요?
+P1 	: 아파트에 폐식용류 버리는 곳이 있어서 거기에다가 버려요ㅎㅎ
+	  에어프라이기보다 튀긴게 확실히 맛있더라구요
+P0 	: 맞아요. 냉동식품은 입맛 버려요
+P0 	: 사세라고 있는데 아주 속상해요
+P1 	: 그쵸 저녁식사는 하셨나요?
+P0 	: 네 허접하게 햄구워먹었어요ㅠㅠ
+P0 	: 요리를 잘 하시나봐요
+P1 	: 아니요.. ㅋ 아이들이 먹고싶대서 
+	  유일하게 그것만 할줄아네요! ㅎㅎ
+	  튀김기가 있으니 기름튀지않고 할수 있어서 좋아요
+P0 	: 파우더는 뭐쓰세요?
+P1 	: 딱히 고정적으로 쓰는건 없고 그때그때 후기 많은 걸로 구매해요 
+	  대신 뿌링클맛을 내기위에 튀긴뒤에 시즈닝을 2가지를 섞어요ㅎ
+P0 	: 아 그렇군요. 생닭으로요?
+P1 	: 네 생닭으로 하고 있어요^^

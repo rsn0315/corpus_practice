@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연 보시나요
+P0 	: 클래식은 몇 번 본적 있어요!
+P1 	: 와 클래식 어렵다고 생각하는데..
+P0 	: 저도 들으면서 알지 못해서 어려웠어요..
+P0 	: 그래도 그 웅장함이 심금을 울리더라구요
+P1 	: 그러셨군요 어떤 공연이어ㅆ나요
+P0 	: 오케스트라였는데 바이올린이 최고였어요
+P1 	: 아 그렇겠어요 바이올린 독주 부분이 있었나요?
+P0 	: 네!
+P0 	: 음악을 잘 모르는데 귀가 깨끗해지는 기분이였어요
+P1 	: 와 멋진 표현이네요 공연은 티켓팅해서 가신건아요,
+P0 	: 네!
+P0 	: 처음 티켓팅 해본거였어요
+P1 	: 그러셨군요 어떤 사이트였나요? 기억나시나요?
+P0 	: 예스24였던 것 같아요!

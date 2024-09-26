@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아직 진통제 먹을 정돈 아니라서요
+	  팔 말고 몸살기운나면 먹으라 했어요
+P0 	: 진통제는 안드실거죠? 내일 오전쯤이 좀 아프고 점점 덜아파지는데
+P1 	: 일단 지켜봐야할것 같아요
+P1 	: 그 병원 의사분이
+P0 	: 네
+P1 	: 참 수다스러운분이신데
+P1 	: 오늘도 역시나 예진하시면서 본인은 너무 고생했다고 이야기를 하시더라구요
+P0 	: 오...맞죠
+P1 	: 그리고 15분 대기하는데 간호사분들이 다른 손님들께 역시나 tmi를 말하고 계시고
+P0 	: 주사 맞는건 안아팟나요?
+P1 	: 느낌은 살짝 있었는데 괜찮았어요
+P0 	: 그러시군요!! 일단 맞은거니 후련은하겟제요
+P1 	: 네 맞아요 고민이 되었었는데 후련하네요
+P0 	: 다른 가족분들은 다 맞으신건가요?
+P1 	: 부모님은 1차완료고
+	  막내는 2차완료
+	  동생은 아직 미접종이요

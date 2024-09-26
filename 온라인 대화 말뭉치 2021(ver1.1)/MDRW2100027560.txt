@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027560
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 가장 최근에는 어떤 물건 사셨어요?
+P0 	: 신.세.계.마트에서 소불고기
+P0 	: 샀어용
+P1 	: 우와 맛있겠네요. 오늘 저녁에 먹을건가봐요!
+P0 	: ㅋㅋ아뇨 신세.계
+P0 	: 쿠폰 잘못 뿌려서
+P0 	: 줍줍
+P1 	: 오... 전 쿠폰도 잘 못줍고 할인도 잘 못받는데
+P1 	: 능력자ㅎㅎ
+P0 	: 친구덕에ㅋㅋ
+P0 	: 근데 잘못 뿌린거는 맞아서
+P0 	: 취소당할까봐
+P1 	: 덕분에 맛있는 소불고기 먹으니 완전 이득이네요 즐겨요 이기분ㅎㅎㅎ
+P0 	: ㅋㅋ와야 일단. .
+P1 	: 네 오면 맛있게 드시기 바랍니다ㅎㅎ
+P0 	: 넵ㅋㅋ
+P0 	: 뭐 사셨나요 최근에
+P1 	: 전 좀 재미없는거 샀어요 모니터 받침대요ㅎㅎ
+P0 	: 음 재미가 없긴하네요
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 그래도 필요하니까 사셨겠죠
+P1 	: 네ㅎㅎ 두꺼운 책 올려놓고 쓰다가 그냥 하나 사는게 낫겠다 싶어서ㅋㅋㅋ
+P0 	: ㅋㅋ그럼 옳은 소비인듯 합니다

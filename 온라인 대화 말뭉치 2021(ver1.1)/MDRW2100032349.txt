@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100032349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨 어떤가요
+P1 	: 지금 흐려요 거긴 어떤가요?
+P0 	: 여기도 오늘 날씨가 흐리네요
+P1 	: 날씨가 전국적으로 흐린 것 같아요
+P0 	: 그렇네요 어제까진 좋았는데...
+P1 	: 금토 좋았죠 마치 초여름 날씨 같았어요
+P0 	: 네 하늘도 맑구요 오늘은 흐려서 아쉽네요
+P1 	: 다음주 또 비소식이 있네요
+P0 	: 가을은 온 것 같은데 비가 계속 되네요
+P1 	: 가을장마리서 그런가봐요 얼른 끝나면 좋겠어요
+P0 	: 네 가을 장마라니.. 예전에도 있었을까요? 기억이 안나는게...
+P1 	: 자주 있는 건 아닌 것 같아요
+P0 	: 그렇군요 오늘 새벽은 역시 춥네요

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100040406
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 오늘 날씨가 좋았었나요?
+P1 	: ㅋㅋㅋ네 안녕하세용
+P1 	: 네! 여기는 맑고 화창해요
+P1 	: &name1&님 계신곳은요?
+P0 	: 여기도 오늘 맑은 날씨였어요
+	  날씨가 맑으니 좋더라구요!
+P1 	: 쌀쌀하진 않으세요?
+P0 	: 햇빛이 쨍쨍해서인지 낮에는 살짝 덥게도 느껴졌는데, 오후 늦어지니 쌀쌀해지네요
+P1 	: 맞아요 아무리 낮에 더워도 이제는 해지면 금방 쌀쌀해지더라구요
+P1 	: 저 어제 극세사 이불 꺼내고 싶었어요..
+P0 	: 맞아요! 밤에는 춥다고 느껴지기도 하더라구요
+P0 	: 이제 좀 있으면 극세사 꺼내도 될거 같아요
+P1 	: 처서 지나면 가을이라더니 어른들 말씀 틀린게 없어요...
+P1 	: 넘 추워요 ㅋㅋㅋㅋㅋ
+P0 	: 맞아요ㅋㅋㅋ절기는 너무 신기한거 같아요
+P1 	: 그래도 아직은 안된다! 하면서 버티고 있는데 이러다 감기 걸릴지도 모르겠어요 ㅋㅋㅋㅋ
+P0 	: 안 맞을거 같은데도 신기하게 절기에 맞춰서 딱 날씨가 변화하더라구요
+P1 	: 그니까요 참 신기해요
+P1 	: 날이 쌀쌀해서 그런가 미세먼지도 없고 너무 좋아요
+P1 	: 거기도 그런가요?
+P0 	: 네! 여기도 그래요
+P0 	: 여기도 그래요ㅎㅎ
+P0 	: 계절 중 어느 계절을 가장 좋아하세요?

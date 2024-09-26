@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100002209
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트 평생숙제인데 해보신적잇나욥?
+P1 	: 예전에 해봤어요
+P1 	: &name1&님도 다이어트 해보셨나요?
+P0 	: 오늘도 한다고해놓고 야식먹었네요
+	  어떤다이어트 해보셨어요?
+P1 	: 줄넘기랑 식단조절이요
+P1 	: &name1&님은요?
+P0 	: 오 줄넘기 ㅎㅎ
+	  저는 굶기에 런닝이랑 ㅎㅎ
+	  그럼 운동은 자주하세요?
+P1 	: 굶기 안좋아요ㅠㅠ
+P1 	: 운동을 좋아하는 편은 아니라 그냥 생활운동? 같은거 하려고 노력해요 걷기같은거
+P0 	: 만보채우려고 저도 ㅎㅎ 근데 나이드니 더 안빠지는것같아요 근력꼭꼭 만드세요ㅎ
+P1 	: 근력 진짜 중요한거같아요
+P0 	: 친구들은 몰래몰래 시술도 한답니다 예뻐지기위해
+P1 	: &name1&님은 하셨나요
+P0 	: 당연하죠ㅎㅎ 남편몰래 이마도 넣었답니다
+	  지원님은 경험 있으세요?
+P1 	: 아니요.. 저는 없어요..ㅎㅎ
+	  시술 할 때 아픈가요
+P0 	: 네... 최강까지는 아니지만 ㅎㅎㅎ
+	  근데 쁘띠시술하고나면 다들 예뻐진것같다고 살빠졌냐라고 물어보더라구요ㅎ

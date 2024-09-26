@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100010519
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 퇴근했나요
+P1 	: 지금 퇴근해서 저녁먹으려구요
+P1 	: 오늘도 피곤한 하루였어요
+P1 	: 세상에 바로 퇴사하고 이직하고 싶어요
+P0 	: 이직할 곳은 정했나요?
+P1 	: 일단 내려가서 보름에서 한달정도는 쉬고 결정하고 싶어요
+P1 	: 쉬면서 찾아보겠죠?
+P0 	: 퇴사를 즐기는 것도 좋져
+P1 	: 그쵸? 이렇게 지금까지 열일했는데 퇴사는 즐겨야한다고봐요
+P1 	: 이야 스트레스가 정말 장난이 아니었어요
+P0 	: 업무와 스트레스는 동의어가 아닐까여?
+P1 	: 그 말에 동의해요! 업무=스트레스죠 솔직히 워라벨도 저세상 단어라고 생각해요
+P1 	: 워가 있는 한 라벨은 없어요
+P1 	: 어떻게 그게 같이 존재할수가 있죠?
+P1 	: 천국인가
+P0 	: 된다면 천국이긴 하겠네요
+P1 	: 무직인 부자가 되고싶어요
+P1 	: 일하는거는 그냥 게으름을 부리기 위한 돈을 위해 하는거여서
+P1 	: 빠작벌고 놀고싶어요
+P0 	: 불로소득이 최종 목표군요?
+P1 	: 그렇죠 모든 사람의 꿈이 불로소득 아니겠어요?
+P1 	: 그래서 직장에서 받는 월급 외에 들어오는 돈이 너무 좋아요
+P0 	: 그건 너무 좋져
+P1 	: 일하기 너무 싫어요

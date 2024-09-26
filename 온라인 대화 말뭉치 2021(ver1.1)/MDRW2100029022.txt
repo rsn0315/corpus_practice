@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100029022
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 일하기싫어요
+P1 	: 다 마찮가지인것같애요
+P1 	: 상사는 어때요?
+P0 	: 그냥 싫지만 좋아요
+P0 	: 저희파트장이 일을 많이해서 별론데 저보다일더하니깐.. 모라못하겠네요
+P1 	: 아ㅎ 그렇군요ㅎ
+P1 	: 파트장이라 하니깐 &affiliation&같네요ㅎㅎ
+P0 	: 아하 넵 &affiliation&
+P1 	: ㅎㅎ 힘드시겟네요 ㅡㅎ
+P1 	: 전에 거제도라 하셔서ㅎㅎ 대충 알고는있었아요ㅎㅎ
+P1 	: 저도 &address&에 잠깐 있엇어요ㅎ
+P0 	: 오 &address&도 조선소 삼성
+P1 	: 전 조선소는아니에요ㅎㅎㅎ
+P1 	: &others&여서ㅎ 그쪽에 배가 접안해 있옸아요ㅎㅎ
+P0 	: 와!!  &others& &name2&
+P1 	: 지금은 아니고ㅎ 예전에요ㅎ 군대대신에ㅎ
+P1 	: 돈을 많이 벌었었죠ㅠ 근데 &name1&보단 아니에요ㅎㅎㅎ
+P0 	: &affiliation& 돈안됩니다
+P0 	: 취침ㅠ
+P1 	: 주무셔요ㅎㅎㅎ
+P0 	: &affiliation& 풀질부서입니다
+P1 	: 아아ㅎ 품질이요ㅎㅎ
+P1 	: 저는 안전품질ㅎㅎㅎㅎ
+P0 	: 저희도 안전 역던데ㅋ
+P0 	: 다시이야기해요
+P1 	: 네네ㅎㅎ
+P0 	: 지금하시는곳이 안전품질?

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100002351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 졸업하고 학교 가본적있어?
+P1 	: 응 버스정류장에 딱 도착하는순간 너무 좋아서 눈물이 핑 돌던데
+P0 	: 학교 언재가봣어?
+P1 	: 학교 건물을 보고 기분이 들뜨는것은 수업을 안들어서겠지?
+P1 	: 그건 기억이 안나네...
+P0 	: 아무래도그렇지
+P1 	: 교수님 만나러 같이 가기로 했던 거 기억 나?
+P1 	: 교수님이 우리를 기다리실 거 같아
+P0 	: 헉 완전 까먹고잇엇어
+P0 	: 올해가볼까
+P0 	: 근데교수님 계시나
+P1 	: 당연하지! 그 근처 사시잖아
+P0 	: 앗 그래? 테르미니 사달라해야갰다
+P0 	: 테르미니 자주갔는데 너랑
+P0 	: 기억나니
+P1 	: 나 아닌데 누구랑 자주갔니...?
+P1 	: &name3&이 거기서 일할 때 좋았는데
+P0 	: 자주갔어 ㅡㅡ
+P0 	: 샐러드파스타 많이먹엇는대
+P1 	: 그랬던 거 같기도 하고...
+P1 	: 학교 앞에 오던 타코야끼 트럭 기억나?
+P0 	: 밀가루 반죽뿐이엇지만 맛잇엇던 타코야끼..
+P1 	: 양 많이 줘서 이슈였다가 노상방뇨하고 손안씻어서 이슈로 바뀌었지..........
+P0 	: 악 더러워
+P1 	: 설마 몰랐어????
+P1 	: 너의 행복을 부숴버렸군

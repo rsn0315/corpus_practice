@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100046068
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 너 그거 아니
+P0 	: 어떤 거
+P1 	: 사실 바나나 우유는 하예
+P0 	: 거짓말 하지마
+P1 	: 너가 이제까지 먹은 게 노랗다고 생각했지
+P0 	: 바나나는 노라니까
+P1 	: 하지만 바나나 우유는 하얀색이야
+P0 	: 그럼 색소를 넣어서 노랗게 만드나 보다
+P1 	: 괜찮아
+P0 	: 바나나 우유는 맛있어
+P1 	: 어렸을 때부터 목욕하고 하나씩 꼭 먹었는데
+P0 	: 맞아 추억이지
+P1 	: 오늘도 하나 사 먹어야겠다

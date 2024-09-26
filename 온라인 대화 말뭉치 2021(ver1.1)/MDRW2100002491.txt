@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지인 중에 군대 간 사람 있으세요?
+P0 	: 친구? 있긴한데 제대했어요
+P0 	: &name2&님은요?
+P1 	: 전 가족이 들어가있어요
+P0 	: 남동생이요?
+P0 	: 오빠인가..?
+P1 	: 동생이요 ㅎ
+P1 	: 이야기 들어보면 싫다는데
+P1 	: 제 입장에선 널널해보여요ㅋㅋ
+P0 	: 아무래도 인식이 예전보다는 나아졌다는 게 있어서ㅋㅋ
+P0 	: 군대가면 PX있잖아요 뭐 부탁해보신적 있으세요?
+P1 	: 생각 못하고 그냥 포카리가루만 받아봤어요
+P1 	: &name1&님은요?
+P1 	: 뭐 좋응 거 있나요?
+P0 	: 사실 군대갔을 때 부탁해본게
+	  없어서
+P0 	: 전화는 엄청오던데 안받았어여ㅋㅋㅋㅋ
+P0 	: 약간 들어보면 맨날 풀 뽑는다고 하더라구요
+P1 	: ㅋㅋㅋㅋ 풀이여? 그건 좀 노동이네요
+P0 	: 그 이야기도 하던데 군대에서는 치약이 만병통치약이래요
+P1 	: 오 진짜요?
+P1 	: 아 청소 같은 거 할때ㅋㅋㅋㅋㅋㅋ
+P0 	: 네ㅋㅋ 청소할 때  엄청쓴대요.
+	  우스갯소리로 다쳤을 때 잠올 때도 바른다더라구요
+P1 	: ㅋㅋㅋ ㅋㅋㅋㅋㅋ 진짜 만병통치약이네요

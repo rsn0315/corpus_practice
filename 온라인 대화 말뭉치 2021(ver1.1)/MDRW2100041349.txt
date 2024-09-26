@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연좋아하세요?
+P1 	: 네&name1&님도 좋아하시나요?
+P0 	: 앗ㅎㅎ영화는요?
+P1 	: 제가 영화를 거의 안봐요ㅠㅠ
+P1 	: 영화 좋아하시나요?
+P0 	: 앗ㅎㅎ저도잘안보지만
+P0 	: 마블은좋아해요
+P0 	: 그럼공연은어떤거좋아하세요?
+P1 	: 저는 콘서트는 좀 가요
+P1 	: 콘서트 가보셨나요?
+P0 	: 코로나전에 이적 가봤어요
+P1 	: 직접 티켓팅 하신건가요?
+P0 	: 음 같이갔던친구가해줬어요
+P0 	: 기억에남는공연있으신가요?
+P1 	: 저는 아이유콘서트요
+P0 	: 와 티켓팅능력자시네요
+P1 	: 입성이 목표여서 면봉크기였어요ㅋㅋㅋㅋ
+P0 	: ㅎㅎㅎ그래도귀가호강했겠어요
+P0 	: 다음엔 추파춥스정도는될꺼에요!

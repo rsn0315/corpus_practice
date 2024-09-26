@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+	  여행 가보신데 있으세요?
+P0 	: 최근에는 울릉도요!!
+P1 	: 오 최근에요 좋다 여행자주다니세요?
+P0 	: 음 좀 다녔는데
+P0 	: 요새 갑자기 확진자가 많아져서...
+P1 	: 전 여행다니는게 꿈인데 막상 다니지는 못하네요..ㅎㅎ
+P0 	: 그러게요
+P0 	: 이노무 코로나...
+P1 	: 나이먹을수록 여행에대한 로망도 점점 깎이는거같아요
+P1 	: 어릴때는 꼭 세계여행을 하고싶었거든요
+P0 	: 오~~ 저는 시베리아 횡단열차 타고 싶었습니다
+P1 	: 저도 그거타고!
+P1 	: 크루즈도 타보고
+P1 	: 근데 .. 돈벌어야지 제팔자가아닌거죠ㅎㅎ..
+P0 	: 우리의 인생은 기니까요
+P1 	: 울릉도 좋았어요? 뭐하나여
+P0 	: 뭐 그냥 색다르고 독도도 갔어요!!!
+P1 	: 와신기하다

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100030529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 육아 하시나요?
+P0 	: 아니요
+P1 	: 저도요
+P0 	: 집안일하세요?
+P1 	: 네네
+P0 	: 저는 설거지 했네요
+P1 	: 저는 청소기 돌렸네요
+P0 	: 어제는 세탁기 돌렸어요
+P1 	: 빨래 널어야겠네요
+P0 	: 음쓰 버리는게 너무 싫어요
+P1 	: 저도요
+P0 	: 가족과 분담하세요?
+P1 	: 네 

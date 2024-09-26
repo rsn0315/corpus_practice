@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아직 바람은 잘 나오잖아
+P0 	: 회전 안하고 바람 계속 쐬면 추울텐데
+P1 	: 난 상관없어 ㅎㅎ
+P0 	: ㅎㅎ 버리기 싫어서 그런건 아니고?
+P1 	: 아냐 ㅋ
+P1 	: 난 원래 회전 안써
+P0 	: 난 회전 없으면 안돼ㅠ 선풍기 바람 계속 쐬면 담날 바로 감기
+P1 	: ㅇㅇ 새로 산 거는 색시가 써
+P0 	: 우리 집에 도대체 선풍기가 몇대야 ㅋㅋㅋ
+P1 	: 고장난 것까지 6대?
+P0 	: 훌 선풍기 장사해야겠네 ㅎㅎ
+P1 	: 내가 다 쓸테니 걱정마
+P0 	: 공간 너무 많이 차지하는데 ㅋ
+P1 	: 나 몰래 버리지마
+P0 	: 고장난 건 좀 버리자 새로 사고 ㅋㅋ

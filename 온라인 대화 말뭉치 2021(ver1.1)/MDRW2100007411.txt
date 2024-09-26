@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 출근하기싫다
+P1 	: 출근 시러
+P0 	: 으어 피곤하다
+P1 	: 지하철 타러 가
+P0 	: 환승기다리는중
+P1 	: 얼른 출근하세요
+P0 	: 싫어요
+P1 	: 출근 잘하세요
+P0 	: 맛점하세요
+P1 	: 업무 어때요
+P0 	: 부장이 해야할일을 대신하고있으니 짱나네요
+P1 	: 다 그런거니까
+P1 	: 찡찡거리지마세요
+P0 	: 찡찡찡
+P0 	: 체크리스트 작성 다했나요

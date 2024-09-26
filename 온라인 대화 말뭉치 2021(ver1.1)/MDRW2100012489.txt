@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 엄마 다이어트 해?
+P1 	: ?
+P0 	: 하고있지
+P1 	: 어떤식으로해?
+P0 	: 6시 이후에는 안먹어
+P1 	: 아무것도?
+P0 	: 응
+P1 	: 그럼 저녁은 언제먹어?
+P0 	: 5시에 먹지
+P1 	: 근데 운동은 하고있어?
+P0 	: 운동은 거의 안하지
+P1 	: 운동을 해야하는거아냐?
+P0 	: 운동은 안해도돼
+P1 	: 왜??
+P0 	: 운동은 힘들어
+P1 	: 그래서 저녁만 안먹는거야?
+P0 	: 그렇지
+P1 	: 그러면 살 빠져?
+P0 	: 몇개월동안 저녁 안먹으니까 빠지더라
+P1 	: 아 정말?
+P1 	: 신기하네
+P0 	: 뭐가?
+P1 	: 운동안하면 안빠지는줄 알았지
+P0 	: 식단만 조절해도 빠져
+P1 	: 뭐먹는데?
+P0 	: 냉장고에 셀러드 있잖아
+P1 	: 아 그렇규나

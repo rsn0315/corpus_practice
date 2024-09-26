@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002305
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: &name1& 너 핸드폰 몇년됐지?
+P1 	: 핸드폰 삼성 꺼 중에 바꿔야하긴할텐데
+P1 	: 뭘로 바꾸려나
+P0 	: 한 2년 반 됐나바여
+P0 	: 요번에 새로나온건 없죠?
+P1 	: 제트플립?이런거있던데
+P0 	: 맞네ㅋㅋ
+P0 	: 그반으로 접히는거
+P1 	: 노트처럼 필기되는거 쓰고싶기도하구
+P1 	: 공기계사서 가입하고픈디
+P1 	: 너껀 기계값얼마정도여?
+P0 	: 기억안나는데 전 일단 그냥 돈내고산거 같아요
+P0 	: 오빠가 알아봐줘서 9마넌인가
+P1 	: 첨에 그 요금제있는거쓰고
+P1 	: 기계는 얼마 안했구먼
+P0 	: 맞아요 3개월간 6만원 요금제 썼던거 같아요
+P1 	: 니꺼는 기종이 먼디?
+P0 	: 갤럭시 7인거 같은데
+P0 	: 갤럭시 시리즈 몇번까지 나왔어요?
+P1 	: 내가 갤럭시s7이여
+P1 	: 그거 10버전부터 20,21 막 이랬을껄?
+P0 	: 바꿀만 하네요ㅋㅋㅋㅋ
+P0 	: 우리 넘 옛날 폰인듯여ㅋㅋㅋㅋ
+P1 	: 밧데리 너 빨리달아?그게 불편해서 바꾸고파

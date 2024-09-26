@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012843
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 여행경비만 있으면 ㅎ 어디든 갑니다 무척 좋아해요
+P0 	: 어디 가보셨나요?
+P1 	: 제 기억으론 중국에 2번 간거같아요 청소년시기때 가서..
+P1 	: 시간과 비용이 부족해서.. 맨날 못가네요
+P1 	: 그쪽은 여행 어디가보셨나요?
+P0 	: 제주도 가봤어요
+P1 	: 좋은곳 가셨군요  관광 명소 아닙니까~
+P1 	: 기념품도 충분히 사올 수있는 여행지잖아요
+P0 	: 제주도 초콜릿 국룰이죠 ㅋㅋ
+P1 	: 역시 똑똑합니다 
+P1 	: 근데 해외여행은 안가보셨나요?
+P0 	: 홍콩 가봤던 것 같아요
+P1 	: 제가 못가본 해외나라를 가보셨다니 부럽네요
+P1 	: 국내 여행지 추천좀 해주세요.
+P0 	: 앗 제가 추천 받고싶었는데
+P0 	: 나중에 국내여행 가려고 했거든요
+P1 	: 코로나 끝나면 마음껏 놀려가요 강원도가 그나마 나을듯합니다.
+P1 	: 타지역 어디든 가세요 그게 곧 여행이니
+P0 	: ㅋㅋㅋㅋㅋ 맞는말이죠

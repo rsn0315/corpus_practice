@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019941
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 추석 연휴 때 수원 오시면 전통춤 공연 보러 갈까요?
+P1 	: 좋디무슨공연?
+P0 	: 국립무용단에서 명절마다 우리춤 모음 공연 하는 데 그거
+P1 	: 안비싸?
+P0 	: 비싸지 않아요, 국립극장에서 하는 거라 인당 3만원 선
+P1 	: 나야.그럼 좋지
+P0 	: 그거 보고 국립중앙박물관 가서 영국 초상화 전시랑 이건희컬렉션 봄 되겠구만
+P1 	: 이건희.컬렉션은 모야
+P0 	: 고 이건희 삼성 회장이 모은 전시품 국립중앙박물관에서 전시 하는 거
+P1 	: 어마어마하겠네
+P0 	: 그렇지 줄 서고 난리라던데 우리도 이참에 함 보러 갑시다
+P1 	: 다른 전시는 뭐 없어?
+P0 	: 전시 말고 영화 보러 가요~ 요즘 괜찮은 영화 뭐 있으려나

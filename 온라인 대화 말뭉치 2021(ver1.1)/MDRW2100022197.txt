@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022197
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 관심은 있어요
+P1 	: 가서 관람한 적은 없구요
+P0 	: 영화는 조아하시나요
+P1 	: 네 가끔 보러가요
+P0 	: 최근에 어떤거보셨나요
+P1 	: 요샌 보러 못갔어요
+P1 	: 보신거 있나요?
+P0 	: 모가디슈요!
+P1 	: 재난영화맞죠? 재밌나요?
+P0 	: 재밌어요! 조인성도나오구
+P1 	: 전 싱크홀 보려고 생각중이에요
+P0 	: 싱크홀이 재난영화죠?
+P1 	: 네 근데 코믹이 들어가서 재밌을거 같아요.
+P0 	: 광수나오는거 맞나요ㅎㅎ
+P1 	: 네 맞아요ㅋㅋ

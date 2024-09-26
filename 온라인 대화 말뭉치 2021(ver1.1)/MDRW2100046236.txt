@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046236
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 좋아하는 영화 장르가 뭔가요?
+P0 	: 코미디 영화요
+P1 	: ㅎㅎ 저도 요즘은 가볍게 볼 수 있는 코미디가 좋더라구요
+P1 	: 영화 추천 하나 해주실 수 있으세요?
+P0 	: 영화를 자주보진 않아서 아주 가끔봐서 저도 잘모르겠네요 어떤걸 추천해드려할지...
+P1 	: 아하... 그럼 제가 코미디 영화 추천 하나 해드려도될까요 ㅎㅎ
+P0 	: 네
+P1 	: 스파이라고 주드로 나오는 영화가 있는데
+P1 	: 진짜 웃겨요 ㅠ ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 나중에 꼭 한 번 봐보세요!!
+P0 	: 네 꼭 볼게요 추천 감사합니다
+P1 	: 네네 넷플릭스에도 있던걸로 기억해요
+P0 	: 네
+P1 	: 넷플릭스는 자주 보세요?
+P0 	: 아니요 넷플릭스는 안보구 가끔 iptv로 영화 한편씩 구매해서 봐요
+P1 	: 아하 영화 잘 안보시면 그게 나을 거 같긴하네요!ㅎㅎ
+	  

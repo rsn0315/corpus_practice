@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교있으세요?
+P1 	: 불교를 약하게 믿고있어요 &name1&님은요?
+P0 	: 무교예요~
+P0 	: 근데 절은 가봤어요
+P1 	: 그럼 다른 종교믿는 사람들이 자기종교 위주로 스케쥴 짜는거 어찌생각하세요?
+P1 	: 기독교인이 일요일 모임 거부한다거나 하는거요
+P0 	: 솔직히 그렇게까지해야하나 싶어요
+P0 	: 제가 신앙심이 없어서그런거겠지만! 피해만 안 준다면..상관없어요ㅎ
+P1 	: 저는 종교자체를 별로 안좋아해요
+P1 	: 필요악이란 생각이들어요
+P0 	: 어.. 그런데 불교는 조금 믿으시는건가요?
+P1 	: 네 아주조금요 ㅎㅎㅎ
+P0 	: 믿게 된 동기가 있으세요?
+P0 	: 주변보면 나중에 종교를 믿게된 경우는 계기가 있더라고요 대부분
+P1 	: 엄마가 믿어서요
+P1 	: 어릴때 어린이불교반 같은데 다녔어요
+P0 	: 불교가 기독교보다는 거부감이 덜한거같아요
+P0 	: 우와 불교유치원 지나가다 보기만했는데
+P1 	: 네 기독교는 안티가많죠
+P1 	: 저도 거부감있어요 ㅜ
+P0 	: 전도하는게 너무 심하고 이래저래 부정적이게된...
+P0 	: 그러다보니 무교가 된 것 같아요ㅎㅎ

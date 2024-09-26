@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100014206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학창시절에 가장 기억나는 사건있으신가요??
+P0 	: 헉 ㅜㅋㅋㅋㅋ 너무 어러운데용
+P0 	: 학교째려다 들킨것...?
+P1 	: 음그렇네요 제가 질문해놓고 너무어렵네요 ㅋㅋㅋㅋㅋ
+P1 	: 몇살때 학교를 째려고 하셧나요 ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 17 18? ㅋㅋㅋㅋㅋ
+P0 	: 몇살이신가요
+P1 	: 전 26살이에요
+P0 	: 아항!! 저는 21이에욥
+P0 	: 수강신청하셧나요?
+P1 	: 저는 대학도 졸업한지
+P1 	: 꽤됐네요..
+P0 	: 아앗 그러시군요 ㅎㅎ
+P0 	: 동아리같은거 하셨나요?
+P1 	: 전힙합동아리였어요 ㅋㅋㅋ
+P0 	: 오옹 멋진데요!!! 랩하셨어요?
+P1 	: ㅋㅋ아니요 전 리스너로 들어갔어요
+P1 	: 과동기들이 많이 들어가길래 따라들어간건데 ㅎㅎ
+P0 	: 아항 멋지세용 ㅎㅎ
+P0 	: 저도 공연드라마 하고싶은데 코로나때문에 ㅜㅜ
+P1 	: ㅠㅠ요즘 학교는 비대면 수업하나요??
+P0 	: 넵 거의 그래요!! 저는 2학기 수업도 비대면으로 골랐어요 ㅎㅎㅎ

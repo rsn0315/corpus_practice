@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003133
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 저녁 되니까 엄청 시원하다
+P0 	: 그러게~ 그런데 새들이 왜 이렇게 시끄러워
+P1 	: 무슨 일 있나?
+P0 	: 까치 까마귀 아주 난리네 ㅋㅋ
+P1 	: 너무 시원해서 좋아서 그러나 ㅎㅎ
+P0 	: 이제 저녁 바람이 차가울 정도야
+P1 	: 낮에도 바람은 시원하던데
+P0 	: 그래?
+P1 	: ㅇㅇ 낮에도 바람 잘 불고 시원했어
+P0 	: 비와서 기온이 더 내려갔나보다
+P1 	: 이러다 확 추워지는 것 아니겠지?
+P0 	: 그럴지도
+P1 	: 안돼~~ 지금이 좋은데 ㅎㅎ
+P0 	: 비가 더 안오길 바래야지
+P1 	: 훌 갑자기 또 비와

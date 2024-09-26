@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100013282
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 실례가 아니라면 직업이 어떻게되시나요?
+P0 	: 저는 사무직에있어요
+P1 	: 헉..부럽따..
+P1 	: 직장인..
+P1 	: 전 작년에 졸업해서
+P1 	: 아직 백수에요ㅠㅠ
+P0 	: 취준생이시구나
+P1 	: 코로나 핑계대곤 있지만
+P1 	: 주변 친구들은 다 취직했쬬..
+P0 	: 마음이 조급해지시겠어요
+P1 	: 네네ㅠㅠ 괜히 주변눈치 보이구ㅠㅠ
+P0 	: 그래도 너무조급해하지마세요
+P0 	: 누구보다 멋진인생을 사실거에요
+P1 	: 힝 좋은말씀 감사합니다 :D
+P1 	: 사무직이면
+P1 	: 주로 엑셀 쓰시는건가요?
+P0 	: 엑셀도 주로 사용하는 편이고 저는 사무직이긴 한데ㅈ영업도 뛰는편이에요
+P1 	: 와아 멋있어요!
+P1 	: 어릴때 꿈이 딱
+P1 	: 사무실에서 먼가 다루다
+P1 	: 현장 가고 그런거였는데ㅋ큐
+P1 	: 회사에선 상사분 많이 무섭나요..?
+P1 	: 제가 잘 혼나는편이라서
+P1 	: 그게 제일 걱정이네요ㅠㅠㅠ
+P0 	: 앗 답이 늦었습니다
+P0 	: 어 저는 좀 소규모 회사라 눈치보이긴하는데 신입때는 실수하는것이 다연한고
+P0 	: 어.. 너무 그렇게 걱정하지마세요

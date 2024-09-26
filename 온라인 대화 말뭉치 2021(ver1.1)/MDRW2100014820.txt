@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014820
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 앗 아뇨 ㅜㅜㅜ
+P1 	: &name1&님은 반려동물 키우시나요??
+P0 	: 네! 고양이 키우고 있어요~ 고양이 좋아하세요?
+P1 	: 헉
+P1 	: 너무 부럽네요
+P1 	: 네네네 보면서 힐링합니다 고양이ㅠㅠ
+P0 	: 구독하는 고양이 유튜버 있으세요?
+P1 	: 하하하랑 메탈남이요!!
+P0 	: 저도 하하하 유튜버 봐요! 주변에 반려동물 키우는 지인 있으세요?
+P1 	: 네넨0
+P1 	: &name3&라고 고양이 키우는 친구 있어요
+P1 	: 흐흡 .. 너무 귀여워요
+P0 	: 저도 &name4&라고 코숏 키우고있어요!!
+P0 	: 알러지가 있으신가요?
+P1 	: 아뇨 저는 없는데 가족중에 있어요ㅠㅠ
+P1 	: 너무 이쁘겠다 이름도 이쁘네요 &name4&
+P1 	: 볼따구 아주 귀여울 것 같은 이름이에요
+P0 	: ㅋㅋㅋㅋㅋ맞아요 키우고싶은 반려동물 있으세요?
+P1 	: 저..저...저...저는 앵무새요
+P1 	: 제가 조류 좋아하는데
+P1 	: 앵무새 너무 귀엽더라고요
+P1 	: 사실 키우고싶은건 부엉이인데 맹금류라

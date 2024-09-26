@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043548
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그러게 너무 날씨가 흐리다
+P0 	: 웅웅.. 날씨가 우중충하니까 기분도 다운되네
+P1 	: 공원에 우산 쓰고 산책 나가자
+P0 	: 우산쓰기 싫어
+P1 	: 우산쓰는게 왜 싫어
+P0 	: 팔아프다 ㅋ 번거롭고 ㅋㅋ
+P1 	: 그러면 그냥 집에 있어
+P0 	: 웅..ㅋㅋ 그냥 빗소리나 들으면서 쉬어야겠다
+P1 	: 그래 비 올 때 나가면 고생이다
+P0 	: 맞당..ㅎ
+P1 	: 내일은 안 올걸
+P0 	: 그럼좋겠다
+P1 	: 내일 안 오는 거 같다

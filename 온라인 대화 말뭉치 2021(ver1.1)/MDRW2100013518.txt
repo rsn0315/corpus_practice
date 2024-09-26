@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013518
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤 음식 좋아하세요?
+P1 	: 전 피자 좋아해요!
+P0 	: 어떤 피자 좋아하세요?
+P1 	: 피자는 역시 포테이토 피자죠!
+P0 	: 저 어제 피자먹었는데
+P0 	: 부럽죠?
+P1 	: ㅋㅋㅋ 너무 부럽다
+P1 	: 무슨 피자 드셨나요ㅋㅋㅋ
+P0 	: 치즈랑 페퍼로니 있는거였는데 이름이 기억안나네요
+P1 	: 오 페퍼로니 맛있겠네요 어디 거 드셨어요?!
+P0 	: 치킨과 바람피자에서 시켰는데 좋았어요
+P0 	: 지금도 먹고싶네요
+P1 	: 오 처음 들어보는 브랜드인데 약간 피나치공 같은 건가요?
+P0 	: 네 그거랑 비슷한거같아요
+P0 	: 혹시 라멘도 좋아하세요?
+P1 	: 아 라멘 좋죠! 집 근처에 없어서 못 먹어요ㅋㅋㅋ
+P0 	: 어떤라멘 제일 좋아하세요?
+P1 	: 전 그냥 일반라멘???  그거 제일 자주 먹는 거 같아요
+P1 	: 미소는 생각보다 별로고 매운 건 먹기 힘들더라구요

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100017435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님~ 오랜만이네요
+P0 	: 점심은 드셨나요?
+P1 	: 안녕하세유
+P1 	: 넹 방금 ㅋㅋㅋ
+P0 	: 무엇을 드셨어요?
+P1 	: 솥밥이요
+P1 	: 17000
+P1 	: 비싸다
+P0 	: 오 솥밥 맛있었겠네요
+P1 	: 가성비 별루
+P0 	: 솥밥이 가격이 꽤 나가긴 하죠
+P1 	: &name1&님은용
+P0 	: 저는 집에서 왕 삼치 구워먹었어요
+P1 	: 우와 직접 ?
+P0 	: 어..  부모님이 구워주시긴 했는데
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ 집밥 ~~~
+P1 	: 반찬은요
+P0 	: 엄청 크고 두꺼워서 한참 구웠어요
+P0 	: 삼치가 크고 싱싱해서 사실 다른 반찬은 필요없더라고요
+P0 	: 삼치랑 김치랑 밥 먹었어요
+P1 	: 우왕 김치 맛잇을거같아요
+P0 	: 네 이번에 산 김치가 잘 익어서
+P0 	: 맛있게 먹고 있어요
+P1 	: 크..사셧구나 어디서요
+P0 	: 도미솔 김치라고
+P0 	: 전에 홈쇼핑서 샀다가 맛있어서 주기적으로 인터넷으로 시켜 먹어요

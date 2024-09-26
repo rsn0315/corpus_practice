@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요 안키워요. 키우시나요?
+P0 	: 저도 아직
+P1 	: 키우신적은 있으세요?
+P0 	: 어릴때밖에서요개
+P1 	: 어떤 개 키우셨나요?
+P0 	: 똥개죠
+P1 	: ㅋㅋㅋ 똥개도 귀여운데요. ^^
+P0 	: 네 좋더라구요
+P1 	: 제 친구도 똥개 키웠는데 듬직하대요 ㅎ
+P0 	: 네 멋져요
+P1 	: 오래 키우셨나요?
+P0 	: 네 4년

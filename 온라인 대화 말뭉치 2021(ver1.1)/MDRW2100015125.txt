@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015125
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행다니는거 좋아하세요?
+P1 	: 네 코로나라 지금은많이못다니지만 여행좋아해요
+P1 	: &name1&님은요
+P0 	: 저도 여행좋아해요! 국내여행 좋아하세요?
+P1 	: 네 국내여행어디가 가장좋으셨어요
+P0 	: 전 여수 순천이요! 방문하신적 있나요?
+P1 	: 네 둘다 너무좋죠ㅜㅜㅜ순천에선 순천만국가정원구경하고 시장구경하고
+P1 	: 순천어디가셨어요
+P0 	: 저도 국가정원이요! 맛집 많이 가셨나요?
+P1 	: 순천시장에 웃장있는데 가보셨어요?
+P1 	: 거기에 국밥진짜 맛있더라구여 머릿고기도 서비스로주시는데 양도많고ㅜ
+P0 	: 맞아요맞아요! 완전 인생국밥ㅠㅜ 기념품도 사셨나요?
+P1 	: 국내여행할때 기념품은 사본적이 거의없어요 제주도빼고 ㅎㅎ다 먹거리로 제뱃속에 기념해요
+P1 	: &name1&님은 기념품사시나요
+P0 	: 해외쪽 가면 한가득 사오는거같아욯ㅎ
+P1 	: 저두요 저는 작은거 냉장고자석하나사요 ㅋㅋㅋ
+P1 	: 어떤거 사오세요?
+P0 	: 텀블러요!

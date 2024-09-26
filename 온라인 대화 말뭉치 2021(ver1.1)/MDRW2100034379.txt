@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034379
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 어디가고싶으세요?
+P0 	: 아직 가까운 곳 중에 못 가본 대만 가보고 싶어요.
+P1 	: 오 대만 맛있는거 많을거같아요
+P0 	: &name2&님은 가보고 싶은 곳 있나요?
+P1 	: 저는 제주도가고싶으네요 친구가 내려갔는데 놀러오랬어요
+P0 	: 친구도 만나고 여행도 하고 좋을 것 같아요
+P1 	: 여행을 못가게되니 친구는 제주로 아예 내려가버렸어요 함가야하는데 틈봐야겠네요
+P0 	: 저도 제주 여행 가고 싶네요 ㅠ
+P1 	: 저두요 ㅜ 2차 까지 맞았는데 ㅎㅎ 여유가안나네요
+P1 	: &name1&님은 제주어디가세요
+P0 	: 사실 수학여행 이후로 안 가봐서 가보고 싶은 곳이 많네요ㅋㅋ
+P1 	: 아 그렇군요 어디가보셨나요
+P0 	: 어디였는지 정확히 기억은 안 나는데 오름 올랐을 때 되게 좋았던 기억이 있어요
+P1 	: 오 오름 좋죠 핑크뮬리가 장관이래요
+P1 	: 친구가 핑크뮬리 사진찍어보며줬어요 오름에서 가져왔다구 ㅎㅎ

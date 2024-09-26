@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100028901
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당근은 자주하세요?
+P0 	: 가끔 했는데 지금은 별로 안 하고 있어요
+P1 	: 저는 보기는 자주하는편인데 요즘은 거짐 안하는듯해요
+P0 	: 주로 사세요? 아님 파세요?
+P1 	: 주로 사는편입니다 파는건 거의 안하게 되더라구요
+P0 	: 저는 파는 걸 주로 했는데 요새 잘 안 팔리네요.
+P1 	: 흠 파는데 스트레스는 안받으세요? 저는 팔다보면 자꾸 스트레스가 쌓여서요
+P0 	: 아직까지 진상은 별로 안만나서 그런가 할만해요.
+P1 	: 넵 다행히 운이 좋으시네요
+P1 	: ㅎ 요즘엔 사람이 많아지니 당근도 어렵더라구요
+P0 	: 사람 많으면 더 잘팔리는거 아니예요?
+P1 	: 그만큼 진상도 늘어가고 있어서요 ㅜㅡ
+P0 	: 사람이 많아지면 진상이 많아지나봐요ㅠ
+P1 	: 넵 그러게욧 ㅜㅡ
+P1 	: ㅎㅎ 당근에는 주로 뭘 파세요?
+P0 	: 화장품 많이 산경우 팔거나 생필품 같은거요 ㅋㅋ

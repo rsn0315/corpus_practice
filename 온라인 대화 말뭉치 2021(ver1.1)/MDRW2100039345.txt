@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100039345
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요? 오늘 날씨 어때요?
+P1 	: 안녕하세요 오늘 날씨가 쨍쨍하네요
+P1 	: 저는 쨍쨍한 날을 별로 안좋아해서
+P0 	: 가을인데 아직은 여름같네요
+P1 	: &name1&님은 쨩쨍한 날 좋아하시나요?
+P1 	: 그러게요
+P1 	: 뜨거웠어요
+P0 	: 아 저도 쨍쨍한 날 안 좋아해요
+P0 	: 오히려 비 오는 날 좋아해요
+P0 	: &name2&님은요?
+P1 	: 아 저도요 비오는 날은 집에 있는거 좋아해요
+P1 	: 구름 많은 날이 좋아요
+P1 	: 안 덥게
+P1 	: ㅎㅎ
+P0 	: 오 저두요!
+P0 	: 햇빛 싫어하거든요
+P0 	: 아직 가을볕이 강하네요
+P1 	: 그러니까요 아직 가을 같지도 않아요ㅠㅠ
+P1 	: 빨리 선선해져야 할텐데
+P0 	: 전 가을이 제일 좋아하는 계절인데 휙 지나갈것 같아요
+P0 	: 어떤 계절 좋아하나요?
+P1 	: 마자요 저는 겨울이요
+P1 	: 추운날이 좋아요
+P1 	: 따뜻한 봄에 태어났는데 추운날을 좋아해요
+P1 	: ㅎㅎ
+P0 	: 전 여름 겨울 둘 중 고르라면 겨울요
+P0 	: 여름은 진짜 기빨리는듯 쥐약이에요
+P1 	: 저도욬ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 아 여름 인정....
+P1 	: 진짜 하루하루 축쳐져요
+P1 	: 더울수록 힘도 안나고
+P0 	: 완전 공감!

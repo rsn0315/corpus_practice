@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017237
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장다니세요?
+P1 	: 네 직장다니고있어용 &name1&님은요?
+P0 	: 전 학생이요 직장 어때요?
+P1 	: 그냥.. 돈 주니까 다녀요 ㅠ
+P0 	: 에구구 ㅜㅜ 월급은 어때요
+P1 	: 입에 풀칠할만큼은 줘요 ㅠ 금칠은 못하구요 ㅠ
+P0 	: ㅋㅋㅋㅋㅋㅋ 금칠 ㅋㅋㅋ
+P0 	: 돈이뭐라고 ㅜ 일하기싫네요
+P1 	: 맞아요 왜 사람은 죽을때까지 일해야할까요..
+P1 	: 전 노는게 좋은데 ㅠ 흑
+P0 	: 이직 생각은 없으시구요 ?
+P1 	: 이직 너무 귀찮아요 퇴근하면 누워있기도 바빠서 ㅋㅋ
+P1 	: &name1&님 좋은 회사 아시면 추천부탁해요~
+P0 	: 휴 ..삼선전자어때요
+P1 	: 그러게요.. 거기좋을까요... 전 돈은 많이주고 퇴근은 빠른곳이 좋은데 ㅋㅋ 가능할까요
+P0 	: 그런데가 잇나요
+P0 	: 그런데없으니까 돈이라도 마니. ....

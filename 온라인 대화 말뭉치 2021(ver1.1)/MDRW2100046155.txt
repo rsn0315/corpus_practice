@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 사고 싶은거? 동생 산 그 이어폰
+P1 	: 좀 한번 보고 싶긴 하더라
+P0 	: 너두 구매 하려고
+P1 	: 음 한번 관심이 간다 이거지!
+P0 	: 성능이 좋긴 한거니
+P1 	: 내가 저번에 동생 온거 써보니까
+P1 	: 좋던뎅?? 엄마는 안봤어?
+P0 	: 보긴 했는데 성능은 모르겠어
+P1 	: 전화도 해보지 않았나? 전화 어땠는뎅
+P0 	: 잘들리긴 했어
+P1 	: 응응 거봐 성능 괜찮아보여
+P1 	: 삼성 오프라인 매장 가서 한번 더 볼까 하지 뭐
+P0 	: 가격 비싼것 아닌가
+P1 	: 한 십만원 하지?
+P0 	: 온라인은 얼마였는데
+P1 	: 온라인도 그정도 해 아 좀더 하나?
+P0 	: 아 당근은 어때
+P1 	: 한번 고려해봐야겠다 당근마켓!!

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021182
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 좋아하는 카페 있으신가요
+P0 	: 주변의 작은 개인카페 탐방을 좋아해요
+P0 	: 님은요
+P1 	: 아 저는 디저트류따라 좋아하는 카페가 갈려요
+P1 	: 가령 프레즐은 탐탐이요
+P0 	: 오 탐탐이 프레즐 맛집이었군요
+P0 	: 몰랐어요
+P1 	: 일반 프레즐과 다르게 이탈리아 프레즐을 팔아요
+P0 	: 이탈리아 프레즐? 그게 뭔가요
+P1 	: 피자같은 맛나는 거예요
+P1 	: 빵속에 치즈 토마토소스 넣고
+P0 	: 완전히 피자 조합이네요 정말
+P1 	: 네  피자빵보다 훨씬 나아요. 전 페퍼로니 프레즐 좋아해요
+P0 	: 마침 집근처에 탐탐이 있네요
+P0 	: 사먹어봐야겠어요
+P1 	: 네 디저트보다 식사에 가까워요
+P1 	: 배부를때 시키지 마세요
+P0 	: 명심할게요!
+P1 	: 아 탐탐이 음료는 그저 그래요ㅜ
+P1 	: 그냥 아메리카노 드셔요

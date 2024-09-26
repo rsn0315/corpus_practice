@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046298
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐에요?
+P1 	: 안녕하세요! 오늘 주말인데 약속있으신가요?
+P0 	: 네
+P0 	: 있어요
+P1 	: 뭐하실 예정이신가요??
+P0 	: 우리 &name3& 보러갈거에요
+P1 	: 현우는 가족분이신가요??만나서 뭐하실거에요?
+P0 	: 가족이구요
+P0 	: 만나서 뽀뽀하고 안아줄거에요
+P1 	: 평일에는 못만나요ㅠㅠ?
+P0 	: 네 일주일에 2번?  많아야
+P1 	: 멀리떨어져서 사는건가요?
+P0 	: 멀리 있는건 아니에요. 바로 옆 도시에 있어요
+P1 	: 가까우면 자주 만날 수 있겠네요 ㅎㅎ!
+P1 	: 오늘 하루 &name3&와 좋은 시간 보내시길 바랍니다~
+P0 	: 네!

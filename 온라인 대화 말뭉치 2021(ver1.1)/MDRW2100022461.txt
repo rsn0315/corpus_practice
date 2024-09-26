@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100022461
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 군대 다녀오셨나요?
+P1 	: 네. 전역한지 오래되었습니다.
+	  현역이세요?
+P0 	: 저도 전역한지 오래됐어요 14년도 군번이에요
+P1 	: 저는 10년이요...
+	  어느 지역에서 근무하셨어요?
+P0 	: 저 32사에서 근무했어요
+P1 	: 32사는 충청지역 인가요?
+P0 	: 네
+P1 	: 저는 9사단이요.
+	  경기도 파주 입니다.
+P1 	: 그럼 육군이신거죠?
+P0 	: 오 백마부대에서 근무하셨구나 네 육군이에요
+P1 	: 주특기는 무엇이셨어요?
+	  저는 유선통신병이요.
+P0 	: 전 81mm박격포요
+P1 	: 우오오...고생많으셨겠어요.
+	  군 생활은 어떠셨어요?
+	  힘드셨나요?
+P0 	: 뭐 군생활이 힘든건 다 그렇죠
+P1 	: 사람관계는 괜찮았나요?
+	  그게 제일 중요하긴 한건데...
+P0 	: 사람관계는 평타는 쳤어요.

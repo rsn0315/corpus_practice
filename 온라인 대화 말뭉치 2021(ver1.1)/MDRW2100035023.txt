@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100035023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 식사 하셨어요?
+P1 	: 아니오 오늘은 늦잠자서 ㅠㅠㅋ
+P1 	: 점심을 12시에 먹으려구요
+P1 	: &name1&님은요?
+P0 	: 오늘도 아점이시군요:)
+P0 	: 저는 된장찌개에 호박전하고
+	  나머지는 있는 밑반찬에 먹었어요
+P1 	: 우와 성실한 메뉴에요 건강한 메뉴구요
+P1 	: 호박전은 어떤 스타일인가요? 애호박을 계란에 부쳤나요?
+P0 	: 네:) 맞아요
+P0 	: 애호박에 밀가루랑 
+	  계란옷 입혀서 한거에요
+P1 	: 저도 좋아하는데 바로 부친것만 맛있구 식은건 싫어해요
+P0 	: 맞아요ㅋㅋ
+	  식으면 비린내나요ㅜㅜㅋ
+P1 	: 비리고 물컹해서 맛이없죠
+P1 	: 가지도볶음도 식으면 맛없어요 ㅠㅠ
+P0 	: 맞아요ㅠㅠ
+	  가지볶음도 그런 음식 중 하나죠
+P0 	: 갓 해서 먹음 밥두그릇인데ㅋㅋ
+P1 	: 가지볶음은 식으면 스폰지 같아요 ㅋㅋㅋ
+P0 	: ㅋㅋ스폰지....ㅋㅋㅋㅋㅋ
+	  가지볶음은 한 끼 먹을만큼만
+	  하는걸로!
+P1 	: 그래야겠어요 3일된 가지볶음이 있는데 너무 먹기 싫어요
+P0 	: ㅋㅋ안드실거면
+	  보내드립시다ㅜㅜㅋㅋ
+	  그 자리 새로운 아이로 채워봐요

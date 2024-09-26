@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100003212
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님이 제일 좋아하는 맛집은 어떤 곳인지 궁금해요!
+P1 	: 저는 짬뽕을 잘하는 중국집을 좋아해요!
+P1 	: 좋아하시는 맛집이 있나요?
+P0 	: 저는 딱 제일 좋아하는 맛집은 없는 거 같아요
+P0 	: 예전에 되게 좋아하던 치킨집이 있었는데 거기가 없어졌어요ㅠㅠ
+P1 	: 아 그러면 아쉽죠
+P1 	: 뭔가 추억도 같이 사라지는 것 같잖아요
+P0 	: 그쵸 진짜 열심히 갔었거든요
+P0 	: 맛있었는데 너무 아쉬워요
+P1 	: 저도 좋아하는 맥주집 있는데
+P1 	: 갈때마다 손님이 없어서 항상 망하지말라고 기도해요ㅎㅎ
+P0 	: 헉 맞아요 왜 이런 곳을 몰라주지 한다니까요
+P0 	: 근데 소문은 넘 많이는 안났으면 좋겠구ㅋㅋㅋ
+P0 	: 거긴 무슨 안주가 맛있어요?
+P1 	: 맥주집은 감튀죠!!
+P1 	: 소스가 많아서 좋아요
+P0 	: 저도 감튀 좋아해요!
+P0 	: 나쵸도 좋아요
+P1 	: 나쵸 맛있죠 바삭바삭
+P1 	: 맥주는 좋아하는 종류 있으세요?
+P0 	: 저 맥주는 다 좋아해요
+P0 	: 얼음생맥 사랑합니다..
+P0 	: 캔으로 된 건 데스페라도스 좋아해요
+P1 	: 와 저도 데스페라도스 좋아해요!!
+P1 	: 맥주중에 도수가 높은편이라 맛있더라구요
+P0 	: 오 맞아요 그리고 감튀랑 너무 잘어울려요
+P0 	: 요새 곰표맥주도 맛있더라구요
+P1 	: 아 그거 아직 못먹어봤어요

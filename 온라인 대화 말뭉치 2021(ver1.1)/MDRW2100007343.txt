@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어디로 여행 가봤어?
+P0 	: 가장 마지막 여행은 제주도!
+P1 	: 제주도? 멋있겠다 난 어릴때 수학여행 간게 전부라서
+P1 	: 나머지는 해외야 제주도 어땠어?
+P0 	: 그 마저도 작년이라 아련하다ㅠ
+P0 	: 엄청 재밌었어
+P1 	: 작년에 갔구나 뭐 봤어?
+P0 	: 거의 호캉스였어
+P0 	: 여유롭게 저녁만 나가서 먹고 드라이브하고 정도
+P1 	: 힐링하기 좋았겠다
+P0 	: 응 호캉스 가봤어?
+P1 	: 해외 있을때 가봤어 호캉스라 부르긴 그랬지만 ㅋㅋ
+P0 	: 해외는 호캉스 뭔가 아쉽지
+P1 	: 응 맞아 제대로된 게 없더라
+P0 	: 거기다 이왕 출국이니까 왠지 더 구경하고싶고
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 응 맞아

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100023727
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 넹 반려동물 키우시나요?
+P0 	: 아뇨..ㅠㅠ 키우고싶다는 생각은 많리하고있어요.
+	  &name2&은요?
+P0 	: &name2&은 키우시는 동물이 있으세여?
+P1 	: 저도 키우고 싶어요
+P0 	: ㅋㅋㅋ저는 고양이 키우고싶어요..
+P1 	: 음 굳이 따지면 금붕어...?정돜ㅋㅋㅋㅋ
+P0 	: 아 금붕어 키워보셧어요??ㅋㅋㅋ
+P1 	: 헉 고양이 귀엽죠ㅠㅠ
+P0 	: 귀엽긴하죠 ㅋㅋㅋ
+P1 	: 네네 금붕어 어릴때 키우고 요즘은 안키워요
+P0 	: 통통하고 색깔도 주황색 검정색이라 귀여워여
+P0 	: 오 저도여.. 열대어도 키워보고 병아리도 키워봤러요
+P1 	: 마자여 그냥 보고있으면 평화로워져요
+P0 	: ㅋㅋㅋㅋ 그런데 비린내가 넘 심해서 ㅋㅋㅋ
+P1 	: 오 병아리!!! 어릴때 할아버지들이 파는거 많이 봤는데
+P0 	: 예전에 금붕어한테는 미안하지만 
+	  어린이날때 막 금붕어주는 마트도 잇엇어요..
+P1 	: 맞아요 비린내땜에 물 바꿔주는거 중요해요
+P0 	: 엄마가 금붕어 엄청많이 가져와서 곤란햇던기억이..ㅎ
+P0 	: 그쳐... 흑 나쁜인긴이네요..
+P1 	: 마트에서 봉다리에 주는거 추억이다
+P0 	: 병아리도 마트에서 받아왔는데
+P1 	: 헉 그로구나
+P0 	: 금방죽더라고요..
+P1 	: 아무래도ㅠㅠ
+P0 	: 나중에 엄마 아는분께서 병아리 주셧거든요

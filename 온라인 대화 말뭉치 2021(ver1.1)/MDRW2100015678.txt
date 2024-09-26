@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 초코라떼 꿀 맛
+P0 	: 초코라떼?
+P0 	: 어디꺼가 맛있어?
+P1 	: 난 할리스나 이디야가 맛있엉
+P0 	: 왜??
+P1 	: 휘핑 때문인 것 같아
+P0 	: 휘핑이 왜?
+P1 	: 많이 올리면 달달해서 맛있거든
+P0 	: 나도 휘핑 좋아해.
+P1 	: 아 넌 무슨 음료 좋아해?
+P0 	: 나는 초콜릿라떼
+P1 	: 너도?
+P0 	: 이디야꺼가 맛있어.
+P1 	: 그리고 또 몰 좋아해?
+P0 	: 나 초코라떼가 제일 좋은데 아이스티를 제일 많이 먹어
+P1 	: 복숭아 아이스티?
+P0 	: 웅
+P1 	: 왜 많이 마시니?
+P0 	: 가장 저렴하고 맛도 나쁘지 않거든
+P1 	: 아 맞아 여름에 특히 맛있는 것 같아
+P0 	: 그치그치
+P1 	: 아 내가 음료 추천해줄까ㅡ
+P0 	: 웅
+P0 	: 해줘
+P1 	: 레몬셔벗블렌디드 마셔봐!
+P0 	: 그건 어디꺼야?
+P1 	: 투썸플레이스
+P0 	: 나 어제 연어초밥 먹었다

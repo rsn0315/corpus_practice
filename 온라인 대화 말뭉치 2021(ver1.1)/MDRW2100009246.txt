@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100009246
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물있으세요?
+P1 	: 아뇨 반려동물은 안 키웁니다..
+P0 	: 키우고싶으신가요?
+P1 	: 막 그렇게 키우고 싶지는 않아요,,
+P0 	: 저는 강아지가 키우고싶어요
+P0 	: 안키우고싶은 이유가 있나요?
+P1 	: 동물을 아예 키워본 적이 없어서 조금 무서운 것 같아요..
+P1 	: 강아지는 왜 키우고 싶으세요?
+P0 	: 자식같아서요!
+P0 	: 근데 저도 책임감때문에 당장은 못 키우겠어요ㅠㅠ
+P1 	: 어떤 종 키우고 싶으세요? 관심있는 종 있나요?
+P1 	: 아 책임감 중요하죠..
+P0 	: 저는 시베리안 허스키요!
+P0 	: 사실 좀 귀여운 종을 키우고싶어요
+P1 	: 오오 허스키..
+P1 	: 아기 땐 귀여운데 나중에 엄청 커지지 않나요?
+P0 	: 네 커도 귀엽죠!
+P0 	: 하지만 병원비도 보험이안돼서 아마 못 키울 것 같네요..ㅠㅠ
+P0 	: 반려동물 용품 아는 것 있으신가여?
+P1 	: 아아 아프면 병원비가 좀 많이 깨지긴 하겠네요..
+P1 	: 용품은 딱히 아는 게 없습니다..!
+P0 	: 저도 잘 모르는데 반려동물과 함께하는 유튜브도 많아서
+P0 	: 용품도 만만치않게 비싸다고하네요
+P1 	: 아아 요즘 그런 유튜브들 많죠
+P1 	: 용품도 비싸다니.. 형편이 그리 좋지 않으면 반려동물도 못키우겠네요
+P0 	: 그렇죠

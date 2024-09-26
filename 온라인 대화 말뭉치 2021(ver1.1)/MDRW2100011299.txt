@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100011299
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 혹시 기억에 남는 여행지 있으실까요?
+P0 	: 국내는 강릉좋아해요
+P0 	: 님은요?
+P1 	: 저도 강릉 좋아해요
+P1 	: 바다도 이쁘고 볼것도 많고
+P0 	: 저도요ㅋㅋㅋ
+P0 	: 맛집도 많죠
+P1 	: 강릉에서 먹었던건 순두부가 기억나네요
+P0 	: 초당순두부
+P0 	: 유명하죠ㅋㅋㅋ
+P1 	: 맞아요ㅋㅋ 초당 순두부 아이스크림도 나왔다던데
+P0 	: ㅋㅋㅋ 거기 강릉에
+P0 	: 젤라또도 유명하죠 유행인지
+P1 	: 젤라또는 못먹어 봤어요
+P1 	: 무슨 맛이 맛있던가요?
+P0 	: 비슷비슷했던거같은데 기억이잘안나네요ㅋㅋㅋ
+P0 	: 초당순두부맛도 괜찮았던것같아요
+P1 	: 전부 초당순두부군요ㅋㅋ
+P0 	: ㅋㅋㅋ맞아요 아예
+P0 	: 초당순두부마을이 있잖아요ㅋㅋㅋ

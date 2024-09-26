@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013766
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 혼자 사시나요?
+P1 	: 저는 가족들이랑 같이 살고있어요
+	  혼자 사시나요?
+P0 	: 저두 가족들과 살고 있어요! ㅎㅎ
+P1 	: 자취해 본적은 없으신가요?
+P0 	: 전 한 10년동안 나가 살다가 다시 고향으로 오면서 가족들이랑 살게됐어요 ㅎㅎ &name2&님은 자취해보셨나요?
+P1 	: 저는 아직 자취경험이 없어요!
+	  제 친구보니까 자취하다가 본가 들어가면 다시 방 찾아 나가려고 자취방향수병(?) 걸린다던데 약간 그런게 있나요 ㅎㅎ
+P0 	: 자취방향수병ㅋㅋㅋㅋ 음 뭔지 알 것 같아요ㅋㅋ 근데 저는 혼자 사니까 넘 외로웠어서 돌아온 걸 후회하지 않아요! ㅎㅎ
+P0 	: 밥도 더 잘챙겨먹고 혼자 있어서 무서운 것도 없구요!
+P1 	: 자취도 적성 같은게 있네요 ㅎㅎ
+	  혼자 살면 보통 식비는 얼마나 드나요?
+P0 	: 음 그때그때 다른거같아요 ㅠㅠ 보통 아침은 굶고 점심은 회사에서 먹고 저녁은 거의 사먹고해서.. 뭘 사먹느냐에 따라? 반주를 하느냐에따라 또 달라지더라구요 ㅋㅋㅋ
+P1 	: 주위에 어떤 배달맛집이 있느냐가 중요하겠네요ㅎ
+	  
+P1 	: 집안일 하는 날이 정해져있나요?
+P0 	: 아뇨 정해두진 않고 그냥 매일 하는 편이에요!

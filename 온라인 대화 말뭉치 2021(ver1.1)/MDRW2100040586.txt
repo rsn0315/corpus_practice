@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100040586
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 혹시 야식 드시나요?
+P0 	: 네 &name2&님도 드시나요?
+P1 	: 지금도 고민중이예요 먹을까 말까?? ㅋㅋ
+P0 	: ㅋㅋㅋㅋ그럼 지금 뭐가 드시고 싶으신가요?
+P1 	: 아직도 참고 있는데 깔루아라도 한잔 마셔야겠어요
+P0 	: 깔루아는 어떤 음식인가요?
+P1 	: 커피맛 나는 술이예요 ㅎ
+P0 	: 그럼 좀 덜 취하나요?
+P1 	: 맛있다고 계속 먹으면 그대로 쓰러진대요
+P0 	: 그렇군요 그럼 많이 단가요?
+P1 	: 술이라고 못 느낄 정도로 커피우유 맛이예요
+P0 	: 우와 한 번 먹어보고 싶네요

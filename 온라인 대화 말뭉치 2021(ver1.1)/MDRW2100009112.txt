@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009112
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 배달 음식이 있으신가요?
+P1 	: 떡볶이요!
+P1 	: &name1& 님은요?
+P0 	: 저는 치킨이요! 교촌 허니콤보가 최애입니다ㅎㅎ
+P1 	: 매운 거 잘 못 드시는 편이세요?
+P0 	: 네..거의 가장 순한맛만 먹어요ㅠ
+P1 	: 오! 허니콤보 좋아하시는 분들은 보통 매운 거 못 드시는 분들이라는 말을 들어서 여쭤봤는데 맞았네요
+P0 	: 예리하셨어요ㅎㅎ 허니콤보 정말 한 줄기 빛과 같은 메뉴예요ㅋㅋ
+P1 	: ㅋㅋㅋ저도 예전에 먹어봤었는데 맛있더라고요
+P1 	: &name1&님은 피자보다 치킨 더 좋아하세요?
+P0 	: 피자를 더 좋아하는데 가족은 치킨을 더 많이 먹어서요ㅠ
+P1 	: 제일 좋아하시는 피자가 뭐예요?
+P0 	: 포테이토를 가장 좋아해요! 질리지 않더라구요ㅎㅎ
+P1 	: 아 전 고구마피자요ㅋㅋ
+P1 	: 감자랑 고구마 중에서 감자 더 좋아하세요?
+P0 	: 네네ㅋㅋ 감자튀김류와 감자전 절대 못 잃어요ㅋㅋ
+P1 	: 아 감자전 맛있죠

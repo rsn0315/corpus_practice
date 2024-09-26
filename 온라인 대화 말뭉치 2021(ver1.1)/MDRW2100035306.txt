@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035306
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 자주 다니시나요?
+P1 	: 아뇨 돈이 없어서 자주 못가요 ㅎㅎ
+P0 	: 요리 자주 해드시겠네요 ㅎㅎ
+P0 	: 저는 손맛이 없어서 제가 한 요리를 안 좋아해요 ㅋㅋㅋㅋ
+P1 	: 아뇨 요리도 자주안해요
+P0 	: 그럼 완제품을 주로 드시나요?
+P1 	: 뭘 잘 안먹어요 카페 자주 가세요?
+P0 	: 조금이라도 출근을 늦추기 위해서 가요 ㅎㅎ
+P0 	: 카페 자주 가세요?
+P1 	: 아뇨 가끔 가요 ㅎㅎ
+P0 	: 좋아하는 메뉴 있나요?
+P1 	: 아이스 아메리카노요 ㅎㅎ &name1&님은요?
+P0 	: 저는 카페인을 잘 못 먹어서 티를 자주 먹어요 ㅎㅎ
+P1 	: 그러셨군요 불편하시겠어요
+P0 	: 네 커피 마셔야 할 자리가 많은데 이미 주문되어 있거나 하면 난감한 경우가 많아요 ㅎ

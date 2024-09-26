@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003782
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 옷을 왜 사는데
+P0 	: 없으니까 사지
+P1 	: 옷 많은데
+P0 	: 없다니까
+P1 	: 내 거랑 옷 같이 입자
+P0 	: 엄마옷은 커서 커서 못입는다
+P1 	: 별로 안 큰데
+P0 	: 크다! 암튼 새로 옷 살거야
+P1 	: 튼튼한 걸로 사라
+P0 	: 당연하지~
+P1 	: 너무 싸구려 사지 말고
+P0 	: 알겠어용~
+P1 	: 오래오래 입는 걸 사야지
+P0 	: 컴터가 넘 느리다 ㅠ

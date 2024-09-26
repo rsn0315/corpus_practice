@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030731
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이제 새 제품들을 살 때가 되었네요
+P0 	: 이불도 여름 이불을 10년 동안 덮었어요
+P0 	: 건조해서 아침에 빨면 오후에 말랗거든요
+P1 	: 이제 추워지니 따뜻한 이불을 덮을 때가 되어 들어
+P0 	: 나중에는 구멍이 나더라고요
+P1 	: 여기는 슾하잖아요
+P0 	: 이불이 삭는 거보셨나여
+P1 	: 아니요 본 적 없어요 새로 사셔야 할 것 같아요
+P0 	: 이불은 놓고 왔지요
+P0 	: 에어 프라이기도 못 들고 와서 슬픕니다
+P1 	: 현명한 선택입니다 여기에서 새로 사세요
+P0 	: 그건 5년 밖에 안 됐는데
+P1 	: 이불 살려면 가게에 가나요 아니면 쇼핑 온라인으로 하나요
+P0 	: 그냥 온라인 샵도 괜찮아요
+P1 	: 에어 프라이기 당근으로 구해 보시는 건 어때요
+P0 	: 그건 새 걸로 구해 구해야 해요
+P1 	: 당근마켓에서 은근 괜찮은 제품 많은 거 같더라고요

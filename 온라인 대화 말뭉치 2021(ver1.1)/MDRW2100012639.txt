@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012639
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 직장인 이신가요
+P1 	: 아뇨 알바를 하고 있긴 해요
+P0 	: 어떤 알바를 하시나요
+P1 	: 패스트푸드 점 아르바이트를 해요
+P0 	: 서서 일하는 서비스업이라 힘드시겠어요
+P1 	: 네 힘들긴 해요...ㅋㅋ 하지만 식대랑 휴식시간을 잘줘서 하고 있어요
+P0 	: 그래도 다행이네요
+P1 	: 그러게요 &name1&은 직장이 있으신가요?
+P0 	: 네 조그만 의료용품 제조회사 다닙니다
+P1 	: 오! 힘든 점 있으신가요?
+P0 	: 매일 아침에 출근하는게 힘들죠
+P1 	: 그렇군요! 그럼 좋은 점은 있으신가요?
+P0 	: 뮈든 장단점은 다 있죠
+P0 	: 직업 스트레스는 없나요

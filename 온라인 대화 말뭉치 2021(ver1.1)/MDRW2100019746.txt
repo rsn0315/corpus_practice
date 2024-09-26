@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019746
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 네 좋아하는데 가본지 오래됐ㅇㆍ요
+P1 	: 올 여름 휴가는 다녀오셨어요?
+P0 	: 방콕이여ㅎ
+P1 	: 우아~ 좋으셨겠어요~ 방콕 여름 덥나요?
+P0 	: 집 방콕ㅎㅎㅎ
+P1 	: 앗!! ㅋㅋ 전 진짜 방콕다녀오신줄.. 전 시댁 다녀온게 휴가였네요.
+P0 	: 시댁이 어디세요?
+P1 	: 점촌이라고 문경새재 근처에요.
+P0 	: 아 그러시구나
+P1 	: 근방에 한적하고 다닐 곳 많아서 좋아요. 문경새재도 참 좋구요.
+P0 	: 여행같으시겠어요
+P1 	: 네.. 씻는거 불편한거 빼고는 여행같고 좋아요.ㅎ 여행가면 기념품 사는 스타일이세요?

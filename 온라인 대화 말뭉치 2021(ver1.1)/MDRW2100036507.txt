@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100036507
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 너는 제습기써본적잇니?
+P0 	: 너 그거알아?
+P0 	: 아.. 난 없어. 에어컨에서 그 기능을 써.
+P0 	: 제습기는 비싸
+P1 	: 아하 난 에어컨으로 부족해서 비싼걸 갖고싶더라
+P0 	: 제습기를 써면 방 온도가 놓아져
+P0 	: 높아져
+P1 	: 그러니까 ㅠ 좀 싸게 내주면 좋겠어
+P1 	: 어머 그건 몰랐던 사실이네
+P1 	: 너는 나한테 뭘 물어보려고했어?
+P0 	: 사막같이 돼
+P0 	: 아냐. 제습기 흥미로워.
+P0 	: 가격대는 알아본거야?
+P1 	: 응 한 이십만원하더라...
+P1 	: 그건 누구한테 사달라고 할 수도 없잖아?
+P0 	: 세상에
+P0 	: 진정한 금값이네
+P0 	: 맞아
+P0 	: 아빠한테 조르는 던 어때?
+P1 	: 친구 열면 모아서 사달라고 할까?
+P0 	: 아니면 동생에게 졸라봐! 추석맞이 용돈을 받자
+P1 	: 이미 용던을 두배로 받아서
+P1 	: 그럴 염치가 없어
+P0 	: 열명모아서 좋지
+P0 	: 경제적이구나

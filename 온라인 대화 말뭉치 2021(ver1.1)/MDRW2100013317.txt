@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013317
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 커피 좋아하시나요?
+P1 	: 하루에 한잔씩 마세요~
+P0 	: 저도 좋아해서 꼭 마시네요 ㅎㅎ
+P0 	: 어디 커피 제일 좋아하시나요
+P1 	: 스벅도 좋지만 텐퍼센트도 괜찮고 ㅋ
+P0 	: 텐퍼센트는 첨 들어봤어요 오 프랜차이즈인가요?
+P1 	: 아 여기 부산인데 부산에는 많아요. 프랜차이즈예요
+P0 	: 아 그렇군요!! 찾아보니까 저희 동네에도 하나 있네요!
+P0 	: 맛있는 메뉴 있나요?
+P1 	: 뭐 저는 라떼나 비엔나커피 요런거 전 좋아해요
+P0 	: 비엔나커피도 파는군요 크림 들어가있나요?
+P1 	: 비엔나는 없나 기억 안나네. 이건 제가 좋아해서ㅋ
+P0 	: 네 ㅎㅎ 배달음식도 자주 드시나요?
+P1 	: 전 배달은 잘 안 시켜요
+P0 	: 아 그러시구나 저도 자주는 안 시키고 치킨만 가끔 시키네요 ㅎㅎ
+P0 	: 좋아하는 음식이 어떻게 되세요

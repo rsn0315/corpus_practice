@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045336
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아직 모름 넌
+P0 	: 난 어제 남은 고기 데워 먹을려고
+P1 	: 맛없을낀데 데워멱으면
+P0 	: 버릴수가 없으니
+P1 	: 맞다 어떻게든 먹어야지
+P0 	: 엉 파김치 사온거랑 같이 먹을려고
+P1 	: 파김치 맛나겠다
+P0 	: 조금사와서 낼 먹으면 없을듯
+P1 	: 좀더사오지
+P0 	: 맛없을까봐서
+P1 	: 잘했네
+P0 	: 엉 난중에 가면 또 사올려고
+P1 	: 그럼 되겠네
+P0 	: 엉 귀찮지만

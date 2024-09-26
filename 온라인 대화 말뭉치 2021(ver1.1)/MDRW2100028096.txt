@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100028096
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 점심 맛있게 드셨나요?
+P1 	: 아.. 남은거 대충 먹고치웠어요ㅠㅠ..
+P1 	: &name1&님은 맛있는거 드셨나요?
+P0 	: 닭볶음탕 먹었어요!
+P0 	: 저녁은 잘 챙겨드셔야죠!
+P1 	: 그러게요ㅎㅎ 뭐가좋을지 고민되네요
+P1 	: 닭볶음탕은 직접 만드셨나요?
+P0 	: 나가서 먹었어요! 오늘 회사밥이 안 좋아하는 메뉴여서 ㅎㅎ
+P0 	: 닭볶음탕 만들줄 아세요??
+P1 	: 저는 만들어본적없는데 집에서는 자주 만들어먹어요ㅎㅎ
+P0 	: 집에서 만들어 먹는게 제일 맛있는 것 같아요 ㅎㅎ
+P0 	: 오늘은 마지막에 볶음밥도 못 해먹고 나와서 미련이 남습니다ㅠㅠ ㅎㅎㅎ
+P1 	: 아이고 볶음밥은 필수인데ㅠㅠ 점심시간은 좀 촉박하죠..ㅠㅠ
+P0 	: 네ㅠ 포장해오기도 좀 그래서 미련만 남습니다ㅠㅠ
+P0 	: 그래서 저녁을 맛있는 걸로 먹고싶은데 고민이에요 ㅎㅎ
+P1 	: 저는 보니까 고기가있어서 고기구워먹으려구요ㅎㅎ!!
+P0 	: 고기는 굽기만 해도 좋죠! 맛있는 거 찾으셨네요 ㅎㅎ

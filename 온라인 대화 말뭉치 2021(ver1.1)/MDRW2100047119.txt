@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047119
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 고등학교 졸업하고부터 친구들이랑 매년 갔었는데
+P1 	: 일 시작하고부턴 잘 안되네요. 코로나 문제도 있고..
+P0 	: 시간더 없죠
+P1 	: 네네 맞아요. 저 쉬기도 바빠서..ㅎㅎ
+P0 	: 나이드니까 다 그런것 같아요
+P1 	: 먹는 영양제만 늘어갈 뿐..ㅎ
+P0 	: 어디 가고 싶은데 있어요?
+P1 	: 아 전 강원도요!
+P1 	: 한 번도 가 본 적이 없어서요...
+P0 	: 전 바다
+P1 	: 바다는 가까운데 이것도 코로나 때문에 못 간지 꽤 됐네요...
+P0 	: 사람많아여
+P1 	: 저 빼고 다 놀러다니는듯...
+P0 	: 지킬건지키고해야되는데

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100030458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 가족이랑 같이 사시나요?
+P0 	: 네. &name2&님은요?
+P1 	: 저는 부모님이랑 같이 살아요
+P0 	: 저도 그래요
+P0 	: 형제자매가 있으신가요?
+P1 	: 동생이 한 명 있어요
+P0 	: 아항
+P0 	: 저는 언니가 한명있어요
+P1 	: 사이가 좋나요?
+P0 	: 나이차이가 많이 나서 그런지 사이는 좋은 것 같아요
+P0 	: &name2&님은요?
+P1 	: 저는 10살 차이인데 서로 가치관이 달라서 잘 부딪혀요
+P0 	: 헉 10살차이면 초등학생이나 중학생 아닌가요?
+P0 	: 그정도면 보통 언니 말을 많이 따르던데
+P1 	: 네 곧 중학교 들어가죠
+P1 	: 지금 애들 보면 딱히 그런거 같지는 않아요. 제 주변도 비슷한 고민을 안고 있고요
+P0 	: 아하ㅋㅋㅋ...
+P0 	: 동생이 자기주장이 강한가봐요
+P0 	: 동생입장에서는 은근 언니가 있으니까 많이 든든하던데
+P1 	: 그럴 나이죠. 이해는 하지만 저는 안 그래봐서 잘 모르겠네요
+P0 	: 내심 많이 의지하고있을 수도 있을것같아요
+P1 	: 그렇게 느끼는건 맞는것 같기도 해요. 무슨 문제가 생기면 저한테 달려오거든요 ㅎㅎ
+P0 	: 우와ㅋㅋㅋㅋㅋ
+P0 	: 엄청 믿음직한 언니인가봐요

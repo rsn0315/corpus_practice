@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100045094
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P0 	: 일하시나요?
+P1 	: 아니요 이직 알아보고있어요 님은요?
+P0 	: 근무중이요!
+P0 	: 경력이 얼마나 되셨어요?
+P1 	: 이직은 보통 3년 이상 잘 쳐주는 걸 알아서 3년이상요
+P1 	: 어떤 일 하세요?
+P0 	: 사무직이요!
+P0 	: 회계
+P1 	: 회계 어렵겠어요 학교 다닐때 회계원리만 배웠거든요
+P0 	: 지금도 잘모르겠어요
+P0 	: 전공 어떤거예요?
+P1 	: 국제통상요
+P0 	: 어! 저도 국제경영!!
+P1 	: 오 어쩌다 회계팀을 가신건가요
+P0 	: 토익없이 갈 수 있는 데 넣다보니
+P1 	: 아하 토익 진짜 지겨워요 전 다시 봐야하는데 눈물나네요
+P0 	: 아..전 아마 신발사이즈...
+P1 	: 전 다시 하려니 막막하네요

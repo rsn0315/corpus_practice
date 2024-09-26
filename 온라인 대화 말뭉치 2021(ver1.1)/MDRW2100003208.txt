@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100003208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요새 운동하는거 있으세요?
+P1 	: 워킹패드로 걷기하고잇습니다ㅎ &name1&님은요?
+P0 	: 우와 신기해요 워킹패드
+P0 	: 저도 날씨 좋아지면 슬슬 런데이 하려구요!
+P1 	: 집에서 런닝머신보다 자리를 덜 차지해요ㅎㅎ
+	  달리기로 다이어트하시나요?
+P0 	: 네 다이어트 겸 체력을 위해서...
+P0 	: 날씨 너무 더우면 나가기가 싫더라구요
+P1 	: 다이어트로 젤마니뺀건 몇키로에요?
+P0 	: 저는 5키로 정도 빼봤어요!
+P0 	: 진짜 힘들었어요ㅠㅠ
+P1 	: 맞아요 찌는건 빠른데 빼는건힘들어요
+	  유지는하고계신가요?
+P0 	: 조금 쪘어요
+P0 	: 요새 입맛이 너무 좋아가지구 잘 먹어요
+P0 	: 혹시 해보고 싶은 운동 있으세요?
+P1 	: 저 테니스해보고싶어요ㅎㅎ
+	  테니스칠줄아세요?
+P0 	: 아뇨 한 번도 안해봤어요
+P0 	: 뭔가 힘이 빡 생길 거 같아요 테니스하면ㅎㅎ
+P1 	: 꼭한번해보고싶은 운동이랍니다ㅎㅎ
+P0 	: 저는 클라이밍 배워보고 싶어요
+P0 	: 올림픽에서 보는데 진짜 멋있더라구요

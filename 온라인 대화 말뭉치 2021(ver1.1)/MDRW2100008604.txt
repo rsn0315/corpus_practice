@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008604
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맞아요ㅎ 저도 점심먹고 커피는 필수코드
+P0 	: 주로 가시는 카페있어요?
+P1 	: 네네
+P0 	: 전 대부분 스벅아님 회사건물 카페가는데
+P1 	: 아 그렇군요
+P1 	: 저는 아직 대학생이라
+P1 	: 학교 근처 카페 가요
+P0 	: 가격은 저렴하겠어요
+P0 	: 학교근처면 싸고 맛있는 맛집도 많겠네요
+P1 	: 그랬으면 좋겠는데 상권이 별로라서요ㅜ
+P0 	: 싸고 맛있는 맛집 많을줄 알았는데
+P0 	: 아닌가보네요
+P1 	: 몇개 있긴 한데 거기밖에 갈 데가 없어요ㅠㅜ
+P0 	: 보면 대학가에 메뉴도  많고 값도 싸던데
+P0 	: 주로 그럼 밥은 어떤거 사드세요?
+P1 	: 분식이나 마라탕?
+P0 	: 마라탕이 유행인가봐요ㅎㅎ
+P0 	: 향식료 많이 들어가지 않나요?
+P1 	: 맞아요 근데 거부감이 드는 그런 건 아니더라고요
+P0 	: 마라샤브샤브 먹어봤는데 완전마라는 아니더라구요

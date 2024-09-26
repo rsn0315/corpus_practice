@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032428
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐 드실계획인가요?
+P1 	: 저 포케 먹고 싶어요!!
+P0 	: 맛있나요?
+P1 	: 네네, 건강하게 맛있어요
+P0 	: 건강한맛 좋죠
+P0 	: 전 아직 뭘먹을지 못정했어요
+P1 	: 아니, 저런
+	  땡기는 게 없으신가요
+P0 	: 그러네요 ㅜ
+P0 	: 좀 자극적인걸 먹어야하나
+P1 	: 자극? 마라탕? 떡볶이?
+P0 	: 마라쪽이 좀 땡기긴하는데
+P0 	: 오늘말고 다음에요ㅋㅋ
+P0 	: 매운거 잘드세요?
+P1 	: 옛날엔 좀 먹었는데 지금은 맵찔이에요
+P0 	: 한참 안먹으면 변하긴하더라구요
+P1 	: 맞아요

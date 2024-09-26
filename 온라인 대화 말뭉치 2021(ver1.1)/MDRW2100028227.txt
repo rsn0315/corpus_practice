@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100028227
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 미역국먹었습니다 소고기미역국 vs 조개미역국 vs 기타
+P1 	: 무엇이신가요
+P0 	: 소고기요!!!
+P1 	: 역시 미역국은 소고기죠! 뭘좀 아시네요
+P0 	: ㅋㅋ그럼요!
+P0 	: 참치도 맛있대요
+P1 	: 급식에 나온적있었어요 ㅋㅋㅋㅋㅋ 뭐 나름 먹을만한데 경상도는 들깨미역국 많이먹어요 ㅋㅋ
+P0 	: 경상도부심인가요 ㅋㅋ
+P1 	: ㅋㅋㅋ 아니요 맛없어요 왜먹는지모를
+P0 	: 들깨 왜 넣징
+P1 	: 들깨칼국수는 맛있지만 미역국은 좀 아니에요진짜
+P0 	: ㅋㅋ 경상도음식 아입니까
+P1 	: 여긴 막 성게미역국 이런거도 먹고 그래요 ㅋㅋㅋ
+P0 	: 성게는 먹어봤어요
+P1 	: 맛있던가요
+P0 	: 네 통영인가 가서
+P0 	: 먹은거같은데
+P1 	: 전 사실 조개와 친구들을 먹지 않아요

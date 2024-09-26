@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002718
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장 다니세요?
+P1 	: 아니요 집에있어요
+P0 	: 아~구직 중이신가요?
+P1 	: 음..네 직장다니세요~?
+P0 	: 네~다니고 있어요~
+P1 	: 아^^ 무슨일하세요~?
+P0 	: 저는 사무직이에요~
+P0 	: 구하는 일은 어떤 일이세요?
+P1 	: 아..사무직이요 ㅎㅎ
+P0 	: 아~~해피님도 사무직 구하시군요 ㅎ
+P1 	: ^^&name1&님 회사생활은 어떠세요~?
+P0 	: 스트레스 연속이에요ㅠ
+P1 	: 아 ㅜㅜ 스트레스 그치용
+P0 	: 네~편하게 다닐수 있는곳이 있으면 좋겠어요
+P1 	: 맞아요~ 일때문에 스트레스 받으시는건가요 사람때문에도 스트레스 받으시는건가요
+P0 	: 사람때문에요ㅠㅠ
+P1 	: 아 ㅜㅜ 정말 힘드시지요
+P0 	: 네~오늘은 스트레스 근원자가 조퇴를 해서 맘놓고 폰하네요 ㅎ
+P1 	: 아~^^ 다행이네요 ㅎ 몇시에 퇴근하세요?
+P0 	: 6시에요 ㅎ

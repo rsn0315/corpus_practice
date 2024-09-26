@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100039344
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 제 나이요?
+P1 	: 아아 조카들이요!
+P1 	: 제일 큰 아이가 지금 11살이고 둘째는 8살
+P1 	: 작은언니네 조카는 10살이에요! 한국나이로요 ㅎㅎ
+P0 	: 아 다들 초등학생이군요 학교생활은 재밌대요?
+P1 	: 원래 재밌어하곤 했는데
+P1 	: 코로나 때문에 못가더라구요 ㅠ
+P1 	: 음... 여행 이야기를 하자면
+P1 	: 그래서 둘째 언니네 있는 미국에 가는게 소원이에요
+P1 	: 시카고랑 가까운데 ㅠ
+P0 	: 아ㅎㅎ 이전에 가보신 적 있으세요?
+P1 	: 아니요!!! 한 번도 안가봤답니다ㅜ
+P1 	: 비행기값이 정말 만만치 않더라구요..
+P0 	: 그쵸 저도 비행기값이랑 비행시간땜에 미국은 엄두를 못내고있네요
+P1 	: 맞아요 거기다 저 혼자 가는 것도 아니고
+P1 	: 부모님도 모시고 가야하니,,,
+P0 	: 부모님도 많이 보고싶어하시겠어요
+P1 	: 맞아요...
+P1 	: &name1&님은 부산 다녀오신 적 있으신가요?
+P0 	: 부산 멀진 않은데 많이는 아니고 두번 정도 간 것 같아요ㅋㅋ 부산 좋아하세요?
+P1 	: 저는 한 번도 안가봤는데 너무 가고싶어요!
+P1 	: 해운대 가고싶네요ㅠ 센텀시티요!
+P0 	: 아 거기 좋아요 밤되면 진짜 분위기있어요
+P1 	: 역시 아시는군요 ㅠ0ㅠ

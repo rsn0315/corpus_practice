@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002909
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 커피자주드세요?
+P0 	: 커피는 안먹는 편이네요 커피 자주 드세요?
+P1 	: 저는 매일마셔요 필수에요! 카페 자주가세요?
+P0 	: 거의 매일가요 카페 자주 가세요?
+P1 	: 네네 근데 드라이브스루를 더 선호해요
+P0 	: 드라이브스루가 편하긴 하죠 무슨커피좋아하세요?
+P1 	: 아이스아메리카노가 좋아요
+	  커피말고 그럼 뭐드세요? 종류?
+P0 	: 과일주스나 아이스티 좋아해요
+	  유명 카페 찾아다니시는 편이세요?
+P1 	: 예전에는 다녔는데 막상가면 실망스럽더라구요
+P1 	: 곧 저녁인데 뭐드실꺼에요?
+P0 	: 맞아요 저녁에 뭐 먹을지 고민이네요 메뉴정하셨나요
+P1 	: 저는 고기를 좋아해서 소고기!ㅎㅎ
+P0 	: 소고기 맛있겠네요 집에서 요리하세요?
+P1 	: 요리하는걸귀찮아해서 배달시키는편인데
+	  소고기는 구우면되거든요ㅎ

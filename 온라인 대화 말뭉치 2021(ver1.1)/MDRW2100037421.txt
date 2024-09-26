@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 맛집 많이 아세요?
+P1 	: 잘 몰라서 검색으로만 ㅋㅋ
+P0 	: 저도요ㅋ 실패도 많이하고
+P1 	: 가기 전 검색 ㅋ
+P0 	: 맞아요 그게 편하더라구요
+P1 	: ㅎㅎㅎ 실패는 운명 ㅋㅋ 대체로 그럼 중간 이상 되는 듯요
+P0 	: 성공하면 기뻐요
+P1 	: 그쵸 ㅎㅎ또 찾아가기도 하고 ㅎㅎ
+P0 	: 소개해주는 재미ㅋ
+P1 	: ㅋㅋㅋ맛집많이 아는 사람 좋아요 ㅎㅎ
+P0 	: 사는 재미ㅋ
+P0 	: 저도 가족 친구 다 데려가요ㅎ
+P1 	: ㅎㅎㅎ 부럽네요 어디 사세요 ㅠ
+P0 	: 전 경기도여ㅎㅎ

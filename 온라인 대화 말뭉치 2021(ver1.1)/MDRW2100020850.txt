@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020850
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오! 집에서 떡볶이 만들어 먹은게 언젠지
+P0 	: 사먹는게 더 맛있는거 같긴 해요 ㅋㅋㅋ
+P1 	: 해먹는게 좋긴한데 재료비도 비싸고 설거지해야하고 사먹게 되더라구요
+P1 	: 배고픈데 나가긴 귀찮고 누가 밥 좀 차려줬음 좋겠어요
+P0 	: 맞아요!! 제일 맛있는 밥은 남이 차려주는 밥이죠!
+P1 	: 우렁각시가 와서 밥 해줬움 좋겠어요!
+P0 	: 아님 오늘은 배달 음식으로 해결하시죠! ㅎㅎ
+P1 	: 카페 자주 가세요?
+P0 	: 요즘은 개인카페 위주로 가요! &name2&님은 자주 가시나요?
+P1 	: 자주는 아니고 가끔이요. .
+	  요즘은 개인카페가 더 이쁘고 분위기 좋은 거 같아요
+P0 	: 맞아요ㅎㅎ 프랜차이즈는 주로 쿠폰 쓰러 가는 것 같아요
+P1 	: 저도 쿠폰 있을 때 스타벅스 많이 갔어요
+P0 	: 맞아요 쿠폰 모아서 텀블러도 사고 하던데 ㅎㅎ
+P1 	: 주로 어떤 음료 드시나요
+P0 	: 아메리카노 마시거나 아님 아예 초코 들어간 달달한 음료요 ㅎㅎ &name2&님은요?
+P1 	: 라떼 종류나 생과일 쥬스요.
+	  저도 달달한게 좋아요
+P1 	: 맛집 가는거 좋아하나요?
+P0 	: 네! 맛집 좋죠 ㅎㅎ 근데 몇시간씩 줄서서는 못먹을거같아요 ㅠㅠ

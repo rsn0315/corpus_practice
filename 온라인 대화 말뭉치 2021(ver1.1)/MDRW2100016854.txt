@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016854
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셨어요?
+P0 	: 네 피자 먹었어요.
+P0 	: 오늘 저녁 메뉴는 뭔가요
+P1 	: 저는 오늘 중국음식 먹으려구요~ 깐풍기가 땡겨서요 ㅋㅋ
+P0 	: 깐풍기 맛있죠ㅎ
+P0 	: 말 들으니 전 양장피 당기네요ㅎ
+P1 	: 오 양장피좋아하시는구나
+P0 	: 톡 쏘는 맛이 좋아요
+P1 	: 아하!
+P1 	: 그럼 짬뽕 짜장 하나둘셋?
+P0 	: 짬뽕밥이요
+P0 	: &name2&님은요?
+P1 	: 오 구체적이시다!
+P1 	: 전 짜장이요 ㅎㅎ
+P0 	: 제가 면보다 밥파라서요ㅎ
+P0 	: 보통? 유니? 간짜장?
+P1 	: 아무거나 다 좋아해요~ 짜장소스를 좋아하는거라!
+P0 	: 아하 짜장소스가 고소하지요
+P0 	: 중국  자작면?은 이 맛이 안 나더라고요
+P1 	: 맞아요! 그냥 짭잘한 콩맛? 그런맛이더라구욮ㅋㅋ
+P0 	: 소스도 적어서 비벼지나 의심했어요ㅎ

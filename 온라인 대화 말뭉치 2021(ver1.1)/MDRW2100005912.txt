@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100005912
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 자소서....그건 너무 어렵긴 해 나한테...
+P1 	: 근데 왜 자소서가 아니라 이력서야..??
+P0 	: 이력서에 적어야돼
+P0 	: 존경하는인물과 사유
+P0 	: 취미 특기도 적고
+P0 	: 자소서보다 난감해 그냥 아빠라고할까
+P1 	: 아직 시간 있으니꺼
+P1 	: 천천히 생각해봐 엄청 길게 쓰는 그런건 아니니까
+P0 	: 김연경 올해 많을것 같다구 하더람,,
+P0 	: 삼성은 왜이런걸 물어보는지
+P1 	: 아무래도 핫한 인물은 많이 뜨지
+P0 	: 이력서 주제에
+P1 	: 태양의 후예 방영했을 때 직업군인 지원자 엄청 늘었대잖아
+P1 	: 잘 할 수 있어 천천히 생각해봐
+P0 	: 응?? 그거랑 무슨 상관이야?? ㅋㅋㅋㅋ 나는 삼성 지원하는건데
+P1 	: 아니 그냥 그 시기에 핫한 키워드나 그런게 취업하고 직결되는 것 같다고
+P1 	: 자소서든 지원하는 직업군이든 그럴때
+P1 	: 있었었지
+P0 	: 아?? 구랭?
+P1 	: 전역 안하려했었잖아
+P1 	: 응응
+P0 	: 직업 군인은 그래도 자소서 안쓰지?
+P0 	: ㅋㅋㅋㅋㅋㅋ대신 체력 테스트 보는건가
+P1 	: 안 쓰지 ㅋㅋㅋㅋ맞아
+P1 	: 면접도 보고
+P1 	: 역사나 그런 시험도 보긴 해 난이도는 낮지만
+P0 	: 면접은 거기도 보는구낭
+P1 	: 그럼그럼 다 같지 그런건

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100040911
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심드셨나요?
+P1 	: 아직이요
+P1 	: &name1&님은 드셨나요?
+P0 	: 저도 아직인데
+P0 	: 짜파게티 먹고싶어요!!
+P0 	: 불닭에짜파게티 섞어먹는것도 좋아하거든요 ㅠ
+P0 	: 짜파게티 좋아하세요??!!
+P1 	: 네 특히 저도 불닭게티 정말 좋아해요
+P0 	: 너무 맛있겠네요
+P0 	: 어서 집가서 먹고싶어요 ㅠ
+P0 	: 점심 뭐 드실건가요??
+P1 	: 아직은 모르겠어요 저도 불닭게티 먹고싶네요ㅠㅠ
+P0 	: 말하니까 더 먹고 싶은 것 같아요
+P0 	: ㅋㅋㅋ삼겹살도 먹고싶네요
+P0 	: 새우튀김 좋아하시나요?
+P1 	: 네 마라님도 새우튀김 좋아하시요
+P1 	: 나요?
+P0 	: 네!!
+P0 	: ㄱㅇ래서 방금 쇼핑하고 왔어요 ㅠㅠ
+P0 	: 에어프라이어에 돌려먹으려구요
+P1 	: 새우튀김을 사신 건가요?
+P0 	: 네 마트에서 사왔어요
+P0 	: 너무 기대중이에요 떡볶이랑 같이먹으려구요 ㅎㅎ
+P1 	: 떡볶이는 직접 만들어 먹으실 예정이신가요?
+P0 	: 아니요 만들어져있는 인스턴트로 샀어요!
+P0 	: 너무 간편하고 좋아요 ㅎㅎ
+P1 	: 그렇군요
+P0 	: 식사하셨나요??

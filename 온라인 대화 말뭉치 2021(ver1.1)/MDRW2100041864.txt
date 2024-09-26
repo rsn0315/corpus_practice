@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100041864
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 여행 좋아하시나요?
+P1 	: 저는좋아해요~
+P1 	: 좋아하세요?
+P0 	: 네 여행 좋아해요!
+P0 	: 해외여행 국내여행 어디가 좋으세요?
+P1 	: 해외가좋지만 요새는 어렵네요ㅎㅎ
+P0 	: 그러게요 코로나맘 아니면 갔을텐데
+P0 	: 다녀온 곳 중에 어디가 좋으셨나요?
+P1 	: 맞아요ㅠ
+P1 	: 저는런던이랑라오스요~
+P0 	: 둘다 전 안 가본 곳이에요 각각 뭐가 좋으셨나요?
+P1 	: 런던은 유럽이 처음이라 좋았고 라오스는 첫사랑이랑 같이가서 좋았어요{emoji:❤}
+P0 	: 좋으셨겠네요!
+P1 	: 좋았어요 기억에남는여행지는어디세요?
+P0 	: 태국 여행이 기억에 남아요! 썸남이랑 가서 그랬는짘ㅋㅋ 근데 다녀와서 깨졌어요!
+P1 	: 엇아앗...여행때재밌었음됬죠!
+P0 	: 네 ㅋㅋㅋ 태국 자체는 재밌었어요~

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100032241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다이어트 본 적 있나요
+P1 	: 다이어트 안 해도 될 거 같긴 한데
+P0 	: 다이어트 해 본 적은 없습니다
+P1 	: 저는 딱히 다이어트를 안해본 거 같아요
+P0 	: 요즘에는 술을 많이 줄여서 뱃살이 매우 많이 나오지 나는 상태입니다
+P1 	: 곤약은 맛있어서 먹었고요
+P0 	: 떡볶이에 들어가는 곤약 드셔보셨나요 크크
+P1 	: 다이어트식품 은근이 맛있더라구요
+P1 	: 어묵탕에 들어간 곤약을 먹어 봤어요
+P0 	: 그 약만 먹고서는 어떻게 살아갈 수 있을까요 저는 많이 먹어야 합니다
+P1 	: 맛있겠네요
+P0 	: 어묵탕에 들어가도 맛있고 떡볶이에 들어가는 곤약 또 굉장히 쫄깃하니 맛이 있습니다 다이어트와는 거리가 먼 삶이지요
+P1 	: 콜라겐 젤리 더 맛있다고 하는데요
+P0 	: 콜라겐 대신 닭발과 돼지껍데기를 먹어 주고 있습니다
+P1 	: 떡볶이는 대표적으로 살찌는 음식입니다
+P0 	: 하지만 끊을 수 없는 대표적인 음식이지요

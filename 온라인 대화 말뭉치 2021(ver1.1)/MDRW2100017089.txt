@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017089
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장에 다니시나요?
+P1 	: 아니요 직장인이세요?
+P0 	: 넹
+P0 	: 그럼 취준하시나요?
+P1 	: 저 아직 학교졸업을 안해서요 ㅠㅠ
+P0 	: 아르바이트는 하세요?
+P1 	: 네 음식점 아르바이트해요
+P0 	: 일하신지 얼마나 되셨어요??
+P1 	: 전 얼마 안 됐어요 어느쪽 일하세요?
+P0 	: 저는 컨설팅 회사에 다니고 있어요
+P1 	: 뭔가 커뮤니케이션이 많이 필요할거같아요
+P0 	: 맞아요 전화랑 미팅이 많아요
+P0 	: 졸업 후 어떤 직종에 근무하고 싶으세요?
+P1 	: 저는 사무직 생각중인데 분야는 잘 모르겠어요
+P0 	: 그렇군요

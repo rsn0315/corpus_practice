@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013320
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 비 너무 많이온다
+P0 	: 그러게 너무 꿉꿉하다
+P1 	: 몸도 아픈거같아. 요몇일 비와서 아무것도 안했더니
+P0 	: 너무 누워만 있어서그래
+P0 	: 움직여~
+P1 	: 날씨 꾸물거리니까 귀찮아
+P0 	: 그래도 쫌 사람이 움직이고해야지...
+P1 	: 비그침 &name3& 학교데려다주고 도서관까지 걸어갔다올꺼야
+P0 	: 몇일이나 하려고~~~
+P1 	: 날씨좋음 이라고했자너!  좋아지면 갈꺼임!
+P0 	: 핑계대기만해봐.  일시킬꺼야
+P1 	: 낼 비그침 바로 시작!
+P0 	: 그래 화이팅~~응원은 해준다
+P1 	: ㅎㅎ 한번 믿어봐^^
+P0 	: 비오고났더니 넘 시원해졌다

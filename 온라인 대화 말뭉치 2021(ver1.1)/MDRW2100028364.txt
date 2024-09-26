@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100028364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 원두 있으세요?
+P0 	: 원탑! 과테말라요
+P1 	: 저도 과테말라 스벅에서 먹어봤을때 젤 좋았어요 ㅎㅎ
+P1 	: 초롤릿이랑 견과류맛 나는거 같아요 고소하게
+P0 	: 맞아요!!!!!!! 진짜 커피에서 초코렛맛이 나더라고요!!!!!!!!!!!!! 그쵸그쵸? 진짜 감동적인 맛이었어요!!!ㅋㅋㅋㅋ 와 이게 통하다니
+P1 	: {emoji:☺}히히
+P1 	: &name1&님과 얘기 나누는거 재밌네요
+P0 	: 저도요 ㅎㅎ ^_^~~~~
+	  아 과테말라 갑자기 땡기네요.. 주문할까 생각중......^^;; 님은 어떤 원두를 제일 좋아하세요?
+P1 	: 밤에도 커피 잘 드시는군요
+P1 	: 저는 원두 잘몰라요 ㅋㅋㅋ
+P0 	: 네 ㅠㅠ 밤에는 자제해야하는데 먹게 되더라고요 ㅋㅋ 아~ 그렇군요 저도 사실 아는 원두 몇 개 안 돼요 ㅋㅋ
+P1 	: 먹어본것중엔 과테말라가 좋았고 코스타리카도 괜찮았어요
+P0 	: 코스타리카 처음 들어봐요 ㅋㅋ 묵직한 맛인가요?
+P1 	: ㅎㅎ전 커피마시면 잠을 못자서 낮에만 마셔요 :)
+P1 	: 네 쌉쌀한데 단맛도 있었어요
+P0 	: 커피 한 잔 하기 좋은 점심입니다~ 식사하셨나요
+P1 	: 네 &name1&님은요?
+P1 	: 커피 마시고픈데 시간이 벌써 저녁이라..
+P1 	: 낼 마셔야겠어요

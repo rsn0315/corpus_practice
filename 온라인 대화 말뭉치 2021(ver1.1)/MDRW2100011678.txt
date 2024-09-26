@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 학생이신가요?
+P1 	: 졸업한지 어언 10년도 넘었네요
+P1 	: 학생이신가요? ㅎ
+P0 	: 저도요ㅎㅎ
+P0 	: 동아리 해보셨어요?
+P1 	: 아뇨 해보고싶었는데 못해봤네요
+P1 	: 학교 생활 기억남으신거 있으신가요?
+P0 	: 음 지각 자주한거?
+P1 	: ㅎㅎ 장기자랑은 나가신적있으시나요?
+P0 	: 네 한번이요
+P1 	: 뭐로 하셨나요?
+P0 	: 댄스요
+P1 	: 유행하는 가수였나요?
+P0 	: 원더걸스요ㅋㅋ

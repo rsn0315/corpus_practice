@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100046864
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211106
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 네
+P1 	: 요즘 단풍이 피기 시작했던데
+P1 	: 단풍 구경 계획 있으신가요 ㅎㅎ
+P0 	: 아뇨 코로나때문에
+P0 	: 외부활동 자제중이예요
+P1 	: 아 그렇죠 ㅠㅠ
+P1 	: 위드코로나 시작해서 밖에 사람도 더 많아진 거 같고..
+P0 	: 네
+P1 	: 혹시
+P1 	: 서울 쪽 사시나요?
+P0 	: 아니요
+	  경기도 안양 살고있습니다
+P1 	: 앗 혹시 서울 쪽 사시는거면
+P1 	: 다음주 쯤에 창경궁 쪽 가보시라고 하려했는데 ㅎㅎ
+P0 	: 아  회사는 서울인데
+P1 	: {share:info}
+P1 	: 아 그러신가요?
+P0 	: 집은 안양이라서요
+P1 	: 아 ㅠㅠ
+P0 	: 그리고 애들이 아직 어려서요
+P1 	: 창경궁 단풍이 진짜 절경인데
+P1 	: 다음주가 제일 예쁠 거 같더라구요 ㅠ
+P1 	: 아아 아이가 있으시군용
+P1 	: 그러면 좀 무리겠네요 창경궁은 ㅠㅠ ㅎ
+P0 	: 네 어쩔수없죠 뭐
+P1 	: ㅎㅎ 네네 집 앞에도 이쁜 단풍 스팟들이 많을거에요
+	  
+	  

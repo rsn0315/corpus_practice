@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012494
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 전남
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&은 가족과 살고 계신가요?
+P1 	: 저는 혼자 살아요!
+P1 	: &name1&은 어떠세요?
+P0 	: 저는 가족과 같이 살아요!
+P1 	: 그럼 부모님과 사시는 건가요? 아니면 결혼하셨나요?
+P0 	: 전 부모님과 삽니다! &name2&은 집안일 일주일에 몇번정도 하세요??
+P1 	: 매일하는 것 같아요 ㅋㅋ 설거지 때문에요
+P0 	: 아 그렇군요ㅋㅋㅋ 혼자 살면 설거지 얼만큼 나오나요...? 저는 저녁에 몰아서 하는데 싱크대가 거의 꽉차더라구요...ㅋㅋㅋ
+P1 	: 저도 싱크대가 한칸짜리라 하루만 안해도 꽉차요 ㅋㅋ
+P1 	: 무엇보다 벌레가 나올까봐 무서워서 오래 못두겠더라구요 ㅠㅠㅋㅋ
+P0 	: 아ㅠㅠㅠ 맞아요 벌레 진짜 싫죠...
+P0 	: &name2&은 외동이신가요?
+P1 	: 아뇨 ㅋㅋ 동생이 두명 있어요
+P1 	: &name1&은요?
+P0 	: 헐 저도 동생이 두명 있어요ㅋㅋㅋㅋ 아주 말 안듣는 친구들...
+P1 	: 앗ㅋㅋㅋㅋ
+P1 	: 나이차이가 많이 나나요?
+P0 	: 네... 8살 2살 차이납니당

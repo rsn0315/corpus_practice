@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100038371
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음료있으세요?
+P1 	: 저는 민트 음료 좋아해요
+P0 	: 민트초코우유맛있던데ㅋㅋ
+P1 	: 이미 먹어봤죠
+P1 	: 근데 딱히 좋진 않았어요
+P0 	: 추천해주실 음료있으세요?
+P1 	: 공차에서 파는 민트 음료 맛있어요
+P0 	: 아! 한번마셔봐야겠네요!
+P1 	: 민트에 버블 들어간게 잘 어울리더라구요
+P0 	: 와 혹시 어떻게 주문하면 될지 얘기해주시겠어요?
+P0 	: 주말에 그대로 시켜먹어보게요ㅎㅎ
+P1 	: 민트 초코칩 밀크티에 펄 추가하시구
+P1 	: 얼음은 꼭 빼달라고 하신후에 원하는 당도 맞추세요
+P1 	: 얼음 넣으면 끝에 가서 싱거워지거든요
+P0 	: 기본이 시럽몇번 펌핑되나요?
+P1 	: 2번은 합니다
+P1 	: 1번은 안한거랑 비슷하더라구요
+P0 	: 아 그렇군요!
+P0 	: 팁 감사합니다!

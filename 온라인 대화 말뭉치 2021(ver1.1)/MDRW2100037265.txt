@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100037265
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 배달 메뉴 있으신가요?
+P1 	: 저는 떡볶이요
+P1 	: &name1&님은요?
+P0 	: 저는 배달은 거의 치킨 아니면 피자 같아요
+P0 	: 떡볶이는 어디꺼가 맛있나요?
+P1 	: 저는 엽떡이요
+P1 	: 좋아하는 치킨이나 피자브랜드 있으신가요?
+P0 	: 전 엽떡은 매워서 딱 한 번 먹어봤어요 ㅎㅎ
+P0 	: 피자는 최근 몇년우 도미노만 계속 시켰어요
+P1 	: 매운거 잘 못드시나요?
+P0 	: 뭐 그래봤자 1년에 두어번이에요
+P1 	: 배달음식을 별로 안좋아하시나요?
+P0 	: 매운 건 먹고나면 배 아파서 자제하게 됐어요
+P1 	: 그렇군요
+P1 	: 피자는 주로 어떤피자로 드시나요?
+P0 	: 자주는 안 시켜요. 치킨 서너번 피자 두어번? 가끔 다른 거 포장해오기도 하고요
+P0 	: 그냥 기본 페퍼로니 피자가 제일 맛있더라구요
+P1 	: 그럼 자극적인 맛도 별로 안좋아하시나요?
+P0 	: 마라탕도 제일 순한맛으로 해서 먹었었어요ㅋㅋㅋ

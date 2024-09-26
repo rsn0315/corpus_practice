@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100001480
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요^^
+P1 	: 안녕하세요~
+P1 	: 혹시 여행 좋아하시나요?
+P0 	: 여행 좋죠~
+P0 	: 지난주에 부산 다녀왔어요
+P1 	: 우와 부산여행! 저 한 번도 못가봤어요
+P1 	: 부산 돼지국밥이랑 밀면 먹어보는게
+P1 	: 나름 버킷리스트에요 ㅎㅎㅎ
+P0 	: 아 정말요 ㅎㅎ
+P0 	: 둘다 너무 맛있죠!
+P1 	: 부산 가셨을 때 제일 좋다고 생각하신 곳이 어디에요?
+P0 	: 광안리였죠!
+P0 	: 야경이 아주 기가막혔어요ㅠ
+P1 	: 말로만 듣던 광안리..
+P1 	: 정말 좋으셨겠어요 ㅠㅠ 부럽부럽
+P1 	: 그 해운대는 안가셨나요?
+P0 	: 요즘 비행기랑 숙박이 많이 저렴해서 마음만 먹으면 크게 부담없이 가겠드라구요
+P0 	: 해운대는 잠시 바람만 쐬구 왔어요ㅎㅎ
+P1 	: 오 코로나 때문에 오히려 저렴해진건가요!
+P1 	: 여행 계획을 좀 세워봐야겠네요 ㅎㅎ
+P1 	: 해운대랑 광안리랑 느낌이 다른가요?
+P0 	: 코로나 때문이기도 하겠네요ㅎㅎ
+P0 	: 느낌,, 뭐 비슷할수도 있는데 경치가 광안리가 더 좋드라구요
+P1 	: 해운대 보단 광안리..!
+P1 	: 메모하겠습니다 ㅎㅎ

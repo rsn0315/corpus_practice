@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003785
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그럼 어떤 날씨 좋아해?
+P0 	: 선선한 봄 날씨가 좋지
+P1 	: 선선하면 좋지
+P0 	: 덥고 추운 건 싫어
+P1 	: 그건 그렇지
+P1 	: 그럼 여름하고 겨울 중에 어떤 계절이 나아?
+P0 	: 나는 겨울!
+P1 	: 왜?
+P1 	: ㅋㅋㅋㅋ 그렇지
+P0 	: 여름에는 너무 덥지
+P1 	: 나도 겨울이 차라리 나
+P0 	: 겨울엔 껴입으면 되니까
+P1 	: 껴입으면 따뜻하지
+P0 	: 지구온난화 때문에 점점 봄가을이 줄어들어서 슬퍼
+P1 	: 그러게
+P0 	: 환경보호 해야하는데

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022319
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아 온천여행가고싶다
+P1 	: 어디로 가고싶어
+P0 	: 나는 휴양지로!
+P1 	: 오 어디? 이미 한번 가본곳?
+P0 	: 사실 나는 방콕이 너무 좋아서 방콕에 또 가고싶은데 아예 안가본 괌 이런데도 좋을거같애!
+P1 	: 방콕은 어떤점이 좋았어?
+P0 	: 건기에 갔어서 따뜻한데 습하지 않았고! 호텔, 식사 다 좋았어!
+P1 	: 너무 덥지는 않았어?
+P0 	: 응응 사실 바깥으로 많이 나가질 않았는데 웬만한 곳은 에어컨 빵빵해서 좋았어ㅋㅋㅋ
+P1 	: 아 휴양지라 다 에어컨이 빵빵하구나?
+P0 	: 엉엉ㅋㅋㅋ 너무 좋더라구
+P1 	: 밥도 맛있다니 최고다..더운나라에서 에어컨 빵빵한거 중요한거같아
+P0 	: 맞아맞아 식사가 진짜 너무 좋았어.....진짜 내스타일...ㅠㅠ
+P1 	: 거긴 주로 해산물이 맛있나?

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100047450
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P1 	: 안녕하세요식사는 하셨나요?
+P0 	: 네:) 점심 식사는 했어요 &name2&님도 식사 하셨나요?
+P1 	: 네네 전 우육면을 먹었어요 &name1&님은 뭘 드셨나요?
+P0 	: 저는 머핀이랑 우유 먹었어요:)
+P0 	: 저녁메뉴는 정하셨나용?
+P1 	: 전 집에 있는 밥에 반찬이요 ㅠ
+P1 	: 머핀은 어디걸 드셨나요?
+P0 	: 저도 집밥 먹을거에요:)
+P0 	: 머핀은 파리바게트꺼요^^
+P1 	: 아하 아는 맛이 제일 좋죠! 무슨맛인지 알겠네요
+P1 	: 집밥 참 좋은데 반찬에 밥먹으면 심심한 느낌은 좀 있어요 ㅋㅋ
+P0 	: 요새 반찬은 주로 뭐해드세요?
+P1 	: 멸치볶음 마늘쫑볶음 파깇치 정도요? 심심하죠 ㅋㅋ
+P0 	: 다 제가 좋아하는 반찬이에요:)
+P0 	: 마늘쫑볶음 꿀팁 있나용?
+P1 	: ㅠ 아뇨 제가 했지만 맛없어요,, 제가 해서 억지로 먹는거에요
+P1 	: 아삭하 지않고 물러요
+P0 	: 건새우랑 같이 볶나요?
+P1 	: 그래야 마있는데 대충 굴소스랑 볶았더니 대충 무른 마늘쫑이 됐어요
+P0 	: 이래서 요리에도
+	  시간과 정성이 필요한가봐요ㅜ

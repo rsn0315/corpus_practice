@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100021889
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아 오늘 넵 날씨 좋았눈데
+P1 	: 빨래.할겅
+P0 	: 빨래 옷이 많이 모여야하는데ㅜ
+P1 	: 서울 미세먼지는 어때
+P0 	: 비온뒤라서
+P0 	: 맑아용 근데 오늘 외출안해서 잘몰러
+P1 	: 제주는 한동안 계속 비오고 난리다거
+P1 	: 아름다운 날씨가 연속되규 있어
+P0 	: 아유 좋겠다 &name2&
+P0 	: &name2& 날씨좋아서 마실댕기니까 신나겠어용
+P1 	: &name1&가
+P1 	: 매일 날씨를 알려줘서 좋았는데
+P0 	: 알람입니다
+P0 	: 날씨알람
+P1 	: 이게 언제.비가올지를몰라
+P0 	: 담주내내 비라던데
+P1 	: 근데 우산 가지고 다니면 귀찮자나
+P1 	: 그래서 계속 맞고 다님
+P0 	: ㅋㅋ 제주는 비바람거센데
+P0 	: 아일랜드새럼 우산사세요
+P1 	: 그래서 계속 비맞고 ㅋㅋ
+P1 	: 샤워하고 옷 말려서
+P1 	: 또 입고

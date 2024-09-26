@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100021949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그치 친구들이랑 가면 더 재밌지
+P0 	: 친구들이랑 간지가 2년도 넘어서
+P1 	: 꽤 오래 됐네?
+P0 	: 그니까
+P1 	: 코로나가 얼른 끝나야 될 텐데
+P0 	: 코로나가 빨리 끝나야 갈텐데
+P1 	: 그러니까 여행 가고 싶은 곳 많은데
+P0 	: 여행은 대충 정하면 되고 ㅎㅎ
+P1 	: 사실 어디든 좋아
+P0 	: 그건 그렇지
+P1 	: 국내 여행이라도 가고 싶다
+P0 	: 인정
+P1 	: 국내 여행가면 어디 가고 싶어?
+P0 	: 제주도
+P1 	: 말고는 없어?
+P0 	: 제주도 한 번도 안가봐서
+P1 	: 그럼 제주도 다음으로 가고 싶은 곳은?
+P0 	: 강릉?
+P1 	: 강릉 좋았어?
+P0 	: 괜찮았어
+P0 	: 여행 가보고 싶은 곳 있어?

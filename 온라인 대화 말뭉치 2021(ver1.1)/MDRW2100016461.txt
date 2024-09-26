@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016461
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 시험있어요?
+P1 	: 아니요 ㅎㅎ 저는 졸업했어요!
+P1 	: 학생이신가요?
+P0 	: 아니요
+P1 	: 직장인이신가요
+P0 	: 네
+P1 	: 퇴근은 하셨나요 ㅎㅎ
+P0 	: 아직요
+P1 	: 언제 하시나요 ㅎㅎ
+P0 	: 대중없어요
+P1 	: 야근인가요?
+P0 	: 아니요ㅜ그냥 일해요
+P1 	: 아 출근은 몇시에 하세요 ?
+P0 	: 9시요

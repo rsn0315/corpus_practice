@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100028479
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 우산 잘 챙겨 다녀
+P1 	: 소나기 많이 내리더라
+P0 	: 맨날 쨍쨍한 날에 비오고 그래요
+P0 	: ㅠㅠ 일기예보도 맞다 안맞았다 하고 그래서
+P0 	: 불편한...
+P1 	: 밖에 잘 안 나가게 되더라
+P1 	: 비 많이 오니깐
+P0 	: 장보러 가는데 비오면 젖잖아요
+P0 	: 버스 타고 다니세요 ㅋㅋㅋ
+P1 	: 버스비 아까운데
+P0 	: 그거 얼마나 한다고!!
+P1 	: 괜찮아 여름도 끝나가서
+P1 	: 비만 안오면 된다
+P1 	: 차타고 다니면 편한데 아빠가 출근하니까
+P0 	: 며칠 쉬실거같지만 그래도 못다니시겠죠 아프시니까
+P0 	: 면허 따면 좋은데... 날씨 관계 없이 다니고
+P1 	: 그래도 비오는 날에 다니면 안좋아
+P1 	: 넘어질수도 있고 습하고
+P0 	: 맞아요 습하다니까 생각나는건데
+P0 	: 곰팡이 조심하세요!!
+P1 	: 보일러 가끔씩 잘 틀고 있는데?
+P0 	: 그 화장실에 곰팡이균
+P0 	: 보셨어요?
+P1 	: 그거 닦았는데
+P0 	: 그 세면대 위쪽에는 계속 있더라구요 ㅠ 까만색이에요

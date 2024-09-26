@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100002060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물 키워요?
+P0 	: 아직이요
+P1 	: 키우고싶은 동물은 ?
+P0 	: 강아지요
+P1 	: 저도요 고양이는요?
+P0 	: 털이 너무 날려서 별로요
+P1 	: 토끼랑 거북이는 ?
+P0 	: 관리가 어려울듯
+P1 	: 뱀이나 이구아나는?
+P0 	: 그것도요
+P1 	: 무서운건 아니고용? ㅎ.ㅎ
+P0 	: 아  그럴수도 ㅋㅋ
+P1 	: ㅋㅋㅋㅋ 요즘은 심심해서 뭐라도 키우고싶네요

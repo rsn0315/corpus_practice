@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028933
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 1회 미만
+
+P0 	: 일반적인 일이 뭐가 있을까...집안일?
+P0 	: 설거지 귀찮지
+P1 	: 그렇지 설거지 귀찮지
+P1 	: 장마철 빨래도 귀찮고 힘들지
+P0 	: 아 요즘 빨래 너무 안 말라
+P1 	: 그래서 건조기를 돌리거나 날 맑을 때 돌리는데 장마라 타이밍 잡기가 힘들어
+P0 	: 너희집은 건조기 있어?
+P1 	: 세탁기에 기능이 있긴한데 전기세 걱정에 잘 안써
+P0 	: 오 그런 세탁기도 있구나
+P0 	: 건조기능이 있어도 전기세가 문제군
+P0 	: 우린 선풍기 틀어놓고 말린다ㅋㅋ
+P1 	: 오 우리집은 빨랫감 모아서 빨래방 건조기 쓰기도 함
+P1 	: 양 적으면 우리집도 선풍기  돌리고
+P0 	: 빨래방! 그런 방법이 있었네
+P0 	: 울엄마한테도 말해봐야겠다
+P0 	: 요즘 빨래가 안 말라서 괴로워하심
+P1 	: 이불같이 부피가 큰건 빨래방에서 돌리고 건조하고
+P0 	: 그러게 이불빨래는 빨래방이 더 깔끔할거 같아
+P1 	: 응  이불은 부피가 크니까  큰 세탁기로 돌리는게 좋더라
+P1 	: 그리고 건조까지 마친 이불은 뽀송해서 최고
+P0 	: 상상만해도 뽀송뽀송ㅋㅋ

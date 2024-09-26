@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100025049
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오우 학교!
+P1 	: 편입을 할까도 고민했어요
+P1 	: 그러다가 직장때려칠 현실이 아니라 포기했지만요
+P0 	: 가고싶은 과나 학교가 있으셨나요?
+P1 	: 가고싶다기 보다는 먹고살려고 안전성 따져서 가려고 했는데 쉽진 않네요
+P0 	: 그렇군요
+	  학교다니실 때 수강신청 잘하셨나요?
+P1 	: 저는 어렵지않게 했던거 같아요!
+P1 	: 대부분 전공과목이고
+P0 	: 특수한 과이셨나봐요
+P1 	: 네네 맞아요ㅎㅎ 특수과라서 그닥 어렵지않았어요
+P0 	: 그렇군요
+P0 	: 그럼 학교다니실 때 동아리하셨나요?
+P1 	: 아뇨 ㅜ
+P1 	: 대학은 재미없게 다녔어요
+P1 	: 워낙 집순이라 학교 집 학교 집 이었다죠
+P0 	: 그렇군요 저도 집순인데ㅠㅠ
+	  혹시 보건과셨나요?
+P1 	: 보건쪽이에요 ㅎ
+P0 	: 그럼 지금 학과관련 일하시는건가요?
+P1 	: 네 ㅎ 그 전공 일 하고있어요
+P1 	: 다른거 하고싶은데
+P1 	: 못하네요
+P1 	: ㅜ

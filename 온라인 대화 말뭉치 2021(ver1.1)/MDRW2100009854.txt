@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009854
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 게임하시나요?
+P1 	: 최근에 쿠키런하다가 접었어요ㅎㅎ 게임하세요?
+P0 	: 저도 쿠키런하다가 접고 롤을 배우고 있어요
+P1 	: 아 어려워보이던데 그런 겜은 못하겠어요ㅠ
+P0 	: 맞아요 롤 어렵죠... 저도 잘은 못한답니다!
+P1 	: 좋아하는 사람은 엄청 좋아하던데 엄두가 안나는ㅎㅎ
+P0 	: 맞아요..ㅎㅎ 쿠키런은 얼마 정도 하다가 접으셨나요?
+P1 	: 처음나왔을때부터 하다가 세달하구 접은거같아요ㅠㅠ
+P1 	: 현질안하면 못따라가겠더라구요
+P0 	: 헐 그럼 진짜 얼마 안하셨네요...! 전 쿠키런 킹덤도 하다가 말았어요
+P1 	: 아 저 킹덤말한거였어요ㅎㅎ
+P0 	: 아 그렇군요 쿠킹덤은 진짜 현질이 제일 중요하죠...
+P1 	: 네 재미로 시작한건데 뭔가 현타가ㅎㅎ
+P0 	: 맞아요 쿠킹덤에는 돈 뿐만 아니라 시간도 엄청 써야 해서 힘들죠...

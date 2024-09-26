@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017528
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 넴 안녕하세요 &name1&님 ㅎㅎ
+P1 	: 로제떡볶이 조아하시나봐요
+P0 	: 네 ㅎㅎ 드셔보셨어요?
+P1 	: 네 하도 사람들이 맛있다고 칭찬해서 먹어봤는데 진짜 맛있더라구요 국물도 퍼먹었습니다
+P0 	: 와 저두요 전 국물 안 남기고 다 먹어요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ왜이렇게 맛있죠!ㅋㅋㅋ 로제 파스타는 좋아하세요?
+P0 	: 네 너무 좋아해요 ㅋㅋㅋ
+P0 	: 니뽕내뽕아세요?
+P1 	: 음 짬뽕 파는데 아닌가요? 아닐수도 있어요 잘 몰라요 ㅠ
+P0 	: 퓨전짬뽕집이에요 ㅋㅋㅋ 로뽕, 크뽕이라고 로제파스타랑 크림파스타를 국물 많게 짬뽕면으로 끓인건데
+P0 	: 완전 맛있어요
+P1 	: 오!!! 진짜 맛있겠다 배달도 되나요? 되면 내일 시켜먹어볼래요
+P0 	: 동네마다 다른데 저희동넨 되더라구요 근데 배달은 면이 불까봐 그러는지 국물이 한강으로 와서 ㅠㅠ 전  가게에서만 먹어요 ㅠㅠ
+P1 	: 아 진짜요? ㅠ 그럼 어디있는지 알아놨다가 나중에가서 먹어야겠어요 알려주셔서 감사해요 맛집하나 알았네요!ㅎㅎ
+P0 	: 꼭 드셔보세요 최애음식 중 하나에요 ㅋㅋㅋ

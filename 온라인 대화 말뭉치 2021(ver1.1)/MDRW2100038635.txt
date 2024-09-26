@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038635
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 연애얘기가 재밋어요
+P0 	: 오늘은 제얘기말고 &name2&님 얘기해봐요
+P0 	: 채팅에서 만난 운명적인 상대
+P0 	: 어떻게 생각하세요?
+P1 	: ㅋㅋㅋㅋㅋㅋ 그런사람 없어요
+P1 	: 금사식이라요
+P0 	: 아 왜요 말하는데 다 웃기고 드립도 다 내스탈이고
+P0 	: 그런사람 만난적없어요?
+P1 	: ㅋㅋㅋㅋㅋ오래안가요
+P0 	: 우선 채팅에서 맘에 들었다고 쳐봐요
+P0 	: 아직 얼굴은 몰라요
+P0 	: 그사람이 한번 만나보쟤요
+P0 	: 나가실건가요?
+P1 	: ㅋㅋㅋㅋ 나이는요
+P1 	: 안나가요
+P1 	: 확률이너무...
+P0 	: 보수적이시네요...^^
+P1 	: 아니...위험해요

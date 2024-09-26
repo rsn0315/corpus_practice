@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100008541
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요!
+P0 	: 연애에 대해 어떻게 생각하시나요
+P0 	: ㅋㅋㅋㅋㅋ
+P1 	: 허허,, 그냥 서로 동반자가 있는 사람들 좋아 보입디다
+P0 	: 저도 딱히 관심이 없어요
+P0 	: 어렸을 땐 짝사랑도 하고 그랬는데
+P0 	: 요즘은 그냥저냥 살고 있습니다
+P1 	: 저도 딱히.. 저 하나 먹고살기도 너무 각박한 세상이지 않나요?
+P0 	: 맞아요
+P0 	: 사실 일상생활에 집중하다보면
+P0 	: 할 시간이 없더라구요
+P0 	: 할 사람들은 시간 없어도 한다하긴 하던데
+P1 	: 다들 대학 취업 연애 결혼 이거 테크 어떻게 타는지 모르겠어요
+P0 	: 맞아요
+P0 	: 너무 바빠서
+P0 	: 사회적인 분위기 때문인 것 같아요
+P0 	: 다들 그러고 사니까
+P0 	: 저도 예전엔 연애 하고 싶었던 시절이 있어서
+P0 	: ㅋㅋㅋㅋ
+P1 	: 이젠 혼자가 편하고
+P1 	: 같이 하면 책임감 들어서 어려워요
+P0 	: 맞아요
+P0 	: 혼자가 더 자유롭다고 생각해요
+P0 	: 괜히 집착 이런 것도 싫고
+P1 	: 맞아요 서로 감정노동하는거 힘들어요
+P0 	: 서로가 무조건 1순위가 되는 것도 별로더라구요
+P0 	: 부담스럽고 그럴 자신도 없고

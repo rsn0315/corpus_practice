@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100032758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매한 물건이 있나요?
+P1 	: 아니요 &name1&님은요
+P0 	: ㅏ전 오능 다이어리를 구매했답니다!
+P1 	: 2022년을 준비하시나봐요
+P0 	: 네!!! 2022년 다이어리를 샀어요
+P1 	: 어떤 다이어리를 사셨나요
+P0 	: 저는 심플한 다이어리를 좋아해서~! 몰스킨이라는 다이어리를 샀어요
+P1 	: 어떻게 생겼는지 궁금하네요
+P0 	: 엄청 심플해요 왼쪽에 시간이 쓰여 있거든요? 그게 전부랍니다..
+P1 	: 아하 신기하네요
+P0 	: 또 이번에 후드집업을 삿어요!
+P1 	: 예쁘겠네요 어디서 사셨나요
+P0 	: 저 칼하트라는 브랜드 후드집업샀아요~

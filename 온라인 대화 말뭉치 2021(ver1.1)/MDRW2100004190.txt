@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100004190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 가는 거 좋아하세요????
+P0 	: 네에 &name2&님 일본가셨을때 어디어디가셨어요?
+P1 	: 저는 오사카만 가봤어요
+P1 	: 첫 해외여행이라 너무 설렜어요
+P0 	: 첫여행진짜 비행기탈때부터 설레요 ㅎㅎ
+P0 	: 뭐뭐드시고오셨어요
+P1 	: 저 오꼬나미야끼랑 타코야끼랑 등
+P1 	: 막 엄청 먹었어요
+P0 	: 저도 일본간다면 그두개먹어보고싶어요 단짠단짠음식을좋아해서
+P0 	: 타코야끼 문어 쪼꼬만거아니고 큰거넣어주나여
+P1 	: 네 그냥 한국이렁 비슷했던 거 같기도 해요 하하
+P0 	: ㅎㅎ아무래도 근처나라고 한국에도 일식워낙에 많이팔아서 그른가봐여
+P1 	: 맞아요 ㅎ 다들 비슷해서
+P0 	: 국내여행은 어디가 좋았어요?
+P1 	: 국내는 그냥 단순한데 서울이요 ㅎ
+P1 	: &name1&님은요?
+P0 	: 서울좋져 서울은 각 동네마다 볼거리가많아서 좋았던것같아요 한강도 넘좋았구여
+P0 	: 전 포항이요 포항바다가 너무이뻤어요ㅜ 제주도도좋았는데
+P0 	: 코로나얼른끝났으면..
+P1 	: 우와 포항도 좋아보이네요
+P1 	: 급 궁금해요

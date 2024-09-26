@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P0 	: 좋아하는 음식이 머에요?
+P1 	: 안녕하세용
+P1 	: 특별히 딱 좋아하는 음식은 따로 없어요ㅎㅎ
+P0 	: 오 그럼 싫어하시는 음식은요?
+P1 	: 해물/곱창&막창류/닭발/향신료강한거 
+	  요런거 싫어해요
+P0 	: 아하ㅏ
+P0 	: 그럼 마라탕도 못드시겟네요
+P1 	: 네!
+P0 	: 아ㅠㅠ 한번도 안드셔보셧어요?
+P1 	: 네..
+P1 	: &name1&은 마라탕 좋아하세요?
+P0 	: 네네 좋아해용
+P1 	: 또 좋아하시는 음식 있으신가요?
+P0 	: 저 크림파스타 좋아해요
+P1 	: 크림파스타 맛있죠
+P0 	: 오 떡볶이는 좋아하세요?
+P1 	: 네 떡볶이 좋아해요
+P1 	: 안녕하세요

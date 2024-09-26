@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100024874
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 여기는 밤비가 내리는데 거기는 어떤가요?
+P1 	: 네 여기도 좀 내리다가 지금은 그친 상태네요~
+P0 	: 여기는 계속 내리네요 올해는 유독 비가 잦은 것 같아요
+P1 	: 그러게요 비가 너무 한꺼번에 몰아서 오니까 나갈때 옷차림이 어렵네요 ㅎㅎ
+P0 	: 맞아요 그래서 가디건 챙겨서 다녀요
+P1 	: 좋아하는 계절 있으세요?
+P0 	: 여름이요 최근 몇년 새 날씨가 엉망이지만요
+P0 	: &name2&님은요?
+P1 	: 오 저도 여름이에요!!! 근데 올여름은 정말 ㅋㅋㅋ
+P0 	: 여름 좋아하는 분 오랜만이네요 ㅎㅎ
+P1 	: 그쵸 여름 싫어하는 사람만 많아서 ㅋㅋㅋ 항상 공감 못 받아요 ㅋㅋ
+P0 	: 18년도부터 여름이 이상해졌죠  매년 갱신하는 것 같아요
+P1 	: 그러게요 에어컨 없이 절대 살수없는 계절이 됐네요..
+P0 	: 다들 여름의 매력을 몰라주죠 ㅠㅠ
+P0 	: 적어도 제습기는 있어야 하는 것 같아요
+P1 	: 맞아요 제습기필수!!
+P1 	: 여름하면 떠오르는 그 정서가 또 있는데 말이에요 ㅋㅋ
+P0 	: 맞아요~ 여름만의 정서 좋죠ㅎㅎ 전 과일도 좋아해요
+P1 	: 오 복숭아 좋아하시나요
+P0 	: 네 천도 백도 황도 가리지 않아요

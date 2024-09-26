@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 후식 드셨나여??
+P0 	: 아니요 지금 샤인머스켓 세척할려고요
+P1 	: 우왕! 요새 제철인가요?
+P0 	: 음 추석맞이해서 조금 저렴하게 파는것 같아요 아직까지는 당도보장인것 같아요!
+P1 	: 아하~ 오 올추석때 가족끼리모이려나요?
+P0 	: 백신 맞았으면 그렇지 않을까요 저는 가지도 않고 모이지도 않아서 적당히 먹을거만 살려고요
+P1 	: 그렇군요! 혹시 백신맞으셨나요?
+P0 	: 아니요 10일로 예약 잡아놨어요
+P1 	: 아하!!
+P1 	: 점심은드셧나영?
+P0 	: 저는 스파게티에 오븐에 구운 닭다리로 배를 채웠어요 무척 기분이 좋네요 점심 맛있게 드셨나요?
+P1 	: 우왕~ 어제 너무맛잇게드셧네요!
+P1 	: 저는 답장 하루늦긴햇지만 어제 연어덮밥먹엇답니당ㄹㅎㅎ
+P0 	: 전 오늘 오리훈제 먹었어요 이번주는 고기 포식이네요ㅎㅎ 이따는 사과포도 먹을려고요
+P1 	: 와대박.. 저도오늘 점심으로 오리고기먹었어요!!!
+P1 	: 엥 사과포도가 설마 저녁은 아닌거죠??ㅎㅎㅎ

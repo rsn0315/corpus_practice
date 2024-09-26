@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017984
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이신가요?
+P0 	: 저는 휴학중이에여 ㅠㅠ
+P1 	: 휴학중이시구나ㅠ
+P1 	: 무슨과세요?
+P0 	: 저는 경영과에요
+P1 	: 우와 경영과는 과제 많나요?
+P0 	: 음 저는 다른 과 얘기를 못 들어봐서 모르겠는데 적진 않은거같아요 ㅜㅜ
+P0 	: 발표가 많아서 아 잘못왔다 싶은...ㅋㅋㅋ
+P1 	: 아ㅋㅋ 발표가 많다니.. 저는 발표가 힘들더라구요
+P1 	: 익숙해지지 않고  늘 떨려요
+P0 	: 맞아요 ㅠㅠ 저는 발표하는 날에는 끝나기 전까지 머리속 지배당해요 하기싫어서 ㅠ
+P1 	: 아ㅜ 생각만으로도 떨려요
+P1 	: 준비를해도 왜 말을 잘 못전하는지ㅠ
+P0 	: 맞아요 ㅠㅠ 대본을 써도 힘들어요
+P1 	: 알죠알죠ㅠ
+P0 	: 차라리 자료조사가 전 백번 낫더라구요
+P1 	: 저도요! 글로 써서 내는게 더 편해요
+P1 	: 더 잘 전달할 수 있고요

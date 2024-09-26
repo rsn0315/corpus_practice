@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100046786
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 주식하시나요~?
+P0 	: 주식 시작 못햤어요. 작년에 삼성 들어갔어야 했는데....
+P0 	: 고수님이신가요?
+P1 	: 오 아직 시작 못하신 분은 오랜만에 뵙네요 ㅎㅎㅎ
+P1 	: 아뇨 완전 하수요 {emoji:…}
+P0 	: 작년에 주린이 동생은 들어갔고 전 눈치보다 놓쳤어요
+P1 	: 주식은 길이 아닌 것 같아 오늘 새로운 적금을 들었습니다 ㅎㅎ
+P0 	: 지금은 더 엄두가 안나네요. 적금ㅠㅠ
+P1 	: 앗 이거 홍보는 아닌데
+P0 	: {emoji}
+P1 	: 이율 괜찮은 적금 제가 들었거든요 ㅋㅋㅋ
+P0 	: 적금은 넘 힘들어요. 금리가. 휴휴
+P1 	: 혹시 관심 있으시면 공유드릴게요
+P0 	: 뭐에요??
+P0 	: 네네
+P1 	: {share:url}
+P1 	: 4.2 더라구요!!!
+P0 	: 저 저축은행 만기 곧 돌아오는데. 정기예탁금 정보는 없을까요?
+P0 	: 오 4.2요? {emoji:😮}{emoji:😮}{emoji:😮}
+P1 	: 예탁은 잘 모르겠어요 ㅠㅠ 이율이 똥망이라
+P0 	: ㄱㅅㄱㅅ 함 볼게요
+P1 	: 네네 가끔 신협에서
+P1 	: 저렇게 이율 좋은 적금을 특판으로 내더라구요
+P0 	: 와 울 동네 신협 넘 낮던데 분당 특판 좋다
+P0 	: &name2&님은 적금 안드셔도 부자일 것 같은 스멜이. 이름따라간다니까 대박나시길 바랄게요
+P1 	: 아이구 덕담 감사합니다! ㅋㅋㅋ 부자되시길 바랄게요

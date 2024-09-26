@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100005644
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혼자서 자취하시나요?
+P0 	: 자취는 아닌데 조부모님이랑 살고 있어요
+P0 	: &name2& 님은요?
+P1 	: 저는 학기중에는 자취하고
+P1 	: 방학때는 잠깐 본가 내려와있어요
+P0 	: 자취하면 어떤가요?
+P0 	: 자취하고 싶은데 제가 저를 못 챙길 거 같아서 망설여져요
+P1 	: 음 그런면도 있죠
+P1 	: 집안일이 워낙 시간이 드는 일이라
+P1 	: 시간이 부족하고 쫓기면 그만큼 신경쓰는게 힘든거같아요ㅜ
+P0 	: 맞아요
+P0 	: 지금도 청소랑 설거지 정도는 하는데
+P0 	: 시험기간이나 바쁘면 점점 안 해서
+P0 	: 엉망진창으로 살까봐...ㅋㅋㅋ
+P1 	: 그쵸ㅜㅜ
+P1 	: 전그래서 mbti 말고 방bti라고
+P0 	: 오
+P1 	: 친구들이랑 방 상태로 스트레스 상태 알수있다고 농담해요 ㅋㅋ
+P0 	: 아 근데 정확한 거 같아요ㅋㅋㅋㅋ
+P0 	: 집안일 자체는 좋아해요
+P0 	: 깨끗해지면 너무 기분 좋고 뿌듯해서

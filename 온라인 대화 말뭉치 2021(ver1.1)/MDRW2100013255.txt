@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100013255
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 동호회나 봉사활동 하시나요??
+P1 	: 아니요!
+P1 	: 하시나요?
+P0 	: 저도 아직은 안해요! 테니스동호회 들어가고 싶은데 실력이 부족해서 기회를 노리고 있습니다 ㅎㅎ
+P0 	: 도서관 봉사활동은 꾸준히 하고 있어요!
+P1 	: 와우
+P1 	: 활동적이시네요
+P1 	: 도서관 봉활은 그냥하시는건가요?
+P0 	: 네 이전에 봉사활동경험이 없어서 어떤건지 궁금하더라고요ㅋㅋㅋㅋ
+P0 	: 그래서 그냥 취미로 하고있어요
+P1 	: 와우
+P1 	: 쉽지않은데 대단하시네요
+P0 	: 감사합니다 담달에는 학교가야해서 이번주 주말까지만 하기로했어요!
+P0 	: &name2&은 하고 싶은 동호회 있으신가요?
+P1 	: 학생이시군요?
+P1 	: 역시 젊어서 체력이좋네요ㅋㅋㅋㅋ
+P1 	: 전 등산이요
+P0 	: 넵 학생이요
+P0 	: 좀 &name2&이야말로 체력이 좋으신가봐요
+P0 	: 등산이라니!
+P0 	: 전 엄두도 못네요 ㅜ 넘 힘들것같아요
+P1 	: ㅋㅋㅋㅋ 저 사실
+P1 	: 한번도안가봤어요
+P1 	: 이제 가보고싶네요ㅋㅋㅋ
+P0 	: 저두 한번도ㅋㅋㅋ 올해 목표 중 하나예요 ㅋㅋㅋ 이룰지는 모루겠지만
+P1 	: 사실코로나때문에
+P1 	: 모이기가 부담스럽죠
+P0 	: 그건 마자요ㅜ 코로나때문에 의지가 있어도 모이는게 쉽지 않으니까....

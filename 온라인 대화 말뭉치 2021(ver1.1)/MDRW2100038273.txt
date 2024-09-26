@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100038273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&님은 좋아하는 계절 있나요?
+P1 	: 전 다 좋지만 봄이 최곤거 같아요
+P0 	: 그렇군요.. 올 봄에 꽃구경 좀 하셨나요?
+P1 	: ㅋㅋ 봄에 코로나때문에ㅜㅠ 꽃은 잘못봤지만 춥다가 봄되면 기분이 좋아요!
+P0 	: 저도 작년부터 어딜 못다니고 동네만 조금 다니네요
+P0 	: 저희 동네는 공원이 2개 있어요.. 거기서 꽃을 봤어요
+P1 	: 아 저도 동네에서만ㅋㅋ 그래서 건진 사진이 별로 없어요ㅋㅋ
+P1 	: 아침에 선선하죠?
+P0 	: 요즘은 꽤 선선해 졌어요
+P1 	: 에어컨 꺼도 근무할만하네요
+P1 	: 회사는 에어컨ㅋㅋ 추워요ㅜㅋㅋ
+P0 	: 맞아요.. 그래서 걸칠 옷이 필요하더라구요.. 입고 벗을 수 있는
+P1 	: 네 가디건 필수의 계절이 되고있네요
+P0 	: 환절기가 감기 걸리기 딱이니까 진짜 옷 잘 챙겨입고 다녀야해요
+P1 	: 코로나 유행이니 더 조심ㅜ 밤엔 진짜 추워요
+P0 	: 네.. 감기걸리면 진짜 난감해지니 조심해야 해요
+P0 	: 거의 2주를 흐리고 비오더니 어제부터 해가 좀 나네요

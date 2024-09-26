@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100026298
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 저녁 드셨나요?
+P1 	: 네 된장찌개였습니다 &name1&님도 저녁 드셨나요?
+P0 	: 네 전 비빔냉면 먹었습니다.
+	  된장찌개는 직접 만들어서 드셨나요?
+P1 	: 네 된장이 있길래 냉동해둔 야채를 털어서 만들었어요
+P1 	: 비빔냉면은 외식으로 드신건가요?
+P0 	: 아니요 그냥 냉면면에 소스넣어서 먹었어요
+	  된장찌개는 레시피 참고안하시고 그냥 만드신건가요?
+P1 	: 아 레시피 참고했어요! 돼지고기랑 파랑 마늘 넣고 볶다가 야채 넣고 물 넣고 된장 넣으래서 그대로 했더니 정말 된장찌개가 되더라구요
+P1 	: 된장찌개 좋아하시나요??
+P0 	: 네 전 된장찌개 좋아해요 &name2&님도 좋아하시나요?
+P1 	: 네 특히 고기가 잔뜩 들어간 된장찌개가 좋아요 
+	  &name1&님은 된장찌개에 해물과 고기중 어느쪽을 더 선호하시나요??
+P0 	: 저도 고기요 그리고 또 두부 많이 들어간 된장찌개 좋아해요
+P0 	: &name2&님은 어떠신가요?
+P1 	: 저도요! 부드러운 두부 잔뜩 넣어서 밥에 슥슥 비비면 맛있죠 ㅋㅋㅋ
+P1 	: 고깃집 가서 먹는 된장찌개도 좋아하시나요???
+P0 	: 네 사이드로 된장찌개나오면 완전 흡입을 해요ㅋㅋㅋㅋ

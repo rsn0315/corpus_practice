@@ -1,0 +1,112 @@
+# FILE DATA
+ID : MDRW2100001582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210322
+topic : 기타/일상
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충북
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 밤 아줌마 계심
+P0 	: ㅇㅋ
+P0 	: {emoji}
+P0 	: 집에서따라해봐
+P0 	: 한결나아질꺼야
+P1 	: {share:photo}
+P0 	: {emoji}
+P0 	: {emoji}
+P0 	: {emoji}
+P0 	: {emoji}
+P1 	: 고단하신지 주무시고 계심
+P1 	: 나도 따라서 한숨 자야징~~
+	  차분하게 ㅋㅋ
+P0 	: 그려 주무셔
+P0 	: {emoji}
+P1 	: {emoji}
+P0 	: [네이버 인플루언서 검색] 백종원 무말랭이무침! 무말랭이 만드는법~
+	   - {share:url}
+P0 	: 나  물통한개만더줘
+P0 	: 있어?
+P1 	: 만들어줄께
+P1 	: 문앞에 놔둘께 가져가
+P0 	: ㅇㅇ
+P0 	: 땽큐
+P1 	: {share:photo}
+P0 	: {system:money}
+P1 	: {share:photo}
+P1 	: {share:photo}
+P1 	: {share:photo}
+P0 	: 오~'
+P0 	: 나내려옴
+P1 	: 웅 내려갈께
+P0 	: 치킨 살짝 데워먹어
+P0 	: 아까 튀기고 놀터다녀오느라 식었어
+P1 	: 이번거가 더 맛있다는데?
+P1 	: 나동
+P1 	: {emoji}
+P0 	: 이번꺼가 맛있는게 당연함
+P0 	: 나도  이번꺼가 훨 맛있음
+P1 	: {emoji}
+P1 	: {share:photo}
+P1 	: 일어났엉?
+P1 	: &name3&이 태권도 가?
+P0 	: 나어제친정옴
+P1 	: 옥히
+P0 	: &name4&간다했으니같이가
+P1 	: &name5&이 혼자 보낼려고
+	  혼자가기 심심한가봐
+P0 	: 아항
+P1 	: &name6&이 끌고가기로 함 ㅋ
+P0 	: ㅋㅋ
+P0 	: {share:photo}
+P0 	: 연두색으로사?
+P0 	: {share:photo}
+P0 	: 이거맞지?
+P0 	: {share:photo}
+P0 	: {share:photo}
+P1 	: ㅇㅇ
+P0 	: 29380원
+P0 	: 리스테린 14490   오일 14890
+P0 	: 쿠팡을 추천 합니다!
+	  [10p/무료배송] 무지개 유니콘 지비츠 세트
+	  {share:url}
+P0 	: 쿠팡을 추천 합니다!
+	  당일발송) 12종 어몽어스지비츠셋트/크록스지비츠세트/캐릭터지비츠세트/크록스장식
+	  {share:url}
+P0 	: 요렇세 두개샀어
+P0 	: 올라오슈
+P1 	: {emoji}
+P0 	: {system:money}
+P1 	: 피아노쌤 전번알려주삼
+	  나도 쿠폰해야겠따
+P0 	: &tel-num&
+P1 	: 땡큐
+	  

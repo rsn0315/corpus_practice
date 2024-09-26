@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009332
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 무슨음식 좋아하세요?
+P0 	: 저 떡볶이랑 치킨이요
+P0 	: 어떤 음식 좋아하세요?
+P1 	: 와 요즘 떡볶이랑치킨 세트로 팔잖아요 굿
+P0 	: 맞아요 말하니까 먹고싶네요
+P1 	: 저도 떡볶이 엄청좋아해요
+P1 	: 매콤한거 좋아하거든요
+P0 	: 그러시구나 전 매운거 잘 못먹는데 그냥 먹어요
+P0 	: 요즘 점심식사로 어떤거 주로 드세요??
+P1 	: 주로 한식이요 ㅎ
+P1 	: 밥 좋아하거든요
+P1 	: 님은 ?
+P0 	: 저도 한식이요!
+P0 	: sns보고 레시피 따라해본적 있으세요?
+P1 	: 네넹 음식하는거 좋아해요
+P1 	: 하는거 좋아하세요?
+P0 	: 앗 네 저도 만들어 먹는거 좋아해요
+P0 	: 어떤거 만들어 보셨어요?
+P1 	: 저는 거의 밑반찬류요 ㅎㅎ 확실히 레시피대로 하니깐 맛나더라구요
+P1 	: 뭐해보셨어요?
+P0 	: 박막레할머니의 간장비빔국수요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030668
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행은 가을이죠
+P0 	: 오늘저는해남여행왔어요
+P1 	: 오 해남 어디가 좋나요
+P0 	: 음 땅끝이요
+P1 	: 가을 여행지 좀 추천해주세요
+P0 	: 해남은 고구마죠
+P1 	: 전 대흥사가봤어요
+P0 	: 가을에는 드라이브죠 해안도로
+P1 	: 고구마빵도 맛나요
+P0 	: 해남 와보셨나보네요
+P1 	: 해안도로는 강원도 나 남해?
+P0 	: 피낭시에. 저는 개인적으로 그다지...
+P1 	: 넹 좀 가봤어요
+P0 	: 남해도 좋죠. 영광에잇어요
+P1 	: 거기 진도대교도요
+P0 	: 백수해안도로입니다.

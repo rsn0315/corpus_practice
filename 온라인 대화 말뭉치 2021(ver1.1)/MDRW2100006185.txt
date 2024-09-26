@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100006185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁매뉴 뭐드셨나요
+P0 	: 결국 고등어에 밥 먹었답니다
+P1 	: 고등어는 생물인가요?아님 포장된것??
+P0 	: 냉동된거요
+P0 	: 전에 생물 샀다가
+P0 	: 손질을 어설프게 했던
+P0 	: 안타까운 기억이 있는지라
+P1 	: 저도 고등어밥상?이라는.손질고등어 사먹는데 괜찮더라구요
+P0 	: 아 그러고보니
+P0 	: 손질 생선 많이 생겼더라고요
+P1 	: 네 저건 가시도 발라져있어요...ㅎ
+P0 	: 여튼
+P0 	: 이번에 먹은건
+P0 	: 냉동 노르웨이 고등어인지라
+P1 	: 그러셨군요 고등어 맛있죠..
+P0 	: 그렇죠
+P0 	: 꽁치와 함께
+P0 	: 구워먹기 좋음
+P0 	: 은
+P1 	: 꽁치는 안먹은지 오래네요
+P0 	: 참치는요?
+P1 	: 참치도요..ㅎㅎ
+	  갈치.삼치.고등어를 자주 먹네요

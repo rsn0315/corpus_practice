@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016612
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 큰 아들은 2학기 문제집 새로 들어가서 수학 처음부터 푸는 중
+P0 	: ㅇㅇ 다음주부터 2학기니 미리 준비해야지
+P1 	: 이미 다 아는 내용이지만 복습이 중요하니까
+P0 	: 응용이지?
+P1 	: ㅇㅇ 이번 문제집은 응용
+P0 	: 응용 안틀리고 잘 푸나?
+P1 	: ㅇㅇ 특별히 안 알려줘도 스스로 잘 푸네
+P0 	: 기특하네 ㅎㅎ
+P1 	: 문제집 다 풀면 게임 40분 하기로 했어
+P0 	: ㅇㅇ 시켜주기로 약속한거니까 해줘야지
+P1 	: 웅 자기 할 일 스스로 잘 하고 하는 거니까 ㅎㅎ
+P0 	: 둘 다 착하네
+P1 	: 오늘은 군말없이 둘 다 열심히 하네
+P0 	: 오늘만 같아라 ㅎㅎ

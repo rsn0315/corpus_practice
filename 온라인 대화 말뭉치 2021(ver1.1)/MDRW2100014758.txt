@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100014758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P1 	: 전 토야랑 살아요
+P0 	: 아니 안키워요  키우고싶어요
+P0 	: 토야라니 이쁜이름이군요
+P0 	: 알러지때문에 못키워요
+P1 	: 아니요 토끼를 토야라고 불러요 토끼집사들은
+P1 	: 이름은 &name3&요
+P0 	: 토끼를 키우시군아
+P0 	: 사진을 못보는게  아쉽네요
+P1 	: 사진첨부가 없네요
+P1 	: 아숩 자랑하고픈데
+P0 	: 토끼는 간식 뭐먹어요??
+P1 	: 간식은 말린 과일이요
+P1 	: 토끼는 당근 싫어해요
+P0 	: 세상이야
+P0 	: 진짜요
+P0 	: 오이는 먹어요?
+P0 	: 당근을 싫어한다니
+P1 	: 아뇨 우리아가는 단거 좋아해요
+P1 	: 저 닮아서
+P1 	: 뽕잎도 좋아하고
+P1 	: 클로버도 좋아해요
+P1 	: 귤피 진짜 좋아해요
+P0 	: 신기하네요
+P0 	: 강아지풀은요?
+P1 	: 사본적이 없어서 모르겠네요
+P1 	: 주식으로 주는 건초에 강아지풀같은게 달려있긴해요
+P1 	: 그것만 골라먹어요
+P0 	: 아하  옛날에  친구가  기니피크 키울때 본것같아요
+P1 	: 기니피크라니 귀여울것 같아요
+P1 	: 같은류라서. 사료도 같을 거예요
+P0 	: 막 뛰고하더라거요

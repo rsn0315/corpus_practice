@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100038928
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 자주 하시나요?
+P1 	: 자주하는 편은 아니구
+P1 	: 필요할 때만 해요
+P0 	: 최근엔 뭐 사셨어요?
+P1 	: 모기 물린데에 붙일 밴드 샀어요 마스크랑
+P0 	: 모기 물린데 붙이는 밴드가 따로 있나요?
+P1 	: 따로 있는건 아니구
+P1 	: 긁지 못하게 막을 용도로 샀어요
+P0 	: 아~ 어디꺼 사셨나요?
+P1 	: 데일밴드요ㅋㅋ 가장 기본적인게 좋죠
+P0 	: 아!! 모기 물린데 데일밴드 붙일 생각을 저는 왜 못했을까요??
+P1 	: ㅋㅋ 저도 이번에 심하게 물리고 나서 생각했어요
+P0 	: 긁다 피나잖아요~ 저도 밴드 사야겠어요 ㅎ
+P1 	: ㅎㅎ 좋아요
+P0 	: 전 오늘 택배 박스만 4개 받았어요 ㅋㅋ

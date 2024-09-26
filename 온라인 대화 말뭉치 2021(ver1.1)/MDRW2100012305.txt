@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012305
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하시나요
+P1 	: 네 영화 좋아해요. 많이 보는 편은 아니지만요
+P0 	: 어떤장르 좋아하시나요
+P1 	: 좋아하는 장르가 정해져있진 않아요 그냥 줄거리 봤을 때 재밌어 보이는 걸 보는 것 같아요
+P1 	: 근데 공포는 안봐요
+P1 	: &name1&은 어떠세요?
+P0 	: 저는 액션이요
+P1 	: 그럼 최근에 본 영화가 무엇인가요?
+P0 	: 모가디슈요
+P1 	: 아 모가디슈 보고 싶었는데 계속 미루고 있네요 ㅜ 어땠나요?
+P0 	: 재밌어요 연기도 좋구ㅎㅎ
+P1 	: 액션씬도 많이 나오는 편인가요? 그 영화 감독이 유명한 사람이었던 것 같은데
+P0 	: 네네 긴장감있어요
+P1 	: 보러가고 싶네요 요즘엔 2d영화만 하던가요? 액션씬 좋은것은 4d로도 만들잖아요
+P0 	: 4d도 합니다ㅎㅎ

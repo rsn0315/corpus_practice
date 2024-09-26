@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021317
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교생활 즐거우세요?
+P0 	: 저는 대학생이에요
+P1 	: 아 대학생이시구나
+P1 	: 학교 교직원 어떻게 생각하세요?
+P0 	: 쓰레기들아닐까요?
+P0 	: 제등록금으로
+P0 	: 뭘하는지,,,
+P0 	: 
+P1 	: 요즘 대학생들한테는 학업 스트레스보다 교직원 스트레스가 더 많다고 하네요,,
+P0 	: 정말 학생들이 많이 참죠,,
+P0 	: &name2&님도 대학생이시구나
+P0 	: 몇학년이세요?
+P1 	: 저 새내기예요 ㅎㅎ
+P1 	: 21학번이요
+P0 	: 헉 저는 20 코로나학번이에요 ㅠ
+P1 	: 아쉽겠다.. 학교 가보셨어요?
+P0 	: 네! 저는 교내근로합니다!
+P1 	: 저도 교내근로해요
+P1 	: 학교 사람들은 어떠신지?
+P0 	: 같이 근로하는 친구들 아니었으면 진짜 못참았을거에요ㅠ
+P0 	: 저는 근로담당자분이 좋아서 다행이었어요
+P1 	: 어머머 제 근로담당자분도 좋았는데!!

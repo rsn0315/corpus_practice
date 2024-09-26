@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035174
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아이들과 공연 보신적 있으신가요?
+P1 	: 없어요 &name1&님은요?
+P0 	: 한번도 없으신가요? 전 뮤지컬 보러 갔었는데 큰애가 잤어요 ㅠ ㅜ
+P1 	: 저희 아이는 공연장이 무섭대요 깜깜해서 ㅋ
+P0 	: 저희 아이도 깜깜해서 잔듯요 ㅠ 하... ㅜ
+P1 	: 어떤 공연이었나요
+P0 	: 창작 뮤지컬이었는데 제목은 잘 기억이 안나요. 최근엔 무지개 물고기 뮤지컬이 보고 싶대요 큰애가
+P1 	: 오 무지개물고기도 유명하죠 아이가 보고싶다니 이번엔 잘 볼수도 있겠네요!
+P0 	: 근데 이미 끝나서 다음 기회를 노려보려고요. 아이가 보고 싶어하는 공연 없나요?
+P1 	: 네 공연장 갔대 무섭다고 뛰쳐나온경험이 있어요 ㅋㅋㅋ
+P1 	: 다가
+P0 	: 앗.. ㅠ 그럼 다시 가기 어렵겠어요 ㅠ 장수탕할머니인가? 그 공연도 인기 많던대요
+P1 	: 아 저도 녹차카페에서 관련글 본거같아요^^
+P0 	: 그건 자주 공연이 있는 것 같았어요 책 한번 읽어주고 가면 좋을것같아요
+P1 	: 백희나님 책 다른 공연도 있죠? 구름빵?
+P0 	: 구름빵도 좋은데 공연도 있나요?
+P1 	: 예전에 플랜카드 본것같아요

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100026703
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 여행어디가고싶으세요?
+P1 	: 안녕하세요ㅎㅎ
+P1 	: 저는 부산가고싶네용ㅎㅎ
+P1 	: 오늘 개강했는데 벌써 놀고싶어요..!
+P0 	: 부산 어디용???
+P0 	: 언제나 놀고싶죠 ㅋㅋㅋ
+P1 	: 그쵸ㅋㅋㅋㅋ
+P1 	: 전에 부산갔을때 기억이 좋아ㅅ서 막연히 그냥 가보고싶네요!ㅋㅋㅋ
+P1 	: &name1&은 학교다니시나요?
+P0 	: 아녕 ㅋㅋㅋ 학교 안다닌지 아주 오래됐어요 ㅋㅋ
+P1 	: 아하 그러시군요!ㅋㅋㅋ
+P1 	: 저는 대학생이에용!ㅎㅎ
+P0 	: 네 ㅎㅎ 개강부터 ㅎㅎ 대학생인거같았어요 ㅎㅎ
+P0 	: 제가 부산 살아서 ㅎㅎ
+P0 	: 부산 놀러오시는분들은
+P0 	: 어딜가나 궁금해요
+P1 	: 아하 부산사시는군요? 부산 추천할만한곳 있나요?
+P0 	: 음......글쎄요..?
+P0 	: 아무래도 학생분이시니까
+P0 	: 서면이나 남포가면 재미있지않을까요?
+P1 	: 아하 그렇군요!
+P1 	: 종강하면 한번 가봐야겠어요! 서면 가보고싶네요!
+P0 	: 부산 오셨을때 어디가셨어요?
+P1 	: 전에 방학때 친구들이랑 해운대 갔었어요!
+P0 	: 해운대 ㅋㅋㅋㅋ 바다 이쁘죠
+P0 	: 술 집도 많고 ㅎㅎ
+P1 	: 맞아요! 재미있게 놀았던 기억이 나네용ㅎㅎ

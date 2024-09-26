@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100024143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하시는 음료는 있으신가요?
+P1 	: 당연히 술은 회랑 빠질 수 없는 친구구요ㅋㅋ
+P0 	: 음료ㅎㅎ 사실 전 술맛도 커피맛도 몰라요
+P0 	: 오직 안주발ㅎㅎ
+P1 	: 아!
+P1 	: 본연의 맛을 즐기시군요!
+P0 	: 그렇죠 사실 메인은 안주지 술이 아니잖아요ㅎ
+P0 	: 안주 먹기 위해 술 마셔요
+P0 	: 님은 좋아하는 음료가 있나요
+P1 	: 음료는 ㅋㅋㅋ
+P1 	: 솔의눈이요ㅋㅋ
+P1 	: 여름에 얼음 타마시면 맛있어요!ㅋ
+P0 	: 아니ㅋㅋㅋ
+P0 	: 혹시 아침햇살 민초 데자와 중에 취향인게 있나요?
+P1 	: 일단 다 먹는데 민초보다는 피스타치오가 더 좋고 데자와는 사랑합니다ㅋㅋㅋ
+P1 	: 민초도 먹긴해요ㅋ
+P0 	: 파인애플 피자도 드시겠죵?
+P1 	: 아뇨!
+P1 	: 그건 용납못하겠어요ㅋㄱㅋ
+P0 	: 헉;  실망이에요
+P0 	: 전 드디어 동지를 만난줄ㅜㅇㅜ
+P1 	: 헉!
+P1 	: 파인애플은 그냥 먹어도 모자라는데..
+P1 	: 근데 맛있나요?
+P1 	: 사실 안먹어봤어요ㅋㅋ파인애플 피자는ㅋㅋ
+P0 	: 페퍼로니 듬뿍에...나름 어울려요ㅎㅎ
+P0 	: 하지만 괴식 카테고리긴 하죠ㅎ
+P0 	: 한번 드셔보세요!
+P0 	: &name2&님이라면 하실 수 있음!!ㅎㅎ
+P1 	: 맛있을 수도 있겠네요
+P1 	: 괜찮나요?ㅋㅋ
+P0 	: 어;; 저는 종종 먹어요. 자주는 아니고ㅎ
+P0 	: 생각보다 안 이상해요!

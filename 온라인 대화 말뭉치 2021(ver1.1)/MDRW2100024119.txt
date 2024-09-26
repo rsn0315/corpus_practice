@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100024119
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 오늘 점심 뭐드셨나요?
+P0 	: 저는 김치찌개요
+P0 	: &name1&님은요??
+P1 	: 저는 브런치카페에서 브런치를 먹었어요!
+P1 	: 살몬 베네딕트요!
+P1 	: 맛있더라구요~
+P0 	: 연어음식인가요??
+P1 	: 김치찌개도 먹고싶네요ㅜㅜ 하지만 제가 하면 엄마가 해주신 맛이 안나요
+P1 	: 네! 원래 에그 베네딕트라고 잉글리시 머핀에 수란하고 같이 먹는 음식인데
+P1 	: 연어도 들어있는 걸 먹었어요!
+P0 	: 그럼 가격이 꽤 나가겠어요
+P1 	: 네ㅜ 솔직히 재료들에 비해 가격이 비싸긴 했지만 브런치 카페여서 카페처럼 오래 앉아있다와서 별로 아깝지 않았어요!
+P1 	: &name2&님은 김치찌개 해드신 건가요?
+P0 	: 아니요 시켜 먹었어요
+P1 	: 아 그러시군요! 김치찌개 잘하시면 비법을 알 수 있을까 했는데 ㅎㅎ
+P1 	: 역시 김치가 제일 중요하겠지만요
+P0 	: 김치찌개는 고기랑 김치가 맛있으면 그게 최고죠ㅋㅋㅋ
+P1 	: 맞아요... 말하니까 진한 김치찌개가 먹고싶네요ㅜㅜ 김치찌개에 계란말이 정말 좋아하는 조합인데ㅠㅠㅠ
+P0 	: 저도요!!!

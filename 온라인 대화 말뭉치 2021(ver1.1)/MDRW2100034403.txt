@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일하고계신가요?
+P1 	: 육아휴직중이예요
+P0 	: 그러시군요!
+P0 	: 무슨일 하시나요?
+P1 	: 중소기업
+P1 	: 다녀요
+P0 	: 아하
+P0 	: 저는 취준중이에요
+P1 	: 시험준비하시나요?
+P0 	: 네 준비중이에요
+P1 	: 애쓰시겠어요 공부는 어디서 하시나요?
+P0 	: 스터디카페에서 했는데 코로나때문에 주로 집에서 많이 하고 있어요
+P1 	: 그러시군요 코로나때문에 애쓰시겠어요 스터디카페에서 취업 준비하시는 분들 많을 것 같아요
+P0 	: 맞아요
+P0 	: 조금 늦게 가는날에는 자리를 뺏기기도 하더라구요
+P0 	: 보면서 다들 열심히구나 하는 생각을 하게되요ㅎㅎ
+P1 	: 그러게요 좋은 직장 구하시길 응원해봅니다
+P0 	: 감사합니다!

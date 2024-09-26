@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&은 좋아하는 계절있으세요?
+P0 	: 저는 겨울을 제일 좋아해요~
+P0 	: &name2&은요?
+P1 	: 정말요? 전 겨울 추워서 너무 싫어요
+P1 	: 전 봄이 좋아요
+P0 	: 봄도 좋죠ㅋㅋㅋ사실 가을도 좋아요
+P0 	: 빨리 가을왔음 좋겠네요
+P1 	: ㅋㅋ여름 빼고 다 좋으신건가요?
+P1 	: 비 오는 시기 지나가면 완전 가을일 것 같아요
+P0 	: 맞아요 더운게 너무 싫어서
+P0 	: 얼른 가을옷 입고싶네요 ㅋㅋ
+P1 	: 저도요 가을 되면 니트류 많이 입을 수 있어서 좋아요
+P0 	: 니트류 너무 좋죠 꽈배기니트 좋아해요
+P1 	: 맞아요 포근하죠ㅋㅋ
+P0 	: 니트는 색색별로 쟁여야죠
+P1 	: ㅋㅋㅋㅋ
+P1 	: 비니 같은 건 좋아하세요?
+P1 	: 전 추위많이 타서 비니도 자주 써요
+P0 	: 오 비니 잘코디하면 너무 이쁜거같아요
+P0 	: 전 캡모자를 좋아해서 자주 써요

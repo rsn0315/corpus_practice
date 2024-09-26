@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100011401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 식사 드셨나요?
+P1 	: 아뇨 아직이요ㅎㅎ방금 햄버거 시켰어용
+P1 	: 점심 드셨어요?
+P0 	: 아직이요
+P0 	: 어디브랜드꺼 시키셨나요?
+P1 	: 롯데리아에서 시켰어용ㅎㅎ
+P1 	: 점심 뮤 드셨어요?
+P1 	: 뭐 드셨어용?
+P0 	: 저는 샐러드 먹었어요
+P0 	: 무슨 햄버거 드셨나요?
+P1 	: 모짜렐라 버거 먹었어요ㅎㅎㅎ
+P1 	: 샐러드면 혹시 다이어트 하세요?
+P0 	: 아니요 그냥 집에 있길래 먹었어요
+P1 	: 무슨 샐러드였어요?
+P0 	: 감자샐러드요
+P0 	: 저녁 뭐 드실 예정이신가요?
+P1 	: 저녁은 배가 많이 안고파서 복숭아만 먹으려구요
+P1 	: 뭐 드실거에요?
+P0 	: 저는 피자요
+P0 	: 복숭아 요즘도 맛있나요?
+P1 	: 넵!! 복숭아때문에 여름이 끝나가는게 아쉬워요..
+P1 	: 저는 수박보다 복숭아가 더 좋아요ㅎㅎ
+P0 	: 말복??딱복??
+P1 	: 저는 딱복파 입니당!!

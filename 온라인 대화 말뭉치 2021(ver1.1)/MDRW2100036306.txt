@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100036306
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 지난주금요일에 2차 맞았어요
+P1 	: &name1&님은요?
+P0 	: 저는 8월초에 2차 다 맞았어요 부작용은 없으셧나요??
+P1 	: 오 저는 많이자고 말차라떼먹는 증상이.. &name1&님은요?
+P0 	: ㅋㅋㅋㅋ저는 근육통이 심했고요 2차땐 몸살이 났어요ㅠㅠ
+P1 	: 호고공ㅜㅜㅜㅜ고생하셨네요
+P0 	: 다음해에 또 맞아야하려나요? 또 몸살걸릴까봐 무섭네요
+P1 	: 아..요새 상황이 항상달라져서ㅜ 가봐야알것같네요
+P0 	: 그쵸ㅠ &name2&님은 2차 백신 접종일이 연기되진 않으셨었나요?
+P1 	: 앗  그러고보니 일주일 연기됐었어요
+P0 	: 그러셨군요 화이자엿나요?
+P1 	: 네 아스트라제네카 - 화이자요 교차접종이 제일 효과좋아요
+P0 	: 네 변이 바이러스땜에 그런 이야기가 많더라고요 모더나도 델타에 좋다죠?
+P1 	: 델타에 이길수있는건 비누로 손씻기와 마스크뿐이에요 현재로선

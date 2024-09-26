@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100011661
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋았던여행지 있으세요?
+P0 	: 대만이요!
+P1 	: 와! 몇박으로 가셨나요?
+P1 	: 저 대만 아직 안가봐서요ㅎㅎ
+P0 	: 3박4일이요ㅎㅎ 코로나 끝나면 다시 가보고싶네요ㅠ
+P1 	: 오 정말 좋으셨나봐요!
+P1 	: 음식은 입에 맞으셨어요?
+P0 	: 향신료 냄새만 빼면 나름 괜찮았어요ㅎㅎ
+P1 	: 향신료ㅋㅋ큐ㅠㅜ
+P1 	: 국내여행도 자주 다니시나요?
+P1 	: 전 강릉이 좋았어요ㅎㅎ
+P0 	: 오 강릉 제주도 좋아요!
+P1 	: 오 제주도도 좋아요!
+P1 	: 빨리코로나 끝났으면 좋겠네요
+P0 	: 섭지코지 진짜 경치가 짱이에요
+P1 	: 오오 맞아요 미쳤어요
+P1 	: 성산일출봉도 좋았어요
+P0 	: 오 맞아요~~ 등산 한시간도 안걸리던데

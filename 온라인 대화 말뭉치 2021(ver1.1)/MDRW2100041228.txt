@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네!!&name1&님 식사 하셨나요?
+P0 	: 네 저는 점심 든든히 먹어서 저녁은 간단히
+P0 	: 점심에 주꾸미 세트 시켜 먹었거든요
+P1 	: 오 쭈꾸미! 정말 든든한 점심 드셨군요 ㅎㅎ
+P1 	: 매운 음식을 좋아하시나요?
+P0 	: 맵지 않게 해달라고 해서 먹었어요ㅎㅎ
+P0 	: 깻잎 천사채 옥수수 무쌈
+P0 	: 넣어 쌈으로 먹었고요
+P1 	: 맛있었을 것 같아요!
+P1 	: 천사채도 넣어서 드시는군요 씹히는 식감이 더 많이 나나요??
+P0 	: 세트로 샀더니 같이 왔어요
+P0 	: 천사채 넣어 먹음 오독오독 식감도 있고
+P0 	: 마요네즈 버무려서 그런지 매운 맛도 잡아줘서 좋더라고요
+P1 	: 오... 평소에도 자주 시켜드시는 곳에서 드셨나요??
+P0 	: 오늘은 처음 시킨 곳이었어요
+P0 	: 전에 다른 지역 친구네 놀러갔을때 거기서도 주꾸미에 천사채 줬는데 맛있어서 기억에 남았거든요
+P1 	: 오 공교롭게 배달 와서 상당히 반가우셨을 것 같아요
+P0 	: 네네 천사채 준대서 더 반갑게 시켰어요 사실
+P1 	: ㅎㅎㅎ 혹시 기억에 남는 배달 음식이 또 있으신가요?
+P0 	: 음 요즘은 진짜 웬만한 음식은 배달이 다 돼서
+P0 	: 저희동네에 아구찜 맛집이 있는데 진짜 맛있어요
+P1 	: 아구찜에 들어있는 미더덕 참 맛있게 잘 먹었던 기억이 나요 ㅋㅋ
+P1 	: 해산물을 좋아하시는 편인가봐요

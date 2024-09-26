@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018416
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 없는것같은데 잇기도한것같아요
+P0 	: 저는 없는지 있는지 몰라요
+P1 	: 오 그러신기요?
+P0 	: 검사 한번 하고싶은대 말이죠
+P1 	: 검사비용 비싸더라고요
+P0 	: 검사 해야지 애완동물을 키울수 있을거같아요
+P1 	: 오 그런가요?? 저는 길고양이 , 길강아지를 보면 가렵더라고요
+P0 	: 맞아요 비싸죠
+P0 	: 그럼 알러지 있으신듯
+P1 	: 그런가여 ㅠㅠ
+P0 	: 대형병원애서 해야된대요 검사
+P1 	: &name1&은 뭐키우려고요?
+P0 	: 곰이요
+P1 	: 무슨곰이죠?
+P0 	: 반려동물 키우세요?

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031389
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요?
+P1 	: 구피요
+P0 	: 오랫동안 키우셨나요?
+P1 	: 6개월료
+P0 	: 그러시군요
+P0 	: 몇마리 키우세요
+P1 	: 열마리요
+P0 	: 많이 키우시네요
+P1 	: 많아졌아여
+P0 	: 그럼 지금은 몇마린가여?
+P1 	: 열마리요
+P0 	: 아 많아져서 열마리가 되었군여
+P1 	: 네 자주 죽고
+P0 	: 그렇군요
+	  저도 전에 구피 키운적 있어요

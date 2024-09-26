@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100044162
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^
+	  저녁식사는 하셨나요?
+P0 	: 네 가지베이컨말이 만들어 먹엇어요
+P1 	: 오! 맛있겠어요~
+	  가지에다가 베이컨을 감아서 구워서 먹는건가요?
+P0 	: 네 베이컨 짭짤해서 맛잇어요
+P1 	: 아하 ~ 요리 잘하시나봐요 !
+P0 	: 아니요 그건 간을 안해도 대는거라 해요
+	  간을 못봐서ㅋㅋㅋ
+P1 	: 앜,, 그렇군요.. 저는 요리 똥손이다보니.. 뭔가를 만드는 게 무섭네요
+P0 	: 저도 그래요 칼질도 잘못해서ㅋㅋ
+	  그래서 밀키트같은거 사서해요
+P1 	: 엇,, 여기서 동지를 만났네요 ㅎㅎㅎㅎ
+P1 	: 저도 밀키트 좋아해요 !
+	  편의점에도 요즘 잘나오더라구요
+P0 	: 진짜 편의점 잘나오더라고요
+P1 	: 그쳐 깜짝놀랐어요~
+	  GS에 부대찌개 드셔보셨어요?
+P0 	: 그건 안먹어봣네요 맛잇나요?
+P1 	: 네 너무 맛있어서 한동안 게속 그것만 먹었어요 ㅋㅋㅋ

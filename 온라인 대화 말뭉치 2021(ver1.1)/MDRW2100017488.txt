@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017488
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네! 꽤 먹을만 하더라고요ㅎㅎ 로제떡볶이 드셔보셨어요?
+P0 	: 네 요즘 로제가 핫하잖아요 그래서 로제떡볶이도 먹어보고 로제닭발도 먹어보고 다양하게 먹어본 것 같아요
+P0 	: 로제 좋아하세요?
+P1 	: 너무좋아요! 로제닭발은 안먹어봤는데 어때요?
+P0 	: 두찜에서 나온 거 먹었는데 나쁘지 않았어요 소스로 볶음밥해먹으니깐 맛있더라구요
+P1 	: 다음에 꼭 먹어볼게요... 좋아하는 치킨 브랜드 있으세요?
+P0 	: 굽네치킨이랑 bhc요 스펀지밥님은 좋아하는 치킨브랜드가 무엇인가요?
+P1 	: 저도 bhc요! 뿌링클 좋아하세요?
+P0 	: 뿌링클도 먹긴 하지만 다른 메뉴를 더 좋아해요!
+P0 	: 뿌링클 좋아하세요?
+P1 	: 좋아해요ㅎㅎ 무슨메뉴 좋아하세요?
+P0 	: 맛초킹이요 ㅋㅋ 뿌링클가루로 사이드메뉴 많이 나왔더라구요
+P0 	: 뿌링소떡 먹어보셨어요?
+P1 	: 아뇨ㅠㅠ 아직도 치즈볼처돌이라
+P0 	: 아 치즈볼도 맛있죠
+P0 	: 뿌링가루가 진짜 신의한수인 것 같아요
+P1 	: 배고파요ㅠㅠ

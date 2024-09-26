@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 산 물건 있으신가요?
+P1 	: 저는 최근에는 향수 샀어요!
+P1 	: &name1&님은요?
+P0 	: 오 향수! 저는 최근에 산 건 과자인데, 곧 와인을 살 것 같아요
+P1 	: 와인을 원래 좋아하시나요??
+P1 	: 저는 와인을 잘 몰라서 마셔보고싶신 한데 아직 취향을 모르겠어요ㅜㅜ
+P0 	: 저도 와린이랍니다...ㅎㅎ 향수는 어떤 향으로 사셨나요?
+P1 	: 향수랑 와인이 비슷한거같아요 ㅎㅎ입문이 어렵고 취향찾는게 오래걸리는..!!
+P1 	: 저는 튤립향이랑 장미향 샀어요 ㅎㅎ 원래 쓰던거인데 세일해서 질렀습니다ㅜ
+P0 	: 오 제품명을 알 수 있을까요? 튤립향은 처음 들어봐요!
+P1 	: 바이레도 라튤립하고 로즈오브노맨즈랜드 이제품이에요!
+P0 	: 와 저도 향수에 관심이 있는데 한 번 사보고 싶네요!
+P0 	: &name2& 님! 저 오늘 마들렌을 샀어요ㅋㅋㅋ
+P1 	: 헉 ! 맛있는거 사셨네요 ㅎㅎ 이제야봤어요ㅠㅠ
+P1 	: 무슨 맛 사셨나용?
+P0 	: 저 초코칩 마들렌 샀어요ㅎㅎㅎㅎ
+P1 	: 헉 ㅜㅜ 저두 낼 먹어야겠어요 ㅎㅎ 갑자기 먹고싶어졌네요
+P1 	: 오늘 당근마켓에서 물건 판매해서 꽁돈생긴기분이라
+P1 	: 뭐 사먹을까했었거든요!
+P0 	: 오ㅋㅋㅋ 꼭 드셔보세요 우유나 커피랑 먹으면 완전 최고예요!

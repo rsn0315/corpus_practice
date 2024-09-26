@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 동물키우시나요?
+P1 	: 아뇨~ 동물은 안키우지만 옆집 고양이 밥주고있어요 ㅎㅎ
+P1 	: 아기 고양이 4마리요~
+P0 	: 와~~많네요
+P0 	: 고양이는 사료 먹죠?
+P1 	: 원래 6마리 였는데 2마리는 집을 나갔어요 ㅜ
+P1 	: 고양이 사료 먹어요 ㅎㅎ
+P0 	: 캔 음식 비싸던데
+P1 	: 맞아요~ 근데 애들 이뻐서요 :) ㅎㅎ
+P1 	: 옆에서 애교 부릴 때 너무 귀여워욜
+P0 	: 고양이도 애교있더라고요
+P1 	: 근데 1마리 빼고 3마리는 제가 만지는거 싫어해요 ㅠㅠ
+P0 	: (?)  왜그럴까요(?)
+P1 	: 성격이 달라서 그런가봐욮
+P0 	: 아^^ 강아지는 안좋아하세요(?)
+P1 	: 강아지도 좋아해요~~~!! &name1&님도요?
+P0 	: 저도 강아지 좋은데 못키워요
+P0 	: 물고기만키워요
+P1 	: 오 어떤 물고기 키우세요??
+P0 	: 플래티요

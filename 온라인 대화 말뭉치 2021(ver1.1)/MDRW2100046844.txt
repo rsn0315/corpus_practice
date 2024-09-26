@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046844
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211106
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 어제는 잘 주무셨나요!
+P0 	: 네 잘 잤어요!
+P0 	: 너무 오래잤어요!
+P0 	: &name2&님도 잘 주무셨나요?
+P1 	: 와 오래 주무셨다니 다행이네요
+P1 	: 저도 오늘은 푹 잤어요 ㅋㅋ
+P0 	: 주밀인데 뭐하세요?
+P1 	: 저는 밀린 강의 듣고 쉬는중입니다 ㅎ
+P0 	: 주말에 공부라니
+P1 	: ㅎㅎ 평일에 했었어야 했는데 못해서.. 
+P0 	: ㅠㅠ 내일은 안 들어도 되는거죠?
+P1 	: 네네 ㅋㅋㅋㅋ 그나마 다행이죠 ㅎ
+P0 	: 내일은 푹 쉬세요
+P1 	: 그러려구요 ㅠㅠ 감사합니다

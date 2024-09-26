@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 수학쓰는건 어떤 직업이라요?
+P1 	: ㅎㅎ 집에서도 수학해요 매일
+P0 	: 와.. 그냥 취미가... 존경 반.. 놀라움 반.. 이에요..
+P0 	: 어떤 직업이신데여?  선생님?
+P1 	: 일상은 수학이죠 ㅋㅋ 아이랑 하는 부루마블도 수학 ㅋㅋㅋ
+P0 	: 부르마블 수학이? 게임 같은거에요?
+P1 	: 부루마블 모르세요?
+P1 	: 그것도 집안 일 ㅋㅋ ㅠㅠ
+P0 	: 아하... 땅값 계산이요? ㅋㅋㅋㅋ
+P0 	: 아이랑 노는것도 일이긴 하죠..
+P1 	: 그럼요 ㅋㅋ 삶은 수학 ㅋㅋ 업무 에요 ㅠ 매일 한판
+P0 	: 일은 주로 정시퇴근이신가여?
+P1 	: 야근도 많아요
+P0 	: 야근이랑 부르마블이랑 어떤게 더 좋으세여? ㅋㅋㅋ
+P1 	: 솔직히 야근 ㅋㅋ
+P0 	: ㅋㅋㅋ 다 그럴꺼 같아요..

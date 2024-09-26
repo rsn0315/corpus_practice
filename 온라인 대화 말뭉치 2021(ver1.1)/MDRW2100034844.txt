@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100034844
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페 좋아하시나요?
+P1 	: 그럼요~카페 좋아해요{emoji:♡}
+P0 	: 어디카페 즐겨찾으시나요?^^
+P1 	: 싸고 양 많은 곳ㅎㅎ
+	  더벤티나 메가커피 잘 가는 것 같아요~
+	  스벅은 한번씩 기프티콘 생길 때 가구요ㅎㅎ
+P0 	: 저도 스벅 기프티콘이 생겨서 종종 가요!^^
+P1 	: 요즘은 홈카페 주로ㅋㅋㅋ
+	  집에 커피머신 있으니 좋더라구요:)
+P0 	: 아 커피머신은 뭐사용하세요?
+P1 	: 저 네스프레소 미니 에센자? 사용하고 있어요~
+P1 	: 캡슐은 일리로ㅎㅎ
+P0 	: 오 저도 에센자 쓰다가 커피 줄이면서 처분했어요 일리도 유명하죠^^
+P1 	: 커피 줄이셨어요? 하루에 몇 잔까지 드셨나요?
+P0 	: 음 1.2잔 먹었는데 카페인 반응이 심해서 디카페인으로만 가끔 먹어요
+P1 	: 아하 ㅠㅠ 카페인 반응이 심하시구나...
+	  심장 쿵쾅거리고 잠 못 자고 하는건가요?
+P0 	: 네네 커피마시면 밤을 꼴딱 새기도해요
+P1 	: 아이고ㅜㅜ 제 주변에도 그런 분 계셔요.
+	  커피 일절 안 드시더라구요.
+P0 	: 네 저도 진짜 커피를 확 줄였어요
+P1 	: 전 하루에 한잔은.꼭 마셔야 덜 피곤하더라구요.
+	  커피에 적응된 몸....

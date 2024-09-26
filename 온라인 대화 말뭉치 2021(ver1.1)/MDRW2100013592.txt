@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 콜라보제품을 구매해본적이 있으십니까
+P0 	: 없지만 소식은 들었어요
+P0 	: 곰표가 밀가루회사죠?
+P1 	: 네 밀가루회사에요
+P1 	: 요즘 콜라보 많이 출시하더라구오
+P0 	: 맥주랑 팝콘을 봤던거 같아요ㅋㅋ
+P1 	: 저 팝콘은 먹어봤어요
+P1 	: 씨유에서 팔더라구요
+P0 	: 무슨 맛이였어요?그냥 평범한 팝콘이겠죠?
+P1 	: 네 좀 짭짤한.
+P1 	: 별 특색은 없었어요
+P1 	: 그 젤리도 있다던데
+P1 	: 어떤분이 절대 먹지말라더라구요
+P0 	: 곰표 젤리요?
+P0 	: 맛없나보다ㅋㅋㅋㅋ
+P1 	: 그 돈을 땅바닥에 버리래요
+P1 	: 진짜 별로였나봐요ㅋㅋ
+P0 	: 젤리가 맛없기 쉽지않은데ㅋㅋㅋㅋ
+P1 	: 진짜 경악을 하면서 말리시길래
+P1 	: 눈길도안주기로 마음먹었습니다
+P0 	: 맞아요 누가 뜯어 말릴땐 이유가 있더라구요ㅋㅋㅋ

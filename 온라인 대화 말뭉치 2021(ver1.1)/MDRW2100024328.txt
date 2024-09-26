@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100024328
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 너 또 뭐샀길래 택배가 이렇게 많이 와
+P0 	: 택배 더 올거야
+P1 	: 뭐샀는데
+P0 	: 비오틴이랑 보드게임
+P1 	: 보드게임은 왜 샀어
+P0 	: 오늘이 네이버페이 멤버십데이라
+P0 	: 9프로 적립해준다그래서 싸게 샀어
+P0 	: 한번 하고 팔거야
+P1 	: 어디에 팔건데
+P0 	: 중고나라나 당근마켓에
+P1 	: 한번했는데 그게 팔려??
+P0 	: 새거보다 싸긴하니까 팔리지
+P1 	: 얼마에 파는데
+P0 	: 23000원 새거는 30000만원이야
+P1 	: 30000만원?!

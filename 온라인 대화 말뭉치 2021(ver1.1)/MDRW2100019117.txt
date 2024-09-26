@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100019117
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 카페 자주 가시나요?
+P1 	: 네! &name1&님도 자주 가시나요?
+P0 	: 네 저도 자주 가는 편이에요ㅎㅎ
+P0 	: 프렌차이즈랑 개인 카페중 어딜 자주 가시나요?
+P1 	: 전 요즘 개인 카페를 자주 가요 ㅎㅎ 그나마 사람이 적어서 ㅠㅠ
+P1 	: &name1&님은요?
+P0 	: 저도 요즘엔 개인카페요!!
+P0 	: 프렌차이즈는 기프티콘 생겼을때 빼곤 잘안가게되더라구요ㅠㅠ
+P1 	: 맞아요! 기프티콘 쓰러 가는 목적이에요 ㅎㅎ
+P1 	: 커피 좋아하시나요?
+P0 	: 저는 커피보단 에이드 종류 마시고 있어요!
+P0 	: 커피 좋아하세요?
+P1 	: 하루 한 잔은 마시는 거 같아요 ㅎㅎ
+P1 	: 무슨 에이드를 주로 드시나요?
+P0 	: 저는 자몽에이드 좋아해요!
+P0 	: 아메리카노 드시나요? 아니면 라떼??
+P1 	: 아메리카노를 마셔요 ㅎㅎ
+P1 	: 오늘은 따뜻한 아메리카노가 생각나는 날씨네요 ㅎㅎ
+P0 	: 그러게 추워져서 먹는것도 점점 바뀌고 있어요!
+P0 	: 배달 음식은 자주 드시나요?
+P1 	: 네 치킨 엄청 좋아해서요 ㅎㅎ &name1&님은요??
+P0 	: 저도 치킨, 피자 엄청 좋아해요ㅎㅎ

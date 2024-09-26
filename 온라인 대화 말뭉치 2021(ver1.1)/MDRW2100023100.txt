@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100023100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨 맛없는거 먹어서 슬퍼요 배고파서 야식먹을까 고민중이에요
+P0 	: 결국 야식 드셨나요?
+P1 	: 넵ㅋㅋㅋ 치킨이랑 맥주랑 먹었어요
+P0 	: ㅋㅋㅋ치킨맥주 짱맛
+P1 	: 오늘 점심엔 김밥만들어먹었는대 실패햇어요ㅋㅋㅋㅋ
+P0 	: 오ㅋㅋ실패한 김밥 계란물부침해서 먹음 맛있는뎅
+P1 	: ㅋㅋㅋ너무 짭고 매웟어요 땡초김밥인데
+P1 	: 계란물 부침 괜찮겟네요
+P0 	: 그쵸 가끔 먹으면 얼마나 맛있다구요
+P1 	: 저 김밥좋아하는데 사먹기더 많이사먹었는데 요새는 조심스럽네요
+P0 	: 아 요즘 김밥 이슈 있었죠...
+P1 	: 맞어요~ 무서워서 한동안 안먹으려구요
+P0 	: 좀 그렇긴 해요
+P1 	: 어제만든김밥 계란에 구워서 먹었어요^^ 훨씬맛마네요
+P0 	: ㅎㅎ계란에 부쳐먹는거 간식으로 먹기도 좋아요!!

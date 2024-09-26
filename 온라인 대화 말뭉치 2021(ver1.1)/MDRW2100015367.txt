@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100015367
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교있어요?
+P1 	: 무교입니다
+P0 	: 저도
+P1 	: 길거리에서 전도 받아보신 적 있으세요?
+P0 	: 학교앞에서요
+P1 	: 아 학교 안에 그런 사람 꽤 있었죠
+P0 	: 네 입구에
+P1 	: 교회다니라고 하길래 성당 다닌다고 거짓말 했더니 그건 다르다고 했던 사람이 생각나네요
+P0 	: 웃기네요
+P1 	: 예배나 미사 등에 한 번도 참석 해보신 적 없으신가요?
+P0 	: 네 궁금해요
+P1 	: 성당 결혼식 가봤었는데 미사 때는 앉았다 일어났다를 자주 하더라구요 ㅋㅋ
+P0 	: 군대네요

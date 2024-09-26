@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027567
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 요즘 읽고있는 책 있어?
+P1 	: 최근에 강의 교재말고 읽었던 책이 없어. ...사실 강의 교재도 안 읽었어..
+P1 	: 넌 책 많이 읽니?
+P0 	: 난 주로 판소위주로 읽는 듯
+P0 	: 웹소설
+P1 	: 판타지 소설? 그것도 책이야?
+P1 	: 아니 웹소설은ㅋㅋㅋㅋㅋㄱㄲ
+P0 	: 웹소설도 도서긴 하니까
+P1 	: 웹소설은 책 아니지ㅋㅋㅋㅋㄱㅋ
+P1 	: 유흥거리에 더 가깝지 않나
+P0 	: 추리소설도 책인데
+P0 	: 책넘버 찍히면 도서지
+P1 	: 아 나 추리소설 개좋아함
+P1 	: 맞네
+P1 	: 도서네.
+P0 	: 추리소설 인상깊게 읽은거있냐
+P1 	: 나 그나마 글씨 보일 때 마지막으로 읽었던 책이 셜록홈즈야
+P0 	: 오
+P1 	: 그게 마지막이 될줄은 몰랐어
+P0 	: 사실 셜록홈즈 초딩때 봐서
+P0 	: 잘 기억안남
+P1 	: 그거 시리즈인줄도 모르고 덜컥 6권부터 구매했는데
+P0 	: 아 진짜? 난 도서관에서 봤는데
+P1 	: 재밌어서 전권 사버림

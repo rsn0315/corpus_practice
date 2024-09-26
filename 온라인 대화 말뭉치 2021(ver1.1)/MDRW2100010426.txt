@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010426
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전시회도 좋아하세요?
+P0 	: 전시회는 사진 찍으러 종종 가요
+P1 	: 제가 사는 지역엔 포토존 있는 전시회가 별로 없어서 아쉬워요ㅜㅜ
+P0 	: 보통 어떤 전시회 가세요?
+P1 	: 취향은 없어서 여는 거 대부분 가요
+P0 	: 헉 지역에서 하는 전시회 대부분요?
+P1 	: 넹! 무료거나 관람비가 저렴해서 부담안되는 선에서 다녀와요ㅋㅋ
+P0 	: 저도 무료전시회 있는지 찾아봐야겠어요
+P1 	: 은근히 지역에서 주최하는 건 저렴해서 문화생활이 가능한 거같아요ㅣㅎㅎ
+P0 	: 뮤지컬도 좋아하세요?
+P1 	: 예전에 발레리나 나온 거 본적 있어요
+P0 	: 저는 캣츠만 봤는데 내한하면  또 보러가고 싶어요
+P1 	: 저도 캣츠 너무 보고싶었는데ㅠㅠ 뮤지컬 입문자에게 캣츠만한 게 없다구하더라고요
+P0 	: 맞아요 너무 유명한 뮤지컬이라... 나오면 꼭 보세용!

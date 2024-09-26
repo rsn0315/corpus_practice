@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033025
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 추석에 본가 가시나요?
+P1 	: 아니요
+P1 	: 아직 모르겠어요
+P1 	: &name1&님은 가시나요?
+P0 	: 네 저 기차표도 예매했어요!!
+P0 	: 저번에 광복절 휴일에 가려다가 확진자 많아져서 못갔었거든요
+P1 	: 맞아요 근데 추석에 또 확진자가 많아질 것 같아서 걱정이네요
+P0 	: 그러게 말이에요;;; 그래도 너무 오래 집을 못가봐서요
+P0 	: 일단 차츰 백신접종도 많이들 하니 긍정적인 기대를 가지면서 추석을 보내보려구요
+P1 	: 맞아요 이제 접종률이 많이 늘었으니까요
+P1 	: 그래도 다들 이동하는 시기이니 조심해야 할 것 같아요
+P0 	: 맞아요 그래서 최대한 위생에 신경쓰려구요
+P0 	: 마스크도 여러개 챙기고
+P1 	: 정부에서도 추석 방역으로 마스크를 강조할 것 같아요
+P0 	: 그쵸 기차도 한쪽으로만 좌석배정을 하는 것 같더라구요
+P0 	: 근데 또 인텐티브인가? 맞나요 이 용어가?
+P1 	: 그렇군요 그럼 넓게 갈 수 있는 이점?이 생기네요
+P0 	: 무튼 그게 어떻게 작용할지
+P1 	: 그 용어는 뭐죠??
+P0 	: 많아요 옆사람 없어서 편할 것 같긴해요
+P0 	: 백신 맞은 사람이 있으면 최대 8명까지 사적모임 허용한다고 들었거든요
+P1 	: 그렇군요 어떻게 추석에 작용할지 걱정반이네요

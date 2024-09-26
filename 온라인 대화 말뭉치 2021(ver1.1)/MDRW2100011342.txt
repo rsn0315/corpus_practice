@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠좋아하세요?
+P1 	: 보는것만요ㅎㅎ
+P1 	: 가구님은?
+P0 	: 저도 보는것 좋,아해요
+P1 	: 어떤스포츠요?
+P1 	: 전 올림픽 월드컵좋아하는데
+P0 	: 오 저도 둘다좋아해요
+P1 	: 올림픽 재밌죠ㅎ 어릴때부터 이건 거의 다챙겨봐요
+P0 	: 마자요 월드컵도
+P1 	: 야구나 축구 경기장도 가시나요
+P0 	: 네네 직관가봤어요
+P1 	: 재밌어요? 야구?
+P0 	: 맥주응원 재밌어요ㅎㅎ
+P1 	: 농구장은 어릴때 가봤는데
+P0 	: 농구장도 재밈죠?

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 인상깊게 읽은 책이 있나요?
+P0 	: 움베르토 에코 소설 읽어보신 적 있으신가요??
+P1 	: 헉 아니요 어떤 소설인가요?
+P0 	: 움베르토 에코 저 분이
+P0 	: 몇 년전에 돌아가신 분이신데
+P1 	: 네
+P0 	: 원래는 중세시대 역사 전문 교수님이셨어요
+P0 	: 장미의 이름이라고 중세 시대 수도원 배경으로 한 추리소설이 젤 유명해요!
+P1 	: 호곡 그시대 교수님이셨군요 그런데 소설을 쓰셨구나
+P0 	: 장미의 이름이랑 저는 바우돌리노라는 소설을 젤 재밌게 읽었어요!
+P0 	: 중세시대 배경 판타지가 가미된 역사소설이라 해야 하나...
+P0 	: 암튼 독특한 장르에요 ㅋㅋㅋ
+P1 	: 소설쪽은 정말 문외한이지만 그런 배경 이야길 들으니 흥미가 생기네요
+P0 	: &name2&님은 주로 어떤 책 읽으시나요??
+P1 	: 저는 문학보다는 비문학을 주로 읽었었어요!
+P1 	: 우주나 행성에 관한책 그런거...
+P0 	: 코스모스!

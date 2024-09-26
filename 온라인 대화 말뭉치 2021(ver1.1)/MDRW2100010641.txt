@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100010641
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 요즘 무슨 노래를 들으세요? 가수는누구?
+P1 	: 전 노래를 안 들어요ㅋㅋㅋㅋ
+P0 	: 그런 사람이 어딨어요. ㅋㅋ 클래식을 들으시나요?
+P1 	: 아 진짠데ㅋㅋㅋㅋ
+P1 	: 전 음악 틀고 작업하고 이런 것도 별로 안 좋아해서...
+P0 	: 그럼 전 김예림이란 가수를 추천할께요
+P1 	: 엇 처음 들어보는 분이네요
+P0 	: 옛날에 투개월로 방송에 나오던 사람인데 그 그룹의 여자가수에요
+P1 	: 투개월도 처음 들어보네요...
+P0 	: 지금 활동명은 림킴이에요
+P0 	: 아쉬는지?
+P1 	: 아~
+P1 	: 림킴 알아요
+P1 	: 노래도 들어본 적 있어요
+P0 	: 네 림킴이 김예은이에요
+P0 	: 림킴 노래 좋아요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 앞에는 김예림이라고 하셔섴ㅋㅋㅋㅋ
+P1 	: 이름이 먼가요 저는 림킴이란 예명? 만 알아요...
+P0 	: 이름이 김예은이에요!!
+P0 	: 아 김예림이에요 오타에요
+P0 	: 제가 중간부터 예은이라했네요...
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 예림이라서 림킴인 줄...
+P0 	: 그럼 &name2&은 어떤 콘텐츠를 보세요?

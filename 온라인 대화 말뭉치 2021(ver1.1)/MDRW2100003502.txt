@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 요새 건강을 위해 무엇을 주로 하는지?
+P1 	: 내 탈모에 대해서 논해보자 탈모를 어떻게 하면 방지할 수 있을까
+P0 	: 탈모?
+P0 	: 탈모 이미 늦었다 남자는 태어났을때가 제일 머리털이 많을때래
+P1 	: 탈모에 대해서 심각한데 지금 단답형으로 다는거가
+P0 	: 태어나면서부터 빠지기 시작하는거라고
+P1 	: 그건 당연한거아님?
+P0 	: 먼소리 난 지금 진지하다
+P1 	: 아니 빨리 약부터 구해오라고 약먹어야한다 난 약쟁이다
+P0 	: 근데 덜빠지게 관리를 할 순 있겠지 관리를 좀 해보거라
+P1 	: 크 탈모약에 취한다 크으
+P0 	: 나중에 대머리 소리 듣기싫다면 말이지
+P1 	: 회사에 한통 집에 한통 내 컴퓨터옆에 한통 그렇게 놔두라고
+P0 	: 일단 집에있는거라도 챙겨먹어라
+P1 	: 그래야 수시로 먹고 50대에 머리털 안빠지지
+P0 	: 알았다 좀만 기다려라 주문해줄테니
+P1 	: 알았따 집에있는거 먼저 털어주지
+P0 	: 돈을 준비해두도록

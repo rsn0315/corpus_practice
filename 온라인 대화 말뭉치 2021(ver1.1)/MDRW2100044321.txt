@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그냥모 넣고 싶은거 넣어봐요ㅋㅋㅋ
+P0 	: 우아 직접 만드시는구나!!
+P1 	: 양배추 쌈에 먹으면 맛나요
+P0 	: 와 맞아요 양배추쌈 ㅜㅜ 너무 좋아요
+P0 	: 진짜 다른 반찬 필요없을거같아요
+P1 	: 맛아요 전 밑반찬은 잘안먹고 하나만 파는 스탸일이라ㅋㅋ
+P0 	: 메인메뉴 하나있으면 충분하죠!!!
+P1 	: 네 맞아요 그래서 한가지만 해서먹어요ㅋㅋ
+P0 	: 낼 아침 머먹을지 고민이네용!!
+P1 	: 전아침은 토스트요
+P0 	: 오오 토스트 !! 안에 뭐 넣으실건가요?,
+P1 	: 계란이랑 양상추 토마토요
+	  마요네즈뿌려서요
+P1 	: 잇는거로 대충
+P0 	: 우아 맛있을거같아요!!!
+P0 	: 토스트랑 음료도 드실건가요?
+P1 	: 토스트엔 우유죠
+P0 	: 그쵸!! 이삭토스트 먹고싶네요 ㅠ

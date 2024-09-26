@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011274
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행지 추천해주세요 코로나 끝나고 여행다녀보고 싶어요
+P1 	: 저도 여행은 많이 안다녀봤어요 근데 끝나면 제주도 가고 싶어요
+P0 	: 저도 제주도 가보고 싶어요
+P1 	: 가보신 적 있나요?
+P0 	: 2번 가봤어요 한번은 수학여행 한번은 가족여행으로요
+P1 	: 아~저도요~!! 똑같네요~ㅎㅎㅎ
+P0 	: 기억에 남는 장소 있으세요?
+P0 	: 저는 쇠소깍이 좋았던 기억이 있어요
+P1 	: 거기는 안 가봤어요~! 어떤 점이 좋으셨어요?
+P0 	: 천을 따라서 뗏목을 타고 들어갔는데 물이 엄청 파랗고 이뻤어요
+P1 	: 아~ 진짜 이뻤을 것 같아요~!
+P0 	: 나중에 꼭 가보세요
+P1 	: 네~! 이름이 재미있어요~! 쇠소깍~! 꼭 가볼게요
+P0 	: ㅎㅎ 좋아요
+P1 	: 쇠소깍 풍경이 눈에 그려지는 것 같아요

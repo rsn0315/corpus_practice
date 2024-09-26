@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100006081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 여행다녀오신곳 있나요
+P1 	: 변산반도 다녀왔어요
+P0 	: 전라도죠? 어디 가셨나요
+P1 	: 네~ 전라북도 부안이요 ㅎ
+P0 	: 가서 뭐하셨나요?
+P1 	: 바다에서 놀았는데요 신랑은 사진찍는다는 핑계로 안들어가고 저만 물속에 애들과 들어갔어요
+P0 	: 오 이 날씨에 안추우셨나요
+P1 	: 그날 호우주의보였는데 날이 좋았오요 다행이죠??
+P0 	: 네 여행엔 날씨가 중요하죠
+P1 	: 저 오로라 보러 가야 하는데 캐나다가 좋을까요? 아이슬란드가 좋을까요?
+P0 	: 아이슬란드가 유명하지 않나요?
+P1 	: 맞아요 근데 캐나다 북부에서도 보인다고 하길래요

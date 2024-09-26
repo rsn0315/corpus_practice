@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033427
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다회용 컵 사용하시나요
+P0 	: 잘안되더라구요
+P0 	: 장바구니는 쓰는데 다회용컵은
+P1 	: 카페를 안다니셔서 그럴까요?
+P0 	: 다니긴하는데 일회용컵이 좋네요
+P1 	: 어떤 면에서요?편리함?
+P0 	: 뜨겁게먹는게좋아요
+P1 	: 아 그럼 텀블러 사용은요?
+P0 	: 일할때만 쓰네요
+P0 	: 카페가서는 잘안쓰고
+P1 	: 그러시군요 카페마다 텀블러 할인도 있던데요
+P0 	: 카페갈땐 잊고가기도하고. ㅜㅜ
+P1 	: 와이프는 스벅 갈때 혜택때문인지 잘 챙겨가더라구요~
+P0 	: 환경도생각하고 절약하고좋네요

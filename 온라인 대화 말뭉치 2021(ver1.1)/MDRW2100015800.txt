@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 잠 안 오면 책을 좀 읽어봐
+P0 	: 요즘에 읽을 책이 뭐 있지...
+P1 	: 집에 시집 많잖아
+P0 	: 아 시집? 사놓고 아직 못 읽은 게 있긴 한데
+P0 	: 첫 장을 펼치기가 쉽지 않네
+P1 	: 신권 나오면 바로 사면서 다 읽지도 않으면 어따 써.
+P0 	: ㅋㅋㅋㅋ원래 책은 소장용 아니겠어요?
+P0 	: 요즘은 이북 많이 보니까 종이책을 더 안 보게 되네
+P1 	: 일단 책장에서 아무책이나 꺼내서 읽어 봐
+P0 	: 알겠어 기다려봐
+P0 	: 황혜경 시인의 <나는 적극적으로 과거가 된다> 꺼냈어
+P1 	: 어. 그 책 본 적 있는 것 같다.
+P1 	: 신간은 아닌 것 같은데?
+P0 	: 응ㅋㅋㅋㅋ 2018년에 출판된 거야
+P0 	: 나도 처음 보는 건 아니고 사자마자 읽었어
+P1 	: 그래. 소설은 다 보려면 오래 걸리니까 시 읽다가 졸리면 자.
+P1 	: 그 시집에 독특한 시가 많아서 기억이 나는 것 같애.
+P0 	: 어 맞아 모양이 좀 독특한 시가 많네
+P1 	: 엄마도 요즘 신작은 영 못 보고 있어. 시간이 없어서.
+P0 	: 나도ㅠ 베스트셀러라도 좀 챙겨보려고 하는데 쉽지가 않네...
+P0 	: 생각난 김에 교보문고 사이트에서 신작 뭐 나왔나 보고 있어

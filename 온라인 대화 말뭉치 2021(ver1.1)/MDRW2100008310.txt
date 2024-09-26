@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008310
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 좋아하세요?
+P1 	: 시간 날 때 종종 보는 편이에요
+P1 	: 최근에 읽은 책이 있나요?
+P0 	: 아침이 온다 라는 책
+P0 	: 오늘 다읽었네요
+P1 	: 아침이 온다는 어떤 내용인가요?
+P0 	: 츠지무라 미즈키 작가님거예요 혹시 아시나요?
+P0 	: 음.. 가족에 관한 이야기였어요
+P1 	: 가족이라..
+P1 	: 시간이 날 때 한번 읽어봐야겠어요
+P0 	: 근데 후반부로갈수록
+P1 	: 어땠나요
+P0 	: 일본 여성 인권 문제가 자꾸 머릿속을 맴돌더라고요 ㅠㅠ
+P1 	: 음 기억에 남는 장면 있었나요?
+P0 	: 스포일러가 될 수도 있어서 좀 삼가는데 암울해지는 구간이 있었어요
+P0 	: 좋았던건
+P0 	: 주인공 가정의 아이가 한명있는데
+P1 	: 아이가 있었군요
+P0 	: 그 아이의 존재사 너무 따뜻해서 좋았어요
+P0 	: 딱 아침이 온다. 라는 제목에 걸맞는 느낌
+P1 	: 듣기만 해도 궁금해지네요 시간 날 때 한 번 봐봐야겠어요
+P1 	: 저는 책이 좋았던건 여러번 읽는 편인데
+P1 	: 최근에 모모 다시 읽었어요

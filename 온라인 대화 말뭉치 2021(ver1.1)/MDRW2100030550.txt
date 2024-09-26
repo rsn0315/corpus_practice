@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100030550
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근에 물건 산 적 있으세요?
+P0 	: 중고거래나
+P1 	: 운동화샀어요!
+P1 	: 인터넷으로요
+P0 	: 오, 브랜드 제품이요?
+P0 	: 나이키 같은거?
+P1 	: 아니요!!! 브랜드없는거요
+P1 	: 만원대샀어요ㅋㅋ
+P0 	: 오, 저렴하게 잘 사셨다
+P0 	: 저는 컴퓨터랑 반팔티 샀어요
+P1 	: 아마 금방닳겠지만
+P1 	: 오 반팔티!!
+P1 	: 컴터도 지르셨네요
+P1 	: 큰맘먹고 구매하셨겠어요
+P0 	: 반팔티는 탑텐껀데 만원도 안되는 저렴이들이고
+P0 	: 컴퓨터는 듀얼모니터로 장만했습니다
+P0 	: 엣헴
+P1 	: 우와ㅋㅋㅋㅋ
+P1 	: 듀얼모니터 멋있어요
+P0 	: 컴퓨터로 일을 많이 해서 노트북으로는 피곤하더라구요
+P1 	: 오오
+P1 	: 혹시 개발자신가요
+P0 	: 아, 그건 아니고 출판이랑 언어 관련된 프리랜서라
+P0 	: 문서작업이 많아요, 타이핑ㅎㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017375
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물있으세요?
+P1 	: 아니요 ㅠㅠ있으세요?
+P0 	: 전 토야랑 살아요
+P1 	: 강아지인가요??
+P0 	: 토끼입니다
+P1 	: 이름이 넘 귀여워요
+P0 	: 이름은 따로있고 토끼집사들은 토끼를 토야라고 불러요
+P1 	: 아그래요? 신기하네요
+P0 	: 같이하고픈 반려동물은 없으세요?
+P1 	: 저는 고양이를 좋아해서 키워보고는 싶은데 자신이 없어서 보기만 해요 ㅋㅋㅋ
+P0 	: 어릴땐 고양이 무서웠는데 요즘은 너무 이뻐요
+P0 	: 근데 고양이 똥 냄새가 엄청나대요
+P1 	: 아그래요? 고양이똥하면 전 커피만 생각나요 ㅋㅋㅋ
+P0 	: 루왁이요?
+P1 	: 오 맞는거같아요

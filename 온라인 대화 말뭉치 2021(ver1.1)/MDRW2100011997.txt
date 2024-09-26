@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011997
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 여행 다녀오셨나요?
+P0 	: 요즘은 코로나라 가지못하네요ㅠ
+P1 	: 맞아요ㅠ 진짜 마지막으로 놀러간적이 언젠지 모르겠어요
+P1 	: 해외여행도 가고싶고 그렇네요ㅠ
+P0 	: 해외 너무나가고싶어요ㅠ
+P1 	: 그쵸! 어디가고싶으세요?
+P0 	: 저는 미국이요!
+P1 	: 와 미국ㅠㅠ완전 가고싶어요
+P1 	: 미국에서 어디가고싶으세용?
+P0 	: 뉴욕 가고싶어요!
+P1 	: 와 뉴욕ㅠㅠ
+P1 	: 뉴욕에서 핫도그도 먹고 스테이크도 먹고 센트럴파크도 가고 그러고싶어요~~
+P0 	: 와 타임스퀘어도 가보고싶어요
+P1 	: 헉 맞네요 타임스퀘어도ㅠㅠ
+P1 	: ㅋㅋㄱㅋ일단 해외에 가고싶어요ㅎㅎ
+P0 	: 마자요 언제쯤갈수있을지~

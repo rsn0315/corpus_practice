@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 가끔씩 얘기해요
+P1 	: 강아지 고양이 보면 키우고싶다고
+P0 	: 아후... 강아지 노노
+P1 	: 귀여운 강아지 귀여운 고양이
+P0 	: 댔다마 관리도 안됨
+P1 	: 1층집에는 앵무새 키워요
+P0 	: 아 진짜? 몇마리
+P1 	: 2마리요. 시끄러움여
+P0 	: 헉 2마리나..냄새 안나나
+P1 	: 강이지 냄새에 묻힐지도
+P0 	: 강아지도 키워?
+P1 	: 네 강아지 이름은 &name3&어요
+P0 	: &name3&라...
+P0 	: 앵무새도 이름잇나
+P1 	: 음.. 그건 모르겠는데
+P1 	: 있을거같아요
+P0 	: 있긴하것지

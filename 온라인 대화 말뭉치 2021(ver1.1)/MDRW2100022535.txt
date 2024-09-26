@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100022535
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 자주 읽으시나요?
+P1 	: 책 좋아하는데 요즘은 잘 못 읽고 있어요
+P1 	: 책 자주 읽으시나요?
+P0 	: 아뇨 저는 원래부터 잘 안읽었어요
+P0 	: 잘 읽었을때는 주로 어떤 책 읽으셨나요?
+P1 	: 소설도 좋아했고, 작가가 그 소설 쓸 때 참고했다는 책 따라 읽는 거 좋아했어요 ㅎㅎ
+P1 	: 그럼 잡지 얘기 할까요?
+P0 	: 참고서적도 읽으셨나요?
+P0 	: 정말 책을 좋아하시네요
+P0 	: 제가 잡지도 안봐서요 ㅋㅋ 그래도 읽었던 책들이 있으니 책얘기해요
+P0 	: 재밌게 읽었던 소설 추천해줄 수 있나요?
+P1 	: 구병모 작가님 책들 추천해드려요!
+P1 	: 두께도 적당하고, 읽고 있으면 영화 한 편 보는 거 같아요ㅎㅎ
+P0 	: 처음 들어본 작가님이네요
+P0 	: 양이 부담스럽지않아 좋네요!
+P1 	: 읽기도 편하실 거에요 ㅎㅎ
+P1 	: 제일 유명한 건 아가미 라는 소설인데, 저는 개인적으로 파과 를 더 추천드려요!
+P0 	: 파과 읽어보고 싶네요
+P0 	: 제목이 독특한 느낌이에요
+P1 	: 소재도 독특해요 ㅎㅎ
+	  할머니가 주인공인데 현역 킬러 거든요 ㅋㅋㅋ
+P0 	: 네?? 신기해요 ㅋㅋㅋ
+P0 	: 노인이 주인공이라니 생소하네요
+P1 	: 그쵸 ㅋㅋㅋ 근데 심지어 현역이에요 ㅋㅋㅋ
+P0 	: 뭔가 일반적인 방식으로 처리하진 않을 것 같아요 ㅋㅋㅋ

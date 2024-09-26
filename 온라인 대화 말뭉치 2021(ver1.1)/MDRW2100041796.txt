@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100041796
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: &name3&가 &name4&이랑 약속했다면서  &address&에서 내려 버렸어
+P1 	: 그래서 &name5&은 다른 친구랑 신협 앞에서 앉아서 게임을 하고 있었거든
+P0 	: &name5&이 맘 상했겠네..
+P1 	: 근데 &name5&이 &name3&한테 전화를 한 거야 뭐 하냐고
+P1 	: 그랬더니 &name3&가 &name4&이랑 약속 취소돼서 집에 있다고
+P1 	: 그래서 &name5&이 그럼 여기로 놀러 와라
+P0 	: 헐
+P1 	: 하니까 &name3&가
+P1 	: 그럼 자전거 탈 수 있냐
+P0 	: 뭐지
+P1 	: 하니까 우리 &name5&이 어 그래 자전거 탈게 했는데
+P1 	: 내가 자전거 위험하다고 &name5& 보고 타지마라고 했거든
+P1 	: 근데 &name3&는 이미 자전거를 타고 왔어
+P1 	: 근데 &name5&은 &name3&가 자전거를 타자고 하니까
+P1 	: 아니 나 자전거 안타 게임이나 하자
+P0 	: 아이고
+P1 	: 이런 거야
+P1 	: 그러니까 &name3&입장에서는 짜증나지
+P1 	: 그래서 또 &name3&가 울면서 자기 엄마한테 전화를 한 거야
+P0 	: 어긋났네
+P1 	: &name5&이 자전거 타자고 오라 해놓고 안 탄다고
+P0 	: 이연타가 됐군데 어쩌다가
+P1 	: 근데 &name5&은 또 옆에 같이 태권도 다니는 친구랑 게임을 하고 있었거든
+P0 	: 흠

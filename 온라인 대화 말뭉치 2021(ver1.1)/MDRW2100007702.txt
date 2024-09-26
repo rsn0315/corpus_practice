@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007702
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요? 
+	  아침 저녁으로 제법 쌀쌀한 날씨죠
+P1 	: 네 이제 가을이 오나봐요 운동하세요?
+P0 	: 가끔 산책하고
+	  집에서 플랭크나 좀 하고 있어요
+P0 	: 혹시 꾸준히 하시는 운동이라도 있으신가요
+P1 	: 저도 가끔 산책 하거나 가끔 가족이랑 배드민턴 쳐요! 
+	  요즘에는  학교가기 바빠서 시간이 없어서 운동 못하고 있네요ㅜㅠ
+P0 	: 학생이시구나
+	  한참 외모에 관심이 많으시겠네요
+P1 	: 네  근데 요즘에는 마스크 써서 그냥 안 꾸미고 편하게 다녀요ㅎㅎ
+P0 	: 그래서 아이메이크업에 
+	  더 신경쓴다던데요^^
+P1 	: 맞아요!
+P0 	: 가족과 배드민턴을 친다니
+	  화목해 보이네요
+	  주로 누구와 치세요?
+P1 	: 아빠랑 동생이랑 쳤어요!
+P0 	: 누가 제일 잘 쳐요?
+P1 	: 아빠요 그리고  저랑 동생이 실력이 비슷할껄요 아마 ㅋㅋㅋ
+P0 	: 그럼 아빠랑 치면 실력이 늘고
+	  동생이랑 치면 재미있겠네요
+P1 	: 맞아요 배드민턴 처음에 아빠한테 배웠어요ㅎㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100030223
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연좋아하세요??
+P0 	: 공연은 몇번 안 다녀 봤는데  최근에 전시회 다녀온 적이 있어요!
+P1 	: 아 전시 어떤 주제요?
+P0 	: 작년인가? 리히텐슈타인 왕가의 보물전인가? 저기 다녀왔었어요!
+P0 	: 저기->거기
+P1 	: 와!! 진짜 흥미롭긴하네요!
+P1 	: 정보는 어떻게 찾으세요?
+P0 	: 트위터에서 리트윗된 글 보고 가야지 라는 생각이 들었죠
+P0 	: 확실히 SNS가 정보가 빠르긴 하더라구요
+P1 	: 진짜 트윗이 빠르네요!!!!
+P1 	: 저도 찾아봐야겠어요
+P1 	: 전 공연좋아해요
+P0 	: 공연 보러가시신적  있으신가요??
+P1 	: 코로나전엔 많이 갔어요ㅋㅋ
+P1 	: 콘서트나 뮤지컬
+P0 	: 우와
+P0 	: 저도 콘서트 가보고 싶었는데 콘서트 재밌나요?
+P1 	: 콘서트 아는 가수 아는 노래면 진짜 재밌어요!!
+P0 	: 저도 유튜브에서 좋아하는 해외 가수 콘서트 영상 본적이 있는데 중말 쟀어 보이더라구요!!
+P0 	: 어떤 가수 콘서트 다녀오셨나요?
+P1 	: 발라드가수들 콘서트들ㅋㅋ 야외콘서트 이렇게ㅋㅋ
+P1 	: 특정짓기엔ㅋㅋ

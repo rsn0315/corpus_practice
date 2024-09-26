@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100025910
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네!
+P1 	: 평소에 책 많이 읽으시나요?
+P0 	: 가끔 읽어요 아아아주 가끔이요
+P1 	: 저는 책 안 읽은지 넘 오래되었네요ㅜㅜ
+P0 	: 많이 바쁘셨나보군요
+P1 	: 그런건 아닌데, 언제부터인가 책과 멀어지더라구요
+P0 	: 이젠 책이 아날로그라...ㅋㅋ
+P1 	: 맞아요1
+P0 	: 화면만 보다가 책보면 어색하고 그래요
+P1 	: 요즘은 전자책을 많이 이용 하시더라구요!
+P1 	: 전자책 사용해보셨나요?
+P0 	: 전자책은 안써봤구 웹소설은 읽어봤어요
+P1 	: 그러셨군용 
+	  저는 웹소설은 읽어본적 없고,
+	  전자책은 나중에 써보고 싶어요ㅎㅎ
+P0 	: 저도요ㅎㅎ
+P1 	: 평소에 책 읽으시면 어떤 장르의 책 읽으시나요?
+P0 	: 추리소설이나 판타지 읽어요
+P1 	: 오 그러시군요!

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033394
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>국세청 근로장려금 신청 접수
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 국세청 근로장려금이라고 들어봤니??
+P0 	: 아니 처음 듣는데??
+P1 	: 일은 하는데 소득이 많지 않은 가정이 받는듯??
+P0 	: 우리집은 해당없니??
+P1 	: 어 연간 2000만원 미만인가?? 되게 적게 받아야...
+P0 	: 아......
+P0 	: 아.....
+P1 	: 맨날 돈없다 해싸서 글치 우리집은 먹고 살만은 하지..
+P0 	: 아니 근데 2000만원 미만 받는 사람들이 많은가??? 좀 태만하게 버는 거 아니냐? 사지 멀쩡하면 저거보단 많이 벌지 않나?
+P1 	: 음... 반정도는 그런거 같기고 하고.. 반정도는 아닌거 같기도 하고
+P0 	: 왜 반이야??
+P1 	: 정말 어려운 사람 돕자는 취지로 하는거고.. 그게 도움이 되는 집들도 있으니까??
+P0 	: 나머지는 뭔데??
+P1 	: 부정수급자도 무시 못할껄???? 기초수급도 부정수급자 넘쳐나는데.. 저거 못할까..
+P0 	: 세금이 줄줄 세는구만..?

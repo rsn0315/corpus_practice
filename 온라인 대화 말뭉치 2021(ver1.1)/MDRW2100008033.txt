@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아해요?
+P0 	: 스포츠 좋아하시나요
+P1 	: 저 주로 축구 배구 자주 봐요
+P0 	: 오 국제대회아니여도 챙겨보시나여
+P1 	: 네 막 엄청 깊게 보는 편은 아니고 체널 돌리다 경기하면 종종 보는? 그정도에요
+P0 	: 직관 경험은요?
+P1 	: 축구는 어릴 때 상암경기장 많이 갔고 배구는 딱 한 번 직관했어요
+P0 	: 우와 .. 전 아직경험없어서 가보고싶어요
+P1 	: 주로 어느 종목 좋아하세요?
+P0 	: 배구는 이번 올림픽때문에 관심생겼구요
+P0 	: 축구 야구 좋아해용 국제경기만 보긴하지만 ㅠ
+P1 	: 혹시 응원하는 팀이 어디에요?
+P0 	: 그냥 .. 한국이요 .. ㅋㅋㅋㅋㅋㅋ
+P1 	: 아ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ전문적이지 못해여..

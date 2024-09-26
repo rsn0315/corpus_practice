@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009532
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 결혼 하셨나요?
+P0 	: 아니요 미혼이에요
+P0 	: 결혼하신분들 대단하신것 같아요
+P1 	: 저도 이럴줄 몰랐으니 결혼했네요. 만나는 분은 있으세요?
+P0 	: 아니요ㅜ 음 요즘 코로나라서?
+P1 	: ㅋㅋㅋ  아무래도 요즘은 모르는 사람 만나기 좀 그렇죠 ? ㅋㅋ
+P0 	: 근데 적극적으로 나서야 뭐가 생겨도 생길건데요
+P1 	: 그러게요. 이상형은 어찌 되시나요?
+P0 	: 음 특별한건 없네요 대화가 잘통하는 사람 ? ㅎ
+P1 	: 그게 제일 어려워요. 연애할땐 대화가 통하거든요? 결혼하면 갑자기 안통합니다 ㅋ
+P0 	: 저런 ㅋㅋㅋ
+P0 	: 분명 그사람과 결혼했는데 ㅋㅋ
+P0 	: 경제 관념도 비슷해야할것같아요
+P1 	: 근데 연애할땐 경제 관념을 잘 모르겠더라고요
+P0 	: 요샌 각자 돈관리? 한다고 들었어요 ㅋㅋ

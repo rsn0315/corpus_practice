@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 동네 날씨는 어떤가요?
+P1 	: 저희 동네는 아까까지만 해도 빗소리가 투둑투둑 났는데
+P1 	: 지금은 안나네요!
+P0 	: 여기는 지금도 비가 많이 오고 있어요
+P1 	: 벌써 가을인가봐요... 비오니까 기온이 더 떨어지는 것 같네요!
+P0 	: 맞아요 가을이 오는건 좋지만 비가 많이 오는건 좋지 않네요
+P1 	: 그러니까요. 백신맞고 일주일간 운동 쉬었다가 오늘 나가려고하니까 비오더라구요ㅜㅠ
+P0 	: 백신 맞으셨군요
+	  평소에 운동 자주 하세요,
+P1 	: 아뇨, 운동 평소에 잘 안했었는데 두 달 전부터 시작했어요!
+P0 	: 어떤 운동 하세요?
+P1 	: 코로나 핑계로 운동 안하다가 런데이라는 달리기 프로그램하면서 이번에 새롭게 운동 꾸준히 하고 있어요!
+P0 	: 달리기 하려면 날씨가 좋아야겠네요
+P1 	: 네네, &name1&님은 혹시 꾸준히 하시는 운동있으세요?
+P1 	: 저처럼 날씨 영향 받는 운동인지 궁금해요!!
+P0 	: 저는 산책삼아 걷거나 스트레칭하는 정도인데, 요즘은 날씨가 안 좋아 걸을수가 없네요
+P1 	: 그쵸.... 산책은 주로 햇빛 쨍쨍한 낮에 하시나요, 아님 완전 아침이나 저녁때 하시나요?
+P0 	: 늦은 오후나 저녁때 주로 해요

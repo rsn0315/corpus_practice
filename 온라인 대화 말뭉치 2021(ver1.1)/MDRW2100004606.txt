@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100004606
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 인터넷 쇼핑 많이 하나요?
+P1 	: 인터넷으로 이것저것 사는 편이죠
+P1 	: 중고거래 특히 많이해요
+P0 	: 당근마켓인가요?
+P1 	: 네 맞아요
+P1 	: 접근성이 좋아서
+P1 	: 파는건 해본적 없고 맨날 뭘 사네요
+P0 	: 득템 하신 거 있나요?
+P1 	: 이번에 영어교재 샀는대
+P1 	: 2천원에 득템해서 기분이 좋내요
+P1 	: 인형 무나하시는 것도 쓸어오고
+P0 	: 와 2천원
+P0 	: 당근마켓은 파는것만 생각했는데
+P0 	: 사는것도 괜찮네요
+P1 	: 그쵸
+P1 	: 한번씩은 꼭 검색해보고사요
+P0 	: 물건 새로 사는 것보다
+P0 	: 중고품 사는게 환경에도 좋고 돈도 아껴서 좋네요
+P0 	: 음식같은 건 주로 어떻게 사시나요?
+P1 	: 음식은 티몬에서 닭가슴살 많이 주문해먹네료
+P1 	: 야채는 그냥 일반 마트가고요
+P0 	: 저는 재래시장 자주 가고 생필품은 이마트 자주 이용해요
+P0 	: 배달은 자주 시키나요?
+P1 	: 배달 자주시키는 편인거같네요
+P1 	: 할인쿠폰 먹여서 사면 이쪽이 더 싼것같아서
+P1 	: 네이버 자주 이용해요
+P0 	: 네이버는 포인트 모아서 결제할 수 있어 좋죠
+P0 	: 멤버십도 쇼핑 자주하면 좋을 것 같고요

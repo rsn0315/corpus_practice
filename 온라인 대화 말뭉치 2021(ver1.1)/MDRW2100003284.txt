@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003284
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 애완동물 키우시나요?
+P1 	: 물에사는 열대어요
+P0 	: 열대어 키우기 쉽지 않을 것 같은데 어때요?
+P1 	: 열심히 물갈이하면 괜찮아요
+P0 	: 아 물가는것도 매번 더러워지고 신경쓰이드라구요
+	  저는 물고기는 예전에 베타 키워봤어요
+P1 	: 어 전 플래티
+P0 	: 플래티 구피랑도 많이 키우죠^^
+P1 	: 번식을 너무해요
+P0 	: 맞아요 플래티는 잘모르지만 구피는 번식력 엄청 나더라구요
+P1 	: 플래티도 잘해서 곤란해요
+P0 	: 그러면 따로 분양을 보내시나요?
+P1 	: 내 그냥 무료분양 하기도해요
+P0 	: 그쵸 너무 과밀집화 되있으면 애들도 힘들어 하더라구요
+P1 	: 물도 더러워지고요

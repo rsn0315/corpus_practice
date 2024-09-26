@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100037950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영화 좋아하세요?
+P0 	: 거의 안봐요ㅠㅠ 링링은요?
+P0 	: &name2&님은요?
+P1 	: 저도요ㅋㅋㅋㅋㅋ
+P1 	: 전 그냥 티비 보면서 배달음식 시켜 먹는 거ㅋㅋㅋㅋ
+P0 	: 그럼 전시회나 콘서트 가보신 적 있으신가요?
+P1 	: 저  예전에 리쌍 콘서트 가봤어요
+P1 	: 윤도현이랑
+P1 	: 신은 나는데 어떻게 풀 줄을 모르겠더라구요ㅋㅋㅋ
+P0 	: 우와 재밌었을 것 같아요
+	  티켓팅해서 가신건가요?
+P1 	: 그때 아는 분이 티켓을 줬어요
+P1 	: 그때 저한테는 너무 큰 돈이었거든요ㅋㅋ
+P0 	: 콘서트 관계자분이셨나요?
+P1 	: 아뇨 그분도 뭐 어떻게 받았다고 들었어요
+P1 	: 근데 그런 거에 관심 없어서  주셨어요
+P1 	: 좋아하는 공연 있으세요?
+P0 	: 저는 아이유요
+P1 	: 아이유 너무 예쁘고 노래도 너무 잘하죠~
+P0 	: 저는 4번?정도 같은데 아는 노래가 많아서 좋았어요
+P1 	: 저도 아이유는 한번 가보고 싶네요
+P1 	: 리쌍 과 아이유
+P1 	: 갭이 너무 크네요ㅋㅋㅋㅋㅋ
+P0 	: 그러게요ㅋㅋㅋㅋㅋ

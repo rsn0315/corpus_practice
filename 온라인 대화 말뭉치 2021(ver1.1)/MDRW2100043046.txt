@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100043046
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 뭐 사신거있나요
+P0 	: 저는 니트랑 가방 구매했어요
+P0 	: 최근에 뭐 구매하신거 있으세요?
+P1 	: 저는 오늘 비빔밥용 해초 10봉지욬ㅋㅋㅋㅋ 진짜맛있어요
+P0 	: ㅋㅋㅋㅋㅋㅋ비빔밥용 해초요?
+P0 	: 그거 물에 불려 먹는건가요?ㅋㅋ??
+P1 	: 어맞아뇨 ㅋㅋㅋ 진짜맛이ㅛ어요
+P0 	: ㅋㅋㅋㅋㅋ오독오독 씹히나요?? 맛 궁금하네욬ㅋㅋㅋ
+P1 	: 어 정답입니다 ㅋㅋㅋ 소스도등어있는디 소스도 맛있어요
+P1 	: 기장물산 비빔밥용 해초입니다
+P0 	: ㅋㅋㅋㅋ감사해요 맛나겠다 ㅋㅋㅋ
+P0 	: 또 추천하시는거 있나요??
+P1 	: 어..고메치즈돈까스..?
+P0 	: 허얼 저 그거 알아요
+P0 	: 치즈볼 도 맛있어요
+P1 	: 헐 그래요?? 치킨집같아요?
+P0 	: 음 그 정도 까지는 아니지만 새벽에 돌려먹기 좋은..? 쫀득함이예요 ㅎㅎ
+P1 	: 옼ㅋㅋㅋ 꼭먹어볼게요 다음에 시켜야지

@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100039831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비타민 드세요?
+P1 	: 자주는아니고 종종 먹어요
+P1 	: 비타민 디 랑 레모나요
+P0 	: 오 혹시 운동도 하시나요?
+P1 	: 운동은 자전거랑 걷기하는데
+	  컨디션때문에 3주정도 쉬었어요
+P1 	: &name1&님은 건강관리 어떻게 하세요?
+P0 	: 저는 어제부터 헬스다녀요
+P0 	: 힘들어요ㅜㅜ
+P1 	: 요즘 헬스장 운영시간 짧죠? 
+	  저는 운동 싫어해서  gx프로그램 많은데로 다녔어요
+P0 	: 아 어떤 프로그램 하셨어요?
+P1 	: 스피닝    요가   그룹웨이팅  필라테스요
+	  
+	  
+	  전 스피닝이 제일재밌엏어요
+P1 	: 효과는  필라테스가 제일 좋았구요
+P0 	: 필라테스 어때요? 힘드셨어요?
+P1 	: 네..안쓰는 근육을 쓰니까  웨이트보다 더 어려웠어요.
+	  
+	  근데 기구필라테스가 더 쉬워요
+P0 	: 기구가 더 힘들다던거 같은데 더 쉽나요??
+P1 	: 기구가 보조도구역할을 해줘서  자세잡기는 더 쉬워요.
+	  
+	  어느정도ㅈ숙련되면 고난도 동작이 많긴 하대요
+P0 	: 오 그래요?? 가격은 어떻게 되나요??
+P1 	: 보통 달에 15정도하는것같아요
+P0 	: 일주일에 몇번 하시는데요? 그정도 가격이면 괜찮아보이네여
+P1 	: 주 2회짜리였던것 같아요.  필라테스관심있으세요?
+P0 	: 네 관심은 항상 있지만 못했어요ㅠㅠ

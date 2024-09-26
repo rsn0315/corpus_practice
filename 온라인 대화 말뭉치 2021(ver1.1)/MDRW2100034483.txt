@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100034483
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 방금 파스타를 먹었어요ㅎㅎ
+P1 	: 빵 잘 만들고 계신가요
+P0 	: 아 빵 만들고 집에 왔어요ㅎㅎ
+P0 	: 파운드 케이크 베이킹 성공적으로 잘 끝냈습니다ㅋㅋ
+P0 	: 파스타 맛있게 드셨어요?
+P1 	: 오 금방 만드시네요!
+P1 	: 파스타 맛있어요 로컬맛집!!
+P0 	: 오 그렇군요
+P0 	: 베이킹은 10시부터 해서
+P1 	: 기본인가요? 아님 뭔가 더 재료가 들어갔나요
+P0 	: 레몬이랑 초코파운드 케이크요
+P1 	: 오 진짜 맛있겠다! 드시나요
+P0 	: 이따 저녁 쯤 가족들이랑 먹으려고요
+P0 	: 무슨 파스타 드셨어요?ㅎㅎ
+P1 	: 저는 오이스터 파스타랑 새우 로제 파스타 먹었어요
+P0 	: 해물류를 좋아하시나봐요
+P0 	: 맛있으셨겠네요
+P1 	: 그러게요ㅋㅋㅋ 하다보니 해물류
+P0 	: 로컬맛집이었다니
+P0 	: 더 맛있었겠어요
+P1 	: 네네 시내에 있는 맛집인데 저희동네에 분점을 냈더라구요ㅋㅋ
+P0 	: 오오 그랬군요
+P0 	: 주말에 맛있는 음식 드셔서 기분 좋으시겠어요

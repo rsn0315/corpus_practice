@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100029357
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 짜장면vs 짬뽕 어떤게 더 좋으세여?
+P1 	: 저는 짜장면이요ㅎㅎ
+P1 	: &name1&은요?
+P0 	: 저도 짜장면 ㅋㅋㅋ저 오늘 점심 짜장면 먹을거에요!! ㅋㅋㅋㅋ
+P1 	: 우와 부러워요ㅎㅎ
+P0 	: &name2&은 점심 뭐먹?!
+P1 	: 저는 딱히 계획이 없는데 아마 저녁을 겸해서 먹을거같아요
+P0 	: 혹시 다이어트 하세요?
+P1 	: 아뇨ㅎㅎ
+P1 	: 활동이 많지않아서 그래요ㅎ
+P1 	: 좀 빼야하는것도 인정합니다
+P0 	: 아 적게 움직이고 적게 먹자 이건가요? ㅋㅋㅋㅋㅋ
+P1 	: 정답!! 식비도 줄고 좋죠ㅎㅎ
+P0 	: 맞아요!! ㅋㅋㅋㅋ소식할수록 건강하대요!!
+P1 	: &name1&은 누구와 함께 드실건가요?
+P0 	: 저 오늘 이사하거든요!! 그래서 먹는거라 가족들과 함께 먹습니다 ㅋㅋㅋㅋㅋ
+P1 	: 그럼 바쁘신거아녜요?? 포장이사하세요??
+P0 	: 네네 포장이사중이라 ㅋㅋㅋ저는 별로 할게 없네요
+P0 	: 7시에 일어났는데 아침을 못먹어서 지금 엄청배고파요
+P1 	: 배고프겠다ㅠㅜ
+P1 	: 자취이사하시는건 아니죠?
+P0 	: 네네 가족들이랑 살아요!
+P0 	: 엄마밥이 최고에요
+P1 	: 아무렴 옳습니다ㅎㅎ

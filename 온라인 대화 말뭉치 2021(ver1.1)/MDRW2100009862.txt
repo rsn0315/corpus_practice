@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100009862
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우시나요
+P0 	: 고양이 키워요
+P0 	: 고양이 좋아하시나요
+P1 	: 전 좋아하지만
+P1 	: 능력이 부족해서ㅠ
+P0 	: 아앗..
+P0 	: 기르시는 반려동물이 없으시구나
+P1 	: 예전에 개 키웠었는데
+P1 	: 너무 외로워하더라고요
+P0 	: 어떤 종류의 개를 키웠나요
+P1 	: 믹스견이었어요
+P0 	: 귀여웠겠다
+P1 	: 고양이 품종은 어떻게 되세요?
+P0 	: 길고양이요
+P0 	: 주워왔어요
+P1 	: 와 간택받으셨군요ㅎㅎ
+P1 	: 후회는 없으세요?
+P0 	: 어.. 간택은아니고.. 죽을것같아서 주워왔는데 후회는 없어요
+P0 	: 강아지 이름은 뭐였나요
+P1 	: &name3&이요
+P1 	: 와 좋은 일 하셨네요
+P1 	: 고양이 이름은 뭐였어요?
+P0 	: &name3&이 너무 귀여운 이름이네요
+P1 	: ㅋㅋ 너무 구식이죠ㅋㅋ
+P1 	: 고양이 이름 궁금해요ㅎ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020203
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&은 티비 많이 보세요?
+P0 	: 저는 될수있으면 종영한 드라마 챙겨보는 편이라서요
+P1 	: 요즘은 뭐 주로 보세요?
+P0 	: 지금은 티비엔 드라마중 월간집 보고 있어요 ㅎ
+P0 	: 전소민 말고 정소민이요 ㅎ
+P1 	: 아 넵 ㅋㅋㅋㅋㅋ 제가 이름을 잘 못외워서 ㅋㅋㅋㅈ
+P1 	: 전소민은 런닝맨 
+	  나오죠???
+P0 	: 네 ㅎㅎ 누가 추천해줘서 보고 있는데 좋더라구요
+P1 	: 저는 아직 안봤는데 정소민 나온거중 이번생은 처음이라 좋더라구요
+P0 	: 저도 그거 봤어요 ㅎㅎㅎㅎㅎ
+P1 	: 그전에 아버지가 뭐라한 ?? 드라마에 나왔을땐 그냥저냥 그러구나하고 별생각 없이 봤는뎅
+P1 	: 거기에 나올때 보니 연기잘하고 몰입되더라구요
+P0 	: 저도 그 드라마 보고 좋아했어요 ㅎ
+P1 	: ㅎㅎ 정소민이 조금 울상???이어서 그다지 별로 였거던요
+P0 	: 정소민 너무 귀여워요 ㅋㅋ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009827
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 점심은 뭐야?
+P0 	: 오늘 우린 북어국 ㅎㅎ
+P1 	: 오 나도 좋아하는데 ㅎㅎ
+P0 	: 신랑은 회사에서 맛있는 거 먹어용 ^^
+P1 	: 북어국에 김치 넣어 먹으면 완전 꿀맛인데
+P0 	: ㅎㅎ 맛있지~ 안그래도 김치 썰어놨어
+P1 	: 집김치 잘 익었던데 맛있겠다
+P0 	: 애들 수업 끝나면 바로 밥먹어야 해서 지금 계속 준비중이야
+P1 	: 고생이 많네
+P0 	: ㅎㅎ 요즘 항상 바쁘네
+P1 	: 글치 국에 반찬 몇 가지만 해도 오전이 훅 지나가니
+P0 	: ㅇㅇ 요즘 좀 정신이 없어
+P1 	: 간단음식으로 먹어
+P0 	: 볶음밥 카레 이런거 너무 많이 줘서 ㅎㅎ
+P1 	: 북어국만 먹어도 영양만점이지 다 들어있잖아 ㅎㅎ
+P0 	: 북어국에 두부, 계란, 무, 북어 들어있으니 영양만점이긴 하지 ㅎㅎ

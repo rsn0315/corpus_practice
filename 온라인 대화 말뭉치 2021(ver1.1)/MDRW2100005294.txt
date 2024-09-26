@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 네 좋아하는데 코로나이후론 못다니거 있네요
+P0 	: 저도
+P1 	: 작년에  여행갈려고 19년도에 티켓팅했다가... 엄청 실망하면 취소했어요
+P0 	: 아쉽다요
+P1 	: 아쉽지요 여행은 자주다니세요?
+P0 	: 코로나 전에는 그랬는데
+P1 	: 저도 코로나전 어디 가기에고 지금은 부담스러워요
+P0 	: 너무 확산이 심해서
+P1 	: 네 계속 많이 나오니 어디서 나올지도 모르겠고
+P0 	: 무증상자도 많거
+P1 	: 네 무증상자가 옆에 있을지도 모르고 구별이 안되니
+P0 	: 걱정되여

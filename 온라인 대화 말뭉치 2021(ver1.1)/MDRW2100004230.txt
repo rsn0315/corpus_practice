@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004230
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어라 왜 바뀌었죠ㅠㅠ
+P0 	: 제가사는곳은 오늘 종일 비가오는데 거기도 비가오나요?
+P1 	: 네 여기도 비와요
+P0 	: 이번 여름 내내 비가 잘안오더니 비가 몰아서 오네요
+P1 	: 그러게요  가을장마인가봐요
+P0 	: 비오고 나면 진짜 가을이겠네요 
+	  저는 가을을 제일좋아하는데 &name2&님은요?
+P1 	: 저두요 가을 제일 좋아해요!
+P0 	: 가을 특유의 분위기가 어딜 가도 좋은거 같아요 선선한 날씨에 산책나가고싶어요
+P1 	: 맞아요 바람 선선하게 부는 날씨에 산책하기 좋죠ㅎㅎ
+P0 	: 낙엽도 너무 이쁘구요
+P0 	: 가을 다음으로는 어떤계절이 좋으세요?
+P1 	: 겨울이요 눈오는 날이 좋아요! &name1&님은요?
+P0 	: 저는 봄이요! 왠지모르게 의욕적이게 되어서 좋아해요
+P0 	: 눈오는날 좋죠! 왠지 조용하고 차분하고 이뻐요
+P1 	: 봄도 1년을 시작하는 계절이고 좋죠ㅎㅎ
+P0 	: 요즘은 코로나라 안하지만 원래는 축제도 많은 계절이라 좋아해요

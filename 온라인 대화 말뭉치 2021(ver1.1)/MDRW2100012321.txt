@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지인 중 군대에 계신 분이 있으신가요?
+P1 	: 아니요 군대에 대해 하실 얘기 있으신가요?
+P0 	: 별로 없는데 이미 대화가 진행됐네요ㅋㅋ 저는 지인 중 3명이 지금 군대에 있어요
+P1 	: 오!! 저는 대학와서 바로 코로나 터져서 동기를 못사겨서 군대에 관련된 사람이 없네요ㅠㅠ
+P0 	: 요즘은 6시 이후로는 핸드폰을 받아서 단톡방에 꾸준히 생존신고를 하더라구요
+P1 	: 오~~그럼 보통 몇시까지 핸드폰을 사용할 수 있나요?
+P0 	: 자기 전까지 사용할 수 있나봐요
+P1 	: 오 좋네요
+P0 	: 많이 발전했나봐요ㅋㅋ 선임후임이랑도 원만하다네요
+P1 	: 신기하네요 그럼 군인분들한테 막 px부탁도 하시나요?
+P0 	: 달팽이크림? 등등 화장품 종류 부탁했어요ㅋㅋ 다른 식료품은 초반에만 신기했지 대체재가 있으니까요ㅋㅋ
+P1 	: 화장품은 얼마나 싼가요? 반 값정도 하나요?
+P0 	: 제대로 찾아 비교해보지는 않아서 잘 모르겠어요ㅋㅋ 다들 부탁하길래 따라했어요
+P1 	: 오 그렇군요

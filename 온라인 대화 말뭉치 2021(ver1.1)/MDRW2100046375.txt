@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046375
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211021
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요~ 점심시간인데 점심은 드셨나요?
+P0 	: 네 맛점하셨나요
+P1 	: 저는 마라샹궈에 꿔바로우 먹었어요 ㅎㅎ
+P0 	: {emoji}
+P1 	: 뭐 맛있는거 드셨나요?
+P0 	: 저는 초밥먹었어요
+P1 	: 오 어떤 초밥 제일 좋아하시나요 저는 다 잘먹는데
+P1 	: 연어가 제일 맛나요
+P0 	: 참치요
+P0 	: 다 잘먹긴해요
+P1 	: 해물 종류를 다 잘드시나봐요!
+P0 	: 해물을 좋아하진않는데 초밥은 좋아해요
+P1 	: 초밥이 먹기도 간단하고 
+P1 	: 도시락으로도 잘 나와서 점심으로 먹기 좋은 것 같아요
+P0 	: 맞아요
+P1 	: 저녁엔 뭐 드실 예정인가요?
+P0 	: 아직 미정이에요
+P1 	: 점심만큼 맛있는 저녁 드시길 바라요

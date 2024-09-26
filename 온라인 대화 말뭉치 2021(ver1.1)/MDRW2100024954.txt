@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100024954
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요?
+P1 	: 온라인 쇼핑몰 구경하는 건 좋아해요
+P1 	: 오프라인 마트는 살 거 있을 때만 가는 편이구요
+P1 	: 쇼핑 조아하세요?
+P0 	: 네 온오프라인 쇼핑 모두 좋아하는 편입니다.
+P1 	: 주로 어떤거 쇼핑하세요?
+P0 	: 음 식재료나 옷, 화장품 같은거를 주로 사는 것 같아요!
+P0 	: &name2&님은 주로 어떤 걸 쇼핑하시나요?
+P1 	: 저도요 먹을거 입을거 생필품 그런거 사죠
+P0 	: 요새는 온라인 쇼핑이 너무 잘 되있어서 너무 편한 것 같아요
+P1 	: 새벽 배송도 되고 편리할거 같아요. 마켓컬리 쿠팡 같은거요
+P1 	: 새벽 배송 받아본 적 있나요?
+P0 	: 몇 번 받아는데 편하다라고요!
+P0 	: 새벽 배송 잘 이용하시나요?
+P1 	: 오. 여긴 시골이라 새벽 배송이 안되요 ㅎㅎ
+P0 	: 아 그렇군요 ㅜㅜㅜ 급할때는 정말 편한더라구요
+P0 	: 최근에 어떤 물건 구매하셨어요?
+P1 	: 터치펜 이요.
+P0 	: 휴대폰에 사용하는 용도인가요?
+P1 	: 네~~  엄지가 아파서 톡톡 터치하려고요
+P0 	: 아 ㅎㅎ 그럼 더 편하겠네요!
+P1 	: 네 터치펜 한 번 썼더니 계속 쓰게 되네요

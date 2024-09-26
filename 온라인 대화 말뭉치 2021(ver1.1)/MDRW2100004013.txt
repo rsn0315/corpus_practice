@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100004013
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 먹었어 ?
+P1 	: 아니 아직
+P0 	: 음~ 먹을 계획은 있어?
+P1 	: 식사대신 음료 마시려고
+P1 	: 좋아하는 차나 커피 있어?
+P0 	: 아하~ 어떤거?
+P0 	: 난 자스민 좋아해 ㅎㅎ 커피도 좋아하고
+P1 	: 녹차라떼 식사대신 마시려고~
+P0 	: 녹차라떼 좋아하는구나
+P1 	: 나도 자스민차 좋아해!
+P1 	: 커피는 잠이 안 와서 가끔 마셔ㅎㅎ
+P0 	: 아하 ㅎㅎ
+P0 	: 그럼 지금 카페?!
+P1 	: 응~카페 테이크아웃 하려고!
+P0 	: 거기도 비 와?
+P1 	: 여기는 비가 그쳤어! 

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁은 어떻게 하시기로 계획있으세요?
+P0 	: 아까 낮에 장본 불고기가 도착해서 불괴기 먹으려구요
+P0 	: 메뉴정하셨어요?
+P1 	: 맛있겠네요 전 낙곱새 시켜먹을려고요
+P0 	: 낙곱새 면 낙지곱창새우 인가요?
+P1 	: 맞아요 ㅎㅎ 밥도 같이 와서 비벼먹을려고요
+P0 	: 맵지않아요?
+P1 	: 맵기 조절가능한데 저번에  매운맛 했다가 죽을뻔 했어요 ㅋㅋ
+P0 	: 으악...생각만해도 아찔한데요
+P0 	: 근데 더 아찔한건 제 불고기가 타고있네요 ㅋ
+P1 	: 어머나 어쩌다가~ 조금 탄건 불맛으로 생각하고
+P0 	: 양념이라 잘타나봐요 ㅎ
+P0 	: 배달음식 자주 드시나요?
+P1 	: 거의 배달요 혼자라 해먹는거보다 배달이 더 싼듯요
+P0 	: 그렇기도 하겠어요 해먹으면 재료사는것도 남고 그러면 처치곤란이니
+P1 	: 네  맞아요 버리는게 많아요 어제도 양파를 버렸어요 ㅜ.ㅜ
+P0 	: 아고 아까버라...

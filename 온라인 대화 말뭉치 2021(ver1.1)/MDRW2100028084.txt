@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100028084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하는 일은 재미있어요?
+P1 	: 알바랑 비슷해서 일은 별로 없어요
+P0 	: 아 적성엔 맞으세요?
+P1 	: 단순노동이 생각보다 적성에 맞는 것 같아요
+P0 	: 다행이네요 ㅎㅎ
+P1 	: 널널해서 계속 심심이 하고 있어요ㅋㅋㅋ
+P0 	: ㅎㅎㅎㅎ 일이 빡세지 않은건 복ㅎㅎ
+P1 	: 네네 편해서 좋아요 ㅎㅎ
+P0 	: 부럽네요 ㅠㅜ전 오늘도 야근 ㅠ
+P1 	: 아이고ㅠㅠㅠ 야근 자주 있어요?
+P0 	: 그런 편이요 ㅜ
+P1 	: ㅇㅅㅠㅠㅠ 야근 덜하게 사람 뽑아주지ㅠㅠ
+P0 	: 아 그러게 말이에요 ㅠㅠ 흑흑

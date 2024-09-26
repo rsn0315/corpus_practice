@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100019734
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 본 책 있나요
+P1 	: 책 많이조시나요?
+P0 	: 한강 채식주의자 최근에 봤어요
+P1 	: 사피엔스가 가장 기억남네유..
+P1 	: 채식주의자가 한강 살아요?
+P0 	: 작가이름이 한강이에요
+P0 	: 아 사피엔스 전 못 봤어요
+P1 	: 아.. 저 무식한거 들켯네..
+P1 	: 채식주의자는 소설이에여?
+P0 	: 네네 소설이에요
+P0 	: 사피엔스 보시는데 뭐가 무식해요ㅠㅠ 똑똑이이십니다
+P0 	: 문학상 받았대서 봤는데 제스탈 아니에요ㅠ
+P1 	: 제목이 먼가...
+P1 	: 풀먹으라는 내용이에요?
+P0 	: 아내가 채식주의자가 되면서 말라가는 이야기에요
+P0 	: 기괴해요ㅠ
+P1 	: 아.. 제목이랑 완전 딴 내용이네요.. 상상도 못함..
+P0 	: 그쵸ㅠㅠ
+P0 	: 상받지않았다면 안봤을거엥6
+P1 	: 그래도 글은 잘쓰시는 분인가봐요?
+P0 	: 네네 문장력은 좋아요

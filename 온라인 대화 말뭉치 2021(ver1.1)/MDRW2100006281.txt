@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100006281
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑하는거 좋아하시나요?
+P1 	: 주로 중고책 많이 사고
+P1 	: 얼마전엔 중고로 블루투스 키보드 샀어요
+P0 	: 우와 책도 많이 보시는군요!!!! 대박
+P0 	: 중고는 당근 이용하시나요?
+P1 	: 책은 알라딘이나 예스24에서 사고
+P1 	: 중고나라 많이 이용해요
+P1 	: 당근은 아직 써본적 없어요...
+P1 	: &name1&님은 최근에 뭐 사셨나요??
+P0 	: 저는 날이 쌀쌀해져서 가디건 샀어요!!!
+P0 	: 그리구 올리브영 세일한다길래 내일은 핸드크림 사려규요 !!
+P1 	: 오 가디건은 무슨 색이에요??
+P0 	: 음 체크라고해야하나? 큰 체크무늬?! 아 아가일패턴이요!!!!
+P1 	: 그럼 옷 사시는 걸 좋아하시나요??
+P0 	: 아니요 ㅋㅋ 저 쇼핑 진짜 귀찮아하는ㄷ0
+P0 	: 너무추워서 사야겠더라구요 ㅋㅋㅋ
+P1 	: 그러니까요 많이 추워졌어요
+P0 	: ㅋㅋ중고책은 어떤책 사셨어요?
+P1 	: 알랭 드 보통 불안이랑 마이클 샌델 돈으로 살 수 없는 것들 샀어요!
+P0 	: 우와 저도 불안은 집에 가지고 있어요 ㅋㅋㅋ
+P0 	: 마이클 샌델은 그 하버드 교수 그분인가요?
+P1 	: 진짜 너무 대단한 거 같더라고요...
+P1 	: 지금 읽고 있는데 내용이 너무 울림을 줘요

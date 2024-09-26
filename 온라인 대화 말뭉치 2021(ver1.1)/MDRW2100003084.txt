@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 방학인데도 과제있어
+P0 	: 오바야
+P1 	: 원래 방학은 과제하는 맛 아닌가여
+P0 	: 과제 대신 해주신다니 감사합니다ㅎㅎ
+P1 	: 음.... 힘내세요 학생
+P0 	: 안 돼요ㅜㅜ
+P1 	: 과제가 많나요?
+P0 	: 네 코로나때문에 실습을 못 나가서 과제가 많아요
+P0 	: 레포트 하루에 10장씩 쓰고 있어요ㅠㅠㅜㅜㅜ
+P1 	: 와 고생이 많네요 진짜ㅜㅜ
+P1 	: 뭐 전공하시는거에요?
+P0 	: 물리치료 전공하고 있어요
+P0 	: 4학년인데 실습은 아예 못 나가서 너무 걱정이에요
+P1 	: 곧 졸업이신데 ㅜㅜ
+	  코로나가 진짜 문제네여
+P0 	: 맞아요..
+P0 	: 작년에 입학한 21학번 애들은 학교 제대로 다녀보고 졸업할 수 있을지 걱정이에요
+P1 	: 그러게요ㅠ 코로나 하나로 인해
+	  참 많은게 불편해졌네여ㅠㅠ
+P0 	: 휴학하고싶어요

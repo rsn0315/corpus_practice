@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036146
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 감자 좋아하세요?
+P1 	: 케
+P1 	: 네
+P0 	: 집에 있어요?
+P1 	: 디
+P1 	: 네
+P0 	: 감자요리 할생각 있나요?
+P1 	: 네
+P1 	: 할거에여
+P0 	: 어떤거요?
+P0 	: 메뉴는요?
+P1 	: 포테이토 소세지 피자 할려고요
+P0 	: 치즈 넣으세요?
+P1 	: 피자니까 무조건 넣어야져
+P0 	: 어떤 치즈요?
+P1 	: 서울우유 모짜렐라치즈와
+	  체다치즈 솔솔솔이요

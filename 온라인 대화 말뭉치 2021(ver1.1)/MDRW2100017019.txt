@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님.
+P0 	: &name2&님은 왠지 대전 맛집에 대해 잘 알고있는것 같아요
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 어케아셨죠
+P1 	: 대전은 칼국수의 도시랍니다
+P0 	: 어머머머 그래요? 저 칼국수 좋아하는데.. 칼국수 맛집 추천해주세요
+P1 	: 오씨칼국수 아세요???
+P0 	: 어머 이름이특이하네요 주인이 오씨일까요?
+P1 	: 진짜칼칼하구마시는데 조개도 많이들었구요
+P1 	: 츄천츄천
+P0 	: 우와 저도 칼큼한거 좋아하는데 대전가면 가볼래요!
+P0 	: 혹시 파스타집은 어디가 유명한가요?
+P1 	: 유명...한진 모르겠는데
+P1 	: 전민동에 라자냐 맛있는데있어요!! 검색하면 나올거에요!! ㅋㅋㅋㅋ
+P0 	: 우와 전민동에 맛집이 많은가요??
+P1 	: 오 좀 있는거같아요
+P0 	: 오 또 어디잇어요??
+P1 	: 그 수육전골이 맛있더라구오
+P1 	: 한우전골 ?
+P1 	: 전민동 크진않아서 거기도 찾으면 바로나올듯!
+P0 	: 오 저 수육전골좋아하는데! 감사합니다 &name2&님

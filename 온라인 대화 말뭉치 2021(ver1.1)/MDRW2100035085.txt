@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100035085
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 할인소식은 주로 어디서 접하세요?
+P1 	: 커뮤니티요
+P1 	: 봉황이 물어다줍니다
+P0 	: 봉황 좋네요
+P1 	: 최근에 무슨선물받앗나여
+P0 	: 저는 언니가 물어다줘요
+P1 	: 네? 무슨말이죠
+P0 	: 피자선물이요
+P1 	: 동갑친구가 선물 뭐줫는데
+P0 	: 유료피자였어요
+P1 	: ...

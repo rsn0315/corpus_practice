@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100023270
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 반려동물키우시나요?
+P1 	: 아니요.. 반려동물 키우세요?
+P0 	: 아니요 아직이요
+P0 	: 혹시 키우신다면 어떤 동물 키우고싶으세요?
+P1 	: 저는 강아지 키우고 싶어요!
+P1 	: 키우고싶은 동뮬 있으세요?
+P0 	: 저는 고양이요
+P0 	: 강아지 키우고싶은 이유가 있나요?
+P1 	: 그냥 막연하게 너무 귀여워서 키우고 싶다고 생각했어요
+P1 	: 고양이 키워보신 경험이 있으신가요?
+P0 	: 아니요 없어요 반려동물을 키워본 경험이 없네요
+P0 	: 있으신가요?
+P1 	: 네 저는 어렸을때 강아지 키워봤어요..
+P1 	: 너무ㅠ오래전이라 약간 지금 반려견을 키운다는 느낌과는 약간 다르지만..
+P0 	: 그러셨구나 그친구는 이름이 뭐였나요?
+P1 	: 강아지 이름이요?
+P1 	: &name3&었어요! 진돗개여서요
+P0 	: 헉 잘생긴 친구였을거 같네요
+P1 	: 맞아요 중성화도 안한 상태라서 아기도 많이 났었었는데 너무 귀여웠어요 ㅜㅠ
+P1 	: 낳았었는데..!
+P0 	: 여자애였나요?
+P1 	: 네네! 여자였어요!!

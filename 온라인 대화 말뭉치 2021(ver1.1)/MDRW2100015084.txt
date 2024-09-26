@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 오늘 점심 때 뭐 드셨어요?
+P0 	: 저 비빔밥이요ㅋㅋㅋ
+P1 	: 우와 비빔밥 맛있겠다!
+P1 	: 그럼 저녁도 드셨나요?
+P0 	: 아직요!
+P0 	: 님은요?
+P1 	: 저는 파리바게트 빵 먹었어요!
+P1 	: 요즘 할인 많이 하더라고요 ㅎㅎ
+P0 	: 오 좋네요ㅋㅋㅋ
+P0 	: 단무지없이 자장면 먹기 vs 김치없이 라면먹기 어떠세요?
+P1 	: 둘 다 좋은데요?
+P1 	: 근데 라면보다 자장면이 더 좋아요!
+P0 	: ㅋㅋㅋ 그런가요
+P0 	: 말랑복 vs 딱복은 어떠세요?
+P1 	: 그렇죠 ㅎㅎ
+P1 	: 그게 뭐에요? 복어인가요?
+P0 	: ㅋㅋㅋㅋㅋ
+P0 	: 복숭아요
+P1 	: 아~ 복숭아구나
+P1 	: 둘 다 좋은데 딱딱한 듯 살짝 말랑한거요!
+P0 	: ㅋㅋㅋ 저도요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 님은요?
+P0 	: 저는 2차까지 맞았어요.
+P0 	: &name2& 님은요?
+P1 	: 저도 2차까지 다 맞았어요
+P0 	: 1차때 특별히 증상이 있으셨나요?
+P1 	: 팔이 많이 뻐근했어요
+P0 	: 오.. 저는 첫날엔 서서히 아프다가 팔도 뻐근하더니 잘때 너무 괴로웟어요. 다음날은 더 아프고 다다음날은 알베긴정도였어요
+P1 	: 저는 4일은 아팠네요 힘을 잘 안풀고 맞아서 된통 당했죠
+P0 	: 이런... 2차땐 어떠셧나요
+P1 	: 몸살이 났어요
+P0 	: 이런.. 저는 3일동안 두통 및 4일동안 머리가 너무 어지럽고 찬바람을 들이마실수없을정도로 마스크를 끼고잇엇어요
+P1 	: 고생 많으셨네요
+P0 	: &name2&님은 며칠아프셧는데요?
+P1 	: 2차는 일주일정도 아팠네요

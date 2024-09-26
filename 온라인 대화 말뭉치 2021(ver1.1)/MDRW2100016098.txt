@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100016098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 좋아하세요?
+P1 	: 아뇨 전 책을 많이안좋아해여
+P1 	: 요즘은 보려고하는데...재미있는책 있나요
+P0 	: 저는 듣는 독서라도 하려고 하는데 바빠서 쉽지않디죠. 윌라 이런거요
+P1 	: 아 그런것도 있군요
+	  독서가 좋죠
+	  지난번에 읽은책이 너무잼있어서 이제 좀 보려고해요
+P1 	: 영화도 나온책인데...제목이 기억안나네요 ㅜ
+P0 	: 기억의밤? 뭘까요
+P1 	: 사지마비인 간병인으로 들어가서 사랑하게되는..
+P0 	: 아아아 알아욬ㅋㅋㅋㅋ영화봤는데 기억이 저도.......
+P1 	: 포...
+P1 	: 아 기억이 너무 잼있게읽고
+P1 	: 영화도 봤어요
+P0 	: 전 육아서 많이읽게되네요
+P0 	: 질문하는 아이로 키우는 엄마표 독서수업 이거요
+P1 	: 네.저도 요즘 육아서 찾아보게되요
+P1 	: 괜찮나요??
+P0 	: 네 읽는중이데 괜찮나요
+P0 	: 아요
+P1 	: 아... 질문많이하는 아이가 똑똑하죠
+P0 	: 네네 책읽는것도 좋은데 고민이많은데 질문을 해줘야겠어요
+P1 	: 말투를 바꿨더니 아이가 공부를 시작합니다
+	  사보러고 해요

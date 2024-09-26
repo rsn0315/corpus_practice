@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100032326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으면 여행가고싶은 곳 있으신가요?
+P1 	: 국내는 제주도, 해외는 위험하지 않다면 터키요!
+P0 	: 헉 저도 제주도요ㅋㅋ
+P0 	: 터키는 무슨이유때문에 가고싶으세요?
+P1 	: 동서양을 한곳에서 느낄수 있을것 같아서요!!
+P0 	: 우와 터키에 그런 장소가 있는건가요?
+P1 	: 터키가 동서양의 중간지점이라 그런 느낌 같더라구요
+P0 	: 아하 그러고보니 들어본것 같기도 해요 그게 터키였구나
+P1 	: &name1&님은 제주도 가보신 적 있으세요?
+P0 	: 두번 가봤어요 4년전에 한번, 4살때 한번이요ㅋㅋ
+P0 	: &name2&님은요?
+P1 	: 저는 고등학교 수학여행이랑 성인된 후, 두번이요
+P1 	: 몇번 더 가보고 싶어요 ヽ(´{emoji:▽}`)/
+P0 	: 수학여행을 제주도로 가셨구나 부러워요ㅠㅠ
+P1 	: &name1&님은 수학여행 어디로 가셨었어요??
+P0 	: 저 서대문형무소 갔었어요
+P0 	: 그리고 나머지는 코로나때문에 다 취소되어버린..ㅋㅋ
+P1 	: 역사적 의미가 있는 곳으로 가셨군요
+P1 	: 작년에 학생이셨어요??
+P0 	: 그렇긴한데 뭔가 생각하던거랑은 달라서 아쉽긴했어요
+P0 	: 네네

@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100018245
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어디지역분이신가요?
+P1 	: 저는 인천에 살아요
+P0 	: 아하 저는 안양이여
+P0 	: 인천도 갈데 많져?
+P1 	: 오 그러시구나 넹
+P1 	: 은근히 갈만한 곳이 있는데
+P0 	: 저 월미도도 가고 강화도도 가고 차이나타운도 가고
+P1 	: 사람 취향이 많이 걸릴거 같아서
+P0 	: 송도도가고
+P0 	: 인천은가까워서
+P1 	: ㅋㅋㅋㅋㅋ 조용하니 좋지 않아요?
+P0 	: 송도는 진짜 조용해여ㅋㅋ
+P0 	: 청라도
+P1 	: 지금 말씀하신 곳들 다른 곳보다 되게 한적해요
+P1 	: 거긴 더 한적하던데 ㅋㅋㅋㅋㅋ
+P1 	: 인천사람들은 서울로 놀러가서 그런가봐옄ㅋㅋㅋ
+P0 	: 그래서 지하철이 그렇게..
+P0 	: 사람이 많군요ㅋ
+P0 	: 서울에서 노시나봐요
+P0 	: 서울도 코로나땜에 상권 죽은데 많아서
+P1 	: 저는 인천 구월동이나 가여 귀찮아요
+P1 	: ㅋㅋㅋㅋ
+P0 	: 구월동 알아여
+P1 	: 맞아요 홍대쪽 진짜 오래간만에 갔더니 비어있고 한적해서 놀랬어요
+P0 	: 그 버스터미널있는데 아니에요?
+P1 	: 맞아요 거긴데 롯데백화점으로 바뀌고 한적해졌어요
+P1 	: 사람이 읎어
+P0 	: 그렇군여
+P1 	: 코로나라 그런게 아니라 상권이 죽었어요
+P0 	: 해외 가고 싶어요
+P1 	: 해외여행 어디로 가고 싶으세요?

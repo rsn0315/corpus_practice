@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046732
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 점심 먹고 올게요! 맛점하세요!
+P0 	: 맛점하세요
+P1 	: 즐겨보시는 웹툰 있으신가요?
+P0 	: 네
+P1 	: 무슨 웹툰 보세요~?
+P1 	: 추천 좀 해주세요 ㅎㅎ
+P0 	: 최면학교요
+P1 	: 오 처음 듣는 웹툰이에요
+P1 	: 무슨 내용이에요~?
+P0 	: 고등학생이 최면 능력을 가지고있는데
+	  범위가 조절 안되는
+P0 	: 뭐 그런 내용입니다
+P1 	: 아하 ㅋㅋㅋ 검색해봐야겠어요
+P1 	: 추천 감사합니당 ㅋㅋㅋ
+P0 	: 네
+P1 	: 전 화요일 웹툰 중에
+P1 	: 숲속의 담이라는 웹툰 즐겨봐요
+P0 	: 네 저도 검색해볼게요
+P1 	: 옛날엔 요일별로 웹툰 막 10개씩 봤는데
+P1 	: 요즘엔 그정도 열정은 없어요 ㅋㅋ
+P0 	: 뭘해도 열정이 예전같지는 않아요ㅜ

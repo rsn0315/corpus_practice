@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012527
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기억에 남는 여행 경험이 있으신가요?
+P1 	: 네 저 유럽여행이 기억에 남아요ㅎㅎ
+P0 	: 어떤 점이 좋으셨는지 말씀해주실 수 있나요?
+P1 	: 문화적으로 다르다보니 새롭고 풍경도 좋구ㅎㅎ 여행지 어디가 기억에 남으세요?
+P0 	: 저는 제주도가 가장 기억에 남아요 가족들과 처음으로 같이 여행을 간 곳이어서 그런것 같아요
+P0 	: 주로 어떤 기념품을 구매하세요?
+P1 	: 키링이링 엽서가 추억하기 좋은거같아요
+P0 	: 저는 주로 먹는것을 구매했는데 레나님의 기념품 구매방식도 좋은 것 같아요
+P1 	: 네 저도 먹을것도 많이 사요ㅎㅎ
+P0 	: 먹을게 집에 남지 않아서 좋다고 생각했어요
+P0 	: 하지만 추억할게 없어서 나중에는 저도 남는걸로 구매해야겠어요
+P0 	: 여행계획이 있으신가요?
+P1 	: 네 계획은 있는데 갈수있을지ㅠㅜ 계획있으세요?
+P0 	: 저는 가족들과 함께 드라이브를 하고 바다에 발을 담궈보고 싶어요
+P0 	: &name2& 계획이 꼭 실행되실 수 있길 바랄게요!
+P1 	: 저도요 꼭 여행가봅시다ㅎㅎ
+P0 	: 좋아요! 그때는 여행계획을 잘 세우고 갔으면 좋겠어요

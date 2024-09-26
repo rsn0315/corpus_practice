@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003440
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 왜 넘 맛있는뎅
+P0 	: 플라스틱에 뜨거운 음식 배달 안좋다
+P0 	: 집에서 만들어 먹어라
+P1 	: 집에서 만들어먹으면 이런 맛 안나지요
+P1 	: 한번씩만 먹는건데 어때~
+P0 	: 야식은 좋지않다
+P0 	: 낮에 먹던지
+P1 	: 알았당 ㅋㅋㅋ
+P0 	: 그래 살찌니까
+P0 	: ㅋㅋ 건강도 챙겨야지
+P1 	: ㅠㅠ맛난건 왜 다 몸에 안좋은지
+P0 	: 몸에 좋은 음식도 많다
+P1 	: 별로 없는듯..
+P0 	: 아니다 많다
+P1 	: 거짓말~
+P0 	: 아니다 채소들 맛나잖아
+P1 	: 아닌것 같은뎅..ㅋㅋ
+P1 	: 내일은 뭐 해먹을까 주말인데~ 맛난거 해먹자

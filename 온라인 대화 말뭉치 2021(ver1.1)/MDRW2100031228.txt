@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 소득이 불만족스러운 가요
+P1 	: 솔직히 말해서 지금 저의 소득이 만족하지 못하고 있는데 그게 스트레스에요
+P0 	: 작더라도 그 수단으로 나와 가족이 살아갈 일용할 양식을 구하고 있으니 얼마나 감사한 일인가요
+P1 	: 그렇긴 하지만 좀 더 있었으면 좋겠어요
+P0 	: 지금의 소득을 습관으로 나와 가족이 별 탈 없이 잘 지내고 있으니 얼마나 감사한 일인지 가요
+P1 	: 그래도 그렇조금만 더 있었으면 좋겠어요
+P0 	: 돈으로 행복을 사라는 것이나 마찬가지입니다 소록이 오르면 돈을 주고 행복을 사려고 하는 것과 다름이 없죠
+P1 	: 그래도 있으면 더 행복하지 않을까요
+P0 	: 돈으로 행복을 사는게 가능하다고
+P1 	: 그 정도는 아니지만
+P0 	: 소득이 오르면 저절로 행복해질 거라고 생각하나요
+P1 	: 어느 정도는 요
+P0 	: 어림도 없어요
+P1 	: 너무 딱 잘라 얘기하시네요
+P1 	: 그래서 저는 부업을 해야 하나 싶어요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017340
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행다니는거 좋아하세요?
+P1 	: 좋아해요!! 근데 요즘엔 코로나땜에 못가서 안타까워요
+P0 	: 가장 최근에 가신 여행지는 어디인가요?
+P1 	: 못간지 오래돼서 잘 기억은 안나고 원래 이번 여름에 완도를 가보려고 했어요
+P0 	: 완도! 완도로 정하신 이유가 있나요?
+P1 	: 완도에 바도 보면서 물놀이 할 수 있는 펜션이 있더라구요 여름에 물놀이 하는 걸 좋아해서 친구들이랑 계획을 세웠는데 하필 코로나 확진자 수가 급속도로 늘어나서 ㅜ못갔어요
+P0 	: 아쉽겠어요ㅠㅠ 제주도는 가본적 있으세요?
+P1 	: 제주도는 이년전에 간게 제일 최근인 것 같아요~
+P1 	: 제주도 좋았죠~
+P0 	: 제주도 뭐가 맛있나요?
+P1 	: 아무래도 여행빨도 있어서 다 맛있었던 것 같아요
+P1 	: 해물라면도 좋고
+P1 	: 제주도에서 파는 오는정김밥도 전화 여러번 시도해서 먹었는데 맛있더라구요
+P0 	: 기억에남는 제주여행지 있으세요?
+P1 	: 역시 바다가 기억에 많이 남네요
+P1 	: 금능이었나 물빛이 에메랄드라서 정말 예뻤어요
+P1 	: 한라산 드라이브 코스도 좋더라구요 괜히 다른 곳보다 공기가 더 맑은 느낌?
+P0 	: 메모해놓고 가봐야겠어요

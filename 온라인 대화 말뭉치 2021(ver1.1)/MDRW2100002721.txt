@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100002721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 오늘 날씨가 흐리네요
+P0 	: 새벽에는 저희동네에 비가 엄청 쏟아지더라구요! 혹시 비안오셨어요?
+P1 	: 아 정말요?저희지역은 안왔어요!!
+P0 	: 우박처럼 엄청 와서 깜짝 놀래서 잠에서 깼어요! 요즘 날씨가 스콜성 기후처럼 변하네요ㅠㅠ
+P1 	: 헉! 엄청 많이 왔나봐요!!
+P0 	: 네! 정말 소리가 우박소리처럼 컸어요! 지금은 또 쨍쨍한데 비가온다는 소리가 있더라구요 요즘은 우산은 필수로 들고나와야 하나봐요
+P1 	: 우산 챙겨 다녀야 겠어요
+P0 	: 그러니까요 날씨가 종잡을수없어서 무섭네용
+P1 	: 네~태풍온다는 말도 있고요
+P0 	: 태풍은 정말 최악인것같아요ㅜㅜ 여름에 꼭 한번씩은 태풍이 오려나봐요
+P1 	: 네~올해는 그냥 넘어가나 했는데
+P0 	: 태풍만은 오지않으면 좋겠네요~

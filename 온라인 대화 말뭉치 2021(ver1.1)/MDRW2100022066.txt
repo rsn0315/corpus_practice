@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100022066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 무슨 음식을 제일 좋아하시나요??
+P0 	: 저 마라탕 좋아해요!
+P0 	: &name2&은요?
+P1 	: 저는 매운걸 진짜 못먹어서 마라탕은 안먹어봤고ㅜㅜ
+P1 	: 아보카도 비빔밥 좋아해요!!
+P0 	: 오 저 아보카도 한번도 안먹어봣어요
+P0 	: 무슨맛이에요?
+P1 	: 마클루바랑 떡갈비, 볶음밥, 샌드위치 등등 !!
+P1 	: 아보카도는 버터식감에 정말 아무 맛이 안나는데
+P1 	: 너무 매력있어요...
+P1 	: 먹을 수록 맛있달까...
+P1 	: 아보카도랑 어린 잎 채소 하나 사서 아보카도 완숙하신 다음에
+P1 	: 간장 양념 인터넷보고 휘휘 만드셔서 한번 드셔보세요...
+P1 	: 비빔밥이요!!
+P0 	: 오오 그리고 아보카도가 건강에 좋아서
+P0 	: 맛잇다면 많이 먹으면 좋을것같네요
+P1 	: 맞아요 건강에도 좋죠!
+P1 	: &name1&은 마라탕 말고 또 뭘 좋아하시나요??
+P0 	: 음 저 크림파스타도 좋아하고
+P0 	: 로제떡볶이도 좋아해요
+P1 	: 오 저도 크림파스타! 좋아해요
+P1 	: 내일도 먹을거에요!
+P1 	: 그리고 전에는 두유로도 만들어봤는데 맛있더라고요!!
+P1 	: 두유 크림파스타도 한번 도전해보세요!
+P0 	: 오 유튜브 보고 한번 찾아볼게용
+P1 	: 네 ㅋㅋㅋㅋ 간만 잘 맞춰도 앵간해요!!
+P0 	: 오호 귀찮아서 할진 모르겟지만 ㅋㅋㅋ 해보도록 할게욤

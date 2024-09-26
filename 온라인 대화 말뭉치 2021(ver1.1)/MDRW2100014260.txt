@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014260
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 요즘 좀 선선하네요
+P0 	: 그쵸? 여름이 지나가고 가을이 오는게 느껴져요 
+	  가을날씨 좋아하세요?
+P1 	: 여름보단 좋은것같아요.
+P0 	: 전 가을날씨 좋아해요
+	  덥지도 않고 춥지도 않고
+P1 	: 생각보다 빨리찾아와서 당황스럽기도하고 반갑기도 하고 그렇네요.
+P0 	: 올 여름 많이 더울거라고 이야기가 많이 나와서 걱정했는데, 생각보다는 무난하게 지나가지 않았나 싶어요
+P1 	: 맞아요. 쾌적해져서 너무 좋더라고요 ㅋㅋ
+P0 	: 시원하고 쾌적해져서 좋은데, 요즘은 소나기도 자주 내리고.. 비가 자주 와서 그 점은 조금 아쉬운거 같아요
+P1 	: 맞아요. 그것때문에 문을 닫아야할지 말아야할지 모르겠어요
+P0 	: 저는 크게 덥지 않으면, 닫고 있으려고 하고 있어요
+	  밤에는 꼭 닫아두고요
+P1 	: 저는 잘때는 닫고있는데 동생이 환기좀하래서 열어두고있어요

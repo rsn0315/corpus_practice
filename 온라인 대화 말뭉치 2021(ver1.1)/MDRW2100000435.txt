@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤책 좋아해?
+P1 	: 보통 철학책 좋아해 소설도 가끔 읽어
+P0 	: 철학 너무 어렵다
+P0 	: 철학과니?
+P1 	: 그런가 철학은 교양으로 듣고 전공은 컴퓨터쪽이야
+P0 	: 컴공!!
+P0 	: 취업 잘하겠넵!!
+P1 	: 맞앜ㅋ너는 전공 뭐야?
+P0 	: 전기!
+P0 	: 씨언어,조금해봤는데 넘 어렵드라
+P1 	: 오 전기면 비슷하넹 취업잘되겠다
+P0 	: 그래도 힘들드라 ㅠㅠ
+P1 	: 취업?ㅜ
+P0 	: 어엉
+P1 	: 전화기가 최고인걸루 아는데
+P1 	: 요샌 솔직히 전컴기 같기도
+P1 	: 요새 진짜 취업어려웡
+P0 	: 그니깐 ㅜㅜㅜ

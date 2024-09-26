@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100032210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 왜 만드려고 하세요
+P1 	: 그냥 사서 드시는게 맞지 않을까요
+P0 	: 1석 3조입니다 돈을 추가하면 붕어빵 찍는 모양이 있는 것도 있더라고요
+P0 	: 고모가 계속 사라고 압박을 하셔요
+P1 	: 저도 간식맨 샌드위치 기계를 잘 썼어요
+P0 	: 이삭 소스 같은 것도 파나요
+P0 	: 빵도 계속 사야 되고 치즈도 계속 사야하고 야채나 햄도 계속 사야 할 텐데
+P1 	: 요새 없는게 없을 거예요 찾아보세요
+P0 	: 제가 부지런하게 그걸 해서 고모한테 드릴 수가 있을까요
+P1 	: 그렇죠 그렇게 보면 비싼 건 아닌 거 같기도
+P0 	: 의문입니다
+P1 	: 토스트 말고 샌드위치도 신선하고 좋죠
+P1 	: 뚱뚱한 샌드위치 많이 사서 드시더라고요
+P0 	: 제 친구 집에 놀러 갔을 때는 생지를 와플 기계에 넣어서 꼭 찍어서 크로플 만들어 주었거든요
+P0 	: 정말 맛이 있더라구요
+P1 	: 한 번도 안 먹어 봤는데
+P0 	: 싫어 무료서도 먹고 꿀에 찍어서도 먹고 아이스크림이랑도 같이 먹었는데 맛은 정말 있었습니다
+P1 	: 한국에서는대 유행하더라구요
+P0 	: &name3&가 해 줬어요

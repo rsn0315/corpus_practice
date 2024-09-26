@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002030
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 쇼핑 많이 하셨어요?
+P0 	: 엊그제 정원샵에서 엄청샀어요ㅎㅎ
+P1 	: 그렇군요 식품들로 사신거예요?
+P0 	: 네 안주야 불막창이랑 곱창으로 다채웠어요
+P1 	: 너무 맛있는걸로만 사셨네요
+P0 	: 소곱창이 먹고싶은데 그건 넘비싸고ㅎ 쿠폰주길래 냉큼샀어요
+P1 	: 곱창은 소 아니라도 다 맛나요 상추나 깻잎에 싸먹으면 ~크
+P0 	: 맞아요 다들 술안주로 사는데  전 그냥 식사대용으로 샀어요
+P1 	: 저두 식사용이예요 막창도 구워먹고
+P0 	: &name2&님은 안사셨어요? 저렴하던데요
+P1 	: 집에 닭꼬지랑 가슴살도 많고 해서 더이상 사면안될거 같아요
+P0 	: 먹을거 많으심 자제하시는게 좋을듯요ㅎ
+P1 	: 빨리 먹어야하는데 쉽지 않네요
+P0 	: 물건이면 당근에라도 팔텐데 음식이라 애매하네요
+P1 	: 그러게요 어제 기초세트 2종 팔았어요
+P0 	: 오ㅎ 당근에 파셨어요?
+P1 	: 네 선크림도 2개 팔고 이번주 거래2건 했어요

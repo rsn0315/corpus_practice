@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036976
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~~
+P1 	: 안녕하세요. 저녁 식사 하셨나요?
+P0 	: 네 ㅋㅋ저는 감자볶음이랑 김치볶음먹엇어요 ㅎㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 저는 튀김우동 컵라면 먹었어요~
+P0 	: 오..그거 진짜 별미인데 ㅎㅎㅎ 맛잇엇겟네요
+P1 	: 네 오랜만에 먹으니 맛있더라구요~
+P0 	: ㅋㅋㅋㅋ 점심에는 뭐드셧어요?ㅋㅋ
+P1 	: 점심에는 우유랑 시리얼로 대충 때웠어요ㅠㅠ &name1&님은요?
+P0 	: 저는 스낵면 먹엇어요 ㅋㅋ
+P0 	: 오 특히 즐기시는 시리얼이 잇으세여?ㅋㅋ
+P1 	: 전 콘푸로스트 주로 먹고 가끔 코코볼도 먹어요 ㅎㅎ
+P1 	: 스낵면 멋있나요? 한번도 안 먹어 봤어요!
+P1 	: 멋있나요 아니구 맛있나요 입니다 오타ㅠㅠㅠ
+P0 	: ㅋㅋㅋㅋㅋ 귀여우시네요 ㅋㅋㅋ
+	  오.. 오레오는요?? 저희집에 진짜 마이너한 시리얼이잇는데
+	  &name2&님 말씀들으니까 열심히 먹어야겟어요 ㅠ
+P1 	: 오레오도 맛있어요~~ 전 마시멜로우를 별로 안 좋아해서 그거 빼고 오레오 과자만 먹어요ㅎㅎ
+P1 	: 마이너한 시리얼 뭔가요? 궁금해요!
+P0 	: 후르트링이욬ㅋㅋㅋㅋ

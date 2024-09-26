@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100015006
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 노래 어떤거 들으세요
+P1 	: 저 레드벨벳 노래나 인디노래 자주 들어요
+P0 	: 우아 레드벨벳 좋아요!!
+P0 	: 빨간맛을 젤 많이 들어요 ㅋㅋ
+P1 	: 여름엔 빨간맛이죠 레드벨벳은 여름이랑 잘 어울리는 노래가 많아서 좋아요
+P0 	: 맞아요 !! 아이유도 좋은거같아요
+P1 	: 그쵸 전 아이유 콘서트 꼭 한번 가보고 싶어요
+P0 	: 신곡 나오면 꼭들을려고 해요 !!
+P0 	: 남자가수는 누굴 좋아하세여?
+P1 	: 남자가수 중에서는 듣는 사람 없어요 어쩌다 보니 그렇더라고요ㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저는 발라드 들어요!! 가수는 상관없고 폴킴 적재 같은..?
+P1 	: 아 노래 가끔 들어보면 좋더라고요 버스킹하는 예능 영상 유튜브에 올라와서 봤어요
+P0 	: 유튜브 자주 보세요?? 가끔 보는데 시간 떼우기 좋그라고요
+P1 	: 자주 보죠 너무 자주 봐서 문제예요
+P1 	: &name1&님은 어떤 채널 자주 보세요?
+P0 	: 저는 입짧은 햇님 같은 먹방 봐요!!! ㅎㅎ

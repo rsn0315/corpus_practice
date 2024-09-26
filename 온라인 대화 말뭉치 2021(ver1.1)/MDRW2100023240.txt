@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023240
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저도 인연이 있다면 만나겠죠 ㅎㅎ
+P0 	: 직장에 다니시나요%?
+P1 	: 지금 잠깐 쉬고 있어요
+P0 	: 원래는 어떤 일을 하셨나요?~
+P1 	: 학교 행정실에서 대체인력으로 일했어요
+P0 	: 오! 전 지금 학교 계약직으로 일하고있어요
+P0 	: 행정 업무는 아니지만..ㅎㅎ
+P1 	: 무슨 직종이신데요?
+P0 	: 전 웹디자이너예요 ㅎㅎ 홈페이지 관리 업무하고있어요
+P1 	: 오..멋지네요. 근데 학교에서 근무하시는 거에요? 업체파견이 아니구요?
+P0 	: 네 홍보팀에서 일하고있어요!
+P1 	: 대학교군요.^^
+P0 	: 네 ㅎㅎ 대학교는 홈페이지 업무가 많더라구요
+P1 	: 아..전 초등학교였어요.^^
+P0 	: 잠깐만 쉬다가 다시 복직하실건가요~?
+P1 	: 복직이라기보다 다시 구해야죠. 짧은 기간 일 할 자리 소개 받아서 조만간 갈 거 같아요.
+P0 	: 오 축하드려요 ㅎㅎㅎ
+P0 	: 전 계약직이라 그냥 끝나면 이직하겠거니 생각하고있아요

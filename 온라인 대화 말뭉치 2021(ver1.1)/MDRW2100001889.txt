@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100001889
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요?
+P0 	: 저 여행 좋죠
+P0 	: 어디 가보셨어요?
+P1 	: 해외는 태국 대만 오사카 후쿠오카 홍콩 마카오요
+P0 	: 우와 저는 제주도 밖에 안가봐시어요
+P1 	: 제주도도 좋았어요~ 마지막으로간게 제주도내요ㅠ
+P0 	: 저두 최근이 제주도 ㅋㅋㅋ
+P1 	: 갈때마다 귤 체험하고 싶었는데 그건 못했내요
+P0 	: 저두요 ㅠㅠㅠ 근데 귤은 맛있더라구요
+P1 	: 과일다맛있어요!! 그때먹은 회랑 해산물 진짜 맛있었는데 또가고싶네요
+P0 	: 거기 짜장면집도 맛있는데 여기서 말해도 될지..
+P1 	: 짜장면 맛집은 처음 들어봤네요ㅋㅋㅋ 궁금한데 찾아보께요
+P0 	: 공항근처인데 그 제주도 유명한 돌000 뒤에 000에 들어가는곳 거기가 맛있어요 000짬뽕

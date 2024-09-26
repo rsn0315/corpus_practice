@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020883
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 식사하셨어요?
+P1 	: 네 빵 먹었어요
+P0 	: 오 빵 좋아하시나여?
+P1 	: 네 완전 빵수니 ㅎㅎ
+P0 	: 저두요~ 빵투어 이런것두해요 ㅋㅋㅋ
+P1 	: 와우 ㅎㅎㅎ 그거 좋네요
+P0 	: 맞아요~ 요새는 빵지순례간다고 하더라구욬ㅋㅋㅋ
+P1 	: ㅎㅎ 카레빵인데 고기가 들어서 맛있어요
+P0 	: 오 카레빵 자주드시나봐요?
+P1 	: 이번에 신상 나왔대서 먹어봤어요 ㅎㅎ
+P0 	: 오! 어디빵집인가요?
+P1 	: 뜨레쥬르요 ㅎㅎ
+P0 	: 아하! 뚜레쥬르좋아하세요 파리바게트더좋아하세여?
+P1 	: 전 둘다 똑같은 거 같아요 ㅎㅎ
+P0 	: ㅋㅋㅋㅋ 맞아여 거기서거기
+P0 	: 그래도 나름 점바점이 있더라구요
+P1 	: ㅎㅎ 빵은 사랑
+P1 	: 맞아요 점바점
+P0 	: ㅋㅋㅋ 어떤빵종류 좋아하세요?
+P1 	: 전 담백한거 좋아해요
+P1 	: 어떤거 좋아하세요?
+P0 	: 오! 전 치아바타같은 사워도우좋아해요~

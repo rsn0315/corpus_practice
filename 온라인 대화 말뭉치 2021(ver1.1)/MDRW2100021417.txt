@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021417
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 구입하고 싶은 물건 있나요?
+P1 	: 저 뜬금없지만 이불 바꾸고 싶어요
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 어떤재질을 선호하세요?
+P1 	: 저 아토피가 있어서 순면이어야 할 것 같아요
+P0 	: 아토피면 딴 재질은 가렵나요?
+P1 	: 네 아무래도 땀 흡수가 안 돼서 피부에 자극이 되더라고요
+P0 	: 아 그렇군요ㅠ 린넨이런거도 안된다면 여름에 넘 더울거 같네요
+P1 	: 홑이블 같은 거 깔고 덥고 에어컨 틀고 넘겼어요ㅎㅎ
+P1 	: &name1&은  요새 탐나는 물건이 있으신가요
+P0 	: 컴퓨터 모니터를 바꾸려고 생각중이에요
+P1 	: 오 어떤 이유로요?
+P0 	: 모니터를 너무 오래써서요ㅋㅋ 최신제품으로 선명하기 보고싶어서ㅎㅎ
+P1 	: 아 집에서 쓰시는 모니터요?
+P0 	: 네 커브 모니터를 살지 평평한걸 살지 고민이에요
+P1 	: 보통 어떤 용도로 쓰시나요?
+P0 	: 문서작업하거나 영상봐요
+P0 	: 최근 구입한 물건 있나요?

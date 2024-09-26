@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007641
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교있어요?
+P1 	: 아니오
+P0 	: 부모님은 불교요
+P1 	: ???
+P1 	: 아까 기독교라 하지 않았어요?
+P1 	: ctype님
+P0 	: 종교 없는데요
+P0 	: 어릴 때 교회가죠
+P1 	: 교회 어릴땐 자주 갔어요
+P1 	: 달란트 시장도 재미있었고,
+P1 	: 떡밥에 더 혹한거 같네요
+P0 	: 달란트 ㅋㅋ
+P1 	: 님은 어렸을땐 갔어요?
+P0 	: 친구따라요
+P1 	: 다들 똑같네요
+P0 	: 그른가요

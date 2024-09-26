@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100041673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 점심 드셨나요?
+P1 	: 네, 닭갈비 먹었어요
+P0 	: 오오 닭갈비 너무 맛있겠어요 닭갈비 좋아하시나요?
+P1 	: 자주 먹진 않는데 좋아해요ㅎㅎ
+P0 	: 저두요ㅠㅠ 특히 저는 5.5 닭갈비 너무 좋아해요
+P0 	: 닭갈비는 어디든 맛있지만ㅜㅜ
+P1 	: 오쩜오로 읽나요? 체인이에요?
+P0 	: 네네 오쩜오 체인이에요! 근디 진짜 맛있어요ㅠㅠ
+P0 	: 제 기준으로 유가네보다 맛있는 것 같아요
+P1 	: 오, 기회가 되면 먹어봐야겠어요
+P0 	: 완전 추천입니다ㅎㅎ 다른 닭요리도 좋아하세요?
+P1 	: 닭요리 중엔 찜닭을 좋아해요
+P0 	: 오 찜닭 진짜 좋죠
+P0 	: 좋아하시는 찜닭 프랜차이즈 있으세요?
+P1 	: 동궁이랑 두찜 많이 시켜요
+P0 	: 오오 두찜 유명한것만 아는데 제일 맛있는게 뭔가요??
+P1 	: 저는 늘 기본 간장찜닭만 먹어요ㅋㅋㅋ 로제 같은건 취향이 아니라
+P0 	: 근데 역시 간장이 맛있는 곳이 맛집이더라구요ㅋㅋㅋ
+P0 	: 다시 간장으로 돌아오게 되어있는 것 같아요

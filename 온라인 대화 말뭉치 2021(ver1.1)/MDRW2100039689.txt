@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100039689
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 음료 좋아하세요?
+P0 	: 너무 달지 않은 음료요
+P0 	: &name2&님은 어떤 음료를 좋아하시나요?
+P1 	: 저는 상큼한 거 좋아해요 자몽이나 레몬같은 거요
+P0 	: 자몽이랑 레몬이 맛있죠. 저는 어릴땐 자몽을 별로 안좋아했는데 크니까 자몽을 완전 좋아하게 된..
+P1 	: 근데 엊그제 뉴스 보니까 자몽 쥬스에 콜라보다 설탕이 더 많이 들어간대서 충격 받았아요ㅜㅜ
+P0 	: 헉 진짜요 그 정도일 줄은 몰랐네요....
+P1 	: 그래서 자몽 줄여야 되나... 생각하고 있어요ㅜㅜ
+P1 	: 먼가 그게 더 건강해보였는데... 아니었다니ㅠㅠ
+P0 	: 앗ㅜㅜ 아무래도 건강 생각하면 줄이시는게 좋을지두 ㅠㅠ
+P1 	: ㅠㅠㅠ 자몽에 속았아요ㅜㅜ
+P0 	: ㅋㅋ ㅠㅠㅠ 근데 진짜 시중에 파는 음료들 당류가 너무 높아서 조심해야겠더라구요...
+P1 	: &name1&님은 달지 않은 거 좋아하시니까 추천 받고 싶어요
+P0 	: 아앗 시중에 파는 음료 중에 안 단건 없다고 생각해서 역시 물이 최고인거 같아요()
+P1 	: 아앗...ㅠㅠㅠㅠㅠㅠ
+P1 	: 그럼 카페 가시면 커피 드시나요?

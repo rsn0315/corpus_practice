@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100018906
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 울산 여행 해보셨어요?
+P1 	: 아니요 울산 좋나요?
+P0 	: 울산 좋은 도시에요
+P1 	: 뭐가 있나요?
+P0 	: 태화강변의 십리대밭길은 국가정원으로 선정되었고
+P0 	: 신불산 억새평원도 아름답습니다
+P0 	: 어떤 스타일의 여행을 선호 하시나요
+P1 	: 울산사세요?멀어서 ㅜ
+P0 	: 네 울산 살고 있어요
+P0 	: 직장때문에 정착했는데 살기 좋은 도시더라고요
+P0 	: 여행은 더 좋고
+P1 	: 아지역사랑이 대단하시네요 ㅎㅎ
+P0 	: 사실 억지로 정붙이고 살고있어요
+P0 	: 이직하려다 실패해서
+P1 	: 아 ㅜㅜ 저런 안타깝네요
+P0 	: 여행지 추천해주세요
+P1 	: 글쎄요 컨셉이 ㅋ 너무멀어서 ㅋ
+P0 	: 어디인데요?
+P1 	: 인천요
+P0 	: 아 인천 가본지 정말 오래 되었네요
+P0 	: 십몇년전 다녀왔었는데
+P1 	: ㅎㅎ공항?ㅋ
+P0 	: 아 생각해보니까 공항 포함하면 그렇게 안된다
+P0 	: 공항 제외하고 놀러간게 십몇년전
+P1 	: 아 ㅎㅎㅎ 인천 까지 놀러오긴 쉽지 않으실 듯요
+P0 	: 대학시절에 갔었죠...
+P0 	: 그게 언제인지

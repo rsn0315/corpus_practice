@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 너 영국도 갔다왔다고하지 않았나?
+P0 	: 영국 다녀왔지 &name3&한테 놀러감ㅋ
+P1 	: &name3&가 영국에 살아?
+P0 	: 아니 나 한국 들어오고 얼마 안돼서 &name3&도 영국으로 유학감ㅠ
+P1 	: 와 너네 유학파구나
+P0 	: 어쩌다보니?ㅋㅋㅋ
+P1 	: 영국은 어때? 소문대로 날씨가 우중충하고 그래?
+P0 	: 내가 1월말인가 2월인가 한겨울에 갔었는데
+P1 	: 그래? 그럼 비 보다는 눈이 엄청 오나?ㅋ
+P0 	: 아니 완전 따듯하더라고ㅋㅋ
+P1 	: 한국보다 기온은 좀 높은가보네
+P0 	: 그런듯? 내가 패딩 버릴뻔했자나 한번을 안입음ㅋ
+P1 	: 그럼 뭐입고 다녔어?
+P0 	: 그냥 티에 맨투맨입거나 니트 입는정도? 온화했어 비도 별로 안오고 해 많이 뜨노 완전 럭키!!

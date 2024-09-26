@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100028465
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P1 	: 녹차카페에는 자주 가시죠?
+P0 	: 자주 가서 눈팅 위주 ㅋ 활동 많이 하세요?
+P1 	: 아뇨. 요즘은 예전같은 분위기가 아니라 저도 눈팅 위주예요
+P0 	: 예전엔 분위기가 많이 달랐나봐요?
+P1 	: 뭔가 원년 멤버분들이 많이 안모여요
+P0 	: 아 전 잘 몰라서 ㅜ
+P1 	: 예전에 녹차카페을 주름 잡던 분들이 계신데 탈퇴 하거나 눈팅만 하시는 분들이 많으세요
+P0 	: 아 왜 분위기가 많이 바뀌었을까요  ㅠㅠ
+P1 	: 좀 저랑 생각이 다른 분들이 많아지신것 같아요 ㅎㅎ
+P0 	: 아 그렇군요 ㅜ 세상의 다양한 사람이 카페에도 ㅜㅜ
+P1 	: 네~ 요즘 특이하신 분 몇분 계시잖아요 ㅎ
+P0 	: 그런가요 ㅎㅎ 글을 띄엄띄엄 봐서 ㅋㅋ
+P1 	: &name3&님을 혹시 아시나요? 저 그분 글 좋아했거든요
+P0 	: 처음 들어봐요 ㅜ
+P1 	: 최근에 들어오셨나봐요. 글 엄청 잘쓰고 따듯함이 느껴지시는 분이셨는데 어느날부터 사라지셨어요

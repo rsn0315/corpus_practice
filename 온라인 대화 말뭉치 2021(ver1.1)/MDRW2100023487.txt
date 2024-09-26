@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100023487
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 곧 주식장 시작한다
+P1 	: ㅎㅎㅎ
+P0 	: 아니다 제대로 보냈구나
+P0 	: 주식장 가쥬앗
+P0 	: 다시 코인 올랐다
+P0 	: 수익금 40만원 복구
+P0 	: 김상
+P1 	: ㅇㅇ? 난 복구못함
+P0 	: 그냥 묵묵히 보고만 있었숴
+P0 	: 수익률 어때?
+P1 	: 안좋음
+P0 	: 주식은 안해?
+P0 	: 사람마다 자기한테 맞는 투자가 있대
+P1 	: ㅇㅇ 귀찮
+P0 	: 주식이랑 잘 맞을수도 있잖아
+P1 	: 안맞아
+P1 	: -80%
+P0 	: 그거 한번이잖아
+P1 	: ㅇㅇ 안해 귀찮
+P0 	: 알겠어

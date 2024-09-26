@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027139
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 지금 가족 분들이랑 같이 사시나요~?
+P1 	: 네 캥거루족이에요!
+P1 	: &name1&은요?
+P0 	: 저도 아직.. 양심없는 캥거루 입니다ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ집안일은 많이도우시나요?
+P0 	: 네 제가 퇴근 시간이 가족 중에서는 빠른 편이라...
+P0 	: 이것저것 돕는다고 돕고는 있지만 보통 엄마가 많이 하시죠 ㅠ
+P1 	: 와 대단하시네요 그래도
+P1 	: 전 청소가 제일 힘들던데
+P0 	: 양심상... 합니다...ㅋㅋㅋㅋㅋ
+P1 	: &name1&은 집안일중에 제일힘든게 뭔가요?
+P0 	: 저는 설거지요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 설거지 힘들죠ㅋㅋㅋㅋ
+P1 	: 가족들이 저녁식사를 같이하는 편이신가봐요!
+P0 	: 엄마랑 둘이서 같이 하는 편이에요 아버지는 늦게 들어오시고 동생은 기숙사 살아서요 ㅎㅎㅎ
+P1 	: 오!! 요리도 하시는 편이신가요?
+P0 	: 요리는 배고파서 못 참을 때만 해요 ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ어머니가 해주시는게
+P1 	: 제일맛있죠
+P1 	: 그럼 제일 잘하는 요리 하나만 알려주세요!
+P0 	: 저는 파스타도 잘 해 먹고
+P0 	: 칼칼한 거 땡길 때는 김치 콩나물국 끓여 먹어요ㅋㅋㅋ
+P1 	: 엥? 요리못하시는줄알았더니 잘하시네요
+P1 	: 대박이네..

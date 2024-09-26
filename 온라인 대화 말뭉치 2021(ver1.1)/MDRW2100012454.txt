@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012454
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회에 가입되신 거 있으신가요?
+P1 	: 아니요 동호회 가입한 건 없어요
+P0 	: 동호회라고 하니깐 좀 거창하네요.
+	  모임은 하시나요?
+	  계모임도 있잖아요.
+P1 	: 아니 계모임은 따로 안 해 봤어요
+P0 	: 아.. 그럼 지인들과 따로 하는 모임은 없으신가요,
+P1 	: 네 없어요 &name1& 님은 따로 모임 하는 거 있으세요
+P0 	: 저는 예전 직장동료와 약 20년째 모임하는 거 2개 있고요.ㅎ
+	  온라인 카페에서 만나 결성된 모임도 있어요.
+P1 	: 모임을 활발하게 하시나 봐요
+P0 	: 네. 그런데 새로운 오프 모임은 잘안만들어지네요.
+P1 	: 코로나도 있구요
+P0 	: 네. 코로나만 잠잠해지면 모임 사람들과 유기견봉사도 해보고 싶어요.
+P1 	: 활동을 많이하시나봐요
+P0 	: 봉사는 늘 마음 속에서 생각하고 있었어요.

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 여행 계획을 짜고 있어
+P0 	: 휴가 받았니
+P1 	: 평일에 이 일간 쉴 수 있어
+P0 	: 부럽다 마니
+P1 	: 귀중한 휴가야
+P0 	: 그래서 어디를 가는데
+P1 	: 에버랜드에 가려고
+P0 	: 에버랜드 좋지
+P1 	: 지금 날씨가 딱 좋아
+P0 	: 에버랜드가면 무얼 제일 많이 하니
+P1 	: 나는 사파리를 꼭 가
+P0 	: 사파리에는 사자가 있어
+P1 	: 곰도 볼 수 있어
+P1 	: 여행가자

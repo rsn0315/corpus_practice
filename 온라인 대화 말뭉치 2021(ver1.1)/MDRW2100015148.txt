@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015148
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 내일 프렌치토스트 만들어 먹어야겠다
+P1 	: 웅 ㅋㅋ 상하기 전에 먹어치워야징ㄹ
+P0 	: 그래 낼 만들어놔라
+P1 	: 오키 ㅎㅎ 아 우유가 있어야 하는데
+P0 	: 우유 사와라
+P1 	: 다떨어졌구만 ㅜㅜ
+P0 	: 그래
+P1 	: 사러갔다와야겠다
+P0 	: 그래 내일 필요하면 오늘사놔야지
+P1 	: 옹옹 ㅋㅋ 프렌치토스트할때 우유 안넣음 맛없당
+P0 	: 그래 사와라
+P1 	: 옹옹~  내일 맛나게만들어줄겜
+P0 	: 그래
+P1 	: 지금 먹고싶다 ㅋ

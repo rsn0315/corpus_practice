@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 디저트 좋아하세요?
+P1 	: 단것은 별로 안 좋아해요
+P1 	: 님은요
+P0 	: 어 저랑 반대네요
+P0 	: 단것 무척 좋아해요
+P1 	: 자주 먹는 디저트가 있나요
+P0 	: 그때그때 달라요
+P0 	: 요샌 레몬마들렌이 맛있어요
+P1 	: 카페에 직접 가서 드시나요?
+P1 	: 아님 빵집서 파나요
+P1 	: 배달앱에서
+P0 	: 배달앱에서 시켜먹어요
+P0 	: 오 근처에 디저트 맛집이 있나봐요
+P1 	: 검색하면 리뷰 좋은 곳이 나와요
+P1 	: ? 아니면 원래 알던 맛집인가요
+P0 	: 별점 찜 높은 곳 시키면 실패는 잘 안하더라고요
+P1 	: 최근에 뭘 주문했어요?
+P0 	: 흑당밀크티를 주문했어요
+P0 	: 와플과 함께요
+P1 	: 크로플로 주문하셨어요
+P1 	: 아님 기본으로?
+P0 	: 와플은 기본이 진리입니다ㅎㅎ
+P0 	: 요새 와플이 너무 변했어요
+P0 	: 크로플은 특히 최악

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100039412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요. 주제가 식음료네요!
+P0 	: 넹 ㅋㅋㅋㅋ 저녁메뉴정하셧나요??
+P1 	: 전 가족들이랑 보쌈 먹기로 했어요! 웽디님은 정하셨나요?
+P0 	: 네! 저는 오리고기먹으려구용 ㅎㅎㅎ
+P1 	: 오리고기 맛있죠. 저희 어머니께서 오리고기에 알레르기가 있어서 전 잘 못 먹지만요! 아, 저희 식사 메뉴에 대해 말해도 되나요?
+P0 	: 아정말요?? 네 ㅋㅋㅋ 저희 주제 식사메뉴에여 ㅋㅋ
+P0 	: 배달음식 저도 참좋아해여! 뭘젤자주드시나여??
+P1 	: 아 진짜요??? 전 다양하게 먹어요! 일식이나 중식이나 화채도 시켜봤어요! &name1&님은 좋아하시는 메뉴 있으신가요?
+P0 	: 우와 화채까지!!
+P0 	: 저는 피자좋아해여~
+P1 	: 피자 좋죠~ 전 사실 스파게티를 추가로 시켜먹는 걸 더 좋아해요!!
+P0 	: 아하! 사이드 시키는쪽이신가봐여~ 저는사이드없이 온리 피자만먹어요 ㅋㅋㅋ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013598
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 점심 드셨나요?
+P1 	: 네 저는 오늘 떡볶이 먹었어요!
+P0 	: 오 떡볶이는 만들어드셨나요!
+P1 	: 아뇨 사먹었어요 왠지 오늘 떡볶이가 먹고싶어서
+P1 	: 홍미단이라고 부산식떡볶이 파는 가게에서 먹었어요!
+P0 	: 오오오 홍미단 처음 들어보는데 맛있을 것 같아요!
+P0 	: 부산식 떡볶이는 뭔가 다른가요?? 궁금하네요
+P1 	: 가래떡으로 만들어요 두꺼운거! 그리고 양념이 꾸덕꾸덕해요
+P0 	: 신기하네요! 저도 근처에 있으면 먹어보고 싶네요ㅋㅋㅋㅋ
+P0 	: 저는 점심으로 버터 간장계란밥을 먹었어요
+P1 	: 와 버터 간장계란밥 맛있었겠다 직접 해드셨나봐요
+P0 	: 네 맞아요 버터 간장계란밥은 만들기 쉽고 맛있어서 자주 만들게 되는 것 같아요ㅋㅋㅋ
+P1 	: 버터는 얼마나 넣어야해요? 전 사실 버터넣어서는 안먹어봤어요
+P0 	: 음... 버터는 티스푼으로 평평하게 한스푼 정도? 많이 안넣어도 돼요
+P0 	: 그리고 버터를 넣어먹으면 풍미가 엄청나서 좋아요...!ㅋㅋㅋ
+P1 	: 꿀팁 감사합니다 조만간 만들어 먹어야겠어요
+P1 	: 주로 식사는 만들어드시는 편이에요?
+P0 	: 네 식사는 주로 만들어 먹는 편이에요!

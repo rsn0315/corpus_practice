@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035363
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 아이들 어떤 반찬 잘 먹나요?
+P1 	: 울 아이들은 고기 좋아해요.
+P0 	: 저희 아이들이랑 비슷하네요. 돈까스 제육볶음 닭갈비 이런거 좋아해요
+P1 	: 울 아이들은 콩 파 오이 이런거 보임 다 빼고 먹어요
+P0 	: ㅎㅎ 야채 안좋아하는 건 다 비슷한가보네요.
+P0 	: 잡곡도 잘 안먹으려고 해서 맨날 흰쌀밥만 먹어요
+P1 	: 울 아이들도요.. 상 한 번 보고 먹을 거 없다고 안 먹는데요 ;;
+P0 	: 반찬 냉장고 들어갔다 와도 안먹고요 ;;
+P1 	: 울 아이들은 중고딩인데
+	  &name1&님 아이는요?
+P0 	: 저희는 아직 초딩이에요
+P0 	: 중고등학생이면 엄청 잘 먹을 것 같은데 그것도 아니군요.. 시간이 약인 줄 알았는데 ㅠ
+P1 	: 좋아하는 것만 엄청 먹어요.
+	  고기 있는 날은 두 공기 먹고
+	  없으면 반 공기도 깨작 거려요
+P0 	: 항상 반찬이 고민이시겠어요
+P1 	: 맨날 고기만 할 수 없어서
+	  안 먹는다 하면 밥 안 줘요.
+	  배고프면 알아서 챙겨 먹더라구요
+P0 	: 그래도 이제 커서 스스로 챙겨먹는다니 기특하네요
+P1 	: 라면 비빔면 이런거 혼자 해먹어요.
+P1 	: 돈있을 땐 치킨도 시켜먹어요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020467
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하세요?
+P1 	: 네 쇼핑 좋죠
+P1 	: 오늘은 두부 압축기를 샀답니다
+P0 	: 오! 두부 압축기면 두부 물을 짜주는건가요?
+P1 	: 그렇죠
+P1 	: 카카오메이커스에서 평이 좋길래 저도 사봤어요 ㅎㅎ
+P0 	: 오옹ㅎㅎ 카카오메이커스 보기 편하고 좋죠
+P1 	: ㅋㅋㅋ맞아요
+P1 	: &name1&님은 최근 구매하신거 있으세요?
+P0 	: 최근에 냉동 야채요!
+P1 	: 그런건 어디서 사요??
+P0 	: 네이버스토어에서 사고있어요
+P1 	: 오.. 저도 사보고싶네요
+P0 	: 생각보다 편하고 만족스러워요
+P0 	: 다만 그린빈이 제 입맛에 안맞아서 다음엔 없는거로 사려구요
+P1 	: 그린빈이 뭔가요?
+P1 	: 완두콩인가...?
+P0 	: 콩껍질로 알고있어요!
+P1 	: 아하
+P1 	: ㅎㅎ그렇게 하나씩 알아가능거죠 취향을

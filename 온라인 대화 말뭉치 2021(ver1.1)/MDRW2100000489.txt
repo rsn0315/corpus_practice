@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음료수 있으세요?
+P1 	: 저는 커피 좋아해요 ㅎ
+	  따로 좋아하는 음료수가 있으세요?
+P0 	: 앗 저두 커피 좋아해요! ㅎㅎ 무슨 커피 좋아하세요?
+P1 	: 저는 스벅에 돌체라떼요 ㅎㅎ
+	  초딩입맛이라 아메는 무슨맛인지 모르겠어요
+P0 	: 앗 ㅎㅎ 저두 돌체라떼 좋아해요!
+P0 	: 저도 아메는 별로 안좋아했었는데 요새는 좋더라구요~
+P1 	: 요즘 다이어트땜에 아메 먹기는 해요 ㅎㅎ
+P0 	: 마자요 ㅎㅎ 다른 음식 생각 안나게 해줘서 좋은것 같아요
+P1 	: 요번에 스벅에 새로나온거 드셔보셨어요?
+P0 	: 앗 아니요! 맛있는것 나왔나요
+P1 	: 아이스크림 블렌딩 콜드브루요 맞지싶어요
+P1 	: 좀 저렴하게 말씀드리면 비싼 더위사냥 맛이요 ㅎㅎ
+P0 	: 앗 ㅋㅋㅋ 무슨 맛인지 알것같네요
+P1 	: 맛있어서 인기가 많은가봐요
+	  친구가 오후에 먹으러갔더니 품절이라고하더래요
+P0 	: 앗,, 담에 오전에 일찍 가봐야겠네요!ㅎㅎ 추천감사합니다 ㅎ

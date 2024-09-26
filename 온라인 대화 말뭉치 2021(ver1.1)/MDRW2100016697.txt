@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016697
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공기청정기 사고싶어요
+P1 	: 저도요! 렌탈은 셍각 안해보셨어요?
+P0 	: 렌탈도 생각은 해봤어요
+P0 	: 정수기도 렌탈해보고 싶구요
+P1 	: 생수 구매해서 드세요?
+P0 	: 네 구매해서 먹어요
+P0 	: 쓰레기 매번 많이나오는게 너무 신경쓰이네요
+P1 	: 저두요! 어느 브랜드거 마시세요?
+P0 	: 저는 ssg시킬때 노브랜드 마셔요
+P1 	: 위시리스트 있으세요??
+P0 	: ssg에도 위시리스트가 있나요?
+P1 	: 앗 아뇨! 평소에요 ㅎㅎ
+P0 	: 지금은 제습기요
+P0 	: &name2&님은요?
+P1 	: 전 반지요! 선호하는 가전제품 브랜드 있으세요?
+P0 	: 삼성꺼 사고싶어요
+P0 	: 반지! 악세사리 좋아하시는구나

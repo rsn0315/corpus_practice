@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100046632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 김밥 좋아하시나요?
+P1 	: 전 오늘 점심으로 김밥을 먹는중입니다 ㅎㅎ
+P0 	: 네 엄청 좋아하죠
+P0 	: 오 저도 갑자기 먹고싶네요ㅎ
+P1 	: 무슨 김밥 좋아하세요?
+P0 	: 저는 참치김밥이랑 김치김밥 좋아합니다
+P0 	: &name2&님은요?
+P1 	: 전 요즘 스팸김밥에 꽂혔어요
+P1 	: {emoji}
+P0 	: 짭쪼롬한게 맛나겠어요
+P0 	: {emoji}
+P1 	: 저도 참치김밥이 제일 좋긴 해요!!
+P0 	: 제일 무난하죠~
+P1 	: 그쵸 ㅎㅎ
+P0 	: 근데 요샌김밥이 너무 비싸요ㅜㅜ
+P1 	: 옛날엔 1500원이었던거같은데
+P0 	: 개당 5000원도 많더라구요
+P1 	: 요즘엔 엄청 비싸졌도라고요 ㅠㅠ
+P0 	: 특별한맛도 아니던데
+P1 	: 그쵸
+P1 	: 그래도 가끔 격하게 먹고싶을 때가 있어서 종종 먹어요 ㅋㅋ
+P0 	: 예전에 1000원 김밥이 그립네요
+	  어릴때 먹던 김밥이 제일 맛있어요~

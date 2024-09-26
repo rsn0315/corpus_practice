@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100044980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하시는 아이스크림 있으세요??
+P0 	: 네! 저 초콜릿이랑 민트초코 바닐라 맛 좋아해요 ㅎㅎ
+P0 	: 민초 좋아하시나요?
+P1 	: 헐 네네네 민초러버에요
+P1 	: 민초과자 먹어보셨어요??
+P0 	: 그 민초쿠키..? abc 먹어봤어요
+P0 	: 되게 많이 나왔던데 다른건 못먹어봤네요 ㅜㅜ
+P1 	: 엇 저두ㅋㅋㅋ abc만 먹어봤어요
+P1 	: 은근 화~~하더라구요!!
+P0 	: 맛있어요 .. 저 그 초코버전도 좋아해요 ㅋㅋ
+P1 	: 저두요ㅋㅋㅋ 양이 적지만.. 쿠앤크맛도 드셔보셨어요?
+P0 	: 쿠앤크맛도 있었어요? 보면 당장 사먹어봐야겠어요..
+P1 	: 그니까요 있더라구요 무조건 맛있을수밖에ㅜㅜ
+P1 	: 민초송이도 먹어보고싶어요ㅠㅠ
+P0 	: 오오 맞아요 ㅜㅜ 진짜 요즘 민초과자 많이 나와서 너무 좋아용
+P1 	: 저두요 오예스도 있고ㅜㅜ 천국이에요
+P0 	: 오예스도 맛날 것 같아요 ㅜㅜ 진짜 민초가 인기라서 행복해요
+P1 	: 맞아요 음료도 나오더라구요!!
+P1 	: 스벅 민트초코칩블렌디드도 맛있어요 ㅎㅎㄹ

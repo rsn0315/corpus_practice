@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007157
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 여행 가고싶다
+P1 	: 나도
+P0 	: 어디 가고싶어?
+P1 	: 제주도랑 스위스
+P0 	: 제주도 진짜 좋어
+P1 	: 오키
+P0 	: 스위스는 나도 가보고 싶어
+P1 	: 오키
+P0 	: 왜?
+P1 	: 경치가 좋고 주위 자연이 좋아서
+P0 	: 경치 정말 좋더라 난 하이킹 해보고 싶어
+P1 	: 난 기차여행 하고 싶어
+P0 	: 유럽 기차여행?
+P1 	: 응
+P0 	: 배낭여행가 보고 싶어

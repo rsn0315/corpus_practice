@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030563
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 중고거래는 당근 마켓만 하고있어요. 그런데 요즘에는 좋은 물건이 안 보이네요.
+P0 	: 저도ㅜ당근
+P1 	: 와, 당근하시는군요! 당근마켓 전에는 중고나라 했었는데 중고나라보다는 당근마켓이 더 편한 것 같아요.
+P0 	: 그쵸
+P0 	: 편하죠
+P1 	: 당근마켓에서는 주로 어떤 거 사고파세요?
+P0 	: 팔기만요?
+P1 	: 네, 저는 주로 책을 팔아요. 자격증 책 같은 거요.
+P0 	: 어떤자격증이요?
+P1 	: 포토샵이나 일러스트레이터 자격증 책을 팔았어요. 시도는 했었는데 저랑은 안 맞더라구요.
+P0 	: 오ㅜ멋지네여
+P1 	: 사는 건 어떤 거 사시나요?
+P0 	: 팔기만요
+P1 	: 그럼 어떤 걸 파시나요?
+P0 	: 공기청정기요 최근에

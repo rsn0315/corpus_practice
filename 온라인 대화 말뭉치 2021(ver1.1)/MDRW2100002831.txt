@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 생각 나신 곳 있으신가요?
+P1 	: 여행지요
+P0 	: 홍콩이요
+P1 	: 홍콩 가고 싶네요
+P0 	: 가보셨나요
+P1 	: 네 좀 오래되긴 했는데
+P0 	: 저도요 ㅋㅋ
+P0 	: 코로나 터지고는 해외는 못가서
+P1 	: 맞아요
+P1 	: 홍콩 그 해변 정말 좋았어요
+P0 	: 아 이름이 길었던 것 같은데
+P1 	: 맞아요 리 무슨 베이던가 ㅋㅋㅋ
+P0 	: 도심에서 좀 먼 곳 ㅋㅋ
+P1 	: 하루종일 해변에 앉아있으면 힐링
+P0 	: 힐링 ㅎㅎ좋죠
+P1 	: 야경도 좋았어요
+P0 	: 홍콩 야경 유명하죠
+P0 	: 저도 좋았어요

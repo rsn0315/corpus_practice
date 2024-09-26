@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100016774
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 문학 좋아하시나요?
+P1 	: 어릴땐 책 많이 읽었어요
+P0 	: 지금은 읽고 계신 책이 있으신가요?
+P1 	: 요즘엔 없어용
+P1 	: 좋아하는 책 있으세요?
+P0 	: 저는 로마인 이야기 좋아해요
+P1 	: 아하~최근엔 바빠서 책 읽을 시간이 없었더니 요즘 어떤 책이 핫한지 잘 몰라요ㅎㅎ
+P0 	: 저두...ㅎㅎ 요즘엔 장르소설만 읽어요ㅠ
+P1 	: 저는 추리소설 좋아해요!
+P1 	: 결말이 눈에 딱 보이는걸 좋아해서
+P1 	: 범인 떡밥 딱딱 나오는게 좋더라구요
+P0 	: 저는 떡밥을 잘 못 찾아가는데 &name2&님은 추리력이 좋으신가봐여...!
+P1 	: 추리력이라기보단 그냥 읽다보면 술술술 풀려나가는게 재밌더라구요!!
+P0 	: 혹시 추천해주실 작품이 있으실까요? 듣다 보니 관심이 생기네요!
+P1 	: 제일 유명한건 용의자x의 헌신!
+P1 	: 영화로도 나왔어요!

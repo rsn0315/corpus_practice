@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000409
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 요즘 코로나 때문에 여행을 못가고있는데 여행가고싶은 곳 있으세요?
+P0 	: 유럽가보고 싶어요
+P1 	: 저는 한 번도 해외여행 가본 적이 없어서 만약에 가게 된다면 소소하게 일본에 갈 거 같아요
+P0 	: 저는 방사능이 무서워 일본은 아직요
+P1 	: 아...방사능ㅜㅜ 맞아요 방사능이 문제긴 하죠ㅜ
+P1 	: 유럽 중에서 어떤 곳으로 가고싶어요?
+P0 	: 스페인이 좋다고 하더라구요
+P1 	: 스페인도 좋져ㅋㅋ스페인에 볼거리도 많고 먹을거리도 많다고 들었어요
+P0 	: 네 축제도 좋구
+P1 	: 코로나 이전에 여행가보신 곳 있으세요?
+P0 	: 호주 괜찮았아요
+P1 	: 호주에 볼거리 추천해주실 수 있어요?
+P0 	: 오페라하우스 앞에 식당 좋구요
+P0 	: 코알라랑 캥거루 직접 보면 좋아요
+P1 	: 오페라하우스 앞에 식당!! 뷰가 엄청 멋있겠어요
+P1 	: 혹시 쿼카도 보셨나요?
+P0 	: 그게 머죠?

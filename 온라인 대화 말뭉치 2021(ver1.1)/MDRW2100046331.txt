@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: ?
+P1 	: 안녕하세요! 
+P1 	: 백신 다 맞으셨나요 ? 
+P0 	: 네 저는 2차까지 접종했습니다!!
+P1 	: 오
+P1 	: 아프진 않으셨어요?
+P0 	: 2차는 맞고 나서 몸살이 왔어요ㅠㅠ
+P1 	: 그쵸 많이들 그렇다네요 ㅠㅠ
+P1 	: 전 1차밖에 안 맞았는데도 이틀 앓아누웠는데
+P1 	: 2차는 벌써 무서워요
+P0 	: 너무 걱정마세요!!
+P0 	: 한 이틀이면 금방 괜찮더라구요
+P1 	: ㅋㅋㅋㅋㅋㅋ 이틀 너무 길잖아요 ㅠ ㅋㅋㅋ
+P1 	: 부스터샷 맞을 수 있으면 맞으실 거예요?
+P0 	: ㅋㅋㅋㅋㅋ그건그래여
+P0 	: 음 그거는 생각을 좀 해봐야겠어요
+P0 	: &name2&님은 맞으실건가요??
+P1 	: 전
+P1 	: 1차보다 더 아프다는 2차가
+P1 	: 정말 아프면
+P1 	: 부스터샷 쳐다도 안 볼 거예요.. 

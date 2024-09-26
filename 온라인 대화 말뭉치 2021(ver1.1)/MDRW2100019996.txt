@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019996
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 가끔이요
+P0 	: 전 홈트요
+P1 	: 매일 하세요?
+P0 	: 네 매일
+P1 	: 전 조깅정도만 해요
+P0 	: 그래도 힘들죠?
+P1 	: 네 날씨 안좋으면 하기도 어렵구요
+P0 	: 습해서싫어요
+P1 	: 맞아요 끈적해지고요
+P0 	: 네 샤워해도 영
+P1 	: 숨이 더 차는거 같기도 하구요
+P0 	: 맞아여

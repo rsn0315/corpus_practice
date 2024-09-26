@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100047381
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 &name1&님 ㅎㅎ 여행 좋아하시나요?
+P0 	: 네 님은요?
+P1 	: 저도 좋아는 하는데 갈 기회가 없어서 얘기만 들어요 ㅋㅋㅋ
+P1 	: &name1&님은 여행 많이 다니셨었나요?
+P0 	: 많이는 못가봤어요
+P1 	: 코로나 때문에 여행도 이제 남 얘기라 속상해요..ㅠ
+P0 	: 코로나 끝나면 어디가고 싶으세요?
+P1 	: 저는 휴양지랑 스위스에 가보고 싶어요
+P1 	: 옥돔님은요?
+P0 	: 저도 스위스 가고싶어요ㅠㅠ
+P1 	: 다녀온 친구가 너무너무 좋았다고 입이 마르도록 칭찬을 해서 꼭 가고 싶어요 ㅋㅋㅋ
+P1 	: 그냥 어딜 둘러봐도 그림이래요
+P0 	: 음식은 뭐가 유명한가요?
+P1 	: 글쎄요 저도 가본게 아니라 잘 모르겠어요 워낙 저도 친구도 풍경을 좋아해서 동영상이랑 사진으로 풍경만 잔뜩 보여주고 감탄하고 그랬어요ㅋㅋㅋ 근데 물가가 비싸다고 슈퍼가서 재료 사서 먹었다고 했었어요
+P0 	: 아 물가가 비싸군요

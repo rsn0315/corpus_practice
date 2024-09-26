@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100044672
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 먹거리는 오아시스 자주 애용하고
+	  나머지는 여러군데 막 사나봐요.
+P0 	: 오아시스는 쇼핑몰이름이에요??
+P1 	: 넵.
+	  한살림, 초록마을, 마켓컬리 같은 곳이에요.
+P0 	: 아! 마켓컬리는 쓰는데 오아시스는 생소하네요!
+P1 	: 네. 새벽배송되는 곳이고 쿠폰을 줘서 종종 이용하고 있어요.
+P0 	: 전 지방이라 될지가 의문이네요.. ㅜㅜ 컬리도 안되기 때문에 ㅎㅎ
+P1 	: 아.. 택배배송은 될 거에요.
+	  충청권은 가능하다고 하더라구요.
+P0 	: 전 더더더 아랫지방이기 때문에 ㅜㅜ ㅋㅋㅋ 쿠팡이 제일 만만합니다
+P1 	: 쿠팡은 나쁜 기업이나
+	  진짜 대단한거 같아요.
+P0 	: 맞아요... 나쁜기업인건알지만 쓰게되네요...
+P1 	: 저도 로켓배송 애용합니다.
+	  오늘도 양말건조대 배송왔어요.
+P0 	: 저는 오늘 폰충전기 선이 왔어요 ㅋㅋ
+P1 	: 쿠팡이 쇼핑 배송문화의 선구자 같아요.
+P0 	: 맞아요 정말 큰적자로 만든 배송시스템이 온 나라를장악했어요 ㄷㄷ
+P1 	: 대기업들이 따라하고 있잖아요.
+	  이번에 크게 불도 났는데 그닥 타격을 입지도 않은 건 같구요.

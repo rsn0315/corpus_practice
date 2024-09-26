@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003369
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 오늘 온라인으로 쌀을 샀어요
+P0 	: 쌀도 온라인이 참 저렴한것 같아요 ㅎㅎ 저는 쌀은 시댁에서 농사지으셔서 쌀사는부담은 없는데 친구들보면 그 돈도 무시 못하더라구요
+P1 	: 와~~좋으시겠어요
+P0 	: 네~  그건 진짜 좋아요 쌀도 어마어마하게 많이 먹는것 같아요ㅠ
+P1 	: 쌀 안셔도 되셔서 돈 많이 굳으실것 같아요
+P0 	: 네ㅎ대신 다른데 돈을 많이 쓰는것 같아요. 전부다 먹성들이 좋아서ㅎㅎ
+P1 	: 애들은 많이 먹어야죠^^
+P0 	: 어른도 많이 먹는게 함정ㅎㅎ 식비도 엄청 드는것 같아요. 사도사도 끝없는 쇼핑
+P1 	: 온라인 쇼핑 많이 하세요?
+P0 	: 네. 저는 거의 70.80프로는 다온라인 구매같아요.
+P1 	: 저도요 거의 90프로 ㅎ
+P0 	: 요즘은 식자재도 쿠팡이나 마켓컬리 있으니 좋더라구요
+P1 	: 네 맞아요 집앞까지 배달되서 너무 편해요

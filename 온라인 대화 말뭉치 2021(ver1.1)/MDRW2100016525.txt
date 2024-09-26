@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨어요??
+P1 	: 아뇽 &name1&님은요
+P0 	: 저도 미혼이에요ㅎㅎ
+P1 	: 생각있으신가요
+P0 	: 연애는 진행중이세요?
+P0 	: 전 아직ㅋㅋ
+P1 	: 연애...뭐하는둥마는둥 ㅜㅋㅋㅋㅋ
+P1 	: 아직 어리세요?
+P0 	: 어후.. 많아요ㅋㅋ
+P1 	: ㅋㅋㅋ 걍 생각이 없으신거구낭
+P1 	: 요즘 다그렇죠 ㅠㅠ 힘들죠
+P0 	: ㅋㅋ연애를 하는둥마는둥 하시는거 어떤거예요? ㅋㅋ
+P0 	: 진짜 좋은 인연 찾기가 너무 어렵고ㅎㅎ
+P1 	: 위태롭습니다 ㅋㅋㅋㅋ
+P1 	: &name1&님은 연애 하세요?
+P0 	: 위태롭다니ㅜ 뭐든 &name2&님이 행복한 쪽으로 해결되길 바랄게요!!!
+P0 	: 전 아뇨ㅋㅋ
+P1 	: 넹 ㅋㅋㅋ 연애할 사람이 없으신가요
+P0 	: 네ㅋㅋ 눈씻고 찾아봐도ㅋㅋ
+P1 	: 시간이갈수록 없더라구요

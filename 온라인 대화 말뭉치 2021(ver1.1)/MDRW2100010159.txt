@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010159
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 점심 챙겨 드셨나요?
+P1 	: 안녕하세요, 족발과 막국수 먹었어요!
+P0 	: 맛있는 거 드셨네요!
+P0 	: 외식이랑 배달 중에 어떻게 드셨나요?
+P1 	: 배달시켜서 먹었어요ㅎㅎ
+P0 	: 배달이 편하죠ㅎㅎ
+P0 	: 배달음식 자주드시나요?
+P1 	: 요새는 좀 자주 시켜먹어요!
+P0 	: 외식을 못 하니까 더 시켜먹게 되는 거 같아요
+P0 	: 어떤 음식 자주 드세요?
+P1 	: 요즘은 마라탕이요!
+P0 	: 저도 마라탕 자주 먹어요! 너무 맛있더라고요
+P0 	: 마라탕에 들어가는 것 중에 어떤 재료 제일 좋아하시나요?
+P1 	: 저는 숙주랑 고기를 제잉 좋아해요! &name1&님은요?
+P0 	: 저는 요즘 고기보다 두부에 빠져서 건두부랑 푸주 추가해서 먹어요
+P0 	: 건두부랑 푸주 좋아하시나요?
+P1 	: 그 두 개도 좋아해요! 소스 찍어먹어도 너무 맛있죠ㅠ
+P0 	: 어떤 소스 좋아하세요?
+P1 	: 저는 땅콩소스를 베이스로 자주 먹어요!

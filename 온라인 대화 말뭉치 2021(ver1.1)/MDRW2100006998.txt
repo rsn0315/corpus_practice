@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 된장지깨?
+P0 	: 그래
+P1 	: 된장찌개맛있나 난별로던데
+P0 	: 맛있게 먹었잖아
+P1 	: 그리고 먹은거 청국장임
+P0 	: 그런가
+P1 	: 청국장은 괜찮지
+P0 	: 좀 출출한데 데워먹을까
+P1 	: 야식시켜라
+P1 	: 월요일까지 휴가인데, 야식정도는 괜찮잖아?
+P0 	: 됐다 돈아껴라
+P1 	: 갈땐가더라도?
+P0 	: 살찐다
+P1 	: 딱 야식먹기 좋은날씨구만
+P0 	: 술좀 많이 먹지마라

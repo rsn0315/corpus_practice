@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100045140
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁에 뭐 드셨어요?
+P1 	: 비빔밥 먹었어요 ! 집에 나물반찬이 많았거든요
+P0 	: 헐 비빔밥 땡기네요
+P0 	: 계단 후라이도 하셨나요?
+P1 	: 후라이 없는 비빔밤은 용서할 수 없어요
+P0 	: 맞는 말이네요
+P0 	: 그런데 오늘 제 아침은 용서할 수 없는 비빔밥이 될 예정입니다
+P1 	: &name1&님은 뭘 드셨나요 ?
+P1 	: 앗
+P0 	: 집에 계란은 없는데 비빔밥은 먹고 싶거든요
+P0 	: 당신의 도움으로 이 비빔밥을 용서할 수 있습니다 !
+P0 	: 불우한 이웃을 위해 천원을 기부하시겠나요?
+P1 	: 그것은 나물밥일 뿐이에요
+P0 	: 아니다...아니다 비빔밥이다
+P0 	: 아 고추장도 없는 것 같아요
+P1 	: 하지만 나물밥도 몸에 좋으니 그냥 드셔도 될것 같아요
+P0 	: 나물 밥이예요...
+P1 	: 산의 정기를 잔뜩 받은 나물들을 먹는거잖아요
+P0 	: 산타령 그만하세요
+P0 	: 나중에 자연인으로 초절임만 먹고 살것 같잖아요
+P1 	: 힝
+P1 	: 제 꿈은 태백산의 터줏대감인걸요
+P0 	: 터줏대감은 뭐 먹고 사는데요?
+P1 	: 나물이요 !
+P0 	: 고기가 없잖아요
+P1 	: 고기가 보이면 먹겠죠 !
+P0 	: 하지만 치킨이 넚잖아요

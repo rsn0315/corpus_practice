@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100045960
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 아침맛있게드셨나요?
+P1 	: 안녕하세요
+P1 	: 아직요ㅜ
+P0 	: 아하..
+P0 	: 아침 드실 예정은 있으신가요?
+P1 	: ㅎㅎㅎ점심전에..
+P0 	: 앗 ... ㅠㅠ
+P0 	: 저는 지금 찐감자 한개 꺼냈어요
+P1 	: 소금찍으시나요
+P0 	: 아눀ㅋㅋㅋㅋㅋ
+P0 	: 감자를 찌면서 간을 해둬서
+P0 	: 그냥 먹어요 ㅋㅋㅋㅋ
+P1 	: ㅎㅎㅎㅎ맛있겠어오ㅡ
+P0 	: 넹넹 ㅋㅋㅋㅋㅋ 맛나게 먹고있어요
+P0 	: 요즘 배달음식은
+P0 	: 어떤거 선호하세요?
+P1 	: 전떡볶이좋아해요{emoji:❤}
+P0 	: 와 떡볶이!!
+P0 	: 어디서 어떻게 시켜드세요??
+P0 	: 떡볶이 요즘엔 워낙 다양해져서 ㅋㅋㅋㅋ
+P1 	: 저는청년다방이요~~드셔보셨나요
+P0 	: 오 아뇨
+P0 	: 집근처에 없어서 안먹어봤어요
+P0 	: 거기는 뭐가맛있나요??
+P1 	: 거기는차돌떡볶이맛있어요{emoji:❤}
+P1 	: 차돌떡볶이 유명해용

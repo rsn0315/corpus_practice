@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100031201
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 베트남 여행은 어땠어요
+P1 	: 좋은 경험이었어요
+P0 	: 베트남에서 어디 가셨어요
+P1 	: 호지민이랑 하노이를 갔어요
+P0 	: 거기는대 도시인가요
+P1 	: 내 오토바이랑 차가 많아요
+P0 	: 하노이가 수도인가요
+P1 	: 맞아요 하노이 있다
+P1 	: 하노이 맞아요
+P0 	: 하노이는 어땟나요
+P1 	: 11월에 가서 쌀쌀했어요
+P0 	: 하노이는 겨울이 있나요
+P1 	: 4계절이 있어요
+P1 	: 단 건기와 우기로 나뉘어요
+P0 	: 한국이랑 비슷하군요
+P0 	: 지금은 우기이지요?
+P1 	: 네 매일비가내려요
+P1 	: 여행 가고 싶은 나라가 어디예요

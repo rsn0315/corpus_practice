@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006817
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 시사(정치, 경제, 사회)>국세청 근로장려금 신청 접수
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요. 근로장려금 신청하셨나요?
+P0 	: 저는대상자가아니에용ㅠ
+P1 	: 와! 그렇군요!!
+P1 	: 홍보물에서 대상자가 아닌것에 자부심을 느끼라고 하던데요...ㅎㅎ
+P0 	: 헝..
+P0 	: ㅜ
+P1 	: 아니면 이의신청하면 되지않나요??
+P0 	: 그런가요?
+P1 	: 저도 잘 모르겠지만 본 것 같아요
+P0 	: ㅎㅎ그렇군요 신청해보신적있으세요?
+P1 	: 아뇽!
+P1 	: 전 대상자라서..ㅋㅋ
+P0 	: ㅎㅎ많이나오나요
+P1 	: 개인당25만원입니다
+P0 	: 오왕ㅎㅎ
+P1 	: 제가 재난지원금으로 착각했네요!ㅋㅋ
+P0 	: ?재난지원금아닌가요

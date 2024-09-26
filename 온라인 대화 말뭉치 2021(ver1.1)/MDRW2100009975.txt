@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009975
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달음식 자주 시켜드시나요?
+P0 	: &name2&님은요?
+P0 	: 자주 시켜먹진 않아요
+P1 	: 저도 시켜먹기 보다는 가서 먹고 오는 걸 선호하는 데 요즘은 어쩔 수 없이 시켜먹어요ㅠ
+P0 	: 그쵸 코로나 때문에 더 자주 시켜먹게 되죠
+P0 	: 그래서 배달음식 먹으면 쓰레기가 엄청 많이 나오더라고요
+P1 	: 치우는 것도 일이긴 한데 어쩔 수 없어서요ㅠㅠ
+P0 	: 맞아요
+P0 	: 어떤 거 자주 시켜드세요?
+P1 	: 요즘은 족발이랑 막국수요!
+P0 	: 오 막국수 맛있죠
+P1 	: 날씨가 꿀꿀해서 그런지 새콤한게 당기더라구요ㅎㅎ 마침 배달도 가능하고요
+P0 	: ㅋㅋ그쵸 디저트 같은 건 좋아하세요?
+P1 	: 디저트 정말 좋아해요ㅎㅎ 인스타에서 유행하는 카페도 찾아다녀봤어요
+P0 	: 인스타 감성인 카페들은 너무 비싸지 않나요? 맛있어도 너무 비싸면 별로라서 저는 자주 못 가겠더라고요
+P1 	: 다녀보니 &name1&님 말씀대로 동네 디저트 집이 훨씬 낫다는 결론이 나왔어요...인스타는 그저 감성만 있는걸로
+P0 	: ㅋㅋㅋㅋㅌ맞아요
+P0 	: 이제 저녁 먹을 때가 되니까 배고프네요
+P0 	: 저녁은 뭐 드실 건가요?
+P1 	: 장칼국수가 당겨서 배달 앱 찾아보고 있어요ㅋㅋ

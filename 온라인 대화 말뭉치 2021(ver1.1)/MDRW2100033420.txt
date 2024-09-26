@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100033420
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 독서 좋아하세요?
+P1 	: 네네 요즘은 잘 못 읽었어요
+P1 	: 자주 보세요?
+P0 	: 앗 저도 잘 못 읽었어요ㅋㅋㅋ 어떤 분야 좋아하세요?
+P1 	: 저는 에세이 자기계발서요
+P1 	: 최근엔 소설 한강, 채식주의자 읽었어요
+P0 	: 와 둘 다 되게 유명해서 내용이 궁금했는데 재밌게 읽으셨나요?
+P1 	: 한강 작가가 좀 호불호가 있는거같아요
+P1 	: 채식주의자도 상 받지않았다면 안봤울거에요 좀 잔인하고 기괴해요ㅠㅠ
+P0 	: 아 잔인하고 기괴해요? 따뜻한 느낌인 줄 알았는데 아니었네요ㅜㅜ
+P0 	: 요즘 읽고 싶은 책 있으신가요?
+P1 	: 네네
+P1 	: 아 달러구트 꿈 백화점 궁금해요
+P0 	: 아 그것도 진짜 재밌을 것 같던데
+P0 	: 이번 주말에 도서관에서 책 빌려봐야겠어요
+P0 	: 도서관 이용하시나요?
+P1 	: 아 코로나 이후로는 안갔어요
+P1 	: 저는 밀리의 서재 앱으로 봅니다
+P1 	: 직접 빌려보세요? 멋지다
+P0 	: 와 그 앱 되게 궁금했는데
+P0 	: 써보니까 어떠신가요?
+P1 	: 좋은데 종이책 잀는거랑 달라요ㅠㅠ
+P1 	: 난독이 온달까 ㅋㅋㅋㅋ
+P1 	: 대충보게 되어요
+P0 	: 그쵸ㅜㅜ 아무래도 모바일이 그런 게 아쉬운 것 같아요

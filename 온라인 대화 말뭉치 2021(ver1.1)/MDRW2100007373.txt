@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P0 	: 이상형이 어떻게 되세요?
+P1 	: 센스있는 사람이요! &name1&님은요?
+P0 	: 음 저는 귀엽고 밝은 사람이요!
+P1 	: 근데 이상형은 진짜 이상형일 뿐인 것 같아요 ㅋㅋ
+P0 	: 아 그렇죠 ㅋㅋ 자기한테 맞는 사람이 좋죠
+P1 	: 그게 제일 어렵죠ㅎㅎ
+P0 	: 네 맞아요ㅎㅎ
+P0 	: 연애중이세요?
+P1 	: 시국이 시국인지라 쉬고(?) 있어요ㅎㅎ
+P1 	: 혼자 노는거 좋아하는 편이기도 하고요ㅎㅎ 하산님은요?
+P0 	: 저도 연애는 안하고 있어요ㅎㅎ
+P0 	: 소개팅은 하시나요
+P1 	: 자만추 아시나요 ㅎㅎ 어색해서 소개팅은 못하겠더라구요ㅠㅠ
+P1 	: 그쵸 근데 소개팅 시켜준대서 자만추라고 하면 구박하잖아요
+P0 	: 나쁜 사람들이네요
+P1 	: ㅋㅋㅋㅋ지방에서 공기업 다니시면 소개팅 많이 들어오지 않아요?
+P0 	: 뭐 보통보통ㅎㅎ
+P0 	: 저는 서울 살아요

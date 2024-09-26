@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 피자 파파존스 좋아해요~ &name2&님은요?
+P1 	: 저는 도미노요!
+P1 	: 메뉴는 어떤거 좋아하세요?
+P0 	: 슈퍼파파스 그게 무난하던데요
+P1 	: 그렇구나 파인애플피자 좋아하세요?
+P0 	: 아 네 그거 저는 맛있던데 호불호 갈린다면서요
+P1 	: 네 저는 불호라서요
+P1 	: 전 디저트 같아서 식사로 애매하다고 느껴요
+P0 	: 아.. 무슨 피자 좋아하세요?
+P1 	: 저는 불고기피자 쉬림프피자 좋아해요
+P1 	: 한식입맛이라 그런가봐요
+P0 	: 야채피자 종류 드셔보셨어요? 이거 은근 맛있던데요
+P1 	: 아니요! 어떤맛이예요?
+P0 	: 깔끔한 맛이었어요 함 드셔보세요
+P1 	: 추천감사해요 먹어볼게요
+P0 	: 네 입맛에 맞으셨음 좋겠어요

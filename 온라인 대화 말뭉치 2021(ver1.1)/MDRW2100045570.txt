@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100045570
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 정답 볶음밥!
+P1 	: 맞나요?
+P0 	: 넵
+P0 	: 대박
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ맞췄다~!
+P0 	: ㅋㅋ
+P1 	: 이번엔 제가 저녁으로 뭐 먹었나 맞춰보세요
+P0 	: 매운가요?
+P1 	: 네 매운 음식이예요
+P0 	: 면인가요?
+P1 	: 아니요 면 요리 아닙니다ㅎㅎ
+P0 	: 밥인가요?
+P1 	: 네 정확히는 쌀과 곁들여 먹어요
+P0 	: 볶았나요?
+P1 	: 아니요! 볶음 요리 아니랍니다
+P0 	: 어렵네요ㅜ

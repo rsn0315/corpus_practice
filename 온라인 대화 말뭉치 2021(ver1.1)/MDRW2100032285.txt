@@ -1,0 +1,73 @@
+# FILE DATA
+ID : MDRW2100032285
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 점심은 뭐 먹을래?
+P0 	: 우리 점심 이미 먹었어
+P0 	: 사케동 먹었잖아~
+P1 	: 답이 너무 느려요%%%
+P0 	: 저도 제 일상이 있는걸요
+P1 	: 저녁은 뭐 먹을거야
+P1 	: 양식 한식 중식
+P0 	: 저녁은 생각 좀 해봐야 해
+P0 	: 날씨도
+P0 	: 어두컴컴
+P0 	: 우중충한데
+P0 	: 밥이라도 산뜻한 거 먹자
+P1 	: 이런 날씨 좋아하잖아 &name1&이
+P0 	: 그래도 날이 좀 시원해져서
+P0 	: 좋네
+P1 	: 여름이 다 갔어
+P1 	: 근데 왜 모기가 있지
+P0 	: 원래
+P0 	: 한창 더울 때보다
+P0 	: 날씨 좀 풀이면 많아지잖아
+P1 	: 어젯밤에 엄청 커다란 모기가 내 발을 물었어
+P0 	: 풀리면
+P0 	: 간지러웠어
+P1 	: 간지러웠어~~~
+P1 	: 버물리 발랐어
+P1 	: 내일은 온도가 어떠려나
+P1 	: 요즘 출퇴근할 때 반팔 입어도 더워?
+P0 	: 아침에 계단 오르면 땀나는데
+P0 	: 그냥 걸어다니면 괜찮아
+P1 	: 아아~~ 땀 안 나고 시원한 정도야
+P0 	: 응 요즘은 에어컨도 안틀고 있고
+P0 	: 미세먼지도 없이 날씨도 맑아서
+P0 	: 창문 열어놓고 있는데
+P0 	: 창문만 열어도 시원해서 너무 좋아~
+P1 	: 오옹 이런 날 야외에서 맥주 마셔야하는데
+P1 	: 코로나라 아쉽다~~

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015139
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 밖에 나가서 운동하면 되지 웬 홈트
+P0 	: 코로나랑 장마때문에 밖에서 운동하기 힘들다
+P1 	: 마스크 쓰고 하면 된다
+P0 	: 그렇긴하지만 답답행~
+P1 	: 그래 그것도 맞다
+P0 	: ㅋㅋ 유튜브 틀어서 홈트 해도 재밌음
+P1 	: 그래 춤추면서 운동하는 거 좋더라
+P0 	: 맞당 ㅋㅋ 그거 저스트댄스~
+P1 	: 좀 있다가 같이 하자
+P0 	: 구래용 ㅋㅋㅋ 잼난 노래로 틀어줄게
+P1 	: 은근히 운동 주더라
+P1 	: 은근히 운동이 되더라
+P0 	: 맞당 ㅋㅋ 유산소 운동 굿
+P1 	: 그래 유산소 운동이 좋다
+P0 	: 웅웅 관절에 무리안가고 좋다
+P0 	: 요새 건강한거 많이 먹으니까 피부가 좋아지는듯

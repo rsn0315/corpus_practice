@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003706
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 비오네요
+P1 	: 네 공부하시는게 있나요?
+P0 	: 학교가야지 이어할수있어요 대학원요
+P1 	: 아 전 그냥 재미삼아 한국사 시험공부하고 있어요
+P0 	: 한국사 좋죠 보통공무원준비할때공부하죠 전 병원서 일하고싶었어요
+P1 	: 네 주변에 병원에 일하는 사람이 있는데 럼청 힘들어하네요
+P0 	: 죽을맛일꺼예요 특히 시립병원은요 싸니까 엄청몰리거든요 일급따고 수련받고 대학원가고 학위따고 수련받고 병원서 일하고 싶었는데
+P1 	: 공부도 힘들고 일도 힘들고 여러가지로 그럴거같아요
+P0 	: 전  정신증신경증 환자시설서 실습하다 제가망가졌어요
+P1 	: 아 스트레스가 심하셨나봐요
+P0 	: 같이살아야하니 약을드시더라도 생각자체가 다른면이 많아요 그게힘들죠

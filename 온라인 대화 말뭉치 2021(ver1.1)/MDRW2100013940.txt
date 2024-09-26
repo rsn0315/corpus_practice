@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013940
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 좀 다니시나요?
+P1 	: 아녀 코로나 때문에
+P1 	: 어딜 가기가 좀..
+P0 	: 하긴 그렇죠. 코로나 끝나면 어디 가고 싶으세요
+P1 	: 전 제주도요
+P1 	: 원ㄴ래 코로나 전에 가려고 햇는ㄷ0
+P1 	: 코로나 터져서 못 갔거든요 ㅠㅠ
+P0 	: 아아 전 이번에 백신맞고 가려고요. 함덕 주변으로
+P1 	: 와.. 진짜 부러워요
+P0 	: 2박 3일로ㅎㅎ 원래 제주도 어디 다녀오려고 하셧나요
+P1 	: 저는 아는 분이 계셔서
+P1 	: 그쪽으로 그냥 놀러 갔다오려고 햇거든요 ㅠ
+P0 	: 오 그렇군요 외국은 어디 가뷰셨나요
+P1 	: 일본 이 정도 밨에 못 가봣어요
+P1 	: 원래 여행가도 거의
+P1 	: 호캉스 같은걸 좋아해서
+P0 	: 전 호캉스 안해뵜는데
+P0 	: 혹시 추천해주실만한 호텔 있나요
+P1 	: 제가 추천해드릴 정도로 호텔잘알은 아니어서 ㅠㅠㅠㅋㅋㅋ
+P0 	: 일본에 갔을 때 뭐가 젤 맛있었나요
+P1 	: 음식이 그냥 거의 제 입맛에 안 맞았어요 ㅠㅠ 라멘도 생각보다 느끼하구..
+P1 	: 그냥 한국 돌아다니는게 낫겟더라고요 ㅋㅋㅋㅋ
+P0 	: 오 그러셨구나 일본 어디가셧나요
+P1 	: 도쿄요 처음 가는거라 그냥 메이저한 곳 가는게 낫겠더라구요 ㅋㅋㅋ

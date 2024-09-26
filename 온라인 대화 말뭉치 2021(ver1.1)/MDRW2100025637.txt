@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100025637
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 점심 드셨나요?
+P1 	: 네 잔치국수 먹었습니다
+P0 	: 면 좋아하시나요?
+P1 	: 네 근데 면보다는 밥이 더 좋아요 ㅋㅋ
+P0 	: 저도 밥이 속이 더 편해서 좋아요
+P0 	: 볶음밥은 좋아하시나요? 저는 자주해먹어요
+P1 	: ㅋㅋ김치볶음밥 좋아하긴하는데 전 거의 시켜먹는 편이라서 잘 안먹어요 ㅜ뭔가 볶음밥 시켜먹기엔 돈이 아깝더라구요
+P0 	: 배달음식 자주 드세요?
+P1 	: 거의 일주일에 다섯번은 먹는 것 같아요 ㅠ
+P0 	: 어떤거 자주드시나요?
+P1 	: 거의 족발이나 치킨이요 ㅋㅋ
+P0 	: 남긴음식 다시먹기좋아서 그런가요?
+P1 	: 아뇨 단지 그냥 좋아서요 ㅋㅋㄱ
+P0 	: 취향이시구나ㅋㅋㅋㅋ고기좋아하나보네요
+P1 	: ㅋㅋㅋㄱ네 이러다 병 생길까봐 걱정이에요

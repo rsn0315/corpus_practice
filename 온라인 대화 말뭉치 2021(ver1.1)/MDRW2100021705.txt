@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021705
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하세요?
+P1 	: 온라인 쇼핑 많이하죠..
+P0 	: 최근에 뭐 사셨나요?
+P1 	: 가장 기억나는건 qcy라는 가성비 이어폰이요
+P0 	: 핸드폰에 사용하는 이어폰요?
+P1 	: 네.. 무선이어폰 안쓰시나요?
+P0 	: 아~ 써요. 에어팟.. qcy도 괜찮은가봐요?
+P1 	: 에어팟은 넘사죠.. qcy는 초 싸구려라..
+P0 	: 그래도 무선 이어폰 기능만 되면 그만인데요^^
+P1 	: 그런 아이뽕 쓰시겟네요?
+P0 	: 아뇨 갤럭시 예요. 버즈는 안예뻐서요 ㅎㅎ
+P1 	: 갤럭시는 언제사셨어요?
+P0 	: 작년 11월에 샀어요 제트플립입니다^^
+P1 	: 접는거여?
+P0 	: 네네~ 위아래로 접어서 마치 화장품 케이스 같은거요
+P1 	: 그거 안불편한가요? 저같은 노약자는 힘들어 보이던데...
+P0 	: 불편한건 모르겠고 아직은 액정이 좀 약하긴 해요

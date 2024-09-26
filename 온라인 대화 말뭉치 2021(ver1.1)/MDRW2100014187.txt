@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100014187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동은 하고계세요?
+P1 	: 네 매일 하려고 노력은 하는데
+	  지키기 힘드네요ㅠ
+P1 	: 운동 좋아하세요?
+P0 	: 운동 좋아하는 편입니다
+P0 	: 헬스 좀 했어요
+P1 	: 저도 pt 6개월정도 했었는데 
+	  비싸도 확실히 배우면서 운동하니까 좋더라구요
+P0 	: 그렇죠. 자세도 도움 되고 알아서 최적의 운동을 골라주잖아요
+P0 	: 중량운동 해보셨나요?
+P1 	: 중량운동이 데드리프트 이런거 말씀하시는거 맞나요?
+P0 	: 네 무거운 중량운동
+P1 	: 저는 유산소보다 중량운동하는게 더 좋더라구요
+P1 	: 근육 생기면 너무 신기하더라구요
+P1 	: 그리고 다음날 근육통 안 오면 제대로 안한거같고 그렇더라구요ㅋㅋ
+P0 	: 맞아요ㅋㅋㅋ 계단내려갈때 멀쩡하게 걸어가면 뭔가 잘못한것같고
+P1 	: 마자요ㅋㅋㅋ계단 내려갈때 후들후들 거려야 뿌듯하죠ㅋㅋ
+P1 	: 웃을때 배 땡기고ㅋㅋ
+P0 	: 그러다가 헬스 중독되는거 아닐까요ㅋㅋ
+P0 	: 저는 그게 기분 좋아서 헬스 자주했거든요
+P1 	: 저두요 하고나면 개운하기도 하고 해서 하면  좋은데
+	  하러가기까지가 힘든거같아요ㅋㅋ
+P0 	: 샤워 딱 하면 진짜 최곤데ㅋㅋ
+P0 	: 무조건 집 근처로 해야 그나마 가죠
+P1 	: 마자요ㅋㅋㅋ
+	  아니면 차라리 회사 근처로해서 일 끝나고 바로 가는게 나을거같아요

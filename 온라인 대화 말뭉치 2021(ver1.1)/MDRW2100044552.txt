@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100044552
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 산건 없는데
+P1 	: 아이패드 사고싶어요
+P0 	: 헉 프로요?
+P1 	: 네 프로나 에어 살까 보고 있어요
+P0 	: 좋당 원래도 태블릿 쓰셧나요
+P1 	: 아 아뇨
+P1 	: 노트북 있어서 탭 욕심 없었는데
+P1 	: 최근에 필기할 일이 많아지니 눈길이 가더라고요
+P0 	: 아항 대학생이요?
+P1 	: 아뇨 직장인인데
+P1 	: 공부하고 있는 게 있어서요
+P0 	: 아아~! ㅋㅋㅋ 얼른 사셔야겟네요
+P1 	: 네 추석 보너스 받음 사려고 대기중이예요!!
+P0 	: ㅋㅋㅋㅋ 두근둑은
+P1 	: 네 두근두근
+P1 	: &name1&님은요?
+P1 	: 구매하시거나 구매욕구 있으신 것 있나요?
+P0 	: 저요 이쁜자켓 사고싶어요
+P1 	: 오 어떤 스타일 자켓이요?
+P0 	: 걍 가을자켓이요 기본 ㅋㅋㅋ베이지? 브라운?
+P1 	: 아 기본 자켓이 제일이죠
+P0 	: ㅋㅋㅋ ㅜㅜ 물욕이끝이없네요

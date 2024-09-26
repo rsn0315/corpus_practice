@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회 활동을 해보신적 있으신가요?
+P1 	: 아니요 &name1&은 하고 계신거 있으신가요?
+P0 	: 저는 봉사활동 하고 있어요
+P1 	: 봉사 단체에 가입되어 잇으신건가요?
+P0 	: 복지관의 경우 팀을 이뤄서 봉사하고 있긴 해요
+P1 	: 학교 동아리처럼 공통점을 가지고 모인 단체인가요? 아니면 그냥 복지관에서 만난 단체인가요?
+P0 	: 친구의 소개로 복지관에서 활동하는 봉사단에 들어가게 됐어요! 아는 사람들과 만난 사람들이 적절히 있어요
+P1 	: 몇 주에 한 번씩 모이시나요?
+P0 	: 2주에 한 번은 모이고, 요즘엔 주에 1번 이상씩 줌으로 회의해요
+P1 	: 복지관을 한군데만 가시는게 아니라 여러군데 다니시나요?
+P0 	: 1군데만 가요!
+P1 	: 그럼 줌으로는 주로 어떤 회의를 하시나요?
+P0 	: 아이디어를 내고 프로그램들 구체화해요
+P1 	: 오~~멋지네요
+P0 	: 단체로 해서 제 개인의 역할은 크지 않아요ㅌㅋ
+P1 	: 그래도 꾸준히 봉사다니고 프로그램짜는 거 정말 멋지신데요

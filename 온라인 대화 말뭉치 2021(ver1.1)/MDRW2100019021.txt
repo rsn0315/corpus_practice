@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100019021
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하셔요
+P1 	: 밥드셨나요
+P0 	: 아직 식전입니다
+P0 	: 식사하셨나요
+P1 	: 저도 아직이요
+P1 	: 너무 배고파요
+P0 	: 아직 드시지않은 이유 여쭤도 되겠습니까
+P1 	: 배달음식 시켜먹고싶은데
+P1 	: 뭐먹을지 모르겠어요
+P1 	: 추천해주세요
+P0 	: 음
+P0 	: 뭐 좋아하시나요
+P1 	: 양식 일식이요 분식도 좋아해요
+P0 	: 골고루 다 좋아하시는구나
+P0 	: 음.. 더 어려운걸요 면을 선호하세요 밥을 선호하세요
+P1 	: 이것도 둘 다 좋아하는데.. 밥보단 면을 더 좋아해요
+P0 	: 음 면을 더 좋아한다라
+P0 	: 그렇다면 면이 매콤한게 좋은가요  부드러운게 좋은가요
+P1 	: 둘 다 좋으면 어렵나요?
+P1 	: 나 둘 다 좋은데
+P0 	: 그럼
+P0 	: 로제파스타를 추천드립니다
+P0 	: 부드럽고 매콤한 면
+P1 	: 오 로제파스타
+P1 	: 진짜 좋아해요
+P1 	: 로제떡볶이도 맛있던데
+P1 	: 드셔보셨나요
+P0 	: 떡볶이는 안먹어보고
+P0 	: 파스타는 먹어봤어요
+P0 	: &name2&님은 드셔보셨나요

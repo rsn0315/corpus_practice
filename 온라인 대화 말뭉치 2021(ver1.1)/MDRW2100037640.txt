@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037640
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 교촌 좋아해요 ㅎㅎ 없어서 못먹죠
+P0 	: 오 저는 허니콤보 좋아하는데 무슨 메뉴 좋아하시나요?
+P1 	: 저도 허니콤보좋아하구요 윙세트좋아요
+P0 	: 허니콤보 맛있더라구요!
+P0 	: 매운건 잘드세요?
+P1 	: 아뇨 신라면 정도만 먹을 수 있어요
+P0 	: 오 저도 매운거 잘못먹어요ㅎㅎ
+P0 	: 그럼 레드콤보는 못드시나요?
+P1 	: 못먹는 정돈 아닌데 맵더라구요
+P1 	: 어떨땐 배아파요
+P0 	: 역시 레드보단 허니콤보가 맛있는거 같아요...
+P0 	: 피자도 좋아하시나요?
+P1 	: 네 피자 좋아해요 ㅎㅎ
+P0 	: 저는 포테이토 피자 좋아하는데
+P0 	: 어떤 피자 좋아하시나요?
+P1 	: 저도 포테이토 피자 좋아요 치즈 피자도 좋아요
+P1 	: 배달자주시키세요?
+P0 	: 네 최근들어 자주 시키게 되더라구요ㅠㅠ
+P0 	: 배달 자주 시키시나요?
+P1 	: 아뇨

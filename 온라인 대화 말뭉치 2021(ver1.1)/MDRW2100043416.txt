@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100043416
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: (감사합니다)
+P1 	: 저도 빵이요
+P1 	: 저는 카스테라 시켰는데 아직 안오네요ㅠㅠ
+P0 	: 오! 배달 시키셨어요?
+P1 	: 아니요 인터넷에서 시켰는데 아직 안왔네요
+P1 	: &name1&님은 빵 프랜차이즈에서 시키신 건가요?
+P0 	: ㅇㅏ하 ㅎ 네네 지역 빵집인데 괜찮아요
+P1 	: 거긴 식빵이 제일 맛있는 빵인가요??
+P0 	: 아니요! 다른 빵 유명한데 대체적으로 부드럽고 맛있어요 ㅎ 지역에서 오래된 빵집이기도 하고
+P1 	: 오래된 지역 빵집있는거 부럽네요 여기는 다 프랜차이즈 빵집이거든요
+P0 	: 아ㅠ 여기도 거의 파리바게트 아니면 뚜레주르요 ㅎ
+P0 	: 지역빵집도 차타고 가야 할 거리에 있어서 ㅋㅋ나간김에너 살수있어여
+P1 	: 그렇군요
+P1 	: 그럼 거기 또 맛있는 빵이 뭐가 있나요?
+P0 	: 저는 케익도 맛있더라고요 ㅎ 단팥빵도 맛있고!!!
+P1 	: 어떤 케잌이요???
+P0 	: 그냥 기본 생크림이랑 롤케익도 맛있어요
+P1 	: 그렇군요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100005063
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 내일 가는집 맛집이겟지 ?
+P1 	: ㅋㅋㅋ 그냥 김치찌개지 뭐
+P0 	: 그지역 명물이라든가 ㅋㅋ
+P1 	: 김치가 묵은지고 솥밥이라서 좋더라구. 가격도 8000원 저렴하구
+P0 	: 메뉴 뭐 더있는지 봐야겟다
+P0 	: 이름이 뭐였지?
+P1 	: 갓지은 솥밥이었나
+P0 	: 검색해봐야겠어
+P1 	: 응 저녁은 먹었어?
+P0 	: 응 어징어볶음이랑 먹었어
+P0 	: 너는?
+P1 	: 아 맞다 오징어 볶음 먹었다 했지. 맛있었겠답.
+P1 	: 난 교촌기다리는데 아직30분은 더 기다려야될듯
+P0 	: 오는데 한참걸리네
+P1 	: 배고파ㅠ
+P1 	: 어제 너의 아부지가 해주신 부침개 먹구싶다
+P0 	: ㅋㅋㅋㅋ 그거 남았다
+P0 	: 오늘 언니에 왓엇는데 다 안팔림
+P1 	: 짭짤하게 맛있게 잘하셨던데 왜 안팔렸댜
+P0 	: 갓지은 솥밥으로 출발해

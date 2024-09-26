@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038985
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다람쥐라니ㅎㅎ 엄청 귀엽겠어요
+P0 	: 네ㅋㅋㅋ 귀여워요!
+	  다른 물건들도 많아서 고민하다가 그립톡을 선택했어요ㅎㅎ
+P1 	: 그립톡 쓰면 편한가요
+P0 	: 이번에 처음 써보는중인데, 어색한 느낌도 있지만 괜찮은거같아요
+P1 	: 괜찮으시다고 하니 저도 그립톡 한번 봐야겠네요
+P0 	: &name2&님도 아직 그립톡 써보지 않으셨나보네요
+P1 	: 네 일반 케이스만 끼우고 다녀요
+P0 	: 저도 지금까지 그냥 케이스에 끼우고 다니기만 했어요
+P0 	: 동물들 캐릭터나 인형들 어느 동물 좋아하세요?
+P1 	: 알파카 좋아해요
+P0 	: 알파카 귀엽죠!
+	  저는 토끼나 다람쥐를 좋아해요
+P1 	: 토끼랑 다람쥐도 좋죠
+P1 	: 무엇보다 굿즈가 많잖아요
+P0 	: 맞아요
+	  그래서 고를 때 선택하기 힘들어요
+P1 	: ㅋㅋ 그런 문제가 있군요

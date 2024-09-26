@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100028884
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 나 다음주에 한국사 시험이야
+P1 	: 다음주 언제
+P0 	: 다음주 토요일에
+P1 	: 일요일에도 뭐있다며
+P0 	: 일요일에는 토익시험
+P1 	: 시험을 왜 이틀연속으로 잡았어
+P0 	: 그래서 방금 토익은 취소했어...
+P1 	: 뭐야 왜 취소했어
+P0 	: 한국사 먼저 빡시게 공부하고
+P0 	: 그다음에 토익공부하려구
+P1 	: 잘생각했어 이틀 시험보는건 너무 힘들어
+P0 	: 너무 내 능력을 과대평가했어....
+P1 	: 지금부터 열심히 하면돼
+P0 	: 한국사부터 빨리 붙어야지

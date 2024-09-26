@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100002651
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요.
+	  여행 좋아하세요?
+P0 	: 네네
+P0 	: 좋아하시나요?
+P1 	: 좋아하지만 못가서 요즘 아쉬워요ㅜ
+P0 	: 어디가고싶으세요?
+P1 	: 제주도나 여건되면 해외도 가고싶어요
+P0 	: 제주도 넘좋죠ㅠㅠ
+P0 	: 저도 진짜가고싶어요
+P1 	: 가서 맛있는것도 먹고 쉬고오고싶어요ㅜ
+P0 	: 저도요ㅠ
+P0 	: 맛집탐방 하고싶어요
+P1 	: 제주도에서 가장 먹고싶은게 뭐예요?~
+P0 	: 저 해산물이요
+P0 	: ㅋㅋㅋ 딱새우랑 회먹고싶네요
+P1 	: 딱새우 맛있겠어요~~~~우와ㅋㅋ
+P0 	: 또
+P0 	: 제주도하면
+P0 	: 흑돼지죠
+P1 	: 멜젓에 찍어먹는거 좋아해요ㅋ

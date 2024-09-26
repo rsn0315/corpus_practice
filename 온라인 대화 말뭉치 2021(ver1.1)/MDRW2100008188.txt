@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100008188
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요!
+P1 	: 최근에 뭐 사고 싶다는 생각한 적 있으세요?
+P0 	: Z플립 사고싶어요!
+P0 	: 이번에 나온 거 너무 이뻐요
+P1 	: 악 저는 갤럭시워치요ㅜㅜ
+P1 	: 전자기기는 새로 나올 때마다 혹하게 되더라고요
+P0 	: 워치 이번에 나온 거 완전 얇아지고 좋아보여요
+P0 	: 가격도 꽤 저렴하게 나온 거 같아요!!
+P1 	: 그쵸!!! 너무 갖고 싶어요
+P1 	: 아주 값비싼 손목시계가 될 것 같아서 참고 있어요
+P0 	: 맞아요ㅠㅠ
+P0 	: 전 미밴드 먼저 써보고 잘쓰면 워치 사볼까 생각 중이에요!
+P1 	: 오 그것도 괜찮네요
+P1 	: 워치는 운동을 열심히 하면 유용하게 쓸 수 있을 것 같더라고요
+P0 	: 맞아요
+P0 	: 워치로 통화하는 기능도 편해보여요
+P1 	: 한 번 진지하게 생각해봐야겠어요
+P1 	: &name1&님은 z플립 사는 거 진지하게 고민하시는 거예요?
+P1 	: 아니면 그냥 사고싶다~ 정도?
+P0 	: 사고싶다~ 정도요ㅎ
+P0 	: 아직 폰 산지 1년 밖에 안 돼서 새폰 사긴 부담 돼요ㅠㅜ
+P1 	: 아 그러면 부담될 수밖에 없죠
+P1 	: 이제 곧 가을인데 가을시즌 옷 사고 싶은 건 없으세요?
+P0 	: 있어요!
+P0 	: 핑크색 니트 사고싶어요!!

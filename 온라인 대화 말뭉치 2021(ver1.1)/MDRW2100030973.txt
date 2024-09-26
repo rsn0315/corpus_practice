@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030973
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 식사는 하셨나요
+P1 	: 했습니다 드셨나요
+P1 	: 저는 전어회를 먹었습니다
+P0 	: 세꼬시입니까
+P1 	: ㅣ새 것이랑 뼈 없는 거랑 반반으로 먹었습니다
+P0 	: 전어 회 먹어도 배가 부른 가요
+P1 	: 네 배가 부르네요 맛있어요
+P0 	: 그것만 드시지 않으셨겠죠
+P1 	: 전어 철이라서 그런지 굉장히 고소했습니다
+P0 	: 완전 완전 맛있었겠 씁니다 부럽습니다
+P1 	: 당연하지요 술 한잔 해야죠
+P0 	: 기름 지지요 고소하게
+P1 	: 기름진 음식을 먹을 때에는 입안을 깔끔하게 행궈 줄 수 있는 소주를 한 잔 해야 해요
+P1 	: 오늘은 CU에 가서 독도라는 소주를 한 병 사 왔습니다
+P0 	: 제가 먹은 것이 초라해 지는군요
+P1 	: 신상 이네요

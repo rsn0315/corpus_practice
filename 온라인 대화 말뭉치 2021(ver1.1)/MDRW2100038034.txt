@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100038034
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 추석엔 여행계획 있으신가요
+P1 	: 없습니닷! &name1&님은요?
+P0 	: 저도 아직은 없어요 코로나 상황보고 근교라도 가보고싶은데 아직은 고민만해요
+P1 	: 그쵸ㅠㅠ 시골은 안가세요?
+P0 	: 네 시골에서도 안오길 바라나봐요
+P0 	: 이장이 방송한대요 ㅎㅎ
+P1 	: 아ㅋㅋ 그렇긴 하겠네요
+P1 	: 시골에서 외지인 오면 싫어한다더라구요
+P0 	: 네 그래서 시골은 못갈듯요
+P1 	: 그러네요ㅠ
+P1 	: 가고싶은곳 후보 있으세요?
+P0 	: 서울 궁 가고 싶은데 아무래도 명절이라 사람이 많을 것같아요 한복입고 가시는 분들 많더라고요
+P1 	: 명절에는 특히 많긴하겠네요
+P1 	: 지금도 꽤 있다더라구요
+P0 	: 네 근데 아이가 있어서 아마 못갈것 같아요 아무래도 걱정이 되어서 ㅎㅎ
+P1 	: 아ㅜ 그렇겠네요 아이가 있음 어디 가는게 더 걱정되죠ㅜ
+P0 	: 네 올해까진 여행은 마음 접어야될 것같아요

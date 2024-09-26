@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100008550
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 요즘 기초를 안해서 얼굴이 푸석푸석 하다
+P0 	: 스킨 로션은 바르자나
+P1 	: 발랐다안발랐다 여름에 항상 그런다
+P0 	: 여름이라도 발라야 된대
+P1 	: 그리고 난 로션 잘 안바름 겨울철에도
+P0 	: 발라야 된다.  주름 생겨 ㅋ
+P1 	: 응 근데 바르는게 귀찮다
+P0 	: 사계절 내내 바르는게 좋단다
+P1 	: 나이드니 더 게을러진다 
+	  열심히 주름케어도 해야는데 말이야
+P0 	: 주름케어는 아니라도 기초라도 잘 바르면 될듯
+P1 	: 뭘 꾸준히 한다는게 어렵다
+P0 	: 맞다 꾸준히 하는게 중요하다
+P1 	: 눈운동도 꾸준히 하면 시력이 좋아진다는데
+P0 	: 다이어트도 마찬가지다
+P1 	: 다이어트는 평생해야한다 우리형부 요즘 요요와서 더 찜
+P0 	: 저번에 좀 뺐다고 들었는데 결국 요요가 왔네ㅋ
+P1 	: 잘때 보면 옛날에 뱃살이 퍼졌는데 살이 더 져서는 이제 누워도 퍼지는거 없이 볼록하다
+P0 	: 심각한데 ...  왜 계속 식이식단 안하시나?
+P1 	: 이제 포기인가보지 또 다리 아프고 하면 다이어트한다고 할꺼다
+P0 	: ㅋㅋㅋ  다이어트는 평생 해야 된다
+P1 	: 엉 근데 식탐이 있어서 쉽지 않지

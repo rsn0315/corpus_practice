@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036075
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 많이 다니세요?
+P1 	: 저는 여행을 많이는 안 가는 편인 것 같아요
+P0 	: 코로나땜에 못간지 오래됐어요
+P1 	: 가고 싶은 여행지 있으세요?
+P0 	: 전 싱가포르여
+P0 	: 깨끗하고 쇼핑하기좋대요
+P1 	: 아~싱가포르!! 풍경도 멋있을것 같아요
+P0 	: 네 다들 좋다고 하더라구요
+P1 	: 싱가포르에 그 유명한 멀라이언상 있잖아요!
+P0 	: 앗 그런가요?
+P0 	: 쇼핑만생각했네요ㅎ
+P1 	: 네~사자머리인데 입에서 분수 나오는거요~
+P0 	: 아 그거 알아요ㅋ
+P0 	: 생각났네요ㅎ
+P1 	: 네~~거기서 사진 많이 찍잖아요 ㅎ
+P0 	: 맞아요ㅎ

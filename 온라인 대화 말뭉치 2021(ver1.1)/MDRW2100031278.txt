@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100031278
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저희집도 그래요
+P1 	: 치킨집이랑 파리바게트가 끝 ㅠ
+P0 	: 최근에 여행 가신적 있나요?
+P1 	: 아뇨 없어용
+P1 	: &name1&님은요?
+P0 	: 그쵸 코로나땜시 ㅜ
+P0 	: 저두요
+P0 	: 가고싶은데 겁쟁이라
+P1 	: ㅠㅠㅠ 저두요..
+P1 	: 뮤지엄 산 가보셨어요?
+P0 	: 아니요
+P0 	: 어디예요?
+P1 	: 원준가 그랬던거 같은데 예뻐서 한번 여쭤봤어요!ㅋㅋㅋㅋ
+P0 	: 오 예쁜곳 좋죠
+P1 	: 닉네임에 &name1&은 생일이세요?
+P0 	: 마지막에 가신곳이 원주예요?
+P0 	: 아뇨 아무의미 없어요 ㅋㄱㅋㄱ
+P1 	: 아뇨아뇨 거기가 제일 가보고 싶어서요ㅋㅋㅋㅋ
+P0 	: 저도 한번 가보고싶네요
+P0 	: 마지막으로 여행가신게 어디예요?
+P1 	: 앗 ㅋㅋㅋ오해했네요 사실 &name1&이 제가 좋아하는 아이돌 데뷔일이라 그 아이돌이 그 뮤지엄에 갔었거든요 그래서 혹시나 하구요 여기서 같은 팬들 많이 봐서 오해했어요 ㅠ ㅎㅎ
+P1 	: 저 마지막으로 갔던게 아마 부산이었어요
+P0 	: 부산 멋지죠
+P1 	: 19년이요!
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저는 제주도요
+P1 	: 와
+P1 	: 저 제주도 수학여행때만 가봤어요
+P1 	: 언제 가셨어요?
+P0 	: 코로나 직전이었던거 같아요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100038572
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요~
+P0 	: 점심 뭐드샸나요??
+P1 	: 집에있는 반찬들에 계란후라이해서 간단하게 먹었어요ㅎㅎ
+P0 	: 저는 즉석밥 먹었어요!
+P0 	: 저녁은 쌀국수요 ㅎㅎ
+P1 	: 오 쌀국수드셨군요
+	  저는 저녁 된장찌개와 밑반찬들 먹을꺼 같아요ㅎㅎ
+P0 	: 맛있겠네요!!
+P0 	: 저도 된장찌개가 먹고싶네요ㅜㅠ
+P1 	: 된장찌개 드신지 오래되었나봐요
+P0 	: 제가 한게 먹고싶어요 ㅋㅋㅋㅋ 청국장이랑 섞어서 끓인 것...
+P0 	: 좀 돼긴 했네요ㅠㅠ 여름엔 불옆에 안가다보니...
+P1 	: 된장찌개 끓일때 청국장과 섞어 끓이시는군요!
+P0 	: 네! 제가 좀 걸쭉한 된장찌개를 좋아해서요!
+P0 	: 짜지않은 청국장 넣고 된장 섞어 끓이면 맛있어요 ㅋㅋㅋㅋ
+P1 	: 오 그렇군요!  새로운 조합을 알게 되었네요ㅎㅎ
+P0 	: ㅋㅋㅋㅋㅋㅋ 저는 된장에 들은 콩도 좋아하거등요..!
+P0 	: 찌개에 들어있는게 좋아요...
+P1 	: 아! 그 콩 좋아하시는군요
+P1 	: 저는 콩은 안 좋아해요ㅎㅎ
+P0 	: 저도 강낭콩은 안좋아해욬ㅋㅋㅋㅋ
+P0 	: 팥도 뭐... 별로...

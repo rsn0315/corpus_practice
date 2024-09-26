@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027013
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 위해 먹는 영양제 있나요?
+P1 	: 아니요
+P0 	: 아직 건강하군요..ㅎㅎ 축하드려요
+P0 	: 전 영양제를 찾아먹어야하는 나이가 돼서 이것저것 먹기 시작했어요
+P0 	: 그런데 요즘은 젊은 사라들도 면역력 강화를 위해 영양제 먹기도 하더라구요.. 코로나 이후로요
+P1 	: 루테인 먹은적있어요
+P1 	: 시력
+P0 	: 루테인은 눈쪽이죠?
+P0 	: 아직 루테인은 안먹어봤네요.. 효과 있던가요?
+P1 	: 효과는 못봤어요
+P1 	: 카페인 만 들이키죠
+P1 	: 탄산하고요
+P0 	: 카페인도 적당량은 몸에 좋죠
+P0 	: 너무 마니 마시면 안좋을테구요
+P1 	: 네 줄여야조
+P0 	: 감기예방을 위해 비타민씨가 좋다는 말을 들었어요
+P1 	: 네 가끔 몸에 좋은 영양제 먹어요
+P0 	: 영양제는 꾸준히 먹어야 좋대요
+P0 	: 저도 그게 쉽지 않지만 노력중이에요
+P1 	: 저 밥먹으러가요
+P0 	: 그래요~ 밥 잘 먹어야 건강에 좋죠~
+P0 	: 운동은 하고 있는게 있나요?

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100026699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼 하셨나요?
+P1 	: 네~ 근데 너무졸려서
+P0 	: 안녕히 주무세요!
+P0 	: 다음날 뵈어요!
+P1 	: 결혼한지 6년?
+P0 	: 아하
+P0 	: 배우자 분이 뭐라고 부르시나요?
+P1 	: 자기야?
+P0 	: 주로 부부 애칭? 부르는말은
+P1 	: 애칭은 없어요ㅋ
+P0 	: 여보 or 자기 or 이름 아닌가요?
+P1 	: 글쵸 맨날안싸우면 다행
+P0 	: 기본적으로 다들 뭐 오빠라던지 누나라던지ㅋ
+P1 	: 애칭있으세요?
+P0 	: 엄마 또는 아빠라고 부르는걸 어떻게 생각하시나요?
+P0 	: 앞에 애 이름 없이 그냥..
+P1 	: 그건 별로
+P0 	: 애가 뛰면 다짜고짜 아빠!!
+P0 	: 애가 부르면 다짜고짜 엄마!!
+P0 	: 아니 내가 아이의 아빠또는 엄마지
+	  배우자의 아빠엄마 아니잖아요
+P1 	: 다시 또 이야기해요
+P0 	: 넹

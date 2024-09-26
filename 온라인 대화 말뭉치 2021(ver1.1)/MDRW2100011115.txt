@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011115
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 태풍오고있다는데 &name2&님 지역은 괜찮으세요?
+P1 	: 서울이라 아직 조용하네요!
+P0 	: 아 같은 지역이군요ㅎ
+P0 	: 제주도는 400미리온다던데 수도권은 괜찮은가봐요
+P1 	: 헐 400미리요..?
+P0 	: 네 엄청오나봐요
+P0 	: 남부지방은
+P1 	: 서울은 아직 평온하네요ㅎㅎ
+P0 	: 퇴근길에 좀 오긴했는데
+P0 	: 비그치면 가을오겠죠?
+P1 	: 그러게요 이번여름 너무 더웠어요
+P0 	: 맞아요 전 여름 넘 싫어해서
+P0 	: 빨리가을 왔음 좋겠네요
+P1 	: 가을이 젤좋죠 진짜ㅠ
+P0 	: 넘 짧아서 아쉽죠ㅠㅠ
+P1 	: 마자요 봄이랑 가을이 제일 좋아요
+P0 	: 대부분 다그런가봐요^^

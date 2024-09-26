@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100027886
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 농림/어업/임업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 &name2&님 있는 곳의 날씨는 어떤가요?
+P1 	: 오늘은 비가 계속 조금씩 오네요 ㅎㅎ
+P1 	: &name1&님 계신곳은 어떤가요!
+P0 	: 저희 지역두요! 집 가려는데 갑자기 쏴아아 오더라구요
+P0 	: 요즘 비가 너무 갑자기 오는 것 같아요
+P1 	: 맞아요ㅠㅠ 어제도 비오고..... 기온은 괜찮은데 습해가지고ㅠㅠ
+P0 	: 맞아요 진짜!!!!!! 햇빛 쨍쨍하거나 아니면 온도는 괜찮은데 완전 습하거나 둘 중 하나여서... 미치겠어요 ㅠ
+P1 	: ㅠㅠㅠㅠ진짜ㅠㅠ 더움아니면 습함....둘중하나..빨리 선선해지면 좋겠어요ㅠㅠㅠㅠㅠㅠ
+P0 	: 진짜요ㅋㅋㅋㅋ 아침에는 선선한데 오후는 여전히 덥더라구요
+P1 	: 맞아요 ㅋㅋㅋㅋㅋㅋ날씨...진짜 애매하고 아직 그렇다고 겉옷입기엔 저녁에도 좀 걸어다니면 습해서 그런지 덥고 ㅠㅠ
+P0 	: 우와 딱 이거에요!ㅋㅋㅋㅋㅋㅋㅋ 긴 팔 입으면 덥고 반팔은 쌀쌀하고..
+P1 	: 이도저도 아닌게 진짜 옷 입기두 애매하고
+P0 	: 아직은 반팔 입기는 하는데 아침에 쌀쌀하더라구요
+P1 	: ㅠㅠㅠ가을날씨돼서...예쁜옷입구 나가고싶네요ㅜㅜ갈데는없지만 ㅠㅜ
+P0 	: 맞아요ㅋㅋㅋㅋㅋ 뭔가 어디든... 동네 마실이든 나가고 싶어요

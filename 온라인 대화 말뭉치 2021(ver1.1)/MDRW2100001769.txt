@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100001769
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: &name2& 안녕?
+P0 	: 오늘은 날씨가 안덥고 좋았지?
+P1 	: 글쎄
+P1 	: 가을이 온줄 알았는데
+P1 	: 아직도 덥던데
+P1 	: 긴팔 입을 날씨는 아닌것 같아
+P0 	: 맞아 긴팔입으니까 덥기는 하더라
+P0 	: 내일은 반팔입고가야겠어
+P1 	: 그래도 요새 미세먼지가 없어서 그런지 구름이 엄청 예쁘더라
+P0 	: 맞아! 하늘보면 요즘 힐링되는거같아
+P0 	: 내일도 날씨가 좋겠지?
+P1 	: 글쎄 요 며칠 비가 엄청와서.. 비올수도 있겠다 ㅠㅠ
+P0 	: 아...비는 싫은데ㅜㅜ 우산을 들고가야할까?
+P1 	: 우산 하나 사무실에 놓고 다니면 좋지
+P1 	: 언제 소나기 내릴지 몰라서
+P0 	: 그러게 사무실에 예비용으로 놓고다녀야겠어
+P1 	: 날씨가 정말 동남아 날씨같아졌어
+P0 	: 맞아 엄청 덥고 습한 거 같아ㅜㅜ
+P1 	: 이러다 가을, 봄은 없어질까봐 무섭다
+P0 	: 안돼ㅜㅜ 나는 가을이 가장 좋은데ㅜㅜ
+P0 	: 너는 어떤 계절을 가장 좋아해?
+P1 	: 나는 봄이랑 가을을 제일 좋아해

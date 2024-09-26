@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014750
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅎㅎ 그래? 난 저녁에 운동했더니 너무 더워
+P0 	: 저녁되면 25도라 너무 선선해
+P1 	: ㅎㅎ 지금은 나만 더운가봐
+P0 	: 신랑도 운동해서 더운거지 좀 있으면 추울거야
+P1 	: 땀이 뻘뻘나 ㅋㅋ
+P0 	: 그래도 너무 선풍기로 심하게 식히지마~감기걸릴라
+P1 	: ㅎㅎ 걱정마~ 난 사계절 선풍기 달고 사는데
+P0 	: 습도 떨어지니 너무 좋다 상쾌해
+P1 	: 일기예보 진짜 안맞는 것 같아~ 오늘 분명 비였는데 ㅋㅋ
+P0 	: 일주일 내내 비로 해놀고 당일날 슬쩍슬쩍 고치는듯 ㅋㅋ
+P1 	: 진짜 어떻게 이렇게 일기예보가 안맞을 수 있지?
+P0 	: ㅎㅎ 그래도 안맞아서 다행이야. 비 더이상 안오길 바래
+P1 	: 그래야지. 벽지도 이제 다 뽀송해졌네
+P0 	: 오늘 서울에는 비 많이 내렸었나봐

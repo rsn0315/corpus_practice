@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100002745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 경주 여행에 대해 어떻게 생각해?
+P0 	: 경주 좋지.
+P0 	: 아무래도 신라의 수도였으니까.
+P0 	: 유물도 많고 좋아.
+P0 	: 인구도 북적대지 않아 좋은 거 같아.
+P1 	: 맞아 나는 유물 보는걸 좋아해
+P1 	: 특히 첨성대를 좋아해
+P0 	: 천마총이 졸더라.
+P0 	: 아하 첨성대를 좋아하는구나
+P1 	: 밤에 가봤니?
+P0 	: 거기 밤하늘과 해 질 녘 노을도 예뻤어
+P0 	: 그럼.
+P0 	: 요즘 조명이 멋있더라.
+P1 	: 맞아 경주는 밤에도 예쁘더라
+P1 	: 고분들에도 불을 켜뒀더라구
+P1 	: 황리단길은 가봤니?
+P0 	: 당연하지.
+P0 	: 근데 길이 좀 짧더랴
+P1 	: 맞아 생각보다 볼건 없었어
+P0 	: 맞아. 사실 여행이 먹고 사진찍으면 다야
+P0 	: 너는 언제 경주에 갔네?
+P1 	: 나는 저번에 벚꽃을 보러갔너
+P1 	: 경주에 벚꽃나무가 참 많더라
+P0 	: 아름다웠겠다
+P0 	: 유적지와 벚꽃이 꽤 잘어울리는구나
+P1 	: 맞아 신기한 분위기였어

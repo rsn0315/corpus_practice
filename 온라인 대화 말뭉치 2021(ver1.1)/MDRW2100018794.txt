@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100018794
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 대충 먹었어요~~
+P1 	: 간단하게 두부 부쳐서~ㅎㅎ
+P1 	: 식사하셨어요??
+P0 	: 이제 치킨시킬려구요
+P1 	: 치킨 맛있게 드셨어요??
+P1 	: 좋아하시는 치킨브랜드 따로 있으신가요??
+P0 	: 네네요
+P1 	: 아~ 부위는 어떤 부위 선호하세요??
+P0 	: 뱃살니져
+P1 	: 뱃살이요??
+P0 	: 가슴 살이요
+P1 	: 아!! 저도 가슴살 좋아하는데~
+P1 	: 반갑네요~
+P0 	: 퍽퍽한게 젛아요
+P1 	: 저도요~ 돼지고기도 삼겹살보다는 목살을 더 선호하는 편이에요~
+P0 	: 저도
+P1 	: ㅎㅎ 퍽퍽살 좋아하면 주변에서 환영받는 거 같아요~
+P0 	: 좋은대 잘 모르죠

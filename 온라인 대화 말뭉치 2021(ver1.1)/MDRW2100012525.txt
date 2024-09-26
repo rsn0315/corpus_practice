@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 베스트셀러에 대해 어떻게 생각하시나요?
+P1 	: 전 책 고를때 베스트셀러부터 구경하긴 해요ㅋㅋㅋ
+P0 	: 저도 책에 대해 잘 알지 못해서 주로 베스트셀러에 손이 가요!
+P0 	: 최근에 읽으신 책이 있으신가요?
+P1 	: 음 최근은 아니지만 사놓은 책 읽고 있어요
+P1 	: 여름의 빌라 라는 책이에요
+P0 	: 어떤 내용인지 조금 알려주실 수 있나요?
+P1 	: 단편집인데 지금 맨 앞 이야기 하나만 읽었어요
+P1 	: 유학가서 친해진 사람과의 이야기?
+P0 	: 오 흥미롭네요
+P1 	: &name1&은 최근에 무슨 책 읽으셨어요
+P0 	: 저는 우울할 땐 뇌과학이라는 책을 읽었어요
+P1 	: 어땠어요?
+P1 	: 무슨 얘기예요?
+P0 	: 우리가 겪는 감정을 과학적으로 풀어놓은 책인데
+P0 	: 왜 그렇게 작동하는지 알 수 있어서 좋았어요
+P1 	: 오 궁금하네요
+P1 	: 저 과학 진짜 어려워했었는데ㅎㅎ
+P0 	: 쉽게 설명되어있어서 전공자가 아니어도 읽기 좋아요!
+P0 	: 추천드려요

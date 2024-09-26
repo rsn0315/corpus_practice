@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100039695
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 우리가족은 행복한가족일까 아닐까?
+P0 	: 우리가족은 안행복해
+P1 	: 뭐랄까 이만함 행복한가족이라 생각했는데 하나하나 뜯어보니 아니었던것 같아
+P0 	: 난 그렇게 생각한 적 없어
+P0 	: 왜냐면 너무 많이 싸웠기 때문이야
+P1 	: 나도 많이 싸운걸 잊어버리고 정신승리하려고 위장한것같아
+P0 	: 근데 나랑은 별로 안 싸웠어
+P1 	: 넌 싸움을 말리는 입장이었지
+	  앞으로 행복한 가족이 되어보자
+P0 	: 생각해보니까 우리는 좀 행복해
+P1 	: 왜 이랬다 저랬다 하는거야
+	  ㅋ 가족이니 봐준다
+P0 	: 왜냐하면 강아지를 키우니까
+P1 	: 맞아 강아지도 우리의가족이지
+P0 	: 강아지가 행복하면 우리도 행복한 거야
+P1 	: ㅋ 이시대는 반려동물도 가족의 일원이 되어버렸네

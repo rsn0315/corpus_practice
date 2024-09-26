@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 점심 식사 메뉴는 뭐였어요?
+P1 	: 저 오늘 떡볶이 먹었어요 ㅎㅎ
+P1 	: 점심 뭐드셨나요???
+P0 	: 저는 소고기 국 먹었어요.
+P0 	: 좋아하는 배달 음식 있으세요?
+P1 	: 저는 치킨 종류 제일 좋아해요 !
+P1 	: 치킨 좋아하시나요?
+P0 	: 네 치킨 좋아해요 특히 굽네치킨이요.
+P1 	: 저도 굽네 제일 좋아해요 !
+P0 	: 정말요? 굽네 치킨이 기름이 별로 없어어 좋아해요.
+P0 	: 어떤 카페 즐겨가세요?
+P1 	: 저는 보통 메가커피나 컴포즈 가는거 같아요 ㅎㅎ
+P1 	: 카페 좋아하시나요?
+P0 	: 저는 잘 가진 않아요. 요즘 음료가 너무 달아서..
+P1 	: 아 저도 단거 안좋아해서 항상 카페라떼 마셔요 ㅎㅎ
+P1 	: 그 시럽을 싫어해서 ㅠㅠ
+P0 	: 공교롭게 카페인도 안 받아서.. 요즘 세상에 참 슬프네요. ㅎㅎㅎ
+P1 	: 요즘 카페인 안받으시는 분들 많더라구요 ㅠㅠ
+P1 	: 그래서 디카페인 많이 드시던데 !
+P0 	: 맞아요. 그리고 차 종류도 속이 안정되고 좋아요.

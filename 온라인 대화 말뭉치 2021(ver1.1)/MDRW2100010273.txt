@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 좋아하세요?
+P1 	: 저는 강아지 좋아해요
+P0 	: 저두 강아지  좋아해요
+P0 	: 키우고 계신가용?
+P1 	: 아니요
+P1 	: 강아지 키우고 계신가요?
+P0 	: 아니용ㅠㅠ 아직여건이 안돼서 못 키우고 있어요
+P0 	: 만약 키운다면 유기견 보호소에서 데려오려했는데 자취하는 사람은 입양이 어렵다고하더라구요
+P1 	: 맞아요 반려동물은 비용문제도 있고 또 혼자 두면 외로워하니까요
+P0 	: 나중에 여건되면 꼭 가족으로 들입시당ㅎㅎ
+P1 	: 좋아요
+P0 	: 반려견들이기 전에 알러지 검사받는 게 좋대요
+P1 	: 왜요?
+P0 	: 막상 키웠는데 알러지 있으면 약먹거나 치료가 필요하대요ㅜㅜ
+P1 	: 헐 그렇군요
+P0 	: 넹ㅎㅎ 강아지 사료비는 별로 안비싼데 한번 아프면 병원비 장난 아니라네요ㅜㅜ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012542
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 배달 음식 많이 시켜 드시나요?
+P1 	: 배달음식 치킨 자주먹어요!
+P0 	: 오 치킨은 어디 거 많이 드시나요?!
+P1 	: 혹시 바른치킨 아시나요?
+P1 	: 거기 새우나오는 치킨 맛있더라구요
+P0 	: 바른 치킨 검색해보니까 집 근처에도 있네요! 사먹어봐야겠어요
+P1 	: &name1&은 어떤 음식 좋아하세요?
+P0 	: 저는 피자 좋아해요!
+P1 	: 피자 무슨피자 좋아하세요?
+P0 	: 포테이토 피자요!
+P1 	: 포테이토피자 맛있죠
+P1 	: 고구마랑 포테이토는 기본이상 하는것 같아요
+P1 	: 혹시 파인애플 피자 좋아하시나요?
+P1 	: 전 파인애플 피자도 좋아해요ㅋㅋㅋ
+P0 	: 파인애플 피자는 안 먹어봤지만 ㅋㅋㅋㅋ
+P0 	: 왠지 먹으면 맛있을 것 같긴해요
+P1 	: 오 이 피자가 굉장히 호불호가 많이 갈리는데
+P1 	: 긍정적이시네요ㅎㅎ
+P1 	: 처음엔 과일이 따뜻해서 이상했는데
+P1 	: 먹다보니 맛있더라구요
+P0 	: 조언 감사해요ㅋㅋㅋ 나중에 꼭 먹어볼게요

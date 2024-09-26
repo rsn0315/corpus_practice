@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘 점심 뭐야
+P0 	: 된장찌개 다
+P1 	: 맛있겠네
+P0 	: 당연하지 내가 하는 건 다 맛있다
+P1 	: 그래 우리 와이프가 하는 건 다 맛있지
+P0 	: 반찬도 많이 먹어요
+P1 	: 알았다
+P0 	: 밥은 너무 많이 먹지 말고
+P1 	: 찌개가 맛있는데 밥 많이 먹어야지
+P0 	: 적당히 먹어야지
+P1 	: 찌개 맛이 좋네
+P0 	: 몸에 좋은 것 많이 넣었다
+P1 	: 다 먹어야겠다
+P1 	: 저녁에는 뭐 먹을까

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024117
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P0 	: 반려동물 키우시나요?
+P1 	: 강아지를 한마리 키우고있습니다
+P1 	: &name1&은요?
+P1 	: 제가 키우는 강아지는 나이가 많습니다. 무려 15살이에요
+P1 	: 별명이 늙은애기입니다
+P0 	: 신사라는 이름이 잘 어울릴것만 같군요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ오호 쪽집게시네요 이름이 신사입니다
+P0 	: 어제 산책을 시키지 않으셨나요 왜인지 모르게 그럴것만 같아요
+P0 	: 아쉽게도 저는 강아지를 키우지 않고 있어요
+P1 	: 오 산책을 시켰지요
+P0 	: 산책은 몇분 코스입니까?
+P1 	: 그러시군요 매우 귀찮으니 키우지 않는게 좋습니다
+P1 	: 평균 산책시간은 20~30분 입니다
+P1 	: 하루에 두번 아침 저녁이고 길게가는날는 40~50분도 갑니다
+P0 	: 와 부지런하시네요
+P0 	: 행복한 강아지겠어요 신사
+P0 	: 근데 모르겠죠 상팔자라
+P1 	: 강아지는 그렇게 산책 시켜줘도 만족이 안되나봅니다. 계속 나가고 싶어해요
+P1 	: 이젠 나이가 많아서 오래걸으면 힘들어합니다
+P0 	: 더울때도 산책 시켰나요?
+P1 	: 유모차는 필수지요 그럼요
+P0 	: 지칠만도 하겠어요
+P0 	: 역시 상팔자인거 같네요

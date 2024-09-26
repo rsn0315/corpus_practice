@@ -1,0 +1,74 @@
+# FILE DATA
+ID : MDRW2100018392
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요. 저녁 드셨어요?
+P0 	: 네네
+P0 	: 제가 저녁을 햄버걸먹었는데 어디껄까요?
+P1 	: 햄버거하면 버거킹이죠
+P1 	: 맞나요?
+P0 	: 와우!
+P0 	: 어떤버거일까요?
+P1 	: 헉 맞췄다니...
+P1 	: 몬스터버거?
+P0 	: 땡
+P0 	: 틀렸답니다
+P1 	: 트리플 머쉬룸 버거...? 는 절판됐댔는데...
+P1 	: 또 뭐가 있을까요...?
+P0 	: ㅠㅠ흑흑
+P0 	: 정답을 알려드릴까요
+P1 	: 네 어서 말씀해보세요 궁금..
+P0 	: ㅋㅋㅋㅋ상어버거랍니다
+P0 	: 여기서다음 심층질문
+P1 	: 세상에 상어버거라니...
+P1 	: 들어본적도 없는데요...!
+P0 	: 1아기상어
+	  2엄마상어
+	  3아빠상어
+	  무슨버거를 먹었을까요?
+P0 	: 새우버거랍니다
+P1 	: 아빠상어정도는 돼야 배가 부르지 않을까요?
+P1 	: 종류가 세가지나 되다니..
+P1 	: 아기상어는 솔직히 먹기엔 좀 불쌍하죠
+P0 	: ㅋㅋㅋㅋ 오오 버거에따라 크기가다르다는걸
+P0 	: 눈치채셨군요?!
+P1 	: 후후후 제가 좀 통찰력이 있었나요?
+P1 	: 그래서 뭐 드셨어요?!
+P0 	: ㅋㅋㅋㅋㅋ
+P0 	: 엄마상어버거랍니다
+P0 	: ㅋㅋㅋㅋ
+P1 	: 헐... 내가 틀렸다니....ㅠㅠㅠ

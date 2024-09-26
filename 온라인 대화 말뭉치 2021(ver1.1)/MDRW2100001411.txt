@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&
+P1 	: 안녕하세요~ 날씨가 완전 가을날씨네요
+P0 	: 그러게요~내일은 더 추워진다네요ㅠㅠ
+P1 	: 옷장정리 하셨나요?
+P1 	: 저는 가을옷을 하나도 안꺼내놔서.. 빨리 정리해야하거든요
+P0 	: 저도 옷장정리를안했는데 오랜만에 가을옷을꺼냈더니 묵은내가 나더라고요
+P0 	: 이번주말에정리한번해야겠어요-
+P1 	: 이런.. 급한대로 제습기라도 돌려보세요
+P1 	: 저도 주말엔 옷장정리를 해야겠어요 ㅋㅋ
+P0 	: 내일밤엔 영상1도까지떨어진다네요
+P0 	: 이제겨울옷까지꺼내야할까요?ㅠㅠ
+P1 	: 으악 그렇게 많이 떨어지나요?
+P1 	: 조금만 있으면 롱패딩만 입고 다니겠네요 ㅠ
+P0 	: ㅠㅠ롱패딩에빵꾸뚫려서 솜이엄청빠져가지고 버렸거든요
+P0 	: 또사려면돈이많이들것같아요
+P1 	: 아이구ㅠ 이번 겨울엔 롱패딩 대신 멋있는 코트는 어떠신가요?
+P0 	: 코트입으면 얼어죽지않을까요ㅠㅠ여름에너무더웠어서 이번겨울은정말추울것같아요!
+P1 	: 뭔가 코로나 때문에 밖에 잘 안나가다보니 날씨 감각을 잃은 것 같아요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016434
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달먹어요?
+P1 	: 네 방금까지먹었어요ㅎㅎ
+P1 	: 뭐시켜드세요?
+P0 	: 식당에가서먹었어요
+P1 	: 전 배달로 해장국이요!
+	  식당서 무슨메뉴드셨나요
+P0 	: 정식이여
+P1 	: 정식이최고인듯ㅎ 가격 만원인가요?
+P0 	: 네 그정도
+P1 	: 저녁도 치킨먹어버렷네요
+	  아...배달 vvip되겠습니다
+P0 	: 맛있는거먹고 그거면 됐죠
+P1 	: 맞습니다 카페는 자주다니시나요?
+P0 	: 네
+P0 	: 커피좋죠
+P1 	: 네 커피없이 못살아요
+P1 	: 무슨 메뉴좋아하세요?
+P0 	: 라떼여

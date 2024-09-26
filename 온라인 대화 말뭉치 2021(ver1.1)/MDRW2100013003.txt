@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013003
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 여행 많이 다니시나요?
+P0 	: 여행 좋아해요!
+P1 	: 어디가 제일 좋으셨나요?
+P0 	: 일본이요!
+P1 	: 오 일본 어디 가셨어요?!
+P0 	: 오사카  후쿠오카요!
+P1 	: 와 오사카는 못 가봤는데 진짜 많이 습한가요??
+P0 	: 8월에갔는데괜찮았어요
+P1 	: 글쿤요 어떤게 제일 맛있었나요?!
+P0 	: 오코노미야끼요ㅎㅎ
+P1 	: 헉 오코노미야키 좋죠ㅎㅎ 후쿠오카 가셨으면 온천도 가셨나요??
+P0 	: 온천은 못갔어요ㅠ
+P1 	: 저는 온천이 제일 좋았는데 아쉽네요ㅠㅠ

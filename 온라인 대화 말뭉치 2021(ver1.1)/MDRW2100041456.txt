@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100041456
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 드시고싶은 음식 있으세요?
+P1 	: 지금요? 음..지금은 냉면같이 시원한게  땡기네요
+P1 	: &name1&님은요?
+P0 	: 오오 저는 라면이요..!!
+P0 	: 라면 잘 끓이세요?
+P1 	: 오호!라면 좋죠
+P1 	: 뭐 막 못끓이지는 않는거같아요ㅋㅋ
+P1 	: 라면 꼬들한거 좋아하시나요?
+P0 	: 네네 무조건 꼬들이요 ㅠㅠㅠ
+P0 	: 햇님님은요?
+P1 	: 저는 컵라면은 꼬들인데
+	  끓여먹는거는 잘익은게 좋더라구요 요새는
+P0 	: 와 저는 둘다 꼬들파에요 ㅎㅎㅎ
+P0 	: 약간 불어도 맛있긴해요 ㅋㅋㅋ
+P1 	: 마자요! 가끔 불은것도 맛있죠ㅋㅋ
+P1 	: 무슨라면 좋아하세요?
+P0 	: 저는 너구리요!!
+P0 	: 짜파게티도 좋아해요 ㅎㄹ
+P1 	: 너구리도 맛있죠! 짜파게티도 맛있구
+P0 	: 넵넵!!!!  짜파게티 잘 끓이세용?
+P1 	: 음..못끓이지는 않는거같아요ㅋㅋㄱ
+P1 	: 근데 짜파게티도 끓이는 방법따라서 호불호갈리더라구요
+P0 	: 오 맞아용
+P0 	: 짜파구리?? 그것도 유행했잖아요 ㅎㅎ

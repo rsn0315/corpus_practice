@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009763
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 알바다녀와서 김밥먹었어요.ㅋ
+P1 	: 식사하셨어요?
+P0 	: 소고기요
+P1 	: 소고기 좋은고기 드셨네요ㅋㅋ
+P0 	: 오늘은 특별히 ㅎ
+P1 	: 저녁은 뭐드세요?
+P0 	: 치킨이요
+P1 	: 저는 어제 찜닭먹었어요ㅋ
+P1 	: 피곤해서 일찍잤네요ㅋ
+P0 	: 맛나죠
+P1 	: 네네 ㅋ점심도 찜닭이네요
+P1 	: 점심 뭐드세요?
+P0 	: 한식이여
+P1 	: ㅋㅋ 저는 오리고기먹었네요ㅋㅋ
+P1 	: 너무 맛있었어요ㅋ
+P0 	: 오리 부드럽죠
+P1 	: 네 부드러워요.ㅋ

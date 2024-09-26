@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015514
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 맞아 눈병도 별로 안생기고
+P0 	: 그러네 환절기에 꼭 눈병 유행했었던 거 같은데
+P1 	: 그러니까 그건 좋아
+P0 	: 열심히 손 씻고 소독까지 하니까 그런가봐
+P1 	: 그게 아무래도 젤 크지
+P0 	: 그놈에 코로나만 잡히면 좋을 텐데
+P1 	: 우리도 영국처럼 위드 코로나 할 수 있으려나
+P0 	: 같이 살기 싫은데
+P1 	: 근데 없어지지 않을거 같은데
+P0 	: 약간 감기 같은 존재가 되는 건가?
+P1 	: 독감 같은거지
+P1 	: 전문가들도 부정적이던데
+P0 	: 전문가들도 잡히진 않을 거래?
+P1 	: 가능성이 희박하다고 들었어 ㅠㅜ
+P0 	: 지금 돌아가는 거 보면 어려워 보이기는 한다

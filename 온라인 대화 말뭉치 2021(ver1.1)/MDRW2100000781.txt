@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000781
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키워보신적있으세요?
+P0 	: 아직요
+P1 	: 아저는 어릴때 토끼를 잠시 키워봤는데 신기했어요ㅎㅎ
+P0 	: 토끼 어렵지 않나요?
+P1 	: 근데 제가 넘 어려서 키웠다기보단 저는 그냥 놀아주기만...
+P0 	: 그래도 신기해요
+P1 	: 어릴때라 정보도 많이없고 집토끼라 아무거나 줘도 잘먹길래 잡식인줄 알았는데 초식동물이었더라고요^^;;;
+P0 	: 물리면 아프다던데
+P1 	: 음 아가토끼라그런지 물린적은 없는데.. 조그맣고 동그란 똥을 사방에 싸서 치우는게 힘들었어요ㅎㅎ
+P0 	: 아 토끼똥 ㅋㅋ
+P1 	: 그리고 기간이 짧아서 ㅎㅎ 토끼가 짖거나하지도않고 기회되면 다시키워보고싶어요ㅎㅎ 혹시 키우고싶은 동물있으세요?
+P0 	: 강아지여
+P1 	: 강아지 종류는요? 되게 많던데ㅎ
+P0 	: 강아지는 다 좋아요

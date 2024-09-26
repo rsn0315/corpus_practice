@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008123
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콜라보 어떠세요
+P1 	: 편의점 곰표?
+P1 	: 사먹어본적은 없네요
+P0 	: 곰표맥주 맛있어요
+P1 	: 가격은 어떤가요
+P0 	: 적당했던거 같아요
+P1 	: 한때 짱구 콜라보 잠옷도 유행이었죠 ㅋㅋ
+P0 	: 오 맞아요 귀여웠어요
+P1 	: 해리포터 콜라보도 유명하죠
+P0 	: 천마시멘트 팝콘도
+P0 	: 있습니다
+P1 	: 좀 과도하게 많은것 같기도해요 여기도 콜라보 저기도 콜라보
+P0 	: 맞아요 투머치
+P1 	: 딱 짱구나 해리포터 정도 괜찮았던거같아요 스파오 브랜드도 알리고
+P0 	: 맞아요 이제 슬슬 피곤

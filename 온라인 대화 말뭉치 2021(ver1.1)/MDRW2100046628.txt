@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~! 오늘 뭐하면서 보내실 계획있나요?
+P0 	: 출근해야죠 ㅎㅎ;
+P1 	: 저도 방금 막 출근했습니다!! ㅎㅎ 퇴근 후에는 계획 없으신가요?
+P0 	: 네
+P1 	: 아~취미활동은 없으신가요?
+P0 	: 영화랑 게임이 취미에요
+P1 	: 오 무슨게임하시나요?
+P0 	: 독서도요
+P0 	: 로스트아크 합니다
+P0 	: 온라인 게임이에요
+P1 	: 오 저는 로스트아크한번도 안해봤는데 재미있나요? 메이플 스토리처럼 꾸준히 해야 하는 게임인가요?
+P0 	: 네 매일매일 해야할 게 많아요~
+P1 	: 꾸준히 해야하는 게임은 하루라도 빠지면 이벤트 보상같은걸 못받게되서 게임에 집착하게 되는것 같아요 ㅎㅎ!!
+P0 	: 그래서 별명이 숙제게임이에요
+P0 	: 네 그렇죠...
+P0 	: 시간이 너무 부족해서 접을까 하고 고민한 적도 많아요
+P1 	: 아.. 모든게임이 숙제이긴해요 ㅋㅋㅋ하루에 몇시간 정도 게임하시나요?
+P0 	: 하루에 1시간 정도 합니다
+P1 	: 한시간 정도면 게임에 쓰는데 적당한 시간 같아요! 저는 한번하면 3~4시간 하게 되서 가끔만 하거든요 ㅋㅋ
+P1 	: 오늘도 하루 무사히 잘 보내시고 좋은 하루 보내시길 바랄게요 :)

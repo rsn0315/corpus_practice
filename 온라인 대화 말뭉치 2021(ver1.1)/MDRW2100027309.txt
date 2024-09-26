@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027309
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 집안일은 많이 하시나요?
+P0 	: 아니요 배우자가 주로 해주고 있어요
+P0 	: &name1&은 집안일을 많이 하시는 편인가요?
+P1 	: 전 제가다
+P1 	: ㅠㅠ
+P0 	: 으악ㅜㅜ
+P0 	: 제가 많이 미안해서 얼른 돈 모아서 집 넓히고 식기세척기 들이려고요
+P0 	: 식세기 이모님이 있는 집은 삶의 질이 다르다 들었습니다
+P1 	: 저 식세기있어요ㅋ
+P0 	: 부럽습니다 식사후 설거지가 아니라 여유가 있는 그 생활
+P1 	: 끝도없네요
+P1 	: ㅠㅠ
+P0 	: &name1&은 육아도 하시는건가요?
+P1 	: 네 육아도
+P1 	: 근데 초등생이에요
+P0 	: 우와 그럼 개학했겠군요
+P1 	: 근데 온라인이어서ㅜ2
+P0 	: 아 여전히 비대면이군요

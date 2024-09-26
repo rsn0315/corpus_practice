@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨가 참 오락가락하네요
+P1 	: 장마라서 비오네요 거긴 비오나요?
+P0 	: 네 여기도 비도오고 바람도 많이 불어요
+P1 	: 미세먼지 없어서 좋긴하네요
+P0 	: 그러게요 요즘 무지개도 많이 보이구요. 어릴땐 오히려 본 적이 없는데 말이죠ㅎㅎ
+P1 	: 와 무지개보셨어요?
+P0 	: 쌍무지개도 보고 한개뜬 것도 보고 요즘 비가왔다 해떳다 해서 그런지 무지개가 자주 보이네요
+P1 	: 사진도 찍으셨겠네요?
+P0 	: 네 그때 한참 sns에도 많이 올라왔었는데 못보셨어요?
+P1 	: 수도권쪽이신가요? 수도권 있는 친구가 딱 한번 보내줬던 기억이 있어용
+P0 	: 네 경기도에요 서울에서도 보였더라구요. 지방이신가봐요
+P1 	: 넵 아랫쪽이라서 저는 최근엔 본적없네용
+P0 	: 담에 꼭 볼수있음 좋겠네요 이쁘더라구요
+P0 	: 오늘은 시원하긴한데 습하네요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100043195
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행계획있으신가요
+P1 	: 현재는 없습니다!! 추석때도 집에 있을거에용~
+P1 	: &name1&님은요?
+P0 	: 저도요~
+P0 	: 가보셨던곳에좋은곳있으세요?
+P1 	: 음 올해 5월말쯤에 부안 변산반도 다녀왔는데요! 좋았어요!!
+P0 	: 오 부안
+P0 	: 몇일갔다오셨나요
+P1 	: 1박으로 다녀왔는데 1박으로 부족하더라구요!! 다 못보고왔어요
+P0 	: 오오
+P0 	: 밥도맛잏었나요
+P1 	: 네네!! 먹은것들도 다 맛나개 먹었어요!!
+P1 	: 바닷가라 회 먹으러 갔는데
+P1 	: 반찬이 대박....
+P0 	: 회는반찬맛이죠
+P0 	: 튀김나왔나요
+P1 	: 튀김은 없었는데 우선 첨에 조개탕을 주셨어요 바지락이 진짜 냄비 한가득이었는데
+P1 	: 너무 맛있어서 국물까지 진짜 싹 다 먹었어요 ㅠㅠ
+P0 	: ㅎㅎㅎㅎㅎ행복했겠어요
+P0 	: 누구랑가셨어요
+P1 	: 친구들이랑요!!
+P1 	: 저때 샤스타데이지 필때여서 사진도 많이 찍고 왔네용
+P0 	: ㅎㅎ좋은추억이네요

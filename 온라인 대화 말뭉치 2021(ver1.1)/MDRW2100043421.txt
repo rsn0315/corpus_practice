@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100043421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 네 맞아요 ㅋㅋ 한달 단위로 총 근무시간으로 계산해요 ㅋㅋ
+P1 	: 합리적인 시스템이네요
+P0 	: 휴가는 자유롭게 사용 가능하신가요?
+P1 	: 아뇨
+P1 	: 대신 여름 겨울 좀 길게 쉴 수 있어요
+P0 	: 우와 ㅋㅋ길게 쉴 수 있는게 좋죠!!!
+P0 	: 그대신 가장좋아하시는 5월에는 일에 더 집중해야하겠네요? ㅠㅠ
+P1 	: 맞아요 5월은 한참 일해야하는 때죠
+P1 	: &name1&님은 휴가 사용이 자유로우신가요?
+P0 	: 네 저희는 자유롭게 사용 가능해요! ㅋㅋ 본인 급한 업무만 없으면 ㅋㅋㅋ
+P1 	: 와 그것도 좋네요
+P1 	: 자유로운 휴가사용!
+P0 	: ㅋㅋ이건 팀 바이 팀이긴한데 저희 팀장님이 크게 터치 안하세요 ㅋㅋㅋ
+P1 	: 좋은 상사네요
+P0 	: 네 ㅋㅋ근데 올해는 바빠서 아직 여름휴가를 다 못썼어요 ㅋㅋㅋ
+P0 	: 아 그리구 올해는 백신휴가까지 나오다보니까
+P1 	: 앗 일이 많으셨나봐요
+P0 	: 생각보다 휴가가 많네요
+P1 	: 오 백신휴가라니
+P1 	: 전 백신 맞고 오후에 출근했는데ㅜ
+P0 	: 헐 ㅠㅠㅠㅠ백신맞고 출근이라니ㅠㅠㅠㅠㅠ
+P0 	: 몸 괜찮으셨나요ㅠ

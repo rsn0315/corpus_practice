@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100025665
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 점심 맛있게 드셨나요?
+P1 	: 점심 아직이랍니다^_ㅜ
+	  점메추 부탁드려요!
+P0 	: 배 안고프세요??
+P0 	: 저는 쫄면이랑 만두 먹었어요!
+P0 	: 날도 덥고 습한데 쫄면 어떠신가요 ㅎㅎ
+P1 	: 백신 맞아서 입맛이 없어서요ㅜㅠ
+P1 	: 지금 먹으면 점심 겸 저녁이겟네요
+P1 	: 쫄면도 괜찮은거 같아요!
+P0 	: 1차 맞으셨나요??
+P0 	: 저는 백신 맞고 온 날 입맛이 엄청 돌던데, 이것도 사람마다 다른가봐요 ㅎㅎ
+P0 	: 간단하게라도 뭐 드셔야죠ㅠ
+P1 	: 2차 맞았어요! 뭔가 몸살 기운이 느껴져서 입맛이 없더라구요
+P1 	: 평소에는 먹는거 좋아해요!
+P1 	: 다 먹고 살자고 돈 버는건데 먹는게 제일 중요하죠
+P0 	: 맞아요 한끼 한끼 맛있는 거 먹는게 제일 쉽게 행복해지는 법 같아요 ㅎㅎ
+P0 	: 나중에 입맛 돌아오면 이것부터 먹어야겠다 싶은 건 없나요?
+P1 	: 맞아요!
+P1 	: 저는 떡볶이요ㅜㅜ
+P1 	: 진짜 최애 of 최애 음식입니다
+P0 	: 오오 쌀떡 밀떡 안 가리고 다 잘 드시나요??
+P1 	: 네! 떡볶이는 사랑이죠ㅜㅜ
+	  &name1&님은 어떤 음식 좋아하세요?
+P0 	: 저는 비빔면 종류 다 좋아해요!

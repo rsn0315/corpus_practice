@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100023036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 머 드셨나요?
+P0 	: 저녁 가자미구이랑 된장찌개 먹었어요!
+P0 	: 어떤거 드셨나용
+P1 	: 고등어 구이 먹었어요
+P0 	: 생선구이가 참 맛있어요 ㅎㅎ
+P1 	: 냄새 처리가 어려워서 그렇지 생선 구이 넘 맛있어요
+P0 	: 그쵸 ㅠㅠ 맞아요.. 그래서 가끔은 반조리생선구이 사먹는데 편하더라구요..!
+P1 	: 저도 그런거 한 번 먹어봤는데 양이 넘 작아서 ㅎㅎ
+P0 	: 그래서 두개데워 먹을때도 있죠 ..ㅋㅋ 양이 조금 적긴해요
+P1 	: ㅋㅋㅋ저만 그렇게 느낀게 아니었군요
+P0 	: 그게 살이 발라져있어서 그런가 진짜 작긴작더라구요ㅋㅋ
+P1 	: 곧 점심시간인데 뭐 드세요?
+P0 	: 샌드위치 먹을까 고민중인데 아직 정해지진않았어요
+P0 	: 어떤거 드실예정이세요?
+P1 	: 저는 그냥 구내식당에서 주는 거요 ㅎㅎ 메뉴도 몰라요
+P0 	: 구내식당이용하시는군요ㅎㅎ 밥은 괜찮게 나오는 편인가요?
+P1 	: 아니오ㅋㅋㅋㅋㅋ고등학교 때 먹었던 것보다 별로에요ㅠㅠ
+P0 	: 아앗 .. 그렇군요ㅠㅠ 밥이 맛있어야 힘이 나는데 말이죠
+P1 	: 그러게요ㅠㅠ 그치만 단체 급식은 어쩔 수 없나봐요
+P0 	: 그러게말이에요 ㅠㅠ

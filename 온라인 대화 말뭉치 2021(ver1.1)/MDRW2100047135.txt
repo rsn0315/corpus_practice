@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100047135
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 염색을 하셨나요?
+P1 	: 검정색으로 다시 덮었어요
+P0 	: 이전에는 무슨색을 하셨나요
+P1 	: 염색하셨어요?
+P1 	: 머리가 상해서 갈색이 되어버려서 덮었어요
+P0 	: 네 저는 얼마전까지 보라색을 유지했어요
+P1 	: 오 화려하시네요!!!
+P1 	: 보라색 머리는 안 해봤어요
+P0 	: 약간 해보고 싶은 건 다 해보자!!하는 게 있어서
+P0 	: 과감하게 했다가 개털이 되었답니다
+P0 	: 염색인들의 고충인거같아요
+P1 	: 탈색 휴 염색했었나요???
+P0 	: 아무래도 보라색은 탈색을 해야 하더라구요
+P0 	: 탈색 해보셨나요
+P1 	: 탈색 후 개털이 되었죠 저도 ㅎㅎㅎ
+P0 	: 탈색 미용실가서 하셨나요?
+P0 	: 저 집에서 했다가 눈이 너무 매워서 죽는 줄 알았어요ㅎㅎㅎ
+P1 	: 저도 친구가 미용 배워서
+P1 	: 연습대상으로 집에서 했는데
+P0 	: 오 멋진친구가 계시레요
+P1 	: 탈색이 비싼 이유가 있었어요
+P0 	: 맞아요 약값도 비싸고 기술도 있어야하는거라
+P0 	: 인정합니다

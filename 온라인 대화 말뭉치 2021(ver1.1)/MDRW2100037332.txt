@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037332
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 쿠키 먹고 싶다
+P1 	: 어떤 쿠키
+P0 	: 서브웨이 코키
+P1 	: 거기 맛있다더라
+P0 	: 마카다미아 쿠키가 맛있어
+P1 	: 라즈베리도 맛있다던데
+P0 	: 나는 바삭한 게 좋아
+P1 	: 나는 쫀쫀한 게 좋은데
+P0 	: 브라우니 좋아하겠다
+P1 	: 맞아
+P0 	: 나는 타르트 먹고 싶다
+P1 	: 에그타르트 맛있지
+P0 	: 먹고 싶다

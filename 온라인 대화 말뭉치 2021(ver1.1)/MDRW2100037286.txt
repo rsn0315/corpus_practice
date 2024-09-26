@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037286
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아직
+P0 	: 오 ㅋㅋ 그럼 이따가 같이 하자
+P1 	: 그래 ㅋㅋ
+P0 	: 웅웅 오늘은 꼭한다..!
+P1 	: 그래 이따 딴소리 하지마라
+P0 	: 웅웅 당연하지!!
+P1 	: 계단걷기가 몸에 좋다
+P0 	: 웅웅 진짜 운동 많이 된다더라
+P1 	: 그래 맞다
+P0 	: 옥상까지 한번만 갔다오자 ㅋㅋ
+P1 	: 두번은 왕복 해야지
+P0 	: 에이 그건 넘 힘들다 ..!
+P1 	: 별로
+P0 	: 엄마는 오래했으니까..ㅋ

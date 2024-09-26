@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100026726
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅎㅎㅎ..그러니까요
+P1 	: 코로나 이후에 가보고 싶은 곳은 있나요?
+P0 	: 전 일단 친구랑 강릉 가기로 했어요!
+P0 	: 일정은 못잡았지먼 ㅋㅋㅋ큐
+P1 	: 와 강릉 좋네요ㅠㅠㅠㅠ
+P1 	: 지금 가면 딱 좋을텐데요ㅠ 메밀꽃도 피고..
+P0 	: 허엉... 백신 1차 맞긴 했는데 지금 가긴 좀 위험하겠죠ㅠㅠ
+P1 	: 그러겠죠...?ㅠㅠ 백신 맞아도 조심해야 하니까요..
+P1 	: 저는 메밀꽃 질 때쯤 가봤는데
+P1 	: &name1&은 나중에 필 때 가보세요!!
+P0 	: 오 좋아요 내년을 기약한다..!!
+P1 	: 네ㅋㅋㅋ여행 가면 주로 뭐하세요?
+P0 	: 어디 구경하는 거 좋아해요!
+P1 	: 구경 좋죠! 살고 있는 지역과 색다른 무언가가 있으면 더 신기한 것 같아요
+P0 	: 맞아요!! 여행 가서 기념품 사오시는 편인가요?
+P1 	: 네! 조금씩이라도 사오려고 해요. 지인들한테 선물도 하구요
+P1 	: &name1&도 기념품 사오시는 편인가요?
+P0 	: 저는 진짜 마음에 드는 거 아니면 안사와요ㅋㅋㅋ
+P1 	: 그렇군요ㅋㅋㅋ너무 많이 사오는 것 보단 낫죠!
+P1 	: 여행 다닐 때 주로 어떤 교통 수단 이용하세요?

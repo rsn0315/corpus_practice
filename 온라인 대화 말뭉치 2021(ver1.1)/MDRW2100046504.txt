@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100046504
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211025
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 겨울 간식 좋아하시나요?
+P0 	: 네 좋아해요
+P0 	: 그중에서도 군고구마좋아합니다
+P1 	: 군고구마 추울때 먹으면 진짜 맛있죠!!
+P1 	: 저는 붕어빵 좋아해서
+P1 	: 겨울에 꼭 현금 들고다녀요 ㅎㅎ
+P0 	: 오.
+	  맞아요 진짜 현금을 꼭 들고 다녀야겠더라구요
+P1 	: 맞아요 ㅎㅎ
+P0 	: 근데 요즘은 편의점에서도 군고구마를 팔아요
+P1 	: 학교다닐땐 겨울에 어묵꼬치 먹으려고 500원씩 꼭 들고다녔어요
+P1 	: 헐! 편의점에서도 팔아요?
+P1 	: 요즘 편의점에는 안 파는 게 없네요
+P0 	: 네 요즘 편의점에 군고구마 오뎅을 팔더라구요
+P1 	: 와 드셔보셨어요?
+P0 	: 예전에 포장마차에서 먹는 추억이 없어져서 아쉬어요
+P1 	: 예전에 비해 많이 없어졌는데
+P1 	: 코로나때문에 더 없어진 거 같아요
+P0 	: 거리 포장마차가 많이 없어졌어요
+P0 	: 맞아요
+P0 	: 포장마차 떡볶이도 없어지고
+P1 	: 맞아요 ㅠㅠ
+P1 	: 너무 아쉬워요
+P0 	: 맛보다는 그 냄새가 너무 좋아서 나도 모르게 이끌려서 사먹곤 했는데

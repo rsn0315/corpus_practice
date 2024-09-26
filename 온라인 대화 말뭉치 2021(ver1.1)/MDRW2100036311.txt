@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036311
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 가고픈 곳 잇으세요?
+P1 	: 저는 이탈리아요
+P1 	: &name1&님은요??
+P0 	: 저는 몽골이요
+P1 	: 오 특이하네요 이유가 있을까요??
+P0 	: 친구가 추천해줫어요
+P0 	: 너무 좋앗다고
+P1 	: 우와 어디를 가봤다고 말해주셨나요??
+P0 	: 초원에서 밤에 별보는게 너무 좋앗대요
+P1 	: 그렇군요 그럼 &name1&님도 별보러가고 싶으신건가요??
+P0 	: 별도 보고 싶지만ㅋㅋㅋㅋㅋ드넓은 초원을 본 적이 없어서 초원도 궁금해요
+P1 	: 우와 장활한 초원도 멋있을 것 같아요
+P1 	: 여행 가보신 적 있으신가요?
+P0 	: 여행 좋아해요
+P0 	: 특히 이탈리아에 가고픈 이유가 잇으신가요?
+P1 	: 부라노섬에 가고 싶어서요
+P0 	: 들어본적 잇는것 같은데... 그 막 알록달록하다는 섬이 거긴가요?
+P1 	: 맞아요 거기가 동화같아서 가보고 싶어요

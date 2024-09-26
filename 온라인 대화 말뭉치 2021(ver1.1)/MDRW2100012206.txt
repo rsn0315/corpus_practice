@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신게 뭐에요?
+P1 	: 식료품이요
+P0 	: 진짜 최근같네요ㅋㅋ
+	  사고싶은 물건이 혹시 있나요? 장바구니에 넣어둔!
+P1 	: 엘지 그램 사고싶어서 눈독 들이고 있어요
+P1 	: &name1&은요?
+P0 	: 오홍~ 음 저는 요즘엔 신발! 스니커즈같은 운동화를 사고싶어요ㅋㅋ
+P1 	: 스니커즈하니까 생각난건데
+P1 	: 요즘 다시 조던이 유행하더라고요
+P0 	: 아그래요? 조던이라함은 농구화같이 생긴건가요?
+P1 	: 맞아요
+P0 	: 진짜 유행은 돌고도나봐요ㅋㅋㅋ
+P1 	: 공감해요
+P1 	: 어떤 쇼핑몰 자주 이용하세요?
+P0 	: 저는 쇼핑몰은 딱히없고 네이버멤버십을 쓰고 있어서 네이버에서 검색해서 해당하는 스토어에서 사고있어요~
+P0 	: &name2&은 어느 플랫폼을 사용하세요?
+P1 	: 저도 네이버 쇼핑 자주이용해요!
+P0 	: 네이버멤버십도 쓰세요?

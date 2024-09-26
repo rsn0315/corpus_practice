@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023471
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 기념품 사오시나요?
+P0 	: 네 어딜가도 꼭 유명하다는거, 맛있다는건 사오는 편이에요
+P0 	: 혹시 여행 좋아하시나요?
+P1 	: 좋아해요 저도 기념품은 주로 먹을거요..ㅎㄹ
+P0 	: 가장 좋았던 여행지가 어디세요?
+P1 	: 음 해외는 몰디브 국내는 제주도요~^^
+P0 	: 몰디브 너무 부럽네요~~
+P0 	: 제주도에서 가장 좋았던 곳은 어디신가요?
+P1 	: 음 협재 해수욕장 가봤는데 좋더라구요
+P0 	: 협재 좋다고 많이들 하더라구요
+P0 	: 가보고 싶네요
+P1 	: 네 &name1&은 어디가 기억에 남으시나요?
+P0 	: 저는 외국은 싱가포르랑
+	  국내는 부산이 제일 좋아요
+P1 	: 오 부산도 좋죠^^ 싱가폴도 가봤어요!!
+P0 	: 여행 정말 좋아하시나봐요~~~~

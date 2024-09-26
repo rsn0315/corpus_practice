@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211026
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 앗 안녕하세요:)
+P1 	: 저녁식사는 하셨나요? ㅎㅎ
+P0 	: 네 저녁을 먹고 씻고 왔네요 카톡을 이제 봤어요
+P1 	: 그렇군요! 푹 쉬고 계신가요??:)
+P0 	: 네네 티비보면서 쉬고있어요
+P0 	: &name2&님은요?
+P1 	: 저는 오늘 백신 2차접종 해가지고
+P1 	: 맞고 나서 쉬고 있어요 ㅎㅎㅎ 백신 접종 다 하셨나요??
+P0 	: 네
+P0 	: 저는 얀센접종은 했거든요
+P0 	: 1차만 접종해서 좋았는데.. 뉴스에 곧 부스터샷 접종해야하는 대상자라고 하네요 ㅎㅎ
+P1 	: 아아 얀센을 맞으셨었군요!
+P1 	: 다른 백신들도 6개월지나면 다시 맞아야한다고 하더라구요 ㅠㅠ
+P1 	: 얀센은 접종하고 혹시 아프거나 그러셨나요..??
+P0 	: 안그래도 걱정했는데요
+P0 	: 12시간쯤부터 뭔가모를 무기력함과 뻐근함이 오더라구요
+P0 	: 그렇게 12시간정도 머리가 띵해서 누워있었어요
+P1 	: 앗 저는 이번에 화이자 맞았는데 증상이 비슷한 것 같아요..!
+P1 	: 부스터샷 맞으실때는 아무 부작용도 없으시길..!

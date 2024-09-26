@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037718
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 저녁은 뭐 드실꺼에요?
+P0 	: 글쎄요 모르겠는데 메뉴 정하셨어요?
+P1 	: 네 저는 치킨 시키려구요 ㅎㅎ
+P0 	: 오 맛있겠어요 어디서 시키시게요?
+P1 	: 지코바요 !!
+P0 	: 앗 지코바 저도 좋아해요 ㅎㅎㅎ
+P0 	: 양념있는거 드시는거죠?
+P1 	: 네네 ㅎㅎ 매운맛으로 먹습니다 !
+P0 	: ㅎㅎㅎ 맛있게 드세요~~
+P1 	: ㅎㅎ &name1&님도 얼른 정하셔야죠
+P0 	: 부모님이랑 살아서요 딱히 정할게 없네요
+P0 	: 밀키트 이용해보셨어요?
+P1 	: 네네 ! 해봤습니당
+P0 	: 밀키트 좋은거같아요 ㅎㅎ

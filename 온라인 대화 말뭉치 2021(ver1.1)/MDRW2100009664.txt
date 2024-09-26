@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100009664
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 현 과외중인 선생님이랑
+P0 	: 영어과외를 하고 있나요?
+P1 	: 그렇게 하고 있는 거 같아요
+P1 	: 네 그렇다는 거 같으요
+P0 	: 과외를 두개를 하고싶어 하는 건가요?
+P1 	: 그거는 이번 주 화요일에 끝나고
+P1 	: 금요일부터 저랑 하게 되는 거래요
+P0 	: 학부모의 니즈 파악이 중요해요
+P0 	: 저는 처음 상담때 학부모가 왜 과외를 바꿨는지 물어봐요
+P0 	: 정확히는 이전 과외의 불만 사항을 물어봐요
+P1 	: 오오...!! 전문성 대박이에요
+P0 	: 단어장 하나 기본으로 돌리시고
+P0 	: 자이스토리 독해 기본 / 실전 / 어법, 어휘 기본/ 실전
+P0 	: 교육청&사설모의고사 1&2학년 4개년
+P0 	: 문제집을 많이 풀게 숙제 시키고 많이많이 나가세요
+P1 	: 갑자기
+P1 	: 갑자기 확 안심돼요
+P1 	: ㅅ혹시 수업준비는
+P1 	: 몇 시간 정도 하세요?
+P0 	: 저는 여러개 하다 보니까
+P0 	: 이미 수업준비가 되어 있어서 별로 안해요
+P0 	: &name2&님도 과외 많이 하다보면 수업준비가 점점 줄어들게 되실 거에요
+P1 	: 그런 거 겠죠 역시?
+P1 	: 사실 진짜 첫첫과외라
+P1 	: 나무...  긴장됩니다
+P0 	: 유튜브 영상 추천드려요
+P1 	: 과외 유튜브요?!
+P0 	: 대학생이 과외로 월 200 버는 법
+P0 	: 이 영상 정말 추천드리고
+P1 	: 와 월 200
+P1 	: 꼭 볼게요 내일

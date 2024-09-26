@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012645
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!!
+P0 	: 혹시 동물 키우시나요?
+P1 	: 아뇨 동물 키울 여건이 안돼서 못키우고 있어요
+P1 	: 동물 키우시나요?
+P0 	: 저는 예전에 물고기를 키웠었어요 지금은 키우지 않네요
+P1 	: 와 물고기를 키우셨구나 어떤 종류의 물고기를 키우셨어요?
+P0 	: 구피를 키웠어요!
+P0 	: 다른것도 많이 키웠는데 기억이 안나네요..
+P1 	: 구피가 주황색 꼬리 긴 애 맞나요?
+P0 	: 네 맞아요! 여러가지 색이 있어요
+P1 	: 아 주황색 말고 다른 색도 있군요? 몰랐어요
+P0 	: 물고기가 종류가 정말 다양하더라구요.. 알록달록해요
+P1 	: 정말 예쁜 수족관이었겠어요
+P1 	: 물고기는 밥을 하루에 몇번 주는건가요?
+P0 	: 하루에 두번 줬었어요!
+P1 	: 아침 저녁으로 한번씩 주는건가요?
+P0 	: 네네
+P1 	: 물고기는 손이 덜 가는 편이죠? 키우기에?

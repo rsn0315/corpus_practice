@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100042078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 김밥 좋아하죠
+P0 	: 무슨 김밥 좋아하세요?
+P1 	: 저는 그냥 기본 김밥이요
+P0 	: 아 저도 그냥김밥도 좋아하는데
+P1 	: 뭐든 기본이 제일..ㅎㅎ
+P0 	: 오늘은 계란물 입혀서 구운 김밥이 땡겨요
+P1 	: 그것도 맛있죠!!
+P0 	: 네 먹다 남은 김밥은 꼭 저렇게 해서 먹는데
+P1 	: 노릇노릇하게 지져져서...역시 김밥은 맛있어요
+P0 	: 맞아요 계란국이랑 먹어도 맛있고..
+P1 	: 계란국 안먹은지 오래되었는데 먹고싶네요..
+P0 	: 김밥은 싸는게 힘들어서 늘 사먹게 되네요
+P1 	: 이것저것 준비할게 많죠ㅠ

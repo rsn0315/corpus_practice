@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017936
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 동남아 여행 가고싶다
+P0 	: 나도
+P1 	: 베트남 다시 가고싶엉 ㅜㅜ
+P0 	: 언제가지
+P1 	: 글게.. 코로나때문에 계획 짜는것도 힘드네
+P0 	: 내년엔 갈수있을까
+P1 	: 갈수있길 ㅜㅜ
+P0 	: 베트남 쌀국수 먹고싶다
+P1 	: 나도 ㅋㅋ 한국에서는 넘 비싸다!
+P0 	: 그러니까 ㅋㅋ
+P1 	: 내년에 꼭 가자!
+P0 	: 그러자
+P1 	: 한번 가본데라 더 잼날듯~
+P0 	: 그렇지 ㅋㅋ

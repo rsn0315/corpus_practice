@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 ㅎㅎㅎ
+P0 	: 반려동물 키우시나요?!
+P1 	: 아니요ㅠㅠ &name1&님은 키우시는 동물 있으세요?
+P0 	: 저는 본가에서 키워요 ! &name3&라고 고양이에요
+P1 	: 오옹 어떤 종이에요??
+P0 	: 코리안 숏헤어에요!
+P0 	: 동생이 간택당해서 키우게되었어요
+P1 	: 유튜브에서 누가 간택 당하는거 봤는데 실제로도 이런 일이 있네용 신기하다ㅎㅎㅎㅎ
+P0 	: 저도 너무 신기하더라구요
+P0 	: 진짜 너무 귀여워요..
+P1 	: 저도 간택당하고 싶네여ㅠㅠㅠ 예전엔 강아지가 좋았는데 친구가 키우는 고양이 보니까 고양이가 은근히 애교가 많더라구요
+P0 	: 네 맞아요ㅜㅜ 고양이 생각보다 너무 애교쟁이에요!!
+P0 	: 막 사람있으면 스윽와서 이뻐해달라구해요
+P1 	: 헉 상상만해도 귀여워요ㅠㅠㅠ
+P1 	: 사진 많이 찍으시겠네요ㅋㅋㅋㅋ 동물 키우는 친구들 다 갤러리보면 난리더라구요
+P0 	: 맞아요.. 진짜 갤러리가 &name3&뿐이에요
+P0 	: 너무너무 귀여워요
+P1 	: ㅋㅋㅋㅋㅋ 부럽습니당ㅠㅠㅠ

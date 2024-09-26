@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017429
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 좋아하는 배달 메뉴 뭐에요?
+P1 	: 전 떡볶이요!
+P0 	: 떡볶이 배달 시키긴 너무 비싸졌지 않아요?ㅠㅠ
+P1 	: 마자요... 너무 비싸요...
+P0 	: 저는 치킨 좋아하는데 치킨 좋아하세요?
+P1 	: 치킨 잘 안먹는데 가끔 생각나면 먹습니다!
+P0 	: 아 그래요? 피자는 어때요?
+P1 	: 피자는 좋아해요!
+P0 	: 피자는 어느 브랜드 좋아해요?
+P1 	: 전 화덕피자 좋아해요
+P0 	: 화덕피자라는 브랜드가 있어요?
+P1 	: 아뇨 그냥 음... 따로 브랜드 없는 가게에서 화덕에 구워서 파는 피자요!
+P0 	: 아~ 저는 브랜드를 물어봤는데 ㅜㅜ
+P0 	: 피자헛이나 미스터피자 피자스쿨 그런거요
+P1 	: 딱히 좋아하는 브랜드는 없어서요
+P0 	: 아! 그런 의미였다면 인정~
+P0 	: 그럼 마르게리타 피자 이런거 좋아하시겠어요?
+P1 	: 네!
+P0 	: 그럼 씬피자도 좋아해요?
+P1 	: 씬피자도 나쁘지않은것 같아요
+P0 	: ㅋㅋ저는 피자헛 최애메뉴 있었는데 사라졌어요 ㅜㅜ

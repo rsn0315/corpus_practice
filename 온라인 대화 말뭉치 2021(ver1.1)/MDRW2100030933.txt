@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030933
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래 하시나요?
+P1 	: 안녕하세요
+P1 	: 중고거랜 안해요
+P0 	: 아 그러시군요 최근 쇼핑하신 물건은요?
+P1 	: 거의 먹는것만사요
+P1 	: 청정원에서 소스류나 냉동사고 핫딜있음 그런거하구요
+P0 	: 청정원 스파게티 소스요? 다른 소스도 있난ㅅ?
+P0 	: 있나요
+P1 	: 돈가스소스. 케찹. 마요네즈. 머스타드 등등 다있어요~~
+P1 	: 신한이나 삼성에서 40퍼쿠폰받아서 사요
+P0 	: 아 종류별로 사시는군요 청정원이 맛있나요?
+P1 	: 네 맛도 괜찮아요. 원래 먹던거라그런지 전 거부감없더라구요
+P0 	: 40퍼 쿠폰은 카드홈페이지나 앱인가요?
+P1 	: 네 카드요.
+P0 	: 알뜰하시네요
+P1 	: ㅎ 요즘에 관심이많아서~~~ 인터넷폐지줍기? 엄청하고있어요
+P1 	: 소비가 많이줄더라구요
+P0 	: 그건 뭔가요?처음듣네요
+P1 	: 출석같은거해서 10원씩 버는거요
+P0 	: 아 추천해주실만한거 있나요

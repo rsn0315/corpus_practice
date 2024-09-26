@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 비오면 길도 미끄러워서 배달시키기 미안해
+P0 	: 그럼 조금 있다가 아웃백이라도 포장해올까?
+P1 	: 비가 많이 와서 운전하기가.. 괜찮겠어?
+P0 	: 속도 줄여서 가지 뭐
+P1 	: ㅎㅎ 그라던지
+P0 	: 이런 날엔 아웃백에 사람도 적을껴
+P1 	: 4단계 풀리면 직접 가서 먹고 싶다
+P0 	: 비 오는 날 아웃백에서 포장해다가 저녁에 예능보면서 먹자
+P1 	: ㅎㅎ 굿이넹
+P0 	: 촵촵 맛있겠다
+P1 	: 비오는 날엔 기름진 음식이 땡겨 ㅎㅎ
+P0 	: ㅎㅎ 나도 그래
+P1 	: 아웃백 가는 길은 안 막히려나?
+P0 	: 비와서 막힐 수도 있는데 천천히 다녀오자

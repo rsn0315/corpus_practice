@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002981
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?^^
+P1 	: 안녕하세요 ~^^
+P0 	: 쇼핑좋아하세요?
+P1 	: 생필품 , 식품 사는걸 좋아해요
+P0 	: 생필품은 필수죠. ㅋㅋ 저도 식품, 생필품 많이사요.
+P1 	: 옷은 사본지 일년도 넘었어요 ㅋ
+P0 	: 아 그렇구나^^ 저도 제옷은 저렴하게 사고 아이들옷은 좋은거 사게되는것같아요.ㅋ
+P1 	: 아~^^ 그러시군요
+	  그럼 주로 인터넷에서 구매하시나요~?
+	  아니면 사러가세요?
+P0 	: 인터넷이 저렴해서 인터넷으로 구매해요ㅋ
+P0 	: 인터넷통해서 사시나요? ^^
+P1 	: 그치용 ㅎ 맞아요^^ 
+	  네 저두 인터넷 에서 사는데 ㅎ 잘 맞을지 정말 괜찮을지 모르겠어서 잘 못사요 ㅋ
+P0 	: 아 그러시구나. 맞아요.
+P0 	: 그런 단점은있죠ㅋㅋ
+P1 	: 쌀이떨어져서 쌀을 사야하는데 아직 못사고 검색만 하고 있네요 ㅋ
+P0 	: 아 요즘 쌀값 비싸죠? ㅠㅜ
+P1 	: 네 ㅜ 다 올랐지만 쌀값도 비싸네요
+P0 	: 맞아요. 쌀값 장난아니에요. 옷 값도 장난아니구요.

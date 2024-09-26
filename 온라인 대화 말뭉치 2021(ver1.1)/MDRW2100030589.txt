@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030589
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하셍,
+P0 	: 안녕하세요?
+P1 	: 네 가을여행지 좋은데아세요?
+P0 	: 가을은 캠핑가기좋은계절이죠
+P1 	: 캠핑장비가 없어서 가기어려워요
+P0 	: 아..그러시군요
+P0 	: 요즘은 글랭핑도 잘되있긴하던데
+P1 	: 글램핑장 어디 추천해주실곳잇나요?
+P0 	: 저도 캠핑을 다녀서 글램핑장은 잘모르네요ㅜㅜ
+P1 	: 캠핑은 장비가 끝도없죠? 그래도 경치보면 그고생이 사라지나요?
+P0 	: 그렇죠..다치고 커피한잔하면 피로가 싹 풀려요
+P1 	: 맞아요 멋진 경치보면섷ㅎ
+P1 	: 가을 단풍은 어디가야 제대로 볼까요?
+P0 	: 잘몰라요..단풍구경안다녀봐서
+P0 	: 내장산?
+P1 	: 오좋을거같아요
+P1 	: 10월엔 강원도 가려고요 가을에 열심히다녀야죠
+P0 	: 부럽네요

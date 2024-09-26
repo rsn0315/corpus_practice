@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100043601
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 접종 일찍 끝나셨네요
+P1 	: 네네 ㅎ 직업상 일찍 맞았어여
+P0 	: 아 그러셨구나
+P0 	: 백신 2차까지 접종했더니
+P0 	: 좀 후련하기도 하고 그러네요
+P0 	: 증상은 심하지 않으셨어요?
+P1 	: 저 1차때 열이 올라서 좀 힘들고 2차엔 괜찮았어여
+P0 	: 아 오히려 2차때 괜찮으셨군요
+P0 	: 제 주변엔 2차때 고생한 분들이 꽤 있어요ㅜ
+P1 	: 화이자는 2차에 아프다고 하더라고요 ㅎ
+P0 	: 아 화이자 아니셨어요?
+P1 	: 네 ㅎ
+P1 	: 일찍맞아서
+P1 	: 아스트라였어요
+P0 	: 아 그러셨구나
+P0 	: 정말 초반에 맞으셨나봐요
+P1 	: 네네 ㅎ 완전 초반은아니고 ㅎ그래도 빠르긴했죠
+P1 	: 무서웠어요
+P1 	: 어쩔수없이 맞았지만
+P0 	: 그래도 무사히 접종 끝내셨네요
+P0 	: 축하드려요
+P1 	: &name1&님도요 ㅎ
+P1 	: 근데 그건있어요
+P1 	: 극도로 피곤해지는거
+P1 	: 부작용같은
+P0 	: 네 금세 피곤해져요ㅜ

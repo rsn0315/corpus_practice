@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100029586
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 스포츠경기 관람 vs 직접경기
+P1 	: 스포츠경기 관람
+P1 	: 스포츠 리그 맛있다
+P1 	: 스포츠경기 관람은 문학경기장
+P0 	: 인정하는부분
+P0 	: 인천사람이라면
+P0 	: 스포츠는
+P1 	: 티켓 예약은 인터파크
+P0 	: 문학경기장이지
+P1 	: 스포츠는
+P1 	: 문학경기장
+P0 	: 그거알아?
+P1 	: 야구 구단은
+P1 	: 뭐
+P0 	: 문학경기장 이름바꿈
+P1 	: 뭐로
+P0 	: 인천ssg랜더스필드로 이름바꼈음
+P1 	: 쓱 랜더스 필드?
+P1 	: 생각 이상으로 독특한 이름이네
+P1 	: 우리 수능 끝나면
+P1 	: 야구 보러가자
+P1 	: 너는 응원하는 구단이 뭐니?
+P1 	: 참 궁금하다
+P0 	: 수능끝나면..
+P0 	: 인천사람이면
+P0 	: 당연히 쓱이지

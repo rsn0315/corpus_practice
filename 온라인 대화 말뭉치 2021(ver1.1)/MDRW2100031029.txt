@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031029
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일vs육아 어느쪽이세요?-
+P1 	: 집안일이 훨씬 쉬운것 같아요
+P0 	: 그러시군요 어떤면에서 그러실까요
+P1 	: 그냥 감정없이 할수있어서요
+P0 	: 아 공감되네요 감정없이..그 부분이 중요하네요
+P1 	: 멍하니 해도되는
+P0 	: 집안일 중 가장 싫은건요?
+P1 	: 설거지요ㅠㅠ
+P0 	: 식세기 사용하시나요?
+P1 	: 네 그것도 귀찮은ㅋ
+P0 	: 그렇죠 그릇 넣고 다시 정리하는것도 일이죠
+P1 	: 그렇더라구요
+P1 	: 쉬운게없네요
+P0 	: 그래도 안하다가 손설거지 하려면 또 세상 귀찮네요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100018865
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이번 추석 연휴에 바다가서 1박 하고 오려고 해요.
+P0 	: 우와~~ 어디 바다요???
+P1 	: 태안이요
+P1 	: 무한리필 바베큐가 제공되는 펜션이 있다고 해서 거기 가려고 생각 중이에요
+P0 	: 우와~~ 부러워요~//
+P0 	: 태안이면 조개 캐는 곳으로 유명하지.않아요??ㅎㅎ
+P1 	: 네 조개도 캘 수 있어요~~
+P1 	: 많이 캐고 싶은데 몇 개 안나오더라구요
+P0 	: ㅎㅎ 저는 조개는 못 먹는데
+P0 	: 조개 캐는 건 좋아해요~~
+P1 	: 조개 캐는거 은근 힘들어요
+	  팔아프고
+P1 	: 요령없이 파기만 해서 되는게 아니더라구요
+P0 	: 맞아요~ 그 구멍? 고걸 찾아서 빨리 파내야 더 숨어들어가기 전에 캘수 있는 ㅎㅎ
+P1 	: 많이 캐고는 싶은데 힘들어서 금방 포기해요 ㅎ
+P0 	: 캐서 그날 드시는 건가요??ㅎ
+P1 	: 먹을만큼 캘 수가 없던데요. ㅋ
+P1 	: ㅊㅔ험하는데 의미를 둬야해요
+P0 	: ㅎㅎㅎ 조개로 뭐 해 드세요??
+P1 	: 직접 캔건 몇개 안되서 라면에 넣어 먹어요ㅡ 수산시장에서 조개 사서 고기랑 같이 구워 먹죠
+P0 	: ㅎㅎ 맛난 여행 되겠네요~

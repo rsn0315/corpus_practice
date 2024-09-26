@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012362
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뮤지컬이나 연극 가끔 보세요?
+P0 	: 뮤지컬 보고싶어요!
+P1 	: 재밌게 보셨던 작품 있으신가요?
+P0 	: 한번도 못봤어요ㅠ
+P1 	: 그럼 보고 싶은 공연 있으신가요?
+P0 	: 추천뮤지컬 있을까요
+P1 	: 처음이시라면 화려하고 신나는 뮤지컬이 좋을 것 같아요
+P1 	: 제가 봤던 것 중에는 킨키부츠 재밌었어요.
+P0 	: 오 처음들어보는데 유명한가요
+P1 	: 나름 유명한 편일거에요ㅋㅋ
+P0 	: 한번 검색해봐야겠어요
+P1 	: 정확히는 킹키부츠네요 ㅋㅋ
+P1 	: 뮤지컬 그날들도 재밌었어요
+P0 	: 오 그날들 많이 들어봤어요

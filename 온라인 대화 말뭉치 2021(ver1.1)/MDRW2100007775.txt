@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 편의점 가면 꼭 사는 물품이 있나요
+P1 	: 저는 원플러스원 탄산음료사요
+P0 	: 어떤거요?
+P1 	: 요즘 음료값도 비싸서요
+P1 	: 콜라나환타삽니다
+P0 	: 요즘 원플원인게 뭐가있지
+P0 	: 너무좋다
+P0 	: 환타 무슨 맛 좋아하세요
+P1 	: 매달 품목이바뀌는데 콜라나 사이다는 항상 있어요
+P1 	: 저는 환타 포도 제일좋아해요
+P0 	: 와우
+P1 	: 어떤맛좋아하세요?
+P0 	: 포도 맛잘알
+P0 	: 제일맛있어
+P0 	: 음료 말고 다른건 뭐 사시나요
+P0 	: 음 저는 주로 배고플 때 들어가서 삼김이나 샌드위치 사요
+P1 	: 저도 계란참치샌드위치 자주사먹어요!
+P0 	: 그거 완전 맛있잖아요
+P1 	: 맞아요 살살녹아요
+P0 	: 계란 약간 뭐라해야하지 으깨서 넣은거 너무 맛있어쇼

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006617
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 운이 좋았나보네!! 날씨도 좋고
+P0 	: 그렇지 아!  근데 패딩 열심히 입긴했다 파리에서
+P1 	: 파리? 파리도 갔어?
+P0 	: 응 가까워 유로열차타고 갔다옴
+P1 	: 유럽은 진짜 다 연결되어있구나 파리에 볼 거 많지?
+P0 	: 응 근데  &name3&랑 나는 이미 관광코스 이런데는 다녀봤어서 맛집이랑 만화전시회 이런데 찾아다님ㅋ
+P1 	: 이욜 언어는 어떻게했어?
+P0 	: 언어ㅋㅋ 내가 진짜 불어로 한 문장 외웠잖아
+P0 	: 내가 불어를 못하는데 혹시 영어하나요? 이문장만 달달 외워서 편하게 다님!ㅋㅋ
+P1 	: 프랑스사람들 영어 싫어하지? 모국어 그런게 강하다고하던데
+P0 	: 응 영어 먼저하면 대꾸 안하거나 불어로만말하는데
+P0 	: 나처럼하면 영어로 얘기해줌ㅋㅋㅋ
+P1 	: 머리좋네ㅋㅋㅋㅋ기발하다
+P0 	: 진짜 내가 생각해도 너무 웃김
+P0 	: 근데 파리에서 비 엄청 맞음ㅋㅋㅋ 우산은 없는데 비는 안그치고 둘 다 비 쫄딱맞고ㅠㅠ웃겼어
+P1 	: 그것도 다 추억이지 뭐ㅋㅋ
+P0 	: 그치 진짜 얘기하다보니까 &name3&랑 여행 많이했네

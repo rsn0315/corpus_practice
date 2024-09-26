@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017753
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 일 하고 계신가요?
+P1 	: 네 저 직장인이에요~ 님은요?
+P0 	: 저는 취준생이에요!
+P1 	: 코로나19 상황에서 구직하는 소감은요?
+P0 	: 만만치 않구나.. 하고 있어요
+P0 	: 일하는곳은 어떠세요?
+P1 	: 다른 직업에 비해서 만족하는 편이에요~
+P1 	: 가끔 스트레스도 있긴 한데 그건 어딜가나 다 있으니까요 ㅜㅜ
+P0 	: 그쵸ㅠㅠ
+P0 	: 사람이 참 힘든거같아요
+P1 	: 알바나 인턴 해본 적 있어요?
+P0 	: 네! 작년까지 일했어요
+P1 	: 어떤 일 해보셨어요?
+P0 	: 사무직이요ㅎㅎ
+P1 	: 그럼 사람으로 인한 스트레스는 없었겠네요 ㅎㅎ
+P0 	: 생각보다 있더라구요ㅎㅎ
+P1 	: 무엇때문에요?
+P0 	: 사람이 있으면 없을수는 없더라구요
+P0 	: 스트레스 없으신편인가요?
+P1 	: 저는 독립 사무실 따로 있어서 괜찮아요 ㅎㅎ
+P1 	: 구직하기 위해서 스펙은 많이 쌓아두셨나요?
+P0 	: 진로를 바꾼거라 상관이 없어 슬프네요ㅠ

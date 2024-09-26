@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031173
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>광복절 연휴 집에서 머무르기 대국민 캠페인
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 광복절이 이미 지났죠
+P0 	: 이제 곧 추석이 다가오는데 집에서 모르기 대국민 캠페인을 해야 되겠어요
+P1 	: 추석 때 너무 많은 사람들이 이동할까 봐 겁납니다
+P0 	: 광복절처럼 연휴에는 이동을 하지 말아야 돼요
+P1 	: 하지만 그게 참 쉽지 않아요
+P0 	: 가족이라는게 한 번씩 모이고 싶거든요
+P1 	: 모이면 위험한데 또 안 보이기는 허전한게 명절이 죠
+P0 	: 광복절에 집에 계셨나요
+P1 	: 저는 일하느라 집에서 재택 근무 했어요
+P0 	: 잘하셨네요 집이 가장 안전하죠
+P1 	: 다들 힘들겠지만 집에서 머무르기를 잘 지켰으면
+P1 	: 좋겠어요
+P0 	: 추석도 무난하게 무사히 지나가길 바라요
+P1 	: 광복절에 뭐 하셨어요
+P0 	: 저는 집에서 요리해 먹었어요

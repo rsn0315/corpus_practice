@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100004860
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하시는 거 있나요?
+P1 	: 홈트요
+P0 	: 홈트 뭐해요?
+P1 	: 플랭크요
+P0 	: 플랭크 하루에 몇 세트 하시나요
+P1 	: 3세트요
+P0 	: 매일 해요?
+P1 	: 네
+P0 	: 영양제 같은 것도 드시나요?
+P1 	: 락토핏요
+P0 	: 락토핏 뭐에 좋나요?
+P1 	: 유산균
+P0 	: 유산균 몇 억개 있어요?

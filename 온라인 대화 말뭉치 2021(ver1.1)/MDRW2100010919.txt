@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100010919
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 떡볶이 맛집 알아?
+P0 	: 나 모르는데
+P0 	: 배떡 로제 먹고싶어
+P1 	: 나도 먹고 싶어
+P1 	: 배떡 로제 너무 맛있어
+P0 	: 먹어봤어?
+P0 	: 무슨 맛이야?
+P1 	: 분모자가 진짜 맛있는 맛?
+P1 	: 중당 넣어 먹어도 너무 맛있는 맛
+P0 	: 오 분모자 맛있겠다
+P0 	: 로제 분모자 좋다
+P0 	: 분모자는 비싸?
+P1 	: 분모자 추가는 조금 비싸
+P1 	: 3000원
+P1 	: 근데 짱맛있어
+P0 	: 아하 그러면
+P0 	: 분모자를 직접 사서 넣는거는?
+P1 	: 엥 이게 뭐야
+P1 	: 분모자는 근데
+P1 	: 비싸
+P0 	: 그래?
+P0 	: 나는 요즘
+P0 	: 버블티먹고싶어
+P1 	: 우리 학교 앞에 버블티 집 있어
+P0 	: 버블티 쿠폰 다 썼어?
+P1 	: 웅 다썼어
+P1 	: 0원이야
+P0 	: 탈탈 털어썼구나

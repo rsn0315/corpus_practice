@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019650
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평상시에 책 많이 읽으세요?
+P1 	: 예전에는 많이 읽었는데 요즘엔 잘 못 읽고있어요
+P1 	: 책 좋아하세요?
+P0 	: 좋아하긴 하는데 최근에 읽은건 0권이네요
+P0 	: 수험생활 합치면 1년 넘게 읽은게 문제집 밖에 없어요
+P1 	: 나중에 읽고 싶은 책은 따로 없나요?
+P0 	: 딱히 생각나는게 없네요
+P1 	: 아쉽네요
+P0 	: &name2&님이 책 추천해주세요
+P1 	: 어떤 장르 좋아하세요?
+P0 	: 추리 소설 좋아해요
+P1 	: 유명한 작품들은 다 읽으셨나요?
+P0 	: 거의 다 읽었다고 해도 무방하죠
+P1 	: 무방해요?ㅋㅋㅋㅋ
+	  뭐뭐 읽으셨어요 ㅋㅋㅋ
+P0 	: 셜록홈즈랑 아가사 크리스티는 다 읽었고
+P0 	: 괴짜탐정의사건노트처럼 가벼운것도 읽었어요
+P0 	: 히가시노 게이고 것도 거의 다 읽었구요

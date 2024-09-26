@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100036000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사 하셨을까요?
+P0 	: 네 방금 먹었어요
+P0 	: 드셨나요?
+P1 	: 넵! 전 치킨 먹었어요!
+P1 	: 어떤거 드셨어요?
+P0 	: 저는 샌드위치요!
+P0 	: 치킨 어디꺼 드셨나요?
+P1 	: 치교치킨이라고 새로 생긴 곳 같더라구요!
+P1 	: 숯불이였어요!
+P0 	: 숯불치킨 치밥하기 좋죠!
+P0 	: 치밥하셨어요?
+P1 	: 네!! 주먹밥하고 먹었어요
+P1 	: 너무 맛있어서 폭식했어요ㅋㅋ
+P0 	: 점심이니까 찬찬히 소화시키시면 되겠네요!
+P0 	: 치킨은 원래 숯불쪽을 좋아하시나요?
+P1 	: 넹!
+P1 	: 치킨.. 그냥 다 좋아해요
+P1 	: 하나만 고를 수 없어요
+P0 	: 치킨은....고르기 힘들긴하죠...
+P0 	: 저는 bbp 후라이드가 제일 좋아요
+P1 	: 황금올리브?!?!
+P1 	: 바삭함이 맛있어요
+P0 	: 바삭하고 육즙이 풍부해서 좋아요 저는 치킨은 결국 닭맛에 먹나봐요
+P1 	: 맞아요
+P1 	: 진짜 매일 먹어도 다르게 먹을 수 있어서 더 매력적이예요

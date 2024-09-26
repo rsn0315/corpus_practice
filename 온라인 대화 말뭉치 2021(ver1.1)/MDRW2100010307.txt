@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010307
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하이요
+P1 	: 하이요
+P0 	: 동호회가주제네용
+P1 	: 동호회 뭐하세용
+P0 	: 저는 따로하는건없어요 님은요?
+P1 	: 저도 없어요 봉사활동은 하세요?
+P0 	: 봉사활동도 학교때말고는 없네요
+P0 	: 기부는 종종 합니다
+P1 	: 어떤 봉사활동 다니셨어요?
+P0 	: 농활이나
+P0 	: 동사무소 봉사활동이여
+P1 	: 동사무소 봉사는 보통 뭘 하나요?
+P0 	: 사무보조나
+P0 	: 물건 옮겼던거같아요
+P1 	: 괜찮네요
+	  저는 유기견봉사 다녔어요
+P0 	: 아하 단체에서 활동하신건가요?
+P1 	: 아뇨 친구들이랑 다녔어요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046598
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211101
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+	  요즘 즐겨하시는 취미 있으신가요~?
+P0 	: 싸이클타기요
+P1 	: 야외에서 타시나요? 주로 싸이클타러 어디로 가시나요?
+P0 	: 말리는 못가고 불광천에서 타요
+P1 	: 아~ 동네 근처에서 타는군요!
+P1 	: 싸이클은 얼마나 자주 타세요?
+P0 	: 주말에 타요
+P0 	: 평일은 실내자전거로 ㅠ
+P1 	: 엇 평일엔 실내자전거 타는 이유가 있나요? 혹시 어두워지면 싸이클타기 힘들어서 그런건가요?
+P0 	: 퇴근하고 식사하면시간이
+P0 	: 15분정도 실내자전거만타게되더라구요
+P1 	: 그래도 매일매일 자전거 타면 건강엔 엄청 좋을 것 같아요!!
+P1 	: 꾸준히 운동하는것도 쉽지않은데 대단하세요!!
+P0 	: 탈때랑안탈때차이는 있는거같아요
+P1 	: 그 차이를 크게 느꼈던 적이 있나요? 
+P0 	: 다리에  힘이생긴게 느껴져서요
+P1 	: 다리 힘이 있어야 나중에 고생 안한다고 들었어요! 싸이클 타는거 좋은 취미네요!! ㅎㅎ
+	  오늘 하루도 잘 보내시길 바랍니다!:)

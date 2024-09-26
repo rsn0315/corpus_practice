@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033416
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 육아중이신가요?
+P1 	: 앗~{emoji:♡}
+	  넵 육아 하고 있어요:)
+P0 	: 아이는 몇살인가요?
+P1 	: 3살 5살이에요~
+P0 	: 저는 3살 6살입니다
+P1 	: 육퇴 하셨나요?
+P0 	: 네 보통 몇시에 육퇴하시나요
+P1 	: 11시 넘어서요 ㅠ
+	  근데 오늘은 첫째가 아파서 일찍 자네요ㅠ
+	  둘째는 계속 안 자고 옆에서 종알종알
+P0 	: 아이가 어디가 아픈가요 ㅠ
+P1 	: 그제는 둘째가 이유없이 열이 났는데 오늘은 첫째가 감기가 와서ㅠㅠㅠ
+	  애들이 제가 일 하기 시작하니까 아프더라구요 ㅠ
+P0 	: 아 휴직하시다 최근에 복직하셨나좌요
+P0 	: 봐요
+P1 	: 네 ㅠㅠ 9월 1일자요ㅎㅎ
+	  복직 하자마자...ㅋㅋ
+P0 	: 아이들이 귀신같이 엄마가 바빠진걸 알았을까요

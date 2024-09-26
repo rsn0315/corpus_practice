@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032222
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 뭐드셨어요?
+P1 	: 칼치 먹었어요~!
+P0 	: 우와 맛있으셨겠다
+P1 	: 네!&name1&님은 뭐드셨어요?
+P0 	: 전 고등어 구이 먹었어요!
+P0 	: 둘다 생선이네요ㅋㅋ
+P1 	: 헉 저희 통했네요?!ㅋㅋ
+P1 	: 대박~~
+P0 	: 점심으로 칼치 드신거예요?
+P1 	: 네!점심으로 먹었어요~
+P0 	: 헉 글쿠나
+P0 	: 저녁은 뭐드실건가요!
+P1 	: 아마도 육계장 먹을거 같아요!!
+P0 	: 육개장 좋아하세요?
+P1 	: 네!완전 좋아해요~!
+P0 	: 저두 짱좋아해요ㅋㅋㅋ 매운거 땡기네요
+P1 	: 흐어어어ㅠㅠㅠ그러게요ㅠㅠㅠ

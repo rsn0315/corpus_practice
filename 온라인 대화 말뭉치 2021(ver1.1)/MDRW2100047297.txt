@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100047297
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 식사하셨나요?
+P1 	: 아 네네 아침은 간단히 토스트먹었어요 &name1&님은요?
+P0 	: 오 저는 오징어볶음 먹었어요~!
+P0 	: 토스트는 무슨 토스트 드셨나욥!
+P1 	: 그냥 토스트기에 구워서 잼발라먹었어요 ㅎㅎ 오징어볶음 맛있겠네요 ㅎㅎ
+P0 	: 네ㅎㅎ 진짜 맛있었어요ㅎㅎ
+P0 	: 토스트도 맛있죠! 저도 최근에 카야잼 사서 카야 토스트 자주 해먹어요
+P1 	: 카야잼 맛있겠어요^^ 오징어볶음은 요리직접 하신거에요?
+P0 	: 어머니가 해주셨어요!ㅋㅋㅋㅋ
+P0 	: &name2&님은 요리 좋아하시나요?
+P1 	: 저도 요리는 영~~~ ㅜㅜ 소질이 없나봐요ㅋㅋ
+P1 	: 그냥 맛집가거나 카페가는게 더 좋아요 ㅎㅎ 남이해준게 제일 맛있어요ㅎㅎ
+P0 	: 그렇긴 하죠ㅎㅎ 근데 만들어 먹는 것도 재미가 있더라구요
+P1 	: 얼마전에 크림파스타를 해먹었는데, 재미가 있긴했어요ㅎㅎ 요즘 밀키트도 많던데 해보셨어요?
+P0 	: 오 밀키트 요즘 맛있는 거 많죠
+P0 	: 전 그냥 스테이크 나온 거 해봤어요! 맛있더라구요
+P1 	: 세상좋아졌어요^^ 배달음식도 다양해지고 밀키트까지ㅎㅎ
+P0 	: 맞아요ㅋㅋㅋ 정말 편하더라구요
+P0 	: 제가 안사도 다 그 안에 있으니까ㅋㅋㅋ

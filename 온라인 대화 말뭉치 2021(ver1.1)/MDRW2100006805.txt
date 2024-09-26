@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다른 식재료는 어디서 사시나요?
+P1 	: 아내와 함께 시장이나 마트를 갑니다
+P1 	: 저희는 아직 온라인 쇼핑을 잘 못해요
+P0 	: 전통시장이요?
+P1 	: 네 동네에 시장이 있습니다
+P1 	: 아내가 시장에서 장보는 것을 좋아해요
+P1 	: 전 짐꾼으로 같이 다니는 거지요 ㅎㅎ
+P0 	: 짐꾼해주시니 사모님이 좋으시겠어요
+P1 	: 아내가 손이 커서 한번에 많이씩 사요
+P1 	: 혼자 못들고 오지요
+P1 	: 제가 같이 가줘야 한답니다
+P0 	: 보통 무엇을 사시나요ㅡ
+P1 	: 일반 식재료 산답니다 집에서 다듬지요
+P0 	: 요즘 구매하시고 싶은 물건 있으신가요
+P1 	: 저는 쇼핑을 안좋아합니다. 물건도 사는 걸 안좋아해요
+P0 	: 알뜰하신가요?
+P1 	: 있는 걸 활용하자는 주의입니다
+P0 	: 그러시군요 중고거래해보셨나요
+P1 	: 제 아내가 요즘 하고 있습니다
+P1 	: 당근마켓이라고 하더군요

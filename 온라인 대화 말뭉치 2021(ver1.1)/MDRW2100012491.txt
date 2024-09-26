@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 엄마 오늘 뭐했어?
+P0 	: 오늘 집안일 했지
+P1 	: 무슨 집안일?
+P0 	: 설거지랑 빨래
+P1 	: 설거지 며칠만에 한거야?
+P0 	: 3일만에 했지
+P1 	: 빨래할때 내가 새로 산 옷 빨았어?
+P1 	: ?
+P0 	: 오늘은 잠옷만 빨았어
+P1 	: 왜?
+P0 	: 한번에 모아서 해야지
+P1 	: 오늘은 잠옷만 빠는날이야?
+P0 	: 그렇지
+P1 	: 그럼 새 옷은 언제해?
+P0 	: 이번주 내로 해줄게
+P1 	: 그래
+P0 	: 내일 분리수거할때 같이 가
+P1 	: 그래 이번에도 많아?
+P0 	: 이번에 우리 둘이 가도 2번은가야해
+P1 	: 아정말?
+P1 	: 왜이리 많아?
+P0 	: 이번주에 플라스틱이 많이 나왔어
+P1 	: 왜?
+P0 	: 이번주는 생수를 마셨잖아
+P1 	: 아그렇구나
+P1 	: 그래 내일 같이가
+P0 	: 오냐

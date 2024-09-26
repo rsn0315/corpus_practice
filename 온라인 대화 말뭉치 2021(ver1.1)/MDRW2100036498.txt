@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 하이요
+P0 	: 여행좋아하세요?
+P1 	: 좋아해요
+P0 	: 여행도 자주하시나요?
+P1 	: 코로나전엔 그랫죺ㅎ
+P0 	: 어디어디다녀오셨어요
+P1 	: 전국 여기저기요  ㅎㅎㅎ
+P0 	: 오 어디가 가장좋으셨어요
+P1 	: 전 동해요
+P0 	: 저도 동해넘좋아해여 사실바다는 다좋아해요
+P0 	: 동해쪽 맛집도가셨나요
+P1 	: 맛집은  못가본거 같아욜ㄹ
+P0 	: 아하 전국다니실때 가장기억에남은맛집없으셨나요
+P1 	: 전 순천  만석꾼  이요

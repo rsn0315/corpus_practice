@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046395
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211021
+topic : 공연 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 군인
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&
+P0 	: 자?
+P0 	: 자나보네 내일 보자 &name2&야~~
+P0 	: 했어요~
+P1 	: 감사합니다!
+P1 	: 요즘 좋아하는 취미있으신가요??
+P0 	: 취미 음..축구나 주식??
+P0 	: 좋아합니다 요새
+P1 	: 축구는 직접 하시는건가요??
+P0 	: 아 코로나때문에 직접은 못하고 해외축구 보고 있어용
+P1 	: 아하! 응원하는 팀 있으신가요??
+P1 	: 링크마다 한명씩 맡아서 하고있습니다:)
+P0 	: 일단 손흥민 선수가 뛰는 토트넘!이랑 맨유경기...는 유니폼 이뻐서 가끔 봅니다
+P1 	: ㅎㅎ그렇군요!!
+P1 	: 주식은 하신지 얼마나 되셨어요??
+P0 	: 주식은 음 올해 2월 3월!?
+P0 	: 정도부터 시작한 걸로 기억해요
+P1 	: 중장기 투자 타입이신가요??아니면 단타하시나요?
+P0 	: 단타는 어려워서 안하고 스윙매매 주로해요! 한 2주-2달 가지고 가는 것 같네요
+P1 	: 요즘 코로나때문에 축구도 못하고 경기도 못보지만 빨리 끝나서 하고싶은거 다 하는 삶이 왔으면 좋겠네요:) 
+	  오늘 날씨가 추운데 감기 조심하시고 오늘 하루 파이팅하세요!!
+P0 	: 넵..짧지만 즐거웠어요! &name2&님도 좋은 하루 보내세요~

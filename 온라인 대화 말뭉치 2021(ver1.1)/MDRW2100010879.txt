@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010879
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 오늘 저녁 뭐드셧나요
+P1 	: 오징어볶음과 계란후라이를 먹었어요
+P0 	: 오 직접 해드셨나요
+P1 	: 본가에서 받아온 걸 직접 데워 먹었어요ㅋㅋ
+P0 	: 저희 어머니는... 요리를 할 줄 모르셔서... 부럽네요 본가 음식
+P0 	: 가장 좋아하는 은식이 뭐새요
+P1 	: 요즘은 샤브샤브가 당겨요ㅎㅎ
+P0 	: 아샤브샤브 넘 맛잇죠
+P0 	: 혹시 등촌 칼국수도 좋아하시나요?
+P1 	: 좋아해요! 육수가 맛있더라구요ㅎㅎ
+P0 	: 그쵸 요즘 등촌칼국수 배달도 해주더라구요
+P0 	: 그래서 요즘 저도 자주 먹어요
+P0 	: 배달 많이 시켜드시나요?
+P1 	: 4단계 이후로 많이 시켜먹어요
+P0 	: 아 맞아요ㅜ 제일 자주 시켜먹는 음식이 뭐세요 요새?
+P1 	: 요즘은 마라탕 자주 시켜먹어요
+P0 	: 아 저도 마라탕 자주 먹어요

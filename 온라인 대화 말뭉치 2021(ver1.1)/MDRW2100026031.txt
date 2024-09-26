@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100026031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요
+P1 	: 제주도에 계시나봐요
+P1 	: ㅎㅎ
+P1 	: 학교가 비대면 수업이라서 이런건 좋네여
+P0 	: 네에 학교생활 오프라인으로 가는 게 더 좋으셨나봐요
+P1 	: 저도 비대면이라 좋았는데 이제는 졸업을 해버려서ㅠㅠ
+P1 	: 동아리 활동 열심히 했었는데 비대면이라 활동을 암것도 못해서 아쉽긴 했었죠
+P0 	: 하하
+P0 	: 시험안치니가 좋을 것 같은데요
+P1 	: 시험은 근데 치지않나요??저희는 시험은 쳤어요ㅠㅠ
+P1 	: 시험이 아니라 대체과제물 제출 같은걸루요
+P0 	: 어 졸업하셨다구..
+P0 	: 동아리는 뭐 하셨어요
+P1 	: 저 여행동아리요...
+P1 	: ㅋㅋㅋㅋㅋㅋ진짜 직격타...
+P0 	: 왜여
+P0 	: 전 영화동아리
+P0 	: 아 ㅋㅋㅋ 코로나
+P1 	: 그쵸 게다가 연합이라 규모도 커서 100명 단위로 행사하고 그랬는데 할게 없네여...ㅠㅠ
+P1 	: &name1&면 그럼 수강신청도 거기서 다하신건가요??
+P0 	: 아뇨 전 37살이요
+P0 	: 프리랜서고요
+P0 	: 졸업한게.전생같네요
+P1 	: 엌ㅋㅋㅋㅋㅋ저는 학교 비대면 수업이라 제주사시면서 학교 다니시는 학생분인줄
+P0 	: 저는 고등학교도 대안학교다녀서
+P0 	: 학업스트에스 없이 다녔어요

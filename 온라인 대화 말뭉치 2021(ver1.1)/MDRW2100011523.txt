@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011523
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 어떤 계절 좋아하세요?
+P1 	: 저는 봄이요^^
+P0 	: 왜요?
+P1 	: 봄이 따뜻하고 꽃도 피고 세상이 푸릇푸릇해서요^^
+P0 	: 봄에 활기참을 좋아하시는 거군요
+P1 	: 네~맞아요!!^^
+P0 	: 그쪽은 비가 안오나요?
+P1 	: 오늘 하루종일 비오네요 바람도 불구요 거기는요?
+P0 	: 저는 잠깐씩 오다 안오다 하네요
+P0 	: 이제 슬슬 가을이 오려나봐요
+P1 	: 네~비그치면 확실히 쌀쌀해질것 같아야
+P0 	: 맞아요 점점 시원해지고 있으니까요

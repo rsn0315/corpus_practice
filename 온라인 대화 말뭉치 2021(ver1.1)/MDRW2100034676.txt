@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100034676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 햄버거도 좋아하세요?
+P1 	: 네 잘먹어요 ㅋㅋ버거킹 롯데리아 맥도날드 각자 선호 버거가 있어요
+P1 	: &name1&님은요?
+P0 	: 오호ㅋㅋㅋㅋ  &name2&님
+P0 	: 혹시 창녕갈릭버거도 영접하셨나요?
+P1 	: 아뇨 사진은 많이 봣는데 마늘 들어간 너비아니 맛날것 같아서 패스했어요 ㅋㅋ
+P1 	: &name1&님은 드셨나요?
+P0 	: 오늘 나간김에 먹어보려고 했는데
+P0 	: 일시적으로 판매중단되었데용
+P1 	: 인기가 좋아서 다 팔렸나봐요
+P1 	: 다음에 성공하심 알려주세요 맛이 궁금해요 ㅋㅋ
+P0 	: 한정기간 판매라
+	  이제 기간이 얼마 안남았는데
+	  그 안에 갈 수 있을까요?ㅋㅋ
+P0 	: 맛은 저도 넘 궁금해요
+P1 	: 후기보면 아주 맛있진 않던것 같은데 궁금은 해요 ㅋㅋ
+P0 	: 앗 그래요?
+	  제가 본 글들은 다 호라고 해서 ㅋㅋ
+P1 	: 헐 제가 본 글이랑 다른 분인가 봐요
+P1 	: 암튼 맥도날드 마늘버거가 맛은 궁금한데 주변이 먹고 말해줬으면 합니다 ㅋㅋ
+P1 	: 전 사딸라 버거세트를 잘먹어요
+P1 	: 님은 어떤세트 위주로 드세요?
+P0 	: 사딸라면
+	  버거킹 말씀하시는거죵?ㅋㅋ
+P1 	: 네네 ㅋㅋ 가격이 적당하고 양이 맞아요
+P0 	: 저는 머쉬룸와퍼요:)
+P0 	: ㅋㅋ저 오늘 햄버거 먹었는데
+	  낼은 버거킹 가야할까봐요 ㅋㅋ
+	  또 먹고싶네요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100018632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교활동 하시나요?
+P1 	: 아뇨 제가 종교가 없어서.. ㅎㅎ &name1&은요?
+P0 	: 저두요 무교예요
+P0 	: 교회 가보신적은 있나요?
+P1 	: 어릴때 몇번 가본적있어요 ㅎㅎ
+P0 	: 저도 어릴때 크리스마스 시즌에 과자받으러 갔었어요
+P1 	: ㅋㅋㅋㅋ 맞아요 저도 초코파이 먹으러 갔어요
+P0 	: 앜ㅋㅋㅋㄱ역시 다들 비슷하네요
+P0 	: 절은 가보신적 있으세요?
+P1 	: ㅋㅋ절은 아직한번도 없는데 가보고싶긴해요! &name1&은여?
+P0 	: 저는 몇번 가봤어요
+P0 	: 절이 보통 산속에 있다보니까 풍경이좋아서
+P0 	: 관광느낌으로 가봤어요
+P1 	: 저도 한번 가보고싶어요 ㅎㅎ
+P1 	: 저번에 가려다 못가서..
+P0 	: 가을에 가는거 추천드려요.! 확실히 가을이 이뻐서요
+P1 	: 낙엽 물들고 좋을 거 같아요 ㅎㅎ 추천감사합니다
+P0 	: 절은 종교활동으로 오시는분반 관광 반인거 같아요

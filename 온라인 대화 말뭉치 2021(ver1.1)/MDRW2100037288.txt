@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요ㅎㅎ 오늘 맛있는거 드셨나요?
+P0 	: 네 떡볶이 먹었어요
+P0 	: 저녁 드셨나요?
+P1 	: 네네 전 샐러드포장해서 먹었어요!!ㅎㅎ
+	  떡볶이는 사드셨나용
+P0 	: 아니요 냉동식품 조리해서 먹었어요
+P0 	: 샐러드는 어디꺼 드셨나요?
+P1 	: 집근처에 점심에는 샐러드 판매하고 저녁에는 와인바로 운영하는 곳에서 사왔어요!
+P1 	: 꽤 맛있더라구요ㅎㅎㅎㅎ
+P0 	: 우와 어떤 와인과 함께 드셨나요?
+P1 	: 앗 와인은 안먹고 샐러드만 포장해왓어용ㅎㅎ
+P1 	: 담엔 거기서 와인도 마셔보고싶네용
+P0 	: 그렇군요 어떤 샐러드 드셨나요?
+P1 	: 연어샐러드 먹었어요!!ㅎㅎ
+P1 	: 샐러드 좋아하세요?
+P0 	: 좋아는하는데 소스맛으로 먹어요ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ무슨 소스 좋아하시는편이세용?
+P0 	: 저는 키위소스 좋아해요
+P1 	: 오 키위소스 상큼하고 맛있죠ㅎㅎㅎ

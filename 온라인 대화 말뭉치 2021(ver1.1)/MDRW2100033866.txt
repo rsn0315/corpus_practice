@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033866
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아이들은 둘다 원에 다니나요?
+P1 	: 네 &name1&님은요?
+P0 	: 저는 큰아이만 원에 다녀요ㅋ
+P0 	: 둘째는 2살이라 아직 델고있어요
+P1 	: 아 애쓰시겠어요 뭐하고 놀아주시나요
+P0 	: 책도 읽어주고 장난감도 갖고놀고
+	  문센도 다니고 했었는데
+P0 	: 4단계 되면서
+	  문센도 못가게 되었네요
+P1 	: 아 맞아요.. 아이랑 보내는 하루는 참 길더라구요 ㅠ
+P0 	: 아이들 같은 원에 다니나요?
+P0 	: 아님 큰 아이는 유치원
+	  둘째는 어린이집?
+P1 	: 네 따로 다니고 있어요^^
+P0 	: 하원은 몇 시에요?
+P1 	: 20분 뒤입니다..ㅜ &name1&님은요?
+P0 	: 저는 담주부터 보낼거라
+	  지금은 낮잠들 자고 있어요ㅋㅋ
+P0 	: 안잔다고 버티다 늦게 잠들었네요
+P1 	: 오 둘 재우시느라 애쓰셨겠어요!!!
+P0 	: 담주부터 큰아이 보내고나면
+	  좀 더 수월해지겠죠 ㅠㅋㅋ

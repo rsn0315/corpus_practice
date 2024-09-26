@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100005710
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안녕 요즘 운동하는 거 있어?
+P1 	: 아니 요즘은 못하고 있어
+P0 	: 왜? 무슨 일 있어?
+P1 	: 코로나 4단계로 문을 닫아버렸어ㅜㅜ
+P0 	: 그렇구나ㅠㅠㅠ 나는 점핑다니는데 나도 곧 다닐 것 같아
+P0 	: 무슨 운동 했어?
+P1 	: 나는 수영 하고 있었어
+P0 	: 그렇구나 수영 힘들지 않아?
+P1 	: 수영 처음에는 힘들어
+P0 	: 나는 수영 못하는데 뭔가 멋있다!
+P0 	: 나도 배워볼까 생각이 드네
+P1 	: 수영 추천해
+P1 	: 한번해봐
+P1 	: 잠 잘오고 좋아
+P0 	: 잠 잘 오려나?
+P0 	: 좋다 나도 해볼게!!
+P1 	: 응 운동종목으로 강추야
+P1 	: 점핑은 좋아?
+P0 	: 그렇구나 고마워
+P0 	: 점핑도 힘든데 땀이 많이나

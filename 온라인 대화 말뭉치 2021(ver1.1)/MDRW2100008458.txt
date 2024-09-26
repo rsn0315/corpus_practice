@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 수강신청 잘됏어?
+P0 	: 불행히도 잘 됐어
+P0 	: 나는 왜 수강신청을 잘하는걸까
+P1 	: 오오 공강은 언제야?
+P0 	: 당연히 금요일이지
+P0 	: 너는 수강신청 했어?
+P1 	: 그렇군
+P1 	: 했지 나도 금공강
+P0 	: 역시 공강은 금요일이지
+P0 	: 다음주 개강이라는 사실 믿겨지냐고
+P1 	: 믿을수 없어
+P1 	: 일주일이면 또 그 지옥같은 학교생활이 시작이라니..
+P0 	: 두번씩이나 이 거지같은 대학교에 버려지다니
+P1 	: 아효 근데 나는 비대면이라 또 집에서 수업들을듯
+P0 	: 와 부럽다 나는 대면인데
+P0 	: 이론 수업같은건 좀 비대면 해주지
+P1 	: 그건 그래 교수님들 정신 차렷!
+P0 	: 교수님들 눈치챙겨~!
+P0 	: 마스크도 똑바로 챙겨~!
+P1 	: 교수님들도 코로나라서 그런지 수업하는거에 어려움 겪는것 같아...
+P1 	: 수업 들으면 맨날 이상한게 한두가지가 아녀 ㅋㅋㅋ

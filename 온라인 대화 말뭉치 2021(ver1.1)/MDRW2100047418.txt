@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047418
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 카페 있으세요?
+P0 	: 아니요 &name2&님은요?
+P1 	: 저는 그냥 눈에 보이는 곳으로 가요 ㅎㅎ
+P1 	: 커피를 좋아해서 ㅎㅎ
+P0 	: 아메리카노vs라떼
+P1 	: 전 라떼파입니다 ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 커피 못먹어 파입니다
+P1 	: 아 카페인 안받으시나요?
+P0 	: 네 심장 벌렁거려요
+P1 	: 아 헐 ㅠㅠ 그럼 주로 뭐 마시세요?
+P0 	: 홍차요
+P0 	: 홍차는 괜찮아요
+P1 	: 아 홍차는 카페인이 없나요 ???
+P0 	: 있어요!
+P0 	: 근데 괜찮더라고용
+P1 	: 아 조금 들어가는건 괜찮으신가보네요 !

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100046275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: ?
+P1 	: 안녕하세요~~
+P1 	: 오늘 점심 메뉴 정하셨나요?
+P0 	: 네
+P0 	: 안녕하세요
+P0 	: 돈까스 먹을 예정입니다.
+P1 	: 어떤 돈까스 드실 예정이신가요..?안심? 등심?치즈..?
+P0 	: 안심 입니다.
+P1 	: 안심이 제일 맛있죠 ㅎㅎ
+P1 	: 돈까스 정식으로 시키면 메밀면이랑 우동 선택하라고 하는데 주로 어떤거 선택하시나요?
+P1 	: 저는 여름에 메밀고르고 겨울엔 우동고르게 되더라구요~
+P0 	: 저는 메밀 육수를 싫어해서요 {emoji:🥲}
+P0 	: 네 알겠습니다 ~
+P1 	: 저는 오늘 짬뽕 먹을 예정인데 짬뽕좋아하시나요?
+P0 	: 네 좋아합니다. 
+	  매운 음식을 좋아하시나요?
+P1 	: 넵 저는 매운 음식 잘 먹진 않은데 스트레스 받을때마다 먹는 것 같아요ㅎㅎ
+P1 	: 매운거 잘 드시나요?
+P0 	: 저는 알레르기 때문에 매운거를 잘 못먹어요.
+P0 	: 이제 곧 점심 드시겠네요?
+P1 	: 아..알레르기가 있으시구나!!
+P1 	: 넵 10분뒤에 점심먹으러 나가려구요~
+P1 	: 언제 드실 예정이신가요?
+P0 	: 저는 12시에 먹어요.
+P0 	: 연락 오는분 많으실텐데 고생 많으시네요.
+P1 	: 괜찮습니다~ ㅎㅎ 오늘 점심 맛있게 드시고 좋은 하루 보내세요!
+P0 	: 네 좋은 하루 보내시길 바라겠습니다!

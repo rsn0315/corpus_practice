@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100004212
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 해산물 좋아해?
+P0 	: 응 해산물 좋아
+P0 	: 맛있어
+P1 	: 나는 해산물 보다는 육류...
+P0 	: 고기도 맛있지
+P1 	: 그래도 갑각류는 좋아하는 듯
+P0 	: 갑각류? 조개 그런?
+P1 	: 조개 새우 꽃게 오징어
+P0 	: 회는?
+P1 	: 회도 좋지 맛있어
+P0 	: 회 얘기하니까 물회 먹고 싶다
+P1 	: ㅋㅋㅋ 물회 ㅋㅋ 나는 가시 있는 건 먹기 싫어
+P0 	: ㅋㅋㅋㅋㅋㅋ 그렇구나
+P0 	: 물회는 가시 없지
+P1 	: 응 물회도 맛있지
+P1 	: 햄버거 중에서 어떤거 좋아해?

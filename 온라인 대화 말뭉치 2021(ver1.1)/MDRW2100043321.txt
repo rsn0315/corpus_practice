@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 토스트가 좋아 샌드위치가 좋아
+P0 	: 저는 토스트?? 치즈 녹은게 좋아가지구
+P1 	: 엄만 샌드위치가 좋던데 싱싱한 야채 들어가서
+P0 	: 근데 요즘엔 샌드위치도 야채 안넣은거 많은걸요 ㅋㅋㅋ
+P1 	: 이게 다 대만 샌드위치가 유행해서 그런다
+P0 	: 홍루이젠 생긴거 생각보다 잘 되고 있어요 무인이라 그런가
+P1 	: 인건비 안들어가면 망할 일도 적긴 하지 내가 사장이면 기분 좋겠다
+P0 	: 홍루이젠도 맛있긴 하지만 전 역시 이삭토스트랄까...
+P1 	: 이삭토스트 맨날 먹다가 흘려서 별로야 치즈 아래로 새서
+P0 	: 그건 그래요 토스트 만들때 눌러줬으면 좋겠는 ㅋㅋㅋ
+P1 	: 그런 토스트도 유행하지 않았나?
+P0 	: 근데 그건 토스트라기보다는 샌드위치라는 단어로 팔았던거같네요
+P1 	: 뜨거운 식빵이면 토스트지

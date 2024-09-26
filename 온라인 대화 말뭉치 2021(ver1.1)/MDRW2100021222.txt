@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021222
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑은 별로요 바빠서
+P0 	: 중고거래도 잘 안하시나요
+P1 	: 그건 더 부지런해야 가능해서 ㅜ
+P0 	: 마자요ㅜㅠㅜ
+P1 	: 자주 하세요?
+P0 	: 네 자주하는편이에요
+P1 	: 부지런하시네요 주로 어떤 아이템?
+P0 	: 옷 신발 종류요ㅎㅎ
+P1 	: 와 성공적인 가요?
+P0 	: 일년째 안팔리는것도 있네요ㅜ
+P1 	: 가격이 높을까요
+P1 	: 가격은 어떻게 정하세요?
+P0 	: 안높은데도 잘안팔리네여ㅜ
+P1 	: 더 낮춰 다시 올리셔야겠네요 ㅠ

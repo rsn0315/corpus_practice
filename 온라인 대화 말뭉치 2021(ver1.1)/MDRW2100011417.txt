@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011417
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 맛집이나 카페 다니시나요?
+P0 	: 저는 카페 자주 가는 편이에요
+P1 	: 좋아하는 카페있나요
+P0 	: 카페 눈 이라고 마카롱이 맛있는 카페를 자주 가는 편이에요
+P1 	: 마카롱을 좋아하시는군요
+P0 	: 마카롱 맛있어서 좋아요ㅋㅋ 옥돔님은 디저트류 중에 좋아하는 거 있으세요?
+P1 	: 카스테라 좋아해요! 촉촉하고 계란향이 나서 좋아요
+P1 	: 어떤 마카롱을 좋아하시나요?
+P0 	: 카스테라 맛있죠~
+P0 	: 전 초코 마카롱이 제일 좋아요 특히 필링이 가나슈인 거요!
+P1 	: 저도 초코 좋아해요
+P1 	: 코스트코에서 파는 다크초콜릿 맛있어요
+P0 	: 저는 집 근처에 코스트코가 없어서 가진 못하지만 나중에 먹어볼게요~

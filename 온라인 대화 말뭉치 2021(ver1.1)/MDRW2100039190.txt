@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100039190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨 맑네요.
+	  거기 날씨도 맑음 인가요^^
+P1 	: 네네 완전 화창하네요 살짝 더워요 ㅠ
+P0 	: 좀 덥죠. 그제인가 긴팔 입었다 낮에 더워서 땀 나더라구요
+P1 	: 그르니까요 요새 날씨가 좀 종잡을수가 없네요
+P0 	: 담주에 또 비 온다고 하네요
+P1 	: 아 정말요 또 많이 오려나요
+P0 	: 그러게요.. 간만에 파란 하늘 봐서 넘 좋은데
+P1 	: 습도가 낮으면서 맑은 하늘이면 참 좋겠어요 ㅋㅋㅋ
+P0 	: 어제보다 달 습한거  같아요. 어젠 습하면서 덥더라구요
+P1 	: 그러게요~ 같은 온도여도 습도가 정말 중요한거 같네요
+P1 	: 환절기때 느끼는 변화 있나요?
+P0 	: 아침에 일어나면 목이 좀 잠기는거 같아요. 목 감기가 잘 오는 편이라 밤에 기온 내려가서 그런거  같아요
+P1 	: 아 목감기 괴롭죠 저는 비염이라.. 가을을 바로 느껴요 ㅋㅋ
+P0 	: 비염이 더 힘들거 같은데요 ^^
+P1 	: 그래도 마스크 쓰고서 훨씬 낫긴 하더라고요 ㅋㅋㅋ 차단이 중요한가봐요
+P0 	: 마스크 써서 그건 좋은 듯해요

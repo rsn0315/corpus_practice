@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100005614
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요 학교 다니시나요?
+P1 	: 대학교 다녀요
+P1 	: &name1& 님은요?
+P0 	: 저는 고등학교 다녀요
+P0 	: 대학교면 엠티 같은것도 가셨나요?
+P1 	: 코로나 때문에 다 취소됐어요ㅠㅠ
+P1 	: 고등학교도 수련회랑 수학여행 못 가죠?
+P0 	: 네 다 못갔네요 ㅠ ㅠ ㅋㅋ
+P0 	: 시험공부만 하려니 죽을맛이에요
+P1 	: 아이고ㅠㅠ
+P1 	: 개학하셨나요?
+P0 	: 네 개학하는데 지금은 온라인이랑 대면 섞어서 하다가
+P0 	: 이제 나중가면 전면등교한다더라구요
+P1 	: 아예 대면 하는 학교도 있다더라고요
+P1 	: 대면이랑 비대면 중에 어떤 걸 선호하세요?
+P0 	: 저는 대면이 나은 것 같아요 물론 힘들지만 온라인은 수업 효율이 떨어지는 것 같아서..
+P1 	: 맞아요 소통하기도 힘들고 집중도 안 되죠
+P1 	: 비대면은 녹화 강의인가요?
+P0 	: 일단 쌍방향으로 출첵 다하고 녹화강의를 보여주던가 선생님이 직접 수업을 하시던가 하세요
+P1 	: 얼른 코로나가 종식되면 좋겠네요

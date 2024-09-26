@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033839
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 네 안녕하세요~
+P1 	: 동물키우세요?
+P0 	: 아뇨 어릴때 청거북이 키워본게 전부에요
+P1 	: 와우
+P1 	: 청거북이는 어쩌다 키우시게된건가요?
+P0 	: 그때 그게 유행이었던거같아요
+P0 	: 사촌오빠집도 키우고 많이들 키웠어요
+P1 	: 와우
+P1 	: 지금은 안키우시죠?
+P0 	: 네 오래전에 죽었어요
+P1 	: ㅠㅠ
+P1 	: 안타깝네요
+P0 	: 반려동물 키우세요?
+P1 	: 아니요
+P1 	: 근데 키우고싶어요
+P0 	: 뭐키우고싶으세요?
+P1 	: 저 강아지요!

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100007864
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 좋아하는 음식 뭐에요?
+P1 	: 솔직히 넘 많은듯요 요즘은 마라샹궈 땡겨요
+P1 	: 근데 마라탕에 비해 비싸고 많아서 좀 그렇더라고요
+P0 	: 아하 그렇군요 배달음식 자주 시켜드시나요?
+P1 	: 으음 중독적이라 처음 몇번 시켜보고 앱 지운채 몇달 지내다가 최근 다시 깔아봤는데
+P1 	: 헤어나올 수가 없네요 위험해요..
+P1 	: &name1&님은요
+P0 	: 저는 엄마가 집밥해주셔서 가족이랑 집밥먹고 가끔 시켜먹어요
+P1 	: 아 저도요 집밥이 짱이죠 제가 만들어먹을 때도 있고요
+P1 	: 주 메뉴는 뭔가요
+P0 	: 불고기나 닭갈비이런거 먹을때도 있고 아침에는 간단하게 요리하기 편한 계란후라이 자주 먹어요!
+P1 	: 맛있겠다.. 국이나 찌개류는 잘 안하시나요 저희집은 자주 그런거 해두고 먹는편이라
+P1 	: 계란후라이는 후라이만 드시나요 근데
+P0 	: 국은 엄마가 자주 해주시는데 제가 잘안먹고 찌개는 부대찌개 좋아해서 먹어요!
+P1 	: 부대찌개 맛있죠 오늘은 뭐드셨나요
+P0 	: 오늘 아침에는 계란후라이랑 콩나물이랑 어묵볶음이랑 먹었어요!
+P1 	: 맛있겠군요 어묵볶음은 매콤파인가요 간장파이신가요
+P0 	: 간장파요!

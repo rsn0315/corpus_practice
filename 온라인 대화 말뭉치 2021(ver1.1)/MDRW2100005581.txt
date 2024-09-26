@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100005581
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 좋아하는 책 장르 있으신가요?
+P1 	: 장르는 딱히 가리지않는 편이에요
+P1 	: 책을 자주 읽으시나요
+P0 	: 저는 사실 자주는 못읽어요ㅋㅋ
+P0 	: 예전엔 도서관 자주갔었는데 요즘은 못가고있네요
+P1 	: 아 코로나 때문에쇼?
+P0 	: 넵ㅜㅜ 게다가 가까운 도서관이 공사를 해서요
+P1 	: 너무 아쉽겠어요ㅠㅠ
+P1 	: 웹툰이나 웹소설은 보시나요?
+P0 	: 넵!! 웹소설은 안보는데 웹툰은 많이 보는거같아요
+P0 	: 근데 요즘은 또 볼게 없더라구요ㅋㅋ
+P0 	: 재밌는거 있나요?
+P1 	: 저는 네이버쪽 자주봐요
+P1 	: 어떤 장르를 좋아하시나요
+P0 	: 저는 주로 일상이나 가볍게 읽을수있는거 좋아하는거같아요
+P1 	: 약간 묘죠일지나 대학일기 이런 종류요?
+P0 	: 아 네네ㅋㅋ 모죠 너무 좋아해요
+P0 	: 예전에 선천적얼간이도 재밌게 봣어요
+P1 	: 가스파드!
+P1 	: 저도 그거 재밌게 봤어요
+P0 	: 맞아요!!ㅋㅋ 전자오락수호대도 재밌긴했는데
+P0 	: 전 선천적얼간이가 더 재밋더라구요ㅋㅋ

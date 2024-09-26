@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100044985
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 엄청 넓어요 자연(?)으로 잘 꾸며놨어요!
+P1 	: 오오...
+P1 	: 나중에 제주도가면 가봐야겠어요!
+P0 	: 진짜 강추에요!! 저는 그 스누피랜드인가 거기도 가보곡싶더라구요
+P1 	: 스누피랜드도 있나요??
+P0 	: 네네 스누피로 꾸며놨대요 대박이죠
+P1 	: 신기하네요ㅋㅋㅋㅋ처음 들어봤어요
+P0 	: 저두 최근에 알았네요ㅎㅎ 꼭 가보고싶어요ㅠㅠ
+P0 	: 가보고싶은곳있으세뇨??
+P1 	: 스누피랜드...?ㅋㅋㅋㅋ
+P1 	: 저 이제 곧 자러갈듯해요...
+P1 	: 요번 여행이야기를 끝으로 자러가려구요ㅜ
+P1 	: &name1&님도 스누피랜드 꼭 가보시길...ㅋㅋㅋ
+P0 	: 아하ㅜㅠㅠㅠㅠ 아쉽네요ㅜㅜ
+P0 	: &name2&님도 꼭 가보세요!!!
+P1 	: 넵!!가셔서 즐거운 여행 되시길 바래용
+P0 	: 네네 좋은 추억 많이 쌓으시길,,,

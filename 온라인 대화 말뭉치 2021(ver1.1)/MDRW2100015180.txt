@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015180
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이제 가을장마 끝났나봐요.. 거긴 날씨 어때요?
+P0 	: 여긴 흐리네요
+P0 	: 거긴요?
+P1 	: 여긴이제 걷힌거 같아요
+P1 	: 살짝 구름이 많지만 해떳어요.
+P0 	: 여기두요
+P0 	: 이젠 가을이네요
+P1 	: 진짜요 .
+P1 	: 어제 밤에 잠깐 당근하러 나갔는데 춥더라고요
+P0 	: 이러다 훅 겨울될듯해요
+P1 	: 흑 옷장정리 해야하는데 하셨어요?
+P0 	: 아니요 대충 꺼내입네요ㅠ
+P1 	: 흑 긴팔 꺼내야겠죠?ㅠㅠ
+P0 	: 악 너무 귀찮은ㅠ
+P1 	: 후... 엎긴했는데.. 이번주 안에 끝날까싶네요??ㅠㅠ
+P0 	: 그러게요ㅠㅠ

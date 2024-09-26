@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100008331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P0 	: 혹시 연애중이신가요?
+P1 	: 아니요 제작년에 헤어졌어요
+P1 	: &name1&님은 연야중이신가요?
+P1 	: 연애
+P0 	: 헉 저도요..
+P0 	: 한 번 헤어지니 다른 사람 만나기 힘들어요
+P1 	: 그러게요
+P1 	: 요즘에는 코로나 때문에 사람 자체를 안 만나서
+P1 	: 별로 인연도 없어요
+P0 	: 맞아요 그런 것도 있어요
+P0 	: 이상형은 어떻게 되세요?
+P1 	: 저는 제가 못 하는 거 잘하면 멋있어 보이더라고요 그거 말고는 섬세하거나 암튼 예의바른 사람이 좋은 거 같아요
+P1 	: &name1&님은요?
+P0 	: 저랑 가치관이 잘 맞는 사람이 좋아요 그래야 덜 싸우는 거 같아요ㅎㅎ
+P1 	: 가치관 중요하죠 대화도 잘 통하고
+P1 	: 진짜 중요한 거 같아요
+P1 	: 연애는 보통 어떻게 시작하시나요?
+P0 	: 아직 학생이라 학교에서 만나는게 전부예요
+P0 	: &name2&님은요?
+P1 	: 저도 학교 다닐 때 썸 오래 타다가 만났어요
+P1 	: 저는 썸타면서 이것저것 맞춰보는 편이라
+P0 	: 연애하기 전에 맞춰보는거 좋죠

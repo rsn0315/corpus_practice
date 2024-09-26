@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023650
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 그니까 맛집은 달라
+P0 	: 맞아 괜히 맛집이 아니야
+P1 	: 저녁은 뭐 먹을거야?
+P0 	: 어제 치킨먹어서 그거 남은거 먹을듯? 너는?
+P1 	: 무슨 치킨먹었어?
+P0 	: 처갓집! 핫슈림프 첨먹었는데 괜찮더라?
+P1 	: 어제도 배민으로 시켰어?
+	  누가 내꺼 로그인했던데?ㅋㅋㅋ
+P0 	: 아 로그인 알림가?ㅋㅋㅋ 쿠폰 얼마인가 볼라고ㅋㅋㅋㅋㅋ
+P0 	: 근데 처갓집 자체 쿠폰있어서 그걸로 했어ㅋㅋ
+P1 	: 핫슈프림! 맛있겠다 그냥 슈프림이랑 다른가?
+P1 	: 응 오더라ㅋㅋㄱ오호! 딱이네
+P0 	: 응 양념이 매워! 근데 난 핫양념이 그 특유의 맛이 있거든? 캡사이신
+P1 	: 응!
+P0 	: 그게 맛없는데 슈프림양념이 있어서 나쁘지않았어
+P0 	: 그냥 양념에 슈프림하면 느끼해서 얼마 못먹거든
+P1 	: 마자 슈프림 느끼하더라
+P0 	: 핫은 안느끼하니까 매운거 느끼한거

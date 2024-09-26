@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠 잘 보시나요?
+P0 	: 이번에 올림픽은 조금 봤어요
+P0 	: &name2&은 스포츠 자주 보시나요?
+P1 	: 네 좋아해요 ㅎㅎ !
+P0 	: 어떤 스포츠 좋아하시나요?
+P1 	: 저 야구 좋아해요 ㅎㅎ
+P0 	: 어느팀 좋아하시나요?
+P1 	: 롯데 좋아해요 ㅎㅎㅎ
+P0 	: 언제부터 좋아하시게 된건가요??
+P1 	: 저는 2008년부터 좋아했어요 ㅎㅎ !!!
+P0 	: 혹시 베이징올림픽 때부터 좋아하시게 된건가요?
+P1 	: 헐 네 맞아요 !! ㅎㅎ 아시는군요
+P0 	: 베이징뉴비는 유명하잖아요ㅋㅋㅋ 그럼 롯데를 좋아하시게 된 특별한 이유가 있으신가요?
+P1 	: 제가 부산에 살거든요 ! 자연스럽게 지역연고지로 좋아하게 됐어요!
+P0 	: 오 야구는 역시 연고지팬들이 대부분이군요!

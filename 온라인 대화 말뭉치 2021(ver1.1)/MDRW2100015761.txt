@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015761
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 강아지 간식 추천할 만한 게 있을까요?
+P1 	: 듀먼 닭가슴살이요
+P0 	: 오오 강아지들이 좋아하던가요
+P1 	: 엄청 좋아해요
+P0 	: 염지 안돼 있죠?
+P1 	: 거의 환장합니다
+P0 	: 집에서 닭 삶아주는 것과 다른게 있나요
+P1 	: 네. 닭가슴살을 진공포장해서 오래 먹일 수 있어요
+P0 	: 뻑뻑하지는 않은가요
+P1 	: 전자렌지에 데우면 살짝 촉촉
+P1 	: 추천해요
+P1 	: &name1&씨는 추천간식?
+P0 	: 오오. 신기하네요. 진공포장이라 그런가
+P0 	: 추천간식이라기보다ㅎ 애들이 우유 좋아해요
+P1 	: 우유도 좋아하죠
+P0 	: 펫우유로 주나요?
+P1 	: 우리애들은 산책후 우유 좋아해요
+P1 	: 저유당우유
+P0 	: 펫우유로 주시나요

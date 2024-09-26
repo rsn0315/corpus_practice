@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003743
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤영화 좋아하세요?
+P1 	: 판타지같은거나 시대극이요!
+P0 	: 영화관 언제 마지막으로 가셨어요?
+P1 	: 영화관간지는오래되었어요ㅜㅡ 최근본영화는 블랙위도우..집에서결제하고본거
+P1 	: 넷플로보는게 더 잼난거같아요
+P0 	: 넷플릭스로는 뭐보세요?
+P1 	: 바람의검심 재밌게봤어요
+P1 	: 주로 일드나 중드봐요
+P0 	: 일드중에 뭐 보셨어요?
+P1 	: 최근에 처음사랑을한날에읽는이야기,
+P0 	: 티비는 자주 보세요?
+P1 	: 네 퇴근하고 집에서 티비만보는거같아요
+P1 	: &name1&님은  무슨영화좋아하세요
+P0 	: 저는 보헤미안랩소디같은 음악영화가 좋더라구요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040142
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 조아하세요?
+P0 	: 네..많이
+P1 	: 추천여행지있나요
+P0 	: 코로나로..우리나라로..
+P0 	: 경주도좋고..부산도좋고
+P1 	: 원래는 해외 자주 가셨나요
+P0 	: 대학교땐 배낭여행으로
+P0 	: 결혼해서는 애들위주로요
+P1 	: 오 그렇균요 배낭여행도 다녀오셨구나 어디가셨나요
+P0 	: 유럽이랑 홍콩요
+P1 	: 우와 ㅠㅠ 유럽 어디다녀오셨나요
+P1 	: 잔 못가봤어요
+P0 	: 한달동안 여러곳요
+P0 	: 스위스.영국.프랑스등 7개국정도요
+P1 	: 우와 정말 멋지시다 ... 노르웨이 가보셨나요
+P0 	: 아니요..
+P0 	: 전 오스트리아.네델란드.이탈리아. 모나코...기억이잘 안나네요
+P1 	: 오 그렇군요 정말 좋은 경험이에요

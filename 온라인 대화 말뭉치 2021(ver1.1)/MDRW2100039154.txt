@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100039154
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 울 아파트에 대형견들이 좀 많은데요..
+	  집에서 키우기 힘들텐데 신기하더라구요.;
+P0 	: 맞아요. 대형견으느 서로가 힘들것 같아요~
+P0 	: 알러지는 있으세요?
+P1 	: 저는 강아지를 오래 키웠는데
+	  알러지 잘 모르겠더라구요.
+P0 	: 저도요ㅎ
+P0 	: 알러지있으면 힘들더라구요
+P1 	: 강아지 간식은 어디서 사나요?
+P0 	: 전 주로 인터넷으로요
+P0 	: 인터넷에서 많이 사세요?
+P1 	: 강아지 간식도 인터넷이 저렴하지요.
+	  저는 강아지 키운 적이 좀 오래 돼서
+	  예전엔 애견샵에서 비싸게 주고 샀었네요.ㅎ
+P0 	: 인터넷시장이 좋아요
+P0 	: 강아지 간식으로 뭐가 좋을까요?
+P1 	: 껌..ㅎ육포..
+	  우리 언니는 직접 만들더라구요.
+P0 	: 우와 대단하세요
+P0 	: 솜씨가 있으신가봐요
+P1 	: 제 언니는 강아지를 아주 오래 키웠고
+	  강아지 사랑이 좀 남다르거든요.
+P0 	: 사랑이 많은분 같아요
+P0 	: 다른 동물도 좋아하시나요?
+P1 	: 저는 고양이도 이쁘더라구요.
+	  근데 가구가 상할 듯 싶어서 고양이 키울 생각은 한번도 안해봤어요.

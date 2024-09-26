@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011513
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가가구 님은 최근에 사고 싶은거 있으세요?
+P0 	: 저는 사카이 신말이요ㅠ
+P1 	: 신발이요? 방금 찾아봤는데 되게 예쁘네요
+P1 	: 전 최근에 르꼬끄 신발 샀어요
+P0 	: 오 르꼬끄! 귀여워요
+P1 	: 가가구 님은 신발 좋아하세요?
+P0 	: 네 엄청 좋아해요
+P1 	: 어떤 종류 좋아하세요?
+P0 	: 운동화 좋아합니다ㅎㅎ
+P1 	: 저도 최근에 달리기를 해서 운동화에 관심 생겼어요
+P0 	: 오 르꼬끄 러닝화 사신건가요
+P1 	: 닥터마틴도 디자인은 좋아하는데 너무 무거울 것 같아서 신어볼 엄두가 안나더라고요ㅋㅋ
+P1 	: 네
+P0 	: 닥터마틴 첼시부츠 하나 있는데 첨 신을때 넘 힘들었네요ㅎㅎ

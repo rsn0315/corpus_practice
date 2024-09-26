@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100011019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 여행가는 거 좋아하세요?
+P0 	: 혼자가는거 좋죠..
+P0 	: 여행 많이다니세요ㅡ
+P1 	: 아뇨.. 저도 혼자 가고는 싶어하는데 기회가 안돼서 못가고 있어요
+P0 	: 저는 등산하러 많이 다니는듯.. 
+	  기차타는거도 좋고
+P1 	: 저 등산은 힘들어서 안좋아하고.. 기차는 재밌을 것 같네요
+P1 	: 어디어디 가보셨어요?
+P0 	: 전 일부러 기차탈려고.. 
+	  지리산이나 강원도쪽 가요..
+P0 	: 사실 혼자여행 뻘쭘한데.. 등산은 핑계죠ㅋㅋ
+P1 	: 오오.. 되게 자연풍경 보는 거 좋아하시나봐요 지리산이랑 강원도면
+P0 	: 경기도라서.. 기차탈고 가기 편한곳만 가요.. ㅎㅎㅎ
+P0 	: 해외여행도 가보셧나여?
+P1 	: 넵 저 해외는 두번정도 가봤습니다
+P0 	: 어디어디염?
+P1 	: 중국이랑 일본이요!
+P0 	: 그냥 관광이에여?
+P1 	: 넵 가서 며칠동안 구경만 하다 왔어요

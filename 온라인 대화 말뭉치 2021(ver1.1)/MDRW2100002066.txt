@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요(?)
+P1 	: 네 좋아하는데 코로나 때문에 못 가서 슬프네요ㅠㅜ
+P1 	: 여행 좋아하세요?
+P0 	: 저도 가고싶지만 요즘은 못가네요
+P1 	: 최근에 가신 여행지가 있으세요?
+P0 	: 2년전 필리핀요
+P1 	: 와 필리핀 어땠나요? 전 가본적이 없어서요ㅋㅋ
+P0 	: 리조트여서 좋았어요
+P1 	: 많이 습하고 더웠죠? 저는 호주 가보고 싶어요ㅋㅋㅋ
+P0 	: 예전 워킹홀리데이로가서 ^^
+P1 	: 아하ㅋㅋㅋㅋ어떠셨어요?
+P0 	: 너무좋았어요 진짜 자유랄까(?)
+P1 	: ㅋㅋㅋㅋㅋ얼마나 있다가 오신거예요??
+P0 	: 2년 딱 채웠습니다

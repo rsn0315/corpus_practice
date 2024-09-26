@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100024451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 회사 다니시나요?
+P1 	: 회사 혹은 학교 밥 어때요?
+P0 	: 회사  다녀요
+P0 	: 지역상생 어쩌구 하며 구내식당을 안 만든게 함정ㅜ
+P0 	: 회사 주변 식당은 쏘쏘예요ㅜ
+P0 	: 님은요?
+P1 	: 회사밥 진짜
+P1 	: 너무합니다
+P1 	: 중소기업진흥법인가 뭐시기인가해서
+P1 	: 대기업은 못들어오거든요?
+P1 	: 그래서 맛없어요 변화가 없습닏ㄴ
+P0 	: 그쵸... 그래서 삼성 난리났던 거고ㅜ
+P1 	: 맛이 너무 없어요
+P0 	: 아이고 형편없나봐요
+P0 	: 식대는 얼마인가요
+P1 	: 내 그래서 맨날 사먹어요
+P1 	: 식대는 5000원 입니다
+P1 	: 싸지요?
+P0 	: 구내식당인거 생각하믄 쏘쏘?
+P1 	: 음
+P0 	: 음 그럼 메뉴 너무 별로인 날은 밖에 나가시나요
+P0 	: 일주일에 몇번정도?
+P1 	: 전회사(아워홈)이었는데 대학교라 메뉴가 두개씩은 나왓서요
+P1 	: 이직하고는 주 4회 나가서 먹어요
+P1 	: ㅋㅋㅋ
+P0 	: 아니 매일이잖아요 정말 ㅋㅋㅋ
+P1 	: 아 매일이네여 ㅋㅋㅋ
+P1 	: 창원 도 식 대가 꽤 비쌉니다
+P0 	: 근처밥은 맛있나요
+P1 	: 서울이 더 맛있을 거 같아요
+P0 	: 서울도 서울 나름이라ㅜ

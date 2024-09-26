@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 업무 스트레스는 없으세요?
+P0 	: 좀 많은 편인것 같아요ㅠ
+P1 	: 어떤 부분이요?
+P0 	: 같이 일하는 사람들때문에요
+P1 	: 그건 진짜 답 없는데요 ㅠ 누가 제일 스트레스 많이 주나요?
+P0 	: 실장님이요ㅠ
+P1 	: 상사군요 ㅠ 상사가 이상한가봐요? ㅠ
+P0 	: 편애가 심하신 편이라..ㅠㅠㅠㅠㅠ
+P1 	: &name1&님을 좋아하시진 않나봐요 ㅠ
+P0 	: 네~저는 무뚝뚝한 편이라..ㅠㅠ
+P1 	: 저도 무뚝뚝한 편이거든요. 묵묵히 일만 하시는 스타일이시군요 상사는 앞에서 알랑방귀 뀌는 사람 좋아하고요?
+P0 	: 네~완전요~성과급 평가할때 너무 티나고요
+P0 	: 그 사람만 편의 봐줘서 개인연가 안 쓰고 그냥 회사 안나오는것도 부지기수고
+P1 	: 그 사람이 밉겠어요 ..ㅡ.ㅡ 저도 그런 상사 엄청 싫어하는데요 지난번 상사가 그랬거든요 촤악이었어요
+P0 	: 네~ 그래서 이직하고 싶어요

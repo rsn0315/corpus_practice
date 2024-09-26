@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006781
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P0 	: 날씨가 선선해지면서 가을이 성큼 다가왔습니다
+P1 	: 안녕하세요
+P0 	: 가을이오면 어느 것이 가장 기대되시나요?
+P1 	: 저도 오늘 긴팔 입고 출근했어요
+P0 	: 긴팔 입어야 합니다
+P1 	: 기대라?  그런건 전 없는데요ㅋ
+P1 	: 님은요?
+P0 	: 환절기에 감기 걸리기 쉽상이지요
+P0 	: 저는 가을 먹거리가 기대됩니다
+P0 	: 특히 감을 좋아하지요
+P1 	: 아 그러시구나..  저는 그냥저냥ㅋ
+P0 	: 어느 계절을 가장 좋아하시나요?
+P1 	: 저도 봄이나 가을 좋아해요
+P1 	: 날씨도 좋고 놀러가기도 좋고ㅋ
+P0 	: 맞습니다
+P0 	: 다니기 좋은 계절이지요
+P0 	: 코로나만 아니면 많이 다녔을텐데요 아쉽네요
+P1 	: 그러게요 코로나 정말 싫다
+P0 	: 작년부터 여행을 못하고 있어요
+P0 	: 동네만 좀 다니는 정도라서 많이 답답하네요

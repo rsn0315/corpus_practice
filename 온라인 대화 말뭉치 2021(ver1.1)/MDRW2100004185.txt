@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100004185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 햄스터 키워보셨나요
+P0 	: 저는 햄스터 4마리 키우고 있어요
+P0 	: 제 햄스터 사진 보실래요?
+P0 	: 이거 사진 어떻게 보내요?
+P1 	: 안녕하세요! 네 햄지 완전 좋아해요
+P1 	: 사진은 못보내는것 같은데 저희 햄스터 이름은 &name3&고 하얀 펄햄스터예요
+P1 	: 털이 너무 부드럽고 귀여워요 처음에 기를때는 저급사료를 먹였었는데
+P1 	: 햄사모 카페에서 햄스터에 대한 많은 정보를 얻어서
+P0 	: 오 저도 햄스터이름이 &name4&에요
+P1 	: 알곡과 여러 비타민이 들어간 사료를 챙겨주고 있어요
+P0 	: 저는 비타민 대신 무염국수라고 이걸 먹이고있어요
+P0 	: 그리고 햄스터 지금은 아파서 약도 먹이고 있어요
+P0 	: 눈병이라고 하네요
+P1 	: 아이구 빨리 나으셨음 좋겠어요
+P1 	: 소동물 병원은 잘 안보여서 까다롭더라구요
+P0 	: 소동물 병원 진단비가 엉첨 비싸더라고요
+P1 	: 맞아요 쪼끄만 햄지가 한번 갈 때마다 2~3만원씩 나오더라구요
+P0 	: 저는 약값까지 해서 20만원 나왔어요 ㅠ ㅠ
+P0 	: 햄스터라서 쌀 줄 알았는데 제 병원비보다 비싸네요
+P1 	: 더 이상 아프지않길 바라요ㅜㅜ
+P0 	: 햄스터 사진 보내고 싶은데 여기는 못보내네요
+P1 	: 그러게요 아쉽네요.. 어떻게 생겼나요?
+P0 	: 하얀 찹쌀떡에 면봉꼬리 붙여놓아놨어요 ㅋㅋㅋㅋ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 혹시 최근 구매하고싶은 물건이 있나여??
+P1 	: 엘지 그램 노트북 이요
+P0 	: 오 그램 저 지금 쓰고있는데 좋아요~
+P1 	: 몇인치 쓰세요?
+P0 	: 저는 14인치써요~
+P0 	: 16인치도 가지고있는데 생각보다 무게차이가 나더라구요!
+P1 	: 엇 저는 19년식 14인치 쓰고있는데
+P1 	: 17인치 갖고싶네요
+P0 	: 오 큰노트북 좋아하시는구나!
+P1 	: &name1&님은요?
+P0 	: 저는 무조건 가벼운거 좋아해요~어깨가 안좋아서 무게가 젤 관건이거든요
+P1 	: 발열 문제좀 개선했으면 좋겠어요
+P0 	: 아 그쵸..발열!  근데 노트북 공중에 이삼센티만 띄워둬도 훨씬 괜찮더라구요!

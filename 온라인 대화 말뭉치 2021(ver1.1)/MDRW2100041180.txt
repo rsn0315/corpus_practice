@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100041180
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 네 안녕하세요
+P0 	: 오늘 집안일 하셨나용?
+P1 	: 청소만 했어요
+P0 	: 어떤 청소요? 저는 오늘 설거지만 하고 아무것도 안했어요! ㅋㅋㅋ
+P0 	: 굴러댕겨요
+P1 	: 아침에 먼지만 좀 닦았어요ㅋㅋ
+P1 	: 하기싫더라구요
+P0 	: 저도 하기 싫어요ㅋㅋㅋㅋ 집안일은 왜이렇게 하기 싫을까요
+P0 	: 요즘 조금 부지런해져보자 생각하고 청소기를 매일 돌리고 있거든요? 오늘은 아니구요! 근데 먼지가..
+P0 	: 매일 돌리는데 왜 똑같이 나오죠
+P1 	: 매일해도 티 안나니까 더 하기 싫어요ㅋㅋㅋㅋ
+P1 	: 대충 쓰는데만 치우고 있어요ㅎ
+P0 	: 맞아요! ㅋㅋㅋ 좀 번쩍번쩍 광이라도 나면 좀 기분이 나을텐데
+P0 	: 집안일 중에 뭐가 제일 하기 싫으세요?
+P1 	: 쓰레기 치우는게 제일 귀찮네요ㅋㅋ
+P1 	: 음식물은 특히 좀...
+P0 	: 아 음식물 진짜..
+P0 	: 썩지라도 않으면 좀 괜찮을텐데
+P0 	: 냄새나고 촉감도 변하고 ㅠ
+P1 	: 맞아요ㅠㅠ 음쓰건조기도 번거롭더라구요
+P0 	: 음쓰건조기 사용하고 계세요?
+P1 	: 예전에 샀던거요. 근데 거의 방치중이에요ㅋㅋ
+P0 	: ㅋㅋㅋ그러시군요! 저희 제출할까요? 주제는 아무거나 하셔도 다 좋아용

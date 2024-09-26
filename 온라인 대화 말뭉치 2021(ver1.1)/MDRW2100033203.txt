@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033203
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 메뉴는 정했나요?
+P1 	: 벌써먹었네요
+P1 	: 뮈드실예정이신가요?
+P0 	: 저도 먹고 왔습니다
+P0 	: 갈치구이를 반찬으로 먹었어요
+P0 	: &name2&님은 무엇을 드셨나요?
+P1 	: 김치랑 고등어요.
+P0 	: &name2&님도 생선을 드셨군요
+P0 	: 저는 생선요리를 가장 좋아한답니다
+P0 	: 해산물쪽을 좋아하지요
+P1 	: 저는 고기좋아해요
+P0 	: 육고기를 좋아하는군요
+P1 	: 네..좋아하는편이예요
+P0 	: 아침은 챙겨 드시나요?
+P1 	: 네..애들이있어서
+P1 	: 챙겨먹어요
+P0 	: 저희집도 아침을 꼬박꼬박 먹습니다
+P0 	: &name2& 님이 아이들 아침 챙겨주시는 건가요?
+P1 	: 저희두요
+P1 	: 꼭먹는편이예요
+P0 	: 우리 식구들이 아침에 일찍 일어나서 아침 먹기 수월한 편입니다

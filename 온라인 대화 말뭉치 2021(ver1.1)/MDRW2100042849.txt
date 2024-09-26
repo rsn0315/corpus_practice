@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100042849
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 건강을 위해 하시는 일이 있으신가요?
+P1 	: 헬스하다가 무릎아파서 멈춘상태에요 ㅠㅠ &name1&님은요
+P0 	: 저는 운동은 잘 안 하는데 헬스한다니 멋져요~ 혹시 헬스에 관심 있는 저에게 입문 조언 한마디 해주실 수 있나요?
+P1 	: 우선..시작부터하십시오!! 유튜브에 요즘 잘 설명되어나와서
+P1 	: 배우기쉬유ㅓ요
+P0 	: 시작부터라! 홈트레이닝도 시작에 포함일까요? 헬스라면 헬스장에 가야만 할 수 있는 거라는 편견이 있었어요~
+P1 	: 아그럼요 홈트도 조아요 ㅋㅋㅋ 근육 막 늘리기는 힘들지만 충분히 건강해질수있어요
+P0 	: &name2&님은 헬스 시작한 지 얼마나 되셨나요?
+P1 	: 저는 이제 겨우 3개월차에요! 그 전에는 스피닝했어요
+P0 	: 오... 스피닝은 뭔가요??
+P1 	: 그 서서 자전거타는거요!@ 고강도운동
+P0 	: 그걸 스피닝이라고 하는군요~ 운동 목표는 뭔가요? 건강? 아니면 체중 감량?
+P1 	: 저는 그냥 건강이요ㅋㅋㅋ 체중은 포기햤어요
+P0 	: 그래도 충분히 대단해요~ 열심히 하시길 바라요!!

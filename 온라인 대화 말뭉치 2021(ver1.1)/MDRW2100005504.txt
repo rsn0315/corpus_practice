@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100005504
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요^^
+P1 	: 안녕하세요~
+P0 	: 요즘에 맛있게 드신 음식이 있으신가요?
+P1 	: 오늘 간짜장 먹었어요!!
+P0 	: 아 그러셨군요ㅎㅎ
+P0 	: 저도 간짜장 좋아해요ㅎㅎㅎ
+P1 	: 간짜장 맛있죠ㅎㅎ
+P1 	: &name1&님은 오늘 뭐 드셨나요??
+P0 	: 저는 오늘 엄마가 불고기해줘서 저녁엔 불고기 먹었어요
+P0 	: 점심엔 라끼남보다가 라면 끓여먹었고요ㅎㅎ
+P0 	: &name2&님은 간짜장말고 또 뭐 드셨나요?
+P1 	: 불고기 맛있겠네요
+P1 	: 저는 아점으로 피자 먹었어요!
+P1 	: 점저로 간짜장이랑 짬뽕 ㅎㅎ
+P0 	: 저도 피자 좋아하는데
+P0 	: 요즘에 먹은 피자 중에 잭슨피자가 제일 맛있더라고요
+P1 	: 잭슨피자는 처음 들어보는데
+P1 	: 체인점? 브랜드인가요
+P0 	: 맞아요
+P0 	: 원래 압구정인가가 본점인데
+P0 	: 유명해져서 체인점을 많이 냈어요
+P1 	: 오 그렇군요
+P1 	: 무슨 메뉴가 제일 맛있어요??
+P0 	: 저는 바질피자가 제일 인상적이었어요
+P0 	: 원래 바질을 별로 안좋아하는데
+P0 	: 이 집에서 먹어보고 맛있어서
+P0 	: 바질도 좋아졌거든요ㅎㅎ
+P1 	: 바질피자 맛있죠
+P1 	: 바질 하니까 파스타도 머곡 싶네오
+P0 	: 바질이 파스타랑도 잘 어울리죠
+P0 	: 요새 바질을 직접 키우고 있는데
+P0 	: 얼른 자라서 파스타해먹고 싶어요
+P1 	: 우와 바질을 직접 키우신다니

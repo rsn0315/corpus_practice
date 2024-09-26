@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100004111
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 주로 어떤 일 하세요?
+P1 	: 아 맞다 다른 일 알아보시나요?
+P0 	: 알아보고는 있는데 쉽지는 않은 거 같아요
+P0 	: 코로나로 더 어려워진거같아요
+P1 	: 그쵸 자리가 영 마땅치 않아서 슬퍼요
+P0 	: &name2&님은 직장 다니실 때 가장 힘든점이 있었나요?
+P0 	: 저는 아무래도 출퇴근이 가장 힘들더라구요
+P1 	: 저는 사람들과의 마찰요
+P1 	: 솔직히 전 혼자 일하고 싶거든요
+P0 	: 인간관계가 가장 어려운거같아요
+P0 	: 몸힘든건 참아도 사람힘든건 답이 없더라구요
+P1 	: 공감돼요 정신적 스트레스가 제일 힘들죠
+P1 	: 돈 버는 게 쉽지만 않겠지만요
+P0 	: 진짜 저는 예전에 폭언도 들었던 적이 있어서
+P0 	: 이렇게 까지 일을 해야 하나 싶더라구요
+P0 	: 어짜피 일하는 입장인데..
+P0 	: 뭘 그리 갈구나싶더라구요ㅠ
+P1 	: 헐 폭언요? 맞아요 막말하는 사람들 꽤 있어요
+P1 	: 전 신입때 넘 슬펐는데
+P0 	: 왜요?
+P1 	: 짬 차니깐 될때로 돼라식이에요
+P1 	: 신입은 못하는데 계속 강요하니깐요

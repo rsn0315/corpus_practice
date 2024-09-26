@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036099
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신은 맞으셨나요?
+P1 	: 이번주에 맞아요
+P1 	: 님은요
+P0 	: 저는 추석 전주요
+P0 	: 이번에 1차 맞나요?
+P1 	: 네네 뭐 맞으세요?
+P0 	: 저는 미정이래요.. 그떄가서 알려준대요
+P1 	: 아 저도 예약하고 좀 지나서 종류 확정됐어요
+P1 	: 사실 모더나이길 바랐는데ㅎ
+P0 	: 저 화이자 아니면 모더나라는데 저도 화이자겠죠?
+P1 	: 어..전 화이자였어요ㅜ
+P1 	: 아무래도  지금은 화이자가 많은듯
+P0 	: 모더나는 물량이 딸리니까 아무래도 화이지일 거 같은데
+P0 	: 화이자가 대기업이라 또 안정성은 가장 좋지 않나요?
+P1 	: 아 델타변이 방어율이 모더나가 더 좋다 그래서요
+P1 	: 사실 화이자도 좋아요ㅎ
+P0 	: 그렇군요 근데 선택권이 없다보니 일단 뭐라도 맞고 부작용만 없어도 감사할거 같아요
+P1 	: ㅎㅎ 그쵸 부작용 제발 없엏으면
+P1 	: 타이레놀 구비해셨나요
+P0 	: 네 미리 사놨어요

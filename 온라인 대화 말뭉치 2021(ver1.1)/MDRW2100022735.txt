@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 쇼핑한거 있으세요?
+P1 	: 제습기요
+P0 	: 어디꺼 사셨어요?
+P1 	: lg요
+P0 	: 오 저희집두요 ㅎ
+P0 	: 얼마정도 했나요?
+P1 	: 60이요
+P0 	: 오 용량 큰거 사셨어요??
+P1 	: 네 너무 습해서
+P0 	: 있으면 좋죠 ㅎ
+P0 	: 원래는 제습기 없으셨나요?
+P1 	: 네 없음요
+P0 	: 그러면 에어컨 제습으로 트셨었나요?
+P1 	: 네 전기세가 어마어마
+P0 	: 아 맞죠 ㅠ 제습기는 그나마 괜찮아요 ㅎㅎ

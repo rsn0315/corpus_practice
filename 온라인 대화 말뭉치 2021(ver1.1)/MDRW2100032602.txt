@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032602
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 콜라보 제품 뭐 이용해보셨나요?
+P0 	: 일단은 곰표 맥주 마셔봤는데 괜찮더라구요
+P1 	: 곰표 맥주는 대체로 평이 좋네요
+P0 	: 곰표는 콜라보 제품 다양하게 많이 나오더라구요
+P0 	: 옷, 문구류, 식품까지.. 근데 식품 브랜드라 콜라보하기 더 좋은 것 같아요
+P1 	: 그러게요
+P1 	: 전 딸아이의 요청으로 펭수 케이크 사먹어 봤네요
+P1 	: 펭수 아이스크림이랑 펭수도넛도요
+P0 	: 아 펭수도 콜라보 많이 하더라구요
+P0 	: 기아타이거즈랑도 콜라보해서 유니폼도 나왔더라구요ㅎㅎ
+P1 	: 펭수 콜라보 많이해요
+P1 	: 전 순전히 딸때문에 알아요 딸이 펭수를 너무 좋아해서요
+P1 	: 펭수 우산에 펭수 담요에
+P0 	: 식품 브랜드끼리도 콜라보 많이 하더라구요
+P0 	: 육개장사발면맛 포테토칩 같은
+P1 	: 봤어요
+P1 	: 그런데 선뜻 손이 가지는 않더라구요
+P0 	: 전 한 번 먹어봤는데 딱 생각한 그맛이에요ㅎㅎ
+P1 	: 그러니까요
+P0 	: 수박바맛 젤리 맛있더라구요. 박카스 맛도 있던데 그건 못 먹어봤네요

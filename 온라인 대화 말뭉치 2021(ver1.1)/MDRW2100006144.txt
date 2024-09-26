@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006144
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책은 주로 사서보세요?
+P1 	: 네 요새는 e북으로 사는 경우가 많은 것 같네요
+P0 	: 아 그럼 태블릿으로 보세요?
+P1 	: 폰으로도 보고 리더기로도 봅니다!
+P0 	: 눈은 아프지않으세요?
+P0 	: 저도 컴으로보다가
+P0 	: 눈나빠져서 종이책으로 다시 돌아갔어요
+P1 	: 밝기 최대한 낮추고 하는데도 아프긴 아프더라고요 ㅠ 근데 리더기는 그 전용 잉크가 액정안에 들어가있어서
+P1 	: 덜아파요!!
+P0 	: 아 리더기도 있으신거보니
+P0 	: 정말 책 엄청 읽으시나봐요
+P1 	: 엄청은 아닙니다 ㅋㅋㅋ 요새는 또 넷플만 봐대서 게을러졌어요
+P0 	: 책 을 고르는 기준이 있으세요?
+P1 	: 스릴러나 미스터리같은 거 좋아해요
+P1 	: 아 그리고 범죄같은 것도 좋아해서
+P1 	: 권일용 프로파일러님 책을 본적도 있는 것 같아요
+P0 	: 아 저도 그런거 좋아해요
+P0 	: 범죄심리학같은거
+P0 	: 과거 사건같은것도 찾아보구요
+P1 	: 맞아맞아요 좀 무서우면서도 조심해야지 생각도 들고... 동시에 피해자분들 안타깝더라고요
+P0 	: 네 트라우마 심할거같더라구요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100037582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 그러니깐 누구사주면 또 장난아니지
+P1 	: 그렇지
+P1 	: 그러니까 집에서는 뭘 잘 안 시켜 먹는 듯
+P0 	: 맞어 맞어
+P0 	: 그럴것같네
+P1 	: 어제 우리 &name3&은 &name4&랑 또 싸우고 왔어
+P1 	: 근데 우리 &name3&은 밖에서 무슨 일이 있어도 집에 와서 딱히 얘기를 안 하거든
+P0 	: ㅋㅋㅋ 이번에는 왜?ㅋㅋ
+P0 	: 응응
+P1 	: 그냥 &name4&랑 싸워도 싸우고 말지 집에서 뭐 &name4&랑 싸웠다 이런 얘기를 안 해
+P1 	: 근데 &name4&능 싸우거나 무슨 일 있으면 다 집에 가서 얘기를 하는 거야
+P1 	: &name4& 여자친구 중에
+P0 	: 응응 그렇구나
+P1 	: 어린이집 부터 같이 다니고 지금 영어도 같이 다니고 태권도 도 같이 다니는 여자애가 있어
+P0 	: 응응
+P1 	: 근데 그 여자애랑 &name4&랑 서로 약간 좋아하는 사이거든
+P1 	: 둘 다 외동이고 엄마들도 친해서 넷이서 잘 본단 말이야
+P0 	: 응응 그렇구만
+P1 	: 원래 태권도를 마치면 &name4&랑 우리 &name3&이랑 우리 아파트에서 내려서 같이 놀 거든
+P1 	: 근데 요새 계속 &name4&가 그 여자애랑 논다고 &address&에서 내리는 거야
+P0 	: 응 그래서?
+P0 	: 웅 웅 그렇구나ㅜㅜ
+P1 	: 그러니까 우리 &name3& 입장에서는 그 여자애가 싫지
+P1 	: 여튼 은 요새 계속 &name4&가 그 여자애랑 놀아서 &address&에 내리고
+P0 	: 그렇지 ㅜ그렇겠다ㅡ
+P1 	: 어제도 걔랑 논다고 &address&에서 내렸는데
+P1 	: 걔가 무슨 일이 있어서 못 논다고 한 거야

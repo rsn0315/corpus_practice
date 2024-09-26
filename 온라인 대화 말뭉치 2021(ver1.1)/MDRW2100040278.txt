@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100040278
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 뭐 드셨나요?
+P1 	: 아점으로 집밥 먹었어요
+P0 	: 반찬은요?
+P1 	: 어제 만든 오리주물럭에 비벼먹었어요! 꿀맛!
+P0 	: 오리주물럭을 만드셨어요????
+P1 	: 오리 요즘 손질 다 해주더라고요! 삼겹살처럼요
+P0 	: 그래도 양념을 해야하잖아요
+P1 	: 어젠 닭갈비양념에 고추가루랑 매실액 간장 마늘 추가했어요ㅋㅋ 치트키쓴거죠ㅋㅋ
+P0 	: 닭갈비 양념을 사면 되는거군요. 저도 그정도는 할 수 있을것 같아요
+P1 	: ㅋㅋ 네 역시 시판소스넣으니 보장된 맛이ㅋㅋ
+P0 	: 시판소스 베이스에 살짝 양념은 부담스럽지 않은데 그게 하면서 간을 못보잖아요
+P1 	: 사실 그래요ㅋㅋ 어제도 그렇게 매울지 몰랏어요ㅋㅋ
+P1 	: 다 완성하고보니 너무 매웠어요
+P0 	: 고추가루를 너무많이 넣으셨나봐요
+P1 	: 닭갈비소스가 붉달갈비라...
+P0 	: 앗!! 소스 선택이 잘못이었군요

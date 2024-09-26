@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 아니요 키워보고싶긴했는데 책임질 자신이없어서 못키워요ㅜㅜ
+P0 	: 어떤거 키우고싶으신데요??
+P1 	: 음 물고기요 예전에 키워봤는데 다 죽어서요ㅠ그리고 손많이안가는걸 키워보고싶긴해요
+P0 	: 아ㅜㅜ 그래도 물고기는 손이 안가는편이긴한데
+P0 	: 근데 뭘키우든 밥주고 신경써줘야하는것같아요
+P1 	: 맞아요 &name1&님은 반려동물키우세요?
+P0 	: 저도 지금은 안키워요 그런데 나중에 고양이 키울까 생각만하고있어요
+P1 	: 오 예비집사님인가요ㅎㅎㅎ 고양이 좋죠
+P0 	: 근데 그냥 랜선으로 보는거에 만족할까싶기도해요ㅋㅋ
+P1 	: 아무래도 그렇죠 그래도 요새는 고양이카페도있구 랜선도있고 키울수없을때 그래도 대리만족할수있는게있으니까요
+P0 	: 그러게요 영상으로만 봐도 너무 귀여우니까요
+P0 	: 그런카페 가보셨어요? 동물들있는
+P1 	: 아니요 가본적은없어요 저도 약간 영상으로 만족하는편이라서요ㅎㅎ
+P0 	: 음..저는 가봤는데 먹을거줄때 빼고는 그냥 자더라구요ㅎ
+P1 	: 그렇군요 뭔가 잘때 더 귀여울거같긴하지만 깨있는모습보고싶기도할거같아요ㅎㅎ
+P0 	: 낮잠시간에 가서 그런가봐요ㅋㅋㅠ

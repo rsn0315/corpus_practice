@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100042682
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 오늘 점심 뭐 먹었니
+P1 	: 알다시피 우리는 주로 급식을 먹어
+P0 	: 오늘 급식 메뉴는 뭐였는데
+P1 	: 무려 세 가지의 선택권이 있지
+P0 	: 부럽다 무슨 맛이야
+P1 	: 첫 번째 메뉴는 짜장밥과 곳 만두
+P0 	: 이건 별로다 다른 건
+P1 	: 내가 고른 메뉴는 두 번째 메뉴야
+P0 	: 한식인이
+P1 	: 맞아 미역국과 두부김치
+P0 	: 미역국 먹고 싶다
+P1 	: 마지막 메뉴는 정말 별로였어
+P0 	: 어떤 메뉴였어
+P1 	: 참깨라면

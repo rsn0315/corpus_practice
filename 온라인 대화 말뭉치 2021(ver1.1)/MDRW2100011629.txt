@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011629
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 룸메이트 있으세요?
+P0 	: 가족이랑 같이 살고 있어요 &name2&님은요?
+P1 	: 저도요!
+P0 	: 형제자매 있으세요?
+P1 	: 동생 있어요ㅎㅎ
+P0 	: 저두 동생 있어요 두살 터울 남동생이요
+P1 	: 저도 남동생ㅋㅋ
+P1 	: 지금 군대갔어요
+P0 	: 동생분이 벌써 성인이시군요
+P1 	: 집안일하시나요?
+P0 	: 집안일 하죠ㅎㅎ 주로 청소 맡고 있습니다
+P1 	: 청소기 매일 돌리세요?
+P0 	: 네ㅎㅎ 머리카락이 바닥에 뒹구는게 싫어서 매일 돌려요

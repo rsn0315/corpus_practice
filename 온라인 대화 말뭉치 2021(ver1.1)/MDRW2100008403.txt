@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 하셨나요??
+P1 	: 네 점심 먹었습니다!
+P1 	: 식사하셨나요?
+P0 	: 저녁은 아직이요~ 점심먹은게 아직 안내려가네요ㅋㅋㅋ많이먹었나봐요ㅋ
+P1 	: 저는 어제 피자, 치킨 먹었더니 속이 안좋네요ㅠㅠ
+P1 	: 저녁 뭐드셨나요?
+P0 	: 밀가루가 좀 그렇쵸ㅡㅜ그래서 저도 밀가루한끼 이상 안먹으려하는데ㅋㅋ잘안되요ㅜ저는 어제저녁 안먹었구 남은엽떡을..야식으로.:.ㅋㅋ
+P1 	: 오 엽떡!!
+P1 	: 매운맛 어느정도로 드셨나요?
+P0 	: 2단계요~
+P1 	: 매운거 잘드시네요!!!
+P1 	: 저는 젤 안매운맛도 매워서 못먹겠더라구요ㅎㅎ
+P0 	: 사실1단계가 맞는데 뭔가심심해서2단계 시켰는데 매워서 억지로ㅋㄱ다먹었어요
+P1 	: 진짜 대단하신데요!!!!!
+P1 	: 억지로라도 2단계를!!!!
+P1 	: 다른 배달음식 어떤거 좋아하시나요?
+P0 	: 치킨이나 피자요 ㅎ
+P1 	: 저는 어제 치킨 먹었는데 언제 마지막으로 드셨나요?
+P0 	: 치킨 주말에 먹었어요!!

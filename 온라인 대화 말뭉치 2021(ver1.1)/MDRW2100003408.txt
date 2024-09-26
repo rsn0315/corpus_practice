@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003408
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 일기예보에도 비가 이렇게 많이 온다고 했나?
+P0 	: 일기예보 맨날 틀리는데 뭘
+P0 	: 비올확률 매번 60프로자나 ㅋ
+P1 	: 맞아 애매하게~ 확률이 60프로니 와도 그만 안와도 그만 ㅋㅋ
+P0 	: 할머니 무릎이 더 정확하지 ㅋ
+P1 	: 이젠 내 무릎이 더 잘 맞을지도 ㅎㅎ
+P0 	: 이런이런
+P1 	: 일기예보 보고 일하는 사람들은 진짜 힘들겠어
+P0 	: 날씨 영향 많이 받는 사람들은 그렇지
+P1 	: 다음주부터는 제2의 장마가 온다는 얘기가 있던데
+P0 	: 일년에 장마가 2번 올수도 있나?
+P1 	: 몰라 ㅎㅎ 암튼 장마처럼 비올거래
+P0 	: 애들 다음주 온라인 수업이라 다행이네
+P1 	: 맞아 비 많이 오는 날은 나가기 싫으니깐
+P1 	: 요즘 비 많이 내리는데 미리 코킹 해놓길 잘했어

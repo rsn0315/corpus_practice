@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100030129
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 안녕하세요~!! 가족에대한 이야기를..해볼까요...
+P0 	: 좋아요! 외동이신가요?
+P1 	: 헐..네!! 어캐아셨어요
+P1 	: 아니
+P1 	: &name1&씨구나
+P0 	: 맞습니다. 닉 보고 딱 알아보셨어야죠!!
+P1 	: 쯧..
+P1 	: 가족에대한이야기나하십쇼
+P1 	: ㅋㅋ
+P0 	: 집에서.. 일 많이 하시나요?
+P0 	: 전..조금 합니다. 설거지랑 쓰레기 버리기, 화장실 청소, 빨래 널기 개기, 돌리기 등...
+P1 	: 저는...눕습니다.
+P0 	: 귀엽네요.
+P1 	: 아니 사실 집에 잘없어서...
+	  집에 자는것 빼고는 한두시간있야요
+P0 	: 에궁에궁 바쁘셔서 어떡해요
+P0 	: 아 &name2&님을 집에 누워 쉴 수 있게 해드린다고 챗 쳤는데 나쁜 말은 보낼 수 없대요
+P0 	: 내가 뭘 말했다고...
+P1 	: 누워 쉴수
+P1 	: ㄴ집에 누워 쉴 수 있게
+P1 	: 뭘..
+P0 	: 참나 어이없네요. 얼른 우리 가족 얘기나 더 해보아요

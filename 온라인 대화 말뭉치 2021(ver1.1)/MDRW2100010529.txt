@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 좋아하세용?
+P1 	: 네 시간 있을 때마다 틈틈히 봐요!
+P1 	: &name1&은요?
+P0 	: 오 저는 요즘사놓고 안읽는중요 ..
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 저도 사둔 거 자주 방치해요ㅋㅋㅋ
+P0 	: 한번 꽂히면 재밌게보는데 ..
+P0 	: 요즘 왤케 다귀찮나요 ㅜㅜ흑
+P1 	: 맞아요!
+P1 	: 한 번 집중하면 쭈욱 보는데
+P1 	: 요즘 집중이 잘 안 돼요
+P0 	: 전 요즘 웹툰에 빠졋어요 ..
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 원래도 만화책 엄청좋아햇거든요 ㅋㅋ
+P1 	: 저도 종이책 보다 웹툰이나 웹소설이 이제 익숙하더라고요
+P1 	: 웹툰 재밌게 보시는 거 있으세요?
+P0 	: 너무 많이봐서요 ㅠㅠㅋㅋ 네이버웹툰만 봐용 인기순위는 거의다보는듯용
+P1 	: 아 저도 거의 요일 별로 1~2개 씩은 보는 거 같아요
+P1 	: 재밌는 작품이 너무 많죠
+P0 	: ㅋㅋㅋㅋ 책은 어떤류 좋아하세요? 전 소설 좋아해요
+P1 	: 소설 좋아하는데 최근에는 거의 안 읽었어요
+P1 	: 최근에는 자연과학이랑 인문학 도서 읽은 거 같아요
+P1 	: 채밌게 본 소설 있으세요?
+P1 	: 재밌게 본!
+P0 	: 달러구트 꿈백화점이용

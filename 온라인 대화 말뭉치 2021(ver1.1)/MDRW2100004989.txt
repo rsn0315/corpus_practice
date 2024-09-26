@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100004989
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 쇼핑좋아해?
+P1 	: 웅 쇼핑좋아해! &name1&는?
+P0 	: &name1& 완전 좋아하지 오늘도 아이섀도우랑 파운데이션 샀어
+P0 	: &name2&은 최근에 뭐 샀어?
+P1 	: 우와 어디서?
+P0 	: 인터넷쇼핑으로! 아멜리 라고 섀도우가 예뻐
+P1 	: 오 아멜리? 기억해야겠다! 나도 오늘 쇼핑했어 원피스 2개 샀어!
+P0 	: 우와 원피스 ~ 나도 옷 사고 싶다
+P1 	: 주로 옷 어디서 사?
+P0 	: 인터넷, 백화점, 아웃렛 다 많이 다녀
+P0 	: 근데 요즘은 코로나라서 인터넷쇼핑 많이 하는 듯
+P1 	: 추천해줄 인터넷 쇼핑몰 있을까?
+P0 	: 어떤 옷 스타일 좋아해?
+P1 	: 나는 깔끔한 옷스타일 좋아해!
+P0 	: 쇼핑몰 젬마월드 괜찮아

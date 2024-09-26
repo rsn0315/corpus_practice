@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100018621
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 배달같은 거 자주 시켜먹는 편이세요?
+P1 	: 저는 아무래도 1인가구라 자주시켜먹습니다
+P1 	: &name1&님은요?
+P0 	: 아~ 저는 다인가구라.. 거의 배달 안해요..ㅎ 주로 장봐서 요리해서 먹죠..ㅎㅎ 배달어플 뭐 쓰세요?
+P1 	: 배달의 민족 자주 이용 하는 편이에요
+P1 	: 아무래도 입점가게가 가장 많아서..
+P1 	: 좋아하시는 배달음식 있으신가요
+P0 	: 배민이용하시는구요.. 전 배달은 치킨만 배달 시켰구요.. 굳이 외부음식 먹고 싶으면 제가 직접 픽업하는 편이에요.. 배달대행 시키지 안고
+P1 	: 아무래노 배달비가 비싸서
+P1 	: 좋아하는 치킨 있으세요?
+P0 	: 치킨은 다 좋아하는데 가까운데 노랑통닭있어서.. 마늘치킨 주로 시켜요
+P1 	: 알싸~~~한 마늘치킨 그거요?
+P0 	: 네~ 깔끔하더라구요. 재미님은 어떤 브랜드 좋아하시나요?
+P1 	: 저는 가리는건 없지만 요즘 치킨더홈 좋더라구요
+P1 	: 닭다리를 4개주더라구요
+P0 	: 헐.. 그런 혜자스러움이.. 치킨더홈이라구요? 찾아봐야겠네요
+P1 	: 한번드셔보세요
+P1 	: 양도괜찮구 위에 감자볼도 올려주는데 꽤 괜찮더라구요
+P0 	: 오.. 말만 들어도 일단 합격이네요.. 근데 저희 동네에 있을런지.. 꼭 맛집은 다른 동네더라구요.. 

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아해요
+P0 	: 저도요
+P1 	: 코로나 끝나면 가고픈 곳 잇으세요
+P0 	: 유럽이요
+P1 	: 어느나라 특히 가고싶으세요?
+P0 	: 스페인이요
+P1 	: 특별히 스페인이 가고 싶은 이유가 잇나요?
+P0 	: 다 좋다서 하길래
+P1 	: 맞아요 스페인 좋앗다고 하는분들 많더라구요
+P0 	: 그렇져
+P1 	: 음식도 맛잇대요
+P0 	: 좋네요
+P1 	: 코로나가 얼른 끝낫으면 좋겟네요
+P0 	: 그르니까요

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002720
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 학교가니?
+P0 	: 응 지금도 학교야
+P1 	: 이런
+P1 	: 정말 유능한 학생이구나.
+P0 	: 요즘 정말 바빠
+P1 	: 정말?
+P0 	: 실험실에서 할일이 많거든
+P1 	: 수업이 있니?
+P0 	: 수업은 아직 없어
+P1 	: 아 실험을 하는구나
+P0 	: 수강신청을 얼마전에 했는데
+P0 	: 실패해서 기분이 안좋더라
+P1 	: 실험실에서 어떤 실험을 하는데?
+P1 	: 너의 전공이 어떤 것이었더라?
+P0 	: 나는 화학실험을해
+P1 	: 수강신청에 실패했다니 그 이야기 나중에 들려주렴.
+P0 	: 내 전공은 응용화학과야
+P1 	: 오 화학.
+P1 	: 내 전공은 심리학과 법학이야.
+P0 	: 너는 둘중에 뭐를 더 좋아하니
+P1 	: 응용화학과는 무엇을 응용하니?
+P1 	: 둘 다 좋아해. 편애는 안된단다.
+P0 	: ㅋㅋㅋㅋㅋ바람직한 학생이네
+P1 	: 수강신청이 있었다며?

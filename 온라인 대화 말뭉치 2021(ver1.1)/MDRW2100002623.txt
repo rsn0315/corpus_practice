@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨어때요?
+P1 	: 아깐 흐렸는데 지금은 맑아졌네요!
+P0 	: 변덕스럽네요
+P1 	: 요즘 날씨가 참 변덕스럽긴하죠 ㅠㅠ
+P1 	: 맑았다가 흐렸다가 소나기내리고
+P0 	: 그르니까요
+P1 	: 이게 날씨가 좀 괜찮아져야될텐데
+P1 	: 나갈일이 생기면 맑은데도 우산챙겨야하나
+P1 	: 고민될정도라니까요 ㅠㅠ
+P0 	: 맞아요 대비는 해야 하니까
+P1 	: 가을이 되면 좀 괜찮아질련지
+P1 	: 모르겠네여 ㅠㅠ
+P0 	: 그래요
+P1 	: 그쪽 날씨는 어떤가용?
+P0 	: 맑아요
+P1 	: 부럽네요! 덥진 않으세여?
+P0 	: 덥기도 해요

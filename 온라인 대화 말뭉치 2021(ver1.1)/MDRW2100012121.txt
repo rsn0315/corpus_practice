@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100012121
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사하셨나요?
+P1 	: 메뉴 고민하고있어요
+P1 	: 여름님은요?
+P0 	: 저도 지금 고민중이에요 뭐먹을지ㅜㅜ
+P0 	: 배달시키실건가요?
+P1 	: 뭐해먹으려고요
+P1 	: 닭가슴살이랑 야채로 볶아먹어야겠어요
+P0 	: 아하 저도 지금 집에있는거 대충꺼내먹을려고하는데 마땅한게없네요
+P0 	: 떡볶이가먹고싶은데ㅜ
+P0 	: 떡볶이 좋아하세요?
+P1 	: 재료 뭐있으세요?
+P1 	: 있으면 먹어요ㅋㅋ
+P0 	: 지금 떡이랑 오뎅두개 딱있어서요ㅋㅋㅋㅋ
+P0 	: 쌀떡이랑 밀떡중에 어떤거  좀더 선호하시나요
+P1 	: 간장 있으세요?
+P1 	: 둘다 좋아요!
+P0 	: 네 간장이랑 고추장 둘다있어서
+P0 	: 고민중이에요 어떤걸해먹을까..
+P1 	: 간장넣고 궁중떡볶이 어떠세요
+P1 	: 참기름 있으면 더좋고
+P0 	: 전 밀떡을 더좋아해요
+P0 	: 그쳐 아무래도 저녁이니까
+P0 	: 간장이 더 나은것같아여
+P1 	: 배달음식 자주드시나요?
+P0 	: 네 완전 자주먹어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕
+P0 	: 안녕
+P1 	: 요즘 게임해?
+P0 	: 가끔?
+P1 	: 무슨 게임해?
+P0 	: 컴퓨터 게임
+P1 	: 그니까 종류를 말해줘
+P0 	: 플래시게임 하는중
+P0 	: 지금도ㅋㅋㅋ
+P1 	: ㅇㄴㅋㅋㅋㅋ
+P1 	: 재밌어?
+P0 	: 응 몇시간은 하는 듯
+P1 	: 난 요즘 폰으로 게임해
+P0 	: 뭐하는데?
+P1 	: 추리 게임

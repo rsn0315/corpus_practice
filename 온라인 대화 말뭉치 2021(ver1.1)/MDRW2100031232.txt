@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031232
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택해보셨나요
+P1 	: 네 이번주 수목금 재택근무였어요
+P0 	: 아 요일별로 일정이 또 다르신가봅니다
+P1 	: 네네 부서원들 골고루 들어가야해서 일정을 매번 짜야합니다ㅠㅠ
+P0 	: 그럼 재택은 주기적으로 계속 해오신건가요?
+P1 	: 네네 코로나터지고는 주별로 하고있어요
+P0 	: 그러시군요 출근하는거랑 어떤게 나으세요?
+P1 	: 저는 재택이좋아요 출근 시간 1시간이라
+P0 	: 아 그럼 왕복 2시간 걸리는건가요?
+P1 	: 네네맞아요ㅠㅠ
+P0 	: 고생이시네요 그럼 재택이 훨 낫겠어요?
+P1 	: 네네 그쵸 근데 일은 잘 진행이 안돼요
+P0 	: 아 그게 단점일 수 있겠네요 또다른 단점도 있나요?
+P1 	: 음 잘 끊겨요 인터넷이 ㅋㅋ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008782
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 알바 해?
+P1 	: 회사다녀
+P0 	: 주제 바꾸는 게 나을라나
+P1 	: 난 상관없음
+P0 	: 알바 했던 경험은 얼마나 돼??
+P1 	: 길진않아 고깃집이랑 국수집 이런데에서 몇달씩?
+P1 	: 넌 알바 많이 해봤어?
+P0 	: 아니아니 나도 별로 많이 안해봤어
+P0 	: 근데 고깃집 힘들었겠다
+P0 	: 어렵지 않았어?
+P1 	: 사람들이 별로여서 진짜 금방 나왔어 ㅋㅋ
+P0 	: 헐 왜왜
+P1 	: 주방 아줌마들이 텃세부렸어 ㅠㅠ
+P0 	: 와 진짜 나랑 개똑같다
+P0 	: 나 고깃집 한번 해봤었는데
+P1 	: 헐 대박이넹
+P0 	: 거기 주방이모가 되게 뭐라해서
+P0 	: 걍 그만뒀었어
+P1 	: 이상한 사람 참많아
+P0 	: 좋은 기억은 아님..

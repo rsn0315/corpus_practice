@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100033632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&님은 쇼핑 좋아하시나요?
+P1 	: 안녕하세요
+P1 	: 필요할 때만 하는편이에요
+P1 	: &name1&님은 어떠신가요
+P0 	: 저는 문구류 구경하는 거 완전 좋아해서
+P0 	: 살짝 과소비를 하는 편이랍니다!!
+P1 	: 문구류 좋아하시는구나
+P1 	: 주로 어떤 걸 사세요
+P0 	: 저 다이어리도 많이 사고 스티커도 엄청 사는 편이에요!
+P0 	: &name2&님도 다이어리 쓰시나요!?
+P1 	: 다이어리 꾸미기 좋아하시나 봐요
+P1 	: 아니요 저는 다이어리 쓰지 않아요ㅎ
+P1 	: 최근에 산 문구는 어떤 거예요
+P0 	: 최근에는 샤프를 샀어요! 포차코라는 캐릭터를 좋아해서 그 그림이 그려진 걸로 샀어요 :>
+P1 	: 아 그 강아지요?
+P1 	: 너무 귀엽겠어요
+P1 	: 샤프의 필기감은 어떤가요
+P0 	: 사실 다른 브랜드 샤프가 더 필기감이 좋은 거 같은데
+P0 	: 귀여워서 쓰고 있어요 키키
+P1 	: 맞아요 귀여운게 최고에요
+P0 	: 밎아요 ㅎㅎ &name2&님은 최근에 뭐 사셨어요?!
+P1 	: 바디워시 구매했어요
+P1 	: 자몽향샀는데 마음에들어요
+P1 	: 좋아하는 향 있으신가요
+P0 	: 헐 저도 자몽향 좋아해요!
+P0 	: 제일 좋아하는 건 레몬같은 상큼한 과일향이요!

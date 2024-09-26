@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014150
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 올림픽 보셨어요?
+P0 	: 네 올림픽 드문드문 챙겨봤어요 &name2&님은 보셨어요?
+P1 	: 네 저도 드문드문ㅎㅎ
+P1 	: 어떤 경기 보셨어요?
+P0 	: 양궁 보셨어요??
+P0 	: 전 여자 결승 밖에 못봤는데 엄청 긴장되더라구요ㅋㅋㅋ
+P1 	: 네 저 양궁 봤는데 ㅋㅋ진짜 잘하더라고요ㅎㅎ
+P0 	: 맞아요 ㅋㅋㅋㅋ 긴장하신 거 같은데도 엄청 잘 쏴서 놀랐어요
+P1 	: ㅋㅋ맞아요 안산 선수는 게다가 3관왕했잖아요ㅎㅎ
+P1 	: 대단하신듯ㅎㅎ
+P0 	: 맞아요 정말 멋지시더라구요...!
+P0 	: 또 다른 거는 뭐 보셨나요?
+P1 	: 전 수영도 봤어요ㅋㅋ
+P0 	: 오오 수영 좋았죠 이번에 수영이 메달을 땄던가요??!
+P1 	: 메달은 못 땄는데 잘하더라고요ㅎㅎ
+P1 	: 제 2의 박태환같은 선수였어요ㅋㅋ
+P0 	: 오오ㅋㅋㅋㅋ 그래요? 못봤는데 얼마나 잘했을지 궁금하네요 다음 올림픽이 기대돼요

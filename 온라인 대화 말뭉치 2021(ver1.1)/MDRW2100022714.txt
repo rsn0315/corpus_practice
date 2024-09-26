@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100022714
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 조아하세요?
+P1 	: 관람하는건 좋아해요 ㅎㅎ 올림픽 열심히 챙겨봤습니다!!
+P0 	: 직관 해 본 적 있나요!
+P1 	: 저 야구,배구,축구 경기 보러 갔던 거 같아요! &name1&님은요?
+P0 	: 하는거 보는거 다 좋아하지 않아서 없는거 같아요
+P1 	: 그렇군요! 저도 룰은 잘모르지만 그냥 경기장의 그 느낌이 좋더라구요!!
+P0 	: 직관하면 생동감 느껴져서 좋을 거 같긴 하네요^^
+P1 	: 네! 그리고 거기서 치킨,피자 시켜먹으면 그렇게 맛있더라규요 ...
+P0 	: 요즘 겹살이도 구워 먹을 수 있다던데
+	  먹으면서 보는거 잼날 거 같아요
+P1 	: 와 대박이네요 ㅋㅋㅋ 주위에 앉은 사람은 고문당하겠어요ㅠㅋㅋㅋ
+P0 	: 먹는거에 집중하면 경기가 보일라나.. ㅎ
+P0 	: 야구 어느 팀 응원하나요?
+P1 	: 흘리면서 먹을거같아요 ㅋㅋ
+P1 	: 전 딱히 응원하는 팬은 없어요! 그냥 친구따라 몇 번 다녀서 ㅎㅎ
+P0 	: 며칠 전 TV에 야구장 잔디랑 구장 관리 하는 분들 나오더라구요.
+	  경기 끝나고 구슬땀 흘리시며 관리 하시는데 선수들 경기력 좋아지게 하는 거라 보람 느낀다고 하더라구옷

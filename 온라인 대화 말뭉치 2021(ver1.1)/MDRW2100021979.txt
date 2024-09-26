@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021979
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 지금 직장 다니는 중이실까요?
+P1 	: 어떤 일 하세요?
+P1 	: 넵
+P0 	: 저는 학교에서 일해요ㅎㅎ
+P0 	: &name2&은요?
+P1 	: 저는 사무직이에요
+P1 	: 학교에서 일하시면 교사이신가요?
+P0 	: 네 맞아요 ㅎㅎㅎ
+P1 	: 멋진 일 하시네요!
+P1 	: 저도 약간 비슷한 계열이라면 그럴수도 있는 일인데 멋있진 않아요ㅋㅋㅋㅋ
+P0 	: 오 무슨 일이신데요?
+P1 	: 저는 걍 평범한 공노비요....ㅎㅎㅎ
+P0 	: 아....ㅎㅎㅎ
+P0 	: 그쪽도 코로나 때문에 일 정말 많아지셨죠.....
+P1 	: 그래도 제가 일하는 기관은 그렇게 코로나 영향을 받지는 않아서 괜찮아요
+P0 	: 어떤 기관에서 일하시는지 혹시 여쭤봐도 될까요
+P1 	: 저는 국가기관인데 코로나 관련 부처는 아니에요
+P0 	: 아하 그럼 업무 환경이 그렇게 크게 바뀌진 않으셨겠어요 완전 럭키...!

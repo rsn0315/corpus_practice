@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033263
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 위드 코로나가 코로나와 상생한다는 거 맞죠?
+P0 	: 그춍 독감마냥요
+P1 	: 사실 저는 조금 걱정되긴 해요 코로나 치료제가 안 나왔기도 하고... 백신 접종 100%가 진짜 꿈 같은 얘기잖아요
+P0 	: 음 그쵸
+P0 	: 일단최대한맞혀야될거같긴해요
+P1 	: &name1&님은 어떻게 생각하세요?
+P0 	: 실현가능성을높히는방향으로추진하는걸찬성해요
+P1 	: 그렇죠~ 저도 놀러다니고 싶지만 마음과 상황은 또 별개니까요
+P0 	: 맞아요~~
+P0 	: 백신맞으셨나요?
+P1 	: 네 곧 2차 맞으러 가요
+P0 	: 화이자인가요?
+P1 	: 1차는 화이자고 2차는 모더나 맞아요
+P0 	: 교차접종하시는군요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100001464
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요~ 혹시 백신 맞으셨어요?
+P0 	: 네
+P0 	: 화이자
+P0 	: 맞았어요
+P1 	: 아 2차까지 다 맞으셨어요??
+P0 	: 넹
+P1 	: 부작용은 없으셨나요?
+P0 	: 2차까지 다 맞았어요
+P0 	: 맞고나서 다음날
+P0 	: 엄청 아팠는데
+P0 	: 그게 부작용이었나봐여 ㅋㅋ
+P1 	: 헉 엄청 놀라셨겠어요...
+P1 	: 요즘 부작용이니 뭐니해서 말 많아서
+P1 	: 불안하셨을텐데 ㅜㅜ
+P0 	: 네네 ㅠㅠ
+P0 	: 그래도 다들
+P0 	: 비슷하게 열나고 하루 아프다던데
+P0 	: 저도 그래서 그나마 다행이네요
+P1 	: 그나마 다행이네요 ㅠㅠ
+P1 	: 부스트샷을 맞아야된다 이런 말도 나오던데
+P1 	: 그거에 대해서는 어떻게 생각하세요?
+P0 	: 솔직히 일반인은 필요 없다고 생각되는데..
+P0 	: 좀 코로나 확진 위험성이 높은 의료인들은 필요해도
+P0 	: 일반인은 아직 어불성설인거 같아요
+P1 	: 저랑 생각이 비슷하시네요!
+	  

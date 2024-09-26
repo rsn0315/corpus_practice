@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017913
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요... 내시간 어디간거죠?한게없는데 ㅠ
+P0 	: 그러게요 ㅋㅋㅋ 최근에 산거 있으새요?
+P1 	: 젤최근에 마켓컬리 주문이요 ㅋㅋ
+P0 	: 뭐사셨어요?
+P1 	: 저는 바질페스토랑 버터랑 치즈샀어요~ 파스타해먹으려구요
+P0 	: 파스타 맛있죠 ㅋㅋ 요리 잘하시나봐요
+P1 	: 음 잘하진않지만 요리하는거좋아해요!
+P0 	: 오~ 무슨 요리 제일 잘하시나요??
+P1 	: 전 감자조림 가장잘한다고 스스로자부하고있어요 ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ 감자조림 맛있겠네요 ㅋㅋㅋ
+P1 	: 맛있어요~ 아주그냥밥도둑입니다
+P0 	: 이야기하다 보니 주제에서 많이 벗어났네요 ㅋㅋㅋ
+P0 	: 마켓컬리말고 뭐 샀는데 자랑하고 싶은 물건이나 뭐 그런거 있어요??
+P1 	: 그러네요 ㅋㅋ 저는 최근에 향수샀어요~

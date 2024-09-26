@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100027117
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 아니요
+P0 	: 키워본적도없어요
+P1 	: 그러면 키워보고 싶은 친구는 있었나요?
+P0 	: 글쎄요. 사실 동물 별로안좋아해요ㅠ
+P1 	: 아 동물을 안좋아하시는군요
+P1 	: 왜 싫어하는지 여쭤봐도 될까요?
+P0 	: 글쎄요...이게 참 어려워요
+P0 	: 왜냐면 대게 고양이 강아지 귀엽다고 리액션하는데
+P0 	: 저는 진짜...뭐라고해야할지
+P1 	: &name1&에게 안예쁘게 보일수도 있는거죠
+P0 	: 근데 진짜 동물안좋아하는사람 찾기힘들어요
+P0 	: 어릴적에도 접할기회도 없었고
+P0 	: 무서워했어요
+P0 	: 토키랑 햄스터도 귀엽다기보다 무서워요
+P0 	: 털있는동물은무서워요
+P0 	: 징그럽다고해야하나ㅠ 닭도여
+P1 	: 전부 싫어하시는군요ㅠ
+P1 	: 그럼 물고기는요?
+P0 	: ㅋㅋㅋ구피 키워는봤어요
+P0 	: 차라리 곤충은 안무서워요
+P0 	: 벌레도 안징그러워요
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 그래서 저는 오히려 벌레무서워하는 사람들이 신기해요
+P1 	: 와 신기하네요
+P1 	: 저랑 정반대세요
+P1 	: 저는 곤충을 못잡아서 고생이에요
+P0 	: 아 진짜요? 서로 신기한 상황이네요
+P0 	: 저는 심지어 자다가 벌레가 보여요
+P0 	: 근데 잡기 귀찮을때
+P0 	: 걍 자여ㅋㅋㅋㅋ
+P0 	: 보고도여

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100000323
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210818
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 요새도 재택근무해?
+P0 	: 재택으로
+P0 	: 아니 요즘은 안해
+P0 	: 확진자는 더 나오는데
+P0 	: 재택은 안한다
+P1 	: 우리도야
+P1 	: 재택할 수가 없어 ㅋㅋㅋ
+P0 	: 이상해
+P0 	: 그런데 나 하는일은 재택근무하기 좀 애매한 직업임
+P1 	: 일주일에 하루이틀 정도는 할 만 할거같은데
+P1 	: 나도 그래
+P1 	: 나 팀 바뀐거 얘기했나?
+P0 	: 아니
+P0 	: 무슨팀인데
+P1 	: 인사팀있을땐 재택 할만했는데
+P1 	: 총무팀으로 자리옮겼어
+P0 	: 거기도 재택
+P1 	: 본부장 부장 맨날봐야되서
+P0 	: 가능할 것 같은데
+P1 	: 재택할수가없어 ㅋㅋㅋㅋㅋ
+P0 	: 아하 ㅋㅋ

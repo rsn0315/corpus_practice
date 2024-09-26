@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033931
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네네 점심 먹고 커피한잔ㅎ
+P1 	: &name1&님은요?
+P0 	: 저도 먹었어요
+P1 	: 뭐드셨어요?
+P0 	: 짜장밥이요
+P1 	: 직접만드셨어요?
+P0 	: 인스턴트예요
+P1 	: 3분짜장요?ㅎ
+P0 	: 오뚜기꺼요ㅎ
+P1 	: 오뚜기 맛나나요
+P0 	: 조미료의 맛입니다
+P1 	: 인스턴트가 다그렇죠뭐ㅎ
+P1 	: 싼맛에먹는거니ㅋ
+P0 	: 커피 좋아하세요?
+P1 	: 네네 달달커피로ㅎ
+P1 	: &name1&님은요?
+P1 	: 재료 다들어있어서 요리하기 편해요
+P1 	: 백순대도 샀는데 맛있고

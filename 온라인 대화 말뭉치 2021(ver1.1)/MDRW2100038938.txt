@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100038938
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 귀찮지요.ㅎ
+	  누가 공짜로 좀 해줬음 좋겠어요.ㅎ
+P0 	: 맞아요 진짜그래요
+P0 	: 자꾸 기계를 찾게되져
+P1 	: 로봇청소기, 건조기 저는 없는데요.
+	  신세계라고 하더라구요.ㅎ
+P0 	: 네 저도요 요즘날씨면 건조기사고 싶네요
+P1 	: 이번 주말은 비가 안온다고 해서 이불빨래 좀 하려구요.
+P0 	: 비올때 잘못말리면 냄새나서 골치아프져
+P1 	: 네.. 내일은 아침 일찍 일어나서 세탁기를 여러번 돌리려구요.
+	  주말에 집안일하기 싨은데
+	  주말 아님 시간이 없네요.ㅋ
+P0 	: 맞아요 퇴근후는 세탁기돌리기도 조심스럽죠
+P1 	: 요리하는 것을 즐기지 않는데요.
+	  메뉴 정하기가 큰 일이네요.
+P0 	: 머먹을지 정하는게 제일어려워요
+P1 	: 저는 아이 옷 정하는 것도 힘드네요.
+	  쇼핑하는 것도.,ㅋ
+P0 	: 원래 옷하나 사려면 며칠씩 걸리잖아요ㅋ
+P1 	: 오늘까지 써야하는 쿠폰 써서 쇼핑할 땐 미치네요..ㅎ
+	  뭐살까? ㅋ
+P0 	: 아 알아요ㅋ 엄청 쫄리져

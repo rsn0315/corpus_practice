@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007422
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 카페투어도 하시나요
+P0 	: 시간 날 때 가는 편이에요
+P0 	: 어디 카페좋아하세요?
+P0 	: 개인카페 자주가시려나
+P1 	: 어엇 네네 개인카페 자주가고
+P1 	: 저는 카페 뭔가 디저트 먹으러 가는 것 같아요
+P0 	: 디저트면 어떤거요 케이크?
+P1 	: 크로플이랑
+P0 	: 맛있겠다
+P1 	: 빵류들 먹으러 다뇨요
+P1 	: 근데 그 뷰가 좋은 곳은
+P1 	: 맛이없더라고요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 맞아요
+P1 	: 동탄에 한옥 유명한 카페 갔었는데
+P1 	: 맛없더라고요
+P0 	: 뭔가 음식보다 인테리어나 뷰에 초점을 맞춘느낌
+P1 	: 맞아요 맞아요
+P1 	: 음식도 이쁘기만하고
+P0 	: 그런곳은 두 번안가게 되더라구요
+P1 	: 맞아요 사진 한 번이면 족하다
+P0 	: 실속없는 편ㅎ..
+P1 	: 00다방 이렇게 되어있는 곳중에서

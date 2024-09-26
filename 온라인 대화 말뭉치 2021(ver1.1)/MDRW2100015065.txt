@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015065
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요??
+P1 	: 아뇨 고양이 자암깐 맡아본 적만 있어요
+P1 	: 반려동물 있으세요?
+P0 	: 아뇨 저도 없어요 ㅠ
+P0 	: 고양이 암청 힐링된다던데
+P1 	: 귀엽죠ㅠㅠ 잠깐 맡았던 고양이가 완전 개냥이였어요
+P0 	: 사랑스럽더라구요
+P1 	: 한번 입양해보고 싶긴해요 &name1&님은 반려동물 키울 생각 있으세요?
+P0 	: 저는 마음은 굴뚝같은데
+P0 	: 제가 관리를 잘해줄 자신이 없어서
+P0 	: 친구네로 놀러가요 ㅋㅋ
+P1 	: 저는 고양이 정도는 케어가 될 것 같은데 안타깝게 알러지가 있네요ㅠㅠ
+P0 	: 헉쓰 알러지라니 ㅠㅠ
+P0 	: 잠깐 맡으실 땐 어떡하셨어요??
+P1 	: 그땐 고양이털 알러지인 걸 몰랐어요ㅋㅋ 원래 비염이 있어서요
+P0 	: 알러지는 어떻게 알게 되신 거에요??
+P1 	: 꽃가루알러지 땜에 이비인후과 갔다가 다른 알러지 검사까지 하게됐어요 팔에 바늘로 찔러서요ㅋㅋ
+P0 	: 바늘 악 안아프셨나요??

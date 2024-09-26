@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 안 키워요
+P1 	: 키우고 싶은데 코로나 끝나면
+P1 	: 집에 비는 시간 많아지니까 못 키우겠어요
+P0 	: 저도 일때문에
+P1 	: 네네
+P0 	: 같이 있고 싶은데 여건이
+P1 	: 맞아요ㅠㅜ
+P0 	: 애정쏟을 시간이 없어요
+P1 	: 많이 바쁘신가봐요
+P0 	: 넵
+P0 	: 아마도 일을 하니
+P1 	: 보통 몇 시에 퇴근하세요?
+P0 	: 9시요
+P1 	: 늦게 퇴근하시네요
+P0 	: 대부분 드렇죠
+P1 	: 9시 퇴근이면 애정 쏟을 시간이 없을 만 하네요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100029859
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 보는건 좋아하는데 키우진 못해요ㅠㅠ 여건마련이 쉽지않더라구요
+P0 	: 전 구피 키워요
+P1 	: 아 물고기키우시는 군요
+P1 	: 어떤기회로 키우게되셨어요?
+P0 	: 선물받아서요
+P1 	: 아하 물고기 선물이라! 흔치 않네요
+P0 	: 네 아무래도 ㅋㅋ
+P1 	: 구피 돌보기는 어렵나요?
+P0 	: 물관리 힘들죠~
+P1 	: 그쵸 쉽지않을거같어요
+P0 	: 이끼가 잘 생겨서 관리가 어려워요
+P1 	: 배식은 어떻개하세요?
+P0 	: 걍주면 알아서 먹던대요

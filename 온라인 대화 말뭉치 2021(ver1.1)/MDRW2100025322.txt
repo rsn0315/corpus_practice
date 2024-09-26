@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100025322
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침식사 하셨나요?
+P1 	: 네 요거트에 이것저것 넣어 먹었어요
+P1 	: &name1&님은요
+P0 	: 오 저도 요거트에 과일이랑 견과류 넣어서 먹었어요!
+P0 	: 어떤것 넣어드세요?
+P1 	: 과일 채서 견과류요.. 비슷하네요..ㅎㅎ
+P0 	: 저녁은 맛있는것 드셨어요?
+P1 	: 저녁은 소불고기 먹었어요
+P1 	: 어제 재료 사놓은게 있어서요
+P0 	: 우와 맛있었을것 같아요~
+P0 	: 저는 카레먹었어요
+P1 	: 카레 맛있죠..ㅎㅎ
+P0 	: 카레에 당근 넣는거 좋아하시나요?
+P1 	: 저는 좋아요.. 저희 식구들은 당근 잘 먹어요
+P0 	: 아항 저는 엄마가 넣으셔서 그냥 먹어요 ㅋㅋㅋ
+P0 	: 원래는 고기를 제일 좋아해요 ㅋㅋ
+P1 	: 카레에 돼지고기 넣으면 정말 맛있죠
+P1 	: 카레에 참치 넣기도 했어요.. 각자의 맛이 있더군요
+P0 	: 우와 참치넣는거 신기해요
+P0 	: 맛이깊어질것같네요!
+P1 	: 참치카레 안먹어봤나요? 한번 도전해봐요
+P1 	: 저는 돼지고기 넣는게 더 맛은 있었지만
+P1 	: 참치도 꽤 괜찮아요
+P0 	: 참치카레 도전해볼게요!!
+P0 	: 참치가 정말 은근 여기저기 많이 들어가네요

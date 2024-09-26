@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100039365
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 여행 다녀오신곳 있으세요?
+P1 	: 최근엔 시국상 다녀오지 못했어요 가까운 권역 내 부산 송정정도?
+P1 	: &name1&님은 여행 다녔나요?
+P0 	: 그쵸ㅠㅠ저도 계획대로면 해외에 가고싶었는데..속초 친척집에 다녀왔어요
+P1 	: 저도 해외 가고싶은데 영 못가네요
+P1 	: 속초 멋있겠다 어땠나요?
+P0 	: 그래도 바다보니 좋았어요ㅎㅎ 먹거리가 좋더라구요
+P0 	: 부산 저도 참 좋아하는데ㅎㅎ국밥먹고싶어요ㅋㅋ
+P1 	: 속초 바다 예쁘다더라구요 전 강원쪽은 못 가봐서
+P1 	: 국밥 진짜 거기서 거기예요
+	  (국밥집이 많다는 뜻)
+P0 	: 그쵸 멀죠ㅋㅋ어 근데 진짜 다르던데요ㅋㅋ 서울에선 그맛나는 국밥집이 없는거같아요ㅋㅋ
+P1 	: 아 서울은 그런것 같았어요 설렁탕집은 꽤 많은데 부산국밥같은 집은 없더라구요 아니면 좀 밍밍한?
+P0 	: 맞아요 낙 곱 새도 참 좋아하는데 부산가서 먹고 다른음식을 먹어왔구나 했어요ㅜㅜㅋㅋ
+P1 	: 저도 낙곱새 좋아해요! 깔깔하니 좋아요
+P0 	: 본고장에 여행가서 먹으니 진짜 맛있더라구요ㅋㅋ
+P1 	: 여행 가서 먹는 게 짱인것같아요
+P0 	: 여행의 묘미죠ㅎㅎ 기억나게 돼요ㅋㅋ

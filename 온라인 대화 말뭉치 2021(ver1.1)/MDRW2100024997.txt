@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024997
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 작가나 책 있어요?
+P1 	: 저는 문학좋아해요
+P1 	: &name1&은요?
+P0 	: 저는 판타지소설 이나 그냥 소설도좋아해요! 좋아하는 작가도 있나요?,
+P1 	: 좋아하는 작가는 따로 없어요
+P1 	: 좋아하는 작가 있으신가요?
+P0 	: 저는 이도우작가님 책을 여러권 본것같아요
+P0 	: 말랑말랑하게 하는 그런게 있는것같아요
+P1 	: 이도우님책 한 권 추천받아도 될까요?
+P0 	: 날씨가 좋으면 찾아가겠어요 좀 쌀쌀 할때 읽기 좋고 사서함110호의 우편물도 좋았어요!
+P1 	: 두 편 다 유명한 책이네요 한 번 찾아봐야겠어요
+P0 	: 네 잘 맞았으면 좋겠어요!ㅎㅎ
+P0 	: 저도 좋아하는 책 추천해 주실수 있으신가요?
+P1 	: 얼마나 닮았는가요
+P0 	: 그렇군요 한번 읽어봐야겠어요!
+P0 	: 주로 어디서 책을 보시나요?
+P1 	: 저는 도서관이요
+P1 	: &name1&님은요?
+P0 	: 저도 주로 이북도서관이용하는것 같아요!
+P0 	: 요즘 어떤 장르가 인기인지 모르지만 주식이나 금융책도 많이 보던데 보시나요??
+P1 	: 저는 금융은 보는데 주식은 안봐요

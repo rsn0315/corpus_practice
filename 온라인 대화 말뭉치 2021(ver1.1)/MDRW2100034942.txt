@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034942
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 맛있게 드셨나요?
+P1 	: 네 집밥먹었어요
+P1 	: 뭐 드셨나요?
+P0 	: 부대찌개 해먹었어요
+P0 	: 배달음식 자주 드시나요?
+P1 	: 네. 아무래도 편해서요ㅎㅎ
+P0 	: 얼마나 자주 드세요?
+P1 	: 주말엔 꼭 시켜먹는 것 같아요
+P0 	: 어떤 메뉴 즐겨드세요?
+P1 	: 보통 치킨을 가장 많이 사먹어요
+P0 	: 어디 브랜드 좋아하세요?
+P1 	: 노랑통닭이요
+P1 	: 요새는 여기서 자주 먹어요
+P0 	: 노랑통닭은 깐풍치킨이 맛있었는데 요즘은 뭐가 맛있어요?
+P1 	: 전 후라이드가 맛있어서요ㅋㅋ 양념이랑 깐풍이랑 같이 오는 세트도 좋더라구요
+P0 	: 후라이드는 카레향이 나는것이 매력인거같아요

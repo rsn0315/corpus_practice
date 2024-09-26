@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100009080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 직장인이세요?
+P1 	: 네 직장인이에요^^
+P0 	: 내일은 출근하시나요?ㅠㅠ
+P0 	: 벌써 출근이라니......ㅎ.ㅏ.......
+P1 	: 저는...
+P1 	: 출근이 나오요
+P1 	: 나요
+P1 	: 나아요
+P0 	: 헐 진짜요??
+P1 	: 네....
+P1 	: 주말에는..육아가...
+P0 	: 앗.... 그건 생각도 못했네요 제가 미혼이라ㅠㅠ
+P0 	: 아 갑자기 이해됩니다ㅠㅠ
+P1 	: 너무 예쁜데....
+P1 	: 그래도 제 시간도 필요하네요 흑흑
+P0 	: 출근은 몇시쯤 하세요?
+P1 	: 8시40분까지라서 8시 전에 나와요
+P1 	: 얄루님은요???
+P0 	: 저는 9시까지라서 8시반에 나갑니다! 걸어서 갈 수 있는 거리거든요
+P1 	: 우와 진짜 좋네요
+P1 	: 가까운게 제일 좋은 것 같아요
+P0 	: 맞아요! 교통비만 안들어도 넘 좋더라구요

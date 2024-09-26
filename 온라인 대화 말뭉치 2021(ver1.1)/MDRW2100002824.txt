@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002824
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여름휴가 다녀 오셨어요?
+P0 	: 이번에는 코로나로 아쉽게도 못갔어요. 혹시 휴가 다녀오셨나요?
+P1 	: 아~코로나땜에 못 가신분들 많더라고요
+P1 	: 저도 멀리 못가고 호캉스로 갔다왔어요
+P0 	: 호캉스 너무 좋죠. 도심속에서 즐기는 휴식 너무 좋아요.
+P0 	: 일정 하루 잡고 다녀오셨나요?
+P1 	: 2박3일로요
+P0 	: 호캉스하면서 가장 좋았던건 뭐에요? 아무래도 편안함일까요?
+P1 	: 네~완전 힐링이었어요
+P0 	: 정말 좋으셨겠어요.
+	  음 코로나가 아니었다면 갔을 여행지가 있으실까요? 전 아마 동남아 쪽같을 거 같아요
+P0 	: 열대과일을 아주 좋아하거든요
+P1 	: 아~동남아 좋죠~
+P1 	: 저는 유럽쪽 가고 싶어요
+P0 	: 유럽이요? 유럽 어디 좋아하세요?
+P1 	: 저는 파리에 가보고 싶어요
+P0 	: 파리 너무 낭만적이에요 에펠탑 보고싶어요
+P1 	: 네~~파리가서 분위기를 느끼고 싶어요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 아파본적있으신가요?
+P1 	: 어느정도로 아픈거요?
+P1 	: 오래 입원하고 그런적은 없어요
+P0 	: 저는 독감 걸려봤어요
+P1 	: 아아 그렇군요 ㅠㅠ
+P1 	: 영양제 챙겨드세요?
+P0 	: 네 님은요?
+P1 	: 저두요 영양제 챙겨먹어요
+P1 	: 어떤거 드세요?
+P0 	: 마그네슘,아연,비타민c비타민d,오메가3먹어요
+P1 	: &name1&님도 많이드시네요 ㅋㅋㅋㅋ
+P1 	: 마그네슘 아연은 어디에 좋나요?
+P0 	: 신경 근육 인대 관절에 좋아요
+P0 	: 뭐드세요?
+P1 	: 유산균 오메가 비타민cdb 먹어요ㅋㅋㅋㅋ
+P0 	: 오 건강 잘챙기시네요

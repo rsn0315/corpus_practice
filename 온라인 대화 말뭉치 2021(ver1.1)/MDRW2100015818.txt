@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 패션브랜드 있으세요?
+P1 	: 아니용 패션에 대해 잘 몰라서 그냥 로엠이나 미쏘에서 옷 사요
+P1 	: &name1&님은 있으신가요?
+P0 	: 저는 타미힐피거 옷 즐겨사요! 아시는 브랜드인가요?
+P1 	: 네 모든 종류를 사시나요? 아니면 뭐는 여기가 최고다 하는 게 있으시나요?
+P0 	: 모자가 질이 좋은거같아요ㅎㅎ 다이어트는 해본적 있으세요?
+P1 	: 아뇨 제가 운동하기 싫어하는데 다행히 살이 안찌는 체질이라....ㅋㅋㅋㅋ
+P1 	: 혹시 지금 머리는 어떤 상태신가요?
+P1 	: 저는 이번에 파마를 하고싶어서 열심히 알아보고있어요
+P0 	: 저는 반곱슬이라 매직해야할거같아요! 셀프파마 하시게요?
+P1 	: 헉 아뇨 파마도 셀프로 할 수 있군요
+P1 	: 요즘 날씨에 슬프시겠어요 저는 어릴때만 반곱슬이었는데
+P1 	: 습도가 높으면 머리가 제일 먼저 알더라구요 ㅋㅋㅋㅋ
+P0 	: 크면서 곱슬이 없어지셨나요?
+P1 	: 네 맞아요 그냥 자연스레 직모가 되었습니다 ㅋㅋㅋㅋㅋ
+P0 	: 부러워요ㅠㅠ 매직 자주 하셨어요?
+P1 	: 1달 반~2달 주기로 햤었어요!
+P1 	: 탈색해보셨나요?
+P0 	: 한번도 안했어요! 해본적있으세요?
+P1 	: 아뇨 해보고싶은데...!
+P1 	: 기본 머리숱이 없어서 탈모가 걱정돼욬ㅋㅋㅋㅋ

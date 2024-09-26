@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014816
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 내일은 뭐 먹지
+P1 	: 집 밥 먹어라
+P0 	: 계속 집밥만 먹었잖아
+P1 	: 집에 아직 먹을 거 많다
+P0 	: 글쿤.. ㅠ알았당
+P1 	: 뭐 해 줄까
+P0 	: 음.. 오므라이스? ㅋㅋ
+P1 	: 그래
+P0 	: 채소 많으니까 딱 좋을듯
+P1 	: 그래 냉장고 털어라
+P0 	: 좋았으.. 냉장고 좀 비우자 ㅋㅋ
+P1 	: 그래 다 털면 맛있는 거 사 먹어라
+P0 	: 알았어유 ㅋㅋ
+P1 	: 오므라이스 맛있게 해 먹자
+P0 	: 저녁에 치킨 시켜먹을까

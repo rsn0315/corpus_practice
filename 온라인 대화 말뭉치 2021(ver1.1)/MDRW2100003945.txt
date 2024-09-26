@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003945
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 하는 일이 힘드네요
+P1 	: 안녕하세요 &name1&님 ㅜ 어떤 부분이 힘드신가요? 적성에 안맞으세요?
+P0 	: 아니요 그냥 근로소득이 작아서요ㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ 그러시구나 그러면 힘드실수도 ㅋㅋㅋ
+P1 	: 전 곧 학교 졸업해서
+P1 	: 저도 돈잘버는 직업 없나 열심히 고민중이네요 
+P0 	: 오호 어떤일 하실 생각이세요
+P1 	: 개발자쪽으로 생각하고있어요! 지금 전공이라서요
+P0 	: 오 전공이 뭐에요?
+P0 	: 요즘 개발자가 대세
+P1 	: 소프트웨어요!
+P1 	: &name1&님은 어떤일하세요?
+P0 	: 저는 교육쪽이요ㅋ
+P1 	: 헉 ㅋㅋㅋㅋㅋ 직접 다른 사람들 교육하시는거에요??
+P0 	: 네 뭐 그런 분야입니당ㅋ
+P1 	: 그럼 되게 말씀 잘하시겠다 ㅋㅋㅋ
+P1 	: 저는 딴사람한테 뭐 갈켜주는거 너무 기빨려요 ㅓ ㅋㅋ
+P0 	: 저도ㅜㅜ 그냥 별 수 없이 하는거죵ㅋ

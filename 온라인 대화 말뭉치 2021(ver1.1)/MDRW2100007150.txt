@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100007150
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연이나 뮤지컬 좋아하세요??
+P1 	: 오 뮤지컬 좋아하는데
+P1 	: 비싸서 거의 못 봐요ㅠ
+P0 	: 저두요 ㅠ 한번 보려면 큰 마음 먹어야하죠
+P0 	: 그럼 뮤지컬 영화는 본 적 있으세요?
+P1 	: 오 뮤지컬 영화 좋아해요
+P1 	: 맘마미아 레미제라블 라라랜드 이런 류
+P0 	: 저두요!
+P0 	: 그런 영화는 꼭 영화관가서 보려고해요
+P0 	: 그럼 좋아하는 뮤지컬 넘버는 있으신가요?
+P1 	: Cell Block Tango요
+P1 	: sweet transvestie도 좋아해요
+P0 	: 아 첫번째 노래 시카고 넘버죠??
+P0 	: 얼마전에 넷플에서 시카고를 영화로 봤어요
+P0 	: 보고나니까 직접 공연도 보고싶더라구요
+P1 	: 네네!
+P1 	: 시카고 넷플에 있군요
+P1 	: ㅠㅠ저도 공연 보고 싶어요
+P0 	: 레미제라블은 영화관에서 보셨나요??
+P1 	: 아뇨ㅠ 집에서 봤어요
+P0 	: ㅠㅠ 다음에 재개봉하면 꼭 영화관에서 한번 보세요!
+P0 	: 요즘 코로나때문에 재개봉하는 영화들이 많아서 좋은 것 같아요
+P1 	: 오 맞아요ㅠ재개봉 많이 하더라고요
+P0 	: 다시보고싶은 영화 있으신가요?
+P1 	: 저는 판의 미로 좋아해서
+P1 	: 극장에서 보고 싶네요

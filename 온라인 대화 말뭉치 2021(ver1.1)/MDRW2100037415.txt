@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 배민에서 맛집 배달 많이 하시는 편이세요?
+P1 	: 네 거의 중독이여ㅠ
+P0 	: 배민에서 제일 잘 드시는 거 뭐예요?
+P0 	: 저는 피자 좋아해요
+P1 	: 저도 피자  치킨 많이 시켜요
+P1 	: 오늘도 시키셨나요?
+P0 	: 아뇨 오늘은 안 시켰어요
+P1 	: 그렇군여
+P1 	: 전 내일 시키려고요
+P0 	: 가족이랑 같이 드시나요?
+P1 	: 네 같이 먹어여
+P1 	: 님도요?
+P0 	: 네 저도 가족이랑 같이 먹어요
+P1 	: 참 맛나요ㅎ
+P0 	: 네 살찔 걱정만 없으면 좋겠어요
+P1 	: 맞아요
+P1 	: 누가 개발해줬으면
+P0 	: 배고프네요 밥먹고싶어요

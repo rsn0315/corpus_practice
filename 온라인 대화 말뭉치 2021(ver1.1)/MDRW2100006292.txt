@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006292
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>3기 신도시 1차 사전청약 4,333가구 당첨
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 청약 넣고 계신가요?
+P0 	: 네 꾸준히 넣고 있습니다 &name2&은요?
+P1 	: 저는 아직이요
+P1 	: 이번 3기 신도시에도 넣어보셨나요?
+P0 	: 오 안넣어봤어요
+P0 	: 3기 신도시가 부천 동탄 이런쪽 인가요??
+P1 	: 부천 남양주 고양이런데인 것 같네요
+P1 	: 왜 3기 신도시에 사전청약 안넣으셨나요?
+P0 	: 아 그쪽이군요!
+P1 	: 네
+P0 	: 뭔가 로또 일거같기도 하고..일정 놓치기도 해서 이래저래 못넣었어요
+P1 	: 찾아본봐로는 그렇더라고요
+P1 	: 그쵸 청약은 로또죠
+P0 	: 정말 로또더라구요
+P0 	: 근데 또 되는사람은 잘되고
+P0 	: 그런거 보면 신기해요
+P0 	: 저도 공부좀 더해야할거같아요
+P1 	: 근데 4333가구면 정말 많네요
+P0 	: 그러니까요
+P0 	: 타지역 제한도 없었나봐요
+P1 	: 그러니까요 3기신도시 청약 넣으실 생각 있으신가요?

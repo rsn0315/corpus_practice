@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014827
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 엄마 비 엄청 마니와
+P0 	: 지금 그쳤어
+P1 	: 아 진짜? 몰라씀
+P1 	: 우리 분리수거 가야되는데
+P0 	: 비그치면 가면돼
+P1 	: 다가치 내려가서 버리자
+P0 	: 다가치 아니고 다같이!
+P1 	: 이런거에 집착하지마라고
+P1 	: 그래 우리 빨리 분리수거 하고오쟈
+P0 	: 날씨 괜찮아지면
+P1 	: ㅇㅋㅇㅋ 낼 봐서 하고오자 낼은 비 안와씀 조케따
+P0 	: 그러게 홍수나겠어 이미 났지만
+P1 	: 우리 동네 &address& 넘쳤대
+P0 	: &address&도 넘쳤대

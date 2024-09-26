@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100013604
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 엄마 식사하셨어요??
+P1 	: 그래 딸 먹었지
+P1 	: 딸은 뭐먹었어??
+P0 	: 오늘 그냥 과자 먹었어요
+P0 	: 저녁에 우리 소고기 먹어요
+P1 	: 소고기 좋지
+P0 	: 부채살 콜??
+P1 	: 콜ㅋㅋㅋㅋㅋ
+P1 	: 비빔국수는??
+P0 	: 대박 맛있겠다
+P0 	: 엄마가 해요???
+P1 	: 어
+P0 	: 먹자그럼ㅠㅠㅠ
+P0 	: 배고파 죽겠네
+P1 	: 언제와???
+P0 	: 아직 모르겠어요
+P0 	: 비가 엄청 많이 오네요
+P0 	: ㅠㅠㅠㅠ
+P0 	: 우산 챙겨둬서 다행ㅠㅠㅠ
+P1 	: 그래 비많이온다
+P1 	: 조심히오렴
+P1 	: 딸은 어떤 계절 좋아해
+P0 	: 나는 가을ㅋㅋㅋㅋ
+P0 	: 안덥고
+P0 	: 안춥고
+P0 	: 적당히 서늘하고ㅠㅠ
+P0 	: 근데 요즘 가을이 짧아져서 슬퍼여 엄마는요??
+P1 	: 엄마는 봄이 좋다

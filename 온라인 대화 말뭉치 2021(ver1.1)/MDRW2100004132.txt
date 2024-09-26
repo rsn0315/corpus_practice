@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100004132
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 뭐가오는데
+P0 	: 전에 엄마 아빠이름으로 핸드폰 개통했잖아 그거에 대한 사은품인거 같애
+P1 	: .?그때 버너랑 모기퇴치기 왔잖아 그거말고 또있어?
+P0 	: 그러게 나도 그것만 있는줄 알았는데 아니었나봐
+P1 	: 잘 봐봐 니가 한게 맞는지
+P0 	: 응 다시 한번 확인해 볼게
+P0 	: 그 모기퇴치기랑 버너는 어떄
+P1 	: 모기퇴치기는 모기 잡히는지모르겟어
+P0 	: 버너는 어떤대?
+P1 	: 버너는 좋은거 같애
+P0 	: 사용은 해봤어 ?
+P1 	: 사용은 하고 있지 모기퇴치기
+P0 	: 사용해보는데 모기퇴치기 잘 모르겠다고 한거야 ?
+P1 	: 너도 써봐
+P0 	: 그럼 하나 가지고가서 써봐야 겠다
+P1 	: 그래라
+P0 	: 응챙겨나둬
+P1 	: 알았다

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009464
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행!!
+P1 	: 여행 어디어디 가보셨어요?? 저는 많이는 안 가봤어요
+P0 	: 저도 해외는 안 가봤어요ㅠㅠ
+P0 	: 국내도 가까운 데만 가끔..?
+P1 	: 해외를 간다면 어디로 가고 싶으세요??
+P0 	: 저는 일본이요!!
+P0 	: &name2&님은요?
+P1 	: 헉 저도 일본이요! 저 오키나와랑 오사카 가봤어요
+P1 	: 넘 재밌었어욯ㅎ
+P0 	: 헉 진짜요? 언어는 괜찮았어요?
+P1 	: 제가 고등학교 때 제2외국어가 일본어기도 했고 애니메이션을 좋아했어서 대충..소통까지는 가능했어요 글고 바디랭귀지하면 다 통하더라구요!
+P0 	: 와 저도 제2외국어 일본어였어서ㅋㅋㅋㅋ
+P0 	: 가서 써보고 싶네요ㅋㅋㅋㅋ
+P1 	: 일본여행 어디로 가고 싶으세요??
+P0 	: 저는 도쿄도 가보고 싶고 오사카랑 삿포로요!
+P1 	: 가서 뭐 하고 싶으세요!!?
+P0 	: 구경도 하고 맛있는 것도 먹고?
+P0 	: 딱히 뭘 해야겠다고 까지는 생각을 안 해봐서ㅋㅋ

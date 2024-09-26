@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017608
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뮤지컬 좋아하시나요?
+P1 	: 네 좋아하는 편이에요ㅎㅎ
+P1 	: &name1&은요?
+P0 	: 저도좋아해요! 가장 좋아하는것이 무엇인가요?
+P1 	: 오페라의 유령을 제일 좋아해요ㅎㅎ
+P1 	: &name1&의 최애 뮤지컬은 무엇이신가요?
+P0 	: 와오페라의 유령좋죵! 저는 엘리자벳이랑 위키드요!
+P1 	: 헉 위키드 제 위시리스트 중 하나인데ㅠ 부러워요
+P1 	: 전 시카고도 보고 싶어요 또다른 위시리스트ㅎㅎ
+P0 	: 맞아요! 이번에 민경아님 록시 꼭 보고싶었었는데ㅠㅠ!
+P0 	: 영화관람 최근에 하신적 있으신가요?
+P1 	: 저는 크루엘라가 제일 최근이었어요ㅎㅎ
+P1 	: &name1&은요?
+P0 	: 저는 블랙위도우요! 크루엘라도 재미있거봤어요!
+P1 	: 아 블랙위도우도 예매율 1위더라구요
+P1 	: 재밌었나요?
+P0 	: 네! 저는 재미있었어요! 액션씬도 화끈해서 좋았어요!
+P1 	: 액션물 좋아하는 사람은 확실히 좋아하겠더라구요ㅎㅎ
+P1 	: 저는 크루엘라가 인상깊었어요
+P0 	: 엠마스톤 연기가 넘 좋았어요!ㅎㅎ

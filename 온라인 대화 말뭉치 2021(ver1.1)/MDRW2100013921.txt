@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요가 저는 힘들던데..
+	  몸이 뻣뻣해서요
+	  오래하셨나요
+P0 	: 얼마안됐어요 집안일하시나요?
+P1 	: 네 주부에요
+P1 	: 집안일은...끝이없죠
+P0 	: 제일 싫은 집안일이 뭔가요
+P1 	: 화장실청소. 청소기먼지비우기요
+P1 	: 님은
+P0 	: 음식물 쓰레기 치우기요
+P1 	: 요리하시는거 좋아하세요
+P0 	: 매일해요
+P1 	: 주로 뭐해드세요
+P1 	: 저는 밑반찬하는게 잘안되네요
+P0 	: 채소 볶아먹어요
+P0 	: 뭐해드셨어요?
+P1 	: 소고기국이요
+P1 	: 채소어떤거요
+P0 	: 아스파라거스요
+P1 	: 고기구울때 같이 구워먹는데
+P1 	: 어떻게 볶아요

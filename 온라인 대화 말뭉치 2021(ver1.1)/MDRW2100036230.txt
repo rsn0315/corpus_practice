@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036230
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콘서트 가보셨나요
+P1 	: 네.. 가수 콘서트도 가보고.. 클래식 공연도 가보고.. 브로드웨이에서 뮤지컬도 봤어요
+P0 	: 와우..공연을 좋아하시는군요
+P1 	: 이 시국 전에는 종종 봤었죠..ㅋ &name1&님은 뭐 보셨나요?
+P0 	: 저는 김동률 콘서트가 기억에 남아요
+P1 	: 오~ 안가봤지만 좋았을거 같네요.. 성시경 콘서트 같은 느낌일듯
+P0 	: 네 넘 좋았어요 성시경 콘서트 가보셨나요
+P1 	: 안가봤지만 느낌이 그래서요..ㅎㅎ
+P1 	: 저 친구의 강요로 친구가 좋아하는 가수 콘서트 가봤어요
+P1 	: 정말 그때의 뻘쭘함이란...
+P0 	: ㅋㅋ누구 콘서트였는지 알수있나요
+P1 	: 손호영 첫 솔로 콘서트였어요..ㅎㅎㅎ
+P1 	: 발라드 가수가 아니다보니 엄청 방방 뛰는데
+P1 	: 저만 가만히 앉아서 관람했거든요
+P1 	: 모르는 노래만 나오는데.. 제가 어찌할 수 없더라구요
+P0 	: 음 그러셨군요 어떤 기분일지. 알것 같우요.ㅋ god콘서트였으면 조금 나았을듯요...ㅋ
+P1 	: 그쵸.. 그럼 아는 곡 나왔을텐데..
+P1 	: 솔로 1집 콘서튼데 팬들은 다같이따라부르고.. 전 한곡도 모르고

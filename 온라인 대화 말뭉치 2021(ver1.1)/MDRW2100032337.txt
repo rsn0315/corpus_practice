@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 과자나 디저트 좋아하세요?
+P1 	: 네네 좋아해요 ㅋㅋ &name1&님은요?
+P0 	: 저도요ㅋㅋ
+P0 	: 단거좋아해요
+P1 	: 저두요 ㅋㅋㅋ 마카롱 이런것도 조아하고..
+P0 	: 마카롱 진짜달죠ㅋㅋ
+P0 	: 케이크도 좋고..
+P1 	: 맞아여 ㅋㅋ 케이크도 좋고 이번달 생일이라 먹겠네요 ㅎㅎ
+P0 	: 오 생일이시구나~
+P0 	: 저도 케익먹으려고 생일기다리잖아요
+P1 	: 마자옄ㅋㅋㅋ 어떤 케이크 좋아하세요?
+P0 	: 기본 생크림이 제일 맛있는거같아요ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 저도 생크림 조아해요 ㅋㅋㅋ 초코도 좋아하고 모카도 좋은데 안질리고 먹는거는 생크림 같아요ㅋㅋ
+P0 	: 오 모카도 좋아요
+P0 	: 초코는 다른걸로도 자주먹는데 생크림은 케익아님 잘 안먹어서ㅎㅎ
+P1 	: 맞아요ㅋㅋㅋ 당근케이크는 좋아하시나여??
+P0 	: 몇번 먹어봤는데 저랑은 안맞는거같아요ㅠㅋㅋ
+P0 	: 좋아하세요?
+P1 	: ㅋㅋㅋ네네 전 뜨아랑 먹으면 맛있더라구요 ㅋㅋㅋ근데 안좋아하시는분들도 많으시더라구요ㅎㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100023980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어. 7시에 퇴근 완료.
+P0 	: 오랜만에 출근하니까 힘들지?ㅠㅠ
+P1 	: 어. 완전. 게다가 오늘 완전 이상한 사람 한 명 와서 더 스트레스 받아.
+P0 	: 웬 이상한 사람? 엄마네 직장도 문제가 많다ㅋㅋㅋ
+P1 	: 입주자가 하나가 와서 소장님이랑 대판 싸우고 갔어.
+P0 	: 헉 큰일이었네! 소장님은 괜찮으셔?
+P0 	: 엄마한테는 뭐라고 안 했고?
+P1 	: 어, 나랑은 관계 없는 업무였지. 그래도 과장님이 중간에서 대처를 잘해서 겨우 수습했어.
+P0 	: 다행이다~~ 월요일부터 뭔 일이래.. 과장님도 출근한지 얼마 안 됐는데 식겁하셨겠다ㅋㅋㅋ
+P1 	: 그러게. 안 그래도 월말이라 바쁜데 그 일 때문에 오늘 할 일도 다 못 끝내고 퇴근했어.
+P0 	: ㅠㅠ내일 야근하는 거 아니야?
+P1 	: 이번주에 주말 근무나 안 하면 다행이겠어.
+P1 	: 올해까지만 다니고 그만둬야 하나 생각 중.
+P0 	: 지금 일하는 데가 스트레스를 좀 심하게 주는 것 같긴 하다ㅠㅠ
+P1 	: 일단 과장님이 적응 하실 때까지는 버텨봐야지 뭐,

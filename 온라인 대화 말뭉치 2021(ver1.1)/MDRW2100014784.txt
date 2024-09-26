@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014784
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 
+P1 	: 안녕하세요 요즘에 구매하신 물건 있으세요?
+P0 	: 저는 코덕이라,,화장품이요 &name2&님은요?
+P1 	: 저도 화장품을 참 좋아한답니다 근데 요즘에는 코로나때문에 먹을걸 더 사고 있어요
+P0 	: 어떤거 주로 구매하세요?!
+P1 	: 핫딜로 나오는게 참 많더라고요 요즘에는 만두?
+P0 	: 아,, 만두!저도 군만두좋아하는데 어디게 맛있나요??
+P1 	: 풀무원 얇은피 만두를 샀어요 서로서로 쇼핑정보를 올려주는 친절한 분들이 모인 곳이 있어서 그곳에서 추천받았어요
+P0 	: 엇 저 그곳이 어딘지알것같아요 ㅎㅎ 혹시 생일때 받고싶은선물있으세요?
+P1 	: 그곳 참 좋은 곳이죠? 생일 선물은 생각 안해봤는데 음 요즘엔 사봉같은 바디용품에 관심이 생겼어요 그런거? &name1&님은 뭐 받고 싶은 선물 있으세요?
+P0 	: 아 생각해보니 정말어렵네요,,, 백화점상품권?!ㅎㅎ,, 지인선물은 보통어떤거하세요?
+P1 	: 지인선물은 카카오톡 쇼핑에서 기프티콘이 제일 편하니까 그걸로 하고 있어요 &name1&님은 선물로 뭐를 하시나요?
+P0 	: 아하 카톡쇼핑하기좋죠! 저는 보통 카페 충전카드많이해요 ㅎㅎ
+P1 	: 아 그러시구나 생각해보니 저는 스타벅스 금액권 많이 보내요 제일 호불호 안갈리는거 같아서요

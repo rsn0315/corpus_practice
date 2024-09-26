@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행다니는거 좋아하세요?
+P1 	: 여행 좋죠ㅠㅠ
+P1 	: 국내여행보다는 해외로 가는게 좋아요
+P1 	: 그래서 여행을 못다니고 있는 슬픈현실 ㅎㅎ
+P0 	: 해외 가장 최근에 어디 다녀오셨어요?
+P1 	: 가장 최근은 인도 다녀왔어요~ 코로나전 막차타구ㅜㅜ
+P1 	: &name1&님은 어디 다녀오셨어요??
+P0 	: 헉 인도! 혼자가신건가요? 전 마카오요!!
+P1 	: 오! 마카오랑 홍콩이랑 보통 묶어서 가던데!! 어떻게 갔다오셨어요??
+P0 	: 전 마카오만 친구랑 다녀왔어요! 인도는 친구랑 다녀오셨나요?
+P1 	: 인도를 자유여행으로 가기엔 담력부족이구요 ㅎㅎ
+P1 	: 봉사활동할 기회가 있어서 다녀왔어요!
+P0 	: 타지마할 가보셨어요? 어떤가요???
+P1 	: 타지마할은 못가봤고 골든템플 가봤어요!
+P1 	: 거기는 맨발로 들어가야해서 신발을 벗고 거기에 있는 물로 발을 씻고 들어갔었어요~
+P0 	: 찾아봤는데 너무 멋있네요.. 인도음식 어떤가요?
+P1 	: 인도음식 드셔보셨어요?
+P1 	: 한국에서 먹는 맛이랑 비슷해요! ㅎㅎㅎ
+P1 	: 약간 더 깊은맛이 있기는 한데 대체로 먹을만해요~
+P1 	: 호텔음식은 좀 그랬는데 사먹었던 음식들은 대체로 괜찮았던것 같아요.
+P0 	: 안먹어봤는데 기회되면 먹어보고싶어요!

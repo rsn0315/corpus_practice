@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100015145
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 저는
+P1 	: 저희집에서
+P1 	: 청소와 빨래와 간단한 식사를담당합니다
+P0 	: 저는 저희집에서
+P0 	: 가끔씩 설거지,최대한 누워있기,한이불로 오래 쓰고 꼬순내맡기를 담당하고 있어요
+P1 	: 정말 많은 가사를 하고계시는 군요
+P0 	: 매일 매일 시간이 너무 빨리가요..
+P1 	: 힘들진 않으신가요
+P0 	: 가끔은 이렇게까지 해야되나 싶고 힘들죠
+P0 	: 그래도 한이불을 오래 썼을 때의 그 꼬순내..전 그정도면 뿌듯합니다
+P1 	: 대단하십니다
+P1 	: 저는제가 가사노동을 많이한다고생각했는데
+P1 	: &name1&님에 비하면 새발의 피였군요
+P0 	: 아휴 별거아닙니다
+P0 	: &name2&님도 힘드시겠어요
+P1 	: 힘들어도
+P1 	: 청소하면 보람있어서
+P1 	: 괜찮아요ㅎㅎ
+P0 	: 정말 찐 주부시군요...
+P0 	: 대단하십니다
+P1 	: 다만..
+P1 	: 같이사는 사람이
+P1 	: 청소에 비협조적인게 흠이에요
+P0 	: 보통 청소하는 사람과 어지르는 사람은 따로 있다고들 하죠
+P1 	: 그쵸
+P1 	: 십분 공감합니다
+P0 	: 삼십분은 공감못하나요?
+P1 	: 후우..가족이랑 생활패턴이다르다는건
+P1 	: 참 피곤한일인것같아요

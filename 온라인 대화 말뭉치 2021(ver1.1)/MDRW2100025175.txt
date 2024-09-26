@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100025175
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 여행좋아하세요?
+P1 	: 안녕하세요
+P1 	: 네 근데 최근엔 코로나때문에 못가고있어요
+P0 	: ㅠㅠ맞아요
+P0 	: 마지막으로 간곳이 어디에요?
+P0 	: 전 부산이었어요
+P0 	: 재작년을끝으로ㅋㅋㅠ
+P1 	: 저도 부산이요 ㅋㅋㅋ
+P1 	: 맛집 가셨나요?
+P0 	: 네ㅋㅋㅋㅋㄱ
+P0 	: 근데 역시 인터넷맛집이 좋은것같아요
+P0 	: 부산사는 친구랑갓더니
+P0 	: 자꾸 국밥먹자고해서...
+P1 	: 아 ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 첫날 점심 저녁 둘다 돼지국밥먹었던기억이ㅜ
+P1 	: 현지인 맛집이네요
+P0 	: &name2&님이 뭐드셨나요
+P0 	: ㅋㅋㄱㅋㅋ
+P1 	: 전 한치물회?랑
+P1 	: 마라탕 먹었어요 ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㄱㅋㄱㅋ
+P0 	: 한치물회맛있겠다
+P0 	: 굳이 회안좋아해도
+P0 	: 바닷가가면 먹게되는것같아요
+P1 	: 맞아요 여행가서 먹으면 더 맛있는거 같더라구요
+P0 	: 그쵸 괜히 비싼데도
+P0 	: 기분낸다고 먹는것같아요

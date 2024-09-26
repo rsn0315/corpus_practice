@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100000471
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 키우시는 반려동물 있어요?
+P1 	: 햄스터 키우고 있어요^^
+	  &name1&님은요?
+P0 	: 아 정말요? 귀엽겠다ㅠㅠㅠ 저는 고양이 한마리 키우고 있어요!
+P1 	: 앗. . 저희애들이랑 천적인 고양이네요!ㅎㅎ
+	  고양이는 털 많이 날리지 않나요?
+P0 	: 앟ㅋㅋㅋㅋ 맞아요... 털리 장난 아니에요... 저후ㅏ 고양이는 심지오 장모종이라서 털이 더 심하게 날려요ㅠㅠ
+P1 	: 아..  고양이 대해서 잘모르지만 그렇다고 들었어요
+	  청소도 쉽지 않겠어요ㅠ
+P0 	: 맞아요... 곧 털갈이 시즌이라서 또 눈물납니다...(또르륵..
+P1 	: 저희 햄스터들은 집에서만  키우니 털날림이나 그런건 없네요..
+P0 	: 아 맞아요 ㅎㅎㅎ 햄스터 작고 귀엽겠다ㅠㅠ 햄스터 이름은 뭐에요?
+P1 	: 골든햄스터는 햄꽃지 , 정글리안햄스터는 햄토리예요ㅋㅋ
+P0 	: 아이 이뻐라ㅎㅎㅎ 꽃지, 토리구나 ㅎㅎㅎ
+P1 	: 네 햄스터라서 성이 햄이예요ㄲㄱㅋ
+P0 	: ㅋㅎㅋㅎㅎㅋㅋㅋ 완전 귀엽네요ㅎㅎㅎ
+P1 	: 반려동물도 가족이니 완전 사랑스럽죠^^

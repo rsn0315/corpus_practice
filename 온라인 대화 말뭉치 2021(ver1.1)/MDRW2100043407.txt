@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100043407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 초코찰떡꼬치 아세요?
+P0 	: 그 편의점에 파는거 말씀하시는건가요?!
+P1 	: 네 맞아요!!
+P1 	: 드셔보셨나요?
+P0 	: 아녀 못먹어봤어요 쫀득하구 맛있나요?!
+P1 	: 네네!!
+P1 	: 그거 스트레스받을때 드세요
+P1 	: 당뇨오는 맛이에요
+P1 	: 이 세상 단맛이 아니랍니다
+P0 	: 헉 .. 저 완전 단맛 좋아해요 담에 사먹어봐야겠네욬ㅋ
+P1 	: 네네 달아서 머리가 띵해질수 있으니 주의하세요!!!
+P0 	: 가끔 그렇게 미치게 단거가 끌리는 날이 있죠
+P0 	: 다음에 편의점가서 있으면 사야겠어요 ㅎㅎ
+P1 	: 좋아요
+P1 	: 전지금 편의점가서 불닭볶음면을 사야겠어요
+P0 	: 오 저 오늘 불닭먹었어요 ㅋㅋㅋ
+P0 	: 불닭 진짜 맛있죠
+P1 	: 헐 역시 국민라면
+P1 	: 매운라면 최고입니다
+P0 	: 맞아요 진짜 맛있죠.. 불닭 개발하신 분 천재예요
+P1 	: 진짜요
+P1 	: 전국민 매운맛의 기준을 높여놨어요

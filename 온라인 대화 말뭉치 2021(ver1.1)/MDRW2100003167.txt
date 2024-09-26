@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003167
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 어딜다녀오셨나요?
+P0 	: 저는 속초로 짧게 다녀왔어요 휴가 다녀오셨어요?
+P1 	: 아니요 이번휴가땐 집 시댁 친정 왕복하면서 보냈어요
+P0 	: 아 코로나때문에ㅠㅠ어딜 가기 꺼려지긴 해요
+P1 	: 저흰 애기들이 어려서 겁나더라고요 
+	  사실 저도 강원도 예약했었는데 취소 했어요ㅜㅜ
+P0 	: 아쉽네요ㅜㅜ 저도 친척이 속초에 있어서 간거긴해요 멀리가긴 그렇더라구요
+P1 	: 전 그때 강릉쪽 예약했었는데 4단계 격상으로 취소 하라고 전화오더라구요;;
+P0 	: 헐 4단계면 심각할때였나보네요 겨울엔 좀 풀려서 따뜻한 제주도라도 가고싶은데ㅜ
+P1 	: 전 비행기랑 버스타는것도 꺼림직해서 백신 맞기 전까진 여행은 텄어요ㅠㅠ
+P0 	: 그쵸ㅠㅠ 백신맞으면 그 여행지에서 할인도 해주고 한다던데...얼른 ㅣㅠㅠ
+P1 	: 여행 정말 좋아하는데 못가본지 2년은 된것같아요ㅠㅠ
+P0 	: 저도 그래요..나중에라고 미루던게 너무 아쉬워요
+P1 	: 전 다음에 하면서 해외여행 안간게 제일 후회되요ㅋㅋ
+P0 	: 저두요ㅋㅋ더 적극적으로 많이 갈걸..ㅠㅠ

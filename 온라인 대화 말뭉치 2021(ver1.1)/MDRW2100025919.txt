@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100025919
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 무슨 음료 좋아하세요?
+P1 	: 역시 아메리카노죠! &name1&님은요?
+P0 	: 저도 아메리카노 좋아요! 그래도 피지오가 더 존맛인거같아요!
+P1 	: 피지오가 뭐에요??
+P0 	: 스타벅스 피지오요
+P0 	: 에이드...?
+P1 	: 앜ㅋㅋㅋ그건 안먹어봤어요
+P1 	: 스벅은 가면 자허블만 먹어섴ㅋㅋㅋ
+P0 	: 아 ㅋㅋㅋ 자몽 ㅋㅋㅋㅋ 저는 그걸 안먹어봤어요 ㅋㅋㅋㅋㅋ
+P0 	: 다음에  피지오 먹어봐요!
+P0 	: 저는 패션후르츠 피지오 먹어요!
+P0 	: 탱고티..
+P1 	: 오 추천 감사해요 ㅋㅋㅋ 패션후르츠면 진짜 맛 보장
+P0 	: 그쵸오 ㅎㅎ
+P1 	: 자허블도드셔보세요
+P0 	: 네 ㅎㅎㅎ 저도 먹어볼께요 ㅎㅎ
+P0 	: 아메리카노는 어느 브랜드 좋아하세요?
+P1 	: 네스프레소요! 사실 별로 안가려요 개인카페아니면
+P0 	: 아항
+P0 	: 저는 음 스타벅스 리저브 꺼 맛있어요

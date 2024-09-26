@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033299
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책좋아하세요?
+P1 	: 네 좋아해요 ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: ㅎㅎ저는소설류나여행책이요ㅎㅎ
+P1 	: 오 전 소설이랑 실용서요
+P0 	: 실용서라면...?
+P1 	: 건강이나 정리 등 정보가 있는 책이요
+P0 	: 아하
+P0 	: 최근얻은유용한정보가있나요
+P1 	: 네 코 훌쩍이지 말 것! 귀에 안 좋데요
+P0 	: 아맞아요ㅎㅎ넘어가죠
+P1 	: 읽고 있는 책 있나요?
+P0 	: 꿀팁이네요
+P0 	: 음 종양에관한걸읽었어요
+P1 	: 종양이요? 흔한 주제는 아니네요
+P0 	: 앗 그런가요ㅎㅎ

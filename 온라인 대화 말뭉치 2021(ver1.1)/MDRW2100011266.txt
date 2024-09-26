@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011266
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 녜녜님은 어떤 안주를 즐기시나요?
+P1 	: 전 요즘 와인에 치즈먹는게 좋더라구요!
+P1 	: 동네슈퍼에서 아무거나 사서 벨큐브 치즈 먹어요 ㅋㅋ
+P0 	: 와인의 치즈는 스테디셀러죠! 요즘 스윗 로제가 그렇게 맛있더라구요ㅎㅎ 가격대도 좋구요
+P1 	: 오호 그래요?
+P1 	: 짝꿍이 스윗한 와인 좋아해서 같이 마셔봐야겠네요
+P0 	: 화이트라 간단하게 파스타와 즐기기도 좋았어요ㅎㅎ
+P1 	: 상상만해도 넘 맛있겠어요!
+P0 	: 추천합니다! ㅎㅎ
+P1 	: 어제 결국 매운찜닭 시켜먹었네요 ㅋㅋ
+P1 	: 저녁 뭐드셨나요?
+P0 	: 저는 오징어볶음밥 먹었어요ㅋㅋ 매워서 혼났네요ㅠ
+P1 	: 헉 오징어볶음 말씀하시니까 저도 넘 먹고싶네요 ㅠㅠ
+P1 	: 오늘저녁은 그걸로 해야겠어요 ㅋㅋ
+P0 	: 계란후라이도 올려서 드세요! 그냥 먹으니 맵네요ㅋㅋ
+P1 	: ㅋㅋㅋ 어제 잘 먹었어요
+P1 	: 오늘은 뭐 드실건가요? ㅎ

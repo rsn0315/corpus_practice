@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 성형에 대해 어떻게 생각하시나요?
+P0 	: 저는 성형 이해안되요
+P1 	: 성형 어떤점이요?
+P0 	: 자기만족으로 성형하는거라면서 만족못하고 계속 손대더라고요
+P1 	: 그건 그래요 그렇지만 꼭 필요한경우도 있잖아요
+P0 	: 아 저는 미용성형얘기에요
+P1 	: 저도 너무 과하게 성형한 사람은 아무래도 부담스럽더라고요
+P0 	: 그리고 제 나이쯤되니깐 성형한 사람들 부작용이 나타나더라고요
+P1 	: 성형부작용 어떤것들이요?
+P0 	: 흉터는 기본이고 살처짐이나 보형물이 피부안에서 썩어서 고름처럼 나오더라고요
+P1 	: 헉 그럼 다시 성형수술을 해야하나요?
+P0 	: 그렇죠 그래서 부작용없는 성형은 없다고 하잖아요
+P1 	: 세월지나면 성형부작용이 나오는군요ㅠ

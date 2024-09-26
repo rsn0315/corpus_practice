@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005266
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요 님은요?
+P0 	: 저도 아직
+P1 	: 자녀있으시면 보통  애기들이 키우고싶어하던데
+P0 	: 자녀도 힘드네요
+P1 	: 애완견 키우면 정서발달에도 좋대요
+P0 	: 네 그렇다거 하더라구요
+P1 	: 향후 키우실 생각은요?
+P0 	: 일하면 혼자 외로워요..동물이
+P1 	: 아내분 계시니까 괜찮지않나요
+P1 	: 여행가면 데리고 가거나 맡겨야해서
+P0 	: 같이 일해서
+P1 	: 맞벌이시군요  그럼 동물키우는건 힘드실듯
+P0 	: 네 아무래도 그렇죠

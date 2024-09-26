@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100039598
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 아니요! 어릴땐 키웠어요!
+P0 	: 아 그러셧구나
+P0 	: 전 지금 키워요
+P1 	: 몇살인가요
+P0 	: 1살이여ㅎ
+P1 	: 강아진가용
+P0 	: 네 비숑이에요
+P1 	: 산책 자주 나가시나요
+P0 	: 하루에 한번씩 하려고 노력해요ㅎ
+P1 	: 산책 나가자고 하면 알아듣나요? ㅋㅋ 티비보면 막 신나하던데
+P0 	: 네 가자~~하면 좋아해요ㅎ
+P1 	: ㅋㅋㅋ 강아지들 그런거 알아듣는 거 너무 신기해요 ㅎㅎ
+P1 	: 개인기도 있나요? ㅎㅎ
+P0 	: 앉아 하면 앉는정도ㅋ

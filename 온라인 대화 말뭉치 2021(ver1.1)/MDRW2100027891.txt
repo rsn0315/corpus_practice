@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100027891
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요?
+P1 	: 네 저는 방금 시리얼 먹었습니다 &name1& 님은요?
+P0 	: 돈까스 먹었어요
+P0 	: 점심인데 시리얼로 괜찮아요?
+P1 	: 네 강의 들으면서 먹어야 해서 급하게 대충 떼웠습니다 돈가스 부러워요 치즈 돈가스 좋아하시나요
+P0 	: 치즈 돈까스 좋아해요 그치만 밖에 치즈 뿌린 거 말고 안에 있는 걸로요
+P1 	: 아 맞아요 고구마 들어간 것도 좋아하시나요?
+P0 	: 네네 고구마도 좋아해요
+P1 	: 저는 사실 돈가스를 잘 못 먹어요 항상 입천장이 까지더라고요
+P0 	: ㅇㅁㅇ... 까실한 거 먹어서 그런거에요?
+P1 	: 네 입천장이 많이 약한가 봐요 그래서 소스에 적셔진 축축한 돈가스를 좋아해요
+P0 	: 그러시구나 그러면 탕수육도 부먹파시겠네요
+P1 	: 맞아요 하지만 탕수육 소스는 잘 안 먹어요 간장에 찍어 먹는 걸 좋아해요
+P0 	: 오 그 방법은 처음 들어봐요ㅋㅋ

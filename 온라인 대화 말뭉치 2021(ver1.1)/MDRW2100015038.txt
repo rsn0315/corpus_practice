@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015038
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교가 있으신가요?
+P0 	: 무교예요 &name2&님은요?
+P1 	: 저는 기독교예요
+P0 	: 아 그러시군요! 요샌 코로나때문에 조금 힘든 부분이 있을거 같은데 어떤가요?
+P0 	: 온라인으로 참여하시나요
+P1 	: 네! 유튜브 실시간 중계로 참여해요
+P0 	: 오 유튜브로 하는군요~~ 온라인으로 하면 장단점이 뭔지 궁금해요
+P1 	: 일단 준비시간과 이동시간이 절약돼요!
+P0 	: 아 정말 그렇겠네요!!
+P0 	: 처음 종교를 갖게 된 계기가 궁금해요!
+P1 	: 모태신앙이라 태아때부터 기독교였어요ㅎㅎ
+P0 	: 아하 그러시구나 세례명도 있으신가요?
+P1 	: 기독교는 세례명을 따로 정하지는 않아요!
+P0 	: 아 교회 다니시는 거군요!
+P1 	: 네네ㅎㅎ 천주교는 세례명이 있으시죠?
+P0 	: 그런거 같아요 저도 무교라 정확히는 모르지만요 ㅎㅎ

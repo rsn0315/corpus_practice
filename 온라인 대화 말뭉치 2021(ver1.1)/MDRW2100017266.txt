@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017266
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 봉사를 해보신 적이 있나요?
+P0 	: 봉사 즐기시나요?
+P1 	: 네. 해본적있고 즐기진않네요 ㅠ
+P0 	: 저는 봉사를 즐긴답니다
+P1 	: 어떤타입의 봉사를 말씀하시는거세요?
+P0 	: 가족을 위해서 이런저런 봉사를 한답니다
+P1 	: 그렇군여. 최근에 가장 힘들었던 봉사가 뭐인가요
+P0 	: 갠적으로 말동무하고 기분 맞춰주고 하는 봉사가 꽤 힘들더라고요
+P1 	: 아니 그 대상이 누구신가요
+P0 	: 제가 언니라고 부르는 분이세요
+P1 	: 친언니 인가요?
+P1 	: ㅇ0ㅇ
+P0 	: 네 그렇습니다^^
+P1 	: 언니분에게 바라는점이 뭔가요??
+P0 	: 동생에게 상냥해졌으면 좋겠더라고요

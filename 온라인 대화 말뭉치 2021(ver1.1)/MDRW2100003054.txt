@@ -1,0 +1,48 @@
+# FILE DATA
+ID : MDRW2100003054
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요
+P1 	: 공연에 관심 있으신가요?
+P0 	: 많이 가지는 않았지만 좋아하는 편 이에요
+P1 	: 어떤거 보셨나요
+P0 	: 저는 뮤지컬나 영화가 재미있어요
+P0 	: 인기 있는건 티켓예약이 너무 어려워요
+P1 	: 저는 관심 없는 편인데
+P1 	: 네^^
+P0 	: 티켓 예약만 성공하면 좋겠어요
+P1 	: 성공하길 바라요

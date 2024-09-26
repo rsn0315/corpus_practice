@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100047155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 시국이라 여행 잘 못가는데.. 끝나면 꼭 가고 싶다 하는 곳 있으세요?
+P1 	: 저는 일본가고싶어요
+P0 	: 일본 어디 가고 싶으세요?
+P1 	: 어디든 좋을거같아요 좀 안가본곳 가고싶기도해요
+P0 	: 어디어디 가보셨어요?
+P1 	: 홋카이도 말고는 큰도시는 가본거같아요
+P1 	: &name1&님은요?
+P0 	: 오홍
+P0 	: 저는 하동 가고싶어요
+P0 	: 국내에 있는 차 다원 가고 싶어요
+P0 	: 일본은 뭐가 젤 매력적인가요?
+P1 	: 음 그냥.. 동네같은데
+P1 	: 못가니까 가고싶은거같아요
+P0 	: 아... 백신맞으셨어요?
+P1 	: 정기적으로 방문해야할거같아요
+P0 	: 백신맞았으면 지금이라도...
+P1 	: 백신아직이에요
+P0 	: 정기적 방문 ㅎㅎ
+P0 	: 일본을 사랑하시네요
+P1 	: 음.. 언젠간 질리겠죠

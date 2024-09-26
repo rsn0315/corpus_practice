@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100011613
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요:)
+P0 	: 넵 안녕하세요. ㅎㅎㅎ
+P0 	: 제일 최근에 구매하신 물건이 무엇인가요?
+P1 	: 차량용품 구입했었어요
+P1 	: &name1&님은요?
+P0 	: 저도 비슷한거요.  높은 곳에 있는 그릇등을 꺼내려고 3단 사다리를 샀어요
+P1 	: 구입한 제품은 마음에 드셨어요? :)
+P0 	: 만족하는데 커서 둘 공간이 없어 거실에 뒀더니 시선강탈자가 됐어요
+P0 	: 어떤 차량용품을 사셨나요?
+P1 	: 와우ㅜㅜ 생각하셨던것보다
+	  부피가 큰가보네요 ㅋㅋㅈ
+P1 	: 저는 차량용 붓펜을 구입했는데
+	  아직 사용은 못해봤어요^^
+P0 	: 펴면 ㅅ자 모양이 되고 그 위에 올라가는 구조에요
+P0 	: 여기올라가서 천정쪽 청소를 하면 의자보다 안정감이 있어요
+P1 	: 크기가 큰 거 빼면은
+	  여러모로 유용한 제품잉네요:)
+P0 	: 쓸만해요 근데 주로 ㅋ업자들이 쓰죠 그치만 키작은 시람은 이거 있음 좋아요
+P0 	: 낙상사망사건은 1미터 높이서도 일어나니깐..
+P1 	: 저도 키가 작아서 
+	  집에 하나 들이면 좋겠네요:)
+P1 	: 매번 식탁의자 꺼내다 쓰거든요
+P0 	: 이게 의자보다 더 높이 올라갈수 있고 튼튼해요. 3단 접이식 사다리로 함 검색해보세요
+P0 	: 3~4만원이었나

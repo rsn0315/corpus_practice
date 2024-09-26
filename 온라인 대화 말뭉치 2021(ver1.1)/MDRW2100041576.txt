@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041576
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 점심 드셨나요?!
+P1 	: 지금 닭갈비 먹고 있어요
+P0 	: 와 닭갈비 진짜 맛있죠
+P0 	: &name2& 님은 닭갈비에서 뭐가 제일 좋으신가요
+P1 	: 전 고기 다음 떡 그리고 고구마나 감자요 마지막이 채소ㅎㅎ
+P1 	: &name1&?
+P0 	: 오ㅋㅋㅋㅋ 저는 고구마랑 떡 그담이 고기 마지막은 그냥 나머지예요ㅋㅋㅋ
+P0 	: 그리고 치즈는 꼭 올려요
+P1 	: 헉, 치즈 최고죠 
+P0 	: 맞아요!!!! 치즈 얹으면 매운 것도 중화되고 좋더라고요
+P1 	: 그쵸, 떡볶이나 리조또, 파스타에도 치즈 들어가면 맛나요
+P0 	: 헛ㅋㅋㅋㅋ 제가 다 좋아하는 것들이네요
+P0 	: &name2& 님은 닭 요리 중에서 뭐가 제일 좋으신가욤
+P1 	: 저는 찜닭이요!
+P0 	: 와 찜닭! 저도요ㅋㅋㅋㅋ
+P1 	: 취향이 맞네요ㅎㅎㅎ
+P0 	: 근데 찜닭에서 저는 당면이 제일 좋더라구욬ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 요즘은 넓적당면 같은 거 많아져서 좋아요
+P1 	: 오, 면류 좋아하세요?
+P0 	: 네 당연하죠!!
+P0 	: 저는 면이라면 다 좋아하는 거 같아요

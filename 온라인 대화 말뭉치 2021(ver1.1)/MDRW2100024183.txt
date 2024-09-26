@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100024183
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 어떻게 챙기시나요
+P1 	: 걷기 위주라...ㅋㅋ
+P1 	: 게으르네요ㅠ
+P0 	: 저도 매일 1시간 걷기 운동 합니다
+P1 	: 오 1시간~~~
+P0 	: 비조금 맞고 1시간 걷고 지금 들어왔어요
+P1 	: 오유 왜 비를ㅠㅠ
+P0 	: 아주 조금 맞아어요
+	  시원하고 좋아요
+P1 	: ㅋㅋ그럼 다행이군요?
+P0 	: 걷는것 말고 또 다른 운동하시나요
+P1 	: 아뇨 귀찮아서 ㅎㅎ
+P1 	: &name1&님은요
+P0 	: 비올때나 걷기 안할때 자전거 타기를 30분정도 해요
+P1 	: 부지런하시네요 와
+P0 	: 허리가 조금 아프면서 운동을 열심히 하게 되더라고요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 날씨 어떤가요?-
+P0 	: 여기는 비가 엄청 내렸었네요 지금 살짝 소강상태요
+P1 	: 오늘 비가 많이 온건가요 여기와 다르네요
+P0 	: 네 밤부터 엄청 내리다가 지금은 그쳤어요 거긴 비 별로 안 왔나봐요
+P1 	: 여긴 흐렸다 갰다 변덕이 심해요 많이 오진 않네요
+P0 	: 아하 지역차가 있나보네요 여긴 하늘 뚫린 것처럼 와서..
+P0 	: 비오는 날씨 좋아하시나요
+P1 	: 별로요 .. &name1&님은요?
+P0 	: 저는 제가 집에 있을때 빗소리 듣는 건 좋아해요 ㅋㅋ
+P1 	: 이동할땐 불편하죠~
+P0 	: 네 전 우산도 잘 잃어버리고 그래서 비오는 날은 정신을 바짝 차려야돼요
+P1 	: 학생 땐 우산 많이 잃어버렸죠...ㅋ
+P0 	: 네 ㅎㅎ 그래서 그냥 장우산 들고다녀요 존재감 있는걸로

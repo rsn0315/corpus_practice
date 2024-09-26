@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006048
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 아이 있으신가요
+P1 	: 네 아들 하나 있어요~
+P1 	: &name1&님은요?
+P0 	: 저는 아들 둘 있습니다 취학전인가요?
+P1 	: 네 아직 취학전이요
+P1 	: 아이들 나이차이 어떻게 되요?
+P0 	: 3살 터울이요 &name2&님 아이는 몇살인가요
+P1 	: 지금 6살이요~
+P0 	: 첫째랑 동갑인네요 ㅎㅎ
+P1 	: 오~ 친구네요^^
+P1 	: 사부님은 집안일 잘 도와주세요?
+P0 	: 아 제가 남편입니다..ㅎㅎ
+P0 	: 저도 같이 하려고 노력합니다
+P1 	: 아 그러사군요^^;;
+P1 	: 아내분 많이 도와주세요?
+P0 	: 네 성이 찰지는 모르겠지만...ㅎㅎ
+P1 	: 열심히 도와주시는군요
+P0 	: 그래도 부족한 부분이 있겠죠 제 나름대로 노력은 하는데...&name2& 사부님은 어떠신가요?
+P1 	: 저희 신랑도 열심히 하려고 하는데...
+P1 	: 가끔은 일을 두번하게 한다는
+P0 	: 저도 그래요..제가 해놓으면 와이프가 한번 더..하더라구요...ㅎ

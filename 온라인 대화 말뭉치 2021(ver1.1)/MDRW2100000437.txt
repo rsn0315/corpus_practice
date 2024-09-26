@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100000437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!!
+P1 	: ㅎㅇㅎㅇ
+P0 	: 이상형이 어떻게 되세요?
+P1 	: 연애하시나요
+P1 	: 전
+P1 	: 감정 기복이 적은 사람이 좋아요..
+P1 	: &name1& 님은 어떠세요
+P0 	: 저는 재밌는사람이 좋아요 짜증 덜 내고 ㅋㅋ
+P1 	: ㅋㅋㅋ오
+P1 	: 안재밋는 사람과 만나보셨나여
+P0 	: ㅋㄱ네 차라리 집에서 혼자 핸드폰 보는게 더 재밌을 것 같은 느낌드는 사람이요
+P1 	: 헐
+P1 	: 반응이 없어요 놀 때?
+P0 	: 아뇨 코드가 다르더라구요
+P0 	: 연애중이신가요?
+P1 	: 아하
+P1 	: 전 사실 배우자가 있습니당.
+P0 	: 연애때보다 결혼하면 더 좋죠?
+P1 	: 정말 본인의 노력에 달렸어요!
+P1 	: ㅋㅋㅋㅋㅋ
+P0 	: 전 더 좋을 것 같은데!!
+P0 	: &name2&님은 어떠세요?
+P1 	: 전 노력중이라고 생각해요!! ㅋㅋㅋㅋ
+P0 	: 결혼해서 돈관리는 어느분이 하세요?
+P1 	: 혹시 ㅇ결혼 준비하시나요?
+P0 	: 아뇨 ㅠ 남자친구가 있기는 한데 아직 결혼생각은 없대요

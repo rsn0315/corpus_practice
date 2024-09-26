@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 ㅎㅎ &name1&은요?
+P0 	: 저도 키우지는 않아요
+P1 	: ㅋㅋ키우고 싶으신거는요
+P0 	: 만약 키운다면 쪼끔한 치와와 강아지요
+P0 	: 혹키우시고 싶은 동물 있나요
+P1 	: 전 손 많이 안가는게 좋은데
+P0 	: 그럼 식물은 어떤가요 ?
+P1 	: 키우고 있어요 방토!
+P0 	: 방토가 잘 열리나요?
+P0 	: 키우긴 수월한가요 ?
+P1 	: 방토요? 완전 쉽죠
+P0 	: 전 열매 달리는 채소는 키워 본적이 없어요
+	  아파트에서도 가능한가요 ?
+P1 	: 네 아파트 베란다에서 자라고 있습니다
+P0 	: 베란다 화분에서도 잘크나봐요
+P1 	: 네 잘 커요

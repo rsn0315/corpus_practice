@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010760
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 스포츠경기 좋아하세요?
+P1 	: 스포츠 다좋아합니다 축구빼구요ㅎㅎ
+P1 	: 무슨 종목 좋아하세요?
+P0 	: 저는 배구 좋아해요 축구 왜 싫어하세요?
+P1 	: 골이 점수가 많이 안나요
+P1 	: 배구직관 해보셨어요?
+P0 	: 그렇긴하죠 네 한번해봤어요
+P0 	: 경기 직관해보신적 있으세요?
+P1 	: 배구는 실제로 못봤어요
+P0 	: 어떤 종목 직관해보셨나요?
+P1 	: 야구요! 치킨먹으러 자주갔었어요ㅎㅎ 가보셯어요?
+P0 	: 야구는 한번도 안가봤네요 티켓은 어떻게 사셨나요?
+P1 	: 온라인으로 어플로 사는데 좋은자리는 진짜힘들더라구요
+P0 	: 예약하는 것도 있나요?
+P1 	: 최근에 올림픽 배구 재미나게보셨겠네요?
+P0 	: 하이라이트만 봤는데 재밌더라구요 야구보셨나요?
+P1 	: 연회비내면 빨리 예약하는것도된다고들었어요ㅎㅎ

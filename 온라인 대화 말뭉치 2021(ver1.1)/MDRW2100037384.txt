@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100037384
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 하시는 일에 만족하시나요
+P1 	: 그냥 하는 거죠.
+	  익숙하긴 합니다..ㅎ
+P0 	: 뭔가 전문적으로..능숙하게 잘 하실듯요^^
+P1 	: 같은 일을 오래 하다 보니
+	  일거리를 처리하는 속도는 빨라진 거 같아요.
+	  솔직히 모르는 일은 없습니다. ㅋ
+P0 	: 캬. 여유로움이 느껴져요. 부럽고 멋지십니다 ^^
+P1 	: 20년 됐어요. ㅎ
+	  늙었습니다. ㅋ
+	  제 지역은
+	  9월14일에 명절휴가 급여 나온다네요.ㅎ
+P0 	: 아..저는 휴직중이라 기쁠일이 없네요ㅠ
+P1 	: 복직은 언제 하시나요?
+P0 	: 내년이요~^^
+P1 	: 아.. 얼마남지 않았네요.
+	  틈나는대로 뒹굴거리시고 시간을 잘보내시길요.
+	  휴직중이지만 일이 있으니
+	   마음이 불안하지는 않지요..
+P0 	: 네 그게 저희 직업의 큰 장점인듯해요! 조언 감사합니다{emoji:♡}{emoji:♡}
+P1 	: 네. 애쓰셨어요.ㅎ
+P0 	: &name2&님은 아르바이트 경험은 없으신가요
+P1 	: 예전에 과외 등등 했었어요.ㅎ
+	  감사합니다
+	  ㅎ

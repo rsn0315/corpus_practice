@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011588
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 좋아하시나요
+P1 	: 싫어하는 쪽에 더 가깝지 않나 싶습니다..!ㅎㅎ
+P1 	: 운동 좋아하세요?
+P0 	: 홈트 해보려구요
+P1 	: 홈트 좋죠!! 그럼 유산소나 무산소 운동 계획하신 거 있으신가요?
+P0 	: 조깅도 하려구요!
+P1 	: 오 조깅!! 저도 날씨 좀 추워지면 런데이런이었나 한 번 해봐야겠네요
+P0 	: 오 그게 어떤거죠
+P1 	: 아 이름이 '런데이' 였네요..!! 어플인데 러닝 초보들을 위해 30분 달리기 훈련 도와주는..?? 그런 앱이라고 하더라구요!
+P0 	: 오 유용하네요!
+P1 	: 네네! 열심히 해봅시다..!!
+P1 	: 영양제는 챙겨드시는 거 있으신가요?
+P0 	: 유산균이랑 먹습니다ㅎㅎ
+P1 	: 오 유산균 좋다고들 많이 하던데 좋은가요??
+P0 	: 꾸준히먹으니 좋아요

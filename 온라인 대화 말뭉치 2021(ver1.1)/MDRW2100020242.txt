@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020242
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 지금 어느회사의 핸드폰을 쓰시고계세요?
+P1 	: 저는 삼성이요ㅎㅎ
+P0 	: 오 평생 삼성만쓰셧나요?
+P1 	: 음 예전에 스마트폰 처음 쓸 때 엘지도 썼었어요
+P0 	: 오... 그런일도 잇엇군요 ㅋㅋ 저는 삼성이랑 모토로라 빼고 골고루써봣어요
+P1 	: 그럼 삼성 폰은 안 써보신거에요?
+P0 	: 네. 그대신에 갤럭시 탭잇어요
+P1 	: 그러시군요
+P1 	: 그럼 폰은 어떤 제품 쓰고 계신가요?
+P0 	: 엘지꺼요 ㅎㅎ
+P1 	: 지금 쓰는 폰에 만족하시나요?
+P0 	: 카메라성능이나 몇가지 불만족스러운것민빼면 만족해요
+P1 	: 그럼 태블릿은 어때요? 좋은가요?

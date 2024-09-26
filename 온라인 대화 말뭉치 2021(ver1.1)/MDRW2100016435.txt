@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 구직중이세요?
+P1 	: 네!  알바하면서 찾구있어요 ㅎㅎ  취업하셨나요?
+P0 	: 직장인입니다ㅎㅎ
+	  무슨알바하세요?
+P1 	: 공공근로하구있어요ㅎㅎ  무슨일하시나용?
+P0 	: 오 공공근로좋네요
+	  저는 실험하는연구원이에요ㅎㅎ
+P1 	: 와 연구원.. 멋있으시다 공부도 무지 잘하실거같구..ㅎㅎ
+P0 	: 아닙니다ㅎㅎ 석사나오면 거의 연구원쪽으로하더라구요
+	  어떤 전공하셨어요?
+P1 	: 해양경영이요ㅎㅎ 전공과 전혀 상관없이 일하다가 지금은 거의 쉬는거나 다름없네요ㅎㅎ..
+P0 	: 우와 해양경영 멋진데요?
+	  따로 자격증 같은것도 있나요?
+P1 	: 아뇨그런건없어요ㅎㅎ 무슨전공이세요?
+P0 	: 저는 화학쪽이요!
+	  플라스틱 원재료 연구하는데 요즘은 친환경개발하라구 난리랍니다ㅜㅋ
+P1 	: 우와 신기해요..! 많이어렵지않으세요?
+P0 	: 원래하던거라 크게어렵진않은데 직장사람 스트레스가있어요!ㅋ
+P0 	: 근로하면서도 직장내스트레스있나요?
+P1 	: 아니요 이건 스트레스 받을일은 크게없어요!  많이 배려해주시거든요ㅎㅎ
+P1 	: 직장사람스트레스는정말..음..답답하죠...

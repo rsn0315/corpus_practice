@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100023868
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 배달 음식 자주 시켜드세요?!
+P1 	: 한달에 한 두세번정도 먹는 것 같아요!
+P1 	: &name1&은요?
+P0 	: 저 자취할 때는 거의 일주일 내내 먹었던 것 같아요 ^.ㅠ
+P1 	: 아하 ㅋㅋㅋㅋㅋㅋ
+P1 	: 근데 자취하면 요리해도 재료가 남고 그러니까
+P1 	: 배달시켜먹게되는것같더라고요 다들 보니까
+P0 	: 맞아요 ㅠ ㅠ 그렇다고 작게 파는 야채를 사자니
+P0 	: 많이 파는 것보다 훨 비싸서
+P0 	: 좀 부담스럽더라고요
+P1 	: 맞아요..
+P1 	: 근데 배달도 배달대로 돈들고.. ㅋㅋㅋㅋ ㅜ
+P0 	: 맞아요 건강도 엄청 나빠지고 ^.ㅠ
+P0 	: 저 살도 엄청 쪘었어요 ㅠ
+P1 	: 배달음식이 자극적인게 많아서
+P1 	: 건강해치기 정말 쉬운것같아요 ㅜ
+P0 	: 게다가 최소주문 금액 맞추면 양이 늘어서
+P0 	: 더 먹게 되더라고요 ㅠ.^
+P1 	: 아 맞아요 ㅜ 배달비에 최소주문금액에.. 혼자 한끼먹는데 거의 이만원은 나가는 것 같아요
+P0 	: 네네 ㅠㅠ 가끔 고기라도 먹어보려하면 이만 오천원 훌쩍 넘더라고요 ㅜ.^
+P0 	: 그래도 이젠 잘 해먹는 편이에요!
+P0 	: &name2&도 요리 자주 하세요?
+P1 	: 자주 하진 않는데 그래도 가끔 해먹어요 ㅎㅎ
+P1 	: 만만한 볶음밥이나 파스타 이런 거요 ㅋㅋㅋ
+P0 	: 헛 파스타!! 전 매번 할 때마다 실패하는 음식이에요
+P0 	: 면이 너무 많아지더라고요 ㅎ.ㅎ

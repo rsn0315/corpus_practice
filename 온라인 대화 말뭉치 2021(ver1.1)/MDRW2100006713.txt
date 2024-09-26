@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006713
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드시나요?
+P1 	: 아침은 챙겨먹으려고 노력하는 중이에요
+P0 	: 주로 뭘 드세요?
+P1 	: 보통은 밥에 간단하게 반찬꺼내 먹어요.
+P1 	: 빵이 먹고 싶을 때는 샌드위치나 토스트를 해먹구요
+P0 	: 아 저도 주로 밥이요 ㅎ
+P1 	: 식사하실때 국은 필수이신가요??
+P0 	: 아닙니다 국 별로 안좋아해요 ㅎ
+P1 	: 그럼 어떤 종류를 좋아하세요?
+P0 	: 저는 한그릇음식이 좋아요  ㅎ
+P1 	: 비밤밥같운 음식을 좋아하시겠어요!!
+P0 	: 국수 피자 햄버거 스파게티요 ㅎㅎ
+P1 	: 다 맛있겠네요ㅠㅠㅠ
+P0 	: 네 밑반찬은 몇 번 먹고 손이 안가서 한번에 헤치우는걸 선호해요.ㅡㅎ
+P1 	: 아무래도 밑반찬은 자주 먹으면 질리게 되죠ㅠㅠ
+P0 	: 네 손은 많이 가는데 참 안타까워요 ㅠㅠ
+P0 	: 점심은 정하셨나요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019629
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 종류?
+P0 	: 종류도 그렇고 맛?
+P1 	: 아이스 아메리카노 좋아해.
+P0 	: 산미감 있는 게 좋아?
+P1 	: 산미감이 머야?
+P0 	: 신맛 나는 거
+P1 	: 아메리카노에서 신맛도 나?
+P0 	: 약간 신맛 나는 커피들 있어
+P1 	: 예를 들면?
+P0 	: 그냥 마셔보면 카페마다 다르던데?
+P1 	: 난 그렇게 미각이 예민하지 않아서
+P0 	: 그냥 크게 상관없구나
+P1 	: 응 맞아

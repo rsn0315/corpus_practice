@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100030991
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 산 물건 잇으신가요
+P0 	: 최근에 요가메트 샀어요!
+P0 	: &name2&님은 최근 쇼핑 어떤거 하셨나요?
+P1 	: 오 운동하시게요?
+P1 	: 전 마사지볼 !
+P0 	: 홈트레이닝을 좀 할까해서 구매했어요
+P0 	: 마사지볼!
+P0 	: 어떤가요?
+P1 	: 오땅콩볼이여
+P1 	: 아세요?
+P0 	: 아뇨 처음들어봐요!
+P1 	: ㅋㅋㅋㅋ 땅콩처럼 생겻는데 마사지할수잇어요 폼롤러처럼
+P0 	: 옹... 주로 어디를 안마하면 좋나요?
+P1 	: 전 어깨 등이요
+P1 	: 한곳 공략하기 조아요
+P0 	: 집중 공략하는 목적이군요
+P1 	: 넹 ㅋㅋ 뭉칭근육풀기
+P0 	: 요새 갖고 싶으셨던 물건은 어떤게 있으신가요?
+P1 	: 지플립이요
+P1 	: 넘이쁨
+P0 	: 맞아요 진짜 예뻐요!
+P0 	: 어떤 색이 가장 예쁘던가요?
+P1 	: ㅠㅡㅜ 돈도없고 ㅋㅋㅋ구하기도힘들고
+P1 	: 크림 라벤더용
+P0 	: 저는 크림이랑 라벤더요 ㅠ
+P1 	: ㅋㅋㅋㅋ 앗
+P0 	: 사전 예약이라도 해서 살걸 싶었어요 ㅠ
+P1 	: ㅠㅠ탐나요
+P1 	: 지플립 사실건가오

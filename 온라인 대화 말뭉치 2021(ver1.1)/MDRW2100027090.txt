@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음식 레시피를 많이 봅니다
+P0 	: 곱창 맛있지요
+P1 	: 곱창 먹고싶네요 크
+P0 	: 주로 식당에서 드시겠네요
+P1 	: 소주랑 같이먹음 좋은데요
+P0 	: 양념구이 소금구이중 어느걸 선호하세요
+P1 	: 최근에 데워먹는걸로 먹었는데
+P1 	: 맛이좋더군요
+P1 	: 전 둘다 좋아합니나
+P1 	: 다
+P0 	: 저는 좀전에 장어조림 먹었습니다
+P1 	: 없어서못먹죠
+P1 	: 장어조림 맛있죠
+P0 	: 곱창도 전골이 맛있지요
+P1 	: 맞아요 볶음밥까지 먹음
+P0 	: 국물에 밥을 비벼먹어요
+P1 	: 완벽하지요
+P0 	: 밀가루도 좋아하나요

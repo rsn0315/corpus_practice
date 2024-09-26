@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100045088
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아 그렇군요
+P0 	: 비타500도 받아서 먹었어요
+P1 	: 맛난거 먹고 영양제는 따로 챙기면
+P1 	: 그것도 방법이죠
+P1 	: 어디서 뭘 그렇게 받아 먹어요?
+P0 	: 진짜 비타민이 들어있긴 할까요?
+P0 	: 그냥 알바에서 받았어요
+P1 	: 들어있긴 하죠
+P0 	: 오 그럼 건강해지긴 했겠네
+P1 	: 500만큼 건강해지는 음료 비타 500
+P1 	: 저도 오늘 마셨는데
+P0 	: 으...
+P0 	: 요즘은 박카스에이드도 많이 먹잖아요
+P0 	: 얼싸박?
+P0 	: 건강해지세요
+P1 	: 아 맞아요
+P1 	: 그거랑 박카스 젤리도 있잖아요
+P1 	: 먹어보셨어요??
+P0 	: 네 맛없어요
+P1 	: 맞아요...
+P1 	: 그냥... 영양제 주제에 먹을 만 하네 정도
+P1 	: 다른 젤리들도 많던데
+P1 	: 요구르트젤리?
+P0 	: 그냥 영양제 젤리가 더 맛있음
+P1 	: 그것도 맛 별로...
+P0 	: 아뇨 딸기맛느낌
+P0 	: 텐텐처럼요!

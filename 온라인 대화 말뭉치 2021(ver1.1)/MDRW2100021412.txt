@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아직 학생이지?
+P0 	: ㅇㅇ 그런 것 같아. 활기차고 너무 귀엽다
+P1 	: 탁구는 취미로 배워두면 괜찮은 운동인데
+P0 	: 맞아 어른되어서도 할 수 있으니
+P1 	: 나도 탁구 교실 같은데서 배워보고 싶다
+P0 	: ㅎㅎ 배우면 되지
+P1 	: 탁구대 위에 공이 탁탁 튀기는 소리가 너무 듣기 좋아
+P0 	: 공이 진짜 빠른데 어떻게 잘 보는지 모르겠어
+P1 	: 하루종일 그것만 연습할텐데 뭐 ㅎㅎ
+P0 	: 하긴 연습량이 엄청나겠지
+P1 	: 같이 칠 상대만 있으면 재미있을 것 같아
+P0 	: 속도가 빨라서 운동 엄청될 듯
+P1 	: 처음에 라켓 잡는 거랑 치는 동작만 엄청 반복하던데

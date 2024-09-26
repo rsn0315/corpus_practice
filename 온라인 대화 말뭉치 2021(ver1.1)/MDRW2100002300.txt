@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100002300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하시나요?
+P1 	: 음 하는 것보다 관람이 좋아요
+P1 	: 최근에 올림픽의 여운도 아직남아있구요
+P0 	: 맞아요 ㅋㅋ하는건 넘 숨차고 힘든데
+P0 	: 보는건 왤케 재밌는지 ㅋㅋ
+P1 	: 이번에 가장 인상깊은 경기가 있었나요?
+P0 	: 흠 저는 뭐니뭐니해도 양궁이요 !
+P1 	: 아무래도 양궁이 핫했죠
+P1 	: 김제덕 선수의 코리아파이팅!!!이 인상적이었어요
+P0 	: 맞아여ㅋㅋ 김제덕선수 흥해라 !!
+P1 	: 저는 이번에 수영도 괜찮았어요
+P1 	: 뭔가 더 성장할 가능성이 보였다랄까
+P0 	: 맞아요 아쉽지만 그래도 유망주발견이요 ㅎㅎ
+P0 	: 내년에도 국제대회 많대요
+P1 	: 맞아요 계속 성장해서 파리 때는 좋은 결과 보고싶어요
+P1 	: 이번 올림픽은 뭔가 건강한 느낌이 들어서 좋았어요
+P1 	: 기록과 상관없이 참여했다는 것에 의의를 둔 그게 좋았다랄까
+P0 	: 아하 다음 올림픽이 파리인가용 ?!
+P1 	: 네 3년후에요ㅎㅎ
+P1 	: 2024년!
+P0 	: 코로나만 풀리면 국제대회아니더라고 직관하러가고파요 뭐든 ㅠㅠ

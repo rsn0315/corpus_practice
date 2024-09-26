@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100037944
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네에
+P1 	: 제가 지금 나가볼건데 글 남겨놓으신 답 할게여
+P0 	: 저녁 드셨나요?
+P1 	: 네 간단하게 햇반에 반찬 먹았어요
+P0 	: 그렇군요 그럼 좋아하시는 음식 있으신가요?
+P1 	: 오 전 기본적으로 채색선호하구요
+P1 	: 얼마전에 마라탕 마라샹궈 맛있게 먹었아요
+P0 	: 매운거 잘드시나봐요
+P1 	: 아뇨 맴찔인데
+P1 	: 제주가 날씨가 습하고 비오고 그러니까
+P1 	: 자연스레 땡기더라구요
+P0 	: 제주에 마라 잘하는  추천할만한집 있나요?
+P1 	: 저도 추천 좀 해주세여
+P1 	: 얼마전에 시켰는데 맛없어서 혼났어요
+P0 	: 제가 제주에는 연이 없어서요ㅠㅠ
+	  한번도 안가봤네요ㅠㅠ
+P1 	: 프렌차이즈 매장 가는 게 안전한가 같애요
+P1 	: 마라탕은 유명한 프렌차이즈가 아직 없군여
+P0 	: 그러게요
+	  제주도에서는 어떤 음식이 제일 맛있으신가요?
+P1 	: 고기국수랑 회
+P1 	: 맛있어요
+P0 	: 고기국수 맛집 추천받아도 될까요?
+P1 	: 제가 좀더 살아보고 추천할데요
+P1 	: 자신이 없네여 ㅋㅋㅌ
+P0 	: 앗!!네ㅋㅋ

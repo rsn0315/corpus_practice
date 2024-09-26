@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100025214
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 결혼하셨나요
+P0 	: 네 작년에요 ㅎㅎ&name2&은요?
+P1 	: 아 전 혼자입니다
+P1 	: 완전 신혼이시네요!
+P1 	: 어떻게 만나셨어요,ㅈ
+P0 	: 회사 동기에요 ㅎㅎ
+P0 	: 연애는 하고 계신가요
+P1 	: 오오 사내연애였군요
+P1 	: 아 저는 비혼주의라^^;
+P0 	: 비혼이여도 연애는 할 수 있지 않나요?ㅎㅎ
+P1 	: 무성애라서요^^;  별로 느낌이 안 생겨요
+P1 	: &name1&은  자녀계획이 있으신가요
+P1 	: 요새 딩크족도 많던데
+P0 	: 아 그러시면 취향 존중해야죠~~
+P0 	: 저는 이제 가지려고 생각중이에요 ㅎㅎ
+P0 	: 애기들 보니까 귀여워서 ㅎㅎ
+P1 	: 아 애기들 천사같죠 ㅎㅎ
+P0 	: 근데 멀리서 보면 희극이고
+P0 	: 가까이서 보면 비극이라고ㅋㅋ
+P1 	: ㅋㅋ 감당하실수 있을 겁니다
+P1 	: 아들만 주루룩 있는 집은 정말 전쟁이래요ㅎ
+P0 	: 아직 가보지 않은 길이라서
+P0 	: 좀 무섭긴해요ㅋㅋ
+P1 	: ㅎㅎ 하긴 그 말 있잖아요
+P1 	: 엄마도 처음이라고
+P0 	: &name2& 연애 언제 하실거에요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100039036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 물 사드시나요?
+P1 	: 사먹기도하고 끓여먹기도 해요
+P0 	: 어떤 생수 사드세요?
+P1 	: 스파클이요
+P0 	: 오 그거만 드시는건가요?
+P1 	: 네 생수는 스파클 사먹고, 집에서 보리차도 끓여먹어요
+P0 	: 글쿤여ㅎㅎ &name2&님 식구 많으신거 같던데 생수 많이 사야겟어요ㅋㅋ
+P1 	: 넼ㅋㅋㅋ 식구가 많은편이죠 ㅎㅎ
+	  그리고 하마들이 살아서요
+P0 	: ㅋㅋㅋㅋㅋ하마라니ㅋㅋㅋ 저도 한 하마하죠 &name2&님은요?
+P1 	: 저는 하마는 아니에요ㅋㅋㅋㅋㅋ
+	  동생들이 물을 잘 먹어서 하마라고 불렀었는데
+P1 	: 요즘은 물 양이 줄어서..ㅋㅋㅋ 하마 별명을 부르지 못하겠어요
+P0 	: ㅋㅋㅋ그래도 한때 하마 탈출했엇는대 되돌아왔내요ㅎ 언제다시 원상복귀될지 몰라요ㅎㅎ
+P1 	: ㅋㅋㅋ 근데 물 많이 마시는게 좋다고 하더라구요!
+P1 	: 너무 많이 마시는건 안 좋겠지만 말이에요

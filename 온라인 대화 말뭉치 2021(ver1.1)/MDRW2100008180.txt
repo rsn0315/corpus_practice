@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008180
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑좋아해요?
+P1 	: 좋아해요! &name1&님은요?
+P0 	: 저도요 ㅎㅎ 근데 요즘마스크때문에 화장을안해서 옷도추리하게입고다녀여 ㅋㅋ
+P1 	: 맞아요 저도 그래요ㅋㅋㅋㅋ전 앞머리도 있어서 마스크 끼면 눈밖에 안보이다보니까 화장을 잘 안하게 되더라구요
+P0 	: 맞아여 ㅋㅋㅋㅋ 참 힘든시국이네영..ㅠ
+P1 	: &name1&님은 오프라인 쇼핑을 선호하시나요?
+P0 	: 보통 온라인이용!
+P1 	: 저두 온라인이요ㅋㅋㅋㅋ
+P1 	: 제가 그지 체력이고 집순이라서
+P1 	: 온라인 쇼핑이 편한 것같아요
+P0 	: 맞아요 ㅋㅋ 그리고 밖에나가면 비싸게 느껴지고해서요 ㅠ
+P1 	: 헉 맞아요ㅋㅋㅋㅋ
+P1 	: 그리고 시간 지날수록 눈에 뵈는거 없어서
+P1 	: 제정신일땐 좀 아닐 것같았던 상품도 그냥 오케이하고 사고ㅠ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ맞아여 그게그거같아요
+P1 	: 온라인 쇼핑은 택배 뜯는 재미도 있어서 좋아요ㅎㅎㅋㅋㅋㅋ
+P0 	: ㅎㅎ 퇴근하고 택배와있음 기분조아용
+P1 	: 맞아요ㅋㅋㅋ여러개 시키면 이건 뭐지?! 하는 기분도 들고요

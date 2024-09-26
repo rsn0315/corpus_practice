@@ -1,0 +1,72 @@
+# FILE DATA
+ID : MDRW2100042792
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨 반려동물은 키워본 적이 없어요
+P0 	: 생명은 한번도 키워보지 않으셨던거군요
+P0 	: 사실 살아있는 무언가를 키운다는 건 큰 책임이 따르는 일이라
+P1 	: 네 반려동물은요
+P0 	: 쉽게 결정할 수 없지요
+P1 	: 식물은 좀 키웠는데
+P0 	: 그렇군요
+P1 	: 네 가족들이 다 직장/학교생활을 하고 있고
+P1 	: 반려동물이 혼자 있는 시간이 길어질 듯해서
+P1 	: 선뜻 키우지 못하겠더라고요
+P0 	: 맞아요 좋은 결정이에요
+P0 	: 전 제가 주로 집에 있으니까 돌보는 일을 제가 거의 했어요
+P0 	: 딸이 본인이 다 케어하겠다고 허락해달라고 하더니만
+P0 	: 결국 제 몫이 되었죠
+P1 	: 아 그렇군요
+P1 	: 반려동물 키우셔요?
+P0 	: 지금은 아니고요 예전에 강아지 키웠어요
+P0 	: 말티즈였죠
+P1 	: 아 말티즈 키우셨군요
+P0 	: 네 이름은 &name3&였어요
+P1 	: 강아지 키우는 것도 시간과 애정이 많이 필요한 것 같아요
+P0 	: &name3&에서 따왔죠
+P1 	: &name3& 귀엽네요 이름
+P0 	: 거의 애 하나 키우는 거에요
+P0 	: 예방접종도 해야하고
+P1 	: 그쵸그쵸
+P0 	: 대소변 치워줘야하고
+P0 	: 밥 주고 놀아주고
+P0 	: 씻기고 꾸며주고
+P1 	: 오히려 더 손이 많이 가는 부분이 있는 듯하더라고요
+P0 	: 그쵸
+P0 	: 그래서 쉽지는 않은데
+P0 	: 또 사랑스럽기는 엄청 사랑스러워요
+P0 	: 그 맛에 키우나봐요
+P1 	: 네네

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 챙겨먹는 영양제가 있나요?
+P0 	: 요즘 챙겨먹는 영양제가있나요?
+P1 	: 저는 요즘은 유산균 철분제 만 먹어요
+P0 	: 유산균 추천해주실 수 있나요? 종류가 너무 많아서 고르기가 힘들더라구요
+P1 	: 저는 직구로 주문해서 먹어요
+P0 	: 국내제품말구 해외제품이요? 그런건 주로 어디서 구매를 할 수 있나요?
+P1 	: 아이허브나 쿠팡도 직구 잘되어잇어욘
+P0 	: 해외배송비는 따로 안드나요?
+P1 	: 헬시오리진 제품인데 300억 유산균들어잇고
+P0 	: 헬시오리진 기억할게요
+P1 	: 가격도 괜찮아요
+P1 	: 배송비도 무료!
+P0 	: 오 되게 좋네요
+P1 	: 네 그래서 자주 주문해요
+P0 	: 저도 참고해야겠어요.  고맙습니다
+P1 	: 유산균도 맞는게있어서 여러가지 먹어보는것도 괜찮더라구요

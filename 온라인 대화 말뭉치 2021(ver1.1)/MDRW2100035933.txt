@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035933
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 매운 종류는 다 잘 먹어요
+P1 	: 마라탕이나 매운 떡볶이 이런거요
+P1 	: 불닭은 마스터 했죠 ㅋㅋㅋㅋㅋ
+P0 	: 오ㅋㅋㅋㅋ 대박 멋지시네요ㅋㅋㅋㅋ
+P0 	: 전 마라탕 1단계만 해도 맵더라고요...ㅋㅋㅋ 2단계 먹다가 눈물까지 나올 뻔했어요ㅋㅋㅋ
+P1 	: 저랑 동생이 매운걸 잘 먹어요
+P0 	: 오 그렇군요! 그럼 송주불냉면도 드셔보셨나요?!
+P1 	: 아니요 듣기만 했는데 그거 먹어봤나요?
+P0 	: 아뇨 저도 너무 맵다고 해서 못 먹어봤어요ㅋㅋㅋ
+P0 	: &name2& 님은 배달음식 자주 시켜드시나요?
+P1 	: 동생이 본가 오면 시키고 평소에 잘 안 시켜요
+P1 	: 가끔 엄마가 햄버거 드시고 싶을때 시켜드려요
+P0 	: 주로 어떤 햄버거 드시나요?!
+P1 	: 맘스터치 햄버거 먹어요
+P0 	: 오 맘터 햄버거는 뭐 좋아하세요?!
+P1 	: 전 할라피뇨버거요
+P1 	: &name1&님은 좋아하는 게 있나요?
+P0 	: 오오 저는 피자 좋아해요!
+P1 	: 어떤 피자 좋아해요? 전 모든 좋긴하지만 치즈 듬뿍 있는 피자가 좋아요 거기에 맥주까지

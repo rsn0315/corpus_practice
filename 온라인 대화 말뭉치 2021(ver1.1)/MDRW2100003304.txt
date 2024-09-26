@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 활동하시는 커뮤니티 있나요?
+P0 	: 재테크 카페가 많아서 최근에 가입을 해서 정보얻고있어요ㅎ 마카롱님은요?
+P1 	: 오 저도요 어디카페이용하세요?
+P0 	: 월재연이라고 ㅎㅎ 혹시아시나요?
+P1 	: 알죠ㅎ 저도 거기서 재태크랑 앱테크하기시작했어요
+P0 	: 그러시군요^^ 앱테크도 처음배워서 하고있어요ㅎㅎ
+P1 	: 좋은정보 많아요 이벤트정보도 많고
+P0 	: 하나씩하고있는데 다 못따라가겠어서 할수있는것들만 해요ㅎㅎ
+P1 	: 저도 한때 미친듯이 다하고 그랬는데 요즘은 적당히 참여하고있어요
+P0 	: 진짜 정보들을 어떻게 그리 다들 잘아는지 신기하던데요ㅋㅋ
+P1 	: 저도요 대체누가 돈주고 정보를 주는건지 신기할정도예요
+P1 	: 덕분에 응모많이하고 있어요
+P1 	: 은행 이자이런정보도 자세히알려주고
+P0 	: 진짜ㅋㅋ 무료로 이렇게 좋은정보 얻을수 있어 좋더라구요ㅎㅎ 다른 재테크카페 또 아시는데 있나요?
+P1 	: 짠카페 들어보셨어요?
+P0 	: 짠카페는 첨들어요 거기도 월재연 같은 곳인가요?
+P1 	: 네 짠돌이 부자되기카페요
+P1 	: 여기가 이벤트나 쇼핑 핫정보 이런게 많아요
+P0 	: 오오! 가입해봐야겠네요ㅎㅎ

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 지키기 위해 하는 일이 있나요?
+P1 	: 저는 영양제 챙겨먹고 있어요
+P0 	: 저도요! &name2&님은 어떤 영양제 드시나요?
+P1 	: 저는 오메가3랑 유산균 그리고 비타민 먹고있어요!
+P1 	: &name1&님은 어떤거 드시고 계세요??
+P0 	: 저는 비타민 비랑 디, 오메가 3요
+P0 	: 유산균 효과 좋나요? 장건강 때문에 챙겨먹을까 고민 중이었어요.
+P1 	: 네! 저는 확실히 효과 봤어요.
+P1 	: 제가 과민성 대장 증후군이 좀 있었는데 확실히 덜하더라구요ㅎㅎ
+P0 	: 저도 챙겨 먹어봐야겠네요^^
+P0 	: 사실 건강엔 운동만한 게 없는데 운동 하는 게 참 힘들어요.
+P1 	: 맞아요~ &name1&님은 운동 하시는 것 있으신가요??
+P0 	: 저는 실내 사이클 타요. &name2&님은 하시는 운동 있나요?
+P1 	: 저는 유튜브 보고 홈트하고 있어요!
+P1 	: 집에 사이클 기계가 있으신가봐요~
+P0 	: 네 옷걸이로 쓰다가 운동 시작한지 얼마 안 됐어요ㅎㅎ
+P0 	: 홈트도 꾸준히 하면 효과 좋더라구요
+P1 	: 맞아요 런닝머신이나 사이클 기계 이불널기 너무 좋은거같아요ㅋㅋㅋㅋㅋ
+P1 	: 꾸준히 해야할텐데 말이에요~
+P0 	: ㅎㅎㅎ 그래도 티비보면서 하기엔 사이클만한 운동이 없어요. 추천합니다!!

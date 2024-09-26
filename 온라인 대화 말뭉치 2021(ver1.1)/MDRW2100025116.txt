@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025116
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달먹어요?
+P1 	: 자주는 안먹어도 휴일에 한번씩 시켜 먹어요
+P0 	: 전 일주일에한번씩
+P1 	: 요즘 비가 자주 내리니까 배달 자주 시키게 되죠?
+P0 	: 네 맞아요
+P1 	: 저도 시국이 시국인지라 예전보다는 조금 더 자주 배달음식 시켜먹는거 같아요~
+	  &name1&은 배달음식 주로 뭐 시켜드세요?
+P0 	: 치킨니오
+P1 	: 전 피자랑 보쌈요~
+P0 	: 궁합이 ㅋㅋ
+P1 	: 피자는 제꺼~
+	  보쌈은 부모님꺼요~ㅋㅋ
+P0 	: 아하
+P1 	: 근데 피자는 종이박스 말고 별로 쓰레기가 안나오는데 보쌈 먹고 나면 플라스틱 용기가 너무 많이 나와서 치우는데 한참 걸려요
+P0 	: 다양하죠
+P0 	: 식사는요
+P0 	: ?

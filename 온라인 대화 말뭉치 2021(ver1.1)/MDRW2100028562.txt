@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100028562
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 아침저녁 좀 쌀쌀하죠
+P0 	: 어제는 선풍기도 안틀고 잤어요
+P0 	: 일기예보는 잘맞지않지만,,,
+P1 	: 이제 슬슬 선풍기 분해해서 들여놔야할까봐요
+P1 	: ㅋㅋㅋㅋ 이제 전 일기예보에 대한 신뢰가 없어요..
+P1 	: 그냥 매일 우산들고 다니고 겉옷들고 다니고
+P1 	: 모든걸 대비해요
+P0 	: 저도 우산매일들고다녀요ㅋㅋㅋㅋ
+P0 	: 겉옷남방도,,,
+P1 	: 내몸 내가 챙기는 게 최고죠ㅋㅋㅋㅋ
+P0 	: 요즘 미세먼지는 없는거죠,,,?
+P1 	: 그런거 같아요
+P1 	: 확인해보진 않았지만요 ㅎㅎ
+P1 	: 그래도 맨날 마스크 끼니까 미세먼지는 좀 안심되더라고요
+P0 	: 어맞아요 마스크의 장점ㅋㅋㅋㄱ
+P0 	: &name2&님사시는곳은 이번주간 날씨가 어땠나요
+P1 	: 비가 한번 오고 계속 흐렸어요
+P1 	: &name1&님사시는곳은 어땠어요?
+P0 	: 거의 비가 매일 온것같아요
+P0 	: 조금이라도 내리더라고요
+P0 	: 가을을 즐겨야하는데,,,
+P1 	: 가을에 비한번 오면 단풍 우수수 떨어지죠..
+P1 	: 아직 단풍이 안들어서 다행이라 해야하나요ㅎㅎ
+P0 	: 세상에 그러네요 아직단풍이 안들었네요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012554
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 여행 좋아하세요?
+P0 	: 네 여행 좋아하죠!
+P0 	: 외국여행 혹시 가보셨나요?
+P1 	: 아니요 &name1&은요?
+P0 	: 저는 일본이랑 중국이랑 대만 가봤어요!
+P0 	: 가고싶은 여행지 있으신가요?
+P1 	: 스위스요!
+P0 	: 오! 스위스좋죠 저도 가보고싶네요ㅠ
+P0 	: 스위스는 어떤거때문에 가고싶으세요?
+P1 	: 풍경이 좋아서요~
+P0 	: 마자요! 풍경좋은곳으로 여행가면 아무것도 안하고 풍경만 봐도  좋은거같아요
+P1 	: &name1&은 어디가고 싶으세요?
+P0 	: 저는 어디가 딱 가고싶다기보다
+	  경치좋은곳가서 패러글라이딩이나
+	  바다 예쁜곳에서 스노쿨링 해보고싶어요
+P1 	: 생각만해도 힐링되네요

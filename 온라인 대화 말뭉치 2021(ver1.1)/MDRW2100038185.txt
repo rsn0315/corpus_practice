@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 
+	  여행 좋아하시나요?
+P1 	: 안녕하세요
+P1 	: 여행 좋아합니다! 여행 자주 가시나요?
+P0 	: 자주는 못 가지만ㅜㅜ 저도 좋아해요!
+P1 	: 기억에 남는 여행지 있나요??
+P0 	: 음...친구들이랑 서울 다녀온것도 기억나고, 가족들이랑 어릴 때 일주일정도 시간내어 국내 쭉 다닌것도 떠오른데 시간이 오래되어 큰 기억은 없네요ㅎㅎ
+P1 	: 지금 제일 가고싶은 여행지가 있나요??
+P0 	: 바로 떠오르는건 제주도요
+P1 	: 여행은 주로 관광지 찾아 가시나요, 휴양지 찾아 가시나요?
+P0 	: 저는 개인적으로 휴양지쪽을 좋아하기는해요
+	  여행은 쉬고 힐링한다는 느낌으로 가고 싶어서요ㅎㅎ
+P1 	: 제주도에 바다 보이는 숙소 잡고 쉬시면 되겠어요 ㅎㅎ
+P0 	: 네ㅎㅎ &name2&님은 기억에 남는 여행지 있으세요?
+P1 	: 유럽은 시차적응 때문에 힘들었던 기억밖에 없고, 남해에서 쉬었던게 제일 좋았어요 ㅎㅎ
+P0 	: 앗 그러시군요ㅎㅎ 유럽은 어디 다녀오셨었어요?
+P1 	: 패키지코스처럼 쭉 돌았어요 ㅋㅋㅋㅋㅋ
+P1 	: 남들 안 가는 나라도 가보고싶었는데 첫여행이라 용기가 없었어요 ㅎㅎ

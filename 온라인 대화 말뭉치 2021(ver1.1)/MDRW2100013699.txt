@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 한식 양식 중 뭘 좋아하세요
+P1 	: 음...둘 다 좋아하는데 주로 먹게되는건 한식이죠ㅋㅋ
+P0 	: 아 그쵸ㅋㅋㅋ한국사람이다보니~~!
+P1 	: &name1&님은 어떤음식 좋아하세요?
+P0 	: 저는 취향 쎈 향신료 음식만 아니면 다 좋아해요ㅎㅎ
+P1 	: 오늘 점심은 뭐드셨나요?
+P0 	: 씨리얼이랑 샐러드로 간단히 먹었어요 &name2&님은요?
+P1 	: 저는 메밀국수요!
+P0 	: 엇 저도 메밀국수 좋아해요~ㅋㅋ 저도 저녁은 국수 먹을까봐요
+P1 	: 전 저녁에 중국음식 먹을 생각이에요ㅋ
+P0 	: 옷 뭐 시키실건가요ㅋㅋ
+P1 	: 삼선짜장면이랑...어향동고요!
+P0 	: 어향동고는 뭔가요?! 어향가지는 들어봤는데
+P1 	: 표고버섯안에 다진새우넣어서 만든요리에요ㅎ
+P0 	: 우와..... 맛있을거같아요ㅜㅠㅠㅠㅠ 뭔가 맛이 상상이 돼요!!

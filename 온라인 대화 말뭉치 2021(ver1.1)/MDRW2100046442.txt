@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100046442
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P1 	: &name1&님 식사 하셨나요~?
+P0 	: 아녀 아직 뭐 먹을지 고민 중이에요
+P1 	: 아직 식사를 안하셨군요!
+P1 	: &name1&님은 어떤 음식을 좋아하세요??
+P0 	: 저는 면음식을 좋아해요 
+P0 	: 뱃살 때문에 걱정이 되긴 하지만 면을 못 끊겠어요
+P1 	: 면음식 넘 맛있죠ㅠㅠ
+P1 	: 뭔가 요즘 날씨도 쌀쌀한데
+P1 	: 우동은 어떠세요? ㅎㅎㅎ
+P0 	: 우동에 만두 좋을 것 같아요!!
+P1 	: 우동에 만두 정말 좋은 조합인 것 같아요
+P1 	: 저는 비빔국수도 좋아해서
+P1 	: 비빔국수에 군만두도 맛있을 것 같아요 ㅎㅎ
+P0 	: 비빔국수 이야기 하니 비빔국수도 먹고 싶네요
+P1 	: 맞아요 진짜 면이 살찌기는 쉬운데 맛있는 메뉴가 정말 많은 것 같아요 ㅎㅎㅎ

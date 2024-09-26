@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012141
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨 안맞았어요
+P0 	: 저는 2차 기다려요
+P1 	: 1차 맞고 어떠셨어요?
+P0 	: 아무증상 없었어요
+P0 	: 많이 먹고잤어요
+P1 	: 그러시군요 백신 신청은 잘 되던가요?
+P1 	: 글고 일이 있어서 3분 뒤에 나가봐야해요 10시 이후로 대화가능합니다
+P0 	: 네 편하게 하세요
+P0 	: 저는 5월 잉여백신 대기자로 맞은거라 따로 예약안했어요
+P1 	: 백신 남는 병원에 전화해서 접종한다는거죠?
+P0 	: 네네 초기였어요
+P1 	: 별 증상 없으셔서 다행이에요
+P0 	: 많이먹고 많이자는 현상이 있었네요ㅎㅎ
+P1 	: 아 그것도 부작용의 일종이란 뜻이신가봐오
+P1 	: 요
+P0 	: 별거없는 부작용인거 같은데 주위에 은근많더라구요
+P1 	: 아픈거만 부작용이라 생각했었네요

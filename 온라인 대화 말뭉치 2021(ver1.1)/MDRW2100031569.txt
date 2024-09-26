@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031569
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 피부관리좀 해야할거같아요 ㅠ
+P1 	: 갑자기 피부관리야 무슨
+P0 	: 저 여드름 너무 심해가지고 ㅠㅠ
+P1 	: 피부과 갔니
+P0 	: 아뇨 ㅎ 돈없어가지구...
+P1 	: 그래도 병원은 가야지
+P0 	: 음 그래두 놔두면 나을까싶어서
+P1 	: 잘 바르고 있어? 로션이랑
+P0 	: 당근이죠 근데 저랑 잘 안맞나봐요 ㅋㅋㅋㅠ
+P1 	: 어떡하냐
+P0 	: 엄마는 그거 잘 바르고 계세요? 제가 드린거
+P0 	: 이름 잘 생각 안나는데
+P1 	: 레티놀??
+P0 	: 네 그거요 ㅋㅋㅋ 괜탆나요
+P1 	: 기미 꽤 줄어든거같아 볼래?
+P0 	: 네 찍어주셍요
+P1 	: 보냈다

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교있으신가요
+P0 	: 종교있으신가요
+P1 	: 네 기독교에요~
+P1 	: &name1&은요?
+P0 	: 저도 기독교요~^^ 같네여!
+P1 	: ㅎㅎ요즘 교회 못가고 계속 비대면 모임만 해서 좀 아쉬워요ㅠㅠ
+P0 	: 맞아요 아이들도 영상예배 드리고 ㅠㅠ
+P1 	: 맞아요..줌으로 하니까 집중 하나도 못하고 ㅠ
+P0 	: 맞아요 아이들은 찬양만 보고 말씀때는 딴짓해요 ㅠㅠ
+P1 	: 앗ㅋㅋㅋㅋㅋㅋ너무 공감
+P0 	: 사실 저도.. 영상예배 드리면 집중이 안되긴 해요 ㅠㅠ
+P1 	: 맞아요.  애들 보느라 잘 들리지도 않고..
+P0 	: 코로나가 종교활동도 판이하게 변화시키고 있죠
+P1 	: 맞아요.
+	  말씀링크 보내고 비대면으로 전도하고ㅋㅋㅋ
+P0 	: 과거엔 구역예배도 있고 모임이 참 많았잖아요

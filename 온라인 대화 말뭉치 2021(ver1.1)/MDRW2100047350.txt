@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100047350
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 학생이세요?
+P0 	: 네
+P0 	: &name2&님은요?
+P1 	: 백수예용
+P1 	: 개학했나요?
+P0 	: 아직이요
+P0 	: 졸업하신건가요?
+P1 	: 졸업했죠~
+P1 	: 학창시절에 어떤 학생이었나요?
+P0 	: 소심하고 말없는 학생이요
+P0 	: &name2&님은요?
+P1 	: 지각 자주하는 학생이요
+P0 	: 어떤 수업 제일 좋아하셨나요?
+P1 	: 영어요!
+P0 	: 헐 저는 영어제일 못하는데 영어잘하시나봐요
+P1 	: 좋아했어요

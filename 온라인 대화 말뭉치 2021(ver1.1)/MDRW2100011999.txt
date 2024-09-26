@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 학교 생활 어때 오늘 뭐했어
+P0 	: 오늘 수업만 7번 했어
+P1 	: 와 오늘 한 교시도 안 쉬었어?
+P0 	: 쉬는 시간 10분이랑
+P0 	: 점심 시간 빼고는 다 안 쉬었어
+P1 	: 쉬는 시간에는 뭐해?
+P0 	: 친구들이랑 루미큐브 하거나
+P0 	: 다른 반에 놀러가거나
+P0 	: 자거나...?
+P1 	: 점심시간은 몇 분이야?
+P0 	: 1시간 25분!
+P1 	: 헐 엄청 기네
+P0 	: 근데 밥 먹고 좀 쉬면 빨리 지나가
+P1 	: 급식은 맛있어?
+P0 	: 급식 쥬스 나오면 맛있어

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100037283
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 저녁 뭐드셨나요
+P0 	: 저는 떡볶이 먹었어요
+P0 	: &name2&님은 저녁 뭐 드셨나요?
+P1 	: 저는 집밥이요 ㅎㅎ 소고기무국에 오징어볶음
+P0 	: 우와 직접 만드셨나요?
+P1 	: 네..요리ㄸ손인데..어찌어찌..
+P0 	: 그래도 무국이랑 오징어볶음이면 잘 만드시는데요?
+P0 	: 조리법은 유튜브 참조하신건가요?
+P1 	: 저는 만개의 레시피 어플 애용해요 아시나요?
+P0 	: 알아요 거기 영상만보면 군침이 돌더라고요
+	  좋아하시는 음식이 있으신가요?
+P1 	: 저는 다 잘먹어요... 가장 좋아하는건 남이해준 음식?
+P0 	: 남이 해준 음식은 대부분 좋아하시는건가요??
+P1 	: 그렇죠 엄마밥.. 배달밥..외식..
+P0 	: 그쵸 내 남이 해준게 맛있죠ㅋㅋㅋㅋ

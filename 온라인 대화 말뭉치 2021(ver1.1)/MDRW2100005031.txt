@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 유튜버 있으세요
+P1 	: 저는 지금 해쭈 유튜브 보고 있어요
+P0 	: 아 저도 해쭈 좋아해요ㅎㅎ 재밌으시더라구요 저는 매탈남 재밌어요
+P1 	: 처음 들어보네요 고양이 영상 좋아하시나봐요
+P0 	: 네 보는것만 ㅎ힐링되고 좋아요
+P1 	: 좋아하는 연예인 있으신가요?
+P0 	: 아뇨 요즘은 없어요 ..좋아하는 연예인 있으세요?
+P1 	: 저는 JYP 소속 스트레이키즈 라는 그룹을 좋아하고 있어요 ㅎㅎ
+P0 	: 아 노래가 좋다구 하던데 ㅎㅎ
+P1 	: 마침 내일 컴백해요!ㅎㅎ 기대되네요
+P0 	: 우와 축하해요ㅋㅋ노래 한번 들어볼게요ㅎㅎ
+P1 	: 평소에 어떤 노래 즐겨 들으세요?
+P0 	: 저는 그냥 멜론순위대로 듣는거같아요ㅋㅋ

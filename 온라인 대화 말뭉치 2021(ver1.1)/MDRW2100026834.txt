@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100026834
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 네근데 못 간지 한참 됐네요 ㅠ
+P0 	: 기억에 남는 여행지가 있으신가요?
+P1 	: 아무래도 유럽이 제일 기억에 남아요
+P0 	: 유럽 어디 가셨어요?
+P1 	: 파리랑 런던, 베네치아, 피렌체, 로마. 이렇게 갔어요
+P0 	: 자유여행으로 가신 거에요?
+P1 	: 네 자유여행으로 갔어요
+P1 	: 패키지는 별로 안좋아해서요
+P0 	: 그럼 이동은 기차로 하셨어요?
+P1 	: 네 다 기차로 이동했어요! 잘되어있더라구요
+P0 	: 기차여행 되게 재밌었을 것 같아요!
+P1 	: 네 정말 최고였어요ㅎㅎ담엔 동유럽가보고 싶어요! 
+	  기억에 남는 여행지 있으신가요?
+P0 	: 저도 이탈리아 갔었는데 그 중에 피렌체가 제일 기억에 남아요
+P1 	: 피렌체 정말 낭만적인거 같아요
+P1 	: 두오모 성당 가셨어요?
+P0 	: 네. 옆에 종탑에 올라가서 내려다본 도시 풍경이 참 멋졌던 기억이 나네요

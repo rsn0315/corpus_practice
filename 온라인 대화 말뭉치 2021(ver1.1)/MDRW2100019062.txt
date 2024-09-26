@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019062
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심드셨나요
+P0 	: 네 저는오늘 삼계탕먹었어요 ㅎㄹ
+P1 	: 오 삼계탕
+P1 	: 오늘 날도 추운데 딱이죠
+P0 	: 맞아요~ &name2&님은 뭐드셨어요?
+P1 	: 저는 오늘 초밥먹었습니다
+P1 	: 근데 특이한게 밥이 흑미였어요
+P0 	: 오 진짜신기한데요??
+P0 	: 생선좋아하시나봐요!
+P1 	: 구운 생선은 딱히 안 좋아하는데
+P1 	: 회를 좋아해요ㅋㅋ
+P1 	: 회좋아하세요?
+P0 	: 아하! 전은 연어회랑 참치회만 좋아해용
+P1 	: 둘다 맛있죠ㅋㅋ
+P1 	: 연어는 아보카도랑 잘 어울리는뎁
+P0 	: 맞아요! 연어덮밥에 아보카도추가해주면 환상이죠
+P1 	: 맞아요ㅋㅋ타르타르 소스랑도 잘 맞아욥
+P1 	: 참치회는 저랑 잘 안 맞더라고요

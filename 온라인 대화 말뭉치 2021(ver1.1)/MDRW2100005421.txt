@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 키가 크고 근육질이라 아무 옷이나 잘 맞는 거겠지 ㅎㅎ
+P0 	: ㅎㅎ 진짜 일단 키가 커서 그런가 모델 같더라
+P1 	: 옷이야 편하면 그만이지 ㅎㅎ
+P0 	: ㅎㅎ 울 신랑도 잘생겼으니까 예쁘게 입으면 좋잖아
+P1 	: ㅋㅋ 내가 좀 잘생기긴 했지
+P0 	: 위아래 깔끔하게 입은 거 보니 보기 좋더만
+P1 	: 약간 운동복 스타일이던데
+P0 	: 운동복 말고도 sns보면 꽤 멋쟁이더라고
+P1 	: ㅎㅎ 난 단벌 신사인 기안이 과야
+P0 	: 울 신랑은 사주는대로 잘 입으니 색상도 좀 다양하게 해서 사줘야겠어 ㅎㅎ
+P1 	: ㅎㅎ 나 옷 많아
+P0 	: 맨날 입는 것만 입으면서 ㅎㅎ
+P1 	: 편한 게 최고지

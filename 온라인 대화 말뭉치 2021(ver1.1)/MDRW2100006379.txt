@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100006379
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 윙잇에서 갈비 드셔보셨어요?
+P0 	: 엄청 맛있나봐요ㅎ
+P1 	: 갈비는 안먹어봤어요
+P0 	: 뭐드셔보셨나요
+P1 	: 떡이랑 떡볶이요
+P0 	: 창억떡이요?
+P1 	: 떡 맛있더라구요. 개별포장이라좋구요
+P0 	: 호박이 맛나다던데
+P1 	: 이번에  호박인절미시켰는데 아직 안먹어봤어요
+P0 	: 전 백순대랑 제육 먹어봤는데 백순대 추천이요
+P1 	: 담에 쿠폰주면 시켜야겠어요
+P1 	: 순대도좋아하는데
+P0 	: 차이 며칠전에 5천떠서
+P0 	: 백순대 또샀어요ㅎ
+P1 	: 차이에도 할인있었나보네요
+P0 	: 10개써야돼서 타겟인거같았는데
+P0 	: 왠지 10개안되실듯해서 말씀안드렸어요
+P1 	: 전 요즘 차이 안써서 번개가 없어요
+P0 	: 저도 저번에 모은거쓰고있어서 오늘 서울우유 떴더라구요
+P0 	: 두유 많이사시던데요
+P1 	: 멸균우유 많아서 그거먹저 먹고 나중에 또 뜨면 사야겠어요
+P0 	: 멸균우유는 맛이 싱겁지않아요?
+P0 	: 뭔가 좀 다른거같던데
+P1 	: 전 안먹는데 작은애가 맛있다고 잘먹네요
+P1 	: 원래 흰우유 잘안먹는데
+P0 	: 김치볶음밥만 드셨으니 디저트라도ㅎ

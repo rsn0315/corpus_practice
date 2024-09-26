@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030057
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P1 	: 네 안녕하세요ㅎ
+P0 	: 오늘 날씨가 간만에 해가 났네요. 거긴 어떤가요?
+P1 	: 여긴 아침부터 흐리다가 오후내내 비 였어요ㅎㅎ 요즘은 해 보기 힘드네요ㅎ
+P0 	: 그렇군요
+P0 	: 여기도 2주정도 비가 왔습니다
+P0 	: 오늘 겨우 해가 나왔네요
+P1 	: 여긴 내일 맑을거래서 이불세탁 좀 하려구요ㅎㅎ 가을장마가 길어지다보니 침구류가 다 꿉꿉하네요ㅠ
+P0 	: 좋은 생각입니다
+P0 	: 저희 집도 하루종일 세탁으로 분주했네요
+P1 	: 내일 세탁기 돌려놓고 공원에 광합성 하러 나가야겠어요ㅋㅋ
+P0 	: 그래요 워낙 해를 못봐서 햇빛도 필요해요
+P1 	: 네 날이 계속 흐리니 기분도 우울히고 몸도 괜히 쳐지는것같고 그래요 내일 광합성 좀 하면 좋아지려나요ㅎㅎ
+P0 	: 훨씬 좋아질겁니다
+P1 	: 오늘 기상청 찾아보니 비는 안오고 흐리기민 하대서 우산 안가지고 도서관갔다가 비맞고 집에 들어왔어요ㅋㅋ 제발 내일은 날씨가 좋기를ㅋㅋㅋ
+P0 	: 저도 같이 빌어봅니다

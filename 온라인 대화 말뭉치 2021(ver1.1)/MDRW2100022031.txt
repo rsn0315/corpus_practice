@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100022031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 다녀온 여행 있으신가요?
+P1 	: 코로나 때문에 작년에 제주도 다녀온 게 마지막이에요!
+P1 	: &name1&은요?
+P0 	: 저도 작년 양양 여행이 마지막이에요ㅠㅠ
+P0 	: 제주도는 무슨 계절에 다녀오셨나요?
+P1 	: 여름에 다녀왔어요!
+P1 	: &name1&은 양양 언제 다녀오셨어요!
+P1 	: 앗 어떤 계절에!
+P0 	: 저는 겨울이에요!!
+P0 	: 여름 제주도는 많이 더운가요??!!
+P1 	: 생각보다 안 더웠어요! 바다 근처로 가면 바람도 선선해서 걷기 좋았거든요!!
+P1 	: 양양은 물 있는 쪽인가요??!
+P0 	: 네 대부분 바다 구경하고 왔어요!
+P0 	: 서퍼비치랑 낙산사라고 바다 옆에 있는 절인데 풍경이 좋더라구요!
+P1 	: 오 그럿군요!!!!
+P1 	: 서퍼비치는 서핑이 가능한 곳인가요!?
+P0 	: 저는 겨울에 가서 못봤지만
+P0 	: 여름에 간 친구가 서핑하는 사람들 많았다고 하더라구요!
+P0 	: 여행가서 서핑 해본적 있으신가요?
+P1 	: 아뇨! 아예 서핑해본 적이 없어요!!!!!!
+P1 	: &name1&은요?
+P0 	: 저도 없어요ㅠㅠ
+P0 	: 맨날 하고싶다고 생각은 하는데 하기가 쉽지않네요ㅠㅠ
+P1 	: 저도 해보고는 싶은데 조오금 뮤섭더라고요ㅠㅠ!
+P1 	: 기회가 된다면 멋지게 해보는게 꿈입니덧
+P0 	: 나중에 꼭 해보세요!

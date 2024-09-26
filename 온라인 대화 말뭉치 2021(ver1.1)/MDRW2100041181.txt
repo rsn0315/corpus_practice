@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041181
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물키우시나요?
+P0 	: 아뇨 가족들이 털알레르기가 있어요
+P1 	: 아 진짜요?ㅜㅠ 키운다면 어떤 동물 키우고싶으세요?
+P0 	: 글쎄요
+P0 	: 구체적으로 생각해본 반려동물은 없는데
+P0 	: &name2&님은 반려동물 키우시나요?
+P1 	: 예전에 한번 키웠는데ㅜㅋㅋ
+P1 	: 멍멍이요ㅜ
+P0 	: 키웠다는 건...ㅂ
+P0 	: 반려동물과 이별하신건가요?
+P1 	: 저희가 잘못한거라 평생 반성하는 맘으로..ㅜㅠ
+P0 	: 아 그러시구나ㅠ
+P1 	: 보통 각오로는....ㅜㅠ
+P0 	: 그럼 다시 반려동물 키우기로 마음 먹기는 쉽지 않으시겠네요
+P1 	: 네 양심상ㅜ 벌써 이십년 넘은거 같아요
+P0 	: 그러시구나
+P1 	: 랜선으로 만족합니다
+P0 	: 저도 랜선으로 반려동물 봐요

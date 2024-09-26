@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100045693
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 요리 잘하세요?
+P0 	: 빠른 음식얘기
+P0 	: 전 한식같은거 못하고
+P0 	: 적당히 가끔 따라하는건 어떻게든해욬ㅋㅋㅋ
+P0 	: 어제 그릭복숭아 해먹었어요
+P1 	: 오 복숭아 안에 그릭요거트 넣는거요?
+P0 	: 넵 기술적으로 넣진 못하고
+P0 	: 복숭아 송송썰어서 그릭요거트 얹고 그래놀라 투척!
+P0 	: 시럽도 뿌리면 완성!
+P1 	: ㅋㅋㅋㅋㅋㅋ 무슨 시럽이에요?
+P0 	: 메이플시럽넣었는데
+P0 	: 올리고당같은것도 괜찮을 것 같아요!
+P1 	: 엄청 부지런하시네요
+P1 	: 저는 귀찮아서 못할거같아요ㅠㅋㅋㅋㅋㅋ
+P1 	: 누가 해주면 받아먹을줄이나 알지ㅠ 게을러요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ받아먹고 칭찬해주는것도 능력이에요 사실
+P0 	: 저는 그걸 잘 못해섴ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 아이고... 이렇게 좋은말씀을..ㅋㅋㅋㅋ 훈훈허네요 감사합니다
+P1 	: 복숭아는 맛있었어요?
+P1 	: 원래 단 복숭아였겠죠?
+P0 	: 넵 황도복숭아!!
+P0 	: 노란 물복 너무 맛있었어요!!!
+P0 	: 딱복도 좋아하지만 그릭복숭아엔 역시 물복인 것 같아욬ㅋㅋㅋㅋ
+P1 	: 황도!!!
+P1 	: ㅠㅠㅠ

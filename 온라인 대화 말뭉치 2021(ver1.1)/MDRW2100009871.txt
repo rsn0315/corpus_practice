@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009871
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 자주 하시나요?
+P0 	: 요즘 가을옷 사느라 하고 있어요ㅎㅎ 쇼핑하신거 있으세요?
+P1 	: 아~가을옷 장만 하셨군요~!
+P1 	: 저도 가을옷 겨울옷 사야하는데 눈팅만 하고 있어요
+P0 	: 네 가을이 근데 금방 지나갈거같아서 얼른 주문했어요ㅋㅋ역시즌으로 패딩도 보구있구..
+P1 	: 맞아요~가을은 금방 갈 것 같아요~ 비오고 쌀쌀하니 새로 산 옷 입으시면 딱이겠네요
+P0 	: 네 근데 아직 배송이 안와서ㅋㅋ급 추워자는게 아닌지ㅎㅎ
+P1 	: 가을옷 어떤거 사셨어요?
+P0 	: 저 가디건이랑 원피스 샀어요ㅎㅎ 아주 한철 입을거같네요ㅋㅋ
+P1 	: 와~가을 원피스 사셨나봐요~이쁘겠어요~가디건두 이쁠것 같구요
+P0 	: 네 맞춰서 샀어요ㅎㅎ 안입는데 급 끌리더라구요
+P1 	: 저도 가디건이나 트랜치코트 종류로 보고 있는데 막상 살게 없는것 같기도 하고 너무 많은것 같기두 하구..ㅎㅎ
+P0 	: 맞아요 트렌치..저도 작년에 샀는데 두번입고 겨울와서ㅜㅜㅋㅋㅌ

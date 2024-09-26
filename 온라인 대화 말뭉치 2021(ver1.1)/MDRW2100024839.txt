@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024839
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회나 봉사단체 경험 있으신가요
+P1 	: 학생때 봉사시간을 위한 봉사만 해봤어오
+P1 	: &name1&은요?
+P0 	: 저두요..^^ 그땐 어떤 봉사 하셨었나요?
+P1 	: 어린이집하고 도서관 낙엽쓸기랑 지하철 피켓이욥!
+P0 	: 지하철 피켓은 어떤 봉사인가요?
+P1 	: 그 당시에 낙태였어요!
+P1 	: 낙태주제의 피켓들고 서있는거욥
+P0 	: 아..그런봉사도 있군요 어디서 주관하나요? 지하철공사??
+P1 	: 그 봉사 사이트에 있었는데 잘 기억은 안나네요ㅠ
+P1 	: 가까운 위주로 넣었었거든요
+P0 	: 아 그러셨군요 동아리 활동은 해보셨나요?
+P1 	: 고등학생때 해봤어요!
+P1 	: &name1&은요?
+P0 	: 저는 대학시절에요 뭐해보셨어요?
+P1 	: 영상동아리요
+P0 	: 와 멋지네요 영상을 제작하는건가요?

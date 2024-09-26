@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016087
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아이유콘서트 너무가고싶어요ㅠㅜ
+P1 	: &name1&도 아이유 좋아하시나요
+P1 	: ???
+P0 	: 네 징짱 너무좋아해요
+P1 	: 어떤 노래 좋아하세요?
+P0 	: 대부분 다 좋아하는데 요즘은 비밀의화원 한곡반복중이에요
+P0 	: 날씨랑 너무 찰떡이라서ㅜㅜ
+P1 	: 오~~맞아요 정말 좋죠
+P1 	: 아이유 콘서트 가보신 적 있으신가요?
+P0 	: 아니요ㅜㅜ 저번에 사는지역에 왔을때 못간게 한이에요..
+P0 	: 또 갈 수 있을 줄 알았는데
+P1 	: 그렇군요 전시회 가보신 적 있으신가요?
+P0 	: 네! 한적하고 고요해서 좋았어요
+P0 	: 전시회 좋아하세요?
+P1 	: 네 저도 가끔 가요
+P1 	: 제일 좋았던 전시회가 있나요?
+P0 	: 샤갈전시회가 제일 좋았던 거같아요 색다른건없었지만 그냥 좋아하는 화가라 좋은 느낌?
+P1 	: 샤갈 작품을 실제로 보신건가요?
+P0 	: 샤갈전 되게 자주해요!!
+P1 	: 오~~정보 감사합니다

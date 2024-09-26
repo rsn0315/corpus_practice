@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100037360
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 위해서 챙기는 습관 있나요
+P1 	: 아뇨 딱히 없어요.
+	  있으면 좋을 것 같아요!
+	  특별한 습관 같은 거 있으셔요?
+P0 	: 저는 아침에 유산균 먹는거요?ㅋ
+P1 	: 아하 그렇군요!
+	  챙겨먹으면.너무 좋죠.
+	  사놓고 안 먹는 제품이 수두룩 ㅠㅠ
+	  근데 이젠 좀 먹어야 할것 같아요
+P0 	: 네네! 영양제 안드시나요?
+P1 	: 다이어트 보조제인데 유산균 포함되어 있는 거 먹어요 ㅎㅎ
+	  그 전에는 전혀 안 먹었었어요.
+P0 	: 그렇군요! 비타민.유산균 정도는 챙겨먹는게 좋은것 같아요?..ㅋ 효과는 모르지만..ㅋㅋ
+P1 	: ㅎㅎ맞아요..효과는 잘 모르겠지만..어딘가는 좋겠지ㅋㅋㅋ
+P0 	: 네 공복에 물한잔도 좋다고 하고요 ^^
+P1 	: 오 맞아요
+	  저 그거 해요.아침 공복에 물 한잔
+	  
+	  
+P0 	: 
+	  다이어트도 해보셨나요
+P1 	: 다이어트는 항상 ing..

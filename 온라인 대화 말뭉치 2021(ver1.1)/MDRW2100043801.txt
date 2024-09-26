@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영화보신 거 있으세요?
+P0 	: 영화는 코로나때문에 못 봤는데
+P0 	: 대만영화 말할수없는 비밀을 최근에 봤어요
+P0 	: 보셨나요?
+P1 	: 저는 대만영화는 못봤고
+	  블랙위도우 봤어요.ㅎ
+P0 	: 블랙위도우는 최신영화인가요?
+P1 	: 넵.
+	  여자주인공 액션신이 넘 멋져요.
+P0 	: 영화관에서 보셨어요?
+P1 	: 아뇨. 집에서 봤어요.
+	  영화관은 아직 망설여지네요.
+P0 	: 아 그러셨구나ㅜ영화관은 아직 겁나긴해요ㅜ
+P1 	: '상치'는 곧 개봉하면 영화관에서 보려구요.
+P0 	: 상치는 한국영화인가요?
+P1 	: 아뇨.
+	  마블영화인데
+	  주인공이 중국 사람 양조위 등등이에요.
+P0 	: 유명한 영화인데 제가 몰랐네요ㅜㅎㅎ
+P1 	: 주인공이 중국인이라 흥행이 많이 될까 싶네요.
+	  

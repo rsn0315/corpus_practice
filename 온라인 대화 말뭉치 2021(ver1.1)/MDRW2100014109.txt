@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100014109
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 스포츠 좋아하세요?
+P0 	: 네 ㅎㅎ 올림픽이랑 월드컵 좋아해요
+P1 	: 저는 스포츠는 크게 관심이 없었는데
+P1 	: 이번에 도쿄올림픽 배구 너무 재밌게봐서
+P1 	: 나중에 직관 가보려고요
+P0 	: 배구 결승 못가서 너무 아쉬워요ㅜㅜ
+P1 	: 맞아요ㅠㅠ 충분히 실력 됐는데
+P0 	: 혹시 동계올림픽 보시는것도 좋아하세요?
+P1 	: 그런사람들 많잖아요
+P1 	: 평상시엔 관심도 없다가 올림픽 하고 월드컵하면 그때만 반짝 찾아보는
+P1 	: 그 사람이 바로 나예요
+P0 	: 아 저도 그래요
+P0 	: 어느종목 제일 좋아하세요?
+P1 	: 동계는 스피드 스케이팅이요ㅋㅋㅋ
+P0 	: 개막식이나 폐막식 보는것도 좋아하세요?
+P1 	: 오 아니요 개막식 폐막식은 잘 안찾아봐요
+P0 	: 아 아깝네요

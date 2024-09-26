@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 무슨 음식 좋아하세요?
+P1 	: 저는 면류 음식 다 좋아해요
+P1 	: 콩국수 빼고요
+P1 	: &name1&님은요?
+P0 	: 저는 떡볶이좋아해요! 콩국수는 왜 안좋아하시나요?
+P1 	: 콩국수는 뭔가 텁텁하고 시원한 느낌?이 안나서요ㅠ
+P1 	: 저도 떡볶이 좋아해요ㅎㅎ
+P1 	: 마라탕도 좋아하시나요?
+P0 	: 아직 제대로 된 마라탕을 못먹어봐서ㅠㅠ 마라탕 좋아하세요?
+P1 	: 넷!! 저 환장하잖아요
+P1 	: 근데 없어서 못머금ㅠ
+P0 	: 부속재료 뭘 제일 좋아하세요?
+P1 	: 전....음.....막상막하인데....
+P1 	: ㅎㅏ....음...
+P1 	: 고구마떡이랑 분모자로 할게요
+P0 	: 오 납작두부? 그거 인기메뉴인거같던데 안좋아하시나요?
+P1 	: 아 그 건두부? 그거 말하시는거죠??
+P1 	: 그것도 좋아해요ㅠ 근데 제일 좋아하는거 물어보셔서ㅋㅋㅋ
+P1 	: 고르고 골랐습니당
+P0 	: 마라듀스101하셨군요.... 팽이버섯이나 청경채도 좋아하시나요?
+P1 	: 청경채 좋아해요! 근데 제가 버섯을 안좋아해서
+P1 	: 마라듀스 101 예선전에서 이미 탈락했습니다
+P1 	: &name1&님은 팽이버섯 넣어드시나요?
+P0 	: 네네 샤브샤브할 때 오키로씩은먹는거같아요ㅋㅋ 숙주는 좋아하세요?
+P1 	: 당욘하죠 좋아합니당

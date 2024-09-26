@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 현재 일을 하고 계신게 있나요?
+P0 	: 노는게 일입니다.. 백수.. 
+	  직장인이세여?
+P1 	: 아직은 대학생이에요
+P0 	: 아.. 취업반이세요?
+P1 	: 취업반은 아니고 신입생인데 취업 준비 시작했어요
+P1 	: 토익도 공부중이고 포트폴리오 쌓고 있어요
+P0 	: 1학년? 벌써 취업준비? ㅎㄷㄷㄷ
+P1 	: 졸작하기 전에 준비 해놓는게 좋다고 하셔서요
+P0 	: 원하시는 취업분야가 있으신거에요?
+P1 	: 디자인 분야를 목표로 하고 있어요
+P0 	: 산디? 웹디?
+P1 	: 미디어쪽 하고 있어요 웹디도 들어가구요
+P0 	: 그쪽이면.. 일찍준비 이해가네요.. 
+	  타고난 센스가 8할이라..

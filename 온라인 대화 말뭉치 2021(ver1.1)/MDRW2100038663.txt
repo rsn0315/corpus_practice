@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100038663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집에가면 뭐하시나용
+P1 	: 저는 주로 자요
+P1 	: &name1&님은요?
+P0 	: 집가서 씻고 빨래하고 자요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 비슷하네요
+P1 	: 빨래는 주로 며칠에 한번씩 하시나요?
+P0 	: 음 이틀에 한번정도? 하는것같아요
+P0 	: 가족이 4명이라ㅎㅎ
+P1 	: 비슷하네요
+	  &name1&님은 그럼 빨래담당이신가요?
+P0 	: ㅎㅎ네 그렇게 되네용
+P1 	: 너는 것까지 하시나요??
+P0 	: 그건 가끔 달라요ㅋㅋ
+P0 	: 귀찮으면 동생들 시켜요
+P1 	: 그럼 자식들은 다 빨래담당인건가요?
+P0 	: 그냥 따지지는 않고 되는대로 해요~
+P1 	: 그렇군요
+	  그렇게하는거 좋은 것 같아요
+P0 	: 되면 하는거구~그래요

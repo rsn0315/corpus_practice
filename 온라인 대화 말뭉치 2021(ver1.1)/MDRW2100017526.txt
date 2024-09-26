@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017526
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가보고싶은 여행지 있으세요?
+P1 	: 독도 가보고 싶어요
+P0 	: 오~ 이유가 있나요?
+P1 	: 뭔가 한국인으로서 한번쯤 가보고 싶지 않나요 ㅋㅋ
+P1 	: 그리고 독도 가는 게 진짜 날씨가 좋아야 갈 수 있다고 하더라구요
+P0 	: 그렇군요! 해외로는요?
+P1 	: 해외는 싱가포르 가고 싶어요
+P0 	: 이유가있나요?
+P1 	: 티비에서 싱가포르 여행하는 거 보고 가고 싶어졌어요
+P1 	: &name1&은요?
+P0 	: 저는 터키요! 특유의 분위기가 궁금해요ㅎㅎ
+P0 	: 다녀오신 해외여행지 있으세요?
+P1 	: 터키도 좋아보이네요
+P1 	: 저는 일본 중국 태국 이렇게 가봤어요
+P0 	: 가장 최근에 다녀오신곳은 어디예요?
+P1 	: 태국이요!
+P1 	: 망고스틴이 정말 맛있더라구요
+P0 	: 저 망고스틴 정말좋아하는데ㅠㅜ 일본은 뭐가 맛있나요?

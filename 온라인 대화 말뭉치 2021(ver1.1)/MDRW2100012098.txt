@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아 맞다~ 근데 나 어제 중량운동하다 어깨가 좀 찌릿해서 오늘 쉬어야 하는데
+P0 	: 아.. 예전에 다쳤던 곳? ㅠ
+P1 	: ㅇㅇ 어제 오랜만에 무거운 거 들었더니 어깨 안쪽이 찌릿찌릿 해
+P0 	: 무리하지마 ㅠ 거기 자꾸 아파서 어카냐..
+P1 	: 하루 이틀 쉬고 어깨는 무리 안하면 괜찮아질거야
+P0 	: 그럼 애들한테는 오늘 운동 쉰다고 얘기해 놓을께
+P1 	: ㅇㅇ 학교에서 내준 운동 있지?
+P1 	: 미안하지만 오늘은 그거 하라고 해 ㅎㅎ
+P0 	: 그래야겠네.. 스쿼트 50번이랑 플랭크 1분씩 3회
+P1 	: ㅇㅇ 오늘은 그 정도만
+P0 	: 웅 알았옹 ㅎㅎ
+P1 	: 애들이랑 저녁에 같이 운동 못해서 미안ㅠ
+P0 	: 아냐 ㅠ 신랑 다치면 안되지~다 나을 때까지 쉬어
+P1 	: 이해 감사요 ㅎㅎ

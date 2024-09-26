@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100047300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 드셨나요
+P0 	: 뭐 먹을지 고민이에요
+P0 	: &name2&님은 드셨어요?
+P1 	: 네 집밥이요 엄마표 고구마순김치에 달걀말이^^
+P0 	: 와 고구마순김치라니 맛있겠어요
+P0 	: 좋아하는데 먹을 기회가 잘 없죠
+P0 	: 백반집에서도 잘 안 나오고ㅜ
+P1 	: 맞아요 손이 많이 가는 반찬이죠 껍질을 벗겨야하니!
+P0 	: 아 그래서였군요!
+P1 	: 여름이면 생각나는 반찬이예요!
+P0 	: 어쩐지 가게에서도 잘 없더라니
+P0 	: 요리 잘 하시나봐요
+P1 	: 아..엄마표예요^^ 저는..ㄸ손..ㅋㅋ
+P0 	: 아ㅎㅎ 저는 고구마순 껍질 벗겨야하는지도 몰랐는걸요ㅎ
+P0 	: 제 인생의 요리는 김볶과 라면...
+P1 	: ㅋㅋㅋ 맛있잖아유..김볶잘하는 노하우 있으신가요
+P0 	: 삼겹살을 조금 구워서 그 기름으로 합니다ㅎ
+P0 	: 토핑도 삼겹. 치트키지요
+P0 	: 그외에는 고추장 기름이 다예요ㅎ
+P0 	: 김볶 어떻게 하세요?
+P1 	: 오...저는 김볶을 잘 안해요 ㅠㅠ 애들이랑 같이 못먹다보니 ㅠ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100027082
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어디 가고픈데 있으신가요
+P0 	: 저는 부산 가고 싶네요
+P1 	: 부산 좋죠 뭐 드시고 싶으신가요
+P0 	: 밀면 먹고 싶어요
+P0 	: 집주변에 있던 밀면집이 사라져서ㅠ
+P1 	: 돼지국밥도!
+P0 	: 맞아요 국밥도 먹고 싶어요
+P1 	: ㅋㅋ아 여수도 가보고 싶은데
+P1 	: 가보셨어요?
+P0 	: 딱 한번 가봤어요
+P1 	: 이쁜가요 ㅎㅎ
+P0 	: 아쉽지만 밤바다에는 못가봤어요
+P1 	: ㅋㅋ여수 밤바다가 보고 싶은데요 사실
+P0 	: 노래 같은 감성을 느낄 수 있을까요
+P1 	: 사실 거품 아닐까요 ㅋㅋ
+P0 	: 그럴 수도 있죠
+P1 	: 여행 가고 싶네요 ㅎㅎ

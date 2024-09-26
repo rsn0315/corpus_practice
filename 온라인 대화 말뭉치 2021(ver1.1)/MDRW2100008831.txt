@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일은 어떤 일 하고 계신가요?
+P1 	: 일반 사무직하고 있어요!
+P0 	: 아 그러면 일반 회사에서요?
+P1 	: 네네ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 저는 교직에 있어요..ㅋㅋ
+P0 	: ㅎㅏ . . .
+P0 	: 코로나때문에 일이 늘어서 아주 힘들어요
+P1 	: 힘드시겠어요ㅠㅠ 신경쓰셔야할 것도 많고
+P1 	: 업무량이 어마어마하시겠어요
+P0 	: 진짜 저 ... 말하다가 밤 샐 수 있어요
+P0 	: 이러려고 교사 했나 자괴감 들고 괴로워...
+P0 	: 그런데 일반 사무직이어도 코로나 영향 많이 받지 않나요? 재택해야 한다든가 하는
+P1 	: 네네 재택이랑 번갈아가면서 하고있어요
+P1 	: 재택도 장단점이 있네요ㅠㅠ
+P0 	: 맞아요 완전 그런 것 같아요
+P0 	: 저는 알고 지내는 사람들이 다 교사들이다 보니
+P0 	: 일반 사무직 쪽은 잘 몰라서...  재택 하면 그냥 집 컴퓨터로 똑같은 일 하시나요
+P1 	: 회사노트북 가져와서 작업해요..! 비슷하죠
+P0 	: 아 회사에서 노트북을 주나요?
+P1 	: 주는건 아니고 회사용 물품인데 제가 잠깐 사용하는 ..! 그런 느낌이에요ㅎㅎ
+P0 	: 앗.. 쩨쩨하다..!
+P0 	: 물론 학교는 빌려주지도 않습니다

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010581
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연 보는거 좋아하시나요?
+P0 	: 네 근데 올해는 거의 못봤어요ㅠㅠ
+P0 	: 공연보는거 좋아하세요?
+P1 	: 좋아하죠~ 단지 비싸고 시간이 없을뿐... ㅠ
+P0 	: 맞아요...전시회도 좋아하는데 맘먹고 다녀야해서ㅠㅠ
+P1 	: 요즘은 전시회고 공연이고 다 어렵죠 ㅠ
+P0 	: 맞아요 또 혹시나 코로나 걱정되구...문화생활을 못하네요ㅠㅠ
+P1 	: 맞아요 ㅠ 넘 슬퍼요 영화관 가려니 뭔가 무섭고요
+P0 	: 네 전 블랙위도우 고민하다 보고왔는데 무섭긴했어요 아무도 없어서ㅋㅋ
+P1 	: 영화관에 아무도 없다니 그거 좋은거 아닌가요?? ㅋㅋ
+P0 	: 근데 저혼자라 무서워서ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ 블랙위도우가 조금 무서운 영화인가봐요?
+P0 	: 그건 아닌데ㅋㅋ 층 전체에 사람이 없더라구요ㅋㅋ
+P1 	: 하긴 컴컴하니 무서울수도 있겠어요.

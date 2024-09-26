@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100024716
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세용?
+P1 	: 올림픽은 봤어요
+P1 	: &name1&은요?
+P0 	: 저는 양궁하고 배구 조금만 봤어요
+P1 	: 제일 재밌게 본 경기 있으실까요?
+P0 	: 역시 양궁 혼합일까요
+P1 	: 그쵸 처음 금메달 딴 종목이니까
+P0 	: 맞아용!
+P0 	: &name2&은 어떤걸 재밌게 보셨어오?
+P1 	: 저는 체조랑 높이뛰기요
+P0 	: 오..  여서정선수였나요?
+P1 	: 네 너무 잘하더라고요!!
+P0 	: 동메달 땄었죠?!?
+P1 	: 맞아요 &name1&은 이번 올림픽에서 관심갖던 선수 있으신가요?
+P0 	: 신유빈 선수였나요 탁구?? 전에 무도에 나왔어서 그런지 응원하게 되더라구용
+P0 	: ㅎㅎㅎ님은요?
+P1 	: 신유빈 선수도 잘하죠
+	  저는 여서정선수요ㅎㅎㅎ

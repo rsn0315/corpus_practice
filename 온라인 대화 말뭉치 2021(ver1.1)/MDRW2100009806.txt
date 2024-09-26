@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100009806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑성공하신거 있으세요?
+P1 	: 잘샀다 이런거
+P0 	: 저는 제습기요ㅎㅎ 고민하다 샀는데 정말 잘쓰고 있어요
+P0 	: 어떤게 있으세요?
+P1 	: 제습기 태풍오는데
+P1 	: 딱좋네요
+P1 	: 저는 당근마켓으로산 모자요
+P0 	: 오 저도 당근 애용하는데 사본적은 없어요ㅠ
+P1 	: 당근 파시기만하셨나요
+P0 	: 네 저는 팔기만 해본거같아요ㅎㅎ
+P1 	: 저는 주로사기만ㅎㅎㅎ 근데 모자 잃어버려서 슬퍼요
+P0 	: 어머ㅜㅜㅜ아쉬워요ㅠㅠ
+P1 	: 근데 친구가 하나 줬어요
+P1 	: 제가 옆에서 딱해보였나봐요ㅋㅋㅋㅋ
+P0 	: 저도 그런적있어요ㅎㅎ팔찌 사자마자 끊어져서 친구가 선물로 사준ㅋㅋ
+P1 	: 아ㅜ 좋은친구를 두셨네요
+P1 	: 집에공구있으면 뚝딱수리하는데
+P1 	: 고치셨나요
+P0 	: 길거리라 비즈가 다떨어져셔ㅎㅎ그냥 버렸어요ㅠㅠ
+P1 	: 아..민망하셨겠네요
+P1 	: 줍는것도 부끄럽고 잘하셨어요ㅜ
+P0 	: 짜증많이 났는데ㅎㅎ 어쩔수없었죠

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017068
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.저녁에 뭐 드실 건가요?
+P1 	: 걍 안먹을라고요
+P1 	: 요즘 저녁 잘안먹어요
+P0 	: 아~ 다이어트하세요?
+P1 	: 다이어트 할 생각으로요
+P1 	: 별 효과는 없지만
+P0 	: 아~ 식사하실때는 채소 위주로 하시나요?
+P1 	: 아뇨 그래서 효과가 없나?
+P1 	: 점심 왕창먹고 안먹어요
+P1 	: 간혹 맥주만 마셔요
+P0 	: 아~식사는 어떻게 하세요?
+P1 	: 아침 바빠서 못먹고 점심은 일해야하니까 먹고
+P1 	: 저녁때는 버릇들여서 그런지 배안고파요
+P0 	: 아~일일일식이네요~!
+P1 	: 넹 근데 고삐풀리면 마구마구 먹는다능
+P1 	: &name1&님은 오늘 맛있는거 드실예정이세요?
+P0 	: 저는 된장찌개 끓이려고요
+P1 	: 직접요리하세요? 대단
+P0 	: 네~ 거의 배달 시키는데 오늘은 된장찌개가 땡기네요
+P1 	: 칼칼파세요 담백파세요?
+P0 	: 칼칼파요 ㅎㅎ
+P1 	: 그쵸 청양이랑 고춧가루 고추장 사알짝
+P0 	: 네네 그러려구요^^

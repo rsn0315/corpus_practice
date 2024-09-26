@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100016130
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물 키우시나요
+P0 	: 네 아까 허스키키운다고 말씀드렸어요
+P1 	: 아 ~ ㅎ
+P1 	: 또 키우고싶은 동물
+P1 	: 있으신가요?
+P0 	: 음 아직은 없어요
+P0 	: &name2&은요?
+P1 	: 전 고양잉뇨!!
+P0 	: 고양이 좋아하시나봐요
+P0 	: 어떤 점을 좋아하시나요
+P1 	: 저 귀여운 발바닥..이요..
+P1 	: 근데 다 좋아요
+P0 	: 하긴 고양이는 귀엽게 생겨서
+P0 	: 다들 좋아하더라구요
+P1 	: ㅋㅋㅋㅋ네 귀여윤 걸
+P1 	: 싫어하는 사람은 없죠
+P0 	: 만약 기른다면 이름은 뭐라고 지어주고싶나요
+P1 	: 음.. 이름까진 생각을 못했어요
+P1 	: &name1&은요?
+P0 	: 전.. 고양이를 키우겠다는 생각을 해보지는 않아서..
+P0 	: 어.. 뭐라고 답을 드려야 할지
+P1 	: 동물을 키운다면
+P1 	: 뭐라고 이름 짓고싶으세요?
+P0 	: 아.. 죄송해요..
+	  제가 &name3& 이외에 뭘 키운다는 생각을 안해봐서
+P0 	: 자꾸 답변이 엇나가네요ㅠ
+P1 	: 아하 아니에요ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 그럴 수 있죠!

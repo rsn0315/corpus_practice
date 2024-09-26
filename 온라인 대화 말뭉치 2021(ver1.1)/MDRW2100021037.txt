@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021037
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 컵밥 얼마 정도 해요?
+P1 	: 2천원쯤 할걸요
+P0 	: 컵밥 하나에 2천원 밖에 안해요?
+P1 	: 네 그쯤 해요
+P0 	: 생각보다 저렴하네요..
+P0 	: 햇반 하나만해도 거의 천원 넘어가지 않아요?
+P1 	: 쿠팡  가면 생각보다 저렴해요ㅎㅎ
+P1 	: 천오백원짜리도 있고
+P0 	: 아 여러개 한꺼번에 사야 저렴한가보네요
+P0 	: 마트 같은데에선 할인하면 3천원 좀 넘더라구요
+P1 	: 네 저는 보통 쿠팡에서 대량으로 사요
+P0 	: 컵반 여러가지 맛이 있던데 어떤거 추천해요?
+P1 	: 낙지콩나물비빔밥이 맛있어요
+P0 	: 헐 추천 믿고 꼭 그거 먹어볼게요
+P0 	: 가격도 착하니 괜찮네요
+P0 	: 그거 하나만 먹어도 충분히 배불러요?
+P1 	: 저는 배가 불렀는데 친구는 조금 부족하다고 하더라구요

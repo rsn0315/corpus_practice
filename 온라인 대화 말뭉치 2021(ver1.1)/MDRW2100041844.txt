@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100041844
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!! 혹시 직장인이신가요?
+P0 	: 네 맞아요
+P0 	: &name2&님은요?
+P1 	: 그렇구나 전 학생이에요..
+P0 	: 아하
+P0 	: 아르바이트 같은 거
+P0 	: 하고계시나요
+P1 	: 아뇨... 아직 해본 적 없어요! 고등학생이라
+P1 	: 사실 미래에 무슨 직업 할지도 못 정한..
+P0 	: 아 헉 되게 어리시군요
+P0 	: 하고싶은 아르바이트 같은 건 있으세요?
+P1 	: 음.. 사실 종류는 상관없이 그냥 다양하게 해보고 싶어요!
+P1 	: 그래도 처음엔 제일 무난한 아르바이트로 시작할 거 같은 ㅎㅎ
+P0 	: 무난한게 뭐 있죠?
+P0 	: 편의점 같은거요?
+P1 	: 네ㅋㄱㅋㅋ
+P1 	: 부모님 추천!
+P0 	: 편의점 편해요
+P0 	: 저 해봤거든요
+P1 	: 오 해보셨어요???? 오오
+P0 	: 네ㅋㅋㅋㅋㅋㅋㅋ 추천해요

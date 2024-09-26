@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002541
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 동물 같은건 키
+P0 	: 키워?
+P1 	: 아니 안키워
+P1 	: 너는 동물 키운적 있어?
+P0 	: 나 고양이 기른적 있어
+P1 	: 어떤 고양이였어?
+P0 	: 종은 모르겠는데 삼색 고양이었어
+P1 	: 오 삼색고양이 귀엽겠다
+P0 	: 귀여웠지만 꽤나 오두방정 떠는 얘였다구
+P0 	: 휴지를 풀어대질 않나
+P0 	: 화분을 파헤치질 않나
+P1 	: 아.. 청소하느라 힘들었겠네
+P0 	: 거실쪽으로 두다다다 하면서 도망가더라
+P0 	: 물바닥.. 골때리더라
+P1 	: 정말 활발한 고양이였네
+P0 	: 그래도 내가 우울할땐 옆에 다가와서 마치 위로 해주는것처럼 있어주더라
+P1 	: 와 힐링되겠네
+P0 	: 이런것때문에 반러동물을 키우게 되는것 같더라고
+P0 	: 넌 나중에 키울 생각 있어?
+P1 	: 여유있으면 키우로 싶어

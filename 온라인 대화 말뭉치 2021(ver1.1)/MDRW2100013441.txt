@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013441
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 스포츠 경기 보는거 좋아하세요?
+P1 	: 원래는 잘안보는데 이번올림픽은 재밌게봤어요
+P0 	: 아 어떤종목 보셨어요?
+P1 	: 배구 양궁 유도 탁구 여러가지 다 봤어요ㅋㅋ
+P1 	: &name1&은요?
+P0 	: 저는 육상이랑 수영 재밌게 봤던거같아요
+P1 	: 아하 그것도 재밌죠
+P1 	: 티비만틀면 중계해주니 다보게되더라고요
+P0 	: 개막식이나 폐막식도 보셨어요?
+P1 	: 그건 별로 주의깊게안본거같아요ㅎㅎ
+P0 	: 혹시 동계올림픽 보는것도 좋아하세요?
+P1 	: 네 좀 있음 또 동계 열리잖아요
+P0 	: 어떤 종목이 제일 좋으세요?
+P1 	: 딱히 좋아하는건 없는거같아요

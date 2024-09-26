@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님도 넷플 많이 보세요?
+P0 	: 가끔씩 시간 날때 정주행 하는거 같아요
+P0 	: &name2&님은요?
+P1 	: 전 영화만 가끔봐요!!
+P0 	: 주로 무슨 영화 보세요?
+P1 	: 자주는 안보지만
+P1 	: 애니영화같은거요!
+P0 	: 최근에 어떤 영화 보셨어요
+P1 	: 언터쳐블? 인가 그거 봤어요!!
+P1 	: &name1&님은요?
+P0 	: 저는 상견니라는 대만 드라마 봤어요!
+P0 	: 언터쳐블은 무슨 영환가요?!
+P1 	: 아 부자인 사지마비장애인이랑 가난한 흑인이 만나서 우정을 쌓는 이야기에요
+P1 	: 꽤 재미있더라공ㅎ!&name1&님 대만드라마!! 상견니는 무슨 내용인데요
+P0 	: 상견니는 여주인공이 대학cc 였던 남자친구랑 사고로 사별?하게 됐는데 1주기 추모하러 버스를  타고가던중에 잠들면서 다른도시 다른년도 자기와 같은 얼굴의 고등학생으로 깨어나면서 시작되는 얘기에요 
+P1 	: 헉
+P1 	: 뭔가 웹소설 같네요
+P0 	: 넹넹 타임슬립물이죠 ㅋㅋㅋ

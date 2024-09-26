@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003517
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 회사 이사한다고 ?
+P1 	: 어 몇일전에 부동산에서 보고 갔어
+P0 	: 보고만간거야?
+P1 	: 나도 물어봣는데 팔렸데
+P0 	: 어머나
+P1 	: 내년 1월쯤 이사간다는데
+P0 	: 어디로
+P1 	: 아직 알아보고 있다고 하네
+P0 	: 그근처로 보는 거겟지
+P1 	: 판교랑 광교 보고있다는데
+P0 	: 판교면...
+P1 	: 지금 미금보다는 조금더 낳긴한데
+P1 	: 광교로 가게되면 더가는 거라서
+P0 	: 다른곳은 안본다니
+P1 	: 다들 집이 그근처라서 안알아볼꺼 같은데
+P0 	: 좀더 봐약 겠구나
+P1 	: 어떻게 할지 고민좀 해봐야 할꺼같아
+P0 	: 무슨고민
+P1 	: 따라갈지 말지 대해서

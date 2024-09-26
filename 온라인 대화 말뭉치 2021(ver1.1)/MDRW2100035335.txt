@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035335
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 티타임은 가지셨나요?
+P1 	: 이제 동네 카페 왔어요!
+P0 	: 어? 저도 좀전에 동네카페와서 디저트랑 커피샀는데?
+P1 	: 정말요?? 식후 디저트 타임을 할 시간대이긴 하네요ㅋㅋ
+P0 	: 그쵸 ㅋㅋㅋ 라떼를 좋아하시나요? 아니면 아메리카노를 좋아하시나요?
+P1 	: 저는 라떼를 더 좋아해여ㅎㅎ 달달한걸 좋아해서 아바라 먹었어요
+P0 	: 저는 아메리카노를 선호하지만 아바라도 당이 떨어지면 마셔요 ㅎㅎ
+P0 	: 좋아하는 커피숍 브랜드는 있으신가요?
+P1 	: 투썸이나 폴바셋처럼 디저트가 맛난 곳을 좋아해요ㅎ 요즘은 디저트39도 좋구요
+P0 	: 디저트39는 대용량 리유저블컵으로 알았는데 디저트도 맛있군요 ㅎㅎ
+P0 	: 저는 커피빈을 좋아하는데 아바라는 이디야가 맛있더라고요ㅋㅋ
+P1 	: 할리스의 바닐라딜라이트도 맛있어요!
+P0 	: 앗...! 원조라고 들었는데요 주변에 할리스가 없어요
+P1 	: 아쉽네여ㅠㅠ
+P0 	: 그러니까요
+P0 	: 좀 돌아다닐 수 있게되면 마실 기회가 또 있겠죠 ㅋㅋㅋ

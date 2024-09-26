@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 집안일 당연히 하죠. 주로 설거지 청소
+P1 	: 주로 어떤 집안일 하세요?
+P0 	: 똑같네요
+P1 	: 가족들과 함께 사시나요
+P0 	: 네
+P1 	: 그럼 가사분담은 어떻게 하시나요
+P0 	: 청소담당이요
+P0 	: 님은요?
+P0 	: 어떤거요?
+P1 	: 주로 부엌일을 합니다. 어머니 따라서 보조일이지만요
+P1 	: 집에서 로봇청소기 쓰시나요?
+P1 	: 그러면 한결 편하다던데
+P0 	: 아직 살 돈이 ㅋㅋ
+P1 	: ㅎㅎ 요새는 저렴이도 많이 나와서 일반 청소기와 가격 차이 없대요
+P1 	: 그런데 우리집도 로봇청소기 안쓰긴 해요
+P1 	: 강아지가 무서워해서이긴 한데 요새 로봇청소기 성능 좋대서 고민중이에요
+P1 	: 청소하는데 한 얼만큼 걸리나요
+P0 	: 화장실 30분 하는 거 같아여
+P1 	: 아 화장실 청소가 참 곤욕이죠
+P1 	: 물때도 끼니까.

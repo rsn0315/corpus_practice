@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100002625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요 부모님집에선 개키워요
+P0 	: 저도 강아지 키우고 싶어요
+P1 	: 키우시는 동물없으신가요? 강아지 귀엽죠
+P0 	: 네 아직
+P1 	: 키울실 생각은 있으신건가요
+P0 	: 관리가 힘들거 같아서
+P1 	: 돈도많이들고 애키우는거나 비슷하죠
+P0 	: 그르니까요
+P1 	: 미용도 돈많이들고 사료나 간식도 계속 사야되니
+P0 	: 그렇죠
+P1 	: 강아지는 어떤종류 키워 보고싶으세요?
+P0 	: 종류는 생각 안했는데 ㅋㅋ

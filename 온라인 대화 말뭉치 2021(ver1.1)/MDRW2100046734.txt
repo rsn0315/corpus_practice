@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100046734
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 점심 먹고 올게요! 맛점하세요!
+P0 	: 네 점심맛있게드세요
+P1 	: 영화 좋아하시나요?
+P0 	: 네 ㅎ영화좋아해요
+P0 	: &name2&님은요?
+P0 	: 액션좋아해요
+P1 	: 저도 액션 영화 좋아해요 ㅎㅎ
+P1 	: 심각한 영화는 그렇게 즐기진 않구요 ㅋㅋㅋ
+P0 	: 최근에보신영화는?
+P1 	: 음음.. 가장 최근에 본 영화는
+P1 	: 인터스텔라 재탕했어요!! ㅋㅋㅋ
+P0 	: 그렇군요
+P0 	: 점심은 머드셨나요?
+P1 	: 저는 덮밥 먹었어요 ㅎㅎㅎ
+P1 	: 점심 드셨어요~?
+P0 	: 네 ㅎ김밥이요
+P0 	: 운동좋아하세요,
+P0 	: 요새날이좋아서 산책하기가좋더라고요
+P0 	: {share:photo}
+P0 	: 어제 산책하면서 오리도봤네요
+P1 	: 와 귀엽네요 ㅋㅋㅋ
+P1 	: 운동 좋아하는데 하는게 너무 귀찮아요 ㅋㅋ
+P1 	: 근데 운동하면 열심히 하는 편이에요!!
+P0 	: 그쵸?ㅎㅎ
+P0 	: 점심먹었더니 졸려서 커피수혈했네용ㅎ
+P0 	: 커피는어떤커피좋아하세요?
+P0 	: 전아메리카노요
+P1 	: 저는 라떼요!
+P1 	: 커피랑 우유랑 진짜 잘어울리는 것 같아요
+P0 	: 그렇군요 ^^

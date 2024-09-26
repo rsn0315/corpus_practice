@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025728
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 담당하시고 계신 집안일이있나요?
+P1 	: 저는 지금 혼자 살아서 모든 집안일을 담당하고 있죠ㅋㅋㅋ
+P1 	: 담당하는일 있으세요?
+P0 	: 헉 대단하시네요 저는 설거지와 빨래널기 담당이에요
+P1 	: 집에서 따로 담당 정하신거에요?
+P0 	: 네! 각자 담당하는 구역이 따로 있어요
+P1 	: 아 그래요? 가족 구성원이 어떻게 되세요?
+P0 	: 부모님과 언니와 동생이있어요
+P1 	: 동생은 여동생인가요?
+	  가족 인원이 많으시네요
+P0 	: 네 그래서 가사분담하기가 편해요~
+P0 	: 혼자서 사시는건 편하신가요?
+P1 	: 그러니까요 다들 분담해서 하면 좋겠어요
+P1 	: 네 저는 참 좋은거같아요
+P0 	: 어떤 점이 좋으신가요?
+P1 	: 부모님이랑 사이가 좋아도 매일 붙어있으면 혼자 시간도 갖고싶고 서로 잔소리도 하게 되니까
+P0 	: 그렇군요!!
+P1 	: 가끔 보는게 더 좋을수도 있더라구요

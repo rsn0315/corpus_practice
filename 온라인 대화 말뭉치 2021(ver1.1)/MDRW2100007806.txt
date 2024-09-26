@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100007806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘에 즐겨보시는 드라마 있으신가요?
+P0 	: 드라마는 요즘 보는게 없어요ㅠㅠㅎㅎ 보시는거 있으세요?
+P1 	: 보이스4 얼마전에 봤어요ㅋ
+	  아니면 옛날드라마다시보기
+P0 	: 아 저도 예전 드라마 좋아해요ㅋㅋ
+P1 	: 혹 뭐 생각나시는 드라마 있으신가요?
+P0 	: 그렇게 옛날은 아니고 응팔 돌려봤어요ㅎㅎ
+P1 	: 아 응팔도 재밌었죠~~ 응답하라시리즈는 다 재밌었던거 같애요
+P0 	: 맞아요 ost도 다좋구요 ㅎㅎ
+P1 	: 말 나온김에 저도 다시 한번씩 봐봐야겠어요 ㅎㅎ
+P0 	: 요즘 새로 하는 드라마는 완결나야 보게되더라구요ㅎㅎ
+P1 	: 맞아요 ㅎㅎ 실시간으로 보는 일은 잘없어서..
+	  거의 정주행으로 ㅎㅎㅎㅎ
+P0 	: 실시간느로 보다가 내용이상해지면 완전 시간아깝기도 하구 ㅎㅎ

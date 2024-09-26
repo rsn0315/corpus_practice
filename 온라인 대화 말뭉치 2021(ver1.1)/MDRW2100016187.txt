@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네! 안녕하세요:)
+P0 	: 여행 좋아하시나요
+P1 	: 네네!! 좋아해요~~
+P0 	: 오 어디가보셨나요
+P1 	: 해외는 유럽쪽이랑 일본 중국 대만 홍콩이요ㅋㅋㅋ
+P0 	: 와 유럽 가보고싶어요
+P1 	: 저도 큰맘먹고 1년동안 알바하고 70일 정도 다녀왔어요ㅋㅋㅋ
+P1 	: 나중에 기회되면 다녀와 보세요!! 너무 좋아요
+P0 	: 코로나가 빨리 끝나야ㅠㅠ
+P1 	: 그쵸ㅠㅠ 코로나 때문에 지금 아무거도 못해서..
+P1 	: 국내 여행 가는거도 무서워요
+P0 	: 마자요 유럽 어디가젤 좋으셧나요
+P1 	: 저는 영국이랑 크로아티아랑 그리규 모로코도 다녀왔거든요! 모로코도 너무 좋았어요
+P1 	: 처음으로 별똥별 봤는데엄청 많이 떨어졌어요!!
+P0 	: 와부럽습니다!!
+P1 	: &name1&은 해외여행 가보셨나요?

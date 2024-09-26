@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨어요?
+P1 	: 네 아까 먹었어요!! &name1&님은 드셨나요?
+P0 	: 네 먹었어요ㅎㅎ 근데 맥주 마실까 고민중이에요 ㅋㅋ
+P1 	: 우와 맥주!! 고민말고 Go 하시죠!!!!
+P0 	: 네 저녁은 든든하게 먹어서 과자랑 맥주 고르려구요ㅎㅎ 저녁 뭐드셨어요?
+P1 	: 저는 간단하게 씨리얼에 우유요 점심에 고기먹었더니 저녁은 간단하게 먹었어요!!
+P0 	: 오 저녁 간단하게 먹어야 속이 편한데ㅋㅋ저는 맥주먹네요ㅠㅠㅠ좋아하는 맥주있으세요?
+P1 	: 저 테라, 칭따오, 타이거라들러레몬, 써머스비 좋아해요!!
+P0 	: 아 저도 칭따오 좋아하는데 타이거 써머스비 마셔봐야겠네요ㅎㅎ 곰표 드셔보셨어요?ㅎㅎ
+P1 	: 저 곰표 너무너무 먹어보고싶어요!!
+P1 	: 타이거랑 써머스비 달달하고 도수도 낮아서 음료처럼 마시기 좋아서 간단하게 마실때 주로 마셔요!
+P0 	: 도수 낮다니 좋네요ㅎㅎ 너무 쎈건 싫어서ㅎㅎ 사볼게요ㅎㅎ
+P1 	: 오징어톡 이라고 과자 맥주안주로 좋아요!! 추천합니다
+P0 	: 아 그거 완전 좋아하죠ㅋㅋㅋ통했네요ㅋㅋ

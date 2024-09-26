@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 여행 좋아하시나요?
+P1 	: 안녕하세요~ 네! 여행 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도 여행 좋아해요! 국내여행지 추천하실곳 있나요?
+P1 	: 움....국내는 비교적 덜 다닌 느낌이지만
+P1 	: 무릉계곡이랑 그 어디지 주변 해수욕장이었는데
+P1 	: 암튼 요기 여름에 가면 딱인 것같아요
+P0 	: 제주도는 방문한적 있으세요?
+P1 	: 네! 제주도 옛날엔 자주 갔었는데 요새 안갔어요ㅠ
+P1 	: 제주도 최근에 가셨나요?
+P0 	: 저도 시국이 시국인지라..ㅠㅠ 아쉽네요 가고싶은 해외여행지 있으세요?
+P1 	: 저는 스페인이나 브라질 이런 분위기의 나라에 가보고 싶어요
+P1 	: &name1&님은요?
+P0 	: 저도 남미쪽 아니면 그리스에 가고싶어요!
+P1 	: 그리스! 산토리니가 그리스 쪽이었던가요?
+P0 	: 맞아요 파랑과 하양의 조화ㅎㅎ
+P0 	: 방문해본 해외여행지 있으세요?
+P1 	: 움 부모님이랑 어릴때부터 여행을 많이 다녀서
+P1 	: 그나마 가장 최근에 다녀온건 유럽이에요ㅎㅎ
+P0 	: 부러워요! 가장 기억에 남는 여행지가 어디세요?
+P1 	: 음 파리요! 몸은 힘들었지만 눈이 정말 즐거웠어요
+P1 	: 힘들어서 기억나는 것도 없지 않아 있는 것같아요ㅋㅋㅋ

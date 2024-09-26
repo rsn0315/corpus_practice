@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100037201
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비오나요?
+P0 	: 네 하루종일 오네요
+P0 	: 그쪽도 비 오나요?
+P1 	: 여기는 아까 소나기 내리고 안오고있어요!
+P1 	: 새벽에는 비 많이 온다고 안내문자왔네요
+P0 	: 창 문 잘 닫고 주무세요!
+P1 	: 네! &name1&님도요!
+P1 	: 선풍기 틀고 자야하나 싶어요
+P0 	: 저는 기온이 많이 떨어져서 안 틀고 자려고요
+P0 	: 더우시면 약하게 틀어야겠네요
+P1 	: 네ㅠ 더위를 많이타서그런지 조금만 더워도 못자겠더라구요ㅠ
+P1 	: 한동안 선선해져서 좋았는데 비가온다니 슬퍼요
+P0 	: 이번주까지는 올 거 같아요
+P0 	: 가을이 비오다가 끝나면 너무 아쉬울 거 같아요...
+P1 	: 저두요.. 이렇게 보내기엔 가을이 넘 소중해요
+P0 	: 가을이 워낙 짧아서... 빨리 비가 그쳤으면 좋겠어요
+P0 	: 가을 좋아하시나요?
+P1 	: 넹! 봄 가을 좋아해요~~
+P1 	: &name1&님은요?
+P0 	: 젇도 가을 제일 좋아해요~ 시원해서 너무 좋아요
+P1 	: 맞아용 비만안오면 딱인데 말이죠

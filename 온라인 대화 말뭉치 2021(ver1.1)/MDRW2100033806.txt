@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 염색해보셨나요
+P0 	: 네 초딩때요ㅋㅋ
+P0 	: &name2&님은요?
+P1 	: 저는 자주하는 편이에요ㅎ
+P1 	: 탈색은 해보셨나요
+P0 	: 아니요~
+P1 	: 염색만 해 보셨구나 어떤 색 해보셨나요
+P0 	: 건강 챙기는 편이신가요?
+P1 	: 어  특별히 챙기는 건 없어요
+P1 	: 건강 챙기시는 편인가요
+P0 	: 운동 하시나요?
+P1 	: 어 ... 운동을 그 딱 좋아하지 않아서
+P0 	: 네 오래살고 싶어서요~
+P1 	: 운동 좋아하시나요
+P0 	: 좋아하는 편은 아니예요

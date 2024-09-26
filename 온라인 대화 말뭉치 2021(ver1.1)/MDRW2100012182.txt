@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012182
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 네 좋아해요
+P0 	: 님은요?
+P1 	: 네 저두요~! 어디가 기억에 남으시나요
+P0 	: 전 태국이요~~
+P1 	: 오 저도 태국 가봤어요~^^
+P0 	: 전 푸켓
+P0 	: 님은여?
+P1 	: 저는 방콕.푸켓이요!
+P0 	: 파타야도 갔는데 거긴 별루
+P1 	: 신혼여행은 어디가셨나요?
+P0 	: 푸켓요~
+P1 	: 아 신혼여행지였군요^^
+P0 	: 네ㅋ 환락의 도시
+P1 	: 태국이 음식들이 입맛에 잘 맞더라구요^^

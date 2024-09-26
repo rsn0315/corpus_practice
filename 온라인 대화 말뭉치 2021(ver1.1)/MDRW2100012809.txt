@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100012809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 보는거 좋아하세요?
+P1 	: 좋아하는데 지방이라 기회가 없었어요ㅠ
+P1 	: &name1&님은 자주보러 다니셨나요?
+P0 	: 저도 지방살아요
+P0 	: 요즘은 아니고 예전에 아이유랑 해외 연예인 내한 콘서트 다녔어요~
+P1 	: 와 아이유! 진짜 티켓팅 엄두도 안나요ㅠ
+P1 	: 와 내한콘서트도 가보면 만족도 장난아니라고 하더라고요
+P0 	: 비싼 값을 하더라고요
+P0 	: 자본의 맛 제대로
+P0 	: 뮤지컬 보신적 있으세요?
+P1 	: 오 없어유..
+P1 	: 물어보시는거 다 없어서 머쓱한
+P1 	: 자본의 맛이 그리좋군여...
+P0 	: 저도 없어요ㅋㅋ
+P1 	: 뮤지컬은 어떤거 보셯
+P1 	: 아하
+P0 	: 연극 본적 있으신가요?
+P1 	: 뭔가 콘서트는 현장감이 장난아니더라고용
+P1 	: 없다고..말한다면..
+P1 	: 대홧거리가 넘 안생기죠ㅠㅠ
+P1 	: 연극은 혜화 갔을때 보려다 마땅한게 없어서 안봤었어유!
+P0 	: 만들면 되죠ㅎㅎ
+P0 	: 전시회 보신적있으신가요?
+P1 	: 네 전에 상상마당 가서 사진전? 본 적 있어요
+P1 	: 가끔 서울가면 박물관이나 미술관 가보는거 좋아해요!
+P1 	: &name1&님은 문화생활 자주 하시나봐요!
+P0 	: 과거형이에요
+P0 	: 했었어요ㅋㅋ

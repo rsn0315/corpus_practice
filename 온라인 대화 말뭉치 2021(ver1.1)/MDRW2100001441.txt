@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001441
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요 :)
+P1 	: &name1&님 점심시가는 하셨나요~? ㅎㅎ
+P0 	: 네 잘 먹고 왔습니다. &name2&님도 점심 드셨나요?
+P1 	: 앗 네! 저도 식사하고 왔습니다 ㅎㅎㅎ
+P1 	: 어떤 메뉴 드셨나요? ㅎㅎ
+P0 	: 짬뽕 먹었습니다ㅎㅎ
+P0 	: &name2&님은 어떤 음식 드셨나요?
+P1 	: 저는 오늘 간단하게 빵을 먹었습니다...! ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되시나요~?
+P0 	: 조깅하는걸 좋아하는데
+	  요즘 코로나 때문에 자주는 못하네요
+P1 	: 게다가 마스크를 끼고 해야하니까 답답할 것 같아요 ㅠ
+P1 	: 저는 게임을 좋아하는데 &name1&님 혹시 하시는 게임 있으신가요?ㅎㅎ
+P0 	: 아니요.. 게임 하고 싶네요..
+P0 	: 아직 아기가 어려서 참고있는 중입니다 ㅎㅎ
+P1 	: 앗 그렇군요..! 넘 좋으신 아버지 같아요 ㅎㅎㅎ
+P0 	: 감사합니다. 고생 많으셨습니다.

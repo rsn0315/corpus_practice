@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009802
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P0 	: 여행좋아해요?
+P0 	: 여행좋아해요?
+P1 	: 네 님은?
+P0 	: 저도
+P1 	: 어디 가보셨어요?
+P0 	: 호주요
+P1 	: 우와
+P0 	: 오페라하우스봤어요
+P1 	: 저도 가고싶네요 ㅎㅎ
+P1 	: 멋있겠다
+P0 	: 외관만 좋더라구요
+P1 	: 아 안에는 별로였나요?
+P0 	: 네 걍 그랬어요
+P1 	: 안타깝군요
+P1 	: 다른곳은요?
+P0 	: 브리즈번이요

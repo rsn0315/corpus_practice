@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211102
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+	  요즘 즐겨하시는 취미 있으신가요? 코로나 때문에 집에서 혼자 즐길 수 있는 취미 있으면 추천해주세요
+P0 	: 네 저는 수학공부가 취미예요
+P1 	: 오 신기하네요! 언제부터 취미를 가지셨나요?
+P0 	: 1~2개월 전부터요
+P1 	: 취미를 가지게 된 계기가 있으신가요?
+P0 	: 네 시험때문에 그러한 취미가 생겼어요
+P1 	: 아~ 어떤 시험을 보시나요?
+P0 	: 학교시험이요
+P1 	: 앗! 학생이시구나! 그럼 다른 과목은 공부안하시나요?
+P0 	: 아뇨 다른 과목도 시험기간에는 공부해요
+P1 	: 그럼 그냥 수학공부를 꾸준히 하시는건가보군요 ㅎㅎ!
+P1 	: 수학공부 열심히하셔서 시험 잘 보길 응원할게요 :)
+P0 	: 고마워요

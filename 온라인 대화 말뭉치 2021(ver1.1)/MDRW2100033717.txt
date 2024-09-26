@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100033717
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이상형이 어떻게 돼요?
+P1 	: 이상형 다정하고 자기할일 잘하는 사람이요
+P1 	: &name1&님은요?
+P0 	: 저도요 착한사람
+P0 	: 그리고 잘생긴 사람이요 크크
+P1 	: 연애중이신가요?
+P0 	: 아니요
+P0 	: 연애중이세요?
+P1 	: 네 연애중이예요
+P1 	: &name1&님은 동갑 연하 연상중에 누가 좋으세요?
+P0 	: 전 연하요 ~~~~
+P0 	: &name2&님은요?
+P1 	: 동갑이요
+P0 	: 오호 지금 연애중이신 분이 동갑인가요?
+P1 	: 네! 여태 연상 연하 다만나봤는데
+P1 	: 저는 동갑이 좋아요
+P0 	: 오호 사람마다 취향이 다르니까요!
+P1 	: 그럼요! 사람 100명있으면 100가지 취향이 있죠
+P0 	: 맞아요 ㅋㅋㅋ ㅋㅋㅋ
+P0 	: 연예인으로 이상형이 있나요?
+P1 	: 제가 연예인에 관심이 없어서...
+P1 	: 생각나는 사람이 없어요ㅋㅋㅋ
+P1 	: &name1&님은요? 엔시티 멤버인가요?
+P0 	: 음 요새는
+P0 	: 오상욱 선수요
+P0 	: 키와 몸이 좋더라구요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033968
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요~^^  저는 전업 이에요~
+P0 	: 그러시군요 이전에 하시던 일이나 아르바이트 있으신가요
+P1 	: 예전에는 사회복지사였어요~
+P0 	: 그러셨군요 일은 적성에 맞으셨어요?
+P1 	: 네. 그래서 한직장에서 10년가까이 했는데 결혼하고 관뒀어요
+P0 	: 결혼하고는 육아때문에 그만두신걸까요?
+P1 	: 네ㅡ오래일하기도 했고 쉬고 싶어서
+P0 	: 그럼 지금 쉬시는것에 만족하시나요?^^
+P1 	: 네~  워킹맘은 자신이없네요ㅋ
+P0 	: 맞아요 워킹맘 쉽지 않죠 ㅠㅠ
+P1 	: 상 줘야 해요ㅠㅠ전못할듯요
+P0 	: 저도 휴직을 길게 하는중인데 복직할 생각하니 걱정이네요^^
+P1 	: 언제요,ㅠ
+P0 	: 내년 복직 예정이요~^^

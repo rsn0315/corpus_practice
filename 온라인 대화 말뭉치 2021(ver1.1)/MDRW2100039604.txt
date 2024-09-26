@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100039604
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요저녁드셨나요?!
+P1 	: 아직이요 배달 주문해서 기다리고 있어요ㅎㅎ
+P0 	: 헉
+P1 	: ?왜 놀라셨죠?
+P0 	: 부러워서요
+P1 	: 앗 그런거였군요
+P0 	: 네ㅋㅋ감탄이었어요
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: 저는 9시에 먹을예정이에요
+P1 	: 저녁식사가 좀 늦으신편이네요ㅜㅜ
+P1 	: 배 안 고프시나요?
+P0 	: 요즘좀늦게먹는것같아요ㅠ
+P0 	: 슬슬 허기지네요!
+P1 	: 이제 30분 있으면 9시니까 곧 드시겠어요!
+	  저녁 메뉴 정하셨나요?
+P0 	: 꿔바로우먹을겁니다 ^-^
+P1 	: 오 꿔바로우!
+	  저 아직 꿔바로우 안 먹어봤는데, 요즘 궁금해지고 있어요

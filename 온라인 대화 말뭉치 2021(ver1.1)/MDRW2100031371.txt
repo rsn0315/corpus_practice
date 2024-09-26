@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031371
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 화장 잘하세요?
+P0 	: 아뇨 손재주가 없어서요
+P0 	: &name2&님은 어떠신가요?
+P1 	: 저도 잘 못해요~
+	  잘하시면 화장 기술 좀 전수 받고 싶었는데~ㅎ
+P0 	: 손재주 타고난 사람이 부럽더라구요
+P1 	: 전 피부 타고 난 사람이 제일 부러워요~
+P0 	: 맞아요 관리 안 해도 타고나는 사람이 있더라고요
+P1 	: 요즘 마스크 껴서 화장 진짜 간단하게 하는 편인데~
+	  제 아는 사람은 선크림만 발랐는데 화장한 줄 알았어요~
+P0 	: 와 정말 피부가 좋으신가봐요 부럽네요
+P1 	: 진짜 부러웠어요~
+	  뭐 먹는다고 마스크 잠시 벗었는데 화장품이 하나도 안묻어 있길래 뭐 쓰냐고 물어봤더니 선크림만 발랐다고 해서 충격이었어요
+P0 	: 피부 금수저인가봐요 전 잡티가 잘 생겨서요 ㅠ  유전인 것 같아요
+P1 	: 전 여름에 타면 겨울이 지나야 조금 하얘지는 것 같아요~
+	  회복하기 까진 너무 없어 보여서 속상해요~
+P0 	: 타면 오래가시나봐요 혹시 미백크림 바르시나요?
+P1 	: 미백크림 발라도 전 효과가 미비하네요
+P0 	: 화장품보다는 역시 피부과가 답인가봐요 ㅠ

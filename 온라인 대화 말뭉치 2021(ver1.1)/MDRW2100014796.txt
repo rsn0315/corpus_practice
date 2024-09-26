@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014796
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 공연 보는거 좋아하세요?
+P0 	: 네 난타나 뮤지컬 보는거 좋아해요 지금은 코로나 때문에 보러 못가지만요..
+P0 	: 공연보는거 좋아하시나요?
+P1 	: 요즘엔 안봐요
+P1 	: 난타 스트레스 풀리겠어요
+P0 	: 맞아요
+P1 	: 전시회 보셨나요?
+P0 	: 아니요 전시회 보셨나요?
+P1 	: 로뎅 전시회본적있어요
+P0 	: 오 어땠나요?? 저는 전시회 한번도 안가봤거든요..
+P1 	: 기대보다는 별로였어요
+P0 	: 앗 그러셨군요.. 뮤지컬 보셨나요?
+P1 	: 아니요

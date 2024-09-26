@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100020465
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 커뮤니티 활동하시는거 있으신가요?
+P1 	: 가입된 곳은 없어요^^
+P0 	: 관심있으신곳은 있나요??
+P1 	: 아뇨~ &name1&님믄 커뮤하세요?
+P0 	: 아뇨ㅎㅎ 저는 가끔 판에 들어가서 글 읽기만 해요
+P1 	: 아 판~ 저 가끔 봐요 그것도 커뮤인건가요? ㅎㅎ
+P0 	: 엇 저는 커뮤라고 생각했어요ㅎㅎ
+P1 	: 그게 커뮤라면 저도 하고 있는거네요 ㅎㅎ
+	  매일은 아니지만 가끔 봐요
+P1 	: 무슨 카테고리 보세요?
+P0 	: 저는 종합순위로 보고 있어요!
+P0 	: 베스트전당을 많이 보게 돼요ㅎㅎ
+P1 	: 아~ 전 시친결이요 ㅋㅋ
+P0 	: 아ㅋㅋ 그쪽이 재밌고 현실감 있으면서도 없더라구요
+P1 	: ㅋㅋㅋ 막장 드라마 저리가라죠
+	  소설 읽는 기분으로 보고 있어요
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 저도 그렇게 보고 있어요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027897
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 패션이나 미용에 관심이 있으신가요?
+P1 	: 안녕하세요
+P1 	: 요즘 머리 염색하고 싶어요
+P0 	: 헉 어떤 색으로 염색하고 싶으신가요?
+P1 	: 밝은 계열로 하고 싶은데 탈색해야해서 고민이에요
+P0 	: 앗.. 탈색이 고민이죠.. 저도 탈색한 적이 있는데 무서워서 미용실에서 했었어요.
+P1 	: 오 탈색하고 무슨 색으로 염색하셨어요?
+P0 	: 애시 브라운도 해본적 있구 빨간색으로도 해본 적 있어요!
+P1 	: 애시 브라운! 그거 제 워너비 색이에요
+P1 	: 어땠나요?
+P0 	: 미용실에서 해서 완전 예쁘게 나왔어요! 아쉽게도 3주 쯤 지나니까 좀 색이 옅어지긴 했지만..
+P1 	: 애시가 빨리 빠진다더니...
+P1 	: 보색 샴푸 그런거 쓰셨나요?
+P0 	: 아뇨 그게 벌써 몇년 전이라 잘 몰라서 그때는 못썼어요 ㅋㅋㅋ ㅜㅜ
+P1 	: 그런데도 삼주나 있었우면 정말 오래 버텼네요
+P0 	: 맞아요.. 이정도면 아주 양호한! 새로운 경험이라 색은 빠졌어도 만족했어요!

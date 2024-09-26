@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑좋아하시나오?
+P0 	: 네 좋죠
+P0 	: &name2&님은요
+P1 	: 네 좋아해요~ 근대 자제중이에요 너무 지출이 많네요
+P0 	: ㅜㅜㅜㅜ여행못가는데 지출은 똑같은 상황ㅜㅜㅜ
+P1 	: ㅎㅎㅎ맞아요 집밖에 잘안나가는데 지출은 줄지는 않네욥
+P0 	: ㅋㅋ카드를 잘라야하나봐요
+P1 	: 인터넷쇼핑애 카드 등록하면 너무 쉽게 결제되서 더 많이쓰게되는거같어요
+P0 	: 네이버페이나 카카오도 ㅋㅋ 슉슉나가요ㅜ
+P1 	: 맞어요 네이버페이 카카오
+P1 	: 쿠팡!
+P0 	: 쿠팡은 안써요
+P0 	: 문제많이 터지더라구요
+P1 	: 저도 초반엔 많이 주문했는데 먼가 과소비하는거 깉아서 잘 주문안하게 되었어요
+P0 	: ㅜㅜ택배가 많아지고 카드가 가벼워지네요~^^
+P1 	: ㅋㅋ저도 오늘 택배 박스 엄청 정리했어요
+P1 	: 쓰레기랑 같이 받는 기분이에요
+P0 	: ㅜㅜㅜㅜ휴 문제네요 아이스팩두 글쿠ㅜㅜ
+P1 	: 너무 편한데 그렇죠ㅋㅋ 매번 처리하기 곤란하네여
+P0 	: ㅋㅋ 쓰레기가 문제가많네요

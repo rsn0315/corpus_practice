@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017641
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 허니콤보와 신전 로제 먹었어요! &name1&님은요?
+P0 	: 저 된장국 먹었어요ㅎ
+P0 	: 배달시켜먹으려했는데..반대에 부딪혀ㅎ
+P0 	: 허니콤보 어땠나요
+P1 	: 제가 간장베이스를 좋아해서 맛나게 먹었어요ㅋㅋㅋ 다리만 골라 먹었네요ㅎㅎ
+P0 	: 다리좋아하시는구나
+P0 	: 전 날개좋아합니다 ㅎ
+P0 	: 로제는 어떠셨어요
+P1 	: 신전 로제가 떡에 소스가 잘 배어 맛있더라구요ㅎㅎ 적당히 꾸덕하고 진해거 맛나게 먹었어요!
+P0 	: 사리 추가 뭐 더 하신거있으신가요
+P0 	: 음 소세지나 메추리알이나 취향 아니시려나
+P1 	: 치킨을 시켜서 사리 추가는 안 했어요! 원래는 중당 좋아해요ㅎㅎ
+P0 	: 중당 넣으면 되게 맛있는데  ㅎ
+P0 	: 음료는 어떤거 드셨나요
+P0 	: 콜라? 사이다?
+P1 	: 사이다 좋아하는데 이번엔 콜라로 시켰어요ㅠ
+P0 	: 왜요?
+P0 	: 이유가 있나요
+P1 	: 동생이 시켜서요...ㅠㅠㅠㅠ
+P0 	: 아..하...?
+P0 	: 결정권이 동생에게 있었군요ㅠㅠ
+P0 	: 아쉬우셨겠어요
+P1 	: 항상 사이다였으니 이 번만 봐주려구요..ㅎㅎ

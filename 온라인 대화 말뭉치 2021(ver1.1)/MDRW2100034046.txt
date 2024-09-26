@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034046
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 점심은 어떤거 드셨어요?
+P1 	: 샐러드와 크로와상 먹었어요
+P0 	: 오 맛있겠네요 ㅎㅎ !
+P0 	: 어떤 샐러드 드셨어요?
+P1 	: 닭가슴살 샌드위치 먹었어요
+P0 	: 지금 다이어트 하시나요 ??!
+P1 	: 아뇨! 집에 있어서 들고 왔어요ㅋㅋ
+P0 	: 아아 ! 저도 샌드위치 좋아하는데
+P0 	: 주변에 샌드위치 맛집이 없네요 ㅋㅋ
+P1 	: 저도 코스트코에서 사온거예요!
+P0 	: 오오 코스트코꺼 맛있나요??
+P1 	: 가성비있고 괜찮아요!
+P0 	: 담에 먹어봐야겠네요! 코스트코에서 거의 초밥만 먹은거 같아요 ㅋㅋ
+P1 	: 코스트코 치즈케익도 맛있죠ㅋㅋ
+P0 	: 아 맞아요 ! 맛있고 완전 가성비 있죠 ㅋㅋ
+P0 	: 베이글 종류도 꽤 괜찮았어요 ㅎㅎ

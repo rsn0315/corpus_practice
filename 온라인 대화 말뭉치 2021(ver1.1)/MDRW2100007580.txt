@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100007580
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가고싶은곳있어요?
+P0 	: 국내해외
+P0 	: 최근에 다녀온곳있어오?
+P1 	: 음 남미쪽을 가보고 싶어요
+P0 	: 남미요?
+P0 	: 특이하다
+P0 	: 왜요?
+P1 	: 남미 대륙은 아예 한번도 안가봐서
+P1 	: 한번 가보고 싶어요
+P0 	: 저도 안가봤는데 진작에 많이갈걸그랬어요
+P1 	: 그러게요 코로나가 올지 몰랐는데ㅠ
+P0 	: 터키준비하다가 코로나터져서 못갔어요ㅋㅋ
+P1 	: 헉 정말 아쉬우셨겠어요
+P1 	: 터키가면 어디 가려고 하셨나요?
+P0 	: 남편이 준비한거라 잘 모르겠네요
+	  칄발만 했으면됬는데
+P0 	: 나중에 가면되지 하고 말았는데
+P0 	: 코로나가 이렇게 길어질지몰랐어요
+P1 	: 그러게요 전 터키하면 터키.아이스크림밖에 몰라서ㅠ
+P0 	: 앜ㅋㅋㅋㅋ 진짜 오랜만에 들어요
+P0 	: 여행가면 꼭 사오는거있어요?
+P1 	: 음 저는 열쇠고리요
+P0 	: 특이하네요
+P0 	: 저는 자물쇠를 국내해외 다 달고와요ㅋㅋ
+P0 	: 하트자물쇠

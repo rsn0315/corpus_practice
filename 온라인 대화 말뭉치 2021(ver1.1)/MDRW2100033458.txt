@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동아리 활동을 하신 적이 있으신가요?
+P0 	: 동아리 활동해 본 적 없어요
+P0 	: 동아리 활동해 본 적 있으신가요
+P1 	: 학생 때 신문 동아리을 했었어요
+P0 	: 신문 동아리라니 너무 멋져요
+P0 	: 신문 동아리는 주로 무슨 일을 하나요
+P1 	: 학교 내의 크고 작은 이슈를 분류하고 글을 써서 선생님께 컨펌을 받고 양식에 맞게 편집해서 프린트해요
+P0 	: 되게 재밌었겠어요
+P0 	: 기억남는 이슈가 있나요
+P1 	: 좀 예전이라 정확하진 않지만, 학교 체육대회에서 3관왕을 한 반이 있어서 인터뷰를 했던 것 같아요
+P0 	: 삼관왕이 아니 대단하네요
+P0 	: 3관왕이라니 대단하네요
+P1 	: 그 반에 체육계 애들이 많았던것 같아요
+P0 	: 동아리 활동하면서 힘들었던 적은 없나요
+P1 	: 아무래도 주기적으로 신문을 구상해야 하는 부분이 힘들었어요
+P0 	: 아무래도 그렇겠죠? 약간 컨텐츠 같은 걸 짜내야 하니까
+P1 	: 스트레스를 좀 받았어요

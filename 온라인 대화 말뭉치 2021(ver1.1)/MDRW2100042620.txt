@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042620
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 보통 쇼핑은 인터넷쇼핑을 많이 하시나요?
+P0 	: 네 인터넷으로 주로 사요
+P1 	: 저도 인터넷 쇼핑을 주로해요 최근엔 핸드폰을 구매했어요
+P0 	: 와 플립사셨나요??
+P0 	: 어떤거 사셨어요??
+P1 	: 플립라벤더요! 근데 인터넷 구매라고 다 빠른건 아니더라구요  좀 늦게 받았어요
+P0 	: 이쁘겠다ㅠㅠㅠㅠ
+P1 	: 인터넷으로 구매하면 직접 볼수없어서 좀 개인적으로는 도전이였는데 진짜이쁘더라고요 ㅎ
+P0 	: 실물 한번도 안보고 사신거에요? 하긴 저도본적은 없는데 ㅠ 구매도 안했지만 ㅎㅎ
+P1 	: 집근처 대리점에 모형도 크림색뿐이라 좀 고민했었어요
+P0 	: 아 크림이 좀 무난하긴 한데 라벤더도 이쁘죠ㅠ
+P1 	: 그쵸 ㅋㅋ 그리고 라벤더가 이쁜거에 BTS효과로 더 많이 나가는거 같다고 하시더라구요
+P1 	: 인터넷 후기도 다 이쁘다고 하고 그래서 그냥 구매했어요 ㅎㅎ
+P0 	: 왜요>?
+P0 	: 라벤더를 들고 광고를 찍었나요??
+P1 	: 친구가 하는말이 비티에스 팬들 용어? 이런거에 보라해=사랑해 이런뜻이라고 하더라구요
+P0 	: 아 들은것 같네요

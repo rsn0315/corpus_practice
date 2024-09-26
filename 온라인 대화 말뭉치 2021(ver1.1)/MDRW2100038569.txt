@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100038569
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 해보셨나요
+P0 	: 네:) 중고나라랑
+	  당근마켓 해봤어요
+P0 	: 중고거래 경험 있나요?
+P1 	: 저는 한번도 안해봤어요
+P1 	: 찜만 해놓고요ㅋㅋ
+P0 	: 아 찜만 해두셨었군용ㅋㅋ
+P1 	: 아무래도 직거래가 좋아보이지만
+P1 	: 나갈 용기가 없어서요
+P0 	: 요샌 코로나 때문에
+	  비대면 거래도 많아요:)
+P0 	: 불편하심 비대면 거래로
+	  해보세요 ^^
+P1 	: 비대면으로 하면 택배로 하는건가요?
+P0 	: 아니요:)
+	  당근같은 경우는
+	  거의 동네거래라서
+P0 	: 판매자분 사는 곳에서
+	  거래가 이루어지는데
+	  집앞에 두시는 거에요:)
+P1 	: 와 그런 방법도 있군요
+P0 	: 네:) 비대면이
+	  좀 편하긴 하죵ㅋㅋ
+P1 	: 대신 집주소를 알려줘야하는군요
+P1 	: 요즘 그러면 무섭지 않아요?
+P0 	: 그렇게 생각하면
+	  택배도 제 주소로 받는거니까요ㅠ
+P0 	: 요즘 무섭긴 하죵
+P1 	: 안전한 거래가 없네요
+P1 	: 당근은 온도로 확인하죠?
+P0 	: 넹:) 저는 온도 보고 거래해요

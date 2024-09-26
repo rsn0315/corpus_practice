@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100029927
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는
+P0 	: 퇴근하고
+P0 	: 미용실간답니다
+P0 	: 혼자
+P0 	: 총총총
+P1 	: 머하세요
+P0 	: 파마함니당
+P0 	: 남치니랑
+P0 	: 내년에
+P0 	: 같이살면
+P0 	: 운동할꼬에여
+P0 	: 껌딱지
+P1 	: 무슨운동?
+P0 	: 숨쉬기운동
+P0 	: 가티할꺼에여
+P1 	: 귀엽네요
+P1 	: 수영 하세요
+P0 	: 물개입니다
+P1 	: 퇴근하셨나요
+P1 	: 미용실가세요?
+P0 	: 아직욤
+P0 	: 미용실가고잇어욤
+P1 	: 파마하세요?
+P0 	: 파마하는중임다
+P0 	: &name2&님 식사하세요
+P1 	: 네
+P1 	: 잘하세요
+P0 	: 몸무게도 재보세욥
+P1 	: 머리다했나요
+P0 	: 네
+P0 	: &name2&씨 몸무게재보셧나요
+P1 	: 82입니다

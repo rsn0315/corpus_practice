@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029448
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 책읽는거 좋아하시나요
+P1 	: 네 아주 좋아해요
+P0 	: 재밌게 읽으신 책 추천해주세요
+P1 	: 저는 지금은 고인이 된 박완서 작가의 모든 작품을 참 좋아해요
+P0 	: 싱아가 박완서 작가 작품이었나요
+P0 	: 그 많던 싱아는 누가 다 먹었을까
+P1 	: 맞아요맞아요
+P0 	: 제목만 알고 읽어본 적은 없네요ㅠ
+P1 	: 재밌어서 정말 술술읽혀요
+P1 	: 한번 꼭 보셔요
+P0 	: 다음번에 도서관 들릴 때 한번 볼게요
+P1 	: 네 후회 없을 거예요
+P1 	: 도서관에 자주 가세요
+P1 	: ?
+P0 	: 가끔 읽고 싶은 책 생기면 가요
+P1 	: 부지런하시네요

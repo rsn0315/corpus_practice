@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020828
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 공연이나 전시 보는거 좋아하세요?
+P1 	: 전시회는 가끔 찾아봐요
+P1 	: 최근 보러가신거 있나요?
+P0 	: 아 보러가고싶은게 있었는데 못봤어요 ㅠㅠ
+P1 	: 그래요? 어떤거에요?
+P0 	: 요시고 사진전이요!
+P0 	: 갔더니 대기가 3시간이더라구요 ㅠ
+P1 	: 아ㅠㅠ 너무 기네요
+P1 	: 요샌 시국때문에도 가보기가 어려워요
+P0 	: 맞아요 인원 수 제한도 있고 조심스럽더라구요 ㅠ
+P0 	: 가장 좋았던 전시 있으세요?
+P1 	: 예전에 지브리 전시 본적 있는데
+P1 	: 신기하더라구요ㅋㅋ
+P0 	: 오 그렇군요 저는 픽사전시 기억에남아요! 우디랑 버즈 모형잇구 그러더라구요 ㅋㅋㅋㅋ
+P1 	: 재밌을 거 같아요. 보고싶네요ㅋㅋ
+P1 	: 피카소 전시도 가보고싶었는데 결국 못 갔어요
+P0 	: 아아 저두여 ㅠㅠ 예전에 고흐전인가 그것두요
+P0 	: 전시일정같은거 자주 찾아보세요?
+P1 	: 자주는 아니지만 가끔씩 찾아보는 편이에요
+P0 	: 저는 지방이라 전시가 많이없어서 아쉬워요

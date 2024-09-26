@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010704
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 도서관에 종종 가세요?
+P0 	: 도서관도 가구ㅎㅎ 서점도 가는 편이에요ㅎㅎ
+P1 	: 서점 가본지도 좀 된 것 같아요. 요즘엔 온라인으로 주문하니까
+P0 	: 네 근데 저는 가서 구경하고 그때그때 맘에 드는책 사는것도 재믺더라구요
+P1 	: 최근에는 어떤 책을 사셨나요?
+P0 	: 소년이 온다 인데 읽지는 못했어요ㅠ 시간이 없어서
+P1 	: 오 한강. 저도 읽어보고 싶다고 생각만 하고 안 읽었네요
+P0 	: 저도 주변에서 추천해서 샀는데 왠지 각잡고 읽어야할거같아서..ㅜ
+P1 	: 각잡고 책 읽어본지 꽤 된 것 같아요 ㅎㅎ 요즘 주로 이북만 봐서
+P0 	: 맞아요 이북 뭐보세요? ㅎㅎ 저도 이북리더기는 있는데 안보네요 ㅠ
+P1 	: 와 이북리더기도 사셨군요. 어때요?
+	  전 그냥 장르소설 봐요.
+P0 	: 추천은 안해드려요ㅠㅠ개인적으로 별로에요ㅠㅠㅋㅋ
+P1 	: 가격도 꽤 나가더라구요 ㅠ

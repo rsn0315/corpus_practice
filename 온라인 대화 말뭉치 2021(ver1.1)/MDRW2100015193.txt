@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015193
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집 찾아다니는거 좋아하세요?
+P0 	: 전 맛집 보다는 간 집에 만족하려고 하는 편이에요! &name2& 님은 맛집 찾아다니는 거 좋아하시나요?
+P1 	: 오 현명하시네요 저는 기다리는걸 못하겠어서 그냥 대충 먹어요ㅠㅋㅋㅋ
+P1 	: 좋아하시는데 있으세요?
+P0 	: 아뇨 딱히 없어요 가게에 가기보다는 배달음식을 더 좋아하는 편이에요ㅋㅋㅋ
+P1 	: ㅋㅋㅋ 저두요 너무 귀찮아요 배달 음식중에 여태껏 가장 많이 주문하신 메뉴는 뭐에요?
+P0 	: 전 치킨이요!
+P1 	: 오 얼마나 자주 드세요?
+P0 	: 한 한달에 두 번은 시키는 것 같아요 &name2& 님은 뭐 가장 많이 시켜 드시나요?
+P1 	: 저는 쌀국수 제일 많이 시켜먹어요 저도 거의 한달에 두세번? 아니면 초밥이요!
+P0 	: 오 쌀국수는 어디거 많이 드세요?
+P0 	: 저도 쌀국수 좋아하는데 쌀국수는 가게 가서 먹어야 맛있더라구요ㅋㅋㅋ
+P1 	: 저는 제일 빨리 오는데걸로 시켜먹어요! 어지간하면 다 맛있더라구요ㅋㅋㅋ 쌀국수는 진짜 가서 먹어야 배로 더 맛있는것 같아요ㅠㅠㅠㅠ 완전 뜨끈뜨끈하게
+P0 	: 맞아요ㅋㅋㅋ 쌀국수 드실 때 다른 메뉴도 드시나요? 전 분짜도 좋더라구요ㅎㅎ

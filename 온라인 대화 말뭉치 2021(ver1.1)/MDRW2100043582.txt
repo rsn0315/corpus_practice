@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 누구 꺼
+P0 	: 내꺼 ㅋㅋ엄마도 필요하나
+P1 	: 필요하다
+P0 	: 왜 집에 많잖아
+P1 	: 다 노래졌다
+P0 	: 그건 뭐 어쩔수없지..ㅋ
+P1 	: 너는 왜 사려고 하는데
+P0 	: 안 폭신폭신해서 ,,ㅎㅎ
+P1 	: 집에 폭신폭신한 거 많다
+P0 	: 이쁜게 없잖아~
+P1 	: 이쁠 필요가 뭐 있어
+P0 	: 그렇긴 하지만..ㅋ
+P1 	: 이쁘면 좋긴 하지
+P0 	: 구래 ㅋ 잘때 기분이 좋잖아
+P1 	: 하나 사

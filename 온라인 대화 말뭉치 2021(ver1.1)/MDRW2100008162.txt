@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100008162
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 여행 좋아하나요
+P1 	: 저오늘떠나요공항으로
+P1 	: 핸드폰꺼둬요
+P0 	: 제발 날 찾지 말아줘
+P0 	: 여행지로 추천해줄 곳이 있나요
+P1 	: 여수가봤니
+P1 	: 여수밤바다
+P0 	: 아니 좋니
+P1 	: 좋으니 사랑해서
+P1 	: 사랑을 시작할때~~
+P0 	: 정신차리세요
+P1 	: 여수좋야요
+P1 	: 한번가보셔요
+P1 	: 남해음식드셔요
+P0 	: 네 놀러가면 기념품 사와야하는데
+P1 	: 거북선빵
+P0 	: 선물로 사올만한 게 있을까요
+P1 	: 맛있어요
+P1 	: 꿀빵추천
+P0 	: 추천 감사합니다
+P0 	: 전 여행지로는 보성이 좋은데
+P0 	: 기념품은 다 녹차라서 안 좋았어요
+P1 	: 보성안가봄
+P0 	: 가지마세요
+P1 	: 보성좋죠?
+P0 	: 녹차 밖에 없어요

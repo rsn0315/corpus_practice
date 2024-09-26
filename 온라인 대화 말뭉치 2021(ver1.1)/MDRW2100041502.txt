@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하세요?
+P1 	: 자주 보러가는 편이에요
+P0 	: 아 극장에 자주 보러 가세요? 그럼 혹시 가장 최근에 보신 영화 제목 물어봐도 될까요?
+P1 	: 최근에 3주 연속으로 봤어요ㅋㅋㅋ
+P1 	: 싱크홀 인질 올드요
+P0 	: 와 다 진짜 보고 싶었던 건데 어떠셨어요??
+P1 	: 개인적으로는 싱크홀이 제일 나았어요
+P1 	: 코미디를 좋아해서요
+P0 	: 아 싱크홀 코미디 요소가 강한가봐요 재난 영화인 줄 알았는데
+P1 	: 재난이긴 한데 베이스로 코미디를 깔고 가요!
+P0 	: 헉 재밌겠다
+P0 	: 뮤지컬이나 연극은 종종 보세요?
+P1 	: 돈내고 본 적은 없어요ㅎㅎ 이제 슬슬 한번 보고 싶네요
+P1 	: 다람님은요?
+P0 	: 저는 연극 한 번 본 적 있는데 인형의 집이었던 것 같아요 제목이
+P1 	: 오, 그 유명한 소설인가요
+P0 	: 아 아시는구나 네네 친구랑 같이 보러 갔는데 좋더라구요
+P1 	: 소극장이었나요?
+P0 	: 네 소극장이었던 것 같아요 사실 코로나 전에 봤었던 거라 기억은 잘 안 나지만
+P1 	: 아하, 좀 지난 얘기군요
+P1 	: 옙

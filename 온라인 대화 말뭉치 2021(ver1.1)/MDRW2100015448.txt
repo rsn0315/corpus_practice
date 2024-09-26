@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015448
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니여
+P0 	: 오늘 하루종일 비가 안 왔나요?
+P1 	: 네 맞아요
+P0 	: 지역마다 날씨차가 심하네요
+P1 	: 작은 나라에서 그러네여
+P0 	: 스콜성 폭우도 그렇고 점점 날씨가 이상해져요
+P1 	: 기상기후죠
+P0 	: 올 겨울은 또 어떨지 벌써부터 걱정이 되네요
+P0 	: 여름이 많이 더우면 겨울도 많이 추워서
+P1 	: 으 안되
+P0 	: 더위  추위 뭐가 더 싫으신가요
+P1 	: 더위요
+P1 	: 땀이 장난아니죠
+P0 	: 아 저는 추위요. 껴입어도 감당이 안돼요ㅜ
+P0 	: 그럼 여름보다는 겨울이 그나마 나으시겠어요
+P1 	: 그런가요

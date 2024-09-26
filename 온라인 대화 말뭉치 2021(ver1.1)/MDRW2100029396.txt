@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100029396
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 계절 있나요?
+P1 	: 안녕하세요^^  전 겨울이 좋아요.
+	  &name1&은 여름을 좋아하실거 같네요?
+P0 	: 그래요? 전 여름도 나쁘지 않지만 가을을 가장 좋아한답니다
+P0 	: 단풍을 좋아해서요..ㅎㅎ
+P0 	: &name2&은 왜 겨울이 좋나요?
+P1 	: 겨울이 따뜻함을 더 잘 느낄수있어서 좋다고도 하던데
+	  겨울스포츠를 즐겨해서요^^
+P0 	: 그렇군요.. 즐겨하는 스포츠가 있는 계절을 좋아하기 마련이죠
+P0 	: 스노우보드 같은 거 타나요?
+P1 	: 네^^ 벌써 10년째라서 이젠 그전만큼 자주타진않아요.
+P0 	: 전 도전도 못해봤네요..
+P0 	: 스키도 탈줄 아시나요?
+P1 	: 스키는 심심해서 장비빌려서 몇번 타봤는데 배운게 아니라서 초급코스겨우 내려와요ㅎ
+P0 	: 스케이트도 탈줄 아세요?
+P1 	: 아 카버보드 하나 장만해서 아주가아끔 타요^^ 
+	  이건계절에 관계없어서 요즘처럼 선선할때 딱인데 잘안타게 되네요
+P0 	: 진짜 겨울 스포츠에 능통하네요
+P1 	: 가을은 날씨가 좋아서 자전거 타기가 좋은데 즐겨하시는게 있으신가요?
+P0 	: 자전거를 탈줄 몰라요..ㅎㅎ
+P0 	: 여기는 정말 오랜만에 해가 화창한 날씨에요
+P0 	: 거기는 어떤가요?

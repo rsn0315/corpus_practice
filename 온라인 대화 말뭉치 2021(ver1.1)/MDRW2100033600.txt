@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100033600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 동아리 뭐하셨어요?
+P1 	: 안녕하세요 저 베이킹동아리했었어요
+P1 	: &name1&님요?
+P0 	: 우와 베이킹이요?????
+P0 	: 전 한복 만드는 동아리요
+P0 	: 빵만드나요?
+P1 	: 주로 쿠키나 머핀 같은거 만들었어요ㅎㅎ
+P1 	: 오 한복 만드는 동아리는 직접 재봉틀로 제작하는건가요?
+P0 	: 네 맞아요 ㅎ
+P0 	: 위 아래 다 제작해요
+P0 	: 머핀이랑 너무 맛있겠어요
+P1 	: 오 신기하네요!!
+P1 	: 대학다니실때 과제는 괜찮으셨나요?
+P0 	: 흑 아니요
+P0 	: 과제 너무 힘들었어요
+P0 	: &name2&님은요?
+P1 	: 저도.. 과제 너무 하기싫었네요..ㅠ
+P1 	: 미루는 편이었는데 항상 후회했어요 ..ㅋㅋ
+P0 	: 저도요ㅜ
+P0 	: 미루고 항상 후회했죠
+P1 	: 맞아요 과제는 항상 왜그렇게 미루게 됐을까요..?
+P1 	: 조금 더 열심히 해볼걸 라는 약간의 후회도 되긴해요
+P0 	: 그렇죠
+P0 	: 저의 나중 학점을 보고 하하
+P1 	: 학점 관리가.. 어렵더라구요 ㅎㅎ핫..
+P0 	: 학점관리 헬이에요 아주

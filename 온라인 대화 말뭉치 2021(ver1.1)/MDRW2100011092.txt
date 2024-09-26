@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100011092
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 맛집 좋아하시나바요
+P1 	: 맛집을 굳이 찾아다니지는 않지만 맛있는 음식 먹는 건 좋아해요
+P0 	: 오 어떤음식 좋아하시나요
+P1 	: 야채곱창이랑 열라면에 순두부 넣어먹는거랑 소곱창도 좋아하고 마라탕도 엄청 좋아해요 단 거 좋아해서 마카롱도 가끔 사먹어요
+P0 	: 와 순두부열라면 배우신분...
+P1 	: ㅎㅎ 순두부만 넣어도 맛있는데
+P1 	: 다진마늘, 고춧가루, 후추 넣으면 더 맛있어져요
+P0 	: 크 당연하죠 저도 저 레시피로 먹어요ㅎㅎㅎ
+P1 	: &name1&님은 무슨 음식 좋아하시나요
+P0 	: 저는 치느님이요ㅎㅎ

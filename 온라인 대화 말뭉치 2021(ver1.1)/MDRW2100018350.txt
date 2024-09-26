@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100018350
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 좋아하세요?
+P1 	: 책은 좋아는 하는데 요즘엔 통 못봤습니다
+P1 	: 책을 좋아하시나요?
+P0 	: 네 저도 책 좋아해요ㅎㅎㅎ 잘 안보지만...
+P0 	: 어떤 장르 좋아하세요?
+P1 	: 저는 소설좋아했었어요ㅋ
+P1 	: 진짜 안읽은지 오래 됐네요
+P0 	: 아 저도 소설이 젤 잘읽히더라구요ㅋㅋㅋ
+P0 	: 제일 좋아하는 책이 뭐에요?
+P1 	: 저는 개미요
+P1 	: 베르나르베르베르
+P1 	: 한참 좋아했었어요
+P0 	: 아 저두요ㅋㅋㅋ 저는 신 시리즈 제일 좋아했어요
+P1 	: 오 저는 신부터 안봤는데
+P1 	: 진심 봐야겠네요
+P0 	: 네네 꼭 보세요 발상이 너무 창의적이에요ㅋㅋㅋ
+P1 	: 그전건 다봤어여
+P0 	: 파피용이 그 전건가요?
+P0 	: 신 이후에 나왔나?
+P1 	: 파피용도 안본거 같아여ㅋㅋ
+P0 	: 파피용도 재미있게 읽었었어요
+P1 	: 성인되고 책을 많이 안보게 되더라구여
+P1 	: 책을 좋아하시는군요
+P0 	: 아 저도 성인 된 다음부터 책이랑 멀어지더라구요..
+P0 	: 스마트폰이 너무 재미있어서..ㅠㅠ
+P1 	: 밀리의서재 이런거
+P1 	: 안보셨었나요?

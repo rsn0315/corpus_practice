@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041971
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 철분제도 먹어야하겠더라 어지러워서
+P0 	: 잉 왜 어지럽지 ㅠ 아프시면 안되는데
+P1 	: 나이가 있어서 그런가봐
+P0 	: 잘 챙겨드시구 계세요??
+P1 	: 너보다 잘먹으니까 걱정하지 마
+P0 	: 저두 나름 잘챙겨먹는데 ㅠ
+P1 	: 젊다고 방심하면 훅간다
+P0 	: 그건 그렇죵 아무튼 운동은 안하지만 다른건 괜찮아요
+P1 	: 운동을 해야지
+P0 	: 그치만 넘 더웠고 ㅠㅠ 운동 싫어잉
+P1 	: 너 건강검진 했냐
+P0 	: 했어요 엄마는 내년이신가
+P1 	: 작년에 했으니까 괜찮아
+P0 	: 검사 잘받으셔야해요 혹시모르니까
+P1 	: 초음파 검사도 받으니까 괜찮아
+P0 	: 아빠 용종은 잘 떼셨대요?
+P1 	: 응 집에서 놀고있다
+P1 	: 지금은 회사에서 오시는중이야

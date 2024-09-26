@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100014236
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 일을 하시나용
+P1 	: 저는 그냥 사무직이요ㅎㅎ 어떤일하세요?
+P0 	: 저도 사무직 하고있습니다
+P0 	: 곧 퇴근이신가요
+P1 	: 저는 휴가라 집에 있어요ㅋㅋ퇴근하세요?
+P0 	: 헉 부러워요
+P0 	: 네 오분 뒤 퇴근입니다
+P0 	: 햅삐..
+P1 	: 아 제일 행복한 시간ㅎㅎㅎ
+P0 	: 오늘 쭉 뭐하셨나요 ㅎㅎ
+P1 	: 목욕하구 청소하구ㅜㅠ산책도 하고싶었는데 못했네요ㅎㅎ 일 바쁘셨나요?
+P0 	: 음 일 평소보다 바빴던 것 같아요 ㅠ
+P0 	: 출근하셨나요?
+P1 	: 네ㅎㅎ 너무 싫으네요
+P0 	: 극공감,,,
+P0 	: 현 회사 얼마나 다니셨나요
+P1 	: 3년차에요ㅜㅜㅎㅎ
+P0 	: 헉 3년이면 오래 다니셨네요
+P1 	: 시간이 그렇게 됐네요..ㅋㅋ

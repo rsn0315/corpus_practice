@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015449
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 로션 못 샀다
+P0 	: 그거 할인 끝났지?
+P1 	: ㅇㅇ까 먹었다
+P1 	: 쓸 거 없는데 어쩌지
+P0 	: 아직 있잖아
+P0 	: 그거 다 쓰기 전에 삼 되지
+P1 	: 그래 한번 다시 찾아봐
+P0 	: 아라쏭 이번엔 잘 사
+P1 	: 촉촉한거로 골라
+P0 	: ㅇㅇ겨울이니까 보습되는걸로 찾아볼게
+P1 	: 니가 고르는거 괜찮더라
+P0 	: 아라쏭 잘 찾아볼게
+P1 	: 크림이 낫냐?
+P0 	: 그냥 보습 잘 되는 거 찾는게 좋지 제형보다

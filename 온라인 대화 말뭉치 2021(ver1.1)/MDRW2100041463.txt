@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041463
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 여행지 있어요?
+P1 	: 네.  강원도 좋아하구요.
+	  제주도도 사랑합니다.^^
+P0 	: 오 강원도 어디 좋아하세요?
+P1 	: 강릉, 원주..
+	  춘천도.. 다 좋더라구요.
+	  산도 많고 바다도 있고요.
+P0 	: 자연을 좋아하시나 보네요!
+P0 	: 강릉도 가보셨어요?
+P1 	: 네.. 강릉도 종종 갑니다.
+	  설악산도 몇번가봤어요.ㅎ
+P0 	: 강릉 갈만한 곳 추천해주세요!
+P1 	: 블로그 검색이 더 알찰 것 같아요.ㅎ
+	  주문진 수산시장도 좋고
+	  강릉 해변도 좋잖아요.
+P0 	: 거기 닭강정도 유명하지 않아요??
+P1 	: 속초중앙시장이 닭강정으로 유명해요.
+P0 	: 아 그렇군요?!
+P0 	: 역시 여행은 먹는맛도 있는거 같아요
+P1 	: 님이 좋아하시든 여행지는 어디에요?
+P0 	: 저는 부산이요!

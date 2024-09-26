@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 저녁 드셨나요?
+P1 	: 안녕하세요! 저는 지금 먹으려고 해요! 파르페님은 저녁 드셨나요?
+P0 	: 방금 먹었어요! 뭐 드실 건가요?
+P1 	: 저는 남은 돼지고기 목살 구워먹을 것 같아요! 파르페님은 저녁 메뉴가 뭐였나요?
+P0 	: 저는 순두부찌개 먹었어요!
+P1 	: 우와 순두부찌개! 얼큰하니 맛있는 저녁 드셨겠네요!!
+P0 	: 좀 쌀쌀해서 뜨끈한게 먹고 싶었어요!
+P0 	: 고기 드실 때 소스 찍어 드시나요?
+P1 	: 네! 쌈장이나 멜젓소스 이런거 먹거나 가끔 김치도 같이 구워서 먹어요!
+P0 	: 구운 김치 너무 맛있죠!!
+P0 	: 버섯도 좋아하시나요?
+P1 	: 버섯 있으면 같이 굽죠 버섯이랑 고기랑 김치싸서 쌈장넣고 한쌈 하면 최고에요
+P0 	: 크으 너무 맛있을 거 같아요
+P0 	: 어떤 버섯 좋아하세요?
+P1 	: 고기먹을때는 새송이버섯 먹어요 다른 요리에 들어가는 버섯도 다 좋아해요
+P1 	: 목이버섯도 좋고 팽이버섯도 좋고 표고버섯도 좋아해요
+P0 	: 새송이 버섯 가로로 썰어서 드셔보셨나요? 최근에 처음으로 세로로 안 짜르고 가로로 잘라 먹었는데 식감이 정말 대박이에요!
+P1 	: 오 가로요? 생각못해봤어요 담에 먹을 땐 가로로 잘라서 먹어봐야겠어요!!

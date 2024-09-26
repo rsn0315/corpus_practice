@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100013187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 좋아하세요?
+P1 	: 공연 본 적은 많이 없어요
+P1 	: &name1&은요?
+P0 	: 저두요 ㅋㅋㅋ 콘서트 가보신 적 있으세요?
+P1 	: 아뇨 예전에 아이돌 좋아할 때도 못 가봤어요
+P0 	: 헐 티켓팅이 항상 어렵긴 하죠...
+P0 	: 인기많은 아이돌이엇나봐요!
+P1 	: 맞아요 그것도 그렇고 어렸을 때는 학생이었어서 못 갔어요
+P1 	: &name1&은 콘서트 가보셨어요?
+P0 	: 아뇨 ㅋㅋㅋ  저도 못가봤어요
+P0 	: 아이유나 태연 콘서트가보고싶긴한데
+P0 	: 티켓팅 장난아니게 어려울 것 같아서 ㅜㅜ
+P1 	: 헐 저도요
+P1 	: 죽기 전에 꼭 아이유랑 태연 콘서트 가보고 싶어요
+P0 	: ㅋㅋㅋㅋ 아이유 노래에 사람들이 불빛반짝반짝하는게 넘 예쁘더라구요
+P1 	: ㅋㅋㅋ맞아요 저도 떼창 잘할 자신 있는데!!
+P0 	: ㅋㅋㅋㅋ한국인은 떼창이죠!!
+P0 	: 최근에 영화는 뭐보셨어요?
+P1 	: 블랙위도우요
+P1 	: 영화값이 비싸서 자주 보기도 힘들더라고요
+P0 	: 아 마자요 ㅜㅜ 팝콘까지하면 돈 꽤나가는지라 그냥 집에사 보게 되더라구요
+P0 	: 영화한편보는대신 넷플결제하먼 이득인지라..

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100002987
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 혼자 사시나요
+P1 	: 아니요 하숙하고 있어요
+P0 	: 저는 혼자 투룸에 살아요
+P0 	: 집안일은 누가하나요?
+P1 	: 집주인이 해요
+P0 	: 하숙은 그런점이 좋군요
+P1 	: 확실히 좋아요
+P1 	: 예전에 투룸에 살았는데
+P1 	: 청소하기 귀찮아서 깨끗하게 살았어요
+P0 	: 저는 혼자 살다보니 집이 엉망이예요
+P1 	: 원룸에 살때는
+P0 	: 옷정리가 가장 귀찮아요
+P1 	: 진짜 엉망이었어요
+P1 	: 옷도 안사고 막
+P0 	: 저만 그런게 아니군요
+P1 	: 집안일 귀찮아요
+P0 	: 요즘엔 가사도우미 불러주는 어플도 있더라구요
+P1 	: 저 원룸살때 진짜 부르려고 했어요
+P1 	: 친구가 방크기에 비해 오바라고 해서 안했지만
+P0 	: 화장실 청소도 너무 힘들어요
+P0 	: 남자친구를 불러서 시키곤 한답니다
+P1 	: 그거 편하겠네요

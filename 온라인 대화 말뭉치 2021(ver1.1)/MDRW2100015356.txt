@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 현재 연애중 이신가요
+P1 	: 아니요 애인 없어요 &name1&님은 연애 중이신가요?
+P0 	: 아니요 전 기혼자입니다
+P1 	: 아! 그렇군요 어떻게 결혼하게 되셨나요?
+P0 	: 저희 사촌오빠 결혼식에서 만났답니다
+P1 	: 오... 좀 로맨틱하네요!
+P1 	: 지금의 배우자 분이 이상형이셨던 건가요?
+P0 	: 딱 그렇지는 않아요
+	  근데 만나다 보니 .... 사랑이 .....
+P1 	: 아하... 그렇게 된 거군요! 그래도 잘 맞으셨나봐요
+P0 	: 네 인연인가봐요
+P1 	: 제 이상형은 개그코드가 맞는 사람인데 어떤가요?ㅎㅎ
+P0 	: 말이 통하는 사람이 좋아요
+P1 	: 역시 그렇죠ㅋㅋㅋ
+P0 	: 뭐든 잘맞는게 있다는건 중요하죠

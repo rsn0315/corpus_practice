@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100034481
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 식사하셨어요??
+P1 	: 네 &name1&님은요?
+P0 	: 방금했어요!
+P0 	: 뭐드셨나요
+P1 	: 떡만둣국 먹엇어요 ㅋㅋ
+P1 	: &name1&님은 뭐 만드셧어요?
+P0 	: 오늘 만두데인가요
+P0 	: 제친구도 만두먹었다더라구요 ㅋㅋㅋㅋㅋ
+P0 	: 저는 닭갈비요
+P1 	: 만두가 맛잇고 만만해요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 와 닭갈비
+P1 	: 맛잇겟다ㅠㅠ
+P0 	: 만만한 만두 ㅋㅋㅋㅋㅋ
+P0 	: 어제먹다 남은건데도 맛나요 ㅠㅠ
+P1 	: 밥 볶아드셧어요?
+P0 	: 당연하죠
+P0 	: 한국인은 밥심..!!
+P1 	: 맛잇겟다 ㅋㅋㅋㅋ
+P1 	: 점심 먹엇는데도 침흘리고 잇어요 ㅋㅋㅋㅋㅋ
+P0 	: 앜ㅋㅋ
+P0 	: 음식은 먹어도먹어도 안 질리더라구여 저는ㅋㅋㅋ
+P1 	: 맞아요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 점심먹으면서 저녁 메뉴 얘기도 가능 ㅋㅋㅋㅋㅋ
+P1 	: 먹는것도 안질리고 먹는얘기 하는것도 안질려요 ㅋㅋㅋㅋ
+P0 	: 맞아요 공감해요 ㅋㅋㅋㅋㅋ

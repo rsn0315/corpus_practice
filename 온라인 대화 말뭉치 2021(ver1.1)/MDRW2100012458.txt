@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100012458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근에 어떤제품 구매 하셨어요 ?
+P1 	: 인터넷으로 삼성버즈2 구매 했답니다
+P0 	: 어머 넘좋으시겠다
+P0 	: 저도 갖고시네요 ㅎㅎ
+P0 	: 비싸죠?할인해서 사셨어요?
+P1 	: 네 사전예약하고 할인해서 11만원에 쿠폰 있고요
+P0 	: 항상보면 사전예약이 혜택이 젤 좋은것 같아요
+P0 	: 근데 그때를 꼭 놓쳐요
+P0 	: 전 요새 가방 기프티콘 운동화 샀어요
+P1 	: 그런 기프티콘도 좋은것 같네요
+P0 	: 네 49프로 세일해서 버거킹 샀어요
+P0 	: 아이가 좋아 해서요
+P0 	: 요샌 할인정보가 넘쳐나서 제돈주고 사면 넘 아까워요
+P0 	: 버즈 성능은 어떤가요?
+P0 	: 1보다 많이 기능이 좋은거 같나요?
+P0 	: 전 너무 싼거만 사서 맨날 고장나요
+P1 	: 성능이 월등 좋아요
+P0 	: 아 그렇겠죠 진짜 삼성이 잘 만드나봐요
+P0 	: 싼건 너무 중간에 잘끊겨요
+P1 	: 확실히 삼성이 잘만들 었네요
+P0 	: 내 폰도 좋구요
+P0 	: 서로 호환잘되서 좋을듯해요
+P0 	: 저도 조만간 큰맘먹고 사보려고요
+P1 	: 사면 후회 하지 않을거예요
+P0 	: 네 ㅎㅎ돈좀 모아서 사볼께요
+P0 	: 극찬하시니 뿜뿜 하네요 ㅎㅎ
+P0 	: 통화시 불편해서 사려고 했어요

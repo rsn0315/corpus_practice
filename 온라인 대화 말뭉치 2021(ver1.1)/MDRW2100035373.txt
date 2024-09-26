@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이신가요?
+P1 	: 아녀 직장인이에요
+P1 	: 학생이세요?
+P0 	: 아녀 저도 졸업했어요 아직 직장인은 아니구요!
+P0 	: 학생때 동아리하신거 있으세요?
+P1 	: 아녀 ㅎㅎ 동아리는 안 해봤구 학생회를 했었어요!
+P0 	: 오 학생회..! 힘들진 않으셨나요
+P1 	: 힘들었는데 그만큼 재미있고 보람있었던 것 같아요 ㅋㅋ
+P1 	: 혹시 과 여쭤봐도 되나요
+P0 	: 저는 식품영양과 나왔어요~
+P0 	: &name2&님은요?
+P1 	: 국문과여 ㅋㅋ
+P1 	: 재미없는 과죠..
+P0 	: 오 아녀 대단하신데요
+P0 	: 과제는 어떤식으로 내주시나요?? 궁금하네요
+P1 	: 과제요... 딱히 없었던 거 같아요 ㅋㅋ 사실 졸업한지 오래돼서 가물가물하네요
+P0 	: 좋네요 ... 저는 과제가 엄청 많았어서 정말 싫었었거든요..
+P1 	: 아하 저희는 과제 써머리 정도? 였던 것 같아요
+P1 	: 식품영양과는 어떤 과제 나와요?
+P0 	: 실험보고서 식단짜기 등등 .. 과제가 되게 많았어요
+P1 	: 신기해요 ㅋㅋ 저희는 팀플도 별로 없었어서 되게 좀 편하게? 다녔었어요 ㅋㅋ
+P0 	: 그쵸 저는 개인과제 위주긴한데 어떤 수업은 다 팀플로만 진행되는 경우도 있었네요..ㅠㅠ

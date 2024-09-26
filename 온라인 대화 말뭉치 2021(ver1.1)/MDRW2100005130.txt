@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005130
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 올해 여름에 38도까지 올랐다는 기사 봤어
+P0 	: 땅 속이 불타고 있다던데
+P1 	: ㅇㅇ 아마 땅 속 가스 때문에 그럴거야
+P0 	: 계속 불타면 제트기류 위치가 바뀐데
+P1 	: ㅇㅇ 그럼 폭우 기간도 길어지고 더운데는 계속 덥고 그래..
+P0 	: 진짜 큰일이네..
+P1 	: 애들 생각하면 이상 기온은 진짜 문제지
+P0 	: 우리나라도 그래서 날씨가 이상해지나 싶어
+P1 	: 예전이랑은 많이 달라지긴 했지
+P0 	: 환경이 점점 더 안좋아지는 것 같아
+P1 	: 시베리아가 38도라니.. 말이 안되는거지
+P0 	: 기후 변화는 진짜 걱정돼.. 대비가 안돼서
+P1 	: 문제는 그렇게 땅속이 불타는데도 빨리 끄지 못한다는거야.. 언제까지 탈지
+P0 	: 지금 티비에서 모기 이야기 나오는데 너무 끔찍해

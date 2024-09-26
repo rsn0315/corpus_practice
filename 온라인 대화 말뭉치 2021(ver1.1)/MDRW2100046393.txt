@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 요즘 좋아하는 취미활동 있으신가요?
+P0 	: 취미는 모바일게임요
+P1 	: 어떤 게임하시나요?
+P0 	: 야구게임해요
+P1 	: 직접 야구하는건 안좋아하시나요?
+P0 	: 네 직접하는건 별로요 ㅋㅋ
+P0 	: 게임만 좋아해요
+P1 	: ㅋㅋ직접하는건 왜 별로인가요?
+P0 	: 몸이 안따라줘서요 ㅋㅋ
+P1 	: 직관하는것도 별로이신가요?
+P0 	: 직관은 좋아해요
+P1 	: 아 몸이 안따라줘서...ㅜㅜ..
+P0 	: 네 ㅠㅠ
+P1 	: 야구 게임은 하신지 얼마나 됐어요?
+P0 	: 꾸준히 해왔어요
+P0 	: 새로운 겜 나올때마다
+P1 	: 오 한가지 게임하는게 아니라 다 다른게임으로 즐기시는거군요?!
+P0 	: 네 그렇죠^^
+P1 	: 얼른 코로나가 끝나서 야구 직관하는 날이 왔으면 좋겠어요! 날씨가 추워졌는데 감기 조심하시고 오늘 남은 하루도 화이팅하시길 바랄게요:)

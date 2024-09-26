@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016014
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 염색해보신 적 있으세요
+P0 	: 네 태어나서 딱 한번이요 ㅋㅋㅋ
+P1 	: 어떤색으로 해보셨나요
+P0 	: 탈색없이 젤밝은브라운으로요~
+P1 	: 브라운 만족하셨나요
+P0 	: 음 그닥 별로였어요,, 제 퍼스널컬러랑 안맞다는걸깨달은뒤부턴 염색안했어요
+P1 	: 으음.. 미용실가서 하신거죠?
+P1 	: 아무래도 셀프는 어려우니까
+P1 	: 아닌가 셀프로 하셨으려나
+P0 	: 미용실가서했어요 ㅎㅎ
+P0 	: 머리가 길어서 혼자는 힘들겠더라구요
+P1 	: 아하.. 미용실은 주로 커트하러가시나요
+P0 	: 네! 커트나 관리받으러가요 ㅎㅎ 근데 이시국이후론 미용실도 자주안갔어요,,
+P1 	: 음 아무래도 코로나도 있고 미용실은 소통을 하니까
+P1 	: 불안하시면 안가는게 맞는거 같아요ㅎㅎ
+P1 	: 관리는 어떤거 주로 받으셨어요
+P0 	: 맞아요 ㅠ
+P0 	: 저는 헤어보단 두피쪽케어 받았어요
+P1 	: 스케일링 받으셨구나

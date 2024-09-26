@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003535
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안주무시나요?ㅎ
+P1 	: 자다깻다가 어느새 또 잠들었네요 ㅎ
+P0 	: &name2&님은 정원샵에서 뭐 안사셨어요?
+P1 	: 네 정원샵에 머 있었어요?
+P0 	: 카톡 플친 40프로 쿠폰줬거든요
+P1 	: 아 그래요? 본거같은데
+P1 	: 페이코쿠폰도 있어야할것같아서
+P1 	: 그쿠폰없으면 왠지 손해보는 느낌이라 안샀어요 ㅎ
+P0 	: 전 신한서 40쿠폰준걸로 이미 주문해서 오늘 도착한대요
+P0 	: 페이코도 10프로 있는거같아요
+P1 	: 신한카드에서 40퍼도 있었어요?
+P0 	: 네 탑스클럽가면 매달 주더라구요
+P0 	: 신한카드로 결제해야되긴해요
+P1 	: 탑스클럽...그건 등급이 얼마이상되야되요?
+P0 	: 그거상관없이 걍 다주는거같아요
+P1 	: 그래요? 저도 한번찾아봐야겠네요
+P1 	: 저는 씨제이 기다리고 있거든요
+	  거기가 살것이 많아서...
+P0 	: 토스혜택에 정원샵없나요?
+P1 	: 네 그것도 없어요 ㅎ
+P0 	: 아 씨제이더마켓은 저번주인가 준거같은데 또할지 모르겠어요
+P1 	: 담달되야할듯 해요 ㅎ

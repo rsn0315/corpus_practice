@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019047
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P1 	: 점심드셨어요?
+P0 	: 네~ 육개장국밥 먹었어용
+P1 	: 와 육개장 맛있었겠어요!!
+P0 	: 맞아요~ ㅎㅎ 국밥좋아하시나요?
+P1 	: 네! 국에 밥말아먹으면 뜨끈하고 밥도 잘 씹혀서 좋아요
+P0 	: 저두좋아해요! 어떤국밥최애인가요?
+P1 	: 고르기 어렵네요 ㅎㅎ 육개장이랑 순대국밥을 제일 좋아해요
+P0 	: 아 그러시구나~~ 저는 돼지국밥 좋아해요 ㅎㅎ
+P1 	: 돼지국밥도 좋죠~ 국밥은 다 좋은것같아요
+P1 	: 든든하고!
+P0 	: 맞아요~ 콩나물국밥도 시원하니 좋더라구요
+P1 	: 맞아요 콩나물국밥은 깔끔해서 좋아요!
+P1 	: 아 국밥 먹고 싶어지는데요 ㅎㅎ

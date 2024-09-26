@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100020582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스페인어 쓰는 국가로 여행 준비하시나요
+P0 	: 네 ㅎㅎ 나중에 남미 가고 싶어요
+P0 	: 코로나가 언제 끝날 지는 모르겠지만
+P0 	: &name2&님은 마지막 여행지가 어디셨어요?
+P1 	: 저는 마지막은 타이페이였어요
+P1 	: 국내여행도 잘 못다녀가지고 ㅋㅋ
+P0 	: 오 타이페이면 대만인가요?
+P1 	: 네네!
+P0 	: 오 어떠셨어요?
+P1 	: 뭔가 중국이랑 일본이 섞인 느낌이 나서 독특했어요
+P1 	: 교통 편리해서 다니기에도 좋고 ㅋㅋ
+P0 	: 아아 중국보다 깔끔하고
+P0 	: 일본처럼 아기자기한 느낌이 있다하더라구요
+P0 	: 밀크티 드셔보셨어요?
+P1 	: 네네 부모님이랑 간거라서 막 많이 마시진 않았는데
+P1 	: 근데 밀크티는 우리나라에서 먹는거랑 똑같아서 ㅋㅋㅋㅋ크게 감흥이 있진 않았어요
+P0 	: 아 그렇군요
+P0 	: 본토의 맛은 다를 줄...
+P0 	: 어느게 제일 좋으셨어요?
+P1 	: 음 타이페이에서 송상문화공원이라는 곳이 있는데
+P1 	: 담배공장을 문화예술공간으로 바꾼 곳이에요
+P1 	: 거기가 분위기가 참 좋아요
+P0 	: 아아 분위기가 좋을 법 하네요
+P0 	: 또 어디가 좋으셨어요?
+P1 	: 지우펀? 타이페이 외곽지역에 있는데 그 센과치히로 동네처럼 생겼다고 유명한 곳이에요
+P0 	: 오..센과 치히로!
+P0 	: 센과 치히로 좋아해요

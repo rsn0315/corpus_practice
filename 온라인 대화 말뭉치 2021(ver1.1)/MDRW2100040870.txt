@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100040870
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 어디로 가셨어요?
+P1 	: 저 오늘은 인사동이랑 북촌, 시간되면 경복궁까지요
+P0 	: 와 너무좋네요. ㅋㅋㅋ
+P0 	: 북촌가고싶었는데ㅜ못갔네요ㅠ
+P0 	: 북촌 예쁘죠?ㅋ
+P1 	: 네넹, 한옥들 늘어서 있어서 사진도 잘 나와요
+P1 	: &name1&님은 올해 여행 가신 곳 있나요?
+P0 	: 사진찍기에는 정말 최고일듯요ㅋㅋ
+P0 	: 저는 여수갔다왔었어요ㅋㅋ
+P1 	: 우와, 저 여수 가려다가 서울 왔는데
+P0 	: 아 그러셨구나ㅋㅋ
+P1 	: 여수 좋던가요
+P0 	: 여수도 진짜 좋더라구요.ㅋㅋ
+P0 	: 네 저도 오랫만에 갔는데 갔던 호텔도 너무 괜찮았구요.ㅋㅋ
+P0 	: 아이들이랑 가기에는 좋았어요ㅋ
+P1 	: 오, 호텔은 어디 묵으셨어요? 비싼 곳이었나요?
+P0 	: 가격대비 괜찮았어요ㅋ
+P1 	: 오, 다행이다
+P1 	: 저는 어제 숙소때문에 고생했어요
+P0 	: 아 그러시구나ㅠ숙소가 문제있었나요?
+P1 	: 최대3인 가능한 방을 예약했는데 가보니 입실거부당했어요ㅜㅜ
+P1 	: 유의사항에 언급이 있었대요
+P0 	: 아하ㅜㅜ그렇구나
+P0 	: 정말 난감하셨겠어요

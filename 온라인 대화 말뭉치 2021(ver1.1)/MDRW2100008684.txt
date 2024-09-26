@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008684
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세여?
+P1 	: 저는 라면 좋아해요
+P0 	: 어떤 라면 가장 좋아하세요?
+P1 	: 신라면이랑 불닭 좋아해요
+P1 	: 베이직 중에서도 젤 베이직 스타일ㅎㅎ
+P0 	: 전 매운 걸 못 먹어서 튀김우동이나 진라면순한맛 좋아해요ㅎㅎ
+P0 	: 불닭은 한가닥 먹고 너무 힘들었어요ㅠㅠ
+P1 	: 저도 매운걸 잘먹는 편은 아니라 눈물 흘리면서 먹어요
+P0 	: 맞아요 그런 분들 계세요ㅎㄹ
+P0 	: 매운 거 먹으면 스트레스가 풀린다더라고요
+P1 	: 맞아요 학업 스트레스 매운거로 풀어요 저는
+P0 	: 그러시구나ㅜㅜ 신라면 볶음면 드셔보셨어요?
+P1 	: 아직이요 혹시 드셔보셨나요
+P0 	: 아니요 매울가봐 엄두도 못 내고 있어요
+P1 	: 다음번에 장보러 나갈 때 사와야겠네요
+P0 	: 봉지가 더 맛있대요!
+P1 	: 아하 좋은 정보 감사합니다

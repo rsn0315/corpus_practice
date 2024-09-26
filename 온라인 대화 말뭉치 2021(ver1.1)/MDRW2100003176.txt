@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003176
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 날씨가 쌀쌀한데 몸관리 잘 하고 계신가요?
+P1 	: 아침저녁은 춥고 낮에는 더워서 몸관리 어렵네요ㅎㅎ
+P0 	: 저만 아는 완전 꿀팁 있는데 알려드릴까요?
+P1 	: 음 어떤게 있을까요?
+P0 	: 밖에 안나가면 됩니다
+P0 	: 이거 비밀이니까 아무한테도 알려주지 마세요
+P1 	: ㅎㅎ 주말에는 날이 아무리 좋아도 안나가요
+P0 	: 주말엔 집에서 뭐하세요?
+P1 	: 날좋으면 청소도 하구 에어컨 바람쐬면서 그냥 누워있어요ㅎㅎ
+P0 	: 침대에서 핸드폰 하는게 제일 좋은 것 같아요
+P1 	: 일주일에 제일 행복한 시간이더라구요ㅎㅎ
+P0 	: 산책이나 취미생활은 없으세요?
+P1 	: 요즘은 저녁엔 시원해서 강변 산책해요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014854
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그러게 어제는 습하고 더웠는데
+P0 	: 비가 와도 시원할때가 있고 아닐때가 있네
+P1 	: 그렇지
+P0 	: ㅎㅎ 더 시원해지면 좋겠다
+P1 	: 그러게 아직 좀 덥다
+P0 	: 옹 ㅜㅜ 더운거 넘 싫어
+P1 	: 참아야지
+P0 	: 구램 ㅠ피할수없으니 ㅋㅋ
+P1 	: 곧 추워질 거야
+P0 	: 그럴듯 ㅠㅠ 넘 추운건 또 싫다 ..ㅋㅋ
+P1 	: 가을이 최곤데
+P0 	: 마자 ㅠ근데 넘 짧다
+P1 	: 그래서 아쉽다

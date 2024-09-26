@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100041505
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장인이세요?
+P1 	: 넹넹!!
+P0 	: 출근하셨낭ㅅ
+P1 	: 넹넹 &name1&님은 출근하셨나요
+P0 	: 네 저는 8시출근 삥뽕님은요?
+P1 	: 저도 8시출근인데
+P1 	: 8시까지 준비를해야해서
+P1 	: 7시30분에 도착해야해려 ㅠㅠ
+P0 	: 아 저도요 ㅜㅜ 님도 일찍 출근하시는군요
+P0 	: 퇴근은요?
+P1 	: 5시입니당!!!
+P1 	: 야근도없어요
+P1 	: 서비스 직이라서 ㅋㅋㅋ
+P0 	: 오 대박ㅋㅋㅋ 저도 5시퇴근
+P0 	: 서비스직은 보통 스케쥴아닌가요?
+P0 	: 저도 했었는데..
+P1 	: 맙나요 하지만
+P1 	: 거의 똑같아요
+P1 	: 먄날오픈
+P0 	: 오 어떤 일 하시는데요?
+P1 	: 그냥커피만 주구장창뽑기..?ㅋㅋㅋㅋㅋ
+P0 	: 오오 바리스타시구나
+P0 	: 저도 한 3년 했었어요 ㅋㅋㅋ
+P1 	: 자격증따셨너요??
+P1 	: 저는 아직 ㅠㅠ
+P0 	: 앗 저는 2급만요ㅋㅋㅋ 자격증은 쉬워요 1급은 모르겠지먼
+P1 	: 아진짜요??
+P1 	: 학원에서 배우셨나여??
+P0 	: 네네 학원에서요~!

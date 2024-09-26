@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100022632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 군인
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 농림/어업/임업 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 점심 뭐드셨나요?
+P0 	: 오늘 점심 뭐드셨어요??
+P1 	: 오늘 점심 라면 먹었습니다.
+P1 	: &name1&님은 점심 뭐 드셨나요?
+P0 	: 저는 찜닭 시켜먹었어요!
+P0 	: 집에서 딱히 뭐먹을지 몰라서
+P0 	: 배달어플로 시켜먹었네요ㅎ
+P1 	: 찜닭 맛있겠네요
+P0 	: 배달 어플 자주 사용하세요?
+P1 	: 아 저는 배달어플 사용안하고 전화로 배달시켜요
+P0 	: 최근에 어떤거 시켜 드셨나요?
+P1 	: 전 치킨 시켜 먹었어요.
+P1 	: 그 프랜차이즈점 말고 동네 치킨집에서요
+P0 	: 오 동네치킨 좋죠  ㅎㅎ
+P0 	: 뼈랑 순살중에 어떤거 드셨어요?
+P1 	: 전 역시 뼈가 좋죠!
+P0 	: 저도 뼈는 뜯는 맛이 있어서
+P0 	: 순살말고 항상 뼈만 먹네요 ㅎㅎ
+P0 	: 치킨말고는 어떤거 드셨어요?
+P1 	: 음... 치킨말고는 주로 짜장면이나 피자 먹었죠
+P1 	: &name1&님은 치킨말고 어떤거 시켜드세요?
+P0 	: 저는 요즘 떡볶이가 좋아요
+P0 	: 배달로 시켜먹는 떡볶이..
+P1 	: 아 떡볶이 좋죠.
+P1 	: 저는 엽떡을 좋아하는데 &name1&님은 어떤 떡볶이를 좋아하세요?
+P0 	: 저는 배떡이라고
+P0 	: 요즘 유명한게 있는데 로제떡볶이가 맛있네요
+P0 	: 한번 드셔보세요
+P1 	: 한번 먹어봐야겠네요!

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100038175
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 뭐 드셨나요?
+P1 	: 오늘 밥이 얼마 없어서 토스트 먹었어요
+P0 	: 토스트도 좋죠
+P0 	: 무슨 잼 발라드세요
+P1 	: 집에 무화과잼만들어둔게 있어서 해치울겸 먹었어요 평소에는 딸기잼이나 그냥 먹어요 빵은 그냥 먹어도 맛있어서요 ㅎㅎ
+P0 	: 무화과잼 맛있나요
+P0 	: 저는 먹어본적이 없어서...
+P1 	: 음 사실 시판 무화과잼을 먹어보지 않아서 그맛과 비슷한지 모르겠어요 무화과가 씹히기도하고 아무래도 설탕이 많이 들어가서 맛있네요 ㅎㅎ
+P1 	: 무화과 좋아하신다면 &name1& 님도 좋아하실 것 같아요
+P0 	: 무화과도 먹어본적이 없어요ㅋㅋ
+P0 	: 주변에서 팔질 않더라구요
+P1 	: 음 약간 식감이 물컹거리고 안에 씨처럼 작은 알갱이가 있어요 만약 물컹한 식감 싫어하신다면 비추해요
+P1 	: 저도 카페에서 무화과 타르트로 처음 접해봐서 먹고 제 입맛에는 잘 맞아서 아주 가끔 생각날때 먹어요
+P0 	: 물컹거리는거 좋아해요
+P0 	: 저한테 잘 맞겠네요
+P1 	: 엇 그러면 추천드려요! 마침 요즘 철인 것 같아요 어제 마트가니까 팔더라구요~
+P1 	: 조금 단 편인데 단 과일 좋아하시나요??
+P0 	: 단것도 엄청 좋아해요ㅋㅋ
+P1 	: 엇 그럼 &name1&님께 완전 강력 추천해요 ㅎㅎ
+P1 	: 혹시 다른 과일은 어떤걸 좋아하세요?
+P0 	: 복숭아 좋아해요
+P0 	: 달고 물컹한ㅋㅋ

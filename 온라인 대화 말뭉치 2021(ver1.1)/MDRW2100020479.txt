@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020479
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 사이드는 기본만 드시나요
+P1 	: 넵 전 기본 감자튀김을 사랑합니다
+P1 	: &name1&님은요?
+P0 	: 저두요
+P0 	: 특히 버거킹 감튀는 도톰해서
+P0 	: 더 맛있는거같아요
+P1 	: 그쵸 딴데랑 좀 달라요
+P0 	: 감튀에 케첩찍어드시나요
+P1 	: 네 케첩 필수!
+P0 	: 그쵸 뭔가 감튀만 먹기는 아쉬우니까
+P1 	: 칠리소스도 맛있을거같아요
+P0 	: 그것도 너무좋을거같아요
+P0 	: 감튀에 칠리 완벽한데요
+P1 	: &name1&님은 어떤 햄버거 브랜드 좋아하세요?
+P0 	: 음료는 어떤거드시나요
+P0 	: 저는 가리는게 없어요
+P0 	: 브랜드마다 좋아하는게 다 있어서
+P1 	: 제로콜라...?
+P1 	: 오 저도 각 브랜드마다 거의 정해져있어요
+P0 	: 제로콜라 맛있어요ㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘은 2시 정도에 끝날 거 같아
+P0 	: 오늘부터 전면 등교라 걱정이네
+P1 	: ㅇㅇ 마스크 쓰고 수업이 힘드니깐
+P0 	: 그것도 걱정이고 특히 급식이...
+P1 	: 이번에는 급식이 선택이 아니라서 마음에 걸려 ㅠ
+P0 	: 지금까지 잘 버텼는데 갑자기 수업 중간에 급식이 있는지..
+P1 	: 나도 잘 이해가 안돼 ㅠ
+P0 	: 학교 점심시간에 애들 많을텐데
+P1 	: 글치 다 모여서 식사하니까..
+P0 	: 애들 오자마자 씻겨야겠다
+P1 	: 그래야할듯.. 우리라도 방역을 철저히 해야지
+P0 	: ㅇㅇ 오늘부터 등교라서 특히 더 조심해야해
+P1 	: 등교하니까 참 걱정이 많네
+P1 	: 쉬는 시간도 짧아
+P0 	: 몇 분씩 주는데?
+P1 	: 5분 ㅠ 쉴 시간도 없을듯
+P0 	: 에궁.. 오늘 돌아오면 많이 힘들어하겠네

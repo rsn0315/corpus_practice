@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100012079
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 기억에 남는 기념품 있나요?
+P0 	: 기념품말고 여행지 기억나네요
+P1 	: 어디가 기억나시나요
+P0 	: 대만이요!
+P1 	: 아 대만은 길거리 먹거리 다양하지않나요?
+P0 	: 길거리 음식 천국이죠ㅎㅎ
+P1 	: 와 좋네요 뭐가 맛잇던가요
+P0 	: 우육면이 최고였어요
+P1 	: 와 우육면.. 깊은 맛이겠어요
+P0 	: 우리나라에서도 몇번 먹었는데 그맛이 안나더라구요
+P1 	: 그렇군오 지파이?도 들어봤어요
+P0 	: 지파이는 향신료땜에 못먹었어요ㅠ

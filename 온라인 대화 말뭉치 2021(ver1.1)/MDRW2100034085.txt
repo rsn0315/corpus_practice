@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034085
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 기르시나요
+P0 	: 예전에 청거북이 길러봤어요
+P1 	: 와 청거북이요~ 얼마나 기르셨나요
+P0 	: 6-7년 정도 길렀어요
+P1 	: 그러셨군요 1마리만 기르셨나요?
+P0 	: 두마리 길렀어요 ㅎㅎ
+P1 	: 각각의 이름도 있었겠어요
+P0 	: 이름은 없었어요
+P1 	: 그랬군요 거북이 물은 얼마나 자주 갈아줘야하나요
+P0 	: 일주일 한번정도 갈아줬어요
+P1 	: 먹이외에는 돈 들어가는 일은 없었나요?
+P0 	: 네 없었어요
+P1 	: 거북이를 기르시게 된 계기가 어찌되나요
+P0 	: 다들 기르길래요 ㅎㅎ
+P1 	: 어린시절 생각하면 거북이 기르는 집이 많았던 것 같아요 지금보다

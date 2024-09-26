@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100011441
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연이나 전시 좋아하세요?
+P0 	: 좋아하는데 기회가 많이 없어서 많이 접하지는 못했어요
+P0 	: 리틀송님은 좋아하시나요
+P1 	: 네 저도 좋아해요!
+P1 	: 근데 요즘은 코로나때문에
+P1 	: 잘 못가서 아쉬워요ㅠ
+P0 	: 아쉽겠어요ㅠ
+P0 	: 기억에 남는 공연있나요
+P1 	: 기억에 남는 건 뮤지컬 엘리자벳이요!
+P1 	: ㅎㅎ보고싶으신 공연 있나요?
+P0 	: 저는 콘서트? 가고싶다는 생각했었어요
+P0 	: 노래 듣다보면 아 이 가수의 노래는 직접 들어보고싶다
+P0 	: 하는 거 있잖아요 ㅎㅎ
+P1 	: 오 콘서트도 좋죠~
+P1 	: 누구 콘서트 가고싶으세요?
+P0 	: 저 악뮤요
+P0 	: 수현이 목소리를 좋아해서
+P0 	: 콘서트 가보신 적 있으신가오
+P1 	: 수현 너무좋죠ㅠㅜ 비긴어게인 너무 좋았어요ㅎㅎ
+P1 	: 전 어릴때 아이돌 좋아해서 아이돌콘서트갔었어요ㅎㅎ
+P0 	: 어떤 아이돌 콘서트를 가보셨나요
+P1 	: 지금은 아닌데 동방신기 좋아해서 갔었어요ㅎㅎ
+P1 	: 부끄럽네요~ㅎㅎ
+P0 	: 아니에요 좋아하는 가수의 콘서트를 가는 일 만큼 설레는 일은 없는걸요
+P0 	: 부끄러워하실 필요 없으세요
+P0 	: 공연은 재밌었나요
+P1 	: ㅋㅋㅋㅋㅋ지금은 안좋아하는데 그땐 넘 설레고 좋았어요ㅎㅎ

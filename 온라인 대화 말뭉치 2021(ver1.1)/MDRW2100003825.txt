@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003825
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤음식 좋아하세요?
+P1 	: 저는 삼겹살이욯
+P0 	: 배달음식은 자주 시켜드세요?
+P1 	: 네~일주일에 한번은 시키는것 같아요
+P1 	: 어제도 오늘 먹으려고 피자 시켜놨어요
+P0 	: 어디 피자 시키셨어요?
+P1 	: 청년피자요
+P1 	: 아시나요?
+P0 	: 처음 들어보네요
+P0 	: 맛있어요?
+P1 	: 요즘 태연이 광고하는건데 ㅎ
+P1 	: 맛있어요 ㅎ 가성비도 좋고요
+P0 	: 면요리는 안좋아하세요?
+P1 	: 좋아해요 국수~
+P1 	: &name1&님은 면요리 좋아하시군요
+P0 	: 네 라면이나 짜장면같은게 좋더라구요
+P1 	: 짜장면 말씀하시니 먹고 싶네요 ㅎ
+P0 	: 비 많이 내리는날에는 짜장면이 좋더라구요

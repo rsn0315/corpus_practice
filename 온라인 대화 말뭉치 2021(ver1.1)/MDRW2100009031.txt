@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요 어떤 운동 하시나요?
+P1 	: 요즘 못 나가서 홈트 하고있어요!
+P1 	: 어떤 운동 하세요?
+P0 	: 예전에 수영했는데 요즘은 못하고있어요
+P1 	: 저도 수영하는거 좋아했는데 코로나 때문에 못 간지 좀 됐네요
+P0 	: 코로나 얼른 지나가서
+P0 	: 운동 마음껏 하고싶어요
+P1 	: 맞아요 수영장말고도 다른 운동하러 가기도 쉽지가않네요
+P1 	: 수영  말고 해보고싶은 운동은 없나요?
+P0 	: 탁구배워보고싶어요
+P1 	: 저는 테니스 배워보고싶어요
+P0 	: 좋아하는 선수 있으세요?
+P1 	: 좋아하는 선수는 아직 없는데, 라켓으로 공 때리는 소리가 경쾌하고 그래서요 ㅎㅎ
+P0 	: 체력이 좋아야할것같아요
+P1 	: 운동하면서 체력도 생기지않을까 싶어요 ㅎ

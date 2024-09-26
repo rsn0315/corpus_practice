@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100037412
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 물리치료 몇 번 받으니까 다행이도 괜찮아지긴 했어요ㅎㅎ
+P1 	: 근데 처음 간 병원이었는데 생각보다 비싸더라구요ㅠ
+P0 	: 병원이 생각보다 비싸죠ㅠㅠ
+	  지금은 아예 안 아프신가요?
+P1 	: 네 근데 이상하게 팔에 물이 차서 볼록 튀어나왔었는데 2주쯤 지났더니 점점 작아지고 있어서 다행이에요
+P0 	: 원인이 무엇이었나요??
+P1 	: 그걸 모르겠어요. 다른 병원 가볼까 하다 일단 놔둬봤는데 없어져서 다행이에요
+P0 	: 그나마 다행이네요 건강은 항상 조심해야하는 것 같아요
+P1 	: 갑자기 막 아프더라구요ㅠ
+P0 	: 아이고ㅠㅠ 아프면 서럽죠
+P1 	: 운동하고 잘 먹고 하는 것밖에 방법이 없는 것 같아요
+P1 	: 머리 묶다가 인대가 아프다니ㅠ
+P0 	: 그러니까요 근데 또 막상 운동하려면 귀찮죠ㅠㅠ
+P1 	: 살려고 운동한다는 말이 뭔지 알겠어요ㅎㅎ
+P0 	: 맞아요 근데 또 살려면 운동을 해야죠!!!
+P1 	: ㅋㅋ 진작에 할 걸 그랬어요

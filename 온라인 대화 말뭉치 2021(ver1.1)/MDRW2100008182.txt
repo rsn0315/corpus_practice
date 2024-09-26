@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100008182
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P0 	: 안해요?
+P1 	: 네 지금 설거지 하려고요
+P0 	: 전 청소담당이요
+P1 	: 헉 아까랑 넘 똑같아서 답이 순간 ㅜㅜ
+P1 	: 네 오늘 청소 힘드셨죠
+P0 	: 네 창문닦아요
+P1 	: 창문고요 와 제대로 하시네요 ㅎㅎ
+P1 	: 전 창문 생각도 못했네요
+P1 	: 진짜 청소하고 힘드실만 해요
+P0 	: 비가 많이 와서 얼룩이 장난 아니에요
+P1 	: 아 전 얼룩 보고 청소 생각 못했어요
+P1 	: 창문도 해야겠네요
+P1 	: 남자분들이 더 꼼꼼하더라구요
+P1 	: 하고나면 딴일 못하겠어요
+P1 	: 전 집안일중 설거지가 젤싫어요
+P1 	: 설거지는 안하세요?
+P0 	: 설거지 하죠
+P0 	: 요리를 못하니 그거라도
+P1 	: 네 와 그럼 설거지 청소 다하시네요 ㅎㅎ
+P1 	: 좋은 남편이신데요
+P0 	: 이거라도 해야 분란이 없죠 ㅎㅎ
+P1 	: 네 잘하셨어요
+P0 	: 가화만사성이죠

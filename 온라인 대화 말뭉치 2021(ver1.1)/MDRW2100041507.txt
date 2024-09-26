@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100041507
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장인이세요?
+P1 	: 아니요:) 지금은 주부에요
+P1 	: 직장인이신가요?
+P0 	: 우와 저는 직장인이요~
+P0 	: 결혼하시고 전업하시나봐요
+P1 	: 네:) 육휴하고 복직했다가
+P1 	: 아이봐줄분이 없어서
+	  퇴사했었어요:)
+P1 	: 실례가 안된다면
+	  어떤일 하시는지 여쭤봐도 될까요?
+P0 	: 아이고 ㅠㅜ 아이가있으면 진짜 한쪽은 직장다니기가 힘든 것 같아요
+P0 	: 저는 그냥 사무직다녀요~ 심심한 사무직
+P1 	: 출퇴근 거리는 얼마나 되요? :)
+P0 	: 원래 자차로 편도 1시간인데 너무 멀어서 자취해요 ㅠㅠ 그래서 10분.. 매달 월세가 어마어마합니다
+P1 	: ㅠㅠ그래도
+	  몸은 좀 편해지셨겠어요
+P1 	: 출퇴근 시간
+	  자차로1시간이면
+	  많이 고단하셨을텐데ㅠ
+P0 	: 네맞아욬ㅋㅋㅋ 시간을 산거니까요
+P0 	: 그나저나 원래는 무슨 일 하셨어요?
+P1 	: 저는 cs강사였어요  ㅋㅋ
+P0 	: 오 저도 예전에잠깐 흥미가졌었는뎈ㅋㅋㅋ
+P1 	: ㅋ모르시는 분들도 많으신데
+	  흥미까지 있으셨다하니 반갑네요 :)
+P0 	: 서비스직을 오래했었거든요ㅋㅋㅋ

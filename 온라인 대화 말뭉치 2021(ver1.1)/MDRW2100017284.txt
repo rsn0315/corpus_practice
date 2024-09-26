@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100017284
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주로 쇼핑은 어디서 하세요?
+P1 	: 네이버 쇼핑이요
+P0 	: 네이버 쇼핑 포인트 적립 돼서 좋은 것 같아요.
+P0 	: 그럼 네이버에서 최근에 뭐 쇼핑하셨어요?
+P1 	: 최근엔 폰케이스 샀어요
+P0 	: 폰케이스 어디서 샀어요?
+P0 	: 네이버 오픈마켓?
+P1 	: 네 예쁜거 많더라구요
+P0 	: 젤리 케이스요?
+P1 	: 아뇨 카드 넣을수 있는 케이스에요
+P0 	: 되게 실용성 있는 거 사셨네요 ㅎㅎ
+P0 	: 수납형 케이스네요~ 두꺼워요?
+P1 	: 아뇨 마그네틱 카드케이스라 두껍진 않네요
+P0 	: 다행이네요 ㅎㅎ 맘에 들어요?
+P1 	: 네 디자인도 예뻐서 좋아요
+P0 	: 다행이네요~ 얼마주고 사셨어요?
+P1 	: 만오천원? 정도 했던거 같아요
+P0 	: 저렴하게 잘사셨네요 ㅎㅎㅎ
+P0 	: 할인해서 사신거에요?
+P1 	: 네 할인 하고있었어요
+P0 	: 쿠폰도 적용했어요?
+P1 	: 아니요ㅋㅋ 쿠폰은 없어서요

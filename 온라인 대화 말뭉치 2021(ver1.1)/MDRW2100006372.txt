@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006372
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 전에는 축구나 야구 관람 좋아했는데
+P1 	: 요즘은 별로 관심이 없어요
+P1 	: &name1&은 스포츠 좋아해요?
+P0 	: 아뇨ㅜ 전 원래도ㅋㅋ
+P0 	: 왜 관심없어지셨나요??
+P1 	: 음 그냥 재미가 없어지더라고요ㅎㅎ
+P1 	: 요즘은 재태크나 자격증에 더 관심이 많아서
+P1 	: 스포츠 경기 직관 가보신적 있어요?
+P0 	: 야구한번이요
+P1 	: 아 그러시구나
+P0 	: 그후로 노관심ㅋㅋ
+P1 	: 월드컵이나 올림픽 경기는 보시나요?
+P0 	: 네ㅋㅋ
+P0 	: 근데 제가 보면 질거같고ㅋㅋ
+P1 	: 좋아하는 운동선수 있나요?
+P0 	: 지금은 딱히
+P0 	: 있으세요?
+P1 	: 음 아뇨ㅎㅎ 진짜 스포츠 관심이 없어져서요
+P1 	: 운동은 하는데 스포츠라기보다는 피트니스라서
+P0 	: ㅋㅋ 아 운동 좋아하세요?

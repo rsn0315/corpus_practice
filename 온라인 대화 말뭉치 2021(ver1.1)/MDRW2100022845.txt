@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022845
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아이스커피 맛있죠
+P0 	: 주로 블랙으로드세요?
+P1 	: 네.. 님은요?
+P0 	: 저는 블랙이나 아메리카노도 좋아하지만 다방커피 아이스커피도 좋아해요
+P1 	: 달달하니 맛있지요 건강에 안좋지만 ㅎㅎ
+P0 	: 아무래도 그렇죠? 여름엔 그래도 믹스커피로 아이스 마셔줘야해요
+P1 	: 믹스커피 안마신지 오래되었는데 마시고싶네요
+P0 	: 아예 안드세요? 저는 맥심게 맛있더라고요
+P1 	: 국민브랜드죠 거의 맥심마시지 않나요?
+P0 	: 네 그럴걸요 거의 독점ㅋㅋ
+P1 	: 예전에는 테이스터스도 많이들 마셨는데 요즘은 다 맥심마시는 거 같아요
+P0 	: 맞아요.. 김연아 효과일지도
+P1 	: 모델의 중요성ㅋㅋ저도갑자기 마시고싶어서 마트에가면 사와야겠어요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027318
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 밥먹었어
+P0 	: 네
+P0 	: 안녕
+P0 	: 배고파
+P1 	: 뭐먹을까
+P0 	: 샐러드어때
+P1 	: 어떤샐러드
+P1 	: 소스는?
+P0 	: 닭살좋지
+P0 	: 소스는 머스터드
+P1 	: 베이글은 어때
+P0 	: 빵은 밥같지않아
+P1 	: 허전하지
+P1 	: 쌀밥이 최고야
+P0 	: 렌틸콩도 넣고
+P0 	: 귀리도 넣고
+P1 	: 팥도 들어가고 잡곡밥
+P0 	: 건강하게 먹어야지
+P1 	: 순두부찌개어때
+P0 	: 돈까스는 외식으로 좋아
+P0 	: 치즈돈까스 맛집있나
+P0 	: 해산물 뭐가 좋아

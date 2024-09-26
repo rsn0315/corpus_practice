@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013482
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 데이트할때 연장자가 낸다? 남자가 낸다? 각자 계산한다? 어느쪽이세요?
+P1 	: 저는 다 또래랑만 만났는데 따로 누가 더 내고 이러기보다 자연스럽게 냈던거 같아요 왔다갔다 ㅋㅋㅋ
+P0 	: 니가 한번 내면 내가 한번내고 그렇게요?
+P1 	: 네네 ㅋㅋ 친구처럼 만났던 경우가 많아서
+P1 	: &name1&은요
+P0 	: 전 계속 연상이랑 만났는데 그들마다 스타일이 다르더라고요
+P1 	: 아 그럼 상대에 맞춰주셨나요?
+P0 	: 네~ ㅎㅎ 사람마다 같이 내자는 사람 있고 무조건 남자가 내야한다는 사람이 있었엉ㅅ
+P0 	: 어요
+P1 	: 아 근데 정말 그 부분은 사람마다 제각각인 것 같더라고요~~
+P0 	: 맞아요. 그래서 전 상대방에게 무조건 맞춰주거든요. &name2&님은요?
+P1 	: 저도 막 상대가 굳이 그렇게 해야겠다 하면 맞추겠지만 여태까진 그냥 비슷비슷했던거 같아요~~
+P1 	: 추구하는 이상형 이런 거 있으세요?
+P0 	: 근데 결혼해보니 추구하는 이상형 따윈 다 소용 없는거였어요
+P1 	: ㅎㅎㅎ 그건 그래요 ㅋㅋ 배우자님 어떤 부분에 끌려서 만나셨나요
+P0 	: 저한테 잘해줘서요 ㅎㅎㅎ
+P1 	: 아 그게 최고죠 ㅋㅋㅋ
+P1 	: 성격도 잘 맞는 편인가요?
+P0 	: 맞는 부분도있고 아닌 부분도 있는데 결혼하면 그 아닌 부분이 엄청 커지네요 ㅎㅎ

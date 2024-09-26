@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100012423
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 즐겨마시는 음료 있으세요?
+P0 	: 원래 물 말고 다른 거 자주 안 마셨었는데 최근에는 탄산수 종종 마셔요.
+P1 	: 아 커피나 탄산음료 이런건
+	  안좋아하세요?
+P0 	: 커피는 전혀 안 마셔서 카페 가면 차 종류나 핫초코, 프로즌 요거트, 생과일주스 등 마셔요
+P1 	: ㅋㅋ저랑 같은 과네요ㅋㅋ
+P0 	: 커피 맛있는지 모르겠더라구요 ㅋㅋ
+P1 	: 저두요 ㅋㅋ
+P1 	: 근데 직장인들은
+	  거진 아메로 수혈하고들 살아서ㅋ
+P1 	: 이런 저희들 노이해겠쥬 ㅋㅋ
+P0 	: ㅋㅋ 아예 안 먹으니까 커피 마시면 카페인 돈다는 느낌 자체를 모르겠어요
+P1 	: ㅋㅋ저도 몰라요ㅋㅋ
+P1 	: 박카스나 비타500이런것도 안마셔여ㅋ
+P0 	: 전 가끔 있으면 맛으로 먹긴 하는데 엄청 좋아하진 않아요
+P1 	: 저도 물 말고는
+	  마시고 나면 약간 입안에
+	  그 텁텁함도 싫고 해서
+	  물을 젤 많이 마시고
+P1 	: 식사하거나 할땐
+	  사이다 정도? ㅋㅋ
+P1 	: 이렇게 마시는거 같아요
+P0 	: 피자 햄버거 같은 거 먹을 땐 사이다 필요하죠 ㅋㅋ
+P1 	: 저는 콜라 놉!
+	  사이다입니다ㅋㅋㅋ
+P0 	: 저도 콜라보단 사이다 파 ㅋㅋ
+P1 	: 칠성 vs 스프라이트
+P1 	: 치킨  좋아하세요?

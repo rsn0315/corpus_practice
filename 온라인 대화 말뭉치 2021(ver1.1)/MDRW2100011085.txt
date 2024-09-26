@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100011085
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 안녕하세요!
+P0 	: 여행 좋아하시나바요
+P1 	: 네 좋아하죠 ㅎㅎ
+P1 	: 근데 요즘 코로나때문에 넘 가기 어려워요ㅠㅠ
+P0 	: 맞아요ㅠㅠ 인원제한도 그렇고..
+P0 	: 해외 너무 가고싶네요
+P1 	: 저 휴학하면 해외 가고싶었는데 해외는 커녕 국내여행도 많이 못가네요...ㅠㅠ 흑흑
+P1 	: &name1&님은 여행 좋아하세요?
+P0 	: 여행 완전 좋아하죠ㅎㅎ
+P1 	: 자주가는 여행지 있으세요?
+P0 	: 저는 제주도요!
+P1 	: 아 제주도 좋져ㅠ
+P1 	: 제주도 가면 꼭 들려야하는곳 있나요?
+P0 	: 섭지코지 경치 너무좋아요!
+P1 	: 오 저는 섭지코지는 안가봤어요
+P1 	: 담에 가면 가봐야겠네요 ㅎㅎ
+P0 	: 넵 꼭 가보세요ㅎㅎ

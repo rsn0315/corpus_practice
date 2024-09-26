@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100039649
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어 샌드위치 먹었어. 너는?
+P0 	: 헐 맛있었겠다
+P0 	: 나는 우유랑 시리얼 먹었어
+P1 	: 무슨 시리얼 먹었어?
+P0 	: 콘푸로스트가 집에 있어서 그거 먹었지ㅋㅋ
+P1 	: 잘했네. 엄마는 스타벅스 들릴 일이 있어서 거기 갔어
+P0 	: 스타벅스 샌드위치 먹었구나~~ 맛있었겠다 무슨 샌드위치 먹었어??
+P1 	: 크렌베리치킨 샌드위치 먹었어
+P0 	: 그거 맛있어?? 나도 먹어보고 싶다
+P1 	: 특별한 맛은 아니야. 커피랑 같이 먹으니 괜찮더라
+P0 	: ㅋㅋㅋ나도 지금 아메리카노 마시는 중
+P1 	: 따뜻한 거 마셔. 차가운 거 마시지 말고
+P0 	: 알게쏘
+P0 	: 헤이즐넛 시럽도 넣으려다 말았는데ㅋㅋㅋ
+P1 	: 그럼 차라리 라떼를 마시는 게 낫겠다
+P1 	: 연어초밥 먹고 싶어

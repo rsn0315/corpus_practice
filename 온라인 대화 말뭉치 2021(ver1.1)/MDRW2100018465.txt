@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018465
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 사신 물건 잇으세요?
+P1 	: 최근에 산 물건이라면, sd카드요
+	  &name1&은요?
+P0 	: 전 청자켓삿어요
+P0 	: sd카드는 왜사셧어요?
+P1 	: 아 폰 용량이 부족해서요
+P1 	: 청자켓! 옷 쇼핑하셨군요
+P0 	: 맞아요! 원피스에 입으려고 삿는데 약간 애매하네요
+P1 	: 구매 당시 생각했던 느낌이 아니었나요?
+P0 	: 음.. 네 생각보다 천이 얇네요 ㅜㅜ
+P1 	: ㅠㅠ 인터넷 쇼핑하면 그런 부분이 많이 아쉬워요
+P0 	: 맞아요! 리뷰없이는 솔직하게 잘 모르겟더라구요
+P1 	: 그쵸! 리뷰를 보고 나름 고심해서 골랐는데도 불구하고, 생각보다 실망인 경우도 있어요ㅜㅜ
+P0 	: 맞아요 ㅜㅜㅜ 옷살땐 그래서 오프라인매장가나봐요
+P1 	: 그런 이유로 오프라인매장을 고집하는 경우도 있더라구요
+P1 	: 하지만 저는 그래도 인터넷 쇼핑을 선호하는 편이에요
+P1 	: &name1&도 인터넷 쇼핑 선호사시나요?
+P0 	: 음 나쁘지않다곤 생각하지만 선호하진 않아요 ㅎㅎ
+P1 	: 그럼 오프라인 매장을 많이 이용하시겠네요
+P0 	: 네네 맞어요
+P0 	: 어제도 백화점 잠깐 들럿어요
+P1 	: 어떤 제품 보고 오셨어요?

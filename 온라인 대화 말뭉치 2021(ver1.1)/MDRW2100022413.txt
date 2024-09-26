@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 구매한 물건이 있으세요?
+P1 	: 최근에는 목걸이를 샀습니당!
+P0 	: 오 어떤목걸이요?
+P1 	: &name1&은 어떤걸 사셨나요??
+P1 	: 어거스트하모니 라는 브랜드에서 샀어요!ㅎㅎ
+P0 	: 저는 헤어집게 샀어요!!
+P0 	: 요즘 유행하는
+P1 	: ㅋㅋㅋㅋ헤어집게 저도 쓰고 있는데 너무 편하고 좋아용
+P1 	: 어떤 색?무늬?로 사셨어요??
+P0 	: 혹시 태연 헤어집게 아시나요? ㅋㅋ
+P0 	: 약간 투명한 갈색???
+P0 	: 구입했네요
+P1 	: 정확히 어떤건지는 모르겠네요ㅠㅠㅠㅠ 그래도 투명한 갈색이면 어느 머리에도 잘 어울리고 예쁠ㄹ거같아요!ㅎㅎ
+P0 	: 아 맞아요 ㅋㅋㅋ
+P0 	: 요즘 사고싶은 위시 물건은 있으세요?
+P1 	: 저는 이번에 나온 oioi 후드티요!
+P0 	: 아 거기 후드티 엄청 귀엽더라고요
+P1 	: 이번 메인컬러가 엄청 예뻐서 살려고 드릉드릉 준비중이에요
+P0 	: 오 메인컬러가 뭐에요?
+P1 	: 멜란지 그레이? 였는데
+P1 	: oioi 후드중에는 처음나오는 색인거같아서 맘에 들더라구용
+P1 	: &name1&은 쇼핑 위시리스트 있으세요??

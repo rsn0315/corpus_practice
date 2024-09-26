@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030426
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 로봇청소기는 어디거가 좋아요
+P1 	: 샤오미요 ㅋㅋ
+P1 	: 대륙의 실수
+P0 	: 우와 대륙의실수 ㅋㅋㅋ
+P0 	: 가성비가 좋은가보군요
+P1 	: 아니 ㅋㅋ왜케 일찍 일어나셨어요
+P0 	: 저 오늘 당직이라 ㅋㅋ &name2&님은 왜케 일찍 ㅋㅋ
+P1 	: 저도 근무중인뎨!
+P0 	: 오 무슨 근무중이세여
+P1 	: 지하철 교대근무입니다ㅋㅋ
+P0 	: 아 그러시구나
+P0 	: 언제집에가세요ㅠㅠ
+P1 	: 9시에요ㅋㅋ
+P1 	: &name1&님은 언제 가세여
+P0 	: 지금 다와가는중이에여
+P0 	: 오후 5시 30분에 해제입니다ㅜㅜ
+P1 	: 아 이제 출근이시구나ㅠ
+P1 	: 그래도 돈벌어야
+P1 	: 비스포크 살 수 있으니까
+P1 	: 힘내세요

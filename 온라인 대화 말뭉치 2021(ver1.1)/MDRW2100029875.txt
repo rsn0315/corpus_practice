@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100029875
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 그래 고맙다
+P0 	: 이제 좀 괜찮으세요?
+P1 	: 아직도 살짝은 안좋아
+P0 	: 정말 오래가네요
+P1 	: 그렇지.. 이게 거의 일년돼가고 있지
+P0 	: 그니까요
+P1 	: 나도 지긋지긋하다.. 빨리 낫고 싶은데 쉽지 않네
+P0 	: 예방접종이 이렇게 중요해요
+P1 	: 그러게 말이다.. 미리 접종했으면 이 고생은 안했겠지
+P0 	: 맞아요
+P1 	: 그래도 지금 처음에 비하면 많이 괜찮아져서 이걸로도 감사하고 있다
+P0 	: 진짜 하느님께 감사해요
+P1 	: 나도 기도 많이 했다

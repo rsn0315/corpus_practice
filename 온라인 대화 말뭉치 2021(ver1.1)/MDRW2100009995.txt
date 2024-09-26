@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009995
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 많이 온다
+P0 	: 장마인가
+P1 	: 장마인듯
+P0 	: 태풍인가
+P1 	: 오늘 하루종일 온대
+P0 	: 강수량은?
+P1 	: 남해안 피해 심각하다고 함
+P1 	: 모름
+P0 	: 얼마나오는데?
+P1 	: 여긴 50
+P0 	: 강우량?
+P1 	: 네
+P0 	: 가을에도장마가오는군
+P1 	: 가을장마
+P0 	: 추적추적

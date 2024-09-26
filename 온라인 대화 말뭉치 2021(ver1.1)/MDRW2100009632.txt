@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 성형 해보신 적 있으신가요?
+P1 	: 아니요. 겁이 많아서 ㅎㅎ
+P0 	: 그렇군요 ㅎㅎ 다이어트는 해보신 적 있나요?
+P1 	: 따로 특별히 해 본 적은 없지만 먹을 때 신경은 쓰고 있어요 ㅎㅎ
+P0 	: 그렇구나 혹시 어떤 부분을 신경쓰세요?
+P1 	: 일단 너무 많이는 안 먹고 음료류도 당 없는 걸로 고르는 편이에요. 요리할 때 대체당도 쓰고요
+P0 	: 오 그렇군요 제로 콜라 이런거 드시는 거구나
+P0 	: 요리할때 대체당 쓰면 티 많이 나나요?
+P1 	: 먹을 땐 잘 모르겠더라구요 ㅎㅎ
+P0 	: 아 그렇구나 그럼 저도 사야겠어요 저는
+P0 	: 요리 망칠까봐 안썼거든요ㅎㅎㅎ
+P1 	: 제빵 같은 거 할 때는 어떨지 모르겠는데 그냥 일반 요리에 들어가는 건 괜찮은 것 같아요
+P1 	: 운동 종종 하세요?
+P0 	: 저는 소미핏 이라는 유튜버 홈트 하고 요즘에는 점핑 다니고 있어요
+P1 	: 트램펄린 위에서 뛰는 건가요?
+P0 	: 맞아요!!

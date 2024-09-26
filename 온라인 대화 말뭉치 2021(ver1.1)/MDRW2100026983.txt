@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026983
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 저녁은 먹었어?
+P0 	: 응 아까 일어나자 마자 냉면 먹었어
+P1 	: 배달시켜 먹었어?
+P0 	: 어 배민에서 시켜먹었어
+P1 	: 비냉 아님 물냉?
+P0 	: ㅋㅋㅋ난 항상 물냉이지~~
+P1 	: 맛있었겠네. 엄마도 냉면 먹고 싶다
+P0 	: 함흥냉면 알지? 면발 엄청 가늘고 약간 반투명한 색인 냉면!
+P0 	: 그거 먹고 싶었는데 그건 요새 파는 곳이 거의 없나봐
+P1 	: 그건 기계식이라 매장에서 그 기계로 면발을 직접 뽑아야 돼
+P0 	: 헐 진짜? 그래서 요즘에 그 냉면 하는 가게가 별로 없구나
+P0 	: 그걸 먹고 싶었는데 못 찾아서 그냥 칡냉면 먹었어
+P1 	: 칡냉면도 맛있잖아. 고기없이 냉면만 먹었어?
+P0 	: 어 고기는 안 시켰어
+P0 	: 돼지갈비 먹고 싶었는데ㅎㅎ
+P1 	: 그것도 같이 시켜서 먹지 왜.
+P1 	: 냉면에는 꼭 고기가 같이 있어야 맛있지

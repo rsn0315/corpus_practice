@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 네 &name1&님은 좋아하시나요?
+P0 	: 좋아하는데 못간지 오래되어서 ㅠㅠ
+P1 	: 여행 어디 가보셨나요?
+P0 	: 외국 이요?
+P1 	: 아무데나요
+P0 	: ㅎㅎ 외국은 미국 유럽 중국 일본 터키  동남아 등등이요
+P1 	: 우와 엄청 많이 다니셨네요 어디가 가장 좋으셨나요?
+P0 	: 전 이탈리아요
+P1 	: 이유가 뭔가요?
+P0 	: 볼게넘쳐요 전 휴양보다 관광 좋아해서
+P1 	: 그럼 어디가 제일 볼 게 많았나요??
+P0 	: 전 로마요
+P1 	: 우와 가고싶네요

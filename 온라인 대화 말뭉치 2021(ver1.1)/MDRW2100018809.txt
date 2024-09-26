@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100018809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 학생이신가요?
+P1 	: 안녕하세요 전 졸업했어요
+P0 	: 앗 저도 졸업생이에요ㅎㅎ
+P0 	: 몇학번이세요?
+P1 	: ㅋㅋ졸업한지 오래오래됐어요
+P0 	: 저도 딱 십년됐네요ㅋㅋㅋ
+P1 	: 서로 오래됐네요ㅋㅋ
+P0 	: 그쵸 이제 학교생활 잘 기억도 안나네요
+P0 	: 요즘 학생들은 줌으로 동아리모임도 한다고 해요ㅋㅋㅋ 신기
+P1 	: 제동생은 휴학해버리던데요
+P1 	: 기숙사서 줌으로 수업한다구 등록금아깝대요
+P0 	: 와 정말 그럴만하네요..
+P0 	: 기숙사비는 기숙사비대로 들고
+P1 	: 네
+P1 	: 근데 휴학오래해도 손해라
+P1 	: 다시 준비하더라구요
+P0 	: 요즘 학생들도 힘들겠어요ㅋㅋㅋㅠㅠ
+P0 	: 무슨 과 나오셨어요?
+P1 	: 저는 디자인과요
+P1 	: &name1&님은요
+P0 	: 저는 무역학과요
+P0 	: 전공은 안살렸지만..^^ 다닐 땐 잼썼어요
+P1 	: 저는 쪼금 씩 써요 달리 할수있는게없어서 ㅎㅎ
+P1 	: 무역학은 머하나요?
+P0 	: 친구들보면 해외영업팀 들어가서 수출 수입도 하고
+P0 	: 그냥 다방면으로 취업하더라구요ㅋㅋㅋ
+P0 	: 학교 다닐 때 정말 잡다하게 배워요
+P1 	: 오오
+P1 	: 취업범위가 넓군요
+P1 	: 좋은과네요

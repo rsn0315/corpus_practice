@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100018483
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 학생이세요?
+P0 	: 네 대학생입니다
+P0 	: 학생이신가요?
+P1 	: 아니요 전 졸업했어요!
+P1 	: 아직 개강 안 했겠네요
+P0 	: 네
+P0 	: 다음주
+P0 	: 개
+P0 	: 강
+P0 	: 입니다
+P1 	: 이번 학기도 온라인 수업하나요?
+P0 	: 혼합이라서
+P0 	: 어떤건 대면수업하고 비대면하고
+P0 	: 복잡하네요 ㅋㅋㅋ
+P1 	: 코로나 때문에 MT 같은 것도 못 가겠네요? 아쉬울 것 같아요
+P0 	: 그러게요 모든게 좀 아쉽긴한데
+P0 	: 이러다가 흐지부지 졸업할거같아서 무섭네요
+P1 	: 그러네요ㅜㅜ 수강신청은 성공하셨나요?
+P0 	: 네 이번에 성공적으로 했어요
+P0 	: &name2&님은
+P0 	: 대학생활
+P0 	: 코로나랑 상관없이 졸업하셨나요?
+P1 	: 네~ 전 코로나 있기 전에 졸업했어요. 저때도 메르스 있고 그랬는데 그땐 이만큼 심하지 않아서 다 대면수업하고 학교생활도 정상적으로 했어요
+P0 	: 하.. 정말 코로나가 뭐라고
+P0 	: 대학생활을 제대로 해보지도못하고
+P0 	: 졸업걱정부터되네요 ㅋㅋㅋ
+P1 	: 제 사촌동생도 20학번인데 이렇다 할 학교 생활이 거의 없더라구요
+P1 	: 원래 가을학기는 학교 축제도 하는데 그것도 못할 것 같아요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100031896
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 도너츠 좋아하세요?
+P1 	: 저는 안좋아하고 와이프가 좋아해요
+P0 	: 맛집 자주 다니는 편이세요?
+P1 	: 아뇨 외식을 자주 못하다보니..
+	  맛집 자주 가시나요?
+P0 	: 아니요 저도 자주 안 가요
+P1 	: 그러시군요 배달은요?
+P0 	: 배달 아니면 포장해와서 먹어요
+P1 	: 주로 어떤 걸 드시나요?
+P0 	: 피자 치킨 주로 먹는거같아요
+P0 	: 김밥도 사먹었어요 포장으로요
+P1 	: 저도 피자.햄버거 배달로 자주 먹는 메뉴네요
+P0 	: 네 젤 자주 먹게되는 메뉴더라구요
+P1 	: 김밥에 라볶이..분식 조합도 좋죠...
+P0 	: 네 맛있어요 ㅎㅎㅎ
+P0 	: 갑자기 먹고싶네요

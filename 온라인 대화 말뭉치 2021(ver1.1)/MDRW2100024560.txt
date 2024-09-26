@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024560
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 연극이나 뮤지컬 좋아하세요?
+P0 	: 예전에 좋아하는 배우 보러 몇 번 갔었어요!
+P0 	: 혹시 공연 좋아하시나요?
+P1 	: 좋아하는 편이에요ㅎㅎ
+P1 	: 어떤 배우 좋아하세요?
+P0 	: 서경수라는 뮤지컬배우 좋아하는데 혹시 아세요?
+P1 	: 잘 몰라요ㅜㅜ제가 뮤지컬배우들을 잘 알 지 못해요...ㅋㅋㅋ
+P0 	: 아 그럴수있죠ㅎㅎ 혹시 어떤 종류 공연 좋아하세요?
+P1 	: 시간 날 때 가끔 연극보러가요ㅎ 소극장연극이요! 뮤지컬은 영웅 뮤지컬 봤어요
+P1 	: 요즘에는 코로나때문에 전혀 못가고 있지만요ㅜ
+P0 	: 아 맞아요 ㅠㅠ 코로나때문에 저도 못 본 지 2년이 넘어가네요
+P0 	: 영화관은 가시나요?
+P1 	: 영화관도 못가고있어요ㅜㅜ
+P1 	: 집에서 구매해서 봅니다ㅜㅜ
+P0 	: 저두요 가서 관람하기가 쉽지 않죠 ㅠㅠ
+P0 	: 전시회는 그래도 거리두기가 되어서 가기 어렵지 않더라구요!
+P1 	: 괜찮은 전시회 있나요?
+P0 	: 아 저는 국립현대미술관 가끔 가요ㅎㅎㅎ 미술 잘은 모르지만 근처라
+P0 	: 이번에 이건희 소장품? 그것도 하더라구요
+P1 	: 아아 이건희 소장품 전시회 보셨어요?
+P0 	: 그건 예매하기가 어려워서 못 갔습니다 ㅠㅠ 나중에 가보려구요

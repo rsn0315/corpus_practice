@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002280
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 출근중인데 들을만한 좋은 노래 추천해주실수 있을까요
+P1 	: 요즘신곡은 잘 몰라서요ㅎㅎ
+P1 	: 어떤노래주로 들으세요?~
+P0 	: 저도 신곡은 잘몰라요
+P0 	: 사실 좋아하는 연예인 노래 위주로 들어요
+P0 	: 매드몬스터라고 아시나요?
+P1 	: 좋아하는 가수 있으신가요?ㅎ
+P1 	: 네ㅎ
+P0 	: ㅎㅎ저는 매드몬스터 좋아해요
+P1 	: 저도좋아해요ㅎㅎㅎㅎㅎㅎㅎ
+P0 	: 포켓몬스터세요??????
+P0 	: 와 아침부터 기분좋네요 ㅎㅎㅎ
+P1 	: 영화도 재밌는게 많이 개봉했던데요
+P0 	: 요새 재밌는 영화 어떤게 있나요?
+P0 	: 코로나때문에 영화관 소식은 아예 모르고 있네요
+P1 	: 모가디슈나 인질보고싶어요
+P0 	: 조인성 황정민이죠?
+P0 	: 재밌어보이던데

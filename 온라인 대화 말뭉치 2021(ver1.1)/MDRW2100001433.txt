@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001433
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P0 	: /
+P1 	: 안녕하세요!
+P1 	: &name1&님 점심식사 하셨나요? ㅎㅎ
+P0 	: 이제 하러 가려고요.
+	  &name2&님은 점심식사 하셨나요?
+P1 	: 저는 오늘 조금 늦게 식사할 것 같아요..!
+P1 	: 오늘 &name1&님 점심 메뉴는 무엇인가요? ㅎㅎ
+P0 	: 편의점에서 샌드위치 먹으려고 합니다.
+P1 	: 앗 그렇군요 요즘은 편의점도 샌드위치가 잘 나와서 든든한 걸로 드시면 좋을 것 같아요! ㅎㅎ
+P1 	: 혹시 아이돌샌드위치 드셔보셨나요 ㅎㅎ
+P0 	: 그건 본적은 있는데 먹어보진 않았네요
+P1 	: 아이돌 샌드위치 저도 한 번 정도 먹었었는데
+P1 	: 뭔가 조합이 괜찮고 양이 꽤 돼가지고 든든했어요!
+P1 	: 지금 점심 식사 중이신가요..?ㅎㅎ
+P0 	: 아직도 팔면 먹어봐야겠네요. 지금 한바퀴돌고 편의점가려고요.
+P1 	: 꼭 한번 드셔보세요! ㅎㅎ
+P1 	: 저는 보통 편의점 가면 메뉴가 너무 많아서 잘 못 고르겠던데
+P1 	: &name1&님은 샌드위치랑 다른 메뉴도 드시나요?ㅎㅎ
+P0 	: 웬만하면 샌드위치 하나만 먹으려고 노력해요. 살찌기 싫어서요 ㅎㅎ
+P1 	: 그렇군요! 저는 그러면 금세 배고파져서 간식도 엄청 먹는데 ㅜㅜ 대단하신 것 같아요 ㅎㅎ

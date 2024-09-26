@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100015585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 선호하는 장르도서 있으신가요
+P1 	: 음 저는 주로 소설 읽어요
+P0 	: 오 저두요
+P1 	: 오 최근에 뭐 읽으셨어요??
+P0 	: 도서관가서  하루종일 있어보고파요
+P1 	: 아 저두저두 ㅋㅋㅋㅋㅋ 도서관이나 서점가는거 좋아해요 ㅠㅠㅋㅋㅋㅋ
+P0 	: 최근에는 자존감수업하고 나는왜내가힘들까 읽었어요
+P0 	: &name2&님은요?
+P1 	: 아 나는 왜 내가 힘들까 그거 저도 읽어볼까 생각중이었는데!
+P1 	: 전 천개의 파랑요 ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 제목만 나열하니 왠지 자존감없는사람처럼보이지만 아니랍니다ㅋㅋ
+P0 	: 천개의파랑은 모지요?
+P1 	: sf소설인데 감동적인 내용이라서 좋았어요 ㅋㅋㅋㅋㅋ
+P0 	: 오오
+P0 	: 찾아봐야겠어요
+P0 	: 첨들어요
+P1 	: 아 진짜요??
+P1 	: 감동적인 코드 좋아하시면 추천해요!!
+P1 	: 재밌어요
+P0 	: 오 감동적인 코드
+P0 	: 친구가 가재의 노래라는책 추천해줬는데
+P1 	: 오 첨들어봐요
+P0 	: 가재가 노래하는곳이네요ㅋㅋㅋㅋㄱ
+P0 	: 아직 못읽어봤어요 두꺼워서리ㅜㅜ
+P1 	: 앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 무슨 책인가요???
+P1 	: 소설이예요?
+P0 	: 네네
+P0 	: 소설이에요

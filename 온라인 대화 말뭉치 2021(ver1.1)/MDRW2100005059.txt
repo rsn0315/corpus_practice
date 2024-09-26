@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100005059
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁식사 하셨어요?
+P0 	: 네 식사하셨어요?
+P1 	: 배가 안고파서 토마토 썰어놓은거 먹었어요ㅎ
+P1 	: 제육이 아직도 안녹아요
+P0 	: 헉 아직도요?
+P1 	: 엄청 꽝꽝 얼어서 왔나봐요ㅋ
+P0 	: 렌지에 해동으로라도 돌리셔야하는거아니예요?
+P1 	: 걍 냅뒀다 낼점심으로 먹어야겠어요
+P1 	: 뭐드셨어요?
+P0 	: 오늘 토마토드신게 다인거예요?
+P0 	: 저는 친정에서 호박잎이랑 된장찌개해주셔서 그걸로 저녁해결했어요
+P1 	: 오 호박잎 좋아하는데 쌈싸서 먹음 맛있죠
+P1 	: 전점심에 감자고로케랑 곱창ㅋ
+P0 	: 요즘 철인가봐요 호박잎
+P0 	: 신랑 호박잎 먹고싶었다며 밥을 두공기먹더라구요
+P1 	: 저도 먹고싶네요 먹어본지 오래됐어요
+P0 	: 이런건 어머니손맛이 필요한거라 ㅎ
+P0 	: 저도 엄마가 해줘서 먹었네요 ㅎ
+P0 	: 안그럼 찌고하는거 귀찮아서 못할듯요
+P1 	: ㅎㅎ 다듬고 세척하고 찌고 번거롭긴해요
+P0 	: 맞아요 담주말 어머니께 예약해보세요 호박잎 ㅎㅎ
+P1 	: 그래야겠어요ㅎ

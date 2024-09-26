@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027395
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사는요?
+P0 	: 이제해야죠ㅋ
+P0 	: 식사하셨어요?
+P1 	: 분식이여
+P0 	: 김밥이요?
+P1 	: 순대여
+P0 	: 아 순대ㅋㅋ맛있죠ㅋㅋ 순대못먹은지 좀됐네요ㅋㅋ
+P0 	: 저는 고민이네요
+P1 	: 어떤거요?
+P0 	: 점심이요ㅜㅋㅋ아직못적했어요.
+P1 	: 아직요?
+P0 	: 열무비빔밥먹었어요ㅋㅋ
+P1 	: 맛나겠네녀
+P0 	: 네 저녁메뉴도 고민하다가 ㅋㅋ
+P0 	: 오늘 소고기, 삼겹살 사와서 먹으려구요
+P1 	: 맛나겠네녀

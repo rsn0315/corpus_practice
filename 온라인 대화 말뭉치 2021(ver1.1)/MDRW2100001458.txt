@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100001458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: &name2&님?
+P1 	: 안녕하세요~
+P1 	: 최근에 본 영화 있으신가요?
+P0 	: 네. 넥플릭스에서 오징어게임을 보았어요.
+P1 	: 오징어게임 ㅎㅎㅎㅎ
+P1 	: 넷플릭스 누적 시청자 수 전세계 1위를 했더라구요 ㄷㄷㄷ
+P1 	: 정말 대단한 드라마에요 ㅋㅋㅋㅋ
+P0 	: 맞아요. 난 정주행하여 하루만에... 
+	  우리나라 문화의 힘을 다시 실감했어요.
+P1 	: ㅎㅎ 정말로요!
+P1 	: 오징어게임말고 또 재밌게 보신 드라마가 있으신가요~?
+P0 	: 요즘 신민아 나온는 갯마을차차차를 집사람과 애청 중이에요..
+P1 	: 아 그것도 엄청 재밌다고하던데..
+P1 	: 볼건 많은데 다 밀렸네요 ㅠㅠㅋㅋㅋㅋ
+P1 	: 약간 힐링물인가요?
+P0 	: 힐링물?.. 바닷가가 배경이라 요즘 같은 코로나 시대에 힐링도 되죠...
+P1 	: 아하 ㅎㅎㅎㅎ 시간있음 꼭 봐야겠어요
+P1 	: 그게 무슨 영화 리메이크한거라던데
+P0 	: ㅇ그런가요? 
+	  전 배우들 땜에 보기 시작했는데
+	  재밌고 사랑과 결혼에 대한 따뜻한 얘기라 좋네요..
+P1 	: 요즘에는 자극적인 드라마가 많이 나오는데
+P1 	: 사실 전 저런 따뜻한 내용의 드라마가 더 많이 나왔으면해요..ㅎㅎㅎ
+	  

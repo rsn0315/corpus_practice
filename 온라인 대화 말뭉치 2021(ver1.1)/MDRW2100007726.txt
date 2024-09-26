@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100007726
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소에 커뮤니티 하세요?
+P1 	: 네 ~ 글을 쓰진 않지만 보는 걸 좋아해요!
+P1 	: &name1&님은 커뮤 하시나요?
+P0 	: 저도 해요!
+P0 	: 주로 저도 보는 편이에요!
+P0 	: 커뮤니티에서 아는 사람 만난적 있으세요?
+P1 	: 아는 사람을 만난 적은 없어요!
+	  &name1&님은 있으신가요???
+P0 	: 아니요!
+P1 	: 커뮤에서 아는 사람 만나면 뭔가 신기할 것 같아요
+P0 	: 맞아요!
+P0 	: 뭔가 근데 어려울거 같아요ㅎㅎ
+P0 	: 주로 커뮤니티 재밌는글 보시나요?
+P1 	: 네 웃긴거 찾아보는 편이에요ㅎㅎ
+	  최근에 웃겼던 글 중에 스파크 딸바보 에디션이라고.. 혹시 보셨나요?
+P0 	: 아뇨ㅠㅠ찾아볼게요!
+P0 	: 정모 활동은 안하시죠?
+P0 	: 요즘 코로나라서..
+P1 	: 네 정모같은 활동은 따로 하진 않아요ㅎㅎ
+	  모임 같은 걸 좋아하지는 않아서요 ~
+P1 	: &name1&님은 정모 자주 하셨던 편인가요?
+P0 	: 저두요
+P0 	: 부담스럽고 해서요ㅎㅎ
+P0 	: 커뮤니티에서 정보 얻는것도 많은거 같아요
+P1 	: 맞아요!
+	  심심이 이벤트?도 커뮤니티보고 알게 됐어요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 하셨나요?
+P0 	: 요즘 직접 나가서 쇼핑을 잘못하니 거의 온라인쇼핑  위주로 해요
+P1 	: 저도 90프로 온라인으로요 ㅎ
+P0 	: 온라인이 조금 저렴한것 같기도 해서 아무래도ㅋㅋ
+P1 	: 네~배달도 해주고 ㅎ
+P0 	: 주로 어떤거 주문하세요?
+P1 	: 왠만한건 다 주문한다고 보면 되요
+P0 	: 하긴 화장품부터 식료품 의류 다 가능하니깐요
+P1 	: 네~거의 하루 한번은 쇼핑 하는것 같아요
+P0 	: 일상생활인거죠ㅋ핫딜 떴다고 히면 당장 필요없어도 일단 보게되고
+P1 	: 네~~그래서 소비가 많아진것 같아요
+P0 	: 조금이라도 저렴하게 사려고 하다보니 더 과소비를 부축이고 있는건 사실 인거 같아요
+P1 	: 네 집안에 물건이 꽉 찼어요 ㅎ

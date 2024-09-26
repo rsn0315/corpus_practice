@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100011840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다이어트 해보신 적 있으신가요?
+P0 	: 지금 하고 있어요 ..ㅠㅠ
+P0 	: &name2&님은요?
+P1 	: 저는 해야 하는 체형이지만 고집으로 안 하고 있어요...
+P0 	: 빡센 다이어트는 자신이 없어서 밥 먹는 양 조금 줄이고 걷기만 하고있어요..
+P0 	: 운동은 자주 하시나요?
+P1 	: 운동 올 초부터 부모님의 닥달로 시작했어요ㅋㅋ
+P0 	: 어떤 운동 주로 하시나요ㅎㅎ
+P1 	: 스트레칭이랑 플랭크는 기본으로 하고 상하체는 요일을 나눠서 해요
+P0 	: 규칙적으로 하시네요 ! 홈트하시는건가요
+P1 	: 홈트로 해서 쉴 때도 많아요..
+P0 	: 저도 홈트 가끔해요
+P0 	: 장점이 혼자서도 할 수 있는거지만 단점도 혼자서 하는거라는 점이죠...
+P1 	: 맞아요...의욕이 영 안 나기도 해요
+P0 	: 그쵸 ㅠㅠ 체중감량도 되셨죠?
+P1 	: 그래봤자 몇 키로라 티도 안 나요...ㅎ
+P0 	: 몇키로면 티나죠 얼굴이 좀 갸름해졌다거나 뱃살이 들어갔다던가..
+P0 	: 살빼기가 참 쉽진않지만 점점 줄어드는 몸무게 보면 힘이나더라구요
+P1 	: 부지런하신가봐요...!

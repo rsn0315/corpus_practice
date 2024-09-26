@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100044920
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 어제는 화장품 샀어요!!
+P0 	: 어떤 화장품요?
+P1 	: &name1&님은 사신 물건 있으신가요??
+P0 	: 저는 게토레이 음료수 샀어요.
+	  지구나이트 쿠폰써서요.
+P1 	: 음료수 좋아하시나보네요!!
+P1 	: 요즘 지마켓도 할인한다고 하더라고요
+P0 	: 네
+	    빅스마일데이요.ㅎ
+P1 	: 저도 지마켓 좀 구경하려고요 ㅋㅋㅋ
+P1 	: 어떤분은 약밥 사셨다고 하셨어요 맛있나봐요!!
+P0 	: 저도 따라살까봐요.
+	  쇼핑은 따라사는 맛도 있지요.ㅎ
+P1 	: 저도 설득당해서 사볼까 했어요 ㅋㅋㅋㅋㅋ
+P0 	: 같이 사요.
+	  함께 사는 쇼핑이 진짜 즐겁습니다.ㅎ
+P1 	: ㅎㅎㅎ 그럴까여??
+P0 	: 네네..^^
+	  저는 오늘 양말 건조대가 도착했는데
+	  마음에 드네요.

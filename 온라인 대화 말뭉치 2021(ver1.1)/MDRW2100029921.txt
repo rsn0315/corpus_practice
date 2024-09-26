@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨가 간만에 해가 났네요. 거긴 어떤가요?
+P1 	: 네 오전까진 비가 왔어요
+P0 	: 그래요? 여긴 아침부터 해가 나서 이게 얼마만인가 싶더군요
+P0 	: 지금은 해 나왔나요?
+P1 	: 날씨가 선선해졌어요
+P1 	: 네 이제 해가 났어요
+P0 	: 맞아요.. 가을처럼 선선해졌어요..
+P1 	: 내일도 비 소식은 있어요
+P0 	: 아직 낮은 덥지만요
+P1 	: 비 좋아하세요?
+P0 	: 저는 빗소리를 좋아합니다
+P1 	: 여름보단 가을이 낫죠?
+P0 	: 사실 여름을 가장 좋아합니다
+P1 	: 비올때 차한잔 따끈하게 마시면 좋죠
+P0 	: 그렇지만 장마를 좋아하진 않아요
+P1 	: 오 여름이 가서 아쉬우시죠
+P1 	: 빗소리는 듣기좋아요

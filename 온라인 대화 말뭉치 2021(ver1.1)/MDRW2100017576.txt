@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017576
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P0 	: 혹시 학교재학중이신가요?
+P1 	: 아뇨 졸업했어요 ㅋㅋ 근데 따로 수업듣는건 있어요
+P1 	: 재학중이신가요?
+P0 	: 아하! 전 재학중이에요
+P0 	: 따로 어떤수업들으시나요?
+P1 	: 평생교육원 강의 듣고 있어요
+P1 	: 자격증 따고 싶은 게 있어서요
+P1 	: 재학중이시면 곧 개강하시겠네요
+P1 	: 대면인가요?
+P0 	: 아하! 멋지네요
+P0 	: 저는 비대면이에요 ㅎㅎ
+P1 	: 비대면이면 수업듣기 불편하지 않나요?
+P0 	: 불편하지만 어쩔수없죠 뭐 ㅜㅜ
+P1 	: 그쵸 ㅜ 저도 평생교육 온라인강의로 듣는데 꼬박꼬박 듣는게 힘들더라구요
+P0 	: 맞아요 대면이 훨 나아요 질적으로나 심적으로나
+P1 	: 그쵸 얼른 코로나 시국이 끝나면 좋겠어요
+P1 	: 웽디님은 따로 하는 공부가 있나요?
+P0 	: 저는 hsk6급시험 공부하고있어요 ㅎㅎ
+P1 	: 오 그거 중국어 시험이죠? 중국어 잘하세요?
+P0 	: 맞아요~ 음 제입으로 잘한다고하긴뭐하지만 그냥 회회는 대부분 알아듣는거같아욮ㅎㅎ
+P1 	: 와 그럼 중국여행 가시면 엄청 편하겠어요~ 혹시 어학연수같은 거 가셨어요?

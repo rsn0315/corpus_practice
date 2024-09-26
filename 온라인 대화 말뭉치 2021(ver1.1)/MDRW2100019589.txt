@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019589
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 프라하도 좋을것 같아
+P1 	: 프라하도 좋을 것 같아
+P0 	: 응 진짜 낭만적이야
+P1 	: 프라하 말고 또 가보고 싶은데 있어?
+P0 	: 음 두바이?
+P1 	: 두바이도 좋긴 하지 근데 치안 괜찮나?
+P0 	: 두바이는 그래도 좀 괜찮은 편일걸?
+P1 	: 그래?
+P0 	: 응 약간 사막반 도시반 느낌이었어
+P1 	: ㅋㅋㅋㅋ
+P0 	: 되게 특이한 느낌이야
+P1 	: 약간 예를 들면 한옥과 도시가 공존하는 느낌인가?
+P0 	: 아 그치 북촌한옥마을 느낌ㅋㅋㅋ
+P1 	: 특이하긴 하네
+P1 	: 여행 가보고 싶은 곳 있어?

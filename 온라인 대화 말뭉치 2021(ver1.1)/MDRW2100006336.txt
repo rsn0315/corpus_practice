@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006336
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 반가워요
+P0 	: 안녈하세요
+P1 	: 추석 특별 방역 대책에대해 어떻게생각하세요?
+P0 	: 저는 이미 접종완료 후 2주가 훨씬 넘어서 뭐 그러려니합니다.
+P1 	: 저는 지금은 접종한지 얼마 안되었지만 조만간 그렇겟죠 ?
+P0 	: 얼마나 되셨는데요?
+P1 	: 이제 7일 넘었어요.
+P0 	: 그러시면 추석때는 너무 마음이 편하시겠어요
+P1 	: 맞아요 ㅎㅎ 얼른맞는게 최고죠
+P0 	: 안맞을거 얼른 맞아두니 규제에서 조금 자유로운편이라 좋아요
+P1 	: 저도 그 점은 공감합니다.
+	  운좋게 끝나서 다행이에요
+P0 	: 네!! 고생많으셨어요

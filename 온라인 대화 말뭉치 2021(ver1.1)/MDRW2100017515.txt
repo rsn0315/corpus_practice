@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017515
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반려동물 키우시나요?
+P1 	: 아니요 &name1&은요?
+P0 	: 저도 키우지않아요ㅠㅠ여건상 지금은 무리더라고요ㅠㅠ
+P0 	: 주변에 키우시는분 계신가요?
+P1 	: 없지만 반려동물은 대채로 좋아하는 편이에요
+P0 	: 그쵸ㅠㅠ 고양이와 강아지중 어떤동물을 키우고싶으신가요?
+P1 	: 저는 고양이를 키우고 싶어요
+P0 	: 고양이 정말 귀엽죠ㅠㅠ 근데주변에 반려동물 키우는 친구들보면 간식값이나 용품값도 장난아니더라구요ㅜㅜ
+P1 	: 맞아요 그런 소소한 지출뿐만 아니라 병원비도 엄청 든다더라고요ㅠ
+P0 	: ㅠㅠ그런이유때문에도 반려동물 입양은 선뜻 선택하기가 쉽지않은것 같아용
+P1 	: 네 전 무엇보다 반려동물이 죽었을때가 가장 감당이 안될것 같더라고요
+P0 	: 아맞아요ㅠㅠ 펫로스 증상아나고하나요?ㅠㅠ정말가족이 떠나는 기분일것같아요
+P0 	: 반려동물도 큰결심을 가지고 입양해야할것같아요
+P1 	: 그쵸 펫로스로 힘들어 하는 모습을 본적이 있는데 안타깝더라고요ㅠ
+P0 	: ㅠㅠ주변에서 그런모습을 보면 넘 안타깝고 왜 수명이 같을수없을까 힘들어요ㅠㅠ

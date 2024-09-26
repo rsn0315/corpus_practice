@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요
+P1 	: 여행 안좋아해요
+P1 	: 여행 좋아하세요??
+P0 	: 네 좋아해요
+P0 	: 요새 못가서 아쉽네요
+P1 	: 제일기억에 남는곳은 어디있으세요?!
+P0 	: 강릉이요
+P0 	: 바다보러 갔었는데 예쁘더라구요
+P1 	: 바다,,,!
+P1 	: 너무이쁘죠
+P1 	: 기념품 뭐 사신거있으실까요?!
+P0 	: 기념품은 안샀어요ㅋㅋ
+P0 	: 사진은 잔뜩 찍었어요
+P1 	: 코로나끝나면 또가실계획있으세요?!
+P1 	: 사진이 남는거죠!
+P0 	: 네 꼭이요ㅠㅠ 새벽바다도 진짜 예쁘거든요
+P1 	: 와 새벽바다
+P1 	: 새벽공기 맡으면 어렴풋이 그때 그 느낌이 생각날거같아요
+P0 	: 맞아요ㅎㅎ 새벽엔 사람도 잘 없고 산책하기도 좋더라구요
+P1 	: 강릉말고 또 어디여행계획 있으세요?!
+P0 	: 요샌 먹부림 여행 가고싶어요
+P0 	: 서울 맛집투어도 괜찮을거 같구요ㅋㅋㅋ
+P1 	: 맛집투어너무좋죠

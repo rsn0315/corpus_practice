@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100018561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교 다니세요?
+P0 	: 아니요
+P0 	: 학교 안다닙니다
+P0 	: 학교다시나요
+P1 	: 아뇨 저도 안다녀요ㅋㅋ
+P1 	: 학교 다닐 때
+P1 	: 발표 잘하셨어요?
+P0 	: 아니요.. 그렇게까지 잘하지는 않았던거같은데
+P0 	: &name2&님은요?
+P0 	: 아무래도 사람들 앞에 선다는게.. 좀 부담이죠
+P1 	: 전 발표를 너무 싫어했어요
+P0 	: 아마 다들 그랬을거같아요
+P1 	: ㅋㅋㅋㅋㅋㅋ 좋아하는 사람들 보면
+P1 	: 너무 신기해요
+P0 	: 학교 다닐 때 식당은 어땠어요
+P0 	: 저는 완전 별로..ㅎ
+P1 	: ㅋㅋㅋ전 그냥저냥..
+P1 	: 보통이였어요
+P0 	: 그러셨구나 식당밥이 보통쯤만되도 좋았을텐데ㅎ
+P0 	: 학교 다닐 때 뭐가 가장 기억에 남으세요
+P1 	: 공강시간에
+P1 	: 영화 봄거여 ㅠㅠ 좋았는데
+P0 	: 그거 추억이겠어요
+P1 	: ㅠㅠ 네
+P1 	: 너무 좋은 추억

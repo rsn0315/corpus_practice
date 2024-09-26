@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100045806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 날씨가 어떤가요
+P1 	: 흐리네요
+P1 	: 오늘도 비 올 거 같아요.
+P0 	: 비가 그치고 흐린 날 이네요
+P1 	: 비 좀 그만 왔으면 좋셌어요
+P0 	: 이번주는 그만 온다고 하는것 같네요
+P1 	: 다행이네요.
+P0 	: 비가 계속오니 맘도 우울하네요
+P1 	: 그쵸.쨍한 날 보고 싶어요.
+P0 	: 해가 넘 그립네요
+P0 	: 여긴 엄청 흐린 날씨네요
+P1 	: 비올거 같나요?
+P0 	: 비는 그쳤지만 또 올것같은 날씨네요
+P1 	: 여기는 맑아 질거 같아요
+P0 	: 맑은 하늘을 볼수 있겠네요
+P1 	: 네. 점점 맑어져요.^^

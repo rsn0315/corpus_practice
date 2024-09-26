@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100042128
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 게임 하시는거 있으세요??
+P0 	: 아뇨 저는 없어요
+P0 	: &name2&님은용?
+P1 	: 저는 모바일게임 많이 하죠
+P0 	: 오오 어떤거요?
+P1 	: 리듬겜을 주로 많이 해요!
+P0 	: 헐
+P0 	: 저 진짜 못하는데ㅋㅋㅋㅋㅋㅋ
+P0 	: 박자감각이 좋으시군요?
+P1 	: 막 엄청 잘하는건 아니에요 ㅋㅋ
+P1 	: 그래두 하나도 안틀리고 다 하면 뿌듯하더라구용
+P0 	: 전 리듬게임하고나면 어깨랑 목이랑 다 아파요 ㅋㅋㅋㅋㅋ
+P0 	: 너무 긴장을 많이해가지구
+P0 	: 손도 아프고
+P0 	: 유난입니다
+P1 	: 저두 그래요 ㅋㅋㅋㅋ
+P1 	: 너무 많이하다보면 손목이랑 손가락이 많이 아프더라구요
+P0 	: 리듬게임하다가 문득 나 왜 잘하지? 하고 생각하면 끝나는거 아시죠
+P0 	: ㅋㅋㅋㅋ
+P0 	: 저만 그런가요?
+P1 	: ㅋㅋㅋㅋㅋㅋ저두 그래요
+P1 	: 갑자기 나 너무 잘하는것같아! 생각하면 꼭 틀리더라구요
+P0 	: 그쵸그쵸ㅋㅋㅋㅋㅋㅋㅋ갑자기 손이 안움직여요 ㅋㅋㅋㅋ
+P0 	: 앗 그러면 &name2&님 인내의 숲 이런거도 잘하세요?
+P1 	: 인내의숲 다 깨본적 있어요!
+P0 	: ㄷㄷ...
+P0 	: 저는 메이플 안에 있는 그 인내의 숲 비슷한 두번점프 안되는 그런 게임 단 한개도 성공못했어요

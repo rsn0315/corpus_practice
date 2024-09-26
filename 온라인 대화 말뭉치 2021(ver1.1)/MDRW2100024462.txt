@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100024462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님이 계신 지역의 날씨는 어떤가요?
+P1 	: 해가쨍쨍입니다
+P0 	: 여긴 비가 오려나 흐리네요ㅜ
+P1 	: 아여기도 아까는 비왔는데 지금은 해가ㅠㅠ
+P0 	: 엄청 습하겠네요ㅜㅜ
+P0 	: 얼른 시원해지면 좋겠네요ㅜ
+P1 	: 해가있어서 더워여ㅠㅠ밤에는그래도 추워서문닫고 잤어요
+P0 	: 맞아요!
+	  저도 새벽에 깨서  창문닫고 잤는데ㅋㅋ
+P0 	: 이런날 감기잘 걸리니 건강 조심하세요~~^^
+P1 	: 맞아요 저도 새벽에 닫었어요
+P0 	: ㅎㅎㅎ날씨는 그래도 어느지역이든 비슷한가보네요ㅎ
+P1 	: 그런가봐요ㅋㅋ여기는아랫지역
+P0 	: 앗 저도 아랫지역인데ㅋㅋㅋ
+P1 	: 저는 대구요
+P0 	: 전 더 밑에 부산이요ㅎㅎ
+P0 	: 그래서 날씨가  비슷했군요ㅋㅋ
+P1 	: 그런가봐요ㅎㅎ. 그래도 에어컨안켜도
+P1 	: 될날씨라 다행이져

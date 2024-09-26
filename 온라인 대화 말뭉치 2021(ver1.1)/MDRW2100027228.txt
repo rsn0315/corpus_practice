@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100027228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 개미
+P0 	: 읽어보셨나요
+P1 	: 개미는 안읽고 고양이 읽었습니다
+P0 	: 고양이 재밌나요
+P1 	: 고양이 망상이야기라 와닿지 않았어요
+P0 	: 제가 좋아하는 작가 책이라읽고싶네요
+P1 	: 2권 완결인데 좋아하는 작가라면 읽어보세요
+P0 	: 고양이 말고 뭐가 있는지 아시나요
+P1 	: 글쎄요. 좋아하는 작가가 아니라 잘 몰라요
+P0 	: 누구 좋아해요
+P1 	: 정세랑이랑 양귀자가 떠오르네요
+P0 	: 무슨책 있었요?
+P1 	: 읽어보셨나요
+P1 	: 보건교사 안은영
+P0 	: 들어봤어요

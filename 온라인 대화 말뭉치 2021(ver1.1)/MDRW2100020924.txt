@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트하세요?
+P1 	: 네 지금 하는 중이에요
+P1 	: 이미 성공했지만 꾸준히 하려구요
+P0 	: 와 성공하신분 첨봐요
+P0 	: 얼마나 빼셨어요?
+P1 	: 원래 거의 70kg까지 쪘다가 지금은 47.5 정도요 ㅎㅎ
+P0 	: 와 진짜 대박 성공하셨네요
+P0 	: 의지가 멋있어요
+P1 	: 체지방률도 엄청 많았는데 지금 1/3으로 줄었어요
+P0 	: 저도 지방 줄이고싶은데
+P0 	: 맨날 입다이어터예요
+P0 	: 무슨 운동하셨어요?
+P1 	: 체지방 줄이려면 유산소 운동만 하셔도 돼요 ㅎㅎ
+P1 	: 유산소 운동은 큰 힘 안들이고 할 수 있어요
+P0 	: 추천해주실만한 유산소운동 있나요?
+P1 	: 걷기, 달리기, 자전거 타기 이거 3가지요
+P1 	: 단기간에 효과 보고 싶으시면 인터벌 트레이닝 하세요!
+P0 	: 오 찾아봐야겠어요
+P1 	: ㅋㅋㅋ근데 진짜 꾸준히 하는게 중요한 것 같아요...
+P1 	: 이제 날씨도 풀렸으니 저도 다시 꾸준히 해볼까해요
+P0 	: 아 진짜 꾸준히가 너무 어렵죠

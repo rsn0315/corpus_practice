@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043368
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 음료 있으세요??
+P1 	: 저는탄산수요
+P0 	: 그냥 탄산음료는 안 좋아하세요?
+P1 	: 콜라 이런거말씀하시는거죵
+P0 	: 네 ㅋㅋ 콜라 제일 좋아해요
+P0 	: 건강에 안 좋지만...
+P1 	: ㅎㅎㅎ저도사이다좋아해요
+P0 	: 혹시 그 청귤 사이다 복숭아 사이다 드셔보셖어요?
+P0 	: 저번에 원쁠원 하길래 사봤는데 맛있더라구요
+P1 	: 오안먹어봤는데보이면도전할게요
+P0 	: ㅋㅋㅋ 이프로 복숭아 탄산맛인데 전 맛있더라구요
+P0 	: 청귤은 약간 환타 오렌지맛 같기도 하구....
+P1 	: 오 이프로 저도 좋아해요
+P1 	: 커피는좋아하세요?
+P0 	: 네 하루에 두 잔씯 마셔요
+P1 	: 저는한잔으로줄였어요
+P0 	: ㅋㅋㅋㅋ 좋아하는 거 반 강제 반이지만요

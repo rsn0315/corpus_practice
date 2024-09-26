@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100040438
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 오늘도 쇼핑 좀 하셨나요  ㅎㅎ
+P0 	: 아뇨. 오늘은 계속 빨래한다고  바빴어요.ㅋ
+	  빅스마일데이인데
+	  아무것도 안삼.ㅋ
+P1 	: 안사는게 돈버는 ㅋㅋ
+P0 	: 그런가요.
+	  그러다 사야 하는데 비쌀 땐? ㅋ
+P1 	: 쟁이다 집 무너지면? ㅋㅋㅋㅋ 필요한 즈음 핫딜 뜨겠죠 또 ㅎㅎ
+P0 	: ㅎㅎ
+	  하긴 우리 아파트가 좀 그럴 수도..
+	  추석 선물 골랐어요?
+P1 	: 친척들껀 주문했고 양가랑 직접 갈 곳은 고르고 있는데 그냥 과일할까봐요
+P0 	: 뭐 샀어요? 나도 따라 사려함..
+P1 	: 고모 삼촌은 설엔 참치 김 이번엔 김부각 양말
+P0 	: 아.. 받는 분들이 좋아하실만한 선물이네요.
+	  근데 고모, 삼촌은 본가, 시가 둘 다 챙기시나요?
+P1 	: 아빠 형제 넷만
+P1 	: 엄마에 남편네까지 다 챙기면 너무많아서 ㅋㅋ ㅜㅜ
+P0 	: 그 분들도 님께 선물 주시나요?
+P1 	: 아니요 ㅋㅋ전혀 ㅋㅋ ㅠㅠ
+P1 	: 아빠가 형제애가 엄청나서 맨날 사주기 대장 -.-

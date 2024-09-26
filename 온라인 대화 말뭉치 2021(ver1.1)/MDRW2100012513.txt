@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012513
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동하시나요?
+P1 	: 아뇨 운동의 필요성을 느끼는데 게을러서 운동은 따로 하지 않아요
+P0 	: 영양제는 드시나요?
+P1 	: 네 유산균, 오메가3, 마그네슘, 비타민d,b 이런 것들 챙겨먹고 있어요
+P1 	: 드시는 영양제 있으신가요?
+P0 	: 저랑 비슷하시네요
+P0 	: 마그네슘, 아연, 비타민c, 비타민d, 오메가3먹어요
+P1 	: &name1&도 건강 잘 챙기시네요!
+P1 	: 원래 안먹다가 일할때 너무 힘들어서 갯수가 자꾸 늘어요 ㅠㅠ
+P0 	: 저도요 영양제로 연명합니다..
+P1 	: 한살한살 먹으면 다 그런가봐요 ㅠㅠㅠ
+P1 	: 혹시나 위장 안좋으시면 매스틱검 추천해요
+	  저 역류성식도염있는데 유산균이랑 같이 먹으니까 좋더라구요~
+P0 	: 추천감사해요~
+P1 	: &name1&도 혹시 효과 본 영양제 있으세요?
+P0 	: 유산균
+P0 	: 자로우 펨 도필러스
+P0 	: 효과봤습니다!
+P1 	: 아 그 영양제 유명하죠!
+P1 	: 노란박스 맞죠??
+P0 	: 아니요 흰색이예요

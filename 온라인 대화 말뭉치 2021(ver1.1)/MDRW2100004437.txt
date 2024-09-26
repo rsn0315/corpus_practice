@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100004437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우고 계시나요?
+P1 	: 저는 안 키우고 있어요! &name1&님은 키우고 계신가요?
+P0 	: 저도 지금은 안키우는데 예전에 햄스터 키웠어요!
+P1 	: 한 마리만 기르셨나요? 어떤 이름이었어요??
+P0 	: 두마리 길렀는데 너무 어릴 때라 이름은 기억이 안나네요ㅠㅠ
+P0 	: 동물은 좋아하시나요?
+P1 	: 저는 보는 것만 좋아해요ㅜㅜ 키울 정도의 책임감은 없는 것 같아서요ㅎㅎ
+P0 	: 저도 케어하는게 힘들어서 못키우겠더라고요ㅠㅠ
+P1 	: 당연히 용품도 갖추어야하고 질병 예방도 해야하지만 제 몸 하나 건사하기도 힘들어서요ㅋㅋ
+P0 	: 맞는 말이에요ㅋㅋㅋ 그래서 키우는 사람들 보면 체력이 대단하다는 생각이 들어요
+P1 	: 또 이름도 지어주고 기르면 정이 드니까요ㅠㅜ 무지개다리를 건너면 그 여파를 감당하기 힘들 것 같아요ㅠ
+P0 	: ㅠㅠ 어릴 때는 키우던 애가 죽으면 엄청 울었던 것 같아요
+P1 	: 어린 나이에 받아들이기가 쉽지 않죠ㅠㅠ
+P0 	: 요즘에는 유튜브로 다른 사람들 반려동물 찾아봐요
+P1 	: 그것도 하나의 방법인 것 같아요! 이뻐해주되 책임은 지지 않아도 되니까요ㅎㅎ

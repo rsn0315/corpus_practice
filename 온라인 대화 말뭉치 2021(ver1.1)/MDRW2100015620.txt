@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015620
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리 자주 하시나요?
+P0 	: 자주는 안해요!
+P0 	: &name2&은 자주해서 드시나요?
+P1 	: 저는 거의 안해요ㅋㅋㅋㅋ
+P1 	: 배달 많이 시켜먹어요!
+P0 	: 아하 그러시군요!ㅋㅋㅋㅋ
+P0 	: 저도 그런거같아용 ㅋㅋㅋ
+P0 	: 뭐 자주 시켜드세요?
+P1 	: 저는 한식 자주 시켜먹어요!
+P1 	: 오늘은 김치찜 시켰어요
+P0 	: 오 김치찜 좋네요!!ㅎㅎ 맛있게 드샸나요?
+P1 	: 네! 오늘 처음 시킨 곳이었는데 맛있더라구요!
+P1 	: 성공했어요ㅎㅎ
+P0 	: 그러샸군요! 고기도 많이 있었나요?
+P1 	: 네! 푸짐했어요~~~
+P0 	: 오 좋네요! 고기가 중요하죠..!ㅎㅎ
+P0 	: 맛있엇곘어요!!
+P1 	: 계란이랑 김도 같이 곁들여서 맛있게 먹었어요 히히
+P1 	: 저녁 뭐 드셨어요?
+P0 	: 오 좋네요..!ㅎㅎ
+P0 	: 저는 오늘 기숙사에서 밥 먹었는데 닭곰탕 나왔어요!!
+P0 	: 저는 기숙사에서 밥 먹었는데 닭곰탕 나왔어요!ㅎㅎ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 치킨 좋아해?
+P0 	: 당연하지
+P1 	: 역시 치킨은 항상 옳아
+P1 	: ㅋㅋㅋ
+P0 	: 양념 프라이드 뭐가 좋아?
+P1 	: 다 좋아 ㅋㅋㅋ
+P0 	: ㅋㅋ 나도 그렇긴 해
+P1 	: 좋아하는 브랜드 있어?
+P0 	: 나는 교촌
+P1 	: 교촌 맛있지
+P0 	: 가리지 않지만 어쩐지 거의 교촌만 먹어
+P1 	: 교촌 오리지날 맛있어
+P0 	: 맞아 튀김옷이 얇아서 바삭하고 달달하고
+P1 	: 교촌 레드는 별로더라
+P0 	: 나도 레드 양념은 너무 고추장 맛이 많이나서
+P1 	: 소이살살 맛있어

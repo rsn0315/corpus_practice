@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006463
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 먹으러갈까
+P0 	: 웅웅 내일 먹자 ㅋㅋ
+P1 	: 아니면 배달시켜먹음된다
+P0 	: 지금도 하는데 있으려나
+P1 	: 있을수도
+P0 	: 찾아볼게 ㅋㅋ
+P1 	: 먹고싶으면 먹어야지
+P0 	: 웅웅 ㅎㅎ
+P1 	: 순대국 고기 많이 ㅋㅋ
+P0 	: 나도 고기많이 ㅎㅎ
+P1 	: 순대는 배부르고
+P0 	: 맞다 고기가 최고다ㅋㅋ
+P1 	: 먹고싶네
+P0 	: 지금 배달 되는데 없는듯 ㅠ
+P1 	: 내일먹자 그럼
+P0 	: 웅웅

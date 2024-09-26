@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018272
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 패럴림픽은 실시간으로 보기보다 유튜브로 봐요!
+P0 	: 오 패럴림픽 보시긴 하는군요
+P0 	: 그래도 확실히 대중의 관심이 덜한 것 같아요
+P1 	: 아쉽지만 어쩔 수 없는 부분이니까요...차차 나아지기를 바라요!
+P0 	: 패럴림픽 생중계도 하고 있나요?
+P1 	: 네이버에서 하는 걸로 알아요!
+P0 	: 그래요? 나중에 봐야겠네요
+P0 	: 저는 패럴림픽 시작한 줄도 몰랐어요
+P1 	: 방송을 많이 안 타서요...ㅠㅠ
+P0 	: ㅎㅎㅎ패럴림픽은 어때요? 재밌나요?
+P1 	: 긴장감 보다는 선수분들의 노력이 보여 응원하게 되더라구여
+P0 	: 오 그렇구나 예전에 봤는데 대단해보였어요
+P0 	: 어떤 종목 보셨나요?
+P1 	: 수영이랑 탁구 봤어요
+P0 	: 와~ 전 멀쩡한 몸인데도 어려운데
+P0 	: 선수들 진짜 대단하신 것 같아요.
+P1 	: 그래서 선수를 하시나봐요....

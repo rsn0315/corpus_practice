@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100022375
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P1 	: 안녕하세요
+P1 	: 요즘 선선해져서 좋죠
+P0 	: 더운 여름이 지나서 좋은데 도로 장마 같아서 좀 습하네요
+P1 	: 맞아요 습해서 빨래가 잘 안말라요
+P1 	: 이번주도 비소식 있던대
+P0 	: 맞습니다 건조기가 필요해요
+P0 	: 왜이리 날씨가 이상해졌는지
+P1 	: 요즘은 정말 기상이 무서워요
+P1 	: 미국은 50도까지 올라가고
+P1 	: 남미는 폭설내리고
+P0 	: 이상기후현상이 점점 심해질듯 합니다
+P1 	: 우리나라도 점점 아열대서 기후 되어 가는데 좋은건지 모르겠어요
+P1 	: 여름 좋아하세요?
+P0 	: 제가 며칠 입원하는 바람에 답이 늦었습니다..
+P0 	: 저는 여름 좋아합니다
+P1 	: 무슨일 있으셨나요?
+P0 	: 아.. 몸이 안좋아서 주기적으로 입퇴원을 하고 있어요
+P0 	: 한달에 한번정도
+P1 	: 아 그러시구나
+P1 	: 음 여름은 어떤점이 좋으신거에요?
+P0 	: 옷을 가볍게 입을 수 있는 점이요
+P1 	: 아 저는 가을겨울 더 좋아해요

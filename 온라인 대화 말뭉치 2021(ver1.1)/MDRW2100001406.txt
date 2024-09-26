@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001406
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하이
+P1 	: 안녕하세요! 영화 좋아하세요?
+P0 	: 네
+P1 	: 최애 영화는 뭔가요?
+P0 	: 어벤져스
+P1 	: 어벤져스는 왜 좋아하게 되셨나요?
+P0 	: 재미있어서
+P1 	: 가장 재밌었던 씬을 꼽는다면요?
+P0 	: 히어로들이 모이는 장면
+P1 	: 히어로들이 모여서 뭘.. 하나요?
+P1 	: 근데 주인공들이 다 히어로인건가요?
+P0 	: 타노스랑 싸워요
+P0 	: 네 다 히어로입니다
+P1 	: 다들 사연있는 히어로겠죠? 좋아하는 히어로 따로 있으세요?
+P0 	: 아이언맨 좋아합니다
+P1 	: 아이언맨은 어떻게 좋아하게 되신건가요?
+P0 	: 영화가 재미있어서
+P1 	: 어떤 부분에서 재미를 느끼셨나요?
+P0 	: 전투장면
+P1 	: 오호 싸우는 장면 좋아하시나보네요

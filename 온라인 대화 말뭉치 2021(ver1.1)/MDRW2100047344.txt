@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100047344
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당근마켓 하시나요
+P0 	: 네 당근마켓 해요ㅎㅎㅎ &name2& 님은요?
+P1 	: 저도 엄청해요 ㅋㅋㅋ
+P1 	: 최근에 파는 거 있으세요?
+P0 	: 전 최근에 프로틴바 팔았어요!
+P1 	: 프로틴바! 어쩌다 그걸 파셨어요? 안먹는게 생기셨나요?
+P0 	: 네ㅋㅋㅋㅋ 먹다가 운동도 포기하고 해서 프로틴바도 팔았어요
+P1 	: 엌ㅋㅋㅋㅋ 운동하려고 프로틴바까지 장만하셨는데 파셨다니
+P1 	: 많이 손해보셧나요
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ좀 손해는 봤지만
+P0 	: 0원보다는 만원이 나아서 그냥 팔았죠...
+P0 	: 해외배송이라서 돈도 더 들었지만... 음...ㅋㅋㅋ
+P1 	: 헉 해외배송까지 시키신거엿다니
+P1 	: 당시 열정이 엄청나셨나본데요
+P0 	: 예... 그 당시에는 4키로 정도 빼서 불붙나 싶다가 안하게 돼서요ㅋㅋㅋㅋㅋ
+P0 	: 6키로까지 딱 빼면 운동복을 살생각이었거든요
+P1 	: 악 이키로를 남기고..
+P1 	: 넘 아쉽네요 ㅍ
+P1 	: 프로틴도 드셨으면 근육도 많이 붙지 않았을까요
+P0 	: 음... 그랬을까요? 홈트만 해서 근육 붙는지 안 붙는지도 모르고 했네요

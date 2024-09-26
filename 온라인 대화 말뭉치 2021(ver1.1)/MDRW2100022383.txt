@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뮤지컬이나 연극 좋아하시나요
+P0 	: 저는 안타깝게도 안좋아해요
+P0 	: 공연시설은 답답해하고
+P0 	: 음향에 귀아파해서요
+P1 	: 소리에 예민하면 그럴수있죠
+P1 	: 이보단 조용한 전시회는 어떠신가요
+P0 	: 전시회는 괜찮은데
+P0 	: 저희세대나 문화를 즐기던 세다가 아니다 보니 기회를 잡지 않았던 거 같습니다
+P0 	: &name2&님은 뭘 좋아하시나요?
+P1 	: 그렇군요
+P1 	: 전 뮤지컬 좋아해요ㅋㅋ
+P0 	: 가장 최근에 본 작품이 뭔가요?
+P1 	: 코로나 때문에 최근엔 잘 못가서ㅋㅋ
+P1 	: 모짜르트입니당
+P0 	: 그렇군요
+P0 	: 제 아내도 공연 좋아하는데
+P0 	: 제가 안좋아하니까 같이 못다녀서 서운해 하더군요
+P0 	: 보통 혼자 보러 다니십니까?
+P1 	: 보통 여자친구랑 보러다닙니다
+P0 	: 여자친구분도 뮤지컬을 좋아하나요?
+P1 	: 넵 매번 뮤지컬 예약하고 그 뮤지컬 음악 같이 듣고 갑디다
+P0 	: 취향이 같으니 참 좋겠습니다
+P0 	: 사랑하는 사람과 취미 취향이 같으면 좋지요
+P1 	: 항상 맞는건 아닌지라 몇몇은 따로 합니다ㅎㅎ

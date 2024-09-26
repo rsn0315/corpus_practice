@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010895
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행하는거 좋아하시나요?
+P0 	: 좋아해요!
+P0 	: 다만 요즘은 못 가죠ㅠ
+P1 	: 맞아요 ㅠㅠ 코로나끝나면 어디제일 가고싶으신가요!
+P0 	: 음 저는 미국이요
+P0 	: 한 번도 안 가봐서 가보고 싶어요
+P0 	: &name2&님은 가보고 싶은 곳 있으세요?
+P1 	: 오 저도 미국가보고싶어요 ..ㅠㅠ
+P1 	: 저는 예전부터 아이슬란드 가보고싶었어요 오로라 꼭 보고싶어요
+P0 	: 헐 저듀요!
+P0 	: 오로라를 진짜 보고 싶어요
+P0 	: 아이슬란드는 물가가 비싸서 가보고 싶은데 쫄려요
+P1 	: 그쵸ㅠㅠ 돈 모아서 나중에 한번 꼭 가보고싶어요 ...!
+P0 	: 꽃청춘에서 간 거 보고 더 가고 싶어졌어요ㅠ
+P1 	: 오 맞아요ㅋㅋ 저도 그거보고 더 가보고싶어졌어요 ㅜㅜ
+P0 	: 거기는 산소도 판매한다고 해서 놀랬어요 ㅋㅋ
+P1 	: 정말요? 그거 신기하네요ㅋㅋ
+P0 	: 공기가 맑아서 그런가? 판매한대요 ㅋㅋㅋ
+P0 	: 특이한 기념품이 될 것 같아요
+P1 	: 그렇네요! 거기 공기 진짜 좋을 것 같아요..

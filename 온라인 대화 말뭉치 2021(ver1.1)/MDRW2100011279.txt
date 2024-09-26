@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011279
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 뭐드시나요?
+P1 	: 콩나물낙지비빔밥이요
+P0 	: 와우 좋네요
+P0 	: 저는 라면먹을까봐요
+P1 	: 비도 오고 라면도 좋을 것 같아요
+P0 	: 네네 너구리
+P0 	: 입니다ㅎㅎ
+P1 	: 너구리 맛있죠
+P1 	: 다시마 몇개나왔나요
+P0 	: 다시마 1개요ㅋㅋㅋ
+P0 	: 배달음식 자주드시나요?
+P1 	: 아니요. 주로 해먹어요
+P0 	: 한달에 1번도
+P0 	: 안시키시나요?
+P1 	: 피자는 한달에 한번정도 시켜먹어요
+P0 	: 진짜 안시키시는편이네요
+P0 	: 치즈돈가스는 집에서해먹는건가요?
+P1 	: 냉동을 대량으로 사서 먹어요
+P0 	: 치즈돈가스가 최애음식인가요?
+P1 	: 네. 치즈돈가스 좋아합니다

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100008936
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 점심 맛있게 드셨나요!
+P1 	: 안녕하세요 저 오늘 야근했어요^^ 점심 저녁 다 중국집 시켜먹었네요..
+P1 	: 짜장면이랑 계란볶음밥 먹었더니 아직도 속이 느글느글해요
+P1 	: 집에가서 콜라 마시려구요..
+P1 	: &name1&님은 식사 맛있게 하셨나요??
+P0 	: 헐 점저 다 중국집이라니 ㅜㅜㅜㅜㅜㅜㅜ
+P0 	: 고생하셨어요 야근도 힘든데 속도 부대끼시겠어요
+P1 	: 그래도 내일은 재택이라 괜찮아요 ㅎㅎ
+P1 	: 평소 먹지도 않는 샐러드가 땡기네요,,,
+P1 	: 내일은 좀 가볍게 먹으려구요!
+P1 	: &name1&님은 샐러드 좋아하세요??
+P0 	: 저도 좋아해요! 몸이 가벼워지는 기분이더라구요
+P0 	: ㅂㅣ타민도 보충하고 ㅎㅎ
+P0 	: 재택이면 식사의 자유를 누리시겠군요
+P1 	: 네네 이제 먹으려구요 ㅎㅎ 파리바게트 샐러드 사왔어요
+P1 	: &name1&님은 식사하셨나요??
+P1 	: 아직 안드신거면 뭐 드실 예정인가요??
+P0 	: 저는 비빔밥 먹었어요 ㅎㅎ
+P0 	: 파바 샐러드 가성비 떨어진다고 생각했는데 샐러드 파는데가 거의없더라구요 ㅜ
+P1 	: 맞아요 가격도 밥값보다 비싼게 더 많더라구요 ㅋㅋㅋ
+P1 	: 한 끼 만원넘으면 조금 부담스러워요
+P1 	: 비빔밥 맛있겠네요 !!
+P1 	: 후식으로 요구르트 어떠세요 ㅋㅋㅋ
+P0 	: 헉ㅋㅋㅋ 요구르트 너무 맛있겠는데요

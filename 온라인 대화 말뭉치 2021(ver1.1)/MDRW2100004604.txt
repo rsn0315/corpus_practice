@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100004604
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 아뇨 가본적 없어요!
+P0 	: 가보고 싶은곳 있어요?
+P1 	: 저는 프랑스 가보고싶어요!
+P0 	: 국내여행은 좋아하세요?
+P1 	: 국내여행 좋아해요!
+P1 	: 지방사람이라 서울 나들이가 제일 재밌었네요
+P0 	: 서울에서 어디가는거 좋아하세요?
+P1 	: 홍대에 맛있는것도 많고 경복궁 가는것도 좋아해요!
+P0 	: 밤에 보면 좋은곳 있어요?
+P1 	: 흠.. 경복궁 야경이 괜찮지 않을까요? 잘 모르겠네요
+P0 	: 올해나 내년에 여행 계획 있으세요?
+P1 	: 코로나 때문에 딱히 없네요
+P0 	: 경주 한옥마을이나 그런곳도 좋아하세요?
+P1 	: 네! 근데 가본적은 없어뇨

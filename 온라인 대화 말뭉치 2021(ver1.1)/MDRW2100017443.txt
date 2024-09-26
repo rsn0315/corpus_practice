@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 저녁은 드셨어요?
+P1 	: 아직 안먹었어용
+P0 	: 저 지금 김밥이 먹고 싶은데 식중독 때문에 못 먹고 있어요ㅠㅠ
+P0 	: 오늘 집단으로 걸렸다네요
+P1 	: 김밥 여름철에 잘 상하나봐요ㅜㅜ
+P0 	: 네 1시간만 있어도 위험한것같아요ㅠㅠ
+P0 	: 지금 뭐 먹을지 고민 중이에요 추천해 주실 만한 메뉴
+P0 	: 있으신가요?
+P1 	: 매운거 좋아하세요?
+P0 	: 매운 거 잘 못 먹어요 엽기떡볶이 1단계도 저한테는 맵더라구요ㅠㅠㅜ
+P1 	: 그러면 햄버거 추천드려용
+P0 	: 햄버거 어느 브랜드 주로 자주 드세요?
+P1 	: 맥도날드요!!
+P0 	: 이번에 마늘버거 나온 거 혹시 드셔보셨어요?
+P1 	: 아니요 아직 안먹어봤어용
+P0 	: 그거 되게 맛있다고 요즘 유명하더라구요
+P0 	: 마늘 때문에 안 느끼 하대요

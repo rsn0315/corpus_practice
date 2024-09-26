@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100022356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 치킨ㅋ
+P1 	: 떡볶이먹고싶다
+P1 	: 먹으러가자
+P0 	: ㅋㅋㅋㄱㄱ 어디꺼??
+P0 	: 떡볶이 맛있는데 있어요??
+P1 	: 없다ㅋ 그냥 어디든 나가서ㅋㅋ
+P1 	: 우리도 나가서커피좀먹자
+P0 	: ㅋㅋㅋㅋㅋㄱㄱ 난 맨날 나가서 커피마시는데
+P1 	: 흥
+P1 	: 나도 맨날나가서 먹자
+P0 	: 나도 맨날 먹자는 무슨말인데 ㅋㅋㅋㅋㅋㅋ
+P1 	: 먹고싶다고ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄱㄱㅋ
+P0 	: &address&으로 오슈
+P0 	: 맛있는 커피 사주끼요 ㅋㅋㅋㅋ
+P1 	: 헐ㅋㅋ &address& 가다가 지침ㅋㅋ
+P0 	: ㅋㄹㄹㅋㄱ 지치지말고 오슈
+P0 	: 맛있는커피 마시려면 그정도는 해야지
+P1 	: 맛있나,
+P0 	: 맛있지ㅎㅎ
+P0 	: 어제 9시에 뻗었음
+P1 	: 잘했네ㅋ
+P1 	: 신나게놀고
+P0 	: 내가 만든커피가 젤 맛있는거같다 ㅋㅋㅋㅋㅋ
+P0 	: 집에
+	  오소 ㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋ 그래 니가 유명카페네ㅋㅋ
+P0 	: 그래 언니 &name1&네 커피집으로 오세요
+P0 	: 어제 캠핑 간 내가 의령 이거든
+P0 	: 거기 망개떡이 유명하다고 해서 망개떡 사 먹었는데 완전 맛있더라
+P1 	: 의령 가본적없는데 궁금하네ㅋ
+P0 	: 거기 토끼 동산 조금만 더 가면 되는데
+P0 	: 가까워서 되게 좋더라구요

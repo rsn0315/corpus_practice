@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바이트 해보신적 있으신가요?
+P1 	: 넵! 한 세번정도 해봤어요
+P0 	: 어떤 아르바이트 해봤어요?
+P1 	: 맘스터치랑 아이스크림 할인점 카운트랑 도서관 정리 알바요!ㅎㅎ
+P0 	: 저는 사무보조 알바해봤어요~
+P0 	: 직장 다니시나요?
+P1 	: 오오~~~ 좋은데서 알바하셨네요!! 사무보조면 일은 괜찮으셨겠어요
+P1 	: 넵 지금은 직장다니고있어요!
+P0 	: 단순 업무 위주였어요
+P0 	: 어떤 알바가 적성에 맞던가요?
+P1 	: 아하ㅎㅎ 사무 알바는 구하기도 어려우셨을텐데 대단하세요!
+P1 	: 전 아이스크림 할인점이요ㅋㅋㅋㅋ 일할것도 없고... 완전 꿀중의 꿀알바였어요b
+P0 	: 와 할인점은 어떤일 하나요?
+P1 	: 손님들이 아이스크림 골라오면 계산만 하면 돼요!ㅋㅋㅋ 그냥 마트캐셔?ㅎㅎㅎ 근데 사람은 많이 없구요
+P1 	: 아 마감하기전에 청소 한번씩 하구요!
+P0 	: 좋은 알바를 하셨네요!
+P1 	: 그쵸!ㅎㅎ
+P1 	: 진짜 다신 없을 꿀알바였어요 ㅋㅋ
+P0 	: 부러워요

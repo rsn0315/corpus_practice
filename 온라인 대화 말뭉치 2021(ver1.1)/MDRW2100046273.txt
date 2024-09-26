@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 감사합니다!! 오늘 점심 메뉴 정하셨나요?
+P0 	: 모르겟서요
+P0 	: 백신맞으러왓어요
+P0 	: {share:photo}
+P1 	: 헉 백신 접종하러 가셨구나! 2차인가요?
+P0 	: 네 2차요~~
+P0 	: &name2&씨는 맞으셨나요
+P1 	: 넵 저는 화이자 2차까지 다 접종완료했습니다!! 
+P1 	: 1차때 아프진 않으셨나요?
+P0 	: 오오
+P0 	: 아팠어요 열나고 두통있었어요
+P0 	: 타이레놀 최고
+P1 	: 저는 1차때보다 2차때 두통조금 있었어요!!
+P1 	: 오늘 접종은 안아프시길 바랄게요!! ㅎㅎ
+P0 	: 네 아프면 &name2&씨한테 호소할거에요
+P1 	: 헉..기도라도 열심히 해볼게요..!!! ㅜㅜ
+P0 	: 좋아요
+P0 	: 곧 이름불릴거같아요
+P1 	: 떨리시나요?
+P0 	: 1차때보단 덜해요
+P0 	: 방금 맞고나왔어요
+P1 	: 수고 많으셨어요! 오늘 점심 맛있는거 드시고 푹 쉬세요~~

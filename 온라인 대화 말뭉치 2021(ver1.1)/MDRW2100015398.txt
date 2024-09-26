@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015398
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하세요?
+P1 	: 네 영화 좋아해요!
+P1 	: 좋아하는 영화장르 있으신가요?
+P0 	: 로코요
+P1 	: 저도 로코 좋아요!
+P1 	: 로코 좋아하시면 어바웃타임도 좋아하시겠어요~
+P0 	: 본 거 같은데
+P1 	: 극장가서 보신 영화 중에 기억에 남는 영화 있으신가요?
+P1 	: 아마 보셨을꺼에요 빨간 드레스입고 비맞는? 그런 포스터에요
+P0 	: 아하
+P1 	: 기억 나시나요?
+P1 	: 전 이영화 영화관에서 봤음 하는 아쉬움이 있어요 ㅠㅠ
+P0 	: 그쵸
+P0 	: 넷플해요?
+P1 	: 네 드라마 보려고 구독중이에요
+P0 	: 어떤거요?
+P1 	: 이전에는 라켓소년단 봤구요 요즘은 슬기로운 의사생활 간간히 보고있어요
+P1 	: 넷플릭스에서 볼만한거 추천해주실 수 있나요??
+P0 	: 모가디슈볼려구요

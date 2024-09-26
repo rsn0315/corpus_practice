@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017360
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 AI가 대세래요
+P1 	: 그게 모냐?
+P0 	: 인공지능이요
+P1 	: 인공지능?
+P0 	: 네 알파고 같은거요
+P1 	: 아~ 그거.. 근데 그게 대세래?
+P0 	: 네 그 관련학과가 앞으루 전망이 좋을 듯해요
+P1 	: 그렇다면 울 손자 그쪽으로 전공해보라고 할까?
+P0 	: 안그래도 요즘 그런생각하고 있어요
+P1 	: 근데 이제 초등 2학년인데 벌써 대학 전공을 생각해?
+P0 	: 요즘은 다 미리미리 정해야 해요 그래야 관련 공부를 하죠
+P1 	: 우린 너네 그렇게 안키웠는데
+P0 	: 엄마아빠는 편하게 키우신거죠 
+	  알아서 우리가 알아서 다 대학가고
+P1 	: 그러게.. 나나 너희아빠는 그저 너희가 건강하게 잘 크기만을 바랬지 굳이 대학 보낼생각 안했어
+P0 	: 요즘은 달라요
+P1 	: 그래 그런가 같구나.. 울 손자가 전망있는 학과로 진학하면 좋지.. 인공지능이라고?
+P0 	: 네 AI요

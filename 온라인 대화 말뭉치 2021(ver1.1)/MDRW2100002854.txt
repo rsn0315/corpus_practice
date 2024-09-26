@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002854
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P0 	: 넌 겨울이 좋아 여름이 좋아?
+P1 	: 난 둘다 싫어
+P0 	: ㅋㅋ 덥거나 추운거 다 싫구나
+P0 	: 나는 에어컨이랑 히터만 빵빵하면 둘 다 괜찮은데
+P0 	: 보통 그렇지가 않으니..
+P1 	: 우리집은 히터도 없고 에어컨도 내 건강상때문에 못써서 그런것 같아
+P0 	: 에고 이번여름 힘들었겠다
+P0 	: 덥지 않았어?
+P1 	: 이번은 그래도 버틸만했어
+P1 	: 저번이 진짜 더웠지
+P0 	: 버틸만했다니 다행이다
+P0 	: 나는 이번 여름에 더워서
+P0 	: 죽어가고 있었어
+P1 	: 에어컨 안틀었어??
+P0 	: 응
+P0 	: 지금 하숙중인데
+P0 	: 여기 주인이 에어컨을 안틀어줬어
+P1 	: 아이고
+P1 	: 선풍기는 틀었고?
+P0 	: 응 다행히 선풍기는 있었어
+P0 	: 너는 선풍기 있었어?
+P1 	: 응 탁상용이랑 가정용 하나 있었어
+P1 	: 두개다 돌렸거든
+P0 	: ㅋㅋㅋㅋ 그거 좋네

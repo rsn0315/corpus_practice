@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100042685
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘 산 케이크는 별로였어?
+P0 	: 아니 괜찮았어
+P0 	: 이흥용도 빵 잘 하잖아
+P1 	: 거기도 빵 괜찮지
+P0 	: ㅇㅇ종류도 많고
+P0 	: 근데 무스가득한 초코 케이크 먹고 싶었는데
+P1 	: 야
+P1 	: 충분히
+P1 	: 달더라
+P0 	: 달긴 단데
+P0 	: 무스가 많아서
+P0 	: 쫀득한게 좋다구ㅠㅠ
+P1 	: 니가 아주 까다롭구나
+P0 	: ㅋㅋㅋㅋ나 디저트 앞에선 까다롭다구
+P1 	: 니 동생 생일때 먹고 싶은거 너도 같이 고르든가ㅋㅋ
+P0 	: &name3& 입맛은 우리랑 달라..
+P1 	: 느끼하고 남자같은 입맛이긴 하지
+P0 	: ㅋㅋㄱ&name3& 들음 삐진다
+P1 	: 채팅이라 괜찮다
+P0 	: 그래도 오랜만에 초코 케이크라 넘 좋았다..
+P1 	: 넌 자극적인 거 너무 좋아해
+P0 	: 많이 안 먹으니까 괜찮다

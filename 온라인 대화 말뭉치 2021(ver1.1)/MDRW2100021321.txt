@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100021321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요? 아침은 드셨나요?
+P1 	: 전 토스트먹엇어요ㅎ
+P0 	: 와 전 늦잠자서 그냥 커피랑 과자만 먹는데
+P0 	: 대화를 트려고 그냥 여쭤봤어요 ㅎㅎㅎㅎ
+P0 	: 토스트엔 잼발라 드시나요?
+P1 	: 딸기잼요ㅎ
+P0 	: 우와 맛있겠다
+P0 	: 전 버터랑 잼파에요
+P1 	: 버터도 맛잇겟네요ㅎ
+P1 	: 점싱은 드셧나요?
+P0 	: 네 집에서 꼬마김밥 해먹었어요 찰떡님은요?
+P1 	: 저는 꽁치김치찌개요!
+P0 	: 맛있겠어요 밥도둑 메뉴네요
+P1 	: 네 묵은지로해서 더!
+P0 	: 와 침넘어가요 ㅠㅠ 꽁치통조림도 좋아해서 다 좋아하는 조함ㅂ이에요
+P1 	: 저도요ㅎ 뀰맛

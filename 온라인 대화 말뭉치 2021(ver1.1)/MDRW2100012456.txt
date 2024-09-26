@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012456
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 님은 어떤 종류 선물을 받을 때 좋던가요?
+P1 	: 저는 상품권이요
+P1 	: 아무리 제 취향을 고려해준다고 해도 제 100프로 만족을 채우기는 어렵더라고요
+P1 	: &name1&은요?
+P0 	: 저는 돈이요.ㅋ
+	  님도 돈선물이 더 좋지요.ㅋ
+P1 	: 네ㅋㅋㅋㅋ
+P1 	: 그리고 선물 줄 때도 돈으로 받는게 돈계산 하기가 편하죠
+P0 	: 제 남편에게 얼마전 생일에 목돈을 선물로 줬는데 표정이 엄청 밝아지더라구요.
+	  최근에 사준 더 비싼 물건보다 더 좋아하더라는요.
+P1 	: ㅋㅋㅋㅋㅋ아무래도 돈이 직접적으로 사용할 곳이 더 많으니까요
+P0 	: 최근에 산 용품 중에서 만족하신 품목이 있나요?
+P1 	: 저는 탈취제요
+P0 	: 제품명이 뭐에요?
+P1 	: 스너글 스파클링 시트러스요
+P0 	: 아.. 방에 두는 용도인가요?
+P1 	: 아니요 옷에 뿌리는건데 향이 상큼해서 좋아요
+P0 	: 오..  마스크에 살짝 뿌리셔도 되겠네요.

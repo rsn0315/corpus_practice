@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013397
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 오늘 날씨 어떤가요
+P0 	: 오늘 날씨 해가 뜬거 같긴한데.
+P1 	: 아 그럼 지금 비는 안오는 거구요?
+P0 	: 네 어제 좀 많이 왔던거 같아요
+P1 	: 맞아요 어제 좀 많이 오긴 했어요
+P1 	: 엄청 습 하더라구요
+P0 	: 물속에 있는기분
+P0 	: 아시나요
+P1 	: 아 알아요
+P1 	: 약간 뭘 해도 끈적거리고 습하고 눅눅하고
+P0 	: 맞아요 그 느낑
+P0 	: ㅋㅋㅋㅋ 너무싫어요진짜
+P1 	: 약간 습하니까 기분도 쳐지고
+P0 	: 맞아요 힘들더라구요
+P1 	: 장마라던데 좀 끝났으면 좋겠네요

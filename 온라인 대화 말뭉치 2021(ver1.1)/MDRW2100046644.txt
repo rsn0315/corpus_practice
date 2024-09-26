@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046644
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 코로나 끝나면 가장 하고싶은 일은 무엇인가요?
+P0 	: 코로나 끝나면 여행갈 거예요
+P1 	: 가고싶은 여행지 있으신가요?
+P0 	: 영국에 가고 싶습니다
+P1 	: 영국 가보신 적 있으세요~?
+P1 	: 전 영국은 가본 적이 없네요
+P0 	: 아뇨. 안 가 봐서 가보려 합니다!
+P1 	: 갔다온 사람들이 영국만의 감성이 있다더라구요 ㅎㅎ
+P1 	: 프랑스파랑 영국파랑 나뉜다고 ㅋㅋㅋ
+P0 	: 아 그런가요?
+P0 	: 저는 축구를 보기 위해 가려고 해요!
+P1 	: 아아 축구 좋아하시는구나!
+P1 	: 응원하시는 팀 있으세요?
+P0 	: 일단 손흥민이 있는 토트넘이요!
+P0 	: 국뽕이죠 ㅎㅎ
+P1 	: 한국사람이면 다 토트넘 응원하져 ㅋㅋㅋ 국뽕
+P1 	: 그럼 영국 놀러가시면 축구 보고 오시겠네요!

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 왜 아침에 학원다니려니 힘들어???
+P0 	: 와 방금전에 넘 피곤하니까 10분만 자야겠다하고 엎드렸는데
+P0 	: 1시간동안 침흘리면서 자고있었어
+P1 	: 신나게 잤구먀
+P0 	: 그럴 의도는 아니었는데ㅠ
+P1 	: 오늘은 좀 일찍자
+P0 	: 그럴려구 너무 피곤해서 잇몸이 부었어
+P0 	: 백신 맞은날 쌩쌩하고 좋았는데
+P1 	: 백신이 영양제였네
+P0 	: 2차가 더 아프다던대
+P0 	: 2차도 맞으면 쌩쌩해질까
+P1 	: 2차가 훨씬 아프대
+P1 	: 열도 엄청 나고 힘들다던대
+P0 	: 2차맞는날 학원가는날인데
+P0 	: 다음날 학원갈 수 있을까
+P1 	: 아프면 못가는거지 뭐
+P0 	: 신나면서 슬픈마음

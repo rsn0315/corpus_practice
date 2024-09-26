@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100032143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아메리카노가 조아
+P1 	: 아니면
+P0 	: 커피는 못 마셔요
+P1 	: 카라멜 카끼야또가 조아
+P1 	: 녹차라떼가 조아
+P1 	: 고구마 라떼가 조아
+P0 	: 라떼도 못 마셔요
+P1 	: 세상에
+P1 	: 치즈케이크
+P1 	: 고구마케이크
+P0 	: 치즈케이크
+P0 	: 고구마케이크는 텁텁...
+P1 	: 치즈케이크 초코케이크
+P0 	: 초코케이크
+P1 	: 티라미수
+P1 	: 초코케이크
+P0 	: 초코케이크
+P1 	: 콜라
+P1 	: 사이다
+P0 	: 둘 다 좋지
+P1 	: 하나만 골라요
+P0 	: 콜라
+P0 	: 사이다
+P0 	: 다 좋아요

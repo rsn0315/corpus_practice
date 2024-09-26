@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018040
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 엄마.. 치킨 시키려다 참았다
+P0 	: 이 시간에 치킨???
+P1 	: ㅠㅠㅋㅋㅋ 넘 먹고싶다
+P0 	: 살찐다
+P1 	: 흑흑
+P0 	: 넘 먹고싶으면 먹어야지
+P1 	: 오 ㅋㅋ 시킬까?!
+P0 	: 시켜먹어라 ㅋㅋ
+P1 	: 같이 먹자~
+P0 	: 됐다
+P1 	: 왜 ㅠㅠ같이 먹어야 더 맛있다
+P0 	: 살찐다 ㅋㅋ
+P1 	: 그럼 남겨놓을게 ㅋㅋ
+P0 	: 그래 내일먹을게
+P1 	: 오늘 기름진 음식을 넘 많이 먹었다

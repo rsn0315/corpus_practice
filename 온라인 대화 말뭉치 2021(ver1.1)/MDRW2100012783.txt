@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 동물 좋아하세요?
+P0 	: 네 님은요?
+P1 	: 전 동물 무서워서 별로요 ㅋㅋ ㅠㅠ
+P0 	: 키워본적 있나요
+P1 	: 아니요 물고기 정도? ㅎㅎ
+P0 	: 이름이 뭔가요?
+P1 	: 물고기 이름이요?
+P1 	: 동물 키우세요?
+P0 	: 아니요~
+P1 	: 키운적은요?
+P0 	: 있어요
+P1 	: 무슨 동물이요?
+P0 	: 닭이요

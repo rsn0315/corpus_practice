@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012058
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 돼지바 좋아하세요? 넘 반가워요
+	  제 최애 아이스크림 중 하나가 돼지바에요
+P1 	: 네 안녕하세요
+	  돼지바 저의 최애입니다
+P1 	: 어떤 아이스크림 좋아하세요
+P0 	: 저 좀 많은데ㅜㅜㅋㅋ 돼지바 쿠앤크 티코 엑설런트 투게더
+P0 	: 붕어싸만코
+P1 	: 아 다맛난것들이네요
+P1 	: 빠바하고 뜨레쥬르.. 어디가 더 맛나나요?
+P0 	: 저는 개인적으로 빠바를 더 좋아합니다
+P0 	: 특히 생크림케익류는 빠바
+P0 	: 돼지바님은요?
+P1 	: 저도 빠바요 ㅎ
+P1 	: 집앞에 뜨레쥬르만 있어서 아쉬워요
+P0 	: 뚜쥬는 파운드 롤케익이 맛있어요
+P0 	: 옛날사라다빵인가 그것도요
+P1 	: 옥수수식빵도 뜨레주르가 맛나요
+P1 	: 사라다빵맛나요 ㅋ
+P1 	: 저녁뭐드세요?
+P0 	: 저는 콩나물 계란 넣고 라면이요 돼지바님은요?
+P1 	: 소고기국 끓였어요 파 듬뿍넣어서요
+P0 	: 와 듣기만해도 군침이
+	  맛있겠어요
+P1 	: 네 비오는날에 라면도 맛나겠어요
+P0 	: 소고기무국도요 속이 든든해질듯요
+P1 	: 네 저녁은 든든하게먹을려구요
+P0 	: 맛있게 드세용

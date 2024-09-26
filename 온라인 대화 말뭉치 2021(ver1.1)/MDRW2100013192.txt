@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013192
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 있으신가요
+P1 	: 네 강아지 두마리 키워요
+P1 	: 님은요?
+P0 	: 저는 안키워요 아이들 이름은 뭔가요?
+P1 	: &name3&와 &name4&에요
+P1 	: 한번도 키워본 적이 없으신가요?
+P0 	: 네 없어요 이름 넘 귀엽네요~^^ 성별이 다른가요?
+P1 	: 둘다 여자애예요. 둘다 중간에 입양한거라 이름 통일성이 없죠ㅎ
+P0 	: 아하 그렇군요^^ 넘 사랑스럽겠어요 종은 어떻게 되나요?
+P1 	: 둘다 믹스예요.
+P0 	: 그렇군요 함께한지는 얼마나 되셨는지요
+P1 	: 한 마리는 십삼년 한마리는 이제 불과 반년이요
+P0 	: 어머 13년이라니 진짜 오래됐네요!!!
+P1 	: 그래도 여전히 아기같아요ㅎ
+P1 	: 나이 들으면 다들 놀라더라고요
+P0 	: 아기같다니 애정이 뿜뿜 느껴지네요~^^ 건강한가요?
+P1 	: 아직까지 큰탈이 없이 다행히 건강해요^^
+P1 	: 산책도 잘하고요^^

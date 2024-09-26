@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012262
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 운동 좋아하시나요
+P1 	: 걷는건 좋아하는데 딱히 하는 운동은 없어요 ㅋㅋ
+P1 	: 운동 좋아하세요?
+P0 	: 저 홈트 시작해보려구요
+P1 	: 요즘 홈트 정말 많이 하는 것 같아요
+P0 	: 유튜브도 잘 나와있어서요
+P1 	: 맞아요 저도 예전에는 한동안 했었어요 스트레칭같은거
+P0 	: 추천영상 있을까요
+P1 	: 저는 골반 교정 스트레칭을 했었어서..ㅋㅋ
+P0 	: 헉 골반이 안좋으신가요
+P1 	: 비대칭이 좀 있어서요 하핫
+P0 	: 스트레칭 효과가 있으셨나요
+P1 	: 사실 잘 모르겠긴한데 조금 더 유연해져서 스트레칭이 잘 되는 정도였던 것 같아요 ㅋㅋ

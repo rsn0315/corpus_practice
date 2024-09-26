@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100018669
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 판매하고 싶은 물품이 생겼는데 중고거래 하시나요?
+P0 	: 당근 해본적잇어요
+P0 	: 근데 귀찮더라구요
+P0 	: ㅎㅎ
+P1 	: 아ㅎㅎ 맞아요 저도 지웠다가 방청소하면서 다시 깔았어요ㅋㅋ
+P0 	: 최근쇼핑템은?
+P1 	: 최근에는 고양이 용품이요!
+P1 	: &name1&은요?
+P0 	: 집사님ㅋㅋ
+P0 	: 저는 몇일전 가방 셀프선물햇어요
+P1 	: 오오 멋져요!
+P1 	: 스스로 챙기는게 진짜 필요하다 느끼고 있어요
+P0 	: 좋아하는 브랜드는?
+P0 	: 전 나이키!
+P1 	: 오! 저도요!
+P1 	: 무난하달까.. 사고보면 나이키에요ㅋㅋ
+P0 	: 맞아요 파타고니아도 좋아해요ㅎ
+P1 	: 좋아하시는게 확실하신거 같아요
+P0 	: 좋아하는거 많아요 ㅋㅋ
+P0 	: 위시템 잇으신가요
+P1 	: 아뇨ㅋㅋ 고양이 용품은 있는데 제건 생각해보질 않았네요ㅋㅋㅋ
+P1 	: &name1&은요?
+P0 	: ㅠㅠ고양이 부럽네요
+P0 	: ㅋㅋ주인이 푹빠졋어요
+P1 	: ㅋㅋ헤어나오기 쉽지않네요ㅋㅋ
+P1 	: 그래서 막 사고 안쓰는건 다시 당근마켓으로..ㅋㅋ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010517
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 기억에 남는 여행지 있으세요?
+P0 	: 저는 유럽이 제일 기억에 남아요..코로나 전이라 마지막 여행지기도 하구.. 어디가 기억에 남으세요?
+P1 	: 오 저도 유럽은 10년전에 갔었는데.. 거기선 혹시 영국에 에딘버러라고 아시나요 거기가 참 좋았어요!
+P0 	: 아 패키지라 수도 위주로 돌았어요ㅠㅠㅠㅋㅋ
+P1 	: 아 그르시구나 경로가 어떻게 됐나요?
+P0 	: 주요나라돌구 마지막이 스위스였던거같아요
+P1 	: 아 스위스 좋죠 날씨 좋았나요? 제가 갈땐 흐려서 ㅋㅋ
+P0 	: 네 좋았어요ㅎㅎ 진짜 자연은 대박이더라구요
+P1 	: 그쵸 기차 탈때 지나가는 풍경이 정말..
+P0 	: 그런 자연환경을 유지하는게 더 대단하게 느껴졌어요ㅎㅎ
+P1 	: 맞아요 유럽은 그게 신기하더라고요.. 조금 불편하더라도 그걸 감수하고 지켜내려는 게 대단해보였어요
+P0 	: 네 식당같은것도ㅋㅋ 기차랑..ㅋㅋㅋ그런게 전통인거같구ㅎㅎ
+P1 	: 그쵸.. 근데 물먹는 거랑 화장실은 좀 불편하더라고요~
+P1 	: 한국이 참 편하긴 해요 ㅋㅋㅋ
+P0 	: 아 맞아요...여행의 묘미가 또 집이 소중하다는걸 알려주는 ㅋㅋ
+P1 	: 그쵸 ㅎㅎ 재밌네요 여행이란 게

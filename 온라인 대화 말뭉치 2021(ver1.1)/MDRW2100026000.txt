@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100026000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식 자주 드시나요?
+P1 	: 네 주말마다 시켜요 ㅋㅋ
+P0 	: 무슨메뉴 자주드세요?
+P1 	: 주로 치킨이나 햄버거류요
+P0 	: 맥도날드 좋아하시겠어요
+P1 	: 여기 맥도날드가 없어요...!
+P1 	: 햄버거 가게는 롯데리아랑 버거킹 맘스터치 뿐이에요
+P1 	: 그래서 BTS세트가 핫할 때도 못시켜먹었답니다 그때 주문량이 많아서 회전율 때문에 너겟이 바삭했다는데...
+P0 	: 아아 ㅜㅜ 저 bts세트 먹었는데
+P0 	: 그렇게까지 바삭한지는 잘 모르겠어요
+P1 	: 명성만 높았던거군요 조금 위안이 되네요
+P1 	: 그래도 학교 다닐 때 먹었던 맥모닝 핫케이크가 자꾸 생각이 나요
+P0 	: 그냥 포장지만 보라색으로 디자인한거에요
+P0 	: 아 맥모닝 좋아하셨나봐요 혹시 직장때매 와계신거세요?
+P1 	: 여기서 직장을 다니긴 하는데 여기가 고향이에요
+P1 	: 학교만 타지에서 다녔어요 ㅋㅋㅋ
+P0 	: 아 그런거같으셔서요
+P0 	: 느낌이...
+P1 	: 여기가 해산물 같은 건 먹기 편한데 큰 도시가 아니라서 인도음식점이나 프랜차이즈에 없는 디저트는 먹기가 힘들어요
+P1 	: 수플레가 먹고싶은데...
+P0 	: 아무래도 서울보단 없는거같아요

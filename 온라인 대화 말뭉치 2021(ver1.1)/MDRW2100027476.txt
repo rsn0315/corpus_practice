@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027476
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행지 좋은곳  추천할만한곳 있나요.?
+P1 	: 여수갔었는데 좋더라고요
+P0 	: 여수한번도 못가봤어요ㅠ
+	  여수 어디를 가야 하나요?
+P1 	: 크지않아서 하루에 다돌수있어요ㅋ
+P0 	: 죄송합니다.
+	  지도 수업이 있어 바로 답장이 못드렸어요.
+	  중간중간 답드려도 이해 해주세요.
+P1 	: 네 괜찮아요ㅋㅋ 저도 업무중이라 바쁘면 바로 못해요ㅋ
+P0 	: 네~~ㅎ
+	  10월9.10.11일 여행가려고 하는데 여수를 알아 봐야겠어요.ㅎ
+P1 	: 전 올해는 한번도 안갔어요ㅋㅋ
+P0 	: 코로나로 저도 어디 갈생각을 못했어요.ㅎ
+P1 	: 네 조심스러워서요
+P0 	: 맞아요.
+	  대단한 여행은 아니더라도 여행가는것 참 좋아해서 계획없이 떠나기도 했는데
+	  요즘은 언제 갔나 싶네요.ㅎ
+P1 	: 근처라도 바람 쐬러 가고싶네요
+P0 	: 그쪽지역은 가볼만한 가까운곳이 뭐가 있죠?
+P1 	: 행주산성같은 데 드라이브하기 좋아요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 학교 다니시나요?
+P1 	: 안녕하세요 아니요 저는 졸업한지 오래됐어요. &name1&님은요?
+P0 	: 저는 지금 휴학중이에요ㅋㅋㅋㅋbn 님은 동아리 해보신 적 있나요?!
+P1 	: 아 휴학중이시구나!
+P1 	: 저는 동아리 안해봐서 넘 부러워요ㅋㅋㅋㅋㅋ
+P1 	: ㅠㅠㅠ
+P1 	: 해볼거 싶어서 넘 아쉽 ㅠㅠㅠ
+P0 	: 그럼 bn 님은 계속 수업만 들으신 건가요...?? 좀 슬프네요 ...ㅠㅠㅠ
+P1 	: 해볼 수 있는 여건이 안됐거든요ㅋㅋ큐ㅠㅠ 이런거 해봤으면 좋은 추억이 됐을 텐데..
+P1 	: &name1&님은 동아리 하시나요?
+P0 	: 저는 동아리는 안하고 있어요!
+P0 	: bn 님은 수업 들을 때 몇 학점씩 들으셨나요?!
+P1 	: 아 안하고 계시는구나 ㅇ0ㅇ
+P1 	: 21학점? 들었던 거 같아요
+P0 	: 와 최대 21학점인거죠?
+P1 	: 네넹
+P0 	: 오오 그럼 과제 엄청 많았겠네요
+P1 	: 네에 과제가 좀 많았던 거 같아요ㅋㅋㅋㅋ 오래되어서 가물가물
+P0 	: ㅋㅋㅋ힘드셨겠어요 ㅠㅠ

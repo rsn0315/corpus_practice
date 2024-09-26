@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031527
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 넵 오메기떡 먹었어요
+P0 	: 오메기떡이 제주도떡 맞나요?
+P1 	: 앗 네!! 제주도떡 같은데 동네에서도 팔길래 사왔네요 ㅎㅎㅎ
+P0 	: 저는 오메기떡 한번도 못 먹어 봤는데 오메기 떡 맛있나요?
+P1 	: 헉 완전 맛있어요 겉의 팥은 시루떡 느낌인데 오메기떡은 찹쌀떡이고 안에 단팥도 들어있어요
+P0 	: 우와 엄청 맛있을 것 같아요
+P0 	: &name2&님은 좋아하시는 음식 있으신가요?
+P1 	: 저는 마라탕 좋아합니다!!! 마라탕 유행하기 전부터 먹으러 다녔어요~
+P0 	: 오~!
+	  매운거 잘 드시나봐요
+P1 	: 잘 먹지는 못하지만 좋아해요! 근데 건강을 위해서 매운맛은 피하고 있습니다 ㅎㅎㅎ
+P0 	: 제가 마라탕을 못먹어서 그러는데 마라탕은 어떤 맛으로 드시는건가요?
+P1 	: 앗 아직 안 드셔보셨군요! 사골국물에 마라를 풀어서 먹는거예요 가게마다 편차가 큰데 저는 사골베이스 국물+얼큰한 거+샤브샤브 같은 느낌 좋아해서 먹어요! 저희 엄마는 라멘이랑 비슷하다고 하셨는데 마라가 안 들어가는 0단계를 시키
+P0 	: 설명 들어보니 한 번 먹어봐야겠네요

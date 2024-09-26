@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100031903
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 지난달에 선물용으로
+P1 	: 아이패드 선물한적 있는데
+P0 	: 누구한테요?
+P1 	: 와이프요
+P1 	: &name1&님은 최근에 선물로 뭘 구입하신적 있나요?
+P0 	: 아~~저는 아이들 옷사서 선물했네요
+P1 	: 조카들이요?
+P0 	: 아니요..저희애들요
+P1 	: 자녀가 있으시구나
+P1 	: 그러면 아무래도 본이보다 아이들을 위한 소비를 더 하겠죠?
+P0 	: 네~~거의 아이들물건많이사는것같아요
+P0 	: 아이들꺼도사고 제것도사고
+P0 	: 주로 어떤거쇼핑하세요?
+P1 	: 저는 집에 물건 많은거 안좋아해서
+P1 	: 생필품류 쇼핑을 많이하는데
+P1 	: 와이프는 의류랑 소품류 사는걸 좋아해서
+P1 	: 집에 짐이 많이 들어왔어요
+P0 	: 여자들은 좋아하죠
+P1 	: 그런거같아요 마음에 들면 같은데 색다른걸 또사더라구요 신기했어요
+P0 	: 맞아요
+P0 	: 조금씩 달라요

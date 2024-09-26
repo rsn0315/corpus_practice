@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100010299
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 아녕하세요
+P1 	: 운동하시나요?
+P0 	: 아뇨ㅎ..
+P0 	: 운동하시나요?
+P1 	: 저는 매일 저녁에 gx해요
+P1 	: 운동은 역시 강제성이 있어야 꾸준히 하게돼서
+P0 	: 와우 어떤 gx하시나요?
+P1 	: 트레이너가 매일 운동 루틴 짜고 거기 맞춰서 다같이운동하는거에요
+P0 	: 아 한가지만하는게아닌가요?
+P0 	: 스피닝 요가 등등 다하나보네요
+P1 	: 아뇨 바밸덤밸등을 이용한 운동해요
+P1 	: 스퀏이나 프레스 데드리프트같은 운동들이요
+P0 	: 아 남자분이신가요
+P0 	: 저도운동다니고싶네요ㅋㅋㅋ
+P1 	: 네 저는 남자
+P1 	: 운동 처음이 어렵지
+P1 	: 몇번하다보면
+P1 	: 습관붙어서 꾸준히 될거에요
+P0 	: 피티받고싶은데
+P1 	: 피티는 트레이너도 잘 선택해야한대요
+P0 	: 그런가요? 일단근데
+P0 	: 가격이 너무오바예요ㅠ

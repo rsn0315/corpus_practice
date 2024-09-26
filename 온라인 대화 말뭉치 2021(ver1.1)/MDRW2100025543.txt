@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025543
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 음료 좋아하세요?
+P1 	: 탄산 좋아해요
+P1 	: 커피도 가끔 마시구요
+P0 	: 탄산 요즘 제로 시리즈 좋더라구요
+P0 	: 약간 밍밍하긴하지만
+P1 	: 펩시 제로 맛있더라구요
+P1 	: 큰 병은 안나오긴 하지만요
+P0 	: 오 저는 칠성제로밖에 못먹어봣어요
+P0 	: 맛이 궁금해지네요
+P0 	: 커피는 달달한 카라멜 같은거만 먹다가 요즘은 아메리카노만 먹네요
+P1 	: 잠 깨는데는 아메리카노가 좋져ㅎ
+P0 	: 전 더워서 시원한맛에 먹는거 같아요 ㅎㅎ 구수한맛이랑
+P0 	: 배달 음식 자주 드시나요?
+P1 	: 네 자주 먹어요
+P1 	: 치킨 자주 먹는거 같아요
+P0 	: 오 저두요 어디 치킨 제일 좋아하세요
+P1 	: 노랑통닭이요
+P1 	: 후라이드가 맛있더라구요
+P0 	: 오 기본 바삭파 이시군요
+P0 	: 저는 교촌 허니콤보 좋아해요
+P1 	: 허니콤보 맛있죠
+P1 	: 뿌링클 같은 메뉴도 좋아해요
+P0 	: 뿌링클 좋죠 소스 듬뿍찍어서 ㅎㅎ

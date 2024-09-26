@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100001018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘은 명이 나물에 훈제 삼겹살 싸 먹으려고
+P1 	: 신랑은 뭐 먹는댕?
+P0 	: 난 순두부찌개 ㅎㅎ
+P1 	: 맛있는 곳 있어?
+P0 	: ㅇㅇ 회사 앞에 얼큰하게 잘하는 곳 있어 ㅎㅎ
+P1 	: 잘 챙거먹어
+P0 	: 걱정마~ 색시나 애들하고 잘 챙겨먹어 ㅎㅎ
+P1 	: 나야 항상 잘 먹지
+P0 	: 애들 최대한 단백질 위주로 먹이고
+P1 	: 웅 알써 ㅎㅎ
+P0 	: 난 점심 먹고 시원한 아메리카노나 한 잔 해야겠다 ㅎㅎ
+P1 	: 와우 나도 얼음 동동 맥심 먹어야지 ㅋㅋ
+P0 	: 굿
+P1 	: 점심 맛있게 먹어요
+P0 	: ㅇㅇ  즐점

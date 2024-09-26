@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003348
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 네안녕요
+P0 	: 혹시 반려동물 키우시나요?
+P1 	: 아니요님은요
+P0 	: 반려동물 이라하긴 묘하지만 물고기 키우네여 ㅎ
+P1 	: 웅느ㅏ!!!!신기하네요
+P1 	: 열대어종류인가요
+P0 	: 네 열대어에요.
+P0 	: 구피라고 작은 물고기 인대 관리도 편해서 좋내요
+P1 	: 우와들어봤어요
+P1 	: 이름도있나요
+P0 	: 이름은 없내요.. 20마리 넘개 키우다보니..ㅠ
+	  이름 붙여주기가 힘드내요.
+P0 	: 키우고 싶으신 동물 있으새요?
+P1 	: 저는 토끼요
+P1 	: 이름지어주세요ㅋㅋㅋ
+P0 	: 깡충이 어떠세요 ? ㅋㅋ
+P1 	: 이상해요
+P0 	: 재가 작명 센스가 없어서...ㅠㅠ

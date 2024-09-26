@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045221
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 쌍수
+P1 	: 성형할려고 ?
+P0 	: 눈이 풀린거 같아서 다시 수술 할까
+P1 	: 안해도 될듯
+P0 	: 요즘 얼굴에 관심이 많이간다
+P1 	: 어차피 마스크 끼는데
+P0 	: 트러블도 많이 올라와서 ㅠㅠ 고민
+P1 	: 기초를 바까야해 화장품
+P0 	: 어휴 돈이 많이 든다 ..
+P1 	: 팩같은거 해바 하루에 한번
+P0 	: 이뻐지기 힘들당
+P1 	: 티트리 바르면 가라앉힌단다
+P0 	: 티트리 냄새가 너무 독해서 트러블이 없어지느
+P1 	: ㅋㅋㅋㅋ 그건아닌듯 ㅜ

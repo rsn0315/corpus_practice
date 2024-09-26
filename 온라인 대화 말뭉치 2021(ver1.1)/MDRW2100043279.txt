@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043279
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가고싶은 여행 지가 있나요
+P1 	: 음 저는 제주도요 &name1&님은요?
+P0 	: 제주도 좋으네요
+P0 	: 전 남해도 가보고 싶어요
+P1 	: 경상남도 남해 말씀하시는건가요?!
+P0 	: 네 맞아요
+P1 	: 오오 남해에 가볼 만한 곳 있나요?
+P0 	: 남해 금산 도 좋아요
+P1 	: 오오오 산 좋죠 저도 나중에 가보고 싶네요
+P1 	: 여행 많이 다녀보셨나요?
+P0 	: 아니요
+P0 	: 자주 다니지 못하네요
+P1 	: 아 그렇군요 그럼 제일 기억나는 여행지가 있나요?
+P0 	: 제주도도 기억에 남죠
+P0 	: 친구들과에 추억이 생긴곳 이니깐요
+P1 	: 오 그렇군요! 즐거우셨겠어요

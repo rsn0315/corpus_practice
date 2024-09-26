@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100003578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 영화보신거 있나요?
+P0 	: 저 최근에 모가디슈 봤어요!
+P0 	: &name2&님은 영화 보신거있나요?
+P1 	: 오 저도 그거봤어요 일욜에
+P0 	: 우와 진짜 재밌었죠!!
+P0 	: 오랜만에 재밌는 영화 나온거같아요 ㅋㅋㅋ
+P1 	: 볼거없어서 봤는데 생각보다 잼있더라구요 ㅎ
+P1 	: 지루할틈없이 총쏘고ㅎ
+P0 	: 아 ㅋㅋㅋㅋㅋ맞아요
+P0 	: 생각보다 재미있다는게 진짜 딱 맞는말같아요
+P0 	: 그리고 조인성 잘생겼어요 ㅋㅋㅋㅋ!!
+P1 	: 맞아요ㅎ 연기도 잘하던데요
+P0 	: 그러니까요 ㅋㅋㅋ
+P0 	: 조인성 잘생긴줄만 알았는데
+P0 	: 연기도 잘해서 더 좋아졌어요
+P1 	: 보고만 있어도 흐뭇하죠ㅎㅎ
+P1 	: 싱크홀은 보셨어요?
+P0 	: 싱크홀도 영화인가요?
+P1 	: 예매권 하나있어서 다른것좀 볼까하는데
+P1 	: 네 차승원이랑 이광수나와요
+P0 	: 아 ! 우와 처음 알았어요
+P1 	: 약간 코믹하고 감동도 있고 그런가봐요
+P0 	: 우와 둘 다 연기 잘하니까
+P0 	: 보고싶어지네요
+P1 	: 막 추천은 아니고 킬링타임용으로 괜찮대요
+P0 	: 우와 추천 감사해요!

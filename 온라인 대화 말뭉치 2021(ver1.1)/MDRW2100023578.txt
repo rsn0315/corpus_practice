@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100023578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 고수랑 시소 둘다?
+P0 	: 응ㅋㅋ
+P0 	: 흰살생선에 싸먹음 향긋해
+P1 	: 외국인들은 깻잎 못먹는다더라?
+P1 	: 향긋까지?ㅋㅋ
+P0 	: 그니까ㅋㅋ 외국인들은 깻잎이 고수 같이 느껴지믄건가?
+P1 	: 그런가봐ㅋㅋ
+P0 	: 우리나라사람 유전자가 고수가 화장품맛나게 느껴지는것처럼 외국인 유전자는 깻잎이 그런건지ㅋㅋ
+P1 	: 나도 가끔 깻잎 센거 같긴해
+P1 	: 그니까 신기하다
+P0 	: 점심 뭐먹었어? 구내식당이랬나?
+P1 	: 구내식당은 아니구
+	  근처 식당에서 배달해서 먹는거지
+P0 	: 아항 뭐먹었어?
+P1 	: 오늘은 제육볶음이랑 계란장조림이랑 오징어튀김, 콩나물무침, 미역국 나왔어
+P1 	: 넌?
+P0 	: 장조림 맛있었겠다
+	  난 마파두부밥! 화자오 들어가서 살짝 얼얼했어
+P1 	: 오 마파두부밥!
+P1 	: 화자오가 그건가?

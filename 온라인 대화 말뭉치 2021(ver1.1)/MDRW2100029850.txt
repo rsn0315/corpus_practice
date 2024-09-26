@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100029850
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아빠
+P0 	: 응
+P1 	: 콜라보레이션 마케팅이 뭔지 아세요?
+P0 	: 뭔가 복잡해보이는 구나
+P1 	: 두가지 브랜드가 같이 협업하는 거에요
+P0 	: 그렇구나
+P1 	: 제가 전에 펭수랑 배라 콜라보 한 아이스크림 사왔었잖아요
+P0 	: 아~ 그런거냐??
+P1 	: 펭수랑 파리바게트랑 콜라보해서 펭수케잌도 팔았구요
+P0 	: 그치.. 너 그것도 사먹었잖니
+P1 	: 펭수좋아하는 사람들을 노려서 그렇게 파는거죠
+P0 	: 이해된다.. 그러니까 기존 제품이 있지만 다른회사의 캐릭터 같은 걸 가져와서 팔면 그 캐릭터 좋아하는 사람들이 사준다는 거구나
+P1 	: 그렇죠
+P0 	: 머리 잘썼네

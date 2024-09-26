@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨어떼요?
+P1 	: 시원합니다 아주
+P1 	: 그쪽은 날씨가 어던가요
+P0 	: 여기도요
+P1 	: 가장 좋아하는 계절이 뭔가요
+P0 	: 봄이요
+P1 	: 이유는?
+P0 	: 따뜻하니 좋은 거 갘아요
+P1 	: 여름과 겨울중에서는요?
+P0 	: 겨울이요
+P1 	: 봄이 따뜻해서 좋은데 여름과 겨울중ㅇ0ㄴ
+P1 	: 겨울을 조ㅗ아하신다고요?
+P0 	: 여름은 너무 뜨겁죠
+P0 	: 추우몀 운동해서 열내몀 되니까요
+P1 	: 겨울엔 코트와 롱패딩중에 뭘 잘 입으시나요
+P0 	: 패딩이 좋죠

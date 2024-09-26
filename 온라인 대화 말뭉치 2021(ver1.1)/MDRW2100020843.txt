@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020843
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연 좋아하시나요
+P0 	: 네 공연 전시 종류불문 보러다니는 거 좋아해요ㅋㅋ
+P0 	: 최근에는 전시 위주로 다녀요
+P1 	: 와 저는 전시는 문외한인데..어떤걸 보셨나요,
+P0 	: 요즘 봤던 것 중엔 내일의 예술전이라고 좋았어요!
+P1 	: 그렇군요 평소 문화생활을 즐기시나봐요^^
+P0 	: ㅋㅋ 컨텐츠 생산은 못해서 소비만 해요ㅋㅋ
+P1 	: 그게 다 쌓여서 생산의 밑거름이 되겠죠 전시 소식은 어디서 찾으시나요
+P0 	: 저는 전시 오래 못 봐서 좀 근질근질한데? 싶어질 때쯤 인터파크 티켓 둘러봐요ㅋㅋ
+P0 	: 내일의 예술전은 무료전시여서 인터파크에 없었는데 어떻게 알음알음 소식을 들었었네요
+P0 	: 운이 좋았져
+P0 	: 공연연극영화 즐기는 거 있으세요?
+P1 	: 저는 콘서트나 영화요 최근에 모가디슈 봤어요
+P0 	: 저도 봤어요! ㅋㅋ 재밌게 보셨어요?
+P1 	: 네 넘 재밌더라구요 어떠셨나요
+P0 	: 재밌게봤어요ㅋㅋ 군더더기 없이 좋더라구요
+P1 	: 네 근데 요즘 아프간 사태보니 그 영화가 많이 생각났오요

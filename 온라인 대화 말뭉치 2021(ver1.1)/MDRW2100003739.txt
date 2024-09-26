@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003739
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 된장찌개 먹자
+P0 	: 그래 맛있겠네
+P1 	: 또 뭐 해 줄까
+P0 	: 음.. 머 먹지 ㅎㅎ
+P1 	: 계란 후라이 해서 같이 먹자
+P0 	: 그래용 넘 맛있겠네~
+P1 	: 집에 반찬도 많다
+P0 	: 구래 ㅋㅋ 집밥이 최고다
+P1 	: 당연하지 사 먹는 건 안 좋다
+P0 	: 맞다 엄마가 해주는게 맛도 젤좋고
+P1 	: 그래 잘 먹어주니 좋군
+P0 	: ㅋㅋ 맛있으니까 잘 먹지요!
+P1 	: 그래 조금만 기다려라 먹자

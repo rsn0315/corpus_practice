@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100032336
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~~~
+P0 	: 구매 예정 있으세요?
+P1 	: 음..딱히 생각 나는 건 없네요 요즘은 생필품만 사는 것 같아요
+P1 	: 님은요,
+P1 	: ??,
+P1 	: 최근에는 생수와.. 냉동 버팔로윙을 샀습니다
+P0 	: 전 영양제 구매 예정이요
+P0 	: 저도 최근에 생수 샀어요 포인트 소멸되기 전에 구매하려고요
+P1 	: 영양제는 어디서 사시나요?
+P0 	: 검색해서 사긴 하는데 주로 이용하는 사이트들 비교해서 사요
+P1 	: 음 그럼 생필품은 주로 어디서 사세요?
+P0 	: 거의 온라인에서 사요 오프는 식선식품쪽 사고요
+P0 	: &name2&님요?
+P1 	: 저도 한 때는 다 온라인에서 사다가 요즘은 신선식품은 오프에서 사요
+P1 	: 온라인에선 주로 어떤 곳 이용하세요?
+P0 	: gs 롯데 cj 쪽 자주 이용해요
+P1 	: 오..홈쇼핑?사이트를 이용하시는건갸
+P1 	: 저는 네이버쇼핑이나 쿠팡에서 사거든요
+P0 	: 아 네이버쇼핑도 사용해요 네이버페이 잘 줘서요 ㅎㅎ
+P1 	: 오오 네이버 멤버십은 가입하셨나요
+P1 	: 그거 포인트 엄청 많이 주던데

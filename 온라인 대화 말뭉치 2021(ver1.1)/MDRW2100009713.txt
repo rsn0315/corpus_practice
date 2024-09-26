@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009713
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 여긴 아직 안와요
+P0 	: 여기도요
+P1 	: 근데 바람은 마니 불어요
+	  태풍이 올라오는 중이라고 하네요
+P0 	: 걱정이에요
+P1 	: 방금뉴스보니까 아랫지방은 벌써 피해가 있더라구요
+P0 	: 그르니까요
+P1 	: 여기도 비오네요
+	  오늘이 고비라던데
+P0 	: 태풍피해 없으시길
+P1 	: 다행히 별다른 일 없이 잘 지나갔네요
+P1 	: 그쪽도 괜찮나요?
+P0 	: 아직요
+P1 	: 여기는 비가 그치고 흐리기만 해요
+P0 	: 여기더2

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100029343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어디어디 찾아놨는데
+P0 	: 중식당이랑 일식 오마카세랑 인도음식점
+P1 	: 일식은 별로
+P1 	: 중식당이랑 인도음식점이 좋아
+P0 	: 일식은 왜 별로야 좋아했자나
+P1 	: 엄마가 좋아한건아냐
+P1 	: 아빠가 좋아하니까 따라 다닌거지
+P1 	: 엄마는 면이 좋아
+P0 	: 나두 면이 좋아
+P0 	: 그럼 중식당 가야겠네
+P0 	: 아님 여의도에 콩국수 잘 하는집 있어
+P0 	: 엄청 유명해서 오래 기다려야된대
+P1 	: 기다리는건 싫은데
+P1 	: 포장은 안된대???
+P0 	: 포장하면 뭐랬더라 면이 다르댔나
+P0 	: 포장이랑 매장에서 먹는거랑 뭐가 다르댔는데
+P1 	: 콩국수는 면도 중요한데
+P1 	: 가서 먹어야겠네
+P0 	: 아예 오전에 가면 사람이 적대
+P1 	: 그럼 아침도 안먹고 가야겠네
+P1 	: 그 정도로 맛있대??
+P0 	: 맛있다고 하는데 솔직히 우리집 콩국수가 더 맛있을거같아
+P0 	: 우리집은 직접 농사한 콩이자나
+P1 	: 그렇지 아빠가 주말마다 고생해서 가져온거니까
+P0 	: 집에 맛있는거 없나여

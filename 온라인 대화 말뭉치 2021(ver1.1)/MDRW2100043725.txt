@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100043725
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쫀득..! 으으으으음
+P1 	: 크림이 들어가나요?
+P0 	: 네....! 크림인데 이 음식만의 크림 호칭이 있어요!
+P1 	: 핫 슈크림이 들어가나보군요 맞죠?
+P0 	: 안타깝게도 슈크림이 아니에요ㅠ
+P0 	: 약간 단단한 크림이랍니다
+P1 	: 으으으으으으으음 단단한 크림이라..
+P1 	: 차가운 음식인가요?
+P0 	: 네!!! 시원하게 보관해야해요
+P0 	: 냉동은 아니구요
+P1 	: 아아아아 어떤 거지
+P1 	: 크림이 흰색인가요?
+P0 	: 아니요! 크림색도 다양하답니다
+P1 	: ㅋㅋㅋㅋ이전 힌트 까먹었어요 빵이 들어간댔나요?
+P0 	: 빵의 일종일수있어요...! 쫀득쫀득하고 시원하게 보관하는 디저트랍니다
+P1 	: 앗... 그럼 혹시 케이크류인가요?
+P0 	: 케이크 아니에요!
+P0 	: 이게 프랑스 디저트였나...?
+P1 	: 악! 어떤거지
+P0 	: 유럽어디쪽인데 기억이 잘 안나네요ㅋㅋ
+P0 	: 얇은것도 있고 뚱띠한거도 있어요ㅋㅋ
+P1 	: 혹시 갈색 음식인가요?
+P1 	: 뚱띠 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 갈색도 있고 색은 다양해요!!!
+P0 	: 얇은것도 있고 뚱뚱한것도 있는 그 디저트...!

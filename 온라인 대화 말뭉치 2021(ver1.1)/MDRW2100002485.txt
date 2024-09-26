@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002485
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아해요?
+P0 	: 저는 좋아해요!
+P0 	: 좋아하시나요?
+P1 	: 좋아하죠~
+P0 	: 어디가보셨나요?
+P1 	: 좋아는 하는데 많이는 못가봤어요ㅠㅠ
+P0 	: 저도요ㅠㅠ
+P0 	: 국내라도 가고싶네요
+P1 	: 국내여행도 좋죠~말 잘 통하고 음식 입에 잘 맞고
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 저는 강릉이랑 전주 가고싶어요ㅠㅠ
+P1 	: 전주!
+P1 	: 전주 한옥마을가서 한복입고 놀았던거 생각나네요ㅋㅋ
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 한복이 참 이쁜거같아요
+P0 	: 전주에 너무잘어울리죠
+P1 	: 맛있는건 별로 못먹었던것같아요ㅠ
+P0 	: 아 그런가요?
+P0 	: 전주에 맛있는거많던데ㅠ

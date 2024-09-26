@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100041057
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 다이어트하시나요?
+P1 	: 전 안 해요
+P1 	: &name1&님은요?
+P0 	: 전 입다이어터예요ㅋㅋ
+P0 	: 운동은 하세요?
+P1 	: 근육 키우고 싶어서 피티 하고 있어요
+P1 	: &name1&님은 운동 하세요?
+P0 	: 와 멋지네요
+P0 	: 저는 빨리 걷기만요
+P0 	: 일주일에 몇번하세요?
+P1 	: 저는 일주일에 3번 정도 해요!
+P1 	: &name1&님은 매일 걸으시는 건가요?
+P0 	: 저도 일주일에 3-4번정도요
+P0 	: 한번할때 몇시간하세요?
+P1 	: 저는 2시간 정도 하는 것 같아요
+P1 	: &name1&님은요?
+P0 	: 저는 한시간정도요
+P0 	: 운동 효과가 있나요?
+P1 	: 네 살이 엄청 쭉쭉 빠지고 있어요
+P1 	: &name1&님은 효과 보시고 계신가요?
+P0 	: 아뇨 저는 현상유지중이예요
+P0 	: 그래도 안하는것보다는 낫겠지 싶어서 ㅎ

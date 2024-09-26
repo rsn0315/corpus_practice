@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012567
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 맛있게 드셨나요?
+P0 	: 육개장 먹었어요!
+P1 	: 오 컵라면이요?
+P0 	: 아 육개장 포장해서 먹었어요ㅎㅎ
+P1 	: 앗 진짜 육개장이셨구나ㅎㅎ
+P1 	: 국전문점이나 반찬집에서 육개장 포장해먹는거 넘 좋아요~~
+P1 	: 반찬걱정도 없구ㅎㅎ맛있고요!
+P0 	: 오 맞아요 요즘 잘돼있더라구요
+P1 	: 인터넷쇼핑으로도 반찬도 살수있는것도 좋더라구요!
+	  1인가구한테도 적당한 양으로 팔아서 좋은것같아요
+P0 	: 와 신기하네요!
+P1 	: 그쵸! 종류도 다양하고 키토같은것도 있어서 좋을것같아요
+P0 	: 키토가 뭐죠?
+P1 	: 앗 오타네요!! 키트요!! 밀키트같은거요!!
+P0 	: 아 밀키트ㅎㅎㅎ

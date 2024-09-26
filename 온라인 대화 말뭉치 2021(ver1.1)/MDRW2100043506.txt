@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043506
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 오늘은 뭐 드시나요?
+P1 	: 저는 양배추 삶아서 쌈 싸먹으려고요
+P0 	: 양배추 삶은거랑 뭐랑 드시나요?
+P1 	: 제육볶음이요
+P0 	: 헉 너무 맛있겠어요..
+P1 	: 제육볶음 좋아하세요?
+P0 	: 네...고기...
+P1 	: 제육볶음이랑 양배추랑 잘어울려요
+P0 	: 글게요ㅠㅠ 너무 먹고싶다..
+P1 	: 양배추 삶은거랑 먹으면 속도 편해요
+P0 	: 아 저는 오늘 저녁 계란 삶은거 두갠데요..
+P1 	: 헉 왜이렇게 부실하게 드세요
+P0 	: ㅠㅠ제육볶음 부럽다...

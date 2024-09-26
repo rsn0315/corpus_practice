@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013608
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 수강신청 해보신적 있으신가요?
+P1 	: 안녕하세요!
+P1 	: 네 졸업한지 좀 됐지만 있죠 ㅎㅎ
+P0 	: &name2&님 학교에서는 장바구니 시스템이었나요?
+P1 	: 장바구니 아니었던거 같아요! 그건 장바구니에 낳고 한꺼번에 결제하듯 신청하는 건가요?
+P0 	: 네네! 저희 학교도 장바구니가 아니었어요ㅠ
+P1 	: 일일히 들어가서 신청하는 거죠?
+P0 	: 장바구니는 장바구니 안에서 신청만 누르면 된다던대 저는 일일히 코드를 입력했어요ㅠ
+P1 	: 저희도요 ㅠㅠㅠ 장바구니 시스템 엄청 좋네요..
+P0 	: 그게 있었으면 몇 번의 실패가 없었을텐데요ㅠㅠ
+P1 	: 그러게요 하나 튕겨나가면 시간표 어그러져서 멘붕오는데 말이죠.. ㅠ
+P1 	: 제일 신청 힘들었던 강의 기억나시나요
+P0 	: 저는 리더십이요! 교필인데 1학년 선수강이라 2학년 때 정말 힘들게 성공했어요ㅠ
+P1 	: 오 리더십.. 강의내용이 궁금하네요
+P0 	: 별거 없는 그냥 대학교 인성강의? 같았어요ㅋㅋ
+P1 	: 아 ㅋㅋㅋㅋ 그냥 뻔한 그런 내용이었나봐요 ㅋㅋㅋ

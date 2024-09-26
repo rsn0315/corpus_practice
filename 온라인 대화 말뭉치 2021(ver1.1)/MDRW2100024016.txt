@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024016
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 봉사나 동아리활동해보셨나요
+P0 	: 저는 대학교때요 ㅎㅎ 사회복지전공해서 ㅎㅎ 봉사 매주다녔어요 ㅎㅎ
+P1 	: 와 사회복지사전공이셨군요
+P1 	: 좋은 학과네요 힘들지않으셨나요
+P0 	: 네 ㅎㅎ 직장도 전공살려서 십년다녔는데 ㅎㅎ
+P0 	: 적성에 맞았어요 ㅎㅎ
+P0 	: 근데 결혼하고 그만뒀거든요 너무 한직장 오래 다녀서 약간 질리기도 했고 ㅎㅎ
+P1 	: 와
+P1 	: 멋지시네요
+P0 	: 근데 듣다보면 &name2&님이 더 좋은일 많이 하시는것 같아요
+P1 	: 십년이나했으면 이제 질릴만두해요
+P0 	: 네 정말 쉬고 싶더라구요 ㅎㅎ
+P1 	: 전 그냥 인연닿는대로 해봤을뿐 크게 도움 안됐을거같아요
+P0 	: 아무것도 안하는 사람들도 있는걸요??
+P0 	: 그런 도움이 모여모여  근데 막상 받는 입장에서는
+P0 	: 정말 감사하고 도움되죠 ㅎㅎ
+P1 	: ㅋㅋ 그건 또 그들의 인연이죠 뭐
+P1 	: 도움이 필요한곳에서
+P1 	: 잘쓰이면 오히려 내가 좋더라구요
+P0 	: 맞아요 나누는 기쁨도 크죠
+P1 	: 그런 행복이 참 값진거 같아요
+P1 	: 요샌 코로나라  눈앞이 급하시지만 다들
+P1 	: 형편어려운분들은 더 케어받지못하게된거 같아안타까워요

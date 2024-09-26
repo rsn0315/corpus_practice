@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001016
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 요즘 구매하고 싶은물건이 어떤것인 가요~?
+P0 	: 플립핸드폰이 갖고픈데ㅎㅎ 비싸서 못사고 있어용ㅠ
+P1 	: 저도 플립3  보고있는데 가격이 비싸네요
+P1 	: 아직 액정도 못믿겠구
+P0 	: 아 액정이?접히는부분요?ㅠ
+P1 	: 네 그부분이 완전히 좋을거란 생각은 아직안들어서요
+P1 	: 어떤색상을 생각하시나요~?
+P0 	: 아 그것도그렇네요ㅠ저도 자주폈다접었다하니까요ㅠ
+P0 	: 라벤다는튀고 크림?
+P1 	: 크림이 질리지 않을거같아요
+P1 	: 저도 동의해요
+P0 	: 맞아요ㅡ2년이나 써야하니ㅠ 너무튀는거는 금방 질릴것같아요
+P1 	: 2년약정으로 사실려나봐요
+P0 	: 네ㅠ근데 요즘은 약정할인이 비싸긴하더라구요ㅠ
+P1 	: 자급제는 102만이면 사더라구요
+P1 	: 나쁘지 않은것 같아요
+P0 	: 그쵸ㅡ 공시나 자급제사는게 더 싸게 치이더라구요

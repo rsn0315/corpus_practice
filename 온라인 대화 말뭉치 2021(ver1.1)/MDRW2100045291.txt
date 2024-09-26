@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 털이 좀 날 립니다
+P0 	: 청소하기 힘들겠네요
+P1 	: 맞아요 털뭉치가 굴러다녀요
+P0 	: 몇 마리인데요
+P1 	: 두 마리 요
+P0 	: 성별은 어떻게 되나요
+P1 	: 둘 다 남자 수컷이에요
+P0 	: 나이는요
+P1 	: 같이 태어나서 형제에요
+P0 	: 오귀엽겠어요
+P1 	: 길냥이 엄마가 나았어요
+P0 	: 그러면 코숏?
+P1 	: 그런 셈이죠
+P0 	: 무늬는 어떤데요

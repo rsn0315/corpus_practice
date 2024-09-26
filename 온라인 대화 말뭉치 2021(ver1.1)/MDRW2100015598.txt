@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015598
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 안녕
+P0 	: 안녕
+P1 	: 나 이제 진짜 다이어트할거야
+P0 	: 나도 항상 마음속으로 다짐하지
+P1 	: 나는 5키로를 뺄거야
+P0 	: 어떤 방법으로 뺄거야
+P1 	: 정석적으로 빼야 오래 유지되더라
+P0 	: 운동을 많이 할 거니
+P1 	: 맞아 그리고 건강하게 먹을거야
+P0 	: 탄수화물을 제한하니
+P1 	: 전체적으로 단 것을 줄이려고
+P0 	: 나도 요즘 그래서 액상과당을 줄이고 리고 있어
+P1 	: 탄산음료 안마시겠네
+P0 	: 탄산수로 대체 중이야
+P1 	: 좋은 습관이네

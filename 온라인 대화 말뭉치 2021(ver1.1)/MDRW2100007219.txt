@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007219
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 쿼카 좋아하세요??
+P1 	: 안녕하세요 ! 쿼카 귀여워서 좋아해요
+P1 	: 반려동물 키우시나요?
+P0 	: 네! 저는 고양이 키우고있어요 쿼카도 좋아해요ㅋㅋ
+P1 	: 고양이 너무 귀엽죠
+P1 	: 고양이 이름이 뭐예요?
+P0 	: &name3&예요ㅎㅎ 치즈태비라서ㅋㅋ
+P1 	: 이름 너무 귀엽네요ㅋㅋ
+P0 	: 어떤 동물 제일 좋아하세요? 반려동물 키우시나요?!
+P1 	: 저는 예전에 햄스터를 키웠어요 !
+P1 	: 지금은 여건이 안되서 다른 동물은 못키우고 있어요ㅠㅠ
+P0 	: 헉 저도 햄스터 키운 적 있어요!
+P0 	: 펄햄스터였어요
+P1 	: 저도 펄햄스터였는데 이름은 &name4&였어요 !
+P1 	: 펄햄스터 너무 귀엽지 않나요 ㅠㅠ
+P0 	: 헉헉 그렇군요ㅠㅠ 네 하얗고...ㅋㅋㅋ
+P0 	: 저희애는 이름 &name5&였어요!
+P1 	: &name5&도 엄청 귀여웠을 것 같아요 !
+P1 	: &name5&도 해바라기씨를 좋아했나요?
+P0 	: 헉 네ㅋㅋㅋ햄스터들 해바라기씨를 제일 좋아하나봐요 역시
+P1 	: 그쵸 볼주머니에 가득 넣을때 얼마나 귀여운지 몰라요ㅠㅠ

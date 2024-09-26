@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015904
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 지금 연애하시나요?
+P0 	: 아니요 &name2&님은요
+P1 	: 저도요
+P1 	: 연애해보신적있으신가요?
+P0 	: 네 있어요
+P1 	: 오 어떻게 만나셨어요?
+P1 	: 저는 아직 없어서요
+P0 	: 어플에서 만났어요
+P1 	: 별로 걱정안되셨나요?
+P1 	: 저는 어플 한번도 안써봐서요
+P1 	: 그래서 음 뭔가 낯선사람이긴 한거잖아요..? 현실에서 만나지 않은?
+P0 	: 생각보다 나쁘지 않았어요ㅎㅎ
+P0 	: 미팅 해본적 있으세요?
+P1 	: 아니요
+P1 	: 주량도 잘 몰라서요ㅎㅎ
+P0 	: 결혼 생각있으신가요
+P1 	: 그럼요
+P1 	: &name1&님은요?
+P0 	: 저는 비혼주의라서ㅎㅎ

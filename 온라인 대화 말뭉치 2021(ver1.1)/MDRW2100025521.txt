@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100025521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 거지같은 설거지
+P0 	: 집안일은 자주하세요?
+P0 	: 전 설겆이 좋아요
+P0 	: 요리는 싫구요
+P1 	: 요리를 못해서 자주 시켜먹어요
+P0 	: 카레는 쉽다고 하더라구요ㅋㅋ
+P1 	: 청소 좋아하세요?
+P1 	: 카레는 쉬워서 해먹어요
+P1 	: 어제했어요 ㅋㅋㅋㅋ
+P0 	: 전 좋아하는데
+P0 	: 자주는 안해요ㅋㅋ
+P1 	: 가족이랑 같이 사세요?
+P1 	: 혼자사세요.ㅣ
+P1 	: ?
+P0 	: 가족이랑 살아요ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 네 전 고모랑 살아요
+P1 	: 일때문에 배달음식 위주로 먹게 되네요
+P0 	: 주로 뭐시켜드시나요~~?
+P1 	: 치킨이요!
+P1 	: &name1&님은 시켜드시나요
+P0 	: 전 잘 안시켜먹어요ㅜㅜ
+P1 	: 편해요!
+P1 	: 남이 해준 음식 최고
+P0 	: 저희동네 곱창맛있는데
+P0 	: 배달음식 그릇 치우는것도 일이더라구요
+P1 	: 앗 먹고싶네요
+P0 	: 집안일..

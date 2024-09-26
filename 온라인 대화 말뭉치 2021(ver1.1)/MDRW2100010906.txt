@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010906
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 음식
+P1 	: 할 수 있는 요리가 뭐야
+P0 	: 뭐좋아하세요
+P0 	: 나는
+P0 	: 나는~~~~ 요리잘못해
+P0 	: 너는?
+P1 	: 나는 조금 할 수 있어!
+P0 	: 뭐 잘해?
+P1 	: 라면 끓이기!
+P0 	: 또?
+P1 	: 계란후라이?
+P0 	: 계란후라이는
+P0 	: 소금이좋아캐찹이좋아?
+P1 	: 난 둘 다 좋아
+P0 	: 나는 케찹이좋아
+P1 	: 그러면 케찹으로 많이 먹겠네?
+P0 	: 응 나는 거의 맨날
+P0 	: 케찹 뿌려

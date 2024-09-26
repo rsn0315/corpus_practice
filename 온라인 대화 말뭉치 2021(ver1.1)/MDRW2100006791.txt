@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006791
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 시사(정치, 경제, 사회)>2026년 병장 월급 100만원
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 군대다녀오지 않았어요. 군생활 해보셨나요?
+P0 	: 아뇨
+P1 	: 올해 이병이. 45만원정도 하더라구요
+P0 	: 저는 사실 크게 관심은 없어서 잘 모르고 있었네요...
+P0 	: 군대도 오래 있을수록 월급이 오르는거죠??
+P1 	: 계급에 따라서 월급차이가 있는것 같아요. 이병이랑 병장이랑 차이가 있죠
+P1 	: 2021년에 병장월급이 60만원정도니  2026년에 100만원이면 일년에 10만정도씩 인상되나봐요.
+P0 	: 지금 26년에 100만원이 확정된건가요??
+P1 	: 그럴것 같아요.군생활이 점점 좋아지네요
+P0 	: 그래도 다행이네요...
+P0 	: 혹시 dp 보셨나요??
+P0 	: 보니까 장난 아니더라고요..
+P1 	: 군생활 리얼하다고 하는데 못봤어요.
+P0 	: 재미있더라고요
+P0 	: 보고나면 군대가 걱정되는...
+P1 	: 군대생활하면복무 기간동안은 사회생활을 못하니  병장 월급 100만원 나쁘지 않은 것 같아요
+P0 	: 네 맞아요
+P0 	: 또 군인대상 적금 이런것도 잘 돼 있는거 같더라고요
+P1 	: 병장 월급 100만이면 이등병 부티ㅣ 군생활하면서 월급으로 저축하면 제대할때쯤 학비 벌겠네요

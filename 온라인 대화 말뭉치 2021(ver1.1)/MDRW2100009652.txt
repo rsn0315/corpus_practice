@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009652
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그러고보니 곧 개강시즌이네요!
+P0 	: 오 그렇네요!
+P0 	: 다들 비대면수업하겠죠?
+P1 	: 그럴거같아요..! 이놈의 코로나ㅜ
+P0 	: ㅋㅋㅋ큐ㅠㅜㅜ신입생들 학교도 못가구
+P0 	: 슬플 것 같아요...
+P1 	: ㅋㅋ큐ㅠ
+P1 	: 학교 다니시면서
+P1 	: 즐거웠던 추억 같은 거 있으세요?
+P0 	: 과에서 단체로 여행간게 재밌었어요ㅎㅎ
+P0 	: 동아리같은거 해보셨나요?
+P1 	: 아뇨ㅠㅠ&name1&님은요??
+P0 	: 저도 안해봐가지고ㅜㅜ
+P1 	: 그럼 학교 다니시면서 재밌게 들은 수업 있으신가요??
+P0 	: 아 전 마케팅수업 재밌었어요!
+P0 	: 어떤수업이 제일 힘드셨어요?
+P1 	: 찬반토론수업이 힘들었어요..
+P0 	: 헉 공감이에요
+P0 	: 토론수업진짜 싫어요ㅠ
+P1 	: 진짜 매주 준비하는데 탈모 오는 줄 알았어요

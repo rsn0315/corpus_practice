@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 알러지 있으세요?
+P1 	: 음 새우 있어요
+P1 	: 있으세요?
+P0 	: 아 저는 없어요
+P0 	: 새우는 많이 있으시더라구요
+P1 	: 있다없다해서ㅎㅎ그냥먹어요
+P0 	: 오 다행이에요
+P0 	: 맛난 새우
+P1 	: ㅎㅎ포기할수없져
+P0 	: 좋아하는 동물 있으세요?
+P1 	: 음 고양이 강아지 다 좋아해요!
+P1 	: 혹시키우시나요
+P0 	: 전 강아지요ㅎ
+P1 	: 와
+P1 	: 한마리인가요
+P0 	: 네 1마리여
+P1 	: ㅎㅎ몇살인가요
+P0 	: 1살 뽕이{emoji:♡}

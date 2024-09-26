@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 점심 드셨나요?ㅎ.ㅎ
+P1 	: 네! 점심 먹었습니다! &name1&님도 드셨나요?
+P0 	: 네!ㅎㅎㅎㅎㅎ 저는 죽을 먹었어요 &name2&님은요?!
+P1 	: 전 스콘 먹었습니다!
+P0 	: 와! 스콘 너무 맛있져ㅠㅠㅠㅠㅠ 어던스콘 드셨나요?! 플레인스콘?!
+P1 	: 오레오 스콘 먹었어요!
+P0 	: 하 진짜 맛있는 거 드셨네요~~!! 로투스 스콘도 맛있는데 드셔보셨나요?!
+P1 	: 아뇨 한번도 안먹어봤어요 맛있나요?!
+P0 	: 네ㅜㅜ 너무 맛있더라고요!!!!! 오레오 로투스 들어간 구움과자류가 다 맛있더라고요!ㅎ.ㅎ
+P1 	: 오오 한번도 먹어본적 없는데 먹어봐여겠네요!
+P0 	: 좋아하시는 디저트 있나요?!
+P1 	: 저 에그타르트 좋아해요!
+P0 	: 와 에그타르트 너무 맛있죠!!ㅜㅜ
+P0 	: 그럼 이건 안먹는다!하는 디저트 있나요?
+P1 	: 딱히 없는것 같아요!
+P1 	: &name1&님은 좋아하시는 디저트 있나요?
+P0 	: 저는 요즘 르뱅쿠키가 너무 좋더라고요 드셔보셨나요?!
+P1 	: 처음 들어봐요!
+P0 	: 아하! 안에 견과류랑 초코칩이 콕콕 박힌 두툼한 쿠키인데 맛있더라고요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032740
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 구매한 도서가 있나요
+P0 	: 저는 전공책이요ㅋㅋㅋㅋ
+P0 	: &name2&님은 있으신가요??
+P1 	: 아니요
+P1 	: 서점을 방문한지도 엄청 오래 된것 같네요
+P0 	: 그렇군요
+P0 	: 그럼 좋아하는 도서가 있으신가요?
+P1 	: 전 로앤스소설이나 사극로맨스 좋아해요
+P0 	: 재밌게 읽으신 책 말씀해주실 수 있으신가요?
+P1 	: 오래된 광해의 연인란 도서가 있어요
+P1 	: 광해군과 궁녀의 로맨스와 정치 암살 등 내용 입니다
+P1 	: 재미있게 읽으신 도서가 무엇인가요
+P0 	: 저는 얼마나 닮았는가요
+P1 	: 도서 제목인가요 ?
+P0 	: 네 sf소설이에요
+P1 	: 책은 자주 읽으시나요
+P0 	: 아니요 &name2&님은 자주 읽으시나요?
+P1 	: 아니요 퇴근하고 오면 피곤해서 잘 못 보게 되네요

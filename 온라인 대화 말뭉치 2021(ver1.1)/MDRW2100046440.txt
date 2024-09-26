@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046440
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 감사합니다 &name1&님 ㅎㅎ
+P1 	: &name1&님 식사 하셨나요?
+P0 	: 넵
+P0 	: &name2&님은 식사하셨습니까?
+P0 	: 식사하러  가셨나요?
+P1 	: 어떤 메뉴 드셨나요~?
+P0 	: 라면이랑 밥먹었습니다
+P1 	: 알차게 드셨군요 ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되세요? ㅎㅎㅎ
+P0 	: 온라인게임입니다
+P1 	: 앗 게임! 저도 좋아하는데 혹시 어떤 게임 좋아하시나요??
+P0 	: 리니지레볼루션 같은 알피지게임을 좋아합니다
+P1 	: 그렇군요! 모바일게임 중에서는
+P1 	: 리니지도 많이 들어본 것 같아요:)
+P0 	: 넵
+P1 	: 리니지는 게임 난이도가 많이 높나요??
+P0 	: 난이도는 쉽습니다 돈을 쓸수록 낮아지죠 ㅋ
+P1 	: 그렇군요 ㅎㅎ 과금이 들어가지만 재밌을 것 같아요..!
+P0 	: 감사합니다 ^^

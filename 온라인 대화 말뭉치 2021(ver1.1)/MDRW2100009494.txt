@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100009494
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 혹시 반려동물 있으신가요?
+P1 	: 안녕하세요~ 저는 없습니다..님은요?
+P0 	: 저는 예전에 금붕어를 키웠는데 지금은 없어요ㅎㅎ
+P0 	: 좋아하는 동물 있으세요?
+P1 	: 저는 개 좋아해요
+P1 	: 금붕어 좋아하셨나봐여~
+P0 	: 네 금붕어 좋아해요~
+P0 	: 강아지 좋아하시면 강아지 유튜브도 보시나요?
+P1 	: 유튜브는 잘 몰라서요.. 반려동물 영상이 많은가요?
+P0 	: 저도 많이 보지는 않지만 많이 있는거 같아요!
+P0 	: 그럼 전에 키워본 동물도 없나요?
+P1 	: 저는 없어요..
+P1 	: 키우고 싶은 동물 있으신가요?
+P0 	: 제 주변에도 안 키우는 친구들이 더 많아요!
+P0 	: 전 고양이 키워보고 싶어요ㅎㅎ
+P1 	: 고양이 정말 귀엽죠~
+P1 	: 고양이 어떤 점을 제일 좋아하시나요?
+P0 	: 기분에 따라 꼬리 움직이는게 너무 귀여워요~
+P0 	: 키우고 싶은 동물 있으신가요?
+P1 	: 개를 키우고 싶어요
+P1 	: 고양이도 너무 좋구요
+P0 	: 너무 좋을거 같아요!

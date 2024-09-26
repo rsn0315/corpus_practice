@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100006077
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 요즘 하시는일 있으세요??
+P0 	: 코로나때문에 구직 힘드시죠ㅠ
+P1 	: 오랜기간 백수다가 얼마전에 계약직으로 일하고있어요 ㅋㅋㅋ
+P1 	: 1년이지만 열심히 해보려구요 ㅋㅋㅋ
+P0 	: 오오 좋네요 어떤 계열 종사하세요??
+P1 	: 저 사무직인데 cs팀입니다
+P1 	: 님은 어떤 일 하세요?
+P0 	: 저는 아르바이트생이였었어요
+P1 	: 어떤 아르바이트였나요?
+P0 	: 엥 혹시 종로맥가 아시나요?
+P1 	: 아뇨아요
+P1 	: 종로에잇는 맥주집인가요?ㅋㅋㅋㅋㅋ
+P0 	: 그 맥주집인데
+P0 	: 아뇨 맥주집은 맞는데
+P0 	: 프렌차이즈 가게에요 종로에서 시작한것같긴해요
+P1 	: 하 저 맥주 좋아해요
+P1 	: 저도 일하기 전에는 퓨전한식당에서 알바했었어요 ㅋㅋㅋㅋ
+P0 	: 오 할만하셨나요?
+P1 	: 네 사장님 두분이셧는데 너무 잘해주셔서
+P1 	: 편하게 잘 일했어요!

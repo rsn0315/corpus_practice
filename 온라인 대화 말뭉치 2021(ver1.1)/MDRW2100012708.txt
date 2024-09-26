@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100012708
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅎㅎ 그럼 &name1& 이야기해주세요ㅎㅎ
+P1 	: &name1& 연애세포 다시살아나게ㅎ
+P0 	: 전 딱히 기억날만한 연애가 없어요ㅎ
+P0 	: 연애를 많이안해봐서
+P1 	: 아그래요?ㅎ
+P1 	: 그래도 모쏠은 아니실꺼아니애요?
+P0 	: 어케보면 그럴수도 있고 아닐수도 있고ㅎ
+P0 	: 너무 대학땐 철벽치고 했더니
+P0 	: 이젠 쉽지않네요
+P1 	: 눈이높아서 그런건가요?ㅎ
+P0 	: 그렇지도 않은데ㅋ
+P0 	: 인연이 없는건지
+P0 	: 주변에 남자가 없네요ㅋ
+P1 	: 인연이없는거에요ㅎ
+P1 	: 주변에 남자는 많으실꺼에요ㅎ
+P1 	: 자세히 안보셔서 그렇고 집에만 있으시니깐ㅎ
+P0 	: 어딜가야 있을까요ㅎㅎ
+P0 	: 세상의 반은 남잔데
+P1 	: ㅎㅎ 너무걱정마세요ㅎ
+P1 	: 곧나타날꺼에요ㅎ
+P1 	: 주위를 잘둘러보시고
+P1 	: 혹시라도 내가 놓친게 있나 한번 생각해보세요ㅎ
+P0 	: 과연~~~~
+P1 	: 남자나 여자나 똑같잖아요ㅎ
+P1 	: 내가 좋아하면 시간을 그쪽으로 쓰고 행동도 다를꺼니깐ㅎ
+P0 	: 올해도 이렇게가면 듀오라도 가입을ㅎ
+P1 	: 듀오는 아니되요ㅎㅎ
+P1 	: 꼭 결혼을 하고싶으세요?
+P0 	: 네 전 하자주의인데 고생할바엔 혼자가 낫다 이생각이요

@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100023929
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 중고거래 해보셨나요?
+P0 	: 넵!!
+P0 	: 당근마켓 가끔이용해요 ㅎㅎ
+P0 	: &name2&님은요~?
+P1 	: 저도 당근이요 ㅎㅎ 그것만 해요
+P1 	: 많이 파셨나요?
+P0 	: 음 그냥 안쓰는 물건은 거의 잘 파는 것 같아요!
+P0 	: 엄청 싸게 내놓거든요ㅎㅎ
+P0 	: 뭐 팔아보셨어요?
+P1 	: 저 카세트 테잎이요
+P0 	: 오 구매는 자주 하세요?
+P0 	: 저는 잠바하나 사본게 끝이에요ㅎㅎ
+P1 	: 구매 거의 안해요 팔려고 당근 시작했어요 ㅎㅎ
+P0 	: 앟ㅎㅎ 당근으로 이것저것 팔면 돈이 꽤 되는 것 같아요!
+P0 	: 근데 현금으로 받을때가 많아서인지
+P0 	: 금방 쓰게돼요ㅋㅋ
+P1 	: ㅎㅎ 팔고 받은 돈 더해서 더 사죠
+P1 	: 첫거래때 그랬네요 ㅋㅋ
+P1 	: 5천원 팔고 만원이상 사먹고 집에 들어간 경험이 ㅎㅎ
+P0 	: ㅋㅋㅋㅋ뭔가 꽁돈생긴 느낌이라
+P0 	: 현금으로 받으면 안돼요ㅋㅋ
+P1 	: ㅋㅋㅋ 계좌거래선호하시는군요
+P1 	: 전 팔아도 저렴하게 팔아서 돈이 별루 안돼요
+P0 	: ㅋㅋㅋ 사실 당근하는것보다
+P0 	: 지금 하고 있는 이 심심이가
+P0 	: 더 돈 많이 벌 것 같아요ㅋㅋㅋ
+P1 	: ㅋㅋㅋ
+P1 	: 당근은 물건 처분하려고 시작한 거라서요
+P1 	: 그냥 버리기 그런것들 얼마라도 받으면 좋겠다 싶어서 시작했죠

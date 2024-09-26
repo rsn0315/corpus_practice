@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001782
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 계절을 좋아하시나요?
+P1 	: 저는 가을 좋아해요^^
+P1 	: 어떤 계절 좋아하세요?
+P0 	: 저는 겨울을 좋아해요.
+P0 	: 겨울 특유의 감성이 좋더라구요ㅎㅎ
+P0 	: 가을을 좋아하시는 이유가 무엇인가요?
+P1 	: 저도 가을 다음은 겨울이요
+P1 	: 여름은 제일 마지막
+P0 	: 저도요 여름은 싫어하는 편이에요
+P0 	: 너무 덥고 습해서요ㅠ
+P1 	: 공감해요 더운거 너무 질색 ㅠㅠ
+P0 	: 맞아요 차라리 추우면 옷을 더 입으면 되지만 더우면 너무 힘들죠ㅠㅠ
+P0 	: 일기예보 자주 보시나요?
+P1 	: 네 매일 아침 나가기전이나 저녁에 늘 봐요 ㅎㅎ
+P1 	: 날씨에 따라 기분도 달라지는 느낌이...
+P0 	: 맞아요 날씨를 보고 그날 하루 기분도 달라지기도 하죠ㅎㅎ
+P1 	: 맑은 날만 있으면 좋으련만 ㅋㅋ
+P0 	: 그러게요 비오는 날은 너무 싫어요ㅠ
+P1 	: 나갈때 날씨 어플에 비가 딱 있으면 기분 별로 ㅠㅠ
+P1 	: 매일 날씨 확인하시나요?
+P0 	: 네 저도 아침에 일어나서 날씨 확인하는 편이에요. 예전에는 미세먼지때문에 특히 신경써서 확인했었죠.

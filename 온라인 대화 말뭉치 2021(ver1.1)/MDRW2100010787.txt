@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010787
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그러게요 선선해졌어요
+P0 	: 비오나요?
+P1 	: 비가 하루종일 오네요 거긴 어때요?
+P0 	: 오다안오다 하네요
+P0 	: 어떤 날좋아하시나요?
+P1 	: 저는 맑은날 좋아해요 지금도 비오나요?
+P0 	: 오다안오다해요
+P0 	: 거긴요?
+P1 	: 여기도 비가 오다안오다 하네요 눈 좋아하세요?
+P0 	: 추운건 안좋지만 눈은 좋아해요 ㅎ
+P1 	: 추운게 좋나요 더운게 좋나요?
+P0 	: 더운거요
+P0 	: 님은요?
+P1 	: 헐 저는 추운거요 겨울이 좋아요
+P0 	: 어떤게 좋나요?
+P1 	: 추운 느낌이 좋아요

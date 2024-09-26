@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100021029
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건 있나요?
+P1 	: 네 최근에 옷을 샀어요
+P0 	: 오 .. 가을 옷 사셨나요?
+P1 	: 음 가을 옷? 블레이저 샀습니다
+P0 	: 그쳐 이제 겉옷이 필요한 시기죠
+P1 	: 최근에 구입하신 물건이있나요
+P0 	: 저는 최근에 핸드폰 바꿨어요!
+P0 	: 가을옷도 구매하구... 이것저것 쇼핑했네요..
+P1 	: 오 핸드폰 어떤 기종으로 바꾸셨나요?
+P0 	: 최근에 나온 플립으로 바꿨습니다!
+P1 	: 오 플립.. 접히는 스마트폰이라 엄천 신기하던데
+P1 	: 불편하진않으신가여
+P0 	: 아직 못받았어요.. 주문이 밀리나봐요..ㅠ 근데 투고해서 써보니까 괜찮더라구요 !
+P1 	: 아 그렇군여
+P1 	: 저도 나중에 한번 써보고싶네요
+P0 	: 네네 예전에 폴더폰 썼었었는데 다시 돌아가는 기분이라 신기하네요 ..

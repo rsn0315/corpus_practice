@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100006504
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 초밥먹고싶다..
+P1 	: 나도
+P0 	: 집 가까이 있는 초밥집 망해서 아쉽..
+P1 	: ㅋㅋ거긴 망할만했다
+P0 	: 왜? 먹어봤었나?
+P1 	: 아니
+P0 	: 아 손님이 없어서?ㅠㅠ
+P1 	: 그래 넘 없더라
+P0 	: 웅웅..근처에 뭐가 넘 없어서 그런듯
+P1 	: 먹고싶으면 바닷가가야지
+P0 	: ㅋㅋ넘 멀다!
+P1 	: 아니면 좀 비싼거
+P0 	: 웅웅신선한거로 먹어야지

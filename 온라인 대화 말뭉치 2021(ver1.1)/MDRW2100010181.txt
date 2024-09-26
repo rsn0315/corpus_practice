@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010181
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집에 찾아가는 편이신가요
+P0 	: 교촌 좋아하세요?
+P1 	: 교촌 맛있어요 이 치킨 저 치킨 먹다가 결국 다시 교촌 ㅎㅎ
+P0 	: 오~저랑 비슷하시네요~양이 적지만 교촌이 젤루 맛있는 것 같아요
+P1 	: 네 맞아요 올리브치킨은 첫 조각만 맛있고 음방질려서..
+P0 	: 허니콤보 좋아하세요?
+P1 	: 흐흐흐 네 대박적 맛있죠
+P0 	: 아~저는 오리지널이랑 레드오리지널만 먹어서 아직 허니콤보 안 먹어봤어요
+P1 	: 저는 레드를 안먹어봤어요
+P0 	: 아~좀 엄청 매워요~ㅠㅠ
+P1 	: 그럴거같더라고요 주변애 맵찔이들이 많아서 도전을 못해봤어요
+P0 	: 네~근데 좀 땡기는 매운맛이요
+P1 	: 오 궁금해요 저는 한번 먹어봐야겠어요
+P0 	: 매운거 잘 드시나요?
+P1 	: 네 저는 좋아해요 신전떡볶이 중간맛정도 ㅋㅋ
+P0 	: 아~잘 드시네요~! 신전떡볶이 맵던데~!
+P1 	: 매운맛은 못먹고요 ㅋㅋㅋ
+P0 	: 보통맛도 맵던데요~!

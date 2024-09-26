@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100033829
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하시는 운동이 있으신가요?
+P0 	: 저는 달리기 좋아해요ㅋㅋ
+P1 	: 주로 코스가 어떻게 되세요?
+P0 	: 지금은 아이들이 있고
+	  가정보육중이다 보니
+P0 	: 홈트로 대체 하고 있어요:)
+P0 	: &name2&님은요?
+P1 	: 저도 홈트하고 있어요
+P0 	: 유툽 영상 보면서 하시나요?
+P1 	: 유튜버 영상 위주로 하고 있어오
+P0 	: 주로 어느분꺼 보세요?
+P1 	: 저는 땅끄부부랑 샤크코치 많이 봐요
+P0 	: 저도 땅끄부부 보는중인데
+P0 	: 샤크코치도 봐봐야겠네요:)
+P0 	: 따로 건강관리도 하세요?
+P1 	: 비타민? 정도 먹고 있어요 &name1&은요?
+P0 	: 저도 아침에 일어나서
+	  물한잔과 함께 유산균 먹고 있어요
+P0 	: 비타민이랑 다른 영양제들도
+	  사두었는데 잘 안챙겨먹게되네오ㅡ
+P1 	: 유산균도 좋죠..영양제는 생각보다 챙겨먹디 쉽지 않더라구요ㅠ
+P0 	: 그러게요ㅠ
+	  사놓고도 안먹는ㅋㅋ

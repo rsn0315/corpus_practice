@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033633
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요?
+P1 	: 네 여행 좋아해요ㅎㅎ 여행 좋아하세요?
+P0 	: 네 저도 여행좋아해요
+P0 	: 국내 좋아하는 여행지있으신가요
+P1 	: 제주도ㅎㅎ 강원도 바다도 좋아해요ㅋㅋ
+P0 	: 저도 바다있는곳좋아해서 제주도 넘좋아해요
+P0 	: 제주도 어디가 가장좋으셨어요
+P1 	: 몽돌이었나..사람많았는데 좋았어요ㅠㅠ
+P0 	: 오 그 해변이 모래사장말고 몽돌깔린거말이죠?
+P1 	: 네 귀엽더라구요ㅎㅎ
+P0 	: 맞아요 다른매력이있져 전 제주도에 우도가 가장좋더라구요
+P0 	: 우도가보셨나요?
+P1 	: 아 네ㅎㅎ진짜 이쁘더라구요 안갔으면 후회할뻔했어요
+P0 	: 그쵸 바다 너무맑고이쁘고
+P0 	: 거기에 보트체험있는데 타보셨나요
+P1 	: 아뇨ㅠㅠ다음에 와서 타자했는데...ㅎㅎ 재밌어보였는데 타셨어요?
+P0 	: 네 제주도에 보트체험하는곳중에 우도가 젤 재밌어요
+P0 	: 우도 서빈백사 보트장이요!
+P1 	: 다음에 가면 꼭 해야겠어요ㅠㅠ후회안하게 ㅜㅋㅋㅋ

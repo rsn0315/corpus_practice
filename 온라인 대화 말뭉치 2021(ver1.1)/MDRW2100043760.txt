@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043760
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 저녁식사 하셨나요?
+P1 	: 안녕하세용 넹 먹었어요 &name1&님은요?
+P0 	: 저도 먹었어요
+P0 	: 어떤거 드셨나요?
+P1 	: 저는 그뭐지 고기먹었어요
+P1 	: 돼지고기찜이었나..?
+P0 	: 맛있겠네요
+P0 	: 전 칼국수 먹었어요
+P1 	: 으와 맛있었겠네요
+P1 	: 칼국수 안먹은지 디게 오랜된 거 같네요
+P0 	: 저도 간만에 먹었어요
+P0 	: 날씨가 쌀쌀하니까 국물이 땡기더라구요
+P1 	: 확실히 그렇죠..
+P1 	: 저도 언제 한 번 먹어야겠어요
+P0 	: 수제비도 좋은거같아요
+P1 	: 아 맞아요 어릴 때 자주 먹었어요 특히 비올 때!
+P0 	: 그쵸 ㅋㅋㅋ 저 바지락은 별로 안좋아하는데
+P0 	: 바지락 국물은 좋아해요
+P1 	: 아 뭔지 알 거 같아요..ㅋㅋㅋ 저도 해산물 거의 싫어하는 편인데 국물은 맛있는 경우 있더라구요
+P0 	: 네 뭔가 그 시원한 국물이 가끔 땡기더라구요 ㅋㅋㅋ

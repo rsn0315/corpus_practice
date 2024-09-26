@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100003926
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name1&님 안녕하세요 ㅎ.ㅎ 최근에 관람하신 공연이나 전시회가 있으신가요?
+P1 	: 안녕하세요
+P1 	: 요즘은 잘 못보고 있어요
+P1 	: &name2&님은요?
+P0 	: 저도 밖에 잘 안나가서... 
+P0 	: 근데 저번달에 블랙위도우 봤어요!
+P1 	: 오 블랙 위도우 핫하던데
+P1 	: 재밌나요?
+P0 	: 네 저는 마블영화 몇년만에 봤는데 재밌더라구요 ㅋㅋㅋ
+P0 	: 스칼렛 요한슨이 액션을 아주 그냥 ㅋㅋ 시원했어요
+P1 	: 오 마블 영화 최애가 뭔가요?
+P0 	: 기억나는게 블랙팬서밖에 없긴 한데 ㅋㅋㅋ
+P0 	: 이번에 본 블랙위도우!! 좋은거같네요 ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 저도 최애는 없능데 본게
+P1 	: 엔트맨 뿐이에요
+P1 	: 그 작아지는....
+P0 	: ㅋㅋㅋㅋㅋ 그건 안봤는데 ㅋㅋ 엄청 웃긴 캐릭터 아닌가요?
+P0 	: 마블 너무 잘나가서
+P0 	: 저처럼 잘 안보면 대화에 못끼게 되는거같아요 ㅜ ㅋ
+P1 	: ㅋㅋㅋㅋㅋ 맞아요 말할 때 이해가 잘안돠는....
+P1 	: 그래도 잘 안보게 돼요 ㅎ
+P0 	: ㅋㅋㅋㅋ 취향이 아닌건 어쩔수 없는듯해요
+P0 	: 어떤 영화 많이 보세요??
+P1 	: 저 판타지나 좀비물 좋아해요
+P1 	: 한창 빠졌을 때 좀비영화만 봤어요ㅋㅋ
+P0 	: 우왘ㅋㅋ 좀비요?? 전 워킹데드도 친구손 꼭 잡고 봤는데 ...
+P1 	: 네ㅋㅋㅋㅋㅋㅋ 근데 엄청 잔인한거는 잘 못 보는 하하

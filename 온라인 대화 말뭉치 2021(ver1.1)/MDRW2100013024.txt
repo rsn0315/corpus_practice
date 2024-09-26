@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100013024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셧거나 연애중이신가요?
+P1 	: 안녕하세요:)
+P1 	: 저는 결혼했어요
+P1 	: &name1&님은요?
+P0 	: 저는 솔로입니다 !!
+P0 	: 결혼한지 얼마나 되셧어요
+P1 	: 오 빛이나는 쏠로{emoji:♡}
+P1 	: 저는 올해로 7년차에요:)
+P1 	: &name1&님은 자만추세요?
+P0 	: 넵 !! 근데 요즘 코로나라서 만나기가 꺼려지네요 ㅜㅜ
+P0 	: 연애 오래 하시다가 하신건가요?
+P1 	: 그쵸 ㅜㅜ 코시국이라 참...
+P1 	: 연애는 1년 조금 안되게하고
+	  결혼했어요:)
+P0 	: 오오 소개팅으로 만나셨나요??
+P1 	: 아뇽ㅋㅋ 저는 자만추입니다ㅋㅋ
+P0 	: 소개팅은 한번도 안해보셧나요??
+P1 	: 대학동기인데 썸타다 군대가고
+	  안뇽빠빠이 되었다가 
+	  20대 후반에 다시 재회ㅋㅋ
+P1 	: 소개팅 당연 해봤죠ㅋㅋ
+P1 	: 소개팅으로 만나서 사귄적도 있지만
+	  자만추가 더 좋더라구요
+P0 	: 우아 완전 인연이네요!
+P0 	: 몇살때 결혼 하신거에용?
+P1 	: ㅋㅋ28살때 만나서
+	  29살에 결혼했어요ㅋㅋ
+P0 	: 우아 저도 결혼 빨리 하고싶어요!!

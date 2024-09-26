@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100039988
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 건강을 위해 하고 계시는 거 있나요 운동이나 영양제?
+P1 	: 저 루테인이랑 종합 비타민 먹어요. &name1&님은요?
+P0 	: 저는 종합비타민이랑 유산균이요!
+P1 	: 운동은요??
+P0 	: 운동은 지금은 안하는데 이제 하려고요 ㅋㅋㅋ
+P0 	: &name2&님은 하시는거 있나요
+P1 	: 저도 안해요 ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ 해야되는데 몸이 점점 굳어가요 ㅋㅋ
+P1 	: 이게 운동을 꾸준히 하면 몸이 좋아지는게 느껴지더라고요
+P0 	: 맞아요 정신도 좀 건강해지는 느낌.. 근데 시작이 너무 어려워요
+P1 	: 맞아요 ㅠ 전 7분짜리 운동조차 귀찮아서 안하니... ㅜ
+P0 	: 오히려 졸업하고 후련하셨겠네요
+P0 	: 어머 죄송해요 메세지가 잘못 갔어요 ㅠ
+P1 	: ㅋㅋㅋ 저도 가끔 그래요 ㅋㅋㅋㅋ
+P1 	: 딴방가서 헛소리하기? ㅋ
+P1 	: 생각난김에 7분 운동이라도 해야겠어요
+P0 	: 7분운동이면 어떤거예요? 유튭에 있나요?
+P1 	: 안드로이드시면 플레이스토어에 7분 운동 검색하시먄 연두색에 흰글씨로 7 써있는 앱이예요
+P0 	: 오오 저 안드인데 검색해봐야겠네유
+P0 	: 땀나나요? ㅋㅋ
+P1 	: 네~ 처음엔 엄청 헉헉거리며 하게되요

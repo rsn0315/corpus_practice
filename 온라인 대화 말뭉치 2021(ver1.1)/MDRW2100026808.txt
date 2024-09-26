@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026808
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 책 분야 있어요?
+P0 	: 예전에는 다양하게 봤었는데 요즘은 거의 장르소설 쪽 봐요
+P0 	: 종이책 본지도 꽤 됐네요ㅠ
+P1 	: 장르소설이면 추리물인가요?
+P0 	: 추리물도 있긴 한데 판타지나 로맨스 장르 등을 묶어서 장르소설이라고 하더라구요
+P1 	: 아하 그럼 &name1&님은 그중에서 제일 좋아하시는 장르는 무엇이세요?
+P0 	: 잘 쓴 글이면 딱히 가리진 않아요ㅋㅋ 근데 진짜 잘 쓴 작품 만나기가 쉽지 않더라구요
+P1 	: 아 맞아요 글은 읽어봐야 나랑 맞는지 안맞는지 느껴져서 더 잘쓴 작품 만나는게 어려운거 같아요
+P0 	: 좀 보다가 아니다 싶으면 빠른 결단이 필요하더라구요ㅋㅋㅠ
+P1 	: 맞습니다ㅋㅋㅋ 책보다가 빠른 손절을 배웠어요ㅋㅋㅋ
+P0 	: 어떤 장르의 책을 좋아하세요?
+P1 	: 저는 로맨스나 판타지를 주로 읽은거 같아요
+P0 	: 특별히 좋았던 작품 있으신가요?
+P1 	: 저는 좀 오래된거지만 오만과 편견 좋았어요!
+P1 	: 오만과 편견 읽어보셨어요?
+P0 	: 유명한 책인데 안 읽어봤네요ㅋㅋ 내용만 대강 알고.. 어떤 점에서 좋으셨어요?
+P1 	: 문체가 특이한데 그게 저랑 맞더라고요

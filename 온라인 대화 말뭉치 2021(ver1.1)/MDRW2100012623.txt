@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 애들은 수업 시작했지?
+P0 	: ㅇㅇ 시작했지~ 9시부터 시작이잖아 ㅎㅎ
+P1 	: 중간중간 집중해서 잘 하나 봐봐
+P0 	: 볼 필요도 없어~ 얼마나 열심히 떠드는지 밖으로 소리가 다 들려 ㅎㅎ
+P1 	: ㅎㅎ 그래?
+P0 	: ㅇㅇ 오늘 독서 퀴즈 맞추기 하는지 열심히 대답하네
+P1 	: 수업에 적극적이라서 참 예뻐
+P0 	: 이번주는 1학기 마감이라 학습은 거의 없더라고
+P1 	: 훌.. 그럴걸 힘들게 왜 줌을 한댜
+P0 	: 퀴즈 창체 체육 창체던데 시간표가 ㅋㅋㅋ
+P1 	: 하루종일 노는 시간표네 ㅎㅎ
+P0 	: 이번주 마무리하고 이제 다음주부터 정식으로 수업 들어가겠지
+P1 	: ㅎㅎ 학사 일정이 이상하게 꼬여버렸네
+P0 	: 코로나 때문에 급하게 방학했는데 결국은 똑같아
+P1 	: 상황이 이러니 어쩔 수 없지
+P0 	: 이 상황에도 열심히 하면 되지 뭐 ㅎㅎ

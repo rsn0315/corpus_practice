@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014601
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 고기 구워먹었어요
+P0 	: 어떤 고기요?
+P1 	: 소고기요!
+P0 	: 소고기를 좋아하시나봐요
+P1 	: 네 ㅎㅎ 고기 다 좋아해요
+P0 	: 커피 좋아하세요?
+P1 	: 아뇨 달달한 음료 좋아해요
+P0 	: 어떤 음료요?
+P1 	: 프라푸치노요!
+P0 	: 카페 다니세요?
+P1 	: 약속 았으면 가요
+P0 	: 맛집은요?
+P1 	: 맛집도 친구들이 가자고 하면 가는 편 ㅋㅋㅋㅋㅋ

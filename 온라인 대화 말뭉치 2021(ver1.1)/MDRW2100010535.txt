@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010535
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임 좋아하세요?
+P0 	: 네 게임 재밌죠ㅎㅎ ! 저는 롤 좋아해요
+P1 	: 롤 해보고싶은데 진입장벽이 높아서ㅠㅠ
+P1 	: 포지션 어디 주로하세요?
+P0 	: 전 주로 탑 해요!
+P0 	: &name2&은 롤 한번도 안해보신 건가요?
+P1 	: 몇번 봇전은 해봤는데 아이템 스킬 캐릭터들이 너무 많아서 일반전 못하겠어요
+P0 	: 아ㅋㅋㅋㅋㅋㅋ 저도 첨에 일반 갔다가 엄청 욕먹은 기억이 있네요
+P1 	: 캐릭터들이 너무 많아서 익숙하지않으면 대응을 못해서 힘들었어요
+P1 	: 하는애들말로는 나오는것만 나온다고 하지만요
+P0 	: 거의 나오는 애들이 많이 나오는 건 사실이지만... 사람마다 플레이 스타일이 다 다르니 어렵긴 하죠ㅎㅎㅎㅋㅋ
+P1 	: 칼바람 일반 랭겜 중에 뭐 주로하세요?
+P0 	: 일반 주로 돌려요 아직 숙련도가 없어서요
+P1 	: 롤한지 얼마나되셨어요?
+P0 	: 롤한지 한 6개월? 정도 된 거 같네요!
+P1 	: 한번할때 몇시간쯤하세요?
+P0 	: 음... 한시간 정도? 그래서 실력이 잘 안느나봐요 ㅡㅋㅋ

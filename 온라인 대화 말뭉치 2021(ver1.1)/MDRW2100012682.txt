@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012682
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네 안녕하세요
+P0 	: 치킨좋아하세요?
+P1 	: 치킨을 가장 많이 시켜먹는것같아요 네 정말 좋아해요
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: bbq bhc 프라닭 좋아하고요 요즘은 바른치킨을 가장 좋아해요
+P0 	: 바른치킨맛있나요?
+P1 	: 저는 양념치킨이 맛있더라구요 
+	  바른치킨 양념맛은 과일이 들어간 맛이나요
+P0 	: 저도 양념파입니다ㅋㅋㅋ
+P0 	: 처갓집 vs 페리카나?
+P1 	: 음 ㅋ 기억이잘안나요 ㅋ
+P1 	: 암튼 바른치킨양념 드셔보세요 ㅋ
+P0 	: 좋네요ㅋㅋㅋ
+P0 	: 피자는 좋아하세요?
+P1 	: 피자는 얇은 피자를 좋아해요
+P0 	: 씬피자요??
+P0 	: 중식 좋아하세요?

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이신가요?
+P1 	: 아니요 학생이신가요?
+P0 	: 졸업했어요!
+P1 	: 전공은 어떤걸 하셨나요?
+P0 	: 생명공학쪽이였어요
+P0 	: &name2&님은요?
+P1 	: 생명공학이라니 멋진데요?
+P1 	: 저는 조리쪽이요
+P1 	: 생명공학은 어떤걸 배우나요?
+P0 	: 생태 질환 병 치료법 같은걸 주로 배워요
+P0 	: dna을 주로 배웠구요
+P1 	: 신기하다
+P0 	: 조리쪽이시면 자격증따신다고 고생하셨겠다
+P1 	: 약간 인간의 삶이랑 연관되어있네요
+P1 	: 자격증 맞아요..
+P1 	: 힘들었어요ㅠㅠ
+P1 	: 분야도 여러가지여서.. 매번 배울 때 마다 헷갈리더라구요
+P0 	: 실습수업도 많이 하셨나요?
+P1 	: 아무래도요? 요리를 할 줄 알아야하니까 불앞에 많이 있었어요ㅎㅎ
+P0 	: 코시국이라 실습이 더욱 힘들어지진 않았나요?
+P1 	: 마스크 껴야 하는게 힘들긴 했어요ㅠㅠ

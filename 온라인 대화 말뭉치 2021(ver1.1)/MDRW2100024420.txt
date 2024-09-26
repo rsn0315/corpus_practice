@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100024420
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네!! 근데 국내여행만 많이 다녀봤어요ㅜ
+P1 	: 해외는 1번밖에 못갔는데 &name1&님은 여행 좋아하시나봐요!
+P0 	: 앞으로 기회 많으실거에요
+P0 	: 여행은 사람들 다 좋아하지 않을까요
+P1 	: ㅎㅎ 어디 가보셨어요?
+P1 	: 특별히 기억에 남는 곳
+P1 	: 추천해주세요!
+P0 	: 지금 부산 와있고
+P0 	: 작년에 신혼여행으로 제주도 다녀왔고
+P0 	: 제천 리솜포레스트 다녀왔고
+P1 	: 오 부산으로 여행가신거예요?
+P0 	: 아내가 몸이 안좋은상황이라
+P0 	: 집에서 멀리 못가고 부산 왔어요
+P0 	: 이번 여름에 휴가 다녀오셨어요?
+P1 	: ㅜㅠ 아내분 괜찮으시길 바래요!
+P1 	: 앗 여름엔 속초 다녀왔어요
+P1 	: 바다보니 좋더라구요ㅎㅎ
+P0 	: 속초 좋았겠다
+P0 	: 아바이순대가 속초 맞죠?
+P1 	: 넵!!
+P0 	: 드셔보셨어요!
+P1 	: 아바이 순대도 먹고 회도 많이 먹고ㅎㅎ
+P0 	: ?
+P1 	: 네!!
+P1 	: 전 항상 식도락 여행이예요ㅋㅋ
+P0 	: 저도 식도락여행 좋아해요!!

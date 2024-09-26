@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100034421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 ㅎㅎ
+P0 	: 아침드셨나요??
+P1 	: 아니요 &name1&님은요?
+P0 	: 전 간단하게 베이글 먹었어요~ㅎㅎ
+P1 	: 베이글 맛잇겟네요
+P1 	: 뭐 발라드셧어요?
+P0 	: 전 크림치즈랑 버터 반반씩 발라먹어요~
+P1 	: 맛잇겟다
+P1 	: 저도 급 배고파지네요
+P1 	: 점심은 뭐드실계획이세요?
+P0 	: 점심은 아직 정하진않았는데 피자 땡겨서 피자먹을것같아욮ㅋㅋㅋ
+P1 	: 무슨 피자 좋아하세요?
+P0 	: 전 파파존스 젤좋아해요~~
+P1 	: 파파존스 맛잇죠 ㅋㅋㅋ
+P1 	: 파파존스에서 주로 뭐 시키세요?
+P0 	: 저는 존스페이버릿이나 스치랜 두개 좋아해요~
+P1 	: 스치랜은 안먹어봣어요
+P1 	: 무슨 맛잇지 궁금해요
+P0 	: 치킨좋아하시면 추천이요! 토마토소스베이스가 아니긴한데 고소하고 맛있어요~
+P1 	: 오 치킨좋아하는데 여태 안먹어봣네요
+P1 	: 한번 먹어봐야겟어요 추천감사해요

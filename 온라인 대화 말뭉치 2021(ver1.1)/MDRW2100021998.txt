@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100021998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나도 너무 귀여울 거 같아
+P0 	: 한마리 정도?
+P1 	: 응 한마리가 좋은듯
+P0 	: 그게 딱 적당한 거 같아
+P1 	: 뽈뽈 돌아다니면 너무 귀여울듯
+P0 	: 그니까
+P1 	: 쓰담쓰담해보고싶어
+P0 	: 나도 ㅎㅎ
+P1 	: 감촉이 너무 신기할 거 같아
+P0 	: 되게 이불같을 듯
+P1 	: 나는 그 털 느낌이 어떨지 너무 궁금해
+P0 	: ㅋㅋㅋ 비슷하지 않을까?
+P1 	: 이불에는 털이 없잖아
+P0 	: 털 있는 이불 같은거 있잖아
+P1 	: 아 털 담요 같은 거?
+P0 	: 응 맞아

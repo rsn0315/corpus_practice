@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저도 예전에는 가끔 프라푸치노나 과일에이드도 먹곤 했었는데, 요즘은 아아만 먹게 되는거같아요!
+P1 	: 그쵸 가끔 단 게 땡기면 프라푸치노나 과일 에이드 먹고 기본은 아아~
+P1 	: 아아 좋아요 uㅅu
+P0 	: 맞아요 기본은 아아죠!
+	  커피는 주로 카페가서 드시나요?
+P1 	: 네에 집에 액상 커피를 사놔도 잘 안 마시더라구요ㅋㅋㅋㅋㅋ
+P0 	: 앗 그러시군요ㅋㅋㅋ
+P0 	: 자주가는 카페가 따로 있으신가요?
+P1 	: 메가커피랑 스타벅스요~ &name1&님은요?
+P0 	: 저는 카페보다는 거의 집에서 주로 먹어요~
+P1 	: 와 ㅇㅁㅇ 커피 내리시는 거예요?
+P0 	: 네! 편하게 액상커피 사서 먹을때도 있고, 원두 갈아서 내려먹을때도 있어요
+P1 	: 와 막 기계 청소도 하고 그러지 않나요? 부지런하세요...
+P0 	: 그리 어렵지 않아요ㅋㅋㅋ
+	  카페에 있는 그런 에스프레소 만드는 기계는 아니라서요
+P1 	: 오... ㅇ0ㅇ 막 원두 취향껏 블렌딩해서 마실 수 있으니 좋을 것 같아요
+P0 	: 맞아요! 취향껏 마시는게 가능하죠
+	  하지만 저는 보통 원두 한 종류로 내려서 먹는 편이에요

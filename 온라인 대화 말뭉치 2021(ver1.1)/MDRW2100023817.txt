@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023817
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 재택하세요?
+P0 	: 저는 집에서 있는 걸 힘들어 하는 타입이라 재택근무를 못해요
+P0 	: 일을 하더라도 출퇴근 하는게 좋네요
+P0 	: 님은 재택 좋아하나요? 가능하다면 하고 싶나요?
+P1 	: 재택이 편하져
+P0 	: 그렇군요.. 전 일단 나가야해서요
+P1 	: 출근요?
+P0 	: 일을 하게 됨다면 출퇴근 되는 일 하고 싶어요
+P0 	: 재택말구요
+P0 	: 집에 있으면 갑갑해요
+P1 	: 전 출근이 싫어서 집이 좋아요
+P0 	: 저랑 반대시군요..
+P0 	: 집돌이신가봐요
+P1 	: 네 ㅎㅎ
+P0 	: 지금은 출근하는 일이죠?
+P1 	: 네
+P0 	: 그럼 그 자체가 좀 힘들겠네요
+P1 	: 상사도 싫거요

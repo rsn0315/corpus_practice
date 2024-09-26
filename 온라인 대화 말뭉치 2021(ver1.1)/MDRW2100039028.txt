@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100039028
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 가고싶은 국내여행지 있나요?
+P1 	: 제주도요!
+P0 	: 제주도 좋죠ㅎㅎ
+P1 	: 네 그리고 서울도 다시 놀러가고 싶네요
+P0 	: 서울도 좋고ㅎㅎ 전 경복궁 야간개장 가고싶어요ㅠ
+P1 	: 경복궁 저도 낮에만 가봐서 밤에 가보면 좋을꺼 같아요
+P1 	: 낮에도 한 번 더 가고싶은데 시원한 날로 가고싶어요
+P0 	: 저도요 전 가이드의 자세한 설명도 듣고 싶어요ㅎㅎ
+P1 	: 오 맞아요! 
+	  가이드 설명 들어도 좋을거 같아요 
+	  더 기억에도 오래 남을 것 같구여
+P0 	: 그쵸 근데 경복궁 제대로 둘러보려면 하루이상 걸릴거같긴 해요ㅋㅋ
+P1 	: 맞아요ㅋㅋ
+	  진짜 제대로 보려면 그래야하겠죠
+P0 	: 한복입고도 많이 가더라고요

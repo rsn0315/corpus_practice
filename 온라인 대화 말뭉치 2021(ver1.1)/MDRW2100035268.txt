@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100035268
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사 하셨나요~?
+P0 	: 네 방금 라면먹었어요
+P0 	: 만사귀찮네요 ㅋㅋ
+P1 	: ㅋㅋㅋ주말이라 더 그런거 같아요
+P1 	: 주말 점심은 거의 면이 국룰인거같아요
+P0 	: 맞아요 일요일은 짜파게티
+P1 	: 맞아요~  그거 진짜 잘지었어요ㅋㅋㅋ
+P0 	: ㅋㅋㅋ맞아요 저녁은 또 뭘 먹나 귀찮아요 ㅋㅋ
+P1 	: 으윽 맞아요ㅋㅋㅋ
+P1 	: 엄마의 고충은 이것이었나 싶어요
+P0 	: 맞아요 새삼 감사한 마음 ㅠㅠ
+P1 	: 이렇게 감사함도 알아가네요
+P1 	: 아 6시가 다가오네요
+P0 	: 그러네요 오늘 저녁은 제가 고민해서 해드려야겠어요
+P1 	: 오오 제 고민을 덜어주시다니 천사십니닷!
+P1 	: &name1&님저녁은 제가 고민해드려도 되나요?
+P0 	: 네네 메뉴 추천해주세요
+P0 	: 카레어떠세요!
+P0 	: 미역국!
+P0 	: 김치볶음밥
+P1 	: 카레! 저도 생각한거에요!
+P1 	: 돈까스!
+P1 	: 김치찌개!
+P0 	: 오 !! 저는 이미 소고기뭇국을 끓였어요
+P0 	: 뭐로 결정하셨어요
+P1 	: 아 늦었군욥ㅜ
+P1 	: 볶음밥이요!

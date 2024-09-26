@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010859
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 네 안녕하세요
+P1 	: 이스포츠 즐겨보시나요
+P0 	: 카트라이더 리그 봐요
+P1 	: 어느 팀 응원하세요?
+P1 	: 전 문호준 선수 응원했었는데
+P0 	: 저도요ㅋㅋ 지금은 감독으로 있는 팀 응원해요
+P1 	: 감독직으로 옮기고 나서는 안봤어요
+P1 	: 선수로 뛰는걸 좋아해서요
+P0 	: 전 다른 선수들도 응원했어서요
+P0 	: 요새 최영훈 선수도 잘하구요
+P1 	: 그 팀 요즘에도 상위권인가요
+P0 	: 리그 계속 뛰던 선수들이라 아무래도 그렇죠
+P1 	: 오랜만에 한번 봐야겠네요
+P0 	: 카트엔진도 바뀌어서 그 차이도 재밌더라구요
+P1 	: 엔진이 또 바뀌었나요ㄷㄷ
+P0 	: 네 V1엔진 출시됐어요
+P1 	: 성능이 많이 다른가요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100004055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 구매한 게 있나요?
+P0 	: 티셔츠 구매했어요
+P0 	: 반팔티를 샀었는데 배송이 오래걸려서 여름이 다 가버렸네요
+P0 	: 구매하신거 있으세요?
+P1 	: 아직 낮은 더워서 괜찮지 않아요? 하긴 금방 가을이네요
+P1 	: 저는 식염수랑 불소 치약 샀어요
+P0 	: 불소치약 어때요
+P1 	: 제가 요즘 충치가 자주 생기거든요
+P0 	: 아이고
+P1 	: 그래서 샀어요 어린이 불소 치약 ㅋㅋㅋ
+P0 	: 불소치약도 어린이용이 있어요?
+P0 	: 처음 알았어요
+P0 	: 불소 향은 어때요?
+P1 	: 네 그게 함량이 많대요
+P1 	: 효과 본 후기도 봤구요
+P0 	: 오 저도 한 번 써봐야겠어요
+P1 	: 사과향이랑 소다향 샀어요
+P0 	: 먼저 쓴 향이 어떤거에요?
+P1 	: 사과향요
+P1 	: 아주 미미하지만요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100011599
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 일하고 계신가요?
+P0 	: 아뇨... 백수에요.. 
+	  일하고 계시나여?
+P1 	: 네 전 회사다녀요ㅋㅋ
+P1 	: 졸업하고 아직 준비중이신건가요??
+P0 	: 일하다가 잡다한거하다가 어둠의 구렁텅이로..
+P0 	: 노동의욕이 안생겨 놀고있어요..
+P0 	: 어떤 직종이신가여?
+P1 	: ㅋㅋ저도 그랬어요
+P1 	: 저는 it쪽입니다
+P0 	: 후로그라마 이신가여?
+P1 	: 예ㅋㅋㅋ어쩌다보니 하고 있네요
+P0 	: 파이썬? 자바? 어떤쪽 작업하시나영?
+P1 	: ㅋㅋ너무 특수한 언어라...한국에서 거의 안 쓰는거요
+P1 	: 잡다한건 어떤거 하셨나요??
+P0 	: 전 반도체쪽 일하다가.. 
+	  이벤트쪽 일도하다가.. 
+	  유통쪽도 하다가.. ㅋㅋㅋㅋ
+P0 	: 그냥 일용잡부 ㅎㅎㅎ
+P1 	: 여러가지 많이 해보셨네요 이벤트쪽은 뭔가요??
+P0 	: 콘서트나 무슨축제 기획하는 회사가있고 
+	  그 밑에서 그걸 필드에서수행하는 회사로 장르가 나뉘는데..
+P0 	: 저는 현장에서 운영하는쪽에서 일햇어요
+P1 	: 오 재밌을거 같아요 콘서트도 보나요???
+P0 	: 백스테이지에서 연예인 많이 보죠.. 아나운서나..
+P0 	: 아이돌도 많이보고... ㅋㅋㅋㅋ
+P0 	: 근데 자괴감 들죠..ㅋㅋㅋ 다들화려한 사람들이라

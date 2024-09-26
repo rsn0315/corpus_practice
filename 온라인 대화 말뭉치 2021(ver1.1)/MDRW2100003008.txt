@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003008
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P0 	: 요즘 학교 동아리 운영중인거 같아?
+P1 	: 어 진짜?
+P1 	: 근데 여러명에서 못하지 않아?
+P0 	: 우리는 운영중인데
+P0 	: 비대면으로 만나
+P0 	: zoom 같은걸로
+P1 	: 아하 비대면으로 하는구나
+P1 	: 난 동아리가 운동부라서
+P1 	: 생각도 못했어
+P0 	: 연락은 해?
+P1 	: 안한지 좀 됐지
+P0 	: 하긴 운동 동아리면 그럴만 해
+P1 	: 코로나 때문에 새학기 시작해도
+P1 	: 잘 못볼것 같아서 아쉽네
+P0 	: 2학기에는 코로나 나아져서 만났으면 좋겠다
+P1 	: 그러게 제발 그랬으면ㅠㅠ
+P0 	: 우리학교 운동 동아리는 4인씩 모여서 등산하나보더라
+P1 	: 와 등산 대단하네
+P0 	: 나도 등산동아리라는 말 듣고 대단하다고 그랬어

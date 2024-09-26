@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100015964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 넵 안녕하세요
+P0 	: 동물 좋아하세요?
+P1 	: 넹 좋아해요 개랑 고양이요
+P0 	: 키우시나요
+P1 	: 아니요 키우진않아요
+P1 	: 키우고계신가요?
+P0 	: 아니용
+P1 	: 아하 저는 키우고싶어도 털 알레르기가 너무 심해서요
+P0 	: 동물키워보신적 한번도 없으신가요?
+P1 	: 어릴때 햄스터 키웠었어요 물고기랑
+P0 	: 저도 햄스터 키워봤어요
+P1 	: 해바라기씨 까먹던모습 넘귀여워서 아직도 생생해요

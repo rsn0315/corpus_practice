@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100018636
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 바나나 한개
+P1 	: 어제 부터 컨디션 별로라?
+P1 	: 별로중ㅎ
+P0 	: 맞나 ㅎㅎ 나는 씨제이 햇반에서 준 솥밥 먹었어
+P1 	: 어떤 솥밥?
+P0 	: 버섯영양밥이랑 뿌리채소밥
+P0 	: 엄마랑 나눠먹음
+P1 	: 오 엄마는 반응 어떠셔?
+P0 	: 그냥 괜찮다고 하시더라 햇반보다 괜찮은데  뿌리채소밥은 좀 밥이 날라다님
+P0 	: 수분이 부족한 느낌
+P1 	: 뿌리채소가 수분 흡수했나보다
+P0 	: 아그런가보다 그럼 물을 더 해서 출시해야될텐데 왜그랬을까
+P1 	: 캐치 못했나보다
+P1 	: Voc해줌 좋겠다
+P0 	: voc가 뭐야?
+P1 	: 고객센터ㅎ
+P1 	: 알려줌 좋을거같아서
+P0 	: 아니지않을까? 해서 밥 많이 먹어봤을거 같은데
+P0 	: 암튼 그래도 버섯밥은 찰밥이라 괜찮더라
+P1 	: 이벤트해서 주는거에 신제품 출시했다 알리는 것도 있지만 초기반응 보려고하는것도 있을거 같아서ㅎ
+P0 	: 그런것도 있겠네 ㅎㅎ 암튼 버섯밥은 괜찮았음
+P0 	: 근데 안에 토핑은 뿌리채소가 내 취향이고
+P1 	: 오 담엔 뿌리채소 돌리기 전에 물 추가해보면 좋겠다
+	  밥알문제인지 수분문제인지ㅎ
+P0 	: 오 그러네 ㅋㅋ 담에 사먹을 기회가 있으면 해봐야지
+P1 	: 솥밥 궁금하당ㅎ
+P1 	: 남은 솥밥 있어?
+P0 	: ㅇㅇ아직 솥밥 한개 남음

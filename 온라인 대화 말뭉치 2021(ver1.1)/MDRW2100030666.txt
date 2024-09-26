@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030666
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 카페에 가면 거의 아이스 아메리카노를 먹어요
+P1 	: 저희 집 근처에
+P0 	: 어느 곳에 가세요
+P1 	: 하삼동 커피라는 곳이 있는데 가격이 싸고 양도 많고 맛있어요
+P0 	: 하삼동 커피는 자리가 좁잖아요
+P1 	: 051 커피라는 곳도 괜찮아요
+P1 	: 그래도 앉을 자리는 있어요
+P0 	: Take 아웃만  하시나쇼
+P1 	: 하삼동 가공 오일 커피 생기기 전에는 플루 800 자주 갔었죠
+P0 	: 영어도 알아듣네요 음성인식
+P1 	: 텐센트라는 곳도 있는데 원두가 아주 좋아서 카페인 함량이 높답니다
+P1 	: 그러게 말이에요
+P1 	: 제 발음이 좋은가 봐요
+P0 	: 하삼동은 요새 체인점이 많네요
+P1 	: 부민동에 가면 커피 맛있게 타는 곳이 있는데
+P1 	: 저렴하고 맛이 있다 보니 체인점이 많이 늘었나 봐요
+P0 	: 토성동 말이지요
+P1 	: 웨슬리라는 곳이 있는데 고디바커피를 넣어서 만들어 주기 때문에 매우 맛이 좋습니다

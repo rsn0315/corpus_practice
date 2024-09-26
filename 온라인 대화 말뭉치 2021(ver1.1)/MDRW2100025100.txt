@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 네 저 강아지랑 뱀 키우고 있어요
+P1 	: &name1&은요?
+P0 	: 뱀이요?
+P1 	: 네 애완뱀이요
+P1 	: 작고 귀여워요
+P0 	: 겁나지 않아요?
+P1 	: 아니요 ? 독도 없고 진짜 작고 예뻐요
+P1 	: 눈이 정말 초롱초롱해요
+P0 	: 그래도 뱀이라 전 겁나요
+P1 	: 그럴수있죠 !!
+P1 	: &name1&도 동물 키우시나요 ?
+P0 	: 저는 아직
+P1 	: 오 그럼 키워보고 싶은 동물이 있으신가요 ?
+P0 	: 강아지요
+P1 	: 어떤 종이요 ?
+P0 	: 종은 잘 몰라서
+P0 	: 작거 귀여운거요

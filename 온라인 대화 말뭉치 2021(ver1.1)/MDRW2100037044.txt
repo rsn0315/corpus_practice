@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037044
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 해외여행 나가본 지 오래 네
+P1 	: 그러게 코로나 만 아니었어도 갈 텐데 그렇지
+P0 	: 코로나가 좀 없어지면 어디가고 싶니
+P1 	: 나는 우선 홍콩에 있는 디즈니랜드를 가고 싶어
+P0 	: 중국에도 디즈니랜드가 있대
+P1 	: 규모가 커서 좋아 보이더라
+P0 	: 디즈니에서 뭘 하고 싶니
+P1 	: 토이 스토리어트랙션을 살거야
+P1 	: 탈 거야 탈
+P0 	: 놀이기구 타는 거 진짜 재밌겠다
+P1 	: 그리고 팝콘도 사먹을 거야
+P0 	: 캐릭터 팝콘 통 말하는구나
+P1 	: 응 맞아 토이 스토리 캐릭터 팝콘 통도 있거든

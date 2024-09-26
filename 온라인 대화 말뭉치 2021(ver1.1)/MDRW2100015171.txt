@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 사신 물건 있으세요?
+P1 	: 저 런닝화샀어요 운동하려구요 ㅎㅎ
+P0 	: 오오 어디꺼 사셨는지 여쭤봐도 될까요?
+P1 	: 저 그냥 나이키샀어요ㅎㅎㅎ둘러보다가 사신거 있으세요?
+P0 	: 아 아니요 런닝화는 잘 몰라서 여쭤본거예요 ㅋㅋㅋㅋ
+P1 	: 아 네ㅎㅎ 저도 잘몰라서 찾다가 그냥 샀어요ㅠㅠㅋㅋㅋ
+P0 	: 런닝화 있으면 좋겠다고 생각하던 참이었거든요 ㅋㅋㅋㅋ
+P1 	: 사면 뛰겠지 싶어서ㅋㅋㅋ장만했어요
+P0 	: 원래 운동은 장비빨이라잖아요 ㅋㅋㅋㅋㅋ
+P0 	: 장비가 있으면 의욕이 샘솟죠 ㅋㅋㅋㅋㅋㅋ
+P1 	: 네 맞아요ㅋㅋ레깅스도 사구 바막도 사서 이제 뛰기만 하면 되는데ㅎㅎ
+P0 	: 날씨도 슬슬 선선해져서 딱 뛰기 좋을것같아요
+P1 	: 네 최근에 구매한거 있으세요?
+P0 	: 저는 최근에 프로틴바 ㅋㅋㅋㅋㅋㅋ
+P1 	: 오 운동하시는구나ㅎㅎ

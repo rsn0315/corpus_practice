@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100042049
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이제 먹을려구용!
+P1 	: 하셧어요?
+P0 	: 네 저는 좀전에 먹었어요!
+P1 	: 어떤메뉴
+P1 	: 드셧나요
+P0 	: 저는 마라탕이랑 꿔바로우 먹었어요!
+P0 	: 뭐드시려구요?
+P1 	: 우아 마라탕!!
+P1 	: 저는 간단하게 볶음밥 먹을려구요
+P1 	: 마라탕 자주 드세여?
+P0 	: 오 볶음밥도 맛있겠네요
+P0 	: 자주는 아니고 가끔  먹어요
+P0 	: 로제떡볶이  드셔보셨나요?
+P1 	: 네네!!! 너무 좋아해요!!
+P1 	: 로제는 다 맛있드라구요
+P0 	: 마자요 
+	  신전꺼 드셔보셨나요?
+P1 	: 신전은 아니고 배떡...? 먹어본거 같아요!
+P1 	: 매운거 잘드세요?
+P0 	: 어! 저도 배떡만 먹어봤는데
+P0 	: 신전도 맛있다그러더라구요
+P0 	: 매운거 잘먹진 못해요ㅠ
+P1 	: 오오 로제가 유행인가바요 ㅋㅋ
+P0 	: 마자요 떡볶이 체인점은 거의 로제 있는거같더라구요
+P1 	: 로제 맞아요 !!

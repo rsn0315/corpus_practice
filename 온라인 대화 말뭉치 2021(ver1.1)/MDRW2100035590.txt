@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동아리활동 해보셨나요?
+P1 	: 네 저는 대학다닐때 전체동아리는 아니고 과 안에 있는 연극부 했었어요
+P0 	: 아 저는 클래식기타요
+P1 	: 오 지금도 기억하시나요?
+P0 	: 아니여 다잊어버렸네요ㅎ
+P1 	: ㅎㅎ 학교에서 그럼 같이 합주? 하고 그러나요
+P0 	: 네 공연도했는데
+P0 	: 이젠 못할듯요ㅎ
+P1 	: 와 공연까지 ㅋㅋㅋ 그럼 로망스 막 이런 곡도 치셨나요 ㅎㅎ
+P0 	: 앗 로망스로 연주했어요ㅎ
+P1 	: 오 역시 ㅋㅋㅋ 뭔가 클래식기타 하면 떠오르는 곡이었는데
+P0 	: 그게 대표곡ㅎㅎ
+P1 	: 근데 난이도가 좀 있는 편이죠?
+P0 	: 네 클래식기타 자체가 어렵더라구요

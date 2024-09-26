@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012617
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교가 비대면이다 보니까 성적은 잘 나오는 편인데
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 여행 좋아하세요?
+P1 	: 아니요 &name1&님은요?
+P0 	: 저는 좋아하는 편이에요
+P0 	: 지금은 코로나라 잘 못가지만요
+P1 	: 못가서 답답하시겠어요
+P0 	: 저도 그럴줄알았는데
+P0 	: 생각보다 여행때문에 답답하진않더라구요
+P1 	: 좋아하는 여행지가 어디인가요?
+P0 	: 전 제주도요
+P0 	: 바다 좋아해서 그런지 섬이 좋더라구요
+P1 	: 제주도 좋죠
+P0 	: 네 특히 제주도는 봄이 좋더라구요

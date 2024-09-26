@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100023640
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우고 계세요?
+P0 	: 아뇨 전 못 키워봤어요ㅜ
+P0 	: &name2&은요?
+P1 	: 저는 강아지랑
+	  햄스터 키워봤어요:)
+P0 	: 오 강아지 어떤 종이요?
+P0 	: 전 햄스터 키워보고싶었는데 아직도 못키웠어요ㅋㅋㅠ
+P1 	: 믹스견이랑 미니핀이요:)
+P1 	: 햄스터는
+	  너무 충격적이었어서
+	  다신 키우고싶지 않아요ㅜㅜ
+P0 	: 헐 왜요??ㅠㅠ
+P0 	: 뭔일이 있었나요?
+P1 	: 하루는 아침에 일어나니
+	  햄스터 한 마리 한쪽 귀가
+	  사라져 있었어요...
+P0 	: 헐...혹시 다른 애가 뜯어먹은거에요??
+P0 	: 충격....
+P1 	: 그때는 긴가민가 했었는데요...
+P1 	: 몇일뒤 아침에는
+	  그 햄스터 목덜미가
+	  사라져 있었어요ㅠㅠ
+P0 	: 아악 ㅠㅠㅜㅜㅜ잡아먹은것도 아니고
+P0 	: 목덜미만ㅜㅠ
+P0 	: 어우 직접 그걸 봤으니
+P1 	: 그렇게 한 마리가 가고나니
+	  남은 한 마리도 키울수가 없겠더라구요ㅠ
+P0 	: 진짜 충격 받으실만도 하네요ㅠㅠ
+P0 	: 그죠그죠ㅜㅜ
+P0 	: 두마리만 있던거에요??
+P1 	: 네ㅠ 두마리 키웠었던건데
+	  남은 한마리는 다른분께
+	  보내드렸어요ㅜ

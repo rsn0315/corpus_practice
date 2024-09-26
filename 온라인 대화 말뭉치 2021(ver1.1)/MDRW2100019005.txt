@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019005
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 드라마 보시는거 있으세요?
+P0 	: 아 전 요새 한국드라마는 졸업하고 중국드라마 보고있어요 ~ㅋㅋ
+P1 	: 대만드라마도 많이들 보던데 보신적있으세요?
+P0 	: 오 혹시 상견니 말씀하려고하신건가요?! 당근 봤어요~
+P0 	: 너무재밌더라구요
+P1 	: 아직 보진 않았는데 많이들 보더라구요 ㅋㅋ 일본드라마도 보세요?
+P0 	: 네~ 국적안가리고 두루두루 다봐요 ㅋㅋㅋㅋ
+P1 	: 최근에 그거 봤어요 의붓엄마와 딸의 로맨스? 제목이 길었어요 ㅋㅋㅋ
+P0 	: 음 아쉽게도 그건 못본거같네요 ㅋㅋ ㅠㅠ
+P0 	: 최근본 일본드라마는 카노키레라고 그녀는예뻣다 일본판드라마 봤어요!
+P1 	: 그거 완결났나요?
+P0 	: 아뇨 ㅋㅋ 지금 일본에서 방영중이에요~ㅋㅋㅋ 10화중에 7화까지했어요!
+P1 	: 왓챠에 떠있는거 봤어요! 재밌나요?
+P0 	: 아하! 전 재밌게보고있어요 ㅋㅋ 근데 남주연기는 조금 흠 이긴 해요 ㅋㅋ
+P1 	: 일드 마더 보셨어요?
+P0 	: 아니요 ㅋㅋ 그건못봤어요, 재밌나요?
+P1 	: 한드 마더 보고 너무 재밌어서 일드까지 봤어요 ㅋㅋㅋ 전 좋더라구요
+P0 	: 아 정말요?? 검색해봐야겠어요!

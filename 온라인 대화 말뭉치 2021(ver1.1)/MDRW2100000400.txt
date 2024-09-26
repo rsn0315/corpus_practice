@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000400
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^
+P0 	: 종교는 있으세요?
+P1 	: 저는 무교지만 부모님이 불교라 절에 한번씩 다녀요
+P0 	: 대부분 부모님들은 불교네요
+P0 	: 저희도 그래요
+P1 	: 예전 부모님 세대들은 거의 그렇죠~
+P0 	: 저도 종교는 없지만 어렸을 때 친구따라 교회갔죠 ㅎ
+P1 	: 맞아요 저도 그때 처음 경험했어요
+	  달란트? 그런거 모아서 선물도 바꾸고요
+P0 	: 맞아요 그거 모으려고 갔죠
+P1 	: 아이들끼리 일요일에 놀이 공원같은 곳도 데려가 주고 그랬던 기억이 나네요
+P0 	: 맞아요 연령별로 선생님 있었던것 같아요
+P1 	: 요즘은 코로나때문에 그런 것도 없겠죠?
+P0 	: 네 이제는 모이지도 않을 것 같에여
+P1 	: 모이지 말아야되는데 종교발 코로나 집단감염이 한번씩 있다보니 조금 눈살찌푸려지기도 하네요
+P0 	: 네 무서워요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중식 좋아하세요?
+P1 	: 네 &name1&님은요?
+P0 	: 저도요ㅋㅋㅋ
+P0 	: 짬뽕vs짜장?
+P1 	: 저는 짬뽕이요 &name1&님은요?
+P0 	: 저랑 같네요ㅋㅋㅋㄱ
+P0 	: 전 국물을 포기하지못한답니다
+P1 	: 맞아요 전 어릴 땐 짜장이 좋았는데 커서는 국물있고 매콤한 짬뽕이 좋아지더라고요
+P0 	: ㅋㅋㅋㅋ 저랑같네요
+P0 	: 루트도요
+P1 	: 아무래도 어렸을 땐 짜장의 단맛을 좋아했던 것 같아요
+P0 	: 저도 크고나니
+P0 	: 짜장도 그냥은 안먹고
+P0 	: 간짜장만 먹어요ㅋㅋㅋ
+P1 	: 간짜장은 더 자극적인가요?
+P0 	: 제가알기리ㅡ
+P0 	: 알기로
+P0 	: 간짜장은 그자리서 주문들어오면 바로볶는다더라고요
+P1 	: 아 그렇군요 그럼 더 맛있겠네요
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 느낌상 좀 다르더라고요

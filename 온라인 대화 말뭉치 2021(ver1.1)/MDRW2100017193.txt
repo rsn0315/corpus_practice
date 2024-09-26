@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017193
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요?
+P1 	: 네 업무중이에요
+P1 	: 퇴근시간인데 퇴근중이신가요?
+P0 	: 아직요
+P1 	: 야근이신가봐요
+P1 	: 저는 퇴근중인데 비가 오네요
+P0 	: 일찍 가시네여
+P1 	: 요즘은 다행히 바쁜게 없어서ㅋㅋ
+P0 	: 좋네요
+P1 	: 늦게까지 근무하시니깐 피곤하시겠어요
+P0 	: 적응됐죠
+P1 	: 일도 좋지만 식사는 꼭 챙기세요
+P0 	: 그렇져
+P1 	: 이제 퇴근하셨나봐요
+P1 	: 푹 잘쉬세요
+P0 	: 네

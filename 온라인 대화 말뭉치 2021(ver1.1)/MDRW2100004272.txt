@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004272
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님^^
+P1 	: 안녕하세요 &name1&님
+P0 	: 혹시 게임 좋아하세요?
+P1 	: 네^^ 게임 많이 좋아해서 자주 해요
+P1 	: &name1&님도 게임 좋아하세요??
+P0 	: 저는 좋아하는 게임이 딱히 없어서
+P0 	: 인기게임 추천해주세요
+P1 	: 26일날 블레인드앤소울 출시되구요
+P1 	: 프렌즈 팝도 재미있어요
+P0 	: 정말 게임  좋아하시나보다
+P0 	: 출시일까지 아시다니
+P1 	: 전 요즘 숨겨둔 유산 게임 하는데 너무너무 재미있어요
+P0 	: 무슨 내용인가요?
+P1 	: 숨은 그림 찾기는 아시죠??
+P0 	: 네
+P1 	: 슘은 그림 찾으면 별을 줘서 가구배치 퍼즐을 맞추는 게임이에요
+P0 	: 어렵나요?

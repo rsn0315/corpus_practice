@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007505
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  3
+contact_frequency  :  월 1회 미만
+
+P1 	: 나도 코로나때문에 밖에 못나가니까 더 그런것같아
+P0 	: 너는 어디 가고 싶어? 나는 체코 프라하!
+P1 	: 나는 프랑스 파리에 가고싶어!
+P1 	: 프라하에는 뭐가 있아?
+P0 	: 프라하 성도 있고 대성당도 있고 광장도 있고... 엄청 많아!
+P1 	: 우와 신기하다! 나도 프라하에 가보고싶어
+P0 	: 그리고 사실 해외여행 가서 해외 요리 먹고싶어
+P1 	: 체코는 어떤 음식이 유명해?
+P0 	: 꼴레뇨가 제일 유명할걸? 관광 가면 하나쯤은 먹고 올 거야
+P1 	: 처음 들어보는 음식이야
+P1 	: 맛이 궁금하네
+P0 	: 돼지 발목 부위로 만드는 요리래 족발이랑 비슷한 거 같아
+P1 	: 나 족발 좋아하는데 프라하에 가면 꼭 먹어야겠다!
+P1 	: 알려줘서 고마워
+P0 	: 뭘ㅋㅋ 프랑스 파리는 뭐가 유명해?
+P1 	: 파리하면 유명한게 있지
+P1 	: 에펠탑!
+P1 	: 에펠탑을 눈으로 보고싶어
+P0 	: 오 에펠탑! 멋있네
+	  맞다 이번에 파리 올림픽 준비한다고 해서 에펠탑에 금칠 한다더라ㅋㅋ
+P1 	: 정말? 에펠탑이 반짝반짝해지겠네

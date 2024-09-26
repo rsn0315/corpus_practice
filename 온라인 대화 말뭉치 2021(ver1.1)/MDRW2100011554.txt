@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011554
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하시는 일 있으세요?
+P1 	: 현재 대학생이에요ㅠ 알바도 안하고 있어요
+P0 	: 오 대학생!!
+P0 	: 좋겠다~~~  저는 이번에 취업했어요 ㅋㅋㅋㅋ
+P1 	: 취업하셨다니 축하드려요!!
+P1 	: 취업하실 때 힘드신건 없었나요?
+P0 	: 음.... 왜 떨어지는 알 수가 없어서 힘들었어요
+P0 	: 보통 메일로 보내는데 읽어도 연락이 없거나 떨어졌다고 메일이 와도 무슨 이유로 떨어졌는지 모르거든요
+P1 	: 그런걸 알려주면 피드백이 편할텐데 말이죠ㅠ
+P1 	: 맘고생 많이 하셨겠어요
+P0 	: ㅋㅋㅋㅋㅋ 그려쳐 ㅋㅋㅋ
+P0 	: 어떤 공부 하세요?
+P1 	: 저는 디자인 공부하고 있어요
+P0 	: 우와!!!!
+P0 	: 저도 디자인 계열이에요!!
+P0 	: 무슨 디자인이에요?
+P1 	: 미디어디자인 전공하고 있어요
+P0 	: 오 영상쪽이시구나~~
+P1 	: 네ㅎㅎ 영상도 하고 vr 관련해서도 하고 있어요
+P0 	: 오 학과에서 공부하는거에요?
+P1 	: 네 학과 자체 커리큘럼에 있어요
+P0 	: ㅎㅎㅎ  사실 저두 영상과에요

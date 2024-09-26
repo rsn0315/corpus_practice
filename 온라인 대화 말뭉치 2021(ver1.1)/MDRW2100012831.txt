@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100012831
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 중식 좋아하세요?
+P1 	: 네 특히 꿔바로우 좋아해요!
+P0 	: ㅋㅋㅋ좋네요
+P0 	: 라면 좋아하세요?
+P1 	: 네 라면도 엄청 좋아하죠!
+P0 	: 진라면vs신라면?
+P1 	: 전 진라면!
+P1 	: 매운맛이죠 역시
+P0 	: 그럼 육개장사발면vs 김치사발면?
+P1 	: 육개장 엄청 좋아해요!
+P0 	: ㅋㅋㅋ저도요
+	  라면에 겨란 넣vs말?
+P1 	: 저는 넣어서!
+P1 	: 특히 반숙으로 ㅎㅎ
+P0 	: ㅋㅋㅋ 반숙좋죠
+P0 	: 너구리vs오동통면은요?
+P1 	: 너구리죠!
+P0 	: 커피는 좋아하세요?
+	  아메리카노vs푸라푸치노?
+P1 	: 푸라푸치노요!
+P1 	: 단걸 좋아해서 ㅎㅎ
+P0 	: ㅋㅋㅋ저도요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043258
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 남편분은
+	  집안일 많이 도우시나요?
+P0 	: 음..외벌이니까 그래도 버리는건 도와줘요
+P1 	: 음쓰랑 분리수거요?
+P0 	: 네 ㅋㅋㅋ 버리는것들.ㅋ
+P1 	: 나머지는 다 &name1&님이 하시나요? ㅠ
+P0 	: 전업이니 ㅠㅠ 아 대청소할때는 같이해요 주1회 다들고 밀고 닦을때
+P1 	: 전업이어도....
+	  육아가 ㄷㅓ 힘들지 않나요ㅠ
+P0 	: ㅠㅠ 힘들져ㅠㅠ
+P0 	: 돈버는게 나아여
+P1 	: 맞아요ㅠ
+	  그러니 많이 도와달라하세요
+P1 	: 사실 이게 도와준다는
+	  표현도 좀 잘못된거 같아요
+P0 	: 맞아여ㅠ같이 해야져ㅠㅜ
+P1 	: 육퇴하신거죠? :)
+P0 	: 좋아여!!  지금부터 자유시간! 올레
+P1 	: ㅋㅋ오늘도 고생많으셨어요
+P1 	: 육퇴 후 이 시간이 젤 꿀이죠{emoji:♡}
+P0 	: 맞아용!! 놓칠수없는 시간이져 ㅠ 매일 그래서 늦게자서 아침에 피곤해여ㅠ

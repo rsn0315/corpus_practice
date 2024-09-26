@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100042101
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~ 저녁 드셨어요??
+P0 	: 네 집에 있는 반찬이랑 밥 먹었어요
+P0 	: &name2& 님은요?
+P1 	: 저는 치킨 먹었어요ㅎㅎ
+P0 	: 어떤 치킨 좋아하세요?
+P1 	: 저는 지코바나 푸라닭 굽네 좋아해요!
+P0 	: 저도 예전에 굽네에서 많이 먹었어요 고추바사삭 완전 맛있잖아요
+P1 	: 맞아요 고.추바사삭은 희대의 역작이죠ㅎㅎ
+P1 	: &name1&님은 어떤 치킨 좋아하세요?
+P0 	: 푸라닭에 블랙알리오도요!
+P0 	: 전 요즘에 치킨을 안 좋아해서 안 먹은지 오래 됐는데 옛날에 고추.바사삭을 제일 많이 먹었어요
+P1 	: 아항ㅋㅋㅋㅋ 저도 푸라닭 블랙알리오 좋아해요!
+P1 	: 치밥해먹으면 너무 맛있어요ㅜ
+P1 	: 블랙알리오랑 고.추마요 반반도 굿굿
+P0 	: 맞아요!
+P0 	: &name2& 님은 떡이나 빵 좋아하세요?
+P1 	: 네네 특히 빵 좋아해요!
+P0 	: 어떤 빵 제일 좋아하세요?
+P1 	: 흠... 너무 어려운데 요즘은 슈크림이나 크림치즈 들어간 빵 좋아해요!
+P0 	: 슈크림빵 저도 좋아해요
+P0 	: 바닐라빈 들어간 거 엄청 맛있어요
+P1 	: 맞아요! 바닐라빈이 들어가야 진짜 맛있어요
+P1 	: 별거아니어보이는데 확실히 차이가 있더라구요ㅋㅋ

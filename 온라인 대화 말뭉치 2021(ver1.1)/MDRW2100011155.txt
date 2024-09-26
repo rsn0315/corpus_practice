@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 좋아하시나요
+P1 	: 운동을 해야하는데요.
+	  패션에 돈도 좀 써야하고..ㅎ
+P0 	: 마자요돈이문제네요ㅠ
+P1 	: 돈 100으로는 머리 끝부터 발끝까지의 패션을 다 커버 못하겠더라구요.
+P0 	: 마자요 패션도 좋아하시나바요
+P1 	: 나이가 드니 추리해보일까봐 신경 좀 써보려구요.
+	  이쁜 악세사리가 엄청 많더라구요.
+P0 	: 오 악세사리 어떤거요?
+P1 	: 반지나 귀걸이요.
+	  손가락이 안이쁘기도 해서
+	  이쁜 반지 찬 손들이 눈에 들어오더라구요.
+P0 	: 저도 구찌반지가 하나있는데 이뻐요
+P1 	: 오.  진짜 이쁘고 있어 보이겠어요.
+	  저는 손을 많이 쓰는 직업이라
+	  반지가 찌그러지기도 하더라구요.
+P0 	: 헉 반지 너무 아깝겠어요
+P1 	: 해서 이번엔 좀 두껍게 하려는데
+	  반지는 가느다란게 더 이쁘지요.
+P0 	: 맞아요

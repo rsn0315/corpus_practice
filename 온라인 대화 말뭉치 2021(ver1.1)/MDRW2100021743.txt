@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021743
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 어디 기억나세요?
+P1 	: 홍콩이요 ㅋㅋ
+P0 	: 홍콩 구룡? 어쩌구요? ㅋㅋㅋ
+P0 	: 저도 출장으로 한번 가봣어요..
+P1 	: ㅋㅋ아녀 저는 그 쪽은 잘 안 다니고 센트럴 쪽으로 다녀서요
+P1 	: 해외 많이 다녀보셨어요?
+P0 	: 아뇨.. 중국 일본 정도요..
+P0 	: 홍콩 엄청 덥지 않앜ㅅ나요?
+P1 	: 아하...
+P1 	: 저 더위를 별로 안 타서 다닐만 했어요 ㅋㅋ
+P1 	: 그럼 다른나라는 가보신 적 없으세요?
+P0 	: 네.. 어디가보셧어요?
+P1 	: 전 뭐 동남아 몇군데 가보고...
+P1 	: 유럽 정도?? 많이는.안 다녔어요 ㅋㅋ
+P0 	: ㅋㅋ 엄청 다니셧네여..
+P0 	: 유럽은  여러나라 순회하셧나요?
+P1 	: 많이는 아니구요
+P1 	: 5개 갔다왔나? 그랬어요
+P0 	: 배낭 여행이엇어요?
+P1 	: ㅋㅋㅋ 아녀 저 힘든 여행 별로 안 좋아해서요
+P1 	: 걍 슬렁슬렁 다녀왔어요
+P0 	: 요즘은 배낭 거의 극소수일듯요..

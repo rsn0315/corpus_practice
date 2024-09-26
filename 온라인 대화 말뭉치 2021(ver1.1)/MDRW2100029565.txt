@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100029565
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 뭐드십니까
+P1 	: &name1&님
+P0 	: 몸이 멀쩡한데 정녕 회에 소주는 안될까용
+P1 	: 전 먹었었음
+P0 	: 이틀만 몸사릴까 했는데 점점 그럴 필요가 있나 싶음ㅎ
+P1 	: 그래서 와이프가 구박했는데
+P0 	: 아니 아팠지 않나요..?
+P1 	: 아빠한테 이르는데
+P1 	: 아빠는 당일에 먹어서
+P1 	: 침 묵
+P0 	: 앓고 일어나자 마신 겁니꽈ㅎㅎ
+P0 	: 아님 마시고 아픈 겁니꽈
+P1 	: 안 아팠는데요 저는!
+P0 	: 그럼 맞고 언제부터 마셨어요?!!
+P1 	: 다음날이오
+P0 	: 담날부터라고 해주세요ㅜ
+P0 	: 굿 굿!
+P0 	: 오늘 점심은 회에 소주입니다!
+P1 	: 점심이요?
+P0 	: 넹넹ㅎㅎ
+P1 	: 낮술쟁이시군요
+P0 	: 아프게 되면 &name2&님께 소송하쥬

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025987
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 뭐 관심있으세요?
+P0 	: 건강이요~
+P0 	: 운동하시나요?
+P1 	: 홈트합니다 ㅎㅎ
+P1 	: &name1&님은 운동하시나요?
+P0 	: 저도 홈트주로해요
+P0 	: 영상 보고하세요?
+P1 	: 네 유튜브 보고 해요 ㅎㅎ
+P0 	: 어떤거 보고하세요?
+P0 	: 저도 보고해요
+P1 	: 어.. 소미핏이랑 으뜸님 봐요
+P0 	: 어 저도 소미핏 보는데 으뜸님?도 봐바야 겠어요!
+P1 	: 으뜸님도 착실히 잘 알려주는거같아요 ㅎㅎ
+P1 	: 기본 하는 방법이라던지
+P0 	: 참고해볼게요!!
+P1 	: 네 ㅎㅎㅎ
+P1 	: &name1&님은 홈트 뭐 주로보세요?
+P1 	: 소미핏말구 ㅎㅎ
+P0 	: 마일리사일러스다리운동ㅎㅎ이랑 강하나님 스트레칭이요!!
+P1 	: 오우 다 첨들어요
+P1 	: 저도 참고할께요!

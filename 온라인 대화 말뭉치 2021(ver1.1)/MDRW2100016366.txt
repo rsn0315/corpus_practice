@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100016366
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임좋아하시나요?
+P0 	: 네 좋아해요
+P1 	: 어떤게임 좋아하시나요
+P0 	: 피파온라인이요!
+P1 	: 피파! 현질 많은게임으로 알고있는데 어때요?
+P0 	: 현질은 안하고있습니닿ㅎ
+P1 	: 현질안해도 할만한가요?
+P0 	: 넵 할만합니다
+P1 	: 어떤점이 재밌나요?
+P0 	: 축구 좋아하면 다 좋아하는것같아요
+P1 	: 직접 선수 컨트롤하는 게임인가요?
+P0 	: 네 맞습니다ㅎㅎ
+P1 	: 컨트롤 중요하겠네요

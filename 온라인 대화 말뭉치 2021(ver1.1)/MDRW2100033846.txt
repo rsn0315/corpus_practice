@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100033846
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세여
+P0 	: 라면 좋아하세요?
+P1 	: 네넹 ㅎㅎ 매운라면 좋아해요
+P0 	: 진라면vs신라면?
+P1 	: 흠 둘다 맛있는데 저는 신라면파용 ㅎㅎ
+P0 	: 오
+P0 	: 블랙신라면vs그냥신라면?
+P1 	: ㅋㅋㅋㅋ웃기네용
+P1 	: 블랙이용
+P0 	: 오 블랙을 더 좋아하시는군요
+P0 	: 짜파게티vs비빔면은요?
+P1 	: 비빔면 !
+P1 	: 헉 저녁에 비빔면 먹을까..
+P0 	: ㅋㅋㅋ 비빔면좋죠
+P0 	: 비빔면에
+	  만두vs고기?
+P1 	: 흠 비빔면은 만두요!
+P0 	: ㅋㅋㅋ
+P0 	: 떡볶이는 좋아하세요?
+P1 	: 네네 ㅎㅎ
+P1 	: 어제는 떡볶이먹었어요 안그래도 ㅋㅋ
+P0 	: 어떤브랜드 좋아하세요?
+P1 	: 저는 신전좋아해용

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017930
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 여행 좋아하시나요?
+P0 	: 네 여행 다니는거 되게 좋아해요!
+P1 	: 오 어디를 주로 다니셔요?ㅎㅎ
+P0 	: 저는 부산으로 여행 자주가요!
+P1 	: 오호 부산 좋죠!!
+P1 	: 저도 부산 좋아해요
+P0 	: 부산에 맛집도 많고 좋은것같아요
+P1 	: 네 바다도 있고
+P1 	: 도시도 있고
+P0 	: 맞아요 저도 그 느낌이 좋아서 자주 여행가는거 같아요
+P1 	: 맛집도 많고요
+P0 	: 부산에서 먹는 밀면은 너무 맛있는것 같아요
+P1 	: 부산밀면은 워낙 유명하죠
+P1 	: 저는 부산 갔을때 양곱창구이랑 생선까스 먹었던 기억이
+P0 	: 저는 돼지 국밥도 되게 맛있게 먹고왔어요 ㅋㅋ
+P1 	: 맞아요 돼지국밥도 맛있죠
+P1 	: 저는 한겨울에 부산 갔을때 먹었는데 계속 생각나더라고요

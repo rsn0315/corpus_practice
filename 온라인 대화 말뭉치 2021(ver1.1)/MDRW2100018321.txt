@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018321
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 여행가면 기념품 어떤거 사와?
+P1 	: 역시 과자 같은 먹거리가 좋은 것같아
+P0 	: 그 지역에서 유명한 먹거리?
+P1 	: 맞아 예를 들면 펑리수 같은
+P0 	: 나는 기념품 중에 마그넷이 좋더라
+P1 	: 마그넷은 오래가서 좋은 것 같아
+P0 	: 맞아 현관문이나 냉장고에 붙이기도 좋고
+P1 	: 자석은 나라이름 쓰여진게 이뻐
+P0 	: 맞아 여행 다녀온 기억이 확 날수 있게
+P1 	: 가지고 있는마그넷은 어느나라야?
+P0 	: 주로 유럽쪽 인거 같아
+P1 	: 북유럽쪽도 있어?
+P0 	: 응 북유럽쪽 마그넷도 가지고있어
+P1 	: 이쁠것같아

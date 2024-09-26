@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013236
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 스포츠 경기 많이 관람 하시나요?
+P0 	: 네 올림픽이나 월드컵 보는거 되게 좋아해요
+P1 	: 저도 저번 올림픽은 몇개 챙겨봤어요 뭐 제일 재밌게 보셨어요?
+P0 	: 저는 수영이나 육상이 재밌었어요
+P0 	: 혹시 보셨어요?
+P1 	: 오 저 올림픽 육상 높이뛰기는 봤어요! 우상혁 선수!
+P0 	: 혹시 동계올림픽 보시는것도 좋아하세요?
+P1 	: 동계는 스피드스케이팅 주로 봐요! &name1&은요?
+P0 	: 저는 피겨스케이팅이랑 봅슬레이 보는게 재밌더라구요 ㅎㅎ
+P1 	: 오ㅋㅋㅋ 봅슬레이 재밌겠네요! 지인 님은 이번 올림픽에서 재밌게 본 경기 있으신가요?
+P0 	: 양궁이나 수영 육상이랑 개폐막식 보는것도 재밌었어요
+P0 	: 혹시 개막식 보셨어요.
+P0 	: ?
+P1 	: 전 개막식 한대서 틀었다가 픽토그램 나오는 거 보고 껐어요...^^ㅋㅋㅋ
+P0 	: 아 저는 픽토그램 되게 재밌더라구요 ㅎㅎ

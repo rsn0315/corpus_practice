@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100010252
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2& 님!
+P0 	: 이번 올림픽 보셨나요?
+P1 	: 네! 처음에는 관심 없다가 점점 보게됐어요
+P1 	: 혹시 어떤 경기 보셨어요?
+P0 	: 배구랑 양궁은 거의 다 봤고 펜싱도 좀 봤어요!
+P0 	: &name2& 님은요?
+P1 	: 저도 비슷해요 ㅎㅎㅎ
+P1 	: 그리고 클라이밍도 봤어요!
+P0 	: 아 저도 클라이밍 하이라이트 영상은 챙겨봤어요!
+P0 	: 진짜 대단하더라고요
+P0 	: 특히 재밌게 본 경기 있으셨나요?
+P1 	: 저는 제일 재밌었던건 아무래도
+P1 	: 여자배구 한일전이었어요!
+P0 	: 아 너무 재밌었죠!
+P0 	: 생방송으로 보셨나요?
+P1 	: 네네 앞부분은 놓치고 뒷부분만 봤어요!
+P1 	: 너무 직접가서 보고싶더라구요ㅠㅠ
+P0 	: 맞아요 직관 꼭 가고 싶어요
+P0 	: 올림픽 전에도 배구 자주 챙겨 보셨나요?
+P1 	: 아뇨ㅠㅠ 사실 그전에는 별로 관심없었어요
+P1 	: 원래도 보셨나요??
+P0 	: 저도 이번에 올림픽 보고 빠졌어요
+P0 	: 스포츠 경기 직관 본 적 있으신가요?
+P1 	: 음 엄청 어릴때 kbo 경기를 보러간적 읶어요!
+P1 	: 재밌게 보신 직관 경기 있으세요?
+P0 	: 저는 한번도 직관해본 적이 없어서
+P0 	: 코로나 이후에 여자 배구 직관 가보려고요!

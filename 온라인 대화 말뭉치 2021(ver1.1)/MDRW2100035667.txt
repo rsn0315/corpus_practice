@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100035667
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 건강을 위해 챙겨드시는 게 있으신가요?
+P0 	: 저비타민먹어요!
+P0 	: 프로폴리스랑
+P0 	: &name2&님도 드시는거있나요?
+P1 	: 저도 비타민이랑 유산균 먹어요
+P0 	: 아맞아요 유산균도 챙겨야하는데ㅠ
+P1 	: 유산균은 매일 먹기 보다 격일로 먹어요ㅎㅎ
+P0 	: 백신맞으셨어요?!
+P1 	: 아직이요! 9월 말로 예약만 해뒀어오ㅠ
+P0 	: 헉저는 저번주인가 화이자 맞았어요
+P1 	: 1차 맞으셨나요?
+P0 	: 네!
+P0 	: 1차접종
+P0 	: 완!
+P1 	: 괜찮으셨나요??
+P0 	: 저는 근육통이 3?4일정도 갔어요
+P0 	: 타이레놀 꼭 구비해두세요
+P1 	: 그래야겠네요ㅠㅠ 

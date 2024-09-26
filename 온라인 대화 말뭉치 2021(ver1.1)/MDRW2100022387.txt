@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022387
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P1 	: 안녕하세요!
+P0 	: 요즘 하는 일은 잘 되나요?
+P1 	: 네 좀 되는거같아요!
+P0 	: 다행입니다
+P0 	: 힘들다는 사람들이 많아서 걱정이 되고 있거든요
+P0 	: 업무 스트레스는 견딜만 한가요?
+P1 	: 네 좀 견딜만한거같아요
+P1 	: 이정돈 견뎌야지 정도인거같아요
+P0 	: 그렇군요 어쩌면 요즘 같은 시기에 복인 것도 같네요 잘됐습니다
+P0 	: 저는 은퇴해서 집에 있어요
+P1 	: 아하.. 고생하셨습니다 그동안 ㅠㅠ
+P0 	: &name2&님은 일 열심히 하다가 은퇴하면 어떻게 지내고 싶나요?
+P1 	: 저는 모은 돈으로
+P1 	: 귀농한번 해보고싶네요
+P0 	: 귀농도 좋죠
+P1 	: 아니면 국내 전국일주 한번
+P1 	: 돌고싶네요
+P0 	: 저도 농사짓는 삶 꿈꿨는데 상황이 여의치 않네요
+P0 	: 여행이 제목표였는데 작년부터 코로나라서 못가고 있답니다
+P1 	: 아하 그렇군요
+P1 	: 안타깝네요..ㅠㅜ

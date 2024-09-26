@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007841
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 동생에 휴가 일정이 넘 늦게 정해지는구나
+P1 	: 그러게
+P1 	: 내일 휴가잖아
+P0 	: 넘 늧어서 이제 드디어 첫휴가 나오네
+P1 	: 그니까 .. ㅋㅋㅋ
+P0 	: 길게 나오니깐 좋으네
+P1 	: 뭐 먹고싶어 하려나?
+P0 	: 엄마가해준 닭 갈비 아닐까 ?
+P1 	: ㅋㅋㅋㅋㅋㅋ내일 닭갈비 먹어?우리
+P0 	: 그러게 &name3&이가 별로라고 할까 ?
+P1 	: 아니 좋아하겠지
+P0 	: 그냥 먹고싶은거 다른거 사주깔 ?
+P1 	: 그것도 괜찮긴 하다!
+P1 	: 치킨 같은 것도 좋구
+P0 	: 먹고싶은것도 많고 쉬고 싶겠저

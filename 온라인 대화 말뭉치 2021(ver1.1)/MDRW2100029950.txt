@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영화좋아하세요?
+P0 	: 넹 영화보는거 좋아해요
+P0 	: 최근에 보신영화는 뭐예요?
+P1 	: 모가디슈볼려구요
+P0 	: 아직도 상영하나요?
+P0 	: 모가디슈 재밌었어요
+P1 	: 다들 추천하더라구
+P0 	: 네 전 세번봤어요
+P1 	: ㅇ우와
+P0 	: 그냥 한번
+P0 	: 4d로한번
+P0 	: 아이맥스로한번
+P1 	: 대박
+P0 	: 근데 질리진 않더라구요
+P1 	: 그른가요
+P0 	: 넹 볼때마다 좀 달라요
+P0 	: 조인성은 볼 때마다 새로와요
+P1 	: 멋지다

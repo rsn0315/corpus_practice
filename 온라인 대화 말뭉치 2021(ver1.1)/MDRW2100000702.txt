@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100000702
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 강아지 키우세요?
+P0 	: 아뇨 저는 키우는게 자신없어서 이한몸 키우기도 벅차서요 ㅎ
+P0 	: 요즘 진짜 많이들 키우시더라구요
+	  반려동물키우세요?
+P1 	: 본인이 본인을 키우다니 
+	  자신을 참 아끼시나봐요
+P1 	: 저는 예전에 토끼 키우다 무지개다리로 떠나보내고 그 후론 안 키워요
+P0 	: 에고 마음이 안좋으셨겠어요
+P1 	: 네 한동안 많이 힘들었었죠
+P1 	: 펫로스 증후군이 심했어요
+P0 	: 친구도 강아지 교통사고로 보내고 너무 힘들어 하더라구요
+P1 	: 그렇죠
+	  교통사고라니...
+	  갑작스러워서 준비도 못했겠네요
+P1 	: 죄책감도 심할테고...
+P0 	: 네 산책나가다가 눈앞에서 그리됐다고 하더라구요
+P1 	: 산책시엔 꼭 리드줄을 해야하는데
+	  아무리 소형견이라도요..
+P1 	: 눈 앞에서 그랬다면
+	  트라우마도 상당하겠네요
+P0 	: 네 한동안 연락도 안되더니 그런일이 있었다고 이야기해주더라구요
+P1 	: 지금은 괜찮은거래요?
+P0 	: 네 괜찮아지고 연락왔더라구요
+	  지금은 다른 강아지 키워요 ㅎㅎ
+P1 	: 다행이네요
+P0 	: 고양이도 많이 키우더라구요
+	  그렇게 애교가 많은지 저는 고양이는 밤에 눈마주치면 무서울것같던데요

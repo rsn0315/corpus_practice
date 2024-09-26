@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010852
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 어디여행 다녀오셨나요?
+P1 	: 안녕하세요
+P1 	: 저는 코로나로 거의..출장다녀왔어요 문경에 ㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 출장가도 관광명소가면 좋지않으세요? 전 출장을 안가봐서^^;
+P1 	: ㅜㅜ 놀러다니고싶은데 일만하구 오네요 바람쐬서 좋아요
+P0 	: 그래도 휴가 안다녀오셨나요?
+P1 	: 네 저는 집에 딱붙어있었어요
+P1 	: 코로나라서 ㅎㅎ
+P0 	: 슬프네요ㅠㅠ
+P1 	: 애들 학교도 못가고 불쌍해서 방역잘지키려구노력하고있어요
+P0 	: 맞아요 한명한명 모두가 지켜나가야죠
+P0 	: 코로나 나아지면 여행지 가고싶은데 있나요?
+P1 	: 제주도 다시가보고싶네요
+P0 	: 저도 제주 안간지 몇년됐네요~~~ 아쉽
+P1 	: 제친구는 제주로 이사갔어요
+P1 	: 해외여행못가니까 ㅋㅋ
+P0 	: 헉 제일 부럽네요!!
+P1 	: 저두 부럽네요ㅜㅜ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 TV프로 뭐 보세요?
+P0 	: 전 요즘 예능만 보는 것 같아요 ㅎㅎ 유퀴즈, 1박2일, 식스센스2 등요! ㅎㅎ &name2&님은요?
+P1 	: 요즘 예능이 재미 없어서 ..
+	  나혼산도 예전만 못하고
+	  런닝맨도 그렇구..
+P1 	: Y랑 맨박은 꾸준히 보고 있어요
+P0 	: 맨박은 뭐에요??
+P1 	: 맨인블랙박스 인가 블랙박스 영상으로 차 사고 난거 보여주고 예방법 알려주는 프로에요
+P0 	: 아!! 한문철 변호사 나오는 프로인가요?
+P1 	: 네~ 토 일에 하는거에요
+P0 	: 한문철 변호사님 넘 귀여우시더라구요 ㅋㅋ
+P1 	: 유투브도 하는거 같더라구요.
+P0 	: 네! 그 어려운 분들도 많이 도와주시는 것 같더라구요! 대단하신분이에요!
+P1 	: 오 그래요? 그건 몰랐는데
+	  좋은 분이네요!
+P1 	: 오늘 김유정 나오는 드라마가 첫 방 이라고 해서 볼까 생각 중이에요.
+P0 	: 아 사극이죠???
+P1 	: 네 재밌을거  같아서요. 김유정도 이뻐서요.

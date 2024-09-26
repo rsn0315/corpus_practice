@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100000902
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하시는 커뮤니티 있으세요?
+P1 	: 아니요 음 페이스북이나 인스타도 커뮤니티에 속하나요? 그런거라면 있어요ㅎㅎ &name1&님은 있으신가요?
+P0 	: 네 디시인사이드라는 커뮤니티를 어릴적부터 했어요
+P1 	: 아 거기 갤러리가 되게많더라구요
+P1 	: 들어본거같아요
+P0 	: 네 거기서 첫 정모를 나갔습니다 초6때
+P0 	: 정모가보셨나요?
+P1 	: 정모?
+P1 	: 그게 뭔가요?
+P0 	: 정기모임이라고 인터넷사람이 실제로 만나는거에요
+P1 	: 아 첨 들어봐요
+P1 	: 정모의 장점이 있나요?
+P0 	: 네 익명들고 엄청난 수위의 말을 하는 사람을 실제로 볼 수 있습니다
+P1 	: 보통 어떤 주제로 모임을 가지시나요
+P0 	: 전 리듬게임 정기모임을 가졌습니다
+P0 	: 만나서 게임하고 피자를 먹었습니다
+P1 	: 리듬게임이라면 어떤게임이 있죠?
+P0 	: 예전에 디디알이라고 아시나요?
+P0 	: 펌프나
+P1 	: 아 어릴 때 해본거같아요
+P1 	: 되게 활동적이시네요

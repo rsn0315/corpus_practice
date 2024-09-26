@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100025986
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 10대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 제일 최근에 가본 여행지가 어디신가요?
+P1 	: 포천이요
+P0 	: 포천에는 뭐가 있나요???
+P1 	: 산정호수라고 큰 호수가 있고요, 계곡이랑 산이 있죠. 계곡에서 캠핑했어요
+P0 	: 캠핑 한번도 해본적이 없어서 부러워요!
+P1 	: 저도 캠핑이라기보다는 글램핑? 그런거였어요. 재밌어요
+P0 	: 오 글램핑 가보고 싶네요
+P1 	: 비그치면 가보셔요~
+P0 	: 해외여행 가고 싶은데 참 어렵네요ㅠㅠ
+P1 	: 저두요.. 곧 갈 수 있겠죠
+P0 	: 해외여행 어디 가보셨나요?
+P1 	: 미국 일본 베트남 필리핀... 이요
+P0 	: 오 여러군데 다녀오셨네요

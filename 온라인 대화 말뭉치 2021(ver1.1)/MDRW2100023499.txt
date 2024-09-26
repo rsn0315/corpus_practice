@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100023499
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 최근에 무슨 물건을 구입하시나요?
+P1 	: 최근에 온라인에서 아몬드 구매했네요 견과류 챙겨 먹으려고
+P1 	: 최근에 구입한 물건 있으세요?
+P0 	: 저는 생필품이요
+P0 	: 온라인에서 나는 아몬드는 어떤가요
+P1 	: 마트에서 산 것보다 상태 좋더라고요
+P1 	: 가격도 저렴하고
+P0 	: 아 인터넷으로 식품은 잘 안사봐서요
+P1 	: 네 요즘은 신선식품도 온라인 구매 괜찮더라고요
+P1 	: 배송도 빠르고 포장도 잘 되어서 옵니다
+P0 	: 그렇군요 신선식품도 주로 인터넷 쇼핑하시나봐요
+P1 	: 네 오프라인이랑 가격 차이가 많이 나서요
+P0 	: 그쵸 집에 배달되고 편하죠
+P0 	: 오프라인으로는 상품 구매를 안하시나봐요
+P1 	: 요즘 코로나 때문에 잘 안가게 되더라고요
+P0 	: 그쵸 코로나땜시 최대한 접촉안하는게 좋죠
+P0 	: 중고거래는 해보셨나요?

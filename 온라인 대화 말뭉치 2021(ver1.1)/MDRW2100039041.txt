@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100039041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커피를 아직 못 배워서
+	  커피 아닌 음료들을 즐겨 마셔요:)
+P1 	: 커피 좋아하시나요?
+P0 	: 그렇군요.. 전 좋아는 하는데 못마셔요
+P0 	: 카페인때문에 잠을 못자요
+P1 	: 아 그럼 비타500이나 
+	  박카스 같은것도 못 드시나여?
+P0 	: 네 카페인은 영향이 있어요
+P0 	: 아예 안먹는ㄹ건 아니고
+P0 	: 먹더라도 아침 일찍 조금만 마셔야해요
+P1 	: 아 그럼 오늘도
+	  모닝커피 하셨어요? ^^
+P0 	: 아뇨.. 매일 마시진 안고.. 어쩌다 마셔요
+P0 	: 차는 종종 마십니다
+P1 	: 어떤 차 드세요?
+P0 	: 저는 주로 곡차 마셔요
+P0 	: 보리차 둥글레차 같은거요
+P1 	: 오 저도 좋아해요:)
+P1 	: 벌써 또 점심시간이네요
+P0 	: 저는 점심 막 먹고 왔어요..
+P0 	: 드셧나요?
+P1 	: 저는 아직이요ㅜㅜ
+P1 	: 점심 뭐 드셨어요? :)
+P0 	: 돼지양념갈비 또 먹었어요.. 어제도 먹었는데
+P1 	: 오? 어제 드시고도 남았던거에요?
+P1 	: 아님 맛있어서 또 구입하셨어요?
+P0 	: 지인이 10키로를 보내줘서 몇날 며칠 먹을 거 같네요..ㅎㅎ
+P1 	: 10키로요? ㅋㅋㅋㅋㅋㅋ
+	  지인분 큰 손이시네요ㅋㅋ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연자주보시나요?
+P1 	: 공연은 코로나로 못가는거 같아요  ㅋ
+P1 	: 코로나전 푸에자부르타 보고 너무 재미났었는데
+P0 	: 뮤지컬 좋아하시나봐요ㅎㅎㅎ
+P1 	: 음 뮤지컬같은 영화좋아해요
+P1 	: 라라랜드 같이 ㅋㅋ
+P0 	: 라라랜드 너무 좋죠?ㅜㅜ
+P1 	: 내 ㅠㅠ 저 라라랜드 레미제라블 물랑루즈 위대한쇼맨 이런거 좋아해요
+P0 	: 저도요ㅜㅜ
+P0 	: 레미제라블은 정말ㅜㅜ  노래도 너무 좋아서ㅜㅜ
+P1 	: 맞아요 ㅠㅠ  영화관 조차도 안간지 오래된거 같아요
+P0 	: ㅜㅜ 그쵸
+	  코로나 끝나면 할일이 많겠어요ㅎㅎ
+P1 	: 맞아요 &name1&님은 코로나 끝나면 뭘 제일 먼저 하고싶으세요?
+P0 	: 전 콘서트보러가고 싶어요ㅜㅠ
+P0 	: 크로스오버곡들을 너무 좋아해서 공연보러가고 싶네요ㅠ
+P0 	: &name2&님은요?
+P1 	: 콘서트 ㅠㅠ 전 여행이요 ㅋㅋㅋ
+P1 	: 비행기를 타보고 싶어요 그 공항 설레임도 ㅠㅠ
+P0 	: ㅜㅜ 공항........ 전 기내식도 맛있더라구요ㅋㅋㅋ
+P1 	: 기내식 먹을만하죠 ㅠㅠ 여행 이즈 뭔들 ㅠㅠ
+P0 	: 그쵸ㅜㅠ
+P0 	: 여행이즈뭔들!

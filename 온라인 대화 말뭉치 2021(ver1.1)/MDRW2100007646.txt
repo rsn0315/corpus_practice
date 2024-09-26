@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007646
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 지금은 잘 안하는데 한때 향수에 빠져서 열심히 했었어요
+P1 	: 정가 다 주고 사기가 너무 비싸서요
+P0 	: 그런건 좋은거 같아요
+P1 	: 네
+P0 	: 저는 팔기만뇨
+P1 	: 중고나라에서요?
+P1 	: 당근에서?
+P0 	: 네 당근
+P1 	: 아하
+P1 	: 뭐 파셨어요
+P0 	: 공기청정기요
+P1 	: 아 그러셨구나
+P0 	: 차량용이라 작아요
+P1 	: 보통 구매는 뭘 자주 하세요?
+P0 	: 팔기만요

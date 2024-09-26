@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003843
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 뭐 드실건가요?
+P1 	: 간단하게 그냥 라면 먹으려구요ㅎㅎ 뭐드시나요?
+P0 	: 저는 다이어트 도시락 먹었어요!
+P0 	: 라면은 뭐 드셨어요?
+P1 	: 비와서 진짬뽕먹었어요ㅎㅎ
+P0 	: 진짬뽕 맛있죠 ㅎㅎ
+P0 	: 저는 볶음 진짬뽕 먹고 싶네요
+P1 	: 저도 그거 좋아하는데ㅠㅠ오늘은 국물을 먹고싶어서ㅎㅎ
+P0 	: 비오는 날에는 국물이 짱이죠
+P1 	: 먹다보니 그냥 짬뽕을 먹을걸 약간 아쉬워요ㅎㅎ
+P0 	: 두 개를 드시면 아쉬움이 사라지지 않을까요?
+P1 	: 이미 먹어서ㅋㅋ 밥이라도 말을까 고민중이네요ㅎㅎ
+P0 	: 완전 추천해요 ㅎㅎ 저는 다이어트 도시락이라 부럽네요ㅠㅠㅠ
+P0 	: 대리만족 되네요
+P1 	: 앗ㅋㅋ저도 다이어트 해야하는데 샐러드먹으면 너무 배고파서ㅠㅠ
+P0 	: 샐러드는저도 못먹어요 ㅋㅋ큐ㅠㅠㅠㅠ 너무 배고파서
+P0 	: 샌드위치는 괜찮은 것 같아요

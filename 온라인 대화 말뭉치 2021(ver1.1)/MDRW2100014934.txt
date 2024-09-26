@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100014934
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 뭐 드셨어요???
+P0 	: 저는 치킨 시키려다가 그냥... 집밥 먹었네요
+P1 	: 돈까스요 &name1&님은요
+P1 	: 건강식 하셨네요
+P0 	: 금요일에 시켜야겠어요 ㅎㅎ
+P0 	: 주말을 잘 보내기위한
+P1 	: ㅋㅋㅋㅋ 오 아껴두기 킵하기 시전
+P1 	: 집밥이 최곱니당 그래두
+P0 	: 귀찮음을 못 이겼나봐요 ㅋㅋㅋㅋ
+P0 	: 배달 음식은 시키면 그 일회용 용기들
+P0 	: 버리는게 너무 번거로워요...
+P1 	: 아 저도 배달 그래서 안시켜요 쓰레기 땜에
+P1 	: 밀키트도 좀래요
+P1 	: 그래요
+P0 	: 맞아요... 여름에는 특히 더워서 배달 몇번 시켰더니
+P0 	: 쓰레기 감당안되서 힘들었네요
+P1 	: ㅋㅋ 냄새나요 빨리안버리문ㅜ
+P0 	: 오늘 드디어 몇일전부터 계획한 배달 시키는 날이네요 ㅋㅋㅋㅋ
+P0 	: 뭐 먹을지 자꾸 바뀌네요
+P1 	: 오 머시키실꺼에요?
+P1 	: 계획이 궁금하네요
+P0 	: 피자 시켰네요 ㅜㅜ 근데 다음날 제대로 배탈 나서 .... 집에서 요양 했어요 어휴
+P1 	: 아놔 머시키셨나요 해산물피자?ㅜㅜㅜ
+P0 	: 아 고기 들어간거 시켰었는데 ㅜㅜ 그게 배탈이 났었나봐요
+P0 	: 아직 그래도 여름인지 음식 조심해서 먹어야했나봐요 ㅜㅜ
+P0 	: 간식으로 빵이랑 커피 마시고 있어요~
+P0 	: 이시간만 되면 배가 고프네요

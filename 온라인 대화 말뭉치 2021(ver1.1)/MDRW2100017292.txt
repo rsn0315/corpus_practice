@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017292
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 좋아하시나요
+P1 	: 근처에 있으면요
+P0 	: 어떤메뉴요?
+P1 	: 근처엔 국밥집이 많아요
+P0 	: 오 국밥 소주!
+P1 	: 좋져ㅋㅋ 해장하기도 좋구요
+P0 	: 전 돈까스좋아해요
+P1 	: 저두요ㅋㅋ 치즈 돈까스가 좋아요
+P0 	: 연돈 가보셨나용
+P1 	: 아뇨 가보고싶긴해요
+P0 	: 저도 엄청먹고싶어요
+P1 	: 아직도 찾아가는 사람 많은거 보면 진짜 맛있나봐요
+P0 	: 아직도 못먹어서난리래요ㅠ

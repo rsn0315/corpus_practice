@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100001721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 청소 하는 거 좋아하세요?
+P1 	: 청소좋아해요 깔끔해지는거 좋아해서
+P0 	: 청소 하는 팁 있나요?
+P0 	: 저는 청소하는 거 좋아하진 않는데 깨끗한거는 좋아서요
+P1 	: 그냥 매일 청소기 돌리는것만 잘해도 먼지 안쌓이더라구요 집이 작아서그런지
+P0 	: 먼지 때문에 매일 청소를 해줘야하는데
+P0 	: 자꾸 미루게 되더라구요
+P0 	: 먼지가 너무 빨리 쌓여요,,,
+P1 	: 앗 그럼 로봇청소기 이런걸 써보심도 좋을거같아요
+P0 	: 로봇청소기도 괜찮은 거 같아요
+P0 	: 혹시 빨래도 좋아하세요?
+P1 	: 아뇨 빨래는 귀찮아서 모아놓고 주말만 세탁기 돌리는편이에요
+P0 	: 저두요  빨래 돌리는건 좋은데
+P0 	: 널고 개는게 너무 귀찮아요
+P1 	: 저도요 널고개는건 가족들한테 같이하자고 하는편이에요 어짜피 주말에하니
+P0 	: 저도 주말에 같이 하자고 한번 말해봐야겠어요
+P0 	: 혼자하는 거 보단 같이하는게 더 재밌겠죠
+P1 	: 네네 같이하면 좀 수월하기도하고~ 음식하시는건 어떠세요?
+P0 	: 한 때 음식 만드는 거 좋아했는데 요새는 더워서 그런지 피하게 돼요
+P0 	: &name2&님은 요리하는 거 좋아하세요?
+P1 	: 아 저 요리 좋아는하는데 잘못해요 &name1&님은 어떤거잘만드세요?!
+P0 	: 저도 잘은 못하고 그냥.. 국 같은 거 대충
+P0 	: 레시피 보고 만들어요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100028001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연애중이신가요?
+P1 	: 네ㅎㅎ 남친 있어요
+P1 	: &name1&은요?
+P0 	: 헉 전 없어요
+P1 	: 이상형은 있으신가요
+P0 	: 음 처음보는 여자요ㅋ
+P1 	: 처음보는 여자요?
+P0 	: ㅜㅜ네ㅋ
+P1 	: 주변에는 맘에 드는분이 없으셨나봐요
+P0 	: 엇 제가 선택할수있는 입장이아닙니다ㅋ
+P1 	: 엌ㅋㅋ 그러신가요
+P0 	: ㅜㅜ 남초사회....
+P1 	: 아 주변에 여자가 없으신건가요
+P0 	: 아뇨 세상이요ㅋ 연애하신지 오래댔나여?
+P1 	: 183일 됐어요
+P0 	: 헉 날짜까지 카운트하는 풋풋함...
+P1 	: 이건 세야죠ㅋㅋ
+P1 	: 특별한 날에는 챙기기도 하구요
+P0 	: 글쿤요 저도 그런 시절이 있었던 거 같기도...

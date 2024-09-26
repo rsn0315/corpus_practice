@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100028086
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: 오늘 청소하셨나요?
+P0 	: 다음주에
+P0 	: 이사가는지라
+P0 	: 요즘 열심히
+P0 	: 청소하고 있습니다
+P0 	: 물론 오늘 아침에도 했죠
+P1 	: 헐 아침에 청소를 하다니
+P0 	: 일단
+P0 	: 이사 가면
+P0 	: 로봇 청소기부터
+P0 	: 살 생각입니다
+P1 	: 12평이니까
+P0 	: 솔직히 지금 집은
+P0 	: 실평수 4.5평이라
+P0 	: 핸드 청소기랑
+P0 	: 일회용 행주로 했는데
+P0 	: 아니 바닥 훔치는 청소 도구가 나쁜 뜻으로 쓰이는건 알지만 지금은 문맥이 맞잖아...
+P1 	: 저도 몇 번 지적당했어요
+P1 	: 설거지하셨나요?
+P1 	: 식기세척기도 사세요
+P0 	: 확실히
+P0 	: 자취하면서 제일 귀찮은게
+P0 	: 씻는거랑 설거지...
+P0 	: 청소는 며칠 안해도 막 티가 안나는데
+P0 	: 설거지는 이틀만 안해도
+P1 	: 집에서 아무 것도 안 먹으면 설거지를 안 할 수 있어요
+P0 	: 자기 주장을 하잖아요
+P1 	: 배달 음식시켜 먹으세요
+P0 	: 의외로 배달 음식은
+P0 	: 2~3주에 한 번 정도만 먹는지라;;
+P1 	: 자취하면서 해먹다니 훌륭하시네요

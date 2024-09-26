@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100019175
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 점심뭐드셨어요?
+P1 	: 점심 빵이랑 시리얼먹었어요
+P0 	: 아하! 양식 좋아하시나봐요?
+P1 	: 사실 점심먹기 귀찮아서
+P1 	: 그냥 떼운느낌이긴해요
+P0 	: 아하 그렇구나
+P1 	: 점심 뭐드셨어요
+P0 	: 저는 오늘 브리또먹었어요!
+P1 	: 브리또가 뭐에요?
+P0 	: 음 타코랑 비슷한음식인데 쉽게말해서 내용물이 알찬 랩이라고 보면될거같아요
+P1 	: 우와 맛있을거같아요
+P0 	: 맛있어요! 찾아가서먹을만큼
+P1 	: 저도 한번 찾아서 먹어보고싶어요
+P1 	: 브리또는 종류가 하나인가요
+P0 	: 아뇨 여러개에요~ 치킨브리또 목살브리또 연어브리또 등등이요
+P1 	: 어떤 브리또가 가장 맛있나요?
+P0 	: 저는 개인적으로 치킨브리또 좋아해요 ㅋㅋ
+P1 	: 치킨너겟같은 느낌인가요?
+P0 	: 음 그것보단 치킨텐더랑 더 가까운느낌인거같아요

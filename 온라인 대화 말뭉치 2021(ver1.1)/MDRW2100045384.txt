@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100045384
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 우유는 어디꺼드세용?
+P0 	: 서울우유 먹어요
+P0 	: &name2&님은요?
+P1 	: 저두요!ㅋㅋ 여러우유 먹었는데 서울우유가 제일 맛잇어요
+P0 	: 원래 남양 마셧으나...
+P0 	: ㅋㅋㅋ......
+P1 	: 아.....그쵸....ㅜㅜ 초코에몽 맛있엇는데..
+P0 	: 원래 남양 맛잇는우유 마셧엇는데 ㅋㅋㅋㅋㅋ
+P0 	: 갈아탓어요 ㅋㅋㅋㅋㅋ
+P1 	: 저도 그거 가끔먹었었는데..ㅜㅜ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ음료는 우유만 주로 드세요?
+P1 	: 아니죵 요구르트 나랑드사이다 등등
+P1 	: 아 생각해보니 주스는 잘 안먹었네용?!
+P0 	: 커피나 차는요?
+P1 	: 커피는 잘안즐겨요 커피숍가면 스무디나 에이드ㅋㅋ
+P1 	: 커피좋아하세용??
+P0 	: 저는 커피 좋아하는데 카페인에 예민해요 ㅋㅋㅋㅋ
+P1 	: 앗 이런 안타까운ㅜㅜㅜ
+P1 	: 심장이 두그두근하고 그런거에요?
+P0 	: 네 그리고 밤에 잠을 못자요
+P1 	: 저 저번에 큰텀블러에 라떼 네개 타먹고 죽을뻔했어요ㅋㅋ
+P1 	: 울렁거리고 두근거리고ㅋㅋ
+P0 	: 조심하세요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 라떼 네개나... ㄷㄷ
+P1 	: 텀블러가 커서 채우고 싶어서ㅋㅋㅋ카페인에 혼이 안나봐가지고 무서운줄몰랐어요
+P0 	: &name2&님도 커피 조심하셔야겟어요

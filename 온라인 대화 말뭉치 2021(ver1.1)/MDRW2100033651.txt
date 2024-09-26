@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033651
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 취업중이신가요?
+P1 	: 일 다니고 있어요
+P1 	: 취준중이세요?
+P0 	: 백수예요
+P0 	: 그냥 쉬고있어요
+P1 	: 저도 퇴사하고싶어요,,,,
+P1 	: 일 너무 노잼입니다 흑
+P0 	: 저는 재무팀에서 일하다가
+P0 	: 번아웃와서 쉬고있어요
+P1 	: 헉 많이 힘드셨나요
+P0 	: 업무량이 장난아니었어요
+P1 	: 업무량 그렇게 잔뜩 있으면
+P1 	: 올만해요 ㅠㅠㅠ
+P0 	: &name2&님은 어떤일 하시나요?
+P1 	: 저 그냥 사무직에여@
+P0 	: 아르바이트해보신적 있으세요?
+P1 	: 네 있어요!!!!
+P0 	: 저는 사무보조 해봤어요

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100031108
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동 하시는거 있나요
+P0 	: 등산만 가끔하구요
+P0 	: 코로나땜에 수영도 못하고
+P0 	: 헬스도 안다녀요ㅜㅜ
+P1 	: 오 수영하실 줄 아세요?
+P1 	: 멋있어요.. 전 못해서 ㅋㅋ
+P0 	: 배웠어요 ㅋㅋㅋ
+P0 	: 근데 마스크 벗을수 없어서 안하게되더라구요
+P0 	: 젖으면 의미 없자나요
+P1 	: 아 그르니까요 그거 수영용 마스크가 있는건가요?
+P0 	: 안젖는게 있다는데
+P0 	: 진짜 안젖을지 의문이라
+P0 	: 약간 꺼려지는?
+P0 	: 운동하셔요?
+P1 	: 저는 하는거 없는데 이제 하려고요 ㅎㅎ
+P1 	: 홈트하려고 요가매트 샀어요 ㅋㅋ
+P0 	: 아 요가
+P0 	: 전 유연하지 않아서
+P0 	: 곡소리 날듯합니다 ㅋㅋ
+P1 	: 아뇨 요가말고 스트레칭같은 거요 ㅋㅋ 요가는 저도 못해요 ㅋㅋ
+P0 	: 아 ㅋㅋㅋㅋ
+P0 	: 스트레칭도 은근 운동되고
+P0 	: 몸푸는데 좋더라구요
+P1 	: 네 맞아요 플랭크도 좋대서 해볼까 싶어요
+P0 	: 맞아요
+P0 	: 플랭크 저도 해보려구여
+P1 	: 1분 하는 것도 힘들다네요
+P0 	: 30초나 가능할런지ㅜㅜ

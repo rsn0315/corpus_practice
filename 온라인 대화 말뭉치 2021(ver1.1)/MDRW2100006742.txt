@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100006742
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근 구매하신 도서 있나요?
+P1 	: 안녕하세요
+P1 	: 책은 잘안사요
+	  도서관에서 빌려보는 편이요
+P0 	: 기억에 남는 책 있으세요?
+P1 	: 전 추리소설 좋아해서요
+P0 	: 7년의 밤 같은 소설이요?
+P1 	: 네 맞아요ㅋㅋ
+P0 	: 소설류 좋아하세요?
+P1 	: 쉽게 읽히는거 봐요
+	  두번은 안보기때매 안사게 되더라고요
+P0 	: 저도 요즘은 가벼운 책들 잘 보게 되더라구요
+P0 	: sf장르도 보시나요?
+P1 	: 그쪽은 잘.. 재미잇게 보신거 잇나요
+P0 	: 저도 잘 안보는데
+P0 	: 우리가 빛의 속도로 갈 수 없다면
+P0 	: 이라는 책 최근에 추천받아서요
+P1 	: 찾아봐야겠네요
+P1 	: 요즘은 근데 책을 마니 안보게되요
+P0 	: 그쵸 요즘은 다른 컨텐츠가 잘되어있어서요. .
+P1 	: 네 영상을 많이 보게되더라고요

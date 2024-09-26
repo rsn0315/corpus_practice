@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046466
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211022
+topic : 기타 사회 생활 및 활동
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨가 좋은 것 같아요
+P1 	: 안녕하세요:)
+	  네 오늘 날씨 조금 춥지만 괜찮은것 같아요ㅎㅎ 
+P1 	: 오늘 금요일인데 저녁에 약속이나 계획있으신가요?
+P0 	: 네! 동호회 사람들을 만나기로 했어요
+P1 	: 무슨 동호회인가요?
+P0 	: 풋살 동호회를 하고 있어요ㅎㅎ
+P1 	: 그럼 오늘도 풋살하시나요?
+P0 	: 아니요! 오늘은 그냥 가볍게 만나는 모임입니다
+P1 	: 오늘은 그럼 만나서 같이 저녁드시는건가요~?
+P0 	: 네 저녁을 같이 먹을 것 같습니다ㅎㅎ
+P1 	: 어떤 메뉴 먹을건지 결정하셨나요?
+P0 	: 가락시장에서 회 떠서 먹을 것 같습니다 ㅎㅎ
+P1 	: 오 맛있겠네요~풋살은 보통 언제하시나요?
+P0 	: 보통은 매달 둘째 넷째 토요일에 진행합니다 ㅎㅎ
+P1 	: 그럼 내일도 풋살하시나요
+P0 	: 아니요 ㅎㅎ 내일은 쉬기로 해서 참여하지 않습니다
+P1 	: 아 그러시구나~ 오늘 모임은 재밌게 놀다 오시고 내일은 푹 쉬세요!! 날씨가 많이 추워졌는데 감기조심하세요:)

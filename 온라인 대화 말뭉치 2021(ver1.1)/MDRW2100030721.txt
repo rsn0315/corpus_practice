@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네이버에서 검색하면 최저가로 사기 편해요
+P0 	: 저는 진주로 이사 하면요
+P0 	: 모든 걸 다 사야 해요
+P1 	: 네
+P0 	: VIP 되겠죠
+P1 	: 할인 이벤트 하는 거를 잘 활용하세요
+P0 	: 이불부터 숟가락 가지
+P0 	: 지금 지마켓 이벤트 하는데
+P1 	: 모든 걸 다 사야 하나요
+P0 	: 집이 없어서 못 사요
+P0 	: 가진게 캐리어 두 개 뿐이에요
+P1 	: 11번가에서 아마존 직구 관련해서 연계 한다던데
+P0 	: 당근마켓에서 노려보려고요
+P1 	: 무료배송 이벤트 할 것 같더라고요
+P0 	: 가전은 중고도 괜찮아요
+P1 	: 당근마켓 또 굉장히 좋지요

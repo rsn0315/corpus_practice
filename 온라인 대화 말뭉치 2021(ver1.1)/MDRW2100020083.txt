@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020083
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교를 믿으시나요
+P0 	: 아니요
+P1 	: 전 기독교에요
+P0 	: 교회 안좋아해요
+P1 	: 아그럴수도있죠
+P0 	: 교회 지금도하나요?
+P1 	: 네
+P0 	: 비대면해야할텐데
+P1 	: 그건그래요ㅠㅡ
+P0 	: 조심하세요
+P1 	: 네
+P0 	: 교회가 왜좋아요?
+P1 	: 마음이 평화로워요
+P0 	: 그렇군요

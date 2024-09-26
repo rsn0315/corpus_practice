@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045324
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 정수기 아줌마 온데
+P1 	: 그럼 청소해야겠네
+P0 	: 엉 먼지털고 청소기돌려야지
+P1 	: 난 향초도 피우는데
+P0 	: 그것까지
+P1 	: 청소해도 냄새날까봐
+P0 	: 그런가 낼 세탁기도 돌리고
+P1 	: 가을옷 내놓고 여름옷 세탁해야하는데
+P0 	: 난 이불빨래
+P1 	: 설거지도 하기 귀찮아서 쌓아놓음
+P0 	: 식기세척기 돌려
+P1 	: 돌려도 내가 손으로 해얏나는게 있다
+P0 	: 그럴때 참 애매하다
+P1 	: 맞다

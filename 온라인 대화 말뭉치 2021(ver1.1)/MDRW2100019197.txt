@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019197
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 인공지능 아세요?
+P1 	: 음 전문적으로 알진 못하지만 뭔진 알고있어요 ㅋㅋ
+P0 	: 요즘엔 학과가 대세인가바요
+P1 	: 그런가봐요 ㅋㅋ 첨알았어요 ㅋㅋ
+P0 	: 세상이 빠르게 변하네요
+P1 	: 맞아요 찾아보지않으면 뒤쳐지는느낌
+P0 	: 피곤하네요ㅋㅋ
+P1 	: 힝 어쩔수없죠뭐 ㅠㅠ
+P0 	: 편한듯하면서도 힘든ㅠ
+P1 	: 그쵸 ㅠㅠ
+P0 	: 학과는 어떤게있을까요?
+P1 	: 어떤학과요?
+P0 	: 인공지능 학과여

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010594
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 좋아는 하지만 여행스타일이 남편이랑 별로 안맞네요ㅠ
+P0 	: 어떤여행 좋아하세요?
+P1 	: 저는 캠핑도 좋아하고 좀 힘들여다니는거 좋아해요
+P0 	: 아하
+P0 	: 배낭여행!
+P1 	: 배낭까지는 노노노
+P0 	: 전 휴양파
+P1 	: 남편도요 
+	  그러면서 또 비싼돈 쓰는건 싫어해서요
+P0 	: 전 돈 막쓰기ㅋ
+P1 	: 저도 막쓰는데 남편은 쓰는거 싫어하면서 저렴한 힘든여행은 싫어하는 타입
+P0 	: ㅎㅎ 어렵네요
+P1 	: 그러게말입니다. 혼자다니고파요
+P0 	: ㅎㅎ 혼자여행 끌려요

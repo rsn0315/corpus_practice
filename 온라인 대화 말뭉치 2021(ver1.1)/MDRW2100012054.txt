@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012054
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 게임 좋아하세요?
+P0 	: 저 심즈좋아해요
+P1 	: 아 그렇군요~심즈는 어떤 게임인가요?
+P0 	: 사람사는거랑 똑같아용
+P1 	: 아 그렇군요 처음 들어봐요
+P1 	: 전 로블록스 좋아하는 아들들때문에 그것만 알아요
+P0 	: 로블록스는 어떤 게임인가요?
+P1 	: 집짓는 게임이예요...
+P0 	: 아 재밌을거 같아요ㅎㅎ
+P0 	: 모바일겜인가요?
+P1 	: 네~
+P1 	: 요즘 초등학생들은 좋아하더라구요
+P0 	: 요즘 초등학생들 모바일겜 엄청 좋아하죠?
+P0 	: 길가다보면 다들 휴대폰보고 있더라구요
+P1 	: 네 그렇죠~유튜브가 키운 세대잖아요ㅜ
+P1 	: 요즘 인기게임은 무엇인가요?
+P0 	: 저도 겜을 잘 안하는데 애들은 마인크래프트 같은거 하더라구요
+P1 	: 마인크래프트가 인기가 많군요

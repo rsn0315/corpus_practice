@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003064
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 빙어축제는 많잖아
+P0 	: 엉 많아 양평 빙어축제
+P1 	: 아니 안가봤어
+P0 	: 여기는 겨울에 빙어랑 썰매도 탈수 있어
+P1 	: 다들 그렇지 않나
+P0 	: 송어축제부터 4계절 축제가 있어
+P1 	: 꼭 겨울에 안가도 되겠다
+P0 	: 응 홈페이지에 체험들을 소개해서 예약 받고 있어
+P1 	: 체계적이네
+P0 	: 마을운영위원회에서 하나보네 가격은 괜찮아
+P1 	: 착한가격이야?
+P0 	: 피크닉공간 포함 체험 패키지 9만원대
+P1 	: 1인당이야?
+P0 	: 그건 안나와있네

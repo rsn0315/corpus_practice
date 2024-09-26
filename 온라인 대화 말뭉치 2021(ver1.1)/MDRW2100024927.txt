@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024927
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 저아까 5시쯤 라면먹었어요 &name1&님은요?
+P0 	: 오늘 비 온다 그래서 파전 부쳐 먹었는데 비가 안 왔네요 ㅎㅎ
+P0 	: 파전 좋아하시나요?
+P1 	: 네 저도 점심쯤 파전 먹었어요~!
+P1 	: 혹시 좋아하시는 음식이 뭐세요?
+P0 	: 오늘 파전의 날인가봐요 ㅎㅎ
+P0 	: 저는 냉면 쫄면 좋아해요!
+P0 	: 어떤 음식 좋아하세요?
+P1 	: 저는 고기류 좋아해요 ㅎㅎ
+P1 	: 근데 웬만한건 다 먹어도 배달은 잘안시켜 먹는거같아요
+P1 	: 배달음식 자주시켜드세요?
+P0 	: 배달용기 씻고 처리하기가 귀찮아서 잘 안시켜 먹어요 ㅎㅎ
+P0 	: 배달음식 별로 안좋아하세요??
+P1 	: 밖에서는 가끔시켜먹긴하는데 배달팁도 참비싸더라구요 그래서 거의 안시켜먹게 되네요
+P1 	: 시켜먹는다면 저는 부대찌개 자주먹어요 ㅎ
+P1 	: 의정부에 부대찌개가 유명한데 혹시 드셔본적 있으세요 ??
+P0 	: 네 먹어봤어요! 의정부 부대찌개 좋아하세요??
+P1 	: 네 저도먹어봤어요 웬만하면 다 평타는하더라구요
+P1 	: 집에서 해먹어도 그맛이죠 사실 ㅎㅎ
+P1 	: 의정부에 카페도많더라구요
+P0 	: 맞아요 ㅎㅎ 두 군데밖에 안가봤지만 저는 기대치를 너무 높게 잡고 갔는지 좀 밍밍했던 것 같아요 ㅎㅎ

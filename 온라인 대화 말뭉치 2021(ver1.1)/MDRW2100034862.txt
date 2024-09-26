@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100034862
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 배고픈데
+P0 	: 음식점은 닫았고
+P0 	: 배달 음식 시킬지 고민된다
+P1 	: 먹고 싶은 거 있어?
+P0 	: 음 막
+P0 	: 뭐 먹고 싶다 하는
+P0 	: 욕구는 별로 안 드는데
+P0 	: 평소 습관 때문인 듯 이것도
+P1 	: 응
+P0 	: 진짜 이상해 느김이
+P0 	: 뭘 생각해도 그냥 그거 예전에 맛있게 먹엇엇지... 이 생각이고
+P1 	: 진짜로 병원 가보는 게 오땨...
+P0 	: 와 맛있겠다 당장 먹고 싶다 이게 아니라
+P0 	: 막 암 걸린 거 아니겠지?????
+P0 	: 갑자기 이상한 생각이
+P1 	: 암까지는 아니더라도
+P1 	: 갑자기 식욕 떨어지면 질환일 가능성이 높다고 하길래...
+P1 	: 월요일에 내과 한 번 다녀와...
+P0 	: 그래야겠다... 다리 상태도 볼 겸
+P1 	: 다리는 외과로 가지 않아?
+P1 	: 내과랑 외과랑 같이 하는 병원인가?
+P0 	: 화상 상처는 그냥 가정의학과 가서
+P1 	: 응
+P0 	: 아 내과 가라 했구나
+P0 	: 가정의학과 가서 식욕 관련 물어봐도 되지 않을까
+P1 	: 그래 일단 가서 한번 말해보자
+P0 	: 그래야겟다
+P0 	: 하~

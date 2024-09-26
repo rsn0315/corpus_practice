@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100016013
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 룸메이트 같이 사는거 생각보다 괜찮네요
+P0 	: 다행이네요
+P1 	: &name3&&name4&도 다행이 좋아하네욤
+P0 	: 집안일은 분담하나요?
+P1 	: 특별히 하는건 없어요
+P0 	: 네 글쿤요
+P0 	: 아이는 있으신가요
+P1 	: 귀염둥이들 있습니당
+P0 	: 아 여러 명인가보네요
+P1 	: 네 귀여워요
+P0 	: 네 몇명인가요
+P1 	: 아이 2명이여
+P0 	: 오호 다둥이네요
+P1 	: 지금은 자고있어요
+P0 	: 친척오면뭐해야하죠?

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100044363
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래 하신 적 잌ㅅ나요?
+P1 	: 아니요 &name1&님은 있으신가요?
+P0 	: 네 몇 번 해봤어요
+P1 	: 어떤 물건 해보셨나요?
+P0 	: 저는 책도 해봤고 게임 계정도 팔아봤어요
+P1 	: 게임 계정은 팔려면 레벨이 엄청나야할텐데
+P0 	: 레벨은 별류 상관 없는 겜이여서요 ㅎㅎ
+P1 	: 그렇군요
+P1 	: 중고거래는 아무래도 많이 후려쳐야 팔리죠?
+P0 	: 그래도 다 그 나름대로의 시세가 정해져 있으니까 대충 그런거 보고 정하면 되요
+P1 	: 저도 뭘 팔려고 하는데 처음에는 시세에 맞춰 팔려고 했는데 이제는 신경쓰기 귀찮아서 최저가에 올리는데 안팔리네요ㅠㅠ
+P0 	: 뭐 올리셨는데요?
+P1 	: 클래스101이랑 왓챠랑 밀리의 서재요
+P1 	: ㅋㅋㅋㅋ
+P0 	: 전부 기한 있는 것들이네요ㅋㅋㅋㅋ
+P1 	: 맞아요 사실 이런 것들은 기간이 만료될수록 파는 사람들이 더 안달라서 가격이 내려가는 것 같기도해요
+P1 	: 안달나서
+P0 	: 그쵸그쵸ㅋㅋㅋㅋㅋ
+P0 	: 클래스101은 무슨 클래스에요?
+P1 	: 몰라요 그냥 인강인데 공부가 아니라 뜨개질, 그림그리는 방법, 포토샵 공부법들을 올려놓은 강의 같아요

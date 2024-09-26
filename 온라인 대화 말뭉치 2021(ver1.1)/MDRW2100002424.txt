@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002424
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네 안녕하세요!
+P0 	: 이상형이 어떻게되시나요?!
+P1 	: 외적인 이상형은 유하고 부드러운 인상과 손이 예쁜 사람이요!
+P1 	: &name1&님은요?
+P0 	: 저는 성격이 좀 온화하고 착했으면 좋겠어요!
+P0 	: 너무다혈질은 좀 그렇더라구요ㅎㅎ
+P1 	: 다혈질은 누구나 받아주기 힘들죠ㅎㅎ
+P1 	: 맞아요 온화하고 착한 성격 저도 좋아해요!
+P0 	: 맞아요ㅎㅎ 그리고키는
+P0 	: 175cm는 넘으면좋을거같아요!
+P1 	: 전 제가 조금 큰편이라 180정도는 됐으면 해요!ㅎㅎ
+P1 	: 키 외에 다른 외적인 이상형은 없나요?!
+P0 	: 음 저는 안경을 안낀사람이면
+P0 	: 좋을거같아요!
+P0 	: &name2&님은 어떠신가요?
+P1 	: 오오.. 저는 크게 상관은 없지만
+P1 	: 안쓰는쪽이 더 좋은것 같아요
+P1 	: 안경 낀건 싫으신건가요?
+P0 	: 아 넵ㅎㅎ 아무래도안낀게
+P0 	: 제눈엔 더 괜찮아보이더라구요..!
+P1 	: 안낀 얼굴이 천년의 이상형인데 안경을 끼는 사람이라면요....?!
+P0 	: 아 그럼 괜찮을거같아요ㅋㅋㅋ
+P0 	: 그정도면 낀얼굴도 괜찮겠네요

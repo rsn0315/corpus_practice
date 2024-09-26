@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100007168
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동 하는거 있어요?
+P0 	: 아니요 ㅋㅋㅋ 몸움직이는걸 싫어해요 이러면안되는데
+P0 	: &name2&님은요?
+P1 	: 저도 요즘숨쉬기 운동해요ㅋ
+P1 	: 살만 찌고있네요
+P0 	: 저도 살쪘음..굶어야겟어유
+P1 	: 굶는건 건강에 안좋아요
+P1 	: 기름진 음식말고 야채나 과일 요런거 드세요
+P0 	: 야채과일안좋아해서
+P0 	: 고민이네요..
+P1 	: 아 그럼 운동을 하셔야겠네요ㅎ
+P0 	: 운동도싫어..
+P0 	: ㅋㅋㅋㅋㅋㅋ 일단적게먹기라도 해보죠
+P1 	: 건강을 생각해서 ㅎㅎ 아파서 하면 그땐 늦어요
+P0 	: 이미 좀만 움직여도 숨차요
+P0 	: 원래체력이 안좋은편이네요 ㅜㅜ
+P1 	: 그니까 운동하셔야죠ㅎ 날씨 선선하니 걷기운동이라도
+P0 	: 근데 또 나오면 뭐 사먹게되는것

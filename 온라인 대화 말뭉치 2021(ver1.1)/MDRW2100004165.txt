@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100004165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하시나요?
+P0 	: 네!! 코로나 전까지 여기저기 열심히 다녔어요 ㅎㅎ 유럽 배낭여행도 다녀오구
+P1 	: 외우...유럽 어디 다녀오셨어유?
+P0 	: 저 프랑스랑 독일이요! 해외여행 가던게 전생같아요 
+P1 	: 이야 전 아직 안 가봤는데 ㅜㅜ 부러워요
+P1 	: 추천하신다면 어디?
+P0 	: 저도 두군데밖에 안가봐갖고 ㅜㅜ 그래도 한곳만 갈수있다면 무조건 프랑스죠 ~~ ㅎㅎ
+P0 	: 미술관이랑 에펠탑만 돌아도 추억이 엄청 쌓여요 ㅎㅎ
+P1 	: 오오 프랑스!
+P1 	: 코로나 끝나면 저도 꼭 가봐야겠네요
+P0 	: 꼭이요 ㅎㅎ &name2&님은 사회생활 하시니까 제가 못간 근사한 식당도 가보시고 뷰 좋은 곳에서 술도 한잔 하세요 ~ ㅎㅎ
+P1 	: ㅜㅜ 여행 계획 세울 상황도 아니잖아요ㅋㅈ코로나가 아직도..
+P0 	: ㅋㅋㅋㅋㅋ 어디 못나가서 지겨운 시간은 ~ 방구석에서 이런저런 계획 세우면서 보내는거죠
+P0 	: 코로나 진짜.. ㅜㅜ
+P1 	: 그래도 나갈 사람은 다 나간다더라구요ㅋ
+P0 	: 해외요??
+P0 	: 헐
+P0 	: 백신 맞고서 가는거에요?
+P1 	: 아뇨 국내료요ㅋ

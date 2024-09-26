@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100029393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 계절 있나요?
+P1 	: 안녕하세요. 저는 겨울을 좋아해요!
+P1 	: 어떤 계절을 좋아하시나요?
+P0 	: 저는 가을을 좋아한답닏나
+P0 	: 가을 단풍이 좋아요
+P0 	: &name2&님은 겨울의 어떤게 좋나요?
+P1 	: 가을 단풍 예쁘죠^^ 저는 겨울에 태어나서 그런지 눈을 정말 좋아해요!
+P0 	: 눈을 좋아하는군요?
+P0 	: 운전은 하시나요?
+P1 	: 장롱면허입니다
+P1 	: &name1&님은 운전하시나요?
+P0 	: 전 운전가끔 하는데
+P0 	: 운전한 뒤로 눈이 무섭더라구요
+P0 	: 원래는 눈 좋아했거든요
+P1 	: 눈오면 위험하죠ㅠㅠ 항상 안전운전하셔야 합니다ㅜㅜ
+P1 	: 오늘은 아침부터 날씨가 선선하네요^^ 벌써 가을이 왔나봐요 ㅎㅎ
+P0 	: 네.. 어제까지 흐리고 비오더니 오늘 해떠서 좋아요.. 이제야 가을같네요
+P0 	: 똑똑똑~ 계신가요?
+P1 	: 어제 바빠서 확인을 못했네요ㅠㅠ
+P1 	: 좋은 아침입니다! 오늘 날씨 정말 좋네요 
+P0 	: 네..날씨가 당분간 좋을건가봐요~ 너무 좋아요
+P0 	: 이 좋은 날씨에 어디 다녀올 계획 있으신가요?
+P1 	: 낮에는 좀 쉬다가 저녁 때 산책 다녀오려구요! 요즘 날씨도 선선해서 산책하기 좋더라구요 ㅎㅎ
+P0 	: 맞아요.. 산책하기 좋아요.. 덥지도 않고 공기도 좋고

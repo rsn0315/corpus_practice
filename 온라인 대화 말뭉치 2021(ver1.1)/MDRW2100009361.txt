@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009361
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘엔 재택근무 안하시죠.
+P0 	: 네 할수가 없네요ㅠ
+P1 	: 집에 프린터가 없으니 저는 재택근무 별로였어요.
+P0 	: 저도 없는ㅠ
+P1 	: 재택근무의 장점은? 안씻어도 된다.ㅎ
+P0 	: 그게 가장 큰ㅋㅋ
+P1 	: 출퇴근시간을 아낄 수 있다.ㅎ
+P0 	: 화장안지워도 된다
+P1 	: 옷을 대충입어도 되는..ㅎ
+P0 	: 좋은게 많네요ㅋ
+P1 	: 단점도 있지요.
+	  나태해짐.. 꼬질꼬질..ㅎ
+P0 	: 끝없이 게을러지는ㅋ

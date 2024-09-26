@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025506
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비가와요?
+P1 	: 흐려요
+P1 	: 덥나요?
+P0 	: 네 습해요
+P1 	: 제습기 필요해요
+P0 	: 그쵸
+P1 	: 에어컨도 필요하구요
+P1 	: 오늘 반팔 입으셨나요
+P0 	: 네
+P1 	: 요즘 비가 계속 오네요
+P0 	: 지겨워요
+P1 	: 기압이 낮아서 많이 졸리네요
+P0 	: 눈도 감기고
+P1 	: 커피 마시세요
+P0 	: 2잔 먹고
+P1 	: 전 1잔 마셨어요
+P1 	: 흐린날엔 커피 최고

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100004285
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중국집 메뉴 중에서 좋아하는 거 있어?
+P0 	: 기본적으로 짬짜면이랑 탕수육이지
+P1 	: 맛있지 그럼그럼
+P0 	: 요즘에 빠진 건 멘보샤
+P1 	: 멘보샤 진짜 맛있어
+P0 	: 새우 더하기 튀긴 거 는 완전 맛있음
+P1 	: 크림새우도 맛있어
+P0 	: 칠리새우는?
+P1 	: 맛있긴 한데 크림새우가 더 좋아
+P0 	: 유린기도 맛있어
+P0 	: 닭튀김
+P1 	: 예전에 중식 뷔페 프렌차이즈 있어서 자주 갔는데
+P0 	: 아 차이나 팩토리?
+P1 	: 오 맞아맞아 생각 났다
+P0 	: 거기 맛있었는데 요즘에도 있나?

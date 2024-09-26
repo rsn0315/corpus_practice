@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 너도 집안일 좀 해라
+P1 	: 저도 청소 하잖아요 ㅠㅠ
+P0 	: 빨래도 하고 요리도 하렴
+P0 	: 오늘도 혼자 했다
+P1 	: 네 알겠어요 ㅠㅠ 고생 많으시네요
+P1 	: 아빠는 괜찮으세요??
+P0 	: 아빠 열 많이 내렸어
+P0 	: 병원까지 갔다왔는데 다행이지
+P1 	: 진짜 큰일이었어요 얘기 듣고 엄청 걱정했는데
+P0 	: 39도까지 올라갔단다
+P1 	: 헐... 옆에 있었어야 했는데 ㅠㅠ
+P0 	: 링거 맞고 괜찮아졌어
+P0 	: 다행이지
+P1 	: 네 ㅠㅠ 백신이 다 좋은데 맞고 아파서 큰일이에요
+P0 	: 너도 1차 맞지 않았니?
+P1 	: 엊그제요!! 1차라 그렇게 힘들지 않았어요
+P0 	: 2차가 걱정이구나

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100045165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁식사 하셨나요! 뭐 드셨는지 맞춰볼게요
+P1 	: 오늘 볶아 먹었어요
+P0 	: 오 볶음 요리구나 좋아요 맞춰보겠시야
+P0 	: 매운 음식인가요?
+P1 	: 아뇨 매운걸 못먹어요
+P0 	: 쌀이 들어가나요?
+P1 	: 네네 무슨밥이게용
+P0 	: 정확하게 맞추기 도전!
+P0 	: 고기가 들어가나요?
+P1 	: 고기는 없어용
+P0 	: 해산물이 들어가나요?
+P1 	: 넵!! 해산물 썰었어요
+P0 	: 우와 맛있겠다
+P0 	: 해산물 으음
+P1 	: 해산물 송송
+P0 	: 새우가 들어가나요?
+P1 	: 새우랑 또 들어가요!!

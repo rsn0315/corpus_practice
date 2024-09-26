@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100045210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 앗 마지막 뭐라고 보내셨나요
+P0 	: 마트에서 자주 볼 수 있어요!
+P1 	: 아하
+P1 	: 빨간 과일인가요?
+P0 	: 붉은 계열이긴 해요!
+P1 	: 앗 그럼 주황색인가요?
+P0 	: 딱히 한가지는 아니고 알록달록한 편이에요!
+P1 	: 아아앗 어렵다
+P1 	: 혹시 털이 있나요?
+P0 	: 털은 없어요!
+P1 	: 이런 복숭아가 아닌가봐요
+P1 	: 복숭아 아니죠?
+P0 	: 네 복숭아는 아니에요!
+P1 	: 식감이 말랑한가요?
+P0 	: 딱딱한 종도 있고
+P0 	: 보통 말랑할수록 달아요!
+P1 	: 말랑한 거 딱딱한 거 둘 다 있나보군요!
+P0 	: 네네!
+P1 	: 알록달록한 과일이 뭐가 있지...
+P1 	: 나무에서 열려요?
+P0 	: 네 나무에서 열려요!
+P1 	: 말려서 먹기도 하나요?
+P1 	: 말려서 먹기도 하는 과일인가요?

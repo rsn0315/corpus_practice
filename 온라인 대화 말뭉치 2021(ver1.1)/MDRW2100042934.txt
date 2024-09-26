@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100042934
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물을 키우시나요
+P1 	: 아니요
+P1 	: &name1&님은 키우시나요?
+P0 	: 저는 아니요
+P1 	: 그럼 키워보신 적도 없으신가요?
+P0 	: 네 한번도 없어요
+P1 	: 그럼 키우시고 싶은 동물이 있으신가요?
+P0 	: 강아지  생각은 해봤어요
+P1 	: 어떤 종이요?
+P0 	: 눈큰 치와와 귀엽더라고요
+P1 	: 소동물이 좋으신거군요
+P0 	: 네 작고 귀여운동물이 좋아요
+P1 	: 작은 동물이 키우기도 편하죠
+P0 	: 예전에 햄스터 키운적이 있네요

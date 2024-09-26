@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034065
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요.
+P0 	: 공연이나 전시회 자주 보시나요?
+P1 	: 아니요 ㅠㅜ &name1&님은요?
+P0 	: 기회가 되는대로 전시회를 보려고 하는데, 요즘은 그것도 쉽지않네요ㅠ
+P1 	: 오 맞아요 ㅠㅜ 특별히 기억남는 전시회가 있으세요??
+P0 	: 이번에 추천 받은 건데 제주도에서 하는 빛의 벙커 라는 전시회 가보고싶어요!
+P0 	: 혹시 시간 나시면 이미지 한번 보세요 엄청나더라구요!
+P1 	: 오... 대박이네요.. 제주도에 오랜만에 가보고싶어졌어요 ㅋㅋ
+P0 	: 저도요 ㅎㅎ 2단계만 됐어도 휴가 때 다녀왔을텐데ㅠ
+P1 	: ㅋㅋㅋ 언제쯤에 종식이될련지 ㅜㅜ
+	  전시회보면 참 예쁜 작품들이 많더라고요. 
+	  저는 쿠사마 야요이의 호박 작품을 실제로ㅜ보고싶어요.
+P0 	: 아 그거 전에 태풍이 날아가서 파손됐다는 뉴스 본 것 같은데... 다른 작품일까요?
+P1 	: 헐... 맞네요 ㅜㅜ 귀여운 호박이 ㅜㅜ작가님께서 맘아프실듯하네요
+P0 	: 아 이거 맞군요ㅠ
+P0 	: 잘 복원됐을거에요!

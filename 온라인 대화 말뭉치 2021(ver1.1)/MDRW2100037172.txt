@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100037172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘은 바바서 그냥 밥에 밑반찬만 먹었어요 ㅋㅋ네 먹었어요
+P0 	: 구랬군요 저는 카레 해먹었어요
+P1 	: 카레도 좋은데 하는데 시간이 걸려서 한번 해서 일주일간 먹어요
+P1 	: 어떤 카레인가요? 백세카레? 오뚜기카레? 아님 인도카레?
+P0 	: 아 백세카레입니다
+P0 	: 배달 요즘 질려요
+P1 	: 와 백세카레를 많이들 드시더라구요
+P0 	: 순한맛이랑 매운맛 섞으면 좋아요
+P1 	: 전 일본 에스앤비 카레를 좋아는 하는데 주로 먹는건 오뚜기 카레에요
+P1 	: 그런 꿀팁이! 다음에 한 번 해볼께요
+P0 	: 아하 일본카레도 맛나죠
+P1 	: 네 좀더 기름지고 향신료 배합이 다른 맛?
+P1 	: 이 맛도 좋아해요
+P0 	: 맞아요 꾸덕하고 진한 맛
+P1 	: 네 그런맛이라 좋아요
+P1 	: 백세는 오뚜기랑 맛이 뭐가 다른가요?
+P0 	: 백세가 좀 더 풍미가 강한거같아용
+P1 	: 그렇군요, 카레여왕이랑은 다른가요? 백세가 강황맛이 오뚜기보단 좀더 셌어요
+P0 	: 오맞아요 그런 느낌이에요

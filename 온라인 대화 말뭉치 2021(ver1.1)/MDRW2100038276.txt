@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100038276
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&님은 좋아하는 계절 있나요?
+P1 	: 안녕하세요:)
+P1 	: 저는 가을을 좋아해요{emoji:♡}
+P1 	: &name1&님은용?
+P0 	: 저도 가을 좋아해요~
+P0 	: 단풍이 예뻐서요~
+P0 	: &name2&님은 가을의 어떤 점이 좋나요?
+P1 	: 저는 가을 하늘이랑 바람이 좋아요
+P0 	: 그렇군요.. 높고 푸른 하늘.. 정말 예쁘죠
+P0 	: 시원한 바람도 좋고
+P0 	: 근데 갈 수록 가을이 짧아져서 참 슬프네요
+P1 	: 그쵸ㅜㅜ 봄이랑 가을 좋아하는데
+P1 	: 머무는게 아니라 스치듯
+	  지나가는 느낌이라 넘 아쉬워요
+P0 	: 짧더라도 가을을 만끽하기 위해 노력중입니다.. 이 비가 지나면 단풍이 들겠죠?? 정말 기대돼요
+P1 	: 맞아요:) 이제 가을이 올 거 같아요
+P1 	: 오늘도 비가 내리나요?
+P0 	: 여긴 아직 안오네요.. 이러다 올지도 모르지만요
+P1 	: 비오는날 좋아하세요?
+P0 	: 저는 별로에요.. 습한게 싫어서요
+P1 	: 그쵸ㅜㅜ 습하고 꿉꿉해서
+	  저도 싫어해요
+P0 	: 근데 가을장마라 지금 몇주째 이러고 있으니  속상하네요

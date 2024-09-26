@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007072
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음 저는 일년에 한두번씩은 보러 간 것 같아요 지금은 전시가 열리는 지역에 살지 않아서 아쉽네용
+P0 	: 주로 어떤 전시 보러가세요?
+P1 	: 저는 유명한 작가요!!ㅋㅋㅋㅋ 아니면 국립미술관 전시요!
+P0 	: 저도 추천받은 건데
+P1 	: 넹
+P0 	: 앨리스 달튼 브라운 작가의 미술전이 열리고 있나봐요
+P0 	: 검색해봤는데 정말 예쁜 작품이 많아요
+P1 	: 오호..  처음 들어봐요 어디서요?
+P1 	: 오 저도 검색해보고 왔어요
+P1 	: 예쁘네요..딱 여름에 가면 좋을 것 같아요
+P0 	: 마이아트뮤지엄인데 강남이네요
+P0 	: 그쵸 저도 보고 너무 예뻐서 가보고 싶더라고요
+P1 	: 티켓팅 해본 적 있으세요?
+P1 	: 저는 예~전에 고2 때인가 친구 엑소 콘서트 티켓팅 같이 해본다고 한적있는데ㅋㅋㅋㅋ 신기했어요
+P0 	: 저도 친구 빅스 콘서트 티켓팅 도와준 적있는데
+P0 	: 어휴 노력했는데도 순식간에 좌석이 사라지더라고요
+P1 	: ㅋㅋㅋㅋㅋㅋ 맞아요
+P0 	: &name2& 님은 성공하셨나요?
+P1 	: 아니요 저도 실패했습니다..ㅋㅋㅋㅋ 심지어 학교 컴퓨터 였었어서 당연한 결과였던것같기도해요
+P0 	: 저는 피시방이었는데도 친구랑 둘 다 실패했었어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006711
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨 어때요?
+P1 	: 비는 그쳤어요
+P0 	: 여기도요 근데 엄청 춥네요 바람이
+P1 	: 바람불고 추워졌어요
+P1 	: 금방 겨울이 올것 같은 날씨네요
+P1 	: 집도 추워서 난방을 해야 할것 같아요
+P0 	: 그렇죠 에어컨 커버 이제 씌웠는데...ㅎㅎ
+P1 	: 전 선풍기도 다 들여놓았어요
+P0 	: 아 부지런하세요
+P1 	: 이젠 따뜻한 난방류를 꺼내놔야 겠어요
+P0 	: 어떤거 사용하세요?
+P1 	: 옥매트 ,옥돌마루,전기히터 를 사용해요
+P0 	: 많네요 온열기구..저희는 아이들때문도 그렇고 없어요 ㅎ
+P1 	: 아 ! 옥매트는 아이들도 괜찮지 않나요
+P0 	: 네 근데 관리도 힘들도 부피도 크구요.ㅡㅠ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 학교다니시나요
+P1 	: 네! 대학 다녀요!
+P0 	: 아하 대면수업하시나요?
+P1 	: 아니요 시국이 시국이다보니...ㅎ
+P0 	: ㅋㅋㅋ 그렇죠.. 저도 비대면이긴한데
+P0 	: 대면할거같다는 여지는 남겨두고있네요
+P1 	: 추석 때 다시 난리 안나면 대면할 것 같긴한데
+P1 	: 추석이 지나봐야 알 것 같아요
+P0 	: 그럴것같네요.. 혹시 1학년이신가요?
+P1 	: 네 1학년이요
+P1 	: &name1&님은 몇학년이세요?
+P0 	: 저는 군복학한 3학년이에요
+P0 	: 올해에 오티나 그런 활동들은 하셨나요?
+P1 	: 아뇨 전혀요ㅋㅋ
+P1 	: 비대면인김에 회사 다니고있어요
+P0 	: 오.. 알바가아니라 회사요?
+P0 	: 벌써 취업성공하신건가요
+P1 	: 특성화고 나와서 고등학교 때 취직하고 회사에서 보내주는 대학 가고 있어요 ㅋㅋㅋ
+P0 	: 아하 회사에서 대학을 보내주는건 첨알았네요

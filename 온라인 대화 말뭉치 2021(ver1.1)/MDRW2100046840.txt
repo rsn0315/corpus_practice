@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 :)
+P1 	: 안녕하세요~ 즐거운 금요일 밤이 다가오고있네요 ㅎㅎ
+P0 	: 그러게요~!! 벌써부터 설레네요
+P0 	: 항상 주말이다가오기전날은좋아오!
+P1 	: 혹시 저녁에 특별한 계획이라도 있으신가요!
+P1 	: 저는 치맥 예정이거든요 ㅎㅎ
+P0 	: 오오오 치맥 좋죠! 
+	  오늘저녁은 딱히 없고 집에갈때 주전부리좀 사서갈까생각중이에요
+P0 	: 주말에는 아라뱃길쪽에가서 바람좀쐬구요
+P1 	: 와아 주말에 드라이브 가시는군요
+P1 	: 요즘 날씨가 좋아서 바람쐬기 딱인 것 같아요
+P0 	: 네 드라이브겸 가서 바람도쐬고~ 얘기도하고~ 그런 소소한 재미가 있는것같아요
+P1 	: 맞아요 ㅎㅎ 저도 이번 주말엔 공원으로 단풍보러 나가볼까 생각중입니다
+P0 	: 네 &name2&님도 단풍도 구경하시고 걸으면서 운동도하시면 좋겠어요
+	  그야말로 일석이조네요 ㅎㅎ
+P1 	: 오오~ 그러네요ㅎㅎㅎ
+P1 	: 요즘 단풍 구경을 못해서 아쉬웠는데
+P1 	: 이번에 실컷보고 와야겠어요
+P1 	: 즐거운 주말 보내세요~!
+P0 	: 네 &name2&님도 모쪼록 즐거운주말 되시길 바라겠습니다!! :)

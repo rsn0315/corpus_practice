@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029340
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응 나 완전 멀쩡해
+P0 	: 엄마는 열나고 팔아프고 비염 심해졌는데
+P1 	: 나도 어제랑 오늘 오전까지는 팔엄청 아팠거든
+P1 	: 근데 지금은 팔도 멀쩡해
+P0 	: 열은 안나??
+P1 	: 응 열도 안나고 오히려 체력이 좋아진기분
+P1 	: 영양제 맞은거같아
+P0 	: 다행이네 다른 사람들은 열나고 엄청 아팠다는데
+P1 	: 나도 그래서 걱정 많이 했는디 너무 멀쩡해서
+P1 	: 오히려 당황스러워
+P0 	: 근데 1차보다 2차가 더 아프대
+P1 	: 지금 겁주는거야?!!
+P0 	: 아냐 나도 무서워서그래....
+P1 	: 아빠는 멀쩡했자나 괜찮을거야
+P0 	: 덜 아팠으면 좋겠구만
+P1 	: 내가 약을 미리 사다둘게
+P1 	: 어제 내가 준 비타민 어때

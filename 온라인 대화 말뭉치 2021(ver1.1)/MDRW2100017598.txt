@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017598
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 학생이세요??
+P1 	: 네 재학중입니다
+P0 	: 그러시군요
+P0 	: 저도 학생이에요
+P1 	: 오 이번학기 대면으로하시나요?
+P0 	: 아뇨ㅋㅋ 블렌딩수업이랑 비대면수업 있었는데 저는 다 비대면으로 했어요ㅋㅋ
+P1 	: 오 좋은결정이시네요!
+P0 	: 막학기라 학교나가기 싫더라구요ㅋㅋ
+P0 	: &name2&은 대면수업 하세요??
+P1 	: 저두 비대면이에요 ㅎㅎ
+P0 	: 확실히 비대면이 더 편하긴 해요ㅎㅎ
+P1 	: 맞아요 수월하기도하구!
+P1 	: 가끔은 오히려좋아욬ㅋㅋ
+P0 	: 맞아요 학교까지 가는 것도 힘들어서..
+P0 	: 학교 가는 데 얼마나 걸리셨어요??
+P1 	: 아 저는 해외유학생이라 좀 상황이 다른거같긴해요~ 거기서 기숙사써요 ㅎㅎ
+P0 	: 오 그렇군요
+P0 	: 학교생활 잘 하시길 바랄게요ㅎㅎ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010521
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁식사는 하셨어요?
+P1 	: 아니요 아직요~이제 준비해야 되요
+P0 	: 직접 요리해드시는거예요?
+P1 	: 네~근데 아까 파바에서 빵을 사와서 간단하게 준비만 하려고요
+P0 	: 요기요 하셨나요?ㅎ
+P1 	: 네~ㅎㅎㅎㅎㅎㅎ 아시는군요 ㅎㅎ
+P0 	: 저도 아까 아빠 주문해줬어요
+P0 	: 슈퍼클럽 가입도해서
+P1 	: 오~~효녀시네요~
+P0 	: 아빠가 빵을 넘 좋아해요ㅎ
+P1 	: 아~~저도 빵을 좋아하거든요
+P0 	: 5천원할인에 슈퍼클럽쓰니 만원고르고 2천원결제하니 좋아요
+P0 	: 샐러드 비싼데 요럴때 이용하기 좋더라구요
+P0 	: 무슨빵 사셨어요?
+P1 	: 네~저는 식빵이랑 연유브레드요~
+P1 	: 혹시 연유브레드 드셔보셨나요?
+P0 	: 보긴했는데 맛있어요?
+P0 	: 전 고구마페스츄리 크림치즈빵 요런거 좋아해요
+P1 	: 부드럽고 촉촉하고 달달해요~저는 최애인데

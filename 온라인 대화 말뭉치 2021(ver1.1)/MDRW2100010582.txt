@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100010582
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교 다니고 계세오?
+P0 	: 네! 근데 지금은 휴학 중이에요
+P0 	: 학교 다니고 계신가요?
+P1 	: 전 아니요!!
+P1 	: 학교가 그리워요
+P0 	: &name2&은 무슨 동아리를 해보셨나요?
+P1 	: 전 옷 만드는 동아리 해봤어요
+P1 	: &name1&은요?
+P0 	: 저는 과학 실험 하는 동아리 해봤어요!
+P1 	: 우와 과학 실험 동아리
+P1 	: 신기하네요 재밌응 거 같아요
+P0 	: 저는 옷 만드는 동아리가 더 신기한데요??ㅋㅋㅋ 무슨 옷을 만드셨나요?
+P1 	: ㅋㅋ ㅋㅋ전 한복 만들었어요
+P1 	: 힘들었답니다..ㅎㅎ
+P0 	: 와 한복... 엄청 어려웠겠어요ㅋㅋㅋㅋㅋ 뭐가 제일 힘들었나요?
+P1 	: 전 저고리요
+P1 	: 묘하게 정말 어렵더라구요
+P0 	: 오... 저는 동아리 때 발표 준비하는게 제일 어려웠던 것 같아요
+P1 	: 아 발표 공감합니다
+P1 	: 전 발표 정말 싫어했어요
+P0 	: 저희 동아리는 실험 준비가 전적으로 학생한테 있었어서 고통이었죠...
+P1 	: 실험 되게 어랴웠을 거 같아요
+P1 	: 실패하는 경우도 있나요??

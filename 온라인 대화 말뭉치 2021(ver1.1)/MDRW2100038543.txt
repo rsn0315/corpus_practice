@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100038543
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녀하세요
+P0 	: 냄비밥 해보신적 있나요?
+P1 	: 아니요! 아직이요ㅎㅎ
+P0 	: 안남미가 찰기가 적어서 위에 부담이 적대요ㅎ
+P1 	: 새로운 사실이네요!
+P0 	: 전 볶음밥하려고 구입했었죠 하지만 밥이 으깨지네요ㅎ
+P1 	: 볶음밥을 시도는 해보셨나요?
+P0 	: 아니요ㅠ 밥 자체가 으깨져서 포기했어요ㅠ
+P0 	: 언니 억지로 먹이면서 먹어치우게요ㅜ
+P1 	: 언니한테 억지로 주면 언니가 잘 먹나요?
+P0 	: 어젠 먹더라고요ㅋㅋ 뭔가 긍정적인 척인건지 위로도 해주고..ㅋㅋ
+P1 	: ㅋㅋㅋ 어떤 위로를 받았나요?
+P0 	: 죽같지만 괜찮대요ㅋ
+P1 	: ㅋㅋㅋㅋㅋ 죽먹는 느낌으로 먹고 있군요

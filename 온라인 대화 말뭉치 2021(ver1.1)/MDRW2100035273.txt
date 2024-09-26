@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은요?
+P0 	: 저 두부면파스타 먹었어요!
+P0 	: 점심 드셨나요
+P1 	: 네~^^ 미역국으로요
+P0 	: 오 맛있으셨겠어요 ㅎㅎ
+P1 	: 네ㅎㅎ 잘 끓여졌어용
+P0 	: 소고기 넣구 하신건가요*
+P1 	: 네 양지 넣고 끓였어요 ㅎㅎ
+P0 	: 오 고소했을것 같아요ㅋㅋ
+P0 	: 미역국 끓이실때 참기름으로 볶으시나요
+P1 	: 네 고기 먼저 참기름으로 볶고 미역 볶고 물 넣고 계속 끓이다가 간 맞추고 ㅎ
+P0 	: 그쵸 참기름으로 볶아야 더 맛있죠..!
+P1 	: 맞아요 달달달 볶아야
+P0 	: 저녁은 뭐드실 예정이신가요?
+P1 	: 그게 걱정이네여

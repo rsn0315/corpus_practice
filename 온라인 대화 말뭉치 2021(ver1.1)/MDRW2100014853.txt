@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014853
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨가 넘 안좋아서 입맛이 없어요
+P0 	: 온종일 비만 주륵주륵
+P1 	: 회사는 어떤가요?
+P0 	: 늘 그 날이 그 날 같아요
+P1 	: 그래도 날이 선선해서 일하기 편하죠
+P0 	: 내일 더운 여름에 아무래도 지치기 쉬운데
+P0 	: 요즘 선선해서 참 좋아요
+P1 	: 태풍이 또 올라온다 더라고요
+P0 	: 뉴스 봤어요 걱정이에요
+P1 	: 명절 앞두고 큰 피해 없어야 할 텐데
+P0 	: 요즘 계속 비 오고 쌀쌀하더니 태풍까지 온대서
+P1 	: 맞아요 바람이 차갑지요
+P0 	: 네 그래서 옷 입기가 애매해요
+P1 	: 여름 옷 입기 춥고 가을 옷 입기 덥고
+P0 	: 마쟈용

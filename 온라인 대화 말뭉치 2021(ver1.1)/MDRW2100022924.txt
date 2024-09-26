@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: ㅎㅇㅎㅇ
+P0 	: 최근에 읽은 책이 뭐야?
+P1 	: 엘러리퀸의 y의비극
+P1 	: 너는 최근에 어떤 책을 읽었니
+P0 	: 최근엔 안읽었는데......
+P0 	: 엘러리 퀸 책 다른거 읽어봤어?
+P1 	: 아니
+P1 	: y의비극은 탐정물 3대작이야
+P0 	: 요즘은 주식관련 책이 베스트셀러에 많아보이던데 그건 읽어본거있어?
+P1 	: 아니...
+P1 	: 없쪙
+P0 	: 난 e북으로 읽다만건 있어 ㅋㅋ 잘 안읽히더라구
+P1 	: 나는 e북으로는 소설책만 읽어ㅋㄱ
+P0 	: 난 공간이 부족하다보니 보통 e북으로 사는편
+P1 	: 나는  책을 전시하는 걸 좋아해서 앵간한 건 다 종이책으로 읽어
+P0 	: 종이책이 확실히 피로도도 덜하고 잘읽히긴 하지
+P0 	: 맞아 생각났다 전에 니가 빌려준 책이 제일 최근에 읽은건데 제목이뭐더라
+P1 	: 살인자의 기억법
+P0 	: 오 맞아 그거 좋았어

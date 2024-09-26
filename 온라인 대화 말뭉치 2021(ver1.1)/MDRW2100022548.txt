@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022548
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 안녕하세요
+P0 	: 요즘 날씨가 넘 흐리죠
+P1 	: 네 날씨 흐려서 맨날 우산갖고 다녀요ㅋㅋ
+P0 	: 그니깐요 기상청 예보도 맨날 안맞구
+P1 	: 그쵸 우산 들고 다니는거도 일인데 비안오면 얼마나 허탈하던지ㅋㅋ
+P0 	: 오늘은 비 안올것 같아 좋네요!
+P1 	: 네 저희 지역도 오늘은 비가 안온다네요ㅎ
+P1 	: 이번 여름은 태풍이 별로 안온거같지 않나요?
+P0 	: 맞아요
+P0 	: 다행히 태풍피해 적은것같아요
+P1 	: 네 태풍피해 무섭죠ㅠ 휩쓸리는거 순식간이라서ㅜㅜ
+P0 	: 미세먼지없는 이 좋은 계절에
+P0 	: 마스크라 아쉬워요
+P1 	: 그쵸 마스크쓰면 숨쉬기 답답하고요ㅠㅠ

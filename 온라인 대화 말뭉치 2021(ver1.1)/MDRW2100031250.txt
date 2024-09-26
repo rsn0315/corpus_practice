@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100031250
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 동네 날씨는 어떠세요?
+P0 	: 저는 지금 여행중인데 날씨 좋았어요
+P1 	: 오! 어디세요?
+P0 	: 용인이에요, 에버랜드랑 민속촌 들렀어요
+P1 	: 사람들 많아요?
+P0 	: 오우, 많아요
+P0 	: 코로나 아닌 줄
+P1 	: ㅋㅋㅋㅋㅋ 다들 시간이 많이 지나다보니까 답답해서 나오게 되나봐요
+P1 	: 재밌으셨나요?
+P0 	: 네네, 발바닥 아플 만큼 돌아다녔어요
+P0 	: 날씨가 좋아서
+P0 	: 다 좋았습니다ㅎㅎ
+P1 	: 아이고 오늘 푹 쉬셔야겠네요ㅋㅋㅋㅋ 어떤게 제일 좋으셨어요?
+P0 	: 날이 좋아서 사진도 잘 찍히고
+P0 	: 물 맞는 놀이기구 타도 안 춥더라구요
+P1 	: 저 그 강물 같은데서 타는거 그거 기억나요
+P1 	: 그거 말씀하신거죠
+P0 	: 네네, 그런게 두 개 있더라구요
+P1 	: 날이 진짜 좋았나봐요 생각보다 물이 많이 튀었던걸로 기억하거든요ㅋㅋㅋㅋ
+P1 	: 하루에 에버랜드랑 민속촌 둘다 가신거에요?
+P0 	: 네네, 두 탕 뛰었습니다
+P0 	: 비 안와서 다행이에요ㅎㅎ
+P0 	: 가벼운 차림으로 다닐 수 있었어요
+P1 	: 날이 좋아서 다행이었네요! 둘 다 야외라 더웠으면 금방 지쳤을지도 몰라요

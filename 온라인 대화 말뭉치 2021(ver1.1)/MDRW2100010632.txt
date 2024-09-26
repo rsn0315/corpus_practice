@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 여행다녀오신데 있으세요?
+P0 	: 최근에는 코로나 때문에 어디 가지는 못했어요. 근데 그전에도 한동안은 바빠서 어딜 못 갔던 거 같아요
+P1 	: 저도 그래요 여유로우면 멀리 다녀오고 싶은데ㅠㅠ
+P0 	: 가장 처음 갔던 해외여행지는 어디인가요?
+P1 	: 저는 처음에 일본갔었어요ㅎㅎ 어릴때라 기억이 안나요
+P0 	: 그럼 성인이 되고 난 이후로는요?
+P1 	: 유럽인거같아요 수능보구 다녀와서ㅎㅎ 어디가 기억에 남으세요?
+P0 	: 저는 첫 해외여행으로 대학 때 이탈리아에 갔었어요
+P0 	: 여행 가서 아파서 고생했던 기억이 있네요 ㅎㅎ
+P1 	: 아 아프면 ㅠㅠ아무것도 눈에 안들어오는데ㅠㅠ저도 대만가서 물갈이하느라 이틀넘게 누워있었어요ㅠㅠ
+P0 	: 계속 기침하면서 다녔는데 집에 올 때 쯤 되니 낫더라구요 ㅋㅋㅠㅠ 그래도 멋졌던 풍경들이 기억에 남네요
+P1 	: 아 맞아요 이탈리아는 어딜가도 예쁘더라구요
+P0 	: 피렌체 종탑 위에 올라가서 내려다 본 풍경이 아주 멋졌어요. 올라가느라 힘들었지만요 ㅎㅎ

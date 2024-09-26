@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100031041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쌀이랑 먹었니?
+P0 	: 응 쌀이랑 같이 먹었어
+P1 	: 국도 있었니
+P0 	: 아니 국은 안 먹었어
+P1 	: 넌 따뜻한 밥 좋아하니
+P0 	: 응 따뜻한 거 먹는게 좋아
+P1 	: 나도 따뜻한 밥이 너무좋아
+P1 	: 넌 밥먹을때 반찬 많이 두고 먹니
+P0 	: 많이가 여러 종류니 한 종류 다량이니
+P1 	: 여러종류로
+P1 	: 난 한종류로 많이 먹는편이야
+P0 	: 여러 종류로 두루두루 먹는 편인데 귀찮으면 한종류 많이 먹어
+P0 	: 점심 뭐 먹었게
+P1 	: 카레라이스 어때
+P0 	: 카레 맛있지
+P0 	: 니 점심 맞춰볼게
+P0 	: 쌀 먹었니
+P1 	: 응 쌀먹었어
+P0 	: 매운 음식이었니
+P1 	: 매운 음식도 있었어
+P1 	: 매운음식도 있었어

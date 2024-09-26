@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010939
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트 콜라 먹어보셧어여?
+P1 	: 제로 콜라인가요??
+P0 	: 네..한번 맛보니까..
+P0 	: 오히려 빠져듬.. 살 걱정없는게 더크고..
+P0 	: 마른체질이면 아무거나 안가리시겟네여?
+P1 	: 저 야채 싫어해서 야채는 안 먹어요!
+P0 	: 요리할때 아예 안 넣어요?
+P1 	: 마라탕 같은 거 먹을 때 안 넣어 먹고
+P1 	: 요리할 때 야채 있으면 빼요!
+P0 	: 그럼 뭐 시켜먹기 어렵겠네요?
+P1 	: 야채만 빼면 괜찮아서 의외로 쉬워요!
+P0 	: 어릴때 야채한테 물린적 있나요?
+P0 	: 왜 야채가 싫은거에여?
+P1 	: 맛이 없잖아요!!
+P0 	: 파프리카 같은거 엄청 달달하자나여?
+P0 	: 아.. 그 유전적으로 야채싫어하는 타입인가..
+P1 	: 파프리카 같은 거 냄새가 별로ㅠㅠ
+P1 	: 좋은 건 아닌 거 같아요ㅠㅠ
+P0 	: 그럼 모가 젤 맛잇어요?
+P1 	: 야채 중에서는 오이가 제일 좋아요!!
+P0 	: 흠.. 흥미롭네요.. 
+	  보통 오이를 제일 싫어하던데..
+P0 	: 토마토는요?
+P1 	: 토마토는 별로 안 좋아해요!
+P0 	: 그럼 과일은여? 바나나.. 수박.. ㅋㅋㅋ 배 사과
+P1 	: 과일은 거의 다 좋아하는 편이에요!

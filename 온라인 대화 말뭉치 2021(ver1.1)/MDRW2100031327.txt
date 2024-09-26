@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100031327
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P0 	: 저녁식사 하셨나요?
+P1 	: 네 간단히 디저트류 먹었습니다. 식사 하셨어요?:)
+P0 	: 저는 닭볶음탕 해서 먹었어요 ㅎㅎ
+P0 	: 디저트류 맛있었을 것 같네요 ㅠㅠ
+P0 	: 뭐 드셨나요?
+P1 	: 아 자주 요리하시나요?:)
+P1 	: 당근케익이랑 커피 마셨습니담!
+P0 	: 당근케익 ㅠㅠㅠ 케이크 안먹는지 오래 되서 너무 먹고 싶네요
+P0 	: 음 자주는 아닌데 좋아하는 편이에요!
+P0 	: &name2&님은 요리 좋아하시나요?
+P1 	: 아아ㅜㅜ그렇군요!  혹시 안먹은지 오래된 이유가 있으신가요?
+P1 	: 아 ㅎㅎ 저는 요리를 잘 못하다 보니까 잘 안하게되는것같아요
+P0 	: 괜찮은 당근케익집이 너무 멀어서 못갔거든요 ㅠㅠ
+P1 	: 아아ㅜㅜ 그럴수있죠!
+P1 	: *그럴때
+P0 	: 당근 싫어하는데 당근케익은 참 맛있더라구요!
+P1 	: 아 ㅎㅎ 저두요!
+P1 	: 혹시 계피가루도 좋아하시나요?
+P0 	: 네 좋아하는 편이에요!
+P0 	: 시나몬롤도 너무 좋아하고
+P0 	: 그냥 잘 먹게 되더라구요 ㅎㅎ
+P1 	: 아 ㅎㅎ그러시군요! 저도 좋아하는편이여서
+P1 	: 시나몬번이나 츄러스도 좋아합니당!
+P0 	: 츄러스도 안먹은지 참 오래된것 같네요 ㅎㅎㅎ

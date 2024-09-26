@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 너는 학창시절 어떤게 가장 재미있었어?
+P0 	: 중학생때가 기억이 나
+P1 	: 중학생때 어떤게 가장 좋았어.
+P1 	: ?
+P0 	: 중학생 때 배드민턴 치는게 재밌었어
+P1 	: 나는 고등학생때가 재미있었던것 같아
+P0 	: 기숙학교였지?
+P1 	: 응 기숙사 생활이 확실히 재미있었어
+P0 	: 기숙사 땐 야식도 먹었어?
+P1 	: 맞아 기숙사 생활의 절반은 야식과 함께였어
+P0 	: ㅋㅋㅋㅋㅋㅋ나는 컵라면을 종종먹었어
+P1 	: 나는 닭강정 자주 시켜먹었어
+P0 	: 닭강정 브랜드는뭐였어?
+P1 	: 브랜드는 없는 곳이였는데 ㅋㅋㅋㅋ 너네 고등학교는 동아리 있었어?
+P0 	: 우린 동아리가 무척활발했어

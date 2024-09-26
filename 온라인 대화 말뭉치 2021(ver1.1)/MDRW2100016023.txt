@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100016023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요?
+P0 	: 넵 여행다니는거 좋아합니다!
+P1 	: 오
+P1 	: 해외는 못가니
+P1 	: 국내로?
+P0 	: 코로나 이후엔 국내여행도 거의 못가긴햇네여ㅠㅠㅠ
+P1 	: 언제쯤 여행을 가게될까요
+P1 	: 코로나 무서워서 원....
+P0 	: 그니까요ㅠㅠㅠㅠ
+P0 	: 백신도 빨리빨리 맞고 그래야지
+P0 	: 여행도 가고 할텐데요ㅠ
+P1 	: 지금도 가는사람이 있긴하더라구요 극소수지만
+P0 	: ㅋㅋㅋㅋ저도 국내여행은 짧게 다녀온적은 잇어요ㅠ
+P0 	: 요즘 해외여행은 거의 없죠,,,?
+P1 	: 네
+P1 	: 해외는 여행말고 비지니스면 모를까
+P1 	: 잘 못가죠
+P0 	: 맞아요ㅠ
+P0 	: 어디 출장가는거 아닌 이상에는
+P0 	: 휴가로 가기엔 무리가 있는 것 같아요
+P1 	: 언제 여행을 갈까나
+P1 	: 지금까지 어디 다녀오셨어요?
+P0 	: 국내는 여기저기 댕겨봤어용ㅎㅎㅎ
+P0 	: 전국팔도 한번씩은 다 가본거같네요!

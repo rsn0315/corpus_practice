@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019507
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 좋아하세요?
+P0 	: 사고 싶은 건 많은데 장바구니에 담아두기만 하고 있죠ㅋㅋ
+P0 	: 최근에는 뭐 사셨어요?
+P1 	: 최근엔 가을에 신을 구두를 미리 샀어요ㅎㅎ
+P0 	: 구두! 어느 색으로 사셨어요?
+P1 	: 검은색이요ㅋㅋㅋ 사실 구두를 잘 안신는 편이었는데
+P1 	: 갑자기 문득 신고싶어져서 제일 기본색으러 샀어요ㅎㅎ
+P0 	: 가끔 그럴 때 있죠ㅋㅋ 검정색이 제일 무난하고 좋아요
+P1 	: 마자요 님은 최근에 산거 있으세요?
+P0 	: 전 유산균을 샀어요. 먹던 게 다 떨어져서
+P1 	: 유산균 중요하져! 알약타입으로 구입하시나요
+P0 	: 알약 타입도 먹고 가루타입도 먹고 번갈아 먹고 있는데 알약이 더 편하긴 하더라구요
+P1 	: 저두 둘다 번갈아 샀는데 가루가 더 맛있어서 맛있는 거 사요ㅋㅋㅋㅋㅋ
+P0 	: 가루 중에는 락토핏이 걍 무난하고 맛도 좋아요ㅋㅋ
+P1 	: 네 락토핏 젤 자주 구입해요ㅋㅋ
+P0 	: 가루타입 맛 없는 건 진짜 충격적이더라구요ㅋㅋ

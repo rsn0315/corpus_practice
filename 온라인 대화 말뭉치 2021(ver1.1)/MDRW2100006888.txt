@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006888
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 네 프랑스처럼 건물도 이쁘죠
+P0 	: 그 호수보면 물이 깨끗한가요?
+P1 	: 가까이가면 오염되어있어요
+P0 	: 그렇구나 수질이 안좋군요 운치있던데
+P1 	: 멀리서보면요
+P1 	: 가까이신  냄새나요
+P0 	: 등산도 해보았나요?
+P1 	: 랑비앙산에 가보았지요
+P0 	: 거기 엄청 높다면서요
+P1 	: 올라가면 진짜 고생, 지프타야해요
+P0 	: 사서고생할 여행은 안하는 게 낫죠
+P1 	: 근데 경관은 기가막혀요
+P0 	: 그래서 추천하시는 군요
+P1 	: 네 랑비앙등산 추천해요
+P0 	: 달랏엔 또 무엇이 있지요?

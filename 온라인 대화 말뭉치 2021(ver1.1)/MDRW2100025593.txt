@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100025593
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요?
+P1 	: 네 볶음밥에 카레 먹었어요
+P1 	: 식사하셨나요
+P0 	: 네 먹었습니다!
+P0 	: 카레 좋아하시나요?
+P1 	: 그냥그냥요
+P1 	: 만들기 쉬워서 해먹었어요
+P1 	: 뭐드셨나요
+P0 	: 저는 라면에 김치전 먹었습니다
+P0 	: 김치전 좋아하시나요?
+P1 	: 좋아해요
+P1 	: 김치로 만든건 다 맛나죠!
+P1 	: 직접 부치신거에요?
+P0 	: 아니욯ㅎ
+P0 	: 마켓컬리에서 산 걸로 해먹었어요!
+P0 	: 직접 부치셨나요?
+P1 	: 아뇨 전 요릴 잘 못해서요!
+P1 	: 배달음식 자주 먹어요 ㅋㅋㅋ
+P1 	: 마켓 컬리로 배달하는거 진짜 편하죠?
+P0 	: 네 엄청 편해요!!
+P0 	: 그냥 가열해서 먹기만하면 되니까 좋더라구요ㅎㅎ
+P0 	: 배달음식 어떤거 자주 드세요?
+P1 	: 전 찜닭이나 중화요리 치킨 많이 시켜먹어요
+P1 	: 일하고 집갈때 포장도 종종하구요
+P1 	: 배달료가 너무 많이 올라서 부담되네요
+P1 	: 또 오른다는 소식이 있어서 슬퍼요 ㅠㅠ
+P0 	: 헉 또 오른대요??
+P0 	: 지금도 부담인데ㅠㅠ
+P1 	: 그러니까요 ㅠㅠ
+P1 	: 배달을 끊던가 포장을 해와야 할것같아요
+P0 	: 편하긴한데 더 비싸진다면 횟수를 줄이긴 해야겠어요ㅠㅠ

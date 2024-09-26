@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 갑자기 날씨가 또 덥네요.
+P0 	: 그러게요ㅠㅠ 최근까지 좀 선선했는데 오후가 되니까 덥네요
+P1 	: 어제 소나기 오는거 보셨어요?
+P0 	: 아 네! 대구라서 어제 소나기 맞으면서 밖에 나갔다 왔어요ㅠㅠㅋㅋㅋ
+P1 	: 에구 대구도 소나기가 왔군요. 여긴 서울인데 비가 광범위하게 오나봐요.
+P0 	: 헉 그렇군요! 서울이 확실히 비가 많이 오긴하나보네요ㅠ
+P1 	: 네 아주오락가락이네요.
+P1 	: 예전에는 대구가 대프리카였지요?
+P0 	: 맞아요ㅋㅋㅋ 한때 40도룰 훌쩍 넘겼던 대구였죠
+P1 	: ㅎㅎ 올해는 시원하셨겠어요ㅎㅎ
+P0 	: 올해가 진짜 대구에서 태어나길 잘 했다고 생각한 몇 안되는 여름 날씨였어요ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ미세먼지도 거긴 적지요?
+P0 	: 아주 깨끗합니다ㅎㅋㅋㅋㅋㅋ
+P1 	: 사십도가 넘으면 시원한 옷이 의미가 없겠어요ㅎ
+P0 	: 어우... 옷은 가리는 기능만 할뿐이에요 그 온도가 되니까ㅋㅋㅋㅋㅋ
+P1 	: 이제 다시 안 더워질까요? 근데 막상 추운건 싫어요
+P0 	: 모르겠어요 폭염일수는 2018년보다 많았는데 온도는 또 그게 아니라서ㅎㅋㅋㅋ 이제 또 겨울이 오는게 두렵네요

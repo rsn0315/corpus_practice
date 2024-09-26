@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047504
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 연예인 있으세요?
+P0 	: 아니요 &name2&님은요?
+P1 	: 저는 아이돌 좋아해요 ㅎㅎ
+P0 	: 오 누구요??
+P1 	: 방탄소년단 좋아해요 ㅎㅎ !
+P0 	: 방탄 요즘 잘나가잖아요~
+P1 	: 맞아요 ㅎㅎ 예전부터 좋아했는데
+P1 	: 이렇게 뜰줄 몰랐네요 ㅎ
+P0 	: 데뷔팬 이신가보다ㅎㅎ
+P1 	: 엇 맞아요 ㅎㅎ 거의 한 8년된거같아요
+P1 	: 그래서 요즘은 ㅎㅎ 예전만큼은 안좋아해요
+P0 	: 즐겨듣는 노래가 뭔가요?
+P1 	: 전 발라드 좋아해요 !
+P1 	: 옛날 발라드요 ㅎ
+P0 	: 발라드 좋아하시는구나

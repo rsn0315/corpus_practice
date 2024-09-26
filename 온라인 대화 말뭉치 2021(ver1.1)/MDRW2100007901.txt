@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007901
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁 드셨나요
+P1 	: 네 저녁드셨나요?
+P0 	: 먹었죠ㅎㅎ 떡볶이 먹었습니다
+P0 	: &name2&님은 뭐드셨나요
+P1 	: 저는 고기구워먹었어요!
+P0 	: 우와 맛있었겠어요
+P1 	: 정육점아저씨가 오늘 돼지앞다리살 추천해주셔서 사왔어요
+P0 	: 돼지 앞다리살은 별로 못먹어본거 같은데
+P0 	: 맛있나요
+P1 	: 질좋을땐 싸고 맛있는거 같아요
+P1 	: 아닐경우는 좀 질겨요
+P0 	: 아 잘보고 사야겠네요
+P1 	: 정육점분들한테 오늘 뭐가 좋은지 물어보셔요!
+P0 	: 매번 마트에 나와 있는 것만 사서
+P0 	: 따로 정육점 가볼생각은 못했네요
+P1 	: 자취하다보니 재료를 자주 사야해서 마트 정육점아저씨랑 친해졌어요ㅋㅋㅋㅋ
+P0 	: 와 자취하시는군요
+P0 	: 그럼 장도 전부 직접 보시겠어요
+P1 	: 네 삼일에 한번은 봐요

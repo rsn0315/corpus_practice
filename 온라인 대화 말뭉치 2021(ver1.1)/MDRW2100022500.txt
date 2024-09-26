@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교 있으신가요?
+P0 	: 종교 엄서요... 뭐 믿으세요?
+P1 	: 저도 없어요 ㅎㅎ
+P0 	: 다 안좋아하세여?  유대교 기독교 불교.. 학교..
+P1 	: 전 저를 믿습니다 ㅎㅎ &name2&님은요?
+P0 	: 아크바흐 알라..
+P0 	: 싸와디깝.. ㅋㅋㅋㅋ
+P0 	: 전 종교 다 싫어요..
+P0 	: 21세기 존재가치 있는지 의문
+P1 	: 그리고 교회 다니는 사람들 이 시국에 예배보고 단체로 코로나 걸리는거 보면 더 싫어요
+P0 	: 글쵸... 이성을 넘는 그 무언가...
+P0 	: 그냥 미친사람들 같아요
+P1 	: 그쵸?? 대체 뭘 어떻게 하면 거기에 그렇게 빠지는거죠?
+P0 	: 생각해봤는데.. 
+	  연애인 팬클럽이랑 다를게 엄서요..
+P0 	: 그냥 대상이 목사일뿐..
+P1 	: 그렇네요. 목사 말빨에 넘어간 사람들.. 신천지에 빠지는 사람들도 이해가 안가고요
+P0 	: 팬클럽도 보면 가수가 마약하건 음주하건 무지성 쉴드치고 누가 반론하면 축출하잖아요.. 
+	  
+	  교회도 폐쇄된 공간에 유사한 사람들이 모여서 
+	  집단문화를 형성하는듯..
+P1 	: 그렇네요  누가 뭐라든 무조건적으로 나를 따르라는.사람 따라가는..

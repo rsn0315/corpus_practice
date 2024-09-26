@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031484
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 반갑습니당
+P1 	: &name1&님은 가족이랑 같이 사시나요?
+P0 	: 네 저는 부모님과 같이 살고 있습니다!
+P0 	: &name2&님은요?
+P1 	: 저도 가족이랑 살고 있어요ㅎㅎ
+P0 	: 독립하고 싶은 생각은 있으신가요?ㅎㅎ
+P1 	: 네네, 근데 아직 취직처가 결정 안되서요
+P1 	: &name1&님은 독립하실 건가요?
+P0 	: 저는 아직 독립은 생각이 없어요ㅎㅎ 아직 내쫓지 않으셔서 일단 조용히 지내고 있습니당...ㅎㅎ
+P1 	: 그러시구낭 저는 가족말고 친구나 룸메랑 살아보고 싶더라구요
+P0 	: 오 친구랑 지내는거 재밌을거 같아요. 현실은 조금은 다르겠지만 로망은 가지고 있는ㅎㅎㅎ
+P1 	: 저는 동기랑 잠깐 같이 살아봤는데 괜찮더라구요ㅎㅎ
+P0 	: 오 경험 해보셨군요! 뭐가 제일 좋으셨나요??
+P1 	: 둘이 성격이 비슷해서 부딪히는 점 없었고 친구가 저보다는 요리를 잘했어요ㅎㅎ
+P0 	: 와 요리 잘하셨으면 넘 좋았겠어요ㅠㅠㅠ 맛난거 뚝딱 만들고ㅋㅋ 경험 하셨으니 더 하고 싶으실거 같아요ㅎㅎ
+P1 	: 네네, 잘맞는 룸메이트 있으면 같이 살고 싶다는 생각을 하게 되더라구요ㅎㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019982
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 상미종식빵이라고 있는데 기회되면 드셔보세요
+P1 	: 상미종!
+P0 	: 아시나요
+P1 	: 아까 파바에서 사왓는데!
+P1 	: 아직 먹어보진않앗어요
+P0 	: 헉 아시는구나
+P0 	: 그거 진짜 맛있더라구요
+P0 	: 혹시 오늘 요기요 파바를 참여하셨나요
+P1 	: 맞아요!!
+P0 	: 세상에
+P0 	: 저두요
+P1 	: 혹시 &name1&님 샐러드랑 뀐아망도....??
+P0 	: 맞아요
+P1 	: ㅋㅋㅋㅋㅋ대박 ㅋㅋㅋㅋㅋ
+P0 	: 대박 빵 또 뭐사셨어요
+P1 	: 저 한 번 주문취소당햇잖아요
+P0 	: 헐왜요
+P1 	: 버터꿀식빵?
+P1 	: 그거 품절이라서
+P0 	: 그것도 맛있는데
+P1 	: 취소한다고 해서 상미종으로 다시 골랏어요
+P0 	: 와 식빵을 잘 아시네요

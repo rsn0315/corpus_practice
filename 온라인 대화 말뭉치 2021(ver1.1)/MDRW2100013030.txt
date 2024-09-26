@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100013030
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 벌써 12번이 됐나요ㅎ
+P0 	: 네네 여행좋아하시나요
+P1 	: 네에 좋아하는 편인데 요새는 못가고있네요 여행좋아하시나요?
+P0 	: 네네 좋아해요
+P1 	: 가본신곳중에서 제일 좋았던데가 어디세요?
+P0 	: 대만이요!
+P1 	: 우왕ㅋㅋ대만 저도 좋아해요ㅋㅋㅋ타이페이말고 다른지역도 가보셨나요?
+P0 	: 아뇨, 가오슝 가보고싶네요
+P1 	: 타이페이만 4번가서ㅜ
+P0 	: 오 네번 우육면 먹고싶네용
+P1 	: ㅋㅋㅋㅋ아쉽지만 네번 우육면 못먹었네요
+P0 	: 헉 진짜맛있던데

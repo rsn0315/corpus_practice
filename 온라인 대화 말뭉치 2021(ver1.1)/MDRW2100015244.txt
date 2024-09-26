@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015244
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 바람이 차가워져서 그런지 목이 칼칼하네
+P0 	: 목 아픈 건 아니고?
+P1 	: 좀 따끔거려.. 감기 걸리면 안되는데ㅠ
+P0 	: 소금물 가글이라도 하고 자
+P1 	: 그럴까?
+P0 	: 베타딘도 뿌리고
+P1 	: 요즘 같은 때에 감기 걸리면 큰일이니
+P0 	: ㅇㅇ 미리미리 예방해야 돼
+P1 	: 운동 시작하면 꼭 감기걸린 것처럼 이러더라 ㅎㅎ
+P0 	: 몸이 너무 약해서 그래
+P1 	: 내일 일어나면 멀쩡하면 좋겠네
+P0 	: 혹시 모르니 감기약도 먹고 자던지
+P1 	: ㅎㅎ 감기약은 증상 더 심해지면 먹을께
+P0 	: 그랴.. 일단 소금물 가글부터 고고
+P0 	: 온라인 수업 때문에 그런지 아침부터 심하던데

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211101
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 충북
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P1 	: 곧 저녁시간인데 저녁식사 하시나요~?
+P0 	: 아직이요.
+	  조금 이따가요!
+P1 	: 그렇군요..! ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되시나요??
+P0 	: 요즘은 넷플릭스 보기요ㅎㅎ
+P1 	: 요즘 넷플이 인기가 많아서 다들 많이 보는 것 같아요..! ㅎㅎ
+P1 	: 주로 어떤 것 보시나요?ㅎㅎ
+P0 	: 뒤늦게 오징어게임 봤어요 ㅎㅎ
+P1 	: 아아 오징어게임 엄청 히트쳐서 할로윈때도 오징어게임 코스프레한 사람들이 많더라구요 ㅠㅠ
+P1 	: 전 아직도 못봤는데..! 오징어게임 재미있나요?ㅎㅎ
+P0 	: 네 아직 스포 조심하셨으면 재밌게 보실꺼에요!
+P1 	: 헉 그렇군요..! 재밌게 볼 수 있을 것 같아요 ㅎㅎㅎ 저도 꼭 봐야겠어요..!ㅎㅎ 그러면 오겜 다 보시면 이제 어떤 거 보시나요?ㅎㅎ
+P1 	: 주로 디피랑 한소희 씨 나오는 드라마도 재밌다고 들은 것 같아요
+P0 	: 안그래도 주변에서 마이네임 추천해 줬어요!
+P1 	: 역시 마이네임도 인기가 많네요! 넷플이 요즘 재밌는 걸 많이 하고 있는 것 같아요

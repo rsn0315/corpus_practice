@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030370
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 무슨돈
+P0 	: 코인하고 남은돈
+P1 	: 열심히 원금복구하는 중이지
+P1 	: 엄마가 잃은건데 왜 내가 복구해줘야되는지 모르겠어
+P0 	: 부탁혀 너무 많이 잃었어
+P1 	: 복구해주면 뭐해줄거야
+P0 	: 복구해주면 반줄게
+P1 	: 그럼 열심히 해볼게
+P0 	: 요즘 장이 어때
+P1 	: 요즘 장 좋아
+P1 	: 할만해
+P0 	: 그럼 나도 다시 들어갈까
+P1 	: 아니 엄마는 하지마 그냥...
+P1 	: 나 몰래 산것도 물려있더만
+P0 	: 어떻게 알았어
+P1 	: 말안한다고 모를줄알아!!

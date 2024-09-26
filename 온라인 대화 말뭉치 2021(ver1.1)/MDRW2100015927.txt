@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015927
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 흰머리좀 뽑아줘
+P0 	: 벌써 났어?
+P1 	: 그럼
+P1 	: 금방나지
+P0 	: 얼마전에 잘라줬잖아
+P1 	: 벌써 몇개월됐어
+P0 	: 그래?
+P0 	: 염색은 왜 안해?
+P1 	: 염색 많이 하면 안좋아
+P0 	: 왜?
+P1 	: 머리 상하잖아
+P0 	: 그럼 흰머리 뽑는건?
+P1 	: 뽑는것도 안좋아
+P0 	: 그럼 잘라야해?
+P1 	: 짧게 자르는게 제일 좋아
+P0 	: 엄마 머리가 너무 풍성해서 한가닥 잡아서 짧게 자르는게 어려워
+P1 	: 많이 하면 늘어
+P0 	: 흰머리 많아?
+P1 	: 여러가닥 났지
+P1 	: 미용 가위로 잘 잘라봐
+P0 	: 우리집에 미용가위있어?
+P1 	: 얼마전에 샀어
+P0 	: 왜??
+P0 	: 그냥 가위는?
+P1 	: 그냥 가위보다 미용가위로 자르는게 너도 편할거야
+P0 	: 그래? 그럼 그래야지
+P1 	: 그래 빨리 잘라줘
+P0 	: 알겠어

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: &name1&이다
+P0 	: &name2&다!!!
+P1 	: (아니면 어짜지
+P1 	: 맞다
+P0 	: 우리 &name3&는 요즘 살이 계속 찌고 있어..
+P0 	: 아
+P1 	: 쳇(?)(어원 삐지기 없기)
+P1 	: 다들 오동통 시기인가
+P1 	: 어제 동생이 줬는데 안 먹은 척 해서 엄마도 줌 ㅜ
+P0 	: 헐 &name4&도?
+P1 	: 냉장고에 간삭 카운팅 칠판 만들어야겠어
+P0 	: ㅋㅋㅋㅋㅋ고양이들은 똑똑해
+P1 	: 맞아
+P0 	: 오 그거 진짜 괜찮은 아이디어인데
+P1 	: 오늘은 멸치 박스 뜯음
+P1 	: 그치?
+P0 	: 우리집도 할머니 할아버지가 복자 이쁘다고
+P1 	: 근데 실행에 옮기지 않아...
+P1 	: 흑흑 &name3&
+P1 	: 네...?
+P0 	: 흑흑
+P0 	: 아
+P1 	: 연예인 간접체험

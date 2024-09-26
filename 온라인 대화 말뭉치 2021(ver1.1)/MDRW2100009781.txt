@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009781
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드셨나요?
+P1 	: 네 빵이랑 우유 먹었어요
+P1 	: 아침 드셨어요?
+P0 	: 네 시리얼 먹었어요
+P0 	: 좋아하는 음식을 뽑자면 무엇이 있나요?
+P1 	: 봉골레스파게티요!
+P0 	: 파스타 좋아하시는구나! 봉골레파스타는 가게마다 갭이 큰편이잖아요 봉골레의 어떤점이 좋으세요?
+P1 	: 네네 맞아요 전 조개 식감이랑 약간 짭조름하고 고추의 매콤함이 좋더라구요
+P0 	: 저도 특유의 매콤함이 깔끔해서 좋아해요
+P1 	: 넹 전 토마토 스파게티도 좋아하는데 버터 잔뜩 넣어 풍미가득하게 먹는거 좋아해요
+P0 	: 토마토 로제 크림 오일 중에 뭐가 제일 좋으세요?
+P1 	: 로제가 맛있는거 같아요!
+P1 	: 어떤거 좋아하세요?
+P0 	: 저는 오일 좋아해요 근데 유독 오일은 조리법이 간단해서 밖에서 주문해서 먹기 아쉬워요
+P0 	: 집에서 해서 먹어도 된다는생각이 들어서요
+P1 	: 사실 오일토마토는 한번도 안먹어봤는데 조리법이 간단하다니 한번 만들어보고 싶네요
+P1 	: 알리오올리오에 토마토 합친 느낌인가요?
+P0 	: 오일토마토는 잘모르겠구요
+P0 	: 알리오 올리오가 오일파스타의 제일간단한 형태예요
+P1 	: 그런가요  알리오 올리오는 자주 만들어 먹어요!
+P1 	: 마늘 잔뜩넣고 먹으면 맛있더라구요

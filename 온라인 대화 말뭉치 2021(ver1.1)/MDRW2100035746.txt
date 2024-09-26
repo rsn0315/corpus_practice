@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100035746
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: &name2&님은 먹는 거 좋아하시나요?!
+P1 	: 네! 고기는 없어서 못먹을정도로 좋아해오ㅋㅋㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 헐!! 저두요 ㅎ.ㅎ 저 완전 고기 킬러!
+P0 	: 싫어하는 음식도 있으신가요?!
+P1 	: 오!! 어떤 고기 제일 좋아하세요?
+P1 	: 싫어하는건 그린빈이요!
+P0 	: 으악 저도 콩 완전 극혐해요
+P0 	: 저 소고기도 좋아하고 돼지고기 삶은 거!
+P0 	: 제일 좋아해요!! 수육이요
+P1 	: 오오!
+P1 	: 수육에 칼국수는 어떠신가욥?!
+P0 	: 헐 ㅠㅠ 너무 맛있겠다
+P0 	: 칼국수 다 먹고 죽 먹어야하는 거... 아시죠!!.!!
+P1 	: 그럼요 그러묘! 역시 맛 잘 아시는 분!
+P1 	: 싹싹 먹어줘야 한끼죠!
+P0 	: 맞아요... 그러고 디저트 때려야하는 고 아시죠...?
+P0 	: 디저트 좋어하세요?!!
+P1 	: 아 역시...
+P1 	: 이모티콘 안날릴 수 없네요
+P1 	: 저 케이크에 빠져서 뒤돌아서면 먹고싶어져요ㅋㅋㅋㅋ
+P0 	: 헐헐 저도 케이크 중독자요.....
+P0 	: 어떤 맛 제일 좋아하세요?!
+P1 	: 요즘 티라미스가 그렇게 맛있더라구요
+P1 	: &name1&님은요?
+P0 	: 헛 저는 크림치즈를 안 먹어서 ㅠ.ㅠ !!!!!! 그건 못 먹고
+P0 	: 앗 전 크림치즈를 안 먹어서 티라미수는 못 먹고
+P0 	: 딸기맛 엄청 좋아해요!!

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠 좋아해여?
+P0 	: 배구랑 양궁 좋아해요!
+P0 	: 얼마전에 한 도쿄올림픽 보셨어요?
+P1 	: 네 양궁 잼나요
+P0 	: 양궁 진짜 재밌었던거 같아요
+P1 	: 대박이져
+P0 	: 이번에 출전한 선수분들은 앞으로가 기대되는 분들이 많아서
+P0 	: 다음 파리올림픽이 기대돼요
+P1 	: 네 잘하드라요
+P0 	: 내년에 베이징 하게 올림픽하니
+P0 	: 벌쎠 기대되네요
+P1 	: 저도여
+P0 	: 스포츠 어떤거 좋아하세요?
+P1 	: 축구여
+P0 	: 내년에 월드컵도 하잖아요!
+P1 	: 그르니까요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 김동률 콘서트 티켓팅은 어려운 편인가요?
+P1 	: 네 빛의 속도입니다
+P0 	: 콘서트는 뭐든 다 그런거같아요
+P0 	: 저는 사실 김동률 소속 팜뮤직 다른 가수들은 진짜 좋아해요
+P1 	: 오 누구요?존박이 있나요
+P0 	: 이적이랑 존박 곽진언 입니다 ㅎㅎ
+P0 	: 김동률님은 제가 잘 모르는데 나머지 식구들은 cd도 다있네요
+P1 	: 아 다 좋네요...ㅎ 이적이랑 했던 카니발 노래도 좋아해요 아세요?
+P0 	: 네 카니발 앨범도 있어요
+P0 	: 패닉도 좋아하구요 ㅎㅎ
+P1 	: 아 명반인듯해요..ㅎ
+P0 	: 네 ㅎㅎ &name2&님은 다른 가수는 누구를 좋아하시나요?
+P1 	: 나얼이요
+P0 	: 아 그러시구나
+P0 	: 요새애들은 나얼도 모르더라구요
+P1 	: 아 그렇죠 워낙 방송은 안하니
+P0 	: 네 콘서트위주로 하다보니 아쉬워요

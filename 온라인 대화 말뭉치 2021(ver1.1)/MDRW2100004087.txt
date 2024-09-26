@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100004087
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나가 종식되면 가고 싶은 곳이 있으신가요?
+P1 	: 스페인이요
+P1 	: 가우디 보고싶어서요
+P1 	: &name1&님은요?
+P0 	: 저는 친구들이랑 괌에 가보고 싶어요
+P0 	: 예쁜 바다를 보고 싶어서요
+P0 	: 바다 좋아하시나요?
+P1 	: 저는 바다근처 살고있어서
+P1 	: 좋아하긴 하는데 찾아가진 않는 편이에요
+P1 	: 바다가시면 주로 뭐 하시나요
+P0 	: 바다 근처에 사시는군요
+P0 	: 물놀이하고 맛있는 것도 먹고 그래요
+P0 	: 사실 어릴 때 간 기억 뿐이라
+P0 	: 친구들이랑 가면 스쿠버다이빙이나 수상스키 같은 걸 해보고 싶어요
+P1 	: 그런거 너무 재밌죠
+P1 	: 액티비티하고 재밌고
+P1 	: 바다로 놀러간다면 음식은 어떤거 드시나요?
+P1 	: 보통 회 드시던데
+P0 	: 저도 회 먹었어요! 칼국수도 먹고
+P1 	: 너무 맛있었겠다
+P0 	: &name2& 님은 회 좋아하세요?
+P1 	: 네 회 좋아해요 놀러가면 꼭 먹어요
+P1 	: 조개구이랑
+P0 	: 아 조개구이 좋죠!
+P0 	: 저는 가리비가 그렇게 맛있더라고요
+P1 	: 아 알죠알죠
+P1 	: 달큰함이 있잖아요
+P1 	: 바다가면 꼭 먹어줘야해요
+P0 	: &name2&님은 어떤 조개 좋아하세요?
+P1 	: 저도 가리비좋아해요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003790
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이마트 이용하지 않아?
+P0 	: 이마트가 상품이 다양하긴한데 야채는 지에스가 넘사벽이야
+P1 	: 그래? ㅎㅎ
+P0 	: ㅇㅇ 게다 100원에 파는 야채가 있어서 완전 꿀임
+P1 	: 오오 좋네
+P0 	: 지에스가 할인도 많이하고 품질도 좋아서 할인쿠폰 있을 때 쓰면 좋아
+P1 	: ㅇㅇ 포장도 깔끔한 것 같더만
+P0 	: ㅇㅇ 근데 문구용품이나 잡화는 확실히 이마트가 한수 위야
+P1 	: 글쿠만 ㅎㅎ
+P0 	: 요즘 심플리쿡이랑도 요리 잘 나와서 지에스 많이 쓰게 되네 ㅎㅎ
+P1 	: 마트별로 잘 골라서 사면 되지 ㅎㅎ
+P1 	: 어차피 4만원 이상 사면 무료배송 아냐?
+P0 	: 그렇지 따로따로 사도 돼 ㅎㅎ
+P1 	: 좋은 방법이네 ㅎㅎ
+P0 	: 어제 저녁에 애들 재우는데 선풍기에서 덜덜 소리나더라

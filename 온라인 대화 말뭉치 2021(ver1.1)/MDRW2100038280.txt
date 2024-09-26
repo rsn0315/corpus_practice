@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100038280
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&님은 좋아하는 계절 있나요?
+P1 	: 안녕하세요 ~
+P1 	: 전 가을이요
+P1 	: &name1&님은요?
+P0 	: 저와 같네요~
+P0 	: 전 단풍땜에 좋아해요.. 님은요?
+P1 	: 전 날씨가 그냥 시원해서요 ㅎㅎ
+P1 	: 그럼 싫어하는 계절은요?
+P0 	: 저는 여름이 싫어요.. 더위를 타거든요
+P1 	: 엇 저두요
+P1 	: 여름은 너무 더워요
+P0 	: 계절 취향이 똑같네요..ㅎㅎ
+P0 	: 가을은 먹거리가 풍부한 느낌이라 더 좋죠
+P0 	: 가을 먹거리 중에 좋아하는 거 있나요?
+P1 	: 저 밤이요ㅋㅋㅋㅋㅋㅋ
+P1 	: 이건 겨울인가요??...
+P0 	: ㅎㅎ 그러게요.. 어디라고 해야할까요? 저는 감 좋아해요
+P1 	: 감 맛있죠!!!!
+P0 	: 네..  감중에 곶감 좋아해요.. &name2&님은요?
+P1 	: 전 홍시요ㅋㅋㅋㅋ
+P1 	: 떫은 건 말구요
+P0 	: 맞아요.. 단감이나 홍시는 떫은게 걸릴 수 있어요

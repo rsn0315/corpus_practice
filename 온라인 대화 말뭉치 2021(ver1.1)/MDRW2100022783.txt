@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 구매 물건이 어떻게 되세요??
+P0 	: 최근에 핸드폰 바꿨습니다 ..!
+P1 	: 우와 좋겠어요! 어느걸로 바꾸셨나요??
+P0 	: 플립으로 바꿨어요 너무 예뻐서요 ㅠㅠ
+P1 	: 아 저도 플립 사고싶어요ㅠ 색은 어떤걸로 하셨어요??
+P0 	: 라벤더랑 크림 고민하다가 크림 샀어요
+P0 	: 이번에 너무 예쁘게 나오지 않았나요 ㅠㅠ
+P1 	: 진짜 이뻐요!!
+P1 	: 갤럭시워치도 사셨어요??
+P0 	: 아뇨! 시계를 안 차고 다녀서 안샀어요 ㅎㅎ
+P0 	: 체험은 해봤는데 좋더라구요.. 인바디가 되는 시계라니 멋져요..ㅠ
+P1 	: 저희 언니도 플립 샀는데 아직 안 왔더라구요
+P1 	: 부러워요!
+P1 	: 또 사고 싶은 거 있으세요??
+P0 	: 저도 아직 안왔어요 ㅠㅠ.. 좀 슬프죠
+P0 	: 가을옷 장만하려구요! 가을 옷 쇼핑하셨나요?
+P1 	: 가을옷 아직이요! 무스탕 살까 말까 고민중이에요
+P0 	: 오 맞아요 가을은 겉옷종류가 많아서 좋아요ㅎㅎ
+P0 	: 하나 장만하셔요..!
+P1 	: 좋아요!
+P1 	: 주로 어디서 쇼핑하세요??
+P0 	: 저는 겉옷은 역시즌하는거 많이 구입하고 다른건 인쇼나 무신사 많이 이용해요!

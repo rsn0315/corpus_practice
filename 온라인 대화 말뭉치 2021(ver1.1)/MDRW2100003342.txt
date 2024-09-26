@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여름휴가는 다녀오셨나요?
+P1 	: 아니요  가을에 강원도 강 생각이에요
+P1 	: 여름휴가 다녀오셨어요?
+P0 	: 저희도 그냥 시골 다녀왔습니다.
+P0 	: 강원도가 확실히 좋지요?
+P1 	: 네 영월 횡성 이쪽을 한번도 안가봤어서 가보려고요 ㅋ
+P0 	: 횡성은 스키장이죠!
+P1 	: ㅎㅎ 한우먹으러가요 저는 ㅋㅋㅋ
+P0 	: 으아 횡성 하면 한우죠ㅋㅋㅋ
+P1 	: 부모님 모시고 바람쐬러 가는거죠 ㅎ
+P1 	: 코로나때문에 유명한 관광지는 못가겠더라고요
+P0 	: 횡성에 월정사 숲 좋아요!
+P1 	: 오 꼭 가볼게요 ㅎㅎ
+P1 	: 우리나라 여행가본데중에 어디가 제일 좋았어요??
+P0 	: 그리고 강원도는 송어회도 좋아요
+P0 	: 제일 좋은 데는 모르겠어요
+P0 	: 그냥 놀면 다 좋아서ㅋㅋ
+P1 	: ㅎㅎㅎ 맞아요 일안하고 놀면 그거만큼 좋은게없죠
+P1 	: 저는 겨울에 동유럽 여행가보는게 소원이에요  크리스마스시즌에 ㅎ
+P0 	: 으아 저는 체코 다녀왔었어요

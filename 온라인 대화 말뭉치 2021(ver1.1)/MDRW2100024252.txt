@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024252
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 여행 좋아하세요?
+P1 	: 네 좋아해요
+P0 	: 여름휴가는 다녀오셨어요?
+P1 	: 이번엔 그냥 수영장(?) 2회요 애들이닌ㆍㅇ
+P0 	: 아무래도 코시국 때문에 여행은 힘드네요^^
+P1 	: 그렇죠 필리핀가고싶다
+P0 	: 필리핀 가보신적 있나봐요
+P1 	: 네 혼자도가보고
+	  애들이랑도가보고
+P0 	: 골프나 스쿠버다이빙 좋아하시는분들이 주로 가던데 취미가 그쪽이신가보네요
+P1 	: 아뇨^^그냥 풀빌라가 애들이랑가기좋아서요
+P0 	: 국내풀빌라 가격이나 동남아 풀빌라 가격이나 비슷하긴하더라고요ㅎ 이번 여름 휴가때 저는 풀빌라로 갔었거든요
+P1 	: 아 국내요?
+P1 	: 가족여행이신가요?
+P0 	: 네 가까운곳 검색해서 갔다왔어요ㅎㅎ
+P1 	: 가족끼리요(?) 부럽다
+P1 	: 내일또이야기해요~늦어서 오늘은..

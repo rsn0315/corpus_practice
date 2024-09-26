@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008667
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 제가 최근에 과자를 샀는데 너무 맛있더라구요!
+P1 	: 오 어떤 과자를 구매하셨나요?
+P0 	: 플립즈라는 과자인데 알고 계신가요?
+P1 	: 아뇨 처음들어봐요
+P0 	: 외국과자라서 그런가봐요~ &name2&님은 최근에 산 물건이 무엇인가요?
+P1 	: 저도 최근에 맛있게 먹은 과자가 있어요!
+P0 	: 오 뭔가요? 이름 알려주세요!
+P1 	: 로투스 바닐라 샌드요!!
+P1 	: 편의점에서 팔아서 가격이 조금 있는데 최근에 먹은 과자중에 제일 맛있게 먹었어요
+P0 	: 오 로투스에 바닐라 크림이 있는건가요? 진짜 맛없으면 안되는 조합이네요
+P1 	: 네네 오레오같이 샌드로 나왔는데 진짜 맛있어요
+P1 	: 그냥 로투스는 좀 달다고 느껴졌는데 샌드는 괜찮더라구요
+P0 	: 혹시 어디에서 파는지 알수 있을까요?
+P1 	: 저는 cu에서 자주 사요!
+P0 	: 알려주셔서 감사해요~! 다음에 cu 갈 때 사볼게요

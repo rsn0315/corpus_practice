@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026265
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 네 좋아해요. &name2&님은요?
+P1 	: 저는 원래 집순이었는데 코로나 이후에 못간다고 생각하니까 갑자기 막 가고싶어졌어요ㅠㅠ
+P0 	: 아 저도 가족이 해외에 있어서 얼른 해외여행 나가고 싶어요
+P1 	: 오 어느 나라에 계신지 물어보면 실례일까요?
+P0 	: 중국이요 ㅋㅋ
+P0 	: 중국 가는 김에 딴 나라도 여러곳 들러서 길게 여행하고싶어요
+P1 	: 아 여행은 역시 길게죠ㅋㅋㅋ
+P0 	: 맞아요ㅋㅋ 직장다니면서 그게 가능할지 모르겠지만 꿈은 길게 여행하기입니다ㅋㅋ
+P1 	: 요즘에 막 한달살기 이런것도 유행이잖아요ㅋㅋ 해보고싶어요!
+P0 	: 맞아요 그것도 시간 돈 있는 사람이나 가능한 것 같아요
+P1 	: 아 맞아요맞아요ㅠㅠ 집떠나면 다 돈이죠ㅠㅠ
+P0 	: 그쵸 얼른 여유로워졌음 좋겠어요
+P1 	: 저는 해외여행이 풀리고 여유가 생기면 꼭 동남아에 가보고싶어요 거기 과일이 그렇게 맛있대요
+P0 	: 맞아요 뭔가 새로운 장소에서 새로운 경험을 하고 싶죠
+P1 	: 진짜 그게 여행의 참맛인거 같아요 일상속에서는 못해보는 일들을 겪는거!
+P0 	: 맞아요 일상생활과 다른 경험을하고 싶어요ㅋㅋ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100009892
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 스포츠 경기 직관한적 있으세요?
+P0 	: 직관은 한번도 못 해봤어요
+P0 	: &name2&님은 가보신 적 있으신가요??
+P1 	: 저는 야구경기 보러간적 있어요
+P0 	: 재미있었겠어요ㅎㅎ 그날 응원하시는 팀이 이겼나요?
+P1 	: 롯데여서 이기진 못했어요
+P1 	: 슬픈 일이죠
+P0 	: 아ㅠㅠㅜㅠㅜㅠㅜㅠ이럴수가
+P0 	: 야구는 잘 모르는데 이번 올림픽 데드볼이 너무 웃겼어요
+P1 	: 저도 야구는 잘 모르는데
+P1 	: 배 치고 나가는거 웃겼죠
+P0 	: 맞아요 그걸로 이긴것도 웃기고ㅋㅋ
+P0 	: 배구도 엄청 흥미진진하게 봤는데 마침 오늘부터 코보컵 시작이라 하더라구요
+P0 	: &name2&님도 배구경기 보셨나요?
+P1 	: 저는 클립만 봤어요
+P1 	: 코보컵 시작하나요!
+P0 	: 네 오늘부터래요!
+P0 	: 올림픽도 출전했던 선수들은 되게 피곤하겠어요
+P1 	: 그러게요 몸 아프겠다
+P0 	: 괜히 더 부상입는 건 아닌지 걱정도 되고요...
+P0 	: 일요일이 결승이라니까 그건 꼭 봐야겠어요!

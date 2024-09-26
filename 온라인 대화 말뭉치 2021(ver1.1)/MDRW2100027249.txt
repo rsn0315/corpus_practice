@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일은 어떠세요 ㅎㅎ
+P1 	: 아직 학생이라서 일은 안해요
+P1 	: &name1&님은요?
+P0 	: 아 학생이시군요 ㅎㅎ
+P0 	: 저는 직장인입니다 ㅋㅋ
+P1 	: 어떤 일 하고 계세요?
+P0 	: 저는 &affiliation&에서 일하고 있어요 ㅎㅎ
+P1 	: &affiliation&이요?
+P0 	: 네 &affiliation&이요ㅎㅎ
+P1 	: 무슨 일 하세요? 혹시 운전사...?
+P0 	: 아니요 ㅋㅋ&others&에서 있슴니당
+P1 	: 그러면 &others& 관리하고 계신가요
+P0 	: 네 그렇죠 ㅎㅎ
+P1 	: 멋있으세요
+P1 	: 저 지하철 자주 타서 그런분 자주 뵙거든요
+P0 	: ㅋㅋㅋ멋은요
+P0 	: 다 먹고 살자고~~
+P0 	: 하는겁니다 ㅋㅋ
+P1 	: ㅋㅋㅋㅋ 그것도 맞죠
+P1 	: 그런 분 마주치면 자주 인사드려야겠어요
+P0 	: 감사합니다. 진로는 어디쪽 생각하시나요

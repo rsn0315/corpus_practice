@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 여보, 오늘은 뭐해 먹을까요?
+P0 	: 어제 먹나 남은 족발 어때?
+P1 	: 그거도 먹고 또 뭘 할까오
+P0 	: 난 매콤한 것도 좋은데 김치볶음 어때?
+P1 	: 좋아요 그리고요?
+P0 	: 냉장고 보니까 나물재료도 있더만
+P1 	: 나물도 무칠게요
+P0 	: 난 밥 해놓을게
+P1 	: 너무질게하진말아요
+P0 	: 난 고들밥 시른더
+P1 	: 그래도 죽밥처럼 되면 안되니까요
+P0 	: 알았어 물양 잘 맞춰볼게
+P1 	: 더 필요한 것 없죠?
+P0 	: 응 점심은 그렇게 먹고 저녁은 시켜먹자
+P1 	: 그래요

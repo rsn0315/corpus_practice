@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012213
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택근무 하셨나요?
+P1 	: 아뇨 집에서 일해본 적이 없어요
+P1 	: &name1&은 재택근무 해 보셨나요?
+P0 	: 네 2개월 정도 해봤어요
+P1 	: 어떠셨나요? 재택근무 힘들어하는 사람들이 생각보다 많더라구요
+P0 	: 저도 힘든 부분이 있었네요
+P0 	: 집중 안되는거?
+P1 	: 맞아요 편한 집중 안 될 환경이라고 그러더라구요
+P1 	: 재택근무 장점은 뭐라고 생각하세요?
+P0 	: 상사를 안봐도 된다는거요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 그쵸 회사에서면 받았을 업무외적인 스트레스를 안 받아도 되겠네요
+P1 	: 그러면 재택근무랑 회사 출근 중에 선택하라 하면 어떤 거 고르시겠어요?
+P0 	: 재택근무요 &name2&은요?
+P1 	: 저는 집중 못 하는 환경에 있으면 진짜 아무것도 못해서
+P1 	: 출근 쪽이 더 나을 거 같아요
+P0 	: 집중 안될때는 어떻게하시나요
+P1 	: 잠깐 물 마시고 오거나 초콜릿 같이 단 거 입에 넣는 거 같아요
+P1 	: &name1&은 재택 근무 하면서 집중 안 될 때 어떻게 하시나요?
+P0 	: 산책해요

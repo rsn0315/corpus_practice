@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100039922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨. 전 양가도 다 30분내로 갈 수 있어서요..
+P1 	: &name1&님은요?
+P0 	: 저는 반대로 워낙 멀어서 못가고 계획이 없어요
+P0 	: 시골이라 거기서도 외지인 오는걸 안반기고요..
+P1 	: 그렇겠네요 ㅠ
+P1 	: 집 근처 공원이라도 가시는건 어떠세요?
+P0 	: 벌써 방콕할 휴가가 두려워요
+P0 	: 네 공원정도 둘러보고 지낼 것 같아요
+P1 	: 전 공원에서 텐트치고 놀려고요 ㅋㅋ
+P0 	: 오 텐트치면 확실히 분위기는 더 나겠어요
+P1 	: 막상 오늘이 되니 귀찮네요 ㅋㅋ
+P0 	: 저는 오늘은 과천 과학관 다녀왔어요
+P1 	: 애들이 좋아하죠??
+P0 	: 네 아침일찍 서둘러서 후딱다녀왔어요
+P1 	: 거기도 예약제인가요?
+P0 	: 아니요 그냥 매표해서 가면되는데 유아 체험관만 예약해요
+P1 	: 대전 과학관은 100프로 예약제거든요
+P1 	: 물론 무료이긴 해요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015520
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 무슨 직업 가지고 계세요?
+P1 	: 언론사에서 일해요
+P1 	: &name1&님도 직장인이신가요
+P0 	: 와 멋지네요
+P0 	: 네 직장인이예요
+P1 	: 몇년차세요?
+P0 	: 6년정도 된거같아요
+P1 	: 오 한직장에 계속 계셨나요?
+P0 	: 아뇨 이리저리 세군데요
+P0 	: &name2&님은요?
+P1 	: 두번째  직장이고 십년이 넘었네요
+P1 	: 이직 생각은 있으신가요
+P0 	: 이직 생각은 항상 마음에 품고살아요 ㅋㅋㅋ
+P0 	: 십년인데 두번째라니
+P0 	: 좋은곳인가봐요
+P1 	: 사표를 가슴에 품고 살지요
+P1 	: 게을러서 못 옮기는 거죠
+P0 	: 사람 다 똑같아요ㅜㅜㅜ
+P0 	: 그쵸 그 이직과정이 너무싫어요
+P1 	: 적응할 것도 염려되고요
+P0 	: 맞아요ㅜㅜㅜ

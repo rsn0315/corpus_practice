@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034849
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 반려동물 키우시나요?
+P1 	: 키우진 않지만 좋아해요ㅎ
+P0 	: 저는 고양이 한 마리 키우고 있어요 ㅎ
+P1 	: 고양이 정말 귀엽겠네요ㅠㅠ 어떤 고양이인가요?
+P0 	: 삼색고양이에요 ㅎㅎ
+P0 	: 무릎에 앉아있는데 너무 덥습니다... ㅎㅎ
+P1 	: 오 그럼 암컷인가요? 정말 부럽네요ㅜㅜ 더워도 좋으니 키우고 싶네요ㅠㅠ
+P0 	: 저희 애는 수컷이에요!
+	  병원에서 암컷이래서 데려왔는데 키우고보니 수컷이네요 ㅎㅎ
+P1 	: 그럴수도 있나요?ㅋㅋㅋ 삼색이는 거의 암컷이라는 얘기를 본거같은데 수컷이라뇨 정말 신기하네요
+P0 	: 눈도 못 뜰때 데려가서 티도 안나는데, 잠복고환이라 더 안보였대요 ㅎㅎ
+P0 	: 삼색이라 암컷이겠거니 했던 것도 있다고 하셨어요ㅎㅎ
+P1 	: 그렇군요ㅎㅎ 수컷이 삼색이중 1퍼라는데 로또네요!
+P1 	: 고양이는 입양하셨나요?
+P0 	: 아파트에 길냥이들이 많아서 밥 챙겨 주고 하다가
+P0 	: 근데 어미가 아픈 애 둘을 버리고 떠나서 같이 돌봐주던 분이랑 한 마리씩 데려왔어요!

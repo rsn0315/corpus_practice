@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043753
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네! 저는 짠거용!!! 국물이나 ㅎㅎ
+P0 	: 오 짠거 어던게 있을까요?
+P1 	: 생각해보니까 과자요!! 과자는 거의 짠거같아요 ㅋㅋ
+P0 	: 오 안주로 괴지를!!
+P1 	: 맥주랑 먹어요!!
+P0 	: 저는 한치나 먹태같은 해산물 좋아하는거같아요!
+P0 	: 저도 맥주와 함께!
+P0 	: 어떤 맥주 가장 좋아하세요?
+P1 	: 저는 아무거나 주워 먹어요 ㅋㅋㅋ 잘 안먹기도해서
+P1 	: &name1&님은요?
+P0 	: 저는 한치나 먹태같은 생선 좋아해요!!
+P0 	: 잘 안먹으시는군요!
+P0 	: 자도 사실 완전 알쓰라 자주 멋지는 않아요 ㅎㅎ
+P1 	: 주량이 얼마나 되세요?
+P0 	: 저는 소주는.. 한병..? 이 진짜 맥스인거같아요..
+P0 	: &name2&님은요?
+P1 	: 와 저는 소주 한잔이요...!!!!
+P1 	: 얼굴이 엄청 빨개져요 ㅋㅋㅋ
+P0 	: 와!! 저도 비슷햐요 ㅠㅠ 글구 심장 엄청 빨리뛰고..
+P0 	: 그래서 더 안먹게되는것도 있는거같아요
+P1 	: 오오 대박

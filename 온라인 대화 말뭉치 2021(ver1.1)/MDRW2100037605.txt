@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100037605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 크리스마스에 받고 싶은 선물있나요?
+P0 	: 예쁜 코트 받고 싶어요
+P1 	: 누구에게요?
+P0 	: 그냥 코트를 받고 싶어요 누구는 상관없구요
+P1 	: 겨울에 따뜻하게 입을 수 있어서 좋겠네요!!
+P0 	: 중고나라 자주 하시나요?
+P1 	: 예전에 아이 옷 구매한 적은 있어요.
+P1 	: 중고 거래 하시나요?
+P0 	: 기프티콘 가끔 팔았어요
+P1 	: 아. 중고나라요? 당근에서도 많이 판다던데 당근도 하세요?
+P0 	: 기프티스타 니콘내콘에서 팔았어요
+P1 	: 전 기프티스타에 주로 판매해요
+P0 	: 팔기편하게 되어있더라구요

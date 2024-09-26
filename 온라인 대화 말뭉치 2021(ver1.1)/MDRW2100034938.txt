@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034938
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직업적으로 스트레스는... 같이 일하는 선배님들이 지시하는 게 다른거요ㅎ
+P0 	: 아 그런 스트레스도 있군요
+P1 	: 네...ㅋㅋ &name1& 님은 있으신가요?
+P0 	: 특별히 직업적인 스트레스는 없는것 같아요
+P1 	: 그럼 &name1& 님은 지금 일하는 곳에서 얼마나 일하셨어요?
+P0 	: 지긍은 7년째 일하고 있어요
+P1 	: 오오 이직 생각 없으시나여
+P0 	: 좀 힘든점도 있긴해도 지금이 좋아요
+	  아직 이직 생각이 없네요
+P0 	: 이직을 생각하시나요 ?
+P1 	: 전 이직보다는 그냥 그만 두고 싶네요
+P0 	: 신중히 생각하세요
+P0 	: 어딜가도 코로나로 무척 힘들어요
+P1 	: 알바라서 딱히 간절하다는...??? 생각이 잘 안 드는 거 같아요ㅠㅠㅠㅋㅋㅋㅋ 코로나라 힘들긴 하지만요
+P0 	: 스트레스가 많고 힘든가요?
+P0 	: 무슨 일이듯 다 힘들고 스트레스는 있죠
+P1 	: 네 좀 스트레스네요 ㅣㅋㅋㅋㅋ 파이팅해야죠

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046551
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211029
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+	  요즘 즐겨하시는 운동있으신가요? 바디프로필 찍는다고 운동하는 친구들이 부쩍 늘어났더라구요 ㅎㅎ
+P0 	: 전 탁구 치고 있어요
+P1 	: 우와 탁구는 누구랑 같이 치나요?
+P0 	: 와이프요 ㅋㅋ
+P1 	: 두분 다 잘 치나요? 저는 탁구 쳐보고 싶었는데 한번도 기회가 안됐네요..
+P0 	: 아니요 둘다 실력이 고만고만해요 ㅋ
+P0 	: 그래서 더 재밌는듯
+P0 	: 탁구 꼭 쳐보세요
+P0 	: 진짜 재밌어요
+P1 	: 같이 쳐줄 친구들이 없어서 더 기회가 없었나봐요 ㅋㅋㅋㅋ
+P1 	: 탁구는 언제부터 치셨어요?
+P0 	: 군대에서 처음 쳐봤어요
+P1 	: 군대 선임이나 동기들한테 배우셨나요?
+P0 	: 네 선임한테 배웠어요
+P0 	: 스트레스 확 풀려요
+P1 	: 운동으로 스트레스 푸는건 좋은것 같아요 ㅎㅎ
+	  저도 운동으로 스트레스를 풀어야 할 것 같아요! 오늘 금요일인데 화이팅하시고 좋은 하루 보내시길 바랍니다:)

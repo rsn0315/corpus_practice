@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012960
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 웹툰 보시나요
+P1 	: 네 저는 네이버 웹툰 좋아해요
+P0 	: 네이버 웹툰 어떤 거 좋아하시나요?
+P1 	: 장르물 다 좋아해요 공포물 로맨스 코믹 !
+P0 	: 웹툰 하나 추천해주실 수 있나요?
+P1 	: 어떤 장르 좋아하세요 ?
+P0 	: 저는 딱히 가리지 않아요
+P0 	: &name2&님이 보셨을 때 재밌는 거 하나 추천해주세요
+P1 	: 저는 요즘 기기괴괴 보고있어요!
+P1 	: 평소에 책 읽으세요?
+P0 	: 시간 날 때 읽으려고 하는 편이에요
+P0 	: &name2&님은 책 읽으시나요
+P1 	: 저는 책은 안읽어요 그림이있어야 합니다 ㅎㅎ
+P1 	: 좋아하는 작가 있으세요?
+P0 	: 어.. 작가 성함은 잘 기억하지 않는 편이라..
+P0 	: 그냥 책을 폈을 때 재밌으면 그 때 그 때 읽는 편이에요..
+P0 	: 좋아하는 작가님 있으세요?
+P1 	: 저는 예전에 정은궐 작가님 좋아했어요!!
+P0 	: 아 해품달 작가님
+P0 	: 그 성균관유생들의 나날 쓰신분..

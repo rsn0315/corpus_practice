@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 공연 보는 걸 좋아하시나요?
+P1 	: 공연은 잘 안보러 다녀요
+P1 	: 추천해주실 수 있나요
+P0 	: 아 요즘은 온라인으로도 공연을 많이 볼 수 있더라고요
+P1 	: 맞아요 좋은 세상이네요
+P0 	: 네이버 공연 같은 곳에서 한번 둘러보시면서 흥미있는 것 보셔도 좋을 듯해요
+P1 	: ㅋㅋㅋ근데 집에서 보려면 집중력이 필요하더라구요
+P1 	: 온라인으로도 많이 보셨어요?
+P0 	: 몇번 티비 연결해서 관람했어요
+P0 	: 뮤지컬 보는 것 좋아해서
+P0 	: 주로 뮤지컬 쇼케이스나 실황 중계 봤어요
+P1 	: 와 뮤지컬 좋아하시는군요  전 피아노 공연 온라인으로 봤어요
+P0 	: 오 피아노 공연도 좋죠
+P0 	: 공연장 가서 관람하는 것보단 덜해도
+P0 	: 집에서 편하게 볼 수 있는 건 좋더라고요~
+P1 	: 방구석 1열도 나름 매력있는 것 같어요
+P0 	: 네 방구석 1열 관람
+P1 	: 코로나 끝나면 근데 가고싶은 공연은 많아요ㅋㅋㅋ
+P0 	: 어떤 공연이요?
+P1 	: 아이유나 악뮤나 장범준
+P1 	: 아이유 특히 가고싶어요
+P0 	: 오 감성뮤지션 좋아하시는구나

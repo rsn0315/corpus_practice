@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100045727
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 자취생인데
+P1 	: 초반에는 열심히 만들어먹다가
+P1 	: 요새는 방탕하게 살고있습니다
+P1 	: 요리 잘하시나요?
+P0 	: 아뇨 완전 허접이지만
+P0 	: 파는 음식이 다 너무 짜서요ㅠㅠ
+P1 	: 맞아요 파는음식은 너무 간이세죠
+P1 	: 저도 짠거 안좋아해서
+P1 	: 제일 잘하는게 뭐세요?
+P0 	: 저는...간단한 거요ㅋㅋㅋ
+P0 	: 도토리묵 같이 걍 섞기만하는거...
+P1 	: 도토리묵을 만들어드세요?
+P0 	: 네 마트에서 사와서
+P0 	: 김이랑 간장이랑해서 버무리면 돼요
+P1 	: 아 저는 도토리묵 자체를 쑨다는지 알았네요 ㅋㅋ
+P1 	: 도토리묵 얘기하니까 묵밥먹고싶네요
+P0 	: 와 그거 맛있죠ㅠㅠㅠ
+P0 	: 청포묵도 먹고싶네요
+P1 	: 청포묵은 뭘로만드는건가요? 갑자기 궁금하네요
+P0 	: 청포로요! 우뭇가사리인가?
+P1 	: 아 그렇군요 이름에 재료가...ㅎㅎ
+P1 	: 저는 도토리묵이 씁쓸헤서 더 맛있는것같아요
+P0 	: 맞아요ㅋㅋ씁쓸한 맛이 있죠
+P1 	: 오늘 점심은 뭐드실
+	   예정이신가요?
+P0 	: 오늘은 돈까스요!
+P0 	: 비오니까 튀김이 땡기네요
+P1 	: 돈까스 맛있겠네오
+P1 	: 저는 낙지볶음 먹으려구요

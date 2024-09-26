@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011857
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택근무 해보셨나요
+P1 	: 저는 작년에만 해봤어요ㅠ
+P0 	: 몇개월 해보셨어요?
+P1 	: 1개월 정도요! 그 이후에는 얄짤 없더라구요
+P0 	: ㅋㅋㅋ 재택근무가 입맛에 맞으셯군요
+P1 	: 일단 출퇴근이 없으니 여유가 늘더라구요
+P0 	: 상사 없으니까 좋죠
+P0 	: 넘사벽장점
+P1 	: 아 그건 정말 인정이요...하지만 연락이 온다죠ㅠㅠ
+P0 	: 으 정말싫네요
+P0 	: 뭐먹을지 고민하는게 힘들어요
+P0 	: 회사에서는 급식 주는데ㅋㅋ
+P1 	: 급식...집에서도 급식이 필요해요ㅠ
+P0 	: 영양균형 맞춘 음식 소중해요..
+P1 	: 집에서는 아무렇게나 먹고 영양제 챙겨먹는 게 더 편하죠ㅋㅋ
+P0 	: 맞아요

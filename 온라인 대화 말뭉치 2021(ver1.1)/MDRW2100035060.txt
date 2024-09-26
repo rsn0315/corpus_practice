@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 나 어제 소개팅 했어
+P0 	: 웬일이야
+P1 	: 처음 해본 소개팅이었어
+P0 	: 연애를 오랜만에 하네
+P1 	: 아직 연애 단계는 아니야
+P0 	: 소개팅 상대는 마음에 들었니
+P1 	: 일단 외모는  취향이었어
+P0 	: 외모가 취향이면 성공적이네
+P1 	: 문제는 성격이야
+P0 	: 어떤 길래 그래
+P1 	: 남에 대한 배려가 부족해
+P0 	: 예시를 틀어줘
+P1 	: 내 얘기를 잘 안듣던데
+P0 	: 매너가 별로네

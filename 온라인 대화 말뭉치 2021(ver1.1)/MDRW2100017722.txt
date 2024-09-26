@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017722
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 항상 힘들지. 퇴근도 늦고.
+P0 	: 과장님은 결국 오늘도 안 나옴??
+P1 	: 응. 다른 데로 이직했대.
+P0 	: 요즘 그 회사 왜 그러냐
+P0 	: 그 청소부 아주머니도 그렇고..
+P1 	: 그러게 말이야. 직원들이 다들 속 썩이네.
+P0 	: 그래서 과장 자리는 어떻게 하기로 했어?
+P1 	: 일단 사람 구한다고 공고 올렸어.
+P1 	: 내일 면접 보기로 하고.
+P0 	: 지원자가 있나 보네~그나마 다행이다
+P1 	: 직원이 너무 자주 바뀌니까 정신없어.
+P1 	: 내 일도 바쁜데 말야.
+P0 	: 왜? 말일이라서 처리할 일이 많아?
+P1 	: 응 세금계산도 해야되고 은행도 다녀와야 돼.
+P1 	: 바빠.
+P0 	: 아 은행 업무도 봐야 되는 구나ㅠ
+P0 	: 과장 얼른 채용해.. 업무 분담이라도 하게ㅠ
+P1 	: 응. 내일 면접이닠가 바로 뽑을 거야.

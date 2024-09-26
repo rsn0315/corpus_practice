@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022129
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 피부 관리 한다고 들었다. 잘 하고 있니?
+P1 	: 아직이요 이제 하려구요
+P0 	: 아빠 보기엔 지금도 괜찮은데
+P1 	: ㅎ ㅎ아빠눈에는 그렇겠지요
+P0 	: 내눈엔 항상 예쁘다
+P1 	: ㅎ ㅎ근데 저 지금 모공이 너무 커져서 관리 하긴 해야해요
+P0 	: 모공 관리까지?
+P1 	: 눈에 띌 정도라서 속상해요
+P0 	: 필요한거 있으면 아빠가 사주마
+P1 	: 정말요? 고마워요^^
+P0 	: 딸래미 필요한건 아빠가 사줘야지
+P1 	: 요즘 피부암도 심각하다던데 아빠도 다른 건 몰라도 썬크림은 꼭 바르세요
+P0 	: 그거 귀찮은데
+P1 	: 근데 오존층이 마니 파괴돼서 안바르면 피부암 생긴다니까 걱정이에요
+P0 	: 그래 그럼 썬크림은 바르려고 노력하마
+P1 	: 퇴원축하드려호

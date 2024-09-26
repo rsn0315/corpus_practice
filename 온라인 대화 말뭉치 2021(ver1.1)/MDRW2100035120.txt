@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035120
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 점심식사하셨나요?
+P0 	: 아니요.. &name2&님은요?
+P1 	: 전 먹었어요
+P0 	: 오 뭐드셧어요?
+P1 	: 엄마가 순대국 포장해오셔서 먹었어요
+P0 	: 오.. 맛잇엇겠네요. 사골국같은 느낌인가요?
+P1 	: 사골국과는 느낌이 다른거같아요
+P0 	: 무슨국 베이스인데요?
+P1 	: 잘 모르겠어요ㅜㅜ
+P0 	: 오 그러시군요..
+	  안먹어본지 오래라 저도 먹고싶네요
+P1 	: 저희집 동네에 순대국집이 하나 있어 가끔 먹게 되더라구요
+P0 	: 저는 어제 유투브에서 순대튀김을 봣는데
+	  맛잇겟더라고요
+P1 	: 집에 반찬들이 없다고 엄마가 친구분과 식사하고, 점심먹으라고 따로 포장해오셨어요

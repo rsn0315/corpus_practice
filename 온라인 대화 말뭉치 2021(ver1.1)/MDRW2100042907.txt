@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042907
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는하셨나요
+P1 	: 네~ 점심으로 비빔밥 먹었어요 !
+P1 	: &name1&님은요 ?
+P0 	: 저는 사과랑단호박먹고과자도먹었어요!ㅎㅎ
+P1 	: 오 사과랑 단호박이라니 맛있는거 드셨네요
+P1 	: 저녁에 뭐드실지 생각해놓으신거 있나요 ?
+P0 	: ㅎㅎ저고민중이에요
+P0 	: 뭐드시나요
+P1 	: 저도 고민중인데 간편하게 배달음식 시킬까 싶어요
+P0 	: 앗비오니까
+P0 	: 쌀국수어떠세요
+P1 	: 헉 쌀국수 ! 먹은지 오래 됐는데 오랜만에 사이공에 시켜 먹어야겠네요
+P1 	: 쌀국수 좋아하시나요 ?
+P0 	: ㅎㅎ좋아해요~%
+P0 	: 반미도좋아요
+P1 	: 반미 한번도 먹어본적 없는데 무슨 맛인지 궁금하네요
+P0 	: 샌드위치좋아하세요?
+P1 	: 좋아해요 !

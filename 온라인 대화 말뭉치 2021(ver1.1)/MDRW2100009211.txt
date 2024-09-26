@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식좋아하세요?
+P1 	: 안녕하세요~ 넵넵 근데 배달비가 부담돼서 자주는 못 먹겠더라구요
+P0 	: 그쵸ㅠㅠ그럼 어떻게드세요 평소에?
+P1 	: 저는 최대한 밖에서 먹고..집에서 간식으로 때워요..
+P1 	: 평소 어떻게 드시나요?
+P0 	: 저도 웬만하면 집에서 먹어요
+P0 	: 배달비가 티클모아 태산이라..
+P1 	: 그쵸 배달비 맞추려다가 돈 더 쓰게되기도 하고요
+P0 	: 맞아요 어떤 맛집 좋아하세요?
+P1 	: 음 오늘은 마라탕 먹었는데 저는 소스 코너가 따로 있는 마라탕집이 좋더라구요
+P1 	: 소스 먹으려고 먹는 음식이라ㅎㅎ
+P0 	: 마라탕 저도 좋아해요
+P0 	: 꿔바로우도 좋아합니다
+P1 	: 오 우오아아앙
+P1 	: 인기메뉴라서 두 메뉴만 딱 파는 집도 있더라구요
+P0 	: 유명한 카페가면 어떤 메뉴드세요?
+P1 	: 저는 카페는 잘 몰라서..요즘 어떤 카페가 유명한가요?
+P0 	: 메종키즈네아시나요?
+P1 	: 아마 의류 브랜드로 기억하는데 맞나요?
+P0 	: 네맞습니다
+P0 	: 근데 카페도 있더라구요!

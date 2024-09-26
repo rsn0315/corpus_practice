@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침에 뭐 드셨나요?
+P1 	: 식빵에 계란,감자샐러드 간단히 먹었어요~
+P1 	: 식사하셨나요?
+P0 	: 오~~맛있으셨겠어요 ㅎ
+P0 	: 저는 토마토쥬스요
+P1 	: 쥬스로 식사가 되시나요?!ㅠㅠ
+P0 	: 일어난지 얼마 안되서 뭐가 안들어 가네요 ㅎㅎ
+P1 	: 아! 저흰 애들 때문에 6시면 기상이라ㅋㅋ
+P0 	: 헙!!주말에 6시!! 아침식사 든든히 드셔야 겠어요
+P1 	: 또 점심시간은 금방 돌아와요
+	  주말이면 밥만 차리고 있는거 같아요ㅋㅋ
+P0 	: 네~~점심메뉴는 정하셨어요?
+P1 	: 점심은..  또 간단히 라면으로ㅋㅋ
+	  비오는 날은 라면이죠!
+P0 	: 오~~라면 좋네요
+P0 	: 국물라면 드실거에요?
+P1 	: 따끈한 국물이 좋지요^^
+P0 	: 굿굿~~저는 라면이 저랑 안 맞아요ㅠ

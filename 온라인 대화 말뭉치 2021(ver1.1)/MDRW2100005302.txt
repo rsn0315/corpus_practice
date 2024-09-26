@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100005302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 낮에 비 많이 왔는데 지금은 그쳤어요
+P0 	: 여기도요
+P1 	: 그쪽도 지금은 그쳤어요?
+P0 	: 네 이제 쌀쌀해뇨
+P1 	: 좋네요. 시원한게 최고죠
+P0 	: 맞아여
+P1 	: 얼마전까지만해도 밤에도 얼마나 덥던지요...
+P1 	: 아침에도 더웠고... 요즘 정말 시원하고 쾌적해요
+P0 	: 그르니까요
+P1 	: 이번 여름에 에어컨 많이 트셨어요?
+P0 	: 네 지옥이더라구요
+P1 	: ㅋㅋㅋㅋ 맞아요 이번 여름 진짜 지옥불이었어요 최악
+P1 	: 우리집은 에어컨 잘 못틀었는데 부럽네요 ㅠㅠ
+P0 	: 더운게 아니고 뜨겁더라구요

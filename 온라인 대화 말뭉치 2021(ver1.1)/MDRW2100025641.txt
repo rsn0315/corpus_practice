@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025641
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여
+P1 	: 안녕하세요
+P0 	: 요즘 공연 전시 보신 거 있으신가여
+P1 	: 온라인으로 봤어요 트로이의 여인들
+P0 	: 아 그러시군요
+P1 	: &name1&님께서는 전시회나 공연 좋아하세요?
+P0 	: 네 2주전에 제주 내려왔는데 그때도 김보희 작가님 제주 풍경 그림 전시를 서울에 봤었어요
+P0 	: 그림보는거 좋아해여
+P1 	: 그림을 좋아하시는군요 멋져요~
+P0 	: 최근에 영화는 뭐 보셨어요?
+P1 	: "벌룬" 봤어요
+P1 	: 열기구타고 동독을 탈출하는 가족이야기인데
+P1 	: 잘만들었더라구요
+P0 	: 오오
+P0 	: 영화관 아님 넷플릭스?
+P1 	: 웨이브에서 봤어요 극장에서 영화보고싶은데
+P1 	: 못 가고 있네요 팝콘이 그립고 영화관이 그리워요
+P0 	: 오 저두 모가디슈 살금살금가서 봤눈데

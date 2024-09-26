@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100042556
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 스파게티도 좋아해서 그런가
+P0 	: 그렇다기보다는 비빔면을 좋아해서 스파게티를 좋아하게 되었다 이런 느낌으로
+P1 	: 국물 없는 면 좋아하나?
+P0 	: 근데 국물 있는 면도 좋아하고{emoji:…} 그냥 돼지인 것으로
+P1 	: 잘먹으면 좋지
+P0 	: 살만 안찌면 더 좋은데 라고 엄마가 다음에 말할듯한
+P1 	: 어떻게 알았냐
+P0 	: 엄마 하는건 다 척이면 척이죠 ㅎㅎ
+P1 	: 그래도 엄만 너 먹는거 보면 행복해
+P0 	: 저두 엄마 잘 드시면 기분 좋아요
+P1 	: 우리 딸 효녀네
+P0 	: 엄마가 잘키워서 그래요
+P1 	: 근데 신라면 볶음면은 맛없대
+P0 	: 갑자기요
+P0 	: 맞아요 근데 그거 맛없다고 하긴 하더라구요
+P1 	: 되게 짜고 별로래 당뇨 걸릴지도
+P0 	: 엄마 안그래도 위험군인데 안된다
+P0 	: 절대못먹어
+P1 	: 신라면 스프 그대로 넣고 국물 없이 볶아먹는 느낌이라더라
+P0 	: 으 완전 상상되는 맛
+P1 	: 보리차 끓이고 왔다

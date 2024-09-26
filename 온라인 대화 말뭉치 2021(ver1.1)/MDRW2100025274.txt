@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100025274
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 취업하셨나요
+P1 	: 알바식으로 일하는 중인데
+P1 	: 정식 계약은 아니라 취준중이예요!
+P0 	: 어떤 알바인지 여쭤봐도되나요
+P1 	: 영상쪽....?ㅎㅎ
+P1 	: 직장인이세요?
+P0 	: 네 저는 직장다녀요
+P1 	: 회사생활 괜찮으세요?
+P0 	: 네 할만해요 영상은 어떤 알바였나요?
+P1 	: 그냥 편집이요~
+P1 	: 취업하신지는
+P1 	: 얼마나 되셨어요?
+P0 	: 10년정도 됐네요
+P1 	: 오래다니셨네요~
+P1 	: 한 회사에요?
+P0 	: 네 같은 회사요
+P1 	: 정말 대단하세요!!
+P1 	: 그럄 직급도 높으시겠어요
+P0 	: 직급이 큰 의미가 없는지라...
+	  취준도 영상쪽으로 하시나요
+P1 	: 아니요~
+P1 	: 일반 사무직이여

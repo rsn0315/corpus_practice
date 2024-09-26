@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022256
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 전남
+current_residence : 전남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 온라인 커뮤활동 하세요?
+P0 	: 네 많이는 못하지만 하고 있어요
+P1 	: 아 어떤 종류의 커뮤인가요
+P0 	: 음 스포츠 같은거라고 해야 할까요
+P1 	: 오오 보는건가요  아님 직접 하시나요
+P0 	: 그냥 보는 정도
+P1 	: 축구? 야구인가요?
+P0 	: 축구를 자주 보아요
+P1 	: 와 응원하는 팀이 있으신가요
+P0 	: 아스널 응원합니다
+P1 	: 좋아하는 선수는 누구인가요
+P0 	: 앙리를 좋아해요
+P1 	: 앙리 멋지죠ㅎ
+P1 	: 저도 좋아해요

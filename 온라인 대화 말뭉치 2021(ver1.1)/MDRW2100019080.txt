@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저도 감자칩 좋아해요
+P0 	: 특히 콰삭칩...진짜 맛있어요
+P1 	: 콰삭칩 맛있나요?
+P0 	: 네! 꼭 드셔보세요
+P1 	: 콰사콰삭한 식감인가요
+P0 	: 맞아요ㅋㅋ
+P1 	: 다른 간식은 뭐좋아하세요
+P0 	: 사탕류는 별로 안좋아해요
+P1 	: 아이스크림은요?
+P0 	: 아이스크림좋아하죠
+P1 	: 유제품좋아하세요?
+P0 	: 넹ㅋㅋ유제품 진짜좋아해요
+P1 	: 저둔데 초콜릿도 좋아해요
+P0 	: 파베초콜릿 먹고싶네요
+P1 	: 앗 저도요ㅜㅜ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해여?
+P1 	: 지금은 안 해요
+P0 	: 전 일해요
+P1 	: 그러시군요 어떤 일을 하시나요?
+P0 	: 사무직이요
+P1 	: 지금 일에 만족도는 높으신가요?
+P0 	: 힘들죠
+P1 	: 어떤 일들이라도 다 힘든 점이 있기 마련이죠..
+P0 	: 사람이문제죠
+P1 	: 그쵸 일로 인한 스트레스보다, 사람사이의 감정으로 받는 스트레스가 더 영향이 큰거 같아요
+P0 	: 상사가없음 좋아요
+P1 	: 상사가 없으려면..개인 사업을..?
+P0 	: 아 그런가요

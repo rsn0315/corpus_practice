@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 종종 해요
+P0 	: 저도 당근
+P1 	: 당근마켓 유용하죠
+P0 	: 지역이라 ㅋㅋ
+P1 	: 동네에도 하루에 글이 엄청 올라오더라구요
+P0 	: 그쵸 많더라구요
+P1 	: 집이 경찰서 근처면 직거래를 더 자주 할 것 같아요
+P0 	: 아 그르니까요
+P1 	: 그게 아니라 아쉬워요
+P0 	: 그쵸
+P1 	: 구매자 입장에서도 믿음이 갈 것 같아요
+P0 	: 안심하고
+P1 	: 사기 확률이 줄어들죠

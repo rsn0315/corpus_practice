@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004347
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 전시회 좋아하세요?
+P1 	: 전시회 한번 가보고 싶어요!
+P0 	: 그러면 전시회 말고 미술관 가보신적 있으세요?
+P1 	: 아뇨 없는 것같아요  뮤지컬은 보러간적 있어요!  &name1&님은 미술관 가보신적 있으세요?
+P0 	: 어렸을때 딱 한번 가본거같아요...ㅜ
+P0 	: 내년이나 내후년에 꼭 한번 가보고싶네요
+P0 	: 전시회가게되면 어떤 주제 좋아하세요?
+P1 	: 전시 예쁘게 꾸며진 전시 가보고 싶어요 사진도 찍고 그러고 싶네요
+P0 	: 콘서트는 실제로 보신적 있으세요?
+P1 	: 아뇨  티캣팅에 실패해서ㅜㅜ 지인님은요?
+P0 	: 저도 아직 본적은 없네요..ㅜ
+P0 	: 영화관 마지막으로 가신적은 언제에요?
+P1 	: 코로나 전에 가고 안갔어요  코로나 시작하고는 영화 집에서 넷플릭스로 봐서요
+P0 	: 어떤 영화 좋아하세요?
+P1 	: 코미디, 액션 영화 좋아해요!

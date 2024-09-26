@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100014932
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집은 자주 찾아가시는 편인가요??
+P0 	: 네 가끔 주말에 친구볼때는
+P0 	: 일부러 맛집검색해서가요 ㅋㅋ
+P1 	: 맛집검색은 주로 어디서 하나요??
+P0 	: 네이버 그냥 리뷰순이요 ㅋㅋ
+P0 	: 맛집 찾아가는편인가요??
+P1 	: 저는 친구들이 가자는곳
+P1 	: 따라가는 편이에요
+P0 	: 아하 뭐좋아하세요?
+P1 	: 잘모르는 상태에서 가는데 나중에 보니 맛집이래요 ㅎㅎ
+P1 	: 음..저는 가리지않고 잘먹지만
+P1 	: 스시좋아해요!!
+P0 	: 아 ㅋㅋㅋㅋ스시맛있죠
+P0 	: 일식 저도 좋아해요
+P1 	: 어떤음식 좋아해요?
+P0 	: 전 떡볶이요
+P0 	: 요즘 로제에 꽂혀서
+P0 	: 그것만 먹어요
+P1 	: 신전로제떡볶이가
+P1 	: 후추맛이 좀 강하다던데
+P1 	: 맞나요??
+P0 	: 저는 못느꼈어요
+P0 	: 엄청 달아서 신전을 제일 좋아해요 ㅋㅋ
+P0 	: 배떡도 맛있는데
+P1 	: ㅋㅋ헉 배떡 저 한번도 안먹어봤어요
+P1 	: 로제의 원조 아닌가요!!

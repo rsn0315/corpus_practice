@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100020349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근에 구매한 물건잇으세요?
+P1 	: 실리콘 밥주걱을 샀어요
+P0 	: 오오
+P0 	: 저는 그릭요거트 만드려고 면보자기 삿어요
+P1 	: 그릭요거트 자주 만드시나요?
+P0 	: 아 이번에 처음 만들어먹어봤는데
+P0 	: 맛잇어서 자주 만들거같아요
+P1 	: 저는 요거트 메이커 있어서 종종 요거트 만드는데 그릭은 꽤 손이 많이 가서 버겁더라고요
+P0 	: 굳이 우유로 발효 안하시구
+P0 	: 그냥 플레인요거트로 유청만 거르면
+P0 	: 간단하더라구요
+P1 	: 오 그렇군요ㅎ 그릭요거트 드실때 어떤 조합으로 드세요?
+P0 	: 저 그래놀라욤
+P1 	: 저는 꿀만 타먹어요 요거트 고유의 맛을 워낙 좋아해서ㅎ
+P0 	: 아하 그렇게 먹어도 맛은 잇죠!
+P1 	: 네 전 요거트를 건강땜에 먹기보단 좋아해서 먹는 편이에요ㅋㅋ
+P0 	: 좋아하시는 편에 건강도 좋으면 완전 일석이조이네요

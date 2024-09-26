@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100041532
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 출근하셨어요?
+P1 	: 네 알바다녀왔어요
+P1 	: 일하고계세요?
+P0 	: 네 일히고있어요 ㅠㅠ
+P1 	: 무슨일 하세요?
+P0 	: 저는 그냥 사무직어요 행복님은오?
+P1 	: 저는 복지관에서 미술보조강사요 ㅋ
+P1 	: 일하는건 크게 스트레스 없나요?ㅋ
+P0 	: 오 미술쌤이시네요
+P0 	: 네 저는 그냥 아주 무난해요 ㅋㅋㅋ
+P1 	: 네네 ㅋㅋㅋ 무난해서 좋네요 ㅋㅋ
+P0 	: 무난한게최고에요진짜
+P1 	: 네 맞아요 ㅋㅋ 스트레스 안받는것만으로도 감사한거죠
+P0 	: 퇴근은 몇시셔요?
+P1 	: 저는 하루에 2시간 하는 알바에요 ㅋㅋ
+P0 	: 오 완전 여유롭겠네여 ㅋㅋㅋㅋ

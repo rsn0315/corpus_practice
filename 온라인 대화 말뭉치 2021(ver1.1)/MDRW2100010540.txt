@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 보는거 좋아하세요?
+P1 	: 네~좋아해요~
+P0 	: 최근에는 뭐 보셨나요?
+P1 	: 최근에는 직접가서 본건 없어요ㅠ
+P0 	: 요즘엔 가서 보기 좀 그렇죠?
+P1 	: 네~코로나 이후로 안가게 됐더니 계속 안가게 되더라고요
+P0 	: 전 제일 처음 본게 김종옥을 찾아서였거든요 넘 재미있었어요 ㅎ
+P1 	: 저도 봤었어요~ㅎㅎㅎ대학로에서
+P1 	: 김종욱찾기 맞죠?
+P0 	: 오~ 낭만의 대학로~^^ 어떤 공연이 제일 좋으셨어요?
+P0 	: 네 맞아요 김종욱 찾기 ㅋㅋ
+P0 	: 제 친구중에 종옥이가 있는데 월리를 찾아서랑 막 짬뽕했네요 ㅋ
+P1 	: 저는 기억이 가물가물해요~ㅎㅎ뮤지컬은 다 좋아해서
+P0 	: 전 김종욱 찾기 노래도 부를 수 있어요 ㅋㅋㅋ 맨 앞자리서 혼자 봤거든요 ㅋ
+P1 	: 와~~대박이네요~~어떻게 그게 가능하죠?
+P0 	: 다는 아니고 몇개 유명한것만요 집에 와서 엄청 찾아 들었거든요 ㅎ
+P1 	: 와~~대단하세요~~
+P0 	: 그 뒤로 이것 저것 보러 다녔는데 이게 처음 본거라 기억에 남는것 같아요

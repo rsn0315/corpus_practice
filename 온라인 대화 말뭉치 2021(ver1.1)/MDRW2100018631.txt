@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100018631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 바이러스가 잠잠해질 기미가 안보이네요!
+P0 	: ㅠㅠ그니깐요
+P0 	: 백신주사는 맞으셧나욤?
+P1 	: 아뇨 9월로 예약해뒀어요! &name1&은 맞으셨나요??
+P0 	: 저는 의료인이라 진작 맞앗어요
+P0 	: 뭐맞으세요?
+P1 	: 아 그러시구나! 저 모더나 또는 화이자라고 나와요. 아마 맞을 때쯤 되야 알 것 같아요!
+P1 	: &name1&은 그럼 뭐맞으셨어요??
+P0 	: 저는 아제 화이자 교차접종햇어요
+P0 	: 저는 괜찮앗는데 주변에서 다들 아파햇어요
+P0 	: 주사맞고 꼭 쉬세요 푹!!!!
+P1 	: 네!! 교차접종이 더 효과가 좋다고 하던데 ㅎㅎ
+P1 	: 빨리 좀 잠잠해지면 좋겠네요 ㅠㅠ
+P0 	: ㅠㅠ감기처럼 공존해야하나... 잠잠해질거같지않아요 흑흑
+P1 	: 백신 효과도 오래 가지 않는다고 하는데 공존이라니ㅠㅠ막막하네요 ㅠㅠ
+P0 	: 조심 또 조심하세요
+	  전 다행히 잘안아픈편이라서
+P0 	: 튼튼합니당 ㅋㅋ
+P1 	: 진짜 건강이 제일 중요한거같아요!!!
+P1 	: &name1&은 운동하시나요?!
+P0 	: 숨쉬기...ㅎㅎ
+P0 	: 잘먹고 잘자서 튼튼한거같아요
+P1 	: ㅋㅋ맞아요 잘먹고 잘자는게 진짜 제일 중요하죠!!!
+P0 	: 운동하시나용?
+P1 	: 실내자전거 사서 타고 있어요! 아직은 옷걸이로 쓰고 있진 않답니다 ㅋㅋㅋ

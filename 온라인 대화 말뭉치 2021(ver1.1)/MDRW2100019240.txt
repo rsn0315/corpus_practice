@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100019240
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건이 있나요?
+P1 	: 저는 장바구니만 늘어나고 산건 없어서요ㅠ
+P1 	: &name1&님은요?
+P0 	: 저는 최근에 버킷햇을 샀어요 ㅎㅎ
+P0 	: 적립금 모아서 사서 저렴하게 샀답니다!
+P1 	: 우왕 그거 힙한 모자잖아요
+P1 	: 제가 하면 그냥 썬캡인데
+P1 	: 어울리시나봐요 부럽당
+P0 	: 어울리진않더라구요...흑흑ㅋㅋㅋ 근데 사고싶어서 사버렸어요!
+P0 	: 운동용으로 써야할듯해요
+P1 	: 머리가 잘 되어있지 않을때 항상 볼캡을 쓰고 나갔었는데
+P1 	: 버킷햇쓰면 뭔가 새로운 느낌이 나서 좋을 것같아요
+P0 	: 약간 요구르트 배달해야할거같기도 하구...ㅎ
+P0 	: 검은색이라서 그나마 다행이에요..
+P1 	: ㅋㅋㅌㅋㅋㅋㅋㅋㅌㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 아 베이지색 샀으면 큰일날 뻔했네요
+P0 	: ㅋㅋㅋㅋ비가 와서 운동도 못하구 얼른 써봐야하는데!!
+P1 	: 다음주인가? 그때 비가 그친다구 들었어요
+P1 	: 그때 자주 쓰고 나가기~~~~
+P0 	: 넵!! 위시리스트엔 어떤 물건이 있나요? ㅎㅎ
+P1 	: 저는 요즘 아가일 패턴 니트에 꽂혀서
+P1 	: 그 옷들이 쌓여있어요ㅎㅎ
+P0 	: ㅎㅎ 이제 니트의 계절이네요!! 니트 정말 좋아요
+P1 	: 맞아요ㅎㅎ

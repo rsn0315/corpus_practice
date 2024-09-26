@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009176
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 최근에 산 물건이 있나요?
+P1 	: 바로 어제네요 과자 샀습니다!! ㅎㅎ
+P1 	: &name1&님은 뭐 사신거 있으신가요?
+P0 	: 저도 방금 과자 샀어요 ㅋㄱㄱㄱㅋ
+P1 	: 무슨 과자 구매하셨어요??
+P1 	: 저는 감자칩이랑 홈런볼 샀습니다ㅎㅎ
+P0 	: 저는 꼬북칩이요!
+P1 	: 오 꼬북칩 엄청 맛있죠!
+P1 	: 저번에 새로나온 초코맛도 엄청 맛있더라구요!!
+P0 	: 맞아요 원래 츄러스맛 나는건 싫어하는데 초코맛도 같이 있으니까 너무 맛있어요 ㅠㅜ!!
+P1 	: 맞아요 초반에는 인기가 많아서 그런가 파는곳이 적어서 몇봉지 사다가 친구한테 선물해준 적도 있었네요ㅎㅎ
+P0 	: 그래도 지금은 많이 풀려서 다행이에요 ㅎㅎ
+P1 	: 맞아요ㅎㅎㅎ 중고거래는 해보신 적 있으신가요?
+P0 	: 네 번개장터에선 몇 번 사보고 당근마켓은 아직 구경만 해보고 있어요1
+P1 	: 오 저는 아직 안해봐서 신기하네요..!!
+P0 	: 잘만 건지면 좋아요! 워터픽 한번도 안쓴걸 5만원에 사서 3만원 아끼니까 뭔가 알뜰살뜰 주부가 된거 같았어요 ㅋㄱㄱㄱㅋ
+P1 	: 오오오 알뜰하게 딱 구매하면 희열 엄청날 것 같네요ㅋㅋㅋ

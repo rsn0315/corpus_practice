@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012188
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 그건 또 뭐야? ㅎㅎ
+P0 	: 현금이랑 같은거야~
+P0 	: 예전엔 더 많이 살 수 있었는데 요즘엔 매달 50만원까지밖에 등록이 안돼 ㅠ
+P1 	: 현금이랑 같은건데 왜 굳이 상품권을 사서 써?
+P0 	: 카드 실적이 인정되더라고.. 포인트 많이 모이니깐
+P1 	: 아 ㅎㅎ
+P0 	: 50만원어치 사면 포인트 만점이라 주 꿀이야
+P1 	: 주식이야 뭐 매달 사서 모으는데 상품권으로 하면 좋긴 하겠네 ㅎㅎ
+P0 	: 글치~ 좀 귀찮긴 해도 포인트가 팍팍 모이니 ㅎㅎ
+P1 	: 증권사가 거기 하나야?
+P0 	: 아니~ kb증권도 금융상품권 있어
+P1 	: 그것도 한도 50이야?
+P0 	: 아니 그건 한도가 극악이라 아예 안사 ㅎㅎ
+P1 	: 금융상품권이라는 게 있는지도 몰랐네~
+P0 	: ㅎㅎ 관심 없으면 모를 수도 있지 뭐
+P0 	: 머지포인트 때문에 짜증나 죽겠어

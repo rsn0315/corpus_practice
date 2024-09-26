@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002923
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P0 	: 최근에 중고거래 한 적 있어?
+P0 	: 당근이나 중고나라에서
+P1 	: 보기만 했지 구매는 한적 없어
+P1 	: 너는 있어?
+P0 	: 나는 갤럭시 버즈 프로 인터넷으로 사서
+P0 	: 그때 폰 사고 할인쿠폰으로 산거여서
+P0 	: 새상품 팔았어
+P1 	: 오오 이득봤네
+P0 	: 응 몇만원 이득봤어
+P0 	: 그거말고 내가 쓰던 물건들은
+P1 	: 다른 거래는 해봤어?
+P0 	: 잘 안팔게되더라
+P1 	: 나도 막 팔고 싶은건 있는데 귀찮아서 안하게 되더라
+P0 	: 난 내가 산 가격보다 내려서 팔기가 싫어
+P1 	: 난 내가 안쓰는 건 치워버리는게 나은 것 같아서 파는게 좋은 것 같아
+P0 	: 하긴 그래
+P0 	: 내방에 짐이 넘쳐난다
+P1 	: 넘쳐나면 좀 치워봐 팔던가
+P0 	: ㅋㅋ 근데 다 언젠간 필요한거란 말이야

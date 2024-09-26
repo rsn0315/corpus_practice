@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027424
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해여?
+P1 	: 며칠전까지 일하다가
+P1 	: 지금은 학교가서 안해요
+P1 	: &name1&님 무슨일 하세여?
+P0 	: 사무직이요
+P1 	: 일은 적성에 맞으신가요?
+P0 	: 힘들죠
+P0 	: 아니여
+P1 	: ㅜㅠ
+P1 	: 지금 일말고 다른 직업 생각해보신적 있나요?
+P0 	: 아직요
+P1 	: 전공살려서 가신건가요?
+P0 	: 그렇죠
+P1 	: 오늘도 출근하셨겠네요
+P0 	: 네
+P0 	: 힘들다여
+P1 	: 점심 드시고 힘드시겠어요ㅜ
+P1 	: 퇴근까지 파이팅입니닷!!
+P0 	: 네

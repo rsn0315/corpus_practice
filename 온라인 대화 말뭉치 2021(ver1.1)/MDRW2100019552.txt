@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019552
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 딱 좋은데 좀 습했어
+P0 	: 그래도 좀 습한 것만 빼면 좋았던거 같아
+P1 	: 맞아 근데 돌아올 땐 좀 춥더라
+P0 	: 그래?
+P0 	: 난 별로 안춥던데
+P1 	: 응 난 좀 추웠어
+P0 	: 미세먼지는 별로 없었지?
+P1 	: 느끼기엔 별로 없었던 거 같아
+P0 	: 계속 이런 날씨면 좋겠다
+P1 	: 맞아 그럼 좋을 거 같아
+P0 	: 겨울엔 집에만 있을 예정 ㅠㅜ
+P1 	: 나도 못나가 전기장판과 나는 하나야
+P0 	: 이불 밖은 위험해 이건가?
+P1 	: 응 난 전기이불이랑도 한 몸이야
+P0 	: ㅋㅋㅋㅋㅋ 그럴 수 있지
+P1 	: 오늘 산책 갔어?

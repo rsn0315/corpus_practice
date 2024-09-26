@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014367
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요!
+P0 	: 혹시 요새 다이어트 하시나요?
+P1 	: 아니요. 하지만 해야겠다고 생각하고 있어요.
+P1 	: 다이어트라기보다는 건강을 위해서
+P1 	: 운동을 해야할 필요성을 느끼고 있어요
+P1 	: &name1&님은요?
+P0 	: 아하! 전 다이어트 말로는 한다고하는데 그 다짐이 일주일도 안가더라구요ㅠ
+P1 	: 맞아요. 저도 운동해야겠다는 다짐이 작심삼일이에요ㅎㅎ
+P0 	: 그죠 ㅠ
+P0 	: 혹시 백신 맞으셨어요??
+P1 	: 아니요. 9월에 맞을 예정이예요.
+P1 	: 백신 맞으셨나요?
+P1 	: 저는 잔여 백신을 신청하지않고 10부제에 맞춰서 신청했어요.
+P0 	: 아 그렇군여!
+P0 	: 전 2차까지 맞았어요 ㅎㅎ
+P1 	: 우와 어떻게 이렇게 일찍 다 맞으셨어요?
+P1 	: 부작용은 없으셨나요?
+P0 	: 저는 운좋게 잔여백신 잡아서 화이자맞고왔어요 ㅎㅎ
+P0 	: 다행이 아무부작용도없이 수월하게지나갔어요~
+P1 	: 우와 대단하시네요
+P1 	: 부작용이 없었다니 다행이에요!!!
+P0 	: 정말 사바사라 그냥 운이 참 좋았죠 ㅎㅎ

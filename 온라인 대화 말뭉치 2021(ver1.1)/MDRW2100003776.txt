@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003776
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 오 오늘 비가 엄청 쏟아지네요
+P0 	: 혹시 어느계절 제일 좋아하세요?
+P1 	: 저는 가을이요! 선선하고 단풍도 이뻐서 좋아요
+P0 	: 오늘부터 가을장마라네요
+P1 	: 으 여름비 같아요 주룩주룩 너무 쏟아져서ㅋㅋㅋ그래도 서늘하네요
+P0 	: 요즘은 계절이 빨리 바뀌는거 같아요
+P1 	: 그러니까요 집콕하고 있으니 그냥저냥 시간이 다가버려서ㅋㅋㅋ
+P1 	: &name1&님은 어떤 계절 좋아해요?
+P0 	: 저는 원래 겨울이 좋았는데
+P0 	: 요즘은 봄이나 여름이 좋은거같아요
+P1 	: 엇 너므 급격히 바꼈는데요ㅋㅋㅋ왜 바뀌셨어요
+P0 	: 계절 바뀔때 냄새가 많이 바뀌는데
+P0 	: 그게 좋더라구요
+P0 	: 어느 계절 좋아하세요?
+P1 	: ㅋㅋㅋ가을ㅋㅋㅋ이욥 물어보셨잖아요~
+P1 	: 여름은 너무 더워요ㅠ
+P0 	: 기억이 안났네요...ㅜㅜ

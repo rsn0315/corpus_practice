@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011320
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 구매하신 상품 중에 마음에 드는 게 있나요
+P1 	: 글쎄요. 다 나름 만족하고 쓰는거 같아요
+P1 	: 최근엔 우양산을 샀어요
+P0 	: 아무래도 자외선이 따가 우니까요
+P0 	: 양산은 어때요
+P1 	: 자동으로 펼쳐지는데 편하더라고요.
+P1 	: 디자인도 귀엽구요
+P0 	: 어떤 디자인의 양산을 사셨나요
+P1 	: 고양이랑 귤이 그려져있는 양산이에요
+P0 	: 너무 귀엽겠다
+P1 	: ㅋㅋ커버에도 작게 그려져서 귀여워요
+P0 	: 우양산 이면 우산도 되고 양산도 되는 거죠
+P1 	: 네
+P1 	: 오늘처럼 비가 많을땐 쓰기 좀 그렇네요. 작은 크기라ㅋㅋ
+P0 	: 앗 아무래도 그럴 거 같아요ㅎ
+P0 	: 좀 적게 오는 날 쓰기 좋을 거 같아요
+P1 	: 갑작스런 소나기땐 괜찮더라고요.
+P1 	: 양산으론 좋았으니 만족하고있어요
+P0 	: 만족하시면 된 거죠
+P0 	: 뭐가 중요한가요

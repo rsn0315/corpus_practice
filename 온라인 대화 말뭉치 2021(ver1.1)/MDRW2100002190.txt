@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 환절기 되니까 스타일 바꾸고싶어
+P0 	: 스타일 바꾸고싶을땐 뭐부터 하는게 좋을까?
+P1 	: 머리자르는게 어때? 기분 전환할 땐 미용실 다녀오는게 좋은것 같아
+P0 	: 좋다! 파마라도 해봐야겠어 예쁜옷도 좀 사구~
+P1 	: 계절이 바뀌었으니까 예쁜 옷 장만해야지 염색도 해?
+P0 	: 염색도 해야할것같아 지금 머리카락 색 밝은 갈색이라!
+P0 	: 염색하면 옷 이쁘게 맞춰입기 어렵더라
+P0 	: 염색 해본적 이써?
+P1 	: 아니 한번도 안 해 봤어 유니는 언제부터 염색했어?
+P0 	: 나 고등학교 졸업하자마자 바로 이것저것 해봤어!
+P1 	: &name1&는 운동해? 어떤 운동해?? 홈트 많이한다길래 한번 시작해볼까 하는데
+P0 	: 난 예전에 필라테스 했었어
+P0 	: 필라테스 체형교정에 좋다던데?
+P1 	: 그것도 건강관리에 좋겠다. 체형교정 필요한데 이번에 한번 정보 좀 찾아봐야겠어
+P0 	: 응응 기초체력 기르는데도 좋더라
+P0 	: 배워보고싶은 운동 있어?
+P1 	: 실내클라이밍이나 수영 배워보고 싶었던것 같아
+P0 	: 클라이밍 재밌어보이던데! 팔에 근육 엄청 붙을것같았어

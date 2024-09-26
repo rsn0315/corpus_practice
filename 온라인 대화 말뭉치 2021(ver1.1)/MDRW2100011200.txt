@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011200
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 여행 다녀본 곳 중 어디가 기억에 남으신가요?
+P0 	: 송도요
+P1 	: 인천요?
+P1 	: 전 한번도 안 가 봤어요
+P0 	: 네 인천이요
+P1 	: 송도에 그 유명한 놀이동산 있죠?
+P0 	: 저는 바다 갔어요
+P1 	: 바다도 좋겠네요
+P0 	: 야경이 예뻐요
+P1 	: 야경이 아름답다니 밤에 가야겠네요^^
+P0 	: 네 가보세요
+P1 	: 다른 곳은요?^^
+P0 	: 멕시코요

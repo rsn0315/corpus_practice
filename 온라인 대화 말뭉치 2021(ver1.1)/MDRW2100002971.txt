@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002971
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저랑 대화 해보실래요?
+P0 	: 만나서 반가워요
+P1 	: 안녕하세요! 집안일좋아하세요?
+P0 	: 힘들어서 좋아하지 않아요
+P0 	: &name2&님은 어떠세요?
+P1 	: 저도 좋아하지는  않지만 생존을 위해서 억지로 하고있어요ㅠㅠ
+P0 	: 주고 어떤 집안일을 하시나요
+P1 	: 저는 청소기돌리기와 먼지털기 설거지밖에안해요거의ㅠㅠ
+P0 	: 저도 청소기를 돌리고 쓰레기를 버려요
+P0 	: 쓰레기가 왜이렇게 많이 생기는지 모르겠어요
+P1 	: ㅠㅠㅋㅋ쓰레기는 버려도 자꾸 생기는 마법걸려있죠... 집안일은 가족분들이랑 분배하시나요?
+P0 	: 가족들과 같이 사시나요
+P1 	: 넹! 그래서 저는 집안일을 나눠해요
+P0 	: 누구랑 나눠서 하나요
+P1 	: 저는부모님과 나눠해용!
+P1 	: 권호국님은 어떠신가요?
+P0 	: 저는 거의 정리를 하지않아요
+P0 	: 일이 늦게끝나요
+P0 	: 집안일을 할 시간이 없어요
+P1 	: ㅠㅠ시간이없으면 어쩔수없는일이죠! 주말밖에 시간이 없겠네요! 집안일도 시간이 꽤 걸리더라구요

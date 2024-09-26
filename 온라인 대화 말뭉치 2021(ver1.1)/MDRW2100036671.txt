@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100036671
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 밀키트 사보셨나요
+P1 	: 아뇨ㅠ 말만 들어보고 못사봤네요
+P1 	: &name1&님은요?
+P0 	: 저는 몇 번 사봤어요~! 그럼 최근에 쇼핑 하신거 있나요?
+P1 	: 오 어떤가요?
+P1 	: 저는 고양이 사료요!
+P0 	: 아 반려묘있으신가봐요!^^ 밀키트는 먹을만한데 재구매는 안할것 같다?정도였어요 ㅋ
+P1 	: 네!
+P1 	: 앗 별로였나요?
+P0 	: 맛은 있지만 은근 번거롭고 비닐도 많이 나오구요
+P0 	: 딱 내 입맛도 아니고..싸지도 않아서요 ㅋ
+P1 	: 오.. 싼 줄 알았는데 아니였군요
+P1 	: 비닐 나오는거 진짜 싫죠
+P1 	: 그런거믄 배달이 나은 느낌도 좀 드네요
+P0 	: 근데 배달도 포장용기 많진 않나요?
+P1 	: 맞아요 많긴해용ㅋㅋ
+P1 	: 요리를 못해서.. 자주 사먹어요ㅋㅋ
+P0 	: 맞아요 더운 날은 요리하기 더 싫죠 ㅠ
+P1 	: 맞아요ㅜㅠ 여름에는 정말..  냄새나니 문 안열수도 없구용..
+P0 	: 고양이 사료도 종류많죠 어디서 사시나요?
+P1 	: 저는 인터넷이요!
+P1 	: 똑같은것도 인터넷이 싸고 사은품도 주고 그러다보니 계속 인터넷에서만 사게되네욤

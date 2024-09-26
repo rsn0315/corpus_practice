@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100030655
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 아니요
+P0 	: 전 당근해여
+P1 	: 사는 편이에요? 파는 편이에요?
+P0 	: 팔기만요
+P1 	: 저도 안 쓰는 화장품이나 옷들 좀 팔고 싶네요~ㅎ
+P0 	: 전 공기청정기 최근에
+P1 	: 전 타임딜 이런거 뜨면 왠지 사야 될것 같아서 샀다가 배송 받고 후회하는 경우도 있어요
+P0 	: 맞아여
+P1 	: 전 원래 물건을 제 눈으로 보고 사는 편인데 요즘은 인터넷 쇼핑을 더 자주 하게 되네요
+P0 	: 편하죠
+P1 	: 편하긴 편하죠~

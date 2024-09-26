@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010010
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학창시절에 무슨과목 좋아하셨어요?
+P0 	: 저는 국어요ㅎㅎ 책 읽는거 좋아해서 ㅋㅋ
+P0 	: 좋아하신 과목 있나요?
+P1 	: 저는 학부도 수학 전공이에요
+P1 	: 수학이 성적과 별개로 좋았는데 점점 어렵더라고요 ㅠ
+P0 	: 와 수학 어려운데 전공까지! 사범대쪽이신가요?
+P1 	: 네 맞아요
+P1 	: 고등학교때가 제일 좋았던것 같아요ㅜㅋㅋ
+P0 	: 공부 열심히 하셨네요 전 수포자였던거 같아요 끌어올린다고 식겁했어요
+P1 	: 동아리는 봉사동아리 했었는데 요새는 동아리도 더 다양하겠죠
+P0 	: rcy같은 건가요?
+P1 	: 맞아요 ㅋ 걸스카우트 한별단 등이 있었죠
+P0 	: 아 고등학교땐 주로 무슨 봉사를 하나요?
+P1 	: 교문에서 등교길 지도나 교외 쓰레기줍기정도에요 ㅎㅎ
+P0 	: 아 봉사활동 시간주는 활동ㅋㅋ
+P1 	: 맞아요 약간 끼워맞추는것처럼 ㅎㅎ
+P1 	: rcy는 헌혈 홍보봉사도 했던것같아요

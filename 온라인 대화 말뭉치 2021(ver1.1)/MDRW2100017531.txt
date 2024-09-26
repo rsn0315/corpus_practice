@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017531
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니 없어 좋아하는 동물있어?
+P0 	: 강아지
+P1 	: 강아지 좋아한다고?
+P0 	: 응
+P1 	: 강아지 키워봤어?
+P0 	: 아니
+P0 	: 일하는곳에 웰시코기 있었어
+P1 	: 어디에 웰시코기 있어?
+P1 	: 해운대?
+P0 	: 응
+P1 	: 고양이는?
+P0 	: 친구네 집에 있어
+P1 	: 친구네 집에 고양이 몇 마리 있어?
+P0 	: 한마리
+P1 	: 달랑 한마리야?
+P0 	: 친구 부모님집에 또 한마리 더있어
+P0 	: 둘다 길냥이
+P1 	: 합쳐서 두마리 말이지?

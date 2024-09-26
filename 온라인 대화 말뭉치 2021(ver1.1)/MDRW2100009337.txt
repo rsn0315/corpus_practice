@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요?
+P1 	: 네 알바하고있습니다
+P0 	: 힘들죠?
+P1 	: 네 많이 힘드네요
+P0 	: 저도 일하기 싫어요
+P1 	: 무슨 일 하세요?
+P0 	: 사무직이요
+P1 	: 하루에 얼마나 일하세요?
+P0 	: 10시간 이상
+P1 	: 그럼 월급도 꽤 많이 받으시겠네요
+P0 	: 하는만큼 받으면 불만없죠
+P1 	: 아 그만큼 못받으시는 건가요?
+P0 	: 네 안주죠

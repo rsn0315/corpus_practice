@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010309
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 영양제 뭐 필요해?
+P1 	: 비타민d 필요해
+P0 	: 먹어보니 효과있어?
+P1 	: 효과 있을거야
+P0 	: 효과없으면 먹을필요 없지
+P1 	: 효과 없는거 아니야
+P0 	: 비타민c는?
+P1 	: 비타민c 효과 있어
+P0 	: 알약이랑 가루 중에 뭐가 더 좋아?
+P1 	: 둘 다 좋아
+P0 	: 종합비타민 먹다가 안먹으니까 어때?
+P0 	: 별차이 없지?
+P1 	: 응 별차이 없어
+P0 	: 그럼 비타민c, d만 계속 먹자
+P1 	: 알았어 그렇게 하자
+P0 	: 계속 내가 샀으니까 이번은 너가 주문해
+P1 	: 어떻게 주문할지 모르겠다
+P0 	: 돈주면 내가 주문할게 ㅋㅋ
+P1 	: 영양제 얼마야?
+P0 	: 나중에 가격 보내줄게

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 수박화채 좋아하세요?
+P1 	: 저 수박좋아해요
+P0 	: 제가 백종원 레시피로 즐겨먹는 수박화채 레시피가 있는데 이거 엄청 추천해요
+P1 	: 오 어떻게 만드는거죠?
+P0 	: 그냥 수박이랑 후르츠칵테일같은거 준비해서 딸기우유에 말면 끝이에요
+P1 	: 딸기우유요?
+P0 	: 네 ㅋㅋ딸기우유요
+P1 	: 다른건 필요없나요? 사이다나..
+P0 	: 네! 딸기우유만 쓰는게 제일 맛있어요
+P1 	: 보통 화채는 우유나 사이다 쓰지않나요?
+P0 	: 그렇게 해먹는거보다 훨씬 맛있어요.. 거품도 안나고
+P1 	: 우유에 사이다 부우면 거품이 나서 보기가싫죠
+P0 	: 네 맞아요ㅠ

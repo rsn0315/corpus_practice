@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100044872
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주제 바꾸셔도 돼요!
+P1 	: 여행좋아하세요?
+P0 	: 네네 좋아합니다!!
+P0 	: &name2&님은요
+P1 	: 저도 좋아해요
+P1 	: 가본 여행지중에 어디가 제일 좋으셧어요?
+P0 	: 저는 이탈리아 좋았어요!! 맛있는거 많아서 ㅠ
+P1 	: ㅋㅋㅋ제일 맛잇엇던 음식이 뭐예요?
+P0 	: 저는 젤라또요 ㅋㅋㅋ 진짜 상콤해요
+P1 	: 어우 한밤중에 군침흐르네요 ㅋㅋㅋㅋ
+P1 	: 이탈리아는 언제다녀오셧어요?
+P0 	: 10년전이요.. 까마득하네요 ㅋㅋㅋ
+P0 	: &name2&님은요!! 기억에 남는 곳
+P1 	: 저는 라오스요 ㅋㅋㅋ
+P0 	: 오 라오스 거기 약간 젊음이 느껴지는 그런 곳 아닌가요 ㅋㅋ
+P1 	: ㅋㅋㅋㅋ네 놀기좋앗어요 ㅋㅋㅋㅋㅋ
+P0 	: 꽃청춘에서 봤던 기억이 ㅋㅋㅋ
+P0 	: 물에 막 들어가고 그러셨나요 ㅋㅋ 다이빙 같은거
+P1 	: 네 ㅋㅋㅋㅋ 수영도 못하는데 구명조끼입고서 ㅋㅋㅋㅋㅋㅋ
+P0 	: 와 재밌었겠네요.. ㅋㅋㅋ

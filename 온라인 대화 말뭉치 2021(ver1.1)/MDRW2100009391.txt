@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009391
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 야간근무라서
+P0 	: 편하네요 마음이
+P1 	: 몇시부터 몇시까지 하는건가요?
+P0 	: 6시부터 다음날 아침 9시에요!
+P1 	: 15시간씩 일하는 건가요..?
+P0 	: 중간에 자는 시간 있어요ㅎㅎ
+P1 	: 자는 시간이 있다니.. 신기하면서도 자는시간까지 있을 정도로 피곤하실 것 같아서 안쓰럽네요...
+P0 	: 자는 시간은 무급입니다^^;;
+P1 	: 아 그것도 휴게시간처럼 치는군요... 잠을 안 잘수도 없고 깊게 잠도 못 주무실 것 같네요..
+P0 	: 그래도 잘 자는 편이라 괜찮아요
+P1 	: 그럼 다행이긴 하네요.. 주 며칠 일하시는 건가요?
+P0 	: 정해진거는 아니고 주야비휴로 돌아요
+P1 	: 아아 격주?에 야간 주간 근무가 바뀌는 시스템인가요?
+P0 	: 격주는 아니고 4일마다 한번요ㅎㅎ
+P1 	: 아.. 수면패턴 계속 바뀌어서 많이 피곤하실 것 같네요...
+P0 	: 그래도 잘자고 좋아요!
+P1 	: 아아 잘 주무셔서 다행이네요..
+P1 	: 그럼 주 며칠 근무인가요??
+P0 	: 정해진거는 없고

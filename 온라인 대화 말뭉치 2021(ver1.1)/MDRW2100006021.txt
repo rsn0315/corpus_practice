@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006021
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으셨나요
+P1 	: 아직이요 &name1&은 맞으셨나요?
+P0 	: 네 저는 맞았습니다 아직 예약전인가요?
+P1 	: 예약은 했는데 아직 예약날이 안왔어요
+P1 	: 2차까지 다 맞으셨나요?
+P0 	: 저는 얀센이라 1회로 완료됐어요 뭐로 예약하셨나요?
+P1 	: 저는 아직은 모더나 또는 화이자라고 뜨네요
+P0 	: 선호하시는 백신 있으신가요
+P1 	: 저는 모더나요
+P1 	: 유일하게 FDA승인을 받았다고 하더라고요
+P0 	: 이번에 순차공급이 되면 물량이 좀 풀리려나요.ㅡ주변에도 모더나를 제일 선호하더라구요
+P1 	: 그러니까요 사실 4주에서 6주로 2차접종기간 늘린 것도 모더나때문인데 600만회나 들어왔다니 기대되네요
+P0 	: 아 그 이유였군요 주변에 모더나 맞는 사람이 더 늘어나겠어요 지금까지 1명 봤어요
+P1 	: 모더나가 빨리 들어와서 다들 백신을 맞을 수 있었으면 좋겠넹ㅅ
+P1 	: 네요
+P0 	: 네 모더나를 기다리는 사람들에게 희망적인 소식이네요

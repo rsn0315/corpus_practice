@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 집안일 중 어떤 게 제일 하기 싫은가요?
+P1 	: 청소요!
+P1 	: 정리정돈 너무 어려워요ㅜ
+P1 	: 님은요?
+P0 	: 정리정돈 쉽지 않죠.. 전 세탁이요..ㅎㅎ 그것도 꽤난 복잡해서요
+P1 	: 아ㅎㅎ 세탁도 소재별 분리해서 하려면 복잡하죠
+P0 	: 그니까요.. 뭐 비싼 옷은 어쩌고... 그래서 세탁이 힘들어요.. 정리정돈도 머리 써야하는 거잖아요
+P1 	: 티셔츠 하나도 세탁기 돌리지 말라니ㅜ 입으라는건지 말라는 건지
+P1 	: 백화점 옷이 더해요ㅜ
+P1 	: 그나마 나은 가사일은 뭔가요
+P0 	: 저는 청소나 설거지 같은거 좋아해요.. 단순노동..ㅎㅎ
+P1 	: 아 저도 설거지는 그나마ㅎㅎ 가장 만만하네요
+P1 	: 요리는 쥐약이지만
+P1 	: 요리 잘하세요?
+P0 	: 잘한다고는 못해도 하는 건 좋아해요^^
+P1 	: 와 능력자시네요
+P1 	: 특기요리가 있나요
+P0 	: 스파게티요~
+P1 	: 헉; 크림? 토마토? 오일?
+P0 	: 다 만들어 봤어요..ㅎㅎ 사실 오일파스타가 제일 쉬워요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009881
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 마우스를 좀 바꿔야 할 것 같아
+P0 	: 마우스는 왜?
+P1 	: 클릭이 두번씩 돼서 엄청 신경쓰이네
+P0 	: 한번만 누르는데도 두번씩 돼?
+P1 	: ㅇㅇ 한 번 누르는데 그래 ㅠㅠ 너무 불편해
+P0 	: 그럼 사야지 ㅎㅎ 신랑 편한 걸로 알아봐
+P1 	: 나 예전에 쓰던 마우스 있는데 그걸로 알아봐야겠다
+P0 	: ㅇㅇ 그랴요
+P1 	: 요즘도 10만원 넘는 거라 리퍼 제품으로 사면 괜찮을겨
+P0 	: 기왕이면 새 거로 사지
+P1 	: 아냐 리퍼는 3만원인데 작동만 잘 되면 상관없어 ㅎㅎ
+P0 	: 에궁 맨날 중고 사서 써 ㅠ 오래 쓸거면 새거 사요 ㅎㅎ
+P1 	: 상품평 보니 겉에만 좀 중고같고 괜찮은 것 같아
+P0 	: 괜찮을라나..
+P1 	: 새것도 사자마자 중고 되는건데 뭘 ㅎㅎ
+P1 	: 생수 때문에 분리수거가 너무 많이 나오던데 정수기 놓는 게 낫지 않을까

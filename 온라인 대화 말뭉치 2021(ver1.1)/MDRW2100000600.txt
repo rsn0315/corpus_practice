@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님이 좋아하는 계절은 어떤계절인가요?
+P0 	: 봄이 최고 아니겠습니까 역시
+P0 	: 아 알러지가 있구나
+P0 	: 초가을이 그래도 그나마 제일 낫겠네요
+P1 	: ㅋㅋㅋㅋ저도 가을이요
+P1 	: 봄 가을이 길면 좋겠어요
+P0 	: 노르웨이나 북유럽쪽이 날씨가 그렇게 좋다던데
+P0 	: 혹시 가보셨나요?
+P1 	: 아뇨 저는 해외는 한 번도 안가봤어요ㅠ
+P0 	: 사실 저도...ㅋㅋㅋㅋㅋㅋ
+P1 	: 그쪽 날씨가 딱 활동하기에 선선한가보네요
+P0 	: 그렇다는것 같아요. 관광지는 별로 없는 것 같긴 한데
+P1 	: ㅋㅋㅋ우리나라는 계절이 다양해서 좋긴한데 두 계절이 유독 길다는게 문제네요
+P1 	: 봄에는 미세먼지랑 꽃가루가 그렇구..
+P0 	: 그렇죠, 계절들이 전부 확실한 단점이 있다는게 신기할정도로 ㅋㅋㅋㅋ
+P0 	: 가을이 그나마 단점이 없네요
+P1 	: ㅋㅋㅋ그래서 전 가을이 제일 좋아요!!!!
+P0 	: 가을하면 또 여행이 좋은데

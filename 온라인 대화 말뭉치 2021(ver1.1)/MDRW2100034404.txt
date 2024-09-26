@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034404
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 어떤거 하세용
+P0 	: 저는 설거지랑 방청소랑 가끔 집 청소 해용
+P0 	: &name2& 님은요?
+P1 	: 저는 방청소랑 빨래?정도밖엔 안하는것같아요
+P0 	: 오오 일주일에 몇번 정도 하시나요?!
+P1 	: 그냥 입을 옷 없을때와 발 디딜곳이 없을때요
+P1 	: ㅋㄱㅋㄱㅋㄱㅋㄱㄱㅋㅋ
+P0 	: 엇ㅋㅋㅋ 혼자사시나욬ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ가족들이랑 살아요
+P0 	: 아하 그럼 그럴 수 있죠ㅋㅋㅋㅋㅋ
+P0 	: &name2& 님은 외동이신가요?
+P1 	: 저는 동생 2명있어요ㅠㅠ
+P0 	: 어이쿠... 동생이랑 나이차이는 많이 나시나요?
+P1 	: 3살 5살 차이나요!
+P1 	: 동생들 둘다 대학생ㅎㅎ
+P0 	: 오오... 저는 2살 8살 차이나서 한 동생이 중학생이예요ㅋㅋㅋㅋ
+P1 	: 오 나이차이 많이 나네요!
+P1 	: 자주 싸우진 않겠어요ㅋㅋ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020223
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 테두리 바삭은
+P1 	: 모든 전에 해당해죠
+P0 	: 그쵸
+P0 	: 얇은거vs두꺼운거
+P1 	: 침이고이네요
+P1 	: 얇은거
+P0 	: 저도 얇게 부친거 좋아합니다
+P0 	: 두꺼우면 너무 빵같아서 싫더라구요
+P1 	: 맞아요 얇아야 더 바삭하기도하고
+P0 	: 맞아요 먹기도 편하고
+P0 	: 간장 찍어먹는다 그냥 먹는다
+P1 	: 그냥먹는다
+P1 	: 김치전은 짭짤하니까
+P0 	: 저도 본연의 맛을 즐깁니다
+P1 	: 감자전 이런거는 찍어먹는데
+P1 	: 김치전은 그냥 먹어야죠
+P0 	: 감자전 너무좋아
+P0 	: 감자전 좋아하시나요
+P1 	: 그럼요
+P0 	: 약간 감자로 만든건 다 맛있지않나요
+P1 	: 감자전  vs 감자채전
+P0 	: 감자전
+P0 	: 쫀득한거 너무좋아
+P1 	: 인정

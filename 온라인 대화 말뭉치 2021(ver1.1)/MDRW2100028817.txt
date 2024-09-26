@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100028817
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 평소 건강관리 어떻게 하시나요?
+P0 	: 영양제 챙겨먹고 있어요
+P1 	: 어떤 거 드세요?
+P0 	: 종합비타민이랑 오메가3, 마그네슘 먹고 있어요
+P0 	: 챙겨 드시나요?
+P1 	: 전 요즘은 비타민이랑 유산균만 먹고 있어요. 아 msm도 가끔 먹어요
+P0 	: msm 파우더 먹나요? 괜찮아요?
+P1 	: 알약 먹고 있는데 크기가 너무 커서 먹기 불편해요ㅠ
+P0 	: 오 알약이군요
+P0 	: 영양제들은 알약이 넘 커요...
+P1 	: 편하게 먹으려고 알약 샀는데 불편해서 자주 안 먹게 돼요ㅎㅎ
+P0 	: 네 영양제도 꾸준히 챙겨먹는게 여간 힘든게 아니더라구요
+P0 	: 오전에 드시나요?
+P1 	: 오전에는 정신없어서 그냥 저녁 먹고 다 먹는 편이에요
+P0 	: 오 저도 오후에 먹어요 오전에는 아침을 안먹어서 먹기 힘들더라구요
+P1 	: 언제 먹으면 좋다더라 그러는데 그냥 먹기만도 힘드네요ㅎㅎ

@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100029673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P0 	: 계절 많이 타시는지 ....?
+P1 	: 네
+P1 	: 어느계절 좋아하세요???
+P0 	: 저는 겨울이 좋아요
+P0 	: &name2&은요?
+P1 	: 저는 가을이요
+P0 	: 오 왜요?
+P1 	: 색색 화사해서요
+P0 	: 와 그러네요
+P0 	: 단풍 좋아하세요?
+P1 	: 보는것만 좋아요
+P1 	: 가을은 은행냄새는 싫어요
+P1 	: 겨울은 왜좋아하세요??
+P0 	: 추운 날 난방 틀면 기분이 좋아요
+P0 	: 은행냄새 저도 싫어요
+P0 	: 구운 은행 좋아하세요?
+P1 	: 아니요
+P1 	: 맛없어요
+P1 	: 가을은 뭐가 맛있을까요??
+P1 	: 밤 어때요???
+P0 	: 저는 밤을 개인적으로 싫어하지만
+P0 	: 다들 밤을 맛있어 하더라구요
+P0 	: 가을에는 감을 따던데
+P0 	: 감 따본 적 있으세요?
+P1 	: 아니요
+P1 	: 감따본적 있으세요???
+P1 	: 감은 먹기만했네요
+P0 	: 네 저 따봤어요 장대로 ㅇㅇㅇ
+P0 	: 홍시 좋아하세요? 아님 연시나 단감?
+P1 	: 우오~~~
+P1 	: 감 떨어지면서 상처 안나요???
+P1 	: 저는 단감 좋아해요
+P0 	: 음 보통 단단한 감이라 상처가 덜났던 거 같기도

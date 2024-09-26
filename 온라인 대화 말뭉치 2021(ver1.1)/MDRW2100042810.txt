@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100042810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저도 제주살이가 버킷리스트 중 하나였거든요
+P1 	: 멋있네요
+P1 	: 저는 과연 할 수 있을지...ㅋㅋㅋㅋ
+P0 	: 오
+P0 	: 오면 다른 점도 많어요
+P0 	: 습하구
+P1 	: 그쵸 글고 날씨도 참 변덕이죠 ㅋㅋㅋ
+P1 	: 혹시 제주 어느지역으로 정하셨는지 여쭤봐도 되나요?
+P0 	: 저는 제주시요
+P0 	: 도심이예요
+P0 	: 사라봉근처
+P1 	: 아 도심! 그럼 뚜벅이로 가신건가요?
+P1 	: 제주시면 뚜벅이로 여행가면 필수죠 ㅋㅋㅌㅋ
+P0 	: 네네
+P0 	: 집앞에 버스정류장이구
+P1 	: 교통때문에 제주시로 결정하신거예요?
+P0 	: 아뇨 전 도심이 좋아요
+P1 	: 오 그러시구나
+P1 	: 그쵸 제주시 서울저리가라죠 ㅋㅋㅋㅋ
+P0 	: 버스타면 오름 해변 다 가니까요
+P1 	: 혹시 우진해장국 아세요?
+P1 	: 제주시에 잇는 유명한 해장국집
+P1 	: 저 거기 자꾸 생각나요...몸국최고   ....
+P0 	: 아뇨 맛집이군요
+P1 	: 네네 외지인도 현지인도 많이 가는 곳인거 같더라구요
+P1 	: 고사리해장국이 제일 유명한데 저는 몸국이 더 맛있더라구요
+P1 	: 나중에 한번 드셔보세요!
+P0 	: 네 감삼돠
+P0 	: 제주 흐린날이 많아서 해장국 땡겨요

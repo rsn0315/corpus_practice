@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013946
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 안녕
+P1 	: 건강중요하지
+P0 	: 요즘 다이어트 하니?
+P1 	: 응응 다이어트 2달째하고있어
+P0 	: 오 나도 다이어트해야하는데
+P1 	: 운동좋아해?
+P0 	: 아니 별로 좋아하지않아
+P1 	: 건강을위해 어떤걸주로해?
+P0 	: 영양제를 챙겨먹어
+P1 	: 무슨 영양제 먹어?
+P0 	: 나는 오메가랑 종합 비타민 너는?
+P1 	: 나는 종합 비타민이랑 루테인
+P0 	: 오 나도 루테인 챙겨먹어야하는데
+P1 	: 유산균도 꼭 챙겨먹으래
+P0 	: 아 맞아 있는데 자꾸 안챙겨먹네
+P1 	: 꼭 챙겨먹어

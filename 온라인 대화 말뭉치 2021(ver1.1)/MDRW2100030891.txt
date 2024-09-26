@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030891
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아요 머릿결이 푸석푸석해요 땐 헤드스파 7 써 보세요
+P1 	: 나이 들면 다들 아프죠
+P0 	: 당신은 건강한가요
+P0 	: 고질병은 없나요
+P1 	: 어제 갑자기 팔을 살짝 부딪혔는데 백신 맞았던 팔 부분이 아파 지더라구요
+P1 	: 깜짝 놀랐답니다
+P1 	: 환절기 때마다 알레르기성 비염이 생겨서 너무 괴로워요
+P0 	: 지금은 괜찮아요
+P1 	: 눈도 간질간질하고 코도 간질간질하고 재채기가 계속 나오고
+P0 	: 비염은 저도 베트남에서 생겼어요
+P1 	: 지금 딱 환절기이긴 한데요 알러지 약 먹으면 괜찮아져요
+P0 	: 건강검진은 언제 받으셨어요
+P1 	: 저도 비염이 있는 줄 몰랐었는데요 갑자기 생기더라고요
+P1 	: 받은지 몇 년 된 것 같아요
+P0 	: 가을에 괜찮나요
+P1 	: 보러 나 때문에 병원에도 안 가고 회사에서 원래 해주는데 요즘에는 안 해 줘요
+P0 	: 그렇군요
+P1 	: 계절 바뀔 때마다 힘들어요
+P0 	: 건강은 미리미리 챙겨야 하니까요
+P1 	: 알러지 약은 항상 구비해서 다녀야 합니다

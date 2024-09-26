@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015693
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 향신료가 강하지만 않으면 괜찮은거같아요!
+P1 	: 일본은 간적 있으세요?
+P0 	: 네! 10년 전이라 잘 기억은 안 나지만 갔었어요
+P0 	: 일본 간적 있으세요?
+P1 	: 아뇨! 언제 한번 가보고싶어요~ 여행 계획은 자세하게 짜는편이세요?
+P0 	: 아뇨 좀 많이 즉흥적인 편이에요!
+P0 	: &name2&님은요?
+P1 	: 저도 그 때 그 때 보이는 곳에 가는거같아요ㅎㅎ 가보고 싶은 나라 있으세요?
+P0 	: 저는 러시아요
+P0 	: 횡단열차 타보고 싶어서요 ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 저는 브라질이요ㅎㅎ 남미 한번 가보고싶네요
+P0 	: 브라질 가시면 어딜 제일 구경하고 싶으세요?
+P1 	: 보니또라고 예쁜 강이 있어서 구경해보고싶어요! 국내여행 자주 다니세요?
+P0 	: 우와! 저도 나중에 기회가 된다면 가보고 싶네요
+P0 	: 코로나 전에는 한 달에 한 번은 갔는데 요새는 못 가요 ㅠ
+P0 	: &name2&님은요?
+P1 	: 저도 요즘은 못다니네요ㅠ 기억에 남는 여행지 있으세요?
+P0 	: 저는 제주도요! &name2&님은 어딜 제일 재밌게 다녀오셨나요
+P1 	: 저는 여수 순천이요! 가본적 있으세요?
+P0 	: 네! 그 순천만 있는 곳 맞죠?
+P0 	: 갯벌있는!

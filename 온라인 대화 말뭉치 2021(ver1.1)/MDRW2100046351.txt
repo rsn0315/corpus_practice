@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 오늘 점심드셨나요?
+P0 	: 넹
+P1 	: 어떤 메뉴 드셨나요?
+P0 	: 스팸이랑 코다리조림 콩나물무침
+P0 	: 먹었습니다
+P1 	: 집에서 드셨나봐요!! ㅎㅎ 좋아하는 배달음식있으신가요?
+P0 	: 치킨 피자요~
+P1 	: 치킨이랑 피자 제일 좋아하는 브랜드있나요? 저는 치킨은 bhc뿌링클 제일 좋아해요!!
+P0 	: 저는 굽네치킨 교촌치킨이요~
+P0 	: 피자는 피자꾼 이요
+P1 	: 피자꾼은 처음들어보는 브랜드인데 좋아하는 이유가 있으신가요?
+P0 	: 피자맛이 제일 훌륭해요~
+P1 	: 아하! 피자꾼에서도 가장 추천하는 메뉴가 있나요?
+P0 	: 고구마피자요
+P1 	: 고구마 피자가 제일 맛있나보네요 ㅎㅎ다음에 먹을 기회가 생긴다면 기억하고 먹어보도록 하겠습니다! 오늘 오후도 화이팅하시길 바랄게요!

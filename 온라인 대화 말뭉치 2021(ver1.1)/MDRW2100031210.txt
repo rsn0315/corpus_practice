@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>광복절 연휴 집에서 머무르기 대국민 캠페인
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지코 갈 거예요
+P1 	: 집에 머무르 시죠
+P0 	: 이번에 읽어야 할 책이 많아요
+P1 	: 좋네요
+P0 	: 내 그래서 집에만 있으려구요
+P1 	: 책만 보기에는 시간이 여유롭지 났나요
+P0 	: 아니에요 부족해요
+P1 	: 휴일이 더 필요하시군요
+P0 	: 내한한 달 정도 필요해요
+P1 	: 한 달은 너무 많은 거 아니에요
+P0 	: 그냥 그렇지 않아요
+P1 	: 그런 건가요
+P0 	: 그렇죠

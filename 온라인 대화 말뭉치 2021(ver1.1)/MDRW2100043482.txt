@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043482
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행하실때 계획파세요 무계획파세요
+P1 	: 계획파요 경비나 코스 이런 거 미리 짜고 가요
+P1 	: &name1&님은요?
+P0 	: 전 해외는 뱅기만 끊어놓고 당일비행기타면서 맛집과...숙소정해요 ㅋㅋㅋㅋ
+P1 	: 와 여행을 자유롭게 즐기시는군요
+P0 	: 네 천성이 게을러서 미루고미루고 끝까지미뤄서 여행도 저렇게하다가 숙소좋은곳은 못잡는 단점이...
+P1 	: 아 숙소는 그렇겠네요
+P1 	: 계획 세워도 변수가 생기면 막 바뀌죠 ㅜ 특히 날씨요
+P0 	: 네 그래서 바가지 왕창쓴적도많구여..
+P1 	: 여행가면 뭐든 비싸죠 ㅠ 특히 관광 명소는요
+P0 	: 맞아여 뭐그렇게 비싸게부르는지 ㅜㅜㅜ
+P1 	: 특히 여름철 계곡같은 곳은 그거 한철로 1년 번다고 하더라구요
+P0 	: 맞아여 계곡 평상하나빌리는데 기본 5만원넘는거같던데
+P0 	: 음식도 엄청비싸구
+P1 	: 맞아요 게다가 음식은 양도 적잖아요
+P0 	: 네ㅜ그래서 계곡도 그런장사안하는곳 찾게되는거같아요

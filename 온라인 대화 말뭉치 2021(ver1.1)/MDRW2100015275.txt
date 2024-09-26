@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100015275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 뭐 드셨어요?
+P1 	: 우유요
+P1 	: 님은요?
+P0 	: 우유만요?
+P1 	: 우유랑 물이요
+P0 	: 님 혹시 강아지인가요
+P0 	: 고양인가요
+P1 	: 그거말고는 안 마신 것 같네요
+P0 	: 전 쫄면이랑 김볶밥이요
+P1 	: 식음료잖아요
+P1 	: 음료 얘기하는 거 아닌가요
+P1 	: 그리고 김볶밥이라뇨 별걸 다 줄이시네요
+P0 	: 식사 메뉴도 됩니다
+P0 	: 저기요 이건 거의 표준어예요
+P1 	: 김볶밥은 치즈랑 먹어야하는 거 아시죠
+P0 	: 저희엄마는 치즈 안 줬어요
+P0 	: 주는대로 먹습니다
+P0 	: 배고파요
+P1 	: 직접 찾아 드셔야죠
+P1 	: 님이야말로 강아지시네요
+P1 	: 불닭볶음면 좋아하세요?
+P1 	: 이번에 불닭볶음당면이 새로 나왔더라고요
+P1 	: 꼭 먹어볼거예요.
+P0 	: 오 처음 들어봤어요
+P0 	: 당면만 들어있는 거예요?
+P1 	: 네 당면만 들어있어요
+P1 	: 납작당면 좋아하세요?
+P0 	: 그럼여
+P0 	: 떡볶이에 납작당면 먹는거 좋아해요

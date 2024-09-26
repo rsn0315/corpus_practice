@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017629
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뮤지컬 좋아하세요??
+P0 	: 뮤지컬은 본적은 딱히 없는거같아요!
+P0 	: &name2&님은 좋아하시나요?
+P1 	: 저는 뮤지컬 좋아해요!!
+P1 	: 콘서트는 좋아하시나요?
+P0 	: 뮤지컬 어떤 이유로 좋아하시는지 궁금해요!
+P0 	: 콘서트는 가본적은 없는데 노래듣는걸 좋아해서 가보고싶어요!!
+P1 	: 노래듣늘 걸 좋아해서 뮤지컬을 좋아해요!!
+P1 	: 콘서트도 좋아해요 ㅎㅎ
+P1 	: 누구콘서트가보고싶나요?
+P0 	: 아하 그러시군요!
+P0 	: 콘서트 간다면 발라드가수 콘서트 가보고싶어요!
+P1 	: 저는 아이유 콘서트 가보고싶어요!
+P0 	: 우와 아이유 콘서트도 좋을거같아요!! 라이브로 노래 들으면 진짜 좋겠네요ㅠ
+P1 	: 맞아요 가장 좋아하시는 발라드가수는 누군가요??
+P0 	: 임창정도 좋아하구 성시경도 좋아해요!
+P1 	: 오 성시경 저도 가보고싶러요!
+P1 	: 미소천사
+P1 	: 가 생각나네요 ㅋㅋㅋㅋ
+P0 	: 성시경 목소리는 남자가 들어도 반하는거같아요..!
+P1 	: 맞아요 꿀보이스

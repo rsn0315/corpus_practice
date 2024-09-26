@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100046635
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: /
+P0 	: 안녕
+P0 	: &name2&야
+P1 	: 안녕하세요!
+P1 	: 저녁 드셨나요?
+P0 	: ㅇㅇ 반가워
+P0 	: 먹었지
+P0 	: 너는 먹었니
+P1 	: 네 저도 먹었어요 ㅎㅎ
+P1 	: 저녁 메뉴는 무엇이었나요?
+P0 	: 돈까스 먹었어
+P1 	: 헉 돈까스 넘 맛있죠
+P0 	: ㅇㅇ 맛있었음
+P1 	: 경양식 돈까스예요 아님 일본식 돈까스예요?
+P0 	: 일본식
+P1 	: 아하 일본식 돈까스 맛있죠 ㅎㅎ 전 경양식 돈까스가 먹고싶네요
+P0 	: 그냥 돈까스?
+P0 	: 치즈 아님 고구마 들어간건 어때
+P1 	: 전 오리지널 파이긴 한데
+P1 	: 들어간다면 고구마요!!
+P0 	: 고구마 맛있지
+P0 	: 달달한게
+P1 	: 인정이요
+P1 	: 겨울 되면 꼭 생각나요 ㅋㅋ
+P0 	: 군고구마
+P0 	: 먹고싶다 갑자기
+P1 	: 요즘엔 길거리에서 군고구마를 안팔더라구요 ㅠ
+P1 	: 너무 아쉬워요
+P0 	: 편의점에 팔던데

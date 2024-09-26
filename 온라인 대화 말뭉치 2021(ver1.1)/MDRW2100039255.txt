@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100039255
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 가본 공연장은 있으세요?
+P1 	: 없어요...
+P0 	: 예술의 전당다녀왔어요
+P1 	: 누구공연인가요
+P0 	: 생각이 안나지만 브람스 였던것 같아요
+P0 	: 월츠
+P0 	: 재즈
+P0 	: 클래식이었어요
+P1 	: 저는 전시회 다녀왔어요
+P0 	: 무슨 전시요?
+P1 	: 서촌에서 하는 전시였어요
+P0 	: 아
+	  저두 서촌 사진전 봤어요
+P0 	: 전시는 어땠어요?
+P1 	: 재밌으셨나요?
+P1 	: 네
+P0 	: 어떤점이?
+P1 	: 색감이 좋았어요
+P0 	: 저는 오랫만이어서 좋았어요.

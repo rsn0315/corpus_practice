@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100033653
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 사고싶은 물건 있으세요?
+P0 	: 소파도 사고싶어요
+P1 	: 우와
+P1 	: 어떤 쇼파요?
+P0 	: 2~3인용으로 나오는 작은 패브릭소파 사고싶어요
+P0 	: 거실이 좁아서 큰건 못둬서요
+P1 	: 쇼파 있으면 좋을 거 같아요
+P1 	: 좌식생활이
+P1 	: 무릎에 안좋거둔요
+P0 	: 그죠 저도 그래서 고민중이예요
+P1 	: 하나 장만하는 거 추천해요!
+P0 	: 손님왔을때 앉힐곳도 애매하구요ㅠ
+P0 	: 이사할때 짐이될까봐
+P0 	: 룸메랑 고민중이예요
+P0 	: 추천감사드려요
+P0 	: &name2&님은 사고싶은거 있으신가요
+P1 	: 저도 가구 사고싶네요
+P1 	: 마음 같아서는 침대랑 바꾸고 싶어요
+P0 	: 침대 왜 바꾸고 싶으세요?
+P1 	: 그냥요 뭔가 인테리어 바꿀겸
+P1 	: 바꾸고싶더라구요ㅋㅋㅋㅋㅋㅋ
+P0 	: 아 그러시구나! 어떤 디자인으로 사고 싶으셔요?
+P1 	: 전 수납 많은 거요 ㅎㅎ ㅎㅎ

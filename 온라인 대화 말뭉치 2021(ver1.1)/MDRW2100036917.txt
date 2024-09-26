@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036917
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: &name1&님 동네의 오늘 날씨 어떠신가요?
+P0 	: 저희지역음 비가오고잇어요 ㅜ
+	  &name2&님네 지역은 어떠세요?
+P1 	: 저희 동네는 좀 어두운데 곧 비 내릴 거 같은 날씨네요
+P1 	: 24도 되니까 꽤 춥네요ㅋㅋㅋ
+P0 	: 오 저희지역도 그쯤되는것같기도한데 ㅋㅋㅋ 너무 열심히 내리네요 ㅋㅋㅋ
+P1 	: 맞아요ㅋㅋㅋㅋ 오늘도 내리다니 너무 춥고 습해요...
+P0 	: 저희지역도 그래요. 며칠동안 내릴거생각하니
+	  맑은날이그립네요
+P1 	: 맞아요...
+P1 	: 가을맞이 옷장정리 하셨나요?!
+P0 	: 9월 중순쯤에 추워질때쯤할까 고민중이에요
+P1 	: 전 이미 했어요!ㅋㅋㅋㅋㅋㅋㅋ 빨리 후드티 입고 싶어서 했는데 지금날씨 보니까 잘 한 거 같네요
+P0 	: 오.. 비많이내리면 이제 추워지려나요 ㅎㅎ 
+	  바닥이 좀 차갑긴하더라고요
+P1 	: 맞아요...ㅠㅠㅋㅋㅋㅋㅋ 이제 더 추워질 거 같아요 반바지는 못 입겠네요
+P0 	: 추위 잘타시나보네요 ㅎㅎ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100004136
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 하시능 게임 있으신가요..?
+P1 	: 전 루미큐브 해요
+P1 	: &name1&님은요?
+P0 	: 저는 핸드폰으로 스플렌더해요!
+P0 	: 컴퓨터 게임은 예전에만 하고 잘 안했어서 주제가 조금 어렵네요ㅠㅠ
+P1 	: 오 스플렌더 저 알아요
+P1 	: 핸드폰으로도 할 수 있어요?
+P0 	: 네! Spendee 이 어플이에요!
+P1 	: 저 오프라인으로 두번정도 해봤는데
+P1 	: 생각보다 룰이 뭐가 많더라구요
+P0 	: 카드도 그렇고 칩도 그렇고 뭐가 많아서 더 헷갈리는 것 같아요
+P0 	: 저는 원래 보드게임을 좋아하는데 요즘 코로나땨문에 하기 힘들어서 핸드폰으로 하는 중이에요ㅎㅎ
+P0 	: 어렸을때는 카트나 크아 좋아했었는데 크니까 잘 안하게 되더라구요
+P1 	: 오 맞아요
+P1 	: 저도 크아 좋아했어요!
+P0 	: 크아 어떤 캐릭터로 주로 하셨나요??
+P1 	: 전 우니였던거 같은데 맞는지 모르겠어요 물폭탄 좀 세던 친구!ㅋㅋㅋ
+P0 	: 오 우니 맞는 것 같아요!
+P0 	: 저는 그냥 배찌가 귀여워서 배찌했었어요ㅋㅋㅋㅋㅋ
+P0 	: 크아 몬스터모드도 생각보다 재밌었었어요
+P1 	: 맞아요 배찌 너무 귀여웠어요
+P1 	: 몬스터모드 저도 했었어요! 그거랑 토끼잡는..? 그런것도 재밌었던거 같은데
+P0 	: 헉 맞아요 바니팜!
+P0 	: 그 꼬물이도 완전 재밌었어요!ㅋㅋㅋ

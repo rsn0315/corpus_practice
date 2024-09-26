@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100004663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤계절 좋아하세요?
+P1 	: 저는 겨울이요
+P1 	: 더운 것보단 추운 계절이 좋아요
+P1 	: &name1&님은요?
+P0 	: 저는 가을빼고는 다 좋은거같아요
+P0 	: 봄이나 여름은 향이좋고 겨울은 크리스마스분위기가 좋더라구요
+P1 	: 오 보통 선선한 계절이라 가을을 많이 좋아하던데 가을을 별로 좋아하시 않으시는군요
+P1 	: 전 여름이 더워서 싫지만 여름 과일은 정말 좋아해요ㅋㅋㅋㅋ
+P0 	: 여름마다 수박먹는데 정말 좋더라구요 ㅎㅎ
+P1 	: 오 수박 좋아하시나요? 요즘은 복수박같은 작은 수박도 나와서 1인가구도 수박 접근성이 높아져서 좋아요
+P0 	: 각 계절마다 좋아하는 음식이 있는거같아요 ㅎㅎ
+P0 	: 수박이나 겨울에는 귤같은....
+P1 	: 오 맞아요 여름엔 복숭아나 체리, 샤인머스켓, 블루베리 겨울엔 역시 귤이죠
+P0 	: 이번 겨울에 올림픽 열리던데
+P0 	: 보실거에요?
+P1 	: 음 모르겠어요 가족들이 켜두면 보고 찾아보진 않을 것 같아요
+P1 	: 이번 도쿄올림픽도 찾아본 경기가 그리 많지 않았거든요
+P0 	: 그럼 올해 하고싶은거는 뭐에요?
+P1 	: 음 그냥 잘 쉬고 잘 먹고 건강한 게 목표에요ㅋㅋㅋㅋ 쉬어가는 해라고 생각하고 지내는중이에요
+P0 	: 이제 벌써 곧 겨울이네요...

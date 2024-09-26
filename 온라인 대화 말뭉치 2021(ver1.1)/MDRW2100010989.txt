@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010989
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 천둥 번개가,,
+P0 	: 천둥번개가 엄청 납니다
+P1 	: 아 남쪽지방이신가요?
+P0 	: 네 경남이라 와 어제무서웧어요
+P1 	: 저는 대구인데  어제 비엄청오더라구요
+P0 	: 오늘은오전 오고 지금은 안와요
+P1 	: 오다안오다가 하다보니 습도가 엄청나네요
+P0 	: 엄청난습도로 에어컨 풀ㅇ네요
+P1 	: 네 제습기도 한동안 계속 틀었던거 같네요 ㅠㅠ
+P0 	: 에어컨 제습기 다틀죠ㅋ
+P1 	: 맞아요 ㅠㅠ
+	  또 비가 오네요..ㅋㅋ
+	  돌아서면 비오고 돌아서면 비오고
+P0 	: 이번주 비소식 종종있어요
+P1 	: 그러게요.. 올해는 태풍, 장마보다 계속 줄기차게 비가 오네요
+P0 	: 이비가끝나면 시원한가을이겠죠

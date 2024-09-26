@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006450
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 리유저블컵 사용하세요?
+P0 	: 네!!
+P0 	: 저는 스타벅스꺼 써욥
+P1 	: 콜드컵 사용하시는건가요??
+P0 	: 스벅꺼 디자인도 예쁘고 여러번 쓸 수잇어서 좋습니다
+P0 	: &name2&은 어디꺼쓰게요
+P1 	: 전 투썸플레이스 콜드컵을 썼었는데 이젠 투썸 머그컵?을 사용해요ㅎㅎ
+P0 	: 오  장점이 뭐죠?? 저도 머그컵 쓰고싶어요.
+P1 	: 머그컵이라도 플라스틱 머그컵을 사용하고 있는데 꽤 보온도 잘되고 가볍고 괜찮더라고요!!
+P0 	: 오.. 신기술이군요. 저도 사야겠어요
+P1 	: 네 저는 도자기랑 플라스틱 컵을 사용하거든요 둘다 좋아요 추천드려요!!
+P0 	: 오..무근 컵을 더 자주쓰세요?
+P1 	: 요즘은 손목이 안 좋아서 플라스틱을 주로 써요ㅎㅎ 저희 언니가 사줬는데 넘 잘쓰고 있어요~~
+P0 	: 오 좋은 언니를 두셨네오.

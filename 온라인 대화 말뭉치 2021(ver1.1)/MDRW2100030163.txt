@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030163
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 네네!
+P0 	: 어디가 제일 좋으셨어요?
+P1 	: 중학생때 일본 여행 갔던게 기억이 나네요!
+P0 	: 일찍 해외가셨네요!
+P0 	: 전 직장들어가서 처음 중국
+P1 	: 오! 저는 중국 한번도 안가봤는데 어떤가요?
+P0 	: 패키지로 북경인데 옛날이긴한데 더럽고 정신없고ㅋㅋ
+P0 	: 홍콩 자유여행은 좋았어요ㅎㅎ이제 다시 못가지만요ㅜ
+P1 	: 아ㅏ 홍콩..ㅜㅜ 그쵸 요즘 또 그래서...
+P0 	: 그러니까요ㅜㅜ 코로나 끝남 어디가고싶으세요?
+P1 	: 저는 일본어 잘하는 친구가 있어서  친구랑 일본 자유 여행 계획을 실행하고 싶네요
+P1 	: 도쿄로 갈 것 같아요!
+P0 	: 아 언어 잘하는 친구있음 진짜 여행 열배는 더 좋아지는거같아요
+P1 	: 맞아요 사기 당할 일도 없고 말도 잘 풀리니까요
+P1 	: 홍콩 자유여행이면 영어 쓰셨나요?
+P0 	: 그때 현지에 친구가 살고있었어요ㅎㅎ

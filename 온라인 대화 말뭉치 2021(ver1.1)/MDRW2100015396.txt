@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015396
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 종교 있으신가요?
+P0 	: 저도 없고
+P0 	: 부모님은불교요
+P1 	: 그럼 절 가보셨나요?
+P0 	: 아니여
+P1 	: 교회나 성당에 가보신 적도 없나요?
+P0 	: 친구따라요
+P1 	: 언제 가보셨나요?
+P0 	: 어릴때
+P0 	: 요
+P1 	: 크리스마스에 교회 가보신 적 있으신가요?
+P0 	: 네 가봤는데
+P1 	: 친구따라 가신건가요?
+P0 	: 네
+P1 	: 그러시군요

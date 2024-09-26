@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100040568
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 치킨을 어떻게 만들어
+P0 	: 집에 에어프라이어기 있잖아
+P1 	: 시간 오래 걸린다
+P0 	: 그건그렇다 ㅎ
+P1 	: 설겆이 꺼리도 많이 나옴
+P0 	: 근데 돈을 아낄수 있잖아
+P1 	: 그건 그렇지
+P0 	: 닭 저렴하던데
+P1 	: 그래 닭 저렴함
+P0 	: 내일 사서 만들어보자 ㅎ
+P1 	: 한번 해 보던지
+P0 	: 웅웅 맛나게 해보겠어
+P1 	: 그래 기대한다
+P0 	: 집에 콜라 없는가

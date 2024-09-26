@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100046741
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 단순 노무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 점심 드셨나요?
+P0 	: 넵!
+P0 	: 집에 있는 나물과 식은 밥으로 비벼 먹었어요
+P0 	: 어찌나 맛없던지
+P0 	: 역시  비빔밥은 고추장이 생명이네요
+P0 	: 점심 하셨나용
+P0 	: ㅜㅜ
+P1 	: 헉! 어떻게 비빔밥을 고추장 없이 드셨어요?
+P1 	: 장이 생명이잖아요 ㅎㅎ
+P0 	: 그쵸
+P1 	: 저도 점심 먹고 왔어요 ㅎㅎ
+P1 	: 저는 덮밥 먹었어요!
+P0 	: 어떤 덮밥인가요
+P0 	: 장어 덮밥인가요
+P1 	: 아뇨 ㅎㅎ
+P1 	: 장어 덮밥이었으면 좋았겠지만
+P1 	: 대창 덮밥 먹었어요!
+P0 	: 저는 치아가 좋지못해서  대창 막창 못먹네요ㅜㅜ
+P1 	: 헉 치아가 안좋으시군요 ㅠㅠ
+P1 	: 저도 자주 먹지는 않아요 ㅋㅋㅋ
+P0 	: 그렇군요
+P0 	: 내장이 부드러우면 좋을텐데 아싑네요
+P0 	: 건강이 최고입니다 아프고나니깐  모든 게 부질없더라구요
+P1 	: 건강이 정말 최고지요 ㅠㅠ
+P1 	: 이제는 괜찮으신거예요~?
+P0 	: 넵 완치는 아니더라도 일상생활은 겨우 하네요
+P1 	: 아이구 ㅠㅠ 얼른 완치돼서 건강하게 지내셨으면 좋겠네요!

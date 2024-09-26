@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100038019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 어제 드디어 필라테스 첫 수업 했어요
+P0 	: 아..^^
+	  어땠어요? 건강해지는 느낌 드셨나요?
+P1 	: 자세 체크를 한참해주셨어요
+P1 	: 살 없애는 것보다 자세교정이 시급하더라고요
+P0 	: 큰 도움이 됐겠네요.
+	  꾸준히 하면 이쁜 몸매, 건강한 몸매를 가질 수 있겠어요.
+P1 	: 네 큰결싴하고 등록해서 건강해져보려고요
+P0 	: 평소 안쓰던 근육을 쓰셔서 좀 쑤시겠어요.
+P1 	: 별로 한것도 없이 알배겼어요
+P0 	: 한달정도 꾸준히 하시면 쑤시는 게 덜하실려나요.
+	  저는 꾸준히 운동해본 적이 없어서 잘 모르겠네요.
+P1 	: 결혼전에 피티를 받았는데 강사가 너무 날티나서 저도 꾸준히는 못했어요
+P1 	: 이번에ㅡ제대로 운동해보고싶어요
+P0 	: 운동으로 다져진 몸매가 오래 유지되더라구요.
+	  헌혈해보셨어요,.
+P1 	: 아니요 빈혈때문에 몇번 돌아오고는 시도안해봤어요 해보셨나요
+P0 	: 저도 아직 안해봤는데요.
+	  헌혈을 주기적으로 하는 게 좋다는요.;;
+P1 	: 그런데 여자 친구들보면 의외로 헌혈 안되는 친구들이 많더라고요

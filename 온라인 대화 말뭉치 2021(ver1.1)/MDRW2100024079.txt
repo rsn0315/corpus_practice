@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100024079
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 점심에 튀김먹었어
+P0 	: 무슨 튀김 드셨는데요?
+P1 	: 김말이 먹었어
+P0 	: 맛있는거 드셨네 다른 반찬은 뭐 드셨어요?
+P1 	: 다른건 오이지 사라다 먹었어
+P1 	: 김치 김치국
+P0 	: 그냥 그랬구나 반찬
+P1 	: 넌 뭐 먹었어
+P0 	: 된장찌개에 밥 비벼서 먹었어요
+P1 	: 나도 아침엔 된장먹었어
+P0 	: 짜진 않으셨어요?
+P0 	: 데펴서 드셨고?
+P1 	: 짰어 생각보다 짜서 밥한숟가락 더 먹었어
+P0 	: 아니 잘 드셨나 해서 여쭤봤지요
+P1 	: 짰어

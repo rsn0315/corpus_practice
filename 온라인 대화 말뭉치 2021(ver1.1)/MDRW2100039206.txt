@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100039206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 오늘 감자샐러드 샌드위치 만들어 먹었어요
+P0 	: 우와,  맛있겠어요
+P0 	: 저희도 시골에서 준 감자가 있는데 내일 해먹어야겠어요
+P1 	: 네..  감자랑 삶은 계란 마요네즈를 베이스로
+P1 	: 나머지 넣고 싶은 채소들 넣으면 맛있어요
+P1 	: 오이는 꼭 들어가야 하구요
+P0 	: 맞아요, 오이 꼭 들어가야해요
+P0 	: 당근도 넣나요?
+P0 	: 갠적으로 전 별로 안좋아해서 넣어도 아주 잘게 조사넣어요 ㅋㅋ
+P1 	: 저와 가족들은 당근 잘 먹어서 넣어요
+P0 	: 그러시군요. 당근이 몸에는 좋죠.
+P0 	: 저는 저녁으로 초계무침을 해먹었어요
+P1 	: 초계무침 만들어 먹었어요? 대단한 솜씨네요
+P0 	: 사실 어렵진 않아요.
+P0 	: 그 마트에서 파는 고깃집 양파절임 소스에 겨자랑 식초만  좀 더 넣으면 얼추 비슷한 맛이 돼요ㅋㅋ
+P1 	: 그렇군요.. 제가 도전 안해본 메뉴라..
+P1 	: 한번 해보고 싶네요
+P0 	: 전 처음부터 그럴듯한 맛 내는건 못하는데
+P0 	: 시판재료에 +@ 하는건 자주 해요
+P1 	: 좋은 시도네요
+P0 	: 비교적 쉽고 빠르고 맛도 있죠
+P0 	: 맛이 다 비슷비슷해진다는 단점은 있습니다만...
+P1 	: 비슷해도 맛만 있으면 되죠~

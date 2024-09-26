@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 넷플릭스 쓰시나요?
+P1 	: 네네!
+P1 	: &name1&도요?
+P0 	: 네 휴일에는 넷플릭스 보는거 좋아해요~
+P1 	: 저도 할일다하고 요즘 새벽까지 봐요 ㅎㅎㅎ
+P1 	: 좋아하는 드라마있으세요?
+P1 	: 넷플에서요!
+P0 	: 저는 기묘한 이야기  좋아해서 다음 시즌 기다리고 있어요
+P1 	: 아 제 동생도 그거 짱좋아해요ㅋㅋ
+P0 	: ㅋㅋㅋ그 드라마 보려고 넷플릭스 시작하게 되어서
+P0 	: &name2&은 어떤 드라마 좋아하시나요
+P1 	: 저는 그레이아나토미 본답니다!!
+P0 	: 오 산드라 오 나오는 드라마죠
+P1 	: 마자요!!
+P0 	: 이번에 더 체어라고 새로운 드라마 봐보려구요
+P1 	: 아마 총 삼백화쯤되는데 어제까지 백화 넘게 보고있답니다ㅎ..
+P1 	: 더 체어 재밌나요?
+P0 	: 와우 엄청나네요
+P0 	: 아직 예고만 봤는데 재미있을것 같아요
+P1 	: 저도 내용이랑 돌잔치 짤만 봤답니다ㅋㅋ
+P1 	: 최애 영화가 무엇인지 궁금해요..!
+P0 	: 저는 디즈니 영화 좋아해요~~

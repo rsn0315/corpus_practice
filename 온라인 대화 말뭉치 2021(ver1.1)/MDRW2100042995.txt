@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100042995
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 빵좋아하시나요
+P1 	: 초코빵 좋아해요!
+P0 	: 개맛있죠 초코빵
+P0 	: 단거 좋아하시나봐요
+P0 	: 마카롱도 좋아하시나요
+P1 	: 완전 좋아해요! 초코 관련된 건 다 좋아해요
+P0 	: ㅋㅋㅋㅋ아ㅋㅋ&name2&님의 베스트초코과자는 뭔가요
+P1 	: 칙촉이요ㅋㅋ 맛있어용
+P0 	: 아ㅠ넘좋아요 초코칩쿠키같은
+P0 	: 버석함과다른 촉촉함 ㄹㅇ좋아요
+P1 	: 맞아요ㅜㅜㅜ 촉촉바삭이어서 정말 맛있어요
+P1 	: &name1&님은요?
+P0 	: 저는 홈런볼!
+P0 	: 바삭한데 초코드간게 손이 잘가요
+P1 	: 허........ 맞아요.....사실 그거 어제 먹었아요...넘 맛있죠ㅜㅜ
+P0 	: 아ㅠ맛잇엇겟다
+P0 	: 얼려드시나요 구워드시나요
+P1 	: 헉 홈런볼 구워먹나요?!
+P0 	: 에프 160도 5분돌리면
+P0 	: 따끈바삭함에 살살녹아요
+P0 	: 추천합니당
+P1 	: 와... 저 상상도 못해본 방법이에요... 하나 더 사서 그렇게 먹어봐야겠어요
+P0 	: 바로먹음 초코땜에 뜨거운데
+P1 	: 오...
+P0 	: 기영이처럼 후불어드세요ㄹㅇ

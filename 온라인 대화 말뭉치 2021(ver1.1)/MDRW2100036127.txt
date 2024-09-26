@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100036127
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁메뉴 정하셨어요?
+P1 	: 아니오 ㅋㅋㅋㅋ&name1&님은요?
+P0 	: 저는 소고기미역국이요ㅋㅋ
+P1 	: 저는 뭘 먹어야 할지,, 진미채 멸치볶음 이런게 있으니 그냥 계란후라이에 그거나 먹을가 싶어요
+P0 	: 저희집 밑반찬과 똑같네여ㅠㅋㅋ
+P1 	: 안썩는 ㅋㅋㅋ 보존성 좋은 반찬 레파토리가 다 거기서 거기죸
+P0 	: ㅋㅋ 이제 좀 물리네요ㅠ
+	  새로운 밑반찬 없을까여ㅋㅋ
+P1 	: 통조림 반찬이 있습니다.ㅋㅋㅋ
+P0 	: 통조림 반찬요?
+P0 	: 어떤게 있나요?
+P1 	: 딱히 반찬이라고 써있는건 아니고 바로 가먹을만한 다요
+P1 	: 야채참치같은 것부터 일본 반찬까지,,
+P0 	: 아 ㅋㅋ 참치ㅋㅋ
+P0 	: 무슨 참치 좋아하세여?
+P1 	: 참치말고 다른 통조림도 만하요 찾아보세요 ㅎㅎㅎ
+P1 	: 가격이 문제일뿐
+P1 	: 참치는 딱히? 아무참치나 먹는데 그냥 참치를 가지고 요리를 마니해요 &name1&님은 선호하는참치가 있으신가요
+P0 	: 그냥 동원참치 사서
+	  참치전도 하고 찌개도 끓이고
+	  참치마요도 만들어요 ㅋㅋ
+P1 	: 그떄 그대 아무 참치나 써요 동원이건 오뚜기건ㅋㅋㅋ
+P1 	: 맛은 좀 다를때도 있는데 그냥저냥 ㅋㅋ

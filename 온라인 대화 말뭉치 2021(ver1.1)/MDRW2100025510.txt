@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100025510
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화좋아하세요?
+P1 	: 종종 봐요 영화 자주 보세요?
+P0 	: 가끔씩
+P0 	: 요
+P1 	: 최근 개봉작은 못 봤어요 ㅠㅠ 최근에 영화관 가셨나요?
+P0 	: 코로나때문에
+P0 	: 못가요
+P1 	: 그런가요 저도 걱정이 되어서 안 간지 한참됐네요 볼 예정인 영화 있으세요?
+P0 	: 모가디슈볼려구요
+P1 	: 아 그거 감동적이라고 하더라고요 실화바탕 이라고 하죠
+P1 	: 저는 코다 다운로드 받아서 볼려고 기다리고 있어요 음악영화라 하니 기대가 되네요
+P0 	: 잼나겠당
+P1 	: 네 저도 빨리 집에서 볼 수 있었으면 좋겠어요 모가디슈도 리스트에 담아놔야겠네요!
+P0 	: 강추요
+P1 	: 실화 재구성이라하면 봐야죠! 이거 보면 최근 해외이슈도 생각날 것 같아요
+P0 	: 빨리 보고싶어요.

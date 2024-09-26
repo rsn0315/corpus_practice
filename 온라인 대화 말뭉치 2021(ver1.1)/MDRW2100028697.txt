@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100028697
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 해봤지 당연
+P0 	: 구직 활동을 해 봐야 취직이 가능하지 참
+P0 	: 구직 활동은 너므 자존감을 똘어뜨려
+P0 	: 떨어뜨려
+P1 	: 맞아 면접이 제일 싫어
+P1 	: 낙하산이 부러워
+P0 	: 나는 자기소개서가 싫어
+P1 	: 나도 누가 대신 써줬으면
+P0 	: 너희 급여는 언제 오르니?
+P1 	: 내년 1월 협상할걸
+P0 	: 많이 올라서 밥 사라
+P0 	: 늘 그랬듯이
+P1 	: 그래 넌 언제 올라
+P1 	: 연말상여 받아서 좋겠다
+P0 	: 우리도 내년
+P1 	: 협상이야 통보야?
+P0 	: 상여금을 포함해도 니 월급보다 적어
+P1 	: 내월급이 얼마인지 모르잖아
+P0 	: 우리는 협상 없어
+P0 	: 대충 알아
+P0 	: 너한테서 부자의 기운이 느껴져
+P1 	: 협상 없으면 전직원 인상이 똑같아?
+P0 	: 그건 아닌 거 같아 개별적으로 더르게 인상되더라
+P0 	: 연구소 직원 많이 올랐대
+P1 	: 너도 많이 오르면 좋겠다
+P0 	: 맞아

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100032000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P0 	: 사고싶은거 있으세요?
+P1 	: 아니요
+P1 	: 추석선물고민중이에요
+P0 	: ㅋㅋㅋ어르신들용으로요?
+P0 	: 아님 동료분들?
+P1 	: 어른용이요
+P1 	: 아무래도 홍삼?
+P0 	: 그죠 ㅎㅎ
+P0 	: 전 과일 보고있었는데 가격 머선일인지..
+P1 	: 광고의힘인지
+P1 	: 젤먼저떠올라요
+P1 	: 과일비싸죠
+P0 	: ㅋㅋㅋ맞아요 웃고계신 할머니 이런 이미지
+P1 	: ㅋㅋㅋ
+P1 	: 그쵸그쵸
+P0 	: 정관장 어떤거 살계획이세요?
+P1 	: 무난한 홍삼정
+P1 	: 아님 화애락?
+P0 	: 아하 ㅎㅎ
+P0 	: 요즘 스틱 형태도 간편해보이더라구요
+P1 	: 그쵸

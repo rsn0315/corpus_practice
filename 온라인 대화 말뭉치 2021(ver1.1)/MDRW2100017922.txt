@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100017922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 최근에 구매하신 용품이 뭐예요?
+P1 	: 최근에 구매한거라면
+P1 	: 옷!
+P1 	: 옷샀죠
+P0 	: 오 가을옷?
+P1 	: 슬슬 가을철 올라고 하는거같아서
+P1 	: 가디건 하나샀어요
+P0 	: 패션에 관심이 많으세요?
+P1 	: 예전엔 없었는ㄷ0
+P1 	: 성인되고 나니까 뭔가 옷에 관심이 생겨버렸어요 ㅋㅋ
+P0 	: 오 ㅎㅎ 관심이 생기셨군요 ㅎㅎ 전 그냥 작년치 입으려구요
+P1 	: 아하 그렇군용
+P0 	: 앗 이제 막 성인 되신 거에요?
+P1 	: 아뇨! 성인된진 몇년됬어용
+P0 	: 오 몇년이어도 초반이네요 ㅎㅎ
+P0 	: 한창 패션감성 충만할 때네요
+P1 	: 네넹 ㅎㅎ
+P0 	: 또 뭐 사셨어요?
+P1 	: 전동칫솔이랑 면도기 구매한 기억도 나네요!
+P0 	: 오 필수품!
+P0 	: 만족하세요?
+P1 	: 도루코 면도기 왜쓰나 싶었는데
+P1 	: 너무 늦게 안거같기도해요 ㅠㅠ
+P0 	: 오 도루코!
+P1 	: 전동칫솔도 그렇고요
+P0 	: 저도 들어봤어요!

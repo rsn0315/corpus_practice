@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010328
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 가고싶은 여행지는?
+P1 	: 해외
+P0 	: 어느나라?
+P1 	: 아시아 쪽에 갈거야
+P0 	: 어디?
+P1 	: 방콕 가고싶은 여행지는?
+P0 	: 나도 태국가고싶어
+P1 	: 태국 어디?
+P0 	: 아무곳이나
+P0 	: 태국 음식 먹고싶어서
+P1 	: 태국 방콕?
+P0 	: 응 팟타이 좋아해
+P1 	: 팟타이 좋아한다고?
+P0 	: 똠얌꿍도 먹어보고 싶어
+P1 	: 팟타이 말고 다른거 좋아하는 음식이 있어?
+P0 	: 너는 왜 태국 가고 싶은데?
+P0 	: 풋팟뽕커리고 좋아해
+P1 	: 나도 태국 음식이 너무 먹고싶어서

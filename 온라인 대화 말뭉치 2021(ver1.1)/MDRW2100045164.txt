@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100045164
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 서브웨이 좋아하시나요?
+P1 	: 네 좋아해요 야채 먹고 싶을 때 가요
+P0 	: 어떤 메뉴 드시나요?
+P1 	: 그냥 그날의 할인메뉴 먹어요
+P0 	: 할인메뉴 좋죠 이번에는 참치던데.. 참치 드셔보셨나요?
+P1 	: 앗 아니오ㅠㅠ 요즘 바빠서 못 갔어요ㅠㅠ
+P0 	: 저도 한번도 안먹어봐서.. 할인행사하는김에 먹어볼까 고민중이네요
+P1 	: 할인 행사하면 한 번 도전해봐야죠
+P0 	: 그쵸 담에 가서 먹어봐야겠어요
+P0 	: 빵은 어떤거 드시나요?
+P1 	: 보통 오레가노 아니면 허니오트 먹어요
+P0 	: 오레가노도 괜찮군요 전 허니오트로만 먹어봤네요
+P1 	: 배 그렇게 안 고프면 프랫브레드도 맛있어요
+P0 	: 아 맞아요 플랫브레드도 초반에는 잠깐 먹었었는데 뭔가 빵같지 않아서 ... 허니오트가 낫더라구요
+P1 	: 그럼 역시 파마산 오레가노에 도전해보세요
+P0 	: 다음번에는 그거 먹어볼게요ㅎㅎ

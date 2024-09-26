@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100032628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다음에 꼭 기회되면 드셔보세요!!
+P1 	: &name1&님은 특별히 좋아하는 카페나 맛집 있으세요?
+P0 	: 저는 카페는 보이는곳 들어가요 !!
+P0 	: 맛집은 한정식 좋아해요
+P0 	: 코스로 나오는!!!
+P1 	: 아하~ 한식은 어떤 음식 좋아하세요?
+P1 	: 전 한정식 집 가면 잡채 가장 좋아해요 ㅋㅋㅋㅋㅋ
+P0 	: 와!! 잡채 맛있죠 !!!
+P0 	: 고기랑 찌개가 너무 맛닜어요 ㅋㅋ
+P0 	: 회도 맛보기로 나오드라구용 ㅎㄹ
+P1 	: 아하 한식집에서 회도 나오나요? 너무 안 간지 오래돼서 신기하네요.. 물론 식당마다 음식 다르게 나오겠지만!
+P1 	: 오늘은 뭘 드실 예정인가요?
+P0 	: 오늘은 대충 먹을려구요 ㅠㅠ 백수다 보니까
+P0 	: 집반찬에 먹을예정이에요 ㅋㅋㅋ
+P1 	: 아하ㅋㅋㅋㅋㅋㅋㅋ 저도 아침은 대충 먹었어요
+P1 	: 어제 가족들이 전 부쳐먹었는지 한장 남아있어서 그거 데워먹었답니다!
+P0 	: 우아 무슨전이였어요???
+P1 	: 호박전이요!
+P1 	: 전 좋아하시나요? ㅎㅎ
+P0 	: 오오 너무 좋아해요!!
+P0 	: 김치전 감자전..!
+P0 	: 만들진 못해요 ㅋㅋㅋ
+P1 	: 헉 감자전도 맛있죠~
+P1 	: 저는 김치전까지만 해봤어요!
+P0 	: 오오 반죽에 식용유를 넣으면 바삭하다구 하드라구용!
+P1 	: 오 저는 그렇게는 아직 안 해봤어요!

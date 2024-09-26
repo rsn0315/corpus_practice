@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012715
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연이나 전시회 다녀오신적 있으신가요?
+P1 	: 네 저 공연 보는 거 좋아해요
+P0 	: 아 진짜요 어떤 공연 보셨나요?
+P1 	: 좋아하는 가수들 공연이요 ㅋㅋ 인디 좋아해요
+P0 	: 어떤 가수 좋아하세요?
+P1 	: 오핑이요!
+P0 	: 저는 인디가수 아예 모르고 공연 보러가본적도 없네요.. 공연 보러 가셨을때 어땠는지 말해주실 수 있으세요?
+P1 	: 공연장 직접 가서 들으니까 사운드도 빵빵하고 너무 좋아요!
+P0 	: 저도 요즘 밴드 그룹에 빠져있는데 코로나 끝나면 공연장 가서 직접 듣고 싶어요ㅠㅠㅠㅠ
+P1 	: 그쵸 ㅠㅠ 진짜 코로나 때문에 공연 못 보는 게 한이에요
+P0 	: 맞아요 진짜 콘서트도 못 가고ㅠㅠ 이럴줄 알았으면 예전에 더 많이 보러다녔던건데...
+P1 	: 빨리 백신 다들 맞아서 공연 열리면 좋겠어요...
+P0 	: 저 예전에 아이돌 콘서트 한두번 갔다왔는데 개인적으로 생각보다 재미없었어서 아쉬웠어요.. 그래서 사운드 빵빵한 밴드 콘서트는 꼭 가보고 싶어요!!
+P1 	: 밴드 사운드 진짜 쾌감이 쩔죠 ㅋㅋㅋㅋ

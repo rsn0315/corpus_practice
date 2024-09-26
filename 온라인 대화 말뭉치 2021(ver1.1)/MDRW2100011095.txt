@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100011095
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 퇴근은 하셨어요?
+P1 	: 아니요 ㅎㅎ 야간이라서
+P1 	: 내일 아침 퇴근입니다ㅋㅋ
+P0 	: 아 야간이면 몇시퇴근이예요?
+P1 	: 원래는 9시요 ㅎㅎ
+P1 	: 오늘은 당직이라서 5시까지 밤새고 자러가요
+P0 	: 아까 5시나오셨는데 근무시간이 8 시간이 아닌가요?
+P1 	: 아 야간은 6-9인데
+P1 	: 중간에 무급으로 휴게시간이 네시간정도
+P1 	: 빠지니까
+P1 	: 11시간이지 싶네요
+P0 	: 힘들겠어요 밤낮 바뀌면
+P0 	: 경찰들 근무하는거랑 비슷한가봐요
+P1 	: 네 그래도 잘 맞는 편이라서
+P1 	: 눈붙이면 잘자요ㅎㅎ
+P0 	: 다행이네요 혼자 계시는거예요? 아님여러명 같이 근무?
+P1 	: 일할때는 공익까지 4명정도 있고
+P1 	: 당직은 혼자예요 ㅎㅎ
+P0 	: 아 글쿤요 근데 지하철 새벽운행도안하는데 그시간에 무슨일하나요?
+P1 	: 역사 내 작업도 있기도 하고 음
+P1 	: 크게 일은 없어요 사실
+P1 	: 경보만 안울리면ㅎㅎ
+P0 	: ㅎㅎ 그럼 주간근무보단 훨편하겠네요
+P1 	: 네 그쵸ㅋㅋ 근데 막차 전까지 취객이 ㅎㅎ
+P0 	: 아 그게문제ㅎ

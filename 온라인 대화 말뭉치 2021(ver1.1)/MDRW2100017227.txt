@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017227
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 감자전 오늘 먹는다구?
+P0 	: 응 오늘!
+	  어제 남긴 치킨과 함께ㅋㅋ
+P0 	: 넌 오늘 뭐먹어?
+P1 	: 굿굿~
+	  난 오늘 부추삼겹살!ㅋㅋ
+P0 	: 오호! 배달? 아님 직접해먹는거?
+P1 	: 외식이얌 후후
+P0 	: 외식?  오!  &name3&이가 쏘는거야?ㅋㅋ
+P1 	: 어제 샀었어서 오늘 또 사는지는 모르겠네? 쐈으면 좋겠는데ㅋㅋㅋ
+P0 	: 아ㅋㅋㅋㅋㅋ또 사달라고 해봐ㄲㅋ
+P0 	: 어디서먹어?
+P1 	: 만나면 말해야겠당ㅋㅋ 사당!
+P0 	: ㅋㅋㅋㅋ오 막 근처에서 먹는건아니네
+P0 	: 일끝나고 바로 갈거구나?
+P1 	: 응 그리고 부추삼겹살이 사당이 유명한가봐
+P1 	: 돈닭 어떤거 먹었어? 간장?
+P0 	: 응 간장! 간장이 제일 나은거같아
+	  이번에 처음 가보는거지?
+P1 	: &name3&이는 몇번 갔었어! 괜찮다고 하더라구

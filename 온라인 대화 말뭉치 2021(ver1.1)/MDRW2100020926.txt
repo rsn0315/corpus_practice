@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020926
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 점심 뭐 드셨어요?
+P1 	: 중국음식이요
+P1 	: &name1&씨는?
+P0 	: 와 우연이네요. 저도 중국집서 시켜먹었어요ㅎ
+P0 	: 뭐뭐 시켰어요?
+P1 	: 오 대박 뭐 시키셨나요?
+P1 	: 저 짬뽕 짜장 군만두
+P0 	: 전 짬뽕과 탕수육이요
+P1 	: 크.. 탕수육 좋져
+P0 	: 짬뽕파인가요 짜장파인가요
+P1 	: 전 짬뽕이요. &name1&씨는요?
+P0 	: 전 짬뽕밥이요! 면보다 밥이 좋아요
+P0 	: 군만두는 맛있던가요
+P1 	: 군만두 진심 맛있어요. 육즙이 가득합니다ㅜㅜ
+P0 	: 헉 얘기만 들어도 부럽
+P0 	: 서울인가요
+P1 	: 여기는 경기도 수원인데, 송탄 영빈루가 여기에도 분점이 들어왔어요
+P1 	: 고기짬뽕이랑 군만두 추천이요
+P1 	: 가격은 송탄보다 비싸지만ㅜㅜ
+P0 	: 영빈루 검색해 볼게요

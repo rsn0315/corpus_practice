@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000494
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요
+P1 	: 키우지는 않지만 강아지를 좋아해요
+P0 	: 그러시군요! 전 강아지 두마리 키우고있어요~ㅎㅎ
+P1 	: 우와 ^^ 강아지 어떤종류인가요?
+P0 	: 포메라니안 이에요! ㅎㅎ
+P1 	: 포메 ㅜㅜ 넘 귀엽겠어요 이름이 뭔가요 강아지들
+P0 	: &name3&와 &name4&에요~
+P0 	: &name2&님네 강아지는 몇살인가요?ㅎㅎ
+P1 	: &name3& &name4& 이름도 예쁘네요
+	  저는 안키워요 ㅋㅋ 좋아는하지만^^
+	  &name3&&name4&는 몇살인가요^^?
+P0 	: 아 안키우신다고하셨는데 잘못 봤네요 ㅠㅋㅋ
+P0 	: 8살 7살이에요!ㅎㅎ 이제 중년을 지나가는 나이,,ㅎㅎ
+P1 	: 어머나..^^ 그러시군요 &name3&&name4& 궁금하네요^^
+P1 	: 건강한가요 안아프고
+P0 	: 네 어릴땐 좀 약했는데 지금은 괜찮아요 ㅎㅎ
+P1 	: 다행이네요^^ &name3&&name4&는 안싸우나요?
+P0 	: 둘이 사이는 좋은데 질투가 많아서 가끔 싸워요 ㅎㅎ

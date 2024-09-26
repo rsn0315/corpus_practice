@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100012186
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 여행갈 생각잇어?
+P1 	: 응응
+P0 	: 어디갈래?
+P1 	: 우리 제주도 어때?
+P0 	: 제주도는 저번에 갓잖아
+P1 	: 저번에 갔다구???
+P0 	: 작년에 갔잖아 올해는 여수가자
+P1 	: 아ㅋㅋㅋㅋㅋ맞다 ㅇㅋㅇㅋ
+P0 	: 여수 가서 뭐하지?
+P1 	: 여수하면 밤바다 봐야지!
+P0 	: 그건 당연한거구 뭐 먹을래?
+P1 	: 음 간장게장 먹구싶다
+P0 	: 돌게장어때?
+P1 	: 헐 돌게장 좋지!돌게장 먹어봤어?
+P0 	: 아니 한번 먹어보고싶어
+P0 	: 넌 먹어봤어?
+P1 	: 응 그냥 게장보다 더 작아서 양이 적어서 아쉬워
+P0 	: 무한리필집 있지 않을까?
+P1 	: 헐 그럼 돌게장 무한리필 집 가서 먹자!
+P0 	: 너무 좋다 그리구 여수가면 쑥 아이스크림 먹어야해
+P1 	: 쑥 아이스크림?그게 모여
+P0 	: 똥모양 아이스크림인데 맛있대
+P1 	: 아 더러워;;;;;
+P0 	: 뭐래 엄청 맛있어
+P1 	: 쑥 맛이라고 하니까 상상이 안되네
+P0 	: 응 나도 이상한맛일줄 알앗는데 은근 맛있어

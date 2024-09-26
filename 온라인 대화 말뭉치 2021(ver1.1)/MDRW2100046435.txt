@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100046435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211018
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 점심식사는 하셨나요??
+P0 	: 짬뽕 먹었슴다
+P1 	: 짬뽕 뭔가 오늘 같은 날씨와 잘 어울리는 메뉴이네요 ㅎㅎㅎ
+P1 	: &name1&님 또 다른 음식 좋아하시는 것 있나요?ㅎㅎ
+P0 	: 치킨 좋아합니당
+P1 	: 아앗 치킨 맛있죠 ㅎㅎㅎ 치킨은 정말 국민간식인 것 같아요\
+P1 	: 치킨도 후라이드나 양념파가 나뉘는 것 같은데 어느쪽을 더 좋아하세요??
+P0 	: 기본 좋아합니다. 기본에 충실해야 다른 양념을 발라먹어도 맛있는 법이죠
+P0 	: 후라이드, 크리스피, 옛날통닭 다 좋아유
+P1 	: 후라이드 맛있죠 :) 사실 치킨은 다 맛있지만 한림님 말씀처럼
+P1 	: 바삭한 상태로 먹는 게 더 맛있는 것 같아요
+P1 	: 또 다른 메뉴 좋아하시는 것도 있나요?!
+P0 	: 곱창
+	  소고기
+	  돼지고기
+	  라면
+	  냉면
+	  돈까스
+P0 	: {emoji:하트뿅}
+P0 	: {emoji}
+P1 	: 정말 다 맛있는 메뉴네요... 특히 요즘처럼 쌀쌀해진 날씨에 다 제격인 것 같아요!
+P1 	: 저녁은 어떤 메뉴 드실 예정인가요? ㅎㅎ
+P0 	: 저녁은 곰탕 예정 입니다!
+P1 	: 앗 곰탕도 맛있겠어요 ㅎㅎ 속 든든하게 드시면 좋겠습니다! ㅎㅎㅎ
+P0 	: 아하 네네 감사합니다.

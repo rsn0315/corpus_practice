@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100038702
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장다니시면서 가사일 하는건 힘 안드시나요
+P1 	: 힘들어요. 그래서 전 청소을 포기했습니다. &name1&님은요?
+P0 	: 저도요 그냥 로봇청소기로 때워요
+P1 	: 전 로봇청소기가 있지만 돌릴 수 없는 지경입니다 ㅋㅋㅋㅋ
+P0 	: 아 그쵸 결국 바닥의 짐들을 올려야하는...
+P1 	: 네. ㅜ 로봇 청소기 시중 들기 넘 힘들어서 거의 1년째 방치중이예요 ㅋㅋ
+P0 	: 무선청소기가 더 편하려나요
+P1 	: 네.. 물건들을 헤치고 여기저기 손으로 하는게 낫네요.. 일단 장난감을 좀 버려야겠어요
+P0 	: 정리도 이제 능력인 시대죠 저는 무능력 ㅎㅎ
+P1 	: 로봇 청소리 돌아갈 정도면 능력 있으신대요 제가 무능력
+P0 	: 앗 ㅋㅋ 그런건가요
+P1 	: 대신 브라바를 돌려요 ㅎ
+P0 	: 브라바는 물청소가 되는거죠
+P1 	: 네~ 그건 물건 있어도 흡입하거나 하지 않으니 돌릴 수 있어요

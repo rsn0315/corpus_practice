@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100008257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하새요~
+P0 	: 그쪽 날씨 어때요
+P1 	: 오늘은 맑아요
+P1 	: 날씨어떤가요
+P0 	: 엄청 맑아요
+P0 	: 어제까지 시원했는대
+P0 	: 오늘은 또 덥내요
+P1 	: 헉 어제 비안왔나요?
+P1 	: 저 사는 곳은 엄청 퍼부었는데
+P0 	: 비 엄청왔다가 그쳐서
+P0 	: 그 이후로는 내내 시원했어요
+P0 	: 오히려 추워서ㅎㅎ
+P0 	: 근데 오늘은 바람이 안불어요 ㅠㅠ
+P1 	: 더우시겠어요ㅠㅠ
+P1 	: 어떤 계절을 좋아하시나요
+P0 	: 저는 봄 가을이 좋아요
+P0 	: &name2&님은요?
+P1 	: 저는 늦 여름이요
+P1 	: 봄 가을이 좋은 이유가 있나요
+P0 	: 바람이 선선한게 좋아요
+P0 	: 그리고 봄은 꽃이 예쁘고 가을은 과일이 맛있잖아요
+P1 	: 앗 저도 그이유에서 늦여름이 좋아요
+P0 	: 아아 늦여름도 선선해서 좋죠
+P0 	: 요즘은 잘 모르겠긴한대 ㅋㅋ ㅜㅜ
+P1 	: 이상기후 때문에 그런가봐요ㅠ
+P1 	: 약간 계절의 경계가 모호해진 느낌
+P0 	: 맞아요 ㅠㅠ
+P0 	: 너무여름 빡! 겨울 빡!

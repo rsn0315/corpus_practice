@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뼈닭과 순살중에 어떤거 선호하세요
+P1 	: 뼈 있는 거요!
+P0 	: 가장최애치킨 브랜드는여?
+P1 	: kfc! 너무 맛있어요....
+P0 	: 오 그 약간매콤한 그거드세요?
+P1 	: 네 그거 너무 좋아요...
+P0 	: 부위는 어떤부위좋아하세요
+P1 	: 당연히 다리 젤 좋아합니다!
+P1 	: 아 목도 좋아해요
+P0 	: ㅋㅋㅋ저도 다리와날개좋아해서 보통 콤보먹어요
+P0 	: 후라이드파신가여
+P1 	: 네
+P1 	: 아 치킨 먹고싶네요...
+P0 	: 그쳐 야식에 치킨이딱인데
+P0 	: 또 좋아하시는 브랜드있나여
+P1 	: 푸라닭 최근에 먹어봤는데
+P1 	: 맛있더라고요
+P0 	: 오 푸라닭도 괜찮죠 

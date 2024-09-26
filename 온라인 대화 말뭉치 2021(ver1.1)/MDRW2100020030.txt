@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100020030
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 내일은 주말인데 벌써 뭐먹어야할지 고민이에요 ㅠㅠ
+P0 	: 저 지금까지 뭐 먹지 고민하면서 누워있어요 ㅋㄱㄱㄱㄱㅋ
+P0 	: 배는 고픈데 뭐 해먹기는 귀찮고
+P1 	: 앗 정말요?ㅋㅋㅋ 전..아침에 라면 먹었습니다 허허
+P0 	: 알찬 아침이네요!! ㅋㄱㄱㄱㅋ
+P0 	: 무슨 라면 먹으셨어요!!!!!
+P1 	: 저 해물라면이요~ㅎㅎ 지금은 점심 드셨나용?
+P0 	: 네네 점심에는 그냥 고추참치에다 밥 먹었어요!
+P0 	: 먹으면서 걍 나도 라면먹을걸,,.하는 생각 들어서 라면 먹을려구요 ㅋㄱㄱㄱㄱㅋ
+P1 	: 저녁이요? 무슨 라면 드실건가요?
+P0 	: 저녁에 열라면 먹었어요!
+P0 	: 제 국물라면 원픽이에요 ㅎ.ㅎ
+P1 	: 열라면 맛있죠!!전 너무 매워서 자쥬는 못먹지만 조아해요 ㅠㅠ
+P0 	: 칼칼해서 더욱 맛있는거 같아요~~! &name2&님이 좋아하시는 라면은 뭔가요?
+P1 	: 저는 지금은 딱히 정착한 라면이 없는것 같아요 ㅠㅠ 컵라면 중에서는 튀김우동 좋아해요!
+P0 	: 튀김우동 맛있죠!! 겨울에 먹으면 더 맛있는거 같아요~
+P1 	: 맞아요~ 그거랑 김치만두랑 먹으면 너무 맛있어요 ㅠㅠ
+P0 	: 맛잘알이시네요,,.!! 최고의 조합!!

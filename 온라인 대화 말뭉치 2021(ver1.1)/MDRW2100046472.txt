@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046472
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211025
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 네
+P1 	: 안녕하세요~!:)
+P0 	: 네안녕하세요
+P1 	: 한 주 시작인데 &name1&님은 어떻게 지내고 계시나요? ㅎㅎ
+P0 	: 오늘 11시에 백신맞으러가서 쉬고있어요
+P1 	: 아아 그렇군요! 그러면
+P1 	: 2차 백신접종이신가요??
+P0 	: 네 2차입니다
+P1 	: 2차가 조금 더 아프다는 얘기가 이썯ㄴ데
+P1 	: 있던데
+P1 	: 타이레놀 꼭 챙겨드세요..!ㅎㅎ
+P1 	: 그럼 모더나 맞으시는 건가요~?
+P0 	: 화이자입니다
+P0 	: 1차때도 좀 아팠네요ㅠ
+P1 	: 오 저도 화이자 맞았었는데 맞아요 ㅠ 아팠었어요
+P1 	: 그런데 맞아서 아픈 반응이 나오는 게 더 정상적인 면역 반응인가봐요..!
+P1 	: 아플수록 더 건강한 거라는 얘기가 있더라구요 ㅎㅎ
+P0 	: 그런가요ㅋㅋ
+P1 	: 네..! 곧 맞으시겠군요! 오늘 백신 맞으시고 푹 쉬시길 바랍니다 ㅎㅎㅎ

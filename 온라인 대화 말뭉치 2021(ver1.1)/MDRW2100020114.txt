@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020114
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 학생이신가요?
+P1 	: 학생이라고 하고 싶은 취준생이에요
+P0 	: 그러시구나 학교다닐때 동아리활동 하셨었나요?
+P1 	: 인문계 고등학교라 말만 동아리였던 건 있었는데..그래도 고등학교 1학년때 축제할때 저희반이 유령의집 했었던 건 유독 기억에 남네요!
+	  &name2&은 어떠신가요? 기억에 남는 학교생활 있으세요?
+P0 	: 음 대학교를 다닐때 전공특성상 배를 일주일동안 탔던 수업이 기억이 남아요
+P1 	: 배를 일주일이요? 와..저는 배에 삼일 풍랑속에서 타고 죽는줄 알았었는데..대단하세요
+P0 	: 엄청 큰 배라서 멀미는 안했었요
+P1 	: 아 그러셨군요! 다행이에요 저는 여객선이었어도 힘들었거든요
+	  저도 특색있는 학과였으면 말할게 많았을 거 같은걸요!
+P0 	: 엠티는 어떠셨어요?
+P1 	: 저희 학과 사람이 많아서 엠티는 사실 몰래 빠졌?었어욬
+P0 	: 몰래빠지는게 가능했군요ㅋㅋㅋ 고생하셨어요
+P1 	: ㅋㅋㅋ 워낙 많으니까요! 감사합니다. &name2&은 엠티 즐거우셨나요?
+P0 	: 재미는 있었는데 제가 술을 싫어해서 두번가고 안갔어요

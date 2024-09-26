@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001947
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 데이트 어디서 하세용
+P0 	: 놀이공윈요
+P0 	: &name2&님은요(?)
+P1 	: 저는 여즘 실내데이트!
+P0 	: 좋치요!! 미팅은 해보셨나요(?)
+P1 	: 해보고싶었는데 못해봤어요ㅋㅋ
+P0 	: 저도 미팅이 소개팅보다는 재미있을듯
+P1 	: ㅋㅋㅋㅋ궁금해여 어떤 분위기인지
+P0 	: 이상형과 연애하시나요(?)
+P1 	: 그럼요! 지금 남자친구랑 잘 지내고 있답니다
+P0 	: 남자친구가 이상형(?)
+P1 	: 넹ㅎㅎ제가 좋아하는 스타일
+P0 	: 오~~그럼 결혼까지도  생각하세요(?)
+P1 	: 하면 좋죠~하고싶긴한데 아직 여건이 안되요ㅋㅋ
+P0 	: 연애 결혼 다르다던데.. 혹시 결혼 ㆍ직정 나이는 언제라고 보시나요(?(
+P1 	: 개인적으로 28살에 하고싶긴 했었는데 현실적으론 30대 초반중반쯤 가게될것같아요
+P0 	: 빨리해서 신혼 즐기는것도 좋은듯 해요
+P1 	: 맞아요 신혼 즐기고싶어서 28살에 하고싶었던거예요ㅋㅋ
+P0 	: 부럽네요~~ 결혼 식은 요즘 코로난데
+P1 	: 코로나가 빨리 끝나야 결혼식장도 붐빌텐데~
+P0 	: 지인 식장 가보니 답답해보이더라고요

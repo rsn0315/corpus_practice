@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100030707
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P0 	: 여행좋아해요?
+P1 	: 가끔가요
+P0 	: 저도
+P1 	: 요즘은 못가져
+P0 	: 그쵸
+P1 	: 백신 맞앗나여?
+P0 	: 1차만오
+P1 	: 맞고나면 돌아다녀도 되려나요
+P0 	: 아직여
+P1 	: 날이좋아서 드라이브라도 해야겠어여
+P0 	: 좋네여
+P1 	: 걸어다니는건 자제요
+P0 	: 대단해요

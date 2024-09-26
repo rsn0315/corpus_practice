@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034332
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 할인 많이되는 쇼핑몰 있을까요?
+P0 	: 음..글쎄요! 저는 매년 자라에서 일년에 두번 빅세일할때를 노려요~
+P1 	: 오 어디서요?
+P0 	: 자라요 ㅋㅋ 스페인 스파브랜드요~
+P1 	: 우와 그거 어렵지 않나요?
+P0 	: 아 세일되면 물건 너무 빨리나가서 난감해요ㅠ
+P0 	: 어렵진않은데 손이 빨라야해요 ㅋㅋ
+P1 	: 완전 순식간이라고 하더라구요
+P1 	: 복잡해보여 도전해보지 않았네요ㅠㅎㅠ
+P0 	: 맞아여 ㅋㅌㅌㅋ
+P0 	: 담번에 도전해보셔요!
+P0 	: 지금부터 미리미리 자라가셔서 사이즈 체크해두시면 편해요
+P1 	: 오옹 &name1&님 덕분에 지식이 넓어진 느낌이예용
+P0 	: 앜ㅋㅋㅋㅋ 아녀요~ 저도 다년간 시도하면서 그냥 깨달은거 공유한거에용 ㅋㅋ
+P1 	: 크아 다년을 뛰어넘을순 없지만 가까워진 기분이!ㅋㅋㅋ
+P1 	: 전 네이버스토어에서 자주 이용하다보니 그것만 찾게되네요ㅜ
+P0 	: 아하 ㅋㅋㅋ 네이버스토어도 가성비괜찮은것들 많은걸로알아요!

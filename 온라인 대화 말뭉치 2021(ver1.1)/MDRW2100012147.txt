@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012147
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다시왔어요 &name1&은 뭐사고싶으세요?
+P0 	: 엘지 그램 노트북 눈독 들이고 있습니다
+P1 	: 아아 네 저 지금 그거 써요
+P0 	: 몇인치 쓰세요?
+P1 	: 15인치요
+P0 	: 저는 19년식 14인치 쓰고있는데
+P0 	: 17인치로 바꾸고싶어요
+P1 	: 요즘 나온건 뭐가 더 좋아졌어요?
+P0 	: 자세하게는 몰라요ㅋㅋ
+P0 	: 큰화면이 필요해요
+P1 	: 아아 네
+P1 	: 저도 요즘 웹툰그리기 배우느라 큰화면이 필요한데 액정타블렛을 사서 그걸로 써요
+P0 	: 발열 문제좀 개선했으면 좋겠어요
+P0 	: 아이패드는 왜 구입하고 싶으신가요?
+P1 	: 예전에 썼는데 넘 예전꺼여서 사고싶어요

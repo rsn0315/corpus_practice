@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나라 여행은 꿈도 못꾸고 있는데... &name2&님은 여행 자유롭게 할 수 있다면 어디 가고 싶으세요?
+P1 	: 하도 안가다 보니 이제 가고싶은데도 생각이 안나네요ㅋ
+P0 	: 아이고.. 맞아요.. 작년부터 여행 못가고 있고.. 내년에도 과연 가능할까 싶다보니 저도 굳이 그런 생각안해보긴 했어요..
+P1 	: 갈수있으면 휴양지 가서 쉬고 싶네요
+P0 	: 휴양지 좋죠.. 정말 휴양이 필요해요.. 다들.. 이 코로나에 너무 지쳐서
+P1 	: 회사 집만 왓다갔다 해도 피로도는 왠지 예전보다 더한거같아여
+P0 	: 일단 이 상황 자체가 스트레스잖아요.. 아무래도 개인방역도 더 신경써야하고.. 마스크때문에 산소도 충분하지않고.. 진짜 쉽지 않네요
+P1 	: 그래서 마스크 벗고 푹 쉴수 있는 곳에 가고 싶네요ㅋㅋ
+P0 	: 네.. 국내 휴양림 같은데 가고 싶단 생각 했어요.. 호캉스는 너무 비싸서..ㅋ
+P1 	: 맞아요 호캉스도 좋긴하지만
+	  휴양림에서 마스크벗고 시원하게 숨쉬고 싶네요
+P0 	: 생각만 해도 좋네요..ㅎㅎ
+P1 	: 네 언제쯤 그런날 올지 기약이 없네요
+P0 	: 그러게요

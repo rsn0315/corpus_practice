@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100026027
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 1차접종 했고 이제 2차 기간 되면 해야 해요
+P0 	: 아프지는 않았어요?
+P1 	: 하도 부작용이 많아서 걱정했는데 다행히 살아있네요
+P1 	: ㅋㅋㅋ
+P0 	: 건강이 세상에서 제일 중요한데 요즘 참 걱정이 많아요
+P1 	: 맞아요
+P1 	: 정확하게 알 수 있는게 없으니 좀 더 불안하네요
+P1 	: 심낭염 심근염 걸리는 일만 없으면 좋겠어요
+P0 	: 분명히 아무 일 없이 더욱 건강해질 거예요 걱정 말아요
+P1 	: 백신이 제조사도 워낙 많고 또 항체 지속기간도 어떻게 되는지 아무도 정확히 알지 못하니
+P1 	: 갈수록 불안이 커져가는 듯합니다
+P0 	: 여기저기 정보는 많은데
+P0 	: 오히려 진위구분이 더 어려워진 거 같기도 해요
+P1 	: 아프지 않고 건강했으면 좋겠어요 세상 모든 사람들
+P1 	: 이런저런 신경 쓸 필요 없게
+P0 	: 건강이 중요하다는 말이 참 와닿는 요즘입니다
+P1 	: 운동도 좀 하고 평소에 몸을 챙겼어야 하는데
+P1 	: 하루하루 몸 상태가 달라지는 느낌이에요
+P1 	: 이 와중에 뭔지 모를 백신까지 접종해서 더 찝찝하네요
+P0 	: 아무 일 없이 건강할테니 너무 염려 말아요
+P1 	: 감사합니다

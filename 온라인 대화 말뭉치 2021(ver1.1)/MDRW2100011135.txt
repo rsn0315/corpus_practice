@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100011135
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리 좋아하세요?
+P0 	: 좋아하는데 잘못해요ㅠㅠ &name2&님은요?
+P1 	: 저도 간단한것만 해요
+P1 	: 블로그보고따라서ㅎ
+P0 	: 제일 잘하는 요리 있으신가용
+P1 	: 주로 분식 좋아해요
+P1 	: 떡볶이 오뎅탕ㅎ
+P1 	: 아 얼마전에 전복사서 조림해봤어요
+P0 	: 전복 손질 어렵지 않나요??!!
+P1 	: 그냥 솔로 박박닦고 내장이랑 입떼면 끝이던데요
+P1 	: 편스토랑 류수영이 하는거보고 사봤거든요
+P0 	: 헐 그렇군용 해산물은 잘 해보질 않아서 손질이 엄두가 안났는데 유튜브 보면 되네용
+P0 	: 혹시 요리할때 뭐 참고하시나요?
+P1 	: 그냥 블로그 대충보고해요
+P1 	: 어마어마한 요리는 안하니ㅎ
+P0 	: 요리 자주하세요?아님 배달음식 잘 시켜드시는편인가요?
+P1 	: 전 인스턴트나 반조리식품이요 장봐서 하기도해요ㅎ
+P1 	: 혼자라  배달은 잘  안시켜먹고요
+P1 	: &name1&님은요?
+P0 	: 저도 배달 잘 안시켜먹는 편이에요 처리가 어려워서 ㅎㅎ
+P0 	: 인스턴트 어떤 제품 주로 사드세요?
+P1 	: 저 다 못먹으니 버리게되더라구요
+P0 	: 그쵸!!
+P1 	: 정원샵이나 프레시몰 요런데서 쿠폰뜰때사요ㅎ

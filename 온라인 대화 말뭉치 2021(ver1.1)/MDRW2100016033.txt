@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100016033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅎㅎ
+P0 	: 치킨 좋아하세요
+P1 	: 당모치~
+P1 	: 아시나요?
+P0 	: 후라이드 좋아하세요 양념 좋아하세요
+P0 	: 네 당연모든치킨
+P1 	: 은 옳다
+P1 	: 양념요
+P0 	: 저는 후라이드 좋아해요
+P0 	: 양념은 어디가 맛있나요
+P0 	: 즐겨먹는 브랜드있으신가요
+P1 	: 아아..양념..은
+P0 	: 양념은..?
+P1 	: 처갓집 좋아해요
+P0 	: 처갓집 슈프림 좋아하실거같아요
+P1 	: 좋아해요
+P1 	: ㄹㅇ
+P0 	: 또 좋아하는 치킨 있어요?
+P0 	: 뭔가 뿌링클도 좋아하실 거 같아
+P1 	: ㅋㅋㄲ
+P1 	: 좋아하는데
+P1 	: 넘비싸요
+P1 	: 네네는 싫..어요
+P0 	: 왜요
+P0 	: 맛이 별로인가

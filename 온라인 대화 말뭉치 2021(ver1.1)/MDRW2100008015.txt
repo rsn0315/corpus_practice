@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100008015
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 식사는 하셨나요?
+P1 	: 어머 벌써 시간이
+P1 	: 삼각김밥이랑 과자를 잔뜩 사왔어요 ㅎㅎ
+P0 	: 그러고보니 삼각김밥
+	  먹어본지도 오래 되었네요:)
+P0 	: 어떤거 사셨어요?
+P1 	: 두개 붙어있는거요
+P1 	: 간장 매콤 불고기세트 ㅎㅎ
+P0 	: 맛있겠네요:)
+P0 	: 저는 참치마요 좋아했었는데
+	  조만간 사먹어야겠어요
+P1 	: 은근 비싸요 1900원인데 깨알같이 100원 할인받았네요 ㅋㅋ
+P0 	: 제가 삼각김밥을 안먹은지가
+	  오래되긴 했나봐요ㅋㅋ
+P0 	: 제가 기억하는 삼각김밥은
+	  700원인데...ㅋㅋ
+P1 	: 저도 그 기억으로 갔는데 생각보다 비싸서 당황했어요 ㅋㅋ
+P0 	: 그러네요ㅋㅋ 삼각김밥 3개인데
+	  왜 1900원 내고 2개 받아오셨어여ㅋㅋ
+P1 	: 1개짜리는 1800  1500 1200하더라고여
+P0 	: 와...  너무하네요 증말
+P0 	: 아님 크기가 그만큼 커진건가요?
+P1 	: 제 기억속의 삼각김밥과 그다지 다르지않아여 ㅋㅋ
+P1 	: 되려 작아진듯? ㅋㅋ
+P0 	: 주머니 사정은 똑같은데ㅋㅋ
+	  물가만 계속 오르네여
+P0 	: 벌써 또 저녁 먹을 시간이네요

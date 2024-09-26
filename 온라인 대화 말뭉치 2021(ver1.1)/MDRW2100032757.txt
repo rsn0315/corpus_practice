@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100032757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 인터넷 구매가 필요한가
+P1 	: 뭐사게??
+P0 	: 넌 살게 잏어
+P1 	: 나 탐폰 사야하긴 해
+P0 	: 인터넷으로 알아보고 구매해
+P1 	: 그래야겠네
+P1 	: 요즘 어디서 사는게 싸려나
+P0 	: 그래도 쿠팡이 저렴하지 않을까 ?
+P1 	: 근가? 찾아보ㅏ야겠네
+P1 	: 나중에ㅎㅎ
+P1 	: 엄마는 뭐 안사?
+P0 	: 머리 탈모방지 샴푸 사야지
+P1 	: 아 맞다 그 김희철 광고하는거
+P1 	: 그루트인가?
+P0 	: 김희철광고 하는거 맞아
+P1 	: 웅웅 그거 좋다더라
+P1 	: 세일안하나 모르겠넹
+P0 	: 세일하는곳을 찾아봐야지
+P1 	: 그래그래 마트도 가보고 온라인도 찾아보지 뭐

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100023516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 계신 곳 날씨는 어떤가요
+P0 	: 아침에 비가 잠깐 왔다가 지금 해가 찡찡 하네요
+P1 	: 여기는 아직 우중충해요
+P0 	: 비 오고 흐릴 때는 해 점 뜨 길 바랬는데
+P0 	: 해가 너무 쨍쨍하니 뜨겁네요ㅋㅋㅋ
+P1 	: 여긴 해를 볼 수 없는데 좋은데 사시네요
+P0 	: 사람 욕심은 끝이 없죠;;ㅋㅋㅋ
+P0 	: 전 또 흐린 날씨 좋아합니다
+P1 	: 그쵸ㅋㅋ 쨍쨍하면 흐린게 부럽죠ㅋㅋ
+P1 	: 전 요즘 계속 비가와서 해가 그리워요
+P0 	: 태풍은지나갔고..가을 장마는 아직 끝이 안 났나요??
+P0 	: 근데 지금 계절이 가을인가요??;;
+P1 	: 네 내일도 비온데요
+P1 	: 가을인가봐요ㅋㅋ 뉴스에서 가을비라고 하더라고요
+P1 	: 전 아직 여름 같아요
+P0 	: 저도 아직 여름 같이 느껴지는데
+P0 	: 벌써가을이군요~
+P0 	: 올해는 코로나 밖에 기억나는 게 없네요ㅠ
+P1 	: 그니까요 가을은 순식간에 지나갈 것같아요
+P0 	: 나이가 들수록 시간이 더 빨리 지나가는 거 같아요
+P1 	: 그쵸 요즘 나이드는게 확 느껴져요
+	  계절 날씨가 변하는것에 대한 와닿음이 다르더라고요
+P0 	: 맞아요 어릴 땐 어른들 얘기하는 거 이해할 수 없었는데

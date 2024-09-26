@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031182
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아요
+P0 	: 제가 재테크 책을 읽는 가장 큰 이유는 소득이 많지 않기 때문입니다
+P1 	: 큰 걱정 걸릴 수도
+P0 	: 월급은 뻔한데 나가는 돈이 많아요
+P1 	: 점점 더 그렇겠지요
+P0 	: 앞으로 나가야 될 도는 더 많아지는데 어떻게 걱정이 안 될 수 있겠습니까
+P1 	: 그렇다면 소득이 더 적은 사람은 걱정거리가 더 많을까요
+P0 	: 물론 끼니를 못 먹어서 걱정할 만큼 소득이 적다면 동곡점을 안 할 순 없겠지만
+P1 	: 그건 그렇죠
+P1 	: 그건 돈을 많이 버는 것과 적게 보낸 것에 문제는 아닌 거 같아요
+P0 	: 글쎄요 집착하는 게 아니라 수단이 아닐까요
+P1 	: 제가 보기엔 아니에요
+P0 	: 목적이 잘못됐던 얘긴가요
+P1 	: 수단이 목적을 충족하고 있기 때문에 크게 걱정할 이유가 없는 거죠

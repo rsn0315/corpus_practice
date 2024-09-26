@@ -1,0 +1,81 @@
+# FILE DATA
+ID : MDRW2100016204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 학교생활 어떠세요?
+P1 	: 너무 재미있어요
+P0 	: 뭐하시는데요?
+P1 	: 그쪽도 비대면하시나요?
+P0 	: 절친이 있으신가보네요?
+P0 	: 네
+P1 	: 기숙사 같이 들어갔죠
+P0 	: 그렇군요
+P1 	: 그 친구 놀리는 맛으로 살아요
+P1 	: 하루하루 짜릿해요
+P0 	: 절친분이 계셔서 든든하고 행복하시겠어요
+P1 	: 저보다 덤벙대는 애 처음봤거든요
+P0 	: 인성을 고쳐보실 생각은요?
+P1 	: 그럼요 아무렴요
+P1 	: 그 친구도 그렇게 생각할걸요?
+P0 	: ㅇㅖ?
+P1 	: 제 인성은 갓벽한데요
+P0 	: 수강신청은 잘 하셨나요?
+P1 	: 수강신청 잘 하셨
+P1 	: 헐 제가 치고 있었는데
+P0 	: ㅉ ㅣㅉ ㅣ뽕
+P1 	: 저 하나 놓쳐서 다른거 잡았어요
+P1 	: 아그게 뭐에요;;
+P1 	: 몇학점 들으세요?
+P0 	: 17학점아요
+P1 	: 오 ~~
+P1 	: 전 20들어요
+P0 	: 우 ~~
+P1 	: 전공 만족도는 어느정도세요?
+P0 	: 음 10점만점에 7.5요
+P0 	: 그쪽은요
+P0 	: ?
+P1 	: 비슷해요 전 8이요
+P1 	: 동아리 하는 거 있으세옷?
+P0 	: 아뇨
+P0 	: 아 있엉ㅅ
+P0 	: 한남동에서 주로 만나서
+P0 	: 해요
+P1 	: 오 한남동
+P1 	: 거기 동네 좋잖아요
+P1 	: 저도 거기서 동아리 했었어요
+P0 	: 네
+P1 	: 아 동아리가 아니라 스터디
+P0 	: 비슷하네요 저희

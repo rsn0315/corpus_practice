@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029289
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 보일러 고쳤다
+P0 	: 어떻게 고쳤어?!!
+P0 	: 수리기사가 새로 갈아야된다그랬자나
+P1 	: 맨 처음 수리기사가 그랬지
+P1 	: 수리비 20만원 아니면 새로 사라
+P0 	: 새로 바꾸는게 80만원 이랬나
+P1 	: 응 80만원
+P0 	: 근데 어떻게 고쳤어??
+P1 	: 집에 오는데 보일러수리차가 있더라고
+P1 	: 가서 시간있으면 우리집거도 수리해줄수있냐
+P1 	: 그랬더니 된대
+P1 	: 보일러 보더니 부품도 있대
+P0 	: 오 그래서 얼마줬어
+P1 	: 11만원
+P0 	: 뭐야 왜 첫번째기사는 20만원이래
+P1 	: 모르겠네 덤탱이 씌우려고한건가
+P0 	: 회사 as기사인데도 덤탱이가 있어??!!
+P1 	: 보일러가 좀 그런가봐

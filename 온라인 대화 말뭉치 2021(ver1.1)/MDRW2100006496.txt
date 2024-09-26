@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006496
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니됐더
+P1 	: 됐다
+P0 	: 왜 물 많이 마셔야한다
+P1 	: 쉬마렵다 그럼
+P0 	: ㅋㅋㅋ 그래도 자주 마셔야 한다! 줄게용
+P1 	: 알았다
+P0 	: 따뜻한물로 주겠어
+P1 	: 그래 따뜻하게 줘
+P0 	: 나두 마시고~
+P1 	: 반잔만 갖다줘라
+P0 	: 웅웅 좀만기다려봐용
+P1 	: 글
+P1 	: 그래
+P0 	: 끓여야함 ㅋ
+P1 	: 넘 뜨겁게는 말고
+P0 	: 웅웅당연하지

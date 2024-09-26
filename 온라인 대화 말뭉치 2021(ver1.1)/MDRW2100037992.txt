@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100037992
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가족과 함께 사시나용? 자취하시나용?
+P1 	: 저는 엄마랑 같이 살고있어요~
+P0 	: 저도요 가족과함께
+P0 	: 집안일은 많지만 안정적이고 좋어요
+P1 	: 집안일 많이하는 편이세요?
+P0 	: 네네 많이하는편이에요
+P0 	: 더워서 너무 힘들었는데 선선해져서 이젠 좋어요
+P1 	: 와 많이하시는구나 저는 솔직히 별로 제가 안하네요ㅜㅜ
+P1 	: 어떤걸 많이하세요?
+P0 	: 저는 설거지 ㅋㅋ 너무싫어용ㅋㅋㅋ
+P1 	: 저는 집안일의 끝판왕은 화장실청소같아요ㅋㅋ
+P0 	: 아 화장실청소는 2주일에 한번정도 해요
+P0 	: 횟수가 어찌되나용
+P1 	: 저희는 음 그때 그때하는데 ㅇㅅㅇ 곰팡이때매 고민이네요ㅜ
+P0 	: 아하ㅠㅠ 곰팡이ㅠㅠ제거제로 안되나용
+P1 	: 썩 효과가 없는거같아요 그 락스? 랑 고만고만한 수쥬
+P1 	: 수준이네요
+P0 	: 그렇구나ㅠㅠ
+P0 	: 제습기나 환풍기 자주 돌려야겠네요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100001408
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 계시나요?
+P1 	: 안녕하세요! 점심메뉴는 정하셨나요
+P0 	: 우동 이미 먹었어요
+P1 	: 오 점심을 일찍 드시나봐요?
+P0 	: 네 오늘은 아점개념으로요
+P1 	: 저도 점심으로 국물 메뉴 먹고싶네요
+P0 	: 짬뽕 드세요 맛나겠네유
+P1 	: 흠 해물짬뽕 갑자기 땡기네요 ㅋㅋ
+P1 	: 메뉴 추천 감사합니다 
+P0 	: 네 곧 식사시간이시죠
+P0 	: 즐거운 점심시간 되세요
+P0 	: 커피도 드시구용
+P1 	: 커피도 추천해주실래요?
+P0 	: 달달한거 당기시면 이디야 흑당라떼 엑스트라사이즈용
+P1 	: 오 저 달다구리 완전 좋아합니다 ㅋㅋ
+P1 	: 흑당라떼.. 펄까지 추가해야겠어요
+P0 	: ㅋㅋㅋㅋ 좋아하시는구나
+P1 	: 네 취저 메뉴추천 감사합니다 ㅋㅋ

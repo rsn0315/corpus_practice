@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044978
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 평소에 건강관리를 위해 하시는 거 있으신가요?
+P1 	: 저는 걷기 운동해요!!
+P0 	: 걷는것도 생각보다 힘들던데 하루에 얼마나 걸으시나요?
+P1 	: 음 하루에 한 7000걸음 걷는거 같아용
+P0 	: 와~ 정말 많이 걸으시네요!
+P0 	: 힘들거나 하지는 않으신가요?
+P1 	: 힘들면 ㅋㅋㅋ사실 집갈때는 가끔 버스를타욬ㅋㅋㅋ
+P1 	: 운동 안하세요?
+P0 	: 거의 안래욬ㅋㅋ큐ㅠㅠㅠ
+P0 	: 해도 가끔 동네산책 30분정도만 하네요ㅠㅠ 이것도 운동이라고 볼 수 있을지는 모르겠지만요ㅠㅠ
+P1 	: 아 그것도 운동이죠~~~
+P1 	: 운동이 뭐 별거있나요
+P0 	: 뭔가 운동하면 헬스나 홈트 그런 이미지라서 그런거봐요ㅎㅎ
+P1 	: 홈트도 뭐 ㅋㅋㅋ 집에서 춤춰도 홈트인데요~
+P0 	: ㅋㅋㅋㅋㅋ 그렇게 말씀해주시니 운동에 대한 생각이 많이 가벼워지네요!
+P1 	: ㅋㅋㅋㅋ사실 티비 보는 것도 운동이래요? 어제 무엇이든 물어보살에 나오더라고용ㅋㅋㅋㅋ
+P0 	: 아 그래요? 신기하네욬ㅋㅋ 티비 보는게 운동이라니!!
+P1 	: 1시간 보면 48kcal인가 소모 된다곸ㅋㅋ그러더라구욤~

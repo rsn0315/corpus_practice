@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 현재 고민중인 여행 계획이 있으신가요?
+P1 	: 아뇨 엎어진 여행계획만 있어요 ㅋ큐ㅠ 2년 전부터 올해 스페인 여행을 가려고 계획했는데 엎어졌지요
+P1 	: 유안님 계획중인 여행 있으세요?
+P0 	: 저도 현재는 없어요ㅠ 코로나 때문이에요..
+P1 	: 역시 그렇군요 ㅜ 코로나 끝나면 가고싶은 장소 있으세요?
+P0 	: 제주도 가고싶네요!
+P1 	: 제주도 너무 좋죠
+P1 	: 맛있는 것도 많고! 스노쿨링도 할 수 있겠죠?
+P0 	: 또 연돈도 가보고 싶어서요ㅋㅋ
+P1 	: 연돈! 골목식당 나온 곳이죠~
+P0 	: 맞아요! 거기도 이제 관광 명소가 되었죠
+P1 	: 줄 엄청선다면서요 ㅋㅋ
+P0 	: 예약한 걸 웃돈 붙여 팔기도 한대요..
+P1 	: 헉 예약을 양도할 수 있나보군요
+P1 	: 그정도로 맛있을까요?
+P0 	: 드셔본 지인은 만족하셨다고 하시는데 사람 입맛마다, 사장님의 컨디션마다 달라질 수 있으니까요
+P1 	: 섬세하네요 돈까스 비슷하다고 생각했는데..
+P0 	: 모든 식당이 다 그럴 수 있으니까요ㅋㅋ
+P1 	: ㅋㅋ그래도 연돈이 더 특별하긴 할 거 같단 생각이 들어요!
+P1 	: 별로였으면 거품이 금방 꺼졌을텐데 쭉 이어지는거 보면요

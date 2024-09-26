@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008327
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페 가는거 좋아하세요?
+P1 	: 아 자주 가요 커피 좋아하세요?
+P0 	: 커피도 좋아하고 카페 가는거 자체를 좋아해요
+P1 	: 아 특별히 가시는 카페있으신가요?
+P0 	: 스타벅스도 자주가고 여행가서 로컬 카페 가는것도 좋아해요
+P1 	: 아 인스타같은거 검색해서 가시는건가용?
+P0 	: 네 그러기도 하고 가다가 이뻐보이는곳있으면 들어가요 ㅎㅎ
+P1 	: 아ㅎㅎ 원두같은 것도 잘 아세요?
+P0 	: 원두는 잘 모르는데 보통 산미 없는거 달라고 말씀드려요
+P1 	: 아 많이 드시면 그게 차이가 느껴지나봐요
+P0 	: 막 깊게는 모르는데 신건 싫더라고요 ㅎㅎ
+P0 	: 커피 좋아하세요?
+P1 	: 저는 커피는 카페인 땜에 안먹고
+P1 	: 그대신 스무디나 프라페같은거 먹어요ㅎ
+P0 	: 사실 저도 달다구리한거 좋아해서 그런 음료도 많이 마셔요

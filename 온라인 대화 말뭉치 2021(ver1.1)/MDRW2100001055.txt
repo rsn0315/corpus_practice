@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100001055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210722
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 집에 형제자매가 어케 되시나요?
+P1 	: 언니랑 저랑 여동생 이렇게 세자매입니다!
+P0 	: 오오 저도 언니있으면 좋겠네요 ㅜ
+P1 	: 아 혹시 형제 자매가 어떻게 되세요?
+P0 	: 저는 남동생 1명이예요
+P1 	: 오 장녀시구나
+P1 	: 남동생이라니.. 꽤 말썽 많이 피우겠는걸요?
+P0 	: 와 진짜 장난아니예요 ㅜ
+P0 	: 말이 안통해요 그냥 ㅜ
+P1 	: 아이고...ㅠㅠ 근데 여동생도 쉽지가 않네요
+P0 	: 옷이나 그런거로 안싸우나요?
+P1 	: 저는 동생이랑 나이가 좀 많이 차이가 나서
+P1 	: 옷 보단 먹을걸로 자주 써우는 편입니다ㅋㅋ
+P0 	: 저도 남동생이라 2살차이나는데 항상 힘으로 해서

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100014421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 근무중이신가여
+P0 	: 네~ 회사다녀요ㅋㅋ
+P1 	: 일은 적성에 맞으신가여
+P0 	: 네 저는 일은 맞는데 회사가 너무 멀어서 고민이에요ㅜㅜ
+P1 	: 아 출근이 얼마나 걸리시나요?
+P0 	: 왕복 3시간 정도요ㅎㅎㅎ
+P1 	: 헉...편도 한시간 반인가요? 자차 출근?
+P0 	: 아뇨 지하철로 가요ㅜ
+P0 	: 차타면 엄청 막혀서ㅜㅜ
+P1 	: 아 그럼 오가는길이 엄청 피곤하시겠어요 운전도 물론 피곤하겠지만 ㅠㅠ
+P0 	: 네 그나마 지하철이 앉아갈 수 있어서 다행이긴 한데
+P0 	: 가까운데  비슷하게 일할 수 있는 곳 있으면 옮기고 싶네요ㅋㅋㅋ
+P1 	: 그러게요 회사지점이 그곳에만 있나보네요~
+P0 	: 네네ㅜ
+P1 	: 다른 동료분들도 멀리서 오시는분 있으신가요
+P0 	: ㅋㅋㅋ네 아무래도 회사가 &address& 비싼곳에 있다보니
+P0 	: 다들 편도 한시간 이상 걸리시는 거 같아요
+P0 	: ㅋㅋㅋ
+P1 	: 아...회사가 &address&에 있군요... 차로 가긴 참 힘들겠어요

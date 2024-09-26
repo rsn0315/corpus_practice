@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100030508
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 부모님 두분 다 모더나??
+P1 	: 네
+P0 	: 오
+P0 	: 좋은거 맞으셧네요
+P1 	: 그런가요
+P0 	: 그렇죠.
+P0 	: 열은 안나나요?
+P1 	: 접종받은 부위 근처로 열이 나고 있어요
+P0 	: 열심히 반응하고잇나봐요..
+P1 	: 그런거같아요
+P0 	: 그동안 맞앗돈 백신중에 비교해보면 어때요
+P1 	: 작년에 독감을 맞았었는데,
+	  확실히 그 때보다 통증이 훨씬 강해요!
+P0 	: 그렇죠 ㅎㅎㅎㅎ
+P0 	: 역대급?
+P1 	: 네 근데 다른 점은
+P0 	: 네
+P1 	: 독감때는 팔 통증은 덜했고, 감기몸살 기운이 오래 지속되었어요
+P0 	: 오..
+P1 	: 지금은 (아직까지 상황으로)
+P0 	: 네
+P1 	: 몸살기운은 없으나 팔의 통증이나 무게감이 생각했던것보다 훨씬 센편이에요
+P0 	: 그쳐..
+P0 	: 비슷하네요

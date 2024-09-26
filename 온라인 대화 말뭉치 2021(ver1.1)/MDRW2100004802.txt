@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100004802
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키우는 동물 있다면 이름이 뭐예요?
+P0 	: 안녕하세요! 저는 키우는 동물은 없는데 좋아해요 ㅎㅎ &name2&님은 키우는 동물이 있으신가요?
+P1 	: 저도 키우는 동물 없고 좋아해요 ㅠㅠ만약에라도  키우고 싶은 거 있어요?
+P0 	: 전 날다람쥐요! 귀엽기도하고 다람쥐가 주인 생활리듬에 맞춰서 생활한다고 하더라구요 다른 동물보단 집을 비워도 덜미안할것같아요 ㅎㅎ..
+P0 	: &name2&님께서는요?
+P1 	: 날다람쥐는 생각도 못해봤는데 생각해보니까 너무 귀엽네요 ㅎㅎ 저는 개요
+P0 	: 강아지도 너무 사랑스럽죠 ㅜㅜ 강아지의 어떤 점이 가장 좋으세요?
+P1 	: 사람 잘 따르고 귀여워서 좋아하는 거 같아요
+P0 	: 강아지는 다 귀엽지만 그래도 특별히 키우고 싶은 종이 있으실까요?
+P1 	: 리트리버요 ㅎㅎ
+P0 	: 아하 ㅎㅎ 그러시군요
+P0 	: 전 복슬복슬한 애들이 좋더라구요
+P1 	: ㅎㅎ 저도 복슬복슬한 애들 좋아해요 쓰다듬고 싶어지는...
+P0 	: 맞아요 인형처럼 부드럽고 폭신해서 계속 쓰다듬고싶어져요 ㅎㅎ
+P0 	: 포메가 딱 그런 것 같아요
+P1 	: ㅎㅎㅎ 그렇네요 포메 쓰다듬고 싶어져요 사진 검색해서 손가락으로 머리를 랜선쓰다듬 하고 왔네요...

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007186
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 뉴욕에서 먹은건 기억나는거없음
+P0 	: 안먹었음?
+P1 	: 큰누나랑 둘이서 화이트와인하나시키고 머먹었었는데 둘이서 11만원인가나왓엇
+P0 	: 나는 베이글이랑 치즈케이크가 맛있었다
+P1 	: 근데 거기 분위기 겁나좋았는데 나중에 생각해보니
+P0 	: 와 비싸네 ㅡㅡ 와인을 비싼거 먹은거아님?
+P1 	: 11만원이면 겁나싸게 나온듯 ㅇㅇ 와인한병다먹었는데
+P0 	: 아하 그렇군
+P1 	: ???먼솔
+P0 	: 비싼것같은뎅
+P1 	: 와인한병에 이거저거 에 분위기좋고해서 한국같으면
+P0 	: 뉴욕에 난 언니야랑 갔을때 엄청 궁핍했다
+P1 	: 20만원즘나왔을듯?
+P0 	: 그래도 그런 재미가있지
+P1 	: ㅇㅇ 그때 큰누나 궁핍스
+P0 	: 그렇군
+P1 	: 그거말곤 먹은거 생각안남
+P0 	: 돈좀 많이 벌어라 여행가서 행복하게
+P1 	: 나도 가난하게 다녔어서
+P0 	: 주말인데 어디 놀러안갈래?
+P0 	: 여행 계획좀 짜봐라

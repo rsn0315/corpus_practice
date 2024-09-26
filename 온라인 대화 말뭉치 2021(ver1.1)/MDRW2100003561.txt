@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 늦은시간인데 안주무세요?
+P1 	: 네 아직요
+P0 	: 안 피곤하세요?
+P0 	: 전 야행성이라 늦게자거든요
+P1 	: 오늘 토욜일자나요 ㅅㅎ
+P0 	: 저도 그래서 오늘은 늦게자려구요
+P0 	: 요즘 운동 하시는거 있으세요?
+P1 	: 걷디 하는데 더워서 못하다 이제좀해요 ㅎㅎ
+P0 	: 걷기운동 건강에 좋다더라구요
+P1 	: ㅎㅎ 근데 귀니차니즘이 ㅜㅜㅋ
+P0 	: 저는 혼자 운동은 의지가 약해서 못하겠어요
+P1 	: 누구랑 가팅 하는게 최고인데
+P0 	: 아님 돈들여 배우던지요ㅎ
+P1 	: ㅎㅎ 그것도 좋죠
+P0 	: 줌바하고싶은데 코로나땜에 못가고있네요
+P1 	: 줌바도 좋죠%

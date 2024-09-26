@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100042323
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아해요!
+P0 	: 어떤 스타일의 여행을 즐기시나요?
+P1 	: 호캉스가 좋은데 아직 유럽 못가봐서 거긴 꼭
+	  가려고요
+P0 	: 아 그러시구나
+P0 	: 호캉스는 사실 동남아쪽이 가성비가 좋죠ㅎㅎ
+P1 	: 그니까요ㅋㅋ 근데 요즘 상황이 태국도 베트남도 난리라
+P0 	: 네 동남아쪽 코로나 상황이ㅠ
+P0 	: 근데 사실 이건 해외 대부분 해당이라
+P0 	: 당분간 해외여행은 힘들듯해요ㅜ
+P1 	: 맞아요ㅜ 한국이 가장 안전하고 제일 깨끗하고요
+P0 	: 네 그래서 저는 코로나 좀 잠잠해지면 국내여행을 좀 다녀볼까해요
+P1 	: 어디 가보셨어요?
+P0 	: 해외여행이요?
+P1 	: 국내요
+P0 	: 아 국내는 강원도 전라도 쪽 자주 다녔어요
+P1 	: 어 저도 전주랑 강릉 가봤어요
+P0 	: 전주 강릉 다 좋죠~
+P1 	: 다음에 여수가고 싶어요
+P0 	: 여수밤바다
+P0 	: 노래도 있잖아요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007709
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 요즘 보시는 프로그램 있나요?
+P0 	: tv는 잘 안봐요
+P0 	: &name2& 님은 좋아하는 프로그램 있으세요?
+P1 	: 저도 tv는 안보지만 네이버 시리즈온에서 영화 종종 봐요
+P0 	: 어떤 영화 좋아하세요?
+P1 	: 저는 주로 로맨스 보는 편인데 최근에는 오펀 천사의 비밀을 봤어요
+P0 	: 영화는 안 봤는데 내용은 알아요!
+P0 	: 전 최근에 블랙위도우 봤어요
+P1 	: 오오 블랙위도우 재밌을 거 같아요
+P1 	: 어땠나요?
+P0 	: 재밌어요 전 액션이나 히어로물을 원래 안 좋아하는데
+P0 	: 볼만 했어요
+P1 	: 오오 그렇군요
+P1 	: 전 최근에 개봉한 모가디슈 보러가고 싶더라구요
+P0 	: 조인성 나오는 거 맞죠?
+P1 	: 네 맞아요 그거예요ㅋㅋㅋ 내용은 잘 모르지만 재밌다길래 보고 싶네요
+P0 	: 전 독립영화 좋아해서 제작비가 엄청 많이 들어갔을 거 같을 것 같은 영화는 별로 안 끌려요ㅋㅋㅋ
+P0 	: 요즘엔 지인들이 싱크홀 많이 보더라고요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100043590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으면커피안먹는게좋나요?
+P1 	: 건강에 영향이 있다 들었는데
+P1 	: 커피를 먹으면 면역력이 줄기도하고 백신 부작용인 심장 두근거림이 커피 먹는 것과 비슷해서 확인하기가 어렵다고 해요!
+P0 	: 아하
+P0 	: 심근염말씀하시는군요
+P1 	: 맞아요 최근에 백신맞고 심근염과 심낭염이 온 20대가 생각보다 많더라고요
+P0 	: 맞아요 저도 말해주더라고요
+P1 	: 평소에도 커피 먹으면 심장 두근거림이 심해서 더더욱 자제하고 있어요 ㅎㅎ
+P1 	: 백신 맞으셨나요?
+P0 	: 저는맞았어요
+P1 	: 최근에 맞으셨나요?
+P0 	: 쫌됬어요
+P1 	: 다른 부작용은 없으셨나요?
+P1 	: 저는 처음하고 이틀까지는 열이 조금 있더라구요
+P0 	: 고생하셨군요
+P0 	: 저는잘넘어갔어요
+P1 	: 다행이네요! 다들 1차는 뻐근하기만하시고 편하게 넘어가시는 분들이 많더라고요
+P0 	: 잘넘어가실꺼에요

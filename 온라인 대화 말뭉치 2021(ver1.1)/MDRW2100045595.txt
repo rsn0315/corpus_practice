@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045595
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요.
+P0 	: 청소기는 어떤걸 구입하고 싶으세요?
+P1 	: 저는 로봇청소기가 갖고싶어요
+P0 	: 저도요ㅎㅎㅎ 로봇 청소기 정말 좋아보이는데 굳이 진공청소기를 사용하는 이유는 뭘까요?
+P1 	: 직접 원하는곳을 청소할수잇어서 그렇겍죠?
+	  가격도 저렴하고요
+P0 	: 오 그렇겠네요 로봇 물.걸.레 청소기도 있음 참 좋을텐데 말이죠
+P1 	: 누군가가 개발해주지않았을까 싶어요.
+P0 	: 그러게요ㅎㅎ 전 갠적으로 진공청소기 물.걸.레 청소기가 합쳐진걸 원했었는데.. 로봇으로 마음이 기울었어요
+P1 	: 바닥을 알아서 빨.아.들여주니까 그것만한게 없겟더라고요. 두가지 기능을 겸하면 더더욱 좋겟내요.
+P0 	: 네 맞아요 저도 그생각 했어요 이제 청소기도 점점 기능이 발전되가고 어떤 제품이 발명될지 넘 기대되네요
+P1 	: 그러게요. 나중엔 얼마나 더 잘나오려고하는건지 더더욱 기대가됩니다.
+P0 	: 네ㅎㅎ 제 예상으론... 먼지자체가 생기지 않는 물건이 생길수도 있다 생각해요
+P1 	: 저는 나중에ㅜ알아서 바닥도 닦아주고 청소도되고 물교체도되는 똑똑한 청소기가 갖고싶어졋어요

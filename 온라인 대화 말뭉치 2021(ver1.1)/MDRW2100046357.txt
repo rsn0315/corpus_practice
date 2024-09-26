@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100046357
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: ㅇ
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 요즘 즐기고 있는 취미 있으신가요?
+P0 	: 따로
+P0 	: 없어요
+P1 	: 그럼 최근에 즐겨보는 드라마나 영화나 웹툰은 없나요?
+P0 	: 네
+P0 	: 잇어요
+P0 	: 마이네임
+P1 	: 오 한소희 나오는 넷플릭스 드라마 맞죠? ㅎㅎ
+P1 	: 다 보셨나요?
+P0 	: 네네
+P0 	: 맞아요
+P1 	: 드라마는 어떤 내용이에요? 추천할만한 드라마인가요?
+P0 	: 네네
+P0 	: 스릴과 흥미로운
+P0 	: 드라마입니다
+P1 	: 액션신이 있나요?
+P0 	: 네네
+P0 	: 엄청많아요
+P0 	: 잔인할수도 있습니다
+P1 	: 아~액션영화도 좋아하시나요?
+P0 	: 네네
+P1 	: 가장 재미있게 본 영화도 추천해주세요!
+P0 	: 극한직업이요
+P1 	: 저도 그 영화 재밌게 봤던 기억이 있네요 ㅎㅎ
+P1 	: 오늘 하루도 수고 많으셨어요 남은 오후 즐겁게 보내시길 바랍니다:)
+P0 	: 넵

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013026
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 음식 잘하세요?
+P1 	: 아니요 먹는건 잘 하는것 같네요 ㅋㅋ
+P0 	: 어떤거 좋아하세요?
+P1 	: 완전 빵순이에요 밀가루 끊어야하는데ㅜ
+P0 	: 저도요!! 빵집 어디 좋아하세요?
+P1 	: 크라상점 가보고싶어요 ㅜㅜ
+P1 	: 아세요?
+P0 	: 오 들어본적 있는거같아요!
+P0 	: 어디지역에있어요??
+P1 	: 그냥 프랜차이즈같아요 ㅎㅎ
+P0 	: 무슨 빵 즐겨드세여?
+P1 	: 저는 초코 크림 같은게 들은 달달한 빵이좋더라고요
+P0 	: 우아 저도요!! 과자도 초코파이 같은거 좋아해용
+P1 	: 뭔가 좀건강식으로 먹어야하는데 당분이 땡겨서 큰일이네요 ㅎㅎ
+P0 	: 그니까요 ㅜㅜ

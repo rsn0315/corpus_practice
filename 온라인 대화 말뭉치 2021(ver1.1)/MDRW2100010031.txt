@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기숙사 생활하신 경험이 있으신가요?
+P1 	: 네 한 세달정도요
+P0 	: 룸메이트 분과는 잘 맞으셨나요?
+P1 	: 저는 언니들 이어서 괜찮았어요
+P0 	: 잘 맞으셨다면 다행이네요! 그 부분에서 오는 스트레스도 많으니까요ㅠ
+P1 	: 기숙사 생활하신적 있으세요?
+P0 	: 저도 짧게 생활해본적 있어요!
+P1 	: 오 룸메 괜찮았나요?
+P0 	: 생활 패턴이 비슷하고 청소 분담도 괜찮게 이루어져서 짧지만 절 지냈어요ㅎㅎ
+P1 	: ㅋㅋ 진짜 룸메 잘만나는거 넘 중요한 것 같아요
+P0 	: 룸메이트랑 잘 안 맞으면 시시건건 부딪히게 되니까요ㅋㅋ
+P1 	: 맞아요 제친구는 룸메언니가 도둑으로 몬적도 있어요
+P0 	: 헐...어떻게 대처하셨대요? 너무 어이가 없으셨겠어요ㅠ
+P1 	: 친구랑 그언니랑 싸웠어요
+P1 	: 그언니 친구까지 대동해서 난리였었죠 ㅋㅋ
+P0 	: 아니...같이 사는 동지인데 왜 그런 어이없는 짓을 했을까요ㅠ

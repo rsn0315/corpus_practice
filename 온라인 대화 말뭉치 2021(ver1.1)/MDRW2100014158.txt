@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014158
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 집에가면 맨먼저 머하세요
+P0 	: 일단 씻고 옷 먼저 갈아입는 편이에요
+P1 	: 오 씻기
+P1 	: 중요하죠
+P1 	: 미루면 쳐져요
+P0 	: 집안일 중에 제일 싫어하는 게 뭔가요?
+P1 	: 밥하기? 화장실청소? 너무많죠
+P1 	: &name1& 은요
+P0 	: 화장실 청소 진짜 싫죠
+P1 	: 네 샤워하면서 같이 젖은채로 하는수밖에요 또젖기 싫잖아용
+P0 	: 그렇죠 한 번에 싹ㅋㅋ
+P0 	: 음식물 쓰레기 치우는 것도 싫어요
+P1 	: 음 글쵸..저는 재빨리 냉동실에 넣어요 냄새안나게
+P0 	: 요즘은 아예 음쓰 전용 미니 냉동고? 같은 것도 나왔더라구요
+P1 	: 아하 음식의 상태일때 보관하는게 병균도없구 좋은거같아요
+P0 	: 썩기 전에 ㅋㅋ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016763
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 좋아하시나요
+P1 	: 먹는낙으로살아요
+P0 	: 어떤거 잘드시나요
+P1 	: 없어서못먹지 다 잘먹어요
+P0 	: 저는 돈까스 좋아해요
+P1 	: 저는 굳이 꼽으면 면!!
+P0 	: 오 마제소바 드셔보셨나요
+P1 	: 첨들어봣어요
+	  그냥 메밀소바는 엄청 좋아해요
+P0 	: 메밀소바도 맛있죻ㅎ
+P1 	: 저녁 메뉴는 뭔가요?
+P0 	: 김치찌개입니다ㅎㅎ
+P1 	: 김치찌개 계란후라이 국룰 아닌가요
+P0 	: 와 침나오네요

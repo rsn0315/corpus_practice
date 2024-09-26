@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100039257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 최근에 사신거 있나요
+P1 	: 최근에 물감을 샀어요 컬러링북을 좀 칠해보려구요
+P0 	: 컬러링북 재밌죠
+P0 	: 물감으로 해볼 생각은 못해봤는데
+P1 	: 네 ㅎㅎ 이번에 좀 새롭게 해볼라고 샀는데 아직 개봉도 못했네요ㅠㅠ
+P0 	: 엑 무슨일 있으셨나요
+P1 	: 그냥 퇴근하고 나면 기력이 달리더라구요 ㅋㅋ 장바구니는 늘 차있는데
+P0 	: 오늘은 불금인데 어떠신가요
+P0 	: 주말도 있구요
+P1 	: 그래서 오늘은 할일 체크리스트에 적어놨어요!ㅎㅎ &name1&님은 사고싶은거 있으세요?
+P0 	: 저는 가을옷으로 가디건 하나 사고 싶어요
+P1 	: 아 가을은 가디건의 계절이죠~ 저도 가디건 좋아해서 여러벌 있어요 ㅋㅋ
+P1 	: 봐둔 가디건 있으세요?
+P0 	: 탑보이 가디건 봤어요
+P1 	: 아하 어떤스타일이에요?
+P0 	: 그냥 심플해요ㅎㅅㄴ
+P1 	: ㅎㅎ 가디건은 심플한게 좋죠
+P1 	: 가을스러운 컬러인가요?
+P0 	: 베이지색이에요
+P0 	: 깔끔한
+P1 	: 아하 젤 무난하고 좋죠 베이지

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100010481
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 즐겨드시는 음료가 있나요?
+P0 	: 커피 좀 자주마셔요
+P0 	: 물을 마셔야하는데
+P0 	: 자주 드시는거 있으세요?
+P1 	: 저도 커피는 하루 두잔 먹어요
+P1 	: 물을 잘 안드시나요 ?
+P0 	: 물은 자주먹어야하는데
+P0 	: 그게 잘안되네요
+P1 	: 저도 물을 잘 마시지 않아요
+P1 	: 몰마시는것이 어렵네요
+P0 	: 하루 1리터 이상마시라고하는데
+P0 	: 500정도먹는거같아요 ㅎ
+P1 	: 저는 500도 안될것 같아요
+P0 	: 설마요 ㅎ
+P0 	: 저녁은 드셨어요?
+P1 	: 아직요
+P0 	: 저두 두유하나 먹고 운동왔는데
+P0 	: 운동끝나고나믄 배고플듯요 ㅎ
+P1 	: 전 물거의 안먹어요
+	  국국물도 않먹어요
+P0 	: 국국물도요?
+P0 	: 와 진짜 500안되시겠어요
+P1 	: 전 운동 끝나면 과일조금 먹어요
+P0 	: 아 과일
+P0 	: 집에 복숭아 먹어야겠어요
+P1 	: 요즘 포도도 않이 나오죠
+P0 	: 네 포도도 맛있더라구요
+P0 	: 얼마전에 샤인머스캣

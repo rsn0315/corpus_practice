@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034102
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리 좋아하세요?
+P0 	: 네! 하는 거 좋아해요ㅎㅎ
+P0 	: &name2&님은 좋아하시나요
+P1 	: 저는 먹는 것만 좋아해요ㅎㅎ
+P0 	: 먹기만 하는게 제일 좋고 편하죠 ㅎㅎ
+P0 	: 갑자기 유튜브로 맛있는 레시피 찾으면 꼭 한번 만들어보는 편이에요
+P1 	: 대단하세요, 어떤 유튜버 많이 참고하세요?
+P0 	: 백종원님거랑 하루한끼 유튜버 많이 참고해서 만들어요
+P0 	: 간단한데 맛있더라구요
+P1 	: 하루한끼님 간단하죠ㅋㅋㅋ 저도 달걀볶음밥은 해봤어요!
+P0 	: 그쵸ㅋㅋ 집에 있는 재료로 뚝딱 만들 수 있으니 좋더라구요 !
+P1 	: 그 전자레인지 파스타 신박했어요ㅎㅎ
+P0 	: 진짜 귀찮을때 해먹기 좋은 레시피네요ㅋㅋ
+P0 	: 집에서 요리할때 설거지거리 많이 만들기싫어서 최대한 적게 사용하면서 요리해요..
+P1 	: 그런 의미에서 정말 감사한 유튜버죠ㅋㅋㅋ
+P0 	: 맞아요.. 정말 간단하고 맛있기까지하니까요..
+P1 	: 백종원님은 말할 필요도 없구요ㅋㅋ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 학업스트레스 많았죠
+P0 	: 어떤부분에서 많이 느끼셨어요?
+P1 	: 아무래도 비싼학비때문에 부담이 많이 되더라고요.
+P0 	: 학비를 직접 내신건가요?
+P1 	: 네 1년은 도움받고 그뒤론 휴학하고 돈벌었어요.
+P0 	: 대단하시네요. 쉽지않은결정이었는데
+P1 	: 네 그거때문에 조금 스트레스받고
+P0 	: 다른 학업스트레스요인은요?
+P1 	: 아무래도 내는 돈에 비해 그만한 가치있는 강의들을 못들었어요
+P0 	: 저도 그건 공감해요
+P1 	: 또 이게 내길이 맞을까 하는 불확실함 속에서 시험과 과제를하다보니 학업스트레스가 생기더라고요
+P0 	: 시험과제도 정말 만만치않죠
+P1 	: 네 더군다나 전공이 두개라 아침부터 야간수업까지 들었거든요

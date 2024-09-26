@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100019915
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 콜라 집에있음
+P1 	: 안차가울뿐이지
+P0 	: 그럼
+P1 	: 나는 맥주를 먹고싶군
+P0 	: 냉장고에 넣어놔야지
+P0 	: 센스있게
+P1 	: 냉장고
+P0 	: 난 맥주 별로
+P1 	: 넣어노라고?
+P0 	: 그래
+P1 	: 센스있게?
+P1 	: 맥주 왜 별로고
+P0 	: 맥주 맛없다
+P1 	: 그래라니
+P0 	: 냄새 별로
+P1 	: 맥주 맛있다
+P1 	: 무봐라
+P1 	: 냄새 좋음
+P0 	: 맥주 무슨 맛으로 먹는지 몰겠다
+P0 	: 무슨맛임??

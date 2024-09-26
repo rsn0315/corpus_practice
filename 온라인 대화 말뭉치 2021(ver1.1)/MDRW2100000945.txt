@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000945
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하세요?
+P1 	: 좋아해요ㅎㅎ근데 코로나 때문에 여행 못 가서 답답하네요ㅜ
+P0 	: 코로나끝나면 어떤곳에 제일 가고싶으세요?
+P1 	: 강원도요ㅎㅎ 가서 바다 보고 싶어요!
+P1 	: 혹시 가고싶은 곳 있으세요?ㅋㅋ
+P0 	: 제주도요~~
+P1 	: 제주도 좋죠ㅋㅋ저는 수학여행 때 이후로 가본적이 없네요ㅋㅋㅋㅋ
+P0 	: 저도 10년정도 된거 같아요ㅎㅅ
+P1 	: 저도 그정도 되네요ㅋㅋㅋㅋㅋ10월에 담양에 가 볼 생각인데 가보신적 있으세요?
+P0 	: 담양은 한번도 안가봤어요~
+P1 	: 저도 가본적 없어서 기대되네요ㅋㅋㅋㅋ
+P0 	: 떡갈비? 대나무? 이런것만 떠오르네요ㅎㅎ
+P1 	: 맞아요! 대나무숲 가보려고요ㅋㅋ
+P0 	: 맛있는 맛집도 많을 꺼 같아요

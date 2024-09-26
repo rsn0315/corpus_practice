@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100011213
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 저 어제 청정원 안주야 불렀어요. 불막창 좋아하세요??
+P0 	: 불막창, 특히 닭발 좋아해요.
+	  핫딜로 사셨어요?
+P1 	: 청정원 정원이샵에서 50퍼 쿠폰주더 라고요..
+	  한팩에 3000원 꼴로 산거 같아요.ㅋㅋㅋㅋ
+P0 	: 아.. 그 쿠폰 지금도 주나요?
+	  저도 사고 싶어요.ㅎ
+P1 	: 주는거 같아요.
+P0 	: 어.. 아침부터 쇼핑해야겠어요.
+	  감사해요.
+P0 	: 혹시 50퍼 쿠폰이 신규가입 쿠폰일까요?
+P1 	: 아니요
+P1 	: 안주야에 쿠폰 50퍼. 있어요.
+P1 	: 이거 적용하는게 좀 힘들더라고요.
+P0 	: 아.. 저 샀어요.ㅎ
+	  감사해요.
+	  신규쿠폰말고 상품 판매 페이지에 쿠폰이 들어있네요.
+P1 	: 네네네!!!
+P1 	: 쌀도 사야하는데 핫딜이 없네요.ㅠ
+P0 	: 저는 불막창2, 닭발3, 오돌뼈1 샀어요.
+P1 	: 저는 불막창 6. 닭발 6이요.ㅋㅋㅋㅋ
+P0 	: 오.. 넉넉히 사셨네요.
+	  뿌듯하겠어요.ㅎ
+	  꼼장어도 맛있어요.
+P1 	: 앗 그래요?? 다음에는 꼼장어 도전해야지.ㅋㅋㅋ
+P0 	: 오돌뼈도 괜찮음요.

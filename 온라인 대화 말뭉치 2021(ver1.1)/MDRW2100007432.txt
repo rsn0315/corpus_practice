@@ -1,0 +1,72 @@
+# FILE DATA
+ID : MDRW2100007432
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  1
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 반려동물
+P0 	: 귀엽지
+P0 	: 너 만약에 아무런 제약 없으면 뭐 키우고 싶어?
+P1 	: 나 예전에 반려동물 키운 적 있어
+P0 	: 그래? 나 몰랐는데
+P1 	: 초등학생때 언니가 웬 햄스터를 주어와서 키웠어
+P0 	: 얼마나 오래 살았어?
+P1 	: ..일주일....
+P1 	: 너는 반려동물의 경험이 0에 수렴하니?
+P0 	: 그것도 키운거라고 해도 돼?
+P1 	: 키운거야 이름은기억안나지만
+P0 	: 난 현재 구피와 함께 하고 있어
+P1 	: 이름은 한마리한마리 세세하게 지어줬어?
+P0 	: 그리고 병아리와 달팽이와 이름 모를 붉은 곤충을 키웠었어
+P0 	: 이름 다 있어
+P1 	: 많다.
+P1 	: 읊어봐
+P0 	: 구분을 못해
+P1 	: 이름에 의미가 있어?
+P0 	: &name3& &name4& &name5& 뭐 이런 식으로
+P1 	: 정말 대충지었다.
+P1 	: 용품은 무엇무엇을쓰니
+P0 	: 구분 가는 애들 루피랑 부피 정도 있긴 한데 나머지는 구분 못해
+P0 	: 어항과 H2O
+P1 	: 그 막 산소 뽀글뽀글올라오는건 안해줘?
+P0 	: 응
+P1 	: 밥..안줘?
+P0 	: 알아서 숨쉬겠지
+P1 	: 학대야이거
+P0 	: 밥도 용품에 포함이야?
+P1 	: 따지자면 포함 아닐까?
+P0 	: 어? 아니 그
+P0 	: 번식 잘 하던데
+P1 	: 지들끼리 잡아먹는거아니야..?
+P0 	: 아기 물고기들이 조금씩 사라져

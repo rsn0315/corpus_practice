@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041475
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 스타벅스에서 요즘 이벤트 해
+P0 	: 무슨 이벤트
+P1 	: 별을 많이 주는 이벤트야
+P0 	: 좀 구체적으로 설명해봐
+P1 	: 일단 음식을 사면은 놀라 너가  그래서 투표할 자격이 생겨
+P0 	: 뭐에 대한 투표야
+P1 	: 샌드위치를 만들 수 있는 투표
+P0 	: 신기하다
+P1 	: 하루에 하나씩 대결을 해서 샌드위치 재료를 고르는 거야
+P0 	: 예시를 좀 들어봐
+P1 	: 어제의 도표는 로메인과 루꼴라 좀 고르는 거야
+P0 	: 나라면 로메인을 고르겠군
+P1 	: 대부분의 사람들이 그랬나봐 로맨이 뽑혔어 아 뭐야

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017945
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 응
+P0 	: 나는 오늘 택배가 집에 왔어
+P1 	: 인터넷 쇼핑을 자주 하는구나.?
+P0 	: 응 편하잖아
+P1 	: 나도 요즘은 인터넷으로 대부분 쇼핑하는것 같아
+P0 	: 오늘은 인터넷으로 컵을 샀어
+P1 	: 나도 유리컵 사야하는데 어때?
+P0 	: 깨질까봐 걱정되더라
+P1 	: 나는 최근에 마카롱을 인터넷으로 구매핬어
+P0 	: 마카롱을 만드는거야?
+P1 	: 응 근데 다 만들어진거라서 꾸미기만 하면 되는거로 샀어
+P0 	: 무슨 맛으로 샀어?
+P1 	: 나는 초코맛을 좋아해서 그걸로 구매했어
+P0 	: 나는 치즈맛이 좋아
+P1 	: 오 나도 다음에 치즈맛으로 구매해야겠다

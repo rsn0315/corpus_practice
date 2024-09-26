@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013530
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아들 수업 듣는 동안 커피 한잔 마셔야겠다
+P0 	: ㅎㅎ 아직 안마셨어?
+P1 	: ㅇㅇ 오늘 애들 수업이랑 숙제 봐주느라 좀 늦었네
+P0 	: 개학하니 시간 엄청 빨리 가겠네
+P1 	: 정신이 하나도 없어 ㅎㅎ 수업하다 중간중간 요구사항도 많아서
+P0 	: 커피 마시고 갱신해
+P1 	: ㅇㅇ 커피 마시면서 좀 쉬어야겠어
+P1 	: 다크써클 내려옴 ㅋㅋ
+P0 	: 난 2시 정도에 마심 ㅎㅎ 회의 끝나자마자
+P1 	: 잘했네~ 오후를 잘 버티려면 꼭 마셔줘야 해
+P0 	: ㅎㅎ 카페인의 힘을 빌려야지
+P1 	: 커피 파워~~~ 솟아나라 ㅋㅋ
+P0 	: 요즘 커피 양 줄이려고 하는데도 하루 2~3잔은 마시게 되네
+P1 	: 나도 하루 2잔은 마시는 듯 .. 아침 점심은 꼭  ㅠ

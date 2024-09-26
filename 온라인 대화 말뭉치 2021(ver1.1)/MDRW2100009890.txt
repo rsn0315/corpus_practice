@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009890
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 사고싶은 물건 있어요?
+P0 	: 전 이제 가을 옷을 사고 싶네요!
+P1 	: 가을 옷이 필요한 시기네요
+P1 	: 옷 어디서 사세요?
+P0 	: 전 무신사에서 끌리는 옷을 주로 사요
+P0 	: &name2&님은 사고 싶은 것 있으신가요?
+P1 	: 저는 최근에 살걸 다 샀네요
+P0 	: 오 최근에 뭘 사셨나요?
+P1 	: 최근에 갤럭시 버즈랑 워치랑 탭 샀어요
+P0 	: 와 탭은 어떤 거 사셨나요? s7fe가 제일 최신이던데
+P1 	: 저는 s7 샀어요
+P1 	: 탭 잘 돌아가네요
+P0 	: 오 정말 부러워요 저도 탭을 사고 싶었거든요!
+P1 	: 탭 강추합니다
+P1 	: 좋아요!
+P0 	: 나중에 s8 나오면 사려구요 그때쯤이면 돈을 충분히 모았을 것 같네요ㅋㅋ
+P1 	: 확실히 올해는 안나오니까
+P1 	: 돈이 충분히 모였을것 같아요

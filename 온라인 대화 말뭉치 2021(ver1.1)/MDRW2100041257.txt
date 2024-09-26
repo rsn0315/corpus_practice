@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100041257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 저녁에는 뭐 드셨어요?
+P0 	: 저는 찜닭이요
+P0 	: &name1&님은요?
+P1 	: 저는 냉면 먹었어요
+P1 	: 찜닭은 어디서 주문하신건가요?
+P0 	: 아니요 그냥 냉동식품 녹여서 먹었어요
+P0 	: 냉면은 시켜 드신건가요?
+P1 	: 저도 마트에서 산 거요ㅎㅎ
+P0 	: 그렇군요
+	  어떤 음식 좋아하시나요?
+P1 	: 주말에 미역국도 먹었는데 소고기 미역국은 역시 계속 먹어도 맛있는 것 같아요
+P0 	: 오 미역국 잘 만드시나요?
+P1 	: 제가 한 건 아니고 엄마가 하신 거긴 해요ㅋㅋ
+P0 	: 그렇군요ㅎㅎ
+	  그럼 좋아하시는 배달음식 있으신가요?
+P1 	: 자주 시키는 편은 아니라 치킨 아니면 피자에요ㅎㅎ
+P0 	: 인기메뉴들을 좋아하시는 편이네요
+P0 	: 어떤 치킨 좋아하시나요?
+P1 	: 황금올리브가 젤 좋더라구요 bbq

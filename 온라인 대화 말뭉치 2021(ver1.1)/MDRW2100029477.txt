@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100029477
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요?
+P1 	: 네 직장인이에요
+P1 	: 직장다니세요?
+P0 	: 네
+P1 	: 재택중이신가요?
+P0 	: 아니여
+P1 	: ㅜㅜ힘드시겠어요 어떤 업무하세요?
+P0 	: 사무직이요
+P1 	: 사무직 몇시퇴근이세요?
+P0 	: 9시여
+P1 	: 9시여?!??!? 몇시 출근이시길래ㅜ
+P0 	: 9시요
+P1 	: 9시에서 9시요?......
+P1 	: 개발자세요?....
+P0 	: 아니요

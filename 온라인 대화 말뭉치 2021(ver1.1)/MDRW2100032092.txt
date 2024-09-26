@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100032092
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신예약하셨어요?
+P1 	: 저는 엊그제 2차접종했어요
+P1 	: 사전예약 10부제 때 예약하셨나요?
+P0 	: 아 오늘 푹 쉬셔야겠네요
+P1 	: 네 어제는 좀 앓았는데
+P0 	: 10부제때예약했는데 순번이 늦어서 다다음주에 1차 맞아요
+P1 	: 지금은 괜찮아요
+P0 	: 아 다행이네요^^
+P1 	: 다다음주에 1차시면
+P1 	: 추석 전주인가요?
+P1 	: 예약 힘든지는 않으셨어요?
+P1 	: 힘들진
+P0 	: 날짜빠른건예약이 다 끝나서 늦은날짜로 했어요ㅠ
+P1 	: 아 그러셨군요
+P0 	: 백신맞으신분들부러워오
+P0 	: 겁쟁이라서ㅋㅋ
+P1 	: 그래도 이번 10부제 예약 전에 서버도 증설하고 예약시간도 저녁으로 바꿔서 나아졌다는데
+P1 	: 저는 자정에 예약시작이었는데
+P0 	: 네 버벅거리지는않드라구요
+P1 	: 기껏 기다리다 들어갔더니 서버 다운돼서
+P1 	: 새벽 4시에 다시 했거든요
+P0 	: 아 완전 고생하셨겠어요
+P0 	: 그래도 2차까지 무사히맞으셔서 축하드려요^^
+P1 	: 네네 어제는 백신맞고 좀 앓았지만
+P1 	: 2차까지 끝나니 좀 후련하네요

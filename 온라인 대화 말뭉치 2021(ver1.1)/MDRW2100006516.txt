@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 작가 있나요
+P1 	: 아뇨 딱히 좋아하는 작가님은 없어요.
+P1 	: &name1&은 좋아하는 작가 있으신가요?
+P0 	: 저두요..아이들 책 작가는.좀 알아요..ㅎㅎ
+P0 	: 아이 있으신가요
+P1 	: 아이는 아직 없고 곧 태어날 예정이에요!
+P0 	: 그러시군요 아이 그림책 작가들이 겹치더라구요
+P1 	: 그래요? 자녀분이 좋아하는 책은 어떤 내용의 책인가요??
+P0 	: 구름빵이라고 아시나요? 유명한 작가인데 그 분 책들을 다 좋아해요
+P1 	: 아! 네! 알아요! 되게 유명한 책이고 유명하신 작가님이시잖아요!
+P0 	: 맞아요 아이가 요즘 그 작가님 책을 많이 읽어요
+P1 	: 아이들이 보기엔 정말 재밌는 책인가 보네요! 저도 나중에 아이가 태어나고 책읽을때 쯤 되면 사줘야겠어요!
+P0 	: 네 작가님 이름이 백희나 예요 3살정도 되면 볼 수 있을듯해요
+P1 	: 작가님 성함까지 알려주시고 감사합니다.
+P0 	: 정보주고받는건데요~ㅎㅎ 알사탕.구름빵 그.외 다수 책이 유명합니다

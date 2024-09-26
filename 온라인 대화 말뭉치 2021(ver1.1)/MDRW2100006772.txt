@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006772
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뉴스를 보니 위드코로나가 1번 꼭지네요
+P1 	: 그치요 이제 1000명 넘어도 심리적으로 그냥 그렇네요
+P0 	: 그렇죠 많이 무뎌지고 있어요
+P1 	: 이제 해도 되긴 될거 같아요
+P1 	: 학교도 전면등교쪽이던데
+P1 	: 학교는 조심스럽네요ㅠ
+P0 	: 그렇죠 아이들 전수검사 한번 하려면 ㅠㅠ
+P1 	: 맞아요 일이 한 번 터지면 난리겠지요
+P1 	: 터져도 그러려니 하자는건데
+P1 	: 애들은 접종도 못하니까
+P0 	: 그렇죠 백신 접종 연령도 더 낮아질거라고 나오더라구요
+P1 	: 백신 안전한지 모르겟어요. 맞으셨어요?
+P0 	: 네 &name2&은요ㅡㅋ
+P0 	: ?
+P1 	: 네 저도 맞았어요
+P1 	: 백신동지네요ㅋㅋ
+P0 	: 부작용 없으셨나요
+P1 	: 전 괜찮았어요
+P1 	: 어떠셨어요?
+P0 	: 저는 하루정도 힘들더라구요

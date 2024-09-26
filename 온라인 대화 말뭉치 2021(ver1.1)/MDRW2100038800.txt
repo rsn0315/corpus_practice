@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100038800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 편의점에 요새 자주 가네
+P0 	: ㅋㅋ 기프티콘이있어서~
+P1 	: 군것질 중독이다
+P0 	: ㅠㅠ조금밖에 안먹는데
+P1 	: 요새 살찐 거 아님
+P0 	: 안쪘다!
+P1 	: 배가 나왔던데
+P0 	: 칫.. 살 안찌는거 사올꺼다 ㅎ
+P1 	: 그래라 칼로리 낮은 거
+P0 	: 옹옹 ㅎㅎ 조금만 사올게
+P1 	: 떡볶이 안 돼
+P0 	: 웅 ㅋㅋ 떡볶이는 안사지 ㅋ
+P1 	: 그러면 되었다
+P0 	: 알았으요 ㅋ 다녀올겡

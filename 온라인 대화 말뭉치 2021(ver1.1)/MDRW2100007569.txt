@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007569
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  1
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 저 다음달에 아르바이트 있어요
+P0 	: 무슨 알바해요?
+P1 	: 나 손모델 알바
+P0 	: 헐# 부러워요. 전 손이 짜리몽땅해서 그런거 못하는데 ㅠ
+P0 	: 알바 안 힘들어요?
+P1 	: 좀 힘든데
+P1 	: 먹고 살려면 해야지 어쩌겠니
+P1 	: 너는 취업 뭐하고싶어?
+P0 	: 무슨 인생 다 산 사람처럼 말을 하네요
+P0 	: 전 흠......미술 쪽으로 하고 싶은데
+P1 	: 미술 좋지
+P0 	: 밥 벌어먹고 살 수 있을지 모르겠어서..
+P0 	: 고민 중이에요 ㅋㅋ
+P1 	: 순수미술 만화창작 이런거아니면
+P1 	: 엥간해선 먹고살거야ㅋㅋ
+P1 	: 아르바이트를한다면 하고싶은 아르바이트 뭐있니
+P0 	: 음 편의점이나 카운터 알바는 경험이 있어서 쉬울거 같아서 해보구 싶구
+P0 	: 동물이랑 관련된 아르바이트 하구 싶어요
+P1 	: 오 동물이 물거나 하는건 안무섭고?
+P1 	: 동물이 짖는걸 7시간동안 풀사운드로 들어야한다면 어떨것같아
+P0 	: 워낙 동물을 좋아해서 무섭진 않아요
+P0 	: 그럼 뭐 귀가 아프겠죠?
+P1 	: 되게 담담하네

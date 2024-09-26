@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100029632
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 프로그래밍 공부는 어쩌다 하셨어요? 전공이신가요
+P1 	: 아뇨 완전 문과생인데 취업에 도움이 될까싶어서..ㅎ
+P1 	: 예상대로 전혀 안맞더라구요ㅠ
+P0 	: 프로그래밍 언어가 언어가 아니긴해요...
+P1 	: 너무 깔끔떨어서 하루종일 걸리는것도 속터지구..ㅜ
+P0 	: 매번 열심히 써놓으면 꼭 오류가 나죠
+P0 	: 오류 알려주는 설명글은 또 영어고...
+P1 	: 어후... 상상만해도 답답하네요ㅎ
+P0 	: 그래도 완성되서 굴러가는거 보면 재밌어요
+P1 	: 그쵸ㅎㅎ 뿌듯한 마음이
+P0 	: 어떤 언어 하셨어요?
+P1 	: 파이썬이요ㅎㅎ
+P1 	: 제일 쉽다던데 벽을 느끼고 돌아섰어요ㅋㅋ
+P0 	: 다들 파이썬으로 입문하시는군요
+P1 	: 입문이자 마지막이라는게 좀 아쉽긴 하네요ㅎ
+P0 	: 바로 마지막이라니 좀 그렇겠어요
+P0 	: 쓸데 되게 많을텐데
+P1 	: 그러게요 머리론 이해하지만 마음이 거부하네요ㅎㅎ
+P0 	: 마음이 거부하신다면 뭐ㅋㅋ 어쩔 수 없죠

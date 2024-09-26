@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018882
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 연애중이신가요?
+P0 	: 넵
+P0 	: 내년엔 결혼예정이에요
+P1 	: 와 축하드려요!!!
+P0 	: 연애중이세요?
+P1 	: &name1&님 결혼하실땐 코로나 잠잠해지길
+P1 	: 아뇨 ㅎㅎ
+P0 	: 결혼식은상관없는데
+P0 	: 신행은 미룰꺼에요
+P0 	: 안전할때 멀리 오~래 갈려구욤
+P0 	: ㅠㅠ
+P1 	: 맞아요! 요즘 결혼하는 분들 국내여행 2박3일 정도로 다녀오시더라구요 ㅠㅠ
+P0 	: 이상형이 궁금해요 ㅎㅎ
+P1 	: 음 외적으론 키크고 덩치 좋고! 배려심있고 배울 점 있는 사람요! ㅎㅎ
+P1 	: &name1&님 예비신랑님은 이상형과 일치하시나요? ㅎㅎ
+P0 	: 오 &name2&님 이상형과 흡사해요
+P0 	: 비혼주의에 뾰족한 저를
+P0 	: 잘 보듬어주어서 변하게 됐어요
+P1 	: 우와 정말 부러워요!! 두 분 넘 잘어울리시네요 ㅎㅎ
+P0 	: &name2&님은 더 좋은짝이 기다리고있을꺼에욤
+P0 	: 몸과 정신이 건강한 사람이 드문 세상이라서
+P1 	: 맞아요 ㅠㅠ 정말 유니콘이죠...
+P0 	: 인성이 정말 중요한거같아요
+P1 	: 멀쩡한 척 하는 사람도 너무 많아서 ㅠㅠ

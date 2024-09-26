@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100031562
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 개강하셨나요..?
+P0 	: 개학일까요??
+P1 	: 8월에 개학했어요! 저는 고2이에요
+P0 	: 오오
+P0 	: 그러시구나
+P0 	: 저는 대2예요 ㅎㅎ
+P0 	: 요즘 학교 가세요?
+P1 	: 네  코로나 4단계라서 온라인 오프라인 격주로 가요
+P0 	: 급식도 드시나요??
+P1 	: 네 학교가면 급식먹어요~
+P0 	: 오 부럽네요
+P0 	: 저희 학교는 코로나 확진자 떠서 원래 대면이였던 수업도 취소됬어요 ㅠㅠ
+P1 	: 헐 그렇군요ㅜㅜ
+P0 	: 네 너무 걱정이예요,,ㅜㅠ
+P0 	: 학교 생활은 어떠세요?
+P0 	: 할만하세요??
+P1 	: 넹  공부가 어렵긴하지만 친구들보고 급식먹는건 좋네요ㅎㅎ
+P0 	: ㅎㅎ 좋네요
+P0 	: 재밌는 학교생활 하세요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026602
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 요즘에 하시는 운동있으신가요?
+P0 	: 저는 집에서 홈트 하고 있어요!
+P0 	: &name2&도 하시는 운동 있으신가요?
+P1 	: 저도 홈트나 걷기하고있어요 !
+P0 	: 홈트 어떤 걸로 하고 있으신가요?
+P1 	: 이것저것 많이 보는데 요즘 이지은다이어트 보고있어요 그 아이유님아니고.. 다른 분..입니다..ㅎㅎ
+P0 	: 그렇군요ㅋㅋㅋ저는 땅끄부부 하고 있어요!
+P1 	: 저도 그것도 해요 ㅎㅎ 참 쉽게 잘알려주시더라구오
+P1 	: 요즘 비가와서 걷기못할땐 이만보걷기 그거 해용
+P0 	: 그러시군요 요새 비 너무 자주 와서 산책 못 하는 게 아쉽긴 해요ㅠ
+P1 	: 맞아요 ㅠㅠ 날씨가 선선해서 걷기운동하기 딱 좋은데 말이에요 ..
+P0 	: 오늘도 운동 하셨나요??
+P1 	: 네! 오늘 비도 안오고 그래서 한시간정도 걷기하다 왔어요!
+P1 	: 운동하셨나요?
+P0 	: 네! 홈트 했어요ㅋㅋㅋ

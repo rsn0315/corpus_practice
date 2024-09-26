@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100044313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 저녁 드셨어요?
+P0 	: 네 닭볶음탕 먹었어요
+P0 	: &name2&님은 드셨나요?
+P1 	: 황태국 먹었어요
+P1 	: 조리 해 드셨어요?
+P0 	: 네 사촌동생이 끓여줬어요
+P0 	: 황태국 시원하셨겠네요
+P1 	: 직접해줘서 더 맛있었겠네요
+	  전 식당에서 먹었어요ㅎ
+	  오랜만에 황태 맛있더라구요
+P1 	: 식사는 매번 직접 해 드세요?
+P0 	: 아니요 사먹는 게 더 많은 것 같아요 ㅠㅠ
+P0 	: 아니면 밀키트로 해먹어요!
+P0 	: &name2&님은요?
+P1 	: 저는 무조건 식당가요ㅎ
+P1 	: 그래서 매번 다른 메뉴라는 장점이 있어요
+P0 	: ㅋㅋㅋㅋ아아
+P0 	: 배달은 잘 안 드세요?
+P1 	: 배달은 가끔 먹어요
+P1 	: 치킨이나 찜닭같은ㅋ
+P1 	: 엇 둘다 닭이네요ㅋㅋㅋ
+P1 	: 분식은 보통 포장하구요
+	  배달 잘 드세요?
+P0 	: 저는 주로 배달이요...
+P0 	: 코로나라 요샌 외식하기도 찜찜한 것 같아요ㅠㅠ
+P1 	: 전 회사 식당이라ㅎ
+P1 	: 거의 매끼 회사에서 해결해요
+	  아님 포장, 배달ㅎ
+P1 	: 코로나라 외식 어렵져
+	  근데 또 들어보면 다들 다니는 것 같아요ㅜㅜ
+P0 	: 오 좋네요
+P0 	: 구내식당이면 가격도 저렴하겠어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이제 벌써 가을이네요
+P1 	: 그러게요. 많이 쌀쌀하네요
+P0 	: 내일 가을장마 온다던데 들으셨어요?
+P1 	: 아니요. 처음듣는데 비가 많이 오나요?
+P0 	: 일본?이었나 거기서 끝나고 이제 우리나라 온다는데
+P0 	: 아마 많이오지 않을까요?
+P1 	: 큰일이네요. 우산 꼭 챙겨다녀야겠어요
+P0 	: 그나저나 올림픽 이제 끝났는데
+P0 	: 이번 겨울에 또 하겠네요
+P1 	: 그러게요 이번엔 어디서하나요
+P0 	: 이제 베이징이네요
+P0 	: 아시안게임도 중국에서 열린다던데
+P1 	: 이번엔 중국에서 많이 하네요
+P0 	: 혹시 어느계절이 제일 좋으세요?
+P1 	: 가을이 제일 좋아요

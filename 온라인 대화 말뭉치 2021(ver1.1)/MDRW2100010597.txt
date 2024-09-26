@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010597
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교 있으세요?
+P0 	: 네 저는 천주교에요! &name2&은 종교 있으신가요?
+P1 	: 전 종교 없어요^^ 요즘도 성당 가시나요?
+P0 	: 아하 그러시군요  요즘은 코로나4단계라서 온라인으로 미사드려요!
+P1 	: 아!! 진정한 종교인이시군요 전 이 난리통에 교회가는 사람들이 이해가 안가거든요
+P0 	: 맞아요 전광훈목사인가 그런 사람들이 대면 예배하더라구요ㅜㅜ
+P1 	: 그니까요 ㅡ.ㅡ 이시국에.. 저런 사람이 종교인인가 싶어요.
+P0 	: 맞아요! 공감합니다
+P1 	: 진정한 종교인이라면 이 시국엔 &name1&처럼 비대면 예배를 보는게 맞는것 같아요
+P0 	: 맞아요ㅎㅎ 대부분의 종교인들이 비대면으로 하고 아마도 몇몇사람들만 코로나 방역수칙 안지키고 그런것 같아요
+P1 	: 그니까요. 저런 사람을 따르는 신도들은 제정신인가 싶고요.. ㅡ.ㅡ
+P0 	: 인정합니다!  찾아보니까 종교적으로 집회하는 사람도 있더라구요ㅠㅠ
+P1 	: 남을 배려하는 게 진정한 종교인인것 같은데 말이죠..
+P0 	: 맞아요 맞아요

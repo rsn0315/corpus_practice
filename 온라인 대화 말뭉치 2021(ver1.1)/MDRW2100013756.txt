@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100013756
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회 좋아하시나용
+P1 	: 취미든 관심사가 같은 모임 좋아해요.
+P0 	: 하시는거있으세요?
+P1 	: 이벤트 소식 공유하는 모임하고 있어요.
+P0 	: 이벤트라면 어떤이벤트요?
+P1 	: 설문조사나 퀴즈맞춰 상품타는 이벤트요.ㅎ
+P1 	: 님도 동호회 활동하시나요~^^
+P0 	: 따로안해요 ... ! 하고싶네요 ㅋㅋㅋ
+P0 	: 코로나때문에
+P1 	: 그쵸.
+	  저는 온라인으로 아는 사람들과 온라인 모임도 하면서 버티고 있네요. ㅎ
+P0 	: 오 온라인모임은 모에요
+P1 	: 아. 줌이나 카카오톡 페이스톡으로 시간 정해 만나서 수다떠는거요. ㅎ
+P0 	: 오??? 모르는 사람이요? 어떤주제용
+P1 	: 아.. 평소 온라인으로 알고 있는 분들이라.
+	  줌 모임도 편하더라구요.ㅋ
+P0 	: 오... 아이돌 ? 아닌가
+P1 	: 봉사활동 해보신 적 있으세요?
+P0 	: 어렷을때용..
+P1 	: 어떤 봉사활동 해보셨어요?
+P0 	: 음... 장애인복지원 같은데요
+P1 	: 아.. 좋은 일 하셨네요.
+	  육체적으로 힘든 봉사활동이었겠어요.

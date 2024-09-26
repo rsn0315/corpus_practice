@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100001444
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 점심 식사는 하셨나요?
+P1 	: 안녕하세요 :)
+P1 	: 네 저는 조금 늦게 먹었어요~! &name1&님도 식사 하셨나요?ㅎㅎ
+P0 	: 네 저도 조금 전에 식사 마쳤습니다
+P1 	: 앗 저는 오늘 간단하게 빵을 먹었는데 &name1&님은 무슨 메뉴 드셨나요 ㅎㅎ
+P0 	: 저는 갈치 조림 먹었습니다
+P0 	: 무슨빵드셧나요?
+P0 	: &name2& &name3&
+P1 	: 갈치조림 맛있었을 것 같아요 ㅠㅠㅠ
+P1 	: 저는 그냥 크림빵이 있어서 그거 먹었어요 ㅎㅎ
+P0 	: 가을무가 제철이라서 맛있더라구요
+P1 	: 역시 조림에 있는 무가 제일 맛있죠..!
+P1 	: &name1&님 또 어떤 음식 좋아하시나요 ㅎㅎ
+P0 	: 저는 삼겹살도 좋아해요
+P1 	: 삼겹살도 진짜 맛있은 것 같아요 ㅎㅎ 김치랑 먹으면..!
+P1 	: 저는 무난한 메뉴긴 한데 요즘은 김치볶음밥이 되게 맛있더라구요 ㅋㅋㅋ
+P0 	: 김치볶음밥은 언제 먹어도 진리 인것 같아요
+P1 	: 맞아요 ㅎㅎ 간단하고 맛있고 해서 자꾸 먹게되는 것 같아요

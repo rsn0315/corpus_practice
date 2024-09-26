@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030769
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 오늘 날씨가 화창하네요!
+P1 	: 그러니까요! 날씨가 너무 좋네요!
+P0 	: 빨래가 잘 마르겠어요ㅎㅎ
+P1 	: 맞아요 ㅋㅋ 여행가고싶은 날씨네요
+P0 	: 와 여행좋죠 코로나만 아니면 ㅎㅎㅎ 최근에 다녀오신적 있으세요?
+P1 	: 음 최근은아니고 3월에 엄마 환갑기념 가족여행 다녀왔어요~
+P0 	: 앗ㅎㅎ저는 최근에 여수다녀왔는데 어디다녀오셨나요?
+P1 	: 그때 제주 다녀왔어요 !
+P1 	: 오 저도 최근에 여수 출장다녀왔는데
+P1 	: 맛있는거 많이 드셨나요?
+P0 	: ㅎㅎ게장먹었어요!
+P0 	: 제주좋죠
+P1 	: 오오오 저도 게장먹었어요!!! 일번가..? 꽃게사랑일번지?
+P1 	: 거기요!!ㅋㅋㅋㅋㅋ
+P0 	: 어!저도욪ㅋㅋㅋㅋ

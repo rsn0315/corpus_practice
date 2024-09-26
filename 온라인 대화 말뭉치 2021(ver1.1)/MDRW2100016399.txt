@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 저는 안키워요 ㅠㅠ
+P1 	: 키우고 싶은데 가족이 반대해서요 ㅠ
+P0 	: 독립할 나이가 아니신가요?
+P1 	: 그럴 나이이긴해요 ㅠ 근데 아직 취준생이라서요 ㅠㅠ
+P1 	: 취업하면 독립하구 고양이 키우고싶어요
+P0 	: 고양이 키우실거면 두마리 키우세요
+P0 	: 관리비용도 한마리랑 크게 차이 없어오
+P1 	: 아아 그게 고양이에게는 덜 외롭겟죠?
+P0 	: 네. 한마리는 외로워해요
+P1 	: 그렇군요 ㅠㅠ 근데 관리비 차이 적게나면 두마리가 괜찮겟네요
+P1 	: 고양이 키울때 주의점 있나요!?
+P0 	: 그냥 뭐 잘 알아보고 계획 잘 세워서 키워야죠
+P1 	: 뭐 맞는말이네요 ㅋㅋㅋㅋ
+P1 	: 고양이 이름이 어떻게 되요?
+P0 	: &name3&요
+P1 	: 아ㅋㅋㅋㅋ귀엽네요
+P1 	: 캣타워랑 장난감 많겟네요?
+P0 	: 캣폴 캣타워 있고 장난감은 진짜많아요
+P1 	: 옹 그렇군요 고양이도 장난감 질려하고 그러나요?
+P0 	: 금방질려해요
+P0 	: 하루에 하나씩 바꿔줘야돼요

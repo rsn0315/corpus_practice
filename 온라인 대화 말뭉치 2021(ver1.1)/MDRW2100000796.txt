@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000796
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래하세여?
+P1 	: 네 주로 판매해요ㅎ 당근에
+P0 	: 저도 판매만
+P1 	: 주로 뭐 파세요?ㅎ
+P0 	: 집에 있는 안 쓰는 것들요
+P1 	: 아 잘안쓰시는 물건들 파시는군요
+P0 	: 네 사놓고 안 쓰게 되더라구요
+P1 	: 전 주로 기프티콘 팔아요^^
+P0 	: 많이 받으시나봐요?
+P1 	: 간간히 이벤트 당첨된걸로  팔고있어요 스타벅스커피같은거요
+P0 	: 오오
+P1 	: 잘안먹는건 현금화시키고있어요^^
+P0 	: 좋네녀
+P1 	: 중고거래는 주로 어디서 하세요?
+P0 	: 저도 당근

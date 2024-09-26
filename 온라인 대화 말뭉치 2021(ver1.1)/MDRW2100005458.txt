@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100005458
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 계단 오르내리기는 어떨까?
+P0 	: 좋은 운동인데 하지마
+P1 	: 왜?
+P0 	: &name2& 무릎 다친 적 있잖아 ㅠㅠ
+P1 	: ㅇㅇ 지금은 괜찮은데
+P0 	: 무리하다 금방 도져
+P1 	: ㅎㅎ 그래서 요즘은 평지로 다니는데
+P0 	: 그게 무릎이 한 번 아프면 잘 재발해
+P1 	: 하아.. 그 때로 다시 돌아가고 싶진 않다
+P0 	: 그러니깐..
+P1 	: 계단 운동이 무릎 안좋은 사람한텐 별로구나
+P0 	: ㅇㅇ 그냥 경사 완만한 오르막길이나 평지에서 산책해
+P1 	: ㅎㅎ 알았어
+P1 	: 아령운동은 어때?
+P1 	: 요즘 나이들어 그런지 기미가 많이 생겨 ㅠ

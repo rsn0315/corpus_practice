@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 키우는 동물 있으세요?
+P1 	: 없어요 키워본 적도 없습니다
+P0 	: 안좋아하세요?
+P1 	: 키우고 싶긴 한데 관리를 잘 해줄 자신이 없어요
+P0 	: 저도요
+P0 	: 딱 똑같네요
+P1 	: 키워보고 싶은 동물 있으신가요?
+P0 	: 저 강아지요
+P0 	: 리트리버
+P1 	: 리트리버 귀엽죠 다 크면 조금 크지만요
+P0 	: 순둥이라 좋아요
+P0 	: 근데 어릴때 아주  활발 ㅋㅋㅋ
+P1 	: 맞아요 장난꾸러기 그 자체이던데
+P0 	: 키우기 힘들어보였어요 ㅋㅋㅋ
+P0 	: 유튜브에서 보면서 대리만족하거든요ㅎㅎ
+P1 	: 유튜브 반려동물 브이로그가 참 좋죠
+P0 	: 요즘대세

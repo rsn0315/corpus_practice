@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100018800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name3& 밥은 뭔가요
+P1 	: 헉 맞다 궁금한거 있었다
+P0 	: 개사료죠 뭐
+P1 	: 개사료 드셔보셨나요?
+P0 	: 네
+P0 	: 아니
+P0 	: 안먹었어요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 그걸왜먹어
+P1 	: 헉 맛이 어떻던가요?
+P1 	: ㅇㄴ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 누가 드셧보셨다햇다구요
+P0 	: &name4& 사료 먹어봤어요?
+P0 	: 그걸 왜먹지?
+P0 	: 개사료잖아 개밥
+P0 	: 신기한 사람일세
+P1 	: &name4&는
+P1 	: 잡식이에요
+P0 	: 뭐먹어요
+P1 	: 걍 다먹어요
+P0 	: 벌레 잡곡
+P1 	: 잡곡은 먹어봒고 벌레는..
+P0 	: 다? 사람음식도 먹어요?
+P1 	: 번데기밖에 안먹어봒는데
+P1 	: 그 과자 먹어가지고
+P1 	: 설사했었어요
+P0 	: 헉...
+P0 	: 과자 먹이면 안되겠다

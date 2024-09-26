@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 음식 있어요?
+P0 	: &name1& 좋아해쇼
+P0 	: 요
+P1 	: 오ㅋㅋㅋㅋ 그래서 닉도 &name1&이시구나
+P1 	: 회떠먹는거 좋아하세요?
+P0 	: 회도 구이도 좋아요
+P1 	: ㅋㅋㅋ전 &name1& 먹어본지 되게 오래된거같은데
+P1 	: 다음에 한번 먹어봐야겠어요
+P0 	: 제주산 &name1& 실하고 맛있습니다
+P1 	: 오 추천해주신거 먹어볼게요
+P1 	: 혹시 제주사시나요??
+P0 	: 아니요ㅋㅋ
+P1 	: 오 그런데 제주&name1&은 택배로 구매하시나용??
+P0 	: 지인이 농림수산식품부 다니는데
+P0 	: 매년 줘요
+P1 	: 오 지인찬스ㅋㅋㅋ부러워요
+P0 	: &name2&님은 &name2& 좋아하세요?

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018829
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네! 그때 워킹준비했어서 계속 모았었어요
+P0 	: 우와 워홀 다녀오셨나요??
+P1 	: 돈은 준비됐는데 나라가 준비가 안되어서 잠깐만 다녀왔어요ㅜㅠ
+P1 	: 아직도 아쉽네요
+P0 	: 아 정말 아쉬우셨겠어요ㅠ 저도 워홀 가고싶었는데 어디 나라로 다녀오셨어요?
+P1 	: 일본이요!
+P1 	: 기껏 되서 준비 다했는데 노재팬 있을때라ㅠ 부모님도 반대하시고 이래저래 상황도 안맞았어요ㅠ
+P1 	: 그리고 코로나가 터져서..
+P0 	: 아아 그렇구나ㅠ 이래저래 가기 힘들었네요 
+	  그래도 그때 어떤것들을 계획하고 가셨었어요?
+P1 	: 네ㅠ
+P1 	: 관광 위주로 넣엇었어요
+P1 	: 문화 예술이요
+P0 	: 아 그렇군요 뭔가 예술적이고 미적인걸 좋아하시는거 같아요
+P0 	: 저도 기회가 된다면 해외취업해서 유럽쪽에 미술관 다니면서 살고싶네요
+P1 	: 크으 진짜 꿈이에요
+P1 	: 된다면 1년정도 여행가고 싶네요ㅋㅋ
+P0 	: 완전 좋죠ㅠ 저도 돈만 왕창 모아놔서 코로나 끝나면 꼭 가고싶어요
+P1 	: 크으 맞아요
+P1 	: 이곳저곳 다녀보고 싶네요
+P0 	: 네 해외취업도 해보고 싶구요!
+P1 	: 맞아요! 기회만 된다면 하고싶어요

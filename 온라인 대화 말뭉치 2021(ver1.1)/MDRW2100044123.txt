@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100044123
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+	  백신 맞으셨나요?
+P1 	: 낼 맞아요!
+P0 	: 1차인가요? 전 중순에 맞는데...
+P1 	: 저는 2차에요
+P0 	: 어떤 걸 맞으시나요? 빨리 맞으시네요
+P1 	: 저 잔여 맞아서요
+P0 	: 잔여 백신요? 백신 티켓팅 잘하셨나보다
+P1 	: 잘 풀린다는 시간대에 계속 새로고침만 누르고 있었어요
+P0 	: 그래도 대단하네요 1차 백신때 몸 이상은 없으셨나요?
+P1 	: 팔 뻐근한 것 빼고 없었어요
+P1 	: 화이자는 2차가 아프대서 지금 좀 무서워요
+P0 	: 정말요? 전 1차 처음이라 긴장되네요
+P1 	: 화이자나 모더나 계열이면 1차는 많이 안 아프대요
+P0 	: 부모님은 az 맞으셨는데 미열 있으셨거든요

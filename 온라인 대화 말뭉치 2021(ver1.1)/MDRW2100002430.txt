@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100002430
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 점심 뭐 드세요?
+P0 	: 저는 돈까스에 쫄면먹었습니다ㅎㅎ
+P0 	: 점심메뉴가 무엇인가요ㅣ
+P0 	: ?
+P1 	: 우와 완전 맛있겠어요
+P1 	: 저는 콩나물국 먹었어요
+P0 	: 맛있겠네요ㅎㅎㅎ
+	  혹시 매운거잘드시나요ㆍ
+P1 	: 좋아하시나요??
+P0 	: 저는 잘못먹어요ㅎㅎ 엽기떡볶이
+P0 	: 드셔보셨어요?
+P1 	: 네 저 엽기떡볶이 정말 좋아해요
+P1 	: 근데 매워서 맨날 착한맛만 먹네요
+P1 	: 무슨 맛 드세요???
+P0 	: 저도 착한맛으로 먹습니다ㅎㅎ 너무맵더라구요
+P0 	: 좋아하는음식있으신가요?
+P1 	: 전 마라탕 아주 좋아해요
+P1 	: 매운건 못 먹지만 꼭 먹어요
+P1 	: 마라탕 어떻게 어떠세요?
+P0 	: 아 저 마라탕진짜좋아해요ㅋㅋㅋ
+P0 	: 사리추가뭐하시나요?
+P1 	: 저 야채는 필수고 푸주랑 건두부 푸주 다 필수에요 ㅎ
+P1 	: 뭐넣으세요??
+P0 	: 아 저는 청경채를 필수로꼭넣어요ㅋㅋㅋ
+P0 	: 면사리는 뭐좋아하시나요?
+P1 	: 옥수수면 아니면 중국당면이요 ㅎ
+P1 	: 있어야 맛있더라구요

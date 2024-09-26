@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100042193
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아고.. 여긴 바람이 많이 부네요ㅜ
+P0 	: 아 그렇군요ㅜ
+P0 	: 밤공기가 제법 쌀쌀하죠
+P0 	: 비는 안오나요?
+P1 	: 네 여긴 그래도 다행히 비는 안오네요ㅜ
+P0 	: 아 그나마 다행이네요
+P0 	: 바람 세게 불면 꼭 창문 닫고 주무셔야겠어요
+P1 	: 그래야겠어요..ㅜ &name1&님도 오늘 밤 주무시기 전에 창문 단속 잘 하셔요..!
+P0 	: 네 저는 이미 창문 꽁꽁 닫았어요
+P1 	: 앗 이미 하셨군요 ㅋㅋㅋ
+P1 	: 갑자기 비오고 바람불고 이게 무슨 난린지 모르겠어요ㅡ
+P1 	: ㅜㅜ
+P0 	: 네 가을이 격하게 오네요
+P0 	: 궂은 날씨에 건강 유의하셔요
+P1 	: 네 ㅎㅎ &name1&님도 환절기 감기 조심하셔요ㅜ
+P0 	: 네 환절기 건강 관리 잘해야죠
+P1 	: 날씨 보면 금방 추워지겠어요
+P0 	: 오늘 비 많이 왔는데 괜찮으셨나요?
+P1 	: 저희 지역은 다행히 짧게 오고 말더라구요
+P1 	: 몰랐는데 이게 태풍때문이었다네요.. 그래서 비는 많이 안왔는데 오늘도 바람이 많이 불더라구요ㅜ
+P1 	: &name1&님 지역은 비가 많이 왔나 보네요ㅜㅜ
+P0 	: 네네 계속 내내 비왔어요ㅜ
+P1 	: 아이고.. 어떻게 귀가하실땐 괜찮으셨나요..?
+P0 	: 네 퇴근할땐 다행히 좀 잦아들어서
+P1 	: 아고 정말 다행이었네요
+P0 	: 정말 다행이었죠

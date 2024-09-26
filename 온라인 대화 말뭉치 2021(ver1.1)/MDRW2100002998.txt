@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연 보는 것을 좋아하시나요
+P0 	: 네 저는 특히 뮤지컬보는걸 좋아해요!
+P0 	: 뮤지컬좋아하시나요?
+P1 	: 저도 유명한것은 거의 다 보았습니다
+P0 	: 어떤 뮤지컬을 특히 좋아하시나요?
+P1 	: 헤드윅이 재미있었습니다
+P1 	: 영화도 보았습니다
+P0 	: 헤드윅보고싶었는데 저는 못봤어요! 조승우님 나오는 회차로 보고싶네요!
+P1 	: 저는 유연석 나오는 것으로 보았습니당
+P1 	: 오만석이 잘한다고 하더군요
+P0 	: 코로나 끝나면 꼭 한번 보고싶네요! 혹시 다른 뮤지컬 추천해주실것 있으신가요?
+P1 	: 레베카가 재미있었습니다
+P1 	: 배우들이 노래를 잘했습니다
+P0 	: 레베카는 저도 봤어요! 옥주현님 나오는 회차로봤는데 정말 좋았어요!
+P1 	: 저는 차지연 나오는 것으로 보았습니다
+P0 	: 차지연님도 넘 좋으시죠ㅠㅠ! 다른 배우님들로 돌아보고싶네요

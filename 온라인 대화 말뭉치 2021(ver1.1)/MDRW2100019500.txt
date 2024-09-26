@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100019500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 회사 다니시나요?
+P1 	: 아직 대학생이에요ㅠ
+P1 	: &name1&님은 직장 있으신가요?
+P0 	: 네 오늘 금요일이라 너무 좋아요 ㅎㅎ
+P0 	: 그럼 취준중이세요?
+P1 	: 취준은 꾸준히 하고 있어요
+P1 	: 포트폴리오 준비하고 있습니다
+P0 	: 포트폴리오면 예술쪽 준비하시나요?
+P1 	: 디자인 전공하고 있어요
+P0 	: 와 멋있어요
+P0 	: 저는 그냥 되는대로 취업했는데 좀 후회돼요ㅠ
+P1 	: 어떤 점에서 후회되시던가요?ㅠ 힘내세요
+P0 	: 제 전공도 딱히 살리지 않는 업무고
+P0 	: 문과가 대부분 그렇지만 단순 사무직이라
+P0 	: 연차 쌓일수록 일에 대한 회의감?이 생기는거같아요
+P1 	: ㅠ 슬프네요 열심히 배워서 써먹지 못하면 허무할 수 있죠
+P0 	: 네네 ㅠ
+P0 	: 인턴도 했었는데
+P0 	: 학교 다닐때 대외활동 활발하게 안한게 좀 아쉽더라구요
+P0 	: 너무 겁먹고 안전한 선택을 했던거같아요..
+P1 	: 대외활동이 중요하군요... 저는 대외활동을 할 기회조차 없어요
+P0 	: 시간 내기 어려우세요?
+P1 	: 코로나 때문에 많이 막혔어요
+P0 	: 헉 그러네요
+P0 	: 코로나를 생각 못했어요...
+P1 	: 코로나 때문에 올해는 그른거 같아요
+P0 	: 그건 그래요
+P0 	: 주변에도 올해까지는 코로나 영향이 있는거같아요
+P0 	: 여행 항공쪽은 아직도 돌아가면서 휴직하더라구요

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100043732
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 앗 사실 저 그냥 그날그날 할인하는거 먹어서 메뉴를 잘 모르게ㅛ어요!
+P1 	: &name1&의 최애메뉴는 어떤거죠!!
+P0 	: 전 로티세리바베큐치킨이요!!
+P1 	: 오! 져는 무슨 스테이쿤가?
+P1 	: 그거 맛있었던고 같아요!
+P0 	: 스테이크면
+P0 	: 전 한번도 안먹어본 메뉴일것같아요!
+P1 	: 오! 저도 누가 사줘서 먹어봤어요 사실..!
+P1 	: 로세리티 바베큐는 어떤 조합으로 먹어야 가장 맛있나요?
+P0 	: 이건 그냥 제 개인적인 취향입니다
+P0 	: 플랫브레드
+P0 	: 슈레드치즈
+P1 	: 슈레드치즈!
+P1 	: 소스는 어떤거ㅠ넣으세요?
+P0 	: 핫칠리 스윗칠리 스윗어니언!
+P0 	: 넣어요
+P1 	: 오 핫칠리 너무 맵지 않나요
+P1 	: &name1&는 매운거 잘 드세요?
+P0 	: 네 좋아해요!!!!
+P1 	: 와 저는 맵찔이라 먹게된다면
+P1 	: 핫칠리 제외하도록 하게ㅛ습니다~~~
+P0 	: 올리브오일 넣는것도 좋아해요ㅋㅋ
+P1 	: 오 올리브오일!
+P1 	: 올리브오일 은근히 맛있더라구요!!

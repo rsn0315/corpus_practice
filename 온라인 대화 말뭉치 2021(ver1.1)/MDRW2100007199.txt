@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007199
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 식기세척기 문 열어놔
+P0 	: 알았어
+P0 	: 열려있는데?
+P1 	: 그래? 잘했어
+P1 	: 창문도 잘 보고
+P0 	: 창문 닫으라구?
+P1 	: 또 비올까봐
+P0 	: 응 창문도 확인해볼게
+P1 	: 웅 그래
+P1 	: 컴퓨터 본체 남는건
+P1 	: 정리해뒀어?
+P0 	: 창문 닫았당
+P0 	: 응 책상 구석에 놔뒀지
+P1 	: 응 그거 들고 처가 가야지
+P0 	: 엄마아빠드리려면 안에있는거 다 지워야겠네
+P0 	: 근데 무거운데 가지고가려고?
+P1 	: 튼튼하니까^-^
+P0 	: 흠 내려갈때 우리 짐도 있을텐데
+P0 	: 고건 고민해봅시당
+P1 	: 아니 괜찮아ㅎㅎ
+P1 	: 내가 들고 갈께

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2& 곧 저녁인데 뭐 드실 건가요?
+P1 	: 안녕하세요 저는 떡볶이용 분식이 막 땡기네요 ㅎㅎㅎㅎ
+P0 	: 와! 어디 떡볶이 드실건가요!
+P1 	: 배떡이요!!!!!!!! 배떡 좋아하시나요?!?!
+P0 	: 오 배떡!!
+P0 	: 배떡 로제 먹어본 적 있어요 진짜 맛있더라고요
+P0 	: &name2&은 배떡에서 뭐가 제일 좋으세요??
+P1 	: 당연히 로제떡볶이죠
+P0 	: ㅋㅋㅋㅋ역시 로제 떡볶이 짱...
+P0 	: 과자 중에서도 로제떡볶이 과자 나온 거 아시나요ㅋㅋㅋ
+P1 	: 헐 정말요 ㅋㅋㅋㅋㅋ?? 찾아봐야겟어요
+P1 	: 오 ㅋㅋㅋㅋ 드셔보셨나요?
+P0 	: 먹어보진 못했지만 방금 마트에서 보고 왔어요ㅋㅋㅋㅋ 엄청 신기하더라고요
+P0 	: 전 저녁으로 오징어볶음 먹으려고요!
+P1 	: 오징어볶음 맛나겠네요 ㅎㅎ 직접 요리하시나요?!?
+P0 	: 어머니가 해주신 거라서 직접 요리한 건 아니예요!! 엄청 맛있어요
+P1 	: 저는 먹구 운동까지 갔다왔어요 배떡은 언제나 맛있네요
+P0 	: 오ㅎㅎㅎ 맛있게 드셨다니 제가 다 기쁘네요!

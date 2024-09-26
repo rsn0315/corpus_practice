@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100023760
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교가 있으신가요?
+P1 	: 저는 기독교예요
+P1 	: &name1&은요?
+P0 	: 저도 기독교예요, 모태신앙이신가여?
+P1 	: 네네 부모님이 기독교셔서요
+P1 	: &name1&은요?
+P0 	: 저도 모태신앙이에요ㅋㅋㅋ 저까지 하면 3대네요ㅠ
+P1 	: 저도..ㅋㅋㅋ
+P1 	: 요즘 기독교 평판도 바닥이잖아요 후.ㅈ
+P0 	: 맞아요ㅠ 참...하지 말라면 좀 안 했으면 하는데ㅠ
+P1 	: 그니까요 싸잡아서 욕을 먹으니 기분이 참 그래요..
+P0 	: 몸집이 너무 큰 게 문제라면 문제겠죠....ㅎ
+P1 	: 맞아요..
+P1 	: 아 그리고 요즘 눈에 띄는 행보를 보이시는분이...
+P0 	: ㅎㅎ....정말 흐린 눈을 해도 안 가려지네요ㅠ
+P1 	: 그니까요ㅎㅎ 티비까지 나오시니 가려지지 않아요
+P0 	: 제발 그냥 안에만 계셨으면ㅠㅠ
+P1 	: 그러니까요ㅠ
+P1 	: 예배는 어떻게 드리고 계세요?
+P0 	: 유튜브 실시간 중계로 드려요ㅎㅎ
+P1 	: 저도요!
+P1 	: 다 같군요ㅋㅋ

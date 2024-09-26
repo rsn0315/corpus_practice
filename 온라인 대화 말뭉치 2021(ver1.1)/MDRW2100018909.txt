@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018909
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 작가 있나요
+P1 	: 음... 제가 작가나 브랜드를 잘 못외워요ㅎㅎㅎ 어느분들보면 좋아하는 브랜드, 작가 이런게 있던데 부러워요^^  어떤 작가 좋아하세요?
+P0 	: 저도 잘 몰라요..ㅋ 육아서는 오은영..소설은 심윤경 작가 책을 좋아해요
+P1 	: 저도 오은영님은 알아요!ㅋㅋㅋ. 어떻게 말할까 읽어보셨어요?
+P0 	: 네 베스트셀러죠^^
+P1 	: 맞아요 핫하더라구요! 심윤경작가님 책은 어떤게 좋으셨어요?
+P0 	: 예전에 나의아름다운정원이라는 책을 읽고 좋았던 기억이 있는데 최근에 설이?라는 책도 좋았어요
+P1 	: 오 저장해놓을게요^^  보통 구매해서 읽으세요? 아님 대여해서 읽으세요?
+P0 	: 짐 늘어나는게 부담스러워서 요즘은 거의 빌려읽어요^^
+P1 	: 맞아요 짐늘어나는거... 베스트나 스테디는 대여도 쉽지않더라구요
+P0 	: 아 그래서 저는 보통 예약? 해서 빌려보고있어요
+P1 	: 아하! 예약가능하군요~ 부지런해야겠어요 날짜도 맞게 가지러가고하려면요!
+P0 	: 네 맞아요 예약 수령 기간을 3일정도 주더라구요

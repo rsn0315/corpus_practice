@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100021578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 치킨 추천 감사드려요! 꼭 먹어볼게요
+P1 	: 네네 ㅋㅋㅋㅋ한식 중에 좋아하시는 메뉴 있으세요?
+P0 	: 갈비요!!
+P0 	: 간장으로 된거요
+P1 	: 아아 ㅋㅋㅋㅋ그렇군요 다음으로는 뭐좋어하세요?
+P0 	: 다음으로는 잡채요!
+P0 	: &name2&은요?
+P1 	: 아 잡채맛잇죠 ㅠㅠㅋㅋㅋㅋ 계속 입에 들어가요
+P1 	: 음 저는 불고기나 두루치기좋아해요!
+P0 	: 맞아요!! 끊임없이 흡입해요
+P0 	: 크으 고기는 사랑이죠!!
+P1 	: 맞아요 ㅠㅠ 왤케맛잇죠ㅋㅋㅋㅋ
+P1 	: 파스타도 좋아하세요?
+P0 	: 헉 파스타도 너무 좋아해서 면 쌓아두고 있어오ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ저두요 소스 세일하면 쟁여두구요ㅋㅋㅋㅋ
+P1 	: 소스 직접 해드시나요?
+P0 	: 안귀찮을때는 해먹어요!!
+P0 	: 맛있는거 먹고싶을때는 소스를!!!!
+P1 	: 오 그렇군요 요리 쫌 하시나봐요!
+P1 	: 무슨 소스 쥬로 해드세요?
+P0 	: 크림을 많이 먹어요!
+P0 	: 막입이라ㅋㅋ 그냥 다 잘먹어서 그렇슴닷ㅋㅋ
+P1 	: 아 그렇군요 ㅋㅋㅋㅋ크림이 생각보다 쉽다고하더라구요??
+P1 	: 생크림넣으면된다고 본거같아요 ㅋㅋㅋ
+P0 	: 맞아요ㅋㄱㅋㅋㅋ
+P0 	: 거기에 우유면 끝이에욥

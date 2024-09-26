@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100007389
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 마트가서 장 보면 꼭 사는 물품이 있나요?
+P1 	: 저 두부요!
+P1 	: 두부 진짜 거의 매일 먹어요ㅋㅋㅋㅋ
+P0 	: 두부좋아하시나봐요
+P0 	: 두부의 매력은 뭔가요?
+P1 	: 여기저기 넣어 먹기도 좋고
+P1 	: 단백질도 풍부해서요!
+P0 	: 맞아요
+P0 	: 국 찌개 부침 활용도가 높은 거 같아요
+P0 	: 또 다른건 뭐 사세요?
+P1 	: 맞아요
+P1 	: 음
+P1 	: 말고는 그때그때 사고 싶은 거 사는 거 같아요
+P1 	: &name1&님은 자주 구매하는 물품 있으세요?
+P0 	: 저는 삼겹살 꼭 사는 편인거같아요
+P0 	: 장볼 때 꼭 담는 편
+P1 	: 오 삼겹살! 맛있겠어요
+P0 	: 삼겹살 사서 구워먹으면 너무 좋은거같아요
+P1 	: 삼겹살 하니 생각났어요
+P1 	: 저 샤브샤브 좋아해서 샤브샤브 재료 많이 사요!
+P0 	: 샤브샤브 재료면
+P0 	: 고기 콩나물 두부 청경채 이런거요?
+P1 	: 네네! 알배추랑 청경채 숙주 이런거 사고
+P1 	: 그 소스중에 참소스라는 소스 아세요?
+P0 	: 완전좋아해요 그거
+P0 	: 맛이 진짜 취향저격
+P1 	: 그쵸!! 그거 꼭 사서 같이 먹어요
+P1 	: 재구매율 100퍼센트
+P0 	: 진짜 빠질 수 없죠 찍어먹는 소스중엔 최고

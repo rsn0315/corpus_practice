@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 와 오늘 날씨 뭐냐
+P1 	: 짱 덥지 ?? 해가 쨍쨍해
+P0 	: 덥고 습하고 비오고 난리임
+P1 	: 아 오늘 비도 왔어 ??
+P0 	: 응 아침에 비 엄청 왔잖아
+P1 	: 밖을 안나가서 몰랐네
+P0 	: 자랑이다.
+	  근데 내일 또 비온다는데. 가을장마래
+P1 	: 벌써 가을이라고 ??
+P1 	: 아직 너무 덥지 않나
+P0 	: 점심에는 덥긴한데 저녁은 춥던데??
+P1 	: 요즘 밖을 안나가서 시원해진 것도 몰랐네
+P0 	: 그러니까 밖에좀 나가. 요즘 미세먼지도 좋아서 나가기 딱이야
+P1 	: 오 미세먼지도 좋아졌구나 !
+P0 	: 응응 근데 비와서 망함
+P1 	: 웃기네
+P1 	: 비오고 해서 날이 좀 쌀쌀해졌나보군
+P0 	: 맞아 그래서 가을 옷 준비해야해
+P1 	: 그치 나도 가을 옷 사야하는데

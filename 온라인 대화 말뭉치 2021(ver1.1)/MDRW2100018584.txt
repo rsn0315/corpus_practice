@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100018584
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요ㅎㅎ
+P0 	: 좋아하는 tv프로그램이나 유튜브 있나요??
+P1 	: 티비는 가끔 봐서욬ㅋㅋ 유튜브는 가끔 무한도전 레전드 같은거보거나 노래듣거나 해요
+P1 	: &name1&은요??
+P0 	: 저는 매탈남이라고 고양이채널 좋아해요!
+	  그 외에는 거의 예능 클립 보는용으로 쓰는 것 같아요 ㅎㅎ
+P1 	: 오 저도 몇번 봤어요 고양이는 사랑이죠 ㅎㅎ
+P1 	: 저구요 아니면 요리같은거봐요 ㅎㅎ 머해먹을때..
+P0 	: 어떤 요리 따라해보셨나요?
+P1 	: 최근에는 백종원쌤 볶음우동이요!ㅎㅎ
+P0 	: 오! 맛있었나요?
+P1 	: 네! 근데 마지막에 마요네즈를 뿌리는게 양조절 실패해서 약간 느끼했어욯ㅎ
+P0 	: 저도 오늘 따라해봐야겠네요 ㅎㅎ
+	  같은 면인데, 저는 비빔면 따라해보니까 맛있었어요!
+P1 	: 오오 면 좋아하는데 저도 해봐야겠어요 ㅎㅎ
+P1 	: 하루한끼라는 유튜버도 마니 보는데 쉽고간단해서 좋더라구여 ㅎㅎ
+P0 	: 아 그 채널도 들어봤어요!
+	  그것도 한번 살펴 봐야겠네요 ㅎㅎ
+P0 	: 최근에 본 영화가 있나요?
+P1 	: 저는 프리가이 봤어요? &name1&은요?

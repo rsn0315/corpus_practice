@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008184
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 요즘은 재택하는 회사가 늘어났음
+P0 	: 재택해봤니
+P0 	: 난안해봄
+P1 	: 재택해봤는데 장점도 있고 단점도 있음
+P0 	: 재택언제해봄
+P1 	: 코로나 시작즈음에 해봄
+P1 	: 장점은 출근 안해도 되는 점
+P1 	: 단점은 일을 안한다는 점
+P0 	: 장점밖에없네요
+P1 	: 다음날 출근하면 2배의 일이 기다리고 있지
+P1 	: 그래도 재택해면 시간을 유용하게 쓸 수 있어서 좋음
+P0 	: 재택하고싶다
+P0 	: 휴직은해봤어요
+P0 	: 짱임
+P1 	: 휴직도 좋지
+P1 	: 하지만 공식적으로 일하면서 월루하는 재택도 좋음
+P0 	: 맞아요
+P0 	: 재택소취
+P1 	: 재택은 일주일에 한 두번 정도가 좋은 것 같음
+P1 	: 실제 회사에 나가서 처리해야하는 업무도 많으니까
+P0 	: 풀재택하고싶어

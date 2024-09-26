@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100001956
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영화 요즘 보신거있으세요?
+P0 	: 마지막본게 블랙위도우 에요ㅎㅎ
+P1 	: 아 요즘은 코로나땜에 전시회나 공연 안하죠? 하나요?
+P0 	: 하는거같은데 좌석제한두고하는거같아요ㅎㅎ 코로나 4단계 전이긴했지만 뮤지컬도 봤거든요ㅎㅎ
+P1 	: 오 뭐보셨어요? 공연은 거의 못봤어요
+P0 	: 최근에 본건 드라큘라 봤어요 ㅎㅎ
+P1 	: 누구나와요?
+P0 	: 저는 김준수드라큘라 봤어요 ㅎㅎ
+P1 	: 전 일욜날 모가디슈 영화본게 요즘 문화생활전부네요ㅎ
+P0 	: 모가디슈도 흥행하던데 어땠나요? ㅎㅎ
+P1 	: 전 재밌더라구요 조인성 연기도잘하고
+P1 	: 총쏘는게 많이나와서 스트레스도  풀리고
+P0 	: 보러가야겠네요ㅎㅎ 모가디슈 찍은게 딱 코로나터지기 직전이던데 배우들끼리도 그때 그리운지 이야기하더라구요
+P1 	: 모로코였나 올로케이션으로 찍었대요 스케일이 좀 크던데 시간나실때 함 보고오세요
+P0 	: 예전만큼은 아니지만 영화개봉을 그래도 하니 좋은거같아요ㅎㅎ

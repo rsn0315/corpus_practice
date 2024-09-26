@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100047696
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 오늘 야식 드셨나요?
+P0 	: 아니요
+P0 	: 제가 저녁을 햄버걸먹었는데 어디껄까요?
+P1 	: 맥도날드인가요? 저는 햄버거브랜드 중에 맥도날드를 제일 좋아해요
+P0 	: 땡!
+P0 	: 저도 맥날이좋지만
+P0 	: 정답은 아니랍니다
+P1 	: 그럼 버거킹? 버거킹도 요즘 행사 많이 하더라구요.
+P0 	: ㅋㅋㅋ오 정답입니다
+P0 	: 무슨버거를 먹었을까요?!
+P1 	: 기네스 와퍼 드셨나요? 전 먹어보고 싶은데 아직 못 먹어봤어요
+P0 	: 힌트
+P0 	: 새우가 들어간답니다!!!!!
+P1 	: 통새우와퍼! 맞나요?
+P1 	: 전 한번도 안 먹어봤어요
+P0 	: 따흑
+P0 	: 틀렸답니다
+P0 	: 상어버거를 먹었답니다
+P1 	: 앟ㅎ 새우버거 드셨군요~ 그거 맛있나요?
+P0 	: 여기서 더
+P0 	: 문제가있답니다
+P0 	: 1 아기상어
+	  2 엄마상어
+	  3 아빠상어
+	  무엇을 먹었을까요
+P1 	: 엄마상어 새우버거! 맞나요? 할라피뇨 들어가서 제일 맛있을 것 같아요
+P0 	: 와우
+P0 	: 한번에 맞추셨네요
+P1 	: 신기하네요ㅎㅎ 저도 생각난 김에 내일 햄버거 먹어야겠어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021203
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아해요 주로 어떤집 가시나요?
+P0 	: 돈까스요!
+P1 	: 전에 저랑 삼대 돈가스 얘길 하셨던것 같은데
+P1 	: 다른분이신가 가물가물하네요 ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ  가물가물하네요 치킨도좋아해요
+P1 	: 전 교촌좋아해요 님은요?
+P0 	: 저도 허니콤보요!
+P1 	: 전 레드콤보요 ㅋㅋㅋ
+P1 	: 피자는 드시나요?
+P0 	: 피자 너무좋죠ㅎㅎㅎ
+P1 	: 전 피자헛을 주로 먹어요 님은요?
+P0 	: 파파존스요!
+P1 	: 파파존스 맛있죠  어떤 메뉴를 주로 드시나요?
+P0 	: 존스페이버릿이요!
+P1 	: 전 피자럿 포테이토요 ㅋㅋ 담백해서 좋아요

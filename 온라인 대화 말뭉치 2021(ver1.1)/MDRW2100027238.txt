@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027238
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 샐러드맛있나요
+P1 	: 잘안먹어요
+P0 	: 샐러드는 닭가슴살 샐러드라
+P1 	: 전 치킨샐러드 좋아해요
+P0 	: 건강한 맛이에요
+P1 	: 닭은 진리에요
+P1 	: 며칠전에 카레만들때
+P0 	: 샐러드엔 발사믹소스가 좋아요
+P0 	: 오리엔탈소스도 좋지요
+P1 	: 발사믹소스존맛
+P1 	: 샐러드파스타먹고싶네요
+P0 	: 올리브오일만 넣어도 좋아요
+P0 	: 식초도요
+P0 	: 채소가 비싸요
+P1 	: 전오리엔탈소스 좋아해요
+P1 	: 맞아요 슬퍼요
+P0 	: 새콤달꼼 맛있죠
+P0 	: 상추가 비싸요
+P1 	: 그래도 고기가 있어야해요
+P0 	: 양파랑 당근만 싸요
+P1 	: 깻잎좋아해요
+P0 	: 채식 싫어하시나요

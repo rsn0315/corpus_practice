@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010955
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 정모해요?
+P1 	: 아니요. 한 번도 안 해 봤어요
+P1 	: 온라인에서 만난 분이랑 실제로 만나보신 적 있으세요?
+P0 	: 아니요 저도 랜선으러맘
+P1 	: 온라인 커뮤니티에 글 자주 쓰시나요?
+P0 	: 아니요
+P1 	: 저도 글은 안 써요 ㅎㅎ
+P0 	: 귀찮아서
+P1 	: 궁금한 거 있을 때 찾아보기만 하는 편이에요
+P0 	: 아하
+P1 	: 온라인 커뮤니티의 장단점이 뭘까요?
+P0 	: 익멱성이죠
+P1 	: 익명성을 이유로 솔직하기도 하고 막말하기도 하고 그렇네요
+P0 	: 그건 그래요

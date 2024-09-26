@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하영
+P1 	: 안녕하세용~
+P1 	: 반려동물 같이 사세요?
+P0 	: 아니요ㅎㅎ &name2&님은요?
+P1 	: 아 저는 고양이랑 걑이 살아요!
+P0 	: 오 고양이 귀엽겠어요
+P1 	: 네 ㅎㅎㅎㅎ 너무너무 귀여워요 5살 애기인데...
+P0 	: 말 잘 들어요?
+P1 	: 순한데... 조용하게 사고쳐요 ㅋㅋ
+P1 	: 갑자기 옷장 안에 말없이 들어가구해서 심장 철렁하구
+P0 	: ㅎㅎ어휴 그러겠어요
+P1 	: 같이 살고 싶은 동물은 있으세요?
+P0 	: 음 원숭이요?
+P1 	: 오~
+P1 	: 특이하사네요! 왜요????
+P0 	: 심부름 시키려구요ㅋㅋㅋ

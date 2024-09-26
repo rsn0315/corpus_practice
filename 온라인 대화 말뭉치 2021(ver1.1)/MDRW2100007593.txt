@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007593
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래 하시나요?
+P1 	: 간간히 하는편이에요
+P1 	: &name1&님은요?
+P0 	: 저도 가끔 해요
+P0 	: 아무래도 사기가 많다보니 자주는 안하게 되더라구요
+P1 	: 최근에 구매한건 있으세요?
+P0 	: 최근에 고래별 아크릴을 구매했어요
+P1 	: 고래별이면 웹툰인가요?
+P1 	: 들어본거같은데
+P0 	: 네네! 네이버 웹툰이에요
+P0 	: &name2&님은 최근에 구매하신 거 있으신가요?
+P1 	: 저는 최근에 신발 구매했어요 가벼운 운동화요
+P0 	: 우왕 축하드려요
+P1 	: 아앗.. 고맙습니다
+P1 	: 고래별 아크릴은 찾아보니 가격대가 좀 있던데
+P1 	: 중고로 사신건가요?
+P0 	: 네네...텀블벅 펀딩 상품이라 구하기가 힘들어서 플미가 좀 많이 붙었어요ㅠ
+P0 	: 헉 맞다 주로 어느 사이트에서 거래하세요
+P1 	: 전 중고나라 당근 둘 다 이용해요
+P1 	: &name1&님은요?
+P1 	: 당근  자주 이용하시나요
+P0 	: 당근 깔아두긴 했어요
+P0 	: 근데 동내가 좁아서 그런가 살게 없더라구요

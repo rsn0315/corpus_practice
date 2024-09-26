@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005954
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그래 타고 운동하려고
+P0 	: 웅웅 ㅋㅋ 뭔 부품이 많네
+P1 	: 이것저것 같이 사놔야지
+P0 	: ㅋㅋ 뒤에 짐 실을수 있겠네
+P1 	: 그래 짐 실을 수 있는 거 다 사 놨다
+P0 	: 좋넴 장볼때도 좋겠다
+P1 	: 그렇지 걷는 것보다 편하다
+P0 	: 웅웅 나도 타야겠다
+P1 	: 너는 높아서 타기 힘들 듯
+P0 	: 헐..!
+P1 	: 안장을 좀 낮추면 될 듯
+P0 	: 구래 ㅋㅋ 나도 키큰뎁!
+P1 	: 그래 같이 타자
+P0 	: 보냉가방도 좀 사야겠다

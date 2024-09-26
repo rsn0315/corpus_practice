@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015347
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 군대 간 친구들 있나요?
+P1 	: 아니요
+P1 	: &name1&님 주변은 있으신가요?
+P0 	: 아주 예전엔 군대간 친구가 있었지만
+	  지금은 군대간 조카가  있습니다. ㅎ
+P1 	: 그럼 px부탁도 하시나요?
+P0 	: 그것은 직업 군인 남편이 있는 지인한테 부탁해봤어요,ㅎ
+P1 	: px에서는 주로 어떤 물건을 부탁하셨나요?
+P0 	: 화장품이요.ㅎ 달팽이 크림.
+P1 	: 달팽이 크림은 보통 어느정도 저렴한가요?
+P1 	: 오 그렇군요 군 생활할 때 달팽이 크림이 도움이 될까요? 뭔가 항상 궁금했어요
+P0 	: 그게 가성비가 좋고 피부를 옥으로 만들어주는  크림이라 유명하더라구요.
+	  제 조카는 군대 선임 자랑이 엄청나는데
+	  운이 없으면 선임 잘못 만나 엄청 고생하더라궁노.
+P1 	: 조카님이 선임을 잘 만났나 보네요
+P0 	: 네. 군대 가혹 문화가 아직 많이 남아있다던데 진짜 운이 좋았던 거 같아요.
+P1 	: 정말 다행이네요
+P0 	: 직업 군인제로 바뀌면 군대를 자원해서 들어오는 사람이 많을까요.

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100047472
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배민등급이 무엇인가요?
+P0 	: 저는 배민을 안시키고 요기요를 시켜서 배민은 등급이 낮네요
+P1 	: 오 요기요도 좋나요?
+P0 	: 슈퍼클럽이라고 한달에 돈주고 가입하는거 그거 했어요
+P1 	: 오 그거좋나요??
+P0 	: 9900원 내면 10번 3천원씩 할인받아 주문할 수 있어요
+P1 	: 오 좋네요ㅋㅋㅋㅋ
+P1 	: 매달 내는거죠?
+P0 	: 네~매달이에요~ㅠㅠㅠㅠ
+P0 	: &name2&님은 배민 자주 시켜 드세요?
+P1 	: 네네ㅋㅋㅋ 많이시켜먹어요
+P1 	: 천생연분등급이랍니다
+P0 	: 오~대박~!!진짜 높으시네요~ 배민도 할인이 많나요?
+P1 	: ㅋㅋㅋ 그닥많은편은
+P1 	: 아닌거같아요ㅠㅠ
+P0 	: 아 아쉽네요
+P1 	: ㅋㅋㅋ 그건저도
+P1 	: 동의합니다

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020007
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼한 지인들은 많죠?
+P1 	: 아니요
+P1 	: 많으신가요..?
+P0 	: ㅋㅋ원체 친구가 없어서..
+P0 	: 회사에 미혼이 많아요
+P1 	: 회사에는 기혼이 더 많아요
+P0 	: 기혼상사가 미혼들 무시하는 경향이
+P1 	: 기혼상사도 일때문에 그런 이야기 할 틈이 없는데 회사에 그런 상사 있으면 힘들죠ㅠㅠ
+P0 	: 편애가 심해요
+P1 	: 편애요?
+P0 	: 애엄마들만 야근빼주고 챙겨줭ㆍ
+P1 	: 아.. 수당이 없나요?
+P0 	: 결혼할 직원 부러워서 어쩌냐고
+P0 	: 넙ㅜ
+P1 	: 저런..
+P1 	: 일이 많은 회사인거 같은데 대책이 필요해 보이네요
+P0 	: 결혼은 안부러운데 디폴트값을 결혼으로 두는 사람들때매 힘들어요

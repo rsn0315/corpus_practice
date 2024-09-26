@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020784
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 스포츠
+P1 	: 있으세요?
+P0 	: 네! &name2&님도 좋아하는 스포츠 있으세요?
+P1 	: 뭔가요??
+P1 	: 전 요새 양궁이요
+P0 	: 저도 양궁 좋아해요!
+P0 	: 저는 이번 올림픽으로 여자배구가 좋아졌어요!
+P1 	: ㅋㅋㅋㅋㅋ 맞아요 ㅎ
+P1 	: 양궁 배구 다 !!
+P0 	: 저는 그래서 저번주에 열린 여자배구 코보컵을 챙겨봤어요 ㅎㅎㅎ
+P0 	: 팀이 6개 있는데 저는 그중에서 인삼 팀이 정이 가네용
+P1 	: 재밌었나여ㅋㅋㅋㅋㅋㅋ!!
+P0 	: 네!!! 저번 시즌 꼴등팀인 현대건설 팀이 우승했어요
+P0 	: 국대 양효진 정지윤 헌수 있는 팀이에용
+P0 	: 선수
+P1 	: 오 !!! 우승이라니
+P1 	: 대박이네여!
+P0 	: 네 그것도 저번 시즌 우승팀인 GS 킥스팀을 꺾어서 재밌었어요!!!!!
+P0 	: 근데 제가 응원한 인삼팀은 꼴찌해서 마음이 아파용...
+P0 	: 연고지가 대전이라 한화랑 같이 가는건가...
+P0 	: 다른 스포츠도 좋아하시나요?
+P1 	: 오 되게 잘아시네요ㅋㅋㅋㅋㅋ
+P1 	: 아녀 저거 말고는 그냥 ㅠㅠ
+P0 	: 저도 스포츠 좋아하는건 김연아 선수 현역때 피겨 챙겨본 이후로 오랜만인거 같아요 ㅋㅋㅋ

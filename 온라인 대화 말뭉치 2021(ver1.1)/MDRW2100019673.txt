@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100019673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 먹었어. 메뉴는 불고기였고. 너는 식사 했어?
+P0 	: 난 점심우로 냉면을 늦게 먹어서 지금은 라떼랑 치토스로 요기만 하고 있어
+P1 	: 냉면 맛있었겠네.
+P1 	: 근데 갑자기 웬 치토스?
+P0 	: 먹고 싶어서 편의점에서 샀지~ 근데 치토스 맛을 잘못 골랐나봐
+P0 	: 스모키 바베큐맛 맛 없어ㅠㅠ
+P1 	: 과자 빼고 라떼만 마셔. 카페도 다녀왔어?
+P0 	: 아니~~ 라떼는 내가 직접 만들었지
+P0 	: 우유를 새로운 걸로 바꿨더니 엄청 고소해
+P1 	: 직접 만들어서 마시니까 더 맛있나보다.
+P0 	: 그런 걸수도 있고ㅋㅋㅋ 일부러 설탕을 안 넣었는데 그래도 괜찮네
+P0 	: 집에 가서 만들어 줄게~
+P1 	: 막내한테는 핫초코 만들어줄까? 걔는 커피 안 마시잖아.
+P0 	: 그랭 핫초코.. 그럼 코코아가루랑 설탕이랑 우유 있어야 돼
+P0 	: 그 세 개만 섞으면 핫초코야ㅋㅋㅋ
+P1 	: 코코아가루는 없고 핫초코 가루 사다놨어. 그거 우유에 타마시면 되지?
+P0 	: 응응! 좀 진하게 타야 맛있으니까 가루 많이 넣고 우유는 적당히 넣어
+P0 	: 그거랑 같이 먹을 치즈케익도 잇으면 좋겠다
+P1 	: 내일 갤러리아 갈 건데 그 근처에 유명한 디저트집 있어. 거기서 케이크 사올게.

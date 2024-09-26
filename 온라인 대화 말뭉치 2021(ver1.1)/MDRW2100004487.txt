@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100004487
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 어떤 책 읽으세요?
+P0 	: 책 읽고 싶은데 요즘은 읽기가 힘드네요ㅎㅎ 읽는 책 있으세요?
+P1 	: 저는 요즘 경제에 관심이 많아져서 부의 대이동이라는 책을 읽고 있어요
+P0 	: 아 저도 그런걸 읽어야하는데..진짜 경제지식 꼭 필요한거같아요
+P1 	: 어려운 내용을 쉽게 잘풀어서 쓰여 있더라고요
+P1 	: 추천해요@@
+P1 	: 최근에 소설책음 잘 못보긴 했는데..
+P1 	: 소설책 좋아하세요?
+P0 	: 네 추천 감사해요 꼭 읽어볼게요ㅎㅎ
+P0 	: 네 소설 좋아하는데 시간이...핑계이긴하지만ㅇ ㅎㅎ
+P1 	: ㅋㅋ 어떤 소설 기억에 남으세요?
+P0 	: 은희경님 소설 많이 읽었었는데 가물가물하네요ㅎㅎ
+P1 	: 오~~ 저는 추리물 좋아해서 히가시노 게이고 소설 좋아해요.
+P1 	: 정유정 작가도 좋아하고요
+P0 	: 아 저도 추리소설 한창 빠졌었죠
+P1 	: 히가시노 게이고가 진짜 항상 배신없이 글을 참 잘쓰더라고요..
+P1 	: 추리소설 작가들은 천재 같아요.
+P0 	: 맞아요 어럽지도 않고 읽기 쉽게 이것도 어려운일같아요
+P1 	: 책은 구매해서 보세요 아님 도서관??
+P0 	: 저는 사서 보는게 좋아요ㅎㅎ

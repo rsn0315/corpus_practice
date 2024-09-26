@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100009620
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하세요?
+P1 	: 네 저는 복싱하고 있어요
+P1 	: &name1&님은요?
+P0 	: 저는 원래 수영하는데
+P0 	: 코로나 때문에 못가고 있어요
+P1 	: 오 수영!! 저도 배우고 있는데
+P1 	: 실력자신가요?
+P0 	: 아니요
+P0 	: 어릴때 배웠는데 다 까먹었어요
+P0 	: &name2&님은 잘하세요?
+P1 	: 저는 초급반 들은지 3주 되었어요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋ 수영 재미있어요
+P0 	: 얼른 저희 지역도 열렸으면 좋겠어요
+P1 	: 그럼 접영도 배우셨나요?!
+P0 	: &name2&님 수영복은 어떻게 생겼어요?
+P0 	: 어릴때 배웠어요
+P1 	: 저 X자 5부 수영복 입어요!
+P1 	: 와 접영 너무 멋져요
+P0 	: 접영 자세가 잘 안나와서
+P0 	: 많이 배워야 해요
+P1 	: 아 하긴 접영을 제일 마지막에 배우는
+P0 	: &name2&님도 처음부터 좋은 자세 잡길 바랄게요 ㅜㅜ
+P1 	: 이유가 있을 거예요
+P1 	: 감사합니다.. 자유형부터열심히..!

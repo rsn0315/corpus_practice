@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100039337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 밥 먹었어요?
+P1 	: 네 점심 드셨어요?
+P0 	: 네 이제 저녁 준비해야죠
+P1 	: 시간이 벌써 그렇게 됐네요
+P0 	: 밥 때가 참 빨리도 돌아와요
+P1 	: 맞아요 아침 점심 저녁 3번 참 빨라요
+P0 	: 점심에 뭐 먹었어요?
+P1 	: 냉면 먹었어요
+P0 	: 맛있었겠네요
+P1 	: 물냉 좋아하세요 비냉 좋아하세요?
+P0 	: 저는 물냉면을 좋아해요
+P1 	: 저도요
+P0 	: 비빔냉면은 이따금 먹어야 맛있어요
+P1 	: 맞아요 물냉은 언제 먹든 질리지 않는데

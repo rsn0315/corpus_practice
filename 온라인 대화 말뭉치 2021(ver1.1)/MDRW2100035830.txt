@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035830
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 청소는 정말 잘하는구나
+P0 	: 감사해요.. 제 역할은 제대로 해야죠.. 가사 부담 한 것에 맞게
+P1 	: 그래.. 역시 딸밖에 없다.. 엄마 도와서 일을 많이 해줘서 항상 고마워
+P0 	: 엄마가 힘드시면 제가 더 많이 일하는게 맞죠.. 무거운거 들지 말고 저 시켜요
+P1 	: 그래.. 역시.. 부모를 공경할줄 아는 예쁜 딸이구나
+P0 	: 성경에서도 부모를 공경해야 오래산다고 하잖아요
+P1 	: 그렇지.. 착한 우리딸.. 엄마가 아프지만 않았어도 더 많은 일 할텐데
+P0 	: 제가 이렇게 하면서 집안일도 배우는거죠
+P1 	: 니 동생도 이렇게 가르쳤었야 하는데
+P0 	: 그래도 지금은 꽤 하는 거 같던데요?
+P1 	: 그러냐? 내 눈엔 아직도 막내라서 철이 없어 보인다
+P0 	: 엄마가 워낙 살림을 잘하셔서 그래요
+P0 	: 장족의 발전을 했다구요
+P1 	: 그럼 다행이네

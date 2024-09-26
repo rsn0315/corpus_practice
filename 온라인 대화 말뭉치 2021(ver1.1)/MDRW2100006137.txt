@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100006137
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 백신 접종 하셨어요?
+P0 	: 네 접종 하셨어요?
+P1 	: 아니요 저는 아직
+P0 	: 저는 화이자 접종 했어요
+P1 	: 그러셨군요
+P0 	: 수급 걱정이 많았는데
+P1 	: 맞아요 이스라엘에서 들어
+P0 	: 화이자뿐 아니라 모더나도 공급이 제대로 안 돼서
+P1 	: 왔었죠
+P0 	: 참 걱정이에요 순차 공급한다고하는데
+P1 	: 전 세계가 백신을 구하려고 하니 수급이 딸리나 봐요
+P0 	: 계약할 때 공급 날짜 같은 거는 명시 되지 않았다고 하더라고요
+P1 	: 모더나 말고도 다양한 제약사에서 공급이 잘 이루어지면 좋겠어요

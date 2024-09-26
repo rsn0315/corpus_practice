@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006101
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요
+P1 	: 네 엄청!
+P1 	: &name1&님은요?
+P0 	: 저도요... 기억에 남는 여행지는요?
+P1 	: 저는 베트남 태국
+P1 	: 음 대만도요 ㅎㅎ
+P0 	: 가장 좋으셨던 곳을 꼽을 수 있나요
+P1 	: 제일은 대만이요
+P1 	: &name1&님은요?
+P0 	: 저는 신혼여행으로 간 몰디브요...
+P1 	: 기혼이셨군요
+P1 	: 저는 신행 날려서ㅠㅠ
+P0 	: 코로나때문인가요ㅡㅋ
+P0 	: ?
+P0 	: ㅋ 이건 실수입니다...ㅡ
+P1 	: ㅋㅋ네
+P1 	: 막 알아보다가 터져서ㅠ
+P0 	: 넘 안타깝네요 그럼 신행은 아예 안가신건가요
+P1 	: 호캉스 한번 가고
+P1 	: 올해 울릉도 갔어요 ㅎㅎ

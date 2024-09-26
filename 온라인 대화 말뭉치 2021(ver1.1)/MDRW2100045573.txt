@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100045573
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 드시고싶은 음식이 있나요?
+P0 	: 저는 연어초밥이요 ㅜㅜ
+P0 	: &name2&님은요?
+P1 	: 연어초밥 정말 맛있겠네요ㅠㅠ 전 아까 냉면이 정말 먹고싶어졌었어요
+P0 	: 오 .... 냉면이라니
+	  무슨냉면이요?
+P1 	: 엄청 가는 면발인 물냉면이요!!
+P0 	: 오...... 막국수는요??? 너무 맛잇겟네오..
+P1 	: 막국수도 정말정말 좋아해요ㅠㅠㅠ 툭툭 끊기는 면발로 먹고싶네요
+P0 	: 오... 메밀면 말씀이시죠??
+	  막국수랑 메밀면중에 뭐가좋으세요
+P1 	: 메밀면이랑 막국수랑 같은거 아닌가요??? 잘모르지만...
+P0 	: 메밀면은 뚝뚝 끊기는데
+	  막국수는 좀 더 쫄깃하지않나요?
+P1 	: 아하 그런식이군요? 메밀면을 반죽 오래하면 쫄깃하게 된다고도 들었어요 쥬와리소바처럼...

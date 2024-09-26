@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100028228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 메뉴는 정했나요?
+P1 	: 아녀!
+P1 	: 오늘은 동생이 오랜만에 집에 와서.. 동생이 먹고싶단 메뉴로 먹을 것 같아요 ㅋㅋ
+P0 	: 오.. 좋네요.. 동생이랑 같이 먹을 수 있고..
+P0 	: 전 돼지양념갈비를 먹을까 생각중입니다
+P1 	: ㅋㅋㅋㅋㅋ 집에서 나간지(?) 얼마 안 돼서 그다지 애틋하진 않아요
+P1 	: 돼지갈비 좋네여!!
+P1 	: 집에서 드시나요?
+P0 	: 네.. 코로나 이후로 식당을 못가요
+P1 	: ㅠㅠ 저희두요 되도록 집에서 먹구 정 그러면 포장해와요 ㅠㅠㅋㅋ
+P1 	: 칸막이 잇고 그렇다고 해도 좀 그렇더라구요ㅠㅠ
+P0 	: 맞아요.. 그래서 재료 사서 해먹거나.. 반조리 재품 사다가 해먹어요..
+P0 	: 지금 막 먹고 왔네요..ㅎㅎ
+P1 	: 식사 맛있게 잘 하셨나요 ㅋㅋ
+P1 	: 저는 이제 막 집 왔는데 동생이 잡체먹구 싶다고 한건지 잡채가 있네용 ㅋㅋ
+P0 	: 네.. 전 맛있게 잘 먹었어요~
+P0 	: &name2&님도 동생과 잡채 맛있게 드세요~
+P1 	: 오랜만에 잡채 먹어서 그런가 어제 오늘 과식했네요 ㅠㅠㅋㅋ
+P0 	: 과식하는 날이 있죠
+P0 	: 저도 어제 돼지양념갈비 실컷 먹었네요
+P1 	: ㅋㅋㅋ 돼지갈비면 그럴만 하죠
+P1 	: 저도 좋아해용
+P0 	: 맛있으면 과식하게 돼서 그게 안좋아요.. 적당히가 힘드네요

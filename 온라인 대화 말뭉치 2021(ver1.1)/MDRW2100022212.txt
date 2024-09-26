@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022212
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 아침은 드셨어요?
+P1 	: 아직이요 뭐 드셨어요?
+P0 	: 저 아직 아침 못먹었어요 ㅜㅜ
+P0 	: 그래서 건너뛰고 점심 때 밥 먹으려구요
+P1 	: 그렇군요ㅠㅠ 저도 그럴것같아요
+P1 	: 배달은 질리고 해먹는건 귀찮고 밥을 포기...
+P0 	: 점심 뭐 먹을지 생각해놨어요?
+P1 	: 아니요 ㅋㅋㅋ아무생각없네용 뭐드실건가요
+P0 	: 저 참치뽈찜 먹으려고 어제 해동시켜놨어요 ㅎㅎ
+P1 	: 참치뽈찜첨 들어요 신기해용
+P0 	: 저도 엊그제 처음 들어봤어요..
+P0 	: 방금 먹어봤는데 이거 맛있네요!
+P1 	: 시키신거에요?
+P0 	: 네네 배달은 아니고 택배로요 ㅎㅎ
+P1 	: 아 택배로 받으신거구너
+P1 	: 벌써아침이네요ㅠ아침드셨어요?
+P0 	: 어우 출근하느라 아침도 못먹었네요 ㅎㅎ
+P0 	: 방금 저녁 먹고 오는 길이에요~

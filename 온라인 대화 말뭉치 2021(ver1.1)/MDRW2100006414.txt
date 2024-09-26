@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아이들이랑 주말에 도서관 가시나봐요?
+P1 	: 와이프가 애들이랑 갑니다
+	  
+	  ㅎㅎ
+P0 	: 그럼 &name2&님은.뭐 하시고요?
+P1 	: 집청소요...
+P0 	: 청소 잘 하시나봐요?
+P1 	: 넵..ㅎㅎ 화장실청소..곰팡이청소..잘하는편입니다
+P0 	: 오~ 꼼꼼하신데요~ 우리 신랑도 화장실 청소 담당이예요
+P1 	: 그러시군요 얼마나 자주 하시나요?-
+P0 	: 주말에만 오니 주말에만 해요 하지만 곰팡이 청소는 안해요
+P1 	: 세탁기 드럼 통돌이 뭐 쓰세요?
+P0 	: 통돌이요~
+P1 	: 아 그럼 다르시겠네요 트롬 세탁기 고무패킹에 곰팡이가 잘 생겨서주기적으로 청소하고있네요
+	  .

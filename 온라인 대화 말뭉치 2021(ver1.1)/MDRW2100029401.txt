@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100029401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 여행 좋아하세요?
+P0 	: 전 그다지 안 좋아해용
+P0 	: 움직이는게 싫어서ㅋㄱㅋ
+P0 	: 그래도 말리부는 함 가보고 싶어요
+P1 	: 맞아요ㅎㅎ
+P1 	: 집나가면 고생이라지만
+P1 	: 좋은 곳은 가보고싶어요
+P0 	: 그쵸그쵸
+P0 	: 꼭 가보고 싶은곳있으세요?
+P1 	: 말리부요ㅋㅋㅋㅋ
+P1 	: 님은요?
+P0 	: 저도 말리부
+P0 	: 모리셔스도 궁금해요
+P1 	: 모리셔스는 어떤곳이에요??
+P0 	: 피지섬도 그렇구 고래만나고 싶어요
+P0 	: 아 남대서양에 있는데
+P1 	: 네네
+P0 	: 해양관광하기 좋대요
+P1 	: 그렇군요
+P1 	: 섬인가봐요
+P0 	: 네네
+P0 	: 신혼여행지로도
+P0 	: 많이 가더라고요
+P1 	: 그럼 무지 예쁘겠네요ㅋㅋ
+P1 	: 거기도 찾아봐야겠어요
+P1 	: 코시국이 끝나야 어딜 가도 갈텐데
+P0 	: 그쵸ㅜㅜ

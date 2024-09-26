@@ -1,0 +1,78 @@
+# FILE DATA
+ID : MDRW2100008078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심식사는 했나용?
+P1 	: 초밥먹었금돳
+P0 	: 오 어제 초밥 얘기하시더니
+	  오늘 드셨군요ㅋㅋ
+P0 	: 어떠셨어요?
+P1 	: 맛있네염 ㅋㅋㅋ
+P1 	: 서비스로 유부초밥주샸는데
+P1 	: 하필 내가 못먹는걸...ㅎ
+P0 	: 앜ㅋㅋㅋㅜㅜ 
+	  다른거 달라 하시죠ㅠ
+P1 	: 이미 늦아ㅛ더라구염 ..ㅎㅎ
+P1 	: 남친이.많이먹음 ㅋ.ㅋ
+P0 	: 남친은 유부를 좋아하나보네요ㅋ
+P0 	: 우리 남편도 좋아합니당
+P0 	: &name1&{emoji:♡}
+P1 	: &name1&ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 점심은 뭐드셨어염??ㅋㅋ
+P0 	: 생선굽굽해서 조금 먹고
+	  집앞 빠바에서 빵사온거 먹었어용
+P0 	: 이제 곧 저녁 먹을 시간이 되가네용
+P1 	: 고기먹을라구욤 ㅎ.ㄹ
+P0 	: 오 저녁은 고기ㅋㅋ
+P0 	: 고기는 언제나 옳죠{emoji:♡}
+P1 	: 아침은 드셨어염??
+P1 	: 저흰.아침 거르고 점심 선정중입니당 ㅋㅋ
+P0 	: 저희는이라뇨....?
+P0 	: 아침에 빠바 빵 먹었습니당ㅋㅋ
+P1 	: 무슨빵 드셨어염 ㅋㅋ
+P0 	: 꼬맹이들이 밤식빵 먹는다해서
+	  같이 밤식빵 먹었습니당ㅋㅋ
+P1 	: 밤식빵좋아하는군용 ㅋㅋ
+P0 	: 네ㅋㅋ 꼬맹이들 입맛에 딱인가봐요
+P1 	: 밤식빵 맛있쥬 ㅋㅋㅋ
+P0 	: 점심 메뉴는 정하셨어요?
+P1 	: 라멘먹었습니당
+P1 	: 대창 덮밥이랑
+P0 	: 대창덮밥요?ㅋㅋ
+P0 	: 맛...있나요?
+P0 	: 맛있을거 같은데
+	  먹어본적이 없어서
+	  상상이 안되는 맛 ㅋㅋ

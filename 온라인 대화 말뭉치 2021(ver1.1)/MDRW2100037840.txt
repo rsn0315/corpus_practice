@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하시는 거 있으세요?
+P1 	: 저는 홈트해요!
+P1 	: 운동 뭐하세요?
+P0 	: 저 이번주에 클라이밍 가요!
+P1 	: 오 클라이밍 자주하세요?
+P0 	: 코로나 이후엔 처음이에요 ㅋㅋ
+P1 	: 원래 클라이밍을 해보셧나보네요!
+P0 	: 몇번 해봤었어요! 재밌고 
+	  다른 사람이랑 접촉하지도 않아서 좋아요!
+P1 	: 오오 그렇군요 그 높이 올라갈때 안무서우세요?
+P0 	: 저는 무서워서 낮은데로만 다녔어요 ㅋㅋㅋㅋ
+P0 	: 사실 떨어져도 바닥 푹신해서 괜찮은데..
+P1 	: 아그래요? 그래도몬가 무서울거같아요 ㅋㅋㅋㅋ
+P0 	: 저두 괜히 무서워요 ㅋㅋㅋㅋ
+P1 	: 클라이밍은 횟수로 가격받나요??
+P0 	: 월 요금으로 내거나
+P0 	: 횟수로 내거나 하는거같아요!
+P0 	: 회당 2-3만ㄴ원정도인듯해요

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100032089
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 안녕하세요
+P0 	: 점심은 드셨나요?
+P1 	: 안녕하세요
+P1 	: 네 점심먹었어요
+P1 	: 볶음밥먹었어요^^
+P0 	: 우와 저는 짜장밥을 먹었어요^^
+P1 	: 와 직접 요리해서드셨나요?
+P0 	: 아니요 ㅋㅋㅋ 어제 점심에 짜장면을 시켜먹었는데 너무많이시켜서 손도 안대고 그대로 냉장고에 넣어놨거든요^^;
+P0 	: 그걸 먹었네용 ㅎㅎㅎ
+P1 	: 아~~배달음식 신공을 부리셨네요
+P1 	: 저는 적접야채다져서  해먹었어요^^
+P0 	: 그렇게 먹어야 건강에 좋을텐데 말이에요ㅠ
+P0 	: 이제 애들 점심 차려줘야겠어요~~
+P0 	: 짜장은 저랑 남편만 먹었거든요 ㅋㅋ
+P1 	: 아 저는 다같이 먹었어요
+P0 	: 간식은 뭘드시나요^^
+P0 	: 저흰 아침부터 사과로 시작했는데
+P0 	: 사과가 맛이좋네요!
+P1 	: 저는 케이크요 어제친구가사다준게있네요
+P1 	: 올해비가 안와서과일이 맛있는듯해요^
+P0 	: 케이크도 넘 맛나겠어요~~
+P0 	: 아 그런가봐요
+P0 	: 저흰 조금있다 메론사러 나가려구요~~
+P1 	: 과일을  정말 좋아하시나보네요^^
+P0 	: 네~~~ 딸기도그렇고 비쌀때 제일 맛있더라구요~~ㅎㅎㅎ;
+P1 	: 맞아요 저는 천혜향좋아해서 유일하게사먹는과일이에요
+P0 	: 와 저도 천혜향 좋아해요
+P0 	: 사실 레드향 한라봉도 다 좋아하기는 하지만요 ㅋㅋ

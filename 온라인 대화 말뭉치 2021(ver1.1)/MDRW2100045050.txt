@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 내일 출근하시나요?
+P1 	: 넵.  저는 늘 출근하네요.ㅎ
+	  무슨 일 하세요?
+P0 	: 전 내일 출장이예요
+P1 	: 아. 출장이 잦은 직업인가요?
+P0 	: 잦진 않는데 내일 한건 다음주 한건 있어요
+P1 	: 힘드시겠어요.
+	  저는 출장이 거의 없고
+	  사무실 건물내에서 왔다갔다 하거든요.
+P0 	: 그래도 전 운전기사가 있어요 ㅎ
+P1 	: 아.. 회사에서 높은 직책이신가요?
+	  부럽..ㅎ
+P0 	: 그렇진 않습니다. 버스를 대절했거든요 ㅋㅋㅋ
+P1 	: 아.  부러울뻔했네요.ㅎ
+	  내일 출장 조심히 다녀오세요.
+	  버스면 시끄럽겠네요.
+P0 	: ㅋㅋㅋ 누가 저한테 출장 자가로 가냐고 묻길래 기사 있다하니 멋져 보인다고 하시더라고요 실상은 아시죠?? ㅠ
+P1 	: ㅎㅎ
+	  내일 버스에서 안전벨트는 40번 채우시나요?
+P0 	: 벨트 하라고 40번쯤 말할 예정입니다 ㅋㅋㅋ
+P0 	: 전 출근을 위해 이만 취침하겠습니다

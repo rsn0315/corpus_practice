@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교있어요?
+P1 	: 아뇨 종교는 없어요
+P0 	: 저도 없고부모님은불교요
+P1 	: 그럼 부모님따라서 절 많이 가셨나요?
+P0 	: 아뇨 친구따라교회만요
+P1 	: 교회는 어떠셧어요?
+P0 	: 달란드때문에
+P1 	: 아 달란트
+P1 	: 달란트로 뭐 많이 사셨어요?
+P0 	: 과자요
+P1 	: 보통 교화가면 새친구라고 다른 선물 더 챙겨주지 않나요?
+P0 	: 아 그런가요?
+P1 	: 네 새친구라고 보통 노래도 불러주고 선물도 줄걸요?
+P1 	: 제가 옛날에는 교회를 다녔어서..
+P0 	: 아 그랬는데 기억이 잘 안나네요

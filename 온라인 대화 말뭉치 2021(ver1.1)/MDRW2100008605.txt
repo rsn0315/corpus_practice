@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘은 뭐사셨어요?
+	  전 아직 쇼핑 전
+	  곧 베스킨 갑니다.ㅎ
+P1 	: 저는 오늘 떡과 저녁 부식거리요
+P1 	: ㅎㅎㅎ
+P0 	: 저는 이이스크림이나 쭈쭈바 종류로 몽땅 사야겠어요.ㅎ
+P1 	: 저희집에도 아이스크림 귀신이 있어요
+P0 	: 제가 최근에 달고나 뽑기 세트를 샀잖아요.ㅎ
+	  권해주고 싶음.
+P1 	: ㅋㅋㅋㅋ
+P1 	: 급 관심이 생깁니다
+P0 	: 나중에 요령을 알려주겠사와요.
+	  아.. 오아시스 쇼핑해야겠어요.
+	  쿠폰이 왔더라구요.
+P1 	: 요즘은 정가로 사면 손해보는 느낌이예요
+P0 	: 그러게요. 근데 할인쿠폰 있을 땐 상품가가 비싸기도 하더라구요.
+P0 	: 오늘 지구에서 뭐사실거에요?
+P1 	: 오~ 추천 있으신가요?
+P0 	: 그냥 핫딜카페 추천템중에서 느낌 오는 거 삽니다.ㅎ
+P1 	: 저는 톡방에서 추천해주는거 따라사요 ㅋㅋ
+P0 	: 그럼 제가 이따 보고
+	  할인 품목 추천해드릴게요.ㅎ
+P1 	: 오~ 감사합니다^^

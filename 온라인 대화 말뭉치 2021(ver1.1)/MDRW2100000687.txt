@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100000687
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 애기 병원갔다가 엄청 울었어요ㅠㅠ
+P0 	: 설사는 어때요?
+P1 	: 약 바꾸고 지금 처음먹은거라 아침에 봐야되요
+P0 	: 애기 빨리 낫기를 바랍니다
+P0 	: &name3&이는 요새 잘 지내고 있어요?
+P1 	: 힘들어해요ㅠㅠ 센터장님도 줏대없고 끌려다는 타입이고
+P1 	: 내년에 가을에 신축생기면 옮긴데요
+P1 	: 얼굴에 살이 쏘옥 빠졌어요 퀭하고
+P0 	: 지금도 신축건물로 옮긴거잖아요
+P0 	: 건물을 또 지어요?
+P1 	: 이건 지어져있던 개인건물을 군에서 매입한거예요
+P1 	: 치매관련해서 건물큰거 또 지어요
+P0 	: 승진해요 그러면?
+P1 	: 지금 건강가정다문화 국장이잖아요?
+	  다른분야(치매) 이직하려고 하는건데 직급은 같아요 국장!
+P1 	: 근데 거기가 훨씬 커요
+P0 	: 아 아무래도 규모가 큰쪽이 좋아요
+P0 	: 밥은 먹었어요?
+P1 	: 이제 먹어요 저희는 11시50분부터 점심시간이예요
+P1 	: 오늘 제육쌈밥! 사먹어요
+P0 	: 오 좋겠다
+P0 	: 우리는 요즘 나가서 못먹어요
+P0 	: 회사 식당가든가
+P0 	: 도시락시켜 먹어요
+P1 	: 회사식당 없어서 사먹어요ㅋㅋ
+P1 	: 우리는 확진자가 거의 없어서
+P0 	: 아하

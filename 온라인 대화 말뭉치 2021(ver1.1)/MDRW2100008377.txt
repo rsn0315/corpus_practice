@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008377
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 예전에 개 몇번 키웠었어요
+P1 	: 근데 헤어질 때 너무 괴롭더라고요
+P0 	: 맞아요
+P0 	: 슬프죠
+P1 	: &name1&님도 동물 키워본 적 있어요?
+P0 	: 아직요
+P1 	: 키워보고 싶은 동물 있어요?
+P0 	: 강아지여
+P1 	: 역시 강아지가 제일 귀엽고 친근한 것같아요
+P0 	: 잘 따르죠
+P1 	: 털 알러지같은거 있으면 키우기 어려운데 없어서 다행이에요
+P0 	: 고양이는 털때문에 안되겠도라구요
+P1 	: 아 고양이가 털이 많이 빠지나요?
+P0 	: 네 돌돌이 필수요

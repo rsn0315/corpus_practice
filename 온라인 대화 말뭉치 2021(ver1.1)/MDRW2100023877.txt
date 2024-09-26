@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100023877
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용 저녁은 드셨나요~?
+P1 	: 네~~~~~~~ &name1&도 드셨나요?
+P0 	: 네네! 저는 카레 먹었어요호
+P0 	: &name2&은요?
+P1 	: 저는 치킨먹었어요 ㅎㅎ
+P0 	: 이야아
+P0 	: 어디치킨 드셨나요~?
+P1 	: 페리카나요!!!
+P1 	: 좋아하는 치킨브랜드 있으세요?
+P0 	: 페리카나면 양념인가여??
+P0 	: 저는 치킨매니아 새우치킨 좋아해요!
+P1 	: 넵~
+P1 	: 오 그거 먹어보고 싶었는데 ...!!
+P0 	: 크으 역시 저도 양념은 무조건 페리카나시켜요ㅋㅋㅋ
+P0 	: 이거 되게 맛있어요 새우랑 궁합도 잘맞고ㅎㅎ
+P1 	: 다음에 시켜먹어봐야겠어요
+P1 	: 궁금하네요ㅎㅎ
+P0 	: 추천드립니당ㅎㅎ
+P0 	: 카레에 고기들어간거 좋아하세요?
+P1 	: 네! 카레에 고기 필수 아닌가요ㅎㅎ
+P0 	: 오 역시 맛잘알이시네요ㅎㅎㅎ
+P0 	: 저도 고기가득 넣어먹었어요~
+P1 	: 맛있으셨겠어요~~
+P0 	: 네네ㅋㅋㅋㅋ 맛있더라구요 오랜만에 먹어서 그런가
+P1 	: 오랜만에 먹으면 더 맛있죠ㅋㅋㅋ
+P0 	: 라면은 좋아하시나요~?

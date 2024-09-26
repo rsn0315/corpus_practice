@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100036545
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 하이요
+P0 	: 저녁 드셨나요?
+P1 	: 네 먹엇죠 ㄹㅎ
+P0 	: 뭐 드셨나요?
+P1 	: 오늘은  겉절이랑 청국장이요
+P0 	: 직접 만드신건가요?
+P1 	: 네넹 ~ ㅎㅎ
+P0 	: 우와 요리 잘하시나봐요
+P1 	: 그냥 좋아해요 ㅎㅎ
+P0 	: 잘만드시는 요리 있으신가요?
+P1 	: 짬뽕이요 ㅋ
+P0 	: 우와 멋지시네요!!

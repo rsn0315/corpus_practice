@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015276
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오 학교 생활
+P1 	: 혹시 무슨 과 나오셨어요??
+P0 	: 어디 나왔을것같아요?
+P1 	: 음
+P1 	: 힌트 주시면 안돼요??
+P0 	: 행정학과입니다ㅋㅋㅋㅋ
+P1 	: 앗
+P1 	: 그럼 지금 26이세요??
+P0 	: 헐 어캐아셨음
+P1 	: 후훗
+P1 	: 제 찍기 실력에 놀라셨죠?
+P0 	: 일단 저는 꿈도 희망도 없는 행정학과입니다
+P1 	: 요즘 공무원이 짱인데 무슨 소리에요..!
+P0 	: 행정학과는 희망이 없어요...
+P1 	: 그래두...
+P1 	: 그럼 지금 뭐 준비하세용??
+P0 	: 공기업이랑 7급 준비중입니당
+P0 	: 학과 어디나오셨어요?
+P1 	: 저 맞춰보세요 ㅎㅎㅎ
+P0 	: 신소재공학?
+P1 	: 음 아니에요
+P1 	: 하나도 안 비슷해요
+P0 	: 목탁디자인?
+P1 	: 오잉???
+P1 	: 음
+P1 	: 그것도 아닌데..
+P1 	: 전 항공과에요
+P0 	: 오...

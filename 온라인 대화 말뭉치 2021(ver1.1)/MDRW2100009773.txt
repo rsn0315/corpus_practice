@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009773
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연애는 어떠세요
+P1 	: 인연이 있다면?
+P1 	: 흘러가는대로?
+P0 	: ㅎㅎ 자만추!
+P1 	: 근데 코로나시국이라
+P1 	: 적극성이 필요한 것 같기도요
+P0 	: 맞아요ㅎㅎ 이상형은?
+P1 	: 대화가 잘 통하는 사람?
+P0 	: 그게 우선이긴해요
+P1 	: 경제관념도 일치 해야 할 듯해요
+P0 	: 맞아요 그거 크죠!
+P1 	: 결혼하셨나요
+P0 	: 네 작년에 했어요ㅎㅎ
+P1 	: 오 한참 신혼이실 때네요
+P0 	: 네 ㅎㅎ 그쵸!
+P0 	: 소개팅 안하세요?
+P1 	: 코로나 핑계대면서 미적 대고있어요

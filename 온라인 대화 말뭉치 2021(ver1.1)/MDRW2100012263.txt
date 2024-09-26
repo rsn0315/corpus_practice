@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012263
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~^^
+P0 	: 애완동물 키우시나요??
+P1 	: 네^^ 1마리요
+P0 	: 우와 전 애완동물은 한번도 안 키워봤어요.
+P0 	: 뭐 키우세요??
+P1 	: 강아지키워요~~
+P0 	: 오오~강아지 이름이 뭐에요?
+P1 	: &name3&요ㅎ
+P0 	: ㅎㅎ&name3& 귀엽네요
+P1 	: 아들이 지었어요ㅋ
+P0 	: &name3&는 몇살이에요?
+P1 	: 1살이요ㅋ
+P0 	: 애기네요~~
+P0 	: 어떤 종이에요?
+P1 	: 비숑이여
+P0 	: 아하 너무 귀엽겠다!

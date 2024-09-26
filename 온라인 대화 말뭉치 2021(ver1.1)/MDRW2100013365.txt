@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013365
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기숙사사신적있나여?
+P1 	: 네 일주일이요 &name1&님은요,
+P1 	: ??
+P0 	: 저는 학교다닐때 기숙사 살았었어요!
+P1 	: 기숙사 어떠셨나요?
+P0 	: 동기들이랑 매일이 치킨파티였어요ㅋㅋ
+P1 	: 오 안맞는 부분은 없으셨나요?
+P0 	: 통금시간이 있어서 밤늦게 놀려면 외박신청해야하고 그런 점이 좀 불편했어요ㅋㅋ
+P1 	: 아 기숙사에서 노신게 아니라 다른 곳에서 노신거군요?
+P0 	: 배달도 시켜먹고
+P0 	: 대학로에서 놀때도 있었어요ㅋㅋ
+P1 	: 오 &name1& 기숙사도 취사는 안되셨죠?
+P0 	: 네ㅠㅠ
+P1 	: 그럼 대부분 배달이셨나요?
+P0 	: 아 기숙사식당이 있어서 기숙사밥 먹었어요ㅋㅋ
+P1 	: 저녁까지 제공이 되셨나요?
+P0 	: 아점저 다 나왔어요ㅋㅋ
+P1 	: 기숙사가 굉장히 잘되어있네요

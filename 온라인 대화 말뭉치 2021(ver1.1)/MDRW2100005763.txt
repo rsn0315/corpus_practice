@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005763
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 백신맞으셨나용
+P1 	: 저는 1차 맞았어요 ㅎㅎ &name1&은 맞으셨나요?
+P0 	: 저는2차맞았어요~
+P1 	: 일찍 맞으셨네요! 백신이 안 들어온다고 하던데 이번에는 또 들어오나봐요?
+P0 	: 헛그런가보네요
+P0 	: 1차뭐로맞으셨나요?
+P1 	: 저는 화이자요! &name1&은 뭐 맞으셨나요?
+P0 	: 저도화이자요!
+P0 	: 2차는뭔가요?
+P1 	: 보통 똑같은걸로 맞춰주지 않나요? 음... 아직 2차는 말을 안해줘서 모르겠어요~
+P0 	: 음 그렇군요
+P0 	: 저도같은거맞았어요!
+P1 	: 그런데 교차 접종이 더 좋다는 말을 많이 들어서 모더나가 이번에 공급량이 많다면 교차접종 시켜줬으면 하는 바람도 있네요 ㅎㅎ
+P0 	: ㅎㅎ그렇다고는하네요
+P0 	: 2차언제맞으세요

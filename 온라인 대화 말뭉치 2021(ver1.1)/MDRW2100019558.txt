@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019558
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 어릴 때 꿈과 지금 꿈이 같아?
+P0 	: 다르지
+P1 	: 어떻게?
+P0 	: 어릴땐 하고 싶은 직업이 많았어
+P1 	: 예를 들자면?
+P0 	: 2개가 떠오르는데 일단 의사가 하고 싶었어
+P1 	: 사람을 고쳐주고 싶었구나
+P0 	: 맞아 이타적인 삶 멋있잖아
+P1 	: 또 다른 하나는?
+P0 	: 파일럿!
+P1 	: 오?의왼데.
+P0 	: 나 여행 좋아하잖아
+P1 	: 높은 것도 좋아해?
+P0 	: 당연하지. 하지만 시력이 나빠서 포기했어
+P1 	: 저런 안됐네

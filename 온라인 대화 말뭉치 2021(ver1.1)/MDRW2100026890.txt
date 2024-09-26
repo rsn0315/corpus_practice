@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100026890
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 야식 드시나요
+P0 	: 야식은 왠만하면 안 먹으려는 편이에요.
+P1 	: 좋은 습관이에요
+P1 	: 저도 끊고 있어요 ㅎㅎ
+P0 	: 대신 뭐 먹고싶을 때 껌 씹다보니까 하루에 1,2번은 씹게 되더라구요 ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ 껌도 안좋지 않나요
+P0 	: ㅋㅋ 다른 거 먹는 거 보단 낫겠지 싶긴 한데 껌 중독 비슷하게 됐네요
+P1 	: ㅋㅋ 뭐 칼로리는 없으니까용
+P0 	: 저녁으로는 뭐 드셨어요?
+P1 	: 소고기 먹었어욥
+P1 	: &name1&은요?
+P0 	: 맛있는 거 드셨네요 ㅋㅋ
+P0 	: 전 순두부찌개 먹었어요
+P1 	: 순두부찌개도
+P1 	: 얼큰하니 맛있죠
+P0 	: 마트에서 다담 양념같은 거 사서 재료넣고 끓여도 맛있더라구요
+P1 	: 그 한알?
+P1 	: 넣는 그거 좋던데요
+P0 	: 아 육수내는 대신 그것도 편하고 맛있더라구요
+P1 	: 나중에 보셔요
+P1 	: 점심 드셔야죠 우선

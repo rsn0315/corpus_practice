@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 가실때는 혼자가시는 타입이신가요? 여럿이 같이 가시는 타입이신가요?
+P0 	: 주로 여럿이서 가는 편이에요
+P1 	: 가실때 부딪치는 일은 없었나요?
+P0 	: 네 저는 가는 멤버들이 정해져있는데 신기하게 잘 맞더라고요 ㅋㅋㅋ
+P1 	: 오! 정말 좋은 일이네요!! 부러워요ㅠㅠ
+P0 	: 맞아요 운이 좋은거죠
+P0 	: 여행 어디 다녀보셨어요
+P1 	: 많이는 안가봤어요.
+P1 	: 강원도 몇군데, 인천에 있는 바다랑 일본 몇군데, 대만한 번 이렇게만 가봤네요!
+P0 	: 오 많이 다녀보셨네요
+P0 	: 저 대만 가보고싶었는데 어떠셨어요?
+P1 	: 재밌었어요!
+P1 	: 야시장도 가보고 망고빙수도 저렴하게 잔뚝먹고ㅠㅠ
+P0 	: 크...망고빙수
+P0 	: 상상만해도 두근거리네요
+P1 	: 가격이 한국돈으로 4천원가 했는데
+P1 	: 망고도 그것도 생망고로 2개나 들어가서 너무 행복했어요ㅠㅠ
+P0 	: 4천원에 생망고 2개라니....
+P0 	: 설빙 망고빙수만 먹어본 저는 웁니다 ㅋㅋㅋㄴ
+P1 	: 그거 먹고 설빙에서 먹으려니 자꾸 생각나더라구요ㅠㅠㅠㅠㅠ
+P0 	: 뭔가 흑우가 되어가는 느낌이죠 ㅋㅋㅋㅋㅋ

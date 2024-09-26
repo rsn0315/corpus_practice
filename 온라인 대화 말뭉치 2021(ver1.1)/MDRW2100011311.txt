@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011311
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 다니고 계신가요?!
+P1 	: 아니요~ 저는 프리랜서로 일하고있습니다~~
+P1 	: 고요님은요~?
+P0 	: 엇 저는 학생이에요!
+P0 	: 그럼 학생 때 한 동아리 활동 제일 기억나는 것 있으신가요?
+P1 	: 아하~ 저는 대학때 봉사동아리 해봤어요~!
+P0 	: 오 봉사 동아리 멋지네요! 전 대학교 때는 동아리를 한게 없는데 어떤 활동을 하셨어요?
+P1 	: 거의 학교 거리정화나 도움필요한곳 찾아서 했던것같아요~
+P1 	: 근데 자주는 아니여서..ㅎㅎㅎ
+P1 	: 그럼 지금 대학생이세요~?
+P0 	: 오 그래도 멋있네요
+P0 	: 네 지금 대학생이에요!
+P1 	: 아직 그럼 개강전이겠네용ㄹㅇ
+P1 	: 비대면 수업이신가요~?!
+P0 	: 저희는 비대면이랑 대면을 같이하더라구요
+P1 	: 아~ 그럼 나가긴해야겠네요ㅠ
+P1 	: 근데 비대면이 더 편한가요~?!
+P1 	: 한번도 비대면을 안해봐서 궁금하네요~
+P0 	: 비대면이 훨씬 편하죠 나갈 일 없고 질문도 그 자리에서 할 수 있고!ㅋㅋㅋㅋ
+P1 	: 우와 저도 요즘 대학생들보면 비대면으로 1년만해봤어묘그면
+P1 	: 좋겠다 생각들어요!!
+P0 	: 그러게요! 비대면 수업이 늘어났으면 좋겠네요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100020367
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책좋아하세요?!
+P1 	: 저는 소설 위주로 읽습니당ㅋㅋ
+P1 	: 다양하게 보려고 이거저거 사는데 사기만해요^^
+P1 	: &name1&님은 책 좋아하세요?
+P0 	: 네 책읽는거 좋아해요!
+P0 	: 최근에 재밌게읽은책 있으세요?
+P1 	: 곧 홍천기라는 드라마 방영한다고 해서 원작소설 읽었어요!
+P1 	: 정은궐 작가님 작품이라서 너무 재밌게 읽었어요
+P0 	: 아 성균관유생쓴!!
+P1 	: 넵 맞아요!!
+P0 	: 책이 드라마화 되면
+P0 	: 책부터보는게 더 좋더라고요 저는
+P1 	: 저도요! 스포를 좋아하는건 아닌데 원작을 먼저보는건 또 다른 느낌이에요
+P1 	: &name1&님은 어떤 종류 좋아하세요?
+P0 	: 책중에요?!
+P1 	: 넵
+P0 	: 어 소설이 제일재밌는데 편식하지않으려고
+P0 	: 굳이 이것저것다찾아읽는편이에요
+P0 	: 시도보고 인문학 에세이 그런거 다봐요!
+P1 	: 와 시도 읽으시는구나!!
+P1 	: 저는 인문학은 좀 관심있어서 읽는데
+P1 	: 시나 에세이는 손이 잘 안가더라구요ㅋㅋㅋ
+P0 	: 재밌게 읽은 에세이는 따님이 기가세요!
+P1 	: 아 제목 들어본거같아요
+P1 	: 매달 이북을 사는데 베스트셀러에서 본거같기도 하고

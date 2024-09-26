@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100033975
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 초밥이요
+P0 	: 오 초밥좋죠
+P0 	: 저녁으로 초밥드시나요
+P1 	: ㅋㅋㅋ아직 고민중이랍니다
+P1 	: 저녁 드셨나요?
+P0 	: 아직요 친구기다려요
+P0 	: &name2&님은 메뉴 고민을 치밀하게 하고계시겠군요
+P1 	: ㅋㅋㅋ친구랑같이
+P1 	: 저녁먹나요?!
+P0 	: 네 친구하고 머먹을지 아직 안정했어요
+P1 	: ㅋㅋㅋ
+P1 	: 뭐먹는지
+P1 	: 꼭알려줘요
+P0 	: ㅋㅋㅋ  요앞에 싼 국수집갈까 생각중이에요ㅋㅋ
+P0 	: &name2&님은 정했어요?
+P0 	: 저는 돈까스먹었습니다 베리굿
+P1 	: ㅋㅋㅋㅋ
+P1 	: 저랑 같은걸먹었네요??????
+P0 	: 오오
+P0 	: ㅋㅋㅋ 잘드셨군요 든든하게
+P1 	: 맥주vs소주 어떠세요?
+P0 	: ㅋㅋㅋㅋ 저는 막걸리 팝니다
+P0 	: &name2&님은요
+P1 	: ㅋㅋㅋㅋ
+P1 	: 딸기막걸리는 어떠세요?
+P0 	: 아 좋죠

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100005364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 배달음식 많이 드세요??
+P1 	: 일주일에 한 번정도 먹는 거 같아요
+P1 	: &name1& 님은요?
+P0 	: 저도 그정도 먹는거 같아요.
+P0 	: 코로나라 나가서 사먹을 수 없으니.. 자꾸 시켜먹게 되요.
+P0 	: 뭐 주로 시켜드세요??
+P1 	: 저는 요즘 마라탕 먹고 있어요
+P1 	: &name1& 님은 마라탕 드셔보셨나요?
+P0 	: 오 그럼요.
+P0 	: 땅콩소스 찍어먹으면 별미더라거요
+P0 	: 근데 남편은 별로라고 해서.. 잘 못먹고 있어요.ㅠ
+P1 	: 잘 안 맞으면 그렇게 되죠ㅠㅠ
+P0 	: 흑흑.
+P1 	: 그러면 주로 어떤 음식 시켜드세요?
+P0 	: 그래도 치킨 취향이 비슷해서 치킨 잘시켜먹어요
+P1 	: 주로 어디서 시켜드세요?
+P0 	: bbq요
+P0 	: 특히 황금올리브를 잘 시켜먹습니다.
+P1 	: 후라이드보다 양념을 더 좋아하는데 활금올리브는 진짜 맛있더라고요
+P1 	: bbq가 튀김도 맛있더라고요
+P1 	: 치킨 드실 때 음료는 뭐드세요?
+P0 	: 임신 수유중에는 사이다 마시고..
+P0 	: 지금은 당연히 맥주죠.ㅋㅋㅋㅋㅋ
+P1 	: 치맥 너무 맛있죠

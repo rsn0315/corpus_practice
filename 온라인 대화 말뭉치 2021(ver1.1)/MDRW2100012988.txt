@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012988
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 전에 콘서트나 연극 어떤거 보셨어요?
+P1 	: 코로나 전에도 전 안봤던것 같아요 &name1&님은요?
+P0 	: 이적 콘서트 가봤었어요~~
+P1 	: 올~~ 문화를 즐기는 생활을 하시다니
+P1 	: 아 전 김장훈 콘서트 갔었어요
+P0 	: 김장훈도 콘서트 유명하잖아요~!djdoc도 갔었는데 기억이 안나요ㅎ
+P1 	: 오~ 엄청 신났겠어요. 김장훈이 생각보다 노래를 잘해서 놀랐었어요
+P0 	: 악 생각보다ㅋㅋ 신났었을텐데 시작전 의자에 앉은거만 생각나고 공연은 생각이 안나요ㅋ
+P1 	: 정신을 놓으셨 ㅋㅋㅋ
+P0 	: 악ㅋㅋ 그런가봐요ㅋㅋ 그린티에 성시경 킬링보이스본후 성시경 콘서트도 가고싶어졌어요 ㅎ 공연 어떤거 보러가고싶으세요?
+P1 	: 저 뮤지컬 보러가고 싶어요
+P0 	: 뮤지컬좋죠 보려고 정해놓은거 있으세요?
+P1 	: 아뇨. 요즘 뭐 하는지도 몰라요. 아! 아이가 무지개물고기 보고 싶댔어요 ㅎㅎ
+P0 	: 와~ 아이랑 가는것도 재미있겠어요
+P0 	: 무대 시작하면 어두워지는거 아이가 안무서워하나요?
+P1 	: 옛날에 갔다가 울고불고 난리가 나서 안갔거든요 

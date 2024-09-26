@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100032624
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 올림픽보셨나요?
+P1 	: 네 봤어요
+P1 	: &name1&님도 보셨나요?
+P0 	: 넵ㅎㅎ양궁멋있었어요
+P1 	: 양궁 멋있었죠
+P1 	: 스포츠 평소에 좋아하시나요?
+P0 	: 음 보면 멋있는데 챙겨보진 않아요
+P0 	: 좋아하시죠??
+P1 	: 아니요ㅋㅋㅋㅋ
+P1 	: 그럼 스포츠 직관 가신 적 있으신가요?
+P0 	: 앗그래요ㅋㅋㅋㅋ?ㅎㅎ
+P0 	: 저는야구요!
+P1 	: 언제 가셨나요?
+P0 	: 코로나전에요ㅎㅎㅎ
+P0 	: 직관가신적있으세요?
+P1 	: 아니요
+P1 	: 직접 티켓팅 해서 가신건가요?
+P0 	: ㅎㅎ같이갔던친구가끊었어요
+P1 	: 친구분은 스포츠 좋아하셨나요?
+P0 	: 그친구는야구축구좋아했어요
+P0 	: 가서보니재밌더라고요

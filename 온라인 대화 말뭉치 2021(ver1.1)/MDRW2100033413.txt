@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 날씨는 어떠신가요
+P0 	: 여긴 비가 내립니다 ㅜㅜㅜ 지각했어요 ㅋㅋㅋㅋ
+P1 	: 여긴 해떴다 가랑비 내렸다 오락가락해요
+P0 	: 오 해도 보이긴하는군요 ㅋㅋㅋ여긴 우중충하네여~~ 기분도 우중충~~
+P0 	: 날도 쌀쌀해서 긴팔입고 출근했네요 &name2&님은 춥진 않으신가요?
+P1 	: 아침엔 쌀쌀한데 아직 여름옷 입고 다닙니다 또 낮에는 땀이 나더라구요
+P0 	: 맞아요 낮엔 또 덥죠 ㅠㅠ 여긴 하루종일 비온대서 긴팔입었어요
+P0 	: 비오는날은 출퇴근길이 더 힘드네용...
+P1 	: 자차로 이동하시나요? 비오는날은 차가 더 밀리던데..
+P0 	: 저는 대중교통이요 ㅜㅜ
+P0 	: 근데 지하철한번 버스한번 타야해요ㅜㅜ
+P0 	: 그래서 비오면 오늘처럼..가끔씩...지각을..ㅎㅎ
+P1 	: 아 갈아타시려면 고생이겠어요 우산에 습기에 힘드시죠
+P0 	: 맞아요 ㅜㅜ ㅋㅋㅋㅋ그래서 비랑 눈 둘다 싫어합니다 ㅋㅋㅋ
+P1 	: 여긴 갰는데 오후날씨는 어떤가요?-
+P0 	: 비는 그친거 같아요!! 아직 흐리긴한데ㅜㅠ
+P0 	: 제발 퇴근길에 비만 안오면 좋겠네여 ㅋㅋㅋㅋㅋ

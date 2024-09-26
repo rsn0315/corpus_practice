@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100036649
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 분들은 집에서 비슷하게 간이로 만들어서 하기도 하고
+P1 	: 유행했던걸로 아는데 전 안해봤어요
+P0 	: 와 그걸 만들수도 있군요 신기해요
+P0 	: &name2&님은 어떤 기계 쓰세요?
+P1 	: 저는 수동그라인더랑 커피내리는 기계가 있는데
+P1 	: 브랜드는 모르겠어요
+P0 	: 그라인더있으시군요 본격적이시네요ㅋㅋ 전 그냥 믹서기..를 썼었죠...ㅋㅋ
+P1 	: 앗 그러셨군요
+	  자주 사용하지 않으면 구매하기 좀 그렇긴하죠
+P0 	: 네 제가 그라인더를 샀더라면 커피의 매력에 더 빠졌을거같긴 해요ㅋㅋ
+P1 	: 지금도 커피를 즐기시는편이니 곧 매력을 더 알아가셨으면 좋겠네요
+P0 	: 넹ㅎ &name2&님은 커피에 대해 관심이 많으시죠?
+P1 	: 많은 편이라고 할 수 있을것ㅈ같아요
+P0 	: 핸드드립 해보신적 잇나요?
+P1 	: 네 예전에 내려보았어요
+P0 	: 어려워보이던데 어때요?
+P1 	: 어려운 일이라 생각은 안 들어요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 자주 다니시나요?
+P1 	: 코로나때문에 못간지 오래된것같아요ㅠㅠㅠ
+P0 	: 저도 바다가는거 정말 좋아하는데 못간지 오래됐어요ㅜ
+P1 	: 제주도가고싶어요ㅠㅠ! &name1&은 어디가고싶으신가요
+P0 	: 저도 제주도 좋아해요 우도 이런데 가보고 싶네요 한번도 안가봐서
+P1 	: 저는 우도는 많이 가봐서 이번에는 다른곳 가보고싶어요! 서쪽을 잘 안가본것같아서요!
+P0 	: 서쪽엔 특별한 볼거리가 있나요?
+P1 	: 애월이 있지않나용? 아기자기한것같더라구요ㅎㅎ!
+P0 	: 아 애월이 서쪽이었단걸 깜빡했네요 카페들이 분위기가 좋더라고요
+P1 	: 제주도는 어딜가나 다 예쁜것같아요! 카페들도 다 예쁘구용
+P0 	: 네 관광객이 많은 이유가 있더라고요ㅎ
+P1 	: 4단계라 제주도에 못가서 아쉽네요! 가장 좋으셨던 여행지 있으신가요?
+P0 	: 저는 옛고궁이나 건축물 좋아해서 경주나 경복궁 좋아해요

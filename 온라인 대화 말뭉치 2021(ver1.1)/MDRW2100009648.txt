@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009648
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 가고 싶은 여행지 어디야?
+P1 	: 유럽 가고 싶어
+P1 	: 너는 어디 가고싶어?
+P1 	: 나는 유럽 한번도 안가서
+P0 	: 오 나는 어학연수하러 아일랜드 가보고 싶어
+P0 	: 관광가고 싶은 곳은 스위스!
+P1 	: 아일랜드 멋지다
+P1 	: 왜 아일랜드야?
+P0 	: 아일랜드가 한국인이 많이 없다고 하더라고 ㅎㅎ 그래서
+P0 	: 거기가면 영어 많이 쓸것 같아서 알아봤어!
+P1 	: 한국인이 없어야 좋지
+P0 	: &name2&님은 가고 싶은 곳 있어요?
+P1 	: 나는 영국 가고 싶어
+P0 	: 오 이유 있어?? 영국 물가 비싸던데
+P1 	: 그냥 로망까지는 없는데
+P1 	: 한번 가보고싶어
+P0 	: 그렇구나 나도 영국 궁금하긴 해
+P0 	: 날씨가 안좋다는데
+P1 	: 날씨가 좋으면 다들 햇빛 쬐러 나간대
+P0 	: 그렇구나 피쉬앤 칩스도 생각난다

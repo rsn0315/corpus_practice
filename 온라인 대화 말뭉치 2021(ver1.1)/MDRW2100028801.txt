@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛있었겠네요!!
+P0 	: 맛있었어요 정육점아저씨의 픽은 언제나 옳아요
+P1 	: 아 저도 고기 구워먹은지 조금 되서 먹고 싶네요 ㅜㅜ
+P0 	: 주기적으로 고기가 땡겨서...
+P0 	: 주말에 고기한번 드시죠!
+P1 	: ㅎㅎ 고기는 항상 옳죠!!
+P0 	: 그럼요!
+P0 	: 만약 드신다면 무슨고기 드시고싶으세요?
+P1 	: 저는 얼마전에 백종원님 골목식당에 기버터에 굽는 스테이크를 봐버려서
+P1 	: 스테이크나 스테이키동 먹으러 가고 싶어요 ㅎㅎ
+P0 	: 스테이크 좋죠 고기만 든든하게 구워서 먹고싶어요
+P0 	: 어느정도 굽기를 좋아하시나요?
+P1 	: 미디엄 레어가 딱 좋은 것 같아요!
+P1 	: 촉촉한데 너무 핏기 있지 않아서 좋아해요!
+P1 	: &name1&님은 어느 정도 굽기 좋아하세요?
+P0 	: 헉 저두 미디엄 레어요!
+P0 	: 리버스시어링한것도 좋은데
+P0 	: 저는 아직 팬으로 조리한게 좋아요
+P1 	: 저도 팬으로 조리한게 더 좋은 것 같아요 ㅎㅎ
+P0 	: 저는 승우아빠 유튜버분 방법을 자주따라해요
+P1 	: 그 분 영상도 참 유용하죠!!

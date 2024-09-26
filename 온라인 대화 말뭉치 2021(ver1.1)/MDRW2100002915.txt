@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002915
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 미용실도 마스크끼죠?
+P0 	: 그렇죠 코로나 터졌을무렵 가고
+P0 	: 후론 안갔네여
+P1 	: 머리가 기네오
+P0 	: 살빼고싶어요
+P1 	: 저도
+P0 	: 운동합시다
+P1 	: 험트해여
+P0 	: 스쿼트 효과있나요
+P1 	: 플랭크해요
+P0 	: 플랭크 잘하시나뇨
+P0 	: 어렵던뎅
+P1 	: 힘들죠
+P0 	: 건강 챙기시나요?
+P1 	: 네 그런편이요

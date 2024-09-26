@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100023060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물로 바뀌었네요!!
+P1 	: 반려동물 키우세요?
+P0 	: 저는 안키워요 키우시나요
+P0 	: ??
+P1 	: 저도 키우고싶음 마음만 가득해요..!!
+P0 	: 어떤 동물 키우고 싶으신가요?
+P1 	: 저는 .. 멍멍파입니다..!
+P0 	: 그 중에서도 원하는 종이 있으신가요?
+P1 	: 저는 비숑 좋아해요! 어떤 동물 가장 키우고싶으세요?
+P0 	: 저는 물고기요
+P1 	: 헐 물고기! 뭔가 예상못한 반려동물이네요!
+P1 	: 관상어 말씀하시는건가요?
+P0 	: 네 사실 제가 귀여운 걸 보는 건 좋아하는데 반려동물을 잘 키울 자신이 없어서요ㅠㅠ
+P1 	: 신기해요~~ 막 물고기에 대해서 잘 아시나요?
+P0 	: 그런 것까진 아니고 그냥 반려동물로 키우고 싶다라는 로망이랄까?
+P1 	: 아하! 그냥 키우게 된다면 물고기가 키우고 싳다는 말씀이셨군요
+P0 	: 네 맞아요

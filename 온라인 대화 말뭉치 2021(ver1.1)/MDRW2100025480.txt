@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025480
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 아까왔는데 지금은 흐리기만하네요
+P1 	: 거긴요?
+P0 	: 여기더여
+P1 	: 너무습해서 꿉꿉하네요
+P0 	: 그쵸
+P0 	: 맑죠?
+P1 	: 아뇨 비는안오나 흐려요
+P1 	: 회색구름 뭉게뭉게
+P0 	: 여기 덥워요
+P1 	: 여긴 후덥지근해요
+P0 	: 습해요
+P1 	: 이젠 바람부니깐 춥네요
+P0 	: 선선하죠
+P1 	: 넹 어제오늘 다르네요
+P0 	: 갈수록요
+P0 	: 선선하죠?

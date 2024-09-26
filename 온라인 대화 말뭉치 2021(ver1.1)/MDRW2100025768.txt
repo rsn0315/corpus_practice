@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025768
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 싫어요
+P1 	: 저는 초밥먹고 싶어요
+P1 	: 초밥에 냉모밀
+P1 	: 후로롭
+P0 	: 둘다 같이 먹어요
+P1 	: 노머니라 불가능입니다 ..
+P1 	: 한번 해 볼까요 ?
+P0 	: 네
+P0 	: 까르보나라!!!!!!!!!!
+P1 	: 뭐 어쩌자는 거죠 ?
+P1 	: 까르보나라 땡기세요 ?
+P0 	: 아뇨
+P0 	: 오늘 저녁 뭐 드셨어요 ?
+P1 	: 저 떡군이네 로제떡볶이에 중당 분모자 추가해서 먹었어요
+P1 	: 님은요 ?
+P0 	: 저는 김밥이요
+P1 	: 웬지 저랑 통하셨을 것 같아요
+P0 	: 안통했네요
+P0 	: 저는 깻잎김밥이요
+P1 	: 아 그런가요 ?
+P0 	: 맛있거든요
+P1 	: 깻잎김밥이랑 로제떡볶이랑 같이 먹었으면 더 맛있었겠네요
+P0 	: 아니죠 날치알비빔밥이죠!

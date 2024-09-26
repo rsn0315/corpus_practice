@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 맞아요!!
+P0 	: 역시!
+P0 	: 일하고 계신가요?
+P1 	: 지금은 쉬고 있어요 ㅎㅎ !
+P0 	: 그러시군요!
+P0 	: 어떤일하셨어요?
+P1 	: 저는 보건쪽이였어요 !!
+P0 	: 우와 보건쪽 엄청 힘들다는데 어떠셨어요?
+P1 	: 힘들어요 ㅜㅜ! 다들 돈은 벌어야되서 버티는거죠 ㅎㅎ
+P0 	: 그쵸ㅠ 돈 생각하며 버티는거죠ㅠ
+P1 	: ㅠㅠ 어느직종이세요?
+P0 	: 저는 영상전공인데 다른거로 갈아타려고해요ㅠ
+P1 	: 헐 ㅜㅜ 이유가 있나요??!
+P0 	: 저번에 일할때 너무 몸이 안좋아져서 출퇴근이 있는곳을 하고싶어지더라구요ㅜㅜ

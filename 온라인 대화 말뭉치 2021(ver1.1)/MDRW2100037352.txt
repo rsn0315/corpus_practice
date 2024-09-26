@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100037352
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 오늘 밖에 비 와
+P0 	: 여기도 비 와
+P1 	: 매번 비 와
+P0 	: 이번에 빈 진짜 많이 온다
+P0 	: 진짜 많이 온다
+P1 	: 비 오는 날에는 햇빛이 없어서 좋아
+P0 	: 그렇지만 옷이 젖는 걸
+P1 	: 우산을 드는 거 자체가 귀찮아
+P0 	: 맞아 그리고 물구 덩이가 싫어
+P1 	: 신발 젖는거 짜증
+P0 	: 사볼까봐 장화
+P1 	: 나는 장화 사놓고 한 번도 안 씀
+P0 	: 발냄새 나지 않을까
+P1 	: 키높이 신발은 어때
+P0 	: 넘어지면 다칠 거 같아
+P1 	: 비 오는 날에 높은 것을 신으면 은 덜 젖어
+P0 	: 아 그렇긴 하겠다

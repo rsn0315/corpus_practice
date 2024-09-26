@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000788
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤일 하시나요?
+P0 	: 사무직이요
+P1 	: 전 직장다니다 그만두고 전업해요
+P0 	: 어떤게 나으세요?
+P1 	: 회사다닐때가 덜 스트레스 받는것 같아요
+P0 	: 육아가 젤 힘들다구 하더라구여
+P1 	: 코로나때문에 하루종일 같이있으니 회사가고. 싶어요
+P0 	: 아.
+P0 	: 힘들어 보여요
+P1 	: 회사다닐때도 업무스트레스가 없는건 아니었는데   사무실에 있을때는 나한테만 집중할수있으니 좋은것 같아요
+P0 	: 맞아요 내 시간이 필뇨한데
+P1 	: 직장다닐때 회식하는것도 재미있었는데 요즘은 사람들을 만날수 없네요
+P0 	: 네 모이기도 힘들구
+P1 	: 아이더 크면 구직활동을 해야 하나 고민이 되네요

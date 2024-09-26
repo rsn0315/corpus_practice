@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046253
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 점심은 드셨나요?
+P0 	: 네~ 아까 먹고 쪽잠잤네요
+P0 	: &name2&님은 드셨어요?
+P1 	: 아하 쪽잠 
+P1 	: 좋죠
+P1 	: 저도 방금 먹고 왔어용 
+P0 	: 이제 밥먹었으니 일해야겠네요
+P1 	: 대체휴일 월요일에는 쉬셨나요?
+P0 	: 네~~
+P0 	: 다음주엔 하계휴가로 9일 쭉 쉰답니다
+P0 	: 부럽죠?
+P1 	: ??어??
+P1 	: 그렇게 부러운 얘기 하기 있기에요?
+P0 	: 부러우면 지는건데..
+P0 	: 혹시 패배자신가요..? ㅎㅎ
+P1 	: 그니까 제가 이렇게 열폭하죠!
+P1 	: 엉엉
+P0 	: {emoji}
+P1 	: 저주 내릴 거예요 : 휴가 가서 인생샷이나 건지고 와라 흥 

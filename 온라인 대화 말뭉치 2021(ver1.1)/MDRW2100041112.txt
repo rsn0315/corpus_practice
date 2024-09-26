@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041112
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 헉 저도 본 거 같아요 그 장면
+P1 	: 거기서 오로라 나왔죠?
+P0 	: 네!! 맞아요
+	  거기서 오로라 보러 갔었어요
+P1 	: 너무 예쁘고 신비한 거 같아요 진짜
+P0 	: 맞아요!  화면으로만 보아도 정말 신비하고 예쁜데 실제로 본다면 어떨까 궁금해요
+P1 	: 진짜요.. 뭔가 웅장해질 거 같고.. 그래서 여행가는거같아요
+P0 	: 맞아요! 그렇겠죠 
+	  언젠가 직접 볼 수 있는 날이 왔으면 좋겠어요
+P1 	: 진짜요ㅠㅠ 코로나가 끝나야 여행할텐데 말이에요
+P0 	: 맞아요!  코로나 정말 넘 힘들게 하네요ㅜㅜ
+P0 	: &name2&님은 여행 가셨던 곳 중 기억에 남는 곳 있으신가요?
+P1 	: 음 저는 일본이요!!
+P0 	: 어떤 점이 기억에 남으셨어요?
+P1 	: 풍경이 진짜 예쁘더라구요... 뭔가 반짝 빛나고,,
+P0 	: 예쁜 풍경 속에 있으면 너무 좋죠!
+P1 	: 맞아요 예쁜 풍경 너무 좋아하는...
+P1 	: 진짜 오로라는 꼭 한 번 보고 싶네뇨

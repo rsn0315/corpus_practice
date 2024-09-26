@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 안녕?
+P1 	: 안녕하세요 운동하시는거 좋아하시나요?
+P0 	: 네 계단 오르고 내리는거 즐깁니다
+P1 	: 하루에 얼만큼 오르고 내리는거 하시나요?
+P0 	: 10층까지 올라갔다 내려갔다 한번 정도요
+P1 	: 오 10층정도면 엄청 힘들것같은데 해볼만 한가요?
+P0 	: 적당히 숨이 차서 부담스럽지 않게 운동 가능해요
+P1 	: 저도 집에 올라가는 정도는 해봐야겠어요
+P1 	: 다른 운동은 안하시나요?
+P0 	: 그냥 호수 주변 걷는거 좋아합니다
+P0 	: 요즘 날씨가 걷기에 아주 좋죠
+P1 	: 맞아요! 요즘 강아지 산책할때 선선해서 걷기 좋더라구요~
+P0 	: 반려동물이 있군요~ 저는 없어요
+P1 	: 앗..!! 반려동물 키워보신적 없으신가요?
+P0 	: 네 털 알러지가 있어서요
+P1 	: 아..그럼 동물도 별로 안좋아하시나요?
+P0 	: 네
+P0 	: 대신 동물원 가는건 좋아해요
+P1 	: 눈으로만 보는걸 좋아하시나 봐요~~ㅎㅎ
+P0 	: 네 곧 점심 드셔야겠네요 맛있게 드세요
+P1 	: 넵 점심 맛있게 드세요!!

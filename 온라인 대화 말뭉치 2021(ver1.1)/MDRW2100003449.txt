@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003449
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식이 있나요?
+P1 	: 저는 고기종류 좋아해요!
+P0 	: 고기면 어떤거요? 돼지고기 소고기 닭고기?
+P1 	: 고기라면 가리지 않고 다 좋아합니다
+P1 	: 하지만 돼지가 제일 좋기는해요
+P0 	: 저두요 삼겹살! 너무 맛있어요
+P1 	: 진짜 삼겹살은 매일먹어도 질리지가 않는 것 같아요ㅜㅜ
+P0 	: 삼겹살 먹을 때 같이 주로 뭐를 곁들여 드시나요?
+P0 	: 저는 마늘 파채 김치 등등 뭐랑 먹어도 너무 맛있더라구요
+P1 	: 일단 기본적으로 상추쌈을 먹어줘야해요ㅎㅎ
+P1 	: 저는 굉장히 크게크게 쌈싸먹는 스타일이에요
+P0 	: 상추쌈 좋아요
+P0 	: 쌈장 넣어드시나요?
+P1 	: 그럼요!  상추쌈에 쌈장은 필수에요
+P0 	: 그럼 마늘은 구운게 좋아요 생마늘이 좋아요? 전 구운거요
+P1 	: 저는 사실 마늘은 생도 좋고 구운것도 좋은데 고기쌈에는 구운게 더 맛있는 거 같아요
+P0 	: 맞아요 구운게 뭔가 좀 더 감칠맛이 난다랄까
+P0 	: 좀 더 맛있더라구요
+P0 	: 삼겹살 말고 햄버거 좋아해요

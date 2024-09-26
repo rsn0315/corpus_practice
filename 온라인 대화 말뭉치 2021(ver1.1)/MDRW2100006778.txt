@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100006778
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 안해요ㅜ주말에 산책만 간간히 해요
+P0 	: 저도 아픈 뒤로는 산책만 합니다
+P0 	: 심한 운동은 지금 할 수가 없어요
+P0 	: 대신 매일 산책 합니다
+P1 	: 아 많이 아프셨군요
+	  대상포진..
+P0 	: 몇달간 제대로 걷지도 못했어요
+P0 	: 다리쪽 신경이 망가진거라 걸을때마다 아팠지요
+P1 	: 이런 몇달씩이나... 지금은 쾌차하셨나여
+P0 	: 지금도 한달에 한번 일주일씩 입원합니다
+P0 	: 그래도 처음에 비해 아주 좋아졌답니다
+P1 	: 저런... 저는 지금도 건강관리를 안 하는데... 걱정입니다ㅜ
+P0 	: 이번에 처음으로 입원이란 걸 해보고 느꼈습니다
+P0 	: 건강은 건강할 때 지켜야 한다는 것을요
+P1 	: 아 은퇴 전엔 입원도 안하셨었나보네요
+P0 	: 네 작년 가을에 대상포진 때문에
+P0 	: 처음으로 입원을 했습니다
+P1 	: 아 저런... 입원을 얼마나 하신 거에여
+P0 	: 한달에 한번씩 이제 일년 되어가네요
+P1 	: 아 지금도 한달 한번 입원하시는거에요? 이런
+P0 	: 지난 주에 퇴원했었지요
+P0 	: 다음달에 한번 더 갈까 생각중입니다

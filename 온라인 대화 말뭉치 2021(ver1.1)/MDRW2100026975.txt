@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026975
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나 체했는지 머리도 아프고 속도 안 좋아..
+P0 	: 아이고 어째. 약은 먹었고?
+P1 	: 응 타이레놀 두 알 먹었어
+P0 	: 약 효과는 드는 것 같아?
+P1 	: 아니 별로 효과 없는 것 같어
+P1 	: 계속 아파
+P0 	: 머리 말고 더 아픈 덴 없고?
+P1 	: 온 몸에 근육통도 있는 것 같아
+P1 	: 일어났더니 팔 다리가 아프네
+P0 	: 몸살감기인가. 내일 병원 가봐야겠다
+P1 	: 글쎄... 열은 안 나는데 머리가 너무 아프니까 아무것도 못하겠네
+P0 	: 체한 것 같으면 속청도 먹어봐
+P1 	: 어 집에 소화제는 없어서 그거라도 먹어볼게
+P0 	: 그래. 새벽에라도 심하게 아프면 전화해. 응급실이라도 가게
+P1 	: 그정도로 아픈 건 아니구..병원 가기는 싫으네
+P1 	: 할머니 병원 다녀 오셨어?

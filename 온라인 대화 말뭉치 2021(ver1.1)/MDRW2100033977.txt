@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033977
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요새 사고싶은 물건 그런거 있으세요?
+P1 	: 그립톡 고민중이에요!
+P0 	: 아 그립톡!!
+P0 	: 귀여운거 좋아하시나요 아니면 심플?
+P1 	: 심플한 종류로 찾고 있어요
+P0 	: 아하 케이스색이랑 어울리는 걸로 찾으시겠네요
+P1 	: 네네! 케이스를 바꿀 수 있으니 몇 개 구매하려구요
+P0 	: 중고거래 경험도 있으신가요? 당근마켓이나
+P1 	: 당근마켓으로 해봤어요
+P0 	: 저도 작년에 꽤 이용했는데 쏠쏠하더라고요 나름 ㅎㅎ
+P1 	: 거래해보신건가요?
+P0 	: 네네!! 물건이 많아서 ㅋㅋㅋ 나눔도 많이 하고요
+P1 	: 나눔은 어떤 식으로 하시는 건가요?
+P0 	: 그냥 똑같이 올리는데 0원으로 하면 무료나눔으로 올라가요 말그대로 무료로 주는 거예요 ㅎㅎ
+P1 	: 오 처음 알았어요! 나중에 참고할게요ㅎㅎ
+P0 	: 네!! 물건 처분할때 좋아요!! ㅎㅎ

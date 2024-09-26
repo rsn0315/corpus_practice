@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010064
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 봉사에 관심있으신가요?
+P1 	: 안녕하세요 저는 제로웨이스트 봉사에 관심있어요
+P0 	: 아 제로웨이스트ㅠㅠ 저도 추구하는데 참 어렵더라구요
+P1 	: 그쵸ㅠㅠ 제로웨이스트 동호회 들고나서 버려지는 쓰레기가 많다는 걸 알게됐어요
+P0 	: 제로웨이스트 동호회요? 어떤걸 하나요?
+P1 	: 길에 버려진 걸 같이 줍는 봉사를해요
+P1 	: 줍깅이라고ㅋㅋ
+P0 	: 줍깅이라니ㅋㅋ 너무 귀엽네요ㅋㅋㅋ
+P0 	: 요즘도 자주 봉사나가세요?
+P1 	: 아니요ㅠㅠ 코로나때문에 봉사도 어렵네요..
+P0 	: 아이고... 저도 종이함부러 쓰는걸 자제하고있어요
+P1 	: 따로 봉사단체나 모임은 없으세요?
+P0 	: 친구들이랑 여행모임이 있었는데 요즘은 못가고있어요
+P1 	: 여행모임이라니
+P1 	: 너무좋은데요?
+P1 	: 어디어디 다녀오셨어요?
+P0 	: 일본이랑 대만에 다녀왔어요
+P1 	: 모임에서 여행비를 모아 가시는 건가요?
+P0 	: 네ㅋㅋ 보통 숙소비까진 여행모임비에서 지출해요
+P1 	: 좋네요ㅋㅋ

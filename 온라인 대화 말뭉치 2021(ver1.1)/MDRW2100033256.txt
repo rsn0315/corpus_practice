@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100033256
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페에서 어떤 컵을 주로 쓰시나요?
+P1 	: 아니요
+P1 	: 종이컵
+P0 	: 리유저블컵 써보셨나요
+P1 	: 그게 뭔데요?
+P0 	: 플라스틱인데 10번정도 쓸 수 있어요 뜨거운물은 안된대요
+P1 	: 그럼 뜨거운 커피는 안되겠군요
+P0 	: 요즘 커피 테이크아웃 전문점들은 리유저블컵에 아이스를 담아준대요
+P0 	: 나중에 그걸 또 갖고오면 할인해주는 방식이에요
+P1 	: 아이스를 안좋아해서
+P1 	: 할인도 되요?
+P1 	: 한번도 본적 없어요
+P0 	: 네네 할인 많이 가능해요
+P0 	: 스타벅스만 좋아하시나봐요^^
+P1 	: 가지고 다니기가 번거로워서
+P1 	: 소지품이 많아서
+P1 	: 힘들어서
+P0 	: 싼마이커피점들은 요즘 리유저블컵 할인행사 한답니다 끝났을수도 있지만~
+P0 	: 담에 빈손이실때 가보세요~
+P1 	: 매번 까먹고
+P0 	: 텀블러를 자주 잃어버리시나봐요
+P1 	: 턴블러 할인도 있다던데
+P1 	: 받아본적이 없어요.
+P0 	: 맞아요 텀블러할인도 많더라구요 스타벅스도 하고

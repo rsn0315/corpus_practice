@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015892
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 올해 야구 보시나요?
+P1 	: 가끔씩 봐요.
+P0 	: 저도 진짜 가끔씩 봐요
+P0 	: 요즘은 딱히 재미있지도 않고...
+P1 	: 여러 사건사고가 많았죠
+P0 	: 맞아요!
+P1 	: 최근 두산 선수 약물 의혹도 있었던 것 같은데
+P0 	: 저도 그 소식 듣고 놀랐는데
+P0 	: 무혐의인가? 판정 났다고 하더라구요
+P1 	: 다행이네요!
+P0 	: 그러니까요.
+P0 	: 천만다행이에요
+P1 	: 코로나로 리그 중단도 됐었잖아요
+P0 	: 확실히 그것 때문에 좌석 간 거리두기도 하고
+P0 	: 방역에 신경쓰는 것 같아요
+P1 	: 선수들 확진되면 큰일이니까요
+P0 	: 좋아하는 선수 있으세요?
+P1 	: 저는 양현종 선수요

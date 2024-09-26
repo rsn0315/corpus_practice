@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100024435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 요즘은 동호회 안하니?
+P0 	: 네
+P1 	: 코로나라 그런거냐?
+P0 	: 그런것도 있구요
+P1 	: 위드 코로나되면 활동도 좀 해야지.. 넌 너무 집순이야
+P0 	: 전 엄마랑 다르잖아요.. 집이 좋아요
+P1 	: 아빠랑 똑같구나
+P0 	: 그럼요 아빠 딸인데요 ㅎㅎ
+P1 	: 전에 인라인 타지 않았었니?
+P0 	: 네 지금은 다 잊었네요
+P1 	: 어쩜.. 다시 하면 금방 생각날거다
+P0 	: 다시 타보려구요
+P1 	: 그래.. 있는거 활용해야지

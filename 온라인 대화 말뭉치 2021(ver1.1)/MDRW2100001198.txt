@@ -1,0 +1,777 @@
+# FILE DATA
+ID : MDRW2100001198
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210805
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: {emoji}
+P1 	: 안냥
+P0 	: 오늘 날씨 진짜 더웠어
+P1 	: 난 그래서 바깥에 안나갓지
+P1 	: 밖에 다녀옴?
+P0 	: 아니 자고 지금 일어났어
+P1 	: 응? ㅋㅋㅋㅋㅋㅋㅋ 근데 더운거 어케ㅜ알앗어
+P0 	: 일어났더니 찜질방인줄 알았어
+P0 	: 에어컨 하루종일 풀가동인데 밖에 열기는 어쩔 수가 없더라
+P1 	: 그럼에도 불구하고 잘잣넼ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 응 너무 잘 자서 해야될 일을 못 했어
+P0 	: 오늘 야구하더라 심판은 멕시코인이래
+P1 	: 아 어제 지고 오늘 또해?
+P1 	: 미국한테 발리고 잇나
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210805
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 오늘은 미국이랑!
+P1 	: 나 아직 퇴근길이라 못보고 잇는데
+P0 	: 어 진짜 그럼 어떡하지 내가 확인해보고 올게
+P1 	: 응? ㅋㅋㅋㅋㅋ
+P1 	: 갠차나 틀면 되지 뭐 ㅋㅋㅋㅋㅋㅋ
+P1 	: 오늘 이기면 결승간다며
+P1 	: 대진표 진짜 요상하더러
+P0 	: 메이저리그 선수는 안 나왔다던데
+P0 	: 진짜인가? 나도 댓글만 보고 있어서
+P1 	: 아 응 국제대화에 메쟈선수들은 안나와
+P0 	: 아 정말이네 근데 후반부는 어떻게 될지 모르니까 지금 미국이 1점 먹었어
+P0 	: 그렇구나 이것도 규정이구나
+P1 	: 나와도 될걸? 근데 굳이..
+P1 	: 베네핏이 없을거야
+P1 	: 그리구 메쟈가 나오면 솔직히 반칙이지!!!
+P1 	: 다 발라버릴텐데
+P0 	: 그렇지 실력차이 너무 나겠다
+P1 	: 웅웅 마쟈
+P1 	: 그래서 국제대화엔 마이너들만 나왕
+P0 	: 진짜 야구 발릴려나봐
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210805
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 몇회야?
+P0 	: {share:photo}
+P1 	: 네이버 틀엇엉 ㅋㅋㅋ
+P1 	: 아직 4회에 2점이네
+P1 	: 투수가 누구지
+P0 	: 지금 어떻게 되가고 있어?
+P1 	: 1사 1,3루인데 박해민이네
+P1 	: 어제 해민이 컨디션 좋든데
+P1 	: 오늘은 어떠려나
+P0 	: 어제도 챙겨봤어? 그 선수면 괜찮을 수도 있겠다
+P1 	: 말하는 순간 안타
+P1 	: 1점 났구요
+P1 	: 야구는 그래도 매번 잘하는 애가 잘하진 않으니
+P1 	: 흐름을 봐야하는데
+P1 	: 정후는 늘 잘하지{emoji:🙊}
+P1 	: {emoji:❤}
+P0 	: 응 그 선수 언제 나올까 기대된다
+P1 	: 이죤후
+P0 	: 그래도 1점이라니 감격스럽네
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210805
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 미국이라 해서 이미 포기하고 있었어 뒷심있네
+P1 	: 우리 예선에서 미국 이겨짜낭
+P0 	: 예선 안 봐서 결과가 어떻게 된지 몰랐지 이번에도 이겼으면 좋겠다
+P1 	: 바보들이야
+P1 	: 져서 대한해협 수영해서 와야해
+P0 	: 200KM 헤엄치다 물에 빠질 듯 방금 뭐였지
+P1 	: 나 아직.귀가중 ㅠㅠ 못봣어
+P0 	: 아까 미국 타자가 공을 쳤는데 빗맞아서 헬멧 때리고 갔어
+P1 	: 으잌ㅋㅋㅋㅋㅋㅋ
+P0 	: 해설 신났더라 안타까워하면서 깠어
+P1 	: 파울공은 어디로 튈지 모르지
+P1 	: ㅋㅋㅋㅋㅋㅋ 어디중계 봐?
+P0 	: 네이버티비에서 Mbc보고 있어
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 야구는 원래
+P1 	: 까면서 보는 맛이지!!
+P0 	: 왠지 안 보는게 나을 것 같아
+P0 	: 투수 잘 뽑지 좀 아쉽네
+P1 	: 야구 안보는 친구가 그렇게 느낀거면
+P1 	: 넌 천재다
+P0 	: 미국이 7점이야
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210805
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 너무 압도적으로 발리고 있네
+P1 	: 난 그래서 안보던 슬의생으로 채널돌림
+P0 	: 애네들 이번에 매달 못 따면 군대야?? 1점 더 가져왔네
+P1 	: 웅 메달 못따묜 군대가야해 미필들
+P0 	: 아직 안 갔다왔구나 아 그거 봤어?
+P1 	: 다 안간건 아니고
+P1 	: 간애들 안간애들 섞여잇음
+P0 	: 핸드볼 선수 군에서 치료받다 다리 괴사됐대
+P0 	: 열심히 해야겠네 요즘 군사고 많던데
+P0 	: 그래서 투수들이 그렇게 긴장하는것처럼 보인건가
+P1 	: 음 그건 아닐거야
+P1 	: 오늘 투수들중에 군필아조씨들도 많음
+P1 	: 프로면 마인드컨트롤도 본인 능력들이겟지
+P0 	: 그런가 컨디션 안 좋아보이는 분도 있어서
+P0 	: 댓글에 군대얘기가 많길래 오늘 나온 투수들 중에 미필이 많은가보다 했지
+P0 	: {share:photo}
+P0 	: 소나기 소식 있다 우산 잘 챙겨
+P1 	: 잠들었는데 깨버렷다!!
+P1 	: 깬김에 해야겠지?
+P0 	: 당연하지
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210806
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 금메달은 안 노렸는데 은메달도 노리지 않았나봐 동메달은 따겠지?
+P1 	: 야구보는 사람으로서
+P1 	: 걍 다 지고 군대가버렸음 좋겟다
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 어 너두? 나두.  올림픽은 너무 어이없이 졌어.
+P1 	: 엉 연봉이 얼만데 경기를 저렇게해 으으으ㅡㅇ
+P0 	: 근데 감독도 별로야? 감독 욕도 많던데
+P1 	: 븅신임
+P0 	: 짠이 진짜 열받았나보네 야구는 이제 볼 필요없겠다
+P0 	: 도미니카랑 붙든가 말든가 동메달은 아니지.
+P1 	: 아니야 도미니카 응원해야해
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 그짤 모르나보구나
+P1 	: {share:photo}
+P0 	: 공감된다. 축구, 야구는 거의 모든 사람이 즐겨보는 종목이기도 하잖아
+P0 	: 주종목이니까 좀 잘하면 좋겠는데
+P1 	: 태권도가 떨어져도 이보다도 빡치진 않겟어
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 나는 어쩌자고 야구를 보기 시작했을까
+P1 	: 어휴
+P0 	: 태권도는 못 해도 괜찮아 응원해줄 수 있어
+P0 	: 하지만 저건 아니야 정말 아니야 비난 좀 받아야돼
+P1 	: 222222
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210806
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 오늘은 뭐 하지 찾아봐야겠다
+P0 	: 오늘은 볼게 없네
+P0 	: 오늘은 뭐할거야?
+P1 	: 야호 확진자 발생~^^
+P1 	: 근데 전화받았는데 너무 명랑하네 이분 ㅋㅋㅋㅋㅋㅋ
+P0 	: 헉 거기도 상황이 안 좋구나
+P1 	: 근데 뭐 여긴 맨날 밀접들 뽱뽱 터져서
+P0 	: 하긴 장소 가리지 않으니까
+P1 	: 협력들두 많아서 확진자 종종 나와갖고
+P1 	: 이제 그러려니함
+P0 	: 백신 다 접종했어도 여전히 위험한가 보네
+P1 	: 백신 맞는다고 안옮지는 않지
+P1 	: 경미하게 넘어가는거고
+P1 	: 전파력은 잇으니 조심해야하는거고
+P1 	: 너도 슬의생 보니?
+P1 	: 나 어제 첨 봤는데
+P1 	: 물론 다 본건 아니지만
+P1 	: 덕질 포인트가 그 짧은 시간에 나오더라고
+P0 	: 한번도 본적이 없는데 인기가 많더라고
+P1 	: 엉 나도 병원배경드라마 안보는데
+P1 	: 어제 야구보다 빡쳐서 틀엇더니
+P1 	: 오우 달달햐
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 믿고 보는 배우님도 나온다며. 나도 야구 마저보지 말고 드라마 정주행할걸 그랬어
+P1 	: 그러고 캠핑가고싶어졌지 모야
+P1 	: 거기서 조정석이 캠핑가더라구
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210806
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 아 캠핑
+P0 	: 그거 머지 불보면서 멍 때리는거였나? 그거 많이 한다며?
+P1 	: 불멍
+P0 	: 맞아 그거 해봤어?
+P0 	: 난 캠핑 안 가봐서 어떤지 모르겠다
+P1 	: 나더 안가봄
+P1 	: 그치만.불멍은 해봣지
+P1 	: 바베큐장가면
+P1 	: 숯불 보고 그래본적 없어?
+P0 	: 응 먹느라
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 먹고 난 다음에는 방에 들어가서 베개 싸움했어
+P1 	: 불피울때 불멍~~~~~
+P0 	: 불 피워본적이 없다. 피서가면 밤하늘 보면서 별자리 찾았는데
+P1 	: 낭만잇네 ㅋㅋㅋㅋ
+P1 	: 아니면 가스렌지 불에서도 가능
+P0 	: 그러네
+P0 	: 여름이라서 멍때리기 좋은 조건이야
+P1 	: 물멍도
+P0 	: 아 물멍은 해봤어 폭포보면서
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210807
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 오늘 볼거 있었네 배구 있다!
+P1 	: 몇시이
+P1 	: 니
+P0 	: 9시 준결승
+P1 	: 저냑이구나
+P0 	: 응 딱 좋은 시간대에 하는것 같아
+P1 	: 오늘 저녁이면 펜타스는 재방 봐야겟다 ㅋㅋ
+P0 	: 오 너도 펜트하우스 봐? 보는 사람이 많네
+P0 	: 뭔가 잔인할거 같아서 아직 안 보고 있었거든
+P1 	: 사실 시즌 2에서 쥐쥐침
+P0 	: 시즌1까지는 봐도되는구나 보긴 봐야할 텐데
+P1 	: 어마어마하단걸 느끼게 될꺼야 ㅋㅋㅋㅋ
+P0 	: 심장 놀라지 않게 조심해야겠네
+P0 	: 또 뭐가 재밌어?
+P1 	: 음 심장놀랄일은 없구
+P1 	: 요새 웰메이드는 잘 모르겟아
+P0 	: 방금 옵챗 들렀다가 토스 돈쏘기 했거든
+P0 	: 내 전번 알려달라해서 해주긴 했는데 괜찮겠지?
+P1 	: 그거야 모르지...
+P1 	: 나는 불특정다수하고는 번호 공유 안해서...
+P0 	: 이상한 사람이야 번호 없어도 되던데 굳이 친구등록까지
+P1 	: 괜찮을거란 판단하에 너가 준거 아님?
+P0 	: 뭐 딱히 번호 가지고 뭐 해놓은게 없어서 알려줬어
+P0 	: 근데 이해 못 할 일이라서.
+P1 	: 웅 아무일 없으면 다행이고 바라는거고
+P0 	: 그거 뭐였지 토스 만보기 친구 구하는 옵챗방 있잖아 거기 다녀왔어
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210806
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 웹툰 봐?
+P1 	: 안봐 한번보면 정주행해야하는데
+P1 	: 그 매주 기다리는걸 못해서
+P1 	: 일단 몰아보는 편이야 ㅋㅋ
+P0 	: 나도 완결나면 몰아보는 편이야
+P0 	: 어떤거 재미있게 봤어?
+P1 	: {share:info}
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 무슨 내용이야? 뭔가 엄청 무게감 있는데?
+P1 	: 19금이 잔인해서 붙은거긴한데
+P1 	: 스릴러이구
+P1 	: 형사가 좀 쉬려고 고향에 내려갓는데
+P1 	: 그 섬에서 납치 실종 살인 뭐 이런거 일어나는걸 파헤치는거
+P1 	: 저 작가 작품들 괜찮은거 많더라
+P0 	: 제목이랑 관련이 많이 되어있어?
+P1 	: 너무 오래되서 잘 기억은 안나는데 ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 거의 십년됐을걸 저 웹툰
+P0 	: 뭔가 강풀 느낌이야ㅑ?
+P1 	: 아니 결이 달라
+P1 	: 강풀도 좋아하긴해
+P1 	: 저거 영화화된대서 개기대햇엇는데
+P1 	: 소식이 없는듯??
+P0 	: 만들고 있긴 한거겠지?
+P1 	: 글쎄다 ㅋㅋㅋㅋㅋ
+P0 	: 뭐야 이거 실화기반은 아니지? 진짜 비슷하네
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210807
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 너 빨리와 ㅋㅋㅋㅋㅋ
+P1 	: 머하늨거야 ㅋㅋㅋㅋㅋㅋ
+P0 	: 아 가야지
+P1 	: 커몬요
+P0 	: 뭐해?
+P1 	: 잠들었아 ㅜㅠ
+P1 	: 나란 의지박약년 ㅠㅠ
+P0 	: 괜찮아 나도 일찍 잤어
+P0 	: 3명이서 하는게 재밌더라 끊기지도 않고
+P1 	: 웅 나더 셋이 좋아 ㅋㅋㅋㅋ
+P1 	: 생성 속도도 정리하는 속도도
+P1 	: 근데 상위권 또 없던 사람 나타난건가
+P0 	: 대단하다 진짜 어휴 징글징글해
+P0 	: 저녁 먹었어?
+P0 	: 야구 노메달 와 너무 웃겨서 말이 안 나온다
+P1 	: 나 엄마 생일이라 가족모임중!
+P1 	: 동메달딸까봐 조마조마 했네
+P1 	: 쌤통이다
+P0 	: 응 이제 군대가시는 분은 빠이!
+P0 	: 비가 한차례 와서 그런가 날씨 엄청 서늘하네
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210810
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 도쿄올림픽 우리나라 육상 선수 메달은 못 따서 휴가 받았다더라 군복무중인데 대회까지 참가하고  더 많은 시간과 노력이 들어갔을것 같아. 이번이 육상종목 신기록이었다던데 휴가가 최선이라니...
+P1 	: 노메달이니 해줄수 있는 선에서 한것 아닐까
+P1 	: 군에서 저리 처리한것도 잘해준거 같은데
+P0 	: 휴가면 길게 주려나. 군복무중에도 올림픽 참가가 가능한지는 이번에 알았네 보니까 꽤 많더라 이번해가 실력 좋은 선수들이 많이 군복무 하고 있었나봐
+P1 	: 그래서 메달따면 바로 전역임
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ 역시 군대는 갈곳이 못 되나봐 요즘 군사고 뉴스에 자주 나와서 좀 그렇던데 이런거 보고 웃게 되네
+P1 	: 폐쇄집단은 위험하지
+P0 	: 한국 도핑적발기술이 현재 세계최고래. 이번에 일본 연구소랑도 협력한다고 하더라 아 그리고 뇌에 전기 자극을 가해 일시적으로 신체능력을 향상시키는것도 도핑 방법 중에 하나고 이런것도 잡아낸다더라 찾아볼려고 하지 않아서 한국에도 도핑컨트롤센터가 있는지 지금 알았네 ㅋㅋㅋ 나 모르는게 너무 많은것 같아
+P0 	: 하늘이 이상해 아까는 난리더만 이제는 조용하네 뭐 할려고 하면 비오고 천둥치고 이상하게 흐릿흐릿해지고 잠 좀 자고 일어나면 개어있고 . 진짜 이상해 요즘날씨 너무 변덕스러워
+P0 	: 요즘 쬐끔 무서운게 어제 집에서 5분거리 식당에 단체확진자 떠서 긴장했어.
+P1 	: 나는 업무가 이런거다보니까
+P1 	: 별로 신경 안쓰임
+P1 	: 걸리면 걸리나보다 싶고
+P1 	: 남한테 옮기는게 민폐라 그게 싫은거지
+P0 	: 신경 써야돼 나도 집에서 거의 공부하고 일하니까 신경 안 썼는데 이제는 더 조심해야지 싶어
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210810
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 난 동선이 거의 집회사야..
+P1 	: 사람을 안만나..
+P1 	: 외식좀 하고싶다
+P1 	: 사람 만나고싶은데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 만나봣자 맨투맨이라
+P0 	: 우리집은 자가격리할만한 방도 마땅치가 않거든 ㅋㅋㅋㅋㅋㅋ 걸리면 안 돼. 개고생할 것 같아
+P0 	: 나도 요즘 청바지는 고사하고 츄리닝만 사는 중
+P1 	: 시설 보내달라고 하면 됨
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 지자체에서 운영하는데에서 격리 가능함
+P1 	: 일단 난 1인가구라..
+P1 	: 격리당하고싶음
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 오피셜하게 회사 출퇴근 안하고 싶다
+P0 	: 격리당하면 무급 아니야?
+P1 	: 돈주지
+P1 	: 그리구 국가에서도 보조금 나와
+P1 	: 백몇십 나오든데
+P1 	: 그래서 다들 격리되고싶어해
+P0 	: 회사가도 이상한 시선으로 안 봐? 전에는 격리되었다 음성판정받고 회사로 돌아간 회사원한테 사직 권하고 그랬다던데
+P1 	: 여기저기 터져나오니깐
+P1 	: 나만 그런게 아니라
+P1 	: 회사에선 뭐든 첫번째만 아니면 괜찮아
+P0 	: 그렇구나 이쯤되니까 사회가 정상적으로 돌아가기는 어려울 것 같다는 생각이 든다
+P1 	: 이게 뉴노멀이지
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210810
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: 영화관 안 가본지 2년이 넘어가네. 이럴 줄 알면 그때 약속 취소하지말걸 그랬어
+P0 	: 그렇지 처음에는 집밖에 나가기 꺼려져서 배달 이용했는데 이제는 배달이 일상이 되가고 있어. 밖에 나가서 장보는게 엄청 귀찮고 번거로운 일이 됐어
+P1 	: 아 맞네 배달민족이엇지 너 ㅋㅋㅋㅋㅋㅋ
+P0 	: 그래도 오늘은 밖에 나가서 잔뜩 쟁이고 왔어
+P0 	: 오랜만에 상쾌한 공기를 마시니까 좋긴한데 비 왔었다고 날씨 엄청 서늘해서 반팔입기는 춥더라
+P0 	: 날씨 좋타~ 이런 날은 놀아야되는데!
+P1 	: 놀아 ㄱㄱ
+P0 	: 오늘은 뭐하고 놀면 알차게 놀았다고 자랑할 수 있을까
+P1 	: 나도 오후 반차인데
+P1 	: 뭐하고 놀아야 하나 싶긔
+P0 	: 보석십자수 할까 그거 시간도 잘 가고 목도 아파
+P1 	: 목 아프면 하지맠ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 딱히 뭐 하고 놀지 모르겠어 영어문제나 풀까
+P1 	: 그게 노는거야..?
+P0 	: 나름? 토익 문제 그런거 푸는거 아니라 그냥 단어 맞추기니까
+P1 	: 대단해...
+P0 	: 막상 놀려고 하면 드라마나 영화, 웹툰 정주행 같은거만 생각나
+P1 	: 하면 안도9..? ㅋㅋㅋㅋㅋㅋ
+P0 	: 초성게임 업데이트 됐네 1시 이후에는 이거 해야겠다. 그리고 이후에 뭐 하고 놀지도 찾아보고
+P1 	: 그래서 뭐하고 놀지 결정함?
+P0 	: 스트링아트! 그거 하기로 했어
+P1 	: 그게모야?

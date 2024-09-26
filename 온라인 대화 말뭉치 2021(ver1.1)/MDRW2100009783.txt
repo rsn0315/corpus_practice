@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100009783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 어디쪽 사세요?
+P0 	: 전서울이요 &name2&님은?
+P0 	: 지하철근무시면 서울?
+P1 	: 어 같은 지역이네요ㅎㅎ
+P1 	: 그럼 남쪽 여행 가고 싶으시겠어요
+P0 	: 요즘은 어디든 떠나고싶어요ㅎ
+P0 	: 울릉도 말고 어디가보셨어요?
+P1 	: 맞아요 일상이 소중했네요
+P1 	: 최근에는 고성하고
+P1 	: 인천 오크우드
+P1 	: 다녀왔어요 ㅎㅎ
+P0 	: 인천 오크우드는 어디예요?
+P0 	: 첨들어보는데
+P1 	: 송도에 있는건데
+P1 	: 데스크가 36층입니다ㅋㅋ
+P0 	: 아 롯데타워 전망대 머 그런건가요?ㅎ
+P1 	: 음 호텔인데 시작이 36층인거에요~~
+P0 	: 아 호텔이군요 좋고비싸겠어요
+P1 	: ㅋㅋ회사 휴양소 응모했는데 당첨되서요!!!!
+P0 	: 오 좋은회사네요ㅎ 그런 호텔도 해주고
+P0 	: 가보니 어떤가요? 전망은좋을듯
+P1 	: 전망 좋고 취사가능이요 ㅎㅎ
+P0 	: 오 호텔인데 취사가 돼요?
+P1 	: 네 좋더라고요 ㅎㅎ

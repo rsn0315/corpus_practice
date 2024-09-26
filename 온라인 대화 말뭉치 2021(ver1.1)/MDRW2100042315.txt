@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100042315
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는하셨나요
+P1 	: 아 네네! 저는 식사했습니다! &name1&님은 식사하셨나요?
+P0 	: 저도요~뭐드셨어요
+P1 	: 저는 오늘 오징어숙회랑 김이랑 먹었어요~! &name1&님은 뭘 드셨나요??!
+P0 	: 저는 단호박이랑 사과먹었어요!
+P0 	: 오 반주도하셨나요
+P1 	: 앗 아뇨~~ 저는 술은 잘 안해서 반주는 안했어요ㅎ 그나저나 저녁으로 단호박이랑 사과만 드셔도 괜찮은건가요ㅜ
+P0 	: ㅎㅎㅎ고구마도먹고과자도먹었어요!
+P0 	: 디저트도좋아하세요?
+P1 	: 네네! 저 디저트 좋아해요!  &name1&님도 디저트 좋아하세요?
+P0 	: 좋아해요~빵좋아해요
+P1 	: 어떤 빵 좋아하세요? 저도 빵 정말 좋아해요!!
+P0 	: ㅎㅎ저는크림빵이요!
+P0 	: 어떤거좋아하세요
+P1 	: 저는 스콘도 좋아하고 초코식빵도 엄청 좋아해요!! !
+P0 	: 꺅저도둘다좋아해요
+P0 	: 스콘에클로티드크림발라먹고싶네요

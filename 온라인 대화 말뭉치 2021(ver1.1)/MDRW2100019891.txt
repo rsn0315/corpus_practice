@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100019891
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 정혜씨 하이~
+P1 	: 하이, 꼼지락
+P0 	: 대구 날씨 요즘 어땠어요 수원은 계속 비가 와서 아우 시러시러
+P1 	: 대구도 계속 비가 내려서 괴로워
+P0 	: 늦은 장만가?
+P0 	: 태풍 지나간다는 소린 못 들었는데 비가 계속이네
+P1 	: 몰라. 근데 태풍이 지나갔대.
+P1 	: 태풍 이름이 뭐래?
+P0 	: 잘 모르겠는데~ 이렇게 비 올 때 구연산 한 스푼 넣고 세탁기 돌리니까 냄새 안 나고 좋던데~
+P1 	: 그래? 나도 해봐야지
+P0 	: ㅇㅇ 그래도 안 되면 락스 넣고 한 번 세탁기 돌려주면, 비올 때 빨래에서 나는 냄새 싹 가셔요
+P1 	: 락스가 섬유의 질을 떨어지게 하는 건 아닌지?
+P0 	: 그냥 세탁물 없이 돌려주는 거~ 세탁조 청소
+P1 	: 아, 진작 그렇게 말했어야지.
+	  고마워
+P0 	: 비올 때 신발은 요즘 뭐 신으시고?
+P1 	: 샌들.신는데.비가.들이쳐.별로야.비올땐나가기가참그래

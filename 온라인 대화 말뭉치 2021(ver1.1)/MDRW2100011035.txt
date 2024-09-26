@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011035
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑하는거 좋아하세요?
+P0 	: 쇼핑 엄청좋아해요ㅎㅎ
+P1 	: 최근에 어떤거 구매하셨나요?
+P0 	: 신발 쇼핑 좋아합니다!
+P1 	: 오 신발 어디브랜드꺼 좋아하세요?!
+P0 	: 저는 나이키 좋아해요!!
+P1 	: 나이키는 로고가 참 예뻐요ㅎㅎ
+P1 	: 운동화주로 구매하시나봐요
+P0 	: 네네 신발을 좋아해서요
+P1 	: 나이키는 한정판 같은것도 있던데 한정판도 모으시나요?
+P0 	: 오 네네 모으는 중이에요!
+P1 	: 오 좋네요ㅎㅎ 신발은 겹치는 경우가 많은데 한정판은 그럴 확률이 적으니 희소성있겠어요
+P0 	: 요즘 주식마냥 막 가격이 오르더라구요

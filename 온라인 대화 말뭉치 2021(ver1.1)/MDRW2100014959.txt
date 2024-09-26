@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100014959
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영화자주보세요?
+P0 	: 어쩌다 가끔 보는 편이에요
+P0 	: &name2&님은요?
+P1 	: 저는 다운받아서 봐요ㅎ
+P1 	: 코로나라 밖에나갈수없으니ㅎㅎ
+P0 	: 최근에는 뭐 보셨어요?
+P1 	: 영화는 마블영화였는데 제목은 기억이안나네요ㅎㅎ
+P1 	: 스칼렛 요한슨나오는거요ㅎㅎ
+P0 	: 아 제목이 기억 안 나네요 ㅎㅎ
+P0 	: 저는 미나리 봤어요
+P1 	: 미나리 재밌나요?
+P0 	: 전 좋았어요.
+P0 	: 감독 가족의 자전적 이야기라고 하더라구요
+P1 	: ㅎㅎ 저도 한번 챙겨보겟습니다ㅎㅎ
+P1 	: 다들 재밌다고하니깐ㅎㅎ
+P1 	: 극장 영화 관람하고싶네요ㅠ
+P0 	: 코로나 때문에 영화 시장 많이 죽은 것 같더라구요 ㅠ
+P1 	: 맞아요ㅎㅍ 요즘 영화관도 힘들거애요ㅎ
+P1 	: 그립네요ㅠㅠ 마스크 없이 영화보던 시절이 ㅠ
+P0 	: 영화 개봉도 자꾸 미뤄지는 것 같고..
+P1 	: 영화배우들도 힘들겠어요
+P1 	: 이러다 영화 안나오는거 아닌가몰라요 ㅠ
+P0 	: 다들 어려운 시기네요ㅠ
+	  제작 자체가 무산되는 경우도 많겠죠

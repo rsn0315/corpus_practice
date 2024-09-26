@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100010134
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어디를 제일 좋아하나요
+P0 	: 일본여행을 좋아해서 일년에 네번씩은 갔었답니다
+P0 	: &name2&님은 어디를 가보셨나요?
+P1 	: 저도 일본 좋아합니다
+P1 	: 대만, 일본, 유럽에 가봤습니다
+P0 	: 유럽에서 가장 기억에 남는 곳은 어디야?
+P1 	: 피렌체다
+P1 	: 음식이 맛있다
+P0 	: 나는 니가 사다준 홍차 기념품을 아주 소중히 하고 있어.
+P0 	: 여행이 가능해지면 어디를 먼저 가고싶니?
+P1 	: 홍차기념품이 모.죠
+P1 	: 홍차인가요
+P1 	: 곰팡이 낫겠다
+P1 	: 그냥 가까운 일본에 가고싶다
+P1 	: 너는 어떠니
+P0 	: 나도 일본가고싶어
+P0 	: 교토를 너무너무 가고싶어
+P0 	: 같이 갈래?
+P0 	: 언젠가..언젠가...
+P1 	: 절연하지 않을 수 있을까?
+P1 	: 재미는 있겠다
+P0 	: 내가 잘할게
+P0 	: 교토 너무 좋다 아라시야마 다시 가고 싶다
+P0 	: 란덴 타고싶다
+P1 	: 난 이치란 먹고싶다
+P0 	: 이치란 맛있었어 생각보다
+P1 	: 난 매일 먹을 수 있어

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100000634
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 재택근무 좋겠어
+P1 	: 주부인경우는 힘들어
+P0 	: 왜 괜찮을거 같은데
+P1 	: 일에다가 가사일까지 해야하니
+P0 	: 그렇겠다 주부는 힘드네
+P1 	: 응 힘들어도 해야지
+P0 	: 집에서 일하니 안전은 하겠다
+P1 	: 보안에 신경써야겠지
+P0 	: 전용노트북이런거 돌아가면서 사용하던데
+P1 	: 응 아님 개인꺼 쓰기도 하더라
+P0 	: 개인용 없으면 좀 그렇겠다
+P1 	: 응 요즘 폰으로 다 하니까 컴퓨터 엾는집도 있어
+P0 	: 재택근무면 단축근로인가?
+P1 	: 정해진 근무시간 다 하겠지
+P0 	: 업무능률은 좋을지 모르겠네?
+P1 	: 상황이 이러니 재택근무가 많아지겠지

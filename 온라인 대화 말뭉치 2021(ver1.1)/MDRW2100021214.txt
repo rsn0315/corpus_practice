@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100021214
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 조미료는 어떤걸 쓰세요?
+P0 	: 미원? 연두?
+P1 	: 참치액 자주써요.
+P0 	: 아 전 보기만 하고 안사봤어요 어느 브랜드걸 쓰시나요?
+P1 	: 다시다도살짝 써요
+P1 	: 한라 참치액 써요
+P0 	: 모르는 브랜드네요 메모해둘께요 동네 마트엔 화미 참치액이 있었어요
+P1 	: 인터넷에서도 팔아요
+P0 	: ㅠ 인터넷은 배송비가 들어서 여러가지 살때 한꺼번에 사려구요
+P1 	: 그렇죠. 재료 준비하는것보다 때론 배달하는게 저렴하기도 한것 같아요
+P0 	: 네 그걸 비교하는게 되게  품이 들어요
+P1 	: 그렇긴 하죠
+P0 	: 네 그렇더라구요
+P1 	: 저녁은 뭐드시나요?
+P0 	: 전 그냥 있는 반찬에 김먹으려구요 ㅋㅋ &name2&님은요?
+P1 	: 아직 못정했어요.
+P1 	: 남이 해준밥 시켜먹고 싶네요
+P0 	: 그게 최고죠 넘 힘드시면 편의점 밥이라도 드시는건 어떠세요?
+P1 	: 편의점 도시락도 가끔 먹으면 맛있죠
+P0 	: 그 가끔찬스를 지금 써보시는 것도 ㅋㅋ
+P1 	: 주택가라 동네 편의점에 도시락이 많지 않아요.
+P0 	: 아이구 편의점 가는게 일이겠네요
+P1 	: 간단하게 먹을 삼각김밥사러가요
+P0 	: 삼김도 맛있죠 맛저하세요
+P1 	: 넹저녁 시간이 다가오네요

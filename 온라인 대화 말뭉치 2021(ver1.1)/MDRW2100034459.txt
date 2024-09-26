@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 어떤 계절을 좋아하세요?
+P1 	: 안녕하세요
+P1 	: 저는 가을을 제일 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도 가을을 가장 좋아해요, 선선해서요ㅎㅎ
+P1 	: 그쵸 하늘도 푸르고 맑고
+P1 	: 장마기간이 얼른 지나가면 좋겠어요
+P0 	: 맞아요ㅠ 오늘은 아직은 비가 안 오는데 또 모르겠네요ㅠ
+P1 	: 또 갑자기 올수도 있고ㅜㅜ
+P1 	: 비가안오니까 또 미세먼지가 올라가네요..
+P0 	: 푸른 하늘을 본 지 오래됐어요ㅠㅜ
+P1 	: 그러게요ㅜㅜ
+P1 	: 탁트인 하늘이 그립네요
+P0 	: 매미 소리만 안 그립고 나머지가 모두 그리워요...
+P1 	: ㅋㅋㅋㅋ매미가 시끄럽긴해요
+P0 	: 아침에 매미 때문에 깼어요 ㅋㅋㅋ
+P1 	: 앜ㅋㅋㅋㅋ그래서
+P1 	: 모기보단 낫다고 생각해요..
+P0 	: 모기...아직 모기장 못 걷었어요ㅠ

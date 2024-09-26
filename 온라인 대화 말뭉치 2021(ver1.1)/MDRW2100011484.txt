@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100011484
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 여행좋아하세요?
+P1 	: 예전엔 썩 좋아하지 않았는데 최근엔 좋아하게 됐어요
+P1 	: &name1&님은요?
+P0 	: 저는 엄청좋아해요ㅠ
+P0 	: 많이는못가봤지만
+P1 	: 와, 혹시 제일 기억에 남는 여행지 있으세요?
+P0 	: 해외는 많이못가봤어요ㅠ
+P0 	: 국내는 강릉이 좋더라구요
+P1 	: 강릉 좋죠~
+P1 	: 강릉은 아주 어릴 때 가족여행으로 딱 한 번 가본 기억이 있는데, 지금은 그때랑 많이 바뀌었을라나 모르겠네요ㅎㅎ
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 요즘은 사람진짜많대요
+P1 	: ㅋㅋ이렇게 얘기하니까 강릉 꼭 다시 한 번 가보고 싶어지네요
+P0 	: 먹을것도
+P0 	: 많아요
+P1 	: 그거 좋네요, 먹는 것도 중요하죠ㅎㅎ
+	  추천할만한 메뉴 있어요?
+P0 	: 음
+P0 	: 강릉은 사실
+P0 	: 초당순두부가 젤 떠오르긴해요ㅋㅋㅋ
+P0 	: 꼬막볶음밥이랑요 엄지네
+P1 	: 꼬막 볶음밥은 진짜 꼭 먹어보고 싶네요ㅋㅋ
+P0 	: ㅋㅋㅋ저 먹어봤어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013844
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 동호회 활동 하세요?
+P1 	: 아니요 &name1&은요?
+P0 	: 저도 한 번도 안 해봤어요
+P1 	: 저는 배구 동호회 들어가고 싶어요
+P0 	: 사내 동호회 같은 건가요?
+P1 	: 아니요 지역 동호회요
+P0 	: 근처에 배구 동호회가 있으신가보네요
+P0 	: 지금 바로 들어갈 수는 없는 상황인가요?
+P1 	: 없어요..
+P0 	: ㅎㅎ 그냥 배구에 관심이 생기신 거군요
+P1 	: 올림픽때문에 관심이 생겼어요!
+P0 	: 동호회 활동 하려면 보통 어디서 알고 모일까요?
+P1 	: 보통 온라인에서 알더라고요
+P0 	: 카페나 요즘은 앱 같은 것도 있겠죠?

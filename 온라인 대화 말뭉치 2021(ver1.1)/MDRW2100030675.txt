@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100030675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기능원 및 관련 기능 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 스위스
+P1 	: 이탈리아
+P1 	: 중국
+P0 	: 좋네
+P0 	: 중국어디?
+P1 	: 광저우
+P0 	: 얼마나?
+P1 	: 한 일년반?
+P1 	: 너는 어디갔어?
+P0 	: 나는 강릉
+P1 	: 강릉 좋지
+P1 	: 언제?
+P0 	: 3년전?
+P1 	: 되게 오래됫네
+P0 	: 코로나에 어딜 놀러가니
+P1 	: 여름에갔어?
+P0 	: 여름에 좋더라고
+P1 	: 오 숙소는 어디
+P0 	: 친구네 집
+P1 	: 응
+P0 	: 한국에서 어디가 좋니?
+P0 	: 여행지

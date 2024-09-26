@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006479
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 마스크 쓰는건 안힘드시나요
+P1 	: 엄청 힘드네요ㅠㅠ
+P0 	: 어떤게 힘드시나요
+P1 	: 아무래도 습기가ㅠㅠ
+P0 	: 그렇죠 피부트러블은요?
+P1 	: 트러블도 문제죠
+P1 	: 이게 다 마스크 문베죠ㅠㅠ
+P1 	: 문제죠ㅠㅠ
+P0 	: 마스크 쓴 이후 피부질환도 많아졌다더라구요
+P1 	: 맞아요 아무래도 마스크쓸리고 피부 습해지고 하니까요
+P0 	: 여름/겨울 언제가 더 힘드신가요
+P1 	: 저는 여름이요
+P1 	: &name1&님은요?
+P0 	: 저는 안경을 써서 겨울이 더 불편하더라구요
+P1 	: 오 그렇군요
+P0 	: 마스크 벗는 날이 올련지요ㅡ..

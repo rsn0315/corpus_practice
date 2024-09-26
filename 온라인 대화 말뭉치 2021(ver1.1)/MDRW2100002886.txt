@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100002886
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네 안녕하세요 ㅎㅎ
+P0 	: 중고거래 많이 하시나요?
+P1 	: 자주 안하는데 요새 폭풍으로 몰아서 팔았어요
+P1 	: 한참 바빴어요
+P0 	: 보통 어디를 이용하시나요?중고나라나 당근?
+P1 	: 둘다요
+P1 	: 물품따라 팔리는게 다른거 같아요
+P0 	: 저는 중고나라는 이용많이하는데 당근은 아직 안해봤어요~
+P1 	: 당슨은 좀 봐야해서 그래요
+P1 	: 근데 또 택배 안보내니 편해요
+P0 	: 저는 택배 보내기가 되게 편한 상황이라 중고나라가 편해요! 집에서 계약 택배 매일 보내고 있어서 ..
+P1 	: 저희는 편의점 택배가 안돼요 ㅜㅜ
+P1 	: 아 계약택배요
+P1 	: 그럼 중고나라가 편하죠
+P0 	: 네 이천오백원에 보내고 있으니.. 중고거래 할거 있으면 끼워서 보내면 되용
+P1 	: 당근은 얼굴보고 지역이라 좀 신경여요
+P0 	: 네 돌아다니기가 좀 그럴거 같아요~
+P0 	: 그래두 장점도 있으니
+P1 	: 오라고하면 오셔서  괜찮았어요
+P0 	: 주로 판매를 많이 하시나요 구매를 많이 하시나요/
+P1 	: 전 구매는 세제품 하고요 팔기만 중고요
+P0 	: 아하
+P0 	: 전자제품같은건 진짜 중고품 구매하면 안될거 같더라구요
+P1 	: 그럼요 새것도 망가지는데
+P1 	: 절대 안돼요
+P1 	: 반품도 안되고

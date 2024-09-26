@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 운동 좋아하시나요
+P1 	: 앗 수영 좋아해요ㅎㅎ운동좋아하세요?
+P0 	: 홈트 시작해보려구요
+P1 	: 유튜브로 홈트하시려고요?
+P0 	: 오 네네 맞아요
+P1 	: 혹시 생각해두신 홈트 영상있으세요?
+P0 	: 음 일단 철봉운동 해야되는데
+P1 	: 아앗 철봉운동ㅋㅋㅋㅋ제가 생각한 홈트랑 좀 달랐네요
+P0 	: 추천영상 있나요?
+P1 	: 앗 저는 약간 홈트초보에 여자분이신줄알고ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 초보입니다ㅎㅎ
+P1 	: 아앗 그래서 그냥 땅끄부부나 요가같은거말씀드릴려고ㅜ

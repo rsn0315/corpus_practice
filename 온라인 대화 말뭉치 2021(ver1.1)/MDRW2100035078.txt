@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 내일 스타벅스 갈까
+P1 	: 스타벅스 음료 뭐 좋아하는데
+P0 	: 스타벅스에 신메뉴가 나왔던데
+P0 	: 스타벅스 음료는 신메뉴가 좋아
+P1 	: 이번 신메뉴는 뭐야
+P0 	: 흑임자 맛 음료야
+P1 	: 흑임자 만 음료가 요즘 유행이네
+P0 	: 맞아 강릉이 원조지
+P1 	: 강릉에서 마셔본 적도 있어
+P0 	: 강릉은 순두부도 유명하던데
+P1 	: 맞아 강원도 가면 두부 많이 먹지
+P0 	: 두부 아이스크림도 있다고 들었어
+P1 	: 초당 아이스크림 맛있어 보이긴 하더라
+P0 	: 난 별로 안궁금해

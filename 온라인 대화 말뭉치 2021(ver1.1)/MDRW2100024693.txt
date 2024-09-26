@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100024693
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행자 보험이 얼마였는지는 기억이 안 난다
+P1 	: 막 엄청 비싸지는 않았을거야
+P1 	: 넌 도보여행 안 좋아하니?
+P0 	: 응 많이 걷는게 아까워
+P0 	: 이동시간이나 내 체력이나
+P0 	: 더  중요한 활동할
+P0 	: 에너지가 없는 느낌
+P1 	: 아하 그렇구나
+P1 	: 하긴 여행지 가서 걸어보니까
+P1 	: 시간이 좀 들긴 하더라
+P1 	: 하루가 짧은 느낌이었여
+P1 	: 넌 국내여행 어디 가봤어?
+P0 	: 길거리 구경하면서 걷는게 목적인거랑
+P1 	: 응
+P0 	: 순수하게   이동이 목적인건 느낌이 다르더라
+P1 	: 아 맞아맞아
+P0 	: 국내는 최근에 경기도간게  마지막이야
+P1 	: 경기도 어디서 놀았니
+P0 	: 수원 행궁갔는데
+P0 	: 주변에 기념품샵아니면
+P0 	: 카페더라
+P1 	: 기념품 샀니?
+P0 	: 안샀어 죄다 머리핀아니면 다꾸용 스티커더라
+P1 	: ㅋㅋㅋㅋㅋ쓸데없는 기념품이네...
+P0 	: 카페도 어찌나 비싸던지
+P1 	: 카페도 가봤어?
+P0 	: ㄷ음료한잔에 7~9천원이야

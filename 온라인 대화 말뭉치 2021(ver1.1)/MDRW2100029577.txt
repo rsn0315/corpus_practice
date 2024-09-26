@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100029577
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&네 지역은  날씨가어떤가용
+P1 	: 맑음이에요 미세먼지도 좋아서 좋은 날씨에요
+P1 	: 거긴 어떤가요?
+P0 	: 오^^  여긴 어제까지 비가계속왔는데
+P0 	: 아침에보니 바닥은 물이좀고여있고
+P0 	: 바람이 엄~~청 시원하더라구요 약간 추울만큼
+P1 	: 여긴 흐리고 중간에 비가 살짝 왔어요
+P0 	: ㅎㅎ 이따 또 비소식이있네요..ㅠㅠ
+P0 	: 그래서 흐린가봐요
+P1 	: 역시 가을이라 그런지 아침저녁으로 쌀쌀해요
+P0 	: 그래도 완전 가을이온거같아요
+P0 	: 그쵸그쵸
+P1 	: 가을 옷으로 교체하셨나요?
+P0 	: 아직요 아침에 원피스 입고 등원갔는데
+P0 	: 어제보다 더 쌀쌀해서 깜짝놀랬어용 ㅠㅠ
+P0 	: 날씨보니 어제보다 2도더낮다고..
+P1 	: 비가 계속와서 더 그런 것 같네여
+P1 	: 환절기니까 감기 조심하세요
+P0 	: 네 &name2&도 감기조심하세요^^
+P0 	: 이제 여름옷 슬슬 정리해야겠어요
+P1 	: 맞아요 이제 슬슬 여름 정리하고 가을 맞이해야죠
+P0 	: 가을맞이 할때쯤 겨울오겠죠 ㅋㅋ
+P0 	: 오늘날씨 진짜시원하네용
+P1 	: 여긴 갑자기 초여름 느낌이에요 ㅋㅋ
+P0 	: ㅎㅎㅎ저흰 한낮에도  날씨가딱 좋더라구요
+P0 	: 춥지도 덥지도 않는..
+P0 	: 곧 점점  일교차가 커지겠죠??ㅜㅞ
+P1 	: 좋은 날씨였네요 여긴 움직이면 살짝 더웠어요

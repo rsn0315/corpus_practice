@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 활동하신 동호회나 봉사단체 있으신가요?
+P1 	: 음 지금 참여하는건 없네요
+P0 	: 과거엔 있으셨나요?
+P1 	: 고등학교 때나 대학때?
+P0 	: 아 어떤거 하셨을까요^^
+P1 	: 저소득층 에게 교육봉사 같은거 했었어요
+P1 	: 혹시 동호회하시나요?
+P0 	: 저는 경험이 없어요
+	  교육봉사는 대상이 학생들이었죠?
+P1 	: 네네 그랬어요 ㅎ 해보고싶은건 있으세요?
+P0 	: 음. 예전엔 사진 동호회 하고싶었어요^^
+P1 	: 그것도 좋아보여요 운동 동호회도하고싶더라고요ㅎㅎ
+P0 	: 오 운동동호회도 좋죠^^ 자동차동호회도 있더라구요?
+P1 	: 약간 기체조나 요가같은것도 좋고요

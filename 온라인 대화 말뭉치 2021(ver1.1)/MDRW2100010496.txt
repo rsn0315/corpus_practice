@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010496
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁드셨나요?
+P0 	: 네 저녁 먹었습니다ㅎㅎ!
+P1 	: 어떤거 드셨나요?
+P0 	: 불닭볶음면 먹었어요
+P1 	: 불닭은 진짜 맛있죠..
+P1 	: 불닭시리즈가 많이 나왔는데 거의 다 맛있더라구요
+P0 	: 맞아요 &name2&님은 불닭중에 뭐가 제일 좋으세요?
+P1 	: 한동안은 까르보불닭 진짜 많이 먹었는데 역시 오리지널 불닭이 질리지 않고 계속 먹게 되더라구요
+P1 	: &name1&님은 어떤게 제일 좋으세요?
+P0 	: 좋아하는 건 까르보불닭이지만 맛있는 건 역시 오리지널이 최고인 것 같아요ㅋㅋㅋ
+P1 	: 맞아요 오리지널의 맛을 따라잡을 수는 없는 것 같더라구요
+P0 	: &name2&님은 저녁 뭐드셨나요?!
+P1 	: 저는 순두부찌개 먹었어요 !! 칼칼하니 맛있더라구요ㅎㅎ
+P0 	: 오 순두부찌개 좋죠! 사드신건가욥?
+P1 	: 아뇨 집에서 먹었어요ㅎㅎ 두부 워낙 좋아해서 자주 먹어요

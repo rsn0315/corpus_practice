@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100031565
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 독도 또 먹을 의향이 있습니다 시중에 파는 소주 보다 목넘김이 좋고 순한 것 같아요 도수는 없지만요
+P0 	: 가격을 자세히 못 봤어요 얼마 라고요
+P1 	: 보수는 없지만요
+P1 	: 도수는 높지만요
+P1 	: 3,500원입니다
+P0 	: 저도 먹고 싶네요 제주도에 파는지 모르겠네요
+P1 	: CU 쿠폰 받으시면 적용 하셔서 2,500원에 사 보세요
+P0 	: 병이 고급집니다
+P1 	: 편의점 CU에서 만 파는 걸로 알고 있고요 CU라고 답하는 건 아니에요
+P0 	: 쿠폰은 어디서 봤지요
+P1 	: 쌀로 만들었고 울산에 청정수를 이용해서 만들었다고 하네요
+P0 	: 저도 신상을 좋아합니다
+P1 	: 심심이로 해서 받았습니다
+P0 	: 아 그 쿠폰 말이군요
+P1 	: 맛있어요 병이 고급 지구요
+P0 	: 저는 할인 쿠폰 생각했어요
+P1 	: 기프티콘 1000원짜리 줍니다 그걸 유용하게 사용하겠습니다
+P0 	: 어디 이벤트가 있는 줄 알았지요

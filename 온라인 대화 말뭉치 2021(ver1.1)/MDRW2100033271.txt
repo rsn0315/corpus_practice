@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!! :)
+P0 	: 텀블러 쓰시나요
+P1 	: &name1&님은요? 에공 저는 텀블러는 많이 있는데 귀찮아서 사용을 안 하고 있어요 ㅜㅜ
+P1 	: 요즘 카페에 텀블러 가져가면 할인도 되고 할텐데요 그죠?
+P0 	: 저도 가지고다니질않아서요ㅜ
+P0 	: 요새 종이빨대도 있더라고요
+P1 	: 그러게요 종이빨대 실리콘빨대 메탈 소재도 있더라구요?
+P1 	: 분리수거 할 때 플라스틱 보면 텀블러 사용해야지 하면서 잘 안 되네요 ㅜㅅㅜ
+P0 	: 오 그렇군요
+P0 	: 쉽지않죠..
+P1 	: 친구들 보면 스타벅스에서도 텀블러로 할인 받고 하는 것 같은데 &name1&님은 그런 정보 혹시 아시는거 있으세요?
+P0 	: 으음..ㅠ기억이안나네요
+P0 	: 어디선가 리필한번해줬던거같은데ㅠ
+P1 	: 오옷 리필!! &name1&님과 저도 바로 알만한 이벤트가 있었으면 좋겠어요! 많은 사람들이 더 많이 사용하도록 말이죠 :)
+P0 	: ㅎㅎ맞아요
+P0 	: 요새 택배시키면 종이포장많이오더라고요
+P1 	: 너무 아까워요! 종이에 테이프에... ㅠㅠ
+P1 	: 저번에 어떤 택배는 테이프 없이 바로 뜯을 수 있는 조립식 포장처럼 되어 있더라구요~ 너무 신기했어요!
+P0 	: 아하
+P0 	: 신기하네요

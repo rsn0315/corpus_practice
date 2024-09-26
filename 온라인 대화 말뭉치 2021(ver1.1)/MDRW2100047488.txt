@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100047488
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 맛집좋아하세요?
+P1 	: 네~~ 어디 지역가면 네이버에서 맛집 검색해서 가요
+P1 	: &name1&님은요?
+P0 	: 저도요ㅋㅋㅋㅋ
+P0 	: 맛집은 사랑입니다
+P1 	: 자주가는 맛집 있으세요?
+P0 	: 음 단골은아니고
+P0 	: 저도 나갈곳있으면 주로검색해서찾아가는편이예요ㅋㅋㅋ
+P0 	: 아무데나안드가고
+P1 	: 저랑 같으시네요 ㅎ
+P0 	: ㅋㅋㅋㄱ 그게좋죠
+P1 	: 주말에는 맛집 탐방 해야 겠어요
+P0 	: 오
+P0 	: 어디로가시게요?
+P1 	: 그건 아직 안 정했어요 ㅎ
+P0 	: ㅋㅋㅋ
+P0 	: 종류도요?
+P1 	: 네~맛집이야기 하니까 맛난거 먹고싶어서요
+P0 	: 맛집이
+P0 	: 워낙종류가 다양해서

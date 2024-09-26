@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요?
+P1 	: 아뇨 &name1&은 키우시나요?
+P0 	: 저두 키우진 않아요
+P0 	: 좋아하시는 동물은 없으신건가용?
+P1 	: 저 모든 냥님 멍님 사랑합니다! &name1&은요?
+P0 	: 저두요ㅠ
+P0 	: 그럼 고양이 카페나 강아지 카페같은 곳을 많이 가시나요?
+P1 	: 한 번 가봤어요 ㅠㅠ &name1&은 자주 가시나요?
+P0 	: 저도 자주 가는 편이 아니라서ㅠ
+P0 	: 강아지나 고양이 키우는 친구 집에 놀러가는게 제 삶의 낙입니다
+P1 	: ㅋㅋㅋ맞아요 사심채우고 오기!!
+P0 	: 친구는 그저 징검다리일 뿐이에요!!!
+P0 	: 고양이랑 강아지말구 좋아하시는 동물 있으신가요?
+P1 	: 친구 섭섭...ㅋㅋㅋㅋㅋ 곰도 좋은데 곰은 사람을 찢죠...?
+P0 	: 아앗.......
+P0 	: 안찢는...동물은 사랑하시지 않는건지...
+P1 	: ㅋㅋㅋㅋ팬더!! 미어캣!!! 추가시켜주세요
+P1 	: &name1&은요??
+P0 	: 저는 거의 다 좋아해요!
+P0 	: 친구가 게오파드 개코도마뱀을 키우는데 너무 귀엽더라구요
+P1 	: 헉!! 도마뱀은 좀 무서울거같아요!!
+P0 	: 그쵸 도마뱀하면 떠오르는 이미지도 있고 그런데
+P0 	: 자주 접하고 쪼끄맣고 도마뱀인데 귀엽게 생겨서
+P0 	: 정이 가더라구요ㅎㅎ

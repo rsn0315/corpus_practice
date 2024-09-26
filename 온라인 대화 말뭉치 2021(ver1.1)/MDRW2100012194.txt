@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012194
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커뮤니티 활동 많이하시나요
+P0 	: 저는 녹차카페만. ㅎ
+	  다른 카페 활동하시는 거 있으세요?
+P1 	: 음 지역맘카페 눈팅이요~^^
+P0 	: 아..  님 지역의 지역맘카페도 활성화되어있나요?
+P1 	: 네 맘카페는 어디나 활발하지 싶어요!
+P0 	: 제가 사는 지역의 맘카페는 입김이 드세다고 방송에도 나왔나봐요.
+P1 	: 어머 그렇군요 &name1&도 맘카페 눈팅 하시나요?
+P0 	: 판매글과 질문글만  조금 쓰고 있어요.ㅎ
+P1 	: 아 맞아요 중고거래는 지역카페가 확실히 편하죠!!
+P0 	: 우리 카페에서는 판매 가격 정하기가 쉽지않아 못팔겠더라구요.
+	  다 아는 사람 같아서 그냥 줘야할 것 같은 분위기?
+P1 	: ㅋㅋㅋ맞아요~ 우리 녹차카페는 진짜 따뜻한 분위기예요
+P1 	: &name1&는 녹차카페 하루에 보통 몇시간 하시나요?
+P0 	: 요즘엔 1시간요. 예전엔 종일이었는데..ㅎ

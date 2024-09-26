@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100023137
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 난 요즘 정신건강도 참 중요하다고 생각해
+P0 	: 너도 동의하니?
+P1 	: 완전 중요해 정신건강
+P1 	: 몸도 중요하시만 마음이 제일 중요해
+P0 	: 맞아 나도 그렇게 생각해
+P0 	: 난 요즘 평화롭게 명상하는 습관을 들이려고 노력해
+P0 	: 너도 명상해본 적 있니?
+P1 	: 우와 명상??
+P1 	: 난 명상이 계속 실패하던데
+P0 	: 아이고 왜 그럴까
+P0 	: 혼자 하니, 아니면 다른 사람들이랑 함께 하니?
+P1 	: 명상하면 어때??
+P1 	: 나는 혼자해
+P0 	: 하기 전보다 잡생각이 없어지고 좋아
+P0 	: 나도 혼자 해
+P1 	: 노래틀면서 하니
+P0 	: 응 난 음악 들으면서 해
+P0 	: 너도 명상할때노래듣니?
+P1 	: 나는 유튜브에 명상 영상
+P1 	: 틀고해
+P1 	: 근데 뭔가 생각버리기가 힘들어
+P0 	: 나도 유튜브를 종종 봐
+P0 	: 동감이야 나도 잘 안 될 때가 있더라
+P0 	: 그럴 때 노래를 바꿔 봐
+P1 	: 그렇구나 명상하면
+P1 	: 많이 좋아진게 느껴져?
+P0 	: 응 하기 전보다는 마음이 차분해져
+P0 	: 생각은 사라지지 않지만 초조한 건 사라져
+P1 	: 신기하다 니가 추천해준 방법으로도 한번 해볼게
+P0 	: 응 좋은 생각이야ㅎㅎ

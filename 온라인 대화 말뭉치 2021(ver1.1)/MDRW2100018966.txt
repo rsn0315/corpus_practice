@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 애들은 성적표 받아왔어?
+P0 	: ㅇㅇ 방금 가져왔어
+P1 	: 잘 나왔어? ㅎㅎ
+P0 	: 전체적으로 잘했는데 잘함이 하나 있네.. ㅋ
+P1 	: 다른 건 다 매우잘함이고?
+P0 	: ㅇㅇ ㅎㅎ 잘했는데도 하나가 잘함이라 아쉽네
+P1 	: 욕심이 끝이 없지 ㅋㅋ 어떤 과목이 잘함이야?
+P0 	: 큰아들은 국어, 작은 아들은 사회
+P1 	: ㅎㅎ 보나마다 다 쓰는 거였구만
+P0 	: 그런 것 같아 ㅋㅋ
+P1 	: 너무 아쉬워하지마 그것도 잘한건데 ㅎㅎ
+P0 	: ㅇㅇ 잘했다고 칭찬해줬어 ㅎㅎ
+P1 	: 나름 고생해서 얻은 점수인데 무한칭찬해줘야지

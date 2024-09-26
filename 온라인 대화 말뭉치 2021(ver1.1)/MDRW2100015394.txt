@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100015394
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 하시는 일에 만족하시나요?
+P1 	: 슬프게도 아닌거 같아요
+P0 	: 직업이라는 게 쉽게 바꿀 수도 없는데 어째요.
+	  이직 생각이 있는 것은 아니지요.
+P1 	: 네 일단은 없는데
+P1 	: 계속 행복하지가 않아요
+P0 	: 음.. 직장동료와 유대관계를 좀 더 쌓아보세요
+	  그럼 출근하는 마음이 훨 나이질거에요.
+P1 	: 조언 감사합니다ㅎㅎㅎ &name1&님께서는 왠지 일에 만족하고계실거같아요
+P0 	: 저는 좀 오래 돼서
+	  익숙하니 걍 좋다 나쁘다 할 게 없네요.
+P1 	: 그러시군용
+P1 	: 연륜과 경험이 부럽습니다
+P1 	: 중간에 권태기(?)랄까 무료해지는 시기는 없으셨어요?
+P1 	: 오늘은 직장에서 어떠셨어요?
+P0 	: 바빴어요..
+	  늘 비슷한 일인데도 허겁지겁 처리할 일이 좀 있었네요.
+P1 	: 수고가 많으셨겠네요ㅠ
+P1 	: 여름 휴가는 다녀오셨어요?
+P0 	: 아뇨. 휴가 때는 사람 몰릴까봐 그냥 방콕 했네요. 어디를 가서 푹 쉬었어야했는데요.
+P1 	: 코로나 땜에 집이 젤 좋은듯해요
+P1 	: 출근하셨어요?
+P0 	: 지금 출근하는 길이에요.

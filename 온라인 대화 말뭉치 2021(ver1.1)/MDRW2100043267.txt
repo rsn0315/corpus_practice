@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043267
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아하 이동하려면 확실히 날이 좋아야죠!
+P0 	: 네네 ㅎㅎ 집앞 카페를 가도
+P0 	: 날이 좋아야 기분이 좋자나용 ㅎㅎ
+P1 	: 그쵸 ㅋㅋㅋ 맛집탐방 가시나여?
+P0 	: 네네 ~
+P0 	: 술도 한잔하구요
+P1 	: ㅎㅎ 한잔 좋죵~
+P0 	: 여행가고싶으신곳 있나요
+P1 	: 오늘 조개구이가 먹고싶더라구요 ㅋㅋㅋ
+P1 	: 부산이나 포항같은데 가고싶엇어요
+P0 	: 오 둘다 가보셨나요?
+P1 	: 예전에 한번씩 가서 조개구이 먹어봤어요 ㅎㅎ
+P0 	: 오 ㅎㅎ 둘다 회 조개구이 먹기좋죠
+P1 	: 맞아요 ㅋㅋㅋ바닷가에서 먹는게 젤 맛있는것 같아요
+P0 	: 진짜 그 바닷공기가 무시못해요
+P1 	: 구쵸 ㅋㅋㅋ

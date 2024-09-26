@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100047461
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 집안일 하시나요?
+P0 	: 네~제가 주로 집안일 하고 있어요
+P1 	: 육아도 하시나요?
+P0 	: 육아는 안해요 아이가 아직 없어서요
+P1 	: 아하 젊으시구나
+P1 	: 전 집안일 육아 허덕여요ㅎ
+P0 	: 아~집안일에 육아까지 하시면 정말 힘드실 것 같아요
+P1 	: 네ㅠㅠ 쉴틈이없어요
+P0 	: 아이는 몇명이세요?
+P1 	: 100명같은 1명이여
+P0 	: ㅋㅋㅋ   100명 같은 1명 웃프네요
+P1 	: 놀아주면 기진맥진

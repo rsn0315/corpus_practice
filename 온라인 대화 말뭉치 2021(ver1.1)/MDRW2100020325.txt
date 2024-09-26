@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 드시는 비타민 있으신가요??
+P0 	: 저는 딱히 없어요 ㅠㅠ 뭐드세요??
+P1 	: 저는 멀티비타민이랑
+P1 	: 홍삼먹었는데
+P0 	: 넵
+P1 	: 지금 다먹어서 아무것도 안먹고있어요 ㅋㅋㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋ
+P0 	: 재구매예정은 없으신가요
+P1 	: 엄청 피곤할때는 꼭 사야지 하다가
+P1 	: 정작 제돈주고 사려니 아깝더라구요
+P0 	: 그럴수있져 ㅋㅋㅋ
+P0 	: 할인할때 사셨었나요??
+P1 	: 친구들이 생일선물로 줬어요 ㅋㅋ
+P1 	: 올해도 생일선물로 달라고 하려구요 ㅎㅎ
+P0 	: 아아 ㅋㅋㅋㅋ 좋은 친구분들이시네용
+P0 	: 생일선물 고를 수 있으면 최고죠 ㅋㅋㅋ
+P1 	: 제친구들도 점점 비타민사달라고 하더라구요 ㅋㅋㅋ
+P1 	: 다들 몸이 늙어서 ㅎㅎ
+P0 	: 나이들면 여기저기 쑤시더라구요 ㅋㅋㅋ
+P1 	: &name1&은 나이가 어떻게 되시나요 ㅎㅎ
+P0 	: 저는 20대 후반이에요!

@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100017209
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 뭐 드시낭6
+P1 	: 요???!?!
+P0 	: 저는 오늘 사골 국물이랑 볶음밥 먹었어요!
+P0 	: &name2&님은 뭐드셨나요?
+P1 	: 저 그냥 밥이랑
+P1 	: 치킨이여!!@
+P0 	: 평소에 요리 자주 해드시는 편인가요?!
+P1 	: 아뇨 ㅠㅠ 요리를
+P1 	: 잘 못해서요
+P1 	: 님은여?
+P0 	: 저는 그냥 반찬 고정으로 국 하나 하는 정도로 먹는거 같아요
+P0 	: 오늘 저녁은 뭐 드실 생각이신가요?
+P1 	: 저 파스타 먹으려고요 ㅎ
+P1 	: 뭐드시나요?
+P0 	: 저는 돼지김치찌개 먹었어용!
+P0 	: 저녁 먹구 나서 후식 드시는 편이시나요?!
+P0 	: 저희 집은 꼭 과일을 먹어요!!
+P1 	: 꼭은 아닌데 먹으려고해요
+P1 	: 뭐 드셨어요??!
+P0 	: 복숭아 먹었어요!
+P0 	: 물복 좋아하세요 딱복 좋아하세요?
+P1 	: 헐 복숭아 ㅠㅠㅠ
+P1 	: 점 딱복이요 ㅎㅎ
+P1 	: &name1&님은요
+P0 	: 저도 딱복 좋아해요!
+P0 	: &name2&님은 좋아하는 과일있으시나요?
+P1 	: 전 귤이요 !!!!
+P1 	: &name1&님은 복숭아 말고는요?
+P0 	: 저는 수박 좋아해요!

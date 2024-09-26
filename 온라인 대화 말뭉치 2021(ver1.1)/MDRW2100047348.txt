@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100047348
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 운동하시나요?
+P0 	: 가끔 해요! 운동하세요?
+P1 	: 요가해요?
+P0 	: 아뇨 홈트해요
+P1 	: 영양제 드시나요?
+P0 	: 비타민 먹어요 비타민 드세요?
+P1 	: 저는 마그네슘,아연,비타민c 먹어요
+P0 	: 마그네슘은 저도 먹을까 고민 중이에요
+P0 	: 아연은 어디 좋아요?
+P1 	: 면역력 형성에 좋아요
+P0 	: 오 그렇구나
+P0 	: 오래 드셨어요?
+P1 	: 몇개월 됐어요

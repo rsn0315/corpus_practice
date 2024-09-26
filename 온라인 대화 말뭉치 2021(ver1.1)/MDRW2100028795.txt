@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100028795
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요?
+P0 	: 좋아하는데 많이는 못 다녀봤어요
+P0 	: 기억에남는여행은요?
+P1 	: 저는 하와이죠!!
+P0 	: 신혼여행인가요? ㅎ
+P1 	: 언니가있어서 자주 갔는데 갈때마다 돌아오고 싶지않았답니다
+P1 	: 쇼핑과 날씨가 환상이예요
+P0 	: 와 부럽네요 언젠가 가고프네요
+	  주로 무슨 쇼핑하세요?
+P1 	: 아울렛이죠!!
+P1 	: 코치나 토리버치 나이키등
+P1 	: 큰아울렛이 유명하죠
+P0 	: 여행의 또 다른즐거움은 맛난음식이지요
+P1 	: 마자요!! 저는 내일 제주도 떠나려고 짐싸고 있어요 ㅎ
+P1 	: 맛집아는곳 있으세요?
+P0 	: 자유로운 영혼이시군요
+	  십오년전이라 많이 바뀌었겠네요
+	  흑돼지구이 신선한 회 등
+P1 	: 요즘은 정말 외국다녀온것처럼 좋답니다
+P1 	: 회와 흑돼지는 변함없는 메뉴네요!
+P0 	: 즐건추억 많이만들고 오세요
+	  음식 맛있게 드시고 건강한여행요 ㅎ
+P1 	: 감사합니다!! 제주도 다녀오시길 꼭 추천합니다
+P0 	: 넵^^

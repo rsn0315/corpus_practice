@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015218
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 구입한 책 이름이 어케 되나요?
+P0 	: 저는  생각의 탄생 이라는 책이요
+P0 	: &name2&님은요?
+P1 	: 저는 최근에는 아이 책만 샀던 거 같네요.
+	  아.. 조국의 시간 샀어요.
+P0 	: 그러시군용 에세이류 좋아하세요!?
+	  저는 추리소설이나 심리학 분야 착 좋아해요
+P0 	: 착 ㅡ 책
+P1 	: 아.. 추리 책이 쓱쓱 읽혀지지요..
+	  책을 자주 봐야 하는데
+	  갈수록 독서시간이 줄어 고민입니다.
+P0 	: 맞아요 생활이 바쁘다보니 독서가 쉽지 않은듯 해요
+P1 	: e북에 대해서는 어떻게 생각하세요?
+P0 	: 편한듯해요 요즘은 오디오북도 잘되어있어서 넘 좋더라구요
+P1 	: 아.. 저는 이러다 종이 책이 없어질까 걱정이 되기도 합니다..
+P0 	: 그런 측면에서 고민스러울 수 있겠어요
+P0 	: 새로운 관점이네용 감사감사
+P1 	: 제 아이도 e북으로 학습하는 것을 좋아하더라구요.
+	  클릭질에 맛들었어요.;;
+P0 	: 맞아요 요즘은 교과서도 다 이북이라
+P1 	: 아이들이 곧 교과서 종이책 없이 패드만 갖고 다니지 않을까 싶습니다.

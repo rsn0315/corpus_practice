@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이번 올림픽 보셨나요?
+P0 	: 네 &name2&님은 보셨나요?
+P1 	: 저도 챙겨봤어요
+P1 	: 어떤 경기 제일 인상깊게 보셨나요
+P0 	: 저는 높이뛰기랑 체조요
+P0 	: &name2&님은요?
+P1 	: 저는 배구 열심히 봤어요!
+P0 	: 그럼 누구 제일 좋아하셨나요?
+P1 	: 다 좋았는데 김연경 선수랑 김희진 선수요 ..ㅎㅎ
+P0 	: 저도 그 두 선수 좋아해요 나중에 직관하러 가실 의향 있으신가요?
+P1 	: 네네... 기회만 된다면 .. 가고싶어요...!
+P0 	: 이번 올림픽으로 배구에 빠지시게 된걸까요?
+P1 	: 네 너무 멋있어요 사실 스포츠를 거의 안 안보고 올림픽 월드컵 시즌에만 그냥 보는데
+P1 	: 이번 배구로 인해서 룰도 찾아보고 그랬네요 .. 넘 재밌어여
+P0 	: 뭔가 배구룰은 민감하게 점수변동이 일어나서 재밌는 것 같아요
+P1 	: 맞아요 챌린지신청할때 재밌더라구요 터치아웃인지 .. 공이 아웃인지 인인지..!
+P0 	: 그쵸그쵸

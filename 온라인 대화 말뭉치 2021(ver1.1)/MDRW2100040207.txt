@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100040207
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셨어요?
+P0 	: 이제 하려구요
+P0 	: 드셨나요?
+P1 	: 네 저는 삼각김밥만들어먹었어요ㅋ
+P1 	: 뭐드세요?
+P0 	: 라면이요ㅋㅋ
+P0 	: 두개 같이먹으면 세트네요
+P1 	: 네 그렇네오ㅋㅋ오늘아침에는
+P1 	: 후레이크 먹었어요ㅋ
+P1 	: 아침드셨어요?
+P0 	: 네 점심엔 비빔면먹었어요ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 비빔면 맛있죠ㅋㅋ
+P1 	: 저는 수육먹었어요ㅋㅋㅋㅋ
+P1 	: 오랫만에 수육먹으니 맛있더라구요ㅋㅋ
+P0 	: 맛있었겠네요ㅎㅎ
+P0 	: 저는 고등어먹었어요
+P1 	: 고등어도 맛있죠 ㅋㅋㅋㅋ 좋아하는 음식은 뭔가요?ㅋ
+P0 	: 요새는 스시 좋아해요
+P0 	: &name2&님은요?
+P1 	: 오 저도 스시 정말 좋아해요 ㅋㅋ
+P1 	: 옛날에는 초밥, 회 못먹었거든요 ㅋ
+P1 	: 나이가 드니 ㅋㅋㅋㅋ 입맛이 달라지더라구요
+P0 	: 맞아요ㅋㅋ 저도 회 안먹다가 먹게됐어요
+P0 	: 스시 잘하는집가면 정말 맛있어요
+P1 	: 네 그러니깐요 ㅋㅋ 스시 맛있어요 ㅋ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022466
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 개 이름은 &name3&에요
+P1 	: 영화 마음이 본 적 있어요?
+P0 	: &name3& 너무 이쁘다
+P0 	: 네
+P0 	: 유승호나오는거
+P1 	: ㅋㅋㅋ 그 개랑 비슷하게 생겨서
+P1 	: 붙여준 이름이에요
+P0 	: 아 개가 소형견이 아니에요?
+P1 	: 허스키 이름은 뭐에요?
+P0 	: &name4&요
+P1 	: 오 &name4& ㅋㅋ
+P1 	: 순우리말로 붙여줬네요?
+P0 	: 별 의미는 없고 부르기 쉬워서 붙여줬어요ㅋㅋ
+P1 	: 아 그런거에요?
+P1 	: 제가 괜히 민망하네요 ㅋㅋㅋ
+P0 	: 네ㅋㅋ 큰의미는 없어요ㅋㅋ
+P0 	: 아니에요ㅋㄲ
+P0 	: 저희 누나 고양이 키우는데
+P1 	: &name4&의 뜻 알려드릴까요
+P0 	: &name4&뜻이 뭐에요?
+P1 	: 산 꼭대기라는 뜻이에요
+P1 	: 뭐 우뚝 솟아있는 그런 뜻
+P0 	: 오.. 산마루가 그런  말이구나
+P0 	: &name4&한테 알려줘야겠어요

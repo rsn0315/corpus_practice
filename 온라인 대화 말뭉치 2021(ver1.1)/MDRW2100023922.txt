@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100023922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P1 	: 안녕하세요 여행좋아하세오?
+P0 	: 예전에는 꽤 다녔는데 요즘은 잘 못 다녔네요
+P0 	: 기억 나는 여행지 있으신가요?
+P1 	: 저는 최근에 경주가 기억나네요 많이바꼇더라구요
+P0 	: 경주 가본지 한 7~8년 된 것 같아요
+P0 	: 요즘엔 카페 예쁜 데 많이 생겼다고 들었어요
+P1 	: 많아요 황리단길?완전 불국사이미지였는데 많이 달라졌더라구요 기억나는여행지잇으세요?
+P0 	: 전주 가보셨나요? 한옥마을 분위기도 좋고 맛집도 좋았어요ㅎㅎ
+P1 	: 아 전주좋져 한복대여해서 입구 요새는 개화기옷대여도하더라구요
+P0 	: 의상 대여해서 입어보신 적 있으세요?
+P1 	: 네 한복이요 요새는 머리도 이쁘게 해줘서 사진찍기도 좋더라구요 의상대여해보셨어요?
+P0 	: 전 한 번도 안 해 봤어요 ㅎㅎ 해 볼걸 그랬나 싶네요
+P1 	: 아 나중에 꼭 해보세요!! 여행계획은 없으세요??
+P0 	: 일단 한동안은 못 가지 않을까 싶어요 ㅠ
+P1 	: 아,,추석때 어디 안가세요??
+P0 	: 추석 때는 그냥 집에서 가족끼리 보낼 것 같아요ㅎㅎ

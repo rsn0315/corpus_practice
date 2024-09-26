@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100031103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 증말 추리왕이시군요!
+P0 	: 먹는 것도 좋아하시나요?
+P1 	: 저 마라탕 좋아해욬ㅋㅋㄲㄱ
+P0 	: 우왁 저도요! 어떤 재료 좋아하셔요!
+P1 	: 저 감자랑 숙주 필수예요!!!!!!
+P0 	: 우왁 저도 저도요!!! 거기에 치즈떡 넣으면 환상!!
+P1 	: 오오
+P1 	: 다음에 먹게되면 치즈떡 시도해볼게요
+P1 	: 저는 마라탕 넘 자주먹어서 지갑이 아파가지고
+P1 	: 최근에는 만들어 먹었거든요ㅋㅋㅋ규ㅠ
+P1 	: 나쁜말 안썼는데 왜뜨지ㅠㅠ
+P0 	: 앗... ^.^
+P0 	: 요새는 뭐 만들어 드세요!
+P1 	: 요즘에는 마라탕...수육...에프로 간단히 굽는거...이정도인거같아요ㅋㅋㅋ
+P1 	: 뭐 자주드시나요?
+P0 	: 저는 마라탕이요... 진짜 전 마라탕 중독자...
+P1 	: 앜ㅋㅋㅋㅋㅋ어느가게 가세요?
+P0 	: 저는 애신 마라탕이요! 아시나요?!
+P1 	: 헉 첨들어봐요
+P0 	: 헛.. 그럼 저희 동네에만 있나봐요..
+P0 	: &name2&님은 어디 가게로 거세요!?
+P1 	: 저는 탕화쿵푸요!
+P1 	: 그런데 라메이즈로 옮겼어요ㅠㅜㅜ
+P1 	: 제가 사는 곳에 탕화쿵푸점이 위생이 별로여가지구ㅜ
+P0 	: 헐 탕화쿵푸 위생 별로에요!!?!??!?!
+P0 	: 저 애신 아니면 탕화쿵푸로 가는데
+P0 	: 에바다

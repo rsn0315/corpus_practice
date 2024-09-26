@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037096
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨어요?!
+P1 	: 네 &name1&님도 드셨나요?
+P0 	: 넹!! 방금 먹었어요~
+P1 	: 뭐 드셨나요?
+P0 	: 김치전하고 된장국이요!
+P0 	: &name2&님은요?
+P1 	: 전 떡볶이요 김치전은 점심에 드신 거 먹으신건가요?
+P0 	: 넹ㅋㅋㅋ
+P0 	: 많이해서 남았었거든욥
+P0 	: 또 먹어도 맛있네욥
+P1 	: 맛있응 것 같아요
+	  된장국도 어머님이 만들어주셨나요?
+P0 	: 넹ㅈ! 옆에서 말만했어요ㅋㅋ
+P0 	: 하핳
+P1 	: 어머니께서 요리를 잘하시나봐요
+P0 	: 녭! 저는 크면 엄마처럼 요리 잘해지는 줄 알았어요ㅋㅋ
+P1 	: 그래도 잘하시는 요리가 있나요??
+P0 	: 볶음밥이요.!!
+P0 	: 간편하게 먹으려 해먹다보니 늘더라구용
+P1 	: 그렇군요!!

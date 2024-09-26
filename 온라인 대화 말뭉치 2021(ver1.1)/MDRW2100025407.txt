@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 구매 물건 있으신가요?
+P1 	: 예 주로 식품 구입해요
+P1 	: 당신은요
+P0 	: 저는 어제 홈플러스에서 장봤어요
+P0 	: 요즘 꽃게가 제철이래요
+P1 	: 그래요? 맛있겠네요
+P0 	: 살아있는 꽃게라 손질이 무섭네요
+P0 	: 구매 희망 물건은 뭐가 있으세요
+P1 	: 손 조심하세요
+P1 	: 음 바람막이 구매하고 싶어서 찾아보고있어요
+P0 	: 여름이 끝나가서 필요하긴 하네요
+P0 	: 저는 운동하게 실내자전거 사고싶어요
+P1 	: 저도요 티비보면서 타면 좋을것같아요
+P0 	: 집이 좁아서 살까말까 고민이에요
+P1 	: 요즘은 접이식도 있다던데 찾아보면 부피 별로 크지 않은 자전거가 있지 않을까요?
+P0 	: 그럴까요?
+P0 	: 할인 소식 있나 찾아봐야겠어요
+P1 	: 예 근데 전 비싸보여서 못사겠어요
+P1 	: 그러게요 할인하면 좋겠네요
+P0 	: 당근마켓에도 찾아보니 많이 나와있네요

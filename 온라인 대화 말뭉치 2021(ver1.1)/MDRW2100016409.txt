@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016409
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 좋아해요
+P0 	: 뭐 좋아하세요?
+P1 	: 배구요
+P0 	: 저희 아버지께서 배구 굉장히 좋아하세요 ㅋㅋㅋㅋㅋ
+P1 	: 오 그렇군요 직관 가보셨나요?
+P0 	: 어릴적에 몇번 가본적 있어요 ㅋㅋㅋㅋㅋ
+P0 	: 아버지 따라서 ㅋㅋㅋㅋㅋ
+P0 	: 직관 자주 가세요?
+P1 	: 아니요 가보고 싶어요!
+P1 	: 부럽네요
+P0 	: 네 룰도 잘 모르지만 즐겁게 봤던 기억이 있어요
+P0 	: 배구좋아하시면
+P0 	: 이번 올림픽도 즐겁게 보셨겠네요
+P1 	: 올림픽을 계기로 좋아하게되었어요
+P0 	: 이번올림픽이 계기인가요?
+P1 	: 네네
+P0 	: 저도 이번올림픽 너무 재밌게 봤어요 ㅋㅋㅋ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046355
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 공연 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 안녕하세요! 요새 즐겨하는 게임 있으신가요?
+P0 	: 아니요.
+P1 	: 그럼 요즘 취미 있으신가요?
+P0 	: 야구를 하고있어요.
+P1 	: 오 직접하시는건가요? 주로 투수랑 타자중 어떤거 하시나요?
+P0 	: 동호회 아마츄어야구입니다.
+P0 	: 보통 아마츄어는 투수 타자 모두 합니다.
+P1 	: 그럼 더 선호하거나 잘 하는 포지션은 무엇인가요?
+P0 	: 사실 둘다 잘합니다. ㅎㅎ 투수가 더 좋아요.
+P1 	: 아~그럼 보는것도 좋아하시나요?
+P0 	: 메이저리그 즐겨보고있습니다.
+P1 	: 잘은 모르지만 응원하는 팀이 따로 있나요? 국내 야구팀은 잘 안보시나요!!
+P0 	: 국내야구는 선수들 인성 실력 모두 프로라고 보기 어려울 정도라 안봅니다.
+P0 	: 딱히 응원 하는 팀은 없는데 요즘은 애틀랜타 브레이브스 응원 하고 있습니다.
+P1 	: 그렇군요 ㅎㅎ 코로나 끝나고 야구 직관하러 가실 생각있으신가요?
+P0 	: 국내 야구는 생각 없고 미국여행간다면 꼭 보러갈겁니다.
+P1 	: 꼭 코로나가 빨리 끝나서 메이저리그 야구 직관하시길 바랄게요!
+	  날씨가 추워졌는데 감기조심하시고 오늘 하루도 화이팅하세요!

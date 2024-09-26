@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100001675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ㅎ
+P1 	: 안녕하세요^^ 저는 요즘 중고거래를 좋아하는데 &name1&님도 중고거래 많이하시나요?
+P0 	: 네 ㅎㅎ 저도 집안 물건이 엄청 많아서요 ㅋㅋ
+P1 	: 저는 지역거래가 좋더라구요 맘카페나 당근 이용하는데 어디서 주로 하시나요?
+P0 	: 저도 당근이요 ㅋㅋ
+P1 	: 당근이 뭔가 지역거래라 그런지 안심되죠?
+P0 	: 네 그 온도인가 그런걸로 매너점수도 있어서 좋더라구요
+P1 	: 맞아요 저도 그걸로 주로 사람 거르는편이라
+P0 	: 그리고 글올리면 끌어올리기도 더 편한거같더라구요
+P1 	: 끌어올리는 기능 정말편하더라구요^^ 보통 어떤거사고파시나요?
+P0 	: 저는 그냥 집에 남는거 암거나요 ㅋㅋ 최근엔 오븐기 누나가 공짜로 받은거 팔았네요 쓰질않아서 ㅋㅋ
+P1 	: 오븐기 좋은데요? 저는 주로 딸이 화장품 새건데 안쓰는게 많아서 그거 대신 제가 팔아요
+P0 	: ㅎㅎ 쏠쏠하겠네용 여태 진상 만나보신적 잇으신가요
+P1 	: 진상은없는데 건너건너 사기꾼은 본적있어요

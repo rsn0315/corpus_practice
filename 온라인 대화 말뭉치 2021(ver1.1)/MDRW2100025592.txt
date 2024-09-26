@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100025592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요?
+P1 	: 네, 점심 먹었습니다
+P1 	: 뭘 드셨나요?
+P0 	: 저는 라면에 김치전 먹었어요!
+P0 	: 김치전 좋아하시나요?
+P1 	: 앗! 저도 점심 밥에다 김치전 먹었는데!
+P0 	: 우와 겹쳤네요ㅎㅎ
+P0 	: 라면은 좋아하세요??
+P1 	: 좋아하지만 아무래도 자제하려는 편이죠
+P0 	: 저도 잘안먹으려고 하는데 가끔 땡기네요ㅎㅎ
+P0 	: 좋아하는 라면 브랜드 있으세요?
+P1 	: 진라면 매운맛
+P1 	: 신라면이랑 까르보불닭이요
+P0 	: 오 신라면 빼고 저도 맛있다고 생각해요!!
+P0 	: 혹시 gs25에서 파는 김치오모리 드셔보셨나요?
+P1 	: 아뇨, 전 음... 비싼건 손이 잘안갈달까
+P1 	: 약간 라면주제에... 같은 생각이 들어요
+P0 	: 헉 맛있어서 생각해본적 없는데
+P0 	: 라면치고 비싼편이네요....
+P1 	: 그래도 이렇게 누군가가 맛있다고 추천하면 함 먹어보고 싶어져요
+P1 	: 나중에 먹어볼게요.
+P1 	: 맛있으면 저도 돈 더내고 사먹게 되는거죠 ㅋㅋ
+P0 	: 네 나중에 드셔보세요!

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100015351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 좀 하시나요
+P1 	: 아니요 안해요
+P0 	: 왜요?
+P1 	: 귀찮아서요
+P1 	: 근데 막상하면 재밌게 잘해요
+P1 	: 배드민턴이나
+P1 	: 탁구나
+P1 	: 이런 것들이요
+P0 	: 잘요?
+P0 	: 그렇게 생각하시는군요
+P1 	: 네 잘해요
+P0 	: 재밌네요
+P1 	: 최근에 제가 완승했거든요
+P0 	: 오 그러시구나
+P0 	: 초등학생이랑 하셨어요?
+P1 	: 음 어찌보면 그렇게도 볼 수 있겠네요
+P1 	: 달리기 잘하세요?
+P0 	: 그럴게 볼수도 있다니 흥미롭네요
+P0 	: 네
+P1 	: 50m 몇 초 뛰세요?
+P0 	: 6초요
+P1 	: 우와
+P1 	: 그럼 학창시절에 계주 뛰어보셨겠네요
+P1 	: 어떠셨나요?
+P0 	: 그럼요
+P0 	: 제가 다 발랐슴니다

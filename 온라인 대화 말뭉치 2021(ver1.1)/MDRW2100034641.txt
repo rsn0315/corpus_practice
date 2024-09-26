@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034641
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 구피요 &name1&님은요
+P0 	: 구피 귀엽겠네요 전 뭐 하나 키워볼까 고민중이에요
+P1 	: 식물도 좋은데 이제 겨울이 와서리..
+P0 	: 그쵸 &name2&님은 구피 키운지 오래됐나요?
+P1 	: 아뇨 삼개월된거같아요 ㅎㅎ 아직 잘모르는애들ㅜㅜ
+P0 	: 구피가 잘 자란다는 이야기를 들은적이 있어서 저도 관심있어요ㅎ
+P0 	: 몇마리 키우세요?
+P1 	: 일곱마리정도있어요
+P1 	: 간편해요 밥만주면되서
+P0 	: 구피는 알을 잘 낳는다는데 정말 신기할거같아요
+P1 	: 아직은 알안놓고 응아만 싸고있어요
+P0 	: ㅋㅋㅋㅋㅋㅋ알 낳으면 구피 정말 많아지겠네요
+P1 	: 아아..사료를 더많이 줘야겠네요ㅎㅎㅎ
+P1 	: 어항도 큰거사구 ㅎ

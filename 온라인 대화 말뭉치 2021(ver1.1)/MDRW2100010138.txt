@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010138
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하시나요?
+P1 	: 예전에 잠깐했는데 요즘은 코로나땜에 못해요
+P1 	: 님은 하시는거있나요?
+P0 	: 요즘은 집이나 집 근처에서 유산소 조금 하고 있어요
+P0 	: 예전에는 어떤 운동하셨나요?
+P1 	: 전 운동취미없긴한데 스피닝이랑 줌바요
+P1 	: 필라테스 쬐끔
+P1 	: 순환pt쬐끔ㅎ
+P0 	: 필라테스 어떤가요? 저도 코로나 진정되면 한번 해보고 싶어서요
+P1 	: 자세교정도 되고 괜찮은거같아요
+P1 	: 정적인 운동이라 신나고그렇진않은데
+P0 	: 네네
+P1 	: 근력위주라 유산도 병행하셔야 할거예요
+P0 	: 근력위주인 건 의외네요 참고할게요
+P1 	: 코어근육 발달시키는거라
+P1 	: 여자분이시죠?
+P0 	: 네
+P1 	: 생리통에도 효과있더라구요
+P0 	: 반가운 소식이네요

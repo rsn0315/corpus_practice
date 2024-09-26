@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100043096
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 영화 보신거 있으세요?
+P1 	: 저 얼마전에 3주 연속으로 봤어요ㅋㅋㅋ
+P0 	: 어떤 영화 봤어요??
+P1 	: 인질 올드 싱크홀이요
+P0 	: 저는 최근에 모가디슈봤어요
+P1 	: 아, 저도 봤었어요
+P1 	: 재밌게 보셨나요?
+P0 	: 네 기대했던거 보다 재밌었어요
+P1 	: 기대중인 영화는 있으신가요?
+P0 	: 올드라는 영화를 보고 싶더라고요
+P0 	: 그 영화 재밌었나요?
+P1 	: 오, 올드
+	  저는 보통이었어요
+P0 	: 예고편은 흥미로웠는데
+P0 	: 본 사람들 반응 대부분이 그냥그랬다고 하더라고요
+P1 	: 그쵸? 예고편이 제일 재밌었어요
+P0 	: 영화보면 은근히 예고편이 제일 재미있는 경우가 많더라고요 ㅋㅋ
+P1 	: 맞아요ㅋㅋㅋ
+	  기대하는 영화 또 있으세요?
+P0 	: 그 마블영호 샹치도 개봉했더라고요

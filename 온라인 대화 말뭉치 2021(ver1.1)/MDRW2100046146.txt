@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046146
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으신가여?
+P1 	: 네 오늘은 쌀국수가 먹고힢어요!!
+P0 	: 오옹 저도 쌀국수 참 좋아해여
+P0 	: 그 에머이?? 거기가 유독 맛있더라구여 ㅎㅎ
+P1 	: 아 에머이 맛있어요!
+P1 	: 오능 점심 어떤거 드시나요?
+P0 	: 오늘 점심 떡볶이 생각하구 잇어용
+P1 	: 헐 맛있겠어요!
+P1 	: 저는 떡갈비요!
+P0 	: 떡갈비! 당연히 사서 드시는거겠죠??
+P0 	: 떡갈비 맛있져
+P1 	: 네! 도시락 배달입니당..!
+P0 	: 오옹 도시락 배달 해서 드시는군여 매일 하는건가요?
+P1 	: 아뇨! 오늘운 특별히 배달이요
+P1 	: 사무싷에서 시켜주는 날만 이렇게 먹어요!
+P0 	: 오옹 좋은 날이네요!! 특별한날 ㅋㅋ
+P1 	: 맞아요 식비도 아끼고 맛있고 좋아요!
+P1 	: 어디 떡볶이 드세요?
+P0 	: 음 저 어제 먹다 남은 떡볶이가 있어요 ㅋㅋ
+P0 	: 그거 먹으려고요!

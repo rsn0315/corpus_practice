@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002318
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 아이들 스스로 공부 잘 하고 있어?
+P0 	: 웅 그런데 작은 아들이 소수를 다 잊어버렸네
+P1 	: 엥 1학기에 다 배운거 아냐?
+P0 	: 2학기 예습만 열심히 했더니 구멍이 생겼어
+P0 	: 백지 상태네 ㅠ
+P1 	: 훌 빨리 복습해야겠네... 다음주 수행평가라며
+P0 	: ㅇㅇ 진짜 큰일이야. 주말동안 달려야겠어 ㅠ
+P1 	: 복습을 충분히 하고 넘어갔어야 했는데.. 무한 반복만이 살길
+P0 	: 다 알고 있는 줄 알았지 ㅠ 이렇게 모를 줄은
+P1 	: ㅇㅇ 1학기꺼 다시 한 번 복습해줘
+P0 	: 그래야겠어... 돌아서면 잊어버리니
+P1 	: 집중을 안해서 더해
+P0 	: 오늘은 소수만 시험봤는데 분수는 기억할라나 모르겠네
+P0 	: 완전 좌절임 ㅋㅌ
+P1 	: 방학내내 열심히 예습만 했더니 날벼락이네.. 고생이 많다

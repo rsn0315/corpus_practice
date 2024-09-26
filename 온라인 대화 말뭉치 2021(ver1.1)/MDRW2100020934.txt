@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100020934
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근 구매하신 물건 있나요?
+P1 	: 안녕하세용
+P1 	: 음...
+P1 	: 생필품??
+P1 	: &name1&님은요??
+P0 	: 저는 최근에 동물의 숲 타이틀 샀어요
+P1 	: 오
+P1 	: 동물의 숲 재밌죠ㅎㅎㅎ
+P0 	: 소소하게 재밌게 하고있어요
+P0 	: 중고거래로 싸게 샀어요
+P0 	: 중고거래 해보셨나요?
+P1 	: 네넹
+P1 	: 거의안하긴하는데
+P0 	: 어떤거 사보셨어요?
+P1 	: 가아끔당근해용
+P1 	: 가장최근에산건
+P1 	: 젤램프용
+P0 	: 젤램프는 네일용 말씀하시는건가요?
+P1 	: 네넹
+P0 	: 만족하시나요?
+P1 	: 넵
+P0 	: 직거래로 하셨나요?
+P1 	: 네넹
+P1 	: 택배 거래는 조금 불안해서요

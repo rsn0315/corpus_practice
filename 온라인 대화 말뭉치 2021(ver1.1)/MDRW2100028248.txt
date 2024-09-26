@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028248
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 너 가을옷 샀니?
+P1 	: 아니 아직 안샀어. 넌 샀어??
+P0 	: 나도 아직
+P0 	: 가을은 넘 짧아서
+P0 	: 안살거야
+P1 	: 그럼 뭐입고 다닐거야
+P0 	: 그냥 작년 가을에 입던 옷
+P1 	: 난 가을옷이 없어 가디건만 살래
+P0 	: 나도 가디건 살래
+P1 	: 그래 이번주 쌀쌀해지지 않았니
+P0 	: 반팔 입고 나갔다가 감기걸릴뻔
+P1 	: 감기조심해 열나면 병원도 못가지않니
+P0 	: 맞아 요즘 날씨가 흐려서 몸이 쳐지지 않니?
+P1 	: 항상 쳐져있어 올웨이즈
+P1 	: 비염때문에 돈다
+P0 	: 나도 추워지면서 비염 도짐
+P1 	: 너무 싫다 비염 .. 가을만 되면 귀신같아

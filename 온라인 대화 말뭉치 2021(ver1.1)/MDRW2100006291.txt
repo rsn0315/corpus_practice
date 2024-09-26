@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 바려동물키우시나요?
+P1 	: 저는 따로 키우진 않아요
+P1 	: 키우고 싶어도 집이 좁아서...
+P0 	: 전 옛날에 구피
+P1 	: 물고기요
+P0 	: 물고기랑 새키워봤네요..
+P1 	: 오 신기하네요
+P1 	: 새요?
+P1 	: 어떤 종류 인가요?
+P0 	: 새는 일찍일어나서 시끄럽더군요
+P0 	: 종은ㅇ기억이 잘안나네요
+P1 	: 정말요?
+P1 	: 속담처럼 새는 부지런 한 가봐요
+P0 	: 구피는 번식력이짱~~
+P0 	: 네..맞아요
+P1 	: 정말요 저는 물고기를 안키워봐서
+P1 	: 몰랐네요
+P0 	: 부지런해요
+P1 	: 오 신기하네요

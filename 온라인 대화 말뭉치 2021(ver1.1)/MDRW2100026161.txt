@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100026161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: &name2&이에용
+P1 	: 와 &name2&
+P1 	: 건강하신가요
+P0 	: 건강 못하지만 노력하고있습니다
+P0 	: 규칙적인 식사를 해야하는데
+P0 	: 집에 오면 아무래도 피곤하니까
+P0 	: 그게 잘 안되는 것 같아
+P0 	: &name1&는 제시간에 식사했어?
+P0 	: 꼬박꼬박 3끼 챙겨먹고?
+P1 	: &name1& 오늘은 나름 제 시간에 밥 먹은 거 같어
+P1 	: 3끼는 무리야 아침까지 챙기기는 너무... 귀찮아
+P0 	: 나 최근에 의사선생님 만났잖아 위염으로
+P0 	: 규칙적으로 먹는게 중요하대
+P0 	: 굳이... 3끼가 아니더라도...
+P0 	: 아닌가?
+P1 	: 아 맞어 나 식도염 때문에 갔을 때도
+P1 	: 밥 제때 먹으라 했는 거 같어
+P0 	: 그치
+P0 	: 많이 먹지 말고 규칙적이게 먹고 자기 전에 먹지 말라고
+P0 	: 의사쌤이 말해주셨어
+P0 	: 나는... 다 하고있는데
+P1 	: 맞어 야식도 먹지 말라 하고
+P1 	: 그치만... 그게 가경이 최선을 다해서 사는 방식인것을...
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 그래!
+P0 	: 그리고 야식은... 야식은 행복하잖아
+P0 	: 먹으면
+P0 	: 건강에는 안좋지만
+P1 	: 몸 건강을 버리는 대신
+P1 	: 정신건강 챙기기
+P0 	: 나쁘지 않지
+P0 	: 그치만 대체로... 정신의 건강은 몸에서 오는듯
+P1 	: 건강한 신체에 건강한 영혼이 깃든다...

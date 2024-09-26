@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031559
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁으로 무엇을 드셨죠
+P0 	: 독도 소주는 무슨맛인가요
+P1 	: 독도라는 술은 독도에서 만들지 않는데 이름만 못 보네요
+P0 	: 저는 라볶이를 해 먹었습니다
+P1 	: 도수는 17도를 넘어가지만 목넘김이 부드럽습니다
+P0 	: 수프는 반만 넣고요 고추장과 설탕 한 스푼
+P1 	: 라볶이 진리지요 정말 맛있었겠다네요
+P0 	: 계란도 넣고 비엔나도 넣었지요
+P1 	: 크 드실 줄 아네요
+P0 	: 독도를 다시마실 의향이 있으신가요
+P1 	: 독도는 제가 반병 이상 먹은 것으로 모아 목넘김도 좋지만 맛이 괜찮은 것 같습니다
+P0 	: 라볶기보다는 전어가 낫습니다
+P1 	: 2,500원 주고 샀어요 원래 가격은 3,500원인데 CU 1000원 할인 쿠폰을 썼거든요
+P0 	: 무척 순한가 봅니다

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100007325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: ㅎㅎ기회가 있을거에요
+P0 	: 직업은 있으신가요?
+P1 	: 네 평범한 회사원이에요 ㅎㅎ &name1&님은요?
+P0 	: 저는 지방 공기업 다녀요
+P1 	: 그럼 출퇴근일정하세요?
+P0 	: 아니요 교대근무입니다ㅜㅠ
+P1 	: 에고 고단하시겠어요ㅠㅠ 몇교대로 근무하세요?
+P0 	: 4조2교대인데 자꾸 회사에서
+P0 	: 직원 짜내려고 하네요ㅠ
+P1 	: 회사는 다 그렇죠ㅠㅠㅠ 적게주고 많이 부려먹으려고ㅠㅠ
+P0 	: 그래도 너무해요ㅋㅋㅋㅋ
+P0 	: 본사가 2조2교대를 제시했어요ㅎㅎ
+P1 	: 에이...2조 2교대가 가능한 부분이에요???
+P0 	: ㅋㅋ그러니까요
+P1 	: 2교대를 하는 곳이 공기업중에 있어요?
+P0 	: 정도껏 해야지...
+P0 	: 없죠ㅋㅋㅋㅋ
+P1 	: 와 요즘 공기업도 근무환경 점점 말도 안되게 ㅠㅠㅠㅠ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ너무 어이가 없는 제안이라
+P0 	: 조만간 파업 할겁니다!!!!
+P1 	: 밀어붙이면 당연히 그래야죠ㅠㅠㅠ
+P0 	: ㅋㅋ기사도 떴어요
+P1 	: 2조 2교대는 사탄이니까 ㅋㅋㅋ
+P0 	: ㅋㅋ진짜 선넘어서

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바이트 해보신적 있으신가요?
+P1 	: 네 피시방알바해봤어요
+P1 	: &name1&님은요
+P0 	: 사무보조 알바해봤어요
+P0 	: 피시방 알바 어때요?
+P1 	: 힘들어요ㅎ
+P1 	: 피시방인데 피시방이 아닌기분
+P0 	: 요즘 요리도 해야되던데
+P0 	: 맞나요?
+P1 	: 맞아요
+P1 	: 음식점인줄
+P0 	: 으..
+P1 	: 사무 보조 알바는 어때요
+P0 	: 단순 업무여서 편했어요
+P1 	: 주로 어떤 일을 했나요
+P0 	: 직장 다니세요?
+P0 	: 엑셀 작업했어요
+P1 	: 지금은 다니고 있지않아요
+P0 	: 저도 백수예요

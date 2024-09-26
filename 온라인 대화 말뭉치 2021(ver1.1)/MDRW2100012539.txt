@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012539
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ?
+P0 	: 너무 싫어
+P1 	: 왜 싫어
+P0 	: 과제가 너무 많아
+P1 	: 원래 그렇게 많았어?
+P0 	: 아니 비대면이라 많아
+P1 	: 얼른 대면 해야할텐데
+P0 	: 그건 더 싫어
+P1 	: 왜
+P0 	: 우선 일찍 일어나야해
+P1 	: 일어나면되지
+P0 	: 일어나서 산 꼭대기같은 학교를 올라가야해
+P1 	: 그건 좀 힘들겠네
+P0 	: 게다가 대면하면 수업도 연달아들어야해
+P1 	: 비대면은?
+P0 	: 온라인 강의 식이라 내가 듣고싶을때 들으면 돼
+P1 	: 너무 루즈해지는거 아냐?
+P0 	: 그렇긴한데 학교에서 강의듣는거보단 나아
+P1 	: 수업은 원래 학교에서 듣는거야
+P0 	: 싫어
+P0 	: 그리고 비대면은 시험도 오픈북이잖아
+P1 	: 대신 더 어려운거아냐?
+P0 	: 타임어택이긴한데 비대면은 학점도 훨씬 잘줘
+P1 	: 그래서 6전공을 듣는구나
+P0 	: 맞아 전공 미리 다 들어놓으려고
+P1 	: 잔머리만 늘었네
+P0 	: 나 다음주부터 실시간 강의해야해

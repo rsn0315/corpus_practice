@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030861
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신을 이미 맞았지만요 ㅎㅎ
+P1 	: 예약하셨죠?
+P0 	: 네 어제 맞았어요~ 예약 하셨나요?
+P1 	: 넹 저는 10부제는 아니고 직업상 더 일찍 예약했어요
+P0 	: 아항 그럼 2차까지 다 맞으신건가요?
+P1 	: 오늘 오전에 2차 맞고 왔어요!
+P0 	: 오옷
+P0 	: 불편한곳은 없으신가요?
+P1 	: 네 아직은 팔만 좀 아픈 거 같아요
+P0 	: 다행이에요 2차인데 무탈하게 넘어 갔으면 좋겟네요
+P0 	: 직업상 일찍 맞으신거면 혹시 선생님이신가요?
+P1 	: 넹넹ㅋㅋㅋ
+P0 	: 그간 고생이 많으셨겠네요ㅠ 수업준비도 그렇구요ㅜㅜ
+P1 	: 아 작년엔 진짜 좀 그랬는데 또 어느새 적응해서 올핸 좀 수월했어요
+P1 	: 애들이 고생하네요ㅋㅋ
+P0 	: 선생님도 고생이죠.. 애들은 놀지도 못하고 .. 백신도 못 맞으니까요..
+P0 	: 백신 맞으면 전염력이 좀 떨어진다길래 차례가 오자마자 신청했어요

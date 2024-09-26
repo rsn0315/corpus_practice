@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040837
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅎㅎ쇼핑 좋아하시나요
+P0 	: 좋아하긴 하지만 돈이 부족해서요
+P0 	: 네이버 페이 포인트 추천합니다
+P1 	: 오 네이버페이 쓰는 분 많던데
+P1 	: &name1&님도 추천하시는군요!
+P0 	: 포인트 빨리 쌓여요
+P1 	: 쇼핑은 주로 인터넷으로 하세요?
+P0 	: 넹넹 주로 인터넷으로 해요
+P1 	: 포인트 중요하죠!!
+P1 	: 인터넷 쇼핑 저도 좋아해요
+P1 	: 근데 하다보면 장바구니에 가득 차서
+P0 	: 그죠 많이 하면 사고 싶은게 많아서요
+P1 	: 맞아요
+P1 	: 보다보면 필요한 것 같고
+P0 	: 안사가 보면까 먹더라고요
+P1 	: 네 저는 그래서 급한 것 아님
+P1 	: 장바구니 담아놓고 며칠 두고봐요
+P0 	: 저도 그래요

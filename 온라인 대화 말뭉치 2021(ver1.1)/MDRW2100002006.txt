@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002006
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나로 요즘 화장을 거의 안하게 된 것 같아요
+P0 	: 코로나ㅠㅠ 때문에 좋은건 그거하나에요
+P0 	: 마스크끼니 화장안해도 되는거ㅠ
+P1 	: 저도 선크림만 꼼꼼히 바르고 다녀요
+P0 	: 그렇죠 요즘은 마스크 안묻는 그런제품 많이 광고하고 쓰더라구용
+P1 	: 코로나 이후로 진짜 기초 외에는 화장품을 안 산것 같아요
+P0 	: 맞아요ㅠ 코로나때문에 립스틱회사 다망하겠다 싶네요
+P1 	: 그러게요 ㅜㅜ 예전엔 친구들 선물도 거의 화장품이었는데 향수도 잘 안 쓰게 되구요
+P0 	: ㅠㅠ 이몹쓸 코로나는 언제 끝날지ㅠㅠ 백신은 혹시 맞으셨나요?
+P1 	: 저는 다음주에 맞아요 잔여는 어렵더라구요ㅜ
+P0 	: 잔여 아니고 예약으로 하신거세요?
+P1 	: 네 예약으로 가장 빠른날로 했어요
+P0 	: 와ㅠ 저도 백신 예약할때 마지막주에  있었는데 무서워서ㅋㅋ그다음주로 예약했어요ㅡ
+P1 	: 저는 하루라도 빨리 맞고 싶어서 잔여를 노리고 있지만 늘 실패입니다 ㅋㅋ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100037100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 무슨 음식 좋아하세요?
+P1 	: 저 피자 좋아해요ㅎㅎ
+P0 	: 아 피자맛있죠
+P0 	: 무슨 피자 좋아하세요?
+P1 	: 전 페퍼로니랑 포르마지 피자 좋아해요
+P0 	: 아 짭짤한게 좋죠
+P0 	: 저는 포테이토가 좋더라구요
+P1 	: 저도 포테이토 좋아해요ㅋㅋ 고소하고 마요네즈 뿌려잇으면 더 맛나죠
+P0 	: 포슬포슬한 느낌이 좋아요ㅎ
+P1 	: 그렇죠ㅎㅎ &name1&님은 어떤 음식 좋아하세요?
+P0 	: 저는 샤브샤브요
+P1 	: 샤브샤브 저도 넘 좋아해요 샤브샤브엔 어떤 고기 넣는걸 즐기시나요?
+P0 	: 역시 소고기죠 ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 소고기가 최고긴 해요ㅎ 전 마라탕에 샤브샤브로는 양고기도 좋아하는 편이에요
+P0 	: 아 저도 마라탕 좋아해요

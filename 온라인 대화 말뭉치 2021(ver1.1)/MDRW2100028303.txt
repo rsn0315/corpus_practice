@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028303
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달음식 많이 드시나요?
+P0 	: 저는 자주는 안 시켜요. 자주 드시나요?
+P1 	: 저는 자주 먹는 편인 것 같아요 본가에서 살 때는 집 밥을 많이 먹었는데 자취를 하니까 밥을 해먹는 것보다 사먹게 되네요
+P1 	: 배달음식 드신다면 어떤 종류 음식 좋아하시나요?
+P0 	: 역시 치킨 아니면 피자죠ㅋㅋ
+P1 	: ㅋㅋㅋㅋ역시 두 개가 인기템인 거 같아요
+P1 	: 저는 방금 계란햄치즈 샌드위치 만들어먹고 왔어요!
+P0 	: 기본이지만 제일 맛있는 조합이네요ㅋㅋ
+P1 	: 네 실패하지 않는 조합! ㅋㅋㅋㅋ
+P1 	: 특이한 카페 가 본 적이 있나요?
+P0 	: 글쎄요 딱히 기억에 남는 곳이 없네요
+P1 	: 저는 아직 가보지는 않았는데 인스타에 특이한 카페가 올라와서 가보고 싶은 곳은 있네요 연남동 그림 카페 내부가 특이해서 가보고 싶어요
+P0 	: 카페가 갤러리처럼 꾸며져있나요?
+P1 	: 카페 내부랑 가구들이 꼭 흰 도화지에 검은 펜으로 그린 것처럼 평평한 그림처럼 보여요!
+P1 	: 최근에 먹고 싶은 음식이 있으신가요?
+P0 	: 아 어떤 느낌일지 알 것 같아요
+P0 	: 요즘 먹고 싶은 건.. 깐풍기 생각 나네요ㅋㅋ

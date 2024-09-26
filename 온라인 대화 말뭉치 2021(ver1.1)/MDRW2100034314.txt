@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034314
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응
+P0 	: 1학기 때도 비대면 했던 교수님이라 예상은 했음
+P1 	: 좋다
+P0 	: 맞아
+P0 	: 이번에 도서관에서 확진자 나왔더라
+P1 	: 맞아ㅜ
+P0 	: 수요일에 도서관 가려다가 말았는데 안 가길 잘했어...
+P1 	: 책 대출하러 가고 싶었는데
+P1 	: 헐 다행이다...
+P0 	: 그니까...
+P0 	: 이런 거 보면 비대면 해야 할 거 같긴 한데
+P1 	: 그치
+P1 	: 근데 10만원 돌려주기 싫어서 대면하려는 거 같음
+P0 	: 응
+P0 	: 진짜
+P0 	: 꾸역꾸역
+P1 	: 역겹다
+P0 	: 추해...
+P0 	: 코로나때문에 안 돌아가는 시설 운영이랑 관리비로 충분히 돌려줄 수 있을 거 같은데
+P1 	: 그러니까

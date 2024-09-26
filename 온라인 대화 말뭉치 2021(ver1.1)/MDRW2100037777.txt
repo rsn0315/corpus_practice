@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100037777
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 곧 저녁먹으러 갑니다
+P1 	: 카레랑 같이 먹으려고 소세지도 굽고 있어요
+P0 	: 헉 환상의짝꿍
+P0 	: 저는 저녁 아직 못먹었어요 맛있겠네요
+P1 	: 늦게 드시나요
+P0 	: 이제 금방 먹을거긴한데 할일이 남아서 미루는중입니닷
+P0 	: 요리 자주하세요?
+P1 	: 요리를 한다고 하기에는... 대부분이 레토르트라서...ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ그래도 스스로 챙겨드시는게..
+P0 	: 대단하십니다
+P1 	: &name1&님도 직접 챙겨드세요... 사먹는거 보단 훨 나아요
+P0 	: 그건 그래요 요즘 물가도 너무비싸고
+P1 	: 물가는 어쩔 수 없네요...
+P1 	: 그렇게 생각하면 사먹는건 어떻게 비교적으로 싼지 모르겠어요
+P0 	: 그르게요 ㅋㅋㅋㅋ 스스로를 삼시세끼 먹여살리는게 쉽지않군여
+P1 	: 하지만 한국인은 밥심이라 꼭 챙겨먹게 되는게 현실...
+P0 	: 사는게 힘드니 먹는재미라도 맘껏 누려야해요 ㅋㅋㅋㅋ
+P0 	: 오늘 늦잠자서 아침을 못먹엇어요 ㅋ큐 아침드셧나요
+P1 	: 허걱ㅠ
+P1 	: 저는 어제 남은 카레 마저 먹었어요
+P0 	: 오 카레 다 드셨나요
+P0 	: 저는 한번에 한솥씩 해서 되게 오래먹어요
+P1 	: 한솥 했는데 가족들이랑 같이 먹어서
+P1 	: 두끼면 동나요

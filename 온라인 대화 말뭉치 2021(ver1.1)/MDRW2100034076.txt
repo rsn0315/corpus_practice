@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100034076
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ~ 오늘 날씨 좋지않나요
+P1 	: 안녕하세요~
+P1 	: 시원해서 좋네요!
+P1 	: 비는 안 오세요?
+P0 	: 네 저희 지역은 비는 안오네요 !
+P0 	: 근데 소나기가 올거같긴해요 ㅎㅎ 비 안오시나요?
+P1 	: 방금 조금 왔는데 다시 그쳤어요. 원래 비 소식이 있었거든요!
+P0 	: 저희쪽도 3시에 비가 온다해서 ㅎㅎ 올거같아요 !
+P0 	: 내일도 비 많이 온대요 !
+P1 	: 그렇군요! 집에만 있어야겠어요... 내일 외출할 일 있으세요?
+P0 	: 저는 원래 내일 병원에 가려했는데 비가 와서 안가려구요 ㅎㅎ
+P0 	: 지금은 외출하셨어요?
+P1 	: 아뇨 집이에요!
+P1 	: &name1& 님은요?
+P0 	: 저도 집이에요 ! 근데 곧 나가야하는데
+P0 	: 우산을 챙겨야겠죠 ?
+P1 	: 네네 꼭 챙겨가세요!
+P0 	: 3단짜리 챙겨가야겠네요 !
+P0 	: 우산 챙겼으니 비가 와야될텐데 ㅋㅋ
+P1 	: 앗ㅋㅋㅋㅋ 옷도 따뜻하게 입고 나가세요! 비오고 나서 많이 쌀쌀해졌어요
+P0 	: 그래야겠어요! 얇은 가디건 하나 챙기려구요 ㅎㅎ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100015186
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 대학생이신가요?
+P1 	: 네 대학생이에요!
+P1 	: &name1&님은요?
+P0 	: 저도 대학생이요!
+P0 	: 수강 신청은 잘 하셨나요?
+P1 	: 저는 다음학기 휴학했어요!!ㅎㅎ
+P1 	: 수강신청 성공하셨나요?
+P0 	: 하나빼곤 다 잡았어요!
+P0 	: 휴학 좋으시겠다..ㅎㅎ 뭐 하실 예정이세요?
+P1 	: 와 축하드려요ㅎㅎㅎ
+P1 	: 아니에요... 취업 공부하려구요... ㅋㅋㅋㅋ
+P0 	: 아앗 ㅋㅋㅋㅋ ㅠㅠ 취준 생각하면 넘 막막해요
+P1 	: 그쵸ㅠㅠ 그래도 열심히 하면 뚫리겠죠..!ㅠㅠ
+P1 	: 다음학기도 비대면인가요?
+P0 	: 네 근데 이번엔 다 실시간 강의로 바뀌어서 힘들 것 같아요ㅠㅠ
+P1 	: 어우 진짜요??
+P0 	: 네 ㅋㅋㅋ큐
+P1 	: 실시간 강의 은근히 기 빨린다고 많이 그러더라구요
+P0 	: 맞아요...
+P0 	: 그냥 녹화강의가 좋은데 ㅋㅋ ㅠ
+P1 	: 솔직히 녹화강의 너무 꿀이지 않아요..?
+P1 	: 특히 2배속하는거..
+P0 	: 맞아요 ㅋㅋㅋㅋㅋㅋ 맨날 시간만 채우고 안봤어요
+P1 	: 저두요ㅋㅋㅋㅋㅋㅋ저는 그래서 저번학기에 녹화강의만 골라서 수강신청했어요
+P1 	: 실시간 강의 아침 강의도 있으세요?
+P0 	: 이번에는 다행히 오전 수업 없어요 ㅋㅋ
+P0 	: 저번 학기엔 5일 중에 4일이 1교시였어요...

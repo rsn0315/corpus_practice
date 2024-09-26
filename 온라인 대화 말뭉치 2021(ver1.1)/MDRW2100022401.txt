@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 점심은 드셨나요?
+P0 	: 네 국밥 먹었습니다!
+P0 	: 점심 드셨어요?
+P1 	: 저는 아직이에요. 뭘 먹을지 고민중이랍니다
+P0 	: 매끼 먹을 때마다 고민되죠 ㅎㅎ
+P1 	: ㅋㅋㅋ그렇죠 전 한번 주문하려면 메뉴 고르는데에 시간 엄청 걸리는데
+P0 	: 저도 좀 오래 걸려요 ㅋㅋㅋㅋㅋ
+P0 	: 그래서 가끔은 그냥 제비뽑기하고 그래요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋ제비뽑기 그런거에 선택권을 주는 것도 나쁘지는 않죠
+P0 	: 너무 이것저것 다 먹고싶어해서요 ㅋㅋㅋ
+P0 	: 어떤 음식 좋아하세요?
+P1 	: 저는 치킨이요
+P0 	: 치킨 자주 드시나요?
+P1 	: 네네 치킨 자주 먹어요 ㅎ
+P0 	: 신상 치킨 나오면 다 드셔보시나요 ㅎ

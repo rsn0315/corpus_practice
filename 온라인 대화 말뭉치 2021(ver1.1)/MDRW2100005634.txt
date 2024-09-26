@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100005634
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 충남
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안녕
+P1 	: &name1&
+P1 	: 자기는 종교가 뭐야?
+P0 	: 무교야
+P0 	: 자기는?
+P1 	: 나도 무교야
+P1 	: 자기는 교회 다녀본적 없어?
+P0 	: 있어
+P0 	: 초등학교때 집앞에 교회가있어서
+P1 	: 오오
+P1 	: 처음알았네
+P0 	: 친구따라
+P0 	: 자기는?
+P1 	: 나도 대학교때도 가보고
+P1 	: 군대에서도 갔었지
+P1 	: 근데 이젠 안가ㅋㅋㅋㅋ
+P0 	: 중학교때는 성당 다니고
+P1 	: 성당은 한번도 안가봤어
+P0 	: 엄마아빠 따라서 절도가고보
+P1 	: 오
+P1 	: 나도 엄마아빠 따라서 절은 많이 갔었어
+P1 	: 부모님은 불교니깐
+P1 	: 자기 부모님도 불교야?
+P0 	: 부모님도 어떤종교를 막 다 가시지는 않는데 따지면 불교지?
+P0 	: 부처님오신날 이럴때 생각나시면 가시는거같아
+P1 	: 그렇구만
+P1 	: 우리엄마도 초파일마다 꼭 가시더라고

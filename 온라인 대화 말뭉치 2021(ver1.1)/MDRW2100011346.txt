@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011346
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 출근 하시나요?
+P0 	: 네.  직장출근 집출근
+P1 	: 전 아직 출근 전인데 출근할때보다 더 빡세게 일하는 중인것 같아요 ㅠ
+P0 	: 하 그렇죠..  업무가 힘든거세요?
+P1 	: 아뇨.. 연수 신청했는데 이게 이렇게 빡셀 줄 몰랐네요 ㅠ
+P0 	: 헉.. 빡세면 도움이라도 많이 되야할텐데 유익한가요?
+P1 	: 도움은 진짜 많이 되는것 같아요. 지금도 여태 과제 하다 왔네요 ㅠ 같이 들은 샘은 대학원에서 배운것보다 더 배우셨대요 ㅋㅋ
+P0 	: 으와. 어떤연수인지 궁금하네요
+P1 	: 영재연수인데 이게 원래 60시간짜리 숙박 연수라 애엄마인 저는 듣기 어렵잖아요? 원격이라길래 신청했더니 한달 내내 해요  ㅠ
+P0 	: 헉 진짜 힘들겠네요 대단해요 선생님
+P1 	: 개별로 프로그램 짜서 내라고 하고 조별로도 짜라고 하고.. 놀러가려고 미리 짜서 내려고 하니 넘나 힘들어요 ㅠ 아는건 없는데 말이죠 ㅠ
+P0 	: 우와...이거 듣고나면 계속 영재교육 담당자 되는거 아니에요?
+P1 	: 그건 아닌듯요 ㅎㅎ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100037823
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 부산 맛집 소개좀해주세요 ㅎㅎ
+P0 	: 쭈꾸미 좋아하세요??!
+P1 	: 네 좋아해요~
+P0 	: 그러면 윤상옥신주꾸미 추천합니다 ㅎㅎ !
+P1 	: 오 감사합니다 기억해둘게요
+P0 	: 넵 ㅎㅎ 사상쪽이여서 좀 더 가까우실꺼에요 ㅎㅎ
+P1 	: 어머 세심하시네요 감사합니다 ㅎㅎ
+P0 	: ㅎㅎ 아니에요 !
+P0 	: 주로 배달음식 드세요?
+P1 	: 아뇨 배달은 잘안해요
+P1 	: 오늘은 피자시켰네요
+P0 	: 헐 어디피자요?
+P1 	: 파파존스에서 시켰어요
+P0 	: 헐 저 파파존스 안먹어봤는데
+P0 	: 어때요?
+P1 	: 파파존스 괜찮아요 가든스페셜에 치즈 추가해서 드셔보세요

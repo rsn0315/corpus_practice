@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015153
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 요즘 날씨 어떠세요?
+P0 	: 축축하죠 비가 계속 오네요
+P0 	: &name2& 님도 그런가요?
+P1 	: 여기도 그래요
+P1 	: 더운 것보다 습한 게 더 지내기 불편한 갓 같아요
+P0 	: 그렇긴 하죠
+P0 	: 빨래도 잘 안 마르네요
+P1 	: 맞아요...오늘은 비가 안 오는 대신에 엄청 습하네요ㅠㅠ
+P0 	: 그쵸 그래도 겨울에 엄청 건조할 거 생각하면 지금이 더 좋아요ㅋㅋㅋ
+P1 	: 맞아요
+P1 	: 겨울엔 건조해서 정말 피부가....
+P1 	: 촉촉한 지금 만족해여겠어요
+P0 	: &name2& 님 계신 지역은 오늘 날씨 어떤가요?
+P1 	: 흐렸는데 지금은 해가 떠 있네요!
+P1 	: &name1&님 날씨는 어때요?
+P0 	: 저도요! 날씨 완전 좋아요
+P1 	: 언제까지 비가 올까요
+P1 	: 태풍이 얼른 갔으면 좋겠어요
+P0 	: 아 지금 태풍 지나가고 있나요?
+P0 	: 비 그치면 완전 가을 될 것 같아요
+P1 	: 태풍 지나가고 있다고 들었어요!!
+P1 	: 마자요 어제 밤도 완전 선선하더라구요
+P0 	: 요즘 오전이랑 밤에는 되게 선선해요
+P0 	: 원래 아침마다 운동 나가는데 요즘엔 아침에 나가기 쌀쌀할 것 같아서 안 나간지 꽤 됐어요ㅋㅋㅋ

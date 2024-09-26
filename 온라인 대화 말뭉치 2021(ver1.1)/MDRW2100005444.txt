@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005444
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소에 다이어트 하는 편이에요?
+P1 	: 다어이트 하는걸 귀찮아서 안하고 있어요
+P0 	: 건강관리는 하고 계세요?
+P1 	: 빼는건 지옥같아요
+P1 	: 건강관리는 평소에 하고있어서 몸에 문제 있는건 없어요
+P0 	: 아 평소에 건강하신가봐요
+P1 	: 그쪽은 건강하다고 생각안하시나요?
+P0 	: 되게 건강한거같아요
+P0 	: 혹시 성형에 관심있으세요?
+P1 	: 성형엔 관심이 하나도 없어요 어떻게 건강관리 하시나요?
+P0 	: 가끔 영양제먹고 하는게 다에요
+P0 	: 평소에 패션에 신경 쓰세요?
+P1 	: 옷입는걸 좋아해요 패션에 신경쓰네요
+P1 	: 어떤 스타일을 좋아해요?
+P0 	: 저는 그냥 무난무난한게 좋은거같아요
+P1 	: 요즘 어떤 패션스타일로 입으시는데요?
+P0 	: 저는 후드티입는거 좋아해요

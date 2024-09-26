@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 여행좋아하시나요?
+P0 	: 좋아하는 편은 아니예요
+P0 	: &name2&은요?
+P1 	: 저는 좋아하는편인데 해외여행을 선호하는편입니다! 요즘은 국내 여행도 매력있다고 생각해요
+P0 	: 해외 어디가고 싶으세요?
+P1 	: 요즘은 홍콩이 제일 가고 싶은데 코로나도 그렇지만 나라 상황때문에ㅜㅜ 갈 수 있을지 모르겟네요
+P0 	: 저는 코로나 끝나면 멕시코 가고싶어요
+P1 	: 오 멕시코 좋아요! 저는 코로나 이전 마지막 여행이 멕시코였어요ㅜㅜ
+P1 	: 멕시코 어디 가고 싶으신가요??
+P0 	: 우와
+P0 	: 구체적인 계획은 없고
+P0 	: 타코가 먹고 싶어서 멕시코 가고싶네요
+P1 	: 앗 저도 타코 먹을 생각 하나로 갔는데
+P1 	: 정말 후회없어요 ㅋㅋㅋㅋ 현지 타코 너무 싸고 맛있어요!!
+P0 	: 먹는얘기에 좀그렇긴한데
+P0 	: 길거리에서 타코먹으면 정말 설사하나요?
+P1 	: 앗 아뇨 ㅋㅋㅋ위생땜에 그런가
+P1 	: 동남아보다는 깨끗하다고 느꼈어요
+P1 	: 완전 시골 동네에에서도 먹었는데 괜찮았어요!!
+P0 	: 경험담 감사해요ㅎㅎ
+P0 	: 동남아는 어디 다녀오셨나요?

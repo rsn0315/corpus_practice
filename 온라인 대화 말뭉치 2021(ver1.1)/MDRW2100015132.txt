@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015132
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오 비빔밥 좋지~~ 맛있겠다
+P0 	: 재료는 다 준비해놓을 테니까 네가 달걍 프라이만 해.
+P1 	: 오키. 엄마 아빠는 완숙, 나머지는 다 반숙 맞지??
+P0 	: 응 그렇게 해.
+P0 	: 더 들어갔으면 하는 재료 있어?
+P1 	: 글쎄. 채소랑 나물 많이 넣어주면 돼~~
+P0 	: 고기는 소고기 볶을까?
+P1 	: 난 고기 없어도 괜찮아
+P1 	: 참기름은 많이 넣어주삼
+P0 	: 알겠어. 무채랑 기본적인 것만 더 준비할게.
+P0 	: 찌개는 필요해?
+P1 	: 아 그럼 된장찌개만 같이 끓여주라~ 오랜만에 먹고 싶어!
+P0 	: 응. 그리고 막내가 아이스크림 사다 달래.
+P1 	: ㅋㅋㅋㅋ녹차 맛으로?? 엄마는 흑임자 아이스크림 사줄까?
+P0 	: 응. 막내는 녹차. 엄마는 너 먹고 싶은 맛으로 사와도 돼.
+P1 	: 오키~ 그걸로 빙수 만들어 먹을까??
+P1 	: 이번 여름 마지막 빙수 어때!
+P0 	: 빙수 만들어 먹으면 맛있겠네. 좋다.

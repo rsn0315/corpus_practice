@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100035504
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여름 휴가 가셨었나요?
+P1 	: 아뇨!
+P1 	: &name1&님은 다녀오셨나요?
+P0 	: 저도 집에서만 보냈어요ㅠ
+P1 	: 원래 여행을 좋아하세요?
+P0 	: 네! 원래는 좋아해요
+P1 	: 제일 기억에 남는 여행지가 어디세요?!
+P0 	: 저는 말레이시아요
+P1 	: 우와
+P1 	: 저는 여행을 안다녀서
+P1 	: 말레이시아 어떤점이 좋으셨어요?
+P0 	: 코타키나발루를 갔는데 바다가 예뻤어요
+P1 	: 우와
+P1 	: 가서 기념품 뭐사오셨어요?
+P0 	: 망고젤리랑 카야잼 사갔어요
+P0 	: 사왔어요
+P1 	: 카야잼 너무맛있죠!
+P0 	: 둘 다 싸서요ㅋㅋㅋ 그 수제 캔디?도 사왔어요ㅋㅋ 특산품은 아니지만여

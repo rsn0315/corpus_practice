@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 넵! 야구 좋아합니다 {emoji:⚾}
+P0 	: 야구경기 보러 요즘은 가기 힘드니 아쉬우시겠어요
+P1 	: ㅋㅋㅋㅋㅋㅋ입덬? 최근에 했어용
+P1 	: 직관 근데 가본적도 있긴한데 입덕전에
+P1 	: 티비로 보는게 더 제취향일것 같아요
+P0 	: 티비가 편하긴하죠~
+P0 	: 어느팀 좋아하세요?
+P1 	: 저 한화요!
+P1 	: 어릴때 직관갔던게 한화라서ㅎㅎ요
+P0 	: 아 그러시군요~한화는 요즘 잘하나요?
+P1 	: 아뇨ㅋㅋㅋ 어제도 두번 졌네요
+P1 	: ㅠ그래도 열심히 하는것같긴 해요ㅋㅋ
+P0 	: 승패에 상관없긴하죠 좋아하는 선수는 있으세요?
+P1 	: 음 아무래도 잘하는선수들한테 눈이가긴 해요ㅋㅋㅋ 강재민이나 김태연 같은!?! 선수들이요
+P1 	: 아실지는 모르겠지만ㅠㅋㅋㅋ아 김민우도요
+P0 	: 아 그렇군요~제가 잘 몰라서요
+P1 	: 크크 어떤 스포츠 좋아하세용?
+P0 	: 저는 예전에 배구 농구 야구 좋아했었어요~고등학교때라ㅜ오래전이네요
+P1 	: 옹 많이 좋아하시네요ㅋㅋㅋㅋㅋㅋ

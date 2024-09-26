@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100028278
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘본 영화 어땠어?
+P0 	: 좀 허무했어
+P1 	: 복수가 넘 약해
+P0 	: 동감 너무 쉽게 죽였어
+P1 	: 영화가 션하게 관객의 바램을 풀어줘야하는데
+P0 	: 리비만 고생하고 닉은 너무 편하게 갔잖아 심지어 욕도 별로 안먹었어
+P0 	: 딱히 액션영화도 아니었고 스릴러도 아니었고..
+P1 	: 그니까 리비가 열운한걸 별로 발휘를 몬했네
+P0 	: 스토리 자체는 나쁘지 않은데 연출이 좀 밋밋한듯...
+P0 	: 그래도 감옥 사람들은 좋았다 참
+P1 	: 맞아 감옥우애가 멋졌어
+	  담엔 무슨영화볼까?
+P0 	: 새로운콘텐츠는 거의 다 봤어... 이제 딴 거 봐야돼
+P1 	: 영화보고 후기쓰고 괜찮은 일과네
+P0 	: 그래 내일도 재밌는거 보자

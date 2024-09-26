@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 계획 있어?
+P1 	: 당분간은 못가지않을까ㅜㅜ
+P1 	: 가능하다면 일본 가고싶어
+P0 	: 일본 좋지! 간지 몇년 됐다 ㅠㅠ
+P1 	: 그치ㅠㅠ어디가봤어?
+P0 	: 일본 도쿄만 가봤어 나는
+P1 	: 도쿄 재밌는거 많지 사람도 많고!
+P0 	: 맞아 번화한 사이에 약간 로컬들이 좋아할거같은? 그런 곳들 찾아다니는게 재밌더라 나는 ㅋㅋㅋ
+P1 	: 맞아맞아 음식도 나름 잘 맞아서 좋더라구
+P0 	: ㅋㅋㅋㅋ맞아 약간 장인정신?같은거 있어서 그런거 좋아 초밥같은거 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ구경하는 재미가 있더라구 고양이도 많구
+P1 	: 가보고싶은 나라 있어?
+P0 	: 나는 아이슬란드 꼭 가보고 싶어!!
+P1 	: 오 아이슬란드! 오로라보러??
+P0 	: 웅ㅋㅋㅋ 인생 버킷리스트다 ㅠㅠㅋ

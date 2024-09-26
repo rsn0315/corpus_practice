@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011404
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 드셨나요?
+P0 	: 아직이요 고요님은요?
+P1 	: 저는 구운 닭이랑 밥 먹고 있어요~
+P0 	: 저도 냉동 닭가슴살 구워서 먹어야겠어요
+P1 	: &name1& 님은 닭 소 돼지 오리 중에 뭐가 제일 좋으신가요?
+P0 	: 돼지랑 닭이요 님은요?
+P1 	: 저는 닭을 제일 많이 먹지만 돼지를 좋아해요ㅎㅎ
+P0 	: 돼지가 맛있죠 소고기는 안좋아하시나요?
+P1 	: 소고기는 좋지만 조금 먹어야 맛있는 것 같아요ㅋㅋㅋㅋㅋㅋ 많이 먹으면 질리더라구요
+P0 	: 맞아요 저는 소고기 맛있는지 잘 모르겠어요
+P1 	: 그래서 저는 주로 배달음식은 치킨을 시키고 집에서는 돼지고기를 굽는 것 같아요
+P0 	: 배달음식 자주 시켜드시나요?
+P1 	: 음 한달에 3번은 시키는 것 같아요

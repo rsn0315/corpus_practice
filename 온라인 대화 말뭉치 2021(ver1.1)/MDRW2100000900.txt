@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 현재 하고 계신 일이 있으신가요?
+P0 	: 현재는 일을 쉬고있어요. 일을 하고계신가요?
+P1 	: 저도 개인적인 사정으로 두달전에 퇴사하고 다시 일 알아보려는중이에요
+P1 	: 코시국이라 쉽지 않네요ㅠ
+P0 	: 직장 다닐 때 힘든 점은 없었나요?
+P0 	: 저는 출퇴근이 제일 힘들었어요
+P0 	: 출근시간 기본 1시간 이상 걸려서ㅠ
+P1 	: 제 노력과는 상관없이 일어나는 실수들이 절 힘들게 했었어요...ㅠ
+P0 	: 그런거 진짜.. 너무 스트레스죠
+P1 	: 맞아요 저도 1시간 이상 걸리는곳 다녀봤는데
+P0 	: 의도치 않은 실수만큼 자괴감드는게 없어요
+P1 	: 그냥 가만히 대중교통에 몸을 싣고 가는것 뿐인데도 지치더라고요
+P0 	: 맞아요..
+P0 	: ㅎ 이동은 대중교통이 하는데 제 영혼이 탈출하는 기분..
+P1 	: 마지막으로 근무했던곳은 30분정도 거리였는데
+P1 	: 환승을 한번 하는데도..... 너무 좋더라구요
+P0 	: 진짜 가까운게 짱이에요
+P0 	: 진짜.. 멀면 삶의 질 대폭하락
+P1 	: 먼 직장 다닐때였으면 집에 도착할시간이
+P1 	: 가까운곳 다니니 도착해서 샤워까지 끝낸 시간이더라고요

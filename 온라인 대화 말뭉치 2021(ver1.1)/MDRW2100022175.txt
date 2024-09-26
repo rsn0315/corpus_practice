@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022175
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 밥이랑 반찬
+P0 	: 엄마가 반찬 잘하시니까 그 반찬들 드시면 되겠네요..
+P1 	: 나 좋아하는 거 많다
+P0 	: 생선 반찬 했나보네요..ㅎㅎ
+P1 	: 맞다
+P0 	: 아빠는 생선반찬만 있으며 오케이니까요..ㅋ
+P1 	: 엄마가 자주해주진 않아서 아쉽지
+P0 	: 울 엄마가 생선을 그닥 좋아하는 편이 아니라 그런가봐요.. 본인이 땡기지 않으니까 아무래도 요리를 잘 안하게 되는 듯요
+P1 	: 막상 하면 맛있게 잘하는데
+P0 	: 맞아요.. 엄마가 하는 요리는 다 맛있어요
+P1 	: 너도 먹어보면 좋을텐데
+P0 	: 무슨 생선이에요?
+P1 	: 갈치랑 가자미
+P0 	: 저 갈치조림 먹고 싶어요

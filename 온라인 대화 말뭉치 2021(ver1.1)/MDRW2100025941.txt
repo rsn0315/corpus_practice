@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100025941
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 가끔 피티해요
+P0 	: 전 홈트
+P1 	: 어떤 홈트하세요?
+P0 	: 플랭크해요
+P1 	: 플랭크 몇분하세요?
+P0 	: 3세트여
+P1 	: 한세트에 몇분하세요?
+P0 	: 2분이요
+P1 	: 우와 전 아직 1분도 간신히 하는데..
+P1 	: 하다보면 느나요?
+P0 	: 네 꾸준히
+P1 	: 얼마나 걸리셨나요?
+P0 	: 3개월료

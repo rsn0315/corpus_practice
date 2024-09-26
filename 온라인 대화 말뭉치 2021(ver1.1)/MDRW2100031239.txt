@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨나요
+P1 	: 아니요 아직이에요
+P0 	: 늦게 드시네요 보통 몇시에 드시나요
+P1 	: 보통 7시면 먹는데 오늘은 좀 늦어졌어요ㅜㅜ
+P0 	: 뭐 드셨나요 저녁
+P1 	: 어제 저녁 찜닭 먹었었어요
+P0 	: 오 해드신건가요?
+P1 	: 아니요 배달 주문해서 먹었어요
+P0 	: 그러셨군요 맛있었겠어요
+P1 	: 네 &name1&님은 어제 저녁 뭐 드셨나요?
+P0 	: 소고기구워먹었어요
+P1 	: 고기는 언제나 맛있죠
+P1 	: 점심 드셨나요?
+P0 	: 네 떡국 먹었습
+P0 	: 니다

@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100001070
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210722
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 아침은 드셨어요?
+P1 	: 아니요 ㅠ
+P1 	: 아침드셨어요?
+P0 	: 아 저도 안먹었어요ㅋㅋㅠㅠ
+P0 	: 원래 아침 잘 안드세요?
+P1 	: 네ㅜㅜ 귀차나서
+P1 	: &name1&님은 왜 안드셨어요
+P0 	: 저는 아침 먹으면 속이 아파서 안먹어요!
+P1 	: 아하
+P1 	: 점심은 뭐드실거에요
+P1 	: ??
+P0 	: 약간 고민중이에요
+P0 	: 짜장면을 먹을지 칼국수를 먹을지
+P0 	: 고민되네요
+P1 	: 헉 칼국수 맛있겠다
+P0 	: 칼국수 먹을까요?
+P1 	: 나가서 드세요?
+P1 	: 네네
+P0 	: 아니요! 배달해서 먹으려구요
+P0 	: &name2&님은 점심 뭐드시게요!
+P1 	: 저는 김빕 사오려구요~~
+P1 	: 김밥!
+P1 	: 무슨 김밥 좋아하세요?
+P0 	: 헐 맛있겠다 김밥ㅠㅠ
+P0 	: 저는 참치김밥 제일 좋아해요
+P1 	: 엇 저도요
+P1 	: 칼국수랑 김밥 같이 드세요~
+P1 	: 음식 뭐 좋아하세요?

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016065
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 오늘 날씨어떤가요
+P0 	: 여긴 비가왔다가 해가 뜨는거같아요
+P1 	: 여기도 오늘은 가을 하늘이네요
+P0 	: 날이 맑은가봐요
+P1 	: 날도 맑고 미세먼지도 없어서 좋으네요
+P0 	: 그게 가을의 매력인거같아요
+P0 	: 좋아하는 계절이 있으신가요
+P1 	: 글쎄요 그냥 생각해보니 초여름 좋아하는 것 같아요
+P0 	: 더운 날 좋아하는 분 많지 않던데
+P0 	: 이유가있나요?
+P1 	: 봄 지나고 바로 오는 그여름이 좋더라고요
+P1 	: 좋아하는계절있어요?
+P0 	: 음 여름과 다른 파릇파릇한걸 좋아하시나봐요
+P0 	: 전 겨울 좋아해요
+P0 	: 아무래도 더운걸 안좋아하는지라ㅎ
+P1 	: 네ㅎ 겨울도좋죠ㅎㅎ사실 계절은 뭐 다좋으네요ㅎㅎ
+P1 	: 오늘날씨도좋고
+P0 	: 맞아요 너무 좋은 낧씨에요

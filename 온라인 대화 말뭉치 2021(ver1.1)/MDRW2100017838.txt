@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017838
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하시나요?
+P0 	: 네 정말 좋아합니다 최근엔 못갔어요ㅠ
+P1 	: 멀리멀리 해외가고싶어요
+P1 	: ㅠㅠ
+P1 	: 가고싶은곳 잇으세요?
+P0 	: 저는 남자친구가 해외유학중이라
+P0 	: 거기로 가고싶네요ㅠㅠ 북유럽이요
+P1 	: 남친 해외유학중이라하셧엇는데
+P1 	: 북유럽이엿다니!!!!!!
+P1 	: 아ㅜㅜ부러워요 저도 여행 꼭 가보고싶어요ㅠㅠ
+P1 	: 북유럽ㅠㅠ
+P0 	: 너무멀죠
+P1 	: 북유럽 어디에 잇나용
+P1 	: 노르웨이?
+P0 	: 네 맞아요 바로 맞히셨네요
+P1 	: 아 가보고싶네요ㅜ
+P0 	: 정말가고시 어요
+P1 	: 노르웨이 좋다던가용?
+P0 	: 네 좋아보여요 사람도 많이없고
+P1 	: 부럽네요

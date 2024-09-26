@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100028258
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 저녁 드셨나요?
+P1 	: 안녕하세요! 아직 안먹었어요!
+P1 	: 식사 하셨나요?
+P0 	: 저도 아직이요! 저는 이따가 순두부찌개먹으려고요!
+P1 	: 헉 맛있겠어요
+P1 	: 저는 아마 밤 늦게 케이크 먹을 것 같아요
+P0 	: 케이크 어디꺼에요? 케이크 안먹은지 너무 오래라 저도 먹고싶네요
+P1 	: 스타벅스에서 티라미수롤 사왔어요
+P1 	: 케이크 좋아하세요?
+P0 	: 아메리카노에 케이크하나면 행복그자체죠~~티라미슈 맛있겠어요
+P1 	: 달달한 케이크에 깔끔한 아메리카노 조합이 역시 제일 좋은 것 같아요
+P1 	: 평소에도 아메리카노 즐겨드시나요?~
+P0 	: 아메리카노 진짜 좋아하는데 카페인에 약해서 디카페인으로 주로 마셔요
+P1 	: 저는 아메리카노 외에는 아이스티 주로 마시는 것 같아요 ㅎㅎ
+P0 	: 아이스티도 맛있죠 홍차 진하게 우려서 복숭아 시럽 타먹으면 진짜 맛있어요!
+P1 	: 맞아요! 달콤하고 시원한게 정말 좋아요
+P1 	: 홍차는 밀크티도 좋은 것 같아요
+P0 	: 밀크티는 맛있는데 유당불내증이라 먹으면 속이 불편해서 가끔씩만 마셔요ㅋㅋ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100006006
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 카페 자주 가세요?
+P0 	: 최근에는 코로나때문에 자주 못가요 ㅠㅠ
+P0 	: 하지만 까페 엄청 좋아합니다
+P0 	: &name2&님은요?
+P1 	: 저는 아내가 카페 가는걸 좋아해서 자주가는 편이에요
+P1 	: 집이 바닷가에 있어서
+P1 	: 주변에 예쁜 카페도 많아요
+P1 	: &name1&님은 카페가면 주로 어떤 음료 주문하세요
+P1 	: ?
+P0 	: 와 집이 바닷가세요?? 대박
+P0 	: 저는 라떼 좋아해요
+P1 	: 저는 주로 아메리카노 마셔요
+P1 	: 스벅 라떼 좋아하시나요?
+P0 	: 스벅 라떼는 크게 좋아하지 않지만 스벅은 자주가요 ㅋㅋㅋㅋ만만해서
+P1 	: 저는 스벅라떼 안좋아해서
+P0 	: 전 스벅 아메리카노를 안좋아해섴ㅋㅋㅋㅋㅋ
+P1 	: 앜ㅋㅋㅋㅋ
+P0 	: 제입엔 탄맛이 너무 강하게 느껴져서요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 맞아요 스벅 아메리카노 장기간 보관하고 맛을 일정하게 하기위해서
+P1 	: 좀 타도록 로스팅한데요
+P0 	: 그나마 라떼로 마시면 좀 덜한 것 같아서ㅋㅋㅋㅋㅋㅋ
+P0 	: 그거아니라도 사실 원래 라떼를 좋아해요
+P1 	: 저는 스벅 라떼 너무 밍밍한것같아서
+P0 	: &name2&님은 온리 아메리카노인가요?
+P1 	: 아뇨 다른것도 잘 마셔요ㅣ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100021091
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세여
+P0 	: 안녕하세요
+P1 	: 요즘 할인소식 아는거 잇ㄱ나요?
+P0 	: 네.
+P0 	: 이떠요
+P1 	: 뭐요?
+P0 	: 지에스 와인24에서 술 자주 사드시나요
+P1 	: 아니요
+P0 	: 지에스편의점이요
+P1 	: 아
+P1 	: 아라
+P1 	: 아하
+P0 	: 헐.. 거기 등급에따라 와인 5천상품권주는데 31일까지 써야하거든요
+P1 	: 좋은 정보 입니다!
+P0 	: 제일 싼거 사서 
+	  동생이랑 반 나눠 마시려고요

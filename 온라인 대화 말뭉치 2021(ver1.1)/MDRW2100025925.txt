@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100025925
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 과는 무슨과 재학중이세요?
+P0 	: 어느 학과 재학중이세요?
+P1 	: 전 상경이요 &name1&은요?
+P0 	: 저는 사회복지에요
+P1 	: 아하~ 동아리 활동 하시거나 하셨던거 있으세요?
+P0 	: 지금은 못하는데
+P0 	: 1학년땐 봉사동아리랑 농구동아리 했어요
+P0 	: 동아리활동 하시나요?
+P1 	: 저는 안해봤는데 배드민턴 동아리는 좀 궁금하더라고요
+P1 	: 그렇게라도 해보려고 했는데 상황이 이래서 쩝..
+P0 	: 배드민턴 동아리 정도면
+P0 	: 상황이 이래도 할거같은데
+P0 	: 아예 집합금지인가봐요?
+P1 	: 사실 그 뒤로 흥미가 떨어져서 찾아보진 않았어요ㅋㅋ
+P1 	: 농구동아리는 많이 힘든가요?
+P0 	: 농구를 좋아해서
+P0 	: 힘들진 않았어요
+P1 	: 좋아하는거 하면 그렇게 되나봐요
+P1 	: 봉사동아리에선 주로 뭘 하나요?
+P0 	: 과가 사회복지여서
+P0 	: 과동아리였는데
+P0 	: 술만 열심히 마신거같아요 ㅋㅋ
+P1 	: ㅋㅋㅋ 근데 다들 그러더라구요 친목느낌으로
+P0 	: 요즘은 비대면이라서
+P0 	: 동아리들 줌으로 활동한다곤 들은거같아요
+P1 	: 다들 부지런하시네요ㄷㄷ

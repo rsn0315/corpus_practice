@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100027171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 아침은 굶어요
+P1 	: 점심 뭐드세요ㅡ
+P1 	: ??
+P0 	: 생각중이여
+P1 	: 오늘은 날이 좀 더운데 냉면 좋아하세요?
+P0 	: 좋죠
+P1 	: 물냉 비냉 중 뭐 좋아하세요??
+P0 	: 물냉이요
+P1 	: 곁들이는 음식으로는 수육이 좋으세요? 아님 만두인가요?
+P0 	: 만두요
+P1 	: 오 뭘 좀 아시네요 ㅋㅋㅋㅋ
+P1 	: 냉면에 겨자는 많이 넣으시는 편이예요??
+P0 	: 겨자 좋아요
+P1 	: 식초도 좋아하시나요??
+P0 	: 네 그렇습니다
+P0 	: 식사는요?

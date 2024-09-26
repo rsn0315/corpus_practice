@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100010459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 밥알 동동 뜬 ㅎㅎㅎ
+P0 	: 비락식혜 너무 맛없어요
+P1 	: 너무 안 달아서 좋아요
+P0 	: 제가 코스트코에서 맛있다고 추천받은 식혜
+P0 	: 속는척 넘어가서 사먹었는데
+P0 	: 에잉 다 별로에요 공장식은
+P1 	: 아 코스트코 식혜도 유명한가봐요
+P1 	: 특유의 그 인공맛? 이 느껴지잖아요 ㅠ
+P0 	: 그것도 그렇구 저는 밥알이 맛없더라구요
+P0 	: 플라스틱 인가 볍씨 씹는맛이 싫어요
+P1 	: 아 맞아요 막 여러번 씹어야되는 그 식감
+P0 	: 집에서나 전통시장에서 만든식혜만 먹어요 ㅎㅎ
+P1 	: 수정과는 안 좋아하시나요 ㅋㅋ
+P0 	: 으으리~ 하는 김보성광고기억나시나요
+P0 	: 전 계피는 싫어해용
+P1 	: 아 계피향 싫어하시는구나
+P1 	: 그럼 카푸치노도 시나몬 안 뿌리시나요
+P0 	: 저는 전생에 모기였나봐요
+P0 	: 계피냄새 싫어해용 ㅋㅋ
+P0 	: &name2&님은 계피좋아하세요?
+P1 	: 모기 ㅋㅋㅋㅋ 네 저는 계피 좋아하고 향도 좋아해요
+P1 	: 약간 쿰쿰한 거 좋아하는거 같아요 ㅋㅋㅋ
+P0 	: 그러시군요..ㅋㅋㅋ 제가 평생 우연히 먹을 계피를 다 드리고싶네요

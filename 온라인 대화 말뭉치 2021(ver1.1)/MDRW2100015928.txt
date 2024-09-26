@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100015928
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 건강이 이슈죠
+P0 	: 그렇죠.
+P0 	: 코로나가 극성이네요
+P1 	: 이렇게 오래갈줄 몰랐는데
+P0 	: 이제 다들 건강관리는 필수인가봐요
+P1 	: 운동 하시는 거 있나요?
+P0 	: 저는 걷기 해요
+P0 	: 나머지는 아직 안 해요
+P1 	: 저도 걷기 자주해요
+P1 	: 예전에는 다른 것도 했어요
+P0 	: 어떤거요?
+P1 	: 요가요
+P0 	: 저도 요가 배워보고 싶었는데
+P1 	: 좋았는데 코로나 이후 안 하네요
+P0 	: 다른 운동도 하시나요?
+P1 	: 테니스 종종 해요
+P0 	: 운동 많이 하시네요!!

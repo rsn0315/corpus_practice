@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100042655
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 !
+P1 	: 안녕하세여
+P0 	: 혹시 지금 학교 다니시거나 준비하시는 시험 있으신가요?
+P1 	: 특별히 없능데 제주에 와 있어서
+P1 	: 운전면허관심있어요
+P0 	: 헉 저도 이번 겨울에 운전면허 따려구요...
+P1 	: 필기는 쉽다고 하더라구요
+P0 	: 맞아요! 필기는 모의고사 몇번만 치고가면 대부분 합격한다고 해요,,
+P0 	: 기능이랑 주행에서 많이 탈락하는데 ㅠ 걱정이에요 학원 끼고 시험볼지 안끼고 시험볼지...
+P1 	: 그럼 학원다니실 계획이세여?
+P0 	: 요즘에 운전면허 학원 비용이 진짜 너무 비싸서....그 비용이면 차라리 아이패드 구매하는게 낫겠다 싶어요 ㅜㅅ ㅜ
+P0 	: 저는 일단 학원 안다니고 면허 따고 싶어용,,,
+P1 	: 제 동생 아빠한테 연수받았는데 ㅋㅋㅋ
+P1 	: 사이가 매우 좋아졌죠
+P0 	: 헉 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 가족한테 운전 배우기 쉽지 않은데...대단하네요
+P0 	: 저는 대학생이라서 방학 때에만 딸 수 있어요ㅠㅜ
+P1 	: 네네
+P1 	: 대학생이제 온라인 수업 끝났나요
+P0 	: 아니요...대면수업하려면 적어도 2단계로 올라야한대요 ㅜㅜ
+P0 	: 그래서 지금은 3단계라 거의 대부분 온라인으로 강의 듣고 있어요

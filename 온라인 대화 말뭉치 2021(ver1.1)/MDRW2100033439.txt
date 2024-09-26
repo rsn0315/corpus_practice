@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100033439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 계절을 가장 좋아하세요?
+P0 	: 저는 봄, 가을이 좋아요!
+	  &name2&님은요?
+P1 	: 저도 봄 가을이요 ㅎ ㅎ
+P1 	: 둘중에 어느 계절이 좋으세요?
+P0 	: 가을이요! 선선한 바람부는 ^^
+P1 	: 오 저두요 ~
+P1 	: 봄은 그래도 꽃가루 때문에 ㅋㅋㅋㅋㅋ!
+P0 	: 봄이 따숩기는 하지만 황사도 있고 확실히 가을이 좋아요
+P1 	: 맞아요 ㅎ
+P1 	: 얼른 가을이 오면 좋겠네요
+P0 	: 오늘 처서라더라구요 
+	  태풍올라고 있어서 그런지 조금은 가을같기도 했어요
+P1 	: 맞아요 비만 안오면
+P1 	: 창문 열고 있을 거 같은데
+P1 	: 좀 아쉬웠어요
+P0 	: 태풍도 원래 대구로 오는 거였는데 방향이 조금 바뀌었더라구요
+P1 	: 방향이 바껴서 다행이네요 ㅠㅠ
+P1 	: 아무 탈 없이 지나가면 좋겠어요
+P0 	: 네 !  아무런 피해없이 자연소멸 되서 지나갔으면 좋겠네요!
+P0 	: 이게 마지막 태풍인가요?
+P1 	: 아마 그렇지 않을까요?
+P1 	: 자세히는 모르지망요 하ㅏ하

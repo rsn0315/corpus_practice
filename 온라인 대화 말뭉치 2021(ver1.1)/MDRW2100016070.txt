@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016070
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요~~
+P0 	: 즐겨하시는 게임있으신가오
+P1 	: 저는 쿠키런 킹덤 해요 &name1&은요?ㅋㅋ
+P0 	: 어 저는 쿠키런 오븐브레이크해요
+P0 	: 킹덤어떤가요 재밌나요
+P1 	: ㅋㅋㅋ오븐하다가 넘어갔는데 재미는 오븐이더 있는거 같은데 어쩌다보니 킹덤만 지금까지하고있어요..ㅎㅎ
+P0 	: 오 그러시구나 킹덤의 매력은뭔가요
+P0 	: 아무래도 귀여운 캐릭터와 아기자기한 아이템?
+P1 	: 매력...쿠키보는 재미..? 왕국 꾸미기...ㅎㅎ.. 이제는 습관처럼 하는거같어요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ네 그렇죠 아무래돜ㅋㅋㅋ 캐릭이 귀여워서
+P0 	: 어떤 쿠키가 가장  애정이 가나요
+P1 	: 요즘은 바요가 좋아요 머릿결 넘 예뻐섴ㅋㅋㅋ
+P1 	: &name1&은요?
+P0 	: 전 기본맛 쿠키 뭔가 아무것도 없는데 그 당당핳이 너무 귀엽더라구요
+P0 	: 그 아시죠 설탕지팡이 하나밖에 없는데도 용맹무쌍
+P1 	: ㅋㅋㅋㅋㅋㅋ마자여 은근 팬많아요 약간 하찮은게 매력ㅋㅋ
+P0 	: 다들 그 포인트에 빠지나봐요

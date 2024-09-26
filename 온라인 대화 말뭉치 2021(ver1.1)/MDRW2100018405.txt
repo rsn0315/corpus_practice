@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018405
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요?
+P0 	: 혹시 학교 다니세요?
+P1 	: 아니요. 저는 주부예요.학교다녔었죠ㅋ
+P1 	: 학교다니세요?
+P0 	: 아아 그렇군요 아니요 ㅋㅋㅋㅋ졸업한지 꽤됬어요 ㅠ
+P0 	: 학교다니실때 기억에 남는거 있나요?
+P1 	: 음 ㅋㅋ 대학교다닐때는 나름공부열심히하고 봉사활동다니고 알바다니고ㅋㅋ자격증따려고 열심히했던것같아요
+P1 	: 중고등학생때는 신나게놀았죠. ㅋㅋ친구들이랑ㅋ
+P1 	: 학교시절 기억에 남는거있으세요,?
+P0 	: 비슷하네요 ㅋㅋㅋㅋ
+P0 	: 음 그냥 공강때 여유롭게 친구랑 커피마시고 놀던거생각나네요 ㅋㅋㅋㅋ
+P0 	: 동아리 들으셧어요?
+P1 	: 네 봉사동아리요
+P0 	: 아 그렇군요 봉사동아리에는 사람들 많지않아요?
+P1 	: 네 정말많았어요ㅋ
+P1 	: 무슨동아리 들어가셨어요?
+P0 	: ㅋㅋㅋㅋ저는 동아리 안들었어요 ㅠ 나중에 후회돠긴하도라구요
+P0 	: 아는 사람들 많이 만들엇겟네요?
+P1 	: 네네 동아리에서 아는사람많이만들었었어요ㅋ
+P0 	: ㅋㅋㅋㅋ동아리때 친구랑 아직 연락하세요?
+P1 	: 네 친한친구들이라서요ㅋ
+P0 	: 아아 그때사귄친구들이 절친이 되셧나보네요 ㅋㅋㅋㅋ
+P1 	: 네네 자주못봐서 아쉽지만 톡은 매일해요.ㅋ

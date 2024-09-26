@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100000381
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 좋아 하세요?
+P0 	: 그런 트렌드에는 관심이 많은데 쇼핑을 자주 하지는 않는 것 같아요
+P0 	: 쇼핑 좋아하시나요
+P1 	: 아~저도 즐겨하는 편은 아니에요~ㅎㅎ
+P0 	: 예전에는 직구도 많이 했었는데 요즘은 그것도 잘 안하게 되는것 같아요
+P1 	: 직구 한번도 안해봤어요 직구 괜찮나요?
+P0 	: 핫딜같은거 뜨면 저렴하게 살 수 있으니 그런면에서 장점이 확실히 있는 것 같아요
+P1 	: 그렇군요 직구는 왠지 어렵게 느껴져요
+P0 	: 요즘은 크롬 통하면 사이트 언어 번역도 잘 되고 블로그  포스팅 보면 어렵지 않게 할 수 있는것 같아요
+P1 	: 아~그런 방법이 있었네요
+P0 	: 당근 마켓 해 보셨나요?
+P1 	: 네 자주해요
+P0 	: 저는 한번도 안해봐서 궁금하네요
+P1 	: 아~중고거래라고 생각하시면 되요
+P0 	: 네 ~ 요즘은 대부분 다 하더라구요
+P0 	: 좋은 것 같아요
+P1 	: 네~동네니까 가깝고 편해요
+P0 	: 한번도 중고거래는 직거래로 해본적이 없어요 저늬 택배거래만..
+P1 	: 택배가 안올까봐 더 걱정될것 같아묘
+P0 	: 맞아요 택배거래는 리스크가 있죠 ㅠ
+P1 	: 네 맞아요 먹튀ㅠ
+P0 	: 다행히 지금까지는 그런 일이 없었는데 앞으로도 없으리라 보장할 수 없으니 직거래가 좋은거 같아요
+P1 	: 네~다행이네요~!!

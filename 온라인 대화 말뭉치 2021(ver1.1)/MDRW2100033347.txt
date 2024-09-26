@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100033347
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 와
+P0 	: &name3&귀여워
+P1 	: 동물 기르시나요
+P0 	: 강아지 이름 &name3&
+P0 	: 아개웃겨
+P0 	: 네
+P1 	: 저희집 강아지가 웃는게 이쁘긴 해여
+P1 	: 왜 갑자기 웃기세요
+P0 	: 그냐요
+P0 	: 그냥요
+P0 	: 저는 고양이 키워요
+P1 	: 고양이 이름이 먼가요?!
+P0 	: &name4&에요~
+P1 	: 왜 &name4&인가여?
+P0 	: 전 주인이 지어줬어요
+P0 	: 그냥쓰는중...ㅜㅜ
+P1 	: 헐...ㅜㅜ
+P1 	: 이름 바꾼다면 뭐로 바꾸고 싶으신가요
+P0 	: 구름이요!
+P0 	: 몽실몽실~
+P1 	: 고양이 털이 하얀색인가요?
+P0 	: 네!

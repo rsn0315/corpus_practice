@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100003018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+P0 	: 직장인이신가요?
+P1 	: 네 직장인 일개미입니다 ㅎㅎ
+P0 	: 저도..ㅎ 무슨일 하시나요?
+P1 	: 재무쪽 사무직입니다 ㅎㅎ
+P1 	: 인사쪽도 맡고잇구요 오늘이 급여날이었는데 더 헛헛하네요 ㅠㅎㅎ
+P0 	: 와우 재무! 돈 많이 버시겠어요
+P0 	: 열정페이랍니다ㅎ.ㅎ
+P1 	: 머 사무직이라서 .ㅎㅎㅎ
+P1 	: 근데 오늘은 금요일인데도 마음이 무겁네요 ㅠㅠ
+P1 	: 6시 되기 2분전인데 힘내봐야겟어요
+P1 	: &name1&님은 어느쪽 분야에서 근무하시나요?
+P0 	: 복지입니다!
+P0 	: 늘 그렇듯 현장나가는 일이 많아서 고되는데 페이는적어요
+P1 	: 오 복지!!제가 존경하는 분야입니다
+P1 	: 제 사촌언니도 이번에 복지쪽공무원됐다고 해서 엄청 축하해줬어요
+P1 	: 아 현장나가는 일이 많은지는 몰랐었네요!!!
+P0 	: 공무원도 복지는 힘들어요ㅠㅠ
+P0 	: 연탄나르기 같은 현장도 나오고ㅋㅋ
+P0 	: 지역마다 다르긴한데 행정보다 힘든거같아요
+P1 	: 오오~~~~~아 봉사 현장이군요
+P1 	: 저도 연탄나르기 두번정도 봉사활동 해본적 있는데
+P1 	: 다음날 어깨랑 허리가 엄청 쑤시더라구요 ㅎㅎ그래도 뿌듯햇어요
+P0 	: 새벽에 해서 더 힘든거같아요
+P0 	: 겨울철에하니까 얼굴이랑 손도시렵고

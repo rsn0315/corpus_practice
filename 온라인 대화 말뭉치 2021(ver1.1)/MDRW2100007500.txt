@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여 스포츠 좋아하세요!??
+P1 	: 보는 건 좋아해요!
+P0 	: 이번에 올림픽 어떤 종목 재밌게 보셨아요?
+P1 	: 배구랑 배드민턴요
+P0 	: 배구 너무 재밌었죠 ㅠㅠ 저 한일전때부터 봤는데 배구가 너무 재밌어서 팬됐어요 ㅠㅠ
+P1 	: 아 그러시구나!
+P1 	: 어느 팀 응원하세요?
+P0 	: 저는 연고지가 인삼이라서 인삼 응원할까 생각중이에요!!
+P1 	: 좋죠좋죠
+P1 	: 그근처 천안에는 또 남자배구단도 있어요
+P0 	: 이름이 갑자기 생각 안나는데 이름이 뭐였죠??
+P1 	: 현대캐피탈요
+P0 	: 맞아요 맞아요!!! 친구가 직관 갔어서 기억해요!
+P1 	: 배구 직관 너무 재밌어요
+P0 	: 이번에 코보컵 열리잖아요 남자부는 이미 시작했죠?!
+P1 	: 끝났을걸요 저도 남배를 막 챙겨보지는 않아서..
+P0 	: 헉 벌써요? 여자부는 다음주부터 시작이라고 들었는데 일주일만에 끝나는건가요

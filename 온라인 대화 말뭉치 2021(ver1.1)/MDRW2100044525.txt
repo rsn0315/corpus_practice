@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100044525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 야채가 들어가나요?
+P0 	: 국물이 있는 메뉴입니다!
+P0 	: 야채도 들어가요
+P1 	: 김치찌개인가요?
+P0 	: 헉 정답 정답
+P0 	: 되게 빨리 맞추셨어요 짝짝짝
+P1 	: 아 고기로 접근해서 어려웠네요 ㅋㅋㅋ ㅗ
+P0 	: 돼지고기 김치찌개 먹었답니다
+P1 	: 헉 실수예요 ㅠㅠㅠ
+P0 	: ㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 제 메뉴도 맞춰보세요
+P0 	: 좋아요!
+P0 	: 쌀이 들어가나요?
+P1 	: 아뇨!
+P0 	: 그럼 면 요리인가요?
+P1 	: 네 맞아요!
+P0 	: 오오
+P0 	: 그럼 양식인가요?
+P1 	: 아뇨 한식입니다~

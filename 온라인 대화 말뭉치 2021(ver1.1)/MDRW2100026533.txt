@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026533
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 운동 좋아해요ㅎㅎ
+P0 	: 전 홈트
+P1 	: 그러시군요 ㅣㅎㅎ
+P1 	: 운동 자주 하세요?
+P0 	: 매일오
+P1 	: 아하 매일하시는군여 저도 헬스장에서 매일 운동해요!ㅎㅎ
+P0 	: 부지런하시네여
+P1 	: 감사합니당ㅎㅎ
+P1 	: 하기싫은날도 일단 가면 열심히 하게되더라구요!ㅋㅋㅋ
+P0 	: 가면 하죠 ㅋㅋ
+P1 	: 맞아요ㅋㅋㅋ 어쨌든 가면 땀도 좀나고 하다보면 열심히 하더라구용
+P0 	: 동기부여되네여
+P1 	: 구기종목같은 운동하시는건 안좋아하시나요?
+P0 	: 맨손운동이죠
+P1 	: 구기종목운 별로 안좋아하시나보네용ㅎㅎ 저는 농구좋아해요!
+P0 	: 잘 못해요

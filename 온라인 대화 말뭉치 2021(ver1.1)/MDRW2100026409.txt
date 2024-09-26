@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026409
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 예전에 올챙이 데려와서 길렀었는데
+P1 	: 어항 물 갈아주는 것도 번거로운 일이더라구요
+P0 	: 올챙이요? 개구리까지 됐나요?
+P1 	: 네 두 마리는 개구리까지 됐어요~ 실재로 다리 생가고 변하는 거 보니까 너무 신기하더라구요
+P0 	: 신기하군요.. 전 한번도 양서류는 키워본 적이 없답니다
+P1 	: 저도 그 올챙이들이 처음이자 마지막이었네요
+P1 	: 그래도 강아지나 고양이에 비하면 손은 훨씬 덜 가는 것 같아요
+P0 	: 맞아요.. 저희 남편이 키우는 구피 물고기도.. 확실히 돈이 덜가요
+P1 	: 저는 요즘 고양이에도 관심이 생기고 있는데 &name1&은 고양이 좋아하세요?
+P0 	: 고양이는 영상으로만 보고 있어요.. 포유류는 뭐랄까.. 떠나보낼때 너무 맘이 아파요
+P1 	: 그쵸.. 고양이나 강아지나 10살만 돼도 노견 노묘가 된다는게 참 슬프더라구요
+P1 	: 저희 강아지도 심장병으로 무지개다리 건넜는데 한동안 비슷하게 생긴 아이만 봐도 너무 힘들었어요
+P0 	: 물고기는 그정도로 정을 안줘서 그런지 맘이 덜 아프더라구요
+P1 	: 그쵸.. 물고기는 보통 몇년정도 사나요?
+P0 	: 물고기 마다 다른데 일단 구피는 일년반정도 살아요
+P1 	: 저도 여유되면 한번 키워보고 싶네요

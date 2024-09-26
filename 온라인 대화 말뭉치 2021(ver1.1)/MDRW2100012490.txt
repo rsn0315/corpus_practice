@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 대패삼겹살덮밥 해먹었어요!
+P0 	: 헉 너무 맛있는거 드셨네여!
+P1 	: 오랜만에 요리 성공해서 맛있게 먹었어요~ㅎ.ㅎ &name1&은 저녁 뭐 드셨나요?
+P0 	: 저는 깍두기 볶음밥 먹었어요 ㅋㅋㅋ 냉동해놨던거 해동해서 데워먹었습니당
+P1 	: 오,.맛있었겠는걸요?? 내일 점심이 덕분에 정해졌네요~~!
+P0 	: 깍두기 볶음밥이요? 맞아요 그냥 깍두기만 들은건데도 맛있더라구요 ㅠㅠ
+P1 	: 역시 알법한 맛이 더 무서운거 같아요 ㅋㄱㄱㅋ
+P0 	: 맞아요 맞아요 ㅎㅎ 점심은 뭐 드셨나요?
+P1 	: 요리하기 귀찮아서,,.계속 미루고 있었어요 ㅋㅋㅠ
+P0 	: 점심 안드시구요?? ㅠㅠ 지금은 드셨겠죠? 너무 바빠서 이제야 확인했네요
+P1 	: 미루다가 3시에 먹었어요!! ㅎ.ㅎ 저도 지금 확인하네요 ㅋㄱㄱ큐ㅜㅠ
+P0 	: 오 뭐드셨나요~?
+P1 	: 신라면 투움바 해먹었어요!
+P1 	: 처음 해보는데 맛있네요
+P0 	: 오 맞아요 들어봣어요! 저는 전혀 안해먹는데 부지런하시네요 ㅠㅠㅠ

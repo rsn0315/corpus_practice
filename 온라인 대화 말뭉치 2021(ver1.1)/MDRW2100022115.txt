@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022115
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장 다니시나요?
+P1 	: 아뇨 학생이에요
+P0 	: 아르바이트 하는거
+P0 	: 있으세요?
+P1 	: 지금은 없어요
+P1 	: ㅋㅋㅋㅋ &name1& 직장 다니세요?
+P0 	: 음.. 계약직으로 일하긴하는데 프리랜서 개념이라
+P0 	: 직장은 아닌거같아요ㅋㅋ일하긴 해요ㅠ
+P1 	: 아 재택이신가...?
+P1 	: 어떤 일 하세요?
+P0 	: 네네 맞아요ㅋㅋㅋ코시국때문에 강제로..
+P0 	: 영상편집하고 그런거해요ㅎㅎ
+P1 	: 오 영상편집!!! 저 유튜브 많이봐서 편집자분들 너무 멋지다고 생각해요
+P0 	: 저도.......그랬어요.....ㅋㅋㅋㅋㅋ
+P0 	: 멋진 줄.........
+P1 	: ㅌㅋㅋㅋㅋㅋ 아니 멋있어요 편집 진짜 어렵잖아요
+P0 	: 저도 그런줄 알았어요!!!!!!!!!!
+P0 	: 막상 직업이 되니까 스트레스가 장난아니에요ㅠ

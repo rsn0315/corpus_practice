@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100010681
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 저녁은 뭐 드셨어요?
+P0 	: 전 라면이여
+P1 	: 전 지금 먹었어요 김치비빔소면이라고 해야하나요?
+P0 	: 아 군침도네요
+P1 	: 냉면 육수 사서 그거 하나 넣어서 먹으면 더더 맛나요 ㅎ
+P0 	: 왜케 맛난건 많을까요ㅠ
+P1 	: 혹시 근처에 코스트코 있나요?
+P0 	: 네 있어용
+P1 	: 이번주에 메일소바 세일하는데 이것도 맛나요 ㅎ
+P0 	: 아 소바ㅠ
+P1 	: 좋아하시나요?
+P0 	: 면요리는 다 사랑{emoji:♡}

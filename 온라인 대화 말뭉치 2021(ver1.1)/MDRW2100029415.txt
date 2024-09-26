@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100029415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요ㅌ?
+P1 	: 중고거래 종종 해요
+P0 	: 전 당근
+P1 	: 중고나라 가끔하고 당근 가끔해요ㅋ
+P0 	: 동네라서
+P1 	: 맞아요 당근은 거래하기 편해요
+P0 	: 빠르죠
+P1 	: 최근 구매 물건 있으세요?
+P0 	: 팔기만요
+P1 	: 전 자전거요
+P1 	: 팔때도 있구
+P0 	: 비싸죠?
+P1 	: 네 필요한건 비싸게 팔아요ㅜ
+P0 	: 맞아요

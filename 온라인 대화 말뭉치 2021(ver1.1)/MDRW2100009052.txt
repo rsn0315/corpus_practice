@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨나요
+P1 	: 네 저녁은 먹었습니다!
+P0 	: 뭐 드셨어요?
+P1 	: 저 돼지고기랑 버섯 구운 거..? 대충 먹었습니다..ㅎㅎ
+P0 	: 오 고기 맛있겠어요
+P1 	: 넵 맛있었습니다
+P1 	: &name1&님은 뭐 드셨어요?
+P0 	: 저는 짜파게티요!
+P1 	: 오 짜파게티 맛있었겠네요..
+P0 	: 네 일요일이니까요
+P1 	: 아 혹시 그 짜파게티 광고..?
+P0 	: 네ㅋㅋ야식 먹을까 고민이네요
+P1 	: 늦게 주무실 거면 먹으셔도 되지 않을까요?
+P1 	: 2-3시쯤 자는거면 먹어도 될 것 같아요
+P0 	: 내일 야간근무라 사실ㅎㅎ
+P1 	: 아 그럼 드셔도 상관 없을 것 같은데요..?
+P1 	: 야간 근무면...

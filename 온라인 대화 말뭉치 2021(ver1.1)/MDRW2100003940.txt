@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003940
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 알바를 구해야하나 말아야하나 고민이에요
+P1 	: 무슨 알바 생각하세요?
+P0 	: 단기로할수있는걸 하고싶어요
+P0 	: 시간뺏기고싶지않아서리
+P1 	: 오~ 다른 일 하시면서 알바 알아보시는 거에요??
+P0 	: 취준생인데 돈이떨어져서요.. ㅠㅜㅠㅜㅋㅋ
+P1 	: 아...ㅠ 그럼 취업 준비하시면서 알바 구하고 계신거에요??
+P0 	: 취준하면서 알바공고 한번씩 보고있어요..ㅠㅠ
+P1 	: 요즘에 알바 구하는 것도 쉽지 않다던데..ㅠㅠ
+P1 	: 괜찮은 알바자리 있나요??
+P0 	: 없더라고요ㅠㅠ자리가안나요
+P0 	: 단기알바도 배민커넥트이런것만잔뜩
+P1 	: 아~ 요즘에 배민커넥트 많이 하던데...그건 힘드니까..ㅠㅠ
+P0 	: 그쳐..그건너무힘들어요
+P0 	: 그래서 아직 뭣도안하고있긴해용ㅠ
+P1 	: 그 전에 어떤 알바 해보셨어요?
+P0 	: 빵집알바했어요
+P0 	: 하나를 좀길게했네요..
+P1 	: 아! 그거는 파트타임으로.. 안 구하는가 보네요..
+P0 	: 집근처엔 요새 일자리가 없더라고요

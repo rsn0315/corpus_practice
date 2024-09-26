@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임 좋아하세요?
+P1 	: 많이는 아니지만 조금씩하는거 좋아해요 ㅎㅎ
+P0 	: 가장 최근에 하신 게임이 뭔가요?
+P1 	: 저 쿠키런 오븐이요 ㅎㅎ &name1&은 무슨 게임하세요?
+P0 	: 저는 오버워치요! 혹시 아시나요?
+P1 	: 네ㅋㅋㅋㅋ 전에 친구가 고급시계라면서 하는거봤어요ㅋㅋㅋ
+P0 	: 쿠키런 킹덤은 안하시나요?
+P1 	: 킹덤했는데 접었어요ㅠㅠ 저한텐 안 맞더라구요... 넘 자주 들어가야해서 ㅎㅎ 킹덤해보셨나요?
+P0 	: 전 친구가 한것만 봤어요! 한번 빠지면 못 나올거같아서ㅎㅎ... 리듬게임은 안좋아하세요?
+P1 	: 리듬 게임도 했어요! 저 알투비트 좋아했는데 모르실 수 있어요 지금은 사라진.... 뱅드림도 좀 했었어요!
+P0 	: 뱅드림 안사라졌어요ㅠㅠ 저 지금도 하고있답니다!!!
+P1 	: 앗 알투비투가 사라져서ㅠㅠ 뱅드림은 있는거 알아요ㅎㅎ 새 밴드도 나온거 봤어요
+P0 	: 와! 뱅드림 하실 때 최애 누구였어요?
+P1 	: 전 최애보다 로젤리아랑 헬로해피 밴드좋았어요
+P0 	: 안목좋으시네요!!

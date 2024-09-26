@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002780
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 요새 운동하고계시나요?
+P1 	: 1만보걷기 운동 하고 있어요
+P0 	: 와 대단하시네요 은근어렵던데ㅜㅜ
+P1 	: 안그래도 운동 제대로 못하고 있는데 그거라도 열심히 하고 있어요ㅠㅠ
+P1 	: 코로나 끝나면 등산부터 하고 싶어요
+P0 	: 등산좋아하세요?
+P1 	: 네 등산 좋아해요
+P1 	: 그거라도 해야지 운동한 느낌이 들거든요
+P0 	: 마스크쓰고 등산하시는분들 많더라구요
+P1 	: 맞아요 그렇게 할수도 있는데 숨이 너무 차서ㅜㅜ혹시나 해서 코로나가 걱정되가지구 잘 안가게 되더라구요
+P0 	: 저도 거의 외출삼가고그러는데 너무안움직여서 살이찌더라구요ㅜㅜ 걷기만해도 다이어트될까요?
+P1 	: 일단 걷기도 유산소 운동이니깐 운동은 될꺼에요
+P1 	: 다이어트로도 가능해요
+P0 	: 식단조절도 해야겠죠?ㅜㅜ
+P1 	: 다이어트한다면 식단도 조절해야될것같아요ㅠㅠ

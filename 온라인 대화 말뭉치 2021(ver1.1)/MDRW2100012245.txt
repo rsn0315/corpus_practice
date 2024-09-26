@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012245
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 가끔하는 건 좋지만 자주가는 건 별로 좋아하지않아요 집을 워낙 좋아해서요 ㅎㅎ
+P1 	: 여행 좋아하세요?
+P0 	: 네 돌아다니는거
+P1 	: 기억에 남는 여행지 있으신가요?
+P0 	: 호주요
+P1 	: 좋은 곳 가셨네요!
+P1 	: 거기서 뭐 드셨어요??
+P0 	: 음식보다 풍경에
+P1 	: 아 그럼 기억에 남는 장소 있었나요?
+P0 	: 오페라하우스봤어요
+P1 	: 날씨 좋을때 가셨나요?
+P1 	: 오페라하우스가 하얘서 날씨 좋으면 진짜 예쁠 것 같아요
+P0 	: 네 좋았어요
+P1 	: 사진은 많이 찍으셨나요?
+P0 	: 네 많이요

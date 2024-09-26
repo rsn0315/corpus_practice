@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100044033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 공연본지가언제고
+P0 	: 어린이박물관 관람갈까
+P0 	: 공연은 명성황후
+P1 	: 어린이박물관가자
+P0 	: 그런거나관람해야지
+P1 	: 예약해야되제
+P0 	: 이제 공연은 안녕
+P1 	: 박물관도예약제라
+P0 	: 예약해야지
+P1 	: 무조건사전예약이다
+P0 	: 관람도어렵다
+P1 	: 이따가예약하자
+P0 	: 무료관람인데

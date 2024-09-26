@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 드셨나요?
+P0 	: 아니요.. 아직이요.. 먹응까말까 고민중.. ㅋㅋ
+P0 	: 뭐 드세여?
+P1 	: 전 비빔면 먹었어요 ㅋㅋ
+P1 	: 뭐 좋아하시나요 음식?
+P0 	: 튀김류 고기류요... 
+	  고기를 튀기면 두배더 좋구요.. ㅋㅋㅋ
+P1 	: 도....돈까스?
+P0 	: 돈까스 치킨 탕수육 깐풍기.. ㅋㅋㅋ
+P0 	: 고기랑 튀김 조합은 그저 신이됴..
+P1 	: 전 고기는 구은게 좋아요 ㅋㅋㅋㅋ
+P1 	: 튀김이라면 치킨이 최고
+P0 	: 사파시네요... ㅋㅋㅋ 정통파는 무조건 튀기는데..
+P0 	: 치킨은 후라이드? 양념?
+P1 	: 전 후라이드요 ㅋㅋㅋㅋ 뭐든지 바사삭이 좋아요 ㅋㅋ
+P0 	: 아.. 그럼 탕슉도 찍이시겟네요?
+P1 	: 네 ㅋㅋㅋㅋ
+P1 	: 부먹이세요?
+P0 	: 그럼여.. 원래 탕슉이란 요리가.. 양념에 볶아내는..

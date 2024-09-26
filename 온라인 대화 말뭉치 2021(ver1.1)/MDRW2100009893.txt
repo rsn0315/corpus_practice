@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100009893
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심메뉴 뭔가요?
+P1 	: 저는 떡볶이 먹으려고요
+P1 	: &name1&님은요?
+P0 	: 떡볶이 맛있겠다 저는 초밥이요
+P0 	: 떡볶이 배달시켜드시나요
+P1 	: 아마 조리해서 먹을 것 같아요
+P1 	: 초밥은 배달시켜 드시나요?
+P0 	: 네 상무초밥 배달시키려구요
+P0 	: 어떤 스타일의 떡볶이를 만들어드시나요
+P1 	: 전 로제떡볶이 먹으려구요
+P0 	: 맛있겠다
+P0 	: 추가하는 재료있으신가요
+P1 	: 요즘 소스가 잘 나와서 조리만 하면 맛있어요ㅋㅋ
+P0 	: 떡볶이에 계란넣으시나요
+P1 	: 있으면 넣는데 안넣을 때가 더 많아요
+P1 	: 상무초밥은 프랜차이즌가요?
+P0 	: 네 프랜차이즈에요
+P1 	: 어떤 초밥 제일 좋아하세요?
+P0 	: 새우초밥 좋아해요
+P0 	: 새우가 가장맛있더라구요
+P0 	: 새우는 다 좋아해요

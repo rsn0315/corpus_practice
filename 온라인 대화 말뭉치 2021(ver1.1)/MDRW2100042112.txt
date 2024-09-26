@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100042112
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용 &name2&님
+P1 	: 안녕하세요
+P0 	: 저녁 식사 하셨나요?
+P1 	: 넹
+P1 	: &name1&님은여
+P0 	: 저 스파게티 먹었어요 &name2&님은 뭐 드셨어요?
+P1 	: 저는 족발이요
+P1 	: 스파게티는 크림이였나요 토마토였나요?
+P0 	: 토마토 먹었습니다 ㅎㅎㅎ 족발 맛있으셨나요? 사이드도 있어요?
+P1 	: 하고 주먹밥이요!
+P0 	: 오 쪼물쪼물해서 먹는거요? 아니면 아예 만들어져 오기도 하나요?
+P1 	: 직접 뭉쳐서 먹는거에용
+P0 	: 요즘은 다 그렇게 오나봐요 그럼 왜 이름이 주먹밥 일까 생각해본적 있어요ㅋㅋㅋㅋ 만들어먹는 주먹밥 이런것도 괜찮지 않아요?
+P1 	: 만들어먹는 주먹밥도 괜찮죠!
+P0 	: 그쵸ㅋㅋㅋㅋ 암튼 족발 맛있으셨나요!!
+P1 	: 맛있었습니다!
+P0 	: 일반 족발이었나요?
+P0 	: 아니면 매운족발?
+P1 	: 매운족발이요!

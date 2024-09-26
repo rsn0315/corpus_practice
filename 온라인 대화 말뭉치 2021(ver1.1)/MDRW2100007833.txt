@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007833
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 구매하신거 있으세요?
+P1 	: 안녕하세요 최근에 동물의숲 이라는 게임을 중고로 구매했어요
+P0 	: 아 닌텐도 맞죠? ㅎㅎ재밌다고 들었어요 저도 한번 해보고 싶은데 왠지 진입장벽이 있어보여서ㅋㅋ
+P1 	: 네 닌텐도스위치 게임이예요!
+P1 	: 게임 안좋아하시는 분도 무난히 할수있을만한? 게임인데 조금 지루하실순있어요
+P1 	: &name1&님은 최근에 구매하신거 있나요?
+P0 	: 아 저도 한번 구매해봐야겠어요ㅎㅎ 저는 가을옷 샀어요ㅋㅋ
+P1 	: 이번 장마?만 그치면 가을이니까 딱이네요 겉옷사셨어요?
+P0 	: 네 코트랑 가디건인데ㅋㅋ 금방 겨울올까봐ㅜㅜ많이 입어야하는데ㅋㅋ
+P1 	: 가을 제발 길었으면!
+P0 	: 맞아요ㅠㅠㅠ가을에 자전거도 타려고 자전거도 보고있거든요ㅋㅋ
+P1 	: 매년 너무 짧아서... 이때다싶을때 안입으면 못입잖아요ㅠ
+P0 	: 네 겨울이 너무 빨리와서 패딩으로ㅠㅠ
+P1 	: 자전거도 보시는구나! 자전거는 은근 중고로 많이 나오던데 중고도 보시나요?
+P0 	: 네 당근으로 보고있어요ㅋㅋ

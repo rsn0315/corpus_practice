@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035664
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 운동하는 거 있으세요?
+P1 	: 전 헬스합니다 !
+P0 	: 오 저도 하고 싶어요
+P1 	: ㅎㅎ 운동하시나요?
+P0 	: 저는 홈트 조금해요ㅋㅋ
+P0 	: 헬스한지 얼마나 되셨어요?
+P1 	: 한 1-2년밖에 안했어요 ㅎㅎ !
+P0 	: 오래하셨는데요? 몸에 근육 많아지셨겠어요!
+P1 	: 아직 헬린이지만 ㅋㅋㅋ 근육은 전보다 늘었어요 !
+P0 	: 부러워요 저도 홈트 하다보면 전보다 근육 좀 붙은게 느껴질 때마다 뿌듯한데 1~2년 하셨으면 많이 느셨을 것 같아요ㅋㅋㅋ
+P1 	: ㅎㅎ 근데 저는 홈트하시는분들이 더 대단해요 !!
+P1 	: 집에서 그 운동하시는 의지와
+P1 	: 홈트는 아령? 위주로 하는데 근육이 느는게 넘 존경스러워요 ㅋㅋㅋ !
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ원래 0에서 시작해서 0.1씩 붙는거죠ㅋㅋ
+P1 	: 얼마나 느셨나요 ㅎㅎ ?
+P0 	: 오늘 bmi 재보려고요!

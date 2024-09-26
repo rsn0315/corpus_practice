@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009665
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 기숙사 살아본 적 있어?
+P1 	: 응 살아본적 있어
+P0 	: 기숙사 살때 어땠어?
+P1 	: 기숙사 사는 다른 친구들이 있어서 재밌었어
+P0 	: 그렇구나 힘든 점은 없었어?
+P1 	: 힘든점도 있긴 했지
+P0 	: 맞아 나도 살았었는데 청소하는게 힘들었어
+P1 	: 너도 살았었구나
+P0 	: 응응 1년 살았었어
+P0 	: 몇명이서 같이 살았어?
+P1 	: 나 포함 2명이었어
+P1 	: 넌 몇명이랑 같이 살았어?
+P0 	: 나도 두명이었어!!
+P0 	: 요즘에는 두명이 많이 사는 것 같아
+P1 	: 아무래도 4명은 너무 많으니까
+P0 	: 맞아 4명은 너무 불편할 것 같아

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003423
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 영화 좋아하세요?
+P1 	: 네 종종 보러가요ㅎ
+P0 	: 어떤영화 제일 좋아하세요?
+P1 	: 전 범죄스릴러나 로맨스
+P1 	: 잔인한것도 좋아하고ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 저는 음악관련 영화나 애니메이션영화 좋아해요
+P0 	: 보헤미안랩소디나 로켓맨같은거
+P1 	: 아 보헤미안랩소디 재밌게봤어요
+P0 	: 좋아하는 노래는 뭐에요?
+P1 	: 다양하게 다좋아하는데 발라드나 아이돌 노래 들어요ㅎ
+P1 	: 그냥 인기차트 들어요
+P0 	: 유튜브로는 뭐보세요?
+P1 	: 전 주로 티비시청이요ㅎ 유튜브 많이보시나요?
+P1 	: 예전엔 펭수 본다고 가끔 들어갔는데ㅋ
+P0 	: 저는 무한도전 다시보기만 주로 보는거같아요
+P1 	: 놀면뭐하니 재밌는데
+P1 	: 이번에 msg나온거요
+P0 	: 가끔 티비돌리다가 보는거같아요
+P1 	: 요즘 티비도 잼난거 많이해요 케이블도 많고

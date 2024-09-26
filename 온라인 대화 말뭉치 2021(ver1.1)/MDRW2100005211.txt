@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 팀플 없었으면 좋겠다
+P0 	: 제발
+P1 	: 사회악이야
+P0 	: 원수 만나기 싫어
+P1 	: 절대 안 되지
+P1 	: 공지도 빨리 주셨으면 좋겠다
+P0 	: 융사는 팀플 있잖아
+P0 	: 최악이야
+P1 	: 아 진짜?
+P1 	: 오노~
+P0 	: 하하하! 죽겠어요.
+P1 	: 우리 교수님은 따로 없었음
+P0 	: 오엥
+P0 	: 어떤 교수님이었어?
+P1 	: &name3&교수님
+P0 	: 아하...
+P0 	: 부럼다
+P0 	: ㅋ
+P1 	: 마지막에 짝이랑 리포트 점검해주는 거 말고는 없었음

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요,  스포츠 경기 좋아하시나요?
+P1 	: 네 좋아합니다 야구요 ㅎㅎ
+P0 	: 직관도 자주 가시나요?
+P1 	: 요즘은 못가구
+P1 	: 예전엔 가끔 갔어요
+P0 	: 코로나 때문이죠...ㅠ 응원하시는 팀이 있으신가요?
+P1 	: 전 ssg요
+P0 	: 이번 올림픽 야구팀에도 그 팀 선수분이 있었나여?
+P1 	: 음 있었는데
+P1 	: 부상당해서
+P1 	: 못나왔....
+P0 	: 아이고 부상....ㅠㅠ 시즌 아웃까진 아니시죠??
+P1 	: 지금은 뛰고있어요
+P0 	: 야구는 벌써 시즌 시작인가여?
+P1 	: 이미 시작한지 오래됐져 ㅎ
+P0 	: 그럼 시즌 중에 추출되어 올림픽을 나간거네요...
+P1 	: 네 마자요
+P1 	: 그래서 야구 시즌 3주 쉬었죠

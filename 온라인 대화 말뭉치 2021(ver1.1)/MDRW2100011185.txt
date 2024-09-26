@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 출근 잘하셨나요
+P1 	: 날씨 어떤가요 ㅎㅎ
+P0 	: 네 아침출근길에 비살짝오던데
+P0 	: 많이는 안오더라구요
+P0 	: 퇴근길은 어떠셨나요ㅎ
+P1 	: ㅎㅎ 아직 침실이에요
+P1 	: 이제 짐 싸서 가려구요
+P0 	: 아 이제퇴근이군요ㅎ 피곤하시겠어요
+P0 	: 비많이오나요?거긴?
+P1 	: 조금씩 내리기 시작했어요 ㅎㅎ
+P1 	: 거기는요?
+P0 	: 여기도 조금오는거같아요
+P0 	: 태풍온다는데 여긴 영향없나봐요
+P1 	: 어우 꽤 오는데요ㅎㅎ
+P0 	: 네 밥먹고오니 많이오네요ㅎ
+P1 	: 밑에 지방은 심하다던데ㅠ
+P0 	: 수원도 좀많이온대요
+P0 	: 태풍지나간건지 오고있는건지
+P1 	: 지금 비행기도 결항이고 난리네요
+P0 	: 아 그래요? 제주도 뱅기 끊어달래서 담주끊었는데
+P1 	: 다음주에는 진정되지 않을까요 ㅎㅎ
+P0 	: 날씨보고 끊으라한거니 괜찮겠죠

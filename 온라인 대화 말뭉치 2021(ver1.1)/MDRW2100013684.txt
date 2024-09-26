@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013684
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교가 어떻게되셔요
+P1 	: 전 무신론자요 &name1&님은요?
+P0 	: 교회다녔는데 코로나때문에 못가고있지요
+P1 	: 아 맞아요
+P1 	: 이시국이라 예배는 안하는게 좋은거같아요
+P0 	: 네
+P1 	: 종교행사많이 하세요?
+P0 	: 아뇨 걍 무늬만 교회다녔지 열심히는 안했어요
+P1 	: 아 주위에 교회다니는 동기는 장기자랑도 나가더라고요
+P0 	: 맞아요 활동 많이하는분들도 있어요
+P1 	: 태어날때부터 교회였나요??
+P1 	: 집안이 다??
+P0 	: 네
+P1 	: 아 주위에 그런경우 많더라고요
+P0 	: 여러가지 종교중 어떤종교를 가장 선호하시나요.
+P0 	: 거부감드는 종교는 없는지 궁금해요
+P1 	: 전 불교요
+P1 	: 절이 마음이 편하더라고요

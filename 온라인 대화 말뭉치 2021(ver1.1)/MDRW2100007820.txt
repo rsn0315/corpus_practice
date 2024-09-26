@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100007820
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 네 여행 좋아하는데 해외못가는게 아쉽네요
+P0 	: 여행 좋아하세요?
+P1 	: 저도 마찬가지에요
+P1 	: 해외여행ㅠㅠ
+P0 	: 올해 계획이 있었는데  겨울에도 힘들거같네요
+P1 	: 그러게요 아무래도ㅠㅠ
+P0 	: 이럴줄알았으면 자주가는건데 미루다가 ㅠㅠ
+P1 	: 저도 작년 2월에 여행가려다가 안했는데ㅠ
+P0 	: 저도 계획이 전부 정해져있었는데 너무 아까워요ㅠㅠ
+P1 	: 아쉬운대로 국내라도....
+P0 	: 제주도가고싶어서 생각중이에요ㅎㅎ
+P1 	: 제주도도 사람 많을거 같아요
+P0 	: 그러게요ㅠㅠ

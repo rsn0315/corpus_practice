@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025727
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 경기를 보신적이 있나요?
+P1 	: 전엔 야구장가서 보곤했어요!
+P0 	: 오 그렇군요!
+P0 	: 티켓 예약을 하시고 보신건가요?
+P1 	: 한참갈땐 같이가던 언니가 예매했었어요!!
+P0 	: 그렇군요~ 저도 나중에 직관을 하고 싶은데 예매가 어려운가 해서요
+P1 	: 아ㅜㅠ 요새는모르겟어요 너무옛날일이라ㅠㅠ
+P0 	: 아하! 나중에 한 번 직접 해봐야겠어요 알려주셔서 감사해요
+P0 	: 최근에는 직관말고 영상으로 보신적있으시나요?
+P1 	: 올림픽때보고 ㅋㅋ 요새는 프로야구능안보네요ㅠ
+P0 	: 저도 올림픽때 집중해서 봤던것 같아요!
+P0 	: 저는 이번 올림픽에서 배구를 재미있게 봤어요
+P0 	: &name2&은 올림픽때 어떤 경기를 보셨나요?
+P1 	: 펜싱이랑 배구랑 양궁이랑 본거같네요!
+P0 	: 오! 저도 세개를 모두 봤어요 가장 기억에 남으시는 장면이 있으신가요?
+P0 	: 저는 양궁선수의 가자아아아 하는 외침이 아직도 기억에 남아요 ㅎㅎ
+P1 	: ㅎㅎ 맞아요! 여자배구선수들도 멋있엇죠!
+P0 	: 맞아요~ 김연경 선수의 서브도 생각하면 아직도 짜릿해요!

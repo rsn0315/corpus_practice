@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 저희집은 일주일에 10개입이 배달이 오고
+P0 	: 네.
+P1 	: 가끔 부족할때 30개입 한 판을 따로 구매하곤해요
+P0 	: 오.. 그렇군요. 요줌 미국산 계란도 판매한다던데
+	  &name2&님은 어떻게 생각하세요?
+P1 	: 음..미국산 계란 얘기는 아직 들어보지 못 했는데, 저는 일단 구매할 때 국산계란을 선호할 듯 해요
+P0 	: 오. 그러시군요. 신토불이세요?
+P1 	: 음..무조건적으로 신토불이는 아니구요
+	  선호하는편이죠
+P0 	: 그러몬 소고기 호주산 드세요?
+P1 	: 소고기는 잘 안 먹는 편인데, 먹게 되면 그 때 그 때 다른 선택을 하곤 해요
+P0 	: 그러면 선택지가 좁을때 먹게되나보네요
+P1 	: 마트 갔다가 급 사오기 전에는 사실 소고기 안 먹긴 해요
+P0 	: 고기 중에 뭐가 제일 좋으세여?
+P1 	: 일년에 1~2번 정도이지 않을까 싶은터라..
+P0 	: 몰랐네요..
+P0 	: 많이안드시는군요

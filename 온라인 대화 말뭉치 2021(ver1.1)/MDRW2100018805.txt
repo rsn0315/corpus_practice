@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~ 거긴날씨가 어떤가용
+P0 	: 여기는 적당히 선선합니당 딱 좋아요
+P0 	: 거긴 어떠신가요?
+P1 	: 저도! 습도만 좀 낮으면 최골텐데
+P1 	: 그래두시원해용
+P0 	: 아 맞아요 ㅠㅠ 저도 습도 때문에 어제밤에 잠깐 에어컨 틀었어요
+P0 	: 요즘은 옷을 뭐입어야할지 모르겠네요
+P1 	: 저도! 제습으로 ㅠ
+P1 	: 오늘은 머입으샸어용?
+P0 	: 저 반팔에 슬랙스 입었어요!
+P1 	: 쌀쌀하진 않으신가용
+P1 	: 저도 이제나가야하는데 ㅋㅋ
+P0 	: 두께있는 반팔시라 괜찮은거 같아요ㅋㅋㅋㅋ
+P0 	: &name2&님은 뭐입으실건가요?
+P1 	: 아항 긴팔은 뭔가 아직 습도때문에 더운거같긴해요
+P1 	: 저도 두꺼운 반팔 입어야겠네요 ㅋㅋㅋ
+P0 	: 맞아요 ㅠㅠ 담달엔 입을 수 있으려나
+P0 	: 곧 가을이네요
+P1 	: 담달은 충분할듯요!
+P1 	: 그니까요ㅠㅠ날씨보면 지금도 가을 ㅋㅋㅋ
+P0 	: 가을되면 이번엔 단풍놀이 가보려구요ㅋㅋㅋㅋ
+P0 	: 황매산에 갈거예요 벌써부터 정해둠,,
+P1 	: 허걱 거기가 좋나용

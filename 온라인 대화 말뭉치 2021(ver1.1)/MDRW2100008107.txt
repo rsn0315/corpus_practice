@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008107
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 중고거래는 잘 안하고 인터넷쇼핑 좋아해요
+P0 	: 머사요?
+P1 	: 주로 먹는거 많이 주문해요.
+P1 	: 인터넷쇼핑 많이 하시나요?
+P0 	: 옥션이뇨
+P0 	: 스마일클럽이에요
+P1 	: 오 스마일클럽 한번도 안써봤는데 뭐하는 쇼핑몰이에요?
+P0 	: 옥션 회원제요
+P1 	: 아하 저는 요즘 쿠팡만 주로 쓰고있어요
+P0 	: 쿠팡싸죠?
+P1 	: 넹 가격도 저렴하고 배송도 빨라서 쓰게 되더라고요
+P0 	: 배송이 좋더라구요
+P1 	: 배송비 걱정 안하는게 특히 좋아요
+P0 	: 포장도 안해도 되고

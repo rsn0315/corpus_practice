@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 뭐 사고싶은거 있으세요?
+P1 	: 요즘은 가을 옷이랑 신발이요ㅎㅎ
+P0 	: 옷사는데 한달에 얼마정도 쓰세요?
+P1 	: 편차가 심한데 2-30정도?
+P0 	: 신발은 어느신발 좋아하세요?
+P1 	: 저 컨버스 하이 좋아해요ㅎㅎ
+P0 	: 스마트폰은 뭐쓰세요?
+P1 	: 노트20 울트라요ㅎㅎ
+P0 	: 언제 사셨어요?
+P1 	: 석달 정도 된거같아요 님은 폰 뭐 쓰세요?
+P0 	: 저는 v20써요
+P0 	: 조만간 바꾸긴 해야하는데..
+P1 	: 요즘 z플립3  이쁘더라구요ㅎㅎ
+P0 	: 근데 너무 비싸서 부담스러운거같아요
+P1 	: z플립3 공시 지원금 많이 준다던데 그것도 비싼요금 써야 하는 조건이 붙겠죠?ㅠㅠ

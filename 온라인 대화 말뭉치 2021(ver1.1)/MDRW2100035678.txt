@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100035678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 저녁 드셨나요?
+P0 	: 네 &name2&님도 드셨나요?
+P1 	: 그럼요ㅎ 메뉴가 뭐였나요
+P0 	: 저는 어묵볶음이요 &name2&님은 뭐 드셨나요?
+P1 	: 저는 어죽먹었어요
+P1 	: 직접 하신 건가요?
+P0 	: 아니요 집에 있는거 먹었어요
+P0 	: 어죽은 직접 만드신건가요?
+P1 	: 아ㅎ 당연히... 배달시켰죠
+P1 	: 요리 잘하세요?
+P0 	: 제가 먹을 수 있을 정도만 해요
+P0 	: &name2&님은요?
+P1 	: 저에게 요리는 허락되지 않았어요ㅎ
+P1 	: 파괴신임
+P1 	: 주장기 요리가 뭔가요?
+P0 	: 저도 냉동음식 조리하거나 밀키트 정도 만드신거예요 그나마 잘하는 요리라면 김치찌개정도?
+P1 	: 헉 김치찌개라니
+P1 	: 고수인데요 충분히ㄷㄷㄷ
+P1 	: 김치찌개엔 고기? 참치? 뭐 넣으셔요?
+P0 	: 저는 그냥 고기 넣는거 좋아해요ㅋㅋ

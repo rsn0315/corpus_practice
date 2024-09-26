@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 고민중이예요!  뭐 배달시킬지ㅎㅎ  &name1&님은 저녁뭐드세용?
+P0 	: 저는 오늘은 간단하게 된장찌개나 해볼까 생각중이에요
+P1 	: 요리 잘하세요?*_*~?
+P0 	: 아니요~잘 못 해요~네이버 찬스로 만들어요
+P1 	: 와 그래도 시도해보려는 부지런함 ..bb   저는 진짜똥손이라서 주로 설거지 담당하거든요...ㅋㅋㅋㅋㅋ
+P0 	: 근데 매번 메뉴 돌려막기해욯 ㅎㅎㅎ
+P1 	: ㅋㅋㅋ돌려막기도 나쁘지않은거 같아요! ㅎㅇㅎ 제일잘하시는요리 뭔지 여쭤봐도될까요?ㅎㅎ
+P0 	: 아~저는 잘하는지 모르겠는데 김밥 만들어 먹는거 요즘에 자주해요
+P1 	: 와 김밥을!!  재료준비 안귀찮으신가요? ㅇㅁㅇ
+P0 	: 네~몇번하니까 괜찮더라고요~ㅎ
+P1 	: 와bb  최고예요ㅋㅋ 제친구도 김밥생각보다안힘드니 만들어보라고 추천하던데..ㅋㅋㅋ
+P0 	: 네~ 사먹는거는 왠지 질려버렸어요
+P1 	: 그렇게 느끼기 시작하면 진짜 다들 만들어 먹더라구요 !   그래서 신기해하고 저는 ..ㅎㅎ
+P0 	: 네~ 만들어 먹으면 확실히 맛있어요

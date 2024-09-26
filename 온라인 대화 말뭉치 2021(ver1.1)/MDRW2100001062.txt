@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100001062
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210722
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 요즘 방학 하셨죠?
+P1 	: 네
+P1 	: &name1&님은 열공의 &name1&인가요?ㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋㅋㅋㅋ 그런 의미도 내포하고 있습니다!
+P0 	: 이제 공부 열심히 해야죠!
+P1 	: 헉공부잘하시나요
+P0 	: 잘하는건 아니고ㅠㅠ 너무 어중한 해서 지금부터라도 열심히 해서 성적 올리려고 해요
+P1 	: 화이팅!
+P1 	: 전공부 잘못해옄ㅋㅋ
+P0 	: 앟ㅋㅋㅋ 앞으로 열심히 하면 되죠!
+P1 	: ㅋㅋ포기했어요
+P0 	: 에이 벌써 포기하면 어떡해요
+P1 	: 공부말고다른길로가면돼죠!ㅋㅋ
+P0 	: 오 어떤거 관심있어요?
+P1 	: 예체능쪽에 관심있어!

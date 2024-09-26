@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :) 좋은 아침입니다!
+P0 	: 네 안녕하세요
+P0 	: 좋은아침입니다
+P1 	: 네! 오늘 하루도 화이팅입니다..!
+P1 	: &name1&님은 취미가 어떻게 되시나요??
+P0 	: 저 자전거타기요 ㅎㅎ
+P1 	: 오오 그렇군요..! 그러면 자전거 코스도 타고 그러시나요??
+P0 	: 코스는 힘들어서 주변 산책하듯이 타고다닙니다~
+P1 	: 그렇군요 ㅎㅎ 요즘 운동할 겸 자전거를 타볼까 생각중인데..!
+P1 	: 자전거타면 운동에 도움이 될까요?ㅎㅎ
+P0 	: 꾸준히 타시면 운동효과 있으실꺼에요 ㅎㅎ
+P1 	: 운동팁 감사합니다 ㅎㅎ 그러면 &name1&님은 보통 한 번 탈 때 몇 분 정도 자전거 타시나요~?
+P0 	: 음 컨디션 좋을때 1시간 별루면 30분정도 타는거같아요
+P1 	: 와 오래 타시는 것 같아요..! 저도 운동할 겸 자전거 다시 타봐야겠어요 ㅎㅎ

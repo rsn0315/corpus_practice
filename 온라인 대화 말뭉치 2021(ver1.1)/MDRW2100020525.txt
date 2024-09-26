@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100020525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연애중이신가요?
+P1 	: 아니요ㅎㅎ 전 없네용 연애중이신가요?
+P0 	: 네 전 연애중이요~
+P0 	: 소개팅은 자주 하세요?
+P1 	: 아뇨아뇨ㅎㅎ 소개팅은 너무 어색해서 잘 못하겠더라구용ㅋㄱㅋ
+P1 	: 옹 지금 만나시는분이랑은 어떻게 만나셨나용?
+P0 	: 소개팅이요 ㅎㅎㅎ
+P0 	: 소개팅아니면 만날 기회가 없어요ㅜㅜ
+P0 	: 자만추불가
+P1 	: 앜ㅋㅋㅋㅋ확실히 학교졸업하고 사회에 나가면 자만추가 점점 힘들어지긴 하는것같아요ㅠㅜㅠ
+P1 	: 흑흑
+P0 	: 네 많이 힘들어요
+P0 	: 게다가 코로나ㅜㅜ
+P1 	: 으아 그쵸 근데 또 요즘은 어플로도 만나더라고요?ㅋㅋㄱㅋ
+P1 	: 신기했어요ㅋㅋㅋ
+P0 	: 근데 어플은 위험부담이 있어서ㅜㅜ
+P0 	: 소개팅도 위험부담  있긴하지만 ㅋㅋㅋ
+P1 	: ㅋㅋㄱㅋㅋㅋㅋ맞아요
+P1 	: 코로나인데 데이트하기 힘들지 않나용ㅜㅠ
+P0 	: 갈데가 없어요
+P0 	: 그냥 드라이브하고 자동차극장가고
+P0 	: ㅜㅜ
+P1 	: ㅠㅜ그쵸 친구들이랑 놀때도 어디갈지 고민인데 데이트는 더 고민일것같아요
+P1 	: 코로나시대에는 데이트도 맘대로 못하네용ㅜㅠ
+P0 	: 네 예전처럼 사람 많은데 원해서 피하는게 아니라 강제로 피하게 되요ㅜㅜ
+P0 	: 코로나위험

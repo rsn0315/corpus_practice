@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100005018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 그 제테크방은 되게 오래 유지된다
+P1 	: 재테크방? 어떤거
+P0 	: 주식방?
+P0 	: &name3&이 &name4&이 있는?
+P1 	: 아 그 주식방?
+P0 	: 응 ㅎㅎ 주식등등 재테크방 아니야?
+P1 	: 재테크 이야기도 하고 서로 잡다한 이야기도 하는방
+P0 	: 거기 &name5&는 없어?
+P1 	: 응 없어
+P0 	: &name6&는있고?
+P1 	: 어 &name6& 있지 그방에
+P0 	: &name6&ㅋㅋ개명했나?
+P0 	: 그방은 오프라인 정모는 안해?
+P1 	: 응 &name6&야
+P1 	: 정모를 할수 있을까 ㅋㅋㅋ 다같이 스키장에서 보는거 아님 어렵지
+P0 	: 코시국이 아니어도 따로 정모생각은 없는거구나
+P1 	: 다른애들은 모임 스카장 혹은 카페에사 했어겟지
+P1 	: 경조사 그런걸로 보거나
+P0 	: 아~너만 안간거야?ㅎ
+P1 	: 주식방애들 &name3&이 엄마 상때 다 만낫을껄?
+P1 	: 다는 아닐려나? 모르겟네
+P1 	: 어빌리티카페는 활동해?  요즘
+P0 	: 까페 겨울끝나구 아무도 글 안올리지
+	  단톡방도 별로 말 없는거 같고
+P1 	: 활동이  죽은건가 거기
+P0 	: 내가 전혀 활동 안하는거일지도ㅎ
+P1 	: 그런가? 인스타에 &name7&이 스케이트보드 열심히 올라오든데
+P1 	: 동호회에서 모여서 타드니 혼자탄데?
+P0 	: 아~  스케이트는 또 따로 크루가 만들어졌나보더라구. 오빠가 한번 가보니까 다 모르는 사람들이래
+P1 	: 또 다른 모임이 있구나

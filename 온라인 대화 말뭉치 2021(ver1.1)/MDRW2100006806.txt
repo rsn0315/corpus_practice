@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 무엇을 사셨나요?
+P1 	: 마스크와 멀티툴이요
+P1 	: &name1&님은요?
+P0 	: 멀티툴은 무엇이지요
+P0 	: 저는 무알콜 맥주요ㅎ
+P1 	: 생존도구 아이템이요 맥가이버 칼같은 거요
+P0 	: 와 멋지네요.
+P0 	: 칼 종류는 어디서 구입해요?
+P1 	: 그냥 쇼핑몰에서 검색해서 나온 것 사요 예비용으로 가격 저렴한 걸로요
+P1 	: 무알콜 맥주는 어디서 구입하세요?
+P0 	: 저도 그냥 핫딜 주문하지요
+P0 	: 멀티툴 같은 거 파는 전문쇼핑몰이 있나요?
+P0 	: 캠핑 좋아하시나
+P1 	: 아뇨 재난대비용으로 구입했어요
+P0 	: 와 아예 비상식량 같은거도?
+P1 	: 그냥 시리얼이나 초코바 정도 사놨어요
+P0 	: 혹시 모를 재난때문에? 아님 코로나?
+P1 	: 재난용으로요 지진이나 태풍 같은
+P0 	: 아 올해 이제 태풍 시즌이 오네요
+P0 	: 지방에 사시나봐요
+P1 	: 누구나 대비는 하는 게 좋죠 하나 사 놓으면 안심도 되구요

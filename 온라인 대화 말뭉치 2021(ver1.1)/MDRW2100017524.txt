@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017524
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 만두 좋아하세요??
+P1 	: 만두 완전 좋아해요
+P1 	: &name1&도 만두 좋아하시나요?
+P0 	: 네ㅋㅋㅋ 어떤 만두 좋아하세요?
+P1 	: 전 잡채만두요!
+P0 	: 와 별만두가 다있네요 잡채도 맛있는데 잡채만두라니
+P1 	: 완전 맛있어요!
+P0 	: 어느 브랜드거 드세요??
+P1 	: 동원꺼 먹어요!
+P0 	: 동원거가 맛있나봐요 ㅋㅋㅋ
+P0 	: 저는 갈비만두에 빠졌어요
+P1 	: 오오 맛있겠네요!
+P0 	: 네 음식도 갈비를 좋아해서 만두도 그게 좋더라구요 ㅋㅋㅋ
+P1 	: &name1&은 갈비를 좋아하시는군요!
+P0 	: 네 갈비 최애음식이에요 ㅋㅋㅋ

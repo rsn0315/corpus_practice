@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032605
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 캠핑에서 어떤 음식해드세요?
+P1 	: 고기가 1번이죠...ㅋ 언제나 맛있는
+P0 	: 고기굽는 불은 어떻게 피워요??
+P1 	: 구이바다라고 아시나요?
+P0 	: 잘 모릅니다 ㅋㅋㅋ 그게 불 피우는 재료인가요??
+P1 	: 휴대용 버너같은건데 캠핑족들이 많이 사용하는 거예요~
+P0 	: 오호!! 캠핑은 다 불피우는건줄...ㅋㅋㅋㅋㅋ민망 ㅋㅋㅋㅋ
+P0 	: 캠핑에서 라면도 많이 먹지않나요??
+P1 	: 네 캠핑은 고기와 라면이 필수죠
+P0 	: 아 그런데서 먹으면 진짜 꿀맛일 것 같네요 ㅋㅋㅋㅋ
+P0 	: 요즘 보면 캠핑용 밀키트도 팔더라구요
+P1 	: 맞아요 캠핑가면 밀키트가 편해요 샤브샤브 애들하고 먹기도 좋규요
+P0 	: 오 샤브샤브!!  맛있겠네요 ㅠㅠㅠ
+P0 	: 겨울엔 고구마도 구워먹고...
+P1 	: 넵 애들은 마시멜로 구워먹는거 엄청 좋아하더라구요
+P0 	: 오와... ㅋㅋㅋㅋㅋ그 꼬챙이에 끼워서요?!?! 사진으로만 보던ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 네 친구네랑 갔을때 해줬는데 그 이야기를 한참동안 하더라구요

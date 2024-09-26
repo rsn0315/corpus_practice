@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100000837
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이 주제 어때요?
+P1 	: 좋아요~
+P1 	: 연애중이신가요 ㅋㅋ
+P0 	: 아뇨 ㅋㅋㅋ 솔로입니다..
+P0 	: &name2&님은요?
+P1 	: 앗 저는 있습니다 ㅋㅋㅋㅋㅋㅋㅋㅋ...
+P1 	: 전남친한테 대차게 차이고 새롭게 만났습니다...^^ㅋㅋㅋㅋ
+P0 	: 어떻게 만났나요?
+P1 	: 음 아는언니의 친구의 동생!!!이었어요 ㅋㅋㅋ
+P1 	: &name1&님은 솔로시면 소개팅하시나여 ㅋㅋ
+P1 	: 아니면 자만추??
+P0 	: 보통은 친구사이에서 시작했어요
+P1 	: ㅜㅜ 저도 그게 제일 좋아요
+P1 	: 모르는사람보단 아는데서 시작하는거 ㅎㅎㅎ
+P1 	: 근데 졸업하고나니 사람만날곳이 .....없더라구여....
+P0 	: 그래서 소개팅으로 시작하셨나요?
+P1 	: 맞아요 ㅠㅠㅠ
+P1 	: &name1&님은 이상형이 머에용 ㅋㅋ
+P0 	: 저는 성격을 봐요
+P0 	: 외모는 중간만 돼도 좋아요
+P1 	: 오 성격
+P1 	: 욕하면 싫으신가요
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 욕 달고사는거는 별로에요
+P1 	: 글쿤요! 욕 많이하는건 저두 싫어요

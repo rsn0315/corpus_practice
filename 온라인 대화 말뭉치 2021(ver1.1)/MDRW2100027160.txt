@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027160
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용!! 아침식사 하셨나요? 저는 식사가 아직이라 점심 메뉴를 고민하고있어요ㅎㅎ
+P0 	: 저두요ㅠㅠ
+P0 	: 아침 못 먹고 나와서 점심 때 폭식할 것 같아요 ㅎㅎ
+P0 	: 뭐 먹고싶으세요??
+P1 	: 갑자기 마제소바가 생각이 나서 외출을 할까 고민중이에요! 쉬는 날이라 이불 속에서 고민만 줄창 하고있어요ㅋㅋ
+P0 	: 첫끼부터 맛있는 걸로 시작하면 좋죠!
+P1 	: &name1&은 어떤거 드실 거 같나요? 맛있는 거 드셨음 좋겠어요~
+P0 	: 제육덮밥이랑 닭볶음탕 중에 고민중이에요 ㅎㅎ
+P1 	: 헉... 둘다 넘 맛있는 거..... 두가지 다 밥도둑이네요ㅋㅋㅋㅋ
+P0 	: 밥도 볶아 먹을까싶어서 닭볶음탕 쪽으로 기우는 중이에요 ㅎㅎ
+P1 	: 아는 맛이 제일 무서운 거 같네요 닭볶음탕 생각하니 머릿속에서 벌써 밥 두공기 뚝딱했어요ㅋㅋㅋㅋㅋ
+P1 	: 가장 좋아하는 음식은 어떤거세요?
+P0 	: 비빔면 좋아해요!
+P0 	: 빨간 양념에 비비면 다 좋아요 ㅎㅎ
+P0 	: 뭐 제일 좋아하세요??
+P1 	: 다 잘먹는 편이긴한데 최근 다이어트 할 때 치팅데이때마다 떡볶이를 먹게 되더라구요...ㅋㅋ
+P1 	: 일반도 좋아하고 로제같은 거도 좋아해요!
+P0 	: 떡볶이는 진짜 끊기 힘든 음식 같아요 ㅎㅎ

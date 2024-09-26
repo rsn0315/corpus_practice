@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007711
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 점심메뉴는 정하셨나요?
+P1 	: 집에서 김치볶음밥이랑 콩나물국 먹으려고요!
+P0 	: 오 최고의 조합이죠 ㅠㅠ!!
+P0 	: 전 남은 미역 처리하느라 미역국 끓여요 ㅎㅎ
+P1 	: 직접 끓이시는 건가요??
+P0 	: 네~ 생각보다 쉬워요 ㅎㅎ
+P0 	: 아침은 드셨나요?
+P1 	: 이제야 일어나서 빵으로 때우고 있어요ㅋㅋ
+P0 	: 아이코 ㅋㅋ 저도 아침은 빵으로 때울때가 많아요
+P0 	: 저녁은 뭘먹나 벌써 고민이넹ㅅ
+P1 	: 김치볶음밥이 먹고 싶은데 귀찮아서 의욕이 안 나네요ㅜ
+P0 	: 하기 귀찮죠 ㅠㅠ
+P0 	: 거긴 비가 많이 오나요?
+P0 	: 비오는 날은 배달시키기도 뭔가 죄송스러워요
+P1 	: 안전의 문제가 달려있으니까요ㅠ 여기는 조금씩만 오고 있어요!
+P0 	: 집앞에 매주 순대트럭이 오는데 갑자기 먹고싶네요 ㅠ 오려면 아직 이틀이나 남았어요 흑
+P1 	: 순대트럭 넘 맛있죠...맥주 안주로 정말 딱...ㅋㅋㅋㅋㅋ
+P0 	: 크 좋죠 ㅎㅎ
+P0 	: 즐겨드시는 안주가 있으신가요?
+P1 	: 저는 감자튀김을 가장 즐겨 먹어요ㅎㅎ

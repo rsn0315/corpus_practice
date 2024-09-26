@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 요즘 읽는 책 있으신가요
+P0 	: 책은 많이 못읽어요ㅠ
+P1 	: 저도 시간 없어서 잘 못읽어요
+P0 	: 최근에어떤거 읽으셨나요
+P1 	: 버드스트라이크라는 책 읽었어요
+P1 	: 구병모 작가님이 쓰셨어요
+P0 	: 오 재밌나요
+P1 	: 날개달린 종족과 인간의 러브스토리인데
+P1 	: 연애까진 안하고 날개달린 사람이 그냥 도망쳤어요
+P1 	: 이게 뭐야
+P0 	: ㅎㅎ 흥미롭네요
+P1 	: 구병모 작가님이 청소년을 위한 철학적인 판타지를 많이 쓰시는 분인데
+P1 	: 담에 한번 읽어보세요
+P1 	: 나름 읽을만합니다
+P0 	: 저는 트렌드코리아 책 좋아해요
+P1 	: 아 매년 찾아 읽으시나요
+P0 	: 거의 매년보려고 노력해요

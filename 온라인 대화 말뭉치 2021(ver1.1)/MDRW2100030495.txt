@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100030495
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 예약 하심 ?
+P1 	: 아뇨 예약 안했어요
+P1 	: &name1&님은여?
+P0 	: 햇어요
+P0 	: 왜안햇어요
+P1 	: 어차피 델타변이에는 효과도 없다하고
+P1 	: 좀 무섭기도하고
+P0 	: 그래도 덜죽는다하던데요
+P1 	: &name1&님 후기보고 고민해볼게요
+P1 	: 언제 맞아요 백신?
+P0 	: 추석전이요
+P0 	: 금욜
+P1 	: 추석때 푹 쉬어야겠네요
+P0 	: 아무렇지도 않음 좋겟네요
+P0 	: 놀게
+P1 	: 화이자 맞으세요?
+P0 	: 아직 몰라요
+P0 	: 언제알려줘요?
+P1 	: 아 진짜요?? 본인이 선택하는거 아니에요?
+P0 	: 네 아님 모더나일수도잇어용
+P1 	: 글쿤요 근데 왜 주변사람들은 다 자기 뭐 맞을거라고 얘기했나 몰겄네요
+P0 	: 근데 몇일전에 카톡 온대요 먼지

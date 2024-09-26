@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100029383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 좋아하는 가수 있으신가요?
+P1 	: 안녕하세요 좋아하는 가수..
+	  아이유랑 수호 좋아해요
+P0 	: 헐 아이유! 저도 아이유 엄청 좋아해요
+P0 	: 아이유 노래 중에 좋아하는 곡은 있으신가요?
+P1 	: 아이유 노래 중에 좋아하는 곡 많죠ㅎㅎ
+P0 	: 저는 요즘에 라일락이 그렇게 좋더라구요
+P1 	: 라일락 좋죠! 그 앨범 모든 곡이 노래 다 좋아요ㅠㅠ
+P0 	: 맞아요ㅠㅠ 아이유는 솔직히 모든 노래가 다 명곡이죠...ㅠ
+P0 	: 나온지 좀 된 노래들도 다 좋구요!
+P1 	: 맞아요! 모든 노래 다 명곡 공감합니다
+P1 	: 데뷔곡도 좋고 다 좋아요
+P0 	: 아이유 데뷔곡이 뭐였죠?
+P0 	: 기억이 잘..ㅠ
+P1 	: 데뷔곡 미아요!
+P0 	: 헐 맞다~~ 그거 진짜 좋죠
+P0 	: 저 분홍신도 진짜 좋아해요
+P1 	: 분홍신 들은지 오래 되었는데 오랜만에 듣고 싶네요
+P0 	: 맞아요ㅠ~~ 길 찾을 때마다 머릿속에서 자동재생되는 노래죠...
+P1 	: 아이유 언제부터 좋아하셨어요?

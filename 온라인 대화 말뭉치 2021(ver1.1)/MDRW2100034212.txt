@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100034212
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 엄마 오늘 시장에서 뭐 사왔어
+P1 	: 아보카도랑 양파 ㅋㅋ
+P0 	: 오 싸게 팔았나 보네
+P1 	: 그래 후숙 다 된거 팔더라
+P0 	: 오 좋네 아보카도로 과카몰리 만들면 되겠다
+P1 	: 그게 뭔데
+P0 	: 양파랑 토마토랑 썰어서 소스 만드는거
+P1 	: 아아 먹어봤다
+P0 	: 웅 미국에서 먹어본거 ㅋㅋ
+P1 	: 그래 그거 만들어봐라
+P0 	: 웅 아보카도 많이 샀옹?
+P1 	: 그래 5개 있다
+P0 	: 그럼 만들어볼게 ㅎㅎ

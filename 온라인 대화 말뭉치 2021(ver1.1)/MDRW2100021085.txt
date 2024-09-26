@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021085
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑좋아하시나요
+P1 	: ㅎㅎ 아니요 &name1&님이 좋아하시면 얘기를 주도해주세요
+P1 	: 뭘 쇼핑하길 즐겨하시나요?
+P0 	: 옷신발이요ㅎㅎ
+P1 	: 아하 어떤 스타일의 옷을 사세요? 정장? 예쁜 샤ㅑ랄라?
+P0 	: 캐주얼이요!
+P1 	: 캐쥬얼은 어떤 타입이에요? 치마? 바지?
+P0 	: 남자라 자켓이나 이런거요ㅎㅎ
+P1 	: 아하 그럼 셔링 원피스 이런건 안사시겠네요 슬랙스는 좋아하세요?
+P0 	: 셔링이 뭔가요? ㅋㅋㅋㅋ
+P1 	: 주름잡힌 하늘하늘한 천이요
+P0 	: 슬랙스는 좋아합니다ㅎㅎ
+P1 	: 슬랙스는 좀 짧아야 이쁘더군요
+P1 	: 발목기장 슬랙스 두벌있어요
+P0 	: 오뭘좀 아시는군요ㅎㅎ

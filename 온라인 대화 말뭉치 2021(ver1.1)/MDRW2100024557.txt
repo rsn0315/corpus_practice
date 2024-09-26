@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100024557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 네 안녕하세요!마침 저 카페알바하는데!!!
+P1 	: 커피좋아하시나요?
+P0 	: 아정말요? ㅋㅋㅋ 안타깝게도 커피안좋아해요 ㅜㅜ
+P1 	: 아 그럼 카페는 혹시 가시나요...?아무래도 요즘 시국이라 못가실수도 ㅠ
+P0 	: 아 카페가는건 좋아해요~ 코시국이라 전보다자주가진못한답니다 ㅜ
+P1 	: 그죠ㅠㅠ
+P1 	: 보통 어디 가세요?
+P1 	: 카페 어디 많이 가세요???
+P0 	: 저는 그냥 프랜차이즈가요 ㅋㅋ 스벅제일자주가요!
+P1 	: 아 스벅 좋죠ㅠㅠ
+P1 	: 보통 뭐 많이 드세요??
+P0 	: 늠 저는 자허블이나 유자머시기 또는 티종류 돌려가며먹어요 ㅎㅎ
+P1 	: 스벅은 티 종류 진짜 맛있게 나오는 것 같아요ㅎㅎ!
+P1 	: 혹시 민트음료 좋아하시나요???
+P0 	: 맞아여~~
+P0 	: 민트좋아해요! 허브민트 다 취향입니당
+P1 	: 아 민트초코는 그럼 드시나요??
+P0 	: 민초단 여깄어요!!

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 아니요ㅠ
+P1 	: 키우세요?
+P0 	: 저동 아직
+P1 	: 엇.. 그러시구나
+P0 	: 강아지 키우고싶아요
+P1 	: 좋죠!!
+P1 	: 어떤 강아지 좋아하시나요?
+P0 	: 강아지면 다
+P1 	: 지금 동물농장 보고있어요ㅎㅎ
+P0 	: 아직해요?
+P1 	: 넵ㅋㅋㅋ아직해요
+P1 	: 동물 보니까 좋아요
+P0 	: 오랴하네요
+P0 	: 오래
+P1 	: 동물농장 보면 동물 키우고 싶어요
+P0 	: 보는거랑 키우는 거 달라서 ㅋㅋ

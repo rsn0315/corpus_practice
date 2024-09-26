@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100019208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 피자좋아하세요?
+P0 	: 네 피자 좋아합니다
+P1 	: 어느브랜드 좋아하세요?
+P0 	: 저는 브랜드피자 말고
+P0 	: 동네 자주 시키는 피자집이 있어서
+P0 	: 거기 피자만 먹어요
+P1 	: 오 궁금한데요?? 어느지역에사시나요?
+P0 	: 저는 대구에 살아요
+P1 	: 아하~
+P1 	: 배라3픽 여쭤봐도되요?
+P0 	: 뉴욕치즈케잌 엄마는외계인
+P0 	: 그리고 잠깐 나왔던 메뉴인데
+P0 	: 쫀떡궁합 아직도 그립네요
+P1 	: 아하! 그거 인기많더라구요
+P0 	: 다시나왔으면 좋겠어요
+P0 	: 웽디님은 좋아하시는 음식이 뭔가요
+P1 	: 맞아요 그런거너무많아요 ㅠ
+P1 	: 음식이요? 음 너무많는데 양식 좋아해요!
+P0 	: 양식중에서도 어떤 메뉴가 좋으신가요
+P1 	: 저는 피자 파스타 이런 느끼한것들 좋아해요

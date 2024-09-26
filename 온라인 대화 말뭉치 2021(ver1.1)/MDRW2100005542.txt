@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005542
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 진짜 빨리 왔네 다음주쯤 도착할거라 예상했는데..
+P0 	: 냉장고에 넣어놨으니까 입 심심하면 먹어
+P1 	: 마침 주말이라 축구경기 많이 해주던데 오징어 안주로 맥주한캔 해야겠다
+P0 	: 나는 술을 별로 안좋아 하니까 옆에서 오징어만 먹어야겠다
+P1 	: 꽃보다 오징어는 따로 굽지 않아도 돼. 조미까지 다 돼 있고 채 형태로 다 손질돼 있어서 바로 먹을수 있어
+P0 	: 오 진짜 편하게 먹을수 있겠네
+P1 	: 오리지널 맛이랑 소프트 맛 한개씩 주문 했으니까 둘다 맛 봐봐
+P0 	: 둘이 무슨 차이인데?
+P1 	: 오리지널은 우리가 기존에 먹던 마른 오징어 같은 질감이고, 소프트는 약간 진미 오징어채 같은 질감이야
+P0 	: 질감만 차이나고 맛은 똑같애?
+P1 	: 응 내가 먹어본 바로는 맛 차이는 없는거 같아
+P0 	: 이거 얼마주고 구입했는데?
+P1 	: 260g짜리 두봉지에 22000원 정도 했던거 같애. 근데 은근 양이 많아
+P1 	: 아마존에서 직구한 인터넷 공유기 도착해서 설치 해놨어

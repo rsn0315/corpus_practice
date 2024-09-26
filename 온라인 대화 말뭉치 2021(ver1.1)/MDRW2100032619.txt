@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100032619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 만화책 읽어보셨나요?
+P0 	: 웹툰 말고 만화책으로 본지는 한참 됐네요
+P1 	: 그쵸 웹툰보죠 요즘은
+P1 	: 재밌게 본 만화책 있으세요~?
+P0 	: 예전에 강철의 연금술사 봤었는데 지금 생각하면 내용이 쫌 그래요
+P1 	: 저는 항상 도전은 하는데 강철연술사는 보질못하겠어요
+P1 	: 제 타입이 아닌
+P1 	: 블리치 다시 볼까해요 ㅎ 애니로는 다시 보고있는데
+P0 	: 블리치도 한참 보다 말았는데 완결 났나요?
+P1 	: 네 그럴걸요!?
+P1 	: 저도 한참 안보다가 최근에 다시보고있어용
+P0 	: 어디서 어떻게 보세요?
+P1 	: 저~ 라프텔로 보고있어요! 원래 유튜브로 간략정리한거 보다가 ㅎ 그 이후 내용 궁금해져서 이어서 보고있어요
+P0 	: 라프텔 처음 들어봤는데 찾아보니 신기하네요 ㅎㅎ
+P1 	: 애니 보는 곳이에용
+P1 	: 괜찮더라고용
+P1 	: 크롬캐스트로도 볼수있어서 보고있어여
+P0 	: 만화책방 가서 한참 쭉 읽고싶네요ㅎㅎ
+P1 	: 그쵸ㅠ 코로나땜에 못가본지 1년이 넘네요
+P1 	: 진짜 밤새 있었는데ㅋㅋㅋ
+P1 	: 만화책보고싶네요

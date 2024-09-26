@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018647
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 여행 좋아해요! 코로나 터지고 해외는 못가서 아쉬워요 ㅠㅠ
+P0 	: 그죠ㅠㅠ 너무 아쉬워요
+P0 	: 국내여행은 최근에 가신곳 있나요?
+P1 	: 저 공주랑 대천이여 ㅎㅎ 별님은요?
+P0 	: 저는 그나마 최근이 전주요
+P0 	: 공주랑 대천은 어떠셨어요?
+P1 	: 오오 전주면 한옥마을가셨나요??
+P1 	: 공주가 진짜 좋았어요 ㅎㅎ 공주한옥마을 갔었거든요
+P0 	: 네 한옥 마을갔어요
+P0 	: 공주를 안가봤거든요
+P0 	: 한옥마을 넓은편인가요?
+P1 	: 저는 숙박했거든요 ㅎㅎ 가격도 저렴하고 방이 넓어서 좋아요! 근처 관광하기도 좋아요
+P1 	: 저도 처음 가봤습니다 ㅎㅎ
+P0 	: 우와 사람많은편인가요?
+P1 	: 아뇨 사람 별로없었어요 저 갔을때는!
+P1 	: ㅋㅋㅋ전주는 사람많나요?
+P0 	: 전주는 3년전이지만 예전보다 유명해져서 사람이 좀 있었어요
+P0 	: 공주 가보고싶네요!
+P1 	: 오오 저도 전주간지 오래됐네요 ㅎㅎ 가서 친구들이랑 교복빌려입고했는데..
+P1 	: 공주는 진짜 추천해요 ㅎㅎ
+P0 	: 덕분에 좋은 여행지 알아가요 감사합니다!

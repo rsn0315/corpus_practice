@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042220
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 와 삼양라면 맛있죠! 밥 말아먹으면 완전 딱!
+P0 	: 헉 밥까지 말아 먹은 거 어떻게 아셨지? ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 밥 말아먹으면 맛있는 라면이니까요! 계란도 넣으셨나요?
+P0 	: 아 늦게 생각나서 다 풀어서 넣었어요ㅋㅋㅋㅋㅋ
+P1 	: 풀어서 넣어도 맛있는 것 같아요. 사실 라면 계란 조합은 뭘 하든 좋아요.
+P0 	: 맞아요 가장 베이직한 조합이잖아요
+P1 	: 혹시 라면에 콩나물이나 파도 넣으시나요?
+P0 	: 콩나물은 있으면 넣어요
+P0 	: 파는 제가 별로 안 좋아해서 잘 안 넣어요ㅋㅋㅋㅋ
+P1 	: 오 저도 파는 잘 안 넣어요. 콩나물 넣으면 더 맛있나요?
+P0 	: 더 시원해요 콩나물 아삭한 식감도 좋고요
+P1 	: 식감이 다른 게 또 포인트겠네요! 오늘 점심은 뭐 드시나요?
+P0 	: 모르겠어요 좀 더 누워있고 싶어요ㅠㅠ
+P1 	: 아이고 피곤하신가봐요. 아침도 안 드셨어요?
+P0 	: 아침은 먹었어요ㅋㅋㅋ 간단하게 먹었어요
+P1 	: 어떤 거 드셨어요?
+P0 	: 계란후라이에 밥이요
+P1 	: 오, 잘 챙겨드셨네요! 간계밥도 좋고 케찹에 비벼 먹어도 좋죠!

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003463
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 내일부터 가을장마라는데 들으셨어요?
+P1 	: 앗 가을장마요ㅠㅠ
+P1 	: 지금 바람이 엄청 불긴 하네요
+P0 	: 올림픽도 방금끝났는데
+P0 	: 겨울에 또 열리겠네요
+P1 	: 그러게요 겨울이 금방 오겠어요
+P0 	: 요즘에는 시간이 빨리가네요
+P1 	: 네~계절이 금방금방 바껴요
+P0 	: 어느 계절이 제일 좋으세요?
+P1 	: 저는 봄이요~~^^
+P0 	: 봄냄새 좋지 않아요?
+P1 	: 네~맞아요^^
+P0 	: 그쪽에는 겨울에 눈 많이 와요?
+P1 	: 네~작년에도 많이 왔었어요~
+P0 	: 저희쪽은 1년에 1~2번 내릴까 말까 하네요
+P1 	: 아 정말요?혹시 부산?
+P0 	: 아뇨 경남이긴 한데 부산이랑 1시간 거리에요

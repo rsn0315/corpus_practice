@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009567
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동호회나 봉사 활동을 하신 경험이 있으신가요?
+P0 	: 봉사 활동은 코로나 이전에 자주했었어요
+P1 	: 어떤 봉사를 하셨나요?
+P0 	: 과수원에서 낙과들을 줍는 봉사가 제일 기억에 남네요
+P1 	: 신선한 내용의 봉사네요! 1365에서 신청하신 건가요?
+P0 	: 아니요 학교에서 농촌 지역과 연계해서 한 봉사활동이에요~!
+P1 	: 그럼 아는 분들과 같이 봉사하신건가요?
+P0 	: 과 친구들이랑 다같이 신청했던 기억이 있네요!
+P0 	: &name2&님은 봉사활동 하시나요?
+P1 	: 학교에서 농촌봉사를 갔던 기억이 있어요!
+P0 	: 어떤 일을 하셨나요?
+P1 	: 밭 일을 돕기 보다 어르신들과 팀을 이뤄 프로그램에 참여했어요!
+P0 	: 오 어르신들과 어떤 프로그램이죠? 흥미롭네요
+P1 	: 딱지를 만들어 팀전을 하거나 편지지를 드라이플라워로 꾸미고 편지를 쓰는? 등의 여러가지 프로그램을 했었어요

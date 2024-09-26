@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100001133
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210803
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 울산
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 토요일 오후 3시 30분 이발 예약함
+P1 	: 오키
+P0 	: 마법천자문 7-14 8/5일까지 예약대기
+P1 	: 그래
+P1 	: 공부안할라해서 속터지네
+P0 	: 조금씩 시켜하라
+P1 	: 말투뭔데 ㅋㅋ
+P1 	: {share:photo}
+P0 	: 그림책 레시피?
+P1 	: 엉 그거할라고
+P0 	: 그래 신청하기
+P1 	: 토욜수업듣기싫다하네 주말엔 좀 쉬잖다
+P0 	: ㅋㅋ

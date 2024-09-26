@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005551
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 스포츠경기 좋아하세요
+P0 	: ?
+P1 	: 아뇨 딱히 좋아하진 않아요 올림픽때나 월드컵때 보는정도?ㅋㅋㅋ
+P0 	: 이번 올림픽 개폐막식 보셨어요?
+P1 	: 뉴스에 뜨는 거 봤는데 경기 이미지를 형상화해서 나타낸거 흥미롭게 봤어요
+P0 	: 그게 픽토그램인걸로 아는데
+P0 	: 개막식때 그게 제일 재밌더라구요
+P1 	: 아 맞아요! 픽토그램!
+P1 	: 관심없었던 운동들도 올림픽때만큼은 흥미롭게 보는것 같아요
+P0 	: 아무래도 제일 유명하다보니 분위기가 달라서 그런거같아요
+P0 	: 저도 이번에 클라이밍 보는데 재밌더라구요
+P1 	: 맞아요 ㅋㅋ클라이밍도 올림픽 종목에 있어요?
+P0 	: 네 아마 이번에 생긴걸로알아요
+P0 	: 되게 힘들어보이더라구요
+P1 	: 그렇구나 이번에 패럴림픽도 하던데 그건 아예 무관중이래요 ㅠ
+P0 	: 패럴림픽이 24일부터죠?
+P1 	: 관심이 없어서 잘.. 모르겠어요 ㅠ 뉴스보니까 패럴림픽에서 코로나확진자 나왔다던데
+P0 	: 그래도 개막식이나 폐막식은 재밌게 볼거같아요
+P1 	: 경기보다 개폐막식이 더 재밌긴해요 ㅋㅋ 

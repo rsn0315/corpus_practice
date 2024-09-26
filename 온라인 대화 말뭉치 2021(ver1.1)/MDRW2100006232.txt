@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006232
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네.좋아해요
+P0 	: 여행지 어디가 좋나요?
+P1 	: 스위스요
+P0 	: 추천해주세요
+P0 	: 가보셨어요
+P0 	: ??
+P1 	: 베트남도
+P1 	: 네..가봤네요
+P0 	: 오 저는 비행기라고는 제주도밖에
+P0 	: 안터봤어요
+P1 	: 아..그렇군요
+P0 	: 저도 해외 가보고 싶네요
+P1 	: 나중에 가보세요..
+P0 	: 네
+P0 	: 또 국내에는
+P0 	: 어디가 좋은가요?
+P1 	: 가까운아시아쪽부터
+P0 	: 네
+P1 	: 베트남좋고..러시아요

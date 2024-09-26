@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000481
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 휴가다녀오셨나요?
+P1 	: 아니요 작년코로나 이후로 집콕생활중이네요ㅎ휴가다녀오셨어요?
+P0 	: 아고 하긴 요새 안전지대가 없긴해요
+	  저는 성주갔다왔어요 산속으로 ㅎㅎ
+P1 	: 산속이면 그래도 사람은 적겠어요
+P0 	: 네 자연휴양림이였는데 물놀이장에 저희랑 다른팀 총 2팀이서 놀았더니 너무 잘놀았어요
+P1 	: 괜찮네요 시원했겠어요 휴양림이면 잠은 어디서자요?
+P1 	: 놀고 따로 숙소로 이동하나요?
+P0 	: 휴양림에서 숙박해요
+	  근데 전자렌지가 없었어요 ㅜㅠ
+P1 	: 저런ㅎ 가스렌지는 있겠죠ㅎ
+P0 	: 인덕션만 있었어요 햇반가져갔는데 데우는데 1시간걸린거같아요 ㅜㅠ
+P1 	: 헐 고생하셨겠어요 요즘 전자렌지는 대부분있던데 휴양림이라 그런가보네요
+P0 	: 그러니까요 코로나땜에 수건도 안주고 ㅋ
+P1 	: 어머 수건도 안줘요?ㅎㅎ
+P0 	: 코로나땜에 수건 개인이 가져오라고 문자보냈는데 저는 못봤더라구요
+P1 	: 그럼 가서 어찌하셨어요? 사서쓰신거예요?
+P0 	: 수영장에서 쓰는 긴타올로 썼어요 ㅎ

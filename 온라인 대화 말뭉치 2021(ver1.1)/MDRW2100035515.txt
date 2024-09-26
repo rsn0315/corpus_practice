@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100035515
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여 저녁 드셨나여?
+P1 	: 네 안녕하세요? 먹었어요
+P1 	: &name1&님은요?
+P0 	: 저도 방금 먹었습니다
+P0 	: 뭐 드셨나요?
+P1 	: 전 비비고 만두입니다
+P1 	: &name1&님은요?
+P0 	: 만두만 드셨어요?
+P0 	: 전 감자탕이요
+P1 	: 네 왕만두 두개만 간장에 직어먹었어요
+P1 	: 감자탕은 식당서 드셨나요?
+P0 	: 아니요
+P0 	: 배달이요 ㅎ
+P0 	: 배 차나요?
+P1 	: 비비고가 워낙크고 그리고 스콘을 하나 ㄱ간식으로 먹었어요
+P1 	: 그러니 실제론 스콘과 만두가 제 밥인셈이에욬
+P0 	: 아하ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 배고플 거 같았는데 아니여서
+P0 	: 다행이네여ㅋㅋ
+P1 	: 굶고는 못살죠! ㅋㅋㅋ
+P1 	: 그리고 제가 이번에 산 비비고 한섬 왕만두가 좀 커서 다른 만두 4개치 되는 느김이에요
+P1 	: 피가 얇아서 더 좋아요
+P0 	: ㅋㅋㅋㅋㅋ아 정말요??!
+P0 	: 맛이 귱금하네요..
+P1 	: 다른 만두보다 고기가 더 많고 피가 얇아오
+P1 	: 씨제이건가요 시제이 브랜드 자체는 안 좋아하는데,,, 맛있어요
+P0 	: ㅋㅋㅋㅋㅋ 전만듀를 잘 안먹거등요

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100008682
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 드셨나요?
+P0 	: 아직이요 좀 이따 먹으려구요
+P0 	: &name2&님은 이따 저녁 드시나요?
+P1 	: 아점먹고 안먹어서 곧 먹으려고요~
+P1 	: 뭐드실 건가요?
+P0 	: 떡볶이 먹을예정이에요 ! 근데 중간에 배가 고파서 간식 먹었더니 배가 덜 고프네요...
+P1 	: 아아 아까 떡볶이 드신댔죠
+P1 	: 간식은 뭐드셨나요?
+P1 	: 저는 방금 식사하고왔어요 ㅎㅎ
+P0 	: 간식 복숭아랑 그릭요거트 먹었어요!
+P0 	: 요즘 유행하는 복숭아안에 그릭요거트 넣어먹는거 따라해봤는데 맛있더라구요
+P1 	: 헐 저도 그거 너무 해먹어보고 싶어요
+P1 	: 요즘 복숭아 재철이라 또 엄청 달고 맛있잖아요
+P0 	: 완전 맛있어요! 꼭 드셔보세요
+P0 	: 복숭아가 달달하니 너무 맛있어요
+P1 	: 하 레시피 저장해뒀네요
+P1 	: 조만간 아침으로 해먹어야겠어요
+P1 	: 그릭요거트도 진짜 너무 좋아하는데 ㅜㅜb
+P0 	: 그릭요거트도 너무 맛있죠..
+P0 	: 그래놀라랑 먹으니까 더 맛있더라구요 건강에도 좋구..!
+P1 	: 그래놀라도 건강에 좋은가요?!
+P1 	: 잘 안챙겨 먹었었는데 호오
+P0 	: 네네 둘이 같이 먹으면 좋다네요
+P0 	: 물론 그래놀라는 많이 먹으면 살찌지만요.. !
+P1 	: 저도 살짝 사먹어보ㅓ야겠네요
+P1 	: 완전 맛있던대!!

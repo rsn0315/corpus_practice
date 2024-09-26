@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006480
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식재료는 주로 어디서 사세요?
+P1 	: 식자재마트가 가까운데.있어서 주로 거기서 사요 ㅎㅎ
+P0 	: 아 인터넷배송은 이용안하시나요? 컬리나.쓱이나
+P1 	: 네네 안해요ㅎㅎ
+	  여긴.지방이라 그렇게 빨린 안 오는 것 같아요
+P0 	: 그러시군요 저희집은 오아시스를 애용해요
+P1 	: 오? 처음 들어봐요
+P0 	: 마켓컬리는 아세요?
+P1 	: 알죠~쓱도 알아요 ㅎ
+P0 	: 마켓컬리 비슷한.쇼핑몰이예요 ㅎㅎ새벽배송하는
+P1 	: 아하ㅎㅎ
+	  지방은 그런게 안되서 불편해요 ㅠㅠ
+P0 	: 아 저도 지방사는데 오아시스는 밤8시 이전주문이면 다음날 와서 괜찮더라구요
+P1 	: 오 그렇군요~ 한번 알아볼게요:)
+	  좋은 정보 감사해요!
+P0 	: 네 ㅎㅎ 점점 밖에 나가기 귀찮아서 이용하게 되더라구요

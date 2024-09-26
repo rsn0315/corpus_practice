@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037366
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 최근에 산 거 있으세요?
+P1 	: 바디용품세트 샀어요ㅋㅋㅋ
+P0 	: 생필품 사셨군요 전 튜빙밴드 샀어요
+P1 	: 튜빙밴드가 뭐에요??
+P0 	: 장력 있는 밴드인데 다양하게 활용할 수 있어요
+P0 	: 집에서 쓰기 좋을 것 같아서 샀어요
+P1 	: 아 운동할때 쓰는거구나!ㅋㅋㅋ
+P1 	: 비도 자주 오니까 요즘은 홈트 하게되죠ㅠㅠ
+P0 	: 맞아요 홈트가 훨씬 낫겠더라고요 밖에 나가기가 귀찮아요ㅋㅋ
+P1 	: 그쵸ㅋㅋㅋ 비가 너무 많이와서 산책도 못해요ㅠㅠ
+P0 	: 맞아요 비 오거나 엄청 덥죠
+P0 	: &name2& 님은 갖고 싶은 거 있으세요?
+P1 	: 저는 엘지에서 나온 스탠바이미였나?? 그 티비 조금 탐나요ㅋㅋㅋ
+P0 	: 스탠바이미는 처음 들어봤네요 요즘 광고해요?
+P1 	: 네!! 무선 스마트 티비였나 그랬던걸로 기억해요! 침대앞에 가져올수도 있고 편해보이더라구요
+P0 	: 오 엄청 편하겠는데요? 그걸로 유튜브나 넷플릭스 보면 좋겠네요ㅋㅋ
+P1 	: 제 손으로 들 필요도 없궁
+P1 	: 엄청 큰 태블릿 같은 느낌일거같아요ㅋㅋㅋ

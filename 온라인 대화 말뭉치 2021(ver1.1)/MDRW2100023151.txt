@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100023151
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 집안일하세요
+P1 	: 세탁기 돌렸는데요
+P0 	: 밥은요
+P1 	: 밥은내일해야죠
+P0 	: 왜요
+P1 	: 오늘 밥한거 맛있게먹었나요
+P0 	: 네 잘하시네요
+P1 	: 순대볶음 맛있네요
+P0 	: 네 요리 잘하네요
+P1 	: 고마워요
+P0 	: 또 해요
+P1 	: 밀키트사면 해볼게요
+P0 	: 사오세요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013970
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 영화관 간 적 있으세요??
+P0 	: 네 최근에 모가디슈 봤어요
+P1 	: 오? 그건 뭐에요? 요즘 영화를 잘 안 봐서..ㅎㅎ
+P0 	: 조인성 나오는 건데 재밌어요^^
+P1 	: 오오 나중에 뜨면 봐봐야겠어요.
+P1 	: 사실 저는 영화보단 드라마파.ㅋㅋㅋㅋ
+P1 	: 콘서트 같은 데 가보셨어요??
+P0 	: 네 저는 김동률 팬이라 몇 번 가봤어요!!
+P1 	: 우와~전 지방 살아서 콘서트는 꿈도 안 꾸고..사실 아이돌이나 가수 이런쪽에 전혀 무관심이었는데
+P1 	: 요즘 방탄콘서트를 가고 싶어졌어요ㅋㅋㅋㅋ
+P1 	: 하지만 그것도 생각만....ㅎㅎ
+P0 	: 방탄 티켓팅 진짜 어렵다고 하더라구요^^
+P1 	: 그렇겠죠...스탠딩석 가는 사람은 신의 손...
+P0 	: 그럼 기억에 남는 공연? 있으신가요?
+P1 	: 아뇨..공연자체를 다녀본 기억이 없어요ㅠ
+	  참 재미없게 살긴 했는데..
+	  누굴 보기 위해서 기다리고 앉아있는 게 시간 아까워서?
+P0 	: 아 그렇군요! 영화는 자주 보셨나요?
+P1 	: 영화보단 드라마 파에요ㅋㅋㅋ
+	  해리포터 시리즈는 좋아해요!

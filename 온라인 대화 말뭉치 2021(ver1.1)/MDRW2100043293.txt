@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043293
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 무슨 음식 좋아하세요
+P1 	: 안녕하세요 ~ 전 해산물 좋아해요 !
+P0 	: 오 저도요 고기도 좋아하시나요
+P1 	: 고기 너무 좋죠 ! 특히 돼지고기 좋아해요 &name1&님은요 ?
+P0 	: 저도 삼겹살!!!! 도ㅐ지고기가 제일 좋어요!!
+P1 	: 오~~통했네요 !! 삼겹살 단어보니까 삼겹살 구워서 냉면에 같이 먹고싶어졌어요ㅠㅜㅜ
+P0 	: 헛 저는 쫄면...
+P1 	: 생각만 해도 입에 침이 고이네요..
+P1 	: 저녁 드셨나요 ?
+P0 	: 저는..건너뜁니다 다이어트중이라 흑...
+P0 	: &name2&님은요?
+P1 	: 헉..다이어트 힘드시겠어요..
+P1 	: 전 집에 채소반찬이 많아서 비빔밥 해먹었어요
+P0 	: 오 비빔밥 진짜 최고ㅋㅋㅋㅋ 계란후라이는요ㅡ
+P1 	: 계란후라이 없는 비빔밥은 비빔밥 취급 안합니다 {emoji:☹}
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 알죠알죠 저는 반숙이 좋아요 ^^

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100042600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘 저녁 뭐 먹었어
+P1 	: 너무 피곤해서 배달
+P0 	: 잘했네 피곤할때는 쉬어야지
+P1 	: 엉 종종 그래야지
+P0 	: 만드나 배달하나 그돈이 그돈이다
+P1 	: 안전때문에 그런거지
+P0 	: 그건 맞다 뭘 넣어서 조리할지 모르니
+P1 	: 응 거기다 씻는거부터가
+P0 	: 그래서 뭐 배달해서 먹었는데
+P1 	: 낙곱
+P0 	: 낙지랑 곱창
+P1 	: 엉 원래먹던데가 휴무라 새로운곳
+P0 	: 맛있었어
+P1 	: 맛은 괜찮은데 매워서 혼났다
+P0 	: ㅋㅋ 순한맛으로 일단 먹어보고 매운맛으로 도전하지
+P1 	: 그러게 다들 울고 난리였다
+P0 	: 그정도로 매웠구나

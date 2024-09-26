@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024959
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 일할 때 고양이가 방해하지는 않나요?
+P1 	: 방해하기도 하죠 ㅋㅋㅋ 컴퓨터하면 앞에서 알짱거려요
+P0 	: ㅎㅎㅎㅎ직장인이세요?
+P1 	: 넵 ㅋㅋ &name1&님도 직장인이신가요??
+P0 	: 네ㅎㅎㅎ
+P0 	: 어떤 분야에서 일하세요~?
+P1 	: 환경쪽이요 ㅎㅎ &name1&님은요?
+P0 	: 전 교육쪽이요ㅎㅎㅎ
+P0 	: 환경쪽이면 보람있으시겠어요
+P0 	: 삶과 직접적인 직업이라
+P1 	: 처음에는 그랬는데 무뎌지는거같아요..ㅎㅎ..
+P1 	: 교육이야말로 보람차실거같아요
+P0 	: 그래도 내 자식은 보람차지 않더라구요ㅋㅋㅋㅋ
+P1 	: 앜ㅋㅋㅋㅋㅠㅠ자녀가 있으신가요?
+P0 	: 전 없는데 조카들이 거의 상주해있는지라ㅋㅋㅋ
+P0 	: 제 자식같네요ㅋㅋㅋ
+P1 	: 오오 그렇군요 ㅋㅋㅋ 퇴근하고 오시면 조카들 보시는건가요 ?? ㅎㅎ
+P0 	: 네ㅋㅋㅋ
+	  늦게 마치면 집에 갔구요ㅎㅎ
+P0 	: 환경이면 어떤일인가요?
+P1 	: 아 저는 기초시설에서 일하고 있습니다 ㅎㅎ

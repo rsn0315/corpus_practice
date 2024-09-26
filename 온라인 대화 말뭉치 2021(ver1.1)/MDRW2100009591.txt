@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009591
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 여행 다녀왔어?
+P1 	: 코로나때문에 못 갔어요ㅠ
+P0 	: 그렇군요ㅠㅠㅠ 저는 최근에 평창 다녀왔어요
+P0 	: 가보고 싶은 여행지 있으신가요?
+P1 	: 와 평창은 어떤가요?! 저는 강릉가고싶어요ㅠㅠ
+P0 	: 강릉가려다가 4단계 때문에 못갔는데 평창도 좋아요!
+P1 	: 아하ㅠㅠㅠㅠ 저는 코로나때문에 무서워서 못가겟더라고요,,, 한번 자가격리 하고나니까ㅠㅠㅠㅋㅋㅋㅋ 어후,,
+P0 	: 헉 자가격리 하셨나요? ㅠㅠㅠㅠ 아이고 고생하셨어요
+P0 	: 코로나 끝나면 가고 싶은 여행지 있으신가요?
+P1 	: 저 강릉이요ㅠ 강릉이랑...경주...
+P1 	: 경주 너무 가고싶어요ㅠ
+P0 	: 오 저는 경주가 가까워서 자주 가는데 경주 엄청 좋아요!
+P1 	: 헉 그래요? 경주 맛있는 것도 많다고 하더라고요
+P0 	: 황리단길 유명하고 거기 쫀드기가 맛있어요!
+P1 	: 와 쫀드기진짜 맛있겟다 구워서도 파나요?!
+P0 	: 제 생각에는 튀기는 것 같아요!! 한번 쳐보셔요 ㅎㅎ

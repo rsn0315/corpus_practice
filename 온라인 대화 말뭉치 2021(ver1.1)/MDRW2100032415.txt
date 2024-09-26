@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 풀무원 얇은피만두 추천드려요!
+P1 	: &name1&님은 추어탕에 산초 가루 넣으시나요?
+P0 	: 네 넣어요 ㅋㅋ ㅋ
+P0 	: 얆은피!!  맨날머거요 ㅋㅋㅋㅋ
+P1 	: 와 산초 가루 넣으시다니 뭔가 대단해요! 저는 들깨 가루 넣어서만 먹어봤거든요!
+P0 	: ㅋㅋㅋㅋㅋ 둘다넣어용
+P0 	: 산초 조금만~
+P1 	: 오, 산초 넣으면 더 맛있어지나요?
+P0 	: 약간 그...산초의맛...묘한
+P0 	: zz 크게차이는안나요
+P1 	: 뭔가 산초 가루 맛이나 향만 봤을 때는 좀 특이해서 넣기가 그랬거든요. 크게 차이가 안 난다니 다음에는 넣어봐야겠어요.
+P0 	: 네네 조오금만
+P0 	: ㅋㅋ 많이넣으면 이상
+P1 	: 네! 그러도록 할게요! 추어탕은 미꾸라지 갈아있는 걸로 드시나요? 아니면 통으로 들어있는 걸 드시나요?
+P0 	: 갈려잇는거요 ㅋㅋㅋ 통은 도전 어렵....
+P1 	: 오 저도 갈려있는 거로 먹어요! 통은 어떻게 먹는지 궁금하더라구요.
+P0 	: zzzz그죠... 징그러울거같은데ㅠㅠㅠ
+P0 	: 튀김은 갠찬지만 ㅋㅋㅋ
+P1 	: 맞아요. 튀김은 통으로 먹으면 진짜 맛있죠. 그리고 추어탕 김치도 맛있어야 좋은 것 같아요.
+P0 	: 마자여마지여 김치 중요하죠 ㅋㅋㅋ

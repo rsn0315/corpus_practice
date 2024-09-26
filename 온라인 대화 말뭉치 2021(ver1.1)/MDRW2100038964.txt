@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100038964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트하세요?
+P1 	: 아니오 ㅋㅋ
+P1 	: &name1&님은 하고계신가요?
+P0 	: 전 입다이어터예요
+P0 	: 맨날 음식을 못참아요
+P1 	: 그럼 기준을 좀 낮추세요~ 너무 거듭된 실패의 경험은 좋지 않아요
+P0 	: 네ㅜㅜ 운동은하세요?
+P1 	: 스트레칭만 간신히 해요 이게 참 애매하네요
+P0 	: 스트레칭도 꾸준히하면 좋죠
+P1 	: 뭐든 안하는 것보단 좋으려니하구 조금씩 합니다 ㅠㅠㅋㅋ
+P0 	: 저는 동네걷기만해요
+P1 	: 하루몇분 하세요?
+P0 	: 사십분에서 한시간정도요
+P0 	: &name2&님은 스트레칭 얼마나하세요?
+P1 	: 하루에 20분정도요 건너듸는 날도 있어요
+P0 	: 그래도 매일하시는거면 대단하시네요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요~
+P1 	: 지금 계신곳 비오나요?
+P0 	: 네 비가오고있어요
+P0 	: &name2&님이 사는 곳도 비가오나요?
+P1 	: 네
+P1 	: 가을장마래요ㅜ
+P0 	: 아 장마구나ㅠ
+P0 	: 비오는 날 어떠세요?
+P1 	: 다음주 내내 비온다던데요
+P0 	: 다음주도요?
+P1 	: 저는 눈 비 둘다시러해요...ㅋㅋㅋ
+P0 	: 저두요ㅎㅎ
+P0 	: 비는 습해서 싫고 눈은 미끄러워서 싫어요
+P1 	: 비는 좋아하시는분 많던데
+P1 	: 눈은 남자라면 거의 싫어할듯하고 ㅋㅋ
+P0 	: 군대때문에요?
+P0 	: 제설작업 자주했다하더라구요
+P1 	: 네
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 더운게좋아요 추운게 좋아요?
+P0 	: 추운게 낫죠ㅠ 더운거 넘싫어

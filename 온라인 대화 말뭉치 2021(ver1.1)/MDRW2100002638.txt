@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100002638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 홈플에서 계란쿠폰줘서 장봤어요 ㅎ
+P1 	: 오 싼가요?
+P0 	: 4천원짜리 990원에 살수있더라구요
+P1 	: 한판은 아니죠?
+P0 	: 네 10개인거같아요 ㅎ
+P0 	: 진짜 예전에는 한판이 5천원미만이였던거같은데
+P1 	: 요즘 계란 넘 비싸요ㅠㅠ
+P1 	: 한판에 8-9000원이라니 금계란이더라구요
+P0 	: 맞아요 그래서 이렇게 싸게줄때 사야겠다싶어 담고 이것저것 담아서 샀어요
+P1 	: 온라인 홈플인가요? 익스프레스?
+P0 	: 첫구매라고 7000원쿠폰도 주고 무배쿠폰도 줘서 나름 알뜰쇼핑한거같긴해요 ㅎ
+P0 	: 익스프레스요
+P1 	: 완전 득템 하셨는데요? 저도 첫구매되는거같은데 알아봐야겠어요
+P0 	: 첫구매되시면 한번 둘러보세요
+P0 	: 신한 11퍼인가? 그런쿠폰도 줘요
+P1 	: 신한카드로 결제죠?
+P0 	: 네 신한카드로 결제해야되요
+P0 	: 저는 다른쿠폰 적용되서 저거는 못썼어요
+P1 	: 중복적용안되나요?
+P0 	: 과일쿠폰인가? 머다른거랑 중복이 안되더라구요
+P0 	: 근데 배송비나 7000원 다른거는 중복되기도해요
+P1 	: 그럼 비교해보고 사야겠네요  정보감사요
+P0 	: 근데 즉시배송이라 취소가 안되더라구요

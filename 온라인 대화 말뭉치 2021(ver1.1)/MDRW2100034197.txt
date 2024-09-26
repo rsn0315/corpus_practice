@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034197
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 뭐 드셨나요?
+P0 	: 호박죽이요 &name2&님은요?
+P1 	: 맛있으셨겠네요. 전 치킨너겟 에프에 돌려 먹었어요 ㅋ
+P0 	: 아하 어떤 브랜드인가요 ?
+P0 	: 하림? 동원?
+P1 	: 모르겠네요 코스트코에서 세일하길래 얼른 샀거든요
+P0 	: 커클랜드 일까요? 코스트코에서 많이 파러라구요
+P1 	: 아니었던것 같아요 제가 딱히 브랜드를 따지지 않거든요 ㅎ 맛있게 먹으면 장땡입니다 ㅎㅎ
+P0 	: ㅋㅋ저도 딱히 따진다기보단 또 먹거나 안먹을걸 정하려면 이름을 알아야 되니가요
+P1 	: 아~ 그러시군요^^ 좋아하는  음식 있으세요?
+P0 	: 대부분을 좋아해서 싫어하는걸 말하는 쪽이 빨라요 ㅋㅋ &name2&님은요?
+P1 	: 전 요즘 해장국이 땡겨요~
+P0 	: 해장국 좋죠 그건 사먹는게 더 편한 메뉴네ㅛㅇ
+P1 	: 해장국을 집에서 할수도 있나요??
+P0 	: 백종원 레시피는 있던데 하기가 귀찮아욬

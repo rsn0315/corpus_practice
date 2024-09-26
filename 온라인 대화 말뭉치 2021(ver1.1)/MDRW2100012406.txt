@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012406
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하시나요?
+P1 	: 네 영화 좋아해요!
+P1 	: 어떤 장르 좋아하세요?
+P0 	: 장르는 안가리고 봐요
+P0 	: 인상 깊었던 영화 있으신가요?
+P1 	: 저는 최근영화는 프리가이 재밌게 봤어요!
+P0 	: 어떤 영화인가요?
+P1 	: 게임npc가 자아를 찾는 내용인데 소재가 신선해서 그런지 되게 재미나게 봤어요!
+P1 	: &name1&은 최근에 어떤 영화 보셨나요?
+P0 	: 우리들이라는 영화를 좋아해서
+P0 	: 최근에 다섯번째 봤어요
+P1 	: 다섯번이나요? 와 정말 인상깊게 보셨나봐요
+P1 	: 저도 이영화보고싶었는데 시간이 안맞아서 못봤었어요ㅠㅠ
+P0 	: 시간나면 보셔요
+P0 	: 추천합니다
+P1 	: 네 그럴게요ㅎㅎ~
+P0 	: 좋아하는 연예인 있으세요?
+P1 	: 딱 정해서는 없네요...
+P1 	: &name1&은요?
+P0 	: 저도 딱히..ㅎㅎ

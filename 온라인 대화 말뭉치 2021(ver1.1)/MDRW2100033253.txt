@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033253
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다용도컵 사용하시나요
+P0 	: 저는 밖에선 물을 잘 안먹어서 사용을 잘 안해요
+P0 	: 다용도컵 사용하시나요?
+P1 	: 네 회사에서도 집에서도 잘 사용하고있네요
+P0 	: 다용도컵은 스타벅스가 유명하던데 스타벅스 리유저블컵 있으신가요?
+P1 	: 네 얼마전에 와이프가 2개 가져왔더라구요 &name1&님도 있으시나요?
+P0 	: 스타벅스꺼는 없고 그냥 다회용 컵은 많앙ㅅ
+P0 	: 많아요
+P0 	: 요즘 종이 포장도 많던데 받아 보신 적 있으신가요?
+P1 	: 택배 종이 포장이요?
+P0 	: 네 요즘은 테이프나 플라스틱을 대신해서 종이를 사용하잖아요
+P0 	: 그게 또 친환경 마케팅의 일부이고요
+P1 	: 네 종종 환경생각하는 업체들에서 종이포장재 보내더라구요 좋아보였어요
+P0 	: 맞아요 그리고 쓰레기도 덜 나와서 좋더라고요
+P1 	: 리유저블컵도 사용해보니 텀블러와 다르게 가볍고 유용한 면이 있어 잘 쓰고 있어요
+P0 	: 맞아요 그리고 마음도 편해서 좋고요
+P1 	: 친환경 마케팅이 소비자들의 변화에 도움이 되긴 하는듯해요

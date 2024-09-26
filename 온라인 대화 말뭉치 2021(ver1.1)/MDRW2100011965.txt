@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 한 번
+P0 	: 나 무화과 먹고 싶어
+P1 	: 사먹어 ㅎㅎ
+P0 	: 그래서 요즘 배민지켜보고 있어
+P1 	: 근데 난 식감이 내 스타일 아냐
+P0 	: 그럴 거 같기는 해
+P1 	: 맛은 괜찮았는데
+P0 	: 그래? 난 싫어할 줄 알았어
+P1 	: 근데 내 돈주고 안사먹음 누가 사주면 먹고
+P0 	: 누가 무화과를 사줘
+P1 	: ㅋㅋㅋㅋㅋ 사줄 사람 구함
+P0 	: 속히 구해지길 바람
+P1 	: ㅋㅋㅋㅋ 무화과 좋아해?
+P0 	: 난 엄청 좋아해

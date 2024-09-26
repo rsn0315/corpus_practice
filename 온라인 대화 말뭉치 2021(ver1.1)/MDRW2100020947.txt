@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020947
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 같이 살아요!
+P1 	: &name1&님은 따로사세요?
+P0 	: 저도 같이 살아요!
+P0 	: 나가고 싶지만 ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ저두요 혼자 자취하고싶어요 ㅠ
+P0 	: 안하시는 이유 있나요?
+P1 	: 경제적인게 크죠! 저는 아직 취준생이라서요 ㅠㅠ
+P0 	: 아아 ㅜㅜ 맞아요
+P0 	: 저도 경제적인게 젤 크네요 ㅎㅎ
+P1 	: 네네 고정비용이 만만치 않을거같더라구요
+P1 	: 몬가 친구랑 같이 살고싶기도하고 ㅋㅋㅋㅋ
+P0 	: 맞아요 ㅋㅋ 근데 또 잘맞는 친구랑 살아야되니까
+P0 	: 찾기 힘들죠 ㅜㅜ
+P1 	: 맞아요 ㅋㅋㅋㅋ괜히 같이살다가 안맞으면 사이멀어지구요
+P1 	: 그래서 실행으로 옮기긴 힘들거같아요
+P0 	: 맞아요 저는 친구랑 한달 산적 있는데
+P0 	: 그 친구랑 처음으로 싸웠어요 .. ㅎㅎ
+P1 	: 아...경험이잇으시군요 ㅠㅠ
+P1 	: 어떤거 때문에 싸우셨어요?
+P0 	: 일단 서로 안맞는게 젤 컸어요 ㅜㅜ
+P0 	: 저는 바로바로 치우는 스탈인데 친구는 안치우는 스탈이여서 ..
+P1 	: 아아 청소 문제군요 ㅠㅠ
+P1 	: 맞아요 깔끔한성향도 잘 맞아야된다하더러구요

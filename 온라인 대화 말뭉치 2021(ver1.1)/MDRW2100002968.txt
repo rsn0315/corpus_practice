@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002968
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 요즘 연애중이신가요~
+P1 	: 안녕하세요 요즘 연애중이지용 연애중이신가요
+P0 	: 네 삼년 넘었어요~ &name2&이ㅣ님은요?
+P1 	: 엇 신기하네요 저도 3년 넘었어요ㅎㅎ
+P0 	: 데이트 주로 어디서하시나요?
+P1 	: 맛집찾아가거나 동네카페도 가곤해요ㅎㅎ&name1&님은요?
+P0 	: 저는 요즘 계곡에 많이 갔어요~
+P0 	: 저는 카페가면 스벅만 가네요!
+P1 	: 오 요새 계곡 좋을거같아요 혹 3년 사귀면서 크게 싸우신적 있으세요?
+P0 	: 싸운적은 없고 제가 혼자 화낸적은 한두번 있어요! &name2&님은요?
+P1 	: 오호 저는 초반에 좀 말다툼한적있어요 1년 지나니 그 다툼도 잘 없게되긴하네요ㅎㅎ
+P0 	: 오 그래서 장기 연애가 가능한것 같아요~ 자주 싸우는 커플이면 금방 헤어지더라고요
+P1 	: 그쵸 그리고 나이도 있는거같아요 제가 10대 20대 초였다면 서로 이해못했을거같아요 ㅋㅋ
+P0 	: 저는 성격이 별로 좋지 못해서 ㅠ
+P0 	: 다행히 성격좋은 남친이라 오래사귈수 있는거 같아요
+P1 	: 그래도 손발이 맞아야 오래갈수있다구 아마 &name1&님 좋은점들이 많으시니 오래가시는걸꺼예요ㅎㅎ
+P0 	: 감사합니다~!

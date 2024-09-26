@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002661
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑좋아하시나요?
+P0 	: 네~ 온라인쇼핑 주로 이용해요
+P1 	: 어떤 물품을 주로사세요? 저도 온라인쇼핑 자주하는데 생필품 자주사네요
+P0 	: 저도요 싸게나오면 쟁이고 하니ㅎㅎ
+P1 	: ㅋㅋ 소비를 위하면 대량으로 사지말라는데 늘 마케팅의 노예~
+P0 	: 맞아요 ㅋㄱ싸면 안살수없죠ㅋㅋ. 싸다고 막 담고
+P1 	: ㅋㅋㅋ 굉장히 딜레마에 빠지는
+P1 	: 저는 지마켓 옥션도 자주사용하고 11번가도 자주사용하는데 어디가 제일 좋으세요?
+P0 	: 저도 비슷해요~ 급할땐 쿠팡
+P1 	: 아 쿠팡 로켓배송 너무너무 좋아해요 ㅋㅋㅋ
+P1 	: 로켓프레시도 꽤 자주 이용중
+P0 	: 맞아요ㅋㅋ진짜 밤에 주문해도 다음날 오니까 급할때 너무 좋더라구요
+P1 	: 네 재료도 신선하구!! 가장 최근에 구매한 물건은 뭐예요??
+P0 	: 최근에는 식품위주로 많이 구매했어요~ ㅎ 국수나 떡볶이 재료요
+P1 	: 요즘엔 밀키트도 잘 나와서 식품 구매가 편하고 좋아진거같아요 ㅎㅎ 

@@ -1,0 +1,47 @@
+# FILE DATA
+ID : MDRW2100046845
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211106
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐하세요?
+P1 	: 저는 지금 인강들어요 ㅎㅎ
+P0 	: 시험준비하시나봐요?
+P1 	: 넵ㅠ 자격증 시험 하나 보려구요 ㅎㅎ
+P0 	: 응원합니다 꼭 합격하실꺼에요
+P1 	: 감사합니다 ㅎㅎ &name1&님은 공부하고 계신거 있으신가요?
+P0 	: 저는 시험 준비는 안하고
+P1 	: 네네
+P0 	: 그냥 영어 공부 꾸준히 하고 있어요
+P1 	: 오 멋있으시다

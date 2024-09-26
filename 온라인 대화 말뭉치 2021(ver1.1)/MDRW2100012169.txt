@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012169
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 좋아하시나요?
+P1 	: 뮤지컬은 본 적이 있는데 재밌더라구요
+	  옥주현님이 진짜 잘해요
+P1 	: &name1&은요?
+P0 	: 뮤지컬 본적은 없고
+P0 	: 콘서트 보러 다녔어요
+P1 	: 누구요? 저도 콘서트 많이 다녔어요!ㅎㅎ
+P0 	: 아이유랑 해외 연예인 내한 공연이요ㅋㅋ
+P1 	: 오 아이유 저도 가보고싶어요
+	  전 아이돌이랑 박효신 봤었어요
+P0 	: 아이돌 누구요?
+P1 	: 빅스라고 아세요?ㅎㅎ
+P0 	: 네ㅋㅋ
+P0 	: 저 중딩때 인기 많았어요
+P1 	: 전 대학생때 뒤늦게 아이돌에 눈을떠서..ㅋㅋ
+	  단체활동 보고 싶은데 그러지않아서 아쉬워요ㅠㅠ
+P0 	: 멤버들 군대에 있나요?
+P1 	: 네 제대한 사람도 있고 군대에 있는 사람도 있고 아직 안간 사람도 있구요ㅋㅋ
+P0 	: 코로나 풀리면 빅스 공연 자주 보시길 바라요ㅎㅎ

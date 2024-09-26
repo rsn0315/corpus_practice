@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007982
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그럼 야간근무가 더좋겠어요ㅎㅎ
+P0 	: 정해진 스케쥴대로 해서 ㅎㅎ
+P1 	: 주말에 근무하시면 친구분들 만나기 힘들지 않아요?
+P0 	: 네 아무래도 좀 ㅎㅎ
+P1 	: 친구 3교대할때보니 엄청 힘들어하더라구요
+P1 	: 간호사라
+P1 	: 밤낮바뀌고 하니
+P0 	: 아 3교대 힘들죠~~ 여긴 그래도 주야비휴라서ㅎㅎ
+P1 	: 주야비휴가 뭔가요? 주간야간비번휴일?
+P0 	: 네 맞아요
+P1 	: 그럼 2일근무하고 2일쉬는거예요?
+P0 	: 비번은 아침 퇴근이지만요!
+P0 	: 어떤 일 하세요
+P1 	: 전 사무직이요 원자력쪽 관련일해요
+P0 	: 오 원자력 멋있어요
+P1 	: 한수원이나 다녀야 멋있죠ㅋㅋ
+P1 	: 쬐끄만회사라
+P0 	: 반차도 급하게 쓸수 있고
+P0 	: 좋은 회사군요!

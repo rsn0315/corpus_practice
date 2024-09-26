@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009633
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 음식 자주 시키세요?
+P1 	: 저는 잘 안시켜요
+P1 	: &name1&님은 자주 시키세요?
+P0 	: 저도 배달은 자주 안 시켜요
+P0 	: 배민도 최근에야 깔았구요 ㅎㅎ
+P1 	: 저도 배달앱이 설치가 안되어있어요
+P1 	: 저랑 비슷하시네요
+P1 	: 배달 왜 별로 안시켜요?
+P0 	: 그냥 집에서 먹는 게 더 좋더라구요. 가격도 부담되고 건강적으로도 그렇고
+P1 	: 저도 그렇게 생각해요
+P1 	: 돈이 아까워서 배달 안해요
+P0 	: 배달비도 그렇구요.
+P1 	: 배달비 아까워서 가지러가요
+P0 	: 저도 왠만하면 그런 편 ㅋㅋ
+P1 	: 역시 배달비를 안내야 해요
+P0 	: 미리 주문하고 집에 들어오는 길에 포장해 오는 게 좋더라구요
+P1 	: 저도 그런게 좋아요
+P1 	: 그렇게 하면 가게에서 더 저렴하게 줘요
+P0 	: 동네에 마늘치킨이 유명한 집이 있는데 거기서 가끔 포장해와요
+P1 	: 듣기만 해도 맛있네요

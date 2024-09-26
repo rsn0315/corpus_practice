@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100036563
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하시는거 있으세요?
+P1 	: 저는 거의 안하는 것 같아요
+P1 	: &name1&님은 하시나요?
+P0 	: 저는 살이 너무쪄서ㅠ 아침에 운동 시작했어오!
+P1 	: 어떤 운동 하시나요?
+P0 	: 걷기하고 있어요!
+P0 	: 스쿼트랑요~
+P0 	: &name2&님은 건강위해 챙기시는거 있으세요?
+P1 	: 물 많이 마셔요
+P1 	: 제가 다른 건 몰라도 의식적으로 물은 많이 마시려고 해요
+P0 	: 오 제일 좋은거 하시네요
+P0 	: 의식적으로도 물마시는거 쉽지않죠ㅜㅠ
+P0 	: 2리터 너무 많아요
+P1 	: 맞아요ㅋㅋㅋ 사실 물이 의식하고 먹기 시작하면 먹어야할 물양이 정말 많죠ㅋㅋ 
+	  운동은 하루에 몇시간씩 하시나요?
+P0 	: 그니까요! 건강해지는것도 힘들어유ㅠ
+	  걷기 4ㅡ50분정도하고 집에서 간단히 스쿼트하면 한시간 좀 넘더라구요!
+P1 	: 운동하면 확실히 건강해지시는걸 느끼시나요?
+P0 	: 다리가 좀 튼튼해졌어요!
+P0 	: 지방에 근육 약간첨가 된?ㅋㅋㅋ
+P0 	: 오늘 좀 기쁘더라구용ㅋㅋ
+P1 	: 오 멋져요 근데 다리에 알이 생기진 않았나요?
+P0 	: 생기더라구요ㅠ
+P0 	: 마사지 해쥬야하는데 그건 못하고 있어요ㅠ
+P1 	: 그렇군요...

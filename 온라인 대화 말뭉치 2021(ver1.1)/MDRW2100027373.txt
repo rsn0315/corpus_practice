@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100027373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님 혹시 결혼관이 어떻게 되세요?
+P1 	: 결혼관은 그냥 가족과 건강하고 행복한거
+P1 	: 즐겁게 사는거예요
+P0 	: 바람직하네요 역시 건강한게 최고더라구요 ㅎㅎ
+P0 	: 저는 금전적으로 부족하지 않은 상대와 결혼하고 싶다고 생각해요 ㅋㅋㅋ
+P1 	: 당연하죠
+P0 	: 금전적으로 부족하면 건강도 큰일이니까요 ㅠㅠ 요즘 집값도 걱정이고 하니
+P1 	: 그렇죠.  많이 걱정되고 불안하시죠.
+	  정부에서 좋은 정책이 나왔으면 하네요.
+P0 	: 네네 맞아요 ㅎㅎ 그래서 요즘 신혼부부들은 주택 대출할때 혼인신고 안하고 한다고 하기도 하더라구요;
+P0 	: 아무튼 건강하고... 그리고 배려해주는 배우자가 좋네요
+P1 	: 그런분을 혹시 만나고 계신가요.?
+P0 	: 아뇨 상대는 없어요 ㅎㅎ
+P0 	: 그냥 막연히~
+P0 	: 혹시 만나시는 분 계신가요?
+P1 	: 네~~
+P0 	: 오 ㅎㅎ 상대분과 잘 맞으시나요?
+P1 	: 네~~ㅎ
+	  잘 맞는다는것은 내 부족한 부분을 상대가 채워주고 상대 부족한 부분을 내가 채워주어 만들어 가는중 이에요.
+P0 	: 좋은 인연이네요 ㅎㅎ 어떻게 만나셨나요?
+P1 	: 운동하며 만났어요.ㅎ
+P0 	: 건강도 챙기시는 멋진 두분이네요!!

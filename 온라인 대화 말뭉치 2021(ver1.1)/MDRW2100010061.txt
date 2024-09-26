@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 거기 날씨는 어때요
+P1 	: 지금 비가 조금씩 오고 있어요
+P0 	: 여기도요. 춥진 않나요
+P1 	: 바람은 많이 불지 않아서 춥진 않아요!
+P0 	: 다행입니다. 비오면 습한게 제일 싫던데 습하진 않나요
+P1 	: 평소처럼 쏟아지진 않아서 그나마 나은 것 같아요
+P0 	: 출퇴근은 그럼 괜찮으시겠어요
+P1 	: 길이 막힐 정도는 아니라 그나마 괜찮을 것 같네요ㅎㅎ
+P0 	: 혹시 운전 하시나요
+P1 	: 아뇨, 아직 무면허예요
+P0 	: 그러시군요. 내일도 비온다는데 우산 꼭 챙기시구요!!
+P1 	: 말씀 감사드려요ㅎㅎ 내일도 오늘처럼 천둥은 안 쳤으면 좋겠네요ㅜ
+P0 	: 제일 좋아하는 계절 있어요?
+P1 	: 저는 가을을 가장 좋아해요! 시원하고 하늘도 파랄 때가 많아서요
+P0 	: 와 저도요. 가을 너무 좋죠
+P0 	: 이제 점점 진짜
+P0 	: 가을 날씨로 갈 것 같아요. 비 만 좀 그친다면요 그쵸

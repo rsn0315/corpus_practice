@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002698
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네
+P0 	: 쇼핑 즐겨하시나요?ㅎㅎ
+P1 	: 이마트나 롯데마트 가는 편이에요.
+	  식재료나 옷 사러요
+P0 	: 아 그러시구나ㅎㅎ 저도 식재료나 옷은 동네마트 이용하구 나머지는 인터넷으로 주로 구매해요
+P1 	: 네 최근에 뭐 구매하셨나요
+P0 	: 최근에는 애기 기저귀도 쟁이고ㅎㅎ 냉동식품도 채웠어요~^^
+P1 	: 저는 최근에 네비가 고장나서 네비 하나 장만 했어요.
+P0 	: 네비~ 요즘엔 폰으로 보긴해서 저희도 고장난뒤로 사진 않았네요
+P1 	: 후방카메라 땜에 샀어요.
+P0 	: 아~ 그렇네요 화면이 있어야 나오니 있어야겠네요
+P1 	: 네 폰 네비보다 큰 화면으로 보는게 좋기도 하고 후방이 크게 보여서 좋더라구요!
+P0 	: 맞아요~  요즘 차에 후방카메라 보면 진짜 잘나오더라구요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100042660
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일은 하시나요?
+P1 	: 네~~~ 거의 하려고 해요! &name1&님은요??
+P0 	: 저도 설거지랑 빨래합니다
+P0 	: 집안일 힘들죠
+P1 	: 네ㅜㅜ 집안일은 힘든데 티가 안나서 화가나요
+P0 	: 맞아여 그래서 더 속상하죠
+P1 	: 하 집안일 중 뭐가 제일 싫으세요?
+P0 	: 저는 설거지요 귀찮더라고요
+P1 	: 와 저도요ㅠ 저는 바닥 청소가 좀 더 싫긴하지만요
+P0 	: 아 바닥청소 진짜 티가 안나죠
+P1 	: 맞아요 제일 티가 안나는 집안일 같아용
+P0 	: 맞아요 머리카락도 계속보이고요
+P1 	: 악 맞아요 그래서 머리 밀고 싶엇다니까요
+P0 	: 그정도로 귀찮죠

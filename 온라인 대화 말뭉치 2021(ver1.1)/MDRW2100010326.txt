@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 네 저녁 뭐드시나요?
+P1 	: 저는 부대찌개
+P1 	: 생각중이예요ㅋㅋㅋ
+P0 	: 오 맛있겠어요ㅠㅠ저는 떡볶이 고민중이에요
+P1 	: 오
+P1 	: 로제인가요?
+P0 	: 아 그냥요 오늘은 좀 매운거 먹고 싶어서ㅎㅎ
+P1 	: 오 엽떡 무슨맛드세요?
+P0 	: 저는 그냥 중간맛? 매운거 잘못먹는데 제일 안매운맛은 맛이 없더라구요
+P0 	: 매운거 잘드세요?
+P1 	: 아니요ㅋㅋㅋ 저는 초보맛먹는답니다ㅋㅋ
+P1 	: 불닭은 잘드세요?
+P0 	: 네 불닭좋아해요ㅎㅎ 맛있어서ㅠㅜ
+P1 	: 까르보불닭도
+P1 	: 좋아하시나요?
+P0 	: 네 좋아해요ㅋㅋ괜찮더라구요

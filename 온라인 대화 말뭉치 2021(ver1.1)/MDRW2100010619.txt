@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책은 좋아하세요?
+P0 	: 책 좋아해요
+P1 	: 무슨장르요?
+P0 	: 주로 소설
+P0 	: 봐요
+P1 	: 요즘 무슨 소설 보세요?
+P1 	: 전 일본소설 좋아해요
+P0 	: 오 저도 일본소설
+P0 	: 좋아해요
+P0 	: 감정묘사나
+P1 	: 기시유스케 알아요?
+P0 	: 철학적인 부분이 많이나와서
+P0 	: 작가 이름은 잘몰라요
+P1 	: 오 저도 그런부분 좋아하는데 통하네요
+P0 	: 어떤책 제목
+P0 	: 기억나는거 있으세요?
+P1 	: "보리의 바다에 가라앉는 열매" 나 "신세계에서"요!
+P0 	: 처음들어봐요
+P0 	: 유명한가요?
+P1 	: 어 아닐걸요?
+P1 	: 유명한책중엔 1q84같은 것도 본적 있어요
+P1 	: 무라카미 하루키 책은 다 읽긴 했는데 좋아하진 않아요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 무라카미 저도 들어봤어요
+P0 	: 베스트셀러인
+P0 	: 책있나요?

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~!
+P1 	: 안녕하세요!
+P1 	: 여행 좋아하시나요?
+P0 	: 좋아해요! 못가서 문제지만요
+P0 	: 젤 재밌으셨던 장소라던가 있으신가요
+P1 	: 전 베트남 다낭이요!
+P1 	: 왜냐고 물어봐주세요 ㅎㅎ
+P0 	: ㅋㅋㅋㅋ왜요?
+P1 	: 입시끝나고 친구랑 단둘이 간 여행인데 그때가 12월 25일이었어요! 처음 따뜻한 크리스마스를 보내서 넘 특별했어요
+P0 	: 헐...완전 멋져요
+P0 	: 저도 따뜻한 크리스마스 보내고싶어요 입시끝나고 가면 기분완전 좋을거같은ㅠ
+P1 	: 그쵸 &name1&은 가보고 싶은 나라 있으신가요
+P0 	: 딱히 생각해본적은 없는데 바다가 예쁜 나라 가보고싶어요
+P0 	: 아 호주?? 호주도 가보고싶어요!
+P1 	: 헐 저도 호주 가고싶어요ㅠ 산불터져서 여행 취소했었거든요
+P0 	: 저도 사촌언니랑 둘이서 가기로했는데... 하필 그해에 코로나 터져서 취소했어요(...
+P1 	: ㅠㅠ 계획 다 세웠는데 못가면 진짜 슬프죠

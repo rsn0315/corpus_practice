@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025770
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 좋아하는 음식이 뭔가요?
+P0 	: 전 고기류 좋아해요
+P1 	: 오 저는 고기보다는 해산물 파
+P0 	: 어떤 해산물을 좋아하세요?
+P1 	: 새우를 제일 좋아해요
+P1 	: 새우좋아하시나요
+P0 	: 저는 비린걸 싫어해서
+P0 	: 새우류는 익히면 맛있게 먹어요
+P0 	: 생새우 이런건 못먹겠더라구여
+P1 	: 오 그러면 못드시는 해산물이 많겠네요
+P1 	: 고기는 뭘 제일 좋아하셔요?
+P0 	: 저는 돼지고기류가 가장 맛난거같아요
+P1 	: 저는 요즘은 수육 좋아해요
+P0 	: 저는 목살 구워먹는거 좋아해요
+P1 	: 너무 기름 진 건 안좋아하시는군요 ㅋㅋ
+P0 	: 삼겹살도 좋아해요 ㅋㅋ
+P0 	: 사실 주로 군것질하는걸 좋아해요

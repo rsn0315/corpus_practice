@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 뭐 구매하셨나요??
+P0 	: 저는 전공책이요
+P0 	: &name2&님은요?
+P1 	: 전 물이여ㅋㅋㅋㅋㅋㅋ
+P1 	: 개강 하셨어요??
+P0 	: 내일 모레 해요 어디 물 구매하셨나요?
+P1 	: 저 그냥 카카오에서 샀어요
+P1 	: 전공책 뭐 구매하셨나요?
+P0 	: 저는 병리랑 성인간호요
+P1 	: 아하 간호쪽이군요
+P1 	: 뭐 구매하고싶은 거 있으세요?
+P0 	: 저는 태블릿이요
+P1 	: 어디거요?
+P0 	: 갤럭시꺼요
+P1 	: 괜찮나요
+P0 	: 모르겠어요 근데 제가 사고싶은 워너비긴해요
+P1 	: 아하 전 패드를
+P1 	: 사용하거든요!
+P0 	: 우와 정말 부럽네요!!

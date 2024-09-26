@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100014085
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 최근에 여행가신곳이 어디예요?
+P1 	: 반가워요
+P1 	: 저는 포항이요
+P1 	: 해수욕장 갔다왓어요
+P0 	: 오 포항이요?
+P0 	: 수영도 하셨나요?? ㅎㅎ
+P1 	: 그럼요  제가 물을 좋아해요
+P1 	: 캠핑 2박햇죠
+P0 	: 오 캠핑도 다니시나봐요!
+P0 	: 저는 캠린이예요
+P1 	: 가끔 쉬는 날가쥬
+P1 	: 해외여행 좋아해요?
+P0 	: 네 좋아해요
+P0 	: 그래두1년에 한번은 나갔는데
+P0 	: 이제는언제쯤가볼지
+P1 	: 마지막이 어디였어요?
+P0 	: 체코 프라하요!
+P0 	: 일주일여행갔는데 일정 빡빡하게 세우지않구
+P0 	: 돌아다녀서좋았어요!
+P1 	: 거긴. 명소가 어딘가요
+P1 	: 체코는 뭐가 유명햇어요?
+P0 	: 카를교라고 제일유명한 다리가있어요
+P1 	: 와우
+P1 	: 멋찐 곳이네요
+P0 	: 마지막여행 어디였어요?
+P1 	: 동남아 쪽이요
+P1 	: 다낭 불꽃축제 보러
+P1 	: 갔어요
+P0 	: 다낭!
+P0 	: 저도 다낭 간적있는데 불꽃 축제는 못봤어요
+P1 	: 세계불꽃 대회같은 거라서 엄청 크게 해요

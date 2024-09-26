@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100019402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 좋아하는 책 있으세요?
+P1 	: 안녕하세요
+P1 	: 담 쌓고 살아서요 저는 ㅎㅎ.. 좋아하세요?
+P0 	: 저도 그랬는데
+P0 	: 최근에한권 읽었어요ㅋㅋ!
+P1 	: 오뭐요??
+P0 	: 추리소설 좋아하시면 데드맨 이라고
+P0 	: 일본소설인데 추천드려요!
+P1 	: 오 재밌을거같아여 추리
+P1 	: 긴편인가요?
+P0 	: 아뇨 ~~!!
+P0 	: 3시간정도면 다읽습니다!
+P1 	: 짧나보네요 ㅋㅋㅋㅋ
+P1 	: 참고할게요 ㅋㅋㅋ추천 감사해요
+P0 	: 네ㅎㅎ!!
+P0 	: 그럼 좋아하는 장르는 잇으세요?
+P0 	: 아님 잡지두!
+P1 	: 흠 글쎄요 읽은지가 너무 오래돼서...ㅋㅋㅋㅋㅋ
+P1 	: 소설이면 장르 안가리고 일단 다 괜찮을거같아요
+P0 	: 그럼 보건교사 안은영은 어떠세요?
+P1 	: 헉 그게 원래 책이 원조인가요?
+P0 	: 드라마도 재밌는데 전 원작도 좋더라구요!
+P0 	: 맞아요!!
+P1 	: 헉 그렇군요 몰랐어요!
+P0 	: 이것도 진짜 금방읽었어요ㅎㅎ
+P1 	: 재밌을거같아요 찾아볼게요 ㅋㅋㅋ

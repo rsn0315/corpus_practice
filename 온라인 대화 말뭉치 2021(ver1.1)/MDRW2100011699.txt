@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요새는 정말 미세먼지 걱정은 덜었네요
+P0 	: 그러게요 바람이 많이 불어서 너무 좋아요
+P0 	: 이번 여름 잘보내셨나요? 너무 더워서 조금 힘들더라구요
+P1 	: 에어컨을 안 켜면 낮이든 밤이든 너무 힘들었어요ㅠ
+P0 	: 정말로요 .. 낮에 밖에 오래 있는 날이면 힘이 쭉 빠져요ㅠㅠ
+P0 	: 날씨가 조금 선선해지니 완전 살 것 같네요
+P1 	: 이제는 밤이 되면 춥더라구요ㅋㅋ
+P0 	: 좀 있으면 선풍기도 집어넣어도 되겠어요ㅎㅎ
+P0 	: 가을 좋아하시나요?
+P1 	: 가을을 제일 좋아해요!
+P0 	: 저도 제일 좋아하는 계절이 가을이에요ㅎㅎ
+P0 	: 가을날씨 너무 좋아요
+P1 	: 가을은 기상이변이 좀 덜할 것 같아요
+P0 	: 그랬으면 좋겠네요
+P0 	: 요즘 가을이 줄어들어서 슬퍼요 ...
+P1 	: 여름과 겨울이 너무 길어졌어요
+P0 	: 그러니까요.. 예전에는 사계절이 뚜렷했었는데.. 참 슬퍼요
+P1 	: 요즘은 정말 뚜렷라지 않아서 사계절이 무색한것 같아요
+P0 	: 맞아요ㅠㅠ 지구온난화 때문에 그런가 .. 점점 짧아지고 있네요
+P0 	: &name2& 지역은 지금 비 오나요?

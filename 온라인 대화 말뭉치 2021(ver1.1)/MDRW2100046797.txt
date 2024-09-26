@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 뭐하고 계셨어요~?
+P0 	: 저는 출근했습니다
+P0 	: &name2&님은 머하고계세요?
+P1 	: 저도 출근이요 ㅠㅠ
+P1 	: 오늘은 그래도 금요일이네요!
+P0 	: 금요일은 넘 힘들어요 
+	  전 금요일이 일이 많거든요
+P0 	: 오늘은 퇴근후 뭐하시나요
+P1 	: 저는 내일 아침부터 놀러가야해서 오늘은 일찍 잘 거예요!!
+P1 	: 금요일이 더 바쁘시구나 ㅠㅠ
+P0 	: 부럽네요
+P1 	: 오늘 힘든 날이니까 점심 꼭 맛있는 거 드세요!
+P0 	: 네네 추우니 뜨끈한 국물로 먹어야겠어요
+P0 	: &name2&님도 맛있는거 드세요
+P1 	: 네 ㅎㅎ 오늘 쌀국수 추천드릴게요! ㅎㅎ
+P0 	: 쌀국수 맛있겠네요
+P1 	: 오늘 맛난 점심 드시고 즐거운 금요일 보내세요~!

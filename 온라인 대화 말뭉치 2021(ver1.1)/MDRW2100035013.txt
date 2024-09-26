@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035013
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 아. 저 장수탕선녀님 뮤지컬 예약했어요.
+P0 	: 와 &name3& 좋아하겠어요 뮤지컬로 있는지 몰랐네요
+P1 	: 신한카드 할인 구매 소식을 녹차카페에서 들었어요. 1인 3만원
+P0 	: 오 언제 어디서 해요?
+P1 	: 서울숲 공연장이요^^
+	  추석 전날 보러 갑니다.
+P0 	: 오 부럽네요 후기 들려주세요
+P1 	: 네.^^
+	  뮤지컬 보러 같이 가면 좋을텐데요.ㅎ
+P0 	: 그러게요 ㅠ 실상은 음식 준비하러 ㅜ
+P1 	: 추석 때 유튜브로 연극이나 뮤지컬을 실시간으로 해줬음 좋겠네요.
+P0 	: 오 너무 좋을 듯요
+P1 	: 유튜브로 뮤지컬 보여주는 것은 왠지 교육적일 듯 싶어서 맘 편히 보여주게 되네요.ㅎ
+P0 	: 맞아요 ㅎㅎ 죄책감 덜하고 ㅋㅋㅋ
+P1 	: 지난 주말에 저는 보스베이비2를 봤어요

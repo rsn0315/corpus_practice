@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012003
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 온라인 피트니스 서비스 아는거 있으신가요?
+P0 	: 아뇨.
+	  이게 운동이 될까 싶기도 하네요.
+P1 	: 저도 광고만 봤는데 호기심은 생기더라구요
+P0 	: 오프라인에 비해 가격이 저렴할까나요.
+P1 	: 꼭 그렇지도 않은 것 같아요
+P0 	: 오프라인처럼 일대일 교습도 있겠지요.
+P1 	: 네 대화로 코칭해주고 영상을 과제로 올렺 고 그런식인듯 했어요
+P0 	: 이러다 대면으로 하는 활동들이 많이 사라질까 걱정이네요.
+	  얼굴보고 배우는 게 더 좋을텐데요.
+P1 	: 그렇죠~ 마이다노라고 홍보하는걸 많이 봤어요!
+P0 	: 마이다노? 그게 뭐에요?
+	  유투브보고 운동한 적이 있는데
+	  그거 생각해보면 온라인 피트니스도 괜찮을 것 같기도 하네요.
+P1 	: 음... 다노라고 다이어트 회사?? 큰 곳이 있거든요 거기서 운영하는 온라인 pt인들뇨
+P1 	: 듯요
+P0 	: 아. 피트니스 회사이름이었네요.
+	  모르는 게 대박 많음.
+P1 	: 저도 유투브 통해 다노언니?를 알게됐어요 다이어트쪽에선 큰 회사같아요 온라인pt시장도 큰 것 같구요

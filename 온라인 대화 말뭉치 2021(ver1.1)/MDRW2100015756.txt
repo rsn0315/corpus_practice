@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015756
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 공연 좋아하세요,
+P0 	: 네 뮤지컬 몇 번 봤어요 조금
+P1 	: 작품 제목이 뭔가요?
+P0 	: 웃는남자 봤는데 재밌더라구요
+P1 	: 그렇군요
+P1 	: 콘서트 가보셨나요?
+P0 	: 예전에 드림콘서트 가봤어요
+P1 	: 오 아이돌 나오는 콘서트맞나요?
+P0 	: 네 맞아요
+P0 	: 공연 보신 적 있으세요?
+P1 	: 네 아이유 콘서트요
+P0 	: 아이유 인기많죠 언제가보셨어요?
+P1 	: 예전에요ㅋㅋ

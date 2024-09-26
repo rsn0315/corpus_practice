@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015207
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아해요
+P0 	: 배스킨라빈스 가시면 뭐 주로드세요
+P1 	: 그린티요
+P0 	: 삽사름한 맛 좋아하시는그누나
+P0 	: 는구나
+P0 	: 그럼 파인트에 3가지 맛을 담는다면?
+P1 	: 딱히 그런건 아니에요
+P0 	: 앗..
+P1 	: 사빠딸 그린티 바람과 함께 사라지다 뉴욕치즈케이크 레인보우 샤베트
+P1 	: 돌아가면서 먹어요 ㅎ
+P0 	: 레인보우 샤베트의 매력은?
+P1 	: 좀 물릴때 다시 시작할수 있게 해줘서 좋아요
+P1 	: 뭐 좋아하세요?
+P0 	: 공감합니다
+P0 	: 저는 요거트 좋아해요
+P1 	: 레인보우 샤베트 드세요?
+P0 	: 선호하지는 않는데 있으면 먹어요
+P0 	: 그럼 난 민초다 반민초다
+P1 	: 있으면 먹어요 근데 제가 주문하진 않아요

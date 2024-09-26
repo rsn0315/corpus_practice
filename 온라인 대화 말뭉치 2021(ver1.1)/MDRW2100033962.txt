@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033962
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕
+P0 	: 안녕
+P0 	: 마라탕에 뭐뭐 넣어 먹어?
+P1 	: 나 건두부랑 숙주 꼭 추가해
+P0 	: 나는 야채는 청경채
+P1 	: 청경채더 맛있지
+P1 	: 고기는?
+P0 	: 소고기
+P0 	: 근데 비싸서 요즘은 자주 안 추가 해
+P1 	: 나도 요즘에는 두부 많이 먹어
+P0 	: 옥수수면이랑 고구마떡도
+P1 	: 나는 치즈떡!
+P0 	: 치즈 떡도 좋아
+P0 	: 나 햄도 좋아해
+P1 	: 맞아ㅜㅠ 목이버섯은 어때?
+P0 	: 난 취향 아니었어
+P1 	: 아쉽다
+P1 	: 진짜 맛있는데
+P0 	: 그래도 백목이는 좀 괜찮았어
+P1 	: 다른 버섯 좋아하는 거 있어?
+P0 	: 새송이랑 팽이!

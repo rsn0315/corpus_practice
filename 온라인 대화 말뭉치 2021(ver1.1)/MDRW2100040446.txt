@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100040446
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 보는 것 좋아하세요?
+P1 	: 네 영화 보는 것 좋아해요 주로 해외영화요
+P0 	: 오 좋아하시는 영화는 뭔가요?
+P1 	: 좋아하는 배우가 나오면 좋게 보는 것 같아요
+P0 	: 좋아하시는 배우가 누군지 궁금하네요ㅎ
+P1 	: 벤 반스라고 영국배우에요 ㅎㅎ
+P0 	: 오 그럼 섀도우 앤 본도 보셨나요?
+P1 	: 아직이요 ㅠ 추석에 보려고 계획 중이에요
+P0 	: 아 그러시구나
+P0 	: &name2&님의 추석 플레이리스트네요
+P1 	: 네 &name1&님은 추석에 영화나 드라마 볼 계획 있으신가요?
+P0 	: 아직은 없는데
+P0 	: 넷플릭스에서 시리즈물 하나 볼까 싶어요
+P0 	: 연휴가 긴데 코로나 땜에 그냥 집에서 지낼 것 같아서요
+P1 	: 맞아요 긴 추석연휴인데 코로나가...
+P0 	: 영화랑 넷플릭스 벗삼아 보내야죠 뭐ㅠ

@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100037287
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘은 뭐드셨나요?
+P0 	: 저는 비냉이요
+P0 	: 뭐 드셨나요?
+P1 	: 헐 저른 물냉이용
+P1 	: ㅋㅋㄱㅋㄱㄲ뭔가 통했네요
+P0 	: 오늘 물냉 드셨나요?
+P1 	: 네네ㅋㅋㅋㅋㅋ진짜 여름 끝난것같아서 마지막으로 한번먹었네용
+P1 	: 아니 주제가 연애와 결혼이었네용
+P1 	: 연애중이신가요?
+P0 	: 아니요 연애중이신가요
+P0 	: ??
+P1 	: 오 아니용ㅎㅎㅎ
+P1 	: 아니요ㅎㅎ저두요,,
+P0 	: 앗!!그럼 이상형 있으신가요?
+P1 	: ㅋㅋㅋ저는 다정하고 한결같은 사람이 좋아요!!
+P1 	: &name1&님은요?
+P0 	: 저는 귀여운 사람이요
+P0 	: 그럼 모두에게 다정한 사람이 좋으신가요 아님 나한테 특출나게 다정한 사람이 좋으신가요?
+P1 	: &name1&님 생각도 궁금해요
+P0 	: 저는 모두에게요
+P1 	: 오 정말요?
+P1 	: 그렇군용ㅎㅎㅎ
+P1 	: 그럼 이상형에 가까운 연예인이나 유명인 있으신가용?
+P0 	: 저는 해찬 원우 세훈 쪽이요
+P0 	: &name2&님은요?
+P1 	: 저는 딱히 있진않아요
+P1 	: 고르기어렵더라구요ㅋㄱㅋㄱㄱㅋ
+P0 	: 그럼 키에 대한 조건은 있으신가요?
+P1 	: 전 저보다 크면 괜찮아요ㅎㅎㅎ생각보다 낮죠ㅋㅋㄱㄱㄱㄲ
+P1 	: &name1&님은요?
+P0 	: 저도 딱 그정도예요

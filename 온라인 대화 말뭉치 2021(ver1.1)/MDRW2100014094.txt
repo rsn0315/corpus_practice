@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100014094
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 아 한쪽수술후..또 언제수술해?
+P0 	: 6개월~1년
+P1 	: 어디서 수술할려고??
+P0 	: 분당서울대
+P0 	: 엄마 상처가 크데
+P1 	: 수술어렵다고 하더나??
+P0 	: 그런말은 안하고 상처가 크다고
+P0 	: 내시경으로
+P1 	: 수술비는 많이나온다고 하더나
+P0 	: 수술비는 안 물어봤다
+P1 	: 입원은 얼마나 해야한데??
+P0 	: 3박 4일
+P0 	: 엄마 팔깁스는 한달반인가이고
+P1 	: 금방퇴원하네
+P1 	: 언니 내년에 휴직하나
+P0 	: 그래야지 휴직이나 시간제
+P1 	: 그래야 하겠네
+P1 	: 겁나네 수술한다고 생각하니깐
+P0 	: 그래서 지금하는게 맞는듯

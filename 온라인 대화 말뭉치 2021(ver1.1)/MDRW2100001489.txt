@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 혹시 직장인이세요?
+P0 	: 아뇨
+P1 	: 아하 학생이신가봐요!
+P0 	: 네
+P1 	: 지금 수업 다 비대면으로 듣고계신가요?
+P0 	: 네
+P1 	: 아하
+P1 	: 비대면 수업이랑
+P1 	: 대면 수업 중에 어떤 걸 더 선호하세요?
+P0 	: 대면수업이요
+P1 	: 오호
+P1 	: 왜인지 이유를 여쭤봐도될까욥!
+P0 	: 비대면수업은 지루하고 재미가 없지만 대면수업은 재밌어요.
+P1 	: 하긴 비대면수업은 좀 집중도가 떨어질 거 같기는해요 ㅠㅠ
+P0 	: 네 졸려요
+P1 	: 빨리 모든게 정상화되었으면 좋겠네용ㅠㅠ

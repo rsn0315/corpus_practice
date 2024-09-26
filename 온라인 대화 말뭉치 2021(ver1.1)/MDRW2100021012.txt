@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100021012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하게요
+P1 	: 얼마나 안녕하게요
+P1 	: ㅋ
+P0 	: 소화기관이 건강한가요?
+P1 	: 반반이요
+P0 	: 저는 지금 건강하지 않네요
+P1 	: 뭔일잇나요
+P0 	: 스트레스를 받았어서 소화가 안되요
+P1 	: 신경성위염?
+P0 	: 네 그래요
+P1 	: 유전인가요?
+P1 	: 유전인가요?
+P0 	: 그럴걸요
+P1 	: 그러시구나
+P0 	: 왜그렇게요?
+P0 	: 왜 스트레스 받았게요?
+P1 	: 몰라
+P0 	: 알텐데
+P0 	: 안녕하세요

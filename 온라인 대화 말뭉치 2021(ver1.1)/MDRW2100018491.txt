@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 이번 추석땐 여행이고 모고 집에만 있어야겠어요
+P1 	: 안그래도 그럴려고
+P0 	: 저도 집에서 쉬려구요
+P1 	: 지금 확진자가 너모 많다
+P0 	: 그러게요 그니까 이번에 어디 가지 말고 집콕 하세요
+P1 	: 작년에도못모였는데아쉽네
+P0 	: 할소없죠 대신 얘전에 여행다녔더 사진 다시 보면서 기억을 떠올려보는 건 어떨까요?
+P1 	: 그것도 좋은 방법 이네
+P0 	: 전 요즘 예전 여행사진 보는데  이렇게 마스크 없이 다녔구나 싶었어요
+P1 	: 마스크 쓰고 라도 다니면 좋을텐데 그것도 요즘은 위험하니까
+P0 	: 맞아요 델타는 마스크 써도 감염된대요
+P1 	: 단풍구경 너랑같이갔을때가 생각나는 구나
+P0 	: 내장산가갔었죠
+P0 	: 재작년에 뉴욕 다녀오길 잘했어요

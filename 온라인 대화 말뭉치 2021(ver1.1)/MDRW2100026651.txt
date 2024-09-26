@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100026651
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연이나 전시회 좋아하세요??
+P0 	: 아뇨ㅠ
+P0 	: 좋아하세요?
+P1 	: ㅋㅋㅋ 이거 선택하셨길래 좋아하시나 했어요
+P1 	: 저는 음악 공연 보러가고 싶네요
+P0 	: 저는 대학로공연은
+P0 	: 몇번가봤어요!
+P1 	: 못보니까 보고 싶어욬ㅋㅋㅋ
+P0 	: 못하니까 더 하고싶어지는것같아요
+P0 	: 뮤지컬좋아하세요?
+P1 	: 뮤지컬은 본적이 몇번 없는데 좋긴 하더라고요
+P1 	: 시간과 돈만 있으면 자주 보고 싶었었어요 ㅋㅋㅋ
+P0 	: 오 저는 뮤지컬 본적이 없어요
+P1 	: 나중에 한번 보러가세요 이층도 가봤었는데 괜찮더라고요 분위기가 즐거워서
+P0 	: 뮤지컬은 진짜 가보고싶긴해요
+P0 	: 콘서트가본적있으세요?
+P1 	: 어느 자리여도 신나더라고요
+P0 	: 커지는기대감
+P1 	: 네 가본적 있어요 &name1&은 있으신가요??
+P0 	: 전 콘서트도x,,,,
+P0 	: 완전한집순이

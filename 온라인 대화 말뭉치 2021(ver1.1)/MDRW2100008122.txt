@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008122
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반려동물 키우시나요
+P1 	: 네 강아지 키워요!
+P0 	: 와 좋겠어요 전 못키워서ㅜ 혹시 이름이 두부인가요ㅋㅋ
+P1 	: 앗 맞아요ㅋㅋㅋ
+P1 	: 하얀색이라 두부예요
+P0 	: 귀엽겠어요ㅠ 저는 책임질 자신이 없어서 영상만 봐요
+P1 	: 저도 하하하 영상봐요
+P1 	: 즐겨보는채널있으세요?
+P0 	: 저 모카우유랑 메탈남이요
+P0 	: 두부님은 뭐보시나요
+P1 	: 오 저도한번 찾아봐야겠네요
+P1 	: 저는 알고리즘에뜨는 영상으로봐요ㅎㅎ
+P0 	: 전 키우지도 않으면서 그런거 열심히 봐서 강아지 용품도 찾아보고 그래요
+P0 	: 개는 훌륭하다도 보고요
+P1 	: 앗 본적있어요ㅋㅋㅋ 모카우유한번찾아볼게요
+P0 	: 강아지 키울때 제일 힘든점은 뭐가있나요
+P1 	: 아파서 병원데려갈때가 제일 힘들죠ㅠㅠ
+P0 	: 그렇겠네요 사람처럼 어디 아프다 말도 못하고 병원비는 대부분 비급여고요ㅜ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100039762
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 저녁드셨나요?
+P1 	: 네 먹었어요 님은요?
+P0 	: 저도 먹었습니다!
+P0 	: 뭐 드셨나요?
+P1 	: 저는 부대찌개요
+P1 	: 뭐 드셨어요?
+P0 	: 저는 된장찌개에 밥 먹었습니다 ㅎㅎ
+P1 	: 된장찌개 맛있죠ㅎ
+P1 	: 만드신건가요?
+P0 	: 네네 집밥먹었습니다 ㅎㅎ
+P1 	: 요리 잘하시나봐요
+P0 	: 부대찌개는 만들어드신건가요?
+P0 	: 아 엄마께서 만들어두셔서 그냥 데워먹었어요 ㅎㅎ
+P1 	: 아뇨 밀키트요
+P1 	: 아 역시 손맛은 어머니 손맛이죠
+P0 	: 아 요새는 밀키트 너무 잘나오죠!
+P1 	: 그쵸

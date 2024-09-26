@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 읽으시나요
+P1 	: 책 좋아해요 요샌 웹소설을 많이 읽고 있지만요
+P1 	: &name1&은 책 읽으시나요?
+P0 	: 저는.안읽습니다.. 사서 읽나요?
+P1 	: 당연히 책 사서 읽죠!
+P1 	: 책을 안 읽으시는 군요.
+P0 	: 네 안읽습니다 빌려보거나 전자책도 많이 이용하셔서..
+P1 	: 빌려서 보는 방법도 있지만 전자책도 사서 봐야하는걸요
+P0 	: 그렇죠 종이책을 선호하시나요
+P1 	: 종이책이 눈이 편안해서 좋아하지만 요샌 이북도 많이 나와서 이북도 싫어하지 않아요.
+P0 	: 그럼 리더기도 사용하시나요?
+P1 	: 리더기가 있지만 핸드폰으로 더 잘 보는 것 같네요.
+P1 	: 책을 보시려고 하나요?
+P0 	: 와이프가 리더기 쓰다가 처분하더라구요 익숙치않다고
+P1 	: 기존에 리더기를 사용을 잘 하지 않던 분이라면 불편하실 수도 있어요.
+P1 	: 아내분께선 책을 많이 보시나봐요
+P0 	: 저보단 좋아하는것 같아요...ㅎㅎ

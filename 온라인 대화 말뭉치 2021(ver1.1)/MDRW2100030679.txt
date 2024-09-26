@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100030679
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 매우 당황하셨을 것 같아요
+P0 	: 아빠가 예약할 때 통화한 내용을 녹음해 두었어요
+P0 	: 녹음한 내용에 생선이름은 없었지요
+P1 	: 그래서 어떻게 되었나요
+P1 	: 그쪽에 들려 줘 않나요
+P0 	: 이미 먹었으니 다 먹고 난 후에 금액을 받았지요
+P0 	: 먹었으니 냈지요
+P1 	: 아 저런 안타까운 일이
+P0 	: 아빠가 또 그런 건 잘못 따져요
+P0 	: 13만 원
+P1 	: 안타깝네요
+P1 	: 너무 비싸요
+P0 	: 네 접시는 먹겠네요
+P0 	: 무슨 생선인지 궁금하네요
+P1 	: 너는 시키면 회사 작은 걸로만 시켜요
+P0 	: 그래서 아빠가 배달 해 먹자고 하네요
+P1 	: 생선 구이 였나요 왜 그렇게 비싸죠
+P0 	: 가격 그대로 나오니까
+P0 	: 회를 먹었어요
+P0 	: 특별히 주문한 회라고 한 그 생선
+P1 	: 아 회를 생선 이 였군요
+P0 	: 그렇다면 원래 주문한 사람은 뭘 먹었을까요
+P0 	: 맛없는 식당도 많지요

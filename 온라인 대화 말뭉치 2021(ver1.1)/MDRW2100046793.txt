@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 학생이신가요~?
+P0 	: 직장인 입니다
+P1 	: 출근하셨어요? 너무 졸리네요 ㅠㅠ
+P0 	: 네네 피로가 쌓였네요  ㅠ
+P1 	: 오늘 금요일인데 뭐하세요~?
+P0 	: 내일 시험이 있어서 퇴근하고 책을 좀 봐야될듯요
+P1 	: 헉 바쁘게 사시네요.
+P1 	: 무슨 시험 보세요?!
+P0 	: 자격증 시험인데 그냥 나중에 대비해서 따둘려구요
+P1 	: 대단하다! 회사 다니면서 공부하기 힘들진 않으세여?
+P0 	: 솔직히 피곤하네요
+P0 	: 쉽지 않아요 ㅠ
+P1 	: 공부할 때 밥 든든히 챙겨먹고 하세요!
+P1 	: 시험 화이팅!!

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100020600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가족이랑 함께사시나요?
+P0 	: 저랑 와이프 둘이에요
+P0 	: &name2&님은 쭉 부산에 사셨나요?
+P1 	: 아하~
+P1 	: 전 고향은 마산이고 초딩때부터 쭉 부산와서살아요!
+P0 	: 그러시구나
+P1 	: 네 ㅋㅋ
+P0 	: 부모님과 함께  생활하세요?
+P1 	: 네! 가족이랑 살아요 4인가구
+P0 	: 왠지 엄청 화목할 것 같아요
+P0 	: &name2&님  대화하면서 어감이 행복한 사람 느낌이에요
+P1 	: 아하~ 그런가요? ㅋㅋㅋ 감사해요!!
+P1 	: 동생이랑도 사이좋은편이에요 ㅎㅎ
+P0 	: 네 그런 느낌이 들어요
+P1 	: 오호 저도 어떤느낌일지 궁금해여 ㅋㅋ
+P0 	: 설명하기 어렵네요ㅎㅎ
+P0 	: 가족이랑 함께 지내서 좋겠어요
+P0 	: 전 부모님 동생이랑 멀리 떨어져 지내서 가끔 그리워요

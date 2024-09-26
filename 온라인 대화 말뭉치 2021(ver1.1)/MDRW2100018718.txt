@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018718
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바이트 해보신거 뭐 있으세요?
+P1 	: 저는 독서실 알바요!
+P1 	: 해보신거 있으신가요?
+P0 	: 공장이나 사무, 초콜렛 판매요!
+P1 	: 우와 초콜렛 판매는 뭐죠? 초콜릿 전문 매장에서 파는건가요?
+P0 	: 마트에서 발렌타인 초콜렛 파는거였어요ㅋㅋ
+P0 	: 단기여서 해봤는데 기억에 남아요
+P1 	: 아아 재밌는 경험이네요! 팔면서 몇개 집어 먹을수도 있었나요?ㅋㅋ
+P0 	: 아쉽게도 그게 안됐어요!
+P0 	: 약간 기대했는데말이죠ㅋㅋ
+P1 	: 앗 그럼 매력도가 급 떨어지네요ㅋㅋ 전 공부하려고  독서실 알바 해봤었는데 집중이 하나도 안되더라구요
+P0 	: 단기라 버텼어요ㅠ
+P0 	: 앗 그런가요? 잘될거라 생각했는데
+P1 	: 넹 따로 공부하라고 공짜로 개인룸을 내주기도 했는데 역시 일하는곳에선 일만해야되나봐요
+P0 	: 아.. 역시 그런거군요
+P0 	: 있으면 해보려했는데 딱 나누기 힘든거였네요
+P1 	: 그런데 사람마다 다를수도 있으니 해보시는것도 추천해요! 요즘 프리미엄 독서실 엄청 비싸잖아요
+	  자리하나 받는것도 되게 좋더라구요
+P0 	: 오.. 감사합니당
+P0 	: 역시 해보는게 좋긴하겠네요

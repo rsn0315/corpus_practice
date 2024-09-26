@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008779
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요
+P1 	: 딱히 좋아하는 편도 싫어하는 편도 아니에요
+P0 	: ㅎㅎ그렇군용
+P1 	: 갔던 여행지중에 좋은 곳 있을까요
+P0 	: 울릉도욯ㅎ
+P1 	: 울릉도 얘기는 부모님한테 들은적 있어요
+P1 	: 바람이 심하면 접근이 힘들다고 하시던데
+P0 	: ㅋㅋ맞아요 배 핵 흔들려요
+P1 	: 뱃멀미가 심해서 전 못가겠네요ㅠ
+P0 	: 네 어디 가고 싶으세요?
+P1 	: 저는 뜬금없지만 쿠바 가보고 싶어요
+P0 	: 오 쿠바 이쁠듯해요
+P1 	: 분위기가 묘하더라구요
+P0 	: ㅋㅋ버킷리스트에 저장
+P1 	: 버킷리스트가 여행지로 가득차겠어요ㅋㅋ
+P0 	: 코로나 때문에
+P0 	: 버킷만 가득차겠어요 진짜ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100044479
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 그래도 비가 오니까 그런 거 같애
+P0 	: 그래도 더운 것보단 낫네요
+P1 	: 그러게 더우면 잠도 못 자는데
+P0 	: 빗소리도 듣기 좋고
+P1 	: 빗소리가 잠들기에 좋은 거 같애
+P0 	: 맞아요 빗소리 들으면 서자면 기분 좋아
+P1 	: 이제 슬 그치는 거 같은데
+P0 	: 좀 아쉽네
+P1 	: 그래도 어제 오늘 많이 내렸지
+P0 	: 덕분에 시원하기도 했고
+P1 	: 이제 가을비도 지나갔으니 곧 추워지겠네
+P0 	: 겨울에 많이 추우려나
+P1 	: 겨울이니까 춥지 않을까
+P0 	: 곧 패딩 꺼내야겠네요
+P1 	: 작년에는 그렇게 안 추웠던 거 같은데
+P0 	: 맞아 작년에는 패딩도 많이 안 입었어
+P1 	: 올해는 어떨지 모르겠네

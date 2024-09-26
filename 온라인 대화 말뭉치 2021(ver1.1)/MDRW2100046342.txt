@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 단순 노무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 뭐하시고계세요?
+P1 	: 안녕하세요!
+P1 	: 요즘 엠넷에서 방영하는 스트리트우먼파이트 보시나요? ㅎㅎ
+P1 	: 즐겨보는 tv 프로그램 따로 있으신가요?
+P0 	: 아뇨 없는데요?
+P1 	: tv 잘 안 보시나봐요~
+P1 	: 넷플릭스는 보시나요? ㅎㅎ
+P0 	: 아뇨 안보는데요 ㅠㅠㅠ
+P1 	: 그럼 어떤 취미 있으세요?
+P0 	: 취미가없어요ㅠ
+P1 	: 흠 그럼 뭘 좋아하세요?
+P0 	: 커피요!
+P1 	: 저도 커피 좋아하는데요~!
+P1 	: 어떤 커피 좋아하세요? 아이스아메리카노? 라떼?
+P0 	: 아메리카노용
+P1 	: 저도 아메리카노 좋아해요 ㅎㅎ 옛날엔 너무 쓰다고 생각했는데 요즘엔 꼬소하게 느껴지더라구요
+P0 	: 아하
+P0 	: 아메리카노만 먹어요 저는
+P1 	: 바닐라나 헤이즐넛 시럽은 안 넣으시나요?
+P0 	: 네 안넣어요 단걸별로안좋아해서요

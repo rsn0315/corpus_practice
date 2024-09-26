@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010214
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 너 카트라이더 러쉬 해봤니?
+P1 	: 오오 해봤지~
+P1 	: 너는?
+P0 	: 나두 예전에 꽤 많이 플레이했어
+P1 	: 잘하니?
+P0 	: 그냥 그저그래
+P1 	: 카트라이더에서 좋아하는 캐릭터는 뭐였어?
+P1 	: 나는 우니를 좋아해.
+P0 	: 나는 그 빨간색
+P1 	: 우니 귀엽지않니?
+P0 	: 이름이 뭐더라
+P1 	: 빨간색이라면 배찌 말이구나
+P0 	: 맞아 나는 배찌좋아해
+P1 	: 하지만 배찌는 플레이하기 어려웠어. 그렇지?
+P0 	: 그럼 너는 우니 스킨도 샀니??
+P1 	: 기간제였잖아.
+P0 	: 맞아 배찌는 갖기가 힘들었어
+P1 	: 그럼. 머리를 민 우니를 샀지
+P1 	: 그거 꽤나 웃겼어.

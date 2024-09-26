@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100040243
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강히 지내고 계신가요?
+P1 	: 아뇨 요즘 통 운동을 못하네요
+P1 	: 운동 하시는거 있나요?
+P0 	: 아 그러시구나
+P0 	: 저는 필라테스 주3회 정도 하는데
+P0 	: 어제 백신접종을 해서 다음주는 쉬려고요
+P1 	: 필라테스 많이 하시더라구요!
+P1 	: 배신 저도 이제 맞아야되는데 걱정되네요
+P0 	: 네 저는 어제 2차 맞았는데
+P0 	: 1차때보단 좀 더 반응이 있어서
+P0 	: 약먹고 쉬고 있어요
+P1 	: 벌써 이차 맞으셨나요?
+P0 	: 네 어제 2차 백신 접종했어요
+P1 	: 화이자 맞으셨나요?
+P0 	: 네 화이자 맞았어요
+P1 	: 아직 안 맞아서 백신 뭐 맞게될지 궁금하네요
+P0 	: 아 아직 안맞으셨으면
+P0 	: 그냥 mRNA라고만 뜬다던데
+P1 	: 그런게 떴었는지도 기억이 안나네요 ㅋㅋ
+P0 	: ㅎㅎ언제 1차 접종이신데요?
+P1 	: 예약할때 화이자 모더나라고는 안뜬게 확실한데
+P1 	: 담주화욜이요

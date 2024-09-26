@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100042583
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 저녁 맛있게 먹었니
+P0 	: 응 뭐 먹었는지 맞춰볼래?
+P1 	: 좋아
+P1 	: 오늘도 매운거니
+P0 	: 응 오늘은 좀 매웠어
+P1 	: 허허 위장이 신나서 탭댄스추겠네
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ고춧가루를 많이 넣어서 그렇지 원래 별로 매운 음식이야
+P0 	: 너도 잘 먹는 음식
+P1 	: 원래 별로 매운음식은 뭐야
+P0 	: 그러게 안 매운 음식이라고 보내려고 했는데 ㅋㅋㅋㅋ웃기네
+P0 	: 너도 거뜬히 먹을 만한 맵기의 요리야
+P1 	: 흠 빨간양념이니
+P0 	: 응 빨간 양념 요리야
+P1 	: 생선이 들어가니
+P0 	: 아니요 생선 안 들어가!
+P1 	: 고기가 들어가니
+P0 	: 응 고기 들어가
+	  오늘은 진도가 빠른걸?
+P0 	: 예리해
+P1 	: 김치가 들어가니
+P0 	: 헉 응 너무 결정적인 힌트다
+P1 	: 김치찌개구나

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100047619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 혹시 연애중이신가요?
+P1 	: 안녕하세요~
+P1 	: 아뇨 안하고 있어요~
+P1 	: &name1&님은 연애중이신가요?
+P0 	: 네 연애중이예요
+P0 	: 연애생각은 있으신가요?
+P0 	: 요즘 아예 생각없는분들도 많아서 물어봐요
+P1 	: 당장은 연애에 대해서 별 생각은 없는데 좋은 사람이 있음 만나야겠다는 생각은 있어요
+P1 	: 근데 주변엔 영 없네요 ㅠㅠ
+P0 	: 이상형있으세요?
+P1 	: 두루뭉술 하긴한데 코드 잘 맞고 볼수록 괜찮은 사람이요
+P1 	: 약간 이성볼 때 잘 안맞는 점이나 단점이 보이면 확 싫어지더라구요
+P0 	: 코드가 잘맞는다는 점이 진짜 많은걸 포함하누 말인거 같아요
+P0 	: 관점 가치관 관심사 등등 이요
+P1 	: 맞아요 저것들이 맞는게 쉽지 않으니까요~
+P1 	: 지금 만나시는 분이랑은 코드가 잘 맞으세요?
+P0 	: 네 생활패턴도 가치관도 취미도 비슷해요
+P0 	: 꽤 맞는편인거 같아요
+P1 	: 잘 만나셨네요! 그렇게 잘 맞기도 쉽지 않은데~
+P1 	: 식성도 비슷하신가요?
+P0 	: 저는 단것을 안좋아하는데 애인은 단거 좋아하는거만 빼면 비슷해요
+P1 	: 단거는 대부분 디저트류니까 식성 잘 맞으시면 같이 식사하실때 좋을 것 같아요!
+P1 	: &name1&님은 결혼 생각은 있으신가요?
+P0 	: 아직 없어요

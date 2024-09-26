@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015130
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 계단 걷기 운동 최고다
+P0 	: 그니깡 ㅋㅋ 엄마가 그래서 튼튼한듯
+P1 	: 그래 내 따라서 계단 걷기 좀 해라
+P0 	: 알았옹 이따가 같이 가자!
+P1 	: 그래
+P0 	: 맨날엄마혼자만 하고~!
+P1 	: 네가 안 했잖아
+P0 	: ㅋㅋ 이제 해야겠다 안하려고하면 좀 끌고가줘용
+P1 	: 가능할런지
+P0 	: 진짜다!
+P1 	: 그래 이따가 20층까지 올라가자
+P0 	: 알았어용 ㅋㅋ 힘들겠군
+P1 	: 할 만하다
+P0 	: 홈트 좀 해야겠다

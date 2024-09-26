@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100024452
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 갈 곳은 없어도 옷은 사줘야해요
+P1 	: 신발도 사줘야하구
+P0 	: ㅋㅋㅋㅋㅋㅋ맞아요
+P1 	: 그럼 또 가방도 하나 사고
+P1 	: ㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ 이렇게 지갑이 털리는거죠
+P0 	: 가방도 요즘 하나 사고 싶어서
+P0 	: 찾아보는데
+P1 	: 맞아요ㅋㅋㅋ 쇼핑의 세계는 무궁무진하다구요
+P0 	: 마땅히 맘에 드는건 없네요ㅠ
+P1 	: 오오!
+P1 	: 아ㅜㅠ 아쉽네요ㅠ
+P1 	: 저 어제 대화하는분이 마르헨제이 알려주셔서 보는데 꽤 귀여워서 구매욕구가 치솟더라구요
+P0 	: 오오
+P0 	: 저도 한번 봐야겠어요ㅎㅎ
+P1 	: 맘에 드시는거 있으심 좋겠어용!
+P0 	: 넘귀엽네요!!
+P1 	: 그쵸!
+P0 	: &name2&님은 중고거래해보신적은 있나요?
+P0 	: 당근마켓같은거요!
+P1 	: 넹! 지금 당근마켓에 올린거 답 오는거 기다리고있어용!
+P1 	: &name1&님은요?
+P0 	: 오오 지금 하고 계시군요!
+P0 	: 저도 집에 버리긴 아까운 새옷...근데 안입는 것들이 있으면
+P0 	: 바로바로 당근에 올려요ㅎㅎ

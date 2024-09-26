@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002826
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 네~주로 배달로 시켜 먹어요
+P0 	: 치킨은 주로 배달로 시켜먹어요
+P1 	: 저두요 ㅎ 배달시켜서 한달에 3번정도
+P0 	: 할인하는 치킨 있으면 그 브랜드로 먹어요 ㅎ
+P1 	: 저두 그럴때 꼭 먹어요 ㅋ
+P0 	: 네~할인 많이 받아야 행복 ㅎ
+P1 	: 할인기회는 놓치지 말고 받아야죠^^
+P0 	: 네~ㅎㅎ 주말에도 치킨 할인소식 있으면 좋겠어요
+P1 	: 최근에 쇼핑한거 있으세요~?
+P0 	: 저는 오늘 쌀을 사려고 해요
+P1 	: 어머나 저도 쌀사야하는데 몇일전부터 검색해보는데 뭘사야할지 모르겠어요 ㅋ
+P0 	: 저도 엄청 검색하고 있어요 근데 뭐가 좋은지 모르겠어요
+P1 	: 맛있는 쌀 사고싶은데 ~ 어렵네요 ㅋ 종류가 많아서
+P0 	: 네~저는 10킬로로 사려고요
+P1 	: 저두 10킬로 생각하고 있어요~^^

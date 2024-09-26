@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100036062
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 고모가 요즘엔 이게 유행이라며? 하면서 분모자 던져주고 가셨는데 골치에요 ㅋㅋ큐ㅠ
+P0 	: 저도 분모자는 취향에 안 맞더라고요. 식감도 그렇고 간도 잘 안 배고...
+P1 	: 오늘 저녁은 뭐 드실 예정이세요?
+P0 	: 카레 데워먹을 거 같아요!
+P1 	: 카레 맛있죠 특별히 더 넣는 거 있나요?
+P0 	: 평범해요ㅎㅎ &name2& 님은 있으세요?
+P1 	: 데울 때는 우유나 요구르트 넣고 데워요
+P0 	: 오 부드러워지나요?
+P1 	: 네 그렇게하면 더 맛있는 것 같아요
+P0 	: 요구루트 넣으면 새콤한 맛이 나나요?
+P1 	: 새콤한 맛은 안 나요 종류에 따라서 좀 달아질 순 있을 거에요
+P0 	: 오 감사해요!

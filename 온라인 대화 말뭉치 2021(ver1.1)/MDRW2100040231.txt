@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100040231
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오랜만이에요 ! 점심 드셨나요
+P0 	: 네 점심 먹었어요ㅎㅎ
+P0 	: 점심 드셨어요?
+P1 	: 저는 아침 대충 먹고 낮잠잤어요ㅋㅋㅋ
+P1 	: 이제 쿠키 먹으면서 티타임이나 가져볼까 합니다 후후후
+P0 	: 이야 멋진 주말을 보내고 계시네요ㅋㅋㅋ 무슨 쿠키 드세요?
+P1 	: 쿠키세트를 선물받아가지고ㅋㅋㅋㅋ 녹차쿠키랑 얼그레이 쿠키인 것 같아요
+P1 	: 음하하
+P0 	: 헐 대박
+P0 	: 진짜 맛있어보여요 으악
+P0 	: 티는 뭐 드세요
+P1 	: 티는 제가 좋아하는 홍차로ㅎㅎㅎ 근데 좀 덥네여
+P0 	: ㅋㅋㅋㅋㅋ아직 날이 뜨뜻한데 따뜻한 음료 드셔서 그런가봐요
+P0 	: 저도 뭐 마시는 중인데 뭐 먹는지 맞춰보실래요?
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ앗 완전좋아요~
+P1 	: 따뜻한 음료인가요?
+P0 	: 아니요~ 차가운 음료예요
+P1 	: 얼음을 띄웠나요?
+P0 	: 아니요! 얼음이 없습니다 ㅎㅎㅎ
+P1 	: 색이 투명한가요 탁한가요?
+P0 	: 탁합니다 예리한 질문이예요

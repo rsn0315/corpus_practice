@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034982
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 카페를 좋아하시나요?
+P0 	: 커피를 잘 못먹어서 디저트 맛집으로 자주 가요!
+P0 	: &name2&님은 어디자주 가시나요?
+P1 	: 저는 지갑 사정이 좋을 땐 폴바셋, 별로일 땐 스벅이나 투썸으로 가요ㅋㅋㅋㅋ 스벅이랑 투썸은 깊티가 들어오니까요...ㅎㅎ
+P0 	: 폴바셋 커피가 맛있나요? 폴바셋은 가본적이 없는 것 같아요..!
+P1 	: 폴바셋 밀크티와 아이스크림이 맛있어서여! 특히 에타ㅠㅠㅠ
+P0 	: 셋다 제가 좋아하는 것들인데요!! 투썸 밀크티보다 훨씬 맛있나봐요 ..!
+P1 	: 우유 때문인지는 모르겠지만 저는 개인적으로 더 좋았어요!
+P0 	: 오 먹어봐야겠어요ㅎㅎ 폴바셋 검색해보니까 매장이 많이 없네요.. 외출할때 사와야겠어요
+P1 	: 저두 그래서 자주는 못 가여ㅠㅠ
+P0 	: 아쉽네요 ㅠㅠㅠ
+P0 	: 투썸은 어떤 디저트 좋아하시나요?
+P1 	: 케이크류도 좋아하고 푸딩도 맛나더라구요
+P0 	: 오 푸딩도 맛있나요? 매일 케이크만 먹었었는데 먹어봐야겠어요
+P1 	: 푸딩...비싸긴 하지만 맛납니당ㅋㅋㅋ 약간 일본푸딩같은 스타일이에요!

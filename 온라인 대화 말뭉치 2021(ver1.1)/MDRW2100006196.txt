@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100006196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니
+P1 	: 경력직의
+P1 	: 그럼...
+P1 	: 몇세시죠?
+P0 	: 사회초년생입니다
+P1 	: 후반이신가요?
+P0 	: ...네
+P1 	: 첫직장?
+P0 	: 네
+P1 	: 오
+P1 	: 오래하시네요
+P0 	: 음?
+P0 	: 아
+P1 	: 3년이면
+P0 	: 그 나름대로
+P1 	: 한직장에
+P0 	: 적성에 맞는지라
+P0 	: 아 그러고보니
+P1 	: 괜찮은 회사 인가봐요
+P0 	: 3년차 징크스?
+P1 	: 오~
+P1 	: 네
+P0 	: 같은게 있다는 얘기는 들었어요

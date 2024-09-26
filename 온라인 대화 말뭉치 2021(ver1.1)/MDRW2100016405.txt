@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100016405
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 여기는 비가 그쳤어요
+P0 	: 지역이 어디세요?
+P1 	: 경상도요
+P1 	: 님은요?
+P0 	: 저는 서울이요
+P0 	: 여기는 오늘 비 안왔어요 ㅋㅋ
+P1 	: 환절기인데 감기조심하세요
+P0 	: &name2&님도 건강 유의하세요 ㅠㅠ
+P0 	: 가을 옷정리 하셨나요?
+P1 	: 이제 꺼내려구요!
+P0 	: 가을은 너무 짧더라구요
+P1 	: 맞아요 요즘 기후가 이상하네요
+P0 	: 맞아요 봄도 짧구요

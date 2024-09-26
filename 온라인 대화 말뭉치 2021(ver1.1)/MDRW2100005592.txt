@@ -1,0 +1,76 @@
+# FILE DATA
+ID : MDRW2100005592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 직업이어떻게되시나여
+P1 	: 저는 아직 학생이에요
+P0 	: 아하
+P0 	: 알바하시나요?
+P1 	: 아니요ㅜ
+P1 	: 이번에는 쉬고있어요
+P0 	: ㅠㅠ 대학생이신거죠
+P1 	: 네 맞아요
+P1 	: &name1&님은 직업이 있으신가요?
+P0 	: 네네
+P0 	: 저는 직장인이에요
+P0 	: 2년차예용
+P1 	: 코로나인데
+P1 	: 재택근무하시나요?
+P0 	: 순환재택하고있어요
+P1 	: 그렇군요
+P1 	: 어떠세요?
+P0 	: 저는 재택하는거 좋다라구요
+P1 	: 오
+P1 	: 재택근무하면 더 늘어질 것 같은데
+P1 	: 괜찮으신가요??
+P0 	: 아 좀 그렇긴해요ㅠ
+P0 	: 요즘 그래도 덜바쁜 시기라
+P0 	: 쉬엄쉬엄할수있어서 좋긴한데 일많을때는 별로안좋을것같아요 소통이어려워서
+P1 	: 아 그렇죠
+P1 	: 저도 팀플때문에 줌이나 미트로 회의하면
+P1 	: 너무 소통하기 어렵더라구요
+P0 	: 맞아요
+P0 	: ㅠㅠ
+P0 	: 인턴같은것도 하시나요?
+P1 	: 이번년에 짧게 해봤었어요!
+P0 	: 저는 인턴은 안해봐서
+P0 	: 회사다니는거랑 비슷할것같긴하더라구요
+P1 	: 정말정말 잡무를 맡겨주셨어서
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 분위기만 파악했던거같아요 ㅎㅎ
+P0 	: 어렵지 않아서 다행이었네여

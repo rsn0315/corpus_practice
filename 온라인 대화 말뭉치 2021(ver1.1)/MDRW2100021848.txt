@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100021848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책이나 잡지 보시는거 있나여?
+P1 	: 미비포유 후속작 봤어요
+P0 	: 아.. 모르는거내요.. 미비포유? 뭐애요?
+P1 	: 영화로도 나왔어요
+P1 	: 무슨 책 좋아하세요?
+P0 	: 책은 피와살이되는 사회과학쪽이요.. 
+	  주로 소설 보세요?
+P1 	: 네ㅋㅋ
+P1 	: 사회과학 추천해주세요
+P0 	: 최근건 사피엔스가 대박이엇고
+P0 	: 상식밖의 경제학도 유명햇엇고..
+P1 	: 아 박학다식해요!!!
+P1 	: 적어둬야겠어요
+P0 	: 오.. 적극적인 자세.. ㅋㅋㅋ
+P0 	: 도서관 자주가시나여?
+P1 	: 오늘 갔었어요
+P1 	: 주위분들 많이 가더라고요
+P0 	: 대출하러요?
+P1 	: 반납이요
+P0 	: 무슨 책 보셧어요?
+P1 	: 원플러스원이라는 소설이요

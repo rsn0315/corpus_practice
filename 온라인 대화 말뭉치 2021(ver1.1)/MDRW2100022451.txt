@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 전 점심 먹었어요 식사 하셨어요?
+P0 	: 칼국수요
+P1 	: 전 갈비찜먹었어요 무슨 칼국수 드셨어요?
+P0 	: 바지락칼국수요
+P1 	: 칼국수 좋지요 비도 오니 어울려요 저는 들깨칼국수도 좋아해요
+P0 	: 것도 맛나죠
+P1 	: 데이트하러 갈때 주로 뭐드세요?
+P0 	: 맛집이요
+P1 	: 어떤메뉴요
+P0 	: 파스타요
+P1 	: 어떤 파스타 좋아하세요?
+P0 	: 토마토요

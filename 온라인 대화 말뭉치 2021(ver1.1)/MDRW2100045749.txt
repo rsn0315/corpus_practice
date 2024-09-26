@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100045749
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅋㅋㅋㅋ푹 주무셨나요! 저는 밤을 불태웠습니다 허허허
+P1 	: 어제 저녁식사 하셨나요?
+P0 	: 네네 간단하게 먹었어요
+P0 	: 헉 밤새셨어요?
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ오늘 마지막으로 달리기 위해 새브렀지 뭐예요
+P1 	: 그럼 제가 저녁 뭐 드셨었는지 맞춰볼게요!
+P1 	: 한식인가요?
+P0 	: 헉 네 한식이예요
+P1 	: 매운 음식인가요?
+P0 	: 아니요!
+P0 	: 살짝 그 쪽인 것 같긴 하지만 맵지않았어요
+P0 	: 힌트입니당 ㅎㅎ
+P1 	: 으으으음 빨간색 요리인가요?
+P0 	: 네 맞아요
+P1 	: 면 요리인가요?
+P0 	: 아니요 밥이에요
+P1 	: 국물요리인가요!
+P0 	: 네!
+P1 	: 앗 고기가 들어가나요?
+P0 	: 네 거의 근접해진 것 같아요 ㅎㅎ
+P1 	: 김치가 들어가나요?
+P0 	: 네 ㅎㅎ
+P1 	: 앗 정답! 김치찌개!!
+P1 	: 정답! 김치찌개!!!

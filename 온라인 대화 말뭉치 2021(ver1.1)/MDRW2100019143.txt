@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100019143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 종교 있으신가요
+P1 	: 아니요 저는 무교에요
+P1 	: &name1&님은 종교가 있으신가요?
+P0 	: 저도 무교에요
+P0 	: 근데 모태신앙ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ모태신앙인데 어떻게 무교일수있어요?!
+P0 	: ㅋㅋㅋㅋㅋㅋ 그렇게됏어요
+P0 	: 근데 전 불교 궁금함
+P1 	: 저두요 제 남편이 불교신자에요
+P0 	: 아 진짜요? 결혼하셨나봐요
+P1 	: 네 근데 군대갔어요 지금
+P1 	: 그치만 어쨌든 저는 무교랍니다
+P0 	: 아이고 ? 결혼후 군대를 ?
+P0 	: 불자님도참....
+P1 	: 그러니까요 흑흑.. 그치만 믿음이 중요하죠... 후후
+P1 	: &name1&님 모태신앙은 어떤종교신가요?
+P0 	: 천주교입니당
+P0 	: 갑자기저도 나가볼까 하는생각이들어요
+P1 	: 오 천주교 좋죠. 바빠서 못가신건가요? ㅠ
+P0 	: 아뇨 귀찮아서 ㅎ 잘생긴 신자들 있는데면 가고싶어요

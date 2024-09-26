@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 여기는 종일 비왔는데 거기도 그런가요?
+P0 	: 네 제가 있는 곳은 보슬보슬 내리다가 지금은 그쳤네요~
+P0 	: 좋아하는 계절 있으세요?
+P1 	: 여름 좋아합니다^-^ 여긴 아직도 비와요 정말 쉬지 않고 오네요
+P0 	: 저도 여름 좋아해요 ㅎㅎ
+P0 	: 태풍주의보로 난리네요!!
+P1 	: 맞아요 오늘 종일 해를 못 본것 같아요
+P0 	: 덥지 않아서 좋긴 한데 좀 굽굽하네요 ㅎㅎ
+P1 	: 맞아요. 냄새도 나는것 같고요 ㅠ
+P0 	: 습하면 확실히 축 쳐지는거 같아요
+P1 	: 내일까지 이런다니 수요일은 해 좀 봤으면 좋겠네요
+P0 	: 날씨가 중간이 없는거 같네요 ㅠㅠㅠ 넘 극단적이에요 ㅎㅎ
+P1 	: 맞아요. 갑자기 쌀쌀해지더니 태풍이 오려고 그랬나봐요
+P0 	: 그쵸 밤에는 쌀쌀하더라고요~~
+P1 	: 오늘은 평소 입던대로 입었는데 춥더라고요
+P0 	: 그쵸 얇은 긴팔 입어야 좋은 거 같아요~

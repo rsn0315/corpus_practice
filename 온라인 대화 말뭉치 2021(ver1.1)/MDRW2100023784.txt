@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023784
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 점심 드셨나요?
+P1 	: 네~벌써 저녁 먹으려해요
+P0 	: 뭐 드실 예정이에요?
+P1 	: 오므라이스요
+P1 	: 급먹고싶어서 ㅋㅋ
+P1 	: &name1&은 뭐드세요~?
+P0 	: 저는 피자요ㅋㅋ
+P1 	: 무슨피자드세요!!
+P0 	: 도미노에서 포테이토 피자 시켰어요 기본피자를 좋아해서요
+P1 	: 맛있겠어요!:)
+P1 	: 포테이토의 고소한맛 :)
+P0 	: &name2&은 직접 오므라이스 만들어 드시는 건가요?
+P1 	: 네 ㅋㅋ다먹었어요
+P1 	: 케찹맛과 계란맛이 갑자기 생각났어요 ㅋㅋㅋ
+P0 	: 저도 오므라이스 만들어먹고 싶네요ㅎ 저번에 케찹볶음밥 방식으로 만드는걸 보고 군침 돋더라고요
+P1 	: ㅎㅎ비오니까 부침개 먹고싶어요

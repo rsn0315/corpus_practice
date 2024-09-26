@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100023780
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 예를 들면
+P1 	: 어떤 색?
+P0 	: 잘 모르겠어 근데 구현하기 어려운 색이 있다고 하더라고
+P1 	: 그건 어쩔 수 없지
+P0 	: 외국은 염색해 주는 미용실이랑 커트 해 주는 미용실이랑 아예 따로 있대
+P1 	: 아 진짜?
+P1 	: 우리처럼 같이 안하고?
+P0 	: 응 그래서 염색하는데 서는 염색만 하고  미용사 호칭도 다르대
+P1 	: 호칭이 어떤데?
+P0 	: 컬러리스튼 가 그렇게 부른다고 하던데
+P1 	: 염색해주는 사람을?
+P0 	: 응  미용사라 안하고
+P1 	: 말이 되기는 하네
+P0 	: 그치 그럴 듯했어
+P1 	: 근데 조금 신기하기는 하네
+P1 	: 그건 그렇지
+P0 	: 근데 커트도 하고 염색도 같이하는 게 훨씬 편하지 않나
+P1 	: 복잡하지 않으니까
+P0 	: 그래서 좀 불편할 거 같다는 생각을 했어

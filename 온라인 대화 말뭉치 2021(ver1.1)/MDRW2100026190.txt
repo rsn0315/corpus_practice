@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교가 있으신가요?
+P1 	: 저는 없어요
+P1 	: &name1&은 있으신가요?
+P0 	: 저는 기독교에요!
+P0 	: 종교를 다니실 생각이 있으신가요?
+P1 	: 아직은 없어요
+P1 	: &name1&은 언제부터 교회에 다니셨나요?
+P0 	: 저는 모태신앙이에요 엄마가 다녀서 같이 다니게 된 사람이라서요 ㅇㅎㅎㅎㅇ
+P0 	: 저는 절 느낌이 좋아서 가끔 가고는해요 단풍구경도 하구요 ㅎㅎ
+P1 	: 그런데 아직까지 믿음이 깨지시지 않으신건가요?
+P0 	: 음 전 믿음이 약한 사람이라서요 ㅎㅎ...
+P0 	: 그래서 꾸준히 나가지만 잘나가기는 하고있어요 ㅎㅎ
+P1 	: 그럼 일요일예배는 꾸준히 하시나요?
+P0 	: 네 꾸준히 나간답니다 ㅎㅎ
+P0 	: 감정이 오를때는 항상 저의 종교를 찾기도 하구요
+P1 	: 절은 어디 절 가보셨나요?
+P0 	: 일단 부산에 해동용궁사인가요 거기도 가봤고 경주 불국사도 가봤어요! 순천이나 해남 이런곳도 가보구요
+P0 	: 절은 절만이 가지고 있는 아늑함이 굉장히 좋은 것 같아요
+P1 	: 맞아요 아무래도 절은 산 속에 있으니까 더 아늑하다고 느끼는 것 같아요
+P0 	: 맞아요 ㅎㅎ 그느낌이 좋아요
+P0 	: 만약 종교가 생긴다면 어떤 종교일것같나요?
+P1 	: 저는 기독교일 것 같아요

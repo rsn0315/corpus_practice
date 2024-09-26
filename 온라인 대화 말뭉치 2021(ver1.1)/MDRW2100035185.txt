@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 다닐때 어떤 학생이셨나요?
+P1 	: 좀 성실했죠 님은요?
+P0 	: 저도 모범생이었어요. 성실하셨으면 공부도 잘하셨겠군요
+P1 	: 성실하다고 꼭 잘하는건 아니지만 그런 편이었죠 ㅋㅋ
+P1 	: 먼저 여쭤보신걸 보면 &name1&님이 성적이 좋으셨겠군요
+P0 	: 전 괜찮았어요^^ 수업시간에 자거나 하지 않으셨겠군요
+P1 	: 네 ㅋㅋ 정 시간남음 교과서 앞뒤로 보고 그랬죠
+P0 	: 알아서 예복습을 하셨군요^^
+P1 	: 수업중에 딴얘기를 하거나 아는 얘기 또나오고 그러면 슬슬 보는거죠
+P0 	: 오~ 자투리 시간도 헛되이 쓰지 않으려고 하셨군요..
+P1 	: &name1&님도 예복습 잘하셨을 것 같아요
+P0 	: 전 한달전부터 시험공부를 시작해서 한달전에 한달 후꺼까지 미리 봤어요 ㅎ
+P1 	: 역쉬, 대학 시험말고 초중고대 그러신거죠?
+P0 	: 대학시험은 벼락치기 했고요 ㅋㅋ 중고때만 저렇게 했어요
+P1 	: 아뉫ㅋㅋ 이런 반전이 ㅋㅋㅋㅋㅋ

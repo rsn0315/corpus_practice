@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100040840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 위해 먹는 영양제 있나요?
+P1 	: 백신 접종하셨나요
+P1 	: 아 저는 비타민이랑 밀크시슬 먹어요
+P0 	: 밀크시슬은 어디에 좋나요?
+P1 	: 간에 좋다더라고요
+P1 	: 저는 얼굴에 열이 잘 올랐는데 밀크시슬 먹음 좋다고 해서
+P1 	: 먹기 시작했어요
+P0 	: 간에 좋은 거군요 알아봐야겠네요
+P0 	: 저는 칼슘 마그네슘
+P0 	: 비타민 씨랑 디 먹어요
+P1 	: 오 다양하게 챙겨드시는군요
+P0 	: 뼈건강이랑 감기예방을 위해서요
+P1 	: 건강관리 열심히 하시네요
+P0 	: 이게 저도 신경안썼었는데
+P0 	: 코로나 이후로 건강한것이 얼마나 중요한지 느끼게 돼서
+P0 	: 최근에 챙겨먹기 시작했어요
+P0 	: 장건강을 위해 유산균도 알아보는 중이에요
+P1 	: 유산균도 많이들 챙겨 먹더라고요
+P0 	: 네 근데 종류가 많아서 아직 정착하지 못했어요
+P1 	: 요즘 영양제도 워낙 다양해서
+P1 	: 선택하기 쉽지 않더라고요
+P0 	: 그러니까요
+P0 	: 무조건 비싸다고 좋은 것도 아니고
+P0 	: 유명하다고 좋은 것도 아니고
+P0 	: 나한테 잘 맞는 제품 찾는게 쉽지 않아요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100037491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요. 초밥 드세요?
+P1 	: 아니요 초밥 좋아하지 않아요
+P0 	: 오 그러면 새우초밥도 안드세여?
+P1 	: 네 초밥류는 다 안 먹어요..
+P1 	: 회도 안 좋아하고 와사비도 안 먹어서요
+P0 	: 유부초밥도요??
+P0 	: 오...
+P0 	: 익힌새우초밥도??
+P1 	: 유부초밥은 먹고
+	  익힌새우초밥은 아직 본적이 없네요
+P0 	: ㅋㅋㅋㅋㅋ오..그러시군요
+P0 	: 장어초밥도안드세요??
+P1 	: 네
+P1 	: &name1&님은 초밥 좋아하세요?
+P0 	: 네
+P0 	: 왠만한거 다먹은데 자숙새우 안돟아해여
+P1 	: 그러시군요
+P1 	: 자숙새우는 뭔가요?
+P0 	: 익힌거요
+P0 	: ㅎㅎㅎㅎ
+P1 	: 아 익힌새우를 자숙새우라 부르군요

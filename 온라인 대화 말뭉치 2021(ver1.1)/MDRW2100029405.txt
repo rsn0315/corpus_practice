@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100029405
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 아직 하지 않았습니다
+P1 	: 식사하셨나요?
+P0 	: 시리얼이오
+P1 	: 시리얼도 종류가 많죠 어떤 시리얼을 가장좋아하시나요?
+P0 	: 호랑이기운이요
+P1 	: 그렇군요ㅎㅎ 우유는 적게드시는 편인가요?
+P0 	: 네
+P1 	: 평소에도 즐겨드시나요? 아니면 오늘 일정때문에 간편하게 드신건가요?
+P0 	: 평소에도요
+P1 	: 다른 음식은 어떤걸 좋아하시나요
+P0 	: 한식 좋3
+P0 	: 좋아요
+P1 	: 단한가지만 고르라면 어떤걸 선택하시겠어요?
+P0 	: 불고기요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100037791
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이세요?
+P0 	: 아니요 학생이신가요?
+P1 	: 아 저두요 ㅎ 졸업하신지 오래되셨나요?
+P0 	: 한 오년되었어요
+P0 	: 동아리활동 하셨어요?
+P1 	: 아뇨 ㅠ 님은요?
+P0 	: 저는 새내기때 아주 잠깐했어요
+P1 	: 어떤 동아리요?
+P0 	: 배드민턴이요
+P1 	: 오 저도 배드민턴 동아리나 동호회 들어가보고싶어용 호기심 !
+P0 	: 그죠 근데 술동아리라서
+P0 	: 저는 술을 안좋아해서 나왔어요
+P1 	: ㅋㅋㅋㅋㅋㅋ맞아요
+P1 	: 보통 이름만 그렇게해놓도
+P1 	: 친목도모가 주목적이죠 ㅋㅋ
+P0 	: 저는 배드민턴이 목적이였는데ㅠㅠ
+P0 	: 잘찾아보면 아닌데도 있겠지만요
+P0 	: 보통 아니죠...

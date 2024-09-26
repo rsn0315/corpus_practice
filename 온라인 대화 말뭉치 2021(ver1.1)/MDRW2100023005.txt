@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100023005
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&
+P1 	: 날씨가 좋죠?
+P0 	: 네 ㅎ 더위도 가시는거같고 좋네여
+P0 	: 사계절중 어떤계절이 좋아요?
+P1 	: 여름이요
+P1 	: 오감이 만족되는 계절 아닙니까?
+P0 	: 하하 ㅎㅎ 전 봄이 ㅎ
+	  꽃이 피는 설렘이라던지 좋더라구요
+P1 	: 아~ 꽃이요 로멘티스트셨네
+P1 	: 저 집에서 꽃키우는데
+P1 	: 방울토마톸ㅋㅋㅋㅋ 꽃이 폈어요 아마 한두달쯤이면 열매를 수확할수있을것같네요
+P0 	: 우오
+P0 	: 꽃을 좋아하는데 키워놓은 꽃은 다 죽어버렸습니다ㅜ
+P1 	: 플라워슬레이어 십니까
+P1 	: 물잘주고 햇빛잘쬐여 주니까 알아서 잘크던데
+P0 	: 너무 물을 많이 준게 아닐까??? 생각합니다
+P1 	: 난이도가 높은 꽃을 키우신거 아니예요?
+P1 	: 초보자한테 추천할만한 식물같은걸 키우시면 잘 자랄거요?
+P1 	: 걸요
+P0 	: 선물 받은건데 ㅜㅜ 글쎄요ㅜ
+P0 	: 꽃집에서 가장 기르기 쉬운 꽃 사왔다고 했는데ㅜ친구가
+P1 	: 꽃을 선물한것은 사심이 있다는게지요
+P0 	: 앗 ㅎㅎ 동성친구요
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 여름이라 그런지 
+	  겨울에 샀던 식물하나는 잘 살아있습니다!
+P0 	: 다행이지요
+P0 	: 가을장마도 끝난거같아 좋습니다

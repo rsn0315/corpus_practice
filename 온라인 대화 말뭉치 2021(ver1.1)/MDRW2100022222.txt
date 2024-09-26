@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022222
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 일본 중고거래요?
+P0 	: 네 일본에도 우리나라 중고나라 처럼 중고거래 사이트가 있더라구요
+P1 	: 주로 뭘 사시나요?
+P0 	: 제가 좋아하는 만화 굿즈를 사요
+P1 	: 우리나라에서 구하기가 힘든가요?
+P0 	: 네 아무래도 일본 만화다 보니 그쪽이 더 싸고.. 희귀한 굿즈가 많아요
+P1 	: 직구로 구매하시는 거예요?
+P0 	: 아니요 거기는 한국사람은 가입을 할 수 없어서 구매대행을 이용해야해요ㅠㅠ
+P1 	: 아하..그런 대행서비스도 있나봐요?
+P0 	: 네네 수수료가 비싸긴 한데 일정수수료 지불하고 결제랑 배송대행까지 해주는 곳이 있어요
+P1 	: 굿즈는 왜 사시는거예요?
+P0 	: 그냥 수집이에요.. 우표수집이나 동전수집처럼ㅋㅋ
+P1 	: 신기하네요!
+P0 	: 타오바오 해보셨어요?

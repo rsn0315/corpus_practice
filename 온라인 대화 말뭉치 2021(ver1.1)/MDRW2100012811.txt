@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012811
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요.
+P1 	: 대학생인가요?
+P0 	: 아니요 &name2&님은요
+P1 	: 저도 직장인이에요 ㅎ
+P1 	: 학창시절엔 어땠나요?
+P0 	: 홈스쿨링 했어요
+P0 	: &name2&님은요?
+P1 	: 저는 대졸이에요~
+P1 	: 홈스쿨링 어떤식으로 하셨어요?
+P0 	: 집에서 했어요
+P0 	: 동아리활동 해보셨나요?
+P1 	: 네 동아리활동 짧게 해봤어요
+P1 	: 티볼 동아리였는데 제가 생각한 거랑 다르더라구요 ㅠㅜ
+P0 	: 와 티볼 멋있네요
+P1 	: 티볼.. 캐치볼만 하다가 나왔어요..
+P0 	: 실망했겠네요
+P1 	: 네.. 그래서 그 뒤로 동아리 안했어요
+P1 	: 홈스쿨링 하고 대학교 진학 한거에요?
+P0 	: 맞아요

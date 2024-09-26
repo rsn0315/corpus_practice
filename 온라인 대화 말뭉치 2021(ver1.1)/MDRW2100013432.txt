@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100013432
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 중고거래 많이 해보셨어요?
+P0 	: 음 많이는 아니지만 필요할 때마다 중고거래를 하긴 해요!
+P1 	: 아 이상한 사람 만난적은 없으셨어요?
+P0 	: 이상한 분... 제 기준 이상한 분이라고 하면 만나본 적 있어요
+P1 	: 어떤 사람이었어요?
+P0 	: 처음 거래할 때였는데 차에서 내리자마자 돈이랑 물건 교환하더니 확인도 안하고 차타고 가버리신 분이요 ㅡㅋㅋㅋ
+P1 	: 아 되게 쿨하신 분이네요
+P0 	: 맞아요ㅋㅋㅋㅋ &name2&은 중고거래 해보셨어요?
+P1 	: 저도 자주 하는 편인거같아요
+P0 	: 최근에 어떤 거래를 하셨어요??
+P1 	: 저는 이어폰이나 책 팔았어요
+P0 	: 오 이어폰은 무선 이어폰을 파신거죠?
+P1 	: 네 무선인데 19만원에 사서 12만원에 팔았네요..

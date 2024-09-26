@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100004788
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 공연/전시회 관람 좋아하시나요?
+P0 	: 저는 뮤지컬/영화 좋아해요^^ &name2&님은요?
+P1 	: 오 저도요
+P1 	: 최근에 본 뮤지컬/영화는 어떤 건가요?
+P0 	: 저는 뮤지컬은 드라큘라가 최근이고 영화는 블랙위도우 봤어요ㅎㅎ
+P1 	: 오 그러시군요
+P0 	: &name2&님은요?
+P1 	: 저는 최근에 레드북이란 뮤지컬을 봤어요
+P1 	: 영화는 영화관 가서 본 건.. 크루엘라가 최근이예요
+P0 	: 레드북은 첨들어요^^ 재밌었나요?
+P1 	: 네 네이버 찾아보면 쇼케이스 볼 수 있어요
+P1 	: 저도 그것 보고 빠져서 예매했죠ㅎㅎ
+P0 	: 함봐야겠네요^^ 영화요즘 많이개봉해서 보러가고싶더라구요ㅎㅎ
+P1 	: 네네 평이 좋은 영화도 많던데
+P1 	: 영화관 나들이 하면 좋겠어요
+P0 	: 친구들이 모가디슈 봤는데 괜찮대요ㅎㅎ
+P1 	: 네 모가디슈도 재미있다고 들었어요
+P1 	: 근데 저희집 근처는 코로나 확진자가 꾸준히 두자리수라 영화보러가기가 무섭네요

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015817
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 치킨좋아하세요?
+P1 	: 네 치킨 좋아요 ㅋㅋㅋ
+P1 	: &name1&님은요?
+P0 	: 저도 치킨좋아해요! 어디브랜드 선호하세요?
+P1 	: 저는 뿌링클이요
+P1 	: ㅎㅎ
+P0 	: 저는 교촌치킨 좋아해요! 드셔보셨나요?
+P1 	: 네네넹 당연하죠!!!
+P1 	: 예전에는 교촌이 맵다고 느꼈는데 요즘은
+P1 	: 허니콤보만 먹어서
+P1 	: 이미지가 확 바뀌었어요
+P0 	: 허콤 맛있죠ㅠ 내일 점심 뭐 드시고싶으세요?
+P1 	: 오
+P1 	: 저는 허니콤보...요 하지만 점심은 그럴 수 없으니
+P1 	: 음....
+P1 	: 빅맥 세트 먹고 싶네요!!!!ㅋㅋㅋㅋ
+P1 	: 아미면 뜨끈한 돼지국밥이요
+P0 	: 국밥 맛있겠다ㅠㅠ 좋아하는 카페 브랜드 있으세요?
+P1 	: 아 저 이디야 집앞에 있어서 자주가요
+P1 	: 뭔가 이디야는 사장님이 직접 많이 나오시고
+P1 	: 다들 친절한 느낌???
+P1 	: 친근..푸근???
+P1 	: 그래서 좋아합니다 ㅎㅎ
+P1 	: 디저트는 투썸이용!
+P0 	: 저도 이디야 자주가요! 좋아하는 음료 있으세요?
+P1 	: 아아를 가장 많이 마시는데 꿀복숭아 플랫치노 맛있어요 ㅎㅎ
+P1 	: 꿀복숭아가 작은데 말랑 해서 재미있는 느낌이어서 좋아합니다
+P0 	: 전 연유라떼 좋아해요!

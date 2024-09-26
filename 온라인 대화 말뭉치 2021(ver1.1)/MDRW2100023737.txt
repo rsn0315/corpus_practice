@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100023737
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교끝나고 꼭 먹었었어요 ㅋㅋㅋㅋㅋ
+P0 	: 피자 좋아하세요?
+P0 	: 오늘 저녁은 피자를 먹었어요!
+P1 	: 아 피자 맛있죠~
+P1 	: 어떤 피자 드셨나요?
+P0 	: 알볼로에서 이벤트해서 시켜먹었는데
+P0 	: 4가지맛이 한판에 들어있었어요!
+P0 	: 그래도 도미노가 제일 맛있는거같아요^_^
+P1 	: 오~ 요즘 피자 장난아니네요
+P1 	: 도미노에서 어던 피자 제일 좋아하세요?
+P0 	: 저 블랙타이거쉬림프요!
+P0 	: 좋아하는 브랜드 있으세요?
+P1 	: 저는 그냥 식당 가면 사이드로 자주 시켜먹어요!
+P1 	: 피자보단 치킨파라 ㅎㅎ
+P0 	: 아하 사이드로!
+P0 	: 저도 원래 치킨파였는데 점점 피자가 좋아졌어요
+P1 	: 어떤 치킨 즐겨 드셨어요?
+P0 	: 저는 교촌좋아합니다! 교촌 오리지널레드반반 자주시켜요
+P0 	: &name2&은요?
+P1 	: 오!! 저는 뿌링클 좋아해요!!
+P0 	: 오 뿌링클 좋아하시는구나
+P0 	: 뿌링클은 한두번 먹어봤어요ㅋㅋ
+P1 	: 치즈 시즈닝 치킨 좋아해요 ㅋㅋㅋ
+P1 	: 양념 vs 후라이드?
+P0 	: 저는 후라이드요!
+P0 	: 양념은 소스 가끔 찍어먹는정도..?
+P0 	: &name2&은요?

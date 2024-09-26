@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100041545
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 음식이 있으신가요?
+P1 	: 저는 김밥천국에서 팔만한 것들 좋아해요
+	  떡볶이 김밥 냉면 오므라이스
+P1 	: &name1&님은요?
+P0 	: 헐 가성비 김밥천국이 짱이죠 ㅋㅋ
+P0 	: 저는 그때그때 달라지긴 하는데 지금은 육회 좋아합니다 :)
+P0 	: 회, 육회같은 날거 좋아하시나요?
+P1 	: 회는 쏘쏘고 초밥은 좋아해요
+	  육사시미도 맛있더라구요, 얇게 저민거
+P0 	: 초밥하니까 연어초밥 먹고싶네요 ㅋㅋ 육사시미도 진짜 맛있죠..!
+P0 	: 아침밥은 어떤거 드셨나요?
+P1 	: 연어 맛있죠, 저도 좋아해요 
+P1 	: 아점으로 닭갈비 예정입니당 ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 우와 ㅋㅋ 닭갈비 먹고싶어지네요 :)
+P0 	: 저는 간단하게 참치찌개 끓여서 먹을것같네요~
+P1 	: 오, 김치도 넣나요??
+P0 	: 찌개 좋아하시나요?
+P0 	: 네 그럼요!
+P1 	: 좋아해요!! 김치찌개 최애 차애 된장찌개요
+P0 	: 헐 저도 김치찌개 최애에요 ㅠㅠ 얼큰한게 최고죠
+P0 	: 밥 드시고 후식 드시나요?
+P1 	: 빙수나 케잌 먹고 싶어요 
+P0 	: 앗 저도 그래요 ㅠㅠ ㅋㅋ
+P0 	: 좋아하시는 빙수나 케이크 있으신가요?
+P1 	: 매번 다른 맛 먹어요! 오늘은 일행이 괜찮다고 하면 대추나 수정과빙수 도전해보고 싶어요
+P1 	: 두근두근
+P0 	: 오~ 되게 독특한 빙수네요 :) !
+P1 	: 그쵸? 맛이 궁금해요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 미용과 건강을 위해 하시는것이 있나요
+P0 	: 저는 피부과 주기적으로 다녀요
+P1 	: 저도 여드름이 있는데 피부과다니면 효과가 있나요?
+P0 	: 넵넵 레이저종류에 따라 다르지만 효과는 좋아요!
+P1 	: 한번 다녀봐야 겠네요
+P0 	: 네 돈이 비싼게 단점이고 너무 자주하면 피부가 자극받으니 1년에 한번정도 하시면 좋을거같아요
+P1 	: 아 ? 자주하는건 안좋군요?
+	  좋은정보 감사해요
+P0 	: 네 아무래도 뜨거운 레이저로 지지는거니 피부가 얇아지거나 하더라구요 시긴지나면 회복되구요
+P1 	: 아 그런 단점이 있군요
+P0 	: 성형은 혹시 해보셨나요?전 아직 그까진 시도를 못해봐서
+P1 	: 저도 성형은 무섭네요
+P0 	: 그쵸 성형 해보고싶긴한데 부작용보면 무서워서
+P1 	: 수술도 무섭지만 부작용은 더 무섭죠

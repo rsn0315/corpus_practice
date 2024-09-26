@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100042065
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁드셨어요?
+P1 	: 어후 답이 늦었네요 네! 먹었어요
+P0 	: ㅎㅎㅎ아녜요
+P0 	: 뭐드셨어요!
+P1 	: 저녁은 떡볶이 먹었고 아점으로는 버블티 먹고 있네용
+P1 	: &name1& 님은 뭐드셨나요?
+P0 	: 저는사과랑단호박이요!
+P1 	: 아침을 가볍게 드시네요! 단호박 정말 맛있겠어요
+P1 	: 올해 단호박이 정말 맛있더라고요 ㅎㅎ
+P0 	: ㅎㅎ맛있었어요
+P0 	: 과일좋아하세요?
+P1 	: 네! 좋아해요
+P0 	: 어떤거좋아하세요
+P1 	: 과일은 다 좋아해요 ㅎㅎ 최근에는 포도를 구매했어요
+P1 	: &name1&님도 과일 좋아하시나요?
+P0 	: ㅎㅎ저도좋아해요~
+P0 	: 디저트는어떠세요
+P1 	: 디저트도 좋아해요!
+P1 	: 하지만 요즘 건강이 걱정되어서 잘 못먹고 있어요 ㅠㅠ
+P1 	: 디저트 좋아하시나요?
+P0 	: 저는좋아해요
+P0 	: ㅜㅜ그러시군요

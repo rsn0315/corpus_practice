@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100035382
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 배달음식 어떤거 자주드세요?
+P1 	: 저희집은 치킨이요!! &name1&님은요?
+P0 	: 오 저희집도 치킨 많이 시켜먹어요!
+P0 	: 주로 어디브랜드 많이시켜드시나요?
+P1 	: 저희집은 60계치킨이요 ㅎㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 저는 교촌많이 시켜먹어요 허니콤보 ㅎㅎ
+P0 	: 무난하고 맛있어요!!
+P1 	: 오..맞아요 ㅠㅠㅠ 교촌 최고죠
+P0 	: 60계는 어떤 치킨이 맛있나요??
+P1 	: 간지치킨이라고 있는데 교촌 허니콤보랑 비슷하면서도 좀 다른 맛이나요. 간장 마늘맛나고 달달하고 좋았어요
+P0 	: 오 꼭 먹어볼게요 !!
+P0 	: 혹시 호랑이치킨 드셔보셨어요 맛있다는데..!
+P1 	: 저는 그거 라면맛난대서 시도도 안해봣어요..ㅋㅋㅋㅋ
+	  제가 라면맛 치킨한테 크게 데여봣거든요
+P0 	: 아 그렇군요ㅋㅋ 무슨맛인지 알 것 같아요...
+P1 	: 저 그 경롱이? 그거 시켯다가 욕먹은적이잇어서.. 저희집은 간장이나 마요까지만 어느정도 받아주는것같더라고요

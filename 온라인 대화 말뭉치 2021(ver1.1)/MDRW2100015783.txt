@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015783
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 학생이신가요?
+P0 	: 네! &name2&님은요?
+P1 	: 저는 학교 졸업했어요ㅎㅎ
+	  대학생이신가봐요
+P0 	: 네 지금 방학이네요 개강 얼마 안남았지만..
+P1 	: 방학 끝나가니 많이 아쉬울 것 같아요ㅜㅜ
+	  항상 방학은 너무나 빨리 지나가죠
+P0 	: 맞아요ㅠㅠ 아쉽네요..
+P1 	: 방학 시작 할 때는 기간이 길게 느껴지는데, 끝나갈때는 벌써 지나갔나 싶은거 같아요
+P1 	: 어느 학과이신지 물어봐도 될까요?
+P0 	: 저는 사학과에요!
+P1 	: 아!  사학과 다니시눈군요!
+	  저는 학교다닐 때, 역사과목을 정말 어려워해서 사학과는 생각도 못 했는데ㅜㅜ 
+	  역사쪽으로 좋아하시나봐요
+P0 	: 네ㅎㅎ &name2&님은 어느전공이신가요?
+P1 	: 저는 유아교육이요ㅎㅎ
+P0 	: 와! 저는 아이들이랑 친해지기 어려울것 같은데
+P0 	: 대단하세요!
+P1 	: 동생들이 있어서인지 아이들을 어렵게 생각하지는 않았던 것 같아요ㅎㅎ
+P0 	: 저도 동생은 있는데 아이들이랑은 다르게 느껴지더라구요 대단해요!!
+P1 	: 대단하다고 하시니 뭔가 부끄럽네요ㅎㅎ
+	  저는 어릴때부터 어린 아이들을 귀여워하고 좋아했던것 같아요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001474
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 백신은 맞으셨어요?
+P0 	: 2차까지 다 맞았어요!
+P1 	: 오 화이자로 맞으셨나요? 모더나로 맞으셨나요?
+P0 	: 화이자요!
+P1 	: 맞고 나서 부작용 같은거 경험하셨나요?
+P0 	: 팔이 아픈거 말고는 없었어요!
+P1 	: 오 다행이네요
+P1 	: 요즘 백신 부작용 관련해서 무서운 뉴스들이 몇개 보이다보니까
+P1 	: ㅎㅎㅎ
+P1 	: 백신 맞기 무서운 건 어쩔 수 없는 거 같아요 ㅠㅠ
+P0 	: 맞아요 ㅠㅠㅠㅠ
+P0 	: 그래도 혹시 모르니까 백신 맞는게 좋죠!
+P1 	: 그쵸그쵸 ㅎㅎ
+P1 	: 부스트샷에 대한 얘기도 나오던데
+P1 	: 그거에 대해선 어떻게 생각하세요?
+P0 	: 안전하다는 것만 확인되면 맞아도 될 것 같아요!
+P0 	: 안전이 최우선이죠
+P1 	: 맞아요 안전이 최우선이에요~
+P1 	: 건강이 최고다..!

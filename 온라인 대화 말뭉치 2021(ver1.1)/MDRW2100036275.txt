@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100036275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용
+P1 	: 저녁 드셧나용
+P0 	: 네 전 먹었어요 &name2&님은 드셨나요?
+P1 	: 네! 방금 먹고 왔습니다 ㅋㅋㅋ
+P1 	: 뭐 드셨어요? 전 그냥 집밥이요 ㅋㅋ
+P0 	: 저는 김치찌개요ㅋㅋㅋ
+P0 	: 좋아하는 음식 있으신가요?
+P1 	: 저 냉면 회 김밥이요 ㅋㅋ
+P1 	: 진짜 저 세 음식은 평생 저거만 먹으라구 해도 먹을 수 있을 것 같아요
+P1 	: &name1&님은 좋아하는 음식 잇으신가요?
+P0 	: 저는 떡볶이요
+P0 	: 김밥은 특히 좋아하시는 종류가 있으신가요??
+P1 	: 떡볶이 좋죠!!! 저 어제두 먹었어요 ㅋㅋㅋ
+P1 	: 김밥이라면 다 좋아하는 거 같아요 진짜
+P1 	: 매운 거 못 먹어서 땡초김밥 이런고만 아니면 다 좋아해요
+P1 	: 그냥 김에 밥만 말아두 맛있는 것 같아요
+P1 	: 짱
+P0 	: 우와 그럼 좋아하는 김밥 브랜드도 없으신가요??
+P1 	: 네 그냥 김밥 보면 다 먹어용
+P1 	: 김밥천국 김밥도 좋아하구
+P1 	: 편의점 김밥도 좋아하고
+P0 	: 냉면은 물냉파이신가요 아님 비냉파이신가요??
+P1 	: 전 진짜 둘 다 좋아해요 ㅋㅋ
+P1 	: 집에서도 물냉으로 시작ㅎㅐㅆ다가
+P1 	: 반절쯤 남으면 양념장 섞어서 비냉으로 먹어요
+P1 	: 비냉먹느면 반절먹다 육수부어 먹구요
+P0 	: 우와 쩝쩝박사님이시네요!!!

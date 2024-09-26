@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100016516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 좋아하세요?
+P0 	: 네 좋아해요!!
+P1 	: 주로 어떤 아이템 사세요?
+P0 	: 신발 삽니다!
+P1 	: 신발 수집?
+P0 	: 오 네네 수집도합니다
+P1 	: 우와 재테크까지도?
+P0 	: 아직 초보입니다ㅎㅎ
+P1 	: 오 대단하세요
+P0 	: 쇼핑 최근에 뭐하셨나요
+P1 	: 먹거리 위주요
+P0 	: 쿠팡 이용하시나요
+P0 	: 쇼핑조아하시나요

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100030762
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 오늘 날씨가 좋네요!
+P1 	: 너무 화창해요~ 코로나만 아니면 주말이라 학업스트레스 해소하러 나들이가면좋을것 같아요. 학생이신가요?
+P0 	: 저는 직장인이에요!
+P0 	: 스트레스해소하러가려고요ㅎㅎㅎ
+P1 	: 학교다닐때 동아리 활동하셨나요?
+P0 	: 저는 봉사동아리 했어요ㅎㅎ
+P0 	: 어떤거 하세요?
+P1 	: 저도 대학 1학년때 봉사동아리 했었어요.
+P0 	: 앗ㅎㅎ같은 거네요
+P0 	: 대학생이신가요?
+P1 	: 네^^2학년때는. 어르신들 컴퓨터 사용하는거  알려드린것 같아요
+P1 	: 아뇨^^학생아니에요
+P1 	: 졸업한지 꽤 되었어요 ㅋ
+P0 	: 아하ㅎㅎ 좋은 봉사네요
+P0 	: ㅎㅎ저도...꽤..아득해요
+P1 	: 지금 기말 시험기간 일까요 ? ㅋ
+P0 	: 오..방학아닐까요?
+P1 	: 아직 멀었을 라나? 요즘 대학생들은 캠퍼스 생활을 못해서 안타까워요
+P0 	: ㅎㅎㅎ와 정말 기억안나네요
+P0 	: ㅠ그러게요 아휴
+P1 	: 동아리 활동 도 하고 MT도 가며 추억도 만들어하는데 못할것 같아요
+P0 	: 식사는 하셨어요?
+P0 	: 맞아요 다 zoom만하더라고요ㅠ
+P1 	: 아직요.  온라인 수업하며 등록금 할인도 안해주고 스트레스일것 같아요
+P0 	: 앗 할인도 안해주는군요ㅠㅜ
+P0 	: 학업도 어렵다고 하더라고요 능률이 안올라서ㅜ

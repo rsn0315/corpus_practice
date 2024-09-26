@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013021
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소에 어떤걸 자주 드세요
+P1 	: 저는 집에서 자주 먹는 편이에요
+P0 	: 요리 좋아하시나요??
+P1 	: 네! 좋아해요
+P1 	: 그중에서도 간단하게 팬 하나로 만드는 요리를 좋아해요
+P0 	: 오 어떤 요리 하시나요??
+P1 	: 원풋파스타를 가장 즐겨해요
+P1 	: 다 한 프라이팬에 넣고 요리해서 쉽고 설거지도 덜 나와요
+P0 	: 오오 파스타 !! 맛있을거같아요 !!
+P1 	: 조리법이 간단해서 추천드려요
+P1 	: &name1&님은 요리 좋아하시나요?
+P0 	: 요리를 레시피 보고 따라하는 수준이예요..!
+P0 	: 그래도 맛은 기본은 하는거 같아요 ㅋㅋ
+P1 	: 오! 그렇군요
+P1 	: 최근에 하신 요리가 있나요?
+P0 	: 미역국에 계란말이용..! 완전 초보자라서 ㅎㅎ
+P1 	: 정말 맛있었을 것 같아요! 직접하신 요리가 더 맛있게 느껴질때가 많죠
+P1 	: 둘이 조합도 잘어울리네요 ㅎㅎ
+P0 	: 배달도 질려서 이제 만들어 먹을려고해요 !!

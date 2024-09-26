@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100045424
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 씨앗이 있나요?
+P0 	: 살짝 데쳐서 먹어요~!
+P0 	: 씨앗 없흡니다
+P1 	: 국 끓이나요?
+P0 	: 한국식 국보단 수프를 끓이기도 해요
+P1 	: 음
+P1 	: 뿌리열매인가요?
+P0 	: 아니요 지하에 파묻혀있는 야채친구는 아니예요ㅋㅋㅋ
+P1 	: 열매라고 하셨죠??
+P0 	: 아니요! 열매는 아니예요
+P0 	: 덩굴식물 아님 뿌리식물 아님
+P1 	: 아 ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 브로콜리!
+P0 	: 헐
+P0 	: 정답정답
+P0 	: 어려울 줄 알았는데!! 금방 맞추시다니 이럴수가
+P1 	: 덩굴도 아니고 뿌리도 아닌게
+P1 	: 핵심 힌트엿어요 ㅋㅋㅋㅋ
+P0 	: 와 그 폭넓은 힌트에서 감을 잡으시다니
+P0 	: 똑똑&name2&
+P1 	: ㅋㅋㅋㅋㅋㅋ 감삽니당
+P0 	: 야채맞추기도 넘 재밌어요 ㅋㅋㅋㅋㅋ
+P0 	: 이번엔 다시 &name2&님 차례!

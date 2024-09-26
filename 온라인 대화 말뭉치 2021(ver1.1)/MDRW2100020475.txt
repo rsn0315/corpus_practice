@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020475
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가정 주부 입니다
+	  일하세요?
+P0 	: 네 일해요
+P1 	: 바쁘겠네요 저야 살림 하면 바쁜데 일다니는 것만 못하겠죠
+P0 	: 가정일도 많죠
+P1 	: 집안일은 끝이 없는 것 같아요
+P1 	: 해도해도 똑같은 걸 계속 해야 하죠
+P0 	: 그르니까요
+P1 	: 그리고 딱히 보람도 없고
+P1 	: 그래서 간단한 알바라도 할까 생각중이에요
+P0 	: 부업이요?
+P1 	: 공공근로요
+P0 	: 아 편한가요?
+P1 	: 그렇다고 하네요
+P0 	: 괜찮네여
+P1 	: 네

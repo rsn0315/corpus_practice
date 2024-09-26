@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100044237
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 하세요?
+P1 	: 아니요 &name1&님은 하시나요?
+P0 	: 저는 링피트 하고 있어요
+P1 	: 며칠에 한번 하시나요?
+P0 	: 이틀에 한 번은 하자...하고 생각하규 있습니다
+P1 	: 그럼 일주일에 3번은 하시는건가요?
+P0 	: 네 그치만 낼부터 며칠간은 합법적 휴식이에요ㅋㅋㅋㅋ
+P1 	: 앜ㅋㅋㅋ
+P1 	: 그래도 꾸준히 하시는 모습이 멋지시네요
+P0 	: 가장 큰 문제는 합법적 휴식 후에 언제 시작하냐죠....ㅋ...
+P1 	: 왜 내일은 합법적 휴식이신가요?
+P0 	: 백신 맞아서요ㅋㅋㅋㅋㅋ
+P1 	: 앗 그렇군요ㅎㅎㅎ
+P0 	: 백신 맞은 후엔 운동하면 안 되잖아요 ㅎㅎ
+P1 	: 맞습니다!!!!

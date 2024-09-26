@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100014156
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 안녕
+P0 	: ai에관심있어?
+P1 	: 잘 모르지만 요즘 시대는 ai인건 알지
+P0 	: ai가 언제부터 이렇게 핫했지?
+P1 	: 아무래도 알파고 이후로 확?
+P0 	: 아 맞네 이세돌 알파고 그때이후구나?
+P1 	: 응 맞아 알파고랑 대결이후 ai 관심이 급증한듯
+P0 	: 그때 진짜 난리였던거 기억나
+P1 	: ai 가 무슨 약자야?
+P0 	: airtificial intelligence일거야
+P0 	: 우리학교도 ai를 꽤 밀어줘
+P1 	: 아하 인공지능이구나
+P0 	: 인공지능은 생각보다 우리 생활에 가까이있는것 같아
+P1 	: 빅스비 같은것도 ai인가?
+P0 	: 맞아 많이 쓰는편이야?
+P1 	: 응 편해서 자주 쓰고있어
+P0 	: ai학과 경쟁률이 센거 알아?

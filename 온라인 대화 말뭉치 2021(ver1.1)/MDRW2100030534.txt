@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100030534
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 쇼핑 상품 얘기해요
+P1 	: 네
+P0 	: 쇼핑 좋아해요?
+P1 	: 좋아해요
+P0 	: 네~
+P1 	: 님은요?
+P0 	: 저도요
+P1 	: 어디 이용하세요?
+P0 	: 네이버요
+P1 	: 저는 옥션이요
+P0 	: 뭐샀어요?
+P1 	: 돈까스 샀어요

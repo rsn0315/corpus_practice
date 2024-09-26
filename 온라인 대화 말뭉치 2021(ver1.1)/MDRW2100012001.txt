@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 좋아하세요
+P1 	: 막 엄청 예뻐하는 편은 아닌데 평범히 좋아해요ㅎㅎ
+P1 	: 동물 많이 좋아하세요?
+P0 	: 저는 좋아하는 편이에요
+P0 	: 좋아하는 동물 있어요?
+P1 	: 강아지...?!
+P1 	: 지원님은요?
+P0 	: 운명이다
+P0 	: 저 진돗개 키워요
+P0 	: ㅋㅋㅋㅋ
+P1 	: 와!!!
+P0 	: 진돗개 어때요
+P0 	: 어.. 좋아히지않는다고 하셔도 이해합니다
+P1 	: 진돗개사진보고싶어요ㅎㅎ
+P1 	: 실제로 보면 조금
+P1 	: 무서워할수도있어요
+P0 	: 이해합니다
+P0 	: 그럴 수 있어요
+P0 	: 누구나 다 진돗개를 좋아할 수는 없으니까
+P1 	: 제가 쫄보여서 그래요ㅎㅠ
+P0 	: 아니에요 사람마다 다른거니까
+P0 	: 이름 물어봐줄래요
+P1 	: 감사합니다ㅎㅎ안그래도 진돗개 이름 뭐냐고 치고있었어요
+P0 	: &name3&이에요
+P1 	: 으악
+P1 	: 귀여워요ㅠㅜ
+P0 	: 순하지는..않은데 아빠가 순하게 자라라고 지어줬어요

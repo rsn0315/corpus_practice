@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002487
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 내꺼? 옷 많은데 뭘
+P0 	: 포인트 많이 모여서 공짜로 한 벌 살 수 있을 득
+P1 	: 오오 열심히 모았나보네
+P0 	: 할인쿠폰에 포인트까지 쓰면 거의 공짜
+P1 	: 싸구려 아니야? ㅎㅎ
+P0 	: 노노 메이커만 파는 곳이야
+P1 	: 오 울 색시 알뜰하네
+P0 	: 시원해지니 미리미리 티셔츠 구매하면 좋지
+P1 	: 훌륭해요
+P0 	: ㅎㅎ 난 훌륭한 여자
+P0 	: 어떤 색으로 살까?
+P1 	: 난 흰색이나 검정
+P1 	: 깔끔한 색이 좋아
+P0 	: 웅 알았어~ 사이즈 있나 보고
+P1 	: 웅 땡큐 ㅎㅎ

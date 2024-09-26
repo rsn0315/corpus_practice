@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003169
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요?
+P1 	: 햄스터도 반려동물이라면 키우고있어요 ㅎㅎ
+P1 	: 반려동물 뭐 키우세요?
+P0 	: 오 저는 반려식물이요!  방토 엄마에요
+P1 	: 오 방울토마토키우시는군요 키우기 쉽나요?
+P0 	: 작년에는 쉽게 키워서 수확도 했는데 올해는 텄어요ㅜㅠ
+P1 	: 올해는 왜 잘 안됐나요 ㅎㅎ
+P0 	: 애기가 있는데 뿌리채 쑤욱 뽑아서ㅋㅋㅋ 다시 심었거든요ㅋㅋ;;
+P1 	: 아....ㅎㅎㅎ마음이 아프네요 주륵..
+P1 	: 저도 햄스터 키우다가 애 태어나고 관리가 소홀해졌네요ㅠㅠ
+P0 	: 그래서 그런지 꽃봉우리가 안맺혀요ㅎㅎ;
+P1 	: 또 다른거 키워보셨어요?
+P0 	: 어릴때 강아지 두마리 키워봤어요
+P1 	: 내년엔 수확까지 성공할겁니다 ㅎㅎ
+P1 	: 우와 무슨종 키우셨어요?
+P0 	: 푸들이요
+P1 	: 귀여웠겠어요
+P1 	: 저도 어렸을때 삽살개키워봤어요

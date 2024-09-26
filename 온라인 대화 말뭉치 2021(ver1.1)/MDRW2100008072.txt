@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008072
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅇㅇ 그래. 파도 좀 사고 양파도
+P0 	: 돈까스도 사고 콩나물이랑 두부도 사야겠어
+P1 	: 산책 겸 애들이랑 같이 가야겠다
+P0 	: ㅇㅇ 그랴요
+P1 	: 과일은 집에 있나?
+P0 	: 복숭아 다 먹었는데 다음주에 사과 올 거야
+P1 	: ㅇㅇ 그럼 그걸로 먹으면 되겠다 ㅎㅎ
+P0 	: 복숭아 맛있는데 진짜 너무 비싸더라 ㅎㅎ
+P1 	: ㅎㅎ 다른 과일도 먹으면 되지 뭐
+P0 	: 집에 자두도 있으니 다음주 사과오면 그거 먹고 ㅎㅎ
+P1 	: 식재료 많이 쟁여놔 다음주 애들 개학이니 ㅎㅎ
+P0 	: 안그래도 장 많이 봐놔야 할 것 같아 ㅎㅎ
+P1 	: ㅇㅇ 두고 먹을 수 있는 것 좀 사오자
+P0 	: 빨래 널기 너무 귀찮다

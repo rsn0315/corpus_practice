@@ -1,0 +1,107 @@
+# FILE DATA
+ID : MDRW2100000163
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210517
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오늘저녁뭐야?
+P1 	: 머 먹고싶은데
+P0 	: 고기고기..
+P1 	: 삼겹살?
+P0 	: 좋앙
+P0 	: 쌈있나?
+P1 	: 없어
+P0 	: 사갈까?
+P1 	: 응
+P0 	: 다른건?
+P1 	: 쌈장도없고
+P0 	: 파태있남?
+P0 	: 파채
+P1 	: 그것도사와아
+P0 	: 알쓰 .쌈이랑ㅆ마장.파채
+P0 	: 쌈장
+P1 	: 응 사와.맥주도 먹을거몀사오고
+P0 	: 난막걸리
+P1 	: 맘대로해
+P0 	: 알쓰요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210517
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 언제와?
+P0 	: 가는중이야
+P1 	: 배고프다 어여와라
+P0 	: 20분쯤후 도착예정
+P0 	: 노브랜드들렸다갈게
+P1 	: &name3&가 모느는거 많다고 엄마빨리와서 알려달라네
+P0 	: 알써.기다리라고해
+P0 	: 밥먹고해준가고
+P0 	: 하준다고
+P1 	: 응 기다린다
+P1 	: 먹고나도 어여가봐야해
+P0 	: 집에도착했어?
+P1 	: 도착아까했음
+P0 	: 연락이늦어.아빠왔어용?
+P1 	: 응.저녁차리고 쉰다
+P0 	: 어여쉬어

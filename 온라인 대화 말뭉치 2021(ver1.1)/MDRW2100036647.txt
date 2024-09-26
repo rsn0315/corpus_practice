@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036647
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 스파게티 졸아라세요?
+P0 	: 안녕하세요.샐러리좋아해요?
+P1 	: 샐러리 좋아하죠
+P0 	: 어떤요리좋아해여?
+P1 	: 간장 샐러리 장아찌 맛있는대
+P0 	: 네..
+P1 	: 드셔봤어요?
+P0 	: 네..
+P0 	: 무난해요
+P1 	: 샐러리 좋아하세여?
+P0 	: 샐러리김치 {emoji:♥}합니다
+P1 	: 어떤맛이죠?
+P0 	: 처음에는 카레같은 김치엿는데
+	  나중에는 시원하더라고요.
+	  
+	  샐러리김치는 무조건!! 만들어야해욥
+P1 	: 전 김치는 별로..

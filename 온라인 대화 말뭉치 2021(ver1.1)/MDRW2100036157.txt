@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100036157
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 아니에요 ㅎㅎ
+P1 	: 저는 키웁니당 !
+P0 	: 아뇨 키우곤 싶은데 요즘 집값보고 좀 포기했어요
+P0 	: 개인가요? 고양이인가요?
+P0 	: ㅠ 전 혼자 키울라면 이게 전세 얻기가 더 힘들어서 전 포기
+P1 	: 강아지입니다 ! 너무 이뻐요
+P0 	: 몇살인가요?
+P1 	: 4살입니당
+P0 	: 한창 건강하구 이제 말귀 다 알아들을때네요
+P0 	: 대형인가요 소형인가요 중형인가요?
+P1 	: 소형견입니다 치와와
+P0 	: 저 치와와 완전 좋아해요
+P1 	: 오정말요 사진기능 되면 보여드리고싶다
+P0 	: 작은 애라 무서움이 많다보니 소형견 특유의 예민함이 있지만 주인을 사랑하구
+P0 	: 교감이 엄청 잘되더라구요
+P0 	: 장모인가요 단모인가요?
+P1 	: 장모치와와에요 너무예뻐용
+P1 	: 제심장 제전부
+P0 	: 작구 귀엽구 그리고 일단 사람보다 많이 작으니깐
+P0 	: 산책하거나 이럴대도 통제하구지켜줄 수 있는 점이 소형견의 매력이라고 생각해요
+P1 	: 맞아요 어디든 데려갈수있어좋어요

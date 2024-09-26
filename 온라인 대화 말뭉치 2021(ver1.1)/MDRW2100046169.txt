@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046169
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 날씨 너무좋네요
+P0 	: 그러게요 화창하네요
+P1 	: 요며칠 계속 비오더니
+P0 	: 맞아요
+P1 	: 비오는날 맑은날 뭐가더좋나요?
+P0 	: 전 맑은날이요
+P1 	: 맑으면 기분도 좋아지죠
+P0 	: 맞어요 그래서좋아요
+P1 	: 비오는날도 나름 운치있어요
+P0 	: 빗소리 들으면 분위기있죠
+P1 	: 빗소리가 너무 좋아요
+P0 	: 그래서 비오는날도 괜찮아요
+P1 	: 하지만 비오는날 나가는건 싫죠?
+P0 	: 네 다 버려서요
+P1 	: 신발이랑 양말...
+P0 	: ㅠㅠ진짜 싫어요

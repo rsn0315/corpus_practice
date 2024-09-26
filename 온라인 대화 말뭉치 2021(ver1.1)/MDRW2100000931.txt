@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100000931
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 요즘 애들 자는 시간이 좀 늦어졌어
+P0 	: 몇 시에 자는데?
+P1 	: 10시에 누우면 잠드는데 30분은 걸림
+P0 	: 이제 스스로 자야 할텐데
+P1 	: 언제쯤 스스로 잘지
+P0 	: 엄마가 너무 잘해줘서 그래
+P1 	: ㅎㅎ 다른 집도 자다 그래
+P0 	: 이제 고학년인데 언제까지 재워줘 ㅋ
+P1 	: 그냥 옆에 있는 게 편한가봐
+P1 	: 언젠가 혼자 자겠지
+P0 	: 훌 그러면 안돼
+P0 	: 때 되면 떼어놔야지
+P1 	: 겁도 많도 혼자 있으면 무서워하니까
+P0 	: 마음이 약해서 탈이네
+P1 	: 다른 집은 12시에도 잔대 그에 비하면 양반이지 ㅎㅎ
+P0 	: 일찍 불 꺼버려야지 12시에 자면 키 안 커
+P1 	: 그렇다더만~ 일찍자야 성장호르몬 뿜뿜 ㅎㅎ
+P0 	: 응 운동하고 일찍 자고
+P1 	: 그래야 다음 날도 덜 피곤하지
+P0 	: 그렇지 두뇌회전도 잘되고
+P1 	: ㅎㅎ 혼자 자고 싶다 편하게
+P1 	: 근데 이런 말 하면 애들이 서운해해 ㅋㅋㅋㅋ
+P0 	: 서운하긴~~ 아빠가 더 서운하다고 해 ㅋ
+P1 	: 왜 아빠는 혼자 잠들어서? ㅋㅋ
+P0 	: 응 아빠도 혼자 자면 무섭거든!
+P1 	: ㅋㅋㅋ 넘 웃경
+P0 	: 흥~ 진심임
+P1 	: 눼눼

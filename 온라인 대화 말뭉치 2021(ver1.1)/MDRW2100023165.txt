@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100023165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 며칠에 있는데?
+P0 	: 23일부터 24일
+P1 	: 훌 그럼 끼인 휴일 다 쉬는거네
+P0 	: ㅇㅇ 거의 가을 방학이야 ㅎ
+P1 	: 우리 때는 재량휴일 같은 건 없었던 것 같은데.. 둘 다 일하는 집은 당황스럽겠네
+P0 	: 글치.. 갑자기 쉬어버리면.. 연초 학사일정에 나와 있긴 하던데 매번 이런 식으로 쉬어서 별로 마음엔 안드네
+P1 	: 다른 학교도 재량휴일 있나?
+P0 	: 아마 있겠지.. 근데 재량휴일이 학생을 위한 휴일은 아닌 것 같아 ㅎㅎ
+P1 	: 애들 쭉 쉬니 나도 그 때 휴가 내야겠다
+P0 	: 그래주면 고맙고.. 휴일이 너무 길어서 ㅠ
+P1 	: 요즘엔 봄방학도 없이 겨울방학도 두달내내 하고.. 학사일정이 좀 그렇다 ㅎ
+P0 	: 학교에서 이미 정해져서 나온거니 따라야지 어쩌겠어
+P1 	: ㅎㅎ 그냥 받아들이자

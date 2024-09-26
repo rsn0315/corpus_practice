@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046497
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211025
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 요즘 바디프로필이 유행이라 주변에서 운동하던데 운동 좋아하시나요?
+P0 	: 운동은 자꾸 시간 안된다고 미루걱 되네요
+P0 	: 게
+P1 	: 더 추워지기전에 운동을 해야 할 것 같아요ㅠㅠ 어떤 운동 좋아하시나요?
+P0 	: 저는 수영을 좋아합니다
+P0 	: 수영을 꾸준히 했었구요
+P1 	: 수영 얼마나 하셨나요??
+P0 	: 지금 코로나로 인해서 쉬고 있는중이구요
+P0 	: 수영 한 3년쯤 한거 같아요
+P1 	: 엄청오래하셨네요!!어떻게 시작하셨어요??
+P0 	: 처음에 다이어트로 시작했어요
+P0 	: 하다보니 재밌고 욕심이 생겨서 쭉하게 됐구요
+P1 	: 다이어트는 성공하셨나요?? 코로나땜에 계속 못하는건 아쉬울것같아요!!ㅠㅠ
+P0 	: 다이어트 성공했는데 코로나로 인해서 쉬고 음식조절을 못해서 실패네요
+P1 	: 아니에요 코로나 끝나고 다시 시작하면 성공하실 수 있을 거에요 ㅎㅎ
+P0 	: 네 코로나종식되면 다시 시작할려했더니 종식될 기미가 안보이네요
+P1 	: 곧 위드 코로나가 되어서 다시 운동 하실 수 있을 텐데 다이어트 다시 성공하길 바랄게요ㅎㅎ!
+P0 	: 감사합니다

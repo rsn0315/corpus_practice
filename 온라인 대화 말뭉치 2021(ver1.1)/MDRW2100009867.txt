@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009867
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회나 봉사모임 경험 있으신가요
+P1 	: 양로원봉사나
+P1 	: 백패킹동호회요!
+P0 	: 와 백패킹이면 등산인가요 캠핑인가요
+P1 	: 둘다에요ㅎ
+P1 	: 캠핑에가깝지만?
+P0 	: 오호 그럼 산에서 주무시고 오시는건가요?
+P1 	: 넹 1박2일요
+P0 	: 힘드시진 않나요? 넘 멋지셔요^^
+P1 	: 재미있더라구요ㅎ
+P0 	: 산에는 텐트 칠 장소가 따로 마련되어 있나요?
+P1 	: 아주 가파른산말고 텐트칠만한 평지잇는곳을 가요
+P0 	: 보툥 화장실은 있나요? 저도 캠핑 종종 가는데 그런 시설이 중요하더라구요^^;
+P1 	: 없어요..
+P0 	: 아 저는 어렵겠네요 ㅠㅠㅋㅋ
+P1 	: ㄷ음 간혹 있는곳도 잇어요

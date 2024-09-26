@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003902
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 배달시키셨나요?
+P0 	: 아직 안먹었어요
+P1 	: 저도  아직 점심전이요
+P1 	: 뭐드실거예요?
+P0 	: 생각즈이요
+P1 	: 다같이 드시는거예요? 집밥드시나요?
+P0 	: 집밥이요
+P1 	: 전 제육볶음 먹을까 생각중이요
+P0 	: 오 맛나겠다
+P1 	: 안주야 불곱창산게 오늘온다는데 도착했음 그거먹을려구요
+P0 	: 오
+P1 	: 집밥 반찬은 모있나요?ㅎ
+P0 	: 멸치 김치 등

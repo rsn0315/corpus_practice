@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: ㅇㅇ
+P1 	: 주말이라 일찍 갔다와야돼
+P0 	: 전복 살거야?
+P1 	: 사야지 니 미역국 끓여주려면
+P0 	: 성은이 망극하옵니다
+P0 	: 엄마 그리고 나 아몬드우유사도 돼?
+P0 	: 샐러드 야채랑!
+P1 	: 샐러드 먹게?
+P0 	: 냉동실에 용가리랑 해서 먹게!
+P1 	: 맛있냐?
+P1 	: 그렇게 하면?
+P0 	: 야채만 먹는 것보다 훨씬 맛있지
+P0 	: 어차피 냉동실도 비워야하는데
+P1 	: 그래 그럼
+P1 	: 안 잊어먹게 메모해놔
+P0 	: ㅇㅇ아몬드 우유도 넣는다?
+P1 	: 야 그거 아무도 안먹는데 너 먹을 수 있어?
+P1 	: 다
+P0 	: 양이 많진 않지만 꾸준히 먹어서 다 먹어치울거니까 걱정마슈
+P1 	: 아이고 먹고 살겠다 살겠어

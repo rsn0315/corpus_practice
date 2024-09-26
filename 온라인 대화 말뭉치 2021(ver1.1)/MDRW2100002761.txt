@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002761
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 네 결혼했어요 ㅎ 신혼입니다
+P0 	: 좋을때네요
+P1 	: 결혼하셨나요~?
+P0 	: 네
+P1 	: 결혼하시고 더 좋으신가요 연애때가 더 좋으신가요
+P0 	: 결혼이요
+P1 	: 맞아요 저도요
+P0 	: 항상 함께 좋아요
+P1 	: 맞아요 함께하는 내편이 생겨서 좋아요
+P0 	: 때론 부딪혀도 사랑해요
+P1 	: 그말이 와닿네요 부딪혀도 사랑한다
+P0 	: 모난 부분이 둥글게 되는 것 갘아요
+P1 	: 아하^^ 정말 잘 만나셨네요

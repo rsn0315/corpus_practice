@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100031993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침은 드셨나요??
+P1 	: 네!!
+P1 	: &name1&님은요?
+P0 	: 저는 김치찌개 먹었어요
+P0 	: &name2&님은요?
+P1 	: 맛있겠어요!!
+P1 	: 저는 곰탕이요
+P1 	: 계란후라이도 드셨어요? ㅋㅋ
+P0 	: 외식이라 계란후라이는 안타깝게도... 
+P0 	: 어묵사리랑 라면사리 추가하려구요
+P1 	: 드시고계셔요?
+P1 	: 캬 사리까지
+P1 	: 맛나게 드세요
+P0 	: 으아, 어묵 추가하니 라면까진 무리예요
+P0 	: 먹고 왔습니다
+P1 	: ㅋㅋㅋ일요일 시작이 맛나겠어요
+P1 	: 이제 짠->단
+P1 	: 차례인가욯ㅎ
+P0 	: 하, 쩝쩝박사님이시네
+P0 	: 다니다가 괜찮은 카페 있으면 한잔 때리려구요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㄱㅋㅋ살살 때려주세오
+P0 	: 홍차라떼 한잔 때렸습니다
+P0 	: 라떼를 마시니 소다나 에이드가 땡기네요
+P1 	: 잘하셨어요 ㅋㅋㅋ
+P1 	: 음료 무한굴레인가요
+P0 	: ㅋㅋㅋ 아니에요, 인내했습니다
+P0 	: 이제 저녁 메뉴 연구중이에요
+P1 	: ㅋㅋㅋ저두요

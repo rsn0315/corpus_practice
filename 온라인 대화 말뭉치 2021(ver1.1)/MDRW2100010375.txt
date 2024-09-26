@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010375
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 카페를 가장 선호하세요?
+P1 	: 전 투썸 좋아해요 케이크가 다 맛있어요
+P0 	: 투썸 맛있죠ㅠ 어떤 케이크 가장 좋아하세요?
+P1 	: 음 아이스박스랑 치즈맛 나는 네모난 케이크요!
+P1 	: &name1& 님은요?
+P0 	: 저는 레드벨벳이랑 크레이프 좋아해요! 물론 다 맛있지만요
+P1 	: 크레이프 케이크 안 먹은지 엄청 오래돼서 먹고 싶네요
+P1 	: 크레이프는 크림이 많이 들어가서 녹차맛처럼 좀 덜 단 케이크가 더 맛있는 것 같아요
+P0 	: 크레이프는 겹겹이 생명이니까요!ㅋㅋ
+P1 	: ㅋㅋㅋ그쵸 크레이프 드실 때 겹대로 말아서 드세요? 아니면 다른 케이크처럼 잘라서 드세요?
+P0 	: 저는 케이크처럼 잘라서 입 안에서 결을 느끼는 걸 좋아해요!
+P1 	: 오 그렇군요 전 그렇게 먹었을 때 겹대로 먹을 때보다 더 느끼한 것 같았어요
+P1 	: 크레이프는 포크로 말아서 먹는 재미가 있죠ㅋㅋㅋ
+P0 	: 가끔은 말아서도 먹어요ㅋㅋㅋ 그 재미가 종종 생각나서요ㅋㅋ
+P1 	: &name1&님은 투썸에 파는 초코딸기케이크 드셔보셨어요?
+P0 	: 스초생 말씀하시는거죠??
+P1 	: 네 그거요
+P1 	: 전 아직 안 먹어봤어요
+P0 	: 저도 스초생은 안 먹어봤어요! 박스케이크는 아이스박스만 먹게 되더라구요
+P1 	: 근데 인기는 진짜 많더라고요

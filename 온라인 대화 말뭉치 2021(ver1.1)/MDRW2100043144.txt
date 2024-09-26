@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043144
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 니 동생 케이크 고르라고해
+P0 	: 벌써? 이렇게 빨리 고르낰ㅋ
+P1 	: 야 니케이크 너무 달기만하고
+P1 	: 맛없어
+P0 	: 헐 맛있거든?
+P0 	: 초코초코한데 많이 안달다고
+P1 	: 달더만
+P1 	: 니 동생껀 맛있는걸로 고르자
+P0 	: ㅡㅡ커피빈 가고 싶다니까 못가게하고
+P0 	: 저런소리한다
+P1 	: 카페 좀 찾아봐
+P0 	: 나 케이크 사려고 찾아본데 있는데
+P0 	: 카톡보냄
+P1 	: 오 뭐가 많네
+P0 	: 그지? 케이크 종류 많더라
+P1 	: 니동생보고 골라보라고해
+P0 	: ㅇㅇ근데 걔는 우리보고 골르라고할걸
+P0 	: 뭘하든 먹기만 젤 많이 먹을듯ㅋㅋ
+P1 	: 요즘 통통해졌어
+P0 	: 잘 모르겠는데
+P1 	: 아니야 포동포동 살 많이 올랐더라

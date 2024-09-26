@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100019157
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심은 뭐 드셨나요?
+P0 	: 저는 갈비탕이요
+P0 	: 그리고 디저트로 다쿠아즈 한개
+P0 	: &name2&님은 뭐드셨어요?
+P1 	: 우와 디저트까지 완벽 그 자체네요!
+P1 	: 전 라면 먹었어요 ㅎㅎ
+P0 	: 요리 잘하세요?
+P1 	: 아뇨 ㅠ &name1&님은 잘하시나요?
+P0 	: 잘 못해요
+P0 	: 그런데 얼마전에 집에 두부랑 감자를 소진하려고
+P1 	: 요즘은 배달 문화도 잘되어있고해서 ㅎㅎ
+P0 	: 감자수프랑 두부강정을 했었어요
+P0 	: 배달 좋죠ㅎㅎㅎ
+P1 	: 와 금손이세요! 두부강정 굉장히 어려울거같은데요?
+P0 	: 유튜브보고 했는데 어렵진 않았어요
+P0 	: 뒷정리가 힝들었어요
+P1 	: 맞아요 요리도 요리지만 뒷정리가 헬이죠 ㅠㅠ
+P1 	: 전 간맞추기가 너무 힘든거같아요! 요리의 생명은 간인거같은데
+P0 	: 알려주는데로 계량하니까 되더라고요
+P0 	: 커피는 좋아하세요?

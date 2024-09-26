@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이신가요??
+P1 	: 네 학생이에요~
+P0 	: 대학생이신거죠?
+P1 	: 네 ㅎㅎ 이번학기는 휴학했어요
+P0 	: 자유영혼!
+P0 	: 코로나때매 학교 노잼이죠!
+P1 	: 네ㅠㅠ 아무래도 다 비대면으로 진행하다보니까
+P1 	: 그리고 과제가 예전보다 많아서 넘 힘들어요~~ ㅎㅎ
+P0 	: 등록금도 냈는데
+P0 	: 진짜요?
+P0 	: 몇학년이세요?
+P1 	: 저 4학년인데 휴학했어요 졸업 준비가 덜 되어서 ㅎㅎ
+P0 	: 아 저도 한학기남기고 휴학했었어요
+P0 	: 그리고 사무직알바ㅋㅋ
+P1 	: 와 부러워요 ㅋㅋㅋㅠㅠ 비대면 수업이 1년 넘게 진행되니까 지치는 것도 있더라구요
+P0 	: ㅜㅜ
+P0 	: 너무 안타까워요
+P0 	: 남녀공학이죠?
+P1 	: 네 공학이에요!
+P1 	: 새내기들 안쓰럽더라구요ㅠㅠ 한창 놀 나인데
+P0 	: ㅜㅜ 한참 놀때데요!
+P0 	: 전 여대ㅋㅋ

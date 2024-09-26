@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100020363
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 곧 구매하려는 상품이 있으신가요?
+P0 	: 안녕하세요~
+P0 	: 구매 예정이라...
+P1 	: 안녕하세요
+P0 	: 꼭 필요해서 살 물건은 없는데, 이것저것 살까 싶은것들은 생기는거 같아요
+P1 	: 오 그렇군여. 그게 제일 고통스럽죠
+P0 	: 고민의 연속 같아요
+P1 	: 저도 얼마전에 10만원이상구매시 50퍼센트할인해주고 추가 20%할인+만원할인해준단예기듣고 혹한적이잇어요.
+	  
+	  그런데 그냥 안사기로햇엇죠. 쓸데없는소비를안하려고요
+P0 	: 할인을 한다고 하거나 혜택이 있다고 하면, 혹하고 관심이 자연스레 가는거 같아요
+P0 	: 필요치않은 물건이라도요
+P1 	: 맞아요. 일부는 애초에 택갈이로 중국직구보다 +@붙혀서 팔더라고요.ㅋㅋ 
+	  다 따져보고 중국직구보다 싸서 네이버페이로 알뜰하게 구매한적도잇엇어요
+P0 	: 쇼핑 알뜰하게 잘 하시네요!
+P1 	: ㅋㅋ &name1&님은 직구하시나요
+P0 	: 예전에 해보기는 했는데, 안 한지 정말 오래되었어요
+P1 	: 오.. 저도 생각해보니 몇달됫네요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 위드 코로나에 대해서 어떻게 생각하세요
+P1 	: 아직은 시기상조가 아닌가 생각합니다
+P0 	: 왜 그렇게 생각하세요
+P1 	: 백신을 아직 다 맞지 않았으니까요
+P0 	: 백신 접종 2 속도가 더 나와야 될 텐데요
+P1 	: 아직 제 주변에 안 맞은 사람이 많아요
+P0 	: 안 맞는 이유가 무엇인가요
+P1 	: 백신 부작용이 무섭다고 하네요
+P0 	: 어리석은 생각이에요
+P1 	: 그래서 아직 위드 코로나는 시간이 더 필요해 보여요
+P0 	: 다이어트를 위해서도 사람들이 현명하게 선택해야 돼요
+P1 	: 지금은 너무 힘든 시간입니다
+P0 	: 터널의 끝이 없는 것이 지치게 해요
+P1 	: 맞아요 평생 한다는게 많은 희생을 필요해요

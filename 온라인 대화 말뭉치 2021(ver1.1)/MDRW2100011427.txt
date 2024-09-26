@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011427
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 넵 안녕하세요
+P0 	: 여행 다녀온적있으세요
+P1 	: 넵 요즘은 아니지만요
+P0 	: 어디가 좋으셨나요
+P1 	: 전 통영도 좋앗어요
+P0 	: 음식은 어땠나요
+P1 	: 좋앗어요ㅎㅎ날음식을 좋아해서
+P0 	: 어떤 음식 드셨어요
+P1 	: 회도먹고요
+P0 	: 맛있겠네요
+P1 	: 충무김밥요!
+P0 	: 저는 국내여행지 중에서 송도가 좋았어요
+P1 	: 송도는 뭐가유명한가요?
+P0 	: 바다 야경이 예쁘더라고요

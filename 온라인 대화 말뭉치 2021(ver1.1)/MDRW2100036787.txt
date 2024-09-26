@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100036787
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 아침 드셨어요?
+P1 	: 안먹엇어요
+P0 	: 아침은 챙겨 드세요?
+P1 	: 안먹어요 근데 일찍일어나면 먹어요
+P0 	: 위가 놀랄텐데
+P1 	: 그래도 먹긴해요. 일어나면 배가고파서
+P0 	: 그쳐 저도 지금 뱌고파여
+P1 	: 일어나면 보통 뭐드세요?
+P0 	: 물이요
+P1 	: 저는 최근엔 라면먹엇어요
+P0 	: 어떤 라면요?
+P1 	: 집에 유통기한이 지난 오동통면먹으려고햇엇죠

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018153
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 뭐사셨어요?
+P1 	: 티셔츠샀어요!긴팔요,,벌써 가을이온것같아요 뭐사셨어요?
+P0 	: 저는 오늘 풋브러시른 샀어요!! 바닥에 놓고 발씻는거요ㅋㅋ
+P1 	: 아 그런것도있나요?신기하네요 각질제거 이런건가요?ㅎㅎ
+P0 	: 각질제거도 되고 발냄새에도 효과가 있대요 전 허리굽혀서 발가락사이에 손넣기 귀찮아서 샀어요ㅋㅋㄲ
+P1 	: 우와 어디건가요?뭐라고검색하면나와요? ㅎㅎ
+P0 	: 풋브러시 라고 검색하면 많이 나오는데 가격이 천차만별이더라고요ㅎㅎ
+P0 	: 전 그냥 리뷰많은데서 샀어요ㅎㅎ
+P1 	: 아 그렇군여 또 핫템있으면 알려주세요! ㅎㅎ
+P0 	: 저도 지방러라 핫템은 오히려 소식이 느려요
+P1 	: 아 그렇군여 주변인들 선물은 보통 어떤거하세요??
+P0 	: 요즘은 아무래도 만나는것보다 언택트로 상품권이나 기프티콘으로 해요!
+P1 	: 아 그렇죠 저도 보통 카페 기프트카드 위주로 하긴해요 ㅎㅎ
+P0 	: 전 빵을 좋아해서 그런지 케익이나 커피같은 먹는거 보내는게 선물한 느낌이 나더라고요ㅋㅋ
+P1 	: 맞아요 그게 젤 무난하고 좋은것같아요 !

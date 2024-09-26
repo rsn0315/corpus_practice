@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046597
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211101
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요:)
+	  글램핑 가보신적 있으신가요? 명소있으면 추천해주세요!
+P0 	: 제주 신라호텔 글램핑 추천드려요
+P1 	: 우와 신라호텔 말고도 글램핑하는 공간이 따로 있나봐요! 언제가보셨어요?
+P0 	: 어제여
+P1 	: 헉 안추우셨나요? 요즘 가기엔 날씨가 조금 추워보이는데 괜찮은가요?
+P0 	: 더운데요
+P0 	: 요즘가기에 딱 좋습니다
+P1 	: 오 그렇군요! 어제 가본 글램핑은 몇번째 글램핑이였나요?
+P0 	: 150번째요
+P1 	: 글램핑 많이 가보셨군요! 제주도말고 서울 근교에 추천할만한 곳은 없나요?
+P0 	: 글램핑이 뭔지는 아시는지요?
+P1 	: 와 많이 가보셨네요~ 저는 글램핑 좋아는 하는데 많이 못가봐서.. 부러워요 ㅠㅠ

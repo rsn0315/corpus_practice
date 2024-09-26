@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006353
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 백신 맞으셨나요?
+P0 	: 아직이요
+P1 	: 저도 아직이요
+P0 	: 9월30일 예약인데 무섭네요
+P0 	: 언제맞으세요?
+P1 	: 전 27일날 예약이요
+P0 	: 모더나 순차공급이면 이걸로 놔줄려나요?
+P1 	: 큰딸은 이번주 금요일인데 벌써 떨리데요
+P0 	: 화이자가 좋을지 모더나가 좋을지 모르겠어서
+P1 	: 어떤거 맞는지 말씀드릴게요
+P0 	: 어떤거맞는지 아직모르는거죠?
+P1 	: 그날 어떤건지 가봐야알꺼같아요
+P0 	: 아 당일 가야알수있군요
+P1 	: 둘중하나라고만 예약때 한거같아요
+P0 	: 지방은 모더나 서울은 화이자라는 얘기도 있던데
+P1 	: 솔직히 어떤게 더 좋은건지 몰라서...
+P1 	: 그냥 잘지나가길 바래야죠
+P0 	: 그니까요 나한테 부작용생김 그게 안좋은거겠죠ㅎㅎ
+P0 	: 별이상없이 2차까지 맞음 좋겠어요

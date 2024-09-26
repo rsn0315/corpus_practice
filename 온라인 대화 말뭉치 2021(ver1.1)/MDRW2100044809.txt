@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100044809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으신가요?
+P1 	: 전 떡볶이, 스테이크, 빵, 과일, 라떼, 디저트... 고구마, 옥수수.. 넘 많아요~~~
+P0 	: 떡볶이 먹고 싶네요~
+P1 	: 요즘은 떡볶이도 비싸더라고요~~ 고기도 넣어주고.. 집에서 밀키트 떡볶이 종종 해먹어용~^^
+P0 	: 밀키드중에 추천 할만한거 있나요?
+P1 	: 떡볶이는 전 쌀떡사먹는데 미정당 괜찮았어요
+P0 	: 미정당이라고 검색하면 되는건가요?
+P1 	: 전 그냥 마트에서 샀어요. 검색해도 나올듯요. 미정당 쌀떡볶이^^
+P0 	: 마트갔다 보이면 저도 한번 사볼게요~
+P1 	: 전 양파, 양배추, 버섯 마구 더 넣어서 먹어요. 다음엔 분식집들처럼 고기도 넣어보려고요.ㅎ
+P0 	: 듣기만 해도 맛나네요~  떡볶이에 버섯은 좀 새로운데요
+P1 	: 제가 버섯을 좋아해요.ㅎ 피자도 버섯 많이 들어간 피자 좋아하고요.
+P0 	: 근데 떡볶이네 넣으면 맛날것 같아요

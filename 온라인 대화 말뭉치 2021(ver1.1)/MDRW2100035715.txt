@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100035715
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑좋아하시나요
+P1 	: 네! 문구류 사는 거 좋아해요
+P1 	: &name1&님은요?
+P0 	: 엇!저도 문구류 사는거 좋아해요
+P1 	: 헛 스티커 같은 거요 ㅎ.ㅎ ?!
+P0 	: ㅎㅎ스티커도 좋아하고 펜종류도 좋아해요
+P1 	: 헐 저도요! 막 색깔별로 다 사고 있어요 ㅎㅎ
+P1 	: 어제는 주황색 볼펜을 샀답니다 ㅎㅎ
+P0 	: 오오오 그럼 다이어리 이런것도 꾸미시나요?
+P1 	: 네!!!!!!! 물론 예쁘게는 잘 못하지만 ^.^ 나름대러 열심히 써요
+P1 	: &name1&님도 다꾸 하세요?
+P0 	: 우와! 저도 하긴하는데 별로 센스가 없어서 ㅠㅠ
+P1 	: 에잇 자기만 만족하면 되는 거죠 ㅎ.ㅎ !!
+P1 	: &name1&님 중고거래도 자주 하시나요?
+P0 	: 좋아하는 편이에요 ㅎㅎㅎ당근!
+P1 	: 헐 저도요!!!! 어제도 에어팟 본체 샀어요!
+P1 	: 최근에 본체만 잃어버려서 ^.ㅠ
+P0 	: ㅎㅎㅎ저도 그런적있어요 ㅋㅋㅋㅋ다들 똑같군요

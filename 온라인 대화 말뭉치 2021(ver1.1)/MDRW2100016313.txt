@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 보신 영화가 있으신가요
+P0 	: ?
+P1 	: 안녕하세요
+P1 	: 저는 캐치미이프유캔이요
+P0 	: 별 다섯 개 중에 몇 점이에요?
+P1 	: 다섯개요 재밌더라구요
+P1 	: 뭐보셨어요?
+P0 	: 저는 영화 말고 드라마인데 킹덤 봤어요
+P1 	: 넷플릭스 보시나봐요
+P0 	: 왓챠 넷플릭스 한 달씩 번갈아가면서 봐요 흐흐
+P1 	: 저 둘다봐요 ㅋㅋㅋ
+P0 	: 넷플릭스는 드라마 왓챠는 영화가 좋은 거 같아요ㅎㅎ
+P1 	: 맞아요
+P1 	: 넷플릭스 드러마 뭐보세요?
+P0 	: 최근에 어둠 속으로 되게 재밌게 봤어요ㅎㅎ
+P1 	: 처음들어보네요 어느나라건가요??
+P0 	: 벨기에 드라마에요 저도 벨기에 드라마는 처음 봤는데 재밌더라고요!ㅋㅋ

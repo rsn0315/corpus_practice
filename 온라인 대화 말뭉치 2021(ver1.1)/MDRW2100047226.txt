@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100047226
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 하 너무 많죠
+P1 	: 근데 오늘은 마라탕이 땡기네요
+P1 	: &name1&님은요?
+P0 	: 전 떡볶이요! 마라탕재료 뭐 좋아하세요?
+P1 	: 저는 분모자면이랑 건두부요!!!
+P1 	: 헉 떡볶이
+P1 	: 로제 vs 짜장
+P0 	: 요즘은 로제에 미쳐있어요....
+P0 	: 로제떡볶이 좋아하세요?
+P1 	: 헉 네네
+P1 	: 로제 어디거 좋아하세요?!
+P0 	: 저 신전이요! 좋아하세요?
+P1 	: 헉 넨네!!
+P1 	: 전 명랑도 좋아해요!!!
+P1 	: 신전이 1인분씩 포장되어서 좋더라고요
+P0 	: 둘이 같이먹으면 극락이에요ㅠㅜ
+P0 	: 좋아하는 카페브랜드 있으세요?
+P1 	: 저는 메가요!!
+P1 	: 죠리퐁이랑 티라미수 라때
+P1 	: 라떼 너무 맛있어요
+P0 	: 와 안먹어봤는데 꼭 마셔봐야겠어요
+P1 	: 아주답니다.
+P1 	: &name1&님은 어느 카페 브랜드 젤 좋아하세요?
+P0 	: 전 이디야요!

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요!
+P0 	: 안녕하세요.
+P1 	: 오늘 저녁 뭐 드셨어요?
+P0 	: 오늘 엄마가 끓여주긴 된장찌개먹엇어요.
+P1 	: 된장찌개 먹은지 오래되었는데, 맛있었겠어요~
+P0 	: 고기를 안넣어도 깔끔하고 얼큰하고 맛잇더라고요
+P1 	: 저희집도 된장찌개 끓일 때 고기는 안 넣어요ㅎㅎ
+P0 	: 저는 고기 오래끓이면 고기 식감이 떨어지고 바스라져서 먹기싫더라고요
+P1 	: 그렇군요 저희집은 김치찌개도 된장찌개도 고기 안 넣고 끓이다보니 고기 넣는다는건 익숙하지 않네요
+P0 	: 소세지같은것도 오래끓이면 안좋아해서 이틀만먹고 안먹게되더군요 ㅋㅋ
+P1 	: 다른 음식들도 그렇지만 찌개류도 오래 두지 않고 최대한 빨리 먹는게 맛있게 먹을 수 있는것 같아요
+P0 	: 맞아요..그런데 매일 할수없는노릇이라
+	  엄마는 왕창만들어주시죠..
+P1 	: 그쵸..매일 매끼니 준비하는게 쉬운일이 아니죠ㅠㅜ

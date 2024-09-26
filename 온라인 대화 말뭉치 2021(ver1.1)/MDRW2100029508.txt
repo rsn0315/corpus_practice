@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100029508
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 여긴 안 와요!
+P0 	: 여긴 많이
+P1 	: ㅇㅎ
+P1 	: 비오면 축축해서 별로
+P0 	: 습하뎌
+P1 	: 넹 너무 습해서 싫어요
+P0 	: 그쵸
+P1 	: 장마철엔 제습기 계속 가동해둿던 것 같아요
+P0 	: 저도 항상
+P1 	: 옷도 잘 안 마르고 비 많이오면 넘 힘든 것 같아요ㅜ
+P0 	: 냄새가 나구요
+P1 	: 맞아요 넘 견디기 힘든ㅜ
+P0 	: 싫지여

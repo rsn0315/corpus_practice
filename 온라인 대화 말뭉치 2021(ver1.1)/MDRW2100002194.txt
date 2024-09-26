@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002194
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인쇼핑 vs 오프라인쇼핑 뭐를 더 즐겨하세요?
+P1 	: 저는 온라인쇼핑이요. &name1&씨는요?
+P0 	: 저두요ㅎ 몇시간전까지했답니다
+	  주로 어떤걸사세요?
+P1 	: 식품이랑 생필품, 계절 바뀔 때면 옷이랑 신발도 온라인으로 구매하네요
+P0 	: 전 얼마전에 샤인머스캣 샀다가 실망했어요 맛이없더라고요ㅜ 신선한식품은 확실히 온라인으로는 힘든가바요
+P1 	: 어머 저도 샤인머스캣 주문했는데!! 걱정되네요 과일은 직접 보고 사야 맛좋은걸 고를 수 있나봐요
+P0 	: 잘고르셨길바래봅니다ㅎㅎ
+	  할인쿠폰 잘이용하시나요?
+P1 	: 없으면 안 사죠^^ 많이 이용해요
+P1 	: 추석상품이 나오더라고요 추석 선물 준비하고 계신가요?
+P0 	: 아 정말 명절준비해야되네요
+	  조카들이 많아서 장난감만 왕창사야할것같아요ㅎㅎ
+P0 	: &name2&은요?
+P1 	: 부모님이 준비하셔서 저는 딱히 준비할게 없는것 같아요. 과일 보내신다고 하시더라고요.
+P0 	: 그럼 받고싶은 물건은 있으세요?ㅎㅎ
+P1 	: 아직까지는 생각해본적이 없네요. 긍정님은 장난감 목록 정하셨나요? 요즘 장난감 라방 많이 하더라고요.
+P0 	: 라방도 보는 센스 좋습니다ㅎㅎ
+P0 	: 열심히 쇼핑해서 골라볼께요!

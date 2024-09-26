@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015849
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동호회 참여해본적있으신가요??
+P0 	: 있어요!
+P1 	: 오 어떤거에요?
+P0 	: 회계 세무 자격증 스터디요!
+P0 	: &name2&님은요?
+P1 	: 우와~멋지네요
+P1 	: 저는 아빠따라 배드민턴동호회 간적있어요!
+P0 	: 어떠셨나요?
+P1 	: 아침에 일어나는게 힘들었는데 막상 가보면 꽤 재밋엇어요 ㅋㅋ
+P0 	: 봉사 해보셨나요?
+P1 	: 봉사는 중딩때 의무빼곤 안했어요 ㅋㅋ ㅠㅠ
+P0 	: 저는 한번해봤어요
+P1 	: 오 어떤봉사인가요?
+P0 	: 교육 봉사였어요

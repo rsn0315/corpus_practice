@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030280
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용
+P0 	: 개강하셨나요
+P1 	: 맞습니다 저는 개강한대학생입니다
+P0 	: 1학년이신가봐요
+P1 	: 2학년입니다
+P0 	: 헉 2학년이면
+P0 	: 코로나학번이시군요
+P1 	: 네ㅜㅜ 화나요
+P0 	: 저도 어떻게보면 코로나학번이라..
+P0 	: 전 1학년 다니고 군복학하니 터졌거든요
+P1 	: 와...
+P1 	: 그럼 지금 몇학년이세요?
+P0 	: 저는 지금 3학년이에요
+P1 	: 헉 멋있다... 계속 대면하실 때 학교다니셨겠네요
+P0 	: 1학년때만 다녔어서 저도 별거없어여..ㅋㅋㅋ

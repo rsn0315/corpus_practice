@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용 집안일 많이하시나용
+P1 	: 네 저는 혼자 살아서 전부 혼자 다~ 하고있습니다
+P1 	: 평소에 집안일 많이 하시나요?
+P0 	: 저는 남편이랑 반씩 나눠서 하고있어요
+P1 	: 남편분께서 자상하시네요
+P0 	: 같이 돈버는데 집안일도 같이해야죠ㅋㅋ
+P1 	: 맞벌이 하시는군요 저도 동생이랑 같이 살때는 반반했었어요
+P0 	: 아 동생분이랑 같이 사셨었군요
+P0 	: 저는 가족이랑 넘 멀리살아서 자취했었는데 가족이랑 같이 사는거 좋아보였어요
+P1 	: 대학때문애 동생이랑 같이 자취했는데 맨날 싸워서 별로 안좋았어요ㅋㅋ 둘다 남자라 살갑지도 못하고 스타일도 달라서 맨날 싸웠죠ㅋㅋ
+P0 	: 앜ㅋㅋ 그러셨군요
+P0 	: 그럴때마다 누구랑 같이살고싶다고 생각했었어요ㅋㅋㅋ
+P1 	: 전 혼자 살아보니까 할일은 좀 많아도 자유롭고 편하고 좋은거 같아요
+P1 	: 조금 늦었지만 좋은 아침입니다
+P1 	: 점심식사하셨나요? 점심식사 준비는 누가하세요?
+P0 	: 넹 점심먹었어요! 저희집은 요리는 남편담당입니당ㅎㅎ

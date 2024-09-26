@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 어떤 음식 좋아하시나요?
+P0 	: 저는 피자나 브리또 좋아해요ㅁ
+P1 	: 저도 피자 좋아해요  어떤피자좋아하세요?
+P0 	: 아 저는 파파존스 좋아해요~ㅎㅎ
+P1 	: 파파존스는 금요일에 행사를 해서 좋아요 ㅎㅎ
+P0 	: 어머 잘아시네요~ 오늘도 문자왔더라구욮ㅋㅋ
+P1 	: ㅋㅋㅋㅋ오늘 저녁엔 무얼드시나요?
+P0 	: 오늘저녁엔 바질페스토파스타 해먹으려구요~ㅎㅎ
+P1 	: 우와 요리 잘하시나봐요!! 전문적인메뉴네요
+P0 	: 아 ㅋㅋ 요리하는게 취미라 자주 해먹어요 ㅎㅎ
+P1 	: 오오 바질페스토도 직접 만드신건가요?
+P0 	: 저번에 직접 만들어본적이있는데 유통기한 감당이안되서 그냥 요새는 주문해먹어요 ㅋㅋ
+P1 	: 오오 신기하네요  요리 잘하시는거 부러워요
+P0 	: 아하! 요리는 귀찮은거만빼면 다좋아요 재밌구

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100002536
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 학교 어느 지역에서 다니셨나요??
+P1 	: 경상북도쪽이요!
+P1 	: 저는 태어날때부터 쭉 모든 학교를 다 경북에서 다녔어요!
+P0 	: 그럼 경상도 사투리 쓰시겠네요 ㅋㅋ
+P0 	: 학교에서 학생회나 동아리 같은거 해보셨나요??
+P1 	: 동아리같은 경우는
+P1 	: 이제 보건동아리? 그런쪽으로 해봤고
+P1 	: 학생회는 안해봤네요
+P0 	: ㅋㅋ다른 동아리 같은건 안하셨나요
+P0 	: 저는 게임동아리랑 음악쪽 동아리 해봤어요 ㅋㅋ
+P1 	: 축구를 좋아해서
+P1 	: 축구쪽 동아리랑
+P1 	: 일본어에 관심이 있어서 일본어 동아리도 해봤어요!
+P0 	: 오 저는 일본어 수업 들어본적있어요
+P0 	: 그 수업 끝나자마자 일본으로 여행가기두 했고 ㅎㅎ
+P0 	: 근데 수업은 기본만 알려주다보니까 여행갈때는 별로 도움이 안됐어요 ㅋㅋ
+P1 	: 헉 그렇군요
+P1 	: 회화에 사실 큰 도움이 될순없긴하죠 ㅠㅠ
+P0 	: 맞아요 결국 일본 가서 길잃고 겨우겨우 찾아갔어요
+P1 	: 아이구.. 다행이네요
+P0 	: 그뒤로 해외여행가는게 무서워졌어요 ㅋㅋ
+P1 	: 해외여행은 친구나 지인이랑 가는게 좋죠
+P0 	: 혼자가는건 좀 위험해보이기도 해요
+P1 	: 치안이 안좋은곳이 많아서 잘보면..

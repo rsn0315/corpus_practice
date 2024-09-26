@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004963
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이번주 &name3& 광주가는거알지?
+P0 	: 응. 토욜날까지 알바간다해서 일욜 아침에 가야지
+P1 	: 9시까지 못갈듯한데
+P0 	: 설마 딴애들이 더 일찍올까?
+P1 	: 그렇긴하겠지만 서둘러야겠다
+P0 	: ㅎㅎ 어디 좋은데 가는건 아니지만 차타고 멀리 가는거라 설렌다^^
+P1 	: 휴게소 안갈꺼야
+P0 	: 나도 안감요~~~ 큰일난다
+P0 	: 어무니한테 들렸다올수있을까?
+P0 	: 안본지 넘 오래라~~
+P1 	: 잠깐 들렸다오지모
+P1 	: 형네는 담에가고
+P0 	: 그래 고3큰일난다...수능보고 함 가야지
+P1 	: ㅎ어디가는거 오래간만이라 &name4&이 좋아하겠네
+P0 	: 그러니까 맘놓고 가까운데라도 편히 가고싶다~~
+P1 	: 내년엔 좋은데 갈수있겠지..설마 내년까지 코로나 있을라구
+P0 	: &name3&운전연습하느라 강릉도 가고 좋다~

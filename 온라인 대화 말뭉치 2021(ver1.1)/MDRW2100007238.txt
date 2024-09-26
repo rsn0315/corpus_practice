@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007238
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 줌으로 피티받으면 어떨 거 같아?
+P1 	: 피티가 운동이지?
+P0 	: 응 일대일로 운동강습받는 거
+P1 	: 난 헬스 별로 안좋아해
+P0 	: 아 맞다 그럼 관심있는 운동 없어?
+P1 	: 하는거?
+P0 	: 응 보는 거 말고
+P1 	: 축구
+P0 	: 축구 하는 것도 좋아해?
+P1 	: 응 좋아해
+P0 	: 근데 축구강습은 온라인으로는 힘들겠다
+P1 	: 아무래도 야외에서 하는 운동이다 보니까
+P0 	: 온라인으로 시도해보면 웃기긴 할 거 같네

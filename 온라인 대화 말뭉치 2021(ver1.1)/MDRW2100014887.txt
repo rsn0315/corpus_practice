@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014887
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 봉사모임이나 동호회하는 거 있어?
+P1 	: 아니. 없어. 너는 활동하고 있는 봉사단체나 동호회 있어?
+P0 	: 예전에 동호회했는데 코로나때문에 못 나가고 있어.
+P1 	: 무슨 동호회?
+P0 	: 스윙댄스 동호회인데 스윙재즈에 맞춰서 추는 춤이야.
+P1 	: 재밌었어?
+P0 	: 응. 진짜 재밌어. 신나고 스트레스도 풀리고. 해볼래?
+P1 	: 한 번 가면 몇 시간이나 해?
+P0 	: 음~ 두세시간쯤? 강습 들으면 더 오래 하기도 해.
+P1 	: 안 쉬고 계속하는거야?
+P0 	: 중간중간 쉬어. 다른 사람들 추는 거 보는 것도 재밌어.
+P1 	: 재밌겠다. 그런데 생각보다 오래하네.
+P0 	: 시간이랑 체력이 있으면 더 할 수도 있어.

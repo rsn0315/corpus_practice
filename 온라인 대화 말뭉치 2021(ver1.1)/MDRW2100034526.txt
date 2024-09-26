@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034526
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨어요?
+P1 	: 네 칼국수 먹었어요. &name1&님은요?
+P0 	: 오 칼국수 맛있었겠네요
+P0 	: 저는 삼치 구워 먹었어요
+P1 	: 삼치 구이 맛있죠. 저도 저녁엔 조기 구워먹으려구요
+P0 	: 네 이번에 삼치 잡았다고 해서 산지직송으로 받았거든요
+P0 	: 신선해서인지 아주 맛있게 먹었어요
+P1 	: 산지직송이라니 부럽네요
+P1 	: 낚시 하시는 분이 있으신가봐요
+P0 	: 아 그건 아니고
+P0 	: 대청도 쪽에 계시던 분이 소개해주셔서요ㅎㅎ
+P1 	: 요리 잘 하세요?
+P0 	: 잘하지는 않아요ㅎㅎ
+P1 	: 저도 유튜브 보고 따라하는 정도 ㅋㅋ
+P0 	: 오 그래도 따라할 정도면 요리 실력이 어느정도 있는거죠
+P1 	: 칼질은 영 예쁘게는 안 되네요 ㅋㅋ
+P0 	: 칼질이 힘들죠 은근
+P1 	: 무나 당근같은 딱딱한 채소가 진짜 힘들더라구요
+P0 	: 네 그래서 저는 채칼 써요

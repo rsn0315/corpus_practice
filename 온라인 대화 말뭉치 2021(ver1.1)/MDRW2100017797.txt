@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017797
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 요근래엔 가성비좋은걸로 구매했엇어요. 엘지로요.
+P0 	: 엘지폰을 쓰시는 분이 아직 계셨군요..! 후덜덜
+P1 	: 그러면 &name1&은 무슨폰을 쓰세요?
+P0 	: 비밀이에요
+P1 	: 이런.. 저만 밝히는건가요 ㅠ 
+	  최근에 옷 사신것잇으신가여
+P0 	: 네 최근에 인도풍의 티셔츠를 하나 사서 입고 있네요
+P1 	: 오 어디서 사셧나요
+P0 	: 사실 제 엄마가 산건데 인터넷쇼핑몰을 통해 사셨다네요
+P1 	: 와 어떻게생겻나요
+P0 	: 목부분이 타지마할 지붕모양이에요
+P1 	: 비유가 찰떡같으시네요 ㅋㅋㅋ 색깔은 마음에드시나요
+P0 	: 아니요
+P1 	: 다른색깔은 없나요 ㅜ
+P0 	: 사고싶은 물건 있으세요?

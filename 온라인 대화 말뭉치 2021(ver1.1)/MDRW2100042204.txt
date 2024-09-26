@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100042204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 오늘 식사 뭐 하셨나요?
+P0 	: 전부대찌개요 님은요?ㅎ
+P1 	: 부대찌개도 맛나겠어요 전 고등어구이에 햄양파볶음 먹었어요
+P0 	: 햄양파볶음은 어떻게 하는건가요?
+P1 	: 양파랑 햄을 썰고 달군 후라이팬에 마늘과 양파와 간장을 넣고 간장이 끊을때까지 볶다가 햄과 올리고당 넣고 볶으면 끝이예요
+P0 	: 오 맛있을것 같네요 스팸써도 되나요?
+P1 	: 그럼요~^^ 간장을 쯔유 쓰시면 더 맛나요
+P0 	: 쯔유는없는데 ㅎ요리보니마니 쓰이더라구요
+P1 	: 그냥 간장 대신 쓰기.좋아요. 덜짠 간장이라고 생각하시면 되요
+P0 	: 오 한번사바야겠어용 어디꺼 쓰시나요
+P1 	: 코스트코에 파는 쯔유 써요
+P0 	: 오 한번찾아바야겠어요~^^

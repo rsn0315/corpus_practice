@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100003210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 여행 가고싶은 곳 있으세요?
+P1 	: 저 유럽가고 싶어요 스위스가 그렇게 좋다네요
+P1 	: &name1&님은요?
+P0 	: 헉 저도 유럽 가고 싶어요
+P0 	: 스위스 가면 컵라면을 꼭 먹어줘야 한다던데요
+P1 	: 그런가봐요 융프라우? 거기가면 신라면판대요
+P1 	: 만원도 넘는다고
+P0 	: 헉 만원이요?
+P0 	: 우리나라에서 라면 열개 살 수 있는거 아니에요?ㅠㅠ
+P1 	: 그니까요 완전 비싸죠ㅎ 가서먹음 근데 진짜 맛있을거같아요
+P0 	: 한 번 먹고오면 우리나라에서 라면 먹을때마다 생각날거같아요ㅋㅋㅋ
+P0 	: 국내는 여행가보고 싶은 곳 없으세요?
+P1 	: 제주도가고싶었는데 코로나 4단계가 돼서 힘들거같아요
+P1 	: &name1&님은 어디다녀오셨어요? 휴가철인데
+P0 	: 전 4단계 전에 제주도 다녀왔어요 또 가고 싶었는데
+P0 	: 못가게 됐네요ㅠㅠ
+P1 	: 오 다녀오셨어요? 부럽네요
+P1 	: 어디보고오셨어요?
+P0 	: 저 함덕 쪽 갔었어요
+P0 	: 바다가 진짜 예뻤어요
+P1 	: 제주도 바다넘 이쁘죠
+P1 	: 가고싶네요ㅠㅠ
+P0 	: 저 수학여행 이후로 제주도 제대로 간 게 처음이어서
+P0 	: 너무 좋았어요 상황 좋아지면 꼭 갑시다
+P1 	: 그러게요 언능 코로나 끝나서 여행가고싶네요

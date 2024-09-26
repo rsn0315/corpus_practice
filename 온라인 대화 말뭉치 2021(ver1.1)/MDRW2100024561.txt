@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100024561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 식사하셨나요?
+P1 	: 네네~저 지금 커피마셔요
+P1 	: 커피 좋아하시나요?
+P0 	: 네 좋아해요!
+P0 	: 아메리카노 자주 마셔요~
+P0 	: 어떤 커피 드시고 계세요?
+P1 	: 바닐라라떼 먹고있어요!
+P1 	: 카페 보통 어디 많이가세요??
+P0 	: 저는 집 앞에 투썸이 있어서 투썸 자주가요
+P0 	: &name2& 님은요?
+P1 	: 아 전 스타벅스 많이가구요
+P1 	: 개인카페 돌아다니는거 좋아해요
+P1 	: 혹시 빵 좋아하시나요?
+P0 	: 분위기 좋은 개인 카페들 정말 많죠ㅎㅎ
+P0 	: 네 빵도 좋아해요
+P1 	: 아그럼 혹시 도넛 전문점들 가보셨나요?
+P0 	: 아뇨ㅠㅜ 가보고 싶은데 아직이요
+P0 	: 다녀오신 곳 있나요?
+P1 	: 아 저도 가본적은 없구 그냥 tv에서 요즘 유행이라길래 여쭤봤어요
+P1 	: 그럼 보통 디저트는 뭐 같이 드세요?
+P0 	: 치즈케이크 좋아해요~ 커피도 좋아하는데 얼그레이도 좋아해서 케이크랑 얼그레이 같이 먹는 거 좋아해요
+P1 	: 아 넘 좋은 조합이네요 ㅠㅠ
+P0 	: 맞아요ㅠㅠ 치즈케이크 너무 맛있어요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100037193
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 최근에 구매한 물건 있으신가요?
+P0 	: 갤탭7샀었어요
+P0 	: &name2&님은여?
+P1 	: 저는 요즘 구매를 잘 안 하다보니, 딱히 떠오르는게 없네요ㅜㅜ
+P0 	: 저도 저 갤탭산게 한달은넘었어요 ㅋㅋㅋㅋ젤최근이 저거네요
+P0 	: 그거외엔 죄다 입에넣을것만 사서
+P1 	: ㅋㅋㅋㅋ 저도 주로 생활용품이나 식품 위주였던거 같아요
+P0 	: 네 맨날사야되는것들 ㅋㅋㅋ
+P0 	: 그럼 구매하고싶으신물건있나요
+P1 	: 음... 이것도 먹는거긴 한데ㅋㅋㅋ
+	  견과류랑 영양제 좀 구매할까 생각 중이고,
+	  취미생활 할 재료들을 구매할까도 고민하고 있어요
+P0 	: 오오 취미생활재료들 어떤가요?
+P0 	: 어떤거요?
+P1 	: 요즘은 비즈공예 재료요
+P0 	: 와 비즈공예  저같은 떵손은 그저 부럽습니다 ㅎㅎ
+P0 	: 악세사리도만드시나여
+P1 	: 가끔이요ㅎㅎ
+P0 	: 뭐 만드시는거 좋아하시나봐요ㅎㅎ
+P1 	: 네ㅎㅎ 손으로 꼼지락거리며 만드는거 좋아하는편이에요

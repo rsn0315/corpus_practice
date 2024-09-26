@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009672
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금은 미역국이 떠오르네요 ㅎㅎ
+P0 	: 오 미역국 맛있죠 ㅠㅠ 자취하고 많이 못먹는 것 같아요ㅠㅠㅠ
+P1 	: 바게트님은 어떤 거 좋아하세요?
+P0 	: 저는 다 좋아하는데 요즘에는 뼈해장국 좋아해요
+P0 	: 맛있어요!
+P1 	: 근처에 맛집이 있나봐요
+P0 	: 헐 어떻게 아셨어요?
+P0 	: 맞아요
+P1 	: ㅋㅋ 근처에 맛집 있으면 자주 가게 되죠
+	  뼈해장국 먹어본지도 꽤 됐네요
+P0 	: 잡내 안내고 한느게 중요한 것 ㅏㅌ아요
+P1 	: 고기요리는 잡내 잡는 게 진짜 중요하죠
+P0 	: 맞아요 근데 그런 가게가 많지 않아요ㅠㅠ
+P0 	: &name2& 님은 무슨 음식 좋아해요?
+P1 	: 순두부찌개도 좋아해요
+P0 	: 오 순찌 저 가끔 만들어 먹어요!
+P0 	: 흰밥에 먹으면 진짜 맛있죠 ㅎㅎㅎ
+P1 	: 얼마 전에도 먹었는데 또 생각나네요 ㅎㅎ

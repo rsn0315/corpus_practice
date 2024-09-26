@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007692
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소에 중고거래 하세요?
+P1 	: 가끔 하는 편인데 저는 구매보다는 판매를 주로해요
+P1 	: 부자님은요?
+P0 	: 저도 구매보다는 판매 하는 쪽이에요
+P1 	: 주로 어떤걸 판매하시나요
+P0 	: 저는 예전에 좋아했던 가수 음반이나 화장품 또 안뜯은 새옷들?
+P0 	: &name2&님은요?
+P1 	: 저도 비슷한거 같아요 주로 안입는 옷같은거?
+P1 	: 음 그리고 안쓰는 물건들요ㅎㅎ
+P0 	: 맞아요ㅎㅎ 그런것들 의외로 많더라고요
+P1 	: &name1&님은 최근에 구매하신 거 있으세요?
+P0 	: 저는 어제 립스틱 샀어요!
+P0 	: &name2&님음요?
+P1 	: 어떤색상 구매하셨나요?
+	  저는 최근에는 없고 전에 운동화 하나샀어요
+P0 	: 저는 헤라 서울데이즈 구매했어요! 그냥 베이스 컬러?
+P0 	: 구매하고 싶은 물건은 없으신가요?
+P1 	: 무난하게 사용할 수 있는 데일리템이네요
+P0 	: 맞아요 그런게 손 많이 가긴 해요
+P1 	: 아 최근에 선풍기가 고장나서.. 여름 다 갔는데 그래도 하나 장만해야 할 것 같아서.. 선풍기 알아보고있어요

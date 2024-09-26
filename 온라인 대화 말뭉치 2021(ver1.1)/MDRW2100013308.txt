@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100013308
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요! 반려동물 키우시나요??
+P0 	: 넵 강아지 두마리 키워용
+P1 	: 우와 부럽네요ㅜ 저는 아버지가 비염이 심하셔서
+P1 	: 종이 뭔가요???
+P0 	: 저희 가족도 비염있는데 이겨내고 사는중입니다 ㅠㅠㅋㅋ
+P0 	: 요크셔테리어예요! 엄마와 아들이랍니당
+P1 	: 우오오오
+P1 	: 저희 집에서 키운다는 느낌은 아니지만
+P1 	: 집 앞 테니스장에서 사는 고양이 2마리에게 밥을 주고 있어요!
+P0 	: 오오 좋은일 하시네요..!
+P0 	: 길고양이들이 많이 경계하지는 않나요?
+P1 	: 엄마냥인데 주변에 먹을것도 없어보이고 넘 마르고
+P1 	: 쓰레기통 뒤적거리는게 안쓰러워서ㅜ 시작한건데
+P1 	: 벌써 3개월?? 된것같네요
+P0 	: 벌써 3개월이라니 대단하시네요!
+P0 	: 길고양이들 급여는 보통 사료를 주시는 건가요? 캔이려나?
+P1 	: 밥주는 사람은 알아보나봐요
+P0 	: 맞아요 처음엔 경계해도 나중에는 알아보는 것 같더라구요
+P1 	: 그러게요 넘 신기한거같아요
+P0 	: 제가 강아지를 키우다보니 고양이랑 다른 점이 많아서 신기하더라구요
+P1 	: 오오 저는 고양이만 주로 봐서 강아지 넘 궁금해요 ㅜㅠ 넘 귀엽구

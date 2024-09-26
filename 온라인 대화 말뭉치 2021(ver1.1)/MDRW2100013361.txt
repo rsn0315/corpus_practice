@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013361
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 스포츠 좋아하는 편이세요?
+P1 	: 아뇨ㅠㅠ근데 이번에 올림픽은 재밌게 봤어요ㅎㅎ
+P1 	: 보시는거 있으세요?
+P0 	: 아뇨 ㅎㅎ 저도 스포츠 아예 모르는데 이번 올림픽은 엄청 열중해서 봤어요!
+P0 	: 올림픽 경기 중에 기억남는거 있으세요?
+P1 	: 저도 그래요ㅎㅎ감동이더라구요
+P1 	: 저 거의 다봤는데 배구 재밌더라구요ㅎㅎ
+P0 	: 맞아요! 너무 재밌었어요 보다보면 나중에 배구경기 보러가고 싶어지지 않아요?
+P1 	: 맞아요ㅋㅋ 엄청 박진감넘치더라구요ㅎㅎ
+P0 	: 이번 올림픽 너무 재밌어서 진짜 취미로 스포츠 경기 볼까도 생각했던거같아요~
+P1 	: 네ㅎㅎ재밌다구 하더라구요 야구는 한번 가봤는데 제취향이 아니라서ㅜㅜ
+P0 	: 맞아요 저도 야구는 잘 몰라서ㅎㅎ
+P0 	: 저는 배구경기 보러간적 있어요!
+P1 	: 오 재밌으셨어요?
+P0 	: 네 엄청 재밌어요~ 스트레스풀려요!
+P1 	: 아 한번 가봐야겠어요ㅋㅋ

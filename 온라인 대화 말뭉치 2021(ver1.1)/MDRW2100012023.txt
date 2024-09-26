@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요?
+P1 	: 아뇨 키우시나요,
+P0 	: 아니요
+P0 	: 어렸을때
+P0 	: 닭키운적있어요
+P1 	: 와 집에서요? 주택이셔ㅆ나요?
+P0 	: 빌라예요
+P0 	: 가정에서 키우긴 힘들긴해요
+P1 	: 병아리때부터 키우신건가요?
+P0 	: 네~
+P0 	: 초딩때 오백원주고 데려왔어요
+P1 	: 와 그런데 닭까지 키우신거군요!!
+P0 	: 애지중지키웠어요
+P0 	: 썸써미님은 동물키운적 있나요?
+P1 	: 닭은 어디로 갔나요?
+P0 	: 수명다해서 죽었어요ㅜ
+P1 	: 속상하셨겠어요 애정이 컸을텐데
+P0 	: 그럼요

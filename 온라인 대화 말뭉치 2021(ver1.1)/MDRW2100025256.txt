@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100025256
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전자신가요 후자신가요
+P0 	: 국물있라면이요! ㅋㅋㅋ
+P0 	: 주로 뭐 드세요 라면중에?
+P1 	: 역시 라면은 기본이 국물이잖아요
+P1 	: 저 틈새라면이요
+P0 	: 헐헐
+P0 	: 매운거 잘드시나보다
+P1 	: 음 안 매운거는 무파마에요
+P1 	: &name1&은요?
+P0 	: 무파마도 매워요! ㅋㅋㅋㅋ
+P1 	: 어린이신가
+P0 	: 전 신라면도 좀 매운거같아요 ㅋㅋㅋㅋ
+P0 	: 맵찔이라서...
+P1 	: 진순 드십니까 ㅋㅋ
+P0 	: 그것도 먹긴한데 맛은없는거같아요 ㅋㅋㅋ
+P0 	: 일단 기본으로 삼양라면 사둬요 ㅋㅋㅋ
+P1 	: ㅋㅋ삼양도 괜찮죠
+P1 	: 냉면은 물냉이십니까 비냉이십니까
+P0 	: 불닭 이런것도 잘드시겠어요
+P0 	: 물냉이요!
+P1 	: 역시 기본에 충실하신
+P1 	: 정통파이십니다
+P0 	: 님은 어느쪽이세요? 물냉비냉?
+P1 	: 비냉이 더 맛있다는 애들 혼내줘야함
+P1 	: 당연히 물냉이죠

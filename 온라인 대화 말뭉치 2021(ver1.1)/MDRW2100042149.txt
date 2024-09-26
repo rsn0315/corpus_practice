@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100042149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨도 좋으니 여행 가고 싶네요
+P1 	: 그러게요
+P1 	: &name1&님은 어디 여행가보셨나요?
+P0 	: 코로나 전에는 휴가때마다 해외여행 다니고
+P0 	: 국내도 열심히 여행 다녔는데
+P1 	: 그럼 어디가 가장 좋으셨나요?
+P0 	: 국내에서는 순천이요
+P0 	: 가을철에 순천만 가서 일몰 보면
+P0 	: &name2&님은요?
+P1 	: 저는 춘천이요
+P0 	: 춘천 좋죠~
+P0 	: 추천해주실만한 곳이 있나요?
+P1 	: 저 레일바이크요
+P0 	: 오 레일바이크
+P1 	: 힘든데 재미있어요ㅋㅋㅋㅋ
+P0 	: 풍경이 아름다웠나요?
+P1 	: 네 정말 예뻤어요
+P1 	: &name1&님은 기념품 사시나요?
+P0 	: 다음에 춘천 가면 레일바이크 타봐야겠네용
+P0 	: 저는 기념품 사는 편인데
+P0 	: 주로 그 지역 간식이나
+P0 	: 해외에선 마그넷 사요
+P1 	: 오~~그렇군요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사는요?
+P0 	: 피자요 님은요?
+P1 	: 생각중이요
+P1 	: 전 시리얼이오
+P0 	: 전 구운달걀에 연두부 먹었어요
+P0 	: 시리얼 좋아하시나요?
+P1 	: 아침은 간단히요
+P0 	: 그렇죠 점심은 보통 뭐 드세요?
+P1 	: 정식이요
+P0 	: 식당에서요?
+P1 	: 네 근무지는 식당이 없어서요
+P0 	: 그럼 어디서 드시는건가요?
+P1 	: 여기저기요
+P0 	: 아 메뉴 선정하시기 힘드시겠어요~
+P1 	: 네 점심마다 결정이 힘들죠

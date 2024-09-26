@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014808
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 콜라보 제품 사보신 적 있으신가요?
+P1 	: 한번도 없어요ㅎㅎ &name1&님은요?
+P0 	: 전 곰표 맥주 먹어봤어요. 맛도 특색있고 괜찮더라구요
+P1 	: 맛이 어떻게 다른가요?
+P0 	: 밀맥주라 그런가 좀 더 달고 풍부한 느낌? 복숭아향도 살짝 들어갔던 거 같아요
+P1 	: 와 맛있겠네요
+P0 	: 곰표가 콜라보 마케팅 선두주자라 그런지 이것저것 많이 나오더라구요
+P1 	: 저는 인스타에 곰표에서 패딩 만든거 봤어요
+P0 	: ㅋㅋ 식품, 패션, 문구 등등 엄청 다양하던데요
+P0 	: 색 조합이 예쁜 것 같아요
+P1 	: 맞아요 특이 했어요
+P0 	: 진로 두꺼비도 뭐 많이 나오던데
+	  인형 귀엽더라구요

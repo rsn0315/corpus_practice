@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017508
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^
+P1 	: 최근에 어떤 책을 읽으셨나요?
+P0 	: 경제도서 읽었어요
+P1 	: 오 경제도서요? 어떤 내용을 다루는 책이었나요?
+P0 	: 엘리어트 파동이론 이라고 주식책이에요
+P1 	: 오 주식책이군요 그럼 책에서 지식을 많이 얻는 편이신가요??
+P0 	: 책이랑 유튜브에서 얻어요!
+P1 	: 그러시구나 혹시 추천하고 싶은 책이 있으신가요?
+P0 	: 뉴욕주민 책이요
+P1 	: 어떤 책인가요?
+P0 	: 주식 관련책이요
+P1 	: 작가가 누구인가요?
+P0 	: 뉴욕주민이요 작가이름이

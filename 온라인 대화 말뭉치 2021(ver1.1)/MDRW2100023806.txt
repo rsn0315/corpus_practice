@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100023806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 혹시 교정이나 라식 해보셧나요
+P1 	: 안녕하세요
+P1 	: 저는 둘 다 안 해봤어요
+P1 	: &name1&은요?
+P0 	: 저도 둘다 안해봣는데
+P0 	: 둘다 관심이 잇어서요!
+P0 	: 치열이 고르신가요
+P1 	: 엄청 정갈하진 않은데 교정할 필요는 없는것같아요
+P0 	: 오 잘됏네요
+P1 	: &name1&은 치열 고르세요?
+P0 	: 저는 덧니가 있어서 병원에서 교정을 권했는데
+P0 	: 교정하려면 이빨 네개를 뽑아야 한대요!
+P1 	: 헤엑
+P1 	: 아프겠네요
+P0 	: 너무 무서워서 일단 안할거같아요 ㅋㅋㅋㅋㅋ
+P0 	: 교정을 할 때는
+P1 	: 진짜 너무 무서운데요??
+P0 	: 그 작은 어금니를 뽑는 거래요
+P0 	: 그쵸 생니를 네개나
+P1 	: 생니를 네개나..
+P0 	: 짝수로 뽑아야 한대요
+P1 	: 작은 어금니요??

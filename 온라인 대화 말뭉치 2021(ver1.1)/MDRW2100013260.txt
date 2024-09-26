@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013260
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 응 고맙고 미안~~
+P0 	: 미안하긴 ~~ 오빠 바쁘니까 ㅎㅎ
+P1 	: 잔업특근이 좀있어서 그렇네
+P0 	: 밤늦게 오니까  그정도는 이해해하지 ㅋ.ㅋ
+P1 	: 역시 ~~~ㅎㅎ
+P0 	: 별걸다 ㅎㅎ
+P1 	: 같이 많이 해야 하는데
+P0 	: 에이 더 한가한 사람이 하는거지
+P1 	: 나중에 나도 한가하면 더 많이 할게
+P0 	: 그럼 된거지 ㅎㅎㅎ
+P1 	: 이번주만 부탁해
+P0 	: 얍얍 미안해 하지 마오~~
+P1 	: 알겠옹~~~
+P1 	: 비오지?

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010114
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 곰표 맥주 알아?
+P1 	: 이거 맥주야?
+P0 	: 응 근데 겉포장이 곰표로 되어있어
+P1 	: 곰표가 머야?
+P0 	: 시멘트 회사일걸?
+P1 	: 아 곰표 맥주 먹어봤어?
+P0 	: 아니 근데 먹어보고싶어
+P1 	: 진로는 먹어봤어?
+P0 	: 아니 안먹어봤어
+P1 	: 나 먹어봤어
+P0 	: 아 그래? 맛이 어땠어?
+P1 	: 알코올램프 맛 나
+P0 	: ㅋㅋㅋㅋㅋ알콜램프맛은 뭐지

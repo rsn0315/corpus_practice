@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100017099
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁식사 메뉴 정하셨나요
+P1 	: 아 ㅋㅋㅋ 감사해요
+P1 	: 아직이요
+P1 	: &name1&은 저녁 정하셨나요
+P0 	: 전 아마 순대볶음 먹을거같은데
+P0 	: 순대볶음좋아하시나요
+P1 	: 네 좋아해요
+P1 	: 순대 안먹은지 꽤 됐네요 근데
+P0 	: 순대먹을 때 내장도 드세여?
+P1 	: 코로나 이후부터는 외식이 줄다보니...
+P1 	: 아뇨
+P1 	: 예전엔 먹었는데
+P1 	: 지금은 안 먹어요
+P1 	: &name1&님은 드세요?
+P0 	: 저는 허파빼고 다 먹어요
+P0 	: 약간 허파의 식감이 싫어가지고
+P1 	: 오 잘 드시네요
+P1 	: 아 맞아요 ㅋㅋㅋ 식감이 독특하죠
+P1 	: 무슨 음식 좋아하세요?
+P0 	: 약간 물컹한게 싫더라구요
+P0 	: 저 김밥 좋아해요 김밥좋아하시나요
+P1 	: 오 김밥 자주 먹죠
+P1 	: 참치김밥 젤루 좋아해요
+P1 	: 집 앞에 김밥천국 있어서
+P0 	: 참치 그것은 갓벽..
+P1 	: 지난달에는 거의 맨날 먹었어요
+P1 	: 일하면서 먹으면 좋더라구요
+P0 	: 그정도로 좋아하시다니
+P0 	: 또 좋아하는 분식있으세요

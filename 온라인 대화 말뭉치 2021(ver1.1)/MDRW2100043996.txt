@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100043996
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 오늘 저녁 뭐드셨어오?
+P1 	: 안녕하세요!
+P1 	: 사실 오늘 저녁은 패스했습니당
+P1 	: &name1&님음요?
+P0 	: 헉 왜 안드셨어요?
+P1 	: 오늘은 일하는 날이거든요...!
+P1 	: 알바할땐 잘 안들어가더라구요ㅠㅜ
+P1 	: 사실 아직 일하는중입니다 ㅋㅋㅋㅋㅋㅋ
+P0 	: 아고 ㅜㅜ넘 힘드시겠어요
+P0 	: 40분뒤 퇴근하시고 식사하시나요 ㅠ
+P1 	: 후후 힘들진 않습니다 다행히!
+P1 	: 퇴근하고 자려구욬ㅋㅋ큐ㅠ
+P1 	: 내일 아침과 점심을 든든히 ^-^
+P0 	: 네네 고생하셨어요
+P1 	: &name1&님은 저녁 드셨나요??
+P0 	: 네 먹었어요!
+P1 	: 어떤거 드샸나요!!
+P0 	: 제육볶음 먹었어요~
+P1 	: 오오 대박
+P1 	: 맛있으셨나유
+P0 	: 네네 넘 많이 먹었어요..ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 든든하시겠군요

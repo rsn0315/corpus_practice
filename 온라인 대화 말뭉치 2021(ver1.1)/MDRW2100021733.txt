@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021733
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁은 드셨나요?
+P0 	: 네 된장찌개 먹었어요
+P0 	: &name2&님은요?
+P1 	: 저는 돼지갈비에 냉면 먹었어요
+P0 	: 와 제대로 드셨네요
+P0 	: 외식하셨나요
+P1 	: 네 친구랑 둘이서 호로록 먹고 왔슴당ㅋㅋ
+P0 	: ㅎㅎ 면요리 좋아하시나봐요
+P1 	: 면을 더 좋아하는 건 아니고 대부분의 음식을 좋아해요ㅋㅋㅋㅋ
+P1 	: 물론 면도 좋아합니다
+P1 	: 굳이 따지면 밥을 더 좋아해요
+P1 	: 닉네임이 장칼국수인 이유는 그냥 그때그때 생각나는 음식으로 닉네임을 정해요ㅋㅋ
+P0 	: ㅎㅎ 아 그렇군요
+P0 	: 닉네임보니 얼큰한 장칼국수가 당기네요
+P1 	: 장칼국수 맛있죠
+P0 	: 가장 좋아하는 음식은 뭔가요
+P1 	: 음 김치찌개랑 떡볶이가 엎치락뒤치락해요ㅋㅋ
+P1 	: &name1&님은요?
+P0 	: ㅎㅎ 전 해산물이요!
+P0 	: 회라면 다 좋아해요

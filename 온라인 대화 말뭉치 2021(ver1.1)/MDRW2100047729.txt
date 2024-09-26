@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100047729
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 제일 최근에 구매한게 뭔가요?
+P1 	: 안녕하세요 저는 동물의숲 타이틀을 샀어요
+P0 	: 닌텐도 하세요??
+P0 	: 부러워요!
+P0 	: 닌텐도가 여러 시리즈가 있던데 어떤거 쓰세요?
+P1 	: 닌텐도 스위치요!
+P1 	: 올해 초에 마련했어요
+P0 	: 그때라면 스위치 대란이 엄청나지않았나요??
+P1 	: 다행이도 대란 끝물에 사서 힘들지않았어요
+P0 	: 다행이에요 ㅋㅋㅋ
+P0 	: 매장에서 사신건가요?
+P1 	: 스위치는 한우리 매장에서 샀구요
+P1 	: 타이틀들은 중고로샀어요!
+P0 	: 중고거래도 하시네요
+P0 	: 좋죠 저렴하게 살 수 있고!
+P1 	: 그죠! 중고거래 해보셨나요?
+P0 	: 꽤 해봤어요
+P0 	: 제가 팔아보기도 하구요!
+P1 	: 뭐 팔아보셨나요?
+P0 	: 책, 기프티콘, 식당상품권 정도요!
+P0 	: 쏠쏠해요 ㅎㅎㅎ
+P1 	: 은근 쏠쏠하져
+P1 	: 책 잘팔리나요?
+P1 	: 개인적으로 책팔기가 제일 힘들던데...

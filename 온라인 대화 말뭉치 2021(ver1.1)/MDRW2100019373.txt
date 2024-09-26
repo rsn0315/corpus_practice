@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택근무 해보셨나여?
+P1 	: 아뇨 전 아직 학생이라서요ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 저도 아직이요ㅠ 부모님은 좀 하셨어여!
+P1 	: 아하 어떤 직종하셨었나요?
+P0 	: 회사원이신데 작년에 1주씩 돌아가시면서 재택하시더러구여
+P1 	: 아 코로나 때문인가요?
+P0 	: 네네! 대신 회사 보안 프로그램을 개인 컴퓨터에 설치할 수 없어서 거의 휴가 같은 재택이었어요
+P1 	: 헉 완전 좋으셨겠네요ㅎㅎ
+P1 	: 그럼 지금은 다시 출근하시는건가요?
+P0 	: 네네ㅋㅋㅋ 잠깐 제외하고 다시 출근이에여ㅠ
+P1 	: 다시 적응하시느라 힘드셨겠네요ㅠ
+P0 	: 출퇴근이 정말 힘드셨대요ㅠ
+P1 	: 정말 그럴 것같아요 종강 개강 느낌...이겠죠?
+P0 	: 네네ㅋㅋㅋㅋㅋ 짧던 방학이 휘리릭....ㅠㅠ
+P1 	: ㅠㅠ개강하셨나요?

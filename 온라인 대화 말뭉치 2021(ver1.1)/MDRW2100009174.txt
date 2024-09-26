@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100009174
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 최근에 다녀오신 여행지가 있으신가요?
+P1 	: 저는 속초 짧게 다녀왔어요 다녀오신데 있으세요?
+P0 	: 속초라니ㅠㅠ 너무 좋았겠어요!
+P0 	: 저는 전주한옥마을에 다녀왔어요!
+P0 	: 속초에 사람 많죠
+P1 	: 네 많았어요ㅠㅠㅋㅋ전주도 사람많죠..휴가철이라..ㅎㅎ
+P0 	: 그쵸ㅠ 그래도 코로나 때문인지 전보다는 많이 줄었더라고요
+P0 	: 속초에서 뭐드시고 오셨어요?
+P1 	: 회랑 물회...ㅎㅎ카페도 다녀오구 1박2일이라 많이 먹질 못했어요
+P0 	: 1박2일 너무 아쉬워요ㅠㅠ
+P1 	: 네ㅠㅜ그래도 그것도 못갈뻔 했어서..어쩔수없죠ㅠ
+P0 	: 얼른 코로나 끝나서 여행  많이 다니고싶어요
+P1 	: 맞아요ㅠㅠㅠ해외도 가구싶구...
+P0 	: 못 가는 동안 돈 많이 모아놔서 나중에 여행비로 씁시다ㅠ!
+P1 	: 그래야겠어요ㅠㅠ아쉽아쉽..
+P0 	: 전 코로나 끝나면 대만에 다녀오려구요!
+P1 	: 와 저는 베트남 가보구 싶어요ㅎㅎ

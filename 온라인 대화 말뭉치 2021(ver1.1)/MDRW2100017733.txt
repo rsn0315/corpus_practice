@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017733
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 연애 중이세요?
+P1 	: 아니요! &name1& 님은요?
+P0 	: 저도요...
+P0 	: 전에 연애했을 땐 데이트 어떠셨어요?
+P1 	: 학생 때라서 맛있는 거 먹고 여기저기 구경다녔어요!
+P0 	: 다 비슷비슷하네요 ㅎㅎ
+P0 	: 이상형 있어요?
+P1 	: 예의 바른 사람 좋아해요~
+P1 	: &name1& 님은요?
+P0 	: 저도 착한 사람 좋아해요 ㅎㅎ
+P0 	: 그리고 기본 상식과 개념 있는 사람도요
+P1 	: 정말 중요한 거 같아요!
+P1 	: 요즘에 정말 몰상식한 사람이 많아요
+P0 	: 그런 사람이랑 결혼하면 매일 싸울 것 같아요 ㅎㅎ
+P1 	: 끔찍하네요... 그런 사람이랑은 절대 연애도 결혼도 싫어요ㅠㅠ
+P0 	: 맞아요 ㅜㅜ 부인이 맘충 소리 들으면 슬플 것 같아요.
+P1 	: 기본 상식 지키는 거 중요하죠~ 결혼은 언제쯤 하고 싶으세요?
+P0 	: 저는 결혼 생각은 아직 없구요
+P0 	: 독신으로 살 것 같아요~
+P1 	: 비혼도 괜찮죠~ 저도 혼자 사는 게 잘 맞는 사람은 굳이 결혼 안 해도 된다고 생각해요~

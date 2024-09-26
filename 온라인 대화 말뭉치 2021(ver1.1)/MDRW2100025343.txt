@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 연애에 관심이있으신가요?
+P1 	: 네 연애하고 싶은데 아직은 만나고 싶은 사람이 없네요
+P1 	: 지금 연애중이신가요?
+P0 	: 아~네~저는연애 중입니다아
+P1 	: 오 얼마나 되셨어요
+P0 	: 얼마안됬습니다아  학생시절연애 경험이 있으신가요오
+P1 	: 네 남녀공학 나와서 사귀어봤네요
+P1 	: 첫사랑은 언제이신가요
+P0 	: 우아~역시 남녀 공학이네요!
+P0 	: 첫사랑은잘모르겠어요!
+P0 	: 기준이 어려워서요
+P1 	: 저는 초등학교때 좋아하는애 있었네요
+P1 	: 결혼은 몇살쯤 하고싶으세요
+P0 	: 돈이 있으면 하고싶긴하네요
+P0 	: 초등학생때...한번씩 있을법허죠
+P1 	: 저두요 사실 돈없어도 하고싶은데 맘에 맞는 사람이 없어요
+P0 	: ㅋㅋㅋㅋ 다 그런거죠 돈이 최고긴해요...ㅎ
+P1 	: 맘에 맞는 사람 빨리 찾고싶네요
+P0 	: 소개팅앱같은거는 어떠세요?

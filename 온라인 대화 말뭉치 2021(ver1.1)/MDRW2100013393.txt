@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100013393
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 기억남는 학창시절 추억 있나요
+P0 	: 학창 시절 기억에 남는 추억 있나요
+P1 	: 학창시절...  야자 빠지고 놀러간 게 가장 좋았네요ㅎ
+P1 	: &name1&은 뭐가 가장 기억에 남나요
+P0 	: 저는 야자 쉬는시간에 떡볶이 배달해먹은거요
+P1 	: 야자는 몇시까지 했어요?
+P0 	: 10시까지 였어요
+P1 	: 저도 그시간까지 했던 것 같아요
+P1 	: 어느 지역이었나요?
+P0 	: 저 지방이요~ 야자는 선택이었나요?
+P1 	: 선택을 빙자한 강제였지요ㅎ
+P1 	: 저는 경기였어요
+P1 	: &name1&은 선택이었나요?
+P0 	: 저는 기억애 잘 안나는데..전원 남았던것 보면..강제였나싶기도 해요..사유가 있을때만 빠지고
+P1 	: 지금 생각해보면 어떻게 그렇게 하루종일 책상에 있었나 싶어요
+P1 	: 대학 가니 야자 안해본 사람들이 더 많아 놀랐어요
+P0 	: 아 그래요? 지역마다 분위기가 달랐군요 신기하네요
+P1 	: 네,  솔직히 부럽더라고요
+P1 	: 야자시간에 진심으로 공부하는 경우는 몇 안되니
+P1 	: 요새는 야자가 대부분 사라진것 같아요
+P0 	: 맞아요 그런데 나름 추억이 있기도 하고^^;ㅋㅋ
+P0 	: 학창시절로 돌아가고싶으신가요

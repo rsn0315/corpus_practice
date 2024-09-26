@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 저녁 맛난거 드셨나용?
+P0 	: 네 전 먹었습니다 &name2&님도 저녁 드셨나요??
+P1 	: 넹! 전 피자먹었어요!
+P1 	: &name1&님은요?
+P0 	: 어느 브랜드꺼 드셨나요??
+P1 	: 피자마루요!
+P1 	: 드셔보신적 있으실까요?
+P0 	: 먹어본 적 있어요 거기서 어떤 피자 드셨나요??
+P1 	: 꿀고구마 피자에 크러스트 추가해서 먹었슴당!
+P1 	: 좋아하는 피자 있으세요?
+P0 	: 저는 불고기랑 쉬림프요
+P0 	: &name2&님은요??
+P1 	: 고기는 사랑이죵~~
+P1 	: 저는 요즘 고구마에 푹빠져서 저것만 먹고 있어요ㅋㅋㅋ
+P0 	: 고구마도 맛있죠ㅠㅠ 꿀고구마는 그냥 고구마피자보다 확실히 더 단가요??
+P1 	: 네 진짜 꿀발랐어요
+P1 	: 이름 완전 잘지었어요!!
+P0 	: 우와 진짜 꿀을 발랐다니 맛있을 것 같네요

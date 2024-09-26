@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031363
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금요
+P0 	: 아니요
+P1 	: 아 가고 싶다고요
+P0 	: 내 코시고 끝나고요
+P1 	: 어디 가고 싶으세요
+P0 	: 받아요
+P0 	: 바다
+P1 	: 바다 좋지요
+P0 	: 물 색깔이 다르더라구요
+P1 	: 그건 그렇죠
+P0 	: 그래서 제일 첫 번째로 가고 싶어요
+P1 	: 맛있는 거 많이 먹고 오세요
+P0 	: 그러고 싶어요

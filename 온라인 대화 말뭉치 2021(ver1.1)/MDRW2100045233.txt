@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100045233
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨 춥죠ㅠ 저희 낙곱새 두부조림 얘기했어요
+P1 	: 키워드 알려주셔서 감사합니다!
+	  
+	  네 요즘 새벽이 제법 춥더라구요
+P1 	: 곧 겨울 오려나
+P0 	: 아닙니닿ㅎ 그쵸 요즘 옷차림은 어떻게 하세요?
+P1 	: 저는 몸에 열이 많아서 아직 여름 옷차림이에요 &name1&님은요?
+P0 	: 저는 긴팔 긴바지 입어요ㅋㅋㅋ 오늘 너무 추웠어요
+P0 	: 지금은 아예 털 후드 입고 있어요
+P0 	: 잘때 추운게 싫어요ㅠ
+P1 	: 그 정도 추웠나요? 비가 와서 그런가...
+P0 	: 네 저희 동네는 비도 많이오고 바람이 많이 불어서 추웠어요ㅠ
+P0 	: 나무 가지들이 막 흔들리더라구요
+P1 	: 요즘 날씨가 변덕이 심해요
+P0 	: 맞아요 날이 오락가락해서 감기 조심하셔야돼요
+P1 	: 이럴때 감기 걸리기 쉽겠더라구요
+P1 	: 이불은 덮어요
+P0 	: 맞아요 이불 잘 덮고 자는거 생각보다 중요하더라구요
+P0 	: 요즘은 봄가을 없어지고
+P0 	: 여름 겨울만 있는 느낌이에요
+P1 	: 봄 가을은 그저 스쳐 지나가는것같아요
+P0 	: 맞아요 진짜요 예전에 뚜렸했는데 이제는 진짜 순식간에 지나가서 아쉬워요

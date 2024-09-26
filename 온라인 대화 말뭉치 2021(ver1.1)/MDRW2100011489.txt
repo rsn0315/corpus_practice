@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 음식 뭐좋아하세요?
+P1 	: 고기류면 대부분 좋아해요
+P1 	: 점심에 찜닭을 먹었어요
+P1 	: 뭐드셨어요?
+P0 	: 전 짜파게티먹었답니다ㅋㅋ
+P0 	: 고기좋죠
+P0 	: 삼겹 vs 목살?
+P1 	: 전 기름이 좀 더 적은 목살이 좋아요
+P0 	: 저랑반대시네요
+P0 	: 저는 삼겹파입니다
+P1 	: 삽겹살은 볶음밥 같은 거 해먹을때 넣으면 맛있어요ㅎㅎ
+P0 	: ㅋㅋㅋ 이런 삼겹살이고작
+P0 	: 그런취급이라니
+P1 	: ㅋㅋㅋ삼겹살 많이 좋아하시나봐요ㅋㅋㅋ
+P1 	: 음식점이나 집에서 많이 드시나요?
+P0 	: ㅋㅋㅋ 저는 목살보다 삼겹파라서요
+P0 	: 항정잘도 좋아요
+P1 	: 부드러운 고기 좋아하시나봐요ㅋㅋ
+P1 	: 삼겹살로 유명한 맛집 아세요?ㅋㅋ
+P0 	: 음 맛집까진모르겠네요ㅋㅋㅋ다른부위는 아는데 삼겹살은

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100015949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 태권도 알바 할때 어땠어?
+P0 	: 엄청 힘들었어
+P1 	: 너가 했던 알바중에 제일 힘들었어?
+P0 	: 응
+P0 	: 애들 보는게 엄청 힘들어
+P1 	: 그정도야?
+P0 	: 응 처음 2개월은 재미있었는데 애들이 영악하더라고
+P1 	: 애들이 몇살인데?
+P0 	: 5살부터 10살정도까지 내가 봐
+P1 	: 그 애들이 영악하다고?
+P0 	: 요즘 어린애들 엄청 영악하고 말도 안들어
+P1 	: 같이 일하는 사람들은 어때?
+P0 	: 정말 별로였어
+P1 	: 그건 왜?
+P0 	: 학부모님들이나 애들 뒷담을 엄청 많이 해
+P1 	: 모범은 못될망정 뒷담을 해?
+P0 	: 그러면서 앞에서는 애들 칭찬하는게 어이없어
+P1 	: 인간이 덜 됐네
+P0 	: 맞아 그런것같아
+P1 	: 그거말고는 괜찮아?
+P0 	: 관장님이 너무 기분파야
+P1 	: 왜?
+P0 	: 자기 기분 좋을 때는 잘해주는데
+P0 	: 나쁘면 얄짤도 없어
+P1 	: 사회생활 미리 해본거지
+P1 	: 그런사람들 많아
+P0 	: 그런것같아서 너무 별로야

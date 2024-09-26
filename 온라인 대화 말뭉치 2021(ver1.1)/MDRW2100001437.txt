@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕
+P1 	: &name1&님 안녕하세요 :)
+P1 	: 점심식사는 하셨나요?! ㅎㅎ
+P0 	: 응 나 키토김밥 먹었어 넌?
+P1 	: 저는 곧 식사하려고요! ㅎㅎ
+P1 	: 키토김밥 요즘 많이들 먹던데 어떤가요?!
+P0 	: 밥 대신 계란이라 건강한 느낌이에요. 
+P0 	: 저탄고지? 알아요?
+P1 	: 왠지 계란이 들어가서 포만감도 있고 맛있을 것 같아요..!
+P1 	: 네 저탄고지! 다이어트의 생명인..! ㅎㅎ
+P0 	: &name2&님도 다이어트 중이신가요?
+P1 	: 다이어트 해야지 생각만 하면서도 잘 못 지키는 것 같아요.. ㅜㅜ
+P1 	: &name1&님은 다이어트 어떻게 하시나요?!
+P0 	: 저는 헬스 매일 하고 있어요! 퇴근하고요
+P1 	: 앗 일과 운동 병행이라니 넘 대단하신 것 같아요
+P1 	: 그럼 보통 주 몇 회 하시나요~?
+P0 	: 주 6일, 3분할로 하고 하루는 근합성을 위해 휴식해요 ^^
+P0 	: 하시는 운동 있으신가요?
+P1 	: 우와.. 엄청 체계적으로 하시네요..!
+P1 	: 저는 헬린이도 아닌 그냥 무운동자여서
+P1 	: &name1&님같이 체계적으로 하시는 분을 보면 너무 대단해 보여요..! ㅎㅎ
+P0 	: 좋아하는 운동부터 시작해보세요! ㅎㅎ
+P0 	: 저도 건강때문에 시작했지만, 이제는 재밌어서 하고있어요
+P1 	: 그렇군요! 저도 재미를 붙일 때까지 꾸준하게 해봐야겠어요 ㅎㅎ 조언 감사합니다

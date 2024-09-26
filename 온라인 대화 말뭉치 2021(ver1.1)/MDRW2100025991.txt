@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100025991
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 영화관에 가신적이 있나요?
+P1 	: 안녕하세요 아니요! 코로나 이후로는 한번도안가봣어요
+P1 	: 가보셨나요?
+P0 	: 저는 그래도 한달에 한번은 가는거 같아요!
+P1 	: 오 그렇군요 저는 블랙위도우할때 갈까말까 고민햇엇어요
+P0 	: 블랙위도우 최고였죠!ㅠㅠ
+P0 	: 다음주에 샹치도 보러가려구요
+P1 	: 아 샹치도 그 예고 잠깐본거같은데 마블영화인가요??
+P0 	: 네 맞아요 마블은 그래도 챙겨보게 되더라구요
+P1 	: 맞아요 저도 마블 좋아해요 ㅠㅠ
+P1 	: 스파이더맨 기대중이에요
+P0 	: 스파이더맨 저도 기대중이에요
+P0 	: 뉴유니버스도 재밌게 봤는데 멀티버스 설정이라고 해서 너무 기대되요
+P1 	: 오..한번 찾아봐야겠네요
+P1 	: 요즘 젤 핫한 영화가 뭔가요??
+P0 	: 요즘은 모가디슈인거 같은데 사실 전 안봤어요ㅎㅎ
+P1 	: 아아 그렇군요 ㅋㅋㅋㅋ
+P1 	: 영화관에 음료 취식은 가능한가요??
+P0 	: 커피나 물은 가능한것 같아요!
+P1 	: 오 그렇군요 팝콘은 못먹죠?
+P0 	: 네 안되는것 같더라구요ㅠㅠ
+P1 	: 영화보면서 팝콘 필수였는데 아쉽네여 ㅠㅠ

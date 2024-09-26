@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100011132
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 백화점 가면 주로 뭐해?
+P0 	: 나는 옷 구경 보다는 밥먹으로 자주 가는 것 같아 ㅋㅋㅋㅋㅋ
+P0 	: 친구는 가방 사러 간대~ 옷이랑
+P0 	: 백화점 자주 다녀?
+P1 	: ㅋㅋ 주로 어떤거 먹어?
+P1 	: 옷이랑 가방 사면 좋겠다
+P0 	: 푸드코트에 맛있는 간식있잖아 그런거 먹으러 가!
+P0 	: 백화점 식품관 가봣어?
+P1 	: 나는 저번에 센텀백화점 가서 인도 음식 먹었어
+P0 	: 우와 그거 맛있어???
+P1 	: 백화점 식품관 가봤는데
+P1 	: 음식은 많이 안먹어봤어
+P1 	: 너는 뭐 먹어봤어?
+P0 	: 나는 센텀가서는
+P0 	: 아웃백 밖에 안가봐서 지금 좀 기대 돼!
+P1 	: 우왕~~
+P0 	: 나중에 같이 가~~
+P1 	: 맛난거 먹고와!
+P0 	: 그냥 놀러가자 백화점 놀러가도 좋잖아 ㅎㅎ
+P1 	: 나도 데려가줘! ㅋㅋ
+P1 	: 응응

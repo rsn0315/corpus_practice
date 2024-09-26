@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015515
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요  학창시절에 기억에남는것있나요?
+P1 	: 초등학교때 현장학습 같은거 갔던게 기억나네요
+P0 	: 어디로 가셨는지 기억나시나요?
+P1 	: 파주에서 두부 만들기 체험했던게 기억나요
+P0 	: 우와 저도 그런 체험학습 좋아해요
+P0 	: 저는 초등학생때 도자기 만들었던게 기억나요
+P1 	: 아 저도 그런경험있었어요
+P1 	: 진짜 재밌었는데
+P1 	: 도자기를 만드셨나요 아니면 도자기에 그리는체험이였나요?
+P0 	: 도자기를 만드는거였는데 물레를 쓰진않았어요
+P1 	: 모양을 자유자재로 쓸수있으니 재밌었을것같아요
+P0 	: 그치만 결과물이 좋진 않았던 것같아요 ㅋㅋ
+P1 	: 과정이 재밌었으니까 그걸로도 기억이 될것같아요
+P0 	: 멋있는 말이에요
+P0 	: 저는 중학생때 점심시간에 배드민턴 치는게 재밌었어요
+P1 	: 저도 중학교때 배드민턴 치는것 좋아했어요
+P0 	: 오 저랑 같네요
+P0 	: 저는 처음엔 엄청 못했어요
+P1 	: 축구나 배구보다 진입장벽이 낮아서 도전하기 좋은거같아요
+P1 	: 저도 운동신경이 안좋아서
+P0 	: ㅎㅎㅎ맞아요 배구 이런건 어렵죠

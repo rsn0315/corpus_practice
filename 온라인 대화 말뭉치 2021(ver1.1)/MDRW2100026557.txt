@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100026557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오 쇼핑이라 저 지금 가방 보고 있어요
+P0 	: 오 어떤 브랜드요
+P1 	: 잘 몰라서 그냥 적당히 검색만 해보고 있는데 어렵네요ㅋㅋㅋ
+P1 	: 미니백 생각중인데 사이즈가 죄다 괜찮나 싶어서ㅋㅋ
+P1 	: 오 방금 검색해봤는데 귀엽네요
+P0 	: 맞아요 큰 가방 있어도 결국은 미니백 아님 에코백
+P1 	: 와 맞아요 저 요새 에코백만 들고다님
+P0 	: 코시국이라
+P0 	: 캐쥬얼이 대세예요
+P1 	: 전 노트북 들고 나가서 카페서 노는 거 좋아하는데
+P1 	: 큰 가방.. 가죽 이런 거 쓰면 너무 무거워서ㅋㅋㅋ
+P0 	: 저는 노트북 일키로도 안되는데
+P1 	: 요샌 딱 맞는 에코백이 최고라고 생각합니다
+P0 	: 드는 걸 싫어해서
+P0 	: 걍 핸펀만해요
+P1 	: 근데 미니백 사이즈면
+P0 	: 에코백도 안되는게 텀블러처럼 또 여러개 가지고 있게돼요
+P1 	: 어느정도 물건이 들어가나요?
+P1 	: 폰 지갑 보조배터리는 다 들어가려나
+P0 	: 지갑 없구 폰 핸펀충전기 끝 ㅋㅋ
+P0 	: 회사가지고 가실 가방 찾으세요?
+P1 	: 아뇨 그냥 가볍게 다닐 느낌??
+P1 	: 큰가방은 충분히 많아서ㅠㅜ 어렵네요
+P0 	: 가격대는요?

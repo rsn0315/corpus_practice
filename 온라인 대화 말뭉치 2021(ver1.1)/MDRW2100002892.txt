@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002892
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행이라
+P0 	: 여행 가고 싶어요
+P1 	: 어디 가고 싶으신데요
+P0 	: 해외여행이요 ㅋㅋ
+P1 	: 어디 나라?
+P0 	: 어디든 좋지만
+P1 	: 음
+P0 	: 유럽이 제일 가고 싶네요
+P1 	: 유럽 중에 좋아하는 나라가 있으신가요
+	  \
+P0 	: 스위스요
+P1 	: 알프스 ㅋ
+P0 	: 알프스 산 좋죠
+P1 	: 저도 가고 싶네요
+P0 	: 코로나 빨리 종식됐으면

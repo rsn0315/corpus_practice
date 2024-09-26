@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100040540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 고기 사 왔지
+P0 	: 고기 집에 아직 많지않나
+P1 	: 아니다 다 떨어졌다
+P0 	: 그렇구만! 고기는 쟁여놔야지 ㅎ
+P1 	: 단백질 섭취가 중요하다
+P0 	: 웅웅 ㅋㅋㅋ 시장에 고기 싸?
+P1 	: 그래 싼 데는 싸다
+P0 	: 좋구만
+P1 	: 삼겹살도 사 왔다
+P0 	: 오오 맛나겠다~
+P1 	: 내일 구워 먹어
+P0 	: 구래 !
+P1 	: 채소도 좀 사 왔다
+P0 	: 무거웠겠다 ㅎ
+P0 	: 맘이 허해서 쇼핑을 좀 하고싶다

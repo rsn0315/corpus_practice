@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100038732
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교다니시나여?
+P1 	: 네
+P1 	: &name1&님은요?
+P0 	: 저는 직장 다녀요 ㅎ
+P1 	: 저는 학교 다녀요
+P1 	: 학생 때 수강신청 잘 하셨나요?
+P0 	: 저는 수강신청 어렵지 않게 했었어요 ㅎ 대부분 전공에 맞는거 들어가지공
+P0 	: 친구들은 거의 티켓팅 수준으로 하던데
+P1 	: 오 특수전공이셨나봐요
+P0 	: 맞아요!  특수전공이었어요
+P1 	: 그럼 동아리에 가입하셨던 적도 있으신가요?
+P0 	: 아뇨ㅠ ㅠ그냥 학교 집 학교 집 만 다녔어요
+P0 	: 집순이라ㅠ
+P0 	: 중 고딩땐 가입했었는데
+P0 	: 대학땐 땡기는게 없더라고요
+P1 	: 그럼 학업만족도는 높으셨나요?
+P0 	: 음....그냥 열심히 했어요ㅠ
+P0 	: 좋았던건 아니고ㅠ
+P0 	: 취업하려고요
+P1 	: 그러면 지금 전공과 관련된 일을 하고 계시나요?
+P0 	: 네네 ㅎ
+P0 	: 전공 관련이에요 ㅎ때려치고싶지만요
+P1 	: 뭐든지 일하는 건 어렵죠ㅠㅠ 학교 생활할 때도 그렀겠지만
+P0 	: 학교 다닐땐 그때의 문제땜에 힘들었어요
+P0 	: 그냥 다 그때마다 힘든게 있는듯요
+P1 	: 공감합니다

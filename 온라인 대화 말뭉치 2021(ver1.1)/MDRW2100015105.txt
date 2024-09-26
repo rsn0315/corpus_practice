@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100015105
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 크로플이라고 아시나요? 디저트류에요
+P1 	: 똑똑 계신가요
+P0 	: 네
+P0 	: 한번밖에안먹었지만잊을수없지요
+P1 	: 저도 참 맛있더라고요 크로플이
+P0 	: 아이스크림올려진것도맛잇어요
+P1 	: 와플 비슷한건데 뭐가 다른거인지는 모르겠어요
+P0 	: 와플보다크로플
+P0 	: 크로플은쫜득해요
+P1 	: 아 그런것같네요
+P0 	: 계피향이좋아요
+P0 	: 크으
+P1 	: 전 생크림올라간거먹었는데 진짜 맛있더라고요
+P0 	: 어디꺼드셨어요
+P1 	: 동성로에 이름은 잘 기억안나는데 민트로 도배된 카페였어요
+P0 	: 저는 메가커피요
+P0 	: 저렴하고맛잇어요
+P1 	: 거기는 크로플하나에 얼마인가요,
+P0 	: 3500원이요아이스크림크로플
+P1 	: 이야 정말 저렴하네요
+P0 	: 그냥은3000원이요
+P1 	: 전 7000원주고 사먹었는데
+P0 	: 메가커피가저려미요
+P1 	: 거기서 크로플두개사먹어야겠어요
+P0 	: 맞아요
+P0 	: 근데다른데는비쌀거예요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013967
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 잡지 사본적 있나요?
+P1 	: 네
+P0 	: 저도 있네요
+P1 	: 그런데 잘 안보게되네요
+P0 	: 잡지부록이 목적이었어서 저도 그래요
+P1 	: 그래도 중간에 요리 레시피가 있어서 그거하나는 쏠쏠하네요
+P0 	: 패션은요?
+P1 	: 패션은 저한테 그렇게 유익하지않더라고요
+P1 	: 연령이 다르기도했고요
+P0 	: 잡지도 연령대에 따라 다르군요
+P0 	: 잡지엔 좋은 내용들이 많군요
+P1 	: 권 당 5가지정도 먹음직스러운 레시피들이 올라가있어서
+	  한번쯤 따라해보고싶었어요.
+P0 	: 와 놀랍네요!
+P1 	: &name1&은 무슨잡지가 좋으세요?
+P0 	: 저는 부록이 빵빵한 잡지가 최고죠

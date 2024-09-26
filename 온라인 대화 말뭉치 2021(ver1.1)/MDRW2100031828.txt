@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100031828
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 경기 직관해보셨어요?
+P1 	: 야구좋아해서 야구장다녔죠! ㅋㅋ
+P0 	: 어디 팀 응원하세요?
+P1 	: ssg요 ㅋㅋㅋ
+P0 	: 저는 기아요.ㅎ
+P0 	: ssg라고 부르더라고요.
+	  쓱이라고 안부르고..ㅎ
+P1 	: ㅋㅋㅋ 챔피언스필드 자주가시나요 ㅋㅋ
+P0 	: 제가 광주랑 좀 멀기도 하고
+	  남편은 두산광팬이라
+	  두산경기를  더 많이 보러 다녔어요.
+P1 	: 아 잠실이 더 가까우신가봐요!
+P0 	: 네.  잠실, 광주, 수원, 목동 구장 가봤어요.ㅎ
+P1 	: 전 문학이랑 사직이요 ㅋㅋㅋㅋㅋ
+P1 	: 아 대구도요 ㅋㅋㅋ
+P1 	: 울산야구장도.. ㅋㅋㅋ
+P0 	: 울산도 야구장이 있나보네요.ㅎ
+	  저도 사직 구장과 창원구장 가보고 싶은데요.
+	  기회를 만들어야겠어요.
+	  티켓은 어디서 예매하세요?
+P1 	: 최근몇년은 한동안못갔는데 ㅋㅋㅋ 잘모르겠네요 ㅋㅋㅋ
+P1 	: 울산사는데 가끔 롯데경기가 있지요 ㅋㅋㅋ
+P0 	: 아.. 저는 롯데는 부산구장만 쓰는 지 알았네요.
+	  올림픽 야구도 재밌게 보셨나요?
+P1 	: 좀 답답하게 봤어요 ㅋㅋㅋㅋㅋ
+P0 	: 저도.. 그렇더라구요.
+	  잘 좀 하지는..;;

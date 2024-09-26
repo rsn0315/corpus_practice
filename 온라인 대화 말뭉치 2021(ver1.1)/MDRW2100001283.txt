@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100001283
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210517
+topic : 기타 사회 생활 및 활동
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name1&님
+P0 	: 어서 오세요
+P1 	: 생각보다 쉽지도 어렵지도 않은듯
+P0 	: 네
+P1 	: 비가 좀전에 그쳤네요
+P1 	: 날씨가 너무 좋아져서 기분까지 좋아지려하네요
+P0 	: 네 거리가 깨끗해졌어요
+P0 	: 뭐하세요?
+P0 	: 전 커피 마시고 있어요
+P1 	: 근무 끝나고 와서 눈 붙여야 되는데
+P1 	: 눈이 시린데도 아직 안자고 있는거에요
+P0 	: 따뜻한 차 한잔 하세요
+P1 	: 이것저것 보다보니 정상적으로 밤에 잠들거같아요
+P1 	: 감사합니다.
+P0 	: 맛있는 저녁 식사 하시고 주무세요~~
+P1 	: 네
+	  있다 보고 싶을때 부를께요
+P0 	: 네~~
+P0 	: &name1&님 gs 25 멤버쉽 카드 사용하세요
+P0 	: 저 GS25 이용 안해요
+P0 	: {share:photo}
+P1 	: 감사합니다
+	  어제는 너무 피곤했나봐요
+P0 	: 네
+P0 	: 활기찬 하루 되세요~~
+P1 	: 오늘도 즐거운 하루되세요!
+P1 	: 요새 날씨도 안좋고 피곤해서 뜸했네요
+P1 	: 항상 바쁘게 보내시죠?

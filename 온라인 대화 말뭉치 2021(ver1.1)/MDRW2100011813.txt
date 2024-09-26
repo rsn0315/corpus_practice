@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011813
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요리좋아하시나요
+P1 	: 먹는 것만 좋아해요ㅎㅎ
+P0 	: 오 어떤 음식 좋아하세요?
+P1 	: 요즘은 마라탕이요
+P0 	: 마라탕 맛있죠ㅎㅎ
+P1 	: 어떤 재료를 좋아하세요?
+P0 	: 다잘먹어서 제철 식재료를 좋아합니다
+P1 	: 건강한 식습관을 가지셨나봐요 대단하세요!
+P0 	: 건강 챙기려고 노력해요! 오래살고 싶어서 ㅎㅎ
+P0 	: 배달음식 시켜드시나요?
+P1 	: 요즘은 자주 시켜먹어요
+P0 	: 주로 어떤메뉴 드세요?
+P1 	: 치킨이나 떡볶이 많이 시켜요

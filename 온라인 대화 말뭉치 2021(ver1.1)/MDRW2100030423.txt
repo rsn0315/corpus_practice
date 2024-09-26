@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030423
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 뭔소리여
+P1 	: 산에 왜가
+P1 	: 코로나로 난리인데!!
+P0 	: 마스크끼고 다니잖아
+P1 	: 아빠는 2차까지 다 맞았다고 자랑하는거야?!
+P0 	: 그런것도 있지 자기는 다 맞았으니까 괜찮다이거지
+P1 	: 아냐 난 산에 가고싶지않아
+P1 	: 아빠는 새벽4시부터 준비한다고
+P0 	: 그럼 12시에 가자고할게
+P1 	: 아니야 싫어 너무 힘들어
+P0 	: 산에 갔다가 뭐 사올까
+P1 	: 맘스터치 햄버거가 먹고싶어
+P1 	: 딥치즈버거로
+P0 	: 세트로 사와??
+P1 	: 아니 감자튀김 안먹으니카 단품으로!
+P0 	: 알겠어
+P0 	: 콜라는??
+P1 	: 콜라는 집에 제로콜라있으니까 괜찮아

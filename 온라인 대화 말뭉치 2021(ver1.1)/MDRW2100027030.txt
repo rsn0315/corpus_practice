@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027030
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 책 많이 읽으시나요?
+P0 	: 아니요... 안읽은 지 1년이 넘었어요
+P0 	: 읽은거라곤 문제집...
+P1 	: ㅋㅋㅋ 교과서도 읽으시지 않으셨나요?
+P0 	: 고3동안은 교과서 거의 안본거 같아요
+P1 	: 왜 수능 만점자들 인터뷰 보면 교과서 위주로 공부했다고 하잖아요. 교과서는 이미 다 머리에 들어가 계셔서 안 읽으시는거죠? ㅋ
+P0 	: 아니요ㅋㅋ 제가 정시 준비 안하고 다른거 해서 그래요
+P1 	: 고3이시군요. 저도 고3땐 책 읽을 여유가 없었던것 같아요.
+P0 	: 지금은 대학생이고 작년에 고3이었어요
+P0 	: 그때부터 책을 안읽었죠...ㅎ
+P1 	: 대학생이시면 전공서적을 읽으시지 않았나요?
+P0 	: 저는 디자인과라 서적은 없어요
+P1 	: 그렇군요.  저도 일때문에 최근에 분노의 돌파구라는 책만 읽었네요
+P0 	: 일때문에 책을 읽으셨다니
+P0 	: 어떤 일 하시길래ㄷㄷ
+P1 	: 발표할일이 있어서 관련 책 읽었답니다^^ 노벨상 수상자가 쓴 책이예요
+P0 	: 와 엄청난 책이었군요
+P1 	: 근데 별거 없어요. 내가 이런 마음으로 이렇게 연구했다 이런 내용예요 과학적 지식 없어도 읽을 수 있답니다

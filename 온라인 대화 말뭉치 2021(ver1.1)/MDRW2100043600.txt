@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사하셨나요
+P1 	: 네 만둣국 먹었어요 드셨나요?
+P0 	: 저는 삼겹살 에프에돌리고있어요
+P1 	: 대박..
+P1 	: 맛있겠네요 ㅠㅠ
+P0 	: ㅎㅎ백신푸드입니당
+P1 	: 백신푸드 ㅋㅋㅋㅋ 먹고 기운내셔야겠어요 ㅋㅋ
+P0 	: 네네 오늘 백신2차맞고 고기먹을거가고 벼르고있었어요
+P0 	: &name2&님은 백신푸드뭘로하시나요
+P1 	: 아 전 아직이라 고민되는데 엄마가 삼겹살 얘기하긴 하더라고요 ㅋㅋㅋㅋ
+P1 	: 먹어야된다고 ㅋㅋ
+P0 	: 네네 ㅋㅋㅋㅋㅋ몸에 기력넣어줘여해요
+P1 	: ㅋㅋㅋㅋㅋ 에프 돌리면 기름 쫙 빠지나요? 안 먹어봐서 ㅠ
+P0 	: 막 다빠지지는않구여 구울때보단 확실히 빠지긴해요 돌돌말아서 돌리면
+P0 	: 기름이 많이안빠져나가서 겉은바삭하고 안은촉촉해요 ㅎㅎ
+P1 	: 아 정말요 완전 완벽해지는거네요 ㅋㅋㅋㅋ
+P1 	: 그럼 그대로 먹는게 더 낫나요 쌈보다?
+P0 	: 그건또 아녀요 ㅋㅋㅋㅋㅋ그대로먹는게 더맛있긴해요 아무래도 기름좔좔하다보니
+P0 	: 제가 기름진거좋아하거든야
+P1 	: 아하 ㅋㅋㅋ 아무튼 기름진 음식으로 충전하시겠네요 ㅎㅎ
+P0 	: 네네 기름칠좀해주고 몸보신해여져

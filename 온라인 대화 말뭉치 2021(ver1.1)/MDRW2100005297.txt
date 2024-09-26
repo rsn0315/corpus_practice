@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100005297
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 청소랑 설거지 정도 해요
+P1 	: &name1&님은요?
+P0 	: 저도 설거지 청소요
+P1 	: 집안일 역할을 어떻게 나누셨어요?
+P0 	: 설거지 청소 전담입니다
+P1 	: 청소는 일주일에 몇 번 정도 하시나요?
+P0 	: 화장실 일주일에1번씩
+P1 	: 저도 화장실은 일주일에 1번씩 청소하는 거 같아요
+P1 	: 청소기는 무선 쓰세요 유선 쓰세요?
+P0 	: 무선이 편하죠
+P1 	: 가족은 몇명 구성이세요?
+P0 	: 4명이요
+P1 	: 저도 4명인데 지금은 학교 때문에 조부모님네 있어요
+P1 	: &name1& 님은 자녀분들 계신 건가요?
+P0 	: 네 초딩이ㅛ

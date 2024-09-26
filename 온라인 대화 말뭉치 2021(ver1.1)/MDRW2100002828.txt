@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002828
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 되징 ㅎㅎ 안주 뭐 먹게
+P0 	: 몰라~ 생각 중이야 ㅎㅎ
+P1 	: ㅎㅎ 신랑 먹고 싶은 걸로 해
+P0 	: 안돼 색시도 같이 먹을 수 있는 걸로 해야지 ㅎㅎ
+P1 	: 참치 같은 거 시켜도 돼
+P0 	: 노노 색시 하나도 못먹으면서 ㅎㅎ
+P1 	: 족발은 어때?
+P0 	: 촵촵 족발도 좋지 ㅎㅎ
+P0 	: 난 다 좋아
+P1 	: 난 신랑이 먹고 싶은 걸로 ㅎㅎ
+P0 	: 난 색시가 먹고 싶은 걸로 ㅋㅋ
+P1 	: 그럼 족발 ㅋㅋ 주먹밥도 추가
+P0 	: 오키
+P1 	: 5시 반 넘어서 주문할께요
+P0 	: ㅇㅇ

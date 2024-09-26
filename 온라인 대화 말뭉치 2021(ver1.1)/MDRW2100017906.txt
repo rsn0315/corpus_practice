@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017906
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P1 	: 커피 좋아하세요?
+P0 	: 아뇨.. 제가 그 주변에 몇없다는 커피안마시는지인입니다
+P1 	: 오 그러시구나 그럼 친구들 만나면 카페 안가시나요?
+P0 	: 아 카페가도 커피안마시구 딴거먹어요~
+P1 	: 커피 안드시는 이유가 있나요?
+P0 	: 음 그냥 맛이없어요 ㅋㅋ 아직 저에겐 쓰기만할뿐입니다만
+P1 	: 하긴 개인 취향이니까!!
+P0 	: 맞아요 ㅋㅋ 커피 좋아하시나봐요?
+P1 	: 하루에 한 잔 정도 마시는 것 같아요
+P1 	: 안마셔도 특별히 지장없고요
+P1 	: 그런데 와이프가 카페를 좋아해서
+P1 	: 따라다니면서 자주 마셨어요
+P1 	: 음 술은 어때요? 즐겨 마시나요?
+P0 	: 아하! 그러시구나~
+P0 	: 아뇨 ㅋㅋ 술도 안마셔요 ㅋㅋ
+P0 	: 되게 건강한라이프죠?ㅋㅋ
+P1 	: 좋은거죠
+P1 	: 건강하게 사는게
+P1 	: 요리는 좋아하세요
+P0 	: 네~ 요리잘하진않지만 좋아해요!
+P1 	: 가장 최근에 한 요리는?
+P0 	: 파스타요~ 바질페스토파스타해먹었어요!

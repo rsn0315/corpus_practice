@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008536
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 요즘 하는 일 있으신가요?
+P1 	: 요즘 알바하고 있어요!
+P0 	: 오 무슨 아르바이트 하세요?
+P1 	: 음식점에서 주문 받고 서빙하고 있어요!
+P0 	: 오 요새 코로나 때문에 음식점 아르바이트 구하기 쉽지 않다던데
+P0 	: 손님 많이 오나요?
+P1 	: 맞아요ㅜ 저는 부모님 가게라 하고 있는 것 같아요
+P1 	: 매장은 거의 없고 배달이 많아요
+P0 	: 아 부모님 가게에서 하시는군요
+P0 	: 맞아요 저도 어제 마라탕 가게에서 마라탕 사먹는데 손님은 없고 배달의 민족 주문 알림만 계속 오더라구요
+P1 	: 그쵸ㅜ 다들 집에서 배달 주문하는 편 같아요
+P1 	: 마라탕 맛있었겠네요...
+P0 	: 맞아요 엄청나게 맛있었지요... 저 9월부턴 바빠질 예정이라서 지금 열심히 즐겨 둬야 해요
+P1 	: 9월부터 따로 하시는 일이 있나요??
+P0 	: 저 직업이 교사라서요
+P0 	: 지금도 이것저것 바쁘긴 하지만... 곧 개학하거든요
+P1 	: 아...!
+P1 	: 혹시 학생이신 건가 했는데 그 반대였네요 ㅎ
+P0 	: &name2&님은 지금 알바하시는 거면 대학생이신가요?
+P1 	: 네 맞아요

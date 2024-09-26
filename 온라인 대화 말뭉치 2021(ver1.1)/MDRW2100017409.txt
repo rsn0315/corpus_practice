@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017409
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요?
+P1 	: 가정주부에요
+P0 	: 일안해보셨나요?
+P1 	: 네.. 저는 쭉 주부였죠.. 님은요?
+P0 	: 계속 일이요
+P1 	: 그렇구나.. 요새 코로나라 계속 일하는게 쉽지 않을텐데.. 고생이 많네요..
+P0 	: 네 힘들어요
+P1 	: 살림도 힘들지만 일단 밖은 나가지 않아도 돼서 코로나 걱정은 덜 되는데 외부에서 일하는 분들은 걱정이 많겠어요.. 사람 마니 만나는 직업인가요?
+P0 	: 사람이 힘들죠
+P1 	: 사람 대하는 게 힘들다고 하더라구요.. 스트레스가 많겠어요.. 일에서 받는 스트레스는 어떻게 푸나요?
+P0 	: 자요
+P0 	: 숙면하면 좋아져요
+P1 	: 가장 좋은 방법이네요.. 근데 스트레스 받으면 오히려 숙면에 방해받지 않나요? 잘 주무시나 봐요~
+P0 	: 걍자여 무념무상
+P1 	: 잘자는 것도 복이에요.. 저는 집에만 있어서 그런가 숙면이 힘들더라구요.. 바깥활동을 해야하는데
+P0 	: 전 누우면 자요

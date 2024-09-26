@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁 뭐 드셨나요?
+P1 	: 네ㅎ 오늘 치킨이네요 루꼴라님은요?
+P0 	: 엇 저도 치킨 먹었는데!
+P1 	: 불토 치킨이네요ㅎ
+P0 	: 닭똥집 튀김이랑 같이 먹었어요
+P1 	: 앗 저는 그냥  치킨만요
+P0 	: 무슨 치킨 드셨어요?
+P1 	: 교촌이요 오랜만에먹으니 맛있네요
+P0 	: 젤 맛있는거 드셨네요 ㅋㅋㅋㅋ
+P1 	: 어디꺼 주로드세요?
+P0 	: 식구가 다 대식가라 두마리치킨 쪽을 주로 먹어요 ㅋㅋ
+P1 	: 아ㅎ 두마리 좋죠ㅎㅎ 사실교촌은 간식이죠 양이 너무작아요
+P0 	: 그쵸그쵸 거긴 맛 없었으면 애저녁에 망했을거에요
+P1 	: 편하게 치킨이 좋네요
+P0 	: 후라이드파세요?

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003842
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 일 하시나요?
+P1 	: 현재 코로나로 일을 쉬고있어요.
+P1 	: &name1&님은 하고있는 일이 있으신가요?
+P0 	: 저는 이직 준비 하고 있어요 소소하게 아르바이트도 해요
+P0 	: 코로나로 일 구하기 쉽지 않아요
+P1 	: 어떤 아르바이트를 하고계신지 여쭤봐도 될까요?
+P0 	: 요즘은 잘 안하는데 작년 말에 데이터 라벨링 했어요
+P1 	: 데이터 라벨링이요?
+P0 	: 요즘은 일거리 찾기 쉽지 않아요 ㅠㅠ 경쟁자도 많고요
+P1 	: 처음들어봐서 생소한데 어떤 일을 하는건가요?
+P0 	: 내가 가지고 있는 대화들을 적절하게 분리 작업해서 보내는 거예쇼
+P1 	: 아하 처음들어봐서 궁금했는데 알려주셔서 고맙습니다. 신기하네요
+P1 	: 해당 작업 할 때 어려운 점은 없었나요?
+P0 	: 일정한 규칙과 진행 방식이 있어서 눈이 피로했어요
+P1 	: 아 계속 모니터를 주시해야 하니까
+P0 	: 코로나 이전에 하시던 일이 뭔가요?
+P1 	: 저 조리 관련된 일을 했어요
+P1 	: 전공이 그쪽이라

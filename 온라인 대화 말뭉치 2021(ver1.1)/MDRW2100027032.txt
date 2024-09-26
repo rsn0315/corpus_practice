@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100027032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 중고거래 해보셨나요
+P0 	: 아니요... &name2&은 해보셨나요?
+P1 	: 네 당근에서 구매해 봣어요
+P0 	: 어떤 물건이었나요
+P1 	: 커블체어의자를 구매했어요
+	  반값에 ......
+P0 	: 오 좋네요
+P0 	: 저는 정가 주고 사버려서ㅋㅋ
+P1 	: 계속 사용할지 잘몰라서 저렴한 당근에서 삿어요
+P0 	: 그거 편하고 좋아요
+P0 	: 효과 많이 봤어요
+P1 	: 전 큰 효과보단 넘 아퍼서 포기 했어요
+P0 	: 그거에 아프시면 병원 가보시는것두...
+P1 	: 아 그건 생각 못해봣네요
+P0 	: 그거 때문에 병원 가보신 분이 결과가 안좋았다고 하더라구요

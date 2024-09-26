@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100041406
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 저녁 드셨나요?
+P1 	: 넹넹
+P1 	: &name1&님도 저녁 맛있게 드셨나요?
+P0 	: 네 먹었습니다
+P0 	: 저녁 뭐 드셨나요?
+P1 	: 저는 숯불갈비 먹었어요~
+P0 	: 외식하신건가요?
+P1 	: 아뇨 집에서 먹었어요 ㅋㅋㅋㅋㅋ 포장해와서 ㅎㅎ
+P0 	: 프랜차이즈꺼 주문하신건가요??
+P1 	: 아뇨아뇨 동네에 있는 고깃집거요 ㅋㅋㅋㅋㅋ
+P0 	: 맛있으셨나요?
+P1 	: 넹넹 불향 나고 좋았어요~
+P1 	: &name1&님은 저녁 어떤거 드셨나요?
+P0 	: 저는 찜닭이요

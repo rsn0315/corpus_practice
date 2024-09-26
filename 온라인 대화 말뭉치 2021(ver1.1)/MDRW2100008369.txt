@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100008369
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 햄거버 너무 좋죠
+P1 	: &name1& 님도 좋아하새요?
+P0 	: 네 햄버거 자주먹어요
+P0 	: 어디브랜드 좋아하시나요
+P1 	: 저는 맥날 파예요
+P1 	: &name1&님은요?
+P0 	: 저두요
+P0 	: 맥날 가장 좋아해요
+P0 	: 어떤 메뉴 즐겨드시나요
+P0 	: 저는 상하이 좋아해요
+P1 	: 저는 빅맥이요!
+P1 	: 치즈 들어간게 너무 맛있어요
+P1 	: 사이트 메뉴는 뭐가 제일 좋으세요?
+P0 	: 사이드 감자튀김 치즈스틱 전부좋아요
+P0 	: &name2&님은요?
+P1 	: 저는 감자튀김 너무 좋아해요
+P0 	: 어떤종류의 감자튀김 좋아하세요
+P1 	: 전에는 대용량으로 사서 에어프라이기로 튀겨먹고 햤어요 ㅎㅎ
+P1 	: 맘터 감튀가 재일 맛있더라고요
+P0 	: 케이준감튀요?
+P0 	: 확실히 양념되어있는게 매력있더라구요
+P1 	: 맞아요!
+P1 	: 짠걸 되게 좋아해서
+P1 	: 마라탕은 드셔보셨나요?
+P0 	: 마라탕 안먹어봤어요ㅠㅠ
+P0 	: 마라탕은 어떤가요
+P1 	: 맵고 짜고 맛있어요!
+P1 	: 건강 나빠지는 맛이에요 ㅎㅎ
+P0 	: 자극적이라는 소리군요
+P0 	: 사실 그런게 맛있어요ㅋㅋ

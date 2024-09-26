@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006344
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콘서트 가보셨나요
+P1 	: 네~ 예전이지만 가봤죠. 성시경 첫 콘서트 때가 떠오르네요. 서태지 대장님 콘서트, 이승환 콘서트, 이문세 콘서트. ㅎ 어떤 콘서트 가보셨어요?
+P0 	: 와 많이 가셨네요 전 김동률 콘서트요
+P1 	: 아 저도 김동률 콘서트 가보고 싶었는데! 어떠셨어요?
+P0 	: 말해뭐합니까...ㅎㅎ
+P1 	: 뮤지컬이나 연극 좋아하세요?
+P0 	: 뮤지컬는 몇 번 봤는데 좋더라구요
+	  &name2&님은 최고의.공연은 뭐였나요?
+P1 	: 전 진짜 대학로 많이 갔었는데, 라이어, 빨래 다 재밌었고, 42번가, 오페라의 유령 다 멋졌어요~~
+P0 	: 진짜 많이.보셨네요
+P1 	: 사실 훨~~~씬 많은데, 제가 기억력이 안 좋아요. 공연보고 놀던 그 때가 정말 그립네요..
+P0 	: 그렇죠 요즘같아서는 .. 온라인 공연 보시나요?
+P1 	: 가끔 공문오길래 본적은 있는데 공연장가는 느낌이 안 들어서 중간에 끄게 되더라고요;;
+P0 	: 그렇죠..집중이 안될듯해요...

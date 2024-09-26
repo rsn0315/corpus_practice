@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035550
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저도 피자 진짜 좋아해요 ㅋㅋㅋㅋ
+P1 	: 근데 소세지빵은 뭔가...
+P1 	: 소세지+빵
+P1 	: 얘네가 안 섞이고 자기주관 강하게 남아있는 기분...
+P0 	: 오 ㅋㅋㅋ그러시군요 ㅋㅋㅋ 특별히 좋아하시는 피자가 잇으세요?
+P1 	: 저는 파파존스에 기본 슈퍼 파파스 피자 좋아해요!!! 저의 최애 피자!
+P0 	: 오.. 피자의 정석같네요 ㅋㅋㅋ 맛잇겟네요
+P1 	: 맞아요 저는 좀 괴상망측한 피자 별로 안 좋아해요 ㅋㅋㅋㅋ
+P1 	: 피자가 피자다워야 피자지!
+P0 	: ㅋㅋㅋ 아 뭔지 알것같아요 ㅋㅋ 저도 그래서 낚인경우가 굉장히많았것는데 ㅋㅋ
+	  점심은 맛잇게.드셧어요?
+P1 	: 넵 오늘 점심은 맛있는 볶음밥! &name1&님은요?
+P0 	: 네 저는 감자 삶은거 먹엇어요 ㅎㅎ
+P1 	: 앗 그걸로 끼니가 되나요.ㅠㅜ
+P0 	: 꽤 많이먹은것같은데
+	  배고파서 힘이없네요
+P1 	: 저녁은 아직 안 드셨나 봐요
+P0 	: 돈까스 먹엇어요ㅎㅎ
+P1 	: 오~

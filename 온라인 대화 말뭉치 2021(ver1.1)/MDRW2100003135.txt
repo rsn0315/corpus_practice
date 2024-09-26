@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003135
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이불 새로 사고 싶다
+P0 	: 덮는거?
+P1 	: 덮는거 까는거 둘 다 ㅎㅎ
+P0 	: 너무 오래되긴 했지
+P1 	: 패드도 침대보다 작아서 좀 넉넉한 걸로 사고 싶어
+P0 	: 사요 베게커버도 바꿔야겠던데
+P1 	: ㅇㅇ 요즘엔 세트로 파니깐
+P0 	: 어머님이 만들어주신 걸로 오래 버텼네 ㅎㅎ
+P1 	: 그러게~ 10년 넘게 썼으니 이제 좀 예쁜 디자인으로 바꾸고 싶네
+P0 	: 맘에 드는 걸로 바꿔 ㅎㅎ
+P1 	: 그래도 될까?
+P0 	: 고럼 되고 말고 ㅋㅋ
+P1 	: 요즘 은근히 나가는 돈이 많아서리 ㅎㅎ
+P0 	: 어차피 사야 되는 건데 뭘~ 매일 사용하기도 하고

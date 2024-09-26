@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100007337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 화내시던가요?
+P0 	: 음
+P0 	: 학점으로
+P0 	: 화내긴하셨는데
+P0 	: 그건 제알빠 아니니까요
+P1 	: 그쵸 어차피 못 받을 학점이라고 생각하면
+P0 	: 그쵸
+P1 	: 정신승리가 가능해지죠
+P0 	: 안내쫓았다고
+P0 	: 씨쁠이 아닐리가
+P0 	: 왜냐면 그 수업 전에 공강이 한시간 잇어서
+P0 	: 햄버거 사먹으러 가느라고
+P0 	: 수업을 잘 안갓거든요
+P1 	: 아 햄버거! 듣고 나니 궁금한데
+P1 	: 본인이 강의하는 입장이라면
+P0 	: 네네
+P0 	: 아
+P0 	: 저런
+P1 	: 강의실 내 음식물 섭취 어디까지 가능하세요?
+P1 	: 허용? 눈감아줌?
+P0 	: 음
+P0 	: 물은 허용
+P0 	: 햄버거는 못참아요
+P1 	: 샌드위치는요?
+P0 	: 쉬는시간에만
+P0 	: 허용이요
+P0 	: 수업시간에
+P0 	: 음식섭취
+P0 	: 즐기세요?
+P1 	: 저... 네 저는 자주 먹었어요
+P1 	: 시리얼도 먹다가 혼난 적 있어요

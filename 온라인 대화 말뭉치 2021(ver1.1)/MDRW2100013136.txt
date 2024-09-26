@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013136
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 밖에 날씨 보셨나요? 비가 엄청 내리더라구요
+P0 	: 오 지방이신가요
+P1 	: 네네 지방인데
+P1 	: 서울은 안왔나요??
+P0 	: 네 거의안왔어요ㅠ
+P1 	: 헋스 제 친구가 부산에 사는데
+P1 	: 해운대 쪽에 물이 찰랑찰랑...
+P1 	: 발이 잠겼더라구요
+P0 	: 와 엄청왔네요..
+P1 	: 그러니까요ㅋㅋㅋㅠ
+P1 	: 근데 왠지 비 그치면 가을 날씨 확 올 것같지 않나요? ㅎㅎ
+P0 	: 마자요 이제 여름끝
+P1 	: 여름 끝나서 너무 좋아요ㅎㅎ
+P0 	: 여름 너무더웠어요..
+P1 	: 맞아요ㅠ 햇빛이 진짜 타버릴 것같이 뜨거웠어요
+P1 	: 좋아하는 계절이 어떻게 되세요?
+P0 	: 봄 가을이요~

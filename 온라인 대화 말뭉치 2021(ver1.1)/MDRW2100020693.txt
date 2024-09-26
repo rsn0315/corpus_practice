@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100020693
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 ~~
+P1 	: 콜라파세요 사이다파세요 ??
+P0 	: 저는 사이다요~
+P1 	: 오 저도에요
+P0 	: 오오 칠성 혹은 스프라이트 하나둘셋?
+P1 	: 하나둘셋 !
+P0 	: 전 칠성이욬ㅋㅋㅋ
+P1 	: 저도 칠성이에요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 칠성이 달달해서 맛있어요
+P0 	: 맞아요~ 스프라이트 밍밍!
+P1 	: ㅋㅋㅋㅋㅋㅋ맞아요 !!!
+P1 	: 바람이 선선한게 ~ 마라탕이 너무 먹고 싶어지네요 ㅎ.ㅡㄱ흑
+P0 	: 앜ㅋㅋㅋㅋ 마라탕은 어떤이유를가져오더라도 먹고싶긴하죠
+P0 	: 마라탕에 뭐넣어드시나요?
+P1 	: ㅋㅋㅋㅋ맞아요 ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 마라탕에.일단 고수를 넣고
+P1 	: 면 종류별로 다 담고
+P1 	: 청경채넣고 목이버섯넣고
+P1 	: 또 뭐있죠 기억이 안나네어ㅗ
+P1 	: 요
+P1 	: &name1&님도 마라탕 좋아하세요 ?
+P0 	: 와웅! 저도 마라탕 좋아하는데 즐겨먹진않아요~ㅎㅎ
+P0 	: 저도 언급하신것들 다 넣어먹어요! 거기다가 새우완자까지넣는답니다 ㅎㅎ
+P1 	: 새우완자 오 ! 맛이 조금 달라지나요 ??
+P0 	: 음 글쎄요 맛은 그냥 마라탕맛 똑같은데 그냥 새우좋아하시면 넣으시면 대만족하실듯요!

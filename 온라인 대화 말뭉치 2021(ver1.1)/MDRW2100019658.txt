@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019658
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 어떤 음식 좋아하세요?
+P0 	: 저는 로제찜닭이요!
+P0 	: 드셔보셨어요?
+P1 	: 로제좋아하시는구나!!
+P1 	: 아뇨 찜닭은 안 먹어봤고 로제 떡볶이는 먹어봤어요
+P0 	: 네 너무 맛나요 ㅜㅜ
+P0 	: 어디거드셨나요?
+P1 	: 배떡이랑 신전이랑 엽떡이요!
+P1 	: 한동안 꽂혀서 이틀에 한번꼴로 먹었어요ㅎㅎ
+P0 	: 와 저도 그랬었어요!
+P0 	: 전 배떡이랑 신전이 제일 베스튼거같아요
+P1 	: 맞아요!!! 배떡이랑 신전 진짜 맛있어요
+P1 	: 혹시 배떡 로제 드실 때 떡 누들밀떡으로 드셔보셨어요?
+P0 	: 하 당연하죠
+P0 	: 원래 그냥 밀떡파인데 누들이 맛있대서 그걸로 먹었더니... 넘 맛있더라구요
+P1 	: 역시!!이름이 &name1&이신이유가 있었네요!!
+P1 	: ㅋㅋㅋ
+P0 	: 이름값해야죠 ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ저도 동생이 누들밀떡이 맛있다해서 먹어보고 밀떡파에서 이걸로 바꼈어요
+P0 	: 로제떡볶이랑 잘 어울리는거같더라구요 ㅋㅋㅋ

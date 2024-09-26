@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007948
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 보러가신적 있으세요?
+P1 	: 밥먹느라 답늦었어요
+P1 	: 공연은 예전에 한번봤어요.
+P0 	: 어떤 공연이었나요?
+P1 	: 라이어라이어? 연극이요
+P0 	: 연극을 보러 가셨었군요
+P0 	: 저는 연극을 본적이 별로 없어요
+P1 	: ㅎ 저도 첨봤어요.  관심은 있는데 넘멀어서 보기가 쉽지않네요
+P1 	: 영화만 자주보러다녀요
+P0 	: 영화가 접근성이 제일 크죠
+P1 	: 네. 그나마 보기가 젤루 편하죠. 시간대도 다양해서
+P0 	: 주로 어느 시간대에 보세요? 저는 조조 좋아해요 싸기도 하고.
+P1 	: 옆동네로 원정가야해서 11시아님 점심먹고 2시
+P0 	: 그때는 사람이 많죠?
+P1 	: 평일날 자주가서 별로없어요
+P0 	: 평일 그 시간이면 없긴 하겠네요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100028498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 내일 비 오기 전에
+P1 	: 나갔다오자
+P0 	: 쓰
+P0 	: 레기
+P0 	: 버리러?
+P1 	: ㅇㅇ그렇지
+P0 	: 오늘 나갔을때 버리지
+P0 	: 낼 또 가?
+P1 	: 야
+P1 	: 쓰
+P1 	: 레기
+P1 	: 얼마나 많이 나오는지 아냐?
+P0 	: 많이 나오긴 하지
+P0 	: 근데 토욜에
+P0 	: 택배 올 거 있는데
+P1 	: 그거까지 합쳐서 갈까
+P0 	: ㅇㅇ한번에
+P0 	: 엄마도 택배 올거 있잖아
+P1 	: 아 그러니까 롯데택배 왜 안오냐
+P0 	: 롯데택배 원래 일 느려
+P0 	: 바로바로 처리 안 하더라
+P1 	: 거기 짜증난다
+P0 	: 과자였나?
+P1 	: ㅇㅇ
+P0 	: 궁금한데 빨리 왔음 좋겠다

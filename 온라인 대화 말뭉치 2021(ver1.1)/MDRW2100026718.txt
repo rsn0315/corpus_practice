@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100026718
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 동호회 활동하는거 있어요?
+P1 	: 아뇨. 하시는거 있나요?
+P0 	: 저도 지금은 안해요!
+P0 	: 활동하고 싶은 분야는 있어요?
+P1 	: 막연해서 잘은ㅋㅋ 여유있음 그림은 한번 배워보고 싶긴 하네요.
+P1 	: 예전에 하시던거 있나요?
+P0 	: 운동 모임 들려고 하다가 코로나가 터지는 바람에ㅠㅠ
+P1 	: 아... 요새 코로나땜에 거의 막히죠
+P1 	: 운동 좋아하시나봐요
+P0 	: 혼자 할수 있는 운동이면 혼자 할 수 있는데
+P0 	: 여러명이서 하는거는 동호회 가입해야 할수 있겠더라고요ㅠ
+P1 	: 그쵸. 같이 하면 잘 가르쳐주기도 하구요
+P0 	: 그리고 친구 사귀기에도 동호회 활동도 괜찮은거 같더라고요
+P1 	: 활동하는거 아니면 온라인모임으로도 많더라구요
+P0 	: 아 정말요?
+P1 	: 게임 같은건 활발한거 같구요ㅋㅋ
+P0 	: 아 그렇네요! 게임동호회면 온라인으로도 충분히 가능하겠어요
+P1 	: 요샌 화상채팅도 많아서 스터디 모임도 그런식으로 한대요
+P0 	: 오 그러게요 이시국 전에도 전화로 공부하는 것들도 있었으니까요

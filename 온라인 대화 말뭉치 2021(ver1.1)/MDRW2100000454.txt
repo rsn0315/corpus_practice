@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100000454
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P0 	: &name2&씨
+P1 	: ㅋㅋㅋ 예 &name1&씨
+P1 	: 요즘 운동 열심히 하시나봐요?
+P0 	: 열심히는 아니고
+P0 	: 적당히 아프지 않을정도로만 하고 있어요
+P1 	: 저는 코로나핑계로 쉬고있는데.. 언제까지 쉴 수는 없어서.. 해야지해여지싶은데..ㅋㅋㅋ
+P0 	: 헬스 끊어 놓은거 아직 안끝났어?
+P0 	: 진짜 밥먹고 산책이라도 해야돼
+P1 	: 응 9월인가 10월?
+	  산책.. 밥먹으면 바로 눕게되지않니?ㅎ
+P0 	: 마자ㅋㅋㅋ
+	  근데 밥먹고 산책 조금이라도해야 당뇨 위험 줄어든다해서
+P0 	: 나도 노력은 하지만 맘대로 안되지ㅋㅋ
+P1 	: 밥먹고 바로 나가는 사람은 뭘해도 성공할 사람이야
+P0 	: ㅋㅋㅋ마자ㅋㅋ
+P0 	: 헬스장 열긴 열어?
+P1 	: 응 열어서 문제야 난 멈추고 싶은데 정지하는 횟수도 다 썼거든
+P1 	: 헬스장은 여는데 샤워실이 폐쇄인걸로 알고있어
+P1 	: 시간도 늦게까지 안할거야 아마... 안간지 진짜 오래됐네^^ㅋㅋ
+P0 	: 아 여는게 또 그런게 안좋네
+P0 	: ㅋㅋㅋㅋㅋ근데 거기는 확진자 나왔어서 더 불안해서 못갈듯ㅜ
+P1 	: 맞아.. 걍 줄넘기라도 해여하나싶다
+P1 	: 생각만ㅎ
+P0 	: ㅋㅋㅋㅋ줄넘기도 좋지ㅋㅋ
+P1 	: 근데 줄넘기가 없어ㅋㅋ 사야해ㅋㅋ

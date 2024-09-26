@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008855
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.  좋아하는 연예인 있으신가요?
+P1 	: 아. 전 아이유 좋아해요! 당신은 어떠신가요?
+P0 	: 저는 JYP 소속 스트레이키즈 라는 그룹을 좋아하고 있어요!
+P1 	: 그렇군요. 제 친구가 해당 그룹의 리노 멤버를 좋아해요! 선생님은 어떠신가요?
+P0 	: 저는 필릭스랑 승민을 제일 좋아해요.
+P1 	: 필릭스 사진을 본 적이 있는데, 웃는 모습이 귀엽더라고요. 어떤 점을 좋아하시나요?
+P0 	: 일단 이목구비가 예뻐요... 그리고 코가 동글동글해요
+P1 	: 사진만 건너건너 자주 본 것 같아요. 그룹에서는 어떤 역할을 맡고 있나요?
+P0 	: 댄스랑 비주얼을 맡고 있어요! 랩도 자주 해용
+P1 	: 멋지네요. 가장 좋아하시는 노래나 무대는 어떻게 되세요?
+P0 	: 가장 좋아하는 노래는 청사진이고 좋아하는 무대는 백도어입니다
+P1 	: 언제 한번 보도록 할게요. 이야기 공유 감사합니다!
+P0 	: &name2&씨는 가장 좋아하는 노래가 뭔가용
+P1 	: 저요, 저 지금 아이유 미아 틀어두고 있어요! 조금 오래 전 곡이지만 취향이랍니다.

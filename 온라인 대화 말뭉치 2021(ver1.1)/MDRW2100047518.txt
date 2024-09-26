@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100047518
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 일 하고 계시죠?
+P0 	: 네ㅋㅋ
+P0 	: &name2&님은요?
+P1 	: ㅋㅋ 저듀요 흑
+P0 	: 무슨일 하시나요?
+P1 	: 저 그냘 회사에서 일해요..
+P1 	: 별일 아닌...
+P1 	: &name1&님은요
+P0 	: 저도요...ㅋㅋ마케팅쪽에 있는데 올해를 끝으로 그만두려구요
+P1 	: 헉
+P1 	: 그만두는 이유가 있나요
+P1 	: 저도 그만두고싶어요..하하
+P0 	: 그냥 회사가 가망없어보여서요...ㅋㅋ상사들도 짜증나고...
+P1 	: ㅋㅋㅋㅋㅋㅋ ㅠ 아하
+P1 	: 이직이에요? 아니면
+P1 	: 그냥 퇴사여?
+P0 	: 퇴사요ㅋㅋㅋ
+P1 	: 저도 이번에 만약 그만두면
+P0 	: 만약 그만두면 퇴사하실건가욥
+P1 	: 넵.. 그럴려고요 ...
+P1 	: 그리고 쉬고싶어요ㅋㅋㅋㅋㅋㅠ
+P1 	: 근데 그럼 또 취업 어떻게 하나 싶네요

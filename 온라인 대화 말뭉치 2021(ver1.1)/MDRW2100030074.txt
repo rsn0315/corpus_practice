@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100030074
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 끝나면 가고싶은 여행지가 있나요?
+P0 	: 하와이나 발리요
+P0 	: 신혼여행을 제주도로 다녀와서
+P0 	: 많이아쉬워요
+P0 	: &name2&님은요?
+P0 	: 신혼여행 어디로다녀오셨나요?
+P1 	: 저희는 경주로 갔었지요
+P1 	: 그때는 해외 잘 못나갔을때라 경주도 인기지역이었답니다
+P0 	: 아 그렇군요 저희 부부는 8개월전에 결혼했는데
+P0 	: 코로나가 한창심할때라 취소해야할까봐 당시에 걱정이 많았었어요
+P1 	: 그랬겠군요
+P1 	: 작년부터 지금까지 참 신혼부부들이 고생이 많아요
+P0 	: 네 와이프가 하와이를 엄청  가고싶어했는데 이제 언제갈수있을지 기약이 없어졌어요
+P0 	: 말씀만으로도 감사합니다
+P0 	: &name2&님은 계획중인 여행지가 있나요?
+P1 	: 저는 일단 해외보다 국내에서 남해쪽을 가고 싶답니다
+P1 	: 여기가 수도권이라 남쪽을 자주 못가서 남쪽으로 여행을 하고 싶네요
+P1 	: &name1&님은 국내 여행지 중에 가고 싶은 여행지가 있습니까?
+P0 	: 울롱도요 한번도 가본적이 없어서 다녀와보고 싶어요
+P0 	: 다녀와보신적 있어요
+P1 	: 울릉도 독도는 저도 못가봐서 가보고 싶네요
+P1 	: 한국도 참 다녀볼만한 데가 많더군요
+P1 	: 여행 좋아해서 여기저기 다닌다고 했는데도 아직 안가본 곳이 많습니다
+P0 	: 네 저도 국내여행 좋아해요
+P0 	: 짐 가볍게 들고 다녀올 수 있고해서 좋아요

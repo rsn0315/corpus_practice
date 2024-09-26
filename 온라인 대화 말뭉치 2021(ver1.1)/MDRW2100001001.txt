@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100001001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아르바이트를 해본적이 있나요?
+P1 	: 넵. 카페랑 서빙 샌드위치 가게 해봤어요
+P0 	: 카페알바는 어떤가요?
+P0 	: 음료 제조 하는 거 멋있어보이는데 어려운 점이 있었나요?
+P1 	: 저는 해본 것 중에는 카페가 제일 재밌었어요.
+P1 	: 음료는 레시피를 잊지만 않으면 괜찮은 것 같아요
+P0 	: 가장 좋아하는 음료레시피는 뭐였나요?
+P1 	: 그냥 커피류는 다 좋았어요
+P1 	: 샷 뽑는게 너무 재밌더라구요 ㅋㅋ
+P0 	: 해본적은 없는데 재밌을거같아요
+P0 	: 기계로 뽑는거져?
+P1 	: 넹! 근데 원두가루 템핑하고 이런게 너무 재밌었어요 ㅋㅋ
+P0 	: 기회가된다면 해보고싶어요ㅎㅎ
+P0 	: 커피말고 다음으로 잘나가는 메뉴는 뭐였나요?
+P1 	: 재밌을 거에요 ㅎㅎㅎ
+P1 	: 쉐이크나 프라푸치가 많이 나가요
+P1 	: 근데 너무 귀찮은.. ㅠㅠ
+P0 	: 손이 많이가긴할거같아요
+P0 	: 그 휘핑 하는거
+P0 	: 그거 어려워보이던데 어때요?
+P1 	: 휘핑은 짜는 거 익숙해지면 쉬워요
+P1 	: 컵 둘레로 먼저 깔고 하면 쉬워요 ㅎㅎㅎ
+P0 	: 컵둘레 기억할게요!

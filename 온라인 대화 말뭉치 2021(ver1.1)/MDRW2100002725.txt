@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002725
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 쇼핑하신거 있으세요?
+P0 	: 저는 가을 맞이 트렌치코트 하나 샀어요~
+P1 	: 오 벌써 가을느낌나네요 ㅎ
+P1 	: 저는 워치4사고 갤탭사려고 노리는중이예요 ㅎ
+P0 	: 오옷 갤탭 좋져 ㅎㅎ 새로운거 나온것 같더라구용~
+P0 	: 워치4 넘 좋아보이던데 어떤가용
+P1 	: 갤탭 새로운게 좋긴한데 s6라이트정도로 ㅎㅎㅎ
+P1 	: 워치4는 사전예약만해놨어요 아직 받지는 못하구요 ㅋ
+P0 	: 앗 그렇군요 ㅎㅎ 어서 받으시면 좋겠네요!
+P1 	: 기대되요 ㅎㅎ 워치사고싶어서 벼르다벼르다사는거라서요 ㅎ
+P0 	: 오오 ㅎㅎ 받으면 넘 기분좋을것 같아요! ㅎㅎ
+P0 	: 언제 배송예정인가요?
+P1 	: 24일부터인가 배송시작이래요
+P0 	: 얼마 안남았네요!! 금방 24일 될거에요~
+P1 	: 네 언능오길.., 코트는 오프라인으로 사신거예요?
+P0 	: 아니요 그냥 온라인으로요~ ㅎㅎ 받았는데 딱 맞더라구요
+P1 	: 요즘은 오버핏으로 코트많이 나오는거같더라구요?
+P0 	: 네! 딱 사이즈 맞게 샀는데 좀 오버핏이었어요 ㅎㅎ
+P1 	: 오 온라인으로 샀는데 맘에 딱들면 기분진짜좋죠
+P0 	: 네 ㅠ딱 그랬어요~

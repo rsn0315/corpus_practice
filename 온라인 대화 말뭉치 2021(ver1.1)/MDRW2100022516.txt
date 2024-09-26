@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 안녕하세요~
+P0 	: 요즘 넷플릭스나 유투브 보는거 있으세요
+P0 	: ?
+P1 	: 요즘은 유튜브 많이 보고 있어요! 먹방이나 쿡방 많이 보는 거 같아요
+P0 	: 그렇구나~
+P0 	: 먹방 유튜브 보면 막 배고파지는것 같아요 ㅋㅋ
+P1 	: 맞아요ㅋㅋㅋ 저는 요즘 식단 조절 중이라 대리만족하려고 자주 보는 거 같아요. 원래는 대리만족 못하고 시켜 먹었는데 지금은 식단이 제한 되니까 대리만족이 되더라고요ㅋㅋㅋㅋ
+P0 	: 그렇구나
+P0 	: 식단조절 넘 힘든데 대단하세요
+P0 	: 저는 유튜브로 여행 영상 찾아보며 대리만족중이에요 ㅋㅋ
+P1 	: 건강이 안 좋아져서 허겁지겁 하고 있어요ㅋㅋㅋ 여행 영상 좋죠! 저도 가끔 여행 브이로그 찾아봐요!
+P1 	: 어떤 채널 많이 보시나요?
+P0 	: 딱히 보는건 없구 그냥 추천에 뜨는거 이것저것다봐요 ㅋㅋ
+P1 	: 알고리즘이 보고싶은 추천 영상을 많이 가져오죠ㅋㅋㅋㅋ 넷플릭스는 보시나요?
+P0 	: 예전엔 좀 봤는데 요즘은 안봐요
+P0 	: &name2&님은 보시는 드라마같은거 있으세요?^^
+P1 	: 슬의생 추천받아서 정주행할까 고민중이에요ㅎㅎ
+P0 	: ! 부모님도 재밌게 보시더라구요
+P0 	: 연기도 잘한다던데ㅋㅋ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100016698
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요?
+P0 	: 네 좋아해요 최근에 하동다녀왓어요
+P1 	: 하동! 안그래도 재첩국 너무 먹고싶었는데ㅠㅠ 재첩국 드셨나요
+P0 	: 네 ㅋㅋ재첩국 좋아하세요?
+P1 	: 네! 하동하면 저는 재첩국부터 생각나더라구요
+P1 	: 하동에서 어디어디가셨나요?
+P0 	: 매암제다원 아시나요?
+P1 	: 앗 처음듣는데 어떤곳인가요?
+P0 	: 다원인데 유명하더라구요
+P1 	: &name1&님은 어떠셨어요?
+P0 	: 하동이 다원으로도 유명해요 저도 첨알았어요
+P0 	: 거기도 좋았고. 도심다원이라는 다원이 정말 좋았어요
+P1 	: 와... 다원으로도 유명하군요 다음에 하동갈때 가봐야겠어요
+P0 	: 네 꼭 가보세요
+P0 	: 최근에 여행다녀오신곳 있어요?
+P1 	: 코로나라 못간지 꽤 되었지만 마지막은 전주갔었어요
+P0 	: 와 전주도 좋죠 어디가셨어요?
+P1 	: 한옥거리랑 시장갔었어요 청년마켓도가구요
+P0 	: 그때 시장에서 콩나물국밥 먹은거 생각나네요
+P0 	: 엄청 맛있게 먹은 기억이ㅎ
+P1 	: 저도 시장에서 콩나물국밥 먹었는데
+P1 	: 수란에 오징어 너무 맛밌었어요
+P1 	: 저두 수란하고 엄청 맛있게먹었어요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맛집조아하시나요
+P0 	: 맛집 좋아하죠
+	  웨이팅 기다리는 시간은 좋아하지 않지만요
+P1 	: 어떤메뉴요?
+P0 	: 잘 못 먹는 메뉴가 아니라면요 
+	  특정 메뉴를 콕 찝어 좋아하는건 아니라서요
+P1 	: 저는 돈까스조아해요~
+P0 	: 아 돈까스 좋아하시는군요
+	  돈까스 좋아하시는분들 많으시죠~
+P1 	: 치킨도 좋아요ㅎㅎ
+P0 	: 저도 치킨 돈까스 둘 다 좋아해요
+	  둘 다 대중적으로 대부분 좋아하는 음식이죠
+P1 	: 그렇죠ㅎㅎ 허니콤보
+P0 	: 허니콤보 드셔보셨어요?
+P1 	: 최애 치킨입니다ㅎㅎ
+P0 	: 그러시군요ㅎㅎ
+	  전 아직 허니콤보는 먹어보지 않아서..
+P1 	: 드셔보세요 레드소스랑같이ㅎㅎ

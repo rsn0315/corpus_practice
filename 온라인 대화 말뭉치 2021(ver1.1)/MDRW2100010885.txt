@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100010885
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 몸이 약하신편이신가요?
+P1 	: 건강한 편이라고 생각하는데
+P1 	: 스트레스에는 좀 약한 거 같아요~
+P0 	: 아 스트레스가 적은 일을 하셔야겠어요
+P1 	: 네~
+P1 	: 아니면 스스로 스트레스를 잘 푸는 습관을 만들어야할텐데..
+P1 	: 평소에 스트레스 관리 어떻게 하세요?
+P0 	: 저는 스트레스받으면 수다떠는거같아요
+P0 	: 재밌는거보구
+P1 	: 재밌는 가 보고 맘껏 웃으면 확실히 스트레스가 날아가는 거 같긴 해요~
+P0 	: 근본해결은 안되지면 한결나아요 &name2&님은 어떻게하시나요
+P1 	: 저는 달달한 걸 먹거나 푹 자거나 자연을 보러 가거나 하는 거 같아요~
+P0 	: 아 좋군요 코로나가 좀 걸리지만
+P0 	: 달달이 저도 좋아요
+P1 	: 그래서 이것저것 간식 사먹는게 어느새 습관이 되가지고..ㅎㅎ
+P1 	: 운동도 습관을 들여야 하는데 쉽지.않네요
+P0 	: 저 앉아서 일하는데 서서하려구요ㅋㅋㅋ
+P0 	: 하나씩 노력해보려구요ㅜㅜㅜ
+P1 	: 저도 하나씩 습관을 바꿔봐야겠어요~
+P0 	: 자전거 잘타고싶어요
+P0 	: 자전거로 출퇴해보고프네요
+P1 	: 저도~~ 자전거 출퇴근이 로망인데~//
+P1 	: 자전서 타는 거 좋아하세요??
+P0 	: 탈줄은아는데 사람없는곳에서 탈수있어요ㅋㅋ순발력이 떨어져서

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010823
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 뭐 구매하셧나요?
+P1 	: 저 최근에...바디워시샀어요
+P0 	: 오 바디워시 어디꺼요?? 무슨 향으로 사셧어요
+P1 	: 자몽향을 좋아해서 해피바스 자몽 바디워시 샀어요
+P1 	: &name1&님은 좋아하는 향이 있나요
+P0 	: 자몽 바디워시 냄샤 좋죠 더바디샵 자몽도 좋던데!
+P0 	: 저도 시트러스같은 자몽향 좋아해요
+P1 	: 더바디샵도 좋아요
+P0 	: 저는 바디로션은 그 존슨즈 보라색 바디로션 좋아해요 그런 냄새
+P1 	: 약간 포근한 냄새 좋아하시는구나
+P0 	: 그런것 같아요! 지금 현재 장바구니엔 뭘 넣어두셧나요
+P1 	: 여름은 다 갔지만 선풍기 고장나서 선풍기 알아보고있어요
+P0 	: 근대 갑자기 날씨가 너무시원해져서 필요없을지도 모르겟어요!
+P0 	: 5만원 이내로 선물을 받을 수 잇다면 뭘 받고싶으세요?
+P1 	: 음... 당장은 필요한게 없어서.. &name1&님은요?
+P0 	: 저는 음 커튼이요!
+P0 	: 이사를 햇는데 갑자기 채광이 너무 좋아져서
+P0 	: 자동 6시 기상중인데 은근히 사이즈 재고 이런게 귀찮더라구요

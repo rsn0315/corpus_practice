@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 리유저블컵 사용하시나요
+P1 	: 음 회사에 있을때는 사용해요
+P1 	: 텀블러 사용하시나요?
+P0 	: 네 텀블러랑 리유저블컵 둘 다 잘 사용중이네요
+P1 	: 환경에 대해서 관심이.많으신가요?
+P0 	: 관심이라기보단.. 혜택도 있고 쓰다보니 편하기도 해서
+P1 	: 무슨 혜택들이 있나요?
+P0 	: 와이프가 카페를 좋아해서 같이 다녀보니... 별적립이나 가격할인이.되더라구요
+P1 	: 아항 설거지가 귀찮지는 않으신가요?
+P0 	: 네 기름진것 먹진 않으니 가볍게 세척하고.. 부담없더라구요
+P1 	: 아항 주로 아메리카노를 드시나요?
+P0 	: 저는 커피를 안먹어서 와이프것 한입씩만...ㅎㅎ &name2&은요
+P1 	: ㅋㅋㅋ저도 커피를 잘 못마셔서 잘 안먹어요ㅠ
+P0 	: 그럼 다회용컵 사용할 일이 적긴 하겠네요 ㅎㅎ

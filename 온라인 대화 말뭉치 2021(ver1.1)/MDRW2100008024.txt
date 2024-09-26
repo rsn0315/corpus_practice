@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교 사람 만나요?
+P0 	: 아 저는 전공이 다 비슷한 계열로 취업해서 자주 만나요 학교시절 언제가 제일 재밌었나요?
+P1 	: 초등학교요
+P0 	: 뭐 하고 노셨어요?
+P1 	: 그냥 막 뛰어다녓죠
+P1 	: ㅎㅎ
+P0 	: ㅋㅋ 동네 친구 많았나보네요
+P1 	: 네 또래거 많아서
+P0 	: 재밌었겠어요 학교는 가까웠나요?
+P1 	: 네 근처라 좋았어요
+P0 	: 공부스트레스같은건 없었나요?
+P1 	: 그당시는 아무생각없이그냥
+P0 	: 그러게요 무슨과목 좋아하셨어요?
+P1 	: 과학이요

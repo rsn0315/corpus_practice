@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003937
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 사고싶으신 물건이 있으셔요?
+P1 	: 요즘 노트북 고장나서 노트북 사고싶어요ㅎㅎ
+P1 	: 노트북 사용하고 계신가요?
+P0 	: 노트북 오래된거 ㅠ있어요 저도 사고싶어요ㅠ얇고 이쁜거ㅋ
+P1 	: 그쵸ㅠㅠ
+P1 	: 오래되니까 느려터져서 답답하더라구요ㅎㅎ
+P1 	: 요즘 또 사고싶은 물건 있으세요?
+P0 	: 핸드폰이요ㅋㅋ
+P1 	: 오 어떤 기종 구매하고싶으세요?
+P1 	: 요즘 플립? 맞나요?? 새로 나온거 이쁘더라구요
+P0 	: 마자요 비싸서 ㅠㅠ 생각만 해요 ㅋ
+P1 	: ㅠㅠㅜ요즘 새로 나온 폰들은 다 비싸더라구요
+P1 	: 최근에 구매하신 물건 있으세요?
+P0 	: 많죠 ㅋㅋ 가정주부라 생필품이 대다수에요
+P1 	: 오 주로 인터넷 쇼핑 하시나요?
+P0 	: 네  채소나 야채빼고는요ㅋ 거의
+P1 	: 인터넷이 더 저렴하고 배달되니까 좋더라구요ㅎㅎ
+P1 	: 저는 좀 전에 양산 구매했는데 혹시 양산 사용해보셨나요?
+P0 	: 양산은 아직 한번도 안써봤는데 ㅎㅎ 한번쓰면 계속 쓰더라구요 ㅋㅋㅋ

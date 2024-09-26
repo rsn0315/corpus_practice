@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100044219
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 술 잘드시나요?
+P0 	: 저 술은 잘 못해요 &name2&님은 좋아하세요??
+P1 	: 넵
+	  저는 사랑해요.
+	  냉장고에 늘 있고요.
+	  술값은 안아깝네요.
+P0 	: ㅎㅎ 맥주 소주 와인 어느 술 좋아하시나요?
+P1 	: 맥주 좋아해요.
+	  와인은 별로 안마시는데요.
+	  생각없이 왕창 마셔 속이 쓰린 적이 있었네요.ㅎ
+P0 	: ㅎㅎㅎ 저도 맥주가 제일 좋아요!!
+P0 	: 와인이 원래 그런가봐요
+P0 	: 마실땐 못느끼고 마신후에 훅
+P1 	: 1병은 마셔버렸거든요. 달길래.. ㅎ
+P0 	: 아 꽤 드셨네요 ㅎㅎㅎ
+P0 	: 잘드시네요!!
+P1 	: ㅎㅎ
+	  그냥 멋모르고 마셨다가.. ㅎ
+	  와인 안주는 치즈가 좋네요.
+P0 	: 저도 치즈가 좋아요!! 과일치즈도 맛있더라고요
+P1 	: 과일치즈는 안사봤는데 사보고 싶ㄴ
+P1 	: 싶네요.ㅎ
+P0 	: 네 나중에 한번 드셔보세요!!
+P1 	: 넵. 추천 감사해요.
+	  배달 음식을 시키실 땐 주로 어떤 음식을 시키세요?
+P0 	: 저 배달음식은 떡볶이 좋아해요!!

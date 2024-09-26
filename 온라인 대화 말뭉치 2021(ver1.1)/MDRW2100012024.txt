@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 식사하셨나요?
+P1 	: 아직이요
+P1 	: 저녁 뭐 드셨나요?
+P0 	: 저는 순두부찌개 먹었어요!
+P0 	: 뭐 드실 예정인가요?
+P1 	: 김치전 남은게 있어서 데워 먹으려구요
+P0 	: 비오는 날에 전이 최고죠!
+P0 	: 직접 만드신 건가요?
+P1 	: 네 갑자기 먹고싶어서ㅋㅋ
+P0 	: 김치전 어려운가요? 한번도 안 만들어봤는데 저도 먹고 싶네요
+P1 	: 어렵진 않더라구요. 저도 유튜브보면서 만든거에요
+P0 	: 주로 요리해서 식사하시나요?
+P1 	: 그건 아니에요. 사온것도 많구
+P1 	: 배달도 많잖아요
+P0 	: 저도 요즘 배달 많이 시키는 거 같아요
+P0 	: 배달하면 주로 뭐 시켜드시나요?
+P1 	: 피자요. 치즈토핑이 많은게 좋더라구요
+P0 	: 주로 어디서 시켜드세요?
+P1 	: 요샌 알볼로피자 잘 시켜먹어요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100042861
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 짐 스타벅스 신메뉴 시켰는데 실패했어요
+P1 	: 아 그 글레이즈???
+P0 	: 오오 맞아요
+P1 	: 그거 유명템!
+P0 	: 그냥 라떼먹을걸
+P1 	: 단거 싫어하세요?
+P0 	: 아뇨 좀 어중간한 단맛이어요
+P0 	: 망템이 아니라 유명템인가여
+P1 	: 네...ㅜ 다들 좋아하더라고요
+P1 	: 전 아이스를 잘안먹어서ㅋㅋ
+P0 	: 아 심지어 전 핫인데 ㅋㅋ
+P1 	: 제주에서만 파는 음료도 많던데
+P0 	: 맛아여
+P1 	: 아이스로 먹어야 맛나대요!
+P0 	: 우도땅콩라떼

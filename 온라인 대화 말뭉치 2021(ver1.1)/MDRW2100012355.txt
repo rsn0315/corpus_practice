@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012355
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 종종 보시나요.
+P1 	: 님은요?
+P0 	: 저는 예전엔 영화관 가는 거 좋아했어요.
+P1 	: 무슨 영화장르 좋아하세요?
+P0 	: 저는 액션영화요.
+	  통쾌한 액션요.
+	  님은요?
+P1 	: 전 로맨스나 판타지 좋아해요~
+P1 	: 요즘은 극장 잘 못 가시죠?ㅜ
+P0 	: 그렇죠.
+	  극장 내 음식물 섭취는 금지라지만
+	  혹시나 하는 마음도 있고
+P1 	: 저도 꽉 막혀있어서...보고 싶은 영화도 있는데ㅜ 못 가고있어요ㅜ
+P0 	: 보고 싶은 영화가 추석 때 티비에서 하면 딱인데요.
+	  미술 전시회도 가고 싶은데 다 미루게 되네요.
+P1 	: 그렇죠 코로나때문에 많은 제약이 있네요ㅜ
+P1 	: 콘서트장도 가고싶은데ㅜ
+P0 	: 사람들 바글바글한 곳에서 함께 즐기는 거 좋아하는데 앞으로 가능할까 싶기도 하고..
+	  집에서 극장처럼 느낄 수 있게 대형티비를 살까봐요.
+P1 	: 이젠 집에서 모든걸 할수 있는 시대가 오나봐요...공연 전시 관람 같은것도 하나의 활력소인데 아쉽네요
+P0 	: 혼자하다 사회성이 결여될까 걱정이네요.
+	  지인들과 공연장에서 수다도 떨고 해야하는데요.

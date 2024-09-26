@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100010702
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음악좋아하세요?
+P0 	: 네 장르 가리지 않고 신곡도 옛날 노래들도 다양하게 들으려는 편이에요
+P1 	: 전 음악 스펙트럼이 매우 좁아서 여러음악을 들으시는분들이 멋지더라구요
+P1 	: 가장 좋아하시는 가수는 누구세요?
+P0 	: 하나만 꼽긴 어려운데.. 김성규, 정세운 등의 음악을 좋아해요. 닭둥이 님은요?
+P1 	: 제가 모르는 가수네요.
+	  노래 추천해두시면 지금 들어볼게요.
+P1 	: 저는 오로지 나얼 매니아에요.
+P0 	: 오 최근에 놀면뭐하니 나왔고 곡도 줬었는데. 노래 제목이 나를 아는 사람 이었던가요?
+P1 	: 노래 제법 괜찮더라구요.
+	  최애곡은 같은시간속의너 에요.
+P1 	: 그노래만들으면행복해져요
+P0 	: 어떤 노랜지 궁금하네요
+P1 	: 저에게 노래를 추천해주실래요
+P0 	: 지금은 김성규의 머물러줘 라는 곡을 듣고 있어요
+P1 	: 굉장히 트랜디하시군요
+P1 	: 영상은 보통 어떤걸보시나요?
+P0 	: 유튜브에서는 요리채널도 많이 찾아보고 야구 관련 채널도 봐요
+P0 	: 새덕후라고 새 관련 채널도 좋아해요
+P1 	: 오 새를 좋아하시는군요
+P1 	: 새 관련 유튜브도많죠?
+P0 	: 앵무새 나오는 거나 동물농장 채널도 가끔 봐요

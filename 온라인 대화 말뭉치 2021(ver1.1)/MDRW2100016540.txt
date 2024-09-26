@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 최근에 본 공연이나 전시회 있으신가요?
+P1 	: 안녕하세요! 아뇨 코로나 이후엔 보질 못했어요ㅠㅠ&name1&님은 다녀오셨나요?
+P0 	: 저도 코로나 이후로는 보질 못했어요ㅠ
+P0 	: 공연이나 뮤지컬을 좋아하시는 편인가요?
+P1 	: 좋아하지만 지방이라 접할 기회가 적은 것 같아요. &name1&님은 좋아하시나요?
+P0 	: 저두 좋아해요 눈도 귀도 즐거워서요
+P1 	: 제가 제일 처음 본 뮤지컬은 캣츠였어요! vod로 봤는데 정말 재밌더라구요
+P0 	: 캣츠도 유명한 뮤지컬 중 하나잖아요
+P0 	: 재밌으셨겠어용
+P0 	: 저는 어느 뮤지컬이 처음으로 본건지 모르겠지만
+P0 	: 오페라의 유령이 제일 기억에 남아요
+P1 	: 오페라의 유령 직접 보러 갔었는데 너무 멀리서 봐서 아쉬웠어요 ㅠㅠ
+P0 	: 헐 정말요? 어디서 보셨었나요?
+P1 	: 저 대구 수성아트센터에서요 ㅎㅎ
+P0 	: 우왕 그래도 좋으셨겠어요
+P0 	: 오페라의 유령은 극장이 배경이다보니까 화려하고 보는 재미도 있었던 것같아요
+P1 	: 네 ㅎㅎ 다음엔 꼭 앞자리에서 보고싶어요!!
+P0 	: 저두요ㅎㅎ 앞자리에 앉으면 또 느낌이 다를 것같아요

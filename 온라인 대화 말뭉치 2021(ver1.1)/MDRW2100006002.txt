@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100006002
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 운동하시나요
+P0 	: 네 소소하게 홈트합니다
+P0 	: 운동하세요?
+P1 	: 저는 헬스합니다
+P0 	: 헬스하신지 오래되셧어요?
+P1 	: 네 성인된 이후로 간간히 해왔으니 꽤 됬네요
+P0 	: 헬스를 시작한 계기가 잇으신가요?
+P1 	: 처음엔 몸만들고싶은 마음에 지금은 건강을 위해 하고있어요
+P0 	: 오오 오래되셧다니 꾸준함 대박이시네요
+P1 	: 중간에 쉴때도 많았죠~애들 어릴때나..ㅎㅎ
+P0 	: 아이어릴땐 육아가 우선이죠
+P1 	: 그렇죠 아직도 유아들이라 운동못하도 같이 잠드는날이 많아요
+P0 	: 육아에 체력소모가 엄청날텐데 운동까지 하면 무리일것같아요 ㅎㅎ
+P1 	: 근데 운동을 안하면 육아할 체력이 더 안생기더라구요

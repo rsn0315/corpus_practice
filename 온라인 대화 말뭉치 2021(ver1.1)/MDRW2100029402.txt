@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100029402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P0 	: 출근준비중이세요?
+P1 	: 안녕하세요
+P0 	: 반갑습니당
+P1 	: 출근 하려고 합니다
+P1 	: 출근 하시나요
+P0 	: 그러시군용
+P0 	: 네 저도 준비중이에요
+P1 	: 출근시간이 오래 걸리시나요
+P0 	: 저는 30-40분이요. &name2&은 출퇴근 시간 어느정도 소요되세요?
+P1 	: 전 차로 1시간 걸려요
+P0 	: 그러시군요
+P0 	: 몇시까지 출근이세요?
+P1 	: 9시까지 인데 20분 전 까지는 가야죠
+P0 	: 와 20분이나 일찍
+P0 	: 훌륭하십니다 성실왕
+P1 	: 일하기전에 준비하고 기타등등 하려면요
+P0 	: 그러시군용
+P0 	: 야근이나 잔업도 많은 편이세요?

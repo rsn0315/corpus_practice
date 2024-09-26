@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 조아하시나요
+P0 	: 쇼핑 조아하시나요
+P1 	: 좋아하죠. 주로 먹을거나 옷을 삽니다.
+	  쇼핑 자주 하세요?
+P0 	: 네 좋아해요!
+P1 	: 어떤 거 주로 보시거나 사세요?
+P0 	: 옷신발이요!
+P1 	: 인터넷으로 사세요?
+	  직접 가서 사세요?
+P0 	: 인터넷으로 많이삽니다
+P1 	: 저도요.
+	  대충 사이즈는 아니까 직접 가기 귀찮더라구요.
+	  최근에 뭐 사셨어요?
+P1 	: 최근에 뭐 사셨어요?
+P0 	: 위에 나이키신발이라고.. ㅎㅎ
+P1 	: 저는 나이키 신발은 안 보이네요???
+	  암튼 그럼 신발 살 때 중점적으로 보시는게 있나요?
+P0 	: 디자인이요!!

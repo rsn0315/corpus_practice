@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100025583
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 기억에 남는 여행지 있으세요?
+P1 	: 안녕하세요 저는
+P0 	: 네네
+P1 	: 동생이랑 전주 한옥마을간게젤추억이예요!
+P0 	: 우와 맛있는거많다던데 좀 드셨나요?
+P1 	: 그때고등학생이라서 몇개만 골라먹었어요 ㅠㅠ
+P0 	: 오 미성년자때 여행가신거에요? 완전 색달랐을것같아요
+P1 	: 맞아요 첫 여행이였거든요 설렜어요 다른지역간다는게
+P0 	: 미성년자때 다른지역가기 쉽지않잖아요 대단하시네요
+P1 	: 맞어요 엄마한테 정말사정했어요 ㅋㅋㅋ
+P0 	: 와 저희어머니같으면 허락 안해주셨을 것 같아요 ㅋㅋㅋ
+P1 	: 저도 진짜 사정사정했어요!
+P0 	: 사정사정ㅋㅋㅋ

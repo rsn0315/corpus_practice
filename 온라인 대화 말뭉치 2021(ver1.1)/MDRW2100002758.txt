@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100002758
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P0 	: 요즘 사고싶은거 있어?
+P0 	: 나는 제일 최근에 갤럭시워치 샀어
+P1 	: 난 최근에 타블렛 샀는데 사놓고 게임 용도로 쓰고 있어
+P0 	: 태블릿 좋지
+P0 	: 나도 태블릿 최근에 샀어
+P1 	: 태블릿 말구 타블렛!
+P1 	: 타블렛은 그림그릴때 쓰는 용도야
+P0 	: 아 타블렛을 샀구나
+P0 	: 그런데 그걸로 어떻게 게임을 해?
+P1 	: osu라고 리듬 게임이 있는데 그거 마우스나 타블렛으로 할수 있거든
+P1 	: 마우스 대용이라고 보면돼
+P0 	: 아 그렇구나
+P0 	: 나도 최근에 동생이 그림그린다고 해서
+P0 	: 타블렛 선물해줬어
+P1 	: 와 완전 부럽네
+P1 	: 타블렛 가격 좀 나가는데
+P0 	: 돈 꽤 깨졌지
+P0 	: 8만원 넘게 들었는데
+P0 	: 얘가 타블렛을 안쓰네?^^
+P1 	: 헉.. 8만원 너무 비싼데
+P1 	: 나 연습용으로 산것도 3만원이야..
+P0 	: 그러니깐
+P0 	: 와콤 타블렛 사줬어
+P1 	: 와콤 메이커 있는거네
+P1 	: 젤 비싼 종류인데
+P0 	: 얘가 열심히 안쓰면
+P0 	: 뺐어올거야

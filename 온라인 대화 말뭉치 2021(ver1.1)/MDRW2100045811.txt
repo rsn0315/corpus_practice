@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045811
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 문득 생각나는 음식 있으세요?
+P1 	: 새우장이요!
+P1 	: 여수갔을때 게장백반집에서 딱새우장을 줘서 처음 먹어봤거든요
+P0 	: 헉 맛있겠다.....
+P1 	: 이게 무슨 생물인가 싶었는데 너무 맛있어서 가끔 생각나욬ㅋㅋㅋ
+P0 	: 일반 새우랑 딱새우랑 달라요?
+P1 	: 모양이 좀 다르더라구요!
+P1 	: 둥글둥글하게 생겼어요!
+P1 	: 근본적으로 맛이 엄청 다른건가? 싶긴한데
+P1 	: 여수에서 먹어서 그런가 너무 맛있었어요...
+P0 	: 우오.. 저도 먹어보고싶네요
+P0 	: &name2&님 말 들으니까 급 먹고싶어진 요리가 있는데 맞춰보실래요?
+P1 	: 오 맞춰볼래요!
+P1 	: 한식인가요?
+P0 	: 네 한식입니당
+P1 	: 국물이 있는 요리인가요?
+P0 	: 으음 국물이 있긴 한데 그걸 마구 퍼먹진 않아요
+P1 	: 밥도 안비벼먹나요?
+P0 	: 음 순수하게 국물에 말아멱진 않고 들어가는 재료에 비벼먹어요!
+P1 	: 불고기같은걸까요
+P1 	: 불고기 낙지 갈비 이 정도 생각나네욬ㅋㅋ큐ㅠ

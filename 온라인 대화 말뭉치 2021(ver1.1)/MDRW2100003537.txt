@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003537
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 엄마~
+P0 	: 이번주에 &name3&네 가는 거 맞아요??
+P1 	: &name3&한테 물어봐
+P0 	: &name3&한테 물어봤는데
+P0 	: 대략 저녁시간대로 생각하고있댜요
+P1 	: 그래
+P0 	: 우리.몇시에 가는 거에요??
+P1 	: 글쎄..
+P1 	: 3시쯤에 가지 않을까?
+P0 	: 그럼 거의 4시쯤에 도착하겠네요
+P1 	: 더 걸릴 수도 있고
+P0 	: &name3&네로 바로 가는 거죠?
+P1 	: 어 집 들렸다가 밥 먹으러 갈거야
+P0 	: 알았어요~
+P1 	: 뭐 먹을지는 &name3&가 고른다고 했어
+P0 	: ㅎㅎ기대되네~~

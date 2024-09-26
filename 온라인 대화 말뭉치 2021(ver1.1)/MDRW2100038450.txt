@@ -1,0 +1,48 @@
+# FILE DATA
+ID : MDRW2100038450
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 점심 맛있게 먹었습니다 ㅎㅎ &name1&님은요?
+P0 	: 네 저도 점심 먹었어요 뭐드셨나요?
+P1 	: 저 김치찌개 먹었어요 ㅎㅎ 뜨끈뜨끈하게요
+P0 	: 맛있겠네요 만들어드신건가요?
+P1 	: 아니요 식당에서 먹었습니다ㅋㅋ 출근중이어서요ㅠ
+P1 	: &name1&님은 뭐 드셨어요?
+P0 	: 그렇군요ㅎ 저는 김치볶음밥 먹었어요ㅎㅎ
+P1 	: 왠지 직장인 점심 메뉴 같은데요 ㅋㅋㅋ 출근하셨나요
+P0 	: 네ㅠㅠ 재택하다 잠깐 회사 나왔네요ㅋㅋ
+P1 	: 아 보통 재택 하시나요 코로나 때문에?
+P0 	: 네 맞아요ㅋㅋ

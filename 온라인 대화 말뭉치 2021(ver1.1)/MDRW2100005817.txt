@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005817
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>국세청 근로장려금 신청 접수
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 근장 신청하셨나요?
+P1 	: 안녕하세요!
+P1 	: 저는 신청하지 않았습니다. 신청하셨나요?
+P0 	: 저도 아직이요ㅜㅜ 뭔가 조건이 있는 것 같은데 아직 자세히 안 봤네요
+P1 	: 아 네 저는 부모님이랑 살아서 대상이 안될것같습니다 ㅠㅠ
+P1 	: 소득제한도 있고 까다롭네요
+P0 	: 헉 같이 살면 대상 제외되나요? 슬프네요
+P1 	: 아니요 그렇진 않은데 자산소득 합계 상한선이 있어서요ㅠㅍ
+P0 	: 아이구 소득 제한이 또 있군요.. 그럼 저도 안되겠네요 안타까운ㅠㅠ
+P1 	: 네ㅜㅜ단독가구 2000만원이라니
+P1 	: 조금 타이트하네요
+P0 	: 헉 연 2000인가요?
+P1 	: 네네 2020년 기준소득이래요!
+P0 	: 으와 그럼 진짜 안되겠네요ㅠㅠ
+P1 	: ㅜㅜ네 혹시 근로장려금 관련 정보는 어디서 들으셨나요?
+P0 	: 저는 길 가다가 센터에 현수막 걸려있는 거 보고 알았어요
+P1 	: 아 그러시군요 저는 요새 재난지원금 기사 보다가 알게되었습니다

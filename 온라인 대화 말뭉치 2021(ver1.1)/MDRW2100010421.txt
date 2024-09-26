@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 봉사활동 다니시나요?
+P1 	: 안녕하세요~ 아뇨 봉사는..중딩때 이후로는 해본적이 없네요
+P1 	: &name1&님은 봉사 꾸준히 하시나요?
+P0 	: 저는 코로나 이전까지는 활발하게 한 것 같아요
+P1 	: 오 무슨 봉사 다니세요?
+P0 	: 단기로 과학관 특별전 교육봉사를 한 적이 있어요
+P1 	: 과학관이면 관람하는 학생들 간단하게 멘토링해주는 그런 봉사인가요?
+P1 	: 엄청 뿌듯할거같아요!
+P0 	: 네 비슷해요 부스가 어떻게 되는건지 설명해주는 일이었는데 엄청 뿌듯했죠ㅎㅎ
+P1 	: 저도 고등학교때 생기부쓰려고 과학관 봉사 신청해본적있는데 전 떨어졌었거든요...ㅋㅋㅋ
+P1 	: &name1&님은 과학관봉사 어떤계기로 하게되셨나요?
+P0 	: 저는 대학교 때 건물에 붙어있는 모집글 보고 지원하게 되었어요ㅎㅎ
+P1 	: 아하 맞아요 대학생들을 많이 뽑더라구요
+P1 	: 동호회나 모임같은건 들어가신거 있으세요?
+P0 	: 아뇨 &name2& 님은 있으세요?
+P1 	: 저두 없어요...ㅎㅎ
+P1 	: 여자끼리 운동하는 모임같은거 들어가보고싶은데 정보 찾기가 어렵더라구요
+P0 	: 저도 운동하는 모임에 가보고 싶네요~

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100042737
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 식사하시나요?
+P0 	: 네 점심 먹었어요! &name2& 님도 드셨나요?!
+P1 	: 저도 먹었어요!!
+P1 	: 오늘은 어떤 점심 드셨나요?
+P0 	: 저는 토스트 만들어먹었어요 &name2& 님은 뭐 드셨나욥
+P1 	: 저는 라면이요!
+P1 	: 신라면 건면이 궁금해서 먹어봤어요
+P1 	: 토스트!
+P1 	: 맛있었을 것 같아요 ㅎㅎ
+P0 	: 오오 신라면 건면 맛있을 거 같네요
+P0 	: 토스트에 메이플시럽 바르니까 더 맛있더라구요ㅋㅋㅋ
+P1 	: 메이플시럽 상상만 해도 벌써 달콤해요!
+P1 	: 저도 내일은 토스트에 마누카 허니 발라 먹어야 겠어요 ㅠ
+P0 	: 마누카 허니가 뭔가요! 꿀 종류인가...??
+P1 	: 뉴질랜드에서 나는 특산꿀인데 정말 달콤해요!
+P0 	: 오오오 &name2& 님 단 거 좋아하시나요?
+P1 	: 짱좋아해요!
+P1 	: 디저트 맛집 찾아서 다니는거 좋아했어요
+P0 	: 오오오 저도 서울 근처 살면 디저트 맛집 죄다 찾아다녔을 텐데
+P1 	: 어.. 괜찮으시다면 어디에 거주중이신가요?
+P0 	: 저는 경기 남부 살아요!
+P1 	: 아 ㅠㅠ 서울에서 제일 멀다고 하는 곳이 경기도죠 ㅠㅠ
+P1 	: 진짜 교통편 무슨일인지 모르겠어요
+P0 	: 맞아요ㅋㅋㅋㅋ

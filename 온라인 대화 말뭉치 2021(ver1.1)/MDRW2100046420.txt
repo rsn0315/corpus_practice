@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046420
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211021
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~!
+P1 	: 점심식사하셨나요?
+P0 	: 네 먹었습니다
+P1 	: 뭐드셨어요~?
+P0 	: 초밥먹었어요 식사 하셨어요?
+P1 	: 네 저는 집에서 사골국 먹었어요!
+P1 	: 회 좋아하세요?
+P0 	: 초밥을 더 좋아해요
+P1 	: 회보다 초밥이요?!
+P1 	: 어떤 초밥이 최애 초밥인가요?
+P0 	: 참치요 ㅎㅎ
+P1 	: 엇 참치는 회가 더 맛있는데...ㅎㅎ
+P1 	: 은행골 가보셨어요?
+P0 	: 참치는 많이 먹으면 느끼하잖아요 ㅎㅎ 은행골은 태어나서 처음 들어보네요
+P1 	: 헉 은행골이 참치 초밥으로 엄청 유명해요!
+P1 	: 꼭 가보세요!
+P0 	: 아하 감사합니다 나중에 가봐야겠네요

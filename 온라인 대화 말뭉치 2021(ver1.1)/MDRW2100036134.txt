@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036134
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 시댁에서 된장을 직접 담그시다니~! 대단하시네요
+P0 	: 된장이 쓰더라구요 시골이라 그런것 같아요
+P0 	: 옥상에 장독대가 ㅎㅎ
+P1 	: 된장 고추장 간장 다 담그시는거 아니에요?
+P0 	: 어 맞아요 ㅋㅋ 다 하시는것 같애요 ㅎㅎ
+P0 	: 근데 전 간장만 가끔...ㅋㅋ
+P1 	: 왠지 집에서 만든거는 엄청 짤 것 같아요
+P0 	: 쫌 그런면이 ㅋㅋ 된장은 쓰고간장은 짜고
+P1 	: 헛...그렇구나...좀 아쉽네요..ㅠㅠ
+P0 	: 맞아요 ㅎㅎ 그래서 간장은 가끔 받아쓰고 나머지는 다 시판으로 해결 ㅎㅎ 사실그게 더 맛있잖아요 ㅎㅎ
+P1 	: 네~아무래도 시판이 입에 맞죠 ㅎㅎ
+P0 	: 간간하니ㅎㅎ맛도있고
+P1 	: 시댁에서는 계속 주시겠다고 하실것 같은데 안 받아오시는거에요?
+P0 	: 아니요 ㅎㅎ 말안하면 안챙겨주셔서
+P0 	: 주시진않으셔요~ 뭐먹고사냐고 묻긴하셨는데 그냥 솔직히 산다고 했죵 뭐
+P1 	: 아~~안주시는게 왠지 다행인것 같기도 하구 ㅎㅎ
+P1 	: 저도 가끔 시댁에서 보내주시는데 거의 버려요
+P0 	: 아 저도 그런거 몇개..있어요

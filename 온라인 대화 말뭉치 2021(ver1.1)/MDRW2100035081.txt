@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 나 머리 염색하려고
+P1 	: 무슨 색으로 할거야
+P0 	: 그게 고민이야 골라줄래
+P1 	: 밝은 색갈 거야 어두운 색갈 거야
+P0 	: 일단 밝은 색을 한다면 노란색을 할거야
+P1 	: 금발머리는 좀 힘들지 않나
+P0 	: 그래서 어두운 머리도 고민중
+P1 	: 갈색 머리도 괜찮긴 하지
+P0 	: 내가 얼굴이 노란편이라서
+P1 	: 그럼 노란 머리는 안 어울리겠네
+P0 	: 애쉬는 어떻게 생각해
+P1 	: 나도 애쉬 색깔 한번 해보고 싶더라
+P0 	: 해보고 후기 알려줄게

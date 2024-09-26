@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020839
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 해외나 국내여행 가보신 곳 있으신가요?
+P1 	: 네 유럽이랑 일본 가봤어요
+P1 	: 여행 좋아하시나요?
+P0 	: 우와 네 좋아해요! 저는 말레이시아랑 미국 가봤어요
+P0 	: 여행경험 들려주세요
+P1 	: 학생때 갔던거라 고생을 많이해서..ㅋㅋㅋ
+P1 	: 회사 다니면 다시 가보고 싶었는데 코로나때문에 못가고 있네요 ㅠ
+P1 	: 미국은 동부 가신건가요?
+P0 	: 우와 학생때 가셨구나.. 네 동부요!
+P0 	: 지인이 있어서 갔다왔어요
+P1 	: 와 그럼 더 현지인 시점으로 보셨겠네요
+P0 	: 아니에요ㅋㅋㅋㅋ유명지만 왔다갔다 했답니다
+P0 	: 여행갔다오면 시야가 트이긴 하는 것 같아요
+P1 	: 맞아요 새로운 환경을 보니까 확실히 다양한 경험이 되더라구요
+P0 	: 그쵸 경험 중요하죠
+P0 	: 워킹홀리데이 가 보셨나요?
+P1 	: 아뇨 교환학생이랑 워홀 안가봤어요
+P1 	: 가보셨나여?
+P0 	: 아뇨 안가봤어요.. 그냥 유튜브로만 알아보고있네요 하하
+P0 	: 님은 워홀 하실 생각있나요?
+P1 	: 전 엄두가 안나서 못갈거같아요
+P1 	: 주변에서 워홀 갔는데 일자리 없어서 돌아오는 경우도 봤어요
+P0 	: 헐 그렇군요..역시 힘드네요

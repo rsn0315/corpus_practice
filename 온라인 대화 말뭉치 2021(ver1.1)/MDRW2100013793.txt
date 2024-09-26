@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 반가워요
+P0 	: 단무지없이 자장면 먹기 vs 김치없이 라면먹기 어떠세요?
+P1 	: 김치없이라면 먹기
+P0 	: ㅋㅋㅋ저도요ㅋㅋㅋㅋ
+P0 	: 저는원래 김치없이 라면을 먹거든요!
+P1 	: 재밋다요
+P1 	: 또또요
+P0 	: 호박고구마vs밤고구마는 어떠세요?
+P1 	: 밤고구마요
+P0 	: 저랑 반대시네요ㅎ
+P1 	: 약간 설잊은?
+P1 	: 맛을 좋아해요
+P1 	: 딱딱한거 좋아해요
+P1 	: 오늘 저녁 뭐먹을거에요?
+P0 	: 아직 고민중이랍니다!
+P0 	: 저녁뭐드시나요?
+P1 	: 술마시고싶은데  ....
+P1 	: 저녁때  보고요
+P1 	: 반주안주 생각중이요
+P0 	: 곱창어떤가요
+P0 	: 아님 닭발?
+P1 	: 둘다 너무 좋으다
+P1 	: 소주파? 맥주파?

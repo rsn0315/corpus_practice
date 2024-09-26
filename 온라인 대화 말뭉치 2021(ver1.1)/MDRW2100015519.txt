@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015519
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 당근 애용하세요?
+P1 	: 아니요!
+P1 	: 님은요?
+P0 	: 저는 가끔 중고물건 팔거나 나눔할 때 사용해요
+P0 	: 중고거래는 잘 안하세요?
+P1 	: 네네 거의 진짜가끔?
+P1 	: 아예안쓰는물건 팔때정도요ㅋㅋㅋ
+P0 	: 그러시구나
+P0 	: 쇼핑은 자주 하시는 편이세요?
+P1 	: 음
+P1 	: 거의 안하는편이죠ㅋㅋㅋ
+P1 	: 님은요?
+P0 	: 저도 잘 안해요
+P0 	: 생필품이나 인터넷으로 사는정도
+P0 	: 과일이나 식재료는 코스트코에서 사고
+P1 	: 코스트코세권이신가보네요?!
+P0 	: 차타고 20분정도 가야해요
+P0 	: 식재료나 생필품은 어떻게 구입하세요?
+P1 	: 주로 동네마트요ㅋㅋㅋ
+P1 	: 아님 쓱이요
+P0 	: 직접 장보는 편이세요?
+P1 	: 그쵸
+P1 	: 제가보죠ㅋㅋㅋ

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100001472
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P1 	: 안녕하세요!
+P1 	: 혹시 좋아하는 가수 있으신가용
+P0 	: 네, 참깨와솜사탕이라는 가수를 좋아해요.
+P1 	: 오
+P1 	: 인디가수인가요??
+P1 	: 처음 들어봐서..!
+P0 	: 네, 맞아요!
+P0 	: &name2&님은 어떤 가수를 좋아하시나요?
+P1 	: 오 혹시 노래 하나만 추천해주실 수 있으실까요!?
+P0 	: 아! 네! '사랑은 이때'입니다
+P1 	: 저는 태연이랑 롤러코스터요!
+P0 	: 아하~! 그렇군요
+P1 	: 오 ㅎㅎ 시간나면 꼭 들어볼게요
+P0 	: 네!
+P1 	: 참깨와솜사탕은 그룹인가요?
+P0 	: 네, 맞아요. 그룹입니다ㅎㅎ
+P1 	: 아하 ㅎㅎㅎ 아직 노래를 들어보진 않았지만
+P1 	: 되게 달달한 노래를 할 거 같은 느낌
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 맞아요ㅋㅋㅋㅋㅋ
+P1 	: 오!!! ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 잘 찍었네요 ㅎㅎ
+P0 	: 노래 장르가 되게 다양해요
+P1 	: 호오
+P1 	: 꼭 들어봐야겠다

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 날씨가 너무 이상하죠 요즘 ㅜㅜ 비가 너무 와요 ㅜㅜ
+P1 	: 맞아요 정작 장마때는 안오더니... 이제 태풍 계속 올라오면 비비비 겠죠ㅠ
+P0 	: 그니까요 ㅜㅜ 정말 너무우울하네요 해가 안나와서  ㅠㅠ
+P1 	: 이번에 계신곳도 비가 많이 내렸나요?
+P0 	: 네 너무많이 와요이번주 내내 예보는
+P1 	: 비비비죠? 따흑
+P0 	: 네 ㅜ 지구가 많이 힘든가봐요
+P1 	: 저희 어릴때랑 달리 기상이변이 자주 일어나는듯해요 지구 힘든거생각하니 빙하녹는게 떠오르네요ㅠ
+P0 	: 그러게요 아이들 불쌍해요 점점 ㅜ
+P1 	: 기상이변으로 모기도 전세계가 난리인데 점점 심해진데요
+P0 	: 와 ㅠ 정말 재난상황 같아요 ㅠ 점점 심각 ㅜㅜ
+P1 	: 이번주 내내 비라서 놀이터도 못가고 아쉽네요
+P0 	: 그러게요 아이 미치려하는 ㅜ 덩달아 저도 ㅜ

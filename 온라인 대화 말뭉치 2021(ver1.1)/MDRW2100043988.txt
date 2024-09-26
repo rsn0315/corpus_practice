@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043988
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 좋아하는카페 있으세요?
+P1 	: 네~투썸이요
+P0 	: 아하 거기서 뭘 자주 마시세요?
+P1 	: 전아아랑케이크요
+P0 	: 스초생 케이크 유명하더라구요
+P0 	: 맛있기도하구
+P1 	: 맛있어요그거
+P0 	: :)
+P0 	: 또 맛난거 있나요?
+P1 	: 음 티라미수요!
+P0 	: 아하 촉촉할것같네요
+P1 	: 맛있어요~~
+P0 	: 전 작은카페들이 좋더라구요 요즘 코시국이라 자주 못가지만
+P1 	: 아하
+P1 	: 저도좋아해요

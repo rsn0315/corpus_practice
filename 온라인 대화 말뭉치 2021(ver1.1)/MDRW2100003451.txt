@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 내일부터 가을장마라는데 들으셨어요?
+P1 	: 네, 주말부터,다음주(몇일)까지는 계속온다네요
+P0 	: 어느 계절이 제일 좋으세요?
+P1 	: 가을요~
+P0 	: 올림픽도 이제끝났는데
+P0 	: 겨울되면 또 열리겠네요
+P1 	: 아,그렇더라고요ㅎ
+P0 	: 태풍도 올해는 없었네요
+P1 	: 오~ 없는편이 피해도 적고 좋네요
+P1 	: 빨래 건조기 자주쓰겠어요ㅎㅎ
+P0 	: 지구온난화에 대해 어떻게 생각하세요?
+P1 	: 흠 정점 더 싱해질거같아요
+P0 	: 거기는 겨울에 눈 많이와요?
+P1 	: 작년에 겨울초에는 적당히 내리다가 많이 자주보더라고요
+P0 	: 저희쪽은 눈 엄청 안내리는데 많이내리는거 구경 해보고싶네요
+P1 	: 나중에 겨울여행 가보세요~~

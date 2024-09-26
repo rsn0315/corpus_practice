@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002248
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 온라인쇼핑 자주 하시나요?
+P1 	: 네 온라인쇼핑이 편리해서 자주해요
+P1 	: &name1&은요?
+P0 	: 저도요 좀 이따 어묵살려고 포인트도 전환했어요ㅎㅎ
+P1 	: 우와 어묵 맛잇겠어요
+P1 	: 어떤 포인트 전환했어요?
+P0 	: 아 저는 OK캐시백이요 SK스토아에서 살거라서요
+P1 	: 아 저도 거기 자주 이용해요 ㅋㅋ ㅋ ok캐시백응 은근 쇼핑 할때 좋더라구요
+P0 	: 네 저 컵라면 자주 사요 ㅋㅋ
+P0 	: 컵라면이랑 커피는 OK캐시백이 적립을 많이 해주는것 같아요. 자주 이용하게 되고요
+P1 	: 아 커피 뚜껑에 오케이캐시백 포인트 말씀하는거죠??!
+P1 	: 저도 이번에 또 사야하는데 ㅎ
+P0 	: 커피 포인트 은근 요긴하죠 한때는 시리얼로도 포인트 모았는데. 지금 페이백 있는거 같더라고요 확인해보고 구매하세요
+P1 	: 오 잘 보고 구매해야겠어요 !! 좋은 정보네요
+P1 	: 최근에 구매하신 물품은 있나요?
+P0 	: 최근에 소화효소 구매했어요. 부모님 드릴려고요 아직 후기를 못 들었지만 평이 좋고, 맛이 고소하다 해서 괜찮을 것 같아요
+P1 	: 우와 소화효소라니 저도 구매하고 싶어요!!!
+P1 	: 괜찮은 거 같아요
+P0 	: 저는 밸런스킨에서 나온거 구매했는데 리뷰 보니 올영에서 파는 소화효소도 좋은가봐요~
+P1 	: 오 올리브영 가까우니까 가서 한번 찾아봐야겠어요

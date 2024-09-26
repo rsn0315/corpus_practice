@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100022131
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침식사는 하셨나용?
+P1 	: 아침먹었어요 ㅡㅎㅎ
+P1 	: 김치찌개에다가밥말아먹었네요ㅎㅎ
+P1 	: 뭐드셨어요?
+P0 	: 저는 된장찌개해서 먹었어요:)
+P1 	: 오오ㅎ 점심은요?
+P0 	: 점심은 아이가 생선 먹고싶다해서
+	  굴ㅂㅣ 구워먹었어요^^
+P0 	: &name2&님은요?
+P1 	: 오오ㅎ 점심은저 그냥 패쓰했어요ㅎㅎ
+P1 	: 저녁은드셨어요?ㅎ
+P0 	: 저는 치킨 시켰어요:)
+P0 	: &name2&님은 점심 왜 안드셨어용
+P1 	: 우와우와ㅠ
+P1 	: 다이어트 중이에요ㅠ 생각보다 많이 쪘더라구요ㅠㅠ
+P0 	: 아항ㅠ 그럼 다이어트
+	  식단으로라도 드시쥬 ㅠ
+P1 	: ㅎㅎㅎ 괜찮아요ㅎ
+P1 	: 다이어트한다고 밥은안먹고 지금 계속 믹스커피마시는중입니다ㅠ
+P1 	: 믹스커피가 칼로리가 50인데ㅎ 그러면 오늘 전 저녁을 다먹었네요ㅎㅎㅎㄹㄹㄹ
+P0 	: 와 믹스커피 칼로리가
+	  50이나 되나요? ㄷㄷ
+P1 	: 네네ㅎㅎ 그냥 볼께 아니에요ㅎㅎ
+P1 	: 그냥 먹으면 완전 낭패봐요ㅎ
+P0 	: 감히 믹스커피따위가
+	  어마무시한 칼로리를ㅋㅋ
+P1 	: 그따위가 나를 살찌게 하더라구요ㅎㅎㅎ
+P1 	: 감히ㅎㅎㅎ
+P1 	: 근데 일하면서 주섬주섬 안먹으면 당떨어져서ㅠ

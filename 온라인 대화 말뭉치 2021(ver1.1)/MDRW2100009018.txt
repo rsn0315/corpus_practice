@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100009018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요 저녁드셨나요
+P1 	: 저는 우동먹었어요
+P1 	: 컵라면인데 우동사리로 되어있고 맛있어요 ㅎㅎ
+P0 	: 아 생생우동같은건가요? ㅎㅎ 저는 떡볶이 먹었어요
+P1 	: 네 맞아요!!!
+P1 	: 어디 떡볶이 드셨나요? 아니면 직접 만들어드셨나용?
+P0 	: 아 저 신전 포장해왔어요ㅎㅎ
+P1 	: 헉 신전 맛있죠!!! 그냥 떡볶이 드셨나요 아니면 로제떡볶이 드셨나요?
+P0 	: 저는 그냥이여ㅎㅎ 신전은 그냥이 맛있더라구요ㅎㅎ
+P1 	: 저는 신전로제 안먹어봐서 궁금하네요
+P1 	: 삼첩이랑 배떡 먹어봤는데 삼첩은 생각보다 넘 별로였어요ㅠ
+P0 	: 아 저도 그래요 배떡에 제일 맛있더라구요
+P1 	: 요즘 떡볶이가 다 1~2인분씩 팔아서 시켜먹기 부담스러워졌어요ㅜㅜ
+P1 	: 떡볶이 하나만 시키자니 아쉽고
+P0 	: 네 저도 그래서 포장해왔어요ㅋㅋ너무 많은건 싫어서..
+P1 	: 혹시 공차 좋아하세요?
+P0 	: 네 자주먹어요ㅎㅎ 좋아하세요?
+P1 	: 저도 좋아해요!! 어떤거 제일 좋아하시나요?
+P0 	: 타로가 제일 좋아요ㅋㅋ

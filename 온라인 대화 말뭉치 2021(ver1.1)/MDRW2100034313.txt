@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 잘 만드시는 메뉴 있으신가요?
+P1 	: 집에서 요리는 잘하진 않는데
+P1 	: 최근엔 코울슬로 만들어 먹었고
+P1 	: 내일 베이킹 원데이 클래스 신청해서 가보려고요ㅎㅎ
+P0 	: 코울슬로는 한 번도 안 해 봤어요. 만들기 쉽나요?
+P0 	: 원데이클래스 저도 한 번 가보고 싶어요. 뭐 만드세요?
+P1 	: 코울슬로는 양배추 써는 게 제일 힘들고
+P1 	: 나머지는 섞기만 하면 돼서 어렵진 않아요
+P1 	: 내일 베이킹 클래스는 파운드케이크요ㅎㅎ
+P0 	: 저도 한 번 해봐야겠어요. 마침 양배추 있는데
+P1 	: 네 저도 양배추 소비하려고 만들기 시작했어요. 코울슬로
+P0 	: 양배추 한 번 사면 은근히 양이 많아서 열심히 먹어야 하더라구요
+P1 	: 네 저도 볶아먹고 오코노미야끼도 해먹다가
+P1 	: 코울슬로까지 왔어요
+P0 	: ㅋㅋ 저도 순대볶음, 오꼬노미야끼, 양배추 스테이크도 해봤어요
+P1 	: 양배추스테이크요?
+P1 	: 처음 들어보는 메뉴예요
+P0 	: 그냥 양배추를 스테이크 고기처럼 썰어서 간하고 치즈 올려 굽는 요리에요ㅋㅋ 나름 맛있어요
+P1 	: 오 설명만 들어도 군침 도는 메뉴네요
+P0 	: 슬라이스치즈에 파마산 치즈 가루까지 뿌리면 맛있어요ㅋㅋ

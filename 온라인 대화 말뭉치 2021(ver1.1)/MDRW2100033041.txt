@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100033041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 대상포진은 주의해야할 음식 있나요?
+P1 	: 먹는 것과는 상관이 없고
+P1 	: 면역력만 관리 잘하면 됩니다
+P1 	: 통풍은 고기를 조심해야 한다고 들었어요
+P1 	: 맞습니까?
+P0 	: 네 소고기 해산물 이런 거 안좋아요
+P1 	: 다 제가 좋아하는 것들이네요
+P1 	: 통풍 안걸리게 조심해야겠어요
+P1 	: 삼비마님도 대상포진 조심하세요
+P1 	: 먹는거와는 상관없지만  삶의 질이 떨어지네요
+P0 	: 네 통풍도 질 엄청 떨어져요 맛있는걸 못 먹어요ㅜㅜ
+P1 	: 그렇군요
+P1 	: 특히 좋아했던 음식이면 더 그렇겠습니다
+P0 	: 네 그런것들을 엄청 먹어서 걸린 거 같기도해요ㅜㅜ
+P1 	: 그런가요?
+P1 	: 저도 조심해야겠네요
+P1 	: 방금 저녁도 생선요리 먹었는데
+P0 	: 생선은 괜찮죠ㅋ 일찍퇴근하셨네요ㅋ
+P1 	: 저는 은퇴자라 집에 있답니다
+P0 	: 헛... 그러시군요! 죄송합니다ㅜ
+P1 	: 죄송할께 무엇이 있을까요
+P1 	: 괜찮습니다
+P1 	: 은퇴할 나이이지요
+P0 	: 아 그러시군요...

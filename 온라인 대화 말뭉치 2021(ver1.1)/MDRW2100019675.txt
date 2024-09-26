@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100019675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어디로 가고 싶으세요?
+P1 	: 제주?
+P1 	: 동해?
+P0 	: 바다 좋아하시나 봐요
+P1 	: 파란 바다가 보고 싶어여ㅋㅋㅋ
+P1 	: 남해 시커먼거 말고ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ 동해가 파랗긴 해요
+P1 	: 그래서 더 보고싶은거 같아요ㅋㅋㅋㅋ
+P0 	: 바다가 푸르지 않으면 의미가 없죠ㅋㅋ
+P1 	: 수영은 못하지만ㅋㅋㅋㅋㅋㅋ
+P1 	: 보는 것만으로도 맘이 뻥 뚤리는거 같아요ㅎ
+P0 	: 저도 수영 못해요ㅋㅋ
+P1 	: 이시국이라서 더 여행이 가고 싶은거같아요ㅋㅋㅋㅋ
+P1 	: 원래 여행 별로 안좋아힜는데ㅋㅋ
+P0 	: 저도 여행을 좋아하진 않아요
+P0 	: 막상 갔다오면 힘들고 지쳐서ㅋㅋ
+P1 	: 맞아요ㅜ
+P1 	: 힐링인지는 정말 알다가도 모를ㅋㅋ
+P0 	: 한참 후에 사진을 봐야지 좋았다는 생각이 들더라구요
+P1 	: 여행가면 기념품 같은건 사는 편이신가여?
+P0 	: 잘 안사요... 너무 비싸기도 하구요...
+P0 	: 친구들이랑 우정으로 남기는 거 아니면 아까워요
+P1 	: 기념품 많이 비싸져ㅋㅋㅋ
+P1 	: 저도 잘 안사게 되는거 같아요ㅎㅎ
+P1 	: 저도 기념품은 잘 안사는거 같아요ㅋㅋ
+P1 	: 실용적이지 못해서ㅎ

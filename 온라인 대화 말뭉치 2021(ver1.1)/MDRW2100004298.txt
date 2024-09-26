@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100004298
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 반려동물을 키우고 계신가요?
+P1 	: 안녕하세요 &name1&님
+P1 	: 반려동물은 안 키우고 아들 키우고 있습니다
+P1 	: &name1&님은 반려동물 키우세요??
+P1 	: 고양이?? 강아지??
+P0 	: 아 그러시구나
+P0 	: 저도 반려동물 키우고 싶다는 생각만 하고
+P0 	: 아직 실행에 옮기진 못했어요
+P0 	: 만약 반려동물을 키운다면 어떤 동물을 키우고 싶으세요?
+P1 	: 고양이요^^
+P1 	: 요즘 너튜브에 고양이 올라오는거 보니 키우고 싶네요 ㅎㅎ
+P0 	: 앗, 저도요!
+P0 	: 너튜브 영상으로 대리만족
+P1 	: ㅋㅋ맞아요
+P1 	: 자꾸 찾아보게 되요 ㅎㅎ
+P0 	: 네 보다보면 끝이 없어요ㅎㅎ
+P1 	: 나중에 고양이 키우시게 되면  생각해 둔 이름 있나요??
+P0 	: 음.. 아직 거기까진 생각해보지 않았어요
+P0 	: &name2&님은요?
+P1 	: 치즈요~~ ㅋㅋ
+P0 	: 귀여운 이름이네요
+P0 	: 
+P0 	: 생각해두신 종도 있나요?
+P1 	: 먼치킨이라는 고양이요
+P1 	: 다리가 잛아서 걸어 올때 너무 귀여워요
+P0 	: 아 제 친구가 먼치킨 키우는데
+P0 	: 사진으로 몇번 봤는데 귀엽더라고요!!

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010065
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트 경험 있으신가요?
+P1 	: 아니요ㅠ살은빼야 하는데ㅋㅋㅋ생각만해요
+P0 	: 저는 먹는거 엄청 좋아하거든요 ㅠ 다이어트가 불가능해여 ㅠ
+P1 	: 저도요~ 코로나때문에 집에만 있으니 더더쪄요
+P0 	: 맞아요 간식드시나요? 저는 간식을 좋아해요
+P1 	: 저도 주전부리..그래서 살이..ㅠ
+P0 	: 저 방금도 티비보면서 계속..과자..견과류 먹었어요 다이어트는 정말 어려워요
+P1 	: 저두요 운동도 안하고ㅋㅋㅋ
+P0 	: 그럼 건강을 위해 챙기시는 습관 있으신가요?
+P1 	: 따로없는것 같아요ㅋㅋ이러다가 일찍 죽는거 아닌가모르겠네요ㅠㅋㅋ
+P0 	: 어머..영양제도 안챙겨드시나요 ㅠㅠ
+P1 	: 유산균만요ㅠ
+P0 	: 유산균은 어디것 드세요?
+P1 	: 저는 약국에서 산것 먹어요
+	  더팜

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 대화평가 두번 세번씩 내는거 짜증나네
+P0 	: 그거 혹시 다른사람한테 대화오세요?
+P1 	: 아뇨 저 계속 여기만 보고 있어요
+P1 	: 저 지금 참치뽈찜 냄비에 넣고 와도 돼요?
+P0 	: 왜그러지.. 저 일부러 제출할 때 까지 대화안하거든요
+P0 	: 네 그러세요
+P1 	: 님은 점심 뭐 먹는댔죠?
+P0 	: 빵이요
+P1 	: 빵 먹으면 금방 배고파지진 않아요?
+P0 	: 요즘엔 빵이 워낙잘나와서
+P0 	: 그러지는 않아요
+P1 	: 오 그래요? 무슨빵 드시려구요
+P0 	: 빵 좋아하시나요
+P1 	: 저 할인해줄 때만 빵 좋아해요
+P0 	: 저 소시지빵이랑 뀐아망이라고 페스츄리요
+P0 	: 요기요 파바할인 보셨나요
+P1 	: 아 ㅋㅋ 맛있겠네요
+P0 	: 그거해서 사온거에요
+P1 	: 네 ㅋㅋ 요기요 파바할인으로 저렴하게 잘먹었어요
+P1 	: 두번이나 사먹었어요

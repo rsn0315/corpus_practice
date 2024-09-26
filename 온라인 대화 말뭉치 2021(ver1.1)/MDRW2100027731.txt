@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100027731
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 요즘 날씨가 쌀쌀해요
+P1 	: 맞아요
+P0 	: 벌써 가을이네용
+P1 	: 아직은..
+P0 	: 금방이지만요ㅋㅋ
+P1 	: 님
+P1 	: ENTP이신가요?
+P0 	: 맞춰보세용
+P1 	: enfp?
+P0 	: 비슷해여
+P1 	: enfj
+P1 	: infp
+P0 	: 인프피 정답
+P1 	: 아 ㅋㅋㅋ

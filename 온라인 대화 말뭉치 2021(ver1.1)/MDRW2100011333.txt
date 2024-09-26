@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011333
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 곧 점심 시간인데 뭘 드실 건가요?
+P1 	: 백반 먹으려구요
+P0 	: 백반 맛있죠~ 저는 닭요리를 먹고 있어요
+P1 	: 맛있겠네요. 어떤 요리요?
+P0 	: 오븐에 구운 닭인데 집에서 만들었어요!
+P1 	: 와 요리를 잘하시나 봐요
+P0 	: 아뇨 그냥 유튜브 보고 레시피 따라하는 거 밖에 안되는데요 뭘...ㅎㅎ
+P0 	: 밤새 님은 요리 잘하시나요?
+P1 	: 아니요 라면을 제일 잘 끓이죠ㅋㅋ
+P1 	: 배달도 자주 먹구요
+P0 	: 배달은 뭘 제일 자주 시키시나요??
+P1 	: 떡볶이요. 피자도 자주 먹는거 같아요
+P0 	: 오 떡볶이는 무슨 브랜드 좋아하세요?
+P1 	: 걸작떡볶이요. 튀김도 맛있더라구요
+P0 	: 오 나중에 먹어보고 싶네요!

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034237
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 프로그램 있나요?
+P0 	: 티비는 잘 안 보고 유튜브만 좀 봐요!
+P0 	: &name2& 님은 좋아하는 프로그램 있으세요?
+P1 	: 저는 꼬꼬무나 무도 좋아해요 !
+P0 	: 아 저도 꼬꼬무는 유튜브 클립으로 자주 봐요!
+P1 	: 재밌지않나요 ㅎㅎㅎ
+P0 	: 친구가 말해주는 듯한 특유의 분위기도 좋고 내용도 흥미로워요!
+P1 	: 맞아요 ! 더 이해가 잘되고
+P1 	: 게스트들 반응도 좋아서 ㅋㅋ
+P0 	: 게스트 반응 완전 제 반응! 같이 놀라고 화내고ㅋㅋㅋ
+P1 	: 맞아요 ㅋㅋㅋ 가끔 웃기기도 하지않나욬ㅋ
+P0 	: 맞아요ㅋㅋㅋㅋㅋ
+P0 	: 어떤 편 제일 재밌게 보셨어요?
+P1 	: 전 이태원 살인사건도 기억에 많이 남구요
+P1 	: 그그 오대양도 재밌게봤어요
+P0 	: 헉 저도 오대양 기억에 남아요... 너무 충격적이었어요
+P1 	: 맞죠 ㅜㅜ 저는 그 사건 아예 몰랐었는데
+P1 	: 충격이였어요!

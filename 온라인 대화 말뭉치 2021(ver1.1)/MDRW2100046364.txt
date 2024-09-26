@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: ?
+P1 	: 안녕하세요~! 요즘 재밌게 본 영화나 드라마 있으신가요?
+P0 	: 네
+P0 	: 마이네임이요
+P1 	: 와 한소희나오는 넷플 드라마 맞나요?
+P0 	: 네
+P1 	: 어떻게 보게되신건가요?
+P0 	: 넷플릭스추천이요
+P1 	: 평소에도 넷플릭스를 자주 보시나요?
+P0 	: 네 자주봅니다
+P0 	: 특히주말에 자주들어가는것같아요
+P1 	: 오 마이네임 말고 다른 드라마 보신 것 중에 추천 하나만 해주실래요?
+P0 	: 오징어게임이요
+P1 	: 요즘 제일 핫단 넷플 드라마네요 ㅋㅋ 다 보셨나요
+P0 	: 네
+P1 	: 스릴러 종류 좋아하시나봐요
+P0 	: 장르를 가리진않습니다
+P1 	: 그러시군요. 넷플은 여러 장르 콘텐츠를 제공해줘서 고를 수 있는게 좋은 것 같아요

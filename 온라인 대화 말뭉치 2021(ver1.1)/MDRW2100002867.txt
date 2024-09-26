@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002867
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 어떤거 드신다고 하셨죠?
+P0 	: 집밥이요ㅎ 동그랑땡굽고
+P0 	: 찌개나국을 하나 끓여야할텐데.. ㅋㅋㅋㄱ
+P1 	: 아~~동그랑땡!!맛나겠어요
+P1 	: 미역국?
+P0 	: 아~ 고기가없어요.ㅠ 냉장고좀 나중에 뒤적뒤적 해봐야겠어요ㅠ
+P1 	: 애들 있어서 맑은 국을 주로 하실것 같아요
+P0 	: 근데 첫째는 매운것도 잘먹고ㅎㅎ 둘째는국을 싫어라해서ㅠㅠ
+P1 	: 아~~그럼 아무 국이나 해도 되겠어요
+P0 	: 네ㅋㅋ 냉장고에서 시들어가는 콩나물을 살려줘야 하는데
+P1 	: 그럼 콩나물국?
+P0 	: 그래야겠어요 오징어넣고ㅎㅎ
+P1 	: 굿굿 ~~맛나겠어요
+P1 	: 콩나물 다듬어서 국 끓이시나요?
+P0 	: ㅎㅎ 전 그냥 끓여요
+P0 	: 씻기만

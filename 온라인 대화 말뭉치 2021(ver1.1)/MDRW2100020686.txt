@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020686
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 벼룩시장에서 팔 물건 가져오래?
+P0 	: ㅇㅇ 내가 잔뜩 챙겨놓긴 했어 ㅎㅎ
+P1 	: 스크레치가 1등 아니야?
+P0 	: ㅋㅋㅋ 어떻게 알았대?
+P1 	: 애들은 좋아하지만 엄마가 제일 싫어하는 1위 ㅎㅎ
+P0 	: 리코더도 넘쳐 나
+P1 	: ㅎㅎ 벼룩시장에 다 내면 되겠네
+P0 	: 벼룩시장 하려면 등교수업을 해야 할텐데 가능할지
+P1 	: 뭔가 계획이 있으니 말씀하셨겠지
+P0 	: 그런가? ㅎㅎ
+P1 	: 애들은 재미있어하겠네
+P0 	: 부디 꼭 열릴 수 있길.. 우리 아들도 엄청 즐거워할듯
+P1 	: 이런 수업도 할 수 있을지 걱정해야 한다는 게 슬프네
+P0 	: 그러게 말야 ㅠ

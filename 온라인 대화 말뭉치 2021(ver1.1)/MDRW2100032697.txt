@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100032697
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 결혼 안했습니다
+P0 	: 커플링하셨어요?
+P1 	: 남친 부모님이 저를 만나고 싶어하시네요
+P1 	: 아뇨 안했어요
+P0 	: 와우
+P0 	: 빠르시네요
+P1 	: 근데 저는 싫어요
+P0 	: 그래서요?
+P0 	: 왜요?
+P1 	: 부담스럽자나요 만나면 결혼해야 할거 같고
+P0 	: 그래서 뭐라고 했어요?
+P0 	: 재밌네요
+P1 	: 재밌어요?
+P0 	: 남 연애야기 좋아해요
+P0 	: 남친이 뭐래요?
+P1 	: 그래서 아무 말도 안하고 있었더니
+P0 	: 네
+P1 	: 자기도 내가 부담스러울까봐
+P0 	: 네네
+P1 	: 당황하고 있던 차에
+P0 	: 그래서요?

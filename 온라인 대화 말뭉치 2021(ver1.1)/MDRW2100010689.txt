@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010689
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 봉사활동 하신 적 있으신가요?
+P1 	: 안녕하세요 청소년센터에서 봉사활동 해봤습니다. &name1&님은요?
+P0 	: 저는 과학관 특별전 교육 봉사를 해봤어요
+P1 	: 어떤 봉사인가요?
+P0 	: 부스 체험 마다 과학이론이 있는데 그런 이론들을 알려주는 봉사활동이었어요
+P1 	: 저는 지역 관할 청소년센터에서 검정고시를 가르치는 봉사를 했어요
+P0 	: 와 엄청 보람찬 일이었겠네요!
+P1 	: 네 뿌듯하더라고요
+P0 	: 그 친구들은 검정고시 쳐서 합격 했다고 하던가요?
+P1 	: 모두 합격했어요
+P0 	: 와 더 뿌듯하셨겠어요! 그런 봉사활동은 어디에서 구하셨나요?
+P1 	: 시청 홈페이지에서 매년 공지하더라고요~
+P0 	: 저도 해보고 싶네요!

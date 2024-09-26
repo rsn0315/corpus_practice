@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100045827
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 회사 도착했나요?
+P0 	: 아니요 아직이요
+P1 	: 출근 얼마나 걸려요
+P0 	: 경우에 따라 달라요
+P1 	: 평균적으로
+P0 	: 한 3 40분
+P1 	: 생각보다 가깝네요
+P0 	: 네 멀지 않아 다행이에요
+P1 	: 걸어 다니나요 차 타나요
+P0 	: 대중교통 이용해요
+P1 	: 출근길에 많이 막히죠
+P0 	: 적응되니 괜찮더라고요
+P1 	: 회사 도착하면 제일 먼저 뭘 해요
+P0 	: 그냥 불 켜고 자리 정돈하고 방역
+P1 	: 아 소독은 직접 해요
+P0 	: 아 그런 건 아니고 그냥 소독티슈로 자리를 닦아요

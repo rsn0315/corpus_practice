@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001020
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑좋아하셔요?
+P0 	: 저 인터넷쇼핑은 좋아해요
+P0 	: &name2&님은요?
+P1 	: 저두요!!
+P0 	: 밖에서 쇼핑하는건 금방 지치게되더라구여 ㅋㅋㅋ
+P0 	: 인터넷쇼핑은 주로 어떤거사시나여
+P1 	: 동감입니다ㅋㅋ 신선식품빼고는 거의 인터넷으로 사는것 같아요
+P0 	: 맞아요 웬만한건 진짜 다 인터넷으로 시켜요 ㅋㅋ
+P0 	: 인쇼로 실패해본 경험있으신가요?
+P1 	: 옷은. ㅠㅠ 잘안사게되더라구요ㅡㅠㅠ
+P1 	: 생각했던게 아닌적이 많았어여ㅠ
+P0 	: 아 맞아요 원했던 색상도아닌 이상한색 오고
+P0 	: 사이즈도 미스일때많구여ㅜ
+P1 	: 맞아요ㅠㅠ사이즈가 젤 난감
+P0 	: 요즘 사이즈가 무슨 사이트마다 다른지 똑같은사이즈여도 다다르게오더라구여 ㅋㅋ...ㅜ
+P1 	: 아 맞아요 딸아이 신발이 ㅠㅠ그랬어요 얼마전ㅠ
+P0 	: 신발은진짜 사이즈중요한데 교환하셨나요?
+P1 	: ㅠ다행히 큰거라 그냥 다음에 신는걸로..ㅋ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100043536
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요?
+P1 	: 자주 하진 않는데 최근엔 컴퓨터랑 옷 등 여러 개 샀어요
+P0 	: 컴퓨터면 돈 많이 나가셨겠어요
+P1 	: 듀얼모니터에 본체까지 80만원 정도요 ㅎㅎ
+P0 	: 우와 듀얼모니터 듀얼로 쓰면 훨씬 좋은가요?
+P1 	: 아무래도 화면이 넓어서 문서작업할 때 편하더라구요
+P0 	: 오 그렇겠어요. 집에서도 문서작업 많이 하시나봐요
+P1 	: 저 프리랜서라 재택이거든요ㅎㅎ
+P0 	: 앗 그러시군요!
+P0 	: 옷은 인터넷 쇼핑하셨나요?
+P1 	: 아니요, 탑텐 오프라인 매장이었어요
+P1 	: 카카오 콜라보 티셔츠ㅋㅋㅋ
+P0 	: 카카오 콜라보도 했어요? 와 몰랐어요
+P1 	: 그렇더라구요ㅋㅋㅋ 라이언 티 두장 질렀어요 짱귀
+P0 	: 라이언 귀여웠겠다! 요즘 밖에 잘 안 돌아다녀서 소식이 늦네요
+P1 	: ㅎㅎㅎ
+	  &name1&님은 지르신 거 있으세요??
+P0 	: 저는 곧 지를 거 있어요
+P0 	: 옷 사려고요
+P1 	: 오, 가을맞이인가요??
+P0 	: 곧 친구 결혼식이 있어서요ㅋㅋㅋㅋ
+P1 	: 오, 예쁘게 입고 가야겠네요!!
+P0 	: 네 그래서 인터넷 쇼핑몰 뒤적거리고 있어요
+P0 	: 친구들 중에 첫 결혼식이라 잘 가늠이 안되여

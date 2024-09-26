@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100025133
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 넵 ㅋㅋㅋ 고양이 키웁니다 &name2&은요?
+P0 	: 저는 아직이요
+P1 	: 오 키우실 생각은 있으신가요??
+P0 	: 네 여건만 되면
+P1 	: 여건되시면 어떤 동물을 키우고 싶으신가요 ??
+P0 	: 강아지오
+P1 	: 강아지 귀엽죠 ㅠㅠ 알러지는 없으신가요?
+P0 	: 내 없는듯
+P1 	: 제가 아는 분은 있어도 약먹으면서 키우더라구요 ㅎㅎ
+P0 	: 그렇게까지
+P0 	: 힘들겠네요
+P1 	: 그러게요 저도 비염있는데 괴로운데ㅎㅎ
+P0 	: 악조건이네여

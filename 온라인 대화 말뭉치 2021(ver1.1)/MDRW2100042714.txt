@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100042714
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그래서 지금 나와서 버스타러 가는 중이어요
+P0 	: 버스 어제만큼 막힐거 같은데
+P1 	: 그럼 중간에 지하철로 또 갈아타야지
+P1 	: 비오니까 넘 추워
+P0 	: 겉옷을 챙겨가
+P1 	: 그래서 오늘 맨투맨입고 가려구
+P1 	: 학원도 에어컨이 너무 빵빵해서 추워
+P0 	: 에어컨 꺼달라고하지
+P1 	: 나만 추운거일수도 있자나
+P1 	: 내가 추위를 많이 타니까?!
+P1 	: 그래서 말안했지
+P0 	: 그러면 두꺼운 담요라도 챙겨야겠네
+P1 	: 오늘도 추우면 그래야겠어
+P0 	: 오늘은 어땠어
+P1 	: 오늘도 엄청 추웠어
+P0 	: 내일 더 두꺼운 옷입어야겠네
+P1 	: 무릎담요 챙기려구

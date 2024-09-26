@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003720
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는 장건강이 안좋은것 같아요
+P1 	: 유산균 드시는 거 있으세요?
+P0 	: 네~매일 아침 챙겨먹고 있어요
+P1 	: 청국장가루도 좋다고 하더라구요
+	  그거 외에도 비타민, 루테인 이런 것들도 저는 챙겨 먹고 있어요
+P0 	: 아 청국장가루도 챙겨먹어야 겠어요
+P1 	: 요즘은 그런 것들이 잘 나오더라구요
+P0 	: 저는 라면 먹으면 설사를해요ㅠㅠ
+P1 	: 아 장이 안좋으신가봐요 ㅠㅠ
+	  저희 남편은 고기랑 매운거 먹으면 바로 설사하더라구요
+	  한의원가니 몸에서 안 받는거라고 하더라구요 ㅠㅠ
+P0 	: 원래는 안 그랬는데 장 수술 한번 했더니 그래요ㅠ
+P1 	: 헉,,, 큰수술 하신건가요? 
+	  지금은 괜찮으세요?
+P0 	: 네~용종같은거 떼어 내는것 한건데 괜히 한것 같아요
+P1 	: 아 용종도 크기가 점점 커지는 거라면 떼어내는 게 맞다고 하더라구요 ㅠㅠ
+P0 	: 근데 그 이후에 설사를 너무 자주해요ㅠ

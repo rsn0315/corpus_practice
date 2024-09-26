@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100041046
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뱃살이 있어서 빼고 싶은데 쉽지않아요
+P0 	: 운동하고 계신가요?
+P1 	: 달리기 하고 있어요!
+P0 	: 오 저도 좀 뛰고 싶은데 무릎이 아파서 걷기만 해요
+P1 	: 맞아요 다리가 아프기도 해요 ㅋㅋ
+P1 	: 근데 그래도 참고 했다가 요즘 다리가 아파서 쉬고 있어요 ㅠㅋㅋ
+P0 	: 무릎보호대 쓰니까 좀 나은 것도 같고..
+P1 	: ㅠ 나이대가 어떻게 돼요? 전 20대인데도 무릎이 좀 아프더라고요
+P0 	: 전 20대 후반에 다쳤는데 한 번 다치니까 자꾸 아프네요ㅠ
+P1 	: 다친게 계속 가는거군요...
+P1 	: 전 다치지도 않았는데 고등학교때부터 무릎이 자주 아프더라고요?
+P0 	: 저도 어릴 때부터 힘들어하긴했어요ㅎㅎ 계속 관리하면서 살아야죠ㅠ
+P1 	: &name1&님도요? ㅠㅠ 왜 그럴까요 다친 것도 아닌데말이에요
+P0 	: 전 그냥 타고나길 부실한 것 같아요 ㅋㅋㅠ 슬슬 운동하며 메꿔야죠
+P1 	: 흑흑 건강이 최고인 것 같아요
+P1 	: 무릎에 무리안가는 운동하니 수영이 생각나네요
+P0 	: 몸치라 수영도 안 되고 자전거도 안 되고 어렵네요ㅋㅋㅠ

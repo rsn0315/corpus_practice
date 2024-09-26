@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100003415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주말엔 쉬시지요?
+P1 	: 네네 주5일 근무요
+P1 	: 생태씨는요?
+P0 	: 네 주5일이라 주말에 폰도 안하고 놀았네요ㅎㅎ
+P1 	: 저도 주말내내 톡만
+P0 	: 월요일 출근 힘드셨지요?
+P1 	: 네 오늘 반차쓸뻔했어요
+P1 	: 늦게인나서ㅋ
+P1 	: 출근하셨어요?
+P0 	: ㅋㅋㅋㅋ 와 반차유혹 뿌리치기 힘든데ㅋㅋ
+P1 	: 좀만늦었음 쓸뻔했는데 후딱준비하고 지각은안해서요ㅎㅎ
+P1 	: 생태씨는 무슨일 하세요?
+P0 	: 전 연구관련 일이에요ㅎㅎ
+P0 	: 카롱씨는요?
+P1 	: 오 좋은일하시네요 전 원자력관련일
+P0 	: 우와 아주 중요한 일을 하시네요.
+P0 	: 그런데 정책에 영향을 많이 받으시겠어요ㅜㄴ
+P1 	: 네 사장님이 그래서 맨날 욕해요ㅎㅎ
+P1 	: 큰회사는아니고 작은회산데 타격이 크죠
+P1 	: 무슨연구 하시나요?
+P0 	: 저는 독서교육이요ㅎㅎ
+P0 	: 정작 책은 많이 안 읽으면서ㅎㅎ
+P1 	: 독서교육  특이하네요ㅎ 그런연구하는곳도 있다니
+P1 	: 주로 독서교육이면 어떤연구인가요?
+P1 	: 어케하면 책을 더많이 읽게하나 그런건가요ㅎ

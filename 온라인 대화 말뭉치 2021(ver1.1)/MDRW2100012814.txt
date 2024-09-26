@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^
+P0 	: 요즘 매일 비가오는데 비피해는 없으신가요?
+P1 	: 네 피해는 없었어요 &name1&님은 괜찮으세요?
+P0 	: 네네 저는 집콕 하고있어요ㅎㅎ
+P1 	: 지금은 다 창원이긴 한데
+P1 	: 마산 아세요?
+P1 	: 예전에 태풍 매미때 정전되고 사람죽고 등등 피해입은 적이 있거든요
+P1 	: 그래서그런지 태풍온다 하면 긴장되긴해요
+P0 	: 헉 무섭네요ㅜㅜ 마산들어봤어요!
+	  매미때 역대급이었죠 ㅜㅜ
+	  그때 학교 휴강하고 나무뽑히고 그랬던 기억있어요
+P1 	: 네 그때 저희아파트 지하주차장에서 사람 죽었어요
+P1 	: 물이 찼는데 차 빼려다 돌아가셨대요
+P0 	: 어떡해요 정말재난이었네요ㅜㅜ
+P0 	: 이번엔 피해없었으면 좋겠어요ㅜㅜ
+P1 	: 네 ㅠㅠ 태풍이 지나간거 맞나요?
+P1 	: 아직 안왔나요? 혹시 아세요?
+P0 	: 음 오늘오전에 소멸된다고 본거같아요
+P1 	: 그렇군요.. 요즘 기상이변 문제때매
+P1 	: 더 걱정이많아져요
+P0 	: 맞아요 어릴때 환경걱정 많이안했던거같은데 점점 느껴지는게 많네요

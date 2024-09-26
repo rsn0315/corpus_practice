@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100037163
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 완전 새겨들어야 할 조언이네요.. ! ㅋㅋㅋ
+P0 	: 저녁은 드셨어요?
+P1 	: 넵 &name1&님은요?
+P0 	: 먹었어요!
+P0 	: 어떤거 드셨어요?
+P1 	: 소고기무국에 오징어볶음 이요
+P0 	: 와 완전 집밥이네요 ㅜㅜ
+P0 	: 맛있겠어요!!!
+P1 	: &name1&님은 뭐드셨나요
+P0 	: 전 빵 먹었어요!!
+P1 	: 제과점빵이요??
+P0 	: 네네 ! 마늘바게트 먹었어요 ㅎㅎ
+P1 	: 쩝 배고파집니다~^^ 그것으로 저녁 끝인가요
+P0 	: 넵 ㅎㅎ 점심을 맛있는거 먹었어요 !
+P1 	: 점심 메뉴는 뭐였나요
+P0 	: 오리불고기 먹었습니다 ㅎㅎ  !
+P1 	: 아..건강식..쌈싸먹고싶어요 ㅠㅠ

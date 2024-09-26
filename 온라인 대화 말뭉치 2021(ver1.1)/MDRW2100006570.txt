@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006570
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학창시절 추억 있나뇨
+P0 	: 요
+P0 	: 추억 있나요?
+P1 	: 전 친구들이랑 학교 끝나고 먹으러 다녔던게
+P1 	: 추억이라면 추억이네요 ㅋㅋㅋㅋ
+P0 	: 그렇죠 매점 있었나요
+P1 	: 아뇨 저흰 매점 없어서 다들 밖에서 사먹었너요
+P0 	: 아 그랬군요 무슨 가게들이.있었나요
+P1 	: 젤 흔한건 분식집이었어요
+P0 	: 그렇죠 학교앞 분식점 필수.
+	  .
+P1 	: 야자 땡땡이치고 갔던게
+P1 	: 지금 생각해보면 다 추억이네요
+P0 	: 저도 야자중간에 먹던 간식들이 생각나요
+P1 	: 어떤거 드셨나요?
+P0 	: 피자한판..치킨한마리..이렇게요..ㅎㅎㅎ
+P1 	: 몰래 드신건가요?
+P0 	: 아뇨 간식으로 들어온것들이요 ㅎ

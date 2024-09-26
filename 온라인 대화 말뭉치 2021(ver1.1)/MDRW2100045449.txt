@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100045449
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세여 &name2&님
+P1 	: 안녕하세요 뮤지컬 좋아하세요?
+P0 	: 두번 가봤어요 좋아하기엔 너무 부담이 커요ㅠ
+P1 	: 그쵸 좋은 자리는 너무 비싸요 저도 학교 지원이나 티켓 당첨된거 아니면 잘 안 가게 되는것 같아요
+P1 	: 그런 점에서 공연실황이 발품도 안 들고 장소 제약없이 볼 수 있어서 좋네요
+P0 	: 그러네요!
+P0 	: 영화관은 잘 가시나요?
+P1 	: 2년 동안 못 갔어요. OTT서비스로 보는 편이에요
+P1 	: &name1&님은요? 영화 추천할만한게 있나요?
+P0 	: 저는 크루엘라 보고 왔어요
+P0 	: 재밌었어요 추천합니당
+P1 	: 코미디네요 엠마 스톤과 톰슨이 나오는군요 어떤 내용인가요?
+P0 	: 코미디는 아닌데
+P0 	: 백한마리 강아지라는 영화 아시죠?
+P0 	: 동화도 았을것같은데
+P0 	: 있
+P1 	: 달마시안이요? 본거 같기도 하고 캐릭터는 익숙한데 내용은 잘 모르겠어요. 거기 악당인거죠?
+P0 	: 네 맞아요!@@
+P0 	: 알고계시네용 ㅋㅋㅋ
+P0 	: 그걸 약간 각색해서 내놓은 영화에요
+P1 	: 봐야 알겠네요. 디즈니라니 재미있을 것 같아요 볼 영화가 늘었네요. 결말은 새드에요 해피에요?
+P0 	: 음
+P0 	: 직접 보셔야해요!ㅋㅋㅋㅋㅋㅋ
+P0 	: 일부러 안알려드리는게 아니라
+P0 	: 저도 잘 모르겠어서요 ㅋㅋㅋ

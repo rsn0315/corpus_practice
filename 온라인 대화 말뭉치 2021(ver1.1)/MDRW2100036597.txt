@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100036597
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 글쎄 평소 자주 착용하는 스타일이  아닐까
+P0 	: 엉 맞아 그리고 클래식한 아이템
+P1 	: 유행을 안따르니
+P0 	: 맞아 그리고 가방
+P1 	: 그래 가방은 고가
+P0 	: 신발도
+P1 	: 착용이 편안해야하니까
+P0 	: 응 그리고 가을 겨울에 입는 고트나 점퍼
+P1 	: 코트는 저렴한거 사면 오래 못입어
+P0 	: 엉 그렇지 그리고 심플한 디자인들
+P1 	: 이것도 유행을 안타니까 오래 입을수 있으니
+P0 	: 엉 예산이 충분하면 고가 저가들 나눌 필요가 없지만 우린 아니니까
+P1 	: 응 슬프다 그래서

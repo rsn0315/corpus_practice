@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100040876
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P1 	: 여행  좋아하시나요?
+P0 	: 네!!
+P0 	: 비행기 그리워요
+P1 	: ㅎㅎ 코로나가 이렇게 오래 갈줄은ㅜ
+P1 	: 가장 최근 여행지가 어디인가요
+P0 	: 저는 속초요
+P1 	: 카페거리 가셨나요?
+P0 	: 네~
+P0 	: 맛집짱많더라구요
+P0 	: &name2&님은 좋았던 여행지 있으세요?
+P1 	: 국내는 여수 부산
+P1 	: 해외는 태국이요!
+P0 	: 아하
+P0 	: 저도 태국 세번 다녀왔는데 다 좋았어요
+P1 	: ㅎㅎ 태국 어디어디 가셨어요?
+P0 	: 구석구석 작은곳들 많이 다녔어요
+P0 	: 물론 방콕 치앙마이 푸켓도 가구요 ㅋㅋ
+P1 	: 치앙마이 가보고 싶었는데 코로나로ㅜㅜ
+P1 	: 방콕과 비교해 어떤가요?
+P0 	: 조금더 시골느낌이요
+P1 	: 관광보다 휴양 스타일이라 취향이네요!

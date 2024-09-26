@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 반가워요
+P1 	: 올림픽 보셨나요~?
+P0 	: 다 챙겨보진 않았지만 몇몇 경기는 봤어요
+P1 	: 저는 양궁이 너무재밌었어요
+P1 	: 어떤스포츠 좋아하세요?
+P0 	: 아 저도 양궁은 봤어요
+P0 	: 그래도 챙겨보는 건 야구에요
+P1 	: 야구 어플깔고 저도보고있어요
+P0 	: 요즘은 띄엄띄엄 하다보니 좀 시들해졌는데
+P0 	: 전에는 퇴근하고 매일챙겨봤어요
+P1 	: 야구 직접 보러도 다니시나요~?
+P0 	: 예전에는 친구들이랑 몇번 보러갔었어요
+P1 	: 직관하는 재미는 티비랑은 다를거같아요
+P0 	: 친구들이 야구를 좋아해서 연간권까지 끊어가면서 쫒아다녔거든요
+P0 	: 확실히 가서 보면 재미있긴 하더라고요
+P0 	: 직접  가서 보신 경기 있으세여?
+P1 	: 네 축구보러 가봤어요

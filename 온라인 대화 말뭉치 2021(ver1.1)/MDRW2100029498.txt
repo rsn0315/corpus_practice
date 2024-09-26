@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100029498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 냉동음식이죠
+P1 	: 오뎅조금 있을거에요
+P0 	: 저녁에 감자샐러드 요리할거에요
+P1 	: 감자가 많네요
+P0 	: 모닝빵 배 갈라서 채워넣을거에요
+P1 	: 안질리나요
+P0 	: 감자샐러드 샌드위치아시나요
+P1 	: 몰라요
+P0 	: 감자는 주식입니다
+P1 	: 굽나요 삶나요
+P0 	: 삶아서 으깨서 마요네즈 넣어요
+P1 	: 예전엔 악마의 열매라고 불렀죠
+P1 	: 구운감자도 맛나요
+P0 	: 구황작물이지요
+P1 	: 존맛이라는게 중요
+P0 	: 감자는 튀겨도 맛있어요

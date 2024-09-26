@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100017004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 나도 여행 가고 싶다
+P0 	: 어디가고 싶음
+P1 	: 방콕
+P1 	: 태국 방콕
+P1 	: 아님 미국
+P0 	: 방콕 가봤음?
+P1 	: 안 가봐서 가고 싶어
+P0 	: 두번이나 말하길래
+P1 	: 그냥
+P1 	: ㅎ
+P1 	: 강조용법?
+P0 	: 태국 뭐가 끌려서 가고싶은데
+P1 	: 동남아 한 번 더 가보고 싶은데
+P1 	: 같이 갈만한 친구인
+P0 	: 동남아 뭐가 맘에들어
+P1 	: 키큰애가 가고 싶어하니
+P1 	: 동료가 있다는 점
+P1 	: 동남아 따듯해
+P0 	: 덥던데
+P0 	: 난 오키나와도 힘들었어
+P1 	: 1월에 가면 따듯할거야
+P1 	: 바다도 못 들어가
+P0 	: 뭐 한국도 7월지나면
+P0 	: 밖은더운데 바다 못들어가잖아
+P1 	: 그정도면 온난하지
+P1 	: 가서 호캉스 하자
+P1 	: 싸다
+P0 	: 섭씨 35도가 넘으면 사람은 일사병에 걸릴수도 있음...

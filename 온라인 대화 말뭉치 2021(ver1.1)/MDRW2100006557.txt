@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P0 	: 이시간까지 쇼핑하시진 않죠...?
+P1 	: 웹툰봤어요.ㅎ
+	  이제 녹차카페로
+	  평소에는 이 시간에도 쇼핑하기도 합니다.^^
+P0 	: 이번주 지구 쇼핑 하셨나요
+P1 	: 그럼요.
+	  게토레이 샀어요.ㅎ
+	  님은 뭐 사셨어요?
+P0 	: 저는 루테인 샀어요
+P1 	: 저도 오늘부터는 쇼핑 좀 하려구요.
+	  요 며칠 쇼핑에 너무 소홀했네요
+	  또 사야할 품목 있어요?
+P0 	: 음 저는 최근에 전복을 몇 번 샀어요
+P1 	: 어디서 사셨나요?
+P0 	: 지마켓이요 전복 실하더라구요
+P1 	: 아.. 빅스마일데이 쿠폰 쓰셨어요?
+P0 	: 이번에는 살게없더라구요..겨리님은요?
+P1 	: 저는 이번엔 그닥 관심있게 안봤는데요.
+	  과탄산 샀어요.

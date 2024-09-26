@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100030723
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 얘기도 정말 할게 많네요
+P1 	: 최근에 신발 마음에 드는 걸 샀었는데
+P0 	: 어떤 신발이요
+P1 	: 아푸 분이 살짝 밑바닥 부분가 떨어져 나가서 떨어졌어요
+P1 	: 순간접착제로 붙여야 할 것 같아요
+P0 	: 너무 저렴한 거 샀나요
+P0 	: 실수한 건가요
+P1 	: 약간 레이스 망사처럼 되어 있고 9분 놨고 신으면 배가 예쁜 것이요
+P0 	: 제품 하자 아니에요
+P1 	: 몇 만 원 줬어요 그렇게 싼 건 아니에요
+P0 	: as 안 돼요
+P1 	: 제 걸음걸이가 이상한가 봐요 걸을 때마다 계속 걸리더니 거기 부분이 떨어지더라고요
+P0 	: 신발은 좀 좋은 거 신어야 겠더라고요
+P1 	: 순간접착제로 붙이죠 뭐
+P0 	: 쿨하네요
+P1 	: 맞아요 신었을 때 편안한게 좋아요 저는 많이 걸어야 하기 때문에 굽이 높은 거는 못 신어요
+P0 	: 저는 신발도 두 켤레 있어요
+P0 	: 슬리퍼랑 운동화 두 개만 가져왔어요

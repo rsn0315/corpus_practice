@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021112
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커피즐겨드시나요?
+P0 	: 커피 중독이에여.. ㅋㅋㅋ
+P1 	: 카페인이 들어가지 않으면 하루가 힘들죠
+	  어떤 커피즐겨드시나요
+P0 	: 전.. 베트남 커피요.. 가성비..
+P0 	: 어디꺼 주로드세요?
+P1 	: 커피빈의 바닐라라떼가맛있더라구요
+P0 	: 라떼는 다 맛있는듯.. ㅋㅋㅋ
+P0 	: 맛엄는 라떼를 본적이 엄서요..
+P1 	: 맞아요 라떼는 다 맛있는것같아요
+P0 	: 커피는 주에 몇잔정도 드세요?
+P1 	: 일일 이커피하는것같아요 하루의시작을커피로
+P0 	: 하루라도 안마셔본적 있어요? 
+	  저도 금단와서 하루거르면 두통오더라구요
+P1 	: 저도 카페인금단현상 때문에 거르는날이 별로없어요
+P0 	: 그거 엄청 괴롭더라구요...
+P1 	: 맞아요 은근한머리아픔

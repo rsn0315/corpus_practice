@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100025138
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은
+P0 	: 연애중이신가요?
+P1 	: 아뇨ㅎㅎ 이전 연애가 길었어서 그런지 만나기 쉽지 않네요
+P1 	: 요샌 뭐 코로나라
+P1 	: 스치는 사람도 거의 없구요
+P0 	: 와우....연애기간은
+	  얼마나 되셨던거에요?
+P1 	: 5년반?? 쯤이었어요ㅋㅋ
+P0 	: 와 정말 긴 연애였네요:)
+P0 	: 저는 그렇게
+	  긴 연애를 해본적이 없어여ㅠ
+P1 	: 최대로 긴게 얼마였나요?
+P0 	: 저는 일년반이
+	  가장 긴 연애였어요ㅋㅋ
+P1 	: 자주 만나셨나봐요 그럼 보통 짧은 경우가 많던데
+P0 	: 음... 아니용ㅋㅋ
+	  연애 횟수도 적어요 ㅋㅋ
+P1 	: 근데 길게 만나는게 좋다고는 못하겠네요
+P0 	: 헤어지고 많이 힘들거 같아요ㅠ
+P0 	: 헤어짐은 뭐 언제나 누구에게나
+	  아프고 힘든 시간이겠지만 그 깊이가
+	  다를거 같아요
+P1 	: 많이 붙어있던 만큼 알게모르게 생활에서 티가 나긴하지만 뭐
+P1 	: 연애의 끝은 이별 아니면 결혼일거니까요ㅎㅎ
+P0 	: 이별아니면 결혼.... ㅠㅠ
+P0 	: 선택지가 둘 뿐인게 슬프네요
+P1 	: 슬프긴 하지만
+P1 	: 인연이 아니었구나 하고 털어내야죠
+P0 	: 털어낸다는게
+	  말처럼 쉬운게 아니잖아요:)

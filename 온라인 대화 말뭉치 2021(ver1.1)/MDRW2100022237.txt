@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022237
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^ 혹시 백신 맞으셨거나 예약하셨나요?
+P0 	: 사전예약 했습니다!
+P1 	: 저도요!
+P1 	: 저는 9월 8일 접종인데 언제세요?
+P0 	: 전 9.9일이요!
+P1 	: ㅠㅠ저 바로 다음날이네요
+P1 	: 화이자? 모더나? 뭐 맞으시나요?
+P0 	: 둘중에 아직 정해지지 않은것같아요ㅜ
+P1 	: 저도요ㅠㅠ신청할때는 화이자라더니
+P1 	: 신청하고나니 둘중 하나래요
+P1 	: 모더나는 탈모 부작용 있을수 있다해서 맞기싫은데..
+P1 	: 코로나 때문에 난리도 아니네요ㅠ
+P0 	: 아 탈모요..? 너무 싫네요
+P1 	: 네ㅠㅠ 혹시 운동은 하시는거 있으세요?
+P0 	: 홈트 해보려구요!
+P1 	: 저도 홈트 해보려고 시도해봤는데 영상보고 따라하기가 쉽지않더라구요ㅠ
+P1 	: 제대로 하는지도 모르겠고
+P0 	: 오 어떤거하셨나요운동

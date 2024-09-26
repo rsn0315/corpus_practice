@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100037520
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P0 	: 저 동생 있어요 별명이 우연히 &name3&에요..
+P0 	: 제동생 요즘 넘 짜증나요
+P1 	: 어떤 부분이 짜증나게해요?
+P0 	: 너무너무 지치죠
+P1 	: 어떻게 괴롭히길래 지치나요?
+P0 	: 너무 많은 일을 시키네요ㅋ
+P0 	: 머리아파요
+P1 	: 그렇군요
+P1 	: 일이 과하면 머리가 아파오죠
+P0 	: &name2&님은 일이 힘드나요?
+P1 	: 네 저도 요즘 힘드네요
+	  지치고 있어요
+P0 	: 그쵸ㅠ 근데 뭐 선물준다니까ㅠ
+P1 	: 네..열심히 하고는 있는데
+P1 	: 솔직히 지치기는 하네요
+P0 	: 갈길이 머나요?

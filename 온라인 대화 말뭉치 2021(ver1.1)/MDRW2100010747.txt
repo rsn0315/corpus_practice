@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010747
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 여행 가셨나요?
+P0 	: 아뇨ㅠㅠ 코로나 때문에 집에만 있었어요 &name2&님은요?
+P1 	: 전 최근엔 경주 갔다 왔어요 . 가서 뭐 숙소콕이었지만요
+P0 	: 오 경주에 볼거리 많나요?
+P1 	: 보문단지에 첨성대랑 안압지 있는데 사람 진짜 많고요. 전 거기서 전동카 탄게 제일 재미있었어요
+P0 	: 우와 재미있었겠네요 저도 나중에 한번 가족들이랑 가봐야겠어요:)
+P1 	: 가시면 전동카 빌려서 한바퀴 돌아보세요~ 엄청 신나요 ㅎㅎ
+P0 	: 전동카 기억했다가 타볼게요!!
+P1 	: 그리고 보문단지 오리배는 원래 40분 기준으로 돈을 지불하는데 사람 없으면 종일 타도 된다고 하셔요 ㅋ
+P0 	: 오 좋네요  오리배도 기억해두었다가 타봐야겠어요!
+P1 	: 그리고 안압지 가실꺼면 해 지기 전에 미리 들어가 계셔요 5시쯤.. 야경 봐야지 하고 해 지고 들어가려고하면 미어 터져요
+P0 	: 오케이요!! 꿀팁 감사합니다:)
+P1 	: 청섬대는 불꺼지기 전에 아무때나 가시면 되고요 ㅎ

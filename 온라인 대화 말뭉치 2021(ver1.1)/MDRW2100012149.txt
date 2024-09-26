@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요
+P1 	: 좋아하는데 코로나라 못 간지 오래 됐어요
+P0 	: 저도요ㅜㅜ코로나전엔 그럼 기억남은여행지있으신가요
+P1 	: 수학여행으로 갔던 제주도요
+P1 	: 그 뒤로 한번도 안 가서 또 가보고 싶어요
+P1 	: &name1&은요?
+P0 	: 저도 제주도 넘기억에 남아여ㅜ
+P0 	: 작년부터 가고싶었는데 코로나터져서 계속취소되고ㅜㅜㅜ
+P0 	: 코로나끝나면 제주도부터갈랴구요
+P1 	: 그런 사람 많을 것 같아요
+P1 	: 언제 종식될런지 끝이 안 보이네요
+P0 	: 그쳐ㅜㅜ해외는 가보고싶은곳있으신가요
+P1 	: 스위스요! 멋진 자연 보러가고 싶어요
+P0 	: 오 저도 스위스의 자연을 맘껏 구경하고싶어요ㅜㅜ
+P0 	: 해외여행 다녀오신적있으신가요
+P1 	: 아뇨 안 가봤어요 코로나 아니었으면 갔을 수도 있었을텐데 아쉬워요
+P1 	: &name1&은 다녀와보셨어요?
+P0 	: 네 제가 여행엄청좋아해서요 코로나전까지 다녔다고 터지고 못가니까ㅜㅜ
+P0 	: 넘가고싶어요
+P1 	: 어느 나라 가보셨어요?
+P0 	: 저 대만 베트남 미국 캐나다 남미여

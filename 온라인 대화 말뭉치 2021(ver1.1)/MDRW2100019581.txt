@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100019581
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요?
+P1 	: 네! 좋아해요
+P0 	: 최근에 여행어디로 가셨나요?
+P1 	: 한 세달전쯤에 제주도 다녀왔어요:)
+P0 	: 제주도는 어디가 좋으셨어요?
+P1 	: 아무래도 역시 바다가 좋죠ㅋㅋㅋ
+P1 	: 제주도 가보셨나요?
+P0 	: 수학여행때 가보고 안가봤어요
+P0 	: 한 10년되었네요
+P1 	: 아앗 저두요!!ㅋㅋㅋ 그러다가 이번에 두번째로 가본거에요ㅋㅋㅋ
+P0 	: 많이 변했던가요?ㅋㅋㅋㅋㅋ
+P0 	: 렌트하셨어요?
+P1 	: 사실 수학여행때 기억에 남는거라곤 소인국 테마파크랑 흑돼지밖에 없어서....
+P1 	: 바뀐건지 어떤지도 잘 모르겠어요ㅋㅋㅋ
+P1 	: 아니요ㅠㅠ 면허는 있는데 운전을 못해서 뚜벅이로 다녔어요
+P0 	: 헉 고생하셨겠다
+P0 	: 렌트안해도 갈만한가요?
+P1 	: 나쁘진 않은데 렌트하는게 역시 좋을거같아요ㅋㅋㅋ
+P0 	: 운전하는친구를 꼬셔야겠어요
+P1 	: ㅋㅋㅋ면허 없으세요??
+P0 	: 면허는 있는데 장롱면허라...

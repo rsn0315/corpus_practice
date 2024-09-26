@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100016595
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐 공부하고있는거 있으신가요?
+P1 	: 늘공부합니다 ㅋㅋㅋ
+P0 	: 아름다우십니다.. ㅋㅋㅋ 늘공이라니.. 
+	  뭐하나요?
+P1 	: 이것저것 ㅋㅋ 수학도 영어도 컴퓨터도 ㅋㅋㅋ 다양해요 ㅋㅋㅋ 님은요 ㅎ
+P0 	: 아.. 학생이신가여? ㅋㅋㅋ
+P1 	: 아 그렇진 않아요 ㅋㅋㅋ 학생이고 싶네요 ㅎㅎ
+P0 	: 학생아닌데 수학 공부를 하세요?
+P1 	: 네 업무상 좀 필요해서요 ㅎㅎ
+P0 	: 학생 때부터 수학 좋아하셨나봐요?
+P1 	: 네 좋아했죠 ㅎㅎ 싫어하셨나요 ㅋㅋ
+P0 	: 보통 90프로는 수포자 아닌가? ㅎㅎ 
+	  그럼 당연히 이과시겠네요?
+P1 	: 네 맞아요 ㅎ 전 수학 좋아요 ㅎㅎㅎ
+P0 	: 수학 과학 시간이 막 기다려지고 그랬나용? ㅋㅋㅋ
+P1 	: 네 너무요 ㅋㅋㅋㅋ

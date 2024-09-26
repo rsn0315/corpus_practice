@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026332
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 맛집 있으세요?
+P0 	: 음 특별히 좋아하는데는 없는거같아요
+P0 	: 따로있으세요?
+P1 	: 저는 비빔밥 좋아해요
+P1 	: ㅋㅋㅋ
+P0 	: 오 그렇군요 어떤재료들어가는거 좋아하세요?
+P1 	: 그냥 담백한나물들이요
+P1 	: ㅎㅎ소고기도좋고
+P0 	: ㅋㅋㅋㅋ그렇군요
+P0 	: 저녁은 뭐드셧어요?
+P1 	: 버거 먹었어요
+P1 	: &name1&은요~?
+P0 	: 저는 토스트요!
+P0 	: 뮤슨 버거 드셧어여?
+P1 	: 아보카도버거요!
+P1 	: 토스트 배불리 드셨어요~?
+P0 	: 오오 아보카도버거 맛잇겟어요 수제버거인가요?
+P0 	: 네네  배부르게먹엇어요 집에서 해먹어서요 ㅋㅋㅋㅋ
+P1 	: 네~~뭐넣어드셨어요?
+P1 	: 진짜맛났어요 ㅎㅎ
+P0 	: 저는 계란에 파넣고 쨈발라서 길거리토스트처럼 만들어먹엇어요!
+P1 	: 맛있겠어요 ㅎㅎ

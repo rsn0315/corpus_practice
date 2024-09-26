@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027986
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요
+P1 	: ?
+P0 	: 여행좋아하는데 코로나때문에 못가는게 아쉬워요!ㅎㅎ
+P1 	: 맞아요 원래 작년 일월에 여행 계획 세웠는데 코로나 때문에 못 갔어요퓨
+P0 	: ㅠㅠ 국내여행을 계획하셨나요? 아님 해외여행?
+P1 	: 대만여행이요ㅠㅠ
+P0 	: 대만좋을것같아요ㅠㅠ저는 대만 한번도 안가봤어요ㅠㅠ
+P0 	: 저는 제주도라도 가고싶네요...
+P1 	: 저도 첫 대만여행이 될 뻔 했는데ㅠㅠ 맛집도 다 찾아놨는데요ㅠㅠ
+P0 	: ㅠㅠ정말 아쉬우시겠어요ㅠㅠ 언제쯤 해외여행을 갈수있을까요ㅠㅠ
+P1 	: 적어도 이년은 더 기다려야 되지 않을까 싶어요... 하는 거 보면 더 걸릴 것 같기도...
+P0 	: ㅠㅠ휴 국내여행에 눈길돌리고있어요ㅠㅠ 예전에 가본 군산도 재미있었어요ㅎㅎ!
+P1 	: 와 저도 가보고싶어요
+P0 	: 국내여행은 어디가 제일 좋으셨어용?
+P1 	: 저는 제주가 제일 좋앜ㅅ어요
+P0 	: 제주는 풍경만봐도 유잼이죠ㅠㅠㅠㅠ외국보다 더예쁜거같아요

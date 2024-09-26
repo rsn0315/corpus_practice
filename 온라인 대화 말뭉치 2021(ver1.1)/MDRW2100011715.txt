@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011715
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요
+P1 	: 아뇨 안키워요 &name1&은요?
+P0 	: 저도 안키워요
+P0 	: 어렸을때 닭 키운적있어요
+P1 	: 오 닭을요
+P1 	: 병아리때부터 키우셨어요?
+P0 	: 초등학생때 학교앞에서 500원주고 데려와서
+P0 	: 애지중지 키웠네요
+P1 	: 우와 저는 키우다 죽었는데 잘키우시나봐요
+P0 	: 따듯하게 해주면 잘커요
+P0 	: 동물 키워보신적 있으신가요?
+P1 	: 어릴때 청거북이 키워봤어요
+P0 	: 거북이 귀엽겠네요
+P1 	: 네 ㅎㅎ 그게 사료만 먹는게아니고
+P1 	: 생고기도 주면 먹거든요 야생성이 살아있는거같고 귀여웠어요
+P0 	: 와 거북이가 고기도 먹나요?
+P0 	: 초식동물인줄 알았는데
+P1 	: 네 주면 먹던데요 돼지고기로 요리할때 자투리 줘봤어요
+P0 	: 유튜브로 야채나 과일먹는것만봐서 그런지
+P0 	: 충격이네요..

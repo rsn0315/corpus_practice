@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 요즘 농사는 잘 되어가시나요?
+P0 	: 이제 여름이 끝나가서 농사도 끝물이지
+P0 	: 깨만 털고 김장재료만 수확하면 끝이야
+P1 	: 가장 핵심이 남았잖아요 깨 베는게 가장 힘들텐데요
+P0 	: 그래도 직장에서 일하는것 보다는 덜 힘들지
+P0 	: 이건 내가 좋아서 하는 일이니까
+P1 	: 좋아서 하는 일이라고 하기에는 너무 힘든일이라 생각해요
+P0 	: 어느 직장에서 일해도 이것만큼 일힘든거 없는데
+P0 	: 이거는 즐거워
+P1 	: 옥수수대도 자르려면 힘드실거 같은데요
+P0 	: 그게 좀 딱딱하긴 해
+P1 	: 갯수도 많아서요 힘들거 같아요
+P0 	: 아무래도 조금 그렇지
+P0 	: 깨보다는 나을거야
+P1 	: 작년에 몇시간 걸렸죠?
+P0 	: 아마 베는데만 삼일 걸렸을거야
+P1 	: 역시 너무 힘든 일 같아요 취미생활이라기엔 노동이에요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011175
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 좋아하는 음식 있으세요?
+P1 	: 안녕하세요!
+P1 	: 저는 나물 같은 거 좋아해요 ㅎㅎ
+P0 	: 어떤 나물 좋아하세요?
+P1 	: 나물이면 거의 다 좋아하는데 취나물이나 비름나물 깻잎 다 맛있어요 ㅎㅎ
+P0 	: 무우 나물처럼 얇게 썰어서 소금, 들기름, 후추 넣고 무치면 맛있더라고요
+P1 	: 아 무도 맛있죠 생채도 맛있고 볶아도 맛있고요 ㅎㅎ
+P1 	: 뭐 제일 좋아하시나요?
+P0 	: 다 잘먹어요ㅎㅎ
+P0 	: 제철 식재료가 제일 좋습니다
+P1 	: 제철음식이 맛있긴 하죠 ㅎㅎ
+P0 	: 이번 여름에 복숭아를 종류 별로 엄청 먹었어요
+P1 	: 오 천도복숭아도 드셨나요
+P0 	: 네 달달하고 향이 진했어요
+P1 	: 천도복숭아 맛있죠 ㅎㅎㅎ 작지만 달고 ㅎㅎ
+P1 	: 커피 좋아하시나요?
+P0 	: 카페인때문에 못마셔요

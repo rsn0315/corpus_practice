@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034295
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 소개팅 많이 해보셨나요?
+P1 	: 아니요! 딱 한번 해봤어요 소개팅은 ㅋㅋ
+P1 	: 많이 해보셨나요?
+P0 	: 많이 못해서 휘회되요ㅋ
+P1 	: 앗 ㅋㅋㅋㅋ 배우자분은 어떻게 만나셨나요
+P0 	: 소개팅이여ㅋ
+P1 	: ㅎㅎ 바로 마음에 드셨나요?
+P0 	: 음...
+P0 	: 왜그랬을까요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 많은 뜻이 담긴 말 같네요 ㅋㅋㅋ
+P1 	: 이성을 볼때 중요하게 생각하는 부분 있으세요?
+P0 	: 전 대화가 잘 통하는게 좋더라그ㅡ요
+P1 	: 맞아요 중요한 부분 같아요 코드가 맞는거..
+P0 	: 코드맞기가 어렵더라구요
+P1 	: 그쵸 대화가 핑퐁 왔다갔다 하는 게 생각보다 어려운 일 같네요
+P0 	: 그치요 정적이ㅠㅜ

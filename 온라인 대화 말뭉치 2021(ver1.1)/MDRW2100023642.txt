@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100023642
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요
+P1 	: 추후에 여건이 된다면 입양하고 싶습니다
+P1 	: &name1&은 반려동물이 있으신가요?
+P0 	: 저도 그러고 싶습니다,, 한 마흔쯤,,,에요,,,,
+P1 	: 어떤 동물을 좋아하세요?!
+P0 	: 저는 벌레만 아니면 다 좋은데
+P0 	: 어릴 때는 뱀 좋아랬어요
+P1 	: 헉 어떤뱀이요?
+P1 	: 작은 깜찍뱀인가요? 큰 멋진뱀인가요?
+P0 	: 고로 뱀이란 뭐든 귀여운 것을,,
+P0 	: 작은 눈이랑 앙증맞은 입꼬리가 귀여워서
+P0 	: 같이 살고 싶었지요
+P1 	: 이름을 짓는다면 무엇인가요?
+P0 	: 수컷이라면 진수가 좋겠네요
+P0 	: &name2&은 어떤 동물 좋아하시는지
+P1 	: ㅋㄱㅋㄱㅋㄱㄱㅋㄱㄱ이름 ,., 너무잘지으시는데
+P1 	: 혹시 작명가,,,세요,,,?
+P1 	: 저는 애옹 좋아하고요 어릴때부턴 개를좋아했답니다
+P0 	: 애옹 최고죠
+P0 	: 저는 개털알레르기가 있어서
+P0 	: 마흔쯤에 애옹 데려오고 싶네요
+P1 	: 헉 개털알러지! 애옹털은 괜찮으세요?
+P0 	: 네!! 예전엔 애옹털도 알레르기 있는줄 알았는데 병원 가니까 없다네요
+P0 	: 폰알레르기였어요
+P0 	: ㅎㅎ
+P1 	: ㄱㅋㄱㅋㄱㅋㄱㅋㄱㄱㄱㅋㄱ개털알레르기는 찐인가요,,,?

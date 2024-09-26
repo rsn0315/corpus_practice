@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100006413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 끝나면 가고싶은 곳 잇으세요?
+P0 	: 음 베트남이나 태국이요
+P0 	: &name2&님은요?
+P1 	: 저는 몽골이요
+P0 	: 오  몽골 뭔가 신비롭다
+P0 	: 대자연을 느낄 수 있을것 같아요
+P1 	: 네 대자연을 느끼면서 별보고 싶어요 ㅋㅋㅋㅋ
+P0 	: 저는 휴얌하고 싶어요
+P0 	: 좋은 숙소에서 마사지 받으면서 ㅎㅎ
+P1 	: 맞아요 그것도 너무 좋죠 ㅋㅋㅋㅋㅋㅋ
+P1 	: 태국마사지 받고싶네요 ㅋㅋㅋㅋ
+P0 	: 해외여행 어디 다녀와보셨어요?
+P1 	: 제일 많이 갓던곳은 일본이에요 ㅋㅋㅋㅋㅋ
+P0 	: 저도 일본 한번 여행했어는데 너무 좋았어요
+P1 	: 어디 다녀오셧어요?
+P0 	: 후카이도 한번 다녀왔어요
+P0 	: 부산에서 배타고 갔어요
+P1 	: 오 배를 타면 얼마나 걸려요?
+P0 	: 제기억에 3시간 정도 걸렸던거 같아요
+P0 	: 근데 배 무서웠어요
+P1 	: 부산에서 홋카이도까지 세시간밖에 안걸려요??
+P0 	: 잘못 말했어요
+P0 	: 후쿠오카 다녀왔어요
+P1 	: 아 후쿠오카군요
+P1 	: 저도 부산에서 배타고 후쿠오카 다녀온적 잇어요
+P0 	: 네 후쿠오카 한 번 다녀왔는데
+P0 	: 좋은 기억만 남은 여행이었어요

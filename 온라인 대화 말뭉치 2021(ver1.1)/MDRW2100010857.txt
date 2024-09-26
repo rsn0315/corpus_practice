@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010857
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하세요?
+P1 	: 원래 별 취미 없었는데, 인터넷 쇼핑 하다보니 끝없이 사게 되네요. 와~~ 싸다~~ 이러면서요ㅋ
+P1 	: 쇼핑 좋아하세요?
+P0 	: 쇼핑이 낙이에요ㅋ
+P1 	: 최애 쇼핑몰 좀 공유해주세요~^^
+P0 	: 전 네이버쇼핑ㅎ
+P0 	: 장은 쓱배송
+P1 	: 아~ 저도 꼭 네이버부터 검색해요.ㅎ
+P1 	: 쓱배송 안해봤는데 좋은가봐요~ 가격도 괜찮나요?
+P0 	: 예전부터 쓰던거라 그냥 쓰는ㅋ
+P0 	: 쿠폰도 나오는데
+P0 	: 과소비 유발하기도하고요
+P1 	: 글쿤요. 전 식료품은 그냥 마트가서 사는데, 채소 같은것도 쓱배송 하세요?
+P0 	: 네 다 쓱~~
+P1 	: 우와~ 편하긴 하겠네요. 저도 짬내서 구경가봐야겠어요.ㅎ
+P0 	: 네 좋아요
+P1 	: 중고거래도 해보셨나요? 요즘 당근이 핫하다고 하더라고요.
+P0 	: 네 당근해요

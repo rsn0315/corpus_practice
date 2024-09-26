@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그지역은 비많이 오나요?
+P0 	: 아뇨~! 별로안오는편인거같아요
+P0 	: 거긴 어디에요?
+P1 	: 여긴 서울인데 빗소리는 안들리네요
+P1 	: 태풍오고있대요
+P0 	: 헐 전 인천인데 서울이랑 비슷해요 ㅋㅋ
+P0 	: 태풍 서울까지오는경우 별로없는더같애요
+P0 	: 맨날 제주도쪽만 난리남
+P1 	: 오 인천 저본가있는데 반갑네요ㅎ
+P1 	: 남부지방만 많이오나봐요
+P0 	: 오 서울에자취하시는건가요
+P0 	: 맞아요 태풍경로가 항상그렇더라
+P1 	: 네 직장근처로 ㅎㅎ
+P1 	: 비피해 없어야될텐데
+P0 	: 서울은괜찮을거에요!
+P0 	: 날씨 요즘 선선해졌나요
+P1 	: 가을 오는거같죠?
+P1 	: 언제 더웠냐는듯 갑자기 선선해졌어요
+P0 	: 오 전 추운거보다 더운게 힘들거든요 ㅜㅜ
+P0 	: 거기다 매년 더 더워진다며요?
+P1 	: 저도 여름 넘 싫어요
+P0 	: 벌레도많고 숨이차서
+P1 	: 빨리 가을오면좋겠어요

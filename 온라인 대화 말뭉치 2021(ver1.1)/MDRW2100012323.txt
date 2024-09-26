@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012323
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택근무가 가능한 일자리가 많지요.
+P1 	: 맞아요
+P1 	: 코로나 터지면서 재택근무가 불가능할거라고 생각했던 것도 재택근무가 가능하게 됐죠
+P0 	: 온라인으로 전산이 연결된 게 이럴 때 잘 쓰이게 되네요.
+P1 	: 맞아요 줌이나 웹엑스 등으로 쉽게 회의할 수 있으니까요
+P0 	: 웹엑스스는 처음 들어봤어요.
+	  저는 줌을 쓰고 있어요.
+P1 	: 오 직접 재택근무하고 계신가요?
+P0 	: 요즘엔 안하고 있고요.
+	  작년 코로나 초기 때는 꽤 했네요.
+P1 	: 근데 재택근무랑 직접 회사 나가서 하는 거랑 정말 차이가 큰가요?
+P0 	: 네. 재택근무는 빠른 소통이 불가하여 답답하더라구요.
+	  근무할 분위기도 잘 안잡히구요.
+P1 	: 줌이랑 집접 얘기하는 거랑 다른가요? 제가 수업으로 밖에 줌을 경험 안해봐서 궁금하네요
+P0 	: 줌으로는 왠지 전달이 제대로 안되는 것 같고
+	  대면전달이 익숙해서 그런 거 같아요.
+P1 	: 아~~그러면 출근하는 귀찮음을 각오해서라도 재택근무보다 회사근무가 더 좋으신건가요?
+P0 	: 네. 저는 출근이 좋네요.ㅎ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100029094
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 보통 몇시에 주무세요
+P1 	: 저는12시 전에요
+P1 	: &name1&은요?
+P0 	: 전요즘 늦게
+P0 	: 가족들과 함께 사세요?
+P1 	: 네
+P1 	: &name1&은요?
+P0 	: 저두 가족들과 함께
+P0 	: 저녁식사는 주로 가족과  함께 하나요?
+P1 	: 네
+P1 	: &name1&은요?
+P0 	: 저희는 각자 따로하는 편인데
+P1 	: 왜요?
+P0 	: 식사는 함께 하는 게 좋은데
+P1 	: 맞아요
+P0 	: 식사시간이 달라서
+P0 	: 식사메뉴도 안맞아요.
+P1 	: 네~~
+P1 	: 뭐 좋와하세요?
+P0 	: 원하는 음식이 많이  달라요
+P0 	: 식사준비는 누가해요?
+P1 	: 와이프요
+P1 	: 안녕이 주무세요

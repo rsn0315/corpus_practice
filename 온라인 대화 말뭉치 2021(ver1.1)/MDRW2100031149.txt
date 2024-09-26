@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100031149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 밥은 드셨나요?
+P0 	: 네 닭미역국이요
+P1 	: 맛있었겠어요
+P1 	: ㅎㅎ
+P1 	: 내일은 뭐드실건가요?
+P0 	: 내일 오징어초무침해보려고요
+P1 	: 오징어 너모. 맛있을것같아요
+P1 	: 저도 좋아해요
+P1 	: 저는 오징어 튀김도 좋아하고무침도 좋아해요 ㅎㅎ
+P0 	: 오징어 맛있죸ㅋ
+	  저녁 모드셨어요
+P1 	: 저는 집밥 먹었어요
+P1 	: ㅎㅎ
+P1 	: 배달음식도 좋아하시나요?
+P0 	: 고기류 잘시켜먹어여ㅋ
+P1 	: 저도 족발이나 회 좋아해요
+P1 	: 뭐 좋아하세요?
+P0 	: 족발 보쌈 좋아해요
+P1 	: 그렇군요 ㅎㅎ 족발이 먹고싶네요
+P1 	: 아침드셨나요?
+P0 	: 네 토스트요
+P1 	: 그러시군요 토스트 맛있었겠어요
+P1 	: 어떤 재료를 넣으셨나요?
+P0 	: 프렌치토스트에 샐러드따로요ㅋ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100042958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 안녕하세요 &name1&님!!
+P1 	: 백신 맞으셨나여??
+P0 	: 네 1차 맞았습니당
+P0 	: &name2&님은요?
+P1 	: 저도 일차만 맞고 기다리는중이에요
+P1 	: 부작용은 없으셨져??
+P0 	: 네! 하루이틀정도 팔이 조금 뻐근했다? 요정도 말고는 아주 괜찮았어요 겁먹었는데 다행이죠ㅋㅋㅋ &name2&님도 무사하신가요!
+P1 	: 저도요 팔만 뻐근하고 괜찮았어요!!
+P1 	: 이차도 괜찮아야될텐데요
+P0 	: 그러니까요
+P0 	: 2차 아프다는 말이 많아서 걱정이에요..
+P1 	: 그래도 저는 귀찮아서 빨리 맞고 싶어요
+P1 	: ㅋㅋㅋ 추석훈데 전에 맞아버렸으면 좋겠네요
+P0 	: ㅋㅋㅋㅋㅋ 저는 10월 5일이에요 &name2&님은 언제세요?
+P1 	: 구월 마지막주였던거 같아요!!
+P0 	: 그거 좀 당길수도 있다는것 같더라구요 병원에 문의해보세요
+P0 	: 저도 그냥 얼른 맞고 맘 편하고 싶어요 ㅋㅋㅋ
+P1 	: 오 진짜여? 근데 전화하기도 귀찮다는게 함정이네여 ㅋㅋㅋㅋㅋㅋ
+P1 	: 그러니까요 그냥 어차피 맞아야될거 빨리 해버리고 싶은 마음입니다
+P0 	: &name2&님은 건강 잘 챙기시는 편 인가요?
+P1 	: 그냥 살고 있답니다ㅋㅋㅋㅋ
+P1 	: 그냥 살고 있는중이랍니다

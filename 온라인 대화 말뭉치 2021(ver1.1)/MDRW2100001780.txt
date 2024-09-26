@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100001780
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 반려동물이 있으신가요??
+P0 	: 지금은 없지만 전에는 많이 키웠어요
+P0 	: 어떤 반려동물을 키우시나요?
+P1 	: 저 강아지요ㅎㅎㅎ
+P0 	: 너무 좋죠, 저도 잊지못할 반려견이 있었는데 그아이가 마지막이라 아직 다시 키울 자신은 없어요 ^^
+P1 	: 저도 너무 걱정돼요ㅠㅜ
+P1 	: 벌써 10살이라ㅠㅜ
+P0 	: 건강 관리해 주는데 신경 많이 쓰이지요?
+	  10살이면 잘 관리해 줘야 할 때네요.
+P1 	: 네ㅠㅠ하루하루가 더 소중해지네요ㅎㅎ
+P0 	: 하나만 키우세요?
+P1 	: 네ㅋㅋㄲ하나로도 벅차네요ㅋㅋ
+P0 	: 저는 한때 7마리가 한번에 있던 적도 있었어요
+P1 	: 우와ㅋㅋ엄청 많이 키우셨네요ㅋㅋㄱ대단해요 힘드시진 않으셨어요?
+P0 	: 가족이 함께 살때 키웠던 때라 사실 어머니가 힘드셨죠. 저는 애정만 주고 ^^

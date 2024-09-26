@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100002729
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 응 너무 힘들다 수강심청
+P1 	: 나는 저번주였어
+P1 	: 너는 학고다닐때 수강심청을 잘하는 편이었니?
+P0 	: 학교. 응 나는 잘하는 편이었어.
+P0 	: 내가 기운을 좀 줄 걸 그랬다.
+P0 	: 그러면 개강은 안제야?
+P1 	: 그러게 기운좀 받을껄
+P1 	: 나는 9월에 개강해
+P1 	: 아직 비대면인지 아닌지도 몰라
+P1 	: 학교는 일처리가 왜이렇게 느릴까
+P0 	: 개강.
+P0 	: 곧이구나.
+P0 	: 그러게 행정처리가 느리네
+P1 	: 국립대라서 더 그런가?
+P1 	: 학교는 대면수업을 원하는거같아
+P0 	: 사립대도 마찬가지야.
+P0 	: 오 모든 학교의 특징같아
+P0 	: 너는 학교가 좋니?
+P0 	: 학교 사람들은 어때?
+P1 	: 나는 그저그랴
+P0 	: 친구는 사귀었니?
+P1 	: 비대면 수업했으면 좋겠어
+P1 	: 아무래도 친규가 없으니까.
+P0 	: 비대몀 좋아.
+P0 	: 안타까워
+P0 	: 친구가 있어도 비대면이 좋을 거 같아
+P1 	: 그건그래 학교는 너무 귀찮어
+P0 	: 맞아. 가는 길이 귀찮지.
+P1 	: 아침수업이 있으면 더해

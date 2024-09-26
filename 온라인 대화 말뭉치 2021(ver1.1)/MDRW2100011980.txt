@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011980
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁드셨어요?
+P1 	: 아직 저녁은 안먹었어요. 이제 퇴근하고 먹으려고요.
+P1 	: 뭐 먹을 지 고민중이에요.
+P0 	: 저는 곰탕먹으려구요ㅎㅎ 날이 꿉꿉해서ㅎㅎ 시켜드시나요?
+P1 	: 곰탕 맛있을 것같아요! 저는 오늘은 나가서 먹어야할 것같아요.
+P0 	: 오 어떤거 드세요?
+P1 	: 간단하게 햄버거나 우동 먹을 것같아요!
+P0 	: 오 비오니 우동맛있을거같아요ㅋㅋ
+P1 	: 비와서인지 김치우동이 땡기네요ㅋㅋㅋ
+P0 	: 오..저두 내일 점심 김치우동 먹어야겠네요ㅋㅋㅋ
+P1 	: 내일도 비가 와서 아마 땡기실 거에요ㅋㅋㅋ
+P0 	: 우동이랑 새우튀김 같이 먹어야겠네요ㅋㅋ
+P1 	: 일단 에피타이저로 우유 아이스크림 먹었어요ㅋㅋㅋㅋ맛있네요
+P0 	: 맛있게 드시네요ㅎㅎ

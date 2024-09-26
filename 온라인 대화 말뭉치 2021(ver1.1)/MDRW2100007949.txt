@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100007949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 포장해와서 먹으려구요
+P0 	: 오늘 출근해서 ㅎㅎ
+P1 	: 오늘 일욜인데 출근해요?
+P0 	: 네ㅎㅎ 교대근무라서!
+P1 	: 아 무슨일하시는데 교대근무를~
+P0 	: 저는 지하철이요ㅎㅎ 무슨 일 하세요?
+P1 	: 오ㅎ 지하철이면 기관사? 그일인가요?
+P0 	: 아ㅎㅎ 역에 있어요~~
+P1 	: 전 그냥 사무직이요ㅎ
+P0 	: ㅎㅎ 저도 직렬은 사무에요
+P1 	: 교대근무하면 어때요? 남들쉴때 일하고
+P1 	: 남들일할때 쉬고ㅎ
+P0 	: 장점이 해외여행인데
+P0 	: 요새는 못가니까
+P0 	: 장점이 퇴색된듯요
+P1 	: 격일로 교대가 아닌가보네요
+P1 	: 업무 스트레스는 없으세요?
+P0 	: 질이 낮은 승객이 좀 ㅎㅎ
+P0 	: 뭐 그거랑 회사 답답하죠ㅎㅎ
+P1 	: 지하철에 그런사람 많죠
+P1 	: 야근 이런건 없으신거죠?
+P0 	: 음 야근은 없는데
+P0 	: 야간에도 일해요ㅎㅎ
+P1 	: 지하철이 늦게까지 운행하니 그렇겠네요
+P1 	: 야간에 일하면 수당도 나와요?ㅎ
+P0 	: 네ㅎㅎ
+P0 	: 월급에 야간 수당
+P0 	: 포함이에요

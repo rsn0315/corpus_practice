@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009733
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 방금 했어요! 아침은 간단히 먹어서요^^ &name1& 님은요?
+P0 	: 걸렀어요
+P1 	: 보통 아침은 잘 안드시나봐요~ 요새 외식이 힘든 시기라 배달 많이 시키던데 주로 어떤 어플 사용하세요?
+P0 	: 배민좋죠
+P1 	: 저는 배달 어플은 안써서 어떤지 궁금했어요
+P1 	: 배민이 좋군요. 쿠팡이츠는 별론가요?
+P0 	: 사용안해봐서요
+P1 	: 그렇구나 요즘 볼 일 있어서 잠깐씩 밖에 나갈때 보면 배달 오토바이가 정말 많더라고요
+P0 	: 네 무서워요
+P1 	: 그래서 전 배달보다는 직접 픽업하거나 아니면 주로 집에서 요리해서 먹어요
+P0 	: 요리 잘해요?
+P1 	: 보통 이상은 해요^^
+P1 	: 외가쪽이 요리를 잘하는 집안이라 좀 물려받은 것도 있는 듯하구요
+P0 	: 능력자네요

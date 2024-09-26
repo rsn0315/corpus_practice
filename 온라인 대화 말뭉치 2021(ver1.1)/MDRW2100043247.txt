@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043247
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 뭐드실거예요?~
+P1 	: 오늘은 집밥 먹을 것 같아요!
+P0 	: 오 집밥 너무 부러워요~
+P1 	: &name1&님은 뭐 드실 거예요?
+P0 	: 저는...건너뛸예정입니다 하핫..
+P1 	: 헉, 점심 많이 드신 건가요?
+P0 	: 아뇨 요즘 많이먹어서 어제 오늘 내일은 저녁 굶고 좀 조이려고요 흑...
+P1 	: 아하, 저도 지난달은 배달을 많이 시켜서 이번달은 자중하려구요
+P0 	: 앜ㅋㅋㅋ 배달음식많이드시는편이군요
+P1 	: 원래 한달에 한두번인데 다섯 번 넘겼어요ㅜㅜ
+P0 	: 옼ㅋㅋㅋ 저는 한 두세달에 한번?..
+P1 	: 오, 본가에 사세욥??
+P0 	: 아뇨 저는 자취해요 ㅜㅜ
+P1 	: 자취인데도 밥 자주 만들어 드시나봐요, 대단하세요
+P0 	: 네 맞아요 ㅋㅋ 주로해먹어요 사먹는거안좋아해서
+P1 	: 부지런하세요 

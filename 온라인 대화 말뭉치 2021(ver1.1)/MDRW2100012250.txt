@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012250
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 스포츠가 있으신가요?
+P1 	: 야구좀 봤는데 요샌 안봐요 &name1&은요?
+P0 	: 저는 지금 야구 보고 있어요ㅋㅋ
+P1 	: 누가이기고있나요
+P0 	: 한화 대 두산 경기 보고 있는데 두산이 4대 11로 이기고 있어요
+P1 	: 오 역시두산이잘하는군요
+P0 	: ㅋㅋ 요즘은 띄엄띄엄 이기는 느낌이에요
+P0 	: 혹시 어느 팀 팬이신가요?
+P1 	: 롯..데...ㅜㅜㅜㅜㅡ
+P1 	: 꼴지에요
+P1 	: 밑에서 일등이죠
+P0 	: 요즘은 8위일 거에요
+P0 	: 두산은 7위ㅋㅋ
+P1 	: ㅋㅋㅋㅋ음 .. 분발해야겠네요 ㅋㅋ
+P0 	: 요즘은 잘 못해도 그렇구나 싶어요ㅋㅋ
+P1 	: 그냥 나쁜일만 안터지면 좋겠어요ㅎㅎ
+P0 	: ㅎㅎ 그러니까요. 올해 유독 바람 잘 날 없는 느낌이에요
+P1 	: 코로나라 더욱 그러네요
+P0 	: 아무래도 무관중 경기가 추석 이후까지도 이어지지 않을까 싶어요
+P1 	: 크보가 힘들겠네요 관중석 표팔아야하는디 ㅋㅋ

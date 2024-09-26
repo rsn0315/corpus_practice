@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:) 반갑습니다!
+P1 	: 점심식사는 하셨나요~?
+P0 	: 넵 먹었습니다
+P1 	: 그렇군요 ㅎㅎㅎ
+	  &name1&님은 취미가 어떻게 되시나요~?
+P0 	: 취미는  자전거탑니다
+P1 	: 오오 그러시군요..! 자전거 타시는 분들 보면 보통 자전거 코스로 쭉 돌고 그러시던데,
+P1 	: &name1&님도 자전거 코스 이용하시나요?ㅎㅎ
+P0 	: 네 한강둔치도 가끔가고 동네서탑니다~
+P1 	: 한강 근처가 산책로도 잘 되어 있고 해서 자전거 타기도 좋을 것 같아요! ㅎㅎ
+P1 	: 그러면 요즘 따릉이도 많이 보이던데 &name1&님도 따릉이 이용하시나요??
+P0 	: 아니요
+P1 	: 그렇군요..! 자전거 타면 운동도되고 여러모로 좋은 것 같아요 ㅎㅎ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100034211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 일이 바빠?
+P0 	: 옹 ㅜㅜ 다음주까지 계속 바쁘다
+P1 	: 그래서 주말도 출근? ㅠㅠ
+P0 	: 옹.. 원래 이틀 다 일해야했는데 내일만 하는거로
+P1 	: 토요일에도 일을 한다니
+P0 	: 그러니까..
+P1 	: 힘내라
+P0 	: 힘이 안난다 ㅠㅠ
+P1 	: 어째 ㅠㅠ
+P0 	: 흑흑 이또한 지나가리 ㅠ
+P1 	: 그래 참아라
+P0 	: 웅웅..ㅋㅋ
+P1 	: 파이킹
+P1 	: 파이팅

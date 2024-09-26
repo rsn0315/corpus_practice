@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007177
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 제일 좋아하시는 음식이 뭔가요?
+P1 	: 저는 한식 좋아하는데 최근에 닭갈비에 빠졌어요! 어떤 음식 좋아하시나요?
+P0 	: 닭갈비 맛있죠~~!! 저는 면종류는 다 좋아하는거 같아요ㅋㄱㄱㅋ 그 중에서는 칼국수요!
+P1 	: 앗 저도 면 좋아해요! 등촌 칼국수 아시나요? 그것도 맛있는데 ㅠㅠ
+P0 	: 와 알죠알죠 ㅠㅜㅠㅜ
+P0 	: 등촌칼국수는 볶음밥까지 맛있어요
+P1 	: 아 아시는구나 ㅠㅠㅠ 저 정말 좋아해요 가면 면사리는 꼭 추가하는것 같아요..볶음밥도 필수
+P0 	: 후 배고파지네요,,.ㅠ 저녁은 드셨죠??
+P1 	: 네 오늘은 편의점에서 간단히 사먹었어요 ㅎㅎ
+P0 	: 오 저 편의점 가는 길인데!! ㅎㅎㅎ
+P1 	: 앗 정말요? 통했네요 ㅋㅋㅋㅋ 오늘 뭔가 라면이 땡기더라구요
+P0 	: 라면 맛있죠~~저는 꼬북칩이 갑자기 땡겨서 과자 사러 갔어요
+P1 	: 꼬북칩! 저도 좋아해요 초코맛도 맛있고 기본도 맛있어요
+P0 	: 맞아요 ㅠㅜ 그 핑크솔트?? 빼고는 다 맛있는거 같아요!
+P1 	: 아 그런맛도 있어요? 몰랐어요 ㅋㅋㅋ 다양하게 많이 나오네용

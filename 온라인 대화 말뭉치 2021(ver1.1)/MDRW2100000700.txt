@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000700
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아이폰의 추위타는건 신선한 충격이네요ㅋ
+P1 	: 오늘도 날씨 엄청 좋아요~! 이런날에 출근을하다니 ㅠ
+P0 	: 여기는 비가와요ㅠㅋㅋㅋ
+P1 	: 거기는 비와요? 헐 엄청습하겟네요ㅠ
+P0 	: 네ㅡㅜ어제부터 계속 꿉꿉하네요~ㅠ
+P1 	: 여긴 엄청 화창해서 더워요 ㅋㅋㅋㅋ
+P1 	: 아이스크림 먹고싶네여
+P0 	: 여기도ㅠㅠ 급 비멈추고 해가 쨍쨍 ㅠ더워요ㅠ
+P1 	: 태풍이 오나 날씨왜케 오락가락일까요 ㅠㅜ
+P0 	: 태풍 일본쪽으로 갔다나봐요
+P1 	: 다행이네요 우리나라 물벼락 맞을뻔했네
+P0 	: 저도 그소식 듣고 다행이다 했어요
+P1 	: 내일도 비소식이 있어요 ㅠㅠ 절망이다
+P1 	: 비오는거 좋아하세요?
+P0 	: 아니요ㅠ저는 비오는날은 습해서 별로 안좋아해요ㅠ

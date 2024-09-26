@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋은 아침입니다! &name2&은 어떤 날씨 좋아하세요??
+P1 	: 저는 가을날씨 좋아해요 하늘 맑고 바람시원하게 부는 날이요~
+P1 	: 어떤 날씨 좋아하시나요?
+P0 	: 저는 봄이요! 따뜻하고 알록달록 꽃 핀 게 예뻐서요ㅎㅎ
+P1 	: 오 그쵸 봄이 꽃이 펴서 거리 걸을때마다 기분 좋아지더라구요
+P1 	: 벚꽃도 예쁘구요 ㅠㅠ
+P0 	: 비오는 날은 어떠세요??
+P1 	: 비오는날 실내에서 보는 건 좋아해요 비냄새도 좋고 ..!
+P0 	: 저도 실내에서는 좋아요 밖에서는 진짜 싫어요
+P1 	: 맞아요 그쵸 비오는 그 분위기가 너무 좋지않나요~
+P0 	: 네!! 빗소리 들으면 잠도 잘와서 좋드라구요ㅋㅋㅋ
+P0 	: 오늘은 좀 덥네요 ㅠ
+P1 	: 그런가요? 저희 지역은 오늘 좀 추워요...!!
+P0 	: 헉 그렇구나 여기는 덥고 습하고 난리예요,,
+P1 	: 비가 또 오려나 봐요 ㅜㅜ 습한날씨 너무 싫더라구요 ..
+P0 	: 저희 지역은 오전 내내 비왔었어요!
+P0 	: 거기는 비 안 왔나요??
+P1 	: 비 오전에 온것같은데 자느라 몰랐네요..!!

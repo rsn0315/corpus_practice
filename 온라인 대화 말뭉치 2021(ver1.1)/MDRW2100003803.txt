@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003803
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 대구도 비오나요?
+P1 	: 네 비와요 서울도 오나요?
+P0 	: 여기도 흐리긴한데 왔다 그친거같아요
+P0 	: 가을 장마오나봐요
+P1 	: 네 가을장마시작이라고 하더라구요
+P1 	: 부산은 많이 온데요 일본에 천미리 그비가 온거같아요
+P0 	: 비오고나면 선선해지겠어요
+P1 	: 점점 비가 많이 오려는지
+P0 	: 올해는 큰태풍도 없이 지나간거같은데
+P1 	: 이러다 여름 끝나고 가을 훅 짧게 해서 겨울올꺼같아요
+P0 	: 그니까요 간절기 옷살려고하면 계절바뀌더라구요
+P1 	: 이젠 간절기옷 사기 좀 아깝더라구요
+P1 	: 트렌치코트 몇번안입고 겨울오니 ㅋㅋ
+P0 	: 맞아요 트렌치코드 2-3번입금 추워져서
+P1 	: 가을엔 트렌치 좀 입어줘야 제맛인데 말이죠 ㅎ
+P0 	: 단풍구경하면서ㅎㅎ
+P0 	: 패딩꺼낼 준비해야죠 뭐ㅎ
+P1 	: 아.., 단풍 이야기하시니 산행 가고싶네요
+P0 	: 가을을 제일 좋아하는데 단풍구경 갈 수있을지 모르겠네요

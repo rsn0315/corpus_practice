@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100004287
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 와 학교 생활 궁금하다
+P1 	: 요즘 학교 다녀?
+P0 	: 지금은 방학기간이지
+P0 	: 너는?
+P1 	: 나도ㅋㅋㅋㅋㅋ 학교 다닐 땐 어땠어?
+P1 	: 약간 인싸일 거 같아
+P0 	: ㅋㅋㅋㅋㅋㅋ비대면이라서 동아리 아니면 사람 만날 일이 없었어
+P0 	: 너는 학교 다닐 때 어땠어?
+P1 	: 아 코로나 발생하고 입학했구나ㅠㅠ
+P1 	: 나는 코로나 터지기 전에는 학교생활 많이 했어
+P1 	: 학생회 들어가고 동아리하고
+P0 	: 오오 멋지다
+P0 	: 학생회 하면서 힘들진 않았어?
+P1 	: 응 별로 일이 힘들진 않았어ㅋㅋㅋ 나름 재밌었어
+P1 	: 사람이 힘들지
+P0 	: 이런
+P0 	: 동아리는 어떤 거 했어?
+P0 	: 나는 밴드 동아리 했는데
+P1 	: 나는 야구 동아리 했어
+P1 	: 밴드 동아리 멋있다 악기 다루는 게 있어?
+P0 	: 야구동아리 대박ㅋㅋ
+P0 	: 보컬이랑 기타 해
+P1 	: 와아아아아 진짜 멋있다...
+P1 	: 공연 한 적 있어?
+P0 	: 응응ㅋㅋㅋ 코로나 때문에 사람들 다 들어오진 못했는데
+P0 	: 공연은 했어ㅋㅋㅋ
+P1 	: 그건 아쉽다ㅠㅜㅠ 어떤 노래 했어?
+P0 	: 하고 싶은 노래는 따로 있었는데
+P0 	: 볼빨건사춘기 워커홀릭 불렀었어ㅋㅋㅋ
+P1 	: 아 너무너무너무 멋있어 그 노래 좋아해
+P1 	: 원래 어떤 노래 하고 싶었는데?
+P0 	: ex 잘부탁드립니다 이거 하고 싶었었어
+P1 	: 밴드 공연이랑 잘맞는 선곡이다

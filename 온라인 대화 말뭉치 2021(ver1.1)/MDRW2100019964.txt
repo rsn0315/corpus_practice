@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요리하느라 시간을 다쓴 하루입니다
+P1 	: 머만드셨어요?
+P0 	: 머만드셨어요?
+P1 	: 깐풍두부요
+P0 	: 두부로 깐풍기를요?
+P1 	: 네
+P0 	: 신기하네요
+P1 	: 맛있답니다
+P0 	: 전 오늘 청소하고 빨라하고
+P1 	: 하루가 다가셨겠어요
+P0 	: 네 맞아요
+P1 	: 전 냉장고청소도 했답니다
+P0 	: 냉장고 청소하면서 냉파하셨구나
+P1 	: 맞아요ㄲㅋㅋ
+P0 	: 알뜰하시네요

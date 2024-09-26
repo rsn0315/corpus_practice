@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100025202
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 최근 잘 사신 물건 있으신가요?
+P1 	: 최근에 강아지 사료와 간식을 샀어요
+P1 	: 님은 뭐 사셨나요
+P0 	: 음 저는 화장품 샀어요
+P0 	: 강아지 키우시나봐요~
+P1 	: 네 두마리 귀여워요ㅎ
+P1 	: 기초화장품 사셨나요?
+P0 	: 네~ 세럼이요!
+P0 	: 우와 두 마리나..너무 귀엽겠네요 ㅎㅎ
+P1 	: 아ㅎ 요새 마스크 끼느라 색조보다 기초위주로 사게 되는 것 같아요ㅎ
+P1 	: 중고거래도 하시나요?ㅎㅎ
+P0 	: 네네!
+P0 	: 사실 바지를 샀는데
+P0 	: 실패해서
+P1 	: ㅜㅇㅜ 아이고
+P0 	: 중고거래로 옷은 비추입니다...ㅋㅋ
+P1 	: 핏이 별로인가요 아님 사이즈가?
+P0 	: 옷 자체의 퀄리티가 좀 그랬어요
+P0 	: 물론 다 그런건 아닐 것 같기도 하지만요
+P1 	: ㅜㅜ 이쁘고 핏좋고 퀄리티좋으면 직접 입죠, 아무래도 어정쩡한 것 위주로 팔게 되나봐요
+P1 	: 사실 저도 중고거래 옷은 다 실패...
+P0 	: 하긴 그렇죠 ㅠㅋㅋㅋ
+P0 	: 그쵸 옷은 저도 이제 안사려구요 중고거래로는
+P1 	: 퀄이 좋아도 뭔가 미묘하더라고요ㅜㅇ
+P1 	: 신발은 또 괜찮아요ㅎ

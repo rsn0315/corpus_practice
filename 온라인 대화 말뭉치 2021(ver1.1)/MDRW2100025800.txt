@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요거트
+P1 	: 좋아하세요?
+P0 	: 고럼요 ㅎㅎ 요거트 환장해요!
+P1 	: 크으 그럼
+P1 	: 비요뜨도 좋아하시죠?
+P0 	: 딩동댕 ㅋㅋㅋ 요거트 너무 맛있어요... 누가 발명한 건지 상주고싶어요
+P1 	: 아 인정요 ㅠ
+P1 	: 비요뜨 유사제품도 많던데
+P1 	: 드셔봤나요
+P0 	: 아니요... 오로지 비요뜨 + 시중 요플레 + 수제그릭요거트!ㅋㅋㅋ
+P0 	: 수제그릭요거트도 맛은 있는데 정말 양이 적게나와서 항상 실망이커요 ㅠㅋㅋㅋ
+P1 	: 아ㅋㅋㅋ 실제로 만들어봤러요???
+P0 	: 네 ㅋㅋㅋ 되게 쉬워요~ 면보만 있으면 돼요 ㅎㅎ
+P1 	: 헉 맛이 궁금하네요ㅋㅋㅋ
+P0 	: 음... 꾸덕꾸덕한 요플레인데 아무맛안나는 치즈같기도 하고 ㅎㅎ 엄청 꾸덕하게 만드니까 맛있어요
+P1 	: ㅋㅋ 혹시 그 염소치즈 이런 느낌인가요?
+P0 	: 염소치즈가 뭔지 모르겠어요 머쓱하지만..
+	  만들어보세요! ㅎㅎㅎㅎ 꿀뿌려먹으면 너무너무 맛있어요
+P1 	: 뭔가 믿음이 가네요
+P1 	: 나중에 한번 해봐야겠어요

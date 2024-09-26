@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100020534
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식드시나요?
+P1 	: 네 저는 자주 먹어요~님은요?
+P0 	: 저도요 중독됐어요
+P0 	: ㅠ
+P1 	: 그쵸?요즘 쿠폰도 자주주니
+P1 	: 어떤 음식 자주 시키세요?
+P0 	: 기름기와 밀가루ㅠ
+P0 	: 피자 치킨 스파게티
+P1 	: 저희는 햄버거 피자네요
+P1 	: 얘들이 좋아해서..
+P1 	: 자주시키는 배달앱 있으세요?
+P0 	: 전 배민주로 써요
+P0 	: 행버거도 배달 괜찮나요?
+P1 	: 저는 배민 요기요 쿠팡잇츠 시켜요 롯데리아는 빨리 오더라구요
+P0 	: 아 햄버거도 먹고싶네요
+P0 	: 저녁은 모드세요?
+P1 	: 저녁은 한식위주로 먹으려고 해요
+P1 	: 님은요?
+P0 	: 전 비가오니 칼국수가 땡겨요
+P1 	: 아 칼국수 좋네요~해드시나요?
+P0 	: 사먹어용ㅋㅋ
+P0 	: 요알못ㅠ

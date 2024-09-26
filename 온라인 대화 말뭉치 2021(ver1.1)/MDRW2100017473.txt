@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017473
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 가면 기념품 사는 편이에요?
+P0 	: 저는 기념품보다는 면세점에서 선물을 구매해요ㅋㅋ
+P1 	: 아 그렇구나 보통 해외여행 다니시나봐요?
+P0 	: 많이 가보진 못했어요ㅠ &name2&님은요??
+P1 	: 저는 보통 근거리 여행 많이가요~
+P1 	: 요즘엔 여행 더더욱 못가는 것 같아요..
+P0 	: 접종 후에도 좀 지켜보려구요ㅠ
+P1 	: 백신 1차 맞으셨어요?
+P0 	: 아직이요ㅠㅠ 9월 말에 맞아요ㅠㅠ
+P1 	: 허걱!
+P1 	: 백신 맞게 된다면 가장 가고 싶은 여행지는?
+P0 	: 코타 다시 가고싶어요!
+P1 	: 코타가 어디에요?
+P1 	: 코타니발루..?
+P0 	: 네네! 그 곳에 다시 가고 싶네요ㅠ
+P1 	: 인도네시아에 있는 것 맞죠?
+P1 	: 어떤 점이 좋았어요?
+P0 	: 말레이시아에 있어요! 바닷속 풍경이 정말 아름다웠어요
+P1 	: 바닷 속은 어떻게 봤어요? 스노쿨링?
+P0 	: 네네, 스노쿨링으로 물 위를 떠다니면서 밑을 봣어요!
+P1 	: 와.. 거기 물이 엄청 맑죠?
+P0 	: 동해처럼 엄청 맑고 청록빛으로 빛나는데 더 좋은 건 물 솓에 산호와 물고기가 매우 많다는 점이었어요!
+P1 	: 와..여행경비는 얼마나 들었어요?
+P0 	: 인당 100-150정도 든 것 같은데 잘 기억은 안 나네요ㅠ

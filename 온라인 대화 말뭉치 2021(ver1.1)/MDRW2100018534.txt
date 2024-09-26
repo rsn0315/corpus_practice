@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018534
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 이번에 여행 다녀 오셨어요?
+P1 	: 아니요 ㅜ
+P0 	: 집콕 하셨군요 ㅠ 코로나때문에 걱정되서 그러신건가요?
+P1 	: 네 남편이 걱정대장이라 ㅜ
+P0 	: 올해는 아무데도 안가신건가요?
+P1 	: 봄에 좀 다니다가 코로나 심해지며 못가고있어요
+P0 	: 봄에 어디 가셨나요?
+P1 	: 경주 파주 강화 서울 조금씩 다녔는데 ㅜㅜ 이제 멈춘지 몇달
+P0 	: 강화는 뭐보러 가셨나요?
+P1 	: 절도 가고 카페도 가고 교동도 가고 밥먹고 드라이브 하러 몇번 갔나봐요
+P0 	: 아이도 좋아하나요?
+P1 	: 좋아했다 말았다 그래요 ㅎㅎ위급시 영상으로 달래고
+P0 	: ㅋㅋㅋ &name2&을 위한 여행이었군요
+P1 	: 저보단 남편? ㅋㅋ
+P0 	: 아~ 사부님 스타일의 여행~ 전 저를 위한 여행을 언제 가고 안갔는지 기억도 안나요

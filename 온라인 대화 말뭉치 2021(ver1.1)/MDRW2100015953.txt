@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015953
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 학생이신가요?
+P1 	: 네!
+P0 	: 아핫
+P0 	: 대학생이시겠군요
+P0 	: 저는 대학교 졸업했어요!
+P1 	: 네 다니는 중이에요
+P0 	: 몇학년이세요?
+P1 	: 2학년이요
+P0 	: 곧 있으면 개강이죠?
+P1 	: 네.다음주... ㅠㅠ
+P0 	: 요즘도 수업 온라인으로 하나용?
+P1 	: 다 비대면이에요 ㅋㅋ 줌으로 해요
+P0 	: 아하ㅠㅠ 코로나 터지고 입학하셔서
+P0 	: 추억 쌓기가 어려우셨겠네요ㅠ
+P1 	: 맞아요 학교 가본 게 손에 꼽아요

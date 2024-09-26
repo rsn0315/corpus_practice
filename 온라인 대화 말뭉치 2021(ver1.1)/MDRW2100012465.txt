@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100012465
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨가 꽤 선선해졌죠~
+P1 	: 네 아침 저녁으로는 제법
+	  가을느낌이 드네요
+	  태풍까지 와서 더 그런듯...
+P0 	: 오늘은 생각보다 좀더운거같아요ㅠ
+P0 	: 습하고
+P1 	: 네 무지 습하네요
+	  빨래도 안 마르고
+P0 	: 네 오늘 유독 습하네요
+P0 	: 날도 좀덥고
+P1 	: 그러게요
+	  바람은 불지만
+	  묘하게 후덥지근 하네요
+P0 	: 비가 담주까지 계속오나봐요ㅠㅠ
+P1 	: 아마도요
+	  이 비가 그치고나면
+	  진짜 가을이 시작되겠죠?
+P0 	: 비가 장마인지 길어져서 갑자기 추워지고 금방 겨울올거같아요
+P0 	: 어떤계절 좋아하세요?
+P1 	: 저는 봄이요
+	  &name1&은요?
+P0 	: 전 가을이요
+P0 	: 봄도좋아해요~
+P1 	: 그렇군요
+	  근데 봄 가을이 너무 짧아져서
+	  아쉬워요
+P0 	: 그니까요 나이먹으니 눈오면 설레임보단 출근길걱정부터^^;
+P1 	: 허걱~ 벌써 눈 걱정을..
+	  저도 이젠 낭만이고 뭐고
+	  화창한 날씨가 제일 좋더라구요^^
+P0 	: 금방일걸요 겨울ㅎ

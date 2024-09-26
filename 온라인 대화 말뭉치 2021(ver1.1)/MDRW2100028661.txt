@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100028661
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 배달음식 자주 드시나요?
+P1 	: 아니요!
+P1 	: 망게님은요?
+P0 	: 저는 엄청.. 자주ㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ저두 원래 자주 시켜먹었는데
+P1 	: 돈이 너무 많이 들어서..
+P0 	: 그건 그렇죠..
+P0 	: 근데 직접 요리하기가 힘들더라구요
+P1 	: 저는 요리를 좋아하는 편이라서
+P1 	: 더 그런가봐요
+P0 	: 요리는 뭘 보고 하시나요?
+P1 	: 저는 주로 유튜브에서 보는 것 같아요!
+P1 	: 백종원님 요리법을 애용합니다ㅎㅎ
+P0 	: ㅋㅋㅋㅋㅋ추천하시는 간단요리가 있을까요?
+P1 	: 저는 버섯을 좋아해서 버섯조림이요!
+P0 	: 다음에 유튜브에 한 번 검색해볼게요ㅋㅋㅋㅋ
+P1 	: 네네 꼭 드셔보세요!
+P0 	: 재료는 버섯만 있으면 되나요?
+P1 	: 주재료는 그렇고! 양파 좋아하시면 같이 조려도 맛있어요

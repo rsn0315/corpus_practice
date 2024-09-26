@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006067
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>'위드 코로나' 단계적 전환
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신은 맞으셧어요?
+P1 	: 의료인이라서 진작 맞앗어욤
+P0 	: 그러셧군요
+P0 	: 코로나때문에 잃은게 너무 많아요 ㅠㅠ
+P1 	: 맞으셧나요?
+P0 	: 1차만 맞앗어요
+P1 	: 화이자맞으셧나욤?
+P0 	: 모더나맞앗어요
+P1 	: 오 저는 화이자!!
+P0 	: 어땟어요?
+P1 	: 저는 하나도안아팟는데
+P1 	: 주변에서 다 아파햇어요
+P1 	: 수액도 맞고
+P0 	: 수액맞을정도로요? ㄷㄷ
+P1 	: 화이자2차맞고 아픈사람들 잇엇어여
+P0 	: ㅠㅠ무섭네요
+P0 	: 모더나 2차 맞은 분은 주변에 잇나요?
+P1 	: 엄마 오늘 2차맞앗어요
+P1 	: 모더나맞고 아프다는소리 주변에서 못들엇어요!!
+P0 	: 아 정말요? 다행이네요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011015
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 갖고 싶은 물건있어요?
+P1 	: 아이패드요
+P0 	: 아이패드 없으세요?
+P1 	: 근데 노트북을 최근에 사서 괜찮아요
+P0 	: 우와 노트북 어떤거요?
+P1 	: 그램노트북이요
+P0 	: 우와 진짜 가볍나요?
+P1 	: 네 가벼워서 들고다니기좋아요
+P0 	: 전 춘식이 인형 갖고싶어요
+P1 	: 춘식이요?
+P0 	: 네 카카오 캐릭턴데 엄청 귀여워요
+P1 	: 라이언 친군가요ㅋㅋㅋ?
+P0 	: 네ㅋㅋ 라이언이 키우는 고양인데 귀여워요

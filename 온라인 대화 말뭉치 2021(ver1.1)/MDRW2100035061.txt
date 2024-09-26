@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 고민 있니
+P0 	: 인턴 때문에 고민이야
+P1 	: 인턴 되고 나서 좋아했잖아
+P0 	: 스트레스 받는 일이 생겼어
+P1 	: 어떤 것인지 말해봐
+P0 	: 직장 선배가 나를 안 좋아해
+P1 	: 대체 왜 그러지
+P0 	: 나를 일 시키는 게 귀찮다고 생각하는 것 같아
+P1 	: 그치만 크게 사수가 해야 할 일인걸
+P0 	: 나도 그렇게 생각해
+P1 	: 스트레스가 이만저만이 아니겠다
+P0 	: 자꾸 눈치를 보게 돼
+P1 	: 내가 도울 수 있는 게 있다면 좋을 텐데
+P0 	: 말만으로도 고맙다

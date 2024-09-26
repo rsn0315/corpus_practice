@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034927
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 위염도 한 번 걸리면 자주 걸리는거 같아요
+P1 	: 평소에 드시는거 조절 관리 잘 하셔야겠어요
+P0 	: 오늘 좀 과식을햇더니.. ㅠㅠ
+P1 	: 맛있는 음식 앞에 있으면 과식 하시는편인가요
+P0 	: ㅋㅋㅋㅋ 요줌 자제하려고 애썻는데 ㅜㅜ
+P1 	: 잘 지키다가 가끔 고삐가 풀릴때가 있죠ㅜㅜ
+P0 	: ㅋㅋㅋ 내일 점심엔 뭘먹어야하나 고민이되네요
+P1 	: 그런 날은 꼭 적게 먹을걸 왜 과식을 해서 이런 후회를 하게되는거 같아요
+P0 	: ㅋㅋㅋㅋㅋ &name2&님은 언제 과식을하세요?
+P1 	: 생각해본 메뉴 있으세요?
+P0 	: 스파게티나 피자 해야할것같아요 ㅋㅋㅋ
+P1 	: 음..가끔 음식앞에 욕심이 생기는 날이 있는것 같아요
+P0 	: 요즘 무슨요리를 제일 좋아하시는데요?
+P1 	: 요즘 딱히 좋아했던것 없었어요
+P1 	: 그냥 대체적으로 무난히 먹었던걸로 기억해요
+P0 	: 오.. 그러시군요.

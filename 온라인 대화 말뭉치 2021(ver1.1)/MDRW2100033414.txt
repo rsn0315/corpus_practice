@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100033414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 아침 먹었나요?
+P1 	: 아뇨 오늘 아침 바빠서 미숫가루 한 잔 마시고 출근했어요
+P1 	: &name1&님은 식사하셨어요?
+P0 	: 저도 드디어 편의점 샌드위치먹었어요!!
+P1 	: &name1&님 출근도 이른시간에하고
+P1 	: 식사도 샌드위치로 때우고
+P1 	: 힘드실것같아요
+P0 	: 아ㅜㅜ매일아침마다 반복할것같아요
+P1 	: 출근시간이 빠른가요?
+P0 	: 아침에 일찍 일어나야해요ㅜㅜ
+P0 	: 직장이 멀어서요ㅜㅜ집이랑
+P0 	: 그래서 아침을 못먹어요ㅜㅜ
+P0 	: 중간에 편의점들러서 사먹어야해요
+P1 	: 흠... 안타깝네요
+P1 	: 저도 아침에 미숫가루 한 잔 마시고 왔는데
+P1 	: 힘내시고 점심 든든하게 드세요
+P0 	: 점심 함박스테이크나와서 버텄어오!!
+P0 	: 낼은 새우튀김나와요
+P1 	: 점심때 유치원에서 나온건가요?
+P1 	: 맛있었겠다
+P1 	: 퇴근은 하셨어요?
+P0 	: 출근하기전에 사먹은거죠ㅜㅜ
+P0 	: 가는길중간에요
+P1 	: 아이들 좋아하세요?
+P0 	: 아이들좋아하죵

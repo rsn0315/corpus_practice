@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100022130
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 문젠 한달 뒤 추석때까지 더 오를거 같아요
+P0 	: 아 곧 추석이지
+P0 	: 진짜 난리나겠네요
+P0 	: 냉동식품은 뭐 주로사세요
+P1 	: 에어프라이어를 작년 코로나 직후에 샀는데 사놓구보니 자꾸 거기에 먹게돼요
+P0 	: 맞아요 에프에 구우면 다 맛있어요
+P0 	: 주로 어떤거 사시나요
+P1 	: 치즈시틱 곤만두 핫도그 감자튀김 탕수육 같믄거어요
+P0 	: 전부 맛있는것들이네요
+P0 	: 그 중 어떤게 가장 맛있던가요
+P1 	: 탐수육 맞있어요 찹쌀 탕수육
+P0 	: 찹쌀탕수육 괜찮았군요
+P0 	: 어디꺼가 맛있던가요
+P1 	: 이름 생각 안나요 
+	  포장지는 빨간색이었는데
+P0 	: 음 빨강색이라
+P0 	: 어디서 사셨어요? 음 마트? 인터넷?
+P1 	: 백화점 내 마트요
+P0 	: 그러셨군요
+P0 	: 나중에 한 번 찾아보도록 하겠습니다
+P1 	: 네~ 추천해요 단 양을 적어요 ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004089
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 글쎄 찾아봐야하는데
+P0 	: 그럼 내꺼만 산다
+P1 	: 왜? 그러니
+P0 	: 적립금이 있어서 이걸로 쇼핑할려고 하는데
+P1 	: 그럼 세제
+P0 	: 세제? 무슨세제를 말하는 건데
+P1 	: 너희 아빠가 세탁세제가 없다든데 유연제랑
+P0 	: 그게 없다고 ? 다른건 없고 ?
+P1 	: 응 지금 생각나는건 그거야
+P0 	: 알았어 그거 검색해볼게
+P1 	: 응 사지 말라고 이야기 해둬야 겟다 너가 사준다고
+P0 	: 어 이야기 해둬
+P0 	: 잠시후에 뭐 샀는지 알려줄게
+P1 	: 그래 알았다
+P0 	: 저번에 산지 얼마 안된거 같은데 금방 떨어지네
+P1 	: 너희 아빠에게물어봐
+P0 	: ㅋㅋㅋㅋ 아빠에게 ? 알았어

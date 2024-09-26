@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100013846
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 공연 보는거 좋아하시나요?
+P1 	: 네 근데 요즘엔 거의 못봤어요ㅠㅠ
+P1 	: 보신거 있으세요?
+P0 	: 저도 요즘에는 못봤는데 ㅠㅠ 원래 콘서트 가는거 좋아해요 ㅎㅎ
+P0 	: 어떤 공연 좋아하세요 ??
+P1 	: 저도 콘서트도 좋아하구 뮤지컬도 가끔가요ㅎㅎ
+P0 	: 뮤지컬은 보러간적이 없어서 한번 가보고 싶네용
+P0 	: 콘서트랑 느낌이 많이 다르죠 ?
+P1 	: 한번 보시면 재밌어요ㅎㅎ네 근데 안맞는 분들도 있어서 ㅜㅜ
+P0 	: 맞아요 저는 연극은 안좋아해요 ㅠㅠ
+P0 	: 약간 넓은 곳에서 하는 공연을 좋아해서 ㅎㅎ
+P1 	: 저도...안맞더라구요ㅎㅎ
+P0 	: 콘서트도 못간지 2년정도 된거같아요
+P0 	: 언제 마지막으로 가셨어요?
+P1 	: 비슷하네요ㅠㅠ작년 초에 가구 못갔어요ㅠㅠ
+P0 	: 아이돌 콘서트 가셨나용 ?
+P0 	: 저는 아이돌 콘서트 갔어요 ㅎㅎ
+P1 	: 아 동생따라서 한번 가본적있어요ㅎㅎ 
+	  누구 가보셨어요?
+P0 	: 저는 예전부터 방탄 좋아해서 콘서트 가봤어요 ㅎㅎ
+P1 	: 오 표구하기 힘들다던데ㅎㅎ 대단하세요
+P0 	: 어떤 가수 콘서트 가셨어요 ??
+P1 	: 저는 박효신콘서트 갔었어요ㅎㅎ

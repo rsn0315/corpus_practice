@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041728
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 드셨나요
+P0 	: 네! 로제파스타 먹었어요~ &name2&님은 점심에 어떤거 드셨어요? :)
+P1 	: 저는 회사 식당 급식이요 ㅋㅋ 황태국 양배추쌈 소불고기 ...
+P1 	: 로제파스타 시켜드셨나요?
+P0 	: 우와 든든한 한 끼 드셨네요 :)
+P0 	: 로제파스타 대충 집에서 만들고 때웠습니다 ㅠㅠ ㅋㅋ
+P0 	: 밥 먹고 후식 드시나요? :)
+P1 	: 네네 커피 마시고 왔어요
+P1 	: 와 집에서 만드셨구나
+P0 	: 음~ 커피는 개인카페 이용하시나요?
+P1 	: 아 회사내에 카페가 있어용
+P0 	: 오~ 회사내에 카페가 있어서 편하겠네요 :)
+P0 	: 카페가면 디저트 드시는 편이신가요?
+P1 	: 아 저는 요즘은 잘 안먹어요
+P1 	: 티러미수 조아해요
+P0 	: 앗 그러시군요! 저도 티라미수 진짜 좋아해요 :3
+P0 	: 요즘 카페에 크라플 팔던데 드셔보셨나요?
+P1 	: 네네 크로플 맛있죠 따실때 먹으면 참 좋아요
+P0 	: ㅎㅎ 맞아요 따끈따끈할때가 제일 맛있어요~
+P0 	: 저녁으로 어떤거 드셨나요? :3
+P1 	: 저 김치찌개욭
+P1 	: 머 드셨어요
+P0 	: 헐 김치찌개 원픽인데 맛있었겠네요 ㅠㅠ 저는 치킨 먹었습니다..ㅎㅎ 살찔것같네요...

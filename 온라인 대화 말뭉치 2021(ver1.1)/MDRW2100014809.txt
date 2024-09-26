@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014809
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 하시는 운동 있으세요?
+P1 	: 네 전 요가해요 &name1&님은요?
+P0 	: 저는 요즘 스트레칭만 해요
+P0 	: 기회되면 수영 배워보고 싶어요
+P1 	: 수영 진짜 재밌어요
+P0 	: 와 수영할 줄 아세요?
+P1 	: 저는 이시국 전까지는했었는데...
+P1 	: 네 관둬서 아쉬워요
+P0 	: ㅠㅠ
+P1 	: 네 근데 1년밖에 못했어요 ㅋㅋ
+P0 	: 성인 돼서 배우셨나요?
+P0 	: 저 운동신경이 없어서 무탈히 배울 수 있을까 걱정이 있어요ㅋㅋ
+P1 	: 네 성인 돼서 배웠는데 재밌어요
+P1 	: 어딜가도 기초부터 잘알려줄거에요!!
+P1 	: 전 백신맞으면 다시 하려구요 ㅋㅋ
+P0 	: 오오
+P0 	: 수영 영법 어디까지 배우셨어요?
+P1 	: 저는 기초영법은 다배웠는데
+P1 	: 다이빙 배우고싶은데 못배우고 그전까지만 했네요
+P0 	: 와 다이빙은 무서움도 좀 이겨내야할 것 같아요
+P1 	: 맞아요 그거 무섭다는 사람 많더라구요 ㅋㅋ
+P1 	: 스트레칭은 홈트하시는건가요?
+P0 	: ㅋㅋ 네 여기저기 소소하게 아픈 데가 많아서 스트레칭 없이 살 수가 없어요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008836
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 다녀?
+P1 	: 나 지금은 휴학중이야
+P0 	: 오 어떤 거 하려고?
+P1 	: 일단 돈을 좀 벌고 싶어서..?
+P1 	: 그리고 뭐 자격증이나..
+P0 	: 오 좋은 생각이여 여행은 시국이 시국인지라 좀 그렇겠네
+P1 	: 아 맞아 보통 휴학하면 여행 많이 가던데 못가게 됐지..
+P0 	: 휴학 하는 중에도 동아리 활동 할 수 있나???
+P1 	: 동아리마다 다른 것 같긴한데 보통 하지 않을까..?
+P1 	: 학교가 멀면 못 할 것 같긴 한데 그거 아니면 가능할 수도..
+P0 	: 그러네 학교가 멀어? 어떤 동아리 했었어?
+P1 	: 응 좀 멀어
+P1 	: 나 그때는 종교가 있어서 종교동아리에서 활동했었어
+P0 	: 오오 종교동아리
+P0 	: 우리는 채플 시간이라고.. 종교동아리 애들이 앞에서 춤추고 그랬었어
+P1 	: 어.. 나도 춤은 안췄는데 우리학교에도 채플 시간있어서 공연하고 그랬었어
+P1 	: 지금은 안하고있고
+P0 	: 그치 지금은 좀 그렇겠다

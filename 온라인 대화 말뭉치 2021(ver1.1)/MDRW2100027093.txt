@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우세요??
+P1 	: 아뇨 ㅎㅎ &name1&은요?
+P0 	: 저도 없어요...ㅎㅎㅎ
+P0 	: 동물은 좋아하세요??
+P1 	: 아뇨
+P1 	: 애기는 좋아합니다ㅋㅋㅋ
+P0 	: 애기 너무 귀엽죠ㅎㅎㅎ
+P0 	: 동물 알러지 있나요??
+P1 	: 아뇨 그건 아닌데ㅋㅋ 동물<애기라서
+P1 	: 이제 애기 키워야 할 나이라 ㅋㅋ
+P0 	: 아 맞아 애기랑 동물 같이 키우기는 그렇지!
+P1 	: 네ㅋㅋ 나중에 크면 좀 생각해봐야겠으요
+P0 	: 맞아요 어느정도 컸을때 키우면 좋은거 같더라구요~
+P1 	: 넵 ㅋㅋ 그렇게 해야지요
+P1 	: 털때문에 지금은 좀 ㅎㅎ
+P0 	: 강아지가 좋으세요 고양이가 좋으세요??
+P1 	: 전 강아지요
+P1 	: 고양이는 날 아래로 보는거 같아요
+P0 	: ㅋㅋㅋㅋ저도 고양이보다 강아지 더 좋아하는거같아요

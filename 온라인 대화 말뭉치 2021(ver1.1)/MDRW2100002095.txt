@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100002095
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 최근에  다이어트하려고 식단조절 시작했어요
+P0 	: 머 드세여?
+P1 	: 샐러드 먹어요
+P1 	: 퇴근하면 gx 꾸준히했는데
+P1 	: 체중변화가 없어서
+P0 	: 잘때 배고프지 않아요?
+P1 	: 자기전은 괜찮은데
+P1 	: 회사에서 점심때 샐러드 먹으면
+P1 	: 오후에 배가 고파요
+P1 	: 저기 혹시 저희 방금반려동물로 한 대화
+P1 	: 통과됐다고 나오나요?
+P1 	: 저는 통과안된걸로 나오는데
+P0 	: 관리하시는 분들 퇴근하셨나 본데요
+P0 	: 검증을 안하시네요
+P1 	: 아 그래서 그렇구나
+P0 	: 저도 그래요
+P1 	: 늦게 주무셔도 내일 출근 무리없으세요?
+P0 	: 몸이 적응 한듯요
+P1 	: 저도 같은 루틴이 계속되니까 어찌어찌 버티네요
+P0 	: 매일 아침마다 밤에 일찍자야지 다짐맘 하죠
+P1 	: 그런데 일찍자려고 너무 신경쓰면 그것때문에 스트레스 받아서
+P1 	: 더 잠에 못든대요
+P1 	: 마음을 편히가지라고 하더라고요

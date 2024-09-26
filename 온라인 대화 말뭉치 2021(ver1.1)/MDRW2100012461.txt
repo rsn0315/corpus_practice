@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012461
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 다이어트 하시나요?
+P1 	: 아니요
+P1 	: &name1&은요?
+P0 	: 저는 살을 빼기보단 건강해지려고 풀위주로 먹고있어요
+P1 	: 저도요! 오래살고싶어서 채식위주로 식사해요
+P0 	: 오 저랑 같네요~ 과일도 많이 드세요?
+P1 	: 네~ 이번 여름에 복숭아 엄청 먹었습니다
+P1 	: 심시미님은요?
+P0 	: 올해 복숭아 너무 맛있었죠ㅠㅠ
+	   저도 과일 엄청 많이 먹었어요.
+P0 	: 과일이 피부에도 좋고 면역력에도 좋죠
+P1 	: 맞아요
+P1 	: 영양제는 드시나요?
+P0 	: 루테인이나 유산균같은것만 챙겨먹고 있어요
+P0 	: &name2&은요?
+P1 	: 유산균, 마그네슘, 아연, 비타민c, 비타민d, 오메가3 먹어요
+P1 	: 유산균 어떤거 드세요?
+P0 	: 저 락토핏이요! 어떤거 드세요?
+P1 	: 자로우 펨 도필러스 먹어요!
+P0 	: 우리나라 회사건가요?
+P1 	: 아뇨 해외직구했어요

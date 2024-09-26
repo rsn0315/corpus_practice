@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 제품 뭐 있으세요?
+P1 	: 스마트워치 이번에 샀어요~~
+P0 	: 우와 스마트워치......
+P0 	: 저도 갖고싶네요
+P1 	: 저도 이번에 처음 사봤는데 확실히 편하긴 하네요ㅎㅎ
+P0 	: 전 아이폰 쓸때 애플워치가 그렇게 갖고싶더니
+P0 	: 갤럭시로 넘어오니 다시 스마트워치가 갖고싶네요
+P1 	: 저는 원래 갤럭시만 쓰다보니 갤워치4  나온다고 액티브2도 저렴하더라구요
+	  남편하나 저하나 이렇게 구매 했지요
+P0 	: 와 이번 갤워치4 구매하신거에요?
+P1 	: 아니요 저렴한 액티브2  2개를 구매했지요ㅋ
+P0 	: 전 액티브 디잔인도 좋더라구요 ㅎ 깔끔해서요
+P1 	: 맞아요 여자손목이다보니 40mm이가 딱이예요ㅎㅎ
+	  최근 구매하신 물건 어떤거 있으신가요?
+P0 	: 전 최근에 프린터를 구매했는데 과소비 한 느낌이에요 ㅎ
+P0 	: 저렴해서 사긴 했는데,,,
+P1 	: 와 레이저 프린트 사신거예요?
+P0 	: 아니요 그냥 잉크요!! 집에 흑백레이저 있어서 그냥 샀는데
+P0 	: 약간 후회중이에요 ㅎ하하
+P1 	: 앗 왜 후회하시는거죠?ㅜㅜㅜ 저렴하게 사셨다고 해도 비쌀것 같은데...

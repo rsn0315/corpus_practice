@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026804
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 정말 제주도에 계신가요?
+P1 	: 네에
+P1 	: 님은 어디사세요
+P0 	: 저는 그냥 경기도 살아요 ㅎㅎ 제주도 사는 거 어떠세요?
+P0 	: 매일 매일 여행 같겠어요
+P1 	: 매달오다가
+P1 	: 걍 집 얻어서 좀 살면서 여행하고 싶어서 내려왔어요
+P0 	: 매달 가셨다니 정말 제주도 좋아하시나 봐요ㅎㅎㅎ
+P1 	: 해외에 가고 싶지만 못가니까요
+P1 	: 그나마 가장 이국적이어서 그런 듯 해요
+P0 	: 아 제주도의 이국적인 분위기를 좋아하시는군요 ㅎㅎ
+P0 	: 코로나 끝나면 해외에 나갈 계획도 있으신가요
+P1 	: 네 다시 나가고 싶어요
+P1 	: 홍콩 이나 쿠알라룸프르
+P0 	: 쿠알라룸푸르는 처음 들어봐요! 어떤 곳인가요?
+P1 	: 홍콩은 여러번 갔는데 쿠알라룸프르는 반딧불로 유명하다고 해요 추천만 받아서 아직 못가봤어요
+P0 	: 우와 반딧불 정말 낭만적이에요...  저도 검색해봐야겠어요
+P0 	: 해외여행을 많이 다녀 보셨나요
+P1 	: 젊을때?? 많이 다녔어요
+P1 	: 코시국이 되니 다행인지도 ㅎㅎ
+P0 	: 우와~ 어디어디 다녀 보셨어요? ㅎㅎㅎ
+P0 	: 전 해외여행을 일본 밖에 안 가봐서요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁드셨나요?
+P1 	: 네! &name1&님도 드셨나요~ 전 청국장찌개에 밥이랑 먹었어요
+P0 	: 네 저는 친정에서 호박잎이랑 된장찌개 끓여줘서 그거먹었어요 ㅎㅎ
+P1 	: 오오 저랑 메뉴가 좀 비슷하시네요 !^^ 전 김이랑 같이 먹었어요 ㅎㅎ
+P0 	: 그러게요 비슷해요
+P1 	: 찌개 넘 좋아용
+P0 	: 카레에 김싸먹으면 맛있어요
+P0 	: 드셔보셨나요?
+P1 	: 오 정말요?
+P0 	: 네 저는 카레라이스 해먹으면 김이랑 같이 먹어요 ㅎ
+P1 	: 그렇게 한번도 안먹어봤어요! 맛있겠네요
+P0 	: 네 생각지도 않았는데 티비에 어느 드라마에서 먹는거보고 따라해봤더니 맛나더라구요
+P1 	: 오 신기하네요 ^^ 궁합이 잘 맞나봐요 꼭 먹어볼게요 ㅎㅎ
+P0 	: 하긴 김이랑은 다 맛나긴하쥬 ㅎ
+P1 	: 그렇긴 하죠 ㅎㅎ

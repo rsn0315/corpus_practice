@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100019600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: ai에 대해 아시나요
+P1 	: 아주 조금요
+P0 	: 저는 이번 기회에 아주 조금씩 알게 되네요 ㅋ
+P1 	: 이번 기회?공부중이세요?
+P0 	: 아뇨..그냥 검색하며 뭔지 윤곽이라도 느껴보는정도요 ㅠㅠ
+P1 	: 아하 관심 좀 가세요?어려워요
+P0 	: 네 ai는 인공지능학과라고 나오더라구요
+P1 	: 인공지능 중요하죠 세상 참 좋아지고 있다는
+P0 	: 네 대세라는건 비중이 커지고 있다는 거겠죠?
+P1 	: 그쵸 로봇 이나 여러가지 세상치 엄청 빨리 변해요
+P0 	: ai가 결국 코딩이랑 비슷한 것 같더라구요?
+P1 	: 폭넓은 ai 안에 코딩도 있죠
+P0 	: 잘 알고 계신듯하네요^^

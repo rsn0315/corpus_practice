@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100045684
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 안녕하세요, 떡볶이 좋아하시나요?
+P1 	: 안녕하세요 &name1&님~!
+P1 	: 싫어하진 않는데 엄청 좋아하진 않아요 ㅋㅋㅋ
+P1 	: &name1&님은 떡볶이 좋아하시나요?
+P0 	: 전 좋아해요!ㅋㅋㅋ근데 떡볶이 먹고나서 나오는
+P0 	: 치즈밥을 더 좋아하는 거 같아요ㄱㅋㅋ
+P1 	: 아하 ㅋㅋㅋㅋ 치즈밥은 뭔가요
+P1 	: 볶음밥같은걸까요?
+P0 	: 맞아요!
+P0 	: 남은 양념에 치즈랑 해서 볶아주는데
+P0 	: 너무 맛있어요ㅠㅠ
+P1 	: 으악 맛없을 수가 없겠는데요
+P1 	: 저도 전에 떡볶이 국물에 밥비벼주는 거 먹어봤는데
+P0 	: 진짜요ㅠㅠ
+P1 	: 별로일 줄 알았는데 맛있더라구요
+P1 	: 근데 거기에 치즈까지 얹었으니.. 캬
+P0 	: 크으ㅠㅠㅠㅠㅠ
+P0 	: 치즈는 정말 만능이에요
+P1 	: 맞아요 ㅋㅋㅋㅋ
+P1 	: 크림치즈는 별로 안좋아하는데
+P1 	: 피자치즈는 진짜 넘 맛있어요
+P0 	: 맞아요ㅠㅠㅠ
+P0 	: 모짜렐라는 정말...
+P0 	: 파파존스 치즈스틱 혹시 드셔보셨나요?
+P0 	: 그것도 짱맛이에요
+P1 	: 헉 아니요 파파존스가 근처에 없어서 못먹어봤네요
+P1 	: 먹어보고싶군요...
+P0 	: 꼭 드셔보세요! 도우에 치즈가 듬뿍 올라가있어요
+P1 	: 으아아ㅏ ㅜ 파파존스 꼭 기억하겠습니다
+P0 	: 희희 후회하지 않으실거예요

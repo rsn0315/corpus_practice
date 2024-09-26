@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100045787
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 관람하신거 혹시 있으신가요?
+P1 	: 안녕하세요 최근엔 코로나때문에 ㅠㅠ
+P1 	: 님은요?
+P0 	: 저도 코로나 때문에 못다녔네요.
+P0 	: 원래는 공연이나 전시회 좋아하셨나요?
+P1 	: 네 좋아햇어요
+P1 	: 영화관도 좋아하고
+P0 	: 저도 공연이나 전시회보다는 영화관에 제일 많이 갔네요
+P0 	: 영화도 최근에 본적없으신가요?
+P1 	: 네 영화관에 안갓어요
+P1 	: 님은요?
+P0 	: 저는 한번씩은 가요
+P1 	: 오 최근에 뭐 보셧어요?
+P0 	: 모가디슈 봤어요
+P0 	: 아시너요?
+P0 	: 아시나요?
+P1 	: 보고싶엇던 영화예요
+P1 	: 평이 괜찮던데요
+P0 	: 네.재밌게 봤어요. 추천드립니다
+P1 	: 추천감사해요 나중에봐야겟어요
+P1 	: 인생영화 잇으세요?
+P0 	: 네 쉐이프오브워터랑 더 랍스터 라고 아실지 모르겠네요
+P0 	: 님은요?
+P1 	: 둘다 봣어요
+P1 	: 저는 그래비티랑 매드맥스요
+P0 	: 저도 둘다 좋아해요
+P0 	: 매드맥스는 극장에서 세번인가봤네요
+P1 	: 매드맥스 진짜 극장에서만 여섯번인가 봣어요

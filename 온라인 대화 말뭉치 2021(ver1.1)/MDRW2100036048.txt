@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100036048
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영양제 드시는거 있으세요?
+P1 	: 네!  저 비타민 루테인 유산균 콜라겐 먹습니다!   &name1&님은요?ㅇㅅㅇ
+P0 	: 오오 저는 유산균 msm 이요!
+P0 	: 비타민하고 루테인은 사놓고 챙겨먹질 못하네요ㅜ
+P1 	: msm은모예용? 어디에좋은건가요!
+P0 	: 관절이요!! 삐걱거리더니 먹으니 좀 나은거 같아서 계속 먹고있어요!
+P1 	: 헐 저한테 필요한거였네요 ㅋㅋㄱ오 감사합니다ㅋㅋㄱ
+P0 	: 오오!! 도움이 된다니 기뻐요!!
+P0 	: 콜라겐 어떤거 드세요??
+P0 	: 가루를 먹을지 젤리를 먹을지 고민이에요
+P1 	: 저는 가루 먹어요!  가격도 따지다보니 ㅜㅜ...  가루가좀저렴하더라구요 허허
+P0 	: 그렇더라구요!
+P0 	: 가루 먹는거 못챙겨먹을까봐 고민되서요ㅜㅠ
+P0 	: 낱개포장으로 사셨나요?
+P1 	: 네네 낱개로포장되어있어서 먹기좋더라구요ㅋㅋㅋ
+	  그리고 제가 알약잘못먹는데 가루라서 또 좋고ㅜㅜ{emoji:♡}
+P0 	: 오오... 낱개면 좋네요!
+P0 	: 혹시 어디제품인지 알려주실 수 있으신가요??
+P1 	: 저는 라이프케어? 저분자피쉬콜라겐 먹습니당ㅋㅋ그냥포도맛나고 가격도저렴하더라구요!  
+	  비비랩? 그것도얻어먹어봣는데 그건 진짜 너무 맛업ㅈ어서...
+P0 	: 헉 감사합니닷!!

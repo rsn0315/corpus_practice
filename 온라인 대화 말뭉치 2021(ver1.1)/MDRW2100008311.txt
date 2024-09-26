@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008311
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨 좋죠
+P1 	: 네 어느계절 좋아하세요?
+P0 	: 여름이 젤 싫고
+P0 	: 요즘 같은 시기가 좋은데 짧네요
+P1 	: 네 이제 곧 가을이네요
+P0 	: 그쵸
+P0 	: 이미 가을 접어든거 아닐까요
+P1 	: 그런거같아요
+P1 	: 이번 올림픽 이제 끝났는데
+P1 	: 겨울에 또 하겠네요
+P0 	: 글게요
+P0 	: 겨울은 얼마나 추울지
+P1 	: 요즘은 지구온난화때문에 날씨가 오락가락하는거같아요
+P0 	: 기후위기가 걱정이죠
+P0 	: 다음 여름은 더 더울듯요
+P1 	: 날씨는 비오는게 좋으세요 맑은날이 좋으세요?
+P0 	: 창밖으로는 비가 좋은데 나갈 일있으면 맑은날이죠
+P0 	: 비오면 나가기 싫어요
+P1 	: 저는 비오는날 냄새가 되게 좋더라구요
+P0 	: 아 저도요
+P0 	: 비 냄새는 좋은데 습도랑 질척이는게

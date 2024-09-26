@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100009879
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 고양이 이름은 &name3&에요
+P0 	: 으앗 귀엽다ㅋㅋ
+P0 	: 특별한 이유라도?
+P1 	: 감자먹다가 주워왔어요ㅋㅋㅋ
+P1 	: 이름 별 거 없죠
+P1 	: &name4&이는 왜 &name4&이였나요
+P0 	: 부모님이 지으셨어요ㅎㅎ
+P0 	: 아 키우던 개중에 &name5&도 있었어요!
+P1 	: &name5&?
+P1 	: 너무귀엽다
+P1 	: &name5&는 무슨색이었나요
+P0 	: ㅎㅎ 얼룩이였어요 얼룩소처럼
+P0 	: &name5&도 좀 클래식하쥬
+P1 	: 얼룩이라니 너무 귀엽다
+P1 	: &name5&는 뭘 가장 좋아했나요
+P0 	: &name5&는 테니스 공을 좋아했어요ㅎㅎ
+P0 	: 잘 못놀아준듯ㅠ
+P1 	: 왜요 왜 잘못 놀아줬다고 생각해요?
+P0 	: 요즘엔 체계적으로 교육을 해주고 산책도 해야하더라고요
+P0 	: 그땐 그냥 키웠죠ㅠ
+P1 	: 너무 죄책감은 가지지 말아요..ㅠ
+	  &name5&는 행복했을 거예요
+P1 	: 가장 좋아하던 음식은 뭔가요
+P0 	: 기억이 안 나네요ㅎㅎ
+P0 	: 사료 먹인듯요
+P1 	: 앗.. 그러셨구나

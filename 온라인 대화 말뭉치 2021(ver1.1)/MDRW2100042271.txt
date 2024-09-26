@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100042271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행을 좋아하시나요 ?
+P1 	: 아뇨.
+P0 	: 앗 돌아다니시는거 별로 안좋아하시나보네요
+P0 	: 저도 사실 집에 있는걸 더 좋아해요
+P0 	: 어디 여행 다녀오신적 있으신가요 ?
+P1 	: 엄...
+P1 	: 코로나 때문에 여행을 안간지 오래돼서 그런지
+P1 	: 딱히 생각나는 곳이 없네요
+P1 	: &name1&님은 어디 다녀오신 곳 있으세요??
+P0 	: 전 7월에 가족과 부산에 갔었어요 ! 근데 코로나 때문에 거의 숙소에 박혀있어야 했어서 아쉬운 여행이었네요ㅠㅜㅜ
+P0 	: 그래도 기분전환은 됐는데 &name2&님은 기분전환으로 어디 가보고 싶은곳이 있으신가요 ?
+P1 	: 바다 못본지 2년 넘어가서 바다 가고싶네요 ㅠ
+P0 	: 혹시 강해지는걸 좋아하시나요 ?
+P1 	: ? 그게 갑자기 무슨 말이예요?
+P0 	: 탈주를 잘하실것 같아요
+P1 	: 저는 또 강해지고 싶다면 강원도로 가서 수련하고 오라는 줄 알았어요
+P1 	: 강원도 가보셨어요?
+P0 	: 네 ! 강원도 태백산에 자주 갔어요
+P1 	: 산타는거 좋아시나봐요
+P0 	: 피톤치드도 느끼고 운동도 되고 좋아요~
+P0 	: &name2&님도 태백산맥 한번 타고 오세요 !
+P1 	: 태백산맥의 정기를 느껴야 할까봐요

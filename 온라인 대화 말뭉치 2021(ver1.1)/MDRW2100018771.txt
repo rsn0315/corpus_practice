@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100018771
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 학교 다닐때 기억 많이 나세요?
+P1 	: 아니요..
+	  기억이 별로 없어요;;ㅎㅎ
+P1 	: 맨날 앉아서 공부했던거 밖에...
+P0 	: 그러게요 ㅠ 재밌는 기억이 없네요 ㅠ
+P1 	: ㅋㅋㅋㅋ대학교 때도 뭐 그냥그런..
+P0 	: 맞아요 ㅜ 속상하네요 돌아가면 뭐하고 싶어요?
+P1 	: 음...좀 놀아보고 싶어요ㅋㅋㅋ
+	  주변 친구들 얘기 들어보면 전 진짜 안 놀았더라구요.
+P0 	: ㅎㅎ 저두요 ㅎㅎ ㅠ 후회
+P1 	: 수강신청 실패한 기억 있으세요??
+	  12 78교시라던가...ㅋㅋ
+P0 	: 거의 전공만들어서 정해진거 말고 선택권이 별로 없었어요ㅜㅜ
+P1 	: 하긴..저도 특별히 아 이번건 진짜 망했네 이런 기억조차 없어요ㅋㅋㅋㅋㅋ
+P1 	: 학교 다닐 때 친구들 지금도 만나세요?
+P0 	: 만나죠 친한친구는 ㅎ
+P1 	: ㅎㅎ그건 그렇죠. 근데 다들 흩어져서 명절 때나 한번씩 보게 되더라구요~ 그마저도 요즘엔 코로나땜에 못 만나구..
+P0 	: 맞아요 명절에도 보기 힘들지 않아요?
+P1 	: 그나마 제 친구들은 아직 결혼 안하고 저 포함 둘만 해서 프리하더라고요ㅎㅎ

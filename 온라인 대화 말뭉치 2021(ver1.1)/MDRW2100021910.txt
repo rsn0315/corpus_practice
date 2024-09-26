@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021910
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 거래가 이렇게 힘드네요..
+P0 	: ㅋㅋㅋ그렇죠
+P0 	: 요즘 사고 싶은 물건 있나요?
+P1 	: 스파게티면이오!
+P1 	: &name1&님은 있으세요?
+P0 	: ㅋㅋㅋㅋㅋ저 갑자기 영양제 사고싶어졌어요
+P1 	: 어떤 영양제요??
+P0 	: 종합비타민제 보고 있었어요
+P0 	: 전 그게 비타민만 들어가있는 줄 알았는데 이것저것 다 들어가있더라구요?
+P1 	: 엇? 비타민들만 들어간게 아니였어요??
+P0 	: 저도 그런 줄 알고 그런거 사는게 돈아깝다 생각했는데
+P0 	: 무슨 30가지 정도 들어가 있더라구요??
+P1 	: 몰랐네요..
+P0 	: 그래서 사려고 했는데 한달분량이 3만원...
+P0 	: 저에겐 좀 비싼 것 같아서 안샀어요 ㅜ
+P1 	: 힉.. 비싸네요..ㅠ
+P1 	: 들어간게 많으니 가격도 비싸네요
+P0 	: 게다가 원료도 좋은거 쓴다고 하더라구요..
+P0 	: 저는 원료 차이를 잘 모르겠어요 ㅋㅋ좋은거 나쁜게 있나?
+P1 	: 저도요ㅋㅋ 티비서보면 거기서 거기라는 식으로 말하는데말이죠
+P1 	: 그래서 만원짜리 먹어요ㅋㅋㅋ
+P0 	: 근데 홍보는 막 원료 좋은거 썼다고 하니 헷갈리네요

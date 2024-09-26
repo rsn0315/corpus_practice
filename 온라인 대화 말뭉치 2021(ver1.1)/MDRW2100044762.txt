@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044762
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 당근거래해보셨어요?
+P1 	: 아니요 아직요 
+	  일반 거래는 해봤어요 님은요?
+P0 	: 저는 자주해요^^
+P1 	: 최근에 어떤 물건을 거래했나요?
+P0 	: 아기분유요
+P1 	: 분유도 거래해요?
+P0 	: 남는분유있으면팔아요
+P1 	: 직거래라 편하시겠어요
+P0 	: 네~~
+P0 	: 최근 구매물건있나요
+P1 	: 식염수와 티트리 오일 샀어요
+P0 	: 식염수는왜여?
+P1 	: 얼굴팩할때 쓰려고 구입했어요 싸고 양 많으니깐요
+P0 	: 아 그럴때도 쓰는군요
+P0 	: 몰랐어요
+P0 	: 알아봐야겠어요^^
+P0 	: 주로 저는11번가나ㅈ쿠팡이용해요

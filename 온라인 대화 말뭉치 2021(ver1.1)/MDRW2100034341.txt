@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034341
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이제 밤에는 꽤 선선하네요
+P1 	: 새벽엔 심지어 쌀쌀해요
+P0 	: 맞아요. 문 열고 자긴 좀 춥더라구요
+P1 	: 네 가을이 성큼 온 느낌
+P0 	: 계속 비가 왔었는데 내일은 맑다더라구요
+P1 	: 오랜만에 맑은 날씨인가요!
+P0 	: 비 너무 지겨웠어요ㅋㅋ
+P1 	: 네 요즘 비가 너무 자주 왔죠ㅜㅜ
+P0 	: 내일은 간만에 산책이라도 나갈까봐요
+P1 	: 오늘 날씨가 맑아서 산책 나가셨나요?
+P0 	: 아직이요ㅋㅋ 이따 나가려구요. 낮에도 최고기온은 27도 정도네요
+P1 	: 오 오늘은 따뜻하네요
+P0 	: 습하지만 않았으면 좋겠어요 ㅋㅋ
+P1 	: 잠깐 나왔는데 습하진 않은 듯해요
+P0 	: 다행이네요ㅎㅎ 간만에 상쾌한 날씨

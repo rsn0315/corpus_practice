@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100029207
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 맞으셨어요?
+P0 	: 백신 맞으셨어요?
+P1 	: 예약했는데 조금 늦게 해서 아직 1차도 못맞았네요 ㅎㅎ
+P0 	: 아 저는 일차 맞았어요
+P1 	: 오 맞으시고 어떠셨나요 천차만별인 것 같더라고요
+P0 	: 팔 좀 뻐근한거빼고 괜찮았어요 ㅎ
+P0 	: 백신 어떤거 맞으실 예정이세요?
+P1 	: 다행이네요!
+P1 	: 저 예약할 땐 모더나나 화이자라고 하던데 확정됐는진 모르겠네요 ㅋㅋ
+P0 	: 그쵸 저도 걱정했는데 괜찮더라구요
+P0 	: 아마도 화이자일것 같긴해요
+P0 	: 모더나 수급 어렵다하더라구요
+P1 	: 아 어쩐지 화이자 얘기만 많이 들리던데 그렇군요
+P0 	: 저도 화이자였어요 ㅎㅎ
+P1 	: 나이가 됐으면 그냥 아스트라제네카를 잔여로 잡아서 맞았겠는데
+P0 	: 아 저도 나이때문에
+P0 	: 아스트라 안되더라구요
+P0 	: 군필도 아니라 얀센도 안되고 ㅎㅎ
+P1 	: 초기에 잔여백신 접종 시작할 때 탐냈는데...
+P1 	: 요즘도 아스트라제네카는 잔여 있어서 ㅋㅋ
+P0 	: 초기엔 완전 순삭이였죠

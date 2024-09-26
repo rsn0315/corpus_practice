@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100015647
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직업에는 귀천이 없다는 말 어떻게 생각하세요?
+P0 	: 맞는말인거같아요
+P0 	: 근데 사실 인정을 많이 못받는 ㅠㅠ
+P0 	: &name2&은요?
+P1 	: 전 그렇게 생각 안하는 편이에요
+P1 	: 이상적인건 귀천이 없는 게 맞지만
+P0 	: 아 진짜요
+P0 	: 그죠
+P1 	: 현실적으론 은근슬쩍 차별대우 하잖아요 ㅜㅜ
+P0 	: 맞아요..
+P1 	: 변호사? 교사? 의사? 검사? 우와!! 하면서...
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 어떤 직업군에 대해서는 아.. 힘내...ㅋ
+P0 	: 그런게 확실히 있죠
+P1 	: 그리고 확실히 사회에서도 바라보는 눈과 대우가 달라요
+P0 	: 사회석인식도 직업선택하는데 중요한 요소같아요
+P1 	: 그쵸 ㅎㅎ &name1&은 본인 직업은 전공하고 관련있어요?
+P0 	: 아니요 ㅜ 전혀 관련없는거하고있네요
+P0 	: &name2&은요?
+P1 	: 대부분 사람들이 그런 것 같아요 ㅋㅋㅋ
+P1 	: 저는 전공 100% 살렸습니다
+P0 	: 오 혹시 어떤 직업인지 물어도 될까요??
+P0 	: 그냥 분야요 ㅋㅋ

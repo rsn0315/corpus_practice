@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 나 빨리 학교 가고싶어
+P1 	: 개강이 다가오고 있군요
+P0 	: 긴 긴 방학이엇어
+P1 	: 방학이 길면 좋은 거 아닌가
+P0 	: 학교에 있는 친구들이 그리워
+P1 	: 친구들이 보고 싶구나 하긴
+P0 	: 코로나로 한번도 못만났거든
+P1 	: 아 그렇구나 아쉽네
+P0 	: 빨리 동아리 활동도 해야지
+P1 	: 코로나 인데 대면할 수 있나
+P0 	: 아직 한달간은 비대면 확정이야
+P1 	: 빨리 되면 수업했으면 좋겠다
+P1 	: 대면
+P0 	: 맞아 얼른 학교 가고 싶어 정말

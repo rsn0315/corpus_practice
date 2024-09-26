@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013624
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임 하시나요?
+P1 	: 저는 모바일게임만 하는데 주로 혼자 농사짓는거나 키우는게임해요
+P0 	: 오오 그렇군요 어떤 걸 하시나요? 전 예전에 농사겜은 타이니팜이랑 쿠키런 킹덤이 마지막이네요...ㅋㅋㅋ
+P1 	: 타이니팜 예전에 열심히 했었죠
+P1 	: 스타듀밸리 열심히 하다가 지금은 살찍 질렸어요
+P0 	: 스타듀밸리는 얼마나 하셨나요??
+P1 	: 플레이는 몇달 했어요
+P1 	: 게임상으로는 4년차?
+P0 	: 와 몇달인데 4년차면 진짜 많이 하셨네요ㅋㅋㅋㅋ!!
+P1 	: 본캐 2년까지 키우다가 부캐로 4년차 왔어요
+P0 	: 와 &name2& 님 스듀에 약간 진심이신...
+P1 	: 제가 이런 키우는 게임은 매우 열심히 합니다 ㅎㅎ
+P0 	: 저랑은 반대네요...ㅋㅋㅋㅋ 저는 키우는 게임보다 롤이나 쿠키런 같은 게임이 좋더라고요
+P1 	: 사실 다른사람하고 하는 게임은 잘 못하겠더라고요
+P1 	: 이상하게 부담감도 느껴져요
+P0 	: 아 그렇긴 해요... 그럴 땐 힐링겜으로 피신하는게 좋죠ㅋㅋㅋ

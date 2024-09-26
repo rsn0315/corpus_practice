@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020272
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 방학이 있다는 게 부럽다
+P0 	: 너는 졸업을 이미 했으니까
+P1 	: 너도 이번이 마지막 학기 인걸로 알고 있어
+P0 	: 맞아 그래서 소중한 방학이야
+P1 	: 학교가 가고 싶지는 않았니
+P0 	: 이제 와 생각해보면 그립기도 해
+P1 	: 학교에 있는 친구들이 그립지
+P0 	: 맞아 그리고 학교에 있는 도서관이 그리워
+P1 	: 너희 학교 도서관은 정말 시설이 좋아
+P0 	: 맞아 그리고 관리가 정말 잘 돼
+P1 	: 그 점은 정말 부럽다
+P0 	: 학교에 있는 식당도 싸고 맛있어
+P1 	: 너네 학교는 학교 음식점이 정말 유명 하더라
+P0 	: 그때 내가 한번 사준 적 있지

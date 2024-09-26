@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 네 영화 좋아하시나요
+P1 	: 네 최근에는 영화관을 잘 못갔지만요
+P1 	: 어떤 영화 좋아하세요?
+P0 	: 네 그쵸 요새 아무래도
+P0 	: 요새 모가디슈 봤어요!
+P1 	: 헐 대박!!그거 진짜 보고 싶었는데...
+P1 	: 어떤가요?? 재미있나요??
+P0 	: 네 역시 믿고 보는 조인성과 아귀..
+P1 	: 주변에서 다들 최근 한국영화중에 제일 재밌다고 그렇게 이야기들 하시더라구요...
+P1 	: 정말 부럽습니다...저는 vod 존버해서 보려구요...
+P0 	: 네~~ 뭐 요즘 시국에는 그것도 좋죠
+P1 	: 시국도 그렇고 지금 시험준비중이라 약간 보러가는게 사치처럼 느껴져서요..
+P0 	: 아 시험 준비중이시면 잘 마무리하고 영화보셔도 되죠! 중요한게 우선이죠
+P1 	: 빨리 시험 모두 다 끝내버리고 밀린 영화 다 보고 싶네요ㅠ
+P1 	: 지금 개봉중인 영화 중에 더 수어사이드스쿼드도 정말 보고 싶어했었거든요ㅠ
+P0 	: 오 그 영화도 개봉했나요. 여주인공 매력적이던데.
+P1 	: 네!개봉한지 이주?쯤 된 것 같아요.정말 소리소문 없이 개봉했죠..
+P0 	: 시간 봐서 보러 가야겠어요ㅋㅋㅋ 좋은 정보 감사해요!

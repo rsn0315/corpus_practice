@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010183
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+	  티비 프로그램 챙겨보시는 거 있나요?
+P1 	: 안녕하세요
+P1 	: 저는 왓챠랑 유투브로 챙겨봐요
+P1 	: &name1&님은요?
+P0 	: 아~  다시보기로 보시는거에요?
+P1 	: 그냥 보이는거봐요
+P1 	: 세계속으로같은 프로그램은 다 볼수있어요
+P0 	: 아~그러시구나~! 예능은 안 좋아하세요?
+P1 	: 아 좋아하죠
+P1 	: 무한도전
+P0 	: 요즘 예능에 올림픽 영웅들이 자주 나오더라고요
+P1 	: 맛있는녀석들 운동뚱
+P1 	: 오 넘좋아요
+P0 	: 아~ 맛있는 녀석들은 저도 자주 봐요
+P1 	: 저대신 많이 먹어줘서 좋아요 ㅋ
+P1 	: 연경님 많이나오시면좋겠어요
+P0 	: 아~예능에서 아직 연경님은 안 나오신 것 같아요
+P1 	: 아는형님에 나왔던거같은데
+P0 	: 아직 펜싱밖에 안 나온것 같아요
+P1 	: 유투브채널이 있어서 구독했어요
+P0 	: 아는형님 유투브요?
+P1 	: 식빵언니 김연경 유투브요
+P0 	: 아~그렇구나~ㅋㅋ 그럼 이제 곧 아는형님에도 나오나보네요
+P1 	: 그게 언제방송분인지 잘 모르겠어요 같이배구하는건 봤는데..

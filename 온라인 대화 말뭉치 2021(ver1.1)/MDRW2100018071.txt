@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100018071
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 난 고양이
+P1 	: 고양이 말고 키워보고 싶은 동물 없어?
+P0 	: 고슴도치
+P1 	: 고슴도치 귀엽지
+P0 	: 그니까 키워보고 싶은 동물 있어?
+P1 	: 미니돼지 있으면 키워보고 싶어
+P0 	: 미니돼지 커도 별로 안커?
+P1 	: 미니 이니까 그러겠지?
+P0 	: 냄새 많이 나지 않을까?
+P1 	: 근데 돼지가 우리 생각보다 되게 깨끗한 동물이래
+P0 	: 나도 어디서 듣긴 들었었어
+P1 	: 그리고 엄청 똑똑하대
+P0 	: 맞아 내가 알기론 고양이보다 더 똑똑하대
+P1 	: 맞아 개보다 더 똑똑할걸?
+P0 	: 개인가 고양인가 보다 똑똑하다 그랬어
+P1 	: 응 생각보다 엄청 똑똑하대

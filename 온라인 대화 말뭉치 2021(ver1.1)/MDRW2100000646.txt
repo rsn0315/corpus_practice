@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000646
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 카페도 배달 되서 좋아요
+P0 	: ㅎㅎ 배달 중독입니다ㅠㅠ
+P1 	: 어제도 아구찜 배달시켜먹었어요ㅋㅋ
+P0 	: 와 아구찜은 아직 배달 안해봤어요. 괜찮나요?
+P1 	: 네!!괜찮더라구요~양도 적당하고 식지도 않고 잘 왔어요
+P1 	: 담에 시도해보세요ㅋㅋ
+P0 	: 아구찜 이런 것은 집에서 만들기가 어려워서..  그런쪽 공략도 괜찮겠네요^^ 아귀가 원래 정말 싼 생선이었다던데
+P1 	: 맞아요 집에서 해먹기 어려운걸로 다 시켜먹어보게요ㅋㅋ
+P0 	: 아! 마라탕 드실 줄 아세요? 저 그거 추천이요ㅋㅋ
+P1 	: 아~마라탕 맛있죠
+P1 	: 저는 그 포두부..?얇은 두부! 무조건 많이 넣어먹어요
+P0 	: 맞아요 포두부! 포두부 저도 좋아해서 일부러 구하러 다닌적도 있어요ㅎㅎ
+P1 	: 오 구해서 이것저것 요리 해 먹는거예요?
+P0 	: 네 포두부도 어묵볶듯이 볶으면 맛있어요ㅎㅎ

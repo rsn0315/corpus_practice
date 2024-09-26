@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100034377
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 담달2일부터 보건의료노조 파업한대요
+P0 	: 들으셨나요
+P1 	: 아뇨 처음 들었어요
+	  혹시 수술실 cctv랑 관련있나요?
+P0 	: 그건 모르겠어요 인원보충안되고 1년 9개월을 크런치모드로 버터서 이제 간호사들 번아웃왔대요ㅜ
+P1 	: 아 코로나 영향이 있나보네요
+P0 	: 네 공공의료에 인원확충이 안되서 파업하는거래요
+P0 	: 곤님 담달 맞으신다길래 접종 인력 지장 있을 수 있을거같아서  야기해드려요
+P1 	: 저는 동네 소아과에서 맞기로 되있는데 어떨지 모르겠네요
+P0 	: 아 접종인력은 괜찮으려나
+P0 	: &name2&님은 주위에 코로나걸린사람있으신가요
+P1 	: 아직까지 한 번도 못 봤어요
+P1 	: &name1&님은요?
+P0 	: 오 저두요 운좋게두
+P0 	: 방역을잘하고있구 다른나라에 비해 국민들도 잘 따라하는거같아요
+P1 	: 맞아요. 전 아직 코로나 검사도 안 해봤어요
+P0 	: 저는 두번ㅜㅜㅜㅜㅜㅜㅜ
+P0 	: 너무 싫었어서ㅜ 빨리 백신맞았어요
+P1 	: 으 상상만으로도 넘 싫을 것 같아요
+P0 	: ㅋㅋ 아팠어요ㅜ  근데 친구 결혼식 다녀와서ㅜ 쩔수없었어요ㅜㅜ
+P1 	: 평생 그 느낌 모르고 싶네요ㅋㅋ

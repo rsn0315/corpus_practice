@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100012357
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비빔면도 좋아해요
+P1 	: 면요리는 거의 안 가리는거 같아요
+P0 	: 파스타 토마토가 좋으세요 크림이 좋으세요?
+P1 	: 저는 토마토를 더 선호해요
+P1 	: 크림은 식으면 느끼하더라구요
+P0 	: 아 좀 그런거같네요 첫 몇입은 맛있느데 물려요
+P0 	: 라면은 뭐 젤 좋아하시나요
+P1 	: 라면은 클래식하게 신라면이랑 불닭 좋아해요
+P1 	: 혹시 신라면 볶음면 드셔보셨나요?
+P0 	: 오 저도 불닭 좋아해요
+P0 	: 신라면 볶음면은 아직 안먹어봤는데
+P0 	: 어떤가요??
+P1 	: 저도 아직 못먹어봤어요ㅋㅋ
+P1 	: 다른 분한테 추천받았는데 꼭 봉지라면으로 먹으라고 하시더라구요
+P0 	: 헐 차이가 있나봐요
+P1 	: 그런가봐요... &name1&은 어떤 라면 좋아하세요?
+P0 	: 저 까르보불닭이랑 오모리 김치찌개라면 좋아하는데 아시나요 ㅋㅋㅋ
+P1 	: 오모리 김치찌개라면은 말로만 들어봤어요
+P0 	: 그거 진짜 맛있어요 추천드립니다
+P0 	: ㅇㅣ건 봉 ㄹ 지말고 컵으로 드세요 ㅋㅋ
+P1 	: 알겠습니다ㅋㅋ
+P1 	: 오늘의 급식 메뉴는 뭔가요?
+P0 	: 오늘 비빔밥 먹었어요 ㅋㅋㅋㅋ 원래 스파게티였는데 바뀌었어요 ㅜ
+P0 	: 스파게티였는데 바뀌어서 비빔밥 먹었어요

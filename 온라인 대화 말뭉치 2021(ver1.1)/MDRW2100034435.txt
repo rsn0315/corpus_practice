@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034435
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 점심 뭐 드시나요?
+P0 	: 음.. 점심은 찜닭먹을가 생각중이에요!
+P1 	: 맛있겠네요! 전 쌀국수 먹을거예요
+P0 	: 오오 쌀국수! 혹시 고수넣어드시나여?
+P1 	: 네 넣어서 먹는데 고수를 먹진 않아요ㅋㅋ
+P1 	: 국물에 향만 조금 추가하는 정도예요
+P0 	: 아 그렇구나~ 전 고수못먹어요 ㅠ 저에겐 그 향이 비누맛으로 느껴지더라구요
+P1 	: 맞아요 약간 비누느낌도 있죠ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ 잘드시는분들보면 신기해요
+P1 	: 저도 엄청 즐기진 않아서 신기해요ㅋㅋ
+P1 	: &name1& 님은 두리안 드셔보셨어요?
+P0 	: 아뇨 ㅋㅋ 근데 외국마트에서 본적은있어욬ㅋㅋ
+P1 	: 오 전 본 적 없어요
+P1 	: 냄새는 좀 궁금하긴해요ㅋㅋㅋ
+P0 	: 아 ㅋㅋㅋ 근데 전 두리안냄새는 크게 거부감은 안들었어요 ㅋㅋ

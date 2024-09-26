@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100034326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 자주하세요?
+P0 	: 필요한 거 있으면 그때그때 사는 편이에요.
+P0 	: 최근에는 뭐 사셨어요?
+P1 	: 가장 최근에는 가방 하나 샀어요
+P0 	: 백팩? 핸드백? 아니면 에코백?ㅋㅋ
+P1 	: 핸드백이요
+P1 	: 작은 백인데 비건가죽으로 만들었대요
+P1 	: 레몬색이라 포인트로 들기에도 좋고요
+P0 	: 실제 가죽이랑 비슷한 질감인가요?
+P1 	: 네 오히려 더 부드러워서 저는 좋더라고요
+P1 	: 제가 가죽백을 딱히 따지진 않아서
+P0 	: 파인애플 같은 걸로 만들던데. 궁금하더라구요
+P1 	: 아 진짜요? 어떻게 만드는 줄은 몰랐어요ㅎㅎ
+P0 	: 원료가 몇 가지 있다고 들었는데 파인애플밖에 기억이 안 나네요ㅋㅋ
+P1 	: 어쨌든 비건가죽백 구입 만족해요
+P1 	: 제 주변에서도 보고 다들 하나씩 사겠다며
+P1 	: 가격도 저렴하거든요ㅎㅎ
+P0 	: 저도 궁금하네요 ㅎㅎ
+P1 	: Jwpei라는 브랜드예요
+P1 	: 관심 있으시면 한번찾아보셔요ㅎㅅㄴ
+P0 	: 찾아봐야겠어요ㅋㅋ

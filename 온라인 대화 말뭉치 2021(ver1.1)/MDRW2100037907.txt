@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037907
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어제 천둥이랑 번개 장난아니었어요 ㅠ
+P1 	: 아 진짜요? 여기는 그냥 비만 왔는데
+P1 	: 밤에 그랬나요?
+P0 	: 네네 어제밤요 ㅠ 오늘도 비는 많이왘ㅅ네영
+P1 	: 무서우셨겠네요ㅠ
+P1 	: 그러게요 요새 계속 비오더라구요ㅠ
+P0 	: 오늘 날씨 어때요?
+P1 	: 여기는 그래도 오늘 좀 맑아졌어요
+	  거기는요?
+P0 	: 여기두요 ㅋㅋ어젠 쌀쌀하더니 오늘은 또덥네요
+P1 	: 그니까요 날씨가 엄청 오락가락해요ㅋㅋ
+P0 	: 맞아요 ㅠㅠ곧 추워질거같아요
+P1 	: 마자요 이제 가을이 오겠어요
+P1 	: 그래도 시원해서 좋아요
+P0 	: 가을 좋아하세요?
+P1 	: 네 저는 봄가을이 제일 좋아요!
+P1 	: 더운것도 싫어하고 추운것도 싫어해서요ㅠ
+P0 	: 그쵸 ㅎㅎ 봄가을 좋아하시는분 많은거같아요
+P1 	: &name1&님은요?
+P0 	: 저두 시원하고 쌀쌀한 날씨가 좋아용

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023768
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 황토색?
+P0 	: 응 그런 거 그래서 염색을 하려다가도 망설이게 되더라고
+P1 	: 잘 안빠지는 색으로 하면 되잖아
+P0 	: 근데 내가 하고 싶은 색이 이제 잘 빠지는 거지
+P1 	: 아 어쩔 수 없네
+P0 	: 은색 하고 싶다고 했었지?
+P1 	: 응
+P0 	: 은색은 색이 빠지지는 않을 거 같은데 잘 모르겠네
+P1 	: 왠지 잘 빠질거 같은데;;
+P0 	: 근데 은색에서 색이 빠지면 무슨 색이 되는 거지?
+P1 	: 금발 아닌가?
+P0 	: 아 그러겠네 탈색하고 하니까
+P1 	: 응 탈색하니까
+P0 	: 탈색해 본 적 없잖아
+P1 	: 그니까 해보고 싶어서
+P0 	: 한번 해보는 것도 좋지
+P1 	: 나중엔 못 할거 같아서 ㅎㅎ
+P0 	: 나중엔 진짜 힘들지

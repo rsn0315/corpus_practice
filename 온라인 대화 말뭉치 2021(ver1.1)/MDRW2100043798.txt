@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100043798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 네 안녕하세요~
+P1 	: 네 저녁 먹고 배불러서 뻗어있어요 ㅎㅎ
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: 우와 맛있게 드셨나봐요ㅎㅎ
+P0 	: 네 저도 먹었습니다
+P0 	: 저녁 뭐드셨나요?
+P1 	: 전 오늘 피자 먹었어요!
+P1 	: &name1&님은 어떤거 드셨나요??
+P0 	: 저는 육개장 먹었어요!
+P0 	: 어디 피자 드셨나요?
+P1 	: 오! 맛있는거 드셨네요 ㅎㅎ
+P1 	: 전 피자스쿨에 고구마 피자 먹었어요!
+P0 	: 헐 완전 맛있는거 드셨네요ㅠㅠㅠ
+P0 	: 피자스쿨 고구마피자ㅠㅠㅠ
+P0 	: 포테이토 피자 드셔보셨나요?!
+P1 	: 진짜 고구마피자 너무 좋아요ㅜㅜ
+P1 	: 앗 아뇨 포테이토 피자는 안먹어봤어요..!
+P0 	: 포테이토도 맛있어요!
+P0 	: 나중에 드셔보세요ㅎㅎ
+P1 	: 오 조아요조아요 이 다음엔 포테이토 피자로 먹어볼게요! ㅎㅎ
+P1 	: 매번 고구마피자밖에 안먹어서 다른 피자는 먹어볼 생각도 안했던것 같아요 ㅋㅋㅋ
+P0 	: 네 포테이토 위에 소스가 있는데 그게 너무 맛있어요ㅠㅠ
+P0 	: 물론 고구마피자가 젤 맛있긴해요ㅎㅎ
+P0 	: 갈릭소스도 드셨나요?!
+P1 	: 오.. 포테이토가 또 소스가 맛있군요?!
+P1 	: 앗 아뇨! 전 피자 그대로 먹는게 좋아서 핫소스나 갈릭소스는 잘 안먹게 되더라구요ㅜ
+P0 	: 오 그러시구나

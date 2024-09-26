@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030806
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아쉽다 서울가서 보면 좋겠네
+P0 	: 가까우니까 보러갈수 있어요 ㅎㅎ
+P1 	: 오페라의 유령도 좋더라
+P0 	: 그건 영화로 보셨죠?
+P1 	: 맞아
+P1 	: 뮤지컬 원작인가
+P0 	: 아마 소설원작 뮤지컬일거같은데
+P1 	: 영화 원작은 뮤지컬이지
+P0 	: 대충 그런거같기도 하네요 ㅋㅋㅋ
+P1 	: 거기 남자배우들 잘생겼잖아
+P0 	: 뮤지컬이라서 많이 바뀌긴 했는데
+P0 	: 영호ㅓ도 잘생기긴 했죠 ㅎ
+P1 	: 노래도 잘부르고
+P1 	: 가면쓰고 못생겼다고 하는데
+P0 	: 하나도 안못생겼죠 벗고다녀야해
+P1 	: 아무튼 영화라 이것저것 연출 좋더라
+P0 	: 저는 뮤지컬판도 봤었는데
+P0 	: 연출 괜찮았어요 돈 많이 들어서 그런가
+P0 	: 막 돈 많이 쓴 티 나서 좋았어요

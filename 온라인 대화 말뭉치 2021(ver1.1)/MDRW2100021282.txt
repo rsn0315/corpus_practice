@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021282
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 고기 좋아하시나요?
+P0 	: 네 고기졸아해요
+P1 	: 매운 음식은 잘 드시나요?
+P0 	: 아뇨 매운건 싫어해서
+P1 	: 쪽갈비나 족발 어떠세요?
+P0 	: 음 쪽갈비는
+P0 	: 배달하는데가 없으니
+P0 	: 족발로해야겟네요
+P1 	: 족발 맛있죠~ 막국수도 좋아하시나요?
+P0 	: 막국수 좋죠
+P1 	: 저는 족발말고 막국수만 먹고 싶을 때도 많아요ㅋㅋ 족발 드실 때 음료는 뭐랑 드세요?
+P0 	: 음 족발이랑은 저는
+P0 	: 스프라이트 마시는걸 좋아해요
+P1 	: 저도 콜라보다는 사이다가 더 맛있더라고요!
+P1 	: 술은 안 좋아하시나요?
+P0 	: 술은 안좋아하는데
+P0 	: 가끔 맥주정도는 마셔요
+P1 	: 그렇군요!
+P1 	: 맥주는 어떤 맥주 드세요?
+P0 	: 음 맥주는 그냥 처음보는거?
+P0 	: 편의점에 종류가 많아서
+P0 	: 새로운걸로 먹어봐여

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100024495
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 네~
+	  온라인 커뮤니티 활동 하시나요?
+P0 	: 페북도 커뮤니티일까요?
+P0 	: 페북은 해요
+P1 	: 페북 인스타 카페 단톡방 다 해당 하지 않을 까요!!
+P1 	: 저는 카페랑 단톡방 하고 있어요
+P0 	: 아하 네 단톡은 아는사람들이랑 하세요?
+P0 	: 모르는 사람들이랑요?
+P1 	: 가족 단톡이랑 모르는 사람 단톡 다 있어요
+P0 	: 단톡사람들이랑 실제로 만나신적 있으세요?
+P1 	: 모르는 사람들 있는데는 만나 본 적 없어요.
+P1 	: 이벤트 정보 교류 하는거라 친목 도모는 아니라서요.
+P0 	: 오 좋은 단톡방이네요
+P1 	: 그런 단톡방 엄청 많아요!!
+P0 	: 헉 그런가요 공개방이에요? 뭘로 검색하면 나올까요
+P1 	: 이벤트 공유 그런거로 하면 될 거 같아요. 공개방도 있고 잠긴 방도 있을거에요.
+P0 	: 그렇구나 소개해주셔서 감사해요
+P1 	: 페북으로 주로 뭐 하세요?

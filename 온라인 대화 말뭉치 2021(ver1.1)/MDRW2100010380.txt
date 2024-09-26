@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010380
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 여행지가 있으신가요?
+P1 	: 요즘은 바다가 좋더라고요
+P1 	: 국내는 부산이나 제주도에 가고 싶어요
+P0 	: 부산이랑 제주도 좋죠..안 간지 너무 오래됐어요ㅠ
+P1 	: 코로나 좀 진정되면 꼭 가고 싶어요
+P0 	: 작년부터 가고 싶었는데 벌써 2년이나 집에 묶여있네요ㅠ
+P1 	: 그러게요... 내년에는 갈 수 있을까요
+P0 	: 내년 초중반은 몰라도 후반에는 여행갈 수 있기를 바라요ㅠㅠ
+P1 	: 휴양이 너무 하고 싶어요ㅠㅠ
+P0 	: 호캉스도 요즘엔 눈치보이니까요ㅠ
+P1 	: 맞아요ㅠㅠ 호캉스 가본 적 있으세요?
+P0 	: 작년에 두 번 정도 갔었어요
+P1 	: 오 어느 지역으로 가셨나요?
+P0 	: 두 번 다 서울로 갔어요! 이동시간을 줄여야해서요

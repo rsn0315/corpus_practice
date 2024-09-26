@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 잡지 자주 보세요?
+P0 	: 잡지는 자주 안보는데..언젠가 구독해서 보고싶어요 잡지 보세요?
+P1 	: 구독은 안 하고 가끔 보고싶은 인터뷰 담겨있으면 사서 봐요
+P1 	: 하지만 다 읽진 않아서 자리차리만 하는 것 같아요
+P0 	: 예전에 패션지는 자주봤는데 급 흥미가 떨어진ㅎㅎㅎ
+P1 	: 패션지라니!! 보그 이런 건가요?
+P0 	: 네 보그랑 엘르 같은거ㅎㅎ
+P1 	: 와 그런 잡지 은근 어렵더라구요 저는
+P1 	: 패션이 넘 난해했어요
+P0 	: 맞아요ㅋㅋ어느순간 너무 ㅋㅋ난해해서 이상하더라구요 ㅣㅎㅎ이해안가구
+P1 	: 건축 잡지도 한 번 본 적 있는데 멋있더라고요
+P0 	: 맞아요 구경하는 재미ㅎㅎ 단독주택같튼거ㅋㅋ
+P1 	: 한국에도 멋진 건축물이 말라서 너무 무지했구나 느꼈어요 ㅋㅋ
+P0 	: 맞아요 소개해주는 잡지 읽으면 이쁜곳 많은게 느껴져요ㅎㅎ

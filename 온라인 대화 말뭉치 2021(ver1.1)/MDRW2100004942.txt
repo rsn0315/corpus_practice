@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100004942
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 반려동물을 키우시나요
+P0 	: 저는 고슴도치를 키워요!!
+P0 	: 이름은 쿠킨데 퍼져있는게 너무 귀여워요
+P0 	: 별명은 &name3&에요ㅋㅋㅋㅋ
+P1 	: 헐 저 고슴도치 키우시는 분 처음봐요!
+P0 	: 진짜 귀여워요...
+P1 	: 진짜요....
+P1 	: 부럽네요..
+P0 	: 처음에 조금 사나웠는데 이젠 익숙해졌어요ㅋㅋ
+P0 	: &name2&님은 반려동물 키우시나요?
+P1 	: 앗 저는 가족이 알러지가 있어서ㅠ
+P1 	: 어렸을때 금붕어 키운적은 있어요!
+P0 	: 아ㅠㅠ 알러지가 진짜 귀염둥이들을 막는 그런ㅠㅠ
+P0 	: 금붕어!! 저는 어릴 때 구피 키웠었어요ㅎㅎ
+P1 	: 구피도 귀엽죠! 물고기 친구들 보고 있으면 마음이 편해지는 느낌이에요ㅎ
+P1 	: 구피도 이름이 있었나요?
+P0 	: 검은색이랑 파란색 구피를 키웠어서 &name4&랑 &name5&라고 했던 것 같아요!!
+P0 	: 구피는 지느러미가 진짜 예쁘죠
+P1 	: 이름이 귀여워요!
+P1 	: 맞아요ㅠㅠ 좁은데 갇혀있는거 보면 마음이 아팠어요
+P0 	: ㅠㅠ 뭔가 유유히 헤엄치는데 갇혀있으니까 모순적이긴 하네요

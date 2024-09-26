@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100028828
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 아니요..
+P0 	: 애가 셋잇라
+P1 	: 저는 사실 리트리버 키워요
+P0 	: 대단하시네요
+P1 	: 엄청 커서 힘들 때도 있지만 너무 귀여워요
+P0 	: 엄청커서 힘드실텐데
+P0 	: 주택사세요? 아파트사세요?
+P1 	: 저는 주택에서 살아요
+P0 	: 주택사시니 가능하겠네요..아파트에선 키우기 힘들것같아요
+P1 	: 맞아요. 그런데 정말정말 귀여워요
+P0 	: 사랑으로 키우시는군요
+P1 	: 네 ㅎㅎㅎ
+P1 	: 그 말이 젤 맞는거 같아요
+P0 	: 저도 나중에 키워볼께요
+P0 	: 강아지나 고양이 키우세요?

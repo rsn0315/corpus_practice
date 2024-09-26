@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100001490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요^^ㅋㅋㅋ
+P1 	: 혹시 연애중이신가요?
+P0 	: 네
+P1 	: 와 얼마나 되셨어요?
+P0 	: 라고 할뻔~^^
+P1 	: 아 뭐얏
+P0 	: 제가 여쭙고 싶습니다만
+P1 	: 하하 참 재밌으신 분이네요
+P1 	: !!
+P0 	: {emoji}
+P0 	: 앗
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ자만추이신가요?
+P0 	: 아니요
+P1 	: 인만추이신가요 자만추이신가요
+P0 	: 둘다 좋습니다
+P0 	: 하지만 굳이 따지자면
+P0 	: 자만추일테지만
+P1 	: 가리지 않으시는군요
+P0 	: 안되네여
+P0 	: 넵
+P1 	: 이런 태도가 중요하다고 봅니다.
+P1 	: 곧 좋은 분 만나실 수 있을거에요
+P1 	: 화이팅 화이팅
+P0 	: &name2&님도 꼭 좋은사람
+P0 	: 만나길 바랍니다!
+P1 	: 네 감사합니다^^
+	  

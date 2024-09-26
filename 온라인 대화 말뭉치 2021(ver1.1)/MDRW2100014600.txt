@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100014600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사 하셨나요?
+P1 	: 방금 먹었어요
+P1 	: 늦은 저녁이라 좀 더부룩하네요
+P0 	: 뭐 드셨어요?
+P1 	: 오리고기랑 김치 먹었어요
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: 네 저는 미소시루 끓여먹었어요
+P1 	: 오 미소된장국인가요?
+P1 	: 한끼 든든하게 드셨겠어요
+P0 	: 아녀 대충 먹었어요ㅠ
+P0 	: 내일은 잘 챙겨먹으려구요
+P1 	: 한끼 챙겨먹는거 중요한데
+P1 	: 힘들죠
+P1 	: 저도 잘 안챙겨먹게 되더라구요
+P1 	: 오늘만해도 늦게 먹어서
+P1 	: ㅋㅋㅋ
+P0 	: 소화 잘 시키고 주무세요ㅋㅋ
+P0 	: 전 내일 고기 구워먹을 거예요 ㅋㅋ
+P1 	: 고기!
+P1 	: 단백질 맛있겠네요
+P1 	: 고기 생갇하면 힘이나죠!
+P0 	: 네 소고기 부채살이 절 기다리고 있어요
+P1 	: 와
+P1 	: 부채살
+P1 	: 전 토시살 좋아해요
+P1 	: 부채살이 기다리고 있다니
+P0 	: 토시살! 특수부위가 확실히 맛있어요
+P1 	: 맞아요
+P1 	: 사실 소고기는 다 좋지만
+P1 	: 고기는 다 정답!

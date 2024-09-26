@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023970
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑은 자주 하시나요?
+P1 	: 너무 많이해서 줄이려구요 ㅎㅎ &name1&님은요??
+P0 	: 요새 못나갔거니 다들 어떻게 쇼핑하시나 해서요ㅎ
+P1 	: 아 저는 온라인으로 사서 ㅎㅎ..
+P0 	: 혹시 자주 이용하시는 사이트가 있으신가요?
+P1 	: 저는 지마켓이랑 네이버여 ㅋㅋㅋ
+P0 	: 네이버는 페이를 많이 줘서 좋더라구요~!
+P1 	: 맞아요 ㅋㅋ 멤버십 가입했더니 더 많이 쌓이더라구요
+P1 	: 지마켓도 스마일카드 써서 마니써요 ㅎㅎ
+P0 	: 아 멤버쉽은 가입안했는데 차이가 많이 나는가봐요
+P1 	: 네 은근 커요 ㅎㅎ 멤버십데이같은경우는 또 더 쌓이더라구여... 문제는 돈을 많이쓰게된다는점..
+P0 	: 아!
+P0 	: 유효기간도 있죠?
+P1 	: 멤버십이요? 멤버십은 한달마다 결제고 포인트는 모르겠네옄ㅋㅋㅋ
+P0 	: 앗 포인트 유효기간이 끝나기 전에
+P0 	: 다사용하시는 군요ㅎㅎㅎ

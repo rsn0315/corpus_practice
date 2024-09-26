@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 안녕
+P0 	: 나 내일 친구들이랑 제주도 가
+P1 	: 비행기 타고 가니
+P0 	: 당연하지 배는 오래걸려
+P1 	: 가서는 렌트할 거야?
+P0 	: 내가 면허가 있긴하지만 그렇게 잘하지는 않다보니
+P1 	: 대중교통 타고 다니기엔 불편하지 않나
+P0 	: 그건 그래 택시를 탈수도 있고
+P1 	: 제주도 가서 뭐 먹을 거야
+P0 	: 일단 도착하자마자 돼지고기 먹어야지
+P1 	: 제주도 흑돼지는 정말 최고지
+P0 	: 맞아 그리고선 귤 카페를 갈거야
+P1 	: 귤 카페라는 게 있구나
+P0 	: 제주도하면 귤이니까

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100028841
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으셨나요?
+P1 	: 9월 중순으로 예약되어있어요
+P0 	: 아 아직 안맞으셨구나
+P0 	: 전 1차맞았어요
+P1 	: 얀센 맞으신거에요?
+P0 	: 아뇨 화이자요
+P1 	: 부작용은 없으셨어요?
+P0 	: 팔이 좀 아픈거 빼곤
+P0 	: 없었어요
+P0 	: 화이자는 2차가 진짜라던데요...
+P1 	: 부모님들도 다 근육이 뻐근하다고만 하셨어요 2차때는 타이레놀 꼭 챙겨보내려구요ㅎ
+P0 	: 살짝 긴장되는군요
+P0 	: 2차는
+P1 	: 이런말하면 좀 그렇지만..  임상실험당하는 느낌이라 좀 그래요^^;;
+P0 	: 사실이죠 머
+P0 	: 몇개월만에 뚝딱 만들어진 백신이니
+P1 	: 그래도 기저질환은 없으시죠?
+P0 	: 네 없어요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017478
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 자주 보세요?
+P1 	: 네 영화좋아해요!
+P0 	: 최근에 영화 마지막으로 본 게 언제에요?
+P1 	: 저는 블랙위도우 제일 최근에 봤어요!
+P0 	: 블랙위도우 어땠어요?
+P1 	: 블랙위도우 액션도 좋고 진짜 재미있었어욤
+P0 	: 저도 재밌었는데 중간에 살짝 지루했어요 ㅜㅜ
+P0 	: 크루엘라도 보셨어요?
+P1 	: 아하 그러셨구나! 아쉽네요 저는 진짜 재미있게 봤는데!
+P1 	: 크루엘라는 안봤어요!
+P0 	: 아하 ㅜㅜ혹시 기다리는 영화 있어요?
+P0 	: 아직 개봉 안한거라도 ㅎㅎ
+P1 	: 저는 스파이더맨 노웨이홈 엄청 기대중이에요!
+P0 	: 헐 그거 곧 나와요?
+P0 	: 스파이더맨 파프럼홈도 재밌게 봤는데 ㅜㅜ
+P1 	: 12월에 개봉에요! 기다리기가 너무 힘드네요ㅠㅠ
+P1 	: 스파이더맨을 제가 제일 좋아하거든요!
+P0 	: 코로나 때문에 개봉 미루고 그러진 않겠죠?ㅠㅠ
+P1 	: 그러게요 제발 연기안됐으면ㅠㅠ
+P0 	: 영화관은 주로 어디 선호해요?
+P1 	: 영화관은 딱히 가리지는 않아욤!

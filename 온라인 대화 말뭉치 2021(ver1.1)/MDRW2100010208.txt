@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 읽으신 책 있으세요?
+P1 	: 아뇨 요즘은 ㅠㅠ읽으신거 있으세요?
+P0 	: 저는 대만 여행기 관련 책 읽었는데 책이 쉬워서 재밌었어요
+P1 	: 아 여행기ㅎㅎ 사둔 책은 많은데 시간이 안나네요
+P0 	: ㅎㅎ 어떤 책 사두셨어요?
+P1 	: 그냥 소설책들 샀는데 손이 안가네요ㅎㅎ
+P0 	: 소설책은 집중해서 봐야해서 시간 내지않곤 잘 안봐지는 거 같아요 ㅠㅠ
+P1 	: 네 앉은자리에서 다보는편이라...더 그러네요
+P0 	: 저도 앉은 자리에서 완독하는 거 좋아해요!
+P0 	: 그래서 여행기나 에피소드 모아놓은 책 위주로 읽게 되더라구요
+P1 	: 네 저도 슬슬 가벼움 책들로 다시 읽어야겠어요ㅎㅎ
+P0 	: 읽어버릇하다보면 어느새 쌓일 거에요!
+P0 	: 예전엔 잡지도 많이 사서 읽었는데... 요즘도 잡지부록 잘 나오나요? ㅋㅋㅋ
+P1 	: 맞아요 습관처럼 해야한다고 하더라구요ㅎㅎ
+P1 	: 잡지는 요즘 안봐서 모르겠네요 ㅣㅎㅎ
+P0 	: 저두 오늘 몇 페이지라도 읽어봐야겠어요

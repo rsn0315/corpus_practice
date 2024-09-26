@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 환절기에 아픈데 없이 건강하시죠??
+P1 	: 네 저는 건강합니다.
+P1 	: 백신 맞으셨나요?
+P0 	: 네 맞고 아파서 누워 있어요
+P1 	: 헐 많이 아프신가요?
+P0 	: 근육통에 너무 심하네요 속도 메스껍고
+P0 	: 머리도 띵하게 울리는 두통이 계속ㅠㅠ
+P0 	: 백신접종하셨어요?
+P1 	: 네 저는 지난주에 맞았는데 팔만 가끔 뻐근한거 빼면 괜찮아요
+P1 	: 지금 몇일째세요?
+P0 	: 저 이틀째요
+P1 	: ㅜㅜ 어제부터 계속 아프셨어요?
+P0 	: 아니요 어제는 괜찮았는데 오늘 많이 심하네요
+P1 	: 에구ㅜㅜ 타이레놀 드셨나요?
+P0 	: 아직 안 먹었어요 속이 메스꺼워서
+P0 	: 식사 좀 대충이라도 하고 먹으려고요
+P1 	: 네 입맛없으셔도 죽이라도 꼭 챙겨드세요
+P1 	: 공복에 드시면 더 안좋을까봐 걱정이네요

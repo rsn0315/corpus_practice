@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100000916
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 여행 좋아하는데 요즘엔 갈 수 없네요
+P0 	: 코시국이라 슬프내요 마지막으로간 해외여행지가 어디에요?
+P1 	: 코타키나발루요
+P1 	: 그게 벌써 2년전이네요 ㅠ
+P0 	: 우와아~ 너무 좋았겟내요 이름만들어도 설래요
+P1 	: 마지막으로 어디 가보셨어요?
+P0 	: 마지막으로간게 일본 후쿠오카 아니면 태국인데 가물가물하내요ㅋㅋㅋ
+P1 	: 진짜 코로나가 끝나야 어디로든 갈텐데
+P1 	: 그 전에 여권 만료되는거 아닌가 몰라요 ㅋㅋ
+P0 	: ㅋㅋㅋ코로나 끝날때쯤엔 여권도 갱신해야겟네요 은근아깝네요
+P1 	: 그러니깐요 아까워요
+P0 	: 끝나시면 어디가시고 싶으세요?
+P1 	: 코로나 끝나면 유럽 가고 싶어요
+P1 	: 갈 수만 있다면요 ㅎㅎ
+P1 	: 꼭 해외 아니더라도 가까운데서 쉬다오고 싶네요
+P0 	: 갈수있을때와 없을때 다르긴하죠ㅠㅠ 가까운곳이라도 가고싶내요
+P0 	: 저는 태국이나 베트남 가고싶어요
+P1 	: 좋네요. 어디든 가고 싶어요 이번 휴가 때도 집콕이리 슬프네요.
+P1 	: 휴가는 다녀오셨어요?
+P0 	: 아니요~ 불안해서 가지는 못했어요ㅠ 괜히 회사에 일생기면 큰일이라서요

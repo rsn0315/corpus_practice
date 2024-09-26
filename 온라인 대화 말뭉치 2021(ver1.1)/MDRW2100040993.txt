@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100040993
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가을옷  꺼내셨나요?
+P1 	: 네네 어제 꺼냈너요
+P1 	: 어떠세요 날씨
+P0 	: 아직 가을옷 꺼내지않았는데 슬슬 꺼내야 할것 같아요. 아침엔 흐렸는데 지금은 또 해나왔어요
+P1 	: 오 그런가요
+P1 	: 날이 요즘 요란해요
+P0 	: 그러니까요. 비가 오다 흐렸다 맑았다
+P1 	: 그쵸 방금도 비오다가 이제 안오네요
+P0 	: 밤에도 제법 추워요
+P1 	: 그런가요
+P1 	: 감기 조심해야해여 이럴때
+P0 	: 늦은밤이나 이른 아침은 추워서 창문닫고 자요.
+P1 	: 오 어느지역이에요?
+P1 	: 저흰 아직 걸으면 땀나는 정도
+P0 	: 새벽에도요? 아직 춥지않은가 봐요. 낮은 살짝 덥고 새벽에는 바람이 차요
+P1 	: 네네 여기는 아직 좀 덜 추워요 ㅋㅋ
+P0 	: 더운것보다 시원한 날씨가 더 좋아요

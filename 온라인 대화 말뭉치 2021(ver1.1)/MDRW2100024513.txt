@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100024513
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어디를 가장 최근 여행하셨나요?
+P1 	: 부산갔다왔어요 &name1&님은요?
+P0 	: 어 저는 지금 부산이에요
+P0 	: 휴가 마지막일
+P1 	: 아 부산 여행오신거에요?
+P1 	: 휴가오셔서 이런걸 왜하세요 ㅋㅋ
+P0 	: 이거하면서 소소하게 시간보내는거죠
+P1 	: 어디어디 보셨어요?
+P0 	: 꼬막쌈밥집, 거대갈비, 아데초이  이렇게 세군대가고 나머지 시간은
+P0 	: 호텔에만 있었어요
+P1 	: 부산 처음이세요?
+P0 	: 아뇨 부산 자주 갔어요
+P0 	: 집이 울산이라 종종 가요
+P1 	: 아 근데 휴가가신거군요
+P0 	: 넵 맞아요
+P0 	: &name2&님은 부산 어디 다녀오셨어요?
+P1 	: 기억이안나네요
+P1 	: 부산 살았어요 예전에
+P0 	: 아 그러시구나

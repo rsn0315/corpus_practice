@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014452
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 부산
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 직업이다
+P0 	: 일 때문에 화가 났나?
+P1 	: 일은 언제나 하기 싫군
+P0 	: 화났다고 하길래 직업으로 했어
+P1 	: 잘했다
+P1 	: 빨리 복권에 당첨돼야겠어
+P1 	: 좀 더 홀가분한 마음으로 직장을 다닐 수 있을거 같다
+P0 	: 복권 사고있어?
+P1 	: 아니 안사고 있다
+P1 	: 오늘 살까 고민 중이야
+P0 	: ㅋㅋㅋ 오늘 화가 많이 났나보다
+P1 	: 냐 완전 일을 망쳤쨔
+P0 	: 퇴근했어?
+P1 	: 응 카톡에 썼었다
+P0 	: 집에 도착했냐는 뜻이었다
+P1 	: 응 집에 도착했지

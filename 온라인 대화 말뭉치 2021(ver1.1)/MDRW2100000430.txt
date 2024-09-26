@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100000430
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어제 &name2&님 지역도 비왔나요??
+P1 	: 네네
+P1 	: 아침부터 천둥번개
+P1 	: 우르릉쾅
+P1 	: 출근 전에 멍멍이
+	  산책
+P1 	: 시켜야 했는데
+P1 	: 비오면 자기도 못 나가는 거 알고 우울해해요
+P1 	: &name1&님은 수해 입은 지역이라든가 그런 곳인가요 혹시
+P0 	: 다행하게도 아니긴하지만 ㅠㅠㅠㅠ은근 지방쪽이 수해가 심했었더라구요
+P0 	: 날씨문제로 그러는거 몰랐었어요ㅠㅠ
+P1 	: 그니까요 ㅠ
+P1 	: 전지구적으로 홍수 많이 나는 거 보니
+P1 	: 언제 내 차례가 되어도 모르겠더라고요
+P0 	: 아ㅠㅠ이번에 그 도쿄올림픽에 어떤나라 선수
+P0 	: 자기 나라가 침수위기라
+P0 	: 알리기위해 출전한거보고 울컥햌ㅅ어요
+P1 	: 아 맞아요 ㅠㅜ
+P0 	: 지구온난화로 기상악화가 진짜..넘나 무섭구
+P1 	: ㅠ 긍까요
+P0 	: 나중에 일본은 아예 침몰가능성도있다던데 ㄷㄷ
+P1 	: ㄷㄷ
+P1 	: 오늘 아침에
+P1 	: 인도네시안가 거긴 이미 진행 중이라며
+P1 	: 그런 기사를 본 거 같은에
+P0 	: 헉....무섭다
+P0 	: 우리나라도 삼면이 바다라
+P0 	: 걱정되네욥..
+P1 	: 산으로 올라가야 하나
+P1 	: 늘 고민하게 되네요
+P0 	: 층고 높은 곳에 살아야하나...

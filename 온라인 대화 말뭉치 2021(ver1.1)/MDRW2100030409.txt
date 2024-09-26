@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100030409
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음성 인식 편하네요
+P0 	: 이야기가 빨리 진행되네요
+P1 	: 먹부림 할 수 있는 곳으로 여행 가고 싶어요
+P0 	: 진작할 것
+P0 	: 남천동에 빵집 아시나요
+P0 	: 빵천동
+P1 	: 들어는 본 거 같은데
+P0 	: 빵 먹으러 투어 간대요
+P1 	: 뭐가 유명한 곳이죠
+P0 	: 빵 맛집이 많대요
+P1 	: 무슨 빵이 맛있나요
+P0 	: 장소가 본 적은 없어요
+P1 	: 이흥용 과자점 아나요
+P0 	: tv에서 봤어요

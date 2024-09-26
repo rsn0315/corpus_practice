@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035477
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~ 날 덥죠?
+P0 	: 네 더 시원해질 줄 알았는데 아직 좀 덥네요
+P1 	: 맞아요 ㅜㅜ 지금 비도 오나요?
+P0 	: 아뇨 저희 지역은 안 와요
+P1 	: 저희는 잠깐 왔다가 그쳤네요 ㅎㅎ
+P0 	: 얼른 가을 왔으면 좋겠어요ㅋㅋ
+P1 	: 맞아요 ㅋㅋ 가을 좋아하세요?
+P0 	: 네 여름보단 훨씬 낫죠
+P0 	: &name2& 님은요?
+P1 	: 저두요 ㅎㅎ 더운걸 싫어해서요 !!
+P0 	: 가을 되면 단풍 보러 가고 싶어요
+P1 	: 맞아요 ㅎㅎ 공윈 산책하는거 좋아하시나요?
+P0 	: 네 좋아해요!
+P0 	: &name2& 님도 좋아하세요?
+P1 	: 네 좋아해요 !
+P1 	: 그래서 여름이 더 싫어요 ㅋㅋ 산책 못해서 ㅠ

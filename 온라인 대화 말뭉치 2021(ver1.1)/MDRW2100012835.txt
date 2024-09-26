@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012835
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교를 믿으신가요?
+P1 	: 아뇨 무교예요
+P1 	: 종교 있으세요?
+P0 	: 기독교를 믿고 있지만 신앙심도 없고 교회는 안가고있어요..
+P0 	: 예배라는것을 중요시해야 하는데 믿음이 적어요
+P1 	: 아하
+P1 	: 근데 왜 믿으시나요?
+P0 	: 신이 있는지는 모르겠는데 믿어도 나쁠건 없다고 생각해요
+P0 	: 평소에 종교와 거리감이 있으신가요?
+P1 	: 약간 거부감이 있어요
+P0 	: 믿는건 자유라서 종교활동이나 모임들은 잘 모르시겠네요
+P1 	: 성경 말씀 말하고 뭐 그런거죠?
+P0 	: 네 그것도 있는데 종교 믿는 사람끼리 친목도 다지더라고요
+P1 	: 아 그쵸
+P0 	: 종교는 안믿어도 된다고 생각하시나요?
+P1 	: 네 현실적인 편이라
+P1 	: 믿는 게 나쁘다고 생각하진 않아요
+P0 	: 솔직한편이네요 저도 확실히 믿는건 아니니깐요

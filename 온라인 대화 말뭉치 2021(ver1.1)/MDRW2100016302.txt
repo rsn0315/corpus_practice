@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100016302
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 바다요 ㅋㅋㅋ 빠지고 싶진 않고 오션뷰 까페에써 쉬고 싶네요 ㅎㅎ
+P0 	: 저 사실 바다도 좋아요
+P0 	: 오션뷰 카페 멋진데 아는 곳 있으신가요
+P1 	: 제주도에 델문도 라는 곳이 좋아보이더라그요
+P0 	: 어떤가쇼
+P0 	: 바다가 눈앞에 촥~
+P0 	: 펼쳐진 호텔인가요
+P1 	: 그냥 오션뷰 카페에요 ㅎㅎ 호캉스좋아하시나요
+P0 	: 네 호텔에서 쉬고 아침에 조식먹고 나오는거 좋아해요
+P0 	: &name2&은 어떠세요
+P1 	: 호캉스는 안해봐서 잘 모르겠어요 ㅋㅋ 근데 젛을곳 같네요
+P1 	: 어디 가봤어요?? 호캉스로???
+P0 	: 어 그냥 지역에 작은 호텔가서 쉬었어요ㅎㅎ
+P0 	: 거창한 곳 가기에는 제가 아직 부족하기에
+P0 	: 제주도 가시면 드실거 정해놓으셨나요
+P1 	: 일단 흑돼지랑 유명한 베이커리요 ㅋㅋㅋ
+P0 	: 흑돼지 대박
+P0 	: 베이커리는 어디가세요
+P1 	: &name1&은 여행가면 기념품같은거 사는 편이세요?
+P1 	: 다니쉬라고 감자빵으로 유명한곳이랑 오드랑 베리커리요 ㅋㅋㅋ
+P0 	: 감자빵 맛있겠다
+P0 	: 기억해뒀다가 다음에 제주도 갈 때 가봐야게써요
+P1 	: 네네! 정말 기대하고잇어요 ㅋㅋ

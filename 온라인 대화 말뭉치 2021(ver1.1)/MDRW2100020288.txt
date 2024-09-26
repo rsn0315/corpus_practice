@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ai학과 아시나요?
+P0 	: 인공지능 학과인가봐요
+P1 	: 맞아요 고려대학교에 있다고 검색되네요?
+P0 	: 아 그래요?
+P0 	: 진짜 로봇세상인가바요
+P1 	: 네 저희때는 없던 분야일까요,?
+P0 	: 네 듣도보도 못한ㅎ
+P1 	: 코딩에 대해선 잘 아시나요?
+P0 	: 코딩도 많이 하던데
+P0 	: 프로그램 만드는건가오?
+P1 	: 음..저도 정확히 감은 안오지만 ai와 같은 맥락같더라구요^^
+P0 	: 아 신기하네요~~
+P1 	: 네 코딩이 로봇 조작 언어?와 같으니?? 밀접한것같아요?
+P0 	: 학과까지 생긴다니 대세네요
+P1 	: 네 앞으로 전망도 좋을 것 같아요
+P0 	: 그러게요ㅎ

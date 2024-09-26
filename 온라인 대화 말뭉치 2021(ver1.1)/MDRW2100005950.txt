@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 별로
+P0 	: 많다! ㅠㅠ 살쪄보이잖아
+P1 	: 괜찮다
+P0 	: ㅠㅠ스트레스 받는디..
+P1 	: 빠진다
+P0 	: 보톡스같은거 맞을까..ㅋㅋ
+P1 	: 됐다
+P0 	: 왜~ 효과 좋다는데
+P1 	: 부작용 있다
+P0 	: 그건 확률 적지 ㅋㅋ
+P1 	: 조심해야지 그래도
+P0 	: 맞고싶구만... 흑흑
+P1 	: 됐다 돈 아껴라
+P0 	: 알아써...

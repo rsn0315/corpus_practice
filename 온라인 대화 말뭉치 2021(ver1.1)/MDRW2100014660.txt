@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014660
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 건강을 위해 비타민을 챙겨먹고 있습니다
+P0 	: 저도 비타민은 먹고 있어요~ 운동도 해야 되는데 귀찮아서 안되네요
+P1 	: 운동이 꾸준히하기 쉽지 않죠....
+P0 	: 걷기라도 해야 되는데 집에 오면 나가기가 싫어서ㅋ
+P1 	: 마스크쓰고 갑갑해서리...ㅜㅜ
+P0 	: 그러게요..  언제쯤 마스크를 벗을지ㅠ
+P1 	: 백신은 맞으셨어요?
+P0 	: 아직 안 맞았어요.
+P1 	: 예약은 하셨어요?
+P0 	: 예약은 했어요. 님은요?
+P1 	: 저도
+P1 	: 전 며칠뒤에 맞아요
+P0 	: 겁은 안 나세요?
+P1 	: 겁안내고 맞으려구요
+P1 	: 하도 부작용 얘기만하니...
+P1 	: 솔직히 부작용 없는사람이 훨씬 많은데

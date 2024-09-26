@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011349
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래 즐겨하시나요?
+P1 	: 가끔 하는 정도예요
+P1 	: 불안해서요
+P0 	: 아 사기위험도가 조금 있죠ㅠㅠ
+P1 	: 네 사람 직접 만나는것도 요즘은 좀그렇잖아요
+P1 	: 그래서 당근 이용하긴 하는데 많이는 안하게 되더라고요
+P0 	: 아 맞아요 직거래도 찝찝하긴 하죠
+P1 	: 요즘은 옛날에 샀던 카세트테이프 올려두긴 했는데
+P1 	: 안팔리더라고요ㅋㅋ
+P0 	: 아저도 한 일년째 안팔리는 옷들 있네요ㅠ
+P1 	: 자리만 차지하고 무료나눔이라도 해야하나봐요
+P0 	: 무료나눔하면 바로 오실듯하네요ㅎㅎ
+P1 	: 그럴까요 워낙 옛날테이프라ㅋㅋ
+P0 	: 한번 올려보시죠ㅎㅎ
+P1 	: 그래야겠네요
+	  끼고 살아봤자 듣지도 않더라고요ㅋㅋ
+P0 	: 버리는것보단 나을것같아요

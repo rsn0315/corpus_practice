@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017556
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 식사 뭐하셨나요?
+P1 	: 저는 오늘 냉장고에 있는거 넣어서 볶음밥 먹었어요ㅎ
+P1 	: 저녁 뭐 드셨나요?
+P0 	: 저는 토스트먹었어요! 이삭토스트요ㅎㅎ 오랜만에 먹으니까 맛있더라구요
+P1 	: 헉 말하시니까요 저도 먹고 싶어지네요
+P1 	: 말하시니까요ㅋㅋㅋㅋ잠깐 아무 생각없이 쳤나봐요
+P0 	: ㅋㅋㅋㅋㅋ이삭도 배달로먹었어요! 요즘은 배달음식으로 시켜먹게되나용
+P0 	: 되네용
+P1 	: 예전엔 배달은 중식 치킨 피자 이런거밖에 안됐는데
+P1 	: 요즘은 거의 모든걸 배달 보낼 수 있는 것같아요
+P0 	: 맞아요! 심지어 편의점도 배달이 되는게 정말 신기해요!ㅎㅎ
+P0 	: 어떤걸 주로 시켜드시나용?
+P1 	: 저는 떡볶이를 자주 시켜먹는 것같아요
+P0 	: 아 저도 떡볶이 정말 좋아해요!ㅎㅎ 어디떡볶이 좋아하세요?
+P1 	: 저는 여러 브랜드를 탐험해보는 스타일이라ㅎㅎ 정확힌 없는데
+P1 	: 일떡 맛있는 것같아요
+P0 	: 일떡은 처음 들어보는것같아요! 저는 걸작떡볶이좋아해요!
+P1 	: 일떡이 가맹점이 많거나 유명한 집은 아니라서 그런가봐요ㅎㅎ
+P1 	: 걸작떡볶이에서 제일 맛있는 메뉴는 무엇인가요?
+P0 	: 저는 숯불떡볶이요! 불향이 나서 진짜 맛있어요ㅠㅠ

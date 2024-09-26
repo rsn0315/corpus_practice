@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017736
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최애 음식이 뭔가요?
+P1 	: 저는 삼겹살이나 치킨이요
+P0 	: 오겹살은 어떤가요?
+P1 	: 껍데기만 부드럽다면 좋아해요
+P0 	: 껍데기를 잘 못익히시나보다
+P1 	: 약불에 천천히 구워주면 점점 부드러워져요
+P0 	: 껍데기 하니까 자주가던 껍데기 맛집이 생각나네요
+P1 	: 오 어떤식으로 요리를하길래 그렇죠?
+P0 	: 간장으로 요리합니다
+P1 	: 오.. 상상이안가네요
+P0 	: 상상 잘 될걸요?
+P1 	: 모르겟는데요? 저는 관련 요리해보면서
+	  안먹어본것에대해 요리를해야해서 조금 힘들었어요 ㅜ
+P0 	: 그럼 먹어보러 갔다오세요

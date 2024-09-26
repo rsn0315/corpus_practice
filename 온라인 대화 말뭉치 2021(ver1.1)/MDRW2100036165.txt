@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036165
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세여
+P1 	: 저녁 잘드셧어요?
+P0 	: 넵ㅎㅎ 맛났내영
+P0 	: 님은 저녁 드셨어요?
+P1 	: 먹고잇어요..
+P0 	: 맨날 피자먹고 싶네요
+P0 	: 하지만 안되죠
+P1 	: 피자 맛없어요
+P0 	: 저는 피자가 제일 좋네요
+P1 	: 저는 싫어요
+P0 	: 그럼 저 주세여
+P1 	: 싫은데
+P0 	: 이따 맥주 드실생각 있나요?
+P1 	: 느끼해서 먹어야할것같아요

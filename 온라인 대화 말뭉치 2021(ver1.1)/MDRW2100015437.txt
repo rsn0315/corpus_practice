@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015437
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 쇼핑하신것있나요?
+P1 	: 네 저는 최근에 선크림 샀어요 ㅎㅎㅎ
+P1 	: &name1&님음 최근에 뭐 사셨어요?
+P0 	: 오!선크림 좋죠
+P0 	: 저는 최근에 탄산수를샀어요
+P1 	: 오오 탄산수 좋져!
+P1 	: 뭐 타드세용?? 아님 순정으로??
+P0 	: 탄산수 맛이 무척다양하더라구요
+P1 	: 무슨 맛 드세요?
+P0 	: 배맛이 완전 배맛아이스크림 생각나서 맛있더라구요
+P1 	: 헉 배맛도 있어요?
+P1 	: 세상 많이 좋아졌네요...
+P0 	: ㅎㅎㅎ청포도 맛이 제일 호불호가 안갈리는것같아요
+P1 	: 헉 청포도도 잇나요?
+P1 	: 저는 라임 레몬 애플민트 자몽에 멈춰있답니다..
+P0 	: 애플민트 맛있을것같아요
+P1 	: 저는 반민트파로서 격렬히 반대합니다..?
+P1 	: !!
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ민트소주를 최근에 샀는데 진짜 맛없더군요
+P1 	: 오우 그건 민초단에서도 극혐한다고 들었어요...
+P1 	: 색깔은 이쁘던데.. ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ도전하지 않으시길 바라요

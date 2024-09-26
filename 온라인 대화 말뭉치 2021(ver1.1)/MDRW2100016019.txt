@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100016019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+P0 	: 집안일은 언제나 힘들고 귀찮은 거 같아요 ㅎ
+P0 	: 어떤 집안일이 가장 힘드신가요
+P1 	: 저는 청소가 가장 힘들고 설거지가 가장 귀찮아요
+P1 	: 이정도면 좋아하는 집안일이 없는건가요?ㅎㅎ
+P0 	: 저도 그래요ㅋㅋㅋ
+P0 	: 사람 사는 거 다 비슷한가봐요
+P0 	: 저도 설거지 너무 귀찮더라구요
+P0 	: 먹을 때는 좋은데 치우는건 왜 항상 그렇게 귀찮고 미루고싶은건지
+P1 	: 맞아요...그런거 빠릿빠릿 하게 하는거 좋아하는 사람들 보면 신기해요!
+P0 	: 전 약간  집안일 중에서는 분리수거가
+P0 	: 힘든 거 같아요 어려워서
+P1 	: 아 그렇죠
+P1 	: 보니까 생수병에 비닐도 다 떼서 버려야하고
+P1 	: 음식물이 많이 묻어잇으면 일반쓰레기로 버려야하고 그렇더라구요
+P0 	: 맞아요 너무 어려운 거 같아요
+P0 	: 집안일 분담은 어떻게 하시는 편이세요
+P1 	: 저는 1인가구 라서 독박 집안일입니다..ㅎㅎ혼자 어지르고 혼자 치우는..ㅎㅎ
+P0 	: 아하..
+P0 	: 나쁘지않네쇼
+P0 	: 1인가구의 장점ㅈ이죠
+P1 	: 맞아요 ㅎㅎ편한 측면도 있고 너무 통제가 안되는 측면도 잇구요 ㅎㅎ
+P1 	: &name1&은 집안일 분담은 어떻게 하시나요?
+P0 	: 저는 혼자 살어서 제가 다 합니다.
+	  &name2&은요?

@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100007561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 굿모닝이에요
+P1 	: 안녕하세요~
+P0 	: 무슨 일 하시나요
+P1 	: 전 학생이에요
+P0 	: 아 학생 좋죠
+P1 	: 직장인이신가요?
+P0 	: 네ㅎㅎ
+P1 	: 어떤 직종이세요?ㅎㅎ
+P0 	: 저는 공기업 사무직이요ㅎㅎ
+P1 	: 오 취업하신게 대단해보여요ㅎㅎ
+P0 	: 운이 좋았죠ㅎㅎ
+P1 	: 취업하실때 준비하신것 있으신가요?
+P0 	: 음 저는 딱히요!
+P1 	: 헉 정말요?
+P1 	: 서포터즈 하신 적 있으신가요?
+P0 	: 음 기억에 없습니다ㅋㅋ
+P1 	: 앗ㅋㅋㅋㅋㅋ
+P1 	: 직장에서 오는 스트레스도 있을 것같아요
+P1 	: 어떤게 있을까요?
+P0 	: 진상이오
+P0 	: 내부외부
+P1 	: 진상이라면 어떤 경우인가요??
+P0 	: 외부는 뭐 땡깡 부리는 노인?
+P1 	: 내부는요?
+P0 	: 직원탓 하는 회사와 서울시요ㅋㅋ
+P1 	: 서울시ㅋㅋㅋㅋㅋㅋ서울은 왜요?ㅠㅋㅋㅋ
+P0 	: 서울시 산하 공기업이라서요ㅋㅋㅋ
+P1 	: 그럼 그 스트레스 푸는 방법 있으세요?
+P0 	: ㅋㅋ지인들 만나서 욕하기?
+P1 	: ㅋㅋㅋㅋㅋ스트레스 풀어지겠어요
+P1 	: 저는 스트레스 받으면 그냥 자거든요

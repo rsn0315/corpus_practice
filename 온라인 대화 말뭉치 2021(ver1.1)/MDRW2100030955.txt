@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030955
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁으로 된장찌개 먹었어요
+P0 	: 전 피자요
+P1 	: 내일 점심은 피자로 해야겠네요~ㅎ
+P0 	: ㅋㅋ
+P0 	: 강추요
+P1 	: 혹시 피자나 파스타 이런거 집에서 만들어 드신 적 있으세요?
+P0 	: 요리는못해요
+P1 	: 저도 요리는 못하는 편인데 요즘 관심은 생겨서 요리 유튜브 찾아 보곤 해요~
+P0 	: 요리 힘들죠
+P1 	: 요즘에는 마트에 식재료 종류도 많이 나와서 간단하게 할 수 있는 것도 많더라구요
+P0 	: 밀키트 좋죠
+P1 	: 정말 밀키트 종류가 엄청나요~
+	  편한 세상입니다
+P0 	: 그르니까요
+P1 	: 간단한거 식재료부터 시작해서 좀 더 요리 스킬을 늘려야겠어요
+P0 	: 준비가ㅜ힘들됴

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100030997
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 하죠ㅋㅋ &name1&님은 화장실 청소 담당이랬죠??다른건 더 안 도우시나요?
+P0 	: 화장실청소가 가장 힘들죠
+P1 	: 그런가요? 아내분도 동의하신건가요?
+P0 	: 설거지랑 음쓰 분리수거 등이요
+P1 	: 주말에 아들이랑 놀아주시나요??
+P0 	: 밖에서요
+P1 	: 어떻게 놀아주세요?? 놀이공원? 운동?
+P0 	: 공원에서 공차여
+P1 	: 오 !! 재밌겠네요 좋은 아빠시네요
+P0 	: 힘들어요
+P1 	: 애들은 지치질 않더라구요 저는 애없고 주말에 푹쉬어도 월욜부터 힘들던데..
+P0 	: 동감이어

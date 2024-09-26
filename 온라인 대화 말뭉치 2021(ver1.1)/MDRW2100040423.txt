@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100040423
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행은 좋아하세요?
+P1 	: 네네 좋아하죠
+P1 	: 다음주엔 여행가고파요
+P0 	: 가면좋겠네요
+P0 	: 부산이라고 하셨죠?
+P1 	: 네네 맞아용
+P1 	: 경주나 통영 가고파요
+P0 	: 경주좋더라구요
+P0 	: 얼마전에 갔는데
+P0 	: 못보던곳들다녔어요
+P0 	: 부산이면 경주가깝지 않은가요?
+P1 	: 네네 버스로 한시간 반정도요
+P1 	: 어디 가셨나요 경주에
+P0 	: 첨성대도가고 거리도구경하고..
+P1 	: 첨성대 공원 좋죠 사람많던가요?
+P0 	: 네..엄청많아요
+P1 	: 연날리는 사람도많던데
+P0 	: 여기저기 많아요
+P1 	: 자전거타기도 좋죠?
+P0 	: 네..곳곳이 다좋아요

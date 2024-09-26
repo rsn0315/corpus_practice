@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100040593
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 드셨나요?
+P1 	: 아직이요
+P1 	: &name1&님은 드셨나요?
+P0 	: 아 저도 아직이에요!! 뭘 드실 예정이신가요?
+P1 	: 저는 수육이요
+P1 	: &name1&님은 뭘 드실 예정이신가요?
+P0 	: 와 저는 집에 가고 있는터라 그냥 집에 있는 반찬에 먹을 것 같아요
+P0 	: 수육은 식당에서 드시나요?
+P1 	: 아니요 그냥 저도 집에 있는거로 먹으려고요
+P1 	: 좋아하시는 음식 있으신가요?
+P0 	: 아 그러셨구나
+P0 	: 요즘 빵을 진짜 많이 사먹고 있어요 ㅋㅋㅋ 밀가루를 줄여야하는데
+P1 	: 어떤 빵 좋아하세요??
+P0 	: 맘모스 빵도 좋아하고 파바에 뽀득소시지인가? 소시지를 잉글리쉬머핀빵으로 감싼 거요 그거 매번 사먹어요
+P1 	: 뽀득소시지 맛있다고 유명하던데 그 값을 하나요?
+P0 	: 네 저는 파바에서 파는 소시지 빵 중에 제일 맛있는 것 같아요
+P1 	: 가서 꼭 먹어봐야겠네요
+P0 	: 지금 요기요에서도 포장할인하고 이번주 티데이 할인도 하더라구요
+P1 	: 요기요확인해볼께요!!!!

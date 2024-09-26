@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100022272
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 인터넷이요.. 90프로는..
+P1 	: 오프라인도 많이하세요?
+P0 	: 전 먹는건 주로 오프에서 사고 나머지는 거의 온라인에서 사요  온라인 어디 이용하세요?
+P1 	: 지마켓이 메인이요.. 컬쳐때문에 제일 저렴해서
+P0 	: 근데 요즘 컬쳐 변환 수수료 생겼잖아요 ㅠ
+P1 	: 어.. 엄청 잘아시네요? 
+	  그래도 6프로이면...
+P1 	: 아직은.. 괜찮은거 같아요..
+P0 	: 수수료 있다길래 막판에 만땅 충전했어요. 하긴 8프로 할인에 사서 6프로 떼이고 충전하면 남긴 남네요
+P1 	: 8프로 할인에 2프로 수수료 아니에요?
+P0 	: 수수료가 2프로은가요?? 그럼 더 괜찮네요.
+P1 	: 넴.. 6프로 할인이라..
+P1 	: 주로 어디몰 이용하세요?
+P0 	: 저도 쥐마켓 옥션이요 스마일클럽이예요 ㅎ
+P1 	: 스마일클럽 은근이득이죠... ㅋㅋㅋ
+P1 	: 근데 신세계가 인수해서 앞으로
+P0 	: 그쵸 무조건 이득이죠.. 전 매일 룰렛도 돌려요
+P1 	: 어케될지..
+P0 	: 신세계가 인수한대요? 전 전혀 몰랐네요
+P1 	: 이미.. ㅋㅋㅋ
+P1 	: 저번에 인수됬어여..

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 카페 시간 날 때 가려고 하는 편이에요
+P0 	: 카페좋아하시나요
+P1 	: 카페 좋아해요! 음료와 디저트를 모두 좋아해서요ㅎㅎ
+P0 	: 어떤음료 즐겨드세요
+P1 	: 요즘은 밀크티요!
+P0 	: 밀크티 맛있죠
+P0 	: 안에 펄좋아하시나요
+P1 	: 펄이 있으면 넣어먹고 없으면 그냥 먹어요ㅠ 펄 좋아해요!
+P0 	: 쫀득한게 매력있더라구요
+P0 	: 디져트는 뭐 주로드시나요
+P1 	: 요즘은 바스크 치즈케이크 많이 먹어요
+P0 	: 치즈케익의 꾸덕함을 좋아하시나봐요
+P1 	: 네네! 글루텐도 좋지만, 요즘은 글루텐프리로도 잘 나오더라구요ㅎㅎ
+P0 	: 글루텐프리도 나오는구나
+P0 	: 맛은 어때요 글루텐이랑 비슷해요?
+P1 	: 모르고 먹으면 정말 분간할 수 없겠더라구여! 휘낭시에나 스콘은 식감이 차이나지만요ㅋㅋ
+P0 	: 식감차이가 별로나지않는다니 다음에 한번 먹어보겠습니다

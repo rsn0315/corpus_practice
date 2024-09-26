@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100015313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁 드셨나요?
+P1 	: 네 제육볶음 먹었답니다
+P1 	: &name1&님은 뭐 드셨나요
+P0 	: 저는 김치찌개요!
+P1 	: 고기 참치 둘중 뭐가 찌개에 들어갔나요?
+P0 	: 고기요! 역시 고기가 맛있죠 &name2&님은 어느쪽이 좋으세요?
+P1 	: 저도 고기파예요
+P0 	: 입맛이 통했네요
+P1 	: 고기 넣은 국물의 기름진 맛도 좋고요ㅎ
+P1 	: 그러게요ㅎ
+P0 	: 그쵸 약간 기름진게 더 맛있어요
+P1 	: 김치찌개와 된장찌개 중에선 뭘 더 선호하세요?
+P0 	: 요즘에는 된장이요 &name2&님은요?
+P1 	: 저는 초지일관 된장이요
+P0 	: 입맛이 저랑 비슷하신가봐요 ㅎㅎ
+P1 	: 둘다 좋아하지만 평생 하나만 먹으라면 된찌

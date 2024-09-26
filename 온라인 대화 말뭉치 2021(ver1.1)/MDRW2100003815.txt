@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 h패션몰 주문하셨어요?
+P1 	: 패션몰에 머사셨어요?
+P0 	: 저 룰렛 쿠폰만 나와서 아직이요ㅠㅠ
+P1 	: 저는 어제 한아뒤는 5천포나와서 제꺼 티셔츠 하나샀어요
+P1 	: 오늘 또 다른아뒤 5천포나와서 이번엔 긴팔로 살까 고르고있어요 ㅎ
+P0 	: 오ㅎ5천포 좋네요 어디꺼사셨어요?
+P1 	: 5천포가 나오셔야할텐데
+P0 	: 그러게요 낼마지막 기회인데 안줄듯요
+P1 	: 타미꺼요 긴팔은 좀 여러군데 둘러보고 있어요
+P1 	: 미리 쿠폰 다 받아두세요
+P0 	: 룰렛안되면 만근하고 2만포로 사야겠어요
+P1 	: 여기저기 쿠폰이 숨어있어서...
+P0 	: 그렇더라구요 가을오니 긴팔찾아봐야겠네요
+P1 	: 그게 좋긴한데 할인율이 크지가 않아요
+P1 	: 그리고 사이즈도 많이 없구오
+P0 	: 중복쿠폰 적용안되죠?
+P1 	: 픽튜버 인가 그것도 들어가서 쿠폰받아놓으세요 혹시 중복되는거 있을지도 모르니까요
+P1 	: 그래도 최소 2개정도는 쿠폰적용 해야겠더라구요 그래야 어느정도 할인받은느킴이예요
+P0 	: 스니커즈 싸면 또하나 살까했는데 얼마 할인 안되네요

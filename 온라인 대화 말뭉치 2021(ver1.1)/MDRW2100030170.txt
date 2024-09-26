@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 몇인 가구세요?
+P1 	: 저는 3인 가구예요! 부모님이랑 저요
+P0 	: 그럼 집안일 배분을 어떻게 하고 계시죠
+P1 	: 전... 하는 게 없다고 볼 수 있죠
+P1 	: 아주 조금씩 배우고 있...습니다
+P0 	: 아 그러시군요 ㅎㅎ 좋겠어요
+P0 	: 전 기숙사 살아서 빨래며 잡일들 다 혼자하고 있어요
+P1 	: 와 기숙사 사시는군요
+P0 	: 학생이세요?
+P1 	: 혼자 하면 힘드시겠어요 ㅜㅜ
+P1 	: 네 학생입니다!
+P0 	: 그렇긴해요 ㅋㅋㅋ
+P0 	: 대학생아니고 더 어려요??
+P1 	: 아니용! 대학교 1학년입니다 ㅎㅎ
+P0 	: 요즘 대면수업 많이 할텐데 집에서 여가시간에 뭐하시나요
+P1 	: 앗 비대면수업 말씀이실까요! 여가... 책 읽으려고 하는데 아직 개강 3일차라 그런지 몸이 피곤한 것 같아요ㅠㅠㅋㅋㅋㅋㅋ 읽다가도 잠이 오네요... 
+P0 	: 아 비대면이욬ㅋㅋㅋㅋ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100020380
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요~
+P0 	: 안녕하세요.
+P1 	: 평소에 집에서 요리 많이 하시나요?
+P0 	: 네.
+P0 	: &name2&님은여?
+P1 	: 저도 자주 하는 편이에요
+P0 	: 내일 뭐드세요
+P1 	: 아직 생각해보지 않아서,
+	  아마 자고 일어나야 생각할거 같아요
+P0 	: 오 그렇군요.
+P1 	: &name1&님은요?
+P0 	: 저는 고로케 해먹을까 고민중이에요
+P1 	: 오 고로케 맛있죠!
+P1 	: 어떤 재료 넣어서 만드세요?
+P0 	: 햄이랑 맛살 양파 카레 감자 등등 넣으려고했었는데
+	  안먹엇어요
+P1 	: 앗 그렇군요
+	  계획을 바꾸셨나봐요
+P0 	: 그냥 인스턴트 쌀국수 먹엇어요

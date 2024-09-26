@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100002421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 요즘 최근구매 하신 물건이 있으신가요~?
+P0 	: 최근에 쇼핑하신 물던니 헉
+P0 	: 통했다
+P0 	: 저는 먹을 거 주로 사요
+P1 	: 저도 먹을거 위주로사요
+P0 	: 어떤 음식을 구매하셨나요
+P1 	: 최근엔 오뎅사서 김치찌개 해먹었어요
+P0 	: 맛이었겠네요
+P1 	: 어떤거 사셨나요 추천해주세요
+P0 	: 저는 어제 돼지고기를 사서 김치찜을 해먹었어요
+P0 	: 저도 추천해주시겠어요?
+P1 	: 빙고에서 튀김류 사서 드셔보세요
+P1 	: 너무 맛있어요
+P0 	: 감사합니다
+P0 	: 튀김 좋아해요
+P0 	: 튀김류 좋아하시나요
+P1 	: 네 좋아하는데 요즘 튀김이 비싸서 완제품 사먹어요
+P0 	: 그죠 넘 비싸더라구요
+P1 	: 구매예정이신 물건이 있으신가요~?
+P0 	: 마켓컬리 쿠폰이 오늘까지라 또 먹을 거 쇼핑할 거 같네요 ㅎㅎ

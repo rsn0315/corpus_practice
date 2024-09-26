@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100010085
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이세요?
+P1 	: 아뇨! 직장인이에요
+P0 	: 아 저두 직장인입니다ㅋㅋ
+P0 	: 요즘 일하다보면 대학생 때가 너무 그리워요
+P1 	: 그쵸ㅠㅠ 저도 예전에 지금이 좋을 때다 그럼 뭔소리야했는데
+P1 	: 약간이나마 알 거같아요
+P0 	: 진짜 그때만큼 맘편할 때가 없었는데
+P0 	: 시험공부하던 것도 그리워요
+P1 	: 그러게요ㅋㅋ 저는 기숙사 살았어서 시험기간에 동기들이랑 모여서 밤샘하고 야식시켜먹고 ㅋㅋ
+P0 	: 너무재밌었겠어요
+P0 	: 저는 자취했어가지구
+P1 	: 학교랑 가까운 곳에서 다니셨어요?
+P0 	: 네 대학부근에 살았어서 동기들이랑 수업끝나고 저희집에서 밥먹고
+P0 	: 아지트였어요ㅋㅋㅋ
+P1 	: 아 뭔지 알 거같아요
+P0 	: 저는 수강신청하러 피시방가곤했는데
+P0 	: 마라탕님은요?
+P1 	: 저는 그냥 기숙사에서 수강신청했어요ㅋㅋ
+P0 	: 기숙사 인터넷이 빨랐나봐요ㅋㅋ?
+P1 	: 그냥 되면 되고 안되며 안되지...하는 마음으로 학교다녔던 거같아요ㅋㅋ
+P0 	: ㅋㅋ 쿨하시네요ㅋㅋ 요즘 졸업하고 대학동기들이 다 뭐하고사냐고 연락만하고 만나질 못하네요
+P1 	: 저는 졸업한지 얼마안돼서 대부분 취준이에요ㅠ

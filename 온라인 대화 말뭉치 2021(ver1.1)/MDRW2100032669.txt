@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100032669
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교 다니셨나요
+P0 	: 그럼요
+P0 	: 대졸자입니다
+P1 	: 오오 고학력이시네요
+P0 	: 그렇죠
+P0 	: 대학 다녀 보셨나요?
+P1 	: 요새 대학 안 간 사람 찾기가 어렵죠
+P1 	: 네 다녔습니다
+P0 	: 그럼 저한테 고학력자라고 한 건 빈말이셨나요?
+P0 	: 졸업하셨나요?
+P0 	: 칼답 부탁요~
+P1 	: 네 빈말이에요
+P0 	: 그렇군요
+P1 	: 졸업했죠
+P1 	: 넹
+P1 	: 시험 언제 마지막으로 보셨나요
+P0 	: 학업 스트레스 있으셨나요
+P0 	: 저는 한 10년 됐죠
+P1 	: 네 많았죠 시험 스트레스로
+P1 	: 와 나이가 꽤 있으신가보네요
+P0 	: 네
+P0 	: 님은요
+P1 	: 어르신이시네요
+P1 	: 전 좀 어려요 아직
+P0 	: 어리시나보네요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100043143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 아침 드시는 편이신가요?
+P1 	: 안녕하세요! 네 아침 꼭 먹어요 ㅎㅎ&name1&님은요
+P0 	: 저는 잠이 많아서 아침은 포기하는 경우가 많아요ㅎㅎ
+P0 	: 아침 간단하게 드시나요?
+P1 	: 아하 네 전 아침 못 먹더라도 두유나 시리얼 이런 거라도 먹으려고 해요
+P0 	: 오 좋은거 같아요ㅎㅎ
+P0 	: 간단하게라도 먹는거!!
+P0 	: 저녁엔 무얼 드셨나요?
+P1 	: 만둣국 먹었어요!!집에서
+P0 	: 우와 맛있는거 드셨네요!!
+P0 	: 직접 만드셨나요?
+P1 	: 네 그냥 만두 몇개 넣고 후루룩 끓였어요 ㅋㅋ
+P0 	: 만둣국도 끓이기 어려워 보이는데 대단하세요!!
+P0 	: 만두 쪄먹는거, 구워먹는거, 만둣국 어떻게 먹는거 좋아하세요?
+P1 	: 아니에요 사실 요리도 아닌 수준이라 ㅋㅋ
+P1 	: 저는 다 좋은데 국이 젤 좋네요
+P0 	: 오 저는 찐만두 좋아해요ㅎㅎ
+P0 	: 김치, 고기만두 중에 뭐 좋아하시나요?
+P1 	: 브랜드따라 다른거 같은데 원래는 고기 더 잘먹고 풀무원은 김치로요 ㅋㅋ
+P0 	: 오 풀무원 김치만두 나중에 먹어봐야겠네요

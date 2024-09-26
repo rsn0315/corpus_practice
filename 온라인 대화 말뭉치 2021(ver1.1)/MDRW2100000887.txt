@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000887
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 미용실 안 간지 오래됐다
+P0 	: 그러게
+P0 	: 나도 머리 해야 되는데
+P1 	: 구랭 엄마도 머리가 넘 부시시하다
+P0 	: 그러게 머리가 너무 부시시해서 지저분하다
+P1 	: 깔끔하게 컷트 하자~
+P0 	: 언제 갈까
+P1 	: 토요일에 고고싱
+P0 	: 우리 항상 가던 곳 가나
+P1 	: 구랭 거기 가야지 ㅋㅋ
+P1 	: 나는 파마하고싶옹
+P0 	: 파마 하면은 관리가 힘든데
+P1 	: 아니다 오히려 쉽지~
+P1 	: 몰라 생각해보고~!ㅎ
+P0 	: 그래 생각해 봐라
+P1 	: 오키 ㅎㅎ
+P1 	: 오트밀이 몸에 좋대

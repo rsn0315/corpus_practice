@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 차승원이랑 이광수 나오네요
+P1 	: 저도 지인들이 봤다해서 처음 들어봤어요
+P0 	: 아 그래요? 이광수라니 이건 봐야겠네ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋ이광수 좋아하세요?
+P0 	: 넼ㅋㅋㅋㅋ 광수씨 하이킥부터였나 좋아했어요
+P1 	: 오래됐네요ㅋㅋㅋㅋㅋ
+P1 	: 꼭 보러가세요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ넼ㅋㅋㅋㅋ
+P0 	: 요즘 노래 뭐 들으세요?
+P1 	: 레드벨벳 신곡이요
+P1 	: &name1& 님은 어떤 노래 주로 들으세요?
+P0 	: 저는 전소미 신곡 요새 자주 들어요
+P1 	: 그거 중독성 있더라고요
+P1 	: 이번 노래 잘 뽑은 거 같아요
+P0 	: 맞아요 노래가 너무 재밌더라구요
+P0 	: 그거 말고도 요즘엔 비와서 에픽하이 노래 자주들어요
+P1 	: 오 전 비오는 날에 윤하 우산 생각나요
+P1 	: 비오는 날에 산책하면서 이거 들으면 최고예요
+P0 	: 와 맞아요 우산 최고의 명곡이죠ㅠㅠㅠㅠ
+P0 	: 오늘 레드벨벳 신곡 들었는데 너무 재밌고 통통튀는 곡이더라구요!
+P1 	: 그쵸 수록곡 중에 pose라는 노래도 좋아요 되게 중독성있어요

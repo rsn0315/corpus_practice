@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100015743
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 기르세요?
+P0 	: 아니오. 저는 안 좋아해요.
+P1 	: 왜요?
+P0 	: 자식들로 벅차요.
+P0 	: 좋아하는 동물도 없고...
+P0 	: &name2&님은 반려동물 기르시나요?
+P1 	: 저도 반려동물은 안 길러요.
+P0 	: 어떤 동물 좋아하세요?
+P1 	: 저는 고양이 좋아해요.
+P1 	: 예쁘고 깔끔해서요!!
+P1 	: 고양이도 안 좋아하세요?
+P0 	: 않아요
+P1 	: 안 좋아하시는구나
+P0 	: 예전에는 햄스터 키웠었어요.
+P1 	: 어떠셨어요?
+P0 	: 털은 덜 날리는데 작고 쥐 같아서 좋아하지는 않았어요.
+P1 	: 저도 햄스터는 좋아하지 않아요.
+P0 	: 그래도 좋아하는 사람은 열심히 키우더라구요.

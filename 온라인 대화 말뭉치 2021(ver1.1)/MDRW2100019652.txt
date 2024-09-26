@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019652
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 스포츠 관람 좋아하시나요?
+P0 	: 저는 월드컵이나 올림픽 이런거 보는거는 좋아해요 ㅋㅋ
+P1 	: 헛 저도요! 최애 종목 뭐였어요!?
+P0 	: 저는 축구를 원래 제일좋아해서 그거요 ㅋㅋㅋ
+P1 	: 엇 그렇구나!!!! 저는 이번에 배구가 그렇게 재밌더라고요!
+P0 	: 인기많더라구요!
+P0 	: 저는 막경기만 조금 봤어요
+P1 	: ㅎㅎ 대단하더라고요
+P1 	: 야구장은 자주 가시나요?
+P0 	: 전 직관해본적은 없어요 ㅜㅜ
+P0 	: 가보셨나요?
+P1 	: 네! 코로나 전에는 자주 갔었어요
+P1 	: 야구장 치맥을 엄청 좋아해서 ㅎㅎ
+P0 	: 와거기서 먹으면 더 꿀맛일거같아요
+P1 	: 맞아요! 야구룰은 잘 모르지만 분위기 때문에
+P1 	: 항상 즐겁게 보고 와요
+P0 	: 같이 응원하면 분위기타서 재밌겠어요!
+P1 	: 네! 춤추는 분들도 있어서 재밌어요 ㅎㅎ

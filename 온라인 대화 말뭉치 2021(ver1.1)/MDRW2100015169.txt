@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100015169
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공부 좋아하세요?
+P0 	: ㅡㅡ
+P1 	: 공부 좋아한다기보다 ㅋㅋㅋ 저는 수업 듣는거 자체는 좋아해요 지금도 ㅋㅋ
+P0 	: 오잉?
+P0 	: 훌륭하세요
+P1 	: 아 그냥 뭐 물어보고 듣고 이런거 좋아해서 ㅋㅋㅋ 그래서 선생님들이 저 공부잘하는 줄 오해하신 분이 계세요 ㅋㅋㅋ
+P0 	: 탐구한다는 자체가 멋져요
+P0 	: 엄지척
+P1 	: 네 ㅎㅎ 근데 책보는 건 싫어해요 ㅋㅋㅋ
+P0 	: 책 좋아하는 사람이 신기ㅎ
+P1 	: ㅋㅋㅋㅋㅋ 그쵸.. 그럼 학교다닐때 무슨 낙으로 다니셨나요?
+P0 	: 그냥 학위따는 낙이요ㅎ
+P1 	: ㅎㅎㅎ 뭐 전공하셨나요?
+P0 	: 저 교육이요ㅋㅋ
+P1 	: 아니 이런 반전이 ㅋㅋㅋ
+P1 	: 그럼 교직이수 이런 것도 하신 건가요?
+P0 	: 네ㅠㅠ 전 대화가 부끄럽네요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100040841
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 공연 잘 많이 보시나요?
+P0 	: 코로나 시작하곤 한번도 안갔어요 ㅜ ㅜ
+P0 	: &name2&님은요?
+P1 	: 저도 콜로나 이후엔 안 가요 원래는 클래식 좋아해요
+P0 	: 오
+P0 	: 클래식 직접 들으러 가기도 하셨어요?
+P0 	: 연주회 감동일것같아요
+P1 	: 직접 들으러 가면 소리 훨씬 좋더라고요
+P0 	: ㅎㅎ멋지겠어요
+P0 	: 좋아하는 곡 있으세요?
+P1 	: 쇼팽 슈베르트 베토벤 두루두루 좋아해요
+P1 	: 유튜브 보세요?
+P0 	: 그렇군요
+P0 	: 네 매일봐요~
+P1 	: 저도 유튜브 보고 티비는 잘 안 봐요
+P0 	: 저두요!티비는 안본지 십년도 더된것같아요 ㅋㅋ
+P0 	: 유투브로 공연도 보세요?
+P1 	: 저두요 십년 넘얶어요
+P0 	: 요즘 명작들도 은근 하던데
+P1 	: 네 공연도봐요 ㅎㅎ

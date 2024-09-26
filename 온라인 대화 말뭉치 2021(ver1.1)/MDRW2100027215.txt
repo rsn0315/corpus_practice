@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027215
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 덥죠?
+P1 	: 맞아요 요즘 덥더라고요
+P1 	: 요 며칠 계속 비오고 좀 쌀쌀해지길래 가을 오려나 했는데 아직은 아닌가봐요
+P0 	: 습해여
+P1 	: 습해서 더 더운 거도 있죠
+P1 	: 빨리 가을이 왔으면 좋겠어요
+P0 	: 그르니까요
+P1 	: 거기는 날씨 어때요?
+P1 	: 여긴 비 조금 오다가 다시 그친 거 같아요
+P0 	: 흐려뇨
+P1 	: 비 올지도 모르겠네요
+P1 	: 혹시 모르니 나갈 때 우산 잘 챙기고 다니세요
+P0 	: 네 그래야겠어요
+P1 	: 요즘 소나기도 자주 오더라고요
+P1 	: 비오는 날 좋아하세요?
+P0 	: 싫어요
+P1 	: 그렇구나 저도요
+P1 	: 밖에 나가면 비 맞을까봐 나가지도 못하겠고요
+P0 	: 우산 챙겨여

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008407
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 즐겨하시는 운동이 있으신가요?
+P1 	: 걷기요ㅎㅎ
+P0 	: 자주 걸으세요? 요즘 같은 날씨는 걷기에 참 좋은 것 같아요
+P1 	: 하루 만보가 목표에요
+P1 	: 운동 좋아하세요?
+P0 	: 와 대단하시네요 저는 하루 6천보만 걸어도 잘걸었다 라고 생각하고 있어요
+P0 	: 아뇨 운동하는걸 좋아하지 않아서 걱정이에요 땀나는게 싫어서 ㅠㅠ
+P1 	: 시원한 곳에서 하세요!
+P0 	: 시원한 곳에서 해도 결국 땀은 나서.. 사실 다 핑계죠 ㅠㅠ몸이 게으른 것 같아요
+P1 	: 에어컨 시원하게 트시면!
+P0 	: 방에 에어컨이 없어서 ㅠㅠ
+	  겨울에 집에서 홈트레이닝 도전해봤는데 너무 추워서 그것도 힘들더라구요
+P0 	: 이제 좀 날씨가 선선하니까 조금씩 운동 해야할까봐요 뭔가 생존을 위해서? ㅋㅋㅋ
+P1 	: ㅎㅎ걷기부터 도전하세용
+P0 	: 그래야겠어요~ 비오는날에는 어떤 운동하세요? 우산들고 걸으시나요?
+P1 	: 아 비오면 쉽니다......ㅋㅋㅋ
+P0 	: 그때라도 쉬어야죠 이번주내내 비소식이 많던데 ㅠㅠㅠ 태풍도 올라온다고 하니까 집에서 홈트하세요

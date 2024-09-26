@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034601
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁식사는 무엇으로 하시나요?
+P1 	: 아직 안 먹었는데 고민 중이에요
+P0 	: 저는 오늘 베이킹해서
+P0 	: 파운드케이크 만든 것 먹으려고요
+P1 	: 파운드케이크 만들기 어려운가요?
+P0 	: 많이 어렵진 않았어요
+P0 	: 파운드 케이크가 설탕 계란 밀가루가 1파운드씩 들어가서 그렇게 이름을 붙였다더라고요
+P0 	: 세가지를 동량으로 넣음 되는 것 같아요
+P1 	: 그런 뜻이었군요. 맛있을 것 같아요
+P0 	: 네 레몬이랑 초코파운드 케이크 만들었는데
+P0 	: 생각보다 맛있네요ㅎㅎ
+P1 	: 저도 나간 김에 빵 좀 사올 걸 그랬네요
+	  레몬이랑 초코라니 맛있는 조합!ㅋㅋ
+P0 	: 네네 맛있는 조합!!
+P0 	: 저녁에 맛있는 것 드셔요
+P1 	: 있는 반찬들이랑 해서 어서 차려 먹어야겠어요
+P0 	: 네네 집밥 맛있게 드셔요ㅎㅎ
+P1 	: 아이스크림 사왔는데 밥 먹고 그것도 먹고요ㅋㅋ
+P0 	: 저도 오늘 아이스크림 사왔는데ㅎㅎ

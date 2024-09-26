@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100002055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 음료 어떤 거 좋아하세요?
+P1 	: 사이다 좋아해요
+P1 	: 스프라이트 칠성사이다 이런거요. 자몽주스도 좋아하구요.
+P1 	: &name1&님은 어떤 음료 좋아하세요?
+P0 	: 저는 아메리카노 좋아해요
+P0 	: 탄산음료도 좋죠! 저도 자몽주스 좋아해요ㅎㅎ
+P1 	: 아메리카노 제가 커피를 안마셔서 아메리카노의 맛을 표현한다면?
+P0 	: 저도 예전엔 못마셨었는데 뭔가 깔끔해서 좋아요
+P0 	: 우유 들어간건 제가 잘 못마시거든요ㅠㅠ
+P1 	: 아 유당불내증 있으신가요?
+P1 	: 아니면 그냥 맛과 향 때문에?
+P0 	: 유당불내증까진 아니고 흰우유를 별로 안 좋아해요ㅠㅠ
+P0 	: 입에 뭐가 남는 느낌이어가지구
+P0 	: 근데 또 빵이나 이런거랑은 잘 먹어요ㅎ
+P1 	: 아 그럴 수 있어요 그 느낌 알 것 같아요
+P1 	: 빵 무슨 빵 좋아하세요
+P0 	: 저 빵은 다 잘먹어요
+P0 	: 그냥 담백한 빵도 좋아해요ㅎㅎ
+P1 	: 식빵이나 크루아상같은거 좋아하실거같아요
+P1 	: 저는 애입맛이라 소시지들어간게 좋더라구요
+P0 	: 오 맞아요 절 너무 잘 아시는데요
+P0 	: 요새 크루아상에 아몬드나 크림 이런거 있는것도 너무 좋아요
+P1 	: 쫄깃하고 달콤하고 너무 좋죠
+P1 	: 빵은 진짜 다 맛있는 거 같아요
+P0 	: 그쵸 저 삼송빵집이랑 성심당 이런 곳도 좋아해요
+P0 	: 세상에 맛있는 빵이 너무 많아용

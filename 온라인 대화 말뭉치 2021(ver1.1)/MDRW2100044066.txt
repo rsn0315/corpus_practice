@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100044066
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요ㅎㅎ
+P0 	: 저녁 드셨나요?
+P1 	: 네! 저는 저녁으로 스파게티 해먹었어요
+P0 	: 어떤 스파게티요?
+P1 	: 소세지와 야채를 다져넣고 아라비아따 소스로 만들었어요! 사먹는 것도 맛있지만 집에 있는 재료 와르르 넣어먹는걸 좋아해요
+P0 	: 스파게티 소스를 직접 만드시나요?
+P1 	: 아뇨...그런건 대기업들에게 맡깁니다...저는 들어가는 재료들만 손질해요ㅋㅋㅋ
+P0 	: 재료를 더하시는거군요?
+P1 	: 네! 저는 재료가 풍성한게 좋거든요
+	  &name1&님은 저녁으로 뭘 드셨나요?
+P0 	: 저는 볶음밥이요
+P1 	: 아 볶음밥 맛있죠 저는 먹고싶은게 생각 안나면 그냥 계란볶음밥이나 김치 볶음밥을 해먹게 되는 것 같아요!
+P0 	: 저도요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P0 	: ??
+P1 	: 안녕하세요! 요즘 게임하시나요?
+P0 	: 넵.
+P0 	: 게임을 하고있습니다.
+P1 	: 어떤게임하고 계신가요?
+P0 	: BIGFARM이라는 게임을 하고있습니다.
+P1 	: 모바일 게임인가요?
+P0 	: 넵.
+P1 	: 얼마나 하셨어요?
+P0 	: 약 2년되었습니다.
+P1 	: 엄청 오래하셨네요 ㅎㅎ
+P0 	: 감사합니다.
+P1 	: 모바일 게임말고 온라인게임은 안하시나요?
+P0 	: 넵 안하고있습니다.
+	  
+P1 	: 한 게임에 집중하시는 편인것 같아요 ㅎㅎ
+	  오늘 남은 하루 즐겁게 보내길 바랄게요!
+P0 	: 감사합니다.

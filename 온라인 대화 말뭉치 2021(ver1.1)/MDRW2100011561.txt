@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100011561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가끔해먹기도하고 인스턴트먹기도하고
+P1 	: 고기자주구워먹어요ㅎ
+P1 	: 요리좋아하세요?
+P0 	: 요리 자주해요~
+P0 	: 어떤고기 좋아하세요
+P1 	: 어떤요리요?
+P1 	: 전 고기는 다ㅋ
+P0 	: 돼지 닭 소 중에 어떤게 좋으세요?
+P1 	: 전 소 돼지 닭 순이요ㅎ
+P0 	: 저는 소고기 맛있는지 모르겠더라고요ㅎㅎ
+P0 	: 돼지고기가 제일 맛있어요
+P1 	: 아 마블링있는건 살살녹는데ㅎㅎ
+P1 	: 삼겹살 맛있죠
+P1 	: 김치구워서 냠냠
+P0 	: 저는 목살이랑 사태 자주먹어요
+P1 	: 아 기름진거 안좋아하시는군요
+P0 	: 네 정답ㅎㅎㅎ
+P1 	: 사태는 장조림할때먹나요?
+P0 	: 사태는 삶아먹거나
+P0 	: 볶아먹어요
+P0 	: 식감이 쫄깃쫄깃 합니다
+P1 	: 사태사본적이 없네요ㅎ 맨날 삼겹이만^^
+P0 	: 식사하셨나요

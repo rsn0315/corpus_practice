@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100042648
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 큰일났네 내일 학원갔다오면 또 밀리겠네
+P0 	: 안돼... 그럼 주말에도공부해야되는데
+P0 	: 하필 이번주 한국사시험이라
+P1 	: 시험 있다며
+P0 	: 한국사시험 토익시험 봐야돼
+P1 	: 얼마나 공부했어
+P0 	: 하나도 안했어
+P1 	: 망했네
+P0 	: ㅎ...잠은 죽어서 자야지
+P1 	: 며칠 안남았는데 괜찮겠어??
+P0 	: 아니 안 괜찮을거같아
+P1 	: 수업들을때 자겠는걸
+P0 	: 핫식스 들이부어야겠다
+P1 	: 미리미리 좀 하지

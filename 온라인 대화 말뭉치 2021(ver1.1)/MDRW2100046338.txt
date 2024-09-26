@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046338
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 점심 드셨나요?
+P0 	: 네 먹었습니다. &name2&님도 점심 맛있게 드셨어요?
+P1 	: 네^^ 방금 막 점심 먹었어요
+P1 	: 어떤 거 드셨나요?
+P0 	: 날씨가 많이 추워졌네요. 옷 따뜻하게 입고 다니세요.
+P1 	: 네 ^^ 감사합니다
+P1 	: 오늘 맨투맨 하나 입었는데 좀 쌀쌀하네요 ㅎㅎ
+P0 	: 저는 순대국 먹었어요. 국밥을 좋아해서요.
+P1 	: 캬 추울때는 역시 따뜻한 국밥이죠 ㅎㅎ
+P1 	: 저는 오랜만에 패스트푸드 먹었어요
+P0 	: 햄버거요?
+P1 	: 네!
+P0 	: 네 저도 좋아해요...ㅎㅎ
+P1 	: 주기적으로 땡기더라구요 ㅎㅎ
+P1 	: 감자튀김도 좋아하시나요? ㅎㅎ 전 치즈스틱이 최애예요
+P0 	: 네. 전 맘스터치 감튀 좋아해요.ㅎㅎ
+P1 	: 맘스터치 감자튀김 저도 좋아해요 ㅎㅎ 딱 맥주 안주 느낌!
+P0 	: 맞아요 ㅋㅋ

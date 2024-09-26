@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100023431
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 특히좋아하는 배달 메뉴있으세요.?
+P1 	: 치킨을 자주먹어요
+P1 	: 피자도 좋구요
+P0 	: 맛있지요...ㅜㅜㅜㅜ
+P0 	: 새벽에얘기하니배고파지네요ㅎㅎ
+P1 	: 초밥이나 떡볶이 이런것도 가끔 시켜요
+P1 	: 근데 떡볶이는 너무 비싼거같아요
+P1 	: 어느순간 고급화가 된 느낌
+P0 	: 네 말도안돼요 너무  큰통에 15000원 그냥 넘어버리니까 ...
+P0 	: 저는 그래서 주로 신전시켜먹어요..ㅎㅎ
+P1 	: 신전떡볶이는 머가 좀 다릅니까?
+P0 	: 그냥 가격대가 무난해요
+	  3000원대엿나..그럴거예요! 
+	  그래서 다른 사이드랑 이것저것 시키면 돼요!  그게 좋아요 !!
+P1 	: 다음에 신전한번 시켜볼게요
+P1 	: &name1&이 추천해주셨으니
+P0 	: 네네
+P1 	: 3000원대라고해서 죠스같은 느낌일거같긴한데
+P0 	: 아좀그런계열같은데 소스가많은 ㅇㅅㅇ!!!
+P0 	: 아닌가 죠스가맛있는감...
+P1 	: 아 국물떡볶이 스타일이군요
+P0 	: 국물떡볶이라기엔 퍼먹을수없어요!!!
+P0 	: ㄱㄲㅋㅋㄱ설명이산으로가는거같은

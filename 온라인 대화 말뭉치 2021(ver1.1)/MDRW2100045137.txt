@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100045137
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 중고 구매하신적있으세요?
+P1 	: 중고거래 많이 하죠 ㅎㅎ 중고나라도 하고 당근도 하고요
+P0 	: 네네 저는 이번에 처음구매했었는데 어떤거 구매해보셨어요?
+P1 	: 구매는.. 다양하게 많이 해봤는데 옷이나 화장품 살때도 있고요 전자제품 같은거 살때도 있어요
+P0 	: 전 구매를 많이안해봤어서 물건들 괜찮았나여?
+P1 	: 네 저는 딱 제가 사고싶은 것만 사는 편이라 대체로 만족했어요!
+P0 	: 오오 가장만족한제품 이거잘샀다싶은거있나요
+P1 	: 아 전에 돌체구스토 만원에 산적 있어요 ㅋㅋㅋ 야무지게 썼네요 ㅎㅎ
+P0 	: 우와 진짜 잘사셨네요 작동잘되져?
+P1 	: 네네 멀쩡했어요!!!
+P0 	: 돌체가 네스프레소기계인가여?
+P1 	: 네 캡슐커피머신이요 네쏘 돌체 둘다 그냥 브랜드명이에요!
+P1 	: 네쏘가 더 유명 ㅋ
+P0 	: 아 ㅋㅋㅋㅋ전네쏘에서 나온기계이름인줄알았어요 하도 네쏘가유명해서

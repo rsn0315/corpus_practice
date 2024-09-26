@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 키워보고싶은 동물 있나요?
+P1 	: 저는 길냥이를 데려오고 싶어요
+P1 	: 호호이님은요?
+P0 	: 저도요! 길냥이가 최고인 것 같아요
+P0 	: 아니면 시고르자브종 강아지요
+P0 	: 저희 집에 자주오는 길냥이 있는데 정말 귀엽습니다
+P1 	: 자주온다니 길냥이 밥챙겨주시나요?
+P0 	: 네 맞아요. 하지만 부벼주진 않습니다
+P0 	: 중성화는 어디선가 하고 왔더라구요
+P1 	: 너무 귀엽다...
+P1 	: 다행이네요 저도 사료랑 물만 챙긴적 몇번있는데
+P1 	: 가까이 온적이 없어요 멀리서 지켜만봤어요
+P0 	: 제 친구는 거북이 키우는데
+P0 	: 파충류도 귀엽더라구요
+P1 	: 맞아요!파충류 도마뱀종류도 너무 귀여워요
+P0 	: 하지만 물컹한 친구 조금 무서워쇼
+P1 	: 공감해요ㅋㅋㅋㅋ 반려동물 이름 생각해두신거 있나요?
+P0 	: 구름이요~
+P1 	: 구름이! 폭신폭신하고 귀여워요
+P0 	: 고양이나 강아지한테 어울리는 이름 같습니다

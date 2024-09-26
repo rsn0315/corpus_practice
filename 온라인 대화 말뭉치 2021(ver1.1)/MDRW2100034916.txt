@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034916
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전시회는 좋아하세요?
+P0 	: 사진전하고 미술전은 꽤 좋아해요!
+P1 	: 오오 ㅎㅎ 저도 좋아하는데 볼 기회가 잘 없네요 ㅠㅠ
+P0 	: 저도요ㅠ
+P0 	: ㅅ요즘은 특히 더 그러네요
+P1 	: 보통 작가님 보고 가시나요?
+P0 	: 음 주제를 보고 가는경우가 많아요!
+P1 	: 오오 보통 어떤 주제로 가세요?
+P0 	: 인물관련된게 좋아서 그쪽으로 더 가게되더라구요!
+P1 	: 오오 ! 전 인물관련은 한번도 안가봤는뎌
+P1 	: 어떤 느낌이에요?
+P0 	: 표정에 나타나는 감정이나 분위기가 상상력을 자극하는 느낌이에요!
+P1 	: 오오 ! 하긴 전시회는 상상하는게 또 좋은거같아요 ㅎㅎ
+P1 	: 사람마다 다르게 상상하는게 신기하기도 하구요 ㅋㅋ
+P0 	: 맞아요!!
+P0 	: 그런의미에서 진짜 좋은거같아요ㅎㅎ
+P1 	: 저도 사진찍는걸 좋아해서 사진전을 좋아하는데
+P1 	: 언젠가 한번 열어보고싶네요 ㅋㅋ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012732
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이번 도쿄올림픽 보셨어요?
+P0 	: 네! 재밌었네요
+P1 	: 저두요 ㅋㅋㅋ 열리기 전엔 욕했는데 막상 열리니까 재밌게 집관했어요~
+P1 	: 무슨 종목이 젤 재밌었나요?
+P0 	: 저는 배구요!! 정말 모든 경기 다본건 그거밖에 없어요ㅎㅎ
+P1 	: 아 배구~김연경 선수 진짜 멋있죠 ㅠㅠ
+P1 	: 배구경기 규칙은 잘 아시는 편이에요?
+P0 	: 완전 잘알지는 않아요ㅎㅎ 하지만 분위기랑 선수들이 열심히 뛰는게 멋있어서 본 것 같아요
+P1 	: 무슨전이 젤 인상깊었어요?
+P0 	: 전 역시 한일전이네요!
+P1 	: 아 한일전~ 멋있었죠 ㅋㅋ킄 너무 통쾌해요
+P1 	: 4강은 져도 한일전은 꼭 이겨야죠!
+P0 	: 맞아요!!!
+P1 	: 저한텐 궁금하신 점 없으신가요?
+P0 	: &name2&은 가장 재미있게 본 종목이 뭔가요?
+P1 	: 전 배구랑 펜싱이요~#
+P1 	: 클라이밍은 처음 봤는데 그것도 재밌었어요
+P1 	: 경보라는 종목도 뭔가 웃긴데 신선했어요
+P0 	: 엄청 많은종목을 보셨네요!

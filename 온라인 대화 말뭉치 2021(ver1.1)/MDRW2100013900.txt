@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 유튜브 자주 보시나요?
+P0 	: 엄청 자주는 아닌데 종종봐요
+P0 	: 빠니보틀이랑 슈카월드 뭐 그런거 봤어요
+P1 	: 오 슈카월드 재밌죠ㅋㅋㅋㅋ 요즘 저도 자주 보고 있어요ㅋㅋㅋ
+P0 	: 슈카월드 보기시작한지 얼마안돼서 아직 볼게 무궁무진해요ㅎㅎ
+P0 	: 어떤영상 좋아하세요?
+P0 	: 뭐 다른 유튜버 추천도 좋은데
+P1 	: 저는 원래 주로 요리 영상 많이 보거든요! 한세 님 추천합니다ㅋㅋㅋ
+P0 	: 요리영상! 봐본적 한번도 없는데 한세님! 봐볼게요
+P0 	: 요리하는거 좋아하시나봐요
+P1 	: 야매로 요리하는 걸 즐겨해요ㅋㅋㅋㅋ 그래서 계속 망치는데 요리가 재밌긴 하더라고요
+P0 	: 하다보면 다 느는거죠! 그럼 한세님 유튜브 보고 따라해본 음식도 있어요?
+P1 	: 네ㅋㅋㅋ 생초콜릿 레시피 보고 해봤어요
+P0 	: 오 어땠어요? 잘 됐어요?
+P1 	: ㅋㅋㅋ아뇨 완전 망했죠ㅋㅋㅋㅋㅋ 근데 맛은 있었어요 모양만 이상했을 뿐
+P0 	: 맛만있음 됐죠 뭐ㅎㅎ 유튜버님이 잘알려주셨네

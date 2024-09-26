@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005255
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 모임해여?
+P1 	: 저는 봉사를 하고 있어요!
+P0 	: 우와 대단
+P1 	: &name1&님은 하고 있는 동호회나 봉사활동이 있으신가요?
+P0 	: 봉사는 했어요
+P1 	: 원래는 다른 곳에서도 봉사를 했었는데 코로나로 인해 많이 그만뒀어요ㅠㅠ
+P0 	: 저는 배식봉사했어요
+P1 	: 여름에 하기는 힘드셨겠네요ㅠㅠ 오래 하셨나요?
+P0 	: 코로나 전애 2년 정도요
+P1 	: 오래 하셨네요, 그때 같이 봉사하신 분들과는 연락 하시나요?
+P0 	: 제가 이사오는 바람에 멀어졌아여
+P1 	: 제가 하는 봉사지에서는 원래 주기적으로 같이 식사하는 자리거 있는데 코로나 이후로는 그러기도 힘드네요ㅠㅠ
+P0 	: 코로나때문에

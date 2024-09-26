@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100043171
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요
+P1 	: 네네 좋아해요 최근엔 잘 못갔어요
+P0 	: 아 특별히 좋아하는 여행지 있으신가요?
+P1 	: 아 저는 경주 좋아해요 적당히 한적하면서도 볼게많아서
+P0 	: 아 저는 경주 근처살긴한데
+P0 	: 의외로 많이 안가봤어요
+P1 	: 우와 정말요
+P0 	: 어떤곳추천하시나요
+P1 	: 음 황리단길 하고
+P1 	: 월정교요
+P0 	: 혹시 월정교는 밤에 불켜져있는 곳인가요
+P1 	: 마자요 역시
+P0 	: 아 야경보기 좋겠네요
+P1 	: 네네마자요
+P1 	: 대룽원도 좋고요
+P0 	: 왕릉 있는 곳인가요?
+P1 	: 황리단길 근처일걸요?
+P0 	: 역사공부하고 가면 더 좋겠네요

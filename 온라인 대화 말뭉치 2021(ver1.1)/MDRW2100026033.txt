@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100026033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 제주는 날씨가 참 변덕스러워요
+P1 	: 사시는 곳은 어떤가요
+P0 	: 여기도 변덕스러워요
+P0 	: 아까전에는
+P0 	: 해가나더니
+P0 	: 또 비가 내려요.ㅜ
+P1 	: 곧 건조해질텐데 추운거 넘 싫어요
+P0 	: 맞아요ㅠ저두요.
+P0 	: 습한거는 사실 더싫긴하지만 ㅜㅜㅋㅋ
+P1 	: 코로나신경쓰느라 미세먼저 정보는 상대적으로 체크안하게되네요
+P0 	: 맞아요. 미세먼지는
+P0 	: 체크안한지 꽤됐어요, ㅜㅜ
+P1 	: 담주도 비가 많이 온다고 하나요?
+P0 	: 다음주는 흐림이던데ㅜ
+P0 	: 설마 또 비가올까요ㅜㅜ
+P1 	: 일기예보가 요즘 믿을게 못되서요
+P1 	: 지금 제주는 갑자기 번개가.. @@
+P0 	: 맞아요.ㅜㅜ
+P0 	: 아구 거기는 번개도쳤군요.ㅜ
+P1 	: 제주는 진짜 예상하기가 어렵네요
+P0 	: 그렇네요. 여기보다 더하겠어요.
+P0 	: 내일은 비안올것같던데ㅜ
+P0 	: 제주도는 오려나요?ㅜ
+P1 	: 제주는 하루에 2-3가지 날씨가 복합적으로 겹쳐서 어떤날 하기가 어려워요

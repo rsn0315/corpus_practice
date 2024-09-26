@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018117
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 디즈니랜드가 너무 가고싶어요ㅜㅜ
+P0 	: 디즈니랜드 한번도 안가봤어요! 미국쪽으로요?
+P1 	: 저도 아직 안가봐서 아시아 쪽 부터 가보려구요!
+P0 	: 일본이랑 홍콩에 있는거죠?
+P1 	: 네네 &name1&은 어디부터 여행 가실거에요?
+P0 	: 전 스페인쪽 아님 터키 가고싶은데 터키는 이제 물건너간거같아요ㅜ
+P1 	: 그러게요 저도 터키 여행가서 열기구 타고싶었는데ㅜㅜ
+P0 	: 열기구 부모님이 타셨는데 재밌다고ㅜ 근데 터키상황이 갈수록 심각해지는거같아요
+P1 	: 그러게요 터키 못가본게 아쉽네요
+P0 	: 그럼 다른 곳 어디 가보셨어요? 스페인 말고요
+P1 	: 피렌체도 다녀왔었어요! 두오모 성당 다녀왔어요
+P0 	: 우와 유럽쪽은 다 가신거예요? 전 유럽 못가봤어요ㅜㅜ
+P1 	: 최근에 다녀와서 요  ㅋㅋㅋ

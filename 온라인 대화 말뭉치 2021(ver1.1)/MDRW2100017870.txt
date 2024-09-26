@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100017870
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식 좋아하세요?
+P1 	: 네네 마라샹궈 가장 만힝 시켜먹어요
+P0 	: 얼마나 자주 시켜드세요?
+P1 	: 한달에 두번정도요 &name1&은요
+P0 	: 저는 일주일에 한번정도 먹는것 같아요
+P0 	: 보통 치킨 먹어요
+P1 	: 오와 치킨 어디꺼 좋아하세요
+P0 	: 저는 후라이드좋아해서 보통은 비비큐 황올 먹어요
+P0 	: &name2&은 치킨 어디꺼 좋아하세요?
+P1 	: 저는 지코바같은 숯불 좋아해요
+P0 	: 지코바도 맛잇죠 치밥!!
+P1 	: 마자요ㅠ 황올도 치킨의 진리죠
+P1 	: 당모치 뜻 아세요?
+P0 	: 당연히
+P0 	: 모든치킨은 옳다 ..!
+P1 	: 오 아시는 구나
+P1 	: 저는 어제 첨 알았어요
+P0 	: ㅋㅋㅋㅋ저도 안지 오래안됏어요
+P1 	: 당근마켓 모든 분들 치얼업 뭐 이런식으로 생각했어욬ㅋㅋㅋㅋ
+P0 	: 신조어에 약해서 ㅋㅋㅋㅋㅋ
+P1 	: 저듀 ㅋ
+P0 	: 저는 사리인줄알앗어요 ㅋㅋㅋㅋㅋ
+P1 	: 지금은 점심먹고 폴바셋 아이스크림 먹어요
+P1 	: 맛있네요
+P0 	: 당면 모짜렐라치즈 인가?
+P0 	: 라면서 ㅋㅋㅋㅋㅋㅋ
+P1 	: 우와 그게 훨 좋네요
+P0 	: 닭갈비 사리인줄 ㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ당모치 추가요
+P0 	: 네 그런 건줄 알았어요 ㅋㅋㅋㅋㅋ

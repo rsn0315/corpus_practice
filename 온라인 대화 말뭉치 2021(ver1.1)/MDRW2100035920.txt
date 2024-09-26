@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035920
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 잘은 아니고 좋아는 해요!ㅋㅋㅋ
+P1 	: 저도 좋아하긴 해요
+P1 	: 로제말고 다른 건 해보셨나요?
+P0 	: 라면 투움바요! 거의 라면류를 따라하게 되네요 ㅡㅋㅋㅋ
+P1 	: 오 라면으로 투움바가 되요?
+P0 	: 네! 신라면으로 끓이는 건데 진짜진짜 맛있어요 제 최애 레시피예요ㅎㅎ
+P1 	: 와 우유 넣고 하나요? 맛있겠다
+P0 	: 네 맞아요ㅋㅋㅋ 꼭 드셔보세요 우유+치즈+소세지 이렇게만 넣어도 ㄹㅇ 극락...!
+P1 	: 간단하고 좋네요 넣고 조리면 되나요?
+P0 	: 네!! 그렇더라구요
+P0 	: &name2& 님 점심 뭐 드실 건가요?!
+P1 	: 전 아마 라면 먹을것 같아요 &name1&님은요?
+P0 	: 전 김치찌개 끓인 거 먹을 거 같네요! 어떤 라면 드실 건가요?!
+P1 	: 김치찌개 좋죠 전 아마 신라면이나 사천짜장요
+P0 	: 오오 사천짜장 독특하네요ㅋㅋㅋㅋㅋ 맛있을 거 같아요
+P1 	: 매운걸 좋아해요

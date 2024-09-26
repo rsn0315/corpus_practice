@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046659
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 아침은 드셨나요?
+P0 	: 넵  아침먹고 출근했습니다
+P0 	: &name2&님두  드셨나요
+P1 	: 오오 저는 시리얼 조금 먹고 출근했는데!
+P1 	: 뭐 드셨나요?
+P0 	: 미역국 먹었네요
+P0 	: 생일은 아닙니다 ㅋ
+P1 	: ㅋㅋㅋ맛있고 배부른 아침이셨겠어요
+P1 	: 아침 먹을 시간이 있으신걸보니 부지런하신가보군요!
+P0 	: 어머니께서 챙겨주신 거라
+P0 	: 어머니 안 계셨으면 굶었을 것 같네쇼
+P1 	: 오오 그래도 먹으려는 의지가 있으니 챙겨주신거겠지요!
+P1 	: 미역국에 어떤걸 넣으시나요? 소고기?
+P0 	: 저희 가족은 세끼는 무조건 챙겨먹어야하네요
+P1 	: 아하 아침먹는 습관은 정말 좋은 습관 같아요
+P0 	: 조개 넣고 끓이셨네요
+P1 	: 오 저희집은 새우 아님 소고기거든요 ㅎㅎ
+P0 	: 소고기 살 돈이 없어서ㅜㅜ

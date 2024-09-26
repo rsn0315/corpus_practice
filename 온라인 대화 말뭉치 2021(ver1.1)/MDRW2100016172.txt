@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100016172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요. &name1&은 반려동물 키우시나요,
+P1 	: ?
+P0 	: 아뇨 고양이 키워보고싶네요
+P1 	: 저두요. 우리만 고양이 없어...ㅠㅠㅠㅠ
+P1 	: 강아지는 어떤가요?
+P0 	: 강아지는 생각 안해봤네요ㅎㅎ
+P1 	: 전 강아지도 넘 좋을 거 같아요 ㅠㅠ
+P0 	: 키우는거 있으신가요
+P1 	: 아뇨 반려동물 없어요 ㅠㅠ
+P0 	: 부모님이 반대하시나요
+P1 	: 알러지가 있어서요ㅠㅠ 키울 수 있는 여건이 안돼요
+P1 	: &name1&은요??
+P0 	: 저도 독립을 해서 키워야할것가타효
+P1 	: 독립하시면 바로 냥택 당하시길..! ㅎㅎ
+P0 	: 그래야겠어요ㅎㅎ

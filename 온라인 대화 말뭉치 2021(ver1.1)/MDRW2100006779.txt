@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100006779
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P0 	: 날씨가 선선해지면서 가을이 성큼 다가왔습니다
+P0 	: 가을이오면 어느 것이 가장 기대되시나요?
+P1 	: 높은 하늘과 단풍이요 ㅎㅎ
+P0 	: 저희 아내도 단풍 좋아합니다
+P1 	: 기억에 남는 단풍관광지 있나요
+P0 	: 단풍이 참 예쁘지요
+P0 	: 단풍은 설악산도 좋고 내장산도 좋지요
+P0 	: 단풍 보러 여행 다녀보셨나요?
+P1 	: 내장산 저도 가봤네요 아름답죠
+P0 	: 내장산 좋지요
+P0 	: 근처 식당들도 맛있었던게 생각이 나네요
+P0 	: 가을 먹거리들도 좋아하나요?
+P1 	: 네 뭐좋아하세요?ㅎㅎ
+P0 	: 저는 감 좋아합니다
+P0 	: 단감 홍시 곶감 다 좋아하지요
+P0 	: 감 좋아하십니까?
+P1 	: 네 잘 먹어요 저는 가을먹거리하니 전어구이가 생각났어요 ㅎㅎ
+P0 	: 전어구이 맛있지요
+P1 	: 좋아하시나요?
+P0 	: 저는 먹기는 하지만 일부러 먹진 않습니다
+P0 	: &name2&님은 자주 드시나요?
+P1 	: 저도 전에는 찾아먹었는데 아이 낳은 후로는...못먹었어요

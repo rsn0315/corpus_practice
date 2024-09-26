@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100035077
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안녕하세여
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 혹시 제주도 갔다오셧어요?
+P1 	: 수학여행으로 가보고 그 후에는 가보지 못 했어요ㅠㅠ
+P0 	: 오 저도요!!
+P0 	: 혹시 미로같은곳도 가지않으셧나요?
+P1 	: 미로찾기 했었어요!
+	  미로찾고 마지막에 종 울리는게 있었어요
+P0 	: 오... 다 찾으신거군뇨
+P1 	: 네! &name1&님은요?
+P0 	: 저는 중도포기요 ㅜ
+P1 	: ㅜㅠ 아쉽네요
+P0 	: 그래서 입장권만 날렸어요.
+P1 	: 미로찾기말고 또 기억나는거 있으신가요?
+P0 	: 그 동굴갔던거랑 주상절리랑 식물원이랑 돌하르방있던곳이여
+P1 	: 많이 기억하시네요!
+P1 	: 저도 돌하르방 기억나고
+P0 	: 넹넹
+P1 	: 미니어처 공원?도 기억나요
+P0 	: 오.. 그거는 기억안나네요. 저는 기념품샵도 기억나요
+P1 	: 세계 유명한 건물들이 미니사이즈로 있던 테마파크 였어요
+P1 	: 기념품 뭐 구매하셨었어요?
+P0 	: 저는 맨날 뻔한 초콜릿 삿엇어요 ㅜ
+	  그런데 요줌 그렇게 뻔한것말고도 다양한제품들이 꽤 잇더라고요

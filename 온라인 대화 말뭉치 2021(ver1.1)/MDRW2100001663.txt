@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100001663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 안녕하세요 &name2&이님 요즘 어떤 일 하시나요?
+P1 	: 저는 학생인데요
+P0 	: 아 정말요? 학생이라도 어떤 일을 하시지 않으실까요??
+P1 	: 안하는데요 아르바이트는 좀 하기싶긴해요
+P1 	: 쿠팡이라던가
+P1 	: 단기알바요
+P0 	: 아하 단기알바말씀이시군요
+P0 	: 그래도 장기알바가 좋지않을까요?
+P1 	: 장기알바는 좀 부담스러워서요
+P1 	: 오래 일해야될거같고 그만두는것도 좀 어렵고
+P1 	: 그렇잖아요
+P0 	: 아~~ 그러시구나~~~^^
+P0 	: 저도 쿠팡을 해보았는데요
+P0 	: 인센티브 줄때만 가는거 추천해요
+P1 	: 우와 꿀팁이네요! 감사해요
+P1 	: 업무스트레스같은건 없으셧나요?
+P0 	: 응 없었어
+P0 	: 아니 있었어
+P1 	: 먼데
+P1 	: 머엿는데
+P0 	: 머냐면...
+P0 	: 옆자리 앉은 사람이 귀찮게 굴었어
+P0 	: 말 안하고싶은데 자꾸 말걸고
+P0 	: 쓸데없는 친절 베풀어서 따증났어
+P0 	: 짜증났어
+P1 	: 헐 완전 별로다 그런 고충도있네
+P0 	: 그치..진짜 짜증났다고

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042740
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오, 저는 냉면이랑 라면 좋아하고 메밀 가끔 먹어요
+P0 	: 와 저도 냉면 라면 다 좋아하고 소면으로 비빔국수 만들어서 먹는 거 좋아해요
+P1 	: 소면도 좋죠
+	  저는 스파게티가 저녁인데 &name1&님은요?
+P0 	: 저는 스타벅스 바움쿠헨 사놨는데 저녁으로 먹으려고요ㅋㅋ
+P0 	: 스파게티 어떤 거 드시나요!
+P1 	: 바움쿠헨 맛있나요??
+P0 	: 음 맛있어요! 달달하고 슈크림 라떼 좋아하는 사람이면 다 좋아할 거 같아요ㅋㅋㅋ
+P1 	: 오, 슈크림라떼도 안 먹어봤는데 맛있을 것 같아요 다음에 둘다 도전!
+P0 	: &name2& 님은 어떤 파스타 제일 좋아하시나요?
+P1 	: 오, 저 저녁 파스타 먹었는데
+P1 	: 취향은 그때그때 달라요
+P0 	: ㅋㅋㅋㅋㅋㅋ저는 샐러드파스타가 최애인데 많이 먹는 건 역시 토마토죠
+P1 	: 헉, 샐러드하니 샐러드우동 생각나요
+	  드셔보셨어요??
+P0 	: 아뇨...?! 샐러드우동은 뭔가요???
+P1 	: 빨봉분식에 파는데 맛나용
+P1 	: 냉우동이에요 샐러드 얹은

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100007814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 경기
+current_residence : 강원
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 봉사활동 해본적 있으세요?
+P0 	: 네 저는 최근에 교육봉사한 적 있어요
+P1 	: 오 멋있어요
+P0 	: 봉사 활동 제일 기억에 남는 거 있나요?
+P1 	: 어릴 때 도시락 배달 했던 거요
+P0 	: 오오 신기한 봉사활동이네요
+P1 	: 독거노인댁에 배달하는 건데 할머니가 엄청 기다리시더라고요
+P0 	: 완전 보람찼겠네요!
+P1 	: 네 조금만 하려고 했는데 몇 년동안 하게 되더라고요
+P1 	: 교육봉사는 자격조건이 있나요?
+P0 	: 아뇨 저는 그냥 교육봉사가 아니라 과학관 특별전 교육봉사여서 큰 자격조건은 없었어요
+P1 	: 아 그런 봉사자리가 있군요
+P0 	: 네 맞아요 봉사하면서 시급도 받았어요 너무 빡세서...ㅋㅋㅋ
+P1 	: 앗 소소한 기쁨 ㅋㅋ

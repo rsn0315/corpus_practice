@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100000628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑하는거 좋아하세요?
+P0 	: 네 엄청요 최근에는 아이패드 삿어요
+P1 	: 오오!! 아이패드!! 써보시니 어떤가요
+P1 	: 확실히 필기감이 좋은가요?
+P0 	: 필기감은 사실 갤럭시가 더 좋대요!
+P0 	: 저는 그림그리고 싶어서 샀는데..
+P1 	: 그림 잘 그리세요?
+P0 	: 아뇨..ㅋㅋ넷플릭스만 봐요
+P0 	: 초기의 목적이랑 달라져버린..
+P1 	: ㅋㅋㅋ그래도 저는 아이패드 사셨다는게 부럽네요
+P0 	: 미래의 제가 부담중이에여 ㅋㅋㅋ
+P0 	: &name2&님은 최근에 사신 물건 있으신가요?
+P1 	: ㅋㅋㅋㅋ저는 화장품에 관심이 많아서 며칠 전에 질렀습니다...
+P0 	: 앗 뭐 사셨나요? 파데? 립?
+P1 	: 입생로랑 뷰티 라이브방송에서 구성이 좋길래 립틴트도 사고요ㅋㅋ
+P1 	: 톤업크림도 샀어요
+P0 	: 입생로랑 패키지가 너무 이쁘죠
+P0 	: 오 톤업크림 파데같은건데 자연스럽게 톤보정 되는건가요?
+P1 	: 네!!
+P1 	: 선크림이면서 톤업되는?
+P0 	: 오 편하겠어요!

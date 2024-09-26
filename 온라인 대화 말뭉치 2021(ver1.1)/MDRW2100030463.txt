@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100030463
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 그러면 둘째동생분은 언제 접종해요?
+P1 	: 다음 주 목요일에요
+P0 	: ㅇ오 늦게맞네여
+P1 	: 네 10부제로 하면서 저보다 신청날짜가 일주일 뒤 였어요
+P0 	: 오.........
+P0 	: 어디서 맞는데요??
+P1 	: 저와 같은 장소에요
+P0 	: 오 다들 편하게맞겟네요
+P1 	: 네 집앞이 가능해서 편했어요
+P0 	: 오. 주사맞고 아아 한잔마시니까 좋더라고요. 전
+P1 	: 저도 오늘 접종 후 아아 마셨어요
+P0 	: 오... 좋앗겟네요
+P0 	: 점점 아파오나요?
+P1 	: 10시 이후로는 계속 같은 상황이에요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100016552
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 연예인 있으세요?
+P1 	: 저는 SM 아이돌 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도 sm좋아해요! 전 태연이랑 nct좋아해요ㅎㅎ
+P1 	: 오옹 저두 nct 좋아해요
+P1 	: 최애가 누군가요??
+P0 	: 마크요ㅎㅎ
+P0 	: &name2&님 최애는 제가 맞혀봐도 될까요?
+P1 	: 넵!ㅋㅋㅋㅋ
+P0 	: 마크인가요?
+P1 	: 아앗
+P1 	: 마크도 멋진 애옹이지만
+P1 	: 땡입니당
+P1 	: 전 해프에요ㅋㅋㅋㅋ
+P0 	: 해찬이요??
+P1 	: 네넹ㅋㅋㅋㅋㅋ
+P0 	: 입덕 계기는 뭔가요?
+P1 	: 전 슴덕이라서 저절로 자연스럽게 접하게 된 것같아요
+P1 	: &name1&님은요?
+P0 	: 내리사랑 좋죠~ 전 레귤러 무대요ㅎㅎ
+P1 	: 오오 레귤러 때 오묘하기도 하고 네오하면서 멋있었죠ㅠ
+P1 	: 그럼 127을 주로 좋아하시는건가요?
+P0 	: 그런것같아요!

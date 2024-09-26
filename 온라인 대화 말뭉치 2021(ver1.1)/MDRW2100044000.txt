@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100044000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 코로나끝남 어디 여행가고싶으세요?
+P1 	: 해외여행이라면 가까운 대만 가보고 싶어요
+P0 	: 아하~
+P0 	: 대만 디저트 그립네요
+P1 	: 아직 한 번도 못 가봤거든요
+P1 	: 대만에 맛있는 거 많다 그러더라구요 ㅋㅋ
+P0 	: ㅎㅎ육우면같은거 좋아하시면!!
+P0 	: 저는 향신료가 안맞긴했어요
+P1 	: ㅋㅋ 향신료 때문에 반응이 갈리긴 하죠
+P1 	: 대만 가셨을 때 어디어디 가셨어요?
+P0 	: 타이베이 근처에 오래있었어요:)
+P1 	: 그럼 대중교통으로만 다닐만 하셨겠어요
+P0 	: 네~지하철이 우리나라만큼 잘돼있더라구요
+P1 	: 외국 지하철 타면 또 재밌더라구요 ㅋㅋ
+P0 	: 맞아요 더러운데가 많긴하지만 ㅜ
+P0 	: 여행갈수록 한국 최고에요
+P1 	: ㅋㅋ 그건 그래요
+P1 	: 깨끗하고 빠르고
+P0 	: ㅎㅎ맞아요

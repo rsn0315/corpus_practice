@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100015088
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하세요?
+P1 	: 안녕하세요!! 넵 혼자는 안가고 친구들이랑 가는 걸 좋아해요!!
+P1 	: 혼자 여행도 다니시나요?
+P0 	: 저도 혼자는 다녀본적 없어요! 국내여행지 어디가 좋으셨어요?
+P1 	: 저는 여수요!!!
+P1 	: 아 전주도 좋았어요
+P0 	: 게장 드셨나요?ㅎㅎ
+P1 	: 예스예스
+P1 	: 저 간장게장 맛있는거 첨 먹어봤어요
+P1 	: 여행 어디가 제일 좋으셨어요?
+P0 	: 저 제주도요! 가본적 있으세요?
+P1 	: 네네네!!
+P1 	: 오 올레길 가보신건가요?
+P0 	: 아뇨 그냥 관광지 명소 위주로 돌아다녔어요! 제주도 어디 가보셨어요?
+P1 	: 저는 식도락으로만..다녀서..
+P1 	: 그 먹은것밖에...
+P1 	: 돈까스랑..면이랑..
+P0 	: 어우 최고의 투어...
+P0 	: 해외여행지는 다녀오셨나요?
+P1 	: 엇 네네네
+P1 	: 전 벹남이 가장 좋았어요
+P1 	: &name1&님은요?!
+P0 	: 전 필리핀이요!!

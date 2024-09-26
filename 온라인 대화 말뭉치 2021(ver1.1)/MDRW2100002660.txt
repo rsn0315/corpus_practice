@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002660
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행좋아하세요?
+P0 	: 네 여행엄청좋아해요 &name2&님은여
+P1 	: 저도 좋아하는 편인데 자주가진 못하네요 ㅠㅠ
+P0 	: 그쳐 아무래도 코로나라ㅜ
+P0 	: 가장좋았던 여행지는 어디에요
+P1 	: 저는 국내에서는 경주랑 제주요!
+P1 	: &name1&님은요?
+P0 	: 저도 제주도 엄청좋아해요 ㅋㅋㅋ
+P0 	: 해외여행은어디가 가장좋으셨어요
+P0 	: 가보고싶은여행지나
+P1 	: 해외여행은 태국이요! 해와여행을 많이가보진 못했지만..
+P1 	: 태국은 다시가보고싶어요!
+P1 	: &name1&님은 어디가 가장좋았나요?
+P0 	: 태국 좋죠 ㅜㅜ전 코로나가기 직전에 베트남갔다왔는데
+P0 	: 최근에 그래도간곳이라그런지 젤 기억이나요
+P1 	: 베트남 정말 가보규 싶었는데 ㅠㅠ 코로나전에 가볼껄 너무 아쉬워요 ㅠㅠㅋㅋㅋ
+P1 	: 코로나끝나먼 어디 제일 가고싶으세오?
+P0 	: 저 휴양지요ㅜ하와이한번가보고싶어요
+P1 	: 하와이 상상만해도 너뮤 행복하네여 ㅠㅠㅠㅠㅠㅠㅠ
+P1 	: 저도 휴양지가서 딱 누워서 바다보규 맛있는거 먹고 쉬고싶어요
+P1 	: 저는 발리가서 서핑해보고싶어요!!!
+P0 	: 서핑도 한번배워보고싶네요
+P1 	: 저도 못하지만 꼭 배워보려구요 ㅋㅋㅋ 여행가면 기념품은 꼭 사오시나요?
+P0 	: 저도 운동신경은없지만 배워보고싶네요 ㅋㅋㅋ
+P0 	: 기념품 소소한걸루

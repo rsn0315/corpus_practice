@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100042949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에구매하셨던거있으세요?
+P0 	: 센스맘 매트리스요!
+P1 	: 오
+P1 	: 푹신한가요
+P0 	: 배송기다리고 있어요
+P0 	: 손님용이여
+P1 	: 오..손님용이군요
+P1 	: 당근해보신적있으세요
+P0 	: 네네
+P0 	: 제주는 배송비가 비싸서 많이해요
+P1 	: 아하 그렇군요
+P1 	: 직거래로하세요?
+P0 	: 네에
+P1 	: 최근에뭐해보셨나용
+P0 	: 아 오늘도 세탁조세제 사려구 예액해뒀어요
+P0 	: 집 근처에서
+P1 	: 우왕ㅎㅎㅎ
+P1 	: 많이싼가요
+P0 	: 네 4봉 4천원인데
+P0 	: 근처라 득템
+P1 	: 오오

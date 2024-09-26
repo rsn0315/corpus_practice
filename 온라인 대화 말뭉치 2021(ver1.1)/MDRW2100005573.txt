@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005573
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤음식 좋아하세요?
+P1 	: 요즘에는 떡뽁이를 좋아하는거같아요 밥대신 먹거든요
+P1 	: 한달에 4~5번은 로제떡볶이 시켜먹어요
+P0 	: 로제떡볶이 칼로리 엄청나던데
+P0 	: 많이 드시면 안될거같아요
+P1 	: 저는 칼로리 신경안쓰고 먹어요 신경쓰면 먹을 수 있는게 적어지잖아요
+P1 	: 오늘 저녁 뭐드셨어요?
+P0 	: 정말 아름다운 마인드인거같아요
+P0 	: 저는 치과다녀와서 그냥 밥이랑 대충 먹었네요
+P1 	: 치과다녀오면 밥먹는데 힘들셨을거같아요
+P0 	: 라면씹는데 못씹어서 그냥 삼켜먹었네요...
+P0 	: 라면 좋아하세요?
+P1 	: 라면을 싫어하지는 않는데 자주 먹지는 않아요
+P0 	: 배달음식 자주 시켜드세요?
+P1 	: 입맛없을때나 먹는거같아요
+P0 	: 평소에는 음식 만들어드세요?
+P1 	: 저는 부모님이 만들어주신 음식 먹거나 반찬을 사서 끼니를 해결합니다
+P1 	: 그쪽은 펑소에 어떻게 식사하시나요?
+P0 	: 저는 평소에 만들어 먹는편이에요

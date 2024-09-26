@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033070
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 종교 있으신가요?
+P1 	: 저는 종교가 없어요
+P1 	: &name1&님은 종교가 있으신가요?
+P0 	: 저도 없어요ㅜㅜ ㅋㅋ 어렸을 때는 교회에 다녔었는데요
+P1 	: 엇 저도요
+P0 	: 어릴 때는 교회 어떻게 다니게 되셨어요?
+P1 	: 아버지가 데려갔어요
+P1 	: &name1&님은 어떻게 가셨나요?
+P0 	: 저도 첨에는 부모님 영향으로요ㅋㅋ
+P1 	: 종교는 부모님 영향이 큰 것 같아요
+P0 	: 맞어요 특히 어릴때는요...
+P1 	: 저도 아는 학생이 저한테 종교 이야기를 하는데
+P1 	: 부모님이 독실하시니 아이도 독실하게 믿더라고요
+P1 	: 아이의 세계는 부모가 만드는거니까요
+P0 	: 맞아요 어떻게 보면 아이한테는 종교의 자유가 없다고 느껴지는 것 같기도 해요 .. 무교인 사람의 입장에서는요. ㅠㅠ
+P1 	: 저도 무교라 그렇게 느껴져요
+P1 	: &name1&님은 어쩌다 무교가 되셨나요?
+P0 	: 저는 도저히 믿어지지가 않아서 어쩔 수 없이 무교가 됐어요... ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ 저도요 중고등학교 교육과정을 착실히 밟으며 진화론 같은걸 배우면서 그냥,, 믿음이 도망갔어요 ㅋㅋ

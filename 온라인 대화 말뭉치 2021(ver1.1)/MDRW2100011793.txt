@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011793
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 중고거래해보셨나요?
+P1 	: 저는 당근이용해요
+P0 	: 저도 당근이용해요ㅎㅎ
+P1 	: 많이 팔리던가요?
+P0 	: 저는 무료나눔이나 새거 위주로 팔아서 잘팔려요
+P1 	: 최근에 당근에서 무료나눔어떤거 하셨어요?
+P0 	: 독서실책상이요ㅎㅎ
+P1 	: 와 멋지네요 학생분이 오셨던가요
+P1 	: ?
+P0 	: 네 시험준비한다고 용달차 불러 왔더라고요ㅎㅎ
+P1 	: 주는이도 받는이도 마음따뜻하겠어요
+P0 	: 네 당근후기에 세상은 아직 따뜻하다고 남겨주셨더라고요
+P0 	: 뿌듯했어요
+P1 	: 그럼 당근으로 물건 구입한적도 있나요?
+P0 	: 아뇨ㅠ구매해본적은 없어요

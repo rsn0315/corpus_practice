@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014776
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 좋아하세요?
+P1 	: 네네! 혹시 동물 키우세요?
+P0 	: 저도 동물 좋아하는데 키우진 못 해요ㅠ
+P1 	: 알레르기 같은 거 있으세용??
+P0 	: 아 그건 아닌데
+P0 	: 건물주가 반려동물 안 된다고 해서요ㅠ
+P1 	: 앗 ㅠㅜ 나쁜 건물주.. 되면 어떤동뮬 키우고 싶으세요??
+P0 	: 음 강아지나 고양이 다 좋을 것 같어여
+P0 	: 예전에 강아지 키웟는데
+P0 	: 무지개다리 건넜고든요 그래서 한 동안 강아지 못 보겠단데 요즘은 다시 귀엽고 예쁘더라구여
+P1 	: 그런 사연이 있으셨군요 ㅠㅠ 멍뭉이 좋은 곳 갔을거에요!
+P0 	: &name2&님은 반려동물 키우시나요?
+P1 	: 아뇨 저는 저 챙기기도 힘들더라구용 ㅠㅠ
+P1 	: 대신 반려동물인형... ㅎㅎ 이랑 같이 살아요
+P0 	: 반려동물 인형 ㅋㅋㅋㅋ 귀여워요
+P0 	: 어떤 동물 인형인가요
+P1 	: 저는 곰 덕후랍니다.. 보기만 해도 행복해져요..
+P1 	: 뚱뚱해도 귀엽고.. 가만히만 있어도 규ㅣ엽구...
+P0 	: 헐 곰 귀엽죠
+P0 	: 라이언 캐릭터 좋아하세요?
+P0 	: 아 얜 곰이 어닌가요
+P1 	: 저희 아부지께서 곰이라고 하셔요
+P1 	: 그러니 곰이라서 조아합니다 ㅎㅎㅎㅎ

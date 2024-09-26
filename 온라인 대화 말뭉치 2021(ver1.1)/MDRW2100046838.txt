@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046838
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용!
+P1 	: 낙엽 구경하러 가실 계획이 있으신가용
+P0 	: 좋죠 요즘 단풍 많이 폈던데 곧 낙엽 이쁘겠네요
+P1 	: 그쵸 ㅠㅠ 지금도 이쁜 곳은 정말 절경이더라구오
+P1 	: 요
+P1 	: 혹시 서울 쪽 사세요?
+P0 	: 아뇨 ㅠㅠ 전 제주살아요
+P0 	: 서울 야경 이뻐서 맨날 부럽네요
+P1 	: 제주도가 더 이쁘지 않나요{emoji:…}.? ㅠㅠ
+P0 	: 제주는 낮에 이쁘고 서울은 밤에 이쁜거같아요 ㅎㅎ
+P1 	: 저 곧 제주도 가려고 하는데
+P1 	: 여기만큼은
+P1 	: 꼭 가봐야 하는 곳이 있을까요?
+P0 	: 어.. 전 역시 해안도로가 짱인거같아요
+P0 	: 우도도 좋고요!
+P1 	: 오오 메모 해두고 꼭 가볼게여
+P1 	: 우도 ㅎㅎㅎ 우도도 무조건 갈거에요

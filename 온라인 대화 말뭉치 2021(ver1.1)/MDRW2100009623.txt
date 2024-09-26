@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 출근않고 여행가고 싶네요.ㅎ
+P0 	: 현실은ㅠㅠ
+P1 	: 사무실 컴터 앞에서 여행지 사진만 보는..ㅎ
+P0 	: ㅎ가고싶은곳 있으세요?
+P1 	: 바다..ㅎ 물만 있으면 됨.
+P0 	: 와 말만들어도 좋아요
+P1 	: 당분간은 사진과 영상으로 여행 대리만족을..
+P0 	: 맨날 공원만가요ㅠ
+P1 	: 제가 귀찮아서 근처 공원도 안가고.
+	  여행 대신 아이라 할거리를 찾아야겠어요.
+P0 	: 코로나끝나면 여행을ㅠ
+P1 	: 그래야지요.
+	  여행 적금을 들까봐요.
+P0 	: 적금 좋아요
+P0 	: 목돈마련
+P1 	: 아.. 그럴까요.ㅎ
+	  여행적금이 1인 500정도 있으면 그럭저럭한 곳에 갈 수 있겠지요.

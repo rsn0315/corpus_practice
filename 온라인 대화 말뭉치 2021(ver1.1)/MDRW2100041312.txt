@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100041312
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P0 	: 반려동물 키우시나요?
+P1 	: 아니요 없어요ㅠ
+P1 	: &name1&님은요?
+P0 	: 아뇨ㅜㅋㅋ 한번도 안키워보셨나요?
+P1 	: 네 어릴땐부모님이싫어하셨고
+P0 	: 키운다면 뭐 키우고싶으세요?
+P1 	: 이젠제가부모가돼보니 싫드라구요
+P1 	: 강아지키워보고싶긴해요
+P1 	: 귀여워서^^
+P0 	: 아! 자녀가 있으시군요!
+P0 	: 저 예전에 동생이 졸라서 강아지 키웠는데 부모님이 다 관리하시고ㅜ
+P1 	: 아 그쵸 애완동물키우면 결국 부모의몫
+P1 	: 제자식키우기도피곤하고힘든데ㅋㅋㅋㅋㅋ
+P0 	: 맞아요!!!! 비용도 정성도 많이 필요하더라고요
+P0 	: 보통 일이 아니에요
+P1 	: 맞아요 반려동물은 가족을들이는일이니까요
+P1 	: 주변에 동물키우시는분들대단하다생각해요
+P0 	: 부지런해야해요ㅜㅠ

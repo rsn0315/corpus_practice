@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025370
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 비가 며칠째오고 있네요
+P0 	: 그르니까요
+P1 	: 파란하늘을 못본지 좀 된것같죠?
+P0 	: 네 구름이
+P1 	: 가을장마가 여름장마보다 기네요
+P0 	: 늦장마네요
+P1 	: 이제는 긴팔을 입어야겠어요
+P0 	: 네 간절기라
+P1 	: 나가보니 습해서 더운건지 쌀쌀한건지 모르겠네요
+P1 	: 이번주 내내 이런 날씨일것같아요
+P0 	: 지겹네요
+P1 	: 여기는 비가 좀 그쳤네요 아직 흐리긴해도요
+P1 	: 창문이라도 열수있어요
+P0 	: 바람불어요?

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100005007
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 비가 많이 왔어
+P1 	: 맞아 오늘 비가 너무 왔어
+P1 	: 그래도 요즘 시원해졌지?
+P0 	: 맞아 날씨가 선선해져서 다행이야
+P0 	: &name2&은 무슨 계절 좋아해?
+P1 	: 나는 봄 가을! &name1&는?
+P0 	: 나도 봄 가을! 사실 나는 겨울 빼고 다 좋아해
+P0 	: 추위를 많이 타서
+P1 	: 그렇구나! 봄가을은 좋은데 미세먼지때문에 아쉬워
+P0 	: 맞아 날씨는 딱 좋은데... 100프로 만족하기가 어렵네
+P0 	: 내일은 비가 많이 오려나?
+P1 	: 오늘 비가 많이와서 내일은 안왔으면 좋겠어
+P1 	: 일기예보 봐보자
+P0 	: 맞아 비가 많이 오면 운전하기 힘들어
+P0 	: 후덥지근해서 힘들고
+P1 	: 맞아 습하고
+P0 	: 그래도 이번에 가뭄이라던데 비가 좀 와서 다행이다
+P0 	: 요즘 점점 지구가 더워지는거같아
+P1 	: 맞아 갈수록 여름은 너무덥고
+P1 	: 겨울은 너무 추워
+P0 	: 지구온난화가 심각한거같아

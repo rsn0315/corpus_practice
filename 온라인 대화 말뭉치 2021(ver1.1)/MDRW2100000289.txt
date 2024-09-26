@@ -1,0 +1,350 @@
+# FILE DATA
+ID : MDRW2100000289
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210518
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name2&아 안녕~
+P0 	: 사랑합니다ㅋㅋ
+P0 	: 밥 먹었어요?
+P0 	: 난 점심 먹고 까페 왔어요
+P0 	: 배불러
+P1 	: 안녕~
+P1 	: 나도 밥무그러
+P1 	: {share:photo}
+P0 	: 풀과 빵 맛있겠네 ㅋㅋ
+P0 	: 파스타도 있구나
+P0 	: 맛있게 먹어요
+P1 	: 오빠는 밥 뭐뭇스?
+P1 	: 갑자기 사랑합니다 ㅋㅋ
+P0 	: 나는 치킨집에서 파는 밥
+P0 	: 현금 6천원 짜리
+P1 	: 사진봐봐용
+P0 	: 무슨 사진요?
+P1 	: 밥 사진
+P0 	: 내가 점심 먹은 거?
+P1 	: 응
+P0 	: 난 점심 먹을 때 사진 안찍는데 ㅋㅋ
+P0 	: 벌써 다 먹고 없지
+P1 	: 우리의 결실
+P1 	: {share:photo}
+P0 	: ㅋㅋ 오늘 사진 찍었어?
+P0 	: 물 줬어요?
+P0 	: 얘네들 웃긴게, 밤 되면 시무룩 해진다.
+P1 	: ㄴㅋㅋㅋㅋㅋ
+P1 	: 물은 안줫어
+P1 	: 지금 나 마사지 가는중
+P0 	: 물은 내가 오늘 저녁에 줘야지 ㅋㅋ
+P0 	: 오늘 아침에 늦게 일어나서 물 못 주고 나왔어
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210518
+topic : 기타/일상
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 퇴근합니다~~
+P0 	: 퇴근할 때 상무님이랑 엘레베이터 같이 탔는데ㅋㅋ 살이 더 찐 것 같대ㅋㅋㅋ
+P0 	: 나한테 "세 끼 다 먹어??" 이렇게 물어 봄ㅋㅋㅋ 
+	  
+	  "네, 아침 점심 저녁 모두 먹고, 특히 저녁을 많이 먹습니다." 라고 대답하니까 한심하다는듯이 쳐다 봄ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 세끼 ㅋㅋㅋㅋㅋ아 웃겨
+P1 	: 오빠 나 지금 집 가는중ㅋㅋ
+P0 	: 응 나도 집 가는 중
+P1 	: 어디야
+P1 	: 나이제엘베
+P0 	: 나 집이에요
+P1 	: 아 배아프다
+P0 	: 치킨 먹는 중
+P1 	: 아 배아프다
+P0 	: {system:delete}
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210518
+topic : 기타/일상
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 어디예요?
+P1 	: &name3& 데려올래요?
+P0 	: 차 키 안갖고 왔어요
+P0 	: 나 이제 올라갑니다
+P1 	: 배불러~~
+P0 	: 나는 별로~~
+P1 	: 배불러서 암것도못혀~~
+P0 	: 아무것도 하지 말자~
+P1 	: 그려
+P1 	: {share:photo}
+P1 	: 여보
+P1 	: 우린 어디를 목표로 할까용?
+P1 	: 순자산~
+P0 	: 오늘 대출 이자 내야해요.
+	  
+	  1,129,994원
+P1 	: 네~
+P1 	: 보냈는데 확인해봐요
+P1 	: 우리 이자가 너무 많다ㅜㅜ
+P0 	: 고맙습니다 확인했어요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210520
+topic : 기타/일상
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아 배고프다
+P1 	: 나 이제 병우ㅗㄴ간당
+P0 	: 네 다녀오세요
+P1 	: 여보 점심 먹었나요?
+P1 	: 난 이제 치료 끝나서요~
+P0 	: 나 외근 때문에 아직 안먹었어용
+P0 	: 오늘 무슨 치료 받았어요?
+P1 	: 지금 나 목니랑 무릎이요
+P1 	: 여보
+P1 	: 밖이야?
+P0 	: 본브릿지 갔어요?
+P0 	: 나 밖이야~
+P1 	: 응 본브릿지 ㅋㅋ
+P1 	: 전호ㅡ해도돼용?
+P0 	: 지금 열차
+P0 	: 밥 먹었어요?
+P1 	: 아니
+P1 	: 어디다녀와?
+P0 	: 응 법원 업무
+P0 	: 배고프겠네
+P1 	: 어디로가는데?
+P0 	: 지금 복귀 중~
+P1 	: 어디다녀왓어요?
+P1 	: 나는 좀따 나가요 ㅋㅋ뭐 하러
+P1 	: 지금 집 도착
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210520
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘 재활용 버리는날이네
+P1 	: 단지가 드럽다
+P0 	: 응 이따가 쓰레기 버릴게요
+P0 	: 밥 먹고 나가요
+P1 	: 그러려고
+P1 	: 반찬 없다 걍 암거나 무야지
+P0 	: 훈제닭 먹어요ㅋㅋ
+P0 	: 맛있는데
+P1 	: 훈제닭 맛없으
+P0 	: ㅋㅋ 떡볶이
+P0 	: 먹어요
+P1 	: 그냥 명란젓이랑
+P1 	: 계란 먹는중
+P1 	: 밥 언제먹어?
+P0 	: 먹고 싶을 때ㅋㅋ
+P0 	: 왜요?
+P1 	: 그냥~
+P1 	: 보고싶넹
+P1 	: 청소해놓고 나가야지 ㅋ
+P0 	: 나도 보고 싶어요~~
+P0 	: 나 오늘 일찍 들어가요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210521
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name2&아
+P0 	: 엄청 졸려
+P0 	: ㅋㅋ
+P1 	: 나
+P1 	: 너무 몸이 아프다
+P0 	: 왜 그러지
+P0 	: 운동해서 그런가
+P1 	: 어제 무리했나봐
+P1 	: 새벽에 바닥 좀 닦고잤는데
+P0 	: ㅠㅠ 고생했어요
+P0 	: 오늘 집에가서 청소할게요
+P1 	: 아냐 내가 낮에 슬슬 할라구요
+P0 	: 오늘 아침에 ㅋㅋ 훈제치킨 다 먹고 왔는데
+P0 	: 점심시간 되니까 또 배고파
+P0 	: 손에서 계속 훈제치킨 냄새 난다 ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 나는 이제 밥 먹으려구요
+P0 	: 맛있게 먹어요
+P0 	: 그런데 &name2&아
+P1 	: 어제 마지막 쓰봉 하나 찾았다
+P1 	: 오늘 사야해요~
+P1 	: 응
+P0 	: 아침 8시에 알람 맞춰 놓는거야?
+P1 	: 응
+P1 	: 일러나려고ㅜㅜ
+P0 	: 그렇구만
+P1 	: 오늘도 주싣 잼없네
+P0 	: 나 토스에서 한솔 받았어ㅋㅋ

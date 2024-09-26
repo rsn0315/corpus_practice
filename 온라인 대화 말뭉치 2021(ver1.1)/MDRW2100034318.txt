@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100034318
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 크림바르고나서 화장하면
+P1 	: 안밀리나요?
+P0 	: 소량.바르면 전 괜찮더라구요!
+P0 	: 제가 꾸덕한 크림을 좋아해서 그런거만 바르는데도 괜찮았어요
+P1 	: 아 그래요?
+	  전 양조절을 안해서 밀렸던거였군요ㅋㅋ
+P0 	: 혹시 파운데이션 밀면서 바르시나요??
+P1 	: 톡톡 바르는데도
+P1 	: 나중에 밀리더라구요ㅠ
+P0 	: 아 ㅜㅜ 크림 뭐쓰세요?
+P1 	: 저는 지금은 크림 안쓰고
+P1 	: 스킨로션만해요
+P0 	: 흠 근데도 밀리세요??
+P1 	: 근데 썬크림 발라고 밀리더라구요
+P1 	: 아니요 스킨로션만 하면 안밀려요
+P0 	: 흠 왜그럴까요 ㅜㅜ
+P0 	: 전 예전에 쿠션말고 크림파데썼을때 브러쉬로 바르면 밀리더라구요
+P1 	: ㅋㅋ그러게요ㅋ다음엔  양조절을 한번해봐야겠어요ㅋㅋ
+P0 	: 밀리면 신경쓰이져 ㅜㅜ
+P1 	: 바르는 방법따라서도 밀리는군요
+P1 	: 마자요 엄청 신경쓰여요ㅠ
+P0 	: 앜ㅋㅋ 공감합니다

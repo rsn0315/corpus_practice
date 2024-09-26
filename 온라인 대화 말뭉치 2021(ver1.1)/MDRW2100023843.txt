@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100023843
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁은 드셨어요~?
+P1 	: 네 먹었어요
+P1 	: &name1&은 뭐드셨어요?
+P0 	: 저는 카레 먹었어요! 좋아하시나요~?
+P1 	: 가끔 먹어요!
+P1 	: 어떤 카레 드셨어요?
+P0 	: 저는 고기 듬~뿍 넣어서 먹어용ㅎㅎㅎ
+P0 	: 고기 좋아하세요?
+P1 	: 네네!
+P1 	: 소고기카레 맛있죠 :)
+P0 	: 소고기도 카레에 넣으면 맛있나용??
+P0 	: 전 돼지고기 먹었어용!
+P1 	: 네 짱맛있어요 :)
+P1 	: 돼지고기 어떤부위 넣으셨어요?
+P0 	: 헐 소고기 넣을 생각은 한번도 안해봤는데ㅋㅋㅋㅋ 도전해볼게요
+P0 	: 목살넣어요
+P0 	: 좀 의외죠?ㅋㅋㅋ
+P1 	: 그렇군요!
+P1 	: 소고기 불고기거리 넣음 맛있어요 ㅎㅎ
+P0 	: 아아 그 얇은거 오호
+P1 	: 지방적은부위가 맛있는것 같아요 :)
+P0 	: 꿀팁 감사합니당!ㅎㅎ
+P0 	: 담백하겠네요

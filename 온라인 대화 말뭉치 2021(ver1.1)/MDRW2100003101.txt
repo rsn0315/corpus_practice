@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003101
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 집에서 키우는 반려동물 있나요?
+P1 	: 구피 키워요
+P0 	: 아 구피를 키우시는군용ㅋㅋ
+P0 	: 구피도 번식력 좋죠?
+P1 	: 번식력 좋죠
+P0 	: 번식하는대로 다 키우시는거에요?
+P0 	: 아님 입양 보내세용?
+P1 	: 그대로 키워요
+P1 	: 오래 키우니 번식력도 떨어지네요
+P0 	: 아... 구피들도 나이가 들어가나봅니당
+P1 	: 1년 정도 산다고 하더라구요
+P0 	: 생각보다 수명이 짧네요ㅠㅠ
+P1 	: 그쵸. 오래 살면 2년 정도 사는거 같아요.
+P0 	: 구피 키우는건 어렵지 않나요?
+P1 	: 네. 먹이만 주고 물만 갈아주면 됩니다
+	  ㅋㅋㅋ
+P0 	: 저도 아이들 좀 키우면
+	  구피도 키워봐야겠어요^^

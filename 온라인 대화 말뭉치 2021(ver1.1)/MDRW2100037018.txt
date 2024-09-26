@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100037018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 병원자주다니시나요?
+P1 	: 자주까진 아니지만.. 아프면 바로바로 가는 편이에요
+P0 	: 저도그래여 건강검진하셨나요?
+P1 	: 올해 받아야는데 아직 못했어요
+P1 	: 치과도 가야는데.. 코로나 때문에 자꾸 미루게 되네요
+P0 	: 저도요..사실 앞니가 지금 시큰거려서
+P0 	: 치과빼박으로 가야하는데...
+P1 	: 앗 더 심해지기 전에 가셔야 할 것 같아요
+P0 	: 네ㅜㅜ근데 하 치과 넘 무섭고..
+P0 	: 돈이넘무섭네요
+P1 	: 치과는 비용이 무서워서 전 1년에 한 번씩은 가고 있어요
+P0 	: 네 안가는게 더 돈많이들텐데ㅜ
+P1 	: 스케일링 보험처리 되서 얼마 안 하니까 꼭 받으세요
+P0 	: 네 만원정도죠? 1년에1번인가
+P1 	: 네 만원대였어요
+P0 	: 흑 이번에가서 스케일링도 같이받아야겠네요

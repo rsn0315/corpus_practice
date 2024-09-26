@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100039231
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 많이 아세요?
+P1 	: 아니요 가는데만 가요 ㅋㅋ
+P0 	: 저두ㅋ
+P1 	: 그래도 친구나 가족이랑 식사할땐 좀 찾아보고 가요 ㅎㅎ
+P0 	: 전 그냥 아운백 빕스 이런데ㅎㅎ
+P1 	: 아 둘다 좋아하는데 갈수록 지점이 줄어서 가기가 쉽지않네요
+P0 	: 네 맞아요
+P0 	: 배달도 맛이 드세요?
+P1 	: 배달은 치킨만 주로 시켜요!
+P0 	: 전 거의 중독ㅠ
+P1 	: 자주 드시나봐요 ㅋㅋ 일주일에 몇번 드시나요
+P0 	: 두세번 먹어요ㅠ
+P1 	: 어떤거 드세요
+P0 	: 치킨 피자

@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100044550
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가보고싶은 곳 있으신가요?
+P0 	: &name2&님 코로나 끝나면 어디 여행 가고 싶으세요?
+P0 	: ㅋㅋㅋ 저는 유럽이요!
+P1 	: 저도 유럽이요!
+P1 	: 전 스페인 가고싶어요
+P0 	: 요기도 스페인 가고 싶은 분이 계시네요!
+P0 	: 저도 스페인 축제 기간에 가보고 싶어요
+P0 	: &name2&님은 왜 가고 싶으세요?
+P1 	: 갔다온 사람들이 다 추천하더라구요
+P1 	: 음식도 맛있고 볼거리도 많다고 해서요!
+P0 	: 주변에 다녀오신 분들이 계시군요!
+P0 	: 오오!! 이전에 해외여행 어디 다녀오셨어요?
+P1 	: 유럽이랑 일본이요
+P1 	: 해외여행 어디 가셨나요?
+P0 	: 저는 기억에 없지만 캐나다와 일본이요
+P0 	: 유럽 어디다녀오셨어요?
+P1 	: 배낭여행으로 영국에서부터 이탈리아까지 갔었어요!
+P1 	: 캐나다 어떠셨나요?
+P0 	: 안타깝게도 캐나다는... 제가 걷지도 못할때 실려갔다가 왔답니다 ㅋㅋ
+P0 	: &name2&님 여행하신것 들려주세요!
+P1 	: 앗 ㅋㅋㅋㅋㅋㅋㅋ 그런 비화가...
+P1 	: 일본 어디가셨어요?
+P0 	: 저는 일본은 도쿄 갔었어요
+P0 	: &name2&님은요?
+P1 	: 저도 일본 도쿄랑 오사카 갔었어요!
+P0 	: 오사카!
+P0 	: 거기도 가보고 싶었는데 ㅠ 시간과 일정상 어쩔 수 없이 가보지 못했어요 ㅠ
+P1 	: 도쿄는 어디 가셨어요??
+P0 	: 진짜 온갖곳 다갔어요 ㅋㅋㅋ
+P0 	: 도쿄투어 급으로 ㅋㅋㅋ

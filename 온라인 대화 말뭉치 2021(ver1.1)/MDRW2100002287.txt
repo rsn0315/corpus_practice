@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100002287
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ~ 뮤지컬 좋아하시나요?
+P1 	: 좋아하죠 근데 볼 기회가 거의 없네요
+P0 	: 맞아요 요즘 코로나때문에 더 그렇죠 저는 조승우님의 헤드윅을 정말 보고싶은데 티켓팅이 장난 아니라 하더라고요
+P1 	: 조승우 배우 좋아요
+P1 	: 연기도 잘하고 멋져요 저두 보고 싶네요
+P0 	: 저는 중학생때 신성록씨 뮤지컬 보고 반해서
+P0 	: 몇번이나 보러갔었어요 ㅋㅋㅋㅋ그때는 뜨기 전이었는데
+P1 	: 일년에 몇번정도 보세요?
+P0 	: 예전에는 자주 봤는데 요즘에는 거의 안봐요 일하면서 흥미가 떨어졌어요 ㅠㅠ
+P1 	: 시국이 이래서 볼기회도 줄어든것 같긴해요
+P0 	: 맞아요 그래서 더 안찾게 돼요
+P0 	: 영화도 예전보다 훨씬 조금봐요
+P1 	: 저두요 원래 한달에 한번은봤는데
+P0 	: 코로나때문에 가까운 극장도 문을 닫았더라고요 ㅠㅠ
+P1 	: 그럼 더 기회가 없겠네요
+P1 	: 요즘 집에서 많이봐요
+P1 	: 더 편한것 같기도하고
+P0 	: 저도요 ! 구매해서 집에서 보게 돼요
+P0 	: 영화관에서 음식물 섭취도 안돼서 더 그래요
+P1 	: 모가디슈 보셨어요?
+P1 	: 재밌던데

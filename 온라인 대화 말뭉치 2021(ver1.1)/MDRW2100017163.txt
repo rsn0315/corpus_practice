@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017163
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 혹시 반려동물 키우세요?
+P1 	: 아뇨 &name1&님은 키우시나요?
+P0 	: 네 저 강아지 한마리 키워요
+P1 	: 부러워요! 강아지 이름이 뭔가요?
+P0 	: 구름이에요ㅎㅎ
+P0 	: 말티즈랑 포메라니안 믹스견이라 하얗고 몽글몽글하거든요
+P1 	: 세상에 구름이 배 한번만 쓰다듬어보고싶네요! ㅎㅎ
+P1 	: 구름이는 몇 살인가요?
+P0 	: 한살반이요! ㅎㅎ
+P0 	: 사람도 잘 따라요 근데 산책은 별로 안 좋아해요
+P1 	: 전 모든 강아지가 산책 좋아할 줄 알았는데 아니군요! ㅋㅋ 반전의 구름이
+P0 	: 저도 강아지면 다 산책 좋아하는줄 알았어요ㅋㅋ 구름이가 좀 겁이 많아서 그런가봐요
+P1 	: 아직 아가라서 그럴 수도 있겠네요! ㅎㅎ 나중에 아예 밖에서 살자고 할지도!!
+P0 	: 아 그러면ㅋㅋㅋ 운동을 열심히 해서 체력을 키워야겠네요 강아지들 체력 장난아니니까요..ㅎ
+P0 	: 혹시 햄스터는 키워보셨나요?
+P1 	: 파이팅입니다 !ㅎㅎㅎ 아뇨 &name1&님은 햄스터도 키우시나요?!
+P0 	: 예전에 키웠었어요 둘 다 하늘나라 갔어요

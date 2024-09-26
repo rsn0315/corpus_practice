@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100040538
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 배달 음식 좋아하세요?
+P0 	: 네 &name2&님도 좋아하시나요?
+P1 	: 네네 거의 중독ㅠ
+P0 	: 어떤 배달음식 좋아하시나요?
+P1 	: 치킨 피자ㅎㅎ
+P0 	: 특별히 좋아하는 치킨이나 피자 브랜드 있으신가요?
+P1 	: 청년피자
+P1 	: 치킨은 다요ㅎ
+P0 	: 청년피자는 어떤 피자가 맛있나요?
+P1 	: 이름이 기억이 안나는데 다맛나요ㅎ
+P0 	: 청년피자는 전체적으로 담백한 맛인가요 아닌 자극적인 맛인가요?
+P1 	: 완전 자극적이여
+P1 	: 그래서 맛나나봐요
+P0 	: 오 한 번 찾아봐야겠네요

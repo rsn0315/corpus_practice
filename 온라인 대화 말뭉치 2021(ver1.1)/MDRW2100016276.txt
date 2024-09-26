@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016276
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 운동 좋아하시나요?
+P1 	: 네 매일 gx하러 체육관 가요
+P1 	: &name1&은요?
+P0 	: 너는 홈트해요
+P0 	: 저는 홈트해요
+P1 	: 요가 같은거 하세요?
+P0 	: 요가는 가능한 자세가 별로 없어요..ㅠㅠ
+P1 	: 아 그래요ㅎㅎ
+P1 	: 하다보면 우연해 지겠죠
+P1 	: 저는 요즘 다이어트하려고
+P1 	: 식단 조절도 시작했어요
+P0 	: 식이까지 하시면 힘들 않으세요?
+P1 	: 식이요법이 운동보다 더힘들어요
+P1 	: &name1&은 운동의 목적이 뭐에요?
+P0 	: 저는 근육와 코어 생성이요! 체력이 부족함을 느껴서요
+P1 	: 오 좋다 코어근육 중요하죠
+P0 	: 근데 잘 안 생기네요ㅠ
+P1 	: 꾸준히하면 생기겠죠 힘내세요
+P1 	: 운동하고 근력이랑 지구력 좋아졌나요?
+P0 	: 아직 안 생긴 것 같아요...여전히 힘드네요ㅠ

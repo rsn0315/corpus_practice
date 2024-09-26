@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100014415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 무슨 얘기 할까요?
+P1 	: 운동 어떤거 하고계신가요?
+P0 	: 저 지금 필라테스랑 숨쉬기 운동이요 ㅎㅎ..
+P0 	: 무슨 운동 하세요??
+P1 	: 저는 자전거타고 헬스하고있어요
+P1 	: 필라테스는 강습 받으시나요?
+P0 	: 네!
+P0 	: 1주일에 1~2번??
+P0 	: 신청해서 가는 거라
+P0 	: 얼마나 자주 하세요?
+P1 	: 저는 요즘은 아예 못하고있어요ㅜㅜ
+P1 	: 코로나때문에...
+P0 	: 으ㅏ ㅠㅠ
+P0 	: 코로나 너무 심해져서 ㅠㅜ
+P1 	: 한창 할땐 주 4회정도 운동했어요
+P1 	: 월목 상체 화금 하체
+P0 	: 와 부지런하시네요..
+P0 	: 운동 좋아하세요?
+P1 	: 좋아하는 편이에요
+P0 	: 그럼 요즘은 집에서 운동하세요??
+P1 	: 거의 못하고있어요
+P1 	: 자전거나 좀 타구
+P0 	: 아 ㅠㅜ
+P0 	: 옷 좋아하세요??
+P1 	: 옷은 보세 위주로 입어요

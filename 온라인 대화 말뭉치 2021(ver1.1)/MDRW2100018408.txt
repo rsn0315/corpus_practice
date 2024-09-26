@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018408
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 요즘 로봇청소기로 집안일 많이 수월해졌다더라
+P0 	: 나도 써본적있어
+P1 	: 청소하기에 더 편해?
+P0 	: 조금 신기한 면이 많았어
+P1 	: 식기세척기도 설거지 하기 편하겠더라
+P0 	: 맞아 그리고 더 깨끗할것 같지않아?
+P1 	: 그치 고온에 살균되겠다
+P1 	: 그치?
+P0 	: 그러네 요즘은 스타일로도 많이쓴대
+P1 	: 스타일러도 세탁 덜할수 있어서 편하겠다
+P0 	: 바이러스모드도 있어
+P1 	: 인형같은거는 세탁하기 힘든데 좋다
+P0 	: 전염병이 유행일 때에도 유용할거야
+P1 	: 오 나도 써보고싶다

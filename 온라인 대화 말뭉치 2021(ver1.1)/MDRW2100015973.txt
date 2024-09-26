@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100015973
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세용~
+P1 	: 여행 좋아해요?
+P0 	: 여행 원래는 좋아하지않았는데
+P0 	: 코로나 지나면서부터 가고싶어졌어요
+P0 	: 사람이 얽매이니까 자꾸 다른 곳을 갈망하게되더라고여 ㅋㅋㅋ
+P1 	: 저도 사람 없는곳으로 떠나고싶네요
+P0 	: 여행할때 힐링하는 스타일이신가봐요!
+P0 	: 관광하는 여행이랑 힐링하는 여행이랑 좀 다르잖아여
+P1 	: 네네 어디다녀오셨나요?
+P0 	: 해외여행은 일본만 다녀왔구여 국내여행은 얼마전에 여수랑 제주도 다녀왔어요!
+P1 	: 제주도 좋죠~
+P1 	: 뭐드셨나요?
+P0 	: 저 제주도 가서 남문시장에서 전복김밥이랑 회 포장해와서 먹었어요!
+P0 	: 흑돼지말이구이? 이것두 포장해오고
+P0 	: 맛있는게 많더라구여 ㅎㅎ
+P1 	: 와 전복김밥 맛있을거같아요
+P1 	: 회로 들어있나요?
+P1 	: 익힌건가요?
+P0 	: 회는 아니고 전복이랑 밥을 같이 넣고 익혀서 미리 김밥을 말아놓았더라구여
+P0 	: 거기에 계란을 겉에 입혀서 주세여
+P0 	: 맛있었어용 ㅋㅋㅋ
+P1 	: 계란까지.. 맛이 없을수가 없네요ㅋㅋ

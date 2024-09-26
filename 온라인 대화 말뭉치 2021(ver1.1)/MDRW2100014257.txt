@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 건강챙기기 더 어려운 시국같아요
+P1 	: 맞아요 열이나도 병원을 못가고 코로나검사먼저 받아야하니
+P0 	: 코로나 조심해서 다녀야해요 정말...
+P1 	: 맞아요 요즘은 변이바이러스가 많아서 또 확진자가 급증하고 있으니까요
+P0 	: 산책 조금이라도 해서 건강 챙겨야겠어요
+P1 	: 맞아요 근데 혹시 모르니 사람 많이 안다닐 때 나가세요
+P0 	: 당연하죠! 늦은 밤이나 이른 아침에 한답니다
+P1 	: 좋아하는 옷 있으신가요?
+P0 	: 저는 셔츠류를 좋아해요
+P1 	: 좋아하는 브랜드 있으신가요?
+P0 	: 브랜드보다느 뭔가 꽂히면 사는거 같아요
+P1 	: 그럼 오프라인 쇼핑을 좋아하시나요?
+P0 	: 둘다 좋아해요
+P1 	: 스파스타일 옷 좋아하시나요 아니면 인쇼스타일 좋아하시나요??
+P0 	: 어.... 스파스타일에 더 가까운거 같아요
+P1 	: 오 그러시군요

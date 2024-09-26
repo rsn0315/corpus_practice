@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018235
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 젛아하세요?
+P1 	: 네 돈쓰는건 다 재밌어요
+P0 	: 극하게 공감합니다
+P0 	: 옷에 돈 많이쓰시나요
+P1 	: 많이는 아니고 그냥 맘에들면 거의 다 사는거같아요
+P0 	: 선호하는 쇼핑몰이나 브랜드 있나요
+P1 	: 저는 무신사에서 주로 사요
+P0 	: 최근엔 뭐사셧나요 ㅎㅎ
+P1 	: 트렌치코트 샀어요 ㅋㅋㅋ
+P0 	: 와 잘 사셨네요
+P0 	: 오버핏 인가요
+P1 	: 포멀핏이에요
+P1 	: 가을옷장만하셨어요?
+P0 	: 그러고 싶은데 pt 할 돈 모으느라 자제중입니다 ㅠㅠ
+P0 	: 닥터마틴 로퍼도 사고 싶네요
+P1 	: 피티 너무 비싸죠 ㅠ
+P0 	: 그러게요 근데 효과는 좋아서 좀 더 할지 고민 중이에요 ㅋㅋ

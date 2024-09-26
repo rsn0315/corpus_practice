@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100045261
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 요즘 구매한거 있으세요?
+P1 	: 네. 어제는 지구에서 게토레이를 샀어요.
+P0 	: 핫딜이었나봐요!
+P1 	: 지구에서 화요일마다 쿠폰을 주거든요.
+P0 	: 아!
+P0 	: 몰랐어요ㅜㅜ
+P1 	: 아. 요즘 할인쿠폰 주는 곳이 넘 많으니 모르실 수도 있지요.ㅎ
+P0 	: 맞아요 놓치면 아깝지만ㅜ
+P1 	: 어떤 쇼핑몰 자주 이용하세요?
+P0 	: 지마켓이랑 티몬이요!
+P1 	: 저도 애용하는 사이트에요.ㅎ
+P0 	: 티몬이 은근 할인커요
+P1 	: 그렇죠. 적립금도 있고요.
+P0 	: 그거 한번도 적립안해봤어요
+P1 	: 아깝네요. 후기쓰면 주기도 하고 룰렛을 돌릴수도 있어요.
+P0 	: 아 매번ㅋㅋ 핫딜사고 빠지고ㅋㅋ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016500
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 회원제 커뮤니티 해본 적 있으신가요?
+P0 	: 넹! 온라인 커뮤니티로요!
+P1 	: 커뮤니티 사람들과 친목도 하셨나요?
+P0 	: 앗 아뇨ㅋㅋㅋㅋ &name2& 님은 커뮤니티 해보셨나요?
+P1 	: 저는 인스티즈 하고있어요
+P0 	: 오 인스티즈는 친목 되나요??
+P1 	: 1대1 대화방을 팔 수 있어요! 익명게시판은 안 되고요
+P0 	: 오 대박 신기하네요 저는 밀리토리네 하는데 절대 친목 안되거든요!
+P1 	: 익명, 닉넴 전용 게시판이 있나요?
+P0 	: 네 둘로 나뉘어 있는데 익게는 비밀일기고 닉게는 교환일기라고 해요..!ㅎㅎ
+P1 	: 밀리토리네는 안 해봤는데 신기하네요! 오래 하셨나요?
+P0 	: 밀리토리네 시작할 때부터 했어요! 한 1년 조금 넘은 거 같네요ㅋㅋㅋㅋ
+P0 	: &name2& 님은 인스티즈 오래 하셨나요?
+P1 	: 저는 3년 정도 한 것 같아요!

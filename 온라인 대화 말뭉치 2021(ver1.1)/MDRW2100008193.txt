@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008193
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 사신 물건 있나요?
+P1 	: 안녕하세요 저는 최근에 다이소 가서 청소용품들을 몇 개 샀어요!
+P0 	: 오오 청소용품 어떤 거 사셨나요?
+P1 	: 고무장갑이랑 락스요! ㅎㅎ
+P0 	: 오 청소하시나요?
+P1 	: 네 자취를 해서 주기적으로 화장실 청소하고 있어요~
+P0 	: 오 화장실 청소 꼭 필요하지만 귀찮죠 대단하시네요!
+P0 	: 저는 최근에 과자를 하나 샀어요
+P1 	: 오호 무슨 과자를 사셨나요?
+P0 	: 플립즈라는 과자인데 아시나요?
+P1 	: 오 처음 들어봐요!!
+P0 	: 프레첼에 초코코팅이 되어있는 과자예요 맛있어요
+P1 	: 검색해보니 이거 맛없을수가 없겠는걸요?????
+P1 	: 맛잘알이시군요,,.!
+P0 	: 하하 감사합니다 다음에 또 사려구요 지금 올영에서 1+1 중이거든요

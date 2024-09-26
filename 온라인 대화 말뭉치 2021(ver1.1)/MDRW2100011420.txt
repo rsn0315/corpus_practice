@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011420
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하시나요
+P1 	: 올림픽같은거 하면 좀보는데요
+P1 	: 평소에는 야구정도 봐요
+P0 	: 어느구단 응원하시나요
+P1 	: 기아요
+P0 	: 오 기아! 직관도 많이 가셨나요
+P1 	: 직관은 잠실로 몇번가봤어요
+P0 	: 오 맥주 응원 재밌더라구요 코로나 전ㅠ
+P1 	: 네 직접보는 재미가 있었져
+P0 	: 경기 다 챙겨보시나요
+P1 	: 아니요 요새는 코로나도 그렇고 비도오면 안하고 하니까 점점 안보게되더라고요
+P0 	: 아 우천취소ㅠ
+P1 	: 그리고 기아가 못하니까 더보기싫더라고요
+P1 	: 응원하는 팀 있으세여?
+P0 	: 저는 축구좋아해요ㅎㅎ

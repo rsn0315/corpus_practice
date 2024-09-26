@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003069
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 로제떡볶이를 좋아하셔서 닉네임까지 하신건가요!?
+P1 	: 네 ㅋㅋㅋ 요새 맛난 음식이 넘 많더라구요
+P0 	: ㅋㅋㅋ로제 파스타도 좋아하세요!?
+P1 	: 원래 좋아했는데 요새는 로제떡볶이가 더 맛난 거 같더라고요 ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ 어디 브랜드가 젤 맛있는 것 같으세요!?!
+P1 	: 배떡을 좋아했는데 신전이 가성비 좋아서 자주 먹어요!
+P0 	: 아 저는 신전 가성비는 좋은데 최소주문금액도 크고... 그래섴ㅋㅋㅋ 못먹어봐ㅛ어요! 저는 엽떡이 젤 맛나더라구요
+P1 	: 최소주문 금액이 너무 세죠 ㅠㅠ 엽떡은 전 아직 못 먹어봤어요
+P0 	: 저는 배떡은 뭔가 조금 처음만 맛있고 질리는맛? 근데 또 생갇나는맛? 이었는데 엽떡은 진짜 끝까지 맛있게 먹었어요!
+P1 	: 오 저도 나중에 먹어봐야겠네요 궁금해요
+P0 	: 요즘에 로제 찜닭이나 로제닭발? 이런것도 많던데 혹시 드셔보셨어요?
+P1 	: 닭발은 못 먹어서 찜닭 먹어봤는데 너무 맛있어요 강추합니다..
+P0 	: 저는 닭발 먹긴 하는데 로제맛은 별로 안끌리더라고요....찜닭...메모메모... 두찜에서 드신건가요!?
+P1 	: 네! 두찜이 젤 입맛에 맛더라구요

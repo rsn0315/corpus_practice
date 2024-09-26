@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008772
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 쇼핑하신거 있으세요?
+P1 	: 아까 올만에 후드집업 하나샀어요
+P0 	: 아 저도 사야하는데ㅎㅎ 분명히 샀는데 또 없더라구요
+P1 	: 매년 느껴요ㅎ
+P1 	: 작년엔 대체 뭐입고 다녔는지
+P1 	: 뭐 사신거 있으세요?
+P0 	: 저도 가을옷 몇개사구 런닝화 구경하고 있어요ㅎㅎ
+P1 	: 벌써 가을옷 사셨어요?
+P0 	: 네 비그치면 가을이 짧을거같아서ㅎㅎ
+P1 	: 탁월한 선택이세요ㅎ 저도 긴팔 원피스좀 사고싶은데
+P1 	: 찾는게 요즘 넘귀찮네요
+P0 	: 맞아요 고르다보면 지쳐요 ㅎㅎ
+P1 	: 쿠폰찾고 여기저기 가격비교하고ㅎ
+P1 	: 누가 그냥 코디 해주고 사다주면 좋겠어요
+P0 	: 맞아요ㅋㅋㅋㅋ맘에 드는옷 누가 대신 쇼핑해줬으면 ㅎㅎ
+P1 	: 요즘은 약속도 못잡고하니 옷보다 먹는걸 주로사네요ㅎ
+P0 	: 저도 그래요ㅎㅎ

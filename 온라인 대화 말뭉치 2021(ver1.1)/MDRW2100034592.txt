@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 지금 어떤 노래 듣나요?
+P1 	: 더 위캔드와 도자캣이 부른 노래를 듣고잇어요
+P0 	: 도자 좋아하새요?
+P1 	: 도자캣 너무 귀여워여
+P0 	: 어떤점이 귀엽나요?
+P1 	: 목소리도ㅜ귀엽고
+	  노래부르는것도 귀여워요
+P0 	: 고양이같은 매력이 있나요?
+P1 	: 넹
+P1 	: 너무 귀여워요
+P0 	: 팬인가요?
+P1 	: 호감이죵
+P0 	: 저도 그렇게 생각해요
+P1 	: &name1&님은 위캔드랑 도자캣 노래 들어봣나요?
+P0 	: 네 그럼요

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100014073
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경남
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 딱히 이유는 없어요 ㅋㅋㅋ
+P0 	: ㅋㅋㅋ저녁은 드셨나요?
+P1 	: 네 카레를 먹었답니다!ㅋㅋ
+P0 	: 좋네요ㅋㅋㅋ
+P0 	: 맥주vs소주 어떠세요?
+P1 	: 저는 술을 안마셔요^^;;
+P1 	: 술좋아하시나요!ㅎㅎㅎ
+P0 	: 아니요ㅎㅎㅎ
+P0 	: 저도 알쓰랍니다
+P1 	: 알쓰 ㅋㅋ 저도요오
+P1 	: 아침은 드셨나용
+P1 	: 전 출근했는데  배고파요
+P0 	: ㅋㅋㅋ저아직이요!
+P0 	: 점심드셨나요?
+P1 	: ㅎㅎ 네 아침은 굶고  오전근무하고 집에와서 점심먹었는데
+P1 	: 저녁은 뭐먹지 고민중이에요 ㅋㅋㅋ
+P1 	: &name1& 드셨나용
+P0 	: 저 아직이요ㅋㅋㅋ 오 아직고민중이시군요
+P0 	: 이제 막 먹으려구요!
+P1 	: 앗 전 점심은 영양밥먹었어요 ^^ 맛나게 드셔요~~
+P1 	: 저녁을 고민중이에요 ㅍㅇㅎ
+P0 	: 와우 영양밥
+P0 	: 맛있는거드셨네요!
+P1 	: 저녁은 배달시켜 먹고싶은데
+P1 	: 배달할만한게 없네요ㅜ
+P0 	: 저녁은 뭘드시게요?!

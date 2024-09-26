@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100034858
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 댄스곡은 잘 안들으세요?
+P0 	: 신곡 나오면 몇 번 들어보는 정도로 들어요
+P0 	: 댄스곡 좋아하세요?
+P1 	: 네 저는 좋아해요 ㅎㅎ
+P0 	: 노래 추천해주실 수 있나요?
+P1 	: 음 좀 어떤 계열 좋아하세요?!
+P0 	: 댄스곡은 신나는 게 좋죠!
+P1 	: 음 그러면
+P1 	: 세븐틴의 우리의 새벽은 낮보다 뜨겁다
+P1 	: 들어보세요 !
+P0 	: 네네 감사합니다ㅎㅎ
+P0 	: 유튜브 자주 보시나요?
+P1 	: 네 자주 봐요 ㅎㅎㅎ
+P0 	: 어떤 유튜버 자주 보세요?
+P1 	: 전 먹방 좋아해서 입짧은햇님이요!
+P0 	: 저도 햇님 님 영상 많이 봐요!
+P0 	: 김치찜에 계란말이 드시는 거 제 최애 영상이에요ㅋㅋㅋ
+P1 	: 아 저두욬ㅋㅋㅋ 전 햇님님이 한식 먹는거 좋아해요 !

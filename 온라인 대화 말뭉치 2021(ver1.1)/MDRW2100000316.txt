@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100000316
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키우시는 반려동물 있으세요?
+P0 	: 저는 이전에 웰시코기 키웠었어요
+P0 	: &name2&님은 키우시는 반려동물 있으세요?
+P1 	: 아뇨ㅋㅋ저는 진짜 옛날에 물고기만 키워봤어요
+P0 	: 앗 물고기도 귀엽겠어요
+P0 	: 웰시코기는 참 귀여운데 털을 정말 많이 뿜어요 ㅋㅋ
+P1 	: ㅋㅋㅋㅋ웰시코기는 귀여운 엉덩이가 포인트아닌가요ㅋㅋㅋ
+P1 	: 털 많이 빠지는거 관리하기 힘들죠ㅜㅜ
+P0 	: 네 정말
+P0 	: 검은옷을 입으면 드러나는 존재감..
+P1 	: ㅋㅋㅋㅋㅋㅋ끈끈이? 가 필요하죠
+P0 	: 끈끈이 청소기 건조기 필수요 ㅋㅋ
+P0 	: 그래도 그런걸 다 감안할정도로 이뻐요
+P1 	: ㅋㅋㅋ맞아요 이쁘죠ㅜ 저는 키울 여건이 안되어서 가끔 고양이카페에 가요
+P0 	: 고양이 좋아하시나요?
+P0 	: 저도 고양이도 좋아해요
+P0 	: 요즘더 고양이 카페가 있나봐요! 예전에 유행했잖아요
+P1 	: 네! 아직 있어요ㅋㅋ요즘은 못가고있지만요ㅜ
+P0 	: 요즘은..그렇겠네요ㅠㅠ
+P0 	: 저는 예전에 갔을때 본체만체하더니 닭가슴살 간식 사니까 몰려들던 슬픈 기억이 있어요
+P0 	: 자본주의 고양이들..
+P1 	: ㅋㅋㅋㅋㅋ자본주의 고양이들ㅋㅋㅋㅋ너무 웃겨요

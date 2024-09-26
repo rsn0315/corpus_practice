@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100047174
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 직장 다니시나요?
+P1 	: 백수요 &name1&님은?
+P0 	: 저는 직장을 다닌지가 꽤 됐어요.
+	  취업 준비중이신가봐요.
+P1 	: 그냥 쉬고있어요
+P0 	: 아.. 네.. ^^;
+	  아르바이트 해보신 적은 있으세요?
+	  전 마트에서 매대 정리하는 거 해봤어요.
+P1 	: 사무보조 알바해봤어요
+P0 	: 아.. 저도 앞에서 하는 것보다는 뒤에서 보좌하는 일이 더 맞더라구요.
+P0 	: 일은 힘들지 않으셨어요?
+P1 	: 단순 업무여서 쉬웠어요
+P0 	: 저는 전단지 나눠주는 아르바이트도 해봤는데 뻘줌하기도 하고.. 엄청 걸어서 힘들기도 했엉ᆞ.
+P1 	: 열심히 사셨네요
+P0 	: 그냥 재미로 시작했다
+	  돈이 들어오니 정성을 쏟았던 거 같아요.

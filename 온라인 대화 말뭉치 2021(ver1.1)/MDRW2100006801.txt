@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006801
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키워보신 적 있으신지요
+P1 	: 아주 예전 어릴때요
+P0 	: 강아지 키웠나요?
+P1 	: 네 강아지 키웠어요
+P0 	: 참 귀여웠겠습니다
+P0 	: 이름이 뭐였나요?
+P1 	: 동생 강아지인데 이름이 &name3&ㅋ
+P1 	: 귀여웠어요
+P0 	: &name3&
+P0 	: 귀엽군요
+P1 	: 지금은 하늘나라에 ㅠ
+P0 	: 무지개다리를 건넜군요
+P0 	: 반려동물은 식구 같아서 참 헤어짐이 힘들죠
+P0 	: 저는 그래서 물고기 키웁니다
+P1 	: 물고기 키우는건 편한가요?
+P0 	: 일단 어항에만 있으니 집을 어지르지 않아요
+P0 	: 그리고 조용해요
+P0 	: 밥 주고 나가면 자기들끼리 헤엄치며 잘 놀아요
+P1 	: 거의 관상용이네요
+P0 	: 관상용인데 또 은근히 정이 갑니다
+P0 	: 밥주려고 다가 가면 알고 막 헤엄쳐오는데 꼭 강아들들 달려오는 것과 비슷한 느낌이 들어요

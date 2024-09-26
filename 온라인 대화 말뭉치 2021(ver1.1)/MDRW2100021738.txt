@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021738
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인으로 만난 사람과 정모해보신 적 있나요?
+P1 	: 네 예전에 음악관련 정모 나간 적 있는데 친해졌었어요 ㅎㅎ
+P0 	: 아.. 관심사가 비슷하니 금방 친해졌나봅니다.^^
+P1 	: 네 다양한 사람들이랑 만나니 재밌더라고요
+P1 	: &name1&님은 경험 있으신가요?
+P0 	: 저도 만난 적 있었어요.ㅎ
+	  온라인 상으로 엄청 친해서 그런지
+	  첫만남부터 폭풍수다를 떨었네요.
+P1 	: 코드가 잘맞는 사람이면 재밌더라고요 ㅎㅎ
+P0 	: 네. 할 얘기가 어찌나 많던지 다음 모임을 기다리게 되더라구요.
+P1 	: ㅎㅎㅎ 어떤 모임이었나요?
+P0 	: 같은 직업을 갖고 있고 육아를 하는 사람들의 모임이었어요.
+P1 	: 오 공감대가 많았겠어요
+P0 	: 네..  일 얘기가 끊임이 없더라구요.
+	  배우자 흉도 종종 보고.
+P1 	: ㅎㅎㅎㅎ 뭔가 현실적으로 얘기나눌 주제가 많았겠어요
+P0 	: 네.. 만나면 너무 즐겁네요.
+	  앞으로도 계속 정모하려구요.^^

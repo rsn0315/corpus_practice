@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100001718
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 반려동물 키우세요?
+P1 	: 저는 강아지요~ &name1&님도 키우시나요?
+P0 	: 네 저는 고양이 키우고 있어요~ 몇살이에요?
+P1 	: 이제 1년반정도 됐어요! 아직 아기라 에너지가 엄청 넘쳐요ㅋㅋ
+P1 	: 고양이는 몇살이에요?
+P0 	: 와~ 완전에너지 뿜뿜이네요 저의 고양이는 6살이에요
+P1 	: 오 의젓하겠어요ㅎㅎ 이름이 뭐에요??
+P0 	: 네 도도해욬ㅋㅋ &name3&에요~ 강아지 이름이 뭐에요~??
+P1 	: 이름이 &name3&에요? &name3&?
+	  저희 강아지는 &name4&이에요~
+P0 	: ㅋㅋㅋ제성이 방씨라서 방&name3&에요 &name4&도 귀엽네요
+P1 	: 헉 대박 방&name3& 너무 귀여워요ㅋㅋ
+	  &name4&는 조&name4&랍니다ㅋㅋ
+P0 	: 병아리콩 같은 이름이네요ㅋㅋ 이전에 더워서 댕냥이들 축 쳐져있었는데 날이 선선해서 좀 살아난거 같아요
+P1 	: 여름에 무지 힘들죠ㅠㅠ 사람도 더운데 오죽할까싶어요 산책도 겨우 하고ㅠㅠ
+P0 	: 집앞에 산책하러가면 댕댕이들 저녁에 많이 나오더라구요 우리 고양이는 더위먹어서 병원 한번갔어요ㅠ
+P1 	: 아이고 더위라니ㅠㅠ 고생했겠네요ㅠㅠ 안타까워라ㅠㅠ
+	  한낮에는 땅이 너무 뜨거워서 산책은 엄두도 못내요
+P0 	: 사람도 힘든데 털옷입구 얼마나 덥겠어요 그춍

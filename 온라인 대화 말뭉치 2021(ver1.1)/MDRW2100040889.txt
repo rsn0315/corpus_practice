@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100040889
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네네 맞아요
+P1 	: 근데 저희집 주변엔 추천해주신 하남주꾸미는 없나봐요ㅜ
+P0 	: 아아아 이거는 배달음식아니구
+P0 	: 밀키트?는아니고 뭐라하죠 그 냉동된거 팔거든요 집에서 익혀먹기만 하면돼요!!!
+P1 	: 아 그렇구나!!
+P1 	: 배민에서 계속 찾았어요ㅜ
+P0 	: 이런이런 ㅠㅠ 오늘은 일단 집근처에서 시켜드시구 저건 인터넷에서 구매해보세요!!
+P1 	: 네네 일단 오늘은 배달시켜 먹고
+P1 	: &name1&님이 추천하신건 상비용으로 구매해놓겠어요
+P0 	: 네 매운맛은 너무매우니까 보통매운맛으로 구매하세용!ㅋㅋㅋ
+P1 	: 네네
+P0 	: 쭈꾸미 배달 왔나용?! ㅋㅋ
+P1 	: 주문했는데
+P1 	: 한시간 걸린대서 기다리고 있어요ㅜ
+P0 	: 헐헐 ㅠ 인기맛집인가봐요!!!
+P1 	: 그런건지.. 처음 시켜보는 곳이거든요
+P1 	: 점심 드셨어요?
+P0 	: 아니요 아침을 11시쯤에먹어서
+P0 	: 점심은 3시쯤먹으려구요 ㅋㅋㅋㅋ
+P1 	: 아 아침 늦게 드셔서 점심도 늦게 드시는구나
+P1 	: 점심 겸 저녁이 되겠네요
+P0 	: 네 맞아요 일요일이라고 늦잠을 잤더니 ㅋㅋ 늦게먹었어요ㅠㅠ

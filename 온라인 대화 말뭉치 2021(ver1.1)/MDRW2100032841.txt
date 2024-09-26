@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100032841
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아쉽게도 토마토달걀볶음은 제 점심메뉴가 아니었습니다 짜잔~
+P0 	: 뭘 먹었을까요
+P1 	: 뭘 먹었지
+	  떡볶이 메었니
+P1 	: 먹었니
+P0 	: 아니 떡볶이 아니지롱
+P0 	: 어제 점심 맞추기였나
+P1 	: 응 무슨 볶이인지
+P1 	: 예상이 안가네
+P0 	: 더 물어봐
+P0 	: 많이 물어볼수록 무슨 음식인지 맞추기 쉬울거야
+P1 	: 내 머리의 한계다
+P1 	: 매운양념이니
+P0 	: 응 나름..? 근데 너도 안 맵게 먹을 수 있어
+P1 	: 양파볶음이니
+P0 	: 아니 양파는 아니야
+P1 	: 흐으으으으으음 야채볶음이니
+P0 	: 야채를 볶는 요리긴 해
+P1 	: 소시지 야채볶음이니
+P0 	: 아니! 햄종류가 들어갈 때도 있지만 소시지야볶은 아니야

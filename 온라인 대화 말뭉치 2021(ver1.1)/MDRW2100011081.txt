@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100011081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 너 책읽는 거 좋아하니?
+P1 	: 독서 좋아해?
+P0 	: 응 시간은 별로 없지만
+P1 	: 어떤 장르의 책을 조항하니?
+P0 	: 방학때 좀 읽으려고 노력했어
+P0 	: 나는 추리 스릴러를 좋아해ㄴ
+P1 	: 오. 이번 방학?
+P0 	: 너는??
+P1 	: 나는 로맨스판타지를 좋아해.
+P1 	: 신분이 높았으면 좋겠어.
+P1 	: 너도 좋아하지?
+P0 	: 응응 이번방학에 틈나는대로 읽었지
+P0 	: 당연하지.
+P0 	: 그런건 좀 대리만족이 되는 것 같아
+P1 	: 아 그ㅜ장르를 틈나는대로 읽은거야?
+P1 	: 맞아.
+P1 	: 몰입감이 장난아냐
+P0 	: 맞아 그리고 종류도 엄청 많더라
+P0 	: 요즘 유행인가봐
+P0 	: 너도 한번 써보는건 어때
+P1 	: 맞아 다양한 플랫폼에서 그 장르를 밀어주더라
+P1 	: 가끔은 유칳9
+P1 	: 아 그럴까?
+P0 	: 돈을 많이 번대
+P1 	: 그럼 내 작품의 서브쥬인공이 되어줄래?
+P0 	: 그래 좋아!
+P1 	: 그것참 솔깃하구나.

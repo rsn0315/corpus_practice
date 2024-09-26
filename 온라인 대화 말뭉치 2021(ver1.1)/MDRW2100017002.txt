@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017002
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 가고싶은 여행지가 궁금해용!
+P0 	: 미국이요!
+P1 	: 오..... 미국 좋됴!!!!!
+	  저는 호주 가고싶어요!ㅋㅋ
+P0 	: 오호주 코로나가끝나야ㅠ
+P1 	: 맞아요...제발..
+P1 	: 끝나야갈텐데...
+P1 	: 기미가 안보이네요...
+P0 	: 어디 가보셨나요?
+P1 	: 저는 마지막여행이 부산이었어요!
+P1 	: ㅜㅜㅋㅋㅋ
+P0 	: 낙곱새 먹고싶네요ㅎㅎ
+P1 	: 아 진짜 맛있죠!! 전 곱창을 안먹어서 낙새만 먹었는데도 너무 맛있는거예요ㅜ
+P1 	: 하 또먹고싶네요!!!!
+P1 	: &name1&은 어디 가보셨나요?!
+P0 	: 저는국내제주 좋아해여
+P1 	: 제주 수학여행이후 한번도 못갔어요ㅜㅋㅋㅋ 가고싶은데 기회가 없더라고요
+P0 	: 섭지코지 너무이뻐요~
+P0 	: 여행 조아하시나요

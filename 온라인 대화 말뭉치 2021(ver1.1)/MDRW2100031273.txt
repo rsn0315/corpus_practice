@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100031273
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 접종하셨어요?
+P1 	: 아직이요 &name1&님은 하셨나요?
+P0 	: 넵.  저는 접종 완료했어요.
+	  약간은 든든하네요..
+	  접종 예약은 하셨어요?
+P1 	: 네 10부제로 예약은 했어요
+P1 	: 2차까지 다 완료하셨나요?
+P0 	: 저는 2차 접종 후 14일이 지나서
+	  큐알코드 찍으면 완료자라고 안내멘트가 나오네요.
+	  1차 접종
+	  약간 긴장되시겠어요.
+P1 	: 네 근데 날짜가 좀 남아서 아직까지는 큰 걱정까지는 안돼요ㅋㅋㅋ
+P1 	: &name1&님은 10부제 예약 안하셨나요?
+P0 	: 저는 직장에서 일괄 예약해줘서 맞았어요.
+	  따로 예약하신 분들은 번거로웠겠다 싶더라구요.
+P1 	: 그럼 편하셨겠네요
+P0 	: 네. 근데 특정 날짜를 지정해줘서
+	  좀 불편했어요.ㅎ
+	  제가 직접 예약했다면 날짜를 고를 수 있었을텐데요.
+P1 	: 주말에 맞으신건가요??
+P0 	: 아뇨. 화요일에 맞았어요.
+	  저는 다른 일정이 있어 못맞을뻔했거든요..
+P1 	: 못맞을 뻔 하셨다니 큰일나실뻔 했네요
+P0 	: 무조건 저 날짜에 맞춰라.. 고 해서
+	  직장동료 일부는 접종을 못했네요.;

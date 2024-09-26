@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100047722
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 기억에 남는 여행지는 어딘가요
+P0 	: 전 태국이여
+P1 	: 국내 여행지는 어디가 좋았나요
+P0 	: 마라도가 좋았어요
+P1 	: 와 마라도..저는 못가봤오요
+P0 	: 사방이 바다 멋지더라구요
+P1 	: 마라도 짜장도 드셨나요...1박2일에서 본것같은데..
+P0 	: 네 먹었어요 꿀맛
+P1 	: 아..궁금하다..마라도 짜장..
+P0 	: 1곳 있더리고요ㅎ
+P1 	: 1곳이면 거기가 방송에도 나온곳이겠네요
+P0 	: 네 그런가바요
+P1 	: 마라도가 제주도 아래쪽이다보니 쉽게 동선이 안나오더라구요 ㅠ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100038696
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행가는거 좋아하시나요?
+P0 	: 좋죠 여행 좋아하세요?
+P1 	: 네네 코로나라 못가는게 넘 아쉽네요
+P1 	: 코로나끝나면 제일 먼저 어디가보고싶으신가요?
+P0 	: 음 저는 국내는 안동이나 하동이요
+P1 	: 이유가 있으실까요? 요즘 국내여행지도 좋은 곳 참 많더라구요
+P0 	: 조용하고 한적한곳에서 쉬고싶어요
+P0 	: 안동 하동이 제가 가본 여행지중에 조용하고 한적한 곳들이였거든요
+P1 	: 오 맞아요 조용하고 한적한 곳가면 마음도 진정되고 참 좋죠
+P0 	: &name2&님은 가보고싶으신곳 있나요?
+P1 	: 저는 여수나 독도 한번 가보고싶어요!
+P0 	: 헉 독도 저도 가보고싶네요!
+P0 	: 여수는 가보셨나요?
+P1 	: 둘다 안가봤어요 ...ㅠㅠ 국내여행은 제주도나 강릉 요런 곳만 다녀봤네요
+P0 	: 그러시구나 강릉은 저 한번밖에 안가봤는데
+P0 	: 어디가 좋은가요? 추천해주세요
+P1 	: 오.. 저도 강릉은 한번밖에 가보질 않았네요..
+P1 	: 다들 많이가는 장칼국수나..순두부나.. 꼬막 같은거 먹었어요 ㅎㅎ
+P0 	: 저 그것들 전부 못먹어봐서 먹어보고싶어요 특히 꼬막요

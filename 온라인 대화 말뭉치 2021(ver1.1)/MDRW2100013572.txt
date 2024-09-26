@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013572
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 나가시는 모임 있나요?
+P1 	: 아뇨 따로 모임은 없고 가끔 비정기적으로 동창회? 나가요
+P1 	: &name1&님은 있으신가요?
+P0 	: 저는 아예 없어요.. 
+	  동창회? 고등학교요ㅡ
+P1 	: 아 없으시구나 요새 시국도 이렇기도 하고
+P1 	: 오프라인에서 딱히 구할곳이 없는 것 같아요 그쵸
+P0 	: 완전 눈치없죠.. 오프에서 모이면..
+P0 	: 동창회도 가보고 싶네요
+P1 	: 그쵸 눈치없는
+P1 	: 동창회는 진짜 누가 총대매서 모이자고 안하면 모이기 힘든 것 같아요
+P0 	: 엄마아빠들은 정기적으로하던데..
+	  젊은세대는 동창회 거의 엄는거 같네요
+P1 	: 맞아요 예전이랑 다르게 끼리끼리 다녀서 그런것도 없지않아 영향이 있지 않을까요?
+P1 	: 소규모?로 모이긴 하거든요 저는
+P1 	: 근데 다같이 막 몇회 졸업생 이렇겐 모인적이 없어요ㅎ
+P0 	: 그니까요.. 막 총동문회 이런게 사라진듯..
+P0 	: 졸업하고 만나는 친구 몇명정도에요?
+P1 	: 10명 안쪽같아요ㅋㅋ 다들 찢어져서 살기도 하고?
+P1 	: &name1&님은요?
+P0 	: 저는 아싸라..ㅋㅋㅋ 요즘은 0명이에요..
+P1 	: 요즘엔 뭐 다 비슷한 처지일거에요ㅋㅋ
+P1 	: 나중에 뭐 동창이 결혼하면 그때 한번 모일 것 같아요 뭔가ㅋㅋ
+P1 	: 아직은 주위에 없어서요!

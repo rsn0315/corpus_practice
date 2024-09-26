@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013612
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  4
+contact_frequency  :  주 1회 미만
+
+P1 	: 여행가고싶네
+P0 	: 가면되지~ 국내여행~~
+P1 	: 날씨 좋아지면?
+P0 	: ㅇㅇ 이제 비 안오면 어디든 가야지
+P1 	: 둘다 면허가 없어서 갈만한 곳이 없다
+P0 	: 많이 걷는거 힘든가?
+P1 	: 힘들지 무릎이 아파서
+P0 	: 전주나 순천은 걸어다니기 충분하더라
+P1 	: 거기말고 경남이 가깝지
+P0 	: 그럼 한번 유튜브나 블로그 찾아봐바
+P0 	: 갈만한곳이 있나
+P1 	: 알았다~ 한번 봐야겠네 어디가 좋나
+P0 	: ㅇㅇ 여러군데 정해서 리스트 뽑아서보여줘
+P1 	: 그래~ 좋은데 있나봐야지
+P0 	: 나도 걸어서 갈수있는곳 한번 봐볼게
+P1 	: 여행 빨리가고싶네~~~

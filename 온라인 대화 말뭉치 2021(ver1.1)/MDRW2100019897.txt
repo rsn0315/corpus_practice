@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019897
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기능원 및 관련 기능 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 어디가봄?
+P1 	: 일본
+P0 	: 대만?
+P1 	: 응 그리고 뉴질랜드
+P0 	: 좋네
+P0 	: 나는출장으로 중국
+P1 	: 나도 가봄
+P0 	: 또가고싶어
+P1 	: 나도
+P0 	: 공항 좋아
+P1 	: 나도 ㅋ냄새도
+P0 	: 가는길도
+P1 	: 주인공 같아
+P0 	: ㅋㅋ나도드라마
+P1 	: 최근엔어디?
+P0 	: 강릉
+P0 	: 바다
+P1 	: 좋네

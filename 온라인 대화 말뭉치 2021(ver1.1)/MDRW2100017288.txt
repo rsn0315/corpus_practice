@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100017288
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 지금 퇴근
+P1 	: 무료봉사 근무 1시간
+P0 	: 저녁은??
+P1 	: 지금 먹을려고
+	  순대국밥
+P1 	: 너는 저녁 뭐먹어?
+	  정했어?
+P0 	: 오 순대국밥? 식당메뉴에 나왔어?
+P1 	: 응ㅎ
+P0 	: 난 그냥 밥에 고추참치 김 이렇게 먹었엉
+P1 	: 배가 불러서 저녁 고민하다 그냥 먹어ㅋ
+P1 	: 오
+P0 	: 맛있는거 주네 ㅋㅋ 너 순대국밥 좋아하지않았어?
+P1 	: 참치 김 맛나
+P1 	: 맞어 내장 좋아해
+P1 	: 근데 여긴 너장 쪼금줘 ㅎ
+P1 	: 내장
+P0 	: 아 그렇구만 아까비 ㅎㅎ 그래도 맛있겠엉 ㅋㅋ
+P1 	: 응 식당밥 가성비는 아니라도 맛은 괜찮은편이야ㅎ
+P0 	: ㅇㅇ 메뉴가 다양하게 나와서 좋을것 같아
+P0 	: 집에선 매일 먹는거 먹으니까
+P1 	: 내말 안갔어ㅜㅠ
+	  
+	  식당밥도 좋지만 먹다봄 질리니까
+	  식단은 다양해야 하는거같아ㅎ
+P0 	: ㅇㅇ 다양한게 좋아 식단 기대하는 즐거움도 있고
+P1 	: 마져 골라먹는 재미
+P1 	: 저녁 다먹었어ㅋ

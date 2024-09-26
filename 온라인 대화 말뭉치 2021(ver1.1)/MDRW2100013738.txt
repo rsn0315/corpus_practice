@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013738
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 점심 드셨어요?
+P1 	: 네 먹었습니다
+P1 	: 보쌈먹었어요
+P1 	: 점심드셨나요?
+P0 	: 저는 닭 먹었어요
+P1 	: 닭이라면 닭볶음탕일까요?
+P0 	: 닭가슴살 이요
+P1 	: 아하
+P1 	: 단백질식품 챙겨드시는군요
+P0 	: &name2&님은 사과 좋아하세요?
+P1 	: 음.. 사실 그냥그래요
+P1 	: 그래도 식감이 좋아서 가끔먹어요
+P1 	: &name1&님은 어떤과일 좋아하세요?
+P0 	: 다좋아해요ㅋㅋ
+P1 	: ㅋㅋㅋ건강한거 좋아하시네요
+P1 	: 그럼 옥돔은 좋아하시나요?ㅋㅋ
+P0 	: ㄴㅔㅋㅋㅋ

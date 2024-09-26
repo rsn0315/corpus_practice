@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 대구
+current_residence : 대전
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 아침 드셨나요?
+P1 	: 네 먹었어요
+P0 	: 오 어떤거 드셨나요
+P1 	: 그냥 집밥이요. 계란국에 밥먹었어요
+P0 	: 와 계란국 ㅠㅠ 맛있었겠네요
+P0 	: 저는 요플레 하나 먹었어요...
+P1 	: 배고프실거 같은데요...
+P0 	: 지금 찐감자도 반개 꺼냈어욬ㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋ아침은 간단하게 드시나봐요
+P0 	: 네ㅋㅋㅋㅋ 점심도 곧 먹으니까요...
+P1 	: 챙겨주는 사람 있으니까 먹게되요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ점심은
+P0 	: 어떤거 드실 예정이세요?
+P1 	: 글쎄요. 식당갈거라서ㅎ 백반 먹게될거 같아요
+P0 	: 오
+P0 	: 백반좋죠 ㅠㅠ
+P0 	: 외식은자주하시나요?
+P1 	: 요새는 잘 못해요ㅋㅋ
+P0 	: 앗... ㅠㅠ 맞네요
+P1 	: 배달은 되니깐요ㅋㅋㅋ

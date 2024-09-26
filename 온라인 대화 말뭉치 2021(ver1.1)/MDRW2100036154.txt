@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100036154
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+	  님 사시는 지역의 날씨는 어떤가요.
+P1 	: 낮엔 덥더니 지금은 흐리네요 ㅜ
+P0 	: 목요일까지 비온다더니
+	  제가 사는 지역도 비는 안오고 찌뿌둥하네요.
+	  계속 흐리니 기분이 축 쳐지지요.
+P1 	: 바닷가 근처라 진짜 습해요 ㅜ
+P0 	: 끈적끈적 거리겠어요.
+	  제습기를 돌려도 그때뿐이라..
+P1 	: 맞아요 ㅜㅜ 그래도 요즘은 바람이 선선해져서 여름이 가긴 가는구나 싶어요
+P0 	: 선선해서 좋았는데 미세먼지가 안좋아서
+	  창문을 닫았어요.
+P1 	: 제가사는곳은 다행히 미세먼지는 좋은데 풀벌레소리가 장난아니네요 ㅋㅋㅋ
+P0 	: 네.
+	  가을이라고 집에서 뀌뚜라미도 보았습니다.ㅠ
+P1 	: 헛 집에서요? ㅜㅜ 어쩌다 집까지 들어왔을가요 ㅜㅜ 가을은 가을인가봐요 ㅋㅋ
+P0 	: 그니깐요.
+	  아파트인데요.ㅎ
+	  얼마 전에는 매미가 방충망에 붙어서는.
+	  여름이 끝나가니 짝짓기를 위해 발악하듯이 울더라구요.ㅋ
+P1 	: 앗 저도 올여름에 아침에 매미가 방충망에 붙어서 깬적있어요 ㅜㅜ 소리 엄청나더라구요
+P0 	: 이러다 곧 겨울오고
+	  금방 나이 먹겠어요.ㅎ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 헬스요
+P0 	: 전 홈트요
+P1 	: 그러시군요
+P0 	: 플랭크해요
+P1 	: 오 좋은 운동이네요
+P0 	: 전신운동이죠
+P1 	: 네 건강유지에 좋다더라구요
+P0 	: 복근도요
+P1 	: 복근이 생기나요?
+P0 	: 아직욬
+P1 	: 몇분하시나요?
+P0 	: 3세트오
+P1 	: 몇 분씩요?
+P0 	: 20분정도요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100029623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가고싶은 날씨네요
+P1 	: 그러게요 선선하고 좋네요
+P1 	: 가볍게 드라이브 추천드려요
+P0 	: 그러고싶은데 회사네요ㅋ
+P0 	: 휴가 때 어디 다녀오셨어요?
+P1 	: 저는 부산 해운대요
+P1 	: 숙소에만 머물렀어요
+P1 	: &name1&님은 어디 다녀오셨어요?
+P0 	: 오 좋네요~ 저는 다음주에 서울 가요ㅋㅋㅋ
+P0 	: 저도 그냥 호캉스..
+P0 	: 사실 여행을 가고싶은데
+P1 	: 호캉스 좋더라고요
+P1 	: 누구랑 가실 예정이에요?
+P0 	: 저는 남자친구랑요ㅋㅋㅋㅋ
+P0 	: 여행 갈 거 몰빵해서 좋은 호텔 가기로했어요
+P1 	: 좋겠다 여행은 언제나 좋죠
+P1 	: 저도 호캉스 또가고 싶네요
+P0 	: 근데 사실 호캉스보다는 여행을 가고싶어요 ㅋㅋ
+P1 	: 계획하고 계신 여행지 있어요?
+P0 	: 우선은 울릉도여!! 독도도같이
+P1 	: 멋지다
+P1 	: 독도는 허가받은 경우만 갈 수 있는 걸로 알고있어요
+P0 	: 보니까 날 좋을 때 갈 수 있대요 ㅋㅋ 여행코스로
+P0 	: &name2&님은 어디 가고싶으셔요?
+P1 	: 저는 베트남 가보고 싶어요 아직 한번도 안가봐서

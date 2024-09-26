@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100008706
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 꾸준히 하시는 편인가요?
+P1 	: 네 최근엔 이틀에 한 번씩 아침에 달리기 해요
+P1 	: &name1& 님은요?
+P0 	: 저도 한때 하루에 두세시간 운동을 했는데
+P0 	: 한동안 안하다가 다시 아주 조금씩 다시 시작하고 있어요
+P1 	: 어떤 운동 하세요?
+P0 	: 예전엔 홈트, 요가 요즘은 자전거 많이 타요
+P0 	: 전 2분도 제대로 못 달리는 스타일인데, 달리기를 자주 하시다니 대단하세요
+P1 	: 저도 자전거 타고 싶은데 없어서 못 타네요ㅠ
+P1 	: 저도 그랬었는데 꾸준히 달리다보면 많이 늘어요!
+P0 	: 나중에 열심히 해볼게요! ㅎㅎ
+P1 	: 요가는 직접 배워보신거예요?
+P0 	: 네 요가원에서 1년 정도 배웠어요
+P0 	: 또 무슨 운동 좋아하세요?
+P1 	: 부러워요 저도 요가원에서 배워보고 싶어요
+P1 	: 운동을 안 배워봤는데 요즘 주짓수 해보고 싶어요
+P0 	: 마음 단련에 좋더라고요. 근육 쓰는 법도 배우게 되고...
+P0 	: 주짓수 재밌을 것 같아요 !
+P1 	: 그쵸 근데 코로나 때문에 마스크 쓰고 해서 좀 불편하다고 하긴 하더라고요
+P0 	: 이눔의 코로나 언제쯤 ㅠㅠ.  ...
+P1 	: 그러게요 자꾸 변이바이러스 퍼진다는 얘기도 있고 하니까 운동 학원 등록하기도 좀 그래요....
+P0 	: 맞아요 자꾸 불편한 일만 늘어나고

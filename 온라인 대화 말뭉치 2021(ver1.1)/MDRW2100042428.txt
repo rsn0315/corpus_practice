@@ -1,0 +1,75 @@
+# FILE DATA
+ID : MDRW2100042428
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 낼 백신 맞나?
+	  1차?
+P1 	: 오 좋겠다
+	  낼 바로 먹네
+P0 	: 먹을지안먹을진 낼 되어바야 알듯
+P0 	: 저녁은 먹었나
+P1 	: 응  ㅏㄹ탕ㅋ
+P1 	: 알탕
+P1 	: 저녁 야무지게 먹었어ㅋㅋ
+P1 	: 넌?
+P0 	: 난 고오추 참치랑 김이랑 그외반찬들 ㅋㅋ
+P1 	: ㅋㅋㄱ
+P1 	: 음식이 좋아
+P0 	: 아침 먹었나 ㅋㅋ
+P1 	: 지금ㅋ
+P1 	: 까망베르치즈케잌
+P1 	: 약콩씨리얼
+P1 	: 우유 커피ㅋ
+P1 	: 넌? 아침 먹?
+P0 	: 나도 지금 먹는중 ㅋㅋ
+P0 	: 열무김치에 비벼먹고있어 ㅋㅋ
+P1 	: 메뉴 다양ㅎㅎ맛있겠다ㅋ
+P0 	: ㅋㅋ 얼마전에 엄마가 열무김치 담아서
+P0 	: 넌 아침 맛난거 먹었넹
+P1 	: 오우 맛있겠어
+P1 	: 얼무국수 땡기네
+P1 	: 난 지금 점심 먹으러옴
+	  메뉴는 새알미역국ㅋ
+P0 	: 미역국 니가 좋아하는거네
+P0 	: 전에 미역국 좋아한다 들은거같아
+P1 	: 응 회사 미역국 맛있어
+	  진하고 짭쪼롬하게ㅎ
+P1 	: 미역국은 대용량 끓이는게 맛있는거 같더라
+P0 	: 오 그렇구나 난 예전 학교급식이나 병원 미역국 노맛이라 집꺼가 더 맛있는줄
+P1 	: 엇 진짜? 의외다
+	  난 회사 식당 미역국은 항상 맛있어서ㅋ
+P0 	: 난 미역국 식당꺼도 별로더라
+P0 	: 너무 짜

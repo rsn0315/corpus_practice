@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011212
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 애 안가질거면 결혼 굳이 할 필요가 있냐고 ㄷㄷ
+P0 	: 아 그 생각은 저도 했어요
+P0 	: 아이가 아니면 결혼이 필수가 아닌것 같아서
+P1 	: 음 근데 아플때 보호자는 가족만 해줄수 있잖아요 동거관계가 아니라 ㅎㅎ
+P0 	: 그런가요?
+P0 	: 동거인은 그런권한이 없나요?
+P0 	: 법적책임때문에 그런가?
+P1 	: 네ㅎ 흔히말하는 수술동의서는 사인못하죠
+P1 	: 또 상속문제도 있고
+P0 	: 그렇구나
+P1 	: 아 그러고보니 저는 아버지께서 베트남에 계세요ㅜ
+P1 	: 말했던가..
+P0 	: 왜요?
+P0 	: 아뇨
+P0 	: 그곳에서 일하시나요?
+P1 	: 베트남에서 일하고계세요
+P0 	: 그렇구나
+P1 	: 작은 한국 회사인데
+P0 	: 네
+P1 	: 코로나라서 걱정이 많네요

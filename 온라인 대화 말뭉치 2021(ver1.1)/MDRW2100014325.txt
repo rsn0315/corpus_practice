@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100014325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세용! 여행 가보고싶으신ㄱ곳 있으세요?
+P0 	: 네 있어요! 저는 터키랑 호주 가보고싶어요! &name2&은요??
+P1 	: 저는 동남아 휴향지 가보고 싶어요!
+P1 	: 터키랑 호주는 왜 가고 싶으세용?? 궁금해요!
+P0 	: 터키 축제많아서 꼭 하나 참가해보고싶어서요! 호주는 크리스마스때 가보고싶어요! 더운크리스마스 어떨지궁금해요 ㅋㅋ
+P1 	: 아 맞아요 호주는 계절이 반대죠?? 거기 산타할아버지는 반팔 입으시겠어요 ㅋㅋㅋ
+P1 	: 터키에 축제가 많은지 몰랐어요! 특히 어떤 축제 참여해보고 싶으세용??
+P0 	: 저 터키 튤립축제요~~
+P0 	: 그러니깐요 ㅋㅋ 살타할부지 수염붙이기 더울텐데ㅠ
+P1 	: 우와 터키도 튤립축제가 유명하군요!
+P1 	: ㄴㅔ덜란드만 알던 나 반성해..
+P0 	: 그쵸 ㅋㅋㅋ네덜란드가 원산지라 당연히 그럴수밖에요~ㅋㅋ
+P1 	: 국내라도 여행 가고 싶은데 요즘은 더 어디가기 무섭네용 ㅠㅠ
+P1 	: 국내는 어디가 좋으셨어요?
+P0 	: 국내 저는 여수 너무좋았어요!!!
+P1 	: 저도 마지막 여행이 여수였는데 좋았어요! ㅋㅋㅋ
+P1 	: 음식이 너무 맛났어요!
+P0 	: 오 가보셨구나!! 역시 음식 참 맛나죠!

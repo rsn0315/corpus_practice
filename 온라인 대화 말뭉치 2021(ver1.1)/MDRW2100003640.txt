@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100003640
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 요새핫한 할인소식있나요?
+P1 	: 역시즌상품 구매하는게  할인이 크더라구요
+P0 	: 저는 H패션몰 출첵포인트 모아서 저렴하게 구매하고있어요
+P1 	: 아 저도 그래야하는데 부지런하질못해서 아울렛만 살피네요ㅎㅎ
+P0 	: 하루에 육백원인데.. 하시징ㅜㅜ
+	   아울렛도 역시즌 패딩 싼거 많이나온거같더라구요
+P1 	: 네ㅎㅎ작년 겨울에 머입고 다녔는지 기억이 안나서ㅋㅋ패딩이랑 코트보고있어요ㅎㅎ
+P0 	: 어디가 좀 저렴하게나왔나요?
+P1 	: 맘에드는건 할인폭이 크지않고 그냥 그런건 가격이 저렴해서 고민중이이에요ㅎㅎ
+P0 	: 아항~ 저도 일요일날 쇼핑 좀 해야겠어요
+P1 	: 미니멀로 살아야하는데ㅋㅋ아이쇼핑하다보면 쇼핑이 좋아요
+P0 	: 할인이다뭐다~하면서 스스로 쇼핑할 이유를 만드는거같아요ㅋ

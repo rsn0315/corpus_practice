@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100030584
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P0 	: 어떤 영화나 음악을 좋아하시나요? 유튜브나 다른 것도 괜찮아요 ><
+P1 	: 안녕하세요
+P1 	: 디즈니 영화 좋아해요
+P0 	: 와 반가워라! 저도 디즈니 영화 좋아해요!
+P0 	: 어떤 영화 제일 좋아하세요?
+P1 	: 코코 재밌게봣어요 ㅎㅎ
+P0 	: 코코!
+P1 	: 노래 좋고 얘쁘고ㅜㅜ
+P0 	: 노래가 너무 좋구 그림이 예쁘죠!
+P0 	: 저승에서 노래 부는 거도 좋았고
+P0 	: 돌아온 뒤에 엔딩때 부른 노래도 좋아요
+P0 	: &name2&님께선 어떤 장면이나 노래가 좋으셨나요?
+P1 	: 저는 할머니한테 불러주는 노래가 가장 인상깊었어요
+P1 	: 눈물이 주르륵...
+P0 	: remember me 진짜 좋죠
+P0 	: 잔잔한 노래를 좋아하시나요?
+P1 	: 네 좋아해요
+P1 	: 웬만한 노래는 다 잘 듣는 편이지만요
+P0 	: 디즈니 영화는 아니지만
+P0 	: 트롤이라는 영화를 보신 적 있으신가요?
+P1 	: 앗 티비에서 하는거 잠깐봤눈데
+P1 	: 좋어하새요?
+P0 	: 거기 익숙한 팝송들도 많이 나오고
+P0 	: 무엇보다도!
+P0 	: true color 이란 노래를 부르는 장면이 상당히 기억에 남거든요
+P0 	: 본적이 없으시다면 추천이요!
+P1 	: 오오 한번 봐야겠내요!!
+P1 	: 노래도 한번 들어볼게요 추천 감사햐요 ㅎㅎ

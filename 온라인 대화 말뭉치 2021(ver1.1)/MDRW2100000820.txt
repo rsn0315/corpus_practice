@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000820
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달먹어요?
+P1 	: 아뇨 거의 배달은 안먹는거같아요 ㅎㅎ
+	  배달음식 드시나요?
+P0 	: 식당을 못 가니 거의 배달요
+P1 	: 아 어떤거 주로 배달시켜드세요?
+P0 	: 치킨요
+P1 	: 치킨 좋아하시는구나
+P0 	: 질리지 않죠
+P1 	: 저는 치킨시키면 혼자먹어야해서 다못먹으니 안먹게되더라구요ㅜㅜ
+P0 	: 에어프라이어 남은거 돌려도 되요
+P1 	: 그럼 매일먹어야하니 또 지겹고 ㅜㅜ 예전에 치킨남은걸로 며칠먹은이후로 질렸나봐요 ㅜㅜ
+P0 	: 다양한 치킨이 많아서 다 먹어보고 싶어요
+P1 	: 치킨좋아하는친구들은 다 그러드라구요 ㅎㅎ 전 거의 분기에 1번 먹을까말까... 혼자선 안먹고 친구들 만나면 먹는게 다예요 ㅎㅎ
+P0 	: 같이 먹는 게 젤 맛있긴 하죠

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100001436
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P0 	: 반갑습니다
+P1 	: 반갑습니다 ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되시나요?
+P0 	: 저는 게임과 주식입니다 ㅎㅎ
+P0 	: &name2&님은 취미가 어떻게 되시나요?
+P1 	: 저는 독서랑 영화감상을 주로 하는 것 같아요 ㅎㅎ
+P1 	: 오 주식..! 주식 요즘 핫하죠 ㅎㅎㅎ
+P0 	: 저도 영화  좋아하는데 최근에 재밌게 본 영화 있으신가요
+P0 	: 주식은 공모주 위주로 균등배분노리고 소액투자합니다
+P1 	: 저는 올해 초에 나왔던 왕가위 감독의 중경삼림 리마스터링을 본 게 마지막이었는데..! 그게 제 최애영화가 되었어요 ㅎㅎㅎ
+P1 	: 그렇군요! 주식의 세계란 너무 어렵네요 ㅠㅠ
+P1 	: &name1&님의 최애 영화는 무엇인가요?!
+P0 	: 오 중경삼림 저도 예전에 봤었는데 리마스터 되었군요
+P0 	: 저는 지브리스튜디오의 애니메이션 영화를 좋아해요
+P0 	: 원령공주와 센과 치히로의 행방불명을 재밌게 봤구요
+P0 	: 최근에 본 영화로는 범죄와의전쟁이 재밌었던거 같아요
+P1 	: 맞아요 지브리 영화는 다 재밌고 감동적인 것 같아요 ㅠㅠ
+P1 	: 그렇군요 범죄와의 전쟁..! 이거는
+P1 	: vod로 보신 건가요?ㅎㅎ
+P0 	: 아니요 ㅎㅎ 케이블tv로 봤어요 연휴때 ocn채널에서 해주더라구요
+P0 	: 케이블에서도 가끔 재밌는 영화를 방영해주는거 같아요
+P1 	: 오 ㅎㅎ 저도 연휴에 케이블로 영화 한 편 봐야겠어요..!

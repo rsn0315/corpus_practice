@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100019868
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P0 	: &name2&님 오늘 점심에 뭐 드셨어요?
+P1 	: 오늘 점심에 월남쌈 먹었어# 티끌님은?
+P0 	: 저는 된장찌개를 먹었답니다
+P0 	: 월남쌈 맛있게 드셨겠어요
+P0 	: 쌀국수도 드셨나요?
+P1 	: 맛있었겠네요 네에~ 아주 맛있었습니다
+P0 	: ㅋㅋ 맛있게 드셨다니 다행이넹ㅅ
+P1 	: 아니요 월남쌈이 싸져서 오는거여서 라면이랑 먹었습니다
+P1 	: ㅋㅋㅋㅋㅋㅋ
+P0 	: 저녁은 뭐 드셨어요?
+P1 	: 저녁엔 들기름에 저염 명란젓을 비벼먹었습니다 &name1&님은요ㅡ
+P0 	: 오 명란젓하니까 반갑네요
+P0 	: 저는 된장찌개를 먹었으나 간식으로 명란 바게뜨를 해먹었어요
+P1 	: 오 명란바게트는 어떻게 만드나요
+P0 	: 썰린 바게트를 삽니다 버터와 명란을 쉐킷 해줍니다
+P0 	: 듬성듬성 발라주세요
+P0 	: 에어프라이어에 돌리면 꺄
+P1 	: 아하 에어프라이어에 하면 되는군요
+P1 	: 에어프라이어가 요리하기 편한것같아요
+P1 	: 망가져서 안사고있는데 조만간 하나 장만해야겠네요
+P0 	: 에어프라이어 없으면 우리집은 생선도 못먹어요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 오븐겸용을 사세요
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 그러는게 좋을것 같아요

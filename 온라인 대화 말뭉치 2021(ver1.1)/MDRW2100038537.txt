@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100038537
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심드셨나요
+P1 	: 네 먹었어요ㅎㅎ
+P0 	: 머드셧어요
+P1 	: 김치볶음밥에 반숙계란 올려진거 먹었어요
+P0 	: 반숙계란 ! 직접 삶아서용 ?
+P1 	: 아 반숙 계란 후라이요ㅋㅋ
+P0 	: 아하! 맛있었겟네용 볶음밥 직접 ?
+P0 	: 냉동 ?
+P1 	: 식당꺼 포장했어요
+P1 	: 계란후라이 반숙 잘드세요?
+P0 	: 아항
+P0 	: 네내 그럼요
+P0 	: 조아합니다..
+P0 	: 간식음 안드셨나요
+P1 	: 간식은 원래 잘 안먹어요ㅎ
+P1 	: &name1&님은 뭐 드셨나요?
+P0 	: 저요 쭈꾸미용
+P0 	: 냉동 ㅎㅎ
+P0 	: 하남쭈꾸미 맛잇
+P1 	: 하남 쭈꾸미 많이 들어봤어요
+P1 	: 많이들 사먹던데
+P0 	: 넹 저 짱조아함..
+P0 	: 매운거드세요?
+P1 	: 하남 쭈꾸미가 다른 쭈꾸미에 비해 특별한게 있나요?

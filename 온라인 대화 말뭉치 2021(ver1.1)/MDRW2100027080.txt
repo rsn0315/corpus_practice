@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&은 좋아하는 계절 있나요?
+P1 	: 저는 딱 이맘때요
+P1 	: 선선하고 좋죠! &name1&은요?
+P0 	: 그렇군요~ 저도 가을 좋아해요
+P0 	: 단풍을 좋아하거든요.. 아직 단풍철은 아니라 좀 기다려야해요
+P1 	: 아!! 산에도 가시겠어요
+P1 	: 단풍 구경~~
+P0 	: 네.. 산도 자주 갔었는데 작년부터는 못가고 있어서 아쉽네요
+P1 	: 등산 멋있네요ㅎㅎ봄에도 좋고 가을에도 좋고
+P1 	: 등산도 코시국 영향을 받나요?
+P0 	: 심리적으로 사람들을 마주치고 싶지 않아서요
+P1 	: 아... 그렇군요 제가 괜한 말을 했다면 죄송해요
+P0 	: 아니에요.. 이게 사람마다 기준이 달라서요..ㅎㅎㅎ
+P0 	: 저는 백신 2차까지 다 맞고 나서도 마스크 쓰고 다닐 거거든요
+P0 	: 똑똑똑~ 계신가요?
+P1 	: 있어요 ㅠ 제가 답장을 안했었네요
+P1 	: 오늘 날씨 좋죠?
+P0 	: 네 어제부터 날씨가 너무 좋아서 기분도 좋네요^^
+P1 	: ㅎㅎ이대로만 계속 됐으면 좋겠어요
+P1 	: 더 추워지지 말고ㅠ
+P0 	: 저도 겨울 오기전 가을을 한껏 즐기고 싶네요

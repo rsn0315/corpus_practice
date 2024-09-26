@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012418
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁은 뭐드셨나요?
+P0 	: 콩나물국 해서 먹었어요^^
+P1 	: 오~ 콩나물국 하면 맑게 드세요?
+P0 	: 네~오늘은 멸치육수를 진하게 냈더니 국물이 맛있더라고요~소금간만 쪼끔하고 먹었어요~
+P1 	: 와:  맑게드셨네요" 저희집은 무조건 얼큰
+P1 	: 으로ㅜㅋㅋ
+P0 	: 아~얼큰으로 먹으려면 고추가루만 넣으면 되나요?
+P1 	: 네ㅎㅎ 고.추도 조끔
+P0 	: 아~~그렇게 하면 얼큰콩나물국이 되는군요!
+P1 	: 국에는 간은 거의 액젓?? 으로 맞추긴 해요
+P0 	: 아~멸치액젓이요?
+P1 	: 네~ ㅋㅋ
+P0 	: 다음에는 얼큰콩나물국으로 해먹어야 겠어요~콩나물이 반이 남았거든요
+P1 	: 콩나물밥도. 좋겠어요~ 국두번먹으면 질리잖아요
+P1 	: 저희집 식구들은 같은국 연달아주면.. 싫어하더라구요
+P0 	: 그럼 다음번에는 콩나물국밥으로 해먹어볼게요^^

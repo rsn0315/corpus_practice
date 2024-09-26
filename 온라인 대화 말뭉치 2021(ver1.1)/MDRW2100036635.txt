@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036635
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 브로콜리를 원래 좋아하지 않아 따로 넣지는 않아요
+P0 	: 그럼 카레에 어떤 재료 넣어드세요?
+P0 	: 전 브로콜리 좋아해서 많이 넣거든요ㅎㅎ
+P1 	: 보통 당근 감자 햄 양파 요렇게 주로 넣어요ㅎㅎ
+P0 	: 아하 카레하실때 작은 초콜릿 조각 하나 넣어서 만들어보세요
+P0 	: 초콜릿만은 전혀 안나면서도 카레 맛이 깊어져요
+P1 	: 오 그래요?
+	  초콜릿과 카레는 어울리지 않는다고 생각했는데, 카레맛만 깊어지게 해준다니 신기하네요!
+P0 	: 저도 처음엔 반신반의했는데 정말 맛있더라구요ㅎㅎ 부드러워진달까요?
+P1 	: 다음번에 카레만들때 시도해봐야겠어요
+P0 	: 커피는 즐겨드시나요?
+P1 	: 네 커피 좋아해서 자주 마셔요
+P0 	: 오 아메리카노 좋아하세요? 아니면 라떼?
+P0 	: 전 커피를 잘 못마시지만 커피향을 좋아해요
+P0 	: 특히 모카향 좋아합니다
+P1 	: 전 아메리카노 좋아해요
+P0 	: 달콤한 디저트랑 잘 어울리는 커피네요ㅎㅎ
+P1 	: 전 커피원두 본연의 향이 좋아요
+P1 	: 네 달달한 디저트와 함께라면 최고죠
+P0 	: 아~ 원두의 향! 카페가면 나는 그 향 향긋하더라구요

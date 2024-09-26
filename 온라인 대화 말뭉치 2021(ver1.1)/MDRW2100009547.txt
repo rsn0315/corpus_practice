@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009547
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요?
+P1 	: 좋아하지는 않아요 돈이 없어서 그런가봐요 ㅎㅎ
+P1 	: 쇼핑 좋아하세요?
+P0 	: 저는 생필품 싸게 사고 그러는거 좋아해요~ 저도 돈이 없어서 ㅋㅋㅋ
+P1 	: 아하 그러시군요 혹시 홈플러스 이용하세요?
+P1 	: 이용안한 사람 대상으로 20%쿠폰 주더라구요
+P0 	: 코로나 이후로 대형마트는 잘 안가게 되요ㅠㅠ
+P1 	: 네
+P0 	: 배달도 막 4만원이상 그렇게 되니 잘 안사게 되더라구요
+P1 	: 아 저도 그래요
+P1 	: 그 상한액이 약간 좀 안맞는거같아요
+P0 	: 그래서 쿠팡을 자주 이용하져
+P1 	: 아하 네 ㅎㅎ 쿠팡 좋은가봐요
+P0 	: 쿠팡와우 회원해놓으면 금액제한 없이 와우상품은 무배라서요
+P1 	: 네
+P0 	: 애들이 있으니급하게 뭘 사야할때 좋아요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002839
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달해요?
+P0 	: 배달해요?
+P1 	: 배달음식 잘 안먹어요
+P1 	: 자주 이용하세요?
+P0 	: 네
+P1 	: 어떤거 자주드세요?
+P0 	: 치킨이요
+P1 	: 아 치킨은 사랑이죠 ㅎㅎ
+P0 	: 다리좋아요
+P1 	: 요즘 GS25 쏜살치킨도 핫하던데 드셔보셨어요?
+P0 	: 아 그래요?
+P1 	: 네 싸기도하고 맛도 좋데요
+P0 	: 먹어봐야겠네요
+P1 	: 할인율좋을때가 있나봐요 반값에 드시기도 하더라구요
+P0 	: 오오

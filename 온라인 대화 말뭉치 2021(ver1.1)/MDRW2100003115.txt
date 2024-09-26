@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003115
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 여행가보셨어요?
+P1 	: 최근은아니고 4월에 제주도 다녀왔어요
+P0 	: 오 너무좋아해요 제주도!!
+P1 	: 네 코로나로 힘드신분들께 면목없지만ㅜ다녀왔네요
+P1 	: 제주도 어디좋아하세요?
+P0 	: 표선 해수욕장이  최애에요!!  웨딩사진도 거기서 찍었어요!!
+P1 	: 어머 저도 표선해수욕장 다녀왔어요!이럴수가ㅎㅎ
+P1 	: 물도 깊지않고 아기 모래놀이 하기 좋더라구요
+P0 	: 바다색깔이 너무 예뻐서 평생 남기고싶었어요!!
+P1 	: 가장예쁜 시기에 멋진곳에서 사진 남기셨네요^^
+P0 	: 하지만 안본지 오래됐네요^^ㅋㅋㅋ 생각난김에 한번 펼쳐봐야겠어요
+P1 	: 네 신혼여행은 어디로 가셨어요?
+P0 	: 태국으로 갔어요!
+P1 	: 치앙마이 가셨나요?
+P1 	: 아 코사무이 많이가는거같더라구요
+P0 	: 맞아요 코사무이로 갔어요!
+P1 	: 네 친한언니도 거기로갔어서 들어봤네요

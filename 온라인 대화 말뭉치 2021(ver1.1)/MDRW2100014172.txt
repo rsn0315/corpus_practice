@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100014172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 음식좋아하세요?
+P0 	: 어떤 음식좋아하시나요?
+P1 	: 요즘에는 쭈꾸미볶음 자주먹어요
+P0 	: 매운거잘드시나요?
+P1 	: 아니요 맵찔이인데 숙주나물 많이넣고 마요네즈 찍어먹고 샐러드하고 먹어요
+P1 	: 어떤음식좋아하세요?
+P1 	: 한식 양식 중식?  면류?  고기?
+P0 	: 저는 연어회가 지금 먹고싶어요
+P1 	: ㅎㅎㅎ  연어회좋죠
+P0 	: 한식은 다좋아요
+P1 	: 매운거 잘 드세요?
+P0 	: 저는좋아해요! 떡볶이 카레 이런거 제일 맵게먹는편이에요
+P1 	: 오
+P1 	: 원래 매운거 잘드셨어요?
+P1 	: 아니면 자주 먹음 더 잘먹을수있나요?
+P1 	: 저는 중간맛으로먹어도 맵거든요ㅋㅋ
+P0 	: 자주먹으면 그렇게 되더라구요 ㅎㅎㅎ가족들이 매운걸좋아해서
+P1 	: 그럼 더 시도해봐야겠어요!
+P1 	: 오늘저녁은 뭐드세요?
+P0 	: 오늘저녁엔 집에서 김치찌개를먹으려구요!
+P0 	: &name2&은요?
+P1 	: 저는 알밥 시켜먹을려구요
+P1 	: 알밥이 먹고싶어졌어요
+P0 	: 알밥 맛있죠
+P0 	: 돌솥알밥!
+P1 	: 김치찌개도 끌리네요
+P1 	: 김기루넣어서 먹음 맛나는데
+P1 	: 김가루
+P0 	: 맛잘알!! 맛있는 식사되세요:)

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 키우고 싶은 동물이 있나요
+P0 	: 너구리를 키우고 싶어요
+P1 	: 왜 키우고 싶어요
+P0 	: 너구리는 좀 특이하죠
+P1 	: 꼬리가 무척 귀여워요
+P0 	: 무늬도 정말 특이하고 사랑스러워요
+P1 	: 저는 원숭이를 키우고 싶어요
+P0 	: 원숭이는 손이 많이 갈 거 같은데요
+P1 	: 장난꾸러기 이지요 원숭이는
+P0 	: 원숭이는 좀 사람 같아요
+P1 	: 생긴 것도 사람이랑 비슷하죠
+P0 	: 그런데 키울 수 있나요
+P1 	: 한국에서는 안 될 거예요

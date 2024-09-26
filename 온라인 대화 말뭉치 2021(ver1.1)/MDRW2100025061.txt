@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025061
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화좋아하세요?
+P1 	: 네 좋아해요! 어떤 장르 좋아하세요?
+P0 	: 류코요
+P0 	: 로코요
+P1 	: 저도 로코나 뮤지컬영화 좋아해요!
+P0 	: 멜로가 짱이뵤2
+P1 	: 추천영화 있으세요?
+P0 	: 첫키스만50번째요
+P1 	: 아 그거 기억상실이죠??
+P1 	: 전 어바웃타임좋아해요
+P0 	: 네.맞아요
+P1 	: 오에스티도 좋나요?
+P0 	: 네 감미로운목소리진짜좋다요
+P1 	: 들어봐야겠네요!
+P0 	: 강추요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012205
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이제 날이 선선해서 따뜻한 아메를 먹을수 있어요
+P1 	: 님은 얼죽아?
+P0 	: 어리고 젊을 땐 얼죽아였죠
+P0 	: 버틸 수 있는 한 버텨서 아이스 먹긴 합니다.
+P1 	: 왜 그렇게 슬프게 말하세요! 이가 시린건 아닐거잖아요
+P0 	: &name2&은 따뜻한 걸 더 좋아하시나요?
+P0 	: 뼈가 시려요...
+P0 	: 이는... 찬 거 먹으면 어릴 때부터 시려서 괴로워했습니다.
+P1 	: 전 아이스음료를 더 좋아하는데. 아이스음료는 빨때로 호로록 먹으면 원샷해버려서.
+P1 	: 따뜻한걸 천천히 먹어요
+P0 	: 전 음료를 오래 두고 마셔서 얼음까지 다 녹여먹어요ㅋ
+P0 	: 그래서 아이스든 핫이든 마지막은 미지근...
+P1 	: 그럼 묽어지잖아요
+P0 	: 넹ㅋㅋㅋㅋ
+P1 	: 좀 밍밍하잖아요 맛없잖아요
+P0 	: 천천히 먹다보면 밍밍한 것도 적응돼서 괜찮아요ㅋㅋㅋ
+P1 	: 그럼 에스프레소 같은건 안드시나요?
+P0 	: 아메만 먹습니다!
+P0 	: 작은 잔에 나오는 에쏘 말씀하시는 거죠?
+P0 	: 시켜서 물을 타먹을 순 있겠네요.
+P1 	: 네네 에쏘요
+P0 	: 집에 커피머신이 있는데
+P0 	: 에쏘로 뽑아서 물 타먹어요 호호호
+P1 	: 캡슐커피인가요?
+P0 	: 넵 일리 캡슐 머신입니당
+P0 	: &name2&은 집에서 커피드실 때 주로 멀로 드세요?
+P0 	: 한국인의 소울 맥모골?

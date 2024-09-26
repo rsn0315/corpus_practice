@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100041191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 그곳은 어떤 날씨였나요?
+P1 	: 오늘은 하루종일 시원했어요
+P1 	: 오후에 잠깐 덥긴 했지만요!
+P1 	: &name1&네는요?
+P0 	: 여기는 아침부터 낮에는 맑고 화창하다 오후 늦어지며 흐려졌었어요
+P1 	: 아까 하늘보니까 구름이 끼긴 했더라고요
+P1 	: 또 비가 종일 내리는 걸까요
+P0 	: 내일 새벽-아침과 내일모레 비 소식이 있긴 하더라구요ㅠㅠ
+P1 	: 비가 자주내리네요... 오후에 내리면 리디 비포인트라도 받을 텐데 새벽아침이라니ㅠ
+P0 	: 네 요즘 비가 잦아요..ㅠㅠ
+	  지역마다 비내리는 시간과 요일은 조금씩 차이가 있을 것 같아요
+P1 	: 그치요 오늘은 어떠신가요?
+P0 	: 오늘 지금은 맑은편이에요
+P1 	: 제쪽은 낮에는 구름끼더니 지금은 비가 주륵주륵 내리네요
+P0 	: 여기도 지금은 비가 내려요ㅜㅜ
+	  중간중간 많이 쏟아지기도 하구요
+P1 	: 수요일까지 비내린다고 하더라구요. 외출하실 때 옷 따뜻하게 입고 나가셔요 ㅠㅠ
+P0 	: 네 BN님도 우산 꼭 챙기시고, 옷 따뜻하게 입고 외출하셔요!

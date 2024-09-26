@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046594
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211029
+topic : 기타 사회 생활 및 활동
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장인이신가요?
+P0 	: 아니요
+P0 	: 직장 없습니다.
+P1 	: 그렇군요. 뭐하고 계세요~?
+P0 	: 왜요?
+P1 	: 애매한 시간이라 궁금해서요!
+P0 	: 직장 없는 사람한테는 애매한 시간이라는게 없습니다.
+P1 	: 취미나 좋아하는 운동같은 거 있으세요?!
+P0 	: 네 있습니다.
+P1 	: 뭔가요?
+P0 	: 명상하며 달리는걸 좋아합니다.
+P1 	: 명상  + 달리기라.. 달리기 오래하는 꿀 팁 있을까요?
+P0 	: 꿀팁은 잘 모르겠고 꾸준히 하면 늡니다.
+P1 	: 그렇군요! 참고해서 저도 런닝 해볼게요 ㅎㅎ

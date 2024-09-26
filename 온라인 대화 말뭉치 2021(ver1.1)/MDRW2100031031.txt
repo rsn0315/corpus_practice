@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100031031
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 배달음식 좋아하세요?
+P0 	: 좋아해요 점심 뭐드셨어요?
+P1 	: 전 오늘 출근해서 일하다보니
+P1 	: 아직 못먹었어요
+P1 	: 주로 뭐 배달해드세요?
+P0 	: 주말인데 출근ㅜㅜ
+P0 	: 저는 치킨이요
+P0 	: &name2&님은요?
+P1 	: 저는 요즘 피자자주먹어요
+P1 	: 근데 단골인데
+P1 	: 배달을 엉망진창으로 해서
+P0 	: 네네
+P1 	: 말했는데도 개선이안되네요
+P1 	: 말하는 날만괜찮고
+P0 	: 헉 피자가 엉망으로 왔어요?
+P1 	: 말 안하면 또 한쪽으로쏠려
+P1 	: 뭉개져있어요
+P1 	: 넵 매번 왜그러는지
+P0 	: 배달하시는분이 막하시나보다ㅜ
+P1 	: 가게엔 불만이없는데
+P1 	: 배달기사가 엉망이에요
+P0 	: 피자 어디꺼 주로 드세요?
+P1 	: 저는 피자스쿨 먹다가
+P1 	: 최근에 엘리펀트피자라고
+P1 	: 18인치 피자있는데 맛있고 저렴해요
+P0 	: 처음 들어봐요

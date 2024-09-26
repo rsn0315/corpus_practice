@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008789
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 
+P0 	: 지금 가족이랑 살고 계시나요?
+P1 	: 넹 님은요?
+P0 	: 저는 엄마랑 둘이 살고 있어용!
+P1 	: 아항 저는 엄마랑 남편이랑요 ㅎㅎ
+P0 	: 저도 결혼해서 엄마 모시고 살고싶어요!
+P1 	: 미래남편분도 이해해주실거예요 !
+P0 	: 그러면 좋겠네요ㅜㅜ
+P0 	: 집안일은 보통 누가하세요?
+P1 	: 저랑 남편이랑 분담해서요!
+P0 	: 이상적인 가족이네요ㅎㅎ
+P0 	: 아이도 있으시나요?
+P1 	: 아직이용 ㅎㅎ
+P0 	: 결혼하신지는 얼마나 되셨어요?ㅎㅎ
+P1 	: 아직 1년도 채 안됐어용 ㅎㅎ
+P1 	: 몇살에 결혼하고싶으세요?
+P0 	: 저는 30살때 하고싶어요ㅎㅎ

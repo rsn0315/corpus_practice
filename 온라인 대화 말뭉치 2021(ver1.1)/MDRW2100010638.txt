@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동호회 하시나요?
+P0 	: 아니요 딱히 하는 건 없어요
+P0 	: &name2&은요?
+P1 	: 저두요ㅋㅋ해볼까 하는건 있어요
+P0 	: 오 어떤 건가요?
+P1 	: 연기...요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 와 진짜 멋있어요
+P0 	: 연극 같은 건가요?
+P1 	: 연극은 아니고 카메라로 제작하는거요!
+P0 	: 아 어떤 느낌인지 알 거 같아요!
+P0 	: 재밌을 거 같아요
+P0 	: 원래 연기 좋아하신 건가요?
+P1 	: 아뇨 그건 아닌데 갑자기 관심가더라고요ㅋㅋ
+P1 	: &name1&은요???
+P0 	: 최근에 등산에 좀 관심이 가서
+P0 	: 나중에 등산 동호회 같은 거 한번 찾아볼까 생각중이에요!
+P1 	: 등산 좋네요~~
+P1 	: 근처에 산이 있나요??
+P0 	: 북한산이 좀 가까워요
+P1 	: 근처 지역에 동호회 있나 알아보셔도 좋겠네요~~~

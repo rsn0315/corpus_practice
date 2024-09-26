@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017522
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P0 	: 혹시 알바해보신적 잇으신가요?
+P1 	: 네! 요즘도 알바 하고있어요
+P0 	: 오 어떤알바하시나요?
+P1 	: 호프집 서빙알바해요!
+P0 	: 아하! 힘들진않으세요?
+P1 	: 익숙해져서 괜찮습니다!
+P1 	: &name1&은 알바 하시나요?
+P0 	: 그렇구나! 저도 알바해요~
+P1 	: 오 무슨알바하세요?
+P0 	: 저는 배움터 서포터즈 알바해요! 온라인강의해주시는 강사님들 도우미역할이에요 ㅎㅎ
+P1 	: 우와 힘들지는 않으세요??
+P0 	: 네! 강사님들이 워낙잘해주셔서 수월해요~

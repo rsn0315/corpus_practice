@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003239
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 미용에 관심 있으세요?
+P0 	: 요새는 좀 덜한 거 같아요
+P0 	: 예전엔 화장도 시간 걸려 하고 그랬는데 마스크를 쓰다보니?
+P1 	: 마스크해도 눈화장이랑 다하시나요?
+P0 	: 아뇨 저 선크림이랑 눈썹만 그리고 다녀요
+P0 	: 가끔 하긴 하는데 화장하면 마스크에 묻어서 불편하더라구요
+P1 	: 맞아요 선크림 진짜 중요한것같아요!
+	  저는 지난주 속눈썹연장했는데 넘 편해요ㅎ
+P0 	: 오 연장 어떤가요? 전 속눈썹펌에 관심있어요ㅠㅠ
+P0 	: 속눈썹이 진짜 직모라서 가끔 눈을 찔러요
+P1 	: 우와 펌 꼭하세요! 진짜 직모분들 잘올라갈꺼에요!
+P1 	: 3만원? 하는듯
+P0 	: 알아봐야겠어요 진짜
+P0 	: 연장은 컬 종류가 많던데 맞죠?
+P1 	: 맞아요! 연장은 붙이는거라 관리도 중요해요
+	  눈비비면 ... 끝. ..ㅋㅋㅋㅋ
+P0 	: 헐 진짜요?
+P0 	: 저 눈 잘 비비는데 연장은 포기하겠습니다..
+P1 	: 펌부터 해보고 고민해보세요ㅎㅎ
+	  미용관리는 평생해야하는것같네여ㅜㅋ
+P0 	: 맞아요 연장도 한 번 하면 계속 하게 된다고 하더라구요?
+P1 	: 연예인들처럼은 아니지만 조금씩 예뻐지기 노력한답니다 ㅎㅎ

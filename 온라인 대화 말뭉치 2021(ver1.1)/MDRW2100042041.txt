@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100042041
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 눈수술 무섭다구요 다른 수술은 괜찮은데
+P1 	: 차라리 지방흡입 했으면 좋겠어요 ㅋ
+P0 	: 참나 알아서 잘 빼야지
+P1 	: 다이어트 귀찮구 힘들단말이에요 힝
+P0 	: 그래도 잘 운동해서 빼는게 몸에도 좋아 장기적으로
+P1 	: 그건 그렇긴 하지만 ㅠ
+P0 	: 라식도 안하고
+P1 	: 라식도 눈수술인데요 무섭다구요
+P0 	: 뭐가 무서워 잘되라고 하는건데
+P1 	: 엄마가 개어있을때 눈수술 안해서 그래요
+P1 	: 깨어있을때
+P0 	: 십년전부터 그얘기만 하더라
+P1 	: 십년전부터 계속 무서웠어서 그래요 ㅇㅅ ㅠ
+P0 	: 그래도 이뻐지려면 쌍커풀도 만들고 살도 빼고 하는게 좋아
+P1 	: 성형수술이 미용을 위해 변질된게 너무 짱나요
+P0 	: 원래 성형은 예뻐지려고 하는거잖아
+P1 	: 의료용 목적이면 괜찮은데 흑흑
+P1 	: 저같은 사람들한테도 강요하고 그러잖아요 슬퍼
+P1 	: 알아요
+P0 	: 너 위해서 얘기하는거 알지?
+P0 	: 엄마가 사랑해서 그래 억지로 하라는건 아니구
+P1 	: ㅠㅠ
+P0 	: 잘됐으면 좋겠으니까 하는 얘기야

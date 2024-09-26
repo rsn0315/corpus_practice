@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100006867
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 가을날씨에요
+P0 	: 이불을 여름이불을 빨아서 정리해야겠어요
+P1 	: 저두 밤엔 좀 쌀쌀해요
+P0 	: 너무 시원하고 좋지않나요
+P1 	: 에어건 아닌 바람좋죠
+P0 	: 에어컨 바람과 자연바람은 180도 달라요
+P1 	: 그러게요 그래서 밤마다 산책가요
+P0 	: 산책은 아침보다 밤이 좋더라구요 하루를 마감하는 기분
+P1 	: 점점걷기 좋아져요
+P0 	: 면역이 좋아지려면 겨울에도 걸어야해요
+P1 	: 겨울이 오면 건조해지죠
+P0 	: 여름은 너무 습하고요
+P1 	: 비가좀 오면 금새추워져요

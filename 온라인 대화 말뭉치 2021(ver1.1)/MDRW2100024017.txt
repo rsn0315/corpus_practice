@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100024017
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 막내가 간장계란밥 해달라고 해서 그거 해줬어.
+P1 	: 너는?
+P0 	: 나는 햄버거 먹었지~~
+P0 	: 어디 햄버거 먹었을까요?? 맞춰봐!
+P1 	: 롯데리아? 얼마전에 핫크리스피 버거 먹고 싶다고 했잖아.
+P0 	: ㅋㅋㅋ아니 오늘은 맥도날드 갔어! 감튀만 먹으려다 햄버거도 사왔지
+P1 	: 잘했네. 무슨 버거 먹었는데?
+P0 	: 스파이시 상하이 버거~ 오랜만에 먹으니까 맛있더라ㅋㅋ
+P1 	: 엄마도 맥모닝 먹고 싶다. 커피랑.
+P0 	: 주말에 사다줄게~ 아침에!
+P0 	: 햄버거랑 콜라도 같이 먹었는데 탄산이 너무 강했어ㅋㅋ
+P1 	: 오랜만에 먹으면 그렇게 느껴져. 막내는 계란밥에 버터를 넣어줬더니 너무 느끼하대.
+P0 	: 버터는 너무 많이 넣었나 보다. 김치랑 같이 먹으면 그나마 괜찮은데~ 지금은 다 먹었지?
+P1 	: 응 아까 다 먹었어. 다음엔 그렇게 먹으라고 해줘야겠네.
+P1 	: 지금은 키위 먹는 중.
+P0 	: 키위 맛있겠다~ 나도 과일 먹고 싶어!
+P1 	: 복숭아라도 사서 깎아 먹어.

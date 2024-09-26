@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035289
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 맞으셨나요
+P1 	: 네네 어제 2차 맞았어요
+P1 	: &name1&님은요
+P0 	: 괜찮으신가요? 전 돌아오는 수요일이예요
+P1 	: 오 곧이네요 저는 사둔약이 무색할 지경입니다
+P1 	: 일부러 집밖에 안나가고 많이 잤어요
+P0 	: 열은 안나시나요?
+P1 	: 네 멀쩡하네요 화이자 맞았어요
+P1 	: 팔이 좀 부은거 빼고요
+P0 	: 다행이네요 화이자 맞으셨나요?
+P1 	: 1차 아스트라제네카 2차 화이자요
+P0 	: 의료계에 계신가봐요?
+P1 	: 아니요 그냥 일찍신청했어요
+P0 	: 잘하셨네요~  제가 다니는 병원 간호사들은 1차 아제 2차 화이자 맞았는데 다들 괜찮게 지나갔어요
+P1 	: 네 교차접종 좋다더라구요 별일없었다니 다행이에요 &name1&님도 괜찮으실겁니당!
+P0 	: 교차가 더 예방률이 좋다던데요

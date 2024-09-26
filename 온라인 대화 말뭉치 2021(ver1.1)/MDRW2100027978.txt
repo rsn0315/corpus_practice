@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100027978
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 요즘 당기는 음식은 뭐야?
+P1 	: 요즘 고기가 너무 땡겨 체력이 부족한가봐
+P0 	: 체력 딸릴땐 고기지
+P1 	: 맞아 삼겹살 구워서 쌈싸먹고 싶다
+P1 	: 너는 당기는게 뭐야?
+P0 	: 나는 삼겹살에 김치 구워서 먹고싶어
+P1 	: 좋지좋지
+P0 	: 삼겹살에 된장찌개? 냉면?
+P1 	: 아 고민되네 된장찌개
+P0 	: 나는 비빔냉면이 좋더라
+P1 	: 삼겹살에 비빔면
+P1 	: 먹고싶다
+P0 	: 맞아 먹고싶어 지금 단것도 먹고싶어
+P1 	: 나는 와플 먹고 싶어
+P0 	: 와플에 아이스아메리카노 ㅠ

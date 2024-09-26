@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100021327
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅇㅇ 방금 주문했어
+P0 	: 몇 분 정도 걸린대?
+P1 	: 40분 걸린다고 써있긴 한데 더 빨리 올듯
+P0 	: ㅎㅎ 내가 가지러 갈 걸 그랬나
+P1 	: 직접 가지러 가도 가격은 똑같아
+P0 	: 엥? 배달비가 있는데?
+P1 	: 지마켓에서 배달 2천원 쿠폰 주거든~ 스마일페이도 되공 ㅎㅎ
+P0 	: 아.. 이래저래 그냥 배달이 낫겠네
+P1 	: 글치~ 괜히 기운 뺄 필요 없어
+P0 	: ㅎㅎ 그럼 난 기다리기만 하면 되는겨?
+P1 	: ㅇㅇ 맛있게 촵촵 먹기만 하면 돼
+P0 	: 아.. 생각하니 배고프다
+P1 	: 조금만 기다려 ㅎㅎ
+P1 	: 아 배불러 ㅎㅎ 엽기 떡볶이 너무 맛있다

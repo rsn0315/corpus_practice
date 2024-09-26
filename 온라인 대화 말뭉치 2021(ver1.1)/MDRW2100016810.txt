@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016810
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 반려동물 있으신가요?
+P1 	: 아뇨 없어요
+P0 	: 키우고 싶거나 좋아하는 동물 있으신가요?
+P1 	: 동물을 막 좋아하진않아서요
+P1 	: 동물 좋아하세요?
+P0 	: 넹 전 동물 좋아해요
+P0 	: 그럼 고양이 카페같은 곳은 잘 안가보셨겠네요
+P1 	: 네네 동물키우고싶으시겠어요
+P0 	: 어릴땐 무조건 키우고 싶었는데
+P0 	: 크니까 키우는게 쉬운 일이 아닌걸 알고
+P0 	: 그냥 귀여워만 하고 있어요...ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ길가다 고양이보거나 하면 넘 좋겠어여
+P0 	: 헋 그 순간 30분은 순삭이죠
+P1 	: ㅋㅋㅋㅋ고양이말고는 없어요? 좋아하는동물
+P0 	: 강아지도 정말 좋아해요
+P0 	: 도마뱀도 귀여우면 좋아해요 동물 거의다 좋아해서요ㅎㅎ
+P1 	: 오 신기해용 ㅎㅎ
+P0 	: 요즘은 앵무새가 흥미롭게 보여요
+P0 	: 유튜브 알고리즘으로 앵무새 키우는 유튜버를 봤는데 재밌더라구요

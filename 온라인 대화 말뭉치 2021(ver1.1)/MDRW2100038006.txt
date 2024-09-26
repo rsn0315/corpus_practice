@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100038006
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 소울푸드 있으세요?
+P1 	: 저는 떡볶이요 &name1&님은요?
+P0 	: 저는 피자 좋아해요
+P0 	: 지금 다이어트중인데 먹는거 이야기라도 실컷하고싶어요 ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ어떤 브랜드 피자 좋아하시나요?
+P0 	: 저는 피자라면 다좋아해요
+P0 	: 떡볶이도 좋아해요
+P0 	: 로제 떡볶이는 사랑이죠ㅜ
+P1 	: 로제 저 짱 좋아해요
+	  어떤 로제떡볶이 가장 좋아하시나요?
+P0 	: 전 배민에서 진짜 한동안 이틀에한번씩 로제시켜먹었어요 ㅋㅋ
+P0 	: 음 전 떡참이랑 신참 ㅋㅋ 좋았어요
+P1 	: 저희 주변에 신참있었는데 사라졌어요
+	  신참은 어떤 맛인가요?
+P0 	: 신참은 일단 저희동네는 5프로 포장할인을새줘서 ㅋㅋㅋ
+P0 	: 그리고 달고마 떡볶이 강추요
+P1 	: 그렇군요 신참 달고마떡볶이는 언젠가 먹어보고 싶었는데 사라져버렸어요
+P1 	: 일반 떡볶이와 어떻게 다른가요?
+P0 	: 일반떡볶이 위에 치즈 고구마 무스 조합이요 ㅋㅋ
+P0 	: 맛이 없을수가없어요 ㅋㅋㅋ
+P1 	: 5000원인가? 그정도 돈 내고 먹을만 한가요?
+P0 	: 네네 그정도 가치는 충분히있어요
+P0 	: 6천원인가 9천원인가 그랬던듯요
+P1 	: 신참 찾으면 꼭 먹어봐야겠네요

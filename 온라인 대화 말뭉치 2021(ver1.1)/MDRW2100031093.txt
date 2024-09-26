@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있어요?
+P1 	: 저는 다 잘먹긴하는데
+P1 	: 일식이나 한식좋아해요!
+P1 	: 밥을 좋아해서.. ㅋㅋㅋ
+P0 	: 그중에 특별이 좋아하는 메뉴가 있다면 뭐에요?
+P1 	: 음 초밥이나 회요!
+P0 	: 초밥이나 회는 싫어할 수가없죠!!
+P1 	: 좋아하시는 음식있으세요?
+P0 	: 저도 회 좋아해요
+P1 	: 오옹 혹시 그럼 오늘 저녁은 뭘 드실 계획이신가요?
+P0 	: 음 지금 고민중이에요ㅋㅋㅋㅋ
+P0 	: 님은 뭐 드실 계획이세용?
+P1 	: 저는 소고기굽고있어용ㅋㅋㅋㅋ
+P0 	: 오!!!  맛있겠어요!!
+P0 	: 무슨 부위 드세요?ㅋㅋㅋ
+P1 	: 채끝살이요!
+P1 	: 님도 아직 날 더운데 단백질보충 충분히하세용!
+P0 	: 와 저도 단백질 보충해야겠네요!
+P0 	: 아직까진 종종 날이 더워서 그런지 입맛이 없더라고요ㅠ

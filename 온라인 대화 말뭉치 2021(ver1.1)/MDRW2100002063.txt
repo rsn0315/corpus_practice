@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002063
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요
+P1 	: 네! 여행 좋아해요
+P1 	: 코로나끝나면 당장해야죠
+P1 	: 거리두기 4단계 연장이라는 뉴스속보ㅠㅠ
+P0 	: 예전 여행은 어디가셨나요(?)
+P1 	: 부산놀러갔어요
+P0 	: 부산 해운대(?)
+P1 	: 네맞아요!!
+P1 	: 근처에 아쿠아리움도 놀러갔죠
+P0 	: 아 ~ 맞다 거기 아쿠아리움저도 한번가봤네요
+P1 	: 맞아요! 거기 좋아요
+P0 	: 부산은 꼼장어
+P1 	: 부산은 바다죠!!
+P1 	: 꼼장어먹으면서 바다구경
+P0 	: 오~~ 부산바다 가고싶다
+P1 	: 부산바다 좋죠!!!
+P1 	: 해운대놀러가봤어요
+P1 	: 그옆에 아쿠아리움도있죠
+P0 	: 예전 머드축제가봤어요

@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100012908
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+P0 	: 책 좋아하세요?
+P1 	: 예전에는 시간날때
+	  보는 편이었는데
+	  요샌 그 시간을
+	  넷플 보는데 보내고 있어요
+P1 	: &name1&님은
+	  좋아하시나요?
+P0 	: 저도 요즘은 이북 로판만 봐요
+P0 	: &name2&님은 혹시 이북이나 웹소설은 안보세요?
+P1 	: 눈이 너무 피로해서 
+	  못보겠더라구요ㅠㅋ
+P1 	: 저는 걍 책으로 봐요
+P0 	: 그쵸 눈이 시큰하죠 ㅠㅠ종이책이 좋은데 안펴지네요
+P1 	: 그래도 이북으로라도 보시네요 
+P1 	: 요즘은 어떤 책 읽고 계세요?
+P0 	: 전 이제 종이책은 영어단어집만 봤네요 ㅎㅎ근래 뭐 읽으셨어요?
+P1 	: 앗 영단어집ㅋㅋ
+P1 	: 저는 육아관련 서적이요ㅋㅋ
+P0 	: 오 지적인 육아{emoji:♡}
+	  전 잡지 부록 좋은거(먹을거)나오면 사야겠어요.
+P1 	: 아 저도 부록 꿀정보 같은 거 얻음
+	  살때 있었는데ㅋㅋ
+P1 	: 주로 어디께 꿀템부록이 많나요?ㅋㅋ
+P0 	: 예전만큼 잡지부록이 은혜롭진 않더라구요
+P0 	: 예전에 랑콤 미라클향수도 줬는데 ㅠ이젠 그런건 없나봐요
+P1 	: 와 대박이네요 그건 진짜 혜자템ㅋㅋ
+P0 	: 이밥차 인절미호떡부록 사려고요
+P0 	: 요즘 그게 젤 괜찮다고해서요
+P1 	: 이밥차 카페도 가입해뒀는데
+	  그런 부록은 몰랐네요ㅋ
+P1 	: 검색들어갑니다ㅋㅋ

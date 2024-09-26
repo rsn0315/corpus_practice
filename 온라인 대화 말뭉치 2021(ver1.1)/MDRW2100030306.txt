@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100030306
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 요즘 날씨가 많이 시원해 진 것 같아요 :)
+P1 	: 안녕하세요:)
+P1 	: 이제 곧 가을이 올 거 같아요
+P0 	: 얼마 전까지 엄청 더웠던 것 같은데 벌써 가을이 온다는게 믿겨지지 않아요 ㅠ
+P1 	: 그러게요:)
+P1 	: 끝나지 않을것만 같던
+	  올 여름 더위도 안뇽이네요
+P0 	: 맞아요! 여름이 빨리 지나가기만 기다렸는데 겨울을 생각하니 살짝 걱정이 되기도 해요
+P0 	: 어떤 계절을 좋아하시나요?
+P1 	: 저는 가을을 좋아해요{emoji:♡}
+P1 	: &name1&님은요?
+P0 	: 저도 가을을 사랑해요{emoji:♡}{emoji:♡}
+P0 	: 가을이 되면 과일이 많아서 행복한 계절이거든요 ㅎㅎ
+P1 	: 근데 가을 너무 짧아서 슬퍼요ㅠ
+P0 	: &name2&님께서는 왜 가을을 좋아하시나요??
+P1 	: 저는 가을하늘 가을바람
+P0 	: 맞아요 ㅠ 최근 들어서 가을이 많이 짧아져서 많이 아쉬워요 ㅠ
+P1 	: 센치해지는 내 모습까지도 다 좋아여ㅋㅋ
+P0 	: 요새 하늘을 보신적이 있으신가요?
+P0 	: 문득 하늘을 봤더니 너무 예쁘더라구요
+P1 	: 네:) 저도 봤어요
+P1 	: 이제 가을하늘 같아요

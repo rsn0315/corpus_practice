@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100032498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 시간이면 이미 저녁 드셨겠죠
+P1 	: 저녁 뭐 드셨나요?
+P0 	: 완탕면이랑 볶음밥이여~
+P1 	: 중국음식 드셨군요 완탕면은 뭔가요?!
+P0 	: 고기나 새우볼인데
+P0 	: 홍콩음식이예여
+P1 	: 그렇군요 ㅎㅎ 전 샐러드랑 쌀식빵 먹었어요
+P0 	: 오 드레싱 없이요?
+P1 	: 아뇨 발사믹 드레싱이랑요
+P0 	: 오 좋쵸
+P0 	: 샐러드 채소 사셨어요?
+P1 	: 전문집에서 포장이요 ㅎㅎ
+P0 	: 오 전문집이 근처시군여
+P0 	: 전 루꼴이 조아해여
+P1 	: 오 요리에 자주 넣어 드시나요?
+P0 	: 샐러드로 토마토랑 간단하게 좋아해요

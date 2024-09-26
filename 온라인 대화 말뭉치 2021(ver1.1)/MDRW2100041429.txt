@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100041429
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 더 추워지기 전에 빨리 가서 테이크아웃해서 슬슬 먹어야 해요
+P1 	: 대신동에 커피 완전 맛있게 내리는 드립 집 있어요
+P0 	: 얼른 먹어보고 싶다
+P1 	: 그리고 대연동에도 커피볶는집 있는데 거기도 드립 진짜 맛이 있어요
+P0 	: 샘 다음 주 토요일에 뭐해요
+P1 	: 드립 커피 빨리 먹고 싶다
+P0 	: 우리 커피 마시러 안 갈래요
+P1 	: 갈래요 언제 갈까요
+P0 	: 전 주말에 한가해요
+P0 	: 이제 거리 두기 삼단계라
+P1 	: 그런데 6명이면 커피 많이 마시면 참 며칠 동안 못 자는 거 아닌가요 걱정되는데
+P0 	: 조금만 조심하면 되지 않을까요
+P1 	: 여섯 명이 아니라 &name1& 님
+P0 	: 토요일날 마시면 괜찮아요
+P0 	: 일요일날은 앉아도 되잖아요
+P0 	: 덕분에 토요일 저녁은 책을 많이 볼 수 있겠네요
+P1 	: 그러면 이번 주 말고 다음 주 토요일에 갈래요 왜냐면 이번 주 토요일에 n.9 뭐가 2차 110 맞을시거든요
+P0 	: 이번 주 토요일에 100 십 맞으세요
+P1 	: 커피투어 갑시다
+P1 	: 우리 고모가 맞으세요
+P0 	: 벌써 이 차 맞을 시기에요
+P1 	: 혹시나 싶어서요
+P0 	: 아니요 그럴 때는 고모 옆에 꼭 있으셔야 돼요
+P1 	: 다음 주에 커피 투어 갑시다
+P0 	: 19일 땅땅땅
+P1 	: 이번 주 말고 다음 주 토요일
+P0 	: 식구 이 괜찮아요
+P1 	: 땅땅땅
+P0 	: 19일
+P0 	: 일차는 커피를 막읍시다
+P0 	: 이 차는 대신동 맛집으로 가요

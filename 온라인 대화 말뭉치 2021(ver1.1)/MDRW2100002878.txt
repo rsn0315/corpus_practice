@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002878
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 오늘은 금요일이라 좀 한가해요
+P0 	: 칼퇴하겠네요
+P1 	: 네 금욜은 보통 칼퇴해욬
+P1 	: 칼퇴하시나요?
+P0 	: 아니여
+P1 	: 불금인데 야근을 ㅜㅜ
+P0 	: 힘들어요
+P1 	: 그러게요 ㅠ 내일은 쉬시나요??
+P0 	: 네
+P1 	: 다행이네요
+P0 	: 주말은 휴무라 ㅎ
+P0 	: 식사는요?
+P1 	: 좀전에 했어요   저녁드셨어요?
+P0 	: 오늘 쉬는데 출근했어요 갑자기
+P1 	: 이런... 거기는 오늘 비 많이 안왔어요?
+P0 	: 왔어요

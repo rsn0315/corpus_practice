@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100032478
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 어플에서 제일 최근에 주문한 건 뭐야?
+P1 	: 점심으로 먹었어 중국집
+P0 	: 난 명랑핫도그 ㅋㅋ
+P1 	: 요즘 다 배달 돼서 좋아
+P0 	: 맞아 엄청 편해
+P1 	: 코로나 때문에 더 그런 것도 있고
+P0 	: 근데 배달비 점점 올라서 너무 비싸
+P1 	: 배달비 만원인 곳도 있더라
+P0 	: 뭐야 거리가 먼가?
+P1 	: 모르겠어 뭔 배달 팁? 그런 것도 있고
+P0 	: 나는 그래서 픽업도 많이 해
+P1 	: 그러게 어플에 픽업 생겨서 좋더라
+P0 	: 햄버거 시켰는데 5천원 이상 천원 할인이라 좋았어

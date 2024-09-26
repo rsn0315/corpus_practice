@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여기는 아침부터 비가 오네요 ㅠ
+P1 	: 거긴 날씨가 어떤가요?
+P0 	: 여기도 비 오다가 오후에 그쳤네요
+P1 	: 지금은 안내리나요?
+P0 	: 에 지금은 그쳤어요
+P1 	: 아하
+P0 	: 대신 쌀쌀해졌어요
+P1 	: 여긴 지금도 가늘게 내리고 있어요
+P1 	: 맞아요 확 추워졌더라구요
+P0 	: 감기 조심하세요
+P1 	: 그쵸 ㅠ 앞으로는 긴팔 입어야겠어요
+P0 	: 이제 슬슬 옷정리를 해야겠어요
+P1 	: 맞아요..
+P1 	: 날씨가 너무 갑작스럽게 바뀐거같아요
+P0 	: 맞아요 갑자기 가을이 된듯

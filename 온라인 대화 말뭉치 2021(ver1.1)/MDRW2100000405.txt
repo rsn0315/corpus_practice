@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100000405
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 요즘도 운동하고 계시나요
+P0 	: 배드민턴 가끔씩 하고 있어요
+P1 	: 마스크 하고 운동하기가 쉽지 않아서
+P1 	: 걱정이에요
+P0 	: 맞아요~그게 너무 어려워요
+P1 	: 저도 산책이라도 하려면 마스크가 너무 힘들어요
+P1 	: 살찌지 않으려고 겨우 기본만 하고 있어요
+P0 	: 네~저는 담달부터 수영을 해보려고요
+P1 	: 오 수영 가능한 곳이 있나 보네요.
+P1 	: 2년 전에 끊어놓은 수강권이 아직도ㅠㅠ
+P0 	: 네~근처에 있더가구요~그래서 한번 해보려고요
+P1 	: 네 이럴때일수록 꾸준한 운동이 중요한 것 같아요
+P0 	: 네 맞아요 살이 엄청 쪘어요ㅠ
+P1 	: 마스크 벗고 신나게 운동하고 싶네요 ㅠ
+P0 	: 네 정말요ㅠㅠ
+P1 	: 찌긴 쉬워도 빼긴 어려우니까요 ㅠㅠ
+P0 	: 네 진짜 그말이 맞아요
+P1 	: 밖에 나가기가 힘들어서 실내 싸이클이라도 타야할까봐요
+P0 	: 그것도 좋겠어요!
+P1 	: 빨래 걸이가 될까봐 사려고 백만번 고민 중입니다 ㅎㅎ
+P0 	: ㅋㅋ 저랑 같아요 ㅎㅎ
+P1 	: 집 공간도 좁은데 들여놨다 안하면 곤란하니까요 ^^;;;

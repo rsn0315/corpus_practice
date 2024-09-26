@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100031925
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드셨나요
+P1 	: 이제 먹으려구여 ㅋㅋ
+P1 	: 일어난지 얼마 안되가지고ㅋ
+P0 	: 뭐 드셨나요
+P1 	: 점심은 라면이요
+P0 	: 맛있겠네요 어떤 라면 드시나요
+P1 	: 저는 너구리 좋아해요 ㅎㅎ
+P1 	: 얼큰해서
+P0 	: 너구리 맛있죠 오동통면도 드셔보셨나요
+P1 	: 오동통면은 컵라면으로요
+P0 	: 비슷한 맛인가요?
+P1 	: 네 비슷한데 너구리가 조금더 매운?
+P0 	: 그렇군요 저는 안먹어봐서 궁금했네요
+P1 	: 점심 드셨어요?
+P0 	: 네 떡국 먹었습니다 듕이님은요?
+P0 	: 식사는 뭐하셨어요

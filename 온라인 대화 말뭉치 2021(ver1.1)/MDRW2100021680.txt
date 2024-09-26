@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021680
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요. 커뮤활동 하시는 것 있나요
+P0 	: 요즘은 코로나 때문에 오프라인 활동은 못하고 있어요
+P0 	: &name2&님은요?
+P1 	: 이북 관련 커뮤 활동을 하고 있어요
+P1 	: 온라인으론 어느 커뮤를 하시나요
+P0 	: 저도 독서 관련 커뮤니티 활동을 하고 있어요
+P1 	: 아 원래는 오프라인 정모도 있었나요?
+P0 	: 네 오프라인 정모가 있었는데 요즘은 모임이 줄고 종종 줌으로 만나요
+P1 	: 오오 줌으로 만나다니
+P1 	: 활동이 활발한 커뮤네요
+P0 	: 근데 확실히 참여율도 낮아졌어요...
+P0 	: 이북 커뮤니티면 모두들 이북을 보시나요?
+P1 	: 아 네 정확히는 이북리더기 커뮤니티라ㅎㅎ
+P1 	: 이북리더기 소식 공유하며 이북 특가 소식도 같이 공유하죠
+P1 	: 이북도 보시나요?
+P0 	: 저도 이북리더기가 있는데 하나 샀더니 또 사고 싶더라구요..
+P0 	: 네 이북도 봅니다
+P1 	: 아 뭘로 가지고 계세요?
+P0 	: 크레마 사운드 쓰다가 오닉스 포크3로 바꿨어요
+P1 	: 아 전 리디 주력이라 리페프 쓰고 있어요
+P1 	: 슬슬 바꿀 때가 되긴 했네요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100027542
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 네이버쇼핑에서 어제 엄청 큰일있었는데
+P0 	: 왜 무슨일인데?
+P1 	: 만원이상 만원쿠폰을줬어
+P0 	: 헐~~ 진짜?
+P1 	: 응. 난 핫도그 11개짜리 하나샀거든 천원주고
+P0 	: 대박인데~~~
+P1 	: 근데 어제 사면서도 넘 싸다. 취소될꺼같다 했거든
+P0 	: 취소됐어?
+P1 	: 그랬음좋았을텐데
+P1 	: 공지나왔는데 다보내준데
+P0 	: 와~~~대기업이라그런가 통크네
+P1 	: 취소하긴싫고 그냥 취소시켜주지...괜히 찜찜~~
+P0 	: 관계자 괜찮을라나 모르겠다
+P1 	: 나도 걱정스러워

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032440
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 집에 김치찌개있어
+P0 	: 김치찌개 말고 맛있는거 없나요
+P1 	: 김치찌개 맛있게 됐어
+P0 	: 김치찌개 맛은 있는데 그거랑만 먹기에는 부족해....
+P1 	: 오이김치 맛있게됐어
+P0 	: 김치에 김치라... 맛있겠구먼...
+P0 	: 집에 계란은 있어???
+P1 	: 집에 계란 많이 있지
+P0 	: 요즘 계란 비싸다던데 다행이네
+P1 	: 예전에 계란을 많이 사놔서 괜찮아
+P0 	: 그럼 계란후라이 해먹어야겠다
+P1 	: 치즈도 얹어먹어 치즈 많이 있어
+P0 	: 케찹 없던데 새로 사왔어???
+P1 	: 내일 사올게

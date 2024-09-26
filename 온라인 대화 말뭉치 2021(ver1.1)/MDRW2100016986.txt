@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100016986
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하세요?
+P1 	: 네 좋아하는 편이에요
+P0 	: 어떤물건 하시나요
+P1 	: 전자기기 많이 보는거 같아요
+P0 	: 최근에 어떤거사셨나요
+P1 	: 최근엔 식품만 좀 샀네요ㅋㅋ
+P0 	: 쿠팡 쓰시나요
+P1 	: 아뇨 네이버 쇼핑 자주 써요
+P0 	: 어 저도 자주씁니다
+P1 	: 찾아보기 쉬워서 자주 쓰게 되요
+P0 	: 할인도 크더라구요
+P1 	: 맞아요 포인트도 잘 모이구요
+P0 	: 오네이버포인트맞아요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017746
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요.
+P0 	: 여행가면 어떤 기념품을 사오시나요?
+P1 	: 저는 디저트요 ㅋㅋ
+P0 	: 오 맞아요 지역마다 유명한 디저트 많죠
+P1 	: &name1&은요??
+P0 	: 저는 마그넷 사는거 좋아해요
+P0 	: 요즘은 엽서도 자주 사는것 같아요
+P1 	: 오 그렇군요 ㅋㅋㅋ 좋네요ㅋㅋ 국내이신가요 해외이신가요??
+P0 	: 해외여행 갔을때는 마그넷 사왔었는데 ㅋㅋ
+P0 	: 저번에 강릉가서는 엽서 잔뜩 사왔어요 ㅋㅋㅋ
+P1 	: 저희엄마도 2주 여행코스에서 마그넷 왕창사오시더라고요 ㅎㅎㅎ
+P0 	: ㅋㅋㅋㅋㅋ 마그넷 보면 여행 기억나고 좋은것 같아요
+P1 	: 맞아요. 뭔 뻐꾸기 시계같은것도 사오시고 레펠탑 키링이며 등등 예쁘더라고요 ㅎㅎㅎ
+	  
+	  저는 친구주려고 아울렛가서 린트초콜릿을 싸게 왕창사왔었는데 잃어버리고왔엇어요 ㅠ 그래서 면세점에서 초콜릿프레첼이랑 홍차 소량해서 사온기억이잇네요
+P0 	: 헉 저도 린트 초콜릿 90퍼센트 잔뜩 쟁여온 적이 있었는데 잃어버리셨다니 너무 슬퍼요 ㅜㅜㅜㅜ
+P1 	: ㅋㅋㅋㅋ 린트초콜릿 맛도안본 그놈들 ㅜㅜ 호텔직원분이 잘 드셧을려나요 ㅋㅋ 린도볼이 생각보다 엄청 다양하더라고요 ㅋㅋ
+P0 	: ㅠㅠㅠㅠ 여행가서 물건 잃어버리면 속상한데 에구 ㅜㅜ

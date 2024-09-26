@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100026357
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신은 맞으셨나요?
+P1 	: 네 화이자 1차 맞았어요!
+P1 	: &name1&은요?
+P0 	: 와 축하드려요
+P0 	: 저는 25일쯤 예약이요
+P0 	: 무섭네요ㅠㅠ
+P1 	: 타이레놀 꼭꼭 챙기셔요ㅠㅠ
+P1 	: 화이자는 1차는 안아프대요!
+P1 	: 저도 미열만 쭉 있다 말았어요!
+P0 	: 네 꼭 챙길게요
+P0 	: 건강이 최고죠
+P1 	: 맞아요 진짜 건강이 최고에요 딴거 다 있어도 건강하지 않으면 무슨 소용이에요ㅠㅠ
+P0 	: 그렇더라구요 다음주에 건강검진을해서 검진후 주사맞는게 좋겠다생각이들었어요
+P1 	: 아 건강검진 하시는군요!
+P0 	: 네 이번주금요일에 해요
+P0 	: 건강검진도 떨리긴 마찬가지네요ㅋㅋㅋ
+P1 	: 좋은 결과 나오실거에요!
+P1 	: 저도 올해 해야하는데 전 백신 2차까지 맞고 가려고요ㅎㅎ
+P0 	: 주기적인 건강검진이 꼭 필요한거같아요
+P0 	: 건강하게 오래살려면ㅋㅋ
+P1 	: 맞아요 조기에 발견하면 치료되는 병들이 많잖아요 이제
+P0 	: 그쵸^^
+P0 	: 부디건강한몸이길요

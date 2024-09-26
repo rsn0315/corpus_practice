@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100002555
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가고 싶은 여행지가 있으신가요
+P0 	: 저 강릉이요
+P0 	: 님은요?
+P1 	: 저는 해외를 가본적이 없어서
+P1 	: 동남아 가고싶어요
+P1 	: 강릉 가 보신 적 있으신가요 강릉 강릉 강릉 가면 주로 뭐하시나요
+P1 	: 앗.. 핸드폰 오류 때문에 강릉이 여러번 쳐졌네요
+P0 	: 동남아 좋을것같아요ㅋㅋㅋ
+P0 	: 강릉가면 맛집이랑
+P0 	: 바다요~~! 안목카페거리도요
+P1 	: 강릉 맛집 중에 어디가 제일 괜찮던가요
+P0 	: 전 해산물을 좋아해서요
+P0 	: 대게가 굿입니다
+P1 	: 대게 너무 맛있잖아요
+P1 	: 먹는 가면 꼭 먹어봐야 될 것 같아요
+P1 	: 다른 해산물 또 좋아는 거 있으신가요
+P0 	: 전 해산물은 다좋아해요ㅋㅋㅋ
+P0 	: 강릉은 순두부도 유명하죠
+P0 	: 초당순두부 엄지네 젤라또
+P1 	: 혹시 초당 순두부 ?
+P1 	: 초당 순두부는 무슨 맛인가요 먹어본 적이 없어서
+P0 	: ㅋㅋㅋ 얼큰한국물베이스인데
+P0 	: 줄을 서서먹더라고요 강릉에선
+P1 	: 얼큰한 국물이라니 너무 맛있겠어요
+P1 	: 기회가 되면 한번 먹어보고 싶네요
+P0 	: 맞아요ㅋㅋ
+P0 	: 그앞에 초당순두부맛 젤라또도 같이팔아요

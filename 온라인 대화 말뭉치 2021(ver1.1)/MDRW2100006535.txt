@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100006535
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 밤되니까춥네요
+P0 	: 비와서 추운가봐요
+P1 	: 그런가봐요
+P1 	: 여기도다시비와요
+P0 	: 이불 두개 덮으세요
+P0 	: 추우면
+P1 	: 네
+P1 	: 간절기이불을다시꺼내야겠어요
+P0 	: 많이 춥나요
+P1 	: 아뇨 창문닫으면 괜찮아요
+P1 	: 거긴춥나요
+P0 	: 그럼 닫고 제습기 키세요
+P0 	: 부우웅
+P1 	: 부우웅
+P1 	: 제습기넘시끄러워요
+P0 	: 그런가요
+P0 	: 그럼 걍 이불 덮으세요
+P1 	: 네그리고더워져요
+P1 	: 네
+P0 	: 춥다매요
+P1 	: 창문닫으면안추움요

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100042674
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 백신 맞으샸나요?
+P1 	: 네 일차만 맞았어요 맞으셨나요?
+P0 	: 네 저도 1차요 부작용은 없으셨나요
+P1 	: 맞은 부위가 좀 부어오르고 다음날까지 뻐근한거 빼고는 괜찮았어요!
+P1 	: &name1&님은 괜찮으셨나요??
+P0 	: 저랑 똑같아요ㅎ 2차가 심하다던데 부작용 없이 넘어가면 좋겠네요
+P1 	: 맞아요 &name1&님 이차 잘 맞고 넘어가셨으면 좋겠어요!!
+P0 	: &name2&님도요ㅎㅎ
+P0 	: &name2&님 운동하시나요?
+P1 	: 맞기까지가 오래걸려서 그냥 빨리 맞아버리고 싶긴해요
+P1 	: 불안해서가 아니라 귀찮아서요ㅋㅋㅋㅋ
+P1 	: 저는 숨쉬기 운동뿐... &name1&님은 하시나요??
+P0 	: 저는 홈트를 했었어요 코로나 전에는 걸었는데 지금은 안나가려고 하다보니 운동을 안하다가 안될 것 같아서 시작했답니다
+P1 	: 맞아요 확실히 걷는양이 줄었어요
+P1 	: 그래도 운동 챙겨서 하시네요!!
+P0 	: 안하면 안될것 같아서요ㅎㅎ&name2&님 건강검진은 잘 하세요?
+P1 	: 아니요...ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 건강검진 잘 하시나요??
+P0 	: 전... 잘하려고 하는 편이에요ㅎ
+P0 	: 챙겨서 하기 어렵죠 건강검진ㅜ
+P1 	: 지금은 코로나라 더
+P1 	: 그러니까요 건강검진 은근히 하기 어렵죠!!
+P1 	: 번거롭잖아요

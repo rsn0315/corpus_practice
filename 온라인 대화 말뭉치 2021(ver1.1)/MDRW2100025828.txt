@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100025828
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 평소에 배달음식 즐겨 드시나요?
+P1 	: 안녕하세요 ㅎㅎ 넵 요즘은 자제하지만 많이 시켜먹는편잊믿
+P1 	: 편입니다
+P0 	: 저도 자주 먹어요 ㅎㄹ 어떤 종류 많이 드세요? 저는 치킨 종류요~!!
+P1 	: 저도 치킨이여 ㅎㅎ 제일조아해요
+P0 	: 오오~~ 추천하는 치킨 있으세요??
+P1 	: 저는 교촌 레드 제일 좋아하고ㅋㅋㅋ 후참도 좋아하고..사실 가리는게 없어여ㅎㅎ
+P1 	: &name1&님은요??
+P0 	: 저는 음... 양념치킨은 페리카나 좋아해요ㅎㅎ 푸라닭을 제일 많이 먹어요ㅋㅋㅋㅋ
+P0 	: 순살 vs 뼈 어떤거 선호하세요??
+P1 	: 페리카나 맛있죠..ㅎㅎ
+P1 	: 오 저는 뼈요 ㅎㅎ
+P1 	: 순살에 퍽퍽살이 많으면 슬퍼요..
+P0 	: 맞아요ㅜㅜㅜ 저는 순살파인데 푸라닭은 다 닭다리라 애정합니다ㅎㅎ
+P1 	: 그게 정말인가요? ㅎㅎ 세상에 몰랐어여 ㅠ 다음에 시켜먹을게요 
+P0 	: 치밥해서 먹으면 세상 맛있어요.. 무난한건 블랙알리오 추천해용 저도 레드콤보 꼭 먹어볼게요!!!!
+P1 	: 오오 좋아요 꼭 먹어볼게여 ㅎㅎ
+P1 	: 레드도 좋고 아님 반반도 좋아요 ㅎㅎ
+P0 	: 치킨 is 뭔들... 반반으로 먼저 먹어봐야겠어요 감사합니당!!

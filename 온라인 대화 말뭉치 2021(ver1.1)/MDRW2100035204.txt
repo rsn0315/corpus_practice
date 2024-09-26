@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100035204
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셨나여?
+P0 	: 네 어죽 먹었어요
+P0 	: &name3&님은요?
+P0 	: 앗 &name2&님은요?
+P1 	: 저도 먹었어요 미역국ㅎㅎ
+P0 	: 가족 누가 생일인가요?
+P1 	: 그냥 끓였어용. 국으로
+P0 	: 아ㅎ 직접 끓이셨어요?
+P1 	: 네~ㅎㅎ. 맛있게됬더라구요
+P0 	: 와 요리솜씨가 좋으신가봐요!!
+P1 	: 그런건 아닌데 ㅎㅎㅎ 그냥 주부 11년차니 미역국 정도는.. ㅋㅋ 잘되네요 ㅎㅎ
+P0 	: 주부 만렙이시네요ㄷㄷ
+P0 	: 소고기 넣으셨나요?
+P1 	: 네 ㅎㅎ 소고기로 ㅋㅋ 근데 또 하는것만 해서 ㅎ 다른건 잘 안되요
+P0 	: 다른 시도도 해보셨나 봐요
+P0 	: 전 미역국전문점서 갈치미역국? 을 먹어봤는데 여러모로 신기했어요ㅎ
+P1 	: 첨들어봐요ㅋㅋ 미역국은 바지락. 북어 요렇게만 해봤어요
+P0 	: 북어를 넣고도 가능하군요!
+P0 	: 북엇국에 들어가는 그 북어가 미역국에 들어가는 거죠?
+P0 	: 나머지는 같고

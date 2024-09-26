@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012862
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 자취하시나요
+P1 	: 아니요
+P0 	: 가족들과 사세요?
+P1 	: 네
+P0 	: 구성원이?
+P1 	: 저 자식둘이요
+P0 	: 저는 부모님 저 동생이요
+P0 	: 집안일 자주해요?
+P1 	: 아니요
+P0 	: 왜요?
+P1 	: 귀찮아서
+P0 	: 귀찮긴하죠
+P1 	: 바닥 닦는게
+P0 	: 힘들죠

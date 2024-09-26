@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100031410
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뮤지컬 관람해보신 적 있으세요?
+P0 	: 네 딱 한번요
+P0 	: &name2& 님은 뮤지컬 자주 보세요ㅡ
+P0 	: ??
+P1 	: 저도 딱 한 번 봤어요ㅋㅋㅋ
+P1 	: 최근에 운 좋게 헤드윅 예매했는데 일이 생겨서 취소했었어요
+P0 	: 앗 헤드윅 예매 치열하지 않아요??? 아쉽네뇨ㅠ
+P1 	: 맞아요 되게 치열했는데 심지어 조승우 배우였지만 어쩔 수 없어서ㅜㅜ
+P0 	: 와 조승우 배우인데....
+P0 	: 너무 아쉽네요ㅠㅠㅠ
+P0 	: 코로나 끝나고 노마스크로 또 기회 잡으시길 바라요!!!
+P1 	: 감사합니다ㅎㅎㅎ ㅎㅅㅎ님은 어떤 뮤지컬 보셨어요?
+P0 	: 저는 아아주 예전에 삼총사 봤어요 이벤트로 공짜였어요
+P1 	: 와 삼총사도 엄청 유명한 뮤지컬이잖아요
+P1 	: 재밌게 보셨나요?
+P0 	: 네 괜찮았어요
+P0 	: 밀레이유인가 악역 역할 맡으신 배우분이 연기 넘 잘하셔서요 ㅋㅋㅋ
+P0 	: 연극도 좋아하세요??
+P1 	: 네네 좋아는 하는데 두 번 정도 봤어요
+P1 	: &name1&님은요?
+P0 	: 저도 많이는 안봤어요
+P0 	: 두번 본 거 같아요 저도

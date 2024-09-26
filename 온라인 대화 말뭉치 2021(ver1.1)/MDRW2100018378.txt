@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018378
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 지금 연애중이신가요?
+P0 	: 아뇨ㅠㅠ 연애중이세요?
+P1 	: 저도 아니요ㅋㅋㅋㅋ
+P0 	: 연애안한지 너무 오래됐네요ㅋㅋㅋㅋㅋㅋ
+P0 	: 마지막 연애가 언제세요?
+P1 	: 전 사실 한번도 안해봤어요ㅠㅠ
+P0 	: 앗그렇구나
+P0 	: 전 앞으로 안하려구요ㅋㅋㅋㅋㅋㅋㅠ
+P1 	: 저도 근데 꼭 하고싶지는 않아요ㅋㅋㅋ
+P1 	: 한 번쯤 해보면 좋은 경험이 될거라고 생각하지만 꼭 해야겠다는 생각은 없어요
+P0 	: 맞아요 연애하는 거보다 다른게 더 재밌어요
+P0 	: 이상형은 어떤 사람이에요?
+P1 	: 맞아요. 저는 주변에 비혼주의자인 친구들도 많은 편이라서 친구들과 아직 더 놀고싶어요
+P1 	: 저는 당연한말이지만 여성을 존중하는 사람이요.
+P0 	: 아 맞아요 ㅠㅠ 제일 기본인데 기본이 안된 사람들이 많죠
+P1 	: 그리고 저한테 원하는 게 많은 사람보다는 해주고싶어하는 게 많은 사람이었으면 좋겠어요.
+P1 	: &name1&의 이상형은 어떤가요??
+P0 	: 저도 &name2&이랑 비슷한데
+P0 	: 잘생기고 키가 크고 돈을 부족함없이 벌며 성격에 모가나지 않았으면 좋겠어요ㅎㅎㅎ
+P0 	: 이상형이니까!
+P1 	: 어후 다 맞는 말이에요. 너무 공감되네요.
+P0 	: 현실엔 잘 없다는게 슬프네요ㅠㅠㅠㅋ

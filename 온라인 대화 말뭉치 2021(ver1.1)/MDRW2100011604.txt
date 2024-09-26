@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100011604
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 좋아하는 음식이 어떻게 되세요?
+P1 	: 음 싫어하는게 없어요
+P1 	: 빵과 밥중에는 빵이 좋아요 ㅋㅋ
+P0 	: 아 음식 가리지않고 다 좋아하시는군요 ㅎㅎ
+P0 	: 빵은 어떤 빵 좋아하시나요
+P1 	: 피자도 좋고
+P1 	: 빵은 음 달달한건 다 좋아해요
+P1 	: 치즈빵 초코빵 크림빵같은
+P0 	: 그러시구나 전 스콘이랑 크로아상 좋아해요 ㅎㅎ
+P1 	: 오 저희동네에 크라상점 이라는곳이 생겼더라고요
+P1 	: 아세요?
+P0 	: 아뇨 첨 들어봤어요 가게이름인가요? 오
+P1 	: 계신곳 있으신가 검색 한번해보세요
+P1 	: 크로와상이 10개 9900원!
+P0 	: 헐 엄청 싸네요 충격적인 가격 ㅋㅋㅋ
+P0 	: 찾아보니까 버스타고 가야 하는 거리네요 담에 지나갈때 한번 봐야겠어요
+P1 	: 지나갈일 있으면 한번 사보는거 정도?는 괜찮은거 같더라고요 ㅋㅋ
+P0 	: 네 이름 기억해놔야겠어요 ㅎㅎ
+P0 	: 커피는 좋아하시나요?
+P1 	: 막 좋아하는편은 아니었는데 최근에는 많이 사먹었어요 ㅎㅎ
+P0 	: 여름엔 커피 잘 사먹게 되는거 같아요 ㅎㅎ

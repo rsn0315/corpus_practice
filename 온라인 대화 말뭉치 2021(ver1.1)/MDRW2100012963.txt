@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012963
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드셨나요?
+P1 	: 아니요ㅜ 바빠서 못먹었어요
+P1 	: 드셨나요?
+P0 	: 아니요 저도 아직 못 먹었어요
+P0 	: 음... 점심메뉴 생각하신 거 있으신가요
+P1 	: 전 빵 먹으려구요
+P0 	: 빵 어떤 빵 드시나요
+P1 	: 크로크무슈 였나 파바에서 맛있어보이는빵 집어왔어요
+P0 	: 파리바게트 빵 완전 맛있어요
+P0 	: 크로크무슈도 먹어본 적은 없지만 맛있을 것 같아요
+P1 	: 맞아요 아침에 갔더니 갓나온 빵이 다 맛있어보이더라구요
+P1 	: 저도 첨 먹어봐요
+P0 	: 갓나온 빵만큼 맛있는 건 없는 거 같아요
+P0 	: 정말 잘 골라 오셨네요
+P0 	: 같이 마실 음료도 고르셨나요
+P1 	: 아뇨 그냥 바빠서 못골랐네요
+P1 	: &name1&님은 점심 뭐 드세요?
+P0 	: 아앗 그러셨군요
+P0 	: 저는 점심에 짜장면 먹을까 생각 중이에요
+P1 	: 오 짜장면 좋죠
+P1 	: 먹을때 짬뽕보다 짜장면을 더 좋아하시나요
+P0 	: 저는 짜장면이 더 좋아요

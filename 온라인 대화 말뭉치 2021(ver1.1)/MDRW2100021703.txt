@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021703
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘은 컨디션이 안좋아서 운동 못했네
+P0 	: 그런 날은 푹 쉬어주는 게 좋아
+P1 	: 진짜 오늘은 운동 못하겠더라
+P0 	: 에너지 모았다가 컨디션 좋은 날 또 하면 되지
+P1 	: 오늘은 마치 병든 닭 같았어 ㅎㅎ
+P0 	: 그런 날도 있지 뭐~ 오늘 쉬었으니 내일은 좀 더 컨디션 괜찮을거야
+P1 	: 그렇겠지? 오늘 얼마나 졸리고 피곤하던지
+P0 	: 애들 개학하고 긴장되기도 하고 바빠서 더 그랬을거야
+P1 	: ㅎㅎ 역시 날 이해해주는 건 신랑 뿐
+P0 	: 내일은 광합성 겸 가볍게 산책 정도만 하자
+P1 	: ㅇㅇ 내일은 꼭 나갈 수 있도록 해볼께
+P0 	: 컨디션 조금이라도 안좋으면 괜히 무리할 필요없어
+P1 	: ㅎㅎ 알았옹

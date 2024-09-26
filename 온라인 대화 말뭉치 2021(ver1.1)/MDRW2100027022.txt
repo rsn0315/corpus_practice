@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027022
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 연극 보신 적 있으세요??
+P0 	: 옛날에 학생때 봣어요 ㅎㅎ
+P0 	: 님은 연극이나 뮤지컬 보신적있으세요?
+P1 	: 저도 옛날에 학생 때 ㅎㅎ
+P1 	: 아마 제목이 보잉보잉이었던 것 같아요
+P0 	: 오 신기한 제목이에요 ㅎㅎ재밋었나요?
+P1 	: ㅎㅎ 재밌었던 것 같아요
+P1 	: 연극은 뭔가 생생함이 느껴져서 좋아요
+P0 	: ㅜㅜ 그렇게 말씀하시니 연극도 보고싶네요
+P1 	: 저두요 ㅜㅜ
+P1 	: 전시회는 보신 적 있나요??
+P0 	: 전시회는 정말 옛날에요 미술 숙제때문에 ㅋㅋㅋㅋ
+P0 	: 요샌 다양한 전시를 많이하던데 가볼 기회가 없었네요
+P1 	: 저도 가본 지 좀 오래됐네요 ㅋㅋ
+P1 	: 오 무슨 전시회 하던가요??
+P0 	: 그 물 떨어지는 전시나 작가들 개인전 같은거요 ㅎㅎ 불가리 전시도 궁금해요
+P1 	: 오 물 떨어지는 전시라니 시원할 것 같은데요 ㅎㅎ
+P1 	: 불가리 전시 잠깐 검색해봤는데 엄청 화려하네요
+P0 	: 그쵸 ㅋㅋ이름은 기억이 안ㄴ나는데 기술로 인식해서 사람이 있는 쪽은 물이 안떨어지는데 주변엔 다 내려서 빗속에 있는 느낌을 주나봐요
+P0 	: 불가리 그쵸 저도 너무 화려하고 아름다워서 가보고싶었어요
+P1 	: 와 진짜 신기해요!! 꼭 한번 가보고 싶어요

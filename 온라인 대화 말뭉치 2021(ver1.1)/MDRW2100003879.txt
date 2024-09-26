@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100003879
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 좋아하는 음식 있으세요?
+P1 	: 치킨이요
+P0 	: 치킨 좋죠~
+P0 	: 여긴 비가와서 그런지 파전이 생각나네요 ㅎ
+P1 	: 아 좋죠
+P0 	: 점심은 드셨나요?
+P1 	: 아직요
+P0 	: 아~ 점심메뉴 고민되네요 ㅎ
+P0 	: 맥도날드 갈릭버거 나왔다던데 궁금하더라구요
+P1 	: 갈릭 어울릴까요?
+P0 	: 햄버거에요? 마늘 좋아해서 맛있을것같아요~ ㅎㅎ
+P0 	: 배달시킬랬더니 주변에 맥날이 없네요 ㅠ
+P1 	: 다른거 드셔야 겠네요
+P0 	: 그쵸 ㅠㅠ
+P0 	: 좋아하는 치킨 브랜드가 있으신가요?
+P1 	: 네네요
+P1 	: 좋아요
+P1 	: 님은?
+P0 	: 최근에 교촌치킨에서 나온
+P0 	: 허니콤보 먹어봤는데 넘 맛있더라구요!
+P0 	: 신세계였어요

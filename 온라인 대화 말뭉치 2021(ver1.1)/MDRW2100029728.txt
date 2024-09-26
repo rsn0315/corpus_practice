@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100029728
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요! 점심 드셨나요?
+P0 	: 점심은 아직이지만 늦은 아침은 먹었어요!
+P0 	: &name2&은요?
+P1 	: 저도 오늘 늦게 아침을 먹어서 안먹고 있어요!
+P1 	: 아침 뭐드셨나요??
+P0 	: 주먹밥 먹었어요 김이랑 멸치랑...
+P1 	: 맛있었겠네요! 아침엔 간단하게 먹은게 좋은것같아요ㅎㅎ
+P1 	: 어떤 음식 제일 좋아하세요?
+P0 	: 어... 설렁탕?
+P0 	: 국밥 같은거 좋아해요ㅋㅋ
+P1 	: 저도 국밥 좋아해요~~
+P1 	: 전 콩나물 국밥 젤 좋아요ㅎㅎ
+P0 	: 헐 맛있죠 콩나물국밥...
+P0 	: 안그래도 저희동네 콩나물 국밥집이 사라졌더라구요 눈물날뻔
+P1 	: 맞아요 어렸을땐 국밥 이런거 맛있는지 모르겠던데 요즘엔 너무 맛있어요
+P1 	: 헐ㅜㅜㅜ 진짜 집근처에 잘 가는 식당 없어질때 눈물나죠
+P0 	: ㅋㅋㅋㅋㅠ &name2&은 무슨 음식 좋아하세요?
+P1 	: 저는 한식 대체적으로 좋아해요!
+P1 	: 특히 제육볶음이 제 소울푸드입니다
+P0 	: 헉 저도 제육볶음 좋아해요
+P0 	: 한식도 다 대체적으로 좋아하는편...말하다보니 배고프네요
+P1 	: 맞아요ㅠ 한식 너무 맛있죠
+P1 	: 그래서 해외여행같은데 가도 한국음식이 제일 맛있는거같더라구요
+P1 	: 음식때문에 이민을 못가요ㅋㅋㅋㅋ

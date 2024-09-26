@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100005772
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 스포츠좋아하세요?
+P1 	: 전 가끔ㅋㅋ
+P1 	: 좋아하세요?
+P0 	: 음 ㅎㅎ이번에올림픽양궁재밌게봤어요
+P1 	: 저도 양궁이랑 육상이랑 체조요!
+P0 	: ㅎㅎㅎ직관도가보신적있으세요?
+P1 	: 아뇨ㅋㅋ
+P1 	: 야구만 한번ㅋㅋ
+P0 	: ㅎㅎ어디팀응원가셨나요
+P1 	: 엘지요ㅋㅋ
+P0 	: 이겼나용
+P1 	: 그랬던거같구... 밍숭맹숭한 경기ㅋㅋ
+P0 	: ㅎㅎㅎ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100031391
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 먹어야지
+P1 	: 근데 아저씨 나이트라 저녁에 밥먹여보내야 되니까 그렇지
+P0 	: 그럼 아저씨 나이트 끝나고 먹어?
+P1 	: 우리끼리 먹자
+P0 	: 엄마 먹튀는 안돼ㅡㅡ
+P0 	: 지금 삼일째 안마만받고
+P0 	: 치킨은 안 사주고있잖아
+P1 	: 먹튀 안한다
+P1 	: 담주에 사줄께
+P0 	: 기다리다 목 빠지겠다
+P0 	: 엄마 안마하기도 엄청 힘들다고
+P1 	: 알았어 담주에 꼭 먹자
+P0 	: 나 바베큐먹을거야 양념
+P1 	: 나 바베큐 안먹는데
+P0 	: 아 그러니까 후라이드도 하나 시킴되지!
+P1 	: 니가 웬수다
+P0 	: 내가 왜 웬수야 엄마가 지금 먹튀직전인데
+P0 	: 엄마가 웬수지
+P1 	: 먹튀 안한다고
+P1 	: 치킨 어디서
+P1 	: 주문할지
+P1 	: 골라나
+P1 	: 놔라
+P0 	: 진작에 다 골라 놨다...

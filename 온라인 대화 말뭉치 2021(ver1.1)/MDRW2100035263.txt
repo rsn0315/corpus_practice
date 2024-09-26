@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100035263
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 회사생활은 만족하시나요
+P1 	: 전혀요ㅜㅜ
+P1 	: 가슴에 사표 품고 삽니다
+P1 	: &name1&님은요?
+P0 	: 비슷합니다..적성에 안맞으시나요?
+P1 	: ㅎㅎ 일은 적성인데요
+P1 	: 위에서 적성 외 일까지 시켜서요
+P1 	: &name1&님 일은 적성인가요?
+P0 	: 음 저는 적성에 맞는면도 있은데 인간관계가 어렵네요
+P1 	: 그쵸ㅜ사실 회사서 가장 힘든건 일이 아니라 관계성인 듯
+P1 	: 이직 생각은 있으세요?
+P0 	: 이직은 쉽지 않아서 마음만 가득하네요
+P1 	: 저도요...이달 말까지 공고가 있는데 아직도 고민이네요
+P0 	: 어떤 공고요?
+P1 	: 아 채용공고요ㅜ
+P1 	: 근데 연봉메리트가 별로 없는 상황서 이직 리스크를 짊어지는 게 부담이라 고민중이에요
+P0 	: 이직이 쉬운 일이 아니죠 잘 선택하시길 응원합니다
+P1 	: 감사합니다. 이틀간 더 고민해보려구요
+P1 	: &name1&님은 그곳이 첫 직장이신가요?
+P0 	: 네 첫 직장입니다

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 네 여행 너무 좋죠
+P1 	: 여행지 어디가 제일 좋았나요?
+P0 	: 최근에 여행 간곳 있으신가요?
+P0 	: 저는 스페인이요
+P1 	: 스페인 멋지다고 들었어요
+P1 	: 저는 부산이요 여행이라기보다 드라이브지만요
+P0 	: 부산 좋져ㅠ
+P0 	: 고향이 부산이라 부산 넘 좋아해요
+P1 	: 아 고향이 부산이시군요 저는 부산근처 살아서 자주 가는편이에요
+P1 	: 스페인 어디가 젤 좋았나요?
+P0 	: 그렇군요ㅎㅎ 겨울 바다 좋아해서 가고 싶어요
+P0 	: 스페인은 남부가 좋았어요
+P0 	: 세비야나 말라가쪽!
+P1 	: 스페인 음식이 맛있다고 들었어요 맛있게 드신거 있으신가요?
+P0 	: 해산물이 맛있었던거 같아요 한국에서는 잘 안먹던 문어를 많이 먹은 기억이ㅎㅎ...
+P1 	: 아 문어샐러드 티비에서 본것같아요
+P0 	: 네 오래전인데 문어 맛나게 먹은 기억은 아직 나네요
+P1 	: 저도 스페인 가고싶어지네요 ㅎㅎ 거기는 날씨가 진짜 좋아보이더라구요
+P0 	: 네 더울때 가도 습하지 않아서 좋았던거 같아요 꼭 강추입니다!
+P0 	: 사람들도 다 친절했어요

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046164
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 식사하셨나요?
+P1 	: 아직이요! 식사하셨나요?
+P0 	: 네 저는 카레랑 두부조림 먹었어요
+P1 	: 오 맛있는 거 드셨네요!
+P0 	: 맞아요! &name2& 님은 점심 뭐 드실 생각이세요?
+P1 	: 저는 비지찌개가 땡겨요!ㅎㅎ 요즘 추워서 그런가 국물이 먹고싶네요
+P0 	: 오ㅋㅋㅋ 맞아요 국물 좋죠
+P0 	: 저는 어묵국물 마시고 싶네요ㅋㅋㅋ
+P1 	: 헐 어묵국물 완전 좋죠ㅜㅜ
+P0 	: 맞아요ㅠㅠㅠㅠ 떡볶이랑 어묵국물 조합 너무 좋아서 사먹을까 생각 중이에요
+P1 	: 헐 저도 거기에 튀김도 먹고싶네요ㅠㅠ
+P0 	: 아아 대박ㅠㅠㅠㅋㅋㅋㅋ 저는 신전 튀김오뎅 좋아해서 그거도 같이 먹고 싶네요
+P1 	: 헐ㅜㅜ 거기에 주먹밥두요ㅠㅠ
+P0 	: 그거 완전 좋은 생각이네요...!!!

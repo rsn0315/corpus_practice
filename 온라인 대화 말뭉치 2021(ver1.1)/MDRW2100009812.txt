@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100009812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키워보고 싶은 동물 있으세요?
+P1 	: 저는 강아지 키워보고 싶어요
+P0 	: 저는 예전에 강아지 키웠었는데 
+	  이번엔 고양이 키워보고싶어요
+P1 	: 고양이도 좋죠 요즘에는 사람 잘 따르는 고양이도 있다고 하더라구요
+P0 	: 맞아요 개냥이라고 부르던가요
+	  고양인 산책을 안시켜줘도 되서 좋은거 같아요
+P1 	: 그건 진짜 장점이네요
+P1 	: 산책하다보면 주인 체력에 금이 간다고 해서ㅋㅋ
+P0 	: 네ㅋㅋ개들은 매일 산책시켜줘도 부족해하니까요
+P0 	: 대형견 좋아하세요??
+P1 	: 대형견은 무섭고 중형이나 소형 좋아해요
+P0 	: 아 정말요? 전 골든리트리버같이 큰 개 보면 듬직하고 멋있더라구요
+P0 	: 어떤 종 키워보고 싶으세요?
+P1 	: 저는 웰시코기요 웃는 얼굴이 매력적이더라구요
+P0 	: 아ㅋㅋㅋ월시코기 매력적이죠 궁뎅이 토실토실한것도 귀여워요
+P1 	: 맞아요 걸어갈 때는 진짜 더 귀여워요
+P0 	: 맞아요~~
+P0 	: 물에서 수영하는것도 귀엽고
+P0 	: 전 그 얼굴 동그랗고 흰 털으로 가득한 애 한번 키워보고싶어요
+P1 	: 혹시 포메라니안일까요
+P0 	: 아뇨 그 신세경님이 키우시는 강아진데 이름을 잘 모르겠네요

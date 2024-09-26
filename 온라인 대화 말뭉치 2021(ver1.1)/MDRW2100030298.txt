@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100030298
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 신경쓰고 계시는 부분 있으세요?
+P0 	: 저는 뱃속에서 소리가 날때가 있어서 커피보다 차 마시고 있어요
+P0 	: 배고픈것도 아니고 아픈것도 아닌데 소리가 나더라고요
+P1 	: 아 그 꾸룩꾸룩 거리는 소리요?
+P0 	: 넹 그래서 차 마셨더니 나아졌어요
+P1 	: 저는 요즘 가스가 잘 차서 좀 그래요
+P1 	: 오
+P0 	: 민트차가 좋다고 해서 마셨는데 효과봤어요
+P1 	: 차는 손이 안가더라고요 뭔가
+P1 	: 확실히 차가 좋긴한가봐요
+P0 	: 맞아요 저도 손이 잘 안가긴 했어요
+P0 	: 영양제 드시는거 있으세요?
+P1 	: 저 비타민 c, b, d 오메가3. 유산균요ㅋㅋㅋ
+P0 	: 와 열심히 드시네요 저는 비타민 디만 먹고 있어요 ㅎㅎ
+P1 	: 처음엔 비타민 d만 먹었는데
+P1 	: 이것저것 늘어나더라고요
+P0 	: 역시 느나보네요 ㅋㅋㅋ 먹는거랑 안먹는거랑 좀 다른거 같으세요?
+P1 	: 최근에 귀찮아서 안먹었는데
+P1 	: 먹는거랑 차이가 있어요
+P1 	: 먹으면 덜피곤한?
+P0 	: 오 진짜 그러시구나
+P0 	: 전 한개라 그냥 그런거 같아서요 ㅋㅋㅋ

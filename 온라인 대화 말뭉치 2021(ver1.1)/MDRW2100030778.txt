@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030778
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 날씨가 너무 좋아요!
+P1 	: 맞아요~ 학기중이신가요?
+P0 	: 앗 저는 직장인이에요
+P0 	: 대학생이신가요?
+P1 	: 앗 저도 학생 아니에요 ㅋㅋㅋ 그냥..백수요
+P0 	: ㅎㅎㅎ쉬어야 에너지가 생기죠
+P0 	: 식사는하셨나요?
+P1 	: 네 북엇국이랑ㅎㅎ 중고등학생 땐 급식으로 북엇국 나오면 되게 싫어했는데 이젠 없어서 못 먹네요
+P1 	: 좋아했던 급식이나 학식 있으세요?
+P0 	: ㅎㅎ저는 그거 좋아했어요 야채튀김!
+P0 	: 북엇국좋죠 시원하고 감자랑같이
+P1 	: 학생 때 좋아하는 과목은 뭐였어요??
+P0 	: 저는 생물이요ㅎㅎㅎ 어떤과목좋아하셨나요?
+P1 	: 오 저두 생물좋아했어요 대박대박
+P1 	: 이공계로 진학하셨어요?
+P0 	: ㅎㅎ저는보건계열이요
+P0 	: 어디분야세요?
+P1 	: 음 화확과로 진학은했는데 일은 완전 다른 분야 ㅋㅋㅋ

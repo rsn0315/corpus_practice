@@ -1,0 +1,70 @@
+# FILE DATA
+ID : MDRW2100004050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세여
+P1 	: 구입 물품 있으신가요?
+P0 	: 최근에는....
+P0 	: 엄... 먹을것밖에 산게 없네요
+P1 	: 어 저두요 ㅋㅋ
+P1 	: 먹을 거만 사게 되더라구요
+P1 	: 뭐 사셨어요?
+P0 	: 어제 파바에서 빵좀 사구
+P0 	: 엔젤리너스에서 반미??
+P1 	: 우와 반미도 파는군여
+P0 	: 그것두 사서 오늘 먹었네요
+P0 	: 넹넹
+P1 	: 파바 빵 뭐 좋아하세요??!
+P0 	: 파바 슈요!
+P0 	: 보통 뚜레쥬르가 빵 더 맛있는데
+P0 	: 슈는 파바가 더 맛있더라구요
+P0 	: &name2&님은 최근에 어떤걸 구매하셨나요?
+P1 	: 슈는 파바다 기억하고
+P1 	: 나중에 먹어봐야겠어요
+P1 	: 파바는 돌돌말이소세지인가도 유명하더라구요
+P0 	: 맞아요 소세지도 유명하죠
+P0 	: 근데 그건 취향은 아니라서
+P0 	: 잘 안먹게 되더라구요
+P0 	: 뚜레쥬르에서는 브라우니랑 치즈방앗간...
+P0 	: 치즈방앗간 꼭 드세요
+P1 	: 치즈방앗간 유명하다고 들었는데
+P1 	: 그리 맛있나요?
+P0 	: 제가 좋아하는 요소가 다 있어요
+P0 	: 짭짤한 체다치즈맛 살짝 + 크림치즈 + 찹쌀
+P1 	: 아 정말 맛이 궁금하네요
+P1 	: 먹고싶어요
+P0 	: 이렇게 맛없을 수 없는 구성..ㅠㅠㅠ

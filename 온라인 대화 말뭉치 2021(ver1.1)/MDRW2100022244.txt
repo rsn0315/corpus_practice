@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022244
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식탁이요?
+P0 	: 네 지금도 쓰고 있는 식탁이 있기는 한데
+P1 	: 별론가요?
+P0 	: 별로라기 보다 좀 작아요
+P1 	: 아 식탁이 크면 편하긴 해요
+P0 	: 네네 장봐서 온거도 올려놓고..큰거로 사고싶어요
+P1 	: 하나 사시는것도..?
+P0 	: 지금 그래서 보고 있는데 적당한 가격대가 잘 없네요
+P1 	: 아무래도 식탁세트로 사면 비싸겠죠?
+P0 	: 네 거의 20만원은 최소로 들더라고요
+P1 	: 지금건 밥먹기 힘들정도로 작나요?
+P0 	: 그런건 아닌데 바꾸고 싶긴 하네요..
+P1 	: 그냥 바꾸고 싶어서 바꾸기엔 너무 비싸네요ㅠ

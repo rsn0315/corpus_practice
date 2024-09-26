@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014224
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사 하셧나요
+P1 	: 안녕하세요. 전 아직이요. 님은요?
+P0 	: 저는 한시간 후에먹을려고요!
+P1 	: 오 메뉴도 정하셨나요?
+P0 	: 회 먹을려고요!!
+P0 	: 회 좋아하세요?
+P1 	: 우와~ 회 좋아하는데ㅠ 남편이 전혀 안먹어서 정말 먹기힘들어요 저는
+P0 	: 따로 시키면 안되나요?? ㅜㅜ이런 ㅜ
+P1 	: 회를 1인분만 시킬수도있을까용?ㅎ
+P1 	: 그리고 같이 먹어야 더 맛있는데 혼자먹기도 그렇더라구요.
+P0 	: 하긴 그렇네요 ㅠㅜ 그러면 남편이랑은 어떤 메뉴 드세요??
+P1 	: 오늘은 해물로제 스파게티 먹으려고요~^^
+P0 	: 우아 스파게티-! 직접 만드실려고요??
+P1 	: 크흠..밀키트가 있습니다ㅋㅋ
+	  근데 밀키트가 아니어도 스파게티가 거의 라면급으로 쉬운거 같아요. 시중소스 쓰거나 소스없는 스파게티일경우요.
+P0 	: 아하 밀키트 !!

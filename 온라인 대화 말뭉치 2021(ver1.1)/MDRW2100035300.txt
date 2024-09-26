@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심드셨어요?
+P0 	: 네 미역국 끓여서 먹었어용
+P1 	: 맛있으셨겠어요
+P1 	: 전 아직 안먹었어요
+P0 	: 두신데 왜아직 안드셨나요?
+P1 	: 배가 별로 안고파서요 ㅜㅜ
+P0 	: 지금은 드셨어요?? 저는 컵커피에 빵 뜯으려고...ㅎㅎ
+P1 	: 아뇨 안먹었어요
+P0 	: ㅠㅠ 에고고 그럼 저녁을 드실예정?
+P1 	: 카페라떼 같은거 말씀하시는거에요?
+P1 	: 네 ㅠㅠ
+P0 	: 씨유에서 산 이디야 라떼요 ㅎㅎ
+P1 	: 그러고보니 과자를 야금야금 먹어서
+P1 	: 배가 안고픈가봐요
+P0 	: 아 ㅋㅋ 간식 ㅋㅋ 그런가봐요 ㅎ
+P1 	: ㅎㅎㅎ 그러게요 과자가 밥 대신이네요

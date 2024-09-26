@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100016838
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 음 여행가시는 건 좋아하시나요??
+P1 	: 네~ 국내해외 안가리고 좋아합니다
+P0 	: 오 어디가 가장 기억에 남으시나요??
+P1 	: 국내는 의외로 여수가 참 괜찮았고 해외는 미국이 좋았어요 ㅎㅎ
+P0 	: 오 전 미국 한번도 안가봤어요
+P0 	: 시카고는 어떤가요?? 시카고 가보고싶어요
+P1 	: 아 아쉽게도 시카고는 안가봤네요 ㅜ
+P0 	: 앗 아쉽네요ㅠㅠ
+P0 	: 그럼 어디어디 가보셨나요??
+P1 	: 저는 동부는 워싱턴디씨 버지니아 이쪽가봤구 서부는 캘리포니아주 위주로 다녔어요 ㅎㅎ
+P0 	: 오 재밌었겠네요ㅎㅎ
+P0 	: 캘리포니아는 날씨 좋아요??
+P1 	: 너무좋아요 ㅎㅎ 날씨가 젤 큰 이점인거같아요
+P0 	: 역시 좋군요ㅎㅎ 캘리포니아는 어디가 좋아요??
+P1 	: 로스앤젤레스가 아무래도 젤 좋죠 ㅎㅎ
+P1 	: 한국인도 많아서 편해요
+P0 	: 저도 가보고 싶네요ㅎㅎ

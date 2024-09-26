@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100005156
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 공연 좋아하세요?
+P0 	: 네, 연극이랑 콘서트만 가보았어요
+P1 	: 네 저는 연극 좋아합니다
+P0 	: 네, 그러시군요
+P0 	: 연극은 어떤 연극을 보셨는지
+P0 	: 요즘은 직접 공연 보기가 힘든데 어떻게 하시나요
+P1 	: 그냥 이것저것 봐요
+P1 	: 티켓 예약은 인터파크죠
+P0 	: 저도 인터파크 이용하고 있어요
+P0 	: 인기 있는 공연은 티켓팅이 정말 어렵던데, 티켓팅하는 노하우 있으신가요
+P1 	: 대기타서 클릭질이요
+P0 	: 저는 폰으로 주로 해요
+P0 	: 보구 가장 와~했던 공연 있으신가요
+P1 	: 아 네. 폰으로도 할만하죠
+P1 	: 글쎄요 잘
+P0 	: 네예
+P0 	: 저는 뮤지컬은 본적이 없는데 본적 있으신가요
+P1 	: 네 있어요 음
+P1 	: 롯데 어디서 봣ㅈ습니당
+P0 	: 네 갑자기 흥미가 없네요
+P0 	: 마지막으로 본 공연은 언제세요
+P1 	: 기억안나요
+P1 	: 코로나때문에

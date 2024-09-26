@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033214
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>추석 특별 방역 대책
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 방역 수칙 잘 알고 계세요?
+P0 	: 그냥 외출을 자제하고있어요ㅠ
+P0 	: 님은요?
+P1 	: 전 출근을 하고있어서 늘 조심해요. 가족들 못만난지도 꽤  된거 같네요;;;
+P0 	: 이게 무슨 일인지ㅠ
+P0 	: 너무 답답하고 화나고
+P1 	: 그러게 말이에요. 근데 또 위험하기도 하고 건강에 대한 것이니 조심스럽네요. 오늘도 학부모님 확진되어 학생 귀가조치 했는데, 기숙사학교라 학생 검사 결과가 어찌나올지..
+P0 	: 아 그러셨구나
+P0 	: 사방에 다 퍼진 느낌ㅠ
+P1 	: 네 이제 안전지대는 없는것 같아요. 어린이집도 마찬가지고요.
+P0 	: 맞아요ㅠㅠ
+P0 	: 방역이 무의미
+P1 	: 방역수칙 없고 맘대로 지내면 더 일파만파겠지요.
+P0 	: 다들 무덤덤해진것같아요ㅠ
+P1 	: 정말 코로나랑 함께 살아야된다 생각하니 평생 마스크 써야하나 답답하고, 아이가 넘 불쌍해요.
+P0 	: 맞아요ㅠㅠ

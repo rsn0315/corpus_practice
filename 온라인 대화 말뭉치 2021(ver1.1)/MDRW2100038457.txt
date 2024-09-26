@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100038457
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P1 	: 졸려서 오늘 커피 두잔째 ㅜ 식사는 하셨나요
+P0 	: 아점먹고 저녁은 떡국이여
+P1 	: 오 맛있게드세요
+P0 	: 야식도 드시나요?
+P1 	: 아니요 ㅎ 저녁에 바빠서 ㅋㅋ
+P0 	: 오 좋네요
+P1 	: ㅋㅋ 그치만 왜 맨날 정신이 없을까요 ㅜ
+P0 	: 야식습관은 안좋아요
+P0 	: 전 중독ㅠ
+P1 	: 저흰 저녁을 늦게먹어서 ㅜ
+P0 	: 그게 나은것같아요
+P1 	: 늦은 저녁도 좋진 않아요 ㅜㅜ
+P0 	: 근데 일찍먹으면 야식을ㅠ
+P1 	: 아 모두 문제 ㅋㅋ

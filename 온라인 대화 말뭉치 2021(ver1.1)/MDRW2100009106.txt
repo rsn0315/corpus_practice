@@ -1,0 +1,86 @@
+# FILE DATA
+ID : MDRW2100009106
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 대학생인시가요?
+P1 	: 신
+P0 	: 안녕하세요 전 &affiliation& 다니네요 어디다니세요
+P1 	: 저는 부산 쪽 대학 다녀요
+P0 	: 시골이부산인데반갑네요?
+P0 	: 도시쪽 아니면 산쪽인가요?
+P1 	: 도시쪽이에요
+P0 	: 집서 몇분거리인가요
+P1 	: 좀 걸리죠?
+P1 	: 다른 지역이라서 오래걸려요
+P0 	: 저는 &address& 서 이태원이라 버스나 지하철 30분ㅎ
+P0 	: 혹시 젤좋아하시는과목은?
+P1 	: 문학, 도덕, 예체능 과목 좋아해요
+P0 	: 그러시군요 전 캐드가 젤 낫네요 ㅎ
+P0 	: 젤 싫어하는 과목?
+P1 	: 수학이요!
+P1 	: 진짜 싫어요
+P0 	: 전 물리여 ㅎ 아예배운적없어서 ㅎ
+P1 	: 대학와서는 수학 안 하게 될 줄 알았는데
+P1 	: 통계 때문에 하게 되네요ㅠㅜ
+P0 	: 수학은 외우면되는데 물리수학은 노답 ㅠ
+P1 	: 그러시군요ㅠㅜ
+P0 	: 지금 1학년 2학년?
+P0 	: 전 1학년이네요
+P1 	: 전 3학년이에요
+P0 	: 부렵네요
+P0 	: 전 이번이 대학 3번째라 ㅋ
+P0 	: 농대졸업 사회복지학과 졸업
+P0 	: 국어국문학과 휴학 ㅋ
+P1 	: 프로 입시러시네요
+P0 	: 아그럴수있네요
+P0 	: 동아리로넘어갈꺼요
+P0 	: 하시는것 있나요?
+P1 	: 영상제작 동아리에 있어서요
+P1 	: 기술력이 뛰어난 건 아닌데
+P0 	: 제작한건 있나요?
+P1 	: 간단한 영상 제작은 행ㆍ
+P1 	: 요
+P1 	: 있어요
+P0 	: 전 전에 &affiliation&에서 &others&
+P0 	: 3학년때 1학년 지도하고 아이디어 제가 다 내서
+P0 	: ㅣ등 장관상 받았네요
+P1 	: 네네
+P1 	: 대단하시네요!
+P0 	: 현재 대학에서는
+P0 	: 드론동아리신청했는데
+P1 	: 네네
+P0 	: 흐지부지되서 망했네요
+P1 	: 아..

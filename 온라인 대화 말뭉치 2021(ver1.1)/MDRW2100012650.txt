@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100012650
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 불금이네요~
+P1 	: 오늘 맛있는 것 드셨나요?ㅎㅎ
+P0 	: 그냥 반찬가게에서 사다 밥이랑 해서 먹었어요 ㅋㅋ &name2&은 뭐 드셨어요?
+P1 	: 아 그러셨구나
+P1 	: 저는 오늘 샐러디라는 곳에서 웜랩이라는 것 사먹었어요
+P1 	: 또띠아 안에 따뜻한 샐러드 넣어서 돌돌 싸먹는
+P0 	: 오 맛있을 것 같아요
+P0 	: 건강도 챙기고
+P1 	: 네 맛있고 건강도 챙긴 기분ㅎㅎ
+P1 	: 가격은 조금 나갔지만 기분 좋더라고요~
+P0 	: 가끔 새로운 거 먹으면 기분 좋죠 ㅎㅎ
+P1 	: 네네
+P1 	: 새로운 메뉴 먹거나 맛집 가면 기분 좋아져요
+P0 	: 내일은 간만에 뭐라도 시켜 먹어야겠어요 ㅎㅎ
+P0 	: 배달음식 자주 드세요?
+P1 	: 한동안 자주 먹었어요
+P1 	: 더울땐 식사 차리기 싫어서
+P1 	: 요즘은 좀 자제하고 있어요
+P0 	: 배달 시키면 포장 쓰레기 분리수거가 좀 귀찮더라구요 ㅋㅋ
+P1 	: 맞아요 음식 배달하면 쓰레기가 너무 많이 나와요
+P1 	: 집밥이 제일 좋긴 하죠
+P0 	: 근데 여름에는 진짜 불 쓰기 싫긴 해요ㅋㅋ
+P1 	: 맞아요 간단히 조리할 수 있는 음식으로 먹어야죠
+P1 	: 이제 좀 선선해지니 끓이거나 하는 음식도 해먹을만하더라고요
+P0 	: 잘 하시는 메뉴 있으신가요?

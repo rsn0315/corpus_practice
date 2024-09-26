@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100003419
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P0 	: &name2&님은 요리 좋아하시나요?
+P0 	: 저녁 먹고왔는데 배가 고프네요
+P1 	: 나혼자 보면서 먹을려고 쥐포 구웠어요 ㅋㄱㄴ
+P0 	: 저도 오상욱선수 보고있어요 배고파서 뭐먹을까 고민중이네요 ㅎ
+P0 	: 배스킨 사다놓은거 아스크림이나 먹을까봐요
+P1 	: 아직 남으셨어요 전 2통 다먹었는데 ㅎㅅ
+P0 	: 아껴두고 먹고있어요ㅋ
+P0 	: 뉴욕치즈케익 맛나요
+P1 	: 쥐포 먹고있는데 달달한 아이스크림 먹고 싶어지네요
+P0 	: 전 쥐포가 먹고싶은데요ㅎ 마요네즈찍어서
+P1 	: 전 고추장에~근데 짜워서 안찍어 먹고있어요
+P0 	: 고추장도 맛있죠ㅎ 냉동실에 반건조오징어있는데 이따 먹어야겠어요
+P1 	: 반건조오징어가 더 맛있죠
+P0 	: 촉촉하니 맛있어요 버터에 구우면 고소하고ㅎ
+P1 	: 그럼 버터오징어구이~ 더 늦기전에 하셔요
+P0 	: 아이스크림 먹고 굽는걸로^^
+P1 	: 밤늦게 너무 맛나는걸로다 드시는거 아니예요
+P0 	: 요즘 야식 줄이고 있는데 오늘은 포기하고 먹어야겠어요ㅎㅎ
+P0 	: 오상욱선수도 짜장먹네요
+P1 	: 운동선수는 먹는것도 먹방처럼 맛있게 먹어요
+P0 	: 보니까 또 짜장면 먹고싶어요 ㅠㅠ
+P0 	: 우선 오징어구우러 갈게요
+P1 	: 맛나게 구우세요

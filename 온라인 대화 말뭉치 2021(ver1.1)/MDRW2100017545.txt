@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017545
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 왜??
+P0 	: 품절~~~ 재고가 없대요~~
+P1 	: 업그레이드된 비슷한 화장품운 없는가??
+P0 	: 업그레이드 된 건 없는 거 같아요...
+P1 	: 그럼 어쩌지??
+P0 	: 인터넷으로 사야 할듯...
+P1 	: 그래 알았어
+P0 	: 그럼 집으로 갈게요~~
+P1 	: 집에 와서 엄마하고 얘기하고 주문하면 되겠네~
+P0 	: 그래요~~
+P0 	: 엄마~
+P0 	: 아빠 향수도 괜히 짐만 될 거 같아서
+P0 	: 세일도 안 하고...
+P1 	: 그래~ 잘 생각했구먼
+P0 	: 결혼기념일에 아빠는 향수~ 엄마는 오일 선물할게요~~
+P1 	: 그래 알았음
+P1 	: 응
+P0 	: 엄마~~
+P0 	: 이 지갑 어때요?

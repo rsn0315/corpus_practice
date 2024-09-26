@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001725
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 야식 좋아하시나요?
+P1 	: 야식 거의 먹어 본적 없는 것 같아요
+P1 	: 좋아하시나요?
+P0 	: 가끔 라면정도 먹는거 같아요
+P0 	: 얍님은 즐겨드시는 음식있으신가요
+P1 	: 음...그냥 그날따라 되는대로 먹는편이라
+P1 	: 자주 먹는건 없는데
+P0 	: 아..네..
+P1 	: 회덮밥은 뭔가 보이면 꼭 시키게 돼요
+P0 	: 회덮밥 맛있죠!
+P0 	: 회덥밥에 큐브회 좋아하시나요
+P0 	: 아니면 활어 넣는거 좋아하시나요
+P1 	: 활어가 더 좋은 것 같아요
+P0 	: 아무래도 활어가 더 맛있는거 같아요
+P1 	: 어렸을때는 큐브도 가성비가 좋아서 먹었는데 크니까 양은 적어지고 뭔가 한번에 더 큰 만족감을 원하게 되서...
+P1 	: 조금 비싸더라도 활어가 좋은 것 같아요.
+P0 	: 뭔지알거같아요  약간 양보다는 질을 우선시 하게되더라구요
+P1 	: 네네 어렸을 때는 뷔페도 엄청 좋아했거든요.
+P1 	: 근데 커서는 정말 잘 안 가게 되는 것 같아요.
+P0 	: 맞아요 공감합니다

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007452
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 오랜만에 고기 먹고싶다
+P1 	: 거기 통삼겹이나 양념갈비 파는집 가고싶다 나도ㅠ
+P0 	: 코로나때문에 못간지 너무 오래됨ㅠ
+P1 	: 그러게 우리 자주 갈 때는 일주일에 한번씩은 갔는데
+P0 	: 맞아 집에서 해 먹기에는 그 고깃집 맛도 안나고 기름이...
+P1 	: 집에서는  그 맛이 안나지 가서 먹어야해. 고깃집은 배달 할 수도 없어서 나중에 코로나 잠잠해지면 먹으러가자
+P0 	: 그래 어쩔수없지 뭐ㅠ 고기 얘기 나온 김에 내일은 에어프라이어에 통삼겹 해먹을까?
+P1 	: 집에 통삼겹 없지않아? 마트 쉬는날이라 정육점에서 사야될텐데?
+P0 	: 앗 그러면 통삼겹은 다음에 먹자. 고기는 마트가 사기 편해서ㅠ
+P1 	: 그럼 내일 뭐 먹을까? 나는 아무거나 괜찮아
+P0 	: 음 고기 대신 버섯이랑 파프리카나 구워먹을까? 고기 서브 메뉴ㅋㅋㅋ
+P1 	: 그래 그렇게 먹어도 괜찮고. 에어프라이어에 버섯 통구이로 해도 맛있더라
+P0 	: 그래 그럼 버섯통구이에. 파프리카 굽고 해서 건강식으로 먹자!
+P1 	: 그래 기름칠 하기 전까지는 건강식으로 먹어두자
+P0 	: 이대 신촌쪽엔 맛있는 고기집 없나? 가성비 좋은곳도 좋고

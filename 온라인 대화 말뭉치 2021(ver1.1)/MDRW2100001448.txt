@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100001448
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 얼른 대화하고싶어서 심장이 콩닥콩닥 하네요
+P1 	: 안녕하세요 :)
+P1 	: &name1&님 점심식사 하셨나요? ㅎㅎ
+P0 	: 네 밥먹었어요. 국수맛집가서...
+P0 	: &name2&님은 식사하셨어요?
+P1 	: 네 저는 간단하게 먹었어요 ㅎㅎ
+P1 	: 어떤 메뉴로 드셨나요 ㅎㅎ
+P0 	: 국수먹었어요
+P0 	: 국수맛집 가서요ㅎㅎ
+P1 	: 아아 ㅠㅠ 네 제가 윗부분을 못봤네요..!
+P1 	: 국수맛집이라니 ㅎㅎㅎ 어디인가요?? ㅎㅎ
+P0 	: 괜찮습니다ㅎㅎ
+P0 	: 진주에 얼마전에 생활의달인인가 나왔던곳이에요
+P0 	: {share:info}
+P1 	: 우와 검증된 맛집이군요..!
+P1 	: 나중에 진주갈 일 있으면 가서 꼭 먹어봐야겠어요 ㅎㅎㅎ
+P1 	: &name1&님 취미는 어떻게 되세요? ㅎㅎ
+P0 	: 넵! 근처에 붕어빵 맛집도 있어서 같이 들르시면되요
+P0 	: {share:info}
+P0 	: 저는 운동하는거 좋아합니다. 헬스 열심히 하고있어요
+P1 	: 후식까지 완벽하네요 ㅎㅎㅎ 꿀팁 감사합니다
+P1 	: 헬스하시는군요!
+P1 	: 그럼 보통 주에 몇번 정도 하세요~?
+P0 	: 일주일에 세번이상 하려고 노력중입니다ㅎ
+P1 	: 우와 정말 부지런하시네요 bb 운동 꾸준히 하는게 정말 어려워서..!
+P0 	: 운동은 가까운데서 하는게 가장 꾸준히 할수있는것 같아요ㅎㅅㅂ
+P1 	: 그렇군요..! 꿀팁 감사합니다 ㅎㅎㅎ 앞으로는 가까운 헬스장이라도 끊어야겠어요!
+P0 	: 감사합니다ㅎㅎ
+P0 	: 즐거운 오후되셔요(씨익)(씨익)

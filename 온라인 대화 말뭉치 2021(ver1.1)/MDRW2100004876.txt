@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004876
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 유산소만 하루에 1~2시간 정도 하고 있어요
+P1 	: &name1& 님은요?
+P0 	: 홈트요
+P1 	: 운동 말고 건강을 위해서 챙기는 거 있으세요?
+P1 	: 저는 비타민이랑 유산균 챙겨 먹어요
+P0 	: 저는 락토핏
+P1 	: 유산균이죠? 유산균도 챙겨 먹어야 겠더라고요
+P1 	: 금주나 금연은 하시나요?
+P0 	: 둘다 안해요
+P1 	: 안 하시는 거면 술도 마시고 담배도 피시는 건가요?
+P0 	: 아 반대네요
+P1 	: 아 이해했어요. 안 하는게 제일 좋죠.
+P1 	: 술이랑 담배는 처음부터 안 하셨나요?
+P0 	: 담배는 첨부터 술은 코로나 이후로요
+P1 	: 코로나 이후로 자연스럽게 약속에 안 나가니까 술은 안 마시게 되는 거 같아요
+P0 	: 네 줄더라구요
+P1 	: 건강에는 좋은데 그래도 가끔 친구들 못 만나는 건 아쉬워요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~요즘 읽는 책 있으신가요?
+P0 	: 요즘 재테크 관련 도서를 많이 읽어요
+P1 	: 오 요즘 재테크 책 엄청 많던데 주로 주식 관련된거 읽으시나요??
+P0 	: 네 주식이랑 가상화폐 책 읽어요~~
+P1 	: 우와 최근에 읽으신거 하나만 알려주세요!
+P0 	: 엘리어트 파동이론 이요! 지금 읽고있어요
+P1 	: 오 메모해두고 있어요 감사합니다! 책 읽으면 확실히 재테크에 도움이 많이 되나요??
+P0 	: 읽고 공부해야하는데 안읽는것보다는 나아요!
+P0 	: 빙빙님은 어떤책 읽으셨나요?
+P1 	: 저는 요즘 창가의 토토 읽어요! 정보를 얻어가는 책은 아니에요
+P0 	: 어떤 내용인가요?
+P1 	: 좀 특이한 아이가 특이한 사람들이 모이는 학교에 다니면서 벌어지는 일들인데 재미있으면서도 세계대전 시기라 중간중간 섬찟해요
+P1 	: 작가의 실제 이야기라고 하더라구요
+P0 	: 와 실화라니 흥미진진하셌어요

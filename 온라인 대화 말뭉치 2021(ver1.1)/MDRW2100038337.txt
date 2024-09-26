@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100038337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이상형 있으세요?
+P0 	: 이상형... 은 있었던거 같은데
+	  이젠 그런것도 모르겠네요ㅋㅋ
+P1 	: 왜요ㅠ 무슨일 있으셨나요
+P0 	: 네... 무슨 일이 있었죠.....
+P1 	: ㅠ 안좋은 일이었나봐요
+P0 	: ㅋㅋ결혼을 했습니다.ㅋㅋㅋㅋ
+P1 	: 아
+P0 	: &name2&님은 연애중이세요?
+P1 	: 그건 생각 못했네요
+P1 	: 연애하고 있습니다
+P0 	: 우왕 얼마나 되셨어요?
+P1 	: 오늘이 187일째네요
+P0 	: 우왕 187일{emoji:♡}
+P0 	: 이상형과 가까운 분이신가요?
+P1 	: 가깝다면 가깝겠죠..?
+P1 	: 남이 볼 때는 아닐 수도 있어요
+P0 	: 그럼 좋은 만남이 되겠네요:)
+P1 	: ㅎㅎ 아무래도 그렇죠

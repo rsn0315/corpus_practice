@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022228
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 타오바오요?
+P0 	: 네 중국 지마켓 같은거에요
+P1 	: 아 직구로 사시는건가요?
+P0 	: 네네 온갖 물건이 다 있어서
+P1 	: 아하.. 가격이 한국에서 사는거보다 싼가요?
+P0 	: 네 아무래도 배송비까지 합쳐도 한국보다 훨씬 싸요
+P1 	: 물건이 별로거나 하지는 않구요?
+P0 	: 잘 골라야해요 간혹가다 그런것도 있어서 ㅎㅎ
+P1 	: 직구로 사면 세금내야하는거 아니예요?
+P0 	: 아 자기가 쓸거는 150달러 이하로 사면 세금안내도 괜찮아요!
+P1 	: 아...그런게 있군요 타오바오 하는거어렵나요?
+P0 	: 하나도 안어려워요 요즘 다 번역이 자동으로 되어서..한번 시도해보세요!
+P1 	: 주로 거기서 뭘 사세요?
+P0 	: 저는 원단도 사고 인형옷도 사고 별거별거 다 사요
+P0 	: 가지고 싶은 물건 있으세요?

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100034096
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P1 	: 급여에 만족하시나요?
+P0 	: 어이쿠 최저시급도 못 받는걸요 ㅜㅜ
+P1 	: 그럼 이직희망하시거나 워너비인 직망 있으실까요
+P0 	: 이직 원해도 할 수있는게 없으니 ㅠㅜ
+P1 	: 그래도 꿈이라도 꿔봅시다.ㅜ.ㅜ
+P0 	: 대기업을 갈까요 사교육계로 갈까요 ㅋㅋ
+P1 	: 오 사교육계는 엄청 치열할것 같긴해요
+P0 	: ㅋㅋㅋ받아주면 가고싶네욯ㅎㅎ
+P1 	: 저는 또 그곳에서 경쟁으로 살아남을 자신이...ㅜㅜㅋㅋ
+P0 	: 맞아요 수업준비도 싫은데 아 ㅠㅠ 할 수 있는 일이 없 ㅜㅜ
+P1 	: ㅋㅋㅋ 돈버는게 쉽진 않죠..
+P0 	: 너무 힘드네요 조금 버는 것도 ㅠㅠ
+P1 	: 약사는 괜찮은것 같지 않나요?
+P0 	: 그러게요 좋은 것 같아요

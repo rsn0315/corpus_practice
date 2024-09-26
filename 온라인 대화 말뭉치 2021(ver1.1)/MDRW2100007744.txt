@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~
+P0 	: 이번 여름에 여행 다녀오셨나요?
+P1 	: 아니요ㅠ아직 휴가를 안썼어요~
+P0 	: 아 그러시구나
+P0 	: 저는 휴가때 코로나가 너무 심해져서 여행 가려던 계획을 취소했어요ㅜ
+P0 	: 바다나 휴양림 가서 좀 쉬다오고 싶었는데
+P1 	: ㅠㅠ그쵸ㅠ무서워서 여행도 못가겠더라구요
+P0 	: &name2&님은 여행 좋아하세요?
+P1 	: 저는 쉬는위주로 가는건 좋아해요 힐링
+P1 	: 돌아다니는거 말고요ㅋㅇㅋ
+P0 	: 아아 힐링 여행을 좋아하시는구나
+P0 	: 저도 전에는 막 돌아다니고 이것저것 보는 걸 좋아했는데
+P0 	: 요즘은 힐링 쪽이 좋더라고요
+P1 	: 나이드니 더 그런것 같아요ㅋㅋ
+P0 	: 아 나이들면서 여행스타일이 변하는 걸까요?
+P0 	: 가보신 곳 중에 가장 좋았던 여행지는 어디예요?
+P1 	: 제 경우는 그랬던것 같아요 어렸을땐 친구들하고 명소도 잘 돌아다니고 그랬는데 나이드니 귀찮아지더라구요ㅋㅋㅋㅈㅋ
+P0 	: 아아 그렇군요ㅎㅎ
+P0 	: 힐링 여행~ 가고싶네요!

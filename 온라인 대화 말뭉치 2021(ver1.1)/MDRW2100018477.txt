@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018477
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 내일 점심 뭐 먹을까?
+P0 	: 점심 뭐먹지? 맨날 메뉴 정하는것도 힘들다
+P1 	: 음 중식. 양식 중에 뭐가 더 먹고싶어?
+P0 	: 중식은 어떤 메뉴고 양식은 어떤 메뉴야? 일식은 없어?
+P1 	: 중식은 홍콩반점 짜장짬뽕 이고 양식은 피자파스타 또는 베이글 샌드위치 일식은... 뭐 돈까스?
+P0 	: ㅋㅋㅋ뭐야 메뉴가 거의 정해져있는거 아니야?
+P1 	: 그건 아니고ㅋㅋㅋ생각나는대로 적어본거라구ㅋㅋ 뭐 다른거 생각하는거라도?
+P0 	: 아니 그건 아닌데
+P0 	: 만약 내일 비가 온다면 중식으로하고
+P0 	: 비가 오지 않을땐 뭐가 좋겠어?
+P1 	: 간단하게 먹고싶으면 베이글 샌드위치에 커피도 괜찮고 나는
+P0 	: 흠 그게 양이 찰까? 금방 배고파질거 같은데
+P1 	: 그러면 7번가 피자파스타로 할까?
+P0 	: 그래 저번에 시켰던 콤비네이션 씬도우 괜찮더라
+P1 	: 나도나도!  근데 파스타가 크림파스타나 오일파스타 이런거 있으면 좋은데
+P0 	: 그렇긴해 둘 다 토마토소스 베이스라서. 그러면 피자는 고르곤졸라 씬도우 어때?
+P1 	: 오 완전 좋아. 그 집은 고르곤졸라도 맛있어!! 오리지날도우보다 씬도우가 맛있을듯!!!

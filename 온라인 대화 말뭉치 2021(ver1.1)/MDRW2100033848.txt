@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 녹차vs홍차 어떤가요?
+P0 	: 오 저는 홍차요
+P0 	: &name2& 님은요?
+P1 	: ㅋㅋㅋ저도요 둘중에 고르자면
+P1 	: 떡볶이는 좋아하세요?
+P0 	: 떡볶이 좋죠 엄청 자주 먹어요ㅋㅋㅋㅋ
+P1 	: 어떤브랜드 좋아하세요?
+P0 	: 전 신전 좋아해요!
+P0 	: &name2& 님은 떡볶이 좋아하세요?
+P1 	: 전 너무좋아해요ㅋㅋㅋㅋ
+P0 	: 오ㅋㅋㅋ 어디 브랜드 좋아하세요?
+P1 	: ㅋㅋㅋ전다좋아해요
+P1 	: 로제좋아하세요?
+P0 	: 와 당연히 좋아하죠!!! 로제 떡볶이 너무 맛있죠
+P1 	: 배떡드셔보셨어요?
+P0 	: 아뇨 배떡은 안 먹어봤어요! 맛있나요?
+P1 	: ㅋㅋㅋ 생각보다별로입니다
+P1 	: 떡군이네가 존맛이더라고요
+P0 	: 아 떡군이네에서 배떡이 나왔다고 했나...? 그랬다고 들었어요
+P1 	: 맞아요ㅋㅋㅋ
+P1 	: 근데 배떡이 훨씬장사가 잘되죠

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요
+P1 	: 아이쇼핑은 자주 해요
+P0 	: 어떤 물건하시나요?
+P1 	: 책이나 전자기기 많이 보는거 같아요
+P1 	: 최근에 구매한 물건 있으세요?
+P0 	: 신발 샀어요ㅎ
+P1 	: 어떤 신발이요?
+P0 	: 나이키요!
+P1 	: 나이키 좋죠ㅋㅋ 옷도 많이 사시나요?
+P0 	: 네 옷도 좋아해요
+P1 	: 이제 슬슬 가을옷도 더 사야될 거 같아요
+P0 	: 아근데 금방또 겨울이라ㅠ
+P1 	: 그렇긴 하죠. 할인하니까 사고싶어져요ㅋㅋ
+P0 	: 쇼핑하고싶네요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100004378
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 쇼핑한 물건 있으세요?
+P0 	: 책 샀어요!
+P1 	: 제목이 뭐예요??
+P0 	: 사는게 정답이 있으려나?', '어제 그거 봤어?' ,'멋있으면 다 언니' 이렇게 3권 샀어요 &name2&님은 최근에 쇼핑한 물건 있어요?
+P1 	: 저는 최근에 필름카메라 필름하고 원피스 샀어요!
+P1 	: 책은 온라인으로 주문하셨나요?
+P0 	: 네!
+P1 	: 교보문고에서 구매하셨어요?
+P0 	: 아뇨 yes24에서 구매했어요!
+P1 	: 예스이십사 혜택이 좋은가요?
+P0 	: 다른데서 안사봐서 모르겠지만  책 중에 10%할인 해주는것도 있고  포인트 적립해주고 좋은것 같아요
+P1 	: 저도 다음에는 거기서 사봐야겠어요!
+P0 	: 네ㅎㅎ

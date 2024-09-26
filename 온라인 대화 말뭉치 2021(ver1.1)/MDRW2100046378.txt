@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046378
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211020
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 즐겨 보시는 프로그램 있으신가요?
+P0 	: tv프로그램은 잘 못챙겨보고 유튜브를 많이 보게되네요
+P1 	: 어떤 콘텐츠를 주로 즐겨 보시나요?
+P0 	: 재밌는 콘텐츠면 가리지 않고 봐요
+P1 	: 어떤 콘텐츠를 접했을 때 재미를 느끼시나요?
+P0 	: 주로 먹방이나 여행 관련된 걸 좋아하는 거 같아요
+P1 	: 재미를 느끼는 포인트는 사람마다 다르잖아요
+P1 	: 웃포를 하나 꼽자면?
+P1 	: 아하 ㅋㅋㅋ 특별히 챙겨보게되는 유튜버가 있으신가요?
+P0 	: 음 많이 먹으시는 분들 위주로 봐요
+P1 	: 아 쯔양이나 히밥같은 유튜버들 말씀하시는거죠?
+P0 	: 네 대식가들 보는게 재밌더라구요 대리만족도 되고
+P1 	: 저도 가끔 보는데 대리만족 확실히 되더라구요 ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋ 그쵸 ㅋㅋ
+P0 	: 어벤져스 엔드게임
+P0 	: 보셨나요
+P1 	: 엔드게임에서 명장면을 꼽아주세요!
+P0 	: 어벤져스 어쎔블

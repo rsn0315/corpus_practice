@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100046924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211107
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 반갑습니다 :)
+	  일요일 오후 어떻게 보내고 계신가요~?
+P0 	: 머리자르려구요
+P1 	: 앗 잠시 외출하느라 늦게 봤네요 ㅜㅜ
+P1 	: 이발은 잘 하셨나요? ㅎㅎ
+P0 	: 네 이발하고왔더니시원하네요.
+P1 	: 이발하게 되면 머리카락 무게가 줄어서 그런가 좀 가벼워지는 것 같아요 ㅋㅋㅋ
+P1 	: &name1&님은 취미가 어떻게 되시나요~?
+P0 	: 특별한취미는없고 그냥잠깐씩운동해요
+P1 	: 오오 그렇군요..! 어떤 운동하시나요??
+P0 	: 그냥 헬스지요뭐
+P1 	: 요즘 주변에서도 보면 헬스 다들 많이 하는 것 같아요..!
+P1 	: 그럼 보통 주에 몇회 정도 하시나요?  ㅎㅎㅎ
+P0 	: 주3회정도갑니다
+P1 	: 뭔가 주 2-3회 정도가 취미로 즐기기 적당한 횟수인 것 같아요 ㅎㅎㅎ
+	  남은 주말도 편안하게 보내세요~!

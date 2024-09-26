@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011030
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  월 1회 미만
+
+P0 	: 집안일 하랴 직장 다니랴 힘드시죠 오늘도 고생 많으셨어요
+P1 	: 이구 따뜻한 말에 정말 위로가 되네요. 감사해요. 새로운 오늘의 시작이지만요{emoji:♡}
+P0 	: 답이 늦었네요 ㅜㅜ 집안일 사부님과 많이 나눠서 하세요?
+P1 	: 아니요. 언제나 억울한 기분을 느끼며 살아가고 있어요.. &name1&님은 어떠세요?
+P0 	: 저두요ㅜㅜ하는게없는 장남 ㅜㅜ
+P1 	: 장남이시군요... 여긴 외동아들이요. 지금도 쇼파에 누워계시네요
+P0 	: 저흰 귀가 전  도움이 안되는 ㅜ
+P1 	: 없는게 나아요....
+P0 	: 아 그런가요 ㅜㅜ 하긴 좋기도 합니다 ㅋㅋ ㅜㅜ 슬프네요함께해야 하는데 ㅠㅠ
+P1 	: 진짜요 전엔 화가 나더니 이제 화보다도 슬픈마음이 커요.. 개선이 힘들단걸 받아들인건지ㅜ
+P0 	: 개선 힘들죠 ㅜㅜ 시어머니 AS해주세요 이러다 파양시킬 수 있어요
+P1 	: 파양은 사회적으로 비난받는다고 저희 언니가... 교사가 그러면 쓰냐며ㅠㅠ
+P0 	: 아 슬픈 현실  사리나오겠어요 ㅠㅠ

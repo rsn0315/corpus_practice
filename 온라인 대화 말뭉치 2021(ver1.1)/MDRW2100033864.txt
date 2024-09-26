@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100033864
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 떡볶이는 좋아하세요?
+P1 	: 네 떡볶이는 집에서 만들어먹어요 ㅎㅎ
+P0 	: 와우
+P0 	: 배달은 일절요?
+P1 	: 아 배달도 가끔 ㅋㅋ 제가 구현할 수 없는 맛일때 시켜요 ㅋㅋㅋ
+P1 	: &name1&님은 떡볶이 좋아하시나요?
+P0 	: 엄청이요ㅋㅋㅋㅋ
+P0 	: 요즘은 로제너무좋아요
+P1 	: 아 로제 저 아직 안 먹어봤어요 ㅋㅋㅋ
+P1 	: 어디가 젤 맛있나요
+P0 	: 떡군이네요 저는ㅋㅋㅋㅋㅋ
+P0 	: 꼭드셔보세요 배떡도괜찮아요
+P1 	: 아 떡군이네 들어본거 같아요!!
+P1 	: 로제는 식어도 먹을만 한가요??
+P0 	: 음 식으면 좀 그렇긴한데ㅋㅋㅋ
+P0 	: 스파게티면 추가필수랍니다
+P1 	: 아 스파게티면.. 메모메모 ㅎㅎ
+P1 	: 못 드시는 음식 혹시 있나요?
+P0 	: 저
+P0 	: 닭발이랑
+P0 	: 해삼 멍게 개불
+P0 	: 이런거요ㅋㅋㅋ
+P1 	: 저랑 많이 겹치네요 ㅋㅋㅋ 저도 닭발 개불 못 먹어요 ㅋㅋㅋ
+P1 	: 그 식감이 너무 싫은 ㅋㅋㅋ
+P0 	: 저도요ㅋㅋㅋㅋ

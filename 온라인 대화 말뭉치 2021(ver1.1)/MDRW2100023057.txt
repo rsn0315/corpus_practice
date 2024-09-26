@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023057
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아요!
+P1 	: 과일인가요?
+P0 	: 꼭 하나씩만 말하기!
+P0 	: 과일 아닙니다
+P1 	: 빵 종류인가요?
+P0 	: 빵! 아닙니다
+P0 	: 조오금 어려우실 것입니다~
+P1 	: 과자인가요? 바삭바삭
+P0 	: 앗 바삭바삭 맞습니다
+P1 	: 무슨 색깔인가요?
+P0 	: 노란색? 이라고 할 수 있겠습니다
+P1 	: 엄마손파이!
+P0 	: 아 아닙니다 그것보다 더 바삭합니다
+P0 	: ㅋㅋㅋㅋㅋ먹느라 좀 늦었어요...^_^
+P1 	: ㅋㅋㅋㅋㅋㅋ맛난 간식타임을 가지셨군요
+P0 	: 아직도 먹고 있어요ㅋㅋㅋㅋ
+P1 	: 으아 맛나겠다
+	  포카칩이나 새우깡같은 봉지과자인가요?
+P0 	: 앗 네 비슷합니다 봉지에 들어있어요
+P1 	: 짭짤한가요?
+P0 	: 넵 짭잘짭잘 ㅎㅎㅎㅎ

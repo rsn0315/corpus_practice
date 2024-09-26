@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021840
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ㅎㅎ
+P1 	: 하이요
+P0 	: 지금 직장 다니고 계신가요~?
+P1 	: 네~
+P1 	: 직장인이세요?
+P0 	: 네 맞아요 ㅎㅎ
+P1 	: 몇년차 직장인이신가요?
+P0 	: 저 이제 딱 일 년이 좀 넘었어요
+P0 	: 완전 새내기ㅎㅎ
+P1 	: 저는 1년 좀 안됐어요 ㅋㅋㅋㅋ 아직 신입중에 신입인데.. 업무는 넘 많네요
+P0 	: 저랑 거의 비슷하시네요 ㅋㅋ 아직 많이 배울 시기죠ㅠ
+P1 	: 전 배울건 다 배웠는데 .. 이번에 새로운 프로젝트 들어갈거라 좀 떨리네용
+P1 	: 혹시 직종이 어떻게되세요?
+P0 	: 아 저는 학교에서 교사해요 ㅎㅎ
+P1 	: 멋있으시다!! 임용고시 힘들지않으셨나요ㅠㅠ
+P0 	: 저 수능을 재수할 때 너무 힘들어 가지고
+P0 	: 임용은 죽어도 재수하지 말아야지 하고 공부해서 다행히 한 번에 붙었어요...
+P1 	: 비대면 수업이 많아져서 더 힘드시겠어요.. 업무 방식이 달라지니ㅠㅠ
+P1 	: 멋져용!!
+P0 	: 맞아요 저는 온라인 수업 만드는 건 한 번도 배운 적이 없는데  발령나자마자 전부 온라인으로 수업하려니...

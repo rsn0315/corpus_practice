@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100025125
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 못해요 ㅠ 시간이 없어서 &name1&은요?
+P0 	: 홈트요
+P1 	: 혼자 하시는건가요? 유툽보면서?
+P0 	: 유투브봐요
+P1 	: 그렇게 하면 하기 힘들던데요. 전 하루 이틀 하다 말아요 ㅋ
+P0 	: 꾸준히 해야죠
+P1 	: 주로 뭐 보고 하세요?
+P0 	: 유투브로
+P1 	: 유투브 운동채널 중에서 뭐 보시나요?
+P0 	: 땅크봐요
+P1 	: 그 부부가 하는거 보시는군요 그중 뭘 제일 많이 하시나요?
+P0 	: 칼소폭이오

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100012211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+	  저녁식사는 하셨나요?
+P1 	: 안녕하세요~ 네 방금 먹었어요
+	  &name1&은요?
+P0 	: &name2&은 무얼 드셨나요?
+P1 	: 저는 샤브샤브먹고 남은 국물로 볶음밥을 해먹었어요! &name1&은 뭐 드셨어요?
+P0 	: 저는 갈비탕이요.
+	  샤브샤브 후 볶음밥은 진리죠
+	  달걀 톡  참기름 쪼록 김가루 촥촥해서요^^
+P1 	: 김가루는 없었지만 계란참기름 넣고 야무지게 먹었습니당ㅎㅎ
+	  갈비탕도 완전 맛있었겠어요 깔끔하고 담백한 국물! 크으
+P0 	: 네.  근데 미국산이라는 게 함정
+P1 	: ㅋㅋㅋ 맛있으면 됐죠 저도 미국산 자주 먹어요~
+P0 	: 그래도 왠만하면 호주산을 써주징
+	  같이간 사람한테 눈총 맞음요
+P1 	: 그럼 다른거 드시징ㅎㅎ
+	  가게에 갈비탕만 있었어요?
+P0 	: 메뉴를 정해놓고 가서요
+	  먹구 나중에 보니 미국산
+	  그래도 푹 고았는 지
+	  살은 부들부들 하더라구요
+P1 	: 그나마 다행이었네요ㅋㅋ
+	  요즘엔 저녁시간에 사람많이없죠?
+P0 	: 네 두명이상은 못 모이게 하니까
+	  더 없는 거 같아요

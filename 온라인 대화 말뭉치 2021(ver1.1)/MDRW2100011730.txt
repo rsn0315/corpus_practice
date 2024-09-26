@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집이나 카페 다니시나요?
+P1 	: 코로나때문에 다니기 어렵네요 애정하는 곳 있으신가요?
+P0 	: 이화여대 주변에 까이식당이요
+P1 	: 메뉴는 무엇인가요?
+P0 	: 싱가포르식 닭고기 덮밥이요
+P0 	: 맛있어요
+P1 	: 오 싱가포르식이라니 신기하네요..
+P0 	: 닭고기가 촉촉하니 맛있더라고요
+P0 	: &name2&은 좋아하는 맛집 있으세요?
+P1 	: 음 저랑 남편은 동네맛집 칼국수.만두 좋아해요^^
+P0 	: 아~
+P0 	: 만두, 칼국수 땡기네요ㅋㅋ
+P1 	: 만두피가 얇아서 넘 맛있어요
+P0 	: 두꺼우면 맛없더라고요ㅋㅋ
+P1 	: 맞아요 밀가루 먹는 기분..ㅋ
+P0 	: 어떤칼국수 좋아하세요?
+P0 	: 저는 해물칼국수 좋아해요

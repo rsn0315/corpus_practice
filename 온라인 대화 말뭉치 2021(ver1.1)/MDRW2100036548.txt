@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100036548
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 넽 그럼요 파스타 해먹었습니다 zz
+P0 	: 어떤 파스타요?
+P1 	: 그 청정원 아라비아따소스인가 그거로 해먹었어용
+P0 	: 오!! 아라비아따는 맛인가요?
+P1 	: 네 괜찮던데요 ㅋㅋ 근데 로제가 더 맛있어요
+P0 	: 그렇군요 아라비아따는 어떤 맛인가요?
+P1 	: 아 그냥 토마토 소스에요! ㅋㅋㅋㅋ
+P0 	: 그럼 토마토소스에 이름만 바꾼 맛인가요?
+P1 	: 사실 토마토소스중에 살짝 매콤한거가 아라비아따소스인데
+P1 	: 근데 그건 별로 안매콤하더라구욬ㅋㅋㅋ
+P0 	: 아 그렇군요!!

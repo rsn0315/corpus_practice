@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013584
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 학생이신가요??
+P1 	: 저는 학교 졸업한지 오래됐어요 학생이세요?
+P0 	: 넵 저는 아직은 학생입니다
+P1 	: 중 고 대학생 중 어디세요?
+P0 	: 파릇파릇 대학생입니다
+P0 	: 자퇴신청서 제출 아직 안했는데 곧 자퇴하지만요...
+P1 	: 그러시구나 그럼 하고싶은게 있어서 그만두시는거세요?
+P0 	: 네. 공기업이나 공무원 생각하고있는데 과가 달라서요
+P1 	: 미래를 위해 과를 바꾸시는구나 전과는 생각 안해보셨어요?
+P0 	: 재입학이나 재수능이라도 생각하고있어요
+P0 	: 전과나 편입은 제가 성적관리를 너무 못해서...
+P1 	: 좋은 결과 있길 바랄께요
+P0 	: 열심히 해야죠..
+P0 	: 좋은말씀 감사합니다.
+P0 	: 학교 다니셨을때 재밌었던 일 기억나는거 있으신가요?
+P1 	: 저는 무늬대학생이라 잼난일은 별로 없었엉요 ㅎㅎ 대학가요제 알바했던거 생각나네요 연예인봐서 신기했어요 ㅎ

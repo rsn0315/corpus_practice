@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016501
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님~ 혹시 로제떡볶이 좋아하시나요? ㅋㅋㅎ
+P1 	: 안녕하세요
+P1 	: 좋아하죠 ㅋㅋㅋ 좋아하세요?
+P0 	: 네 저 엊그제도 떡군이네 시켜먹었어요ㅋㅋㅋ
+P0 	: 무슨브랜드 좋아하세요?
+P1 	: 전 신전 좋아해요 떡군이네 시키고 싶은데 동네에 없어서 못 먹어봤어요 ㅠㅠ
+P0 	: 아이고..ㅠ
+P0 	: 배떡원조라해서 먹어봤는데 확실히 맛이 비슷하더라구요
+P0 	: 신전 로제떡볶이 어떤가요?
+P1 	: 맞아요 저도 그말 듣고 궁금했는데 ㅠㅠ
+P1 	: 신전은 배떡이랑 비슷한데 후추맛?이 좀 더 나는 거 같아요
+P0 	: 오.. 신전 로제는 점바점이 심해서 실패할수도 있다길래 안시켜봤거든요
+P0 	: 리뷰보면서 다음에 한번 먹어봐야겠어요ㅋㅋ
+P1 	: 저도 그래서 무서웠는데 저희동네는 맛있더라구요 다행히 ㅋㅋㅋ
+P0 	: 아 다행이네요ㅋㅋㅋㅋ
+P0 	: 다른 음식은 뭐 좋아하세요?
+P1 	: 저 빵 좋아해요
+P0 	: 저도 빵 진짜좋아해요
+P0 	: 사실 디저트류 탄수화물류는 다 좋아하는거같아요ㅋㅋㅋ
+P1 	: 탄수화물 다 맛있어요 ㅠㅠ 저도 디저트 달고 살아요
+P0 	: 맞아요 진짜..끊기 힘들어요 ㅎ ㅠ

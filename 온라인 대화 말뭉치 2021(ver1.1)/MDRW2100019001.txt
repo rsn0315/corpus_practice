@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100019001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 식사하셨나요
+P1 	: 안녕하세요
+P1 	: 네 먹었어요
+P1 	: 오늘 밥 먹기 정말 힘들었어요ㅜㅜ
+P1 	: 가는 식당 마다 재료 소진이나 영업을 안해서..
+P0 	: 아이고.. 오늘 힘드셨네요ㅠㅠ
+P1 	: 점심 맛있는거 드셨나요?
+P0 	: 원래 뭐 드시려고 하셨나요
+P0 	: 전 아직 식전입니다
+P1 	: 배고프시겠어요
+P1 	: 원래는 햄버거집 가려했어요
+P0 	: 약간 배고프긴 한데 괜찮아요
+P0 	: 그런데 뭐 드셨나요
+P1 	: 햄버거집 덮밥집 백반집을 거쳐 결국 감자탕 먹었어요ㅋㅋ
+P0 	: 긴 여정을 하셨네요ㅋㅋ
+P0 	: 감자탕은 어땠나요
+P1 	: 그러게 말이에요. 이렇게 밥 먹기 힘든 적은 처음이네요ㅋㅋ
+P1 	: 프랜차이즈 감자탕집이라 무난했어요
+P1 	: 벌써 세신데 뭐 드셔야하는거 아니에요?
+P0 	: 아 저 빵 먹으려고 픽업주문 넣어놨어요ㅋㅋ
+P0 	: 일있어서 점심이 늦어졌네요
+P1 	: 바쁘시네요ㅜㅜ 무슨 빵 드세요?
+P0 	: 파리바게트 예약 걸어놨거든요
+P0 	: 뽀드득 그릴소시지랑 식빵 먹으려구요

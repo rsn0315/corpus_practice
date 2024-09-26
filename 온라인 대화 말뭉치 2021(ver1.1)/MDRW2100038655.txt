@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100038655
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가고 싶은곳이 있나요
+P1 	: 제주도 가고 싶어요ㅠ
+P0 	: 저도 제주도 가고 싶네요
+P1 	: 제주도 어디가고 싶으세요
+P1 	: 저는 쇠소깍이요
+P0 	: 그곳이 어딘가요?
+	  잘 모르는 곳이예요
+P1 	: 제주도에 있는 천?이에요
+P1 	: 뗏목타기 체험 있어요ㅎㅎ
+P0 	: 아 가본곳이 아니라서 체험 좋을것 같네요
+P1 	: 그럼 어디 가보셨어요?
+P0 	: 과물 노천탕. 천년의숲 비자림 가봤어요
+	  산책하기 좋아요
+P1 	: 와 저는 하나도 안가봤어요
+P1 	: 저랑 정반대로 가셨나봐요
+P0 	: 저도 뗏목타기 체험은 안가봤어요
+P0 	: 가보고 싶네요
+P1 	: 저야말로 숲 가보고 싶어요
+P0 	: 가보시면 힐링하기  좋을거에요

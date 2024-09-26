@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100047331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 아파본적있으신가요?
+P0 	: 건강한 편이여서 크게 아픈적은 없는것 같아요
+P1 	: 저는 독감걸려봤어요
+P0 	: 독감 되게 힘들다고 들었는데 고생하셨네요 ㅜㅜ
+P1 	: 네 새벽에 고생했어요
+P0 	: ㅜㅜ  건강챙기려고 하시는건 뭐가 있나요
+P1 	: 영양제 챙겨먹어요
+P0 	: 저도 영양제 잘 챙겨먹어요
+P1 	: 뭐드세요
+P0 	: 오메가3랑 종합 비타민 챙겨먹어요
+P1 	: 잘챙겨드시네요

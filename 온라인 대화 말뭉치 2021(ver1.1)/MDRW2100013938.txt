@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013938
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P1 	: 안녕하세요 반려동물키우시나요
+P0 	: 아니요ㅠ
+P0 	: 반려동물 키우시나요?
+P1 	: 네 전 고양이한마리키우고있어요
+P1 	: 함께하고픈 동물있으신가요
+P0 	: 오 부러워요
+P0 	: 전 강아지 키우고 싶네요ㅠ
+P1 	: 어릴때 강아지맡아본적 잠시있었는데 강쥐들은 고양이랑 또 엄청 다르더라구여
+P0 	: 혹시 고양이 이름은 뭔가여?
+P1 	: &name3&에요 애기때 아팠어서 잘자랐으면하는맘에지었는데
+P1 	: 엄청 잘자라는걸 넘어서서 돼지가됐어요
+P0 	: ㅎㅎ그래도 귀여울 것 같아요
+P1 	: 네 넘귀여워서 못참을때 많아요 ㅋㅋㅋㅋㅋ
+P1 	: 고양이 궁금하신거있나여
+P0 	: 실례지만 고양이 변 냄새 심한가요..?
+P1 	: 네 완전완전 심해요 ㅋㅋㅋ
+P1 	: 그래서 빨리빨리 치울수있게돼요
+P1 	: 누고나면 냄새가 코를찌릅니다 ㅋㅋㅋ
+P0 	: 앗 장점도 있군요ㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100003072
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요새 날씨가 너무 덥더라구요 ㅠ
+P1 	: 그쵸..  에어컨이 꺼지질않아요ㅠㅠ
+P1 	: 전기세 폭탄 맞을까봐 걱정되지만 땀샘폭발이라 끌수가없어요;
+P0 	: 맞아요 일단 시원하고 봐야해요 요즘에는
+P1 	: 진짜 저어렸을땐 에어컨이 은행이나 마트에만 있었어서ㅋㅋ 요즘 같은 생활은 꿈도 못꿨어요ㅋㅋㅋㅋㅋ
+P0 	: 와 ㅋㅋㅋ사실 은행이 최고긴하죠 너무 시원해요 ㅎ
+P1 	: 맞아요!  은행이 최고죠!!  어르신들 폭염 대피소로  운영중이라고 들었어요
+P0 	: 아 정말요? 그건 처음 안 사실이네요ㅋㅋㅋ
+P1 	: 요즘은 에어컨이 필수지만 없는 가정도 아직많으니까요
+P0 	: 맞아요 선풍기로만 나기는 힘들죠 ㅠㅠ
+P1 	: 진짜 밤까지 더우니까 죽을맛이에요ㅠㅠ
+P0 	: 밤이면 시원할만도 한데 땀이 송긍송글 나더라구요 ㅠㅠ
+P1 	: 더우면 잠도 안와요ㅜㅜ 열대야 나쁜녀석..
+P0 	: 맞아요 ㅠㅠ 시원하게 샤워해도 금방 도로 땀나요
+P1 	: 땀나면 모기도 엄청꼬이고 짜증나요 여름ㅠㅠ

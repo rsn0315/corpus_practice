@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006120
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 콘서트 가보신적있나요?
+P1 	: 가보고싶어요!
+P0 	: 연극이마 뮤지컬은요?
+P1 	: 어릴때는봤었는데
+P1 	: 다 오년전이래요
+P0 	: 저는 코로나 이후로는 한 번도 못갔어요
+P1 	: 영화는 보셨나요?
+P0 	: 아니요 극장도 안갔어요
+P1 	: ㅠㅠㅠㅠ
+P1 	: 그럼 콘서트나
+P1 	: 연극 뮤지컬은요?
+P0 	: 망할 코로나때문에 ㅜㅜ
+P0 	: 전시회나 이런것도 다 취소되거나 해서 못갔어요 ㅜ
+P1 	: 아....ㅠㅠㅠㅠㅠㅠ이런
+P0 	: 가보고싶은 가수 콘서트 있나요?
+P1 	: 아이유!!@
+P0 	: 오 저도요
+P0 	: 진짜 한 번 가보고 싶어요
+P1 	: 저고저도 완전 가보고싶었어요

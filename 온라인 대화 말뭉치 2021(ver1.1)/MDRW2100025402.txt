@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100025402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사 하셧어용?
+P1 	: 아침은 걸렀어요
+P1 	: &name1&님은 뭐 드셨나요?
+P0 	: 저는 아직 안먹었어요!!~입맛이없어서 ㅠ
+P1 	: ㅜㅇ 점심은 챙겨드세요 그래도ㅜ
+P0 	: 네네 ㅜㅜ 점심시간되면 배고프더라구요
+P1 	: 오늘 점심메뉴는 뭔가요ㅎ
+P0 	: 저는 돈가스에다가 먹을러고요!!
+P1 	: 저 지금 돈까스 먹었어요!!
+P1 	: 싱기싱기
+P1 	: 무슨  돈가스로 시키셨나요
+P0 	: 우아!! 저는 엄마가 치즈돈가스 튀겨줫어요 ㅋㅋㅋ
+P1 	: 헉 치즈돈가스ㄷㄷ 어머니표라니 너무 부럽습니다ㅜㅜㅜ
+P0 	: 네네 ㅠㅠ 소스가 맛있어서 ㅎㅎ
+P0 	: 저녁 드셧어요?
+P1 	: 지금 제육볶음에 쌈싸먹고 있어요!
+P1 	: 뭐 드셨나요?1
+P0 	: 오 제육볶음 !!
+P0 	: 방금 저 빵먹었어요 ㅋㅋ

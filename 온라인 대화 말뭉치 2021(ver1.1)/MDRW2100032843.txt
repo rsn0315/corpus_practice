@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032843
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 올초에 건강검진 받았을때 빈혈이라고 했잖아
+P1 	: 응 그렇다고했지
+P0 	: 백신 맞으러 간김에 빈혈검사도 해봤거든
+P1 	: 결과 알려줬어??
+P0 	: 응 정상수치에서 약간 모자란정도래
+P1 	: 그럼 철분제를 먹어야된대???
+P0 	: 그 정도는 아니고 밥을 제대로 챙겨먹어야된대
+P1 	: 그럴줄 알았어
+P1 	: 다이어트한다고 맨날 대충먹더니
+P0 	: 다이어트로 살은 뺏지만 탈모를 얻고 건강을 잃었다...
+P1 	: 그러니까 밥 좀 잘 챙겨먹어
+P0 	: 오늘부터 운동도 열심히 할거야
+P1 	: 맨날 운동한다고 말만하고
+P0 	: 아냐 이번에는 진심이야

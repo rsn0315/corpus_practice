@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100038462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 메밀 국수 먹자
+P0 	: 오 맛있겠네 ㅋㅋ
+P1 	: 저번에 먹은 거
+P0 	: 그렇군 맛있었다
+P1 	: 집에 많이 남아 있다
+P0 	: ㅋㅋ 빨리 먹장
+P1 	: 좀만 기다려
+P0 	: 옹옹
+P1 	: 계란도 넣어서
+P0 	: 오 제대로네~
+P1 	: 김도 넣어 줄게
+P0 	: 알았옹~ 기대된당
+P1 	: 좀만 기다려 다 되어 간다
+P0 	: 넘 졸린다 오늘따라

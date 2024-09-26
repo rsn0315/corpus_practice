@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027738
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘
+P1 	: 점심 식사 메뉴는 뭐였나요
+P0 	: 어제 먹다남은 치킨을 뎁혀먹었어요
+P1 	: 오 어디꺼에요
+P1 	: 저는 혼자 살아서 맨날 치킨이 남아요
+P0 	: 엄마랑 같이 먹었는데 각자원하는 맛이 달랐어서 2마리 시켰어요 호치킨이라는 곳에서 샀어요
+P1 	: 순간 호식이인줄 알았어요 ㅎㅎ
+P1 	: 어떤맛 드셨는지요
+P0 	: 그냥 일반 후라이드랑 양념된 찐닭? 같은거 주문했어요
+P1 	: 오 저는 호식이
+P1 	: 매운간장 괜찮더라구요
+P0 	: 쥬씨랑 아이스크림같은거요
+P1 	: 쥬씨 수박쥬스 시원해서 좋더라구요
+P0 	: 수박철이였어서 좋은것 같아요
+P1 	: 제일 좋아하는건 교촌 허니콤보에요
+P0 	: 교촌은 사먹어본지가 있었나싶을정도로 안먹어봐서 달달한 맛인가요?
+P1 	: 헉 치킨집 1위가 교촌이였을껄요?!
+P1 	: 허니시리즈 달달 짭짤한데
+P1 	: 물리긴해도 맛나요
+P0 	: 치킨이 물리다니! 그렇다면 떡볶이 어떠십니까

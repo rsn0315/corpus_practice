@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007655
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 혹시 여행계획 있으신가요?
+P1 	: 여행계획은 있는데 코로나로 미뤄졌어요ㅜ
+P1 	: 연내 여행 계획 있으신가요
+P0 	: 아아... 저는 연내 여행 계획 있어요! 아마 백신을 맞으면 갈 거 같아요
+P1 	: 아 백신 예약하셨군요.
+P1 	: 국내여행이겠죠 역시
+P0 	: 네 맞아요 국내 여행 생각 중이에요
+P0 	: 혹시 추천해주실 여행지 있으신가요?
+P1 	: 국내는 여수와 부산이 좋더라고요
+P1 	: 음식도 맛있고요
+P0 	: 여수 좋죠 부산은 제가 가고 싶은 여행지 중 하나예요!ㅋㅋㅋㅋㅋㅋ
+P0 	: 여수 가보셨나요?
+P1 	: 네 두어번 가봤는데 너무 좋았어요
+P1 	: 또 갈까 하는데 여수 어디가 좋으셨어요?
+P1 	: 추천하는 곳 있으면 거기 가보려구요
+P0 	: 저는 주로 호캉스를 즐기는 편인데 호텔 한 곳 추천드려도 될까요?
+P1 	: 와 네네 추천해주세요
+P1 	: 여수 호캉스 안가봐서 기대되네요
+P0 	: 라마다 호텔 추천드려요! 가격은 좀 비싸긴 한데 돈값하더라구요
+P1 	: 오오 비싸도 값어치만 하면 되죠
+P1 	: 이번에 꼭 가볼게요
+P1 	: 추천 감사드려요
+P0 	: 네네 그럼요 꼭 가보세요!

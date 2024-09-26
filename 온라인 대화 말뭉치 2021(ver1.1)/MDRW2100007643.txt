@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100007643
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뭔소리야
+P1 	: 고기랑 사이다 먹냐
+P0 	: 소고기먹어
+P1 	: 소고기랑 음료 뭐먹어
+P0 	: 사이다
+P1 	: 집에서 수비드 먹어?
+P0 	: 내가만들었어
+P1 	: 와 수비드 기계가 있어?
+P1 	: 요리하는 남자 유튜브 자주봄?
+P0 	: 자주봄
+P1 	: 그럴 거 같았음
+P1 	: 인스타에도 올림?
+P0 	: 당근이지
+P1 	: 와우
+P1 	: 카페도 가냐
+P0 	: 그럼
+P1 	: 인싸네
+P0 	: 땡큐

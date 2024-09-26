@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002480
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 줄넘기?
+P0 	: 웅 줄넘기 짧아져서 줄넘기 사야 돼
+P1 	: 어떤 걸로 살까
+P0 	: 그냥 가볍고 줄 잘 꼬이지 않는거
+P1 	: 아무리 좋은 것도 오래 쓰다보면 줄 꼬이던데ㅠ
+P0 	: 그냥 적당한 걸로 사요
+P1 	: 아디다스 같은 메이커로 사야하나
+P0 	: 노노 넘 고급 말고 그냥 적당한거
+P1 	: ㅎㅎㅎ 그럼 애들꺼랑 비슷한 걸로 살게
+P0 	: 그랴요 그 정도면 충분해.
+P0 	: 길이만 잘 확인해줘
+P1 	: 알았응
+P1 	: 길이 충분한 걸로 알아볼게
+P0 	: 스마일캐시로 사면 좀 싸자나
+P1 	: 웅 ㅎㅎ 내가 알아서 알아볼게
+P1 	: 오늘 옷한벌 사야겠다. 티셔츠

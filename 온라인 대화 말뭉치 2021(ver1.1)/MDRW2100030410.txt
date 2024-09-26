@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100030410
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘엔 편의점에도 떡볶이 팔아서 좋아요
+P1 	: 물 넣고 재료 넣고 전자레인지에 돌리면 조리 끝
+P0 	: 까르보나라 떡볶이 맛있죠
+P1 	: 그건 안 먹어 봤네요
+P0 	: 크림 떡볶이도 좋아요
+P1 	: 아 먹어 본 것 같기도
+P0 	: 까르보나라 불닭 먹어 봤나요
+P1 	: 전에 설빙에 갔는데 떡볶이도 팔더라고요
+P0 	: 분홍색 소스예요
+P0 	: 어울리겠어요
+P1 	: 까르보나라 불닭 볶음면 말하는 건가요 좀 맛이에요
+P0 	: 떡볶이는 너무 간단하니까
+P0 	: 좋죠
+P1 	: 소스도 먹어 봤어요 그런데 많이는 못 먹었어요
+P0 	: 그 소스랑 같아요
+P1 	: 대존맛
+P0 	: 조금 덜 맵 줘
+P0 	: 떡볶이가 더 맛있어요
+P1 	: 맞아요 맛있어요
+P1 	: 치즈 떡볶이 취향입니다
+P1 	: 치즈 들어간 거 다 맛있어요

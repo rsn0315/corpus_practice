@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100009414
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅎㅎ 우리 회사서 멀어서ㅜ
+	  ㅌㆍ
+P1 	: 퇴근길에 들러야겠어요
+P1 	: 이러다 정말 확찐자 되겠어요ㅎㅎ
+P1 	: 버거는 어떤거 좋아하세요?
+P0 	: 저는 와퍼 좋아해요!!!!{emoji:♡}
+P0 	: 와퍼..{emoji:♡}
+P1 	: 버거킹 와퍼는 사랑이죠ㅎ
+P0 	: 와퍼종류많은데 뭐니뭐니해도 기본만한게 없더라구요+!
+P1 	: 전 콰치즈와퍼와 트러플머쉬룸 요 두개 좋아해요
+P0 	: 오~~~저는 그 새우들어간 와퍼..
+P0 	: 통새우와퍼!!
+P0 	: 그것도 맛나더라구요!
+P1 	: 통새우와퍼는 안먹어봤는데 혹하네요
+P1 	: 소스는 매콤한 소스인가요?
+P0 	: 새우가 진짜 튼실해요 ㅋㅋㅋ
+P0 	: 음 새콤?매콤?
+P1 	: 지금 검색했더니 정말 튼실한 새우ㅎㅎ
+P0 	: 약간... 토마토소스... 로제소스 같은 맛이었던거 같아요
+P1 	: 회사근처니 이건 아침점심으로도 가능하네요ㅎㅎ
+P0 	: 새우가 생각보다 튼실해요 ㅋㅋㅋ
+P1 	: 역시 버거는 버거킹ㅎㅎ
+P0 	: 드신다면 추천합니다 ㅋㅋㅋ완전 ㅋㅋ 버거는 버거킹이죠
+P1 	: 버거킹 포테이토도 포실해서 좋아해요
+P0 	: 맞아요! 이번에 먹었는데 완전 통통 ㅋㅋㅋ

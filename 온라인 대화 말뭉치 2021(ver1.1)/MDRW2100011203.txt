@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011203
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 여보.. 빨래 다 걷었어요?
+P0 	: 그럼
+P1 	: 다행이네요.. 비오는데 빨래 다시 눅눅해질뻔요
+P0 	: 이제 그정도는 알아서 하지
+P1 	: 아니 비가 오다안오다 이렇게 며칠씩 갈줄 알았다면 빨래 안했을텐데요
+P0 	: 그러게 장마땐 마른장마더니 8월에 오히려 더장마같네
+P1 	: 요즘은 날씨를 예측하기 힘들어요
+P0 	: 그렇지
+P1 	: 어플 보니까 이번주에서 다음주까지 계속 비오는 걸로 돼있더라구요
+P0 	: 그정도야?
+P1 	: 네 그래서 당분간 빨랠가 뽀송하긴 힘들듯해요
+P0 	: 흠 건조기를 사야하나
+P1 	: 뭘 사요.. 며칠 있으면 가을인데.. 곧 날씨 좋아질 거에요
+P0 	: 건조기 좋다던던데
+P0 	: 오늘 날씨가 참 좋네

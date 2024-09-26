@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016147
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 재택근무라
+P1 	: 재택근무 해보신적 있으신가요
+P0 	: 네 코로나 심했을때 잠깐요
+P1 	: 음 좋으셨나요?
+P0 	: 천국이었죠
+P1 	: 불편한 점은 없으셨나요?
+P0 	: 네 저는 넘 좋았어요
+P1 	: 앞으로 재택근무가 확실히 늘어날까요?
+P0 	: 잘 모르겄어요
+P0 	: 고용주들 입장에서는 딱히 재택시켜줄 유인이 없어보여서
+P1 	: 음 육아하시는분들께는 재택근무가 좋을것같아요
+P0 	: 맞아요 저출산 문제에도 도움이 될것같아요
+P1 	: 확실히 어쩌면 대부분 사무직 분들 하시는 일은 비대면으로도 다 가능할것같기도하네요
+P0 	: 그쵸 현장직이 아니면 재택 다 좋을듯해요

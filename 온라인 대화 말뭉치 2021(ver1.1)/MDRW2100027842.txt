@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100027842
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 요즘 어떤거 읽으세요??
+P1 	: 소설을 자주읽는거같아요
+P1 	: &name1&님은요?
+P0 	: 저는 소설도 읽구요
+P0 	: 음
+P0 	: 베스트셀러 위주로 많이 보기도 해요ㅋㅋ
+P1 	: 최근엔 뭐 읽으셨어요
+P0 	: 한낮의 우울이요ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 저는 김려령소설이요ㅎㅎ 약간 드라마같은느낌이었던거같아요
+P1 	: 한낮의우울은 어떠셨나요
+P0 	: 우울증에 대해 이해 하는데 조금 도움이 됐어요ㅎㅎ
+P0 	: 김려령소설은 거의 안읽어본거같아요
+P0 	: 추천할만한가요??
+P1 	: 음..반반인거같아요ㅋㅋ
+P1 	: 책은 주로 어떻게보시나요?
+P1 	: 실물책으로 보세요?
+P0 	: 한동안 그러다가 코시국 이후로는 전자책으로 정착했어요
+P1 	: 요즘 전자책 잘 나오더라구요
+P1 	: 오디오북도 편하고 좋은거같아요
+P0 	: 맞아요ㅎㅎ 요새는 어플도 많구
+P1 	: 그러니까요ㅎㅎ
+P1 	: 뭔가 쓰는 어플이 있으세요?
+P0 	: 주로 도서관어플 써요ㅎㅎ
+P0 	: &name2&님은 오디오북 어디서 들으세요??
+P1 	: 저는 네이버 오디오클립쓰는데 친구는 밀리의서제 자주 쓰는거같았어요~

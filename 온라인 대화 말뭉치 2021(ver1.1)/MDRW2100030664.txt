@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100030664
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 네, 요즘에는 국내 여행만 해요. 여행 좋아하세요?
+P0 	: 국내요
+P1 	: 국내는 어디 가셨어요?
+P0 	: 남해요
+P1 	: 오, 남해좋죠. 저도 남해 바다가 여름 여행에는 좋은 곳인 것 같아요.
+P0 	: 좋네요
+P1 	: 남해 여행에 추천해주실 좋은 관광 명소 있으신가요?
+P0 	: 금천이여
+P1 	: 추천 감사해요. 다음 여행 때 참고하도록 할게요.
+P0 	: 갯벌이에여
+P1 	: 갯벌 재밌지 않나요? 갯벌 체험도 하고!
+P0 	: 그쵸

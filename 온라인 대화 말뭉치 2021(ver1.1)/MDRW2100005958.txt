@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100005958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그래 이제 운동도 하고 음식도 가려 먹어야겠다
+P0 	: 웅웅 식이가 7할임
+P1 	: 그래 다이어트 식품 좀 사 놔라
+P0 	: 알았어용 ㅋㅋ
+P1 	: 뭐가 좋으냐
+P0 	: 단백질을 많이 먹어야지
+P1 	: 그래 좀 사 놔라
+P0 	: 웅웅~ 간편하게 먹을수 있는거로 사둘게
+P1 	: 그래 고마워
+P0 	: 나도 같이 먹으면서 살빼야지 ㅋㅋ
+P1 	: 그래 같이 살 빼 보자
+P0 	: 다이어트 식품 사러 마트 다녀올까
+P1 	: 같이 가자

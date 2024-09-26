@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021644
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일 많이하시나여?
+P1 	: 아뇨 출근하느냐고 주말에 몰아하는편이예요 ㅎㅎ
+P0 	: 청소도 주말에요?
+P1 	: 간단한건하죠
+P0 	: 청소기쓰세요? 주력템이 모에요?
+P1 	: 평일엔 청소기만 밀어놓고가요
+P1 	: 로봇청소기는 물건을 다 올려야해서 오히려 불편하더라고요
+P0 	: 로소청소기 청소 잘하나요? 사고싶어요
+P1 	: 네 근데 바닥을 돌아다녀야해서 물건을 다 올려야하는 단점은 있어요
+P0 	: 아.. 그건 귀찮겠네요..
+P0 	: 지가 밧데리도 알아서 충전하죠?
+P1 	: 네 다돌면 충전소로 돌아가요 ㅎㅎ
+P0 	: 먼지는 자주 빼줘야해요?
+P1 	: 네 전 돌리는 당일에 빼주고있어요
+P0 	: 물.걸.레는 안해도 될정도인가여?

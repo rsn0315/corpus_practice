@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010310
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 이상형있으신가요?
+P1 	: 예의 바른 사람 좋아해요! 저를 존중해줬으면 하고요!
+P1 	: &name1& 님은요?
+P0 	: 맞아요 저도
+P0 	: 내적인게 진짜 중요하다생각해요~
+P1 	: 지금 연애중이신가요?
+P0 	: 아니요!
+P0 	: 연애중이신가요?
+P1 	: 저도 지금은 연애 안 하고 있어요
+P1 	: 사실 요즘은 연애할 여유도 없어요ㅜ
+P1 	: 별로 막 하고 싶다는 생각도 안 드네요
+P0 	: 맞아요 대부분 그런생각들많더라고요ㅋㅋㅋ
+P0 	: 딱히괜찮은 사람도 없고
+P1 	: 맞아요 제 시간이랑 막 쏟을 만큼 괜찮은 사람이 없는 거 같아요
+P1 	: 저는 요즘 딱히 외로움도 안 느껴요ㅋㅋㅋ
+P0 	: ㅋㅋㅋ 좋죠
+P0 	: 결혼생각은 있나요?
+P1 	: 요즘은 딱히 안 드는 거 같아요
+P1 	: 연애든 결혼이든 의무적으로 하기는 싫어서요

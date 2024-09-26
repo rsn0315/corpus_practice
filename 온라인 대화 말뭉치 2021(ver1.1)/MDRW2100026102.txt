@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026102
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 요새 캠핑에 관심이 생겨서 캠핑용품 구입하고 있어요
+P0 	: 캠프 연봉 문주로 어디서 구매하세요?
+P0 	: 캠핑용품
+P1 	: 주로 대부분 금액 때 나가는 것들은 중고로 구입하는 편인데 그 외 자잘한 것들은 인터넷으로 많이 사게 되더라구요 특히 네이버 나
+P0 	: 당근 마켓은 안 하세요?
+P1 	: 당구는 몇 년 전부터 시작했는데 요새는 사용자가 많아지다 보니까 가격이 오히려 새거보다 비싼 경우도 많더라구요 딱히 메리트를 못 느껴서 잘 안 하게 되더라구요
+P0 	: 맞아요 당근은 잘 보고 사야 해요
+P1 	: 내 진짜 제가 필요한 물건을 안나오는데 괜찮다 싶은 것들은 다 가격이 비싸더라구요
+P0 	: 한동안 당근 많이 했었는데
+P1 	: 저도 얼마 전까진 단 건 진짜 많이 했거든요
+P0 	: 당근에 법칙이 있어요
+P0 	: 아세요?
+P1 	: 무슨 법칙이 요?
+P0 	: 팔릴거라 생각하고 올린건 안팔리고.
+P0 	: 당근 해보셨나요?ㅋㅋ
+P1 	: 당연해 해봤죠 ㅎ

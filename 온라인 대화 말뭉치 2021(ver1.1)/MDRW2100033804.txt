@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033804
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 있으면 먹어요!
+P1 	: &name1&님은요?
+P0 	: 아 그렇게 좋아하는 편은 아니시구나..
+	  전 좋아해요! 김밥을 좋아해서ㅎ
+P0 	: 좋아하는 분식은 있으세요?
+P1 	: 치즈김밥vs참치김밥
+P0 	: 참치김밥
+P1 	: 순대요!
+P0 	: &name2&님은요? 어떤김밥좋아하시나요
+P1 	: 순대간 좋아해요
+P0 	: 헉 저두요
+P1 	: 치즈김밥 좋아해요~
+P1 	: 쌀떡vs밀떡
+P0 	: 음.. 밀떡?
+P0 	: &name2&님은요?
+P0 	: 전 약간 너무 쫀득거리는건 별로라
+P1 	: 저도 밀떡이요
+P1 	: 친숙해서 좋아요
+P0 	: 역시 쌀떡보다는 밀떡이죠
+P0 	: 양념도 잘 스며들고
+P1 	: 떡볶이 좋아하시나봐요

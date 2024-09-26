@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100017251
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 많이 좋아해요 ㅎ
+P1 	: 오 최근에 다녀오신 곳이 있나요
+P0 	: 이번달에 여름휴가 울릉도 독도 다녀왔어욤
+P1 	: 우와 너무 멋집니다
+P1 	: 한번도 못가봑어요 엄두도 안나고
+P0 	: 독도입도는 진짜 인상깊었어요
+P0 	: 최근에 여행 다녀오신곳 잇으세요?
+P1 	: 저는 여행안간지 오래네요ㅠ
+P1 	: 독도ㅠㅠㅠ부럽습니다
+P0 	: 코시국 언능 끝낫음해요ㅜㅜ
+P0 	: 멀리가고싶어요
+P1 	: 맞아요 외국가고싶어요
+P0 	: ㅠㅠ진심
+P1 	: 남친도 외국에있어서 가봐야하는데
+P0 	: 에고ㅜㅜㅜㅜ
+P1 	: 1년반째못가고있어요
+P0 	: 롱디시구나ㅠㅠ
+P0 	: 저는 내년에 결혼하는데
+P0 	: 신행은 멀리가고싶어서 미룰꺼에요ㅜ
+P1 	: 우와 결혼 하시는군요
+P1 	: 맞아요 코시국 끝나고 신행 가셔요ㅠㅠ어디가고싶으세요
+P0 	: 2주정도 갈수있어서
+P0 	: 유럽이나 호주 생각중인데
+P0 	: 다가고싶어요
+P1 	: 우와 그쵸 저도 유럽 가고싶어요
+P0 	: 저는 한번 다녀왓는데 넘 좋앗어서
+P0 	: 다시가고싶어요

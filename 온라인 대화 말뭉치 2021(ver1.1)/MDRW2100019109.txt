@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100019109
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 고양이를 키워요
+P1 	: 뭐 키우시나요
+P0 	: 오...저는 동물을 안 좋아해서
+P0 	: 안키워요
+P1 	: 고양이가 낯선 사람처럼 대해서 늘 새로워요
+P1 	: 강아지는 산책을 가야되니까 힘들더라구요
+P0 	: 고양이는 사람한테 정 안 주는 걸로 알아용
+P1 	: 넹 그래서 강아지가 좋가한데 혼자 두기 미안해서요
+P1 	: 날씨가 넘더워서 털갈이 해줘야겠어요
+P0 	: 음 고양이도 털갈이 해주나유
+P1 	: 넹 조금 다듬어줘요
+P0 	: 헉 첨 알았습니다ㅋ
+P1 	: 주택 가면 개 키우려구요
+P0 	: 오우 .. 고양이 이름은 뭔가용
+P1 	: &name3&요
+P0 	: 오호 이름 멋지네요
+P0 	: 동물은 햄스터가키우기좋죠

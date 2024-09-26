@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012209
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 여행 업계 비수기 3.6.9월에 여행을 가는 걸로 반값 여행이야
+P0 	: 아하~
+P1 	: 그리고 예약이 필수
+P0 	: 예약 해야지  당일은 무리니
+P1 	: 응 선예약할데 가장 싸게 살수 있는 최소 예약은 2달전
+P0 	: 2달전에 열심히 봐야겠다
+P1 	: 응 근데 만약 3.9월에 명절이 있으면 패스
+P0 	: 당연하지 그건 안다
+P1 	: 응 여해상품이 이렇게 가격이 틀리므로 잘 알아보고 해야해
+P0 	: 응  달이랑 요일 필수 검토
+P1 	: 꼭 기억해서 최대한 저렴하게 가야 가서 돈을 펑펑 쓸수 있다
+P0 	: 쉽지않네
+P1 	: 쉬운게 어디 있겠노 다 노력이 필요하지
+P0 	: 그렇네 난  여행사로만해서

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100036444
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 음식 어떤게 있으세요/?
+P0 	: 저는 떡볶이요
+	  떡볶이 좋아하시나요?
+P1 	: 저도요 엽떡 ㅠㅠ너무 좋아해요
+P0 	: 엽떡 정말 맛있죠
+	  최근에 구매하신 물건이 있으신가요??
+P1 	: 저 방금 황태채 샀어요
+P0 	: 인테넷으로요??
+P1 	: 네 ㅎㅎ 온라인
+P0 	: 황태채는 싼거 사도 맛있나요??
+P1 	: 저도 처음 사봤어요 ㅎㅎ
+P1 	: 황태채로 사실 요리 할게 그닥 없어서 저는 ㅠㅠ 안사다가 쿠폰있길래 싸서 한번 사봤는데 ㅎㅎ
+P0 	: 그렇군요 근데 황태체는 보통 생으로 먹지 않나요?
+P1 	: 국 끓일때 넣긴했어요 ㅎㅎ 아 생으로도 먹나요.. 첨알았는데요??
+P0 	: 그런가요? 저만 생으로 먹나요?ㅋㅋㅋㅋ

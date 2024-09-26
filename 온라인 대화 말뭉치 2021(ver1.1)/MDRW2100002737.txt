@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100002737
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비가 많이 오네요
+P0 	: 그러게요. 비가엄청 쏟아지네요. 오늘은 밖에 나가지말아야겠어요.
+P1 	: 네~ 장마래요
+P0 	: 오늘 하루종일 비가 오는것 같더라구요
+P1 	: 설마 내일도 오는건 아니겠죠
+P0 	: 내일은 비가 멈췄음 좋겠어요ㅠㅠ 근데비가오니까 한층 시원하긴해요
+P1 	: 네~저도 창문 열고 있는데 시원해요
+P0 	: 비가온덕에 미세먼지도 없는것 같고용 밖에만 안나가면 비가오는것도 좋은것같아요
+P1 	: 네~~하루 종일만 아니면 좋은데
+P0 	: 저는 오늘은 포기했고 내일만 안왔으면 좋겠어요ㅠㅠ
+P1 	: 오늘은 집콕해야 겠어요
+P0 	: 비오는날이니 집에만 있는게 좋을것같아요! 파전먹고싶어지네요
+P1 	: 빗소리 들으며 파전 좋죠

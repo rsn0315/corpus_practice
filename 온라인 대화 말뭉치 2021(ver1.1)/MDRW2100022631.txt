@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사는요?
+P0 	: 치킨먹을거같아요
+P1 	: 전 생각중
+P0 	: ㅋㅋ 칼국수도 먹고싶네요
+P1 	: 맛나요
+P1 	: 바지락 좋죶
+P0 	: 완전 건강식이죠!
+P1 	: 네 대받
+P0 	: ㅋㅋ더우니까 냉면도 땡기네요
+P1 	: 악 좋아요
+P0 	: 하지만 이미 파바빵과 치킨 시켜버렸네요ㅜ
+P1 	: 파바더 주문되요?
+P0 	: 요기요에서 픽업 5천원 할인이요
+P1 	: 아하

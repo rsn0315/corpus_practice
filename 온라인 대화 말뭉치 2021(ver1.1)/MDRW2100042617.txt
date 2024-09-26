@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100042617
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 콘사트 자주 다니시나요
+P1 	: 마지막 콘서트가 19년도네요~
+	  그 후론 오프로 못해서요~
+P0 	: 아하 요즘은 코로나때뭉에 콘서트 가기가 힘들죠
+P0 	: 누구콘서트를 가셨아요?
+P1 	: 방탄요~ㅎ
+P0 	: 아하 그래서 닉네임이 &name2&라고 하셨군요 어떠세요? 콘서트 표 구하기 어렵다던데요
+P1 	: 정말 너무 힘들어요~
+	  팬들은 많은데 좌석수는 한정이 되어 있으니까요~
+P0 	: 맞아요 제 딸도 엑소 좋아할때 보니까 진짜 힘들어하더라고요
+P0 	: 콘서트는 자주 다니셨나요?
+P1 	: 자주 못가요~다른 아티스트 콘서트는 티켓이 생겨서 몇 번 가봤고~
+	  방탄은 티켓 구하기가 하늘의 별따기라~ㅎ
+P0 	: 아하 그렇군요ㅠ 방탄소년단의 분위기가 좋아서 콘서트 분위기도 좋을 것 같아요
+P1 	: 네~거의 축제예요~
+	  공연 마지막에는 불꽃놀이도 대단하구요~
+P0 	: 와 불꽃놀이도 하나요? 실외에서 주로 콘서트를 여나봐요
+P1 	: 19년도 한국 마지막 콘서트는 잠실 종합운동장에서 했구요~
+	  해외에선 스타디움 투어 했어요~
+P0 	: 아하~ 해외도 보러 가셨나요?
+P1 	: 아뇨~
+	  콘서트 DVD 판매하니까 영상으로 봤어요~
+	  해외 콘서트도 직관하고 싶어요~

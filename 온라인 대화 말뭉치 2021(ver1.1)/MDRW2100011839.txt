@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011839
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 식사메뉴는 뭔가요?
+P1 	: 계란볶음밥이랑 컵누들먹었어요
+P0 	: 저는 오징어볶음이요
+P1 	: 와 오징어 진짜 맛있겠네요
+P0 	: 오징어는 배달했어요ㅎㅎ
+P1 	: 저도 오늘 파리바게트 할인한대서 배달시키려다 실패요ㅜ
+P0 	: 배달이 왜 실패에요?
+P1 	: 주문했는데 품절이라 배달을 못한대요ㅜㅜ
+P0 	: 아 그런경우있죠ㅠㅠ
+P1 	: 배달해먹는게 더 가성비가 좋나요?
+P0 	: 아무래도 오징어는 손질하고 데치고 요리하기가 번거로워서 배달했어요
+P1 	: 다른건 어떤걸 자주 배달해드시나요?
+P0 	: 아무래도 치킨인것같네요
+P1 	: 저도 치킨배달이 가장 많아요

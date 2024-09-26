@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100036921
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: &name2&님네 지역은 날씨가 어떠세요?
+P1 	: 여긴 비와요
+P1 	: &name1&님네 지역은 어떤가요
+P0 	: 오.저희지역도요 ㅠㅠ 생각보다 많이내리네여.ㅋㅋㅋ
+P1 	: 하늘도 어둡고 종일 내릴거같은 분위기예요
+P0 	: ㅠㅠ 기상청보니까 저희지역은 그런것같아요 ㅋㅋ
+	  아 저는 흐려서 별로안좋아하는데말이죠 ㅋㅋ
+P1 	: 저도 이렇게 우중충한 날씨 안좋아하는데
+P1 	: 요즘은 계속 그런거같아요
+P0 	: ㅋㅋㅋㅋㅋ 며칠에한번씩 살짝 맑다가
+	  비오고.. 더위만빼면 그냥 여름이네요 ㅋㅋㅋ
+P1 	: 그쵸 어쩐지 여름에 장마가 안온다 했더니...
+P1 	: 습도 장난 아닌데 에어컨 틀기엔 춥고
+P1 	: 진짜 애매한 날씨예요
+P0 	: 여름에 사실 비가 좀 와야 덜더운데
+	  더운거 몰아서오고
+	  지금은 비가 막 몰아서 내리고 ㅎㅎ
+	  몇주 전에 &name2&님네 사는곳엔 번개 안쳣어요?
+	  완전 열심히치더라고요
+P1 	: 한번 비 엄청 온 날 있었어요
+P1 	: 번개도 없이 천둥만 계속 쳐서 처음에 잘못들은줄 알았는데
+P1 	: 좀 있다가 비가 엄청 내리더라구요
+P1 	: 날씨 진짜 이상해요 ㅋㅋㅋ...
+P0 	: 저 진짜 살면서 번개에 두번 깜짝놀랫엇는데
+	  그날 동생ㅇ이랑잇다가 너무 놀랬어요

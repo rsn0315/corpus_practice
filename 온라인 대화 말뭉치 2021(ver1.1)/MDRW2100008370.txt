@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100008370
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맞아요 ㅠㅠ
+P0 	: 책 좋아하세요?
+P1 	: 솔직히 아니요...잘 읽게되질않네요
+P1 	: 책 좋아하세요?
+P0 	: 요즘 막 재밌어지더라고요!
+P0 	: 여기서 채팅하면서 추천도서 한권씩 받아가고있어요 ㅎㅎ
+P1 	: 우와 추천받으신거 저도 궁금한데 알려주실수 있어요?
+P0 	: 앗 좋아요
+P0 	: 루팡의 딸?
+P0 	: 그리고 모모 라는 책도 추천받았고
+P0 	: 1인가구 살림법이라는 책도 추천받았내요!
+P1 	: 헉 1인가구 살림법 너무 솔깃한 제목이다
+P1 	: 메모 했어요 정보감사해요
+P0 	: 그쵸 저도 너무 솔깃했어요
+P0 	: 어릴때 좋아하던 동화 있으새요?
+P1 	: 갑자기 생각하려니 생각나는게 없네요
+P1 	: &name1&님은요?
+P0 	: 음 저는 누가 내머리애 똥쌌어?
+P1 	: 아! 표지 기억나요
+P1 	: 귀엽고 따땃한 내용이였던거 같은데맞나요?
+P0 	: 결말은 기억이 안나는데
+P0 	: 엄청 귀여웠던건 맞는거같아요
+P0 	: 지금 스팀 프사도 그거얘요 ㅎㅎ
+P1 	: 앜ㅋㅋㅋㄱ 귀엽겠어요
+P1 	: 추천해주신 책 잘읽어볼게요
+P0 	: 좋아요ㅎㅎ
+P0 	: 최근에는 얼음고래 쟈밌개 봤는데
+P0 	: 이것도 추천해요
+P1 	: 감사해요!

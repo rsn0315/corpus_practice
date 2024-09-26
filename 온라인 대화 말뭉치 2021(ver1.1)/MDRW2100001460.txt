@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100001460
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: /
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 곧 저녁인데 메뉴 정하셨나요?
+P0 	: 속이 안 좋아서 죽을 먹을 예정입니다
+P1 	: 속이 왜 안좋으시죠.. 혹시 어제 술 드셨나요?
+P0 	: 빈속에 커피를 너무 많이 마셔서 그런 것 같습니다
+P0 	: 술이라면 덜 억울할텐데요 ㅠㅠ
+P1 	: 헉
+P1 	: 빈속에 커피 너무 많이 마시면 진짜 안좋은 거 같아요.. 조심하세요 ㅠㅠ
+P1 	: 덜 억울하다니 ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 술을 좋아하시나봐요!
+P0 	: 좋아하는데 이제 줄여야 할 거 같아요
+P0 	: 나이가 먹어서 그런가 힘드네요..
+P1 	: 저도 젊었을 땐 잘 마셨던 거 같은데..
+P1 	: 이젠 조금만 과음해도
+P1 	: 다음날 너무 힘들어서
+P1 	: 속상하네요....흑흑
+P1 	: 이젠 약 없이 술을 못마시는 지경까지 와버린..
+P0 	: 저런..
+P0 	: 좋아하시는 주종이 있으신가요??
+P1 	: 저는 소맥이요! 님은요?
+P0 	: 저는 맥주는 배불러서 소주를 좋아해요
+P0 	: 비 오는 날에는 막걸리까진 괜찮습니다
+P1 	: 뭔가 술을 드실 줄 아시는 분 같네요..
+P1 	: 진정한 고수만이
+P1 	: 소주를 즐기는거라고 생각해서요..
+P0 	: 근데 아무리 마셔도 소주는 쓰네요
+P0 	: 맛있지는 않은거 같아요
+P1 	: 소주가 달면 그날은 좀 위험한 날이긴하죠..ㅎㅎ
+	  

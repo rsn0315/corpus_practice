@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100019958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는 골고루 다 좋아하는데
+P0 	: 오늘 뀐아망인가 그거 먹었는데 되게 맛있더라구요
+P0 	: 뀐아망 아시나요
+P0 	: 뀐아망 아시나요
+P1 	: 뀐아망?
+P1 	: 처음들어봤어요
+P0 	: 그 저도 처음 먹어보느네
+P0 	: 크루아상 보다 조금 더 풍미가 진한 빵이라고 생각하시면 될 것 같아요
+P1 	: 오 크루아상 완전 좋아하는데
+P1 	: 다음에 먹어봐야겟어요!
+P0 	: 약간 엄마손파이를 빵으로 만든다면
+P0 	: 이런맛이겠구나 하는
+P0 	: 시간 나면 드셔보세요
+P1 	: 너무 맛잇을 것 같아요
+P0 	: 식빵은 어떻게 먹는걸 좋아하시나요
+P1 	: 여러겹인데 버터풍미 나면서
+P0 	: 맞아요
+P1 	: 저는 살짝 구워서 맨빵 먹는거 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저는 크림치즈 발라먹는거 좋아해요
+P0 	: 좋아하는 식빵종류 있으신가요
+P1 	: 크림치즈 너무 맛잇죠
+P1 	: 식빵은 크게 안가리는것같아요
+P1 	: &name1&님은요
+P0 	: 저는 상미종 식빵 좋아해요

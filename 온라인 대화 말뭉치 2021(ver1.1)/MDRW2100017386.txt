@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017386
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교다녕요,?
+P0 	: 저는 직장인이예요ㅎㅎ
+P0 	: 학생이신가요?
+P1 	: 대학원생이요
+P1 	: 대학생이조앗죠
+P0 	: 아 대학원생이시구나
+P0 	: 대학원 수업도 원격으로 진행하나요 요즘?
+P1 	: 코스웍 끝나서 모르겟네요
+P1 	: 아마 그럴거애용..
+P1 	: 대학생하고싶다
+P0 	: 아 논문학기신가봐요~
+P0 	: 저는 이제 대학원 가볼까 생각중이라
+P0 	: 요즘 대학생들 근데 캠퍼스 생활도 못 누리고 안쓰러워요...
+P1 	: 아아 ~ 그죠ㅋㅋㅋㅋ 좀 불쌍
+P1 	: 오 왜 학교로 다시.....
+P0 	: 아 전문성을 좀 키워보고 싶다는 생각이 들어서요ㅎㅎ
+P0 	: 늦기 전에 좀 더 공부해보면 좋겠다 싶기도 하고
+P1 	: 아하 박사로요?
+P0 	: 아뇨 일단 석사부터...ㅎㅎ
+P1 	: 수업듣믄게 젤 폄한거같아요
+P0 	: 그쵸그쵸
+P0 	: 학생 때가 젤 편하다...
+P0 	: 학생 때는 공감 못했는데 지나고보니 수업듣기만 할 때가 젤 편했어요
+P1 	: 그죠 시간 돌리구시퍼요

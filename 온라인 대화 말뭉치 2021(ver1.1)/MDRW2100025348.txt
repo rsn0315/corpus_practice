@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100025348
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당근하고있어요 당근이나 중나하세요?
+P0 	: 당근이요
+P1 	: 최근 판 물건 있으세요?
+P0 	: 공기청정기요
+P1 	: 저는 올려놔도 입질이 없네요ㅜ
+P0 	: 그런가여?
+P0 	: 가격조정이
+P1 	: 헌혈하고 받은 영화관람권 올렸는데
+P1 	: 7천원에 팔라고하더라고요
+P0 	: 우와
+P1 	: 그래서 거래불발이네요
+P0 	: 참 그러내여
+P1 	: 그 이후론 입질이 없네요
+P0 	: 기다려야 겠네야
+P1 	: 괜히 올려놓으면 빨리팔고싶어요
+P0 	: 그쵸

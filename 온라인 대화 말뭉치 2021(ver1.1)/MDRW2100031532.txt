@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100031532
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 좋아하는 집안일 있으세요?
+P1 	: 좋아하는 건 없지만 스팀 청소기로 바닥이 깨끗해지는 걸 좋아합니다.
+P1 	: 화장실 청소도 결과물에 기분이 좋아지는 것 같아요.
+P0 	: 저도 샤워하면서 화장실 청소할 때 물 때 벗기는 기 기분이 좋더라고요
+P1 	: ㅎㅎ 맞아요. 물 때 사라지는 거 좋죠.
+P1 	: 마르면 반짝반짝하고
+P1 	: 거울도 유리밀대로 싹싹 밀거든요
+P0 	: 정말 깨끗하시네요!
+P0 	: 싫어하는 집안일은요?
+P1 	: 진공청소기로 매일 미는 거요 ㅜ ㅎㅎ
+P0 	: 저는 설거지가 제일 싫습니다...
+P1 	: ㅋㅋㅋㅋㅋㅋ 진리죠 으
+P0 	: 그래서 동생이랑 번갈아가면서 하고 있어요
+P0 	: 혼자 사시나요?
+P1 	: 그릇이 깨끗해지는 건 좋은데 .. 정말 인간인 게 번거롭다는 걸 체감하는 작업인 것 같아요.
+P1 	: 아뇨, 가족(부모님)이랑 사는데
+P1 	: 주거공간이 분리되다시피해서
+P1 	: 제 구역은 제가 다 관리하거든요.
+P0 	: 우와 구역도 나뉘어져있다니 신기해요
+P0 	: 요리도 하시나요?
+P1 	: 집 구조가 좀 특이해서 거실과 주방만 공유하는 셈이예요
+P1 	: 간단한 요리는 해요 ㅎㅎ

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100005822
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 한권만 갖고 왔지 뭐람..
+P1 	: 상호대차 5권까지 아냐?
+P1 	: 한권만 반납하면 한권만 들고갈수 있나..?
+P0 	: 이미 5권 빌렸다가 2권 반납하고 1권 빌림
+P0 	: 그러니까 1권만 반납하고 2권 빌릴 수는 있을텐데
+P0 	: 내일 또 가야하니까~
+P1 	: 연장은 안돼?
+P1 	: 한번에 알려줘라~
+P0 	: 이미 연장된 상태
+P0 	: b시는 요즘 대출할때 그냥 3주 찍어서 주더라고
+P0 	: 자동 연장
+P1 	: 글쿠먼
+P1 	: 낼 반납해야하는거 뭐뭔데?
+P0 	: 책읽기좋아하는사람.. 그거
+P1 	: 아항
+P1 	: 번거롭게 됐구먼 알았음 아침에 챙겨줬을텐데
+P0 	: 응 나도 오늘 아침엔 깜빡함
+P0 	: 어제는 생각했는데ㅋ
+P0 	: 우리동네 도서관에 신청한 건 아직 연락이 없네
+P0 	: 걔도 연락오지? 책 도착하면
+P1 	: 상호대차?
+P1 	: 응 문자올거야
+P0 	: 응 상호대차
+P1 	: 네 책마실 아직 발송중이래
+P0 	: 아 그렇구만
+P1 	: 오면 문자올겨

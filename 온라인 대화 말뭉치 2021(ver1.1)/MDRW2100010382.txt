@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010382
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 요즘에 스포츠본거 있으세요?
+P1 	: 안녕하세요! 저는 올림픽 봤어요 양궁 금메달이 벌써 한달 전이네요..
+P1 	: 배구도 재밌게봤어요!
+P1 	: &name1&님은요??
+P0 	: 어 벌써 그런가요ㅠㅜ 저도 올림픽 재밌데 봤어요
+P1 	: 평소에 응원하는 축구팀이나 야구팀 있으세요??
+P0 	: 아뇨ㅜㅜ스포츠에 관심이 있는 편은 아니었어요 좋아하는 스포츠 있으세여?
+P1 	: 사실 저도 딱히 없네요,, 몇번 축구보러 간적은 있어요!
+P1 	: k리그 공짜표가 생겨서 보고왔는데
+P0 	: 저도 국대축구 보러간적있어요ㅎㅎ
+P0 	: 아 어떠세요?
+P1 	: 그때 경기가 이겼던걸로 기억해요 재밌었어요
+P1 	: 야구는 한 번도 안가봤어요 ㅋㅋ  어딜 응원해야할지도 모르겠고,,
+P0 	: 아 이기면 재밌다고 하더라구요ㅎㅎ
+P1 	: 대부분 연고지 팀을 응원하더라구요
+P0 	: 저도...그리고 시간이 너무 긴거같아요ㅠ
+P1 	: 부산이면 롯데 이런식으루 ㅋㅋㅋ
+P1 	: 맞아요 지루할거같아요
+P0 	: 맞아요 다들 그렇더라구요

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100001865
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 연애중이신가요?
+P0 	: 아니요
+P0 	: &name2&님은요?
+P1 	: 저도 아니에요
+P1 	: 소개팅을 해보신적이 있으신가요?
+P0 	: 엇 제가 하려고 했던 질문인데ㅋㅋ 아니요 &name2&님은요?
+P1 	: 저는 해본적없어요
+P0 	: 음 그럼 사람을 볼 때 이랬으면 좋겠다 라는 조건이 있나요?
+P1 	: 음
+P1 	: 너무 이상적인 생각만 들어서 힘든데요
+P1 	: 일단 사소한게 맞았으면 좋겠다라는 생각이 들어요
+P0 	: 중요하죠
+P0 	: 대화라던가 생활습관 식생활같은거요
+P1 	: 네 그런것같아요 좋아하는데 안맞으면 속상할것같아요
+P0 	: 맞아요. 가치관이 맞아야 하는 거 같아요.
+P1 	: 네 &name1&님은 중요하게 보시는게 있으신가요?
+P1 	: 소개팅남이 왔다고 가정해보고
+P1 	: 앞에... 음... 파스타 하나 있는 상황에서
+P0 	: 대화가 잘 통하는게 먼저죠
+P0 	: 식사예절도 통해야하구요
+P1 	: 일단 전... 쩝쩝거리시는 분과는 힘든것같습니다
+P0 	: 어.. 저두요
+P0 	: 저 그래서 먹방도 못봐요
+P1 	: 저도 먹방 잘 안봐요. 보다보면 살짝 기괴해서
+P1 	: 쯔업 쯔업
+P1 	: 그렇지만 적게 먹는 먹방은 좋아합니다

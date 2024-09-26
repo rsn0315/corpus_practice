@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100021108
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님도 커뮤 하시나요?
+P1 	: 단톡방이랑 카페 활동이요
+P0 	: 저는 친목카페는 안하는데 취미로 하시는지 아님 소규모 카페인가요?
+P1 	: 이벤트 알려주고 하는 그런 카페요. 규모가 그리 크진 않아요
+P0 	: 아 정보 알려주는 그런곳 좋죠 예전에 저도 그런데 참여했는데 활동 저조해서 짤렸어욬ㅋㅋㅋ취미활동 하시는 커뮤는 없으세요?
+P1 	: 취미활동 하는 커뮤는 없어요.
+	  어떤 커뮤 하시나요?
+P0 	: 저는 아이돌 좋아해서 그쪽 커뮤 많이 해요
+P1 	: 오 아이돌 누구요?
+P0 	: 방탄이욬ㅋㅋㅋ
+P1 	: 방탄 인기 많죠! 커뮤에서 무슨 활동하시나요
+P0 	: 막 글 올리지는 않고 올라온 자료 보면서 쉬는 거죠 나이들수록 즐겁다는 감정을 느끼는게 쉽지 않아서 취미가 꼭 필요한거 같아요
+P1 	: 맞아요 재충전도 하고 좋을 거 같아요
+P0 	: 요새는 너무 폰만 잡고있고 수시로 커뮤만 들락거리고 안좋은건가 싶기도해요
+P1 	: 정모 같은건 안하시죠?
+P0 	: 오프해본적 없어요 혼자 가는거 쑥스럽구요

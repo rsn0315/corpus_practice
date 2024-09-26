@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018678
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 무슨 음식 좋아하세요?
+P0 	: 샤브샤브요! 좋아하시나요?
+P1 	: 네!
+P1 	: 싫어하는 음식은요?
+P0 	: 전 양고기는 못먹겠더라구요...드셔보셨어요?
+P1 	: 네! 전 좋아해요 양꼬치!
+P0 	: 오 쯔란도 찍어드시나요?
+P1 	: 네! 쯔란 양꼬치 다 너무 좋아해요 ㅎ.ㅎ
+P1 	: &name1& 최애 카페는 어딘가요?
+P0 	: 전 요즘 배라에서 블라스트 먹어요ㅎㅎ 드셔보셨나요?
+P1 	: 그 엄마는 외계인 맛 있는 거 맞나요?!??!!
+P0 	: 맞아요! 배라 좋아하세요?
+P1 	: 네!!!! 제 최애 맞은 베리베리스트로베리에요!
+P1 	: &name1&은요?
+P0 	: 전 31요거트요! 좋아하세요?
+P1 	: 네!!!!!! 제 최애 맛 3개 중에 하나에요!
+P1 	: 싫어하는 맛도 있으신가요?
+P0 	: 전 레보샤...ㅎㅎ 어떠세요?
+P1 	: 헛 전 레보샤 좋아해요 ㅎ.ㅎ
+P1 	: 전 민트를 안 좋아해요 ㅠ ㅠ

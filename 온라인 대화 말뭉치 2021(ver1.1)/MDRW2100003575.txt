@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100003575
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연 보는거 좋아하시나요?
+P1 	: 네 좋아해요 연극 뮤지컬 영화....
+	  요새 코로나땜에 못가고있네요
+P0 	: 아 그렇죠ㅠㅠ
+P0 	: 저도 못간지 오래됐네요
+P1 	: 요즘 모가디슈 핫하다던데 보고싶은데 못가고있어요
+P0 	: 오 맞아요 재밌어 보이더라구요
+P0 	: 싱크홀도 재밌어 보이던데
+P1 	: 싱크홀 잼있다고 하시더라구요
+P1 	: 코믹과 감동이 같이 있데요
+P0 	: 정말요? 코로나 때문에 영화관 못 가는게 아쉽네요ㅠㅠ
+P1 	: 저두요 ㅜㅠ
+P1 	: 그냥 집에서 넷플릭스로 즐길수밖에요
+P0 	: 요즘은 넷플릭스 같은 서비스가 잘 되어 있어서 그나마 다행인 것 같아요
+P1 	: 그러게요
+P1 	: 오랫만에 비밀의숲도 다시봤던거같아요
+P0 	: 오 저 그거 아직 안 봤어요!
+P1 	: 진짜요?
+P1 	: 전 이거 진짜 인생 드라마인데요
+P0 	: 헉 정말요?
+P1 	: 강추해요 추리좋아하시면요 ㅎ

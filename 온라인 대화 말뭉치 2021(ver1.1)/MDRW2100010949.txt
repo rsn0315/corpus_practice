@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 엄청 좋아하는데 코로나때문에 잘못가네요 ㅠ 여행지 기억에 남는곳 있으세요?
+P0 	: 호주요
+P1 	: 와~~~비행시간이 얼마나되요?
+P0 	: 13시간으로 기억해여
+P1 	: 진짜 기네요! 워홀로 가셨어요?
+P0 	: 놀러요 ㅋㅋ
+P1 	: 크~~~어떤게 기억에 남으세요?
+P0 	: 오페라하우스요
+P1 	: 티비에서 봤어요~! 오페라하우스가 왜기억에 남으세요?
+P0 	: 외관이 멋지더라구요
+P1 	: 멋지죠~~ 해양레포츠는 안하셨나요?
+P0 	: 네 시간이

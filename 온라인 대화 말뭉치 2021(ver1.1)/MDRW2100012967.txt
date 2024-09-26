@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012967
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 큰아들은 이번주 미술시간에 스크래치 있더라
+P0 	: 스크래치가 뭐였지?
+P1 	: 그거 있잖아~ 막대기로 검정색 크레파스 긁어내는거
+P0 	: 훌~~~~ 그거 하면 방바닥 난리나는데
+P1 	: 집에 있을 때 스크래치는 최악이야
+P0 	: 물티슈 미리 준비시켜 ㅎㅎ
+P1 	: 긁어낸거 바닥이랑 책상에 다 날려서 언제 치울지 ㅎㅎ
+P0 	: 조심해서 긁고 다 모아놓으라고 해
+P1 	: 물론 말은 하겠지만 .. 열심히 긁다보면 그게 마음대로 되나 ㅋㅋㅋㅋ
+P0 	: 그거 왜 자꾸 하는지 모르겠네 ㅎㅎ
+P1 	: 집에도 잔뜩 있는데 절대 안꺼내잖아 ㅠ
+P0 	: 나중에 벼룩시장에 팔아야겠네
+P1 	: ㅎㅎㅎ 공짜로도 줄 수 있어

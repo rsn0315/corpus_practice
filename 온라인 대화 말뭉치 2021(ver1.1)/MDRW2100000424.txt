@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100000424
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 많이 하시나요?
+P0 	: 네 당근 많이 이용한답니다ㅎㅎ
+P1 	: 맞아요 예전엔 사기 많은 중고나라 많이 이용했었는데 요즘은 직거래 가능한 당근이 있어서 좋더라구요
+P0 	: 아  당근 쓰시는군요. 주로 무슨 거래하세요?
+P1 	: 아이가 있다보니 아이용품이나 구매하고 저한테 맞지않는 물건 등을 주로 판매해요
+P0 	: 맞아요. 특히 돈도 생기면서 서로에게 좋은 일을 하는 기분~~
+P1 	: 그쵸 저보다 더 이걸 필요한분께 가니깐 서로 좋은 일이죠!
+	  &name1&님은 어떤거래하세요?
+P0 	: 저도 생활용품 많이합니다. 이젠 안쓰는건 웬만하면 팔아요ㅎㅎ
+P1 	: 요즘은 집에 쌓아두는 것 보단 안쓰면 바로바로 처분을 하는게 더좋죠
+P0 	: 근데 아직도 뭔가 쌓아두게 되어요.
+P0 	: 할인 하면 괜히 사모으기만 하구
+P1 	: 맞아요 싸다고 이것저것 막 샀다가 정작 사용안하는 것도 많죠
+P0 	: 특히 대형마트 가면 진짜 많이만 사게되어요ㅎㅎ
+P1 	: 코스트코나 이런곳은 싸게 대용량을 파니깐 또 어쩔수 없이
+P0 	: 그런데 사다보면 수십만원ㅋㅋ

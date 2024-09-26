@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041276
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 인천
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 뭔가 튀겨먹으면 맛있다고는 하는데ㅋㅋㅋㅋㅋ
+P1 	: 그럼 안드시는 음식 있으세요?
+P0 	: 구워먹어도 맛있어요!
+P0 	: 전 은근많아요 ㅎㅎㅎ편식쟁이...
+P1 	: 오 저희집은 나물로만 먹어서 다른 방법은 먹어본적이 없는 듯ㅋㅋㅋㅋ
+P1 	: 아하ㅋㅋㅋㅋㅋ
+P0 	: 고기구워먹을때  같이 구워먹으면 맛있어요!
+P0 	: 가지는 나물이 가장 맛이없는거같습니다
+P1 	: 오 새로운 정보네요
+P1 	: 담에 나물 말고로 한번 시도해봐야겠어요ㅋㅋㅋㅋㅋ
+P0 	: 점심드셨어요?
+P1 	: 아직요! &name1&님은요?
+P0 	: 저도아직요 ㅋㅋ이제먹으려구요 ㅋㅋㅋ
+P1 	: 뭐 드실거예요?
+P0 	: 집에 오뎅탕이랑 돈까스가 있네요 ㅋㅋ
+P1 	: 오ㅋㅋㅋㅋㅋ 맛있겠다
+P0 	: 썩 맛있지도않네요 돈까스가 제취향이아니네욬ㅋㅋㅁ
+P1 	: 아 냉동이거나 그런가요ㅋㅋㅋㅋㅋ
+P0 	: 네 ㅋㅋ냉동도맛있는건맛있는데!

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100033822
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 아침 식사 하셨나요?
+P1 	: 안녕하세요 아직 아침 식사 못했어요 식사 하셨나요?
+P0 	: 전 오징어 볶음하고 밥 먹었어요!
+P1 	: 오징어 볶음 되게 맛있었겠다
+P0 	: 오징어가 엄청 많이 들어있어서 좋았어요ㅋㅋㅋㅋ 아침 뭐 드실 생각이세요??
+P1 	: 오징어가 엄청나게 들어 있어서 엄청 좋으셨겠다  저는 아침은 거르고 점심에 짜장면 시켜먹을까 생각 중이에요
+P0 	: 오오오 짜장면 맛있죠 오늘 좀 쌀쌀한데 짜장면+짬뽕 국물 조합이면 좋을 것 같네요...ㅎㅎㅎ
+P1 	: 안 그래도 그거 생각 하고 있었어요 뭔가 그러니까 추우니까 국물도 땡기고 하더라구요
+P1 	: 혹시 점심 뭐 먹을지 정하셨어요?
+P0 	: 전 점심은 간장버터계란밥 해먹을 생각이에요! 아니면 라면 먹을까도 생각 중이에요ㅋㅋㅋ
+P1 	: 간장 버터 계란밥 완전 맛있겠다 라면도 좋아요
+P1 	: 만약 저한테 둘 중의 하나 고르라면 못 고를 거 같아요
+P0 	: 라면도 종류 많아서 고민 중이네여 매운 걸 먹을까... 진순을 먹을까ㅌㅌㅌㅌㅋㅋㅋ
+P1 	: 세상에 진순을 좋아하시는 분이 계시다니 아닌가 좋아하시나요 좋아하시나요 전 좋아해요
+P0 	: ㄴㅋㅋㅋㅋㅋㅋㅋ 진순이 진리죠!!!!
+P1 	: 역시 맛을 아시네요

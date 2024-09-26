@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017332
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요
+P0 	: ?
+P1 	: 네~ &name1&님은요?
+P0 	: 저도요
+P1 	: 일하며 스트레스 받는건 없나요?
+P0 	: 많죠
+P1 	: 뭐 때문에 받는 스트레스가 가장 크시나요?
+P0 	: 사람이문제죠
+P1 	: 역시 사람 스트레스 ㅠ 직장 상사때문인가요?
+P0 	: 네 그렇습니다
+P1 	: 상사 스트레스는 답 없는데요 ㅠ 어째요 ㅠ
+P0 	: 이직만이
+P1 	: 상사의 어떤 면이 제일 스트레스인가요?
+P0 	: 존재자체요

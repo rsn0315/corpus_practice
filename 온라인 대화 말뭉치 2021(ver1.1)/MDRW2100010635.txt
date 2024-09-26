@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010635
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨나요??ㅎ
+P1 	: 네네 &name2&은요?
+P0 	: 저도 먹었어요~~
+P0 	: 평소에 저녁은 몇시쯤에 드세요??
+P1 	: 저는 다섯시반쯤에 먹어요 ㅎㅎ
+P1 	: 두부랑 먹었어요 &name2&은요?
+P0 	: 저는 6시에서 7시 사이에 먹어요~~
+P0 	: 엄청 일찍 드시네요~
+P1 	: 배가 부르면 배꺼질때까지 기다려야하거든요ㅜㅜㅜㅜㅜ
+P1 	: 소화가 느린가봐요ㅎㅎ
+P0 	: 오옷!!저도 그런데~~
+P0 	: 그래서 소화 안 되면 잠도 늦게 자게 되서
+P0 	: 최대한 일찍 먹으려고 해여#
+P1 	: 저두요 ㅜㅜ배부른데 누우면 역류성식도염 걸린다구하더라구요
+P0 	: 전 이미...ㅠ 있다고 하더라고요..ㅠㅠ
+P0 	: 먹고 눕는 습관도 없는데..ㅠㅠ
+P1 	: 오잉 그건 왜그럴까요ㅜㅜㅜ
+P1 	: 왜 그렇지
+P0 	: 대부분 똑같은 말 하시더라고요
+P0 	: 스트레스가 원인이라고..ㅠㅠㅠ
+P1 	: 호고공ㅜㅜㅜ
+P1 	: 그건 병원에서 어떤 처방을 받나요
+P0 	: 그냥 과다위액분비 억제하는 약 지어주더라고요~
+P0 	: 원인이 스트레스인건 어떻게 할수가 없다고
+P0 	: 개인이 알아서 관리해야한다고..ㅍ
+P1 	: 호공..한의원은 가보셨어요?

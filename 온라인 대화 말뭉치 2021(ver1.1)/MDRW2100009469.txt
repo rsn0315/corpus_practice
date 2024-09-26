@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009469
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사ㅅ는 하셨나요?
+P0 	: 아뇨 점심 생각하고 있어요 식사하셨어요?
+P1 	: 저도 아침은 보통 걸러요ㅠ
+P0 	: 커피만 마시구 있는데 배가 고프네요ㅠ
+P1 	: 저도요ㅋㅋ점심은 뭘로드실계획이셔요
+	  .
+P0 	: 비올거같아서 짬뽕 생각중이에요ㅎㅎ
+P1 	: 아 짬뽕 좋네요
+P0 	: 점심시간만 기다리고 있어요ㅎㅎ
+P1 	: 다되가네요~~~ ㅎㅎ
+P0 	: 점심 뭐드세요?
+P1 	: 국수를 삶을까 고민중이에요ㅠ 일이많아서ㅠ
+P0 	: 국수고 맛있죠ㅜㅠㅠ날씨에 딱이네요
+P1 	: 육수도 내야하고 ㅠ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003201
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 결혼하셨어요?
+P1 	: 아뇨 안했어요
+P0 	: 이상형이 어떻게 되셔요?
+P1 	: 가치관이 맞는게 중요한거같아요
+P0 	: 외모는 잘 안보세요?
+P1 	: 뭐 너무 못생기지만 않으면ㅎㅎ
+P0 	: 가치관은 어떤쪽이면 좋겠어요?
+P1 	: 여러가지가 있겠지만 그냥 말이 통하는게 좋죠
+P0 	: 연상이 좋으세요 연하가 좋으세요?
+P1 	: 동갑이 좋아요 또래가 편해요
+P0 	: 저는 연상연하동갑 다 매력있는것같아요

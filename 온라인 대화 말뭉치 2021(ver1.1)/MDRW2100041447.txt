@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041447
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 서울이나 부산과 같은 대도시로도 여행 가보셨어요?
+P1 	: 넹 둘다가봣어용
+P0 	: 부산은 어디 어디 가보셨어요?
+P1 	: 음 대부분 가보긴햇어요 오래됏어요 ㅋㅋ 바다가고싶네용
+P0 	: 저는 태종대도 좋더라구요..
+	  열차타고 휭~^^
+	  근처 거제도 가보셨어요?
+P1 	: 우앙..거제도 아니요 ㅠㅠ가고시퍼요
+P1 	: 열차가잇나용
+P0 	: 네. 태종대 입구에서 코끼리 열차 같은 게 있었던 것 같아요.
+	  거제도는 부산과 터널로 연결되어 금방 가는데
+	  터널 이용료가 비싸더라구요.
+P1 	: 아 얼마에용 ???
+P0 	: 왕복 2만원 정도했던 거 같아요.
+	  출퇴근길로는 부적합하겠죠.
+P1 	: 글게여 진짜 ㅋㅋㅋㅋ 비싸네요
+P1 	: 거제도가보셧나요
+P0 	: 그럼요.ㅎ
+	  저는 남쪽은 많이 가봤어요.
+	  경북을 많이 안가봤네요.
+P1 	: 오 그근처 사시나요
+P1 	: 추천장소 잇으세영?
+P0 	: 저 남쪽에서 안살아요.ㅎ

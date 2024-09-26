@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003247
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 일본만 세번 갔었어요ㅎㅎ
+P0 	: 일본 어디가보셨어요?
+P1 	: 텐리시 아세요? 거기만 세번 갔었어욬ㅋㅋ
+P0 	: 텐리시 처음들어보네요...
+P0 	: 거기 유명한건 뭐있어요?
+P1 	: 텐리교라고 종교도시래요 친구가 거기 유학중이라 놀러 갔었어요
+P0 	: 종교가 텐리교에요?
+P1 	: 네 그랬어요 우리나라에서는 천리교? 그렇게 부르던데요?ㅎ
+P0 	: 거기서는 뭐가 좋았어요?
+P1 	: 저녁에 일정시간되니까 다들 교회로 예배드리러 가더라고요
+P1 	: 상점도 예배시간되니 문닫는곳이 많더라구요
+P1 	: 좋았다기보단 신기했어요ㅎㅎ
+P0 	: 친구분도 그 종교 믿으세요?
+P1 	: 아뇨 친구는 그 지역 대학에 다녀서 거기 살았어요ㅎㅎ
+P0 	: 아 어느대학교에요?
+P1 	: 대학교 이름도 텐리대학이에요ㅋㅋㅋ

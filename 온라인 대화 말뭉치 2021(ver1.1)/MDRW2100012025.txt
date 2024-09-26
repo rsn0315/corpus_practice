@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100012025
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경남
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 식사하셨나요?
+P1 	: 안녕하세요!
+P1 	: 네 먹었습니다
+P1 	: 저는 오리고기먹었습니다
+P1 	: 파르페님은 식사하셨나요?
+P0 	: 네 저도 순두부찌개랑 같이 먹었어요!
+P0 	: 오리고기는 구워드셨나요?
+P1 	: 네! 훈제오리고기였어요
+P1 	: 순두부찌개 맛있겠어요ㅠㅠ 얼큰하니
+P0 	: 오랜만에 먹었는데 맛있더라고요!
+P0 	: 무쌈이나 곁을여 드신 거 있으세요?
+P1 	: 네 맞아요!
+P1 	: 배우신분이시군요!
+P1 	: 역시 오리고기에는 무쌈이죠!
+P0 	: 소스는 뭐랑 드셨나요?
+P1 	: 머스타드랑 해서 먹었습니다
+P0 	: 역시 오리고기에는 머스타드죠!
+P1 	: 순두부찌개는 사드신건가요?
+P1 	: 맞아요!ㅋㅋㅋ
+P1 	: 맞잘알이시네요
+P1 	: 맛잘알
+P0 	: 아니요 할머니가 끓여주셨어요ㅎㅎ
+P0 	: 저는 순두부 사는 것만 했어요
+P1 	: 우와 만들어먹는 순두부찌개였군요
+P1 	: 엄청 맛있겠어요ㅠㅠㅠ
+P1 	: 할머니표라니.. 더 맛있을것 같아요
+P0 	: 방학이라 할머니네에서 매일 맛있는 거 먹고 있어요ㅎㅎ

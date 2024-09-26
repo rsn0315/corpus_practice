@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010812
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 반려동물 있으세요?
+P1 	: 반려동물 강아지있어요
+P1 	: 강아지 vs 고양이 선택은?
+P0 	: 저는 고양이가 더 좋아요 &name2&님은요?
+P1 	: 강아지요
+P1 	: 고양이 vs 새 는요?
+P0 	: 새보단 고양이죠 &name2&님은여?
+P1 	: 저도요 새는 키우기힘들것같아여
+P1 	: 키워보고싶은 동물잇으세요?
+P0 	: 고양이 키우고 싶은데 어려울 거 같네요 강아지 어떤 점이 좋으세요?
+P1 	: 반겨주는거요
+P1 	: 덕분에 집에 빨리가고싶어요
+P1 	: 고양이는 편하지않을까요? 집사님들?
+P0 	: 고양이가 손이 덜 갈거 같긴 하네요 금붕어 키워보셨어요?
+P1 	: 금붕어 물갈이 힘들듯요 물비린내안나나요?
+P0 	: 물비린내많이나더라구요 금붕어는 정말 취향 타는 것 같아요
+P0 	: 반려동물 이름이 뭔가요?
+P1 	: &name3&이요
+	  예쁘죠 이름?
+P0 	: 이름 이쁘네요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100039096
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가고 싶은 여행지가 어디예요?
+P1 	: 음 부산 가고 싶어요 요즘
+P0 	: 저도 밤바다가 너무 보고 싶어요
+P0 	: 요즘 바다보러가기 딱 좋은 날씨잖아요
+P1 	: 진짜요! 지금이 딱 시기인데 말이에요ㅠ
+P0 	: 맞아요 차 타고 드라이브 겸 갔으면 좋겠네요
+P1 	: 와 너무 좋아요! 드라이브!
+P0 	: &name2& 님은 산이랑 바다 중에 어디가 더 좋으세요?
+P1 	: 저는 바다요! 산은 뭔가... 너무 힘드네요..
+P1 	: 근데 바다도 모래가...하하
+P0 	: ㅋㅋㅋㅋ저도 산은 힘들어서 싫어요
+P0 	: 모래 들어가는 게 좀 그렇긴 하지만 신발 벗고 파도 치는 데서 놀면 재밌잖아요
+P1 	: 맞아요! 물 들어가는 거 좋아요ㅠㅠ뒷처리가 귀찮지..
+P0 	: 그쵸ㅋㅋ 늘 놀고 나면 좀 찝찝해 지는게 불편하죠
+P1 	: 맞아욬ㅋㅋㅋㅋ영원히 물에 있으면 모를까..
+P0 	: ㅋㅋㅋ나가기 싫죠 물에 젖은 옷 벗.고 하는 거 생각만 해도 귀찮아요
+P1 	: 맞아요ㅋㅋ 뭔가 물 들어갔다 나오면 자동 탈수 됐으면 좋겠어요ㅋㅋ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018267
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나도 맥주 먹으면서 야구 보고 싶다
+P0 	: 진짜 재밌을텐데
+P1 	: 그니까
+P0 	: 야구장 그 약간 더운 느낌이 좋아
+P1 	: 더운 건 괜찮아?
+P0 	: 아니 막 쪄죽는 더위는 아니고 살짝 더운 그 느낌이 있어
+P1 	: 야구장 말고 또 보고 싶은 스포츠 있어?
+P0 	: 농구
+P1 	: 농구장 가본적 있어?
+P0 	: 없어
+P1 	: 가볼 생각은 있어?
+P0 	: 가고싶은데 저번에 가자니까 가기 싫가며
+P1 	: 난 농구 관심 없어서
+P1 	: 아 야구장 가보고 싶다

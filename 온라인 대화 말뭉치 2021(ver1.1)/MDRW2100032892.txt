@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032892
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 오늘 모더나 뉴스 봤어?
+P1 	: 아니 뭔 뉴스?
+P1 	: 아아. 그렇군.
+P0 	: 근데 또 다 들어 오는건 아니고 몇 백만 병은 지연되어서 들어오는거 같던데??
+P1 	: 잉???
+P1 	: 그럼 어떻게 해??
+P0 	: 몰라.지난번 처럼 또 접종 지연되려나??
+P1 	: 그래도 다른 백신들 많이 들어와서 괜찮지 않을까?
+P0 	: 글쎄??? 엄마도 원래 모더라 접종 예정이였는데 화이자로 바뀌었잖아
+P1 	: 어어 장모님 그랬지
+P0 	: 모더나 맞는 사람은 2차 못맞을 까좌 불안하지 않을까??
+P1 	: 그럴 수도 있겠다
+P0 	: 순차공급이라는 게 결국.. 예정대로 잘 들어와야하는건데...
+P1 	: 하긴 예정에서 삐끗하면.... 접종지연될 수도 있겠네..

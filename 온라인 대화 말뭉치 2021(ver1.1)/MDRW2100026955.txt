@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026955
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 요즘 밤에 날씨 춥더라
+P0 	: 밤에 두꺼운 이불 덮고 자야돼
+P1 	: 두꺼운 이불 꺼내줄게
+P0 	: 엊그제 보일러에서 쿵쿵소리나던데
+P1 	: 보일러고장났어
+P0 	: 이제 겨울인데 고쳐야지
+P1 	: 추위 많이 타니까 빨리고쳐야지
+P0 	: 날씨보니까 이번달까지는 아직 덜 춥더라 담달까지 고치면 될듯
+P0 	: 근데 엊그제 비와서 그런가 요즘 너무 습해
+P1 	: 바닥이 끈적끈적해
+P0 	: 제습기를 더 큰걸로 사야겠어
+P0 	: 용량이 부족해
+P1 	: 그래야겠어 물비우기 귀찮네
+P0 	: 요즘 미세먼지 없어서 좋다
+P1 	: 마스크껴서 모르는거아냐?
+P0 	: 아냐.... 요즘에 진짜 없어

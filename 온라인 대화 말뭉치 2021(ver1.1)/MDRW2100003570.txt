@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003570
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저 오늘 베트남 쌀국수 먹고왔어요
+P1 	: 저는 오늘 치킨 배달시켜 먹었어요
+P1 	: 쌀국수 맛있었나요?
+P0 	: 어떤 치킨 먹었나요?
+P0 	: 쌀국수 맛 없었어요.. ㅜㅜ
+P1 	: 저 BHC 후라이드요
+P1 	: 기프티콘이 있어서 먹었어요
+P0 	: 헉 맛있었겠어요!!
+P1 	: 맛없으셔서 속상하겼겠어여
+P0 	: 저도 bhc 엄청 좋아해요
+P1 	: 치킨은 항상 맛있죠ㅎㅎㅎ
+P0 	: 전 특히.고추바사삭 좋아해요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ저두요
+P0 	: 전 치킨먹을때 치밥타입이요 &name2&님은요?
+P1 	: 전 밥이랑은 잘 안 먹고 치콜만 해요
+P1 	: 맥주를 안 마셔서...
+P0 	: 아 저는 치킨먹을때 맥주는 잘 안마셔요
+P0 	: 치콜도 좋죠 !!
+P1 	: 요즘 &name1&님 최애 메뉴는 뭐예요?
+P0 	: 저는 대창덮밥이요!진짜 맛있는거같아요

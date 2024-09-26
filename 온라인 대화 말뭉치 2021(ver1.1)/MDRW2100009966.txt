@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100009966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>기타(조부모-손주, 그 외 친인척)
+intimacy  :  4
+contact_frequency  :  주 1회 미만
+
+P0 	: 요즘 책 읽으셨어요?
+P1 	: 도서관에서 두권 빌려서 한권 다 읽음
+P1 	: 에세이
+P0 	: 도서관에서 빌린거면 신작은 아닌가요
+P0 	: ㅠㅠ전 도서관 안간지 오래...
+P1 	: 나름 신작..올 3월
+P1 	: 나이답게가 아니라 나!답게
+P1 	: 부담없어서 하루만에 다 읽음
+P1 	: 둘다 신작이긴 하지만 베스트셀러는 안될듯^^
+P0 	: 베스트셀러는 도서관에 거의 없죠ㅜ
+P1 	: 있긴 한데..대여하려면 몇주 기다려야 하지~
+P0 	: ㅋㅋㅋㅋ저한텐 바로 못보면 없는걸로
+P0 	: 최근에 그래도 서점은 갔는데 악보 사왔어요ㅋㅋ
+P1 	: 요즘 전공도서외에는 읽은거 없어?
+P0 	: 저 판타지소설 읽던거 조금 읽고
+P1 	: 책은 안사고 ㅋ
+P0 	: 그외엔 안읽었네요
+P0 	: ㅎㅎ 쇼팽책 구매...
+P0 	: 서점갔더니 읽고싶은건 많은데 다 사읽을수는 없으니ㅜ
+P1 	: 생각해보니 도서구입은 안한지 꽤 되었네
+P1 	: 다 도서관대여로
+P0 	: 책 넘 비싸여ㅜ
+P1 	: 책가격도 만만치 않아서
+P1 	: 맞오

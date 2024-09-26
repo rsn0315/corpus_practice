@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100026418
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교 있으세요?
+P0 	: 저는 무교에요
+P0 	: &name2&님은요?
+P1 	: 저도요
+P1 	: 무교예요
+P1 	: 교회가보신적은 있나요?
+P0 	: 어릴때 가봤어요
+P0 	: &name2&님도 어릴때 가보신적 있나요?
+P1 	: 저도 어릴때 과자준대서 가봤었어요
+P0 	: 저도요ㅋㅋㅋ
+P0 	: 달란트시장? 같은거 열렸을때 떡볶이 준다고 해서 갔어요
+P1 	: 어릴때 역시 한번쯤 먹을것으로 유혹당하네요
+P1 	: 절은가보셨나요?
+P0 	: 절도 어릴때 몇번 가봤던거 같아요
+P0 	: 님은 가보신적 있으세요?
+P1 	: 저는 등산가다 잠깐씩 들린적 있어요
+P1 	: 산속이다보니 풍경도 좋아서 한번씩 가봐요
+P0 	: 그리고 산속에 있으니까 공기도 좋고 풍경도 예쁘더라고요!
+P1 	: 그죠! 가을에 낙엽질때가면 좋더라구요
+P1 	: 조용하구 풍경좋구
+P0 	: 절에 가면 분위기가 평화로워서 좋아요
+P1 	: 그죠!

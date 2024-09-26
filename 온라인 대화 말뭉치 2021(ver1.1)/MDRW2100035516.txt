@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100035516
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 피자 좋아하세요?
+P1 	: 안녕하세요~
+P1 	: 네 피자 좋아해요! &name1&님은 피자 좋아하시나요?
+P0 	: 네 좋아해요
+P0 	: 어떤 피자
+P0 	: 좋아하세요?
+P1 	: 웬만한 피자는 다 좋아하는데 그 중 핫치킨 피자처럼 매운 걸 좋아해요
+P1 	: &name1&님은요?
+P0 	: 오 맛있죠 ㅜㅜ 전 불고기였는데
+P0 	: 고구마도 좋아요ㅋㅋ
+P1 	: 옴매 불고기도 좋아요
+P0 	: 하와이안은
+P0 	: 어떻데 생각하세요ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ아직 안 먹어봤는데 어떤 맛일지 상상이 안 가요
+P1 	: 드셔보셨어요?
+P0 	: 네 먹어봤는데.. 음..
+P0 	: 전 구운 파인애플을 별로 안좋아해요
+P1 	: ㅋㅋㅋㅋ안 그래도 인터넷 보면 호불호가 엄청 갈리는 음식같아보이더라구요
+P1 	: 싫어하는 사람은 악마의 음식 취급하던데 너무 웃겨요
+P0 	: ㅋㅋㅋㅋㅋ 맞아요
+P0 	: 파인애플 피자는 피자도 아니래요
+P1 	: ㅋㅋㅋㅋㅌㅋㅋㅋㅋㅋㅋㅋ너무해
+P1 	: 민트초코도 호불호 갈리던데 좋아하세요?
+P0 	: 아 네!!!!!
+P0 	: 저 민트 좋아합니다

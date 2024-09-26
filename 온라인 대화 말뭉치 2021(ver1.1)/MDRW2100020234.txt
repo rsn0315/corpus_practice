@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100020234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 나는 배가 고프다
+P1 	: 아라면 먹고 싶다
+P0 	: 틈새라면 맛있어
+P1 	: 나도 틈새라면이 제일 좋아
+P0 	: 라면에는 계란을 넣어 먹어야 해
+P1 	: 나는 노른자는 안 익혀서 찍어 먹는 걸 좋아해
+P0 	: 나는 완숙이 좋아
+P1 	: 계란 풀어서 넣는 편이야?
+P0 	: 그게 최고지 떡도 어울려
+P1 	: 계란 세 개 넣어서 끓여 먹어야겠다
+P0 	: 그러면 너무 싱거워
+P1 	: 라면에 김치 먹는 거 좋아?
+P0 	: 나는 단무지가 더 어울린다 생각해
+P1 	: 나는 파김치가 제일 좋다
+P0 	: 파김치는 어디에 먹든 맛있어
+P0 	: ㅎㅇ

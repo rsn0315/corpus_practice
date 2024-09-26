@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100032621
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 ~
+P0 	: 요새 운동하시는거있으신가요?
+P1 	: 땅크부부 유튜브 보고 따라하는 것만 하고 있어요
+P1 	: &name1& 님은 운동 하시나요??
+P0 	: 저도ㅎㅎ유투브보고따라해요
+P1 	: 그런데 제가 너무 게을러서 많이는 안해요 ...ㅎ
+P1 	: 이번에 백신 맞으면 무리한 운동은 자제하라고 해서 또 핑계되면서 쉬려고요
+P0 	: ㅎㅎㅎ앗 1차접종이세요?
+P1 	: 네 1차 접종입니다 !
+P1 	: &name1&님은 백신접종 하셨나요??
+P0 	: 저는2차까지했어요
+P1 	: 와 빠르게 받으셨네요 !
+P1 	: 2차면 엄청 졸리다던데 잘 넘어가셨나요??
+P0 	: ㅎㅎ좀빠르게맞긴했어요
+P0 	: 저는 전신부작용은없고
+P0 	: 맞은부위가 아프더라고요
+P1 	: 가볍게 넘어가서 다행이예요 !
+P1 	: 아프실때 진통제는 챙겨드셨나요?
+P0 	: 받았는데그냥저냥버틸만해서안먹었어요
+P0 	: 잘넘어가실거에요!

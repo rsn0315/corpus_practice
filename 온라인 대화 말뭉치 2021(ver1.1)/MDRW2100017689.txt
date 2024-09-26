@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100017689
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달음식 자주 드시나요
+P0 	: 네 자주먹어요
+P1 	: 뭐 주로 시켜드세요?
+P0 	: 치느님이죠ㅎㅎ
+P1 	: ㅎㅎ  어느 브랜드 주로드세요? 저는 bhc요
+P0 	: 저는 교촌ㅎㅎ
+P1 	: 교촌 맛있는데 양이 좀 더 많았으면 좋겠어요
+P0 	: 허니콤보 맛있긴한데ㅠ
+P1 	: 저도 그거 좋아해요 단짠단짠
+P0 	: 레드소스 찍어먹으면ㅎㅎ
+P1 	: 레드소스는 매운건가요?
+P0 	: 살짝 매콤해요

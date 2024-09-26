@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100003392
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 요즘 날씨 선선해서 좋지 않나요?
+P1 	: 안녕하세요~ 요즘 날씨가 덥지않아서 산책하기 정말 좋은 것 같아요
+P0 	: 맞아요
+P0 	: 저녁에 산책하기 좋은 날씨~
+P0 	: 제가 있는 곳은 비가 내리는데 그쪽에도 비가 오나요?
+P1 	: 여기는 잠깐 한두방울 내리다가 지금은 안와요~
+P0 	: 오 다행이네요
+P0 	: 비오는날 좋아하시나요,
+P0 	: ?
+P1 	: 비 오는 날을 좋아하지는 않아요ㅜㅜ 그 습한 느낌이 별루더라고요
+P1 	: 혹시 비 오는 날 좋아하세요?
+P0 	: 저는 빗소리 들으면 잠이 잘와서 잘땐 좋더라구요
+P0 	: 그 외엔 저도 습해서 별로 안좋아해요ㅠㅠ
+P1 	: 저도 다음에는 빗소리를 자장가삼아서 잠들어봐야겠네요
+P1 	: 아직도 거기는 비가오나요?
+P0 	: 네 잠 잘오더라구요ㅎㅎ
+P0 	: 지금은 비 안오네요!
+P0 	: 무슨 계절 좋아하시나요?
+P1 	: 저는 가을을 가장 좋아해요~ 날씨도 시원해서 돌아다니기 좋아요
+P1 	: 구마님은 어떤 계절 좋아하세요?
+P0 	: 저도 가을을 가장 좋아해요!
+P0 	: 이제 곧 가을이라 다행이네요!!
+P1 	: 맞아요~ 가을이 온다고 생각하니 기분이 좋아요
+P1 	: 이번주 주말까지 계속 비가올까요?
+P0 	: 일기예보 보니 계속 올거같네요ㅠㅠ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010401
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 드라마 좋아하시나요?
+P1 	: 요즘엔 안보고있어요ㅠㅠ추천해주실 두라마 있나요?
+P0 	: 법정 드라마 좋아하시면 로스쿨 추천드려요 내용도 괜찮고  재미있어요!
+P1 	: 아 로스쿨 재밌다고 들었어요ㅎㅎ 법정드라마 좋아해요
+P0 	: 저도 법정드라마 좋아해요 유튜브로는 어떤 영상 보시나요?
+P1 	: 저는 고양이영상 종종 봐요ㅎㅎ 보시는거 있으세요?
+P0 	: 고양이 귀엽죠  저는 요즘 코로나 터지고 플라스틱 많이 소비되는거 보고 환경에 관심 생겨서 제로웨이스트나 환경관련 영상 찾아보는 편이에요
+P1 	: 우와 저도 찾아봐야하는데..환경다큐는 봤거든요...
+P0 	: 저는 환경다큐는 안봤어요.. 유튜브에 쓰레기 왕국 이라는 채널있는데 여기  영상 괜찮더라고요 한번 보시는것도 괜찮을것 같아요!
+P1 	: 오 한번 봐야겠네요 요즘 정말 관심가져야하는 분야같아요..
+P0 	: 맞아요  영화 좋아하시나요?
+P1 	: 네 좋아하는데 요즘 못보고 있어요ㅜㅜ
+P0 	: 저도 영화 좋아하는데  시간이 없어서 못보고 있네요ㅜㅜ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100047537
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁은 가족하고 드셨나요?
+P1 	: 혼자먹었어요 님은요?
+P0 	: 저는 아직ㅜㅜ집에 가서 먹으려구요
+P1 	: 뭐드실건가요?
+P0 	: 밥하구 오이를 고추장에 찍어먹으려구요
+P1 	: 엇
+P0 	: &name2&님 머드셨나요
+P1 	: 저아까전에 오이고.추 된장찍어 먹었어요
+P0 	: 와우 이런우연이!
+P0 	: 네 그렇더라구요ㅋㅋㅋㅋ저는 된장없어서ㅜㅜ흑흑 고.추장ㅜㅜㅜ
+P1 	: 커피 좋아하시나요?
+P0 	: 저는 있음먹어요 찾아먹진않아요 &name2&님은요
+P1 	: 저는 못먹어요 카페인땜에

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100030953
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 백신 예약 하셨나요
+P1 	: 네 예약했어요
+P1 	: 추석있는 주에 금요일에요
+P1 	: 예약하셨어요?
+P0 	: 전 담주 화요일 합니다
+P0 	: 종 두렵기는해요
+P1 	: 얼마 안남았네요
+P1 	: 화이자인가요?
+P0 	: 네 화이자 이죠
+P0 	: 부작용 뉴스가 나오니 넘 걱정되요
+P1 	: 네 뉴스가 넘 불안하게 만들긴해요
+P1 	: 근데 극소수라니 넘걱정말고 맞자구요
+P1 	: 막상 맞고나면 또 별거아니일꺼예요
+P0 	: 그렇겠죠
+P0 	: 회사 사람들도 큰 문제 없이 맞은 사람도 많이 있죠
+P1 	: 네 저희회사도
+P1 	: 큰 문제 없으시더라구요
+P0 	: 이번 한번으로 끝날수 있을까요 ?
+P1 	: 근데 한번에 안끝날것같아요
+P1 	: 매년 독감맞듯이 맞아야하는거아닌가 싶어요
+P0 	: 글쎄요 그럴수도 있겠다는 생각도 들긴해요
+P0 	: 해마다 맞아야하는 주사들이 많아지네요
+P1 	: 맞아요
+P1 	: 요즘 주변에서 맞고 아프다는 이야기들으니 겁나요
+P0 	: 오늘 드디어 맞았답니다
+P0 	: 크게 아픈지는 않네요
+P0 	: 살짝 근육통 ..... 괜찮아요
+P0 	: 걱정 안하셔도 될것 같아요

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100045297
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 여행좋아하세요?
+P1 	: 네 좋아해요
+P1 	: &name1&님은요?
+P0 	: 저도!
+P0 	: 어디가 제일 좋으셨어오?
+P1 	: 전 라오스요!
+P1 	: &name1&님은요?
+P0 	: 전 홍콩!
+P0 	: 라오스 가보고싶네요
+P1 	: 홍콩 안가봣어요
+P1 	: 홍콩에서 뭐가 제일 좋으셧어요?
+P0 	: 피크랑 음식이요!
+P0 	: 남산타워같지만ㅋㅋ
+P1 	: 어떤 음식이 맛잇엇어요?
+P0 	: 딤섬이요!!
+P0 	: 라오스는요?
+P1 	: 라오스는 카오삐약이라고 쌀국수같은 국수가잇어요
+P0 	: 아쌀국수 너무 좋아요!

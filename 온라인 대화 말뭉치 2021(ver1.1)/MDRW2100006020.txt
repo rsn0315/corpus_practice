@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006020
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으셨나요
+P1 	: 아직이요
+P1 	: &name1&은 맞으셨나요?
+P0 	: 네 얀센이요 예약은 하셨나요
+P1 	: 네 2차까지 다 맞으셨나요?
+P0 	: 얀센은 1회로 끝이네요
+	  뭘로 예약하셨나요
+P1 	: 예약은 모더나와 화이자로 되어있더라고요
+P0 	: 그렇군요 선호하시는게 있나요
+P1 	: 저는 모더나요
+P0 	: 이번에 600만회 공급되면 모더나 맞을 확률이 높으려나요?
+P1 	: 근데 모더나가 수급이 별로였던 때도 있어서 결국에는 비슷할꺼라고 생각해요
+P1 	: 어떠신가요?
+P0 	: 그럴까요 주변에 모더나 맞은 사람은 1명뿐이더라구요
+P1 	: 그나마 이번 모더나 600만회 분량이 백신 접종에 도움이 될 것 같아요
+P0 	: 네 모더나를.원하는 사람은 많더라구요

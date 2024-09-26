@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100038001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 알바 해보셨나요?
+P1 	: 넹! &name1&님은요?
+P0 	: 네!! 저는 지금 과외 알바하고 있어요
+P0 	: &name2&님은요?
+P1 	: 우와.. 멋있으시네요
+P1 	: 저는 공장이나 사무요!
+P0 	: 우와!! 저도 약간 사무쪽에서 알바해보고 싶어요!
+P0 	: 특히 카페도요!
+P1 	: 카페! 저두요
+P1 	: 제 1순위였는데 못했어요ㅜ
+P0 	: 경력직만 뽑아서 ㅠ.^ 지원을 못하겠더라고요
+P1 	: 그니까요.! 태어나서 경력가진 카페 알바생이 어딨다고..
+P0 	: -.- 꼬옥 해보고 싶은데 코로나 끝나야 겨우 할 수 있을 것 같더라고요
+P1 	: 꼭 하시길 바래요!
+P0 	: 알바할 때 스트레스는 없으셨나요?
+P1 	: 사무는 괜찮은데 공장은 텃세가 장난아녀서 좀 그랬어요ㅠ
+P1 	: 공장 해보신 적 있으세요?
+P0 	: 헉 아니요!!!
+P0 	: 텃세가 있다니...!
+P1 	: 대박이에여.. 아주머니들도 인사 안받아주시는분도 있고 젊꼰 최고예요 30대쯤 되는분이였는데 뭐라하는게 역대급이였어요ㅋㅋㅋ

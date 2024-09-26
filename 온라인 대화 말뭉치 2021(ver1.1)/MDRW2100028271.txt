@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 지금 졸업했어요! &name1&님은 아직 다니시는 중인가요?
+P0 	: 전 졸업한지 한참됐어요
+P0 	: 학교다닐때 동아리활동같은거 하셨었나요?
+P1 	: 저는 과동아리 많이 한 것 같아요!
+P1 	: 게임동아리도 하고 ㅎㅎ &name1&님은요?
+P0 	: 와 궁금해요 게임동아리
+P0 	: 전..재미없는 독서토론동아리여
+P1 	: 와 그 말 잘하는 사람들만 들어간다는....
+P0 	: 네..그래서 들어갔다가 여기는 내가있을곳이아니다..!!
+P0 	: 하고 한학기하고 뛰쳐나왔어요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 위험을 빠르게 감지하셨군요
+P0 	: 네 친구잘못사귀면 이렇게됩니다 ㅋㅋㅋㅋㅋ친구땸시 들어갔었던거라
+P1 	: 그럼 기억에 남는 동아리 있으세요?
+P1 	: 돌아가도 이건 또 해보고싶다 그런거
+P0 	: 게임동아리는 어떤거에요? 전 정말이지 재미없는곳했어서 그이후로 동아리쳐다도안봐요
+P1 	: 아 ㅋㅋㅋ 얼마나 강렬한 동아리였길래...
+P0 	: ㅋㅋㅋㅋ스카이캐슬아시져 그 독서모임분위기였어요
+P1 	: 게임동아리는 과 상관없이 자유롭게 가입할 수 있었는데
+P1 	: 으악 ㅜ 상상도 하기 싫은...
+P1 	: 게임 이벤트? 같은 것도 하고 그랬어요

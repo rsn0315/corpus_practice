@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007657
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 게임해요?
+P1 	: 네 저 게임해요ㅋㅋㅋ 쿠키런하고 롤이요
+P0 	: 롤 어렵죠?
+P1 	: 네 롤 엄청 어렵죠 캐릭터가 너무 많아요
+P0 	: 요즘 인기네요
+P1 	: 혹시 최근에 알파테스트로 나온 슈퍼피플 해보신적 있나요?
+P0 	: 첨 들어보네여 어떤거요?
+P1 	: 배그 같은 건데 레벨업도 있고 궁극기도 있대요
+P0 	: 오 잼나겠다
+P1 	: 그니까요ㅋㅋㅋ 유튜버들 리뷰보는데 빨리 하고 싶네요
+P0 	: 밤에 하세요?
+P1 	: 네 저는 주로 밤에 겜하죠 낮에는 수업들어야 하니까ㅎㅎ
+P0 	: ㅎㅎ 맞아요 밤이 한가롭죠

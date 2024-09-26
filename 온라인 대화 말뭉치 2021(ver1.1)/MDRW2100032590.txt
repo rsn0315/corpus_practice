@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100032590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 검진가나?
+	  아빠랑?
+P0 	: 부산백병원 진료보러 엄마아빠 다 간당
+P0 	: 나 태워주는김에 드라이브나 하고오게
+P1 	: 가족 다같이 즐겁겠당~
+P0 	: 가봐야알듯 가도 가볍게 드라이브하기 좋은곳 별로 없더라구
+P1 	: 부산이니까 바다옆도로로 달림 좋겠다ㅎ
+P0 	: ㅇㅇ그렇게할라고
+P1 	: 응 잘다녀와
+P1 	: 몇시 출발해?
+P0 	: 아홉시 오십분쯤 출발해서 지금 도착했어
+P1 	: 빠르게 도착했네ㅎ
+P0 	: ㅜㅜ 대기하는시간이 넘 기네 오늘따라 빨리 밥먹고 드라이브 하고싶은데
+P1 	: 무한대기가?
+P0 	: 이제나왔어! 이제부산 여기저기 다녀야지
+P1 	: ㅎㅎㅎ그래도 오래 걸리진않았네
+P1 	: 맛난점심 재미난 시간보내겠네~

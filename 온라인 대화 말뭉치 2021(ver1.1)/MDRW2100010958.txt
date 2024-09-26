@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010958
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 산 비싼물건은?
+P0 	: 닌텐도요ㅋㅋ
+P0 	: 님은요?
+P1 	: 저는 한동안 쇼핑을 안했어요
+P0 	: 게임 좋아하시면 닌텐도 추천드려요
+P1 	: 닌텐도게임도 따로 사야하는 거 아닌가요?
+P0 	: 맞아요 돈이 많이드는 게임기지만 만족해요
+P1 	: 저는 요즘 청소기 갖고싶어요
+P0 	: 다이슨이요?
+P1 	: 다이슨은 너무 무겁대서 제로코드가 좋대요
+P0 	: 무선청소기도 진짜 비싸죠ㅜㅜ
+P1 	: 그쵸 최저가가 75만원정도라 모아야할 거같아요
+P0 	: 추석 때 할인하지 않을까요?
+P1 	: 세일을 노리는 것두 좋네요
+P0 	: 중고거래도 좋은데 청소기는 좀 그렇네요...
+P1 	: 아무래도 그렇죠ㅎㅎ 또 위시리스트 있나요?
+P0 	: 지플립 새로 나온 거 탐나요
+P1 	: 저는 1이 젤 예쁜 거같던데....요즘 핸드폰 진짜 비싸요
+P0 	: 그러게요 그래도 한방에 자급제로 사고 알뜰요금제 쓰면 좀 나아요
+P1 	: 글쿤요

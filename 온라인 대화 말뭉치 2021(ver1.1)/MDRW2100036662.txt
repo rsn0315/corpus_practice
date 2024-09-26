@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100036662
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 길러보셨나요?
+P1 	: 아니요 한번도 안 길러봣어요~
+P0 	: 아 저도 경험이 없어요 특별한 이유가 있으신강6
+P0 	: 가요
+P1 	: 아뇨~그냥 두렵달까;;
+	  애기 키우는 데도 돈 많이 들고 손 많이 가는데 애완동물 까지 키울 자신이 없어요ㅋㅋㅋ
+P0 	: 그렇죠 매우 공감해요 어렸을때는요~?
+P1 	: 어렸을 땐 엄마가 너무 싫어하셔서ㅋㅋㅋㅋ
+P0 	: 어머 저도 같아요 어머님 깔끔하셔서 반려동물 안키우신거아닌가요*
+P1 	: 네 ㅋㅋ 특별히 알러지가 있으신 건 아닌것 같더라고요ㅎㅎ
+P0 	: 저희 엄마도 털 날리능거 극혐이요..ㅋ 저는 비염도 있어서.. 반려동물은 평생 어려울듯요
+P1 	: 아 저도 비염 있어요 ㅠㅋㅋ
+	  털 날리는 건 저도 너무 싫어용;;;ㅎㅎ
+P0 	: 그럼 아이들은 반려동물 원하진 않나요?
+P1 	: 네..저희 애들 강아지 무서워해요ㅋㅋㅋㅋ
+	  막 도망가더라구요;;
+	  멀리서는 예뻐하는데 막상 가까이 가면 도망가요ㅋㅋ
+P0 	: 다행인건가요..ㅎ저희는 첫째는 무서워하고 둘째는 좋아해요..ㅎ
+P1 	: 어차피 안 키울거 애들이 무서워하면 다행인걸로ㅎㅎ

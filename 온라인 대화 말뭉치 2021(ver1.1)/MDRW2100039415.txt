@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100039415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 거기 날씨는 어떤가요?
+P0 	: 좋은 것 같은데 집안에만 있어서 잘 모르겠어요! 거긴요?
+P1 	: 선선하구 좋아요! 계속 덥기만 하다가 이러니 편하구 좋네요.
+P0 	: 그쵸 ㅎㅎㅎ 공기는 시원하네요
+P1 	: 마자요ㅎㅎ &name1&님은 어떤 날씨를 가장 선호하시나요!
+P0 	: 저는 지금과 같은 날씨가 가장 좋아요!! 미세먼지도 괜찮고 좋네요!
+P1 	: 그렇군요!! 그럼 따로 좋아하는 계절은 있으신가요?
+P0 	: 저는 겨울이 제일 좋아요~ 롱패딩안에 파묻혀 다니는 거 좋아해서요 ㅋㅋㅋ
+P1 	: 헉 저는 롱패딩이 없는데 많이 입더라고요. 파묻히는 촉감이 꽤 좋나봐요.
+P0 	: 앗ㅋㅋㅋㅋ 네 저는 그래서 좋아하지만ㅠㅠ 겨울에도 따뜻하게 다닐 수 있어서 좋은 겨울옷 같아요!
+P1 	: 헛 그러쿠나 ㅠㅠ 롱패딩에 관심이 아주 조금 있긴 한데 다음에 매장가게 되면 한번 입어봐야겠어요 ㅎㅅㅎ
+P0 	: 네네 ㅎㅎ 딱 이시기쯤에 롱패딩 세일 많이 해요! 추위 많이 타시면 한번쯤 생각해볼만해요
+P1 	: 헉 진짜 세일 많이 할거같긴 하네요!! 그릏군아.....

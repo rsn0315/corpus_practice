@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010935
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 스포츠 좋아하시나봐요~
+P1 	: 네!! &name1&님은 스포츠 좋아하시나요?!
+P0 	: 넵 혹시 어떤종목 좋아하세요?
+P1 	: 저는 여자배구 요즘 재밌게 보고 있어요! &name1&님은요?!
+P0 	: 저도 올림픽땜에 여자배구 완전 빠졌어요...
+P1 	: 국내여자배구 아니면 해외여자배구 어떤 걸 보시나요?!
+P0 	: 거의안보다가 올림픽때 우리나라 여배봤어요ㅠ
+P1 	: 사실 저도 국대 배구만 봤는데 이번에 더 좋아져서 해외리그도 찾아보고 국내 리그도 찾아보는 중이에요 ㅎㅎ
+P0 	: 어떤선수 좋아하시나요 저는역시 김연경ㅎㅎ
+P1 	: 저도 김연경 선수 좋아해요 이번에 이소영 선수도 좋아하게 됐어요! 국내여자배구 혹시 보시나요?
+P0 	: 이제 리그개막하면 보려구요!
+P1 	: 어떤 팀 응원하세요?
+P0 	: 흥국생명이요!

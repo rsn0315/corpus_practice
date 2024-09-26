@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100034625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 쇼핑하셨나요?
+P1 	: 네 인터넷쇼핑했어요
+P0 	: 뭐사셨어요?
+P1 	: 먹거리랑 생필품들이요
+P0 	: 아 저두요
+P0 	: 생필품 뭐사셨나요?
+P1 	: 마스크랑 소독티슈랑 샴푸
+P1 	: 베이킹소다
+P0 	: 이것저것 사셨네요!
+P1 	: 넹ㅎㅎ
+P0 	: 생필품은 쟁여두면 든든하죠
+P1 	: 맞아용
+P0 	: 보통 어느몰에서 구입하세요?
+P1 	: 그때그때 다양해요
+P1 	: 옥션 지마켓
+P1 	: 이마트
+P0 	: 저두요 ㅋㅋㅋ
+P0 	: 이마트몰도 좋더라구요!
+P1 	: 맞아요 쓱배송 편해요
+P1 	: 신세계가 계속 커지는 이유가 있는 듯요
+P0 	: 맞아요
+P0 	: 정말 빨리오더라구요
+P0 	: 요새 새벽배송도 엄청 빨라요

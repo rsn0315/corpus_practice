@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007954
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>싸이월드 부활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 싸이월드 해보셨나요?
+P1 	: 예전에 가입은 했었는데ㅎㅎ
+P0 	: 저는 사실 싸이월드 세대가 아니에요
+P0 	: 대신 얘기는 많이 들었어요
+P1 	: 아ㅋㅋ페북 세대 맞으시죠?
+P0 	: 페이스북도 많이 하진 않아요
+P0 	: 싸이월드는 어떤 곳이었나요?
+P1 	: 페북이랑 비슷할거에요ㅎㅎ 근데 약간 일기장같은 느낌이 더 많았어요
+P0 	: 일기장이라고 말씀해주시니 이해가 잘 되네요
+P1 	: 그래서 약간 부끄러워서 안했던것같아요ㅎㅎ
+P0 	: 그러셨구나
+P0 	: 가끔 싸이월드 유명곡이라고 뜨는걸 봤는데
+P1 	: 아 맞다 그런게 있었죠ㅋㅋ멜론 탑백같은ㅋㅋ
+P0 	: 아하 그런 느낌이군요
+P1 	: 네 돌고도는거같아요
+P0 	: 어떤 노래 제일 좋아하셨나요?
+P1 	: 저는 팝종류 좋아했던거같아요

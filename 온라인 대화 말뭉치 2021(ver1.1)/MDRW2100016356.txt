@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 해산물 좋아해요!
+P0 	: 오옹 저도 해산물 좋아해요!
+P0 	: 어떤 해산물이 제일 좋으세요?
+P1 	: 갑각류도 좋구요 회도 좋아해요
+P1 	: 뭐 좋아하세요?
+P0 	: 저는 회나 탕을 좋아해요
+P0 	: 면류도 좋아해요
+P1 	: 탕종류중에 좋아하는 메뉴는 무엇인가요?
+P0 	: 연포탕도 좋아하고 해물탕도 좋아해요
+P0 	: 원탑을 고르기엔 너무 맛있는게 많아요ㅠㅋㅋㅋㅋ
+P1 	: 해물탕 좋죠ㅠㅠㅠㅠ
+P1 	: 면류는 어떤거 좋아하세요?
+P0 	: 면이면 다 좋아해요!
+P0 	: 콩국수 빼고 가리지 않아요
+P1 	: 저두요!
+P1 	: 탕, 면 저도 다 너무 좋아해요
+P0 	: 점심 드셨나요?
+P1 	: 네 간단히 계란볶음밥 먹었어요
+P0 	: 맛있겠네용
+P0 	: 마라탕을 자주 드시는 편인가요?
+P1 	: 아니요 취향이 아니예요
+P0 	: 마라가 향이랑 맛이 독특해서 호불호가 갈리는 것같아요

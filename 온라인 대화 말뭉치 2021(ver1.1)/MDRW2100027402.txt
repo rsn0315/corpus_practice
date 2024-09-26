@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심식사 하셨어요?
+P0 	: 아직이요:)
+	  이제 하려고 준비해요
+P0 	: 식사 하셨나요?
+P1 	: 네 구내식당에서 먹었어요 ㅎ
+P0 	: 오 구내식당이 있군요:)
+P0 	: 맛은 어때요?
+P1 	: 쏘쏘?그래도 가격이 저렴하니까 좋아요 ㅎㅎ
+P0 	: 구내식당 얼마에요?
+P0 	: 저희 회사는 3500원
+	  3장 구입하면 만원이였는뎅ㅋ
+P1 	: 저희는 한달에 4만원....ㅎㅎ
+P1 	: 엄청싸죠 진짜로
+P0 	: 우와 진짜 싸네요 !!!!
+P1 	: 네 그래서 별 불만없이 나오는데로 먹고있습니다 ㅎ
+P0 	: ㅋㅋ그 정도면
+	  정말 감사합니다 하고
+	  투정부리지 말고 먹어야겠어영ㅋㅋ
+P1 	: 네 ㅋㅋ  ㅎ그러고있어요 ㅎㅎㅎ
+P1 	: 음식도 맛없는 건 아니라 잘 먹고있어요 항상 ㅎ
+P0 	: 와 완전 훌륭한  구내식당이네요:)
+P0 	: 저도 입사하고 싶네요ㅋㅋ
+P1 	: ㅎㅎ 근처에 식당이 별로없어서 구내식당만 이용해야되기도 해서 ㅎㅎ
+P0 	: 아 선택권이 별로 없군용

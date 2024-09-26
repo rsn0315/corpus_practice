@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100021122
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>그 외 사회적 관계
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 언니 제일 최근에 읽은 책이 뭐야?
+P1 	: 응 나는 최근에 하이큐 가이드 북 읽었어
+P0 	: 오 무슨 내용이야? 막 캐릭터나 스토리 정리해주는거야?
+P1 	: 응 하이큐 캐릭터들 별로 정보 정리된 거 ㅋㅋ
+P0 	: 오 신기하다ㅋㅋ 사서 읽은거야? 아니면 빌려서?
+P1 	: 사서 읽었지! 알라딘에서 적립금주길래
+P0 	: 오오 신기하다~! 나도 한 번 읽어보고싶어
+P1 	: 그치그치 팬이면 읽어볼만해 근데 비쌈
+P0 	: 얼만데?
+P1 	: 만원이야.. 책이 두껍긴한데
+P0 	: 나는 한 이만원 하는줄ㅋㅋ
+P1 	: 요즘 책들 비싸긴하더라
+P0 	: 나는 이번에 스토너랑 시라노 샀어

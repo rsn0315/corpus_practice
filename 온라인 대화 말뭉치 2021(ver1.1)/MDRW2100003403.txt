@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 창문 닫았지?
+P0 	: ㅇㅇ 비 들이치니깐
+P1 	: 하루에도 몇번이나 요즘 날씨 왜이러는지
+P0 	: 오늘만 소나기 세번째
+P1 	: 지구가 진짜 병들었나봐
+P0 	: 예전 같은 계절과 날씨를 볼 수 없다는 게 슬프네
+P1 	: 조금씩 자주 내리면 습해지는데
+P0 	: 걱정마 왕창 내릴 것 같아 ㅎㅎ
+P0 	: 빗줄기가 꽤 굵어
+P1 	: 귀뚜라미 조용해졌네
+P0 	: ㅇㅇ 비와서 다 도망갔나봐
+P1 	: 비 자주 와서 금방 낙엽 다 떨어지겠다
+P0 	: 며칠 내로 단풍들듯
+P1 	: 소나기 소리봐 진짜 시원하게 온다
+P0 	: 무슨 음원같이.. ㅎㅎ 타닥 타다닥
+P1 	: 듣기 좋네

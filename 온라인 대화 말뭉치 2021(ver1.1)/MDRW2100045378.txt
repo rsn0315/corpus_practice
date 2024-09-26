@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100045378
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행계획있으세요?
+P0 	: 아직은 없는데 다음에 간다면 강릉 가보고싶어요!! 강릉도 가본적이 없어서 우선 1순위에요 ㅋㅋㅋ
+P0 	: 강릉 가보셨나요?
+P1 	: 아니요ㅜㅜ강릉안가봤어요ㅜㅜ
+P1 	: 저이번에 면허따서ㅋㅋ 차사서 여행갈거에요! 경주로!
+P0 	: 와아아앗!!! 직접 운전해서 경주라니..!! 넘 멋있다!!!
+P0 	: 저 경주 초딩때 이후로 가본적이 없어서 넘가고싶어요 요즘 힙한데도 많이생기고 이쁘다면서여 ㅠㅠ
+P1 	: 그러니까요! 근데 아직 차가 없어서ㅋㅋㅋ갈꺼라고 노래만 불러요ㅜㅜㅋㅋ
+P0 	: 차 사는것도 부럽네용 ㅜㅜㅜ 차 사면 이제 국내여행도 더 많이 다니시겠어요!
+P1 	: 네! 엄마랑 여행다니는게 목표에요!ㅋㅋ
+P0 	: 어무니 좋으시겠다ㅠㅜㅜ
+P0 	: 경주는 10월에 가시는거에요?
+P1 	: 더추워지기전에 가볼려구요!ㅎㅎ
+P0 	: 가을에 가면 날씨도 좋고 운치도 있을 것 같아요!!
+P0 	: 해외여행도 다니셨나요?
+P1 	: 저는해외여행은 일본밖에ㅜㅜㅜ
+P1 	: 해외여행다니셨어요?
+P0 	: 저도 일본 다녀왔었죠!!
+P0 	: 어느 도시 다녀오셨나요?
+P1 	: 오사카요!
+P0 	: 오 저도 오사카 교토 다녀왔어요!! 도톤보리 기억나네요 ㅋㅋㅋ

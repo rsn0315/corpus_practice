@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046438
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+P1 	: 점심식사 하셨나요~?
+P0 	: 김치찌개 먹고 왔어요
+P1 	: 앗 김치찌개 맛있겠네요!
+	  혹시 평소 취미는 어떻게 되시나요~?
+P0 	: 취미는.... 요즘은 집에서 넷플릭스 봐요
+P0 	: 코로나 전에는 가까운 곳이라도 자주 나갔었는데 ㅠㅠ
+P1 	: 맞아요 요즘은 야외 취미는 거의 못하게 되는 것 같아요 ㅠㅠ
+P1 	: 넷플릭스는 요즘 정말 많이 보는 것 같아요!
+P1 	: &name1&님은 넷플에서 어떤 거를 주로 보시나요? ㅎㅎ
+P0 	: 주말에 마이네임 봤어요
+P1 	: 그렇군요! 요즘은 오징어게임도 엄청 대세이던데
+P1 	: 오징어게임도 보시나요??
+P0 	: 봤어요
+P0 	: 근데 전 별로 재미 없었어요
+P1 	: 앗 &name1&님은 왜 별로라고 생각하셨나요..?? 저는 오겜이 유행인 것만 알아서
+P1 	: 궁금했었어요!
+P0 	: 개인차 있으니까 심심할 때 한번 보세요
+P0 	: 요새 대세니까요
+P1 	: 그렇군요! 저도 한번 봐야겠어요 사람마다 호불호가 있나봐요..!

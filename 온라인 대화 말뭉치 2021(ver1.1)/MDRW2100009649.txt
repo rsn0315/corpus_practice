@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100009649
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+	  저녁엔 뭐 드셨어요?
+P0 	: 저 저녁에 수육 먹었습니다
+P0 	: &name2&님은요?
+P1 	: 전 알리오올리오 해 먹었어요
+P0 	: 와 알리오올리오
+P0 	: 만드실 줄 아시는 거네요?!
+P1 	: 그냥 집에 있는 재료들 넣고 했어요 ㅎㅎ 간 맞으면 대개 먹을만 하더라구요
+P0 	: 저 어렸을 때 친구 부모님께서 해주신 알리오올리오가
+P0 	: 너무너무 맛있어가지고 진짜 맛있는 음식으로 기억하고 있거든요
+P1 	: ㅋㅋ 근데 제가 한 것 보다는 엄마가 한 게 확실히 맛있긴해요
+P0 	: 아 아무래도... 어머님이
+P0 	: 저희 엄마는 양식 쪽은 ㅠㅠ
+P1 	: 배달음식은 뭐 좋아하세요?
+P0 	: 저 찜류 좋아합니다
+P0 	: 아귀찜 해물찜 이런 거요!
+P1 	: 오 전 가끔 시키는데 치킨 피자가 대부분인 것 같아요
+P0 	: 오 치킨 피자
+P0 	: 어디 브랜드 좋아하세요?
+P1 	: 황금올리브가 기본이지만 좋더라구요
+P0 	: bbq 좋죠
+P0 	: bbqㅇ에 초코 치즈볼 생각보다
+P0 	: 맛있다 그러더라구요?
+P1 	: 초코치즈볼 처음 들어보는데 다음에 시켜볼까봐요

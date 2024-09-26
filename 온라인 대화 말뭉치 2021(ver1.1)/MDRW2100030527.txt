@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100030527
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 최근에 무슨게임하세요?
+P1 	: 예전부터 하던 아쿠아스토리/아이러브치킨 
+	  하루에 1~2번 접속하고
+P0 	: 네
+P1 	: 프렌즈타운인가를 어제부터 1~2번 접속했어요
+P0 	: 아쿠아스토리 몇년째하세요?
+P1 	: 정확히는 세어보지 않았지만 3~4년 정도는 한거 같아요
+P0 	: 오 아이러브치킨은요?
+P1 	: 그건 1년 좀 넘은거 같아요
+P0 	: 아이러브치킨만의 매력이 뭔가요
+P1 	: 처음에는 마을꾸미기류의 게임을 좋아하는편이라 시작했는데
+P0 	: 네
+P1 	: 지금은 그냥 하던게 있으니 들어가는 정도에요
+	  사실 접을까 고민중이에요
+P0 	: 아쿠아스토리의 매력이 뭔가요
+P1 	: 걔는 처음에는 카카오 게임 종류가 그리 많지 않을 때라 시작했고
+P0 	: 네
+P1 	: 지금은 가족들이 공유하는 게임이랄까
+	  가족 구성원 대부분이 하고있어 
+	  꾸준히 들어가는거 같아요
+P0 	: 다들 레벨이 높나봐요

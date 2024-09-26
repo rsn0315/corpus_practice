@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100024084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 저녁뭐먹었어
+P0 	: 저녁엔 남은 된장찌개...
+P1 	: 다른거먹지 왜먹었어
+P0 	: 남은거 좀 아깝길래 먹었어요
+P0 	: 뭐 드셨어요
+P1 	: 황태해장국 김치 먹었어
+P0 	: 다른 것도 드셨을거 아니야
+P1 	: 니가 자주먹던거 계란에 먹는거도 나왔어
+P0 	: 계란에 먹는거가 뭐야
+P1 	: 계란에 부쳐 먹는거
+P0 	: 분홍소세지??
+P1 	: 응 그거랑 호박나왔어
+P0 	: 그래도 분홍소세지 맛있어
+P1 	: 난 그거 맛없어
+P0 	: 그래서 아빠 없을때만 먹고 있어
+P1 	: 응 난 별로야

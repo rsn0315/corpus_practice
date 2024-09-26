@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016666
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 좋았던 여행지 있으세요 ?
+P1 	: 코타키나발루가 좋았어요
+P0 	: 아 저도 가보고 싶은 곳이였는데 ㅠㅠ
+P0 	: 힐링하러 가기 좋다더라구요!
+P1 	: 이쁘고 물가 싼 휴양지라 정말 만족했어요
+P0 	: 오 물가가 싼가요 ??
+P0 	: 그런곳은 뭔가 잔뜩 사서 들어와야되는데 ㅎㅎ
+P1 	: 망고젤리 엄청 사왔어요ㅋㅋ
+P0 	: 아 망고젤리 엄청 좋아요 ㅋㅋ 약간 필수템인듯한 ㅎㅎ
+P0 	: 게리 과자 같은것도 있나요?
+P1 	: 그건 못 봤던 것 같아요!
+P0 	: 하긴 그거는 한국도 싸더라구요 ㅎㅎ
+P0 	: 호텔에서 막 수영하고 그러던데 수영도 하셨나요!
+P1 	: 호텔 수영장에서도 하고 바다에서도 했어요ㅎㅎ
+P0 	: 부럽네요 ㅠㅠ 바다에서 수영 안한지가 언젠지 ㅎㅎ
+P0 	: 가는데 몇시간정도 걸려요?
+P1 	: 비행기시간은 잘 기억이 안 나요ㅠ
+P0 	: 한 5시간정도 걸리나봐요 ㅎㅎ 가깝네요 !
+P0 	: 전 외국은 일본만 가봤어요 예전에 ㅠㅠ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 님 요즘 하시는 운동 있으세요?
+P0 	: 아니요  학교 체육시간에 하는 운동 빼고는 안하는것 같아요 
+	  &name2&님은요?
+P1 	: 저는 요즘 시간 내서 산책 가고 있어요
+P1 	: 요즘 체육 시간에 어떤 운동 하시나요?
+P0 	: 요즘에는 배드민턴 배워요
+P1 	: 취향에 맞으세요?
+P0 	: 네 &name2&님은 좋하거나 즐겨보는 스포츠 있으세요?
+P1 	: 저도 배드민턴 치는 거 좋아해요
+P1 	: 올림픽 이후로 여자 배구 재밌게 봐서 나중에 친구들이랑 배구 해보려고요
+P1 	: 배구 학교에서 배운 적 있으신가요?
+P0 	: 네 중학교때 잠깐 배우고 수행평가 쳤던적 있어요!
+	  저두 올림픽 때 여자배구 재미있게 봤어요!
+P1 	: 체육 수업은 일주일에 몇 번 정도 있나요?
+P0 	: 저희학교는 일주일에2시간 있어요!
+P1 	: 저도 학교 다닐 때는 체육 시간이 유일한 운동시간이었던 거 같아요
+P1 	: 체육 수업 좋아하시나요?
+P0 	: 네 저는 좋아해요
+P1 	: 마스크 때문에 요즘에는 체육시간 활동이 제한적이겠어요

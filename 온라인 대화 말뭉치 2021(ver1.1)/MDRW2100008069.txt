@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008069
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뭐드셨나요
+P1 	: 볶음밥 먹었어요~ 점심에
+P0 	: 무슨 볶음밥인가요
+P1 	: 어제 먹던 고기 볶음에 김치 넣어서 볶았어요
+P1 	: 점심 드셨나요~?
+P0 	: 맛있겠군요..전 아점 소머리곰탕먹고
+P0 	: 간식으로 도넛 먹고 있어요...뜬금 배고파지네요
+P0 	: 마라샹궈 땡기는데 1인에겐 부담스러워요
+P1 	: 오 소머리곰탕 ㅋㅋㅋ사드신건가요?
+P1 	: 마라샹궈는 안먹어 봤네요
+P0 	: 엄마가 온라인으로 주문하신게 어제 왔는데..진하고 맛있더라고요
+P0 	: 마라탕은 드셔보셨나요
+P1 	: 오옹 요즘 온라인에 파는군요
+P1 	: 넵 그건 먹어봤어요!!
+P1 	: 맛있긴한데 주위에서 안좋아해서 아주 가끔 먹네요
+P0 	: 마라탕은 혼자먹기에도 괜찮긴하죠... 주기적으로 땡겨요
+P1 	: 혼밥 잘하시나봐요~
+P0 	: 혼밥이야 어지간한건 쉽죠... 요즘 다들 시국도 안 좋은데 1인손님이라도 가주면 좋을테고요
+P1 	: 오 그건 그렇긴 하네요
+P1 	: 시국이 시국이니까ㅠㅠ
+P0 	: 글고 혼자먹는거 은근 편해요
+P0 	: 맛집탐방 좋더라고요 2인이상 메뉴는 아쉽지만
+P1 	: 오옹 좋아요 맛집~

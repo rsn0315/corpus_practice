@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100008196
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 라면 맛있게 먹는 레시피가 있나요?
+P1 	: 안녕하세요 ㅎㅎ 저는 라면은 그냥 먹는게 제일 맛있더라구요! 뭐 특별한 레시피 있으신가요?
+P0 	: 저는 라면투움바 해먹는 거 좋아해요~!
+P1 	: 오 궁금해요 파스타처럼 해먹는건가요?
+P0 	: 네 맞아요 레시피 알려드릴까요?
+P1 	: 네네 궁금해요!
+P0 	: 신라면 면만 데쳐서 생크림, 스프, 치즈 넣고 다시 끓여주면 돼요!
+P1 	: 오 생각보다 간편하네요! 다음에는 그렇게 해먹어야겠어요
+P0 	: 그럼 &name2&님은 무슨 음식 주로 드시나요?
+P1 	: 저는 사실 요리를 잘 못해서 주로 배달음식 많이 먹어요 ㅠㅠ
+P0 	: 오 어떤 배달음식이요? 치킨?
+P1 	: 네네! 치킨도 많이 먹고 족발이나 햄버거도 많이 시켜먹는것 같아요 거의 이주에 한번?ㅎㅎ.. 돈이 만만치 않아요
+P0 	: 돈 꽤나 깨지겠네요...!

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100033924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나도ㅠㅠ
+P1 	: 벌써 2달 반이 지났어
+P1 	: 말이 돼?
+P0 	: 아 그러네 실화야...
+P0 	: 방학에 뭐했어?
+P1 	: 소모임하고 운전면허 따고
+P1 	: 너는?
+P0 	: 나는 운동했어
+P0 	: 학기 시작하면 많이 못 하니까
+P0 	: 이번에 교양 과목 몇 개 들어?
+P1 	: 4개 정도
+P1 	: 아 교양 2개
+P0 	: 나는 1개만 들어
+P0 	: 대면 수업이 좋아 비대면이 나아?
+P1 	: 나는 그래도 대면
+P1 	: 근데 코로나 진정되기 전까지는 그냥 비대면이 나아
+P0 	: 나도... 너무 위험하잖아
+P0 	: 이번 학기 비대면이야?
+P1 	: 섞여 있어
+P1 	: 너는?
+P0 	: 나도
+P0 	: 3개 정도는 대면
+P1 	: 나도 그정도 하는 거 같아
+P0 	: 이번 학기도 파이팅
+P1 	: 너도 파이팅

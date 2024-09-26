@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 여행 다녀오셨나요?
+P1 	: 그냥 드라이브정도만요
+P0 	: 어디로 다녀오셨나요?
+P1 	: 집근처여 ㅎㅎ 차밖으로 내리는건 안해서  멀리 못가요 ㅎㅎ
+P0 	: 그쵸ㅠㅠ
+P0 	: 코로나 때문에 너무 힘드네요ㅠㅠ
+P0 	: 마지막 여행지가 어디신가요?
+P1 	: 음 강원도요 ㅎㄹ
+P0 	: 오 어디 다녀오셨나요?
+P1 	: 동해요
+P0 	: 오 바다 보고오셨나보네요!!
+P1 	: 네네 ㅋ
+P0 	: 기억나는 여행지가 어디신가요?
+P1 	: 동해요 스펙터클 했어여ㅠㅋㅋ
+P0 	: 헉 무슨 일 있으셨나요?
+P1 	: 차키 잊어버리고 ㅋ
+P1 	: 기사님은 1시간 거리에 잇다하고
+P1 	: 지갑도 안가지고 내리고 음하하하

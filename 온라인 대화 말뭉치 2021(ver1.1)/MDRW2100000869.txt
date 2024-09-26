@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100000869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 반갑습니다
+P1 	: 요즘은 극장에 잘 안가게 되는 것 같네요
+P0 	: 최근에 보신.영화는 무엇이세요
+P1 	: 정말 한참 전인데 어벤져스 엔드게임이었네요.
+P1 	: 어떤 장르의 영화를 좋아하세요?
+P0 	: 전 로맨스 코미디 스릴러
+P0 	: 요런류 좋아해요
+P1 	: 그렇군요. 영화는 극장에 가서 보시는 편이신가요?
+P0 	: 네
+P0 	: 가서 보는게 제일 좋더라구요
+P1 	: 최근에도 다녀오셨나요?
+P0 	: 최근에 못갔어요
+P1 	: 역시 코로나때문에 안 가신 건가요?
+P0 	: 네
+P0 	: 못갔어요
+P1 	: 가장 최근에 보신 영화는 뭔가요?
+P0 	: 발시표시제한이랑
+P0 	: 하루요

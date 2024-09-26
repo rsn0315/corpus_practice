@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100031078
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 맞으셨어요?
+P1 	: 아직이요! 14일에 맞아요
+P0 	: 저는 일차만 맞았어요
+P0 	: 어떤거 맞으세요?
+P1 	: 오, 벌써 맞으셨구나
+P1 	: 저 20대니까 화이자 아닌가 싶어요
+P0 	: 저도 화이자요 ㅎㅎ
+P1 	: &name1&님 주변분들은 백신 부작용 없던가요?
+P0 	: 아직까지는 없었어요
+P0 	: 다행히도
+P0 	: 부작용 있으신분 계셨나요?
+P1 	: 진통제를 하루 복용 최대치까지 먹은 경우는 두명인가 있었어요
+P0 	: 엄청 아프셨나봐요ㄷㄷㄷ
+P1 	: 그러니까요ㅜㅜ
+P0 	: 백신이 건강한거랑은 상관없는거 같아요
+P0 	: 전 안건강해서 걱정했는데 괜찮더라구요
+P1 	: 오히려 건강하면 탈나는 것 같기도해요
+P0 	: 그런거 같기도 하네요

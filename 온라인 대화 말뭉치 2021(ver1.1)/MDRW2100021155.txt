@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 여기는 오늘 날씨가 맑아요!
+	  &name1&님이 있는 곳은 날씨가 어떤가요?
+P0 	: 저희지역은 어제보단 좋네요.
+P1 	: 그렇군요
+P1 	: 요즘 날씨가 안 좋았는데, 오랜만에 밝으니 좋은 것 같아요
+P0 	: 맞아요. 해가뜨니까 기분도 좀 차분해지네요
+P1 	: 네 그런 경향이 있는 것 같아요
+P1 	: 이 날씨가 지속되면 좋겠어요
+P0 	: 맞아요. 이렇게 날좋은날은 여기저기 놀러다녀야하는데 말이죠
+P1 	: 그쵸 근데 딱히 갈 곳도 없고, 시국이 시국인지라..
+P0 	: 저는 바다 가고싶어요
+P1 	: 바다 안 간지 오래 되었네요
+P1 	: 가까이에 있어도 피서철에 사람 몰린다고 안 갔더니..
+P0 	: 그렇죠.. 집에만 있으니 답답해요

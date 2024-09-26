@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100040957
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네! &name1&님은요?
+P0 	: 추어탕이영
+P0 	: 꽈배기 먹었어요
+P1 	: 우왕 추어탕 맛있나요?
+P1 	: 한번도 안 먹어봤어요!
+P0 	: 헉 정말여
+P0 	: 저는조아해용
+P1 	: 어떤 맛에 좋아하시나요?
+P0 	: ㅋㅋㅋㅋ 아이게 안먹어보면 비교할게 없네요ㅠㅠ
+P0 	: 식당마다 맛도좀씩 다다르고...
+P0 	: 시도해보세요
+P1 	: 근처에 즐겨먹는 사람이 없어서
+P1 	: 먹을 기회가 따로 없었던 것 같아요
+P1 	: 맛집이 있으시다면 추천해주세요!
+P0 	: 그냥 집근처잇는데 엄마아빠 따라다녀요ㅠㅠㅋㅋㅋ
+P0 	: 남원추어탕? 이런덴 체인점같던데 ㅋㅋㅋ
+P1 	: 흠.. 참고 할게요 !
+P1 	: 알려주셔서 감사해요 :)
+P0 	: ㅋㅋㅋ 걍 따라가서그런가 어딜가도 보통이상이엇던거같은데 ㅋㅋ
+P1 	: 가족끼리 외식을 자주 하시나봐요
+P0 	: ㅋㅋㅋ 자주는 아닌데 추어탕 많이먹어욬ㅋㅋㅋ
+P1 	: 아하 ㅋㅋㅋ
+P1 	: 꽈배기 맛집이 근처에 있으신가요?

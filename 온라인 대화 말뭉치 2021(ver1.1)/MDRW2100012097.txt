@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교에 재택근무 하시는분 계세요??
+P1 	: 저는 휴직중이고 남편은 소규모라 없어요 ㅠ 귤님은요?
+P0 	: 저도 휴직중인데 주변학교에 딱 한분 쭉 재택근무 분이신분이 계신대요.
+P1 	: 어떻다고 하시나요? 그걸도 쉽진 않을것같아요
+P0 	: 그분이 교사가 아니에요..ㅂㄷㅂㄷ
+P1 	: 아...그렇다면???
+P0 	: 교무보조인데... 거의 1년 재택근무하는거 같다고...;;;
+P1 	: 어떻게 그럴 수 있죠? 재택을 학교장이 오케이 해주나보네요
+P0 	: 그니까요.. 아니 아이들이랑 접촉도 없는 분이 왜 재택근무를 하는지 아무도 이해불가...
+P1 	: 그럼 &name1&님도 재택은 경험 없으신건가요?
+P0 	: 음 저는 없고 남편만 한 일주일 있었네요..
+P1 	: 어떻다고 하나요?
+P0 	: 근데 대박인건... 그 학교에 선생님들은 재택 반려하셨대요..
+P0 	: 흥.
+P1 	: 진짜 이상하네요.. 편애인가..
+P0 	: 그죠 그애기 듣고 ㅂㄷㅂㄷ..

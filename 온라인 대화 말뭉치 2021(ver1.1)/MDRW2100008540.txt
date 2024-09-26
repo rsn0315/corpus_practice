@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008540
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 갈아만든배 아시나요
+P0 	: 숙취음료로최고죠
+P1 	: 어떤음료 좋아하시나요
+P0 	: 저는봉봉좋아해요
+P1 	: 봉봉은 무슨맛인가요?
+P0 	: 포도맛이예요
+P0 	: 포도알도있어요
+P1 	: 식감이 좋겠네요
+P0 	: 부드러워요
+P1 	: 코코팜도 알갱이가 있어 맛있어요
+P0 	: 맞아요 봉봉도 드셔보세요
+P0 	: 맛있어요
+P1 	: 봉봉도 먹어보고싶네요
+P0 	: 포도좋아하심 좋아할거예요
+P0 	: 봉봉복숭아도있대요
+P1 	: 포도 복숭아 모두 좋아해요. 봉봉 맛별로 먹어야겠어요.

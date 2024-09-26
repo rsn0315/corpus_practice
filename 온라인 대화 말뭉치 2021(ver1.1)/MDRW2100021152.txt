@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100021152
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비 안 오니까 낮에는 덥네요
+P1 	: 어제 비 오셨나요?
+P0 	: 네 대박
+P1 	: 저희는 별로 안 왔어요
+P1 	: 지금도 습한가요?
+P0 	: 덥기만하네요
+P1 	: 저희도 흐리지도 습하지도 않네요
+P1 	: 저흰 다음주에 비소식이 있는데 다음주에 비소식 있으세요?
+P0 	: 여기도요
+P1 	: 우산 꼭 챙기세요
+P0 	: 그래야죠
+P1 	: 출퇴근 할 때 대중교통 이용하시나요?
+P0 	: 자차요
+P1 	: 자차시군요! 그럼 좀 낫겠네요. 비올 때 대중교통은 최악이에요
+P0 	: 그쵸
+P1 	: 맞아요ㅠㅠ

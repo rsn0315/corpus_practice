@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034072
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 국내여행 가보셨나요?
+P0 	: 네 대구, 전주 , 경주 .. 안동 이런곳 가봤어요
+P1 	: 와 많이 가셨네요
+P1 	: 여행 좋아하시나봐요?
+P0 	: 최근에는 못갔지만 국내여행 일년에 한두번가는거 좋아했어요
+P0 	: 국내여행다니신곳 있나요?
+P1 	: 춘천 정도밖에 기억이 안나네요
+P0 	: 춘천에서 좋았던것중 기억나는게 있나요?
+P1 	: 남이섬이 정말 예뻤어요
+P1 	: 배 타고 가는데 다른 세상에 놀러간 느낌이었어요 ㅎㅎ
+P0 	: 우와 저 가본적없는데 가고싶어졌어요
+P1 	: 정말 좋아요~ 아기자기한 가게들도 있고 큰 나무들이 많아서 예뻐요
+P0 	: 기념품 사오셨나요?
+P1 	: 아뇨 제가 기념품 사는 스타일이 아니라서요
+P1 	: 대신 사진은 많이 찍었어요
+P0 	: 그러시구나 다른곳 가보고싶은곳 있으세요?
+P1 	: 한번 대전 가보고 싶어요

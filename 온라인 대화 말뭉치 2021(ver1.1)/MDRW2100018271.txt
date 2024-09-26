@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 울 강아지들 자는가
+P0 	: 그래 잔다
+P1 	: 양치 시켜줘야하는데 벌써 자는구만
+P0 	: 이따 깨면 시켜줘라
+P1 	: 알았당
+P0 	: 양치 잘 시켜줘라
+P1 	: 엄마도 좀 시켜줘랏!
+P0 	: 니가 담당이잖아
+P1 	: 그런게 어딨엉 다같이 관리해줘야지
+P0 	: 난 산책담당
+P1 	: 흠 할흠 그렇긴 하다만 ㅋ
+P0 	: ㅋㅋ 양치 몇분 안걸리잖아
+P1 	: 그렇지 ㅠㅠ 귀찮지만 잘해줘야짓
+P0 	: 그래

@@ -1,0 +1,69 @@
+# FILE DATA
+ID : MDRW2100008306
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 날씨 어때요?
+P0 	: 오늘은 맑아요
+P0 	: 어제는 비가 엄청왔거든요
+P0 	: &name2&님은요?
+P1 	: 저도 비슷해요
+P1 	: 댜신 좀 더운거같은?
+P1 	: 습해서 그런걸까요
+P0 	: 그런가봐요ㅠ 에어컨 트셨나요
+P1 	: 에어컨 틀기에는 조금 애매한것같아서 ㅠㅠ
+P1 	: &name1&님은요?
+P0 	: 저는 오전까지 틀다가 지금은 창문열고 선풍기 틀어놨어요
+P0 	: 제가 사는 곳은 바람이 선선하니 불어서
+P0 	: 덥지는 않은 것 같아요
+P1 	: 오 부러워요!
+P1 	: 산책하기 좋겠엉ㅅ
+P1 	: 어요
+P1 	: 어떤 계절 좋아하세요?
+P0 	: 맞아요 살랑살랑 나갔다오기 좋을 거 같아요
+P0 	: 저는 늦여름을 좋아해요
+P0 	: 더위가 한풀꺾이는 가을이 오기 전 날씨가 좋아요
+P0 	: &name2&님은 어떠세요
+P1 	: 표현이 너무 예쁘네요
+P1 	: 저는 가을이 좋아요
+P1 	: 산책할때 가장 즐거운것같아요
+P0 	: 어떤점이 즐겁나요
+P0 	: 덥지않은 공기 맑은 하늘?
+P0 	: 이런점이요?
+P1 	: 많아요!
+P1 	: 단풍 풍경도 너무 아름답고요
+P1 	: 그리고 더운 걸 너무 싫어해서
+P1 	: 살았다..하고 느끼는 것같아요
+P0 	: 정말 가을 그 자체를 사랑하시는군요

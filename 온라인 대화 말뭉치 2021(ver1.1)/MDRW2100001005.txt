@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001005
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연좋아하세요?
+P1 	: 좋아하는데 많이 가보진 않았어요
+P1 	: 공연 좋아하세요??
+P0 	: 저도 좋아하는 편인데 기회가없어서ㅎㅎ
+	  최근에 본 영화가있나요?
+P1 	: 맞아요ㅜㅜ 기회가 없어요
+P1 	: 저는 코로나때에는 극장에 가서 본 영화는 없고 왓챠에서 봤었어요. 왓챠였나 티빙..!!
+P0 	: 어떤거 보셨나요?
+P1 	: 세상을 바꾼 변호인이라는 영화인데 재밌어요. 미국 첫 여성대법관의 이야기예요 ㅎㅎ
+P0 	: 오 재밌을거같아요
+P1 	: &name1&님은 최근에 극장에서 어떤 영화 보셨어요?
+P0 	: 뭔가 이름부터 마음에 드는걸요?
+P1 	: 완전 재밌어요. 주인공 멋있어요!
+P0 	: 저도 코로나로 극장은 못가고 집에서 라미란씨 나오는거 그거 정직한후보 봤어요
+P1 	: 아아 저도 그거 집에서 넷플릭스로 봤어요
+P1 	: 가볍게 보기 좋은 영화같아요
+P1 	: 전시회가는건 좋아하시나요??
+P0 	: 전시회 좋아해요 작품보고 하는거
+P0 	: 뤼닝은요?
+P1 	: 저도 좋아는하는데.. 그것도 많이 가보진 않았어요..ㅎ

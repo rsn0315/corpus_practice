@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 잘 안닦으니까 그렇지
+P0 	: 닦아줘도 누렇던데
+P1 	: 이미 착색되서 하얗게 만들기 힘들거야
+P0 	: 치아 미백에 도움되는 거 없나
+P1 	: 녹차나 사과 같은 게 좋다고는 하더만
+P0 	: 사과가 즙이 많아서 안좋을 것 같은데 의외네?
+P1 	: 사과가 아삭아삭하잖아 그 질감리 잇몽강화에 좋대
+P1 	: 잇몸강화 ㅎㅎ 잘못보냄
+P0 	: 사과는 잘 모르겠고 당근은 좋다는 얘기 들어본 것 같아
+P1 	: 아 맞다 생당근으로 이빨 문지르면 하얘진다더만
+P0 	: ㅎㅎ 해봐야겠네
+P1 	: 집에 당근 있어?
+P0 	: 어제 사왔지
+P1 	: ㅎㅎ 잘라서 해봐야겠다
+P0 	: 웃는 건 예쁜데 이빨 볼 때마다... 안습 ㅋㅋㅋ
+P1 	: 오늘부터 운동 1시간씩 했더니 좀 한 것 같네

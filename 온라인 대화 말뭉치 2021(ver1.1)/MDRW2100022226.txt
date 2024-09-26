@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100022226
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 연극 조아하시나요
+P1 	: 연극은 딱히 즐겨보진 않았던 것 같아요~
+P0 	: 영화는 좋아하시나요
+P1 	: 네 영화는 좋아해요:)
+	  &name1&님은요?
+P0 	: 영화 넘 좋아해요~
+P1 	: ㅎㅎ최근에 보신 영화 있으세요?
+P1 	: 전 영화보다 드라마파라 드라마를 즐겨봐요~
+P0 	: 모가디슈요!
+P1 	: 모가디슈? 처음 들어봐요
+P0 	: 조인성 나와요ㅎㅎ
+P1 	: 오오 그렇군요~로맨스인가요?
+P0 	: 액션입니다!
+P1 	: 액션이군요!
+	  조인성 너무 멋지죠{emoji:♡}
+P1 	: 콘서트는 가보셨어요?
+P0 	: 옛날에 페스티벌 가봤네요ㅎㅎ

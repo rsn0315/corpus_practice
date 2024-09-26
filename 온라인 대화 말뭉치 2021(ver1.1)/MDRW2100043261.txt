@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043261
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 햄버거 좋아하세요?
+P1 	: 그렇게 좋아하진 않아요. &name1& 님은요?
+P1 	: ?
+P0 	: 저는 패스트푸드중 두번째로 좋아해요
+P1 	: 오. 어느 햄버거 브랜드가 좋으세요?
+P0 	: 전 버거킹 제일 좋아해요ㅎㅎ
+P1 	: 롯데리아는 안좋아하세요?
+P0 	: 좋아하죠 근데 제 가족이 싫어해서 조심스러워요ㅋㅋ
+P1 	: 가족이 싫어할만한 이유가 있지않을까요?
+	  그런데도 좋은 이유가 뭔지 궁금하네여
+P0 	: 그래도 치즈가 그렇게 늘어나는 햄버거는 흔치 않더라고요
+P1 	: 그 중에 제일 좋은게 뭔데요?
+P0 	: 모짜렐라 인더버거 베이컨.. 이요
+P1 	: 내일 햄버거 드세요?
+P0 	: 네 먹을 예정이지만 늦게 일어나면 어떻게 될진 몰라요

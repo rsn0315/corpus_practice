@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002687
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 코로나 끝나면 여행 어디가고싶으세요?
+P1 	: 일본 놀러가고싶어요!!!
+P0 	: 일본 좋죠ㅜㅜ 저는 국내여행을 너무 가고싶어요
+P1 	: 국내여행 좋죠 요즘 산책로같은거나 이것저것 잘해뒀더라구요
+P0 	: 맞아요~ 얼마전에 남산둘레길 갔다왔는데 되게 좋더라구요
+P0 	: 혹시 가보셨어요?
+P1 	: 데이트코스로 좋죠!!!
+P0 	: 동생이랑 가봤는데 좋더라구요
+P0 	: 국내에 그런 산책로같은 곳이 또 어디있을꺄요?
+P1 	: 흠 성수 서울숲? 많이 갔던 것 같아요
+P0 	: 서울숲 많이 들어본 것 같아요!
+P0 	: 다음에는 거기를 가봐야겠네요~
+P0 	: 여행 갔던 곳중에 어디가 가장 기억에 남으세요?
+P1 	: 국내는 부산 재밌게 다녀왔어요!
+P0 	: 부산좋죠!! 저도 부산가서 딱새우를 진짜 맛있게 먹고 온 기억이 있어요
+P1 	: 부산에 언덕같은곳이 많아서 신기했던 기억이 나요
+P0 	: 저는 부산갈때 태풍와서 많이 돌아다니지를 못해서 너무 아쉬웠어요
+P0 	: 다시한번 날씨 좋을때 부산여행을 제대로 가보고싶네요
+	  검색해보니 이것저것 많이 생겼더라구요

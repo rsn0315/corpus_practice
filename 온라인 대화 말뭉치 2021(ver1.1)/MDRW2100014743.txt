@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100014743
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행많이다니세요?
+P0 	: 예전에는 잘 다녔는데 안 다닌지 꽤 됐네요
+P0 	: &name2&님은 최근에 어디 다녀오셨어요?
+P1 	: 저는 고흥갔다왔어요ㅎㅎ
+P1 	: 나로호 우수센터요ㅎㅎ
+P1 	: 딸이있어서 둘이갔다왔는데 좋더라구요 ㅎ
+P1 	: 바다도있고ㅎㅎ
+P0 	: 오 우주센터에도 들어갈 수 있나요?
+P1 	: 그냥 전시관이애요ㅎㅎ
+P1 	: 아이데리고 갈만하더라구요ㅎ
+P0 	: ㅋㅋ 우주 관련 내용일테니 아이들은 좋아하겠어요
+P1 	: 아무래도 그래요ㅎㅎㅎ
+P1 	: 나중에 데리고가보셔요ㄹㄹㄹ
+P0 	: 또 괜찮았던 곳 있으신가요?
+P1 	: 국내는 다 좋아요ㅎㅎ
+P1 	: 어딜가나 사랑하는 사람과 행복하면 좋답니댜ㅎㅎ
+P0 	: ㅋㅋ 진리네요
+P0 	: 혹시 혼자 여행도 가보신 적 있나요?
+P1 	: 혼자여행 많이가죠ㅎㅎ
+P1 	: 드라이브하면서 음악듣는거좋아해요ㅎㅎ
+P1 	: 혼자자주가보셨어요?
+P0 	: 감성여행이네요ㅋㅋ
+P0 	: 전 예전에 일본 혼자 갔었어요. 오사카 교토 나라 이쪽으로
+P1 	: 우와ㅎㅎ부럽습니다
+P1 	: 전 국내는 혼자많이갔는데
+P1 	: 해외는 안가봤어요ㅎ
+P1 	: 어땠어요?
+P0 	: 대도시라 혼자 다니는 데 어려움은 없었어요 ㅋㅋ
+P0 	: 말은 잘 안 통했지만요

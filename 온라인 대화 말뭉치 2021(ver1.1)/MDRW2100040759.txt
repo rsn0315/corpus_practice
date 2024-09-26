@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100040759
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요? 평소 건강관리 잘 하시나요?
+P1 	: 건강관리를 한다면 이시간에 깨어있지 않을거같아요! ㅋㅋㅋㅋ
+P0 	: 앗 그렇네요. 저도 마찬가지겠군요 ㅋㅋㅋㅋ
+P1 	: ㅋㅋ 그렇다면 미용에는 관심 있으신가요?
+P0 	: 관심은 있는데 팩만 간신히 하네요 &name2&님은요?
+P1 	: 전 화장품엄청엄청 좋아해요 ㅋㅋ 색조 ㅋㅋ
+P0 	: 저 아이라이너는 어디것이 좋나요?
+P1 	: 전 사실 홑꺼풀인데 젤펜슬 쓰시나요?
+P0 	: 저 하나만 하면 잘 지워져서 젤도 하고 펜도 해요
+P0 	: 둘중 하나만 하면 없어지던데요..
+P1 	: 포인트는 섀도에요 ㅋㅋㅋ
+P1 	: 당연히 젤과 펜만으로는 지워집니다
+P1 	: 저 홑꺼풀이라 제형으로는 안써본게없어요 ㅋㅋㅋㅋㅋ
+P0 	: 악!! 그런거예요? 그럼 섀도부터 잘 해야하나오?
+P1 	: 섀도도 하시죠?
+P0 	: 저도 홑꺼풀이예요
+P0 	: 하긴하는데 손으로 대충 바르는 정도?

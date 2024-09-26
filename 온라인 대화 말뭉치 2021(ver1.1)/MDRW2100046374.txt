@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100046374
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 
+P1 	: 안녕하세요! 이제 저녁시간인데 메뉴 정하셨나요?
+P0 	: 넵
+P0 	: 순두부찌게
+P0 	: 개
+P0 	: {emoji}
+P0 	: 퇴근하셨나요!!!!
+P0 	: 헐!!
+P1 	: 아이구ㅎㅎ 순두부찌개 맛있으셨나요!! 저는 라면 먹었어요 ㅋㅋㅋ
+P0 	: 넵 퇴근하고 먹었습니다
+P0 	: 앞으로 친하게 지내는건가요
+P1 	: 오늘 점심은 뭐드실건가요
+P1 	: 저는 마라샹궈 생각중입니다
+P0 	: 볶음밥요
+P1 	: 무슨 볶음밥이요?
+P0 	: 야채요 ㅎㅎ
+P1 	: 혹시 요리 좋아하세요?
+P0 	: 넵
+P1 	: 볶음밥 직접 만들어 드시는건가요 아님 외식인가요
+P0 	: 외식입니다
+P1 	: 맛있는 점심이 되겠네요.. 잘 챙겨드세요
+P0 	: 네 ㅎㅎ

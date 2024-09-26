@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100012631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요! 최근 구매한 물건이 있으신가요?
+P0 	: 저는 최근에 중고거래로 지갑을 살 예정을 잡았어요!
+P1 	: 우와 실시간이네요! 언제 거래하러 가시나요
+P0 	: 목요일날 직접 만나서 거래하기로 했어요
+P1 	: 첫 중고거래신가요?
+P0 	: 아니요! 원래 많이 하는 편이에요
+P1 	: 어떤거 해보셨어요?
+P0 	: 음 최근에는 마스크를 샀었네요
+P1 	: 마스크! 생각보다 금방금방없어지죠ㅠㅠ
+P1 	: 많이사서 쌓아두면 은근 든든해요
+P0 	: 맞아요! 곤란할때 없는 것보단 훨씬 나으니까요
+P1 	: 생필품도 당근에서 은근 잘올라와서
+P1 	: 매번 노려보고 있어요
+P0 	: 저두요ㅋㅋ 한눈팔면 금방 팔려버리니까요

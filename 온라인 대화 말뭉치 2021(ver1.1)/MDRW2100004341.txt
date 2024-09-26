@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100004341
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이상형이 어떻게 되세요?
+P1 	: 키크고 잘생기면 좋겠지만 대화잘통하고 유머러스한 사람이 좋은듯요
+P1 	: &name1&님은요?
+P0 	: 저는 얼빠라 예쁘게 잘생긴 사람이용
+P1 	: ㅋㅋ 누구나 그건 이상형이죠ㅋ
+P0 	: 그런가요? 요즘 지인들마다 성격위주로 보는 사람들이다보니ㅠㅠㅋㅋㅋㅋㅋㅋ
+P0 	: 성격이 중요하긴 해요 그래두
+P1 	: 성격이 젤 중요하긴 하죠
+P0 	: 맞아요 전 비혼주의잔데
+P0 	: &name2&님은여?
+P1 	: 전 결혼생각은 있어요
+P1 	: 근데 고생할바엔 그냥 혼자가 낫다 주의
+P0 	: 오 그러시구나
+P0 	: 자만추 원하세요?
+P1 	: 나이가 있어서 그건 쉽지않을 듯요ㅎ
+P1 	: 연애는 하고계세요?
+P0 	: 아니요!
+P0 	: 주변에 남자가 다 친구들밖에없어서..
+P0 	: 전 연상 좋아해서요
+P1 	: 남사친이 많군요
+P1 	: 그러다 남친되고 그러는거죠ㅎㅎ
+P0 	: 앗 그런가요? 혹시 경험담이신가요?!!

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034162
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 날씨가 많이 흐리죠?ㅠ
+P0 	: 그러게요ㅠ 비 쏟아질 것 같아요
+P0 	: 가을이 오려다 마네요ㅠ
+P1 	: 비 그치고 나면 진짜 추울거 같아요
+P1 	: 빨리 가을옷 준비해야할듯요
+P0 	: 가을옷 꺼내려면 여름옷들 정리해야하는데
+P0 	: 날씨가 계속 이래서 빨래하기가 쉽지않네요ㅠ
+P1 	: 지금 빨래하면 안마를거 같아요...ㅋㅋ
+P1 	: 습하고 춥고ㅠ
+P0 	: 냄새도 나겠죠... ㅎ
+P0 	: 어느 계절 좋아하세요?
+P1 	: 저는 겨울 좋아해요 &name1&님은요?
+P0 	: 저도 겨울 좋아해요!
+P0 	: 집에서도 이불, 밖에서도 이불 같은 롱패딩에 파묻혀있어도 돼서 좋아요 ㅎㅎ
+P1 	: 맞아요 겨울 덕분에 느끼는 포근함이라는게 있죠ㅋㅋ
+P0 	: 올 겨울 많이 추울거라던데 걱정이긴 하네요 ㅎ
+P1 	: 저번 겨울의 영하 20도도 뛰어넘겠죠?ㅠ
+P0 	: 넘을 것 같아요 ㅎㅎ

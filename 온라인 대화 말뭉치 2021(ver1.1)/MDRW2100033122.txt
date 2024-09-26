@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100033122
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아까 학생이라고 하셨었는데
+P1 	: 장래희망이 머죠?
+P0 	: 음 전 꿈이 없어요 &name2&님은요?
+P1 	: 저는 약사요
+P0 	: 오 멋진 직업
+P1 	: 근디 그럴러면 공부를..
+P0 	: 에이 하면 되죠
+P0 	: 할 수 있다!
+P1 	: 감사합니다
+P0 	: 아녜요 ㅋㅋ 약사 하면 뭐가 좋아요?
+P1 	: 돈을 많이 벌죠
+P0 	: 아 돈.. 중요하죠
+P0 	: 약사 되기 어렵나요?
+P1 	: 약대를 나와야 하는데..
+P0 	: 약대 그래도 개편됐잖아요
+P0 	: 아세요?
+P1 	: 헉
+P1 	: 처음 알았어요

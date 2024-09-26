@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100041802
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 그래 많이 마셔라
+P0 	: 웅웅.. ㅠㅠ코가 계속 막힌다
+P1 	: 으이구
+P0 	: ㅠ운동 무리하면 안되겠다..ㅋ
+P1 	: 오랜만에 너무 무리 했다
+P0 	: 웅웅 ㅜㅋㅋㅋ
+P1 	: 물도 마시고 있다 약도 먹어라
+P0 	: 그래야겠다~
+P1 	: 그래 면역력이 떨어지지 않게
+P0 	: 넴넴!
+P1 	: 당분간 운동하지 마라
+P0 	: 넵 ㅜㅜ 쉬어야지
+P1 	: 그래 쉬어라

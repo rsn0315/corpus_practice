@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100034063
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 대학졸업하셨나요?
+P0 	: 네 졸업했어요
+P0 	: 현재 학생이세요?
+P1 	: 네! 대학생 3학년이에요
+P0 	: 그럼 곧 개강이신가요?
+P1 	: 네 다음주 월요일에 개강이에요 ㅠㅠ
+P0 	: 헉 금방이네요ㅠㅠ
+P0 	: 수강신청은 하셨나요?
+P1 	: 네! 저저번주쯤에 했어요
+P1 	: 수강예약부터 했는데 인원초과안돼서 그대로 신청완료했어요 ㅎㅎ
+P0 	: 아하 요즘은 그렇게 하는군요
+P0 	: 대면수업으로 진행하나요?
+P1 	: 코로나때문에 9월말까지는 비대면이에요
+P0 	: 이미 정해져있군요 어때요? 비대면수업이 더 좋나요?
+P1 	: 등교 준비도 안해도돼서 시간절약도 되고 편하고 좋아요 ㅋㅋㅋ
+P0 	: 확실히 편하긴하겠네요 실습수업은 어떻게 진행돼요?
+P1 	: 원래 실습수업이나 적은 인원수의 수업은 부분적으로 대면을 했어요
+P1 	: 근데 이번에는 코로나가 심각해져서 일단 9월말까지 모든 수업이 비대면이에요
+P0 	: 그렇게되었군요 궁금했는데 알려주셔서 감사해요

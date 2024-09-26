@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100015822
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이세요?
+P1 	: 네 대학생이요
+P1 	: &name1&님은요?
+P0 	: 전 직장인ㅎ
+P0 	: 방학중이겠네요
+P1 	: 네 개강이 얼마 남지 않았어요
+P0 	: 그러네요 9월개강이니
+P0 	: 대면수업인가요?
+P1 	: 지금은 다 비대면이요 ㅎㅎ
+P0 	: 몇학년이세요? 대학생활 즐기질 못하니
+P0 	: 넘 안타까워요
+P0 	: 요즘학생들보면
+P1 	: 아직 1학년이요 ㅎㅎ
+P0 	: 아 엠티도 못가보고 친구들도 많이 못만났겠어요
+P0 	: 등록금은 다내죠?
+P1 	: 아 네 다 내요 ㅠ
+P1 	: 흑흐그흐긓그흑흑
+P0 	: 코로나가 진짜 문제ㅠㅠ
+P1 	: 등록금이 진짜 좀 짜증나요 ㅠㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 그니까요 뭐학교시설을 사용을하나
+P0 	: 교수들도 옛날꺼 틀어주고 수업하기도한다던데
+P1 	: 그렇죠 흑흑
+P1 	: 뭐...어쩌겠어요.....
+P0 	: 빨리 코로나가 잠잠해져야 할텐데 큰일이네요
+P0 	: 대학때 배낭여행도 가보고 그런게 다추억인데
+P1 	: 흑흑흑흑ㅎ그그극
+P1 	: 배낭여행 가보셨어요???
+P0 	: 저도 그걸못해보고 졸업해서 평생 후회되더라구요
+P0 	: 한달정도 방학때 가고싶었는데
+P1 	: 교환학생 갈려구요 저 3학년 때면 코로나 끝나지 않늘까요
+P0 	: 끝나진 않을거같고 그냥 백신으로 살아가겠죠^^

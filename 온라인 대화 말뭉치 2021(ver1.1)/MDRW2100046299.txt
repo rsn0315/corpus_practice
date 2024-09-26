@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046299
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 공연 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 요즘 취미있으신가요??
+P0 	: 해외축구 보는게 취미입니다
+P1 	: 응원하는 팀이 있나요??
+P0 	: 저는 fc바르셀로나를 응원합니다
+P1 	: 직관해보신적 있으신가요??
+P0 	: 스페인팀이라 직관은 못해보고 k리그 서울fc경기는 직관한적 있네요
+P1 	: 다들 응원하는 팀이 있으면 직관하는게 소원이라고 하더라구요!
+P1 	: 축구 직관의 재미는 무엇인가요?? 저는 한번도 스포츠 직관해본 경험이 없어서요!
+P0 	: 관중들의 열기랑 내가 좋아하는 팀의 선수를 직접 볼수 있다는 것 정도일거 같네요
+P1 	: 충분히 직관하는데 의미가 있네요!!
+P1 	: 가고싶은 여행지로 스페인이 있나요 ㅎㅎ?
+P0 	: 유럽여행 가게되면 스페인의 바르셀로나지역은 꼭 가려구요 경기장도 가보고 여러 관광지가 많다고 들었어요
+P1 	: 흥미있는곳에 가니 여행이 더 즐거울것 같아요!
+P1 	: 오늘 남은 하루 즐겁게 보내시길 바랄게요~!

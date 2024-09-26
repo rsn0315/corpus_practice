@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010992
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 새별소리님!
+P1 	: 안녕하세요.  넘 늦게봤어요~~ 시간나실때 대화해요^^
+P0 	: 알바많이 해보셧나요?
+P1 	: 아뇨. 전 일은 많이 안해봤어요
+P1 	: ㅎㅎ 졸업하고 바로 결혼해서 애들키우다 몇번해본게 다네요
+P0 	: 오 그러시구나 업무 스트레스 어떤게 있으셨나요
+P1 	: 사람 상대하는게 쫌그랬죠. 여러사람이 있으니깐요
+P0 	: 역시 사람상대하는게 젤 힘든것같아요
+P1 	: 맞아요.  말한마디에 기분이 오르락내리락~~
+P0 	: 업무는 어떤업무 하셨나요?
+P1 	: 병원조무사했었어요
+P0 	: 헉 엄청 고생하셨을것 같아요
+P1 	: 좋으신분들이 더 많아요
+P1 	: 몸이 아프니 쫌 까칠한분들도 있었구요
+P0 	: 교대근무도 힘들지 않나요ㅠ
+P1 	: 일반병원이라 교대없었어요

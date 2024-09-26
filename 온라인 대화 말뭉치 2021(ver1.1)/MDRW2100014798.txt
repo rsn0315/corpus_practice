@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 요즘 보시는 드라마 있으세요?
+P1 	: 아니요 &name1&님은요?
+P0 	: 저는 너는 나의봄, 악마판사 봤었는데 종영해서 이번주에하는 첫방송하는 갯마을 차차차 기다리는 중이에요ㅎㅎ 
+	  요즘 유튜브로는 어떤영상 보시나요?
+P1 	: 주식, 코인 위주로봐요
+P0 	: 아하 그렇군요
+P1 	: 어떤 노래 들으세요?
+P0 	: 저는 드라마 슬기로운 의사생활2 ost 주로 들어요! 
+	  어떤 노래 들으시나요?
+P1 	: 찰리XCX 노래 들어요
+P0 	: 아하 그렇군요  한번 들어볼게요!
+P1 	: 최근에 영화 보셨나요?
+P0 	: 최근에 택시운전사 봤어요  최근에 영화 보셨나요?
+P1 	: 우리들 봤어요

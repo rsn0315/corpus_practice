@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100034178
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 제가 사서 먹진 않는데 있으면 먹어요!
+P1 	: &name1& 님은요?
+P0 	: 전 좋아해요 ㅎㅎ
+P0 	: 군것질을 좋아해서 ㅎㅎ
+P1 	: 단 과자랑 짠 과자 중에 어떤 걸 더 선호하세요?
+P0 	: 전 주로 짠과자요!
+P0 	: 감자칩 좋아해요
+P1 	: 감자칩 맛있죠!
+P1 	: 어떤 거 자주 드세요?
+P0 	: 저 무뚝뚝감자칩 좋아하는데
+P0 	: 드셔보셨나요?
+P1 	: 헉 저도 친구가 추천해줘서 먹어봤어요! 맛있더라고요!
+P0 	: 맞죠 ㅎㅎ ! 양에 비해 좀 비싸긴한데 맛있어요
+P0 	: 초코 꼬북칩은 드셔보셨죠?
+P1 	: 네! 식감이 특이해서 재밌었어요
+P1 	: 물리는 단맛이 아니라 딴 거 하면서 계속 먹게 되더라고요ㅋㅋㅋ
+P0 	: 맞죠 ㅋㅋ ! 그거 얼려먹으면 맛있다던데
+P1 	: 헉 시원하게 먹으면 진짜 맛있을 거 같아요!
+P0 	: 저도 아직 안먹어봤는데
+P0 	: 얼어서 우유에 말아먹으래요ㅡ ㅋㅋ
+P1 	: 맛있을 거 같아요!

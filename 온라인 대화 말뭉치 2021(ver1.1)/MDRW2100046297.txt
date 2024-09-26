@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100046297
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211017
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경남
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 네
+P1 	: 안녕하세요! 일요일 아침인데 오늘 주말 계획있으신가요?
+P0 	: 네 마트쇼핑이요
+P1 	: 어떤거 사실건가요??
+P0 	: 삼겹살 이요
+P1 	: 저녁으로 드실건가요??
+P0 	: 네 저녁이요
+P1 	: 삼겹살말고 다른건 구매안하나요?
+P0 	: 네 괜찮아요
+P1 	: 삼겹살을 그냥 구워먹는거에요? 아님 다른 요리를 해서 드시는건가요?
+P0 	: 구워먹죠
+P1 	: 다른 쌈이나그런건 안필요하시나요??
+P0 	: 네 괜찮을 것 같아요
+P1 	: 오늘 저녁 삼겹살 맛있게 드시고 좋은 하루 보내세요!

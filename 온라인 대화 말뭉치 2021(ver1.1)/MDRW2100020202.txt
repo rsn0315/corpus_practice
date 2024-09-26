@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100020202
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소에 집안일 많이 하시나요?
+P1 	: 많이까진 아니고 하긴해요
+P1 	: &name1&은요?
+P0 	: 저도 종종하는...편이에요 막 엄청 부지런하게는 못하겠더라구요
+P0 	: 근데 쌓아두면 걷잡을수없으니..하긴합니다..ㅎ
+P1 	: ㅋㅋㅋㅋ&name1&은 가장 하기 싫은 집안일이 무엇인가요?
+P0 	: 저는 청소랑..설거지요!
+P0 	: 이정도면 집안일은 다 싫어하는 건가요..ㅎ
+P1 	: 에이 아니예요 아무래도 정리하고 치우는게 세상에서 제일 싫죠ㅠㅠ
+P0 	: 맞아요..그런데 정리가 취미인사람도 있어서 신기해요 제동생이 정리를 정말 좋아하거든요
+P1 	: 심심하거나 할거없어서 하는 게 아니라 그냥 정리하는것 자체를 좋아하는건가요?
+P0 	: 네 신발장 정리도 잘하고
+P0 	: 먼가 수납해서 정리하는것도 잘하고..저랑은 너무 달라서 신기했어요 ㅎㅎ
+P1 	: 그럼 청소도 좋아하시나요?
+P0 	: 네 ㅎㅎ
+P0 	: 청소도 하고나서 상쾌한 기분은 좋은데 하기까지가 참 힘든거같아요
+P1 	: 맞아요 움직이면 괜찮은데 움직이기까지가 정말 귀찮은 것 같아요
+P0 	: 맞아요 맞아요 근데 쾌적한 모습을 생각하면서 귀찮더라도 움직여야겠어요 ㅎㅎ
+P1 	: 맞습니다

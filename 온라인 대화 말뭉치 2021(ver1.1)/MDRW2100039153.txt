@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100039153
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 술 아니요
+P1 	: 친정식구들은 잘 마시는 편인데
+P1 	: 저는 그냥 보통
+P0 	: 저는 예전엔 잘 마셨는데
+P0 	: 이제는 맥주 반잔도 못마셔요 ㅠ
+P1 	: 그것도 바뀌더라구요
+P1 	: 저는 일반적으로 볼땐 보통 사람들 정도는 마셔요
+P1 	: 맥주  한두잔정도
+P0 	: 술은 어떤 주류 좋아하세요?
+P0 	: 맥주나 와인? 막걸리?
+P1 	: 저는 종류 안가려요
+P1 	: 사실 친정쪽이 술을 잘 마셔서요
+P0 	: 우와 ㅋㅋ 사회생활 하다보니 술 쎈게 좋은 것 같아요
+P1 	: 술마셔야하는 직업인가 보네요?
+P1 	: 친정사람 통틀어서 제가 제일 조금 마시죠..ㅎㅎ
+P0 	: ㅋㅋ아니요 그냥 평범한 회사원이에요
+P0 	: 그치만 회식때 술을 마셔야 사회생활하기 편하더라구요
+P0 	: 저는 술을 잘 못해서 회식없는 지금이 좋아요
+P1 	: 오 그렇군요.. 회사다니는 분들은 회식이 고역이겠어요
+P0 	: 네 맞아요~ 그리고 전 사실 술도 맛있는데
+P0 	: 몸이 술을 안 받아줘서 슬퍼요 ㅠ ㅋㅋㅋ
+P1 	: 입에서는 맛있군요 그럼 더 안타깝겠어요
+P0 	: 네ㅠ 그래도 요즘에는 무알콜 맥주가 맛있게 나오더라구요~ 다행이에요
+P1 	: 무알콜이 나와서 다행이네요

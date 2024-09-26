@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024565
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아저는 샌드위치종류 좋아해요
+P0 	: 좋아하는 디저트 있으세요?
+P0 	: 아 맛있죠!
+P1 	: 스타벅스에 바질베이글도 좋아하구
+P0 	: 스벅 샌드위치 맛있나요?
+P1 	: 네네 거기는 케이크는 그냥그런데
+P1 	: 샌드위치가 괜찮게 나오더라구요ㅎㅎㅎ
+P1 	: 투썸 케이크들은 혹시 드셔보셨나요???
+P0 	: 조각케이크 말고 네모로 잘려 나오는 케이크들은 다 먹어봤어요!
+P1 	: 아이스박스? 넘 궁금한데 혹시 드셔보셨어요?
+P0 	: 네 먹어봤어요!
+P0 	: 쿠앤크 케이크 말씀 하시는 거죠?
+P1 	: 아 네네 그거 그냥 쿠앤크맛인가요?아니면 뭔가 다를까요?
+P0 	: 초코시트 + 크림이서 케이크 자체가 쿠앤크 맛은 아니에요! 안에 오레오가 있어서 오레오 맛이 나긴해요~ 맛없을 수 없는 조합인데 엄청 달아요ㅋㅋㅋ
+P1 	: 아 맛있겠네요!
+P1 	: 민트종류는 혹시 좋아하시나요?
+P0 	: 달달한 거 좋아하시면 맛있게 드실 거예요!
+P0 	: 민트의 화한 맛이 너무 맵게 느껴져서 민트는 잘 못 먹어요ㅎㅎ
+P0 	: 민트 좋아하세요?
+P1 	: 저는 굳이 찾아먹진 않은데 요즘 메뉴 많이 나오더라구요
+P0 	: 민트초코로도 많이 나오더라고요

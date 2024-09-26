@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023485
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 맞아요! 오늘 날씨는 어떤가요?
+P0 	: 오늘 여기는 흐려요 거기는요?
+P1 	: 여기도 흐려요! 이번주도 비소식이 잦더라구요 ㅠㅠ
+P0 	: 그니까요 내일 이사인데 비가 안오길 바라고 있어요
+P1 	: 헉 ㅠㅠ 이사할때만이라도 제발 비 안오길!!
+P0 	: 그니까요 내일 비온다는데 걱정이네요ㅜㅜ
+P1 	: 흐리기만 하면 선선하니 딱 좋을텐데 ㅠㅠㅠ
+P0 	: 그쵸 날씨가 제맘대로 안되니 그것도 그래요ㅜㅜ
+P1 	: 안올거에요!! 안올거라고 믿습니다!
+P1 	: 멀리 이사 가시는건가요?
+P0 	: 그쵸 비가 안와야할텐데... 경기도에서 충청도로요ㅋㅋ많이 멀진 않아요
+P1 	: 딱 가르님 이사하는동안만 멈추기를!! ㅎㅎㅎ
+P0 	: 그니까요 딱 그때만 안오길 소원합니다ㅋㅋ
+P1 	: 가르님은 어느 계절을 제일 좋아하시나요?
+P0 	: 저는 원래 여름 좋아했는데 이번 여름 겪으면서
+	  가을로 바뀌었어요 &name2&은요?
+P1 	: 저두 더위는 넘 힘들어서 겨울이 좋은 것 같아요!! ㅠㅠㅎㅎ
+P0 	: 그쵸 요즘 여름은 동남아날씨 버금가는것 같아요

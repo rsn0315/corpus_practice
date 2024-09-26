@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 딱복이랑 물복이랑 했을때는 확실히 딱복을 더 좋아하는 편이에요
+P1 	: &name1&님은 어떤 복숭아를 좋아하시나요??
+P0 	: 저도 딱볶이요..취향이 일치하네요
+P1 	: 그러게요ㅋㅋㅋ 신기하네요ㅎㅎ
+P0 	: 저는 햄버거.피자가.최애음식입니다..ㅎ
+P1 	: 맛있는 것들을 좋아하시네욤
+P1 	: 햄버거랑 피자는 어디에서 주로 드시나요?
+P0 	: 버거킹..도미노..최애입니다
+	  
+	  
+	  ㅎㅎ
+P1 	: 저두 햄버거는 버거킹이 최애에욬ㅋㅋㅋ
+P1 	: 피자는 동네에 맛있는 집이 있어서 도미노, 파파존스 먹다가 동네 피자집에서시켜먹네요.
+P1 	: 파파존스는 지금도 초코 브라우니 때문에 종종 한 번씩 시켜먹는 것 같아요
+P0 	: 동네피자집은 체인이 아닌가요?
+P1 	: 네네 찾아봤는데 여기는 체인이 아닌것같더라구요!
+P0 	: 그렇군요 반올림피자도 평이 괜찮더라구요
+P1 	: 그래요? 집근처에 반올림피자가 있던데 피자땡길때 한 번 주문해서 먹어봐야겠네요.
+P0 	: 네 저희지점은 평이 좋더라구요 ㅎㅎ
+P1 	: 저희도 찾아보니까 평점도 좋구 사장님 댓글도 되게 좋네요! 이걸보니까 더 먹어보고 싶어져욬ㅋㅋㅋ

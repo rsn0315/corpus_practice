@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100004456
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 난 병아리도 무섭더라
+P1 	: 저 티비에 나오는 오리는 더 무서움
+P1 	: 그러게 유해진 강아지 이름이 겨울이인데 너무 이쁘다
+P0 	: 강아지도 귀엽자나
+P1 	: 엉 저 강아지 영국 여왕이 키우는 강아지인데
+P0 	: 웰시코기 다리 짧은 애
+P1 	: 다리 짧고 허리 긴 강아지인데 이름이 또 기억 안났다
+P0 	: 털이 엄청 빠진다더라
+P1 	: 털이 짧으면 더 빠짐
+P0 	: 길면 확실히 안 빠지는가 보네
+P1 	: 이제 오리들 일하러 간다
+P0 	: 계속 농사만 짓나?

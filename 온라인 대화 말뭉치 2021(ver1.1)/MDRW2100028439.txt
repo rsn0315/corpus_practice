@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100028439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연 전시회 관람은 좋아하세요?
+P0 	: 저 영화랑 대학로 연극만 본경험있어요
+P1 	: 영화 최근에 뭐보셨어요
+P0 	: 크루엘라봤습니다!
+P0 	: &name2&님은요?!
+P1 	: 크루엘라 저도 보고 싶었는데
+P1 	: 아직 못봤네요
+P1 	: 저는 넷플릭스에서 플립 봐써요
+P0 	: 오 방금 검색해봤어요
+P0 	: 재밌을것같아요
+P1 	: 풋풋하고 귀여워요
+P1 	: 꽤 괜찮은 첫사랑 영화입니다
+P0 	: 싱그러운분위기!
+P0 	: 한국에서 보신 뮤지컬 있으세요?!
+P1 	: 네 있어요!
+P1 	: 위키드 정말 좋아해요
+P0 	: 어떤게제일기억에남으세요?
+P0 	: 위키드!!
+P1 	: 여성 투탑극이 드물어서
+P1 	: 정말 재밌게 잘 봤어요
+P0 	: 아 위키드가 여성 투탑극이에요?!!세상에
+P1 	: &name1& 님은 무슨 뮤지컬 보셨나요?
+P0 	: 저 뮤지컬본적없는데 보게되면 위키드가 첫뮤지컬이될거에요

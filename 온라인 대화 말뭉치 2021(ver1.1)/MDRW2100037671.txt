@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100037671
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕하세요
+P0 	: 점심 만족하세요?
+P1 	: 네 무난했어요
+P0 	: 저도 감자를 좋아해서 무난햇어요
+P1 	: 저녁과 같은 메뉴라서 별로이려나 했는데
+	  어제는 하얀느낌 오늘은 빨간느낌이라 다른맛이더라구요
+P0 	: 오 무슨반찬이라고하셧죠?
+P1 	: 어제 저녁-파프리카버섯볶음, 부추무침, 단무지무침, 호박볶음
+	  오늘-부추무침 단무지무침 김치참치 계란후라이요
+P0 	: 아하... 저 김치참치 좋아하는데 이걸로 볶음밥한건아니죠?
+P1 	: 볶음밥이 아니라 비빔밥을 먹었죠
+P1 	: 볶음밥하면 이상해지나봐요?
+P0 	: 아하 글쿤요
+	  아뇨 후라이팬은 소모품이니
+	  적당히쓰심좋죠
+P1 	: 그렇죠
+	  쓰다보면 코팅도 벗겨지고 생각보다 금방 수명이다하더라구요
+P0 	: 맞아요.. 그렇다고 무쇠후라이팬을 쓸수도없고
+	  스텐후라이팬을쓰기도 애매하죠
+P1 	: 자주바꿔주면서 쓰는게 제일인가봐요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100023195
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물좋아하세요~
+P0 	: 네!! 털 달린동물 안달린동물 다 좋아해요 ㅎㅎ
+P1 	: 키우는동물있으세요!?
+P0 	: 저는 고양이 키워요~
+P1 	: 와 ~ 전 고양이키워본적은없는데
+P0 	: 뭐 키워보셨어요?
+P1 	: 강아지요!
+P0 	: 지금도 키우고 계신가요?
+P1 	: 아뇨ㅠ 부모님이랑 같이 살때 키웠던건데 독립후엔 안키워여ㅠ
+P0 	: 지금은 부모님께서 키우시고요?
+P1 	: 지금은 동생이 출가해서 데려가서 키워여!
+P0 	: 아이구 정 많이 들어서 보고싶겠어요 ㅎㅎ
+P1 	: 한번씩만나면 내무릎에 올라와서 안떨어져요 ㅋㅋ
+P0 	: 독립후엔 왜 안기르세요?
+P1 	: 솔직히 좋아하지만 그만큼 책임질자신은없어서요ㅠ

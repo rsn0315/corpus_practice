@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015751
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 평소에 배달음식 자주 시켜 드세요?
+P1 	: 전 주로 가정식?이랄까.. 샐러드 해먹어요
+P1 	: 주로 시켜드시나여?
+P0 	: 아하 샐러드 좋죠
+P0 	: 네ㅎㅎ
+P0 	: 시켜먹는거 좋아해서요ㅎㅎ
+P0 	: 코로나 때문에 카페 자주 못가시죠?ㅠㅠ
+P1 	: 카페는 약속 없음 안가게되죠...
+P1 	: 맨날 남는 쿠폰 팔아제끼고 있어요.. ㅋㅋ
+P0 	: 저는 음료를 좋아해서 배달로도 자주 시켜먹어요ㅎㅎ
+P1 	: 음료도배달이 되나요ㅡ?
+P0 	: 네네! 후식이랑 같이 시켜먹어요
+P0 	: 음식 뭘 제일 좋아하세요?
+P1 	: 고기류는 다 좋아요..
+P1 	: 취킨.. 불고기.. 닭강정.. ㅋㅋㅋ
+P0 	: 메뉴 보니까 그렇네요ㅎㅎ
+P0 	: 저는 내일 땅땅치킨 시켜먹을려고요
+P1 	: 땅땅치킨? 브랜드 이름이에여?
+P0 	: 네! ㅎㅎ
+P0 	: 어떤 치킨 브랜드 좋아하세요?
+P1 	: 처음들어봐요... 유명한고에여?
+P1 	: 전 안가랴요.. 그냥 있는거 다 맛잇어요 ㅋㅋㅋ
+P1 	: 맛 없는 치킨을 본적이 없어요..ㅋㅋㅋ
+P0 	: 맞아요 그건..ㅎㅎ

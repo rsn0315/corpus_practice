@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 정답은
+P0 	: 사회복지학과입니다!
+P1 	: 아~~~~ 거의 근접했는데!!!!
+P0 	: ㅋㅋㅋㅋ 거의 맞출뻔하셨는제
+P0 	: 아깝네요
+P1 	: 좀 억울하네요
+P1 	: 이제 &name1&님이 제 과 맞추셔야해요ㅡㅡ
+P0 	: ㅋㅋㅋㅋㅋ 힌트주세요
+P1 	: 저 공학기술계에요!
+P0 	: 아이코.. 어렵네요 이과쪽이라 흠..
+P0 	: 전자과?
+P1 	: 아니요~~
+P0 	: 생명공학과!
+P1 	: 생명은 완전 아니에요!
+P0 	: 화학공학과?
+P1 	: 음..~ 컴퓨터 쪽이에요
+P0 	: 컴퓨터공학과 아닌가요!
+P1 	: 이걸 바로 맞추시네
+P0 	: ㅋㅋㅋ 컴퓨터 계열은
+P0 	: 컴공밖에 생각이안나서요

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020555
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 김밥이 먹고싶네요 급
+P0 	: 저두요
+P1 	: 김밥은 집에서 만들기 넘 힘들어요
+P1 	: 버거킹은 좀 멀어졌어요
+P0 	: 저는 그 밥 간맛추는거 너무 어려워
+P1 	: 아 그쵸
+P0 	: 아앗.. 안녕히가세요 버거킹~ 나중에 만나요
+P1 	: 김밥 은근 난이도 높은 작업..
+P1 	: 메뉴를 여러개 거치며
+P0 	: 그리고 손도 많이가고
+P0 	: 바뀌었나요 마음이
+P1 	: 아침메뉴가 계속 바뀌는 중이에요
+P0 	: 사람마음은 원래 갈대같습니다
+P1 	: 수십번 바뀐듯..
+P0 	: 당연한겁니다
+P1 	: &name1&님은 어느 정도
+P1 	: 메뉴를 정하셨나요
+P0 	: 전 점심에 어제 사놓은 빵을 먹을 예정이라
+P0 	: 빵 좋아하시나요
+P1 	: 앗 참 그랬죠
+P1 	: 빵 좋아한답니다

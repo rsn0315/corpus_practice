@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025106
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 온라인 커뮤니티 하시나요
+P1 	: 네 &name1&은 하시나요?
+P0 	: 네 저두 해용 ㅎ
+P1 	: 어디 하시나요?
+P0 	: 맘카페 주로 해요~^^
+P1 	: 맘카페가 정보얻기는 정말 좋죠
+P0 	: &name2&도 하시나요?
+P1 	: 네 맘은 아니지만 정보얻기 좋아서 맘카페에 가입되 있어요
+P0 	: 등업이 어렵진 않으셨나요
+P1 	: 저희동네는 그냥 규칙 맞추면 다 등업시켜 주셨어요
+	  그 쪽 맘카페는 등업하기 어렵나요?
+P0 	: 네 글.댓글 이런거 얼마 이상 ㅠㅠ
+P1 	: 헐 생각보다 까다롭네요
+P0 	: 네 영혼없는.글들이 보여요 종종 ㅋㅋ
+P1 	: 그렇군요ㅋㅋㅋㅋ

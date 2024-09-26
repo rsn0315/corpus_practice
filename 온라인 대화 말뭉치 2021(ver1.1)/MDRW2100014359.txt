@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100014359
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 인테리어 쇼핑 다녀왔어요
+P0 	: 어떤 것을 사셨나요?
+P1 	: 이케아에서 서랍수납장이요
+P1 	: 이불이랑 조명까지
+P0 	: 오 인테리어 변화를 많이 주셨네요
+P0 	: 이불은 어떤 디자인이에요?
+P0 	: 꽃무늬? 깔끔?
+P1 	: 이불은 체크무늬요
+P1 	: 최근에다녀오신 쇼핑 있으세요?
+P0 	: 체크무늬를 놓쳤네요...!
+P0 	: 전 인터넷 쇼핑했는데
+P0 	: 운동용 바지를 하나 샀어요
+P1 	: 우와 어떤 운동하세요
+P1 	: 저도 인터넷으로 가을용 옷 샀어요
+P0 	: 요새 홈트를 시작했어요
+P0 	: 오늘이 3일차네요
+P0 	: 가을용옷이면 니트나 코트류 인가요?
+P1 	: 우와 홈트
+P1 	: 저는 셔츠를 샀습니다 아직 더워서 개시를 못하고있어요
+P0 	: 아직은 좀 덥죠
+P0 	: 다음주는 입을 수 있을 것 같아요.
+P0 	: 중고거래 해본 적 있으세요?
+P1 	: 네 당근마켓이요
+P1 	: 판거는 많이 팔아보고 산 것은 보다나 고데기 새상품 사봤어요 요리보고님은요?
+P0 	: 보다나 고데기 저도 있어요
+P0 	: 전 부모님이 화분 사오시는 거 도우러 가봤어요
+P0 	: 당근마켓에서 화분도 팔더라구요
+P1 	: 오 화분도 파는군요
+P1 	: 저는 가구를 다 내놓고 있어요 어머니가 가구 바꾸고 싶다하셔서

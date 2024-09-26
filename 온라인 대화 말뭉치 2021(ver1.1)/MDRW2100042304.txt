@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100042304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물좋아하세요?
+P1 	: 고양이 좋아해요ㅎㅎ
+P0 	: ㅎㅎ혹시키우시나요
+P1 	: 아뇨 키우진않는데 저희집 마당에 길고양이들이 자주 와요ㅎㅎ
+P0 	: ㅎㅎ성지네요
+P1 	: 그렇죠ㅎㅎ 이름도 지어줬어요 호랑이 닮은 애는 &name3& 체다치즈색 고양이는 &name4&라고ㅋㅋ
+P0 	: 냥이ㅎㅎ귀엽네요
+P1 	: 애기들 생긴것도 귀여워요ㅎㅎ
+P1 	: 돈타서 빨리 맛있는거 사묵자
+P0 	: 늘씬한가요 뚠뚠한가요
+P1 	: &name3&는 날씬하고 &name4&는 아직 애긴데 뚠뚠이에요ㅋㅋ
+P0 	: ㅎㅎㅎ뚠뚠
+P0 	: 둘다매력있죠
+P1 	: 네 다 귀여워요ㅎㅎ 하도 자주 보다보니 이젠 제가 가까이 가도 도망가지도 않아요ㅎㅎ
+P0 	: 앗선택받으셨네요ㅎㅎ

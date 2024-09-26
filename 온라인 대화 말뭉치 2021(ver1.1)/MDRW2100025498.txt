@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025498
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 저는 고양이 2마리 키워요
+P1 	: 그쪽은요?
+P0 	: 여건이 아직
+P1 	: 어떤 반려동물 키우고 싶으세요
+P0 	: 강아지요
+P1 	: 저는 강아지 키우면 산책 같이 가보고 싶어요
+P0 	: 좋내요
+P1 	: 친구가 강아지 키우는데 치료비만 벌써 400은 썼더라구요
+P0 	: 학
+P0 	: 그렇게나 많이?
+P1 	: 푸들인데 한번은 뛰다가 다리가 부러지고
+P1 	: 한번은 중성화를 늦게 했는데 유선 종양이 생겼데요 ㅠ
+P0 	: 그런일이
+P0 	: 일이 많네여
+P1 	: 저는 집와서 고양이들 밥 주고 있네요
+P0 	: 집사네여
+P0 	: 동물키워요?

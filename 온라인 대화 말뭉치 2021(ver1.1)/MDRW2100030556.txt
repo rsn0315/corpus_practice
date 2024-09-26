@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030556
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 백신 주사는 맞으셨나요
+P0 	: 네 백신예약하셨어요?
+P1 	: 담주에 예약일 이네요
+P0 	: 아 성공하시길요
+P0 	: 10부제 시행으로 예약 페이지 접속이 좀 수월해졌을 거 같아 그나마 다행
+P1 	: 아니요 예약은 했고 접종일이 다가와요
+P1 	: 접종은 아프지 않았나요
+P0 	: 그러셨군요
+P0 	: 전 많이 아팠어요ㅜㅜㅡ
+P1 	: 부작용 걱정이 많이 되죠
+P0 	: 네 그 무엇도 명확한게 아니라서 더 걱정스러워요
+P1 	: 주변엔 크게 아픈분은 없긴 해요
+P1 	: 2차는 더 아프다고 하는데 ...... 걱정이 되긴 해요
+P0 	: 백신접종완료해도 그걸 뚫고 돌파감염 되는 경우도 있대고
+P0 	: 항체지속기간도 어느 정도일지 30일 6개월 1년 말이 다 달라
+P0 	: 부작용 감수하고 맞아야하는지 끝까지 고민이 많았어요ㅜㅜㅜ
+P1 	: 독감 처럼 해마다 돈내고 맞아야 하는건 아닌지 ?
+P0 	: 설마 글케 되면 끔찍ㅜㅜ
+P1 	: 그런일은 일어나지 않기를 바래야죠

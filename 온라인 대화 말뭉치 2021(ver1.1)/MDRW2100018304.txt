@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 온라인 커뮤니티 활동을 해보신적있나요
+P1 	: 네 &name1&은 해보신 적 있으신가요?
+P0 	: 저는 활동을 해본적은 없지만
+P0 	: 구경은 해봤어요
+P1 	: 어디 구경해보셨나요?
+P0 	: 초등학생때 주전자 닷컴이라고
+P0 	: 플래시게임을 개인이 만들고 올리거나
+P0 	: 유머한 글올리는 그런 곳 자주 이용했었어요
+P0 	: &name2&은 어떤 커뮤니티 활동하시나요?
+P1 	: 저는 더쿠나 다음카페나 네이버카페요
+P1 	: 그럼 주전자카페는 게임 좋아하시는분들이 모였던건가요?
+P0 	: 지금은 모르겠는데
+P0 	: 쥬니어네이버처럼
+P0 	: 개개인이 만든 게임도 있구
+P0 	: 네이버카페처럼 글들도 있었던지라
+P0 	: 야후닷컴 느낌이랄까요
+P1 	: 그럼 10대 커뮤니티 느낌이었던건가요?
+P0 	: 그랬던거 같아요
+P0 	: &name2&은 어떤 주제의 커뮤니티활동을 하시는건가요
+P1 	: 주로 정보얘기 많이 올라오고 가끔 핫딜이나 유머가 올라와요
+P0 	: 네이버 기사같은 느낌인가요
+P1 	: 그쵸? 쇼핑과 정보가 섞인 네이버??

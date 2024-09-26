@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100018529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드시는 편이세요?
+P1 	: 네 꼭먹어요 안그럼 기운없더라구요
+P0 	: 저도 아침 먹어요~ 간헐적 단식한다고 한 일년 안먹었다가 속버려서 그 뒤로는 꼭 먹어요..ㅎㅎ
+P1 	: 아 맞아요 조금이라도 꼭먹어야해요
+P0 	: 그래서 아침 일반식으로 먹다가 요즘 식이조절하려고 계란 2개씩 먹고 있어요
+P1 	: 계란도괜찮죠 완전식품 ㅎ
+P0 	: 네 아침으로 먹기 좋더라구요 굶지 않으면서 간단하게
+P1 	: 맞아요 삶은계란이 더 간편하더라구요
+P0 	: 계란이랑 견과류 먹으니까 덜 팍팍하고 괜찮아요
+P0 	: 님은 어떤 아침 드세요?
+P1 	: 전 거의 국밥식으로먹어요
+P0 	: 국밥이면 속이 편하겠네요~ 
+	  
+	  지금 점심은 일반식 먹어서 양념게장이랑 먹었어요
+P1 	: 와 양념게장 맛나셨겠어요
+P1 	: 저흰 스벅 로프탑으로 가고있어요
+P0 	: 맛있었겠어요~^^ 어제 저녁은 찐빵을 먹었답니다
+P0 	: 전 코로나 이후로 밖에서 못사먹고 있어요
+	  심리적으로 힘더라구요
+	  가끔 외식하고 싶으면 픽업해와서 집에서 먹어요
+	  집밥 자주 해드시나요? 배달을 자주 하시나요?
+P1 	: 그렇죠.답답해요
+	  저흰 평일은 집밥..
+	  주말은 배달을자주해서 먹어요
+P0 	: 점심은 뭐 드실 계획이세요?

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006706
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 뭐 맛있게 드셨어요?
+P1 	: 떡볶이요!
+P0 	: 저도 떡볶이 홀릭이에요ㅎㅎ 로제도
+P1 	: 로제 완전 맛있죠~
+P0 	: 로제가 토마토랑 크림인가요?
+P1 	: 네네! 맞아요ㅎㅎ
+P0 	: 근데 기름이 엄청난듯 하더라고요
+P1 	: 그건 그래요ㅠㅠ 조금 부대끼긴 하죠
+P0 	: 하지만 맵기 잘 조절하면 찰떡궁합!
+P1 	: 맞아요ㅋㅋㅋ찰떡궁합!
+P1 	: 치킨은 어떤 거 좋아하세요?
+P0 	: 치킨은 후라이드요
+P0 	: 추천할 것이 있으세요?
+P1 	: 전 지코바 좋아해요!
+P0 	: 와 그거 치밥이던가요
+P1 	: 네 치밥하면 환상적이에요ㅋㅋㅋ

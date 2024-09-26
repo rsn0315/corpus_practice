@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100020721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 음식 좋아하세요??
+P1 	: 제 최애는 순대국입니다
+P0 	: 순대국 좋아해요
+P0 	: 예전에 많이 먹었는데
+P1 	: 고기만요 순대만요
+P0 	: 둘다 다좋아해요
+P0 	: 골고루 다먹었어요
+P1 	: 전 고기파 ㅎㅎ
+P0 	: 고기는 당연히 사랑하죠
+P1 	: 또 뭐 좋아하세요
+P0 	: 치킨도 완전 좋아하구요
+P0 	: 피자 햄버거......
+P0 	: 초딩입맛이에요
+P1 	: 맛있으니까 그게 정답입니다
+P0 	: 그니깐요 맛있으니깐 먹는거죠
+P0 	: 저녁에는 치킨먹었어요
+P0 	: 후식으로 스벅가서 음료먹구요
+P1 	: ㅋㅋ스벅 좋아하세요?
+P0 	: 네 스벅 완전 좋아합니다

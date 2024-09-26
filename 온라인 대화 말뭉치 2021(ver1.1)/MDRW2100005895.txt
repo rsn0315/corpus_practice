@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100005895
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 &name1&님은요?
+P0 	: 네 저도요!
+P1 	: 일은 적성에 맞으시나요
+P0 	: 네 그렇긴한데 사측이 너무 양아치에요 ㅎㅎ
+P1 	: 아 그러면 일하실때 힘드신점도 있겠엉ㅅ
+P1 	: 어요
+P0 	: 네 자꾸 인원 줄이려고 ㅋㅋ
+P0 	: 선넘어요자꾸
+P1 	: 스트레스시겠어요
+P0 	: 시도 나쁜 놈들 투성이고 ㅎㅎ
+P0 	: 요새 자꾸 스트레스네요 ㅎㅎ
+P1 	: 그럼 업무스트레스는 어떻게 푸시나요
+P0 	: 다른 기분 좋은거로 풀어야되는데
+P0 	: 요새 자꾸 안좋은일 투성이네요....
+P1 	: 근무환경이 좋아지시면 좋겠네요
+P0 	: 아 기분 조금 좋아졌어요 ㅋㅋ
+P1 	: 퇴근하면 행복하시겠어요

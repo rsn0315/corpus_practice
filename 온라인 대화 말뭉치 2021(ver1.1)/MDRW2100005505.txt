@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100005505
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 요즘 읽는 책 있으신가요??
+P1 	: 요즘은 바빠서 잘 못읽었어요ㅠ
+P1 	: 책 읽으시나요
+P0 	: 저는 면접때문에 한두권 읽는 중이에요!
+P1 	: 최근에 읽은 책은 무엇인가요
+P0 	: 마이클 샌델 완벽에 대한 반론이요! 쉽게 잘 읽혀요
+P0 	: 평소에는 어떤 장르 많이 읽으시나요??
+P1 	: 어떤 내용인가요
+P1 	: 평소에 소설 종류 많이 읽어요
+P0 	: 유전자 조작의 도덕성 관련한 이야기가 많이 나와요!
+P0 	: 최근에는 어떤 소설 보셨나요?
+P1 	: 저는 읽었던 책을 여러 번 읽는 편인데 최근에 모모 봤어요
+P0 	: 오 들어본 것 같아요
+P0 	: 모모는 몇번째 읽으신 거예요??ㅎㅎ
+P1 	: 한 다섯 번 정도 읽은 것 같아요 읽을 때마다 새로워요
+P0 	: 맞아요 읽을때마다 새롭게 보이는 게 있더라구요!
+P0 	: 모모는 어떤 분위기의 책인가요??
+P1 	: 바쁜 현대사회에서 잃어버린 것들에 대한 뭐 그런 거 다른 책이에요
+P1 	: 어 보면 시간을 쫓는 자와 쫓기는 자 이렇게 나오거든요
+P0 	: 아하 표지만 봐서는 잘 몰랐는데 다음에 한번 읽어봐야겠어요 감사합니다

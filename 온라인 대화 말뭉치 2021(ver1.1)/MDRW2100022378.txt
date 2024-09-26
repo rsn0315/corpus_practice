@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022378
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 반갑습니다
+P1 	: 반갑습니다~ 날씨가 제법 선선해졌네요
+P0 	: 처서이후 시원해졌어요
+P0 	: 다만 이 가을장마같은 날씨에 좀 습하기도 하네요
+P1 	: 맞아요~ 한동안 쾌청하더니 요즘 좀 습하네요
+P0 	: 다시 쾌청해지길 기다리고 있습니다
+P0 	: 날이 흐리니 기분도 가라앉네요
+P1 	: 가을 장마 끝나도 계속 비예보가 있네요
+P0 	: 비피해는 없는 지역인가요?
+P1 	: 네 비 피해는 없어요~ 다만 저도 기분이 우울해지네요 계속 비가 오니
+P0 	: 한국이 언제부터 가을장마가 있었나요
+P0 	: 요즘 날씨가 정말 이상합니다
+P1 	: 그러게요 하루에도 몇번씩 날씨가 변하고 이상하긴 합니다
+P0 	: 그러니까요 다음주도 비소식이 많더군요
+P0 	: 농가가 걱정이 됩니다
+P1 	: 올래 과일 농사 엉망이더라고요
+P1 	: 사과 다 썩고... 안타깝습니다
+P0 	: 아이고 추석 앞두고 다들 힘들겠군요
+P1 	: 과일 가격이 많이 오를 것 같습니다
+P1 	: 어떤 농가 인터뷰하는데 몇 트럭 버렸다고 하더라고요..

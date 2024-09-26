@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033131
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하십니까
+P1 	: 저 말투 봇이야 아님 &name1& 따라한거야
+P0 	: 건강을 위해서는 체혈요법이 탁월합니다
+P1 	: 그렇군요 오이는 어때요
+P0 	: 저에게 검진받아보시는거 어떤가요
+P1 	: 에이 의사양반 난 멀쩡한걸
+P0 	: 오이는 제 고향에서 나지 않아서 모릅니다..
+P1 	: 다이어트도 은근 하고 있다고
+P1 	: 아놔
+P0 	: 다이어트에 탁월한 구토제는 어떻습니까?
+P1 	: 그러고 보니 당신 옷 너무 더워보인달까?
+P1 	: 사양하겟어
+P1 	: 나처럼 가슴을 뽝
+P1 	: 어때
+P0 	: 당신은 까발리고 다니시잖아요
+P0 	: 경찰에 잡혀갑니다
+P1 	: 이정도는 패션이라고~
+P1 	: 모자만 빼보는건 어때
+P0 	: 건강에 좋은 수술 꼭 받아보세요
+P0 	: 모자는 포기할 수 없어요
+P1 	: 난 멀쩡하다니까

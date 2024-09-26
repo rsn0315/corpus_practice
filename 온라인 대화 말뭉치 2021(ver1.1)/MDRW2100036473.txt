@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100036473
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 너 빽다방 자주 가?
+P1 	: 요즘 영화 뭐 재밌는 거 있나
+P0 	: 응 나는 내일 코다라는 영화를 보러가
+P1 	: 코시국이라그런지 영화산업들이 침체된 거 같아
+P0 	: 어떤건지 들어봤어?
+P1 	: 코다리?
+P1 	: 코다리찜에 대한 일대기야?
+P0 	: 아니ㅠㅠㅠ 영화제목이 코다
+P0 	: 음악영화야
+P1 	: 아아 내가 실례했네
+P1 	: 한국영화야?
+P0 	: 예고편을 보니까 주인공들이
+P0 	: 노래를 잘하더라
+P1 	: 음악을 좋아하는거야 너는?
+P0 	: 아니아니 외국영화야
+P1 	: 예약은 한거야?
+P0 	: 응 나는 음악영화를 즐겨봐
+P1 	: 아아 그럼그렇지
+P1 	: 예상했어
+P0 	: 응 당연하지
+P0 	: 오늘은 쿠폰을 써서 예매했어
+P1 	: 음악공염도 자주 봐?
+P1 	: 알뜰하네
+P1 	: 그러면 공짜야?
+P1 	: 천원이야?
+P0 	: 음 공연은 시간 맞추기가 어려워서 자주 못봐
+P0 	: 공짜야!
+P1 	: 부지런하구나

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100034488
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 전 쌀국수 먹었어요
+P1 	: &name1& 님은요?
+P0 	: 저는 라면이요ㅎㅎ
+P0 	: 어젯밤에 먹방 영상보는데 라면이 너무 먹고 싶어서ㅋㅋㅋ
+P1 	: 저도 먹방 영상 볼 때는 특히 라면이 엄청 땡기더라고요ㅋㅋ
+P1 	: 아는 맛이라 그런 것 같아요
+P0 	: 맞아요 아는 맛이면 더 먹고 싶어지는ㅠㅠ
+P0 	: 저녁으로 어떤거 드셨나용?
+P1 	: 미역국이요
+P1 	: &name1& 님은 뭐 드셨어요?
+P0 	: 저는 어제 냉면 먹었어요!
+P0 	: 방금은 치킨 먹었는데 &name2&님은 저녁 드셨나요?
+P1 	: 네 전 집밥 먹었어요
+P1 	: 무슨 치킨 드셨어요?
+P0 	: 시장에 맛있다는 치킨 집 있다길래 사왔는데
+P0 	: 왕천파닭이네요ㅎㅎ
+P1 	: 파닭 맛있겠네요
+P1 	: 오랜만에 파절임이 먹고 싶어졌어요
+P0 	: 파절임 맛있죠ㅎㅎ
+P0 	: 좋아하는 반찬 있으신가요?
+P1 	: 가지볶음이요! 계속 먹어도 안 질리고 맛있어요
+P1 	: &name1& 님은요?
+P0 	: 저는 미역줄기볶음이요ㅎㅎ 이걸루 맨날 밥먹을 수 있어요
+P1 	: ㅋㅋㅋㅋ 엄청 좋아하시나 보네요 ! 미역국도 좋아하세요?
+P0 	: 미역국도 좋아요 하지만 미역 줄기만의 꼬득꼬득함은 못이겨욧ㅋㅋㅋㅋㅋ
+P1 	: 그렇죠ㅋㅋㅋ 고사리나물이나 고구마줄기 같은 것도 좋아하세요?
+P0 	: 네! 좋아해요 어떻게 아셨대

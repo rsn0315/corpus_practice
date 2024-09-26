@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100002313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이제 비는 안오겠죠?
+P1 	: 제가 사는 지역은 비가왔다 안왔다 하는데 주로 쨍쨍해요
+P1 	: &name1&님 지역은 비가많이왔나요
+P0 	: 많이는 아닌데 잊을만하면 간간이 오네요
+P1 	: 보니까 이번주랑 저번주에 천둥번개도 치던데 &name1&님 지역도 그러신가요?
+P0 	: 아!맞아요 천둥번개치고 엄청 비 많이왓었어요
+P0 	: 지금은 날씨 시원해졌구요~
+P0 	: 어느지역이세요? 서울은 날씨 시원해요
+P1 	: 저는 여수에요
+P1 	: 여기도 시원한데 아침저녁으로는 쌀쌀해요
+P0 	: 여수~바닷바람 불어오나요?
+P1 	: 간간히 불어오는데 여름 다 가서 그런가 습한 바람은 안부는 거 같아요ㅎㅎ
+P1 	: 요즘 간절기라 겉옷은 필수인거같구요
+P0 	: 습한바람만 안불어도 날씨 훨씬 쾌적한데~
+P0 	: 맞아요 사무실도 추워서 겉옷 하나 가져다놨어요
+P1 	: 맞아요 습하지만 않아도 살것같아요
+P1 	: 어떤 계절 좋아하시나요?
+P0 	: 저는 겨울 제일 좋아해요
+P0 	: 겨울 좋지않아요?
+P1 	: 맞아요 벌레도없고
+P1 	: 더운거 싫어서 겨울좋아요
+P0 	: 맞아요 더운거보단 추운게 좋아요
+P0 	: 땀나는거 너무 힘듬

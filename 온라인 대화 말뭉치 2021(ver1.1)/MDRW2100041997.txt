@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100041997
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 세종
+principal_residence : 세종
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 혹시 반려동물 키우시나요?!
+P1 	: 안녕하세요
+P1 	: 아뇨
+P1 	: 반려동물 키우시나요?
+P0 	: 저도 안키우고 있어요
+P0 	: 동물이 좋긴하지만 키우기엔 부담감이 좀 들더라구요..
+P1 	: 그쵸 비용이나 시간측면에서
+P1 	: 평범한 직장인은 좀 부담스러운 느낌이에요
+P0 	: 맞아요 긴 시간 같이 있기 힘드니까요ㅠㅠ
+P1 	: 만약 키운다면 어떤동물 키우고싶으세요?
+P0 	: 저는 고양이요!
+P1 	: 고양이 좋아하세ㅇ
+P1 	: 세요?
+P0 	: 네! 친구네 집에서 고양이를 키우는데
+P0 	: 그거 보고 좋아졌어용
+P1 	: 아 친구가 키우면 정말 귀엽죠
+P1 	: 어떤 종인가요?
+P0 	: 먼치킨이에요! 작고 귀여워요ㅠㅠ
+P1 	: 와 진짜 귀엽겠네요
+P1 	: 막 할퀴거나 그러진 않나요?
+P0 	: 네! 엄청 순했어요!!
+P1 	: 와 부럽네요

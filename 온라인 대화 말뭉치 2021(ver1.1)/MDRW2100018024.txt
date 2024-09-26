@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 카페 좋아하세요?
+P0 	: 카페 좋아하죠
+P0 	: 스타벅스를 제일 좋아해요~
+P0 	: 님은요?
+P1 	: 저는 투썸이요!
+P1 	: 케이크 좋아하거든요~
+P0 	: 투썸이 디저트로 유명하죠 ㅎㅎ
+P0 	: 어떤 케이크 좋아하세요?
+P1 	: 맞아요ㅎㅎ
+P1 	: 티라미수요!
+P1 	: 케이크 좋아하세요?
+P0 	: 네 ㅜㅜ 저 케이크 미쳐요
+P0 	: 근데 기프티콘은 스타벅스가 많다보니 주로 스벅 가네요
+P1 	: 아ㅜ 스벅은 되게 무난히 가기 좋은거같아요
+P0 	: ㅎㅎㅎ투썸 케이크는 가격대가 얼마 정도에요?
+P1 	: 6천원정도가 평균이에요!
+P0 	: 투썸 싸게 먹는 법 있어요?
+P0 	: 거기 커피는 제 취향 아니더라구요 ㅜㅜ
+P1 	: 근처에 가까운곳이 거기뿐인지라..
+P1 	: 저도 거기 음료는 별로라서 케이크만 사가는편이에요
+P0 	: 사고 다음 날 먹어도 돼요?
+P0 	: 유통기한이 짧나?
+P1 	: 거의 바로 먹는 편입니다!
+P1 	: 남지 않아욧

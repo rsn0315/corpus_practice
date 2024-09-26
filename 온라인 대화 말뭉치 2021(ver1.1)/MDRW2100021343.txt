@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동하시는거있나요
+P1 	: 아뇨 산책정도만요
+P1 	: &name1&님은요?
+P0 	: 홈트 해보려구요
+P1 	: 헬시는 다니셨나요?
+P1 	: 헬스는
+P1 	: 코로나전에요
+P0 	: 아뇨 안해봤어요ㅠ
+P1 	: 저는 잠깐 다녔는데 꾸준히 다니기가 힘들어요 ㅋㅋ
+P0 	: 마자요 pt도받으셨나요?
+P1 	: 아뇨 피티까지 하면 거의 백마원돈이 금방나가서,,
+P1 	: 헬스는 안가도 출장피티 받는 사람도있던데
+P1 	: 님은 피티받으셨나요?
+P0 	: 나중에 받아보고싶네요 지금은 너무초보라ㅠ
+P1 	: 운동 목젂따라 다른데 제 동생은 스쿼트 자세잡아주는? 센터같은데가서 자세잡았었어요
+P0 	: 오오 많이저렴한가요 그런데는
+P1 	: 아뇨 운동처방하는데라 비쌌어요,,
+P1 	: 거기도 한번 가는데 일이십했나
+P1 	: 근데 부상입었음 그런거 받을만해요 고질적인 디스크같은거 있으신가요?
+P0 	: 아뇨 없어용

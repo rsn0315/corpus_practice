@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P1 	: 너 방정리 어떻게 하는 편이야?
+P0 	: ㅋㅋㅋ 방정리 진짜 안돼
+P0 	: 1주일에 한번 정도 쌓인 짐을 치우는 편이야
+P1 	: 너도 잘 안하는 편이구나? 나도 맨날 엄마가 방에 들어와서 뭐라고 하시고 가던데
+P0 	: 짐이 너무 많아서 방정리가 안돼
+P1 	: 대체 뭐가 있길래 정리를 못하는거야ㅋㅋ
+P0 	: 문제집도 엄청 많고
+P0 	: 전자기기를 좋아해서 전자기기가 많아
+P0 	: 너는 왜 정리가 안돼?
+P1 	: 난 방에 컴퓨터 관련 부품이 좀 있어서 그런것 같아
+P0 	: 하긴 부품이 많으면 좀 어지럽지
+P1 	: 한번은 나사 밟은 적도 있다니까
+P0 	: 으악 그건 너무 발 아플거 같아
+P0 	: 방 잘 치워야겠네 ㅜㅜ
+P1 	: 엄마방에가서 연고 찾으면서 말하니까 정리 좀하고 살라고 하시더라
+P0 	: ㅋㅋ 그래 조심하자 방 잘 치우고

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P0 	: 반려동물 키우시나요?
+P1 	: 아니요. 키우세요?
+P0 	: 고양이 키우다 지금은 안키워요.
+P0 	: 고양이 너무 좋은데 남편 반대로 언니집을 보냈어요
+P1 	: 아 안타깝네요
+P0 	: 장모종 키웠더니 털날림이 너무 심해 남편 퇴직하면 다시 키워보려구요.
+P1 	: 근데 제 친구도 키우는데 털이 엄청 나드라구요
+P1 	: 그리고 돈도 많이 들지 않나요?
+P0 	: 병원비가 좀 나가긴해요.
+P0 	: 웃기지만 고양이 병원비 하려고 알바했었죠 ㅎㅎ
+P0 	: 사료값.간식비.병원비
+P1 	: 그쵸?  방광염도 걸리고 그러던데
+P0 	: 맞아요. 반려동물은 아이하나 키우는 비용 들기때문에 신중하게 생각하고 들여야 하는거 같아요
+P1 	: 제 직장동료도 고양이 때문에 적금도 들더라구요
+P0 	: 그런데 너무 사랑스러워서 꼭 다시 키우려구요
+P1 	: 그럴거 같아요.
+P0 	: ㅎㅎ 맞아요. 급하게 몫돈 들어갈때 있어요

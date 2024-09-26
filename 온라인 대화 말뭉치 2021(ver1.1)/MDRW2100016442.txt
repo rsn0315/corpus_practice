@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016442
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 공연 좋아하세요?
+P0 	: 네 뮤지컬이나 연극 같은거 보는거 좋아해요 ㅎㅎ &name2&님도 공연보는거 좋아하시나요?
+P1 	: 콘서트 보러 다녔어요 ㅎㅎ
+P0 	: 어떤 분 콘서트 다녀오셨나요?
+P1 	: 아이유랑 내한공연이용
+P0 	: 와좋은 공연 보셨네요^^ 전 콘서트는 한 번도 안가봤는데 분위기 궁금하네요 어떠셨나요?
+P1 	: 에너지 넘쳤어요
+P0 	: 직접 노래 들으면 성량부터 느낌이 다르긴 하더라구요 ㅎㅎ 가신 공연 중에 가장 기억에 남는 부분 있으신가요?
+P1 	: 자본의 맛이 이런거구나?
+P1 	: 를 느꼈어요ㅋㄱ
+P0 	: 와ㅋㅋㅋㅋ 저도 느껴보고 싶네요 ㅎㅎ 콘서트는 혼자 가신건가요?
+P1 	: 네 주로 혼자다녀요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100041935
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 영양제같은거 챙겨드시나요
+P0 	: 네..챙겨먹어요
+P1 	: 아 어떤거 드세요?
+P0 	: 비타민.오메가.칼슘요
+P0 	: 드시는거있으세요?
+P1 	: 저는 유산균이랑 비타민씨요
+P1 	: 유산균은 확실히 좋은거같아요
+P0 	: 저도참 유산균도
+P1 	: 유산균 뭐드시나요
+P1 	: 종류에따라 효과도 좀 다른거같아요
+P0 	: 락토핏
+P0 	: 코코에서 파는거  거의사먹어요
+P1 	: 아 코코는 사이트이름인가요?
+P0 	: 코스트코요
+P1 	: 아아 효과가 좋은가요
+P0 	: 저렴하고 양도많아요
+P1 	: 앗 그렇군요 유산균 고민중인데 괜찮나보네요

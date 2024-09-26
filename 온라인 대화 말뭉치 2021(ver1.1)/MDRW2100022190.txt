@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100022190
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 경남
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 여행 간곳은 어디입니까?
+P1 	: 마지막 여행이 스페인입니다
+P1 	: 여행을 좋아해서 자주 다녔습니다
+P0 	: 오~스페인 ~!!
+P0 	: 탱코는 추셨습니까??
+P0 	: 코로나때문에 다닐수가 없겠군요ㅠ
+P1 	: 파트너가 없어서 못추겠더라구요
+P1 	: 그리고 몸치입니다
+P1 	: 몸이 흥을 못따라가는 타입이죠
+P0 	: 파트너와 함께 가셨을 텐데요??ㅋㅋㅋ
+P0 	: 그럼 잠시 쉬어주는것도 좋습니다 ㅋㅋㅋㅋ
+P1 	: 운동은 좋아하는데 춤은 어렵더라구요 ㅎㅎ
+P1 	: 같이 가서 손만 잡고 다녓네요 ㅎ
+P1 	: 최근 여행
+	  간곳 어딘가요?
+P0 	: 경주 다녀왔습죠~
+P1 	: 아 경주 좋습니다
+P0 	: 다음에 애가 크거든 같이 가 봅시다
+P1 	: 아 너무 기대됩니다
+P0 	: 애들이 놀기에 너무 좋았던 것 같습니다
+P1 	: 제가 가이드할게요
+P0 	: 제주도도 함께 가고
+P0 	: 어디라도 갑시다
+P1 	: 역사공부해서 애기들한테 가이드해주고 싶네요
+P1 	: 재미있게 이야기 풀어가면 역사도 알고 흥미도 생길것같아요
+P0 	: 열정적인 아빠 군요~
+P0 	: 꼭 재미있게 이야기해 합니다
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 네 한번 경험해봣습니다

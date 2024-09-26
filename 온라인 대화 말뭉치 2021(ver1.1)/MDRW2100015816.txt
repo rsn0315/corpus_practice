@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100015816
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요리좋아하세요?
+P1 	: 좋아하는편이에요!
+P0 	: 오 주로 무슨요리하세요?
+P1 	: 주로 파스타 많이해요! 다른것두 이것저것
+P1 	: 근데 좀 게으른편이라 아주가끔해요 ㅋㅋㅋ
+P1 	: 배달 음식 좋아하세요?
+P0 	: 시켜먹는거 좋아하는데 자주먹진않아요
+P1 	: 그럼 주로 어떤거 시켜드세요?
+P0 	: 혼자라 가끔치킨요
+P0 	: &name2&님은요?
+P1 	: 저두 치킨이요!
+P1 	: 어느 브랜드 좋아하세여?
+P0 	: 전 맛초킹ㅎ 교촌오리지날
+P0 	: 간장베이스 다좋아해요
+P1 	: 오리지날이 허니콤보말하능건가요?
+P0 	: 오리지날은 기본이요
+P0 	: 허니콤보는 좀더달죠
+P1 	: 오 그렇군요 오리지날은 한번도 안먹어본듯해요
+P0 	: 오리지날에 꿀?넣은게 허니콤보일듯요
+P1 	: 아아 그렇군요 담에 먹어봐여겠어요!
+P1 	: 매운거 좋아하세요?
+P0 	: 넵 ㅎ 맵고 짜고 달고 시고ㅎ
+P0 	: 자극적인거 다좋아해요

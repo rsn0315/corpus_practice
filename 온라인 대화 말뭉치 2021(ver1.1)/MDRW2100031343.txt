@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100031343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 건강 관리 하시나용?
+P0 	: 가끔 운동을 해요
+P1 	: 무슨운동하세요?
+P0 	: 저는 슬로우버피 해요
+P0 	: 하루에 몇개할까요?
+P1 	: 와
+P1 	: 대단하네요
+P1 	: 전 그냥 제자리 걷기도 힘들던데
+P0 	: 아 감사해요ㅋㅋㅋ
+P1 	: 몇개하세요?  100개?
+P0 	: 아 근데 저도 자주는 안해요
+P0 	: 네 100개정도요....유튜브 보고 따라해서요
+P0 	: 다들 스쿼트가 좋다던데요
+P0 	: 아 저는 그냥 산책처럼 걷는 것도 좋아해요
+P0 	: 산책 자주 하시나요?
+P1 	: 100개 
+P1 	: 스쿼트는 예전엔 5개도 힘들었는데 요즘은 20개정도까지 하는거같아요 즈질체력이라
+P1 	: 산책 자주안해요 ㅎ
+P1 	: 그냥 소화 안되면 집에서 제자리걸음 하는정도?
+P0 	: 오 제자리걸음도 은근 운동 되던데요
+P0 	: 막 30분씩 걷고 그러기는 힘들지만요ㅠㅠㅠ
+P1 	: 되기는해요 ㅎ 엉망으로 걸어서 발목이 아프지만요
+P1 	: 이것도 신발 신고해야겠더라고요
+P0 	: 아 맞아요 런닝화 신으라고 하더라구요...
+P1 	: 네네 어제 좀 하고 무릎이...쑤시더라고요
+P1 	: ㅋㅋㅋㅋ혹시 집에서 하시다면 신발신고 하세요ㅠ
+P0 	: 헐 네
+P0 	: 신발 장만해야겠어요

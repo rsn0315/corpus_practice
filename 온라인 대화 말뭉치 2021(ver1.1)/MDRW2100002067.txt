@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002067
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 너 책 마포평생학습관에서 빌릴거 있다고 하지 않았어?
+P1 	: 응 검색해보니까 슈가관련된 책이 3권정도 있더라고
+P0 	: 슈가 크래프트 공예 관련된 책이야? 어떤 책들인데?
+P1 	: 응 1권은 슈가 공예 협회에서 쓴 책인데 꽤 볼만한것같고
+P0 	: 3권이나 돼? 다 내용이 다른건가?
+P1 	: 나머지 2권은 개인이 쓴 책인데 비교하면서 보려고
+P1 	: 비슷하겠지만 작품이나 디테일이 다를테니까
+P0 	: 그렇구만 요즘은 공예나 요리 베이킹 같은것도 책에 잘 나와 있어서 쉽게 배울수 있는거 같더라
+P1 	: 응 궂이 서점 안가도 되고 좋은 듯 싶어
+P1 	: 앙금케이크책도 빌릴까봐
+P0 	: 앙금 공예도 슈가 크래프트랑 하는 방법은 거의 비슷하지?
+P1 	: 응 재료만 다르고 거의 비슷한 것 같더라고
+P0 	: 두가지 다 책이 있어서 다행이다
+P1 	: 맞아. 클래스 안들어도되구 그냥 책 보고 따라할 수 있어서 더 좋은듯
+P0 	: 공방 같은데 안가도 되니까 금전적으로도 많이 아낄수 있겠네
+P1 	: 앞으로도 이런 베이킹공예 분야 책이 많이 나왔음 좋겠다ㅋ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007998
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>메타버스(가상세계) 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 메타버스가 뭔지 아시나요?
+P0 	: 제페토 같은거 아닌가요?ㅎㅎ
+P1 	: 제페토는 들어봤어요
+P1 	: 자신에 대한 캐릭터를 만들던데 맞나요?
+P0 	: 네 맞아요ㅎㅎ 관심있어서 해보는데 신기하더라구요
+P1 	: 기술이 많이 좋아졌어요
+P0 	: 네 많이 신기하구 영화같은게 많아졌어요
+P1 	: 영화같다는게 어떤 점에서 그런건가요?
+P0 	: sf 영화같은ㅎㅎㅎ
+P1 	: 아하 하지만 이제 픽션이 아니네요
+P0 	: 그러니까요 진짜 아바타가 있는세상이 됐어요ㅎㅎ
+P1 	: 현실인데 현실같지가 않아요
+P0 	: 제페토안에 은행도 만든다는데 정말 기분 이상한ㅋㅋ
+P1 	: 은행은 진짜 신기하네요
+P1 	: 조만간 아바타끼리 거래도 되겠어요

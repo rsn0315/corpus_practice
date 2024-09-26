@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 산건 뭐야?
+P1 	: 약국에서 식염수 샀어
+P1 	: 요즘 얼굴 트러블이 심각하거든
+P0 	: 아ㅜㅜ
+P0 	: 식염수는 어떻게 쓰는거야? 피부트러블에
+P1 	: 그냥 팩처럼 얼굴 진정 시켜주고 있어
+P0 	: 아하 그럼 효과가 있나봐
+P1 	: 식염수 습포라고 한포진 같은데에 하던거래
+P1 	: 얼굴도 피부니깐 소독 진정되거든
+P0 	: 그렇구나ㅜ 효과가 짱짱하면 좋겠다ㅜ
+P1 	: 넌 최근에 새로 산게 있어?
+P1 	: 응 효과는 좋아 귀찮거든
+P0 	: 난 얼마전에 새핸드폰 질렀어
+P0 	: 아직 받기 전이지만
+P1 	: 오 요즘 나오는 플립이야? 요즘 핫하다길래
+P0 	: 응응! 플립ㅋㅋㅋ
+P1 	: 무슨 색 골랐어?
+P0 	: 크림으로!!
+P1 	: 요즘 색상 잘 뽑았다고 하던데
+P0 	: 처음에 그린했다가 맘이 흔들려 크림으로 바꿨엌ㅋ
+P1 	: 오 이쁘겠다 폰꾸미기 기대되겠다

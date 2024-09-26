@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100004060
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 건강관리 하고 계세요?
+P1 	: 잘 못 하고있는 것같네요
+P1 	: 영양제는 챙겨먹어요
+P0 	: 다이어트도 하고 계세요?
+P1 	: 해야하는데 의지가 안생기네요
+P0 	: 아픈곳은 없어요?
+P1 	: 네 괜찮아요~ 오늘은 치과에서 스케일링했네요
+P1 	: 지인님은 건강 괜찮으세요?
+P0 	: 저도 건강은 괜찮은데
+P0 	: 어제부터 교정시작해서 너무 아프네요
+P1 	: 교정 시작하셨군요 힘드시겠어요
+P0 	: 어제는 입안에 악궁확장?하느라 이 사이에 고무넣고 왔는데 되게 아픈거같아요
+P1 	: 아 듣기만해도 넘 힘들것같아요ㅠ
+P1 	: 발치도 하셨어요?
+P0 	: 저는 비발치로 해야 입안이 넓어진다고 해서
+P0 	: 다음주에 사랑니만 뺄거같아요
+P0 	: 근데 수평매복이라 대학병원 가서 빼야한다더라구요
+P1 	: 저도 아래쪽 사랑니는 수평인데 안빼도된대서 두려구요
+P1 	: 위에꺼 뽑을땐 해골뽑히는줄 알았어요ㅠㅠ
+P0 	: 뽑을때가 아프셨어요 뽑고 나서가 아프셨어요?
+P1 	: 뽑는순간만 아팠어요ㅋ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010016
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 단밤님은 반려동물 기르시나요?
+P1 	: 아니요
+P0 	: 그럼 길렀던 적은 있나요?
+P1 	: 네네 예전에요  사고로  하늘나라 갔어요
+P0 	: 아이고...ㅠㅠ 어떤 친구였는지 물어봐도 되나요?
+P1 	: 스피츠요
+P0 	: 헉 아기 이름은 뭐였나요?
+P1 	: &name3&이요 ㅎㅎ
+P0 	: 이름이 너무 귀엽네요...ㅎㅎ 전 햄스터 키워봤어요!
+P1 	: 앗 햄토리라는 애니 생각나네요 ㅎㅎ
+P1 	: 햄스터 귀여우어요
+P0 	: 햄토리 한창 볼 때 햄스터를 기른 거였죠ㅋㅋㅋ
+P1 	: 헐 ㅋㅋ 그러시구낭~~
+P0 	: 넼ㅋㅋㅋㅋ &name4&이랑 &name5&이가 하늘에서도 잘 지냈으면 좋겠네요ㅠㅠ

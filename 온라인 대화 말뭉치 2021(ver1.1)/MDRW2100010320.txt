@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100010320
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 결혼하셨던가요?ㅎㅎ
+P0 	: 아니요 미혼입니다ㅋ
+P1 	: 아 연애도 쉬는중이셨죠!!
+P0 	: 얘기를 했나요?ㅋ 어떤분이랑 얘기를 하신건지 ㅋ
+P0 	: 쉬고있는 중은 맞아요ㅋ
+P1 	: ㅋㅋ처음에 말했던거 같아요
+P1 	: 소개팅은 자주 하세요?
+P0 	: 아니요 ㅎ 소개팅한지가 언젠지 기억도 안나요
+P0 	: 연애결혼하셨나요?
+P1 	: ㅋㅋ언젠가 인연이 오겠죠!
+P1 	: 네 회사에서 만났어요
+P0 	: 아 사내 커플이시군요
+P1 	: 네 ㅎㅎ 장단점이 있어요
+P0 	: 단점은 뭔가요? ㅎ
+P0 	: 매일 봐야되는거?
+P0 	: 그게 장점인가
+P1 	: 장점이자 단점...
+P0 	: ㅋㅋ
+P0 	: 그런거군요ㅎ
+P0 	: 그래도 사내커플이면 같은팀 배정은 안하니
+P0 	: 자주볼일은 없을듯요
+P1 	: 아 그쵸 ㅎㅎ
+P1 	: 멀리 있어요!
+P0 	: 단점은 월급체계를 안다는거?ㅎㅎ
+P0 	: 비상금만들기 어렵겠어요
+P1 	: 네 제 사내망을 알고 있습니다 ㅎㅎ
+P0 	: ㅋㅋ 투명한게 서로 좋은거죠

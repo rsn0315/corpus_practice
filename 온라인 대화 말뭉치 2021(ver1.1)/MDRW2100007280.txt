@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007280
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 누나 하고싶은 머리스타일 있어?
+P1 	: 나 사실 짧게 자르고싶어
+P0 	: 단발?
+P1 	: 응 아니면 아예 투블럭도 해보고싶어
+P1 	: 숏컷이 나쁜 말이야?
+P1 	: 아 아니네 투블럭 말고 숏컷
+P0 	: 숏컷이 길이가 얼마나 짧은거야?
+P1 	: 나 어릴 때 숏컷한 적 있는데
+P1 	: 일반 남자들 머리 정도?
+P0 	: 단발은 별로야?
+P1 	: 단발도 좋은데 더 짧으면 더 편해
+P0 	: 난 너무 짧으면 어색할 것 같아
+P1 	: 응 실제로 자를 생각은 없어ㅋㅋㅋ
+P0 	: 아 ㅋㅋㅋㅋ
+P1 	: 넌 하고싶은 헤어스타일 없어?
+P0 	: 난 파마하고 싶어
+P1 	: 베이비펌?
+P0 	: 그냥 아무펌이나 상관없어
+P1 	: 요즘 피부가 너무 안좋아

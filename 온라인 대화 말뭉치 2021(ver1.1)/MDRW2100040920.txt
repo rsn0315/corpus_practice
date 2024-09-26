@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100040920
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 배가 고프다
+P1 	: 아직 주꾸미 배달예정시간이 40분 남았는데
+P0 	: 잠시 책을 읽으며 허기를 달래보아
+P1 	: 응응 마음의 양식을 채운다...
+P1 	: 몸의 양식을 기다리며
+P0 	: 배고파..
+P1 	: 응 배고파
+P1 	: 배달현황 봤는데
+P1 	: 아직 조리중이래
+P0 	: ㅋㅋㅋㅋ해서 오겠지
+P0 	: 한시는 넘어야 배달출발할득
+P1 	: 혹시나 출발했나 봤지
+P0 	: 굶주림에 지쳐
+P0 	: 허상을 좇는 자들
+P1 	: ㅎㅎㅎ배고픕니다
+P1 	: 출발했나 다시 한번 체크
+P0 	: 출발했나유
+P1 	: 아직 조리중으로 뜹니다ㅠ
+P1 	: 배달도착예정시간 10분 전인디
+P0 	: 오겠지
+P0 	: 업뎃안했을지도?
+P1 	: 아직도 배달 현황이 변하지 않아
+P1 	: 얼른 와라~
+P0 	: 시간 지나서도 안오면 가게 전화해보자
+P1 	: 주꾸미 맛있었다
+P1 	: 그치?
+P0 	: 아 왕맛있었네

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008490
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동해요?
+P1 	: 아뇨 하는 건 숨쉬기 운동밖에 없네요
+P1 	: 운동의 필요성은 느끼는데 실천하기가 어려워요
+P1 	: 혹시 하는 운동 있으신가요?
+P0 	: 홈트요
+P1 	: 뭘 보고 하시는건가요?
+P0 	: 유투브요
+P1 	: 아 저도 전에 땅끄부부 유튜브보고 종종했었는데 혹시 추천해주실 유튜버 있으실까요?
+P0 	: 저도 땅크요
+P0 	: 부부케미
+P1 	: 맞아요 친절하게 잘 알려주셔서 운동하기에 좋은 것 같아요
+P0 	: 네 재미도 있구요
+P1 	: 맞아요 운동의 목적이 체력을 기르기 위해서 하시는 건가요?
+P0 	: 살빼는데 해뇨
+P1 	: 아 혹시 효과 보셨던게 있을까요?
+P1 	: 전 단기로만 해서 딱히 효과 봤단건 티파니 허리운동 말고는 없었어요
+P0 	: 플랭크 해요

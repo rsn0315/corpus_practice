@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100018080
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 날씨 시원하지않나요
+P1 	: 지 멋대로 소나기 쳐내리는 거 빼곤 맘에 들어요
+P0 	: ㅋㅋㅋㅋㅋ우산 가지고다니시나요
+P1 	: 아니요 ㅜㅜ 그런거 거추장스러워오
+P1 	: 그냥 회사에 잘 안쓰는 우산 하나 뒀어요.
+P0 	: 우산 진짜귀찮죵
+P0 	: 늦장마 그치고 습도좀 낮아졌음 좋겟네요 ㅋㅋ
+P1 	: 그쵸 갑자기 비가 웬말이냐구요 ~~
+P1 	: 언제까지래요?
+P0 	: 모르겠습니다ㅠㅠㅋㅋㅋ 시원한데 문열어놓으면 넘 습해지더라구요
+P0 	: 저도어제쫄딱맞음 ㅋㅋ
+P1 	: ㅋㅋㅋ저 그래서 아직 에어컨 틀어요 ㅠㅠ
+P0 	: 그래야겠더라구요ㅠㅠ 옷은 아직 반팔입나요?
+P1 	: 네 ㅜ 습해서 그런지 긴팔은 아직 때가 아닌 것 같아요
+P0 	: 얼른 더 쾌적한 가을을 맞고싶네용 ㅋㅋ
+P0 	: 추석되면 딱 좋겟죠
+P1 	: 맞아요~~
+P1 	: 근데 추석 때 성묘 갔다가 비 오면 어떡하죠 ㅠㅠ
+P0 	: 컥 설마
+P1 	: 소나기가 와르르 내린 기억도 나네요

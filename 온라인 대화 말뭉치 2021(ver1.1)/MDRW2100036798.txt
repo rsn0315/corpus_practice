@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 뭐 드세요?
+P1 	: 아직 안먹어서요 &name1&님은요?
+P0 	: 전 소불고기 해먹을까 생각중이에요
+P0 	: 배달 자주 시켜 드시나요?
+P1 	: 아뇨 배달 잘안시켜요 배민어플도지웠고...
+P0 	: 오~ 저 배달앱 깐적 없어서요.. 배민 별로인가요?
+P1 	: 그런건 아니고 폰용량이 적어서 지웠어요
+P0 	: 그렇구나..
+P0 	: 저도 배달음식 주문 잘 안해요
+P0 	: 보통 그냥 해먹죠
+P1 	: 좋기야 해먹는게 젤좋은거같아요
+P1 	: 파는건 위생문제가...
+P0 	: 맞아요.. 알면 못먹죠
+P0 	: 근데 가끔은 요리하기 귀찮을때 먹고 싶긴 해요..ㅎㅎ
+P1 	: 며칠전에 해물칼국수 먹다가 휴지가 나왔어요 ㅠㅜㅜ
+P0 	: 헐... 배달이요? 식당에서요?
+P1 	: 해운대31해물칼국수라는 체인점이요
+P0 	: 아 식당이요~ 

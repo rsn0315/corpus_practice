@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100002303
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책 읽는거 좋아해요?
+P0 	: 좋아해요
+P0 	: 최근엔 시간이 안맞아서 자주 못읽었지만..
+P0 	: &name2&님은요?
+P1 	: 저는 추리소설같은거 좋아해요
+P0 	: 추리소설 중 재밌는거 있나요?
+P1 	: 용의자x의 헌신 알아요?
+P0 	: 아니요 처음들어봐요 무슨내용인가요?
+P1 	: 국내 영화로도 나왔어요!
+P1 	: 재밌어요 함 봐바요
+P0 	: 방금 검색해보고왔는데 재밌어보여요
+P0 	: 꼭 한 번 봐볼게요
+P0 	: 저는 최근에 데미안을 읽었는데 고전소설이라 그런가 어렵더라구요
+P0 	: 아마 세번을 읽어도 어려울거같아요
+P1 	: 데미안 엄청 두꺼운 책 아녜요?
+P0 	: 엄청까지는 아니고 약간?
+P0 	: 사실 그 책 어려워서 첫장 읽고 덮고싶었어요.
+P0 	: 가독성이 너무 떨어지더라구요..
+P1 	: 넘 두꺼워서 시작도 못한 책이예요ㅋㅋ
+P0 	: ㅎ 그래서 데미안 읽는다 그러면 굳이 추천은 안드려요
+P1 	: ㅋㅋㅋ다른 재밌는 책을 더 읽는걸루

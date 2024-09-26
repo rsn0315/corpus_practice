@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100030905
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 직장생활 하구 계신가욤?
+P1 	: 대학원이요
+P1 	: 대리시군요
+P0 	: 아 헉 글쿤요. 네네 이제 이직을 하게 되어서 대리로 가게 되었어요 ㅋㅋㅋㅋ
+P0 	: 박사 과정이셔요?
+P1 	: 네
+P1 	: 이직 ? 왜햇어요
+P0 	: 이전에 알던 거래처서 불러주셔서요 ㅋㅋㅋ
+P0 	: 대학원서 어떤거 연구하시나요?!
+P1 	: 오 더 조은데요?
+P1 	: 저요...구조해석
+P0 	: 헉 데이터쪽요?
+P0 	: 네네 더 좋은데 가게되었어요 ㅋㅋㅋ
+P1 	: 음..fem해석이용
+P1 	: 머가더조아요 월급 ?
+P0 	: 급여도 그렇고, 회사 규모도 그렇고~
+P0 	: 와 방금 뭔지 몰라서 검색해봤는데
+P1 	: 오 좋네요
+P0 	: 소재 관련된것 같기도 하고
+P1 	: 사람도조은가요
+P0 	: 제품 관련된것 같기도 하고 많이 딥하네요
+P1 	: 여러가지가 잇습니당
+P0 	: 고럼요. 사람이 이끌어주는거니깐 사람때문에 가긴 가죵
+P1 	: 굳굳

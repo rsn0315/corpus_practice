@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100018102
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 있으세요?
+P1 	: 아뇨 친구랑 같이 살아서 키울 수가 없어요 ㅠ
+P1 	: 나중에 여건되면 고양이 키우고싶어요
+P1 	: &name1&은요?
+P0 	: 저는 고양이요!
+P0 	: 2마리요{emoji:♡}
+P1 	: 와 귀엽겠어요!
+P1 	: 사람 좋아하나요??
+P0 	: 맞아요!
+P0 	: 좋아하지만 거리감은 늘 유지해요
+P1 	: 가끔 주변에 보면 손에 상처가 가시지 않는 집사들이 있더라구요
+P0 	: 그러더라구요
+P0 	: 저희 애들은 물지 않아서 그래본적이 없어 약간 아쉽기도 해요ㅋㅋ
+P1 	: 헉 물지 않으면 좋은거죠 ㅋㅋㅋ
+P1 	: 키우면서 가장 예뻐보일땐 어떤때인가요?
+P0 	: 그쵸ㅋㅋㅋ 그래도 왠지 부럽달까요
+P0 	: 애기나 동물은 다 천사죠
+P1 	: 전 주위에서 살랑살랑 움직이면
+P1 	: 귀여움을 못참고 막 쓰다들고 껴안고 싶을거같아서 걱정이에요
+P0 	: 아 진짜요!
+P0 	: 근디 그건 싫어하더라구요
+P1 	: 그쵸 ㅋㅋㅋㅋㅋㅋ
+P1 	: 자기들이 내킬 때만 허락해주더라구요 ㅠ
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 그게 매력이지만요
+P1 	: 두마리 같이 있으면 자기들끼리 노나요? 아님 공간 분리하시나요?
+P0 	: 각자 자리가 있더라구요!
+P0 	: 만들어주진 못했어요ㅜ

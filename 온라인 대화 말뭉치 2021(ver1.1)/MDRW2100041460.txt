@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100041460
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P1 	: 공연 잘 못 보러 가사죠 ㅠ
+P0 	: 너무 아쉬워요ㅠ
+P1 	: 코로나 전 많이 보셨나요?
+P0 	: 많이는 못봐도 꾸준히 봤었는데
+P0 	: 이젠 못보네요ㅠ
+P1 	: 그러게요 ㅠ그나마 아이꺼도 콧구멍을 후비면 이후 정지 ㅜㅜ
+P0 	: 온라인으로만 보네요ㅠ
+P1 	: 그러게요 근데 안가니 집중을 잘 못하네요 ㅜ
+P0 	: 주리를 트는ㅠ
+P1 	: ㅋㅋㅋㅋ 공연장을 왜 가는지 알겠더라구요 ㅎㅎㅎ
+P0 	: 그 열기ㅎㅎ
+P0 	: 그립네요
+P1 	: 그러게요 다시 느낄 수 있겠죠 ㅜ
+P0 	: 하 언제일까요 그날이

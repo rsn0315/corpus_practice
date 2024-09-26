@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013836
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 와 앞이 안보여요!! 거기도 많이 와요?
+P0 	: 엄청 오나보군요. 여기는 온종일 오는것고 아니고 안오는 것도 아니게 와요 ㅠ
+P1 	: 네 피자 시켜먹을랬는데 비가너무많이 와서 배달이 될지모르겠어요
+P0 	: 그정도로 많이 오는군요~
+P1 	: 배달이 안될정도라 픽업하러 갔는데 비가거의 그쳤어요ㅎㅎ
+P1 	: 날씨가 마음대로네요
+P0 	: 그래도 다행이네요 픽업할때 어렵지 않게 때맞춰 그쳐주고 ㅎ
+P1 	: 네 그래서 배두드리며 푸짐하게 먹었어요ㅎㅎ
+	  오늘은 비안왔으면 좋겠네요~ 
+	  거긴 오늘 일기예보가 어떻게되요?
+P0 	: 여긴 오랜만에 비가 안오네요 ㅎㅎ
+P1 	: 여기두요! 급더워졌네요! 놀이터가야겠어요ㅎ
+	  추워질줄알았는데 아주 쨍쨍이네요
+P0 	: 습도도 높아서 덥네요
+P1 	: 네 너무덥고 습해서 놀ㅇㅣ터 안갔어요!  내일은 좀 시원하면 좋겠어요
+P0 	: 내일은 여긴 비예보가 있거든요 ㅠ
+P1 	: 여기도 비가 오다 안오다 해요

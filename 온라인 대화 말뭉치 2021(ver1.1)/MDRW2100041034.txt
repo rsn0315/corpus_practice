@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041034
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달음식 좋아해요?
+P0 	: 자주 시켜먹는 편은 아니에요
+P0 	: 배달음식 뭐 좋아하세요?
+P1 	: 전 치킨이요 ㅋㅋ
+P1 	: 간장맛을 제일 좋아해요
+P0 	: 어떤 브랜드 제일 좋아하세요?
+P1 	: 호식이가 저렴해서 자주 먹어요
+P1 	: 간장이랑 양념 반반으로 시켜요
+P0 	: 호식이는 한 번도 안 먹어봤는데 궁금하네요 ㅎㅎ
+P1 	: 후라이드는 절대 추천안하는데 간장같은 양념은 괜찮더라고요~
+P0 	: ㅋㅋ 기억해둬야겠네요
+P1 	: &name1&님은 치킨 브랜드 뭐 좋아하세요?
+P0 	: 주로 bbq나 교촌에 시켜요
+P0 	: 최근에 자담 맵슐랭 시켰는데 그것도 맛있더라구요
+P1 	: 자담은 처음 들어보는 브랜드예요..!!
+P0 	: 조정석이 광고하고 있어요
+P1 	: 아 맵슐랭 광고는 기억나는데 그게 자담이었나봐요
+P1 	: 치킨 얘기하니까 치킨 먹고 싶어지네요
+P1 	: 오늘 저녁에 시킬까봐요
+P0 	: ㅋㅋ 치킨 먹고 싶네요
+P1 	: 파스타 좋아하세요?

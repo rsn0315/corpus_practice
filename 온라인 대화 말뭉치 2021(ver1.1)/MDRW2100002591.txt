@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100002591
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책봐요?
+P1 	: 책좋아하는데 요새는 집중이 잘 안되더라구요
+P0 	: 저도 시간이 핑계요
+P1 	: 그쳐.  전에는자리에서 쭉봣는데
+P0 	: 부지런하시네여
+P1 	: 이제는 졸음오더라구요
+P0 	: 눈이 감기죠
+P1 	: 네 저도모르게 자요
+P0 	: 저도 그래여
+P1 	: 최근 머보셧어요?
+P0 	: 까막듣해서 기억이 ㅋㅋ
+P1 	: ㅋㅋ저도 웹툰이나 봐요
+P0 	: ㅋㅋ

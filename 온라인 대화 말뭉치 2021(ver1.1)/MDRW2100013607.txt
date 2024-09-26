@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013607
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 책좋아해?
+P1 	: 자주 보는 편은 아니지만 보려고 노력해 &name2&은?
+P0 	: 나는 인쇄된 책을 잘안보는것 같아, ㅠㅠ
+P0 	: 인터넷소설 좋아해
+P1 	: 뭐든지 읽으면 좋은거지! 난 얼마전에 교보문고 가서 초한지 사왔는데 아직 못 읽었어
+P1 	: 최근에 인터넷소설 뭐 봤어??
+P0 	: 최근에 ㅎㅎㅎ 제목이 엄청 유치하지만 데뷔못하면 죽는병 걸림 ㅋㅋㅋㅋㅋㅋ&name2&는 최근에 본책은 뭐야?
+P1 	: 최근에 단테 신곡 보려고 샀는데 생각보다 부담스러워서 읽다가 손놨어 ㅋㅋㅋㅋ
+P0 	: 독서는 꾸준히 해야하는데말이얏
+P1 	: 맞아 근데 그 독서 습관 들이기가 너무 힘든거같아
+P0 	: 맞아 나두 ㅜ책읽으면서 한적하게 여유가지고싶어
+P1 	: 요즘에는 스마트폰이나 태블릿pc 같은거 때문에 사실 책을 잘 안보게돼
+P0 	: 마자 종이책도 안읽어버릇하면 보기 힘든것같어
+P1 	: 그리고 요즘에는 이북리더기도 잘되어있고해서

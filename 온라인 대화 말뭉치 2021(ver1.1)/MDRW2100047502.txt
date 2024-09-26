@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100047502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨어요?
+P1 	: 네 가지밥이랑 애호박전 먹었어요~!
+P0 	: 와 맛있고 건강한 식사 하셨네요!!
+P1 	: 네 &name1&님은 뭐드셨나요
+P0 	: 저는 오랜만에 보쌈 먹었어요
+P1 	: 아 보쌈 맛있죠~ 사이드메뉴도 같이 오나요 ㅎㄹ
+P0 	: 아 부모님이 직접 고기 삶아놓으셔서
+P0 	: 쌈채소랑 김치 곁들여 먹었어요ㅎㅎ
+P1 	: 어머...집에서 드신거군여! 넘나 건강식이네요!!!
+P0 	: 네 오랜만에 든든히 저녁식사를 먹으니 기분좋네요ㅎㅎ
+P1 	: 저도 오랜만에 수육을 삶고 싶어지는 메뉴네요^^
+P0 	: ㅎㅎ식욕을 돋워드렸나봐요
+P0 	: 가지밥과 애호박전도 정말 훌륭한걸요
+P1 	: 네 아들이 맛있다고 해주니 보람이 있네요
+P0 	: 아 아들이 있으시구나
+P0 	: 아이에게도 건강식이네요

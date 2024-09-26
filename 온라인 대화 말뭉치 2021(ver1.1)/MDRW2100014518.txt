@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014518
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 휴가 다녀오셨어요?
+P1 	: 아뇨..;
+	  작년부터 그냥 집콕이네요.
+P0 	: 아이고 ㅠ 전 이와중에 좀 다녔습니다
+P1 	: 조심히 다니면 되지요.
+	  안그러면 여행관련업체들 다 망해요.;
+P0 	: 지금이 한창 여기저기 다녀야 할시기인데 집에만 있으니 아이가 넘 불쌍해서요
+P1 	: 그리깐요.;
+	  올해 여행지에 사온 기념품 중에서 가장 만족스러운 거 있으세요?
+P0 	: 전 기념품은 사지 않아요. 집에서 굴러다닐게 뻔해서 대신 애들이 졸라서 장난감을 샀어요 ㅠ
+P1 	: 아.. 그럼 그 지역 특산품은 사오시나요?
+	  먹거리요.
+P0 	: 먹거리는 그냥 거기서 먹어요 겨리님은 기념품 특산품을 잘 사오시나봐요?
+P1 	: 저는 그냥 지나가다 옥수수도 사고 과일도 사고 그러네요. 곶감도 샀어요.ㅎ
+P0 	: 전 사와도 평일엔 저랑 애들만 있으니까 그런 음식들이 빨리 줄질 않더라고요
+P1 	: 그래서 여행지에서 특산품과 기념품을 사오면 지인들과 나누네요. 반띵도 하고..

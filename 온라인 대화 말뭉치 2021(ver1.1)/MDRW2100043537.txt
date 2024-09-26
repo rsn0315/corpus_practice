@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100043537
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 알러지있으세요?
+P1 	: 없는것 같아요. 건강위해 하시는일 있나요?
+P0 	: 유산균먹어요ㅎㅎ
+P1 	: 장건강을 위한 유산균드니는군요. 전 비타민C챙겨먹고 있어요.
+P0 	: 오 효과있나요
+P1 	: 피로회복에 좋다고 해서 먹기는 하는데 잘모르겠어요. 매일 안먹고 가끔 챙겨먹어서인가 봐요
+P0 	: ㅎㅎㅎ챙겨먹기힘들어요ㅠ
+P1 	: 건강위한 비타민을 커피처럼 챙겨먹으면 좋을텐데 왜 안챙기게 될까요 ㅋ
+P0 	: ㅎㅎ하루몇잔드세요
+P1 	: 2~3잔 마시나 봐요. 건강위해선 물을 많이 마시라고 하던데 .물보다는 커피를 마시나봐요
+P0 	: 오많이드시네요
+P1 	: 몇잔드시나요?
+P0 	: 저한잔이용ㅎㅎ

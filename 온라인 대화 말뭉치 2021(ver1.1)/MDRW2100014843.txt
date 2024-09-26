@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014843
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 내일 아침에는 간단하게 씨리얼 먹을까?
+P0 	: 좋~ 지 ㅎㅎ
+P1 	: 편하게 씨리얼 우유말아 먹자
+P0 	: 오늘 사과 왔으니 사과도 ㅎㅎ
+P1 	: ㅇㅇ 그랴요
+P0 	: 작은 아들은 사과 통째로 들고 먹는거 좋아하더라
+P1 	: 먹기 불편하지 않나?
+P0 	: 잘라서 먹는 것보다 통째로 먹는 게 맛있댕
+P1 	: ㅎㅎ 좀 먹을 줄 아는구만
+P0 	: 요즘엔 껍찔 채 줘도 잘 먹더라고
+P1 	: 굿이네 사과는 껍질까지 먹어야 건강하지
+P0 	: 그럼 내일은 사과와 씨리얼?
+P1 	: 오키 좋아요 ㅎㅎ
+P0 	: 목이 칼칼하니 시원한 콜라나 한 잔 마셨으면 좋겠다 ㅎㅎ

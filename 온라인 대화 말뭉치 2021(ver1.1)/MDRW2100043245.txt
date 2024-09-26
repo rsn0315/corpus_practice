@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043245
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 앗 부모님 두 분 다 향신료를 잘 못 드셔요. 베트남 쌀국수는 잘 드시는데...
+P0 	: 앜ㅋㅋ 그정도면 팟타이는 충분히 드실거예요~!
+P1 	: 오 그런가요? 팟타이는 어떤 음식이랑 비슷한가요?
+P0 	: 어...뭐라고말해야할까요,,? 되게되게 고소해요 ㅋㅋㅋ
+P1 	: 고소하다니 신기하네요. 밥...? 같은가요? 아니면 국수...?
+P0 	: 국수에요!! 쌀국수면으로만드는거!!
+P1 	: 오 쌀국수면이면 너무 좋죠! 고소하면, 견과류도 들어가나요?
+P0 	: 네네맞아요!! 땅콩가루들어가욬ㅋㅋㅋ
+P1 	: 그래서 고소하군요! 고소한 국수라니 쉽게 먹을 수 있을 것 같아요!
+P0 	: 앜ㅋㅋ &name2&님 말씀하시는게 AI같아요
+P1 	: 헐 그런가요?! 저 그런 얘기 처음 들어보는데 그렇지만 AI는 밥을 먹을 수 없으니 사람이 될래요!
+P0 	: 앜ㅋㅋㅋㅋai는 전기를 밥으로..!!
+P1 	: 맞아요. 전 찌릿한 전기보다 맛있는 밥을 먹을래요. &name1&님은 오늘 저녁 뭐 드시나요?
+P0 	: 저는 오늘도 패스... 낼까지 1일 1식중입니다 ㅋㅋㅋㅋ
+P1 	: 헉 1일 1식이라니

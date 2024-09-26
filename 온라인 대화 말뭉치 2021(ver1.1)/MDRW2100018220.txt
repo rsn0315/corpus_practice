@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018220
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아프셔서요?
+P0 	: 네 ㅜㅜ
+P1 	: 어디어디요?
+P0 	: 한의원이랑 치과요 ㅠㅠ
+P1 	: 한의원은 왜요?
+P0 	: 오금이 아파서
+P0 	: 3번째 다니고 있어요 ㅠㅠ
+P1 	: 오금이 어디죠?
+P0 	: 슬와요
+P0 	: 무릎 뒤!!
+P1 	: 거기가 오금이군요
+P0 	: 네
+P0 	: 저번에 장구 좀 쳤더니 발목이 아프더니
+P0 	: 이제 오금이 아프네요
+P1 	: 발목은 괜찮으세요?
+P0 	: 네 발목은
+P0 	: 한의원 한번 가고
+P0 	: 정형외과가서 주사맞고
+P0 	: 나았어요
+P1 	: 에궁
+P1 	: 아파서 어째요
+P0 	: 나이먹으니까
+P0 	: 점점 아프네요 ㅋㅋ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100010210
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 일 하시고 계신가요?
+P1 	: 아르바이트 하신 적 있으세요?
+P0 	: 피시방 알바해봤어요
+P1 	: 피시방 알바 어땠나요?
+P0 	: 음.. 별로였어요ㅎ
+P1 	: ㅋㅋㅋㅋㅋ 너무 학생들이 많죠?
+P0 	: 방학 때 좀 많고 학생들 많은 것보다
+P0 	: 음식을 만들어야 한다는 게 너무 힘들었어요
+P1 	: 아 음식이 거의 카페 수준이더라두요...
+P1 	: 보고 충격
+P0 	: 진짜 너무 힘들었어요
+P0 	: 이게 피시방 인지 음식점인지 모를 만큼
+P0 	: 아르바이트해보셨나요
+P1 	: 네 저는 수영복 판매 해봤는데
+P1 	: 이게 나름 꿀이였어요 ㅋㅋ
+P0 	: 수영복 판매요?
+P0 	: 수영장 안에 있는 곳에서 판매 하셨나요
+P1 	: ㅋㅋ 아니요 마트 안에 있는 곳이요!
+P0 	: 마트 안에  있는 곳이면 손님들이 많이 왔겠어요
+P1 	: 수영복이라 그런지
+P1 	: 한두번 반짝하고는 널널했어요 ㅋㅋ
+P0 	: 여름철에 인기가 많았겠네요

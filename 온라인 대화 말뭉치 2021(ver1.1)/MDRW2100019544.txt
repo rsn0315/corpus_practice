@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019544
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 연애하고 싶진 않아?
+P1 	: 난 지금은 별로
+P0 	: 왜?
+P1 	: 외롭지가 않아
+P0 	: 심심하잖아 혼자 있으면
+P1 	: 난 그 시간이 소중해
+P0 	: 같이 맛있는게 먹고 싶을 땐?
+P1 	: 친구를 부르지
+P0 	: 하긴 연애를 꼭 안해도 되긴 해
+P1 	: 그래도 좋아하는 사람이 생기면 할거야
+P0 	: 지금은 그럼 소개팅 이런것도 안 받아?
+P1 	: 최근에 한번 했는데 안맞더라
+P0 	: 어떤 점이.
+P1 	: 너무 어색했어
+P0 	: 하긴 너 성격이랑 안어울려
+P1 	: 안념

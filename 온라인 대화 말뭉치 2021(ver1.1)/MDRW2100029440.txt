@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100029440
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 아침 가볍게 먹고 나왓어요
+P1 	: &name1&님은 아침 드세요?
+P0 	: 시리얼이오
+P1 	: 오 어떤거 드세요?
+P0 	: 호랑이기운이요
+P1 	: 우와 맛있겠다ㅠㅠ
+P1 	: 전 아침은 꼭 밥으로 먹어서 시리얼 먹을 일이 별로 없어요
+P1 	: 뭔가 끼니로 먹기엔 적고 간식으로 먹기엔 무거운 애매한 느낌이라 자주 못먹네요ㅠㅠ
+P0 	: 그렇죠
+P1 	: 점심은 뭐 드실거에요?
+P0 	: 생각중
+P1 	: 저는 돈가스 먹을거에요!
+P0 	: 맛나겠네녀
+P1 	: 네ㅎㅎ 돈가스 좋아하세요?
+P0 	: 네 좋아해요

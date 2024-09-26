@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100031898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학창시절 추억 있나요
+P1 	: 많아요. 넘재미있는
+P0 	: 그러시군요 어떤게 기억나시나요
+P1 	: 중고대모두 재미나게다녔어요
+P1 	: 중학교때는 별로인듯..생각해보니
+P0 	: 고등학교가 더 재밌으셨나요?
+P1 	: 대학이제일잼나고
+P1 	: 그다음고등학교요
+P0 	: 그렇죠 저도 대학시절이 재밌었어요
+P1 	: 자유롭고 시간도많고
+P0 	: 맞아요 자유가 많아진게 참 좋았죠
+P1 	: 전공은뭐하셨어요?
+P0 	: 전자쪽이요
+P1 	: 이과군요
+P1 	: 전문과요
+P0 	: 무슨 전공이요ㅡ
+P0 	: ?
+P1 	: 미술교육요

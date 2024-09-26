@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100045084
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 요즘 온라인으로 하는거 같아요!!
+P0 	: 그쵸ㅠㅠ 요즘 코로나 때문에 대면거래는 좀 어려운 것 같아요
+P0 	: 저는 중고거래 자주하는데 직거래보다 택배 거래 자주하게 되더라구요!
+P1 	: 오오 중고거래 어디 이용하세요?
+P0 	: 저는 보통 번개장터나 당근마켓 어플 자주 이용해요!
+P0 	: 특히 당근마켓은 동네에서 거래하다보니까 편해가지구 ㅎㅎ
+P1 	: 맞아요!! 당근 한번 해봣는데 생각보다
+P1 	: 안전 하드라구요!
+P0 	: 그쵸! 상태 좋은 물건을 싸게 살 수 있는 것도 장점 같아요
+P0 	: 보통 뭐 구매하세요? 저는 스위치로 게임을 자주해서 게임칩 구매를 자주해요. ㅎㅎ
+P1 	: 저는 가방이나 화장품이요 !!!
+P1 	: 우아 싸게 사셧나요??
+P0 	: 네! 원가보다 2만원 정도는 더 싸게 사는 것 같은데
+P0 	: 게임 다 하고 나면 저도 팔 수 있어서 중고거래가 진짜 편한거같아용 ㅎㅎㅎ
+P1 	: 우아!! 그정도면 이득이네요 !!!
+P1 	: 와 그럴수도있네요 ㅋㅋㅋ
+P0 	: 그쵸! 가방이나 화장품도 중고거래 하기에 괜찮나요?!
+P1 	: 네네!!! 가방은 직접 보고 샀어요 ㅎㅎ
+P0 	: 오 근데 중고로 사면 품절된 디자인도 구할 수 있고 좋을 것 같아요!!! ㅎㅎ
+P1 	: 맞아요!!

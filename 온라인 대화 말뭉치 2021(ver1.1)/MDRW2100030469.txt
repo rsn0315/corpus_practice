@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100030469
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 요즘 모기가 너무 많아서 잘 때 짜증나
+P1 	: 자꾸 깨
+P0 	: 모기장치고 자야돼
+P0 	: 안그럼 못자
+P1 	: 요즘 모기 왜 이렇게 똑똑해??
+P1 	: 잡으려고 불켜면 사라져있더라
+P1 	: 불끄면 다시 오고
+P0 	: 요즘 모기가 그렇다니까
+P0 	: 눈치가 엄청빨라
+P0 	: 모기장 안치면 못자
+P1 	: 집에 모기장 또 있어???
+P0 	: 옥상에 원터치모기장 있어
+P1 	: 내일 좀 찾아줘
+P0 	: 알겠어 내일 찾아놓을게
+P1 	: 옥상에서 겨울옷도 미리 꺼내놓을까
+P0 	: 그래 꺼내서 옷장에 넣어놓자
+P1 	: 겨울옷은 내가 꺼낼게
+P1 	: 누구누구거 꺼내??
+P0 	: 니 옷만 옷장에 넣어놔
+P1 	: 다 드라이한거지???
+P0 	: 응 드라이한거야
+P0 	: 비오니까 어제보다 더 일찍출발해야겠어

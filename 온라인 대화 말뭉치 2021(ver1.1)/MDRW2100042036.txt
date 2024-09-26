@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100042036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 조아하는 쇼핑몰 있나요
+P1 	: 저는 에이블리 써요! 배송료가 무료라서요!
+P0 	: 와 에이블리 무료에요?
+P1 	: 네! 무료 배송이라 너무 좋더라구요!
+P0 	: 지그재그 썼는데 배신감 들어요 ㅋㅋㅋ
+P0 	: 지그재그는 안쓰세요?
+P1 	: 저도 지그재그 썼다가 배송비 때문에 에이블리로 옮겼어요!
+P0 	: 와 에이블리 무료인지 몰랐네요
+P0 	: 바로 넘어가야겠다
+P1 	: 에이블리랑 지그재그랑 겹치는 상점? 마켓? 도 많아서 지그재그에서 찾고 에이블리에서 사고 그랬어요!
+P0 	: 아하
+P0 	: 인터페이스는 지그재그가 낫지않아요?
+P1 	: 그건 그래요 지그재그가 보기에는 편하더라구요. 정돈도 잘 되어있구!
+P0 	: 구쵸
+P0 	: 에이블리 깔아야쥐
+P1 	: 좋은 추천이 된 것 같아 기쁘네요! 배송비 무료가 너무 강력했어요. 원하는 옷은 다 다른 곳인데 배송비까지 더하면 가격이...
+P0 	: 그니까요 2500원 너무 아까워

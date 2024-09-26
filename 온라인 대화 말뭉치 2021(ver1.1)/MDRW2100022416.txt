@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022416
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회 같은거 하시나요?
+P1 	: 아뇨 경험없어요 &name1&은요
+P0 	: 전 결혼전에 수영동호회랑 오케스트라 했어요
+P1 	: 와 .멋지셔요 오케스트라는 어떤 악기맡으셨나요
+P0 	: 전 플릇 이었어요. 삑사리 낼것 같으면 안불면 됩니다 ㅋㅋㅋ
+P1 	: 아 &name2& 다재다능하셔요 예능인같으십니다 오케스트라 동호회는 정기연주회도 하나요?
+P0 	: 네~ 한 홀에서 하는건 3~4번 한것 같고 작은건 많이 했었네요~ 저 예술의 전당에서도 했었어요 완전 가문의 영광 ㅎㅎ
+P1 	: 헐..&name2&은 능력자세요..얼마나 하신건가요?
+P0 	: 저 초6부터 중3때까지 했는데 하다가 나중에 넘 하기 싫어서 학원 안가고 그 시간에 놀다 학원 다녀온것처럼 연기했어요 ㅋㅋㅋㅋ 지금 생각해보면 좀 더 열심히 할껄 그랬네요
+P1 	: 동호회는 어떻게 알아보셔서 시작하셨나요
+P0 	: 인터넷 검색 했어요 ㅎㅎㅎ &name2&님은 하고 싶은 동호회 없나요?
+P1 	: 저는 없어요 ㅠ 친구보니 커피나 우쿨렐레.배드민턴.영화 이런거 하더라구요?
+P0 	: 커피 동호회는 만나서 차 마시는 걸까요??
+P1 	: 아 바리스타같이 커피 배우는? 그런거였던듯해요 ㅎ

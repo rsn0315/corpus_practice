@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100045360
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키우고 싶은 반려동물 있어요
+P0 	: 역시 고양이죠
+P1 	: 저는 셋째 고양이 키우고 싶어요
+P0 	: 부럽네요
+P1 	: 근데 애들이 경계해요
+P0 	: 애기 고양이를 요
+P1 	: 본 적 없어서 그런가 봐요
+P0 	: 합사은 쉽지 않죠
+P1 	: 방송에서처럼 그렇네요
+P0 	: 아니면 임보라도
+P1 	: 시간만 있으면 하고 싶네요
+P0 	: 분유를 자주 줘야하더라구요
+P1 	: 그러게 말이에요

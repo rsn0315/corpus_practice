@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100000754
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 제주도 놀러갈까
+P0 	: 가자 ㅋㅋ 좀 선선해지면
+P1 	: 우리나라 제주도 멋진곳 언제갈까
+P1 	: 휴가 낼수있나
+P0 	: 휴가 낼수있지~ 2주휴가 ㅎㅎ
+P1 	: 그럼 계획짜 가야지
+P0 	: 구램 계획을 좀 짜봐야겠군~
+P0 	: 제주도는 식도락이쥬 ㅎ
+P1 	: 여행은 맛집이지 ㅎ
+P0 	: 옹 ㅋㅋ 제주도 흑돼지 먹고싶당 ㅋ
+P1 	: 난 톳국수 ㅎ
+P0 	: 맛나겠네 제주도 가면 맛난거 많이 먹자 ㅋㅋㅋ
+P1 	: 그래 맛집 탐방 ㅋ
+P0 	: 좋았으 ㅋ 빨리 가고싶다
+P1 	: 여행하길 좋은 계절이 다가오네 
+	  가즈아 제주도로~ ㅎ
+P0 	: 미국 가고싶다

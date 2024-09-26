@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100034249
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 야식 드시나요?
+P0 	: 잘 안먹어요 ㅋㅋ
+P0 	: 그냥 두유정도?
+P1 	: 그기 좋은 습관이죠~ 전 어제 메밀국수 야식으로 먹었어요
+P0 	: 우와 맛있겠다 해드셨나요? 아님배달?
+P1 	: 코스트코에 파는거 사다 끓여먹었어요
+P0 	: 인스턴트 라면 같은 건가요? 아님 일반 국수처럼 된건가요?
+P0 	: 잠깐밥먹구올께요 잠시만요 ㅎㅎ죄송
+P1 	: 면이랑 육수랑 따로 있는거요 ㅎ
+P0 	: 아항 맛있겠어요 전 코슼소 회원권이 없어서 ㅠ ㅋㅋㅋ
+P1 	: 아~ 점심은 뭐 드셨나요?
+P0 	: 전 그냥 밥이요 ㅋㅋ 님은요?
+P1 	: 전 그 시간에 잤어요 낮잠 이제 뭐 좀 먹어야 하는데 귀찮네요
+P0 	: 저녁은 맛있는걸 챙겨드세욬ㅋ
+P0 	: 그래도 주말에 따끈한걸 먹어줘야
+P1 	: 방금 김치랑 김이랑 밥 먹었네요.
+P0 	: 잘 하셨어요 전 지금 커피먹고 있어요 ㅋㅋ

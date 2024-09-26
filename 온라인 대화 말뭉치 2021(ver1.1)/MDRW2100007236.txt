@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007236
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 요즘 건강 잘 챙기시나요?
+P0 	: 안녕하세요!
+P0 	: 저는 집에만 있다보니 거의 누워서 지내는 것 같아요ㅎㅎ
+P1 	: 저도요
+P1 	: 운동 하고싶은데 몸이 무겁고 의지가 약해서..
+P0 	: 저도 딱 그런 상태네요.. 마트나 강아지 산책할 때만 나가고 나가지 않게 되더라구요
+P1 	: 완전 공감해요! 낮에는 너무 더워서 운동도 못하고 밤은 피곤해서 바로 자버려서 운동은 꿈도 못꾸고 있어요
+P0 	: 한 번 안 나가게 되니까 더 안 나가는 것 같아요
+P0 	: 다른 운동도 배워보고 싶은데 혹시 해 보셨던 운동 있으세요?
+P1 	: 수영을 5년정도 했는데 수영하고 머리 말리는 게 너무 싫었어요
+P0 	: 겨울에 하고 나오면 너무 추워서 하기 싫어지더라구요
+P0 	: 전 수영만 하고 나오면 금방 배가 고파서 항상 뭘 먹었던 것 같아요
+P1 	: 운동을 해도 배가 금방 고파져서 또 먹게 되더라구요
+P0 	: 이게 살이 빠지는 건기 싶어요 운동하고 먹고 반복이라니!
+P1 	: 너무 슬픈 얘기네요..
+P1 	: 배우고싶은 운동은 있어요?
+P0 	: 배우고 싶은 운동은 필라테스나 클라이밍 이런 거 배워보고 싶네요
+P1 	: 복싱도 재밌어보여요!
+P0 	: 복싱하는 주변 친구들이 살 많이 빠진다던데!

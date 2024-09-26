@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010738
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 최근에 구매한 물건이 있나요?
+P1 	: 안녕하세요! 요즘 들어 쇼핑 많이 하는 거 같아요.
+P1 	: 요번에 화장품도 샀구 옥수수랑 고구마도 한 박스씩 샀어요
+P1 	: &name1&은요?
+P0 	: 와! 저는 최근에 과자랑 비타민을 샀어요
+P1 	: 오 과자 어떤 과자요?
+P0 	: 플립즈라는 과자 아시나요? 그거 구매했어요
+P1 	: 처음 들어봐요! 찾아봤는데 프레첼과자 맞나요?
+P0 	: 네 맞아요! 단짠단짠 이라 진짜 맛있어요
+P1 	: 저도 한 번 사먹어봐야겠어요ㅋㅋㅋ
+P0 	: 지금 올리브영에서 1+1인데 꼭 사드셔보세요!
+P1 	: 정보 감사해요!
+P1 	: 1+1행사기간이라니 이거슨 구매하라는 계시인가...
+P0 	: &name2&이 구매하신 고구마는 어땠나요?? 무슨 고구마를 구매하셨어요?
+P1 	: 해남고구마라고 홈쇼핑에서 샀는데 그럭저럭 먹을만해요ㅋㅋㅋ
+P1 	: 원래 홈쇼핑에서 먹거리 잘 안사는데 이번에 너무 맛있어보이길래 샀죠.. ㅜ
+P0 	: 오... 해남 고구마 유명하죠! 저도 사봐야겠네요

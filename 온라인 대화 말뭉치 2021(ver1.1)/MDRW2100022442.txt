@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022442
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으셨나요?
+P1 	: 아직이요 맞으셨나요?
+P0 	: 사전예약 했습니다
+P1 	: 아항 그러셨군요
+P0 	: 예약 하셨나요?
+P1 	: 넵
+P1 	: 다음달이요!
+P0 	: 백신 안정해졌죠ㅜ
+P1 	: 네 그래도 불안하긴하네요ㅠ
+P0 	: 맞아요 부작용ㅠㅠ
+P1 	: 맞아요ㅠ
+P0 	: 사람 죽기도하고ㅠㅠ
+P1 	: 심리가 내가 아닐거라는 보장은 없지않아? 그래도.. 괜찮으려나 이게 반복되는거 같아요
+P1 	: 맞아요ㅠ
+P0 	: 보상받기도 힘들구요ㅜ

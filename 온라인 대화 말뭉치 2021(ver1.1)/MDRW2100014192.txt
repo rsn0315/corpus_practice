@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014192
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 제주도 가자
+P0 	: 가자 언제 가지
+P1 	: 다음 달에 가자
+P0 	: 구램 날씨도 딱 좋고
+P1 	: 그래 가서 맛있는 거 많이 먹고 오자
+P0 	: 구램 ㅋㅋ 흙돼지도 먹고
+P0 	: 엄마 좋아하는 국수도 먹고
+P1 	: 그래 좋다
+P0 	: 담달에 가려면 빨리 계획을 짜야겠군
+P1 	: 그래 계획 세워 봐라
+P0 	: 옹옹 맡겨주시오 ㅋ
+P1 	: 재밌겠다
+P0 	: 빨리 가고싶다 ㅠㅠ
+P1 	: 시간 금방 간다
+P0 	: 옹옹.. 열일하면서 기다려야겠군
+P0 	: 미국여행은 언제 갈수있을까 ㅠㅠ 언니 보러가구싶다

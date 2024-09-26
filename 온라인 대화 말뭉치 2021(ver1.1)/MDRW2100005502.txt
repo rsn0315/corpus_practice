@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100005502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어느종교 믿으세요?
+P1 	: 불교입니다
+P0 	: 불교믿고 마음이 더 편해졌어요?
+P1 	: 네 마음이 힘들때 떠올리면 좀 편해져요
+P0 	: 불교 모임행사같은것도 가보셨어요?
+P1 	: 적극적으로 활동하진 않아요
+P0 	: 불교도 성경같은 책이 있어요?
+P1 	: 네 불경이 있죠
+P1 	: 본적은 없네요ㅎ
+P0 	: 그러면 불교는 어디서 배워오는거에요?
+P1 	: 불교는 자아를 깨닫는 것이라.. 뭘배운다기보다 자기자신을 수양하는 게 큰것같아요
+P0 	: 불교 장점이 본인 내면 수양인거같아요
+P1 	: 네 다른종교를 배척하지않고 존중하는 것도 좋았어요
+P0 	: 불교쪽이 그런게 매력이더라구요

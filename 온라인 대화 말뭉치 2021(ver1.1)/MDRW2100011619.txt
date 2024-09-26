@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011619
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 많이 다니시나요?
+P0 	: 여행 좋아해요! 요즘엔 못하지만ㅠ
+P1 	: 맞아요. 시간이 났는데 갈 수가 없네요. 가 보신 여행지 중 어디가 제일 기억에 남으세요?
+P0 	: 저는 세부요!
+P1 	: 오 세부 제 리스트에 있는데 아직 안 가봤어요 ㅜㅜ ㅎㅎ 저는 .. 윈더미어에 다시 가고 싶어요. 날씨가 좋았어서 그런지 스위스보다 좋았거든요.
+P0 	: 세부가면 캐녀닝 꼭 해보세요 코로나가 끝나면ㅠㅠ
+P1 	: 와 저 그런 거 좋아해요. 적어 놔야지. 감사해요 ㅎㅎ
+P1 	: 베트남 산동 동굴 캠핑도 가 보고 싶네요. ㅜ
+P0 	: 헉 동굴에서 잠자는건가요
+P1 	: 저 스위스 갔을 땐 눈보라가 강해서 몽블랑에서 패러글라이딩을 못 하고 왔거든요. 레포츠 운이 안 따라주는지 호주에서도 걸어다니고 왔어요 ㅋㅋ 아, 시드니 수산시장은 정말 맛있는 게 많습니다. ㅎㅎ
+P0 	: 와 해외 엄청 많이 가보셨네요
+P1 	: 명절마다 해외로 도망다녀서 그렇습니다.
+P1 	: 농담이예요 ㅋㅋ
+P1 	: 기회가 될 때마다 가급적 멀리 나가려고 했거든요.
+P1 	: 대만 컨딩이랑 .. 아리산 투어도 날씨가 좋으면 정말 웅장하고 좋아요. 차도 맛있고 푸드 트럭도 맛있고 ㅎㅎ
+P0 	: 오 저도 타이페이 한번 가봤는데 좋았어요

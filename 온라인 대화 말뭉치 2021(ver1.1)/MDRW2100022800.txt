@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022800
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네
+P0 	: 언제부터 준비하셨어요?
+P1 	: 항상이요 ㅎㅎ
+P0 	: 아 ㅋㅋ 저두요 ㅎㅎ
+P0 	: 이직 하려구요
+P1 	: 다같은 생각이네여
+P0 	: 코로나때문에 자리가 없네요 ㅠ
+P1 	: 그렇져
+P0 	: 서울에서 일하시죠?
+P1 	: 지방이라
+P0 	: 아 저두요 ㅎ
+P0 	: 지방이 더 자리가 없는거겠죠 ?
+P1 	: 아마도요
+P0 	: 퇴근하셨어요?
+P1 	: 네

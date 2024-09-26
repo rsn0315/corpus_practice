@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012227
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 홈트 하시나요?
+P1 	: 가끔요..?ㅎㅎ
+P1 	: &name1&은 따로 하는거 있으세요?
+P0 	: 요가랑 스트레칭해요
+P1 	: 어떤거 보시면서 하세요?
+P0 	: 요가소년이랑 샤크코치요!
+P0 	: &name2&은요?
+P1 	: 오 처음 들어봐요
+	  전 예~전에 티파니허리운동 뭐 그런거?ㅋㅋ
+P1 	: 그런데 요즘엔 온라인으로 운동하는것도 많더라구요
+P0 	: 홈트가 유행이더라고요~~
+P1 	: 맞아요 이젠 비대면이 대세라..
+	  자전거도 비대면으로 만나서 사람들이랑 타는 것처럼 한다더라구요
+P0 	: 러닝머신도 좋은거 많이 나오더라고요ㅎㅎ
+P1 	: 맞아요 돈만 있으면 다 할 수 있는거같아요ㅋㅋ
+P0 	: &name2&은 어떤 운동하세요?
+P1 	: 저는 그냥 산책하는 정도에요~
+	  가끔 친구랑 배드민턴?
+P0 	: 배드민턴 재밌겠어요

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016657
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P0 	: 아니 선배는 균휴학도 안하는데 왜 떠난거지
+P1 	: &name3&선배 따라서 한건가?
+P0 	: 그런듯...
+P0 	: &name4&선배없는 대학 의미 없다
+P1 	: 그런다고 자퇴는 하지 말고
+P0 	: 휴학은
+P1 	: 그건...
+P1 	: 생각해봐
+P0 	: 아니 &name5&는 왜 지금 휴학했데
+P0 	: 내 웃음메이트...
+P1 	: 걔도 &name4&선배 따라 한거 아냐?
+P0 	: 아놔...
+P1 	: 걍 1년 참고 다녀
+P0 	: 하루도 못다니겟는데
+P1 	: 1년 참고 선배 복학 했을 때 같이 다녀
+P0 	: &name4& 선배 2학년 차이나...
+P1 	: 그럼 2년
+P0 	: 나쁘지않아
+P1 	: 그치
+P0 	: 졸업 동기로 졸업사진에 같이 찍히는거 좋은데
+P1 	: ㄱㄴㄲ 참고 다녀
+P0 	: 하...

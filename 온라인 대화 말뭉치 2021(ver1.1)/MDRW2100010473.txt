@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010473
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 저녁 드셨나용?
+P1 	: 아니요 아직이요 식사하셨나요???
+P0 	: 네 오리고기랑 먹었어요! 저녁 뭐 드실 계획이신가요?
+P1 	: 저는 갈비탕입니다ㅋㅋ
+P1 	: 오리고기는 맛있었나요?
+P0 	: 네  오리고기 맛있게 먹었어요 갈비탕 맛있겠네요!!
+P1 	: 네 이제 먹네요ㅜ
+P1 	: 좋아하는 음식이 뭔가요?
+P0 	: 떡볶이요!! &name2&님은 어떤음식 좋아하세요?
+P1 	: 저는 스파게티요~~~면요리 좋아해요
+P0 	: 오오 스파게티 맛있죠!! 토마토스파게트 크림스파게티 중 어느거 더 좋아하세요?
+P1 	: 둘중에는 토마토요!
+P1 	: 어떤거 좋아하세요??
+P0 	: 저도요!!
+P1 	: 저는 사실 알리올리오가 제일 좋아요
+P0 	: 오오 전 안먹어봤어요! 담에 한번 먹어봐야겠네요!!

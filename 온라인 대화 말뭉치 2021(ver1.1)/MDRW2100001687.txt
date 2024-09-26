@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001687
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 곧저녁시간인데 식사는 하셨나요?
+P1 	: 아직 저녁 안먹었어요. 아이가 학원 다녀오면 먹으려구요
+P0 	: 저녁메뉴는 정하셨어요?^^
+P1 	: 불고기 덮밥하려구요
+P0 	: 오 직접요리하시는거예요?
+P1 	: 아니요 마트표 불고기  구입했어요
+P0 	: 아 양념된 불고기요~ 맛있겠네요
+P1 	: 광양식불고기 구입했더니 달달해서 애들이 잘먹더라구요
+P0 	: 불고기 맛있죠^^  저도 곧 저녁 먹으러 가는데 뚝배기 불고기를 먹어야될까봐요
+P1 	: 뚝불도 좋죠~~~  애정하는메뉴예요
+P0 	: 당면도 넣음 맛있고 달달하니~
+P1 	: 납작당면있구 뚝배기있는데 뚝불해볼까봐요
+P0 	: 납작당면이 그냥당면보다 맛있는거 같아요 오늘은 뚝불로 드셔보세요^^
+P1 	: 그래아겠어요 양이 부족하지않은지 챙겨보고 마트다녀오던지 다른메뉴 더해얄듯요
+P0 	: 네네 저녁 맛있게 드세요
+P0 	: 저도 밥먹으러가야겠네요

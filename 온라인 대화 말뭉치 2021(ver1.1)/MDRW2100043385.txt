@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043385
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: 저는 오늘 저녁은 패스요~ &name2&님은요?
+P1 	: 저도 아직이에여
+P0 	: 뭐드시게요~?
+P1 	: 좀 이따 나가면서 서브웨이나 사먹을까 생각만 하고 있어요
+P0 	: 크 에그마요먹고싶어요
+P1 	: 에그마요 맛있죠 에그마요 추가 하면 다 두배는 맛있어지는 것 같아요
+P0 	: 아맞아요 ㅋㅋㅋ 저는 주로 에그마요에 베이컨추가
+P1 	: 메뉴가 대부분 햄이라 베이컨추가는 생각 안 해 봤는데 베이컨 넣으면 어떤가요?
+P0 	: 어우 단짠의 진리죠
+P1 	: 앗 제가 어리석은 질문을 했네요ㅋㅋㅋㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋ지금 배고프니 다 맛있겠네요..
+P1 	: &name1&님은 어쩌다 저녁 안 드세요?
+P0 	: 저는 다이어트여.
+	  흑.. 요즘 너무 많이먹어서

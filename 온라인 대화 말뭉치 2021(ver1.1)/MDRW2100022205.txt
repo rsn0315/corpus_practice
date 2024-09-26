@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100022205
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 아침 드셨어요?
+P1 	: 네 아침 먹었어요
+P1 	: 먹고 움직여야하거든요
+P0 	: 오~아침 뭐 드셨는데요?
+P1 	: 간단하게 시리얼먹었어요
+P0 	: 시리얼도 종류가 다양하던데 어떤 시리얼이요?
+P1 	: 시리얼 오리오먹었어요
+P1 	: 근데 지금은 점심먹을시간이 다되서ㅋㅋㅋ
+P0 	: 아 오레오요? 저도 그거 좋아해요
+P0 	: 점심 뭐 드셨어요?
+P1 	: 저는 햄버거 먹었어욪
+P0 	: 와 어디꺼요?
+P1 	: 맥도날드갔어요
+P0 	: 오 맥도날드 그 무슨 올더데이?
+P0 	: 그걸로 사신거에요?
+P1 	: 아니요 그냥 가서 사먹었어요
+P1 	: 올더데이가머에요?
+P0 	: 하루종일 4900원에 파는거요!
+P1 	: 우와!!되게  신기하네요
+P1 	: 무조건 다 4900원인거에요?
+P1 	: 어떤 메뉴에요??
+P0 	: 전 잘 모르는데 아마 빅맥일거에요 빅맥이란 다른 햄버거 한두개 정도?
+P0 	: 하루종일 세트로 그렇게 팔아요

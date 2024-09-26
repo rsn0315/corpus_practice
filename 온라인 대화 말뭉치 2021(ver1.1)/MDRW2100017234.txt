@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017234
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 허스키 키우실 때
+P0 	: 맞아요 좀 든든한느낌
+P0 	: 네
+P1 	: 첨부터 난 허스키 키울거야
+P1 	: 해서 키우셨어요?
+P0 	: 어 딱히 그럴 생각은 없었는데
+P1 	: 아니면 우연히 키우시게 되셨나요?
+P0 	: 누가 주셔서..
+P1 	: 그랬구나
+P1 	: 아 ㅎㅎㅎ
+P1 	: 갑자기 덜컥 맡으셨구나
+P1 	: 시작이 재밌네요
+P0 	: 그런가요ㅎㅎ
+P1 	: 네 ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 수컷이에요?
+P0 	: 애기때부터 키웠어요
+P0 	: 네 수컷이에요

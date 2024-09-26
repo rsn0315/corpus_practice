@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030931
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오일보다 헤드스파세븐 있으세요
+P0 	: 헤드스파 그것부터 사야겠네요
+P1 	: 헤드스파 7 단점이 있어요
+P0 	: 잘 알겠습니다
+P0 	: 단점은 무엇인가요
+P1 	: 그걸 쓰고 나면 화장실 바닥이 엄청 미끄러워 저요
+P0 	: 바닥까지 윤기가 흐르나 봅니다
+P1 	: 대충 헹구고 나면 미끄러질 수 있으니 브러시를 사놓고 빡빡 씻어 줘야 해요
+P0 	: 아 그 정도에요
+P0 	: 미끄러질 수 있겠네요 진짜
+P1 	: 바닥 미끄러움 조심 하라고요
+P0 	: 조심해서 써야겠군요
+P1 	: 그것만 잘 기억하면  수많은 장점이 있죠
+P0 	: 할 때마다 청소해 주고
+P1 	: 네 꼭 청소해줘야 합니다
+P0 	: 이사 가서 써야 되겠어요
+P0 	: 엄마가 미끄러지면 큰일나요

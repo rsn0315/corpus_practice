@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100023247
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 식판을 세 개 사서 쓰면 어떨 거 같아?
+P1 	: 갑자기 식판은 왜?
+P0 	: 아니 아까 설거지 하다가 갑자기 생각나서
+P1 	: 아 용도는?
+P0 	: 먹을 때 거기다 먹는 거지
+P1 	: 아 크기는?
+P0 	: 글쎄 막 그렇게 진지하게 생각해본 건 아니라서
+P1 	: 아 그냥 생각해본 거야?
+P0 	: 응 그냥 어떨까 하고
+P1 	: 다른거 생각해둔것도 있어?
+P0 	: 개인 수저세트?
+P1 	: 오 세트 어떤거?
+P0 	: 그냥 숟갈 젓가락
+P0 	: 시장 가서 과일 뭐뭐 사왔어?

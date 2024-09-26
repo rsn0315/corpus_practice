@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100003083
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 영화 뭐 봤어요?
+P1 	: 안봤어요 뭐봤어요?
+P0 	: 전 좀 됐는데 블랙위도우 봤어요
+P1 	: 오 그거 개봉 했어요?
+P0 	: 네 7월에 개봉 했어요!
+P1 	: 아 코로나 이후로 극장을 안가서 못봤어요 재밌어요?
+P0 	: 네 전 마블시리즈 아예 안 봐서 이해 못 할까봐 걱정했는데
+P0 	: 그래도 되게 재밌더라구요
+P1 	: 아 저 마블시리즈 좋아해요 다봤는데.. 블랙위도우도 봐야겠어요
+P1 	: 다른거는 보신거 있어요?
+P0 	: 아니요ㅠㅠ
+P0 	: 이제 2천명 가까이 되니까 무서워서 못 가겠어요..
+P1 	: 극장에서 팝콘 먹는 재미가 좋았는데 말이죠
+P0 	: 맞아요 다른 곳에서 먹는거랑 다른 느낌이에요
+P0 	: 요즘엔 극장 내에서 음식을 못 먹게 하니까 입이 심심하더라구요
+P1 	: 카라멜팝콘하고 어니언팝콘 반반해서 콜라에 먹었는데 아쉬워요
+P0 	: 맛잘알이시네요
+P0 	: 저도 딱 그렇게 먹어요ㅋㅋ
+P0 	: 소름!
+P1 	: 앗..영화관도 역시 반반 탄산마니죠

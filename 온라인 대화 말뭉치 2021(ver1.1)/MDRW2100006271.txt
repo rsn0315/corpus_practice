@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일상 트렌드>다회용 컵(리유저블컵) 할인 등 친환경 마케팅
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 혹시 다회용 컵 쓰신적잇으세요?
+P0 	: 네!! 우연히도 최근에 치킨전문점에서 트로트 가수 어떤분의 그림이 그려져있는 컵을 증정해주셔서 받았던 기억이 있어요.
+P1 	: 오!! 좋으세요?? 저는 한번도 안써봤어요
+P0 	: 다시 한 번 쓸 수 있다는 점이 좋긴했어요.
+	  며칠 쓰다가 환경호르몬이 나오지않는 컵으로 갈아탔어요
+P1 	: 오!! 그런 컵도 있어요?
+P1 	: ??
+P0 	: 네 있어요!! 비스프리 머그컵이라고
+	  유리처럼 쉽게 깨지지않지만
+	  머그컵 같더라고요
+P1 	: 찾아보니 디자인이 마음에드네요.! 어떤 디자인이 좋으세요?
+P0 	: 저는 바닥이 평평한 디자인을 선호하는 편입니다.
+P1 	: 집에 유리컵을 너무 잘깨는편인데, 잘 안깨져요?
+P0 	: 네. 안정감있고 가볍고 다회용으로 쓰기좋아요. 추천드려요
+P1 	: 감사합니다!!꼭 써보겠습니다.

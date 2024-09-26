@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100012294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 넷플릭스 보세요?
+P1 	: 한 달 정도 본 거 같아요!
+P1 	: 자주 보시나요?
+P0 	: 오 얼마 안되셨구나~전 자주 봐요ㅎㅎ
+P0 	: 최근에 본 컨텐츠가 뭐에요?
+P1 	: 스위트홈 봤어요!
+P0 	: 아~그거 안 무서워요?
+P0 	: 무서울것 같아서 안 봤는데..
+P1 	: 좀 고어하고 무섭긴 해요!
+P1 	: 안 좋아하시면 못 볼 거 같아요ㅠㅜ
+P0 	: ㅠㅠ그쵸...그럴 것 같아서 못 보겠어요.
+P0 	: 신랑이 킹덤 재밌다고 보라했는데 도저히 못 보겠더라고요 ㅠ
+P1 	: 저는 영화나 영상은 무서운 거 잘 보는 편이라 재밌게 봤어요
+P1 	: 킹덤이 좀비물이죠?
+P0 	: 무서운 거 좀비물 이런거 진짜 못 봐요
+P0 	: 네네~
+P1 	: 그럼 어떤 장르 좋아하세요?
+P0 	: 로맨틱코미디 제일 좋아해요ㅎㅎ
+	   그냥 생각없이 볼 수 있는 거
+P1 	: 로코 좋죠!
+P1 	: 재밌게 본 작품 있으세요?
+P0 	: 음..최근에 본 로코는 뭔지 기억은 잘 안 나구...
+	  요즘엔 슬의생 봐요ㅋㅋㅋ 그건 로코는 아닌 것 같죠??ㅋㅋ
+P1 	: 슬의생 많이 보시더라고요!
+P1 	: 의학 드라마인가요? 로맨스 쪽에 가까운가요?
+P0 	: 의학 드라마...인듯 그냥 사는 얘기인듯 해요.
+	  로맨스는 쪼오금?
+P1 	: 편하게 볼 수 있겠네요!

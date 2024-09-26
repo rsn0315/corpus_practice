@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100027001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ &name2&은 좋아하는 계절 있나요?
+P1 	: 저는 가을을 제일 좋아해요
+P1 	: 선선하고 나무도 예뻐지고
+P1 	: 가디건 입기에도 좋고
+P1 	: &name2&은 어느 계절?
+P0 	: 저랑 같네요.. 저도 가을 좋아해요
+P0 	: 단풍을 좋아해서요
+P1 	: 등산 자주하세요?
+P0 	: 자주 했는데.. 작년부턴 못하고 있어요
+P1 	: 그렇구나 저는 올해 등산 좀 해보려고요
+P1 	: 올 4월에 등산화 선물받았는데 아직 한번도 못써봤어요
+P0 	: 등산 좋아요... 기분도 상쾌해지구요 피톤치드도 많이 마시고
+P1 	: 산 좋아하시나보네요
+P0 	: 산을 특별히 좋아한다니 보다 운동겸 다닌 거였죠
+P0 	: 동네에도 갈만한  산이 있어서요
+P1 	: 다른 운동 하시는 것 있나요?
+P0 	: 수영 많이 했어요
+P1 	: 수영도 요새는 못하시겠네요
+P1 	: 코로나때문에 정말 삻의 질 떨어져요
+P0 	: 맞아요.. 운동 다 끊었어요..

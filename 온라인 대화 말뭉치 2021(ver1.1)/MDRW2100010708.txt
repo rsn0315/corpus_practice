@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100010708
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  지역>고향 및 이전 거주지 지인
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P1 	: 나는 아직도 학교를 다니고 있지
+P0 	: 나도 학교가고싶다
+P1 	: 아직도 학교를 다닌다는게 스트레스...
+P1 	: 아아 나 담주부터 그거야
+P1 	: 학교 가애됨
+P0 	: 수강신청은 잘 햇는가
+P0 	: 나도 수업듣고싶다
+P0 	: 도강하고싶다
+P1 	: 개살구
+P1 	: 도강이라뇨
+P1 	: 한번 해보세요
+P1 	: 둑훈둑훈 도강생활
+P0 	: 하버드에서 도강한사람
+P0 	: 잡혀갔다던데
+P1 	: 아 근데 요즘 온라인으로 해서
+P1 	: 도강은 불가능하지 않아?
+P0 	: 아 그렇네

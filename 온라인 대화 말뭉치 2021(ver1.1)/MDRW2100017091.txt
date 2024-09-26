@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017091
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 최근에 책 읽음적있어?
+P0 	: 나 요새 편혜영의 재와빨강 읽고 있는데 재밌더라!
+P1 	: 오 소설이야?
+P0 	: 응 소설인데ㅋㅋ 요새 시국을 떠올리게 하더라구 전염병 관련된 내용이라ㅎㅎ
+P1 	: 오오 한번 보고싶네 난 요새 독서 ㄹ안한지 넘 오래됐다...ㅋㅋㅋ 몇달전에 이갈리아의 딸들 읽다말았어ㅠ
+P0 	: 아 그거 궁금라긴 한데 손은 잘 안가서 아직 안봄ㅠ
+P0 	: 종이가 막 넘어가는 류는 아니야?
+P1 	: 아니 막 넘어가 술술 근데 하루에 한챕터씩 읽어야지 이러다가 멈췄어 ㅋㅋㅋ 그냥 손 갈때 읽었어야하나봐.. 재밌긴재밌어 책 열기까지가 어려워서 그렇지...ㅎ
+P0 	: ㅋㅋㅋ 아 그런거면 읽는데 오래걸리기도 하지 모든 책이 그런가봐 펼치면 읽히는데 펼치김가지가 한세월이여
+P1 	: 마자 한번 읽어봐 그 프랑스영화 같아 뭔지 알라나
+P0 	: 거꾸로 사는 남자였나 거꾸로 가는 남자였나 그거?
+P1 	: 맞아 그거마냥..근데 그것보단 덜 답답하지
+P0 	: 그 영화는 결말이 착잡했는데 이갈리아의 딸들은 다른가보네 다시 흥미 생겨ㅋㅋ

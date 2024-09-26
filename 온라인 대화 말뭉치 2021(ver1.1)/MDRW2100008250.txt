@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100008250
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 물 자주 드시나요?
+P0 	: 아뇨 자주 마셔야하는데 커피를 물처럼ㅜㅜ
+P1 	: 저랑 비슷하시네요ㅠㅠ
+P1 	: 물 자주 마시려고 하는데 어떨 땐 물 비린내라고 해야할까요? 그런 게 느껴지더라구요
+P0 	: 맞아요 그냥 생수보다는 보리차가 차라리 낫더라구요
+P1 	: 보리차는 직접 끓여드시는 건가요??
+P0 	: 네 생수사기 귀찮아서 ㅎㅎ 물을 자주 안마시기도 하구
+P1 	: 직접 끓여드시다니 부지런하신대요??
+P1 	: 저는 생수 배달시켜서 그냥 먹어요
+P0 	: 한번 끓여두면 일주일넘게 마셔서ㅎㅎ많이 마시면 귀찮을텐데 그렇지가 않네요ㅎㅎ
+P1 	: 볶은 보리를 끓이시는 건가요?
+P0 	: 아뇨 그냥 티백으로요ㅎㅎ 그렇게까진 못하겠어요ㅎㅎ
+P1 	: 아아 직접 끓이는 건 진짜 일이죠.. 그리고 여름이라 더워서 불 근처도 가기 싫어요 ㅎㅎㅎ
+P0 	: 맞아요 요리는 진짜 못하겠어서 다 시켜먹어요ㅎㅎ
+P1 	: 진짜 불 근처에 가기도 싫어서 반조리 제품이나 시켜먹는 것 같아요 ㅎㅎ
+P0 	: 저도 그래요ㅎㅎ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011149
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요+
+P0 	: 스포츠 좋아하시나요?
+P1 	: 아 올림픽은 너무 재밌게 봤어요 ㅋㅋ
+P0 	: 아 올림픽 너무 재밌었죠ㅎㅎ
+P1 	: 배구가 진짜 재밌더라고요!!
+P0 	: 여자배구 진짜 짱이었죠ㅎㅎ
+P1 	: 너무 잘해요 ㅋㅋ
+P0 	: 김연경 선수 진짜 ...
+P1 	: 갓연경 그저 빛..
+P0 	: 양궁도 진짜 재밌었어요
+P1 	: 한국 양궁 너무 잘해요
+P1 	: 쐈다 하면 텐
+P0 	: 안산 선수 진짜 대박...

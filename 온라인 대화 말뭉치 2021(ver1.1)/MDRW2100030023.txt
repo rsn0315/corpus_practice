@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030023
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑좋아하세요?
+P0 	: 네~~완전 좋아해요
+P0 	: 쇼핑좋아하세요?
+P0 	: 어떤거주로사세요?
+P1 	: 네.좋아해요
+P1 	: 옷이나 신발요
+P0 	: 저두요
+P1 	: 아..그러시구나
+P0 	: 요즘 쇼핑하셨어요?
+P1 	: 네..청바지하나샀네쇼
+P0 	: 어디서요?
+P1 	: 코스트코쇼
+P1 	: 코스트코요
+P0 	: 아~~코코 옷많이팔죠?
+P1 	: 네..저는 가끔사요
+P0 	: 저도 가끔가서 삽니다
+P1 	: 직수입옷 괜찮죠?
+P0 	: 네..싸요.다른곳보다
+P1 	: 종류도많고

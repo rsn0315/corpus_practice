@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009639
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달음식 자주 먹어?
+P1 	: 주1.2회정도 먹어요
+P0 	: 우와 꽤 자주 드시는 편이네요 주로 뭐 드시나요?
+P1 	: 주1.2회가 자주였군요ㅠㅜㅋㅋㅋ
+P1 	: 주로 치킨.피자 같은거 시켜먹어요
+P0 	: 어떤 치킨 피자 브랜드 좋아하나요?
+P1 	: 치킨은 네네.피자는 도미노요
+P0 	: 네네 스노윙 치즈 좋아해요 ㅠㅠㅠ 도미노는 잘 모르겠네요!
+P1 	: 네네가 염지도 약하고 바삭바삭해서 애들이 좋아하더라구용
+P0 	: 오 염지... 되게 세심하시네용
+P0 	: 저는 노랑통닭이랑 뿌링클 좋아해요 ㅎㅎㅎ
+P1 	: 둘째가 아직 어려서ㅠㅠ매운걸못먹더라구요..후추맛 강하면
+P0 	: 우와 엄마는 역시 위대한 것 같아요
+P0 	: 저도 참고 할게요 ㅎㅎ
+P1 	: 저는 개인적으로 교촌레드콤보ㅠ좋아해요ㅋㅋ
+P1 	: 애들땜에ㅠ

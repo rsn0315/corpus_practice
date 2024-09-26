@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100003459
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 허리띠 튼튼한걸로 주문해줘~
+P0 	: 으응 어떤게 이쁘려나
+P1 	: 예쁜거보단 튼튼한거
+P0 	: 웅 알쏭  어디서 사야 하나
+P1 	: 지마켓  옥션
+P0 	: 일단 네이버 최저가 해보고
+P1 	: 응응  그래도 너무 저렴한거 말고
+P0 	: 응 상품평 잘볼게
+P1 	: 오케이용~
+P0 	: 이미지 몇개 보낼게 골라봐
+P1 	: 검정색으로 부탁해
+P0 	: 응 

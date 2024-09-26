@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100015707
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매한 물건 있나요?
+P1 	: 최근에 구매한건 옷인거같아요!
+P1 	: 운동할때 입으려도 티를 샀어요ㅎㅎ
+P0 	: 아하ㅎㅎ저두 운동할때 옷이랑 매트랑 이것저것 다 샀었는데
+P0 	: 지금은 애물단지네요ㅋㅋ
+P1 	: ㅋㅋㅋㅋ그러셨군요
+P1 	: 저는 운동할때 쓰는 용품같은거 엄청 열심히 쓰고있어요!
+P0 	: 운동 하루에 얼마나 하세요?
+P1 	: 저는 하루에 1시건에서 2시간 정도하는거같아요!
+P1 	: 운동을 엄청 좋아해서 보충제도 다 먹어가서 곧 사야하네요!ㅋㅋㅋ
+P0 	: 오 운동 꾸준히 하시는구나
+P0 	: 홈트로 하는거예요?
+P1 	: 네 한 1~2년정도 돼가요!
+P1 	: 헬스장에서 하고있어용!ㅎㅎ
+P0 	: 아하 역시 헬스장을 다녀야 좀 하게 되는 것 같아요
+P0 	: 피티받으면서 하는거예요?
+P1 	: 아니요! 저는 피티 안받구 혼자해요!!
+P0 	: 오아 멋져요!!!
+P1 	: 아이구 감사합니당ㅎㅎ
+P1 	: 제가 운동을 되게 좋아해서 그냥 즐기면서 꾸준히 하는거같아요!
+P0 	: 오오 꾸준히 하는거 좋죵

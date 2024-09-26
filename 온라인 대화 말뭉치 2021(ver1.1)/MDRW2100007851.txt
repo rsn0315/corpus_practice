@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100007851
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 최근에 어떤 물건 사셨나요?
+P1 	: 저는 옷 샀어요
+P1 	: &name1&님은요?
+P0 	: 저도 옷 샀어요!
+P0 	: 어떤 옷 사셨나요?
+P1 	: 검정 기본 티셔츠요
+P0 	: 무난한 기본이 베스트죠!
+P0 	: 옷쇼핑 주로 온라인에서 하시나요?
+P1 	: 저는 주로 오프라인이요 온라인은 아무래도 사이즈를 예측하기 어려워서요
+P1 	: &name1&님은 온라인에서 많이 구입하시나요?
+P0 	: 아니요ㅠㅠ 저도 오프라인에서 많이사요
+P0 	: 저도 옷 질감이나 사이즈때문에 못사겠더라구요
+P1 	: 그러니까요 심지어 온라인으로 잘못사면 반품비가 꽤 아까워서 더 그렇더라고요
+P1 	: &name1&님은 요즘 사고 싶은 물건 있으신가요?
+P0 	: 저는 이번에 나온 갤럭시워치 살까말까 고민중이에요
+P1 	: 아~~ 워치가 요즘 너무 잘나왔더라고요
+P0 	: 맞아요 디자인도 너무 예쁘고
+P0 	: 갤럭시 플립3도 이쁘긴한데
+P0 	: 플립2 평이 별로안좋아서...
+P1 	: 플립 라벤더가 정말 예쁘더라고요
+P1 	: 돈이 있었다면 저도 샀을 것 같아요ㅋㅋㅋ
+P0 	: 그쵸 이번에 디자인 다 예쁜것같아요
+P1 	: 그러니까요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100040820
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 아침 드셨어요?
+P1 	: 아뇨 아직 안먹었어요
+P1 	: 식사 하셨나요?
+P0 	: 네 방금 아침식사 먹었어요
+P1 	: 어떤거 드셨나요?
+P0 	: 저는 호박전이요
+P0 	: 어제 잔뜩 해놔서
+P1 	: 호박전 맛있겠네요
+P0 	: 네 늙은호박이 생겨서 어제 처음 전으로 부쳐봤는데
+P0 	: 생각보다 맛있더라고요
+P1 	: 아 늙은호박으로 만드신거면
+P0 	: 아침은 뭐 드실 예정이예요?
+P1 	: 채쳐서 부치나요?
+P0 	: 네네 맞아요 채치고 갈아서
+P1 	: 저는 출근중이라
+P1 	: 그냥 회사에서 우유랑 견과류 간단하게 먹으려구요
+P0 	: 일요일인데 출근하시는구나~
+P0 	: 아침식사 거르지 말고 잘 챙겨드셔요ㅠ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012586
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 성형하는 것에 대해 호의적이신가요?
+P1 	: 극단적으로만 안하면 별생각 없어요 저도 하고 싶은 곳이 있기도 하고요
+P0 	: 아.. 저는 눈이 좀 처져서 올라갔음 했는데
+	  계속 보니 익숙해져서 그런지 성형생각은 없네요.
+P1 	: 저는 사실 한 번 하면 계속 할 것 같아서 안하고 있어요
+P0 	: 아..  그렇죠. 얼굴이든 어디든 조화가 중요하니깐요.
+	  패션과 화장술로 커버해버리게요.ㅎ
+P1 	: 화장 잘하시나요?
+P0 	: 한동안 정성 쏟아서 했는데 요즘은 안하고 있어요. 
+	  피부건강에도 안하는 게 낫지 싶고..
+P1 	: 맞아요 이제 마스크 쓰고 게다가 마스크쓰면 습하니까요
+P0 	: 마스크도 좋은 것을 쓰지 않으면 뾰루지가 많이 나더라구요. 피부병 걸린 것 처럼요
+P1 	: 오 그렇군요 하긴 요즘은 거의 마스크를 옷처럼 항상 쓰고 있으니까 소재도 잘 알아봐야겠네요
+P0 	: 질병을 대비하여 보험은 꼼꼼하게 들어놓으셨나요?
+P1 	: 아직까지는 없어요
+P1 	: 보험 해놓으신거 있으신가요?
+P0 	: 저는 질병에 걸리기전에 들어놓자싶어서
+	  직장 생기자마자 알아봤어요.

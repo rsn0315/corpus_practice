@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화 좋아하세요?
+P1 	: 아뇨 그렇게 좋아하진 않아요
+P0 	: 전 좋아요
+P1 	: 어떤 장르 좋아하세요?
+P0 	: 로코요
+P1 	: 제일 재밌었던 영화가 어떤 거예요?
+P0 	: 첫키스만50번째요
+P1 	: 아 제목 들어본 것 같네요
+P1 	: 외국 영화였죠?
+P0 	: 네 맞아요
+P1 	: 대충 어떤 내용이에요?
+P0 	: 내머리속에지우개랑 같나요
+P0 	: 아요
+P1 	: 어 제가 그것도 안봤는데 그건 어떤 내용인가요
+P0 	: 여자 주인공이 단기기억 상실증이라 남주가 그래더 계속 사랑해줘요

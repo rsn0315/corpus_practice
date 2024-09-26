@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020981
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요
+P1 	: 점심드셨나요?
+P0 	: 점심 먹었어요~
+P1 	: 뭐드셨어요?!
+P0 	: 전오늘 피자먹었답니당
+P1 	: 헉 저어제부터 피자먹고싶다고 노래를 부르는중인데
+P1 	: 어떤피자좋아하세요?
+P1 	: 저는 페퍼로니 팬피자 치즈추가
+P0 	: 아하! 저는 파파존스만먹어요~~
+P1 	: 파파존스는 안먹어봤는데, 맛있나요?!
+P1 	: 어떤피자가 가장맛있나요?1 ㅎㅎ
+P0 	: 저는 존스페이버릿이나스치랜 두개 만먹어용~
+P1 	: 다음에 파파존스를 처음 접하게 되면 꼭 둘중하나로 먹을게요
+P1 	: 믿어요 &name1&님을
+P0 	: 옹ㅋㅋㅋㅋㅋ 제가 영업성공한건가요?ㅋㅋㅋㅋ 암튼 미국맛 좋아하시면 후회안하실거에여~~
+P1 	: 그럼 피자에 음료는 뭐드세요 ?
+P1 	: 콜라?사이다?맥주?와인?탄산수?
+P0 	: 저는 콜라나 사이다 좋아해서^^ 근데 가끔 레모네이드랑 먹기도해여~
+P1 	: 레모네이드도 잘어울릴것같아요 !

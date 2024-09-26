@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015943
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 엄마도 어렸을때는 일 많이 해봤어
+P0 	: 무슨 일 했었는데
+P0 	: ?
+P0 	: ?
+P1 	: 은행이랑 여행사에 오래있었지
+P0 	: 여행사에서는 무슨일 했어?
+P1 	: 여행 계획 짜는 일 했어
+P0 	: 근데 왜 우리 여행갈때는 안짜?
+P1 	: 다 옛날일이지
+P0 	: 그럼 은행에서는 무슨일 했어?
+P1 	: 여러가지 업무 처리했지
+P0 	: 일 잘했어?
+P1 	: 그럼 상사한테 칭찬 많이 받았지
+P0 	: 무슨 칭찬?
+P1 	: 직급 금방 올려준다했어
+P0 	: 그런데 왜 그만뒀어?
+P1 	: 결혼하고 육아하느라 정신없었지
+P0 	: 아 나때문이다?
+P1 	: 당연하지
+P0 	: 엄마가 직장다니는거 상상이 안간다
+P1 	: 너 나이대부터 얼마나 많은 일을 해봤는데
+P0 	: 더 있어?
+P1 	: 어릴땐 경험을 많이 해보는게 좋아서 여러가지 해봤었지
+P0 	: 그렇구나

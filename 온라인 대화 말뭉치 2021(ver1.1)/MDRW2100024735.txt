@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100024735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: 디저트도 있어?
+P0 	: 엉
+P1 	: 진짜 카페네
+P0 	: 내가 만든 쿠키~~
+P1 	: 걍 졸업하고 하나 차려
+P0 	: 동아리 카페를?
+P1 	: 아니 &name3&선배랑 카페
+P0 	: 선배의견을 모르겠는데
+P1 	: 니가 꼬시던가
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 아나 졸업 같이 하자는거 욕 아니냐고
+P1 	: 졸업은 먼저하라고 해
+P0 	: 선배 졸업하지마요ㅠ
+P1 	: 와 진짜 싫다
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 아무튼 동방 카페 오픈했습니다 놀러오세요
+P1 	: 커피는 누가 내려주나요
+P0 	: &name3&선배요
+P1 	: 믿을만 하군
+P0 	: 아나 나는
+P1 	: 넌...사약커피 주잖아
+P0 	: ...맞지

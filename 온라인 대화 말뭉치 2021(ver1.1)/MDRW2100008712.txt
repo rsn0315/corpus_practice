@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008712
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행을 떠나요
+P0 	: 여행은 무계획이 좋아요
+P1 	: 음 저는 그래도 어느정도 계획이있는게좋아요
+P0 	: 저도 여행 일정을 짜고 다니긴 해요
+P1 	: 어디여행이 기억에 남으세요?
+P0 	: 많이 걸었던 여행이 기억에 남아요
+P0 	: 기념품은 사오시나요?
+P1 	: 전 하와이가 기억에 남네요
+P1 	: 아뇨 딱히
+P0 	: 저는 스위스요
+P0 	: 패러글라이딩이 좋았어요
+P1 	: 오 북유럽 저도 가고싶네요
+P0 	: 저는 기념주화를 사와요
+P1 	: 오... 그러시군요. 저도 다음에 여행가면 사와야겄어요
+P0 	: 코로나가 끝나면 공항부터 가야겠어요
+P1 	: 여행을 공항으로 가시나요?
+P1 	: 무전여행 가고싶네요

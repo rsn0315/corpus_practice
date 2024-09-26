@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100023990
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 종교 있으세요??
+P0 	: 무교입니다
+P0 	: &name2&님은요?
+P1 	: 전 기독교에요!
+P0 	: 교회 활동에 잘 참여하시나요?
+P1 	: 아뇨ㅠ 예배만 유튜브로 보고있어요
+P1 	: 종교에 관심 없으신가요?
+P0 	: 네 관심이 안 가더라구요
+P0 	: 그래도 공휴일은 좋아해요
+P1 	: 아 저도 공휴일 좋아함닷!ㅋㅋ
+P1 	: 요즘 논란이 많아 속상해요ㅠ
+P0 	: 무슨 논란이요?
+P1 	: 기독교 관련해서 말이많은거오?
+P1 	: !
+P0 	: 아  일부 사이비나 이단 때문에 그렇죠
+P1 	: 네ㅠ 그러니까요
+P1 	: 집회한다고 뉴스나옴 휴.. 이래요
+P0 	: 또 집회를... 진짜 그런 사람들 때문에 속상하시겠어요
+P1 	: 네ㅠ 요즘 기독교라 그러면 좀 안좋게 보더라구요
+P0 	: 일부 잘못된 행동 하는 사람들 때문에 전체가 욕 먹으면 안 되는데요 ㅠ 힘내세요

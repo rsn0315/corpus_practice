@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100023685
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요!
+P0 	: 요즘 뭐 하고 지내시나요?
+P1 	: 저는 그냥 회사 다니고 있어요!
+	  회사 말고는 따로 하는게 없네요ㅋㅋ
+P1 	: 어떻게 지내시나요?
+P0 	: 아하 저는 아직 학생이라 이제 곧 개강이어서 마음의 준비만 하고 있네요ㅜㅜ
+P0 	: 회사 다니신지 오래되셨나요?
+P1 	: 아 학생이시군요!
+P1 	: 지금 회사는 일년 조금 넘었어요!
+P0 	: 아하 다니실만한가요?
+P0 	: 회사는 어떤가요?
+P1 	: 네 아직까지는요ㅋㅋㅋㅋ
+P1 	: 저는 학교보다 회사가 차라리 낫더라구요
+P0 	: 아 ㅋㅋㅋㅋㅋㅋ 어떤점에서 그런가요?
+P1 	: 학교는 그만두고싶어도 못그만두는데
+P1 	: 회사는 그만둘수 있어서요
+P1 	: 직장은 새로 구하면되니까요ㅠ
+P0 	: 아하 그죠그죠..ㅜㅜ
+P0 	: 회사는 집에서 가까우신가요?
+P1 	: 집에서 차로 30분 정도 걸려요!
+P1 	: 학생이시면 전공이 어떻게 되세요?
+P0 	: 아하 저는 디자인 전공이에요~
+P1 	: 몇학년이세요?
+P0 	: 저는 올해 졸업해요! 이제 곧 취업준비해야죠 ㅎㅎ..
+P1 	: 아하! 이제 졸업하는군요
+	  취업 준비하시기 힘드시겠네요ㅠ

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006881
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 우유는 소화가 안돼요
+P0 	: 유당불내증인가요? 동양인중에 유독 많대요
+P1 	: 네 속이 불편해요
+P0 	: 동생도 우유만 먹으면 배가 아프대요
+P1 	: 근데 요거트는 괜찮구요
+P0 	: 그래요? 요거트랑 뭐가 다르지요
+P1 	: 새우유가 아니라 그런가
+P0 	: 생우유랑 뭐가 다른가요
+P1 	: 발효식품이라 그런가봐요
+P0 	: 딸기우유랑 바나나우유는요?
+P1 	: 그건 괜찮아요
+P0 	: 가짜우유일까요 ㅋㅋ
+P1 	: 가짜우유도 많대요
+P0 	: 그럼 두유를 마셔봐요

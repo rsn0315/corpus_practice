@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달많이 드세요?
+P0 	: 배달먹어요?
+P1 	: 가끔씩만 시키는 편이에요
+P1 	: 배달음식 뭐 좋아하세요?
+P0 	: 치킨이요
+P1 	: 뭐 좋아하세요?
+P0 	: 네네요
+P1 	: 추천메뉴 있나요?
+P0 	: 후라이드요
+P1 	: 기본 맛 좋아하시는 군요
+P0 	: 네
+P1 	: 배달 한 달에 몇번이나 시키세요?
+P0 	: 4번정도
+P1 	: 그럼 거의 매번 치킨?
+P0 	: 그렇죠

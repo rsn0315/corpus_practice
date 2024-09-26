@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100031058
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 과일먹었니
+P0 	: 땡~ 과일 안 먹었어
+P1 	: 시리얼먹었구나?
+P0 	: 헐 맞아
+P1 	: 아침부터 떡볶이 어때
+P0 	: 시리얼중에 뭐 먹었게?
+P1 	: 시리얼이라니 클래식하군
+P0 	: 떡볶이 맛있지
+P1 	: 콘푸라이트인가
+P1 	: 이름이 다들 비슷해서
+P0 	: 땡 콘푸라이트 아닙니다
+P1 	: 코코볼 먹었니
+P0 	: 코코볼도 아니지롱
+P1 	: 첵스초코니
+P0 	: 땡 첵스도 아니야ㅋㅋ진짜 좋아하지만 오늘은 다른 거 먹었어

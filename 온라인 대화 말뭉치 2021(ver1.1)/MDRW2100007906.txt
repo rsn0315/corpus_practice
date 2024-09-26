@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007906
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!!
+P1 	: 안녕하세요
+P0 	: 반갑습니다 여행 좋아하시나요~?
+P1 	: 그냥 가까운 곳 다니는 거 좋아해요
+P0 	: 그러시구나 다녀본 곳중에 어디가 제일 기억에 남으세요?
+P1 	: 제주도요
+P0 	: 오 제주도 좋죠 저는 어릴때 가보고 안 가봐서 다시 가보고 싶더라고요
+P1 	: 기회되시면 가 보세요. 좋더라구요
+P0 	: 그러게요 코로나 잠잠해지면 조용히 다녀오고 싶네요
+P0 	: 제주 음식도 많이 드셨나요 고기국수 같은거?
+P1 	: 네. 고기국수 먹어봤어요^^
+P0 	: 사람들이 하도 맛있대서 궁금해하는 중이에요 ㅎㅎ
+P1 	: 근데 저는 그냥 멸치육수 국수가 익숙해서 그런지 아주 맛있다고는 말할 수 없고 별미로 먹을만 한 정도 같아요.
+P0 	: 맞아요 약간 걸쭉한 맛이 있어서 호불호가 있다고는 하더라고요
+P1 	: 저는 일단 고기를 별로 안 좋아해서 그렇게 느꼈을 수도 있어요.^^
+P0 	: 아 그러시구나 ㅎㅎ 말하다보니 제주 가보고 싶네요 ㅎㅎ

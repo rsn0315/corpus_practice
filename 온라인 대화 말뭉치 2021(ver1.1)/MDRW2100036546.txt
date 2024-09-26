@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100036546
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 
+	  야식좋아하세요?
+P0 	: 좋아하요 &name2&님은요?
+P1 	: 저도 좋아하는데 요즘은 건강생각해서 자제하고있어요!! 
+	  떡볶이를 자주먹었네요ㅎㅎ
+P0 	: 저도 떡볶이 좋아해요
+P0 	: 어떤 브랜드 좋아하시나요?
+P1 	: 옛날에는 엽떡 신떡 같은 매운맛만 선호했는데 요즘은 차돌떡볶이에 꽂혔었어요!!
+P0 	: 청년이나 걸작 같은데서 파는 떡볶이 말씀하시는거죠??
+P1 	: 맞아요!! 오징어 넣은것도 맛있더라구용ㅎㅎ
+P0 	: 오징어도 맛있죠
+	  &name2&님은 청년떡볶이에 감자튀김 좋아하시나요?
+P1 	: 앗 그건 못먹어봤는데 맥날 감튀랑 다른가봐요? 엄마손 감튀랑 비슷 한가요?
+P0 	: 그건 아니고 감자튀김에 허니버터맛 소스 부은거예요
+P0 	: &name2&님은 매운거 잘 드시나요?
+P1 	: 위장이 약해져서 매운거 자제하란 소리를 듣고 안먹었더니 맵찔이가 되었어요ㅠㅠ
+P0 	: 그러시군요

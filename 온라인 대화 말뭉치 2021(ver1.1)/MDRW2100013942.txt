@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100013942
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P1 	: 안녕하세요
+P0 	: 점심 드셨나요?
+P1 	: 네 저는 죠스떡볶이 점심으로 먹었어요
+P0 	: 오 떡볶이 맛있겠네요
+P0 	: 혹시 엽떡도 좋아하시나요?
+P1 	: 네 엽떡도 좋아해요!
+P1 	: 떡볶이는 다 좋은 것 같아요
+P1 	: 저 떡볶이 맛집도 찾아가고 그러는데
+P1 	: ㅎㅎ
+P0 	: 우와 떡볶이 진짜 좋아하시나봐요ㅎㅎ
+P0 	: 저는 홍대 쪽 떡볶이 맛집 가봤어요
+P1 	: 홍대! 맛집 이름이 뭐예요?
+P0 	: 또보겠지 떡볶이집이요!
+P0 	: 또 추천할만한 맛집 있나요?
+P1 	: 아 가봤어요 저도ㅎㅎ 거기 감자랑 맛있더라거요
+P1 	: 홍대쪽음 잘 모르겠고
+P1 	: 용산에 현선이네 떡볶이랑 아차산역에 신토불이 떡볶이 좋아해요
+P1 	: 광명선매떡볶이가 최애인데 거긴 저희집에선 좀 멀어서
+P0 	: 와 진짜 많이 가보셨네요
+P0 	: 좋은정보 감사드려요
+P0 	: 전 항상 배달로만 먹어서
+P1 	: 배달이 편하죠! 엽떡 주로 드세요?
+P0 	: 넵 저는 엽떡 중간맛 반반이용
+P1 	: 엽떡은 뭔가 중독성아 있는것 같아요 주기적으로 찾게되더라고요ㅋㅋㅋ
+P0 	: 맞아요ㅋ 지금도 엽떡 먹고싶네요
+P0 	: &name1&은 저녁 뭐드실건가용
+P1 	: 뭘먹을지 고민이에요ㅎㅎ

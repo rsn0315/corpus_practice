@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013871
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행지 기억남는곳있으시나요?
+P0 	: 저는 파리에 8일정도 있었는데 좋았어요
+P0 	: 걷기만해도 ㅎㅎ
+P1 	: 좋았겠네요
+P1 	: 기념품은 사셨나요?
+P0 	: 저는 가방을 샀어요
+P1 	: 역시 파리네요
+P0 	: 네 여행 기념품이라기엔 너무 목적있는 쇼핑이었어요ㅎㅎ
+P1 	: 할인 많이 됐나요?
+P0 	: 할인이 목적은 아니었고 제품이 다양했어요 세관신고하면 약간 저렴했어요
+P0 	: 또 언재 파리 가보려나요
+P1 	: 그러게요 좋은 경험이셨겠어요
+P1 	: 계획 세우고 가는 스탈이시나요?
+P0 	: 네 ㄱ근데 계획을 좀 널널하게 잡아요
+P1 	: 좋네요 계획안세우고 가면 할일이 없더라고요
+P0 	: 네 당일 투어 같은거 미리 예약하고 그정도는 준비해요
+P1 	: 맛집찾아가시나요?
+P0 	: 여행때는 가보려고 하는편이에요
+P0 	: 맞아요 ㅎㅎ 항상 조심해야돼요 추석땐 여행 계획 있으신가요

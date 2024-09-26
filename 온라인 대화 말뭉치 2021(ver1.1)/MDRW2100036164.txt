@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100036164
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨 이제 저녁 준비하려구요
+P1 	: 방금 마트에서 먹을거 사왔거든요 ㅋㅋ
+P0 	: 뭐 드실 예정인가요??
+P1 	: 감자수제비 밀키트가 할인하길래 그걸 먹을 거에요
+P1 	: &name1&님은 저녁 드셨나요?
+P0 	: 밀키트 다양한게 많네요ㅎ 저는 저녁 아직 안먹었어요
+P1 	: 코로나때문에 밀키트 시장이 많이 성장했다고 들었어요 ㅋㄱㄱ
+P1 	: &name1&님은 뭘 드실 예정이세요?
+P0 	: 글쿤요ㅎ 저는 피자 먹을 예정이에요
+P1 	: 맛있겠네요 배달시켜 드시는 건가요??
+P0 	: 네 도미노에서 시키려고요
+P1 	: 도미노피자 좋죠 어떤 메뉴 먹을지 결정하셨나요?
+P0 	: 포테이토 피자 시켰어요 기본만한게 없더라고요
+P1 	: 저도 동의해요!! 아무리 신메뉴가 나와도 도미노는 역시 포테이토가 제일이더라구요
+P1 	: 그리고 디핑갈릭소스도요 ㅋㅋ
+P0 	: 그쵸 갈릭딥핑 필수에요ㅋㅋ 너무 좋아해서 대량구매 할까 고민도 햇었네요
+P1 	: 근데 막상 소스류 대량으로 사면 잘 안먹게 되지 않나요?
+P1 	: 저 양념치킨 소스 사놨는데 생각보다 안써먹게 되더라구요
+P1 	: 여기저기 찍어먹을 줄 알았는데

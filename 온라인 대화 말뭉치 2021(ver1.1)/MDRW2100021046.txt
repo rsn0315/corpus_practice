@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021046
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나로 식당가서 밥먹는횟수가 줄었어요.
+P0 	: 저도오 코로나때문에 배달을 해먹거나 테이크아웃을 해요 ㅋㅋ
+P1 	: 주로 어떤거 드시나요?
+P0 	: 전 배달은 치킨이요 &name2&님은요?
+P1 	: 저두 배달은 치킨 피자요
+P0 	: 어떤 브랜드의  치킨을 주로 드세요?
+P1 	: 굽네.bbq
+P1 	: 어떤 브랜드 치킨 드시나요
+P0 	: 저는 교촌이요
+P0 	: 교촌의 레드콤보를 주로 ㅁ거요
+P0 	: 각 브랜드의 어떤 치킨을 드시나요?
+P1 	: 황금올리브  후라이드나 양념치킨요
+P0 	: 황금올리브 맛있죠
+P0 	: 육즙이 나와서 좋아요
+P0 	: 님은 어떤 점을 좋아하세요?
+P1 	: 어떤점 ..음. 맛이죠
+P0 	: 맛의 어떤 점이 좋으신지 좀만길게 말이이어지게
+P1 	: 맛을 표현한는게 어렵네요. 바삭한 식감도 적당한 염도 .
+P0 	: 염지가 잘 된 치킨인가 보네요
+P0 	: 지점에서 염지할텐데 잘하는지점인가봐요

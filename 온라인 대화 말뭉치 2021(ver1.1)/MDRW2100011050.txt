@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100011050
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 주변에 결혼한 친구 있니?
+P0 	: 너 연애한 적 앴오?
+P0 	: 음 친구는 아니고 결혼한 선배는 있어
+P1 	: 음 아니 없어!
+P0 	: 다들 정말 어른이 된 거 같더라.
+P0 	: 아 연애한 적 없구나!
+P0 	: 연애를 하지 않는 데 특별한 이유가 있내?
+P1 	: 음 나는 혼자사는것이 편해
+P1 	: 그리고 주변에 못생긴남자들만 가득해
+P0 	: 연애시잘에도 혼자 살 수 잇어
+P0 	: 아아 넌 얼굴이 중요하구나
+P1 	: 나는 주변에 결혼생각있는 사람들을 만났어
+P0 	: 맞아. 얼굴은 연애에 있어 중요한 조건이지.
+P1 	: 당연하지 얼굴 뜯어먹고 살아야해
+P0 	: 어머. 다음에 그 이야기 더 들려주렴.
+P1 	: 그래그래
+P0 	: 결혼이라니 어른이다.
+P1 	: 나도 이야기를 듣자말자 갑자기 어른처럼 느꺄쟜어

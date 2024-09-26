@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100034024
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 티비프로그램 좋아하는거 있어요?
+P0 	: 요즘은 티비를 잘 안 봐서ㅠㅠ 놀토만 가끔 보는 거 같네요
+P0 	: &name2& 님은 어떤 거 좋아하세요?
+P1 	: 전 요즘 해방타운이랑 무엇이든 물어보살, 라디오스타 등등..?
+P0 	: 해방타운은 어떤 프로그램인가요?
+P1 	: 기혼인 연예인들이 각자 오피스텔에서 생활하면서 혼자만의 시간을 즐기는 걸 보여주는 프로그램이에요ㅋㅋ
+P0 	: 오~ 어떤 연예인들이 나오나요?
+P1 	: 장윤정 허재 윤혜진 이종혁 이요
+P0 	: 오~ 재밌을 거 같아요
+P0 	: 주말 예능인가요?
+P1 	: 화욜 밤 예능인데 저는 재방으로 봐요ㅋㅋ
+P0 	: 드라마는 요즘 보시는 거 있으세요?
+P1 	: 펜하랑...악마판사요ㅋㅋ다 재방..ㅜ
+P1 	: &name1&님은요?
+P0 	: 저는 지금 보는 건 없는데 슬의생 재밌다길래 한번 볼까 고민중이었어요
+P0 	: 펜하 종영했나요?
+P1 	: 아 슬의생ㅋㅋㅋ
+P1 	: 저도 슬의생 정주행해볼까 하고 있어요
+P1 	: 펜하 아직이요
+P0 	: 이번이 마지막 시리즈인가요?
+P1 	: 네 ㅋㅋ그런 것 같아요
+P1 	: 종영까지 3회 남았네요ㅋㅋ

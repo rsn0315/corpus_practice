@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100001415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&씨
+P1 	: 안녕하세요! 저녁 메뉴는 생각하셨나요
+P0 	: 아직이요 뭐먹을까요
+P1 	: 글쎄요 점심에 뭐 드셨나요?
+P0 	: 실패할 수 없는 메뉴를 먹었습니다
+P0 	: 돈까스와 쫄면
+P1 	: 와우
+P0 	: &name2&씨는요
+P1 	: 저는 그냥 과자 집어먹다보니
+P1 	: 배가 찼어요 ㅋㅋ
+P0 	: 네?
+P1 	: 돈까스랑 쫄면이면 .. 저녁엔 밥을 드셔야겠네요
+P0 	: 사실 저녁메뉴는 정해져있었습니다
+P0 	: 피자 먹을거에여ㅎ
+P1 	: 아니 세상에
+P1 	: 오늘 미피 1+1인데
+P1 	: 알고계시나요
+P0 	: 아 도미노 먹으려 그랬는디
+P0 	: 그럼 미피 메뉴 추천해주세요
+P1 	: ㅋㅋㅋㅋ1+1은 아마 메뉴가 정해져있을거예요
+P1 	: 오리지널 메뉴들로
+P0 	: 아 그래요?

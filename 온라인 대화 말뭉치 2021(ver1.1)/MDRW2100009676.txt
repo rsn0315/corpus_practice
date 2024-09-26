@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100009676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 경기 직접 보러 가신 적 있으신가요?
+P1 	: 저 한 번도 없어요
+P1 	: 근데 이번에 올림픽 보고
+P1 	: 관심이 좀 많이 생겼어요
+P0 	: 어떤 종목 재밌게 보셨어요?
+P1 	: 여자배구도 재밌었고
+P1 	: 핸드볼이랑 양궁... 이것저것 거의 다 봤던 거 같아요
+P0 	: 저도 이것저것 다양하게 봤어요. 평창 동계올림픽 할 때 직접 못 가 본 게 아쉽네요
+P1 	: 저도 그 생각 자주 합니다
+P1 	: 한번 더 했으면 좋겠어요
+P1 	: 부산이라든가...
+P0 	: 죽기 전에 한 번은 더 할 것도 같고요 ㅋㅋ
+P0 	: 전 인천아시안게임 때 목동야구장에서 했던 야구 경기 보러간 적은 있어요
+P1 	: 오와
+P1 	: 야구 좋아하세요?
+P0 	: 네 야구 팬이기도 하고 비교적 가까이서 해서 갔었어요
+P1 	: 야구 어느팀 좋아하세요?
+P0 	: 저는 두산베어스 팬이에요
+P1 	: 오와 지역 구단 팬인건가요?
+P0 	: 네 그렇지만 야구 그 자체를 좋아하기도 해서 다른 팀 경기 볼 때도 있어요

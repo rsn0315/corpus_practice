@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016047
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 아침에 식사는 하셨나요??
+P1 	: 네 전복죽과 복슝아 스무디요 &name1&님은요?
+P0 	: 집에서 해서 드신거에요??
+P0 	: 전 지금 곤드레볶음밥 볶구있는중이요
+P0 	: 복숭아 스무디 맛있겠어요
+P1 	: 네 어머니가 해주셨어요
+P1 	: 곤드레 맛있겠어요
+P0 	: 와 부러워요 미혼이시죠?
+P0 	: 어머니가 옆에서 챙겨주실때가...가장 좋아요^^
+P1 	: 네 미혼이에여  ㅋㅋ 그렇군요 ㅠㅠ
+P0 	: 부러워요 ㅎ 많이 누리고 결혼하세요
+P1 	: 네 ㅋ 아직 좀 남아서 많이 누려야겠네요
+P1 	: 점심은 뭐드세요?
+P0 	: 빵먹을려구요
+P0 	: 지금은 아메리카노 한잔중입니다
+P1 	: 오 저는 점심 먹는중이에요 나중에 한잔해야겠어요
+P0 	: 메뉴 뭔가요??
+P0 	: 점심드셨어요?
+P1 	: 네 굴림만두국이요 점심 뭐드셨어요
+P0 	: 첨들어봐요 맛나겠어요
+P0 	: 지금김치볶음밥합니다

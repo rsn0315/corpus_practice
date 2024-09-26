@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100030677
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘은 배달이 잘되어서 괜찮아요
+P1 	: 어제는 치킨을 먹었습니다
+P0 	: 계란 후라이는 해 드시나요
+P1 	: 전어회가 먹고 싶은데 제가 가는 횟집이 문을 닫았어요
+P0 	: 치킨 많이 겠어요
+P1 	: 다음 주까지 공사 해요
+P1 	: 아니요 자주 못 해 먹어요
+P0 	: 그 가게 이름이 무엇이죠
+P0 	: 금어가인가요
+P1 	: 네 맞아요 그 뭐가 횟집이에요
+P0 	: 전에 아버지가 방문해서 바가지 썼어요
+P1 	: 헐 어쩌다가요
+P0 	: 예약해서 갔더니 생선까지 예약하지 않는 않았냐고 하더라고요
+P0 	: 그냥네 명만 예약했다고 했죠
+P1 	: 그런 일이 있었군요
+P0 	: 근데 이미 물고기를 잡아 났대요
+P1 	: 좋지 않은 기억이네요
+P0 	: 그래서 그냥 달라고 했죠
+P0 	: 13만 원 나왔어요
+P1 	: 어쩔 수 없었네요원하지 않은 음식까지 돈 주고 먹어야 하다니

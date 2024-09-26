@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100013602
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신  상품이 있으신가요
+P1 	: 최근에 썬크림 샀어요 ㅋㅋ 요즘 햇빛이 강하다보니
+P1 	: &name1&님은 최근에 뭐 사신 거 있으세요?
+P0 	: 저는 최근에 샴푸샀어요
+P0 	: 샴푸가 떨어져서 ㅎ
+P1 	: 무슨 샴푸 사셨어용?
+P0 	: 그냥 평범한 엘라스틴 구매했어요ㅎ
+P1 	: 엘라스틴 좋져 저두 그거 써용
+P1 	: 요즘 그런 것들은 인터넷에서 진짜 싸게 팔드라구용
+P0 	: 맞아요
+P0 	: 인터넷으로 사면 확실히 싼 느낌
+P0 	: 썬크림은 어디 브랜드꺼 구매하셨나요
+P1 	: 에스쁘아라는 브랜드인데
+P1 	: 혹시 아시나요 ㅋㅋㅋ
+P0 	: 네 알아요
+P0 	: 예전에 조이씨가 모델했었던
+P0 	: 거기 썬크림이 좋은가요
+P1 	: 헉 조이씨가 모델 했었었나요
+P1 	: 엄마가 잘쓰셔서 하나 더 사드렸어요 ㅋㅋㅋ
+P0 	: 어..지나가다 본 거 같아서..
+P0 	: 아 어머니 사드리셨구나
+P0 	: 좋아하셨겠어요
+P1 	: 사실 반강제였답니다.. ^^~
+P1 	: 인터넷 세일 기다렸다가 저렴한 가격에 사드렸어요 ㅋㅋㅋ
+P0 	: 앗.. 그러셨군요

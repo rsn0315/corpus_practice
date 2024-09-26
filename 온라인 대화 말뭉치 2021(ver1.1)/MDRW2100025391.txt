@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100025391
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 군번이 어떻게 되시나요
+P1 	: 안녕하세요 죄송하지만 저는 군대에 안가봐서.. 군번이 없네요 ㅠㅠ
+P0 	: 그렇군여
+P1 	: ㅋㅋㅋㅋ네 그러게요.. 군대다녀오셨나요??
+P0 	: 네 다녀왔습니다.
+P0 	: 주변에 군대가신 분이 있으신가봐요?
+P0 	: 디피 요즘 유명하던데
+P0 	: 그거때문에 그러신가
+P0 	: 궁금하네요
+P1 	: 보셨나요??
+P0 	: 아 그렇군여
+P0 	: 초반만 봤습니다
+P0 	: 괴롭히고 그런 부조리
+P0 	: 봤습니다
+P1 	: 그러시군요 ㅠㅠ 트라우마 때문에 잘못보시겠다 하시는 분 많이 본거같아요..
+P0 	: 선임들이 너무 악마같아요
+P1 	: 그러게요 저도 보면서 놀랬어요
+P1 	: &name1&때는 그런 부조리 있으셨나요?ㅠㅠ
+P0 	: 저는 군생활 편하게 하고 나왔던거 같아요
+P1 	: 오 그러시군요 다행입니다ㅎㅎ 드라마 내용이 탈영병 잡는 내용이라 더 자극적인부분이있던것같아요
+P1 	: 제대하신지는 얼마나 되셨나요??
+P0 	: 제대한지가 한 칠년됬네요
+P0 	: 시간 금방가네요!
+P1 	: 오 그러시군여 ㅋㅋ 동기분들은 연락하시나요?

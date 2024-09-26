@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100032897
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 음 콧물 살짝인데 그럼 하루 정도 더 보고 보낼까??
+P0 	: 집에서 둘다 데리고 있을 수 있겠어??
+P1 	: 데리고 있어야지 뭐
+P0 	: 월요일부터 고생이겠네..
+P1 	: 어쩔 수 없지..그럼 일단 화요일 5시 30분으로 예약해??
+P0 	: 어... 아니 화요일은 좀 더 일찍 예약해도 돼
+P1 	: 왜 화요일은 뭐 없어??? 연차쓰려고??
+P0 	: 어 그럴라고
+P1 	: 그럼 몇시에 예약해??
+P0 	: 2시 30분???
+P1 	: 오 빠른데?
+P0 	: 점심시간 끝나고 바로 진료 받지 뭐
+P1 	: 그래 그럼 지금 예약한다?
+P0 	: ㅇㅋ
+P0 	: ㅇㅋ

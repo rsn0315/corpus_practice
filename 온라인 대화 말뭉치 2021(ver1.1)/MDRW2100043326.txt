@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 접어먹는 김밥 유행이더라 진짜 별거 많아
+P0 	: 우리는 그걸 그냥 주먹밥이라고 부르기로 하지 않았나
+P1 	: 김이랑 밥 있으면 김밥이지 뭐
+P0 	: 하긴 그것도 그렇네요
+P1 	: 근데 밥 안들어가고 계란만 들어가는거 가지고 계란김밥이라고 하는 건 좀 아니지
+P0 	: 김계란이라고 하기도 좀 그렇잖아요 ㅋㅋㅋ
+P1 	: 근데 노른자 많이 들어가면 맛있으니까 맛있을거 같긴 하더라
+P0 	: 저는 밥에 간된 김밥이 좋던데...ㅠ
+P1 	: 유부초밥도 좋아하니까 그렇지
+P0 	: 탄수화물이 제일 맛있어요
+P1 	: 단백질 섭취도 중요하긴 하지만... 계란김밥은 너무 비싼거같아
+P0 	: 막 한줄에 7천원 8천원 하고 그렇죠? 지단 부치는 것도 일이긴 한데
+P1 	: 그래도 그건 너무 비싸 대량생산 하면서... 집에서 만들어 먹기는 아빠는 밥이 좋다더라
+P0 	: 저도 밥이 좋으니까요 ㅎㅎ
+P1 	: 한번쯤 궁금해서 만들어 먹어볼 만 하지 않나
+P0 	: 그건 그렇지만 그만큼 지단 굽는거 귀찮잖아요 요즘은 계란값 비싸기도 하고
+P1 	: 왜 이렇게 올라갔대 AI돌았나4

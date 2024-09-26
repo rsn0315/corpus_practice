@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100046744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211104
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 점심 먹고 올게요! 맛점하세요!
+P0 	: 네 그럼 저도 점심 먹고 올게요!
+P1 	: 규칙적으로 하시는 운동 있으신가요?
+P0 	: 저녁마다 강변에서 뛰어요
+P0 	: 배드민턴도 치고요
+P1 	: 런닝 즐겨하시는군요! ㅎㅎ
+P1 	: 보통 몇키로 정도 뛰세요?
+P0 	: 10km 정도 뛰어요{emoji:😊}
+P1 	: 헉 ㄷㄷ 꽤 뛰시네요!
+P1 	: 런닝은 언제부터 시작하신거예요~?
+P0 	: 작년 봄부터요~
+P0 	: &name2&씨는 무슨 운동하세요?
+P1 	: 꾸준히 하는게 힘든데
+P1 	: 그래도 엄청 오래 하셨네요!
+P1 	: 저는 가을 되니까 야외 운동이 힘들어서 피티 받으려고 알아보고 있어요
+P0 	: 맞아요. 이제 날도 추워져서{emoji:…} 저도 헬스장 다닐까 고민 중이에요.
+P1 	: 날이 추워지니 안에서 하는 운동이 좋은 것 같아요 ㅎㅎ
+P1 	: 근데 피티가 무척 비싸더라구요
+P0 	: 피티 비싸죠
+P1 	: 네.. 1회에 5-7만원 하더라구요..
+P0 	: 집에 운동기구 사서 하는 것도 좋을 듯 해요
+P1 	: 피티 한번 받고 근력운동 할 줄 알게 되면 운동기구 사서 운동하려구요 ㅎㅎ

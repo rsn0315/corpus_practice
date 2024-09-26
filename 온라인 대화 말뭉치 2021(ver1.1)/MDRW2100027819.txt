@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027819
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아 달달한거 좋아하시네요
+P0 	: 맞아요! 근데요즘 설탕줄여서
+P0 	: 자일리톨 먹어용
+P1 	: 껌이요?
+P0 	: 사탕으로 있어요!
+P1 	: 어디서나온 제품인가요?
+P0 	: 인터넷에서 파는데 비싸서요즘은 만들어요ㅋㅋ
+P1 	: 만드는게 쉽나요?
+P0 	: 네네 금방녹아서 요령생기면 쉬워요
+P1 	: 와
+	  맛있나요? 웬지 제스타일일거같아요
+P0 	: 자일리톨껌이 시원한것처럼 사탕도 시원달달해서 좋아요!
+P0 	: &name2&님도 좋아하실거같아용ㅎㅎ
+P1 	: 네 그런맛좋아해요
+P0 	: 저도요! 언젠가 그걸로 가게도 차리고싶어요ㅋㅋㅋ
+P1 	: 오 좋을거같아요 저 사먹을거같네요

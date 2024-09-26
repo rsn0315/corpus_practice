@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100021887
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 요새 날씨 많이 시원해진 것 같죠 ㅎㅎ
+P1 	: 네 저희지역도 그래요.
+	  오늘 날씨는 어떠세여?
+P0 	: 비는 안오는데 날씨가 썩 좋진 않았네요...
+P1 	: 오.. 저희지역은 오늘 드디어 해가 조금 떴어요
+P1 	: 그래서 좀 덥더라고요..
+P0 	: 오...  더운 날씨가 좋으세요 추운 날씨가 좋으세요
+P0 	: 하나만 골라보자면? ㅎㅎ
+P1 	: 저는 그러면 추운날씨가 나은것같아요.
+	  &name1&은요?
+P0 	: 저는 아토피랑 비염이 있어서
+P0 	: 더운 날씨는 아토피 땜에 힘들고 추운 날씨는 비염 때문에 힘들어요
+P0 	: 그래도 하나만 고르자면 더운 날씨...? ㅋㅋㅋㅋㅋ
+P1 	: 오.. 저는 피부가ㅜ쾌적한게좋더라고오.
+	  그러면 사계절 중에 어느 계절이 제일 좋으세요?
+P0 	: 저는 봄이요ㅋㅋㅋ 뭔가 깨어나는 기분
+P0 	: 이것저것 옷입기도 좋고요
+P1 	: 오.. 그런말씀 다른분도 하시더라고요.
+P1 	: 저도 봄이 좋은것같아요
+P0 	: &name2&은 왜요? ㅎㅎ
+P1 	: 가을되면 한 해가 다 가는것같아서 아쉽더라고요 ㅎ
+P0 	: 아... 약간 그렇기도 하네요
+P0 	: 지금 딱 그럴 타이밍이잖아요
+P1 	: 네.. 그래서 많이 아쉬워지려해요. ㅠㅠ 나이도 한살 더 먹는것같고요 ㅋㅋ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100014399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요,
+P0 	: ?
+P1 	: 웅ㅋㅋ 나 다음주에 남친이랑 여수여행가기로햏어!
+P0 	: 대박...진짜부럽다
+P0 	: 몇일 ?
+P1 	: 1박2일 ㅋㅋ 여수가본적있어?
+P0 	: 웅 옛날에 ㅋㅋㅋㅋ
+P0 	: 요즘 좋은숙소 많이생겼던데..   인피니티풀...
+P0 	: 바다 크으
+P0 	: 가서뭐먹어
+P1 	: 음 일단은 간장게장?
+P1 	: 친구가 거기서 게장먹었는데 진짜맛있었다고 완전 추천함
+P0 	: 오 ㅋㅋㅋ 혹시 식당 정해놨오?
+P1 	: 거기에 게장거리가 있대ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 그중에 친구가 말해준 집 있는데 기억안나구 찾아봐야햄
+P1 	: 추천해줄 메뉴나 식당 있어?
+P0 	: 아닝 나도 추천받을라구 물어봣오 ㅋㅋ
+P0 	: 난 10년전에가서 진짜 기억이안나네ㅠㅠ
+P1 	: 나두 여수 첨이라 이것저것 검색해보는중!
+P0 	: 오동도기억난다
+P1 	: 오 오동도 들어봤어
+P1 	: 맞아 여수에서 배타고 여기저기 또 들어갈수있더라
+P0 	: 헐 그건 몰랐네 어떤데있지

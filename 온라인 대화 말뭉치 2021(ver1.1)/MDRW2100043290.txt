@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043290
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 무슨 음식 좋아하세요
+P1 	: 면좋아해요! 떡볶이도 좋아하고 분식 좋아해요.
+P0 	: 오 저도요 고기도 좋아하시나요??
+P1 	: 삼겹살 좋아해요! 샤브샤브도 좋아하고요!
+P0 	: 오 저도 삼겹살!!! 돼지고기 최고에요!!!
+P0 	: 샤브샤브도좋죠
+P1 	: ? 또 나쁜말인가? 얘네 기준을 모르겠네요.
+P0 	: 그러니까요 ㅋㅌㅋ 계속 나쁜말이래요 ㅝ
+P1 	: 소고기보단 삼겹살을 좋아하는 편이에요. 삼겹살과 볶음김치는 너무나 맛있죠.
+P0 	: 와사비랑 먹어도 최고... 소는 먹다보면 느끼해요
+P1 	: 와사비는 안 먹어봐서 어떤 맛인가요?
+P0 	: 오 그 알싸한맛이 고기 느끼함을 싹 잡아줍니다
+P1 	: 그렇군요. 언젠가 한번 먹어봐야겠어요!
+P0 	: 오 꼭 드셔보세요 천국

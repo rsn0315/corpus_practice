@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100001728
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 저는 무교에요
+P1 	: 저는 기독교에요
+P0 	: 언제부터 였나요?
+P1 	: 어릴때부터요
+P0 	: 성인돼서 갖는 경우는 드문거같아요
+P1 	: 그렇죠
+P0 	: 가족들이 기독교였나봐요
+P1 	: 네
+P1 	: 맞아요
+P0 	: 저도 가족들이 종교가 없어서 그런가봐요
+P1 	: 그렇군요

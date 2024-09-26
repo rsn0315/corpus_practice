@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100032396
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 봉사하시는거 있으세요?
+P1 	: 저는 아직 없어요 &name1&님은 있으신가요?
+P0 	: 저는 가끔 유기견 센터 가요!
+P1 	: 우와 유기견 센터!! 강아지 좋아하시나봐요!
+P0 	: 그쵸ㅠㅠ
+P0 	: 아하 저 강아지 키우거든요!!
+P0 	: 그래서 가끔 시간 빌 때 가용
+P1 	: 오오 정말 좋은 일 하시네요ㅠㅠ 대단해요!
+P1 	: 유기견 센터 봉사가면 주로 뭐하시나요??
+P0 	: 거기서 그냥 청소하구 애들 밥주구 그래요!
+P0 	: 별거 없죠ㅋㅋㅋ
+P1 	: 너무 별거죠!!! 사랑이 아니면 할 수 없는 일이라고 생각해요
+P0 	: 맞아요ㅠㅠ 좋아서 하는 일이어서 하는 거지
+P0 	: 아니면 안할 거 같아요!
+P1 	: 그러니까요 저는 동물을 무서워해서 그런 봉사는 못해봤어요ㅠㅠ
+P0 	: 아하ㅠㅠ 근데 진짜 자기에게 맞는 봉사가 최곤거 같아요
+P0 	: 저는 동물 다 좋아하거든용!!!
+P1 	: 맨날 쓰레기줍기 환경미화 응급조치교육봉사(?) 이런 것만 해봤어요
+P1 	: 오오 동물!! 그럼 또 키워보고 싶은 동물 있으세요??
+P0 	: 우와 그런 봉사도 좋죠!
+P0 	: 저는 푸들 색깔별로 키우고 싶어요 ㅋㅋㅋ
+P0 	: 하얀색 까만색 회색 푸들...

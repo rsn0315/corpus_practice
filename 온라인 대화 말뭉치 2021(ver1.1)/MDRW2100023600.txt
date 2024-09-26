@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100023600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사 하셨어요?
+P1 	: 넵 먹었습니당
+P1 	: &name1&은 식사 하셧나용?
+P0 	: 넵! 밥먹고 후식도 먹었어요!
+P0 	: 어떤거 드셨어요??
+P1 	: 깐쇼새우랑 계란먹었어요ㅎㅎ
+P1 	: 후식도드셧구낰ㅋㅋㅋㅋ
+P1 	: 후식 뭐 드셨어요??
+P0 	: 맛난거 드셨네용
+P0 	: 설빙이요ㅋㅋ
+P0 	: 후식 드셨어요?
+P1 	: &name1&도 맛있는거 드셧네요!!
+P1 	: 아뇨아뇨
+P1 	: 후식은 안 먹었어요ㅎㅎ
+P1 	: 설빙 뭐 드셨어요??
+P0 	: 망고치즈빙수요!
+P0 	: 이 시간 되면 뭐가 막 먹고싶어요
+P1 	: 오 저도 그거 젤 좋아해요!!
+P1 	: 앜ㅋㅋㅋㅋㅋ
+P1 	: 저도 그렇긴 한데
+P1 	: 살찌기 싫어서 참는 중이에요ㅎㅎ
+P0 	: 흑ㅠ 저는 오늘도 배달의 노예
+P0 	: 저녁엔 조금 먹으려구요!!
+P1 	: 배달의 유혹이 장난 아니긴 하죠ㅋㅋㅋㅋ
+P0 	: 맞아용ㅋㅋㅋㅋ
+P0 	: 어후 시간이 진짜 빠르네요 벌써 저녁먹을때라니ㅋㄱ꾸ㅠ
+P1 	: 저녁은 뭐 드셨나용??
+P0 	: 피자먹었어용~~

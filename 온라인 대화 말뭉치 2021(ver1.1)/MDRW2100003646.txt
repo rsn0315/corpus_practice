@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100003646
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요ㅠㅠㅋㅋ
+	  커피를 아직 못배웠어여ㅋㅋ
+P1 	: 커피 좋아하시나요?
+P0 	: 네 좋아해요 ㅋㅋㅋ
+P0 	: 그럼 차만 드세요?
+P0 	: 전 아메리카노 맛의 차이를 이제 느낄수 있는정도
+P1 	: 따듯한거 안좋아해서
+P1 	: 프라푸치노나 생과일쥬스 마셔요ㅋㅋ
+P1 	: 아메맛 구분이 가능할 정도면
+	  고수 아닌가요?
+P0 	: 아메리카노만 마시거든요 ㅋㅋㅋㅋ
+P0 	: 카페인 들이부어야 일할수있으니....ㅜ
+P1 	: 아메리카노로 수혈 하시는군용ㅋㅋ
+P0 	: 네 그래서 드디어 맛을 구별할수있게 되었어요 ㅋㅋㅋ
+P1 	: ㅋㅋ멋지세요ㅋㅋ
+P1 	: 달달구리는 안좋아하세요?
+P0 	: 살쪄서요ㅜㅜ
+P0 	: 앉아있으니까 배나와서 단거 최대한 자제중...
+P1 	: 아는맛을 참는게 젤 힘든데ㅠ
+P1 	: 고생하시는군용 ㅠ
+P0 	: 아메리카노 써서 못드시는분들도 있더라구요
+P1 	: 여성분들은 달달구리 좋아하는줄
+	  알았는데 요즘 보면 꼭 그렇지도 않더라구영
+P1 	: 저는 아메 마셔보긴했는데
+	  쓰고 텁텁해서 한모금도 뱉을뻔요ㅋㅋ
+P0 	: 헛 아메 안드시는군여
+P0 	: 전 입이 개운해지는데
+P1 	: 커피를 아예 안마셔셔요^^
+P1 	: 저녁 식사는 하셨어요?

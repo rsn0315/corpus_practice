@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100034364
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 패션이나 미용에 관심많으신가요?!
+P1 	: 전 패션쪽에 관심을 더 두는 것 같아요 &name1&님은요?
+P0 	: 저두요 옷 너무 좋아해요
+P0 	: 그럼 옷 구입도 자주하세요?
+P1 	: 아뇨ㅜㅜㅋㅋㅋ 자주 구입은 안하려고 하는 편이에요 환경에 좋지 못하고 하길래요! 자주 구입하시나요?
+P0 	: 저는 보통이요 ㅋㅋㅋ 옷을 좋아하는 편인데
+P0 	: 맘에드는게 잘 없더라구요
+P1 	: 맞아요ㅠ 재질 좋으면서 적당한 옷을 찾는게 진짜 힘들죠...
+P1 	: 오래 입고 싶은데 요즘 옷이 그렇게 안나오지 않나요?ㅜㅜ
+P0 	: 맞아요 ㅜㅜ요새 특히 인터넷 개인 쇼핑몰은
+P0 	: 비싼데 질도 별로더라구여..
+P1 	: 맞아요ㅜㅜㅜ 질도 안좋고 모델샷에서는 없었던 이상한 모양들이 있고..
+P1 	: 옷 사기 진짜 힘들어요ㅜㅜ
+P0 	: 맞아요 ㅠㅠ
+P0 	: 수호천사가 골라주면 좋겠어요ㅋㅋㅋㅋㅋㅋ
+P1 	: 맞아요!!!ㅋㅋㅋㅋㅋㅋㅋ 취향에 맞고 질 좋은 옷 골라서 갖다주면 좋겠어욬ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: &name1&님 주로 입는 옷 취향은 어떤 건가요?
+P0 	: 맞아여 ㅋㅋㅋㅋ 최근에 저는 옷 샀는데
+P0 	: 저는 여성스러운거 좋아해요!
+P1 	: 아하! 원피스 블라우스 이런 옷을 선호하시나요?! 맞나..
+P0 	: 넵

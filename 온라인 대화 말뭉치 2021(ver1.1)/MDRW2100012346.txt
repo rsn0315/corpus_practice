@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012346
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 푸켓에서 찍은 사진 보다 보니까 바다 가고 싶다
+P0 	: 바다에만 가면 마음이 편안해지지
+P1 	: 공연도 보고 맛있는 음식도 먹고 좋았는데
+P0 	: 빠통 거리에서 맥주 한잔도 좋았고
+P1 	: 툭툭이었남? 톡톡이었나 자동차도 신기했고
+P0 	: 아 추억돋네 ㅎㅎ
+P1 	: 풀빌라도 엄청 넓어서 맥주 띄워놓고 수영하고
+P0 	: 색시 거기 조식 엄청 좋아했잖아
+P1 	: 남이 해주는 거는 다 좋아하지 뭐 ㅎㅎ
+P0 	: 또 가고 싶다
+P1 	: ㅇㅇ 애들 데리고 한번 더 가고 싶어
+P0 	: 그게 벌써 몇년전이야 ㅎㅎ
+P1 	: 10년도 훨씬 더 지났지...

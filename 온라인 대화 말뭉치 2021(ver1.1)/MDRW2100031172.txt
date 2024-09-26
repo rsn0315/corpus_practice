@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100031172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 온라인커뮤니티하시나요
+P0 	: sns 말씀하시는 거라면 트위터를 하고 있어요
+P0 	: &name2&님은 온라인 커뮤니티를 하시나요?
+P1 	: 아하# 트위터저도 가끔 봅니당 ㅋㅋㅋ
+P1 	: 아이돌 팬이신가요
+P0 	: 아이돌보다는 소설을 좋아해요!
+P0 	: 가끔 보시는군요
+P0 	: 좋아하는 아이돌이 있으신가요?
+P1 	: 소설 ~!
+P1 	: 요즘은 따로 없어요 그냥 두루두루. .
+P1 	: 소설 조아하는 사람끼리 팔로하나요
+P0 	: 주로 그러는 편이에요!
+P0 	: 타 sns를 하시나봐요 주로 인스타 많이 하시죠?
+P1 	: 넹 눈팅 마니해요 ㅋㅋ
+P0 	: 아핳 ㅋㅋㅋ 인스타 갬성은 따라가기가 힘들더라구요
+P1 	: ㅋㅋㅋ 맞아요 ... 거의걍 맛집검색용
+P0 	: 인스타 감성으로 사진찍고 글 올리는 게 왜 그렇게 어렵나 모르겠어요
+P1 	: ㅋㅋㅋㅋ 그죠 그래서 안올림
+P0 	: ㅋㅋㅋㅋ 맨날 먹기만 하는군여 ㅋㅋㅋ
+P0 	: 저도 그래요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋ 음료수주면 태그올리기 ㅋㅋ

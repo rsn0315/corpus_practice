@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012820
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집안일 자주하시나요?
+P0 	: 퇴근하면 기진맥진이라 평일엔 잘 못해요ㅜ
+P1 	: 자취하시나요?
+P0 	: 아뇨 집서 출퇴근해요
+P0 	: &name2&님은요?
+P1 	: 가족들이랑 같이살아요
+P1 	: 백수라서 집안일 제가 거의합니다
+P0 	: 아이고 집안일이 해도해도 끝이 없는데
+P0 	: 힘드시겠어요
+P1 	: 안해도 되는데 더러운 꼴을 못봐서 제가해요ㅋㅋ
+P1 	: 룸메이트와 생활해본적 있으신가요?
+P0 	: 아뇨 기숙사생활을 하셨었나요?
+P1 	: 아니요 할기회가 있었는데
+P1 	: 혼자가 편해서
+P1 	: 나왔어요ㅋㅋ
+P0 	: ㅎㅎ 안할수 있으면 안하는게 낫죠
+P0 	: 가족끼리 부대끼는것도 가끔은 힘든데 타인과 한 방이라니
+P1 	: 맞아요 타인과 같이 생활할 생각하니 거부감 들더라고요
+P0 	: 사실 그래서 결혼하는 사람들 보면 신기하고 대단하기도 해요
+P1 	: 저도 비혼으로써 공감이 안되네요

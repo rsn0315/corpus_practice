@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100005398
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 좋아하는 책 있으세요?
+P1 	: 책은 많이 안읽어요
+P1 	: 실용서위주로 보네요
+P0 	: 아 만화책도 안좋아하세요?
+P1 	: 좋아했는데 요즘은 거의 웹툰으로 보네요
+P0 	: 아 웹툰 어느웹툰보세요?
+P1 	: 네이버웹툰 이용하는데 이것저것 많이봐요
+P0 	: 베스트셀러같은건 안읽으세요?
+P1 	: 네ㅎㅎ 최근 보신것있음 소개해주세요
+P0 	: 저도 만화책이나 철학책 같은거 이외에는 잘 안읽어서..
+P0 	: 그리고 아무도 없었다 재밌어보이더라구요
+P1 	: 그렇군요 웹툰도 인기있음 단행본 나오더라구요
+P0 	: 근데 컬러라그런지 하나당 되게 비싸게 느껴지더라구요
+P1 	: 맞아요..책값들도 많이 올랐죠
+P0 	: 저번에 하나 샀었는데 웹툰 단행본 하나가 만오천원 비슷하더라구요..
+P1 	: 어떤책인가요?
+P0 	: 마음의소리인데
+P0 	: 아세요?
+P1 	: 네ㅋ 들어봤어요 조석

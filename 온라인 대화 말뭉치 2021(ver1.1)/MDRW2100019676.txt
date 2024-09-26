@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100019676
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 책 좋아하세요?
+P0 	: 예전에는 많이 봤었는데 최근엔 가벼운 웹소설만 보게 되더라구요 ㄲㅋ
+P1 	: 와 전 웹소설은 거의 안 읽어서 신기하네요
+P1 	: 예전에 학창시절에 귀여니 유행할때 좀 열심히 읽고ㅋㅋㅋ
+P0 	: ㅋㅋㅋ 웹소설은 단점이 잘 쓴 거랑 못 쓴 거랑 수준 격차가 크다는 거?
+P0 	: 워낙에 많아서 잘 쓰고 잘 맞는 작품 찾기 쉽지 않더라구요
+P1 	: 그러게여 김비서가 왜그럴까 이것도 웹소설로 유명하다 들었는데
+P1 	: 웹툰으로 봤어요 ㅋㅋㅋ
+P0 	: 저는 둘 다 봤는데 웹툰이랑 내용 거의 비슷했던 거 같아요
+P1 	: 그쳐 웹툰도 워낙 잘 만들어졌어서
+P0 	: 요새는 잘 되는 작품은 웹툰화 많이 되더라구요
+P1 	: 다들 안목이 비슷한 것 같아요ㅋㅋㅋ 재밌게 읽은 웹소설 있어요?
+P0 	: 판타지 장르도 좋아해요. 지금 딱 생각나는 건 새를 잊은 마녀에게, 리셋팅 레이디 정도네요
+P1 	: 오 뭔가 제목이 재밌어 보이는 제목이에요
+P0 	: 전지적 독자 시점도 하도 유명하길래 완결 나고 읽어봤는데 재밌더라구요
+P1 	: 아 맞네요 그것도 엄청 유명하죠
+P1 	: 지하철역에 그 소설 주인공 생일 축하 광고가 걸리더라구요
+P0 	: 저도 봤어요. 엄청난 팬덤
+P1 	: 뭐지 하다가 나중에 소설인걸 알았어요ㅋㅋ

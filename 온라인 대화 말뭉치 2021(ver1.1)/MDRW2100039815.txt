@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100039815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~!
+P1 	: 여행이 주제라 그런데 혹시 여행 좋아하시나여?
+P0 	: 기억나는 여행지 있으신가요
+P1 	: 아 국내는 울산 해외는 베트남이여!
+P0 	: 여행 좋아해요
+P0 	: 울산 가본적 없는데 어떤가요
+P1 	: 바다보러 갔는데 꽤 괜찮았아요! 울산 갔다가 부산 이렇게 갔었어요 ㅎㅎ
+P0 	: 아하 둘이 붙어있으니 그럴 수도 있군요
+P1 	: 네넵 그렇죠
+P1 	: 제주도도 좋아해요!!
+P0 	: 저두요
+P0 	: 오랜만에 제주도 가고 싶어요
+P1 	: 말하니까 가고싶네요 ㅎㅎ안 간 지 2년 정도 됐네요 ㅠㅠ
+P1 	: 혹시 여행은 혼자 가시는 걸 좋아하세요 아님 친구랑 같이 다니는 걸 좋아하세요?
+P0 	: 저는 가족이랑만 가봤어요
+P1 	: 아하 혹시 기억나시는 여행지 있으신가요?
+P0 	: 오키나와가 기억에 남네요
+P1 	: 오키나와 저도 가보고 싶네요 ㅠㅠ

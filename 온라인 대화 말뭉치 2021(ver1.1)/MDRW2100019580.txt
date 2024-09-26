@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019580
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 많지
+P0 	: 하나만 말해봐
+P1 	: 하나만?
+P0 	: 우선 하나만ㅋㅋㅋ
+P1 	: 스위스
+P0 	: 스위스가서 뭐하고싶어?
+P1 	: 기차여행
+P0 	: 근데 기차여행은 스위스에서만 할 수 있는 건 아니잖아
+P1 	: 근데 스위스가 경치가 좋은거 같아서
+P0 	: 아 차창 밖 풍경?
+P1 	: 응
+P0 	: 멋있긴 하겠다
+P1 	: 그니까 어디 가보고 싶어?
+P0 	: 난 프라하도 다시 가보고 싶어
+P1 	: 프라하 가보지 않았나?
+P0 	: 응 가봤었는데 제일 기억에 남아

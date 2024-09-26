@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009001
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 저녁메뉴는 무엇이었나요
+P0 	: 저는 쫄비빔면요. 콩나물 오이 배추 넣어서 먹었어요.
+P1 	: 아 좋으네요... 상상중..^^
+P0 	: 오아시스에서 콩나물을 사서 데쳐놓고
+	  여기저기에 넣어 먹네요.
+	  그냥 두면 시들더라구요.
+P1 	: 아 미리 데쳐놓고 보관해도 괜찮나보네요
+P0 	: 괜찮더라구요.
+	  더 오래가요. 그냥 생으로 보관하는 것보다는요. 콩나물 무침이 다른 나물보다 오래 가잖아요.
+P1 	: 살림 고수 향기가 솔솔 납니다~^%
+P0 	: 저 살림 안합니다.. ㅎ 해서 저런 자잘한 정보만 알고 있어요. 님의 저녁 메뉴는요?
+P1 	: 저는 에프에 생선구웠어요 고등어밥상이라고 뼈발라진 생선이요..ㅋ 짱 편한데..맛도 좋네요
+P0 	: 아. 건강한 밥상. 맛있었겠어요.
+P1 	: 그런가요...ㅋ 저도 오아시스 애용해요ㅡ 마켓컬리도 사용하시나요? 저는 가입전이라 궁금하더라구요
+P0 	: 마켓걸리는 그냥 이용않고 있어요.
+P1 	: 그렇군요 오아시스 좋죠~^^
+P0 	: 오아시스 반조리 음식이 배달 음식보다 낫더라구요. 한 끼 식사메뉴로도 좋구요.

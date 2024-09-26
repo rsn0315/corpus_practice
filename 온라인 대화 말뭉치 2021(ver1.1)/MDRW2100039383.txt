@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100039383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 집 앞 과일가게 많이 이용해요
+P0 	: 저는 직접 주문해요
+P1 	: 농장을 통해서 직접 구입하나요?
+P0 	: 네 한번 먹어보고 맛있으면 박스에 적힌 번호로 전화해서 직거래 해요
+P1 	: 택배로 보내 주던 가요
+P0 	: 그런 것도 있고 아닌 것도 있는데 요즘은 대부분
+P1 	: 어 그렇군요 대부분
+P0 	: 직판매 많이 하시는 편이더라고요
+P1 	: 더 신선하고 맛있을 거 같아요
+P0 	: 또 네이버 스토어팜 같은데 직접 올리기도 하구요
+P1 	: 그렇군요 나는 홈쇼핑으로도 세척사과 같은 거 한번씩 구입해요
+P0 	: 홈쇼핑 과일 맛있어요?
+P1 	: 나쁘지 않아요 어떤 때 백화점에서 사는 과일이랑 비교해서 오히려 홈쇼핑 과일이 더 맛있을 때도 있어요
+P1 	: 골드키위 같은 거 체리 같은 거 요즘은 엄선해서 수입해 오나 봐요
+P0 	: 그렇군요 대규모유통 체인이라 품질 좋으면서도 저렴하게 데려올 수 있나 봐요

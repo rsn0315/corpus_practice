@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100043946
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 배고파
+P0 	: 주말에반찬뭐해먹어?
+P1 	: 배달먹지
+P0 	: 맛있는거배달먹고싶다
+P1 	: 난 배달이 편하다
+P0 	: 배달좋지.맛집이금방내게로옴
+P1 	: 언제해먹어
+P0 	: 밥하기귀찮아
+P1 	: 집밥질려
+P0 	: 외식이딱좋은데아숩다
+P1 	: 맛도사먹는게나아
+P0 	: 미원맛느끼고입에착착붙지
+P1 	: 건강따위는 뭐
+P0 	: 어차피입맛맞는건어쩔수없어
+P1 	: 커피도 사먹는게 제맛이야
+P0 	: 배달커피굿
+P1 	: 밥뭐좋아해

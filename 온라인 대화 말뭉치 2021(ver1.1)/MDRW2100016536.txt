@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100016536
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑 좋아하시나요
+P1 	: 네 좋아해요
+P0 	: 어떤물건 하시나요
+P1 	: 신발 구경하고 있어요
+P0 	: 오 어떤브랜드요?
+P1 	: 나이키랑 휠라요. 유명 브랜드 주로 보게되네요
+P0 	: 나이키 이뻐요!!
+P1 	: 그래요? 아직 고민중이긴 해요
+P0 	: 나이키 가시죠ㅎㅎㅎ
+P1 	: 예쁘긴 하더라구요ㅋㅋ
+P0 	: 휠라는 다른브랜드 너무베껴요ㅠ
+P1 	: 그래요? 잘 몰랐네요
+P1 	: 신발 좋아하시나봐요
+P0 	: 네 좋아해요 휠라는 유명해요 그쪽으로ㅠ

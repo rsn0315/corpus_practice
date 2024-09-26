@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100005384
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달먹어요?
+P1 	: 네 외식 어려워서
+P1 	: 가끔 시켜요
+P1 	: 피자나 치킨 같은거요
+P0 	: 저도 식당가기가 두려워
+P1 	: 주로 어떤 음식 시켜먹나요?
+P0 	: 치킨이여
+P1 	: 어디 치킨집에서 시켜 먹나요? 저는 육십계나 푸라닭
+P0 	: 네네요
+P1 	: 주로 어떤 맛으로 시키나요?
+P0 	: 후라이드요
+P1 	: 기본에 충실하네요
+P1 	: 피자도 잘 시켜 먹나요?
+P0 	: 네 좋아해요
+P1 	: 어디 브랜드 거 좋아하나요?
+P0 	: 도미노요

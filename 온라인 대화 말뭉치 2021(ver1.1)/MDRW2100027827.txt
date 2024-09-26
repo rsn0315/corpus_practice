@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100027827
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 동물좋아하시나용?
+P1 	: 네 동물 좋아해요
+P1 	: 부모님댁에 레브라도 리트리버를 기르고 있어요
+P1 	: &name1&은 어떠세요?
+P0 	: 세상에.. 리트리버들은 천사라면서요!
+P0 	: 좋아하는데 키우진 못해요ㅠ
+P1 	: 저도 지금은 아파트에 살고 있어서 키울수가 없어요
+P1 	: 너무 미안해서리
+P0 	: 아파트에선 진짜 쉽지 않죠ㅠ
+P1 	: 리트리버 너무 사랑스러워요
+P1 	: 귀엽고 애교많고 사교성 좋고
+P1 	: 그런데 힘도 좋아서 부모님이 산책시키는걸 부담스러워 하세요
+P0 	: 애교까지 많다니!!
+P0 	: 멍멍들은 다커도 스스로 어린이라고 생각해서 어리광도 부리나봐요
+P1 	: 견종따라 다르긴 할거에요
+P1 	: 독립적인 견종도 있으니까
+P0 	: 오옹 그렇군요
+P1 	: 동물 길러본 적 있으세요?
+P0 	: 알레르기가 있어서 유튜브로만 봐요ㅎ
+P0 	: 그래도 골뎅이 좋아해요!
+P1 	: 그렇구나
+P1 	: 저도 유튜브로 동물영상 자주 봐요
+P0 	: 어떤채널 주로보세요?
+P1 	: 채널은 따로 구독하지 않는데 알고리즘으로 나오는 영상들 무작윗노 봐요

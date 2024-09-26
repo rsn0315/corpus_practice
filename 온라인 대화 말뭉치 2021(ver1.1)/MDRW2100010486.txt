@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100010486
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 닭가슴살 다 먹었던데 좀 시켜줘요
+P0 	: 지금 먹는걸로?
+P1 	: ㅇㅇ 트레이더스
+P0 	: 그게 안짜고 맛있긴 하더라
+P1 	: 트레이더스 닭가슴살이 운동하는 사람들 사이에선 유명해
+P0 	: ㅎㅎ 닭가슴살 보통은 퍼석하고 맛없는데
+P1 	: 이건 좀 덜 질리더라고
+P0 	: 이번 주말에 트레이더스 가야겠네
+P1 	: 배송 안하고?
+P0 	: 직접 가는 게 더 싸더라고
+P1 	: 아 배송비 있나?
+P0 	: 트레이더스는 10만원 이상 사야 배송비 없어
+P1 	: 아.. 그럼 가야겠네 ㅎㅎ
+P0 	: 가까우니까 뭐
+P1 	: 많이 사서 쟁여두자

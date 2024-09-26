@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100017584
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 엄마~~
+P0 	: 나 내일
+P0 	: 11시에 반에 미팅있어요
+P1 	: 몇시에 나가면 되는데?
+P0 	: 9시 반 정도~
+P1 	: 그래
+P1 	: 몇시에 깨울까??
+P0 	: 8시~~
+P1 	: 8시 30분에 깨워도 되지 않을까??
+P0 	: 그래요~~
+P1 	: 엄마 자도 될라나??
+P0 	: 웅웅~~ 언능 주무세요~~
+P1 	: 오냐~
+P1 	: 그래 그럼 실례함세
+P0 	: 잘자용~~~
+P1 	: 몇시 도착인가???
+P0 	: 40분?!?!?
+P1 	: 그래~ 조심히와~
+P0 	: 네네네네네~~~~
+P0 	: 조용히 들어갈테니 언능 주무셔요~~
+P1 	: 오키바리~
+P1 	: 딸~~
+P1 	: 야근하나??

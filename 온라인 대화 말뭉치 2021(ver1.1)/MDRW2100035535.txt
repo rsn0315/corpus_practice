@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035535
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 결혼 전에는 받아봤는데, 결혼하고는 안 받았어요. 피부관리샵 다니세요?
+P0 	: 아뇨 저도 안다니는데 기미때문에 요즘 고민이예요
+P1 	: 꾸준히 관리하는 사람들은 결혼 후에도 다니고 성형외과 피부과도 애용하더라고요.
+P0 	: 그러더라구요..비용이 문제죠 ㅠㅠ 전 겨울에 가보려고요
+P1 	: 좀 한가할 때 피부관리도 다니고 그러면 참 좋죠. 네일케어 꾸준히 하며 기분전환 하는 분도 계시더라고요~
+P0 	: 네일케어 하시나요
+P1 	: 전 안 해요. 화장도 안 하는 스타일.ㅎ 운동은 해요.^^
+P0 	: 저두 안해요 ㅎㅎ
+	  운동은 어떤거 하세요?
+P1 	: 한동안 유튜브로 홈트하다가 어플 활용한 운동해요~ 7분운동, 플랭크요. 자전거도 타고요. 운동하세요?
+P0 	: 자전거는 실내 자전거요,
+P0 	: ?
+P0 	: 네 저는 헬스해요~~
+P1 	: 자전거 실내자전거도 타고 아이랑 같이 나가서도 타요. 아이랑 타고싶어서 자전거 타는법 배웠어요.^^
+P0 	: 오 주로 어디서 타시나요
+P1 	: 동네에 자전거길이 잘 되어있어요. 탄천따라 쭈욱~~^^
+P0 	: 아 천변에서 타시나보군요^^

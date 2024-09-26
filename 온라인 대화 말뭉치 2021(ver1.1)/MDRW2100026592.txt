@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026592
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1& 중고거래 해본 적 있나요?
+P0 	: 네네 많죠
+P0 	: 당근마켓
+P1 	: 우와 당근마켓 많이 쓰세요??? 보통 어떤 거 파세요?
+P0 	: 제주오기 전에는 무료나눔 많이했구
+P0 	: 쵝근엔 청소기 샀어요
+P1 	: 신기하네요 저는 당근마켓에서 사본 적은 없구 팔아본 적은 있어요 게임팩 한번!
+P0 	: 오
+P0 	: 기프티콘 사본적도 있어요
+P0 	: 스타벅스
+P1 	: 스벅 자주 가세요?? 전 얼마전에 나온 민트초코가 너무 맛있더라구요
+P0 	: 오 신상나왔나요
+P0 	: 저도 생일 쿠폰들어와서 함 먹어봐야겠네여
+P1 	: 네.... 민초 좋아하시면 꼭 드셔보세요 제 인생 민초입니다...
+P0 	: 서울에 편의점에서 민초소주 들어와서
+P0 	: 사봤었는데 완전 괴식이었어요

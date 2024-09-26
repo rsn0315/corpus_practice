@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100021216
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 :)
+P0 	: 점심뭐드셨어요??
+P1 	: 저는 오늘 찜닭 배달시켜 먹었어요 :)
+	  확실히 배달음식 먹는 날이 많아진 느낌이에요
+P0 	: 맞아여 특히 오늘 날이 더워서 주방근처에 가기도싫더라구요
+P1 	: 맞아요 이젠 웬만한 곳은 배달이 잘 되는 것 같고 ㅋㅋ
+P0 	: 마쟈요 ㅋㅋㅋ 거의다되죠 우린 배달의민족이니
+P1 	: ㅋㅋ 그러니까요 ㅋㅋ 아니면 사실 밀키트같은 것도 많이 쟁여놓긴 해요 ! 조리법 좀 간단해서..
+P1 	: 쓰다보니 너무 게을러보이지만.. ㅋㅋㅋㅋ 잘하는 사람 조리법 따라하는 게 제일 쉽더라구요
+P0 	: 마쟈요 ㅋㅋㅋㅋ 혼자 해보겠다고 레시피나영상안보고하면 엉망되더라구요 ㅋㅋㅋ
+P1 	: 그쵸 저도 그래서 유튜브에서 맛집 레시피 검색하는 편..ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ 마쟈요 얼추 비슷하게 되더라구요
+P1 	: 오늘 저녁도 주방 패스하시나요? ㅋㅋ 추천 메뉴 있으시다면?!
+P0 	: ㅋㅋㅋㅋㅋ 저는 오늘 저녁으로 피자나먹을까 생각중이에용
+P1 	: 오 주말 저녁과 잘 어울려요 ㅋㅋ
+P0 	: 맞아요~ 전 파파존스좋아해요
+P1 	: 파파존스도 맛있죠~ 오늘도 맛있는 거 드세요 :)
+	  근처에 맛집이 많길 바랄게요 ㅋㅋ

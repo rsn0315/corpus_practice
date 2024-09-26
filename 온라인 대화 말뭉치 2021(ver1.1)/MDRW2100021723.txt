@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021723
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행조아하시나요
+P1 	: 많이 좋아하는 편은 아닌데요.
+	  상황이 이렇다보니 가고 싶네요.  ㅎ
+P0 	: 어디가보셨나요
+P1 	: 국내는 이곳 저곳 가봤고요. ㅎ
+	  해외는 가까운 나라만 가봤어요.
+P0 	: 저는일본 좋았네요!
+P1 	: 저도 일본 후쿠오카를 갔었는데
+	  하우스텐보스 멋지더라구요.
+P0 	: 오 저도 오사카랑 후쿠오카요!
+P1 	: 오사카도 볼 게 많지요.
+	  일본은 방사능 때문에 한동안 꺼려졌는데
+	  요즘에도 여전히 위험할 듯 싶은데도
+	  방사능 걱정은 덜하게 되는 거 같더라구요.
+P0 	: 저도좀 찝찝하긴해서 도쿄는 못갔네요ㅜ
+P1 	: 일본은 이번 코로나 이후 대처가 좀 별로라 앞으로 여행지로도 그닥일지 모른다 생각이 들더라구요.
+P0 	: 국내로 만족을해야되나ㅠ
+P1 	: 괌, 사이판은 좀 안전하지 않을까 싶기도 하고 그러네요.
+	  동남아시아는 코로나 땜에 한동안 못갈 것 같구요.
+P0 	: 사이판은 그 자가격리 면제도되지않나요

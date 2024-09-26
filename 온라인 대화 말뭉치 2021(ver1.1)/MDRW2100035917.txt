@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035917
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셨나요?
+P0 	: 아니여 아직
+P0 	: 배고프네요ㅠ
+P1 	: 아하! 전 전복죽 먹엇답니당ㅎㅎ
+P0 	: 우왕
+P0 	: 전복죽 넘 맛있죠
+P1 	: 맞아요 원기충전
+P0 	: 점심먹고나니 저녁 걱정되네요
+P1 	: 맞아욬ㅋㅌㅌㅌ 전 죽먹으면서도 저녁뭐먹지 이생각 했어욬ㅋ
+P0 	: ㅋㅋ 네버앤딩 고민
+P1 	: ㅋㅋㅋㅋ 그래도 행복한고민이라 문제없어요~ㅋㅋ
+P0 	: 맞아요 뭘먹을까 행복한
+P1 	: ㅋㅋㅋㅋ 오늘은 드셨나요?
+P0 	: 네 점심먹고 배부르네요

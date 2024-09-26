@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100011707
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 홈트 하시나요?
+P1 	: 요새 조금씩 하고있어요
+P0 	: 오오 그러면 런데이는 하시나요?
+P1 	: 런데이는 안 라고 있어요! 런데이 하시나요?
+P0 	: 저는 런데이 가끔 써요!
+P0 	: 홈트는 유튜브를 보고 하시나요?
+P1 	: 네, 유튜브에서 복근 운동이나 상체 운동 찾아서 해요
+P0 	: 저도 홈트는 유튜브, 러닝은 런데이를 쓰고 있어요
+P1 	: 홈트 기구도 집에 있으신가요?
+P0 	: 아뇨 저는 맨손 운동을 주로 해요!
+P1 	: 일 주일에 몇 번 정도 하세요?
+P0 	: 홈트는 3일 런데이는 2일 정도 하는 것 같네요! &name2&은요?
+P1 	: 저는 주에 3, 4번 정도 하는 것 같아요
+P0 	: 와 열심히 하시네요ㅎㅎ 온라인 피트니스 서비스가 활성화 돼서 좋은 거 같아요

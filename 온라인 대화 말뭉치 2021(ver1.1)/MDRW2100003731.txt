@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003731
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우세요?
+P0 	: 네 저는 강아지 키우는데
+P0 	: 보고싶네요!
+P1 	: 헉 저도 강아지키워요
+P1 	: 퍼그랑 비숑 키우는데 &name1&님은요?
+P0 	: 우와 종이 뭔가요?
+P0 	: 저는 페키니즈 키워요 ㅎㅎ
+P1 	: 비슷하네요
+P1 	: 단두종 병 많지않나요?
+P0 	: 흰색 털이라서 너무 귀여운데 털이 너무 많이 빠져요ㅜㅜ
+P1 	: 저희집 퍼그는 단백질알러지 있거즌요
+P0 	: 저희집 강아지는 허리디스크가 있어서
+P1 	: 털갈이 대박이죠...저희도 지금 털파티중이에요
+P0 	: 걱정이에요 코도골고ㅠㅠ
+P1 	: 아이고
+P1 	: 코골이는 단두종은 어쩔수없대요
+P0 	: 다리 짧은 애들은 다 있더라구요!
+P1 	: 허리디스크 아이고 어떡하냐

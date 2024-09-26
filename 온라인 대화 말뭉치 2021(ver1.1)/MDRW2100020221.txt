@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020221
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: ㅎㅇ
+P1 	: 요즘 민트 초코가 대세야
+P0 	: 모든 시급료가 요즘 민트 초코더라
+P0 	: 음료
+P1 	: 나는 예전부터 민트 초코를 좋아했지
+P0 	: 나는 불로 였는데 요즘은 좋더라
+P1 	: 그래도 민트 초코 소주는 먹지 않길 바래
+P0 	: 민트 초코 블렌드 맛있더라
+P1 	: 맞아 그거 정말 상큼하고 달해
+P0 	: 짜 파게티 파김치 먹으면 맛있겠다
+P1 	: 짜파게티 보다 비빔면 이 더 맛있어
+P0 	: 너 사천 짜파게티 안 먹어 봤구나?
+P1 	: 그런 것도 있단 말이니
+P0 	: 매콤에서 진짜 맛있어
+P1 	: 먹어볼게
+P1 	: 안녕

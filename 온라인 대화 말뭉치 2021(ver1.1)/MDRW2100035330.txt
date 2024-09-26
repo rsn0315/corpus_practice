@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035330
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심식사하셨나요~
+P0 	: 아이고 벌써 저녁 시간이네요! 아까 느지막히 일어나서 점심 챙겨 먹었어요~
+P1 	: 식사 잘챙기는 것도 은근 힘들더라고요 ㅎㅎ
+P1 	: 저녁은 또 뭘먹나~
+P0 	: 저는 방금 카레랑 고등어랑 같이 먹었어요!
+P1 	: 맛난거 드셨내요!!
+P1 	: 둘다 너무 좋아해요
+P1 	: 카레 감자 큼게 좋아요 작은게 좋아요?ㅎㅎ
+P0 	: 각설탕 정도 작은 크기요!
+P0 	: &name2& 님은요?
+P1 	: 저도 그정도가 좋더라고뇨
+P1 	: 너무 작으면 식감이 별로얘요
+P0 	: 카레 자주 드시나요?
+P1 	: 지금은 못먹고있는데
+P1 	: 예전에는 틈만나면 먹었어요
+P0 	: 카레에 뭐뭐 넣어서 만드시나요?
+P1 	: 저는 감자랑 당근만 있으면 잘먹는데
+P1 	: 어머니는 꼭 햄을 넣으셔요
+P0 	: 햄은 한 번도 안 넣어 본 거 같아요
+P0 	: 잘 어울리나요?
+P1 	: 아이들이 좋아할것같은맛?
+P1 	: 햄 특유의 맛이나서 뭔가 느낌이 달라요

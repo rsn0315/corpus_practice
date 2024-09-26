@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002335
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 키우고 있나요?
+P0 	: 예전에 키웠는데 
+	  사고로 하늘나라 갔어요
+P0 	: &name2&님은 반려동물 키우셔요?
+P1 	: 아이고 괜한 이야기 꺼낸건지... 사고라니...
+P1 	: 제가 키우는 건 아니고 동생이 멍멍이 한 마리 키워요!
+P0 	: 아네요 ㅎㅎㅎ 지금괜찮아요
+P0 	: 요즘은 다른분들 키우는거 보는거 듣는거료
+	  대리만족 중이에요 ㅎㅎ
+P1 	: 가끔 집에 놀러오면 귀여워요
+P1 	: 갈색 푸들 키우거든요
+P0 	: 아 넘 귀엽겠어요 ㅎㅎ 
+	  제 지인도 갈색 푸들이라 이름이 초코에욮ㅎㅎ
+P1 	: 초코라니... 빵실빵실 귀엽겠어요
+P1 	: 은근 관종이더라구요
+P0 	: ㅎㅎㅎㅎ 다시키우고 싶은맘이 큰데
+	  이별이 힘들어서  힘들더라구요
+P1 	: 맞아요 이별 오는게 너무 슬퍼요
+P0 	: 조금더 시간이 필요 한가봐요 ㅎㅎ
+P1 	: 가족이랑 마찬가지니깐요 그럴수있죠
+P0 	: ㅎㅎㅎ 저는 원래  반려동물 안좋아했는데
+	  어쩔수없는 선택으로 만난건데
+	  지내다보니 정이 엄청 들더라구요
+P1 	: 맞아요 정이 무서워요
+P0 	: 그래서 더 신중해야 하구요 ㅎㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014587
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님 공연이나 전시회 많이 보러가시나요?
+P1 	: 코로나 터지기 전에는 콘서트는 많이갔어요ㅎㅎ &name1&님은요?
+P0 	: 오 저는 공연도 조금 전시회도 조금 다녀와봤어요
+P1 	: 오오 최근에는 어디 다녀오셨어요?
+P0 	: 아마 공연이었는데 방탄소년단 팬미팅 갔다왔을 거예요!
+P0 	: 전 그게 마지막이 될 줄 몰랐어요...ㅋㅋㅋ
+P1 	: 와 저도 스파콘 막날 다녀왔었어요 ㅋㅋㅋ 그게 마지막일줄은..ㅠㅠ
+P0 	: 와 &name2& 님도 방탄 콘 가보셨군요 몇년 전이라 기억이 잘 안나는데 저도 스파콘 중콘 가봤던 거 같네요ㅋㅋㅋㅋㅋ 휠라 담요 아직도 쓰거든요
+P1 	: 저는 아직 개봉도안했어욬ㅋㅋㅋ3층가운데에서봤는데..재밌었어요 방탄콘은 첨가봐섴ㅋㅋ
+P0 	: 맞아요 재밌었죠...!ㅋㅋㅋㅋ
+P0 	: 그럼 다른 콘서트는 어디어디 다녀오셨나요?
+P1 	: 주로 해외가수 내한공연을 가서 ㅋㅋㅋ 위켄드 칼리드 이런가수들 가봤어요 &name1&님은여??
+P0 	: 오오 저는 콘서트는 아니고 sbs가요대전으로 공연 보러 간 적 있어요ㅎㅎ
+P1 	: 와 재밌겠다 여러가수 보면 재밌을거같아욬ㅋㅋㅋ 힘들거같긴한데
+P0 	: 맞아요ㅋㅋㅋㅋㅋ 힘들긴 한데 무대보는 재미가 있어서 좋더라구요

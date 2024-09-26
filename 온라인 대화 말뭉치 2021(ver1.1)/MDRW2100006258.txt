@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006258
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 좋아하세요?
+P1 	: 아니요...ㅎ&name1&님은요
+P0 	: 앗 정말요?동물 전혀 안좋아하세요??
+P1 	: 네 ㅜㅜ...
+P0 	: 앗 그러시구나..!! 그러면 어떤동물이 제일 별로세요...?
+P1 	: 아...비둘기요...
+P1 	: 조류..
+P0 	: 비둘기는 저도 싫은데 .....
+P0 	: 비둘기 날아갈때...벼룩....
+P1 	: 네 그것때문에..ㅎㅎ 아 갈매기도..ㅎㅎ
+P0 	: 갈매기는 눈이 좀 무서워요ㅋㅋ
+P0 	: 생각해보니 저도 조류는 썩 좋아하지않네요
+P1 	: 그렇죠...ㅎㅎ 미안하다..조류들아
+P0 	: 그래두 치킨은 잘 드시죠..?ㅋㅋㅋ
+P1 	: 네...치킨 애정합니다..
+P0 	: ㅋㅋㅋㅋ그럼 동물은 한번도 안키워보셨겠네요!!
+P1 	: 네 그렇습니다

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002652
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충북
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이제 가을이 왔나봐요
+P1 	: 그러게요.아침저녁으로 선선해요.
+P0 	: 네~어제 밤에는 창문열었더니 춥더라고요
+P1 	: 새벽에는 추워서 창문닫아야해요
+P0 	: 네 그런것 같아요
+P1 	: 옷장속 긴팔도 꺼내야 할것 같아요
+P0 	: 가디건 꺼내려다 말았어요 ㅎ
+P1 	: 아직까지는 반팔로 버틸만한데 조만간 반팔위에 걸칠옷이 필요할것 같아요
+P0 	: 네~맞아요~저녁에는 특히요
+P1 	: 미세먼지 없어서 저녁산책하기 좋은데 이번주 비가오더라구요
+P0 	: 네~미세먼지 없어서 너무 좋아요 ㅎ
+P1 	: 지금도 창문활짝열었어요
+	   비가 또 오려는지 습하네요
+P0 	: 저희 지역도 조금 흐려요
+P1 	: 비오기전 습한 날씨는 별로에요. 비가 차라리 시원하게 왔으면 좋겠어요
+P0 	: 네~태풍온다는 말도 있더라고요
+P1 	: 태풍이 오는군요 ㅜㅜ

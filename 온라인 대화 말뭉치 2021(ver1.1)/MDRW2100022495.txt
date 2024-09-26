@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022495
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 점심 맛잇게 드셧어요?
+P1 	: 네네
+P1 	: 모처럼 교외에서 밥 먹었어요
+P0 	: 오 메뉴가 뭐엿어요??
+P1 	: 쌈밥이요 !ㅋㅋ
+P1 	: 맛있는녀석들 다녀간 맛집이라던데
+P1 	: 생각보다 더 괜찮았어요 ㅋㅋ
+P0 	: 오.. 그 식당에 나오는 곳이면 맛은 보장되겟네요 ㅋㅋㅋ
+P0 	: 고기 쌈밥이에요??
+P1 	: 우렁쌈밥이요!
+P1 	: &name1&은 최근에 맛집 어디 다녀오셨어요? :)
+P0 	: 와 맛잇겟다 ㅎㅎㅎ
+P0 	: 저는 요즘에 배달음식만 시켜먹게되서
+	  식당은 잘 못갓어요 ㅠ
+P1 	: 배달음식도 맛집 많죠 요즘 ㅎㅎ
+P1 	: 음료도 배달되는거보고 놀랐어요 ㅋㅋ
+P0 	: 맞아요 ㅎㅎㅎㅎ막 편하게 잇어도 아메리카노도 배달해주고
+P0 	: 세상이 참 좋아졌어요 ㅋㅌㅋ
+P1 	: 맞아요~~
+P1 	: 요리 직접 해드시기도하세요?
+P0 	: 네..!! 자주해먹어요 ㅎㅎ 챠밍정님도요?
+P0 	: &name2&도 집에서 잘 해드세요?

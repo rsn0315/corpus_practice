@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100031042
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 커피는 드시나요?
+P1 	: 아 저는 주로 고구마랑 포테이토요
+P0 	: 아 커피 잘안먹어요ㅜ
+P0 	: 포테이토 맛있죠 저도 자주시켜먹어요
+P0 	: 커피 좋아하세요?
+P1 	: 아니용ㅎ
+P1 	: 포테이토는 어디서 주로 시켜드세요?
+P0 	: 도미노요 할인할때만 시켜요
+P0 	: 피자 넘 비싸서ㅜ
+P1 	: 그쵸 도미노는 할인안하면 뭔가 손해보는 기분이에요
+P0 	: 맞아요 요즘 피자집들이 다 그런거 같아요
+P0 	: 저렴한곳을 찾고싶은데 잘없네요
+P1 	: 네 피자한판에 4만 넘는것도 있더라구요
+P1 	: 그럴바엔 뷔페를가지
+P0 	: 물가가 점점 올라요ㅜㅜ
+P0 	: 내월급은 그대로인데 ㅜㅜㅜ
+P1 	: 우리나라가 유독 식재료가 비싼거같아요
+P1 	: 우유도 비싸고
+P0 	: 맞아요 진짜
+P0 	: 장보면 금방 십만원 넘어요
+P1 	: 근데 뭐 산게없고ㅠㅠ
+P1 	: 과자도 비싸고
+P0 	: 그니까요 ㅜㅜ
+P0 	: 저렇게사도 일주일이면
+P1 	: 요즘애들 과자 비싸서 어떻게 먹나요ㅋㅋ
+P0 	: 순삭이예요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100022281
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁드셧나요?
+P1 	: 네 저는 떡갈비 먹었어요
+P0 	: 헉...떡갈비
+P1 	: 레토르트인데 맛있더라구요
+P0 	: 어디걸로 드셨나요?
+P1 	: 비비고요
+P0 	: 아 비비고..비비고 다 맛있는 거 같아요
+P1 	: 뭘 사도 보통이상은 하는 느낌이죠?
+P0 	: 네네 떡갈비도 맛있나봐요
+P1 	: 네 돼지고기랑 소고기가 적당히 섞여서 맛이 좋아요
+P0 	: 아 육류제품은 확실히 닭고기섞인거보다 돼지고기 함량이 높은게 맛있더라구요
+P1 	: 그쵸.. 소고기가 많이들어간 건 너무 비싸지니..
+P1 	: 한번드셔보세요 밥에 물말아서 반찬으로 먹으니 뚝딱..
+P0 	: 아 저도 떡갈비 먹고싶네요..ㅠ
+P0 	: 여름에는 아이스커피가 맛있는거같아요

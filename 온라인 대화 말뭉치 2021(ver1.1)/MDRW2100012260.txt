@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012260
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 몇 명인데?
+P0 	: 좀 줄어드는 것 같던데 또 1800명대네
+P1 	: 훌... 4단계 언제 끝나 ㅠㅠ
+P0 	: 끝나기는 커녕 토착병 되게 생겼어
+P1 	: 결국 영국처럼 가려나.. 위드 코로나 ㅠ
+P0 	: 이제 확진자수 세는 게 별로 의미 없는 것 같아
+P1 	: 검사수 많으면 늘어나고 하니.. 별로 의미는 없지
+P0 	: 괜히 불안감만 더 생기고
+P1 	: 이제 아예 들여다보지도 않아 ㅎ 너무 많아서
+P0 	: 사람들 백신 접종 하고 있긴 하지만 다른 나라 봐도 별로 줄어들 것 같지 않아
+P1 	: 변이가 워낙 많으니
+P0 	: 4단계 너무 오래가니까 만성화되는듯
+P1 	: 점점 무뎌지는 것 같아

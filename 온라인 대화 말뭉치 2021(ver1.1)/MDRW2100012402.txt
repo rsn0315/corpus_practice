@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100012402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 산 물건 있으세요?
+P1 	: 동물의숲 타이틀을 샀어요
+P0 	: 게임 좋아하시나봐요
+P1 	: 게임좋아하죠!
+P1 	: 타이틀들은 중고로 살만해서 중고거래로 샀어요
+P0 	: 저는 오늘 감자칩 거래해요
+P0 	: 과자가 질려가지구
+P1 	: 와 그럼 몇개씩 거래하나요?
+P0 	: 2개요ㅋㅋㅋㅋㅋㅋ
+P0 	: 감자 2개랑 식물보호제 같이 팔았어요
+P1 	: 되게 일상적이고 신기하네요ㅋㅋㅋㅋㅋ
+P1 	: 묶음상품같기도하구
+P1 	: 중고거래 많이하세요?
+P0 	: 네 판매가 잘 되면 자주할 수 있을텐데요
+P0 	: 연락은 뜨문뜨문 와요
+P0 	: 그래도 팔리긴 하니까 좋아요
+P1 	: 구매하신 물품도 있으세요?
+P0 	: 학용품 같은 거 샀었어요!
+P0 	: 되게 싸게 올라와서요
+P1 	: 쏠쏠 하시겠다
+P1 	: 싸게사시고 안쓰는거 파시구
+P1 	: 온도 높으실거 같아요
+P0 	: 45도 정도 돼요 ㅋㅋㅋㅋ
+P0 	: &name2&님은 당근 자주 안하시나요?

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행하신 곳중 어디가 제일 좋으셨어요?
+P0 	: 다낭이요!
+P1 	: 아 다낭 좋다는 얘기 많이 들어봤어요
+P0 	: &name2&은 어디가 좋으셨나요?
+P1 	: 전 많이는 못다녀봣는데 일본이요ㅋ
+P0 	: 오 일본 좋져ㅋ 저는 유후인 좋더라구요
+P1 	: 요즘은 정말 아무데도 못가니까 답답하져ㅠ
+P0 	: 코로나 끝나면 어디든 가고싶어요
+P1 	: 맞아요 마스크좀 안하고 숨쉬고 싶네요
+P0 	: 진짜 마스크 안쓰고 살았던때가 기억도 안나요
+P1 	: 익숙해질거같지 않앗는데 금새  적응하더라고요 신기하게
+P0 	: 맞아요 ㅎㅎ 아직 백신을 못맞아서 맞으면 좀 더 자유로워 질까요?ㅜ
+P1 	: 저도아직이긴 한데
+	  요즘워낙 많이 나오니까 백신맞아도 여행은 못할거같아요ㅠ
+P0 	: 그쵸 요즘 확진자가 너무 많더라구요ㅜ

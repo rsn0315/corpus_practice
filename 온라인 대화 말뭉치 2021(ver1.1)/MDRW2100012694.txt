@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100012694
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 군 어때요?
+P1 	: ㅋㅋ군알못 ㅋㅋㅋ 다녀오셨나요
+P0 	: ㅠ
+	  네 공군
+P1 	: 아 멋지네요 공군 ㅎㅎ
+P0 	: 길어요
+P1 	: 대신 휴가가 길어서 좋지 않아요?
+P0 	: 군생활이 길죠
+P1 	: 그쵸ㅜㅠ 고생많으셨습니다  ㅠㅠ
+P0 	: 재대하니 괜찮아요
+P1 	: ㅎㅎㅎ 후련하시겠네요
+P0 	: 네 편해요
+P1 	: ㅎㅎ 제대하면 학업과 직장 스트레스가 또 ㅠㅠ 군대 있으때가 학생때가 좋고 ㅋㅋ
+P0 	: 네 맞아요

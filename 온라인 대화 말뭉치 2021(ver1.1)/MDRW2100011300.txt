@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100011300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요:)
+P1 	: 아침은 드셨나요?
+P0 	: 네네 저는 볶음밥이요
+P0 	: 님은요?
+P1 	: 저는 빵먹었어요:)
+P1 	: 볶음밥은 직접 하신건가요?
+P0 	: 아뇨 냉동볶음밥이요ㅋㅋㅋ
+P0 	: 빵도 맛있겠어요 식빵인가요?
+P1 	: 아항 냉동볶음밥 ㅋㅋ
+P1 	: 새우?김치? ㅋㅋ
+P1 	: 저는 양파치즈브레드요ㅋㅋ
+P0 	: 새우요ㅋㅋㅋㅋ
+P0 	: 맛있나요? 양파치즈브레드
+P1 	: 오 새볶 맛있었겠네요!
+P1 	: 빠바 양파치즈브레드
+	  전자렌지에 살짝 돌려먹음
+	  완전 맛나영ㅋㅋ
+P0 	: 오 좋네요ㅋㅋㅋ
+P0 	: 점심은 뭐드시나요?
+P0 	: 저는 라면이땡기네요
+P1 	: 저는 볶음밥이 땡기네요?ㅋㅋ
+P1 	: 어떤 라면 드시려구요?
+P0 	: 저 짜파게티요ㅋㅋㅋㅋ
+P1 	: ㅋㅋ짜파게티는 언제 먹어도 맛있졍
+P1 	: 2개 끓이셔야겠어요 ㅋㅋ
+P1 	: 한개 반이 딱 좋은데
+	  한개반으로 출시좀 해줌 좋겠어여
+P0 	: 제말이요
+P0 	: 두개는 많고
+P0 	: 하나는 부족해요ㅠㅠ

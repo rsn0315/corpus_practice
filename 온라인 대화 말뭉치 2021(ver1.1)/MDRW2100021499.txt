@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021499
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘에 날씨가 너무 왔다갔다해요
+P1 	: 우산을 항상 들고다녀야겠더라구요ㅜㅜ
+P0 	: 맞아요
+P0 	: 가을장마래요!  처음 들어봤어요
+P1 	: 뭔가 날씨에 따라 오는게 반박자씩 늦춰진거 같아요
+P0 	: 헐 그런가요?
+P0 	: 뉴스도 안맞더라구요
+P1 	: 아 최근에 기사에서 폭염에도 이름붙여야한다는 논의가 있다는걸 봤어요
+P0 	: 아그래요?? 신기하네요
+P0 	: 폭염에 이름이라니..!
+P1 	: 슈퍼컴퓨터도 예측하기 힘든 날씬가봐요
+P1 	: 태풍에 이름 붙이잖아요
+P0 	: 아~ 그런거처럼 붙이려는건가요
+P1 	: 이름까지 붙이니 사람들이 심각하게 생각하고 주의하니까요
+P1 	: 네 폭염도 조심해야한다는 취지로 발의한 것 같아요
+P0 	: 그것도 그러네요 폭염이 너무 심하더라구요
+P1 	: 폭염에 사망자도 많이 나오니까요ㅜㅜ
+P1 	: 갈수록 더워져서 큰일이에요
+P0 	: 맞아요 더워서 사망자가 나오다니..
+P0 	: 더위에 사람이 죽으리라고는 생각도 못한 일인데요 예전엔..

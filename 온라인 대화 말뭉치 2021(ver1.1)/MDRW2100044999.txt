@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044999
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 서브웨이 좋아하시나요?
+P0 	: 네네 멀어서 자주안가지만 좋아해요
+P1 	: 어떤 메뉴 주로 시켜드세요?
+P0 	: 저 비엘티요 피클류는 빼고먹어요
+P0 	: &name2&님은요?
+P1 	: 저는 예전에는 에그마요에 베이컨추가 먹었었는데 요즘에는 터키 많이 먹어요!
+P0 	: 크 터키도맛있져 에그마요도넘사랑해요
+P0 	: 빵은뭘로하세요
+P1 	: 플랫브래드 먹다가 허니오트로 갈아탔어요!
+P1 	: 어떤 빵 드시나요?
+P0 	: 저도 허니오트항상먹어요
+P0 	: 소스는어떤거드세요
+P1 	: 렌치 스윗어니언 핫칠리 3개 조금씩 뿌려먹어요
+P1 	: 소스조합 어떻게 드시나요
+P0 	: 저도 렌치랑 스윗어니언이여 전 2개 ㅎㅎ 안드시는야채같은거있으시나여
+P1 	: 오이만빼고 올리브 많이요 !!
+P1 	: 피클은 먹어용 ㅋㅋ
+P0 	: 아하 ㅋㅋㅋㅋㅋ?생오이를 안드시는군여

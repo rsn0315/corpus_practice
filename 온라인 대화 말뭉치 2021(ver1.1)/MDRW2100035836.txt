@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100035836
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P0 	: 안녕하세요!
+P0 	: 식사하셨어요~?
+P1 	: 네~ 먹었어요ㅎㅎ
+P0 	: 저녁은 뭐드실꺼에요~~시간빠르네요ㅠㅠ
+P1 	: 네~ 시간 정말 빨라요ㅜㅜ
+	  아직 저녁 생각을 못 했어요
+P0 	: 그쵸ㅠㅠ 전 저녁메뉴정해서 뭔가 편해요 ㅎ
+P1 	: 저녁메뉴 무엇인가요?
+P0 	: 저녁에 집에들어가면서 닭탕 포장해가려구요!
+P0 	: 닭볶음탕에 국물이 많은거래요 ㅎ 저도 첨먹어봅니당!
+P1 	: 오 닭볶음탕 맛있겠어요! 
+	  국물이 많다니 사리면 추가하면 좋겠네요
+P0 	: 그쵸 집에서 당면을 넣어볼까싶어요!
+P1 	: 당면! 양념 베어들면 맛있죠
+P0 	: 날도 살짝흐리고 몸도 으슬으슬해서
+P0 	: 얼큰하게 골라봣어요 ㅎㅎ
+P1 	: 그럴때는 국물있고 따뜻한 음식이 생각나죠
+P0 	: 네ㅠㅠ 맞아요~ 밥만하면되겠어요!
+P1 	: 저녁먹을 시간이 기다려지겠어요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018005
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니 없다
+P0 	: 빨리 써야하는뎅 살게 없네
+P1 	: 그럼 강아지 간식사라
+P0 	: 오 좋은생각
+P1 	: 그래 다 떨어져간다
+P0 	: 그렇군 그럼 빨리 사야겠네! 오키
+P1 	: 치석제거되는 간식 위주로
+P0 	: 옹옹!
+P1 	: 그래 낼 배송오는가 그럼?
+P0 	: 아니지 모레는 돼야 할듯
+P1 	: 그렇군 빨리 시켜라
+P0 	: 알았어용
+P1 	: 거의 다 떨어짐

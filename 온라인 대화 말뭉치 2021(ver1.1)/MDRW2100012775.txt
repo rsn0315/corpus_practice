@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100012775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 요새 학교생활은 어떠세요?
+P1 	: 별로..
+P0 	: 대면수업 받고계신가요?
+P0 	: 학교생활은 늘 재미없죵.. 코시국에 10대는 어떻게 학교수업받나 궁금해서요~~
+P1 	: 아...
+P1 	: 대면수업이라
+P1 	: 더 싫어요
+P0 	: 어우 하필 대면이시군요ㅠㅋㅋㅋ
+P0 	: 비대면 하시다가 대면수업하게된건가요?
+P1 	: 음...
+P1 	: 올해는 거의 대면
+P0 	: 아 그럼 타학교 학생들도 대면인건가요?
+P0 	: &name2&님 학교만?
+P1 	: 네
+P0 	: 그럼 더 대면 짜증나겠어요ㅋㅋㅠ
+P0 	: 학교에서 비대면 예정은 없대요?
+P1 	: 네
+P1 	: 없다네요..
+P0 	: 고등학생이세요? 중학생?
+P1 	: 고등학생이요
+P0 	: 아하 그럼 뭔가 배우는게 더 어려워서 가기 싫겠다..
+P0 	: 비대면은 녹화수업이었어요 실시간이었어요?
+P1 	: 둘다였어요

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100018012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지마켓 쓰시는구나
+P0 	: 어디 쓰시나요?
+P1 	: 저도 네이버쇼핑 잘 이용해요 네이버쇼핑이 편해서요
+P1 	: 위메프를 이용할때도 있구요
+P0 	: 위메프 전 가입이 안되어있고 티몬 씁니다
+P1 	: 최근에 지마켓에서 사신거 있으신가요?
+P0 	: 지금 막 닭갈비 주문할까 생각중이에요
+P1 	: 저는 얼마전에 옷을 샀어요:)
+P1 	: 위아래로 받쳐서 입을 수 있게요
+P0 	: 오! 가을맞이!!!
+P1 	: 언데웨어라서 가을맞이는 아니예요
+P0 	: 뭐든 사면 기분이 좋죠!
+P1 	: 네 인정합니다
+P1 	: 소소하게 구매하는게 가끔은 기분좋을 때도 있지요
+P1 	: 선물받아서 기분좋았던게 있으신가요.
+P1 	: ?
+P0 	: 현금이랄까요...
+P0 	: 너무 솔직했죠..
+P1 	: 아니요ㅋㅋㅋㅋㅋ 현금을 싫어하는 사람은 없죠 ㅋㅋㅋ
+P1 	: 귀엽네요 ㅎㅎ
+P1 	: 닭갈비는 사셨나요?
+P0 	: 아직요
+P0 	: 엄마 영양제 보고있어요
+P1 	: 영양제요?
+P1 	: 어떤걸 보시나요? 비타민인가요?
+P0 	: 네 비타민디 다 드셨다고..
+P0 	: 넵

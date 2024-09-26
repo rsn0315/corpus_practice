@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100047372
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 영화 보셨나요?
+P0 	: 최근 본 영화 있나요?
+P1 	: 랑종을 봤어요
+P1 	: &name1&님은요,
+P0 	: 저는 모가디슈를 봤어요
+P1 	: 모가디슈 평 좋던데
+P1 	: 재밌나요?
+P0 	: 네 재밌었어요 ^^
+P1 	: ㅎㅎ 볼까말까 했었는데
+P1 	: 지금은 극장에서 내렸으려나요
+P0 	: 전 재밌어서 주변에 추천도 했네요^^
+P1 	: 어 아직 안 내렸네요
+P1 	: 코로나로 개봉영화가 적으니 텀이 긴가봐요
+P1 	: 아직 극장 걸려있을 때 봐야겠어요
+P1 	: 극장에 사람은 많던가요?
+P0 	: 그러게요 공연계도 코로나때문에 타격이 크겠어요
+P1 	: 네 그와중에 제가 예약한 공연들은 그래도 관객점유율이 높은데
+P1 	: 실험적인 공연은 정말 어렵겠어요
+P0 	: 어떤 공연 예약하셨나요
+P1 	: 조드윅이요
+P0 	: 와우 대박이네요~^^
+P1 	: 그전에 시카고도 사람 많았고요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046289
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 요즘 취미로 무엇을 하고 계신가요?
+P0 	: 앱테크 하고있습니다!
+P1 	: 혹시 추천하는 앱테크 있나요!?
+P0 	: 닥터나우 입니다!
+P1 	: 그건 어떤식으로 앱테크하는건가요?
+P0 	: 추천인 입력하면 스벅 깊콘 주는거에용
+P1 	: 음~ 옛날에 당근마켓도 추천인 입력하면 스벅 기프티콘 줬었는데! 그때도 하셨나요?
+P0 	: 아니요 ㅜ
+	  그건 안했어요
+P1 	: 앗 앱테크에는 언제부터 관심이 생기셨나요??
+P0 	: 1달 정도 됐고
+	  30 벌었어용
+P1 	: 오..수입이 꽤 괜찮네요 ㅎㅎ! 닥터나우 말고는 다른 추천하는 앱테크 없나요?
+P0 	: 이게 추천인 이밴트는 장기적으로 하는게 아니어서
+P0 	: 지금 추천할게 없네요 ㅜ
+P1 	: 아~ 아쉽네요!
+	  앱테크 열심히 하셔서 더 많은 수익 내시길 바랍니다! 오늘 오후도 즐거운 하루 되세요!!
+P0 	: 넵 감사합니다!

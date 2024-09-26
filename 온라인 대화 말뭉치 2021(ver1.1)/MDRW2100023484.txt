@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100023484
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요
+P0 	: 요즘 여행 어디 다녀오셨나요?
+P1 	: 전 캠핑다니고 있어요^^
+P1 	: 저번주는 경남 의령에 있는 캠핑장 다녀왔답니다
+P1 	: 여행 좋아하시나봐요
+P0 	: 여행 좋아해요 오 좋은곳에 다니시네요
+P0 	: 코로나때문에 가까운 곳만 가게되요
+P1 	: 어디 다녀오셨어요??
+P0 	: 최근엔 서해쪽 안면도 다녀왔어요
+P1 	: 와 안면도 
+	  8년전에 갔다왔었는데^^
+P1 	: 오랜만에 이름들어보네요 ^^
+P1 	: 전 코로나 때문에 작년부터 캠핑시작했어요
+P0 	: 캠핌도 예전엔 했는데 요즘은 안하게 되더라고요
+P0 	: 전 근처라서 바람 쐬러 잠깐 다녀왔어요
+P1 	: 아 그쪽에
+	  사시는군요^^
+P1 	: 안면도가서 게장 엄청 맛있게 먹었는데 ㅎㅎ
+P0 	: 아 진짜요? ㅋㅋ 최근에 갔다오셨던 곳 중에 어디가 좋았나요? 추천부탁드려요
+P1 	: 전 주로 캠핑장을 가는데 
+	  청송 수달 캠핑장도 좋았고
+	  성주 다놀자캠핑장
+P1 	: 이번에 갔던 의령 설뫼충효테마파크도 좋았어요^^
+P1 	: 가을되면  서해쪽에 갯벌체험하러 가려구요
+P0 	: 아 좋은 곳 많이 다니시네요ㅋㅋ
+P0 	: 참고해야겠어요

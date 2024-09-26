@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100032090
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요새는 매일 매일 비가 와서 멀리 나가기가 힘드네요
+P0 	: 먹을 얘기는 끝이 없지요
+P1 	: 음식이 장입니다
+P1 	: 돈가스로 1시간을 얘기할 수도 있지요
+P0 	: 오늘도 비가 오나요 여기는 비 오지 않습니다
+P1 	: 학교 식당에서 돈까스는 있었어요
+P1 	: 옛날 싸구려 돈까스
+P0 	: 남포동에 맛있게 하는 돈까스 집 알고 있는데 추천해 드리고 싶군요
+P1 	: 도서관에서도 팔았지요
+P0 	: 아 학교 다닐 때 돈까스 정말 좋았지요
+P0 	: 도서관에서 돈까스도 팔았다고요
+P1 	: 제가 부산 가게 되면 맛집 리스트 부탁합니다
+P1 	: 우리 남포동에서 만나요
+P0 	: 네 제가 일정을 짜 드리도록 하겠습니다 배를 달려 놓고 오십시오
+P1 	: 중앙도서관 식당에서 돈까스 팔았어요
+P0 	: 배를 단련하고 오십시오
+P1 	: 그 냉동 돈까스 아시지요
+P0 	: 아 그 도서관 말씀하시는군요
+P1 	: &name1&은 전에는 배가 작았는데
+P0 	: R gorgo 돈가스는 정말 사랑입니다
+P1 	: 이제는 배포가 커졌네요
+P1 	: 영어 해석이 안되네요
+P1 	: 저거는 불가합니다
+P0 	: 먹을 것이 낙 이지요
+P1 	: 집 근처에 몸국 맛집이 있어요

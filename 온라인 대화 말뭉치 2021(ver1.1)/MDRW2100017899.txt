@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017899
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P1 	: 최근 구매 물건은 무엇인가요?
+P0 	: 화장품이요
+P0 	: &name2&은요?
+P1 	: 어떤 화장품사셨어요?
+P1 	: 저는 고양이 용품이요
+P0 	: 세럼샀구요 고양이용품이라면 장난감?
+P1 	: 모래랑 사료요!
+P1 	: 살 예정인 물건은 있으신가요?
+P0 	: 저는 머그컵사려구요
+P1 	: 집에서 쓸 머그컵이요?
+P0 	: 사무실용이요
+P0 	: 오래되서 바꾸려구요
+P1 	: 맘에 드는건 찾으셨어요?
+P0 	: 노란색이랑 검정색중에 고민중이에요
+P1 	: 같은 모양인가요?
+P0 	: 네 같은모양이에요 추천해주시겠어요?
+P1 	: 저는 노란색이 좋다고 생각해요
+P0 	: 추천감사합니다 ㅎㅎ

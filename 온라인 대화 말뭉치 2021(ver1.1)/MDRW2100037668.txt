@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100037668
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 좋아하세요?
+P0 	: 네 근데 못 간지 한참 됐네요 ㅠ
+P0 	: &name2&님은 기억에 남는 여행지가 있으신가요?
+P1 	: 저도 코로나 때문에 못간지 한참 됏어요
+P1 	: 전 국내에서는 청산도가 참 좋앗어요
+P0 	: 청산도는 어디쯤에 있나요?
+P1 	: 완도에서 배를 타고 한시간쯤 가면 있어요! 전라남도예요
+P0 	: 꽤 오래 들어가네요. 어떠셨어요?
+P1 	: 섬 자체가 작고 예뻤어요
+P1 	: 비성수기라 사람이 적어서 더 좋앗어요
+P0 	: 힐링 여행이었겠어요ㅎㅎ
+P1 	: 한참을 걸으면서 몸도 마음도 차분해지더라구요
+P1 	: 바다도 너무 예쁘고
+P1 	: &name1&님은 기억에 남는 여행지가 어디세요?
+P0 	: 국내 여행지 중에는 보성 갔을 때가 기억에 남아요
+P0 	: 비가 엄청 왔었는데 힘들긴 했어도 인상적인 추억이었어요ㅎㅎ
+P1 	: 아 보성도 예쁘죠
+P1 	: 녹차아이스크림도 너무 맛잇엇고 ㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋ 다음에 날 좋을 때 한 번 더 가보고 싶어요
+P1 	: 맞아요 저도 청산도 유채꽃이 필무렵에 한 번 더 가보고싶어요
+P1 	: 같은여행지라도 언제 누구랑 가느냐에 따라 느낌이 다른게 여행의 매력인것같아요

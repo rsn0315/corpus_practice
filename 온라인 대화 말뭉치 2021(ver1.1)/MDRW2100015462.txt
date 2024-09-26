@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100015462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 드셨나요?
+P1 	: 네! 미역국 먹었어요
+P0 	: 홍합 넣은 거였나요 아니면 소고기???
+P1 	: 들깨요!!!!
+P0 	: 오 맛있었겠네요
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 저는 한식이면 다 좋아해요
+P0 	: 그 중에서도 좋아하시는 음식이 있다면?
+P1 	: 순두부찌개가 특히 끌리네요 &name1&님은요?
+P0 	: 저는 칼국수요
+P1 	: 오 칼구수 좋죠 찐만두까지 곁들이면 금상천화겠어요
+P0 	: 칼국수 정말 맛있죠
+	  순두부찌개는 어떤 순두부찌개 좋아하시나요?
+P1 	: 저는 매콤하고 고추기름 둥둥 떠있는 순두부찌개를 좋아해요
+P0 	: 그렇군요

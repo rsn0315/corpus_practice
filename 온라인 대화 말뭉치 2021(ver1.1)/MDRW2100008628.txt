@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&&others&~^^
+P1 	: 안녕하세요 샘^^  요새드라마 뭐보세요?
+P0 	: 저 티비를 잘 안 봐요
+P0 	: 샘은 뭐 보세요?
+P1 	: 넷플릭스로 이것저것 많이 봅니다ㅎ
+P1 	: 드라마 대부분 봐요^^
+P0 	: 요즘 슬의생2 하던데 보시나요?
+P1 	: 네네! 보세요?? 1도봤어요!
+P0 	: 전 1도 안봤는데 기사 봤어요ㅋ
+P0 	: 많이들 보시는건 제목은 알지요ㅎ
+P1 	: ㅋㅋㅋ 펜트하우스도 들어보셨죠?
+P0 	: 들어는 봤는데, 그건 내용을 잘 몰라요. 어떤 스토리에요?
+P1 	: 돈때문에 서로 싸우고 합심했다 배반하고 복수하고 그래요!!
+P0 	: 돈이 늘 문제지요.
+P0 	: 누가 주인공이에요,
+P0 	: ?
+P1 	: 아..배우이름은 기억안나고 극중이름만 떠오르네요ㅎ
+P0 	: 저도 검색해봐야 배우 이름 알겠더라고요.ㅎ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034452
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 점심은 뭘 드실 예정인가요?
+P0 	: 전 오랜만에 피자시켰어요~
+P1 	: 오 맛잇겠네요! 무슨 피자인가요?
+P0 	: 파파존스요!!
+P1 	: 야미파파~야미파파~
+P1 	: 파파존스에서는 무슨 피자가 맛있나요?
+P0 	: 앜ㅋㅋㅋㅋ 저는 존스페이버릿이나 스치랜 두개좋아해요!
+P1 	: 저는 지방이라 근처에 파파존스 매장이 없어서 한 번도 못먹어봤어요 ㅠㅠ
+P0 	: 앗 정말요?? 왜 파파존스매장이 적은건지 ㅠㅠ
+P1 	: 그러게요 아쉽네요 ㅠㅠ 다음에 파파존스 매장 있는 지역에 놀러가면 먹어볼게요
+P0 	: 네!! 꼭이요~ 진짜 미국피자의맛!
+P1 	: 네!! 기대되는 맛이네요!! 사이드 메뉴도 드시나요?
+P0 	: 치즈스틱이랑 브라우니 유명하더라구요~ 근데 사실 전 사이드는 잘 안시켜먹어요 ㅋㅋ
+P1 	: 브라우니 맛도 기대되네요! 파파존스 기다려라!

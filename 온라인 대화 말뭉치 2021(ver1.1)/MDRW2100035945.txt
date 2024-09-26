@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100035945
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세용
+P0 	: 식사는 하셨어요?
+P1 	: 곧 먹으려구요 &name1&님은요?
+P0 	: 저는 뭐 먹을지 아직 고민하고 있어용ㅎㅎ
+P0 	: 뭐 드실거에용?
+P1 	: 열무국수 해먹으려구요
+P0 	: 오오 맛있겠네용~~
+P0 	: 저는 고민 끝냈어요 수제버거 먹으려구요!
+P1 	: 헐 수제버거 맛있겠어요
+P1 	: 안먹은지 오래됐는데
+P0 	: 수제버거 좋아하시나봐요ㅎㅎ
+P0 	: 아무래도 직접 가서 먹는 경우가 많은데 코로나때문에...ㅠ
+P1 	: 예전에 이태원에서 수제버거 먹어봤는데 너무 좋아서요
+P1 	: 코로나ㅠ 때문에 갈수가 없네요
+P0 	: 아 이태원에 수제버거 맛집 진짜 많죠ㅎㅎ
+P0 	: 무슨 음식 좋아하세요?
+P1 	: 저는 간단하게 라면 좋아해요
+P0 	: 저도 라면 좋아해요! 참깨라면ㅋㅋㅋ
+P0 	: 고소하더라구요
+P1 	: 맞아요 참깨라면 고추기름 유무에 따라서 맛 다른것도 매력이에요
+P0 	: 네네 저는 꼭 풀어먹어요 계란도 추가하구요ㅎㅎ
+P1 	: 맞아요 계란블럭만으로는 부족하죠

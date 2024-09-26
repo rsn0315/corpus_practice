@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100006025
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 시사(정치, 경제, 사회)>모더나 600만회 분량 순차 공급
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신맞으셨나요
+P1 	: 저는 우선접종자였는데
+P1 	: 미뤘다가 예약이 안돼서
+P1 	: 아직 못맞았어요
+P1 	: 백신 맞으셨어요?
+P0 	: 네 저는 맞았습니다 그럼 이제 예약순번이 언제 오는건가요?
+P1 	: 음 예약하려고 들어가면
+P1 	: 대상자가 아니라 뜨더라구요
+P1 	: 그래서 잔여백신잡는거아니면
+P1 	: 아직 안되는거같아요
+P0 	: 그러시군요 선호하시는 백신 종류 있나요
+P1 	: 음 저는 모더나가 나을거같아요
+P1 	: 근데 워낙 요즘수량이 부족해서
+P1 	: 주변은 화이자 대부분 맞더라구요
+P0 	: 그러게요 주변도 화이자가 대부분인데 선호는 모더나가 높은 것 같았어요
+P1 	: 모더나가 좀더 델타변이에 강하다고 하네요
+P1 	: 근데 중소라서 그럱
+P1 	: 확실히 수급에 문제가 있는거같아요
+P0 	: 주변에 모더나 맞은 사람 딱 한명 봤어요
+P1 	: 전 저희아빠만 봤어요
+P1 	: 동네병원에 전화했더니
+P1 	: 나이많다고 모더나줬다네요
+P1 	: 같이온 20대는 화이자주고
+P0 	: 아 연령대별로 또 다르군요 
+	  이번에 순차공급되면 물량이 더 풀리겠죠...
+P1 	: 네 제때공급돼서
+P1 	: 6주로 미뤄진것도
+P1 	: 빨리 정상화되길
+P0 	: 접종 간격이 6주로 미뤄진게 공급차질때문이라면서요?

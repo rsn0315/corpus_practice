@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100017995
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: ㅎㅇㅎㅇ
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 오늘날씨 좋았죠?
+P0 	: 네!
+P0 	: 오늘 날씨 비가와도 너무 좋더라고요
+P0 	: 좋아하는 사람이랑 있다보니까
+P1 	: 혹시 덥다고 붙지말라고 말하지 않았나요
+P0 	: 흥 답이 좀 많이 늦으시네요
+P0 	: 누가요?
+P0 	: 제가요?
+P1 	: 네
+P1 	: 상처받았다는데
+P0 	: {emoji:♡}
+P1 	: {emoji:♥}
+P0 	: 이제 괜찮아요 가을이라서 쌀쌀해서 그래요
+P1 	: ?
+P1 	: 무슨말씀이신지 모르겠어요
+P0 	: 쌀쌀해서 쓸쓸하게 상처받은거예요
+P1 	: 어느 계절을 좋아하시나요?
+P0 	: 저는 겨울이요
+P1 	: 왜 겨울을 좋아하시나요?
+P0 	: 제 생일이 있거든요
+P1 	: 오오 12 1 2월중
+P1 	: 언제가 생일이신가요
+P0 	: 12월이요

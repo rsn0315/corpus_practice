@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013583
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 스포츠 좋아하세요?
+P0 	: 가끔씩 보는 편이에요ㅎㅎ
+P0 	: 어떤종목 좋아하세요?
+P1 	: 저는 여자배구 좋아해요!
+P0 	: 저도 김연경 선수덕분에 여배 한번씩 보긴 했어요
+P0 	: 역시 흥국 좋아하시나요?
+P1 	: 아니요 전 다른팀 좋아해요ㅎㅎ
+P0 	: 어느팀 좋아하세요?
+P1 	: 저는 인삼  현대건설 좋아해요!
+P0 	: 황고라인 있는데 맞나요?
+P1 	: 넵넵!! 혹시 여배 좋아하세요?!!
+P0 	: 한번씩 보긴 했어요ㅋㅋㅋ
+P0 	: 남자배구도 봤구
+P1 	: 여배는 어느팀 응원하세요?!
+P0 	: 흥국이죠 당연히
+P0 	: 강팀충이여서
+P1 	: 제일 좋아하는 선수 있으세요?!
+P0 	: 역시 연경킴
+P1 	: 연경 선수는 만인의 최애잖아요ㅋㅋㅋ

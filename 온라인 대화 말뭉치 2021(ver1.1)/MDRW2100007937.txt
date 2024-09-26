@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007937
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하는 프랜차이즈 있으세요?
+P0 	: 스벗 제일 좋아하죠ㅎㅎ 어디 좋아하세요?
+P1 	: 저도 스타벅스 좋아해요
+P1 	: 좋아하시는 메뉴 있으세요?
+P0 	: 저는 자바칩프라푸치노ㅎㅎ 당줄여야하는데 ㅠㅠ
+P1 	: 액상과당이 치명적이죠
+P0 	: 근데 커피를 안마시면 하루가 너무 힘들어서ㅠㅠ
+P1 	: 커피 없이 살기에는 일이 많죠
+P1 	: 저도 하루에 한잔은 마셔요
+P0 	: 아메리카노로 바꿔야하는데 또 그건 싫구ㅎㅎ
+P1 	: 저도 아메리카노는 못 마시겠어요
+P1 	: 그 쓴걸 어떻게 마시지
+P0 	: 그니까요ㅠㅠ
+P1 	: 시럽 안 넣고는 안돼요
+P0 	: 저도 그래요ㅎㅎ

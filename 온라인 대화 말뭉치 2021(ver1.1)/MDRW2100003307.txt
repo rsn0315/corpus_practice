@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100003307
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 구직중이신가요?
+P1 	: 네 맞아요!! &name1&님은요??
+P0 	: 전 회사 다니고있어요
+P0 	: 어느쪽 보시나요?
+P1 	: 음.. 사무직 생각하고있는데 너무 두루뭉실하죠?
+P0 	: 그럼 컴퓨터 잘하시겠네요
+P1 	: 음 조금요!? ㅎㅎ 자격증 최대한 땄어요
+P1 	: 컴활2급이랑 사무자동화산업기사 이런거요!
+P0 	: 자동화 좋네요
+P1 	: &name1&님은 어떤 직무에 일하고 계신가요?
+P0 	: 품질입니다
+P0 	: 현장도가고요
+P1 	: 아 진짜요? 멋있는 일 하시네요!
+P0 	: 감사합니다
+P1 	: 현장가면 피곤하지않으세요??
+P0 	: 피곤하고 힘들긴해요 여름은진짜 힘들어요

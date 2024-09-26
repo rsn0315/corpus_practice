@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017358
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 맞으셨으면 오늘 푹 쉬셔야겠어요
+P0 	: 건강 챙겨야죠
+P1 	: 네 그래도 아직까지는 별 다른 증상이 없네요
+P0 	: 화이자 맞으신건가요?
+P1 	: 네 화이자 맞았어요
+P0 	: 저도 화이자 맞았는데
+P0 	: 당일은 별 느낌 없다가 다음날 팔이 뻐근하더라고요
+P1 	: 약간 손이 저린 증상이 있긴한데 괜찮았음 좋겠네요
+P0 	: 건강히 잘 넘어가시길 바라요
+P0 	: 백신 접종 후 증상이 워낙 사람마다 달라서
+P1 	: 맞아요 항체 형성이나 잘 됐으면 좋겠어요 ㅋㅋ
+P0 	: 네네
+P0 	: 저는 곧 2차 접종인데
+P0 	: 화이자는 2차접종 후가 힘들대서 걱정이예요ㅜ
+P1 	: 그쵸 저도 2차가 두렵긴해요 ㅜㅜ
+P0 	: 건강하려고 맞는건데 건강을 해치는 경우도 있대서ㅜ
+P1 	: 그래도 지금은 백신 맞는게 최선이니 ㅜ
+P0 	: 네네 코로나 걸릴 수는 없으니까요ㅜ

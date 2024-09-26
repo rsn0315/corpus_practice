@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100024925
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name2& 똑똑
+P1 	: &name1& 안녕하세요
+P1 	: 최근에 구매한물건있나여
+P0 	: 오늘은 꽃을 샀어여
+P0 	: 화병에 꽂아서 테이블에 두면 인테리어 굿...
+P0 	: &name2&은 오늘 쇼핑 안하셨나요
+P1 	: 오 꽃을 자주 사시나봐요
+P0 	: 생화가 분위기 전환에 좋더라구여
+P1 	: 오 그렇군여 좋아하는 꽃 종류가 뭐야?
+P0 	: 아직 크게 좋아하는 건 없는데...
+P0 	: 프리지아가 좀 예뻤다
+P0 	: 걔는 말려도 노랑노랑해
+P1 	: 오 그렇구나
+P1 	: 나는 어제 원두 샀어
+P0 	: 오 어디서 인터넷?
+P0 	: 스벅?..
+P1 	: 인터넷에서 샀어 네이버쇼핑!
+P1 	: 스벅이 맛잇긴한데 다른데보다 비싸 ㅠ
+P0 	: 그렇긴 하지...
+P1 	: 오늘 내일 네이버플러스멤버십데이야
+P0 	: 멤버십 가입함?
+P1 	: 아니다 어제오늘이야 적립 많이돼
+P0 	: 난 한달 무료만 해보고 끝냈는데
+P1 	: 옹 첫달 무료길래 이번달에 첨써봤어
+P0 	: 오 ㅇㅇ 나름 적립 잘된다 아녀 ㅋㅋㅋ
+P1 	: 네이버쇼핑 잘 안해서 ㅋㅋㅋㅋㅋ
+P1 	: 그니까 적립 꽤되도라
+P0 	: 그때 막 배민도 네이버페이로 했었는데
+P1 	: 최근에 뭐 구매했어

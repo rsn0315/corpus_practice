@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100016529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하시는 음식점 있으세요?
+P1 	: 음... 요즘은 저희동네에 걸작이랑
+P0 	: 걸작 유명하더라구여
+P1 	: 네 치킨이 진짜 맛있어요
+P1 	: 두근돼지김치찜 여기도 맛있어요
+P0 	: 이름이 귀엽네요 ㅋㅋㅋㅋ 두근돼지 ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋ전 그냥 배민에서 주문많은순으로해서 시켜먹어요
+P1 	: &name1&님은 좋아하는데 있으세요?
+P0 	: 전 유가네닭갈비 엄청 좋아해요 ㅋㅋㅋ
+P0 	: 쫄면사리랑 먹으면 넘 맛나더라구여
+P1 	: 아 유가네 맛있죠!! 코로나전에 친구들이랑 엄청 먹으러다녔는데ㅋㅋㅋㅋ
+P0 	: 전 배달로 맨날 시켜먹어요 ㅋㅋㅋ
+P1 	: 완전까먹고있었는데 저도 오랜만에 시켜먹어야겠어요..ㅎ
+P1 	: 점심은 드셨어요?
+P0 	: 네 집밥 먹었어요 ㅋㅋㅋ 드셨어요?
+P1 	: 저는 롯데리아에 새우버거랑 치킨버거 두개 4200원 행사하길래
+P1 	: 그거 사와서 먹었어요ㅎㅎ
+P0 	: 와진짜 싸네요

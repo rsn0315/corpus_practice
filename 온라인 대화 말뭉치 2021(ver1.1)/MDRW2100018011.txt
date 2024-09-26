@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100018011
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 종류의 책 좋아해?
+P1 	: 나는 문학 종류? 너는?
+P0 	: 나는 가볍게 읽을 수 있는 소설을 좋아해
+P0 	: 가장 최근에 읽은 책은 뭐야?
+P1 	: '얼마나 닮았는가'야
+P1 	: 넌 단편소설 좋아해?
+P0 	: 얼마나 닮았는가? 한번 찾아봐야겠다
+P0 	: 응! 단편소설 좋아해 최근에는 돈공부 관련된 책도 자주 읽고있어
+P1 	: 재태크 책도 읽는거야?
+P0 	: 응 서점가면 요즘엔 베스트셀러에 재테크 관련이 많아서 더 접하기 쉬운거같아
+P1 	: 요즘도 서점 많이가?
+P0 	: 아니ㅠㅠ 요즘 코로나가 다시 심해져서 사람많은데는 잘 안가게 되더라고
+P0 	: 주로 책 살때 직접가서사? 아니면 온라인으로 사?
+P1 	: 나는 주로 도서관에서 본다음에 마음에 들면 온라인으로 사 너는?
+P0 	: 나는 오프라인에서 사
+P0 	: 왜냐면 우리지역은 3달인가 한번씩 책 3권까지 50퍼 할인된 가격으로 구매할 수 있어
+P1 	: 헐 서점에서 그렇게 살 수 있는거야? 대박이다
+P0 	: 응 지정된 서점에서만! 근데 최신책도 많고 좋아
+P1 	: 부럽다ㅠㅠ

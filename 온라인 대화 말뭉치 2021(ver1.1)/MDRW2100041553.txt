@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041553
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 무슨 음식 좋아하세요
+P1 	: 안녕하세요! 요즘은 날이 쌀쌀해서 그런지 우동이나 탕 종류 음식이 좋아요!
+P1 	: &name1&님은요?
+P0 	: 오 저도요ㅋㅋ 뜨끈한 거 좋아해요~ 고기도 좋아하시나요
+P1 	: 고기도 당연히 좋아하죠! 양고기도 소고기도 돼지고기도 좋지만 그 중 닭고기를 제일 좋아해요!
+P0 	: 오 저는 삼겹살!! 닭고기도 진짜 좋은데 다릿살만 좋아해요..
+P1 	: 다릿살도 좋죠! 삼겹살 요즘 못 먹은 것 같은데 삼겹살 너무 먹구 싶어요. 코로나 때문에 삼겹살 집을 못 갔거든요
+P0 	: 집에서는 안구워드시나봐요 ㅠㅠ
+P0 	: 요새 고기가 진짜비싸요
+P1 	: 네, 집에서는 냄새가 너무 금방 스며들어서 힘들더라구요. 에어프라이어가 없어서...
+P1 	: 헉 많이 비싼가요?
+P0 	: 네  두근사면 거의 5만원가까이던데요 흑흑...
+P1 	: 와, 엄청 비싸졌네요. 왜이리 비싸졌는지...
+P0 	: 넘 비싸죠 
+P0 	: 먹을수가없어요
+P1 	: 채소나 과일도 비싼데 뭐 먹을 게 없네요. 아이구...
+P0 	: 진짜요 ㅠㅠ 가공식품이 제일 나아요
+P1 	: 저도 그래서 집에 가공식품 꽉꽉 채워둔 것 같아요. 만두부터 볶음밥까지..
+P0 	: 오 저는 가공식품 냉동실에 자리가 

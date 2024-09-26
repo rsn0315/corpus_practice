@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007815
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 벌써?
+P0 	: 하루치는 미리 생각해 놓아야 바로바로 해먹으니까 ㅋㅋ
+P1 	: ㅎㅎ 닭갈비 먹고 남은걸로 닭갈비 볶음밥 해먹으면 되지
+P0 	: 오 천재인데?
+P1 	: 메뉴 여러개 정할 필요없이 한번에~~ ㅋㅋ
+P0 	: ㅇㅇ 그럼 계란탕만 더 끓여서 볶음밥이랑 같이 먹어야겠다
+P1 	: ㅎㅎ 내가 해줄께
+P0 	: 뭘 맨날 해준댕~~ 신랑 힘든데
+P1 	: ㅎㅎ 하나도 안힘들어
+P0 	: 안힘들긴ㅠ 오늘도 허리 아프다 하고선
+P1 	: 그건 디스크 때문에 그런거고 ㅎㅎ 볶음밥이랑은 상관없음
+P0 	: 그럼 저녁에는 닭갈비 볶음밥으로 ㅎㅎ
+P1 	: ㅇㅇ 콜

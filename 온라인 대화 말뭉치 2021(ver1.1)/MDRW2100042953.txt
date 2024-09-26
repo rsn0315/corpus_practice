@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100042953
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님!
+P1 	: 안녕하세요! 여행 좋아하세요?
+P0 	: 저 랜선 여행 좋아해요 ㅋㅋㅋ 실제로 가 본 적이 없어서 좋다고 말을 못하겠어요ㅠ
+P0 	: 가고는 싶어요!
+P1 	: 여행이 해외만 있는데 아니니까요 ㅋㅋㅋ 국내여행도 있잖아요!
+P1 	: 해외는 어디가보고 싶으세요?
+P0 	: 국내도 안가봤어요.......ㅠㅁㅠ
+P0 	: 스위스 가보고 싶어요
+P1 	: 앗 그럼 이제 코시국 끝나고 같 계획으로 짜보시는것도 좋죠!!
+P1 	: 저도 유럽 너무 가보고싶어요 ㅋㅋㅋㅋㅋ 경제적문제때문에 아시아만 깔짝거렸네요 ㅠ
+P0 	: 아시아 어디가보셨어요? 재밌으셨겠죠?
+P1 	: 저.. 학교에서 교류? 뭐 이런걸로 간건 필리핀이고..
+P1 	: 제돈주고 간건 일본이랑 상하이요!!
+P1 	: 재밌었어요 ㅠㅠㅠㅠㅠ
+P0 	: 우와 교환학생 그런거요?
+P1 	: 아 맞다 대만도 갔었거든요
+P0 	: 오!
+P1 	: 대만 좋아요 .... 나중에 기회되면 대만가보세요
+P0 	: 대만 좋다고 많이 들었어요

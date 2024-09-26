@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010657
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 무엇인가요,
+P1 	: 전 회,초밥이요
+P0 	: 오 저도 좋아해요 여름에도 드시는편인가요?
+P1 	: 신랑은 말리는데 전 자꾸 배달음식으로...끌리더라고요
+P0 	: 저도 지난주에 물회랑 초밥먹었어요 ㅋ
+P1 	: 가을이 회가 단단해요 봄엔 살이 흐물거리는데ㅡ 지금부터 산란전까지 맛있대요
+P0 	: 아 그렇군요 전 얼마전에 전어회도 먹었어요
+P1 	: 전어회 뭐에 찍어드시는 걸 좋아하세요?
+P0 	: 쌈장과 깻잎이랑 먹었어요 ㅋ
+P1 	: 생각만해도 맛나겠네요!! 저녁엔 뭐해먹을까요 매일고민이네요
+P0 	: 맞아요... 오늘은 전복이 와서 먹었네요 뭐드셨나요
+P1 	: 와 어디서 사셨어요?
+P1 	: 전단백질바랑 두유요..
+P0 	: 지마켓 농활쿠폰으로 샀어요 식단관리중이신가요?
+P1 	: 식욕이 안생기네요ㅜ
+P1 	: 뭘먹어야 맛있을까요?

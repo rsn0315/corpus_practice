@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100009611
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 동물 있어요?
+P1 	: 저는 새를 좋아해요
+P0 	: 앵무새 좋아하시나요?
+P1 	: 앵무새도 진짜 귀엽죠. 근데 새는 종류 상관없이 대부분 다 귀여운 것 같아요.
+P1 	: 반려동물 키우시나요?
+P0 	: 새는 다 귀여워하시는구나
+P0 	: 저는 못키워요
+P1 	: 알러지 때문인가요?
+P0 	: 집이 없어요
+P0 	: 원룸에서 못키워요 ㅜㅜ
+P0 	: &name2&님은 키우시나요?
+P1 	: 아무래도 원룸이면 그렇겠네요. 이사할 때 집 구하기도 힘들고
+P1 	: 저는 지금은 없어요
+P1 	: 예전에는 새를 키웠죠 ㅋㅋ
+P0 	: 새 좋았겠네요
+P0 	: 제가 아는 사람도 새 키웠어요
+P1 	: 저는 어렸을 때 문조를 키웠어요. 백문조
+P0 	: 처음 들어봐요
+P0 	: 이름이 멋지네요
+P1 	: 참새과라 참새 사이즈에요
+P1 	: 흰색에 다홍색 부리랍니다 ㅎㅎ
+P0 	: 우와 작나보네요
+P0 	: 듣기만 해도 귀여워보여요

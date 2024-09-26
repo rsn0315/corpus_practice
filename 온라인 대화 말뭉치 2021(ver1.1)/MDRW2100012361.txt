@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100012361
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 날씨 선선하죠?
+P0 	: 네~비가 와서 그런지 선선해졌어요^^
+P1 	: 환절기니까 감기 걸리지 않게 조심하세요~
+P0 	: 네네 감기 조심하세요! 
+	  요즘 시원한데.. 습해서 에어컨 틀게 되는데 감기 걸리기 쉬울 것 같아요.
+P1 	: 울집 아들은 땀을 그렇게 흘려요
+P0 	: 저희 애들도 잘 때 안 더운데도 그렇게 땀을 흘리더라구요ㅠ
+P1 	: 역시 애들이라
+P0 	: 그니까요..3살 짜리는 머리에도 땀내가ㅠㅠㅠ
+P0 	: 요즘 에어컨 트세요?
+P1 	: 요즘은 낮에만 틀어요
+P0 	: 전 집이 통풍이 별로 안 좋아서 저녁에도 살짝 틀고 자는데 이젠 춥더라구요ㅠ
+P1 	: 애도 조금 긴 옷으로 입혔어요
+P1 	: 이불을 안 덮어서 ㅋㅋ
+P0 	: 저도ㅋㅋㅋ 7부 입혀요~
+P0 	: 애들 이불 덮어줘도 차버려요 ㅠㅠ
+P1 	: 그래서 겨울엔 수면조끼 필수!!
+P0 	: 맞아요 겨울엔 필수죠ㅎㅎ
+P0 	: 이번주 일기예보 보니까 계속 비가 오더라구요..ㅠㅠ
+P1 	: 가을 장마라고 하더라구요
+P0 	: 맞아요 가을장마..
+P0 	: 집이 너무 습해요

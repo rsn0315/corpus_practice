@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011129
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 여행 어디 다녀오셨나요?
+P0 	: 저는 제주 여행 좋아해요!
+P1 	: 저도 넘가고싶어요 제주도ㅠㅠ
+P1 	: 올해다녀오셨어요?
+P0 	: 넵!
+P0 	: 섭지코지 진짜 추천합니다
+P1 	: 6월쯤 가려다 못갔거든요
+P1 	: 친구랑 날짜안맞아서
+P0 	: 그런데 지금은 제주도 4단계라ㅠㅠ
+P1 	: 네 그래서 올해는 가기 글렀다 생각중이요
+P1 	: 작년부터 아무데도 못갔어요 넘 우울ㅠㅠ
+P0 	: 하진짜 해외는 언제 나갈수있을지
+P1 	: 그니까요 매년  한번나가는게 낙이였거든요
+P0 	: 어디어디 가보셨어요?
+P1 	: 마지막여행지는 다낭이요
+P1 	: &name1&님도 많이가보셨어요?
+P0 	: 오 다낭 저는 세부요!

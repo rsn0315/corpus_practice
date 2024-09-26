@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100036015
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님 식사하셨나요?!
+P1 	: 네! 저 학교에서 일해서 급식먹는데
+P1 	: 오늘 멜론나와서 엄청많이먹었어요
+P0 	: 우왕 멜론 맛있겠다
+P0 	: 어떤 과일 제일 좋아하세요?
+P1 	: 저 복숭아랑 망고랑 멜론이요 단거 ㅋㅋㅋ
+P1 	: 수박도좋아요!!!
+P0 	: 오오 대부분 여름철 과일들이네요 여름도 좋아하실 거 같아요!ㅋㅋㅋ
+P1 	: 맞아요 ㅎㅎㅎ 저 여름과일을 되게 좋아해요
+P1 	: &name1&님은 어떤과일 좋아하시나요
+P0 	: 저는 귤이랑 오렌지 같은 거 좋아해요!
+P1 	: 좀 신 맛 좋아하시나요
+P0 	: 신맛은 아니고 시트러스향을 좋아해요...!ㅋㅋㅋㅋㅋ
+P1 	: 아하 상큼하고 싱그럽고 좋은거같아요 ! 저는 마냥 단것만 좋아해요 ㅋㅋㅋ
+P0 	: 앗ㅋㅋㅋㅋ 저도 과일말고 과자나 빵류는 그냥 단 거 좋아해요
+P1 	: 당뇨가 젤 무서워요 ㅋㅋㅋㅋ 이런거 못먹게될까봐
+P0 	: 아ㅋㅋㅋ 맞아요 그래서 쟁여두기만 한 것도 꽤 있어요

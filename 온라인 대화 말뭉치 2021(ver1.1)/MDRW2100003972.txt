@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003972
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일 하시나요?
+P1 	: 저희는 대가족이어서 각자 역할 분담해 하는 편이에요
+P0 	: 주로 어떤 일을 맡으시나요?
+P0 	: 저는 보통 제가 다 하거든요
+P1 	: 저는 장보기, 빨래건조, 재활용 분리수거, 종종 설거지나 청소기 해요
+P0 	: 많이 하시네요
+P1 	: 아 1인가구신가요?
+P0 	: 네 1인가구에요
+P1 	: 저는 저것들을 혼자하지 않고 늘 같이 해서ㅎㅎ
+P0 	: 그 중 제일 귀찮은건 뭔가요
+P1 	: 1인가구는 진짜 집안일 부담이 크죠ㅜㅠ
+P0 	: 저는 분리수거요ㅎ
+P1 	: 저는 설거지요ㅎㅎㅎ
+P0 	: 그것도 인정합니다
+P0 	: 뭔가 먹고 바로 해야하는거 아는데도 미루게되잖아요
+P0 	: 하고나면 아무것도 아닌데 그 아무것도 아닌게 왜 그리 귀찮은건지
+P1 	: 맞아요
+	  집안일은 미루는 순간 더 큰 짐이 되는 것 같아요
+P1 	: 대가족이라 한 번 설거지할 때 분량도 엄청나고요
+P0 	: 아 그러겠네요
+P0 	: 제가 너무 제 위주로 생각을 했어요
+P0 	: 편협적이었어요

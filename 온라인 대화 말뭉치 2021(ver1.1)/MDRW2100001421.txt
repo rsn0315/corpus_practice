@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100001421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211014
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕
+P1 	: 안녕하세요!
+P1 	: &name1&님은 오늘 어떤 하루를 보냈나요?
+P0 	: 그냥 그래
+P1 	: 그냥 평탄한 하루를 보내셨다는 의미일까요? :)
+P0 	: 평범한 하루였어
+P1 	: 좋은 하루를 보내셨네요! ㅎㅎ
+P1 	: &name1&님은 혹시 요즘 주식 하시나요?
+P1 	: 요즘은 주식이 아주 열풍인 것 같더라구요!
+P0 	: 나는 주식 같은거 안해
+P0 	: 돈 잃을까봐 무서워
+P1 	: 그렇군요 이런 신중한 태도도 굉장히 중요한 것 같아요
+P1 	: 그럼 &name1&님은 요새 관심 있거나 하는 것이 있나요?
+P0 	: 나는 코딩에 관심이 있어
+P1 	: 오 코딩이라니 정말 재밌겠어요!
+P1 	: 그러면 &name1&님은 나중에 코딩쪽으로 일하시는 건가요? ㅎㅎ
+P0 	: 그럴려고 노력중이야
+P1 	: 저한테는 코딩이 너무 어렵던데 &name1&님은 어려운 것도 하시고 대단하신 것 같아요!
+P1 	: 그러면 코딩으로 어느 방향으로 가실 계획인가요?
+P1 	: :)
+P0 	: 나는 네카라쿠베에 가고 싶어
+P1 	: 네카라쿠배..! &name1&님은 어딜 가나 멋진 코딩 인재가 되실 것 같아요 :)

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100002294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이쁜 가방 사고싶어요~
+P1 	: 오호 어떤거요~?
+P0 	: 명품...이쁜거 많더라구요 비싼건 달라
+P1 	: 앗 ㅋㅋㅋㅋ 명품가방 어디꺼 선호하세요?
+P0 	: 디올 가방 이뻐요!!!!
+P1 	: 오호 그렇군요^^ 검색좀해봐야겠네요 디올
+P0 	: 최근에 뭐 구매하셨어요?
+P1 	: 사실 저는 ㅋ 가방은 에코백만 들고 다니고 옷도 안산지 일년은 된거같고 
+	  아 ㅋ 최근에 산게 있네용 필라테스복 ㅋㅋ
+P0 	: 오 필라테스 좋죠
+P0 	: 필라테스 배우면서 집에 폼롤러도 사다놨어요ㅋㅋ
+P1 	: 저두 ㅋㅋ 폼롤러 샀어욧ㅋ
+P0 	: 스트레칭밴드도 같이 주더라구요!
+P1 	: 어머 그렇군요^^ 최근에 구매하신거 뭐 있으세요?
+P0 	: 여름에 입을 흰 반팔티 샀어요~

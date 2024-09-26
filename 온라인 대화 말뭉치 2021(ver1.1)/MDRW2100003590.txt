@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100003590
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 운동하세요?
+P0 	: 전 플라잉요가 다니고있어요!
+P1 	: 오  그거 배워보고싶던데 재밌나요?
+P0 	: 너무 아파요
+P0 	: 할때마다 멍들어서 하기싫어요...
+P1 	: 아 그래요?
+P1 	: 매달려서 해서그런가요?
+P0 	: 네 재미있는거보다
+P0 	: 아픈게 더 커서 ...ㅠㅠ
+P0 	: 그런거같아요 제 몸무게를 다 견뎌야하니가..
+P1 	: 혈액순환이 안돼서 그럴까요?
+P0 	: 아 플라잉요가 해먹이
+P0 	: 너무 아파요
+P0 	: 날씬해도 멍드는건 마찬가지인거같아요
+P1 	: 보기엔 쉬워보이는데 아닌가보네요
+P0 	: 저는 날씬하지않아서 더 멍이 많이들어요
+P0 	: ㅋㅋㅋㅋㅋㅋ 네 어려워요 ㅠㅠ
+P0 	: 그래서 하기싫어요 ..
+P0 	: &name2&님은 최근에 운동 하고있으신가요?
+P1 	: ㅎㅎ 전 줌바 하다가 코로나 터지고 암것도안해요
+P0 	: 우와 줌바는 어떤가요?
+P0 	: 재밌나요?
+P1 	: 줌바 잼난데 완전 추천해요
+P0 	: 우와 살도 빠지나요?
+P1 	: 라틴 레게 그런장르 음악틀고 춤추는거라
+P1 	: 땀도 많이나고 한시간에 열량소모가 많거든요
+P0 	: 우와 말만들어도 재밌겠어요

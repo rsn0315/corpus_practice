@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003120
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 민트초코 좋아하세요?
+P1 	: 네 저는 좋아해요ㅎㅎ 민초단이신가요?
+P0 	: 네.. 너무 좋아요ㅎㅎ
+P0 	: 전 민초가 호불호 갈릴다는 걸 처음 듣고 너무 놀랬어요
+P0 	: 이 맛있는게 왜 취향을 타지 싶었거든요ㅋㅋ
+P1 	: 저두요ㅎㅎ저도 싸한 느낌 좋아서ㅋㅋ싫어할 이유가 없는데~
+P0 	: 혹시 민트초코소주 드셔보셨어요?
+P1 	: 아 네ㅋㅋㅋ근데 제가 상상했던 맛이랑 다르더라구요ㅎㅎ 드셔보셨어요?
+P0 	: 네 후기가 너무 안 좋아서 걱정하면서 먹어봤는데 맛있더라구요ㅋㅋㅋ
+P1 	: 완전 민초파시군요ㅋㅋ저는 멀었네요
+P0 	: 페퍼민트도 비슷한 맛일줄 알고 페퍼민트차 먹어봤는데
+P0 	: 아무맛 안 나서 당황했어요
+P1 	: 아 저도 그 피스타치오ㅋㅋ 색깔만 보고 먹어봤는데 전혀 다른맛..ㅋㅋ
+P0 	: 민초초코랑 착각하는 사람들 많더라구요
+P0 	: 피스타치오도 맛있지 않나요?
+P1 	: 네 맛있는데 생각한 느낌이 아니라 당황했어요ㅎㅎ
+P0 	: 맛이 너무 다르긴하죠

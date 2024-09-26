@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100025223
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 벨트 샀어요?
+P0 	: 미안 잊어버렷엇내
+P1 	: 빨리좀 사주셔요
+P0 	: 네넵 딴건또 ?
+P1 	: 아직은 웂는뎅
+P0 	: 생각나면말해
+P1 	: 아아 스트레칭 되는고 그거 사죠
+P0 	: 스트레칭? 어떤종류
+P1 	: 서있기만 해도 스트레칭 되는거잇어
+P0 	: 아 그래 검색해볼게
+P1 	: 가격 저렴해  쿠팡에서봣엉
+P0 	: 링크좀 따주세요
+P1 	: 오케이요

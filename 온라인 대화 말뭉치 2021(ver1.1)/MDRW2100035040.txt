@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100035040
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 매운걸 잘 못 먹어서 시도해보지 않았어요...많이 맵나요ㅠ??
+P0 	: 아 맵긴해요 ㅠㅠ 순한맛으로 드시죠 ???
+P0 	: 매운맛 맵기이랑 비슷해요 !
+P1 	: 앗....그러면 나중에 로제랑 같이 먹어봐야겠네요...ㅋㅋㅋㅋㅋㅋ 바나나우유도 준비해야겠어요
+P0 	: 오 매울때 바나나우유도 괜찮나요 ㅋㄱ ??!
+P1 	: 생 바나나를 먹어도 좋듯이 생각보다 괜찮아여! 쿨피스가 너무 달 때 바나나우유를 먹어요ㅋㅋ
+P0 	: 아아 그렇네요 ㅋㅋ 매울때 바나나 먹는구나 !
+P0 	: 살짝 얼려먹어도 맛있겠어요 ㅋㅋ
+P1 	: 맞아요!! 한 개 가지고는 부족하니 한 팩 사다 먹어여ㅋㅋ
+P0 	: 그 보통 뚱바로 드시나요 ㅋㅋ ??
+P1 	: 네네!! 보통 뚱바가 제일 맛나더라구요ㅎㅎ
+P0 	: 맞아요 ㅋㅋ 뚱바가 원조인 이유가 있는 느낌이죠 ㅋㅋ
+P0 	: 그럼 매운거중에 좋아하는건 없으신가요??!
+P1 	: 등갈비 김치찜은 매워도 잘 먹어요!
+P0 	: 오오 ! 맛있죠 김치찜 ㅠㅠ
+P0 	: 만들어서 드시나요??
+P1 	: 집에서 부모님이 해주시거나 시켜먹어요...ㅎㅎ

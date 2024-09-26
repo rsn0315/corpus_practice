@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015345
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나도 몰랐어
+P0 	: 지금도 그렇게 좋아하진 않잖아
+P1 	: 응 맞아
+P0 	: 너무 슬프다
+P1 	: 별로 슬프지 않는데?ㅋㅋ
+P0 	: 아니 세상 사람들이 무화과의 맛있음을 알아주지 않는 것이 슬퍼
+P1 	: 광고 같은거 안하나?
+P0 	: 안 먹는 사람은 아예 먹을 생각을 안 하더라고
+P1 	: 특이해서 그런가
+P0 	: 아무래도 그렇지 과일인데 상큼한 계열은 아니니까
+P1 	: 그니까
+P0 	: 근데 나는 너무 맛있던데
+P1 	: 취향 차이
+P0 	: 그치 사람마다 취향이 다르니까

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015309
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  1
+contact_frequency  :  주 1~2회
+
+P0 	: 집안일 많이 분담하여 하시나요?
+P1 	: 네 저희는 분담 많이해요~ 육아제외 집안일은 신랑이 많이해요! &name1&님댁은 어떠세요?
+P0 	: 저흰 거의 제 독박 ㅜㅡ
+P1 	: 남편분께서 퇴근이 늦으시나요 ㅠ
+P0 	: 네 ㅜ 직장까지 한시간 반에 야근도 잦아서 ㅜ
+P1 	: 아오.. 그럴거면 회사에서 월급이라도 많이 주면 좋겠어요
+P0 	: 그것도 아니니 화가 나네요 흑 ㅜ
+P1 	: 집안일중에 뭐가 제일 하기싫으세요?
+P0 	: 요리요 식사준비 ㅠㅠ
+P1 	: 아맞네요ㅋㅋ 맞어맞어. 음식메뉴 생각하는거 너무 싫어요
+P0 	: 하지도 못하고 하기도 싫고 흥미도 재능도 다 없어서 ㅋㅋ ㅠㅜ
+P1 	: ㅋㅋㅋㅋ 회생불가느낌인데요?ㅋ
+P0 	: ㅋㅋㅋ 맞아요 ㅋㅋㅋㅋ적당히 떼워요 그래서 매일 ㅋㅋ
+P1 	: 저도 고정메뉴 돌리기ㅋ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010420
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 봉사활동 다니시나요?
+P1 	: 안녕하세요 ~
+P1 	: 아니여 안해요
+P1 	: 혹시 하시나요?
+P0 	: 저는 하다가 요즘은 안해요!
+P1 	: 오.. 어떤 봉사활동 하셨어요?
+P0 	: 과학관 특별전 교육봉사가 제일 기억에 남네요!
+P1 	: 우와 뭐하는 봉사에요????
+P0 	: 부스에서 과학에 대해서 설명해주는 봉사활동이었어요
+P1 	: 아하 대충 뭔지 알아요!
+P1 	: 저것도 봉사였군요
+P0 	: 네ㅎㅎ &name2& 님은 봉사 해보신 적 없나요?
+P1 	: 저는 그냥 도서관 봉사,,? 뭐 이런거만 해봤어요
+P1 	: 학교 봉사점수 채우려고요 하하
+P0 	: 오ㅋㅋㅋ 도서관 봉사 많이 힘들죠 ㅣㅋㅋㅋㅋ
+P1 	: 그냥 책 꽂고 이런건데 어링애들 있는 곳해서
+P1 	: 약간 힘들었어요ㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋ그래도 멋지시네요!

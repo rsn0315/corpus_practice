@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100041706
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요리 자주 하세요?
+P1 	: 아니요 거의 안해요ㅋㅋ
+P1 	: 생존에 위협을ㅈ느낄때만 합니당
+P1 	: 요리 좋아하시나요
+P0 	: 아ㅋㅋㅋ 저도 요리 별로...
+P0 	: 가끔하니까 더 안느는거 같아요
+P1 	: 요즘 조미료가 잘나와서
+P0 	: 연두 같은거 넣으면 금방 맛있어지더라구요
+P1 	: 저는 조미료를 믿어요ㅋㅋ
+P0 	: 찌개할때도 라면스프 자주 넣어요ㅋㅋㅋ
+P1 	: 김치찌개같은거요?
+P1 	: 떡볶이할때 라면스프있으면
+P1 	: 초딩들도 잘하더라구요
+P0 	: 네네 부대찌개할때도 넣구ㅋㅋ
+P1 	: 부대찌개하실때
+P1 	: 면사리같은거 혹시 넣어드시나요
+P0 	: 네 넣어요. 라면사리 맛있잖아요
+P1 	: 그쵸 근데 한번에 다 안먹으면 불어서 그게좀 고민이에요
+P0 	: 그건 그래요. 그래서 라면만 열심히 찾아내서 먹어요ㅋㅋ
+P1 	: 역시 그 방법밖에 없는거군요
+P1 	: 양 조절안하면 배터질때가 있어요

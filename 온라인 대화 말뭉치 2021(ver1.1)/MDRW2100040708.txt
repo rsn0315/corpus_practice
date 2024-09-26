@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100040708
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님... 혹시 이태원 맛집 하나 소개해주실 수 있나요?!
+P1 	: 앗 저는 서울사람이 아니라서 이태원 쪽은 잘 모르겠네요
+P1 	: 이태원에 모임있으세요?
+P0 	: 앗 그러시구나
+P0 	: 음 모임은 아니고 내일 친구랑 만나는데
+P0 	: 생일인 친구라서... 어디를 데려가야할지 모르겠어요
+P1 	: 그렇군요 친구는 평소에 뭐 어떤거 좋아해요?
+P0 	: 음음
+P0 	: 일단 면을 안좋아한다 그래서
+P0 	: 아주 어려워졌어요 ㅠㅠㅠㅠㅠ
+P1 	: 좋은데 다녀오셨나요?
+P0 	: 네네!!!
+P0 	: 어제 이태원 다녀왔었답니다!
+P0 	: 수제버거가 아주 맛있더라구요...
+P1 	: 앗 이태원 수제버거 저도 먹어보고싶네요
+P1 	: 어떤 메뉴드셨어요?
+P0 	: 혹시
+P0 	: 더백푸드트럭 아시나요?
+P1 	: 아니요ㅎ
+P0 	: 거기서 파는
+P0 	: 한우버거를 먹었습니당...
+P1 	: 한우 뭔가 비싼데 맛있을 것같네요
+P1 	: 음료는 어떤걸 파나요
+P0 	: 음료는 평범했어요!
+P0 	: 맥주랑 ... 탄산음료 같은거요!

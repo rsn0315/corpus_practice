@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100013501
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 네 안녕하세요
+P1 	: 점심 드셨나요?
+P0 	: 네 간단하게 빵먹었어요
+P0 	: 뭐 드셨나요?
+P1 	: 저는 국밥 먹었어요~
+P1 	: 빵에 잼 발라 드셨나요?
+P0 	: 아뇨. 앙금빵 먹었어요ㅋㅋ 커피랑해서요
+P0 	: 국밥 맛있겠네요
+P1 	: 갑자기 앙금빵 먹고싶네요 ㅎㅎ
+	  흰우유랑 먹는 거 좋아해서요 ㅎㅎ
+P1 	: 국밥 좋아하세요?
+P0 	: 네 저 한식 좋아해요
+P0 	: 무슨 국밥 드셨어요?
+P1 	: 돼지국밥 먹었습니다!
+P0 	: 맛있죠ㅋㅋ 전 순대국밥 좋아해요
+P1 	: 순대국밥도 순대가 탱글탱글해서 맛있죠 ㅋㅋㅋㅋ
+P1 	: 오늘 순대국밥이랑 같이 고민하긴 했어요 ㅋㅋㅋ
+P0 	: 순대만 떠먹어도 좋은데 으깨서 풀어먹어도 맛있더라구요
+P1 	: 맞아요! 저도 으깨서 먹는 편이거든요 ㅋㅋ
+P1 	: 으깨 먹는 분 잘 못봤는데 반갑네요 ㅎㅎ

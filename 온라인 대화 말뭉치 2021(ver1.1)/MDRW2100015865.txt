@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100015865
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨나요?
+P1 	: 아니요 아직 미혼입니다
+P0 	: 아 저두요
+P0 	: 자취하시는건가요?
+P1 	: 아니요 &name1&님은 자취하세요?
+P0 	: 아 아뇨 저도 가족하고 살아요
+P0 	: 그럼 집안일 많이 하세요?
+P0 	: 저는 방청소랑 설거지 정도만 해요.. ㅋㅋ
+P1 	: 저도 요리/설거지/그리고 방청소랑 분리수거 정도만 해요ㅎㅎ
+P1 	: 청소기 돌릴 때는 거실도 함께 하구요
+P0 	: 저랑 비슷하시네요
+P0 	: 청소하기 전에는 몰랐는데 세상엔 먼지가 참 많은거 같아요..ㅋㅋㅋ
+P0 	: 3일만 지나도 수북하더라구요
+P1 	: 그쵸! 그리고 머리카락도 얼마나 많이 떨어지는지...
+P0 	: 맞아요!! 테이프클리너 없이는 못살아요ㅠ
+P1 	: 테이프클리너 정말 좋은 아이템이죠!
+P0 	: 혹시 반려동물 키우세요?
+P1 	: 아니요 &name1&님은요?
+P0 	: 저도 없어요ㅠ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100022018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁 드셨나요?
+P1 	: 네! 닭갈비 먹었어요
+P1 	: 뭐드셨어요?
+P0 	: 오늘 고기랑 스파게티 먹었어요
+P0 	: 닭갈비 직접 해드셨나요?
+P1 	: 배민으로 시켜먹었죠ㅎㅎ
+P1 	: 고기랑 스파게티 맛있는 조합이네요ㅜㅜ
+P0 	: 네 오랜만에 먹었더니 맛있더라구요!
+P0 	: 배달 자주 시키세요?
+P1 	: 넹넹 이제 적당히 시켜먹으려구요ㅜㅠ
+P0 	: 배달이 너무 편해서 그런지 자주 시키게 되더라구요ㅠㅠ
+P0 	: 어떤 음식 자주 주문하시나요?
+P1 	: 저는 자바칩 자주 주문하는 편이에용
+P1 	: 너무 맛있어서 끊기가 힘드네요ㅜㅜ
+P1 	: &name1&은 어떤 음식 자주 주문하시나요?
+P0 	: 저는 치킨,피자 주로 주문하는데
+P0 	: 요즘엔 카페 많이 시키게 되더라구요!
+P0 	: 카페 자주 가시나요?
+P1 	: 아뇨!
+P1 	: 일하고나면 피곤해서 계속 집에만 있게 되더라구요ㅎ ㅎ
+P0 	: 아 맞아요....
+P0 	: 퇴근후엔 무조건 집...
+P0 	: 카페 가면 주로 뭐드시나요?
+P1 	: 저는 커피를 잘 못마셔서 아이스티나 에이드 종류로 많이 마셔요!
+P0 	: 오 저도 커피 잘안마셔서 에이드 종류 자주 마셔요
+P0 	: 무슨 에이드 좋아하세요?
+P1 	: 저는 청포도 좋아해요!

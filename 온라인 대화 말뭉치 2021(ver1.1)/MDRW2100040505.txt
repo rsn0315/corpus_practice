@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100040505
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 칫솔을 새로 샀나
+P0 	: 웅웅 있던거 온유가 다 갉아먹어서 ㅋㅋ
+P1 	: 잘했다
+P0 	: 칫솔 모양이 좀 특이함
+P1 	: 어린이 칫솔이야
+P0 	: 아니 어른도 쓸수있는데 어금니 칫솔이라고 작게생김
+P1 	: 강아지가 써도 되나
+P0 	: 웅웅 작아서 강아지 용으로 많이 쓴대
+P1 	: 신기하네
+P0 	: 웅웅 그래서 써봤는데 괜찮은듯
+P1 	: 양치 잘 시켜 줘라
+P0 	: 웅웅 그래야지
+P1 	: 애들 치아가 깨끗해지겠다
+P0 	: 강아지들 아직 안자나?

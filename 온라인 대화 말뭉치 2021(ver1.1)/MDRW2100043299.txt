@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043299
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 포도 다 썩었어
+P0 	: 잉 드시지 좀 아까워요
+P1 	: 니가 산건데 니가 먹었어야지
+P0 	: 얼린 포도도 상했어요??
+P1 	: 얼린건 괜찮은데 그것도 너무 오래 놔두면 안되지 않을까
+P0 	: 포도 얼린거 맛있는데... 더울때 하나씩 집어먹어요 ㅠ
+P1 	: 구슬아이스크림 같아서 맛있긴 해 근데 먹다보면 추워서 좀 그렇다
+P0 	: 디저트로 한두개씩 먹으면 괜찮지 않을까요? ㅋㅋㅋ
+P1 	: 니가 와서 다 먹도록 해
+P0 	: 그때까지 방치되어 있는 청포도...
+P1 	: 청포도 아니고 적포도다 포도주 만들수도 없고 어쩌냐
+P0 	: 포도주스 못만드나 ㅋㅋㅋ
+P1 	: 무슨 껍질 먹는 포도로 포도주스를 만들어
+P0 	: 포도청 같은거 만드는건 어때요? 녹히는건 좀 그런가 다음에 만들때 해요
+P1 	: 다 청으로 만들면 맛있긴 하지
+P0 	: 살이 쪄서 그렇지...

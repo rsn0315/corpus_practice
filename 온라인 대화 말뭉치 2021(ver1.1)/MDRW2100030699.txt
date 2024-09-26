@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 여긴 날씨가 좋네요 거긴 어떤가요?
+P1 	: 간만에 맑은 편이어서 너무 좋아요
+P0 	: 거기도 좋군요 어제를 기점으로 날씨가 좋아지는 것 같아요 ㅎㅎ
+P1 	: 아침 저녁으로도 쌀쌀한게 가을이 오긴 오나봐요
+P0 	: 네 최저기온이 20도가 됐어요 일교차가 곧 심해질 것 같네요
+P0 	: 가을옷 꺼내셨나요?
+P1 	: 안그래도 오늘 옷장 정리 할려구요~
+P0 	: 날이 좋아서 정리하기 좋네요 저도 가을옷 좀 꺼낼려구요
+P1 	: 낮에는 아직 더워서 반팔에 가디건 챙기고 긴팔 옷도 좀 꺼내 놓으려구요
+P0 	: 맞아요 해가 나니까 초여름 같아요 환절기에는 가디건이죠
+P1 	: 그런데 해마다 느끼는 거지만 작년에는 뭐 입었었나 싶네요~ㅎ
+P0 	: 그러게요 입을 옷이 없어요 ㅜ
+P1 	: 오늘 날씨도 좋은데 간만에 옷 쇼핑이라도 나가 볼까요? ㅎㅎ
+P0 	: 가을옷 쇼핑 좋죠 ㅎㅎ 전 트렌치코트나 야상 새로 사고 싶네요 가디건도요
+P1 	: 와 생각만 해도 좋네요~ㅎ
+	  전 일단 긴팔 티셔츠부터 사야겠어요

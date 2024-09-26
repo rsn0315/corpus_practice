@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 제주
+principal_residence : 광주
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 먹는 거 좋아하시나요?
+P1 	: 네! 근데 맛은 잘 몰라요 ㅎㅎ
+P0 	: 앗 저도 막입이에요 ㅎㅎ
+P0 	: &name2&님 최애 음식 뭔가요!
+P1 	: 저는 떡볶이요!!!!
+P1 	: &name1&님님은요??
+P0 	: 헐 저도요!!! 저 떡볶이 완전 환장해요
+P0 	: 특히 응떡!
+P1 	: 오 응떡 맛잇어요
+P1 	: 지난주말에시켜먹엇는ㄷ0
+P0 	: 헐랭 맛있으셨겠다
+P0 	: 치즈 진짜 맛있지 않나요 ㅠ !
+P1 	: 맞아요!!
+P1 	: 어묵 vs 떡
+P0 	: 아 저 당근빠따 떡!
+P0 	: 어묵은 별로 안 좋아해요 ㅎ.ㅎ
+P1 	: 저는 어묵파에요 ㅎㅎ
+P1 	: 떡볶이에서 볶이를 좋아합니다
+P0 	: 헐 약간 어묵 소세지 양배추 이런 걸 좋아하시는 건가요!
+P1 	: 네 맞아요!!
+P1 	: 저녁 뭐드셨나요
+P0 	: 저 푸라닭 먹었어요!
+P0 	: &name2&님은요!?
+P1 	: 저는 라면이랑 소시지빵 먹엇어요ㅎㅎ

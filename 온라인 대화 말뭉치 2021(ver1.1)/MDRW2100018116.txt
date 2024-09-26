@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100018116
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네ㅋㅋ신기해요
+P1 	: 근데 수영장에서 확진자 나왔다고 오늘 문자왔네요..
+P0 	: 헉...
+P1 	: 그래서 조퇴하고 검사받으러 가는 길이에요ㅋㅋㅋ
+P0 	: 음성 나오실 거예요!
+P1 	: ㅋㅋㅋ이거 받아보셨어요? 코가 엄청 아프네욬ㅋㅋ
+P0 	: 한번 받아봤어요
+P0 	: 저도 너무 아파서 눈물 찔끔...
+P1 	: 전 사실 세번째인데 적응이 안 되네요ㅋㅋㅋ
+P1 	: 예방주사 맞으셨어요?
+P0 	: 네 백신 1차는 맞았어요
+P0 	: &name2&은요?
+P1 	: 저는 아직요!
+P1 	: 어떠셨어요??
+P0 	: 저는 화이자 맞았는데 3일정도 주사 맞은 팔에 근육통있고 미열있었어요! 크게 아프진 않았는데 일 하기에는 좀 힘들더라고요!
+P1 	: 미열이면 참을만 하셨겠네요!
+P1 	: 2차가 더 아프다더라고요ㅜ
+P0 	: 맞아요 그래서 살짝 걱정돼요ㅋ큐ㅠ
+P1 	: 2차는 언제 맞으세요??

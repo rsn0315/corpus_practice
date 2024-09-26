@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000373
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  지역>현 거주지 지인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 요새 일하면서 힘든건없낭?
+P0 	: 나
+P0 	: 4대보험으로 바꼈어
+P0 	: 어디갔니
+P1 	: 아 맞네 아갑자기누가 뭐사달라해서
+P1 	: 집에 있어도 왜이래 바쁘냐
+P0 	: 집안일도 일이니깐
+P0 	: 고생이 많으다
+P1 	: 바쁨.
+	  ㅋㅋ쓸대없이
+P0 	: ㅋㅋㅋㄱ내보다 니가 더 바쁜거 같노
+P1 	: 맞다 진심ㅋㅋㅋ
+P0 	: 난 이번달부터 온전한 직장인이다아
+P1 	: 이야~~~~~ 부릅다
+P1 	: 월급ㅋ
+P0 	: 최소 월급!! ㅋㅋㅋ 알바에서 직장인으로
+P1 	: ㅋㅋㅋㅋ 그래도 그게 어디냐
+P0 	: 너는 집에서 알바 하잖아
+P1 	: 알바가돈이안되네?ㅋ
+P0 	: 어째서지? 내보다 더 많이 버는거 같은데

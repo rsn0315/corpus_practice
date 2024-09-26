@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009696
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어디로 여행 가봤나요?
+P1 	: 저 대만이랑 필리핀이요!
+P0 	: 더운 나라에 갔었네요!
+P1 	: 그리구 부산이랑 강릉이랑 제주도
+P0 	: 제일 인상 깊은 것이 있나요?
+P1 	: 대만에 땅콩 아이스크림이 너무 맛있어서 아직도 꿈에 나와요
+P0 	: 땅콩 아이스크림 고소하겠다 전 아직 대만은 못 가봤어요
+P0 	: ? 아하
+P1 	: 암튼 고온다습하긴 했는데 대만 개인적으로 좋았어서 추천드려요
+P1 	: 요즘엔 어디든 괜찮으니 갈수라도 있음 좋겠어요
+P0 	: 
+	  대만 시기가 좋으면 여행 하기 좋대요
+P0 	: 맞아요 어디든 갈 수 있으면 좋겠어요
+P1 	: 제주도는 수학여행으로 가본건데 다시 가보고 싶어요
+P1 	: 좋았던 여행지는 어디신가요?
+P0 	: 저도 수학여행은 제주도로 갔었어요

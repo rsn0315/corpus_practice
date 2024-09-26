@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014756
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 전남
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경북
+principal_residence : 전북
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 엄마 나 설거지 귀찮아
+P1 	: 그동안 애썼다
+P0 	: 하지만 엄마를 사랑해
+P1 	: 손목도 안좋은데
+P1 	: 너밖에 없다.
+P0 	: 엄마가 그동안 가사 혼자 다 했잖아
+P1 	: 당연한거지
+P0 	: 아니야 고생했어 손가락도 안좋은데 많이 힘들었을텐데 가족을 위해서 수고했어
+P1 	: 주부 사표 많이 내고 싶었다
+P0 	: 이제 가족들이 엄마 많이 도와줄게
+P1 	: 고맙다
+P0 	: 집안일은 매일 새로 생기니까 넘 힘든것같아
+P1 	: 맞아 끝이 안보여
+P0 	: 오늘도 쓰레기통 안비워서 내일 버려야해
+P1 	: 같이 버리러 가자
+P0 	: 그래 비오기전에 가자

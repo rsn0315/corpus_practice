@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100000493
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 취업하셨나요?
+P0 	: 네 직장인이에요
+P1 	: 요즘 취업 잘 안 되던데 좋으시겠네요 ㅠ
+P0 	: 아 그렇죠
+P1 	: 어떤 일 하세요?
+P0 	: 일반 사무요
+P1 	: 그렇구나
+P0 	: 문서만 많이 만들어요
+P1 	: 제가 꿈 꿔왔던 일이네요
+P1 	: 스트레스는 없으실 것 같아요
+P0 	: 몸쓰는 것도 힘들테지만 머리쓰는 것도 엄청 스트레스에요
+P0 	: 꿈처럼 좋진 않아요
+P1 	: 전 서비스업이라 사람상대하기 너무 힘들어요 ㅠ
+P0 	: 네 진상들 많죠

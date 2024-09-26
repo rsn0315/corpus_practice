@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016885
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠좋아하세요~?
+P1 	: 네 스포츠 하는 것보단 보는 것 좋아해요
+P0 	: 저도 보는것만 ㅎㅎ
+P1 	: 어떤 종목 좋아하세요?
+P0 	: 챙겨서보는종목은없는데 ! 요번에올림픽할때
+P0 	: 배구랑 양궁봤어요!
+P1 	: 오 저도 여자배구랑 양궁 봤어요
+P1 	: 정말 열심히 응원했죠
+P0 	: 선수들정말 멋있더라구요ㅠㅠ!!
+P1 	: 네 열심히 경기하니 저도 열심히 응원하게 되고ㅠㅠ
+P0 	: 전 안산선수는몰랐는데! 요번에 아주기억에남앗어요!
+P1 	: 네네 이번 올림픽 때 정말 대단했죠
+P0 	: 옛날엔 야구장도 자주갔는데
+P0 	: 벌써...6~7년된얘기네요ㅠ
+P1 	: 저도 야구장 종종 갔었는데
+P1 	: 어느 팀을 응원하세요?
+P0 	: 서울에있을때 갔었는데 그때 같이 다니던언니가
+P0 	: 부산이라 ㅎ 롯데찐팬이욨어요 ㅋㅋ 전 롯데석에 앉아서 그냥 맥주먹고 ㅎㅎ 응원하고 ㅎㅎ
+P1 	: 아하ㅎㅎ 맞아요 야구장은 치맥하는 재미죠!

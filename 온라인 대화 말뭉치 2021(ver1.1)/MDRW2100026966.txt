@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100026966
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 동생은 회사에서 자고온대
+P0 	: 걔는 숙직을 많이해서 집에 너무 많이 있어
+P0 	: 회사를 안다는거같아
+P0 	: 안다니는거
+P1 	: 집에 너무 많이 있긴하지
+P1 	: 좀 놀러도 나가고 했음 좋겠는데
+P0 	: 빨리 독립이나 하라고해
+P0 	: 밑층 내줬는데 왜 안간다는거야
+P1 	: 몰라 귀찮은가봐
+P0 	: 내려가라고 말해봐
+P1 	: 여러번 말했지
+P0 	: 걔는 너무 독립성이 없어
+P0 	: 너무 다해줘서
+P1 	: 이제부터 안그럴거야
+P0 	: 저번에도 안그런다면서
+P0 	: 그냥 독립시키는거밖에 없어
+P1 	: 일단 짐은 먼저 내려보낼거야
+P0 	: 밑에 뭐뭐 있어??
+P1 	: 책상 옷장

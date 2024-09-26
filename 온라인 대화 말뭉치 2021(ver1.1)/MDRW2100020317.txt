@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020317
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 최근에 구매하신 물건이 있으신가요?
+P1 	: 어제 알리에서 천원 결제했어요 ㅋㅋㅋㅋ
+P0 	: 뭐 사신건가요?
+P1 	: 내성발톱 교정기랑 숱가위요!
+P0 	: 오 내성발톱 교정기를 파는군요
+P0 	: 효과 있대요?
+P1 	: 쪼끔은 펴진다는 것 같아요??
+P0 	: 저는 걍 방치하고 살았는데
+P0 	: 한번 찾아봐야겠어요!
+P1 	: 좋아요 ㅋㅋㅋ
+P1 	: &name1&은 최근에 사신 거 있나요?
+P0 	: 저 최근에 갤워치4 샀습니당
+P0 	: 사용한지 열흘정도 됐네요!
+P1 	: 오 출시하자마자 사신건가요?
+P0 	: 넵! 사전예약 전에 최초체험단이라고 팔았었는데 그때 사버렸거든요ㅎㅎ..
+P1 	: 우와 ㅋㅋㅋㅋㅋ 무슨 색 사셨어요?
+P0 	: 저 실버요! 사이즈는 작은걸로
+P1 	: 오오 사이즈 작으면 화면 괜찮아요?
+P0 	: 넵!! 큰거사면 무거울까봐요ㅠㅠ
+P0 	: 손목이 얇은편이라서 다행히 작은게 어울리더라구요

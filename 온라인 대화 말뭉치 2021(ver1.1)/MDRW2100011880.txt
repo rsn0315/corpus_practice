@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011880
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강하시지요?
+P1 	: 네 괜찮은 편이에요 아직은 ㅋ
+P0 	: 다행이에요ㅎ
+P1 	: 올해 처음 유료건강검진 해봤네요
+P0 	: 저도요ㅠ
+P1 	: 아 결과가 어땠어요?
+P0 	: 아직 결과가 안나왔어요
+P0 	: 두근
+P1 	: 아.. 저는 유방에 물혹? 이런건 좀 많다더라구요
+P0 	: 에구 그러시구나ㅠ
+P0 	: 아프진않으세요?
+P1 	: 화이자 후에 아팠는데 그게 그것때문인지 어쩐건지 모르겠어요 ㅎㅎ 당장 양성은 아니라니까 괜찮아요
+P0 	: 괜찮아서 다행이여
+P1 	: 감사해요ㅡ 좋은 결과 나오시길!!!!
+P0 	: 제발 그랬으면

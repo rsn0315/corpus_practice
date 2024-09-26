@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030747
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 케첩?
+P0 	: 감자튀김 케첩 찍어드시나요?
+P1 	: 네 전 케첩찍어먹어요 님은 찍어드세요?
+P0 	: 음 다식은건 찍어먹구 따듯한거는 그냥 먹어요 ㅎㅎ
+P1 	: 아 오히려 식은건 찍어 먹어요??
+P0 	: 네 따듯할때는 케찹이 차가우니까 감튀를 보호(?)하기위해 그냥먹고 식은거는 그냥 차갑게 먹어요 ㅋㅋ
+P1 	: 아ㅋㅋㅋ 맞아요 저도 튀김류는 바삭할 땐 그냥 먹기도 해요
+P1 	: 바삭함을 느껴야죠ㅋㅋㅋ
+P0 	: 떡볶이집에서 파는 튀김중에 뭐를 제일 좋아하시나요?
+P1 	: 김말이가 원톱이에요
+P1 	: 김말이는 정말... 그냥 맛있어요ㅋㅋㅋ
+P0 	: 아 김말이 완전 맛있죠ㅠㅠ 전 야채튀김이 젤 좋아요 ㅋㅋㅋ
+P1 	: 일단 떡볶이집에 있는 튀김은 맛이 없을수가 없어요ㅋㅋㅋ
+P0 	: 맞습니다! 떡볶이 밀떡vs쌀떡 어떠세요
+P1 	: 전 밀떡이요!  님은요?!
+P0 	: 우와 저도요 밀떡!!
+P1 	: 쌀떡은 너무 찐덕거린다고 해야되나
+P1 	: 그렇지 않아요?
+P0 	: 네네 너무 쪼오온득 해요ㅋㅋㅋㅋㅋ

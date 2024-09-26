@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100022189
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요
+P0 	: 지금 연애중이신가요?
+P1 	: 아니요
+P1 	: 연애중이신가요
+P0 	: 저도 아니요~
+P1 	: 어..
+P0 	: 이상형이 어떻게 되세요?
+P1 	: 그럼..
+P0 	: 결혼하신건 아니겠죠?!
+P0 	: 하하
+P1 	: 아닙니다
+P1 	: 하하
+P1 	: 이상형이라..
+P1 	: 딱히 정해두진 않았고 그냥 서로 대화가 잘 되고.. 어.. 어렵네요ㅎ
+P1 	: &name1&님은 어떠신가요
+P0 	: 그런거 있잖아요
+P0 	: 이거하나는 꼭 본다 싶은거
+P1 	: &name1&님은 있으신가요
+P1 	: 음.. 외관은 잘 안봐서..
+P0 	: 저는 잘 모르겠는데
+P0 	: 주변에서 하는 말이
+P0 	: 제가 날라리상을 좋아한대요ㅋㅋㅋ
+P0 	: 인정할 순 없지만
+P1 	: 앗 그러시군요

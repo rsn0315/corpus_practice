@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100029330
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 전 반숙과 완숙 사이요
+P0 	: 노른자가 덜 익으면 싫어요 ?
+P1 	: 네 노른자가 반이상은 익어야 좋아해요
+P0 	: 반투명하고 젤리같고 그럴때 ?
+P1 	: 노른자가 주르륵 흐르는 느낌은 별로고 
+	  반숙에서 살짝 더 익혀진 느낌이 좋아요
+P0 	: 감동란 먹어봤어요?
+P1 	: 아니요
+P0 	: 그거 같은건가?
+P1 	: 감동란을 먹어보지 않았으니 알수없네요
+P0 	: 저도 취향이 비슷헤서 그래요
+P1 	: 엇 비슷하다니 신기하네요
+P0 	: 요즘엔 집에 계란후라이 장인이 있어서
+	  잘 구슬려서 부쳐달라해야해요 ㅎ
+P1 	: 계란후라이를 정말 잘 하나보네요

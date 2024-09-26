@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100034781
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 너무 더웠어요
+P0 	: 비 안오니까 덥더라고요
+P0 	: 외출하셨어요?
+P1 	: 오늘 할머니랑 강아지랑 같이 동네산책 했어요
+P0 	: 산책하기 좋은 날씨였죠! 조금 덥긴하지만ㅋㅋㅋ
+P0 	: 강아지가 좋아했을 거 같아요
+P1 	: 맞아요 더워도 비오는날보단 좋아요
+P0 	: 다음주에도 비소식이 있더라고요ㅠㅠ
+P1 	: 네 다음주 내내 비던데 부산은 ㅜ
+P0 	: 부산에 사시나요?
+P1 	: 네부산이에용
+P0 	: 이번에 태풍 피해 없으셨나요?ㅠㅠ
+P1 	: 네 피해는 없었어요ㅠ
+P0 	: 너무 다행이네요!
+P0 	: 여름 다 끝나가는데 늦은 태풍이 와서 놀랐어요ㅠㅠ
+P1 	: 그쵸 ㅠ 가을에 태풍이 더 잦을 수도 있을것같아요ㅠ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100027275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 맛집 잘 아세요??
+P1 	: 맛집 좋아해료
+P0 	: 오 어디지역으로 가세요?
+P1 	: 그냥 부산 내에서요 ㅋㅋ
+P0 	: 어떤 음식 좋아하세요?
+P1 	: 저는 마라샹궈 샤브샤브 이렁거 좋아해요
+P1 	: &name1&은요
+P0 	: 저는 초밥 좋아해요!!!
+P1 	: 우와 저도요 초밥
+P0 	: 저는 연어를 좋아한답니다!
+P1 	: 저는 광어랑 새우초밥 ㅋㅋ
+P1 	: 저녁은 뭐드세요
+P0 	: 저이제 돈가스요 !!
+P0 	: 저녁 먹을 시간이네요
+P1 	: 우와돈가스
+P1 	: 저는 집밥이용
+P0 	: 오 집밥 좋죠

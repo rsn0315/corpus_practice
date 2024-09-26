@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100019172
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 마트 안가세요? 뭐 살거에요?
+P1 	: 마트 다녀오셨나요?
+P0 	: 어떻게아셕죠?ㅋㅋㅋ  방금 들어왓어요..ㅋ
+P1 	: ㅋ 진짜 다녀오셨네요.
+	  뭐 사오셨어요?
+P0 	: ㅋㅋ 빵이랑 과자요...
+P0 	: 비와서 늦게갔더니 계란이 엄서서..
+P0 	: 마트 자주가세요?
+P1 	: 자주는 아니구 한번 갈때 많이 사오는 편이에요
+P0 	: 계란이 아직도 많이 안풀리는거 같아요..
+P0 	: 아직도 30구짜리는 한정판매해요..
+P1 	: 계란 한 판에 얼마에요?
+P0 	: 오늘 가격표 붙은게 3천얼마요.. 
+	  근데 오후에가면 엄더라구요..
+P0 	: 보통은 25구에 7천원정도요
+P1 	: 비싸네요 계란
+P0 	: 많이 못 먹은지 한 1년된거같아요..
+P0 	: 원랜 하루에 5개씩은 먹었는데..
+P1 	: 계란을 안 사먹어서 계란이 비싸다는 말만 들어봤어요
+P0 	: 아.. 주로 식재료 뭐 구매하세요?
+P1 	: 고기나 생선류요.
+	  시골이라 닭이 낳는 알 먹고
+	  채소류는 밭에서 키워 먹어요

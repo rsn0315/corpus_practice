@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하세요?
+P1 	: 네 근데 요즘엔 갈 수가 없어서...
+P0 	: 그쵸..  가장 최근에 언제 가보셨나요?
+P1 	: 비행기가 너무 타고 싶어서 5월에 비행기타고 부산갔다왔어요
+P1 	: 근데 식당도 다 일찍문닫고 ㅜㅠ
+P0 	: 앗 전 제주도 가고싶은데 비행기타기가 겁나서 못갔어요ㅠㅠ 밀폐공간이 부담되서ㅠㅠ;;
+P1 	: 탑승시 마스크 검사하구요 꼭 kf인지 확인해요
+P1 	: 필터형 마스크가 있어서 그거 쓰고 갔는데
+P1 	: 일회용kf만 탑승가능하다고 해서 여분있던 다른 마스크로 바꿔 착용했어요
+P1 	: 해수욕장에서 선탠하는 사람들도 다 마스크하고
+P0 	: 아이구 여행은 힐링인데 신경쓸게 더 많아진 느낌이네요
+P1 	: 그니까요
+P1 	: 고속버스는 휴게소 가는 맛인데
+P1 	: 휴게소 음식도 포장이고
+P0 	: 아 거리두기 하고 앉아서도 못먹나봐요? 집주변만 다녀서  몰랐네요ㅋㅋㅋ;;
+P1 	: 네 포장만 된대요
+P0 	: 에구에구 휴게소는 냄비우동이 진린데!!
+P1 	: 웅웅 뭘좀 아시는군요
+P0 	: 코로나 때문에 여행 가기도 어지간한 마음가짐이 아니면 힘들겠네요
+P1 	: 즐길거리가 많이 사라졌죠
+P1 	: 이동수단의 제한도 많고 관광지도 일찍 문닫고

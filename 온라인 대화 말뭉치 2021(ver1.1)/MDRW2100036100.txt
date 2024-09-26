@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100036100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 파르페 좋아하셔서 &name1&신가요?
+P0 	: 아뇨! 좋아하는 웹툰 주인공 이름이에요~
+P1 	: 아하~
+P0 	: &name2& 님은 루꼴라 좋아하셔서 지으신 건가요?
+P1 	: 제가 계정 만들 때 놀토 보고 있었는데 그 때 루꼴라 피자가 나오고 있었어요 ㅋㅋㅋㅋ
+P0 	: 아하ㅋㅋㅋㅋ 루꼴라 피자 좋아하시나요?
+P1 	: ㅎㅎ 좋아해요 근데 파는 곳이 많이 없어서 많이 못 먹어봤어요
+P0 	: 저는 한번도 못 먹어봤거든요! 루꼴라 쓴 맛은 안 나나요?
+P1 	: 피자랑 같이 먹어러 그런거 잘 못 느꼈어요
+P0 	: 루꼴라 피자 너무 맛있게 생겨서ㅋㅋㅋ 기회 되면 꼭 한번 먹어보려고요
+P1 	: 네네 도전해보세요 화이팅
+P1 	: 저는 요즘 베트남 음식에 도전해보고 있어요
+P0 	: 어떤 음식 도전하고 계신가요!?
+P1 	: 저번에 분짜 먹어봤어요!

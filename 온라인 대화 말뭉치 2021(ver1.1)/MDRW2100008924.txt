@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100008924
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 데이트 하신적 있으세요?
+P1 	: 네! 영화관 데이트요!
+P0 	: 오~ 영화관 데이트라니~ 풋풋
+P1 	: 정말 오랫만에 영화관다녀왔어요~ &name1&님은요? 최근에 어떤 데이트하셨어요?
+P0 	: 전 병원 데이트가 예정되어 있습니다 ㅋㅋㅋ
+P0 	: 영화관 가시니까 옛날 생각 나고 그러시던가요?
+P1 	: 아 가서 영화만봐서요ㅋㅋㅋ
+	  병원데이트라니...
+P0 	: 내일 병원으로 같이 건강검진 받으러 갈 예정입니다
+P0 	: 각자 가자고 했는데 신랑이 같이 가자고 ㅠ 애도 아니고...
+P1 	: 나이가 들수록.. 더 같이 하고싶어 하는거같아요ㅎㅎ
+P0 	: 아~ 전 진심으로 혼자이고 싶은데요  ㅋㅋㅋ
+P1 	: 맞아요 혼자가 편해지는..여자들ㅎ
+P0 	: 이 남자가 연애할때랑 많이 다르잖아요 ㅋㅋ
+P1 	: 암요 암요
+P0 	: 결혼전엔 여기저기 잘 데려다 주길래 결혼하면 맨날 놀러 다닐줄 알았는데 집돌이네요 ㅠ
+P1 	: 집돌이인데 사랑의 힘으로 잠시 바깥돌이 하신건가요?!
+P0 	: 그런가봐요 제가 속았어요 ㅠ
+P1 	: 연애 얼마나 하셨어요??
+P0 	: 10개월정도요??
+P0 	: 샘은요?
+P1 	: 와우! 저는 5년?6년이요!
+P0 	: 우와!!! 그럼 알만큼 다 알고 결혼하셨겠어요 ㅠ 전 ㅠ 더 연애를 했어야 ㅠ

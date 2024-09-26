@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100046233
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P1 	: 오늘 점심은 뭐드실 예정이세요?
+P0 	: 전 제육볶음정식 먹을 예정이에요~
+P0 	: 뭉치님은 식사 하셨어요?
+P1 	: 앗 이미 드셨겠네요!
+P1 	: 저는 못했어요 ㅠㅠ
+P1 	: 점심은 못먹고 저녁만 먹을 것 같네요 ㅠ
+P0 	: 헐 왜요 ㅜㅜ
+P0 	: 일이 바빠요?
+P1 	: 그런건 아니구 약속 나갈 준비하다보니까 ㅋㅋㅋㅋㅋㅋ
+P1 	: 때를 놓쳤네용..ㅎ
+P1 	: 늦잠자가지구 오늘ㅋㅋㅋㅋㅋ
+P0 	: 아아 ㅋㅋㅋㅋ
+P0 	: 친구 만나러 나가요?
+P1 	: 네~
+P1 	: 님은 오늘 집에 계세요?
+P0 	: 저는 학교 가고있어요 ㅎㅎ 대학생이라서
+P1 	: 헐
+P0 	: 주말에 동아리활동 해서요?
+P1 	: 오늘 토요일인데..?!
+P0 	: ㅜ
+P1 	: 아하!
+P1 	: 무슨 동아리활동하세요 ㅎㅎ
+P0 	: 레이싱카 만들어서
+P0 	: 포뮬러대회 나가는 동아리에요 ㅋㅋㅋ
+P0 	: 기계공학과라서 관련 경험 쌓는겸 하고있어요 ㅎㅎ
+P1 	: 우왘ㅋㅋㅋㅋㅋㅋㅋ 진짜 멋있어요!!!!!
+P1 	: 대박 ㅋㅋㅋㅋㅋㅋㅋ 상상도 못한...!
+P1 	: 오늘 동아리활동 잘하시길 ㅎㅎㅎ 대회에서도 좋은 성적 거두시길 바랄게용

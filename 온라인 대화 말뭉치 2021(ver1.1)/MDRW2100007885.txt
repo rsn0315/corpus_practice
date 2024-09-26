@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100007885
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 앗 지금 봤네요;;; 집안일 해요!
+P0 	: 전 청소담당이요
+P1 	: 오 모든 청소를 다 하시나요?!
+P0 	: 화장실 전담이요
+P1 	: 화장실 중요하죠ㅋㅋㅋ 전 주로 제 방이랑 설거지를 하는 편이에요
+P0 	: 곰팡이걱정때문에
+P1 	: 아 곰팡이 걱정~ 저희 집도 곰팡이 때문에 문제더군요
+P0 	: 답이 없는것
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ그러게요ㅠㅠ &name1& 님은 가족과 사시나요?
+P0 	: 네
+P1 	: 아하 누구누구랑 사시나요?
+P0 	: 와이프 자녀

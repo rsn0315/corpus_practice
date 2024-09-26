@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100025948
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어느쪽에서 일하고 싶으세요?
+P1 	: 아직 구체적으로 생각해보진 않았는데
+P1 	: 아마 제약회사 다니지 않을까 싶어요!
+P0 	: 제약회사 돈 많이 버시겠어용
+P1 	: 네 들어가고 싶네요ㅎㅎㅎ
+P1 	: 지금 직장 있으신가요??
+P0 	: 네 4년차에요ㅋㅋ
+P1 	: 오~ 어떤일하세요??
+P0 	: 저는 &others&에서 일해요 ㅎㅎ
+P1 	: 저희 가족중에도 &others&에서 근무하는 사람 있어요ㅎㅎㅎ
+P1 	: 신기하네요
+P0 	: 오잉 설마
+P0 	: ㅋㅋㅋㅋㅋㅋ
+P1 	: 저는 서울이라 가족이 &affiliation&에서 일해요!
+P0 	: 어라
+P0 	: 겹치는데ㅋㅋㅋㅋㅋㅋ
+P1 	: 엇 너무 신기하네요ㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 직장은 적성에 잘 맞으세요??
+P0 	: ㅋㅋ혹시 아버지가.....
+P0 	: 네 4조2교대
+P0 	: 제 천직이에요 ㅎㅎㅎ
+P1 	: 네 아버지가 일하세요
+P1 	: 저희 아버지도 교대근무 완전 만족하시며 다니세요ㅋㅋㅋ
+P0 	: ㅋㅋ아버님도 교대근무 체질이시군요

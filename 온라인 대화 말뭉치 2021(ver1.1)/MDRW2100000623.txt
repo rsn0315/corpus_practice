@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100000623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 제주도 여행 갈까
+P1 	: 그럴까 ㅋㅋ난 얼마전 다녀왔는데
+P0 	: 요즈음 랜트카도 싼 것 있다네
+P0 	: 코로나 19가 진정되어야 가지
+P1 	: 조심하면된다~
+P0 	: 9월즈음에 한번 갔다가 와야겠다
+P1 	: 엄마랑 둘이?
+P0 	: 3박4일 정도로 가서
+P0 	: 쉬었다가 와야겠다
+P1 	: 잼겠네~
+P0 	: 올래길 돌면서 쉬어야지
+P1 	: 올레길 안가봤당
+P0 	: 걸으면 다 올래길인데
+P0 	: 동영살고 찍고
+P0 	: 동영상도 찍고
+P1 	: 그렇군~ 여행가서 동영상을 많이 찍어야 좋은듯 ㅎㅎ
+P0 	: 강원도 동해에 있는
+P0 	: 좀 시원해지면 가야지

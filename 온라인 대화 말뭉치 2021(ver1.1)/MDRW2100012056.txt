@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012056
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 관심 있으신가요?
+P1 	: 스포츠 올림픽만 보는듯요
+P0 	: 저도 이번 올림픽 봤어요
+P1 	: 양궁 보셨어요?
+P0 	: 그럼요~
+P1 	: 심박수 나오는거 너무신기하지않던가요?
+P1 	: 저는 너무 신기하저라구요
+P0 	: 맞아요 색달랐어요
+P0 	: 센서를 부착했나봐요
+P1 	: 그게 안면인식으로 나온데요
+P1 	: 저도 센서인줄알았어요
+P0 	: 와 정말요?
+P0 	: 세상 좋아졌네요
+P1 	: 네 진짜 더신기했어요
+P0 	: 여자배구 보셨나요
+P1 	: 다른나라선수들은 130이러는데
+P1 	: 안산은 80이고 너무침착
+P1 	: 네 배구봤죠
+P0 	: ㅋㅋㅋ맞아요

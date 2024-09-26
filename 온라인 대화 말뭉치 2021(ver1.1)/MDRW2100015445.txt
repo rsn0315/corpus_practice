@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015445
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 뭐 드시나여?
+P1 	: 김치찌개요
+P1 	: &name1&님은 아침 드셨어요?
+P0 	: 시리얼 먹었어요
+P1 	: 무슨 시리얼 드섰나요?
+P0 	: 현미요
+P0 	: 이게 제일 맛있어요
+P1 	: 현미 씨리얼도 있어요?
+P1 	: 신기하네요
+P0 	: 신기하다뇨
+P0 	: 저 자주 먹거든요
+P1 	: 저는 콘푸로스트만 먹어요
+P1 	: 그렇네요
+P0 	: 너무 달아요
+P1 	: 콘푸로스트 미만 잡이에요
+P1 	: 씨리얼은 콘푸로스트를 제외하고는 논할 수 없어요
+P0 	: 예?
+P0 	: 건강한 곡물 시리얼이 최고죠
+P0 	: 그 호랑이도 단 콘푸로스트 많이 먹어서 맛간것처럼 생겼잖아요
+P1 	: 아닌데요
+P1 	: 전 호랑이 안먹어요
+P1 	: 걔는 콘푸라이트에요
+P1 	: 전 사자 먹어요
+P1 	: 저지금 김치찌개 퍼왔어요
+P1 	: 마을쫑이랑 같이 먹을거예요
+P1 	: &name1&님은 제일 좋아하는 반찬이 무엇인가요
+P0 	: 그개 그거죠
+P0 	: 저는 가지볶음이요

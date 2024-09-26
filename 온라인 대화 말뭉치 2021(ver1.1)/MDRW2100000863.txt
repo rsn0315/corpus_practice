@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000863
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 여행 하면 역시 어디죠?
+P0 	: 제주도
+P1 	: 제주도 하면 역시 무엇이죠?
+P0 	: 전 잘모르겠어요
+P0 	: 해산물 아닐까요
+P1 	: 정답은 감귤 초콜렛입니다
+P1 	: 알고 계셨나요?
+P0 	: 아니요
+P0 	: 먹어본적은.있는거같아요
+P1 	: 뭐 드실라고 여행해보신적있으신가요ㅡ
+P0 	: 저는 회 종류 먹으려고
+P0 	: 속초 다녀왓어요
+P1 	: 속초에 물회가 정말 잊히질않네요
+P1 	: 전 속초는 많이갔는데 기억이 별로 없어요
+P0 	: 안먹어봤는대 맛잇나요
+P1 	: 기억이 안나요
+P1 	: 제가 맛있는 음식 먹으면
+P1 	: 술을 너무 많이 마셔서 기억을 잘 못해요
+P0 	: 한번 도전해봐야할맛인거같아요

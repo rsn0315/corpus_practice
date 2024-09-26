@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011209
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직접 조리해 드시는거 좋아하세요?
+P1 	: 네 하지만 외식도 좋아합니다
+P0 	: 저도 배달음식 자주시키는데 뭐 주로 드시나요?
+P1 	: 중국음식 이나 치킨 분식종류 먹어요
+P0 	: 아 요즘 배달음식 배달비 너무 비싸죠ㅠㅠ
+P1 	: 그래도 코로나 땜에 배달을 해야죠
+P0 	: 비와서 배달분들 배달 힘드시겠어요
+P1 	: 위험 하기도 하겠죠
+P0 	: 오늘 요기요 bhc 5000원 할인이라네요
+P1 	: 좋은 정보 감사합니다
+P0 	: 집에서 조리도 해 드시나요
+P1 	: 네 조리도 합니다
+P0 	: 아 어떤 반찬 요즘 주로 해드세요?
+P1 	: 멸치볶음 진미채볶음 호박 가지볶음
+	  김치찌개 된장찌개 버섯찌개 계란말이
+	  계란찜 등 해먹어요

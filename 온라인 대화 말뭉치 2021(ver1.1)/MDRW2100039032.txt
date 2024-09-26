@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100039032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 네 맞아요ㅜㅜ 잘 맞으면 좋을텐데 말이죠
+P0 	: 최근에 구입하신 물건이 있나요?
+P1 	: 저는 발목을 다쳐서 발목아대 샀어요
+P1 	: &name1&님은 최근 구입하신 물건 있으세요?
+P0 	: 저는 그립톡을 처음 구매해봤어요
+P1 	: 아 그립톡!
+P1 	: 어떠세요??
+P0 	: 음 아직은 살짝 어색하기도한데 좋은거 같아요
+P1 	: 혹시 핸드폰 주머니에 많이 넣으세요?!
+P0 	: 아니요 저는 주로 가방에 넣거나 들고 다녀요
+P1 	: 아 저는 바지주머니에 핸드폰 많이넣어서 그립톡 살지말지 고민많이했거든요
+P0 	: 아 그러시군요 ㅠㅠ 
+	  바지주머니에 자주 넣으신다면 그립톡이 걸리적거릴수도 있을거 같아요
+P1 	: 아ㅠ 아무래도 그렇군요ㅠ
+P1 	: 구매희망물건 있으세요?!
+P0 	: 음.... 구매희망물건이라..
+	  영양제를 구매할까 고민하고 있어요
+P1 	: 오 어떤영양제요?!
+P0 	: 루테인종류요!
+P1 	: 아 저는 루테인 아이허브에서 주문해서먹어요!

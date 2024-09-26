@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100028699
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 하고 계시는 게임이 있나요?
+P1 	: 저는 요즘 쿠킹덤 해요!
+P0 	: 오 저도 예전에 했었는데
+P0 	: 모바일 게임만 하시나요?
+P1 	: 주로 모바일 게임만 하는 것 같아요ㅋㅋㅋ
+P0 	: 저는 요즘 스팀게임을 자주 하고 있어요
+P1 	: 오 어떤거 하시나요?
+P0 	: 레포데라고 하는 좀비게임이요~
+P1 	: 아 저도 알아요~
+P0 	: 제가 약간 이런류 게임을 좋아해서ㅋㅋㅋㅋ
+P1 	: 그럼 데바데도 하시나요?
+P0 	: 했었는데
+P0 	: 요즘은 안해요
+P1 	: 그렇군요..
+P0 	: 오랜만에 쿠킹덤 깔아봐야겠어요

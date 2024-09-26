@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100043539
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 어떤 음료 좋아하시나요?
+P1 	: 저 커피도 좋아하고 쥬스도 좋아하고 탄산도 좋아합니다. &name1&님은요?
+P0 	: 어머 ㅋㅋㅋㅋ 저도 그래요 ㅎㅎ 다 안가리고 잘먹고
+P0 	: ㅎㅎ 그중 최애가 있으신가요?
+P1 	: 그날 그날 다른데 오늘은 밀키스가 생각나네요
+P1 	: &name1&님은요?
+P0 	: 음 저는 오늘은...
+P0 	: 사이다!
+P0 	: 칠성사이다가 먹고싶네요 ㅎㅎ
+P1 	: 사이다 좋아하시는군요~ 콜라 사이다 중 사이다신가요?
+P0 	: 네!
+P0 	: 전 사이다파{emoji:♡}
+P1 	: 저도요!! 사이다파 {emoji:♡}{emoji:♡}
+P0 	: 크!!
+P0 	: 그럼 칠성? 스프라이트?
+P1 	: 저 지금 버터구이 전복 먹는 중이라 사이다 생각 나네요
+P1 	: 전 칠성요
+P0 	: 저도저도 칠성
+P0 	: 칠성이 최고죠!
+P0 	: 오우 버터구이 ㅋzzz
+P1 	: 칠성만의 특유의 맛이 있잖아요
+P0 	: 맞아요 ㅋㅋㅋㅋㅋㅋ 세상젤좋아요
+P0 	: 이걸모르고 스프라이트만 먹는 외국인이 불쌍 ㅎㅎ

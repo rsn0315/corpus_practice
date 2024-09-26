@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017748
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 동물 좋아하세요?
+P0 	: 사실 저는 별로 안좋아해요 ㅋㅋ
+P1 	: 아 그러시구나
+P0 	: 혹시 반려동물 기르세요?
+P1 	: 네 전 강아지여~
+P0 	: 오! 혹시 이름은 뭔가요?
+P1 	: &name3&이여
+P0 	: 어머 너무 깜찍한이름이네요 누가작명했나여?
+P1 	: 제 아들이여ㅎㅎ
+P0 	: 아하~ 지금 몇살이에요?
+P1 	: 1살이여
+P0 	: 우와 너무귀엽겠어요
+P0 	: 어떤종이에요?
+P1 	: 비숑이에요

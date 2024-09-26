@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020133
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P0 	: 점심 맛잇게 드셧어요?
+P1 	: 안녕하세요
+P1 	: 네 순두부찌개 먹었어요
+P1 	: 점심 드셨나요?
+P0 	: 오 맛잇엇겟네요!!
+P0 	: 아뇨.. 곧 라면먹으려고요 ㅎㅎㅎ
+P1 	: 어떤 라면 드세요?
+P0 	: 저는 스낵면 ㅁ먹을까 고민중이에오 ㅎㅎㅎ
+P0 	: 좋아하시는 라면 잇으세여?
+P1 	: 스낵면 맛있죠
+P1 	: 전 컵누들 좋아해요
+P0 	: 오.. 사이즈 어떤걸로 한그릇만드세여?
+P1 	: 컵누들은 작은 것만 나와서 두개 먹어요 ㅋㅋㅋ
+P0 	: 특별히 좋아하는 맛이 잇으세여?
+	  다 맛잇돈데 ㅎㅎ
+P1 	: 매운맛이랑 우동맛이요
+P1 	: 스낵면말고 다른 라면 좋아하는거 잇으세요?
+P0 	: ㅋㅋㅋㅋ 저눈 불닭이랑 너구리도 좋아하고 짜장라면도 좋아해요
+P1 	: 불닭 일반맛이요?
+P0 	: 그거 치즈 녹여먹어요 ㅎㅎㅎ
+P1 	: 그쵸 그냥 먹기엔 엄청 매워요 ㅋㅋㅋ
+P0 	: 맞아요 ㅠㅠ 저는 위장이 그렇게 안튼튼해요 ㅋㅋㅋ

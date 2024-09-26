@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009710
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 네 비 엄청 오네요
+P0 	: 여기도요
+P1 	: 이번주 계속 비온다던데요 ㅠ
+P0 	: 걱정이에요
+P1 	: 저도요. 여행 계획 잡았는데 비 예보 계속이라 취소해야 하나 싶어요
+P0 	: 안전이 최고죠
+P1 	: 그쵸~ 오늘은 해도 안보이고 종일 우중충 하려나봐요
+P0 	: 태풍피해없으시길
+P1 	: 여기는 그나마 아직 바람은 없고 비만 온종일 내리네요
+P0 	: 여기도
+P1 	: 내일까진 계속 날씨가 이럴것 같죠?
+P0 	: 태풍도요

@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100037003
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비가 오면 특별히 땡기는 음식이 있으신가요?
+P0 	: 전 짬뽕이랑 김치전이요
+P0 	: &name1&님은여
+P1 	: 헉 저도 김치전이요!!!
+P1 	: 사실 맛있는 건 언제나 좋지만
+P1 	: 라면도 땡기구요....^ㅇ^
+P0 	: 그쳐 크으
+P1 	: 아근데 김밥 무서워서 못먹겠더라구요
+P1 	: 얼마전에 그 뉴스.... 들으셨죠!!!
+P0 	: 아 뉴스봤어요 저도ㅜㅜ
+P0 	: 저 김밥완전좋아하는데ㅜㅜ
+P1 	: 저도요...
+P1 	: 특히 참치김밥...
+P1 	: 재수학원 다닐 때
+P1 	: 친구들이랑 자습시간에 몰래 아침에
+P1 	: 참깨라면이랑 참치김밥 먹던게 생각나네요
+P0 	: 그 몰래먹는맛이 더맛있져
+P1 	: 맞아요!!!! 헤헤
+P1 	: 혹시 라면도 좋아하시나요?
+P0 	: 네 완전좋아해요
+P0 	: 요즘은 진라면순한맛이 꽂혔고
+P0 	: &name1&님은여
+P1 	: 저도 완전 좋아하죠
+P1 	: 오오 진라면 순한맛!!!
+P1 	: 저도 순한맛 좋아하는데
+P0 	: 네네
+P1 	: 저는 너구리도 순한맛을 좋아해요!!!
+P0 	: 저도요 요즘 순한거에 꽂혔어요
+P0 	: 그 고소한 맛에 ㅎㅎ
+P1 	: 여름님이랑 음식 얘기하는거 재밌어요!!!!

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100002603
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물{emoji:●}키워요?
+P1 	: 네! 고양이 키웁니다!
+P0 	: 어렵지 않나요?
+P1 	: 아기 하나 키우는 느낌이라고들 하던데
+P1 	: 그런 느낌이 좀 드는거 같긴해요
+P1 	: 하지만 귀여운걸 보면 그 힘든게 다 녹더라고요 ㅎㅎ
+P1 	: 이래서 동물들 다들 키우는거같아요
+P0 	: 부럽네요
+P1 	: 개인적으로 고양이가 조금 더
+P1 	: 키우기 수월해서
+P1 	: 나중에 기회되신다면
+P1 	: 고양이 키워보시는거 추천드려요!
+P0 	: 털이 장난아니라거 하던데요
+P1 	: 아 맞아요! 털갈이..
+P1 	: 털이 좀 많이 날리는게 단점이긴하죠
+P0 	: 친구집에 고양이 털이 우어
+P1 	: 그래서 털알레르기 있는 사람들은 절대로 키우면 안되죠 ㅠㅠ
+P1 	: 털이 음청 날려요!
+P0 	: 돌돌이 필수
+P1 	: 돌돌이 진짜 필수죠..
+P1 	: 집사 필수템인지라 ㅠㅠ
+P0 	: 그렇죠

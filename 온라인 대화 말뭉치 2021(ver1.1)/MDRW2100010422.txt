@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010422
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 봉사활동 다니시나요?
+P1 	: 아니요 &name1&님은요?
+P0 	: 저는 다녔었어요 지금은 아니지만요
+P1 	: 어떤활동 하신거예요?
+P0 	: 과학관 특별전에서 교육봉사를 했어요!
+P1 	: 우와 그런건 어떻게 신청하는거예요?
+P0 	: 학과에 모집한다고 써놓으셔서 하게 됐어요ㅋㅋㅋ
+P1 	: 아 그렇구나 해보니 어떠셨어요?
+P0 	: 계속 서있어야 해서 힘들기도 했지만 신기해하는 아이들을 보니 꽤 행복했던 것 같네요
+P1 	: 뿌듯하셨겠다 또 하실 계획이신가요?
+P0 	: 음 만약 기회가 된다면 또 하고 싶네요! 별 님은 봉사활동 하고 싶으신 게 있나요?
+P1 	: 저는 유기견 산책봉사 해보고 싶어요
+P0 	: 유기견 산책봉사 좋네요!

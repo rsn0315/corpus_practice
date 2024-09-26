@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100047533
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 어 오늘은 국수하고 만두 먹었다
+P0 	: 맛있는거 먹었네 
+	  난 어제 자고 일어났더니 언니가 햄버거 시켜서 먹었는데
+P1 	: 가끔 햄버거 먹고 싶을때 있어
+P0 	: 배달주문은 했는지 아직 저녁 소식이 없다
+P1 	: 벌써 7시 반인데?
+P0 	: 난 햄버거 너무 먹어서 질린다 그나마 스폐셜햄버거 시켜줘서 먹지
+P1 	: ㅋㅋㅋ 우리는 거의 치킨을 많이 먹어서
+P0 	: 우리 저녁시간은 8시전후로 먹는다 7시~9시
+P1 	: 9시는 너무 늦은데...
+P0 	: 우리도 치킨 많이 먹지 한번에 2마리 시킨다 
+	  배달시간이 오래걸리면 9시에 오기도 한다
+P1 	: 우리는 한마리 반 시켜
+P0 	: 남자2명이면 한마리 가지고는 안된다
+P1 	: 우리 아빠 많이 안먹어서 한마리 반 하면 배불리 먹음
+P0 	: 우린 남자1명인데 혼자 한마리 먹는다 ㅋㅋ

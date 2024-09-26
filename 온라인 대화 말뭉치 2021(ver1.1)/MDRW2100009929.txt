@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100009929
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 맛있게 드셨나요?
+P1 	: 네 낙지볶음밥 먹었어요
+P0 	: 와 맛있으셨겠어요~!!
+P1 	: 네 매운데 맛있긴했어요 ㅎㅎ
+P0 	: 매운거 잘 드세요?
+P1 	: 아뇨 저 완전 맵찔이예요 ㅋㅋ
+P1 	: 잘드시나요?
+P0 	: 저도요~ㅎㅎㅎ 매운거 완전 못 먹어요
+P1 	: ㅋㅋ 예전엔 잘먹었는데 안먹어버릇하니 못먹겠더라고요
+P0 	: 오~저도 그랬었는데~!!ㅎㅎ 예전에는 잘 먹었었어요~
+P1 	: 매운걸 안먹어 버릇하니 못먹겠더라고요 ㅎㅎ
+P0 	: 네~저도 나이 들수록 매운걸 못먹게 된 것 같아요
+P1 	: 맞아요 속에서 불나는 기분
+P0 	: 네~그리고 나중에 배가 아프더라고요
+P1 	: 그래서 약먹은적도 있어요
+P1 	: 매운건 힘들어요

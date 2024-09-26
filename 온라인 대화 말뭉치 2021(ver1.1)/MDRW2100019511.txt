@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100019511
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 쇼핑좋아해?
+P0 	: 쇼핑하고 싶다
+P1 	: 어떤거?
+P0 	: 피규어 사고 싶어
+P1 	: 피규어 좋아해?
+P0 	: 응 귀엽잖아
+P1 	: 무슨 캐릭터?
+P0 	: 토토로 알아?
+P1 	: 나도 토토로 캐릭터 물건 산적 있어
+P0 	: 난 토토로 피규어 사고 싶어서 돈을 모으고 있어
+P1 	: 많이 비싼편이야?
+P0 	: 10만원이 넘더라고
+P1 	: 대신 질이 엄청 좋을 것 같아
+P0 	: 꼭 사고 싶어

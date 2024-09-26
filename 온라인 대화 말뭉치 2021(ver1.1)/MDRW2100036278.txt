@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100036278
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네 안녕하세요
+P0 	: 저녁 드셨나요??
+P1 	: 네 간단하게 빵 먹었어요
+P1 	: &name1&님도 저녁 드셨나요?
+P0 	: 네 저도 저녁 먹었습니다 어떤 빵 드셨나요??
+P1 	: 식빵에다가 잼 발라먹었어요?
+P1 	: 아 물음표 잘못보냈어요ㅜ
+P0 	: 아 아니예요ㅋㅋㅋ 어떤 잼이였나요??
+P1 	: 사과잼이요!
+P1 	: 딸기잼만 먹으니까 질려서 사봤는데
+P1 	: 생각보다 맛있더라구요
+P0 	: 오!!맛있을 것 같네요
+P0 	: 어디서 사신건가요??
+P1 	: 노브랜드요
+P1 	: 대용량으로 나왔는데 괜찮더라구요
+P1 	: 다음엔 다른 브랜드에서 시도해봐도 될것같아요
+P0 	: 오 가격값하나요??
+P1 	: 네 그렇게 비싼편은 아닌것같은데
+P1 	: 맛이 좋더라구요
+P0 	: 저도 한 번 먹어봐야겠네요

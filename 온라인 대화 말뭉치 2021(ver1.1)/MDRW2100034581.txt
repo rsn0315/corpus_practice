@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100034581
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학생이세요??
+P1 	: 졸업했어요 ㅋㅋ &name1&님은요?
+P0 	: 저도요 ㅋㅋㅋ
+P0 	: 그때가 그리워요 ㅠ
+P1 	: 그떄가 좋죠 ㅋㅋ 편하고
+P0 	: 맞아요 ㅋㅋㅋ
+P0 	: 어릴때는 어른들이 그때가 젤 좋다는말을 안믿었는데 명언이에요
+P1 	: ㅋㅋㅋ어른들이 돌려말해서 그렇죠 네가 네가 쓰는 돈 안벌고 있을 수 있는 시기가 그때다라고 말하면 다들 납득했을텐데
+P0 	: 앜ㅋㅋㅋㅋ 그러네요 그거도
+P0 	: 어른들 보호아래 있던때 ㅋㅋㅋㅋ
+P1 	: 어린 나이에도 지 핸드폰비 식비 다 벌며 살라고 하면 살기 힘들거에요
+P0 	: 맞아요
+P0 	: 그래서 어린시절이 더 그리운거 같기도해요..ㅋㅋㅋ
+P1 	: 학교다니고 방과후엔 맥도날드에서 알바하면서 자기 방값 번다고 상상하면 진자 힘들죠
+P1 	: 어린 학창시절 그 때가 딱 그립다기 보딘 부모의 보호가 그립네요 ㅋㅋ
+P0 	: 맞아요
+P0 	: 싫어하는 과목은 있으셨어요?
+P1 	: 전 체육이요 수학도 싫어는 했는데 아주 못한건 아니고 좀 열심히 해야 알아들었어요
+P1 	: 님은요?
+P0 	: 허 저도 둘다 싫은데
+P0 	: 진짜 체육이 너~~무 싫었어요
+P0 	: 피구조차도 싫었어요

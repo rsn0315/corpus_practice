@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100012965
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 게임 하시나요?
+P1 	: 네넹 쿠키런 해요ㅋㅋ&name1&님은요?
+P0 	: 오ㅋㅋㅋ 저도 최근에 쿠키런 다시 시작했어요 그리고 롤도 해요!
+P1 	: 오ㅋㅋ롤은 저번에 해봤는데 되게 어렵더라고요ㅠ
+P1 	: 킹덤하세요!?
+P0 	: 아뇨 쿠킹덤은 애저녁에 접었고 그냥 쿠키런 하고 있어요!!!
+P0 	: 킹덤도 캐릭터가 엄청 많이 나왔더라고요?
+P1 	: 아하 맞아요ㅋㅋ사실 킹덤보다 쿠키런이 더 재밌는거같아요
+P1 	: 네네 주가올리기용으로 나온 캐릭터인듯...ㅎ
+P0 	: 앗ㅋㅋㅋㅋㅋㅋㅋㅋ &name2& 님은 하는게 쿠킹덤인가요 쿠키런인가요?!
+P1 	: ㅋㅋㅋ저는 둘다하는데 킹덤출시되구 갈아탄케이스에요
+P1 	: 근데 다시 돌아가구싶어요
+P0 	: 쿠킹덤 많이 재미가 없나요..?ㄷㄷㅋㅋㅋㅋ
+P1 	: 아니 이게 생산 컨텐츠만 쌓이다보니까 노가다예요ㅠㅠ
+P1 	: 1프로 유지한게 아까워서 손절못치고있는ㅠ
+P0 	: 와... 엄청 열심히 하셨나봐요
+P1 	: 맞아요... 현질도 십만원이하로 되게 안한듯요
+P1 	: &name1&님은 쿠키런에 현질하시나용
+P0 	: 하긴 생산컨텐츠가 노답이긴 하죠... 들여다 보는 것도 잦은데 그런 귀찮은 일들만 잔뜩이라...

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100006243
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 비가 많이 오죠?
+P1 	: 가을 장마라더니 꽤 오래 오네요
+P0 	: 비 오는 것 좋아하세요?
+P1 	: 제 직업때문에 그닥 좋아하지 않습니다
+P1 	: &name1&은 비오는 것 좋아하세요?
+P0 	: 저는 좋아해요 비가 오고나면 공기가 깨끗해진 기분이 들어서요
+P1 	: 그렇군요 비가 오면서 온도가 떨어져 옷을 단단히 입어야해요
+P0 	: 네 꽤나 쌀쌀하더라구요
+P1 	: 이런 날씨에는 얇은옷을 여러겹 있는게 더 좋다네요
+P0 	: 참고할게요 감사합니다
+P1 	: 일교차가 크니 감기 조심하세요
+P0 	: &name2&도 갑자기 추워진 날씨에 건강 유의하세요
+P1 	: 네 감사합니다
+P0 	: 내일도 비가 온다니 우산 꼭 준비하세요

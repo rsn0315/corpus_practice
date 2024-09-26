@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100030032
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 전남
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 언니이이
+P0 	: 안녕!ㅎㅎㅎ
+P1 	: 여행 가고 싶은 곳 있어요?
+P0 	: 음 난 부산 가보고 싶어!
+P1 	: 우와 부산 좋죠
+P0 	: &name1&이는 여행 가고 싶은 곳 있어?
+P1 	: 부산 바다 가고 싶어요
+P1 	: 저는 호주!
+P1 	: 호주 자연 보고 싶어요!!
+P0 	: 부산 바다 가고 싶어 흑흑
+P0 	: 오오 호주자연!
+P1 	: 그쵸ㅠㅠ 코로롱이라 못가고 있는...
+P0 	: 호주에서 샌드보딩? 그것도 유명하던데!
+P0 	: 어떤 자연 보고싶어??
+P1 	: 오오 그것도 하고 싶어요
+P1 	: 저 오빠가 호주 다녀와서 자랑했었거든요 ㅋㅋㅋ
+P1 	: 그래서 가고 싶어요!
+P0 	: 우와 오빠는 최근에 가신거야??
+P0 	: 완전 부럽다ㅠㅠㅠ
+P1 	: 아뇨 오빠는 진짜 예전에 결혼전ㅋㅋㅋㅋ
+P1 	: 한 6년 전이에요!
+P0 	: 앗 ㅋㅋㅋ 예전에었구나..!!
+P0 	: 코로롱 전이었어ㅠㅠ 흑 그때 갔어야했나봐 진짜
+P1 	: 요즘은 흑흑 가고 싶어도 못가는...
+P1 	: 맞어요ㅠㅠ
+P0 	: 못 가본 외국 진짜 많은데 ...
+P0 	: 맞아..... 언제 또 갈 수 있지

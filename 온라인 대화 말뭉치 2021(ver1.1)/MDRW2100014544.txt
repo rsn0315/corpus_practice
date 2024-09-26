@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100014544
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 동물 키우세요??
+P0 	: 네 강아지여
+P1 	: 오 강아지 키우시는군요!!
+P1 	: 어떤 종이에요?
+P0 	: 비숑이여
+P1 	: 엇? 저희가 이 대화를 했던가요ㅋㅋㅋㅋ
+P0 	: 그런가요? 1살이에용ㅎ
+P1 	: ㅋㅋㅋ네네 했던 것 같아요
+P1 	: 키워보고 싶은 다른 동물 있으신가요?
+P0 	: 강아지말곤 없네요ㅎ
+P1 	: 전 애완동물은 키울 자신이 없어요.
+	  대단하셔요~
+P1 	: 아무리 키워도 2-3살짜리 애기 키우는 거라하더라고요,,
+P0 	: 맞아요
+P0 	: 귀여워서 참아요
+P1 	: ㅋㅋㅋ귀엽긴 진짜 귀여울 것 같아요.
+P1 	: 예방접종 같은 것도 다 했나요?
+P0 	: 네 코로나도 맞았어요

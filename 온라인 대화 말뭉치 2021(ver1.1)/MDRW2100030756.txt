@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030756
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 예약은 하셨나요?
+P1 	: 아 저는 잔여백신 맞았습니다ㅎㅎ
+P0 	: 저는 10부제로 맞았어요! 어떤 거 맞으셨나요?
+P1 	: 저는 얀센이요 ㅎㅎ 6월에 맞았습니다
+P0 	: 헉 한번만 맞으셨겠네요.. 맞은 이후에 아프진 않으셨나요?
+P1 	: 한 이틀 열오르고 저리고 팔아프고 하더라구요 ㅋㅋ
+P1 	: &name1&님은 어떤거 맞으셨어요?
+P0 	: 저는 최근에 화이자 맞았어요!
+P1 	: 오그러시구나 안아프셨어요??
+P0 	: 한 3일 정도 접종부위 뻐근하고 말았어요! 1차는 확실히 안아픈가봐요.. 2차가 걱정인
+P1 	: 아 화이자는 그렇다고 하더라구요ㅋㅋ
+P0 	: 맞아요. 2차 안아팠으면 좋겠어요 ㅠㅠ
+P1 	: 안아프실거에요 ㅠㅠ 가족이 1차는 아스트라 2차는 화이자 맞았는데 괜찮더라구요ㅎㅎ
+P1 	: 가족분들은 다 예약 하셨나여??
+P0 	: 가족들은 이미 다 맞았어요! 제가 거의 맨 마지막으로 맞아요.
+P1 	: 아아 그러셨구나 ㅋㅋ 그래도 맞고 나니까 왠지모르게 안심되는거같아여

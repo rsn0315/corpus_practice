@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100046625
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211103
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 뭐하고 계세요?
+P0 	: 유튜브로 음식영상 보고있어요
+P0 	: {emoji}
+P1 	: 와! 어떤 음식 좋아하세요?
+P0 	: 회전초밥 좋아해요 ~
+P1 	: 오 회 좋아하시나봐요
+P0 	: 생선회도 그렇고 육회도 좋아해요
+P1 	: 저도 육회 좋아해요!
+P1 	: 이제 방어의 계절인데 방어 드셨어요?
+P0 	: 방어 아직 못먹었어요ㅜㅜ
+P0 	: 돈들여서 대방어로 가족 다같이 먹고시프요
+P1 	: 이제 곧 드시면 딱이에요!!
+P1 	: 술 드세요?
+P0 	: 술은 안좋아하는데 가족끼리 모이면 한잔 먹어요
+P1 	: 회엔 소주긴 한데 ㅎㅎㅎ
+P0 	: 숙성회랑 사케 한잔하면 좋긴하죠ㅎ
+P1 	: 회땡기네요 ㅠㅠ 내일 회 먹어야겠어요..
+P1 	: 좋은 밤 되세요!!

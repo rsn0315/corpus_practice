@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100047334
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 네 안녕하세요
+	  당근 이용하세요?
+P1 	: 자주 이용해요
+P0 	: 저도요...특히 아이 책은 중고로 사도 괜찮더라구요
+P1 	: 팔아본적있으세요?
+P0 	: 네.. 책 옷 가방..팔아봤어요
+P0 	: 님은요?
+P1 	: 최근에 버즈 팔아봤어요.
+P0 	: 버즈가 뭐에요??
+P1 	: 이어폰이요!
+P0 	: 아 ㅎ 당근거래잘되죠..ㅎ
+P1 	: 잘팔리더라고요
+P1 	: 전자기기라서
+P0 	: 맞아요 ~ 지금 사고싶은물건 있나요?
+P1 	: 노트북이요!

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100045628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 피자는 어떤거 젤 잘 드세요
+P1 	: 베이컨포테이토피자 좋아해요
+P1 	: &name1&님은여?
+P0 	: 오 저도 비슷한데 도미노 포테이토 피자요
+P1 	: 도미노 포테이토 맛잇죠
+P0 	: 네 여기에 감자추가 하는거 누가 알려줬는데 좋더라고요 ㅋㅋ
+P1 	: 오 감자추가도 돼요?
+P0 	: 네네 토핑에서요 ㅋㅋㅋ 감자가 두배..
+P1 	: 대박
+P1 	: 그걸몰랏네요
+P0 	: 그쵸 쩝짭박사님이 알려주시더군요..
+P1 	: 현명하신분..
+P0 	: 그르니깐요 ㅋㅋㅋ 그럼 좋아하는 과자는 있으세요
+P1 	: 네 감자칩좋아해요
+P0 	: 오 저도 감자류 젤 좋아해요 포카칩 스윙칩 수미칩 오감자 등등

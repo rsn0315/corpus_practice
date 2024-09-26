@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100045560
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 구입하고 싶은 물건 있나요?
+P0 	: 네. 있습니다 집이요
+P1 	: 그거말고 좀더 작은 물건은 뭐 있나요?
+P0 	: 오븐이요.
+P0 	: 큰 오븐이요.ㅠㅜ이태리산
+P1 	: 아 특별히 갖고싶은 오븐 브랜드가 있나요?
+P0 	: 지에라나 스메그나 우녹스요
+P1 	: 많이 비싼편인가요???
+P0 	: 네 백만원부터 삼백만원까지 합니닷
+P1 	: 와 삼백짜린 많이 큰거겠죠???
+P0 	: 네 집이 좀 커야해요 흑흑
+P1 	: 가스오븐이나 전기오븐 둘중에 어떤걸 선호하세요?
+P0 	: 저는 전기오븐이욥
+P1 	: 아 저는 가스오븐이 더 좋은건줄 알았어요!
+P0 	: 하나 설치해보고싶어서 집에 오븐 넣을 자리도 연구해보고 그랬엇어요.

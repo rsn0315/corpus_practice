@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100000593
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 운동하시는거 있으세요?
+P0 	: 러닝이요! 꾸준히 하다가 여름엔 넘 더워서 못 하고 있었어요~
+P1 	: 야외 러닝이요? 조깅? 대단하세요
+P0 	: 저 달리기 진짜 싫어했는데! 하니까 재밌더라구요~
+P0 	: 야외에서 해야 더 기분좋아요!
+P1 	: 친구도 잼있다고 추천하더라구요 근데 저는 자신이 없어요 헉헉 거리는게 힘들것같아서요
+P0 	: ㅠㅠ마자요 그게 젤힘든데,, 하다보면 조금씩 늘더라구요!
+P1 	: 하신지 오래되셨어요?
+P0 	: 런데이 라는 어플로 도움 받으면서 하니까 수월했어요~
+P0 	: 아니요 작년에 처음 제대로 도전 ㅋㅋㅋ
+P1 	: 친구 무슨 어플이야기하던데 그건가봐요
+P1 	: 무릎 아프거나하지않으세요? ㅎㅎ
+P0 	: 넘 무리하면 조금 아프긴해요! 그럴땐 쉬면 낫더라구요~ㅎ
+P1 	: 뛰러나가는게 귀찮지는 않으세요?
+P0 	: 귀찮아요 ㅠ진짜 가기싫을때도있고~
+P0 	: 그래도 억지로 나가도 뛰고나면 좋더라구용 ㅎ

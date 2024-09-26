@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017263
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 여행 좋아하시나요
+P1 	: 여행 좋아해요 ㅎㅎ국내해외다좋아요
+P0 	: 어디가보셨나요
+P1 	: 다양하게 많지만 젤 기억에남는곳은 국내는 여수 해외는 미국이요 ㅎㅎ
+P0 	: 미국 너무가보고싶어요
+P1 	: 미국 좋았어요 ㅜㅜ 특유의 바이브! 또가고싶은나라에요
+P0 	: 뉴욕 가고싶네요
+P1 	: 뉴욕좋죠~ 혹시 국내여행은 어디가보셨어요?
+P0 	: 제주 너무좋아요~
+P1 	: 아 그쵸! 제주도 힐링만땅 ㅜ
+P0 	: 섭지코지 넘좋아요
+P1 	: 노 첨들어보는데 메모해둬야겠군요!

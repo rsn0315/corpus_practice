@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022323
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근 구매하신게 뭐가 있으시나요?
+P0 	: 최근에 치즈 구매했어요!
+P0 	: &name2&은요?
+P1 	: 저는 제일 최근이라면 ㅋㅋㅋ 빵을 구매했어요~
+P0 	: 빵 좋아하시는군요!!
+P0 	: 어떤빵 좋아하세요?
+P1 	: 저는 빵이란 빵 다 좋아하는데 최근 먹은빵 중엔 블루베리 생크림식빵이 맛있었어요 ㅋ
+P0 	: 오.. 저 블루베리 완전 좋아하는데
+P0 	: 블루베리 생크림 식빵 집 근처에  파는지 찾아봐야겠어요
+P1 	: 빠리바게트요
+P1 	: 요기요 마넌이상 픽업서비스하면 오처넌 할인이에용
+P1 	: 저는 그걸로 사먹었어요 오처넌의 행복으로
+P0 	: 대박
+P0 	: 저 배민만 써서 그건 몰랐네요
+P0 	: 요기요가 쿠폰이 더 많은거같아요
+P1 	: 오늘까지니 빨리 ㅋㅋㅋㅋ 픽업서비스로 은혜로우시길!!!
+P0 	: 오오..ㅋㅋㅋㅋ
+P0 	: 정보의 바다는 여기였네요ㅋㅋ 감사합니당
+P0 	: 오늘도 구매하신건가용?
+P1 	: 아니요 전이미 빵 부자 되서 ㅋㅋㅋㅋ 안샀어요 ㅋㅋㅋ
+P0 	: 역시 빵은 많이 쟁여둬야 편안해요ㅋㄲㄱㅋ
+P1 	: 마자요 ㅋㅋㅋㅋ 무슨빵 좋아하세요?

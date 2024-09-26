@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010617
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 키우는 동물 있으세여?
+P0 	: 아뇨없어요ㅠ
+P1 	: 전 토끼 키워요
+P0 	: 헐 진짜요????
+P0 	: 우왕
+P1 	: 네~ 올해로 8년째 ㅋㅋ
+P0 	: 와 오래키우셨네요
+P0 	: 토끼는 밥 뭐먹어요??
+P1 	: 풀하고 건초가 주식이에요!
+P1 	: 생각보다 당근은 그렇게까지 좋아하지 않아요ㅋㅋ
+P0 	: 아하 글쿤요
+P1 	: 달달한 걸 제일 좋아해서
+P1 	: 과일을 보면 눈 돌아가요ㅋㅋ
+P0 	: 아 상상만해도 넘귀여워요ㅠㅠ
+P1 	: 방금 전까지 풀어놓고있었는데
+P1 	: 슬슬 잘때되서 케이지 안에 넣어놨어요
+P0 	: 되게 보들보들할거같아요
+P1 	: 볼따구랑 머리 문질러주는걸 좋아하는데
+P1 	: 기분 내키면 제 손아래에 얼굴 턱 대고 쓰다듬어달라고 해요ㅋㅋ
+P0 	: 진짜 토끼 제 옆에 있었으면 뽀뽀했을거예요.. 텍스트만 봐도 귀여운데ㅜㅜ
+P1 	: 흑흑 너무 귀여워요...

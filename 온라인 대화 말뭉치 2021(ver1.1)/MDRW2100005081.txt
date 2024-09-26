@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100005081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래를 해보신 경험이 있으신가요?
+P0 	: 당근마켓 한 번 해봤어요! &name2&님은요?
+P1 	: 저도 당근마켓 이용해봤어요! 어떤 거래를 하셨었나요?
+P0 	: 저는 가족 대신 분유 거래 해줬었어요!ㅋㅋㅋ 은근 안팔려서 걱정했던ㅠ
+P0 	: &name2&님은요?
+P1 	: 저는 새 텀블러 몇 개 팔아봤어요! 저도 계속 끌어올리기 해가면서 겨우 팔았네요ㅋㅋ
+P0 	: 맞아요 찜만 하시고.. 오 텀블러는 잘팔릴것 같은 품목인데 의외네요!
+P0 	: 다들 집에 텀블러 하나씩은 있어서 그런가
+P0 	: 그리고 당근은 생각보다 가격을 많이 깎아야하는 단점이 있더라고요..ㅠ
+P1 	: 제가 구매자라도 그러긴 하겠지만 판매할 때는 그렇게 귀찮은 게 더 없죠ㅠㅠ
+P0 	: 맞아요ㅋㅋㅋ좋은점은 배송비 안드는 거!
+P0 	: 그리고 뭔가 같은성별 구매자였으면 좋겠다..하는 마음도 있고
+P1 	: 신뢰할 수 있다는 것도 플러스 요인이죠!
+P0 	: 맞아요ㅋㅋㅋ 진짜!
+P0 	: 구매를 희망하는 물건 있으신가요?
+P1 	: 요즘은 바디필로우 찾아보고 있어요
+P0 	: 아하 바디필로우~~
+P0 	: 저는 갑자기 트레이닝복에 꽂혀서 이따 찾아보려고요!
+P0 	: 필로우 딱딱한거 찾으세요 말랑한거 찾으세요?
+P1 	: 말랑해서 껴안기 좋은 걸로 찾고 있어요!

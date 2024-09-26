@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008262
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 막 먹었어요! 저는 피자 먹었는데
+	  &name1&님은 식사하셨나요?
+P0 	: 네 전 비빔국수 먹었어요 무슨 피자 드셨나요?!
+P1 	: 포테이토피자 먹었어요~
+	  와 비빔국수 맛있었겠네요!
+P1 	: 매운 음식 잘 드시나요?
+P0 	: 네 매운 음식 없어서 못 먹죠 불닭짱!!
+P1 	: 완전 부러워요 ㅠㅠㅠㅠㅠ저도 매운 음식 좋아하는데 이젠 소화기관이 거부해요
+P1 	: 까르보불닭 이상 먹으면 난리나요
+P0 	: 저도 매운 건 좋아하지만 최애는 까르보불닭이에요ㅋㅋㅋ
+P1 	: 까르보불닭 너.무. 맛있죠
+P1 	: 진짜 불닭시리즈 중에 최애예요
+P0 	: 까르보 불닭 좋아하시면 라면 투움바도 드셔보세요!
+P1 	: 라면 투움바 그건 뭐죠
+P1 	: 이미 이름부터 맛있을 것 같은데요
+P0 	: 유튜브에 검색하면 나오는데 라면 면 끓이고 생크림, 치즈 넣고 또 끓여서 먹는 거예요!
+P1 	: 불닭처럼 라면이름인 줄 알고 검색해봤어욬ㅋㅋㅋ
+P1 	: 맛있을 것 같아요 ㅠㅠ 제 손이 맛을 제대로 낼 수 있을진 모르겠지만 도전해 봐야겠네요!
+P0 	: 네 꼭 드셔주세요 저 이거 알고나서 불닭보다 이거 더 많이 먹게 됐어요 이제 일주일에 한번씩은 꼭 먹어줘야해요...
+P1 	: &name1&님 벌써 설레잖아요...ㅠ

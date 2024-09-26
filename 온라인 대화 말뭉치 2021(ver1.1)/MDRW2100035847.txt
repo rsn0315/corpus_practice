@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100035847
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이신가요?
+P0 	: 아니요 졸업했어요
+P0 	: 학생이신가요?
+P1 	: 저도 졸업했어요!
+P1 	: 학교 다니실때 동아리 하셨어요?
+P0 	: 저는 새내기때 배드민턴, 볼링, 잠깐했었어요
+P0 	: 동아리하셨어요?
+P1 	: 오.. 저는 고등학교때 영상동아리 해봤어요!
+P1 	: 대학생때 못해본게 아쉬워요ㅠ
+P0 	: 저두요 활발하게 해볼껄 하는 생각 자주들어요
+P0 	: 술을 싫어하다보니 동아리활동 안 맞아서 그냥 나왔거든요
+P1 	: 아ㅠ 술동아리가 많다긴 하더라구요
+P1 	: 저도 그래서 안했는데 한때인데 할껄 그랬나 싶어요
+P0 	: 그죠 그냥 술안마시는데 잘찾아볼걸 싶어요
+P0 	: 만약 하시게된다면 뭐 하시고 싶으세요?
+P1 	: 천문학이나 기타요!
+P1 	: &name1&님은요?
+P0 	: 저는 요즘은 배구요!
+P1 	: 오오 운동파신가봐요!
+P1 	: 몸 움직이는거 좋아하세요?
+P0 	: 네 운동 좋아하는편이예요! 헬스같은건 싫어하지만요...
+P0 	: 이번올림픽보고 배구해보고싶어졌어요
+P1 	: 오오 대단하세용
+P1 	: 이번 올림픽 완전 멋있었조!

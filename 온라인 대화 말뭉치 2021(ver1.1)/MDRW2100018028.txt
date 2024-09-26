@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100018028
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 책 자주읽어.?
+P0 	: 읽고 싶긴한데 잘 안 읽게되네
+P1 	: 도서관 가서 빌리면 좋을텐데 코로나라서 아쉽네
+P0 	: 책 사는 값이 비싸긴 해
+P1 	: 맞아 책도 할인하면 더 자주 구매할텐데
+P0 	: 나는 그래서 밀리의 서재로 책을 읽어
+P1 	: 오 나도 이북으로 책 읽어본적 있어
+P0 	: 구독권으로 한달동안 책을 빌려 읽을 수 있어
+P1 	: 출퇴근길에 가볍게 책 읽을수 있어서 좋겠다
+P0 	: 맞아 그리고 인기 순위의 책을 알 수 있어
+P1 	: 베스트셀러 읽는거 좋아해?
+P0 	: 베스트셀러들은 대부분 재밌더라
+P1 	: 맞아 보장된 재밌는 책들이지

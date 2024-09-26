@@ -1,0 +1,48 @@
+# FILE DATA
+ID : MDRW2100011423
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 머리 뭐하셨어요?
+P1 	: 컷트만 할랬는데 파마도 했어요.
+P0 	: 저도 요즘 머리스타일을 바꾸고 싶어서요.
+P1 	: 저는 머리 손댄거 완전 후회중이요ㅠㅠ
+P0 	: 생각했던 스티일이 아닌가보네요ㅜ
+P1 	: 네 컷트까진 괜찮았는데 파마가 좀 올드하게 나와서요
+P0 	: 이런ㅠ속상하시겠네요. 기장은 어느정도에요?
+P1 	: 허리까지였는데 어깨선으로 잘랐어요.
+P0 	: 저도 어릴땐 긴생머리 자주했었는데
+P1 	: 지금은 어떤 머리스타일이에요?
+P0 	: 저야ㅎ그냥 아줌마파마죠.

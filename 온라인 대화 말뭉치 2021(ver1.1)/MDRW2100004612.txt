@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100004612
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 스포츠 경기 좋아하세요?
+P1 	: 음 유튜브에서 클립같은거 보는거 좋아해요 ㅎ
+P1 	: 이번에 올림픽 여배는 챙겨봤어요!
+P0 	: 개막식이나 폐막식도 보셨어요?
+P1 	: 네 ㅋㅋㅋ..진짜 노잼이었어요
+P1 	: 개막식 진짜 재미없었는데 폐막식은 더 재미없던데요
+P0 	: 헐 저는 폐막식 되게재밌던데
+P1 	: 헉.. 어느 부분이 재밌으셨나요..?
+P1 	: 나방..?
+P0 	: 그 민족별로 노래 다른거 보여줄때
+P0 	: 재밌더라구요
+P0 	: 월드컵 보는거 좋아하세요?
+P1 	: 축구는 음.. 챙겨보진 않아요
+P0 	: 이번 동계올림픽도 보실거에요?
+P1 	: 올림픽은 볼거예요 ㅎㅎ
+P1 	: 피겨에 기대되는 선수들이 되게 많다고 하던데요?
+P0 	: 피겨보는거 좋아하세요?
+P1 	: 네네 지식은 없지만 보는건 좋더라구요
+P1 	: &name1&님은 좋아하는 경기 종목 있으세요?
+P0 	: 저는 축구 수영같은 유명한게 좋더라구요
+P1 	: 축구 직관 가보신적 있나요??
+P0 	: 아뇨 직관가본적은 없어요..

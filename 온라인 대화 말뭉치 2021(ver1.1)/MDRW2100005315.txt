@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100005315
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지금 태풍올라오나봐요
+P1 	: 장마아니고 태풍이예요?
+P0 	: 뉴스에서 가을장마라더니 태풍도오나봐요
+P1 	: 무섭네요 ㅜㅠ
+P1 	: 우린 태풍오면대기하고 난린데
+P0 	: 일기예보 확인해보세요
+P0 	: 뉴스보니 부산 난리났던데요
+P1 	: 진짜요? 오늘 하루 뉴스를 못봤네요
+P0 	: 저도 잠깐봐서 장맛비인지 태풍때문인지 확실치않아요ㅎ
+P1 	: 부산에 물난리났나요?
+P0 	: 그런가봐요 어디지역은 배뒤집히고
+P1 	: 헉 배뒤집힐정도로 바람이 센가보네요
+P0 	: 그런가봐요 피해가 없어야 할텐데
+P1 	: 저는 회사대기하라고 통보가 안와야할텐데요 ㅜㅠ
+P0 	: 대구는 괜찮지 않을까요?
+P1 	: 안오길 바래봐야쥬
+P0 	: 이따 일기예보 다시봐야겠어요
+P0 	: 서울은 많이안오는거 같은데

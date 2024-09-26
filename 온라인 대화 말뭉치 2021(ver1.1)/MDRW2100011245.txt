@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011245
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아침 드셨어요
+P0 	: 아니요 원래 아침은 잘 안먹어서요
+P0 	: 식사 하셨나요?
+P1 	: 저는 최근 맛있는 과자?를 알았어요
+P0 	: 어떤거요?
+P1 	: 현미랑 물만넣은 현미 누룽지인데
+P1 	: 특수 기계로 진짜 얇게 눌러서
+P1 	: 손바닥만하게 만든거에요 ㅎ
+P0 	: 마트에서 파나요?
+P1 	: 네이버에서 늘조은 현미 누룽지 치시면 나와요
+P0 	: 오 한번 찾아볼게요 ㅎㅎ
+P1 	: 저는 한 봉지만 선물 받은건데 이때까지 먹어본 거중 젤 맛있어서 제돈제산 추가구매 하려고요 ㅋㅋ
+P0 	: 저도 요새 자극적인거만 먹어서
+P0 	: 뭔가 속이 편할거 같아요 ㅎㅎ
+P1 	: 사실 다이어트 한다고하니 한봉지 주더라고요 ㅋㅋ
+P1 	: 일단 다른 누룽지에 비해 이빨이 안 아파서 좋았어요 ㅋㅋ
+P0 	: 오 좋네요 ㅎㅎㅎ

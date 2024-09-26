@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023131
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 샐러드는 야채 처리가 힘들어서 못 해먹어요
+P0 	: 가끔 사먹기는 해욬ㅋㅋ
+P1 	: 아 자취하세요? 그럼 야채처리 힘들어하던데..
+P0 	: 네.. 샐러드하려면 그래도 야채 두세개는 써야되는데 그렇게 사면 다 먹을 자신이 없어서..
+P1 	: 맞아요 ㅜㅜ 믹스된 샐러드용 야채 사보셨어요?
+P0 	: 한 번 사봤는데 금방 질려서..ㅎ..
+P1 	: 혼자먹기엔 양이 진짜 많긴해요 ㅜ 과일같은것도 그렇겠어요 ㅜ 컵과일은 너무많고
+P1 	: 너무많고가 아니라 너무 비싸고 ㅎㅎ
+P1 	: 양은 너무 찌끔이죠..
+P0 	: 맞아요 차라리 파는 거 사먹는게 훨씬 맛있고 싼 것 같아요
+P1 	: 건강챙기려면 신선한 야채좀 먹어야하는데 ㅜ 샐러드 가격도괜찮고 퀄리티도 괜찮은건진짜 드물어요...
+P0 	: 맞아요ㅠㅠ 야채 먹는 용으로 서브웨이 가기도 해요 ㅋㅋ
+P1 	: 서브웨이가 은근 건강식인거같아요 소스빼면!
+P0 	: 소스도 보니까 소금후추도 있거 올리브유도 있다라고요
+P1 	: 맞아요 후추만 뿌려서 먹을때도있지만 사실 사우스웨스트 소스를 포기할수없어요...
+P0 	: 야채는 사실 소스 맛으로 먹는 거잖아요 ㅎㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100011305
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사 하셨나요
+P1 	: 아직이요
+P1 	: 점심메뉴는 정하셨나요?
+P0 	: 아직 정하지 못했어요
+P0 	: 밤새님은요?
+P1 	: 저는 백반을 먹게 될 거 같아요.
+P0 	: 백반 맛있겠다
+P0 	: 반찬 중 좋아하는거 있나요?
+P1 	: 한식은 너무 많잖아요?
+P1 	: 자주 가는 백반집은 깻잎장아찌가 맛있어요
+P0 	: 깻잎장아찌 맛있어요
+P0 	: 완전 밥도둑
+P1 	: 맞아요. 향도 좋고 짭조름해서ㅋㅋ
+P1 	: 고기반찬이 제일 좋긴 하지만요
+P0 	: 어떤 고기 좋아하세요
+P0 	: 저는 돼지고기 좋아해요
+P1 	: 저도요. 삼겹살을 제일 좋아해요.
+P1 	: 밥이랑 먹을땐 제육볶음이 좋네요
+P0 	: 삼겹살도 제육볶음도 너무 맛있는 반찬이에요
+P0 	: 혹시 양념갈비도 좋아하시나요
+P1 	: 너무 좋아하죠ㅋㅋ 굽기가 어렵긴 하지만요
+P0 	: 맞아요 잘못하면 타버리니까

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007192
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 자장면 어때요
+P1 	: 어머 오늘 저녁이었어요
+P1 	: 자장면 땡기시나요
+P0 	: 내일 배달 시켜 먹고 싶어서요
+P1 	: 주말엔 기름진 배달음식 좋죠
+P1 	: 비가 온다면 자장면 대신 짬뽕 어떠세요? 얼큰하게
+P0 	: 짬뽕 국물이 정말 맛있어요 하지만 자장면을 포기할 수는 없어요
+P1 	: 그쵸 우리의 스테디 자장면은 자장면이죠
+P1 	: 고춧가루 뿌려드시나요
+P0 	: 당연히 고춧가루는 필수입니다 식초도 넣어야 해요
+P1 	: 크으 맛잘알이신가봐요 저도 한번 시도 해봐야겠어요
+P1 	: 자장면의 짝꿍 탕수육은 어떠세요
+P0 	: 탕수육도 좋은데 먹기엔 양이 너무 많네요
+P1 	: 흑흑 맞아요ㅠㅠ 위 크신 분들이 이럴 때 정말 부럽죠
+P1 	: 배달음식 중에 자장면을 가장 좋아하세요?
+P0 	: 자장면도 좋지만 가장 좋아하는 음식은 치킨이에요
+P1 	: 요새 치킨 유랑중인데 하나만 추천해주세요!ㅎㅎ
+P0 	: 어제 처음 시켜봤는데 쌀통닭 아시나요? 후라이드가 참 맛있더라구요
+P1 	: 치킨브랜드가 쌀통닭이에요? 배민에 검색하니까 안나와요ㅠㅠ

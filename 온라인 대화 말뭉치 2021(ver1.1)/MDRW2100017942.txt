@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100017942
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 미세먼지가 별로 없네요
+P1 	: 일기예보 보시는 편이신가요?
+P0 	: 네 거의 매일 봐요
+P1 	: 오늘은 날이 좋았어요
+P0 	: 내일도 좋겠지요?
+P1 	: 그랬으면 좋겠어요!
+P1 	: 다만 여기는 비소식이 있더라구요ㅜㅠ
+P0 	: 여기도 내내 비소식이ㅠ
+P1 	: ㅜㅜ우산 잘 챙겨가세요
+P0 	: 비 너무귀찮네요
+P1 	: 그러게요ㅠ 오늘 날 좋으니 좋았었는데말이죠
+P0 	: 그러게요
+P1 	: 그래도 비 그치면 더 가을다워질거같아요
+P0 	: 맞아요

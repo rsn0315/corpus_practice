@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025089
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘은 배 안 아파?
+P0 	: 응 이제 배 아픈 시기는 지났나봐
+P1 	: 다행이네. 할머니는 아직 무릎 아프시다고 해서 약 드시는 중
+P0 	: 할머니도 비타민 D 챙겨드려~ 비타민 디가 부족하면 뼈 건강에도 안 좋대
+P1 	: 안 그래도 병원에서 그 말 하더라. 일주일에 두세번 챙겨먹어야 한대.
+P0 	: 그래~~ 엄마는 아픈 데 없고?
+P1 	: 엄마는 잘 체하는 것 말곤 별로 없네.
+P0 	: 아 자주 체하니까 역류성 식도염 생기잖아~
+P0 	: 밥 먹고 바로 눕지 말고 1시간 정도는 앉아 있어..!
+P1 	: 알겠어. 아빠가 걱정이야. 치아가 안 좋아서.
+P0 	: 치과 갔다 왔대? 치과에서 뭐래?
+P1 	: 발치하고 임플란트 해야 된대. 큰일이야
+P0 	: 헐 진짜 큰일인데?? 하긴 아빠 신경치료한 지도 몇년 됐지ㅠㅠ
+P1 	: 그렇지. 처음엔 발치는 안 해도 될 거라고 하더니 이제는 더 미루면 안 된다고 하네.
+P0 	: 치과에서 그렇게 말하면 더 나빠지기 전에 치료 해야지 뭐..

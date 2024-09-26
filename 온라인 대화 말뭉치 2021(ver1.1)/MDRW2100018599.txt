@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100018599
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요.
+P0 	: 오늘은 비가 안 오네요.
+P1 	: 안녕하세요 거긴 비가 오나요
+P0 	: 거긴 어떤가요?
+P1 	: 아 여기는 비가 와요
+P1 	: 저녁까지 계속 오겠어요
+P1 	: 지역이 어디인가요
+P0 	: 저는 전남 남부요!
+P0 	: 여기는 아침에 조금 내리더니 맑아요!
+P1 	: 아 여기는 수원입니다
+P1 	: 한 7시부터 부슬비가 내리네요
+P1 	: 어제도 비가 안 왔나요?
+P0 	: 어제도 조금씩만 오고 맑았어요.
+P0 	: 요새 처서 지나고
+P0 	: 완전 가을이 된 것 같네요.
+P1 	: 맞아요 비 오면서 완연히 접어들었네요
+P1 	: 조금 아쉽기도 해요
+P1 	: 무슨 계절 좋아하세요
+P0 	: 저는 겨울이요!
+P0 	: 여름 좋아하세요?
+P1 	: 네 더위를 별로 안타서요
+P1 	: 추위는 많이 타요
+P1 	: 님은 반대시려나요
+P0 	: 반대인 것 같아요.
+P0 	: 저는 추위는 괜찮은데
+P0 	: 더운 건 영 못 참아요.
+P1 	: 그럼 여름이 곤욕이었겠네요ㅜ
+P1 	: 어릴때부터 추위에 강하셨나요
+P0 	: 추위도 힘들긴 한데 옷 더 입으면 되니까 괜찮았어요.
+P0 	: 근데 더운 건 정말 어찌 할 도리가 없더라고요.

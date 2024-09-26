@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015476
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 야식고파진다
+P0 	: 야식은 보쌈이지
+P1 	: 크
+P1 	: 족발 보쌈
+P1 	: 둘중에 고르라면 뭐 골라?
+P0 	: 아...
+P0 	: 고민되네
+P0 	: 각각 땡기는 날이 달라서
+P0 	: 오늘은 보쌈
+P1 	: ㅋㅋㅋㅋㅋㅋ난 족발...
+P1 	: 우리동네에 족발맛집 있는데
+P1 	: 핵존맛
+P0 	: 잠깐만 불족발이면 이야기가 다르다
+P1 	: 아 불족발은 아니야
+P0 	: 냉채족발도 아니야?
+P1 	: ㅋㅋㅋㅋㅋ냉채족발도 아니야
+P1 	: 그냥 일반 족발인데 짱맛있어
+P1 	: &address&영양족발
+P0 	: 오늘 점심 뭐먹어?
+P1 	: 오늘은 서브웨이 먹었어
+P1 	: 샌드위치 좋아해?
+P0 	: 좋지
+P0 	: 에그드랍도 좋고
+P0 	: 이삭토스트도 좋고
+P1 	: 오 난 아무리 뭐라해도 이삭토스트가 젤 좋다

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100002760
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화봐요?
+P1 	: 영화 좋아하는데 요즘 극장가기 겁나서 못가고있어요
+P1 	: 마지막으로 본게 기생충인거같아요 ㅎ
+P0 	: 저도 그쭘
+P1 	: 모가디슈 잼나다고하던데요 보셨나요?
+P0 	: 저도 들었어요
+P1 	: 인질도 있고 싱크홀도 감동적이라고하고
+P1 	: 갑자기 보고싶은것들이 많이 나오는거같아요
+P0 	: 영화관 못 가서 슬퍼요
+P1 	: 맞아요 그래도 가는사람들은 가시나봐요
+P0 	: 개봉을 하니
+P1 	: 저는 찝찝해서 못가겠던데...
+	  나만 안가는게 맞는건지싶기도 하더라구요
+P0 	: 거리두기라도 불안
+P1 	: 그렇다고 거리두기되는 샤롯데가기엔 비용이 만만찮고 ㅎㅎ
+P0 	: 맞죠

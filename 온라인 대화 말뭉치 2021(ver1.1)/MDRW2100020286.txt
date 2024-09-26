@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100020286
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 학생이신가요?
+P1 	: 안녕하세요 직장인이에요
+P1 	: &name1&은 학생이신가요?
+P0 	: 저도 직장인입니다!
+P0 	: 회사 다니다보니 학생때로 돌아가고싶어요ㅠㅠ
+P1 	: 맞아요 학생때 너무 그립죠 ㅠㅠㅠ
+P1 	: 언제가 제일 그리우세요?
+P0 	: 저 고등학교때요!
+P0 	: 힘들었지만 그래도 그시절이 젤 재밌었어요
+P0 	: &name2&은요?
+P1 	: 저도 고등학교시절 너무 그리워요
+P0 	: 그땐 진짜 공부하기 싫었는데
+P0 	: 아무것도 모르고 공부할때가 젤 좋은거였어요ㅠㅠ
+P1 	: 맞아요 ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: 친구들끼리 별 내용없는 수다떨고 ㅋㅋㅋㅋ
+P0 	: 헐맞아요! 야자시간조차도 그리운거있죠ㅋㅋ큐ㅠㅠ
+P1 	: 머리카락 사이로 이어폰 꽂고 몰래 딴짓하고 ㅋㅋㅋㅋㅋ
+P0 	: 앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋ라디오 몰래 듣고 소설도 읽고요ㅎㅎ..
+P1 	: 다운받은 예능도 몰래보고 ㅋㅋㅋㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ동년배이신듯하네요

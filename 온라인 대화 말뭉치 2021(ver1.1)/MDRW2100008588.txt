@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100008588
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강하시지요.
+	  저는 오른쪽 어깨가 아파서 팔을 잘 못들겠네요.
+P1 	: 네 어깨는 괜찮아요 병원 가보셨어요?
+P0 	: 병원에 가봤는데
+	  약먹으면 치료기간이 길다고
+	  물리치료를 받고 도수치료도 받으라는데
+	  그냥 방치하고 있어요.ㅡㅡ
+P1 	: 흠 어떡해요 유튜브같은데 자가치료 컨텐츠 있으려나요
+P0 	: 예전에도 자연치료되길래
+	  이번에도 그러길 바라고 있는데
+	  지난번보다 더디게 낫네요.
+P1 	: 네 얼른 괜찮아지시면 좋겠습니다
+P0 	: 좋아하는 패션템 있으세요?
+	  전 요즘 마스크줄에 관심있어요.ㅎ
+P1 	: 귀걸이 좋아해요 ㅎㅎ
+P1 	: 마스크줄이 다양하게 있나봐요
+P0 	: 귀걸이 이쁜 거 많이 갖고 계세요?
+	  마스크 줄이 눈에 띄더라구요.
+	  집에 여러종류를 갖고 있어요.ㅎ
+P1 	: 네 예전엔 나름 열심히 샀어요 많지는 않구요
+P0 	: 금제품 아니더라도 부작용없이 착용하실 수 있어요?
+	  귀걸이는 패션용품이라 소재도 엄청 다양하더라구요.
+P1 	: 아 저는 철은 약간 찝찝하긴 한데 도금되어있으면 괜찮았어요
+P0 	: 다행이네요.
+	  저는 가끔은 도금제품도 귀가 간지럽더라구요.

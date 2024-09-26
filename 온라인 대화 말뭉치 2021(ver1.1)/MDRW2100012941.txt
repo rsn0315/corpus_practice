@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012941
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가족하고 같이 사시나요?
+P1 	: 네. 같이 살고 있어요.
+P0 	: 집안일은 어떻게 분배하고 계세요?
+P1 	: 거의 부모님이 하시고 저는 요리를 돕고 있어요.
+P0 	: 요리 ! 무엇을 주로 하셔요?
+P1 	: 밑반찬은 어머님이 해놓으셔서 메인요리를 해요. 고기를 굽거나 전을 부치거나 해요.
+P0 	: 여름이라 불앞에서 고생이시겠어요
+P1 	: 그래도 괜찮아요. 제가 칼질을 못해서 오히려 불앞에서 조리하는 게 편하더라고요.
+P0 	: 그러시구나!  자신있는 요리있으세요?
+P1 	: 스파게티도 자주 해먹고 콘치즈도 해먹어요. 김치전도 가끔 야식으로 만들어요.
+P0 	: 와 김치전! 요즘 비가 자주와서 어울렸을거 같은데   최근에도 드셨나요?
+P1 	: 엊그제도 먹었어요. 오징어랑 묵은지랑 같이 넣어서 먹으니 너무 맛있더라고요.
+P0 	: 맛있었겠어요!

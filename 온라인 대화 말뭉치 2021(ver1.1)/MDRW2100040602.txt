@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100040602
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어 저도 걸작떡볶이 좋아해요
+P0 	: 오!! 걸작에 어떤 떡볶이 좋아하시나요?
+P1 	: 저는 기본도 좋아하고 숯불도 좋아해요
+P0 	: 걸작 맛있죠
+	  거기 로제떡볶이 드셔보셨나요?
+P1 	: 아니요 아직이요
+	  로제 맛있나요?
+P0 	: 네 저 거기 로제떡볶이가 제 인생 떡볶이 중 하나예요
+P0 	: 걸작 숯불떡볶이 맛있나요?
+P1 	: 네 저는 맛있었어요
+P0 	: 정말 고기맛에서 숯불 향이 느껴지시나요?
+P1 	: 네 느껴지더라구요
+P1 	: 떡볶이 국물에도
+P1 	: 잔잔하게 그 숯불향이 배어있는 느낌이라 좋았어요
+P0 	: 우와 떡볶이의 숯불향이 들어가면 더 맛있어지나요?
+P0 	: 상상이 안가요
+P1 	: 숯불향이 들어간다고 더 맛있어지는건지는 잘 모르겠지만 받아서 포장을 여는 순간
+P1 	: 숯불향이 느껴지고 국물 먹을때 느껴지더라구요
+P0 	: 오!!꼭 먹어봐야겠네요
+P1 	: 근데 떡 먹거나 할때는 별로 안 느껴졌어요

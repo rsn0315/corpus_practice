@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100046248
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 일상 트렌드
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 반갑습니다
+P1 	: 안녕하세요!
+P1 	: 월요일에 쉬셨나요?
+P0 	: 네네
+P1 	: 다행이네요!
+P0 	: 네 &name2&님도
+P0 	: 쉬셨나요
+P0 	: ?
+P1 	: 네 저도 쉬었어요 ! 2주연속 주4일 일했더니 다음 주가 걱정이에요 ㅋㅋ
+P0 	: 다행이네요
+P0 	: 쉴때 푹쉬어야해오
+P1 	: 맞아요
+P1 	: 이제 설날까지 빨간날 없는 게 사실인가요 엉엉
+P0 	: 크리스마스는 빨간날이 아닌가용
+P0 	: 아 크리스마스가 토요일 이네요ㅜ
+P1 	: ㅠㅠㅠ 자동으로
+P1 	: 새해도
+P1 	: 주말 
+P0 	: ㅠㅠ
+P0 	: 또르르
+P1 	: 언제즘 주 4일이 정착되려나요
+P0 	: 아직 먼나라 이야기 인거 같아요
+P1 	: 그쵸 ㅠㅠ 선진국 되려면 멀었음
+P1 	: ㅋㅋㅋㅋ
+P0 	: 네네ㅋㅋㅋㅋ

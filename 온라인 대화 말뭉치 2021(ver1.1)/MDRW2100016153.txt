@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100016153
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘 해 떳어요
+P1 	: 아주 오랜만에 보는 해여서 기분이 좋네요
+P1 	: 거기는 어떤가요?
+P0 	: 저도 오랜만에 해떠서 기분좋아서 물어봤어요
+P0 	: 진짜 비가 징하게 와서 지겹던 참이거든요
+P1 	: 맞아요 빨래도 안마르고
+P1 	: 오늘 빨래돌리고 나왔구만요
+P1 	: 오늘은 그럼 어떤 패션하고 나오셨나욧
+P0 	: 오늘은 맨날 돌려입던 옷을 입었습니다
+P0 	: 가볍고 편하게
+P1 	: 극강의 효율 추구하시구먼요
+P1 	: 그러면 비오는 날 vs 눈오는 날
+P0 	: 아 어려운데
+P0 	: 눈보다는 비가 낫지않나요
+P0 	: 눈오는 날 미끄러워서
+P0 	: &name2&은 어떠세요
+P1 	: 저도 비요
+P0 	: 비가 지긋지긋해도
+P0 	: 눈보다는 나은게 현실
+P1 	: 웹툰 플랫폼 중에 비오는 날 포인트 주는 곳이 있어서
+P1 	: 장마 아주 쏠쏠합니다
+P1 	: 눈은 좀 쓰레기같어요
+P1 	: 스키장에서만 좋아요
+P0 	: 스키장 가봤어요?
+P1 	: 네네네
+P1 	: 가보셨나요?!!!
+P0 	: 올.. 가봤습니다
+P1 	: 근데 이번엔 코로나땨문에 못갔는데
+P1 	: 겨울 스키장에서 스키 타고
+P1 	: 숙소 들가서 라면이 최고죠

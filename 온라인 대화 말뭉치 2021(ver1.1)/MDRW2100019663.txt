@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100019663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 음 은색?
+P0 	: 은색? 엄청 특이하겠다
+P1 	: 넘 튀나?
+P0 	: 엄청 튈 거 같기는 해 그래도 하고싶으면 하는거지
+P1 	: 무슨색으로 염색하고 싶어?
+P0 	: 난 짙은 빨간색
+P1 	: 예전에 한 번 하지 않았나?
+P0 	: 맞아 옛날에 한번 했었는데 잘어울렸던 거 같아
+P1 	: 근데 나 염색하려면 한 2년 있다가 해야 될 듯
+P0 	: 왜?
+P1 	: 머리결 나빠서
+P0 	: 아 나도 많이 상했어
+P1 	: 그래도 많이 나아지지 않았나?
+P0 	: 난 머리 감을 때마다 트리트먼트 해

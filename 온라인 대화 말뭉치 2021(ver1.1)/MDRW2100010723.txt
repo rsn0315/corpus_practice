@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100010723
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 저녁은 무얼 드셨나요?
+P1 	: 호박죽이요. 님은요?
+P0 	: 저는 만두 먹었어요!
+P0 	: 배달이었는데 생각보다 맛이 없었네요...
+P1 	: 무슨 만두요? 김치? 고기?
+P0 	: ㅋㅋㅋㅋ 배달로 시킨 김에 모듬만두를 시켰습니다.
+P0 	: 김치 고기 새우 피가 없는 만두.. 갈비만두 튀김만두
+P1 	: 와..그럼 냉동인가..
+P0 	: 그건 아닌데 만두 전문점이라 여러 종류 준비해놓고 주문 받으면 쪄서 내는 것 같아요.
+P0 	: 만두 좋아하세요?
+P1 	: 오프매장이 있는 만두집인가요?
+P0 	: 네ㅎㅎ
+P0 	: 들어가서 먹어본 적은 없는데 지나다니며 보긴 했어요.
+P1 	: 그럼 직접 빚긴 했겠네요 네 좋아해요~
+P0 	: 혹시 추천하는 냉동만두나 만두 가게가 있다면?
+P1 	: 비비고 만두가 맛있고요. 그리고 고향만두여도 잘 굽고 소스만 잘만들면 ㄱㅊ
+P0 	: 헐 고향만두 추천하는 분 첨 봐요...
+P1 	: 무난한걸 잘 구워먹는게 바로 스킬이죠.
+P1 	: 가성비도 있으니 ..
+P0 	: 너무 정답이네여ㅋㅋㅋ
+P0 	: 만두 소스는 직접 만드시나요?
+P0 	: 저는 오리엔탈 소스에 찍어먹어요ㅋㅋㅋ 간장이랑 맛이 비슷하더라고요.

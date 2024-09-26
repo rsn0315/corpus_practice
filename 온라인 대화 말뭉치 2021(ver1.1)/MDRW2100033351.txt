@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 춥네요.
+P1 	: 그러게요.
+	    방금 창문 닫아버렸어요.
+P0 	: 아예 꽉 닫는 것보다는 환기를 위해 조금 열어두는 게 좋다네요.
+P1 	: 그래요? 방금 조금 열어뒀어요.
+P0 	: 이불 잘덥고 자야해요.
+	   안그럼 환절기 감기 걸리네요.
+P1 	: 그러겠더라구요.
+	  바람이 차가워서
+P0 	: 이불 바꾼 거 괜찮아요?
+P1 	: 계절에 맞춰 이불 바꾸는 것도 일이네.
+P0 	: 나는 조금  덥던데..
+P1 	: ㅎ
+P1 	: 기상 이변 뉴스봤데?
+P0 	: 어떤 뉴스요?
+P1 	: 뉴욕 홍수 뉴스
+P0 	: 어.. 허리케인 때문이었다지만 끔찍하더라고
+P1 	: 선진국도 피해갈 수 없으니..  
+	  게다가 후진국들은 어케 복구하겠어.

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100024846
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 운동 따로 배우거나 해보싱거 있으세요?
+P1 	: 저는 어렸을 때 수영 배워본 적 있어요!
+P1 	: &name1&님은요?
+P0 	: 오 그렇군요 저는 운동이랑 거리가 멀긴햇어요 ㅋㅋㅋㅋ
+P0 	: 그나마 최근에 필라테스해봤어요!
+P1 	: 와 어때요?? 저도 필라테스 예전에 배워보고 싶었어요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ진짜 너무 힘든운동이더라구요....
+P0 	: 좀 약간 정적인거인줄알앗능데...
+P1 	: 아하.. 자세 교정은 되는 것 같나요??
+P0 	: 아 네네 자세교정되요! 제가 허리가 안좋은데 많이좋아졌어요
+P0 	: 근데 진짜 스쿼트 런지 이런거 병행도해서 힘들더라구요
+P1 	: 얼마나 배우신 거예요?
+P0 	: 6개월 정도 했어요!
+P0 	: 몸 라인이 좀 정리되도라구요!
+P1 	: 와 꽤 오래 하셨네요..!
+P1 	: 좋네요! 저도 나중에 기회되면 한번 해봐야겠네요
+P0 	: 네네 좋아요! 살도 좀 빠지기는하는데
+P0 	: 아무래도 살빼는건 식이가 진짜 중요한거같아요 ㅋㅋ ㅠㅠ
+P1 	: ㅠㅠ역시 그렇군요...
+P1 	: 운동만 해서는 잘 안 빠지는 것 같아요..
+P0 	: 맞아요 다이어트하려면 식이가 진짜 중요한듯해요 ㅠ

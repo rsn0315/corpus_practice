@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100001838
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 &name1&님
+P0 	: 밤되니 날씨가 시원하다못해 추워지네요 감기조심해야겠어요^^
+P1 	: 이제 가을이 온것같아요
+P1 	: 올 여름 엄청 더웠는데
+P1 	: 순식간에 시원해지네요
+P0 	: 그니까요 입추지나자마자 더위 꺾인것 같아요ㅎ
+P1 	: 다음주 비오고 완전한 가을이 될것같아요
+P0 	: 이러다 곧 겨울오겠어요 전 가을이 좋은데 ㅎㅎ
+P1 	: 저도 가을 좋아해요!!!
+P1 	: 맛있는것도 많고
+P0 	: 하늘도 예쁘고!!ㅎㅎ
+P1 	: 요즘 미세먼지도 없고
+P1 	: 날씨도 참좋아요
+P0 	: 미세먼지없는건 진심 너무좋아요ㅎㅎ
+P1 	: 그쵸!!!
+P1 	: 코로나만 아니면
+P1 	: 여행가기좋은 날씬데
+P0 	: 진짜요 소풍이라도 가고싶어요

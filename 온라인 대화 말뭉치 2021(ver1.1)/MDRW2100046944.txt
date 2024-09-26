@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100046944
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211107
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 주말에 뭐하셨나요?
+P0 	: 주말에는 그냥 쉬었어요 ㅎㅎ 집에서 티비보고 푹 쉬었네여~
+P1 	: 예능 보셨어요? ㅎㅎ
+P1 	: 무슨 프로그램 좋아하세요?
+P0 	: 놀면뭐하니랑 런닝맨 골때리는그녀들 봤어요 ㅋㅋ 뭔가 활동적인예능이재밋네요!
+P1 	: 헉 저랑 예능 취향이 같으시네요 ㅋㅋㅋ
+P1 	: 저도 3개 즐겨봐요!!!
+P1 	: 특히 골때녀 진짜 감동이랑 재미 다 잡았어요 ㅠㅠ
+P0 	: 네 맞아요!
+	  전 그거 명절에 파일럿프로그램할때부터 기대하고봐가지고 ㅎㅎ
+P0 	: 이번 멤버들이 더 장난아니던데요 ㅎㅎ
+P1 	: 맞아요 ㅋㅋㅋ 그거 보고 제 친구도 풋살 수업 듣더라구요 ㅋㅋㅋ
+P1 	: 엄청 재밌어보여요
+P0 	: 운동하기에는 축구보다 풋살이 더 재밌는거같아요! ㅎㅎ
+	  대학교때 축구수업들었었는데 무지힘들엇어요 ㅠㅠ
+P1 	: 축구는 제 체력이 안될거같아요 ㅋㅋㅋㅋ 보는 걸로 만족하려구요
+P1 	: 골때녀에서 응원하시는 멤버 있으신가요?
+P0 	: 맞아요 ㅋㅋ 축구는 보는걸로 만족해야죠~ㅋㅋ
+P0 	: 골때녀 이번에 원더우먼팀이 넘기대되요 ㅎㅎ 유심히보고있답니다 완전 장난아니어서...
+P1 	: 스포츠 예능 넘 재밌어요 ㅋㅋㅋ

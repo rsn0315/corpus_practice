@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009431
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 오랜만에 담임중이에요 ㅎㅎ
+P0 	: 아 담임하면 다른 업무는 없어요?!
+P1 	: 고등은 학년부고 학년내 업무 맡아요 ㅎㅎ 체험학습 이라... 과연 가게될지
+P0 	: 아 코로나에 체험학습은.. 계획하고 엎고의 반복 이겠어요
+P1 	: 아예 첨부터 엎길 기대하고있는데 다음주 회의 네요ㅠㅋ
+P0 	: 의미 없는 회의네요ㅠㅠ 실현가능성이 없는....
+P1 	: 글쎄요... 강력하게 갈거라 하더라구요ㅠㅠ
+P0 	: 어유 4단계가 아닌 지역인가요?
+P1 	: 아뇨 4단계맞아요 ㅎㅎ 학운위에서 학부모들이.오히려 꼭 가자해요
+P0 	: 애들 코로나라 2년동안 못간건 아쉽지만.. 가정에서 알아서 가야지 학교서 단체로 가는건 좀...
+P1 	: 그러게요 도대체 뭘 바라는건지...흠
+P0 	: 식사시간이 특히 문제잖아요 아유 엎어지길 바랍니다!
+P1 	: 밥은 4명씩 따로 먹으면 되니까요~ 고등은 원래 그러니^^ 초등이신가요?
+P0 	: 네초등이에요^
+P1 	: 중고등은 소풍가서 단체로 안다니다보니 .. 올때도 따로 오고 같때도 따로가고.. 방역수칙에 위반 될게 크게 없더라구요
+P0 	: 아~~~ 그부분이 완전 다르네요! 오! 신기해요
+P1 	: ㅋㅋ학창시절 기억 안나십니까!

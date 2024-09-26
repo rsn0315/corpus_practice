@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100039325
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 점심 드셨나요?
+P0 	: 네 먹었습니다
+P0 	: 점심 드셨나요?
+P1 	: 네 먹었습니다!
+P0 	: 뭐드셨나요?
+P1 	: 쌀국수 먹었는데
+P1 	: 뭐 드셨나요?
+P0 	: 오 저도 오늘 쌀국수 먹었어요!!
+P0 	: 쌀국수 좋아하시나요?
+P1 	: 앗 넵
+P1 	: 정말 좋아해요 분짜! 오늘 먹었죠
+P0 	: 헉 맛있으셨겠어요!
+P0 	: 배달 음식은 자주 드시나요?
+P1 	: 네 저는 어젯밤에 치킨도 먹었어요
+P1 	: 치킨 이틀째 먹었습니다..ㅎㅎ
+P1 	: &name1&님은 어떠신가요?
+P0 	: 저도 배달 음식 좋아해요
+P0 	: 치킨이나 피자
+P0 	: 어디 치킨 드셨나요?
+P1 	: 저는 부어치킨이용
+P1 	: ㅎㅎ
+P0 	: 오 처음 들어보네요!
+P1 	: 네 맛있어요ㅎㅎ

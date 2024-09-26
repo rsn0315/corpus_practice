@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100040188
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 코로나 이후 여행 계획 있으세요?
+P0 	: 코로나 이후엔 국내여행을 좀 활발히 다녀볼까 해요
+P0 	: 그동안 휴가때마다 해외 자주 다녔는데
+P0 	: 한동안 해외 나가는 건 좀 걱정될 것 같아요
+P1 	: 다들 해외는 걱정 많이 하더라구요
+P0 	: 네 아무래도 해외여행은 당분간...
+P1 	: 국내여행이 인기가 많아질 듯해요 ㅎㅎ
+P0 	: 네 &name2&님은 어디 여행지가 좋으셨어요?
+P1 	: 좀 오래되긴 했지만 부여요
+P1 	: 요즘은 많이 개발되서 더 좋을 것 같아요
+P0 	: 오 부여요?
+P0 	: 부여는 초등학생 때 가보고 안가봤는데
+P0 	: 부여 어떤 점이 좋으셨어요?
+P1 	: 전 낙화암이랑 그 아래 강이 좋았어요
+P1 	: 저도 어릴 때 간거라 잘 생각이 안나네요
+P0 	: 아 경치랑 분위기가 좋았다는 얘기시군요
+P0 	: 저는 몇년 전에 순천 가봤는데 좋았어요
+P1 	: 순천하면 고추장밖에 생각이 안 나네요
+P1 	: 어떤 점이 좋으셨나요?
+P0 	: 아 고추장은 순창 아닌가요ㅎㅎ
+P1 	: 앗 잘못봤네요 ㅋㅋ
+P0 	: 순천만 갈대숲이 좋더라고요 저는
+P1 	: 갈대숲 가을에 가면 참 좋겠네요
+P0 	: 네 특히 가을에 가면 좋죠
+P0 	: 일몰시간이 진짜 멋있어요
+P1 	: 와 경치며 분위기까지 좋겠어요 보고 싶네요

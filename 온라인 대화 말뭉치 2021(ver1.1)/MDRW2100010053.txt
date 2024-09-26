@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100010053
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 수페르가 세일하길래
+P1 	: 두켤레 샀지롱
+P0 	: 두켤레나요?
+P1 	: 응 근데 두켤레에 3만원
+P0 	: 와 싸게샀네요
+P0 	: 누구거 샀어?
+P1 	: 내거ㅎㅎㅎㅎ
+P1 	: 넌 운동화많잖아ㅎㅎ
+P0 	: 흥ㅠㅜㅜㅜ
+P1 	: 코듀로이 겨울용 하나랑
+P1 	: 무슨 소가죽 하나샀는데
+P1 	: 빨리 신어보고싶다
+P0 	: 부럽다 내것도 사주지
+P1 	: 넌 몇달전에 사줬잖아
+P0 	: 그래두...
+P0 	: 다양하게신으면 좋자나
+P1 	: 알겠어 아직 세일기간 안끝났으니까
+P1 	: 사줄까?
+P0 	: 오오오오
+P0 	: 네네네네
+P0 	: 사주세요

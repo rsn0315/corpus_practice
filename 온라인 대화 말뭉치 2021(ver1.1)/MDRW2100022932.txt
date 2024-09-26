@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100022932
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 학교다녀?
+P1 	: 9월 1일이 개강이야
+P0 	: 우아 난 9월 1일에 태권도 심사바
+P1 	: 넌 학교 안다녀?
+P0 	: 다녀다녀
+P0 	: 대학교
+P1 	: 몇학년이야?
+P0 	: 공부 겁나잘했어
+P0 	: 2학년
+P1 	: 거짓말
+P0 	: 시비걸지마라
+P1 	: 알겠아 미안해
+P1 	: 수강신청 잘했어?
+P0 	: 나 휴학했는데!
+P1 	: 좋겠다
+P0 	: 넌 학교다녀?
+P1 	: 나는 반학기 휴학했었어
+P0 	: 왜 1학기만했어
+P1 	: 1년 신청했는데 그냥 한학기만 하고 복학했어
+P0 	: 엥 그럼 1학기 휴학은 날아가?
+P1 	: 그냥 없던거 되는거야
+P0 	: 우아 짱이다 학교다녀?
+P0 	: 야
+P0 	: 복학하냐고
+P1 	: 다니지
+P0 	: 무시하지마라
+P0 	: 어디다녀
+P1 	: 수도권이야
+P0 	: 거짓말

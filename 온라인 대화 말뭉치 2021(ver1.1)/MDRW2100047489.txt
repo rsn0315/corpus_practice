@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100047489
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 식사하셨나요?
+P1 	: 아뇨 아직 집 가는 중이여서요
+P0 	: 저녁은 어떤 거 드실 예정인가요?
+P1 	: 김치찌개 먹을 거예요
+P0 	: 늦게 드시네요! 원래 이 시간에 드시나요?
+P1 	: 집에 늦게 도착해가지구
+P1 	: 보통은 6시에 먹어요
+P0 	: 바쁘셨나봐요ㅜㅜ 직접 요리하신 건가요?
+P1 	: 할머니가 만들어줬아요ㅋㅋㅋㅋ
+P1 	: 된장찌개 직접 요리해 본 적은 있네요
+P0 	: 저도 할머니랑 같이 살아서 할머니가 자주 요리해주세요ㅎㅎ 된장찌개랑 김치찌개 중에 어떤 걸 더 좋아하시나요?
+P1 	: 저는 된장이 더 좋아요!
+P1 	: 분식에서 나오는 미소된장국도 좋아하구요
+P1 	: &name1&님은요?
+P0 	: 저는 김치찌개요! 된장도 좋아해요~
+P0 	: 분식은 자주 드시나요?
+P1 	: 가끔 떡볶이 땡길 때가 있어요
+P1 	: 볶음밥이나 김밥 먹고 싶을 띠ㅢ 분식점 가요
+P0 	: 맛있죠! 어떤 김밥 제일 좋아하시나요? 저는 요즘 참치가 맛있더라고요!
+P1 	: 저도 참치 제일 좋아하는데
+P1 	: 일반으로 먹을 때도 있어요
+P1 	: 근데 참치엔 마요가 들어가야돼요
+P1 	: 안그럼 뻑뻑해서

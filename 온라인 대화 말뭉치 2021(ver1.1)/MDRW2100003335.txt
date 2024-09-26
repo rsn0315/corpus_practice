@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100003335
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 자주읽으시나요?
+P1 	: 예전엔 진짜 독서광이었죠!
+P1 	: 요즘도 읽긴합니다
+P0 	: 어떤주제 읽으세요? 전 인문학좋아해요
+P1 	: 저는 과학쪽이랑 판타지요! 스릴러도 좋아해요!
+P0 	: 우와 과학 ㅎㅎ 공대생이라 공상과학 많이봤었는데
+P1 	: 오 공대생이구나 대박이네요..
+P0 	: 스릴러 추천할만한 도서잇나요?
+P1 	: 스릴러는 게이고 라는 작가분꺼 추천드려요!
+P1 	: 히가시노 게이고 작가분꺼요!
+P1 	: 대표적으로 가면산장 살인사건같은게 재밌더라고요!
+P0 	: 오 알져알져 나미야 ㅎㅎ
+P1 	: 나미야 잡화점도 재밌죠!
+P0 	: 영화도 몇개있고! 역쉬 스릴러는 일본작가가 잘쓰더라구요ㅎㅎ
+P1 	: 맞아요~!!
+P0 	: 요즘 이북도 나오는데 이북도 읽으세요?
+P1 	: 이북은 간간히 보죠!
+P0 	: 저는 집중이 잘 안되서 그냥 책이 낫더라구요
+	  종이 냄새도 뭔가 좋구요ㅎㅎ
+P1 	: 아하 맞아요!
+P1 	: 저도 그래서 이북보단
+P1 	: 종이책을 선호하는편이죠 ㅎㅎ
+P0 	: 주말에 비도온다는데 간만에 책이나좀읽어야겠어요ㅎㅎ

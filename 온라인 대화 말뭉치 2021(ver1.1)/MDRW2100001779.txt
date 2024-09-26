@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100001779
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 종교가 무엇인가요?
+P1 	: 불교입니다. 오요디님은요?
+P0 	: 저도 불교입니다. 종교활동을 하시는 편인가요?
+P1 	: 저는 잘 안하지만 어머니는 자주가세요
+	  요즘 코로나때문에 종교활동하면서 확진자 생기는것에 대해 어떻게 생각하세요?
+P0 	: 코로나에도 불구하고 종교활동하는 것에는 반대하는 입장입니다.
+P1 	: 저두요. 온라인활동해도 좋을것같은데
+P0 	: 집에서도 충분히 종교활동이 가능하지 않을까요?
+P0 	: 네 맞아요
+P1 	: 절밥이 근데 맛있긴해요
+P0 	: 맞아요 절밥먹는 재미로 절에 가기도 하죠
+P1 	: 절이 특히 산속에 있어서 등산도 할수있고 좋던데요 나중에 템플스테이 혹시 관심있으세요?
+P0 	: 템플스테이를 한번도 해본적은 없지만 한번쯤은 경험해보고 싶네요 템플스테이 해본적 있으세요?
+P1 	: 저도 없어요 혼자 자연에서 조용히 있고싶네요
+P0 	: 자연에서 힐링할 수 있는게 불교의 장점이기도 한거같아요
+P1 	: 남동생은 근데 교회다녀요
+P1 	: 종교가 가치관에서 중요하세요?

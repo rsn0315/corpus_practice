@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100026898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~
+P1 	: 오늘 저녁 뭐 드셨나요 ㅎㅎ
+P0 	: 오늘 저녁으로 연어덮밥 먹었답니당 ㅎㅎㅎ
+P1 	: 완전 맛있는 거 드셨네요...
+P1 	: 연어 좋아하시나요?
+P0 	: 네! 유일하게 먹는 생선이 연어에요~ㅋㅋㅋ
+P1 	: 헐 생선 안 좋아하세요? 연어 좋아하시면 참치도 좋아하실 것 같은데ㅠㅜ
+P0 	: 네 생선안좋아해여 ㅜㅜ 비슷하긴한거같긴한데 참치는 별로안좋아해여 ㅜㅜㅋㅋㅋㅋ
+P1 	: 그럼 뭘 제일 좋아하세요? 생일날 이건 꼭 먹고싶다! 하는 거
+P0 	: 아 저는 생일때 꼭 피자를 시켜먹어요 ㅋㅋㅋ 케이크는없어도되지만 피자는 없으면안되는!
+P1 	: 헐 피자 맛있죠... 전 도미노 피자 제일 좋아해요 요즘 로컬 피자집도 맛있는 곳 많던데 역시 대기업의 맛이 좋다고 해야하나
+P0 	: 역시 ㅋㅋㅋㅋ 여기 물어보시는분들 열이면 아홉은 다 도미노 꼽으시더라구요~
+P0 	: 도미노 인정합니당ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 역시 도미노
+P1 	: &name1& 치킨두 좋아하시나요
+P0 	: 저는 뭐 배달음식 다좋아하는것같구욤ㅋㅋㅋ

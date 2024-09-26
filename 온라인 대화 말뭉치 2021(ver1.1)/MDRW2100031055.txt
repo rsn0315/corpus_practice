@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031055
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>자영업 고용 한파
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 자영업에 종사하세요?
+P0 	: ?
+P0 	: 안녕하세요ㅎ 아니용용
+P1 	: 요즘 자영업자들 다들 힘들어서 죽으려 하더라구요
+P0 	: 네 뉴스랑 신문기사로 많이 봤어요
+P1 	: 손님없어 매출 줄고
+P0 	: 그쵸 코로나땜에 더욱
+P1 	: 네 그러다보니 다들 개점휴업상태, 영업할수록 손실이 커지는 상황인가봐요
+P0 	: 큰일이네요
+P1 	: 어쩔수없이 가게직원을 줄여야하고, 알바 2명쓸거 1명쓰게되고, 그러면서 전반적 취업률지표도 계속 나빠지니... 참
+P0 	: 다들 살기가 팍팍해지기만 하니 진짜 걱정이에요
+P0 	: 고용한파가 해결되어야할텐데ㅜㅜ
+P1 	: 고용문제
+P1 	: 참 답이 없어요
+P0 	: 그쵸 사회이슈들이 참 어려워요
+P1 	: 이해관계자가 넘 다양하고
+P1 	: 정책도입시점에는 예측못한 부작용도 많그

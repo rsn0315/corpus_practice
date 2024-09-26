@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100016671
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요, 운동 좋아하시나요?
+P0 	: 네 좋아해요 선선해져서 조깅하는 재미가있네요!
+P1 	: 어느 코스로 도세요?
+P0 	: 하천가 따라서 도는데
+P0 	: 요즘은 사람들도 많이 나와서 좋아요
+P1 	: 비가 많이 오지 않았나요? 하천이라서요ㅠ
+P0 	: 아 비올땐 안가서 괜찮아요
+P0 	: 오늘 아침에 갔을 땐 괜찮았어요
+P1 	: 비가 안 올 때 하천 따라 걸으면 시원해서 좋으시겠어요
+P0 	: 방금도 다녀왔는데 엄청 개운해요
+P0 	: 운동하세용?
+P1 	: 저는 홈트하고 있어요!
+P0 	: 오 어떤 거 하세요?
+P1 	: 스트레칭, 플랭크 기본에 상하체 나눠서 하고 있어요
+P0 	: 플랭크 넘좋죠!

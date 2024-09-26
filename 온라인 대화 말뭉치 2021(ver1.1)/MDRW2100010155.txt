@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 그러게 꽤 많이와
+P0 	: 큰아들 학교에 준비물 가지러 다녀왔는데 우산이 푹 젖음
+P1 	: 아 다녀왔어?
+P0 	: ㅇㅇ 이번주에 교과서도 받으러 가야 하는데 비 안왔으면
+P1 	: 오늘내일만 태풍 때문에 오는 거겠지 ㅎㅎ
+P0 	: 과연 그럴까? 태풍이 비 몰고 온다던데
+P1 	: 난 있다가 퇴근할 때나 안왔으면 좋겠어 ㅎㅎ
+P0 	: 비오니까 뜨끈한 커피 마시고 싶다
+P1 	: 한잔 해~ 나도 방금 맥심 먹었심 ㅎㅎ
+P0 	: ㅎㅎ 오후엔 맥심이지
+P1 	: 정신이 맑아짐 ㅋ
+P0 	: ㅇㅇ 확실히 마시면 기분이 좋아져 ^^
+P1 	: 그래도 비내리는 소리는 좋다

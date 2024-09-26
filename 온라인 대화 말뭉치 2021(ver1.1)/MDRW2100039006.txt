@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100039006
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 피자 살 때 어떤 메뉴 선호하세여?
+P1 	: 포테이토 콤비네이션 불고기 주로 주문하는데
+P1 	: 포테이토 가장 좋아해요
+P0 	: 오ㅎㅎ 저도 포테이토 좋아해요ㅎㅎ
+P0 	: 고소하고 맛나죠
+P1 	: 맞아요
+P1 	: 저는 포테이토가 좋은데 동생은 불고기를 선호해서 경쟁이에요
+P0 	: ㅋㅋㅋ저도 불고기보단 포테이토가 더 좋아요ㅋㅋ
+P0 	: 치열하겠어요
+P1 	: 그렇죠
+P1 	: 막내와 치열한 경쟁을 합니다
+P0 	: ㅋㅋㅋㅋㅋ가족은 다 그런가봐요ㅋㅋㅋ
+P1 	: 어릴때는 남동생과 경쟁을 했죠
+P1 	: 피자냐 치킨이냐
+P0 	: ㅋㅋㅋㅋ &name2&님은 보통 무슨파세요?
+P1 	: 전 어릴때 피자파였어요
+P0 	: 지금은 달라졌나요?
+P1 	: 지금은 치킨 피자 둘 다 선호해요
+P1 	: 어릴 때 부모님이 하나로 통일하라 하셨지만
+	  매번 치열하게 하나는 치킨 하나는 피자를 외쳤어요

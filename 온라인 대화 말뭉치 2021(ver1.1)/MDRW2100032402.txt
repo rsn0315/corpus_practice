@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100032402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 왜 그렇게 생각하세요
+P0 	: 함께 살면 의지가 되고요
+P1 	: 저도 혼자 사니까 쏠쏠하더라구요
+P0 	: 집안일도 나누어서 할 수 있어요
+P1 	: 아버지는 집안 일을 잘 안 하세요
+P0 	: 저희집도 마찬가지에요
+P1 	: 요리를 잘 하시나요
+P0 	: 김치볶음밥 정도만 만듭니다
+P1 	: 저랑 표정이 비슷하시네요
+P0 	: 저는 집안일에 욕심이 없어요
+P1 	: 어느 정도 깔끔하게만 살면 되는 거 같아요
+P0 	: 네 안하면 티나는게 집안일이니까요
+P1 	: 오늘 저는 설거지를 했어요
+P0 	: 설거지를 그때그떄 바로 하시나요
+P1 	: 쌓이면 더 하기 싫더라고요

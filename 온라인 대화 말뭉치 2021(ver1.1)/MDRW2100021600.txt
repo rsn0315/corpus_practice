@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100021600
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안 분위기는 어떤 편이세요?
+P1 	: 좋은 편이면서도 각자 따로 놀아욬ㅋㅋㅋ
+P0 	: 앗 ㅋㅋㅋ 그래요? 자유분방해요?
+P1 	: 아 네네 맞아요 ㅋㅋㅋ
+P1 	: 각자 관심사가 달라서 ㅋㄱㅋㅋ 주말에 각자 취미생활 하러  흩어지는 것 같아요
+P1 	: &name1& 집안은 어떠세요?
+P0 	: 저희집도 자유분방한 편인데 아빠가 좀 보수적이세요
+P0 	: 그래서 가끔 답답해요 ㅜ
+P1 	: 아 그러시구나 ㅜ
+P1 	: 평소에 집안일은 뭐하세요?
+P0 	: 청소 빨래 요리 설거지 이 4종 자주해요
+P1 	: 오 요리 잘하세요??
+P0 	: 네 요리는 잘하는 편인데 에어프라이기 덕분인 것 같아요
+P1 	: 와 그럼 보통 뭐해먹으세요?
+P0 	: 다양하게 먹긴하는데 치킨,피자 자주 먹을 때도 있구요
+P0 	: 파스타나 라자냐 먹을 때도 있고, 참치회덮밥이나 리조또 등등 먹기도 해요
+P1 	: 우와 잘해드시네요
+P1 	: 요리하고 나면 뒷정리가 힘들지 않으세요??
+P1 	: 저는 정리를 잘 못하는 편이라 요리도 정말 간단한것만 해먹거든요 ㅋㅋ
+P0 	: 요리하면서 뒷정리도 같이 해요 ㅎㅎ
+P0 	: 근데 다 먹고 배부르고 기분도 좋을 때 설거지 하긴 싫어요 ㅜ
+P0 	: 집안일 중에 젤 하기 싫은게 뭐에요?

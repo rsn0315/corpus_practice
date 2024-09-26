@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100011331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영양제 드시나요?
+P1 	: 네~먹고 있어요~
+P0 	: 뭐드시나요?
+P1 	: ㅎㅎ 저는 종합비타민이랑 유산균, 커큐민, 노니액기스, 루테인, 크릴오일 먹고 있어요~ㅎ
+P0 	: 와우 본격적으로 드시네요
+P0 	: 노니액기스랑 크릴오일은 어디에좋나요?
+P0 	: 나머지는 알것같은데
+P1 	: 크릴오일은 혈관에 좋아요~
+P0 	: 노니액기스는요?!
+P1 	: 그거는 선물 받아서 그냥 먹고 있어요
+P0 	: 좋네요ㅋㅋㅋ
+P0 	: 저는 안구건조가있어서
+	  좋은 음식찾는중이랍니다
+P1 	: 아~안구 건조에 좋은 음식도 있나요?
+P0 	: 블루베리? 결명자차 정도요ㅋㅋㅋ

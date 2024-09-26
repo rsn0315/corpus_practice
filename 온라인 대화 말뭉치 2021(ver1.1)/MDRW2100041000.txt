@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041000
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅎ이요 네네
+P0 	: 국내랑 해외 중에 어디가 좋아요?
+P1 	: 국내요 ㅎㅎ
+P0 	: 저도 여행 좋아하는데 많이는 못가봤거든요
+P0 	: 코로나 괜찮아지면 국내여행 다니고 싶네요~
+P0 	: 최근에 여행 갔던때가 언제예요?
+P1 	: 코로나전이유 ㅜㅁ ㅜ
+P0 	: 으아~ ㅠㅠㅠ 그쵸
+P0 	: 어디 간게 마지막이었어요?
+P1 	: 남해요
+P0 	: 남해면 땅끝마을이 생각나네요!!
+P1 	: ㅎㅎ전라도쪽 말구요
+P1 	: 경상도쪽이요 ㄹㅎ
+P0 	: 아!!!! 이럴수가 ㅋㅋㅋ
+P0 	: 남해 땅끝마을밖에 몰랐어요
+P0 	: 경상도 남해는 어때요?
+P1 	: 조용하고 ㅎㅎ아름다워요 ㅎㅎ
+P0 	: 자연보러 간거예요?
+P1 	: 네네 ㅎㅎ

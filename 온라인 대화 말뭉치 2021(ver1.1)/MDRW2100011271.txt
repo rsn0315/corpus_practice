@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100011271
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화보는거 좋아하세요?
+P1 	: 아니요 막 즐겨보는편은 아닌데 친구들이 추천해주는거 보면 재밌긴하더라구요
+P1 	: 영화 좋아하세요?
+P0 	: 좋아해요 제가 찾아서도 보고 추천받아서도 봐요
+P1 	: 저는 친구가 블랙위도우 보자고 해서 봤는데 재밌더라구요
+P1 	: 최근에 어떤거 보셨어요?
+P0 	: 크루엘라 봤어요
+P0 	: 물론 블랙위도우도 봤습니다
+P1 	: 크루엘라도 재밌다그러던데 어떠셨어요?
+P0 	: 엠마스톤이 엄청 잘 어울리더라구요 여기를 잘해서 그런가
+P1 	: 마자요 보진않았지만 찰떡인거같더라구요
+P1 	: 영화추천해주실거있으신가요?
+P0 	: 최근에 친구랑 그 시절 우리가 좋아했던 소녀 봤는데 좋더라구요
+P0 	: 혹시 너의 결혼식 안보셨다면 그걸로 보세요
+P1 	: 어떤배우 나오나요?
+P0 	: 우리나라 영화가 아니라 배우 정보는 잘 모르겠어요
+P0 	: 대신 여자주인공 배우 분이 배역에 너무 잘 맞아서 좋았어요
+P1 	: 아 우리나라꺼가 아니군요
+P1 	: 오호 한번 찾아서 봐야겠네요
+P0 	: ㅎㅎ 재밌게 보세요

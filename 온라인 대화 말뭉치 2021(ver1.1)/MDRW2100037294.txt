@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100037294
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 우리 멍멍이들 어디깠지
+P0 	: 어디갔지
+P1 	: 네 방에 있겠지
+P0 	: 없는데!
+P1 	: 몰라 그럼
+P0 	: 집 나간거 아니야?
+P1 	: 집을 어케 나가니
+P0 	: ㅋㅋㅋ 문 안열려있는가..
+P1 	: 열려있어도 안나간다
+P0 	: 그런가 ㅋㅋ 나갈것같은데
+P1 	: 안방에 있을듯
+P0 	: 보고올게
+P1 	: 그래라
+P0 	: 자고있네 ㅋㅋ
+P1 	: ㅋㅋㅋ그럼 그렇지
+P0 	: 잠탱이들~

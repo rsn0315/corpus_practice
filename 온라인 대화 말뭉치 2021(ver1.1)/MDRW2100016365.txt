@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016365
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 음식 뭐 좋아하세요?
+P1 	: 저는 밀가루 들어간 건 다 좋아하고 면으로 된 것도 좋아해요ㅋㅋㅋ
+P1 	: &name1& 님은 당연히 로제떡볶이 좋아하시겠죠?
+P0 	: 네 ㅋㅋㅋㅋ 너무 맛나요
+P0 	: 드셔보셨어요?
+P1 	: 엽기떡볶이 에서파는 로제떡볶이 처음 출시됐을 때 먹어 봤는데 1단계로 했는데도 매웠어요ㅠㅠ
+P1 	: 저 손 아파서 구글 음성인식으로 치고 있는데 띄어쓰기가 자유분방 하네요ㅋㅋㅋ
+P1 	: 꿀팁입니다
+P0 	: 아정말요? 엽떡은 양이 너무 많아서 못 먹어봤어요
+P0 	: 와우 제 친구도 그걸로 잘 쓰더라규요 ㅋㅋㅋ
+P1 	: 로제떡볶이 드셔보신 곳 중에 가장 맛있었던 곳은 어디예용?
+P0 	: 배떡이 제일 맛있었고 신전은 가성비로 최고에요
+P1 	: 로제 떡볶이 처음 만든게 아마 배떡이죠?
+P0 	: 배떡으로 유명해졌는데 거긴 떡군이네 표절이래요 ㅜㅜ
+P1 	: 아 그렇구나 몰랐어요ㅠㅠㅠ
+P0 	: 떡군이네가 넘 억울할거같아요 ㅠ
+P0 	: 거기서 일하던 사람이 레시피들고 튀어서 만든게 배떡이래요 ㅠㅠ
+P1 	: 아이고 많은 사람들이 그것까지는 잘 모르는 거 같아요 억울하겠네요ㅠㅠㅍ
+P0 	: 맞아요 불쌍 ㅜㅜ

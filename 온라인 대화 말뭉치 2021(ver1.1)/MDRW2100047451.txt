@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100047451
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 새우찜 시켜먹을 생각이예요
+P1 	: 뭐드시고 싶으신가요?
+P0 	: 전 피자가 먹고싶네요 새우 좋아하세요?
+P1 	: 새우 좋아해요!
+P1 	: 없어서 못 먹죠
+P0 	: 가장 좋아하는 치킨브랜드는 어디세요?
+P1 	: 저는 교촌이랑 bbp요
+P1 	: 어디좋아하세요?
+P0 	: 전 굽네여! 뿌링클 좋아하세여?
+P1 	: 저는 안좋아하는데 룸메가 좋아해서 가끔먹어요
+P1 	: 좋아하시나요?
+P0 	: 그냥 그래요 ㅎㅎ 로제떡볶이 드셔보셨어요?
+P1 	: 떡볶이를 안좋아해서요 안먹어봤어요
+P1 	: 좋아하시는구나!
+P0 	: 넵ㅎㅎ 마라탕은 드셔보셨어요?
+P1 	: 네 먹어봤어요 취향은 아니였지만요
+P1 	: 좋아하시나요?
+P0 	: 아뇨 저도 별롷ㅎㅎ...
+P0 	: 무슨 컵라면 좋아하세요?
+P1 	: 저는 요즘은 컵누들 매운찜닭맛이요

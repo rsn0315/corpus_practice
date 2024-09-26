@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100030585
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&
+P0 	: 잘잤나요
+P1 	: 안녕하세요 ㅋㅋ
+P0 	: 좋은모닝
+P0 	: 날씨가 좋네요
+P1 	: ㅋㅋ그러게요 결혼하셨나요?
+P0 	: 안했습니다
+P0 	: &name2&님은요
+P1 	: 저도 안했습니다
+P1 	: 날씨좋은데 데이트 가시나용
+P0 	: 어머니랑 데이트 중입니다
+P0 	: 요즘 편찮으셔서 제가 챙겨드리고있네요
+P0 	: 건강이 최고입니다
+P1 	: 오 멋지세요
+P1 	: 맞아요 어머니랑 시간 보내는거 너무 소중하고 좋아요 ㅠㅠ
+P0 	: 부모님이 늙으시니 귀여운 아이가 되네요 ㅎㅎ
+P0 	: 부모님 건강은 괜찮으시죠?
+P1 	: 네 아직은 괜찮으십니다 ㅋㅋ
+P1 	: 어머니께서 결혼 하라는 말씀은 안하시나요?
+P0 	: 뭐 얘기가 없는건 아닌데 워낙 제 앞가림은 잘해서
+P0 	: 딱히 푸쉬가 없네요
+P1 	: 부모님께서는 뭔가 본인들이 안계실때의
+P1 	: 자녀를 걱정하시는것같아요
+P0 	: 아무래도...
+P0 	: 으 생각하기 싫네요ㅜ

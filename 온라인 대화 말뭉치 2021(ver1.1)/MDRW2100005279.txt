@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100005279
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘은 ai관련한게 대세인거같아요
+P0 	: 어떻게 생각하세요?
+P0 	: ai학과 한번 가보고싶지 않아요?
+P1 	: 가고싶지 안아요
+P0 	: 근데 요즘은 ai학과가 대세래요
+P0 	: 왜 그런거같아요?
+P1 	: 저는 잘 모르겠어요
+P0 	: 4차 산업혁명이랑 연관지어서 되게 흥하는거같아요
+P0 	: 요즘은 직업이 자동화 되고있어서 그런가봐요
+P1 	: 그런가봐요
+P0 	: 48개정도 학교에서 학과가 만들어지고 있다네요
+P1 	: 많네요
+P0 	: 요즘은 자동화 되는 직업이 많아져서
+P0 	: 사라지는 직업도 많은거같아요
+P1 	: 맞아요
+P0 	: ai학과가면 인공지능 다루는걸 배우겠죠?
+P1 	: 그럴것 같아요
+P0 	: 한번 가서 배워보면 좋을거같아요

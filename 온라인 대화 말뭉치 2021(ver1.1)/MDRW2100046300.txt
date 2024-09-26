@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 오늘 저녁 메뉴는 무엇인가요??
+P0 	: 오늘 저녁은 매콤해물 필라프랑 치킨텐더 샐러드를 먹었어요~
+P1 	: 벌써 드셨구나! 어디서 드셨나요??
+P0 	: 포장해와서 사무실에서 먹었어요~
+P1 	: 헉 야근하시나요?
+P0 	: 넵~ 야근을 위해 든든이 먹었어요
+P1 	: 잘하셨어요ㅠㅠ 황금같은 금요일날 야근이라니..
+P1 	: 무슨일하시나요??
+P0 	: 시설관리일을 합니다
+P1 	: 오 저와는 정말 다른 업무를 하시네요
+P1 	: 일은 하실만 한가요??
+P0 	: 넵 이제 일년 좀 넘었는데 이번 일을 적응하는데 꽤 오래 걸렸네요~
+P0 	: &name2&님은 어떤 일을 하시나요?
+P1 	: 저는 일반 사무직 일 하고 있어요!
+P1 	: 오늘 하루 얼마 남지 않았는데 야근 열심히하시고 마무리 잘하시길 바랄게요!

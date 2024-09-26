@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100007425
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안냥하세요
+P1 	: 안녕하세요~
+P1 	: 이상형이 어떻게 되세요?
+P0 	: 음 귀여운 여자요
+P0 	: &name2&님은요?
+P1 	: 전 듬직하고 유머스러운 남자요!
+P1 	: 만약 여자친구 키가 어느정도됐음 좋겠다 하시는게 있나요?
+P0 	: 키는 상관없어요ㅎㅎ
+P0 	: 저보다만 안크면
+P1 	: 아아 혹시 실례가 안된다면 키 여쭤봐도 될까요ㅎㅎ
+P0 	: 저는 77이에용
+P0 	: &name2&님은요?
+P1 	: 전 60이요ㅠ 더 크고 싶지만...
+P0 	: 에이 60이면 딱 귀여운데요!!
+P1 	: 헋쓰 고맙습니다ㅠ 전 65까지 크는게 꿈이었는데
+P1 	: 진짜 꿈이 되버렸습니다
+P0 	: ㅋㅋ 키보다는 느낌이 중요하죠~~~
+P1 	: ㅋㅋㅋ맞아요 그리고 키와 상관없이 한눈에 반해버리는 사람도 있잖아요!
+P0 	: 네 글쵸~~ 느낌이 우선이죠!
+P0 	: 연애는 잘하고 계신가요
+P1 	: 남자친구가 있는지 먼저 물어봐야하는거 아닐까요
+P1 	: 지금 울고 있어요
+P0 	: 죄송합ㄴ다
+P0 	: 좋은 사람 만나려고
+P0 	: 쉬시는 거에요
+P1 	: 아 좋은 말이네여
+P1 	: &name1&님은 여자친구 있으신가요?
+P0 	: 아니요 없습니다.....
+P0 	: 지금 울고 있어요....
+P1 	: 같이 울어요.......

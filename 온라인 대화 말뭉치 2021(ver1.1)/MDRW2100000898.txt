@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100000898
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일상 트렌드>AI 학과 대세
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 미래는 Al학과인듯
+P0 	: 미래에는 역시 AI학과인거같다
+P0 	: 미래는 역시 Al학과지
+P1 	: 요새 완전 뜨는 학과 아님?
+P0 	: 응 순식간에 아이디어 한개로 부자되고
+P1 	: 저번에 AI 기술로 가수 김광석 목소리도 재연하드라
+P0 	: 진짜  기술이 대단하네
+P1 	: 아이유 목소리도 똑같이 재연하고 어찌보면 무서워
+P0 	: Al학과는 취업 걱정은 없겠다
+P1 	: 모르지 뭐 취업은 또 틀린듯 해
+P0 	: 졸업해서 자기가 어플 만들어도 되겠다
+P1 	: 어플 잘 만들면 대박치던데
+P0 	: 응 자원도 안필요하고 구글통해서 세계로 뻗어나갈수도 있으니
+P1 	: 요새 이런 업종으로 나가야 성공함
+P0 	: 아이디어도 실행력도 좋아야할듯

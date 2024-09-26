@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100020735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 슬슬점심인데
+P0 	: 이제 메뉴를 정하셨나요
+P1 	: 앗 점심드시러 가셔야죠
+P0 	: 아니요 8분 남았습니다
+P1 	: 아 저 좀 더 고민해볼까해요..
+P1 	: 급 비빔밥이 끌리네요
+P0 	: 아 비빔밥
+P0 	: 뭐넣으세요
+P1 	: 확실한 시간이군요
+P1 	: 일단 참기름을 넣고
+P0 	: 와우
+P0 	: 참기름 필수
+P0 	: 또요
+P1 	: 집에있는 나물들을 넣어보려구요
+P0 	: 고사리 넣으시나요
+P1 	: 아침보다 이성이 돌아왔어요
+P0 	: 다행입니다
+P1 	: 고사리 본가가면 많은데 여긴 없게요
+P1 	: 네요
+P1 	: 아쉽..
+P0 	: 아쉽다
+P0 	: ㅠ
+P1 	: &name1&님은 좀 정하셨나요
+P0 	: 전 아까도 말씀드렸지만 빵이요

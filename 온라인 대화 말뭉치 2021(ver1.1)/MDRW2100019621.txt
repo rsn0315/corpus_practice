@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019621
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 베스트셀러 중 보신 작품이 있으신가요?
+P1 	: 얼마나 닮았는가요
+P1 	: &name1&님은요?
+P0 	: 저는 예전에 정의란 무엇인가 봤어요
+P1 	: 작가가 굉장히 유명한 사람이던데 맞죠?
+P0 	: 네네! 이번 EBS 특별강연에도 나오신다고 하시더라구요
+P1 	: 그렇군요 좋아하는 장르나 작가가 있으신가요?
+P0 	: 저는 역사나 전쟁기 좋아해요
+P1 	: 서동양 기원전후 안가리시고 다 좋아하시나요?
+P0 	: 그렇게까지 많이 읽어보진 않았지만 지금까지 나빴던 부분은 없었어요!
+P1 	: 그럼 재미있게 본 역사나 전쟁기는 무엇이었나요?
+P0 	: 로마인 이아기 재밌게 봤어요
+P1 	: 로마 역사 이야기요?
+P0 	: 로마사를 다뤄요ㅎㅎ
+P1 	: 오 재미있겠네요

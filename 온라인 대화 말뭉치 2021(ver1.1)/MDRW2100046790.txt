@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100046790
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 여행 좋아하시나요?
+P0 	: 네
+P1 	: 최근에 어디 다녀오셨어요~?
+P0 	: 최근에는 코로나 때문에 못갔어요
+P0 	: 일년전이 제주도여행 마지막이었네요
+P1 	: 그러셨구나 ㅠㅠ 이제 위드 코로나인데 여행 계획은 따로 없으세요?
+P0 	: 해외 나가고 싶어요
+P0 	: 근데 지금 다 나가느라 돈이 비싸더라구요
+P0 	: 비행기값이 ㅠ
+P1 	: 맞아요 ㅠㅠ 저도 혹시 나갈 수 있나 비행기만 검색해봤는데
+P1 	: 가격이 엄청 비싸더라구요 ㄷㄷ
+P1 	: 아직은 때가 아닌가봐요
+P0 	: 그쵸
+P0 	: 지금 나가야 사람도 많이 없어서 좋을거 같은데
+P0 	: ㅎㅎ
+P1 	: 맞아요 ㅋㅋㅋ
+P1 	: 코로나 터지기 전에 해외여행 숙소 비행기 예약 다 해놨는데
+P1 	: 코로나 터져서 못갔어요 ㅠㅠ 흑흑
+P0 	: 그니깐요 ㅠ
+P1 	: 어디 가고싶으세요? ㅎㅎ
+P0 	: 파리요
+P0 	: 다시 가고 싶네요 ㅋㅋ
+P1 	: 파리 완전 좋죠..
+P1 	: 전 이번엔 발리 하와이 이런 휴양지에 가고싶어요 ㅋㅋㅋ
+P0 	: 휴양지도 가고 싶네요
+P0 	: ㅎㅎ

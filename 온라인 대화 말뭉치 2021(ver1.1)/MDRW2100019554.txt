@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100019554
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연 보러 다니시나요?
+P0 	: 일년에 두어번은 가는 편이에요. 요즘은 뭐 어렵지만요
+P1 	: 저도 연말엔 연말 느끼려고 종종 가네요
+P0 	: 어떤 거 보셨어요?
+P1 	: 저 좀 오래전에 가서 넬이나 윤하나 이승철같은 콘서트요ㅋㅋ
+P0 	: 저도 넬 콘서트 몇 번 가봤어요. 벌써 마지막으로 간 지 꽤 됐네요 ㅠ
+P1 	: 무대 연출이 너무 멋져서 기억에 꽤 남는 공연이네요
+P0 	: 맞아요ㅋㅋ 조명에 엄청 신경 쓴 느낌
+P1 	: 그쵸 조명의 중요성을 넬 공연에서 느꼈어요
+P0 	: 장미꽃이랑 장미향 세팅 했던 것도 기억나요
+P0 	: 콘서트 가고 싶네요ㅋㅋ
+P1 	: 그러게요 딱 다녀와야 크리스마스 느낌 나는데
+P0 	: 내년에는 어느 정도 정상화가 될까요ㅠ
+P1 	: 백신의 힘을 믿어봐야죠ㅠ 백신 맞으셨어요?
+P0 	: 아뇨 전 다음달
+	  내년에는 백신 거의 다 맞았을테니 좀 나아지겠죠?

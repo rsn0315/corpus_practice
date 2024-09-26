@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046284
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 오늘 금요일인데 오후에 약속이나 계획있으신가요?
+P0 	: 친구랑 평양냉면 먹기로했어요~
+P1 	: 사시는 곳 주변에 평양냉면 맛집이 있나요?
+P0 	: 넹 시장 근처에 맛집이 있더라구요ㅋㅋ
+P1 	: 오~ 평양냉면 먹고 따로 뭐하실건가요?
+P0 	: 집에 가서 술마시고 잘거같아요ㅋㅋㅋ
+P1 	: 술 좋아하시나요? 주량이 어떻게 되세요?
+P0 	: 좋아하는 편은 아니고 잠이 안와서.. 마시고 자는데 한병쯤되는거같아요
+P1 	: 아...잠자는 용으로 술을...
+P0 	: 그냥 맥주 한캔정도만 마시고 자요ㅋㅋ
+P1 	: 저도 소주보다 맥주가 더 잠이 잘 오더라구요 ㅋㅋㅋㅋ
+P0 	: 약간 배도 부르고 해서 좋은거같아요ㅋㅋㅋㅋ
+P1 	: 맞아요 포만감이 살짝 있긴하죠 ㅎㅎ
+P1 	: 오늘 친구분이랑 맛있는 평양냉면드시고 음주는 적당히 하시고 잠 푹 주무시길 바랄게요!! 좋은 하루 보내세요!
+P0 	: 넹 고생하셨어용 좋은주말보내세요!

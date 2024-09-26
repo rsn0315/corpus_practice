@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100031089
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 도서관도 있고 좋은회사네요
+P1 	: 큰데 다니시나봐요
+P0 	: 요즘 공공도서관도 잘 되어있어서
+P0 	: 영화는 좋아하세요?
+P1 	: 잘되있는데 시간내서 잘안가게되네요
+P0 	: 아 공공기관이에요
+P1 	: 영화는 진짜 가끔요
+P1 	: 최근에 뭐보셨어요?
+P0 	: 저도 영화는 그닥 안보는데
+P0 	: 박물관같은건 관심있으세요?
+P1 	: 관심은 있는데 거기도 진짜 가끔가요
+P1 	: 일년에 한번?
+P1 	: 박물관도 자주 다니세요?
+P0 	: 아니요 전 해외갈때만 갑니다
+P0 	: 일년에 한번이면 자주 다니시는군요
+P1 	: 아 해외박물관은 멋있죠
+P1 	: 근데 요번년도는 못갔네요
+P0 	: 그렇죠 박물관은 주로 애들때문에 가시는건가요?
+P1 	: 아뇨 그냥 가고싶으면 가요 ㅎ
+P1 	: 전시회는 좋아하세요?
+P0 	: 제가 관심잏는 분야면 가려고 노력하는 편이에요

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100018222
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨
+P1 	: 일회용품싫어해요
+P0 	: 요즘 일회용품 선택이에요
+P1 	: 아 쿠팡플렉스이야기하시는건가요?
+P0 	: 배민이요
+P1 	: 저는 둘다 안써서 몰랐네요
+P0 	: 그럼 요리해요?
+P1 	: 네 살만큼.만요
+P0 	: ㅎㅎ
+P1 	: &name1&님은요
+P0 	: 저는 잘 못해요
+P1 	: 아내님이 챙겨주시는군요
+P0 	: 네 좋아여
+P1 	: 좋은파트너네요
+P0 	: 평생 함께라서

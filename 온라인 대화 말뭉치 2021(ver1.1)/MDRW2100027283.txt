@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100027283
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 좋아해요
+P0 	: 저도요
+P1 	: 최근 어디갔다오셨어요?
+P0 	: 남해요
+P1 	: 어떠셨어요
+P0 	: 좋아요
+P1 	: 며칠동안 여행하셨나요
+P0 	: 2일이ㅕ
+P1 	: 차로 가셨나요
+P0 	: 네
+P1 	: 가족들과 같이가신건가요
+P0 	: 네
+P0 	: 함께오
+P1 	: 여름 휴가겸 갔다오신건가요
+P0 	: 네

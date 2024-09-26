@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100024257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 이상형이 어떻게 되세요~?
+P0 	: 저는 베이글남이여!
+P0 	: &name2&님은요?
+P1 	: 와~! 베이글남이라니!
+P1 	: 투피엠 준호같은 스타일 좋아하시나요?
+P1 	: 저는 똑똑하고 제가 본받을만한 점이 많은 사람..?이 이상형입니다~!
+P0 	: 준호도좋은데 베이비페이스에서 탈락입니당
+P0 	: 외적인이상형은 없으신가요?
+P1 	: 헐 이런 원하시는 베이비 페이스는 어떤 느낌이죵?
+P1 	: 저는 음.. 연예인으로 치면 약간 이제훈같은 느낌이 좋아요
+P1 	: ㅎㅎ
+P0 	: 저요 문빈총각이여
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 이제훈도너무좋져 ㅜㅜ순둥한테 날카로운느낌
+P1 	: 마자여
+P1 	: 문빈총각..!!
+P1 	: 솔직히 아스트로 양대산맥이라고 생각함다..
+P1 	: 전 차은우요..
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 네 양대산맥 인정이여
+P0 	: 차은우도 얼굴보면 미소가절로나더라구여
+P1 	: 맞아요.. 현실에 없는 정말 말 그대로 이상형인거 같아요..
+P1 	: ㅋㅋㅋㅋㅋㅋ 연애중이신가요?
+P0 	: 아뇨 현재 솔로입니다
+P0 	: &name2&님은요
+P1 	: 저는 남자친구가 있어요..!!
+P1 	: ㅎㅎ.. 뭔가 부끄럽네용..ㅎㅎ
+P0 	: ㅎㅎ 어떻게만나셨어요 소개로만나셨나요?
+P1 	: 네 전 소개팅으로 만났어요!!

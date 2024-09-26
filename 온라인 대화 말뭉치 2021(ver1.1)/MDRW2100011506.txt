@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100011506
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일상 트렌드>콜라보레이션 마케팅(곰표, 진로 두꺼비 등)
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 곰표맥주 드셔보셧나요
+P1 	: 아니요, 건강때문에 알코올은 자제하고 있어요.
+	  그래도 뭔지는 알아요. 디자인이 그, 곰표 밀가루랑 같은 그거죠?
+P0 	: 네네 맞아요 예전에 엄청 난리였어요
+P1 	: 맞아요, 저도 인터넷 기사에서 본 거 같아요
+P0 	: 진로 소주도 그럼 안접해보셨겠네요ㅠㅠ
+P1 	: 곰표 말고 마카 디자인이나 구두약 디자인도 본 것 같아요
+P1 	: 네 진로 소주도...마셔본적은 없지만
+	  어떻게 생긴 건지는 알아요!
+P1 	: 하늘색 병에 파란 두꺼비죠?
+P0 	: 네네 맞아요 마카 디자인은 뭔가요?
+P1 	: 모나미 유성 매직이랑 콜라보 한 음료수가 있더라고요
+P0 	: 오우 너무 안어울리네요ㅎㅎ
+P1 	: 곰표 콜라보까지는 괜찮다고 생각했는데
+P1 	: 유성매직이나 구두약은 좀 아니다 싶더라고요
+P1 	: 어린 아이들이 나중에 진짜 구두약이나 유성매직을 먹는걸로 착각하고 먹어버릴 위험이 있으니까요...
+P0 	: 오오맞아요 진짜위험해보여요..
+P1 	: 관련기사보고 어느 정도 규제는 필요하다고 생각했는데, 그 뒤로 어떻게 됐나 모르겠네요...
+P0 	: 규제 진짜 필요해보이네요

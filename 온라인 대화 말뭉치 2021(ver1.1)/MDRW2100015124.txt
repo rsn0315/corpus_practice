@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100015124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오
+P1 	: 쇼핑 좋아하세요?
+P0 	: 네 중독입니다
+P1 	: 앗
+P1 	: 저도..
+P1 	: 혹시 길거리에서 구경하는 것도 좋아하세요???
+P0 	: 최고죠
+P0 	: 플리마켓 있으면 눈을 못떼요
+P0 	: 팔찌 모으고있습니다
+P1 	: 팔찌라니
+P1 	: 어떤 종류인가요
+P1 	: 재질이
+P0 	: 상관없이 모아요
+P0 	: 실로 된 재질도 좋고
+P0 	: 스틸이나 큐빅도 좋고
+P1 	: 무슨 색이 제일 많아요??
+P0 	: 아무래도 싼건 총천연색이 많아요
+P0 	: 아끼는건 검정색 스틸재질
+P0 	: 금팔찌는 아직 엄두를 못내고있어요...
+P1 	: 검정색 스틸
+P1 	: 벌써 예쁜 것 같은 느낌이 드는데요...!
+P0 	: 팔찌 차보신적 있어요?
+P1 	: 저는 이번 여름에 사야지사야지 해놓구
+P1 	: 못 샀어요..
+P1 	: 
+P0 	: 어떤걸 주로 쇼핑하세요?
+P1 	: 최근에 옷..!
+P0 	: 어떤옷 주로 입으세요?

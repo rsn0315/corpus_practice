@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021652
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 커뮤 많이 하세요?
+P1 	: 인터넷은 자주해요!
+P0 	: 커뮤니티는 아예 안하세요?
+P1 	: 음 딱히 없는 것 같아요 여기저기 돌아다니는 타입이라
+P1 	: 커뮤니티하시나요?
+P0 	: 대형 커뮤니티 눈팅이요..
+P0 	: 유모아 사이트나.. 아이티나..
+P1 	: 유머사이트 말씀하시는건가요?
+P0 	: 네... 혹시 웃대라고 들어 보셧나여?
+P1 	: 아 네네 들어봤어요
+P0 	: 거기 주로 눈팅해요... 
+	  커뮤 안하면 인터넷 주로 어디 보세요?
+P1 	: 그냥 다음인기글 보거나 웹툰 보고~ 기사들 읽고 그래요
+P0 	: 인기글이 모에요? 블로그 인기글 이런거에요?
+P1 	: 다음카페들에서 올라온 게시글들중에 인기있는 글들이 전체공개로 올라와요
+P1 	: 가입안해도 전부 볼수있게끔
+P1 	: 인스타그램 인기글 같이 생각하시면 될거같아요

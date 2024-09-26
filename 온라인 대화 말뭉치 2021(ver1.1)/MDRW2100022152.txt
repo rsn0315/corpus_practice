@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100022152
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 큰 아들은 단원평가를 보면 꼭 하나씩 틀려 ㅠ
+P0 	: 덜렁거려서 그렇지 ㅎ
+P1 	: 어려운 문제도 아닌데 너무 아쉼
+P1 	: 아쉬워
+P0 	: 단원평가 볼 때는 검산을 시켜
+P1 	: 그래도 하나씩은 꼭 나오던데? ㅋㅋ
+P0 	: 항상 만점을 목표로 해야지
+P1 	: 실력은 충분히 만점인데 자꾸 하나씩 틀리니 신경쓰이네
+P0 	: 그게 학교 시험이라고 안그렇겠어?
+P1 	: 그러니깐... 왜 틀리는지 이유를 모르겠어 ㅎ
+P0 	: 아는데 틀리는 건 반복해서 확인하는 수밖에 없어
+P1 	: 쉬운거 하나 틀릴 때마다 한쪽 더 풀게 해야긋어 ㅋㅋ
+P0 	: 문제 지옥이구만
+P1 	: 그래야 정신 바짝 차리고 안틀리지
+P0 	: 과연.. 효과가 있는지 지켜보겠어 ㅎㅎ
+P1 	: 실수를 줄여야하는데 참.. 쉽지 않네

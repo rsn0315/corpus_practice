@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100009694
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕
+	  무슨 일 하나요?
+P0 	: 눈을 뜨면 월요일 출근이라는게 믿기지 않아요
+P0 	: 그냥 단순 사무알바요! 학생이라서요
+P1 	: 전 이직 알아보고 있어요 짬짬이 아르바이트도 하구요
+P1 	: 월요일은 일어나기 힘들어요
+P0 	: 머리가 복잡하실 때 같아요 이따 아침에 출근하시나요?
+P1 	: 아니요 오전에 자격증 공부 할 생각이에요
+P1 	: 영어 공부도 해야하고
+P1 	: 사무 아르바이트면 언제 출근하나요?
+P0 	: 와 멋져요
+P0 	: 저 9시 출근이요!
+P0 	: 망했어요ㅎ
+P1 	: 잠 자기엔 너무 늦은 시간이네요
+P1 	: 피곤하겠어요
+P1 	: 일은 힘들지 않나요?
+P0 	: 출근하면 비타민이랑 카페인 때려넣고 정신차리려구요..
+P0 	: 구청에서 하는 단순 알바라 힘들진않아요!
+P1 	: 역시 카페인이 최고에요
+P0 	: 평일에 그거 하고 주말에 편의점 알바하구
+P1 	: 마치 포션같은 ㅋㅋㅋ 없으면 안되요
+P1 	: 와우 바쁘게 사네요
+P0 	: 맞아요 어릴땐 커피우유도 쓰다고 못먹었는데 이제 아아없음 못살아요ㅋㅎ

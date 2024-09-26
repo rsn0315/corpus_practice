@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012808
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트 해보셨어요?
+P1 	: 아뇨 맘 먹고 제대로 해 본 적은 없는 것 같아요. &name1&님은요?
+P0 	: 저는 그냥 잘 안먹어서 빼는 정도였어요
+P0 	: 그렇게하니 살은빠지는데 부작용있는거같았어요
+P1 	: 무리하게 하다 건강 상하면 큰일이에요 ㅠ
+P0 	: 저는 무리까지는 아니고 조금 굶는 정도였는데
+P0 	: 그러니까요
+P0 	: 다시 찔때 좀 안건강해진단 느낌받아서요
+P1 	: 전 안 먹으면 속쓰려서 조금이라도 먹으려고 해요
+P0 	: 네 그게좋을거에요
+P1 	: 요즘에는 가끔 탄산 마실 때도 슈가프리 제품 찾게 되더라구요
+P0 	: 맛은 어때요? 그럼 안달아요?
+P0 	: 설탕대체물 넣은거에요/
+P1 	: 대체당 들어간 것도 있고 그냥 일반 탄산수도 있어요
+P0 	: 그렇군요
+P0 	: 파는 입장에선
+P0 	: 자꾸 먹고싶게해야하니까 음식을 더 자극적으로
+P0 	: 만드는거 같던데요
+P1 	: 요즘 너무 매운맛 음식 많아져서 부담스러워요
+P0 	: 네 저도 매운거 잘 못먹어요

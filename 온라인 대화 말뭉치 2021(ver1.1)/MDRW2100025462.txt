@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100025462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 비와요?
+P1 	: 제주도는 요근래 맑습니다
+P1 	: 비오나요?
+P0 	: 많이여
+P1 	: 여긴 더워요
+P0 	: 습해요
+P1 	: 건조해요
+P1 	: 빨래 널면 하루만에 말라요
+P1 	: 내일도 비와요?
+P0 	: 여긴 빨래하기가
+P1 	: 가을이라 선선해졌어요
+P0 	: 그래여
+P0 	: 바람도 차요
+P1 	: 어젠 비가 왔어요
+P1 	: 밤에 스콜성 폭우가 내렸어요
+P0 	: 무서워요
+P1 	: 간밤에 비가 왔나요?
+P1 	: 가을이라 밤바람도 차가워요
+P0 	: 창문닫거 자여

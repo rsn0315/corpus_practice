@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019040
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 점심 뭐 드셨어용
+P0 	: 저는오늘 육개장국밥먹었어요
+P1 	: ㅇ평소에도 잘 드시는 건가요
+P0 	: 네 국밥좋아해서 자주먹어용
+P1 	: 매운거 잘 드시나요 전 육개장도 좀 매운 편이라
+P0 	: 아 정말요? 저두 맵찔인데 육개장은 한번도 맵다생각한적 없어서요!
+P1 	: ㅋㅋㅋㅋㅋ제가 좀 심한 거 같아요
+P0 	: 아하! 그럴수있죠~ 매운거 몸에안좋아요 ㅋㅋ
+P1 	: 맞아요 맞아요 ㅜㅜ
+P0 	: 그럼 느끼한음식좋아하세요? 피자나파스타같은
+P1 	: 그런 건 또 그나마 잘 먹는 편인 거 같아요
+P0 	: 아하! 저두 느끼한거좋아해요 ㅎㅎ
+P1 	: 이게 매운 거 잘 먹는 거랑 좀 상극인 걸까요ㅋㅋ
+P0 	: 그런거같아요 ㅋㅋ 근데아무래도 매운거싫어하면 선택지가 줄어들어서 약간 억지로좋아하게되는느낌도 있긴해요 ㅋㅋ
+P1 	: 마자옄ㅋㅋ
+P1 	: 특히 한국인이라서 더더욱..
+P0 	: 그쵸 ㅋㅋㅋ 근데사실 매운거못먹어도 세상엔 먹을게 차고넘쳐요~

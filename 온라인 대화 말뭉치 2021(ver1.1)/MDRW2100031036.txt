@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100031036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 다음에 찾아봐야겠네요
+P0 	: 거의 없더라구요
+P0 	: 치킨 어디꺼 자주드세요?
+P1 	: 저희동네는 없을수도 있을거같아요ㅜ
+P1 	: 주로 교촌아니면 호치킨이요
+P0 	: 호치킨은 첨들어봐요
+P0 	: 특별한 메뉴가있나요
+P1 	: 저렴한데예요
+P1 	: 아뇨 싸서 먹어요
+P0 	: 아 저렴이 좋아합니다
+P0 	: 두마리치킨같은건가요?
+P1 	: 후라이드가 저렴해요
+P1 	: 아뇨 한마리인데 가격이 싸요
+P0 	: 아 후라이드 바삭한타입인가요?
+P1 	: 네네 완전바삭ㅜ
+P1 	: 근데 싼대신에
+P1 	: 양이 조금 작긴해요
+P0 	: 아 바삭이 맛있을거같아요
+P1 	: 네네 전양 작아서 괜찮은데
+P1 	: 많이 드심 비추예요
+P0 	: 치킨은 딱 기분좋은 만큼 먹는게
+P0 	: 뒤탈이 없는거같아요
+P1 	: 맞아요

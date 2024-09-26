@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100021135
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 메뉴로 어떤거 생각하고 계시나요?
+P1 	: 토요일이니 치킨 먹으려구요!!
+P0 	: 역시 토요일엔 치킨이죠~ 좋아하늠 치킨브랜드있으세요?
+P1 	: 저는 다 좋아해요! 굽네 또래오래 네네 교촌
+P1 	: 치킨은 다 맛있는것 같아요
+P0 	: 저는 60계치킨좋아해요!
+P1 	: 60계 간지치킨 맛있더라구요
+P0 	: 저는 주로 윙봉으로 시켜서 먹어요!
+P1 	: 윙봉 맛있겠네요 저도 담엔 윙봉으로 먹어봐야겠어요
+P1 	: 저녁 뭐 드세요?
+P0 	: 지금 고민중이에요~ㅎㅎ 회사라서 맛없는 회사밥먹을지 사먹을지요
+P1 	: 저는 저녁 방금 먹었어요!
+P0 	: 저도 방금먹었어요^^
+P1 	: 멕시카나 순살 두마리 먹었네요 뿌리고랑 양념해서요
+P1 	: 저녁 뭐드셨나요?
+P0 	: ㅠ회사밥이요 맛있으셨겠어요 두부김치나왔네요
+P1 	: 두부김치도 맛있어요 내일 일요일이니까 더 맛있는거 드세용!

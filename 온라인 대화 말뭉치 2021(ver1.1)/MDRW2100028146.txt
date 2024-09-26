@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100028146
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님, 안녕하세요!
+P1 	: 안녕하세요!
+P0 	: 따로 일하고 계신거 있으신가요?
+P0 	: 저는 아직 대학생이라 과외로만 돈을 벌어봤어요.
+P1 	: 그러시군요
+	  저는 일하다 지금은 잠시 쉬고 있어요
+P0 	: 어떤 일을 하셨는지 여쭤봐도 될까요?
+P1 	: 저는 교사였어요
+P0 	: 교사 정말 멋진 직업같아요. 아이들 가르치는게 쉽지 않은 일인데 존경스러워요!
+P1 	: ㅎㅎ 감사해요!
+P1 	: 졸업 후에 하고싶은 일은 어느쪽이세요?
+P0 	: 제가 수의예과라서 아마 임상진료 쪽을 하거나 수의직공무원 준비를 할 것 같아요!
+P1 	: 아! 수의예과 다니시는군요!
+P0 	: 네! 근데 점점 꿈이 퇴색되는 느낌이에요
+P0 	: 어떤 일이 저한테 맞는지 잘 모르겠어요
+P1 	: 아..ㅠㅠ고민이 맞으시겠어요!
+	  수의예과를 선택하셨던 이유는 무엇이었나요?
+P0 	: 처음엔 동물이 좋아서 막연하게 관련된 일을 하고싶었는데 가장 직접적으로 도울수 있는게 수의사고 생명과학 배우다보니 적성에도 맞아서요!
+P1 	: 그러시군요! 적성에 맞다면 잘해내실 수 있을거 같아요
+P0 	: 감사합니다! &name2&님도 일 잘 풀리시길 바라요
+P1 	: 네네ㅎㅎ

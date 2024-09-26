@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100002692
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 직업이 있으신가요
+P1 	: 아니요
+P1 	: 가정 주부입니다
+P0 	: 저도 가정 주부인데
+P0 	: 반가워요
+P1 	: 반갑습니다
+P0 	: 구직활동 계획은 있으신가요
+P1 	: 네
+P1 	: 직업을 가진적이 있으신가요?
+P0 	: 넹 있어요
+P0 	: 회사에 다녔었어요
+P1 	: 지금은 쉬고 계시군요
+P0 	: 넹
+P0 	: 내년에 복직하려구요
+P1 	: 응원할게요
+P0 	: 감사합니다
+P1 	: 어떤 직종인지 여쭤도 될까요
+P0 	: 사무직입니다

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100027422
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 앗 ㅋㅋㅋ 군대에 대해서는 잘모르는데 &name1&은요?
+P0 	: 저는 주변 친구들이 군대 갈 준비 하고 있어서 많이 들었어요
+P0 	: 다들 신검 끝냈더라구요
+P1 	: 오오 그러시구나 친구들 가면 허전하겠어요 ㅠㅠ
+P0 	: 많이 허전할거 같아요
+P0 	: 주변에 동성친구가 많이 없어서
+P0 	: 조만간 다 떠나보내야해요
+P1 	: ㅠㅠ아 아쉽겠어요 ㅠㅠ그래도 면회가거나 휴가때 보면 되죠!
+P0 	: 요즘엔 면회가 많이 막혔대요
+P0 	: 애들이 갈때쯤에 코로나가 끝나는 수밖에 없어요
+P1 	: 아 코로나 때문이구나 ㅠㅠㅠ
+P1 	: ㅠㅠ그럼진짜아쉽겠어요 ㅠㅠ 시간이 빨리흐르길 바라는 수밖에없네요 ㅠㅠ
+P0 	: 그러게요ㅠ
+P1 	: 그래도 금방갈거에요 ㅋㅋ 코로나도 벌써 2년다되가니 ㅠㅠ ㅋㅋ
+P0 	: 백신도 있으니 내년 초 보고 있습니다
+P1 	: 오 내년초 금방가겠네여.. 혹시 친구들 많이가신가는데 동반입대 요런거 하시는건가여 ?
+P0 	: 동반입대는 안할거 같아요
+P0 	: 신청해서 간다는데 많이들 갈려서요
+P1 	: 그렇군요 ㅋㅋ 저때는 많이있었는데

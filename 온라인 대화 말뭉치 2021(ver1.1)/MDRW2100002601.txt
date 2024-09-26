@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100002601
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 중고거래 종종하는 편입니다. 당근마켓 좋아요~
+P0 	: 당근 좋죠
+P1 	: 당근자주애용하시나요?
+P0 	: 네
+P1 	: 어떤 물품을 주로 거래하세요?
+P0 	: 최근에 공기청정기 팔았죠
+P1 	: 꽤 큰걸 거래하시는데요?ㅋㅋ
+P0 	: 차량용이요 ㅎㅎ
+P1 	: 아아~~ ㅋㅋ 저는 최근에 집 인테리어하고 남은 페인트류를 팔았었네요
+P0 	: 페인트 굳지 않나요?
+P1 	: 페인트류 잿소? 이런건데 아예 안쓰고 남은걸 팔아서 괜찮았어요 ㅎㅎ
+P0 	: 아

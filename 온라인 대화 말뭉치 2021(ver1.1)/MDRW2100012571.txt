@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100012571
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 어.. 득템하셨네요.
+P0 	: 지구나이트 생각못했는데 덕분에 득템했어요!
+P1 	: 저는 젤리뽀 샀어요.
+	  얼려 먹으니 맛있더라구요.
+P0 	: 얼려먹는방법이 있네요!
+	  원격수업 바뀌고 수업에 쓸 전자기기 사신거 있으세요?
+P1 	: 직장에서 사주는 거 빼고는 따로 안샀어요.
+	  직장 일에 제 돈 안쓰는 것으로.ㅎ
+	  갤럭시 탭을 살까 살짝 망설이기는 했네요.
+P0 	: 탭이나 패드있으면 편할거같아요! 저도 고민입니다 ㅎ 중고거래 하세요?
+P1 	: 그럼요.
+	  아이는 중고거래로 키웠어요.ㅎ
+P0 	: 오~~ 요근래 중고로 어떤거 사셨어요?
+P1 	: 요즘엔 중고로 팔기만 하네요. 육아용품 팔았어요.
+P0 	: 오 쏠쏠하게 팔렸나요?
+P1 	: 네. 오늘 또는 내일도 1건 있어요.
+	  아이 신발도 팔아야하는데..  판매글 쓰기가 귀찮네요. ㅎ
+P0 	: 중고거래도 부지런해야 되더라구요!
+P1 	: 그니깐요.
+	  해도 곧 열심히 팔아보겠습니다.ㅎ

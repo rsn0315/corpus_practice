@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035768
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안좋아하는 음식 있으세요?
+P1 	: 저는 개인적으로 마라요
+P1 	: &name1&님은요?
+P0 	: 헐 전 마라 좋아하는데 !
+P0 	: 전 버섯을 싫어해요 ㅎㅎ
+P1 	: 저는 야채중에서는 파프리카랑 버섯도 싫어해요
+P0 	: 아 저도 파프리카 싫어해요 ㅋㅋ !
+P0 	: 향 나는걸 별로 안좋아해요 ㅎㅎ
+P1 	: 그러시구나 저는 사실 그냥 야채는 몇몇개빼고 다 싫어하는 것 같아요
+P0 	: 맞아요 ㅋㅋ 저도 좋아하는 야채가 별로 없네요
+P0 	: 양파 콩나물 이런거빼곤 ..
+P1 	: 저도 깻잎이나 콩나물 이런거 빼고는 왜인지 채소가 싫더라고요
+P0 	: 맞아요 ㅋㅋ 좋아하는 사람이 드물겠지만
+P0 	: 마라는 왜 안좋아하세요?
+P1 	: 몇 번 먹어봤는데 약간 비누맛인가? 뭔가 제 입맛에는 잘 안맞더라고요
+P0 	: 아아 ㅎㅎ 비누맛 뭔지 알거같네요 ㅋㅋ
+P0 	: 그 마라 향이 안맞으시나봐요
+P1 	: 맞아여 저한텐 그 향이 안맞는 것 같아요
+P0 	: 저는 고수도 안좋아하는데

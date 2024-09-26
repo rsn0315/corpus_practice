@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100026860
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 좋아하는 스포츠 있어요?
+P1 	: 안녕하세요
+P1 	: 딱히 좋아하는 스포츠는 없어요
+P1 	: 스포츠 좋아하세요?
+P0 	: 이것저것 좋아해요
+P0 	: 그럼 이번 도교올림픽은 봤어요?
+P1 	: 어떤거 가장 좋아하시나요
+P1 	: 네네
+P0 	: 무슨 종목 봤어요?
+P1 	: 양궁이랑 배구요
+P0 	: 양궁 되게 정적인데 쓰릴있지 않았어요?
+P1 	: 네네 이번에 심박수 표시하는거 참신했어뇨
+P0 	: 맞아요 쏘는 점수도 보지만
+P0 	: 심박수 보는 재미도 있었던거 같아요
+P1 	: 그쵸 근데 선수보다 제가 더 떨고있더라고요 ㅋㅋㅋㅋ
+P1 	: 다들 멘탈이 부럽네요
+P0 	: 저는 점수보면서 호들갑떨고 있는데
+P0 	: 선수들은 너무 차분해서ㅋㅋㅋ 무슨 제가 쏘는것마냥 긴장하고
+P1 	: 그쵸 이번 올림픽 시간대가 다 좋아서
+P1 	: 실시간으로 경기보는데 엄청 긴장되더라구요 ㅋㅋㅋ
+P0 	: 마침 경기시간대가 너무 좋아서 챙겨볼 생각이 없어도
+P0 	: 다 보게되더라고요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030197
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 강원
+device : 태블릿/패드
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘은 야식으로 족발 반반 시켰어요
+P1 	: 맛있는거 시키셨네요!
+P1 	: 매운족발이랑 반반 시키신건가요?
+P0 	: 네! 막국수랑 물만두도 서비스로 주셨네요 ㅎㅎ
+P1 	: 오 다 제가 좋아하는거네요ㅠㅠ
+P1 	: 아침은 드셨나요??
+P0 	: 아니요 이제 먹을려고요 뭘 먹어야될지 고민이네요 밥은 있는데 반찬이...부실해요 ㅋㅋ
+P1 	: 뭐 드셨나요?!
+P1 	: 반찬 만드셨어요?
+P0 	: 오늘은 지출 좀 했어요 밀키트로 파스타 만들어먹었어요!
+P1 	: 우와 어디 제품 이용하셨나요?
+P0 	: 저는 프레시지요. 가격 만큼 하는것 같아요. 신선하고 소스도 맛있고요
+P1 	: 오 프레시지 들어봤어요!
+P1 	: 스테이크 밀키트도 유명하지않나요?
+P0 	: 맞아요 굽기 편해서 좋더라고요.
+P1 	: 궁금하네요 저도 나중에 구매해봐야겠어요
+P1 	: 아침은 드시는 편인가요?
+P0 	: 네 오늘은 예외지만요
+P0 	: 너무 배고파서 뭘 먹긴 해야겠어요

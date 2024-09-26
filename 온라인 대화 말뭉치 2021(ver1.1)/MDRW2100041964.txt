@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100041964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 엄청 좋아해요
+P0 	: 저도요!
+P1 	: 여름엔 늘 설빙가는거같아요
+P0 	: 아 저도 설빙 좋아해요 인절미 빙수랑 메론빙수 너무 맛있어요
+P1 	: 저는 인절미 빙수가 제일 좋아요 클래식 ㅎㅎ
+P0 	: 콩가루가 맛있죠!
+P1 	: 팥도요 ㅎㅎ
+P0 	: 저는 편의점 빙수도 좋아해요!
+P1 	: 편의점에도 빙수 팔아요?
+P0 	: 네 아이스크림처럼 떠먹는컵에 담아서요
+P1 	: 맛있나요?
+P0 	: 우유부어서 먹으면 가성비가 괜찮아요!
+P1 	: 가격은 얼마나해요?
+P0 	: 2천원정도요 ㅎㅎ

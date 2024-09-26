@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100034081
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으신가요?
+P1 	: 저는 요즘 마라탕 자주 먹어요~
+P0 	: 오 저도 마라탕 좋아해요 ~!
+P0 	: 중국당면 넣어서 드시나요?
+P1 	: 네 면사리는 중국당면만 먹어요!
+P1 	: &name1&미 님은요?
+P0 	: 저는 중국당면 옥수수면 먹어요 !
+P0 	: 분모자는 싫어해요 ㅠㅠ
+P1 	: 특별히 싫어하는 이유가 있으신가요?
+P0 	: 음 그 식감을 안좋아해요 ㅋㅋ 약간 너무 떡같다고 해야되나 ?
+P0 	: 저는 당면은 쫄깃한 맛으로 먹거든요
+P1 	: 아 뭔지 알 거 같아요!
+P1 	: 건두부나 푸주는 좋아하시나요?
+P0 	: 저 완전 ! 좋아해요 ㅋㅋ 고기제외하고 1순위에요 ㅎㅎ
+P0 	: 좋아하시나요?
+P1 	: 네 저는 요즘에 고기보다 건두부를 더 좋아해요ㅎㅎ
+P1 	: 고기는 소고기랑 양고기 중에 어떤 거 드세요?
+P0 	: 저는 고기 추가해서 둘 다 넣어서 먹긴 하는데
+P0 	: 더 좋아하는건 소고기요!
+P1 	: 와 둘 다 넣어두시는 군요! 저는 아직 소고기 밖에 안 먹어 봤어요
+P1 	: 양고기도 맛있나요?
+P0 	: 양고기도 맛있어요 ! 근데 약간 특유의 향이 나요
+P0 	: 막 거슬릴정도는 아닌데 그 향때문에 싫어하시는 분들도 있어요 !
+P1 	: 다음에 한번 도전해봐야겠어요..!

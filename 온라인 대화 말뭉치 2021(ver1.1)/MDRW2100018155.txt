@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 정모 하시나요?
+P1 	: 아니요 한번도 안해봤어요
+P1 	: &name1&은요?
+P0 	: 저도요 아직~
+P1 	: 활동하시는 커뮤니티 있으세요?
+P0 	: 지역카페여~~
+P1 	: 아~지역카페 이용하시는 군요
+P0 	: 네 거기말곤 활동이 없네요
+P1 	: 지역카페에서는 어떤 활동 하시는 거에요?
+P0 	: 주로요리나 교육정보를 얻고있어요
+P1 	: 아~저도 저희 지역에 카페가 있는지 찾아봐야 겠어요
+P0 	: 네 찾아보셔요
+P1 	: 지역카페가 혹시 맘카페인가요?
+P0 	: 비슷한거같아요

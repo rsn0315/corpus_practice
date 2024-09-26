@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100005629
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 좋아하는 뭐에요?
+P1 	: 음식이요?
+P0 	: 네 좋아하는 음식이 뭐에여?
+P1 	: 고기 제일좋아해요
+P1 	: 님은요?
+P0 	: 고기 없으면 사는게 버겁죠 ㅎ 일주일에 한번씩은 먹는거같아요
+P0 	: 지금도 고기 먹고 싶네요
+P0 	: 오늘 저녁은 뭐 드셨는데요?
+P1 	: 그쵸 ㅎ 저녁은 그냥 간단히 토마토랑 모짜렐라치즈썰어서
+P1 	: 발사믹소스에 버무려먹었어요
+P1 	: &name1&님은요?
+P0 	: 저는 뜨거운 돼지국밥에 시원한 사이다로 끼니 해결했네요
+P0 	: 토마토와 모짜렐라치즈 조합 괜찮네요  그런 식사 마음에 들어요
+P1 	: 돼지국밥 맛나겠네요 비오는날은 뜨끈한 국물좋죠
+P0 	: 음식은 본인이 자주 해서 드시나요?
+P1 	: 토마토가 치즈랑 잘어울려요 ㅎ
+P1 	: 인스턴트로 해먹기도하고
+P1 	: 간단히 찌개나 요리하기도 해요
+P1 	: &name1&님은요?
+P0 	: 저는 부모님이 해주시는거 먹거나 귀찮으면 배달음식 종종 먹어요~
+P1 	: 부모님이 해주시는게 최고죠ㅎ
+P0 	: 맛집랭킹에 뜨는거 찾아보면서 시키고요 요리한다니 부럽네요 저는 잘 못해서 ㅎㅎ.
+P1 	: 요즘은 배달도 맛나요 조미료가 좀 들어가지만
+P0 	: 배달음식은 잘 안드시나요?
+P1 	: 저도 그냥 소소한것만 해요
+P1 	: 혼자라 배달은 양이많아서 잘 못시켜먹어요

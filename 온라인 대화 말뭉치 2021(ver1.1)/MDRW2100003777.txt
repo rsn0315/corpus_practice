@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100003777
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 쇼핑 좋아하세요?
+P0 	: 넵 인터넷으로 사는건 되게 좋아해요
+P0 	: 올해 뭐 사시고싶으신건 있으세요?
+P1 	: 갑자기 떠오르는건 없네요
+P1 	: 저는 물건을 많이 사는걸 별로 안좋아해서
+P1 	: 혹시 뭐 구입 예정이나 사고싶은 것 있으세요?
+P0 	: 저는 닌텐도 되게 사고싶네요
+P1 	: 저는 해보지 않아서 잘 모르겠는데 주변에 많이들갖고 있더라고요
+P0 	: 혹시 중고거래 해보신적 있으세요?
+P1 	: 네 몇번 있어요
+P1 	: 맨처음 핸드폰을 거래했었는데
+P1 	: 나중에 판매자가 분실신고를 해서 사용하지 못했던 경험이 있어요
+P0 	: 직거래도 해보셨어요?
+P1 	: 최근에 당근으로 네스프레소 캡슐머신 판매한적 있어요
+P1 	: 중고 거래 자주 하시나요?
+P0 	: 책이나 이어폰같은거 많이파는거같아요
+P0 	: 직거래 해보셨어요?
+P1 	: 넵 같은질문하시네요ㅎㅎ
+P1 	: 저는 책은 주로 알라딘 중고서점에다 팔았는데
+P1 	: 편리하더라고요
+P1 	: 요즘은 당근때문에 중고거래가 많이 편리해진것 같아요
+P1 	: 선물받고 싶은 물건 있나요?
+P0 	: 저는 게임기나 의자 선물받고싶네요

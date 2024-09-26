@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013631
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P0 	: 안녕 &name2&야~
+P1 	: 여행가봤어?
+P0 	: 응 이번 휴가에 여행 다녀왔지
+P1 	: 우리 그때 갔던 부산 좋았지
+P0 	: 맞아 근데 비가 많이와서 ㅜㅜ
+P1 	: 맞아 비가 많이 와서 흐렸어
+P0 	: 아쉬웠지만 또 가고싶네
+P1 	: 여행 가면 주로 기념품으로 어떤걸사?
+P0 	: 자석이나 엽서 너는?
+P1 	: 나도 자석이 좋아  엽서는 왠지 1회용같아서
+P0 	: 사진이라서 걸어놓으면 더 좋은데
+P1 	: 아 그렇게 쓸 수도 있구나? 꿀팁이네
+P1 	: 난 기념품으로 펜도좋아
+P0 	: 펜은 안사봐서 모르겠네
+P1 	: 여행 또 가자

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100041623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ㅎㅎ 점심드셨나여
+P1 	: 네넹, 닭갈비 먹었어요
+P0 	: 오 맛있겠다 ㅋㅋㅋ 전 짜파게티 먹었어요
+P1 	: 오, 집에서 드셨나요??
+P0 	: 넵 ㅋㅋㅋ 회사가 가까워서 잠깐들러서 먹었습니다
+P1 	: 오, 회사 가까워서 좋으시겠다
+P1 	: 구내식당은 없나요?
+P0 	: 있었는데 공사중이라 이용을 못하네요 ㅎㄹ
+P1 	: 앗, 그렇군요 
+P0 	: 구내식당에서 드셨나요??ㅎㅎ
+P1 	: 저는 여행중이라 숙소 근처에서 먹었어요ㅎㅎ
+P0 	: 아아 그러시구나 ㅋㅋㅋ 닭갈비면 춘천이신가여??
+P1 	: 아뇽, 인사동이었습니다 ㅎㅎ
+P1 	: 인기맛집은 아니고 숙소 근처라서요
+P0 	: 앗 그러시구나ㅋㅋㅋ가까우면좋죠 맛만있으면 ㅎㅎ
+P1 	: 네, 먹을만했어요ㅎㅎ

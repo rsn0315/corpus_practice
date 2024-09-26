@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100002191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교 다니니
+P1 	: 웅 대학생이야 넌?
+P0 	: 글쿠나 나는 이제 졸업해서 대학교 그립다 ㅠㅠ
+P1 	: 곧 개강하는데 학교가기싫어ㅠㅠ
+P1 	: 2학기 시간표 짜는중인데 망한거같아
+P0 	: 그치 요즘 다 온라인수업하지?
+P1 	: 온라인이랑 대면이랑 섞어서 해
+P0 	: 그렇구나 그럼 기숙사 살아?
+P1 	: 웅 기숙사!
+P1 	: 기숙사생활해본적있어?
+P1 	: 나는 시험기간엔 좀 불편한데 그거빼곤 좋은거같아
+P0 	: 기숙사 생활 안해봤어 ㅠㅠ
+P0 	: 시험기간엔 왜불편해?
+P1 	: 공부하다보면 자는시간이 좀 안맞아지더라구
+P1 	: 근데 그것도 룸메나름이겠지?
+P0 	: 아 칭구랑 같이쓰니까? ㅠㅠ
+P1 	: 웅
+P0 	: 그렇겠다 ㅋㅋ

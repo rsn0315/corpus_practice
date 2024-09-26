@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043734
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 스트레스 받으니 매운게 땡긴다
+P1 	: 스트레스를 왜 받아
+P0 	: 그냥 ㅠㅠ 낼부터 일하려니 스트레스다
+P1 	: 그러면 매운라면 작은 거 하나 먹어라
+P0 	: 웅웅 컵누들이나 먹어야겠다 ㅋㅋ
+P1 	: 사 둔 거 있나
+P0 	: 웅웅 있다
+P1 	: 하나만 먹어라
+P0 	: 알았옹~
+P1 	: 그거는 칼로리 도 낮으니까
+P0 	: 웅웅 ㅋㅋ 살안찔듯 ㅋ
+P0 	: 먹고 스트레스풀어야겠다
+P1 	: 스트레스 받지 마라
+P0 	: 웅웅 ㅋ
+P0 	: 며칠 운동했더니 살이 빠진듯

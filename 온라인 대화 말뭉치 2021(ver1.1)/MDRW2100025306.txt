@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100025306
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물키워요?
+P1 	: 넹 강아지랑 살아요
+P1 	: 반려동물 키우시나요?
+P0 	: 저는 아직요
+P0 	: 강아지 키우고싶은데
+P1 	: 강아지 키우는거 정말 힘들어요ㅠㅋㅋㅋ 손도 많이 가고.. 책임감 아주 강하신 편 아니면 비추해요 .
+P1 	: 함께하면 행복하지만..ㅎㅎ
+P0 	: 캐어가 일이죠
+P1 	: 강아지 키우는건 3살짜리 애를 10년 넘게 키우는거랑 같대용,
+P0 	: 그정도요?
+P1 	: 그쵸 말도 못하고 손도 많이가고.. 먹는거 씻는거 놀아주는거 다 신경써야하고
+P1 	: 어지간한 책임감 아니고서.. 잘 키우기 힘들죠 ㅎ
+P0 	: 케어힘들죠
+P1 	: 고양이는 안좋아하시나요?
+P0 	: 털 때문에
+P1 	: 알러지있으신가여?
+P0 	: 아니여

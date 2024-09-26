@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100022522
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P0 	: 좀 웃긴 질문이지만 집안일 중에 제일 좋아하는게 어떤거세요?
+P1 	: 안녕하세요!ㅋㅋㅋㅋ
+P1 	: 집안일..... 중에 음... 설거지요!
+P0 	: !!저두요
+P0 	: 청소가 젤 귀찮고..
+P1 	: ㅋㅋㅋㅋㅋㅋ저는 개인적으론 화장실 청소가 제일 고역인거 같아요ㅠ
+P1 	: 설거지도 음식물쓰레기도 괜찮은데ㅠ
+P0 	: 그러네요
+P0 	: 화장실은 왜그리 자주 더러워지는지
+P0 	: ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ맞아요ㅠ 화장실은 쪼끔만 지나도 금방 더러워진게 티나서ㅎㅎ
+P1 	: 물때도 때인가봐요ㅠㅠ
+P1 	: 물때가 젤 보기가 싫더라구요
+P0 	: 맞아요 ㅋㅋ집안일 로봇중에
+P0 	: 화장실청소봇있음 대박일듯요
+P1 	: 헐... 저 바로 사요
+P1 	: 화장실 청소로봇 있다? 저 진짜 바로 살거에요
+P0 	: ㅋㅋㅋㅋ저도 살래요
+P0 	: 얼마전 로봇청소기샀는데 대박 좋아요 진짜
+P1 	: 오오 어디꺼 구매하셨어요??
+P0 	: 엘지요
+P1 	: 오호..! 역시 생활가전은 엘지죠!
+P0 	: ㅎㅎ맞아요 삶의 질 수직상승

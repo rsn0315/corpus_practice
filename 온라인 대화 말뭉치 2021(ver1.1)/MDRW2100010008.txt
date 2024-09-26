@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100010008
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 안녕
+P0 	: 요즘 랩실에서 실험은 잘 되어가?
+P1 	: 아니 주말에 한 실험이 모두 망해서 슬퍼
+P1 	: 언니 일은 어때?
+P0 	: 다 결과가 제대로 안나왔어?
+P1 	: 무슨 일 하는지 설명해줘
+P0 	: 나는 뭐 요즘 접종때문에 바쁘지
+P1 	: 응응 왜 이런 결과가 나왔나 모르겠네
+P0 	: 병원에서 접수받고 진행하는데
+P1 	: 계속 화이자 맞춰?
+P0 	: 아닝 화이자 아스트라 전부 와
+P0 	: 근데 막
+P0 	: 11시에 예약되서 왔는데
+P0 	: 11시 정각에 접종 안해준다고 화를 내는 사람이 많아ㅋㄱㄱ
+P0 	: 그럴때마다 짜증남;;
+P1 	: 그럴 것 같아.
+P0 	: 넌 랩실에서 어때?
+P1 	: 접종 하루에 몇 명 정도해?
+P0 	: 그 언니 어케하기로 함?
+P0 	: 여긴 뭐 시간마다 기본 열명하니까
+P1 	: 9월까지 일단 가만히 지켜봐주기로 한 것 같아
+P0 	: 하루에 대략 60명에서 70명 정도 하네
+P1 	: 그리고 내일 내가 일하는거 도와주기로 했는데
+P0 	: 웅웅
+P1 	: 짜증날 것을 예상하고
+P1 	: 하려고 ㅎㅎ
+P0 	: ㅋㅋㅋㄱㄱㄱ 어이구야 그 언니 되게
+P0 	: 듣기만 해도 스트레스 받던데

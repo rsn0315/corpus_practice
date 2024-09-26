@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016251
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가보고싶은 여행지가 있으십니까
+P0 	: 저는 영국가보고 싶어요ㅎㅎ
+P1 	: 영국 너무 멋지죠
+P1 	: 가고싶은 이유가 있으신가요
+P0 	: 제가 축구를 좋아하는데 좋아하는 축구팀이 영국 축구팀이어서요ㅎㅎ
+P0 	: 직관 한번 해보고싶네요
+P1 	: 축구를 좋아하시는군요!
+P1 	: 좋아하는 선수가 잇나요?
+P0 	: 선수는 아놀드 좋아하는데 아시나요?
+P1 	: 이름은 들어봤어요
+P1 	: 영국 가면 축구말고 또 보고싶은건 없으신가요
+P0 	: 글쎄요ㅋㅋ 축구말고는
+P0 	: 아하 그 셜록홈즈 거리도 가보고싶어욥ㅋㄱ
+P1 	: 아 영국하면 셜록홈즈도 있죠
+P1 	: 그 거리 걸으면 그 분위기 느낄 수 있어서 좋겠어요
+P0 	: 실제 소설 속 셜록홈즈 방처럼 꾸민
+P0 	: 박물관도 있다고 하더라고요ㅋㅋ
+P1 	: 너무 신기하네요
+P1 	: 박물관도 있다니
+P0 	: &name2&은 가보고싶은 곳이 있나요
+P1 	: 전 이탈리아 가보고싶어요 유적지 구경을 좋아해서

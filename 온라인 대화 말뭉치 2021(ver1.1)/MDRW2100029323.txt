@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029323
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 아니면 나도 유럽가고 싶어
+P1 	: 넌 갔다왔잖아
+P0 	: 유럽 좋지 볼거 많고
+P1 	: 그럼 코로나 끝나면 유럽가자
+P0 	: 근데 유럽은 음식이 엄마 아빠 입맛에 안맞아서 개고생할걸
+P1 	: 나 피자좋아해
+P0 	: 피자가 문제가 아냐
+P1 	: 그럼 뭐가 문제야
+P0 	: 그냥 다 문제야
+P0 	: 물도 석회수고 음식도 짜고 느끼하고
+P0 	: 며칠있으면 한식먹고 싶어져
+P1 	: 한식주는 패키지로 가야겠네
+P0 	: 그러면 좀 괜찮을지도
+P0 	: 무조건 한식있어야돼
+P0 	: 그리고 나도 패키지가 편하지
+P1 	: 왜 엄마아빠 수발들기 힘들어서???
+P0 	: 응...내 친구 부모님 모시고 태국갔다가 엄청 싸웠대
+P1 	: 엄마는 안까다로워

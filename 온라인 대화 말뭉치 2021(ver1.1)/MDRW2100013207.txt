@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013207
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 집밥이오ㅎㅎ
+P1 	: 뭐드셨어요
+P0 	: 오 재택중이신가요?ㅋㅋ
+P0 	: 저도 집밥이요ㅋㅋ
+P1 	: 아니요 오늘 휴무라서ㅋㅋ
+P1 	: 뭐 해드셨나요
+P0 	: 아ㅋㅋ 휴무셨군요
+P0 	: 어묵국에 밑반찬이랑 먹었어요
+P1 	: 전 미역국과 밑반찬 ㅎㅎ
+P0 	: 오늘 생일이세요?
+P1 	: 아뇨 몇일 전에 와이프가 ㅎㅎ
+P0 	: 아항 결혼후 첫 생일
+	  잘 챙겨드렸나요?
+P1 	: ㅋㅋ현금으로 승부했어요 이번에는
+P0 	: 돈이 짱이죠 ㅋㅋㅋㅋㅋ
+P0 	: 작고 반짝이는것도 좋구요ㅋㅋ
+P1 	: 저녁은 뭐드시나요
+P0 	: 오늘 저녁도 집밥인데
+	  뭘 해야될지 고민중요
+P0 	: &name2& 요리도 하시나요?
+P1 	: 저 계란말이 계란찜?
+P0 	: 오! 그 정도면 훌륭하시네요
+P1 	: ㅋㅋ &name1&은요?
+P0 	: 저야 주부9단이죠 ㅋㅋㅋ

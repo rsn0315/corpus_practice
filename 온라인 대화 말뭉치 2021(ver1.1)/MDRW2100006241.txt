@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006241
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 통영이요
+P1 	: 통영은 먹을 거리도 많고
+P0 	: 아..좋아요?
+P1 	: 좋은 것 같아요
+P1 	: 네
+P0 	: 전안가봐서
+P1 	: 통영 가보세요
+P0 	: 어디가좋나요?
+P1 	: 정말 이것저것할게 많아요
+P0 	: 통영중에서
+P1 	: 먹거리가 많고
+P1 	: 볼 거리도 많아요
+P0 	: 아..그렇군요
+P1 	: &name1&님은
+P1 	: 어디
+P0 	: 가봐야겠네요
+P0 	: 경주요..
+P1 	: 국내여행 좋아하세요?
+P0 	: 해외더좋아해요
+P1 	: 경주는 저도 많이 가보았어요

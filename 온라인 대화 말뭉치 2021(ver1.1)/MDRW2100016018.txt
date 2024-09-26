@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016018
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회활동 하시나요?
+P1 	: 어.. 아니요
+P0 	: 해본적은요??
+P1 	: 활동 하고 계시는 동호회있으신가요
+P0 	: 저는 아빠따라 배드민턴동호회 가본적잇어요!
+P1 	: 음.. 동호회라 그러긴 뭐한데 예전에 사물놀이 했었어요
+P1 	: 배드민턴 좋네요 활동적이고
+P1 	: 동호회 하면 대회같은 것도 나가나요
+P0 	: 오 멋져요 사물놀이!!
+P0 	: 아뇨 실력이 그닥이라 대회참전은 못했죠
+P1 	: 동호회는 어땠나요
+P0 	: 그냥 소소잼이었어요 ㅋㅋ
+P1 	: 그러셨군요
+P1 	: 연령대는 어땠나요
+P0 	: 아빠또래분들이요 ㅋㅋ
+P0 	: 전 걍 깍두기수준이라
+P0 	: 아저희아빠는 50대이십니다
+P1 	: 아 연령대가 높았겠네요
+P1 	: 그럼 어른들과 스포츠를 즐기신건가요
+P0 	: 맞아요 ㅋㅋ 뭐 그쵸~

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100039578
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요ㅜㅜ 아직 고민중이에요!
+P1 	: 뭐 드셨거나 드실예정이세요?
+P0 	: 저는 연어초밥 먹었어요ㅎㅎ
+P1 	: 와 대박 연어초밥 진짜 맛있죠...
+P1 	: 저는 연어 위에 좀 그을린거(?) 익힌게 더 좋더라구요!
+P0 	: 위에 그을린거도 맛있죠ㅋㅋ &name2& 님은 회 잘 드시나요??
+P1 	: 네 좋아해요 근데 느끼해서 많이는 못먹겠더라구요ㅜㅜ
+P1 	: &name1&님은 특정 회 좋아하시는거 있으세요??
+P0 	: 전 젤 좋아하는건 참치회에요ㅎㅎ
+P1 	: 저 참치는 한번도 안 먹어본 것 같아요 헐
+P1 	: 대뱃살? 뱃살? 맛있다고 들었는데 먹어보고 싶어요
+P0 	: 대뱃살 맛있죠ㅋㅋ 요즘은 참치회 배달 전문점들이 많이 생겼더라고요ㅎ 그런데가 좀 싸요 살얼음이긴 하지만ㅎ
+P1 	: 아하!! 뭐든 맛있을 것 같아요
+P1 	: 이제 여름도 다 갔으니 마음놓고 먹을 수 있어요 ㅎㅎ
+P0 	: 그쵸ㅎㅎ 여름엔 아무래도 식중독 걸릴 위험이 있어서 자제했네요
+P0 	: &name2&님은 어떤 음식 좋아하세요?
+P1 	: 저는 너무 많은데 닭요리는 거의 좋아해요 닭발빼고!!
+P1 	: 그중에는 닭갈비랑 치킨이 최애같아요
+P0 	: 닭요리는 뭐든 맛있죠ㅠ
+P0 	: 저는 교촌치킨 배달 많이 시키는데 &name2& 님은 어디꺼 주로 시키세요?
+P1 	: 저는 푸라닭이요!
+P1 	: 저는 교촌 먹어보고 싶은데 배달비가 좀 걸려서 맨날 딴거 시켜먹어요ㅜㅜㅜ

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020266
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 아이스크림 먹고 싶다
+P0 	: 여름엔 아이스크림이지
+P1 	: 나는 겨울에도 먹어
+P0 	: 아이스크림은 나뚜루 도 맛있어
+P1 	: 맛있긴 한데 좀 비싸
+P0 	: 너가 전에 준 기프티콘으로 맛있게 먹었어
+P1 	: 생일 때 준거 썼구나
+P0 	: 아이스크림 케이크 이뻐 고 맛있더라
+P1 	: 나도 아직 베스킨라빈스 아이스크림 쿠폰 써야 되는 거 있는데
+P0 	: 이번에 나온 식 메뉴 맛이다던데 지금 쓰는 게 어때
+P1 	: 내일 한번 가봐야겠다
+P0 	: 가는 길의 샌드위치도 사가자
+P1 	: 샌드위치 좋지
+P0 	: 내일 먹을 거 많네
+P0 	: 안녕

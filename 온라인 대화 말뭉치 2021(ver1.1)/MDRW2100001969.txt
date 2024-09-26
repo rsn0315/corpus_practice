@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100001969
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 혹시 직업이 어떻게 되세요?
+P1 	: 저는 초등학생 가르치고있어요ㅎ
+P1 	: 님은 어떤 일 하시나요
+P0 	: 전 아직 19살이라
+P0 	: 수능 준비중이에요..
+P1 	: 학생이시군요~지금은 힘들지만 좋은결과 있을거에요
+P0 	: 근데 초등학생 가르치시면 힘들지 않으세요?
+P1 	: 네 힘들기도하고 보람있을때도 많구요
+P0 	: 초등학교 저학년이 힘들어요 고학년이 힘들어요?
+P1 	: 성향에 따라다른데 저는 고학년이 더 힘들더라구요ㅎㅎ
+P1 	: 저학년은 아기들같아서 기본습관같은거(앉아라 책꺼내라 등등)끊임없이 반복해서 말해야하는게 어렵구요
+P1 	: 고학년은 수업시수가 많고 감정이 섬세한 시기다보니 그런부분 지도하는게 어려울때가 있어요~
+P0 	: 저는 중학교 남중나왔는데
+P0 	: 선생님이 참 힘드실거같더라구요..
+P1 	: 그런생각 해주다니 기특하고 고맙네요^^ 마음 예쁜학생인 것 같아요
+P0 	: 교권 바닥이라는 말 많던데 고등학교는 남녀공학이라 덜한데 남중때는 확실히 힘들거같더라구요..

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020366
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: &name3&이는 잘 놀아요?
+P0 	: 현재 엄마 젖을 맛있게, 행복하게 먹고 있어요.
+P1 	: 늦은 시간에 할머니 보초 서고 피곤하시겠어
+P0 	: 그렇지 뭐. 큰 볼일 본 것 같애
+P0 	: &name4&는 그러지 않았어.
+P1 	: 오 구랬구만 지금 &name3&이가 70일 됐나?
+P0 	: 똥 치우고 오께~
+P1 	: ㅋㅋㅋㅋㅋ 이 새벽에 똥 치우네 &name3&이가 &name4&보다 더 방글인 듯
+P0 	: 더 방글이가 아니라 완전한 방글이
+P1 	: ㅋㅋㅋㅋㅋ 우찌 방글이 하는데 자세히 알려주세요
+P0 	: 할머니와 눈이 마주치기만 하면 입이 헤벌쭉 해지지. 백만불짜리 살인미소야
+P1 	: 아이구~~ 벌써 눈 마주치면 방그레야~~ 매력덩어리네
+P1 	: 할아버지 반응은 어때?
+P0 	: 할아버지도 얼마나 좋아하시는지 몰라
+P1 	: 할아벼지 곧 &name3&이 애교에 꼼빡 넘어가시겠구만

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100019789
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1~2회
+
+P0 	: 저녁 뭐 먹었어??
+P1 	: 벌초갔다가 서울가는길인데 강릉에서 해물뚝배기랑 전복죽 먹었어 준희는?
+P0 	: 오늘 벌초를 했어??? 고생했겠네 나는 유부초밥 해먹었어 사놓은거 거의 썩기 전이었음
+P0 	: ㅋㅋㅋ 귀찮아서 미루다가 근데 맛은 있더라고
+P1 	: 응응 급하게 다녀왔어~ 유부초밥 맛있었겠다 원래 썩기전까지 미루다가 먹으면 맛있어 ㅋㅋ
+P0 	: 식중독 김밥집 생각이 잠깐 나더라고 ㅋㅋ 멀쩡한거 같음
+P1 	: 한달에 한두번은 유부초밥 해먹게되는것같아
+P0 	: 간편해서 괜찮지
+P1 	: 아 진짜 요즘 식중독 너무 무섭더라
+P0 	: 이십대 한명 김밥먹고 사망했대
+P1 	: 파주에서도
+P0 	: 그래?? 일산인줄 알았는데
+P1 	: 뉴스봤어~ 파주에서도 나왔다고 하던데 일산이었나
+P0 	: 예전에 밭근처에서 김밥 사먹었는데 너무 맛없는거야
+P1 	: 달걀이 문제인것 깉더라고.. 달걀값이 비싸서
+P0 	: 그냥 인천에서 포장하기로 했어
+P0 	: 아 그랬구만 달걀
+P1 	: 세척이 완벽하게 안된 계란을 인터넷으로 사는 가게들이 있대

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017052
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘 비 왔는감
+P0 	: 오늘 온다 했었는데 안 온 듯
+P1 	: 그러게 뭔 장마라더니 틀리네
+P0 	: 그러게 너무 습하다
+P1 	: 옹 ㅠㅠ 습하기만 하고 시원하게 비가 안내리네
+P0 	: 그러게 좀 내리면 좋겠다
+P1 	: 옹 ㅠㅠ 답답
+P0 	: 내일은 오는 거 같더라
+P1 	: 오 좋넴
+P0 	: 주말에는 안 와야 할 텐데
+P1 	: 안오길 ㅠ평일에만 오는게 좋은뎅 ㅋㅋ
+P0 	: 주말에는 놀러 가게
+P1 	: 옹옹 ㅋㅋㅋ

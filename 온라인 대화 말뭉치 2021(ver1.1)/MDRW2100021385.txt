@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021385
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이따 점심 뭐 드실 계획이세요?
+P0 	: 저 빵 사놓은 것이 많아서
+P0 	: 아마 빵 먹을거같아요
+P0 	: &name2&은요?
+P1 	: 전 일반식이요~ 그냥 밥해서 반찬이랑 먹으려구요
+P0 	: 반찬은 뭐 있으세요
+P1 	: 밑반찬 기본으로 있고.. 최근에 양념게장을 사서요..ㅎㅎ
+P0 	: 게장 맛있겠어요
+P0 	: &name2&은 간장보다 양념을 더 좋아하시나요
+P1 	: 근데 전 사실 간장좋아해요..ㅋ
+P1 	: 양념은 좀 매워서요
+P0 	: 그런데 양념은..
+P0 	: 가족들이 좋마하셔서 사신건가요
+P1 	: 네.. 다들 맛있대요..ㅎ 저도 맛은 있는데 간장쪽이 더 취향이다 이거죠..ㅋ
+P0 	: 게장 좋아하시면
+P0 	: 게딱지에 비벼먹는거 좋아하시나요
+P1 	: 네~ 맛있죠..ㅎㅎ 게장 좋아하세요?
+P0 	: 아..저는 사실 갑각류를 못먹습니다
+P1 	: 아~ 갑각류 알러지 있으신가봐요.. 아쉽네요.. 맛있는데..
+P1 	: 전 생각해보면 음식쪽 알러지는 없는 듯 해요.. 그래서 왠만한거 다 먹는답니다

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100046353
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경북
+principal_residence : 서울
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 점심 드셨나요?
+P0 	: 지금 먹고 있는 중 입니다~
+P1 	: 뭐 드시고 계신가요?
+P0 	: 김치볶음밥에 계란 후라이 3개요!
+P1 	: 와 맛있겠어요!! 어디서 드시나요?
+P0 	: 맛있습니다! 집에서 먹어요.
+P1 	: 오~ 요리 잘하시나봐요! 가장 자신있는 요리 있으신가요?
+P0 	: 음{emoji:…} 김치찌개..? 하하
+P1 	: 김치찌개에 참치 넣는거 좋아하시나요? 돼지고기 넣는거 좋아하시나요? 저는 돼지고기 좋아합니다 ㅎㅎ
+P0 	: 선택하기가 힘드네요. 둘다 좋아하는 거라서 하하! 굳이 뽑자면 저는 참치를 더 좋아합니다.
+P1 	: 참치도 돼지고기도 둘다 맛있죠 ㅎㅎ 
+	  오늘 저녁이나 오후에는 계획 있으신가요?
+P0 	: 오후에는 게임기를 수령 하러 갈거고, 저녁에는 자격증 공부를 할까 합니다.
+P1 	: 바쁜 하루를 보내실 예정이시네요~
+	  오늘 하루도 잘 보내시고 자격증 공부도 화이팅입니다!

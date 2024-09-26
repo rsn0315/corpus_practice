@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100004953
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕 &name2&-
+P0 	: 반가워용
+P0 	: 오늘의 주제는 반려동물이네요
+P1 	: &name1& 안녕하세요 반려동물 키워요?
+P0 	: 네 고양이 두마리 키우고있어요
+P1 	: 고양이? 너무 귀엽겠네요 이름이 뭔가요?
+P0 	: 사진도 보내주고 싶은데 여기는 사진이 없군요
+P0 	: &name3&랑 &name4&에요
+P1 	: 고양이 이름이 너무 귀엽네요 함께한지 몇년됐어요?
+P0 	: 이제 7년째에요!
+P0 	: &name2&는 반려동뭉 키워요?
+P1 	: 저는 반려동물 키우고 싶은데 가족이 별로 안좋아행6
+P1 	: 해요
+P0 	: 그럼 어렸을때는 키워봤어요?
+P1 	: 네 어릴때는 강아지 키우고 고슴도치도 키웠어요
+P1 	: &name1&은 반려동물은 고양이가 처음인가요?
+P0 	: 아니요 어렸을때 강아지도 키워봤어요
+P0 	: 고슴도티 신기해라!
+P1 	: 아빠가 털 알러지가 있어서 고슴도치로 키웠어요
+P0 	: 고슴도치는 가시가 아프지 않아요?
+P1 	: 경계하면 가시를 세우는데 친해지면 가시가 털 같아서 괜찮아요

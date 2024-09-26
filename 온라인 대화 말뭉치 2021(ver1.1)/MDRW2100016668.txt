@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016668
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P1 	: &name3&선배랑 &name4&선배도 같이 갔나?
+P1 	: 2학년들 같이 떠남?
+P0 	: 아
+P0 	: 그런듯
+P1 	: 둘이 룸메도 아니면서
+P0 	: 유일한 동기라 그런가
+P1 	: 걍 둘이 보면 연인보는 기분이야
+P0 	: 나도
+P0 	: 둘 보면 ㄹㅇ 데이트하는 연인
+P1 	: 휴학하고 뭐한데?
+P0 	: 미국간다는데
+P1 	: 뭐?
+P0 	: 지금말고 좀 지나면 간다더라
+P1 	: 뭐하러가는데?
+P0 	: &name5&선배한테 들은거라 자세힌 몰라
+P1 	: 아 &name5&선배 미국에서 왔지...
+P0 	: ㅇㅇ... 그래서 뭐 이민? 그런거 물어봤나봐
+P1 	: 둘이 이민가나?
+P0 	: 둘이라면 가능할것같은데
+P1 	: 그럼 휴학 아니라 자퇴인가?
+P0 	: 일단 휴학했나봐
+P0 	: 편입하려나

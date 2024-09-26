@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100001871
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 읽은 책이 있나요?
+P0 	: 책과는 거리가 멀어서요~ 추리소설은 몇번읽었었어요
+P1 	: 추리소설 중 어떤거 읽으셨나요?
+P1 	: 저는 루팡 예전에 읽었던거 같아요
+P0 	: 아가사 크리스티 좋아했어요
+P0 	: 그리고아무도없었다 이것도 좋았고
+P1 	: 한 번 읽어봐야겠어요
+P1 	: 인상적인 구절이라던가 있었나요?
+P0 	: 오리엔트 특급살인도 재밋었구요
+P0 	: 인상적인 구절은 아닌데
+P0 	: 반전이있었던 소설이었죠
+P0 	: 지금은 식상한 반전인데 그당시에는 엄청 재밋었어요
+P1 	: 반전이 있는 거 좋아요ㅎㅎ
+P1 	: 약간 추리 스릴러 이런장르 좋아하나봐요
+P0 	: 넵~ 범죄스릴러 좋아해요 향수도 재밋게봤어요
+P0 	: 소설 향수라고 예전 베스트셀러였어요
+P1 	: 와우 오늘 정말 많은 소설을 알아가네요 책 많이 읽으시는데요~
+P0 	: 학생때 읽은게 다에요 지금은 전혀 손이 안가네요
+P1 	: 사실 저도 그래요..ㅎ  나이먹을 수록 책을 잘 안읽게 되는 것 같아요
+P0 	: 맞어요 종이책은 불편하고 읽으려면 전자책이 읽기 편하더라구요
+P1 	: 하긴 요즘 이북도 잘 나와있으니까요.
+	  듣는? 오디오 북도 있고ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100011769
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 기타 사회 생활 및 활동>군대
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 지인 중 군대간 지인이 있으세요?
+P1 	: 아뇨 없어요
+P1 	: &name1& 님은 있으세요?
+P0 	: 아는 지인중 2명 정도 지금 가있네요
+P1 	: 친구 분들인가요?
+P0 	: 네네ㅋㅋ 코로나 때문에 행군은 줄었다고 좋아하더라구요
+P1 	: 그래도 단체 생활이라 불안할 거 같아요
+P0 	: 그래서 군인을 선접종 대상자로 뽑았나봐요..
+P1 	: 요즘에 핸드폰 사용이 가능하다던데 연락되나요?
+P0 	: 6시 이후로 연락 돼요!
+P1 	: 아 &name1& 님이 6시 이후로 연락되는 줄 알고 기다렸네요ㅋㅋㅋㅋ
+P1 	: 연락 자주하시나요?
+P0 	: 앜ㅋㅋㅋ 엄청 친한 지인은 아니라 단톡방으로 안부 확인해요
+P1 	: 요즘 휴가도 마음대로 못 나온다던데 몰아서 나와야 하고 그런가봐요
+P1 	: 아무튼 시국때문에 더 고생하시는 거 같아요
+P0 	: 빨리 제대하고 싶다네요ㅠ 그래도 선임후임이랑은 원만한 것 같더라구요
+P1 	: 그아마 다행이에요ㅠㅠ

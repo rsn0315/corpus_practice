@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100033545
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼에 대해 어떻게 생각하세요?
+P1 	: 결혼은 선택
+	  연애는 필수
+P1 	: 다시 돌아간다면
+	  평생 연애만ㅋㅋ
+P0 	: ㅋㅋㅋ 그정도인가요?
+P0 	: 결혼은 단점이 많나요?
+P1 	: 희생해야할것들이 많아지죠:)
+P1 	: &name1&님은 아직 미혼이신가요?
+P0 	: 네네 맞아요ㅠㅠ
+P0 	: 결혼은 참 어려운것같네요
+P1 	: 그럼 지금 연애중이세요?
+P0 	: 아니요!
+P0 	: ㅠㅠ
+P0 	: 요즘은 연애도힘든것같아요
+P1 	: 그럼 이상형은 어떻게 되세요?
+P0 	: 저는
+P0 	: 내적인게 진짜중요한것같아요
+P1 	: 내적인 부분을 중시하시는군용
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: 님은요?
+P1 	: ㅋㅋ저도 그렇게 생각합니다
+P1 	: &name1&님은 자만추를 선호하세요?
+	  아님 소개팅을 선호하세요?
+P0 	: 전 자만추요
+P0 	: 근데 그게안되네요ㅋㅋㅋㅋ
+P1 	: 저도 자만추요ㅋㅋ
+P1 	: 코시국이라 만남 자체가
+	  쉽지 않을거 같아요ㅜ

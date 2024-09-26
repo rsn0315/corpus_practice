@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100023187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠 경기 좋아하세요?
+P0 	: 저는 올림픽 정도는 봐요 &name2&은 스포츠 경기 좋아하시나요?
+P1 	: 저도 따로 좋아하는 스포츠가 있는건 아닌데, 올림픽이나 월드컵 있으면 봐요ㅎㅎ
+P0 	: 이번에 재밌게 보신 스포츠가 있으신가요?
+P1 	: 이번 올림픽에서 양궁, 배구, 다이빙, 클라이밍, 높이뛰기 정도 본 것 같아요
+P1 	: 사실 거의 다 재미있게 보긴 했어요ㅎㅎ
+P0 	: 오~~그렇군요 그럼 이번 올림픽으로 호감갖게 된 선수 있으신가요?
+P1 	: 특별히 좋아하거나 응원하는 선수가 따로 있지는 않아요 
+	  우리나라 모든 선수들을 응원하죠ㅎㅎ
+P0 	: 그럼 직관가시고픈 스포츠 있으실까요?
+P1 	: &name1&은요?
+P1 	: 음... 생각해보지는 않았지만, 배구경기보면 재밌지 않을까해요
+P0 	: 저는 체조요
+P1 	: 맞아요!! 체조를 잊고 있었네요
+	  체조도 재밌게 봤었는데ㅎㅎ
+P0 	: 맞아요 혹시 스포츠 경기 직관하신 적 있으신가요?
+P1 	: 음..예전에 축구랑 피겨본적있어요
+P0 	: 오 재밌었을 것 같네ㅇ
+P0 	: 네요

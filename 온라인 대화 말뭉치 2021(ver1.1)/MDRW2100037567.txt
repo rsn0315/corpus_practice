@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100037567
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 방가요.
+	  맛난 점심 드셔야죠
+P0 	: 방금 먹었어요 &name2& 님은 드셨나요?
+P1 	: 네 덮밥 먹었어요
+	  뭐 드셨나요?
+P0 	: 전 집밥 먹었어요
+P0 	: 어떤 덮밥 드셨어요?
+P1 	: 참치덮밥이요!!
+P0 	: 맛있겠네요! 참치 좋아하세요?
+P1 	: 네 참치 좋아해요~~
+	  캔 고추참치도 좋아해요
+P1 	: 집밥 메뉴가 뭐였나요?
+P0 	: 오곡밥에 가지볶음 진미채 김부각 등등이요
+P1 	: 우와 한정식 집 메뉴 아닌가요~~~
+P1 	: 한정식 집 가서 저녁 먹고 싶네요^^
+P0 	: ㅋㅋㅋㅋㅋㅋ평범한 한식이죠
+P0 	: 오늘도 같은 거 먹어야 하는데 갑자기 까르보나라가 땡기네요
+P1 	: 까르보나라 맛있죠~~
+P1 	: 맛난 점심 드셨나요?
+P0 	: 이제서야 답하네요! 점심은 집에 있는 걸로 먹었어요
+P0 	: &name2& 님은 저녁 잘 챙겨드셨나요?
+P1 	: 보리밥에 제육볶음이랑 메밀전병까지 알차게 먹었어요.
+P0 	: 엄청 잘 드셨네요! 저도 보리밥 좋아해요

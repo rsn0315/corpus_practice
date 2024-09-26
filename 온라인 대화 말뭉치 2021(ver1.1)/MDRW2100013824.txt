@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013824
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P0 	: 집안일해요?
+P1 	: 네 오늘은 습도가 높아
+	  빨래가 안 마르네요
+P0 	: 제습기 돌려요
+P1 	: 제습기 없어요
+P0 	: 그럼 선풍가라도
+P1 	: 창문 열어 놓으면
+	  선풍기보다 더 좋은 바람 불어요
+	  다만 그 바람이 습하다는 거
+P0 	: 습한거 싫죠
+P1 	: 네 차라리 건조하고 온도 높은게 낫죠
+P0 	: 그랬으면
+P1 	: 뭐 이번주만 지나면 가을이니
+	  빨래도 잘 마르고
+	  곰팡이 걱정도 사라지겠죠
+P0 	: 아마도
+P1 	: 빨리 가을이 와서
+	  날씨도 좋고 빨래도 잘 마르면 좋겠어요
+P0 	: 맞아여

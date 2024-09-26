@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008946
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁으로 갈비탕 배달시켜 먹었어요
+P0 	: 전 치킨이요
+P1 	: 배달시키셨나요?
+P0 	: 네
+P1 	: 어떤 종류로 드셨나요?
+P0 	: 후라이드요
+P1 	: 저는 간장치킨 자주 배달시켜먹어요
+P0 	: 간장더 좋죠
+P1 	: 후라이드랑 간장 하나씩 시키면 딱 좋은 것 같아요
+P0 	: 다 못먹어요
+P1 	: 저희 집은 좀 많이 먹어서요ㅋㅋ
+P0 	: 대식가네요
+P1 	: 부족한 것보다 남는 게 낫다는 모토입니다ㅎㅎ
+P0 	: 좋으네요

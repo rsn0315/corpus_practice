@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100013522
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 혹시 어떤음식 좋아하세요?
+P0 	: 저 햄버거 좋아합니다
+P0 	: 햄버거좋아하나요
+P1 	: 네
+P1 	: 어떤 햄버거 좋아하세요?
+P0 	: 저는 맥도날드 선호해요
+P0 	: 상하이버거를 좋아해서..
+P0 	: &name2&님은 어떤 브랜드 좋아하시나요
+P1 	: 저도 맥도날드나 아니면 맘스터치 좋아해요
+P0 	: 어떤 버거 좋아하나요
+P1 	: 저는 싸이버거 좋아해요
+P0 	: 싸이버거 너무 맛있어요
+P0 	: 음료는 어떤거 같이 드시나요
+P1 	: 콜라 자주 먹는거같아요
+P1 	: 코카콜라가 좋으세요 펩시가 좋으세요?
+P0 	: 저는 콜라말고 사이다좋아해요
+P1 	: 아 사이다 좋아하시는구나
+P0 	: 네 사이다 선호해요

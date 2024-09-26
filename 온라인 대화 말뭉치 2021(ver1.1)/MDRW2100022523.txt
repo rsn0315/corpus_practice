@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100022523
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요?
+P1 	: 아니요 반려동물 키우세요?
+P0 	: 네 개랑 고양이 있어요
+P1 	: 어머 부지런하시네요
+P1 	: 서로 사이 좋은가요?
+P0 	: 마당에서 키워요.
+	  개는 고양이한테 가서 친한척 하는데 고양이들이 무서워하고 싫어해요
+P1 	: 그렇군요 마당이 있다니 동물들에게 참 좋은 환경이네요
+P1 	: 강아지랑 고양이 모습이 눈에 그려지는 듯합니다
+P1 	: 강아지와 고양이의 색다른 매력을 둘 다 느낄 수 있으니 참 좋으시겠어요
+P1 	: 몇살이에요?
+P0 	: 개는 4살 3살
+	  고양이는 3살 2살이요
+P1 	: 여러마리를 키우시는군요
+P1 	: 사료랑 간식이랑 장난감이랑 필요한게 많으시겠어요
+P0 	: 네 조금 들긴하죠..
+	  그래도 이쁘게 크는거 보면 넘 좋아요
+P1 	: 집안에 웃음이 넘칠 것 같아요
+P1 	: 마당이 있으니 산책도 따로 필요없겠어요
+P0 	: 네 동물을 좋아해서 너무 좋아요
+	  아이들도 좋아하구요
+P1 	: 동물들에게도 사람에게도 
+P1 	: 강아지 고양이 이름 여쭤봐도 괜찮을까요?
+P0 	: 강아지  &name3& &name4&
+	  고양이 &name5& &name6&이요
+P1 	: 너무 귀여워요
+P1 	: &name3&가 젤 대빵이군요

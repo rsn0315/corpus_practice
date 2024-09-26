@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100007811
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 분식좋아하세요?
+P1 	: 네!! 저 떡볶이 완전 좋아해요
+P1 	: &name1& 님은요?
+P0 	: 저는 물떡은 좋아하는데 다른 분식음식은 그다지 좋아하지 않아요
+P0 	: 저는 일식좋아해요
+P1 	: 그렇군요 전 건강 생각해서 분식 자제하며 살고 있어요ㅋㅋㅋ
+P1 	: 일식 중에 어떤 게 제일 좋으세요?
+P0 	: 저는 해산물 좋아해서 카이센동 좋아해요
+P0 	: 덮밥류는 왠만큼 다좋아하구요
+P0 	: 일식좋아하시나요?
+P1 	: 그런 편이에요
+P1 	: 전 소바 좋아해요
+P0 	: 소바 시원하고 뒷맛이 깔끔해서 좋아요
+P1 	: 맞아요 여름되면 자주 먹어요
+P0 	: 또 유독 좋아하는 음식있으세요?
+P1 	: 떡볶이랑 빵 좋아해요
+P1 	: 빵은 왠만한 거 다 좋아해요
+P0 	: 빵! 빵덕후친구보면 빵집투어다니던데 고고님도 맛있는 빵집 찾아다니시나요?
+P1 	: 아뇨 제 버킷리스트 중 하나예요
+P1 	: 유튜브에 뽀니라고 빵 리뷰하시는 분 있거든요 그 분 영상에 나오는 빵집 다 가보고 싶어요
+P0 	: 영상에 나오는 빵맛집들 다 가보실수있길 바래요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 많이 시켜드시나요?
+P1 	: 자주는 아니고 가끔이요
+P1 	: 자주 드시나요?
+P0 	: 4단계 된 이후 좀 더 자주 시켜먹어요
+P1 	: 아무래도 그렇죠.. 주로 시키는 메뉴가 있으신가요?
+P0 	: 매번 다르긴 하지만 최근에는 마라탕, 김치볶음밥, 등갈비김치찜 시켰어요
+P1 	: 등갈비김치찜 야밤에 땡기네요 ㅎ
+P1 	: 저는 포장을 주로 하는데 치킨이나 중국요리요ㅋㄱㅅ
+P0 	: 진짜 고기도 고기지만 김치 쭉 찢어서 밥이랑 먹으면 애국심이 막 생겨요ㅋㅋㅋㅋㅌ
+P1 	: 인정합니다~~ 그 식당이 김치가 맛있는 집이였나봐욬ㅋㅋㅋㅋㄱ
+P0 	: ㅋㅋㅋㅋㅌ 배고플 때 먹어서 더 그럴지도요...ㅎ
+P1 	: 그럴수도 있네요
+P1 	: 이삭햄버거를 저녁으로 먹었는데 ㅇ
+P1 	: 오늘 저녁은 무얼 드셨나요?
+P0 	: 떡볶이랑 김치볶음밥 먹었어요ㅎㅎ
+P1 	: 전 아침에 김치볶음밥 해먹었는데 ㅋㅋㅋ 김볶이랑 떡볶이는 안 질려요 ㅋㅋㅋㄱ
+P0 	: 계란이 다 떨어져서 후라이를 하나밖에 못 먹었어요...ㅠ
+P1 	: 아쉽네요..

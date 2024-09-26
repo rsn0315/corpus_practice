@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100003381
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 여행가본 곳 중에 좋았던 곳 있으세요?
+P1 	: 저는 춘천 좋았어요
+P0 	: 춘천 가서 뭐하셨어요?
+P0 	: 전 닭갈비 먹었던 기억만 나는거 같아요ㅋㅋㅋ
+P1 	: 엇 저도! 친구들이랑 갔었는데 닭갈비 너무 맛있어서 포장까지 해왔어요
+P0 	: 역시 춘천가면 닭갈비는 꼭 먹어줘야 하나봐요
+P0 	: 떡사리가 맛있었던 기억이
+P1 	: 저는 닭갈비를 돼지갈비처럼 통으로 구워먹는게 맛있더라구요
+P0 	: 오 그러면 들고 뜯어먹어요?
+P0 	: 춘천 가야겠는데요 먹으러ㅋㅋㅋ
+P1 	: 맞아요! 가위로 자르고 갈빗대는 들고먹어요ㅋㅋㅋㅋㅋ
+P1 	: 말하니까 저도 먹고싶네요ㅠㅠ
+P0 	: 저는 빵 좋아해서
+P0 	: 빵집 투어 여행도 가고싶어요
+P1 	: 저도요! 여행지 가면 빵집 들렸다 와요!!
+P1 	: 대전가면 성심당은 꼭 가요ㅋㅋㅋㅋ
+P0 	: 저도요! 저 성심당은 가까운 편이라서
+P0 	: 자주 갔었어요
+P0 	: 삼송빵집도 맛있더라구요
+P1 	: 저는 경기도 살아서 삼송은 그냥 체인점으로만 가봤어요
+P0 	: 전 원래 옥수수 좋아해서 처음 먹고 충격이었어요
+P0 	: 대구 여행 갔을때 샀던 거 같은데
+P1 	: 옥수수 들은거도 맛있죠! 시그니처 답더라구요
+P1 	: 최근에 한우고로케? 먹어봤는데 진짜 맛있어요

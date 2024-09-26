@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100013344
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 어떤 날씨 좋아하세요?
+P1 	: 저는 겨울이요!
+P1 	: 추운건 참아도 더운건 못참아요
+P0 	: 혹시 사시는 지역에 눈 많이 내려요?
+P1 	: 저는 서울 살아요 눈은 그럭저럭인것같아요.
+P1 	: 또 눈은 사실 크고 나면 예쁜쓰레기 ㅠ
+P0 	: 저희 지역은 눈 매년 1~2일정도만 내려서 많이 내리는지역이 부러운거같아요 ㅎㅎ
+P1 	: 혹시 어느 지역인지 물어도 될까요?
+P1 	: 전 강원도 외에는 비슷할줄 알았어요
+P0 	: 저는 경상도 사는데
+P0 	: 눈 쌓인거 딱 2번정도 본거같아요 살면서
+P1 	: 경상도는 생각보다 안오네요... 서울은 적당히 오는것같아요
+P1 	: 다만 예쁘게 뽀송뽀송하게 오는게 아니라서 질척해요
+P0 	: 혹시 맑은날이 좋아요 아니면 비오는날이 좋아요?
+P1 	: 저는 맑은날이요
+P1 	: 물묻는게 싫어서 비랑 눈오는날은 왠만해서 집에 있어요
+P1 	: &name1&은요?
+P0 	: 저는 비오는날이 아무래도 냄새때문에 좋더라구요
+P1 	: 맞아요 그런분들이 있으시더라고요 비오는소리나 모습 보는게 좋다고 하시더라고요
+P0 	: 네 새벽에 소리들으면 기분 좋아지는거같아요
+P1 	: 그 감성은 왠지 알것같아요
+P1 	: 비오는날은 싫지만 제가 집에있고 나갈계획없는데 비오는건 괜찮아요

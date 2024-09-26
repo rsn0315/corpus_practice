@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100019027
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아직 못정했어요
+P1 	: 님은요?
+P0 	: 저도 생각중 ㅎㅎ
+P1 	: 아 집에 치킨 있어요
+P0 	: 엇
+P0 	: 그러고보니 저도 치킨 있네요
+P1 	: 어제 사드신거요?
+P0 	: 네 ㅋㅋ 2마리사서
+P0 	: 1마리 고대로 있네요
+P1 	: 식어도 맛있죠 ㅎㅎ
+P0 	: 네 케이준 샐러드 해먹고싶은데
+P0 	: 샐러드거리가 없는 ㅠㅠ
+P1 	: 케이준 맛있죠
+P0 	: 무슨 치킨 이에요?
+P1 	: 전 굽네치킨이요
+P0 	: 굽네 맛있죠
+P1 	: 양이 적은 거 빼면 ㅎㅎ
+P0 	: 네 ㅋㅋㅋ 그래서 저도 굽네 잘 안시켜요 ㅠ
+P0 	: 전 페리카나 치킨 제일 자주 시켜먹어요

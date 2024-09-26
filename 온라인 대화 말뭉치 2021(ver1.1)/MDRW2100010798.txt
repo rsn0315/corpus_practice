@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010798
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 로봇청소기 사용하세요?
+P1 	: 네ㅎㅎ 근데 괜히 산거같은ㅎㅎ
+P0 	: 잘 안 쓰게 되나요?
+P1 	: 네 그냥 청소기만 못하더라구요
+P0 	: 저희 집은 아직 유선청소기 쓰고 있어요
+P1 	: 저도 그냥 일반 청소기로 돌아갈거같아요ㅋㅋ
+P0 	: 무선청소기 사고 싶긴 한데 매장 가서 들어보면 다 은근 무겁더라구요
+P1 	: 소파에 끼어 있는거 건지다가 허리다칠뻔했어요ㅋㅋ 은근 무게있어요
+P0 	: 어쩌다 소파에 ㅋㅋㅠㅠ
+	  집안일은 하자면 끝이 없는 것 같아요. 바쁘면 대충 미룰 때도 많지만요 ㅋㅋ
+P1 	: 맞아요 하는건 티가 안나는데 안하면 티가나요ㅠㅠ
+P0 	: 기름때는 왜 이렇게 잘 생기는지ㅋㅋ 바로바로 안 하면 지우기까지 난이도가 상승하더라구요
+P1 	: 맞아요 세제 아무리 좋아도 그때그때 지우는게 제일 좋은ㅠㅜㅜ
+P0 	: 설거지도 그렇고 바로바로 하는 게 낫더라구요 ㅠ

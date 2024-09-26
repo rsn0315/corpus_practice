@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100039509
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요!
+P0 	: 여행좋아하시나요?
+P1 	: 여행은 좋아하는데 시간이 없어서 별로 가보지못했네요
+	  여행 가보신 적 많으세요?
+P0 	: 아하 ㅜ 저도 엄청많징않지만 이곳저곳 꽤 다녔어요 ㅎㅎ
+P1 	: 좋았겠어요ㅎㅎ 코로나 끝나면 어디 가고싶으세요?
+P0 	: 음 끝나게되면 호주나 뉴질랜드 가보고싶네요 ㅠ
+P1 	: 저도 호주가서 코알라 보고싶어요 호주가면 뭐하고싶으세요?
+P0 	: 아하! 저는 호주서 크리스마스 보내고싶어서요~캥거루도보고싶구요 ㅋㅋㅋ
+P1 	: 호주에서 크리스마스보내면 정말 특별할 것 같아요!
+P0 	: 맞아요! 여름날의크리스마스!
+P1 	: 전 스위스에 가보고싶어요! 티비에서 봤는데 풍경이 정말 예쁘더라구요
+P0 	: 우왕! 스위스! 주변에가본분들은 입모아 자연경관이 아름답다고하더라구요 ~

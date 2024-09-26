@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100006926
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 직장인이신가요
+P1 	: 직장인이었어요. 지금은 그만두고 시험 준비하고 있어요.
+P0 	: 아 더 좋은데 가시려나보네요
+P1 	: 그러면 좋겠어요. &name1&님은 직장인이세요?
+P0 	: 넵 저는 직장인입니당
+P1 	: 그렇군요. 요즘 분위기는 어때요?
+P0 	: 음..다른 곳으로 발령났더니 좀 보수적이라 적응하기 힘드네요
+P1 	: 새로운 곳에서 새로운 사람들과 일하는 건 쉽지 않은 일인 것 같아요.
+P0 	: 저도 사실 요즘 그만두고싶은데 용기가 안나네요
+P1 	: 저도 비슷하게 이직경험이 있어서 그 때 생각이 나네요
+P1 	: 맞아요 어려워요
+P1 	: 확실히 회사 밖은... 여러모로 장애물이 많아요 ㅎㅎ
+P0 	: 그쵸 원래하시던 관련 업무 쪽으로 준비하시는거에요?
+P1 	: 네 원래 인사팀에서 일하다가, 노무사 준비하려고요.
+P0 	: 와 어려운 시험이네요 대단하세요!
+P1 	: 요즘 경쟁률이 많이 높아져서 더 어렵네요

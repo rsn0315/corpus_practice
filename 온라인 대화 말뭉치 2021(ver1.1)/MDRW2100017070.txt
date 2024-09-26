@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017070
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 체리 먹고싶어~
+P1 	: 시장에 많이 팔던데
+P0 	: 이따 사러가야겠네
+P1 	: 아까 말하지 갔다 왔는데
+P0 	: ㅋㅋ괜찮 나도 나가는김에 사오면된다
+P1 	: 그래 상품권으로 구매 해라
+P0 	: 오키오키 ㅋㅋ 체리 많이 먹으면 몸에 좋다
+P1 	: 그래 장도 잘 온대
+P0 	: 오 맛도 좋은데 영양도 만점이군
+P1 	: 그래 많이 먹어야 할 듯
+P0 	: 상큼달큼 맛있엉
+P1 	: 체리 주스도 사 먹어라
+P0 	: 그래야겠당

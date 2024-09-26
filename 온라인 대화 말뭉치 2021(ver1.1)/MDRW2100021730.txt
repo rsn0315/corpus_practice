@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100021730
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P0 	: 안녕하세요
+P1 	: 안녕하세여~
+P0 	: 알바마니 해보셨나요
+P1 	: 음... 아뇨? 몇 번 안 해본 것 같아요 ㅋㅋㅋ 두어번 정도?
+P0 	: 어떤알바였나요?
+P1 	: 워터파크 알바랑 신발판매요 ㅋㅋ
+P0 	: 와워터파크 엄청 힘드셨겠어요
+P1 	: 네 ㅋㅋㅋㅋ 덥고.. 힘들구... 다시는 못 할 것 같네요
+P1 	: &name1&님은 알바 해보신 거 있으세요?
+P0 	: 음 편의점등등 많이해봤네요
+P1 	: 지금두..??
+P1 	: 지금은 직장인이세요?
+P0 	: 아 네네 예전에요ㅎㅎ
+P1 	: ㅋㅋ무슨 쪽 일 하세요
+P1 	: 여쭤봐도 되나..?
+P0 	: 사무직입니다!
+P1 	: 아하~ 저도요 ㅋㅋ
+P1 	: 가끔 근데 9-6 벗어나는 일도 해보고는 싶어요 ㅋㅋ

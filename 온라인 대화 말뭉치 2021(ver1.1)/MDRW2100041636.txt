@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100041636
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 거기는 날씨어때요?
+P1 	: 흐려요 ㅠ 비가 오려나봐요
+P1 	: &name1&님 쪽은 어때요?
+P0 	: 저희도요 우산안챙겼는데 클났네요ㅠ
+P1 	: 아이고 ㅠㅠ 진짜 집에 들어가기 전엔 비가 오지 말아야 할텐데요 ㅠ
+P0 	: ㅋㅋㅋ... 결국 저 비맞으면서 집왔어요
+P1 	: 으악... ㅠ
+P1 	: 이쪽은 아직까지도 흐리기만해요
+P1 	: 대신 바람이 상당히 불고 있는 것 같아요
+P0 	: 여긴 바람은 안불어요
+P0 	: 주말내내 맑더니 하필 월요일날 이런 뒷통수를...
+P1 	: 바람이 창문이 울리도록 불고 있어요
+P1 	: 진짜 왜 하필 월요일에 비가 오고 그랬을까요
+P1 	: 주말에 왔음 기분좋게 넘어갔을 것 같은데 말이에요 ㅠ
+P0 	: 비오는거 나름 좋긴한데... 제가 돌아다닐일 있을땐 안왔으면 좋겠어요..ㅋㅋㅋ
+P1 	: 여기도 비와요 ㅠ
+P1 	: 집에 갈때까지만 안 오길 바랬는데
+P1 	: 우산은 왜 항상 챙기지 못한 날에만 비가 오는지 몰라요
+P0 	: 헉 &name2&님도 우산없으세요?
+P1 	: 다행히 조금 내릴때 뛰어들어 왔어요!!
+P1 	: &name1&님은 비 많이 맞지 않으신거지요?
+P0 	: 전 ㅋㅋ우산썼는데도 너무 비가 많이와서 다 젖었어요.....
+P1 	: 아이고 ㅠ 고생이 많으셨어요

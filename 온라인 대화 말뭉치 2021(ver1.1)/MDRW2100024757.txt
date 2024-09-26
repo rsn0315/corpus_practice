@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100024757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 네 좋아합니다
+P0 	: 국내여행지 추천 해주실 곳 있으실까요~~?
+P1 	: 저는 제주도를 이번주에 갑니다
+P1 	: 흔한곳만 다녀서요
+P1 	: 강릉과 대천등
+P0 	: 강릉!
+P0 	: 강릉은 정말 경치가 좋더라구요
+P1 	: 바다도 보고 맛집도 있고해서 자주 가게 되더라구요
+P1 	: 강릉시장도 좋아해요
+P0 	: 강릉은 꼭 먹어봐야하는 음식이 있나요?
+P1 	: 저는 시장에서는 닭강정과 마늘빵을 사먹고
+P1 	: 꼬막비빔밥과 물회도 잘 사먹어요
+P0 	: 우와 엄청 맛있겠네요!
+P0 	: 꼬막비빔밤은 강릉에서도 자주 먹는 음식인가요?
+P1 	: 엄지네 꼬막비빔밥드셔보셨나요?
+P0 	: 아뇨ㅜ
+	  전 벌교쪽에서만 꼬막비빔밥을 먹어봤어요
+P1 	: 제주도 가본곳중 좋았던곳있나요?
+P1 	: 우도도 가보려고하는데 비가와서 걱정이예요
+P0 	: 전 제주도는 많이 안가봤는데
+	  성산일출봉옆에 카페에 밖에 앉아서 바다 보는데
+P0 	: 돌고래떼가 지나가더라구요
+P0 	: 그게 정말 기억에 오래남더라구요ㅎ

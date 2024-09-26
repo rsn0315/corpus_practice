@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100047145
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 해산물 못드세요? ㅠㅠㅠ
+P0 	: 네ㅠㅠ 알러지가 있는데
+P1 	: 알러지있으시거나 혹시 식감을 싫어하시는건가요?
+P1 	: 아 알러지군요 ㅠㅠㅠㅠ
+P0 	: 갑갑류쪽이 유독 심하더라구요
+P0 	: 갑각류..
+P1 	: 좋아하시는데 알러지때문에 못드시는거에요? ㅠㅠㅠ
+P0 	: 네 새우 게 이런거 되게 좋아했는데
+P0 	: 어느순간부터 알러지가 올라오더라구요
+P1 	: 갑각류 쪽이면 더 그렇네요 ㅠㅠ 생선보다도 갑각류쪽음식이 뭔가 더 맛있는데 ㅠㅠ
+P0 	: 그쵸.. 갑각류 좋아하시나요
+P1 	: 좋아했는데 못먹으면 너무 속상해요 ㅠㅠㅠ
+P1 	: 아는맛이 무서운데 ㅠㅠ
+P0 	: 그니까요
+P0 	: 몰랐으면.. 슬프지도 않았을것을..
+P1 	: 아무래도 해산물중에는 제일 좋아하는 것 같아요
+	  생선보다도 조리하기 쉽기도하고 접하기도 쉬우니까요
+P1 	: 맞아요 ㅠㅠㅠ 모르면 그냥 모르고 살텐데 아는 맛이라 ㅠㅠㅠ
+P0 	: 냄새나 연기도 덜 나고 그래서 더 좋았는데..
+P0 	: 어떤  갑각류 가장 좋아하시나요
+P1 	: 아무래도 새우를 가장 좋아해요 게종류도 맛있긴 한데 먹기가 까다로워서요 ㅎㅎ 살발라먹는게 저에겐 조금 귀찮더라구요 ~

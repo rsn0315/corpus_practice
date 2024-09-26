@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013860
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 학교 다니시나요??
+P0 	: 네 대학교 방학이 곧 끝나네요 ㅠㅠ
+P1 	: 글게요ㅠㅠ 혹시 전공 여쭤봐도 될까요??
+P0 	: 저는 공대쪽이에요  화학공학
+P1 	: 오 전 통걔 전공이에요
+P0 	: 우와!! 듣기만해도 어렵네요
+P1 	: 저랑 되게 안맞긴 해요ㅠㅠ
+P1 	: 전공은 적성에 잘 맞으신가요??
+P0 	: 저는 사실 원전공이 잘안맞아서 복수전공을 해서 화학공학 전공이된거에요 ㅠㅠ
+P1 	: 앗 저도 통계학이 잘 안맞아서 국문 복전하고있어요ㅋㅋ
+P0 	: 우와 ㅋㅋㅋㅋ비슷하게 통하는점이많네요  전공은좀다르지만
+P1 	: 그러게요ㅋㅋㅋ 신기하네요
+P1 	: 혹시 원전공은 어떤거였나요??
+P0 	: 원전공은 건축이었어요
+P1 	: 오 되게 어려운 거였네요...
+P0 	: 큽 ㅠㅠ 그래서 잘안맞았나봐요 국문학과는어때요?
+P1 	: 아 훨씬 나아요ㅋㅋㅋ
+P1 	: 전공을 잘못 정했던 거 같아요ㅋㅋㅋ

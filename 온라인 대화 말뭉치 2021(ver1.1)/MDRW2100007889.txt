@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100007889
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 주말인데 뭐 하고 계시나요?
+P0 	: 저는 집에서 뒹굴뒹굴 거리고있네요
+P0 	: 내일 출근이라니 너무싫어요
+P1 	: 오 직장인이신가요?
+P0 	: 네네
+P0 	: 올해 겨우 취업했네요
+P0 	: &name2&님은 학생이신가요?
+P1 	: 네 전 아직 학생이에요!
+P1 	: 내년쯤 슬슬 취업 준비 할 것 같아요
+P0 	: 으아...ㅠㅠ 취업 진짜 화이팅이에요
+P0 	: 미리미리 준비 잘하시구...
+P1 	: 먼 얘기라 생각했는데 다가오니 막막하네요ㅋㅋㅋㅠㅜ
+P1 	: 직장생활은 어떠세요?
+P0 	: 음... 생각보다 괜찮은듯 안괜찮은듯...
+P0 	: 그런 뒤숭숭한 느낌이에요
+P0 	: 그리고 취업하더라도 뭔가 애매하더라구요
+P0 	: 이 길로 가는게 맞는건가 하고 수백번 생각해요..ㅋㅋㅋ
+P1 	: 아앗..ㅋㅋㅠㅜ
+P1 	: 정말..세상에 마음처럼 되는 일이 없군요..
+P0 	: 그쵸..ㅠㅠ 산넘어 산이에요..ㅎㅎ
+P1 	: 다같이 화이팅 해요ㅎㅎㅠ.. 전 취업 화이팅...하루님은 직장생활 화이팅..
+P0 	: ㅠㅠㅠ 힘냅시다!!

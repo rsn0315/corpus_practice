@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013588
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 계속 손바닥 바람 불지?
+P0 	: ㅇㅇ 신랑도 아네? 수시로 바람불고 있어서 답답하네
+P1 	: 책읽거나 문제집 풀고 있을 때도 손에 땀나는지 계속 바람 불더라고
+P0 	: 할 일은 제대로 안하고 계속 그러고 있으니 ㅠㅠ
+P1 	: 손수건 같은 걸로 말려줘
+P1 	: 혹시 병인가? 손바닥 땀 많이 나는 것도 병인 것 같던데
+P0 	: 모르겠어 나중에 너무 심하면 병원에 가봐야겠어
+P1 	: 땀이 손바닥에만 나는 건 아니니까.. 온몸에 땀이 많으니 열 내리는 방법을 찾는 게 나을지도
+P0 	: 겨울만 있는 나라에서 태어났어야 하나 ㅎㅎ
+P1 	: 샤워 잘 시켜주고 말려주고 하면 괜찮을거야
+P0 	: 열내리는 한약이라도 먹여야 할런지 너무 신경쓰이네
+P1 	: ㅎㅎ 좀 더 두고보자~ 자라는 과정이니
+P0 	: ㅇㅇ 알았엉
+P1 	: 작은아들은 나보다도 땀이 많은 것 같아 ㅎㅎ

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100032626
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행가고싶은곳 있으세요?
+P1 	: 해외는 영국이요!
+P1 	: 국내는 강원도! &name1&님은?
+P0 	: 해외는 아무데나 다 가고싶어요
+P0 	: 국내는 제주도!
+P0 	: 영국 가고싶은 이유 있어요?
+P1 	: 오오 그러시구나 ㅋㅋㅋ
+P1 	: 아 저는 축구좋아해서요 ㅎㅎ
+P1 	: 경기장 직관 가보고싶어요!
+P0 	: 아 왠지 축구가 떠오르긴했어요ㅋㅋ
+P0 	: 아직 안가보신거에요?
+P1 	: 네네 ㅠㅠ 가려고했는데 코로나가...ㅠㅠ
+P1 	: 해리포터도 좋아하고 친구가 닥터후 좋아해서 같이가기로했는데 그만..ㅠㅋㅋ
+P0 	: 앗..저도 해리포터 생각하니 가고싶네요ㅋㅋ
+P0 	: 꼭 코로나끝나고 버터맥주마시러ㅠ가봅시당
+P1 	: 좋아요 ㅋㅋㅋㅠㅠ 버터맥주 먹고싶네요 ..
+P1 	: 제주도 가면 뭐하고싶으세요??
+P0 	: 바다보면서 쉬고싶어요ㅎㅎ
+P0 	: 맛있는것도 많이먹고
+P1 	: 너무좋죠 ㅠㅠ 바다보이는 카페에서 커피도 먹구..
+P0 	: 그쵸..관광지가면 뭘 안해도 힐링되는 기분이에요
+P1 	: 맞아요 ㅋㅋㅋ 그 분위기란게 있잖아여ㅎㅎ
+P0 	: 맞아요 그런설렘 느껴본지가언젠지

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100028421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 건강을 위해서 하고 있는게 있나요?
+P1 	: 요즘 배달음식을 끊고 직접 요리해먹고 있어요1!
+P1 	: 운동은,,.아직 어렵네요 ㅋㅋㅠ 아침에 스트레칭이랑 7분운동만 깨작깨작하고 있어요
+P0 	: 대단해요 전 대부분 사 먹어요 ㅠㅠ
+P0 	: 저도 스트레칭하고 마사지 조금해요
+P1 	: 저도 이제 막 끊기 시작한거라 ㅋㅋㅠ 하루에도 여러번 떡볶이 시키는 오른손을 막고 있어요 ㅋㄱㄱㄱㅋ
+P1 	: 오 마사지는 셀프로 하시는건가요?
+P0 	: 떡볶이 맛있죠 ㅠ
+P0 	: 에 셀프요 혈자리 지압하고 주물러줘요
+P1 	: 오,,.솔깃하네요 뭔가 더 편안해지고 고런게 느껴지나요??
+P0 	: 혈액순환에 좀 도움이 되는 것 같아요
+P1 	: 참고해봐야겠어요 감사합니다 ㅋ.ㅋ!!!!!
+P0 	: 마사지는 쉬워서 하기 좋아요 ㅋㅋ
+P1 	: 막 자기 전에 하시는건가요?? 아니면 짬짬이???
+P0 	: 시간 날 때마다 해줘요

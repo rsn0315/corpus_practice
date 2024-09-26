@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010322
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 여행 많이 가보셨나요?
+P1 	: 아뇨.. 코로나 전에도 많이 다닌 편은 아니었는데
+	  코로나 이후로는 계속 방콕이네요.
+P0 	: 그러게요 코로나 때문에 요즘은 어딜 갈 수가 없겠어요ㅠㅠ
+P0 	: 마지막으로는 어디 가셨어요??
+P1 	: 해외는 괌이 마지막이었어요.
+P0 	: 와 괌은 어떠셨나요?? 날씨나 음식 같은 거 잘 맞으셨어요?
+P1 	: 날씨는 화창해서 좋았는데
+	  먹거리는 ..ㅎ 한국음식을 먹었나봐요.
+P0 	: ㅋㅋㅋㅋㅋㅋ평소에도 해외나가면 음식은 별로 안좋아하시는 편인가요?!
+P1 	: 네. 향신료가 안맞을 때가 많더라구요.
+	  촌시럽게..ㅋ
+P0 	: 아 맞아요 나라마다 그 특유의 향이 참 익숙해지기 어려운 것 같아요ㅎㅎㅎㅎ
+P0 	: 저도 갈때마다 라면이랑 김 바리바리 챙겨가요
+P1 	: 튜브로 된 고추장이 해외여행 필수품이 됐네요.
+P0 	: 그것도 엄청 많이 챙겨가시더라구요ㅋㅋ
+P0 	: 가면서 멀미는 없으셨어요??
+P1 	: 비행기 내릴 때 귀가 많이 아프더라구요.
+P0 	: 헉 그렇죠ㅠㅠ 비행기는 진짜 어디 항공사를 타든 불편한 것 같아요...

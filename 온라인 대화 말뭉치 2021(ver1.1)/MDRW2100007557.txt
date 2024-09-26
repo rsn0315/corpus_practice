@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007557
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 어떤 물건 사셨어요?
+P1 	: 마켓컬리에서 이것저것샀어요
+P0 	: 새벽에 배송하니까 편하죠
+P1 	: 네 가격도 비싸지않고 좋은거같아요
+P0 	: 품목이 좀 더 다양하면 좋을텐데
+P1 	: 맞아요 일반마트랑 품목이 좀 달라서..
+P1 	: 근데 일반 마트에 안파는 제품도 많아서 좋아요
+P0 	: 밎아요 별거 다 팔더라구요
+P1 	: 요즘엔 핸드폰도 팔던데
+P0 	: 신기하네요
+P0 	: 거기서 사면 좀 싼가요?
+P1 	: 싼건 모르겠는데 배송이 빨라서 많이 사더라구요
+P0 	: 하루만에 오나요?
+P1 	: 네 새벽에 배송해준대요
+P0 	: 그건 좋네요

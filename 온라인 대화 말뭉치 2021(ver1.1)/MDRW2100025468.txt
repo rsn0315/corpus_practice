@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100025468
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 음료 좋아하세요?
+P1 	: 저는 제로사이다요
+P1 	: 좋아하는 음식 있으세요?
+P0 	: 오 당없는 음료 요즘 유행이더라구요
+P1 	: 네 맞아요
+P0 	: 음식 거의 잘먹는데 역시 가을이라 전어가 땡기네요
+P0 	: 오늘 식사 메뉴는 뭔가요
+P1 	: 그렇군요 오늘은 아마 된장찌개 먹을 것 같네요 당신은요
+P0 	: 된찌 맛있지요
+P0 	: 저는 꽃게 사서
+P0 	: 꽃게 쪄먹을려구요
+P1 	: 꽃게가 더 맛있겠어요
+P0 	: 제철이라 쫌 세일 하더라구요
+P0 	: 점심은 뭐드세요
+P1 	: 저도 한번 봐야겠네요 점심은 고민중이에요
+P1 	: 뭐드실거에요
+P0 	: 방금 유부초밥 먹었어요
+P0 	: 배가 부르네요
+P1 	: 맛있었겠네요
+P1 	: 배달 음식 자주 애용하세요?
+P0 	: 메뉴 고르기 힘들어요
+P1 	: 맞아요 근데 요즘은 어플로 주문하기편해서 자주 애용해요 할인도 많이하고

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003721
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주로 옷 쇼핑 어디서 하시는 편이세요?
+P0 	: 요즘에는 옷 쇼핑 어디서 하세요?
+P1 	: 저는 백화점 자주가요 체형이 좀 이상해서 기성품이 안맞거든요ㅠ
+P0 	: 저는 핸드폰 어플로 많이 쇼핑하는 것 같아요
+P0 	: 기성품 사이즈가 안맞으시는 구나
+P0 	: 백화점은 좀 다른가요?
+P1 	: 백화점은 아무래도 수선이 가능하니까요ㅋㅋ!!
+P1 	: 그리고 사이즈도 다양하구요
+P0 	: 아 그렇구나 백화점을 안가서 몰랐네요 ㅎㅎ
+P1 	: 요즘은 백화점 어플 잘돼있어서
+P1 	: 집에서 쇼핑 가능해요ㅋㅋ
+P1 	: 최근에 뭐 사셨어요?
+P0 	: 저는 기본 흰 반팔티 샀어요 ㅎㅎ
+P0 	: 아 집에서 쇼핑해도 수선이 되나용?
+P1 	: 네! 근처 백화점 가면 다 해줘요
+P0 	: 아 그렇군요 신기하네요
+P1 	: 브랜드수선이다보니 그런가봐요
+P0 	: 역시 옷은 브랜드 인가봐요 ㅎㅎ
+P1 	: 아 기본티 사야하는데
+P1 	: 생각난김에 사야겠다
+P1 	: 기본티는 그냥 아무거나 사요ㅎㅎ
+P0 	: ㅎㅎㅎ 기본티는 많이 사두는 게 좋죠 저렴하게

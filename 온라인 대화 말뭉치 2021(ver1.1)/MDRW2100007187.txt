@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100007187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P1 	: 여행하는거 좋아하세요?
+P0 	: 친구들과 함께 하는 여행 좋아요
+P1 	: 맞아요 친구들이랑 여행가면 너무 좋죠~
+P1 	: 가보신 여행지 중에서 젤 좋았던 곳이 어디신가요?
+P0 	: 전 여수 좋았어요! 케이블카타고 본 야경이 멋있었어요
+P1 	: 여수 좋다는 소리만 많이 듣고 한번도 못가봤어요 .. 야경 너무 예뻤을 것 같아요 ㅠ
+P0 	: 한번 시간내서 가보세요 잘 꾸며놓아서 도시가 예뻐요
+P0 	: 추천할만한 다른 여행지 있으신가요?
+P1 	: 저는 제주도요! 여행하면 제주도가 진짜 좋은 것 같아요
+P1 	: 바다가 너무 예쁘더라구요
+P0 	: 제주도 좋죠 
+	  요즘 코로나라 못가는게 아쉽네요
+P1 	: 그러니까요.. 제주도 가서 해산물 먹고싶어요ㅠ
+P1 	: 코로나 끝나면 가고싶은 여행지 있으세요?
+P0 	: 유럽에 가고 싶어요 한번도 안가봐서 궁금하네요
+P1 	: 유럽 어디쪽 가보고싶으세요? 코로나 터지기 전에 갔다왔는데 정말 좋았어요!
+P0 	: 저는 이탈리아 가보고 싶어요

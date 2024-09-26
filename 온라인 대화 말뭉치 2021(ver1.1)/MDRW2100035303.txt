@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100035303
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 드셨어요?
+P0 	: 넵! 드셨어요?
+P1 	: 네 국밥 먹었어요!
+P1 	: 뭐 드셨어요?
+P0 	: 저는 골벵이 열무국수요!!
+P0 	: 오 오늘 대화하신분들 중 밥은 처음이에요
+P1 	: 밥이 제일 무난한 것 같아서요 ㅎㅎ
+P1 	: 열무국수 시원하고 맛있겠어요!
+P0 	: 그렇긴해용ㅋㅋ
+P0 	: 맞아요!!
+P0 	: 오랜만에 먹으니 더욱 맛있더라구요
+P1 	: 열무국수 잘하는 집 있는데 못 간지 오래 됐네요ㅠ
+P1 	: 맛집 자주 가시나요?
+P0 	: 아.. 그거는 제가 다 아쉽네요ㅠ
+P0 	: 맛집 가고 싶은 친구있을때 따라가요!
+P0 	: 맛집 자주 가세요?
+P1 	: 저는 가던 곳만 가서 많이는 몰라요 ㅎㅎ
+P1 	: 주위에 맛집 좋아하는 친구 있으면 좋죠!
+	  새로운 문명 접하는 기분이고 ㅋㅋㅋ
+P0 	: 맞아요ㅋㅋ 저도 가던곳만 가서 새로운걸 알려주는 사람이 참 고맙더라구요~
+P1 	: 맛집 다녀보신 곳 중에 제일 신기한 곳이 있나요?
+P0 	: 음.. 신기한곳..
+P0 	: 삼합에 버섯이였던게 제일 신기했었어요!

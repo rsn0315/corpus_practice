@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100017300
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물 있으세요?
+P0 	: 없어요ㅠ
+P1 	: 저듀,...
+P0 	: 마음은 댕집사 냥집사...
+P1 	: 있었으면좋겠어요
+P1 	: 저도 랜선 애기들 많거든요
+P0 	: 어떤 이유가 있으세요? 털 알러지라든지?!
+P1 	: 아뇨 책임감이 무거워서요ㅠ 잘키울수있을까싶고
+P0 	: 그쵸ㅠ 길게는 10년 넘게 함께하니까....
+P0 	: 저는 여윳돈이 없어서 망설이고 있어요
+P1 	: 맞아요 직장을 다니는데 온전히 돌봐줄수없을거 같아요
+P0 	: 돈이 워낙 많이 든다고해서ㅠㅠ
+P1 	: 그져 병원비가 사람보다 비싸던데요ㅜ
+P0 	: 지인이 여행가느라 제가 며칠 강아지 봐준 적 있거든요?
+P0 	: 너무 이뻐서 장난감 하나 사줬는데 1시간도 안돼서 다 망가진거 있죠...............ㅎㅎㅎ
+P0 	: 만원 넘는거였는뎈ㅋㅋㅋㅋㅋㅋ이런 자잘한 돈도 많이 들거같아요
+P1 	: ㅋㅋㅋㄱ스치면 만원..
+P1 	: 또 내아기가 되면 아낄수가없잖아요

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032919
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 오늘 학원어땠어
+P0 	: 예전 선생님이 더 잘가르치는 거같아
+P1 	: 왜 선생님이 별로야???
+P0 	: 아직 첫날이라 더 다녀봐야겠지만
+P0 	: 너무 쓸때없는걸 많이해
+P1 	: 예전 선생님은 어디갔어??
+P0 	: 그 선생님은 다른 학원으로갔어
+P1 	: 그럼 너도 그 학원으로 가지
+P0 	: 내가 보는 시험은 강의가 안열려서ㅠ
+P0 	: 공부는 원래 혼자하는거지뭐...
+P1 	: 그래 선생님이 별로여도 이미 다니는거 어쩔수없지 뭐
+P0 	: 첫날인데 할 게 왜이렇게 많은지ㅠ
+P1 	: 열심히 해
+P0 	: 넹 열심히 할게요
+P1 	: 돈 필요하면 얘기해
+P0 	: 필요하지 한 10억만 있으면 좋겠어
+P0 	: 아니 오늘 별로 한것도 없는데 자야돼
+P0 	: 복습도 다 못했는데

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100026752
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑좋아하세요?
+P1 	: 쇼핑좋져
+P1 	: 신나초
+P0 	: 오프 (?) 온라인?
+P0 	: 11번가 아마존 행사 있답니다
+P1 	: 그게 무슨 할인소식 인가요?
+P0 	: 매달 얼마 결제하는 회원인데
+P0 	: 이번에 한달100 원
+P1 	: 아
+P1 	: 알아요
+P1 	: 관심있으세요?
+P0 	: 저는 11번가 안해서
+P0 	: 무배송
+P0 	: 5000 ㅇ할인
+P1 	: 가입하심요?
+P0 	: 아뇨
+P1 	: 잘하셨어요
+P0 	: 자동결제가무서버서
+P1 	: 주로 무슨 쇼핑하세요??
+P1 	: 뭐를 사시나요?
+P0 	: 애들장난감요
+P1 	: 저는 물티슈를 그렇게 사요
+P1 	: 떨어지면 죽는줄 앍ᆢ
+P0 	: 필요하니깐요
+P0 	: 내일뵈요 취침시간이네요
+P1 	: 네

@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014252
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 저 초밥좋아해요ㅎㅎ 뭐좋아하세요?
+P0 	: 저도 초밥 너무 좋아해요!
+P0 	: 연어를 특히 좋아해요 ㅋㅋㅋ
+P1 	: 오 저도 고소하고 쫄깃하고 ㅠㅠ
+P0 	: 저 오늘도 먹었어요 !!
+P0 	: 늦은시간에 마트가면 싸게 팔아서 ㅎㅎ
+P1 	: 오 저두 그렇게 사요ㅎㅎ 이마트 항상 노리구 있어요ㅋㅋ
+P0 	: 초밥이랑 소주랑 먹고싶어요 ㅋㅋㅋ
+P1 	: 오 맛있겠어요ㅠㅠㅠㅠ상상만해도 좋은
+P0 	: 다른 해산물도 좋아하세요?
+P1 	: 해산물 다좋아해요ㅎㅎ 좋아하세요?
+P0 	: 저는 낙지나 조개 좋아해요!!
+P1 	: 저도 낙지좋아해요ㅎㅎ 조개도 항상 많이먹구 싶구ㅠㅠ
+P0 	: 그쵸그초 ㅎㅎ

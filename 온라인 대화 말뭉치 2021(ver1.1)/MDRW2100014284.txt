@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100014284
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 즐겨찾는 카페 체인 있나요
+P0 	: 스벅 젤 자주 가는거 같아요!! 메가커피나 이디야도 가끔 가고요
+P1 	: 스벅을 자주 가시는 이유가 있나요?
+P0 	: 아무래도 스벅이 분위기가 제일 편하더라도요 깊티도 많이 받고 겸사겸사요!
+P1 	: 아 맞아요 저도 공감가는 이유들이예요 어떤 메뉴 주로 드시나요,
+P0 	: 저는 커피는 아메나 라떼 많이 먹고 커피 아닌건 녹차프라프치노나 자몽허니블랙티요!!
+P1 	: 자허블도 인기가 참 많더라구요^^ 전 한번 먹어봤는데 잘 모르겠던데 ㅎㅎ
+P0 	: 네 쓴맛이 있어서 호불호 있어요 ㅋㅋㅋ
+P1 	: 그래도 늘 인기메뉴더라구요:^ 저는 라떼나 프라프치노 마셔요!
+P0 	: 저도 스벅은 아메보다 라떼 더 잘 마셔요
+P0 	: 두유옵션이 있어서 좋아요 스벅은
+P1 	: 오 맞아요! 저도 두유라떼 먹거든요!^^
+P0 	: 오오 저는 우유 소화를 잘 못 시켜서 ㅎㅎ 두유 필수예요 ㅋㅋ
+P1 	: 저는 디카페인으로 먹거든요~ 스벅이 그런점에서 좋더라구요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100042434
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 가을되면 포도 나오나
+P0 	: 포도도 나오고 사과도 나오고
+P1 	: 배도 나오고
+P0 	: 맞아 배도 나오고 밤도 나오고 감도 나오고
+P1 	: 밤은 과일은 아니지만 ㅋㅋㅋ
+P0 	: 너 단감 좋아하잖아
+P1 	: 가을 되자마자 단감 나와요?
+P0 	: 좀 익어야 맛있지 떫어 바로먹으면
+P1 	: 힝 아쉽다 단감도 빨리 먹고싱어요
+P1 	: 내 복숭아 허기를 채울수 있는건 단감뿐
+P0 	: 너 작년 겨울에 단감 시켜먹었으니까
+P0 	: 한참 늦게 나오겠다 감도
+P1 	: ㅠㅠ 사과 질렸는데
+P0 	: 사과 맛있잖아 왜그래
+P1 	: 맛있는것두 많이먹으면 별로거든요
+P0 	: 여름에도 사과 사주니까 안먹고
+P1 	: 사과 너무 푸석푸석해서 별로였어요 여름사과라 그런가

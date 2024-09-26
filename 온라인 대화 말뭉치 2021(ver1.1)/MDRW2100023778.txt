@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100023778
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 차이 많이나?
+P0 	: 많이 나지 빨강도 여러 빨강이 있어
+P1 	: 톤 땜에 그런가?
+P0 	: 그렇지
+P1 	: 그럼 톤은 할 때 정해야겠네
+P0 	: 인터넷으로 염색 사진을 찾아보다 보면 꽃이는 색깔이 나오더라고
+P1 	: 아 그것도 괜찮네
+P0 	: 그런데 이제 막상 미용실에 가서 하면 같은 색상이 나올지는 모르는
+P1 	: 미지수지
+P0 	: 그래도 일단 설명은 해줘야 되니까
+P1 	: 그건 그렇지
+P0 	: 아니면 아예 염색약을 사서 집에서 하는 방법도 있어
+P1 	: 나 집에서만 2번 해봤어 ㅎㅎ
+P0 	: 그치 한번 그렇게 하다 보면 미용실 가기가 아깝더라
+P1 	: 근데 미용실이 더 색이 잘 나오는거 같아
+P0 	: 염색이 나오기 어려운 색들은 미용실 가야 돼

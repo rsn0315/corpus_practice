@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요?
+P1 	: 안녕하세요!
+P0 	: 반갑습니다. &name2&님.
+P1 	: 반갑습니다~ 공연이나 전시회 보는거 좋아하시나봐요
+P0 	: 저도 정말 좋아합니다. &name2&님도 좋아하시나요?
+P1 	: 네~ 근데 부산에 있을때는 다양한 전시회를 접할 수 없었는데 서울에 오니 접근성이 너무 좋아요~~!
+P0 	: 아! 부산에서 이사오셨나봐요! 서울에는 많은 전시가 있어요. 전시회 가는것도 좋아하시나요?
+P1 	: 네~! 최근에는 피카소 전시회가 있었는데 아직 가보지 못했어요. 아직도 전시하는지도 모르겠네요 ㅎ &name1&님은 기억에 남는 전시회가 있으신가요?
+P0 	: 저는 부산에 있을때 어쩌고 레인이라는 콘서트를 갔는데 지금의 부인과 같이갔던 첫 전시회라 너무 기억에 남아요.
+P0 	: &name2&님은요?
+P1 	: 오~~ 어쩌고 레인~~ 그거 현대카드인가 어디서 진행했던거같아요. 저도 보러갔었어요~!! 을숙도에 있는 전시회장이요
+P0 	: 어 을숙도 맞아요!!!
+P0 	: 오랜만에 기억회상하니 잠이오네요
+	   좋은밤 되세요.
+P1 	: 아직....
+P1 	: 전시회 정보는 보통 어떻게 접하시나요 ?
+P0 	: sns를 통해서요!

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100008728
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 하는 운동 있어?
+P1 	: 나 요즘 홈트해!
+P0 	: 오오 어떤 거? 요가?
+P1 	: 아니! 하체 토닝 이라는 운동이야
+P0 	: 토닝? 어떤 운동인지 설명해줄 수 있어?
+P1 	: 스쿼트+런지 세트를 반복하는 간단하지만 힘든 운동이야
+P0 	: 헐 빡세게 하는구나
+P1 	: 그거 한 번 하면 진짜 힘들어서 다른 운동을 못해... 너는 요즘 하는 운동 있어?
+P0 	: 나 과거엔 태권도 했었는데 지금은 딱히 하는 게 없어 운동해야돼
+P1 	: 그럼 무슨 운동 하실 생각인가요??
+P0 	: 수영할려고 집 앞에 수영당이 있어서
+P0 	: 장
+P1 	: 오 수영장 좋다 그럼 이번 운동은 무슨 목적으로 하는거야?
+P0 	: 체력증진!

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100007331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 혹시 당근마켓 쓰시나요?
+P1 	: 안녕하세요 혹시 최근에 사신 물건 있으신가요?
+P0 	: 엇 ㅎㅎ 저는 오늘 갤워치4 샀어요
+P1 	: 네! 이젠 당근 없으면 못살죠
+P1 	: 와 대박 멋지다... 저도 사고 싶네요
+P0 	: 스마트워치는 처음 사봐서 설레요
+P0 	: 최근에 당근에서 뭐 거래하셨어요?
+P1 	: 저는 프로틴바 거래했어요!ㅋㅋㅋ
+P0 	: 오히려 학생일 땐 중고나라에서 거래 많이 해봤는데
+P1 	: 아 맞아요 학생땐 중고나라였죠ㅋㅋㅋ
+P0 	: 지금이 더 중고거래에 용기(?)가 안 나는 것 같아요 저는 ㅋㅋ
+P0 	: 당근은 직거래 동네 위주라 그런가
+P0 	: 괜히 더 떨리고
+P1 	: 맞아욬ㅋㅋㅋ 나올때 무슨 마피아 접선하는 것처럼
+P0 	: 당근으로 거래하면 보통 환불은 안 되는 걸로 보죠?
+P1 	: 그렇죠 아마도?
+P0 	: 혹시 구매자가 환불해달라고 할까봐 그것도 떨려요
+P0 	: 옷 같은 거
+P0 	: 안 맞는다고 ㅋㅋㅋ
+P1 	: 아ㅋㅋㅋㅋ 저도 그런 거 상상한 적 있어요
+P1 	: 그래서 빨리 거래 후기 써놓음
+P0 	: 아 그러면 파기가 안 되나요? 팁이네요 ㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ나중에 써먹어보세요

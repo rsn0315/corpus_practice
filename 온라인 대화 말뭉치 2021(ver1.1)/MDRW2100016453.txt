@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100016453
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 덥죠?
+P1 	: 네 비가 그치니 너무 덥네요
+P0 	: 습해서
+P1 	: 내일 다시 비가 온다네요
+	  비가 너무 많이오네요
+P0 	: 으
+P0 	: 지겹기도6
+P1 	: 네 날은 더더워지구요
+	  온난화때문에 그런건지요
+P0 	: 환경문제네뇨
+P1 	: 일기예보 매일보세요?
+P0 	: 네
+P0 	: 비와요?
+P1 	: 아니요 지금안와요
+	  근데 예보엔 비가있네요
+P0 	: 오후에 오나여
+P1 	: 9시쯤이요
+P0 	: 조금만 왔으몀
+P1 	: 주말이며 내도록 비그림 입니다
+P0 	: 으 지겹네요

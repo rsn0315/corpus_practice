@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017104
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: ㅋㅋㅋ어제 뭐드셨어요?
+P1 	: 전 어제 초밥을 먹었습니다
+P0 	: 어제 냉동 파스타 먹었어요 ㅋㅋㅋ
+P0 	: 어떤 초밥 좋아하세요?
+P1 	: 저 연어랑 유부초밥이요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 저도 둘다 좋아해요 연어가 젤 맛있더라구요
+P1 	: 유부초밥 만들어먹어도 맛있던데 귀찮아가지구 ㅋㅋㅋㅋ
+P0 	: 맞아요 ㅋㅋㅋㅋ
+P0 	: 전 이상하게 다른 유부는 별론데 유부초밥은 맛있어요
+P1 	: 그쵸??!!!
+P0 	: 다똑같나봐요 ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ그러게요 신기하네요
+P1 	: 파스타소스는 어떤걸로 드셨어요?
+P1 	: 토마토? 로제? 크림? 오일?
+P0 	: 라구소스 먹었는데 괜찮더라구요
+P1 	: 토마토베이스파스타 먹은 지 좀 됐는뎅... 맛있겠네용ㅋㅋㅋ
+P0 	: 원래 크림류 좋아하는데 있길래 먹었어요 ㅋㅋㅋ

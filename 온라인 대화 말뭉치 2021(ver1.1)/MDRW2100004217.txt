@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100004217
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 다녀온 여행이 있나요??ㅎㅎ
+P1 	: 음 아니요
+P1 	: &name1&님은요?
+P0 	: 저도 없어요ㅠㅠ
+P0 	: 가봣던 여행지 중 어디가 젤 좋았나요?
+P1 	: 저는 전주요
+P1 	: 해외는 안가봐서..
+P1 	: &name1&님은 어디가 좋았나요
+P0 	: 저는 국내는 부산이 젤 좋았던 것 같아요!
+P0 	: 바다 보니까 좋더라구요 ㅎㅎ
+P1 	: 부산 광안리!
+P1 	: 바다되게 좋은 거 같아요
+P1 	: 바다가면 주로 뭐 하시나요?
+P0 	: 저는 수영은 잘 안 하고 보통 그냥 걸으면서 구경해요!!
+P0 	: &name2&님은 바다 가면 뭐하시나요?
+P1 	: 저도 비슷한거같아요
+P1 	: 바다는 좋은데 물은 무서워서ㅎㅎ
+P0 	: 특히 바다는 그 파도가 은근 무서워서
+P0 	: 수영하기는 힘든 것 같아요ㅠㅠ
+P1 	: 맞아요
+P0 	: 코로나 끝나면 가고싶은 곳 있으세요??
+P1 	: 스페인이요
+P1 	: 가우디 보러가고싶어요
+P1 	: 여름사탕님은요?
+P0 	: 저는 발리나 하와이 같은 휴양지요!
+P0 	: 탁 트인 자연에서 쉬고싶은 마음이에요..
+P1 	: 휴양지 너무 좋죠 여유롭고

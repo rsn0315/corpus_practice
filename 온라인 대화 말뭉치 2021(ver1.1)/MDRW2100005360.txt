@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100005360
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 혹시 책 자주 읽으세요?
+P1 	: 자주는 안읽는데 베스트셀러정도는 알고있어요!
+P1 	: &name1&님은요?
+P0 	: 저는 철학책 정말 조금읽고 만화책은 되게좋아해요
+P0 	: 만화책 좋아하세요?
+P1 	: 앗 네네! 요즘은 잘 안보는데
+P1 	: 예전에 나루토 완결권까지 다 봤었어요!ㅋㅋ
+P1 	: &name1&님은 어떤만화책 좋아하세요?
+P0 	: 저는 드래곤볼이랑 귀멸의칼날 올해초부터 사서 보고있어요
+P0 	: 귀멸의칼날 보셨어요?
+P1 	: 앗 저는 귀멸의 칼날은 본적 없어요ㅠㅠ
+P1 	: 대충 여주인공이
+P1 	: 귀엽게 생겼는ㄷㅔ
+P1 	: 입에 대나무 물고있는 그런것만 알아요!ㅋㅋ
+P0 	: 아 안보셨구나
+P0 	: 베스트셀러는 어떤거 읽으셨어요?
+P1 	: 저는 달러구트 꿈 백화점 지금 읽다가 말았구
+P1 	: 히가시노 게이고책 위주로 좀 읽은거같아요!
+P1 	: &name1&님은 좋아하는 작가 있으세요?
+P0 	: 저는 책을 많이 안읽어봐서 아직 좋아하는 작가는 없고
+P0 	: 그냥 주제별로 읽는 편이에요
+P1 	: 아하ㅎㅎ
+P1 	: 주로 어떤 주제로 읽으세요?
+P1 	: 전 추리소설 좋아해요
+P0 	: 철학이나 뭐 그런게 되게 좋더라구요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100016596
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 레시피 어디서 주로 보세요
+P0 	: 그때그때 인터넷서 검색해요
+P0 	: 사실 요리를 잘 안해서ㅎ
+P0 	: &name2&님은요?
+P1 	: 저도 그때그때 유투브나
+P1 	: 만개의 레시피라는 어플 좋아요
+P0 	: 만개의 레시피?
+P0 	: 이름만 들어도 무척 유용해보여요
+P1 	: 네 재료나 메뉴치면 레시피. 쫙 나와요
+P0 	: 오오 그 앱으로 어떤 요리를 해보셨어요?
+P1 	: 제육볶음. 단호박에그슬럿 같은거 해봤어요
+P1 	: 요똥이라 간단한거ㅎ
+P0 	: 단호박을 그릇처럼 쓴 건가요?
+P0 	: 제눈에 요잘알인데요ㅎ
+P1 	: 오 맞아요 단호박 파내서 달걀이랑 치즈만 넣으면 끝이에요
+P1 	: 간식으로 좋은 것 같아요
+P1 	: 한번 만들어보세요ㅎㅎ
+P0 	: ㅎㅎㅎ 아니 듣기만해도 어려운데요
+P0 	: 호박은 애호박 부쳐먹는거가 제 한계인데
+P0 	: 치즈는 피자치즈 넣는 거죠?
+P1 	: 오 애호박전인가요?ㅎ
+P1 	: 네 모짜렐라치즈에요
+P0 	: 네 심지어 귀찮다고 아무것도 안입히고 그냥 부치지요
+P0 	: 모짜렐라치즈 이름도 생각 안나서 피자치즈라고 말하는 이 요알못ㅜ
+P1 	: 헉 그래도 부쳐지나봐요ㅋㅋ

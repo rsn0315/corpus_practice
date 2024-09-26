@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100008103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 지나면 어디로 여행 가고 싶은가요 ?
+P1 	: 해외요!
+P0 	: 해외어디요
+P1 	: 음 가까운 아시아요
+P0 	: 네 전 우리나라도 가본곳이 많지 않아서 국내여행 하고 싶어요
+P1 	: 국내는 뭐 나름 다녀서ㅎㅎ
+P0 	: 국내도 맘편히 다니고 음식먹고 그러고 싶어요
+P1 	: 아 그건 맞아요
+P0 	: 코로나가 생각보다 길어서 점점 지쳐가네요
+P1 	: 네 여행 고프네요ㅠㅠ
+P0 	: 맘대로 여행을 못가니 더욱더 가고 싶어지네요
+P1 	: 언젠가 풀려서 여행 가길
+P0 	: 기다리다보면 언젠가는 갈수 있다고 믿어요

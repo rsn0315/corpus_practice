@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100034775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 구매하신거 있으세요?!
+P0 	: 저는 운동화 샀어용!ㅎㅎ
+P0 	: &name2&님은요?
+P1 	: 오 ! 저는 가을 니트샀어요
+P1 	: 어디 운동화 사셨어요 ㅎㅎ ?
+P0 	: 가을하면 니트의 계절이죵!ㅋㅋㅋㅋ
+P0 	: 저는 나이키 넘 좋아해서
+P0 	: 나이키샀어요ㅋㅋㅋㅋ
+P0 	: 선호하는 의류나 신발 브랜드 있으세요?
+P1 	: 저도 나이키 좋아해요 !!
+P1 	: 나이키 아디다스 좋아합니다 ㅎㅎ
+P0 	: ㅎㅎ 저랑 비슷하시네용
+P0 	: 나이키 코트로얄이라는 운동화있는데
+P0 	: 가격대도 저렴한편이고 예뻐요
+P1 	: 오오 ! 검색해봤는데
+P1 	: 이런 기본 디자인 좋아요 ㅎㅎㅎ
+P1 	: 착용감도 편한가요?
+P0 	: 그쵸ㅎㅎㅎ 가죽이라 비와도 물 안들어가요
+P0 	: 음 런닝화 위주로 신으셨으면
+P0 	: 조오금 무겁다고 느끼실수도 있는데
+P0 	: 편하긴 편해요
+P1 	: 오오 ㅎㅎ 담에 한번 매장가서 신어봐야겠어요 !
+P1 	: 이번에 사신게 이 제품인가요?ㅎㅎ
+P0 	: 네넹! 이거 떨어지면 또사고 또사고 그래요ㅋㅋㅋㅋ
+P1 	: 오오ㅋㅋㅋ 색깔은 어떤걸로 사셨어요?
+P0 	: 저는 늘 화이트로 사용!
+P0 	: &name2&님은 최근에 구매하시고
+P0 	: 만족하신거 있으세요?
+P1 	: 전 최근에 아디다스 운동화 샀었어요 !!

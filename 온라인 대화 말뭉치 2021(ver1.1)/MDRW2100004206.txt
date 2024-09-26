@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100004206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 가장 스트레스를 받는 일은 무엇인가요?
+P1 	: 학생은 아니지만 학생땐
+P1 	: 머니해도 공부였죠 ㅠㅋㅋ
+P0 	: 공부하는 게 진짜 힘든일이죠...ㅠㅠ 졸업해도 은근 공부할 일이 있어서 힘든 것 같아요
+P1 	: 맞아요 뭔가 등수떨어지고 등급떨어지는거에 압박감있던것같아요
+P0 	: 맞아요... 등수 같은 걸로 친구들끼리 은근 경쟁도 하고 그러니 더 힘들엇던 것 같아요
+P1 	: 시험기간때 과제하는것도 스트레스였어용
+P0 	: 맞아요...
+P0 	: 집에 와서 할 게 남았다는 게 진짜 피곤한 거 같아요
+P0 	: 그래거 저는 시험보다 과제가 정말 싫었어요ㅠㅠ..
+P1 	: 맞아요ㅋㅋㅋㅋ 안하면 혼나고 눈치받고 넘 싫어여
+P0 	: ㅋㅋㅋㅌ공부 빼면 학교 다니는 거 재밌었던 거 같은데ㅠ
+P1 	: 그쵸 학창시절 친구들도 많이남아있구요
+P0 	: 왜 학창시절 친구들이 평생 간다 하는지 졸업하니까 알 것 같아요..ㅎㅎ
+P1 	: 맞아용 그땐 다재밌고 좋았죠 ㅎㅎ
+P0 	: 지금은 학창 시절이 그리운데 다시 돌아가도 공부는 안 하겠죠?ㅋㅋㅋㅋㅋ

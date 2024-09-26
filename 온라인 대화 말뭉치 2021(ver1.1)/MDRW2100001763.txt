@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100001763
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨나요?
+P1 	: 아니요 미혼입니다
+P1 	: 결혼하셨어요?
+P0 	: 아니요 결혼은 안했지만..오래만난 여자친구와 살고는 있습니다 ㅎㅎ
+P1 	: 오오!!!
+P1 	: 좋으시겠어요
+P0 	: 좋..을까요? ㅎㅎㅎㅎ
+P1 	: 재밌을것같아요ㅎㅎ
+P1 	: 좋아하는 사람이랑 매일 같이 있으면
+P0 	: 서로간에 처음보는 모습을 많이 보다보니까 싸울때도 많더라구요
+P1 	: 아ㅜㅜ 그럴수도 있겠네요
+P0 	: 네 연애하는 것과 같이 사는 건 좀 다른 느낌
+P0 	: ㅎㅎ &name2&님은 언제쯤 결혼 하시려구요?
+P1 	: 저는 아직 계획은 없어요ㅋㅋㅋ
+P0 	: 요즘은..뭐 안하는 사람이 많아서요.ㅋㅋ 저처럼
+P1 	: 아 결혼하실 계획은 없으신거에요?
+P0 	: 네..근데 나라에서 해주는 이런저런 정책들이 결혼을 권장하고 있어서 그게 좀 맘에 안드네요
+P1 	: 일단 청약만 해도ㅎㅎ
+P0 	: 네 청약도 그렇고 이번 코로나 지원금도 둘 다 단독으로 빠져있으니 못 받네요.ㅜㅜ
+P0 	: 합치면 받을 수도 있을 것 같은데..ㅜㅜ
+P1 	: 아ㅠㅠㅠㅠ그것도 아쉬우시겠어요
+P0 	: 너무 신혼부부위주의 정책이라 힘들어요.ㅜㅜ
+P0 	: 세금내는 것만해도 ㅜㅜ
+P1 	: 결혼을 잘 안하는 추세다 보니
+P1 	: 더 그런가봐요

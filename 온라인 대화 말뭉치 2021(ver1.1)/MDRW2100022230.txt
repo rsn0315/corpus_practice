@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100022230
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 음 저는 재봉틀이요!
+P0 	: 아 가정용 재봉틀요?
+P1 	: 가정용은 이미 가지고 있어서 오버로크 전용 재봉틀을 가지고 싶어요
+P0 	: 그건 공업용인가요?
+P1 	: 네 크기도 크고 오버로크라고 그것만 가능한 전용 재봉틀이예요
+P0 	: 앗..오버로크만 가능한게 더 좋은가요?
+P1 	: 아 일반재봉틀은 오버로크를 하지 못하거든요
+P0 	: 아 고급기술인가봐요
+P1 	: 아무래도 전용 재봉틀로만 가능한거다 보니
+P0 	: 신기하네요. 재봉틀에도 종류가 많나봐요
+P1 	: 공업용 가정용도 있고 특수한 기능만 가진 재봉틀도 있어요.
+P0 	: 오버로크재봉틀은 특수한 기능을 가진거군요
+P1 	: 네 그렇죠 그래서 가격도 비싸요
+P0 	: 저는 식탁이 사고싶어요

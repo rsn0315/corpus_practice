@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100008908
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 코로나 끝나면 가고싶은 여행지 있으세요?
+P1 	: 저는 유럽 가보고 싶어요!
+P0 	: 유럽좋죠 저도 가보고 싶어요
+P1 	: 옛날에 패키지로 한 번 가봤는데 짧게 돌아봐서 너무 아쉬웠어요
+P1 	: 그런데 정말 기대만큼 좋은 것 같아요
+P0 	: 패키지 여행으로 많이들 가시는군요
+P1 	: 처음 갈 때는 패키지로 많이 가는 것 같아요
+P0 	: 코스를 직접 짜는거보다 편하기도 하고 여행이 순조롭게 진행된다는 장점이 있긴 하죠
+P1 	: 맞아요 그리고 자칫하면 위험할 수도 있어서 더 그런 것 같아요
+P1 	: 그래도 자세히 원하는만큼 구경하고 싶어서 자유여행 꼭 가려구요
+P0 	: 맞아요 자유여행이나 여행지에서 한달 살기 해보고 싶어요
+P1 	: 와 한달살기는 생각 안 해봤는데 너무 좋을 것 같아요..
+P1 	: 혹시 한달살기 하고싶은 곳 있으세요?
+P0 	: 쿠바 수도 아바나에서 살아보고 싶어요
+P1 	: 와 저한테는 생소한 곳이라서 신기해요!!
+P1 	: 어떤 점 때문에 그곳에서 살아보고 싶으세요?
+P0 	: 도시의 분위기가 우리나라랑 많이 다르더라구요
+P0 	: 구글에 cuba havana 검색하시면 사진 나올거예요
+P1 	: 와 그러네요
+P1 	: 이국적인 분위기가 확 풍기는데 그게 매력적이에요

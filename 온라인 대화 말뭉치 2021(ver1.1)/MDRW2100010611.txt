@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010611
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 무슨 공연가고 싶어?
+P0 	: 가고 싶은 전시회있어?
+P1 	: 없어 가고 싶은 전시회 있어?
+P0 	: 나는 공연
+P0 	: 너는?
+P1 	: 무슨 공연 가고싶어?
+P1 	: 난 모르겠다
+P0 	: 아예 공연없으니까 아무 공연이라도 다 좋아
+P1 	: 혹시 콘서트 아냐?
+P0 	: 콘서트 좋지
+P0 	: 가봤어?
+P1 	: 아니 한번도 가본적이 없어
+P1 	: 가봤지?
+P0 	: 코로나끝나고 같이 가자
+P0 	: 응
+P1 	: 내년에 가자고?
+P0 	: 코로나 끝나고
+P0 	: 누구 콘서트 가고싶어?
+P1 	: exo
+P0 	: 그래 가자
+P0 	: 근데 티켓팅이 어려워
+P1 	: 응 같이가자
+P1 	: 티켓팅이 뭐야?
+P0 	: 티켓예약하는거
+P1 	: 아하 그렇구나

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023916
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 기타 사회 생활 및 활동>온라인 커뮤니티
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!!
+P1 	: 안녕하세요~ 정모같은거 활동하세요?
+P0 	: 저는 코로나 이후로는 온라인 정모하고 있어요ㅎㅋㅋ!!
+P0 	: &name2&은 정모, 온라인모임하시는거 있나요?
+P1 	: 아..저는 없어요..어떤거 하세요
+P0 	: 학교 소모임이요!
+P0 	: 처음엔 10명도 안됐는데 지금은 20명이 넘어요ㅎㅎ
+P0 	: 그러면 &name2&은 커뮤니티 활동하시는거 있나요?
+P1 	: 아뇨..없네요..
+	  그냥 친목모임은 있지만 자주보진못해요 코로나로 ㅜ
+P0 	: ㅜㅠ 코로나가 여러모로 아쉽게 만들죠ㅠ
+P0 	: 지금 하고 있는 심심이도 온라인 커뮤니티?의 일종인것같아요ㅎㅎ!!
+P1 	: 네...진짜 이렇게오래갈줄은 몰랐네요 ㅠ
+P1 	: 그렇네요^^ 여기서 이야기하구요 ㅎ
+P0 	: ㅎㅎ 심심이 언제 까셨어요~?
+P1 	: 지난주에요 ㅎ
+P1 	: 언제부터하셨나요
+P0 	: 전 오늘 깔았어요!!

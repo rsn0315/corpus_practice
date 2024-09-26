@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100008802
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 제일 좋았던 여행지가 어디야?
+P1 	: 나 부산!!
+P0 	: 나 부산 사람인데ㅋㅋㅋㅋㅋ 부산 좋지!!
+P0 	: 바다 좋아해?
+P1 	: 헐 대박
+P1 	: 응 바다 좋아해
+P1 	: 너는 매일 봐서 감흥 없지
+P0 	: 다들 그러더라.. 매일 바다보러 가지는 않아
+P0 	: 집이 해운대는 아니니까
+P0 	: 나도 바다 볼때마다 신나..!
+P1 	: ㅋㅋㅋㅋㅋㅋ그렇구나
+P1 	: 나 거기 갔었어 오륙도
+P0 	: 오 나는 안 가봤는데
+P0 	: 어땠어? 좋았을 거 같아ㅋㅋㅋㅋ
+P1 	: 좋았으 산책로 따라 걸었는데 진짜 나무들이 푸르더라고
+P0 	: 산책하는거 좋아하는데 가봐야겠다
+P1 	: 좋은 생각이야
+P1 	: 부산에서 기념품 사 본 적 있어?
+P0 	: 음 어릴 때 아쿠아리움 갔을 때 사본 거 같아
+P1 	: 오오 나는 제주도 갔을 때ㅋㅋ
+P0 	: 제주도에서 뭐 샀어?
+P1 	: 곰인형 샀었어 테디베어
+P0 	: 아 제주도에 테디베어 박물관이 있었나?
+P1 	: 응응
+P0 	: 엄청 어릴 때 가봤는데 기억이 잘 안 난다

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100022565
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 저 한국어 교사 딴거 써먹으려면 아무래도 해외 나가야하는데
+P1 	: 외국은 안돼
+P0 	: 그런데 한국에서 외국대상으로 한국어 가르치는 수업을 구하기 힘들어요
+P1 	: 그래도
+P0 	: 외국인 대상으로 화상수업 하고 있는데 이건 별로 돈이 안돼요
+P1 	: 하지만 외국은 위험하다
+P0 	: 알고 있죠 좀 조심하면 낫지 않을까요?
+P1 	: 당분간은 한국학교를 생각해보렴
+P0 	: 한국 학교는 석사로 안되고 박사는 돼야 해요.. 전 자격이 안돼요
+P1 	: 박사공보해볼래?
+P0 	: 그동안 하도 공부해서 이제 그만하고 싶네요
+P1 	: 너 공부 좋아하잖아
+P0 	: 학생 신분이 싫어요

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020103
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 영화좋아하세요?
+P1 	: 네 ㅎㅎ 좋아합니다 !
+P0 	: 저도
+P1 	: 어느장르 좋아하시나요?
+P0 	: 로코요
+P1 	: 저는 액션이요 ㅎㅎ
+P0 	: 최근애 보신건가요?
+P1 	: 젤 최근에는 모가디슈 봤어요 ㅎㅎ
+P0 	: 저도 볼려구요
+P1 	: 재밌어요 ㅎㅎ 추천해요
+P1 	: 보통 영화관 가시나요?
+P0 	: 코로나때문에
+P1 	: 저두요 ㅎㅎ
+P1 	: 공포도 좋아하시나요?
+P0 	: 그렇죠
+P0 	: 영화좋아하세요?

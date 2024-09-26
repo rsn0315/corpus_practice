@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100039122
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘은 일안해요?
+P1 	: 할라구용
+P1 	: &name1&님은여
+P0 	: 뭐해요?
+P0 	: 전 좀있다
+P0 	: 주식공부좀하려구요
+P1 	: 와~~
+P1 	: 대단하당
+P0 	: 아니에요
+P1 	: 나논 영상편집허요
+P0 	: &name2&님도 공모주공부는 하면좋겠어요
+P0 	: 이건 소액으로
+P1 	: 공보주가?
+P1 	: 중국집술이름이시
+P0 	: 이주에 한번씩 치킨값만 버는거라
+P1 	: 오오
+P0 	: 관심있으시면 주말에 갈켜드릴게요
+P1 	: 조으네요 이주한번
+P1 	: 치킨먹는거야요?
+P0 	: 소액으로 하는거라 괜찮아요
+P0 	: 고액은 부담스럽고요
+P0 	: 없기도 하고요

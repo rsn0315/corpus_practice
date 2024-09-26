@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100020048
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그래도 너무 기대돼요
+P1 	: 해운대 갈 예정인데
+P1 	: 근방 맛집 아는거 있으세요?
+P0 	: 아하 해운대라.. 제가 그쪽 안살아서 잘은모르겠는데 지금 떠오르는건 해운대쪽 해목 버거샵 하얀오징어집 이렇게네요 ㅋㅋ
+P1 	: 수제버거집이랑 오징어요리집인가요?
+P0 	: 네 버거샵은 수제버거빕이구 하얀오징어는 오징어회 유명한걸로알아요~
+P1 	: 그렇구나 좋은 정보 감사합니다!!
+P1 	: 저는 울산 살아서
+P1 	: 부산 자주 가보긴했는더
+P1 	: 그래도 휴가로 가니까 기분이 색달라요
+P0 	: 아하! 울산사시는군요~
+P0 	: 울산은 괜찮은명소 잇나요??
+P1 	: 태화강국가정원 울산대공원 대왕암공원 같은 것들이 있죠
+P1 	: 울산 갈곳 많아요
+P0 	: 오! 담번에 울산여행 계획해봐야겠어요 ㅋㅋ
+P0 	: 정원 기대되는데요?
+P1 	: 큰 공원 느낌이에요
+P1 	: 주말 오전에 가면 공원에서 요가 클래스도 있더라고요
+P0 	: 오 되게 여유넘치는느낌일꺼같아요~
+P1 	: 네 사람들 나와서 요가하는데 뭔가 멋있더라고요
+P0 	: 저도 해보고싶은데 내성적이라..ㅎㅎ
+P1 	: 부산에도 큰 공원 있나요?
+P0 	: 음 집앞레 시민공원있어서 자주가욮ㅋㅋ

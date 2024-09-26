@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007848
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 드라마 좋아하세요?
+P1 	: 드라마를 챙겨보는편이 아니에요ㅜㅜ
+P0 	: 아 그러시군요  그럼 유튜브에서 어떤 영상 주로 보세요?
+P1 	: 요즘 한창 다이어트에 관심이 많아서 운동영상 주로 챙겨봐요
+P0 	: 저두요 밖에서 운동 못하게 되서 홈트영상 찾아보게되더라구요
+P1 	: 어떤 유튜버님꺼 보세요?
+P0 	: 땅끄부부 영상봐요!
+P1 	: 오!!  땅끄부부분들꺼 확실히 효과가 좋나요??
+	  얘기는 많이 들어봤는데 아직 해본적이 없네요
+P0 	: 며칠하다가 중간에 포기해버리고 그래서..효과는 아직 못봤어요 그래도 집에서 보고 따라기는 좋은것 같아요
+P1 	: 보니까 시간이 엄청 길게하지않고 짤막해서 좋아보이더라구요
+P1 	: &name1&님은 자주보는 유튜브영상 어떤거 있으세요?
+P0 	: 요즘에 환경에 관심 많아져서  쓰레기왕국이라는 채널 보고 있어요
+P1 	: 오! 처음들어보는데 어떤 내용이에요?
+P0 	: 다회용기, 텀블러 사용하는 일상영상이나 제로웨이스트 화장품 추천해주고 그런 컨텐츠  영상 올라와있어요!

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100001847
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요?
+P1 	: 네 코로나전에는 여행많이다녔어요
+P1 	: &name1&님은요?
+P0 	: 저도 여행 정말 좋아해요
+P0 	: 국내건 해외건
+P1 	: 가장 인상깊었던 여행지는 어디에요?
+P0 	: 저는 태국이요...
+P0 	: 백번 물어도 태국일거같아요
+P1 	: 와 태국 어떤부분에서요? 저도 태국가보고싶었는데 못가봤어요
+P0 	: 음식도 맛있고 사람들도 친절하고 길거리 시장도 너무 재밌고
+P0 	: 모든 호텔에 수영장이 같이 있는데 값이 싸요 ㅋㅋㅋ
+P1 	: 오 호캉스진짜 넘좋아요 음식도
+P1 	: 베트남도 좋았었는데 태국은진짜 화려하고 볼거리많다고해서 기대쁌뿜
+P0 	: 베트남 ㅜㅜ 원래 태국 다음이 베트남이었는데....ㅜㅜ
+P0 	: 동남아가 저는 정말 잘 맞더라구요
+P1 	: 저도 휴양지를좋아해서 동남아가 잘맞을것같은데 미주를 더돌았어요ㅠ
+P0 	: 휴양지 너무 좋죠 ㅜㅜ
+P0 	: 오디쪽이 제일 좋으셨어요??
+P1 	: 전 남미 볼리비아 우유니요ㅜ 자연이주는 감동이있었어요
+P0 	: 와... 우유니 사막 알죠 알죠
+P0 	: 그 바닥에 비치는 거기 맞죠??
+P1 	: 보면 대게 별거없는데 그 소금사막에 하늘이 비치는데 넘이뻐서 눈물나더라구요ㅜ
+P1 	: 구름이 둥둥떠있고 하늘위를 걷는것같았어요

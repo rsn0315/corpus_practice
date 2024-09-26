@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100019635
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&님은 운동 좋아하세요 :> ?
+P1 	: 안녕하세요!
+P1 	: 운동 좋아하죠!
+P0 	: 무슨 운동 자주 하세요 ㅎ.ㅎ ?
+P1 	: 코로나 전엔 수영 자주 했어욥
+P0 	: 오 수영 잘하시겠네요!!
+P0 	: 요즘은 코로나 때문에 못하시죠?!
+P1 	: 맞아요ㅠ 특히 수영은 더 불안하더라고요
+P1 	: &name1&님은요?
+P0 	: 저는 원래 집에만 붙어있다가 요새 헬스장 다니기 시작했어요!
+P0 	: 피티 하고 있어요!!
+P1 	: 오호 헬스장 사람 많나요?
+P1 	: 저도 등록했었는데 요즘 확진자가 많아서요ㅠ
+P0 	: 완전 동네 헬스장이라 사람이 거의 없어요!
+P0 	: 게다가 전 새벽에 운동해서 한 3-4명 있는 거 같아요 ㅎ
+P1 	: 그렇군요ㅎㅎ
+P1 	: 저는 피티를 한 번도 안 받아봤는데
+P1 	: 뭘 알려주나요?
+P0 	: 그 운동 자세나 어디에 힘을 줘야하는지 알려주더라고요!!
+P0 	: 운동을 잘못해서 그런지 전 너무 좋더라고요 ㅎㅎ
+P1 	: 오 초심자한테 좋겠어요ㅋㅋ
+P1 	: 전 가면 그냥 운동 유툽보면서 햇거든요ㅎㅎ
+P0 	: 맞아요!! 운동 처음하는 사람들한텐 완전 좋은 것 같아요
+P0 	: 앗 운동 유투버 누구 보세요!?
+P1 	: 며루치양식장이라고ㅋㅋㅋ
+P1 	: 제가 좀 말라서 체중증량 운동법 알려주는 유투버거든요ㅋㅋ

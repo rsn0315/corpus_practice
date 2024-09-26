@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100043128
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 ~~
+P0 	: 요즘에 코로나때문에 여행가기가 힘들죠 ㅠ ㅜ
+P0 	: 최근에 다녀오신 곳 있으세요?
+P1 	: 네ㅜㅜ 최근엔 코로나 때문에 아예 못갔어요
+P0 	: 그쵸 ...
+P0 	: 그럼 제일 마지막으로 다녀오신 곳이 어디세요 ??
+P1 	: 음... 기억도 안나요 ㅋㅋㅋㅋㅋ
+P1 	: &name1&님은 최근에 어디 가셨어요?
+P0 	: 저는 여행이라고 하기는 뭐하지만 인사동 다녀왔어요 ~!
+P0 	: 날씨가 진짜 너무 좋아서 다행이었어요 옛날 생각들도 나고요
+P1 	: 아하 인사동에 뭐있어요?
+P0 	: 인사동 쌈지길이요! 근데 여기 아니어도 그냥 거리 돌아다니는 것만으로도 힐링아 되더라고요
+P0 	: 전시회가 진짜 많았어요 졸업전시회 같은 거요
+P1 	: 오오 구경 재밌었겠어요!
+P1 	: 근처에 대학이 있나요?
+P0 	: 그건 모르겠어요 !근데 되게 다양한 대학들에서 하는 것 같더라고요 !
+P0 	: 정말 세상엔 대단한 사람들이 정말 많다는 걸 다시한번 느꼈죠
+P0 	: 코로나 끝나고 놀러가고 싶으신 곳 있으세요 ?
+P1 	: 아하 ㅋㅋ
+P1 	: 강릉 가고싶어요!
+P0 	: 오 강릉 좋죠 !
+P0 	: 강릉 가보신 적 있으세요 ?
+P1 	: 없어요 가볼만한 데 추천해주실 수 있나요?
+P0 	: 저도 사실 안가봤어요 ,,
+P0 	: 바다 쪽 많이 가시더라고요
+P1 	: 아 ㅋㅋ 그쵸 바다 구경 많이 해야겠네요
+P0 	: ㅎㅎ 좋아요 !

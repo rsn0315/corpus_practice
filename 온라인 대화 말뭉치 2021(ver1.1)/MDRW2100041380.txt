@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100041380
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 저녁드셨나요?
+P0 	: 네 &name2&님도 저녁 드셨나요?
+P1 	: 네~
+P1 	: 뭐드셨나요?
+P0 	: 전 찜닭 먹었어요
+P0 	: &name2&님은 뭐 드셨나요
+P0 	: ????
+P1 	: 우와~!맛있는거 드셨네요~~
+P1 	: 저는 두부요 구운두부랑 전
+P0 	: 직접 만드셔서 드신건가요?
+P1 	: 아니요ㅜㅜ
+P1 	: 요리못해서
+P1 	: 엄마가 해주신거요....ㅠㅠ
+P0 	: 아 그렇군요
+P0 	: 그럼 좋아하시는 음식 있으신가요?
+P1 	: 네ㅠㅠ
+P1 	: 요리 잘하시나요?
+P1 	: 저는 가리는 거 없습니다
+P0 	: 저도 딱히 못해요ㅋㅋㅋㅋ
+P0 	: 그럼 싫어하는 음식 있으신가요?
+P1 	: 저 번데기요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 벌레 모습을 싫어하시는군요ㅋㅋㅋㅋ

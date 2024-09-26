@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100020116
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요~
+P0 	: 안녕하세요!
+P0 	: 저녁 뭐 드셨어요?
+P1 	: 비빔밥으로 먹었어요
+P0 	: 오 어떤 재료 넣으셧어요?
+P1 	: 버섯이랑파프리카 함께 볶은것, 호박 볶음, 부추무침이요
+P0 	: 오 다양하게 넣으셨네요
+P1 	: 냉장고에 있는 재료들 열심히 썼어요ㅎㅎ
+P0 	: ㅋㅋㅋㅋ그게 비빔밥의 묘미죠
+P0 	: 저는 오징어두루치기먹엇어요 ㅋㅋㅋㅋ
+P1 	: 두루치기 좋네요!
+	  오징어만 제외하면요ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ아 오징어 안좋아하시는군요??
+P1 	: 네ㅋㅋㅋ 해물을 안 좋아해요
+P0 	: 아아 그렇군요 ㅋㅋㅋㅋ회나 초밥두요?
+P1 	: 네ㅋㅋㅋ 회, 초밥도 안 먹어요
+	  &name1&은 좋아하시나요?
+P0 	: 저는 초밥은 먹어요 ㅋㅋㅋㅋ익힌 해산물도 먹는편이에요
+P0 	: 근데 비린걸 못먹어서 많이는 못먹어요 ㅋㅋㅋㅋ
+P1 	: 저도 비위가 약해서 비린거 잘 못 먹어요

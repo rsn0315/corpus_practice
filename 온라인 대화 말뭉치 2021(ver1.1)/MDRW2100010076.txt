@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100010076
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  기타>연인
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 당근마켓에서 중고거래해봤어?
+P0 	: 응 당근이지!!!  나 당근 온도 높아ㅋㅋ
+P1 	: 온도? 갑자기 무슨 온도?
+P0 	: 거래 잘하고 평판 좋으면 온도 올라가ㅋ 근데 막 진상이면 온도 뚝뚝 떨어짐
+P1 	: 오 그럼 온도로 이사람이 진상인지 고수인지 알 수 있겠네?
+P0 	: 응 그렇지ㅋㅋ이래뵈도 난 평판 높은사람이야ㅋ
+P1 	: 물건 많이 가져다 중고거래했나보구만?
+P0 	: 뭐 그냥 집에서 안쓰고있는 물건들 보내줬지ㅋㅋ
+P1 	: 뭐 팔았어?ㅋ
+P0 	: 그냥 베이킹용품 안쓰는거랑 예전에 닌텐도스위치 신나서 수집했던것도 팔아버림ㅋ
+P1 	: 대단하다ㅋㅋ 진짜 네이버중고나라보다 당근마켓이 더 괜찮아?
+P0 	: 응 나는 직거래를 좀 더 선호해서 당근이 편하더라
+P1 	: 그래? 막 사기꾼은 없어?
+P0 	: 가끔 보면 오븐사기꾼은 있다고들 하는데 난 아직까지 사기꾼은 못봤음

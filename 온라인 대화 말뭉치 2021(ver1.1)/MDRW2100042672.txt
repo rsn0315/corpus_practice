@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100042672
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 스타벅스 텀블러를 같이 골라주라
+P0 	: 전에 산 거 아직 안 썼잖아
+P1 	: 스타벅스 텀블러는 많을수록 좋아
+P0 	: 무슨 재질 살 건데
+P1 	: 플라스틱
+P0 	: 나는 스테이크 스가 좋던데 스테인레스
+P1 	: 플라스틱이 가벼워서 좋아
+P0 	: 가을 시즌 텀블러 살거야?
+P1 	: 가을 거 귀여워 보이더라
+P0 	: 양은 얼마나 돼 용량
+P1 	: 나는 너무 큰 건 싫어해
+P0 	: 톨 사이즈 살 거니
+P1 	: 맞아 너는 어떤 사이즈 좋아하니
+P0 	: 나는 큰 게 좋더라
+P1 	: 큰 게 편할 때 있긴 해

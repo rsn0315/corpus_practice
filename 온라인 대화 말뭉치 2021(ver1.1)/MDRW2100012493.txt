@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012493
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! &name2&은 가족과 살고 계신가요?
+P1 	: 안녕하세요 저는 현재 혼자 자취 중입니다!
+P0 	: 그럼&name2&은 청소를 매일 하시나요??
+P1 	: 매일 하려고 노력중이지만 한번 안하면 그 뒤로 한동안,,.그냥 야만인 같이 살아요 ㅋㅋㅠ
+P0 	: ㅋㅋㅋ 야만인... 딱 제 방과 비슷하네요
+P0 	: &name2&은 외동이신가요??
+P1 	: 문명인으로 살기도 참 어려워요 ㅋㅋㅠ
+P1 	: 전 제 위로 오빠 하나 있어요!
+P0 	: 오 그렇군요! 연락 자주 하나요?
+P1 	: 거의 남이라고 보면 될거 같아요 ㅋㅋㅠ 어릴땐 친했는데 크다보니 데면데면해졌어요 쩝
+P0 	: ㅋㅋㅋㅋ 저는 동생이 다 여동생인데 제가 기숙사 살 때 저를 제일 싫어하던 동생이 연락을 제일 자주하더라고요
+P1 	: ㅋㄱㄱㄱㅋ 가족의 정이라는게 있나보네요!!!!
+P1 	: 그럼 여동생이 몇 명 있으신건가요??
+P0 	: 2명이요!ㅋㅋㅋ 한명은 저랑 나이 비슷하고 한 명은 엄청 어려요
+P1 	: 오 나이가 비슷하면 좋을거 같아요! 제 주위에도 비슷하면 거의 다 사이가 좋더라구요~
+P0 	: 아ㅋㅋㅋ 그런가요? 저희 집은 그저 라면 몇개 끓일까로 싸우는 집이라...ㅋㅋㅋ

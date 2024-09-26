@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031208
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 시사(정치, 경제, 사회)>백신 사전 예약 10부제 시행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 백신 맞으셨어요
+P1 	: 네 저는 아스트라제네카로 두 번 다 맞았어요
+P0 	: 안 아프셨어요
+P1 	: 조금 몸살기가 오긴 했는데 괜찮아요
+P0 	: 아유 다행이다
+P1 	: 백신 맞으셨어요
+P0 	: 저는 화 이자 일차 만 맞았어요
+P1 	: 안 아팠어요
+P0 	: 저는 일주일 동안 아팠어요
+P1 	: 어휴 지금은 괜찮으세요
+P0 	: 지난 주에 마셔서 이제 조금 괜찮아졌어요
+P1 	: 다행이네요
+P0 	: 다음 달에 이 차 맞는데요

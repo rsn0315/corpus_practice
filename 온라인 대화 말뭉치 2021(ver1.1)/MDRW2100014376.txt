@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100014376
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 좋아하는 음식이나 맛집 있으신가요?
+P1 	: 전 초밥이요ㅋㅋㅋ
+P0 	: 초밥 저도 좋아해요!
+P0 	: 무슨 초밥 좋아하세요?
+P1 	: 전 다좋해요!
+P1 	: 님은요?
+P0 	: 저도 안가리고 다좋아해요! 사시미도 좋아하고요
+P0 	: 계란 초밥도 좋아해요
+P1 	: ㅋㅋㅋ저도요
+P1 	: 전 초밥킬러예요
+P0 	: 좋아하는 초밥집이 따로 있으신가요?
+P1 	: 두루두루 다좋아해요ㅋㅋㅋㅋ
+P1 	: 연어vs광어?
+P0 	: 아 이렇게 어려운 질문을
+P0 	: 예전엔 연어를 더좋아했는데 요즘은 광어가 땡기네요
+P1 	: ㅋㅋㅋㅋ
+P1 	: 전
+P1 	: 닥광어파입니다
+P0 	: 뭔가 식감때문에 광어가 맛있는거같아요
+P0 	: 연어는 회보다는 연어장이 더맛있더라구요
+P1 	: ㅋㅋㅋ 맞아요
+P1 	: 연어장 맛있죠
+P1 	: 연어는 살짝 느끼해요
+P0 	: 맞아요 그래서 그냥보다 훈제연어나 연어장으로 먹으면 좋더라구요
+P1 	: 맞아요

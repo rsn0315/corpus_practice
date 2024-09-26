@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100046177
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 배달음식 자주 드시나요
+P0 	: 일주일에 한 번은 시켜 먹어용
+P1 	: 어떤것 시켜 드시나요
+P0 	: 주로 치킨 시켜먹어요
+P1 	: 저도 치킨 피자가 주로예요
+P0 	: 어디 피자 시키시나요?
+P1 	: 치킨bhc  피자 파파존스
+P0 	: 파파존스에서 뭐가 제일 맛있어?
+P1 	: 전 고기류가 맛나요
+P0 	: 오 파파존스는 사이드 메뉴 맛집이라던데
+P1 	: 사이드 메뉴는 파스타만 먹어봣어요
+P0 	: 아하 그런가요

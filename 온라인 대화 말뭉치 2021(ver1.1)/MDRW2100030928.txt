@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100030928
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 만든 파운드케잌 맛 어때?
+P0 	: 저번보단 못하지만 맛있어ㅋ
+P1 	: 좀 질었나? 양이 많아서 반죽하기 좀 힘들었어
+P0 	: 음 약간 진 거같군.. 이거 어떻게 만든건데?
+P1 	: 녹은버터에 밀가루넣고 반죽 후설탕들어간 계란물을 넣으면서 믹싱한 후  굽는거야
+P0 	: 레시피가 복잡하네
+P1 	: 그렇게 복잡하진않아 양이 많아서 약간 까다로울뿐
+P0 	: 왜 양을 많이 했는데?
+P1 	: 두 개 정도는 구워야 오래 먹지
+P0 	: 근데 왜 우유는 안넣었어?
+P1 	: 우유가 몸에 안좋대 대신 두유를 넣었어
+P0 	: 두유보단 우유가 맛있는데
+P1 	: 그래두 어쩔수없어 우유가 몸에 칼슘을 뺏어간다잖아

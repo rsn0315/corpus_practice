@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100012185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 점심에 김밥천국 갔어요
+P1 	: 김밥은 안 먹었지만... 참치김치철판볶음밥 먹었네요
+P0 	: 그렇군요. 혹시 냉동볶음밥을 사드셔보셨나요?
+P1 	: 네!
+P1 	: 존쿡 베이컨 김치 필라프 추천합니다
+P0 	: 김천보다 맛있지않냐고 말하려고 했는데 이미 드셔보셨군요
+P1 	: 김천은 멀리 나가기 귀찮을 때 주로 가요
+P1 	: 맛에는 기대가 엄슴...
+P1 	: 오늘 드신 김밥은 김천 거였나요?
+P0 	: 아니오 홈메이드 김밥이요
+P0 	: 우엉조림이 남아서 단무지랑 햄이랑 돌돌 말았어요
+P1 	: 헐...
+P0 	: 왜요 ㅋㅋㅋ
+P1 	: 요리왕이셔요ㅋㅋㅋ
+P1 	: 부지런...
+P0 	: 귀찮긴 한데 집에 다 재료가 있어서요
+P0 	: 라구소스를 4키로샀는데 자꾸 파스타에 그 소스만 얹어주니 가족들이 싫어해요.
+P1 	: 역시 요리는 부지런함 + 재료 상비군이 중요한 거 같아요
+P0 	: 맞아요 스킬이야 뭐..유튜브보고 하면 돼요
+P1 	: ㅋㅋㅋㅋㅋㅋㅋ 백종원 거 보시나요?
+P0 	: 백종원은 레시피만 찾아봐요 대체로 쉬워요

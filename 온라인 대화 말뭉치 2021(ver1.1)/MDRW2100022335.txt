@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022335
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 밥은 주로 해드시나요?
+P1 	: 네~&name1&님은요?
+P0 	: 저는 주로 간편식이요..
+P0 	: 점점 귀찮아져서...
+P0 	: 빵이랑 샐러드.. ㅋㅋㅋ
+P1 	: 그런것만 먹으면 전 나중에 밥 생각이 나더라고요. 샐러드도 손 많이 가던데요
+P0 	: 1주일에 항번씩 왕창 준비해놓고..
+P0 	: 꺼내먹기만.. ㅋㅋ
+P1 	: 샐러드에 뭐뭐 넣으시나요?
+P0 	: 양배추 양파 당근.. 은 기본에.. 
+	  그때그때 토마토, 브로콜리,상추, 마트에.파는거 아무거나 랜덤으로 섞어요
+P0 	: 드레싱도 3가지.정도 랜덤으로.. ㅋㅋㅋ
+P1 	: 우와!! 저거 손질도 손 많이 갈텐데요. 드레싱은 뭐뭐 드세요?
+P0 	: 오라앤탈, 참깨랑 드레싱이랑 코올슬로, 토마토소스.. 주로...
+P0 	: 매끼니 밥차리는거보단 간편해요.. ㅋㅋㅋ
+P1 	: 저 오리엔탈 좋아해요^^ 한번 귀찮으면 그 다음부턴 편하겠군요
+P0 	: 주말에 1시간 정도 걸리더라구요.. 
+	  야채 손질해 놓는게..
+P0 	: 주로 밥해드세여?
+P1 	: 한번에 해서 냉동실에 얼려두고 먹을때마다 전자렌지 돌려 먹어요

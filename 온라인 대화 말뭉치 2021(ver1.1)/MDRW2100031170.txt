@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031170
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: ㅅ
+P0 	: 콘서트가 보셨나요
+P1 	: 내 예전에 가보았어요
+P0 	: 가수 콘서트인가요
+P1 	: 아이돌 콘서트 였어요
+P0 	: 가수를 좋아하시나요
+P1 	: 다 같이 모여서 노래 부를 수 있어서 좋아요
+P0 	: 어느 그룹을 좋아하시나요
+P1 	: 방탄소년단을 좋아합니다
+P0 	: 정말 멋진 청년 드리죠
+P1 	: 콘서트는 참 좋았어요
+P0 	: 티켓팅하기 어렵지 않나요
+P1 	: 경쟁이 굉장히 심해요
+P0 	: 그래도 추억이 되겠네요
+P1 	: 그럼요 좋은 시간이었죠
+P0 	: 언제쯤 콘서트를가 볼 수 있을까요
+P1 	: 저도 궁금하네요 내년에는 갔으면 좋겠어요

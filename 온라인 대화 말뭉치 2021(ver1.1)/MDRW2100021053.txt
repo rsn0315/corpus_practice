@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100021053
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 한의원 가 보신 적 있나요?
+P1 	: 뜸 뜨러 한번 가본 적 있어요!
+P1 	: 한의원 다니시나요?
+P0 	: 네 한방이 잘 맞아서 다니고 있어요
+P1 	: 주로 침 맞으러 다니시나요?
+P0 	: 네 관절이나 근육쪽 그 외 통증에도 효과가 좋아서요
+P1 	: 오 그럼 저도 침 맞기에 도전을 해봐야겠어요!
+P1 	: 침 맞는거 무서워서 뜸으로 돌렸던건데 어깨 아픈 김에 가봐야겠어요 ㅎㅎ
+P0 	: 손바닥쪽 아니면 괜찮아요ㅠㅋㅋ
+P1 	: 손바닥은 엄청 아픈가요??
+P0 	: 손등쪽보단 아파요 그래도 전 맞을 만했어요
+P1 	: 침은 맞고 오래 꽂아두고있나요 금방 뽑나요?
+P0 	: 보통 한 10분 정도 있어요
+P1 	: 요즘 어깨도 아프고 등허리도 아픈데 가서 좀 누워있다 와야겠네요
+P0 	: 한의원 누워있으면 편해요ㅋㅋ 저도 담주에 가려구요

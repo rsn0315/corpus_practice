@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018383
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 패션에 관심 많으세요?
+P1 	: 네 관심은 많은 편이에요 
+	  항상 익숙한 스타일만 찾지만요ㅎㅎ
+P0 	: ㅋㅋㅋㅋ어떵스타일로 입으세요?
+P1 	: 깔끔하면서 하늘하늘한 느낌이랄까 그런 스타일을 좋아해요
+P0 	: 오 그렇군요 저는 캐쥬얼하게 입는거 좋아해요!
+P1 	: 아 그러시군요
+	  캐쥬얼하게 입는게 편하긴하죠!
+P0 	: 좋아하는 패션 브랜드 있으세요?
+P1 	: 아니요 따로 없어요ㅎㅎ
+P0 	: 혹시 머리결관리 따로하세요?
+P0 	: 요즘 머릿결이 너무 상햇네요 ㅠ
+P1 	: 아니요 따로 관리는 안 해요ㅜㅜ
+	  그냥 샴푸 후 린스 대신 트리트먼트 쓰는 정도에요
+	  &name1&은요?
+P0 	: 저는 진짜 샴푸만했는데 너무 머릿결이 상하더라구요 ㅠㅠ
+P0 	: 요즘 트리트먼트 열심히 하고있어요
+P0 	: 제품 뭐쓰세요!?
+P1 	: 밀크바오밥? 거기꺼 쓰고 있어요
+P0 	: 오 그렇군여 메모해놓을게용
+P0 	: 헤어에센스는 쓰세요?
+P1 	: 헤어에센스는 따로 쓰지 않았는데, 펌하고 나서는 쓰고 있어요ㅎㅎ
+P1 	: &name1&은 어떤 제품 쓰시나요?
+P0 	: 오 그렇군요 ㅋㅋㅋㅋ요즌 헤어제품 이거저것 찾고있어요 ㅋㅋㅋㅋ

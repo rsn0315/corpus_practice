@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100030097
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 여행 좋아해요 ㅋㅋㅋ
+P1 	: 코시국 전에 자주 다니셨나요?
+P0 	: 네
+P1 	: 주로 어디 다녀오셨어요??
+P0 	: 바다요
+P0 	: 편안한느낌요
+P0 	: 좋죠
+P1 	: 수영도 하셨어요?
+P0 	: 수영은 못해요
+P1 	: 그럼 바닷물에 발만 담그시는 정도인가요?
+P0 	: 네 그정도
+P1 	: 갯벌에서 고둥 캐기는요?
+P0 	: 조개요
+P1 	: 조개 캐기도 좋아하세요?
+P0 	: 애들때문에
+P1 	: 아 어릴 땐 채집하는 거 좋죠 ㅋㅋㅋ

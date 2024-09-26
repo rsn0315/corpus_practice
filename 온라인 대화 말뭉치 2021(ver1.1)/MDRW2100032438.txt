@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100032438
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 허리가 조금 안 좋아요
+P0 	: 아
+P0 	: 허리가 왜 안좋으실까요
+P1 	: 앉아서 오랫동안 이래서 그런가 봐요
+P0 	: 보통 직장인들이 허리가 안좋더라구요
+P0 	: 저도 뭐 좋진않네요
+P1 	: 어디 안 좋은 데는 없나요
+P0 	: 저는 목이 좀 불편해요
+P1 	: 사고를 당한 적이 있나요
+P0 	: 몇년전에 버스 급정거할때 넘어 진 적이 있어요
+P1 	: 아마 그때 긴장해서 굳었나봐요
+P0 	: 그때 치료를 잘 했어야했는데 말이지요
+P1 	: 지금이라도 해 보시는게 어때요
+P0 	: 한의원에 가보아야 겠어요 비올때 뻐근해요
+P1 	: 정기 검진도 한 번씩 받아 봐야 돼요
+P0 	: 미리 검진해서 확인하는게 가장 낫지요

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100004513
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  3
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 지금 비오나요?
+P1 	: 여긴 안오다 다시 비오네요
+P0 	: 여긴 아까오더니 지금은 또 안오네요
+P0 	: 일본에 천미리 왔다고 하던데 그비인가봐요
+P1 	: 헐~~~ 일본은 난리네요
+P1 	: 뉴스대강봤는데 태풍온다는거같기도하고요
+P1 	: 담주까진 비 많이 오려나봐요
+P0 	: 네 지반도 약해져서 지진에 더 취약해졓다고 하더라구요
+P0 	: 늦은 장마래요
+P0 	: 그래서 담주내내 비소식인거같아요
+P1 	: 피해없이 지나갔음 좋겠어요
+P1 	: 안그래도 코로나때매 힘든데...
+P0 	: 본사에서 장마대비하라고 공문도 오더라구요
+P1 	: 공문올정도면 진짜 많이 오려나보네요
+P0 	: 일본이랑 중국은 난리래요
+P0 	: 비와서 시원할줄알았는데 습해서 자꾸 에어컨을 켜게되네요
+P1 	: 에고~~~ 살기힘든데 비까지 난리네요
+P1 	: 아깐 바람 시원하게불더니 지금은 끈적거리네요
+P0 	: 정말 재앙이 오려는지 이것저것 다오는거같아요
+P1 	: 그러게요.
+P0 	: 곧 옷정리도 해야겠네요 너무 귀찮아요 계절바뀔때마다
+P0 	: 오늘은 날씨 너무좋네요
+P1 	: 선선하니 좋아요
+P1 	: 해가나오긴했는데 그렇게 덥진않은거같아요
+P1 	: 오늘 하늘 보셨었나요? 진짜 가을인거같아요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017799
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 떡볶이 제일 좋아하시나요?
+P0 	: 좋아하시는 음식 있으신가요?
+P1 	: 저는 마카롱같은 단거좋아해요
+P0 	: 어떤 마카롱 좋아하시나요?
+P1 	: 초코마카롱이요 &name1&은요?
+P1 	: 마카롱좋아하세요?
+P0 	: 네 근데 비싸서 제 돈 주고는 잘 안사먹어요ㅠㅠ
+P1 	: 맞아요 마카롱 비싸긴해요ㅜㅜ
+P1 	: 작은거한개가 과자 큰거한개값이니 ㅜㅜ
+P0 	: 뚱카롱이랑 얇은 마카롱 중에서 뭘 더 좋아하시나요?
+P1 	: 저는 뚱카롱이요ㅎ
+P0 	: 필링이 많은걸 좋아하시는군요?
+P1 	: 네 필링많아서 맛있더라구요
+P0 	: 특별히 좋아하는 브랜드 마카롱 있으신가요?
+P1 	: 브랜드마카롱은아니구요 그냥 뚱카롱이면 좋았어요 &name1&은 어떤마카롱좋아하세요?
+P0 	: 저는 바닐라나 딸기 마카롱이요
+P1 	: 베스트셀러들이네요ㅎㅎ

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100023814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 제경우에는 교정이 잇몸건강하고는 상관없고 오직 미용목적이래서
+P0 	: 평생 불편함을 감수할정도는 아닌거같아요
+P1 	: 라미네이트 같은건요?
+P0 	: 라미네이트는 이빨 갈고 가짜 이빨(?) 씌우는건가요?
+P1 	: 네.. 교정은 시간 오래걸려서... 
+	  걍 갈아버리고.. 가짜로 씌우는거도 많이하죠..
+P0 	: 헉 그럼 나이들어서 고생할거같은데
+P1 	: 연애인들이 주로하죠..
+P1 	: 당장 보여지는게 중요해서.. 
+	  부작용나면 엄청 시리다고 하더라구요
+P0 	: 악 보여지기위해 희생이 엄청나네요
+P1 	: 미백 같은건 해보셧나요?
+P0 	: 오우 아뇨 그것도 이빨 가는건가요?
+P1 	: 아뇨... 하얗게 하는거요... 화이트닝
+P0 	: 원리가 궁금하네요
+P1 	: 농도 높은 과산화수소 바르는거에요..
+P0 	: 헐 그럼 이 안상하나요

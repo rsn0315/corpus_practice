@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100033556
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 취업중이신가요?
+P1 	: 아뇨 직장인이요  &name1&님은?
+P0 	: 백수입니다ㅎㅎ
+P1 	: 취업준비중이신가요?
+P0 	: 회사다니다가 번아웃와서 그냥 쉬고 있어요~
+P1 	: 아 스트레스가 많으셨나봐요
+P0 	: 야근하는게 너무 힘들더라고요
+P0 	: 어떤일 하시나요?
+P1 	: 아 야근 힘들죠 전 원자력관련일해요
+P0 	: 잘모르지만 말로만들어서는 엄청난 일을 하시는거같아요
+P1 	: 그렇지도않아요ㅎ
+P1 	: 걍 작은회사 다녀서
+P0 	: 업무 스트레스 있으신가요?
+P1 	: 예전엔 엄청 스트레스받았는데
+P1 	: 상사랑 넘싸워서 팀바꿨어요ㅎ
+P1 	: 요즘은 널널하고 좋네요 내할일만 하면돼서
+P0 	: 어딜가나 사람이 문제네요

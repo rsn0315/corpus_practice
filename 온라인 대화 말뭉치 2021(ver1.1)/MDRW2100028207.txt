@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100028207
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 다이어트 잘돼?
+P0 	: 유지만 하고있어 넌 단백질 보충 뭐로해
+P1 	: 소고기
+P0 	: 대박이네 난 엄마가 다 구워먹어버림 내껀데
+P1 	: 삼겹살 먹고 싶다
+P0 	: 삼겹살에 김치돌돌말아
+P1 	: 콜라랑 같이 먹으면 최고지
+P0 	: 먹고싶어 다음주에 먹을거야
+P0 	: 나 이제 운전해 안녕
+P1 	: 그래 나도 이제 저녁 먹으러 가
+P0 	: 맛있게 먹어
+P1 	: 넌 뭐 먹었니?
+P0 	: 난 차에서 육포
+P0 	: 육포 너무 맛있어
+P1 	: 배고프겠다
+P1 	: 나는 밥 먹고 집에 가는 중
+P0 	: 배고파 뭐먹었어
+P1 	: 초밥 먹었지
+P0 	: 잘먹고 다니네

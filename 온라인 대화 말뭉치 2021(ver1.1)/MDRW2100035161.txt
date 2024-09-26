@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100035161
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어린시절 여행 다닌 기억 있나요?
+P0 	: 네 부곡하와이요 ㅋㅋ
+P1 	: 오 저는 부곡하와이가 진짜 해외인줄 알았어요 ㅋㅋ 온천이죠?
+P0 	: 온천도 있고 수영장도 있고 놀이동산도 있는 곳이예요
+P1 	: 위치는 어디인가요? 아직도 있나요?
+P0 	: 얼마전에 폐업신고 했대요 너무 낡아서 운영이 어려운가봐요.. 한번도 안가보셨나요?
+P1 	: 네네 ㅋ 저는 안가봤어요 생소해요 ㅎ
+P0 	: 거기서 마술쇼도 하는데 그거 본 기억도 나요~ 그럼 &name2&님은 어렷을때 어디 가셨나요?
+P1 	: 저는 변산해수욕장에서 논 기억이 나요!!
+P0 	: 어렷을때 자주 가셨나봐요?
+P1 	: 아녜요 딱 1번인데 사진이 있어 강렬한 기억이 나요..어릴땐 여행을 많이 못갔어요
+P0 	: 어떤점이 강렬하셨나요?
+P1 	: 아 어린시절 단한번의 여행이다? 이런 강렬한 기억이요 ㅋ

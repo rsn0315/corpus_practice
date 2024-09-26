@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100003200
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 혹시 샹치 예고편 보셨어요?
+P1 	: 와 진짜 멋있더라구요
+P1 	: 이게 진짜 무협 히어로물이구나 싶어요
+P0 	: 다음달에 보러 가실거에요?
+P1 	: 시국이 시국이다보니 못갈것같아요ㅜㅜ
+P0 	: 아 마지막으로 언제 영화관 가셨어요?
+P1 	: 마지막으로 본 영화가
+P1 	: 엔드게임이었을거예요
+P0 	: 아 저돈데
+P0 	: 그 이후로는 집에서 왓챠로 보는게 좋더라구요
+P1 	: 침대에 누워서 태블릿 거치해놓고
+P1 	: 맥주한잔 하면서 보는게 최고죠
+P0 	: 태블릿으로는 마지막으로 뭐보셨어요?
+P1 	: 글쎄요 인생은 아름다워였던것같아요
+P1 	: 추천할만한 영화 있으세요?
+P0 	: 어젠가 그저께 언브로큰 봤는데 재밌더라구요

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012043
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 취업중이신가요?
+P1 	: 원래 아이들 과외 가르치는 일을 하고 있었는데 코로나 이후로 쉽지 않네요~ 옥돔님은 하시는 일 어떠세요?
+P0 	: 저는 백수예요ㅎㅎ
+P1 	: 요즘은 쉬는 분들이 많아서요.. 저도 반백수죠..
+P0 	: 스펙을 위해 자격증을 준비해보셨나요
+P1 	: 네 한국어교사 자격증이요
+P0 	: 어려운 자격증 아닌가요?
+P1 	: 한국어교육과 다녀서 2급 딸 수 있었어요
+	  외국에서 한국어 가르치고 싶어서 땄는데 이 난리가 났네요ㅜ
+P0 	: 외국에 사시나봐요
+P1 	: 외국에서 살려고 땄는데 못나가게 됐죠 ㅜ
+P0 	: 외국으로 취업 준비중이신가요?
+P1 	: 그랬었는데 코로나 이후로 계획을 바꿨어요 앞으로 또 어떤 전염병이 생길지도 모르고 한국 못돌아올까봐서 한국에서 일자리 알아보려구요

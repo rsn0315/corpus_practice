@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100008411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여기는 딱히 취미랑 관련된 주제가 없네요
+P0 	: 전시회 자주 가시나요?
+P1 	: 가끔씩 가요!
+P1 	: 마음같아서는 자주가고싶은데
+P1 	: 은근히 비싸더라고요
+P0 	: 맞아요
+P0 	: 그림 좋아하시나요?
+P0 	: 저는 그림 작품 위주로 전시회 갔었어요
+P1 	: 그림 좋아해요!
+P1 	: 취미로 하고있거든요
+P1 	: 최근에 좋았던 곳 있으세요?
+P0 	: 최근에는 저도 잘 안 다녀서
+P0 	: 근데 최근에 앨리스 달튼 브라운전 추천받았어요
+P1 	: 와 저도 그거 가고싶어요
+P1 	: 소개글 읽어봤는대
+P1 	: 엄청 예쁘더라고요
+P0 	: 그러니까요 시간 맞으면 한번 다녀오려고요
+P0 	: 그림 그리는 거 좋아하시는 군요!
+P1 	: 네네 어릴적부터 좋아했어요 ㅎㅎ
+P0 	: 저도 요즘에는 자주 못 그리지만 취미로 디지털 그림 그렸어요
+P1 	: 오 테블릿 그런걸로요?
+P0 	: 네네
+P0 	: 중학교 때 사달라고 졸라서 그 뒤로 종종 그렀어요
+P0 	: 퐁퐁님은 손 그림이랑 디지털 중에 어느 쪽을 더 좋아하시나요?
+P1 	: 저는 손그림을 잘하고 싶은데
+P1 	: 디지털쪽이 편해서 디지털 그림을 많이그려요
+P1 	: 프로그램 뭐쓰세요?
+P0 	: 예전에는 사이툴 썼는데 올해 초부터는 클튜 써요!

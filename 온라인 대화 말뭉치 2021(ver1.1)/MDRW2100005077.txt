@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100005077
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 넹 안녕하세요
+P0 	: 해삼젤라또는 뭔가요?
+P1 	: 특이한 젤라또를 생각해보았습니당
+P0 	: 인디밴드 이름 같네요
+P0 	: ㅋㅋㅋㅋㅋ
+P1 	: 해삼도 맛있고 젤라또는 달콤하니까요 ㅎㅎ
+P0 	: 오 해삼 맛있나요?? 한번도 안 먹어봣어요
+P1 	: 오독오독하니 씹는 맛이 있는데 해산물 안 좋아하시면 드시는 게 어려울 수도 있어요
+P0 	: 아... 그렇군요
+P0 	: 회나 이런 걸 잘 안 먹다보니까
+P0 	: 접하지 못한 게 많아요
+P1 	: 젤라또는 좋아하시나요?
+P0 	: 네!! 젤라또 너무 좋아해요
+P1 	: 달콤한 건 언제나 기분이 좋아요 ㅎㅎ
+P0 	: 특히 젤라또는 시원하면서 달콤하니 최고죠 ㅎㅎ

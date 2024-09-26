@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100005355
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님네는 비가 많이 오나요?
+P0 	: 아까는 엄청 많이 왔는데 지금은 안내리네요
+P0 	: &name2&님 쪽은요?
+P1 	: 여기도 몇십분 전부터 비 내리는 소리가 덜하네요 그쳤나봐요
+P1 	: 혹시 남쪽에 사세요..?
+P0 	: 저는 서울 살아요!
+P0 	: 다음주에는 내내 비가 온다네요 ㅠㅠ
+P1 	: 앗 전국에 비인가보다
+P1 	: 제 쪽이랑 비슷하길래 같은 지역에 사나 싶었어요
+P0 	: 가을 장마래요 !
+P0 	: 가을이 진짜 오나봐요ㅎㅎ
+P1 	: 태풍보담 가을이.낫지요
+P1 	: 저는 사실 나가지만 않으면 비오는 걸 좋아해요 ㅋㅋㅋ
+P0 	: 저도요 ..ㅋㅋ 안에서 비오는걸 보는게 좋더라구요
+P1 	: 오늘 비온다며! 오늘 비온다며!
+P1 	: 맑다못해 바닥이 말랐어요...
+P0 	: 비온다했는데 날씨가 너무 좋네요 ..~
+P0 	: 외출하기 딱 좋은 날씨네요 핫ㅎ..
+P1 	: 덥진 않아서 좋긴 해여
+P1 	: 밖에서 땀 안흘린게 얼마만인지..?
+P0 	: 그러니까요 날씨가 시원해서 참 좋아요
+P1 	: 가을이다~~~~~
+P0 	: 가을날씨 너무 좋아요 ㅎㅎ

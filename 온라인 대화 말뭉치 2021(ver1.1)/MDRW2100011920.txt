@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100011920
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 콘텐츠나 연예인 있으신가요?
+P1 	: 유튜브에 매탈남이라는 채널 좋아합니다.
+	  고양이 채널이에요
+P1 	: 어떤 컨텐츠 좋아하세요?
+P0 	: 저는 예능 클립 보는거 좋아해요
+P1 	: 어떤 예능 좋아하세요?
+P0 	: 골목식당이나 유퀴즈?
+P0 	: 좋아하는 예능이나 드라마 있으신가요?
+P1 	: 저도 유퀴즈 좋아해요
+	  골목식당은 계속 보다보니 식당을 못 가겠어서 이제 안 보고있어요
+P0 	: ㅋㅋㅋㅋㅋ맞아요 골목식당보면 내가 저걸 돈주고 먹어야 하나라는 생각이 많이 들죠
+P1 	: 맞아요 그래서 유퀴즈처럼 속 편히 보는 예능이 더 좋은 것 같아요
+P0 	: 맞아요 그냥 생각없이 볼 수 있는거? 그래서 저는 무도같은류도 좋아해요
+P1 	: 아 무도 진짜 좋아했는데.. 요즘 무도 같은 프로가 없어서 아쉽네요ㅠ
+P0 	: 맞아요 그냥 웃고 넘길 수 있는 종류가 좋은데 사실 요즘 트렌드가 연예인들 일상구경?이다보니까 자괴감들어서 잘 안보게 되더라구요
+P1 	: 맞아요 연예인들 애 키우고 부부싸움 하고 그러는 걸 왜 방송하는지 모르겠어요
+P1 	: 어떤 예능 나왔으면 좋겠어요?
+P0 	: 저는 그냥 웃을 수 있는거나 토크쇼여

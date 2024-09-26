@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003744
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심메뉴 정하셨나요
+P0 	: 제가 교정을 시작해서
+P0 	: 아마 계란찜 먹지 않을까 싶네요
+P1 	: 헉 점심으로 계란찜이요? 다른건요?
+P0 	: 다른건 따로 안먹고 계란찜만 먹을거같아요
+P0 	: 어떤 음식 좋아하세요?
+P1 	: 아이고 교정이 힘들구나
+P1 	: 저 가리는거 없이 다 잘먹어요
+P1 	: 오늘은 비와서 그런지 햄버거나 배달시킬까봐요
+P0 	: 어디 햄버거 제일 좋아하세요?
+P1 	: 저 버거킹이요
+P1 	: 근데 동네 배달이 안돼요ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 저는 맥도날드가 좋더라구요
+P1 	: 맥날 감튀 맛있죠
+P1 	: 동네에 없어서 못간지 오래됐네요
+P0 	: 혹시 면요리 좋아하세요?
+P1 	: 네 근데 라면은 잘 안먹어요
+P0 	: 저는 라면 되게 좋아하는데 아쉽네요

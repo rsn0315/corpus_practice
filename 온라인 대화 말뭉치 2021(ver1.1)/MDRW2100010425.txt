@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100010425
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 알바 많이 해보셨나요?
+P0 	: 네 카페알바 편의점 해봤어요ㅎㅎ
+P1 	: 와 많이하셨군요
+P1 	: 전 그거 안해봤어요 ㅜㅜ
+P1 	: 저는 미술학원강사알바 해봤어요
+P0 	: 오 가르치는거 재밌을거같아요ㅎㅎ
+P1 	: 애들수업은 그냥 봐주는 것도 크죠
+P1 	: 카페알바도 배울게많아서 재밋을거같아요
+P0 	: 재미는 없고 사람만 싫어졌어요ㅋㅋ
+P1 	: 앗 저런
+P1 	: 커피메뉴 만드는거 배우셨어요?
+P0 	: 네 그냥 얼추 다 해본거같아요ㅋㅋ
+P1 	: 와 부럽당
+P1 	: 저도 해보고싶네요
+P0 	: 남은건 레시피같아요ㅎㅎ
+P1 	: 그럼 베이킹도 해보셨나요?
+P1 	: 카페메뉴요
+P0 	: 음 아뇨 쿠키만 파는 카페여서 베이킹은ㅜㅜ
+P1 	: 글쿤요 기술이 많으셔서 부럽당
+P0 	: 없는거같은데ㅜㅜㅋㅋ그래도 추억인거같아요

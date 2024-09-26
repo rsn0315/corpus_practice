@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100008647
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: &name2& 주말에 뭐했어요??
+P1 	: 놀이터 다녀왔어요!! &name1&네요?
+P1 	: &name1&네는요?ㅎ
+P0 	: 우린느 방콕.ㅋㅋㅋㅋ
+P0 	: 그나마 링피트로 애들 운동만 시켜줬어요.ㅋㅋㅋ
+P1 	: 링피트와 함께 방콕했군요ㅎ
+P0 	: &name3&이 22kg까지 쪘더라고요???ㅠ
+P0 	: 갑자기 둔둔해져서 쟀다가 깜놀...
+P1 	: 와대박!! &name3&이 많이 쩠네요!
+P1 	: 집에만 있을때는 &name4&가 힘이 남아도는지 낮잠을 안잘라해서... 링피트하믄 자겠어요!
+P0 	: &name5&이더 버티다 버티다 지금자요..
+P0 	: 오늘 밤이 무섭다..ㅠ
+P1 	: 헉 이제자자니... 냄편님께 &name5&이 맡깁니다ㅠ
+P0 	: 냄편 내일부터 출근이야..ㅠㅠ
+P0 	: 하... 난 망했어..ㅠ
+P1 	: 띠로리 벌써출근해요?
+P0 	: 넵.. 벌써 개학..ㅠㅠ
+P0 	: 방학 같지도 않게 다 지나가고... 개학..ㅠㅠ
+P1 	: &name3&이 &name5&이는 다 등원하죠?
+P0 	: 그게 좀 고민중이에요..ㅠ
+P1 	: &name5&이랑 &name6&이랑 사이가 어때요?

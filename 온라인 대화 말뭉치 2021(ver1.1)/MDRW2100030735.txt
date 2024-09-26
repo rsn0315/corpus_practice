@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100030735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 오늘 날씨가 참 좋네요!
+P1 	: 그러게요 선선한 날씨네요
+P0 	: 비가 자주 오더니, 날이 맑아졌어요.
+P1 	: 이제 정말 가을인가 봐요
+P0 	: 그러게요, &name2&님은 어떤 날씨를 좋아하시나요?
+P1 	: 저는 봄을 제일 좋아해요
+P0 	: 봄 좋네요! 꽃구경도 좋아하세요?
+P1 	: 네 꽃구경하는 걸 좋아해요
+P0 	: 저는 가을도 좋아하는데, 가을은 싫어하시나요?
+P1 	: 가을도 좋아해요
+P1 	: 여름을 제일 좋아하지 않아요
+P1 	: 간편한 옷차림은 편하지만 땀이 나는 날씨를 선호하지 않아요
+P0 	: 여름은 그래서 힘들죠! 저는 겨울도 좋아해요
+P1 	: 겨울은 아침에 일어나기가 힘들어요
+P0 	: 맞아요. 이불에 조금 더 누워있고 싶은 계절이에요
+P1 	: 겨울의 날씨는 좋지만 옷차림이 너무 두꺼워서
+P1 	: 활동하기가 불편해요
+P0 	: 눈이 내리는 것도 좋지만 쌓이면 이동할 때 불편하죠
+P0 	: 역시 가을이 가장 좋은 것 같아요

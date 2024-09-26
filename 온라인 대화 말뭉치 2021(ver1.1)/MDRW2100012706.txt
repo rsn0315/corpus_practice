@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012706
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 모임해여?
+P1 	: 아니요 &name1&은 하시나요?
+P0 	: 친구 계모임만요
+P1 	: 계모임이요?
+P0 	: 네
+P1 	: 몇 명정도 있나요?
+P0 	: 3명이서 래뇨
+P1 	: 얼마씩 내시나요?
+P0 	: 10이요
+P1 	: 계를 걷는 주기가 어떻게 되나요?
+P0 	: 한달요
+P1 	: 재밌겠네요
+P0 	: 잘 못 모여요

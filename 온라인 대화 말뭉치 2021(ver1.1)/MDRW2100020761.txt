@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100020761
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요, 기숙사 생활 해보셨나요?
+P1 	: 아뇨 저는 해본적 없네요 해보셨어요?
+P0 	: 저는 한 학기 해봤어요
+P1 	: 오 룸메이트도 있으셨나요
+P0 	: 2인 1실이라서요!
+P1 	: 트러블은 없으셨나요!
+P0 	: 친구랑 같이 신청한거라 크게 문제는 없었어요
+P1 	: 아 친구랑 지내셨군요 재미있었겠어요
+P0 	: 시험기간에 기숙사에서 치킨이랑 맥주도 마셨어요ㅋㅋ
+P1 	: 그런게 또 꿀잼이죠ㅠㅠ 
+P1 	: 요즘은 기숙사 생활 못하죠??
+P0 	: 할 수는 있는데 저는 안 하고 있어요ㅎㅎ

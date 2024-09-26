@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100009702
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼했어요?
+P1 	: 아뇨 ㅋㅋ 대학생이에요
+P0 	: ㅂ부럽네요
+P1 	: 결혼 하셨나요?
+P0 	: 네
+P1 	: 헉 혹시 아이도 있으세요?
+P0 	: 초딩이됴
+P1 	: 아이고 귀엽겠어요
+P1 	: 학교는 가나요
+P0 	: 방학이요
+P1 	: 아하 아직 방학이구나
+P1 	: 개학하면 학교 가나요...? 코로나 때문에
+P0 	: 갈 듯요
+P1 	: 여자앤가요 남자앤가요
+P0 	: 남자요

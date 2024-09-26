@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100008077
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 안눌려?
+P0 	: ㅇㅇ 잘 안눌려
+P1 	: 건전지 어떤거로 사야하지?
+P0 	: AA 작은 걸로 사야해
+P1 	: 오키 주문해 놓을께
+P0 	: 한번에 좀 많이 사
+P1 	: 왜? 필요한만큼만 사면 되징
+P0 	: 애들 장난감이랑 건전지 다 됐더라
+P1 	: 하긴 ㅎㅎ 자동차 배터리 없어서 안나가더만
+P0 	: 건전지 잡아먹는 하마야 ㅋㅋ
+P1 	: 알았응 ㅎㅎ 3박스 정도 사면 되겠지?
+P0 	: ㅇㅇ 그 정도면 충분할듯
+P1 	: 건전지 줄어드는 속도가 엄청나네
+P0 	: 충전 건전지를 사던지 해야지 이건 뭐 ㅎㅎ
+P1 	: A4용지도 사야해

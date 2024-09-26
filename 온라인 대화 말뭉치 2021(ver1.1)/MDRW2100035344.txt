@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100035344
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 저번에 명성황후 보신 거 어떠셨어요?
+P0 	: 난 정말 재미있게 봤지
+P1 	: 아빠도 같이 보셨으면 좋았을텐데
+P0 	: 너희 아빠는 시끄러운거 못견뎌
+P1 	: 그러게요 같이 공연보러 갔다가 도중에 나가시더라니까요
+P0 	: 나 같으면 끝까지 봤을텐데
+P1 	: 근데 본인이 괴로우면 할 수 없죠
+P0 	: 그러게.. 청각이 예민한가?
+P1 	: 집에서는 홈씨어터로 잘 보시는데 공연장만 가면 그렇네요
+P0 	: 공연장 음향은 워낙 크니까
+P1 	: 같이 공연을 즐기지 못해서 아쉬워요
+P0 	: 그래 우리는 공연 보는 거 좋아하는데.. 우리끼리라도 가야지
+P1 	: 제가 엄마닮아시나봐요
+P0 	: 예전에 너랑 같이 클래식 공연 보러 갔었던게 생각이 나네

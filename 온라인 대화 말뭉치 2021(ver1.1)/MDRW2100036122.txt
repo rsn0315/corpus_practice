@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100036122
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 제가 담달에 백신을 맞아요.. 1차요.. 주변 사람들은 다 맞았거든요
+P1 	: 오ㅎ 화이자요?
+P0 	: 이게.. 그때 가봐야 알아요..ㅋㅋㅋ
+P0 	: 화아지 아니면 모더나라는데.. 아직은 알 수가 없대요
+P0 	: &name2&늼은 접종 완료 하셨나요?
+P1 	: 헉 가야지 아는건 ㅡㅡ 모더나좋은거같은데ㅋㅋ 모더나되면좋겠네요ㅎ
+P1 	: 저는2차까지 완료했어요ㅎ
+P0 	: 오~ 부럽부럽
+P1 	: 맞고나니 후련하네요
+P1 	: 뭐 부작용말도많으니
+P0 	: 저희 부모님도 접종 완료하시고 후련하시대요..ㅎㅎ
+P0 	: 다행히 두분다 부작용 없이 지나가셔서 한시름 놨어요
+P1 	: 네 잘 넘어갈꺼예요ㅎ 너무 걱정 안하셔도될거같아요ㅎ
+P0 	: 네.. 대부분은 멀쩡하니까요..
+P0 	: 부작용 뉴스가 워낙 크게 나서 그러지.. 보통 독감 백신도 그정도 부작용은 있다 하더라구요
+P1 	: 그렇죠 ㅎ 저도 뭐 맞을땐 떨렸는데  그것도 잠깐이였네요ㅎㅎ
+P0 	: &name2&님은 어떤 백신 맞으셨나요?
+P1 	: 전 교차접종이예요 아젠 화이자
+P1 	: 그래서 오래걸렸어요ㅎ
+P0 	: 아~ 전 화이자 아니면 모더나래요

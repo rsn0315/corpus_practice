@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100038430
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장 다니시나요
+P0 	: 아니용:)
+	  지금은 주부입니다
+P0 	: 직장인이세요?
+P1 	: 저는 대학생이에요
+P0 	: 아 그럼 알바는 해보셨어요?
+P1 	: 알바는 못해봤고 친구들 알바하는건 자주 봤어요
+P1 	: 요즘엔 키오스크 때문에 사람을 직접 상대 안하더라구요
+P0 	: ㅇㅏ 그럼 주로 무슨 알바를 해요?
+P1 	: 여자애들은 프랜차이즈 음식점에서 많이 일하고
+P1 	: 남자애들은 상하차 다니더라구요
+P0 	: 코시국이라
+	  알바도 제약이 많겠네여ㅠ
+P1 	: 많이 안뽑는다고 하더라구요
+P0 	: 그렇겠네요
+P1 	: 그래도 하는 애들은 꼭 합니다ㅋㅋ
+P0 	: ㅋㅋ좋은 사장님들만
+	  만났으면 좋겠네용
+P1 	: 그러게나 말이에요

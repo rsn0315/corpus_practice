@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100010145
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물 좋아하시나요
+P1 	: 좋아하는데 키우고 있진않아요 키우는 동물 있으신가요?
+P0 	: 저는 고양이 한 마리 키워요
+P1 	: 성공하셨군요..
+P1 	: 어떤 아이인가요?
+P0 	: 아 뭘 그렇게까지... 치즈 냥이에요
+P0 	: 성격이 활발하지는 않고 좀 무덤덤해요
+P1 	: ㅋㅋㅋ
+P1 	: 너무 귀엽겠어요........
+P0 	: 맞아요 귀여워요
+P1 	: 어떻게 만나게 되셨나요??
+P0 	: 겨울에 집에서 감자 먹고 있는데 고양이가 너무 울어대서 나갔어요 한 8시간 울었던 것 같아요 어미가 찾아오겠지 했는데 안 찾아와서 데리고 들어왔어요
+P1 	: 와 우연히 만나게 되셨군요 어쩌다가 혼자 있었을까요
+P1 	: &name1&님 만나서 다행이에요 서로 복이 되어주는 관계일 것 같아요ㅎㅎ
+P0 	: 저도 그게 너무 궁금해요 그래서 말이 통한다면 물어보고 싶어요ㅎㅎ
+P0 	: &name2&님은 고슴도치한테 물어보고 싶었던 거 있어요?
+P1 	: 고숨도치요??@?
+P0 	: 아앗.. 다른분과 헷갈렸어요
+P0 	: 죄송합니다

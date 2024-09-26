@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100003727
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 혹시 집안일에 적극적이신가요?
+P1 	: 네 근데 해도해도 티가 안나네요ㅠ
+P0 	: 저는 자취하느라 제가 다 하는데 집안일 쉽지않아요ㅠㅠ
+P1 	: 그쵸 매일매일 쓸고 닦는거 너무 귀찮아요ㅎㅎ
+P0 	: 저는 설거지가 너무 귀찮더라고요 흑흑
+P0 	: 매일 해야해서요ㅠㅠ
+P0 	: 무슨 집안일을 가장 싫어하세요?
+P1 	: 저도 설거지..그리고 욕실청소ㅠㅠ
+P1 	: 한번 놓치면 진짜 보기싫어져서
+P0 	: 헉 욕실청소도 힘들죠
+P0 	: 부모님이랑 같이 지내시나요?
+P1 	: 넹 본가로 들어왔는데 일은 안줄어드네요ㅋㅋ
+P0 	: 그쵸 ㅎㅎㅎ
+P0 	: 집이 넓을 수록 집안일이 더 힘들 것 같아요
+P1 	: 그니까요ㅎㅎ 이제 계절바뀌면 이불이랑 다 대청소 하자고 하시는데 벌써 귀찮음요ㅠ
+P0 	: 악 벌써힘들어요ㅠㅠㅠ
+P0 	: 이불 빨래 발로 하면 너무 힘든데ㅠㅠ
+P1 	: 다행히 저희는 맡기는데 그것도 일이라..ㅠㅠ
+P0 	: 다행이네요 ㅎㅎ

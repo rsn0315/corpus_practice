@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100000341
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: &name2& 점심메뉴머야
+P1 	: &name1&야
+P1 	: 오늘 반차쓰고 퇴근하고
+P1 	: &name3&이랑 데이트했어
+P0 	: 와  잘했네
+P0 	: 역시 좋은 직장이로다
+P0 	: 너 연가 며칠이나 있어?
+P1 	: 일년에 15일밖에 없어
+P0 	: 매년 똑같애??
+P1 	: 아니 근속년수 늘면 같이 늘어나
+P0 	: 좋네.. 나는 올해 12일뿐이 없어
+P1 	: 첫해라 그렇겠지 곧 늘어날거야
+P1 	: 월차는 없어?
+P0 	: 없어 연차야
+P0 	: 공무원음 노동자의 지위가 아니라 그런건없지
+	  .
+P1 	: 아하
+P1 	: 그건 좀 서글프네
+P0 	: 출근했어??
+P0 	: 나오늘 두시간 조퇴쓸까 생각중이야 ㅋㅋㅋ
+P1 	: 응 왜 무슨일 있어?
+P0 	: 아니 그냥 일찍 집에 가고 싶어 ㅋㅋㅋㅋㅋ
+P1 	: 그럼 그런날이 있지
+P1 	: 이해해

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100032036
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그건 그래요 하루종일 먹으니까요
+P0 	: 오늘 아침은 만족스럽 신나요
+P1 	: 지금 카페에서 1900원짜리 아메리카노 먹고 있어요
+P0 	: 커피는 한잔 드셨나요
+P1 	: 아침에는 조금 멍한 상태로 먹었어요
+P0 	: 오 아메리카노 만드시나요 다른 것도 같이 먹고 있나요
+P1 	: 하루를 시작하는 기분이지요
+P1 	: 아침 먹고 왔으니까 커피만 시켰어요
+P0 	: 거기에서도 음성인식으로 하고 있나요 다른 사람들이 이상하게 보지는 않나요
+P0 	: 아 평소에는 그럼 아침을 안 먹고 가는 건가요
+P1 	: 하고 있는데 카페에 사람이 없어서 다행이에요
+P1 	: 옆에 남편이 한 번씩 쳐다 보내요
+P0 	: 맞아요 음성인식으로 해야 편하거든요 커피 맛있나 보네요 완전 장 꼴이네요
+P1 	: 괜찮아요 저런 갑다 하고 생각하겠죠
+P0 	: 단골
+P1 	: 단골인데 서비스는 없네요
+P0 	: 거기에는 매일 매일 가는 건가요
+P0 	: 커피는 얼만큼 하셨나요

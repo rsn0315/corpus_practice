@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042312
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 제주
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 그러니까요ㅠㅠ
+P0 	: 그러고보니 곧 추석인데 명절 상여금? 받으시겠어요
+P1 	: 어... 없을걸요?
+P1 	: 제가 일반 직장인은 아녜요ㅎㅎ
+P0 	: 아항...저도 인턴이라...ㅎㅎ
+P1 	: 전 대학원 연구실에서 일?하는 박사 연구원이라 급여도 사실 최저도 아님요...ㅠㅠ
+P0 	: 박사 ㅇ0ㅇ!! 석사까지는 건너건너 봤는데 박사는 처음이에요
+P0 	: 석사도 갈리던데 박사도 많이 갈리는군요ㅠㅠ
+P1 	: ㅋㅋ.... ㅋㅋㅋ 네... 아무래도 갈립니다...
+P0 	: 아앗....힘내세요.. 설마 지금도 연구실이신 건 아니시죠?
+P1 	: 어... 한 5분전에 퇴근함요...
+P0 	: 어... 조심히 들어가시구요... 거기는 비 안 오나요?
+P1 	: 와요.
+P1 	: 엄청 많이는 아니지만, 아까부터 와서 길이 어떨지 모르겠네요
+P0 	: 아이고... 미끌어지지 않게 조심하세요
+P1 	: 네.
+P1 	: &name1&님은 직장인이세요?
+P0 	: 정직원은 아니고 인턴이에요

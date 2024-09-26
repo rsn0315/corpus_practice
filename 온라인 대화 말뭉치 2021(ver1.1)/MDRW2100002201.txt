@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100002201
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 영양제 먹는거있나
+P0 	: 자세도 바르지않아서 허리도 좀 아프다. 너는 어때?
+P0 	: 앞에 보낸거 나쁜말이래..
+P0 	: 나는 비타민젤리 먹고 유산균 가끔!
+P0 	: 너는?
+P1 	: 나는 아직 챙겨먹는게 없어
+P1 	: 허리건강 중요하지!!
+P1 	: 오래 앉아있으려면 미리미리 챙겨야해
+P0 	: 맞아
+P0 	: 무릎건강도 챙겨야 해
+P0 	: 요새 가끔 무릎도 아프더라
+P1 	: 아 진짜 나 예전에 공부할때
+P1 	: 엄청 고생했잖아
+P0 	: 거북목도 안되게 조심해.
+P1 	: 발받침대 쓰고있니
+P0 	: 거북이가 되어 바다로 도ㄹ아가버리면 곤란하잖니.
+P1 	: ㅠㅠ스트레칭 꼭 하자
+P0 	: 발받침대는 안써. 내 방에서는 책을 밟고있지만 오빠방에서는 책상다리 위에 발을 올리고 있어.
+P0 	: 좋아. 건강을 위해 운동도 해보자.
+P0 	: 나는 다음주부터 운동을 할 거야.
+P1 	: 아 그럼 그게 발받침대지뭐
+P1 	: 오 어떤운동?
+P0 	: 백신 대비 운동이야.
+P0 	: 링피트지.
+P1 	: 2차 맞기전 대비?
+P0 	: 응 너무 아플까봐
+P0 	: 걱정이되네.
+P1 	: 근데 건강하면 더 아프다는 소문도 있던데

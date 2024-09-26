@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013328
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 여행지가 있으신가요?
+P1 	: 저는 힐링되고 눈이 즐거운 곳이 좋은 것같아요
+P1 	: &name1&은요?
+P0 	: 저는 바다나 계곡처럼 물이 있는 곳을 좋아해요
+P1 	: 오오 국내에서 추천하실만한 여행지 있나요?
+P0 	: 강원도 폭포민박? 근처 계곡이 깊어서 좋았어요
+P1 	: 우와 조금만 들었는데 가보고 싶어요
+P1 	: 저는 수영 못해서 튜브 들고 가야겠어요ㅋㅋㅋ
+P0 	: 민박 바로 앞은 아이들이 놀기 좋고 산길을 따라 조금 가면 깊은 곳이 나와요!
+P1 	: 여름에 가면 시원하고 좋을 것같아요
+P1 	: 해외여행 가보신 적있나요?
+P0 	: 코로나 전에는 몇 번 가봤어요
+P1 	: 어디가 제일 좋으셨나용?
+P0 	: 풍경은 말레이시아 코타키나발루가 가장 좋았어오
+P1 	: 오! 저도 코타키나발루 가봤어요
+P1 	: 이색적이면서 어딘가 친근한면이 많았던 나라같아요
+P1 	: 풍경도 시원하고 좋았구요
+P0 	: 맞아요! 저는 바다에서 스노쿨링했었어요ㅎㅎ

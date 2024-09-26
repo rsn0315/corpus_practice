@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100017351
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 구피는 잘 살고 있나요?
+P1 	: 응 네 아빠가 잘 돌보고 계신다
+P0 	: 아빠가 정성이시네요
+P1 	: 생명이잖니.. 성경에서도 생명은 소중히 하라고 했으니까
+P0 	: 네 생명을 함부로 다루면 안되지요
+P1 	: 요즘 여름이라 그런지 작은 구피들도 많이 생겼어
+P0 	: 역시 열대어네요
+P1 	: 물 갈아줄때 조그만한 구피 놓칠까봐 우리 둘이서 안경쓰고 건진다고
+P0 	: 아이구 한마리도 농치지 않으려는 노력
+P1 	: 그럼.. 아기들도 잘 키워야지
+P0 	: 그래서 지금 몇마리에오?
+P1 	: 거의 100마리 됐을걸?
+P0 	: 헐 벌써 ㅋㅋㅋ

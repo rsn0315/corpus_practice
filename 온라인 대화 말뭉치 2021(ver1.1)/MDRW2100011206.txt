@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100011206
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기능원 및 관련 기능 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+	  직장인 이신가요 ?
+P0 	: 아니요 직장 다니시나요 ㅎㅎ
+P1 	: 네 전 직장인 입니다
+P1 	: 아직 취준생 인가요 ?
+P0 	: 계약직 다니다가 현재는 고용센터에서 이것저것 알아보고있어요
+P0 	: 어떤 일을 하고 계세요
+P1 	: 조그마한 의약제조 조중소기업 다닙니다
+P0 	: 저는 한번도 제대로된 회사 생활은 안해봐서요 요새 고민이 많아요
+P1 	: 코로나19로 인해 취업이 많이 힘들어졌죠
+P0 	: 그동안은 학교에서 계약직으로 일했었거든요. 아무래도 회사랑은 다른지라
+P1 	: 학교는 그렇겠네요
+P0 	: 더 늦기전에 아예 새로운 자격증이나 분야를 알아봐야하나 싶어요ㅜ
+P1 	: 글쎄요 뭐라고 해야 좋을지 ....
+P0 	: 음 지금 다니시는 회사는 다니신지 오래되셨나요?
+P1 	: 7년정도 되었답니다

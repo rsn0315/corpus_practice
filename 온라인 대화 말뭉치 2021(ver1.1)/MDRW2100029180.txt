@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100029180
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사하셨나요?
+P1 	: 넵 저녁은 서브웨이 먹었어요
+P0 	: 아 좋지요  샌드위치죠?
+P0 	: 무슨맛드셨어요?
+P1 	: 넵 다이어트하느라 토핑은 이것저것 못 넣지만 맛있게 먹었어요
+P1 	: 로티셰리 치킨이었나? 그럴거에요
+P0 	: 네 저는 전복죽 먹었어요
+P0 	: 치킨좋죠^^
+P1 	: 전복죽! 맛있겠어요
+P1 	: 직접 끓이셨나요?
+P0 	: 서브웨이 샐러드도 드셔보셨나요?
+P0 	: 어머니께서 요리해주셨어요
+P1 	: 샐러드는 잘 안먹게 되는 것 같아요
+P0 	: 저녁으로 양이 부족하지않으셔요?
+P0 	: 샌드위치는 간식같아요
+P1 	: 다이어트하려면 은근히 영양소 든든하게 챙겨야해서
+P0 	: 채소 좋죠!
+P1 	: 풀떼기로는 기력이 없더라구요
+P0 	: 고기를 넣어야 맛있지요
+P0 	: 과일은 좋아하시나요?

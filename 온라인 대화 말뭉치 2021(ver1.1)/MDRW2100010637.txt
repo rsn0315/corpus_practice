@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100010637
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 오늘 적금 10만원짜리 하나 들었어
+P0 	: 왜 이벤트 해?
+P1 	: 아니고.. 내년에 어머님 칠순 있잖아 ㅎ
+P0 	: 아.. 미리 대비?
+P1 	: 용돈으로 100정도에 식사나 여행가면 더 필요하니까
+P0 	: 적금 10만원 정도면 적당하네
+P1 	: ㅇㅇ 120만원에 회사에서 나오는 거 보태면 충분할 듯
+P0 	: 적금 자동이체 해놨어? ㅎㅎ
+P1 	: ㅇㅇ 매달 내려면 헷갈리니까
+P0 	: 잘했네
+P1 	: 요즘 금리 진짜 낮더라
+P0 	: 시중금리가 0.5니 뭐...
+P1 	: 적금도 1.5프로야 너무 짜

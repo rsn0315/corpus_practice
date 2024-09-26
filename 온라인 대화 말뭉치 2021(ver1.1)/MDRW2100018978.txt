@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100018978
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건이 있나요?
+P1 	: 네비게이션이요 &name1&님은요
+P0 	: 전 버킷햇 샀어요!
+P0 	: 적립금 모아서 절약해서 샀답니다
+P1 	: 버킷햇이 모에요?
+P0 	: 챙이 넓은 모자에요!!
+P0 	: 운동할때 쓰려고 샀어요 ㅎㅎ
+P1 	: 아!! 적립금 모아 사면 뿌듯ㅎㅏ죠.
+P0 	: 맞아요! 실결제 0원이면 더 좋았을텐데 ㅎㅎ
+P0 	: 근데 좀 안어울리는거같아서 실망이에요
+P1 	: 그렇게 절약한게 어디에요~~
+	  예쁜 모자 쓰고 운동 다니심 기분 좋을 거 같아요
+P0 	: 얼른 새모자 쓰고 운동해야하는데 날씨가 도움을 안주네요
+P1 	: 9월에 비가 안 오겠죠..
+	  중고거래 해보신 적 있나요?
+P0 	: 네! 당근마켓 몇 번 해봤어요! &name2&님은요?
+P1 	: 전 중고 카페에서 옷 산 적있는데 구매만 해봤어요
+P1 	: 판매도 해보셨나요?
+P0 	: 네! 당근에 새 물건인데 저에겐 필요없는 물건 판매했어요
+P0 	: 텀블러, 블루투스마이크 등 자잘한 물건들이요 ㅎㅎ
+P1 	: 우와.. 직접 물건 파는건  제 성격상 못할거 같어요
+P0 	: ㅎㅎ요즘은 코로나라 비대면으로 많이 팔아서 괜찮더라구요!
+P1 	: 택배 발송하나요?
+P0 	: 아뇨 물건보관함같은 거 이용했어요!!

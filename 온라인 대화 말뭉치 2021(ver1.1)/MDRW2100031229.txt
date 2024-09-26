@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031229
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 소득이 늘어날 때까지 돈 걱정만 하면서 행복을 뒤로 미룰 셈인가요
+P0 	: 그건 아니구요
+P1 	: 소득이 오르면 저절로 행복해질 거라고 생각하나요
+P0 	: 그건 조금 그래요
+P1 	: 그렇지는 않을 거예요
+P0 	: 왜요
+P1 	: 왜냐하면 그 때가 되면 그보다 더 많은 소득을 갈망하게 될 테니까요
+P0 	: 그것도 그렇네요
+P1 	: 그냥 지금의 소득에 감사한 마음을 갖고 하루하루를 행복하게 사세요
+P0 	: 그렇다면 어떻게 하면 현재에 일에 대해서 불만을 없애고 감사한 마음을 가질 수 있을까요
+P1 	: 진정으로 지금 하고 있는 일에 대해 감사한 마음을 갖기 위해서는 지금보다 더 돈을 많이 벌어야 된다는 인식을 바꿔야 합니다
+P0 	: 쉽지는 않을 것 같아요
+P1 	: 그렇지 않으면 아무리 많이 벌더라도 소독에 대해 진정으로 감사한 마음이 생기지 않을 거예요
+P1 	: 요새 일자리가 없어서 걱정이에요

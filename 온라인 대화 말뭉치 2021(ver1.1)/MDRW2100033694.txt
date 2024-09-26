@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100033694
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 쇼핑하실 때 어떤 방법으로 주로 할인을 받으시나요?
+P1 	: 전 최저가로 찾아봐요ㅋㅋㅋㅋㅋㅋ
+P0 	: 저는 요즘 네이버페이로 결제하는데 맛이 들렸어요ㅋㅋ
+P1 	: 아ㅋㅋㅋㅋㅋ 네페가
+P1 	: 포인트도 쌓이고 좋더라구요
+P0 	: 저는 시리즈랑 웹툰 많이 이용해서 포인트로 쿠키 구워요ㅋㅋ
+P1 	: 오홍 ... 쿠키가 그 웹툰 보는겅가요,
+P0 	: 네네! 소설이랑 웹툰, 만화를 결제하는 수단으로 사용돼요
+P1 	: 역시 네이버페이 좋네유
+P0 	: 그래서 사야하는게 생기면 일단 네이버에서 검색해보게 돼요ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ 저도 그렇긴해요
+P1 	: 네이버가 필수에요
+P0 	: 비슷한 가격이면 네이버페이로 구매하고 좀 더 할인되는 게 있으면 그 방법으로 구매하는게 이득이죠ㅋㅋ
+P1 	: 맞아요 !! 그 멤버십데이? 그거 노려서요
+P0 	: 멤버십데이 쏠쏠하죠

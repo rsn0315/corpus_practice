@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003549
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 딸~ 어제 바이러스 영화 제목이 뭔가?
+P0 	: 컨테이져 이요~
+P1 	: 그거 넷플릭스에 있어?
+P0 	: 어.. 있을수도 있고 없을수도 잇고~
+P0 	: 어?! 넷플릭스에 없네요..
+P1 	: 그래? 아쉽네
+P0 	: 그거랑 비슷한 '인베이젼'은 있는데
+P0 	: 이건 외계인이 나오는 거라서... 그닥
+P1 	: 외계인은 별로..
+P0 	: 스토리도 좀 별로에요..
+P0 	: 컨테이젼은 괜찮은 영화인데
+P1 	: 나중에 또 나오겠지
+P1 	: 그때 보면 되~
+P0 	: 그거 나온지 꽤 되서 넷플릭스에 있을 줄 알았는데
+P0 	: 없네요..
+P1 	: 다른 거 보면 되
+P0 	: 찾아보면 다른 거 많을 거에요~

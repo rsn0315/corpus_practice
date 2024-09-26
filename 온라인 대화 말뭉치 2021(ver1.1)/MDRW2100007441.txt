@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100007441
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 단순 노무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 학생이세요?
+P1 	: 아니요 ㅋㅋㅋ근데 제가 학교다니던때 얘기하면될거같아욧
+P0 	: 아 졸업하신거예요?
+P0 	: 학교다닐때 동아리 활동 해보셨어요?
+P1 	: 아니여 ㅜㅜ 제대로해본느낌이 드는건 없네요 그냥 영화감상만 했어요
+P0 	: 전공이 뭐였나요?
+P1 	: 저 인문계고 나와서 전문대를 가니까 아무것도없던데요..
+P0 	: 전문대도 전공은 있자나요
+P1 	: 유아교육과갔다가 안맞아서 팅겨나오고
+P1 	: 자퇴하려고했는데 경영으로옮겨서 졸업은했어요
+P1 	: &name1&님은요?
+P0 	: 아 전공선택이 중요하긴 하죠
+P0 	: 전 공대나와서
+P1 	: 저는 수포자라 공대가기가 좀 두려웠어요
+P1 	: 유아교육과도 힘든줄알았으면 공대로 가보는건데
+P0 	: 애기 좋아하지않음 유아교육과는 힘들듯요
+P0 	: 전 시험스트레스가 넘심했어요
+P1 	: 시험문제가 어려울거같아요
+P0 	: 그니까 시험이겠죠
+P0 	: 요즘은 코로나로 학교도 못가던데 그래도 저희때가 좋은거같네요
+P1 	: 그만큼 졸업학점이 줄었던데요
+P1 	: 허들을 낮춘듯
+P0 	: 아그래요?
+P0 	: 학교를 못가니 등록금은 내야되고 요즘학생들보면 안타까워요
+P1 	: 등록금은 낮춰야될텐데..ㅋㅋㅋㅋ

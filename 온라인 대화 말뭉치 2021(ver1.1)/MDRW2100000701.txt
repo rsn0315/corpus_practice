@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100000701
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~ 최근 도쿄올림픽 경기 보셨나요?
+P1 	: 네~ 너무재밌게 잘봤어용
+P0 	: 저도 경기 있는 날마다 시간가는줄 모르고 재밌게 봤답니다!
+P0 	: 어느 종목을 재밌게 보셨나요?
+P1 	: 배구요~ ㅎㅎ
+P0 	: 저도요!!!!
+P0 	: 몇년전에 배구 재밌게 보다가 시들해졌는데
+P0 	: 올림픽 이후에 제대로 빠졌어요
+P1 	: 그러니까요~ ㅎㅎ 정말 준결승까지 가다니 대단한것 같아요
+P0 	: 맞아요
+P0 	: 김연경 선수 정말 잘하더라구요
+P1 	: 정말 멋짐!!
+P0 	: 올림픽에서 다시 볼 수 없어서 아쉽네요!
+P1 	: 그러니까요ㅠ그래도 우리나라 출전하려고 연봉도 훨 적게받고
+P0 	: 맞아요 여러모로 정말 대단한 선수 같아요
+P0 	: &name2&님은 스포츠 경기 관람하러 가신 적 있으신가요?
+P1 	: 백년에 나올까말까한 선수래요.
+P1 	: 예전에야구요
+P1 	: 한번ㅋ
+P1 	: 치킨뜯다가 온것같아요ㅋㅋ
+P0 	: 오 저 야구 경기 한 번 보러 가보고싶은데
+P0 	: 별로셨나요?
+P1 	: 너무 어릴때라ㅋㅋ 룰도모르고 ㅎ 사실지금도 잘모른답니다

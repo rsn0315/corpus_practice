@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100046229
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211017
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕 &name2&야
+P1 	: 안녕하세요 :)
+P1 	: &name1&님 주말 잘 보내고 계신가요?
+P0 	: ㅇㅇ 잘 지내고 있지
+P0 	: 점심은 먹었니?
+P1 	: 저는 아직 안 먹었는데 이제 곧 먹으려구요!
+P1 	: &name1&님은 점심식사 하셨나요? ㅎㅎ
+P0 	: 주말인데 맛있는 걸로 먹어ㅎㅎ
+P0 	: 난 아직 안먹었어
+P0 	: 아침을 너무 늦게 먹어서
+P1 	: 앗 그렇군요..! 아침 메뉴는 뭘로 드셨나요~?
+P0 	: 간단하게 떡이랑 커피 먹었어
+P0 	: 난 떡을 좋아하거든~ &name2&는 어떤 음식 좋아해?
+P1 	: 달달한 거로 드셨군요 ㅎㅎ 저도 떡 좋아해요! 떡 중에는 백설기가 제일 맛있는 것 같아요 ㅎㅎ
+P1 	: &name1&님은 어떤 떡을 가장 좋아하세요??
+P0 	: 나도 백설기 좋아하는데 ㅎㅎ 담백해서 좋아
+P0 	: 그리고 팥이 많이 들어간 수수팥떡도
+P1 	: 오 수수팥떡도 맛있을 것 같아요! 그리고 팥 들어간 것 중에는 찹쌀떡도 맛있는 것 같아요 ㅎㅎ
+P1 	: &name1&님 그럼 점심은 어떤 메뉴로 드실 예정인가요? ㅎㅎ
+P0 	: 미역국이랑 동그랑땡 먹으려고 ㅎㅎ 한마디로 집밥
+P1 	: 우와 동그랑땡이랑 미역국이라니 ㅎㅎ 소소하게 맛있는 음식들이네요~! &name1&님도 주말 점심 맛있게 드세요 ㅎㅎㅎ

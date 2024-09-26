@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041409
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 이상형 있으세요1
+P1 	: ?
+P0 	: 저는 귀여운 사람이요
+P0 	: &name2&은요?
+P1 	: 저는 말 잘듣는 사람이요 ㅎ
+P0 	: ㅋㅋㅋㅋ왜요?
+P1 	: ㅋㅋ 말 안듣는 사람만 만나서 그런가봐요
+P0 	: 뭔가 고분고분한 성격 좋아하시나봐요
+P1 	: 네네 ㅎㅎ 고집있는거 싫어해용
+P1 	: &name1&님은 외모가 귀여운걸 좋아하시나여?
+P0 	: 아니 사실 얼굴은 조금 날카로운 상을 좋아하는 것 같은데 성격이 귀여운 걸 좋아하는 것 같아요ㅋㅋㅋ
+P1 	: 아하ㅋㅋ그러시구낭
+P1 	: 저는 키큰사람이 좋아요ㅎ웃을때 개구지게 웃ㄱ는것도 좋아하는거같아요
+P0 	: 그럼 연예인으로 예를 들어주신다면 누구인가요?
+P1 	: ㅋㅋ어....
+P1 	: 음
+P1 	: 아시려나 문빈이요
+P0 	: 오 문빈이 그런스타일이군요
+P1 	: ㅋㅋ네네 그냥 외형적인게 그러더라고요

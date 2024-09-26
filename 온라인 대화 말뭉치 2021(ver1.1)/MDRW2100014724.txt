@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100014724
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 왜?
+P0 	: 올해 여름에 너무 더워서 에어컨을 자비로 설치했는데
+P1 	: 훌.. 에어컨 없는 아파트구나
+P0 	: ㅇㅇ 근데 전기세를 경비원한테 청구했다네
+P1 	: 와.. 진짜 너무했다
+P0 	: 그것도 한달 15만원이나 청구했데
+P1 	: 경비실 작아서 벽걸이 설치했을텐데 무슨 15만원이나 ㅠ
+P0 	: 보통은 주민들이 아저씨들 힘들까봐 설치해주는데..
+P1 	: 그러게 말야.. 야박하네
+P0 	: 30년 넘은 아파트라 전기세 나오는 거에 예민해서 그렇다던데 다 핑계지
+P1 	: 못됐다 진짜.. 아저씨들이 덜 힘들어야 아파트 위해서 열심히 일하지
+P0 	: 그러게 말야. 이런 뉴스보면 참 씁쓸해
+P1 	: 경비실에 에어컨 설치 의무적으로 해야해.. 안에 진짜 찜통이야

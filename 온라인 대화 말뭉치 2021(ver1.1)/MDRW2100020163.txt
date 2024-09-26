@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100020163
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 아까 영화보니까 이탈리아 가고싶다
+P1 	: 난 유럽 경치 예쁜것 같아
+P0 	: 유럽 진짜 예뻐
+P1 	: 나도 가보고 싶다
+P0 	: 진짜 명화에서 본 그 느낌이야 딱
+P1 	: 그러니까 되게 말로 표현 할 수 없는 그게 있는거 같아
+P0 	: 맞아 말로 다 표현이 안되지
+P1 	: 난 한 번도 못 가봐서 ㅠㅜ
+P0 	: 코로나 끝나면 가봐
+P1 	: 코로나 언제 끝나 ㅠ
+P0 	: 그러니까 말이야
+P1 	: 끝나야 갈텐데
+P0 	: 근데 요즘 유럽 유관중 경기하지 않아?
+P1 	: 응 맞아
+P0 	: 거기는 좀 괜찮아진건가?
+P1 	: 요즘 친구들이랑 여행 가고 싶어

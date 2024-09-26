@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100046257
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P1 	: 달고나 만들어 보셨나요?
+P0 	: 아니요..
+P1 	: 요즘 오징어게임으로 유행하더라구요 ㅎㅎ
+P0 	: 한번 해보면 재밌을 것 같긴 해요 ㅎㅎ
+P1 	: 재미있어요!
+P1 	: 저는 도구가 없어서 집에서 냄비로 만들어봤는데 의외로 잘만들어졌어요 ㅎㅎ
+P0 	: 근데 집에서 냄비로 만들면 냄비가 망가지지 않을까요?
+P1 	: 저도 그 부분을 걱정했거든요?!
+P1 	: 근데 그게 설탕이라서 물 부어놓으니까 바로 녹더라구요
+P1 	: 신기하죠 ㅎㅎ
+P0 	: 오 신기하네요 저도 한번 해봐야겠어요
+P1 	: 네 ㅎㅎ 집에서 무료할때 한번 도전해보셔요!!
+P0 	: 설탕이랑 베이킹소다만 있으면 가능한가요?
+P1 	: 네네
+P1 	: 유튜브나 네이버에 냄비나 후라이팬으로 달고나 만드는 방법 검색하시면
+P1 	: 여러가지 나와요!
+P0 	: 좋은 정보 감사합니다!
+P1 	: ㅎㅎ 냄비로 만들면 엄청 많아서
+P1 	: 그걸로 달고나 커피 해서 마시면 맛있어요
+P0 	: 궁금한거 물어봐도 되나요?
+P0 	: 가장 최근에 개정된 국어가 뭐가 있을까요?
+P1 	: 요즘엔 우리말 대체어가 많이 생겨나고 있는 듯 해요
+P1 	: {share:url}
+P1 	: 여기 보시면 여러가지 확인해보실 수 있습니다 ㅎㅎ

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100021928
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 해산물은 좋아하세요?
+P0 	: 해산물은 오징어만 좋아해요.. 
+	  나머진 징그러워서
+P1 	: 오 그러시구나
+P1 	: 고기는 물에 빠진 것도 좋아하세요?
+P1 	: 갈비탕이라든지..
+P0 	: 아.. 맛잘알 이시군요...
+P0 	: 탕중의 왕은 갈비탕입죠..  ㅋㅋㅋ
+P0 	: 주로 한식 좋아하시나바여?
+P1 	: 한국에서 파는 건 거의 좋아해요
+P1 	: 한식이 아니어도요
+P0 	: 파스타류나 스테이크도 좋아하시나요?
+P1 	: 아 물론 좋아합니당
+P1 	: 파스타는 오일파스타 제일 좋아해요
+P0 	: 오일파스타는 무맛? 이지 않나여?
+P1 	: 그런가요ㅋㅋㅋ
+P1 	: 저는 오일파스타 먹으면 다른 재료맛이 잘 느껴져서 좋더라구요
+P1 	: 마늘이나 조개나 시금치나..
+P0 	: 아.. 진짜 미식가이시구나..
+P0 	: 맛집도 많이 다니세요?
+P1 	: 기회가 되면요!
+P1 	: 웨이팅을 즐기지는 않아요
+P0 	: 최근엔 맛집 어디 가보셧어요?
+P1 	: 갈치덮밥집에서 좀 기다렸어요...ㅋㅋㅋㅋㅋ

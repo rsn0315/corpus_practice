@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100046922
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211105
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 점심 식사하셨나요~?
+P0 	: 그럼요 뮈드셨어요
+P1 	: 저는 떡볶이 먹었어요! 청년다방 떡볶이 아시나요?
+P0 	: ;;아니요 떡볶이를  안좋아해서요
+P1 	: 아..떡볶이 싫어하시는구나,, 오늘 뭐드셨어요!?
+P0 	: 갈비탕이요ㅋ
+P0 	: 비가오려는지 뜨끈한게 당기더라구요
+P1 	: 아 사실 오늘 칼국수 먹으러 가기로 했는데 갑자기 떡볶이로 변경됐거든요 ㅋㅋㅋ저도 살짝 따끈한게 땡겼는데 말이에요..ㅎㅎ
+P0 	: ㅎㅎ 면 좋아하시나봐요
+P1 	: 맞아요! 쌀밥도 좀 먹어야하는데 매번 점심시간에 밀가루 들어간 음식을 먹네요..ㅎㅎ
+P0 	: 건강챙기세요^^
+P1 	: 그럼요!! 저녁에는 뭐드실건가요?
+P0 	: 글세요 어머님이 해주시는 집밥일거에요
+P1 	: 저도 어머니가 해주는 집밥먹을건데,,맛있는 반찬이 나왔으면 좋겠네요 ㅎㅎ!!!
+P1 	: 오늘 하루도 파이팅하세요!!
+P1 	: {emoji}
+P0 	: 집밥이 최고죠

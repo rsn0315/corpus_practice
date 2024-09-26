@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100020900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책 자주 읽어요?
+P1 	: 웹소설만요 ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 저는 종종 읽는데 주로 책을 사서 봐요
+P0 	: 근데 스마트 도서관이 동네에 생겨서 이젠 대출해서 봐요
+P1 	: 와 전 도서관간지 오래됐어요
+P1 	: 무슨책 좋아하세요?
+P0 	: 아무 생각 없이 읽을 수 있는 거요
+P0 	: 그때 그때 다르긴 한데 한 때 시집 많이 봤어요
+P1 	: 시집 좋죠 좋아하는 작가님이 있나요?
+P0 	: 하상욱 작가님이요 ㅎㅎ
+P0 	: 되게 시를 재치있게 잘 쓰시는 것 같아요
+P1 	: 아 서울시 재밌죠
+P0 	: 서울시요?
+P1 	: 저도 재밌게 봤어요
+P0 	: ㅋㅋㅋ그래서 시집 두개나 샀어요
+P1 	: 책 이름 서울시 아니었나요?
+P0 	: 아 책 다양하게 내놓으셨더라구요
+P1 	: 아 저는 저것만 알아요 ㅎㅎ

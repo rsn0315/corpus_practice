@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100011551
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 글쎄 남은 김밥 재료로 한 번 더 만들까 하는데
+P0 	: 그건 내일 오전에 먹고 다른 거 먹자
+P1 	: 뭐 먹고 싶은 거 있어?
+P0 	: ㅇㅇ 도미노 피자 ㅎㅎ
+P1 	: 오오 맛나지 ㅋㅋ
+P0 	: 오늘 비가 와서 그런가 피자가 땡기네
+P1 	: 나도 그래~ 좀 기름진 게 땡겨
+P0 	: 피자 중엔 도미노가 제일 맛있는 것 같아
+P1 	: ㅇㅇ 요즘 다른 피자집들도 가격이 다 올라서 도미노가 짱임
+P0 	: 알볼로도 좋았는데 가격 너무 많이 올림 ㅠ
+P1 	: ㅇㅇ 같은 가격이면 도미노지
+P0 	: 도우도 토핑도 최고 ㅎㅎ
+P1 	: 난 그럼 저녁 준비 필요없네 아싸 ㅎㅎ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100006673
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 안녕하세요! 떡볶이 좋아하시나요?
+P1 	: 특별히 좋아하지는 않는데
+P1 	: 아내가 좋아해서 자주 먹어요
+P1 	: &name1&님은 좋아하시나요?
+P0 	: 네 즉석떡볶이 너무 맛있죠
+P0 	: &name2&님은 어떤 음식 좋아하시나요?
+P1 	: 고르기 너무 어려워요 좋아하는 음식이 많거든요
+P1 	: &name1&님 요리하세요?
+P0 	: 음...잘 안해먹어요ㅋㅋㅋㅋ
+P0 	: 그냥 햇반에다가 레토르트 음식...ㅋㅋㅋ
+P0 	: &name2&님은 요리하세요?
+P1 	: 가끔 식재료 소비해야할태
+P1 	: 유튜브보고 이것저것 해봐요
+P1 	: 최근에는 두부 유통기한이 지났길래 두부강정 만들었어요
+P0 	: 오오 요즘은 유튜브가 잘 되어있죠
+P0 	: 오 두부강정 맛있죠
+P1 	: 네 영상보고하니까
+P1 	: 따라하기도 편하고 맛도 괜찮았어요
+P1 	: 카페는 자주 가시나요?
+P0 	: 커피없으면 좀비라서요ㅋㅋ
+P0 	: 혈관에 커피가 흐릅니다ㅠㅠ
+P1 	: 저도 하루에 한잔씩은 꼭 마셔요
+P1 	: 회사에 네스프레소 머신 있어서 매일 아침마다 한잔씩 아메리카노 내려먹어요
+P0 	: 오 머신도 요즘 잘 나왔더라고요
+P1 	: 카페도 자주 가시나요?
+P0 	: 그래도 빈속에는 피하세요
+P0 	: 네 기본 아메리카노 사러 매일 갑니다

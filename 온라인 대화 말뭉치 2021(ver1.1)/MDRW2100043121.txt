@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100043121
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심 식사는 하셨어요?
+P1 	: 감자채볶음이랑 가지볶음 해서 먹었어요
+P0 	: 제가 좋아하는 반찬들이네요:)
+P0 	: 아이도 잘 먹나요?
+P1 	: 다들 잘 먹어요
+P1 	: &name1&님도 나물 반찬 이런거 좋아하나요?
+P0 	: 네:) 좋아하는데
+	  나물은 아직도 어려워서
+	  엄마가 해주시는거 먹어용
+P1 	: 그렇군요 전 나물요리를 즐겨해서요
+P1 	: 자주 해먹어요
+P0 	: 비빔밥도 해드세요?
+P1 	: 그럼요 한번에 여러나물 하는 경우가 있다보니
+P1 	: 종종 비벼먹죠
+P0 	: 맛있겠네요:)
+	  반숙후라이 하나 얹어서
+	  쓱쓱 비벼먹음ㅋㅋ
+P1 	: 그렇죠
+P1 	: 나물은 하나하나 먹어도 맛있지만
+P1 	: 그렇게 비벼먹어도 참 맛있어요
+P0 	: 맞아요:)
+	  저도 비빔밥 먹고싶네요
+P1 	: 한식이 참 맛있는게 많은 거 같아요
+P1 	: 내가 한국인이라 그런지 모르겠지만
+P0 	: 저도 한식 너무 좋아요:){emoji:♡}

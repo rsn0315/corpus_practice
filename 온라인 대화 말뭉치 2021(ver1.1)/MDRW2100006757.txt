@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100006757
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 기억에 남는 여행지 있으신가요??
+P1 	: 네 저는 파리요
+P0 	: 우와 파리 가보셨구나
+P0 	: 저도 한 번 가보고 싶네요 ㅠㅠ
+P1 	: 어디 기억에 남으세요?
+P0 	: 저 아일랜드 좋았어요
+P0 	: 딱히 관광지로 유명한 곳은 아닌데
+P0 	: 그래서 조용하고 사람들도 친절하고 좋았던거 같아요
+P1 	: 와 진짜 특이하네요
+P1 	: 영국 거처 가나요?
+P0 	: 네
+P0 	: 영국 아일랜드 이탈리아 이렇게 갔어요
+P0 	: 사실 저는 프랑스도 가보고 싶었는데 일정이 안 맞아서...
+P1 	: 이탈리아까지 횡단코스
+P1 	: 멋지시네요
+P0 	: 파리는 어떻게 가시게 된거에요?
+P1 	: 그냥 가고싶어서요ㅋ 에펠탑이 궁금
+P1 	: 아일랜드도 정통 영어인가요?
+P0 	: 에펠탑 실제로 보면 어때요??
+P0 	: 생각보다 엄청 크다는데..
+P0 	: 아 아일랜드어도 따로 있는데
+P0 	: 대부분 그냥 영어 쓰시더라고요
+P1 	: 에펠탑 진짜 커요
+P1 	: 진짜진짜ㅋㅋ
+P0 	: 파리도 나중에 꼭 가봐야겠어요
+P0 	: 일단 코로나 끝나면..
+P0 	: 혹시 다른 유럽 국가들도 가보셨나요??
+P1 	: 네 체코요
+P0 	: 오 동유럽쪽 가신 분은 많이 못 본거 같네요
+P0 	: 분위기가 어떻던가요??

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100023125
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 런닝머신이요??
+P0 	: 아니요... 개울가? 같은거요..
+P0 	: 청계천 같은게 집근처에 잌ㅅ어서요
+P1 	: 오 청계천 좋다던데 한 번도 안가봤어요
+P0 	: 오늘 같이 선선한날이면 사람 바글바글하죠...
+	  경기도권이면.. 왠만한 동네는 다 하천변 정비해놓지 않았나요?
+P1 	: 우리도 있죠 하천..
+	  근데 시내라서 집에서 좀 멀어서
+	  안가지더라구요
+P0 	: 맞아요.. 무조건 도보가능해야.. 나가게 되더라구요. 
+	  집근처가 최고
+P1 	: 창문 열어놓으니 시원해서 좋네요~
+P0 	: 그러게요... 하루하루가 날씨가 변하네요..
+P0 	: 제발.. 제발.. ㅋㅋㅋ 비만오지 말아다오.. ㅋㅋ
+P1 	: 여긴 안 올거 같은데 일기예보 봐아겠어요
+P1 	: 좋은 아침 !
+	  비 안오고 안개 끼고 흐리네요.
+P0 	: 내일부터 이틀동안 계속비라.. 
+	  오늘 빨래 다 해서 널어 놨더니..
+	  엄청 습하네요..
+P1 	: 빨래 잘 안 마를텐데..집안이 꿉꿉하겠네요
+P0 	: 아.. 오피스텔이라.. 베란다가 엄서요..
+P0 	: 근데 오늘이 마지막 찬스에요.. 
+	  낼부터 또 비 오지게 와요..
+P1 	: 여기도 화 수 목까지 강수확률 80%나 되네요...

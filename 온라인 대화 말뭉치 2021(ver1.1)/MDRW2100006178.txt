@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100006178
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name1&
+P0 	: 좋아하는 작가 있으세요?
+P1 	: 안녕하세요!
+P1 	: 저는 요즘 책을 읽은지 꽤 되어서...ㅜㅜ딱히 없네요ㅜ
+P1 	: &name1&은요?
+P0 	: 저도 최근엔 읽은게 없는데
+P0 	: 베르나르 좋아해요
+P1 	: 아 베르나르!
+P1 	: 베르나르 어떤 책 좋아하세요?
+P0 	: 네 개미 좋았어요:)
+P1 	: 저도 개미 읽었었는데!
+P1 	: 고등학생때요ㅋㅋ
+P0 	: 와
+P0 	: 저두 고등학생때 읽었어요
+P0 	: 진짜 띠용 맞은듯했어요
+P0 	: 신기해서
+P1 	: ㅋㅋㅋ뭔가 신기하면서 재밌는 새로운타입의 소설이었죠?
+P0 	: 맞아요 완전 독특했어요
+P0 	: 인상깊게 읽은 책 있으세요?^^
+P1 	: 저는...오만과 편견이요!
+P0 	: 아하
+P0 	: 내용이 인상적인가요?^^워낙 명작이지만
+P1 	: 저는 처음에 영화를 보고 너무 재밌길래 책도 읽게된 경우인데
+P1 	: 내용도 재밌고 등장인물들이 매력적이었어요
+P0 	: ㅎㅎ읽어볼게요
+P0 	: 이제 커서 이해가 갈지도..^^
+P1 	: ㅋㅋㅋ영화를 보시고 책읽으시면 더 이해가 잘가요
+P0 	: ㅎㅎ그렇겠네요~~

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100001731
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 어떤 반려동물키우세요?
+P1 	: 저는 금붕어 키우다가 지금은 안 키워요
+P1 	: 동물은 좋아해요
+P0 	: 저는 고양이랑 같이 살아요~ 동물은 다좋은거 같아요
+P1 	: 고양이 좋죠 최근엔 시골가서 강아지랑 놀았어요
+P0 	: 울고양이는 불러도 안오는데ㅠ 강아지는 애교가 많아서 확실히 다를꺼같아요
+P1 	: 간식줄때만 오나요?
+P0 	: 네~ㅋㅋ 본인 먹고싶을때만와여 먹고 다시 원래 본인자리로 가요ㅋㅋㅋㅋㅋ
+P0 	: 안주면 사이렌울려요 웨에에에에엥
+P1 	: 역시 세상에 나쁜 고양이는 없다같은데 나가야겠네요
+P0 	: 제눈엔 귀엽고 사랑스러운데 다른사람들이 봤을땐 호랑이같다고 하더라구요
+P1 	: 털 알러지는 없나요?
+P0 	: 네 다행히 가족모두 알러지는 없어요~
+P1 	: 저도 알러지가 없어서 다행이에요
+P0 	: 혹시 다른 반려동물은 키우실생각 없으신가요?
+P1 	: 가족들이 반대에서 힘들어요
+P0 	: 맞어요 가족들 합의도 중요하죠ㅠ
+	  혹시 키우신다면 강아지파? 고양이파?
+P1 	: 강아지파에요
+P0 	: 가족들 합의하셔서 꼭! 이루시길

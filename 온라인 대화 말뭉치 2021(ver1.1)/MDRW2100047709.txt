@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100047709
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 기억에 남는 여행지가 있나요?
+P1 	: 코로나 전에는 하와이요!!
+P1 	: 휴양도 되고 레저도되고 쇼핑도 되요!
+P1 	: 코로나끝나면 어디가보고싶으세요?
+P0 	: 저는 미국이랑 이탈리아 가고싶어요!
+	  하와이 좋네요! 돌아보고 오려면 일주일이면 될까요?
+P1 	: 길면 길수록 좋죠^^  섬이 여러개라서 본섬만 있어도 일주일 짧아요~~ 미국 이탈리아도 재미있겠어요!
+P0 	: 한달살기를 하와이로 생각해봐야겠네요 ㅎㅎ
+	  하와이에서 어떤 게 제일 좋으셨나요?
+P1 	: 여유있게 서핑한것도 좋았구요 쇼핑한것도 좋았어요 날씨가 좋으니 그냥 거리만 걸어도 좋더라구요~ 한달살기 넘좋겠어요
+P0 	: 서핑 때문에 하와이 가고싶은거였는데, 좋아다고 하셔서 설레네요 ㅎㅎ
+	  코로가 끝나면 어디 가고싶으세요?
+P1 	: 괌이나 하와이 가고싶어요~ 푸르른 바다너무좋아요!
+P0 	: 휴양지 좋아하시는군요!
+P1 	: 네네 ㅎ 늙었.. 나봐요ㅋ
+P0 	: 아니에요ㅠ 우린 늙지 않았어요ㅠㅠ ㅋㅋㅋㅋ
+P0 	: 저도 어디 돌아다니는 것보다 그냥 보면서 쉬는 거 좋아해요

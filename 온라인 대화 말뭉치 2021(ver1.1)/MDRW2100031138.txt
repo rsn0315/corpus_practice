@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100031138
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 길냥이를 한번 키워 보세요
+P0 	: 어떤 종류의 고양이를 좋아하세요
+P1 	: 저는 고등어를 좋아해요
+P0 	: 고양이는 다 귀여워요
+P1 	: 가끔 애교를 부리는 고양이도 있더라고요
+P0 	: 그럼 고양이는 정말 엎어오고 싶죠
+P1 	: 고양이는 털이 많이 빠져요
+P0 	: 그게 가장 큰 단점이에요
+P1 	: 그래도 사랑스러워서 털은 문제가 되지 않아요
+P0 	: 당연히 그럴 거 같네요
+P1 	: 고양이 사료는 어디서 사나요
+P0 	: 인터넷 쇼핑몰에서 대량으로 구입해요
+P0 	: 연어 맛이 인기 좋아요
+P1 	: 고양이는 생선을 좋아하죠

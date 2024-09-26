@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100003019
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 물건 주로 어디서 구매하세요?
+P1 	: 저는 온라인 쇼핑이 좋아요 눈치안봐도 되잖아요
+P1 	: 약간 오프는 교환 환불이런것도 눈치보이고
+P0 	: 맞아요 ㅠ
+P1 	: 괜히 잘못한 기분들고
+P0 	: 매장직원이 막설명해주는것도 약간부담..
+P1 	: 맞아요 안따라왔으면..
+P1 	: 쳐다보지마세요..
+P1 	: 그래서 온라인 이용하게되는거같아요
+P1 	: &name1&님도 온라인을 자주 이용하는 편이신가요?
+P0 	: 네네 저도
+P0 	: 요즘 워낙 온라인 할인율이
+P0 	: 좋아서요
+P1 	: 주로 구매하는 제품은 무엇인가요?
+P1 	: 저는 주로 식료품 사는거같아요
+P0 	: 저두요! 보통은 그렇고
+P1 	: 네네
+P0 	: 필요한 생활용품들요
+P1 	: 생필품도 중요하죠
+P1 	: 확실히 온라인이 저렴하니까
+P0 	: 맞아요 중고거래 해보셨어요?
+P1 	: 음 주로 판매입장이라 구매는 잘..ㅎ

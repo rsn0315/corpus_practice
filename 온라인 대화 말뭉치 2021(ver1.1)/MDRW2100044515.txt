@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100044515
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 건강관리 하고 계신가용
+P1 	: 저는 요즘 영양제 챙겨먹어요!
+P1 	: &name1&님은요?
+P0 	: 저 비타민b 먹어요 &name2&님은 뭐드시나용
+P1 	: 저는 종합비타민이랑 오메가3 먹어요!
+P0 	: &name2&님은 드시면서 효과를 느끼시는 편인가요?
+P1 	: 사실 효과가 느껴질 만큼 길게 먹지 않아서요 ㅋㅋㅋ
+P1 	: 얼마안도ㅒㅅ어요!
+P0 	: 아하ㅋㅋㅋㅋㅋㅋ 시작이 중요한거죠
+P0 	: 저는 잘 체감하지 못해서 그냥 다 끊었다가 선물 받는 바람에 먹고 있어요..ㅋㅋㅋ
+P1 	: 아하 ㅋㅋㅋㅋ꾸준히 먹으먄 언젠가 효과가 있지 않을까요? ㅠ
+P0 	: 아마도 제 생각에는 먹을때는 모르고 나아아중에 몇년 지나야 안먹은 사람과 먹은 사람의 차이가 있지 않을까 싶어요
+P1 	: ㅋㅋㅋ적금 하듯이 먹어야겟네요ㅠ
+P0 	: ㅋㅋㅋㅋㅋ그렇네요? 제가 말해놓고도 몰랐어요ㅋㅋㅋ
+P0 	: 운동은 좋아하세요?
+P1 	: 좋아하지는 않는데...ㅠㅠㅋㅋ큐ㅠㅠ 체력이 안좋아져서
+P1 	: 하려고 노력 중이예요
+P1 	: 운동 좋아하세여?
+P0 	: 운동 시러요..ㅠㅠ 먹는거 좋아요 ㅠㅋㅋㅋㅋㅋ
+P0 	: 어떤 운동하려고 하세요?
+P0 	: 어떤 운동 하려고 하세요? 저는 운동시러요..ㅍ
+P0 	: ㅠ

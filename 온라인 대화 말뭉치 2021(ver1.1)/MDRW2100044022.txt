@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100044022
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 좋아하는 배달음식 있으세요?
+P1 	: 안녕하세요 &name1&님!!
+P1 	: 저는 뼈해장국 좋아해요
+P1 	: 근처에 맛있는 집이 있어서!!
+P0 	: 와
+P0 	: 추천해주실수있나요
+P0 	: 감자탕 짱맛있죠
+P1 	: 맛있어용!!!
+P0 	: 요즘 맨날 비와서 국물 먹고싶어요 ㅋㅋ
+P1 	: 조마루 감자탕인데 지점마다 맛이 다르더라고요
+P1 	: 그쵸?? 저는 어묵탕도 좀 땡겨요
+P0 	: 아아
+P0 	: 들어봤어요
+P0 	: 체인인데 맛이다르다니.. 뽑기운이 필요하군요
+P1 	: ㅋㅋㅋ 지점마다 맛이 다 다르더라고요
+P1 	: 지금 날씨엔 잔치국수도 땡겨요!!
+P0 	: 궁물이 최고에요 ㅎㅎ
+P0 	: 역시한국인인가..
+P1 	: 그쵸 역시 쌀쌀해지면
+P1 	: 들이켜고 싶네요
+P0 	: 벌써 좀 쌀쌀하니 곧 국과 탕의 시기가 오겠어요
+P1 	: 좋아하시는 국 혹시?
+P0 	: 소고깃국이요!
+P1 	: 무 넣은 소고깃국 말씀하시는거져
+P1 	: 와 맛있죠
+P0 	: 네네 ㅎㅎ
+P0 	: 오래 끓여야 맛있는국

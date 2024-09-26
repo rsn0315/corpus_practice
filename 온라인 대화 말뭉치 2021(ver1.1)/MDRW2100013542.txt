@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013542
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요. 식사하셨나요?
+P1 	: 네! 아까 뼈해장국으로 든든하게 먹었어요 ㅎㅎ
+P1 	: &name1&님은 식사 하셨나요?
+P0 	: 너무 맛있었겠어요
+P0 	: 저는 점심에 중식먹었어요
+P1 	: 오 중식도 좋져 어떤 메뉴 드셨어요?
+P0 	: 저 짜장면이랑 탕수육 먹었어요
+P0 	: 탕수육 좋아하시나요,
+P1 	: 헉 완벽한 조합이네요 탕수육 없어서 못 먹죠 ㅋㅋㅋ
+P1 	: 찍먹이세요 부먹이세요?
+P0 	: 헉 저는 가리지않는 막먹입니다
+P0 	: &name2&님은요?
+P1 	: 저는 찍먹이긴한데 막먹이기도 해요 ㅋㅋㅋ
+P1 	: 탕수육은 뭔들이긴해요 ㅋㅋㅋ
+P0 	: 사실 탕수육은 어떻게 먹어도 맛있어요ㅋㅋ
+P0 	: 그럼 찹쌀탕수육 전분탕수육
+P0 	: 어떤거 선호하시나요
+P1 	: 찹쌀 탕수육이요!!
+P0 	: 탕수육은 찹쌀 좋더라구요
+P0 	: 씹을수록 쫀득해서

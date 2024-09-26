@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022456
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 식사하셨나요m
+P0 	: ?
+P1 	: 간단하게 빵 먹었어요
+P1 	: 뭐 드셨나요?
+P0 	: 전 간장계란밥 먹었어요
+P1 	: 맛있겠네요ㅋㅋ
+P1 	: 간단하게 해먹기 좋잖아요
+P0 	: ㅋㅋㅋ그렇죠 맛도 있고
+P1 	: 배달 자주 드시나요?
+P0 	: 네 맨날 먹어요
+P1 	: 자주 먹는 메뉴가 뭐에요?
+P0 	: 치킨 아니면 김치찌개예요
+P1 	: 저두 치킨 자주 먹어요ㅋㅋ
+P1 	: 좋아하는 브랜드 있나요?
+P0 	: 전 그냥 브랜드 없는 치킨먹어서 ㅋㅋ
+P1 	: 전 요새 노랑통닭 자주 시켜먹어요
+P1 	: 후라이드 맛있더라구요
+P0 	: 아 노통ㅋㅋ 노통도 맛나죠

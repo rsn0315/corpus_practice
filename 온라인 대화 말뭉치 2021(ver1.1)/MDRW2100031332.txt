@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100031332
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 단모음
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 저는 전복죽 좋아해요
+P0 	: 헉 전복죽..
+P1 	: 전복죽 안좋아하세요?
+P0 	: 저는 전복 내장색이 좀 꺼려지더라고요
+P1 	: 내장이 제일 고소하고 맛있는건데!
+P0 	: 고소하고 맛있긴 한데
+P1 	: 살짝 참기름맛 같기도 해요 ㅎㅎ
+P0 	: 아 듣고보니 그런것같아욬ㅋㅋ
+P1 	: 님은 무슨죽 좋아하세요?
+P0 	: 저는 닭죽이나 호박죽요!
+P1 	: 호박죽도 맛있죠 새알심 동그랗게 굴려서 넣으면 쫀득하고
+P0 	: 네 맞아요 시판은 좀 많이 달긴해도 맛있어요
+P1 	: 호박죽은 안해먹은지 오래되었네요

@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100000501
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+	  오늘 날씨가 엄청 좋은 거 같아요~
+P1 	: 네! 이렇게 해가 쨍쨍인데
+P1 	: 주말부터 비라니...
+P0 	: 아.. 주말부터 비가 오는 군요..ㅠㅠ
+P1 	: 계속 오더라고요
+P1 	: 일주일내내
+P1 	: 태풍이 오는건지..
+P0 	: 아~ 다음주까지 오는 건가 보네요...
+P0 	: 비로 인한 피해가 크지 않았음 좋겠네요~
+P1 	: 맞아요
+P1 	: 비 오기 전에 더운 느낌으로
+P1 	: 오늘도 덥네요!
+P1 	: 긴바지 입었는데 다리가 타는 느낌이에요
+P0 	: 습도 자체가 높나 보네요,,ㅠㅠ
+P0 	: 이런 후덥지근한 날씨가 빨리 지나갔으면 좋겠어요~
+P1 	: 네 맞아요
+P1 	: 밤에는 썰렁하던데
+P1 	: 아유 오늘은 덥네요!
+P0 	: 그래도 열대야는 끝나서 다행인 거 같은데,ㅠㅠㅠ
+P0 	: 활동시간에 더우니 힘든 거 같아요~
+P1 	: 맞아요!
+P1 	: 사계절이 아니라 점점 겨울-여름만 있는 것 같은 느낌이에요
+P0 	: 맞아요~ 4계절이 사라지는 거 같더라고요..ㅠ
+P1 	: 와중에 일기예보는 계속 틀려서
+P1 	: 더 헷갈려요
+P1 	: 꼭 우산 안 들고 나오면 비가 오고
+P1 	: 그래서 들고 나오면 안 오고
+P0 	: 그러니까요~ 저도 저번에 우산 하루종일 들고 다녔던,,;;

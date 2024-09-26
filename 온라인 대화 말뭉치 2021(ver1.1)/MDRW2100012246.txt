@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100012246
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&은 커피를 좋아하시나요?
+P1 	: 얼죽아에요
+P0 	: 아하! 그러시구나. 전 심정적으론 얼죽아인데. 몸컨디션따라 먹어요.
+P0 	: 에어콘 바람을 많이 쬐고 아이스아메를 먹으면 배가 아파서요..
+P1 	: 회사다닐땐 에어컨빵빵해도 얼죽아였는데
+P1 	: 사실 퇴사하고나선 커피를 잘안마시게됬어요
+P1 	: 공짜커피가 최고였는데...ㅋㅋ
+P0 	: 아 그게 젤 중요하죠 얼마인지가
+P1 	: 커피얘기하니.. 커피가 땡기네요
+P0 	: 전 사실 지금 먹고 있어요. ㅋㅋㅋ
+P0 	: 전 맥모골도 드립커피도 다 좋아하는데. 지금은 드립커피를 내렸어요.
+P1 	: 향좋겠어요
+P0 	: 네 향이 좋아서 가끔 기분낼때 먹어요. 오늘은 날이 꿉꿉해서 내렸어요.
+P1 	: 저도한잔 하고싶네요
+P0 	: 근처에 있다면 드리고 싶은데 안타깝네요. 믹스커피로라두 기분을 내보세요.
+P1 	: 믹스커피도없네요ㅜㅜ 캡슐머신있긴한데
+P0 	: 아 캡슐쓰시는 구나 어디건가요 네스프레소? 일리?
+P1 	: 네스프레소요 ㅎ

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100014646
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여기는 비가오고있어요! &name2&님이 계신곳은 날씨기 어떤가요?
+P1 	: 저희 동네도 비가 오락가락해요
+P1 	: 비 안오는 줄 알고 외출했다가 낭패봤아요
+P1 	: ㅋㅋㅋ
+P0 	: ㅠㅠ 우산 안 가지고 다니세요?
+P1 	: 아 오늘 우산을 깜빡했어요
+P1 	: 가지고 다녔어야했는데
+P1 	: 급하게 나오느라
+P0 	: 우산은 어떤 무늬인가요?
+P1 	: 그냥 민무늬요
+P1 	: 검정 민무늬 편의점 우산
+P1 	: 편의점 우산 집에 엄청 쌓여잇어요
+P0 	: 저도 그냥 민트색 우산 들고다녀요ㅎㅎ 일기예보 자주 보세요?
+P1 	: 아뇨
+P1 	: 사실 자주 안봐서 우산 챙기는 걸 까먹는 것 같아요
+P0 	: 무슨 계절 좋아하세요?
+P1 	: 전 겨울이요
+P1 	: 눈 오는 걸 좋아해요
+P1 	: 새하얀 세상을 보면 기분도 좋아지고 고요한 느낌이 좋아요
+P1 	: 비록 녹으면 질척거리기만 하지만요ㅋㅋㅋ
+P0 	: 무슨 날씨 좋아하세요?
+P1 	: 비오는 날씨도 좋고 눈오는 날씨도 좋아해요
+P1 	: 비가 너무 많이 내리면 싫지만
+P1 	: 화창한 날씨도 좋고요
+P1 	: 딱히 싫어하는 날씨는 없네요
+P0 	: 전 맑은 날이 좋아요ㅎㅎ

@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100022747
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P0 	: 식사는요?
+P1 	: 아직 안했어요
+P1 	: 요즘 탄산수를 너무 마셔서 좀 걱정이에요
+P0 	: 메뉴는요?
+P0 	: 생각중?
+P1 	: 저녁메뉴 글쎄요. 아침에 나물반찬 해놓은거 있어서 호박된장찌개 해서 먹으려구요.
+P0 	: 맛나겠네녀
+P1 	: ㅎㅎ 가지찜.죽순나물 두가지 해놨거든요.
+P1 	: 님은 저녁메뉴가 뭐예요?
+P0 	: 만두오
+P1 	: 만두 맛있겠어요.
+P1 	: 저는 비비고만두 좋아하는데
+P1 	: 어디꺼 좋아하세요?
+P0 	: 저도 비비거요
+P1 	: 비비고 냉동식품 제 입맛엔 다 맛있는거 같아요.
+P1 	: 비비고곤드레나물밥 드셔보셨어요?
+P1 	: 그것도 맛있더라구요.
+P1 	: 요즘 꽃게가 제철인지 마트마다 꽃게 팔던데요. 꽃게 좋아하세요?
+P0 	: 엄청요
+P1 	: 요즘 꽃게 완전 달고 맛있어요.
+P0 	: 요리를 잘 못해요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100006286
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 너 지금 성경 어디에 읽고 있어
+P0 	: 에스겔 읽고 있어요
+P1 	: 몇 장까지 읽었는데
+P0 	: 십 8000까지 읽었어요
+P1 	: 원래는 몇 장까지 읽어야 돼
+P0 	: 오늘까지 42장
+P1 	: 한참 남았네
+P0 	: 엄마는 어디까지 읽었어요
+P1 	: 엄마는 30장까지
+P0 	: 엄마도 더 읽어야 되네
+P1 	: 엄만 그래서 지금 읽고 있어
+P0 	: 나도 빨리 읽어야 되는데
+P0 	: 너무 많이 밀렸다
+P1 	: 천천히 읽어
+P1 	: 목상 하면서 읽어야지
+P0 	: 에스겔은 읽으면 읽을수록 어려운 것 같아요
+P1 	: 선지서가 다 그래

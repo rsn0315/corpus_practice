@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100043337
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 파인애플 넣은 볶음밥 좋아해요
+	  이름을 까먹었네요 ㅜㅁㅜ
+P0 	: 오! 파인애플 볶음밥이라니 너무 맛있을 것 같아요
+P1 	: 그쵸! 파인애플 속을 비우고 거기에 볶음밥을 담아주기도 해요
+P0 	: 파인애플이 신의한수 일 것 같아요 따뜻한 파인애플 좋아하시나봐요!
+P1 	: 네네, 탕수육에 들어가는 것도 좋아해요ㅎㅎ
+P0 	: 오 저두요ㅎㅎ!! 파인애플 피자도 좋아하세요?
+P1 	: 네네, 하와이안 좋아해요 
+P0 	: 저도요 솔직히 파인애플은 어떻게 먹어도 좋아요ㅠ
+P0 	: 그럼 베트남 음식 좋아하신다고 하셨는데 고수도 드세요?
+P1 	: 오우, 고수는 비누풀이죠
+P0 	: 앜ㅋㅋㅋㅋ 역시 고수는 무리일까요 저는 근처에 가본적이 없어서,,
+P1 	: 실수로 안 빼고 먹어버렸는데 진짜 ... 우웩
+P0 	: 엌ㅋㅋㅋㅋ 냄새랑 맛 설명만 봐도 진짜 먹을게 못되는 것 같더라구요....
+P1 	: 맞아요...진짜 희한한 맛이었어요

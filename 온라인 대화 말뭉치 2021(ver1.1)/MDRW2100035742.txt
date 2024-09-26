@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100035742
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요!
+P0 	: 어떤 계절을 가장 좋아하세요?
+P1 	: 저는 가을이요
+P0 	: 가을 좋아하시는 이유가 있나요?
+P1 	: 덥지도 않고 춥지도 않고,
+	  선선하고 시원한 바람 불고,
+	  지내기 좋은 계절이라 생각해서요
+P0 	: 글쿤여 전 가을도 좋지만 봄이 젤 좋아요ㅎㅎ
+P1 	: 봄도 좋죠!
+	  따뜻하고 꽃들도 활짝피고 환하고 밝은 이미지가 떠오르는 계절이라 좋아요
+P0 	: 저도 그래서 좋아요 하지만 뭣보다 제 생일이 있어서요ㅋㅋㅋ
+P1 	: 아 그런 이유가ㅋㅋㅋㅋ
+P1 	: 상상도 못 했던 이유였어요
+P0 	: ㅋㅋ그쵸ㅎ 저도 그렇게 생각해요ㅎ &name2&님은 겨울과 여름중엔 뭐가 좋으세요
+P1 	: 전 겨울이요!
+P0 	: 저도 겨울이 낫네요 여름 넘 더워서
+P1 	: 그쵸 저도 여름은 넘 덥고 습도도 높고해서 싫어요ㅠㅠ

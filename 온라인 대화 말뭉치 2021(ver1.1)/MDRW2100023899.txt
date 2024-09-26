@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023899
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저녁 식사 하셨나요?
+P1 	: 네 저는 오늘 저녁에 치킨먹었어요~
+P1 	: &name1&은요?
+P0 	: 전 된장찌개랑 밥 먹었어요 ㅎㅎ
+P0 	: 어떤 치킨 드셨어요?
+P1 	: 된장찌개 맛있죠 ~
+P1 	: 저는 페리카나요!
+P0 	: 저도 어제 치킨 먹었는데, 자담 맵슐랭 맛있더라구요
+P1 	: 자담은 안먹어봤는데 먹어보고싶네요
+P1 	: 맵슐랭 적어놔야겠어요ㅋㅋ
+P0 	: 맛 단계를 조절할 수 있더라구요
+P0 	: 전 덜 매운 걸로 시켰는데 저한테는 부담없이 딱 좋은 정도였어요 ㅎㅎ
+P1 	: 맛 조절 가능해서 좋네요
+P1 	: 그럼 제일 좋아하는 치킨이 맵슐랭인가요?
+P0 	: 맵슐랭은 어제 처음 시켜봤어요ㅎㅎ
+P0 	: 제일 좋아하는 건 bbq 황금올리브요
+P1 	: bbq맛있죠 ㅎㅎ
+P1 	: 저는 교촌 허니 좋아해요~
+P0 	: 그것도 자주 먹은 편이에요 ㅎㅎ
+P1 	: 오 치킨 잘알이시네요ㅋㅋㅋ
+P0 	: ㅋㅋㅋ 다들 베스트셀러 메뉴들이니까요

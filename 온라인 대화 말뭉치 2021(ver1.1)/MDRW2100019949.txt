@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100019949
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 무슨맛
+P1 	: 쿠폰이있나
+P1 	: 싸네?
+P0 	: 살짝매운맛
+P1 	: 배송비는?
+P0 	: ㅇㅇ
+P1 	: 잘했따 매운맛
+P0 	: 배송비합쳐서 21000원인데
+P1 	: 오랜만에 쿠폰이 있었나보군
+P0 	: 슈퍼머시기혜택이랑 저녁 2처넌할인 두개다 적용함
+P1 	: 오
+P1 	: 잘했군
+P0 	: 굿
+P1 	: 마실거좀
+P1 	: 사온나
+P0 	: 입금해라 8천
+P0 	: 사러 같이가자
+P1 	: 그러든동
+P1 	: 사러가자
+P1 	: 난 소주한병만
+P0 	: 그래 가자
+P0 	: 편의점 가서 뭐살껀데?
+P0 	: 난 제로콜라

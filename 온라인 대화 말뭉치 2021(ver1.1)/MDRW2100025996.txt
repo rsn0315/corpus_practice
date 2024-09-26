@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100025996
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 요즘 건강관리 어떻게 하세요?
+P1 	: 요즘 헬스장 가기 그래서 집에서 홈트해요!
+P0 	: 으음..홈트하시는군요
+P0 	: 홈트는 주로 어떤걸로 보세요?
+P0 	: 필라테스? 헬스?
+P1 	: 보면서 하진 않구요 피티 받으면서 배웠던거 기구 사서 하고 있어요
+P1 	: 운동 하시는거 있으세요?
+P0 	: 아뇨
+P0 	: 저는 운동안해요
+P1 	: 하고싶으신 운동도 없으신가요?
+P0 	: 저는.. 에어로빅요
+P1 	: 와 에어로빅! 에어로빅도 재밌을거같아요
+P0 	: 맞아요
+P0 	: 아직 안해봤지만
+P0 	: ㅋㅋㄱㅋ
+P1 	: 에어로빅하는거 봤는데 재밌긴하겠더라구요
+	  살도 많이 빠지고
+P0 	: 맞아요 재밌어보이더라고요.
+P0 	: ㅎㅎㅎㅎ

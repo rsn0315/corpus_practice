@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100025440
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키우시나요?
+P1 	: 아니요 &name1&님은 키우시나요?
+P0 	: 사실 저도 안키워요 ㅎ
+P0 	: 키우고 싶은데 여건이 안되서 못키우고있어요
+P1 	: 그럼 키우고싶은 반려동물이 있으신가요?
+P0 	: 네네 고양이도 키우고 싶고 개도 키우고 싶어요!
+P0 	: 근데 돈이 많이들어서 포기했어요ㅜ
+P0 	: 유기견도 막 찾아보는데 안쓰럽고
+P1 	: 맞아요 혹시 알러지나 질병있으면 또 마음아프니끼요ㅠㅠ
+P0 	: 맞아요ㅠㅠ
+P0 	: 그래서 임보 하고 있는 아이 입양해도 괜찮다곤 하는데
+P0 	: 막상 그 책임감이 무겁더라고요
+P1 	: 맞아요 그리고 간식이나 용품비용도 어마어마하니까요
+P0 	: 진짜 맞아요! 또 아프면 병원비가 장난이 아니라더라고요
+P0 	: 사람들이 그거 안알아보고 무조건 귀엽다고 키워서 버리고ㅠ 나쁜
+P1 	: 그니까요 입양을 해왔으면 비용도 다 생각해야지 단순히 귀엽다고 데려오는게 말이나 되나요?
+P0 	: 맞아요!
+P0 	: 진짜 책임감 없는 인간들
+P0 	: 동물들이 무슨죄라고
+P1 	: 그러니까요 동물들은 이유도 없이 버려지는데 말이에요
+P0 	: 맞아요. 아무튼 반려동물 법도 강화되면 좋겠어요
+P1 	: 맞아요

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100043181
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심뭐드셨어요?
+P1 	: 원래 사무실에 도시락 배달오는데 오랜만에 나가서 수제비 사먹었네요~식사는 하셨나요?
+P0 	: 오늘같은날 수제비 딱이네요ㅜ
+P0 	: 여긴 비가왔었거든여
+P0 	: 전 버거킹행사하길래 햄버거먹었어요
+P1 	: 여기도 비가 오다가 안오다가 날씨가 이래서 자꾸시켜먹고 사먹게만 되네요
+P0 	: 맞아여 ㅋㅋㅋㅋ날씨가 구려서 그런지 밥해먹기도 싫고 그래여
+P0 	: 햄버거 좋아하세요
+P1 	: 햄버거는 버거킹 좋아해요~~
+	  &name1&님은요?
+P0 	: 전 맘스터치랑 버거킹이여 ㅎㅎ 버거킹어떤버거 젤좋아하세요
+P1 	: 트리플 머쉬룸인가??
+	  정확한 이름은 모르겠네요..
+	  그거 좋아해요
+P0 	: 아아 뭔지알거같아요 불향나고 맛있던것같아요
+P1 	: 네네, 소스가 맛있더라구요 ㅎㅎ
+P0 	: 햄버거드실때 콜라랑드시나여
+P1 	: 네 !! 햄버거와 콜라는 필수지요!!
+	  평소에도 탄산 좋아하거든요~
+P0 	: 전 무조건 사이다먹어요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 탄산중에 콜라젤자주드시나여
+P1 	: 아하! 저는 콜라요~
+	  치킨, 피자, 햄버거는 무조건 콜라!!
+	  아 고기두요 ㅎㅎ
+	  사이다 먹으면 먼가 개운한 감이 없어요 ㅠㅠㅋ
+P0 	: 전 카페인이 안받아서 ㅋㅋㅋ강제사이다에여

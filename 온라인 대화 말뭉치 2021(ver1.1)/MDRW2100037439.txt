@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100037439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 반려동물 키워보신 적 있으세요?
+P1 	: 아니요 &name1&님은 있으신가요?
+P0 	: 예전에 청거북이 키워 봤어요 금붕어랑요
+P1 	: 그렇군요 근데 거북이는 엄청 오래살지 않나요?
+P0 	: 네 오래 산다는데 제가 키운 건 7년 정도 살고 죽었어요
+P1 	: 그렇군요
+P1 	: 청거북이는 청색깔의 거북이인가요?
+P0 	: 모르겠어요 그때 다들 그렇게 부르더라고요
+P1 	: 그럼 청색깔은 아닌가요?
+P0 	: 약간 짙은 풀색인 거 같아요
+P1 	: 정말 성스러울 것 같아요
+P1 	: 어떤가요?
+P0 	: 딱히 모르겠고 그냥 귀여웠어요
+P1 	: 그렇군요 근데 거북이는 뭘 먹고 사나요??
+P0 	: 주로 사료먹어요

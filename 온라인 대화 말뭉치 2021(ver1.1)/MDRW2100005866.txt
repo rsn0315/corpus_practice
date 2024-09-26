@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100005866
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 남성
+birthplace : 부산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아하시나요?
+P1 	: 안좋아하는데 요즘은 가고싶네요
+P0 	: 아 여행 안좋아하셔요?
+P0 	: 요즘 어디로 떠나구싶으신가요
+P1 	: 제주도나 강릉 가고싶어여
+P0 	: 아하
+P0 	: 바다쪽을 가구싶으시구나
+P0 	: 원래는 왜 안좋아하셨어요?
+P1 	: 네 바다 좋아해요
+P1 	: 원래 밖을 잘 안좋아해요 ㅋㅋ
+P0 	: ㅋㅋㅋㅋ집콕러 시구나
+P0 	: 전되게 활동적이라 생각함에도 불구하고 이렇게 비오는날만 되면
+P0 	: 집에 있고싶은거같아요
+P1 	: 아 그쵸 비올 때 돌아다니는 거 배로 힘들어요
+P0 	: 진짜그런거같아요
+P0 	: 가보셨던 여행지중에
+P0 	: 기억에 남으시는곳 있으신가요?
+P1 	: 제주도 바다가 진짜 예뻤어요
+P0 	: 아 제주도 제가진짜 좋아하는 여행지죠ㅜㅜ
+P0 	: 우리나라에 있는 외국같은 느낌이랄까
+P1 	: 해외여행 좀 가셨나요?
+P0 	: 여행을 많이좋아해서 좀 다녀온거같아요

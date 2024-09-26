@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100008688
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 당분간 해외여행은 힘들겠죠?
+P0 	: 아무래도 코로나 종식 될것 같지도 않고
+P0 	: 어려울 것 같아요
+P0 	: 가장 최근 여행한 곳은 어디에요
+P1 	: 가까운곳은 부산이요
+P1 	: 동생이 살아서요 ㅎㅎ
+P0 	: 아하 저도 부산은 자주가요
+P0 	: 부산 근처에 살아서
+P0 	: 이번 휴가도 부산으로 갈 예정
+P1 	: 그냥 바다 한번 보고와도 속이 시원하더라고요
+P1 	: 저는 제가 사는 동네에 출렁다리가생겨서 요새거기댕겨요
+P1 	: 국내 최장 출렁다리라고 지자체에서 엄청 밀고 있어요 ㅋㅋ
+P0 	: 울산이세요?
+P1 	: 오 어캐 아셨어요?
+P1 	: 은근 밀고있는게 유명해진건가 드디어 전국구로
+P0 	: 저도 울산 살아서 알아요
+P0 	: 대왕암 흔들바위
+P0 	: 흔들바위란다 출렁다리
+P1 	: 세상 ㅋㅋㅋ 참좁군요
+P1 	: 사실 오픈빨이라 사람많은가 싶기도 ㅋㅋ
+P0 	: 지금 무료개방 아닌가요?
+P0 	: 유료 전환하면 줄어들지 않을까요
+P0 	: 어떤 스타일의 여행 좋아하세요?
+P0 	: 엑티비티? 휴양? 문화재 관람?
+P1 	: 액티비티는 진짜 아닌것같아요 제스타일
+P1 	: 쉬거나
+P1 	: 문화재 관람 좋아해요!
+P0 	: 저도 박물관이나 미술관가는거 좋아해요

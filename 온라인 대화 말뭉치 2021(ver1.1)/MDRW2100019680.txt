@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100019680
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 나도 한동안 했었지
+P0 	: 아 진짜?
+P1 	: 예전에 집에서 염색했었을 때
+P0 	: 그건 염색하면서 영양 넣는 거고
+P1 	: 아 그래? 나 미용실에서 염색해본 적 없어서
+P0 	: 보통 약간이라도 다 영양 넣어줘
+P1 	: 그건 그렀지
+P0 	: 머리결이 너무 상하다 보니까
+P1 	: 어쩔 수 없지
+P0 	: 그래도 한번씩 하고싶어져ㅋㅋㅋ
+P1 	: 인정
+P0 	: 나 또 드릉드릉해 요즘
+P1 	: 예전에는 염색보다 파마가 더 하고싶었는데 지금은 반대야
+P0 	: 염색이 더 하고싶어?
+P0 	: 염색 은색으로 하고싶어?

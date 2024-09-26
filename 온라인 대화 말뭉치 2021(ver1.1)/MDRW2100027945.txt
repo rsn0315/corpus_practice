@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027945
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 점심 맛있게 드셨나요?
+P1 	: 넵 된장찌개 먹었어요ㅎㅎ &name1&님은 뭐 드셨나요
+P0 	: 닭볶음탕 먹었어요 ㅎㅎ
+P0 	: 된장에 해물 들어갔었나요 고기 들어갔었나요??
+P1 	: 해물요! 바지락 조개 들어간거 먹었어요ㅋㅋ
+P1 	: 닭은 언제나 최고죠ㅜㅜ 감자 들어가있었나요
+P0 	: 그럼요그럼요ㅠㅠ 감자 추가되는 곳이어서 한번 더 추가해 먹었어요 ㅎㅎ
+P0 	: 저녁은 뭐 드실 예정인가요??
+P1 	: 음... 음..... 고민중이에요.. 매일 저녁이 고민이죠..
+P0 	: 맞아요.. 맛있는데 속은 더부룩하지않을.. 최고의 메뉴는 대체 뭘까요 ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ먹고싶은것만 먹다간 지갑과 뱃살이 그만
+P0 	: ㅋㅋㅋ 혈관이 못 버텨내겠죠? ㅋㅋㅋㅋ
+P0 	: 갑자기 찹쌀도넛 먹고싶어요 ㅎㅎ
+P1 	: 헉 팥 있는거요 없는거요? 전 있는게 좋아요ㅋㅋㅋ
+P0 	: 저는 둘 다 사서 번갈아 먹어요 ㅎㅎ
+P0 	: 어느 하나 포기할수 없는... ㅋㅋㅋㅋ

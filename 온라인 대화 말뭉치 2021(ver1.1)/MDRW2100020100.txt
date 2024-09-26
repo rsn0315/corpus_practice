@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100020100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 몰라 생각 안해봤는데?
+P0 	: 하긴 키울 일이 없으니까
+P1 	: 나 동물 한번도 안키워봤던거 같은데
+P0 	: 우리 사슴벌레 키웠었잖아
+P1 	: 장수풍뎅이 아냐?
+P0 	: 장수풍뎅이었나?
+P1 	: 뿔 하나면 장수풍뎅이고 두개면 사슴벌레야
+P0 	: 아 그렇게 구별하는구나
+P1 	: 응 맞아
+P0 	: 아무튼 그때 이름 뭐였지? 기억도 안나
+P1 	: 나도 이름 생각 안나;;;
+P0 	: 이름이 있긴 있었던 것 같은데
+P1 	: 그래?난 이름도 기억 안나는데
+P0 	: 이름은 기억 안 나는데 이름이 있긴 했던 거 같아
+P1 	: 아 고양이 키워보고 싶다

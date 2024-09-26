@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100029413
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 식사는요?
+P1 	: 저는 아직 못 먹었네요ㅠㅠ 아침 식사 하셨나요?
+P0 	: 시리얼이오
+P1 	: 시리얼 간편하고 맛있죠 ㅎㅎ 저는 출근하고 사과랑 두유 먹으려구요!
+P0 	: 맛나겠네녀
+P1 	: 간단히 먹을 수 있어서 자주 먹어요 ㅎㅎ &name1&은 어떤 음식 좋아하세요?
+P0 	: 치킨이요
+P0 	: 맛나요
+P1 	: 저도 치킨 좋아해요! 그러고 보니 이번주에도 치킨 시켜먹었네요 ㅋㅋㅋ
+P1 	: 치킨은 어느 브랜드 좋아하세요?
+P0 	: 네네요
+P1 	: 네네치킨 맛있죠! 저는 교촌치킨 좋아해요 ㅎㅎ
+P0 	: 것도좋죠
+P1 	: 치킨은 식어도 맛있어서 넘 좋아요 ㅋㅋ 주말이니까 배달음식 시켜먹어야겠네요!
+P0 	: 그쵸
+P1 	: 벌써 11시네요 오늘 점심은 어떤 거 드시나요?
+P0 	: 생각중이여

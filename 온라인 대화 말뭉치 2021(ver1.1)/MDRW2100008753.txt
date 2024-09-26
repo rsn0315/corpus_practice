@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100008753
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 날씨가 제법 선선해졌죠?
+P0 	: 네 바람도 불고 산책하기 딱 좋아요ㅎㅎ
+P1 	: 어젠 비오더니 오늘은 그쳤나봐요
+P1 	: 밖은 선선한가요?  집은 왜덥지ㅋ
+P0 	: 지금 딱 바람불어서 괜찮더라구요ㅎㅎ 안은 더워요ㅎㅎ
+P1 	: 그런거죠?ㅎㅎ 주말내내 방콕했드니
+P0 	: 이젠 태풍이 온다고 해서ㅠㅠ제습을 틀어야할거같아요ㅎㅎ
+P1 	: 이따 분리수거할겸 나가봐야겠네요
+P1 	: 아까 뉴스보니 태풍올라온대요
+P1 	: 비바람분다던데 ㅠㅠ
+P0 	: 네 약간 그런느낌이...ㅠㅠ
+P0 	: 내일은 비올거같아요
+P1 	: 비오고나면 가을오겠죠?
+P0 	: 가을이 오는건 좋은데 짧은데 아쉬워요
+P1 	: 저도요 가을을 제일 좋아하는데ㅠㅠ
+P0 	: 점점 봄가을이 사라지는 느낌ㅠㅠ
+P1 	: 트렌치코트 몇번입음  겨울이더라구요
+P0 	: 올해는 꼭 입어야하는데ㅎㅎ

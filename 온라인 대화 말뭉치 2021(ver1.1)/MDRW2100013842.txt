@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100013842
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일해요?
+P1 	: 그럼요
+P0 	: 어떤거요?
+P1 	: 꾸준히는 아니지만 설거지나 세탁, 청소는 해요
+P1 	: &name1& 어떤일을 하시나요?
+P0 	: 사무직이요
+P0 	: 그래서 일만 하고 청소는
+P0 	: 잘 안하죠
+P0 	: 화장실 전담이요
+P1 	: 화장실 청소도 힘들지요
+P0 	: 그쵸
+P1 	: 여름에는 조금만 게을러도 곰팡이 생겨서ㅋㅋ
+P0 	: 잡기 힘들죠
+P1 	: 네 곰팡이제거에 좋은제품있다고 해서 써봐도 영 효과가 없네요
+P0 	: 뿌리는 거 쓰고있는데
+P1 	: 어때요 효과가 좀 있으신가요?
+P0 	: 그뿐이죠
+P0 	: 집안일해요?

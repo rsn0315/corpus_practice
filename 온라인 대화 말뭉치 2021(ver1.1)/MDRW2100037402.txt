@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100037402
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 개학 축하해
+P1 	: 오늘 학교 가?
+P0 	: ㅠㅠ너무 싫다 너는 시험공부할때 어디서 주로해?
+P0 	: 응 수업이 하나 있어
+P1 	: 나는 어디서든 하지
+P1 	: 위치가 중요한 게 아냐
+P0 	: 도서관이랑 카페중에는 어디를 선호해?
+P1 	: 도서관에서 하다가 질리면 카페에 가
+P1 	: 기분전환이 돼
+P1 	: 꼭 추천할게
+P0 	: 맞아맞아
+P1 	: 올해는 알찬 학교생활을 할거야?
+P1 	: 근데 내일 수업이 하나뿐인거야?
+P0 	: 흠 그건 미래의 내가 할 일이야
+P1 	: 아쉽다...
+P0 	: 응 근데 나머지시간에도 할일은 있어
+P1 	: 좀 더 수업계획을 열심히 짜봐!
+P0 	: 응 ㅠㅠ 그런데 벌써 싫다
+P1 	: 학생이 학교와 수업에 전념해야지.

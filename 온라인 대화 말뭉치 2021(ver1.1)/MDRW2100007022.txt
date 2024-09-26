@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007022
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>종교
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전북
+principal_residence : 대전
+current_residence : 세종
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 종교 믿으세요?!
+P1 	: 전 무교에요
+P1 	: &name1&님은요?
+P0 	: 저는 기독교에요!
+P0 	: 모태신앙이어서 자연스럽게 믿게 됐어요!
+P0 	: 혹시 간식 먹으러 교회나 밥먹으러 절 가보신적있으세요?
+P1 	: 초등학교땐 간식먹으러 가본적 있어요!!
+P0 	: 절은요 부처님오신날에 절밥 드셔보셨어요?
+P1 	: 아뇨 그런적은 없어요
+P1 	: 절에서 밥을 줘요?
+P0 	: 네 불자 아니어도 가서 먹을 수 있어요!
+P1 	: 와 신기해요
+P1 	: 전 미션스쿨다녀서 예배는 드린적있는데
+P0 	: 미션스쿨 다니셨군요 일반학교랑 뭐가 다른가요?!
+P1 	: 주마다 예배가 1시간 있어요
+P1 	: 그리고 종교수업도 있구오
+P0 	: 헐 저도 기독교긴 하지만 무교이면 수업이 귀에 잘 안들어올거 같아요 ㅋㅋ 시험 같은것도 있었나요?
+P1 	: 시험은 따로 없었어요!
+P1 	: 아침에 돌아가면서 기도문 생각하는 건 있었는데 그것도 나중엔 무교를 존중해줘서 종교부장?만 했어요
+P0 	: 글쿤요!! 신기하네요!

@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100022390
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 점심은 먹었나요?
+P1 	: 아직 식전이에요
+P1 	: 식사하셨나요
+P0 	: 가자미구이에 밥 먹었답니다
+P0 	: 식전이면 배고프겠네요
+P1 	: 가자미구이  너무 맛있었겠어요
+P0 	: 뭐 먹으로계획인가요?
+P1 	: 아 빵 먹을 예정입니다
+P1 	: 빵 좋아하시나요
+P0 	: 팥들어가있는 걸 좋아해요
+	  단팥이요
+P1 	: 단팥빵 너무맛있어요
+P1 	: 팥의 달콤함이 너무좋더라구요
+P1 	: 혹시 완두콩빵 이런건 안좋아하시나요
+P1 	: 초록앙금들은거요
+P0 	: 그것도 좋죠 근데 콩알러지가 있어서 콩보다는 팥을 더 좋아한답니다
+P1 	: 콩 알러지가 있으시구나
+P1 	: 저는 새우알러지가 있어서 이해합니다
+P1 	: 가자미 구이는 어떠셨나요
+P0 	: 새우 맛있는데 알러지 있다니 안타깝네요
+P0 	: 가자미구이 맛있었죠
+P0 	: 생선요리를 좋아하거든요
+P1 	: 생선 너무 맛있죠
+P1 	: 또 어떤 생선을 좋아하시나요
+P0 	: 예전엔 고등어 좋아했는데 이젠 삼치나 갈치쪽이 더 좋더군요
+P1 	: 삼치 슴슴해서 좋아해요
+P1 	: 보통 생선은 구이로 해서 드시나요
+P0 	: 조림을 좋아하는데 짜게 먹는 편이라 싱겁게 먹으려고 구이로 요리하는 편입니다

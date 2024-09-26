@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100013034
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 비가 자주 오네요!
+P1 	: 네:) 지난주말엔 폭우...ㅋㅋㅋ
+P0 	: 오늘 날씨 어떤거 같으세요?
+P1 	: 우산이 소용 없더라구요
+P1 	: 오늘은 비는 안오는데
+	  하늘이 맑지는 않네요
+P0 	: 우중충 하네요 ㅜㅜ
+P0 	: 비오는거 좋아하세요?
+P1 	: &name1&님 계신곳도 같은가보네요ㅋ
+P1 	: 아니요ㅜㅜ 저는
+	  비오는날의 갬성이 없나봐요ㅋㅋ
+P0 	: 저도욬ㅋㅋㅋ 습하고 다 젖으니까요 ㅜㅜ
+P0 	: 기분까지 우울해져요 ㅋㅋ
+P1 	: 맞아요ㅜㅜㅋㅋ
+	  비는 딱 노래로만 좋은 거 같아요
+P1 	: 지난 주말에 외출하셨었어요?
+P1 	: 저는 나갔다가 우산이 부러졌어요ㅋㅋ
+P0 	: 집에만 있었어요!!
+P0 	: 우산도 큰걸로 준비해야겠어요 ㅋㅋ
+P1 	: 네ㅋㅋ 크고 튼튼한 우산
+	  사야지 안되겠어요ㅋㅋ
+P0 	: 부츠도 요즘 많이 신드라고요!!
+P1 	: 이제 곧 가을이 올거 같죠?
+P1 	: 오 그래요?ㅋㅋ
+	  아직 부츠 신은 분은 못봤어요ㅋㅋ
+P1 	: 패피신가보네요ㅋㅋ
+P0 	: 빨리 가을이 왓음 좋겠어요 !

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100043671
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 반려동물키우시나요
+P0 	: 아뇨 &name2&님은요?
+P1 	: 전 키워요 고양이1마리여 ㅎㅎ
+P0 	: 오 냥집사시네요 ㅎㅎ
+P0 	: 고양이 이름 물어봐도 될까요?
+P1 	: 넹 &name3&에요 용처럼용맹하고건강하라고 지었어요 ㅎㅎ
+P0 	: 순우리말 이름이네요 ㅎㅎ
+P1 	: 네 맞아요 어릴때 아팠어서 그치만 지금은 이름처럼 아주 용맹무쌍합니다 ㅎㅎㅎ
+P0 	: 아팠군요 지금 건강해서 다행이네요
+P0 	: 이름을 잘 지어 주셨네요
+P1 	: 네 완전 지가 최고대빵이에여
+P1 	: 넘 오냐오냐키웠어요
+P0 	: 애정을 많이 주셨나봐요 ㅎㅎ
+P1 	: ㅋㅋㅋ네 넘 오냐오냐키웠어요
+P1 	: &name1&님은 만약 동물키우게되신다면 어떤동물키울거같아요?
+P0 	: 개 키우고 싶긴 해요

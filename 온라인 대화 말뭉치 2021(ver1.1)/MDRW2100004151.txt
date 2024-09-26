@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100004151
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 경북
+current_residence : 경북
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 식사하셨어요?
+P0 	: 네 빵먹었어요 식사하셨어요?
+P1 	: 네방금낙지볶음먹고왔어오ㅡ
+P0 	: 오 맛있겠다ㅠㅠ 내일은 저도 낙지먹어야겠어요
+P1 	: 오랫만에 먹으니 너무맛있더라구욥~
+P1 	: 탱글탱글
+P0 	: 매운데 자꾸먹고 싶은 맛이죠ㅋㅋ 오늘 먹을걸
+P1 	: 빵을 저녁으로드신거에요?
+P0 	: 네 점심에 많이 먹어서 ㅜㅜ빵도 사실 먹으면 안되는데ㅎㅎ
+P1 	: 헷..다이어트?
+P0 	: 네네ㅋㅋ 줄여야되요  호밀빵으로 먹었어요ㅎㅎ
+P1 	: 호밀빵이 칼로리부담없고 포만감도있어서 좋죠
+P0 	: 네 맛은 근데ㅋㅋ그냥 빵만 못하네요
+P1 	: 그러니까 다이어트에도움되겠죠?ㅋㅋ

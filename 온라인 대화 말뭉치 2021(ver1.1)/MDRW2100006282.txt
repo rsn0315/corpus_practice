@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100006282
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 나 내일 책 빌리러 갈 건데
+P0 	: 엄마 뭐 보고 싶은 책 없어요
+P1 	: 엄마 그러면은 인문학 하나만 빌려줘
+P0 	: 인문학 아무거나
+P1 	: 응 별로 두껍지 않은 걸로
+P0 	: 알았어요 인문학 중에 어떤 게 좋아요
+P1 	: 심리나 상담
+P0 	: 오키 그쪽으로 찾아볼게요
+P1 	: 너는 책 뭐 빌릴려고
+P0 	: 난 주식투자하는 거
+P1 	: 책으로도 공부하게
+P0 	: 아무래도 책 한 건 쯤은 읽어야 될 것 같아요
+P1 	: 책으로 쭉 보는 것도 좋은 방법이지
+P0 	: 최고로 한번 봐야 입력이 될 듯한 느낌이에요
+P1 	: 어렵지 않은 걸로 골라야겠네
+P0 	: 응 미리 찾아온 책 있어요
+P1 	: 몇 권 빌릴 건데
+P0 	: 일단 무리하지 않고 한 권

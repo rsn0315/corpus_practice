@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100032303
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 점심 뭐 드셨나요?
+P1 	: 안녕하세여ㅎㅎ
+P1 	: 저는 라면먹었어요
+P0 	: 저는 비빔면 먹었는데ㅎㅎ
+P0 	: 무슨음식조아하시나요
+P1 	: 저는 다 좋아해여 ㅋㅋㅋ 배달음식은 치킨이요
+P0 	: 치킨좋져
+P0 	: 못먹는거 없으세요?
+P1 	: 저는 콩이랑 팥 빼고는 다 좋아해요ㅋㅋㅋ
+P1 	: 못먹는거있으신가요 ㅋㅋ
+P0 	: 콩과 팥!ㅎㅎ
+P0 	: 저는 닭발 곱창 못먹어요
+P1 	: 오오 그러시구나 제주위에도 그러신분 봤어요ㅋㅋ 대창 막창도 못드시나여??
+P0 	: 네 생긴거랑 냄새때문에 못먹어요ㅋㅋ
+P0 	: 콩이랑 팥은 왜 못드시나요?
+P1 	: 아 어렸을때 먹고 체한뒤로는 역해서옄ㅋㅋㅋ ㅠㅠ
+P1 	: 팥빙수도 안먹어요 ㅎㄹ
+P0 	: 헉 그렇겠네요
+P0 	: 팥안들어간 빙수드셔야겠어요
+P1 	: 네네ㅋㅋㅋ 그래도 대체재가 많아서 다행이에여 ㅎㅎ
+P0 	: 맞아요ㅋㅋ빙수종류 많잖아요
+P0 	: 어떤거 제일 좋아하세요?
+P1 	: 저는 망빙이랑 딸빙 조아해여 ㅋㅋㅋ
+P1 	: &name1&님은여?
+P0 	: 저도 과일다 좋아하고 치즈들어가면 더 좋아요ㅎㅎ
+P1 	: 오오 치즈 맛있죠 ㅋㅋㅋ저도 과일은 딱히 안가려서 다 먹는 편이에여

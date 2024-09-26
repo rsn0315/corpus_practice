@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100023107
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 또 복통이 도지네ㅠ 너무 아파...
+P1 	: 아이고 어떡해. 진통제는 먹었고?
+P0 	: 응 아까 두 알 먹었는데도 아직까지 아프네ㅠㅠ
+P1 	: 계속 아프면 온찜질이라도 해줘.
+P1 	: 할머니도 다리 다치셨는데 걱정이다.
+P0 	: 할머니는 다리 왜 다쳤는데?? ㅠㅠ 많이 아프시대?
+P1 	: 계단에서 넘어지셨는데 무릎을 다치셨나봐.
+P0 	: 아 정말... 지금은 병원도 못 가잖아? 내일 가서 엑스레이 찍어볼거야?
+P1 	: 어. 내일 집 근처 정형외과 가볼 거야.
+P1 	: 수술하라고 하면 어떡하지.
+P0 	: 할머니 원래 무릎 연골도 안 좋잖아.. 연세도 많으신데 수술이 될까?
+P1 	: 그러게 말이야. 일단 병원 가서 사진 찍어보고 입원하라고 하면 해야지 뭐.
+P0 	: 그래 그 전까지 냉찜질 해드리고~ 무리해서 걸어다니지 마시라고 해
+P0 	: 할머니 9월에 대학병원에서 mri도 찍어야 되는데ㅠㅠ
+P1 	: 입원하게 되면 그건 좀 미뤄야지 어째.
+P1 	: 올해 건강검진도 안 받으셔서 그것도 받아봐야해.
+P0 	: 한번 아프시기 시작하니까 몸 여기저기가 고장이시네ㅠ 내일 병원 잘 모시고 갔다 와서 전화해줘
+P0 	: 내일이면 나 배 아픈 것도 좀 낫겠지...

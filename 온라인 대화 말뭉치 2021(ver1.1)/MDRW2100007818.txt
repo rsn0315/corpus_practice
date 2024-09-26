@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100007818
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 네 한 번 가봤어요
+P0 	: 어디 가보셨어요?
+P1 	: 싱가포르로 갔어요
+P0 	: 싱가포르 어디가보셨어요?
+P1 	: 새 박물관하고 유니버셜 스튜디오 같은데 갔어야
+P1 	: 요
+P0 	: 치안은 어땠어요?
+P1 	: 그래도 치안이 나쁘진 않은것같더라고요
+P0 	: 어떤 음식 드셨어요?
+P1 	: 호텔에서 주는 조식 먹었어요
+P1 	: 싱가포르가 그래도 볼 게 많더라고요
+P0 	: 되게 좋았을거같아요
+P1 	: 네 갔다오고나서 코로나가 딱 터져서 좀만더늦췄다간 못갈 뻔 했네요 ㅎ
+P1 	: &name1&님은 여행가보신적있으세요?
+P0 	: 저는 지방사람이라 서울 갔던게 기억에 남네요
+P1 	: 서울 저도 서울근처살지만 서울엔 갈일이 잘 없더라고요

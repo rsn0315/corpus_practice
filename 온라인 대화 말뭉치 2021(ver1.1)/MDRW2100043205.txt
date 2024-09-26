@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100043205
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 케이크가 맛있으면 됐지 예쁜게 뭐야
+P0 	: 그 ㅋㅋㅋ 진짜 치즈모양으로 생긴 케이ㅡ크였거든요
+P0 	: 톰과제리에 나올법한...
+P1 	: 그 구멍 숭숭 뚫린 치즈 말하는건가
+P0 	: 네 그건데 겉부분 노란 초콜릿 코팅해가지고 넘 귀엽고 맛있었어요 ㅋㅋㅋ
+P1 	: 비싸고 맛있겠다
+P0 	: 근데 이게 어디 카페에서 아이디어 낸거를 다른곳에서 무단으로 막 사용한거라던데
+P1 	: 음식엔 저작권이 없긴 하지
+P0 	: 맞아요 특허도 웬만하면 못내고 ㅠ
+P1 	: 조리방법은 특허되는데 들어가는건 특허못내던가?
+P0 	: 그것까진 잘 기억안나요 ㅋㅋ 근데 너무 많이 퍼져서 온갖 카페에서 다 한다더라구요
+P1 	: 맛은 있으면 다행인데 안타깝네 좋은 아이디어인데
+P0 	: 맞아요 치즈모양 치즈케이크... 맛도 진하고 좋았는데 제가 먹은거
+P1 	: 검색해보니까 냉동 치즈케이크로 나오네

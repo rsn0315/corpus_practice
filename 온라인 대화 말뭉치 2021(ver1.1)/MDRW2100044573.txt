@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100044573
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 네 &name1& 님은
+P0 	: 저도 몇번가봤어어요
+P0 	: 보톤 스탠딩가세요 좌석 가세요?
+P1 	: 스탠딩 갈수잇음 몸갈아가야죠
+P1 	: 1열 사수
+P0 	: 키가 몇인데요? 스탠딩은 키커야 유리하잖아요ㅠㅠ
+P1 	: 난쟁인데요
+P1 	: 스탠딩화 신어요
+P0 	: 와 그거 굽 짱 높잖아요? 몇 cm이에요?
+P1 	: 12?
+P1 	: 신어도 작아요
+P0 	: 열정이 대단하시네요
+P1 	: ㅋㅋㅋㅋ 님은요?
+P0 	: 저는 좌석 아니면 이젠 못가요
+P0 	: 코로나때문에 콘서트간지도 오래됐네요
+P1 	: 사실 저도 이젠 그래요
+P0 	: 저희 이제...디너쇼나 가야하나요??..
+P1 	: 좋죠.. 편한게좋죠

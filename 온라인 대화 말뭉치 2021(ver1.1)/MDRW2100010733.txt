@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100010733
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~ 학생이신가요?
+P0 	: 지금은 직장인입니다
+P1 	: 저도 올해 졸업했어요 아직은 직장인은 아니구요!
+P1 	: 학교다니실때 동아리활동 하셨었나요?
+P0 	: 네 댄스 했어요
+P0 	: 예전 동아리 뭐하셨어요?
+P1 	: 춤 잘추시나봐요 저는 몸치라 부럽네요..
+P1 	: 베이킹동아리했었어요 쿠키나 머핀같은거 만들었네요
+P0 	: 오~~베이킹이면 재미있겠네요
+P0 	: 빵을좋아해서
+	  수업은 어땠나요?
+P1 	: 과 특성상 실습수업이 같이 있어서.. 실습수업 있는 날은 학교가기 싫었었네요 ㅜㅜ
+P1 	: 작년에는 비대면수업이 대부분이라 막상 안가니 아쉽기도 했긴했어요..
+P0 	: 실습이 어렵나요(?)
+P0 	: 비대면은 과제가 많겠네요
+P1 	: 몸도 지치고 실습보고서를 꼭 써야했어서 별로 안좋아했었어요..
+P1 	: 비대면되니까 확실히 과제가 많아지더라구요ㅜㅜ 학교는 안가지만 과제하는 시간이 엄청 많아졌었네요
+P1 	: &name1&은 학교다니실때 과제 괜찮으셨나요?
+P0 	: 공대라서 과제는 별로 없던거 같아요
+P1 	: 오 공대 다니셨군요 실습수업은 없으셨나요?
+P0 	: 네 조금있었는데 그래도 과제가없어서
+P0 	: 실험같은거라서요

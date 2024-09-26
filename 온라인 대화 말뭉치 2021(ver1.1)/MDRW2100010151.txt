@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010151
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그건 챙겨먹기 귀찮아서 ㅋ
+P1 	: 드시는거있으세요?
+P0 	: 비타민이랑 유산균 정도 챙겨 먹어요
+P1 	: 요즘 다들 여러개 드시던데
+P0 	: 유산균은 확실히 질염 발생도 줄여주고 좋더라고요
+P1 	: 유산균 어디꺼드세요?
+P1 	: 질유산균 드시나요?
+P0 	: 네
+P1 	: 이노플로라? 그거밖에 몰라서
+P0 	: 프로스랩에서 주문해서 먹었어요
+P0 	: 가루 형태인데 시지 않은 비타민 가루 먹는 거 같아서 먹을만 했어요
+P1 	: 첨들어보네요 함 찾아볼게요ㅎ
+P1 	: 질건강에 좋음 먹어줘야겠네요
+P0 	: 저는 유산균 먹고 질염 사라졌어요 추천드려요
+P1 	: 건강도 미리미리 챙겨야되는데 싶지않아요ㅠㅠ
+P0 	: 이거저것 챙기는게 꽤 귀찮죠
+P1 	: 비타민 유산균 오메가정도는 다먹더라구요 기본인가봐요
+P0 	: 저도 점점 늘리려고요... 한번에는 도저히 무리였어요 비타민이나 유산균 먼저 챙겨보세요

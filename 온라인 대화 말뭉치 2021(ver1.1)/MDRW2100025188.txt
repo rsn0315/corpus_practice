@@ -1,0 +1,71 @@
+# FILE DATA
+ID : MDRW2100025188
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>선후배
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 아하
+P1 	: 그렇군요
+P1 	: 그럼 등교해서 1명만 더 등록하면 될까요?
+P0 	: 네 아마 그럴거예요!
+P0 	: 연구원 등록은 교수님이 하시는거겠죠?!
+P1 	: &name1&씨도 할수있어요
+P1 	: 담당자 되지 않았나?
+P0 	: 아 그렇군요!
+P0 	: 뭔가 저한테 그런 권한이 있다는 게
+P0 	: 너무 떨리는데요???
+P1 	: ㅎㅎㅎ 근데 저 눈떠보니 9시였어요
+P1 	: 지금 세수만하고 나갈거긴한데
+P1 	: 지각 예약이랄까.,
+P0 	: 앗
+P0 	: 9월 기념으로 9시에 눈떠진걸까요?
+P0 	: 교수님이 설마 아침일찍 오시진 않을거같아요!
+P1 	: ㅋㅋㅋㅋ
+P1 	: 무서운 얘기하지마세요
+P1 	: 그럼 다음달엔 10시에 일어날것 같으니까...ㅠ
+P0 	: 아나 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 생각지 못한 이야기예요~{emoji:☆}
+P0 	: 일단 저랑 &name3&씨는 출근완료입니다!
+P0 	: 어 그러고보니 &name4&씨 안왔네요?!
+P1 	: 안왔어요?
+P1 	: 딴데 컨택됐나?
+P0 	: 그런걸까요?
+P0 	: &name5& 교수님 연구실에 간걸까요,,,
+P0 	: 일단 아직은 안왔어요!
+P1 	: 결국 &name5& 교수님네 갔군요
+P1 	: 거기선 별일 없었으면 좋겠네요
+P0 	: 그러게 말이에요,,
+P0 	: 저는 거기에 외국인들만 있는 걸로 알았는데
+P0 	: 한국인 학생들도 있었네요ㅠ
+P1 	: 교수님이 한국분인데 죄다 외국인은 아닐거에요...

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100002765
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 충북
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 날씨 좋은데 여행은 안가시나요?
+P1 	: 내일은 가까운 곳이라도 나들이 갈 생각이에요
+P0 	: 비만 안오면 나들이 좋겠어요 어디로요?
+P1 	: 아 ㅎ 그냥 가까운 부여나 공주요
+P0 	: 아~그쪽이 가까우신가봐요
+P1 	: 네 ㅎ 사실 가고픈 곳은 문경새재 가서 걷고싶은데 거긴 멀어서요
+P0 	: 아~~그쪽은 한번도 안가봤어요
+P1 	: 여름휴가는 가셨어요? 저는 그냥 당일치기로 충주갔다왔어요
+P0 	: 네~저는 가까운 호텔로 호캉스요
+P1 	: 으~ 최고의 휴가였네요^^
+P0 	: 거의 먹고 자고 먹고 자고 ㅎㅎ
+P1 	: 휴식이 최고죠 ㅎ
+P0 	: 충주에서는 뭐하셨어요?
+P1 	: 아 ㅋ 그냥 계곡에 발담갔다가 막국수 먹고 무슨동굴가서 투명카약탔어요
+P0 	: 오~~너무 좋았겠어요
+P1 	: 너무너무 햇빛이 뜨거웠지만 즐거웠어요
+P0 	: 네~재밌었을것 같아요!!

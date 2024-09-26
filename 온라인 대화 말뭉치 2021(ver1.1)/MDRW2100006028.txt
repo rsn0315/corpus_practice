@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006028
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 10대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 가고 싶은 여행지는?
+P1 	: 패러글라이딩 탈거야
+P0 	: 여행지인데 왜 패러글라이딩 탄다고 답변한거야?
+P1 	: 패러글라이딩도 여행지지 ㅡㅡ
+P0 	: 그렇구나
+P0 	: 할 때 제일 편안 해 지는 건 뭐야?
+P1 	: 잠자는거지 당빠
+P1 	: 회사 퇴사하고 모스크바 기차여행 갈래
+P0 	: 우왕 모스크바 좋다 나두 기차여행
+P1 	: ㅋㅋ 엄마 데리고 안갈건데?
+P1 	: 기차여행은 혼자가야 제맛이지
+P0 	: 난 친구랑 갈거야
+P1 	: 엄마 친구들 다 바쁘잖나
+P0 	: 어차피 지금은 어렵고 몇 년 후에 도전 희망인거지
+P1 	: 그렇긴하지
+P1 	: 참한 남자 중에 나랑 결혼하는 척만 해줬으면 좋겠다
+P1 	: 신혼여행인척 휴가쓰고 여행가게
+P0 	: 헉 신혼여행인척???  그냥 좀 더  지나서 휴가를 모아모아서는 어때??
+P1 	: 아무리 모아도 일주일이상 쓸수가없잖아
+P1 	: 눈치보여!

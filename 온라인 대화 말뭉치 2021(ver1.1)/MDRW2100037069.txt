@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100037069
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 배달 음식 시켜 드시나요?
+P1 	: 안녕하새요
+P1 	: 네 ㅎㅎ 종종시켜먹어용 ㅎㅎ
+P1 	: &name1&님은요?
+P0 	: 일주일에 한 번 정도는 시켜 먹는 거 같아요
+P0 	: 주로 뭐 시켜 드세요?
+P1 	: 저희집은 치킨위주로시켜요 ㅎㅎㄹ
+P0 	: 치킨 맛있죠!! 어느 브랜드 선호하시나요?
+P1 	: 저는 60계치킨이랑 bbq랑 bhc가 제일 좋더라고요 ㅎㅎ
+	  &name1&님은요?ㅋㅋ
+P0 	: 저도 bhc 많이 먹어요
+P0 	: bhc에서는 어떤 메뉴 시켜드세요?
+P1 	: 저는 후라이드요 ㅎㅎ&name1&님은용?
+P0 	: 저는 구운 걸 좋아해서 붐바스틱 많이 먹었어요
+P1 	: 오 그러시구나.. 저도 먹어봐야겟어요!!ㅋㅋㅋ
+P0 	: bhc 후라이드 맛있나요?!
+P1 	: 저는 뭔가 튀김맛이 남달라서 좋더라고요 ㅎㅎ
+	  찾아보니 봄바스틱은 치밥해먹고싶은 비주얼이네요 ㅎㅎ
+P0 	: 아 맞아요~ 치밥 해먹어도 맛있어요!ㅎㅎ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027883
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 여행가신곳있나여
+P1 	: 요즘은 코로나 때문에 어딜 못 간지 오래 됐어요
+P1 	: &name1& 님은요?
+P0 	: 저도 최근에는 거의못가서 이번에 가까운데라도가보자 하고있어요ㅜ
+P1 	: 계획해두신 곳 있나요?
+P0 	: 일단은 제주도?ㅋㅋㅋㅋㅋㅋ
+P1 	: 제주도 좋겠네요 코로나 좀 풀리면 다들 제주도로 몰리려나요?ㅋㅋ
+P0 	: 좀풀리면 다른데가겟쪄ㅋㅋㅋ 요즘 제주도로많이들오니까용
+P1 	: 그렇겠네요 저도 놀러가고 싶어요....
+P0 	: 그니깐요ㅜㅜ 이번에는 가까운 풀빌라라도 놀러갔다올까봐여ㅋㅋㅋ
+P1 	: 오 좋네요 어디라도 잠깐 갔다오면 좋을 것 같아요
+P0 	: 그쳐 너무 삶이 피폐해요ㅜㅜ
+P1 	: &name1& 님은 여행 가서 기념품 사온 것 중에서 기억 나는 거 있으세요?
+P0 	: 음.. 기념품을사온적이별로없어서 기억이안나요ㅋㅋㅋ &name2&님은 뭐있으세요??
+P1 	: 저도 잘 안사는 편이라 기억 나는 건 어렸을 때 부모님이랑 산에 갔을 때 작은 쌀조리개 사왔던 거예요ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋㅋ 뭔가귀욥 쌀조리개

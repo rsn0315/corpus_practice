@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100038826
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오늘은 그래도 해지기 전에 날이 갰어요
+P0 	: 비 오셨나요?
+P1 	: 비오진 않았고 흐리기만 했어요
+P0 	: 저희도 비는 안 왔어요
+P0 	: 어제는 비 오셨나요?
+P1 	: 어제는 엄청 왔었어요
+P0 	: 헉 그렇군요
+P0 	: 피해는 없으셨나요?
+P1 	: 여기는 도심지라서 따로 피해는 없었어요
+P0 	: 다행이네요!
+P0 	: 가을 좋아하시나요?
+P1 	: 가을 좋죠
+P1 	: 단풍 구경하는거 좋아해요
+P0 	: 저도 가을 너무 좋아해요
+P0 	: 비오다가 가을 다 끝날까봐 무서워요ㅋㅋㅋㅋ
+P1 	: 이제 비 그쳤으니까 가을일거예요
+P0 	: 흐리지 않고 선선했으면 좋겠어요ㅎㅎ
+P1 	: 이제 장마 끝날거예요

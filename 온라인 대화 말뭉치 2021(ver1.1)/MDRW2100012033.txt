@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012033
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 읽는 책 있으신가요?
+P1 	: 읽는 중은 아닌데 예전에 본 데미안 다시 읽으려고 생각중이에요 ㅎㅎ
+P0 	: 헤르만헤세 작품이죠??
+P1 	: 네 맞아요!! 알을 깨고 나온다 어쩌구 하는 ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ 유명한 작품이잖아요 작가도 그렇고
+P1 	: 네 맞아여 스무살때 읽었었는데 다시 읽어보면 다를거 같더라고요 ㅎㅎ
+P0 	: 책이 처음 읽을때랑 나중에 읽어보면 못봤던 부분이 있더라고요
+P1 	: 그런것 같아요
+P1 	: 오로라야님은 보시는 책이 있나요?
+P0 	: 전.. 요즘 일하기도 바빠서.. ㅎㅎㅎ
+P1 	: 바쁘면 그렇죠 뭐 ㅎㅎㅎ 그럼 살면서 감명깊었던 책 있나요?
+P0 	: 최근에 읽은 분노의 돌파구요?
+P1 	: 오 어떤 내용의 책인가요?
+P0 	: 푸른색 led개발한 과학자가 자기가 어떻게 이걸 개발하게 되었는지 쓴 책인데 일본 사람인데 일본을 엄청 싫어하더라고요 ㅋ
+P1 	: 아 정말요? ㅋㅋㅋㅋㅋㅋㅋ 거기서 이미 흥미로운데요 ㅋㅋㅋ
+P0 	: 시작이 일본은 틀렸다 이런 내용이예요 ㅋㅋㅋ

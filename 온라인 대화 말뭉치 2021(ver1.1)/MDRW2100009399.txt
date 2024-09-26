@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100009399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대전
+principal_residence : 충남
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 연애하시나요?
+P0 	: 아니요ㅎㅎ &name2&님은 연애하시나요?
+P1 	: 네 연애중입니다 ㅎㅎ
+P1 	: 이상형이 어떻게 돼요?
+P0 	: 딱히 정해둔 건 없지만 그냥 키 크시면 기본적으로 멋있어보였던 것 같아요!! 제가 키가 작아서..ㅎㅎ
+P0 	: &name2&님은 연애하신지 얼마나 되셨어요?
+P1 	: 키가 어떻게돼요?
+P1 	: 저는 120일정도됐어요 ㅎㅎㅍ
+P1 	: 같이있으면 편해서용
+P0 	: 150대입니다 허허
+P0 	: 오 아직 한창 설레일시기시겠네요!!
+P0 	: 소개팅으로 만나셨나요??
+P1 	: 오오
+P1 	: 귀여우실거에요!
+P1 	: 아니요학교cc에오 ㅎㅎ
+P0 	: 앗 감사합니다ㅎㅎ
+P1 	: 연애경험있으신가요?
+P0 	: 오 말만 들었는데도 풋풋하고 그러네요ㅎㅎㅎㅎ
+P0 	: 아쉽게도 없습니다.. 눈물..
+P1 	: 아쉽네요ㅠㅠㅠ
+P1 	: 이상형이 어떻게돼요?
+P0 	: 가치관이 잘 맞고 흔들림 없는 분이면 좋을 것 같아요!
+P0 	: 평소 이상형이 어떻게 되셨나요?
+P1 	: 저도 평소관리잘하는사람이요!
+P1 	: 그리고 편안하고 잘생긴사람이요..ㅎ
+P0 	: ㅎㅎㅎ 맞죠맞죠
+P0 	: 아무래도 외모도 보게 되죠! ㅎㅎ

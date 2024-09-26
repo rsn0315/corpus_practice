@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003775
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 방가워요
+P0 	: 혹시 해외여행 가보셨어요?
+P1 	: 네 가보았죠 음식때문에 고생했어요
+P0 	: 어디 가보셨어요?
+P1 	: 아시아 유럽요
+P0 	: 어디가 제일 좋으셨어요?
+P1 	: 태국이좋았어요
+P0 	: 치안은 어땠어요?
+P1 	: 나쁘지않았어요 이동은 지하철 택시 공항버스만이용했어요
+P0 	: 음식은 어땠어요?
+P1 	: 배탈났죠 한국와서 카오산 길거리 음식때문이였나봐요 나머진괜찬았어요 음식점서먹었거든요
+P0 	: 되게 맛있으셨겠네요

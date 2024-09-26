@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100030665
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 대신동에 성당 앞에
+P0 	: 카페 가면 커피 만드시나요
+P1 	: 홍차왕자라는 홍차 전문 음료 점이 있었는데
+P0 	: 홍차왕자 알지요
+P0 	: 아직도 있나요
+P1 	: 지금은 문을 열지 않더라고요
+P0 	: 굉장히 오래 되었지요
+P1 	: 거기에서 맛있는 홍차 많이 마셨는데 안타까워요
+P0 	: 20년 정도 되었겠네요
+P1 	: 코로나 유로 문을 잘 열지 않는 것 같아요
+P0 	: 거기가 맛이 좋았나요
+P1 	: 예전에 잘 나갈 때는 2호점도 있었는데 말이죠
+P0 	: 최근에 닫았나 봅니다
+P0 	: 2호점은 어디에 있었어요
+P1 	: 많은 홍차의 종류가 있어서 편리하겠지요
+P0 	: 홍차 전문점 이었으니까요
+P1 	: 동대신동 지하철역 라인으로 가다 보면 있었어요

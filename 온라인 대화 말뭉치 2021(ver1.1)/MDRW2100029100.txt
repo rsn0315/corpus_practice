@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100029100
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스포츠 좋아하세요?
+P0 	: 네 스포츠 좋아하죠!
+	  좋아하시나요?
+P1 	: 저도 보는거 좋아해용 ㅎㅎ
+P0 	: 어떤거 좋아하세요!
+P1 	: 축구랑 야구 배구용 !
+P0 	: 여러가지 좋아하시네요
+	  응원하시는 팀 있으세요?
+P1 	: 팀은 없는데 그냥봐요ㅋㅋㅋ 지고이기는것도 좋은데 그냥 플레이자체를 좋아해용
+P0 	: 마자요 재밌죠!
+	  올림픽 보셨어요?
+P1 	: 네넹 올림픽진짜 배구 ㅠㅠㅠㅠ감동적이었어요
+P0 	: 마자요ㅠ 진짜 감동적이고 멋있었어요!
+P0 	: 선수들 부상도 많았는데 끝까지 버텨주고 대단하더라구요
+P1 	: 내년에도 볼경기 많아용 !
+P0 	: 마자요 내년에 월드컵도 있고 다른것도 많이 있다그러더라구요
+P0 	: 뭐였는지 기억이 잘 안나긴하지만..
+P1 	: 맞아용 ㅎㅎ

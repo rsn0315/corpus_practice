@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100003475
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 세종
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 짜장면 좋아해요!
+P1 	: &name1&님은요? 볶음밥도 잘 먹습니당ㅎㅎ
+P0 	: 짜장면은 기본좋아하시나요?
+P0 	: 저는 간짜장 좋더라구요
+P1 	: 저도 간짜장 좋아해요
+P1 	: 해물 좋아해서 해물짜장 이런것도 좋아요ㅎㅎ
+P0 	: 해물짜장 너무 맛있죠!
+P0 	: 짜장먹을 때 따로 곁들여먹는거 있나요
+P1 	: 저는 클래식한 단무지요ㅋㅋㅋ
+P1 	: 짜장은 꼭 단무지랑 함께 먹어요
+P1 	: 그리고 탕수육도 좋아해요
+P0 	: 역시 짜장에는 단무지가 가장 잘어울리죠
+P0 	: 탕수육은 찹쌀좋아하시나요?
+P0 	: 기본좋아하시나요?
+P1 	: 찹쌀도 좋고 오리지널도 좋아요!
+P0 	: 그렇다면 부먹 찍먹!
+P1 	: 둘 다 먹고싶은 날이 좀 다르더라구요? 바삭한게 땡기는 날이 있구
+P1 	: 당연히 찍먹이죠
+P0 	: 뭔가를 아시네요
+P1 	: 전 바삭한걸 좋아해서 찍먹파인거 같아요
+P1 	: 눅눅한거 싫어요ㅠㅠ
+P0 	: 저두요ㅠㅠ
+P0 	: 튀김은 바삭한게 최고인거같아요
+P1 	: 그쵸 전 오징어튀김도 좋더라구요

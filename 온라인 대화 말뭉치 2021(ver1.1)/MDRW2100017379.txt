@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017379
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P0 	: 건강에 관심 많으세요?
+P1 	: 네! 좀 있어요!
+P0 	: 오~ 건강을 위해 어떤 것들을 했나요?
+P1 	: 운동을 했습니다!
+P1 	: 영양제도 챙겨먹었구요!
+P0 	: 와~ 운동은 어떤거 하세요? 저는 홈트해요.
+P1 	: 그냥 가벼운 산책정도 해요 운동이라기에는 뭐하네요 ㅎㅎ
+P0 	: 아~ 산책도 훌륭한 운동이에요 ㅎㅎ
+P0 	: 그럼 영양제는 어떤거 챙겨드세요?
+P1 	: 유산균이랑 루테인 챙겨먹고있어요
+P0 	: 좋은거 챙겨먹네요. 비타민은 안먹어요?
+P1 	: 비타민도 먹으라고 하는데 제가 귀찮아서.. 잘 안챙겨 먹어요 ㅎㅎㅎ
+P0 	: 괜찮아요 ㅎㅎ 전 오메가쓰리도 챙겨먹고 있어요
+P0 	: 칼슘도요 ㅜㅜ
+P1 	: 오메가3는 먹을때 맛없어서 안먹게되요..
+P0 	: 씹어 드시나요..?ㅋㅋ
+P1 	: 그 혀에 닿는 맛이 싫어요...
+P1 	: 비릿한...그.. 네..
+P0 	: 저도 예전에 알약 삼킬 줄 몰라서 씹어먹었는데
+P0 	: 알약 삼켜도 비릿한 건 똑같더라구요 ㅋㅋ ㅜㅜ
+P1 	: 0ㅁ0
+P1 	: 그거 씹으면 뱉을것같은데 괜찮으셨나요..?
+P0 	: 안씹으면 엄마가 저 때리면서 화냈어요 ㅜ

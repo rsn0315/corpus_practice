@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100013975
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 부산
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 혹시 학생이신가요?
+P1 	: 아뇨 직장인이에요ㅠ 학생이세요?
+P0 	: 네 전 대학생이에요!
+P1 	: ㅎㅎ 저도 영어는 계속 하구있어요ㅋㅋ
+P0 	: 직장인도 공부를 멈출 수 없긴하죠ㅜㅜ
+P0 	: 시험 준비 하시는 거에요?
+P1 	: 그건 아닌데 토익점수는 유지해야해서ㅠㅠ
+P0 	: 공부 얘기는 긍정적이긴 힘든 거 같아요...ㅋㅋㅋㅋ
+P0 	: 일하시면서 공부하려면 힘드시겠어요ㅜㅜ
+P1 	: ㅎㅎ 그쵸...취업하면 공부안하는줄 알았는데..ㅋㅋ준비하시는거 있으세요?
+P0 	: 전 학교 시험이 거의 매주있어서 학교 공부하고 있어요ㅜㅜ
+P0 	: 근데 이번주는 시험없어서 조금 널널한?ㅋㅋㅋ
+P1 	: 아ㅎㅎ매주 있으면 힘들거같아요ㅠ
+P0 	: 현대인에게 쉬운 길은 없나봐요ㅜㅜ
+P1 	: 맞아요ㅎㅎ 동생은 기사시험 준비하는데 너무 함들어하더라구요ㅠ
+P0 	: 와 기사시험 진짜 어렵다던데요ㅜ 합격률 얼마전에 봤는데 극악이더라구요...!
+P1 	: 네 근데 또 그게 필수라고ㅠㅠ

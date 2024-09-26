@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100013240
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요! 스포츠 관심 있으세요??
+P0 	: 넵 올림픽이나 월드컵보는거 되게 좋아해요
+P1 	: 이번 올림픽 진짜 재밌었져 ㅋㅋㅋ 국뽕 한가득
+P0 	: 우리나라는 양궁을 정말 잘하는거 같아요 ㅎㅎ
+P1 	: 양궁 진짜 맘 졸이면서 봤는데 진짜 다 잘 쏘시더라구여 !
+P0 	: 혹시 어제 패럴림픽 개막식하던데 보셨어요?
+P1 	: 저번 올림픽 폐막식때 좀 실망했어서 보려다 말았어요 ㅠㅜ 보셨어요?
+P0 	: 저는 그런거 보는거 좋아해서 나름 재밌더라구요 ㅎㅎ
+P0 	: 이번겨울에도 동계올림픽 하던데 보실거에요?
+P1 	: 오 이번 패럴림픽 개막식은 재밌었나보네요!
+P1 	: 아마 볼 거 같아요 이번 올림픽도 넘 재밌었어서 ㅋㅋㅋ
+P0 	: 동계올림픽에서 좋아하는 종목 있으세요?
+P1 	: 음 지금 생각나는건 스케이팅 재밌게 봤던 거 같아요
+P1 	: &name2&은 어떤 종목 좋아하세요?
+P0 	: 저는 피겨스케이팅이나 봅슬레이가 재미있더라구요 ㅎㅎ

@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022675
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아하세요?
+P1 	: 스포츠는 보는 것만 좋아해요 ㅎㅎ
+P0 	: 어느 종목이요?
+P1 	: 좋아하는 스포츠 있으세요?
+P1 	: 전 이번에 올림픽 여자 배구 재미있게 봤어요
+P1 	: 김연경 선수 좋아해서요
+P0 	: 전 하는것도 보는것도 잘 안하는거 같아요^^
+P0 	: 이번에 배구는 조금 보긴 했어요
+P1 	: 네~ 4강까지 올라가는 데 진짜 흥미진진하더라고요
+P0 	: 김연경 선수 부상 당하고도 열심히 했잖아요
+P1 	: 맞아요~ 허벅지 부상 보니 마음 아프더라고요
+P0 	: 선수들 다 진짜 열심히 해서 간절함이 보이더라구요
+P1 	: 메달 땄으면 더 좋았겠지만 4강도 대단한 것 같아요
+P0 	: 은퇴 하기 전 매달 땄음 더 좋았을 텐데 좀 아쉬워요
+P1 	: 맞아요.. 진짜 아쉬워요
+P1 	: 기량으로 보면 아직 더 뛸 수 있을 것 같은데 말이에요
+P0 	: 그러게요.. 쌍둥이 사건만 아니였음
+P1 	: 정신적으로 많이 힘들었을 것 같아요

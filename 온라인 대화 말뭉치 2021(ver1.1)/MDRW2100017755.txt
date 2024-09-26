@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100017755
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 여행가면 어떤 기념품 사오시나요?
+P1 	: 안녕하세요!
+P1 	: 음 저는 여행지에 유명한 음식?같은거 사오는편이에요 ㅋㅋㅋㅋ
+P1 	: &name1&은요?
+P0 	: 오 어떤 종류의 음식 사오셨나요?
+P1 	: 음 간식류 주로 사온거같아요 빵이나 ㅋㅋㅋ
+P0 	: 대전의 성심당 이런 곳 가신건가요?ㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ아 당연히 거기서도 성심당 사가구 그래욬ㅋㅋㅋ
+P1 	: 빵을 좋아해서 타지역가면 유명빵집 들리곤해요ㅋㅋㅋㅋ
+P1 	: 최근에 어디 여행 다녀오셧나요?
+P0 	: 저는 최근에 강릉 다녀왔어요!
+P1 	: 오오 커피드셧나용ㅋㅋㅋㅋ
+P0 	: 네 한시간 반이나 줄서서 흑임자 커피 마시고 왔습니당 ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ오 흑임자커피 맛잇나요?어디에요?ㅋㅋㅋㅋ
+P0 	: 저 강릉에있는 카페 툇마루 다녀왔어요!
+P1 	: 오 그렇군요! 또뭐하셧어요?
+P0 	: 짬뽕 순두부 먹고왔어요
+P0 	: 여행가서 다 먹은 기억뿐이네요
+P0 	: ㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋ원래 여행지가서 먹는게 남는거아니겟어욬ㅋㅋㅋㅋ사진이랑
+P1 	: 맛집 검색 필수에요ㅋㅋㅋ
+P0 	: 맞아요 ㅋㅋㅋ
+P0 	: 그럼 여행가서 맛집 다니는거 좋아하시나요?

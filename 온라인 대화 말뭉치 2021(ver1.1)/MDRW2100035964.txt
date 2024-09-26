@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100035964
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅎ 오늘은 차를 드셨나요?
+P0 	: 커피 한모금..ㅎ 좀 바쁘네요.ㅋ
+P1 	: 폭풍같은 하루  물 한잔 겨우 마셨어요 ㅠㅠ
+P0 	: 저녁 뭐 먹어요?
+P1 	: 아직 못사서 냉장고 텅 ㅜㅜ 망했어요 물만 마셔야 할 각 ㅋㅋ 지난주에 쟁인 떡볶이라도 먹어야하나 싶어요
+P0 	: 외식하던데
+	  배달 음식..ㅎ
+	  저는 콩나물국밥먹어요.
+P1 	: 오 맛있겠네요 ㅎㅎ 많이 드세요 ㅎㅎㅎ
+P0 	: 저녁 메뉴 정했어요?
+P1 	: 있는거 ㅋㅋ  친정맘 반찬 ㅋㅋ
+P0 	: 건강식 드셨네요.
+	  나도 엄마밥 먹고 싶다.. ㅎ
+P1 	: ㅎㅎ 맞아요 나물들 ㅋㅋㅋ
+P0 	: 내일은 꼭 어묵을 에어프라이어에 돌려서 먹겠어요..ㅎ
+	  내일은 외식안함을 선언함..ㅋ
+P1 	: 오호 내일 무슨 날인가요 ㅎㅎ
+P0 	: 저녁 뭐 드삼?
+	  밥 먹고 일하셔야죠

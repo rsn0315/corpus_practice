@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100001446
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211016
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 안녕
+P1 	: 안녕하세요 :)
+P0 	: 넹
+P0 	: 안녕하세요
+P0 	: {emoji}
+P1 	: 감사합니다 ㅎㅎ
+P1 	: &name1&님 점심식사는 하셨나요~?
+P0 	: 네 ㅎㅎ 식사하셨어요?
+P0 	: 전 명란비빔밥에 계란국먹었어용
+P1 	: 헉 맛있었을 것 같아요..! 명란이라니 ㅜㅜ
+P1 	: 네 저는 간단하게 빵을 먹었어요 ㅎㅎ
+P1 	: &name1&님 취미가 어떻게 되세요?ㅎㅎ
+P0 	: 저는 컴퓨터게임이랑 헬스좋아해요 ㅎㅎ
+P0 	: 요새는 영어 프리토킹에 관심이 생겨서 시간을 그쪽으로 조금씩 할애하는 중이에여
+P0 	: 뭉치님은 빵으로 배가고파서 어떻게 오후에 일해요 힘드시겠다
+P1 	: 앗 취미부자시군요 영어회화까지..!
+P1 	: 그래도 단걸 먹어서 그런가 머리가 잘 돌아가는 것 같아요 ㅎㅎ
+P1 	: 혹시 게임은 주로 어떤거 하시나요~?
+P0 	: 저는 컴퓨터게임하고 롤 자주해요 ㅎㅎ
+P0 	: &name2&님은 취미가뭐에요?
+P1 	: 저도 게임 좋아해요 ㅎㅎㅎ
+P1 	: 혹시 스팀게임도 하시나요..? ㅋㅋㅋ
+P0 	: 스팀은
+P0 	: 배그밖에...ㅋㅋㅋㅋ
+P0 	: 스팀에서 뭐 하세용ㅎㄹㄹ
+P1 	: 그렇군요 ㅋㅋㅋ 저 스팀에서는 이것저것 하는데, 최근에는 curious expedition2를 재밌게 했었어요 ㅎㅎㅎ
+P0 	: 감사합니당ㅎㅎ 오늘도 고생하세용
+P0 	: {emoji}

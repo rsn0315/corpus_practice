@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013046
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 이제 애들 수업 끝날 때 거의 다 됐네 ㅎㅎ
+P0 	: ㅇㅇ 12시에 끝나는 거 너무 짧은 것 같아
+P1 	: 오후에도 동영상 강의 있고 하니
+P0 	: 일단 줌 끝나면 하기 싫어하더라고
+P1 	: 거의 과제 중심으로 되어 있다보니
+P0 	: ㅇㅇ 오후엔 숙제하다 끝나
+P1 	: 언제까지 온라인이지?
+P0 	: 9월 첫째주까지
+P1 	: 그 이후엔 아직 계확 없는거지?
+P0 	: ㅇㅇ 4단계에선 계속 온라인일 것 같아 ㅠ
+P1 	: 소규모학교라 3단계 가야 등교하겠네
+P0 	: 아마 그럴듯.. 3단계도 불안하긴 해
+P1 	: 그애도 밥은 안먹고 오니까
+P0 	: 급식 안먹고 와도 한반에 25명 다닥다닥이라 불안하지 ㅎㅎ

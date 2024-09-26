@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100003155
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 최근에 공연이나 영화 보신거있으시나요?
+P0 	: 저도 그질문할려했는데ㅎㅎ
+P0 	: 일욜날 진짜 올만에 모가디슈 보고왔어요
+P1 	: 오 모가디슈 보고싶은데 어땠나요? ㅎㅎ
+P0 	: 무슨내용인지 모르고갔는데 전 재밌었어요 조인성 연기도잘하고
+P1 	: 오그렇군요 영화관에 사람많았나요?
+P0 	: 주말은 그래도 꽤있던데요
+P0 	: 이사님이 비싼 7만원짜리 영화예매권을줘서 ㅋ
+P0 	: 누워서 보고왔어요 32좌석있는 프리미엄 영화관에서요
+P1 	: 와부럽네요ㅎㅎ 비싼만큼 좋은거죠?
+P0 	: 네 라운지에서 쉴수도있고 음료도 갖다줘요ㅎ 물은 에비앙으로 주던데요ㅋ
+P1 	: 비싼물주네요ㅋㅋ 영화관 안에서 와인도 마실수있나요?
+P0 	: 그건 더 비싼상영관은 되지싶은데 ㅎㅎ 음식도 나오고ㅋ
+P0 	: 8좌석있는게 37500원이더라구요
+P1 	: 헉 더비싼데도있어요?ㅋㅋ
+P0 	: 좌석이 리클라이너로 비행기 비지니스석같은 의자예요ㅎ 슬리퍼도있고 담요도 주고
+P1 	: 프라이빗해서 좋은거같아요ㅎㅎ

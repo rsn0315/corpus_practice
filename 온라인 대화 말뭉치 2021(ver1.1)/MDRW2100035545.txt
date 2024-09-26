@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100035545
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 맛저하셨어요?
+P0 	: 저는 아직이요 저녁 드셨나요?
+P1 	: 넵 치킨!!!
+P0 	: 어디 브랜드껀가요?
+P1 	: 치킨마루ㅋㅋ
+P1 	: 집앞이라 자주 먹어요
+P0 	: 맛있겠네요 어떤 치킨이었나요? 양념?간장?후라이드?
+P1 	: 세마리 다 시켰습니다! ㅋㄱㅋ
+P0 	: 우와 양념 후라이드 간장 다요??
+P1 	: 다섯명이 먹었어요!!! ㅋㅋ
+P0 	: 아~~그렇군요
+P0 	: &name2&님은 셋 중에 뭐가 가장 맛있었나요??
+P1 	: 세개다 맛나서 그냥 전 날개는 다 맛있어요! 윙!
+P0 	: 오 부드러운 살 좋아하시는군요!!

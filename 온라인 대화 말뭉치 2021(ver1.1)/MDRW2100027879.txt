@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027879
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장 다니세요?
+P0 	: 네ㅎㅎ 사무직 다니고 있어요 일 없어서.. 슬쩍 월루중
+P1 	: 일반 사무직이셨군요
+P1 	: 주로 어떤 업무를 하나요?
+P0 	: 음 설명하려니 어렵네요.. 이거저거 해요ㅋㅋ 요즘은 판매하는 제품 문의 들어오면 매뉴얼 작성해서 보내주는 일?
+P0 	: cs는 아닌데 cs같네요..
+P1 	: 매뉴얼 작성이라니... 말만 들어도 어려워요
+P0 	: 저도 모르는거 문의 들어올 때가 제일 고통스러운ㅜㅜㅋㅋ
+P0 	: &name2&님은 학생이신거죠? 사실 선생님이신걸까
+P1 	: 저는 대학생이에요ㅎㅎ
+P1 	: 초성은 원래 쓰는 닉네임이긴 하지만 &name2&는 아니네요
+P0 	: 알려주실게 아니면 &name2&님으로 합시다!(??)
+P0 	: 부럽다.. 전 다시 학생되면 더 놀래요
+P1 	: ㅎㅎ나중에 기회되면 알려드릴게요
+P1 	: 코로나라서 놀진 못하고 있어요ㅠ
+P0 	: ㅜㅜㅠ앗.. 슬픔
+P0 	: 하긴 친구 만나기도 어렵겠네요.. 당장 저도 서너달에 한번 밥만 한끼 하는거같아요ㅋㅋ
+P1 	: 저는 만나서 먹기 좀 그래서
+P1 	: 줌 화면 켜놓고 먹어요ㅋㅋ
+P0 	: ㅋㅋㅋㅋㅋ비대면시대에 걸맞는 식사약속!
+P1 	: 맞죠ㅋㅋ

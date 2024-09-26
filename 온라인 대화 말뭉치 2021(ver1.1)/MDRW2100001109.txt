@@ -1,0 +1,422 @@
+# FILE DATA
+ID : MDRW2100001109
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210729
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P1 	: 혹시 롯데시네마 오픈 예정인곳 알고 있으신데 있으세요?
+P0 	: 모르겠어요
+P0 	: 들어왔어요
+P1 	: 그러면 cgv나 메박은 오픈 예정인데 있나요?
+P0 	: 잘 모르겠어요ㅠㅠ
+P1 	: 혹시 무인카페 매장 갈만한 곳 있나요?
+P0 	: 저는 매장만가서 무인매장이 있기는 있다고 들어봤어요
+P1 	: 사람 없는 카페인데 아무 눈치 안보여서 좋아요. 단, 지금은 10시 이후로는 매장내 시음은 불가라서요.
+P0 	:  네 그렇군요
+P0 	: 코로나이지만 이럴때일수록 잘드세요
+P0 	: 그래야 폭염이긴다네요
+P1 	: 네. 알겠습니다.
+P1 	: {system:delete}
+P1 	: 지금 영화별 전국 시사회가 코로나로 많이 줄어 들었네요.
+P0 	: 네 그러게요
+P0 	: 극장도 관람객이 줄고요
+P1 	: 언제까지 코로나 때문에 맘 놓고 노마스크 관람할 날이 올지 모르겠네요?
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210729
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P0 	: 마스트 밖에서 오래하면 온열질환위험하데요
+P1 	: 그래도 마스크 안하는 거보다 하는게 낫지요? 코로나 때문에 마스크 자주하고 다니다 보니 예전 노마스크 때 걸리던 감기가 한번도 안걸렸습니다.
+P0 	: 저도 힘들지만 마스크 하고 다녀요
+P1 	: 작년 처음 유행할때만 해도 마스크 받을라고 줄이 장사진이던데 지금은 그보다 더 큰데도 마스크 구매하기 위해 줄서는 장면이 많이 없네요.
+P0 	: 맞아요 마스크 받으려고 번호표 뽑고 그렜죠
+P0 	: 지금은 그게 없어서다행
+P1 	: 지금은 마스크가 많이 생산해서 그나마 나은편이긴 해요.
+P0 	: 그렇죠
+P1 	: 요새 온라인 관련 테마주가 많이 늘어난거 같아요.
+P0 	: 네
+P1 	: 오프라인으로는 코로나 때문에 많은 사람들 앞에서 진행이 안되니까요?
+P0 	: 그런가봐요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210729
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P0 	: 장염 조심하세요 ..~~
+	  물은 끊여 마시시구요
+P0 	: 요즘 그게 유행이라네요
+P1 	: 지금은 너무 더워서 한밤이 아니면 물 끊여 마시기도 그런데요?
+P0 	: 물 끊여서 저는 냉장고에 넣어서 마셔요
+P1 	: 네. 알겠습니다. 어쨌든 새겨 들을께요.
+P0 	: 생수보다는 둥글레나 결명자차가 좋아요
+P1 	: 둥글레 결명자차 저도 마십니다.
+P0 	: 네
+P1 	: &name1&님 그런데 코로나가 언제까지 갈까요?
+P0 	: 저고 잘 모르겠어요 티비서 보면
+P0 	: 심각해요
+P1 	: 싸스나 메르스보다 기간이 더 오래갈거 같네요.
+P0 	: 그러내요
+P1 	: 이렇게 끈질기고 변이가 심한 바이러스는 첨이네요.
+P0 	: 코로나 심각해서 얼른 끝났으면 좋겠는데 오래가네요
+P1 	: 백신 맞는다 해도 또 걸린다 하니 아무래도 많은 시간이 필요할거 같습니다.
+P0 	: 그러게요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210729
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P1 	: 하나 물어볼게 있는데요?
+P0 	:  네
+P1 	: 체중이 너무 많이 나가는데요?
+P0 	: 제가요?
+P1 	: 아니요? &name1&님 말고 저요.
+P0 	: 네
+P0 	: 핑거루트 드세요
+P0 	: 환이든 가루이든
+P1 	: 그거 보조제인가요?
+P0 	: 네
+P0 	: 홍지민 이라는분이 그거 먹고 살이 많이 빠자셨데요
+P1 	: 보조제 말고 주변에 음식 같은건 없나요?
+P0 	: 그거도 먹고 야채도 먹고
+P0 	: 그래야 살이 빠진데요
+P0 	: 레몬즙도 살이 빠진데요
+P1 	: 그래도 뺄라면 몇달 걸리겠지요?
+P0 	: 그러겠죠
+P1 	: 운동도 병행해야 되는데 코로나로 인해 그거조차 제약이 많네요.
+P0 	: 그러게여
+P1 	: 아무튼 건강 관리 잘해야 될거 같아요. 나중에 톡 들어 올께요. 맛점 드시구요.
+P0 	: 네
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P1 	: &name1&님. 계시지요?
+P0 	: 네
+P0 	: 저 여깄어요
+P1 	: 지금 코로나 전국으로 다 극성인가 보네요?
+P0 	: 네 그러게요 티비서 보면 심각해요
+P1 	: 요새 백화점이나 마트도 걸리는데가 많아졌구요.
+P0 	: 그러게 말입니다
+P0 	: 코로니 때문에 힘드네요
+P1 	: 작년보다 지금이 더 불안한건 왜일까요?
+P0 	: 불안해요
+P0 	: 코로나 백신 맞고
+P0 	: 사망한사람도 있고
+P1 	: 3단계는 PC방, 스터디카페, 영화관 외엔 전부 10시에 마치거나 아님 영업중단이니까요?
+P0 	: 그러더라구요
+P1 	: 올해는 노마스크 여행 아예 물건너 간거 같구요.
+P0 	: 그러게 말입니다
+P1 	: 1~2주 간격으로 목욕이나 찜질하러 갔는데 그거조차도 이제 어렵게 되었네요.
+P0 	: 마스크 안하고 사는 날이 올까요?
+P0 	: 네 그렇궁요
+P1 	: 오긴 오겠지요? 단, 언제 끝일지는 모르겠지만요.
+P0 	: 네 그날이 오겠지요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 시사(정치, 경제, 사회)
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P1 	: 코로나 시국이라 해도 그렇다고 버스나 지하철 안탈수 없는거구요.
+P0 	: 안탈수 없어요
+P0 	: 버스나 지하철
+P1 	: 택시나 기차도 버스 지하철 끊기면 타야 되니까요?
+P0 	: 네 그헣죠
+P1 	: 그나마 마스크 써서 매년마다 자주 걸리던 감기가 백신 안맞아도 안걸린다는게 장점. 또 하늘이 맑은 경우도 많아졌구요.
+P0 	: 네 장마도 빨리 끝나고요
+P1 	: 또 작년엔 코로나로 자주 연기되던 영화도 올해는 조금이나마 개봉 하더라구요.
+P0 	: 그렇군요
+P1 	: 단, 연마디 나오던 천만 관객 영화는 당분간 안나올거 같습니다.
+P0 	: 그러게요
+P1 	: 코로나 때문에 좌석이 거의 절반이나 3분의 1 정도 줄어드니 그런거도 있구요.
+P0 	: 네
+P0 	: 힘드니까
+P0 	: 코로나로
+P0 	: 힘달어요ㅠㅠ
+P1 	: 혹시 보시고 싶은 영화 있으신지요?
+P0 	: 코로나맘 아니면 영화보고싶러요ㅠㅠ
+P1 	: 그러면 아직도 영화 보러 못가시지요?
+P0 	: 네 못가고 있어요
+P1 	: 예. 알겠습니다. 혹시나 영화 보러 가게 되는 날이 오면 얘기해 주세요.
+P0 	: 네 그럴게요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P1 	: 카페 자주 가시는데 있으신지요? 브랜드나 비브랜드 상관없이요?
+P0 	: 이벤트 카페요
+P0 	: 아 카페는 스타벅스
+P0 	: 쿠폰생기면가요
+P1 	: 예. 그런데 아까 제가 물어본건 커피 및 베이커리 카페였는데요?
+P0 	: 네 몰랐어요
+P0 	: 베이커리는 앙가봤고
+P0 	: 스타벅스나
+P0 	: 투썸이나
+P0 	: 가요
+P1 	: 전 카페를 브랜드 쪽으로 가는 편인데요. 스타벅스, 이디야, 엔제리너스, 할리스, 투썸플레이스, 파스쿠찌 순으로 갑니다.
+P0 	: 그러시군요
+P1 	: 아 그리고 공차도 갑니다.
+P0 	: 공차요
+P0 	: 아 그러시귴여
+P1 	: 베어커리는 잘 안가시나 봐요?
+P0 	: 네
+P0 	: 그렇죠
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210731
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>동호회/스터디
+intimacy  :  3
+contact_frequency  :  주 3회 이상
+
+P0 	: 스타벅스 쿠폰으로
+P0 	: 다른거로 가져와요
+P1 	: 저는 간다하면 파리바게뜨 아니면 뚜레쥬르 갑니다. 베이커리 갈만한데는 그 2군데 뿐이라서요.
+P0 	: 네 그러시군요
+P1 	: 그것도 요새 코로나로 인해 가끔 간답니다.
+P0 	: 저도 코로나맘 아니면
+P1 	: 아니면 어떻게요?
+P0 	: 코로나만 아니면 구경하는건데
+P0 	: 스타벅스 투썸
+P0 	: 요
+P0 	: 쿠폰이 가끔 당첨되요
+P1 	: 네. 알겠습니다. 이야기가 너무 길고 같으니 담 톡때 다시 뵐까요?
+P0 	: 네
+P0 	: 그렇게
+P0 	: 해요
+P1 	: 담에 또 인사 드릴께요. 좀 있다 저녁 식사 드세요.
+P0 	: 네 &name2&님도 맛있는 저녁드세요
+P1 	: 예. 들어가세요.

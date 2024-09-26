@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036200
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행 좋아하시나요
+P1 	: 좋아해요 ㅋㅋ
+P1 	: 여유있게 여행만 다니면서 살고프네요 ㅋ
+P0 	: 기억에 남는 여행지는요~?
+P1 	: 너무 오래되서 다들 가물가물해요ㅜ
+P1 	: 가고싶은곳은 많은데ㅜㅜ
+P0 	: 그러시군요 코로나 진정되면? 어디먼저 가고싶으신가요
+P1 	: 저는 일본이요!
+P1 	: 가본적 있으세요?
+P0 	: 네 10년도 더 된것 같아요
+P1 	: 저는 한번도 안가봐서 환상? 로망이 좀 있어요 ㅋㅋ
+P0 	: 그럼 국내는 어디가 좋으셨나요
+P1 	: 저희동네 출렁다리 갔다왔어요 ㅋㅋ
+P0 	: 출렁다리가 어디에 있나요? 산이겠죠?
+P1 	: 바다요 바로밑이 바다에요 나름 국내최장이라더라고요
+P0 	: 어머 신기하네요. 관광지로 인기많겠어요

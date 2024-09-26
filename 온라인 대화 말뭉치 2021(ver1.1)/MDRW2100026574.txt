@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100026574
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 요즘 사고싶은 물건 있어요?
+P0 	: 운동화 새로 하나 살까 고민중이에요
+P1 	: 오 좋아하는 운동화 브랜드 있어요?
+P0 	: 딱히 좋아하는 브랜드가 있지는 않고 그때그때 예쁘고 마음에 드는 거 발견하면 사는 편이에요
+P1 	: 은근히 신발 살때도 까다로운거 같아요
+P0 	: 지금은 흰색 신고 있는데 이번엔 어두운 색으로 살 생각이에요
+P1 	: 흰색이 깔끔해서 신다보면 때타는게 눈에보이고 검정색은 너무 시커멓고 그러지 않아요?
+P0 	: 맞아요ㅋㅋ 흰운동화는 빨아도 한계가 있더라구요
+P0 	: 원하는 색조합에 발도 편하고 재질도 마음에 드는 가격이 적당한 운동화 만나기가 쉽지 않네요ㅋㅋ
+P1 	: 신발이 예쁘면 발이 불편하지 않아요?
+P0 	: 그런 경우가 많더라구요ㅠ
+P0 	: 그래서 자주 안 신게 돼요
+P1 	: 예쁘면서 편한신발은 너무 찾기 힘들어요ㅠ
+P0 	: 발이 까지던지 허리가 아프던지ㅠ
+P1 	: 맞아요 특히 뒷꿈치 까지는건 너무 아파요
+P0 	: 심사숙고해서 골라야죠 뭐ㅠ 그래도 또 실패하고 그렇지만ㅋㅋ

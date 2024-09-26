@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012466
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 집안일 자주하시나요?
+P1 	: 아니요. 방 청소만 하는 거 같아요.
+P0 	: 자취 하세요?
+P1 	: 가족이랑 같이 살아요
+P0 	: 저도요
+P1 	: 가족들이 집안일 같이 해주니까 좀 나아요
+P0 	: 저도 분담하는 편이엥ᆢ
+P1 	: 좋네요. 전 빨래가 가장 귀찮더라구요
+P0 	: 저는 음쓰 버리는거요
+P1 	: 맞아요ㅠ 여름철엔 냄새도 너무 심하구요
+P0 	: 벌레도 생기죠
+P1 	: 네 그래서 빨리 치워야되잖아요
+P0 	: 맞아요 스트레스예요

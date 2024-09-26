@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100034779
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요! 식사하셨나요?
+P1 	: 안녕하세용 저녁 방금 먹었어요!
+P1 	: 드셨어요?
+P0 	: 네 저도 좀 전에 먹었어요
+P0 	: 뭐 드셨나요?
+P1 	: 파리바게트에서 빵 사와서 빵 먹었어요ㅎㅎ
+P1 	: 개인적으로 뚜레쥬르가 입맛에 더 맞는것같아용
+P0 	: 뚜레쥬르 빵 맛있죠!
+P0 	: 뻥 좋아하시나봐요
+P1 	: 네네 좋아해요ㅋㅋㅋ &name1&님은 무슨 음식 좋아하세요?
+P0 	: 아이고 오타가 났네요ㅋㅋㅋ 죄송해요
+P0 	: 저는 요즘 마라탕 자주 먹어요!
+P1 	: 괜찮아요!ㅎㅎ 아 마라탕 너무 맛있죠
+P1 	: 매운거 잘 못먹지만 마라탕은 꾸역꾸역 먹어요ㅋㅋㅋ
+P0 	: 최근에 입문했는데 너무 맛있더라고요~
+P0 	: 마라샹궈도 드셔보셨나요?
+P1 	: 헉 아직이요!
+P1 	: 훠궈는 먹어봤는데
+P1 	: 마라샹궈도 맛있나요?
+P0 	: 저도 아직 안 먹어봤는데 마라샹궈 먹어본 친구들이 다 탕보다 샹궈가 더 맛있다고 하더라고요!
+P1 	: 꼭 먹어볼게요ㅋㅋㅋㅋ
+P1 	: 제가 중식을 워낙 좋아해서
+P1 	: 입맛에 잘 맞을것같아요ㅋㅋ
+P0 	: 오 그럼 맛있게 드실 거 같아요!

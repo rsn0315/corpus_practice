@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100035343
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 점심 드셨나요?
+P0 	: 네 저는 꼬마김밥 말았어요 &name2&님은요?
+P0 	: &name2&
+P1 	: 오 맛있으셨겠어요!
+P1 	: 전 두부면파스타 먹었네요ㅎㅎ
+P0 	: 두부면은 안먹어봤어요
+P0 	: 맛있나요?
+P1 	: 네 저는 두부면 좋아하는데 호불호가 조금 갈릴 것 같아요..!
+P1 	: 칼로리도 낮고 건강에도 좋아서 자주 먹고있어용
+P0 	: 쫄깃한가요 아니면 그냥 말린 두부 같나요? 밀가루 면 식감인가요?
+P1 	: 일반 두부보다 쫄깃한 식감인데 밀가루면이랑은 다른느낌이에요 !
+P0 	: 훠궈에 들어가는 건두부 식감인가요?
+P0 	: 얇은 두부있잖아요 종이장같은 두부요
+P0 	: 두부면의 가격은 어느정도인가요?
+P1 	: 건두부보다는 도톰해서 더 면같아요 !! 근데 건두부로도 파스타 해먹어도 맛있을 것 같아요
+P1 	: 가격은 한 2000-3000원대면 구매가능하더라구요
+P0 	: 밀가루 면이랑 크게 안다르네요?
+P0 	: 두부면 뽐뿌가 왔엉요 쿠팡장바구니에 담아놔야겠어요
+P1 	: 약간 호불호가 갈리는데 건두부 좋아하시면 전 추천해드림니다 ㅋㅋ!
+P1 	: 한번 드셔보세요 ㅎㅎ
+P0 	: 좋은 템을 추천 받았네요 감사합니다/ ㅋㅋㅋ

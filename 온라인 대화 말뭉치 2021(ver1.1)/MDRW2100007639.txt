@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100007639
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동호회 활동을 하고계세요?
+P1 	: 동아리 활동은 하고 있어요.
+P0 	: 어떤 동아리인가요?
+P1 	: 책 같은 걸 읽고 생각을 나누고 있어요
+P1 	: 동호회 활동 하시나요?
+P0 	: 아니요 저는 개인적으로 활동적인 운동관련 또는 공방관련 동아리에 관심이 있는데
+P0 	: 시국이시국인지라 미루고있어요
+P1 	: 무슨 운동 동아리 하고 싶으세요?
+P0 	: 요즘 제일 하고싶은건 배구요
+P0 	: 최근 올림픽을 보고 관심이 커졌어요
+P1 	: 헉 저도 요새 배구 동호회 관심 많아요
+P1 	: 학교에 새로 생겼더라구요
+P0 	: 학교라고 하시면 대학교 커뮤니티를 말하시는거세요?
+P1 	: 네 맞습니다
+P0 	: 너무 좋아보여요
+P0 	: 저는 졸업한지 꽤되어서 힘들겠지만 코로나잠잠해지면 찾아보려구요
+P0 	: 또 암벽타기도 관심 있습니다
+P1 	: 운동 동호회에 정말 관심이 많으시군요
+P1 	: 예전에 해봤던 동호회는 있나요
+P0 	: 학교다닐때는 배드민턴과 볼링 동호회를 다녀봤어요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100002113
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 너 재택근무 해?
+P0 	: 나 재택 하지
+P0 	: 너는?
+P1 	: 난 프리랜서라 원래 재택이야 ㅋㅋㅋ
+P0 	: 오 대박
+P0 	: 무슨 일 해?
+P1 	: 나 그냥 디자인쪽
+P0 	: 오 디자인
+P1 	: 너는 무슨일하는데?
+P0 	: 전공이 그쪽이야?
+P0 	: 나는 그냥 회사 다녀
+P1 	: 웅 전공도 디자인했는데 원래 좀 혼자 조용히 일하는거 좋아해서
+P1 	: 이런 일이 잘 맞아
+P0 	: 그렇구나 부럽다
+P0 	: 능력있네
+P1 	: 넌 재택 어때?
+P0 	: 나는 가끔만 시켜줘
+P1 	: 할만해?
+P0 	: 하면 좋지

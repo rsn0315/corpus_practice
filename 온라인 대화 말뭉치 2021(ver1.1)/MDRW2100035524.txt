@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035524
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 주로 모바일 게임을 즐기시나요?
+P1 	: 네네 ! 최근에 디즈니 게임 시작했어요 ㅋㅋ
+P0 	: 어떤 게임인가요??
+P1 	: 그 디즈니 캐릭터들이랑 왕국 만드는 게임이에요 ㅎㅎ
+P0 	: 어렵지 않나여!?
+P1 	: 음 어렵진않아요! 이게 단계가 있어서 ㅎㅎ
+P1 	: 깨면 새로운 캐릭터가 나와요
+P0 	: 흥미가 생기네요! 지금 하는 게임 질리면 해봐야겠네욯ㅎ
+P1 	: 네네 한번 해보세요 ! 저도 시작한지 얼마 안됐지만 ㅋㅋㅋ
+P1 	: 디즈니 좋아하신다면ㅎㅎ 더 좋아하실거같아요
+P0 	: 캡쳐해뒀어요! 꼭 해볼게요ㅎㅎ 디즈니 노래도 나오나요?
+P1 	: 네 ! 나오는데 기본 배경음은 따로 있어요 ㅎㅎ
+P0 	: 음악이 좋을테니 게임도 기대되네요ㅎㅎ
+P1 	: ㅎㅎ 재밌어야할텐데요 !!!
+P1 	: 요즘은 어떤거하세요?
+P0 	: 쿠키런 오븐브레이크요ㅋㅋㅋ

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100001712
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 반려동물 키우세요?
+P1 	: 강아지요!
+P1 	: &name1&님은요?
+P0 	: 강아지! 저는 고양이에요 몇살이에요?
+P1 	: 강아지 3살이요ㅎㅎㅎ
+P1 	: 오 고양이 귀엽겠네용
+P0 	: 네 너무 귀여운데~ 불러도 안와요^^
+P0 	: 강아지는 다르겟죠?
+P1 	: ㅋㅋ보통 강아지들은 잘오던뎈ㅋㅋ 저희집강아지는 의심이많아서 안와요 ㅡㅡㅋ
+P1 	: 정말 어이가없는 강아지랍니닼ㅋㅋㅋ
+P0 	: ㅋㅋㅋㅋ아이고ㅋㅋㅋ 근대귀엽네요 강아지 이름이 뭐에요?
+P1 	: ㅋㅋㅋㅋ&name3&요!
+P1 	: 고양이는 이름이머에여??
+P0 	: 그래서 &name2&이라고 하셨나보네용ㅋㅋ &name4&에요
+P1 	: ㅎㅎ네맞아요 &name2&
+P1 	: &name4& 이름이 귀엽네요
+P1 	: 고양이 종은 뭐에요??
+P0 	: 코숏이요~ 품종묘는 아니에용
+P1 	: 코숏 넘 귀여워요ㅋ
+P1 	: 저희동네에 길냥이 봐주시는분들 있어서 고양이들이 많은데 진짜 예뻐요ㅜㅜ
+P0 	: 저희 아파트에도 치즈 밭이에요ㅋㅋ 밥주시는분들도 있던데 지나갈때마다 귀여워요

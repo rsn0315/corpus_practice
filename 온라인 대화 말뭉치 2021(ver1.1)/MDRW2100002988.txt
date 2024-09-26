@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100002988
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 연애중이신가용?
+P1 	: 네네 연애중이예요^^
+P0 	: 우왕ㅋㅋ 얼마나 되셨어요?
+P1 	: 저는 3년 넘었어요ㅎㅎ &name1&은 유부시니 결혼한지 얼마나 되셨어요?
+P0 	: 와 3년이면 긴 연애네요ㅋㅋ
+P0 	: 저는 7년차입니다ㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋ길면 길고 또 짧으면 짧은것도 같아요 오왕 7년이라니
+P0 	: 저는 제일 긴 연애가 1년반이었던거 같아요ㅋㅋ
+P0 	: 3년간의 연애에도 여전히
+	  설렘이 있나요?  :)
+P1 	: ㅋㅋㅋ근근하게 설렘이 있는거같아요ㅋㅋㄱㅋ
+P1 	: 확실히 초반보단 안정감이죠
+P0 	: 어떤게 더 좋은신거 같아요?
+P0 	: 설렘가득한 초반과
+	  셀렘과 안정감이 공존하는 지금 중?
+P1 	: 초반이 살짝 좋았던거 같기도한데 매번 설레고 맞춰나갈순없으니ㅋㅋㅋ고르기 쉽지않네요ㅋㅋ
+P0 	: 저는 불안정해도 
+	  설렘가득한 초반이
+	  더 좋은거 같아여ㅋㅋ
+P0 	: (그래서 연애가 다 짧았나ㅋㅋㅋ)
+P1 	: ㅋㅋㅋㅋㅋㄱ아그럼또 설렘가득이 좋으면 그리될수있죠 결혼생활은 설렘과 거리가 좀 멀다고 지인들이 그러는데 맞나요ㅋㅋ
+P0 	: 저는 설레임은 끝난거 같아요ㅋㅋㅋㅋ
+P0 	: 근데 남편은 아직 설레여하는
+	  포인트들이 있더라구요ㅋ
+P1 	: 오 진짜요? 대박

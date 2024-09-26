@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100018399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 일상 트렌드>온라인 피트니스 서비스
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: 요즘 헬스장 가기도 힘들고 어떻게 운동해?
+P0 	: 온라인 피트니스 서비스를 애용해
+P1 	: 유튜브 보면서 운동하는거야?
+P0 	: 맞아 그게 대표적이지
+P1 	: 맨몸 운동인건가?
+P0 	: 꼭 그렇지만은 않은데 난 주로 맨몸운동을 해
+P1 	: 집에서 운동할때 온라인 피트니스 서비스 이용하면 운동 효과도 더 좋겠다
+P0 	: 몇가지 추천해줄까?
+P1 	: 응응 나도 이용해볼래
+P0 	: 어깨운동이 중요하단 거알고있어?
+P1 	: 어깨운동은 해볼일이 없어서 몰랐어
+P0 	: 승모근이 발달하는 이유가 어깨근력이 없어서거든
+P1 	: 와 어깨 근력도 키우는 운동 해야겠다 추천해줘
+P0 	: 땅끄라는 사람은 추천할게

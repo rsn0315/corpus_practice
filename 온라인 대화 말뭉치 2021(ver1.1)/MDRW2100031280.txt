@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100031280
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 전자전기컴퓨터공학
+P0 	: 전자전기컴퓨터공학 전공했어요
+P1 	: 오 공학 전공이시구나
+P1 	: 멋지네요
+P1 	: 저는 완전 문과 스타일이라...
+P0 	: 이번에 수리 문과 이과 통합 시험이죠?
+P1 	: 네
+P1 	: 수1 수2는 같이 치고
+P1 	: 선택 과목은 확통/미적/기하 나눠져 있어요
+P1 	: 문과는 대부분 확통 선택하긴 하는데 필수는 아니에요
+P0 	: 그렇구나
+P0 	: 경제학과 가면 미적도 도움 많이될텐데
+P0 	: 이과생들이랑 경쟁이 어려워서
+P1 	: 수2에서 다항함수 미적분까지 배우고
+P0 	: 문과생들이 확실히 저 수능칠때보다 어려워졌네요
+P1 	: 미적에선 초월함수 배우는 걸로 알고 있어요
+P1 	: 그렇죠... 아무래도 이과보다 많이 밀리죠
+P0 	: 어느 전공으로 진학 생각중인가요?
+P1 	: 인문계열로 생각중이라
+P1 	: 철학과 생각했다가 종교학과란 곳이 있다는 거 알고 관심 가지게 됐어요
+P0 	: 그렇구나 잘 생각해보고 결정하세요
+P0 	: 좋은 결과 있기를 바랍니다
+P1 	: 앗 감사합니다!
+P0 	: 남은 주말 잘 보내시고 힘내세요
+P1 	: 감사합니다
+P1 	: &name1&님도 잘 보내세요!!

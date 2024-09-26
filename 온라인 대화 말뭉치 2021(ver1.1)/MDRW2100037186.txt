@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100037186
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 백신 접종하셨나요?
+P0 	: 아뇨 안했어요
+P0 	: 백신 맞기 싫어요
+P1 	: 저는 어제 2차접종까지 끝냈어요
+P0 	: 그러셨군요
+P0 	: 끝나서 좋으시겠어요
+P1 	: 아뇨
+P1 	: 사실 어제 접종했는데 오늘 컨디션이 별로라ㅠ
+P1 	: 끝내서 시원한 맘도 있지만, 접종 후에 앓는 건 걱정이예요ㅜ
+P0 	: 아 ㅠㅠ
+P0 	: 증상이 약간 있으신가봐요
+P1 	: 네 2차가 더 힘들다더니..
+P1 	: 건강하려고 백신 맞았는데
+P1 	: 백신 후유증이 있으니 몸도 맘도 편안하지만은 않네요ㅜ
+P0 	: 신문보면 무섭더라구요
+P0 	: 제가 맞는다고 그렇게 될거란 생각까진 안하지만
+P0 	: 별로 안맞고싶어서 조용히 신청안하고 있어요
+P1 	: 아아 그러시구나
+P1 	: 백신 후유증이 워낙 사람마다 달라서
+P1 	: 제 주변에도 안 맞겠단 분들 있으시더라고요
+P0 	: 그렇군요 그걸 너무 무지한 안티백서로 몰아가니
+P0 	: 좀 불편하긴 해요
+P0 	: 어디 온라인서 맞지말자 선동만 안하면 그만이라 생각하거든요
+P1 	: 아 그렇긴 하죠
+P1 	: 개인 선택일 수 있는 건데
+P1 	: 대신 코로나 안 걸리게 조심하면서 지내면 되죠
+P0 	: 네 밖에 잘안나가요
+P0 	: 그래서 굳이안맞고싶어요
+P1 	: 그러시구나

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100004981
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 해외여행 가본적 있으세요?
+P1 	: 아니요 없어요! &name1&님은요?
+P0 	: 저는 일본 가본 적 있어요! 도쿄
+P0 	: 가족이랑 갔는데 빙수도 먹고 초밥도 먹고 재밌는 경험이었어요
+P1 	: 와 부러워요! 정말 재밌었겠어요
+P0 	: 맞아요 좋은 추억으로 남아있어요
+P0 	: 7년도 전이네요..
+P1 	: 맞아요 여행은 많은 시간이 지나도 의미있는 추억이 되는 것 같아요
+P1 	: 저도 친구들이랑 서울에서 같이 밤샌게 즐거운 추억으로 있네요
+P0 	: 정말요~ 정말 소중한 추억이에요 보물같은!
+P0 	: 와 서울에서 부럽네요~ 저도 서울 놀러가고 싶어요 ㅠㅠ
+P1 	: 저도 요즘은 올라갈 기회가 없네요ㅋㅋ 코로나 끝나면 다시 가보고 싶어요~
+P0 	: ㅠㅠ 실은 저번달에 서울 2박3일로 놀러가기로 했었는데 코로나때문에 못갔어요
+P1 	: 저런..저도 서울은 아니지만 친구들이랑 놀러가려던거 취소했어요
+P0 	: 정말 코로나때문에 여행도 못가고 슬프네요
+P0 	: 마음놓고 놀지도 못하고!
+P1 	: 맞아요 코로나 끝나면 정말 마음껏 놀 거에요
+P0 	: 꼭 그러고 싶어요!
+P0 	: 저는 코로나 끝나면 다시 일본여행 가보고 싶어요

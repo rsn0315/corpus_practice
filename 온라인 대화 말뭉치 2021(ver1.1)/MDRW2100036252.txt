@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100036252
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P1 	: 점심 맛있게 드셨나요?
+P0 	: 네 장어 먹었어요
+P1 	: 맛있었겠네요
+P0 	: 넹 저녁에 또 먹고싶네요
+P1 	: 저녁은 뭘 드실 예정이세요?
+P0 	: 버섯볶고 있어요
+P0 	: 들기름장 찍어먹으려구요
+P1 	: 깔끔하고 맛있겠네요!
+P1 	: 갑자기 새송이버섯 구워 먹고싶어지네요 ㅎㅎ
+P0 	: 맛있고 건강에도 좋아요 추천합니다
+P1 	: 들기름은 뽑아 드시나요? 사서 드시나요??
+P0 	: 사먹어요 시골에 아는 분이 없어서ㅜㅜㅜ
+P0 	: 방앗간에서 직접 짜면 좋을텐데
+P1 	: 저희도 아는 분은 없지만 들깨 사서 뽑아와요 ㅎㅎ
+P1 	: 확실히 파는 것보다 맛있고 좋더라고요!

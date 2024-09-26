@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100014145
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!!
+P1 	: 안녕하세요 쇼핑 좋아하시나요?
+P0 	: 완전 좋아하죠 ㅋㅋㅋㅋ 주로 온라인 쇼핑이지만요
+P1 	: 어떤거 주로 구매하세요?
+P0 	: 코로나 전에는 화장품이었는데 요새는 화장품은 좀 시들해졌어요ㅠㅠ
+P1 	: 마스크 써서 화장 잘 안하게 되잖아요ㅋㅋ
+P1 	: 요새는 어떤거 구매하세요?
+P0 	: 맞아요 화장품은 사더라도 기초위주로 사지 색조는 진짜 손이 안가네요
+P0 	: 요새는 인테리어 소품 보고 있어요ㅋㅋㅋ 예쁜게 많더라고요
+P1 	: 기초는 망할일이 별로 없죠ㅎㅎ
+P1 	: 잘 샀다 생각하는 인테리어 소품 있으세요?
+P0 	: 미니 편백나무 협탁이요ㅋㅋ
+P0 	: 예쁘기도 하고 실용성도 좋아요 침대 옆에 놔두니까 진짜 편하더라고요
+P1 	: 아 핸드폰 같은거 올려놓으면 편할 거 같아요ㅋㅋ
+P0 	: 네 커피잔이랑 핸드폰 올려두는 용으로 쓰고 있어요ㅋㅋㅋ
+P0 	: 최근에 쇼핑하신거 있으세요?
+P1 	: 전 아기용품 샀네요ㅋㅋㅋㅋ
+P0 	: 아 아기용품!! 보통 어디서 구매하세요?
+P1 	: ㅋㅋㅋ쿠팡이 빨리 와서 좋더라고요
+P0 	: 로켓배송 진짜 편하죠ㅋㅋㅋㅋ
+P0 	: 특히 다음날 바로 온다는게 여러모로 편하더라고요

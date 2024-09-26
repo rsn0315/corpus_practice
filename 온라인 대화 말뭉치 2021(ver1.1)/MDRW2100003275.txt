@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100003275
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 충북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 네,안녕하세요~
+P0 	: 이상형이 어떻게 되세요?
+P1 	: 이상형은 다정다감하고 책임감있는 사람이요ㅎㅎ
+P0 	: 외모는 어땠으면 좋겠어요?
+P1 	: 보통? 그래도 괜찮으면 더 좋죠~
+P0 	: 연인이랑 가보고 싶은곳 있어요?
+P1 	: 소소하게 동네산책하고 도서관가고싶네오~
+P0 	: 결혼하면 신혼여행으로 어디 가보고 싶어요?
+P1 	: 유럽이나 아시아쪽으로 가고싶어요~ 국내여행은 언제나 갈수있어서 그런지 해외쪽을 선호하게 되더라고요
+P0 	: 유럽쪽은 어디가보고싶어요?
+P1 	: 파리,런던이요~
+P0 	: 파리는 에펠탑이 이쁘더라구요

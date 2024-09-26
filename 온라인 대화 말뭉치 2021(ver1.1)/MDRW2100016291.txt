@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100016291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요:)
+P1 	: 안녕하세요
+P0 	: 네:) 이제 곧 점심인데
+	  식사메뉴는 정하셨어요?
+P1 	: 전 지금 카페에서 자소서 쓰고있어요
+P1 	: 커피는 마셨는데 점심으로 뭘 먹을지 말지 고민중이에요
+P0 	: 아항 커피는 뭐드셨어요?
+P0 	: 아메?
+P0 	: 라떼?
+P1 	: 전 라떼파에요
+P1 	: 점심뭐드시나요?
+P0 	: 라떼파셨군용ㅋㅋ
+P0 	: 아직 못 정해서
+	  &name2& 뭐드시나 물어봤네요ㅋㅋ
+P1 	: 전 아침을 좀 든든히먹어서 거를까생각중이에요 ㅎ
+P1 	: 저녁엔 치킨먹으려구요!
+P0 	: 와우ㅋㅋ 어디 치킨 좋아하세요?
+P1 	: 허니콤보요 ㅎㅎㅎ
+P0 	: 교촌 말씀하시는거죠? ㅋㅋ
+P1 	: 네네!
+P1 	: 그게제일맛있더라구요
+P1 	: 좋나하시는음식있으세요?
+P0 	: 저는 비비큐 황금올리브요{emoji:♡}
+P1 	: 황올도 좋죠
+P1 	: 먹는얘기하니갑자기배고프네요 ㅠㅠ
+P0 	: ㅠㅠ 히힣 저녁에 허니콤보와
+	  함께 즐거운 불금이 되시겠네염

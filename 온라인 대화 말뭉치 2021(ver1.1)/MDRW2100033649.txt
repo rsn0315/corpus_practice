@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033649
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 햄버거 좋아하세요?
+P1 	: 네 햄버거 좋죠! &name1& 님은요?
+P0 	: 저도 좋아해요
+P0 	: 어디 햄버거 좋아하세요?
+P1 	: 저는 버거킹 제일 좋아해요!
+P0 	: 오 저도 버거킹 좋아해요
+P0 	: 어떤 버거 좋아하세요?
+P1 	: 콰트로 치즈 와퍼를 제일 좋아해요ㅋㅋㅋ &name1& 님은요?
+P0 	: 저도 그게 최애였는데
+P0 	: 요새는 통새우로
+P0 	: 바꼈어요ㅋㅋㅋㅋㅋㅋ
+P1 	: 오ㅋㅋㅋ 통새우 맛있게 먹는 법 있나요?
+P0 	: 그냥 통새우만 먹어도 맛있어요
+P0 	: 새우추가도 좋구요
+P1 	: 좋네요! 버거킹 사이드는 뭘 시키시나요?
+P0 	: 저도 먹어보진 않았지만
+P0 	: 거기 파는 약간 튀김새우,,?
+P0 	: 그게 그렇게 맛있대요
+P1 	: 저는 버거킹 가면 치즈 감튀로 바꾸고 아이스크림을 무조건 먹어요ㅋㅋㅋ
+P0 	: 오 저도 다음에
+P0 	: 그렇게 먹어야겠어요ㅋㅋㅋㅋㅋ

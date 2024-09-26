@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100025638
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여기는 비그쳤는데 거기는 비오나요?
+P1 	: 아뇨 비그쳤어요ㅎㅎㅎ 해가쨍쨍하네요
+P0 	: 여기는 아직 흐려요! 한낮인데도 날씨가 안덥네요 여름 끝나나봐요!
+P1 	: 그러게요 좀 그랬으면 좋겠어요 매일 날도 흐리니까 아침에 일어나기가 너무 힘들어요
+P1 	: 저는 가을이 좋아서 얼른가을이오면좋겠어요
+P0 	: 저두 가을 좋아해요! 산책하기 좋아서요
+P0 	: 얼른 걷기좋은 날씨되면 좋겠네요
+P1 	: 그러니까요 저도 산책하는거 좋은데 요즘 가을장마니 해서 나가기 번거로워서 불편했어요ㅎㅎ
+P0 	: 그죠 장마때문에 빨래도 안마르고...힘들었어요
+P0 	: 우산매번들고다니기도 번거롭구요
+P1 	: &name1&님 동네도 얼른 비가 그치면 좋겠어요
+P1 	: 여기는 매미도 울고 그러네요ㅎㅎ
+P0 	: 여기도 이제 그쳐서 매미우네요ㅎㅎ
+P0 	: 계절중 가을이 제일좋으신가요?
+P1 	: 음.. 그런거같아요ㅎㅎ
+P1 	: &name1&님은어떠신가요
+P0 	: 저두요 그다음은 봄 겨울 여름 순으로 좋아해요
+P1 	: 저랑 비슷하시네요ㅎㅎ
+P1 	: 여름은 뭔가 불편해요
+P1 	: 에어컨틀어도 찌뿌둥하고..
+P0 	: 여름 습하고....너무 더워요

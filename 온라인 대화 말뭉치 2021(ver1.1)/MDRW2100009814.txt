@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009814
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>스포츠 경기 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 스포츠 좋아해여?
+P1 	: 스포츠 에 따라 달라요
+P0 	: 축구는?
+P1 	: 월드컵때만 가끔 봐요
+P1 	: 축구 좋아하세요?
+P0 	: 보는것만요
+P1 	: 하는 건 너무 힘들죠
+	  특히 축구는...
+P0 	: 그르니까요
+P1 	: 좋아하는 축구선수 있어요?
+P0 	: 이영표요
+P1 	: 해설을 하니까 사람들과 적이 된다고 그만두신 분이시죠  많은 명언을 남기셨는데
+P0 	: 대단해요
+P1 	: 그죠 대단한 분이시죠
+	  실전을 바탕으로 예측도 잘하시고
+	  해결책도 제시하시고
+P0 	: 네 정확하죠

@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100032636
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 앗ㅎㅎ여행은좋아하세요?
+P1 	: 여행은 좋아하는데
+	  코시국 이후로 가본적이 없네요
+P1 	: 가장 최근 여행이 언제셨어요?
+P0 	: 저는지난달에담양다녀왔어요
+P0 	: ㅜ코로나때문에가기어렵죠
+P1 	: 와우 담양.....이면
+P1 	: 담양이면...
+P1 	: 패러글라이딩 하셨나요?
+P0 	: 앗ㅎㅎㅎ담양에선못했는데
+P0 	: 스위스갔을때해봤어요
+P1 	: 우왕 스위스 하늘은 어땠나요 {emoji:♡}.{emoji:♡}
+P0 	: ㅎㅎ너무좋았어요
+P1 	: 고프로 영상도
+P1 	: 남기셨어요?
+P0 	: ㅎㅎㅎ앗 그건안샀어요ㅠ
+P0 	: 가장 인상깊었던 곳이 어딘가요?
+P1 	: 아쉽 ㅜㅜ
+P1 	: 음.... 저는 하와이요 ㅋㅋ
+P0 	: 와 너무 좋았을것같아요
+P1 	: 네:) 하와이 너무 좋았어요
+	  아이들 생기면 다시 가야지 했는데
+	  코시국이네요ㅠㅋ
+P0 	: 큐우ㅡㅜ곧끝날꺼에오ㅡ
+P0 	: 하와이 바다 이쁘고 밥도맛있을것같아요

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031236
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 결혼하셨나요
+P1 	: 네 &name1&님은 결혼하셨어요?
+P0 	: 네 결혼 몇년차이신가요
+P1 	: 저는 작년 12월에 결혼했어요
+P1 	: 이제 결혼 9개월 되었어요
+P1 	: &name1&님은 얼마닌 되셨어요?
+P0 	: 저는 8년차 입니다
+P1 	: 자녀도 있으신가요?
+P0 	: 네 아들 둘이요
+P1 	: 아 그러시구나
+P1 	: 저는 어제 날씨 좋아서 아내랑 경주 나들이 다녀왔는데
+P1 	: &name1&님은 오를 외출 계획 있으세요?
+P0 	: 없습니다 
+	  결혼 전 연애기간이 기셨나요?
+P1 	: 연애 일년정도 했어요
+P0 	: 저도 비슷해요 일년반정도요
+P1 	: 그러시구나 연애랑결혼이 크게 다른것같나요?
+P0 	: 그렇죠 다르죠~ &name2&님은 아이 있으신가요
+P1 	: 저희는 아직없어요

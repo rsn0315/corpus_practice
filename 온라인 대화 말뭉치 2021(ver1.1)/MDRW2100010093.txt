@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100010093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 점심 드셨나요??
+P1 	: 초밥이랑 우동 먹었어요 식사 하셨나요 ?
+P0 	: 헐 맛있는거 드셨네요 저는 아직이요! 아침을 늦게 먹어서
+P1 	: 아침 뭐 드셨어요 물음표
+P1 	: 앗 자동키워드 입력하다 잘못 입력됐어요 핳..
+P1 	: 아침 뭐 드셨나요
+P0 	: 닭죽 먹었어요! ㅎㅎ
+P0 	: 어떤 초밥 좋아하세요??
+P1 	: 닭죽이라니 영양가가 가득하네요 저는 새우초밥 좋아해요
+P1 	: 초밥 좋아하시나요
+P0 	: 네! 저는 연어초밥 좋아해요
+P0 	: 배달시켜서 드셨나요??
+P1 	: 내 상무 초밥이라는 프랜차이즈에서 시켜 먹었어요
+P1 	: 초밥 드실 때 와사비 드시나요
+P0 	: 헉 저도 상무초밥 좋아해요
+P0 	: 네! &name2&님은요??
+P0 	: 아 와사비 드시냐고 물어보셨어요!! &name2&님은 잘 드세요?
+P1 	: 저는 잘 먹지는 못하는데 초밥 먹을 때 간간히 먹는 편이에요
+P1 	: 연어초밥 좋아하신다고 하셨는데 연어의 매력은 무엇인가요
+P0 	: 부드럽고 고소한 향?이 좋은 것 같아요ㅋㅋ
+P0 	: 사케동은 좋아하시나요?
+P1 	: 사실 연어를 별로 좋아하지 않아서  회동을 먹어본 적이 없어요

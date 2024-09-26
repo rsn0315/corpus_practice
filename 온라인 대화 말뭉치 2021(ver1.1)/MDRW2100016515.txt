@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100016515
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요 점심 드셨어요?
+P0 	: 네네 고기 구워먹었습니당ㅋㅋㅋㅋ
+P0 	: 점심 뭐드셧어요?
+P1 	: 국밥먹었어요! 국밥좋아하세요?
+P0 	: 좋아하는 편이에요!
+P0 	: 그 고기 누린내 싫어해서 잘하는집에서만 먹어요!
+P1 	: 무슨 고기 구워드셨어요?
+P0 	: 목살 구워먹었어요 ㅋㅋㅋㅋ 저는돼지고기 목살좋아해요
+P0 	: 어떤 부위 좋아하세요?
+P1 	: 전 항정살이요! 파채나 구운마늘도 드셨나요?
+P0 	: 항정살 좋아요!! 아뇨 저는 양파구웟어요!
+P0 	: 파채랑 양파장 엄청 좋아합니다 ㅋㅋㅋㅋ
+P1 	: 직접 만들어드시나요? 저도 양파 좋아해요!
+P0 	: 아니여 제품소스 사서 부워먹어요 ㅋㅋㅋㅋ
+P1 	: 치킨 좋아하세요?
+P0 	: 네!! 치킨엄청좋아해요
+P0 	: 튀김류 다 좋아하능거같아요 ㅋㅋㅋㅋ
+P1 	: 저도요!!

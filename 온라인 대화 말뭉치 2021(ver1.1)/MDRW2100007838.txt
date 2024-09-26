@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007838
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 내가 사준 샤오미 무선청소기는 써보니 어때?
+P0 	: 흠.. 처음엔 무선이라 좋았는데 난 유선이 더 나은것 같아
+P1 	: 엥? 요즘 무선이 대세인데 무슨 소리야 ㅎㅎ
+P0 	: 청소기 아래 먼지통 알지?
+P1 	: ㅇㅇ 그게 왜?
+P0 	: 그것 때문에 쇼파 밑이랑 침대 밑에 걸려서 잘 안들어가
+P1 	: 훌 근데 다른 무선 청소기들도 다 그래~
+P0 	: 그리고 창틀 청소도 불편하고
+P1 	: 앞에 갈아끼우면 되잖아?
+P0 	: 유선은 그거 안끼어도 잘 됐거든
+P0 	: 게다가 먼지통이 팡 하고 한번에 열리면서 미세먼지가 엄청 날려 ㅠㅠ
+P1 	: 이런이런 단점이 많구만
+P0 	: 흡입력도 유선이 나은 것 같구...
+P1 	: 샤오미라서 그런가? 다른데는 어떤지 모르겠네
+P0 	: 샤오미라도 충전기는 좋지 않아? 보조배터리도

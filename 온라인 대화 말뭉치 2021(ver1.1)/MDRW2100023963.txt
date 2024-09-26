@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100023963
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 식사하셨나요?
+P0 	: 네 &name2&님은 드셨나요??
+P1 	: 네, 적당히 만두를 반찬삼아서요
+P1 	: &name1&님은 뭐 드셨나요?
+P0 	: 저는 김밥 먹었어요 어떤 만두 드셨나요??
+P1 	: 편의점 냉동만두였어요
+P1 	: 백종원껀데
+P1 	: 해물만두였던가
+P0 	: 새우 들어간건가요??
+P1 	: 네, 다져서 들어가있었어요
+P0 	: 좋아하는 음식 있으신가요?
+P1 	: 만두 좋아하고
+P1 	: 김치전, 김치찌개랑
+P1 	: 치킨 좋아해요
+P0 	: 치킨 좋아하시는 브랜드 있으신가요??
+P1 	: 전 후라이드파라서요
+P1 	: 그 황금올리브.,
+P1 	: 비싸지만 가끔 사먹으면 돈값하는 그 치킨...
+P0 	: 오 그러시군요 황금올리브 맛있죠

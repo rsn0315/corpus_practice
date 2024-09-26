@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100012291
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 서울
+current_residence : 인천
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 그러고 자란 사람이 나라니..?
+P0 	: &name2& 속에 철학책 읽은 여고생이 있을거에요
+P1 	: 지금은 주접떨고 한없이 가볍게 지내고있어요
+P0 	: 전 고등학생때 일본추리소설이나 연애소설을 엄청 읽었던 것 같아요
+P1 	: 오 저는 연애 영화요!
+P0 	: 추리소설은 지금도 좋아하는데 요시모토 바나나 에쿠니 가오리 이런 작가 소설은 학생때라 열심히 본 듯 해요
+P0 	: &name2&학생은 어떤 영화를 좋아했나요!
+P1 	: 저는 말할수없는 비밀을 자주봤습니다
+P1 	: 청춘영화의 스테디죠
+P0 	: 와 그쵸 말할수없는 비밀
+P0 	: 학생들의 영화
+P0 	: 그그 그시절 우리가 사랑했던 소녀도 학생들이 좋아하는 연애영화 아닌가요
+P1 	: 오 그쵸 재밌었어오 그거 보셨나요
+P0 	: 다 봤쥬 학교생활을 해본 사람은 절대 동감할 수 없지만
+P0 	: 왠지 저런 학교생활이 있었을것 같은 기억조작을 하게 하잖아요
+P1 	: 맞아요 어쩐지 세상 어딘가에 저런곳이 있을거같다는 생각
+P0 	: &name2& 고등학교때 특별활동은 뭐하셨어요?
+P0 	: 영화감상부였나요
+P1 	: ㅋㅋ저는
+P1 	: 과학실험동아리였습니다...
+P1 	: 근데 문과생을 곁들인..
+P0 	: 아니 이과! 인가했는데 ㅋㅋ 저는 교지편집부였어요
+P0 	: 문과생 실험동아리 멤버 &name2&
+P0 	: 저는 이과생 교지편집부원이었습니다

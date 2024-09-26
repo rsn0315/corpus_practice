@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100025126
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 강원
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 즐겨드시는 음식 있나요?
+P1 	: 전 떡볶이 좋아해요
+P1 	: &name1& 님은요?
+P0 	: 하 떡볶이 진짜 맛있죠...어디 브랜드 즐겨드세요?
+P1 	: 전 다 좋아해요! &name1&님은 특별히 좋아하는 거 있으세요?
+P0 	: 신전, 감탄 떡볶이 좋아해요!
+P1 	: 감탄은 저 한번 먹어봤었어요 치즈 두 가지 올라간 거였는데 양이 너무 아쉬웠어요
+P0 	: 맞아요 감탄 양이 적긴해요 그래서 뭔가 간식처럼머게되요ㅋㅋ
+P0 	: &name2&님은 카페가면 어떤거 드시나요?
+P1 	: 그쵸 전에 끼니로 먹었는데 좀 부족했어요ㅋㅋ
+P1 	: 전 보통 차 마셔요
+P1 	: &name1& 님은요?
+P0 	: 저는 아메리카노 보통 마시는데 요즘은 카페인줄이려고해서 저도 차종류마셔요
+P1 	: 저도 원랜 아메리카노 좋아했는데 속이 아프더라고요ㅋㅋ그래서 차 마시는 걸로 바꿨어요
+P0 	: 카페인이 위에 엄청 안좋다네요 카모마일이 카페인없어서 요즘은 카모마일티 많이 마셔요
+P1 	: 아 정말요? 전 아메리카노 먹을 때만 속 아프고 다른 카페인 있는 차들 마실 땐 안 그랬거든요
+P1 	: 앞으로 캐모마일 자주 먹어야 겠네요ㅋㅋ
+P0 	: 녹차나 얼그레이도 카페인 있어요 맛있는건 다 카페인 있는것같아요ㅋㅋ

@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100039948
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 제주
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 꼭 사서와야할 쇼핑품목이 있을까요?
+P0 	: 저는 오늘 잠깐 육지에 부모님 뵈러 왔는데
+P0 	: 유기농 청귤이랑 마음샌드 제주산 갈치 사왔어요
+P0 	: 친구들은 마음샌드 제일 좋아하던데 ㅎㅎ
+P1 	: 마음샌드ㅋㅋㅋㅋㄱㄲ
+P1 	: 청귤도 상큼한게 좋네요!
+P1 	: 다음에 가면 다 사서와야겠네요ㅎㅎ
+P0 	: 사실 스타벅스도 제주 리미티드 제품들이 너무 잘 나와서
+P0 	: 그런것도 좋을 것 같네요
+P1 	: 텀블러!
+P1 	: 텀블러는 꼭 사오려구요
+P0 	: 네네
+P1 	: 어쩜 그렇게 소비자  마음을 잘아는지ㅋㅋ
+P0 	: 하지만 어른들은 갈치를 가장 좋아하시네요
+P0 	: 저도 스벅카드 충전해놓은거 쓰려고 매장가면
+P0 	: 원래 아메리카노만 마시는데 제주한정 음료같은거 한번씩 먹게 되더라구요
+P1 	: 갈치가 좋긴하져ㅋㅋ
+P1 	: 한정음료도 맛나죠?
+P1 	: 한정이라는게 소비자마음을 또 ㅋㅋㅋ사로잡죠
+P0 	: 네 우도땅콩라떼 이런건 좀 ㅋㅋㅋ 별로였는데
+P1 	: 엇 별로던가요?ㅋㅋ
+P0 	: 네에 넘 달아서
+P1 	: 땅콩라떼라...왠지 고소함에 끝판일것같은데ㅋ
+P0 	: 천혜향블랙티 블렌디드가
+P0 	: 최고예요
+P0 	: 스벅 최근에 스탠리랑 콜라보한 텀블러 샀었는데
+P0 	: 냉온 다 엄청 오래가서 감탄했어요

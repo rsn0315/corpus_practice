@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019378
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아뇨 전 우유 좋아해요
+P1 	: 두유 드세요?
+P0 	: 네 전 두유를 좋ㅇ하는 편이에요
+P0 	: 근데 &name2&님은 안 좋아하신다니 우유얘기해요 ㅋㅋ
+P1 	: 네 ㅋㅋㅋㅋㅋ
+P1 	: 콩 냄새? 같은게 낯설더라구요
+P0 	: 콩 비린ㄴ내가 두유에 다 있어요
+P1 	: 그쵸 ㅋㅋㅋ 가족들은 좋아하는데 저만 못마셔요 ㅋㅋㅋ
+P0 	: 이 콩비린내를 별로 안 싫어하면 두유를 먹는데 싫어함 못먹죠
+P0 	: 전 어릴땐 못먹었어요
+P1 	: 그럼 몇살때부터 먹기 시작햇어요?
+P0 	: 한 고등학생 때부터요?
+P0 	: 집에 두유를 박스로 사놔서 배고파서간식으로 먹었어요 ㅋㅋ
+P1 	: 아하 ㅋㅋㅋㅋ 역시 배고프면 뭐든 맛있는거같아요 ㅋㅋ
+P1 	: 어느 브랜드 좋아하세요?
+P0 	: 먹다보니 음 먹을만하네 싶어서 먹어요 ㅋㅋ
+P0 	: 전 뭐든 덜단 두유가 조ㅎ아요
+P1 	: 두유도 무가당 있나요?
+P0 	: 무가당도 있고 로우슈가도 있는데 무가당은 솔직히 콩비린내가 더 나요
+P1 	: 아몬드브리즈 같은 느낌인가요?
+P0 	: 아몬드보다 고소한 맛은 덜해요
+P0 	: 그래도 아몬드도 좀 비리죵ㅋㅋ

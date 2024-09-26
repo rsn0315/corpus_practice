@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100022403
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&은 백신 맞으셨나요?
+P0 	: 아직 1차만 맞은 상태에요 &name2&은 맞으셨어요??
+P1 	: 저는 2차까지 다 맞았어요
+P0 	: 부럽네요 저도 원래 일정이면 2차까지 맞아야하는데 미뤄져가지고요 ㅜ
+P1 	: 제 지인도 미뤄져서 병원에 전화하고 일자를 앞당겼다더라고요
+P0 	: 오 정말요?
+P0 	: 앞당기는 거 안된다고 들었는데
+P0 	: 얼마나 앞당기셨대요?
+P1 	: 잔여백신 예약인데 5일인가 줄였다는 이야기를 들었어요
+P0 	: 저도 잔여백신인데 내일 한번 문의해봐야겠네요
+P0 	: &name2&은 부작용 괜찮으셨나요?
+P1 	: 제가 주사에 겁이 많아서 힘을 잘 못뺏거든요 근육통이 좀 있었네요
+P0 	: 그래도 근육통만 있으셔서 다행이네요. 2차엔 부작용이 더 심하다길래 걱정하고 있었거든요
+P1 	: 정말 힘을 최대한 빼셔야 해요 주사바늘 들어갓을때 힘을 재차 빼야하고요ㅠ
+P0 	: 오... 사실 1차 맞을때 너무 순간이어서 제가 어떻게 했는지 모르겠지만 그렇게 해볼게요!!
+P1 	: &name1&은 1차때 부작용 있었나요?
+P0 	: 저도 근육통 이틀정도 간 것 같아요 그것 외엔 다른 부작용은 없었는데 괜히 무서워서 백신맞고 타이레놀을 샀었죠 ㅋㄱㄱ

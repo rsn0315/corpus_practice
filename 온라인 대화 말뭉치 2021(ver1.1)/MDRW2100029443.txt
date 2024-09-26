@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100029443
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장에는 도착했나요?
+P0 	: 아직요 거의 다 왔어요
+P1 	: 출근이 몇 시까지에요?
+P0 	: 8시 30분 이요
+P1 	: 퇴근은 몇 시 정도
+P0 	: 보통 5시 반 이후요
+P1 	: 퇴근이 빠르네요
+P0 	: 네 초과 근무나 야근 할 때도 종종 있었는데 코르나 이후로 칼퇴 중이에요
+P1 	: 야근 자주 했어요?
+P0 	: 제가 약간 완벽주의 비슷한게 있어서
+P0 	: 쓸데없이 늦게까지 일하곤했어요
+P1 	: 아유 무슨 말씀을 쓸데없다 아니요
+P1 	: 전혀 그렇지 않아요
+P0 	: 감사합니다
+P1 	: 요즘 보기 드물게 성실 하네요
+P0 	: 아니에요 막 출근도 30분씩 일찍 하고
+P1 	: 열정이 넘쳤구나
+P0 	: 퇴근도 엄청 늦게 하고 했던 바보 같은 시기가 있었는데
+P0 	: 그게 바보 같은 일이란 걸 늦게 알았어요

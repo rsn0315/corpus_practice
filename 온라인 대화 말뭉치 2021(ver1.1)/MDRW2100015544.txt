@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015544
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교 좋아하시나요?
+P0 	: 좋아하기보다 ㅜㅜ
+P0 	: 하..
+P1 	: ㅋㅋㅋ할많하않??
+P0 	: 하.. 왜 한숨이 계속 나오죠?
+P1 	: 흑흑 힘내시어요ㅠㅜㅜ
+P0 	: 네네힘낼께요
+P1 	: 퇴근시간이 이제 조금 남았다고요 ㅎㅎ 학교에 아이들이 요즘엔 적어서..
+P0 	: 전 조퇴하고뻗었어요ㅠ
+P1 	: 흑 학교에서 무슨일 있으셨어요?
+P0 	: 아니요 조퇴할일이 있어서ㅠ
+P0 	: 겸사겸사
+P1 	: 아 오늘도 학교에서 힘든 하루셨군요
+P0 	: 네ㅠ 그냥 다 힘드네요ㅎ

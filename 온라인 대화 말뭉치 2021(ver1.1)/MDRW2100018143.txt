@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100018143
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니요 가족과 함께 살고 있어요
+P1 	: &name1&은요?
+P0 	: 저두요 ㅋㅋㅋ
+P0 	: 자취하고 싶진 않으세요?
+P1 	: 하고싶어요!
+P1 	: 근데 쉽지않네요ㅠ
+P0 	: 맞아요 현실적으로 돈도 많이들고 힘들죠 ㅠ
+P1 	: 맞아요ㅠ
+P1 	: 언제 가능할런지 싶어요ㅜ
+P0 	: 저는 같이 사는게 편한거같아요 ㅋㅋㅋ
+P1 	: 사이가 좋으신가봐요!
+P0 	: 그럭저럭 좋은 편이에요 ㅋㅋㅋ
+P1 	: 좋네요ㅋㅋ 그게 은근 어렵잖아요
+P0 	: 맞아요 가까울수록 더 어려운거같아요
+P1 	: 맞아요 어긋나기도 쉽고 반대도 쉽고요ㅋㅋ
+P0 	: 맞아요 너무 붙어있어서 더 그런거같아요
+P1 	: 네 그래서 가끔 자취 생각이 나죠ㅋㅋ

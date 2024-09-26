@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100014417
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  기타>온라인 커뮤니티
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 안녕하세요
+P0 	: 저녁 드셨나요?
+P1 	: 아직이요 ㅠㅠ &name1&님은 저녁 드셨나요?
+P0 	: 저는 김밥을 먹고싶었는데
+P0 	: 사오기로 한 사람이 힘들다고
+P0 	: 없던걸로 하자해서
+P0 	: 굶을꺼같앙ᆢ
+P0 	: 아요
+P1 	: 밥을 거르면 안 돼요 ㅠㅠ.. 유튜브에 백종원 조리법쳐서 함 따라서 먹어보셔요
+P0 	: 집에서 해먹는거 너무 귀찮아요
+P0 	: 특히 설거지가
+P0 	: 제일 고역이죠
+P1 	: 맛집이라도 가셔서 드세요 ㅠㅠ 굶는건 안 좋아요
+P0 	: 저녁은 안먹어도 괜찮아요 그래도 시현님은 챙겨드세요
+P0 	: &name2&님은 좋아하는 음식있나요?
+P1 	: 저는 라면을 엄청 좋아해요
+P1 	: 가끔씩 유튜브에서 다양한 라면 조리법을 보고 따라하기도 한답니다
+P0 	: 오 라면 맛있죠
+P0 	: 어느 라면이 최애라면 인가요?
+P1 	: 진라면 매운맛이 최애라면이에요 ㅎㅎ 순한맛은 땅바닥에 버려요
+P0 	: 저랑 같으시네요
+P0 	: 진순이랑은 겸상도 안하죠
+P0 	: 요즘은 신라면도 좋아해요
+P0 	: 최애 토핑은 무엇인가요?
+P1 	: 토핑은 잘 안해먹지만 자주 넣는걸로는 음..
+P1 	: 역시 김치죠
+P0 	: 나중에 콩나물 넣어서 드셔보세요
+P0 	: 아주시원하답니다

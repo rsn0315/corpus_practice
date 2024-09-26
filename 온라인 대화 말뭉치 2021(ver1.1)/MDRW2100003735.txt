@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100003735
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 일이나 알바하시나요~?
+P0 	: 저는 요즘에는 과외 하고 있어요!
+P0 	: &name2& 님은요~?
+P1 	: 우와 공부잘하시나봐요...!!! 멋있어요~~
+P1 	: 저는 프리랜서로 활동하고 있어용~!ㅎㅎ
+P1 	: 과외는 무슨과목 하시는거에요~?
+P0 	: 영어 수학 하고 있어요~~
+P0 	: 프리랜서 멋져요ㅠㅠ
+P0 	: 무슨 작업을 하시는지 여쭤봐도 될까요~?
+P1 	: 와 젤 어려운일을 하시네요ㅠㅠ 영수제가 가장 취약한ㅠㅠ
+P1 	: 아 저는 데이터 검수작업을 하고 있습니당~!
+P0 	: 우와 처음 들어봐요!
+P0 	: 엑셀 활용하시는 건가용?
+P1 	: 엑셀도 이용하고 본사에서 주는 양식대로 하고 있어요~
+P0 	: 우와 신기해요~~
+P0 	: 저는 이번에 컴활 시험 치려고 했는데
+P0 	: 게을러서 안하게 되네요ㅠㅠ
+P1 	: 예를 들면 음성녹음한거를 듣고 반려?! 시키기도하고 통과시키기도하는!!?
+P0 	: 우와 진짜 신기하네요
+P0 	: 새로워요!
+P1 	: 아 컴활은 저도 시험만 준비하고 따지는 못했어요
+P1 	: 요즘 데이터라벨링 알바도 많이 하더라구요ㅇ
+P0 	: 그렇구나 ㅠㅠ 컴활 시험 응시하기도 쉽지 않은 것 같아요
+P1 	: ~
+P0 	: 오 그것도 첨 들어봐요!

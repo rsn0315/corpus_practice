@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100025968
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 일해요?
+P1 	: 알바하다 그만뒀어요
+P0 	: 힘들어서요?
+P1 	: 공부에 집중하려고요
+P0 	: 어떤거요?
+P1 	: 공부
+P0 	: 어떤과목이요?
+P1 	: 전체적으로요 다
+P0 	: 오
+P1 	: 일해요?
+P0 	: 네
+P1 	: 무슨 일해요?
+P0 	: 사무직이요
+P0 	: 일해요
+P0 	: ?

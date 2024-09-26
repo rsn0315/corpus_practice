@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100018124
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 경북
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 좋아하시는 음식 있으시나요
+P0 	: 저는 닭갈비 좋아해요
+P1 	: 매운 닭갈비를 좋아하시나요
+P0 	: 저는 매운거 먹으면 속이쓰려서요 ㅠ
+P0 	: 매운거좋아하세요?
+P1 	: 저는 매운거 싫어합니다 ㅋㅋ
+P1 	: 속쓰리거나 그런건 없는데
+P0 	: 넵
+P1 	: 먹는데서 고통을 느낀다는게 싫어서..
+P0 	: 저랑 반대네요 ㅋㅋㅋ 전 먹을땐 오히려 괜찮아요
+P1 	: 그렇군요
+P1 	: 저는 닭갈비보다
+P1 	: 치킨좋아해요
+P0 	: 치킨도 맛있죠
+P0 	: 어느브랜드요?
+P1 	: 요새 먹어본 치킨중에
+P1 	: 60계치킨 호랑이치킨이 맛있더라구요
+P0 	: 오 그거 궁금했는데
+P0 	: 마늘맛인가요?
+P1 	: 마늘맛까진 아니고
+P1 	: 마늘향이 조금있고 달달한 뿌링클같더라구여
+P0 	: 뿌링클이요?? 치즈맛이 나나요??
+P1 	: 개인적으로 뿌셔뿌셔 스프맛이라 느꼈습니다

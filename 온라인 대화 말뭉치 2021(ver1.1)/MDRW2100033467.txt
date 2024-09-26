@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100033467
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요~
+P1 	: 저녁 뭐 드셨나요?
+P0 	: 돼지국밥 먹었어요~&name2&님은 뭐드셨나요?
+P1 	: 오늘 날씨에 국밥 딱이네요 맛있으셨겠어요~
+P1 	: 저는 순두부찌개 먹었어요
+P0 	: 와 순두부 찌개도 맛있었겠어요
+P1 	: 오늘 날씨가 쌀쌀해서 따뜻한 국물이 먹고싶더라구요
+P1 	: 평소에 배달음식 어떤거 자주 시켜드세요?
+P0 	: 배달은 떡볶이나 치킨 피자 요런것들요 ㅎㅎ
+P1 	: 떡볶이는 어디 떡볶이 제일 좋아하세요?
+P1 	: 저도 떡볶이 자주 시켜먹어요 ㅎㅎ
+P0 	: 엽떡이요!
+P1 	: 맵기는 어떤 단계로 드세요?
+P0 	: 2단계 먹었는데 조금 매웠어요 그래도 다 먹긴 했는데 ㅠㅠ 그냥 다음부턴 무난하게 1단계 먹으려구요ㅠㅠ
+P1 	: 너무 매우면 먹기 힘들더라구요 ㅠㅠ
+P1 	: 드실때 토핑추가해서 드시나요?
+P0 	: 아니요 그냥 집에서 만두 굽고 치즈 추가 해서 먹어요 ㅋ
+P1 	: 떡볶이랑 만두 같이 먹으면 맛있죠ㅎㅎ
+P1 	: 저는 당면 꼭 추가해서 먹어요!

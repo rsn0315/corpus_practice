@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100037098
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저녁 드셨나요?
+P0 	: 네 좀 전에 먹었어요
+P0 	: 식사하셨나요?
+P1 	: 저는 지금 배달 시키고 기다리고 있어요
+P1 	: 뭐 드셨나요?
+P0 	: 꽃게탕 먹었어요!
+P0 	: 어떤 거 주문하셨나요?
+P1 	: 와 꽃게탕 맛있었겠네요 요즘 꽃게가 철인가요?
+P1 	: 저는 족발 주문했어요 오늘따라 너무 먹고 싶더라구요
+P0 	: 가을 꽃게철인가봐요
+P0 	: 족발 맛있죠!
+P0 	: 막국수도 시키셨나요?
+P1 	: 막국수는 아니고 비빔면이 기본으로 같이 왔어요
+P0 	: 저희는 막국수가 기본으로 오는데 다들 좋아해서 꼭 추가로 하나 더 시켜요ㅋㅋㅋ 비빔면도 맛있겠네요
+P1 	: 맞아요 막국수도 맛있죠 같이 싸먹을 때 너무 궁합이 좋아요
+P0 	: 맞아요ㅋㅋ 족발이랑 완전 잘 어울려요
+P0 	: 음료는 뭐랑 드시나요?
+P1 	: 사이다랑 먹고 있어요 캔콜라가 왔는데 집에 제로사이다가 있거든요
+P1 	: 이 시간에 먹는 일말의 양심이랄까 ㅋㅋㄱㄱ 음료라도 제로로...
+P0 	: 제로사이다 좋죠 양심 한 스푼ㅎㅎ
+P0 	: 보쌈도 좋아하시나요?
+P1 	: 네 보쌈 좋아해요!! 집에 보쌈 만들 때 쓸 수 있는 가루도 있어요 ㅋㅋㅋ

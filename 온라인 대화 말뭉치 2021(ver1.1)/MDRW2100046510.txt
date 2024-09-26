@@ -1,0 +1,67 @@
+# FILE DATA
+ID : MDRW2100046510
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211025
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~!
+P1 	: 점심 드셨나요?
+P0 	: 넵 떡이랑 계란으로 간단히 먹었어요
+P0 	: &name2&님도 점심 잘 챙겨드셨나요?
+P1 	: 네! 저는 샤브샤브 먹었어요 ㅎㅎ
+P1 	: 간단히 드셨네요 정말! 다이어트 중이세요?
+P0 	: 맛있는거 드셨네요ㅎㅎ
+P0 	: 아뇨 시간이 없어서 간단히먹었네요ㅜ
+P0 	: 저녁은 맛난거 먹어야죠ㅎㅎ
+P1 	: 바쁘셨나봐요 ㅠㅠ
+P1 	: 무슨 일 하세요?
+P0 	: 넵 도서관에서 일하구있네요
+P0 	: &name2&님은요?
+P1 	: 우와 책이 많은 곳에서 일하시네요 부러워요!!
+P1 	: 저는 그냥 회사원입니다..ㅎㅎ
+P1 	: 책 읽을 시간이 많나요?
+P0 	: 그렇군요
+P0 	: 많진 않고 틈틈이 나네요
+P0 	: 저녁식사하셔야죠 이제!
+P1 	: 네 집에 가는 중이에요 ㅎㅎ 어떤 장르 좋아하세요?
+P0 	: 저는 판타지나 추리소설 좋아해요ㅎㅎ
+P0 	: 책읽는거 좋아하시나봐요?!
+P1 	: 네 저도 책 좋아하거든요!
+P1 	: 추리소설 하나 추천해주세욤
+P0 	: 히가시노게이고 소설 추천드려요ㅎㅎ
+P0 	: 백야행이나 용의자X의헌신
+P0 	: &name2&님은 무슨장르 좋아하셔요
+P1 	: 오 백야행은 읽어봤어요!
+P1 	: 저도 추리소설 좋아해서 추천해주신거 꼭 읽어볼게요 ㅎㅎ

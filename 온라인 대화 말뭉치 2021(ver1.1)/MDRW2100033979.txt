@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033979
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 추가해도 맛있나요?
+P1 	: 네 통자바칩으로 먹으니 맛나요 ㅎㅎ
+P0 	: 좋네요ㅋㅋㅋ
+P0 	: 저녁시간이라 배고프네요
+P0 	: 밥먹고 자바칩 한잔 딱 하고싶네요
+P1 	: 에스프레소 프라프치노?도 괜찮더라구요 민초도 드셔보셨나요?
+P0 	: 저는
+P0 	: 민초를 싫어한답니다ㅠㅠ
+P1 	: 반민초파시군요^^
+P0 	: 맞아요!
+P0 	: 맥주vs소주? 어떠세요?
+P1 	: 저는 맥주쪽이요.. &name1&님은요?
+P0 	: 저도요ㅋㅋㅋ
+P0 	: 둘중고르잔면요
+P1 	: 맥주는 뭘로 드세요
+P0 	: 써머스비
+P0 	: 좋아해요ㅋㅋㅋ
+P1 	: 저도 써머스비 알아요^^ 맥주에델바이스도 맛있는데 아시나요?
+P0 	: 네네 알죠!
+P0 	: 에델바이스파이신가요?
+P1 	: 네 최애맥주였어요~^^

@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100016745
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  3
+contact_frequency  :  주 1회 미만
+
+P0 	: 근데 애들은 수강신청 성공 했데??
+P1 	: 몰라
+P1 	: 이제노 울던데
+P0 	: 엉??
+P0 	: 걔도 망했나
+P1 	: 아니 필수 교수가 망함
+P0 	: 아...
+P0 	: 근데 걔 지금 대학 다녀??
+P1 	: 동계올림픽 시즌이라  괜찮지 않아?
+P0 	: 뭐... 알아서 하겠지
+P1 	: 딴 애들 아는거 있어?
+P0 	: &name3&&name3& 성공...
+P0 	: 아나 &name3& 수업 들으려고 탐내는데 인기 넘 많아
+P1 	: 그 색채수업?
+P0 	: ㅇㅇ 같아 들으려 했는뎅...
+P1 	: 정정기간때 노려봐
+P0 	: 정원 늘려주려나?
+P0 	: 수강신청 그냥 할 수록 눈물만 나...
+P1 	: 울지마...
+P0 	: 오키...
+P0 	: &name4&선배... 휴학한다는데

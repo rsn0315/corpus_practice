@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100006388
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님은 아내분과 어떻게 만나신건지 여쭤봐도 될까요?
+P0 	: 저는 대학 후배 소개로 만나서 1년 연애하고 결혼했어요
+P0 	: &name2&님은 연애중이신가요?
+P1 	: 아니요 ㅋㅋㅋㅋ
+P0 	: 요즘 소개팅하세요?
+P1 	: 아니요 연애생각이 없어서 ㅋㅋㅋㅋㅋ
+P0 	: 아 그렇구나
+P0 	: 결혼도 연애도 개인 선택영역이죠
+P1 	: 지금 연애생각이 없는거지 아예 연애생각이 없는건 아니구요 ㅋㅋㅋㅋㅋㅋ
+P1 	: 그런데 결혼생각은 없어요
+P0 	: 이해해요 요즘 비혼족도 많아지고 있잖아요
+P0 	: 저도 아이를 계획하지 않는다면 꼭 결혼할 필요 없다고 생각해요
+P1 	: 네 그래서 누굴만나더라도 미리 양해를 구해요
+P0 	: 와 진짜 매너 좋으신것 같다
+P0 	: 상대가 이해해 주나요?
+P1 	: 결혼을 생각하고 잇는 사람이면 서로 못할짓이잖아요 ㅎㅎ
+P1 	: 사귈것 같은 상황일때 미리 말을 해요
+P1 	: 괜찮다고 해서 만낫지만 만나고나서 결혼얘기를 꺼내는 사람도 잇엇고
+P0 	: 아 그건 이기적인 사람이네요

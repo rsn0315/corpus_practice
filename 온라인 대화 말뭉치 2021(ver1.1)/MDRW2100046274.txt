@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100046274
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211015
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 오늘 점심메뉴 정하셨나요?
+P0 	: 네
+P0 	: 냉면 먹을거이요
+P1 	: 오..오늘 냉면먹기엔 조금 춥지 않나요..?
+P1 	: 비빔냉면 드시나요 물냉면 드시나요?
+P0 	: 물냉면 먹을려고요
+P0 	: 속이 답답해서
+P0 	: 아침에 커피 드시나요?
+P1 	: 저도 물냉면을 더 좋아해요!
+P1 	: 넵 아침에 커피 자주마셔요!
+P1 	: 좋아하시는 커피종류 있으신가요?
+P0 	: 아메리카노?
+P1 	: 저도 아메리카노 제일 많이 마셔요 ㅎㅎ
+P1 	: 라떼먹으면 속이 별로 안좋거든요..
+P0 	: 네 그러고 보니 곧 점심시간이네요
+P0 	: 점심 맞있게 드세요
+P1 	: 넵 :) 저는 오늘 짬뽕 먹을 예정입니다!! 짬뽕 좋아하시나요?
+P0 	: 매운걸 안좋아해서  ㅠㅠ
+P1 	: 앗 그럼 중국집가서 짜장면 드시는 편이신가요..
+P0 	: 네 ㅎㅎ 탕짜면 먹습니다
+P1 	: 탕짜면 탁월한 선택이네요 ㅎㅎ 오늘 점심 맛있게 드시고 좋은 하루 보내세요!!
+P0 	: 네 즐거운 하루 보내세요

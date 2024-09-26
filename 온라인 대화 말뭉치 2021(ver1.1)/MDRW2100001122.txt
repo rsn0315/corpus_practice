@@ -1,0 +1,113 @@
+# FILE DATA
+ID : MDRW2100001122
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: &name3& 일어났어요??
+P1 	: 아직 자고 있어요.
+P0 	: 몇시에 수영장 갈꺼예요??
+	  난 지금 종합자료실이에요.
+P1 	: 4시간에 수영장에 갈꺼예요.
+	  우린 아직 차 안입니다.
+P0 	: 나는 4시부터는 3층 전자정보실에서 핸드폰 충전하면서 컴퓨터할 계획이에요.
+P1 	: 4시반인데 자동수정기능때문에 바뀌었네요.
+P0 	: 난 오늘은 시원스쿨 말하기 영문법 1, 2 대출해야겠어요!
+	  &name3&는 어린이자료실에서 빌릴 책이 더 없나요?
+P1 	: 글쎄요. 딱히 생각나는건 없네요. 그리고 6시25분이 출차시간 마지노선이니 그전에 꼭 오세요.
+P0 	: 도서관에 온 김에 책을 빌려가면 주말에 에어컨 밑에서 읽을 수 있으니 좋을거 같아요.
+P1 	: 그럼 읽을만한 책 찾아서 빌려 오세요.
+P0 	: 네 그럼 알아서 잘 대출해갈게요~
+	  이따가 &name3& 수영 마치고
+	  다시 연락주세요^^
+P1 	: 알았어요. 그리고 주차 다시 했어요. 중간 주차하는 곳에 가까운 기둥 바로 옆이에요.
+P0 	: 따로 구역번호가 없나봐요?
+	  알았어요.
+	  다시 잘 찾아볼게요~~
+P1 	: 그런거 따로 없어요. 암튼 도서관 입구에서 중간에 주차하는 곳 가장 가까운 곳이니 잘 찾아오세요.
+P0 	: 네 알겠어요~
+	  &name3&는 일어나서 수영장 들어갔나요??
+P1 	: &name3&는 4시10분경 일어나서 20분 게임하다 들어갔어요
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20210730
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 책이음 카드 비밀번호 뭔가요?
+P0 	: 대출증 비밀번호 숫자 네자리 알려주세요
+P1 	: &num& 아닐까요?
+P0 	: &name3&꺼는요??
+P1 	: &name3&꺼에 비번 있는지 모르겠어요. 있다면 같을 꺼 같아요.
+P0 	: 네 알았어요
+	  그럼 같은 번호로 해볼게요~~
+P1 	: 알았어요. 너무 늦지 않게 오세요.
+P1 	: &name3& 50분에 씻으러 들어갔어요. 너무 늦지 않게 갈 준비하세요.
+P0 	: 책 대출 다하고 기다리도 있어요. 연락주면 바로 내려 가면 돼요.
+P0 	: 기다리고 있어요. 스탠바이중
+P1 	: 알았어요.
+P1 	: 내려오세요.
+P1 	: 얼릉 오세요.
+P0 	: 무음이라 못봤어요
+P0 	: 지금 엘리베이터예요
+P1 	: 주차비 나와요. 빨리 오세요.
+	  

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100003888
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 재밌겠다
+P1 	: 몇시에 보러가세요
+P0 	: 흠 한 3.4시쯤 시간보고 예약하려구용
+P1 	: 혼자보세요?
+P1 	: 오늘 비 많이 오던데
+P0 	: 아뇨아뇨 친구랑요 ~
+P0 	: 오다가 지금은 그친거같아요!
+P1 	: 영화 보고나면 후기 알려주세요
+P1 	: 신파없이 잘 만들었다는 후기가 많더라구요
+P0 	: 네네 ㅎㅎ 최근에 보신영화 있으세요?
+P1 	: 저 최근에 정직한후보봤어요
+P1 	: 혹시 보셨나요
+P0 	: 아 봤어요 ㅋㅋ그거웃기죠
+P1 	: 라미란씨  감칠난 연기를 잘하더라구요
+P1 	: 이런 코미디 영화는 부담이 없어서 좋은거같아요
+P0 	: 네ㅋㅋ 라미란씨 좋아용
+P0 	: 가벼운 영화 좋아해요 저둥
+P1 	: 딱 시간떼우기도 좋고
+P1 	: 그래서 더 좋더라구요
+P0 	: 맞아요 진짜 ㅋㅋ
+P0 	: 콘서트도 가보고싶네용
+P1 	: 아 저두요ㅠㅠ
+P1 	: 코로나끝나면 가고싶어요

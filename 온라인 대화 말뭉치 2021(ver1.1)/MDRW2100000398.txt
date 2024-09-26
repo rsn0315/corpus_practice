@@ -1,0 +1,66 @@
+# FILE DATA
+ID : MDRW2100000398
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 해외/기타
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 직장 다니세요??
+P1 	: 항상 퇴사하고싶은 직장인인 저를 부르시나요?
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 네 바로 당신입니다
+P0 	: 이 시국에 재택 좀 하시나요
+P1 	: 이 시국에 재택을 안시켜주는 회사를 다니는 저를 또 찾으시나요?
+P1 	: 당신...혹시 재택근무하는 직장인이신가요?
+P1 	: 부러워죽겠네요
+P0 	: 아뇨 저도 좀 대리만족할까 해서 재택근무하는 기분 물어보려고 한건데
+P0 	: 그럴 일은 없었네요
+P1 	: &name1&님 회사와 저의 회사에게 우리 대화를 보여주고싶네요
+P1 	: 재택을 해주던가
+P1 	: 주4일제를 해주라 회사야
+P0 	: 제벌
+P0 	: 제발
+P0 	: 재택이 소설 얘긴줄 알았는데 주변인은 하나둘씩 또 하는 거 보면
+P0 	: 기분이 나날이 별로네요
+P1 	: 회사 대표님은 도대체 코로나 심해진다고 회사직원들한테 화는 내는데
+P1 	: 출근은 하라하시고..허허
+P0 	: 왜
+P0 	: 직원들에게 화를 내시죠
+P1 	: 코로나조심하라고 ㅋ 화냅니다
+P0 	: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P1 	: &name1&님네 회사는
+P1 	: 확진자나 접촉자없으셨어요??
+P0 	: 네 놀랍게도!!!
+P0 	: 서른명즘 되는데
+P0 	: 단한명도 여전히
+P0 	: 영웅이 되질 못했어요
+P1 	: 헐......&name1&님 회사 대표님 저희 대표님이랑 영혼의 단짝인듯

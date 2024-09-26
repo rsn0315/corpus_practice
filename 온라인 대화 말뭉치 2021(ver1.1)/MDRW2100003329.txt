@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100003329
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님
+P0 	: 책좋아해요?
+P1 	: 책 좋아하는데 편식하게되네요 책좋아하세요?
+P0 	: 네네저도 편식해요
+P0 	: 저는 역사좋아해요
+P1 	: 오 역사 좋아하세요? 한국사 세계사 어떤거 더 좋아하시나용?
+P0 	: 저는 둘다좋아하는데
+P0 	: 세계사를 더좋아해요
+P0 	: 세계여행도 1년다녀왔어요
+P1 	: 와 세계사를 더 좋아하시는군요 그럼보통 세계사 관련된 책읽으시는거예용?
+P0 	: 네네 세계사책도읽고 내용도봐요
+P0 	: 나무위키도 읽고요
+P0 	: &name2&님은요
+P1 	: 저는 에세이나 짧은 그냥 산문이나 시집 좋아해요ㅋㅋ
+P0 	: 간단한것들이 읽기가더좋아요
+P0 	: 정서적으로도 편안하지요
+P1 	: 네 이어지는것들은 일상이 일하면서보기에는 조금 부담이 되더라구요ㅜ
+P0 	: 맞아요 여유가없어요
+P0 	: 혹시 읽고싶은책있어요?
+P1 	: 혹시 베스트셀러나 신작들도 자주읽으시나용?
+	  저는 요새 서점가면 베스트셀러 읽고싶은게 많더라구요
+P0 	: 저는 추천해주신것들만 읽어요
+P0 	: 책많이읽어야되는데게을러지네요
+P1 	: 오 최근에 추천받으신거있으세요?
+P0 	: 최근에는 없고 미래예측서? 같은종류 읽어봤어요
+P1 	: 아 미래예측서 본적있는거 같아요

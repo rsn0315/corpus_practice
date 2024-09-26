@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100014135
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 근무하시나요?
+P1 	: 지금 하시는 일에 만족하시나요?
+P0 	: 네 전 만족해요ㅋㅋ
+P0 	: 대학때부터 꿈꿔온 업무랑 거의 맞는거 같아요ㅎㅎ
+P1 	: 와 바람직하네요 저는 좋으면서도 이직하고 싶기도 한데..ㅠㅠ
+P0 	: 어떤 부분 때문에 이직하고 싶으세요?
+P1 	: 제가 하는 일이 갈수록 익숙해지기보단 더 힘들어지더라구요~
+P0 	: 적성에 안 맞아서요?
+P1 	: 사람들을 상대하는 일이라 난이도가 복불복이더라구요
+P0 	: 사람마다 달라서 힘들 수 있죠ㅜ
+P0 	: 이직한다면 어떤쪽으로 변경하고 싶으세요?
+P1 	: 혼자만 할 수 있는 업무로요 .ㅋㅋ
+P0 	: 사무직종이요?ㅎㅎ
+P1 	: 네 그런쪽이면 좋겠네요~ㅎㅎ 희망사항...
+P0 	: 생각해보니 회사일 중 혼자하는 일이 많지 않은거 같기도 하네요ㅎㅎ

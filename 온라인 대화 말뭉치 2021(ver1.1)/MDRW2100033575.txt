@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100033575
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 보신영화 있으신가요
+P1 	: 영화 안본지 좀 되었네요
+P1 	: &name1&님은요?
+P0 	: 저도 한동안안보다 얼마전 모가디슈봤어요
+P1 	: 어떤 영화인가요?
+P0 	: 실화바탕인데 소말리아  내전터져서 남북한 대사들 탈출하는 스토리요
+P1 	: 오 한번 볼게요
+P1 	: 탈출하니까 생각나는건데 쇼생크탈출 보셨나요?
+P0 	: 네 어릴적에 봤었죠ㅎㅅㄴ
+P0 	: 톰행크스랑
+P0 	: 모건프리먼인가요?
+P1 	: 팀 로빈스랑 모건프리먼이요
+P1 	: 재밌게봤던 영화중 하나네요
+P0 	: 아 팀로빈스  저도그건 잼나게 본거같아요
+P1 	: 좋아하는 영화감독 있으신가요?
+P0 	: 감독은 잘몰라서 ㅎ
+P0 	: 주로 흥행하는 영화봐요
+P1 	: 콘서트 가보신적있으신가요?
+P0 	: 친구가 티켓당첨돼서 힙합콘서트가봤어요

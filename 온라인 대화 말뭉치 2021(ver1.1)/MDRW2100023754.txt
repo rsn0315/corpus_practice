@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100023754
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 우리 오늘 와플 먹기로 했잖아
+P0 	: 그니까
+P0 	: 또 까먹었네
+P0 	: ㅎㅎ
+P1 	: 어떤 와플 먹고 싶어?
+P0 	: 난 약간 달콤한 와플 먹고 싶어
+P1 	: 와플은 다 달콤해
+P0 	: 근데 많이 단 와플도 있고
+P0 	: 덜 단 와플도 있잖아
+P1 	: 그게 이제 토핑에 따라 많이 달라지지
+P0 	: 와플에 토핑이 많이 들어가나..?
+P1 	: 그럼 빵만 먹는 사람이 어딨어
+P0 	: 그건 그렇지;;
+P0 	: 그건 그렇지;;
+P1 	: 나는 젤라또 와플 먹고 싶어
+P0 	: 젤라토가 머야?
+P1 	: 쫀득한 아이스크림
+P0 	: 너무 달지 않나?
+P1 	: 막 너무 달아서 못 먹겠고 이런 건 아닌데

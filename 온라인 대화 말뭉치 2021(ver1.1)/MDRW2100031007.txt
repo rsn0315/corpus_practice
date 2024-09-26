@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100031007
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 어떤 산이 가장 좋으셨나요?
+P1 	: 저는 내장산이요
+P1 	: 순수하게 단풍구경을 위해 간 산이에요..ㅎㅎ
+P0 	: 내장산.. 굉장히 험하다고 들었는데 맞나요?
+P0 	: 단풍이 정말 아름다운 산이었나봐요!
+P0 	: 친구가 가을에 단풍이 정말 이쁜 산이라 가을에 놀러가면 정말 좋은 산이라고 말은 들어봤었거든요
+P1 	: 네.. 단풍 정말 예뻤어요.. 근데 험하다는 기억은 없었는데
+P1 	: 아마도 등산이 목적이 아니라 감상이 목적이어서
+P1 	: 높이 안올라갔었나보네요
+P0 	: 진짜 끝나기만 하면 ㅠ 꼭 보러가야겠어요 ㅠㅠ
+P0 	: 정자가 있는 호수? 연못? 이 있다고 하던데 가보셨나요?
+P1 	: 몇년전이라 기억이 가물가물한데 그게 코스가 있을거에요
+P1 	: 전.. 봤는지 어쨌는지 기억이 안나네요
+P1 	: 기억나는건 백반집이 맛있었다는 거
+P0 	: 여행을 즐겨하시는 편이신가요?
+P1 	: 네 그럼요? 여행 즐겨하시나요?
+P0 	: 저도 좋아해요ㅎㅎ

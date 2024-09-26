@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100017976
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 40대 이상
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 그래도 가족밖에 없죠?^^
+P0 	: 그야 당연하지..
+P1 	: 오늘 백신 맞으셨는데 괜찮으세요?
+P0 	: 괜찮다.. 가족이 있으니까 이렇게 서로 챙겨주고 얼마나 좋아
+P1 	: 좋조
+P0 	: 그러니까 너도 얼른 니 가족을 만들어라
+P1 	: 헐
+P0 	: 엄마말 허투루 듣지 말고
+P1 	: 엄만 포기를 안하시는군요
+P0 	: 딸래미를 어떻게 포기하니
+P1 	: 뭐 항상 감사하죠 ㅎㅎ 그동안 저 챙겨주셨으니 이제 제가 챙길 차롄가요
+P0 	: 아이고.. 엄마아빠 신경쓸 거 없이 너만 잘 살면 걱정이 없다
+P1 	: 전 잘 살고 있어요
+P0 	: 엄마 눈엔 아니야~ 너의 울타리가 돼줄 가족이 필요해..
+P1 	: 엄마아빠동생있잖아요
+P0 	: 엄마아빠가 언제까지나 있을거 같니? 게다가 니 동생은 동생 가족을 꾸렸잖아.. 그건 동생 가족이니 니 가족이 아니야
+P1 	: 그런 섭한 말은 나중에 들을게요 지금 전 행복하니까요

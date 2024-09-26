@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100007881
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 마트배달해야하지않아?
+P0 	: 응 뭐 시켜야하지
+P0 	: &name3& 좋아하는 두부도 시키고
+P1 	: 이제 &name4&도 과일 먹으니까
+P1 	: 바나나시킬까?
+P0 	: 응 그러자 인생 첫 바나나ㅋㅋ
+P0 	: 그리고 우리 먹을건
+P1 	: 피자치즈 사야하지 않아?
+P0 	: 아 그래 양송이 샀으니까 그거 사자
+P0 	: 또 내내 양송이 대파티 예정이니까
+P1 	: 토마토는 집에 있어?
+P0 	: 응 전에 산거 아직 있어서
+P1 	: 그럼 다른건 뭐 사나
+P0 	: 배달 시키려니 2만원 채우기가 어렵다ㅠ
+P1 	: 그치 네식구인데도 2만원이 어렵네ㅋㅋㅋ
+P0 	: 넷이지만 먹는 사람은 둘이니깤ㅋㅋㅋ
+P0 	: 아 어제 웨건 바람막이도 샀어
+P1 	: 잘해쪄
+P1 	: 폴딩같이되는걸로?
+P0 	: 응 같이 접혀야 편하니까
+P0 	: 엄청 추우면 안나가겠지 싶어서ㅋㅋㅋㅋ
+P0 	: 조금 추워도 말자 싶어섴ㅋㅋㅋ
+P1 	: 응응 겨울엔 옷 따숩게 입을거니까

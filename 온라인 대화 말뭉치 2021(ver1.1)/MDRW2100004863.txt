@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100004863
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음원 있어요?
+P1 	: 저는 가사없는 노래를 좋아해요
+P0 	: 그럼 악기연주만 있는 노래 좋아하시는 건가요..?
+P1 	: 네! 영화 ost같은거 좋아해요
+P0 	: 그 중에 추천해주고픈 노래 있으신가요? 추천해줘요
+P1 	: 음 저는 신세계 ost 좋아해요 big sleep 들으시면 아실듯
+P0 	: ㅎ ㅏ....노래 좋아요
+P1 	: 맞아요ㅋㅋ 완전 느낌있어요
+P0 	: 좋아하는 연예인 있어요?
+P1 	: 딱히 좋아하는 연예인은 없네요! 아이유 좋아하는 가족이 있어서 아이유 노래는 자주 들어요
+P0 	: 오 그럼 아이유 노래 중에 좋았던 노래 있어요?
+P1 	: 이지금 추천해요! 노래 제목이 이지금이에요
+P0 	: 이 노래도 좋네요

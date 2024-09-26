@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100010559
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 충북
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P1 	: 여행 좋아하시나요?
+P0 	: 아니요 님은요?
+P1 	: 아 네 전 좋아하는데 아무래도 코로나 이후로는 못가고 있죠 ㅎㅎ
+P0 	: 국내 여행지 어디가 좋았어요?
+P1 	: 국내는 순천이 참 좋더라고요
+P0 	: 몇일가셨어요?
+P1 	: 다른 도시랑 같이 들러서 간거라 당일치기로 봤었어요
+P1 	: 순천만이 멋있더라고요
+P0 	: 자연경관 좋아하세요?
+P1 	: 네 탁트인 풍경 보면 마음이 편해져서 좋아요
+P1 	: &name1&은 기억에 남는 관광지 있으세요
+P0 	: 송도요
+P1 	: 송도가 거리가 참 깨끗하다던데
+P0 	: 맞아요

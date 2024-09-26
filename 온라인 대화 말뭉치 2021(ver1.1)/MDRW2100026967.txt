@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100026967
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  4
+contact_frequency  :  주 3회 이상
+
+P0 	: &name2&얌
+P1 	: &name1& 끼룩끼룩
+P0 	: &name3&는 집에서 머해
+P1 	: &name3& 지금 잡니다^.^ 꿀잠쓰
+P0 	: &name3&지금은 머하심까
+P1 	: &name3& 지금 간식 먹고있어유
+P0 	: &name2& 누나는 머해여
+P1 	: &name2& 누나 버스타고 일하러 가요
+P1 	: ㅠㅠㅠㅠㅠ
+P1 	: &name1&은 뭐해여
+P0 	: 아이고 &name2&누나ㅜㅠ &name3& 간식주고 일하라가시나여
+P0 	: 저는 지금 밥먹고 잠시 쉬고잇답니다
+P1 	: 예아...&name3&야 누나 갔다올게...흑흑흑
+P1 	: 밥먹고 후식도 드실껀가유?!
+P0 	: 후식으로는 사과를 먹엇지용
+P0 	: 식탁도 치우고왓답니다
+P0 	: &name2&누나는 언제 돌아오나유
+P1 	: 아 나도 과일 먹고싶다
+P1 	: 아마 8시쯤? 돌아올 것 같아유
+P0 	: 그렇구나 힘내세요 &name2& 누님
+P0 	: 당신은 할수잇는 근로자

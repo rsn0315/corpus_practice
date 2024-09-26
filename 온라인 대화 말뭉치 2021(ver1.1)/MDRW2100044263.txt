@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100044263
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 학교생활은 어떠샸나요
+P1 	: 전 즐거웠어요! &name1&님은요?
+P0 	: 저도요ㅎ 특히 즐거운 경험룬요?
+P1 	: 저 야자 째고 놀때요!
+P0 	: 아 재밌었겠네요
+P1 	: 네! 그냥 학교에서 친구만나서 학교안에서 노는 것보다 재밋었어요 ㅎㅎ
+P0 	: 그쵸 아무래도 학교밖이니까
+P1 	: 네! 다른친구들 다 공부하고 있어서 그런가 더 재밌더라고요 ㅋㅋㅋㅋㅎㅎ
+P0 	: 즐거웠겠어요
+P0 	: 학교수엊은 잘 듣는 편인가요?
+P1 	: 잘...들으려고 하는 편이었어요!
+P0 	: ㅎㅎ 그래요?
+P1 	: 네 ㅋㅋ 안 졸려고 노력했답니다
+P0 	: ㅋㅋ 그거라도 어디예요

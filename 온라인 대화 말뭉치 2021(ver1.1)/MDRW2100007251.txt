@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100007251
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 요즘 유튜브 뭐봐?
+P1 	: 축구
+P0 	: 축구하이라이트?
+P1 	: 응
+P0 	: 해외축구만 봐?
+P1 	: 축구는 해외축구만 보고 야구는 국내만 봐
+P0 	: 야구 유튜브는 안봐?
+P1 	: 응 알람 설정 안했어 누난 머봐?
+P0 	: 난 피식대학도 보고 펭수도 보고
+P1 	: 음악은 요즘 뭐 많이 들어?
+P0 	: 나는 류이치사카모토 음악 많이 듣고있어
+P1 	: 유명한 사람이야? 뭐하는 사람인데?
+P0 	: 뉴에이지로 유명한 사람이야
+P0 	: 유키구라모토 알아?
+P1 	: 아니 잘 몰라
+P0 	: 히사이시조!
+P1 	: 히사이시조는 알아
+P0 	: 그런 류의 음악 작곡하는 사람이야

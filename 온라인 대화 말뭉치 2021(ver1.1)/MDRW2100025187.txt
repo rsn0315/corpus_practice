@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100025187
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210901
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있으세요?
+P1 	: 네 저는 떡볶이 엄청 좋아해요!
+P1 	: &name1&님은 어떤 음식 좋아하세요??
+P0 	: 앗 저도 떡볶이가 소울 푸드에요
+P0 	: 어디 브랜드 좋아하세요?
+P1 	: 너무 많은데...! 요즘에는 엽떡 로제떡볶이요!
+P1 	: &name1&님은 어디 떡볶이 좋아하세요??
+P0 	: 저도 요새 로제떡볶이만 먹어요
+P0 	: 전 신전..!!
+P0 	: 엽떡 맛있나요?
+P1 	: 저는 맛있게 먹었어요!
+P1 	: 신전 일반 떡볶이도 너무 좋아하는데 로제도 맛있나봐요
+P1 	: 다음에 시켜먹어봐야겠네요!ㅎㅎ
+P0 	: 넵 꼭 오뎅튀김이랑 같이 시켜드세요!!ㅎㅎ
+P0 	: 배달음식은 많이 시켜드시나요?
+P1 	: 넵! 꼭 같이 시켜먹을게요!
+P1 	: 배달음식 일주일에 한번정도 시켜먹어요!
+P0 	: 치킨이랑 피자중에 뭘 더 좋아하세요?
+P1 	: 저는 치킨 더 좋아해요!
+P1 	: &name1&님은 어떤거 더 좋아하세요?
+P0 	: 전 피자파인데 요즘 너무 비싸서
+P0 	: 치킨으로 갈아탈려구요ㅠ
+P1 	: 치킨도 그렇고 피자도 그렇고 요즘 배달음식이 다 비싼것같아요ㅠㅠ
+P1 	: 좀 싸졌으면 좋겠어요
+P0 	: 그러니까요 배달비도 너무 많이 붙어서ㅠㅠ

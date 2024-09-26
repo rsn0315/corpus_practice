@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100032381
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 가장 최근에 쇼핑한 건 마스크야
+P0 	: 오 무슨 마스크 샀어?
+P1 	: 코로나 마스크인데
+P0 	: 맨날 써야하긴 하니까...
+P1 	: 응응 근데 세일해서 샀어
+P0 	: 세일 정보는 어디서 확인하는 편이야?
+P1 	: 주로 네이버 카페
+P0 	: 나도 어디 카페인지 알려줄 수 있어?
+P1 	: 짠돌이 카페라고 유명한데
+P1 	: 정보가 많아서 좋아
+P0 	: 나도 한번 들어가봐야겠다
+P1 	: 응 도움이 될거야
+P0 	: 또 뭐 산 거 있어?
+P1 	: 떡 샀는데 아직 배송이 안왔어

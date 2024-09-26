@@ -1,0 +1,75 @@
+# FILE DATA
+ID : MDRW2100012140
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P0 	: 너는 동물 키워?
+P1 	: 안키워
+P0 	: 왜안키워
+P0 	: 난 고양이키워
+P1 	: 고양이 이름이 뭐야?
+P0 	: 또치
+P1 	: 무슨종이야(
+P1 	: ?
+P0 	: 그냥 길고양이랄까 뭐라해야돼
+P1 	: 몰라?
+P0 	: 그냥 흔히 길에서 보이는 애들이야
+P1 	: 그렇구나
+P0 	: 냥줍햇거든
+P1 	: 몇살이야?
+P0 	: 간택당햇엄
+P0 	: 몰라 ㅇㅅㅇ
+P1 	: 키우는거 맞지?
+P0 	: 1살?
+P0 	: 아가때 데려왔어
+P1 	: 얼마나 키웠어?
+P0 	: 1년!
+P1 	: 털 많이 날려?
+P0 	: 애가 말을 알아듣나봐
+P0 	: 짱많이날려
+P0 	: 이름부르면 개처럼 달려와
+P1 	: 똑똑한가봐
+P1 	: 배변은 잘해?
+P0 	: 그 고양이 모래? 놔두면 알아서 거기에다해
+P1 	: 멋있다
+P1 	: 여자야 남자야?
+P0 	: 여자애
+P0 	: 귀여워
+P1 	: 귀엽겠다
+P1 	: 또치도 너 좋대?
+P0 	: 너도 나중에 키워 또치 나 엄청좋아해
+P1 	: 나도 고양이 키워보고싶긴해
+P0 	: 같이키우자
+P1 	: 그래

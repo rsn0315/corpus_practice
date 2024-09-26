@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013899
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 공연이나 전시회 보시는 거 좋아하시나요??
+P0 	: 네ㅋㅋ근데 요즘에는 못가보고있어요ㅜ
+P1 	: 오 어떤 장르 좋아하세요??
+P0 	: 뮤지컬이랑 연극이요ㅋㅋ
+P1 	: 오 제가 연극은 본 적이 얼마 없는데
+P1 	: 주로 어디 가서 보시나요??
+P0 	: 대학로요ㅋㅋ
+P0 	: 홍대에서도 본 적 있구요
+P1 	: 역시 대학로가 연극 많이 하나보네요
+P0 	: 그쵸ㅋㅋ대학로는 진짜 연극 많이해요
+P1 	: 저도 대학로에서 연극 한 번 본 적 있어요
+P1 	: 제가 고른 건 아니고.. 학교에서 단체로 가서..ㅎㅎ
+P0 	: 저도 학과에서 단체로 홍대 가서 연극 봤었어요ㅋㅋ
+P0 	: 그 때 홍대에서 당신은 주인공인가
+P0 	: 그거 했는데 관객참여 100퍼더라구요ㅋㅋ
+P1 	: 옼ㅋㅋㅋㅋㅋㅋ 제가 갔던 공연은 그런 건 없었어요ㅋㅋ
+P1 	: 사실 되게 오래돼서 잘 기억도 안 나요ㅋㅋ
+P0 	: ㅋㅋㅋㅋ뮤지컬은 보신 적 있나요?
+P1 	: 네네 주로 유명한 거 봤었어요ㅋㅋ
+P1 	: 캣츠 오페라의 유령 위키드 이런거...

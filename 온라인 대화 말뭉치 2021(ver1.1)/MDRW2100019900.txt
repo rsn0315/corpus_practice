@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100019900
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 대구
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 찾아보면
+P1 	: 있음 찾아보셈
+P0 	: 있겠지
+P0 	: 알았다 니도 찾아봐라
+P1 	: 닭발먹든가
+P0 	: 반띵한다잉
+P0 	: 닭발 지겹다
+P1 	: 우라빠닭강정 해서 반반먹던가
+P0 	: 몰라
+P1 	: 물게엄노
+P0 	: 배송비 적은데 없으면 거기 ㄱㄱ
+P1 	: 순대국밥 시켜라
+P0 	: 됐다 배부르다
+P0 	: 헤비하다
+P1 	: 라이트한걸로
+P1 	: 찾아서시켜라
+P0 	: 간단한 떡보낑 어떰?
+P1 	: 라이트한거 뭐없나
+P0 	: 라이트한거 떡볶이지
+P1 	: 떡보끼 겁나 헤비하네
+P0 	: 배달음식중에 살 안찌는게
+P0 	: 뭐가 있지

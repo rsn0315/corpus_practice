@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100042462
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210906
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저 최근에 다이어리 샀답니다
+P1 	: &name1&님은요?
+P0 	: 전 할인되는 쇼핑을 찾아서 하고 있어여
+P1 	: 오!저도요!
+P1 	: 저도 최저가를 찾아서 산답니다!!
+P0 	: 후라이팬.등등 생활용품을 자주 보고 사지요
+P1 	: 아하 좋네요!
+P1 	: 최근에 구매하신 물건은요?!
+P0 	: 배..복숭아가 있어요
+P1 	: 복숭아!! 저 복숭아 엄청 좋아한답니다
+P1 	: 상품의 상태는 괜찬ㄹ았나요?
+P0 	: 생각보다 상품이 괜찮았어요
+P1 	: 다행이네요!
+P0 	: 맛도 름 좋았어여
+P1 	: 와 신기해요 홈쇼핑으로 사도 맛이 괜찬ㄹ은가봐요
+P0 	: 계속 할 듯 ㅙ요

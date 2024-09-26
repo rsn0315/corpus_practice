@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100000883
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 인천
+principal_residence : 경기
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P1 	: 아직도 더운거같아요 혹시 시원하신가요
+P0 	: 계속 선선하다가 오늘 되게 더웠어요.
+P1 	: 아 혹시 그럼 최근 에어컨 안트셨나요
+P1 	: 여태 저흰 켜놨어요
+P0 	: 네 한 일주일 전쯤까진 켰는데 고층이라 그런지 바람이 많이 불어서 요새는 끄고 있어요
+P1 	: 전 아직.덥던대
+P1 	: 제가 이상한건가요
+P0 	: 아뇨ㅋㅋ그럴 수 있죠!
+P0 	: 지역따라서도 다르지 않나요?
+P0 	: 햇빛 때문에 덥더라구요
+P1 	: 조금만 움직여도 집에서
+P1 	: 땀이 주르륵 흘러요
+P1 	: 9월되면 그럴일이 없겠죠...?
+P0 	: 그랬으면 좋겠어요!
+P0 	: 요즘 홈트하고 싶어도 더우니까 못하겠더라구요
+P1 	: 다음주 26_27도던대
+P1 	: 이 온도가 시원한편인가요 그래도 더운날씨인거맞죠
+P0 	: 솔직히 잘 안 믿겨요! 햇빛이 너무 쎄서 온도 많이 낮아졌는데도 덥네요
+P1 	: 그쵸
+P1 	: 아직은 덥죠
+P1 	: 조금만 움직여도 엄청나게 더워진거같아요
+P0 	: 이번 여름 진짜 너무너무 더워요

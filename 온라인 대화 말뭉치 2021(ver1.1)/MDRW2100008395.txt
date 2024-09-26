@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008395
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 여행좋아해요?
+P1 	: 여행 좋죠
+P1 	: 요즘 코로나라 어디 제대로 놀러간지도 오래됐네요ㅠ
+P0 	: 맞아요
+P1 	: 저는 해외여행을 아직 안가봤는데
+P1 	: 가보신 적 있나요?
+P0 	: 호주요
+P1 	: 호주 좋은가요? 저도 여행 가보고 싶네요
+P0 	: 청정지역이에요
+P1 	: 호주 사람들은 친절한가요?ㅎㅎ
+P0 	: 네 그래요
+P1 	: 요즘 외국에서 동양인 차별이 심하다고 해서ㅠ
+P1 	: 코로나 끝나면 어딜 가야할지 고민이었는데
+P1 	: 호주도 고려해봐야겠네요ㅎㅎ
+P0 	: 꼭이요
+P1 	: 호주에서 캥거루나 쿼카도 보셨나요?
+P0 	: 코알라요

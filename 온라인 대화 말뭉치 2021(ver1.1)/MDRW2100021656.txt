@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100021656
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 중고거래 해봤어요?
+P0 	: 네!! &name2&님은요?
+P1 	: 저도 해봤는데 좋았어요
+P1 	: 핸드폰 살 때 주는 기본 구성품 필요 없어서 팔았어요
+P0 	: 당근마켓 맞죠?ㅋㅋ
+P1 	: 중고나라에요 ㅎㅎ
+P1 	: 당근마켓은 아직 가입도 안해봤어요 ㅠ
+P0 	: 오.. 용감하시네요 ㅋㅋ
+P1 	: 엥 왜 용감해용?ㅋㅋㅋ
+P0 	: 저는 중고나라 무서워서 ㅋㅋ
+P0 	: 직거래로 하거든요 ㅋㅋㅋ
+P1 	: 아 ㅋㅋ 중고나라인데 직거래로 했어요
+P1 	: 구로역에서 만났네용
+P0 	: 아 그럼 다행이시네요 ㅋㅋㅋㅋ
+	  저는 지방이라 무조건 택배해야하거든요 ㅠ
+P1 	: ㅠㅠ 지방이면 직거래도 어렵겠네요 그쵸?
+P1 	: 근데 택배거래도 되게 사기 많다면서요 ㅜㅜ
+P0 	: 그래서 당근으로하죠 ㅋㅋㅋ
+	  당근에는 동네 사람이 진짜많아요
+P1 	: 중고나라에는 잘 보이지도 않던데

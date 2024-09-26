@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100017529
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 없는데
+P0 	: 현관 앞에 놔둿다는데?
+P1 	: 문 앞에 아무것도 없어
+P0 	: 어?? 이상하네....
+P1 	: 103호로 했나??
+P0 	: 서...설마
+P1 	: 주소 확인해봐
+P0 	: 헐... 103호로 갔나봐요
+P1 	: 확실해?
+P0 	: 택배기사님한테 연락해볼게요
+P0 	: 전화해봤는데 103호 현관 앞에 놔두셨대요
+P1 	: 엄마가 가서 확인해볼게
+P1 	: 택배찾아옴
+P0 	: 고마워요~~~
+P0 	: 멜빵바지 맞아요?
+P1 	: 어어
+P0 	: 어떻게 찾았어요/
+P1 	: 103호 현관 앞에 있었어~
+P0 	: 다행이다
+P0 	: 엄마~
+P0 	: 엄마가 쓰는 화장품 아예 품절이래요

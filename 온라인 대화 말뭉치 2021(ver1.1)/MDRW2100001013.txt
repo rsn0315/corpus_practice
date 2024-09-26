@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100001013
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  주 1회 미만
+
+P0 	: 고등학교 다닐 때가 좋았는데
+P1 	: 고등학교때 먹던 밥이 생각나네
+P0 	: 밥이 생각난다고? 진심?
+P0 	: 밥은 맛 없었는데 ㅜㅜ
+P1 	: 졸업하고 나서 맨날 집에서 대충먹다보니 생각이 나더라구
+P1 	: 그래도 균형있긴했잖아
+P0 	: 영양사님이 계획해서 만든거니까
+P0 	: 영양학적으로 균형있긴 했지
+P1 	: 시험치고나서나 특별한 날이면 꽤 맛잇는것도 나오지 않았나?
+P0 	: 음 난 특별한 음식을 별로 안좋아했던거 같아
+P0 	: 평범한 음식을 조리 잘 하길 바랐어
+P0 	: 너는 그래도 입에 맞았다니 다행이네
+P1 	: 난 음식을 가리지 않아서 그런가봐
+P0 	: 정말 좋은 습관이야
+P0 	: 난 학교 급식이 영 안맞았어서 ㅋㅋ
+P1 	: 그건 좀 힘들었겠네
+P0 	: 학교 다닐때 생각해보면
+P0 	: 도서관이 있는게 참 좋았어
+P1 	: 나도 고1때는 도서실에 꽤 많이 갔던것 같아
+P1 	: 조용하고 책읽기도 좋고
+P0 	: 지금은 책 사서 보자니 돈 없고
+P0 	: 도서관 가자니 귀찮아
+P0 	: 학교도서관이 짱인듯

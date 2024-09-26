@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100008988
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 일상 트렌드>재택근무 일자리
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택근무 하세요?
+P1 	: 저는 출근이요~
+P1 	: 재택근무 하시나요?
+P0 	: 재택 아니고 출근이요~
+P1 	: 저희 신랑은 벌써 한달넘게 재택이요
+P0 	: 헛
+P0 	: 어떤 직장이신지?
+P1 	: 사기업인데 코로나 4단계 계속 되면서
+P1 	: 재택 쭉 하네요
+P0 	: 음..
+P0 	: 좋은건지 안좋은건지?
+P1 	: 근데 일반 기업이라 진짜 열일 하더라구요
+P0 	: 아하
+P0 	: 분위기가 다를것같아요
+P1 	: 퇴근시간도 정확히 못 지키고 일하더라구요
+P0 	: 에구 그래도 재택이라 좀 나으실것같아요
+P1 	: 물론 가끔 세탁기도 돌리고 그러긴 하더라구요
+P1 	: ㅋㅋㅋ
+P0 	: ㅋㅋ세탁기

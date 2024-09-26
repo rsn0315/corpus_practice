@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100031502
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 저는 굽네에 바사삭 좋아해요
+P0 	: 고 추 바사삭이요!?
+P0 	: 저는 다사랑 치뿌링 치킨 좋아해요!!
+P0 	: 개인적으로는 뿌링클보다 맛있는 것 같아요
+P1 	: 네네, 고 to the 추 바사삭이용ㅋㅋㅋ
+P1 	: 오, 치뿌링 누군가한테 들었는데 &name1&님인가
+P0 	: 앗 아마 저였을 수도 잇어요 저 완전 치뿌링 홍보대사거든요 ㅎ.ㅎ
+P0 	: &name2&님 점심 드셨어요!?
+P1 	: 저 아침 많이 먹어서 이따가 점저 먹으려구요
+P0 	: 앗 아침은 뭐 드셨어요@
+P1 	: 저 김치찌개요!!
+P0 	: 헐!!! 진짜 맛있으셨겠네요!
+P0 	: &name2&님은 참치김찌파세요 고기김찌파세요!?
+P1 	: 저는 고기파요
+P0 	: 헛 전 완전 참치파거든요 ㅎ.ㅎ !!
+P1 	: 오, 근데 전 참치도 잘먹긴 해요
+P0 	: 하긴 김치찌개 is 뭔들이니까요 ㅎ.ㅎ !!
+P0 	: 또 어떤 음식 좋아하세요?
+P1 	: 저 김밥천국 같은데서 파는것들 좋아해요 떡볶이 김밥 오므라이스 냉면ㅋㅋㅋ

@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 거기 날씨는 좋나용?
+P1 	: 네 아침엔 흐리더니 지금은 또 맑아요
+P0 	: 여기도 되게 흐렸는데 갑자기 햇빛이 쨍하구 비치네요ㅋㅋㅋ
+P0 	: 아직 여름옷 입으시지용?
+P1 	: 그렇죠..옷정리는 언제 하실건가요,
+P0 	: 그러게요 여름이 길어가지구 어떻게할지 고민중이예요ㅋㅋㄲ  담주는 또 계속 비던데..
+P1 	: 네 9월초까진 여름옷 입지 싶어요~!
+P0 	: 빨리 좀 추워지면 좋겠어요ㅎㅎ
+P1 	: 그럼 금세 겨울이겠죠 ㅠㅠ
+P0 	: 겨울되면 너무 춥다 싶다가두 여름보다 낫지하며 버텨요ㅜㅜㄱㅋㅋ
+P1 	: 맞아요 여름 겨울은 너무 극과 극이라 봄가을이 좋은데 넘 짧죠 ㅠ
+P0 	: 네ㅜㅜ 제일좋은 계절인데 참아쉽네요
+P1 	: 어느 계절 좋아하시나요
+P0 	: 저는 가을 가장 좋아합니다ㅎㅎ
+	  여름은 극혐합니다
+P0 	: 어느계절제일좋아하시나용

@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100015506
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑자주하세요?
+P0 	: 자주는 아니지만 그래도 가끔 해요. 최근엔 뭐 사셨어요?
+P1 	: 전 물티슈요ㅎ
+P1 	: 아 맞다ㅎ 옷샀어요ㅎㅎ
+P1 	: 아이옷ㅎㅎ
+P0 	: 어디서 사셨어요?
+P1 	: h패션몰이라고 앱에서요ㅎㅎ
+P1 	: 이벤트로 샀어요ㅎㅎ 이벤트 가격이 189,000인데 거기에 할인해서 7만원에 샀어요ㅎㅎ
+P0 	: 와 엄청 할인했네요!
+P1 	: 출첵하고 쿠폰3개적용하니깐 그렇게되더라그요ㅎㅎ
+P1 	: 나중에 한번해보셔요ㄹㄹ
+P0 	: 찾아봐야겠네요. 현대 계열인가요?
+P1 	: 네네ㅎㅎ
+P1 	: 평소에 하루에 100원씩인데ㅎ
+P1 	: 이번달은 이벤트해서 만근시 2만포인트였어요ㅎ
+P0 	: 다음달도 추석 이벤트가 있겠죠? ㅋㅋ
+P1 	: 2만포인트는 보통 3개월에 한번일꺼에요ㅎㅎ
+P1 	: 그래도 하루 100원이라도 모으면 좋아요ㅎㅎ
+P1 	: 나중에 옷살때 할인많이되요ㅎ
+P0 	: ㅋㅋ 출첵이 쏠쏠하긴 한데 은근 귀찮더라구요
+P1 	: 귀찬ㄹ아요ㅎㅎㅎ
+P1 	: 저도 하고는있는데 만근을 잘 못하네요ㅎㅎ
+P1 	: 쇼핑을 합리적으로 해야지 요즘에는 좋더라구요ㅎㅎ
+P0 	: 세일 없이 사려면 괜히 아까워요ㅋㅋ

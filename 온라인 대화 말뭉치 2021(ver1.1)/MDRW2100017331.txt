@@ -1,0 +1,64 @@
+# FILE DATA
+ID : MDRW2100017331
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P0 	: 저녁 드셨나요?ㅎㅎ
+P1 	: 안녕하세요
+	  아뇨 이제 먹으려구요!
+P0 	: 아하 무슨 메뉴 드실 예정인가요?
+P1 	: 속이 안좋아서 죽먹고있어서 오늘 저녁은 미역죽이요!
+P1 	: ㅜㅠ 평냉에 갈비먹고싶어요ㅜ
+P0 	: 에고... 죽 드시는구나ㅠ
+P0 	: 저는 속 안좋을 때 오히려 먹고싶은 것 먹음 낫기도 하던데
+P1 	: ㅜㅜ 저는 약간 위염증상이 있는 거 같아서 못먹어요...ㅜㅜ
+P1 	: &name1&님은 저녁드셨나요?
+P0 	: 네 저는 오랜만에 보쌈 먹었어요
+P0 	: 죽 드셨다는데 괜히 죄송하네요ㅜ
+P1 	: 아니에요ㅋㅋㅋ저도 곧 먹을 수 있겠죠! ㅋㅋ
+P0 	: 그럼요!
+P1 	: 어떤음식 제일 좋아하시나요?
+P0 	: 위염 얼른 낫고 맛있는 음식 드셔요
+P1 	: 감사합니다ㅋㅋ
+P0 	: 저는 일식이나 베트남음식 좋아해요
+P0 	: 사실 크게 가리는게 없어요ㅎㅎ
+P1 	: 오....쌀국수 좋아하시나요?
+P0 	: 네 쌀국수 좋아해요
+P0 	: 그거랑 태국식 쏨땀도
+P1 	: 저도 쌀국수 좋아하는데!!
+P1 	: 혹시 똠얌꿍도 좋아하세요?
+P0 	: 네 똠얌꿍도 좋아해요
+P0 	: 새콤하고 얼큰하고

@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100017871
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학교 다니세요?
+P0 	: 네네 회사랑 대학원 같이 다녀요
+P1 	: 와 멋잇다
+P1 	: 바쁘게 사시네요
+P0 	: 너무 힘들어요ㅠㅠ흑흑
+P0 	: 곧 개강인데 큰일났어요
+P1 	: 코로나때문에 온라인수업인가요?
+P0 	: 네 대부분 온라인인데 단계따라 혼합이에요
+P1 	: 코로나때문에 한동안은 온라인이겟네요 ㅠㅠ
+P0 	: 맞아요 저에겐 그래도 온라인이 나아서 다행이에요 이거 하나만큼은
+P0 	: 회사랑 학교가 정반대 극과극이어서요 ㅎㅎ
+P1 	: 아 지옥의 일정일뻔 햇네요 ㄷㄷ
+P0 	: 그쵸 그나마 딱 다행인 한가지는 이것
+P0 	: 이제 학교도 사실 꼭 오프라인일 필요가 없을 것 같아요
+P1 	: ㅋㅋㅋㅋ제가 너무 예전 사고방식으로 생각하고 잇엇나봐요
+P1 	: 전 시끌벅적한 개강분위기 이런게 너무 좋앗거든요 ㅋㅋㅋㅋㅋㅋ
+P0 	: 아 그렇군요 !! 그건 너무넘 좋죠 축제랑 ㅠㅠ
+P0 	: 하지만 수업은 온라인으로 하고싶어요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+P0 	: 시간절약 {emoji:♡} 너무 멀어서ㅠ
+P0 	: 학교생활 어떠셨어요

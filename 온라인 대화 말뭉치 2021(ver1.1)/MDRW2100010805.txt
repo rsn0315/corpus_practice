@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100010805
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 연애와 결혼
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요 &name1& 님은 지금 연애 중이신가요?
+P0 	: 아뇨 저는 모솔 ㅜㅜ
+P0 	: 님은 연애중이셔요?
+P1 	: 저도 싱글. 지금은 연애도 결혼도 생각 없어요ㅎㅎ
+P0 	: 왜요?? 따로 이유가 있나요?
+P1 	: 그냥 딱히 외로운지도 잘 모르겠고 지금이 좋아요.
+P0 	: 와! 먼가 혼자서도 잘살 스탈이라 그러신가?
+P0 	: 취미같은거 잇으세요?
+P1 	: &name1& 님은 결혼에 대해 생각해보신 적 있으신가요?
+P1 	: 저는 혼자서도 잘 노는 스타일이라ㅋㅋ
+P0 	: 저는 결혼은 해여할것같아서 ㅎㅎ
+P0 	: 음... 제가 외로움을 잘 타서 남자든 여자든 곁에 있어줬으면 좋겟더라구요
+P0 	: 법적으로 묶여서 떠나기어려운게 결혼이기도 하고..
+P1 	: 그만큼 결혼에는 책임감도 크게 따르는 것 같아요
+P0 	: 맞아요!! 누가 내 집에 잇다고 생각하면 불평하기도 하니까..
+P1 	: 서로 배려가 필요하겠죠
+P0 	: 그죠 아무래도 구렇죠

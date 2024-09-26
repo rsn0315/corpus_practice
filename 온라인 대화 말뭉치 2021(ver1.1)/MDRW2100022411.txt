@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100022411
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 기타 사회 생활 및 활동>동호회/봉사 단체
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 혹시 동호회 하시는거 있나요?
+P1 	: 어 아니요? &name1&은요?
+P0 	: 저도 없긴한데 코로나 끝나면 동호회 한 번 들어가보려구요ㅎ
+P1 	: 어떤거에 관심 있으신가요
+P0 	: 볼링이랑 다트랑 양궁이요!
+P1 	: 요즘 양궁 핫하긴 하더라구요
+P1 	: 약간 활동적인걸 좋아하시는구나
+P0 	: 네ㅋㅋ실제로도 재밌어요
+P0 	: 하다보니 재밌더라구요ㅎㅎ
+P1 	: 해보셨어요?
+P1 	: 아 해보셨구나 활 당기는거 어떠셨어요?
+P1 	: 저 초등학교 때 학교에 양궁부가있어서 당겨봤는데 되게 뻑뻑하더라구요
+P0 	: 양궁카페에 있는 활은 연습용이라 선수용만큼은 아니구 활당기는것도 웬만하면 쉬운...?
+P0 	: &name2&은 들어가고 싶은 동호회 있으신가요?
+P1 	: 저는 지금은없고
+P1 	: 예전에 사물놀이 했었어요
+P0 	: 오...사물놀이 중에 어떤 거 맡으셨었어요?

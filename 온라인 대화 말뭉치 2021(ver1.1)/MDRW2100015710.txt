@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100015710
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&님
+P1 	: 안녕하세요
+P0 	: 혼자 사시나요??
+P1 	: 가족이랑 살아요!
+P0 	: 저두요! 그럼 집에서 집안일을 하시나요??
+P1 	: 설거지같은 간단한거만요 ㅋㅋㅋ
+P0 	: 앗 저도 설거지만해요 ㅋㅋㅋㅋ
+P1 	: 저랑같네요 ㅋㅋㅋ
+P0 	: 설거지 너무 귀찮지 않나요
+P1 	: 맞아요 ㅠ 번거로워요
+P0 	: 요즘은 날씨가 더워서 주로 시켜먹어가지고 편하긴한데ㅜㅜ 많을때 너무 싫어요
+P1 	: 많으면 더 골치죠 ㅠㅠ
+P0 	: 주로 하루에 언제 설거지를 하시나요??
+P1 	: 식사 직후에 바로 해요

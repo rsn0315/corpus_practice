@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100013356
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 혹시 전시회 보는거 좋아하세요?
+P1 	: 전시회 보는 건 엄청 좋아하진 않지만 기회되면 가는 편이에요!
+P0 	: 그러면 영화관에 언제 마지막으로 가셨어요?
+P1 	: 영화관은 작년 가을쯤...? 마지막으로 갔던 거 같아요!
+P0 	: 어떤 영화 보셨어요?
+P1 	: 삼진그룹 영어토익반 봤어요!
+P0 	: 아 어떤내용이에요?
+P1 	: 90년대 고졸 여성들이 말단으로 n년동안 구르다가 짤릴 위기에 처했는데, 안짤릴 방법이 토익 시험을 치는 거였고 토익반에 들어가고 나서 회사의 엄청난 비리를 알게 되는 이야기에요!
+P0 	: 요즘에 집에서 영화 보는거 있으세요?
+P1 	: 저는 없는 것 같네요 지인님은 있으세요?
+P0 	: 저번주에 티비로 언브로큰 봤었는데 재밌더라구요
+P0 	: 들어보셨어요?
+P1 	: 아뇨 어떤 이야기 인가요??
+P0 	: 안젤리나 졸리 감독인데 2차세계대전때 외국 올림픽선수가 일본 포로수용소에 갇혀 생활하는 내용이에요
+P1 	: 와... 줄거리만 봐도 재밌을 것 같아요 다음에 시간나면 보고 싶네요!

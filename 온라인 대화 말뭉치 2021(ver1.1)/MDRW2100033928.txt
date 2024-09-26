@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100033928
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  학교/학원>동기/동창/동급생
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 안녕
+P0 	: 안녕
+P1 	: 배달음식 자주 먹어?
+P0 	: 일주일에 한 번 정도
+P0 	: 너는?
+P1 	: 나는 일주일에 2~3번 먹는 거 같아
+P0 	: 뭐 시켜 먹어?
+P1 	: 며칠 전에 짜글이 시켜 먹었어
+P1 	: 너는 뭐 자주 시켜먹어?
+P0 	: 나는 마라탕
+P0 	: 마라탕 좋아해?
+P1 	: 엄청 좋아해
+P1 	: 고구마떡이랑 옥수수면 좋아해
+P0 	: 맛있지!
+P0 	: 나는 건두부 좋아해
+P1 	: 나도 요즘 건두부 맛있더라
+P1 	: 고기는 뭐넣어 먹어?
+P0 	: 나는 소고기
+P0 	: 너는??
+P1 	: 나도 양고기는 양꼬치만 먹어
+P0 	: 양꼬치 맛있지!

@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100027012
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 좋아하는 계절 있나요?
+P1 	: 안녕하세요 ㅎ
+P1 	: 전 봄을 굉장히 좋아합니다
+P1 	: &name1&은요
+P0 	: 그렇군요.. 전 가을을 좋아해요
+P0 	: 봄의 어떤 점이 좋은가요?
+P1 	: 생명이 탄생하는 시기랄까요 ㅎㅎ
+P1 	: 앙상했던나무에 파란잎이 돋아나는그런점이 좋아요
+P1 	: &name1&은 가을의 어떤점이 좋으신가요
+P0 	: 저는 가을 단풍이 좋아요
+P0 	: 단풍이 너무 예쁘거든요..
+P1 	: 가을 너무 좋죠 ㅎ
+P1 	: 단풍보러 어디로 놀러가세요
+P0 	: 원래는 산을 갔었는데.. 작년부터는 못가고 있어요
+P1 	: 아 코로나때문에 산을 못가신건가요?!
+P0 	: 네.. 지금 작년부터 아무데도 못가고 있어서 좀 우울하네요
+P1 	: 아 ㅜ 나가기 힘든 상황이신가요
+P1 	: 마스크쓰고라도
+P0 	: 아뇨 동네는 나가죠..
+P0 	: 여행 좋아하는데 그정도로 다니진 못한다는 말이었어요
+P1 	: 아 ㅎㅎ 여행...맞아요 ㅜㅠ 저도ㅠ여행을 진짜 좋아하는데
+P1 	: 그정도는 아니네요ㅜ
+P0 	: 정말 좋은 날씨와 계절이 있어도 바이러스 때문에 못 다니는 경험은 생전 처음 해보네요..

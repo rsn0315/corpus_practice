@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100003144
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 국내 여행지 어디 있으세요?
+P1 	: 저는 부산 좋아해요!
+P1 	: 가보신적 있으세요?
+P0 	: 아니요ㅠㅠ
+P0 	: 부산 너무 가보고 싶어요!
+P1 	: 지금 사는 지역은 바다가 없어서
+P1 	: 부산에 바다보러 가는걸 좋아해요
+P1 	: 자주가는 여행가는 도시 있으세요?
+P0 	: 제주도 재작년에 딱 한 번 가봤는데 너무 좋았어요
+P0 	: 아무데서나 귤 사먹어도 너무 달고 맛있고
+P0 	: 되게 다른 나라 같았어요
+P1 	: 제주도 너무 좋죠
+P1 	: 저도 귤을 좋아해서 제주도 좋아해요
+P1 	: 근데 여름에 갔었어서 귤따기 체험 못한건 아쉬워요
+P0 	: 우와 그런것도 있군요
+P0 	: 귤따기는 언제쯤 가야 할 수 있어요?
+P1 	: 아마 겨울에 할 수 있을껄요??
+P1 	: 그리고 제주도는 맛있는거도 너무 많아요
+P1 	: 제주도에서 갈치조림 먹어보셨나요?
+P0 	: 네! 갈치조림 비주얼부터 맛있었어요!!
+P0 	: 인터넷에서 제주갈치 주문해서 먹어보면 그 맛이 안 나더라고요ㅠㅠ
+P1 	: 맞아요 ㅠㅠ
+P1 	: 바닷가에서 싱싱한거로 한게 진짜 맛있는거같아요
+P0 	: 제주도에서만 할 수 있는 건 아니지만 카트 타는 것도 너무 재밋었어요
+P1 	: 공원같은곳에가면 있는 작은 카트 말씀하시는건가요??
+P0 	: 카트라이더 카트처럼 생긴거예요!

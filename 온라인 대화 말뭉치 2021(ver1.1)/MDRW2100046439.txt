@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100046439
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 카카오톡
+date : 20211019
+topic : 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 :)
+P1 	: 점심식사 하셨나요~?
+P0 	: 네!
+P0 	: 구내식당에서 먹었어요
+P1 	: 앗 그렇군요 ㅎㅎ
+P1 	: &name1&님은 취미가 어떻게 되세요~?
+P0 	: 취미는 영화보는거 좋아해요
+P0 	: 요새는 코로나라서 영화관을 자주 못 가서 아쉬워요
+P1 	: 저도 영화보는 거 좋아해요! 혹시 어떤 영화 좋아하시나요?? ㅎㅎ
+P0 	: 스릴러 좋아해요
+P1 	: 오와 스릴러..! 제일 재밌게 보신 스릴러 영화는 어떻게 되시나요~?
+P0 	: 최근에 넷플릭스로 더길티 재밌게 봤어요
+P1 	: 앗 그렇군요! 저도 기회가 된다면 다음에 한번 봐야겠어요 ㅎㅎ

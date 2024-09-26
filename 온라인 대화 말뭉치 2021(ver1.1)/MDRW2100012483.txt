@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100012483
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 해외/기타
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 &name2&! 책 좋아하시나요 :> ?
+P1 	: 좋아하지만 요즘은 안 읽고 있어요!
+P1 	: &name1&은 좋아하시나요?
+P0 	: 네!!! 전 특히 긴장되는 소설 좋아해요
+P0 	: 오싹오싹한!
+P1 	: 저는 추리랑 범죄스릴러 좋아해요!
+P0 	: 헐 저두요!!!!!!!! 좋아하는 책 있으세요?
+P0 	: 추천할만한!?
+P1 	: 해바라기가 피지 않은 여름, 봉제인형 살인사건이요!
+P0 	: 헐 봉제인형 살인사간 유튜브 광고로 많이 봤는데!!
+P0 	: 좀 많이 잔인한가요?
+P1 	: 살인 방법이 잔인하긴 해요..!
+P1 	: 시체 6구의 일부를 이어서 하나를 만든다는 게
+P1 	: 다른 소설에서 못 보던 거라서 더 재밌었어요
+P0 	: 헉 그렇구나!!! 꼭 한 번 봐야겠어요 ㅎㅎㅎ
+P0 	: 싫어하시는 장르도 있으세요?
+P1 	: 에세이는 별로 안 좋아해요!
+P1 	: 읽기는 하는데
+P1 	: 간혹 책 표지에 포즈 잡은 사람있고 부자, 경제 이런씩으로
+P1 	: 키워드 적혀있는 책은 손이 잘 안 가더라구요ㅠㅜ
+P0 	: 헐 저도요 -.- !!!!!
+P0 	: 부자가 알려주는 부자가 되는 법만큼
+P0 	: 지루한게 없더라구요옹
+P1 	: 맞아요!!
+P0 	: 좋아하는 작가 있으세요?

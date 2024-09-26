@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100022399
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 뮤지컬조아하시나요
+P1 	: 저는 소리 큰걸 잘 못들어서 공연장을 못가요
+P1 	: 뮤지컬 잘 보나봐요?
+P0 	: 아직한번도 못봤네요ㅜ
+P1 	: 그렇구나 전 티켓 선물받아서 갔다가 귀아파서 도중에 나왔어요
+P0 	: 헉 뮤지컬이요?
+P1 	: 네 같이간 사람에게 미안하더군요
+P1 	: 음악감상은 좋아하는데 큰 음향을 못견디는 걸 그때알았어요
+P0 	: 헉 가까운 자리셨나요
+P1 	: 아이구그렇게 좋은자리는 아니였어요
+P1 	: 아주 비싼티켓은 아니었어요
+P1 	: &name1&님은 누가 선물한다면 어떤 작품 보고 싶나요?
+P0 	: 헤드윅 보고싶네요!
+P1 	: 이름은 들어봤네요
+	  내용은 모르지만
+	  재미있는건가요?
+P0 	: 조승우 배우가나온다고해서
+P1 	: 아 배우를 좋아하는거구나
+P1 	: 듣기로 한국 뮤지컬이 실력이 좋다고 하더군이
+P0 	: 근데 가격도 부담되고ㅠ

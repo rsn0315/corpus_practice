@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100034628
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 단모음
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 떡볶이를 좋아하세요?
+P1 	: 네 너무 좋아해요 ㅋㅋㅋ
+P1 	: 좋아하세요?
+P0 	: 좋아하는데 집에선 안해먹어 봤어요 해드셔 보셨나요?
+P1 	: 해먹긴하는데
+P1 	: 역시 사먹는게 최고에요!
+P0 	: 로제 떡볶이 재료가 궁금해요 생크림이 들어가나요?
+P0 	: 아님 우유?
+P1 	: 아 그건 못해봤구
+P1 	: 기본 떡볶이만 해봤어요 ㅋㅋ
+P0 	: 아하 저도요
+P0 	: 그래서 로제에 들어가는게 어떤 크림인지 궁금했어요
+P1 	: 흠 아무래도
+P0 	: 유크림인지 팜유 크림같은건지
+P1 	: 아 뭔가 카레맛도 나지 않나요..??
+P0 	: ㅠ전 한 번 밖에 안 먹어봐서 어떤 브랜드거냐에 따라 다를 것 같아여
+P1 	: 그 로제찜닭은 드셔보셨나요?
+P0 	: 아뇨 ㅠㅠㅠ 어디서 파나요?
+P1 	: 두찜이요!
+P1 	: 거기 당면이랑 고구마가 꿀맛입니다

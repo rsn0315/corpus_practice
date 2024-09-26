@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100039623
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 요즘 무슨 음식 배달시켜드시나요
+P1 	: 전 방금도 치킨이었어요 ㅎㅎ
+P1 	: &name1&님께선 뭘 좋아하시나요?
+P0 	: 저도 치킨 좋아해요ㅋㅋ
+	  치킨은 진리죠
+P0 	: 어디치킨 좋아하시나요?
+P1 	: 저는 푸라닭 블랙알리오 좋아해요 ㅎㅎ &name1&님은요?
+P0 	: 아 저도 그거 좋아해요
+P0 	: 저는 치킨인류 좋아해요
+P1 	: 헉 저는 처음 들어보는 브랜드네요!
+P1 	: 덕분에 새 치킨도 알구 갑니다 ㅎㅎ
+P0 	: 아 그렇군요ㅋㅋ 생긴지 얼마 안된거 같아요ㅋㅋ
+P0 	: 저희지역에는 그래요ㅋㅋ
+P1 	: 헐 그렇구나
+P1 	: 하긴 저도 매번 시켜먹는 곳만 시켜먹어서
+P1 	: 그리 많이 알지는 못해요 ㅋㅋㅋㅋ
+P0 	: 맞아요 먹던 곳에서만 먹게되요ㅋㅋ 
+	  한동안 조정석이 광고하던 치킨업체에  빠져서 거기에다가만 먹었었어요
+P1 	: 아!!! 저도 보긴 많이 봤었는데! 한동안 푹 빠지셨다니 엄청 맛있으셨나봐요. 저도 다음엔 시켜먹어보겠습니다 ㅎㅎ 이렇게 배워갑니다
+P0 	: 저는 모험심이 강해서 여기저기서 시켜 먹어보거든요ㅋㅋ 꼳히면 거기서 한동안 먹어요
+P1 	: 하긴 세상엔 브랜드가 참 많죠. ... &name1&님의 치킨 대모험 응원합니다.*^^*
+P0 	: 그쵸 많아요

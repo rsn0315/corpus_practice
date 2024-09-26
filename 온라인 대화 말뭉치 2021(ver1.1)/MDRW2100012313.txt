@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012313
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 환불 받았어?
+P0 	: 아니.. 언제 해준다는 얘기도 없어 ㅠ
+P1 	: 계좌 정보만 꿀꺽한 건 아니겠지
+P0 	: 위메프에서 팔던 연간회원권 샀으면 큰일날뻔
+P1 	: 100프로 다 환급해준다고 할 때부터 수상했어
+P0 	: 하긴 20프로 할인 자체가 말이 안되긴 했지
+P1 	: 그래도 그동안 잘 사용했는데 좀 아쉽겠네
+P0 	: ㅇㅇ 사용되는 곳 많았는데 하루만에 펑하고 사라지니 허전해 ㅎ
+P1 	: 사용처도 많았는데 하루 아침에 그렇게 되냐
+P0 	: 머지 포인트 거의 다 써서 추가로 사려다 말았는데
+P1 	: 정말 큰일날뻔
+P0 	: 환불 받은 사람도 있긴 하던데 뽑기인가봐
+P1 	: 우린 좀 늦게 신청했으니 아예 못받을수도 ㅠ

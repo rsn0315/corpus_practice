@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100027765
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 경남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 2차 맞으셨나요
+P0 	: 네 좀전에요 건강하려고 맞는 백신인데...백신이 무섭네요
+P1 	: 2차는 맞고나서 많이 아프다고 하던데요
+P0 	: 음 아직은 모르겠네요 낼돼봐야알듯
+P1 	: 백신 맞긴 싫은데 저도 맞아야 하네요
+P0 	: 음 맞아야죠 공익을 위해서요
+P1 	: 넹 그래야죠
+P1 	: 운동은 하시나요
+P0 	: 잘 안해요 살만쪄요ㅜ
+P1 	: 전 오천보 걷기도 힘들어요
+P0 	: 부지런히 걸어야 건강해져요
+P1 	: 네 산책을 좀 해보려구요
+P0 	: 산책은 정신건강에도 좋아요
+P1 	: 정신건강에는 스트레스 안받는게 최고예요
+P0 	: ㅜㅜ 네 것도그러네요
+P0 	: 패션의 완성은?

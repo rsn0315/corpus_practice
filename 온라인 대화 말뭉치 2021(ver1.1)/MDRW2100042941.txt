@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100042941
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님 여행 다니는 거 좋아하세요?
+P1 	: 네넹 님은요?
+P0 	: 저도요! 가고 싶은데 있으세요?
+P1 	: 저는 최근에 바다보러가서 이번엔 전라도쪽가고싶어요 ㅋㅋ 전라도음식 먹고싶네영
+P0 	: 헐 어디 바다보러 가셨어요? 부럽다...
+P0 	: 전라도 음식 맛있죠 저도 가고싶당...
+P1 	: 고성 갔다왔어용 강원도용 !!
+P0 	: 고성이 그 금강산 근처 있는데 맞아요?! 좋은데 다녀오셨구나
+P1 	: 네네 ㅎㅎ 사람도 얼마없고 한적하게 바다구경 잘하고왔어용
+P0 	: 부럽다~~
+P0 	: 추석에는 어디 안가세요? 저는 단양가요!
+P1 	: 단양에 친척있으세용 ?
+P1 	: 전 안가려구용 ㅠ
+P1 	: 쉬고싶어용 ㅎㅎ
+P0 	: 친척은 없는데 패러글라이딩 타고 싶어서 ㅎㅎ
+P0 	: 그럼 집에서 황금연휴겠네요 그것두 좋겟당
+P1 	: 오 패러글라이딩 타보고싶어요 추석연휴때 사람별로없을까여
+P0 	: 저도 잘 모르겠긴한데 코로나라 그냥 연휴보단 사람이 없을것 같아서요!

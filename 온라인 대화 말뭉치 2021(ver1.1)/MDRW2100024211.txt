@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100024211
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요.
+P0 	: 저녁 뭐드셨어요
+P1 	: 집에서 부대찌개 밀키트 끓여먹었어요. 맛있네요.
+P0 	: 우와 부대찌개
+P0 	: 저는 소고기뭇국 먹었어요
+P1 	: 오 직접 요리하셨나요?
+P0 	: 네네어제
+P0 	: 고춧가루 너무 많이넣어서
+P0 	: 엄마가 다시 해쥬셨어요..ㅋ
+P1 	: 하핫 소고기 무국에 고춧가루넣는건 경상도 식인줄알았는데요
+P0 	: 아 제가 경상도라 ㅋㅋ
+P0 	: 그렇게먹어요
+P1 	: 맞췄네요ㅎㅎ 시레기도 넣구 육개장처럼 먹는거~
+	  저도 대구가 고향인데 생각하니 먹고싶네요.
+	  근데 못끓인다는거ㅠ
+P0 	: 맞습니다 ㅠㅠ 쉬워요 도전해보세요
+P1 	: 망치면 소고기가 아까워서ㅠ
+P0 	: 그것도 그래요 ㅋㅋ

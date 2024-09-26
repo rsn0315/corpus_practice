@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100007973
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 점심 뭐먹어요
+P1 	: 뼈해장국이요
+P1 	: 뭐먹었나요
+P0 	: 제육 먹을건데요
+P1 	: 저녁은 뭐먹을까요
+P0 	: 뭐 먹고 싶어요
+P1 	: 글쎄용
+P1 	: 먹고싶은거없나요
+P0 	: 글쎄요2
+P1 	: 그럼 어제 라면샀으니까 라면먹어요
+P0 	: 시러요
+P1 	: 그럼 메뉴를 제시하세요
+P0 	: 짜파게티
+P1 	: 짜파게티 고고
+P0 	: 에이
+P1 	: 왱

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041326
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 퇴근하셨나요?
+P1 	: 네:)
+P1 	: 저는 육퇴를 했습니당
+P0 	: 아ㅋ
+P0 	: 제친구는 아직 근무중ㅋㅋ
+P1 	: ㅋㅋ&name1&님은 직장인이세여?
+P0 	: 네
+P0 	: 직장다니다가 퇴사하셨나요?
+P1 	: 육아문제로 퇴사했어영
+P0 	: 아! 그전엔 어떤일하셨어오?
+P1 	: cs관련 직종에 있었어요
+P1 	: &name1&님은 어떤 일하시나요?
+P0 	: 아! 전 관리부요
+P0 	: 몇년정도 하셨어요?
+P1 	: 10년정도요 :)
+P0 	: 우와! 저도 이제 십년좀 넘어가요
+P0 	: 그럼 언제쯤 관두셨어요?
+P1 	: 음.... 19년 7월말까지 일했어요 ㅋㅋ
+P0 	: 아쉽지않으셨어요?

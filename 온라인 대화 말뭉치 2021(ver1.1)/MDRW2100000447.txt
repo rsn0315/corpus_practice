@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100000447
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210819
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 경영/관리직
+sex : 여성
+birthplace : 전북
+principal_residence : 경남
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P1 	: 오늘 날씨 선선하쥬??
+P0 	: 제가 답이 늦었네요 ㅎㅎ 햇빛은 뜨거웠는데 바람은 선선하세요ㅎㅎ 거기도그런가요?
+P1 	: 넹
+	  여기도 선선해요
+P1 	: 이제좀 살거같으네요
+P0 	: 그렇군요 확실히 절기 무시못하겠어요 이제 가을이에요
+P1 	: 가을은 좋아요
+P0 	: 근데 일기예보보면 간혹 비가오더라구요 2차장마라나 뭐라나
+P1 	: 싫으다요
+P1 	: 주말에 산에갈건데 날씨안좋음 싫은뎅
+P0 	: 저도 주말에 산에 다니는데 비오면 산행약속이 계속 취소되요
+P1 	: 글게유
+	  비가 왜 주말에만 오는지
+P0 	: 주말에 집에있으라고? 이번주도 저희지역은 비소식이 있어서 산행어찌해야하나 고민이에요
+P1 	: 저는 주말일찍 갔다올까 싶기도해요
+P1 	: 오전에는 비예보가 없는듯해서요
+P0 	: 아 오전에 다녀오는것도 좋으네요 앞산이라도 가야겠어요
+P1 	: 네 너무 안움직여서 운동 부족이네요
+P0 	: 날씨선선할때 열심히 운동해야겠어요

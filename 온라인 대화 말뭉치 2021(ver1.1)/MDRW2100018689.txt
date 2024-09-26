@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100018689
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 학생이신가요ㅎㅎ
+P0 	: 아니요 학생이세요?
+P1 	: 아니요 졸업한지
+P1 	: 8년정도....
+P0 	: 꽤 되셨구나
+P0 	: 요즘은 엠티를 못가는곳이 많대요
+P0 	: 저희는 엠티매년갔었는데...
+P1 	: 요새요? 불가능하죠 ㅎㅎ
+P1 	: 망할 코로나
+P1 	: 수업도 못하지 싶은데요 제대로
+P0 	: 그죠 실습수업 들은 비대면 때문에 고생이래요
+P1 	: 그럼 고생이죠 재미도 없고
+P0 	: 학교다니실때 엠티 많이가셨나요?
+P1 	: 네 많이 갔어요 &name1&님은?
+P0 	: 새내기때 한번가고 안갔어요
+P0 	: 술을 안좋아하다보니 끼기 애매해서요
+P1 	: ㅋㅋ안좋아하시는군요
+P1 	: 학과는 취업에 도움되셨나요
+P0 	: 아니요 다른쪽 공부를해서 전공에상관 없이 일하고있어요
+P0 	: &name2&님은요?
+P1 	: 첫직장은 연관 좀 있었는데
+P1 	: 지금은 상관 없어졌어요 ㅎㅎ

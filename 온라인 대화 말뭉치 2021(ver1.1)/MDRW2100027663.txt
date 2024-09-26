@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100027663
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 저는 어제 스크린골프를 쳤어요.
+P0 	: 무슨 운동을 하는지요?
+P1 	: 저는 요즘 그룹피티 다녀요
+P1 	: 스크린골프는 재밌나요?
+P0 	: 네 공이 제대로 맞으면 잼인네요
+P0 	: 코로나라 실내에서 할수도 있고요
+P0 	: 그룹피티는 구체저으로 어떠케 하나요?
+P1 	: 피티쌤이 짠 프로그램 따라서 다같이 같은 동작을 해요
+P1 	: 쌤이 돌아다니면서 자세교정 해주세요
+P0 	: 수강료는 안비싼가요?
+P0 	: 보통 여성분들이 많이 하시죠?
+P1 	: 그룹이라서 일대일보다는 싸요
+P1 	: 반반인것 같아요
+P0 	: 피티는 프레젠테이션인데..ㅎ
+P1 	: 아...
+P0 	: 나중에 나이먹고도 칠수있으니까 골프도 한번 도전해보세요
+P1 	: 골프는 시작하려면 장비 필요하지 않나요?
+P0 	: 처음에는 스크린골프 레슨 받다가 추후에 클럽 하나씩 구입하면대여
+P0 	: 생각보다 비싸지는 않아요
+P1 	: 아하 레슨할때는 대여인가보네요
+P0 	: 네 거기 장비로 하면대여

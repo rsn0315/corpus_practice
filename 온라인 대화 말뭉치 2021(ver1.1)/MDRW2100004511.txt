@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100004511
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 광주
+principal_residence : 광주
+current_residence : 광주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 책봐요?
+P1 	: 네 도서관에서 빌려보는 거 좋아해요! 이북으로도 보기도하구요
+P0 	: 오 부지런하시네여
+P1 	: 집 근처에 있어가지구요 ㅋㅋㅋ
+P1 	: 어떤 책 좋아하세요? 저는 주로 소설 읽어요
+P0 	: 안본지가 꽤
+P0 	: 시간이 핑계죠
+P1 	: 아 ㅠ 맞아요 유튜브같은 영상은 쉽게 봐지는데 책은 펼치기 힘들긴하죠
+P0 	: 요즘 리딩북도 있대요
+P1 	: 아 광고에서 종종 봤어요 제 친구들 중에서도 자장가처럼 틀어놓는 애들 많더라구요
+P0 	: 잠이 절로 오려나여
+P1 	: 쪼끔 어려운 책들은 그렇다구 하더라고요? 또 오히려 자려고 틀어놨다가 재밌어서 잠을 못잤다는 친구들도 있구요
+P0 	: ㅋㅋ
+P0 	: 추천좀
+P1 	: sf소설인데 천개의 파랑 추천이요!
+P0 	: 우와 어려워보이는데여

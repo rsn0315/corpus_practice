@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007092
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 콘텐츠>게임 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 오 하는 게임 있어?
+P0 	: 응 나 포켓몬 좋아해
+P1 	: 혹시 포켓몬 유나이티드...? 아니면 포켓몬고?
+P0 	: 포켓몬고!
+P1 	: 포켓몬 고 아직도 재밌나보네!
+P1 	: 포켓몬고가 걸을 때 쏠쏠하지
+P0 	: 맞아 재밌어! 요즘 코로나 때문에 잘 안하게 되지만ㅋㅋ
+P0 	: 근데 내 집에서 체육관 잡혀서ㅋㅋㅋㅋ
+P1 	: 와 대박 잭팟이네ㅋㅋㅋ
+P0 	: ㅇㅇ체육관 관장된 느낌ㅋㅋㅋ
+P1 	: 완전 부럽닼ㅋㅋㅋㅋ 나 첨에 출시되고 몇번 하다가 접었는데 집 근처에 체육관 많이 생겼을려나...
+P0 	: 요즘 많이 생겼더라고! 요즘은제보로도 체육관 만들수 있어 누가 내집근처에다 요청했나봐ㅋㅋ
+P1 	: 헐 대박 신기해ㅋㅋㅋ 나도 깔아서 해봐야겠다
+P0 	: 추천해! 혹시 몰라 잭팟이 있을지
+P1 	: 그래그래 나도 관장 함 되어보고 싶네

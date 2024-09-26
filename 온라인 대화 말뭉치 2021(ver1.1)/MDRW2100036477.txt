@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100036477
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 가장 기억에 남는 여행지가 있나요?
+P1 	: 저는 춘천이요
+P1 	: &name1&님은 있으신가요?
+P0 	: 왜 기억에 남는지 궁금해요!
+P1 	: 거기서 레일바이크를 탔는데 너무 재미있고 닭갈비도 맛있어서요
+P0 	: 아 그러시구나
+P0 	: 저는 군산이여
+P0 	: 동네가 바다도 있고 아기자기해서 걸어다녀도 웬만한거 다 볼수있더라구요
+P1 	: 그렇군요 그럼 군산에 먹을 거 추천받을 수 있을까요?
+P0 	: 이성당이요 ㅎㅎ
+P0 	: 체인이라 여기저기 볼수있지만 ㅎ
+P1 	: 어떤 음식을 파는 곳인가요??
+P0 	: 이성당 모르세오???
+P0 	: 빵집이요!
+P0 	: 지금은 체인이라 여러곳에 있는데 거기가 본점이에요 ㅎㅎ
+P1 	: 그렇군요 처음 들어봐요 어떤 빵이 제일 맛있나요?
+P0 	: 아~ 거기 다 맛있어요! 아마 메인은 단팥빵일거에요
+P0 	: 저는 근처에 체인이 있어서 자주 가거든요 저는 거기 슈크림빵 좋아해요!!
+P0 	: 찾아보시면 아마 근처에 있을수도 있어요
+P1 	: 거기빵은 전체적으로 단맛이 강한가요??
+P0 	: 종류에따라 단빵은 달고 아닌건 아니에요 ㅎㅎ
+P0 	: 막 고로케가 달고 그러진않아요!
+P1 	: 그렇군요

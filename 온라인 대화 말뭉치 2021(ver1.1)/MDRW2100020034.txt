@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020034
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210827
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤거요?
+P0 	: 지역 문화센터 전시회요
+P1 	: 오 그런것두있나요?
+P0 	: 네
+P1 	: 무룐가요
+P0 	: 무료가 많아요
+P1 	: 최고네요
+P0 	: 한번 찾아보세요 많이 나올거예요
+P1 	: 그럴게요!
+P0 	: 주말에 전시회 가는 삶 넘 좋아요
+P1 	: 그니까요 좀 낭만적이고 문화인같아요ㅋㅋ
+P0 	: 문화인ㅋㄱㅋㅋㅋ
+P1 	: 좋은 주말보내세요
+P0 	: 감사해요

@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100009185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 대전
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 최근에 여행 다녀오신 적 있나요?
+P1 	: 제일 최근에 간 곳은 정선으로 리조트 다녀왔어요!
+P0 	: 정말요? 정선이면 진짜 힐링됐겠어요!
+P0 	: 정선에 맛있는 식당이 있나용?
+P1 	: 막국수랑 곤드레밥 먹고 왔어요
+P1 	: &name1&님은요?
+P0 	: 저는 전주한옥마을에 다녀왔어요!
+P1 	: 헉 좋으셨겠네요
+P1 	: 가본 적 없는데 따로 할만한 활동이 있나요?
+P0 	: 한옥마을에서 한복대여하고 사진 찍는 게 진짜 예쁘게 나와요!
+P1 	: 비빔밥 드시고 오셨나요 ㅎㅎ
+P0 	: 들켰네요ㅋㅋ
+P1 	: 여행 가시고 싶으신 곳 있나요
+P0 	: 저는 강릉이요ㅠㅠ 동해바다 보러가고싶어요
+P1 	: 저도요 ㅋㅋ 발이라도 담구면 좋겠네요
+P0 	: 날 좋아지면 사람없을 시기에 다녀와야겠어요ㅋㅋ

@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100041005
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P0 	: 최근에 구매한 것은 무엇인가요?
+P1 	: 저 도브비누 샀어요
+P0 	: 도브비누 향 좋죠
+P0 	: 온라인으로 구매했나요?
+P1 	: 네 직구는 아니고 그냥 주문했어요
+P0 	: 도브비누를 직구하기도 하나요?? 전 당연히 그냥 국내에서 구매한다고 생각했거든요
+P1 	: 직구하는 경우도 있더라구요ㅋㅋ 원산지 때문인가? 근데 뭐 별로 비싼 것도 아니고 해서 그냥 샀어요 ㅋㅋ
+P0 	: 신기하네요 비누를 직구까지...!
+P1 	: 최근에 어떤 거 구매하셨나요?
+P0 	: 저는 어제 산 씨유 아몬드쿠키요
+P0 	: 어제 간식사먹었는데 또 뭐 먹고 싶어지네요 ㅠ
+P1 	: 씨유에 파는 푸딩도 맛있더라구요 ㅋㅋ
+P0 	: 푸딩 정말 맛있죠!
+P0 	: 전 최근에 소다맛푸딩 먹어봤어요
+P1 	: 소다맛도 있나요? 그것도 씨유에 있어요?
+P0 	: 씨유 아님 지에스인데 기억이 잘 안나네요 ㅋㅋ
+P0 	: 소다맛푸딩 안에 조금 카스테라?도 들었고 위에 휘핑크림 올라갔어요
+P1 	: 편의점 가면 있나 찾아봐야겠어요 ㅋㅋ

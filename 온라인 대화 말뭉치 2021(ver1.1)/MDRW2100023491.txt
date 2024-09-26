@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100023491
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: ㅇㅇ 9시면 시작하잖아
+P0 	: 다음주부터는 등교 어떻게 된다는 이야기 없어?
+P1 	: 아직은 아무 말 없네
+P0 	: 서울은 전면등교 이야기 있던데
+P1 	: 전면등교 해도 불안하니.. 원
+P0 	: 급식은 안하고 와야지
+P1 	: 급식 안해도 한 반에 인원이 너무 많아
+P0 	: 지금 몇 명이지?
+P1 	: 25명... ㅠ
+P0 	: 훌.. 거리두기가 전혀 안되겠네
+P1 	: 그렇지.. 칸막이 있어도 소용없어
+P0 	: 그렇다고 계속 온라인 수업만 할 수도 없고 큰일이네
+P1 	: 이런 수업이 길어질수록 정말 걱정이야.. 친구도 못사귀고

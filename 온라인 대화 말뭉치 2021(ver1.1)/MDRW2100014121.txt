@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100014121
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: ㅎㅇㅎㅇ
+P0 	: 우리초면인데 ㅎㅇㅎㅇ는 좀 그런듯요
+P1 	: 네~ 안녕하세요^^
+P0 	: 최근에 책 뭐읽으셨어요?
+P1 	: 범죄의 책 이라는 책을 읽었습니다~
+P0 	: 와~정말 유익해보여요^^
+P0 	: 범죄심리학 서적인가요?
+P1 	: 그렇진않습니다~^^
+P1 	: 다양한 범죄기록과 범죄방법이 쓰여있어요^^
+P0 	: 사람은 죽이시면 안돼요~:)
+P1 	: 생각 좀. 해보고요~^*^
+P0 	: 저는 최근에 파피용이라는 책을 읽었어요~^^
+P1 	: 헉 그렇군요! 정말 재미있겠어요~
+P1 	: 작가가 베르나르 베르베르 아니었나요?
+P0 	: 네네 맞아요^^

@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100020379
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 경기
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 안녕하세요
+P0 	: 안녕하세요
+P0 	: 봄하면 생각나는거 있으세요?
+P1 	: 장미축제요
+P0 	: 장미 되게 좋아하시네
+P1 	: 길거리 장미 안키워요
+P0 	: 딴건요?
+P1 	: 벚꽃
+P0 	: 누구 생일 있나요?
+P1 	: 집에서 키우는 옥수수 생일이요
+P0 	: 옥수수 인간인가요?
+P1 	: 아닌데요 애완동물이에요
+P0 	: 신기하다
+P1 	: 네

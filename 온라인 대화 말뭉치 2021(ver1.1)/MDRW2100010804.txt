@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100010804
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요~
+P1 	: 안녕하세요
+P1 	: 뮤지컬 좋아하세요?
+P0 	: 좋아하긴 하는데
+P0 	: 한 번 밖에 못봣어요 ㅜㅜ
+P1 	: 한번보신건 무슨극이셨나요?
+P0 	: 전 지킬앤 하이드봣어요!
+P0 	: 18년도인가... 그때 공연했을때요
+P0 	: 님은 뮤지컬 좋아하세요?
+P1 	: 저도 한두번밖에 못봤어요
+P0 	: 옹 뭐 보셨어요?
+P1 	: 시카고랑 넥스트 투 노멀이요
+P0 	: 와 시카고는 아는데 후자는 모르겠어요
+P0 	: 언제보셨어요?
+P1 	: 시카고는 올해초에 봤구요 넥스트 투노멀은 12년도인가 봤었어요
+P0 	: 와 시카고 재밌어요??
+P0 	: 저 그 한올님인가?? 유튜브 커버한거 듣고 반햇는디..
+P1 	: 전 시카고넘버 다 좋아해요ㅠㅠ뮤지컬 좋아하고 넘버 좋아하시는분은 극을 보시는걸 추천하구요 아니고 뭔가 보는재미? 화려한연출 좋아하시면 영화시카고를 추천드려요
+P0 	: 와!! 시카고 팬이신가봐요
+P0 	: 여기서 팁을 또 하나 얻어가네요 감삼다
+P1 	: 보셨던 지킬앤 하이드는 어떠셨어요?
+P1 	: 워낙 유명한극이라 역시나 좋았나요?
+P0 	: 네네 진짜 기대안하고 봤는데 감탄하면서 나왔어요
+P1 	: 그때 배우분은 기억에 남는분 있었나요?
+P0 	: 저 홍광호요

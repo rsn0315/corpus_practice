@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100017304
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 가정 주부
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 스테디셀러라면 뭐가 있을까요
+P0 	: 그러게요
+P0 	: 즐겨보시는 책이 있으신가요?
+P1 	: 수학의 정석 이런게 스테디일까요?^^,
+P0 	: 아아 수학의정석이 스테디셀러이긴 하죠
+P1 	: 저는 오은영박사님책 봐요
+P0 	: 아 오은영박사님 책들 요즘 베스트셀러에 많이 올라있더라고요
+P1 	: 맞아요 책이 좋긴해요 읽은대로 실천을 못해서 그렇지 ㅠ
+P0 	: ㅎㅎ그래도 책 읽으면서 나를 돌아보고 생각한다는 점이 중요하죠
+P0 	: 저는 오늘 출근하면서 정해윤 작가의 책 한권 챙겼어요
+P1 	: 정해윤 작가는 모르겠네요 어떤 책을 썼나요?
+P0 	: 여러 책을 썼는데
+P0 	: 지금 제가 읽고있는 책은 <앞으로 올 사랑>이라는 책입니다
+P1 	: 와 제목 좋네요 소설인건가요?
+P0 	: 에세이류예요
+P1 	: 덕분에 새로운 작가와 책을 알아가네요~!^^

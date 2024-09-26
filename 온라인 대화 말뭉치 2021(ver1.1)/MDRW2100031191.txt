@@ -1,0 +1,49 @@
+# FILE DATA
+ID : MDRW2100031191
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 부산
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 저는 주식 책 읽고 있어요
+P0 	: 지금 어떤 책 읽고 있어
+P1 	: 요리책도 읽고 있어요
+P0 	: 어떤 요리 책 읽고 있나요
+P1 	: 야식이나 간편한 한 그릇 요리요
+P0 	: 레시피가 어렵지 않나요
+P1 	: 어렵지는 않은데 재료를 구하기가 어려울 거 같아요
+P0 	: 소설은 좋아하나요
+P1 	: 소설보다는 잡지를 좋아해요
+P0 	: 잡지는 매달 나오나요
+P1 	: 과학 잡지를 봅니다
+P0 	: 과학 잡지는 어려울 거 같군요

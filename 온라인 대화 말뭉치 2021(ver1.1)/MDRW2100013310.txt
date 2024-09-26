@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100013310
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 지금 거긴 비 오나요?
+P0 	: 네 비가와요
+P0 	: &name2& 지역은 어떠신가요
+P1 	: 여기도 비가 계속 오네요
+P0 	: 답이 늦었습니다.
+P0 	: 태풍이라 그러더니 장마가 길어지려나봐요
+P1 	: 남부는 피해가 심해서 밭이 다 사라졌더라구요ㅠㅠ
+P0 	: 헉 그럴수가
+P0 	: 피해가 심각하네요
+P0 	: 이번 여름때도 피해가심각하던데
+P1 	: 그러니까요 날씨가 요즘 참 이상하죠
+P0 	: 기상이후 때문이라던데 환경문제 진짜심각한가봐요ㅠ
+P0 	: 날씨도 점점동남아처럼 변하간다던데 걱정입니다
+P1 	: 저는 가을을 굉장히 좋아하는 사람인데
+P1 	: 조금 슬퍼지네요
+P0 	: 속상하시겠어요
+P0 	: 가을도점점짧아진다던데
+P1 	: 빨리 장마가 끝나면 좋겠네요
+P0 	: 그러게 말이에요
+P0 	: 비오는거 정말 지겹습니다

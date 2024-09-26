@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100034471
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근 구매하신 물건이 있으신가요?
+P1 	: 저는 딱히 없네요
+P1 	: 있으신가요?
+P0 	: 저는 비타민 주문했어요
+P1 	: 어떤 비타민인가요?
+P0 	: 비타민 C랑 D 주문했어여ㅎㅎ
+P1 	: 오~직구인가요 아님 아이허브??
+P0 	: 네이버 쇼핑으로 주문했어여!
+P1 	: 비타민d는 어디에 좋은 건가요?
+P0 	: 무기력, 우울, 피로 해결에 좋아여! 자외선 대신이랄까요
+P1 	: 비 많이 오는 요즘에 딱이네요
+P0 	: 추천합니다ㅎㅎ
+P1 	: 효과는 확실한가요?
+P0 	: 사람에 따라 다른데 &name2&님이 자외선을 별로 못 받으신다면 한 번 드셔보시는 걸 추천드려요
+P1 	: 오 찾아볼께요!!

@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100016154
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요?
+P1 	: 요리 좋아하세요?
+P0 	: 저 요리하는 거 말고 먹는 건좋아해요
+P0 	: &name2&은 좋아하나요
+P1 	: 즐기지는 않는데 가끔해요
+P1 	: 집에 식자재 체리해야할때
+P0 	: 아 그럴 때 필요하죠
+P0 	: 보통 어떤식으로 처리하시나요
+P1 	: 얼마전에는 집에 감자가 있어서
+P1 	: 감자수프만들었어요
+P1 	: 두부 유통기한 지났길래 두부강정 만들어 먹었고요
+P1 	: 어떤 음식 좋아하세요?
+P0 	: 너무 맛있었겠다
+P0 	: 저는 볶음밥좋아해요
+P0 	: 볶음밥좋아하시나요
+P1 	: 그럼오
+P1 	: 굴소스 사다가 집에서 해먹은 적도 많아요
+P0 	: 어떤볶음밥을 좋아하시나요
+P0 	: 굴소스 그것은 마약같은존재
+P1 	: 가리지 않아요
+P0 	: 저두요ㅎㅎ
+P1 	: 그런데 굴소스는
+P1 	: 모든 맛을 굴소스화시켜서ㅎㅎ
+P0 	: 그건 그래요ㅎ
+P0 	: 맛이 너무 강해서ㅋㅋ

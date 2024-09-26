@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100035361
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P1 	: 주말에 비온다더니 이 날씨 무엇이죠?ㅎㅎ
+P0 	: 그니깐요.
+	  기상이변 때문에 그런지
+	  일기예보 적중률이 떨어지네요.
+P1 	: 나들이하기 딱 좋은날씨였는데 집콕했네요ㅠ 저 화이자 2차금욜에 맞고 너무 아팠어요ㅠㅠ 이제 좀 살았음
+P0 	: 헉..  좀 나아지셨다니 다행이에요.
+	  저녁에 산책이라도
+	  바람이 좋네요.
+P1 	: 산책가면 좋을텐데 엉덩이가 무거워서요 ㅋㅋㅋ창문열고 바람맞아도 좋네요
+P0 	: 님 사는 지역의 미세먼지는 어때요?
+P1 	: 최근엔 계속 좋더라구요^^
+P0 	: 제가 사는 곳이 님 사는 곳과 그리 멀지 않을텐데..
+	  여긴 나쁨일 때도 있었어요.
+P1 	: 오 그래요?? 지금도 좋음인데요?
+P0 	: 오. 어젠 나쁨이더니 지금은 양호네요.
+	  창문을 활짝 열었어요.ㅎ
+P1 	: 어제 나쁨인지 몰랐던 걸까요ㅜㅜ 계속 열고 지냈는데
+P1 	: 엇 제가 어제 나쁨인걸 몰랐던 걸까요? 계속 열고 지냈는데 ㅜ 너무 시원해서 지금 산책 나왔어요
+P0 	: 제가 사는 지역이 대기업이 많이 들어서있어 공기가 안좋아요.
+P1 	: 아 맞아요. 그렇죠 아무래도 반도체 공장이 많아서

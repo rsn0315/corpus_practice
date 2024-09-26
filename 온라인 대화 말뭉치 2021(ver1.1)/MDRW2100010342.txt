@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100010342
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 기타
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 수강신청 하셨나요?
+P1 	: ㅋㅋㅋ저는 대딩이
+P1 	: 아니랍니다
+P1 	: 대학생인가요?
+P0 	: 헉 그렇군요! 맞아요ㅋㅋㅋ
+P1 	: 요즘 학교가나요?
+P1 	: 코로나때문에
+P0 	: 못가고 온라인 수업만 해요ㅠ
+P1 	: 와우
+P1 	: 하루도 안가나요?
+P1 	: 새내기들은 슬프겠어요
+P0 	: 맞아요ㅠ 저번학기는 격주로 다녔어요
+P1 	: 새터도
+P1 	: 없겠네요?
+P0 	: 단톡에서 간략하게 한거말고 없어요ㅠ
+P0 	: 선후배도 거의 모르고..
+P1 	: 어유
+P1 	: 아쉽겠어요ㅠㅠ
+P0 	: 맞아요ㅠ 학점따기쉬워서 그것만 좋아용
+P1 	: ㅠ 학점이라
+P1 	: 완전예전얘기군요
+P0 	: 부러워요..!
+P0 	: 지금은 졸업해도 취업이 될지도 모르겠고ㅠ
+P1 	: ㅋㅋㅋ 저는 님이더부럽네요
+P1 	: 젊음이 최고죠
+P0 	: 돈과 여유가 최고아닐까요!ㅋㅋㅋㅋ

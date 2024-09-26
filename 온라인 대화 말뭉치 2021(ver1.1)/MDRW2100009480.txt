@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100009480
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 중고거래해요?
+P1 	: 당근 깔아두긴했어요
+P0 	: 전 해요
+P1 	: 음 요즘 네이버페이나 카카오페이 많이 써요
+P0 	: 네이버페이도 좋죠
+P1 	: 쓰고나면 보너스로 적립해주는게 좋더라고요
+P0 	: 적립 쏠쏠하죠
+P1 	: 공짜돈 얻는 기분이죠
+P1 	: 지역화폐도 좋아요
+P0 	: 할인이 대박이죠
+P1 	: 최근 잘산 것 같다 싶은 물건 있으신가요?
+P0 	: 제습기요
+P1 	: 용량이 얼마짜리인가요 요즘껀
+P0 	: 20인가

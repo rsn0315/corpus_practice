@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100013563
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 응용 문제집을 하나 사
+P0 	: 기본도 시간 엄청 걸리는데 응용하면 내가 스트레스 너무 받을 것 같아서 ㅠㅠ
+P1 	: 흠... 그래도 응용 문제집 풀어야 할텐데
+P0 	: 아직 연산이 많이 느리니까 유형문제집+ 연산으로 할까봐
+P1 	: ㅇㅇ 연산은 꼭 사
+P0 	: 초등 수학은 연산이 80프로 이상인 것 같아서 ㅎㅎ
+P1 	: 게다 작은 아들 너무 집중 안하고 오래 걸리니
+P0 	: ㅇㅇ 어려운 문제 보다는 쉬운 문제를 반복해서 풀리는 게 나을 것 같아
+P1 	: ㅎㅎ 큰아들은 알아서 잘 하는데 작은 아들이 손이 많이 가네
+P0 	: ㅎㅎㅎ 아직 어리니까
+P1 	: 디딤돌 유형이 좋다고 들었는데
+P0 	: 안그래고 그걸로 사려고
+P1 	: 연산은 일일연산으로 하게?
+P0 	: 아니 이번엔 연산도 사야겠어. 낱장으로 돌아다니니 관리하기가 힘들어

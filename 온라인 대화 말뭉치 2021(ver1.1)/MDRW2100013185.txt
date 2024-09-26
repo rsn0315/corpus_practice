@@ -1,0 +1,60 @@
+# FILE DATA
+ID : MDRW2100013185
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 건강을 위해 어떤걸 하시나요?
+P1 	: 저는 요즘 운동하고 있어요~!
+P0 	: 다이어트를 하시는군요 운동 힘들텐데 멋있으세요
+P1 	: 아 다이어트는 아니고 체력 증진 목적이요
+P1 	: 님은요?
+P0 	: 저는 운동 귀찮아해서 집에서 푸쉬업만 하고있어요
+P0 	: 요즘 무기력해서 운동은 해야겠고..  푸쉬업 시작했어요
+P0 	: 어떤 운동하시는데요?
+P1 	: 저는 복싱해요
+P1 	: 복싱장 가면 늘 푸쉬업하는데 반갑네요
+P1 	: 푸쉬업바 사용하시나요?
+P0 	: 손목 다칠까봐 그냥 해요 기구사용하는건 안좋은거같아요
+P1 	: 아 오히려 바닥에서 하는게 더 무리가지 않나요?
+P1 	: 저는 그래서 집안에 하나 들일까 고민중이었는데
+P0 	: 손목보호대를 사용하죠 무리하게 안됩니다
+P1 	: 그러시군요
+P1 	: 몸조심해야죠
+P0 	: 맨몸운동을 위주로 하는데  운동 추천좀 해주셍6
+P0 	: 어떤 운동을 해야 체력이 좋아질까요?
+P1 	: 복싱하세요 체력 많이 늡니다 ㅋㅋ
+P0 	: 해봤는데 1주일하고 ㅋㅋ 접은거같습니다 저랑 안맞아요
+P1 	: 맨몸운동은 저는 버피할 때 제일 힘들던데요
+P1 	: 버피/ 풀버피 세트로

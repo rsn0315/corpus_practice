@@ -1,0 +1,63 @@
+# FILE DATA
+ID : MDRW2100015390
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 다이어트하세요?
+P1 	: 아뇨  그냥 현상유지만 합니다
+P1 	: &name1&님은 따로 운동하시나요?
+P0 	: 저는 그냥 동네만 걷고있어요
+P0 	: &name2&님은 운동하세요?
+P1 	: 숨쉬기 운동은 합니다ㅎ
+P1 	: 하루에 얼마 걸으세요?
+P0 	: ㅎㅎㅎ 한시간정도요
+P0 	: 요즘 코로나땜에
+P0 	: 헬스장은 못가겠더라구요
+P1 	: 헉 한시간이나 대단하네요
+P1 	: 헬스장도 원래는 다니셨나요?
+P0 	: 코로나전에 짧게 삼개월정도요 ᆢ
+P0 	: 무서워서 못가겠더라구요
+P0 	: 운동하실 생각은 없으신거예요?
+P1 	: PT하셨나요?
+P1 	: 체력 길러야겠다는 생각은 하는데요
+P0 	: 아뇨 pt 너무 비싸서 못했어요
+P1 	: 생각만 하죠ㅜ
+P0 	: 그쵸 저도 체력이 딸려서 억지로해요ㅜ
+P1 	: 아 안배우고 헬스해도 괜찮나 싶어서요
+P1 	: 전 완전 운동 알못이라
+P0 	: 저도 알못이예요
+P0 	: 그냥 근력운동보다
+P0 	: 유산소만 대부분해서 ㅎㅎ
+P0 	: 런닝머신같은거요

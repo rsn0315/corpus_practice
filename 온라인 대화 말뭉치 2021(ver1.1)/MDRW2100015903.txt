@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100015903
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 콘텐츠>도서, 잡지
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아니용
+P1 	: 안녕하세요
+P0 	: 엇 안녕하세요ㅋㅋㅋㅋ
+P0 	: 제가 책을 잘 안읽어가지고
+P0 	: 책을 읽어야 하는데 걱정이네요ㅋㅋㅋ
+P1 	: 저도요ㅋㅋㅋ
+P1 	: 인상깊게 읽은 책있으세요?
+P0 	: 이시국이라 조금 그렇긴한데
+P0 	: 히가시노 게이고 가면산장 살인사건
+P0 	: 이거 재밌게 읽었어요!ㅋㅋ
+P0 	: &name2&님은요?
+P1 	: 아ㅋㅋ 엘리어트 파동 이론이요!
+P0 	: 헉 제목만 봐도 어려워보여요ㅋㅋ
+P1 	: 열심히 공부하고 있어요ㅋㅋ
+P0 	: 전공이 그쪽이세요?
+P1 	: 아니요! 부자되고 싶어서 봅니다
+P0 	: 아하ㅋㅋ 저는 주식 경제 이런쪽 넘 어려워요ㅠㅠ
+P1 	: 저도요ㅋㅋ
+P1 	: 이국종 골든타임 보셨나요?
+P0 	: 헛 아니요ㅠㅠ
+P0 	: 대신 이국종 교수님을 모델로한
+P0 	: 웹툰은 봤어요!

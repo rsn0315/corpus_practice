@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100030093
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210903
+topic : 가사 및 가족
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 기타
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 이번 추석때는 무슨 계획 있나요?
+P1 	: 앗.. &name1&님 60대셨어요?! 전 30대이신줄알았어요 ㅎㅎ
+P1 	: 저는 계획이없습니다. ㅎㅎ
+P1 	: 음식 조금 만들어서 먹는 정도?
+P1 	: 놀러가볼까했지만.. 코로나가 심해서 ㅠ
+P0 	: 젊게 봐줘서 고맙네요
+P1 	: 하하 ㅎㅎ
+P0 	: 저희도 가족끼리 조촐히 모여 집에서만 있을 계획입니다
+P0 	: 친척들 못본지 오래라 그립네요
+P1 	: 가족이 모일 수 있는게 행복한 게 아닐까요?
+P1 	: 친척은 내년에 봐요!
+P0 	: 그래요 내년엔 가능하리라 기대해봅니다
+P0 	: &name2&님은 명절음식 만들줄 아나요?
+P1 	: 아뇨 ㅋㅋㅋ
+P1 	: 어머니께서 어쩌피 시집가면 다 한다고 하셔서
+P1 	: 음식같은거 안시키셨어요
+P0 	: 오 그렇군요
+P0 	: 우리 아내도 딸들 안시키더군요
+P1 	: ㅋㅋㅋ 그쵸 어쩌피 해야한다면 그 때가서 해도 된다고 생각하시더라구요
+P1 	: 고생
+P1 	: 덜 하라구 ㅎㅎ
+P0 	: 엄머의 마음이 그런가 봅니다
+P1 	: 네 ㅎㅎ 그런가봐요
+P0 	: 부모는 그렇죠

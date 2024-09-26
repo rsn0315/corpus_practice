@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100033524
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 전남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아직 정해지지 않았어요
+P1 	: &name1&님은 뭘 드실 예정인가요
+P0 	: 전 닭을 먹을 예정이에요!
+P1 	: 닭 어떤 요리 드시나요
+P0 	: 오븐에 구운 치킨이요!
+P1 	: 너무 맛있겠다 집에서 해 드시나요 배달로 시켜 드시나요
+P0 	: 집에서 해먹는 편이에요 &name2&님은 배달음식 많이 시켜드시나요?
+P1 	: 전 아무래도 배달 음식을 자주 시켜 먹는 편이에요. 그나저나 집에서 해 드신다니 요리를 되게 잘 하시나 봐요
+P0 	: 아니에요ㅋㅋㅋ 그냥 유튜브 같은 걸로 조리법 보고 따라하는 수준이죠
+P1 	: 오븐에 구운 닭이 면 소스를 따로 바르나요 ?
+P0 	: 아뇨 그냥 후추랑 소금만 뿌려서 먹어요 심심하면 케찹도 뿌리&name1&
+P1 	: 담백한 걸 좋아하시는구나
+P0 	: 식사는 그런 편이에요 디저트는 완전 단게 좋&name1&
+P1 	: 맞아요 식사는 좀 담백하게 먹어야 해요

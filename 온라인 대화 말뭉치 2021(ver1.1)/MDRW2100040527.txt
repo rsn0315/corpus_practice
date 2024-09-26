@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100040527
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 오눌 저녁 머 드셧나요
+P0 	: 저는 곱창이요 &name2&님은 뭐 드셨나요?
+P1 	: 저는 한정식집 다녀왓어요!
+P1 	: 꽃등심을 먹었답니다 ㅎㄹ
+P0 	: 특식 드셨네요!!!
+P0 	: 비싸지 않나요?
+P1 	: 넵!! 월급을 받아서 ㅠㅠ
+P1 	: 구워주니까 더 맛있드라구요
+P0 	: 한정식 꽃등심은 비싼값을 하나요?
+P1 	: 네네 너무 맛있어요 ㅠㅠㅠ
+P1 	: 거기에 회랑 튀김 잡채 반찬도 많이 나왓어요!!
+P0 	: 우와 저도 먹고싶네요ㅠㅠ
+P0 	: 그럼 좋아하시는 음식 있으신가요?
+P1 	: 저는 회 좋아해요 !!
+P1 	: 회 좋아하세요?
+P0 	: 좋아해요
+P0 	: 어떤 회 특히 좋아하시나요?
+P1 	: 저는 무조건 연어요!!!!
+P0 	: 캬!!!연어 정말 맛있죠!!!!

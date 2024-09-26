@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100012296
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 콘텐츠>영상/음원 콘텐츠
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 남성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 아하 저는 동물농장이요ㅋㅋ
+P1 	: 좋아하는거 있으세요?
+P0 	: 저는 여행유튜브 자주봅니다
+P1 	: 오 요즘은 여행가기가 힘드니 더 자주보시겠어요
+P1 	: 어디 여행이요? 해외? 국내여행?
+P0 	: 요즘은 해외도 백신맞고 나가더라구요ㅎㅎ
+P1 	: 아 대단하네요 그분들!
+P1 	: 대리만족 되겠어요ㅋㅋ
+P0 	: 오맞아요 대리만족 중입니다ㅎㅎ
+P1 	: ㅋㅋ저도 애완동물이 없어서 동물농장보면서 대리만족하거든요
+P1 	: 어떤 여행컨텐츠 좋아하세요?
+P1 	: 휴양? 관광?
+P0 	: 관광이요!
+P1 	: 막 배낭 매고 여기저기 다니는것도 좋아하세요?
+P0 	: 오 네네 막 돈만원으로 하루버티기 이런것도 재밌더라구요
+P1 	: ㅋㅋ그럴때 막 돌발상황이나 친절한 사람 만나고 이런거 보면 재밌더라구요

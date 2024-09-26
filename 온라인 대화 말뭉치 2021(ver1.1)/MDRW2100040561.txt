@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100040561
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대구
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 치킨 먹고싶다
+P1 	: 이 밤에
+P0 	: 웅 땡긴다
+P1 	: 참아라 살찐다
+P0 	: ㅠㅠ 살은이미쪘다
+P1 	: 더 찌면 안 되지
+P0 	: 그건 그렇지만..
+P1 	: 내일 먹어라
+P0 	: 치킨은 밤에 먹어야 제맛인데
+P1 	: 그러니까 살이 찌지
+P0 	: 참을까
+P1 	: 그래 참아라
+P0 	: ㅜㅜ알았다
+P0 	: 치킨을 만들어먹을까

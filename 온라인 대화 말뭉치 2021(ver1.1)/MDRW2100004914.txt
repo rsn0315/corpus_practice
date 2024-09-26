@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100004914
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210821
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 경북
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요
+P0 	: 뮤지컬이나 영화 좋아하시나요?
+P1 	: 네 보러다니는건 다 좋아하는 편이에요 뮤지컬은 자주는 못 보지만요 영화도 코로나때문에 ㅠ
+P0 	: 요즘 영화 개봉 많이했던데 저도 다보고싶은데 코로나땜에 자제중이에요ㅠ
+P1 	: 모가디슈? 재미있어보이던데
+P1 	: 코로나 이후로 영화 한번도 못 봤어요
+P0 	: 저도 주위에서 보더니 괜찮다고하더라구요 마지막 영화가 그럼 어떤거예요?
+P1 	: 2019년에 부산국제영화제 간게 마지막인것 같아요 ㅋㅋ
+P0 	: 대박!! ㅋㅋ 근데 부산국제영화제 가시다니 대단!!
+P1 	: 몇년동안 매년 갔었어요 그게 일년중 하나의 즐거움이었는데 아쉬워요 ㅜㅜ
+P0 	: 와그랬군요! 저도 가보고싶더라구요!! 부산갔을때 그냥 구경만하구 씨앗호떡만 먹구왔는데 ㅠㅋㅋ
+P1 	: 어떤 장르 영화 좋아하세요?
+P0 	: 저는 sf나 추리 이런거 좋아해요 ㅋㅋ &name2&님은요?
+P1 	: 저는 딱히 좋아하는 장르는 없는것 같고 공포나 스릴러는 못 보는 편이에요
+P0 	: 저도 공포나 스릴러는 잘 ㅜㅜ 특히 잔인한걸 못봐요ㅜㅜ
+P1 	: 그쵸 그냥 액션 영화에서도 좀 잔인한게 보기 힘들어요

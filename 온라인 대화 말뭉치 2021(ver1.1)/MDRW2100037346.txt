@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100037346
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기타
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요 배달의 민족 자주 이용하세요?
+P0 	: 네 &name2&님은요?
+P1 	: 저는 배달의 민족 어플 지운지 좀 됐어요
+P0 	: 왜요?
+P1 	: 핸드폰 용량이 부족해서요
+P0 	: 앗!!그렇군요
+	  그럼 좋아하는 음식 있으신가요??
+P1 	: 간장게장 좋아요 너무 먹고 싶어요
+P0 	: 이제 곧 게철아닌가요?
+P1 	: 아니 비싸서 많이 못 먹어서요
+P0 	: 아 그렇군여 그럼 배달음식은 주로 어떤걸 드시나요?
+P1 	: 피자 주로 먹어요
+P0 	: 그렇군요

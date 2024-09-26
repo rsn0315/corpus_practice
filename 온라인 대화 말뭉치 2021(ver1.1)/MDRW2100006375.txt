@@ -1,0 +1,57 @@
+# FILE DATA
+ID : MDRW2100006375
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  직장>동기/동료/동업자
+intimacy  :  3
+contact_frequency  :  주 1~2회
+
+P0 	: &name2&님 백신 맞으셨나요
+P1 	: 접종 완료했어요.
+	  님은 요?
+P0 	: 네 저두요...뭐맞으셨나요
+P1 	: 화이자 맞았어요.
+	  접종 후 괜찮았어요?
+P0 	: 하루정돈 힘들어서 타이레놀 먹었습니다
+P1 	: 아.. 그래도 약하게 지나가서 다행이에요.
+P0 	: 네.&name2&님은요
+P1 	: 저는 매우 다행히 무탈했어요.
+	  부스터샷도 기회되면 맞으려구요.
+P0 	: 아 부스터샷은.어떤 식으로 예약되는지 아시나요?
+P1 	: 그것도 순번대로 기회가 올 것 같던데요.
+	  우선 의료인, 노인들부터요.
+P0 	: 아 백신과 같은 방식이겠군요
+P1 	: 그렇겠지요. 
+	  백신을 주기적으로 맞아야할 듯 싶은데
+	  맞을 때마다 긴장해야하니.. ;
+	  어서 더 건강한 백신이 나왔음 좋겠네요.
+P0 	: 그러게요 백신 맞으면 좀 진정될까싶었는데 확진자 수는.변함이없네요

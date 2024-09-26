@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100020478
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210828
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 전남
+principal_residence : 전남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 기타
+sex : 여성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요
+P1 	: 안녕하세요~
+P0 	: 식사하셨나요
+P1 	: 좀이따 하려구요
+P1 	: &name1&님은요?
+P0 	: 메뉴는 정하셨나요
+P0 	: 전 아직이요
+P1 	: 전 햄버거 먹을까 싶어요ㅋㅋㅋ
+P0 	: 어제 먹은게 소화가 덜되서 아침은 거르려구요
+P0 	: 완벽하네요
+P0 	: 어떤버거 드시나요
+P1 	: 아하 그럼 점심으로 맛난거 드세요
+P1 	: 지금 고민중이에요 몬스터버거 먹을듯해요
+P0 	: 버거킹 드시는구나
+P0 	: 몬스터버거 너무 맛있어요
+P1 	: 엇 딱 아시네요ㅋㅋㅋ
+P0 	: 혹시 드실 때 토핑추가하시나요
+P1 	: 아뇨 토핑 추가도 됐나요??
+P0 	: 저는 치즈추가 꼭 하는편이에요 치즈가 2장이면 맛이 2배 ㅎ
+P1 	: 첨알았어요
+P1 	: 와 이번에 먹을 땐 그렇게 먹어봐야겠네요
+P0 	: 헉 그러셨구나 채소랑 소스가 추가금없었던걸로 기억하고 치즈가 500원인가 300원인가했던거같아요

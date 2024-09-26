@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100035525
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 버거킹 주문하려구요!
+P1 	: 버거킹 좋죠 ㅋㅋㅋ
+P1 	: 상어가족 맛있어요
+P0 	: 오늘은 느끼한게 당겨서 콰트로치즈 먹으려구요ㅎㅎ
+P1 	: 오 맛있죠 ㅎㅎ
+P1 	: 전 스콘 기다리면서 낼 아침에 먹을거 마켓컬리 보고있어요 ㅋㅋ
+P0 	: 마켓컬리 자주 이용하시나요?
+P1 	: 네 먹을거없을때 가끔 이용해요 ㅎㅎ
+P0 	: 정말 새벽배송을 시간 맞춰 잘 오나요?
+P1 	: 네네 아침 7시에 문열면 도착해있더라고요
+P0 	: 안 해봤는데 나중에 필요하면 해봐야겠네요ㅎㅎ
+P1 	: 네 필요할때만 하는걸 추천드려요
+P1 	: 색다른 먹거리가 많아요
+P0 	: 배달 비용은 다른 곳과 비슷한가요?
+P1 	: 얼마이상이면 무료배송이요
+P0 	: 오 좋네요ㅎㅎ

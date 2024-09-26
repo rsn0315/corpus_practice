@@ -1,0 +1,53 @@
+# FILE DATA
+ID : MDRW2100036574
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 광주
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>형제자매
+intimacy  :  4
+contact_frequency  :  주 1~2회
+
+P1 	: ㅎㅇ
+P0 	: 내일 점심 뭐 먹을까
+P1 	: 돈가스나 먹자
+P0 	: 난 탕수육이 땡기는데
+P1 	: 깐풍기 너무 아쉽겠다
+P1 	: 맛있겠다
+P0 	: 그럼 중식으로?
+P1 	: 아 근데 우리 집에 이연복 탕수육 있어
+P0 	: 그럼 우선 그거부터 먹자
+P1 	: 소스도 같이 주더라
+P0 	: 이혼 보고 탕수육 한번 먹어보고 싶네
+P0 	: 이연복
+P1 	: 홈쇼핑에서 싸게 팔더라
+P0 	: 홈쇼핑에서 맛있는 거 많이 팔더라
+P1 	: 내일 중식 먹을 생각에 행복해요
+P0 	: 이연복 동파육도 맛있겠던데

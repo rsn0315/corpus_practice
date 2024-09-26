@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100002345
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210820
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 인천
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  주 3회 이상
+
+P1 	: 어디로 가게?
+P0 	: 앞에 대공원이나 한바퀴 돌지 뭐
+P1 	: 좋지~ 요즘 낙엽도 슬슬 떨어져서 운치도 있고
+P0 	: 대공원까지 한바퀴 돌아오면 우리집에서 어느정도 돈거지?
+P1 	: 한 2~3km될걸
+P0 	: 많이는 못해도 조금씩이라도 운동해야지
+P1 	: 좋은 생각이야. 시간 내서 하기가 힘드니
+P1 	: 조금씩이라도 해야해
+P0 	: 맞는 말씀ㅎㅎ 애들 데리고 운동하면 좀 힘들긴 한데
+P1 	: 강아지들 산책 시킨다고 생각해 ㅋㅋ
+P0 	: 강아지만큼 너무 예쁘지
+P1 	: 지금 바로 가게?
+P0 	: 그래야 점심 먹기 전에 오니까
+P1 	: ㅇㅇ 열심히 해

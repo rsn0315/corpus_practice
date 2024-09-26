@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100032421
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 경영/관리직
+sex : 남성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 경영/관리직
+sex : 남성
+birthplace : 제주
+principal_residence : 제주
+current_residence : 제주
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 비는 좋아하시나요 비 내리는 거예요
+P0 	: 비는 집 안에 있을땐 좋고 집 밖에선 너무 싫지요
+P1 	: 저랑 똑같네요 더울 땐커피를 한 잔 합니다
+P0 	: 비가 오면 운전하기 힘들어요
+P1 	: 거기도 힘들죠 다 젖은 가요
+P0 	: 그렇지만 비가 와야 식물이 목을 축입니다
+P1 	: 꼭 와야 되는 건 맞지만 평일에는 안 왔으면 좋겠어요
+P0 	: 그건 이기적인데요 날씨는 변덕이죠
+P1 	: 저는 태풍을 싫어합니다
+P0 	: 태풍오면 농작물도 다 떠내려가고요
+P1 	: 좋은 이유가 하나도 없어요
+P0 	: 그래도 공기가 꺠끗해져요
+P1 	: 가을이니까 태풍이 많이 오겠어요

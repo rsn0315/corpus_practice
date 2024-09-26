@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100016371
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경남
+principal_residence : 경남
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 좋아하는 음식 있어?
+P1 	: 나 피자!
+P0 	: 어느브랜드 좋아해?
+P1 	: &name1&는 닉네임에 좋아하는음식이 나와있넹
+P1 	: ㅋㅋㅋ 피자스쿨 자주먹어
+P0 	: 맞아 ㅋㅋㅋㅋ
+P1 	: 쌈마이한게 맛있엉
+P0 	: 피자스쿨 어렸을 때 마니 먹었는데
+P0 	: 가성비좋지
+P1 	: 그지
+P1 	: 난 혼자한판다먹고싶을때
+P1 	: 시켜ㅋㅋㅋ 포테이토+갈릭딥핑도함
+P1 	: 조합!
+P0 	: 갈릭디핑 최고지 필수야
+P0 	: 오 한판 다먹는구나 적수를 만낫다
+P1 	: 1인1피자 아니었냐구ㅎㅎ
+P1 	: 근데 피자스쿨은 피자치곤 좀 작아서 먹을만해
+P0 	: 당연하지 1인1판 필수
+P0 	: 맞아 많이 두껍지도 않구
+P1 	: ㅋㅋㅋ로제떡볶이 어디꺼 추천해??
+P1 	: 나 배달쪽은 먹어본적없어서 추천받고싶다
+P0 	: 나는 신전! 가성비도 좋고 사실 배떡이 젤 맛있었는데 거기랑 비슷해

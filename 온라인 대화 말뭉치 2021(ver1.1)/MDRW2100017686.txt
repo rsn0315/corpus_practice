@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100017686
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 어떤 음식 좋아하시나요?
+P1 	: 안녕하세요 저는 양념갈비 좋아해요
+P0 	: 앗 그렇군요  양념갈비 맛있죠 ㅎㅎ 저는 떡볶이 좋아해요:)
+P1 	: 떡볶이도 넘 맛있죠 ㅠㅠ
+P1 	: 어느브랜드 드세요?
+P0 	: 엽떡먹어요!
+P1 	: 엽떡 너무 맛있죠... 무슨 맛으로 드세요?
+P0 	: 착한맛이요 매운걸 잘 못먹거든요..
+P1 	: 헉 저두여 남들은 매운맛에 먹지않냐는데 저는 그냥 착한맛이 제일 맛있어요 ㅋㅋㅋ
+P0 	: 착한맛 최고 ㅎㅎ배달음식 자주시켜드시나요?
+P1 	: 네 요새 더 많이 먹는 거 같아요 ㅋㅋㅋ
+P0 	: 주로 어떤음식 시켜드세요?
+P1 	: 음 유가네닭갈비 많이 먹어요 ㅋㅋㅋ
+P0 	: 오 닭갈비는 안시켜 먹어봤는데  맛있나요?
+P1 	: 네 유가네는 믿고 먹는 편이라서요 ㅋㅋㅋ

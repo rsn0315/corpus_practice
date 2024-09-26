@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100012235
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 40대 이상
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : PC(데스크탑/노트북)
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 쇼핑 좋아하세요?
+P0 	: 네 쇼핑홀릭이여ㅎ
+P1 	: 보통 뭘 쇼핑하세요?
+P0 	: 먹는거요ㅎ
+P1 	: 저도 음식종류가 대부분인 것 같아요. 오늘은 고구마가 배송 중이네요.^^
+P0 	: 고구마 맛나요
+P1 	: 저 고구마, 옥수수, 밤 이런 거 너무너무 좋아해요ㅎ
+P0 	: 앗 저랑 같으세요ㅎ
+P1 	: 찌찌뽕이네요.ㅎ 전 원래 직접 입어보고 신어보고 사는 스타일이었는데, 코로나 이후로 옷이나 신발도 많이 사게 되었는데 의류쇼핑도 즐기시나요?
+P0 	: 네 옷도 넘 좋아요
+P1 	: 최근엔 어떤 옷 사셨어요? 전 빽바지 샀어요ㅋ
+P0 	: 전 잠옷요ㅋ
+P1 	: 마약잠옷 이런거 사셨나요?ㅎ

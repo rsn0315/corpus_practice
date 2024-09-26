@@ -1,0 +1,58 @@
+# FILE DATA
+ID : MDRW2100036950
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 전북
+principal_residence : 전북
+current_residence : 전북
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2& 님은 오늘 식사 뭐 하셨나요?
+P1 	: 저 오늘 순대국밥 점심으로 먹고왔어요 &name1&님은요?
+P0 	: 저는 집밥 먹었어요
+P0 	: 비오니까 갑자기 김치전이 땡겨요
+P1 	: 오 계신 지역은 비오는군요!
+P1 	: 비오는 날 김치전...진짜 맛잇죠!!
+P0 	: 네 비가 많이 오네요...
+P0 	: 그쵸 갓 구워진 김치전 모서리 한입 하고 싶어요
+P1 	: 그 살짝 바삭바삭한 부분 맛잇죠@@
+P0 	: 맞아요 &name2& 님은 어떤 전 제일 좋아하세요?
+P1 	: 저는 전은 안가리는데 김치전을 제일 좋아하는거같아요!
+P0 	: 저도요! 매콤한게 최고죠 ㅋㅋㅋ
+P1 	: 맞아요 ㅎㅎ너무 느끼하지도 않아서 더 좋은거 같아요
+P0 	: 그쵸 ㅋㅋ
+P0 	: &name2& 님 저녁 드셨어요?
+P1 	: 저 오늘 아침에 건강검진 받아서 저녁 안먹었어요 ㅎㅎ
+P1 	: 지금도 공복이네요 ㅠㅎㅎ&name1&님은 아침 드시나요??
+P0 	: 네 전 시리얼이랑 요거트 먹었어요
+P0 	: 공복 힘드시겠어요ㅋㅋ 검진 결과 잘 나오길 바라요!
+P1 	: 오 건강한 아침식사 하셨네요~~!
+P1 	: 오늘 그래도 구강검진에서 아무 이상없다고 해서 기분 좋았어요 ㅎㅎ

@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100044868
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210908
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 40대 이상
+occupation : 가정 주부
+sex : 여성
+birthplace : 강원
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 혹시 이번 대선 공약 보셨나요
+P0 	: 그게 무슨 상관이죠
+P1 	: 주 4일제 가 주된 공약 이더라고요
+P0 	: 반대하시나요
+P1 	: 네 완전요
+P0 	: 왜죠
+P1 	: 4일째 하면서 일자리 실업률 낮춘다는 거죠
+P0 	: 좋은게 아닌가요
+P1 	: 기존 일자리를 나눠 가진다는 의미 좀
+P0 	: 그게 무슨 얘기죠
+P1 	: 월급이 줄어든다는
+P0 	: 에이 설마요
+P1 	: 도대체 어느 회사가 일을 적게 하는데 돈을 똑같이 줄까요

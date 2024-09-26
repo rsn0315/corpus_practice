@@ -1,0 +1,51 @@
+# FILE DATA
+ID : MDRW2100044733
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210907
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경북
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 최근에 구매하신 물건 있으신가요?
+P1 	: 식염수랑 티트리오일요 님은요?
+P0 	: 오 저는 옷 주문했어요!
+P1 	: 어떤 옷을 사셨나요?
+P0 	: 슬랙스랑 모자 두 종류 샀어요ㅎㅎ
+P1 	: 모자요? 어떤 모자 사셨나요?
+P0 	: 베레모랑 비니 샀어요! 베레모는 사고 싶었고 비니는 너무 귀엽길래 샀네요ㅋㅋㅋ
+P1 	: 모자 좋아하세요? 가을에 딱이겠어요
+P0 	: 맞아요ㅋㅋㅋ
+P0 	: &name2& 님은 피부미용에 관심이 많으신가봐요!
+P1 	: 마스크때문에 얼굴 피부가 안 좋아서요
+P0 	: 아하... 맞아요 저도 마스크 때문에 트러블 심해졌더라구요
+P1 	: 그래서 조금이라도 신경써야했어요ㅠ
+P0 	: 잘 생각하신 거 같아요! 피부는 완전 악화되기 전에 잡는게 중요하잖아요

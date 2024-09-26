@@ -1,0 +1,52 @@
+# FILE DATA
+ID : MDRW2100007058
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경북
+current_residence : 경기
+device : 스마트폰
+keyboard : 나랏글
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  가족>부부
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P0 	: 헤이 &name2&
+P0 	: 운동언제하러갈거냥
+P1 	: 이따가ㅋㅋㅋ
+P0 	: 이따가는 자야되는뎅
+P1 	: 그럼 내일 운동해야지
+P0 	: 그랭 내일 걷기 좀 하자
+P0 	: 아 내일 머리자를랬는데 미룰깜
+P1 	: 일하면서 걸으셈
+P0 	: 일하면서 많이 걸어 매일 만보찍는뎅
+P1 	: 더 걸어야지ㅎㅎ
+P0 	: 끙 그럼 내일 퇴근하고 걷자
+P1 	: 그래 좋은 생각이야 걷자
+P0 	: 아파트 단지 걸을까?
+P1 	: 아니 &address&
+P0 	: 구랭 &address& 고고!

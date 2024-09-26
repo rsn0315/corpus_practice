@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100027004
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 건강 관리하시나요
+P0 	: 해야하는데 잘안하네요 산책과 댄스레슨 받아용
+P1 	: ㅋㅋ댄스레슨!
+P1 	: 신기하네요 ㅎㅎ
+P0 	: 아이돌댄스해용 재밌어요
+P1 	: ㅋㅋㅋ 잘 추시나봐요
+P0 	: 좀 많이 늘었어요 ㅋㅋ
+P0 	: 운동 하는거있으세용?
+P1 	: 걷기만 합니다 ㅎㅎㅎ
+P0 	: 저도 산책이 주로에요
+P1 	: 이따 꼭 걸어야지!!
+P0 	: 넹 저도요!
+P1 	: 비 안와서 괜찮은듯요
+P0 	: 맞아요 시원하고 좋아요
+P0 	: 어제 더워서 머리잘랐는데
+P0 	: 하루만에시원해져서 후회중이에요
+P1 	: ㅋㅋㅋ많이 자르셨나요
+P0 	: 네 ㅋㅋ생각보다 짧아져서 큰일이에요

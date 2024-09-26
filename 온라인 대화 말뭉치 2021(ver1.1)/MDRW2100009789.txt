@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100009789
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210823
+topic : 날씨와 계절
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 강원
+principal_residence : 강원
+current_residence : 강원
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 날이 안좋네요ㅎㅎ
+P1 	: 여기도 마찬가지예요 해가 전혀 안보이네요
+P0 	: 습하기만 하구 비올거같은데 언제 올지..
+P1 	: 태풍이 오고 있대요
+P0 	: 맞아요 여름에 안오던 태풍이 지금 오네요
+P1 	: 올 여름 태풍이 어째 안온다 했어요
+P0 	: 맞아요 여름같지 않았어요 장마도 짧구
+P1 	: 예전에 없던 가을장마가 시작된거라면서요 요즘 날씨 이상해요
+P0 	: 맞아요 가을장마라니...진짜 기후변화가 오나ㅠ
+P1 	: 비가 올때도 동남아마냥 막 쏟아지고 해 나고 그랬잖아요~ 우리나라 기후가 변하고 있나봐요
+P0 	: 맞아요 스콜처럼...무섭기도 하고 안타깝기도 하구
+P1 	: 이번 여름 진짜 더웠는데 갑자기 훅 서늘해졌어요
+P0 	: 맞아요 바람도 서늘하구..

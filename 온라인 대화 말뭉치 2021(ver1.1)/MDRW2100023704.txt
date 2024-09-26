@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100023704
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210830
+topic : 여행
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 30대
+occupation : 전문가 및 관련 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요 여행 좋아하세요?
+P1 	: 네 좋아요 엊그제 원주 다녀왔는데 날도 좋더라고요
+P0 	: 와 원주요? 맛난거 드시러 가신건가요? ㅎㅎ
+P1 	: 뮤지엄산 다녀왔어요
+P0 	: 오 방금 검색해봤는데 종이박물관이라고 뜨네요
+P1 	: 종이박물관도 있고 그림도 있고 백남준 전시 등등이 있는데 건물 자체가 예뻐요
+P0 	: 그렇군요 관람하는데 시간 오래걸리나요?
+P1 	: 보기나름이에요 명상관을 이용하면 더 오래걸리기도하고요
+P0 	: 명상관이라니.. 신기하네요
+P0 	: 거기서 명상하셨어요?
+P1 	: 아니요 ㅋㅋ 전 아이가 있는데 아이는 못들어가요
+P0 	: 아 아이는 못들어가는군요... 하긴 아이들이 명상을 좋아할것같진 않네요ㅋㅋ
+P0 	: 코로나 이전엔 여행을 많이 다니셨겠어요
+P1 	: 좋아하는 만큼 많이는 못갔어요 아쉬워요
+P0 	: 그래도 그 중 제일 기억에 남는 여행지는 어디예요?
+P1 	: 저는 파리랑 프라하가ㅡ좋았어요
+P0 	: 와 부러워요 저는 해외여행을 한번도 못가봤거든요
+P0 	: 거기는 분위기가 우리나라랑 어떻게 다른가요 넘 궁금해요
+P1 	: 무서운 사람도 많고 질서도 한국만 못해요 그런데 거리가 다 화보더라고요

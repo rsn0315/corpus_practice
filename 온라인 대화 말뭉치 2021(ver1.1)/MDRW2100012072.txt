@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100012072
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210824
+topic : 학교 생활
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 인천
+principal_residence : 인천
+current_residence : 인천
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 개학하셨어요?
+P1 	: 네 개학했어요! 개학하셨나요?
+P0 	: 아뇨 ㅋㅋ 전 대학생이라서용!!
+P0 	: 언제 개학하셨어요??
+P1 	: 아아 그렇군요  저는 고등학생이라서 8월17일에 개학했어요!
+P0 	: 우와 개학하면 힘들죠??
+P1 	: 네  방학동안 학교 안가다가 등교하니까 힘들더라구요..
+P0 	: ㅋㅋㅋ 구렇죠 힘들겠아요
+P0 	: 방학숙제는 없엇어요
+P1 	: 오 방학숙제 저희는 진로 영어영상 만들기 있었어요
+P0 	: 왘ㅋㅋㅋ 진로 영어영상이라닠ㅋㅋㅋㅋ
+P0 	: 혹시 중학생이에요?
+P1 	: 아뇨 고등학생이에요 저거 찍어서 내면 세특에 적어준다고 하고 잘한애들은 상준다고 하더라구요
+P0 	: 아핰ㅋㅋㅋ 그쵸 수시에 유리하니까 다들 하겠군여
+P1 	: 네  그런것 같더라구요
+P0 	: 온라인수업우로ㅠ들으시나요?
+P1 	: 네 격주로 온라인 오프라인 하는데 이번주는 온라인에요

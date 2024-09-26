@@ -1,0 +1,50 @@
+# FILE DATA
+ID : MDRW2100027573
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경남
+principal_residence : 부산
+current_residence : 부산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 안녕하세요!
+P1 	: 안녕하세요~ 식사는 하셨나요?
+P0 	: 네! 저는 주먹밥해먹었어여 ㅎㅎ
+P1 	: 와! 주먹밥은 어떤 속재료를 넣는지에 따라 종류가 천차만별이죠~ 어떤 주먹밥 드셨어요?
+P0 	: 맞아여! 저는 땡초참치마요주먹밥먹었어요~단무지도다져서넣구요ㅎㅎ
+P1 	: 맛있겠어요! 단무지 다져넣으면 식감도 좋을 것 같아요~
+P0 	: 맞아요~ 감칠맛도 싹돌고 좋아여 ㅎㅎ
+P1 	: 전 가끔 묵은지를 씻어서 썰어넣는데 이거도 맛있더라구요
+P0 	: 우옹 단무지대신 묵은지넣으면 참맛이죠 ㅜㅜㅜ
+P1 	: 그쵸 ㅎㅎ 묵은지에 스팸마요 넣은 주먹밥이 제 최애 조합이에요
+P0 	: 아 스팸마요 꿀꺽침나오네요ㅠㅠ 계란스크램블도 넣느면 환상이에요 ㅜㅜ
+P1 	: 말하다보니 먹고싶어져서 저녁에 해먹어야겠어요ㅎㅎ 주먹밥에는 역시 국물떡볶이겠죠?
+P0 	: 오우 정답입니다~ 국물떡볶이 근본이죠!!

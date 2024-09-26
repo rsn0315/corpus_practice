@@ -1,0 +1,54 @@
+# FILE DATA
+ID : MDRW2100008038
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210822
+topic : 반려동물
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 남성
+birthplace : 경북
+principal_residence : 경북
+current_residence : 대구
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 동물
+P0 	: 동물키워요?
+P1 	: 아니요 키워본적도 없어요
+P0 	: 저도 아직
+P1 	: 키우게 되신다면 어떤 동물을 키우시고 싶으신가요?
+P0 	: 강아지요
+P1 	: 강아지 좋죠
+P1 	: 한 때 웰시코기에 관심이 많았는데
+P1 	: 키우기 힘들다고 해서 포기했어요
+P0 	: 관리가 어렵죠
+P1 	: 부지런한 사람이 키울 수 있나봐요
+P0 	: 스스로 컸으면 ㅋㅋ
+P1 	: 그러면 진짜 좋겠네요
+P1 	: 관리가 덜한 반려동물 없을까요?
+P0 	: 저도 있다몀 그걸로 ㅎㅎ
+P1 	: 물고기 검색해 봤는데 수조 관리가 힘들다네요 패쓰
+P0 	: 이끼가 장난아니죠

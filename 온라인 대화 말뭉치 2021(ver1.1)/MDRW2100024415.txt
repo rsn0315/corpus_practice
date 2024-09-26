@@ -1,0 +1,65 @@
+# FILE DATA
+ID : MDRW2100024415
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210831
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 기술직 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 울산
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 갖게 되실거에요
+P0 	: 급여같은거엔 만족하시나요?
+P1 	: 네 업무량 비해서는 만족해요
+P1 	: &name1&님은 무슨 알바하세요?
+P0 	: 전 학원알바하고 있어요!
+P0 	: 이것저것 많이 하다가
+P0 	: 코로나때문에 이거 하나 빼고는 안해요ㅎㅎ
+P1 	: 어떤걸 가르치세요?
+P1 	: 아 학원알바라고
+P1 	: 뭘 꼭 가르치는건 아닐수도 있겠다
+P1 	: 학원에서 어떤일하세요?
+P0 	: 넵 전 그냥 편집해요!
+P1 	: 편집이요?
+P0 	: 넵 교재 편집하고
+P0 	: 가끔 애들가르치긴 하는데
+P0 	: 제 주된 일은 아니에요
+P0 	: &name2&님은 회사 인간관계 관련한 걱정같은건 없으신가요?
+P1 	: 네 특별히 문제는 없어요
+P1 	: 직원들 모두 좋은 사람들이에요
+P1 	: 오늘도 출글해요?
+P0 	: 오 넘 부럽네요!!
+P0 	: 아뇨 월수금 출근해요!
+P1 	: 오늘 쉬는 날 이시구나
+P0 	: 넵ㅎㅎ 근데 너무 일찍일어나서
+P0 	: 억울해요ㅋㅋㅋ
+P0 	: &name2&님은 원래 이 시간에 일어나시나요?
+P1 	: ㅎㅎ 일찍 일어나면 좋죠 하루가 길고
+P1 	: 저는 평소면 6시쯤 일어나요

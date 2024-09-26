@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100040015
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210904
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 사무 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 서울
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 서울
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: &name1&님 구매희망물건은 ~?
+P0 	: 저 조명이랑 지저분한거 덮은 천 살거에용
+P1 	: ㅋㅋㅋ 천이요???어디요
+P0 	: 싸구려 서랍장 하나있는데
+P0 	: 덮어버릴라고요
+P1 	: 아항
+P1 	: 무슨색
+P0 	: 흰색이나 베이지가 무난하겠죠?
+P0 	: 추천색있어요?
+P1 	: 흰색
+P1 	: 조명은어디요
+P0 	: 그냥 좀 긴 스탠드 하나 사고싶어용
+P0 	: 오늘의집 써보셨나요?
+P1 	: 넹 한번인가? ㅋㅋㅋ
+P1 	: 투표올려요
+P0 	: 오 ㅋㅋㅋㅋ 알았어요 &name2&님 안목을 빌려보죠
+P1 	: 어디에놓게요
+P0 	: 그냥 방구석에 두게요 ㅋㅋㅋㅋ
+P0 	: 가을이불도 사고싶네요
+P0 	: 엄마가 산 이불들은...말잇못...ㅋㅋㅋㅋㅋㅋㅋ
+P1 	: ㅋㅋㅋㅋㅋㅋ 그게또 갬성이죠
+P0 	: &name2&님 드릴게요 이 갬성
+P1 	: ㅋㅋㅋㅋㅋ 이미잇어요
+P1 	: 옷 사고싶은거잇어요6?

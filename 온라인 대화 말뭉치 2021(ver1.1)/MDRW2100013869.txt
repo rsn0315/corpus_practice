@@ -1,0 +1,61 @@
+# FILE DATA
+ID : MDRW2100013869
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 공연 및 관람>공연/전시회 및 관람
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 학생
+sex : 남성
+birthplace : 대구
+principal_residence : 대구
+current_residence : 대구
+device : 스마트폰
+keyboard : 천지인
+
+id : 2
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 인천
+device : 스마트폰
+keyboard : 나랏글
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 공연장 가보신적 있어요?
+P1 	: 네 뮤지컬연극 좋아해요
+P1 	: &name1&은요?
+P0 	: 저는 힙합공연 몇번 가보긴 했어요
+P0 	: 베이스소리에 가슴이 설레더라구요
+P1 	: 힙합좋아하세요?
+P1 	: 현장에서 듣는게 또 장난아니죠
+P0 	: 랩도 좋아하는데 그 비트소리가 좋더라구요
+P0 	: 뮤지컬은 잘 모르는데 어떤부분이 매력적인가요?
+P1 	: 연기+노래 같이 즐길수 있는게 좋은거같아요
+P1 	: 음악도 현장에서 같이들을수있어서 좋아해요
+P0 	: 오.. 제일 최근에 뭐보셨나요
+P1 	: 올해는 못갔고ㅜ 작년에 모차르트란 연극보고왔어요~
+P1 	: 아니다 아마데우스네요ㅋㅋ 헷갈렸다
+P0 	: 아마데우스가 모차르트니까 같은거죠 뭐ㅋㅋㅋ
+P0 	: 배우는 누가 나왔어요?
+P1 	: 작품이 달라요ㅋㅋㅋ
+P1 	: 차지연배우님..연기 너무잘하시더라고요
+P0 	: 잘은 모르는데 뮤지컬 좋아하시는분들은
+P0 	: 배우별로 한번씩 더 본다고 하시더라구요
+P1 	: 그렇기도 하구요 좋아하는 배우나오면 10번도 더 보는 분들도 있고ㅎㅎ
+P0 	: 와... 진짜 제대로 즐기시는것같아요
+P0 	: 한시즌 하니까 더 열심히 들으시는거겠죠?
+P1 	: 맞아요 그때가 아니면 또 언제 볼수있을지 모르고 영상이 남는게 아니니까요

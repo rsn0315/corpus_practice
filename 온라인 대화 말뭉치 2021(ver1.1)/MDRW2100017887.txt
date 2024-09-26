@@ -1,0 +1,56 @@
+# FILE DATA
+ID : MDRW2100017887
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210826
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 40대 이상
+occupation : 사무 종사자
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  가족>부모-자녀
+intimacy  :  5
+contact_frequency  :  (거의) 매일 연락한다.
+
+P1 	: 막내 근무처 이전 안 할 수도 있대
+P0 	: ?? 그 회사는 맨날 말이 바뀌네
+P0 	: 언제는 10월부터 출근지 바뀐다며
+P1 	: 그러게. 오늘 매니저한테 물어봤더니 아직 확실하진 않다는데.
+P0 	: 그 동네로 통근버스도 생긴다고 하지 않았어?
+P1 	: 응. 근데 그 라인이 없어지고 근무처에서 가까운 곳에 사는 직원을 데려갈 수도 있다나 봐.
+P1 	: 통근버스 없어지면 지점은 안 옮기는게 낫지.
+P0 	: 응 그렇긴 하네
+P0 	: 인사이동 확실해지면 얘기하지 왜 한참 전부터 얘기해서 신경쓰게 만드냐 그 회사는
+P1 	: 그러게. 막내도 새로운 지점 간다고 들떴다가 실망한 것 같애.
+P0 	: 괜히 직원한테 스트레스를 주네ㅠ 막내 이번주도 주말근무 하나?
+P1 	: 어. 매니저가 스케줄 안된다고 이번주만 더 부탁했다네.
+P0 	: 주말에도 출근하려면 힘들겠네~
+P1 	: 그래도 요즘엔 비 많이 와서 손님들 많이 없대.
+P1 	: 그나마 다행이지.
+P0 	: 손님 없으면 또 코로나 핑계대고 월차 쓰라고 하는 거 아녀?ㅜㅜ
+P1 	: 이번달에 벌써 월차 썼어. 병원 가야돼서 저번주에.
+P0 	: 아 그래?
+P0 	: 잘했네 남은 휴가 잘 써서 주말이랑 이어서 쉴 수 있게 해줘~ 평일 근무 힘들잖아

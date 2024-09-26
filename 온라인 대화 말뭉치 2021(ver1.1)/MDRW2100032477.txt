@@ -1,0 +1,68 @@
+# FILE DATA
+ID : MDRW2100032477
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210905
+topic : 일과 직업
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 서울
+principal_residence : 경남
+current_residence : 경남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 서비스 종사자
+sex : 여성
+birthplace : 부산
+principal_residence : 경남
+current_residence : 부산
+device : 스마트폰
+keyboard : 기타
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 직장인이신가요?
+P0 	: 아뇨!! 대학생이에요!
+P0 	: 아르바이트 하고 있어요!
+P1 	: 무슨 아르바이트 하세요???
+P1 	: 카페??
+P0 	: 아뇨 돈까스집이요!
+P0 	: 포장하구 서빙해요!!
+P0 	: 카페는... 레시피가 어려워서 포기했어요ㅋ큐ㅠ
+P1 	: 아항ㅋㅋ
+P1 	: 포장으로 많이 바쁘겠어요ㅎㅎㅎ
+P0 	: 이제 간신히 익숙해졌어요...ㅎㅎ
+P0 	: &name2&님은 직장인이신가용?!
+P1 	: 넵ㄹㄹ
+P1 	: 병원다니고있어요~
+P0 	: 우와!! 너무너무 멋져요!!
+P0 	: 근래 많이 힘드시죠 ㅠㅠ
+P1 	: 전혀요ㅋㅋㅋ
+P1 	: 결국은 사람상대하는 일이라서...ㅋㅋ
+P1 	: 정상적인 사람도 아니고
+P1 	: 아픈사람....ㄷㄷ
+P0 	: 헉...
+P1 	: ㅋㅋㅋㅋㅋ
+P1 	: 왠만한 봉사정신 아니고선ㅋㅋ
+P1 	: 병원일는 하지마세요ㅋㅋㅋㅋ
+P1 	: 어느쪽으로 취업하실생각이세요??ㅅ
+P0 	: 전 제약 쪽이요!! 연구직 생각 중이에요!!
+P0 	: 꿈만 크게 꾸고 있어용ㅋㅋㅋ
+P1 	: 크면 좋죠!!!!
+P1 	: 진짜 내가 하고싶은일은 힘들어도 이겨낼수있으니까!!
+P0 	: ㅎㅎ감사합니다!!ㅋㅋㅋ
+P0 	: &name2&님도 힘내세요!!

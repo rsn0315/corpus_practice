@@ -1,0 +1,59 @@
+# FILE DATA
+ID : MDRW2100028889
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210902
+topic : 식음료
+
+# SPEAKER_INFO
+id : 1
+age : 20대
+occupation : 무직/취업 준비생
+sex : 여성
+birthplace : 대전
+principal_residence : 대전
+current_residence : 대전
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 학생
+sex : 여성
+birthplace : 전남
+principal_residence : 충남
+current_residence : 경기
+device : 스마트폰
+keyboard : 천지인
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P1 	: 어떤 음식 좋아하세요?
+P0 	: 저는 밀가루 음식 좋아해요
+P0 	: 면이나 빵 종류요~~ &name2&님은요ㅡ
+P0 	: ?
+P1 	: 헐 저도요
+P1 	: 밥보다 빵이나면이 좋아요
+P0 	: 그쵸.. 오늘도 점심 저녁 다 빵하고 면 요리 먹었어요ㅋㅋ
+P1 	: 헉 어떤 면이랑 빵 드셨나요
+P0 	: 점심은 베이글 샌드위치 먹고 저녁은 라면 먹었어요
+P1 	: 아 베이글샌드위치
+P1 	: 오늘은 제가 먹어야겠어요 ㅋㅋ
+P0 	: 저녁은 드셨나요?
+P1 	: 앗 어제 결궄
+P1 	: 김밥을 먹었답니다ㅠ
+P1 	: 방금은 찹쌀탕수육 먹었어요!!
+P0 	: 저는 얼마 전부터 계속 꿔바로우가 먹고 싶었는데
+P0 	: 요새 외식이 어려워서 못 먹고 있네요ㅠㅠ
+P1 	: 꿔바로우ㅜㅠ 존맛인데
+P1 	: 꿔바로우 배달은 별론가요??
+P0 	: 꿔바로우는 식당에서 바로 먹는 게 훨씬 낫더라구요
+P1 	: 옹 그렇구나
+P1 	: 저도 꿔바로우 매장에서만 먹어봤어요!!

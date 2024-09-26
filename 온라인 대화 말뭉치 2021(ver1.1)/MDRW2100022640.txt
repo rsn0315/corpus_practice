@@ -1,0 +1,55 @@
+# FILE DATA
+ID : MDRW2100022640
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210829
+topic : 미용과 건강
+
+# SPEAKER_INFO
+id : 1
+age : 30대
+occupation : 판매/영업 종사자
+sex : 남성
+birthplace : 충북
+principal_residence : 충북
+current_residence : 서울
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 30대
+occupation : 학생
+sex : 여성
+birthplace : 울산
+principal_residence : 울산
+current_residence : 울산
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: 재택근무라심 따로 건강도 챙기시나여?
+P1 	: 요즘 계단걷기 시작했어요
+P0 	: 몇층정도 걸으시나요?
+P1 	: 15층이요!
+P1 	: 앗 &name1&님도 운동?!!
+P0 	: 전 등산자주다녀요..
+P0 	: 15층 몇회 왕복이요?
+P1 	: 와 등산!! 저 5번이요 그것도 노력해서ㅜㅜ
+P0 	: 15층 다섯본이면.. 엄청 하시네요..
+P0 	: 선출이세요?
+P1 	: ㅋㅋㅋㅋ내려갈땐 엘배ㅋㅋㅋㅋ
+P1 	: 너무지루해서 하기싫어요ㅠㅜ
+P0 	: 근데 하체운동 그만한게 없죠.. 무릎에도 부담덜가고
+P1 	: 그래요? 원래 줄넘기 하려다가 다들 말려서 계단하는데
+P0 	: 줄넘기는 딱 30중반까지 같아요.. 
+	  무릎 충격 엄청나죠..
+P0 	: 의사 백이면 백.. 무조건 계단 추천이죠
+P1 	: 계단 해야겠네요.. 줄넘기 새로 샀는데ㅜㅜ

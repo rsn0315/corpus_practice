@@ -1,0 +1,62 @@
+# FILE DATA
+ID : MDRW2100015253
+category :  온라인 대화 > 2인 대화
+
+# DOCUMENT DATA
+title : 온라인 대화
+author : 개인 대화 참여자
+publisher : 심심이
+date : 20210825
+topic : 쇼핑과 상품
+
+# SPEAKER_INFO
+id : 1
+age : 10대
+occupation : 학생
+sex : 여성
+birthplace : 충남
+principal_residence : 충남
+current_residence : 충남
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+id : 2
+age : 20대
+occupation : 판매/영업 종사자
+sex : 여성
+birthplace : 경기
+principal_residence : 경기
+current_residence : 경기
+device : 스마트폰
+keyboard : 2벌식(쿼티)
+
+# SETTING
+relation  :  낯선 사람
+intimacy  :  0
+contact_frequency  :  처음 연락한다
+
+P0 	: &name2&님은 갖고 싶은 거 있으세요?
+P1 	: 저..
+P1 	: 차요
+P1 	: 자동차
+P0 	: 오 어떤 차요?
+P0 	: 봐두신 거 있나요?
+P1 	: 아뇨
+P0 	: ㅋㅋ관심 있는 브랜드 있으세요?
+P1 	: 그냥 아무거나 다 좋아요
+P1 	: (사실 쿠퍼타고싶긴한데)
+P1 	: 넘비싸서
+P1 	: 모닝도 괜찮아요
+P0 	: ㅋㅋㅋ전 나중에 빨간 차 꼭 사고 싶어요
+P1 	: 빨간차?
+P1 	: 티코요?
+P0 	: 아뇨ㅋㅋㅋㅋ
+P0 	: 중형차 타고 싶어요
+P0 	: 물론 돈을 많이 벌어야되겠지만요
+P1 	: 아아
+P1 	: 염두해두신 차있으세요?
+P0 	: 딱히 없어요 굳이 말하자면  볼보?
+P0 	: 전기차 끌어보고 싶은 마음도 있어요
+P1 	: 아아볼보
+P1 	: 많이들어봤어용
+P0 	: 안전성 면에서는 유명하더라고요
