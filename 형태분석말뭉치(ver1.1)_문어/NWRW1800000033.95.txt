@@ -1,0 +1,365 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.95
+metadata : {}
+
+
+# id : NWRW1800000033.95.1.1
+[LH 3주년]부패없는 깨끗한 기업 LH, 국민 사랑받는 기업으로 다시 태어나다
+
+[LH	[/SS+LH/SL
+3주년]부패없는	3/SN+주년/NNB+]/SS+부패/NNG+없/VA+는/ETM
+깨끗한	깨끗하/VA+ㄴ/ETM
+기업	기업/NNG
+LH,	LH/SL+,/SP
+국민	국민/NNG
+사랑받는	사랑/NNG+받/XSV+는/ETM
+기업으로	기업/NNG+으로/JKB
+다시	다시/MAG
+태어나다	태어나/VV+다/EF
+
+
+# id : NWRW1800000033.95.2.1
+LH직원들이 임대아파트 어린이들에게 무료급식을 하고 있다.
+
+LH직원들이	LH/SL+직원/NNG+들/XSN+이/JKS
+임대아파트	임대/NNG+아파트/NNG
+어린이들에게	어린이/NNG+들/XSN+에게/JKB
+무료급식을	무료/NNG+급식/NNG+을/JKO
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.95.3.1
+부실 공기업의 대명사, ‘부실공룡’ 등으로 불렸던 한국토지주택공사(LH)가 다양한 구조개혁안을 성공적으로 수행하면서 화려하게 변신하고 있다.
+
+부실	부실/NNG
+공기업의	공기업/NNG+의/JKG
+대명사,	대명사/NNG+,/SP
+‘부실공룡’	‘/SS+부실/NNG+공룡/NNG+’/SS
+등으로	등/NNB+으로/JKB
+불렸던	불리/VV+었/EP+던/ETM
+한국토지주택공사(LH)가	한국토지주택공사/NNP+(/SS+LH/SL+)/SS+가/JKS
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+구조개혁안을	구조/NNG+개혁안/NNG+을/JKO
+성공적으로	성공/NNG+적/XSN+으로/JKB
+수행하면서	수행/NNG+하/XSV+면서/EC
+화려하게	화려하/VA+게/EC
+변신하고	변신/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.95.4.1
+LH는 ‘2011년도 공공기관 고객만족도 조사’에서 인천국제공항공사, 한국공항공사, 한국도로공사 등 19개 공기업과 함께 우수등급을 받았다.
+
+LH는	LH/SL+는/JX
+‘2011년도	‘/SS+2011/SN+년도/NNB
+공공기관	공공/NNG+기관/NNG
+고객만족도	고객/NNG+만족도/NNG
+조사’에서	조사/NNG+’/SS+에서/JKB
+인천국제공항공사,	인천국제공항공사/NNP+,/SP
+한국공항공사,	한국공항공사/NNP+,/SP
+한국도로공사	한국도로공사/NNP
+등	등/NNB
+19개	19/SN+개/NNB
+공기업과	공기업/NNG+과/JKB
+함께	함께/MAG
+우수등급을	우수/NNG+등급/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.4.2
+이번 조사는 173개 공공기관을 대상으로 지난해 11, 12월 두 달간 현장실사를 통한 개별 면접 방식으로 이뤄졌다.
+
+이번	이번/NNG
+조사는	조사/NNG+는/JX
+173개	173/SN+개/NNB
+공공기관을	공공/NNG+기관/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+지난해	지난해/NNG
+11,	11/SN+,/SP
+12월	12/SN+월/NNB
+두	두/MMN
+달간	달/NNB+간/XSN
+현장실사를	현장/NNG+실사/NNG+를/JKO
+통한	통하/VV+ㄴ/ETM
+개별	개별/NNG
+면접	면접/NNG
+방식으로	방식/NNG+으로/JKB
+이뤄졌다.	이뤄지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.5.1
+이번 평가로 LH는 통합 출범 이후 3년 연속 우수기관에 선정됐다.
+
+이번	이번/NNG
+평가로	평가/NNG+로/JKB
+LH는	LH/SL+는/JX
+통합	통합/NNG
+출범	출범/NNG
+이후	이후/NNG
+3년	3/SN+년/NNB
+연속	연속/NNG
+우수기관에	우수/NNG+기관/NNG+에/JKB
+선정됐다.	선정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.5.2
+노숙인쉼터와 대학생 보금자리주택 등 맞춤형 주거복지사업, 기동보수반 운영을 통해 주택 판매 후 서비스를 강화한 것이 주효했다.
+
+노숙인쉼터와	노숙인/NNG+쉼터/NNG+와/JC
+대학생	대학/NNG+생/XSN
+보금자리주택	보금자리/NNG+주택/NNG
+등	등/NNB
+맞춤형	맞춤/NNG+형/XSN
+주거복지사업,	주거/NNG+복지/NNG+사업/NNG+,/SP
+기동보수반	기동/NNG+보수/NNG+반/NNG
+운영을	운영/NNG+을/JKO
+통해	통하/VV+아/EC
+주택	주택/NNG
+판매	판매/NNG
+후	후/NNG
+서비스를	서비스/NNG+를/JKO
+강화한	강화/NNG+하/XSV+ㄴ/ETM
+것이	것/NNB+이/JKS
+주효했다.	주효/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.6.1
+특히 콜센터는 고객 서비스를 크게 개선했다는 평가를 받고 있다.
+
+특히	특히/MAG
+콜센터는	콜센터/NNG+는/JX
+고객	고객/NNG
+서비스를	서비스/NNG+를/JKO
+크게	크/VA+게/EC
+개선했다는	개선/NNG+하/XSV+았/EP+다는/ETM
+평가를	평가/NNG+를/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.95.6.2
+LH는 지역본부별로 분산된 콜센터를 본사로 통합해 체계적인 교육을 통해 전문 상담사를 양성하는 등 노력을 기울여 지난해 말 건설업계 최초로 한국표준협회의 KS인증서를 받기도 했다.
+
+LH는	LH/SL+는/JX
+지역본부별로	지역/NNG+본부/NNG+별/XSN+로/JKB
+분산된	분산/NNG+되/XSV+ㄴ/ETM
+콜센터를	콜센터/NNG+를/JKO
+본사로	본사/NNG+로/JKB
+통합해	통합/NNG+하/XSV+아/EC
+체계적인	체계/NNG+적/XSN+이/VCP+ㄴ/ETM
+교육을	교육/NNG+을/JKO
+통해	통하/VV+아/EC
+전문	전문/NNG
+상담사를	상담사/NNG+를/JKO
+양성하는	양성/NNG+하/XSV+는/ETM
+등	등/NNB
+노력을	노력/NNG+을/JKO
+기울여	기울이/VV+어/EC
+지난해	지난해/NNG
+말	말/NNB
+건설업계	건설업/NNG+계/XSN
+최초로	최초/NNG+로/JKB
+한국표준협회의	한국표준협회/NNP+의/JKG
+KS인증서를	KS/SL+인증서/NNG+를/JKO
+받기도	받/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.6.3
+또 부패 척결 노력이 결실을 맺어 지난해 국민권익위원회가 실시한 공공기관 청렴도 평가에서 ‘우수등급’을 받았고, 부패방지시책 분야에서 3년 연속 우수기관으로 평가받는 등 반부패·청렴시책 분야에서 눈에 띄는 성과를 이뤘다.
+
+또	또/MAG
+부패	부패/NNG
+척결	척결/NNG
+노력이	노력/NNG+이/JKS
+결실을	결실/NNG+을/JKO
+맺어	맺/VV+어/EC
+지난해	지난해/NNG
+국민권익위원회가	국민/NNG+권익/NNG+위원회/NNG+가/JKS
+실시한	실시/NNG+하/XSV+ㄴ/ETM
+공공기관	공공/NNG+기관/NNG
+청렴도	청렴도/NNG
+평가에서	평가/NNG+에서/JKB
+‘우수등급’을	‘/SS+우수/NNG+등급/NNG+’/SS+을/JKO
+받았고,	받/VV+았/EP+고/EC+,/SP
+부패방지시책	부패/NNG+방지/NNG+시책/NNG
+분야에서	분야/NNG+에서/JKB
+3년	3/SN+년/NNB
+연속	연속/NNG
+우수기관으로	우수/NNG+기관/NNG+으로/JKB
+평가받는	평가/NNG+받/XSV+는/ETM
+등	등/NNB
+반부패·청렴시책	반/XPN+부패/NNG+·/SP+청렴/NNG+시책/NNG
+눈에	눈/NNG+에/JKB
+띄는	띄/VV+는/ETM
+성과를	성과/NNG+를/JKO
+이뤘다.	이루/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.7.1
+LH는 한 단계 더 높은 청렴수준을 달성하기 위해 올해를 ‘청렴 안정화의 해’로 선포하고 청렴캠페인 ‘Let′s go Higher’ 운동을 전개하고 있다.
+
+LH는	LH/SL+는/JX
+한	한/MMN
+단계	단계/NNG
+더	더/MAG
+높은	높/VA+은/ETM
+청렴수준을	청렴/NNG+수준/NNG+을/JKO
+달성하기	달성/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+올해를	올해/NNG+를/JKO
+‘청렴	‘/SS+청렴/NNG
+안정화의	안정/NNG+화/XSN+의/JKG
+해’로	해/NNG+’/SS+로/JKB
+선포하고	선포/NNG+하/XSV+고/EC
+청렴캠페인	청렴/NNG+캠페인/NNG
+‘Let′s	‘/SS+Let/SL+′/SS+s/SL
+go	go/SL
+Higher’	Higher/SL+’/SS
+운동을	운동/NNG+을/JKO
+전개하고	전개/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.95.7.2
+청렴식권제, 매월 청렴주간 운영, 전 임직원과 가족이 함께 참여하는 청렴콘텐츠 공모전 개최, 지역사회 청렴문화 확산을 위한 청렴 동아리 활동, 건설 관계자가 참여하는 클린사회(Clean Society) 등이 대표적인 운영 프로그램이다.
+
+청렴식권제,	청렴/NNG+식권/NNG+제/XSN+,/SP
+매월	매월/MAG
+청렴주간	청렴/NNG+주간/NNG
+운영,	운영/NNG+,/SP
+전	전/MMN
+임직원과	임직원/NNG+과/JC
+가족이	가족/NNG+이/JKS
+함께	함께/MAG
+참여하는	참여/NNG+하/XSV+는/ETM
+청렴콘텐츠	청렴/NNG+콘텐츠/NNG
+공모전	공모전/NNG
+개최,	개최/NNG+,/SP
+지역사회	지역/NNG+사회/NNG
+청렴문화	청렴/NNG+문화/NNG
+확산을	확산/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+청렴	청렴/NNG
+동아리	동아리/NNG
+활동,	활동/NNG+,/SP
+건설	건설/NNG
+관계자가	관계자/NNG+가/JKS
+클린사회(Clean	클린/NNG+사회/NNG+(/SS+Clean/SL
+Society)	Society/SL+)/SS
+등이	등/NNB+이/JKS
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+운영	운영/NNG
+프로그램이다.	프로그램/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.8.1
+LH의 대표적인 상품인 임대주택에 대한 거주자들의 만족도도 높다.
+
+LH의	LH/SL+의/JKG
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+상품인	상품/NNG+이/VCP+ㄴ/ETM
+임대주택에	임대/NNG+주택/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+거주자들의	거주자/NNG+들/XSN+의/JKG
+만족도도	만족도/NNG+도/JX
+높다.	높/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.95.8.2
+LH가 지난해 11월 전국 국민임대 및 맞춤형 임대주택 1500채 거주자들을 대상으로 만족도 조사를 한 결과, 80% 이상이 ‘이전 거주지보다 LH 임대주택에 만족하고 있다’고 답했다.
+
+LH가	LH/SL+가/JKS
+지난해	지난해/NNG
+11월	11/SN+월/NNB
+전국	전국/NNG
+국민임대	국민/NNG+임대/NNG
+및	및/MAG
+맞춤형	맞춤/NNG+형/XSN
+임대주택	임대/NNG+주택/NNG
+1500채	1500/SN+채/NNB
+거주자들을	거주자/NNG+들/XSN+을/JKO
+대상으로	대상/NNG+으로/JKB
+만족도	만족도/NNG
+조사를	조사/NNG+를/JKO
+한	하/VV+ㄴ/ETM
+결과,	결과/NNG+,/SP
+80%	80/SN+%/SW
+이상이	이상/NNG+이/JKS
+‘이전	‘/SS+이전/NNG
+거주지보다	거주지/NNG+보다/JKB
+LH	LH/SL
+임대주택에	임대/NNG+주택/NNG+에/JKB
+만족하고	만족/NNG+하/XSA+고/EC
+있다’고	있/VX+다/EF+’/SS+고/JKQ
+답했다.	답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.8.3
+불만족이라는 응답은 3%에 그쳤다.
+
+불만족이라는	불/XPN+만족/NNG+이/VCP+라는/ETM
+응답은	응답/NNG+은/JX
+3%에	3/SN+%/SW+에/JKB
+그쳤다.	그치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.8.4
+응답자의 86%는 ‘어린이공부방 등 LH의 복지지원 사업에 만족한다’고 평가했다.
+
+응답자의	응답자/NNG+의/JKG
+86%는	86/SN+%/SW+는/JX
+‘어린이공부방	‘/SS+어린이/NNG+공부방/NNG
+등	등/NNB
+LH의	LH/SL+의/JKG
+복지지원	복지/NNG+지원/NNG
+사업에	사업/NNG+에/JKB
+만족한다’고	만족/NNG+하/XSA+ㄴ다/EF+’/SS+고/JKQ
+평가했다.	평가/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.8.5
+83%는 ‘임대주택 거주 후 LH에 대한 이미지가 좋아졌다’고 답했다.
+
+83%는	83/SN+%/SW+는/JX
+‘임대주택	‘/SS+임대/NNG+주택/NNG
+거주	거주/NNG
+후	후/NNG
+LH에	LH/SL+에/JKB
+대한	대하/VV+ㄴ/ETM
+이미지가	이미지/NNG+가/JKS
+좋아졌다’고	좋/VA+아/EC+지/VX+었/EP+다/EF+’/SS+고/JKQ
+답했다.	답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.95.9.1
+LH 관계자는 “이번 조사 결과를 통해서 나타난 의견을 면밀히 분석하여 입주자에 대한 주거서비스 향상 방안 마련 등에 적극 활용할 계획”이라고 말했다.
+
+LH	LH/SL
+관계자는	관계자/NNG+는/JX
+“이번	“/SS+이번/NNG
+조사	조사/NNG
+결과를	결과/NNG+를/JKO
+통해서	통하/VV+아서/EC
+나타난	나타나/VV+ㄴ/ETM
+의견을	의견/NNG+을/JKO
+면밀히	면밀히/MAG
+분석하여	분석/NNG+하/XSV+아/EC
+입주자에	입주자/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+주거서비스	주거/NNG+서비스/NNG
+향상	향상/NNG
+방안	방안/NNG
+마련	마련/NNG
+등에	등/NNB+에/JKB
+적극	적극/NNG
+활용할	활용/NNG+하/XSV+ㄹ/ETM
+계획”이라고	계획/NNG+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

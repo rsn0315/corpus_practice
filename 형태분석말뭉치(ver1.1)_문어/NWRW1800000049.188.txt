@@ -1,0 +1,252 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.188
+metadata : {}
+
+
+# id : NWRW1800000049.188.1.1
+[단독] “前 인삼공사 사장에도 수천만원 뒷돈 제공”
+
+[단독]	[/SS+단독/NNG+]/SS
+“前	“/SS+前/SH
+인삼공사	인삼공사/NNP
+사장에도	사장/NNG+에/JKB+도/JX
+수천만원	수천만/NR+원/NNB
+뒷돈	뒷돈/NNG
+제공”	제공/NNG+”/SS
+
+
+# id : NWRW1800000049.188.2.1
+檢, 관련자 진술 확보… 곧 소환… ‘KT&G 광고 리베이트’ 수사 확대
+
+檢,	檢/SH+,/SP
+관련자	관련자/NNG
+진술	진술/NNG
+확보…	확보/NNG+…/SE
+곧	곧/MAG
+소환…	소환/NNG+…/SE
+‘KT&G	‘/SS+KT/SL+&/SW+G/SL
+광고	광고/NNG
+리베이트’	리베이트/NNG+’/SS
+수사	수사/NNG
+확대	확대/NNG
+
+
+# id : NWRW1800000049.188.3.1
+광고대행사와 기업체의 유착 비리 의혹을 수사 중인 서울중앙지검 특별수사2부(부장 김석우)는 방모 전 KGC인삼공사 사장(60)이 광고대행사 JWT 측으로부터 상품권 등 수천만 원 상당의 금품을 받았다는 관련자 진술을 확보한 것으로 17일 확인됐다.
+
+광고대행사와	광고/NNG+대행사/NNG+와/JC
+기업체의	기업체/NNG+의/JKG
+유착	유착/NNG
+비리	비리/NNG
+의혹을	의혹/NNG+을/JKO
+수사	수사/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+서울중앙지검	서울중앙지검/NNP
+특별수사2부(부장	특별/NNG+수사/NNG+2/SN+부/NNG+(/SS+부장/NNG
+김석우)는	김석우/NNP+)/SS+는/JX
+방모	방/NNP+모/NP
+전	전/MMD
+KGC인삼공사	KGC인삼공사/NNP
+사장(60)이	사장/NNG+(/SS+60/SN+)/SS+이/JKS
+광고대행사	광고/NNG+대행사/NNG
+JWT	JWT/SL
+측으로부터	측/NNB+으로부터/JKB
+상품권	상품/NNG+권/XSN
+등	등/NNB
+수천만	수천만/NR
+원	원/NNB
+상당의	상당/NNG+의/JKG
+금품을	금품/NNG+을/JKO
+받았다는	받/VV+았/EP+다는/ETM
+관련자	관련자/NNG
+진술을	진술/NNG+을/JKO
+확보한	확보/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+17일	17/SN+일/NNB
+확인됐다.	확인/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.3.2
+KT&G의 비자금 조성 의혹을 규명하는 과정에서 불거진 이번 수사에서 KGC인삼공사 경영진의 비리가 드러난 건 처음이다.
+
+KT&G의	KT/SL+&/SW+G/SL+의/JKG
+비자금	비자금/NNG
+조성	조성/NNG
+의혹을	의혹/NNG+을/JKO
+규명하는	규명/NNG+하/XSV+는/ETM
+과정에서	과정/NNG+에서/JKB
+불거진	불거지/VV+ㄴ/ETM
+이번	이번/NNG
+수사에서	수사/NNG+에서/JKB
+KGC인삼공사	KGC인삼공사/NNP
+경영진의	경영진/NNG+의/JKG
+비리가	비리/NNG+가/JKS
+드러난	드러나/VV+ㄴ/ETM
+건	거/NNB+ㄴ/JX
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.4.1
+검찰은 JWT 관계자에게서 “방 전 사장이 KGC인삼공사 영업 및 마케팅 분야에서 임원을 맡고 있던 시기에 광고 홍보 계약을 맺는 과정에서 광고 수주나 계약 유지를 위해 금품을 건넸다”는 취지의 진술을 받아냈다.
+
+검찰은	검찰/NNG+은/JX
+JWT	JWT/SL
+관계자에게서	관계자/NNG+에게서/JKB
+“방	“/SS+방/NNP
+전	전/MMD
+사장이	사장/NNG+이/JKS
+KGC인삼공사	KGC인삼공사/NNP
+영업	영업/NNG
+및	및/MAG
+마케팅	마케팅/NNG
+분야에서	분야/NNG+에서/JKB
+임원을	임원/NNG+을/JKO
+맡고	맡/VV+고/EC
+있던	있/VX+던/ETM
+시기에	시기/NNG+에/JKB
+광고	광고/NNG
+홍보	홍보/NNG
+계약을	계약/NNG+을/JKO
+맺는	맺/VV+는/ETM
+과정에서	과정/NNG+에서/JKB
+수주나	수주/NNG+나/JC
+계약	계약/NNG
+유지를	유지/NNG+를/JKO
+위해	위하/VV+아/EC
+금품을	금품/NNG+을/JKO
+건넸다”는	건네/VV+었/EP+다/EF+”/SS+는/ETM
+취지의	취지/NNG+의/JKG
+진술을	진술/NNG+을/JKO
+받아냈다.	받/VV+아/EC+내/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.4.2
+검찰은 방 전 사장을 조만간 피의자 신분으로 소환해 조사할 방침이다.
+
+검찰은	검찰/NNG+은/JX
+방	방/NNP
+전	전/MMD
+사장을	사장/NNG+을/JKO
+조만간	조만간/MAG
+피의자	피의자/NNG
+신분으로	신분/NNG+으로/JKB
+소환해	소환/NNG+하/XSV+아/EC
+조사할	조사/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.5.1
+KT&G에서 줄곧 재직한 방 전 사장은 2010년에 KT&G 계열사인 KGC인삼공사 마케팅본부장으로 자리를 옮긴 뒤 국내사업부문장과 사장 등 요직을 지냈다.
+
+KT&G에서	KT/SL+&/SW+G/SL+에서/JKB
+줄곧	줄곧/MAG
+재직한	재직/NNG+하/XSV+ㄴ/ETM
+방	방/NNP
+전	전/MMD
+사장은	사장/NNG+은/JX
+2010년에	2010/SN+년/NNB+에/JKB
+KT&G	KT/SL+&/SW+G/SL
+계열사인	계열사/NNG+이/VCP+ㄴ/ETM
+KGC인삼공사	KGC인삼공사/NNP
+마케팅본부장으로	마케팅/NNG+본부장/NNG+으로/JKB
+자리를	자리/NNG+를/JKO
+옮긴	옮기/VV+ㄴ/ETM
+뒤	뒤/NNG
+국내사업부문장과	국내/NNG+사업/NNG+부문장/NNG+과/JC
+사장	사장/NNG
+등	등/NNB
+요직을	요직/NNG+을/JKO
+지냈다.	지내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.6.1
+검찰은 리드코프 고위 관계자 서모 씨가 JWT에 일감을 주는 대가로 개인적 친분이 깊은 특정 업체에 JWT 일감을 몰아주고 비용을 부풀려 지급하도록 지시했다는 의혹을 조사하기 위해 서 씨에게 이번 주 초 소환을 통보했다.
+
+검찰은	검찰/NNG+은/JX
+리드코프	리드코프/NNP
+고위	고위/NNG
+관계자	관계자/NNG
+서모	서/NNP+모/NP
+씨가	씨/NNB+가/JKS
+JWT에	JWT/SL+에/JKB
+일감을	일감/NNG+을/JKO
+주는	주/VV+는/ETM
+대가로	대가/NNG+로/JKB
+개인적	개인/NNG+적/XSN
+친분이	친분/NNG+이/JKS
+깊은	깊/VA+은/ETM
+특정	특정/NNG
+업체에	업체/NNG+에/JKB
+JWT	JWT/SL
+몰아주고	몰아주/VV+고/EC
+비용을	비용/NNG+을/JKO
+부풀려	부풀리/VV+어/EC
+지급하도록	지급/NNG+하/XSV+도록/EC
+지시했다는	지시/NNG+하/XSV+았/EP+다는/ETM
+의혹을	의혹/NNG+을/JKO
+조사하기	조사/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+서	서/NNP
+씨에게	씨/NNB+에게/JKB
+이번	이번/NNG
+주	주/NNG
+초	초/NNB
+소환을	소환/NNG+을/JKO
+통보했다.	통보/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.6.2
+또 서 씨와 친분이 있는 특정 업체 대표도 조사한 것으로 전해졌다.
+
+또	또/MAG
+서	서/NNP
+씨와	씨/NNB+와/JKB
+친분이	친분/NNG+이/JKS
+있는	있/VA+는/ETM
+특정	특정/NNG
+업체	업체/NNG
+대표도	대표/NNG+도/JX
+조사한	조사/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+전해졌다.	전하/VV+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.188.6.3
+검찰은 광고기획사에서 광고 수주와 계약 유지 청탁 대가로 5500만 원을 받아 챙긴 혐의 등으로 구속영장이 청구됐다가 지난달 말 기각된 백복인 KT&G 사장에 대해서는 불구속 기소하는 방안도 검토 중인 것으로 알려졌다.
+
+검찰은	검찰/NNG+은/JX
+광고기획사에서	광고/NNG+기획사/NNG+에서/JKB
+광고	광고/NNG
+수주와	수주/NNG+와/JC
+계약	계약/NNG
+유지	유지/NNG
+청탁	청탁/NNG
+대가로	대가/NNG+로/JKB
+5500만	5500/SN+만/NR
+원을	원/NNB+을/JKO
+받아	받/VV+아/EC
+챙긴	챙기/VV+ㄴ/ETM
+혐의	혐의/NNG
+등으로	등/NNB+으로/JKB
+구속영장이	구속/NNG+영장/NNG+이/JKS
+청구됐다가	청구/NNG+되/XSV+었/EP+다가/EC
+지난달	지난달/NNG
+말	말/NNB
+기각된	기각/NNG+되/XSV+ㄴ/ETM
+백복인	백복인/NNP
+KT&G	KT/SL+&/SW+G/SL
+사장에	사장/NNG+에/JKB
+대해서는	대하/VV+아서/EC+는/JX
+불구속	불/XPN+구속/NNG
+기소하는	기소/NNG+하/XSV+는/ETM
+방안도	방안/NNG+도/JX
+검토	검토/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+

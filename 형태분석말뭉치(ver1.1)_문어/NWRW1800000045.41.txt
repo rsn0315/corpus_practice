@@ -1,0 +1,622 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.41
+metadata : {}
+
+
+# id : NWRW1800000045.41.1.1
+화성에서 그냥 죽을래?
+
+화성에서	화성/NNG+에서/JKB
+그냥	그냥/MAG
+죽을래?	죽/VV+을래/EF+?/SF
+
+
+# id : NWRW1800000045.41.1.2
+채소 키우며 살래?
+
+채소	채소/NNG
+키우며	키우/VV+며/EC
+살래?	살/VV+래/EF+?/SF
+
+
+# id : NWRW1800000045.41.2.1
+내달 개봉 영화 ‘마션’에 구현된 화성생존에 필요한 NASA 기술
+
+내달	내달/NNG
+개봉	개봉/NNG
+영화	영화/NNG
+‘마션’에	‘/SS+마션/NNP+’/SS+에/JKB
+구현된	구현/NNG+되/XSV+ㄴ/ETM
+화성생존에	화성/NNP+생존/NNG+에/JKB
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+NASA	NASA/SL
+기술	기술/NNG
+
+
+# id : NWRW1800000045.41.3.1
+“포기하고 죽을 게 아니라면 살려고 노력해야지.”
+
+“포기하고	“/SS+포기/NNG+하/XSV+고/EC
+죽을	죽/VV+을/ETM
+게	거/NNB+이/JKC
+아니라면	아니/VCN+라면/EC
+살려고	살/VV+려고/EC
+노력해야지.”	노력/NNG+하/XSV+아야지/EF+./SF+”/SS
+
+
+# id : NWRW1800000045.41.4.1
+다음 달 개봉하는 영화 ‘마션(Martian)’은 지구인의 화성 생존기를 담았다.
+
+다음	다음/NNG
+달	달/NNG
+개봉하는	개봉/NNG+하/XSV+는/ETM
+영화	영화/NNG
+‘마션(Martian)’은	‘/SS+마션/NNP+(/SS+Martian/SL+)/SS+’/SS+은/JX
+지구인의	지구인/NNG+의/JKG
+화성	화성/NNG
+생존기를	생존기/NNG+를/JKO
+담았다.	담/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.4.2
+임무를 수행하던 중 사고로 화성에 홀로 남겨진 미국항공우주국(NASA) 대원이 1년 반이 넘는 기간 동안 화성에서 지내며 생존을 위해 사투를 벌인다.
+
+임무를	임무/NNG+를/JKO
+수행하던	수행/NNG+하/XSV+던/ETM
+중	중/NNB
+사고로	사고/NNG+로/JKB
+화성에	화성/NNG+에/JKB
+홀로	홀로/MAG
+남겨진	남기/VV+어/EC+지/VX+ㄴ/ETM
+미국항공우주국(NASA)	미국항공우주국/NNP+(/SS+NASA/SL+)/SS
+대원이	대원/NNG+이/JKS
+1년	1/SN+년/NNB
+반이	반/NNG+이/JKS
+넘는	넘/VV+는/ETM
+기간	기간/NNG
+동안	동안/NNG
+화성에서	화성/NNG+에서/JKB
+지내며	지내/VV+며/EC
+생존을	생존/NNG+을/JKO
+위해	위하/VV+아/EC
+사투를	사투/NNG+를/JKO
+벌인다.	벌이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.4.3
+NASA는 최근 홈페이지를 통해 실제로 ‘화성 서바이벌’을 위해 개발된 우주 기술을 공개했다.
+
+NASA는	NASA/SL+는/JX
+최근	최근/NNG
+홈페이지를	홈페이지/NNG+를/JKO
+통해	통하/VV+아/EC
+실제로	실제로/MAG
+‘화성	‘/SS+화성/NNG
+서바이벌’을	서바이벌/NNG+’/SS+을/JKO
+위해	위하/VV+아/EC
+개발된	개발/NNG+되/XSV+ㄴ/ETM
+우주	우주/NNG
+기술을	기술/NNG+을/JKO
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.5.1
+○ 상추 키우고 소변 재활용
+
+○	○/SW
+상추	상추/NNG
+키우고	키우/VV+고/EC
+소변	소변/NNG
+재활용	재/XPN+활용/NNG
+
+
+# id : NWRW1800000045.41.6.1
+가장 중요한 건 음식이다.
+
+가장	가장/MAG
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+건	거/NNB+ㄴ/JX
+음식이다.	음식/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.6.2
+화성은 타원 궤도로 공전하고 있어 지구와 화성 사이의 거리는 계속 바뀐다.
+
+화성은	화성/NNG+은/JX
+타원	타원/NNG
+궤도로	궤도/NNG+로/JKB
+공전하고	공전/NNG+하/XSV+고/EC
+있어	있/VX+어/EC
+지구와	지구/NNG+와/JC
+화성	화성/NNG
+사이의	사이/NNG+의/JKG
+거리는	거리/NNG+는/JX
+계속	계속/MAG
+바뀐다.	바뀌/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.6.3
+최단 거리가 약 5460만 km다.
+
+최단	최단/NNG
+거리가	거리/NNG+가/JKS
+약	약/MMA
+5460만	5460/SN+만/JX
+km다.	km/SW+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.6.4
+화성에 물품을 보급하는 우주선이 도착하려면 최소 9개월이 걸린다.
+
+화성에	화성/NNG+에/JKB
+물품을	물품/NNG+을/JKO
+보급하는	보급/NNG+하/XSV+는/ETM
+우주선이	우주선/NNG+이/JKS
+도착하려면	도착/NNG+하/XSV+려면/EC
+최소	최소/NNG
+9개월이	9/SN+개월/NNB+이/JKS
+걸린다.	걸리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.6.5
+실제로 2012년 화성에 도착한 탐사 로봇 ‘큐리오시티’는 5억6600만 km를 253일간 날아갔다.
+
+실제로	실제로/MAG
+2012년	2012/SN+년/NNB
+화성에	화성/NNG+에/JKB
+도착한	도착/NNG+하/XSV+ㄴ/ETM
+탐사	탐사/NNG
+로봇	로봇/NNG
+‘큐리오시티’는	‘/SS+큐리오시티/NNG+’/SS+는/JX
+5억6600만	5/SN+억/NR+6600/SN+만/NR
+km를	km/SW+를/JKO
+253일간	253/SN+일/NNB+간/XSN
+날아갔다.	날아가/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.6.6
+이 때문에 화성에서는 식용 식물을 직접 재배해야 한다.
+
+이	이/NP
+때문에	때문/NNB+에/JKB
+화성에서는	화성/NNG+에서/JKB+는/JX
+식용	식용/NNG
+식물을	식물/NNG+을/JKO
+직접	직접/MAG
+재배해야	재배/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.7.1
+NASA는 ‘베지(Veggie)’라는 우주 농사법을 개발했다.
+
+NASA는	NASA/SL+는/JX
+‘베지(Veggie)’라는	‘/SS+베지/NNG+(/SS+Veggie/SL+)/SS+’/SS+이/VCP+라는/ETM
+우주	우주/NNG
+농사법을	농사법/NNG+을/JKO
+개발했다.	개발/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.7.2
+베지는 인공 빛으로 식물을 키우는 수경재배 시스템이다.
+
+베지는	베지/NNG+는/JX
+인공	인공/NNG
+빛으로	빛/NNG+으로/JKB
+식물을	식물/NNG+을/JKO
+키우는	키우/VV+는/ETM
+수경재배	수경/NNG+재배/NNG
+시스템이다.	시스템/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.7.3
+지난해 국제우주정거장(ISS)에서는 우주인들이 베지로 상추를 기르는 데 처음으로 성공했다.
+
+지난해	지난해/NNG
+국제우주정거장(ISS)에서는	국제우주정거장/NNP+(/SS+ISS/SL+)/SS+에서/JKB+는/JX
+우주인들이	우주인/NNG+들/XSN+이/JKS
+베지로	베지/NNG+로/JKB
+상추를	상추/NNG+를/JKO
+기르는	기르/VV+는/ETM
+데	데/NNB
+처음으로	처음/NNG+으로/JKB
+성공했다.	성공/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.7.4
+지난달에는 우주인들이 국제우주정거장에서 재배한 상추를 먹는 모습이 NASA TV로 생중계됐다.
+
+지난달에는	지난달/NNG+에/JKB+는/JX
+우주인들이	우주인/NNG+들/XSN+이/JKS
+국제우주정거장에서	국제우주정거장/NNP+에서/JKB
+재배한	재배/NNG+하/XSV+ㄴ/ETM
+상추를	상추/NNG+를/JKO
+먹는	먹/VV+는/ETM
+모습이	모습/NNG+이/JKS
+NASA	NASA/SL
+TV로	TV/SL+로/JKB
+생중계됐다.	생/XPN+중계/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.8.1
+생존에 필수적인 물과 산소도 직접 생산해야 한다.
+
+생존에	생존/NNG+에/JKB
+필수적인	필수/NNG+적/XSN+이/VCP+ㄴ/ETM
+물과	물/NNG+과/JC
+산소도	산소/NNG+도/JX
+직접	직접/MAG
+생산해야	생산/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.8.2
+물은 우주인의 소변이나 땀, 손 씻은 물 등을 모아 정화하는 ‘물 재활용 시스템(WRS·Water Recovery System)’에서 얻으면 된다.
+
+물은	물/NNG+은/JX
+우주인의	우주인/NNG+의/JKG
+소변이나	소변/NNG+이나/JC
+땀,	땀/NNG+,/SP
+손	손/NNG
+씻은	씻/VV+은/ETM
+물	물/NNG
+등을	등/NNB+을/JKO
+모아	모으/VV+아/EC
+정화하는	정화/NNG+하/XSV+는/ETM
+‘물	‘/SS+물/NNG
+재활용	재/XPN+활용/NNG
+시스템(WRS·Water	시스템/NNG+(/SS+WRS/SL+·/SP+Water/SL
+Recovery	Recovery/SL
+System)’에서	System/SL+)/SS+’/SS+에서/JKB
+얻으면	얻/VV+으면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.8.3
+WRS는 2008년 국제우주정거장에 처음 설치돼 현재 사용되고 있다.
+
+WRS는	WRS/SL+는/JX
+2008년	2008/SN+년/NNB
+국제우주정거장에	국제우주정거장/NNP+에/JKB
+처음	처음/NNG
+설치돼	설치/NNG+되/XSV+어/EC
+현재	현재/MAG
+사용되고	사용/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.41.8.4
+산소는 물을 전기분해해 공급받아야 한다.
+
+산소는	산소/NNG+는/JX
+물을	물/NNG+을/JKO
+전기분해해	전기/NNG+분해/NNG+하/VV+아/EC
+공급받아야	공급/NNG+받/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.9.1
+○ 거친 모래바람 막아 줄 ‘화성 집’
+
+○	○/SW
+거친	거칠/VA+ㄴ/ETM
+모래바람	모래바람/NNG
+막아	막/VV+아/EC
+줄	주/VX+ㄹ/ETM
+‘화성	‘/SS+화성/NNG
+집’	집/NNG+’/SS
+
+
+# id : NWRW1800000045.41.10.1
+화성은 지구 생명체가 살기에 결코 호락호락한 곳이 아니다.
+
+화성은	화성/NNG+은/JX
+지구	지구/NNG
+생명체가	생명체/NNG+가/JKS
+살기에	살/VV+기/ETN+에/JKB
+결코	결코/MAG
+호락호락한	호락호락/MAG+하/XSA+ㄴ/ETM
+곳이	곳/NNG+이/JKC
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000045.41.10.2
+시시때때로 불어오는 모래바람과 영하 63도의 극한 환경은 화성에서의 생존을 어렵게 만드는 요인이다.
+
+시시때때로	시시때때로/MAG
+불어오는	불어오/VV+는/ETM
+모래바람과	모래바람/NNG+과/JC
+영하	영하/NNG
+63도의	63/SN+도/NNB+의/JKG
+극한	극한/NNG
+환경은	환경/NNG+은/JX
+화성에서의	화성/NNG+에서/JKB+의/JKG
+생존을	생존/NNG+을/JKO
+어렵게	어렵/VA+게/EC
+만드는	만들/VV+는/ETM
+요인이다.	요인/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.10.3
+NASA는 화성의 거친 환경을 잠시 피해 갈 수 있는 ‘화성 집’으로 ‘헤라(HERA)’를 고안 중이다.
+
+NASA는	NASA/SL+는/JX
+화성의	화성/NNG+의/JKG
+거친	거칠/VA+ㄴ/ETM
+환경을	환경/NNG+을/JKO
+잠시	잠시/MAG
+피해	피하/VV+아/EC
+갈	가/VX+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+‘화성	‘/SS+화성/NNG
+집’으로	집/NNG+’/SS+으로/JKB
+‘헤라(HERA)’를	‘/SS+헤라/NNG+(/SS+HERA/SL+)/SS+’/SS+를/JKO
+고안	고안/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.10.4
+헤라는 돔 형태의 2층짜리 막사로 내부는 거주시설과 위생시설, 작업실 등으로 이뤄졌다.
+
+헤라는	헤라/NNG+는/JX
+돔	돔/NNG
+형태의	형태/NNG+의/JKG
+2층짜리	2/SN+층/NNG+짜리/XSN
+막사로	막사/NNG+로/JKB
+내부는	내부/NNG+는/JX
+거주시설과	거주/NNG+시설/NNG+과/JC
+위생시설,	위생/NNG+시설/NNG+,/SP
+작업실	작업실/NNG
+등으로	등/NNB+으로/JKB
+이뤄졌다.	이뤄지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.10.5
+이곳에서 우주인들은 14일 동안 머물 수 있다.
+
+이곳에서	이곳/NP+에서/JKB
+우주인들은	우주인/NNG+들/XSN+은/JX
+14일	14/SN+일/NNB
+동안	동안/NNG
+머물	머물/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000045.41.11.1
+화성 집에 조명을 켜고 적당한 온도를 유지하는 동력은 태양전지에서 얻는다.
+
+화성	화성/NNG
+집에	집/NNG+에/JKB
+조명을	조명/NNG+을/JKO
+켜고	켜/VV+고/EC
+적당한	적당하/VA+ㄴ/ETM
+온도를	온도/NNG+를/JKO
+유지하는	유지/NNG+하/XSV+는/ETM
+동력은	동력/NNG+은/JX
+태양전지에서	태양/NNG+전지/NNG+에서/JKB
+얻는다.	얻/VV+는다/EF+./SF
+
+
+# id : NWRW1800000045.41.11.2
+현재 국제우주정거장은 태양전지로 84∼124kW(킬로와트)의 전력을 공급받는다.
+
+현재	현재/MAG
+국제우주정거장은	국제우주정거장/NNP+은/JX
+태양전지로	태양/NNG+전지/NNG+로/JKB
+84∼124kW(킬로와트)의	84/SN+∼/SO+124/SN+kW/SW+(/SS+킬로와트/NNB+)/SS+의/JKG
+전력을	전력/NNG+을/JKO
+공급받는다.	공급/NNG+받/XSV+는다/EF+./SF
+
+
+# id : NWRW1800000045.41.11.3
+이 정도면 40가구가 꾸준히 쓸 수 있는 양이다.
+
+이	이/MMD
+정도면	정도/NNG+이/VCP+면/EC
+40가구가	40/SN+가구/NNG+가/JKS
+꾸준히	꾸준히/MAG
+쓸	쓰/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+양이다.	양/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.12.1
+○ 유연하고 빛나는 우주복
+
+○	○/SW
+유연하고	유연하/VA+고/EC
+빛나는	빛나/VV+는/ETM
+우주복	우주복/NNG
+
+
+# id : NWRW1800000045.41.13.1
+화성에서 생활하는 우주인은 필히 우주복을 입어야 한다.
+
+화성에서	화성/NNG+에서/JKB
+생활하는	생활/NNG+하/XSV+는/ETM
+우주인은	우주인/NNG+은/JX
+필히	필히/MAG
+우주복을	우주복/NNG+을/JKO
+입어야	입/VV+어야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.13.2
+지난해 NASA는 새로운 우주복 ‘Z-2’를 발표했다.
+
+지난해	지난해/NNG
+NASA는	NASA/SL+는/JX
+새로운	새롭/VA+ㄴ/ETM
+우주복	우주복/NNG
+‘Z-2’를	‘/SS+Z/SL+-/SO+2/SN+’/SS+를/JKO
+발표했다.	발표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.13.3
+Z-2에는 동료끼리 쉽게 위치를 파악할 수 있도록 가슴과 옆구리 등에 발광 소재를 붙였다.
+
+Z-2에는	Z/SL+-/SO+2/SN+에/JKB+는/JX
+동료끼리	동료/NNG+끼리/XSN
+쉽게	쉽/VA+게/EC
+위치를	위치/NNG+를/JKO
+파악할	파악/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+가슴과	가슴/NNG+과/JC
+옆구리	옆구리/NNG
+등에	등/NNB+에/JKB
+발광	발광/NNG
+소재를	소재/NNG+를/JKO
+붙였다.	붙이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.13.4
+또 두껍고 딱딱한 기존 우주복과 달리 첨단 복합소재를 사용해 튼튼하면서도 유연하게 만들어 움직임이 자연스럽다.
+
+또	또/MAG
+두껍고	두껍/VA+고/EC
+딱딱한	딱딱하/VA+ㄴ/ETM
+기존	기존/NNG
+우주복과	우주복/NNG+과/JKB
+달리	달리/MAG
+첨단	첨단/NNG
+복합소재를	복합/NNG+소재/NNG+를/JKO
+사용해	사용/NNG+하/XSV+아/EC
+튼튼하면서도	튼튼하/VA+면서/EC+도/JX
+유연하게	유연하/VA+게/EC
+만들어	만들/VV+어/EC
+움직임이	움직임/NNG+이/JKS
+자연스럽다.	자연/NNG+스럽/XSA+다/EF+./SF
+
+
+# id : NWRW1800000045.41.14.1
+하지만 현재로서는 Z-2도 화성의 모래바람에는 속수무책이다.
+
+하지만	하지만/MAJ
+현재로서는	현재/NNG+로서/JKB+는/JX
+Z-2도	Z/SL+-/SO+2/SN+도/JX
+화성의	화성/NNG+의/JKG
+모래바람에는	모래바람/NNG+에/JKB+는/JX
+속수무책이다.	속수무책/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.14.2
+화성에는 각종 먼지가 섞인 모래바람이 많이 부는 만큼 우주복에 묻은 먼지가 우주선을 오염시키지 않도록 설계해야 한다.
+
+화성에는	화성/NNG+에/JKB+는/JX
+각종	각종/NNG
+먼지가	먼지/NNG+가/JKS
+섞인	섞이/VV+ㄴ/ETM
+모래바람이	모래바람/NNG+이/JKS
+많이	많이/MAG
+부는	불/VV+는/ETM
+만큼	만큼/NNB
+우주복에	우주복/NNG+에/JKB
+묻은	묻/VV+은/ETM
+우주선을	우주선/NNG+을/JKO
+오염시키지	오염/NNG+시키/XSV+지/EC
+않도록	않/VX+도록/EC
+설계해야	설계/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.41.14.3
+NASA는 우주복의 등에 우주선과 연결되는 장치를 달아 임무를 끝낸 우주인이 우주복은 바깥에 벗어 놓고 연결 장치를 통해 몸만 우주선으로 들어갈 수 있는 방안을 고려하고 있다.
+
+NASA는	NASA/SL+는/JX
+우주복의	우주복/NNG+의/JKG
+등에	등/NNG+에/JKB
+우주선과	우주선/NNG+과/JKB
+연결되는	연결/NNG+되/XSV+는/ETM
+장치를	장치/NNG+를/JKO
+달아	달/VV+아/EC
+임무를	임무/NNG+를/JKO
+끝낸	끝내/VV+ㄴ/ETM
+우주인이	우주인/NNG+이/JKS
+우주복은	우주복/NNG+은/JX
+바깥에	바깥/NNG+에/JKB
+벗어	벗/VV+어/EC
+놓고	놓/VX+고/EC
+연결	연결/NNG
+통해	통하/VV+아/EC
+몸만	몸/NNG+만/JX
+우주선으로	우주선/NNG+으로/JKB
+들어갈	들어가/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+방안을	방안/NNG+을/JKO
+고려하고	고려/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.41.15.1
+이 밖에 NASA는 인류를 태우고 화성까지 날아갈 우주선용 이온엔진도 개발을 마쳤다.
+
+이	이/MMD
+밖에	밖/NNG+에/JKB
+NASA는	NASA/SL+는/JX
+인류를	인류/NNG+를/JKO
+태우고	태우/VV+고/EC
+화성까지	화성/NNG+까지/JX
+날아갈	날아가/VV+ㄹ/ETM
+우주선용	우주선/NNG+용/XSN
+이온엔진도	이온/NNG+엔진/NNG+도/JX
+개발을	개발/NNG+을/JKO
+마쳤다.	마치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.15.2
+이온엔진은 이온을 발사해 얻는 추력으로 우주선을 움직이며, 수년간 빠른 속도를 유지하는 게 가장 큰 장점이다.
+
+이온엔진은	이온/NNG+엔진/NNG+은/JX
+이온을	이온/NNG+을/JKO
+발사해	발사/NNG+하/XSV+아/EC
+얻는	얻/VV+는/ETM
+추력으로	추력/NNG+으로/JKB
+우주선을	우주선/NNG+을/JKO
+움직이며,	움직이/VV+며/EC+,/SP
+수년간	수년/NNG+간/XSN
+빠른	빠르/VA+ㄴ/ETM
+속도를	속도/NNG+를/JKO
+유지하는	유지/NNG+하/XSV+는/ETM
+게	거/NNB+이/JKS
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+장점이다.	장점/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.15.3
+2012년 소행성 ‘베스타’를 탐사한 ‘돈(DAWN)’에도 이온엔진이 달렸다.
+
+2012년	2012/SN+년/NNB
+소행성	소/XPN+행성/NNG
+‘베스타’를	‘/SS+베스타/NNP+’/SS+를/JKO
+탐사한	탐사/NNG+하/XSV+ㄴ/ETM
+‘돈(DAWN)’에도	‘/SS+돈/NNP+(/SS+DAWN/SL+)/SS+’/SS+에/JKB+도/JX
+이온엔진이	이온/NNG+엔진/NNG+이/JKS
+달렸다.	달리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.41.15.4
+NASA는 화성 안에서 우주인의 발이 돼 줄 ‘다목적 우주개발차량(MMSEV)’도 개발 중이다.
+
+NASA는	NASA/SL+는/JX
+화성	화성/NNG
+안에서	안/NNG+에서/JKB
+우주인의	우주인/NNG+의/JKG
+발이	발/NNG+이/JKC
+돼	되/VV+어/EC
+줄	주/VX+ㄹ/ETM
+‘다목적	‘/SS+다목적/NNG
+우주개발차량(MMSEV)’도	우주/NNG+개발/NNG+차량/NNG+(/SS+MMSEV/SL+)/SS+’/SS+도/JX
+개발	개발/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+

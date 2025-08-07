@@ -1,0 +1,228 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.145
+metadata : {}
+
+
+# id : NWRW1800000046.145.1.1
+5년간 기업 맞춤형 공부 '고교 3+전문대 2' 통합교육 하반기 실시
+
+5년간	5/SN+년/NNB+간/XSN
+기업	기업/NNG
+맞춤형	맞춤/NNG+형/XSN
+공부	공부/NNG
+'고교	'/SS+고교/NNG
+3+전문대	3/SN++/SW+전문대/NNG
+2'	2/SN+'/SS
+통합교육	통합/NNG+교육/NNG
+하반기	하반기/NNG
+실시	실시/NNG
+
+
+# id : NWRW1800000046.145.2.1
+학교 교육과 산업 현장 간 '미스 매치(불일치)' 해소를 위해 정부가 올 하반기부터 '고교-전문대 통합 교육 육성 사업'(Uni-tech)을 운영한다고 26일 밝혔다.
+
+학교	학교/NNG
+교육과	교육/NNG+과/JC
+산업	산업/NNG
+현장	현장/NNG
+간	간/NNB
+'미스	'/SS+미스/NNG
+매치(불일치)'	매치/NNG+(/SS+불/XPN+일치/NNG+)/SS+'/SS
+해소를	해소/NNG+를/JKO
+위해	위하/VV+아/EC
+정부가	정부/NNG+가/JKS
+올	올/NNG
+하반기부터	하반기/NNG+부터/JX
+'고교-전문대	'/SS+고교/NNG+-/SO+전문대/NNG
+통합	통합/NNG
+교육	교육/NNG
+육성	육성/NNG
+사업'(Uni-tech)을	사업/NNG+'/SS+(/SS+Uni/SL+-/SO+tech/SL+)/SS+을/JKO
+운영한다고	운영/NNG+하/XSV+ㄴ다고/EC
+26일	26/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.145.3.1
+교육부는 "특성화고(옛 상고·공고)와 전문대, 기업이 함께 총 5년간의 교육과정(고교 3년+전문대 2년)을 함께 짜고, 교육과정을 졸업한 학생은 해당 기업에 취업을 보장받는 고교-전문대 통합 교육 과정을 운영한다"며 "학생은 고교부터 전문대까지 짜임새 있는 교육을 받고, 기업은 현장에 바로 투입 가능한 인력을 얻게 된다"고 밝혔다.
+
+교육부는	교육부/NNG+는/JX
+"특성화고(옛	"/SS+특성화고/NNG+(/SS+옛/MMA
+상고·공고)와	상고/NNG+·/SP+공고/NNG+)/SS+와/JC
+전문대,	전문대/NNG+,/SP
+기업이	기업/NNG+이/JKS
+함께	함께/MAG
+총	총/MMA
+5년간의	5/SN+년/NNB+간/XSN+의/JKG
+교육과정(고교	교육/NNG+과정/NNG+(/SS+고교/NNG
+3년+전문대	3/SN+년/NNB++/SW+전문대/NNG
+2년)을	2/SN+년/NNB+)/SS+을/JKO
+짜고,	짜/VV+고/EC+,/SP
+교육과정을	교육/NNG+과정/NNG+을/JKO
+졸업한	졸업/NNG+하/XSV+ㄴ/ETM
+학생은	학생/NNG+은/JX
+해당	해당/NNG
+기업에	기업/NNG+에/JKB
+취업을	취업/NNG+을/JKO
+보장받는	보장/NNG+받/XSV+는/ETM
+고교-전문대	고교/NNG+-/SO+전문대/NNG
+통합	통합/NNG
+교육	교육/NNG
+과정을	과정/NNG+을/JKO
+운영한다"며	운영/NNG+하/XSV+ㄴ다/EF+"/SS+며/EC
+"학생은	"/SS+학생/NNG+은/JX
+고교부터	고교/NNG+부터/JX
+전문대까지	전문대/NNG+까지/JX
+짜임새	짜임새/NNG
+있는	있/VA+는/ETM
+교육을	교육/NNG+을/JKO
+받고,	받/VV+고/EC+,/SP
+기업은	기업/NNG+은/JX
+현장에	현장/NNG+에/JKB
+바로	바로/MAG
+투입	투입/NNG
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+인력을	인력/NNG+을/JKO
+얻게	얻/VV+게/EC
+된다"고	되/VV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.145.4.1
+교육부는 특성화고와 전문대, 기업이 함께 컨소시엄을 구성해 사업을 신청하면 올해 하반기 16개 사업단을 선정해 5년간 예산을 지원한다.
+
+교육부는	교육부/NNG+는/JX
+특성화고와	특성화고/NNG+와/JC
+전문대,	전문대/NNG+,/SP
+기업이	기업/NNG+이/JKS
+함께	함께/MAG
+컨소시엄을	컨소시엄/NNG+을/JKO
+구성해	구성/NNG+하/XSV+아/EC
+사업을	사업/NNG+을/JKO
+신청하면	신청/NNG+하/XSV+면/EC
+올해	올해/NNG
+하반기	하반기/NNG
+16개	16/SN+개/NNB
+사업단을	사업단/NNG+을/JKO
+선정해	선정/NNG+하/XSV+아/EC
+5년간	5/SN+년/NNB+간/XSN
+예산을	예산/NNG+을/JKO
+지원한다.	지원/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.145.4.2
+교육부 관계자는 "새로운 학교를 설립하는 것은 아니며, 기존 특성화고와 전문대가 연합해 학생을 교육하게 된다"며 "특성화고는 전체 학생이 아니라 학교당 30~60명 정도 수준의 학생이 사업에 참여하게 된다"고 밝혔다.
+
+교육부	교육부/NNG
+관계자는	관계자/NNG+는/JX
+"새로운	"/SS+새롭/VA+ㄴ/ETM
+학교를	학교/NNG+를/JKO
+설립하는	설립/NNG+하/XSV+는/ETM
+것은	것/NNB+은/JX
+아니며,	아니/VCN+며/EC+,/SP
+기존	기존/NNG
+특성화고와	특성화고/NNG+와/JC
+전문대가	전문대/NNG+가/JKS
+연합해	연합/NNG+하/XSV+아/EC
+학생을	학생/NNG+을/JKO
+교육하게	교육/NNG+하/XSV+게/EC
+된다"며	되/VV+ㄴ다/EF+"/SS+며/EC
+"특성화고는	"/SS+특성화고/NNG+는/JX
+전체	전체/NNG
+학생이	학생/NNG+이/JKS
+아니라	아니/VCN+라/EC
+학교당	학교/NNG+당/XSN
+30~60명	30/SN+~/SO+60/SN+명/NNB
+정도	정도/NNG
+수준의	수준/NNG+의/JKG
+사업에	사업/NNG+에/JKB
+참여하게	참여/NNG+하/XSV+게/EC
+된다"고	되/VV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.145.5.1
+Uni-tech는 글로벌 기업 IBM이 뉴욕시, 뉴욕시립대와 손을 잡고 2011년 뉴욕 브루클린 저소득층 지역에 처음 문을 연 'P-TECH'를 벤치마킹한 직업교육 모델이다.
+
+Uni-tech는	Uni/SL+-/SO+tech/SL+는/JX
+글로벌	글로벌/NNG
+기업	기업/NNG
+IBM이	IBM/SL+이/JKS
+뉴욕시,	뉴욕시/NNP+,/SP
+뉴욕시립대와	뉴욕시립대/NNP+와/JKB
+손을	손/NNG+을/JKO
+잡고	잡/VV+고/EC
+2011년	2011/SN+년/NNB
+뉴욕	뉴욕/NNP
+브루클린	브루클린/NNP
+저소득층	저/XPN+소득/NNG+층/XSN
+지역에	지역/NNG+에/JKB
+처음	처음/NNG
+문을	문/NNG+을/JKO
+연	열/VV+ㄴ/ETM
+'P-TECH'를	'/SS+P/SL+-/SO+TECH/SL+'/SS+를/JKO
+벤치마킹한	벤치마킹/NNG+하/XSV+ㄴ/ETM
+직업교육	직업/NNG+교육/NNG
+모델이다.	모델/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.145.5.2
+P-TECH는 고등학교 4년과 전문대 2년을 통합해 6년 과정으로 운영되는 실험적인 학교 시스템이다.
+
+P-TECH는	P/SL+-/SO+TECH/SL+는/JX
+고등학교	고등학교/NNG
+4년과	4/SN+년/NNB+과/JC
+전문대	전문대/NNG
+2년을	2/SN+년/NNB+을/JKO
+통합해	통합/NNG+하/XSV+아/EC
+6년	6/SN+년/NNB
+과정으로	과정/NNG+으로/JKB
+운영되는	운영/NNG+되/XSV+는/ETM
+실험적인	실험/NNG+적/XSN+이/VCP+ㄴ/ETM
+학교	학교/NNG
+시스템이다.	시스템/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.145.5.3
+IBM 직원들이 직접 학생들의 멘토가 되어 주고 현장 실습도 해준다.
+
+IBM	IBM/SL
+직원들이	직원/NNG+들/XSN+이/JKS
+직접	직접/MAG
+학생들의	학생/NNG+들/XSN+의/JKG
+멘토가	멘토/NNG+가/JKC
+되어	되/VV+어/EC
+주고	주/VX+고/EC
+현장	현장/NNG
+실습도	실습/NNG+도/JX
+해준다.	하/VV+아/EC+주/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.145.5.4
+미국 오바마 대통령이 2013년 신년 연설에서 "모든 미국인 학생에게 P-TECH 같은 교육 기회를 줘야 한다"고 극찬하면서 교육 혁명의 아이콘으로 떠올랐다.
+
+미국	미국/NNP
+오바마	오바마/NNP
+대통령이	대통령/NNG+이/JKS
+2013년	2013/SN+년/NNB
+신년	신년/NNG
+연설에서	연설/NNG+에서/JKB
+"모든	"/SS+모든/MMN
+미국인	미국인/NNG
+학생에게	학생/NNG+에게/JKB
+P-TECH	P/SL+-/SO+TECH/SL
+같은	같/VA+은/ETM
+교육	교육/NNG
+기회를	기회/NNG+를/JKO
+줘야	주/VV+어야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+극찬하면서	극찬/NNG+하/XSV+면서/EC
+혁명의	혁명/NNG+의/JKG
+아이콘으로	아이콘/NNG+으로/JKB
+떠올랐다.	떠오르/VV+았/EP+다/EF+./SF
+
+

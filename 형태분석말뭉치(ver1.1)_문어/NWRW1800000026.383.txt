@@ -1,0 +1,120 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.383
+metadata : {}
+
+
+# id : NWRW1800000026.383.1.1
+'불공정거래 혐의' G마켓 압수수색
+
+'불공정거래	'/SS+불/XPN+공정/NNG+거래/NNG
+혐의'	혐의/NNG+'/SS
+G마켓	G마켓/NNP
+압수수색	압수/NNG+수색/NNG
+
+
+# id : NWRW1800000026.383.2.1
+서울중앙지검 형사6부(차경환 부장검사)는 24일 국내 1위 온라인 쇼핑몰 G마켓이 경쟁사와 상품공급업체 간 거래를 방해하는 등 불공정거래 행위를 한 혐의를 포착하고 회사를 압수수색했다.
+
+서울중앙지검	서울중앙지검/NNP
+형사6부(차경환	형사/NNG+6/SN+부/NNG+(/SS+차경환/NNP
+부장검사)는	부장/NNG+검사/NNG+)/SS+는/JX
+24일	24/SN+일/NNB
+국내	국내/NNG
+1위	1/SN+위/NNB
+온라인	온라인/NNG
+쇼핑몰	쇼핑몰/NNG
+G마켓이	G마켓/NNP+이/JKS
+경쟁사와	경쟁사/NNG+와/JKB
+상품공급업체	상품/NNG+공급업체/NNG
+간	간/NNB
+거래를	거래/NNG+를/JKO
+방해하는	방해/NNG+하/XSV+는/ETM
+등	등/NNB
+불공정거래	불/XPN+공정/NNG+거래/NNG
+행위를	행위/NNG+를/JKO
+한	하/VV+ㄴ/ETM
+혐의를	혐의/NNG+를/JKO
+포착하고	포착/NNG+하/XSV+고/EC
+회사를	회사/NNG+를/JKO
+압수수색했다.	압수/NNG+수색/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.383.3.1
+검찰은 이날 오전 서울 강남구 역삼동에 있는 G마켓 본사 사무실을 압수수색해 상품 거래내역서와 회계 관련 서류 등을 확보한 것으로 알려졌다.
+
+검찰은	검찰/NNG+은/JX
+이날	이날/NNG
+오전	오전/NNG
+서울	서울/NNP
+강남구	강남구/NNP
+역삼동에	역삼동/NNP+에/JKB
+있는	있/VA+는/ETM
+G마켓	G마켓/NNP
+본사	본사/NNG
+사무실을	사무실/NNG+을/JKO
+압수수색해	압수/NNG+수색/NNG+하/XSV+아/EC
+상품	상품/NNG
+거래내역서와	거래/NNG+내역서/NNG+와/JC
+회계	회계/NNG
+관련	관련/NNG
+서류	서류/NNG
+등을	등/NNB+을/JKO
+확보한	확보/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.383.4.1
+검찰은 G마켓이 의류 판매업자 등에게 경쟁업체인 11번가에 공급하는 상품 가격을 인상하거나 상품 공급을 중단할 경우에만 G마켓의 이벤트에 참여시키겠다고 압력을 행사한 정황을 잡고 수사 중인 것으로 전해졌다.
+
+검찰은	검찰/NNG+은/JX
+G마켓이	G마켓/NNP+이/JKS
+의류	의류/NNG
+판매업자	판매업자/NNG
+등에게	등/NNB+에게/JKB
+경쟁업체인	경쟁업체/NNG+이/VCP+ㄴ/ETM
+11번가에	11번가/NNP+에/JKB
+공급하는	공급/NNG+하/XSV+는/ETM
+상품	상품/NNG
+가격을	가격/NNG+을/JKO
+인상하거나	인상/NNG+하/XSV+거나/EC
+공급을	공급/NNG+을/JKO
+중단할	중단/NNG+하/XSV+ㄹ/ETM
+경우에만	경우/NNG+에/JKB+만/JX
+G마켓의	G마켓/NNP+의/JKG
+이벤트에	이벤트/NNG+에/JKB
+참여시키겠다고	참여/NNG+시키/XSV+겠/EP+다고/EC
+압력을	압력/NNG+을/JKO
+행사한	행사/NNG+하/XSV+ㄴ/ETM
+정황을	정황/NNG+을/JKO
+잡고	잡/VV+고/EC
+수사	수사/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+전해졌다.	전하/VV+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.383.5.1
+검찰은 G마켓의 불공정거래 행위를 뒷받침하는 구체적 단서를 확보하면 해당 임직원을 불러 사실 관계를 확인할 계획이다.
+
+검찰은	검찰/NNG+은/JX
+G마켓의	G마켓/NNP+의/JKG
+불공정거래	불/XPN+공정/NNG+거래/NNG
+행위를	행위/NNG+를/JKO
+뒷받침하는	뒷받침/NNG+하/XSV+는/ETM
+구체적	구체/NNG+적/XSN
+단서를	단서/NNG+를/JKO
+확보하면	확보/NNG+하/XSV+면/EC
+해당	해당/NNG
+임직원을	임직원/NNG+을/JKO
+불러	부르/VV+어/EC
+사실	사실/MAG
+관계를	관계/NNG+를/JKO
+확인할	확인/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+

@@ -1,0 +1,246 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.55
+metadata : {}
+
+
+# id : NWRW1800000033.55.1.1
+KB금융, ING생명 인수 끝내 무산
+
+KB금융,	KB금융/NNP+,/SP
+ING생명	ING생명/NNP
+인수	인수/NNG
+끝내	끝내/MAG
+무산	무산/NNG
+
+
+# id : NWRW1800000033.55.2.1
+이사회 찬반 5 대 5로 부결… 금융환경 불투명 부담된 듯 어윤대 회장 리더십 흔들
+
+이사회	이사회/NNG
+찬반	찬반/NNG
+5	5/SN
+대	대/NNB
+5로	5/SN+로/JKB
+부결…	부결/NNG+…/SE
+금융환경	금융/NNG+환경/NNG
+불투명	불/XPN+투명/NNG
+부담된	부담/NNG+되/XSV+ㄴ/ETM
+듯	듯/NNB
+어윤대	어윤대/NNP
+회장	회장/NNG
+리더십	리더십/NNG
+흔들	흔들/XR
+
+
+# id : NWRW1800000033.55.3.1
+KB금융그룹의 ING생명 한국법인 인수가 무산됐다.
+
+KB금융그룹의	KB금융그룹/NNP+의/JKG
+ING생명	ING생명/NNP
+한국법인	한국/NNP+법인/NNG
+인수가	인수/NNG+가/JKS
+무산됐다.	무산/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.4.1
+KB금융은 18일 서울 중구 명동 본사에서 임시 이사회를 열어 ING생명 한국법인을 인수를 두고 이례적으로 표결에 부친 결과 찬성 5명, 반대 5명, 기권 2명으로 안건이 부결됐다고 밝혔다.
+
+KB금융은	KB금융/NNP+은/JX
+18일	18/SN+일/NNB
+서울	서울/NNP
+중구	중구/NNP
+명동	명동/NNP
+본사에서	본사/NNG+에서/JKB
+임시	임시/NNG
+이사회를	이사회/NNG+를/JKO
+열어	열/VV+어/EC
+ING생명	ING생명/NNP
+한국법인을	한국/NNP+법인/NNG+을/JKO
+인수를	인수/NNG+를/JKO
+두고	두/VV+고/EC
+이례적으로	이례/NNG+적/XSN+으로/JKB
+표결에	표결/NNG+에/JKB
+부친	부치/VV+ㄴ/ETM
+결과	결과/NNG
+찬성	찬성/NNG
+5명,	5/SN+명/NNB+,/SP
+반대	반대/NNG
+기권	기권/NNG
+2명으로	2/SN+명/NNB+으로/JKB
+안건이	안건/NNG+이/JKS
+부결됐다고	부결/NNG+되/XSV+었/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.4.2
+7명 이상이 찬성해야 가결된다.
+
+7명	7/SN+명/NNB
+이상이	이상/NNG+이/JKS
+찬성해야	찬성/NNG+하/XSV+아야/EC
+가결된다.	가결/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.55.5.1
+KB금융은 비(非)은행 계열의 수익을 다각화하기 위해 올해 7월 ING생명 한국법인의 입찰에 참여해 9월 우선협상대상자로 선정됐었다.
+
+KB금융은	KB금융/NNP+은/JX
+비(非)은행	비/XPN+(/SS+非/SH+)/SS+은행/NNG
+계열의	계열/NNG+의/JKG
+수익을	수익/NNG+을/JKO
+다각화하기	다각/NNG+화/XSN+하/XSV+기/ETN
+위해	위하/VV+아/EC
+올해	올해/NNG
+7월	7/SN+월/NNB
+ING생명	ING생명/NNP
+한국법인의	한국/NNP+법인/NNG+의/JKG
+입찰에	입찰/NNG+에/JKB
+참여해	참여/NNG+하/XSV+아/EC
+9월	9/SN+월/NNB
+우선협상대상자로	우선/NNG+협상/NNG+대상자/NNG+로/JKB
+선정됐었다.	선정/NNG+되/XSV+었었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.5.2
+하지만 일부 사외이사는 내년 경기가 불확실한 데다 저금리로 보험업 업황이 좋지 않다는 이유로 ING생명 한국법인 인수를 반대했다.
+
+하지만	하지만/MAJ
+일부	일부/NNG
+사외이사는	사외/NNG+이사/NNG+는/JX
+내년	내년/NNG
+경기가	경기/NNG+가/JKS
+불확실한	불확실/NNG+하/XSA+ㄴ/ETM
+데다	데/NNB+다/JX
+저금리로	저/XPN+금리/NNG+로/JKB
+보험업	보험업/NNG
+업황이	업황/NNG+이/JKS
+좋지	좋/VA+지/EC
+않다는	않/VX+다는/ETM
+이유로	이유/NNG+로/JKB
+ING생명	ING생명/NNP
+한국법인	한국/NNP+법인/NNG
+인수를	인수/NNG+를/JKO
+반대했다.	반대/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.5.3
+금융당국이 대형 인수합병(M&A)에 따른 건전성 악화 우려를 들어 인수에 부정적인 신호를 보낸 점도 영향을 미친 것으로 풀이됐다.
+
+금융당국이	금융/NNG+당국/NNG+이/JKS
+대형	대형/NNG
+인수합병(M&A)에	인수/NNG+합병/NNG+(/SS+M/SL+&/SW+A/SL+)/SS+에/JKB
+따른	따르/VV+ㄴ/ETM
+건전성	건전/NNG+성/XSN
+악화	악화/NNG
+우려를	우려/NNG+를/JKO
+들어	들/VV+어/EC
+인수에	인수/NNG+에/JKB
+부정적인	부정/NNG+적/XSN+이/VCP+ㄴ/ETM
+신호를	신호/NNG+를/JKO
+보낸	보내/VV+ㄴ/ETM
+점도	점/NNG+도/JX
+영향을	영향/NNG+을/JKO
+미친	미치/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+풀이됐다.	풀이/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.6.1
+KB금융은 “이사회가 새 수익원 창출을 위한 보험사 인수 필요성은 공감했지만 서민·중소기업 지원을 비롯한 금융의 사회적 책임을 다하기 위해 높은 수준의 자본 적정성을 유지하는 게 무엇보다 중요한 시점이라고 판단했다”고 설명했다.
+
+KB금융은	KB금융/NNP+은/JX
+“이사회가	“/SS+이사회/NNG+가/JKS
+새	새/MMA
+수익원	수익원/NNG
+창출을	창출/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+보험사	보험사/NNG
+인수	인수/NNG
+필요성은	필요/NNG+성/XSN+은/JX
+공감했지만	공감/NNG+하/XSV+았/EP+지만/EC
+서민·중소기업	서민/NNG+·/SP+중소기업/NNG
+지원을	지원/NNG+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+금융의	금융/NNG+의/JKG
+사회적	사회/NNG+적/XSN
+책임을	책임/NNG+을/JKO
+다하기	다/MAG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+높은	높/VA+은/ETM
+수준의	수준/NNG+의/JKG
+자본	자본/NNG
+적정성을	적정/NNG+성/XSN+을/JKO
+유지하는	유지/NNG+하/XSV+는/ETM
+게	거/NNB+이/JKS
+무엇보다	무엇/NP+보다/JKB
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+시점이라고	시점/NNG+이/VCP+라고/EC
+판단했다”고	판단/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.7.1
+앞서 5일 열린 이사회에서도 KB금융은 인수 가격을 당초 협상 가격(2조6000억∼2조7000억 원)보다 낮은 2조2000억 원으로 제시했지만 사외이사들은 반대 의견을 고수했었다.
+
+앞서	앞서/MAG
+5일	5/SN+일/NNB
+열린	열리/VV+ㄴ/ETM
+이사회에서도	이사회/NNG+에서/JKB+도/JX
+KB금융은	KB금융/NNP+은/JX
+인수	인수/NNG
+가격을	가격/NNG+을/JKO
+당초	당초/NNG
+협상	협상/NNG
+가격(2조6000억∼2조7000억	가격/NNG+(/SS+2/SN+조/NR+6000/SN+억/NR+∼/SO+2/SN+조/NR+7000/SN+억/NR
+원)보다	원/NNB+)/SS+보다/JKB
+낮은	낮/VA+은/ETM
+2조2000억	2/SN+조/NR+2000/SN+억/NR
+원으로	원/NNB+으로/JKB
+제시했지만	제시/NNG+하/XSV+았/EP+지만/EC
+사외이사들은	사외/NNG+이사/NNG+들/XSN+은/JX
+반대	반대/NNG
+의견을	의견/NNG+을/JKO
+고수했었다.	고수/NNG+하/XSV+았었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.55.8.1
+금융계는 이명박 정부의 임기가 끝나 가면서 ‘MB맨’으로 꼽히는 어윤대 KB금융 회장의 리더십이 약해졌다고 평가하고 있다.
+
+금융계는	금융/NNG+계/XSN+는/JX
+이명박	이명박/NNP
+정부의	정부/NNG+의/JKG
+임기가	임기/NNG+가/JKS
+끝나	끝나/VV+아/EC
+가면서	가/VX+면서/EC
+‘MB맨’으로	‘/SS+MB/SL+맨/NNG+’/SS+으로/JKB
+꼽히는	꼽히/VV+는/ETM
+어윤대	어윤대/NNP
+KB금융	KB금융/NNP
+회장의	회장/NNG+의/JKG
+리더십이	리더십/NNG+이/JKS
+약해졌다고	약하/VA+아/EC+지/VX+었/EP+다고/EC
+평가하고	평가/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.55.8.2
+어 회장이 ING생명의 한국법인 인수를 의욕적으로 추진했지만 사외이사들을 설득하는 데 실패했기 때문이다.
+
+어	어/NNP
+회장이	회장/NNG+이/JKS
+ING생명의	ING생명/NNP+의/JKG
+한국법인	한국/NNP+법인/NNG
+인수를	인수/NNG+를/JKO
+의욕적으로	의욕/NNG+적/XSN+으로/JKB
+추진했지만	추진/NNG+하/XSV+았/EP+지만/EC
+사외이사들을	사외/NNG+이사/NNG+들/XSN+을/JKO
+설득하는	설득/NNG+하/XSV+는/ETM
+데	데/NNB
+실패했기	실패/NNG+하/XSV+았/EP+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+

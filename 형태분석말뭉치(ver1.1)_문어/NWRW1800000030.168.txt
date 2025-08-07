@@ -1,0 +1,272 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.168
+metadata : {}
+
+
+# id : NWRW1800000030.168.1.1
+미국인이 60대 폭행할때 버스 승객 아무도 안 나섰다
+
+미국인이	미국인/NNG+이/JKS
+60대	60/SN+대/NNB
+폭행할때	폭행/NNG+하/XSV+ㄹ/ETM+때/NNG
+버스	버스/NNG
+승객	승객/NNG
+아무도	아무/NP+도/JX
+안	안/MAG
+나섰다	나서/VV+었/EP+다/EF
+
+
+# id : NWRW1800000030.168.2.1
+?한 승객이 112 신고, 출동 경찰에 붙잡혀
+
+?한	?/SF+한/MMN
+승객이	승객/NNG+이/JKS
+112	112/SN
+신고,	신고/NNG+,/SP
+출동	출동/NNG
+경찰에	경찰/NNG+에/JKB
+붙잡혀	붙잡히/VV+어/EF
+
+
+# id : NWRW1800000030.168.3.1
+경기도 분당경찰서는 시내버스에서 60대 승객을 폭행한 혐의로 흑인 영어 강사 H(24)씨를 불구속 입건했다고 29일 밝혔다.
+
+경기도	경기도/NNP
+분당경찰서는	분당경찰서/NNP+는/JX
+시내버스에서	시내버스/NNG+에서/JKB
+60대	60/SN+대/NNB
+승객을	승객/NNG+을/JKO
+폭행한	폭행/NNG+하/XSV+ㄴ/ETM
+혐의로	혐의/NNG+로/JKB
+흑인	흑인/NNG
+영어	영어/NNP
+강사	강사/NNG
+H(24)씨를	H/SL+(/SS+24/SN+)/SS+씨/NNB+를/JKO
+불구속	불/XPN+구속/NNG
+입건했다고	입건/NNG+하/XSV+았/EP+다고/EC
+29일	29/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.4.1
+분당의 영어학원에서 강사로 일하고 있는 미국인 H씨는 지난 27일 밤 11시 10분쯤 성남시 지하철 8호선 모란역에서 분당 방면으로 운행하던 시내버스에서 좌석에 앉아 있던 선모(61)씨에게 'shut up(입 다물어)', '개××야' 등 영어와 한국어로 욕을 하고 얼굴을 때린 혐의를 받고 있다.
+
+분당의	분당/NNP+의/JKG
+영어학원에서	영어/NNP+학원/NNG+에서/JKB
+강사로	강사/NNG+로/JKB
+일하고	일/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+미국인	미국인/NNG
+H씨는	H/SL+씨/NNB+는/JX
+지난	지나/VV+ㄴ/ETM
+27일	27/SN+일/NNB
+밤	밤/NNG
+11시	11/SN+시/NNB
+10분쯤	10/SN+분/NNB+쯤/XSN
+성남시	성남시/NNP
+지하철	지하철/NNG
+8호선	8/SN+호선/NNB
+모란역에서	모란역/NNP+에서/JKB
+분당	분당/NNP
+방면으로	방면/NNG+으로/JKB
+운행하던	운행/NNG+하/XSV+던/ETM
+시내버스에서	시내버스/NNG+에서/JKB
+좌석에	좌석/NNG+에/JKB
+앉아	앉/VV+아/EC
+있던	있/VX+던/ETM
+선모(61)씨에게	선/NNP+모/NP+(/SS+61/SN+)/SS+씨/NNB+에게/JKB
+'shut	'/SS+shut/SL
+up(입	up/SL+(/SS+입/NNG
+다물어)',	다물/VV+어/EC+)/SS+'/SS+,/SP
+'개××야'	'/SS+개××/NF+야/JKV+'/SS
+등	등/NNB
+영어와	영어/NNP+와/JC
+한국어로	한국어/NNP+로/JKB
+욕을	욕/NNG+을/JKO
+하고	하/VV+고/EC
+얼굴을	얼굴/NNG+을/JKO
+때린	때리/VV+ㄴ/ETM
+혐의를	혐의/NNG+를/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.168.5.1
+H씨는 버스 안에서 큰 목소리로 통화하던 중 선씨가 영어로 'shut up'이라고 말하자 흥분해 선씨에게 욕을 하며 폭행했다고 경찰은 밝혔다.
+
+H씨는	H/SL+씨/NNB+는/JX
+버스	버스/NNG
+안에서	안/NNG+에서/JKB
+큰	크/VA+ㄴ/ETM
+목소리로	목소리/NNG+로/JKB
+통화하던	통화/NNG+하/XSV+던/ETM
+중	중/NNB
+선씨가	선/NNP+씨/NNB+가/JKS
+영어로	영어/NNP+로/JKB
+'shut	'/SS+shut/SL
+up'이라고	up/SL+'/SS+이라고/JKQ
+말하자	말/NNG+하/XSV+자/EC
+흥분해	흥분/NNG+하/XSV+아/EC
+선씨에게	선/NNP+씨/NNB+에게/JKB
+욕을	욕/NNG+을/JKO
+하며	하/VV+며/EC
+폭행했다고	폭행/NNG+하/XSV+았/EP+다고/EC
+경찰은	경찰/NNG+은/JX
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.6.1
+H씨는 여자 일행이 말리는 상황에서도 선씨의 목을 누르며 주먹을 휘둘렀고, 이 상황을 지켜보던 승객이 112에 신고했다고 경찰은 말했다.
+
+H씨는	H/SL+씨/NNB+는/JX
+여자	여자/NNG
+일행이	일행/NNG+이/JKS
+말리는	말리/VV+는/ETM
+상황에서도	상황/NNG+에서/JKB+도/JX
+선씨의	선/NNP+씨/NNB+의/JKG
+목을	목/NNG+을/JKO
+누르며	누르/VV+며/EC
+주먹을	주먹/NNG+을/JKO
+휘둘렀고,	휘두르/VV+었/EP+고/EC+,/SP
+이	이/MMD
+상황을	상황/NNG+을/JKO
+지켜보던	지켜보/VV+던/ETM
+승객이	승객/NNG+이/JKS
+112에	112/SN+에/JKB
+신고했다고	신고/NNG+하/XSV+았/EP+다고/EC
+경찰은	경찰/NNG+은/JX
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.6.2
+일부 승객은 버스기사에게 "경찰서로 차를 돌리라"고 소리쳤으며, 112 신고를 접수한 경찰이 출동해 버스에 타고 있던 H씨를 붙잡아 인근 지구대로 데려갔다.
+
+일부	일부/NNG
+승객은	승객/NNG+은/JX
+버스기사에게	버스/NNG+기사/NNG+에게/JKB
+"경찰서로	"/SS+경찰서/NNG+로/JKB
+차를	차/NNG+를/JKO
+돌리라"고	돌리/VV+라/EF+"/SS+고/JKQ
+소리쳤으며,	소리치/VV+었/EP+으며/EC+,/SP
+112	112/SN
+신고를	신고/NNG+를/JKO
+접수한	접수/NNG+하/XSV+ㄴ/ETM
+경찰이	경찰/NNG+이/JKS
+출동해	출동/NNG+하/XSV+아/EC
+버스에	버스/NNG+에/JKB
+타고	타/VV+고/EC
+있던	있/VX+던/ETM
+H씨를	H/SL+씨/NNB+를/JKO
+붙잡아	붙잡/VV+아/EC
+인근	인근/NNG
+지구대로	지구대/NNG+로/JKB
+데려갔다.	데려가/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.7.1
+사건은 지난 28일 오후 인터넷 포털사이트에 '흑인 노인 폭행' 등의 제목으로 동영상이 퍼지면서 알려지게 됐다.
+
+사건은	사건/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+28일	28/SN+일/NNB
+오후	오후/NNG
+인터넷	인터넷/NNG
+포털사이트에	포털/NNG+사이트/NNG+에/JKB
+'흑인	'/SS+흑인/NNG
+노인	노인/NNG
+폭행'	폭행/NNG+'/SS
+등의	등/NNB+의/JKG
+제목으로	제목/NNG+으로/JKB
+동영상이	동영상/NNG+이/JKS
+퍼지면서	퍼지/VV+면서/EC
+알려지게	알려지/VV+게/EC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.7.2
+동영상에는 H씨가 버스 좌석에 앉아 있는 선씨에게 욕을 하고 얼굴을 때리는 듯한 장면이 담겨 있다.
+
+동영상에는	동영상/NNG+에/JKB+는/JX
+H씨가	H/SL+씨/NNB+가/JKS
+버스	버스/NNG
+좌석에	좌석/NNG+에/JKB
+앉아	앉/VV+아/EC
+있는	있/VX+는/ETM
+선씨에게	선/NNP+씨/NNB+에게/JKB
+욕을	욕/NNG+을/JKO
+하고	하/VV+고/EC
+얼굴을	얼굴/NNG+을/JKO
+때리는	때리/VV+는/ETM
+듯한	듯/NNB+하/XSA+ㄴ/ETM
+장면이	장면/NNG+이/JKS
+담겨	담기/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.168.8.1
+자신이 사건 목격자라고 밝힌 한 네티즌은 선씨가 "니가 여기(자리에) 앉아"라고 한 말을 H씨가 "니거(nigger·깜둥이)"로 잘못 알아들어 사건이 일어난 것이란 주장을 인터넷에 올리기도 했다.
+
+자신이	자신/NNG+이/JKS
+사건	사건/NNG
+목격자라고	목격자/NNG+이/VCP+라고/EC
+밝힌	밝히/VV+ㄴ/ETM
+한	하/VV+ㄴ/ETM
+네티즌은	네티즌/NNG+은/JX
+선씨가	선/NNP+씨/NNB+가/JKS
+"니가	"/SS+니/NP+가/JKS
+여기(자리에)	여기/NP+(/SS+자리/NNG+에/JKB+)/SS
+앉아"라고	앉/VV+아/EF+"/SS+라고/JKQ
+말을	말/NNG+을/JKO
+H씨가	H/SL+씨/NNB+가/JKS
+"니거(nigger·깜둥이)"로	"/SS+니거/NNG+(/SS+nigger/SL+·/SP+깜둥이/NNG+)/SS+"/SS+로/JKB
+잘못	잘못/MAG
+알아들어	알아듣/VV+어/EC
+사건이	사건/NNG+이/JKS
+일어난	일어나/VV+ㄴ/ETM
+것이란	것/NNB+이/VCP+란/ETM
+주장을	주장/NNG+을/JKO
+인터넷에	인터넷/NNG+에/JKB
+올리기도	올리/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.8.2
+일부 네티즌은 동영상에서 버스 승객 중 적극적으로 나서 H씨를 말리는 사람이 없었다며 분통을 터뜨리기도 했다.
+
+일부	일부/NNG
+네티즌은	네티즌/NNG+은/JX
+동영상에서	동영상/NNG+에서/JKB
+버스	버스/NNG
+승객	승객/NNG
+중	중/NNB
+적극적으로	적극/NNG+적/XSN+으로/JKB
+나서	나서/VV+어/EC
+H씨를	H/SL+씨/NNB+를/JKO
+말리는	말리/VV+는/ETM
+사람이	사람/NNG+이/JKS
+없었다며	없/VA+었/EP+다며/EC
+분통을	분통/NNG+을/JKO
+터뜨리기도	터뜨리/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.168.9.1
+경찰 관계자는 "H씨를 다시 불러 정확한 사고 경위를 조사할 계획"이라고 말했다.
+
+경찰	경찰/NNG
+관계자는	관계자/NNG+는/JX
+"H씨를	"/SS+H/SL+씨/NNB+를/JKO
+다시	다시/MAG
+불러	부르/VV+어/EC
+정확한	정확/NNG+하/XSA+ㄴ/ETM
+사고	사고/NNG
+경위를	경위/NNG+를/JKO
+조사할	조사/NNG+하/XSV+ㄹ/ETM
+계획"이라고	계획/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

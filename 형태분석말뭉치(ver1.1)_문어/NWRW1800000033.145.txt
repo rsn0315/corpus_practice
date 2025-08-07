@@ -1,0 +1,292 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.145
+metadata : {}
+
+
+# id : NWRW1800000033.145.1.1
+‘이엉돈’ PD가 제안한 이영돈 PD의 출연… 무산된 진짜 이유는?
+
+‘이엉돈’	‘/SS+이엉돈/NNP+’/SS
+PD가	PD/SL+가/JKS
+제안한	제안/NNG+하/XSV+ㄴ/ETM
+이영돈	이영돈/NNP
+PD의	PD/SL+의/JKG
+출연…	출연/NNG+…/SE
+무산된	무산/NNG+되/XSV+ㄴ/ETM
+진짜	진짜/NNG
+이유는?	이유/NNG+는/JX+?/SF
+
+
+# id : NWRW1800000033.145.2.1
+‘이영돈’ PD와 ‘이엉돈’ PD의 만남이 무산됐다.
+
+‘이영돈’	‘/SS+이영돈/NNP+’/SS
+PD와	PD/SL+와/JC
+‘이엉돈’	‘/SS+이엉돈/NNP+’/SS
+PD의	PD/SL+의/JKG
+만남이	만남/NNG+이/JKS
+무산됐다.	무산/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.3.1
+‘이엉돈 PD’는 tvN 코미디프로그램 ‘SNL 코리아’(토요일 오후 11시) 중 ‘이엉돈 PD의 먹거리 X파일’ 코너에 등장하는 코믹 캐릭터.
+
+‘이엉돈	‘/SS+이엉돈/NNP
+PD’는	PD/SL+’/SS+는/JX
+tvN	tvN/SL
+코미디프로그램	코미디/NNG+프로그램/NNG
+‘SNL	‘/SS+SNL/SL
+코리아’(토요일	코리아/NNP+’/SS+(/SS+토요일/NNG
+오후	오후/NNG
+11시)	11/SN+시/NNB+)/SS
+중	중/NNB
+PD의	PD/SL+의/JKG
+먹거리	먹거리/NNG
+X파일’	X/SL+파일/NNG+’/SS
+코너에	코너/NNG+에/JKB
+등장하는	등장/NNG+하/XSV+는/ETM
+코믹	코믹/NNG
+캐릭터.	캐릭터/NNG+./SF
+
+
+# id : NWRW1800000033.145.3.2
+신동엽이 연기하는 이 캐릭터는 종합편성TV 채널A ‘이영돈 PD의 먹거리 X파일’(금요일 오후11시)의 진행자 이영돈 PD를 패러디한 것이다.
+
+신동엽이	신동엽/NNP+이/JKS
+연기하는	연기/NNG+하/XSV+는/ETM
+이	이/MMD
+캐릭터는	캐릭터/NNG+는/JX
+종합편성TV	종합/NNG+편성/NNG+TV/SL
+채널A	채널A/NNP
+‘이영돈	‘/SS+이영돈/NNP
+PD의	PD/SL+의/JKG
+먹거리	먹거리/NNG
+X파일’(금요일	X/SL+파일/NNG+’/SS+(/SS+금요일/NNG
+오후11시)의	오후/NNG+11/SN+시/NNB+)/SS+의/JKG
+진행자	진행자/NNG
+이영돈	이영돈/NNP
+PD를	PD/SL+를/JKO
+패러디한	패러디/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.3.3
+‘SNL…’은 15일 방영분에서 시청률 2.6%(AGB닐슨, 케이블 가입가구 기준)를 나타내며 호조를 보이고 있다.
+
+‘SNL…’은	‘/SS+SNL/SL+…/SE+’/SS+은/JX
+15일	15/SN+일/NNB
+방영분에서	방영/NNG+분/XSN+에서/JKB
+시청률	시청/NNG+률/XSN
+2.6%(AGB닐슨,	2/SN+./SP+6/SN+%/SW+(/SS+AGB닐슨/NNP+,/SP
+케이블	케이블/NNG
+가입가구	가입/NNG+가구/NNG
+기준)를	기준/NNG+)/SS+를/JKO
+나타내며	나타내/VV+며/EC
+호조를	호조/NNG+를/JKO
+보이고	보이/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.145.4.1
+내용은 비교적 단순하다.
+
+내용은	내용/NNG+은/JX
+비교적	비교/NNG+적/XSN
+단순하다.	단순/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000033.145.4.2
+예를 들어 무인도의 한 남성이 허기진 끝에 갈매기살을 발견해 먹으려고 하면 이엉돈 PD(신동엽)가 등장해 “갈매기살.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+무인도의	무인도/NNG+의/JKG
+한	한/MMN
+남성이	남성/NNG+이/JKS
+허기진	허기지/VV+ㄴ/ETM
+끝에	끝/NNG+에/JKB
+갈매기살을	갈매기살/NNG+을/JKO
+발견해	발견/NNG+하/XSV+아/EC
+먹으려고	먹/VV+으려고/EC
+하면	하/VX+면/EC
+이엉돈	이엉돈/NNP
+PD(신동엽)가	PD/SL+(/SS+신동엽/NNP+)/SS+가/JKS
+등장해	등장/NNG+하/XSV+아/EC
+“갈매기살.	“/SS+갈매기살/NNG+./SF
+
+
+# id : NWRW1800000033.145.4.3
+제가 한번 먹어 보겠습니다”라며 뺏어 먹는다.
+
+제가	제/NP+가/JKS
+한번	한번/MAG
+먹어	먹/VV+어/EC
+보겠습니다”라며	보/VX+겠/EP+습니다/EF+”/SS+이/VCP+라며/EC
+뺏어	뺏/VV+어/EC
+먹는다.	먹/VV+는다/EF+./SF
+
+
+# id : NWRW1800000033.145.4.4
+이후 “육즙이 살아 있는 게 맛이 아주 좋습니다”라며 착한 음식을 시식한 뒤의 이영돈 PD 특유의 말투를 흉내 내는 식이다.
+
+이후	이후/NNG
+“육즙이	“/SS+육즙/NNG+이/JKS
+살아	살/VV+아/EC
+있는	있/VX+는/ETM
+게	거/NNB+이/JKS
+맛이	맛/NNG+이/JKS
+아주	아주/MAG
+좋습니다”라며	좋/VA+습니다/EF+”/SS+이/VCP+라며/EC
+착한	착하/VA+ㄴ/ETM
+음식을	음식/NNG+을/JKO
+시식한	시식/NNG+하/XSV+ㄴ/ETM
+뒤의	뒤/NNG+의/JKG
+이영돈	이영돈/NNP
+PD	PD/SL
+특유의	특유/NNG+의/JKG
+말투를	말투/NNG+를/JKO
+흉내	흉내/NNG
+내는	내/VV+는/ETM
+식이다.	식/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.5.1
+시청자들의 호응이 크자 ‘SNL…’ 제작진은 패러디 모델인 이영돈 PD를 이 코너에 출연시키기로 결정했다.
+
+시청자들의	시청자/NNG+들/XSN+의/JKG
+호응이	호응/NNG+이/JKS
+크자	크/VA+자/EC
+‘SNL…’	‘/SS+SNL/SL+…/SE+’/SS
+제작진은	제작진/NNG+은/JX
+패러디	패러디/NNG
+모델인	모델/NNG+이/VCP+ㄴ/ETM
+이영돈	이영돈/NNP
+PD를	PD/SL+를/JKO
+이	이/MMD
+코너에	코너/NNG+에/JKB
+출연시키기로	출연/NNG+시키/XSV+기/ETN+로/JKB
+결정했다.	결정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.5.2
+안상휘 CP는 “이 PD와 신동엽이 친하고 서로 전화통화도 하는 사이여서 섭외하려 했다”고 말했다.
+
+안상휘	안상휘/NNP
+CP는	CP/SL+는/JX
+“이	“/SS+이/NNP
+PD와	PD/SL+와/JC
+신동엽이	신동엽/NNP+이/JKS
+친하고	친하/VA+고/EC
+서로	서로/MAG
+전화통화도	전화/NNG+통화/NNG+도/JX
+하는	하/VV+는/ETM
+사이여서	사이/NNG+이/VCP+어서/EC
+섭외하려	섭외/NNG+하/XSV+려/EC
+했다”고	하/VX+았/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.6.1
+평소 방송 캐릭터의 중요성을 강조해 온 이영돈 PD도 출연 여부에 긍정적이었다.
+
+평소	평소/NNG
+방송	방송/NNG
+캐릭터의	캐릭터/NNG+의/JKG
+중요성을	중요/NNG+성/XSN+을/JKO
+강조해	강조/NNG+하/XSV+아/EC
+온	오/VX+ㄴ/ETM
+이영돈	이영돈/NNP
+PD도	PD/SL+도/JX
+출연	출연/NNG
+여부에	여부/NNG+에/JKB
+긍정적이었다.	긍정/NNG+적/XSN+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.6.2
+하지만 이 코너를 자세히 살펴본 이영돈 PD는 깜짝 놀랐다.
+
+하지만	하지만/MAJ
+이	이/MMD
+코너를	코너/NNG+를/JKO
+자세히	자세히/MAG
+살펴본	살펴보/VV+ㄴ/ETM
+이영돈	이영돈/NNP
+PD는	PD/SL+는/JX
+깜짝	깜짝/MAG
+놀랐다.	놀라/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.6.3
+이 코너의 성적 유머 수위가 지나치게 높았던 것.
+
+이	이/MMD
+코너의	코너/NNG+의/JKG
+성적	성/NNG+적/XSN
+유머	유머/NNG
+수위가	수위/NNG+가/JKS
+지나치게	지나치/VA+게/EC
+높았던	높/VA+았/EP+던/ETM
+것.	것/NNB+./SF
+
+
+# id : NWRW1800000033.145.7.1
+‘무인도’ 편의 경우 코너 마지막에 여자가 등장하자 이엉돈 PD(신동엽)가 나타나 “저도 여인을 좋아하는데요.
+
+‘무인도’	‘/SS+무인도/NNG+’/SS
+편의	편/NNB+의/JKG
+경우	경우/NNG
+코너	코너/NNG
+마지막에	마지막/NNG+에/JKB
+여자가	여자/NNG+가/JKS
+등장하자	등장/NNG+하/XSV+자/EC
+이엉돈	이엉돈/NNP
+PD(신동엽)가	PD/SL+(/SS+신동엽/NNP+)/SS+가/JKS
+나타나	나타나/VV+아/EC
+“저도	“/SS+저/NP+도/JX
+여인을	여인/NNG+을/JKO
+좋아하는데요.	좋아하/VV+는데/EC+요/JX+./SF
+
+
+# id : NWRW1800000033.145.7.2
+제가 한번…”이라고 말한 뒤 여성과 텐트 속으로 들어갔다.
+
+제가	제/NP+가/JKS
+한번…”이라고	한번/MAG+…/SE+”/SS+이라고/JKQ
+말한	말/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+여성과	여성/NNG+과/JKB
+텐트	텐트/NNG
+속으로	속/NNG+으로/JKB
+들어갔다.	들어가/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.145.7.3
+이영돈 PD는 “창의성과 패러디는 인정하지만 섹스 코드가 너무 강해 기분이 상쾌하지 않았다”며 “내가 등장해도 섹스 코드로 갈 것 같아 출연을 거절했다”고 말했다.
+
+이영돈	이영돈/NNP
+PD는	PD/SL+는/JX
+“창의성과	“/SS+창의/NNG+성/XSN+과/JC
+패러디는	패러디/NNG+는/JX
+인정하지만	인정/NNG+하/XSV+지만/EC
+섹스	섹스/NNG
+코드가	코드/NNG+가/JKS
+너무	너무/MAG
+강해	강하/VA+아/EC
+기분이	기분/NNG+이/JKS
+상쾌하지	상쾌하/VA+지/EC
+않았다”며	않/VX+았/EP+다/EF+”/SS+며/EC
+“내가	“/SS+내/NP+가/JKS
+등장해도	등장/NNG+하/XSV+아도/EC
+코드로	코드/NNG+로/JKB
+갈	가/VV+ㄹ/ETM
+것	것/NNB
+같아	같/VA+아/EC
+출연을	출연/NNG+을/JKO
+거절했다”고	거절/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,257 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.149
+metadata : {}
+
+
+# id : NWRW1800000030.149.1.1
+KBS '수신료 생방송 토론' 즉흥적으로 70분 연장
+
+KBS	KBS/SL
+'수신료	'/SS+수신료/NNG
+생방송	생/XPN+방송/NNG
+토론'	토론/NNG+'/SS
+즉흥적으로	즉흥/NNG+적/XSN+으로/JKB
+70분	70/SN+분/NNB
+연장	연장/NNG
+
+
+# id : NWRW1800000030.149.2.1
+•김인규 사장, 토론자로 참여
+
+•김인규	•/SW+김인규/NNP
+사장,	사장/NNG+,/SP
+토론자로	토론자/NNG+로/JKB
+참여	참여/NNG
+
+
+# id : NWRW1800000030.149.3.1
+KBS 1TV가 25일 밤 11시 20분부터 'TV 수신료 인상 선결조건 무엇인가'라는 주제로 진행한 '생방송 심야토론'이 예정된 편성시간 100분을 70분이나 넘겨 방영돼 '자사(自社) 이기주의' 논란이 일고 있다.
+
+KBS	KBS/SL
+1TV가	1/SN+TV/SL+가/JKS
+25일	25/SN+일/NNB
+밤	밤/NNG
+11시	11/SN+시/NNB
+20분부터	20/SN+분/NNB+부터/JX
+'TV	'/SS+TV/SL
+수신료	수신료/NNG
+인상	인상/NNG
+선결조건	선결/NNG+조건/NNG
+무엇인가'라는	무엇/NP+이/VCP+ㄴ가/EF+'/SS+이/VCP+라는/ETM
+주제로	주제/NNG+로/JKB
+진행한	진행/NNG+하/XSV+ㄴ/ETM
+'생방송	'/SS+생/XPN+방송/NNG
+심야토론'이	심야/NNG+토론/NNG+'/SS+이/JKS
+예정된	예정/NNG+되/XSV+ㄴ/ETM
+편성시간	편성/NNG+시간/NNG
+100분을	100/SN+분/NNB+을/JKO
+70분이나	70/SN+분/NNB+이나/JX
+넘겨	넘기/VV+어/EC
+방영돼	방영/NNG+되/XSV+어/EC
+'자사(自社)	'/SS+자사/NNG+(/SS+自社/SH+)/SS
+이기주의'	이기주의/NNG+'/SS
+논란이	논란/NNG+이/JKS
+일고	일/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.149.3.2
+KBS는 그동안 디지털 방송 전환과 난시청 해소 등을 이유로 여야 정치권에 수신료 인상을 강력히 요구해 왔다.
+
+KBS는	KBS/SL+는/JX
+그동안	그동안/NNG
+디지털	디지털/NNG
+방송	방송/NNG
+전환과	전환/NNG+과/JC
+난시청	난시청/NNG
+해소	해소/NNG
+등을	등/NNB+을/JKO
+이유로	이유/NNG+로/JKB
+여야	여야/NNG
+정치권에	정치/NNG+권/XSN+에/JKB
+수신료	수신료/NNG
+인상을	인상/NNG+을/JKO
+강력히	강력히/MAG
+요구해	요구/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.149.4.1
+KBS는 당초 이 프로를 26일 오전 1시에 끝내고 이후 'KBS 뉴스' '명화극장 식스센스' 등을 내보낼 예정이었으나 줄줄이 70분씩 방영이 늦어졌다.
+
+KBS는	KBS/SL+는/JX
+당초	당초/NNG
+이	이/MMD
+프로를	프로/NNG+를/JKO
+26일	26/SN+일/NNB
+오전	오전/NNG
+1시에	1/SN+시/NNB+에/JKB
+끝내고	끝내/VV+고/EC
+이후	이후/NNG
+'KBS	'/SS+KBS/SL
+뉴스'	뉴스/NNG+'/SS
+'명화극장	'/SS+명화/NNG+극장/NNG
+식스센스'	식스센스/NNP+'/SS
+등을	등/NNB+을/JKO
+내보낼	내보내/VV+ㄹ/ETM
+예정이었으나	예정/NNG+이/VCP+었/EP+으나/EC
+줄줄이	줄줄이/MAG
+70분씩	70/SN+분/NNB+씩/XSN
+방영이	방영/NNG+이/JKS
+늦어졌다.	늦어지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.149.5.1
+이날 토론에는 한선교·김성동·진성호(이상 한나라당), 김재윤·전병헌·전혜숙(이상 민주당) 의원 등 여야 정치인과 함께 김인규 KBS 사장이 직접 토론자로 참여했다.
+
+이날	이날/NNG
+토론에는	토론/NNG+에/JKB+는/JX
+한선교·김성동·진성호(이상	한선교/NNP+·/SP+김성동/NNP+·/SP+진성호/NNP+(/SS+이상/NNG
+한나라당),	한나라당/NNP+)/SS+,/SP
+김재윤·전병헌·전혜숙(이상	김재윤/NNP+·/SP+전병헌/NNP+·/SP+전혜숙/NNP+(/SS+이상/NNG
+민주당)	민주당/NNP+)/SS
+의원	의원/NNG
+등	등/NNB
+여야	여야/NNG
+정치인과	정치인/NNG+과/JKB
+함께	함께/MAG
+김인규	김인규/NNP
+KBS	KBS/SL
+사장이	사장/NNG+이/JKS
+직접	직접/MAG
+토론자로	토론자/NNG+로/JKB
+참여했다.	참여/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.149.5.2
+KBS 사장의 자사 토론프로그램 출연도 극히 이례적이다.
+
+KBS	KBS/SL
+사장의	사장/NNG+의/JKG
+자사	자사/NNG
+토론프로그램	토론/NNG+프로그램/NNG
+출연도	출연/NNG+도/JX
+극히	극히/MAG
+이례적이다.	이례/NNG+적/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.149.6.1
+KBS측은 "토론 전반에 걸쳐 의원들이 '민주당 최고위원·문방위원 연석회의 도청 논란' 등을 놓고 설전을 벌이는 바람에 제대로 시청료 문제를 다루기 어렵게 되자 사회자가 즉석에서 편성 책임자에게 방송 연장 가능 여부를 물었고, 담당 PD와 편성책임자가 상의해 연장을 결정했다"고 밝혔다.
+
+KBS측은	KBS/SL+측/NNB+은/JX
+"토론	"/SS+토론/NNG
+전반에	전반/NNG+에/JKB
+걸쳐	걸치/VV+어/EC
+의원들이	의원/NNG+들/XSN+이/JKS
+'민주당	'/SS+민주당/NNP
+최고위원·문방위원	최고/NNG+위원/NNG+·/SP+문방/NNG+위원/NNG
+연석회의	연석회의/NNG
+도청	도청/NNG
+논란'	논란/NNG+'/SS
+등을	등/NNB+을/JKO
+놓고	놓/VV+고/EC
+설전을	설전/NNG+을/JKO
+벌이는	벌이/VV+는/ETM
+바람에	바람/NNB+에/JKB
+제대로	제대로/MAG
+시청료	시청료/NNG
+문제를	문제/NNG+를/JKO
+다루기	다루/VV+기/ETN
+어렵게	어렵/VA+게/EC
+되자	되/VV+자/EC
+사회자가	사회자/NNG+가/JKS
+즉석에서	즉석/NNG+에서/JKB
+편성	편성/NNG
+책임자에게	책임자/NNG+에게/JKB
+방송	방송/NNG
+연장	연장/NNG
+가능	가능/NNG
+여부를	여부/NNG+를/JKO
+물었고,	묻/VV+었/EP+고/EC+,/SP
+담당	담당/NNG
+PD와	PD/SL+와/JC
+편성책임자가	편성/NNG+책임자/NNG+가/JKS
+상의해	상의/NNG+하/XSV+아/EC
+연장을	연장/NNG+을/JKO
+결정했다"고	결정/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.149.7.1
+김인규 사장은 토론 도중 사회자가 방송 연장 가능성을 묻자 "그 문제는 사장이나 여야가 결정할 문제가 아니다"며 "편성 책임자와 제작진이 협의할 것이고, 연장이 가능하다면 거기에 따르겠다"고 했다.
+
+김인규	김인규/NNP
+사장은	사장/NNG+은/JX
+토론	토론/NNG
+도중	도중/NNG
+사회자가	사회자/NNG+가/JKS
+방송	방송/NNG
+연장	연장/NNG
+가능성을	가능/NNG+성/XSN+을/JKO
+묻자	묻/VV+자/EC
+"그	"/SS+그/MMD
+문제는	문제/NNG+는/JX
+사장이나	사장/NNG+이나/JC
+여야가	여야/NNG+가/JKS
+결정할	결정/NNG+하/XSV+ㄹ/ETM
+문제가	문제/NNG+가/JKC
+아니다"며	아니/VCN+다/EF+"/SS+며/EC
+"편성	"/SS+편성/NNG
+책임자와	책임자/NNG+와/JC
+제작진이	제작진/NNG+이/JKS
+협의할	협의/NNG+하/XSV+ㄹ/ETM
+것이고,	것/NNB+이/VCP+고/EC+,/SP
+연장이	연장/NNG+이/JKS
+가능하다면	가능/NNG+하/XSA+다면/EC
+거기에	거기/NP+에/JKB
+따르겠다"고	따르/VV+겠/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.149.8.1
+이에 대해 방송통신위 이영미 지상파정책과장은 "재해·재난이나 국민적 관심사와 관련된 사안을 다루는 프로그램의 경우 방송 시간을 연장한 뒤 방통위에 사후 승인을 요청하면 법적으로 문제가 되지 않는다"며 "KBS 수신료 인상은 국민이 관심을 갖고 있는 일인 만큼 사후 승인이 이뤄질 것"이라고 했다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+방송통신위	방송/NNG+통신위/NNG
+이영미	이영미/NNP
+지상파정책과장은	지상파/NNG+정책과장/NNG+은/JX
+"재해·재난이나	"/SS+재해/NNG+·/SP+재난/NNG+이나/JC
+국민적	국민/NNG+적/XSN
+관심사와	관심사/NNG+와/JKB
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+사안을	사안/NNG+을/JKO
+다루는	다루/VV+는/ETM
+프로그램의	프로그램/NNG+의/JKG
+경우	경우/NNG
+방송	방송/NNG
+시간을	시간/NNG+을/JKO
+연장한	연장/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+방통위에	방통위/NNG+에/JKB
+사후	사후/NNG
+승인을	승인/NNG+을/JKO
+요청하면	요청/NNG+하/XSV+면/EC
+법적으로	법/NNG+적/XSN+으로/JKB
+문제가	문제/NNG+가/JKC
+되지	되/VV+지/EC
+않는다"며	않/VX+는다/EF+"/SS+며/EC
+"KBS	"/SS+KBS/SL
+수신료	수신료/NNG
+인상은	인상/NNG+은/JX
+국민이	국민/NNG+이/JKS
+관심을	관심/NNG+을/JKO
+갖고	갖/VV+고/EC
+있는	있/VX+는/ETM
+일인	일/NNG+이/VCP+ㄴ/ETM
+만큼	만큼/NNB
+승인이	승인/NNG+이/JKS
+이뤄질	이뤄지/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,76 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.17
+metadata : {}
+
+
+# id : NWRW1800000026.17.1.1
+STX그룹, 불우이웃 성금 20억원
+
+STX그룹,	STX그룹/NNP+,/SP
+불우이웃	불우/NNG+이웃/NNG
+성금	성금/NNG
+20억원	20/SN+억/NR+원/NNB
+
+
+# id : NWRW1800000026.17.2.1
+STX그룹은 14일 사회복지공동모금회에 불우이웃돕기 성금 20억원을 전달했다.
+
+STX그룹은	STX그룹/NNP+은/JX
+14일	14/SN+일/NNB
+사회복지공동모금회에	사회/NNG+복지/NNG+공동/NNG+모금회/NNG+에/JKB
+불우이웃돕기	불우/NNG+이웃/NNG+돕/VV+기/ETN
+성금	성금/NNG
+20억원을	20/SN+억/NR+원/NNB+을/JKO
+전달했다.	전달/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.17.2.2
+STX는 기부 금액 중 일부를 다문화가정 지원사업에 지정 기탁하도록 했다.
+
+STX는	STX/SL+는/JX
+기부	기부/NNG
+금액	금액/NNG
+중	중/NNB
+일부를	일부/NNG+를/JKO
+다문화가정	다문화/NNG+가정/NNG
+지원사업에	지원/NNG+사업/NNG+에/JKB
+지정	지정/NNG
+기탁하도록	기탁/NNG+하/XSV+도록/EC
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.17.2.3
+성금 전달식에 참석한 이희범 STX에너지 중공업 총괄 회장은 "이웃사랑 성금이 물질적인 지원에만 그치지 않고 어려운 시기에 고통받는 소외계층 이웃들에게 꿈과 희망을 주는 계기가 되기를 바란다"고 말했다.
+
+성금	성금/NNG
+전달식에	전달식/NNG+에/JKB
+참석한	참석/NNG+하/XSV+ㄴ/ETM
+이희범	이희범/NNP
+STX에너지	STX에너지/NNP
+중공업	중공업/NNG
+총괄	총괄/NNG
+회장은	회장/NNG+은/JX
+"이웃사랑	"/SS+이웃/NNG+사랑/NNG
+성금이	성금/NNG+이/JKS
+물질적인	물질/NNG+적/XSN+이/VCP+ㄴ/ETM
+지원에만	지원/NNG+에/JKB+만/JX
+그치지	그치/VV+지/EC
+않고	않/VX+고/EC
+어려운	어렵/VA+ㄴ/ETM
+시기에	시기/NNG+에/JKB
+고통받는	고통/NNG+받/XSV+는/ETM
+소외계층	소외/NNG+계층/NNG
+이웃들에게	이웃/NNG+들/XSN+에게/JKB
+꿈과	꿈/NNG+과/JC
+희망을	희망/NNG+을/JKO
+주는	주/VV+는/ETM
+계기가	계기/NNG+가/JKC
+되기를	되/VV+기/ETN+를/JKO
+바란다"고	바라/VV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,140 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.417
+metadata : {}
+
+
+# id : NWRW1800000022.417.1.1
+[제주·서울] "세계환경수도 조성위해 10개년 실천계획 만들겠다" 김태환 지사 밝혀
+
+[제주·서울]	[/SS+제주/NNP+·/SP+서울/NNP+]/SS
+"세계환경수도	"/SS+세계/NNG+환경/NNG+수도/NNG
+조성위해	조성/NNG+위하/VV+아/EC
+10개년	10/SN+개년/NNB
+실천계획	실천/NNG+계획/NNG
+만들겠다"	만들/VV+겠/EP+다/EF+"/SS
+김태환	김태환/NNP
+지사	지사/NNG
+밝혀	밝히/VV+어/EF
+
+
+# id : NWRW1800000022.417.2.1
+2012년 세계자연보전총회(World Conservation Congress) 유치에 성공한 제주도가 세계환경수도 조성에 잰걸음을 내딛었다.
+
+2012년	2012/SN+년/NNB
+세계자연보전총회(World	세계/NNG+자연/NNG+보전/NNG+총회/NNG+(/SS+World/SL
+Conservation	Conservation/SL
+Congress)	Congress/SL+)/SS
+유치에	유치/NNG+에/JKB
+성공한	성공/NNG+하/XSV+ㄴ/ETM
+제주도가	제주도/NNP+가/JKS
+세계환경수도	세계/NNG+환경/NNG+수도/NNG
+조성에	조성/NNG+에/JKB
+잰걸음을	잰걸음/NNG+을/JKO
+내딛었다.	내딛/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.417.2.2
+김태환 제주도지사는 30일 WCC 개최지로 결정된 것과 관련해 "세계환경수도 조성을 위한 10개년 실천계획을 마련하겠다"고 밝혔다.
+
+김태환	김태환/NNP
+제주도지사는	제주/NNP+도지사/NNG+는/JX
+30일	30/SN+일/NNB
+WCC	WCC/SL
+개최지로	개최지/NNG+로/JKB
+결정된	결정/NNG+되/XSV+ㄴ/ETM
+것과	것/NNB+과/JKB
+관련해	관련/NNG+하/XSV+아/EC
+"세계환경수도	"/SS+세계/NNG+환경/NNG+수도/NNG
+조성을	조성/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+10개년	10/SN+개년/NNB
+실천계획을	실천/NNG+계획/NNG+을/JKO
+마련하겠다"고	마련/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.417.3.1
+김 지사는 "전문가와 NGO, 공무원 등이 함께 참여해 세계자연보전총회의 성공적 개최 전략을 포함한 실천계획을 수립하겠다"며 "도지사를 본부장으로 하는 조직체계와 태스크포스를 만들어 적극적으로 지원하겠다"고 강조했다.
+
+김	김/NNP
+지사는	지사/NNG+는/JX
+"전문가와	"/SS+전문가/NNG+와/JC
+NGO,	NGO/SL+,/SP
+공무원	공무원/NNG
+등이	등/NNB+이/JKS
+함께	함께/MAG
+참여해	참여/NNG+하/XSV+아/EC
+세계자연보전총회의	세계/NNG+자연/NNG+보전/NNG+총회/NNG+의/JKG
+성공적	성공/NNG+적/XSN
+개최	개최/NNG
+전략을	전략/NNG+을/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+실천계획을	실천/NNG+계획/NNG+을/JKO
+수립하겠다"며	수립/NNG+하/XSV+겠/EP+다/EF+"/SS+며/EC
+"도지사를	"/SS+도지사/NNG+를/JKO
+본부장으로	본부장/NNG+으로/JKB
+하는	하/VV+는/ETM
+조직체계와	조직/NNG+체계/NNG+와/JC
+태스크포스를	태스크포스/NNG+를/JKO
+만들어	만들/VV+어/EC
+적극적으로	적극/NNG+적/XSN+으로/JKB
+지원하겠다"고	지원/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.417.3.2
+그는 "내년 초 세계자연보전연맹(IUCN), 자치단체국제환경협의회(ICLEI) 등과 협력해 아시아 기후변화 대응교육센터를 열 계획"이라며 "섬 생물권보전지역네트워크를 창립하고 리더스 제주환경포럼을 개최하는 등 모범적인 국제환경협력체계를 구축하겠다"고 말했다.
+
+그는	그/NP+는/JX
+"내년	"/SS+내년/NNG
+초	초/NNB
+세계자연보전연맹(IUCN),	세계자연보전연맹/NNP+(/SS+IUCN/SL+)/SS+,/SP
+자치단체국제환경협의회(ICLEI)	자치단체국제환경협의회/NNP+(/SS+ICLEI/SL+)/SS
+등과	등/NNB+과/JKB
+협력해	협력/NNG+하/XSV+아/EC
+아시아	아시아/NNP
+기후변화	기후/NNG+변화/NNG
+대응교육센터를	대응/NNG+교육/NNG+센터/NNG+를/JKO
+열	열/VV+ㄹ/ETM
+계획"이라며	계획/NNG+"/SS+이/VCP+라며/EC
+"섬	"/SS+섬/NNG
+생물권보전지역네트워크를	생물/NNG+권/XSN+보전/NNG+지역/NNG+네트워크/NNG+를/JKO
+창립하고	창립/NNG+하/XSV+고/EC
+리더스	리더스/NNP
+제주환경포럼을	제주/NNP+환경/NNG+포럼/NNG+을/JKO
+개최하는	개최/NNG+하/XSV+는/ETM
+등	등/NNB
+모범적인	모범/NNG+적/XSN+이/VCP+ㄴ/ETM
+국제환경협력체계를	국제/NNG+환경/NNG+협력/NNG+체계/NNG+를/JKO
+구축하겠다"고	구축/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.417.4.1
+김용하 제주도의회 의장과 의원들도 이날 기자회견을 열고 "세계자연보전총회 개최 특별위원회 등 별도의 지원기구를 마련하는 등 성공적인 개최에 최선을 다하겠다"고 말했다.
+
+김용하	김용하/NNP
+제주도의회	제주도/NNP+의회/NNG
+의장과	의장/NNG+과/JC
+의원들도	의원/NNG+들/XSN+도/JX
+이날	이날/NNG
+기자회견을	기자/NNG+회견/NNG+을/JKO
+열고	열/VV+고/EC
+"세계자연보전총회	"/SS+세계/NNG+자연/NNG+보전/NNG+총회/NNG
+개최	개최/NNG
+특별위원회	특별/NNG+위원회/NNG
+등	등/NNB
+별도의	별도/NNG+의/JKG
+지원기구를	지원/NNG+기구/NNG+를/JKO
+마련하는	마련/NNG+하/XSV+는/ETM
+성공적인	성공/NNG+적/XSN+이/VCP+ㄴ/ETM
+개최에	개최/NNG+에/JKB
+최선을	최선/NNG+을/JKO
+다하겠다"고	다/MAG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

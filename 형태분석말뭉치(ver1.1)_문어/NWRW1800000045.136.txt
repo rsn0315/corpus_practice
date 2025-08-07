@@ -1,0 +1,429 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.136
+metadata : {}
+
+
+# id : NWRW1800000045.136.1.1
+이승열 “비로소 가벼워졌다”
+
+이승열	이승열/NNP
+“비로소	“/SS+비로소/MAG
+가벼워졌다”	가볍/VA+어/EC+지/VX+었/EP+다/EF+”/SS
+
+
+# id : NWRW1800000045.136.2.1
+미생 주제곡 ‘날아’ 부른 이승열, 홈리코딩으로 5집 ‘SYX’ 발매
+
+미생	미생/NNP
+주제곡	주제곡/NNG
+‘날아’	‘/SS+날/VV+아/EF+’/SS
+부른	부르/VV+ㄴ/ETM
+이승열,	이승열/NNP+,/SP
+홈리코딩으로	홈/NNG+리코딩/NNG+으로/JKB
+5집	5/SN+집/NNB
+‘SYX’	‘/SS+SYX/SL+’/SS
+발매	발매/NNG
+
+
+# id : NWRW1800000045.136.3.1
+전쟁, 빈곤, 고난, 불평등….
+
+전쟁,	전쟁/NNG+,/SP
+빈곤,	빈곤/NNG+,/SP
+고난,	고난/NNG+,/SP
+불평등….	불/XPN+평등/NNG+…/SE+./SF
+
+
+# id : NWRW1800000045.136.3.2
+삶과 세계의 천형에 지쳐 연옥에 닿았을 때, 만약 신이 이런 목소리로 노래한다면 그를 용서할 수 있을지 모른다.
+
+삶과	삶/NNG+과/JC
+세계의	세계/NNG+의/JKG
+천형에	천형/NNG+에/JKB
+지쳐	지치/VV+어/EC
+연옥에	연옥/NNG+에/JKB
+닿았을	닿/VV+았/EP+을/ETM
+때,	때/NNG+,/SP
+만약	만약/MAG
+신이	신/NNG+이/JKS
+이런	이런/MMD
+목소리로	목소리/NNG+로/JKB
+노래한다면	노래/NNG+하/XSV+ㄴ다면/EC
+그를	그/NP+를/JKO
+용서할	용서/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있을지	있/VA+을지/EC
+모른다.	모르/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.136.4.1
+드라마 ‘미생’의 주제곡 ‘날아’의 목소리, 싱어송라이터 이승열(45).
+
+드라마	드라마/NNG
+‘미생’의	‘/SS+미생/NNP+’/SS+의/JKG
+주제곡	주제곡/NNG
+‘날아’의	‘/SS+날/VV+아/EF+’/SS+의/JKG
+목소리,	목소리/NNG+,/SP
+싱어송라이터	싱어송라이터/NNG
+이승열(45).	이승열/NNP+(/SS+45/SN+)/SS+./SF
+
+
+# id : NWRW1800000045.136.4.2
+2008년 TV 음악 프로그램에서 그가 애절한 록으로 재해석한 원더걸스의 ‘노바디’는 귀여운 댄스그룹의 노랫말을 다시 읽어보게 만들었다.
+
+2008년	2008/SN+년/NNB
+TV	TV/SL
+음악	음악/NNG
+프로그램에서	프로그램/NNG+에서/JKB
+그가	그/NP+가/JKS
+애절한	애절하/VA+ㄴ/ETM
+록으로	록/NNG+으로/JKB
+재해석한	재/XPN+해석/NNG+하/XSV+ㄴ/ETM
+원더걸스의	원더걸스/NNP+의/JKG
+‘노바디’는	‘/SS+노바디/NNG+’/SS+는/JX
+귀여운	귀엽/VA+ㄴ/ETM
+댄스그룹의	댄스/NNG+그룹/NNG+의/JKG
+노랫말을	노랫말/NNG+을/JKO
+다시	다시/MAG
+읽어보게	읽/VV+어/EC+보/VX+게/EC
+만들었다.	만들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.4.3
+먹먹한 슬픔의 회청색 하늘을 가르는 날개처럼 이승열의 목소리는 강인하게 여리며 단단하게 떨린다.
+
+먹먹한	먹먹하/VA+ㄴ/ETM
+슬픔의	슬픔/NNG+의/JKG
+회청색	회청색/NNG
+하늘을	하늘/NNG+을/JKO
+가르는	가르/VV+는/ETM
+날개처럼	날개/NNG+처럼/JKB
+이승열의	이승열/NNP+의/JKG
+목소리는	목소리/NNG+는/JX
+강인하게	강인하/VA+게/EC
+여리며	여리/VA+며/EC
+단단하게	단단하/VA+게/EC
+떨린다.	떨리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.136.5.1
+1994년 모던 록 듀오 유앤미블루부터 2003년 이후 네 장의 솔로앨범까지 평단의 극찬을 놓친 적 없는 이승열이 2년 만의 신작, 5집 ‘SYX’를 냈다.
+
+1994년	1994/SN+년/NNB
+모던	모던/NNG
+록	록/NNG
+듀오	듀오/NNG
+유앤미블루부터	유앤미블루/NNP+부터/JX
+2003년	2003/SN+년/NNB
+이후	이후/NNG
+네	네/MMN
+장의	장/NNB+의/JKG
+솔로앨범까지	솔로앨범/NNG+까지/JX
+평단의	평단/NNG+의/JKG
+극찬을	극찬/NNG+을/JKO
+놓친	놓치/VV+ㄴ/ETM
+적	적/NNB
+없는	없/VA+는/ETM
+이승열이	이승열/NNP+이/JKS
+2년	2/SN+년/NNB
+만의	만/NNB+의/JKG
+신작,	신작/NNG+,/SP
+5집	5/SN+집/NNB
+‘SYX’를	‘/SS+SYX/SL+’/SS+를/JKO
+냈다.	내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.5.2
+모험을 했다.
+
+모험을	모험/NNG+을/JKO
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.5.3
+전문 스튜디오에서 연주자들을 고용해 녹음하지 않았다.
+
+전문	전문/NNG
+스튜디오에서	스튜디오/NNG+에서/JKB
+연주자들을	연주자/NNG+들/XSN+을/JKO
+고용해	고용/NNG+하/XSV+아/EC
+녹음하지	녹음/NNG+하/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.6.1
+“악기 연주, 녹음, 믹스….
+
+“악기	“/SS+악기/NNG
+연주,	연주/NNG+,/SP
+녹음,	녹음/NNG+,/SP
+믹스….	믹스/NNG+…/SE+./SF
+
+
+# id : NWRW1800000045.136.6.2
+제작 공정의 90% 이상을 30m²쯤 되는 저희 집 방안에서 해결했어요.
+
+제작	제작/NNG
+공정의	공정/NNG+의/JKG
+90%	90/SN+%/SW
+이상을	이상/NNG+을/JKO
+30m²쯤	30/SN+m²/SW+쯤/XSN
+되는	되/VV+는/ETM
+저희	저희/NP
+집	집/NNG
+방안에서	방/NNG+안/NNG+에서/JKB
+해결했어요.	해결/NNG+하/XSV+았/EP+어요/EF+./SF
+
+
+# id : NWRW1800000045.136.6.3
+저는 노래 구상 단계에서부터 편곡의 디테일을 촘촘히 짜두는 스타일인데, 그리 애써 그린 스케치를 다 버리고 재녹음을 하는 기존 작업방식에 문득 의문이 들었어요.”
+
+저는	저/NP+는/JX
+노래	노래/NNG
+구상	구상/NNG
+단계에서부터	단계/NNG+에서부터/JKB
+편곡의	편곡/NNG+의/JKG
+디테일을	디테일/NNG+을/JKO
+촘촘히	촘촘히/MAG
+짜두는	짜/VV+아/EC+두/VX+는/ETM
+스타일인데,	스타일/NNG+이/VCP+ㄴ데/EC+,/SP
+그리	그리/MAG
+애써	애쓰/VV+어/EC
+그린	그리/VV+ㄴ/ETM
+스케치를	스케치/NNG+를/JKO
+다	다/MAG
+버리고	버리/VV+고/EC
+재녹음을	재/XPN+녹음/NNG+을/JKO
+하는	하/VV+는/ETM
+기존	기존/NNG
+작업방식에	작업/NNG+방식/NNG+에/JKB
+문득	문득/MAG
+의문이	의문/NNG+이/JKS
+들었어요.”	들/VV+었/EP+어요/EF+./SF+”/SS
+
+
+# id : NWRW1800000045.136.7.1
+기타와 베이스기타를 직접 연주하고 컴퓨터 가상악기로 드럼 소리를 만들어냈다.
+
+기타와	기타/NNG+와/JC
+베이스기타를	베이스/NNG+기타/NNG+를/JKO
+직접	직접/MAG
+연주하고	연주/NNG+하/XSV+고/EC
+컴퓨터	컴퓨터/NNG
+가상악기로	가상/NNG+악기/NNG+로/JKB
+드럼	드럼/NNG
+소리를	소리/NNG+를/JKO
+만들어냈다.	만들/VV+어/EC+내/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.7.2
+지난해부터 해둔 음악적 스케치는 ‘승열’의 이니셜인 ‘SY’에 별 의미 없는 ‘X’를 붙인 컴퓨터 폴더 ‘SYX’에 들어 있었다.
+
+지난해부터	지난해/NNG+부터/JX
+해둔	하/VV+아/EC+두/VX+ㄴ/ETM
+음악적	음악/NNG+적/XSN
+스케치는	스케치/NNG+는/JX
+‘승열’의	‘/SS+승열/NNP+’/SS+의/JKG
+이니셜인	이니셜/NNG+이/VCP+ㄴ/ETM
+‘SY’에	‘/SS+SY/SL+’/SS+에/JKB
+별	별/MMA
+의미	의미/NNG
+없는	없/VA+는/ETM
+‘X’를	‘/SS+X/SL+’/SS+를/JKO
+붙인	붙이/VV+ㄴ/ETM
+컴퓨터	컴퓨터/NNG
+폴더	폴더/NNG
+‘SYX’에	‘/SS+SYX/SL+’/SS+에/JKB
+들어	들/VV+어/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.7.3
+이걸 그대로 뼈대 삼기로 했다.
+
+이걸	이거/NP+ㄹ/JKO
+그대로	그대로/MAG
+뼈대	뼈대/NNG
+삼기로	삼/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.7.4
+그래서 앨범 제목도 그냥 ‘SYX’다.
+
+그래서	그래서/MAJ
+앨범	앨범/NNG
+제목도	제목/NNG+도/JX
+그냥	그냥/MAG
+‘SYX’다.	‘/SS+SYX/SL+’/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.7.5
+5집인데 제목이 ‘식스’로 읽히는 부조리도 그가 원한 바다.
+
+5집인데	5/SN+집/NNB+이/VCP+ㄴ데/EC
+제목이	제목/NNG+이/JKS
+‘식스’로	‘/SS+식스/NNG+’/SS+로/JKB
+읽히는	읽히/VV+는/ETM
+부조리도	부/XPN+조리/NNG+도/JX
+그가	그/NP+가/JKS
+원한	원/NNG+하/XSV+ㄴ/ETM
+바다.	바/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.8.1
+아홉 곡 중 앨범의 등뼈에 해당하는 두 곡이 세월호 참사를 노래했다.
+
+아홉	아홉/NR
+곡	곡/NNG
+중	중/NNB
+앨범의	앨범/NNG+의/JKG
+등뼈에	등뼈/NNG+에/JKB
+해당하는	해당/NNG+하/XSV+는/ETM
+두	두/MMN
+곡이	곡/NNG+이/JKS
+세월호	세월호/NNP
+참사를	참사/NNG+를/JKO
+노래했다.	노래/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.8.2
+리듬과 반복 악절의 달짝지근함이 저음부와 화성 진행의 불길함을 만나 노이즈 위를 출렁이는 ‘a letter from’.
+
+리듬과	리듬/NNG+과/JC
+반복	반복/NNG
+악절의	악절/NNG+의/JKG
+달짝지근함이	달짝지근하/VA+ㅁ/ETN+이/JKS
+저음부와	저/XPN+음부/NNG+와/JC
+화성	화성/NNG
+진행의	진행/NNG+의/JKG
+불길함을	불길하/VA+ㅁ/ETN+을/JKO
+만나	만나/VV+아/EC
+노이즈	노이즈/NNG
+위를	위/NNG+를/JKO
+출렁이는	출렁이/VV+는/ETM
+‘a	‘/SS+a/SL
+letter	letter/SL
+from’.	from/SL+’/SS+./SF
+
+
+# id : NWRW1800000045.136.8.3
+블루스 록에 타령을 섞은 듯한 악곡에 ‘Crazy, motherfucking crazy!’란 가사만 반복적으로 얹은 ‘come back’.
+
+블루스	블루스/NNG
+록에	록/NNG+에/JKB
+타령을	타령/NNG+을/JKO
+섞은	섞/VV+은/ETM
+듯한	듯/NNB+하/XSA+ㄴ/ETM
+악곡에	악곡/NNG+에/JKB
+‘Crazy,	‘/SS+Crazy/SL+,/SP
+motherfucking	motherfucking/SL
+crazy!’란	crazy/SL+!/SF+’/SS+란/ETM
+가사만	가사/NNG+만/JX
+반복적으로	반복/NNG+적/XSN+으로/JKB
+얹은	얹/VV+은/ETM
+‘come	‘/SS+come/SL
+back’.	back/SL+’/SS+./SF
+
+
+# id : NWRW1800000045.136.9.1
+이승열은 “앨범 전체에 물속을 유영하는 듯한 이미지가 담겼다”고 했다.
+
+이승열은	이승열/NNP+은/JX
+“앨범	“/SS+앨범/NNG
+전체에	전체/NNG+에/JKB
+물속을	물속/NNG+을/JKO
+유영하는	유영하/VV+는/ETM
+듯한	듯/NNB+하/XSA+ㄴ/ETM
+이미지가	이미지/NNG+가/JKS
+담겼다”고	담기/VV+었/EP+다/EF+”/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.9.2
+작은 방을 헤엄친 이 남자의 궤적은 ‘노래 1’에서 이렇게 여울진다.
+
+작은	작/VA+은/ETM
+방을	방/NNG+을/JKO
+헤엄친	헤엄치/VV+ㄴ/ETM
+이	이/MMD
+남자의	남자/NNG+의/JKG
+궤적은	궤적/NNG+은/JX
+‘노래	‘/SS+노래/NNG
+1’에서	1/SN+’/SS+에서/JKB
+이렇게	이렇/VA+게/EC
+여울진다.	여울지/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.136.9.3
+‘노래에 실려 가네/숱했던 치기여…아름다운 버림/빛의 질서여.’
+
+‘노래에	‘/SS+노래/NNG+에/JKB
+실려	실리/VV+어/EC
+가네/숱했던	가/VX+네/EF+//SP+숱하/VA+았/EP+던/ETM
+치기여…아름다운	치기/NNG+여/JKV+…/SE+아름답/VA+ㄴ/ETM
+버림/빛의	버리/VV+ㅁ/ETN+//SP+빛/NNG+의/JKG
+질서여.’	질서/NNG+여/JKV+./SF+’/SS
+
+
+# id : NWRW1800000045.136.10.1
+전작 ‘V’(2013년)에 알베르 카뮈의 ‘이방인’(1942년)의 구절을 삽입했던 그는 “이번엔 미국 작가 윌리엄 포크너의 소설 ‘소리와 분노’(1929년)가 큰 영향을 줬다”고 했다.
+
+전작	전작/NNG
+‘V’(2013년)에	‘/SS+V/SL+’/SS+(/SS+2013/SN+년/NNB+)/SS+에/JKB
+알베르	알베르/NNP
+카뮈의	카뮈/NNP+의/JKG
+‘이방인’(1942년)의	‘/SS+이방인/NNP+’/SS+(/SS+1942/SN+년/NNB+)/SS+의/JKG
+구절을	구절/NNG+을/JKO
+삽입했던	삽입/NNG+하/XSV+았/EP+던/ETM
+그는	그/NP+는/JX
+“이번엔	“/SS+이번/NNG+에/JKB+ㄴ/JX
+미국	미국/NNP
+작가	작가/NNG
+윌리엄	윌리엄/NNP
+포크너의	포크너/NNP+의/JKG
+소설	소설/NNG
+‘소리와	‘/SS+소리/NNG+와/JC
+분노’(1929년)가	분노/NNG+’/SS+(/SS+1929/SN+년/NNB+)/SS+가/JKS
+큰	크/VA+ㄴ/ETM
+영향을	영향/NNG+을/JKO
+줬다”고	주/VV+었/EP+다/EF+”/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.136.10.2
+3분짜리 달콤한 혼돈의 연쇄로 된 이 앨범은 그의 성스러운 목소리 덕에 ‘어렵지만 자꾸 들추게 되는 소설’처럼 귀를 끈다.
+
+3분짜리	3/SN+분/NNB+짜리/XSN
+달콤한	달콤하/VA+ㄴ/ETM
+혼돈의	혼돈/NNG+의/JKG
+연쇄로	연쇄/NNG+로/JKB
+된	되/VV+ㄴ/ETM
+이	이/MMD
+앨범은	앨범/NNG+은/JX
+그의	그/NP+의/JKG
+성스러운	성/NNG+스럽/XSA+ㄴ/ETM
+목소리	목소리/NNG
+덕에	덕/NNG+에/JKB
+‘어렵지만	‘/SS+어렵/VA+지만/EC
+자꾸	자꾸/MAG
+들추게	들추/VV+게/EC
+되는	되/VV+는/ETM
+소설’처럼	소설/NNG+’/SS+처럼/JKB
+귀를	귀/NNG+를/JKO
+끈다.	끌/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.136.10.3
+그는 “비로소 가벼워졌다”고 했다.
+
+그는	그/NP+는/JX
+“비로소	“/SS+비로소/MAG
+가벼워졌다”고	가볍/VA+어/EC+지/VX+었/EP+다/EF+”/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

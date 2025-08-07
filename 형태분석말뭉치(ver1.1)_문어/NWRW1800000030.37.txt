@@ -1,0 +1,413 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.37
+metadata : {}
+
+
+# id : NWRW1800000030.37.1.1
+목성(Jupiter) 가는 '특별한 우주비행사' ?NASA, 무인 탐사선 '주노' 발사, 주피터 등 특별제작 레고 3개 실어 7억1600만㎞ 날아 5년 후 도착
+
+목성(Jupiter)	목성/NNG+(/SS+Jupiter/SL+)/SS
+가는	가/VV+는/ETM
+'특별한	'/SS+특별/NNG+하/XSA+ㄴ/ETM
+우주비행사'	우주/NNG+비행사/NNG+'/SS
+?NASA,	?/NA+NASA/SL+,/SP
+무인	무인/NNG
+탐사선	탐사선/NNG
+'주노'	'/SS+주노/NNP+'/SS
+발사,	발사/NNG+,/SP
+주피터	주피터/NNP
+등	등/NNB
+특별제작	특별/NNG+제작/NNG
+레고	레고/NNG
+3개	3/SN+개/NNB
+실어	싣/VV+어/EC
+7억1600만㎞	7/SN+억/NR+1600/SN+만/NR+㎞/SW
+날아	날/VV+아/EC
+5년	5/SN+년/NNB
+후	후/NNG
+도착	도착/NNG
+
+
+# id : NWRW1800000030.37.2.1
+?NASA, 무인 탐사선 '주노' 발사, 주피터 등 특별제작 레고 3개 실어 7억1600만㎞ 날아 5년 후 도착
+
+?NASA,	?/NA+NASA/SL+,/SP
+무인	무인/NNG
+탐사선	탐사선/NNG
+'주노'	'/SS+주노/NNP+'/SS
+발사,	발사/NNG+,/SP
+주피터	주피터/NNP
+등	등/NNB
+특별제작	특별/NNG+제작/NNG
+레고	레고/NNG
+3개	3/SN+개/NNB
+실어	싣/VV+어/EC
+7억1600만㎞	7/SN+억/NR+1600/SN+만/NR+㎞/SW
+날아	날/VV+아/EC
+5년	5/SN+년/NNB
+후	후/NNG
+도착	도착/NNG
+
+
+# id : NWRW1800000030.37.3.1
+'주노(Juno)가 목성과 태양계 생성의 비밀을 풀어줄 수 있을까.'
+
+'주노(Juno)가	'/SS+주노/NNP+(/SS+Juno/SL+)/SS+가/JKS
+목성과	목성/NNG+과/JC
+태양계	태양/NNG+계/XSN
+생성의	생성/NNG+의/JKG
+비밀을	비밀/NNG+을/JKO
+풀어줄	풀/VV+어/EC+주/VX+ㄹ/ETM
+수	수/NNB
+있을까.'	있/VA+을까/EF+./SF+'/SS
+
+
+# id : NWRW1800000030.37.4.1
+미국 항공우주국(NASA)이 지난 5일(현지시각) 플로리다주 케이프 커내버럴 기지에서 약 1만명이 지켜보는 가운데 목성 무인 로봇 탐사선 '주노'를 탑재한 로켓을 발사하는 데 성공했다.
+
+미국	미국/NNP
+항공우주국(NASA)이	항공우주국/NNP+(/SS+NASA/SL+)/SS+이/JKS
+지난	지나/VV+ㄴ/ETM
+5일(현지시각)	5/SN+일/NNB+(/SS+현지/NNG+시각/NNG+)/SS
+플로리다주	플로리다주/NNP
+케이프	케이프/NNP
+커내버럴	커내버럴/NNP
+기지에서	기지/NNG+에서/JKB
+약	약/MMA
+1만명이	1/SN+만/NR+명/NNB+이/JKS
+지켜보는	지켜보/VV+는/ETM
+가운데	가운데/NNG
+목성	목성/NNG
+무인	무인/NNG
+로봇	로봇/NNG
+탐사선	탐사선/NNG
+'주노'를	'/SS+주노/NNP+'/SS+를/JKO
+탑재한	탑재/NNG+하/XSV+ㄴ/ETM
+로켓을	로켓/NNG+을/JKO
+발사하는	발사/NNG+하/XSV+는/ETM
+데	데/NNB
+성공했다.	성공/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.4.2
+주노는 앞으로 약 5년간(1822일) 7억1600만㎞의 거리를 날아 2016년 7월 4일쯤 목성 상공의 5000㎞ 지점에 도달할 예정이라고 AP통신이 6일 보도했다.
+
+주노는	주노/NNP+는/JX
+앞으로	앞/NNG+으로/JKB
+약	약/MMA
+5년간(1822일)	5/SN+년/NNB+간/XSN+(/SS+1822/SN+일/NNB+)/SS
+7억1600만㎞의	7/SN+억/NR+1600/SN+만/NR+㎞/SW+의/JKG
+거리를	거리/NNG+를/JKO
+날아	날/VV+아/EC
+2016년	2016/SN+년/NNB
+7월	7/SN+월/NNB
+4일쯤	4/SN+일/NNB+쯤/XSN
+목성	목성/NNG
+상공의	상공/NNG+의/JKG
+5000㎞	5000/SN+㎞/SW
+지점에	지점/NNG+에/JKB
+도달할	도달/NNG+하/XSV+ㄹ/ETM
+예정이라고	예정/NNG+이/VCP+라고/EC
+AP통신이	AP통신/NNP+이/JKS
+6일	6/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.5.1
+태양 에너지를 동력으로 사용하게 될 주노는 미국 독립기념일인 이날부터 약 1년간 목성 궤도를 돌면서 목성에 물이 존재하는지의 여부, 목성의 자기장(磁氣場)과 구성 성분 등을 파악할 예정이다.
+
+태양	태양/NNG
+에너지를	에너지/NNG+를/JKO
+동력으로	동력/NNG+으로/JKB
+사용하게	사용/NNG+하/XSV+게/EC
+될	되/VV+ㄹ/ETM
+주노는	주노/NNP+는/JX
+미국	미국/NNP
+독립기념일인	독립/NNG+기념일/NNG+이/VCP+ㄴ/ETM
+이날부터	이날/NNG+부터/JX
+약	약/MMA
+1년간	1/SN+년/NNB+간/XSN
+목성	목성/NNG
+궤도를	궤도/NNG+를/JKO
+돌면서	돌/VV+면서/EC
+목성에	목성/NNG+에/JKB
+물이	물/NNG+이/JKS
+존재하는지의	존재/NNG+하/XSV+는지/EF+의/JKG
+여부,	여부/NNG+,/SP
+목성의	목성/NNG+의/JKG
+자기장(磁氣場)과	자기장/NNG+(/SS+磁氣場/SH+)/SS+과/JC
+구성	구성/NNG
+성분	성분/NNG
+등을	등/NNB+을/JKO
+파악할	파악/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.6.1
+과학자들은 지구의 1300배 크기인 목성이 태양계 최초의 행성이라고 보고 있다.
+
+과학자들은	과학자/NNG+들/XSN+은/JX
+지구의	지구/NNG+의/JKG
+1300배	1300/SN+배/NNG
+크기인	크기/NNG+이/VCP+ㄴ/ETM
+목성이	목성/NNG+이/JKS
+태양계	태양/NNG+계/XSN
+최초의	최초/NNG+의/JKG
+행성이라고	행성/NNG+이/VCP+라고/EC
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.37.6.2
+NASA의 주노 연구팀 책임자 스콧 볼튼은 "이번 프로젝트는 목성이 만들어진 과정을 연구하는 것이 첫 번째 목적이지만 46억5000만년 전 태양계가 어떻게 형성됐는지에 대한 수수께끼를 풀 수 있을 것으로도 기대한다"고 말했다.
+
+NASA의	NASA/SL+의/JKG
+주노	주노/NNP
+연구팀	연구/NNG+팀/NNG
+책임자	책임자/NNG
+스콧	스콧/NNP
+볼튼은	볼튼/NNP+은/JX
+"이번	"/SS+이번/NNG
+프로젝트는	프로젝트/NNG+는/JX
+목성이	목성/NNG+이/JKS
+만들어진	만들/VV+어/EC+지/VX+ㄴ/ETM
+과정을	과정/NNG+을/JKO
+연구하는	연구/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+첫	첫/MMN
+번째	번/NNB+째/XSN
+목적이지만	목적/NNG+이/VCP+지만/EC
+46억5000만년	46/SN+억/NR+5000/SN+만/NR+년/NNB
+전	전/NNG
+태양계가	태양/NNG+계/XSN+가/JKS
+어떻게	어떻/VA+게/EC
+형성됐는지에	형성/NNG+되/XSV+었/EP+는지/EF+에/JKB
+대한	대하/VV+ㄴ/ETM
+수수께끼를	수수께끼/NNG+를/JKO
+풀	풀/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것으로도	것/NNB+으로/JKB+도/JX
+기대한다"고	기대/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.7.1
+목성 탐사선 주노 발사는 NASA가 우주왕복선 사업을 폐기한 이후 처음 이뤄지는 프로젝트다.
+
+목성	목성/NNG
+탐사선	탐사선/NNG
+주노	주노/NNP
+발사는	발사/NNG+는/JX
+NASA가	NASA/SL+가/JKS
+우주왕복선	우주/NNG+왕복선/NNG
+사업을	사업/NNG+을/JKO
+폐기한	폐기/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+처음	처음/NNG
+이뤄지는	이뤄지/VV+는/ETM
+프로젝트다.	프로젝트/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.7.2
+주노의 제작과 발사에는 약 11억달러(약 1조1759억원)의 예산이 투입됐다.
+
+주노의	주노/NNP+의/JKG
+제작과	제작/NNG+과/JC
+발사에는	발사/NNG+에/JKB+는/JX
+약	약/MMA
+11억달러(약	11/SN+억/NR+달러/NNB+(/SS+약/MMA
+1조1759억원)의	1/SN+조/NR+1759/SN+억/NR+원/NNB+)/SS+의/JKG
+예산이	예산/NNG+이/JKS
+투입됐다.	투입/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.7.3
+NASA는 지난 1989년 10월 인류 최초의 목성 탐사선인 '갈릴레오'를 발사해 1995년 12월 목성 궤도에 진입시켰다.
+
+NASA는	NASA/SL+는/JX
+지난	지나/VV+ㄴ/ETM
+1989년	1989/SN+년/NNB
+10월	10/SN+월/NNB
+인류	인류/NNG
+최초의	최초/NNG+의/JKG
+목성	목성/NNG
+탐사선인	탐사선/NNG+이/VCP+ㄴ/ETM
+'갈릴레오'를	'/SS+갈릴레오/NNP+'/SS+를/JKO
+발사해	발사/NNG+하/XSV+아/EC
+1995년	1995/SN+년/NNB
+12월	12/SN+월/NNB
+궤도에	궤도/NNG+에/JKB
+진입시켰다.	진입/NNG+시키/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.8.1
+NASA는 특히 이번 주노의 목성 탐사에 '특별한' 레고 우주비행사들이 승선했다고 밝혔다.
+
+NASA는	NASA/SL+는/JX
+특히	특히/MAG
+이번	이번/NNG
+주노의	주노/NNP+의/JKG
+목성	목성/NNG
+탐사에	탐사/NNG+에/JKB
+'특별한'	'/SS+특별/NNG+하/XSA+ㄴ/ETM+'/SS
+레고	레고/NNG
+우주비행사들이	우주/NNG+비행사/NNG+들/XSN+이/JKS
+승선했다고	승선/NNG+하/XSV+았/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.8.2
+키가 3.81㎝인 이들 우주비행사는 목성을 최초로 관찰한 이탈리아의 물리학자 갈릴레오 갈릴레이, 로마신화에서 최고의 신(神)이자 목성을 의미하는 주피터(제우스), 주피터의 아내이자 탐사선의 이름이기도 한 주노(헤라)의 인형들이다.
+
+키가	키/NNG+가/JKS
+3.81㎝인	3/SN+./SP+81/SN+㎝/SW+이/VCP+ㄴ/ETM
+이들	이/NP+들/XSN
+우주비행사는	우주/NNG+비행사/NNG+는/JX
+목성을	목성/NNG+을/JKO
+최초로	최초/NNG+로/JKB
+관찰한	관찰/NNG+하/XSV+ㄴ/ETM
+이탈리아의	이탈리아/NNP+의/JKG
+물리학자	물리학자/NNG
+갈릴레오	갈릴레오/NNP
+갈릴레이,	갈릴레이/NNP+,/SP
+로마신화에서	로마/NNP+신화/NNG+에서/JKB
+최고의	최고/NNG+의/JKG
+신(神)이자	신/NNG+(/SS+神/SH+)/SS+이/VCP+자/EC
+의미하는	의미/NNG+하/XSV+는/ETM
+주피터(제우스),	주피터/NNP+(/SS+제우스/NNP+)/SS+,/SP
+주피터의	주피터/NNP+의/JKG
+아내이자	아내/NNG+이/VCP+자/EC
+탐사선의	탐사선/NNG+의/JKG
+이름이기도	이름/NNG+이/VCP+기/ETN+도/JX
+한	하/VX+ㄴ/ETM
+주노(헤라)의	주노/NNP+(/SS+헤라/NNP+)/SS+의/JKG
+인형들이다.	인형/NNG+들/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.9.1
+주노가 이들을 싣고 가는 이유에 대해 미 언론들은 "5년 넘게 걸릴 목성 탐사에 대한 어린이들의 관심을 유도하기 위한 것"이라고 추측했다.
+
+주노가	주노/NNP+가/JKS
+이들을	이/NP+들/XSN+을/JKO
+싣고	싣/VV+고/EC
+가는	가/VV+는/ETM
+이유에	이유/NNG+에/JKB
+대해	대하/VV+아/EC
+미	미/NNP
+언론들은	언론/NNG+들/XSN+은/JX
+"5년	"/SS+5/SN+년/NNB
+넘게	넘/VV+게/EC
+걸릴	걸리/VV+ㄹ/ETM
+목성	목성/NNG
+탐사에	탐사/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+어린이들의	어린이/NNG+들/XSN+의/JKG
+관심을	관심/NNG+을/JKO
+유도하기	유도/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+추측했다.	추측/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.9.2
+이들을 우주비행사로 선정한 NASA 대변인의 설명도 흥미롭다.
+
+이들을	이/NP+들/XSN+을/JKO
+우주비행사로	우주/NNG+비행사/NNG+로/JKB
+선정한	선정/NNG+하/XSV+ㄴ/ETM
+NASA	NASA/SL
+대변인의	대변인/NNG+의/JKG
+설명도	설명/NNG+도/JX
+흥미롭다.	흥미/NNG+롭/XSA+다/EF+./SF
+
+
+# id : NWRW1800000030.37.9.3
+로마 신화에서 주피터는 아내 몰래 인간 세상에서 다른 짓을 할 때 구름으로 자신의 모습을 가리곤 했다.
+
+로마	로마/NNP
+신화에서	신화/NNG+에서/JKB
+주피터는	주피터/NNP+는/JX
+아내	아내/NNG
+몰래	몰래/MAG
+인간	인간/NNG
+세상에서	세상/NNG+에서/JKB
+다른	다른/MMD
+짓을	짓/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+때	때/NNG
+구름으로	구름/NNG+으로/JKB
+자신의	자신/NNG+의/JKG
+모습을	모습/NNG+을/JKO
+가리곤	가리/VV+곤/EC
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.10.1
+그러나 주노는 '진실을 보는 유리'가 있어 올림포스 산에서도 주피터의 행동을 지켜볼 수 있었다.
+
+그러나	그러나/MAJ
+주노는	주노/NNP+는/JX
+'진실을	'/SS+진실/NNG+을/JKO
+보는	보/VV+는/ETM
+유리'가	유리/NNG+'/SS+가/JKS
+있어	있/VA+어/EC
+올림포스	올림포스/NNP
+산에서도	산/NNG+에서/JKB+도/JX
+주피터의	주피터/NNP+의/JKG
+행동을	행동/NNG+을/JKO
+지켜볼	지켜보/VV+ㄹ/ETM
+수	수/NNB
+있었다.	있/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.37.10.2
+이 때문에 이번에 목성에 가는 주노 인형도 손에 유리를 들고 있으며 주피터는 자신의 상징인 번개를 들고 있다.
+
+이	이/NP
+때문에	때문/NNB+에/JKB
+이번에	이번/NNG+에/JKB
+목성에	목성/NNG+에/JKB
+가는	가/VV+는/ETM
+주노	주노/NNP
+인형도	인형/NNG+도/JX
+손에	손/NNG+에/JKB
+유리를	유리/NNG+를/JKO
+들고	들/VV+고/EC
+있으며	있/VX+으며/EC
+주피터는	주피터/NNP+는/JX
+자신의	자신/NNG+의/JKG
+상징인	상징/NNG+이/VCP+ㄴ/ETM
+번개를	번개/NNG+를/JKO
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.37.11.1
+또 다른 인형 갈릴레이는 목성 발견 공로에 대한 '존경'의 표시로 동행하게 됐고 이번 탐사를 위해 망원경을 휴대한다고 NASA 대변인은 밝혔다.
+
+또	또/MAG
+다른	다른/MMD
+인형	인형/NNG
+갈릴레이는	갈릴레이/NNP+는/JX
+목성	목성/NNG
+발견	발견/NNG
+공로에	공로/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+'존경'의	'/SS+존경/NNG+'/SS+의/JKG
+표시로	표시/NNG+로/JKB
+동행하게	동행/NNG+하/XSV+게/EC
+됐고	되/VV+었/EP+고/EC
+이번	이번/NNG
+탐사를	탐사/NNG+를/JKO
+위해	위하/VV+아/EC
+망원경을	망원경/NNG+을/JKO
+휴대한다고	휴대/NNG+하/XSV+ㄴ다고/EC
+NASA	NASA/SL
+대변인은	대변인/NNG+은/JX
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

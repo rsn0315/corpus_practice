@@ -1,0 +1,412 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.208
+metadata : {}
+
+
+# id : NWRW1800000054.208.1.1
+내일 부산엔 '광고의 바다'가 열린다
+
+내일	내일/MAG
+부산엔	부산/NNP+에/JKB+ㄴ/JX
+'광고의	'/SS+광고/NNG+의/JKG
+바다'가	바다/NNG+'/SS+가/JKS
+열린다	열리/VV+ㄴ다/EF
+
+
+# id : NWRW1800000054.208.2.1
+부산국제광고제 24~26일… 56개국 2만150편 출품 '아시아 최다'
+
+부산국제광고제	부산/NNP+국제/NNG+광고제/NNG
+24~26일…	24/SN+~/SO+26/SN+일/NNB+…/SE
+56개국	56/SN+개국/NNB
+2만150편	2/SN+만/NR+150/SN+편/NNB
+출품	출품/NNG
+'아시아	'/SS+아시아/NNP
+최다'	최다/NNG+'/SS
+
+
+# id : NWRW1800000054.208.3.1
+24~26일 부산 해운대구 벡스코 제1전시장에서 '부산국제광고제(AD STARS 2017·adstars.org)'가 열린다.
+
+24~26일	24/SN+~/SO+26/SN+일/NNB
+부산	부산/NNP
+해운대구	해운대구/NNP
+벡스코	벡스코/NNP
+제1전시장에서	제/XPN+1/SN+전시장/NNG+에서/JKB
+'부산국제광고제(AD	'/SS+부산/NNP+국제/NNG+광고제/NNG+(/SS+AD/SL
+STARS	STARS/SL
+2017·adstars.org)'가	2017/SN+·/SP+adstars/SL+./SP+org/SL+)/SS+'/SS+가/JKS
+열린다.	열리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.208.3.2
+올해로 열 돌을 맞는 이번 국제광고제의 주제는 '창의(Creativity) +-×÷ 기술(Technology)'.
+
+올해로	올해/NNG+로/JKB
+열	열/NR
+돌을	돌/NNB+을/JKO
+맞는	맞/VV+는/ETM
+이번	이번/NNG
+국제광고제의	국제/NNG+광고제/NNG+의/JKG
+주제는	주제/NNG+는/JX
+'창의(Creativity)	'/SS+창의/NNG+(/SS+Creativity/SL+)/SS
++-×÷	+/SW+-/SO+×/SW+÷/SW
+기술(Technology)'.	기술/NNG+(/SS+Technology/SL+)/SS+'/SS+./SF
+
+
+# id : NWRW1800000054.208.3.3
+제4차 산업혁명 시대에 변화하는 광고계의 창의와 기술의 첨단 흐름을 모았다.
+
+제4차	제/XPN+4/SN+차/NNB
+산업혁명	산업/NNG+혁명/NNG
+시대에	시대/NNG+에/JKB
+변화하는	변화/NNG+하/XSV+는/ETM
+광고계의	광고/NNG+계/XSN+의/JKG
+창의와	창의/NNG+와/JC
+기술의	기술/NNG+의/JKG
+첨단	첨단/NNG
+흐름을	흐름/NNG+을/JKO
+모았다.	모으/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.4.1
+올해 출품작은 2만150편(56국)이다.
+
+올해	올해/NNG
+출품작은	출품작/NNG+은/JX
+2만150편(56국)이다.	2/SN+만/NR+150/SN+편/NNB+(/SS+56국/NNG+)/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.4.2
+출품작 3000편으로 시작했던 2008년과 비교하면 커다란 양적 성장을 이뤘다.
+
+출품작	출품작/NNG
+3000편으로	3000/SN+편/NNB+으로/JKB
+시작했던	시작/NNG+하/XSV+았/EP+던/ETM
+2008년과	2008/SN+년/NNB+과/JKB
+비교하면	비교/NNG+하/XSV+면/EC
+커다란	커다랗/VA+ㄴ/ETM
+양적	양/NNG+적/XSN
+성장을	성장/NNG+을/JKO
+이뤘다.	이루/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.4.3
+출품작 규모 등으로 볼 때 종전 아시아 지역 대표 광고제였던 애드페스트(AD FEST), 스파익스 아시아(SPIKES ASIA) 등을 넘어섰다.
+
+출품작	출품작/NNG
+규모	규모/NNG
+등으로	등/NNB+으로/JKB
+볼	보/VV+ㄹ/ETM
+때	때/NNG
+종전	종전/NNG
+아시아	아시아/NNP
+지역	지역/NNG
+대표	대표/NNG
+광고제였던	광고제/NNG+이/VCP+었/EP+던/ETM
+애드페스트(AD	애드페스트/NNG+(/SS+AD/SL
+FEST),	FEST/SL+)/SS+,/SP
+스파익스	스파익스/NNG
+아시아(SPIKES	아시아/NNP+(/SS+SPIKES/SL
+ASIA)	ASIA/SL+)/SS
+등을	등/NNB+을/JKO
+넘어섰다.	넘어서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.5.1
+이의자 집행위원장은 "지난 10년간 부산국제광고제에서 수상한 작품들은 반짝이는 창의성으로 세계 광고계의 주목을 받아왔다"고 말했다.
+
+이의자	이의자/NNP
+집행위원장은	집행/NNG+위원장/NNG+은/JX
+"지난	"/SS+지나/VV+ㄴ/ETM
+10년간	10/SN+년/NNB+간/XSN
+부산국제광고제에서	부산/NNP+국제/NNG+광고제/NNG+에서/JKB
+수상한	수상/NNG+하/XSV+ㄴ/ETM
+작품들은	작품/NNG+들/XSN+은/JX
+반짝이는	반짝이/VV+는/ETM
+창의성으로	창의/NNG+성/XSN+으로/JKB
+세계	세계/NNG
+광고계의	광고/NNG+계/XSN+의/JKG
+주목을	주목/NNG+을/JKO
+받아왔다"고	받/VV+아/EC+오/VX+았/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.5.2
+총신이 긴 소총을 들고 있는 군인의 모습을 원통형으로 말면 그 총구가 자신의 뒤통수를 겨누게 되는 '뿌린 대로 거두리라(What goes around comes around·2009년 공익광고부문 금상)', 음주운전 사고로 부서진 차의 부품들로 만든 '휠체어(2008년 올해의 대상)', 교통사고로 왼다리를 잃은 사람이 철로 옆에 횡단금지 표지판을 들고 서 있는 '인간 교통표지판(2014년 올해의 대상)' 등이 그런 작품들이었다.
+
+총신이	총신/NNG+이/JKS
+긴	길/VA+ㄴ/ETM
+소총을	소총/NNG+을/JKO
+들고	들/VV+고/EC
+있는	있/VX+는/ETM
+군인의	군인/NNG+의/JKG
+모습을	모습/NNG+을/JKO
+원통형으로	원통/NNG+형/XSN+으로/JKB
+말면	말/VV+면/EC
+그	그/MMD
+총구가	총구/NNG+가/JKS
+자신의	자신/NNG+의/JKG
+뒤통수를	뒤통수/NNG+를/JKO
+겨누게	겨누/VV+게/EC
+되는	되/VV+는/ETM
+'뿌린	'/SS+뿌리/VV+ㄴ/ETM
+대로	대로/NNB
+거두리라(What	거두/VV+리라/EF+(/SS+What/SL
+goes	goes/SL
+around	around/SL
+comes	comes/SL
+around·2009년	around/SL+·/SP+2009/SN+년/NNB
+공익광고부문	공익/NNG+광고/NNG+부문/NNG
+금상)',	금상/NNG+)/SS+'/SS+,/SP
+음주운전	음주/NNG+운전/NNG
+사고로	사고/NNG+로/JKB
+부서진	부서지/VV+ㄴ/ETM
+차의	차/NNG+의/JKG
+부품들로	부품/NNG+들/XSN+로/JKB
+만든	만들/VV+ㄴ/ETM
+'휠체어(2008년	'/SS+휠체어/NNG+(/SS+2008/SN+년/NNB
+올해의	올해/NNG+의/JKG
+대상)',	대상/NNG+)/SS+'/SS+,/SP
+교통사고로	교통사고/NNG+로/JKB
+왼다리를	왼/MMD+다리/NNG+를/JKO
+잃은	잃/VV+은/ETM
+사람이	사람/NNG+이/JKS
+철로	철로/NNG
+옆에	옆/NNG+에/JKB
+횡단금지	횡단/NNG+금지/NNG
+표지판을	표지판/NNG+을/JKO
+서	서/VV+어/EC
+'인간	'/SS+인간/NNG
+교통표지판(2014년	교통/NNG+표지판/NNG+(/SS+2014/SN+년/NNB
+대상)'	대상/NNG+)/SS+'/SS
+등이	등/NNB+이/JKS
+그런	그런/MMD
+작품들이었다.	작품/NNG+들/XSN+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.6.1
+올해 출품작은 4차 산업혁명 시대의 신기술을 활용한 것들이 많다.
+
+올해	올해/NNG
+출품작은	출품작/NNG+은/JX
+4차	4/SN+차/NNB
+산업혁명	산업/NNG+혁명/NNG
+시대의	시대/NNG+의/JKG
+신기술을	신/XPN+기술/NNG+을/JKO
+활용한	활용/NNG+하/XSV+ㄴ/ETM
+것들이	것/NNB+들/XSN+이/JKS
+많다.	많/VA+다/EF+./SF
+
+
+# id : NWRW1800000054.208.6.2
+트랙에서 달리기 연습을 하는 선수의 옆으로 가상현실(VR)로 만들어진 '디지털 아바타'가 뛰는 첨단 운동장을 표현한 '나이키 언리미티드 스타디움(Nike Unlimited Stadium)' 등이 대표적이다.
+
+트랙에서	트랙/NNG+에서/JKB
+달리기	달리기/NNG
+연습을	연습/NNG+을/JKO
+하는	하/VV+는/ETM
+선수의	선수/NNG+의/JKG
+옆으로	옆/NNG+으로/JKB
+가상현실(VR)로	가상/NNG+현실/NNG+(/SS+VR/SL+)/SS+로/JKB
+만들어진	만들/VV+어/EC+지/VX+ㄴ/ETM
+'디지털	'/SS+디지털/NNG
+아바타'가	아바타/NNG+'/SS+가/JKS
+뛰는	뛰/VV+는/ETM
+첨단	첨단/NNG
+운동장을	운동장/NNG+을/JKO
+표현한	표현/NNG+하/XSV+ㄴ/ETM
+'나이키	'/SS+나이키/NNP
+언리미티드	언리미티드/NNP
+스타디움(Nike	스타디움/NNP+(/SS+Nike/SL
+Unlimited	Unlimited/SL
+Stadium)'	Stadium/SL+)/SS+'/SS
+등이	등/NNB+이/JKS
+대표적이다.	대표/NNG+적/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.6.3
+또 축구장 2개를 어긋나게 연결해 공간을 얼마나 효율적으로 활용할 수 있는지 보여주는 'CJ 웍스(WORX)'의 '비일상적 축구장', 포장용 버블랩에 유니클로의 '히트텍(발열내의)' 광고를 프린팅해 창문 단열(斷熱)에 활용할 수 있도록 한 '제일 월드와이드'의 '히트텍 창문' 등이 출품됐다.
+
+또	또/MAG
+축구장	축구장/NNG
+2개를	2/SN+개/NNB+를/JKO
+어긋나게	어긋나/VV+게/EC
+연결해	연결/NNG+하/XSV+아/EC
+공간을	공간/NNG+을/JKO
+얼마나	얼마나/MAG
+효율적으로	효율/NNG+적/XSN+으로/JKB
+활용할	활용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는지	있/VA+는지/EF
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+'CJ	'/SS+CJ/SL
+웍스(WORX)'의	웍스/NNP+(/SS+WORX/SL+)/SS+'/SS+의/JKG
+'비일상적	'/SS+비/XPN+일상/NNG+적/XSN
+축구장',	축구장/NNG+'/SS+,/SP
+포장용	포장/NNG+용/XSN
+버블랩에	버블랩/NNG+에/JKB
+유니클로의	유니클로/NNP+의/JKG
+'히트텍(발열내의)'	'/SS+히트텍/NNP+(/SS+발열/NNG+내의/NNG+)/SS+'/SS
+광고를	광고/NNG+를/JKO
+프린팅해	프린팅/NNG+하/XSV+아/EC
+창문	창문/NNG
+단열(斷熱)에	단열/NNG+(/SS+斷熱/SH+)/SS+에/JKB
+있도록	있/VA+도록/EC
+한	하/VV+ㄴ/ETM
+'제일	'/SS+제일/NNP
+월드와이드'의	월드와이드/NNP+'/SS+의/JKG
+'히트텍	'/SS+히트텍/NNP
+창문'	창문/NNG+'/SS
+등이	등/NNB+이/JKS
+출품됐다.	출품/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.208.7.1
+전체 출품작 중 본선에 오르는 1799편 전시와 함께 전시4차산업혁명 특별 콘퍼런스, 13국 42팀의 대학생들이 기량을 겨루는 '영스타즈 광고경진대회', 부산·서울창조경제혁신센터·부산창업지원센터·스타트업 얼라이언스 등의 '스타트업 공동관', 창의성을 배우고 창의적 직업을 모색하는 '크리에이티브 스쿨&잡페어' 등의 행사가 열린다.
+
+전체	전체/NNG
+출품작	출품작/NNG
+중	중/NNB
+본선에	본선/NNG+에/JKB
+오르는	오르/VV+는/ETM
+1799편	1799/SN+편/NNB
+전시와	전시/NNG+와/JKB
+함께	함께/MAG
+전시4차산업혁명	전시/NNG+4/SN+차/NNB+산업/NNG+혁명/NNG
+특별	특별/NNG
+콘퍼런스,	콘퍼런스/NNG+,/SP
+13국	13국/NNG
+42팀의	42/SN+팀/NNG+의/JKG
+대학생들이	대학/NNG+생/XSN+들/XSN+이/JKS
+기량을	기량/NNG+을/JKO
+겨루는	겨루/VV+는/ETM
+'영스타즈	'/SS+영스타즈/NNG
+광고경진대회',	광고/NNG+경진/NNG+대회/NNG+'/SS+,/SP
+부산·서울창조경제혁신센터·부산창업지원센터·스타트업	부산/NNP+·/SP+서울창조경제혁신센터/NNP+·/SP+부산창업지원센터/NNP+·/SP+스타트업/NNG
+얼라이언스	얼라이언스/NNP
+등의	등/NNB+의/JKG
+'스타트업	'/SS+스타트업/NNG
+공동관',	공동관/NNG+'/SS+,/SP
+창의성을	창의/NNG+성/XSN+을/JKO
+배우고	배우/VV+고/EC
+창의적	창의/NNG+적/XSN
+직업을	직업/NNG+을/JKO
+모색하는	모색/NNG+하/XSV+는/ETM
+'크리에이티브	'/SS+크리에이티브/NNG
+스쿨&잡페어'	스쿨/NNG+&/SW+잡페어/NNG+'/SS
+행사가	행사/NNG+가/JKS
+열린다.	열리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.208.8.1
+태국의 수티삭 수차리타논타, 브라질의 안젤모 라모스, 캐나다의 웨인 초이와 헬렌 박 등 세계적 유명 광고인들이 본선 심사위원으로 참가한다.
+
+태국의	태국/NNP+의/JKG
+수티삭	수티삭/NNP
+수차리타논타,	수차리타논타/NNP+,/SP
+브라질의	브라질/NNP+의/JKG
+안젤모	안젤모/NNP
+라모스,	라모스/NNP+,/SP
+캐나다의	캐나다/NNP+의/JKG
+웨인	웨인/NNP
+초이와	초이/NNP+와/JC
+헬렌	헬렌/NNP
+박	박/NNP
+등	등/NNB
+세계적	세계/NNG+적/XSN
+유명	유명/NNG
+광고인들이	광고인/NNG+들/XSN+이/JKS
+본선	본선/NNG
+심사위원으로	심사/NNG+위원/NNG+으로/JKB
+참가한다.	참가/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.208.8.2
+4차 산업혁명 특별콘퍼런스엔 백영재 구글KOREA 글로벌 디렉터, 무라카미 신 야후재팬 최고마케팅경영자, 세계적인 로봇과학자인UCLA의 데니스 홍 교수 등이 기조연사로 나선다.
+
+4차	4/SN+차/NNB
+산업혁명	산업/NNG+혁명/NNG
+특별콘퍼런스엔	특별/NNG+콘퍼런스/NNG+에/JKB+ㄴ/JX
+백영재	백영재/NNP
+구글KOREA	구글KOREA/NNP
+글로벌	글로벌/NNG
+디렉터,	디렉터/NNG+,/SP
+무라카미	무라카미/NNP
+신	신/NNP
+야후재팬	야후재팬/NNP
+최고마케팅경영자,	최고/NNG+마케팅/NNG+경영자/NNG+,/SP
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+로봇과학자인UCLA의	로봇/NNG+과학자/NNG+이/VCP+ㄴ/ETM+UCLA/SL+의/JKG
+데니스	데니스/NNP
+홍	홍/NNP
+교수	교수/NNG
+등이	등/NNB+이/JKS
+기조연사로	기조/NNG+연사/NNG+로/JKB
+나선다.	나서/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.208.8.3
+이들은 기계학습(Machine Learning)이란 무엇인가, AI(인공지능)의 미래, 전문직의 미래, 모바일 로봇 등을 주제로 강연하고 토론한다.
+
+이들은	이/NP+들/XSN+은/JX
+기계학습(Machine	기계/NNG+학습/NNG+(/SS+Machine/SL
+Learning)이란	Learning/SL+)/SS+이란/JX
+무엇인가,	무엇/NP+이/VCP+ㄴ가/EF+,/SP
+AI(인공지능)의	AI/SL+(/SS+인공/NNG+지능/NNG+)/SS+의/JKG
+미래,	미래/NNG+,/SP
+전문직의	전문직/NNG+의/JKG
+모바일	모바일/NNG
+로봇	로봇/NNG
+등을	등/NNB+을/JKO
+주제로	주제/NNG+로/JKB
+강연하고	강연/NNG+하/XSV+고/EC
+토론한다.	토론/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.208.9.1
+이의자 집행위원장은 "'부산국제광고제'는 유럽이 주도권을 행사하고 있는 세계 광고계에 아시아권의 문화적 영향력을 확장시켜 나가는 창구 역할을 할 것"이라며 "일자리박람회·스타트업 지원·시민들의 창의성 체험 등을 융합시켜 광고계뿐만 아니라 지역경제와 사회, 문화 등에 다양한 효과를 낳는 촉매제가 되도록 노력하겠다"고 말했다.
+
+이의자	이의자/NNP
+집행위원장은	집행/NNG+위원장/NNG+은/JX
+"'부산국제광고제'는	"/SS+'/SS+부산/NNP+국제/NNG+광고제/NNG+'/SS+는/JX
+유럽이	유럽/NNP+이/JKS
+주도권을	주도/NNG+권/XSN+을/JKO
+행사하고	행사/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+세계	세계/NNG
+광고계에	광고/NNG+계/XSN+에/JKB
+아시아권의	아시아/NNP+권/XSN+의/JKG
+문화적	문화/NNG+적/XSN
+영향력을	영향력/NNG+을/JKO
+확장시켜	확장/NNG+시키/XSV+어/EC
+나가는	나가/VX+는/ETM
+창구	창구/NNG
+역할을	역할/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+"일자리박람회·스타트업	"/SS+일자리/NNG+박람회/NNG+·/SP+스타트업/NNG
+지원·시민들의	지원/NNG+·/SP+시민/NNG+들/XSN+의/JKG
+창의성	창의/NNG+성/XSN
+체험	체험/NNG
+등을	등/NNB+을/JKO
+융합시켜	융합/NNG+시키/XSV+어/EC
+광고계뿐만	광고/NNG+계/XSN+뿐/JX+만/JX
+아니라	아니/VCN+라/EC
+지역경제와	지역/NNG+경제/NNG+와/JC
+사회,	사회/NNG+,/SP
+문화	문화/NNG
+등에	등/NNB+에/JKB
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+효과를	효과/NNG+를/JKO
+낳는	낳/VV+는/ETM
+촉매제가	촉매제/NNG+가/JKC
+되도록	되/VV+도록/EC
+노력하겠다"고	노력/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

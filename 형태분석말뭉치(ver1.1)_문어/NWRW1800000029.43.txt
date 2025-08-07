@@ -1,0 +1,243 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000029.43
+metadata : {}
+
+
+# id : NWRW1800000029.43.1.1
+신한금융 회장직 만 67세 이하만 가능
+
+신한금융	신한금융/NNP
+회장직	회장직/NNG
+만	만/MMA
+67세	67/SN+세/NNB
+이하만	이하/NNG+만/JX
+가능	가능/NNG
+
+
+# id : NWRW1800000029.43.2.1
+그룹운영체계 발표… 재임기한도 만 70세로 제한
+
+그룹운영체계	그룹/NNG+운영/NNG+체계/NNG
+발표…	발표/NNG+…/SE
+재임기한도	재임/NNG+기한/NNG+도/JX
+만	만/MMA
+70세로	70/SN+세/NNB+로/JKB
+제한	제한/NNG
+
+
+# id : NWRW1800000029.43.3.1
+지난해 라응찬 전 회장과 신상훈 전 사장 간의 내분으로 홍역을 치렀던 신한금융지주가 1인 장기 경영을 차단하기 위해 신임 최고경영자(CEO)의 나이를 만 67세 이하로 제한하고 현 CEO 재임 중에 차기 CEO 후보를 공표하도록 하는 개선안을 발표했다.
+
+지난해	지난해/NNG
+라응찬	라응찬/NNP
+전	전/MMD
+회장과	회장/NNG+과/JC
+신상훈	신상훈/NNP
+사장	사장/NNG
+간의	간/NNB+의/JKG
+내분으로	내분/NNG+으로/JKB
+홍역을	홍역/NNG+을/JKO
+치렀던	치르/VV+었/EP+던/ETM
+신한금융지주가	신한금융지주/NNP+가/JKS
+1인	1/SN+인/NNG
+장기	장기/NNG
+경영을	경영/NNG+을/JKO
+차단하기	차단/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+신임	신임/NNG
+최고경영자(CEO)의	최고/NNG+경영자/NNG+(/SS+CEO/SL+)/SS+의/JKG
+나이를	나이/NNG+를/JKO
+만	만/MMA
+67세	67/SN+세/NNB
+이하로	이하/NNG+로/JKB
+제한하고	제한/NNG+하/XSV+고/EC
+현	현/MMD
+CEO	CEO/SL
+재임	재임/NNG
+중에	중/NNB+에/JKB
+차기	차기/NNG
+후보를	후보/NNG+를/JKO
+공표하도록	공표/NNG+하/XSV+도록/EC
+하는	하/VV+는/ETM
+개선안을	개선안/NNG+을/JKO
+발표했다.	발표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.43.4.1
+한동우 신한금융 회장은 취임 100일을 맞아 기자간담회를 열고 “지난해 나타났던 것처럼 CEO 승계 절차와 그룹의 의사결정 과정 등에서 다소 미흡한 점이 있었다”라며 “외부 전문가 그룹의 조언과 글로벌 금융기관들의 사례를 바탕으로 운영체계를 한 차원 개선했다”고 밝혔다.
+
+한동우	한동우/NNP
+신한금융	신한금융/NNP
+회장은	회장/NNG+은/JX
+취임	취임/NNG
+100일을	100/SN+일/NNB+을/JKO
+맞아	맞/VV+아/EC
+기자간담회를	기자/NNG+간담회/NNG+를/JKO
+열고	열/VV+고/EC
+“지난해	“/SS+지난해/NNG
+나타났던	나타나/VV+았/EP+던/ETM
+것처럼	것/NNB+처럼/JKB
+CEO	CEO/SL
+승계	승계/NNG
+절차와	절차/NNG+와/JC
+그룹의	그룹/NNG+의/JKG
+의사결정	의사/NNG+결정/NNG
+과정	과정/NNG
+등에서	등/NNB+에서/JKB
+다소	다소/MAG
+미흡한	미흡/NNG+하/XSA+ㄴ/ETM
+점이	점/NNG+이/JKS
+있었다”라며	있/VA+었/EP+다/EF+”/SS+이/VCP+라며/EC
+“외부	“/SS+외부/NNG
+전문가	전문가/NNG
+조언과	조언/NNG+과/JC
+글로벌	글로벌/NNG
+금융기관들의	금융/NNG+기관/NNG+들/XSN+의/JKG
+사례를	사례/NNG+를/JKO
+바탕으로	바탕/NNG+으로/JKB
+운영체계를	운영/NNG+체계/NNG+를/JKO
+한	한/MMN
+차원	차원/NNG
+개선했다”고	개선/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.43.5.1
+개선안은 무엇보다 그룹 후계구도와 관련한 갈등의 ‘불씨’를 없애는 데 중점을 뒀다.
+
+개선안은	개선안/NNG+은/JX
+무엇보다	무엇/NP+보다/JKB
+그룹	그룹/NNG
+후계구도와	후계/NNG+구도/NNG+와/JKB
+관련한	관련/NNG+하/XSV+ㄴ/ETM
+갈등의	갈등/NNG+의/JKG
+‘불씨’를	‘/SS+불씨/NNG+’/SS+를/JKO
+없애는	없애/VV+는/ETM
+데	데/NNB
+중점을	중점/NNG+을/JKO
+뒀다.	두/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.43.5.2
+먼저 지나친 장기 경영의 부작용을 방지하기 위해 CEO 신규 선임 연령을 만 67세로 제한했고 연임하더라도 만 70세가 되면 물러나도록 한도를 설정했다.
+
+먼저	먼저/MAG
+지나친	지나치/VA+ㄴ/ETM
+장기	장기/NNG
+경영의	경영/NNG+의/JKG
+부작용을	부작용/NNG+을/JKO
+방지하기	방지/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+CEO	CEO/SL
+신규	신규/NNG
+선임	선임/NNG
+연령을	연령/NNG+을/JKO
+만	만/MMA
+67세로	67/SN+세/NNB+로/JKB
+제한했고	제한/NNG+하/XSV+았/EP+고/EC
+연임하더라도	연임/NNG+하/XSV+더라도/EC
+70세가	70/SN+세/NNB+가/JKC
+되면	되/VV+면/EC
+물러나도록	물러나/VV+도록/EC
+한도를	한도/NNG+를/JKO
+설정했다.	설정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.43.5.3
+또 공정한 경영권 승계가 이루어질 수 있도록 CEO의 자격 요건을 사전에 공개하는 한편으로 재임 중인 CEO의 임기가 끝나기 전에 차기 CEO 후보를 공표하도록 했다.
+
+또	또/MAG
+공정한	공정/NNG+하/XSA+ㄴ/ETM
+경영권	경영/NNG+권/XSN
+승계가	승계/NNG+가/JKS
+이루어질	이루어지/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+CEO의	CEO/SL+의/JKG
+자격	자격/NNG
+요건을	요건/NNG+을/JKO
+사전에	사전/NNG+에/JKB
+공개하는	공개/NNG+하/XSV+는/ETM
+한편으로	한편/NNG+으로/JKB
+재임	재임/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+임기가	임기/NNG+가/JKS
+끝나기	끝나/VV+기/ETN
+전에	전/NNG+에/JKB
+차기	차기/NNG
+CEO	CEO/SL
+후보를	후보/NNG+를/JKO
+공표하도록	공표/NNG+하/XSV+도록/EC
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.43.5.4
+CEO 승계과정 전반은 이사회 아래 새로 설치되는 ‘지배구조 및 회장후보추천위원회’(가칭)가 관리한다.
+
+CEO	CEO/SL
+승계과정	승계/NNG+과정/NNG
+전반은	전반/NNG+은/JX
+이사회	이사회/NNG
+아래	아래/NNG
+새로	새로/MAG
+설치되는	설치/NNG+되/XSV+는/ETM
+‘지배구조	‘/SS+지배/NNG+구조/NNG
+및	및/MAG
+회장후보추천위원회’(가칭)가	회장/NNG+후보/NNG+추천/NNG+위원회/NNG+’/SS+(/SS+가칭/NNG+)/SS+가/JKS
+관리한다.	관리/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000029.43.6.1
+이와 함께 그동안 회장과 그룹 CEO에게 의사결정 권한이 지나치게 편중됐던 폐해를 막기 위해 그룹 CEO와 주요 자회사 CEO, 경영진이 참여하는 ‘그룹경영회의(Executive Committee)’를 신설하기로 했다.
+
+이와	이/NP+와/JKB
+함께	함께/MAG
+그동안	그동안/NNG
+회장과	회장/NNG+과/JC
+그룹	그룹/NNG
+CEO에게	CEO/SL+에게/JKB
+의사결정	의사/NNG+결정/NNG
+권한이	권한/NNG+이/JKS
+지나치게	지나치/VA+게/EC
+편중됐던	편중/NNG+되/XSV+었/EP+던/ETM
+폐해를	폐해/NNG+를/JKO
+막기	막/VV+기/ETN
+위해	위하/VV+아/EC
+CEO와	CEO/SL+와/JC
+주요	주요/NNG
+자회사	자회사/NNG
+CEO,	CEO/SL+,/SP
+경영진이	경영진/NNG+이/JKS
+참여하는	참여/NNG+하/XSV+는/ETM
+‘그룹경영회의(Executive	‘/SS+그룹/NNG+경영/NNG+회의/NNG+(/SS+Executive/SL
+Committee)’를	Committee/SL+)/SS+’/SS+를/JKO
+신설하기로	신설/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.43.6.2
+또 그룹의 분산된 자원을 최적화해 활용하도록 각 계열사의 유사한 사업부문을 총괄하는 임원을 임명하는 경영관리 체계를 도입하기로 했다.
+
+또	또/MAG
+그룹의	그룹/NNG+의/JKG
+분산된	분산/NNG+되/XSV+ㄴ/ETM
+자원을	자원/NNG+을/JKO
+최적화해	최적/NNG+화/XSN+하/XSV+아/EC
+활용하도록	활용/NNG+하/XSV+도록/EC
+각	각/MMD
+계열사의	계열사/NNG+의/JKG
+유사한	유사/NNG+하/XSA+ㄴ/ETM
+사업부문을	사업/NNG+부문/NNG+을/JKO
+총괄하는	총괄/NNG+하/XSV+는/ETM
+임원을	임원/NNG+을/JKO
+임명하는	임명/NNG+하/XSV+는/ETM
+경영관리	경영/NNG+관리/NNG
+체계를	체계/NNG+를/JKO
+도입하기로	도입/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+

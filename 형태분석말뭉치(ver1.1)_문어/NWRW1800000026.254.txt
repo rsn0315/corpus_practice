@@ -1,0 +1,202 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.254
+metadata : {}
+
+
+# id : NWRW1800000026.254.1.1
+[World Topics] 트림·방귀 확 줄인 친환경 '미니 소' 인기
+
+[World	[/SS+World/SL
+Topics]	Topics/SL+]/SS
+트림·방귀	트림/NNG+·/SP+방귀/NNG
+확	확/MAG
+줄인	줄이/VV+ㄴ/ETM
+친환경	친/XPN+환경/NNG
+'미니	'/SS+미니/NNG
+소'	소/NNG+'/SS
+인기	인기/NNG
+
+
+# id : NWRW1800000026.254.2.1
+가축이 배출하는 온실가스를 줄일 수 있는 친환경 미니 소(miniature cow·사진)가 미국서 인기를 끌고 있다.
+
+가축이	가축/NNG+이/JKS
+배출하는	배출/NNG+하/XSV+는/ETM
+온실가스를	온실가스/NNG+를/JKO
+줄일	줄이/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+친환경	친/XPN+환경/NNG
+미니	미니/NNG
+소(miniature	소/NNG+(/SS+miniature/SL
+cow·사진)가	cow/SL+·/SP+사진/NNG+)/SS+가/JKS
+미국서	미국/NNP+서/JKB
+인기를	인기/NNG+를/JKO
+끌고	끌/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.254.2.2
+영국 가디언은 25일 "미국 '미니 소 품종개발연구소' 리처드 그래드월(Gradwohl) 소장이 개발한 미니 소는 몸체 길이가 1m도 되지 않는다"며 "미국 각지의 농장에서 그래드월 소장이 분양한 미니 소 2만여 마리가 사육되는 중"이라고 전했다.
+
+영국	영국/NNP
+가디언은	가디언/NNP+은/JX
+25일	25/SN+일/NNB
+"미국	"/SS+미국/NNP
+'미니	'/SS+미니/NNG
+소	소/NNG
+품종개발연구소'	품종/NNG+개발/NNG+연구소/NNG+'/SS
+리처드	리처드/NNP
+그래드월(Gradwohl)	그래드월/NNP+(/SS+Gradwohl/SL+)/SS
+소장이	소장/NNG+이/JKS
+개발한	개발/NNG+하/XSV+ㄴ/ETM
+미니	미니/NNG
+소는	소/NNG+는/JX
+몸체	몸체/NNG
+길이가	길이/NNG+가/JKS
+1m도	1/SN+m/SW+도/JX
+되지	되/VV+지/EC
+않는다"며	않/VX+는다/EF+"/SS+며/EC
+각지의	각지/NNG+의/JKG
+농장에서	농장/NNG+에서/JKB
+그래드월	그래드월/NNP
+분양한	분양/NNG+하/XSV+ㄴ/ETM
+2만여	2/SN+만/NR+여/XSN
+마리가	마리/NNB+가/JKS
+사육되는	사육/NNG+되/XSV+는/ETM
+중"이라고	중/NNB+"/SS+이라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.254.3.1
+미니 소는 크기는 작지만 생산성이 일반 육우(肉牛)에 훨씬 앞선다는 게 그래드월 소장의 설명이다.
+
+미니	미니/NNG
+소는	소/NNG+는/JX
+크기는	크기/NNG+는/JX
+작지만	작/VA+지만/EC
+생산성이	생산/NNG+성/XSN+이/JKS
+일반	일반/NNG
+육우(肉牛)에	육우/NNG+(/SS+肉牛/SH+)/SS+에/JKB
+훨씬	훨씬/MAG
+앞선다는	앞서/VV+ㄴ다는/ETM
+게	거/NNB+이/JKS
+그래드월	그래드월/NNP
+소장의	소장/NNG+의/JKG
+설명이다.	설명/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.254.3.2
+2만㎡(약 6000평)의 초원에서 방목할 경우, 일반 소는 2마리 정도밖에 키울 수 없지만 미니 소는 10마리까지 사육이 가능하다.
+
+2만㎡(약	2/SN+만/NR+㎡/SW+(/SS+약/MMA
+6000평)의	6000/SN+평/NNB+)/SS+의/JKG
+초원에서	초원/NNG+에서/JKB
+방목할	방목/NNG+하/XSV+ㄹ/ETM
+경우,	경우/NNG+,/SP
+일반	일반/NNG
+소는	소/NNG+는/JX
+2마리	2/SN+마리/NNB
+정도밖에	정도/NNG+밖에/JX
+키울	키우/VV+ㄹ/ETM
+수	수/NNB
+없지만	없/VA+지만/EC
+미니	미니/NNG
+10마리까지	10/SN+마리/NNB+까지/JX
+사육이	사육/NNG+이/JKS
+가능하다.	가능/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000026.254.3.3
+같은 면적에서 고기 생산량은 3배나 높고, 사료는 약 3분의 1밖에 들지 않는다.
+
+같은	같/VA+은/ETM
+면적에서	면적/NNG+에서/JKB
+고기	고기/NNG
+생산량은	생산량/NNG+은/JX
+3배나	3/SN+배/NNG+나/JX
+높고,	높/VA+고/EC+,/SP
+사료는	사료/NNG+는/JX
+약	약/MMA
+3분의	3/SN+분/XSN+의/JKG
+1밖에	1/SN+밖에/JX
+들지	들/VV+지/EC
+않는다.	않/VX+는다/EF+./SF
+
+
+# id : NWRW1800000026.254.3.4
+몸체만큼 세포 크기도 작아 육질이 일반 소고기보다 더 부드럽다는 장점도 있다.
+
+몸체만큼	몸체/NNG+만큼/JKB
+세포	세포/NNG
+크기도	크기/NNG+도/JX
+작아	작/VA+아/EC
+육질이	육질/NNG+이/JKS
+일반	일반/NNG
+소고기보다	소고기/NNG+보다/JKB
+더	더/MAG
+부드럽다는	부드럽/VA+다는/ETM
+장점도	장점/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.254.4.1
+미니 소는 온실가스 감축에도 도움이 된다.
+
+미니	미니/NNG
+소는	소/NNG+는/JX
+온실가스	온실가스/NNG
+감축에도	감축/NNG+에/JKB+도/JX
+도움이	도움/NNG+이/JKC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.254.4.2
+전 세계 가축이 방귀와 트림으로 뿜는 메탄가스는 한 해 약 1억t으로 전체 메탄가스 생산량의 최대 20%에 달한다고 전문가들은 분석한다.
+
+전	전/MMD
+세계	세계/NNG
+가축이	가축/NNG+이/JKS
+방귀와	방귀/NNG+와/JC
+트림으로	트림/NNG+으로/JKB
+뿜는	뿜/VV+는/ETM
+메탄가스는	메탄가스/NNG+는/JX
+한	한/MMN
+해	해/NNB
+약	약/MMA
+1억t으로	1/SN+억/NR+t/SW+으로/JKB
+전체	전체/NNG
+메탄가스	메탄가스/NNG
+생산량의	생산량/NNG+의/JKG
+최대	최대/NNG
+20%에	20/SN+%/SW+에/JKB
+달한다고	달하/VV+ㄴ다고/EC
+전문가들은	전문가/NNG+들/XSN+은/JX
+분석한다.	분석/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.254.4.3
+그래드월 소장은 "미니 소 10마리가 뱉어내는 메탄가스는 일반 소 1마리가 뿜는 양과 맞먹을 정도로 적은 수준"이라고 설명했다.
+
+그래드월	그래드월/NNP
+소장은	소장/NNG+은/JX
+"미니	"/SS+미니/NNG
+소	소/NNG
+10마리가	10/SN+마리/NNB+가/JKS
+뱉어내는	뱉/VV+어/EC+내/VX+는/ETM
+메탄가스는	메탄가스/NNG+는/JX
+일반	일반/NNG
+1마리가	1/SN+마리/NNB+가/JKS
+뿜는	뿜/VV+는/ETM
+양과	양/NNG+과/JKB
+맞먹을	맞먹/VV+을/ETM
+정도로	정도/NNG+로/JKB
+적은	적/VA+은/ETM
+수준"이라고	수준/NNG+"/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,237 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.182
+metadata : {}
+
+
+# id : NWRW1800000038.182.1.1
+CJ, 수사 본격화되자 몸 낮추나?… 계열사 일부 방송 프로 결방·연기
+
+CJ,	CJ/SL+,/SP
+수사	수사/NNG
+본격화되자	본격/NNG+화/XSN+되/XSV+자/EC
+몸	몸/NNG
+낮추나?…	낮추/VV+나/EF+?/SF+…/SE
+계열사	계열사/NNG
+일부	일부/NNG
+방송	방송/NNG
+프로	프로/NNG
+결방·연기	결방/NNG+·/SP+연기/NNG
+
+
+# id : NWRW1800000038.182.2.1
+'최일구의 끝장토론' 방영 연기… '글로벌 텔레토비' 2주간 결방
+
+'최일구의	'/SS+최일구/NNP+의/JKG
+끝장토론'	끝장/NNG+토론/NNG+'/SS
+방영	방영/NNG
+연기…	연기/NNG+…/SE
+'글로벌	'/SS+글로벌/NNG
+텔레토비'	텔레토비/NNP+'/SS
+2주간	2/SN+주/NNB+간/XSN
+결방	결방/NNG
+
+
+# id : NWRW1800000038.182.3.1
+CJ그룹에 대한 검찰 수사가 본격화되면서 그룹 계열의 방송 채널이 유사 보도 방송 논란이 됐던 프로그램을 결방시키는 등 몸을 낮추기 시작했다.
+
+CJ그룹에	CJ그룹/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+검찰	검찰/NNG
+수사가	수사/NNG+가/JKS
+본격화되면서	본격/NNG+화/XSN+되/XSV+면서/EC
+그룹	그룹/NNG
+계열의	계열/NNG+의/JKG
+방송	방송/NNG
+채널이	채널/NNG+이/JKS
+유사	유사/NNG
+보도	보도/NNG
+논란이	논란/NNG+이/JKC
+됐던	되/VV+었/EP+던/ETM
+프로그램을	프로그램/NNG+을/JKO
+결방시키는	결방/NNG+시키/XSV+는/ETM
+등	등/NNB
+몸을	몸/NNG+을/JKO
+낮추기	낮추/VV+기/ETN
+시작했다.	시작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.4.1
+CJ E&M의 tvN은 지난달 29일 첫 방송 예정이었던 '최일구의 끝장토론'을 무기한 연기했다.
+
+CJ	CJ/SL
+E&M의	E/SL+&/SW+M/SL+의/JKG
+tvN은	tvN/SL+은/JX
+지난달	지난달/NNG
+29일	29/SN+일/NNB
+첫	첫/MMN
+방송	방송/NNG
+예정이었던	예정/NNG+이/VCP+었/EP+던/ETM
+'최일구의	'/SS+최일구/NNP+의/JKG
+끝장토론'을	끝장/NNG+토론/NNG+'/SS+을/JKO
+무기한	무/XPN+기한/NNG
+연기했다.	연기/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.4.2
+CJ E&M은 프로그램 첫 방송을 하루 앞둔 지난달 28일 "내부 사정으로 끝장토론의 방송 론칭을 잠정 연기하기로 결정했다. 언제까지 연기하게 될지 그 시점은 아직 모른다"고 밝혔다.
+
+CJ	CJ/SL
+E&M은	E/SL+&/SW+M/SL+은/JX
+프로그램	프로그램/NNG
+첫	첫/MMN
+방송을	방송/NNG+을/JKO
+하루	하루/NNG
+앞둔	앞두/VV+ㄴ/ETM
+지난달	지난달/NNG
+28일	28/SN+일/NNB
+"내부	"/SS+내부/NNG
+사정으로	사정/NNG+으로/JKB
+끝장토론의	끝장/NNG+토론/NNG+의/JKG
+방송	방송/NNG
+론칭을	론칭/NNG+을/JKO
+잠정	잠정/NNG
+연기하기로	연기/NNG+하/XSV+기/ETN+로/JKB
+결정했다.	결정/NNG+하/XSV+았/EP+다/EF+./SF
+언제까지	언제/NP+까지/JX
+연기하게	연기/NNG+하/XSV+게/EC
+될지	되/VV+ㄹ지/EF
+그	그/MMD
+시점은	시점/NNG+은/JX
+아직	아직/MAG
+모른다"고	모르/VV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.4.3
+이 프로그램은 MBC 앵커 출신 최일구씨 진행으로 이준석 클라세스튜디오 대표와 송채경화 한겨레 기자가 고정 패널로 출연해 교육 등 시사문제에 대해 토론하는 포맷으로, 홍보를 위한 제작 발표회도 열었고 이미 2회분 녹화를 마친 상태였다.
+
+이	이/MMD
+프로그램은	프로그램/NNG+은/JX
+MBC	MBC/SL
+앵커	앵커/NNG
+출신	출신/NNG
+최일구씨	최일구/NNP+씨/NNB
+진행으로	진행/NNG+으로/JKB
+이준석	이준석/NNP
+클라세스튜디오	클라세스튜디오/NNP
+대표와	대표/NNG+와/JC
+송채경화	송채경화/NNP
+한겨레	한겨레/NNP
+기자가	기자/NNG+가/JKS
+고정	고정/NNG
+패널로	패널/NNG+로/JKB
+출연해	출연/NNG+하/XSV+아/EC
+교육	교육/NNG
+등	등/NNB
+시사문제에	시사/NNG+문제/NNG+에/JKB
+대해	대하/VV+아/EC
+토론하는	토론/NNG+하/XSV+는/ETM
+포맷으로,	포맷/NNG+으로/JKB+,/SP
+홍보를	홍보/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+제작	제작/NNG
+발표회도	발표회/NNG+도/JX
+열었고	열/VV+었/EP+고/EC
+이미	이미/MAG
+2회분	2/SN+회/NNB+분/XSN
+녹화를	녹화/NNG+를/JKO
+마친	마치/VV+ㄴ/ETM
+상태였다.	상태/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.5.1
+tvN은 또 'SNL코리아'의 정치 풍자 코너 '글로벌 텔레토비'도 지난달 25일과 지난 1일, 2주 연속 방영하지 않았다.
+
+tvN은	tvN/SL+은/JX
+또	또/MAG
+'SNL코리아'의	'/SS+SNL/SL+코리아/NNP+'/SS+의/JKG
+정치	정치/NNG
+풍자	풍자/NNG
+코너	코너/NNG
+'글로벌	'/SS+글로벌/NNG
+텔레토비'도	텔레토비/NNP+'/SS+도/JX
+지난달	지난달/NNG
+25일과	25/SN+일/NNB+과/JC
+지난	지나/VV+ㄴ/ETM
+1일,	1/SN+일/NNB+,/SP
+2주	2/SN+주/NNB
+연속	연속/NNG
+방영하지	방영/NNG+하/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.5.2
+'텔레토비'는 지난 대선 정국에 '앰비', '또', '문제니', '안쳤어', '구라돌이' 등 이명박 전 대통령과 대선 후보들을 연상케 하는 캐릭터를 내세운 시사 풍자극으로 인기를 끌었다.
+
+'텔레토비'는	'/SS+텔레토비/NNP+'/SS+는/JX
+지난	지나/VV+ㄴ/ETM
+대선	대선/NNG
+정국에	정국/NNG+에/JKB
+'앰비',	'/SS+앰비/NNP+'/SS+,/SP
+'또',	'/SS+또/NNP+'/SS+,/SP
+'문제니',	'/SS+문제니/NNP+'/SS+,/SP
+'안쳤어',	'/SS+안쳤어/NNP+'/SS+,/SP
+'구라돌이'	'/SS+구라돌이/NNP+'/SS
+등	등/NNB
+이명박	이명박/NNP
+전	전/MMD
+대통령과	대통령/NNG+과/JC
+후보들을	후보/NNG+들/XSN+을/JKO
+연상케	연상/NNG+하/XSV+게/EC
+하는	하/VX+는/ETM
+캐릭터를	캐릭터/NNG+를/JKO
+내세운	내세우/VV+ㄴ/ETM
+시사	시사/NNG
+풍자극으로	풍자극/NNG+으로/JKB
+인기를	인기/NNG+를/JKO
+끌었다.	끌/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.5.3
+그러나 이 프로그램들은 오락 채널인 tvN이 사실상 보도 기능을 한다는 비판을 받아왔다.
+
+그러나	그러나/MAJ
+이	이/MMD
+프로그램들은	프로그램/NNG+들/XSN+은/JX
+오락	오락/NNG
+채널인	채널/NNG+이/VCP+ㄴ/ETM
+tvN이	tvN/SL+이/JKS
+사실상	사실/NNG+상/XSN
+보도	보도/NNG
+기능을	기능/NNG+을/JKO
+한다는	하/VV+ㄴ다는/ETM
+비판을	비판/NNG+을/JKO
+받아왔다.	받/VV+아/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.182.6.1
+'글로벌 텔레토비' 결방과 '끝장토론'의 편성 연기에 대해 CJ E&M 측은 일관되게 "내부 사정 때문이다"라며 "시기상 논란이 될 만한 것들을 자제하는 것"이라고 말했다.
+
+'글로벌	'/SS+글로벌/NNG
+텔레토비'	텔레토비/NNP+'/SS
+결방과	결방/NNG+과/JC
+'끝장토론'의	'/SS+끝장/NNG+토론/NNG+'/SS+의/JKG
+편성	편성/NNG
+연기에	연기/NNG+에/JKB
+대해	대하/VV+아/EC
+CJ	CJ/SL
+E&M	E/SL+&/SW+M/SL
+측은	측/NNB+은/JX
+일관되게	일관/NNG+되/XSV+게/EC
+"내부	"/SS+내부/NNG
+사정	사정/NNG
+때문이다"라며	때문/NNB+이/VCP+다/EF+"/SS+이/VCP+라며/EC
+"시기상	"/SS+시기/NNG+상/XSN
+논란이	논란/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+것들을	것/NNB+들/XSN+을/JKO
+자제하는	자제/NNG+하/XSV+는/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

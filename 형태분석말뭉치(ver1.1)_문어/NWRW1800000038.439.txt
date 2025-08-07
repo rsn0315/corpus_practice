@@ -1,0 +1,548 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.439
+metadata : {}
+
+
+# id : NWRW1800000038.439.1.1
+KT 새 회장에 황창규씨
+
+KT	KT/SL
+새	새/MMA
+회장에	회장/NNG+에/JKB
+황창규씨	황창규/NNP+씨/NNB
+
+
+# id : NWRW1800000038.439.2.1
+삼성식 경영, KT 구해낼까
+
+삼성식	삼성식/NNG
+경영,	경영/NNG+,/SP
+KT	KT/SL
+구해낼까	구하/VV+아/EC+내/VX+ㄹ까/EF
+
+
+# id : NWRW1800000038.439.3.1
+KT의 차기 최고경영자(CEO) 후보로 황창규(60·사진) 전 삼성전자 사장이 선정됐다.
+
+KT의	KT/SL+의/JKG
+차기	차기/NNG
+최고경영자(CEO)	최고/NNG+경영자/NNG+(/SS+CEO/SL+)/SS
+후보로	후보/NNG+로/JKB
+황창규(60·사진)	황창규/NNP+(/SS+60/SN+·/SP+사진/NNG+)/SS
+전	전/MMD
+삼성전자	삼성전자/NNP
+사장이	사장/NNG+이/JKS
+선정됐다.	선정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.3.2
+삼성전자에서 반도체 사업을 이끌었던 경영자가 국내 최대 통신기업 KT를 이끌게 된 것이다.
+
+삼성전자에서	삼성전자/NNP+에서/JKB
+반도체	반도체/NNG
+사업을	사업/NNG+을/JKO
+이끌었던	이끌/VV+었/EP+던/ETM
+경영자가	경영자/NNG+가/JKS
+국내	국내/NNG
+최대	최대/NNG
+통신기업	통신/NNG+기업/NNG
+KT를	KT/SL+를/JKO
+이끌게	이끌/VV+게/EC
+된	되/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.4.1
+KT의 CEO추천위원회는 16일 전날 선정한 CEO 후보 4명에 대한 면접 심사를 거쳐 최종 후보로 황 전 사장을 추천하기로 결정했다고 밝혔다.
+
+KT의	KT/SL+의/JKG
+CEO추천위원회는	CEO/SL+추천/NNG+위원회/NNG+는/JX
+16일	16/SN+일/NNB
+전날	전날/NNG
+선정한	선정/NNG+하/XSV+ㄴ/ETM
+CEO	CEO/SL
+후보	후보/NNG
+4명에	4/SN+명/NNB+에/JKB
+대한	대하/VV+ㄴ/ETM
+면접	면접/NNG
+심사를	심사/NNG+를/JKO
+거쳐	거치/VV+어/EC
+최종	최종/NNG
+후보로	후보/NNG+로/JKB
+황	황/NNP
+전	전/MMD
+사장을	사장/NNG+을/JKO
+추천하기로	추천/NNG+하/XSV+기/ETN+로/JKB
+결정했다고	결정/NNG+하/XSV+았/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.4.2
+황 후보자는 내년 1월 열리는 임시 주주총회에서 공식 선임 절차를 거친 뒤 KT를 포함한 53개 계열사의 종업원 6만여명, 매출 23조8000억원에 이르는 거대 조직을 이끌게 된다.
+
+황	황/NNP
+후보자는	후보자/NNG+는/JX
+내년	내년/NNG
+1월	1/SN+월/NNB
+열리는	열리/VV+는/ETM
+임시	임시/NNG
+주주총회에서	주주/NNG+총회/NNG+에서/JKB
+공식	공식/NNG
+선임	선임/NNG
+절차를	절차/NNG+를/JKO
+거친	거치/VV+ㄴ/ETM
+뒤	뒤/NNG
+KT를	KT/SL+를/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+53개	53/SN+개/NNB
+계열사의	계열사/NNG+의/JKG
+종업원	종업원/NNG
+6만여명,	6/SN+만/NR+여/XSN+명/NNB+,/SP
+매출	매출/NNG
+23조8000억원에	23/SN+조/NR+8000/SN+억/NR+원/NNB+에/JKB
+이르는	이르/VV+는/ETM
+거대	거대/NNG
+조직을	조직/NNG+을/JKO
+이끌게	이끌/VV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.439.5.1
+황 후보자는 부산고를 졸업하고 서울대 전기공학과에서 학·석사를 받았으며, 미국 매사추세츠주립대에서 전자공학 박사학위를 취득했다.
+
+황	황/NNP
+후보자는	후보자/NNG+는/JX
+부산고를	부산고/NNP+를/JKO
+졸업하고	졸업/NNG+하/XSV+고/EC
+서울대	서울대/NNP
+전기공학과에서	전기/NNG+공학과/NNG+에서/JKB
+학·석사를	학·석사/NNG+를/JKO
+받았으며,	받/VV+았/EP+으며/EC+,/SP
+미국	미국/NNP
+매사추세츠주립대에서	매사추세츠주립대/NNP+에서/JKB
+전자공학	전자/NNG+공학/NNG
+박사학위를	박사/NNG+학위/NNG+를/JKO
+취득했다.	취득/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.5.2
+이후 미국 스탠퍼드대 책임연구원과 인텔 자문역으로 근무하다 1989년 삼성전자에 합류한 그는 2001~2007년에는 메모리사업부 사장을 지냈다.
+
+이후	이후/NNG
+미국	미국/NNP
+스탠퍼드대	스탠퍼드대/NNP
+책임연구원과	책임/NNG+연구원/NNG+과/JC
+인텔	인텔/NNP
+자문역으로	자문/NNG+역/NNG+으로/JKB
+근무하다	근무/NNG+하/XSV+다/EC
+1989년	1989/SN+년/NNB
+삼성전자에	삼성전자/NNP+에/JKB
+합류한	합류/NNG+하/XSV+ㄴ/ETM
+그는	그/NP+는/JX
+2001~2007년에는	2001/SN+~/SO+2007/SN+년/NNB+에/JKB+는/JX
+메모리사업부	메모리/NNG+사업부/NNG
+사장을	사장/NNG+을/JKO
+지냈다.	지내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.5.3
+이 기간 삼성전자는 일본을 제치고 메모리 반도체 세계 1위로 도약했다.
+
+이	이/MMD
+기간	기간/NNG
+삼성전자는	삼성전자/NNP+는/JX
+일본을	일본/NNP+을/JKO
+제치고	제치/VV+고/EC
+메모리	메모리/NNG
+반도체	반도체/NNG
+세계	세계/NNG
+1위로	1/SN+위/NNB+로/JKB
+도약했다.	도약/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.5.4
+그는 2002년 국제반도체회로학술회의(ISSCC)에서 발표한 "메모리 반도체의 집적도는 1년에 두 배씩 증가한다"는 내용의 '황의 법칙(Hwang's Law)'으로도 유명하다.
+
+그는	그/NP+는/JX
+2002년	2002/SN+년/NNB
+국제반도체회로학술회의(ISSCC)에서	국제/NNG+반도체/NNG+회로/NNG+학술회의/NNG+(/SS+ISSCC/SL+)/SS+에서/JKB
+발표한	발표/NNG+하/XSV+ㄴ/ETM
+"메모리	"/SS+메모리/NNG
+반도체의	반도체/NNG+의/JKG
+집적도는	집적도/NNG+는/JX
+1년에	1/SN+년/NNB+에/JKB
+두	두/MMN
+배씩	배/NNG+씩/XSN
+증가한다"는	증가/NNG+하/XSV+ㄴ다/EF+"/SS+는/ETM
+내용의	내용/NNG+의/JKG
+'황의	'/SS+황/NNP+의/JKG
+법칙(Hwang's	법칙/NNG+(/SS+Hwang/SL+'/SS+s/SL
+Law)'으로도	Law/SL+)/SS+'/SS+으로/JKB+도/JX
+유명하다.	유명/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000038.439.5.5
+황창규 후보자가 삼성전자 사장 시절 스티브 잡스를 만나 애플의 MP3 플레이어인 아이팟의 저장 장치로 플래시 메모리를 채택하게 한 일화는 지금까지 회자된다.
+
+황창규	황창규/NNP
+후보자가	후보자/NNG+가/JKS
+삼성전자	삼성전자/NNP
+사장	사장/NNG
+시절	시절/NNG
+스티브	스티브/NNP
+잡스를	잡스/NNP+를/JKO
+만나	만나/VV+아/EC
+애플의	애플/NNP+의/JKG
+MP3	MP/SL+3/SN
+플레이어인	플레이어/NNG+이/VCP+ㄴ/ETM
+아이팟의	아이팟/NNP+의/JKG
+저장	저장/NNG
+장치로	장치/NNG+로/JKB
+플래시	플래시/NNG
+메모리를	메모리/NNG+를/JKO
+채택하게	채택/NNG+하/XSV+게/EC
+한	하/VX+ㄴ/ETM
+일화는	일화/NNG+는/JX
+지금까지	지금/NNG+까지/JX
+회자된다.	회자/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.439.6.1
+그는 최경환 새누리당 원내대표와도 인연이 있다.
+
+그는	그/NP+는/JX
+최경환	최경환/NNP
+새누리당	새누리당/NNP
+원내대표와도	원내/NNG+대표/NNG+와/JKB+도/JX
+인연이	인연/NNG+이/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000038.439.6.2
+최 대표가 지식경제부 장관이던 2010년 4월 그를 지경부 R&D 전략기획단장으로 발탁했다.
+
+최	최/NNP
+대표가	대표/NNG+가/JKS
+지식경제부	지식/NNG+경제부/NNG
+장관이던	장관/NNG+이/VCP+던/ETM
+2010년	2010/SN+년/NNB
+4월	4/SN+월/NNB
+그를	그/NP+를/JKO
+지경부	지경부/NNG
+R&D	R/SL+&/SW+D/SL
+전략기획단장으로	전략/NNG+기획단장/NNG+으로/JKB
+발탁했다.	발탁/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.6.3
+현재는 성균관대 석좌교수로 있다.
+
+현재는	현재/NNG+는/JX
+성균관대	성균관대/NNP
+석좌교수로	석좌/NNG+교수/NNG+로/JKB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000038.439.7.1
+KT CEO추천위원회는 이날 서울 서초동 KT 사옥에서 황 후보자와 권오철 SK하이닉스 고문, 김동수 전 정보통신부 차관, 임주환 전 한국전자통신연구원장 등 4명을 면접 심사했다.
+
+KT	KT/SL
+CEO추천위원회는	CEO/SL+추천/NNG+위원회/NNG+는/JX
+이날	이날/NNG
+서울	서울/NNP
+서초동	서초동/NNP
+사옥에서	사옥/NNG+에서/JKB
+황	황/NNP
+후보자와	후보자/NNG+와/JC
+권오철	권오철/NNP
+SK하이닉스	SK하이닉스/NNP
+고문,	고문/NNG+,/SP
+김동수	김동수/NNP
+전	전/MMD
+정보통신부	정보/NNG+통신부/NNG
+차관,	차관/NNG+,/SP
+임주환	임주환/NNP
+한국전자통신연구원장	한국전자통신연구원장/NNG
+등	등/NNB
+4명을	4/SN+명/NNB+을/JKO
+면접	면접/NNG
+심사했다.	심사/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.7.2
+CEO추천위는 “황 후보자는 KT의 미래 전략 수립과 경영 혁신을 추진하는 데 최적의 인물로 평가받았다”며 “비전 설정 능력과 추진력, 글로벌 마인드 등에서 높은 평가를 받았다”고 밝혔다.
+
+CEO추천위는	CEO/SL+추천위/NNG+는/JX
+“황	“/SS+황/NNP
+후보자는	후보자/NNG+는/JX
+KT의	KT/SL+의/JKG
+미래	미래/NNG
+전략	전략/NNG
+수립과	수립/NNG+과/JC
+경영	경영/NNG
+혁신을	혁신/NNG+을/JKO
+추진하는	추진/NNG+하/XSV+는/ETM
+데	데/NNB
+최적의	최적/NNG+의/JKG
+인물로	인물/NNG+로/JKB
+평가받았다”며	평가/NNG+받/XSV+았/EP+다/EF+”/SS+며/EC
+“비전	“/SS+비전/NNG
+설정	설정/NNG
+능력과	능력/NNG+과/JC
+추진력,	추진력/NNG+,/SP
+글로벌	글로벌/NNG
+마인드	마인드/NNG
+등에서	등/NNB+에서/JKB
+높은	높/VA+은/ETM
+평가를	평가/NNG+를/JKO
+받았다”고	받/VV+았/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.7.3
+한 추천위원은 “정부의 R&D 기획단장을 한 인사로서 산업 전반에 대한 높은 이해도를 보여주었다”며 “황 후보자의 글로벌 인맥도 KT에 도움이 될 수 있을 것”이라고 말했다.
+
+한	하/VV+ㄴ/ETM
+추천위원은	추천/NNG+위원/NNG+은/JX
+“정부의	“/SS+정부/NNG+의/JKG
+R&D	R/SL+&/SW+D/SL
+기획단장을	기획단장/NNG+을/JKO
+인사로서	인사/NNG+로서/JKB
+산업	산업/NNG
+전반에	전반/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+높은	높/VA+은/ETM
+이해도를	이해도/NNG+를/JKO
+보여주었다”며	보이/VV+어/EC+주/VX+었/EP+다/EF+”/SS+며/EC
+“황	“/SS+황/NNP
+후보자의	후보자/NNG+의/JKG
+글로벌	글로벌/NNG
+인맥도	인맥/NNG+도/JX
+KT에	KT/SL+에/JKB
+도움이	도움/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.8.1
+일각에선 유무선 통신 서비스가 주력 사업인 KT에서 통신 분야 경험이 전혀 없는 그가 CEO로서 적임인지에 대해 의문을 제기하는 시각도 있다.
+
+일각에선	일각/NNG+에서/JKB+ㄴ/JX
+유무선	유무선/NNG
+통신	통신/NNG
+서비스가	서비스/NNG+가/JKS
+주력	주력/NNG
+사업인	사업/NNG+이/VCP+ㄴ/ETM
+KT에서	KT/SL+에서/JKB
+분야	분야/NNG
+경험이	경험/NNG+이/JKS
+전혀	전혀/MAG
+없는	없/VA+는/ETM
+그가	그/NP+가/JKS
+CEO로서	CEO/SL+로서/JKB
+적임인지에	적임/NNG+이/VCP+ㄴ지/EF+에/JKB
+대해	대하/VV+아/EC
+의문을	의문/NNG+을/JKO
+제기하는	제기/NNG+하/XSV+는/ETM
+시각도	시각/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000038.439.8.2
+오너 경영하에서 전문경영인으로 일했던 그가 모든 일에 대해 최종 책임을 져야 하는 KT 수장에 어울리지 않는다는 지적도 있다.
+
+오너	오너/NNG
+경영하에서	경영/NNG+하/XSN+에서/JKB
+전문경영인으로	전문/NNG+경영인/NNG+으로/JKB
+일했던	일/NNG+하/XSV+았/EP+던/ETM
+그가	그/NP+가/JKS
+모든	모든/MMN
+일에	일/NNG+에/JKB
+대해	대하/VV+아/EC
+최종	최종/NNG
+책임을	책임/NNG+을/JKO
+져야	지/VV+어야/EC
+하는	하/VX+는/ETM
+KT	KT/SL
+수장에	수장/NNG+에/JKB
+어울리지	어울리/VV+지/EC
+않는다는	않/VX+는다는/ETM
+지적도	지적/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000038.439.8.3
+공기업에서 민영화된 KT와 삼성그룹 조직 문화가 본질적으로 다르다는 것이다.
+
+공기업에서	공기업/NNG+에서/JKB
+민영화된	민영/NNG+화/XSN+되/XSV+ㄴ/ETM
+KT와	KT/SL+와/JC
+삼성그룹	삼성그룹/NNP
+조직	조직/NNG
+문화가	문화/NNG+가/JKS
+본질적으로	본질/NNG+적/XSN+으로/JKB
+다르다는	다르/VA+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.9.1
+이것 말고도 황 후보자 앞에는 많은 도전이 기다리고 있다.
+
+이것	이것/NP
+말고도	말/VV+고/EC+도/JX
+황	황/NNP
+후보자	후보자/NNG
+앞에는	앞/NNG+에/JKB+는/JX
+많은	많/VA+은/ETM
+도전이	도전/NNG+이/JKS
+기다리고	기다리/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000038.439.9.2
+이석채 전임 회장의 퇴임 과정에서 무너진 조직 결속력을 강화하는 것도 만만치 않은 과제다.
+
+이석채	이석채/NNP
+전임	전임/NNG
+회장의	회장/NNG+의/JKG
+퇴임	퇴임/NNG
+과정에서	과정/NNG+에서/JKB
+무너진	무너지/VV+ㄴ/ETM
+조직	조직/NNG
+결속력을	결속력/NNG+을/JKO
+강화하는	강화/NNG+하/XSV+는/ETM
+것도	것/NNB+도/JX
+만만치	만만하/VA+지/EC
+않은	않/VX+은/ETM
+과제다.	과제/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.9.3
+KT 관계자는 “남중수 전 사장이 물러난 2008년 이후 5년 만에 또 검찰 조사와 함께 임원이 물갈이되는 등 조직원들의 사기가 저하된 상태”라며 “일각에서 KT 내부 출신 CEO에 대한 기대감이 있었던 것도 사실”이라고 말했다.
+
+KT	KT/SL
+관계자는	관계자/NNG+는/JX
+“남중수	“/SS+남중수/NNP
+전	전/MMD
+사장이	사장/NNG+이/JKS
+물러난	물러나/VV+ㄴ/ETM
+2008년	2008/SN+년/NNB
+이후	이후/NNG
+5년	5/SN+년/NNB
+만에	만/NNB+에/JKB
+또	또/MAG
+검찰	검찰/NNG
+조사와	조사/NNG+와/JKB
+함께	함께/MAG
+임원이	임원/NNG+이/JKS
+물갈이되는	물갈이/NNG+되/XSV+는/ETM
+등	등/NNB
+조직원들의	조직원/NNG+들/XSN+의/JKG
+사기가	사기/NNG+가/JKS
+저하된	저하/NNG+되/XSV+ㄴ/ETM
+상태”라며	상태/NNG+”/SS+이/VCP+라며/EC
+“일각에서	“/SS+일각/NNG+에서/JKB
+내부	내부/NNG
+출신	출신/NNG
+CEO에	CEO/SL+에/JKB
+대한	대하/VV+ㄴ/ETM
+기대감이	기대감/NNG+이/JKS
+있었던	있/VA+었/EP+던/ETM
+것도	것/NNB+도/JX
+사실”이라고	사실/NNG+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.10.1
+매년 6000억원 적자를 내고 있는 유선전화 사업 부문, 가입자 감소 추세를 보이고 있는 이동통신 사업 부문 등의 영업 실적을 개선하는 것도 핵심 과제다.
+
+매년	매년/MAG
+6000억원	6000/SN+억/NR+원/NNB
+적자를	적자/NNG+를/JKO
+내고	내/VV+고/EC
+있는	있/VX+는/ETM
+유선전화	유선/NNG+전화/NNG
+사업	사업/NNG
+부문,	부문/NNG+,/SP
+가입자	가입자/NNG
+감소	감소/NNG
+추세를	추세/NNG+를/JKO
+보이고	보이/VV+고/EC
+이동통신	이동/NNG+통신/NNG
+부문	부문/NNG
+등의	등/NNB+의/JKG
+영업	영업/NNG
+실적을	실적/NNG+을/JKO
+개선하는	개선/NNG+하/XSV+는/ETM
+것도	것/NNB+도/JX
+핵심	핵심/NNG
+과제다.	과제/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.10.2
+출발이 늦었던 LTE 사업을 확대해가는 과제도 황 차기 CEO 후보자의 두 손에 맡겨졌다.
+
+출발이	출발/NNG+이/JKS
+늦었던	늦/VA+었/EP+던/ETM
+LTE	LTE/SL
+사업을	사업/NNG+을/JKO
+확대해가는	확대/NNG+하/XSV+아/EC+가/VX+는/ETM
+과제도	과제/NNG+도/JX
+황	황/NNP
+차기	차기/NNG
+CEO	CEO/SL
+후보자의	후보자/NNG+의/JKG
+두	두/MMN
+손에	손/NNG+에/JKB
+맡겨졌다.	맡기/VV+어/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.439.10.3
+통신 사업 외에 BC카드와 KT렌탈(금호KT렌터카) 등 비(非)통신 분야로 진출을 확대해야 한다.
+
+통신	통신/NNG
+사업	사업/NNG
+외에	외/NNB+에/JKB
+BC카드와	BC카드/NNP+와/JC
+KT렌탈(금호KT렌터카)	KT렌탈/NNP+(/SS+금호KT렌터카/NNP+)/SS
+등	등/NNB
+비(非)통신	비/XPN+(/SS+非/SH+)/SS+통신/NNG
+분야로	분야/NNG+로/JKB
+진출을	진출/NNG+을/JKO
+확대해야	확대/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.439.11.1
+황 후보자는 KT를 통해 “글로벌 신(新)시장을 개척했던 경험을 통신 산업으로 확대해 미래 사업을 창출하고, 창의와 혁신, 융합의 KT를 만드는 데에 일조하겠다”고 밝혔다.
+
+황	황/NNP
+후보자는	후보자/NNG+는/JX
+KT를	KT/SL+를/JKO
+통해	통하/VV+아/EC
+“글로벌	“/SS+글로벌/NNG
+신(新)시장을	신/XPN+(/SS+新/SH+)/SS+시장/NNG+을/JKO
+개척했던	개척/NNG+하/XSV+았/EP+던/ETM
+경험을	경험/NNG+을/JKO
+통신	통신/NNG
+산업으로	산업/NNG+으로/JKB
+확대해	확대/NNG+하/XSV+아/EC
+미래	미래/NNG
+사업을	사업/NNG+을/JKO
+창출하고,	창출/NNG+하/XSV+고/EC+,/SP
+창의와	창의/NNG+와/JC
+혁신,	혁신/NNG+,/SP
+융합의	융합/NNG+의/JKG
+만드는	만들/VV+는/ETM
+데에	데/NNB+에/JKB
+일조하겠다”고	일조/NNG+하/XSV+겠/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

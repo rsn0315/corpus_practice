@@ -1,0 +1,263 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.211
+metadata : {}
+
+
+# id : NWRW1800000033.211.1.1
+주택가 창살 벌려 머리 쏙… 미꾸라지 발바리
+
+주택가	주택가/NNG
+창살	창살/NNG
+벌려	벌리/VV+어/EC
+머리	머리/NNG
+쏙…	쏙/MAG+…/SE
+미꾸라지	미꾸라지/NNG
+발바리	발바리/NNG
+
+
+# id : NWRW1800000033.211.2.1
+울산서 4년간 12명 성폭행 초등생딸 둔 40대 가장 체포
+
+울산서	울산/NNP+서/JKB
+4년간	4/SN+년/NNB+간/XSN
+12명	12/SN+명/NNB
+성폭행	성폭행/NNG
+초등생딸	초등/NNG+생/XSN+딸/NNG
+둔	두/VV+ㄴ/ETM
+40대	40/SN+대/NNB
+가장	가장/NNG
+체포	체포/NNG
+
+
+# id : NWRW1800000033.211.3.1
+낡은 창살 틈을 벌려 집안으로 침입하는 수법으로 여성 12명을 성폭행한 40대가 경찰에 붙잡혔다.
+
+낡은	낡/VV+은/ETM
+창살	창살/NNG
+틈을	틈/NNG+을/JKO
+벌려	벌리/VV+어/EC
+집안으로	집/NNG+안/NNG+으로/JKB
+침입하는	침입/NNG+하/XSV+는/ETM
+수법으로	수법/NNG+으로/JKB
+여성	여성/NNG
+12명을	12/SN+명/NNB+을/JKO
+성폭행한	성폭행/NNG+하/XSV+ㄴ/ETM
+40대가	40/SN+대/NNB+가/JKS
+경찰에	경찰/NNG+에/JKB
+붙잡혔다.	붙잡히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.3.2
+용의자는 초등학생 딸을 둔 평범한 회사원으로 집 인근에서 범행을 저지른 것으로 드러났다.
+
+용의자는	용의자/NNG+는/JX
+초등학생	초등학생/NNG
+딸을	딸/NNG+을/JKO
+둔	두/VV+ㄴ/ETM
+평범한	평범하/VA+ㄴ/ETM
+회사원으로	회사원/NNG+으로/JKB
+집	집/NNG
+인근에서	인근/NNG+에서/JKB
+범행을	범행/NNG+을/JKO
+저지른	저지르/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+드러났다.	드러나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.4.1
+울산 동부경찰서는 26일 주택가를 돌아다니며 여성들을 성폭행한 혐의(성폭력 범죄의 처벌 등에 관한 특례법 위반 등)로 안모 씨(42·울산 동구)를 붙잡아 조사 중이다.
+
+울산	울산/NNP
+동부경찰서는	동부/NNG+경찰서/NNG+는/JX
+26일	26/SN+일/NNB
+주택가를	주택가/NNG+를/JKO
+돌아다니며	돌아다니/VV+며/EC
+여성들을	여성/NNG+들/XSN+을/JKO
+성폭행한	성폭행/NNG+하/XSV+ㄴ/ETM
+혐의(성폭력	혐의/NNG+(/SS+성폭력/NNG
+범죄의	범죄/NNG+의/JKG
+처벌	처벌/NNG
+등에	등/NNB+에/JKB
+관한	관하/VV+ㄴ/ETM
+특례법	특례법/NNG
+위반	위반/NNG
+등)로	등/NNB+)/SS+로/JKB
+안모	안/NNP+모/NP
+씨(42·울산	씨/NNB+(/SS+42/SN+·/SP+울산/NNP
+동구)를	동구/NNP+)/SS+를/JKO
+붙잡아	붙잡/VV+아/EC
+조사	조사/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.4.2
+키 165cm에 왜소한 체격인 안 씨는 2008년 8월 15일부터 지금까지 약한 창살을 벌리거나 아예 뽑는 수법으로 주택에 침입해 10∼30대 여성 12명을 성폭행하고 1명은 미수에 그친 혐의를 받고 있다.
+
+키	키/NNG
+165cm에	165/SN+cm/SW+에/JKB
+왜소한	왜소하/VA+ㄴ/ETM
+체격인	체격/NNG+이/VCP+ㄴ/ETM
+안	안/NNP
+씨는	씨/NNB+는/JX
+2008년	2008/SN+년/NNB
+8월	8/SN+월/NNB
+15일부터	15/SN+일/NNB+부터/JX
+지금까지	지금/NNG+까지/JX
+약한	약하/VA+ㄴ/ETM
+창살을	창살/NNG+을/JKO
+벌리거나	벌리/VV+거나/EC
+아예	아예/MAG
+뽑는	뽑/VV+는/ETM
+수법으로	수법/NNG+으로/JKB
+주택에	주택/NNG+에/JKB
+침입해	침입/NNG+하/XSV+아/EC
+10∼30대	10/SN+∼/SO+30/SN+대/NNB
+여성	여성/NNG
+12명을	12/SN+명/NNB+을/JKO
+성폭행하고	성폭행/NNG+하/XSV+고/EC
+1명은	1/SN+명/NNB+은/JX
+미수에	미수/NNG+에/JKB
+그친	그치/VV+ㄴ/ETM
+혐의를	혐의/NNG+를/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.211.4.3
+안 씨는 4일 오전 3시 반경 울산 동구의 한 주택 다락 창문으로 들어가 잠자던 A 양(17)을 흉기로 위협해 성폭행했다.
+
+안	안/NNP
+씨는	씨/NNB+는/JX
+4일	4/SN+일/NNB
+오전	오전/NNG
+3시	3/SN+시/NNB
+반경	반/NNG+경/XSN
+울산	울산/NNP
+동구의	동구/NNP+의/JKG
+한	한/MMN
+주택	주택/NNG
+다락	다락/NNG
+창문으로	창문/NNG+으로/JKB
+들어가	들어가/VV+아/EC
+잠자던	잠자/VV+던/ETM
+A	A/SL
+양(17)을	양/NNB+(/SS+17/SN+)/SS+을/JKO
+흉기로	흉기/NNG+로/JKB
+위협해	위협/NNG+하/XSV+아/EC
+성폭행했다.	성폭행/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.5.1
+안 씨는 준비해간 디지털카메라로 중요 부위를 촬영하고 “신고하면 인터넷에 퍼뜨린다”고 협박했다.
+
+안	안/NNP
+씨는	씨/NNB+는/JX
+준비해간	준비/NNG+하/XSV+아/EC+가/VV+ㄴ/ETM
+디지털카메라로	디지털카메라/NNG+로/JKB
+중요	중요/NNG
+부위를	부위/NNG+를/JKO
+촬영하고	촬영/NNG+하/XSV+고/EC
+“신고하면	“/SS+신고/NNG+하/XSV+면/EC
+인터넷에	인터넷/NNG+에/JKB
+퍼뜨린다”고	퍼뜨리/VV+ㄴ다/EF+”/SS+고/JKQ
+협박했다.	협박/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.5.2
+A 양의 집은 안 씨 집에서 불과 200여 m 떨어져 있다.
+
+A	A/SL
+양의	양/NNB+의/JKG
+집은	집/NNG+은/JX
+안	안/NNP
+씨	씨/NNB
+집에서	집/NNG+에서/JKB
+불과	불과/MAG
+200여	200/SN+여/XSN
+m	m/SW
+떨어져	떨어지/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.211.5.3
+피해자들의 집은 모두 안 씨 집에서 반경 1km 이내에 있었다.
+
+피해자들의	피해자/NNG+들/XSN+의/JKG
+집은	집/NNG+은/JX
+모두	모두/MAG
+안	안/NNP
+씨	씨/NNB
+집에서	집/NNG+에서/JKB
+반경	반경/NNG
+1km	1/SN+km/SW
+이내에	이내/NNG+에/JKB
+있었다.	있/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.5.4
+안 씨는 폐쇄회로(CC)TV가 설치된 장소를 정확하게 파악하고 모두 피해 범행 때 이동하는 모습이 촬영되지 않았다.
+
+안	안/NNP
+씨는	씨/NNB+는/JX
+폐쇄회로(CC)TV가	폐쇄/NNG+회로/NNG+(/SS+CC/SL+)/SS+TV/SL+가/JKS
+설치된	설치/NNG+되/XSV+ㄴ/ETM
+장소를	장소/NNG+를/JKO
+정확하게	정확/NNG+하/XSA+게/EC
+파악하고	파악/NNG+하/XSV+고/EC
+모두	모두/MAG
+피해	피하/VV+아/EC
+범행	범행/NNG
+때	때/NNG
+이동하는	이동/NNG+하/XSV+는/ETM
+모습이	모습/NNG+이/JKS
+촬영되지	촬영/NNG+되/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.5.5
+하지만 범행 현장 주변의 한 CCTV에 잡힌 안 씨의 오토바이가 결정적 단서가 됐다.
+
+하지만	하지만/MAJ
+범행	범행/NNG
+현장	현장/NNG
+주변의	주변/NNG+의/JKG
+한	한/MMN
+CCTV에	CCTV/SL+에/JKB
+잡힌	잡히/VV+ㄴ/ETM
+안	안/NNP
+씨의	씨/NNB+의/JKG
+오토바이가	오토바이/NNG+가/JKS
+결정적	결정/NNG+적/XSN
+단서가	단서/NNG+가/JKC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.211.5.6
+이후 경찰은 피해자 몸에서 채취한 체액의 유전자(DNA)와 범행 현장에서 용의자가 피우고 버린 담배꽁초에서 나온 유전자가 안 씨의 것과 일치해 검거했다.
+
+이후	이후/NNG
+경찰은	경찰/NNG+은/JX
+피해자	피해자/NNG
+몸에서	몸/NNG+에서/JKB
+채취한	채취/NNG+하/XSV+ㄴ/ETM
+체액의	체액/NNG+의/JKG
+유전자(DNA)와	유전자/NNG+(/SS+DNA/SL+)/SS+와/JC
+범행	범행/NNG
+현장에서	현장/NNG+에서/JKB
+용의자가	용의자/NNG+가/JKS
+피우고	피우/VV+고/EC
+버린	버리/VX+ㄴ/ETM
+담배꽁초에서	담배꽁초/NNG+에서/JKB
+나온	나오/VV+ㄴ/ETM
+유전자가	유전자/NNG+가/JKS
+안	안/NNP
+씨의	씨/NNB+의/JKG
+것과	것/NNB+과/JKB
+일치해	일치/NNG+하/XSV+아/EC
+검거했다.	검거/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,354 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.363
+metadata : {}
+
+
+# id : NWRW1800000026.363.1.1
+[그것이 알고싶다] 프로팀 이름에 담긴 사연;'와이번스'에 마음있었던 건 LG였는데…
+
+[그것이	[/SS+그것/NP+이/JKS
+알고싶다]	알/VV+고/EC+싶/VX+다/EF+]/SS
+프로팀	프로/NNG+팀/NNG
+이름에	이름/NNG+에/JKB
+담긴	담기/VV+ㄴ/ETM
+사연;'와이번스'에	사연/NNG+;/SW+'/SS+와이번스/NNP+'/SS+에/JKB
+마음있었던	마음/NNG+있/VA+었/EP+던/ETM
+건	거/NNB+ㄴ/JX
+LG였는데…	LG/SL+이/VCP+었/EP+는데/EC+…/SE
+
+
+# id : NWRW1800000026.363.2.1
+프로야구 챔피언 SK는 '와이번스(wyverns·비룡)'라는 이름을 쓰지 못할 뻔했다.
+
+프로야구	프로/NNG+야구/NNG
+챔피언	챔피언/NNG
+SK는	SK/SL+는/JX
+'와이번스(wyverns·비룡)'라는	'/SS+와이번스/NNP+(/SS+wyverns/SL+·/SP+비룡/NNG+)/SS+'/SS+이/VCP+라는/ETM
+이름을	이름/NNG+을/JKO
+쓰지	쓰/VV+지/EC
+못할	못하/VX+ㄹ/ETM
+뻔했다.	뻔/NNB+하/XSA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.2.2
+1997년 프로농구 출범 당시 LG가 먼저 와이번스로 정하려 했기 때문이다.
+
+1997년	1997/SN+년/NNB
+프로농구	프로/NNG+농구/NNG
+출범	출범/NNG
+당시	당시/NNG
+LG가	LG/SL+가/JKS
+먼저	먼저/MAG
+와이번스로	와이번스/NNP+로/JKB
+정하려	정하/VV+려/EC
+했기	하/VX+았/EP+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.2.3
+하지만 LG는 와이번스 대신 세이커스(sakers·송골매)를 택했다.
+
+하지만	하지만/MAJ
+LG는	LG/SL+는/JX
+와이번스	와이번스/NNP
+대신	대신/NNG
+세이커스(sakers·송골매)를	세이커스/NNP+(/SS+sakers/SL+·/SP+송골매/NNG+)/SS+를/JKO
+택했다.	택하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.3.1
+구본무 LG그룹 회장이 워낙 새를 좋아했기 때문이라는 후문이다.
+
+구본무	구본무/NNP
+LG그룹	LG그룹/NNP
+회장이	회장/NNG+이/JKS
+워낙	워낙/MAG
+새를	새/NNG+를/JKO
+좋아했기	좋아하/VV+았/EP+기/ETN
+때문이라는	때문/NNB+이/VCP+라는/ETM
+후문이다.	후문/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.3.2
+당시 세이커스와 함께 후보에 올랐던 팀 이름도 호크스(hawks), 트윈 호크스(twin hawks), 이글스(eagles), 팰콘스(falcons)였다.
+
+당시	당시/NNG
+세이커스와	세이커스/NNP+와/JKB
+함께	함께/MAG
+후보에	후보/NNG+에/JKB
+올랐던	오르/VV+았/EP+던/ETM
+팀	팀/NNG
+이름도	이름/NNG+도/JX
+호크스(hawks),	호크스/NNP+(/SS+hawks/SL+)/SS+,/SP
+트윈	트윈/NNP
+호크스(twin	호크스/NNP+(/SS+twin/SL
+hawks),	hawks/SL+)/SS+,/SP
+이글스(eagles),	이글스/NNP+(/SS+eagles/SL+)/SS+,/SP
+팰콘스(falcons)였다.	팰콘스/NNP+(/SS+falcons/SL+)/SS+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.3.3
+하나같이 새 종류다.
+
+하나같이	하나같이/MAG
+새	새/NNG
+종류다.	종류/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.4.1
+서울 SK는 창단 당시 연고지 충청도에 양반들이 많다는데 착안해 서양의 양반 격인 나이츠(knights)로 명명했다.
+
+서울	서울/NNP
+SK는	SK/SL+는/JX
+창단	창단/NNG
+당시	당시/NNG
+연고지	연고지/NNG
+충청도에	충청도/NNP+에/JKB
+양반들이	양반/NNG+들/XSN+이/JKS
+많다는데	많/VA+다는/ETM+데/NNB
+착안해	착안/NNG+하/XSV+아/EC
+서양의	서양/NNG+의/JKG
+양반	양반/NNG
+격인	격/NNB+이/VCP+ㄴ/ETM
+나이츠(knights)로	나이츠/NNP+(/SS+knights/SL+)/SS+로/JKB
+명명했다.	명명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.4.2
+원래는 샤크스(sharks·상어들)가 유력했는데 충북이 바다와 멀고 사기꾼이란 뜻도 있다는 걸 알면서 탈락했다.
+
+원래는	원래/NNG+는/JX
+샤크스(sharks·상어들)가	샤크스/NNG+(/SS+sharks/SL+·/SP+상어/NNG+들/XSN+)/SS+가/JKS
+유력했는데	유력/NNG+하/XSA+았/EP+는데/EC
+충북이	충북/NNP+이/JKS
+바다와	바다/NNG+와/JKB
+멀고	멀/VA+고/EC
+사기꾼이란	사기/NNG+꾼/XSN+이/VCP+란/ETM
+뜻도	뜻/NNG+도/JX
+있다는	있/VA+다는/ETM
+걸	거/NNB+ㄹ/JKO
+알면서	알/VV+면서/EC
+탈락했다.	탈락/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.5.1
+울산 모비스의 팀 이름은 태양의 신 아폴로를 뜻하는 '피버스(phoebus)'다.
+
+울산	울산/NNP
+모비스의	모비스/NNP+의/JKG
+팀	팀/NNG
+이름은	이름/NNG+은/JX
+태양의	태양/NNG+의/JKG
+신	신/NNG
+아폴로를	아폴로/NNP+를/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+'피버스(phoebus)'다.	'/SS+피버스/NNP+(/SS+phoebus/SL+)/SS+'/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.5.2
+2001년 9월 기아를 인수했을 때 팀 이름은 자동차 부품 전문회사인 회사 특징을 살려 '오토몬스'였다.
+
+2001년	2001/SN+년/NNB
+9월	9/SN+월/NNB
+기아를	기아/NNP+를/JKO
+인수했을	인수/NNG+하/XSV+았/EP+을/ETM
+때	때/NNG
+팀	팀/NNG
+이름은	이름/NNG+은/JX
+자동차	자동차/NNG
+부품	부품/NNG
+전문회사인	전문/NNG+회사/NNG+이/VCP+ㄴ/ETM
+회사	회사/NNG
+특징을	특징/NNG+을/JKO
+살려	살리/VV+어/EC
+'오토몬스'였다.	'/SS+오토몬스/NNP+'/SS+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.6.1
+오토몬스는 차(automobile)와 괴물(monster)의 합성어다.
+
+오토몬스는	오토몬스/NNP+는/JX
+차(automobile)와	차/NNG+(/SS+automobile/SL+)/SS+와/JC
+괴물(monster)의	괴물/NNG+(/SS+monster/SL+)/SS+의/JKG
+합성어다.	합성어/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.6.2
+하지만 계속 성적이 바닥을 기자 모비스는 2004년 9월 '제2의 창단'을 선언하며 퓨처스(futures), 스팅스(stings)와 경합 끝에 피버스로 결정했다.
+
+하지만	하지만/MAJ
+계속	계속/MAG
+성적이	성적/NNG+이/JKS
+바닥을	바닥/NNG+을/JKO
+기자	기/VV+자/EC
+모비스는	모비스/NNP+는/JX
+2004년	2004/SN+년/NNB
+9월	9/SN+월/NNB
+'제2의	'/SS+제/XPN+2/SN+의/JKG
+창단'을	창단/NNG+'/SS+을/JKO
+선언하며	선언/NNG+하/XSV+며/EC
+퓨처스(futures),	퓨처스/NNG+(/SS+futures/SL+)/SS+,/SP
+스팅스(stings)와	스팅스/NNG+(/SS+stings/SL+)/SS+와/JKB
+경합	경합/NNG
+끝에	끝/NNG+에/JKB
+피버스로	피버스/NNP+로/JKB
+결정했다.	결정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.7.1
+모비스는 개명한 뒤 정규리그 1위 4차례, 챔피언결정전 우승 2차례를 차지하면서 진짜 프로농구의 태양이 됐다.
+
+모비스는	모비스/NNP+는/JX
+개명한	개명/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+정규리그	정규/NNG+리그/NNG
+1위	1/SN+위/NNB
+4차례,	4/SN+차례/NNG+,/SP
+챔피언결정전	챔피언/NNG+결정전/NNG
+우승	우승/NNG
+2차례를	2/SN+차례/NNG+를/JKO
+차지하면서	차지/NNG+하/XSV+면서/EC
+진짜	진짜/MAG
+프로농구의	프로/NNG+농구/NNG+의/JKG
+태양이	태양/NNG+이/JKS
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.8.1
+국내 최장신 센터 하승진(221.3㎝)이 버틴 전주 KCC는 벼락에 맞아도 부서지지 않는 전설의 방패 '이지스(Egis)'다.
+
+국내	국내/NNG
+최장신	최/XPN+장신/NNG
+센터	센터/NNG
+하승진(221.3㎝)이	하승진/NNP+(/SS+221/SN+./SP+3/SN+㎝/SW+)/SS+이/JKS
+버틴	버티/VV+ㄴ/ETM
+전주	전주/NNP
+KCC는	KCC/SL+는/JX
+벼락에	벼락/NNG+에/JKB
+맞아도	맞/VV+아도/EC
+부서지지	부서지/VV+지/EC
+않는	않/VX+는/ETM
+전설의	전설/NNG+의/JKG
+방패	방패/NNG
+'이지스(Egis)'다.	'/SS+이지스/NNG+(/SS+Egis/SL+)/SS+'/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.9.1
+팀 이름처럼 KCC는 월등한 '높이'로 상대에 점수를 안 주기로 유명하다.
+
+팀	팀/NNG
+이름처럼	이름/NNG+처럼/JKB
+KCC는	KCC/SL+는/JX
+월등한	월등/MAG+하/XSA+ㄴ/ETM
+'높이'로	'/SS+높이/NNG+'/SS+로/JKB
+상대에	상대/NNG+에/JKB
+점수를	점수/NNG+를/JKO
+안	안/MAG
+주기로	주/VV+기/ETN+로/JKB
+유명하다.	유명/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000026.363.9.2
+LG처럼 동물을 팀명으로 사용하는 구단은 전자랜드다.
+
+LG처럼	LG/SL+처럼/JKB
+동물을	동물/NNG+을/JKO
+팀명으로	팀/NNG+명/NNG+으로/JKB
+사용하는	사용/NNG+하/XSV+는/ETM
+구단은	구단/NNG+은/JX
+전자랜드다.	전자랜드/NNP+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.9.3
+원래 블랙슬래머(Black Slammer)였지만 올해부터 모기업 마스코트인 엘리펀츠(elephants)로 바꿨다.
+
+원래	원래/MAG
+블랙슬래머(Black	블랙슬래머/NNP+(/SS+Black/SL
+Slammer)였지만	Slammer/SL+)/SS+이/VCP+었/EP+지만/EC
+올해부터	올해/NNG+부터/JX
+모기업	모기업/NNG
+마스코트인	마스코트/NNG+이/VCP+ㄴ/ETM
+엘리펀츠(elephants)로	엘리펀츠/NNP+(/SS+elephants/SL+)/SS+로/JKB
+바꿨다.	바꾸/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.10.1
+올해 전자랜드는 서장훈, 허버트 힐 등 장신들이 팀 이름 이미지에 걸맞은 플레이를 하고 있다.
+
+올해	올해/NNG
+전자랜드는	전자랜드/NNP+는/JX
+서장훈,	서장훈/NNP+,/SP
+허버트	허버트/NNP
+힐	힐/NNP
+등	등/NNB
+장신들이	장신/NNG+들/XSN+이/JKS
+팀	팀/NNG
+이름	이름/NNG
+이미지에	이미지/NNG+에/JKB
+걸맞은	걸맞/VA+은/ETM
+플레이를	플레이/NNG+를/JKO
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.363.10.2
+삼성은 삼성전자를 떠올리게 하는 썬더스(thunders·천둥), KT는 통신회사라는 데 착안해 소닉붐(sonic boom)이란 팀명을 쓴다.
+
+삼성은	삼성/NNP+은/JX
+삼성전자를	삼성전자/NNP+를/JKO
+떠올리게	떠올리/VV+게/EC
+하는	하/VX+는/ETM
+썬더스(thunders·천둥),	썬더스/NNP+(/SS+thunders/SL+·/SP+천둥/NNG+)/SS+,/SP
+KT는	KT/SL+는/JX
+통신회사라는	통신/NNG+회사/NNG+이/VCP+라는/ETM
+데	데/NNB
+착안해	착안/NNG+하/XSV+아/EC
+소닉붐(sonic	소닉붐/NNG+(/SS+sonic/SL
+boom)이란	boom/SL+)/SS+이/VCP+란/ETM
+팀명을	팀/NNG+명/NNG+을/JKO
+쓴다.	쓰/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.363.11.1
+소닉붐은 물체가 음속을 돌파할 때 나는 소리다.
+
+소닉붐은	소닉붐/NNG+은/JX
+물체가	물체/NNG+가/JKS
+음속을	음속/NNG+을/JKO
+돌파할	돌파/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+나는	나/VV+는/ETM
+소리다.	소리/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.11.2
+이 밖에 안양 인삼공사는 올해 회사주력 홍삼제품인 홍이장군으로 팀명을 바꿨다.
+
+이	이/NP
+밖에	밖/NNG+에/JKB
+안양	안양/NNP
+인삼공사는	인삼공사/NNP+는/JX
+올해	올해/NNG
+회사주력	회사/NNG+주력/NNG
+홍삼제품인	홍삼/NNG+제품/NNG+이/VCP+ㄴ/ETM
+홍이장군으로	홍이장군/NNP+으로/JKB
+팀명을	팀/NNG+명/NNG+을/JKO
+바꿨다.	바꾸/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.363.11.3
+동부는 모기업 보험상품에 사용하는 '프로미'를 팀명으로 사용한다.
+
+동부는	동부/NNP+는/JX
+모기업	모기업/NNG
+보험상품에	보험/NNG+상품/NNG+에/JKB
+사용하는	사용/NNG+하/XSV+는/ETM
+'프로미'를	'/SS+프로미/NNP+'/SS+를/JKO
+팀명으로	팀/NNG+명/NNG+으로/JKB
+사용한다.	사용/NNG+하/XSV+ㄴ다/EF+./SF
+
+

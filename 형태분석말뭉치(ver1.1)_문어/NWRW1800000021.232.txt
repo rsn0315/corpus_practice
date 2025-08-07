@@ -1,0 +1,124 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000021.232
+metadata : {}
+
+
+# id : NWRW1800000021.232.1.1
+軍 대북감시태세 ‘워치콘’ 53일만에 도로 3단계로
+
+軍	軍/SH
+대북감시태세	대북/NNG+감시/NNG+태세/NNG
+‘워치콘’	‘/SS+워치콘/NNG+’/SS
+53일만에	53/SN+일/NNB+만/NNB+에/JKB
+도로	도로/MAG
+3단계로	3/SN+단계/NNG+로/JKB
+
+
+# id : NWRW1800000021.232.2.1
+한미 군당국은 북한의 2차 핵실험 및 서해에서의 무력충돌 위협에 따라 5월 28일 3단계에서 2단계로 격상했던 대북정보감시태세인 워치콘(WATCHCON)을 20일부터 이전 수준인 3단계로 내리기로 했다.
+
+한미	한미/NNP
+군당국은	군/NNG+당국/NNG+은/JX
+북한의	북한/NNP+의/JKG
+2차	2/SN+차/NNB
+핵실험	핵/NNG+실험/NNG
+및	및/MAG
+서해에서의	서해/NNP+에서/JKB+의/JKG
+무력충돌	무력/NNG+충돌/NNG
+위협에	위협/NNG+에/JKB
+따라	따르/VV+아/EC
+5월	5/SN+월/NNB
+28일	28/SN+일/NNB
+3단계에서	3/SN+단계/NNG+에서/JKB
+2단계로	2/SN+단계/NNG+로/JKB
+격상했던	격상/NNG+하/XSV+았/EP+던/ETM
+대북정보감시태세인	대북/NNG+정보/NNG+감시/NNG+태세/NNG+이/VCP+ㄴ/ETM
+워치콘(WATCHCON)을	워치콘/NNG+(/SS+WATCHCON/SL+)/SS+을/JKO
+20일부터	20/SN+일/NNB+부터/JX
+이전	이전/NNG
+수준인	수준/NNG+이/VCP+ㄴ/ETM
+3단계로	3/SN+단계/NNG+로/JKB
+내리기로	내리/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.232.3.1
+군 관계자는 17일 “북한의 추가 미사일 발사 가능성이 줄어들고 북한군도 특이한 움직임을 보이지 않아 20일자로 워치콘을 2단계에서 3단계로 내리기로 했다”고 밝혔다.
+
+군	군/NNG
+관계자는	관계자/NNG+는/JX
+17일	17/SN+일/NNB
+“북한의	“/SS+북한/NNP+의/JKG
+추가	추가/NNG
+미사일	미사일/NNG
+발사	발사/NNG
+가능성이	가능/NNG+성/XSN+이/JKS
+줄어들고	줄어들/VV+고/EC
+북한군도	북한군/NNG+도/JX
+특이한	특이/NNG+하/XSA+ㄴ/ETM
+움직임을	움직임/NNG+을/JKO
+보이지	보이/VV+지/EC
+않아	않/VX+아/EC
+20일자로	20/SN+일/NNB+자/NNG+로/JKB
+워치콘을	워치콘/NNG+을/JKO
+2단계에서	2/SN+단계/NNG+에서/JKB
+3단계로	3/SN+단계/NNG+로/JKB
+내리기로	내리/VV+기/ETN+로/JKB
+했다”고	하/VV+았/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.232.3.2
+2단계는 ‘국익에 현저한 위험이 초래될 징후가 보일 때’ 발동되며 3단계는 ‘국가안보에 중대한 위협이 초래될 우려가 있을 때’에 해당된다.
+
+2단계는	2/SN+단계/NNG+는/JX
+‘국익에	‘/SS+국익/NNG+에/JKB
+현저한	현저하/VA+ㄴ/ETM
+위험이	위험/NNG+이/JKS
+초래될	초래/NNG+되/XSV+ㄹ/ETM
+징후가	징후/NNG+가/JKS
+보일	보이/VV+ㄹ/ETM
+때’	때/NNG+’/SS
+발동되며	발동/NNG+되/XSV+며/EC
+3단계는	3/SN+단계/NNG+는/JX
+‘국가안보에	‘/SS+국가/NNG+안보/NNG+에/JKB
+중대한	중대/NNG+하/XSA+ㄴ/ETM
+위협이	위협/NNG+이/JKS
+우려가	우려/NNG+가/JKS
+있을	있/VA+을/ETM
+때’에	때/NNG+’/SS+에/JKB
+해당된다.	해당/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000021.232.3.3
+워치콘은 북한의 도발에 대한 군의 방어준비태세를 뜻하는 데프콘과 달리 북한의 군사활동을 추적하는 감시태세를 말한다.
+
+워치콘은	워치콘/NNG+은/JX
+북한의	북한/NNP+의/JKG
+도발에	도발/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+군의	군/NNG+의/JKG
+방어준비태세를	방어/NNG+준비/NNG+태세/NNG+를/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+데프콘과	데프콘/NNG+과/JKB
+달리	달리/MAG
+군사활동을	군사/NNG+활동/NNG+을/JKO
+추적하는	추적/NNG+하/XSV+는/ETM
+감시태세를	감시/NNG+태세/NNG+를/JKO
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000021.232.3.4
+5단계가 가장 낮고 1단계가 가장 높다.
+
+5단계가	5/SN+단계/NNG+가/JKS
+가장	가장/MAG
+낮고	낮/VA+고/EC
+1단계가	1/SN+단계/NNG+가/JKS
+높다.	높/VA+다/EF+./SF
+
+

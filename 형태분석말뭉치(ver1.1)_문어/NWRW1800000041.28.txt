@@ -1,0 +1,338 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.28
+metadata : {}
+
+
+# id : NWRW1800000041.28.1.1
+LG화학, 신소재 개발-신사업 발굴 박차
+
+LG화학,	LG화학/NNP+,/SP
+신소재	신/XPN+소재/NNG
+개발-신사업	개발/NNG+-/SO+신/XPN+사업/NNG
+발굴	발굴/NNG
+박차	박차/NNG
+
+
+# id : NWRW1800000041.28.2.1
+박진수 부회장 ‘투트랙 전략’ “프리미엄 석유화학 제품 매출, 2018년 4조5000억원까지 확대”
+
+박진수	박진수/NNP
+부회장	부회장/NNG
+‘투트랙	‘/SS+투트랙/NNG
+전략’	전략/NNG+’/SS
+“프리미엄	“/SS+프리미엄/NNG
+석유화학	석유/NNG+화학/NNG
+제품	제품/NNG
+매출,	매출/NNG+,/SP
+2018년	2018/SN+년/NNB
+4조5000억원까지	4/SN+조/NR+5000/SN+억/NR+원/NNB+까지/JX
+확대”	확대/NNG+”/SS
+
+
+# id : NWRW1800000041.28.3.1
+LG화학이 프리미엄 석유화학 제품의 매출을 현재 2조 원대에서 2018년 4조5000억 원으로 늘리겠다고 12일 발표했다.
+
+LG화학이	LG화학/NNP+이/JKS
+프리미엄	프리미엄/NNG
+석유화학	석유/NNG+화학/NNG
+제품의	제품/NNG+의/JKG
+매출을	매출/NNG+을/JKO
+현재	현재/MAG
+2조	2/SN+조/NR
+원대에서	원/NNB+대/XSN+에서/JKB
+2018년	2018/SN+년/NNB
+4조5000억	4/SN+조/NR+5000/SN+억/NR
+원으로	원/NNB+으로/JKB
+늘리겠다고	늘리/VV+겠/EP+다고/EC
+12일	12/SN+일/NNB
+발표했다.	발표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.3.2
+앞서 LG화학은 회사 전체 매출을 지난해 23조 원에서 2017년 30조 원 이상으로 키우겠다고 발표한 바 있다.
+
+앞서	앞서/MAG
+LG화학은	LG화학/NNP+은/JX
+회사	회사/NNG
+전체	전체/NNG
+매출을	매출/NNG+을/JKO
+지난해	지난해/NNG
+23조	23/SN+조/NR
+원에서	원/NNB+에서/JKB
+2017년	2017/SN+년/NNB
+30조	30/SN+조/NR
+원	원/NNB
+이상으로	이상/NNG+으로/JKB
+키우겠다고	키우/VV+겠/EP+다고/EC
+발표한	발표/NNG+하/XSV+ㄴ/ETM
+바	바/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.28.4.1
+박진수 LG화학 대표이사 부회장(사진)은 이날 “세계적 소재기업으로 성장하기 위해서는 현재 매출과 이익의 75% 이상을 차지하는 석유화학 부문의 사업구조를 더욱 튼튼하게 만드는 것이 중요하다”며 “석유화학 분야에서 기존 범용 제품으로는 높은 수익을 내는 것이 불가능한 만큼 기술 기반의 차별화된 제품과 연구개발(R&D)을 통한 신소재 개발로 어떤 상황에서도 탁월한 성과를 낼 수 있는 사업구조로 만들어 가겠다”고 강조했다.
+
+박진수	박진수/NNP
+LG화학	LG화학/NNP
+대표이사	대표/NNG+이사/NNG
+부회장(사진)은	부회장/NNG+(/SS+사진/NNG+)/SS+은/JX
+이날	이날/NNG
+“세계적	“/SS+세계/NNG+적/XSN
+소재기업으로	소재/NNG+기업/NNG+으로/JKB
+성장하기	성장/NNG+하/XSV+기/ETN
+위해서는	위하/VV+아서/EC+는/JX
+현재	현재/MAG
+매출과	매출/NNG+과/JC
+이익의	이익/NNG+의/JKG
+75%	75/SN+%/SW
+이상을	이상/NNG+을/JKO
+차지하는	차지/NNG+하/XSV+는/ETM
+석유화학	석유/NNG+화학/NNG
+부문의	부문/NNG+의/JKG
+사업구조를	사업/NNG+구조/NNG+를/JKO
+더욱	더욱/MAG
+튼튼하게	튼튼하/VA+게/EC
+만드는	만들/VV+는/ETM
+것이	것/NNB+이/JKS
+중요하다”며	중요/NNG+하/XSA+다/EF+”/SS+며/EC
+“석유화학	“/SS+석유/NNG+화학/NNG
+분야에서	분야/NNG+에서/JKB
+기존	기존/NNG
+범용	범용/NNG
+제품으로는	제품/NNG+으로/JKB+는/JX
+높은	높/VA+은/ETM
+수익을	수익/NNG+을/JKO
+내는	내/VV+는/ETM
+불가능한	불/XPN+가능/NNG+하/XSA+ㄴ/ETM
+만큼	만큼/NNB
+기술	기술/NNG
+기반의	기반/NNG+의/JKG
+차별화된	차별/NNG+화/XSN+되/XSV+ㄴ/ETM
+제품과	제품/NNG+과/JC
+연구개발(R&D)을	연구/NNG+개발/NNG+(/SS+R/SL+&/SW+D/SL+)/SS+을/JKO
+통한	통하/VV+ㄴ/ETM
+신소재	신/XPN+소재/NNG
+개발로	개발/NNG+로/JKB
+어떤	어떤/MMD
+상황에서도	상황/NNG+에서/JKB+도/JX
+탁월한	탁월하/VA+ㄴ/ETM
+성과를	성과/NNG+를/JKO
+낼	내/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+사업구조로	사업/NNG+구조/NNG+로/JKB
+만들어	만들/VV+어/EC
+가겠다”고	가/VX+겠/EP+다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.5.1
+LG화학이 강조하는 기술 기반(프리미엄) 석유화학 제품은 크게 엔지니어링 플라스틱(EP), 고흡수성 수지(SAP), 합성고무 제품 등 3가지다.
+
+LG화학이	LG화학/NNP+이/JKS
+강조하는	강조/NNG+하/XSV+는/ETM
+기술	기술/NNG
+기반(프리미엄)	기반/NNG+(/SS+프리미엄/NNG+)/SS
+석유화학	석유/NNG+화학/NNG
+제품은	제품/NNG+은/JX
+크게	크/VA+게/EC
+엔지니어링	엔지니어링/NNG
+플라스틱(EP),	플라스틱/NNG+(/SS+EP/SL+)/SS+,/SP
+고흡수성	고/XPN+흡수/NNG+성/XSN
+수지(SAP),	수지/NNG+(/SS+SAP/SL+)/SS+,/SP
+합성고무	합성/NNG+고무/NNG
+제품	제품/NNG
+등	등/NNB
+3가지다.	3/SN+가지/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.6.1
+EP 분야에서는 2018년 ‘글로벌 톱3’라는 목표를 세우고 자동차용 제품 비중을 현재 30%에서 2018년 50%까지 끌어올리기로 했다.
+
+EP	EP/SL
+분야에서는	분야/NNG+에서/JKB+는/JX
+2018년	2018/SN+년/NNB
+‘글로벌	‘/SS+글로벌/NNG
+톱3’라는	톱/NNG+3/SN+’/SS+이/VCP+라는/ETM
+목표를	목표/NNG+를/JKO
+세우고	세우/VV+고/EC
+자동차용	자동차/NNG+용/XSN
+제품	제품/NNG
+비중을	비중/NNG+을/JKO
+현재	현재/MAG
+30%에서	30/SN+%/SW+에서/JKB
+50%까지	50/SN+%/SW+까지/JX
+끌어올리기로	끌어올리/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.6.2
+기저귀 등에 주로 쓰이는 SAP 분야 매출은 5000억 원에서 2018년 1조 원대로 키울 방침이다.
+
+기저귀	기저귀/NNG
+등에	등/NNB+에/JKB
+주로	주로/MAG
+쓰이는	쓰이/VV+는/ETM
+SAP	SAP/SL
+분야	분야/NNG
+매출은	매출/NNG+은/JX
+5000억	5000/SN+억/NR
+원에서	원/NNB+에서/JKB
+2018년	2018/SN+년/NNB
+1조	1/SN+조/NR
+원대로	원/NNB+대/XSN+로/JKB
+키울	키우/VV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.6.3
+SAP은 1g의 무게로 최대 500g의 물을 흡수할 수 있는 소재다.
+
+SAP은	SAP/SL+은/JX
+1g의	1/SN+g/SW+의/JKG
+무게로	무게/NNG+로/JKB
+최대	최대/NNG
+500g의	500/SN+g/SW+의/JKG
+물을	물/NNG+을/JKO
+흡수할	흡수/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+소재다.	소재/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.6.4
+2015년 여수공장 증설을 완료하면 LG화학은 총 36만 t의 SAP와 51만 t의 아크릴산 등을 생산할 수 있는 일관 생산체제를 갖추게 된다.
+
+2015년	2015/SN+년/NNB
+여수공장	여수/NNP+공장/NNG
+증설을	증설/NNG+을/JKO
+완료하면	완료/NNG+하/XSV+면/EC
+LG화학은	LG화학/NNP+은/JX
+총	총/MMA
+36만	36/SN+만/NR
+t의	t/SW+의/JKG
+SAP와	SAP/SL+와/JC
+51만	51/SN+만/NR
+아크릴산	아크릴산/NNG
+등을	등/NNB+을/JKO
+생산할	생산/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+일관	일관/NNG
+생산체제를	생산/NNG+체제/NNG+를/JKO
+갖추게	갖추/VV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.28.6.5
+합성고무 사업에서는 친환경 타이어용 제품 비중을 10%대에서 2018년 40% 이상으로 늘리기로 했다.
+
+합성고무	합성/NNG+고무/NNG
+사업에서는	사업/NNG+에서/JKB+는/JX
+친환경	친/XPN+환경/NNG
+타이어용	타이어/NNG+용/XSN
+제품	제품/NNG
+비중을	비중/NNG+을/JKO
+10%대에서	10/SN+%/SW+대/XSN+에서/JKB
+2018년	2018/SN+년/NNB
+40%	40/SN+%/SW
+이상으로	이상/NNG+으로/JKB
+늘리기로	늘리/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.7.1
+미래 신사업 발굴에도 적극 나선다.
+
+미래	미래/NNG
+신사업	신/XPN+사업/NNG
+발굴에도	발굴/NNG+에/JKB+도/JX
+적극	적극/NNG
+나선다.	나서/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.28.7.2
+올해 석유화학 분야 R&D에 1200억 원을 투자해 기존 사업을 강화하는 한편 신소재 사업을 육성할 계획이다.
+
+올해	올해/NNG
+석유화학	석유/NNG+화학/NNG
+분야	분야/NNG
+R&D에	R/SL+&/SW+D/SL+에/JKB
+1200억	1200/SN+억/NR
+원을	원/NNB+을/JKO
+투자해	투자/NNG+하/XSV+아/EC
+기존	기존/NNG
+사업을	사업/NNG+을/JKO
+강화하는	강화/NNG+하/XSV+는/ETM
+한편	한편/NNG
+신소재	신/XPN+소재/NNG
+육성할	육성/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.7.3
+이를 위해 LG화학은 이미 올 3월 미국 수처리 필터 생산 업체인 나노H₂O를 2억 달러(약 2060억 원)에 인수했다.
+
+이를	이/NP+를/JKO
+위해	위하/VV+아/EC
+LG화학은	LG화학/NNP+은/JX
+이미	이미/MAG
+올	올/NNG
+3월	3/SN+월/NNB
+미국	미국/NNP
+수처리	수처리/NNG
+필터	필터/NNG
+생산	생산/NNG
+업체인	업체/NNG+이/VCP+ㄴ/ETM
+나노H₂O를	나노H₂O/NNP+를/JKO
+2억	2/SN+억/NR
+달러(약	달러/NNB+(/SS+약/MMA
+2060억	2060/SN+억/NR
+원)에	원/NNB+)/SS+에/JKB
+인수했다.	인수/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.28.7.4
+이 회사가 생산하는 해담수용 역삼투압 필터 시장은 연평균 23% 성장해 2018년 시장 규모가 24억 달러에 이를 것으로 전망된다.
+
+이	이/MMD
+회사가	회사/NNG+가/JKS
+생산하는	생산/NNG+하/XSV+는/ETM
+해담수용	해담수/NNG+용/XSN
+역삼투압	역삼투압/NNG
+필터	필터/NNG
+시장은	시장/NNG+은/JX
+연평균	연평균/NNG
+23%	23/SN+%/SW
+성장해	성장/NNG+하/XSV+아/EC
+2018년	2018/SN+년/NNB
+시장	시장/NNG
+규모가	규모/NNG+가/JKS
+24억	24/SN+억/NR
+달러에	달러/NNB+에/JKB
+이를	이르/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.28.7.5
+이 밖에 LG화학은 탄소나노튜브(CNT), 이산화탄소(CO₂) 플라스틱 등 신소재 개발에도 박차를 가하기로 했다.
+
+이	이/MMD
+밖에	밖/NNG+에/JKB
+LG화학은	LG화학/NNP+은/JX
+탄소나노튜브(CNT),	탄소/NNG+나노/NNG+튜브/NNG+(/SS+CNT/SL+)/SS+,/SP
+이산화탄소(CO₂)	이산화/NNG+탄소/NNG+(/SS+CO₂/SW+)/SS
+플라스틱	플라스틱/NNG
+등	등/NNB
+신소재	신/XPN+소재/NNG
+개발에도	개발/NNG+에/JKB+도/JX
+박차를	박차/NNG+를/JKO
+가하기로	가하/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+

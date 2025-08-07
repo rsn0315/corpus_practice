@@ -1,0 +1,536 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000053.182
+metadata : {}
+
+
+# id : NWRW1800000053.182.1.1
+전체 맥락 풀이에는 구글이 우세, 최신 유행어 번역엔 네이버 정확
+
+전체	전체/NNG
+맥락	맥락/NNG
+풀이에는	풀이/NNG+에/JKB+는/JX
+구글이	구글/NNP+이/JKS
+우세,	우세/NNG+,/SP
+최신	최신/NNG
+유행어	유행어/NNG
+번역엔	번역/NNG+에/JKB+ㄴ/JX
+네이버	네이버/NNP
+정확	정확/NNG
+
+
+# id : NWRW1800000053.182.2.1
+네이버-구글 인공지능 번역 비교해보니… 최악 수능 영어문제 둘 다 고전
+
+네이버-구글	네이버/NNP+-/SO+구글/NNP
+인공지능	인공/NNG+지능/NNG
+번역	번역/NNG
+비교해보니…	비교/NNG+하/XSV+아/EC+보/VX+니/EC+…/SE
+최악	최악/NNG
+수능	수능/NNG
+영어문제	영어/NNP+문제/NNG
+둘	둘/NR
+다	다/MAG
+고전	고전/NNG
+
+
+# id : NWRW1800000053.182.3.1
+19일 정식으로 출시된 네이버의 인공지능(AI) 번역 서비스 ‘파파고’가 글로벌 AI번역 시장을 장악한 구글을 뛰어넘을 수 있을까.
+
+19일	19/SN+일/NNB
+정식으로	정식/NNG+으로/JKB
+출시된	출시/NNG+되/XSV+ㄴ/ETM
+네이버의	네이버/NNP+의/JKG
+인공지능(AI)	인공/NNG+지능/NNG+(/SS+AI/SL+)/SS
+번역	번역/NNG
+서비스	서비스/NNG
+‘파파고’가	‘/SS+파파고/NNP+’/SS+가/JKS
+글로벌	글로벌/NNG
+AI번역	AI/SL+번역/NNG
+시장을	시장/NNG+을/JKO
+장악한	장악/NNG+하/XSV+ㄴ/ETM
+구글을	구글/NNP+을/JKO
+뛰어넘을	뛰어넘/VV+을/ETM
+수	수/NNB
+있을까.	있/VA+을까/EF+./SF
+
+
+# id : NWRW1800000053.182.4.1
+동아일보가 구글과 네이버의 AI 번역 기능을 비교하기 위해 대학수학능력시험과 토익 시험 지문, 유행어 번역을 맡긴 결과 양사 간 차이가 뚜렷하게 나타났다.
+
+동아일보가	동아일보/NNP+가/JKS
+구글과	구글/NNP+과/JKB
+네이버의	네이버/NNP+의/JKG
+AI	AI/SL
+번역	번역/NNG
+기능을	기능/NNG+을/JKO
+비교하기	비교/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+대학수학능력시험과	대학/NNG+수학/NNG+능력/NNG+시험/NNG+과/JC
+토익	토익/NNG
+시험	시험/NNG
+지문,	지문/NNG+,/SP
+유행어	유행어/NNG
+번역을	번역/NNG+을/JKO
+맡긴	맡기/VV+ㄴ/ETM
+결과	결과/NNG
+양사	양/MMN+사/NNG
+간	간/NNB
+차이가	차이/NNG+가/JKS
+뚜렷하게	뚜렷하/VA+게/EC
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.4.2
+TV 예능 프로그램을 보면서 언어를 학습한 파파고는 연예인들의 유행어를 꿰고 있었지만 수능 문제 풀이에선 다소 고전했다.
+
+TV	TV/SL
+예능	예능/NNG
+프로그램을	프로그램/NNG+을/JKO
+보면서	보/VV+면서/EC
+언어를	언어/NNG+를/JKO
+학습한	학습/NNG+하/XSV+ㄴ/ETM
+파파고는	파파고/NNP+는/JX
+연예인들의	연예인/NNG+들/XSN+의/JKG
+유행어를	유행어/NNG+를/JKO
+꿰고	꿰/VV+고/EC
+있었지만	있/VX+었/EP+지만/EC
+수능	수능/NNG
+문제	문제/NNG
+풀이에선	풀이/NNG+에서/JKB+ㄴ/JX
+다소	다소/MAG
+고전했다.	고전/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.5.1
+첫 대결은 수능.
+
+첫	첫/MMN
+대결은	대결/NNG+은/JX
+수능.	수능/NNG+./SF
+
+
+# id : NWRW1800000053.182.5.2
+역대급 ‘불수능 문제’로 꼽히는 2014학년도 외국어영역 B형 35번 지문에 대한 번역을 비교했다.
+
+역대급	역대급/NNG
+‘불수능	‘/SS+불수능/NNG
+문제’로	문제/NNG+’/SS+로/JKB
+꼽히는	꼽히/VV+는/ETM
+2014학년도	2014/SN+학년도/NNG
+외국어영역	외국어/NNG+영역/NNG
+B형	B/SL+형/XSN
+35번	35/SN+번/NNB
+지문에	지문/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+번역을	번역/NNG+을/JKO
+비교했다.	비교/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.5.3
+당시 정답률이 14%에 불과한 이 문제에서 구글과 파파고 모두 고전했다.
+
+당시	당시/NNG
+정답률이	정답/NNG+률/XSN+이/JKS
+14%에	14/SN+%/SW+에/JKB
+불과한	불과/MAG+하/XSA+ㄴ/ETM
+이	이/MMD
+문제에서	문제/NNG+에서/JKB
+구글과	구글/NNP+과/JKB
+파파고	파파고/NNP
+모두	모두/MAG
+고전했다.	고전/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.5.4
+‘But those fruits are ambivalent’(그러나 성과엔 양면성이 있습니다)라는 문장을 파파고(‘그러나 그 과일들은 양면성이 있다’)와 구글(‘그러나 그 과일들은 모호하다’) 모두 제대로 번역하지 못했다.
+
+‘But	‘/SS+But/SL
+those	those/SL
+fruits	fruits/SL
+are	are/SL
+ambivalent’(그러나	ambivalent/SL+’/SS+(/SS+그러나/MAJ
+성과엔	성과/NNG+에/JKB+ㄴ/JX
+양면성이	양면/NNG+성/XSN+이/JKS
+있습니다)라는	있/VA+습니다/EF+)/SS+이/VCP+라는/ETM
+문장을	문장/NNG+을/JKO
+파파고(‘그러나	파파고/NNP+(/SS+‘/SS+그러나/MAJ
+그	그/MMD
+과일들은	과일/NNG+들/XSN+은/JX
+있다’)와	있/VA+다/EF+’/SS+)/SS+와/JC
+구글(‘그러나	구글/NNP+(/SS+‘/SS+그러나/MAJ
+모호하다’)	모호하/VA+다/EF+’/SS+)/SS
+모두	모두/MAG
+제대로	제대로/MAG
+번역하지	번역/NNG+하/XSV+지/EC
+못했다.	못하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.6.1
+앞 문장과 이어지는 문장을 생각하면 ‘과일(fruits)’은 상징적인 의미로 쓰였지만 둘 다 이를 간파하지 못했다.
+
+앞	앞/NNG
+문장과	문장/NNG+과/JC
+이어지는	이어지/VV+는/ETM
+문장을	문장/NNG+을/JKO
+생각하면	생각/NNG+하/XSV+면/EC
+‘과일(fruits)’은	‘/SS+과일/NNG+(/SS+fruits/SL+)/SS+’/SS+은/JX
+상징적인	상징/NNG+적/XSN+이/VCP+ㄴ/ETM
+의미로	의미/NNG+로/JKB
+쓰였지만	쓰이/VV+었/EP+지만/EC
+둘	둘/NR
+다	다/MAG
+이를	이/NP+를/JKO
+간파하지	간파/NNG+하/XSV+지/EC
+못했다.	못하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.6.2
+노량진 대성학원의 윤종인 영어강사는 “학점으로 치면 C, D학점에 불과하다”고 말했다.
+
+노량진	노량진/NNP
+대성학원의	대성학원/NNP+의/JKG
+윤종인	윤종인/NNP
+영어강사는	영어/NNP+강사/NNG+는/JX
+“학점으로	“/SS+학점/NNG+으로/JKB
+치면	치/VV+면/EC
+C,	C/SL+,/SP
+D학점에	D/SL+학점/NNG+에/JKB
+불과하다”고	불과/MAG+하/XSA+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.6.3
+그러나 맥락 풀이는 구글이 낫다는 게 윤 강사의 설명이다.
+
+그러나	그러나/MAJ
+맥락	맥락/NNG
+풀이는	풀이/NNG+는/JX
+구글이	구글/NNP+이/JKS
+낫다는	낫/VA+다는/ETM
+게	거/NNB+이/JKS
+윤	윤/NNP
+강사의	강사/NNG+의/JKG
+설명이다.	설명/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.6.4
+그는 “파파고가 문장 하나하나에 집중한다면, 구글은 전체적인 맥락을 풀이했다”고 설명했다.
+
+그는	그/NP+는/JX
+“파파고가	“/SS+파파고/NNP+가/JKS
+문장	문장/NNG
+하나하나에	하나하나/NNG+에/JKB
+집중한다면,	집중/NNG+하/XSV+ㄴ다면/EC+,/SP
+구글은	구글/NNP+은/JX
+전체적인	전체/NNG+적/XSN+이/VCP+ㄴ/ETM
+맥락을	맥락/NNG+을/JKO
+풀이했다”고	풀이/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.7.1
+수능 지문 속 ‘…all scientific concepts are mathematized(과학적인 개념들은 수학적으로 표현된다)’라는 문장을 놓고선 구글은 비교적 문맥 속에서 매끄럽게 풀이(모든 과학 개념은…수학적으로 표현하고)했다.
+
+수능	수능/NNG
+지문	지문/NNG
+속	속/NNG
+‘…all	‘/SS+…/SE+all/SL
+scientific	scientific/SL
+concepts	concepts/SL
+are	are/SL
+mathematized(과학적인	mathematized/SL+(/SS+과학/NNG+적/XSN+이/VCP+ㄴ/ETM
+개념들은	개념/NNG+들/XSN+은/JX
+수학적으로	수학/NNG+적/XSN+으로/JKB
+표현된다)’라는	표현/NNG+되/XSV+ㄴ다/EF+)/SS+’/SS+이/VCP+라는/ETM
+문장을	문장/NNG+을/JKO
+놓고선	놓/VV+고서/EC+ㄴ/JX
+구글은	구글/NNP+은/JX
+비교적	비교/NNG+적/XSN
+문맥	문맥/NNG
+속에서	속/NNG+에서/JKB
+매끄럽게	매끄럽/VA+게/EC
+풀이(모든	풀이/NNG+(/SS+모든/MMN
+과학	과학/NNG
+개념은…수학적으로	개념/NNG+은/JX+…/SE+수학/NNG+적/XSN+으로/JKB
+표현하고)했다.	표현/NNG+하/XSV+고/EC+)/SS+하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.7.2
+반면 파파고는 수학을 통해서 표현한다는 뜻의 ‘mathematized’라는 단어를 해석하지 못해 애를 먹었다.
+
+반면	반면/NNG
+파파고는	파파고/NNP+는/JX
+수학을	수학/NNG+을/JKO
+통해서	통하/VV+아서/EC
+표현한다는	표현/NNG+하/XSV+ㄴ다는/ETM
+뜻의	뜻/NNG+의/JKG
+‘mathematized’라는	‘/SS+mathematized/SL+’/SS+이/VCP+라는/ETM
+단어를	단어/NNG+를/JKO
+해석하지	해석/NNG+하/XSV+지/EC
+못해	못하/VX+아/EC
+애를	애/NNG+를/JKO
+먹었다.	먹/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.7.3
+영어권에서 많이 쓰이고 다양한 영단어 용례를 빅데이터를 통해 축적한 구글과 달리, 네이버는 한국어 포털에서 잘 안 쓰는 영단어를 만나면 아무래도 어려움을 겪는 것으로 보인다.
+
+영어권에서	영어/NNP+권/XSN+에서/JKB
+많이	많이/MAG
+쓰이고	쓰이/VV+고/EC
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+영단어	영단어/NNG
+용례를	용례/NNG+를/JKO
+빅데이터를	빅데이터/NNG+를/JKO
+통해	통하/VV+아/EC
+축적한	축적/NNG+하/XSV+ㄴ/ETM
+구글과	구글/NNP+과/JKB
+달리,	달리/MAG+,/SP
+네이버는	네이버/NNP+는/JX
+한국어	한국어/NNP
+포털에서	포털/NNG+에서/JKB
+잘	잘/MAG
+안	안/MAG
+쓰는	쓰/VV+는/ETM
+영단어를	영단어/NNG+를/JKO
+만나면	만나/VV+면/EC
+아무래도	아무래도/MAG
+어려움을	어려움/NNG+을/JKO
+겪는	겪/VV+는/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.182.8.1
+두 번째는 토익.
+
+두	두/MMN
+번째는	번/NNB+째/XSN+는/JX
+토익.	토익/NNG+./SF
+
+
+# id : NWRW1800000053.182.8.2
+스마트시계의 주의사항 풀이를 보고 토익강사 김대균 김대균어학원 원장은 “두 서비스 모두 95% 이상 의미가 전달됐다”고 평가했다.
+
+스마트시계의	스마트/NNG+시계/NNG+의/JKG
+주의사항	주의/NNG+사항/NNG
+풀이를	풀이/NNG+를/JKO
+보고	보/VV+고/EC
+토익강사	토익/NNG+강사/NNG
+김대균	김대균/NNP
+김대균어학원	김대균/NNP+어학원/NNG
+원장은	원장/NNG+은/JX
+“두	“/SS+두/MMN
+서비스	서비스/NNG
+모두	모두/MAG
+95%	95/SN+%/SW
+이상	이상/NNG
+의미가	의미/NNG+가/JKS
+전달됐다”고	전달/NNG+되/XSV+었/EP+다/EF+”/SS+고/JKQ
+평가했다.	평가/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.8.3
+파파고가 ‘It may be difficult for some users to do’를 ‘일부 사용자는 어려울 수 있다’라고 풀이한 것을 두고 ‘깔끔한 번역’이라고 말했다.
+
+파파고가	파파고/NNP+가/JKS
+‘It	‘/SS+It/SL
+may	may/SL
+be	be/SL
+difficult	difficult/SL
+for	for/SL
+some	some/SL
+users	users/SL
+to	to/SL
+do’를	do/SL+’/SS+를/JKO
+‘일부	‘/SS+일부/NNG
+사용자는	사용자/NNG+는/JX
+어려울	어렵/VA+ㄹ/ETM
+수	수/NNB
+있다’라고	있/VA+다/EF+’/SS+라고/JKQ
+풀이한	풀이/NNG+하/XSV+ㄴ/ETM
+것을	것/NNB+을/JKO
+두고	두/VV+고/EC
+‘깔끔한	‘/SS+깔끔/NNG+하/XSA+ㄴ/ETM
+번역’이라고	번역/NNG+’/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.8.4
+구글은 ‘일부 사용자가 하기가 어려울 수 있습니다’라고 번역했다.
+
+구글은	구글/NNP+은/JX
+‘일부	‘/SS+일부/NNG
+사용자가	사용자/NNG+가/JKS
+하기가	하/VV+기/ETN+가/JKS
+어려울	어렵/VA+ㄹ/ETM
+수	수/NNB
+있습니다’라고	있/VA+습니다/EF+’/SS+라고/JKQ
+번역했다.	번역/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.8.5
+김 원장은 “구글 해석엔 다소 어색한 부분도 있으나 글의 전체 취지는 알고 있는 것”이라고 설명했다.
+
+김	김/NNP
+원장은	원장/NNG+은/JX
+“구글	“/SS+구글/NNP
+해석엔	해석/NNG+에/JKB+ㄴ/JX
+다소	다소/MAG
+어색한	어색하/VA+ㄴ/ETM
+부분도	부분/NNG+도/JX
+있으나	있/VA+으나/EC
+글의	글/NNG+의/JKG
+전체	전체/NNG
+취지는	취지/NNG+는/JX
+알고	알/VV+고/EC
+있는	있/VX+는/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.8.6
+토익 문항은 정형화된 문법을 쓰고 비유가 없는 지문이 많기 때문에 두 서비스 모두 일정 수준의 번역 품질을 나타낸 것으로 풀이된다.
+
+토익	토익/NNG
+문항은	문항/NNG+은/JX
+정형화된	정형/NNG+화/XSN+되/XSV+ㄴ/ETM
+문법을	문법/NNG+을/JKO
+쓰고	쓰/VV+고/EC
+비유가	비유/NNG+가/JKS
+없는	없/VA+는/ETM
+지문이	지문/NNG+이/JKS
+많기	많/VA+기/ETN
+때문에	때문/NNB+에/JKB
+두	두/MMN
+서비스	서비스/NNG
+모두	모두/MAG
+일정	일정/NNG
+수준의	수준/NNG+의/JKG
+번역	번역/NNG
+품질을	품질/NNG+을/JKO
+나타낸	나타내/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+풀이된다.	풀이/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.182.9.1
+마지막 대결은 유행어 대결.
+
+마지막	마지막/NNG
+대결은	대결/NNG+은/JX
+유행어	유행어/NNG
+대결.	대결/NNG+./SF
+
+
+# id : NWRW1800000053.182.9.2
+‘아주 칭찬해’처럼 어색한 결합이지만 한국인이라면 직관적으로 이해할 수 있는 유행어를 파파고는 ‘Great job’이라고 정확하게 전달했다.
+
+‘아주	‘/SS+아주/MAG
+칭찬해’처럼	칭찬/NNG+하/XSV+아/EF+’/SS+처럼/JKB
+어색한	어색하/VA+ㄴ/ETM
+결합이지만	결합/NNG+이/VCP+지만/EC
+한국인이라면	한국인/NNG+이/VCP+라면/EC
+직관적으로	직관/NNG+적/XSN+으로/JKB
+이해할	이해/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+유행어를	유행어/NNG+를/JKO
+파파고는	파파고/NNP+는/JX
+‘Great	‘/SS+Great/SL
+job’이라고	job/SL+’/SS+이라고/JKQ
+정확하게	정확/NNG+하/XSA+게/EC
+전달했다.	전달/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.9.3
+‘그 친구는 훈남이야’라는 문장도 파파고(He is handsome)가 구글(He is a man)보다 매끄럽게 번역했다.
+
+‘그	‘/SS+그/MMD
+친구는	친구/NNG+는/JX
+훈남이야’라는	훈남/NNG+이/VCP+야/EF+’/SS+이/VCP+라는/ETM
+문장도	문장/NNG+도/JX
+파파고(He	파파고/NNP+(/SS+He/SL
+is	is/SL
+handsome)가	handsome/SL+)/SS+가/JKS
+구글(He	구글/NNP+(/SS+He/SL
+a	a/SL
+man)보다	man/SL+)/SS+보다/JKB
+매끄럽게	매끄럽/VA+게/EC
+번역했다.	번역/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.9.4
+이는 네이버 파파고가 글로벌 예능방송 애플리케이션 V앱과 웹툰, 댓글 등도 학습자료로 활용하고 있기 때문이다.
+
+이는	이/NP+는/JX
+네이버	네이버/NNP
+파파고가	파파고/NNP+가/JKS
+글로벌	글로벌/NNG
+예능방송	예능/NNG+방송/NNG
+애플리케이션	애플리케이션/NNG
+V앱과	V/SL+앱/NNG+과/JC
+웹툰,	웹툰/NNG+,/SP
+댓글	댓글/NNG
+등도	등/NNB+도/JX
+학습자료로	학습/NNG+자료/NNG+로/JKB
+활용하고	활용/NNG+하/XSV+고/EC
+있기	있/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.9.5
+네이버는 한류 콘텐츠와 연계할 경우 파파고의 파급력이 더 커질 것으로 보고 한류가 확산된 아시아에서 보급을 확대한다는 계획이다.
+
+네이버는	네이버/NNP+는/JX
+한류	한류/NNG
+콘텐츠와	콘텐츠/NNG+와/JKB
+연계할	연계/NNG+하/XSV+ㄹ/ETM
+경우	경우/NNG
+파파고의	파파고/NNP+의/JKG
+파급력이	파급력/NNG+이/JKS
+더	더/MAG
+커질	커지/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+한류가	한류/NNG+가/JKS
+확산된	확산/NNG+되/XSV+ㄴ/ETM
+아시아에서	아시아/NNP+에서/JKB
+보급을	보급/NNG+을/JKO
+확대한다는	확대/NNG+하/XSV+ㄴ다는/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.182.10.1
+한편 현재 음성인식 기술을 바탕으로 음성과 문자 간 순차 통역서비스를 제공하는 파파고는 음성 학습데이터를 많이 축적하고 인식도를 높이는 작업을 진행 중이라고 네이버 측은 밝혔다.
+
+한편	한편/MAG
+현재	현재/MAG
+음성인식	음성/NNG+인식/NNG
+기술을	기술/NNG+을/JKO
+바탕으로	바탕/NNG+으로/JKB
+음성과	음성/NNG+과/JC
+문자	문자/NNG
+간	간/NNB
+순차	순차/NNG
+통역서비스를	통역/NNG+서비스/NNG+를/JKO
+제공하는	제공/NNG+하/XSV+는/ETM
+파파고는	파파고/NNP+는/JX
+음성	음성/NNG
+학습데이터를	학습/NNG+데이터/NNG+를/JKO
+많이	많이/MAG
+축적하고	축적/NNG+하/XSV+고/EC
+인식도를	인식도/NNG+를/JKO
+높이는	높이/VV+는/ETM
+작업을	작업/NNG+을/JKO
+진행	진행/NNG
+중이라고	중/NNB+이/VCP+라고/EC
+네이버	네이버/NNP
+측은	측/NNB+은/JX
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

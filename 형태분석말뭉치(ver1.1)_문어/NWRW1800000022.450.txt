@@ -1,0 +1,371 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.450
+metadata : {}
+
+
+# id : NWRW1800000022.450.1.1
+산림 보호 개도국에 자금 지원;코펜하겐 유엔 기후회의 조림사업 인센티브 제공온난화 방지 초안 마련
+
+산림	산림/NNG
+보호	보호/NNG
+개도국에	개도국/NNG+에/JKB
+자금	자금/NNG
+지원;코펜하겐	지원/NNG+;/SW+코펜하겐/NNP
+유엔	유엔/NNP
+기후회의	기후/NNG+회의/NNG
+조림사업	조림/NNG+사업/NNG
+인센티브	인센티브/NNG
+제공온난화	제공/NNG+온난/NNG+화/XSN
+방지	방지/NNG
+초안	초안/NNG
+마련	마련/NNG
+
+
+# id : NWRW1800000022.450.2.1
+코펜하겐 기후변화 회의가 선진국과 개발도상국 간 현격한 입장 차이로 교착상태에 빠진 가운데, 열대우림 등 지구 산림자원 보호를 위한 양자 간 협상은 순조롭게 진행되고 있어 그나마 희망을 주고 있다.
+
+코펜하겐	코펜하겐/NNP
+기후변화	기후/NNG+변화/NNG
+회의가	회의/NNG+가/JKS
+선진국과	선진국/NNG+과/JC
+개발도상국	개발/NNG+도상국/NNG
+간	간/NNB
+현격한	현격/NNG+하/XSA+ㄴ/ETM
+입장	입장/NNG
+차이로	차이/NNG+로/JKB
+교착상태에	교착/NNG+상태/NNG+에/JKB
+빠진	빠지/VV+ㄴ/ETM
+가운데,	가운데/NNG+,/SP
+열대우림	열대/NNG+우림/NNG
+등	등/NNB
+지구	지구/NNG
+산림자원	산림/NNG+자원/NNG
+보호를	보호/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+양자	양자/NNG
+협상은	협상/NNG+은/JX
+순조롭게	순조/NNG+롭/XSA+게/EC
+진행되고	진행/NNG+되/XSV+고/EC
+있어	있/VX+어/EC
+그나마	그나마/MAG
+희망을	희망/NNG+을/JKO
+주고	주/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.450.3.1
+16일 뉴욕타임스와 파이낸셜타임스 등 외신 보도에 따르면, 개도국의 산림훼손을 줄여 지구차원의 이산화탄소(CO₂) 배출량을 감축하려는 '산림 전용 방지'(Reducing Emissions From Deforestation and Forest Degradation·REDD) 협상이 마무리 단계로 접어들었다.
+
+16일	16/SN+일/NNB
+뉴욕타임스와	뉴욕타임스/NNP+와/JC
+파이낸셜타임스	파이낸셜타임스/NNP
+등	등/NNB
+외신	외신/NNG
+보도에	보도/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+개도국의	개도국/NNG+의/JKG
+산림훼손을	산림/NNG+훼손/NNG+을/JKO
+줄여	줄이/VV+어/EC
+지구차원의	지구/NNG+차원/NNG+의/JKG
+이산화탄소(CO₂)	이산화/NNG+탄소/NNG+(/SS+CO₂/SW+)/SS
+배출량을	배출량/NNG+을/JKO
+감축하려는	감축/NNG+하/XSV+려는/ETM
+'산림	'/SS+산림/NNG
+전용	전용/NNG
+방지'(Reducing	방지/NNG+'/SS+(/SS+Reducing/SL
+Emissions	Emissions/SL
+From	From/SL
+Deforestation	Deforestation/SL
+and	and/SL
+Forest	Forest/SL
+Degradation·REDD)	Degradation/SL+·/SP+REDD/SL+)/SS
+협상이	협상/NNG+이/JKS
+마무리	마무리/NNG
+단계로	단계/NNG+로/JKB
+접어들었다.	접어들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.450.4.1
+REDD는 열대우림 등 산림자원을 보호하는 개도국이나, 개도국에 숲을 조성하는 선진국에 CO₂ 감축 기여도에 비례해 탄소배출권을 인정해 주는 제도다.
+
+REDD는	REDD/SL+는/JX
+열대우림	열대/NNG+우림/NNG
+등	등/NNB
+산림자원을	산림/NNG+자원/NNG+을/JKO
+보호하는	보호/NNG+하/XSV+는/ETM
+개도국이나,	개도국/NNG+이나/JC+,/SP
+개도국에	개도국/NNG+에/JKB
+숲을	숲/NNG+을/JKO
+조성하는	조성/NNG+하/XSV+는/ETM
+선진국에	선진국/NNG+에/JKB
+CO₂	CO₂/SW
+감축	감축/NNG
+기여도에	기여도/NNG+에/JKB
+비례해	비례/NNG+하/XSV+아/EC
+탄소배출권을	탄소/NNG+배출/NNG+권/XSN+을/JKO
+인정해	인정/NNG+하/XSV+아/EC
+주는	주/VX+는/ETM
+제도다.	제도/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.450.4.2
+산림자원 보호에 경제적 인센티브를 제공함으로써 글로벌 차원에서 산림 보호를 공조(共助)하는 체계를 구축하자는 취지다.
+
+산림자원	산림/NNG+자원/NNG
+보호에	보호/NNG+에/JKB
+경제적	경제/NNG+적/XSN
+인센티브를	인센티브/NNG+를/JKO
+제공함으로써	제공/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+글로벌	글로벌/NNG
+차원에서	차원/NNG+에서/JKB
+산림	산림/NNG
+보호를	보호/NNG+를/JKO
+공조(共助)하는	공조/NNG+(/SS+共助/SH+)/SS+하/XSV+는/ETM
+체계를	체계/NNG+를/JKO
+구축하자는	구축/NNG+하/XSV+자는/ETM
+취지다.	취지/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.450.5.1
+열대우림, 북반구 침엽수림대 등 산림자원은 지구의 CO₂ 저장탱크 역할을 하고 있는데, 각종 개발행위로 그 면적이 급감하고 있다.
+
+열대우림,	열대/NNG+우림/NNG+,/SP
+북반구	북반구/NNG
+침엽수림대	침엽수림대/NNG
+등	등/NNB
+산림자원은	산림/NNG+자원/NNG+은/JX
+지구의	지구/NNG+의/JKG
+CO₂	CO₂/SW
+저장탱크	저장/NNG+탱크/NNG
+역할을	역할/NNG+을/JKO
+하고	하/VV+고/EC
+있는데,	있/VX+는데/EC+,/SP
+각종	각종/NNG
+개발행위로	개발/NNG+행위/NNG+로/JKB
+그	그/MMD
+면적이	면적/NNG+이/JKS
+급감하고	급감/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.450.5.2
+산림자원 벌채로 인한 CO₂ 배출량이 지구 전체 이산화탄소 배출량의 20%에 달한다는 분석도 있다.
+
+산림자원	산림/NNG+자원/NNG
+벌채로	벌채/NNG+로/JKB
+인한	인/NNG+하/XSV+ㄴ/ETM
+CO₂	CO₂/SW
+배출량이	배출량/NNG+이/JKS
+지구	지구/NNG
+전체	전체/NNG
+이산화탄소	이산화/NNG+탄소/NNG
+배출량의	배출량/NNG+의/JKG
+20%에	20/SN+%/SW+에/JKB
+달한다는	달하/VV+ㄴ다는/ETM
+분석도	분석/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.450.6.1
+코펜하겐 회의 마지막 날(18일) 공개될 예정인 산림 자원 관련 합의문 초안은 국가나 기업이 개도국에서 조림(造林)사업을 할 경우 추가로 탄소배출권을 인정해주고, 산림자원을 보호하는 개도국엔 CO₂ 감축량을 기준으로 t당 1달러 이상의 자금을 지원하는 내용을 포함한 것으로 알려졌다.
+
+코펜하겐	코펜하겐/NNP
+회의	회의/NNG
+마지막	마지막/NNG
+날(18일)	날/NNG+(/SS+18/SN+일/NNB+)/SS
+공개될	공개/NNG+되/XSV+ㄹ/ETM
+예정인	예정/NNG+이/VCP+ㄴ/ETM
+산림	산림/NNG
+자원	자원/NNG
+관련	관련/NNG
+합의문	합의문/NNG
+초안은	초안/NNG+은/JX
+국가나	국가/NNG+나/JC
+기업이	기업/NNG+이/JKS
+개도국에서	개도국/NNG+에서/JKB
+조림(造林)사업을	조림/NNG+(/SS+造林/SH+)/SS+사업/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+경우	경우/NNG
+추가로	추가/NNG+로/JKB
+탄소배출권을	탄소/NNG+배출/NNG+권/XSN+을/JKO
+인정해주고,	인정/NNG+하/XSV+아/EC+주/VX+고/EC+,/SP
+산림자원을	산림/NNG+자원/NNG+을/JKO
+보호하는	보호/NNG+하/XSV+는/ETM
+개도국엔	개도국/NNG+에/JKB+ㄴ/JX
+CO₂	CO₂/SW
+감축량을	감축량/NNG+을/JKO
+기준으로	기준/NNG+으로/JKB
+t당	t/SW+당/XSN
+1달러	1/SN+달러/NNB
+이상의	이상/NNG+의/JKG
+자금을	자금/NNG+을/JKO
+지원하는	지원/NNG+하/XSV+는/ETM
+내용을	내용/NNG+을/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.450.6.2
+보호 대상에는 열대우림, 침엽수림대뿐 아니라 토탄(土炭)지대, 습지 등도 포함돼 있다.
+
+보호	보호/NNG
+대상에는	대상/NNG+에/JKB+는/JX
+열대우림,	열대/NNG+우림/NNG+,/SP
+침엽수림대뿐	침엽수림대/NNG+뿐/JX
+아니라	아니/VCN+라/EC
+토탄(土炭)지대,	토탄/NNG+(/SS+土炭/SH+)/SS+지대/NNG+,/SP
+습지	습지/NNG
+등도	등/NNB+도/JX
+포함돼	포함/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.450.7.1
+개도국으로선 산림을 없애지 않고도 수입을 올릴 수 있고, 선진국은 지구 환경보호에도 기여하고 기업활동도 영위할 수 있어 '윈-윈(win-win)' 구도가 될 수 있다.
+
+개도국으로선	개도국/NNG+으로서/JKB+ㄴ/JX
+산림을	산림/NNG+을/JKO
+없애지	없애/VV+지/EC
+않고도	않/VX+고/EC+도/JX
+수입을	수입/NNG+을/JKO
+올릴	올리/VV+ㄹ/ETM
+수	수/NNB
+있고,	있/VA+고/EC+,/SP
+선진국은	선진국/NNG+은/JX
+지구	지구/NNG
+환경보호에도	환경/NNG+보호/NNG+에/JKB+도/JX
+기여하고	기여/NNG+하/XSV+고/EC
+기업활동도	기업/NNG+활동/NNG+도/JX
+영위할	영위/NNG+하/XSV+ㄹ/ETM
+있어	있/VA+어/EC
+'윈-윈(win-win)'	'/SS+윈-윈/NNG+(/SS+win/SL+-/SO+win/SL+)/SS+'/SS
+구도가	구도/NNG+가/JKC
+될	되/VV+ㄹ/ETM
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.450.8.1
+NGO(비정부기구)인 환경보호펀드의 프레드 크럽(Krupp) 의장은 "REDD는 현재까지 코펜하겐 회의에서 나온 가장 구체적인 성과이며, 지구 온난화 방지를 위해 매우 중요한 일"이라고 말한다.
+
+NGO(비정부기구)인	NGO/SL+(/SS+비/XPN+정부/NNG+기구/NNG+)/SS+이/VCP+ㄴ/ETM
+환경보호펀드의	환경보호펀드/NNP+의/JKG
+프레드	프레드/NNP
+크럽(Krupp)	크럽/NNP+(/SS+Krupp/SL+)/SS
+의장은	의장/NNG+은/JX
+"REDD는	"/SS+REDD/SL+는/JX
+현재까지	현재/NNG+까지/JX
+코펜하겐	코펜하겐/NNP
+회의에서	회의/NNG+에서/JKB
+나온	나오/VV+ㄴ/ETM
+가장	가장/MAG
+구체적인	구체/NNG+적/XSN+이/VCP+ㄴ/ETM
+성과이며,	성과/NNG+이/VCP+며/EC+,/SP
+지구	지구/NNG
+온난화	온난/NNG+화/XSN
+방지를	방지/NNG+를/JKO
+위해	위하/VV+아/EC
+매우	매우/MAG
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+일"이라고	일/NNG+"/SS+이라고/JKQ
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.450.9.1
+한편 코펜하겐 기후변화 회의에서 ▲CO₂ 감축 목표치 ▲개도국에 대한 기후변화 대책 및 관련 기술 지원 펀드의 규모 등 주요 현안은 여전히 협상이 교착에 빠졌다.
+
+한편	한편/MAG
+코펜하겐	코펜하겐/NNP
+기후변화	기후/NNG+변화/NNG
+회의에서	회의/NNG+에서/JKB
+▲CO₂	▲/SW+CO₂/SW
+감축	감축/NNG
+목표치	목표/NNG+치/XSN
+▲개도국에	▲/SW+개도국/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+대책	대책/NNG
+및	및/MAG
+관련	관련/NNG
+기술	기술/NNG
+지원	지원/NNG
+펀드의	펀드/NNG+의/JKG
+규모	규모/NNG
+등	등/NNB
+주요	주요/NNG
+현안은	현안/NNG+은/JX
+여전히	여전히/MAG
+협상이	협상/NNG+이/JKS
+교착에	교착/NNG+에/JKB
+빠졌다.	빠지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.450.9.2
+특히 개도국 지원 자금 규모와 관련, 개도국과 빈국(貧國)들은 선진국이 매년 2500억달러(선진국 GDP의 0.5% 수준·2020년 기준)를 내놔야 한다고 주장하는 반면, 선진국 진영은 400억달러 이상은 어렵다는 입장이다.
+
+특히	특히/MAG
+개도국	개도국/NNG
+지원	지원/NNG
+자금	자금/NNG
+규모와	규모/NNG+와/JKB
+관련,	관련/NNG+,/SP
+개도국과	개도국/NNG+과/JC
+빈국(貧國)들은	빈국/NNG+(/SS+貧國/SH+)/SS+들/XSN+은/JX
+선진국이	선진국/NNG+이/JKS
+매년	매년/MAG
+2500억달러(선진국	2500/SN+억/NR+달러/NNB+(/SS+선진국/NNG
+GDP의	GDP/SL+의/JKG
+0.5%	0/SN+./SP+5/SN+%/SW
+수준·2020년	수준/NNG+·/SP+2020/SN+년/NNB
+기준)를	기준/NNG+)/SS+를/JKO
+내놔야	내놓/VV+아야/EC
+한다고	하/VX+ㄴ다고/EC
+주장하는	주장/NNG+하/XSV+는/ETM
+반면,	반면/NNG+,/SP
+선진국	선진국/NNG
+진영은	진영/NNG+은/JX
+400억달러	400/SN+억/NR+달러/NNB
+이상은	이상/NNG+은/JX
+어렵다는	어렵/VA+다는/ETM
+입장이다.	입장/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.450.10.1
+이와 관련, 반기문 유엔 사무총장은 파이낸셜타임스 인터뷰에서 "이번 코펜하겐 회의에서 선진국들로부터 개도국 지원금 총액에 대한 약속을 받아내긴 어렵다. 그런 문제는 내년에 다시 협상할 수 있다"고 말해, 기대 수준을 낮추고 있음을 시사했다.
+
+이와	이/NP+와/JKB
+관련,	관련/NNG+,/SP
+반기문	반기문/NNP
+유엔	유엔/NNP
+사무총장은	사무총장/NNG+은/JX
+파이낸셜타임스	파이낸셜타임스/NNP
+인터뷰에서	인터뷰/NNG+에서/JKB
+"이번	"/SS+이번/NNG
+코펜하겐	코펜하겐/NNP
+회의에서	회의/NNG+에서/JKB
+선진국들로부터	선진국/NNG+들/XSN+로부터/JKB
+개도국	개도국/NNG
+지원금	지원금/NNG
+총액에	총액/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+약속을	약속/NNG+을/JKO
+받아내긴	받/VV+아/EC+내/VX+기/ETN+ㄴ/JX
+어렵다.	어렵/VA+다/EF+./SF
+그런	그런/MMD
+문제는	문제/NNG+는/JX
+내년에	내년/NNG+에/JKB
+다시	다시/MAG
+협상할	협상/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말해,	말/NNG+하/XSV+아/EC+,/SP
+기대	기대/NNG
+수준을	수준/NNG+을/JKO
+낮추고	낮추/VV+고/EC
+있음을	있/VX+음/ETN+을/JKO
+시사했다.	시사/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,180 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.304
+metadata : {}
+
+
+# id : NWRW1800000026.304.1.1
+한국 의사는 정부의 노예?
+
+한국	한국/NNP
+의사는	의사/NNG+는/JX
+정부의	정부/NNG+의/JKG
+노예?	노예/NNG+?/SF
+
+
+# id : NWRW1800000026.304.2.1
+한국 의사들은 정부를 위해 일하는 노예들이다!(Medical Doctors Are Just Slaves Working For The Government In Korea!)
+
+한국	한국/NNP
+의사들은	의사/NNG+들/XSN+은/JX
+정부를	정부/NNG+를/JKO
+위해	위하/VV+아/EC
+일하는	일/NNG+하/XSV+는/ETM
+노예들이다!(Medical	노예/NNG+들/XSN+이/VCP+다/EF+!/SF+(/SS+Medical/SL
+Doctors	Doctors/SL
+Are	Are/SL
+Just	Just/SL
+Slaves	Slaves/SL
+Working	Working/SL
+For	For/SL
+The	The/SL
+Government	Government/SL
+In	In/SL
+Korea!)	Korea/SL+!/SF+)/SS
+
+
+# id : NWRW1800000026.304.3.1
+8일 오후 서울 청담동 P호텔 9층에서는 개원의(開院醫) 중심의 의사단체인 전국의사총연합회(전의총) 노환규 대표가 이 같은 내용의 영어 피켓을 들고 1인 기습 시위에 나섰다.
+
+8일	8/SN+일/NNB
+오후	오후/NNG
+서울	서울/NNP
+청담동	청담동/NNP
+P호텔	P/SL+호텔/NNG
+9층에서는	9/SN+층/NNG+에서/JKB+는/JX
+개원의(開院醫)	개원의/NNG+(/SS+開院醫/SH+)/SS
+중심의	중심/NNG+의/JKG
+의사단체인	의사/NNG+단체/NNG+이/VCP+ㄴ/ETM
+전국의사총연합회(전의총)	전국의사총연합회/NNP+(/SS+전의총/NNP+)/SS
+노환규	노환규/NNP
+대표가	대표/NNG+가/JKS
+이	이/MMD
+같은	같/VA+은/ETM
+내용의	내용/NNG+의/JKG
+영어	영어/NNP
+피켓을	피켓/NNG+을/JKO
+들고	들/VV+고/EC
+1인	1/SN+인/NNG
+기습	기습/NNG
+시위에	시위/NNG+에/JKB
+나섰다.	나서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.304.4.1
+이날 이 호텔에선 '건강보험 국제연수과정'이 진행 중이었다.
+
+이날	이날/NNG
+이	이/MMD
+호텔에선	호텔/NNG+에서/JKB+ㄴ/JX
+'건강보험	'/SS+건강/NNG+보험/NNG
+국제연수과정'이	국제/NNG+연수/NNG+과정/NNG+'/SS+이/JKS
+진행	진행/NNG
+중이었다.	중/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.304.4.2
+12년(1977~1989) 만에 전 국민 대상 건보 제도를 정착시킨 '한국모델'을 개도국에도 전수해주자는 세계보건기구(WHO) 등의 요청에 따라 국민건강보험공단이 7년째 운영하는 프로그램이다.
+
+12년(1977~1989)	12/SN+년/NNB+(/SS+1977/SN+~/SO+1989/SN+)/SS
+만에	만/NNB+에/JKB
+전	전/MMN
+국민	국민/NNG
+대상	대상/NNG
+건보	건보/NNG
+제도를	제도/NNG+를/JKO
+정착시킨	정착/NNG+시키/XSV+ㄴ/ETM
+'한국모델'을	'/SS+한국/NNP+모델/NNG+'/SS+을/JKO
+개도국에도	개도국/NNG+에/JKB+도/JX
+전수해주자는	전수/NNG+하/XSV+아/EC+주/VX+자는/ETM
+세계보건기구(WHO)	세계보건기구/NNP+(/SS+WHO/SL+)/SS
+등의	등/NNB+의/JKG
+요청에	요청/NNG+에/JKB
+따라	따르/VV+아/EC
+국민건강보험공단이	국민건강보험공단/NNP+이/JKS
+7년째	7/SN+년/NNB+째/XSN
+운영하는	운영/NNG+하/XSV+는/ETM
+프로그램이다.	프로그램/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.304.4.3
+올해는 중국·네팔·이란·필리핀 등 19개국에서 교수·의사·보건공무원 등 36명이 참여했다.
+
+올해는	올해/NNG+는/JX
+중국·네팔·이란·필리핀	중국/NNP+·/SP+네팔/NNP+·/SP+이란/NNP+·/SP+필리핀/NNP
+등	등/NNB
+19개국에서	19/SN+개국/NNB+에서/JKB
+교수·의사·보건공무원	교수/NNG+·/SP+의사/NNG+·/SP+보건/NNG+공무원/NNG
+36명이	36/SN+명/NNB+이/JKS
+참여했다.	참여/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.304.5.1
+노 대표는 현장에서 "의사들의 피와 땀으로 유지되는 불합리한 우리 건보 제도가 우수한 것처럼 해외에 알리는 것은 사기(詐欺)에 가까워 시위를 하는 것"이라고 주장했다.
+
+노	노/NNP
+대표는	대표/NNG+는/JX
+현장에서	현장/NNG+에서/JKB
+"의사들의	"/SS+의사/NNG+들/XSN+의/JKG
+피와	피/NNG+와/JC
+땀으로	땀/NNG+으로/JKB
+유지되는	유지/NNG+되/XSV+는/ETM
+불합리한	불/XPN+합리/NNG+하/XSA+ㄴ/ETM
+우리	우리/NP
+건보	건보/NNG
+제도가	제도/NNG+가/JKS
+우수한	우수/NNG+하/XSA+ㄴ/ETM
+것처럼	것/NNB+처럼/JKB
+해외에	해외/NNG+에/JKB
+알리는	알리/VV+는/ETM
+것은	것/NNB+은/JX
+사기(詐欺)에	사기/NNG+(/SS+詐欺/SH+)/SS+에/JKB
+가까워	가깝/VA+어/EC
+시위를	시위/NNG+를/JKO
+하는	하/VV+는/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.304.6.1
+그가 든 피켓에는 "조만간 당신들은 한국에서 건보 파탄과 의사들의 총파업을 보게 될 것" "의사들을 어떻게 노예로 만드는지 배우려면 여기에 머물러라.
+
+그가	그/NP+가/JKS
+든	들/VV+ㄴ/ETM
+피켓에는	피켓/NNG+에/JKB+는/JX
+"조만간	"/SS+조만간/MAG
+당신들은	당신/NP+들/XSN+은/JX
+한국에서	한국/NNP+에서/JKB
+건보	건보/NNG
+파탄과	파탄/NNG+과/JC
+의사들의	의사/NNG+들/XSN+의/JKG
+총파업을	총파업/NNG+을/JKO
+보게	보/VV+게/EC
+될	되/VV+ㄹ/ETM
+것"	것/NNB+"/SS
+"의사들을	"/SS+의사/NNG+들/XSN+을/JKO
+어떻게	어떻/VA+게/EC
+노예로	노예/NNG+로/JKB
+만드는지	만들/VV+는지/EF
+배우려면	배우/VV+려면/EC
+여기에	여기/NP+에/JKB
+머물러라.	머무르/VV+어라/EF+./SF
+
+
+# id : NWRW1800000026.304.6.2
+그렇지 않다면 지금 이곳을 떠나라"는 등의 내용이 적혀 있었다.
+
+그렇지	그렇/VA+지/EC
+않다면	않/VX+다면/EC
+지금	지금/MAG
+이곳을	이곳/NP+을/JKO
+떠나라"는	떠나/VV+라/EF+"/SS+는/ETM
+등의	등/NNB+의/JKG
+내용이	내용/NNG+이/JKS
+적혀	적히/VV+어/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+

@@ -1,0 +1,278 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.358
+metadata : {}
+
+
+# id : NWRW1800000026.358.1.1
+'한국 인재' 채용하러 온 세계은행;인사담당 툴루이 부총재 방한
+
+'한국	'/SS+한국/NNP
+인재'	인재/NNG+'/SS
+채용하러	채용/NNG+하/XSV+러/EC
+온	오/VV+ㄴ/ETM
+세계은행;인사담당	세계은행/NNP+;/SW+인사/NNG+담당/NNG
+툴루이	툴루이/NNP
+부총재	부총재/NNG
+방한	방한/NNG
+
+
+# id : NWRW1800000026.358.2.1
+한국의 성공적인 경제 신화에 대한 경험과 전문지식을 활용하기 위해 더 많은 한국인 전문가를 채용하고 싶다.
+
+한국의	한국/NNP+의/JKG
+성공적인	성공/NNG+적/XSN+이/VCP+ㄴ/ETM
+경제	경제/NNG
+신화에	신화/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+경험과	경험/NNG+과/JC
+전문지식을	전문/NNG+지식/NNG+을/JKO
+활용하기	활용/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+더	더/MAG
+많은	많/VA+은/ETM
+한국인	한국인/NNG
+전문가를	전문가/NNG+를/JKO
+채용하고	채용/NNG+하/XSV+고/EC
+싶다.	싶/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.358.3.1
+세계은행(WB)에서 인사(人事)를 담당하는 하산 툴루이(Tuluy) 부총재가 한국의 인재를 채용하기 위해 방한(訪韓)했다.
+
+세계은행(WB)에서	세계은행/NNP+(/SS+WB/SL+)/SS+에서/JKB
+인사(人事)를	인사/NNG+(/SS+人事/SH+)/SS+를/JKO
+담당하는	담당/NNG+하/XSV+는/ETM
+하산	하산/NNP
+툴루이(Tuluy)	툴루이/NNP+(/SS+Tuluy/SL+)/SS
+부총재가	부총재/NNG+가/JKS
+한국의	한국/NNP+의/JKG
+인재를	인재/NNG+를/JKO
+채용하기	채용/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+방한(訪韓)했다.	방한/NNG+(/SS+訪韓/SH+)/SS+하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.3.2
+세계은행 부총재가 인력 채용을 위해 한국을 방문하기는 이번이 처음이다.
+
+세계은행	세계은행/NNP
+부총재가	부총재/NNG+가/JKS
+인력	인력/NNG
+채용을	채용/NNG+을/JKO
+위해	위하/VV+아/EC
+한국을	한국/NNP+을/JKO
+방문하기는	방문/NNG+하/XSV+기/ETN+는/JX
+이번이	이번/NNG+이/JKS
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.4.1
+그는 1일 과천정부청사에서 브리핑을 갖고 "현재 한국인 직원들이 많은 일을 하고 있지만, 더 많은 한국인 직원을 채용하고 싶다"고 밝혔다.
+
+그는	그/NP+는/JX
+1일	1/SN+일/NNB
+과천정부청사에서	과천정부청사/NNP+에서/JKB
+브리핑을	브리핑/NNG+을/JKO
+갖고	갖/VV+고/EC
+"현재	"/SS+현재/MAG
+한국인	한국인/NNG
+직원들이	직원/NNG+들/XSN+이/JKS
+많은	많/VA+은/ETM
+일을	일/NNG+을/JKO
+하고	하/VV+고/EC
+있지만,	있/VX+지만/EC+,/SP
+더	더/MAG
+직원을	직원/NNG+을/JKO
+채용하고	채용/NNG+하/XSV+고/EC
+싶다"고	싶/VX+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.4.2
+이어 "한국이 오는 G20 정상회의 의장국이라는 점도 타이밍이 좋았다고 할 수 있다"고 덧붙였다.
+
+이어	이어/MAG
+"한국이	"/SS+한국/NNP+이/JKS
+오는	오/VV+는/ETM
+G20	G/SL+20/SN
+정상회의	정상/NNG+회의/NNG
+의장국이라는	의장국/NNG+이/VCP+라는/ETM
+점도	점/NNG+도/JX
+타이밍이	타이밍/NNG+이/JKS
+좋았다고	좋/VA+았/EP+다고/EC
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.5.1
+현재 세계은행에서 일하는 한국인은 90여명이다.
+
+현재	현재/MAG
+세계은행에서	세계은행/NNP+에서/JKB
+일하는	일/NNG+하/XSV+는/ETM
+한국인은	한국인/NNG+은/JX
+90여명이다.	90/SN+여/XSN+명/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.5.2
+교육·민간개발·보건·금융 등 다양한 분야에서 활동하고 있다.
+
+교육·민간개발·보건·금융	교육/NNG+·/SP+민간/NNG+개발/NNG+·/SP+보건/NNG+·/SP+금융/NNG
+등	등/NNB
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+분야에서	분야/NNG+에서/JKB
+활동하고	활동/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.358.5.3
+이번 공개 채용에서 세계은행은 한국인을 3명가량 채용할 계획이다.
+
+이번	이번/NNG
+공개	공개/NNG
+채용에서	채용/NNG+에서/JKB
+세계은행은	세계은행/NNP+은/JX
+한국인을	한국인/NNG+을/JKO
+3명가량	3/SN+명/NNB+가량/XSN
+채용할	채용/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.5.4
+툴루이 부총재는 이번 방한 기간에 420명의 지원자 중 서류전형을 통과한 43명에 대한 면접을 실시할 계획이다.
+
+툴루이	툴루이/NNP
+부총재는	부총재/NNG+는/JX
+이번	이번/NNG
+방한	방한/NNG
+기간에	기간/NNG+에/JKB
+420명의	420/SN+명/NNB+의/JKG
+지원자	지원자/NNG
+중	중/NNB
+서류전형을	서류/NNG+전형/NNG+을/JKO
+통과한	통과/NNG+하/XSV+ㄴ/ETM
+43명에	43/SN+명/NNB+에/JKB
+대한	대하/VV+ㄴ/ETM
+면접을	면접/NNG+을/JKO
+실시할	실시/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.5.5
+채용 여부는 빠르면 올해 안에 확정해 본인에게 통보할 예정이다.
+
+채용	채용/NNG
+여부는	여부/NNG+는/JX
+빠르면	빠르/VA+면/EC
+올해	올해/NNG
+안에	안/NNG+에/JKB
+확정해	확정/NNG+하/XSV+아/EC
+본인에게	본인/NNG+에게/JKB
+통보할	통보/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.6.1
+툴루이 부총재는 "신규 채용자들은 워싱턴DC 본부나 각국에 있는 120여개 사무소에서 근무하게 된다"면서 "직원 급여 등 각종 업무 환경에 관한 한 전 세계에서 가장 경쟁력 있는 보상체계를 갖고 있다"고 소개했다.
+
+툴루이	툴루이/NNP
+부총재는	부총재/NNG+는/JX
+"신규	"/SS+신규/NNG
+채용자들은	채용자/NNG+들/XSN+은/JX
+워싱턴DC	워싱턴/NNP+DC/SL
+본부나	본부/NNG+나/JC
+각국에	각국/NNG+에/JKB
+있는	있/VA+는/ETM
+120여개	120/SN+여/XSN+개/NNB
+사무소에서	사무소/NNG+에서/JKB
+근무하게	근무/NNG+하/XSV+게/EC
+된다"면서	되/VV+ㄴ다/EF+"/SS+면서/EC
+"직원	"/SS+직원/NNG
+급여	급여/NNG
+등	등/NNB
+각종	각종/NNG
+업무	업무/NNG
+환경에	환경/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+한	한/NNG
+전	전/MMN
+세계에서	세계/NNG+에서/JKB
+가장	가장/MAG
+경쟁력	경쟁력/NNG
+보상체계를	보상/NNG+체계/NNG+를/JKO
+갖고	갖/VV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+소개했다.	소개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.7.1
+세계은행은 '영프로페셔널프로그램(YPP)'과 '주니어프로페셔널어소시에이트(JPA)'도 운영하고 있다.
+
+세계은행은	세계은행/NNP+은/JX
+'영프로페셔널프로그램(YPP)'과	'/SS+영프로페셔널프로그램/NNG+(/SS+YPP/SL+)/SS+'/SS+과/JC
+'주니어프로페셔널어소시에이트(JPA)'도	'/SS+주니어프로페셔널어소시에이트/NNG+(/SS+JPA/SL+)/SS+'/SS+도/JX
+운영하고	운영/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.358.7.2
+지원자격은 각각 최소 3년 이상 경력의 박사급과 28세 미만 학사 학위 소지자다.
+
+지원자격은	지원/NNG+자격/NNG+은/JX
+각각	각각/MAG
+최소	최소/NNG
+3년	3/SN+년/NNB
+이상	이상/NNG
+경력의	경력/NNG+의/JKG
+박사급과	박사급/NNG+과/JC
+28세	28/SN+세/NNB
+미만	미만/NNG
+학사	학사/NNG
+학위	학위/NNG
+소지자다.	소지자/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.358.7.3
+세부 채용정보는 세계은행 채용사이트(www.worldbank.org/jobs)를 참고하면 된다.
+
+세부	세부/NNG
+채용정보는	채용/NNG+정보/NNG+는/JX
+세계은행	세계은행/NNP
+채용사이트(www.worldbank.org/jobs)를	채용/NNG+사이트/NNG+(/SS+www/SL+./SP+worldbank/SL+./SP+org/SL+//SP+jobs/SL+)/SS+를/JKO
+참고하면	참고/NNG+하/XSV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.358.8.1
+기획재정부 관계자는 "환경경제나 환경정책, 기후변화, 수자원관리 등을 전공했으면 유리하다"면서 "특히 금융회사에서 프로젝트 파이낸싱(project financing) 업무를 경험한 지원자를 선호하는 것으로 알고 있다"고 귀띔했다.
+
+기획재정부	기획/NNG+재정부/NNG
+관계자는	관계자/NNG+는/JX
+"환경경제나	"/SS+환경/NNG+경제/NNG+나/JC
+환경정책,	환경/NNG+정책/NNG+,/SP
+기후변화,	기후/NNG+변화/NNG+,/SP
+수자원관리	수자원/NNG+관리/NNG
+등을	등/NNB+을/JKO
+전공했으면	전공/NNG+하/XSV+았/EP+으면/EC
+유리하다"면서	유리/NNG+하/XSA+다/EF+"/SS+면서/EC
+"특히	"/SS+특히/MAG
+금융회사에서	금융/NNG+회사/NNG+에서/JKB
+프로젝트	프로젝트/NNG
+파이낸싱(project	파이낸싱/NNG+(/SS+project/SL
+financing)	financing/SL+)/SS
+업무를	업무/NNG+를/JKO
+경험한	경험/NNG+하/XSV+ㄴ/ETM
+지원자를	지원자/NNG+를/JKO
+선호하는	선호/NNG+하/XSV+는/ETM
+것으로	것/NNB+으로/JKB
+알고	알/VV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+귀띔했다.	귀띔/NNG+하/XSV+았/EP+다/EF+./SF
+
+

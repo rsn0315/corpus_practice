@@ -1,0 +1,266 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.93
+metadata : {}
+
+
+# id : NWRW1800000030.93.1.1
+대사 관저서 '김태우 콘서트' 청소년들과 어울린 스티븐스
+
+대사	대사/NNG
+관저서	관저/NNG+서/JKB
+'김태우	'/SS+김태우/NNP
+콘서트'	콘서트/NNG+'/SS
+청소년들과	청소년/NNG+들/XSN+과/JKB
+어울린	어울리/VV+ㄴ/ETM
+스티븐스	스티븐스/NNP
+
+
+# id : NWRW1800000030.93.2.1
+•"오랫동안 기억에 남을 밤 될 겁니다"
+
+•"오랫동안	•/SW+"/SS+오랫동안/NNG
+기억에	기억/NNG+에/JKB
+남을	남/VV+을/ETM
+밤	밤/NNG
+될	되/VV+ㄹ/ETM
+겁니다"	거/NNB+이/VCP+ㅂ니다/EF+"/SS
+
+
+# id : NWRW1800000030.93.3.1
+"가수 김태우의 공연 내내 학생들은 환호성을 질렀고 가끔 '사랑해요 김태우'도 들렸습니다.
+
+"가수	"/SS+가수/NNG
+김태우의	김태우/NNP+의/JKG
+공연	공연/NNG
+내내	내내/MAG
+학생들은	학생/NNG+들/XSN+은/JX
+환호성을	환호성/NNG+을/JKO
+질렀고	지르/VV+었/EP+고/EC
+가끔	가끔/MAG
+'사랑해요	'/SS+사랑/NNG+하/XSV+아요/EF
+김태우'도	김태우/NNP+'/SS+도/JX
+들렸습니다.	들리/VV+었/EP+습니다/EF+./SF
+
+
+# id : NWRW1800000030.93.3.2
+아마 모두에게 오랫동안 기억에 남을 밤이 되었을 겁니다.
+
+아마	아마/MAG
+모두에게	모두/NNG+에게/JKB
+오랫동안	오랫동안/NNG
+기억에	기억/NNG+에/JKB
+남을	남/VV+을/ETM
+밤이	밤/NNG+이/JKC
+되었을	되/VV+었/EP+을/ETM
+겁니다.	거/NNB+이/VCP+ㅂ니다/EF+./SF
+
+
+# id : NWRW1800000030.93.3.3
+저도 마찬가지고요!"
+
+저도	저/NP+도/JX
+마찬가지고요!"	마찬가지/NNG+이/VCP+고/EF+요/JX+!/SF+"/SS
+
+
+# id : NWRW1800000030.93.4.1
+캐슬린 스티븐스 주한 미국대사가 관저로 가수 김태우를 초청, 콘서트를 개최했다.
+
+캐슬린	캐슬린/NNP
+스티븐스	스티븐스/NNP
+주한	주한/NNG
+미국대사가	미국/NNP+대사/NNG+가/JKS
+관저로	관저/NNG+로/JKB
+가수	가수/NNG
+김태우를	김태우/NNP+를/JKO
+초청,	초청/NNG+,/SP
+콘서트를	콘서트/NNG+를/JKO
+개최했다.	개최/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.5.1
+스티븐스 대사는 17일 자신의 인터넷 블로그 '심은경의 한국이야기'에 올린 글에서 "설 연휴 전(1월 27일) 제가 사는 하비브 하우스에서 한국 가요의 레전드 김태우씨를 초청해 콘서트를 열었다"며 "관저에 한국 대중가수를 초청해 공연한 것은 처음"이라고 했다.
+
+스티븐스	스티븐스/NNP
+대사는	대사/NNG+는/JX
+17일	17/SN+일/NNB
+자신의	자신/NNG+의/JKG
+인터넷	인터넷/NNG
+블로그	블로그/NNG
+'심은경의	'/SS+심은경/NNP+의/JKG
+한국이야기'에	한국/NNP+이야기/NNG+'/SS+에/JKB
+올린	올리/VV+ㄴ/ETM
+글에서	글/NNG+에서/JKB
+"설	"/SS+설/NNG
+연휴	연휴/NNG
+전(1월	전/NNG+(/SS+1/SN+월/NNB
+27일)	27/SN+일/NNB+)/SS
+제가	제/NP+가/JKS
+사는	살/VV+는/ETM
+하비브	하비브/NNP
+하우스에서	하우스/NNP+에서/JKB
+한국	한국/NNP
+가요의	가요/NNG+의/JKG
+레전드	레전드/NNG
+김태우씨를	김태우/NNP+씨/NNB+를/JKO
+초청해	초청/NNG+하/XSV+아/EC
+콘서트를	콘서트/NNG+를/JKO
+열었다"며	열/VV+었/EP+다/EF+"/SS+며/EC
+"관저에	"/SS+관저/NNG+에/JKB
+대중가수를	대중/NNG+가수/NNG+를/JKO
+공연한	공연/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+처음"이라고	처음/NNG+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.6.1
+김태우는 이날 스티븐스 대사가 제일 좋아하는 노래 '사랑비'로 콘서트를 시작한 후, 이어 '꿈을 꾸다'를 불렀다.
+
+김태우는	김태우/NNP+는/JX
+이날	이날/NNG
+스티븐스	스티븐스/NNP
+대사가	대사/NNG+가/JKS
+제일	제일/MAG
+좋아하는	좋아하/VV+는/ETM
+노래	노래/NNG
+'사랑비'로	'/SS+사랑비/NNP+'/SS+로/JKB
+콘서트를	콘서트/NNG+를/JKO
+시작한	시작/NNG+하/XSV+ㄴ/ETM
+후,	후/NNG+,/SP
+이어	이어/MAG
+'꿈을	'/SS+꿈/NNG+을/JKO
+꾸다'를	꾸/VV+다/EF+'/SS+를/JKO
+불렀다.	부르/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.6.2
+스티븐스 대사는 "인기 드라마 '아이리스'를 열심히 보신 분이라면 이 노래(꿈을 꾸다)를 잘 아실 것"이라며 한국 대중문화에 대한 이해가 상당함을 내비쳤다.
+
+스티븐스	스티븐스/NNP
+대사는	대사/NNG+는/JX
+"인기	"/SS+인기/NNG
+드라마	드라마/NNG
+'아이리스'를	'/SS+아이리스/NNP+'/SS+를/JKO
+열심히	열심히/MAG
+보신	보/VV+시/EP+ㄴ/ETM
+분이라면	분/NNB+이/VCP+라면/EC
+이	이/MMD
+노래(꿈을	노래/NNG+(/SS+꿈/NNG+을/JKO
+꾸다)를	꾸/VV+다/EF+)/SS+를/JKO
+잘	잘/MAG
+아실	알/VV+시/EP+ㄹ/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+한국	한국/NNP
+대중문화에	대중문화/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+이해가	이해/NNG+가/JKS
+상당함을	상당/NNG+하/XSA+ㅁ/ETN+을/JKO
+내비쳤다.	내비치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.7.1
+그는 "김태우씨는 한국 가요를 몇 개 부르고는 팝송으로 바꿔 스티비 원더의 대표곡 'Isn't She Lovely'와 빌리 조엘의 'New York State of Mind'를 멋지게 불렀다"고 소개했다.
+
+그는	그/NP+는/JX
+"김태우씨는	"/SS+김태우/NNP+씨/NNB+는/JX
+한국	한국/NNP
+가요를	가요/NNG+를/JKO
+몇	몇/NR
+개	개/NNB
+부르고는	부르/VV+고/EC+는/JX
+팝송으로	팝송/NNG+으로/JKB
+바꿔	바꾸/VV+어/EC
+스티비	스티비/NNP
+원더의	원더/NNP+의/JKG
+대표곡	대표곡/NNG
+'Isn't	'/SS+Isn/SL+'/SS+t/SL
+She	She/SL
+Lovely'와	Lovely/SL+'/SS+와/JC
+빌리	빌리/NNP
+조엘의	조엘/NNP+의/JKG
+'New	'/SS+New/SL
+York	York/SL
+State	State/SL
+of	of/SL
+Mind'를	Mind/SL+'/SS+를/JKO
+멋지게	멋지/VA+게/EC
+불렀다"고	부르/VV+었/EP+다/EF+"/SS+고/JKQ
+소개했다.	소개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.8.1
+이날 콘서트에는 미국의 국제방문자프로그램(IVLP)과 주한 미국대사관의 청소년리더십 프로그램(AYLP) 참가자 등 100여명이 초청됐다.
+
+이날	이날/NNG
+콘서트에는	콘서트/NNG+에/JKB+는/JX
+미국의	미국/NNP+의/JKG
+국제방문자프로그램(IVLP)과	국제/NNG+방문자/NNG+프로그램/NNG+(/SS+IVLP/SL+)/SS+과/JC
+주한	주한/NNG
+미국대사관의	미국/NNP+대사관/NNG+의/JKG
+청소년리더십	청소년/NNG+리더십/NNG
+프로그램(AYLP)	프로그램/NNG+(/SS+AYLP/SL+)/SS
+참가자	참가자/NNG
+등	등/NNB
+100여명이	100/SN+여/XSN+명/NNB+이/JKS
+초청됐다.	초청/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.9.1
+그는 "음악을 듣는 것은 한국어 실력을 늘리고 강화하는 좋은 방법 중 하나"라며 "예를 들어 '기억과 추억'이라는 노래를 들으면 한국어 단어의 미묘한 차이를 생각하게 된다"고 말했다.
+
+그는	그/NP+는/JX
+"음악을	"/SS+음악/NNG+을/JKO
+듣는	듣/VV+는/ETM
+것은	것/NNB+은/JX
+한국어	한국어/NNP
+실력을	실력/NNG+을/JKO
+늘리고	늘리/VV+고/EC
+강화하는	강화/NNG+하/XSV+는/ETM
+좋은	좋/VA+은/ETM
+방법	방법/NNG
+중	중/NNB
+하나"라며	하나/NR+"/SS+이/VCP+라며/EC
+"예를	"/SS+예/NNG+를/JKO
+들어	들/VV+어/EC
+'기억과	'/SS+기억/NNG+과/JC
+추억'이라는	추억/NNG+'/SS+이/VCP+라는/ETM
+노래를	노래/NNG+를/JKO
+들으면	듣/VV+으면/EC
+단어의	단어/NNG+의/JKG
+미묘한	미묘하/VA+ㄴ/ETM
+차이를	차이/NNG+를/JKO
+생각하게	생각/NNG+하/XSV+게/EC
+된다"고	되/VV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.10.1
+스티븐스 대사는 자신의 블로그에 한·미관계와 한국생활에 대한 글들을 올려 왔다.
+
+스티븐스	스티븐스/NNP
+대사는	대사/NNG+는/JX
+자신의	자신/NNG+의/JKG
+블로그에	블로그/NNG+에/JKB
+한·미관계와	한·미/NNP+관계/NNG+와/JC
+한국생활에	한국/NNP+생활/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+글들을	글/NNG+들/XSN+을/JKO
+올려	올리/VV+어/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.93.10.2
+'김태우 콘서트 감상문'은 그의 101번째 글이다.
+
+'김태우	'/SS+김태우/NNP
+콘서트	콘서트/NNG
+감상문'은	감상문/NNG+'/SS+은/JX
+그의	그/NP+의/JKG
+101번째	101/SN+번/NNB+째/XSN
+글이다.	글/NNG+이/VCP+다/EF+./SF
+
+

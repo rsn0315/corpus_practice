@@ -1,0 +1,137 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.70
+metadata : {}
+
+
+# id : NWRW1800000026.70.1.1
+NHN 네이버 '영화 내려받기 서비스' 진출
+
+NHN	NHN/SL
+네이버	네이버/NNP
+'영화	'/SS+영화/NNG
+내려받기	내려받기/NNG
+서비스'	서비스/NNG+'/SS
+진출	진출/NNG
+
+
+# id : NWRW1800000026.70.2.1
+국내 최대 인터넷기업 NHN이 온라인 '영화' 시장에 뛰어든다.
+
+국내	국내/NNG
+최대	최대/NNG
+인터넷기업	인터넷/NNG+기업/NNG
+NHN이	NHN/SL+이/JKS
+온라인	온라인/NNG
+'영화'	'/SS+영화/NNG+'/SS
+시장에	시장/NNG+에/JKB
+뛰어든다.	뛰어들/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.70.3.1
+NHN은 엠바로와 협약을 맺고 온라인에서 영화를 합법적으로 내려받을 수 있는 서비스를 자사 포털사이트인 '네이버'에서 시작한다고 25일 밝혔다.
+
+NHN은	NHN/SL+은/JX
+엠바로와	엠바로/NNP+와/JKB
+협약을	협약/NNG+을/JKO
+맺고	맺/VV+고/EC
+온라인에서	온라인/NNG+에서/JKB
+영화를	영화/NNG+를/JKO
+합법적으로	합법/NNG+적/XSN+으로/JKB
+내려받을	내려받/VV+을/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+서비스를	서비스/NNG+를/JKO
+자사	자사/NNG
+포털사이트인	포털/NNG+사이트/NNG+이/VCP+ㄴ/ETM
+'네이버'에서	'/SS+네이버/NNP+'/SS+에서/JKB
+시작한다고	시작/NNG+하/XSV+ㄴ다고/EC
+25일	25/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.70.4.1
+엠바로는 CJ엔터테인먼트와 NHN비즈니스플랫폼이 공동 출자해 올 초 설립한 온라인 영화 내려받기 전문 업체이다.
+
+엠바로는	엠바로/NNP+는/JX
+CJ엔터테인먼트와	CJ엔터테인먼트/NNP+와/JC
+NHN비즈니스플랫폼이	NHN비즈니스플랫폼/NNP+이/JKS
+공동	공동/NNG
+출자해	출자/NNG+하/XSV+아/EC
+올	올/NNG
+초	초/NNB
+설립한	설립/NNG+하/XSV+ㄴ/ETM
+온라인	온라인/NNG
+영화	영화/NNG
+내려받기	내려받기/NNG
+전문	전문/NNG
+업체이다.	업체/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.70.4.2
+이번 서비스는 국내 시장 점유율 1위 투자배급사인 CJ엔터테인먼트와 2위 업체인 쇼박스의 영화가 온라인에서 처음 서비스된다는 점에서 주목된다.
+
+이번	이번/NNG
+서비스는	서비스/NNG+는/JX
+국내	국내/NNG
+시장	시장/NNG
+점유율	점유/NNG+율/XSN
+1위	1/SN+위/NNB
+투자배급사인	투자/NNG+배급사/NNG+이/VCP+ㄴ/ETM
+CJ엔터테인먼트와	CJ엔터테인먼트/NNP+와/JC
+2위	2/SN+위/NNB
+업체인	업체/NNG+이/VCP+ㄴ/ETM
+쇼박스의	쇼박스/NNP+의/JKG
+영화가	영화/NNG+가/JKS
+온라인에서	온라인/NNG+에서/JKB
+처음	처음/NNG
+서비스된다는	서비스/NNG+되/XSV+ㄴ다는/ETM
+점에서	점/NNG+에서/JKB
+주목된다.	주목/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.70.5.1
+NHN 관계자는 "영화관 외에 마땅한 부가수익을 올리지 못했던 영화계가 적극 나섰고, 소비자들을 끌어들일 수 있는 영상 콘텐츠의 유통 시장을 선점하려는 포털의 이해관계와 서로 일치했다"고 말했다.
+
+NHN	NHN/SL
+관계자는	관계자/NNG+는/JX
+"영화관	"/SS+영화관/NNG
+외에	외/NNB+에/JKB
+마땅한	마땅하/VA+ㄴ/ETM
+부가수익을	부가/NNG+수익/NNG+을/JKO
+올리지	올리/VV+지/EC
+못했던	못하/VX+았/EP+던/ETM
+영화계가	영화/NNG+계/XSN+가/JKS
+적극	적극/NNG
+나섰고,	나서/VV+었/EP+고/EC+,/SP
+소비자들을	소비자/NNG+들/XSN+을/JKO
+끌어들일	끌어들이/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+영상	영상/NNG
+콘텐츠의	콘텐츠/NNG+의/JKG
+유통	유통/NNG
+시장을	시장/NNG+을/JKO
+선점하려는	선점/NNG+하/XSV+려는/ETM
+포털의	포털/NNG+의/JKG
+이해관계와	이해관계/NNG+와/JKB
+서로	서로/MAG
+일치했다"고	일치/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.70.6.1
+엠바로는 SK텔레콤·다음·곰TV·벅스 등과도 영화 공급을 협의 중이다.
+
+엠바로는	엠바로/NNP+는/JX
+SK텔레콤·다음·곰TV·벅스	SK텔레콤/NNP+·/SP+다음/NNP+·/SP+곰TV/NNP+·/SP+벅스/NNP
+등과도	등/NNB+과/JKB+도/JX
+영화	영화/NNG
+공급을	공급/NNG+을/JKO
+협의	협의/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+

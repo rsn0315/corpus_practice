@@ -1,0 +1,282 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.316
+metadata : {}
+
+
+# id : NWRW1800000033.316.1.1
+한중 고위당국자, 불법조업 中어선 관련 ‘용어’ 언쟁
+
+한중	한중/NNP
+고위당국자,	고위/NNG+당국자/NNG+,/SP
+불법조업	불법/NNG+조업/NNG
+中어선	中/SH+어선/NNG
+관련	관련/NNG
+‘용어’	‘/SS+용어/NNG+’/SS
+언쟁	언쟁/NNG
+
+
+# id : NWRW1800000033.316.2.1
+中 “비문명적 단속 하지말라”… 韓 “한국민 모욕 느낄 표현”…
+
+中	中/SH
+“비문명적	“/SS+비/XPN+문명/NNG+적/XSN
+단속	단속/NNG
+하지말라”…	하/VV+지/EC+말/VX+라/EF+”/SS+…/SE
+韓	韓/SH
+“한국민	“/SS+한국민/NNG
+모욕	모욕/NNG
+느낄	느끼/VV+ㄹ/ETM
+표현”…	표현/NNG+”/SS+…/SE
+
+
+# id : NWRW1800000033.316.3.1
+中 “폭력적보다 순화한 용어”… 中 “표현 다시 논의하겠다”
+
+中	中/SH
+“폭력적보다	“/SS+폭력/NNG+적/XSN+보다/JKB
+순화한	순화/NNG+하/XSV+ㄴ/ETM
+용어”…	용어/NNG+”/SS+…/SE
+“표현	“/SS+표현/NNG
+다시	다시/MAG
+논의하겠다”	논의/NNG+하/XSV+겠/EP+다/EF+”/SS
+
+
+# id : NWRW1800000033.316.4.1
+중국 당국이 한국의 정당한 법 집행인 중국 어선 불법 조업 단속에 ‘비문명적(uncivilized)’이라는 표현을 사용하며 “단속과 대응을 자제해 달라”고 요구한 것으로 7일 드러났다.
+
+중국	중국/NNP
+당국이	당국/NNG+이/JKS
+한국의	한국/NNP+의/JKG
+정당한	정당하/VA+ㄴ/ETM
+법	법/NNG
+집행인	집행/NNG+이/VCP+ㄴ/ETM
+어선	어선/NNG
+불법	불법/NNG
+조업	조업/NNG
+단속에	단속/NNG+에/JKB
+‘비문명적(uncivilized)’이라는	‘/SS+비/XPN+문명/NNG+적/XSN+(/SS+uncivilized/SL+)/SS+’/SS+이/VCP+라는/ETM
+표현을	표현/NNG+을/JKO
+사용하며	사용/NNG+하/XSV+며/EC
+“단속과	“/SS+단속/NNG+과/JC
+대응을	대응/NNG+을/JKO
+자제해	자제/NNG+하/XSV+아/EC
+달라”고	달/VX+라/EF+”/SS+고/JKQ
+요구한	요구/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+7일	7/SN+일/NNB
+드러났다.	드러나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.5.1
+최근 중국 외교부 고위 인사를 만나 불법 조업 문제를 협의한 정부 고위 당국자는 이날 이런 사실을 전하면서 “비문명적이라는 표현에 유감을 표시하고 사용하지 말아 줄 것을 요구했다”고 말했다.
+
+최근	최근/MAG
+중국	중국/NNP
+외교부	외교부/NNG
+고위	고위/NNG
+인사를	인사/NNG+를/JKO
+만나	만나/VV+아/EC
+불법	불법/NNG
+조업	조업/NNG
+문제를	문제/NNG+를/JKO
+협의한	협의/NNG+하/XSV+ㄴ/ETM
+정부	정부/NNG
+당국자는	당국자/NNG+는/JX
+이날	이날/NNG
+이런	이런/MMD
+사실을	사실/NNG+을/JKO
+전하면서	전하/VV+면서/EC
+“비문명적이라는	“/SS+비/XPN+문명/NNG+적/XSN+이/VCP+라는/ETM
+표현에	표현/NNG+에/JKB
+유감을	유감/NNG+을/JKO
+표시하고	표시/NNG+하/XSV+고/EC
+사용하지	사용/NNG+하/XSV+지/EC
+말아	말/VX+아/EC
+줄	주/VX+ㄹ/ETM
+것을	것/NNB+을/JKO
+요구했다”고	요구/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.6.1
+이에 중국 측 인사는 “중국에서 ‘비문명적’이라는 말은 ‘폭력적’ 같은 용어보다 순화된 것이어서 공식 석상에서 쓴 것”이라고 해명했다.
+
+이에	이/NP+에/JKB
+중국	중국/NNP
+측	측/NNB
+인사는	인사/NNG+는/JX
+“중국에서	“/SS+중국/NNP+에서/JKB
+‘비문명적’이라는	‘/SS+비/XPN+문명/NNG+적/XSN+’/SS+이/VCP+라는/ETM
+말은	말/NNG+은/JX
+‘폭력적’	‘/SS+폭력/NNG+적/XSN+’/SS
+같은	같/VA+은/ETM
+용어보다	용어/NNG+보다/JKB
+순화된	순화/NNG+되/XSV+ㄴ/ETM
+것이어서	것/NNB+이/VCP+어서/EC
+공식	공식/NNG
+석상에서	석상/NNG+에서/JKB
+쓴	쓰/VV+ㄴ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+해명했다.	해명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.6.2
+또 중국 당국이 자국 어선들의 불법 조업을 막기 위해 여러가지 방법으로 계도와 단속 활동을 벌이고 있다는 점도 강조했다고 한다.
+
+또	또/MAG
+중국	중국/NNP
+당국이	당국/NNG+이/JKS
+자국	자국/NNG
+어선들의	어선/NNG+들/XSN+의/JKG
+불법	불법/NNG
+조업을	조업/NNG+을/JKO
+막기	막/VV+기/ETN
+위해	위하/VV+아/EC
+여러가지	여러/MMN+가지/NNB
+방법으로	방법/NNG+으로/JKB
+계도와	계도/NNG+와/JC
+단속	단속/NNG
+활동을	활동/NNG+을/JKO
+벌이고	벌이/VV+고/EC
+있다는	있/VX+다는/ETM
+점도	점/NNG+도/JX
+강조했다고	강조/NNG+하/XSV+았/EP+다고/EC
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.316.7.1
+그러나 정부 고위 당국자는 “양국 간 문화와 뉘앙스의 차이가 있겠지만 한국 국민에게는 모욕적인 느낌을 줄 수 있는 단어이니 쓰지 말았으면 좋겠다”고 거듭 강조했고, 이에 중국 측 인사는 “관련 부처와 그 문제를 협의해 보겠다”고 답했다.
+
+그러나	그러나/MAJ
+정부	정부/NNG
+고위	고위/NNG
+당국자는	당국자/NNG+는/JX
+“양국	“/SS+양국/NNG
+간	간/NNB
+문화와	문화/NNG+와/JC
+뉘앙스의	뉘앙스/NNG+의/JKG
+차이가	차이/NNG+가/JKS
+있겠지만	있/VA+겠/EP+지만/EC
+한국	한국/NNP
+국민에게는	국민/NNG+에게/JKB+는/JX
+모욕적인	모욕/NNG+적/XSN+이/VCP+ㄴ/ETM
+느낌을	느낌/NNG+을/JKO
+줄	주/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+단어이니	단어/NNG+이/VCP+니/EC
+쓰지	쓰/VV+지/EC
+말았으면	말/VX+았/EP+으면/EC
+좋겠다”고	좋/VA+겠/EP+다/EF+”/SS+고/JKQ
+거듭	거듭/MAG
+강조했고,	강조/NNG+하/XSV+았/EP+고/EC+,/SP
+이에	이/NP+에/JKB
+중국	중국/NNP
+측	측/NNB
+인사는	인사/NNG+는/JX
+“관련	“/SS+관련/NNG
+부처와	부처/NNG+와/JKB
+그	그/MMD
+문제를	문제/NNG+를/JKO
+협의해	협의/NNG+하/XSV+아/EC
+보겠다”고	보/VX+겠/EP+다/EF+”/SS+고/JKQ
+답했다.	답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.8.1
+정부는 지난해 중국 어선의 불법 조업을 단속하던 이청호 경장이 중국 선원의 흉기에 찔려 순직한 이후 단속 현장에서 총기를 적극적으로 사용할 수 있도록 하는 등 대응 수위를 높였다.
+
+정부는	정부/NNG+는/JX
+지난해	지난해/NNG
+중국	중국/NNP
+어선의	어선/NNG+의/JKG
+불법	불법/NNG
+조업을	조업/NNG+을/JKO
+단속하던	단속/NNG+하/XSV+던/ETM
+이청호	이청호/NNP
+경장이	경장/NNG+이/JKS
+선원의	선원/NNG+의/JKG
+흉기에	흉기/NNG+에/JKB
+찔려	찔리/VV+어/EC
+순직한	순직/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+단속	단속/NNG
+현장에서	현장/NNG+에서/JKB
+총기를	총기/NNG+를/JKO
+적극적으로	적극/NNG+적/XSN+으로/JKB
+사용할	사용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하는	하/VV+는/ETM
+등	등/NNB
+대응	대응/NNG
+수위를	수위/NNG+를/JKO
+높였다.	높이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.8.2
+이후 중국은 한국에 총기 사용 중지를 요구하면서 언론을 통해 한국의 불법 조업 단속이 ‘폭력적’이라고 지적하기도 했다.
+
+이후	이후/NNG
+중국은	중국/NNP+은/JX
+한국에	한국/NNP+에/JKB
+총기	총기/NNG
+사용	사용/NNG
+중지를	중지/NNG+를/JKO
+요구하면서	요구/NNG+하/XSV+면서/EC
+언론을	언론/NNG+을/JKO
+통해	통하/VV+아/EC
+한국의	한국/NNP+의/JKG
+불법	불법/NNG
+조업	조업/NNG
+단속이	단속/NNG+이/JKS
+‘폭력적’이라고	‘/SS+폭력/NNG+적/XSN+’/SS+이라고/JKQ
+지적하기도	지적/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.9.1
+이 고위 당국자는 “중국이 ‘비문명적’이라는 표현을 쓰면서 총기 문제를 언급하지는 않았다”며 “곤봉을 사용한 진압 등 모든 무력을 의미하는 것 같았다”고 설명했다.
+
+이	이/MMD
+고위	고위/NNG
+당국자는	당국자/NNG+는/JX
+“중국이	“/SS+중국/NNP+이/JKS
+‘비문명적’이라는	‘/SS+비/XPN+문명/NNG+적/XSN+’/SS+이/VCP+라는/ETM
+표현을	표현/NNG+을/JKO
+쓰면서	쓰/VV+면서/EC
+총기	총기/NNG
+문제를	문제/NNG+를/JKO
+언급하지는	언급/NNG+하/XSV+지/EC+는/JX
+않았다”며	않/VX+았/EP+다/EF+”/SS+며/EC
+“곤봉을	“/SS+곤봉/NNG+을/JKO
+사용한	사용/NNG+하/XSV+ㄴ/ETM
+진압	진압/NNG
+등	등/NNB
+모든	모든/MMN
+무력을	무력/NNG+을/JKO
+의미하는	의미/NNG+하/XSV+는/ETM
+것	것/NNB
+같았다”고	같/VA+았/EP+다/EF+”/SS+고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.316.9.2
+그는 “‘문명적’이라는 표현은 중국에서 선진적, 과학적, 비폭력적이라는 뜻으로 쓰인다”고 덧붙였다.
+
+그는	그/NP+는/JX
+“‘문명적’이라는	“/SS+‘/SS+문명/NNG+적/XSN+’/SS+이/VCP+라는/ETM
+표현은	표현/NNG+은/JX
+중국에서	중국/NNP+에서/JKB
+선진적,	선진/NNG+적/XSN+,/SP
+과학적,	과학/NNG+적/XSN+,/SP
+비폭력적이라는	비/XPN+폭력/NNG+적/XSN+이/VCP+라는/ETM
+뜻으로	뜻/NNG+으로/JKB
+쓰인다”고	쓰이/VV+ㄴ다/EF+”/SS+고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+

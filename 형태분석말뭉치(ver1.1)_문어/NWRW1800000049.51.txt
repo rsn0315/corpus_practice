@@ -1,0 +1,310 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.51
+metadata : {}
+
+
+# id : NWRW1800000049.51.1.1
+IS 숨통 죄는 연합군 ‘리틀런던’ 진격 작전
+
+IS	IS/SL
+숨통	숨통/NNG
+죄는	죄/VV+는/ETM
+연합군	연합군/NNG
+‘리틀런던’	‘/SS+리틀/NNG+런던/NNP+’/SS
+진격	진격/NNG
+작전	작전/NNG
+
+
+# id : NWRW1800000049.51.2.1
+英출신 IS 대원 많은 만비즈, 락까∼터키 길목 위치한 요충지 며칠내 탈환 가능성 높아
+
+英출신	英/SH+출신/NNG
+IS	IS/SL
+대원	대원/NNG
+많은	많/VA+은/ETM
+만비즈,	만비즈/NNP+,/SP
+락까∼터키	락까/NNP+∼/SO+터키/NNP
+길목	길목/NNG
+위치한	위치/NNG+하/XSV+ㄴ/ETM
+요충지	요충지/NNG
+며칠내	며칠/NNG+내/NNB
+탈환	탈환/NNG
+가능성	가능/NNG+성/XSN
+높아	높/VA+아/EF
+
+
+# id : NWRW1800000049.51.3.1
+미국 지원을 받는 시리아 쿠르드군 및 시리아민주군(SDF)이 수니파 테러단체 ‘이슬람국가(IS)’가 점령 중인 시리아 알레포 주 만비즈 지역에 대한 탈환 작전을 개시했다.
+
+미국	미국/NNP
+지원을	지원/NNG+을/JKO
+받는	받/VV+는/ETM
+시리아	시리아/NNP
+쿠르드군	쿠르드/NNP+군/NNG
+및	및/MAG
+시리아민주군(SDF)이	시리아민주군/NNP+(/SS+SDF/SL+)/SS+이/JKS
+수니파	수니파/NNG
+테러단체	테러/NNG+단체/NNG
+‘이슬람국가(IS)’가	‘/SS+이슬람국가/NNP+(/SS+IS/SL+)/SS+’/SS+가/JKS
+점령	점령/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+알레포	알레포/NNP
+주	주/NNG
+만비즈	만비즈/NNP
+지역에	지역/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+탈환	탈환/NNG
+작전을	작전/NNG+을/JKO
+개시했다.	개시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.3.2
+터키 국경에 위치해 IS가 유럽으로 가는 ‘마지막 깔때기’로 불리는 만비즈는 양쪽 모두에 중요한 요충지이다.
+
+터키	터키/NNP
+국경에	국경/NNG+에/JKB
+위치해	위치/NNG+하/XSV+아/EC
+IS가	IS/SL+가/JKS
+유럽으로	유럽/NNP+으로/JKB
+가는	가/VV+는/ETM
+‘마지막	‘/SS+마지막/NNG
+깔때기’로	깔때기/NNG+’/SS+로/JKB
+불리는	불리/VV+는/ETM
+만비즈는	만비즈/NNP+는/JX
+양쪽	양쪽/NNG
+모두에	모두/NNG+에/JKB
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+요충지이다.	요충지/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.4.1
+뉴욕타임스는 2일 SDF 수천 명과 미군 특수부대원 200명이 지난달 31일부터 탈환 작전을 시작했다고 전했다.
+
+뉴욕타임스는	뉴욕타임스/NNP+는/JX
+2일	2/SN+일/NNB
+SDF	SDF/SL
+수천	수천/NR
+명과	명/NNB+과/JC
+미군	미군/NNG
+특수부대원	특수/NNG+부대원/NNG
+200명이	200/SN+명/NNB+이/JKS
+지난달	지난달/NNG
+31일부터	31/SN+일/NNB+부터/JX
+탈환	탈환/NNG
+작전을	작전/NNG+을/JKO
+시작했다고	시작/NNG+하/XSV+았/EP+다고/EC
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.4.2
+작전 당일 미군은 18회에 걸쳐 IS 기지 6곳, 사령부 2곳, 훈련시설 1곳을 맹폭했다.
+
+작전	작전/NNG
+당일	당일/NNG
+미군은	미군/NNG+은/JX
+18회에	18/SN+회/NNB+에/JKB
+걸쳐	걸치/VV+어/EC
+IS	IS/SL
+기지	기지/NNG
+6곳,	6/SN+곳/NNG+,/SP
+사령부	사령부/NNG
+2곳,	2/SN+곳/NNG+,/SP
+훈련시설	훈련/NNG+시설/NNG
+1곳을	1/SN+곳/NNG+을/JKO
+맹폭했다.	맹폭/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.4.3
+반경 30km로 만비즈를 포위한 SDF 부대는 작전 당일에만 12개의 주변 촌락을 해방시켰고 20km를 진격했다.
+
+반경	반경/NNG
+30km로	30/SN+km/SW+로/JKB
+만비즈를	만비즈/NNP+를/JKO
+포위한	포위/NNG+하/XSV+ㄴ/ETM
+SDF	SDF/SL
+부대는	부대/NNG+는/JX
+작전	작전/NNG
+당일에만	당일/NNG+에/JKB+만/JX
+12개의	12/SN+개/NNB+의/JKG
+주변	주변/NNG
+촌락을	촌락/NNG+을/JKO
+해방시켰고	해방/NNG+시키/XSV+었/EP+고/EC
+20km를	20/SN+km/SW+를/JKO
+진격했다.	진격/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.4.4
+공격 병력이 압도적이라 며칠 내로 IS가 방어 중인 시내가 함락될 가능성이 높다.
+
+공격	공격/NNG
+병력이	병력/NNG+이/JKS
+압도적이라	압도/NNG+적/XSN+이/VCP+라/EC
+며칠	며칠/NNG
+내로	내/NNB+로/JKB
+IS가	IS/SL+가/JKS
+방어	방어/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+시내가	시내/NNG+가/JKS
+함락될	함락/NNG+되/XSV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+높다.	높/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.51.4.5
+IS로서는 이라크 팔루자 등 핵심 도시를 동시에 공격받고 있어 추가 지원할 여력도 없다.
+
+IS로서는	IS/SL+로서/JKB+는/JX
+이라크	이라크/NNP
+팔루자	팔루자/NNP
+등	등/NNB
+핵심	핵심/NNG
+도시를	도시/NNG+를/JKO
+동시에	동시/NNG+에/JKB
+공격받고	공격/NNG+받/XSV+고/EC
+있어	있/VX+어/EC
+추가	추가/NNG
+지원할	지원/NNG+하/XSV+ㄹ/ETM
+여력도	여력/NNG+도/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.51.5.1
+IS의 수도 락까와 터키를 연결하는 길목에 위치한 만비즈는 영국 출신 IS 대원만 100명이 넘어 ‘리틀 런던’으로 불린다.
+
+IS의	IS/SL+의/JKG
+수도	수도/NNG
+락까와	락까/NNP+와/JC
+터키를	터키/NNP+를/JKO
+연결하는	연결/NNG+하/XSV+는/ETM
+길목에	길목/NNG+에/JKB
+위치한	위치/NNG+하/XSV+ㄴ/ETM
+만비즈는	만비즈/NNP+는/JX
+영국	영국/NNP
+출신	출신/NNG
+IS	IS/SL
+대원만	대원/NNG+만/JX
+100명이	100/SN+명/NNB+이/JKS
+넘어	넘/VV+어/EC
+‘리틀	‘/SS+리틀/NNG
+런던’으로	런던/NNP+’/SS+으로/JKB
+불린다.	불리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.51.5.2
+영국뿐 아니라 프랑스 사우디 알제리 등 30개국에서 몰려 온 외국인 용병들이 이곳에서 훈련받는다.
+
+영국뿐	영국/NNP+뿐/JX
+아니라	아니/VCN+라/EC
+프랑스	프랑스/NNP
+사우디	사우디/NNP
+알제리	알제리/NNP
+등	등/NNB
+30개국에서	30/SN+개국/NNB+에서/JKB
+몰려	몰리/VV+어/EC
+온	오/VX+ㄴ/ETM
+외국인	외국인/NNG
+용병들이	용병/NNG+들/XSN+이/JKS
+이곳에서	이곳/NP+에서/JKB
+훈련받는다.	훈련/NNG+받/XSV+는다/EF+./SF
+
+
+# id : NWRW1800000049.51.5.3
+일부는 훈련이 끝나면 테러를 실행하러 유럽으로 돌아간다.
+
+일부는	일부/NNG+는/JX
+훈련이	훈련/NNG+이/JKS
+끝나면	끝나/VV+면/EC
+테러를	테러/NNG+를/JKO
+실행하러	실행/NNG+하/XSV+러/EC
+유럽으로	유럽/NNP+으로/JKB
+돌아간다.	돌아가/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.51.5.4
+지난해 프랑스 파리 테러를 기획했던 벨기에 출신 압델하미드 아바우드나 ‘지하디 존’으로 유명했지만 폭격에 사망한 무함마드 엠와지도 이곳에 머물렀다.
+
+지난해	지난해/NNG
+프랑스	프랑스/NNP
+파리	파리/NNP
+테러를	테러/NNG+를/JKO
+기획했던	기획/NNG+하/XSV+았/EP+던/ETM
+벨기에	벨기에/NNP
+출신	출신/NNG
+압델하미드	압델하미드/NNP
+아바우드나	아바우드/NNP+나/JC
+‘지하디	‘/SS+지하디/NNP
+존’으로	존/NNP+’/SS+으로/JKB
+유명했지만	유명/NNG+하/XSA+았/EP+지만/EC
+폭격에	폭격/NNG+에/JKB
+사망한	사망/NNG+하/XSV+ㄴ/ETM
+무함마드	무함마드/NNP
+엠와지도	엠와지/NNP+도/JX
+이곳에	이곳/NP+에/JKB
+머물렀다.	머무르/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.6.1
+지금도 도시를 방어하는 IS 대원들 중 수백 명이 유럽 출신이다.
+
+지금도	지금/NNG+도/JX
+도시를	도시/NNG+를/JKO
+방어하는	방어/NNG+하/XSV+는/ETM
+IS	IS/SL
+대원들	대원/NNG+들/XSN
+중	중/NNB
+수백	수백/NR
+명이	명/NNB+이/JKS
+유럽	유럽/NNP
+출신이다.	출신/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.6.2
+외국 출신 대원들은 물자가 풍부하고 깨끗한 물과 전기를 쓸 수 있는 이 도시를 선호해 왔다.
+
+외국	외국/NNG
+출신	출신/NNG
+대원들은	대원/NNG+들/XSN+은/JX
+물자가	물자/NNG+가/JKS
+풍부하고	풍부하/VA+고/EC
+깨끗한	깨끗하/VA+ㄴ/ETM
+물과	물/NNG+과/JC
+전기를	전기/NNG+를/JKO
+쓸	쓰/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+이	이/MMD
+도시를	도시/NNG+를/JKO
+선호해	선호/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.51.6.3
+미군은 이 도시를 함락함으로써 IS와 유럽의 연결 통로를 차단함과 동시에 앞으로 유럽에서 테러를 자행할 가능성이 있는 대원들을 소탕해 뿌리 뽑을 계획이다.
+
+미군은	미군/NNG+은/JX
+이	이/MMD
+도시를	도시/NNG+를/JKO
+함락함으로써	함락/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+IS와	IS/SL+와/JKB
+유럽의	유럽/NNP+의/JKG
+연결	연결/NNG
+통로를	통로/NNG+를/JKO
+차단함과	차단/NNG+하/XSV+ㅁ/ETN+과/JKB
+동시에	동시/NNG+에/JKB
+앞으로	앞/NNG+으로/JKB
+유럽에서	유럽/NNP+에서/JKB
+테러를	테러/NNG+를/JKO
+자행할	자행/NNG+하/XSV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+있는	있/VA+는/ETM
+대원들을	대원/NNG+들/XSN+을/JKO
+소탕해	소탕/NNG+하/XSV+아/EC
+뿌리	뿌리/NNG
+뽑을	뽑/VV+을/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+

@@ -1,0 +1,237 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.355
+metadata : {}
+
+
+# id : NWRW1800000022.355.1.1
+카셰어링(car-sharing)! 자동차 공동소유해 돌아가며 쓴다;군포서 내일부터 본격 운영
+
+카셰어링(car-sharing)!	카셰어링/NNG+(/SS+car/SL+-/SO+sharing/SL+)/SS+!/SF
+자동차	자동차/NNG
+공동소유해	공동/NNG+소유/NNG+하/XSV+아/EC
+돌아가며	돌아가/VV+며/EC
+쓴다;군포서	쓰/VV+ㄴ다/EF+;/SW+군포/NNP+서/JKB
+내일부터	내일/NNG+부터/JX
+본격	본격/NNG
+운영	운영/NNG
+
+
+# id : NWRW1800000022.355.2.1
+경기도 군포시에 사는 협성대 도시지역학부 정인환(48) 교수는 곧 10년 넘게 탄 차량을 처분하고 카셰어링(car-sharing) 제도를 이용하기로 했다.
+
+경기도	경기도/NNP
+군포시에	군포시/NNP+에/JKB
+사는	살/VV+는/ETM
+협성대	협성대/NNP
+도시지역학부	도시/NNG+지역/NNG+학부/NNG
+정인환(48)	정인환/NNP+(/SS+48/SN+)/SS
+교수는	교수/NNG+는/JX
+곧	곧/MAG
+10년	10/SN+년/NNB
+넘게	넘/VV+게/EC
+탄	타/VV+ㄴ/ETM
+차량을	차량/NNG+을/JKO
+처분하고	처분/NNG+하/XSV+고/EC
+카셰어링(car-sharing)	카셰어링/NNG+(/SS+car/SL+-/SO+sharing/SL+)/SS
+제도를	제도/NNG+를/JKO
+이용하기로	이용/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.355.3.1
+카셰어링은 여러 사람이 자동차를 공동 소유하고, 필요할 때마다 일정 요금을 내고 이용하는 방법으로 일종의 '자동차 두레'다.
+
+카셰어링은	카셰어링/NNG+은/JX
+여러	여러/MMN
+사람이	사람/NNG+이/JKS
+자동차를	자동차/NNG+를/JKO
+공동	공동/NNG
+소유하고,	소유/NNG+하/XSV+고/EC+,/SP
+필요할	필요/NNG+하/XSA+ㄹ/ETM
+때마다	때/NNG+마다/JX
+일정	일정/NNG
+요금을	요금/NNG+을/JKO
+내고	내/VV+고/EC
+이용하는	이용/NNG+하/XSV+는/ETM
+방법으로	방법/NNG+으로/JKB
+일종의	일종/NNG+의/JKG
+'자동차	'/SS+자동차/NNG
+두레'다.	두레/NNG+'/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.355.3.2
+자동차를 한 사람이 아니라 공동 소유해 돌아가며 쓴다는 점에서, 목적지가 같은 방향인 사람들끼리 승용차에 동승하는 '카풀(car pool)'과는 다르다.
+
+자동차를	자동차/NNG+를/JKO
+한	한/MMN
+사람이	사람/NNG+이/JKC
+아니라	아니/VCN+라/EC
+공동	공동/NNG
+소유해	소유/NNG+하/XSV+아/EC
+돌아가며	돌아가/VV+며/EC
+쓴다는	쓰/VV+ㄴ다는/ETM
+점에서,	점/NNG+에서/JKB+,/SP
+목적지가	목적지/NNG+가/JKS
+같은	같/VA+은/ETM
+방향인	방향/NNG+이/VCP+ㄴ/ETM
+사람들끼리	사람/NNG+들/XSN+끼리/XSN
+승용차에	승용차/NNG+에/JKB
+동승하는	동승/NNG+하/XSV+는/ETM
+'카풀(car	'/SS+카풀/NNG+(/SS+car/SL
+pool)'과는	pool/SL+)/SS+'/SS+과/JKB+는/JX
+다르다.	다르/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.355.4.1
+아직 국내에서 생소한 이 카셰어링 제도가 15일부터 경기도 군포시에서 본격 시행된다.
+
+아직	아직/MAG
+국내에서	국내/NNG+에서/JKB
+생소한	생소하/VA+ㄴ/ETM
+이	이/MMD
+카셰어링	카셰어링/NNG
+제도가	제도/NNG+가/JKS
+15일부터	15/SN+일/NNB+부터/JX
+경기도	경기도/NNP
+군포시에서	군포시/NNP+에서/JKB
+본격	본격/NNG
+시행된다.	시행/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.355.4.2
+경기 군포YMCA 등 시민단체가 주축이 된 '녹색희망 카셰어링' 추진위원회는 아반떼 하이브리드 2대와 스타렉스 1대로 카셰어링 서비스를 시작한다고 13일 밝혔다.
+
+경기	경기/NNP
+군포YMCA	군포YMCA/NNP
+등	등/NNB
+시민단체가	시민/NNG+단체/NNG+가/JKS
+주축이	주축/NNG+이/JKC
+된	되/VV+ㄴ/ETM
+'녹색희망	'/SS+녹색/NNG+희망/NNG
+카셰어링'	카셰어링/NNG+'/SS
+추진위원회는	추진/NNG+위원회/NNG+는/JX
+아반떼	아반떼/NNP
+하이브리드	하이브리드/NNG
+2대와	2/SN+대/NNB+와/JC
+스타렉스	스타렉스/NNP
+1대로	1/SN+대/NNB+로/JKB
+카셰어링	카셰어링/NNG
+서비스를	서비스/NNG+를/JKO
+시작한다고	시작/NNG+하/XSV+ㄴ다고/EC
+13일	13/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.355.5.1
+카셰어링은 친환경적이자 가계 소비를 줄일 수 있는 자동차 문화로, 유럽의 독일·스위스에서는 이미 수만명이 참여하는 새로운 공공교통 방법으로 확산됐다.
+
+카셰어링은	카셰어링/NNG+은/JX
+친환경적이자	친/XPN+환경/NNG+적/XSN+이/VCP+자/EC
+가계	가계/NNG
+소비를	소비/NNG+를/JKO
+줄일	줄이/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+자동차	자동차/NNG
+문화로,	문화/NNG+로/JKB+,/SP
+유럽의	유럽/NNP+의/JKG
+독일·스위스에서는	독일/NNP+·/SP+스위스/NNP+에서/JKB+는/JX
+이미	이미/MAG
+수만명이	수만/NR+명/NNB+이/JKS
+참여하는	참여/NNG+하/XSV+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+공공교통	공공/NNG+교통/NNG
+방법으로	방법/NNG+으로/JKB
+확산됐다.	확산/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.355.5.2
+참여를 희망하는 사람은 '녹색희망 카셰어링' 홈페이지(http://greencarsharing.com ) 등을 통해 회원가입을 한 다음 등록비와 연회비 각각 5만원씩을 낸 뒤 사용 예약을 하면 된다.
+
+참여를	참여/NNG+를/JKO
+희망하는	희망/NNG+하/XSV+는/ETM
+사람은	사람/NNG+은/JX
+'녹색희망	'/SS+녹색/NNG+희망/NNG
+카셰어링'	카셰어링/NNG+'/SS
+홈페이지(http://greencarsharing.com	홈페이지/NNG+(/SS+http/SL+:/SP+//SP+//SP+greencarsharing/SL+./SP+com/SL
+)	)/SS
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+회원가입을	회원/NNG+가입/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+다음	다음/NNG
+등록비와	등록비/NNG+와/JC
+연회비	연회비/NNG
+각각	각각/MAG
+5만원씩을	5/SN+만/NR+원/NNB+씩/XSN+을/JKO
+낸	내/VV+ㄴ/ETM
+뒤	뒤/NNG
+사용	사용/NNG
+예약을	예약/NNG+을/JKO
+하면	하/VV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.355.5.3
+시간당 요금은 아반떼 4000원, 스타렉스는 5000원이다.
+
+시간당	시간/NNG+당/XSN
+요금은	요금/NNG+은/JX
+아반떼	아반떼/NNP
+4000원,	4000/SN+원/NNB+,/SP
+스타렉스는	스타렉스/NNP+는/JX
+5000원이다.	5000/SN+원/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.355.5.4
+지정된 주차 장소에서 열쇠를 찾아 차를 이용하는 방식이다.
+
+지정된	지정/NNG+되/XSV+ㄴ/ETM
+주차	주차/NNG
+장소에서	장소/NNG+에서/JKB
+열쇠를	열쇠/NNG+를/JKO
+찾아	찾/VV+아/EC
+차를	차/NNG+를/JKO
+이용하는	이용/NNG+하/XSV+는/ETM
+방식이다.	방식/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.355.6.1
+박은호 군포YMCA 사무총장은 "카셰어링 1대당 자가용 4~8대 대체효과가 있어 온실가스 배출량을 줄일 수 있고, 한 달에 30만원까지 지출을 줄일 수 있다"며 "군포 지역에서 시작해 수도권 10개 지역으로 사업을 확대 추진할 것"이라고 말했다.
+
+박은호	박은호/NNP
+군포YMCA	군포YMCA/NNP
+사무총장은	사무총장/NNG+은/JX
+"카셰어링	"/SS+카셰어링/NNG
+1대당	1/SN+대/NNB+당/XSN
+자가용	자가/NNG+용/XSN
+4~8대	4/SN+~/SO+8/SN+대/NNB
+대체효과가	대체/NNG+효과/NNG+가/JKS
+있어	있/VA+어/EC
+온실가스	온실가스/NNG
+배출량을	배출량/NNG+을/JKO
+줄일	줄이/VV+ㄹ/ETM
+수	수/NNB
+있고,	있/VA+고/EC+,/SP
+한	한/MMN
+달에	달/NNB+에/JKB
+30만원까지	30/SN+만/NR+원/NNB+까지/JX
+지출을	지출/NNG+을/JKO
+있다"며	있/VA+다/EF+"/SS+며/EC
+"군포	"/SS+군포/NNP
+지역에서	지역/NNG+에서/JKB
+시작해	시작/NNG+하/XSV+아/EC
+수도권	수도/NNG+권/XSN
+10개	10/SN+개/NNB
+지역으로	지역/NNG+으로/JKB
+사업을	사업/NNG+을/JKO
+확대	확대/NNG
+추진할	추진/NNG+하/XSV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

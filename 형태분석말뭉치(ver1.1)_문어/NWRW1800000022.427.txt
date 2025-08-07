@@ -1,0 +1,234 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.427
+metadata : {}
+
+
+# id : NWRW1800000022.427.1.1
+[제주·서울] 제주국제학교 운영에 6개 법인 신청
+
+[제주·서울]	[/SS+제주/NNP+·/SP+서울/NNP+]/SS
+제주국제학교	제주국제학교/NNP
+운영에	운영/NNG+에/JKB
+6개	6/SN+개/NNB
+법인	법인/NNG
+신청	신청/NNG
+
+
+# id : NWRW1800000022.427.2.1
+제주영어교육도시에 들어서는 국제학교 운영자 모집에 국내외 유명 법인 6곳이 지원한 것으로 나타났다.
+
+제주영어교육도시에	제주영어교육도시/NNP+에/JKB
+들어서는	들어서/VV+는/ETM
+국제학교	국제/NNG+학교/NNG
+운영자	운영자/NNG
+모집에	모집/NNG+에/JKB
+국내외	국내외/NNG
+유명	유명/NNG
+법인	법인/NNG
+6곳이	6/SN+곳/NNG+이/JKS
+지원한	지원/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.3.1
+제주도교육청은 7일 초·중학교 과정의 기숙형 통합학교로 2011년 개교 예정인 제주국제학교(가칭) 운영법인 공모 원서접수를 마감한 결과, 국내외 6개 법인이 신청했다고 밝혔다.
+
+제주도교육청은	제주도교육청/NNP+은/JX
+7일	7/SN+일/NNB
+초·중학교	초·중학교/NNG
+과정의	과정/NNG+의/JKG
+기숙형	기숙/NNG+형/XSN
+통합학교로	통합/NNG+학교/NNG+로/JKB
+2011년	2011/SN+년/NNB
+개교	개교/NNG
+예정인	예정/NNG+이/VCP+ㄴ/ETM
+제주국제학교(가칭)	제주국제학교/NNP+(/SS+가칭/NNG+)/SS
+운영법인	운영법/NNG+이/VCP+ㄴ/ETM
+공모	공모/NNG
+원서접수를	원서/NNG+접수/NNG+를/JKO
+마감한	마감/NNG+하/XSV+ㄴ/ETM
+결과,	결과/NNG+,/SP
+국내외	국내외/NNG
+6개	6/SN+개/NNB
+법인이	법인/NNG+이/JKS
+신청했다고	신청/NNG+하/XSV+았/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.4.1
+전국 130여개 어학원과 한국외국인학교를 운영 중인 ㈜YBM시사(대표 민선식)와 서울디지텍고를 설립한 국제교육문화재단(대표 오정현)이 접수를 마쳤다.
+
+전국	전국/NNG
+130여개	130/SN+여/XSN+개/NNB
+어학원과	어학원/NNG+과/JC
+한국외국인학교를	한국외국인학교/NNP+를/JKO
+운영	운영/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+㈜YBM시사(대표	㈜/SW+YBM시사/NNP+(/SS+대표/NNG
+민선식)와	민선식/NNP+)/SS+와/JC
+서울디지텍고를	서울디지텍고/NNP+를/JKO
+설립한	설립/NNG+하/XSV+ㄴ/ETM
+국제교육문화재단(대표	국제교육문화재단/NNP+(/SS+대표/NNG
+오정현)이	오정현/NNP+)/SS+이/JKS
+접수를	접수/NNG+를/JKO
+마쳤다.	마치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.4.2
+또 수원대를 운영하는 학교법인 고운학원(대표 최서원)과 서울외고를 설립한 학교법인 청숙학원(대표 이주헌)도 경쟁에 가세했다.
+
+또	또/MAG
+수원대를	수원대/NNP+를/JKO
+운영하는	운영/NNG+하/XSV+는/ETM
+학교법인	학교/NNG+법인/NNG
+고운학원(대표	고운학원/NNP+(/SS+대표/NNG
+최서원)과	최서원/NNP+)/SS+과/JC
+서울외고를	서울외고/NNP+를/JKO
+설립한	설립/NNG+하/XSV+ㄴ/ETM
+청숙학원(대표	청숙학원/NNP+(/SS+대표/NNG
+이주헌)도	이주헌/NNP+)/SS+도/JX
+경쟁에	경쟁/NNG+에/JKB
+가세했다.	가세/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.5.1
+외국에서는 중국에 20개 캠퍼스를 운영 중인 차이나 메이플 리프 앤드 스쿨 밴쿠버 교육재단(CHINA MAPLE LEAF AND SCHOOLS VANCOUVER LTD)과 서울에 유치원을 운영하는 영국법인 오비탈 에듀케이션 교육재단(ORBITAL EDUCTON LTD)이 도전장을 던졌다.
+
+외국에서는	외국/NNG+에서/JKB+는/JX
+중국에	중국/NNP+에/JKB
+20개	20/SN+개/NNB
+캠퍼스를	캠퍼스/NNG+를/JKO
+운영	운영/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+차이나	차이나/NNP
+메이플	메이플/NNG
+리프	리프/NNP
+앤드	앤드/NNP
+스쿨	스쿨/NNP
+밴쿠버	밴쿠버/NNP
+교육재단(CHINA	교육/NNG+재단/NNG+(/SS+CHINA/SL
+MAPLE	MAPLE/SL
+LEAF	LEAF/SL
+AND	AND/SL
+SCHOOLS	SCHOOLS/SL
+VANCOUVER	VANCOUVER/SL
+LTD)과	LTD/SL+)/SS+과/JC
+서울에	서울/NNP+에/JKB
+유치원을	유치원/NNG+을/JKO
+운영하는	운영/NNG+하/XSV+는/ETM
+영국법인	영국/NNP+법인/NNG
+오비탈	오비탈/NNP
+에듀케이션	에듀케이션/NNP
+교육재단(ORBITAL	교육/NNG+재단/NNG+(/SS+ORBITAL/SL
+EDUCTON	EDUCTON/SL
+LTD)이	LTD/SL+)/SS+이/JKS
+도전장을	도전장/NNG+을/JKO
+던졌다.	던지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.6.1
+제주도교육청은 국제교육 전문가 등 11명 이 참여하는 '국제학교설립·운영심의위원회'가 오는 17일부터 세부심사를 벌여 올해 안에 우선협상대상자를 선정할 예정이라고 밝혔다.
+
+제주도교육청은	제주도교육청/NNP+은/JX
+국제교육	국제/NNG+교육/NNG
+전문가	전문가/NNG
+등	등/NNB
+11명	11/SN+명/NNB
+이	이/JKS
+참여하는	참여/NNG+하/XSV+는/ETM
+'국제학교설립·운영심의위원회'가	'/SS+국제/NNG+학교/NNG+설립/NNG+·/SP+운영/NNG+심의/NNG+위원회/NNG+'/SS+가/JKS
+오는	오/VV+는/ETM
+17일부터	17/SN+일/NNB+부터/JX
+세부심사를	세부/NNG+심사/NNG+를/JKO
+벌여	벌이/VV+어/EC
+올해	올해/NNG
+안에	안/NNG+에/JKB
+우선협상대상자를	우선/NNG+협상/NNG+대상자/NNG+를/JKO
+선정할	선정/NNG+하/XSV+ㄹ/ETM
+예정이라고	예정/NNG+이/VCP+라고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.7.1
+심사기준은 학교운영 역량과 교육과정, 학사운영, 재정운영 등 1000점 만점이며, 최고 득점법인이 우선협상대상자로 선정된다.
+
+심사기준은	심사/NNG+기준/NNG+은/JX
+학교운영	학교/NNG+운영/NNG
+역량과	역량/NNG+과/JC
+교육과정,	교육/NNG+과정/NNG+,/SP
+학사운영,	학사/NNG+운영/NNG+,/SP
+재정운영	재정/NNG+운영/NNG
+등	등/NNB
+1000점	1000/SN+점/NNB
+만점이며,	만점/NNG+이/VCP+며/EC+,/SP
+최고	최고/NNG
+득점법인이	득점/NNG+법인/NNG+이/JKS
+우선협상대상자로	우선/NNG+협상/NNG+대상자/NNG+로/JKB
+선정된다.	선정/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.427.8.1
+공립인 제주국제학교 건립에는 정부 지원사업비 532억원이 투입되며, 2010년 6월 착공 2011년 8월 준공 예정이다.
+
+공립인	공립/NNG+이/VCP+ㄴ/ETM
+제주국제학교	제주국제학교/NNP
+건립에는	건립/NNG+에/JKB+는/JX
+정부	정부/NNG
+지원사업비	지원/NNG+사업비/NNG
+532억원이	532/SN+억/NR+원/NNB+이/JKS
+투입되며,	투입/NNG+되/XSV+며/EC+,/SP
+2010년	2010/SN+년/NNB
+6월	6/SN+월/NNB
+착공	착공/NNG
+2011년	2011/SN+년/NNB
+8월	8/SN+월/NNB
+준공	준공/NNG
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.427.8.2
+초등학교 과정(4~6학년) 180명, 중학교 과정(1~3학년) 216명 등 모두 396명을 선발한다.
+
+초등학교	초등학교/NNG
+과정(4~6학년)	과정/NNG+(/SS+4/SN+~/SO+6/SN+학년/NNG+)/SS
+180명,	180/SN+명/NNB+,/SP
+중학교	중학교/NNG
+과정(1~3학년)	과정/NNG+(/SS+1/SN+~/SO+3/SN+학년/NNG+)/SS
+216명	216/SN+명/NNB
+등	등/NNB
+모두	모두/MAG
+396명을	396/SN+명/NNB+을/JKO
+선발한다.	선발/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.427.8.3
+단 중학교 3학년 과정은 상급학교 진학 등을 고려해 개교 첫해에는 뽑지 않으며, 정원 이외의 5% 범위 내에서 제주지역 학생을 특별전형으로 선발한다.
+
+단	단/MAJ
+중학교	중학교/NNG
+3학년	3/SN+학년/NNG
+과정은	과정/NNG+은/JX
+상급학교	상급/NNG+학교/NNG
+진학	진학/NNG
+등을	등/NNB+을/JKO
+고려해	고려/NNG+하/XSV+아/EC
+개교	개교/NNG
+첫해에는	첫해/NNG+에/JKB+는/JX
+뽑지	뽑/VV+지/EC
+않으며,	않/VX+으며/EC+,/SP
+정원	정원/NNG
+이외의	이외/NNG+의/JKG
+5%	5/SN+%/SW
+범위	범위/NNG
+내에서	내/NNB+에서/JKB
+제주지역	제주지역/NNP
+학생을	학생/NNG+을/JKO
+특별전형으로	특별/NNG+전형/NNG+으로/JKB
+선발한다.	선발/NNG+하/XSV+ㄴ다/EF+./SF
+
+

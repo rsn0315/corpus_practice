@@ -1,0 +1,251 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000032.11
+metadata : {}
+
+
+# id : NWRW1800000032.11.1.1
+삼성·한화·CJ·LG전자 “직원 뽑아요”
+
+삼성·한화·CJ·LG전자	삼성/NNP+·/SP+한화/NNP+·/SP+CJ/SL+·/SP+LG전자/NNP
+“직원	“/SS+직원/NNG
+뽑아요”	뽑/VV+아요/EF+”/SS
+
+
+# id : NWRW1800000032.11.2.1
+신입사원 채용 잇따라
+
+신입사원	신입/NNG+사원/NNG
+채용	채용/NNG
+잇따라	잇따르/VV+아/EF
+
+
+# id : NWRW1800000032.11.3.1
+삼성그룹을 비롯해 한화그룹, 씨제이(CJ)그룹, 엘지(LG)전자 등 주요 대기업들이 올 상반기 신입사원 공개채용에 본격 나섰다.
+
+삼성그룹을	삼성그룹/NNP+을/JKO
+비롯해	비롯하/VV+아/EC
+한화그룹,	한화그룹/NNP+,/SP
+씨제이(CJ)그룹,	씨제이/NNP+(/SS+CJ/SL+)/SS+그룹/NNG+,/SP
+엘지(LG)전자	엘지/NNP+(/SS+LG/SL+)/SS+전자/NNG
+등	등/NNB
+주요	주요/NNG
+대기업들이	대/XPN+기업/NNG+들/XSN+이/JKS
+올	올/NNG
+상반기	상반기/NNG
+신입사원	신입/NNG+사원/NNG
+공개채용에	공개/NNG+채용/NNG+에/JKB
+본격	본격/NNG
+나섰다.	나서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000032.11.4.1
+삼성그룹은 오는 10일부터 14일까지 전자, 에스디아이(SDI), 전기, 증권 등 계열사의 대졸 신입사원을 공채한다.
+
+삼성그룹은	삼성그룹/NNP+은/JX
+오는	오/VV+는/ETM
+10일부터	10/SN+일/NNB+부터/JX
+14일까지	14/SN+일/NNB+까지/JX
+전자,	전자/NNG+,/SP
+에스디아이(SDI),	에스디아이/NNG+(/SS+SDI/SL+)/SS+,/SP
+전기,	전기/NNG+,/SP
+증권	증권/NNG
+등	등/NNB
+계열사의	계열사/NNG+의/JKG
+대졸	대졸/NNG
+신입사원을	신입/NNG+사원/NNG+을/JKO
+공채한다.	공채/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000032.11.4.2
+지원자격은 2011년 8월 이전 졸업자 또는 졸업 예정자로, 전학년 평점 평균이 3.0점 이상(만점 4.5점)이고, 일정 레벨 이상의 오픽(OPIc), 토익스피킹 등 영어 말하기 시험성적이 있어야 한다.
+
+지원자격은	지원/NNG+자격/NNG+은/JX
+2011년	2011/SN+년/NNB
+8월	8/SN+월/NNB
+이전	이전/NNG
+졸업자	졸업자/NNG
+또는	또는/MAG
+졸업	졸업/NNG
+예정자로,	예정자/NNG+로/JKB+,/SP
+전학년	전/MMN+학년/NNG
+평점	평점/NNG
+평균이	평균/NNG+이/JKS
+3.0점	3/SN+./SP+0/SN+점/NNB
+이상(만점	이상/NNG+(/SS+만점/NNG
+4.5점)이고,	4/SN+./SP+5/SN+점/NNB+)/SS+이/VCP+고/EC+,/SP
+일정	일정/NNG
+레벨	레벨/NNG
+이상의	이상/NNG+의/JKG
+오픽(OPIc),	오픽/NNG+(/SS+OPIc/SL+)/SS+,/SP
+토익스피킹	토익/NNG+스피킹/NNG
+등	등/NNB
+영어	영어/NNP
+말하기	말하기/NNG
+시험성적이	시험/NNG+성적/NNG+이/JKS
+있어야	있/VA+어야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000032.11.4.3
+지원서는 채용 누리집(www.dearsamsung.co.kr)에서 3일부터 작성해 저장할 수 있다.
+
+지원서는	지원서/NNG+는/JX
+채용	채용/NNG
+누리집(www.dearsamsung.co.kr)에서	누리집/NNG+(/SS+www/SL+./SP+dearsamsung/SL+./SP+co/SL+./SP+kr/SL+)/SS+에서/JKB
+3일부터	3/SN+일/NNB+부터/JX
+작성해	작성/NNG+하/XSV+아/EC
+저장할	저장/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000032.11.4.4
+삼성 직무적성검사(SSAT)는 오는 20일에 실시된다.
+
+삼성	삼성/NNP
+직무적성검사(SSAT)는	직무/NNG+적성/NNG+검사/NNG+(/SS+SSAT/SL+)/SS+는/JX
+오는	오/VV+는/ETM
+20일에	20/SN+일/NNB+에/JKB
+실시된다.	실시/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000032.11.5.1
+한화그룹은 화약, 무역, 건설, 대한생명보험 등 계열사 전 부문에서 세자릿수 규모로 신입사원을 뽑는다.
+
+한화그룹은	한화그룹/NNP+은/JX
+화약,	화약/NNG+,/SP
+무역,	무역/NNG+,/SP
+건설,	건설/NNG+,/SP
+대한생명보험	대한생명보험/NNP
+등	등/NNB
+계열사	계열사/NNG
+전	전/MMN
+부문에서	부문/NNG+에서/JKB
+세자릿수	세/MMN+자릿수/NNG
+규모로	규모/NNG+로/JKB
+신입사원을	신입/NNG+사원/NNG+을/JKO
+뽑는다.	뽑/VV+는다/EF+./SF
+
+
+# id : NWRW1800000032.11.5.2
+학력과 전공에 상관없이 오는 7일부터 17일까지 한화그룹 채용 누리집(www.netcruit.co.kr)에서 지원할 수 있다.
+
+학력과	학력/NNG+과/JC
+전공에	전공/NNG+에/JKB
+상관없이	상관없이/MAG
+오는	오/VV+는/ETM
+7일부터	7/SN+일/NNB+부터/JX
+17일까지	17/SN+일/NNB+까지/JX
+한화그룹	한화그룹/NNP
+채용	채용/NNG
+누리집(www.netcruit.co.kr)에서	누리집/NNG+(/SS+www/SL+./SP+netcruit/SL+./SP+co/SL+./SP+kr/SL+)/SS+에서/JKB
+지원할	지원/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000032.11.5.3
+씨제이그룹은 오는 14일까지 대졸 신입사원을 인턴사원과 함께 채용 누리집(recruit.cj.net)에서 모집한다.
+
+씨제이그룹은	씨제이그룹/NNP+은/JX
+오는	오/VV+는/ETM
+14일까지	14/SN+일/NNB+까지/JX
+대졸	대졸/NNG
+신입사원을	신입/NNG+사원/NNG+을/JKO
+인턴사원과	인턴사원/NNG+과/JKB
+함께	함께/MAG
+채용	채용/NNG
+누리집(recruit.cj.net)에서	누리집/NNG+(/SS+recruit/SL+./SP+cj/SL+./SP+net/SL+)/SS+에서/JKB
+모집한다.	모집/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000032.11.5.4
+영어 말하기 점수 보유자라면 지원 가능하고, 2개 국어를 할 줄 알면 우대한다.
+
+영어	영어/NNP
+말하기	말하기/NNG
+점수	점수/NNG
+보유자라면	보유자/NNG+이/VCP+라면/EC
+지원	지원/NNG
+가능하고,	가능/NNG+하/XSA+고/EC+,/SP
+2개	2/SN+개/NNB
+국어를	국어/NNG+를/JKO
+할	하/VV+ㄹ/ETM
+줄	줄/NNB
+알면	알/VV+면/EC
+우대한다.	우대/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000032.11.6.1
+이밖에 엘지전자와 아이비케이(IBK)기업은행, 대우건설도 각 분야에서 공개 채용한다.
+
+이밖에	이/NP+밖/NNG+에/JKB
+엘지전자와	엘지전자/NNP+와/JC
+아이비케이(IBK)기업은행,	아이비케이/NNP+(/SS+IBK/SL+)/SS+기업은행/NNP+,/SP
+대우건설도	대우건설/NNP+도/JX
+각	각/MMD
+분야에서	분야/NNG+에서/JKB
+공개	공개/NNG
+채용한다.	채용/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000032.11.6.2
+엘지전자는 오는 10일까지 올 상반기에 입사가 가능한 학사·석사·박사 졸업 예정자를 누리집(www.lge.co.kr)에서 뽑고, 기업은행은 오는 16일까지 일반, 정보기술(IT) 분야 신입행원을 채용정보 누리집(ibk.incruit.com)에서 모집중이다.
+
+엘지전자는	엘지전자/NNP+는/JX
+오는	오/VV+는/ETM
+10일까지	10/SN+일/NNB+까지/JX
+올	올/NNG
+상반기에	상반기/NNG+에/JKB
+입사가	입사/NNG+가/JKS
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+학사·석사·박사	학사/NNG+·/SP+석사/NNG+·/SP+박사/NNG
+졸업	졸업/NNG
+예정자를	예정자/NNG+를/JKO
+누리집(www.lge.co.kr)에서	누리집/NNG+(/SS+www/SL+./SP+lge/SL+./SP+co/SL+./SP+kr/SL+)/SS+에서/JKB
+뽑고,	뽑/VV+고/EC+,/SP
+기업은행은	기업은행/NNP+은/JX
+16일까지	16/SN+일/NNB+까지/JX
+일반,	일반/NNG+,/SP
+정보기술(IT)	정보/NNG+기술/NNG+(/SS+IT/SL+)/SS
+분야	분야/NNG
+신입행원을	신입/NNG+행원/NNG+을/JKO
+채용정보	채용/NNG+정보/NNG
+누리집(ibk.incruit.com)에서	누리집/NNG+(/SS+ibk/SL+./SP+incruit/SL+./SP+com/SL+)/SS+에서/JKB
+모집중이다.	모집/NNG+중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000032.11.6.3
+특히 기업은행은 공인회계사, 변호사, 국제재무분석사 등 전문자격증 소지자를 우대할 방침이다.
+
+특히	특히/MAG
+기업은행은	기업은행/NNP+은/JX
+공인회계사,	공인/NNG+회계사/NNG+,/SP
+변호사,	변호사/NNG+,/SP
+국제재무분석사	국제/NNG+재무/NNG+분석사/NNG
+등	등/NNB
+전문자격증	전문/NNG+자격증/NNG
+소지자를	소지자/NNG+를/JKO
+우대할	우대/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000032.11.6.4
+대우건설은 신입사원과 인턴사원 지원서를 오는 11일부터 20일까지 채용 누리집(erecruit.dwconst.co.kr)에서 접수한다.
+
+대우건설은	대우건설/NNP+은/JX
+신입사원과	신입/NNG+사원/NNG+과/JC
+인턴사원	인턴사원/NNG
+지원서를	지원서/NNG+를/JKO
+오는	오/VV+는/ETM
+11일부터	11/SN+일/NNB+부터/JX
+20일까지	20/SN+일/NNB+까지/JX
+채용	채용/NNG
+누리집(erecruit.dwconst.co.kr)에서	누리집/NNG+(/SS+erecruit/SL+./SP+dwconst/SL+./SP+co/SL+./SP+kr/SL+)/SS+에서/JKB
+접수한다.	접수/NNG+하/XSV+ㄴ다/EF+./SF
+
+

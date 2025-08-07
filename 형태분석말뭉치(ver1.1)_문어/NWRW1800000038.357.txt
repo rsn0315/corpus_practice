@@ -1,0 +1,210 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.357
+metadata : {}
+
+
+# id : NWRW1800000038.357.1.1
+주한 외국대사관들 "철수·대피 계획 전혀 없다"
+
+주한	주한/NNG
+외국대사관들	외국/NNG+대사관/NNG+들/XSN
+"철수·대피	"/SS+철수/NNG+·/SP+대피/NNG
+계획	계획/NNG
+전혀	전혀/MAG
+없다"	없/VA+다/EF+"/SS
+
+
+# id : NWRW1800000038.357.2.1
+북한이 평양 주재 외교관들에게 철수를 권고한 데 이어 9일 "남한 내 외국인들도 대피해야 할 것"이라고 엄포를 놓았지만, 서울 주재 외국 공관들은 "철수 계획이나 대피 계획은 없다"고 밝혔다.
+
+북한이	북한/NNP+이/JKS
+평양	평양/NNP
+주재	주재/NNG
+외교관들에게	외교관/NNG+들/XSN+에게/JKB
+철수를	철수/NNG+를/JKO
+권고한	권고/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+이어	잇/VV+어/EC
+9일	9/SN+일/NNB
+"남한	"/SS+남한/NNP
+내	내/NNB
+외국인들도	외국인/NNG+들/XSN+도/JX
+대피해야	대피/NNG+하/XSV+아야/EC
+할	하/VX+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+엄포를	엄포/NNG+를/JKO
+놓았지만,	놓/VV+았/EP+지만/EC+,/SP
+서울	서울/NNP
+외국	외국/NNG
+공관들은	공관/NNG+들/XSN+은/JX
+"철수	"/SS+철수/NNG
+계획이나	계획/NNG+이나/JC
+대피	대피/NNG
+계획은	계획/NNG+은/JX
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.357.3.1
+주한 미국 대사관은 이날 북한이 한국 내 외국인 대피 대책을 요구한 것과 관련, "북한이 미사일 발사까지 예고한 상황을 주시 중이지만, 우리 업무는 평소와 전혀 다를 바가 없다"며 "외교관 철수나 미국인 대피 계획도 없다"고 말했다.
+
+주한	주한/NNG
+미국	미국/NNP
+대사관은	대사관/NNG+은/JX
+이날	이날/NNG
+북한이	북한/NNP+이/JKS
+한국	한국/NNP
+내	내/NNB
+외국인	외국인/NNG
+대피	대피/NNG
+대책을	대책/NNG+을/JKO
+요구한	요구/NNG+하/XSV+ㄴ/ETM
+것과	것/NNB+과/JKB
+관련,	관련/NNG+,/SP
+"북한이	"/SS+북한/NNP+이/JKS
+미사일	미사일/NNG
+발사까지	발사/NNG+까지/JX
+예고한	예고/NNG+하/XSV+ㄴ/ETM
+상황을	상황/NNG+을/JKO
+주시	주시/NNG
+중이지만,	중/NNB+이/VCP+지만/EC+,/SP
+우리	우리/NP
+업무는	업무/NNG+는/JX
+평소와	평소/NNG+와/JKB
+전혀	전혀/MAG
+다를	다르/VA+ㄹ/ETM
+바가	바/NNB+가/JKS
+없다"며	없/VA+다/EF+"/SS+며/EC
+"외교관	"/SS+외교관/NNG
+철수나	철수/NNG+나/JC
+미국인	미국인/NNG
+계획도	계획/NNG+도/JX
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.357.4.1
+주한 중국 대사관과 주한 일본 대사관은 "북한 사태와 관련해 아무런 지침이 없다"는 입장을 밝혔다.
+
+주한	주한/NNG
+중국	중국/NNP
+대사관과	대사관/NNG+과/JC
+일본	일본/NNP
+대사관은	대사관/NNG+은/JX
+"북한	"/SS+북한/NNP
+사태와	사태/NNG+와/JKB
+관련해	관련/NNG+하/XSV+아/EC
+아무런	아무런/MMD
+지침이	지침/NNG+이/JKS
+없다"는	없/VA+다/EF+"/SS+는/ETM
+입장을	입장/NNG+을/JKO
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.357.5.1
+법무부에 따르면 지난달 말 현재 국내 체류 중인 외국인 숫자는 147만873명이다.
+
+법무부에	법무부/NNG+에/JKB
+따르면	따르/VV+면/EC
+지난달	지난달/NNG
+말	말/NNB
+현재	현재/MAG
+국내	국내/NNG
+체류	체류/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+외국인	외국인/NNG
+숫자는	숫자/NNG+는/JX
+147만873명이다.	147/SN+만/NR+873/SN+명/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.357.6.1
+유사시 주한 미군 가족 등 한국 내 미국 시민권자들을 본토로 대피시키는 '비전투원 소개(疏開) 작전(NEO·Noncombatant Evacuation Operation) 훈련을 매년 두 차례 실시하는 주한 미군도 이번 북한 도발과 관련해 별다른 움직임을 보이지 않고 있다.
+
+유사시	유사시/NNG
+주한	주한/NNG
+미군	미군/NNG
+가족	가족/NNG
+등	등/NNB
+한국	한국/NNP
+내	내/NNB
+미국	미국/NNP
+시민권자들을	시민권자/NNG+들/XSN+을/JKO
+본토로	본토/NNG+로/JKB
+대피시키는	대피/NNG+시키/XSV+는/ETM
+'비전투원	'/SS+비/XPN+전투원/NNG
+소개(疏開)	소개/NNG+(/SS+疏開/SH+)/SS
+작전(NEO·Noncombatant	작전/NNG+(/SS+NEO/SL+·/SP+Noncombatant/SL
+Evacuation	Evacuation/SL
+Operation)	Operation/SL+)/SS
+훈련을	훈련/NNG+을/JKO
+매년	매년/MAG
+두	두/MMN
+차례	차례/NNG
+실시하는	실시/NNG+하/XSV+는/ETM
+미군도	미군/NNG+도/JX
+이번	이번/NNG
+북한	북한/NNP
+도발과	도발/NNG+과/JKB
+관련해	관련/NNG+하/XSV+아/EC
+별다른	별다르/VA+ㄴ/ETM
+움직임을	움직임/NNG+을/JKO
+보이지	보이/VV+지/EC
+않고	않/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000038.357.7.1
+한국에 있는 해외 주요 언론의 특파원도 대체로 "크게 신경 쓰지 않는다"는 반응이다.
+
+한국에	한국/NNP+에/JKB
+있는	있/VV+는/ETM
+해외	해외/NNG
+주요	주요/NNG
+언론의	언론/NNG+의/JKG
+특파원도	특파원/NNG+도/JX
+대체로	대체로/MAG
+"크게	"/SS+크/VA+게/EC
+신경	신경/NNG
+쓰지	쓰/VV+지/EC
+않는다"는	않/VX+는다/EF+"/SS+는/ETM
+반응이다.	반응/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.357.7.2
+두 차례에 걸쳐 총 7년간 한국에 주재 중인 일본 마이니치신문의 사와다 가쓰미(46) 특파원은 "한두 번 있던 일도 아니고, 북한의 엄포에 한국을 떠날 외신 기자가 과연 몇이나 될지 의문"이라고 했다.
+
+두	두/MMN
+차례에	차례/NNG+에/JKB
+걸쳐	걸치/VV+어/EC
+총	총/MMA
+7년간	7/SN+년/NNB+간/XSN
+한국에	한국/NNP+에/JKB
+주재	주재/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+일본	일본/NNP
+마이니치신문의	마이니치신문/NNP+의/JKG
+사와다	사와다/NNP
+가쓰미(46)	가쓰미/NNP+(/SS+46/SN+)/SS
+특파원은	특파원/NNG+은/JX
+"한두	"/SS+한두/MMN
+번	번/NNB
+있던	있/VA+던/ETM
+일도	일/NNG+도/JX
+아니고,	아니/VCN+고/EC+,/SP
+북한의	북한/NNP+의/JKG
+엄포에	엄포/NNG+에/JKB
+한국을	한국/NNP+을/JKO
+떠날	떠나/VV+ㄹ/ETM
+외신	외신/NNG
+기자가	기자/NNG+가/JKS
+과연	과연/MAG
+몇이나	몇/NR+이나/JX
+될지	되/VV+ㄹ지/EF
+의문"이라고	의문/NNG+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,333 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.405
+metadata : {}
+
+
+# id : NWRW1800000046.405.1.1
+FTA 합의해놓고… 與野대표의 '무책임한 발언'
+
+FTA	FTA/SL
+합의해놓고…	합의/NNG+하/XSV+아/EC+놓/VX+고/EC+…/SE
+與野대표의	與野/SH+대표/NNG+의/JKG
+'무책임한	'/SS+무/XPN+책임/NNG+하/XSA+ㄴ/ETM
+발언'	발언/NNG+'/SS
+
+
+# id : NWRW1800000046.405.2.1
+金 "재정 축내는 FTA 안하는게 낫다"… 文 "與가 빚 졌으니 꼭 갚아야"
+
+金	金/SH
+"재정	"/SS+재정/NNG
+축내는	축내/VV+는/ETM
+FTA	FTA/SL
+안하는게	안/MAG+하/VV+는/ETM+거/NNB+이/JKS
+낫다"…	낫/VA+다/EF+"/SS+…/SE
+文	文/SH
+"與가	"/SS+與/SH+가/JKS
+빚	빚/NNG
+졌으니	지/VV+었/EP+으니/EC
+꼭	꼭/MAG
+갚아야"	갚/VV+아야/EC+"/SS
+
+
+# id : NWRW1800000046.405.3.1
+여야(與野) 대표가 지난 30일 한·중 자유무역협정(FTA) 비준 동의안 처리와 관련해 부적절한 발언을 한 것이 1일 정치권에서 논란을 일으켰다.
+
+여야(與野)	여야/NNG+(/SS+與野/SH+)/SS
+대표가	대표/NNG+가/JKS
+지난	지나/VV+ㄴ/ETM
+30일	30/SN+일/NNB
+한·중	한·중/NNP
+자유무역협정(FTA)	자유/NNG+무역/NNG+협정/NNG+(/SS+FTA/SL+)/SS
+비준	비준/NNG
+동의안	동의안/NNG
+처리와	처리/NNG+와/JKB
+관련해	관련/NNG+하/XSV+아/EC
+부적절한	부적절하/VA+ㄴ/ETM
+발언을	발언/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+것이	것/NNB+이/JKS
+1일	1/SN+일/NNB
+정치권에서	정치/NNG+권/XSN+에서/JKB
+논란을	논란/NNG+을/JKO
+일으켰다.	일으키/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.4.1
+문재인 새정치민주연합 대표는 지난 30일 오후 여야 지도부 회동에서 "한·중 FTA 비준안이 처리되면 새누리당은 야당에 큰 빚을 지는 만큼 예산안, 법안 심사 때 그 빚을 꼭 갚아 주길 바란다"고 말했다.
+
+문재인	문재인/NNP
+새정치민주연합	새정치민주연합/NNP
+대표는	대표/NNG+는/JX
+지난	지나/VV+ㄴ/ETM
+30일	30/SN+일/NNB
+오후	오후/NNG
+여야	여야/NNG
+지도부	지도부/NNG
+회동에서	회동/NNG+에서/JKB
+"한·중	"/SS+한·중/NNP
+FTA	FTA/SL
+비준안이	비준안/NNG+이/JKS
+처리되면	처리/NNG+되/XSV+면/EC
+새누리당은	새누리당/NNP+은/JX
+야당에	야당/NNG+에/JKB
+큰	크/VA+ㄴ/ETM
+빚을	빚/NNG+을/JKO
+지는	지/VV+는/ETM
+만큼	만큼/NNB
+예산안,	예산안/NNG+,/SP
+법안	법안/NNG
+심사	심사/NNG
+때	때/NNG
+그	그/MMD
+꼭	꼭/MAG
+갚아	갚/VV+아/EC
+주길	주/VX+기/ETN+ㄹ/JKO
+바란다"고	바라/VV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.4.2
+이에 대해 '국가 전체의 이익이 달린 FTA 문제를 당리당략의 시각에서 접근했다'는 비판이 나왔다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+'국가	'/SS+국가/NNG
+전체의	전체/NNG+의/JKG
+이익이	이익/NNG+이/JKS
+달린	달리/VV+ㄴ/ETM
+FTA	FTA/SL
+문제를	문제/NNG+를/JKO
+당리당략의	당리당략/NNG+의/JKG
+시각에서	시각/NNG+에서/JKB
+접근했다'는	접근/NNG+하/XSV+았/EP+다/EF+'/SS+는/ETM
+비판이	비판/NNG+이/JKS
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.4.3
+원유철 새누리당 원내대표는 "(문 대표의) 그런 인식이 문제"라며 "국민을 상대로 좋은 정책을 만들려는 경쟁, 국익을 위한 경쟁을 해야 하는데 상대방이 낸 정책과 법안 받아주는 것이 상대에 대한 혜택이라고 생각하면 문제"라고 했다.
+
+원유철	원유철/NNP
+새누리당	새누리당/NNP
+원내대표는	원내/NNG+대표/NNG+는/JX
+"(문	"/SS+(/SS+문/NNP
+대표의)	대표/NNG+의/JKG+)/SS
+그런	그런/MMD
+인식이	인식/NNG+이/JKS
+문제"라며	문제/NNG+"/SS+이/VCP+라며/EC
+"국민을	"/SS+국민/NNG+을/JKO
+상대로	상대/NNG+로/JKB
+좋은	좋/VA+은/ETM
+정책을	정책/NNG+을/JKO
+만들려는	만들/VV+려는/ETM
+경쟁,	경쟁/NNG+,/SP
+국익을	국익/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+경쟁을	경쟁/NNG+을/JKO
+해야	하/VV+아야/EC
+하는데	하/VX+는데/EC
+상대방이	상대방/NNG+이/JKS
+낸	내/VV+ㄴ/ETM
+정책과	정책/NNG+과/JC
+법안	법안/NNG
+받아주는	받/VV+아/EC+주/VX+는/ETM
+것이	것/NNB+이/JKS
+상대에	상대/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+혜택이라고	혜택/NNG+이/VCP+라고/EC
+생각하면	생각/NNG+하/XSV+면/EC
+문제"라고	문제/NNG+"/SS+라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.4.4
+야당 관계자들도 문 대표 발언에 대해 "공당(公黨)의 대표로서 진심으로 FTA가 잘못됐다고 생각한다면 합의하지 말았어야 하는 것이고, FTA가 필요하다고 생각한다면 대가를 바라서는 안 되는 것"이라며 "그런 얘기는 여당 대표와 개인적으로 할 수 있을진 몰라도 공적인 자리에서 할 말은 아니었다"고 했다.
+
+야당	야당/NNG
+관계자들도	관계자/NNG+들/XSN+도/JX
+문	문/NNP
+대표	대표/NNG
+발언에	발언/NNG+에/JKB
+대해	대하/VV+아/EC
+"공당(公黨)의	"/SS+공당/NNG+(/SS+公黨/SH+)/SS+의/JKG
+대표로서	대표/NNG+로서/JKB
+진심으로	진심/NNG+으로/JKB
+FTA가	FTA/SL+가/JKS
+잘못됐다고	잘못/MAG+되/XSV+었/EP+다고/EC
+생각한다면	생각/NNG+하/XSV+ㄴ다면/EC
+합의하지	합의/NNG+하/XSV+지/EC
+말았어야	말/VX+았/EP+어야/EC
+하는	하/VX+는/ETM
+것이고,	것/NNB+이/VCP+고/EC+,/SP
+필요하다고	필요/NNG+하/XSA+다고/EC
+대가를	대가/NNG+를/JKO
+바라서는	바라/VV+아서/EC+는/JX
+안	안/MAG
+되는	되/VV+는/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+"그런	"/SS+그런/MMD
+얘기는	얘기/NNG+는/JX
+여당	여당/NNG
+대표와	대표/NNG+와/JC
+개인적으로	개인/NNG+적/XSN+으로/JKB
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있을진	있/VA+을지/EF+ㄴ/JX
+몰라도	모르/VV+아도/EC
+공적인	공/NNG+적/XSN+이/VCP+ㄴ/ETM
+자리에서	자리/NNG+에서/JKB
+말은	말/NNG+은/JX
+아니었다"고	아니/VCN+었/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.5.1
+또 김무성 새누리당 대표는 같은 날 국회에서 비준 동의안이 통과된 뒤 윤상직 산업통상자원부 장관 등 정부 관계자들과 만나 "앞으로 FTA 하지 말라"고 했다.
+
+또	또/MAG
+김무성	김무성/NNP
+새누리당	새누리당/NNP
+대표는	대표/NNG+는/JX
+같은	같/VA+은/ETM
+날	날/NNG
+국회에서	국회/NNG+에서/JKB
+비준	비준/NNG
+동의안이	동의안/NNG+이/JKS
+통과된	통과/NNG+되/XSV+ㄴ/ETM
+뒤	뒤/NNG
+윤상직	윤상직/NNP
+산업통상자원부	산업/NNG+통상/NNG+자원부/NNG
+장관	장관/NNG
+등	등/NNB
+정부	정부/NNG
+관계자들과	관계자/NNG+들/XSN+과/JKB
+만나	만나/VV+아/EC
+"앞으로	"/SS+앞/NNG+으로/JKB
+FTA	FTA/SL
+하지	하/VV+지/EC
+말라"고	말/VX+라/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.5.2
+그러면서 "FTA를 할 때마다 이렇게 재정을 축내는 짓을 하는데, 이러다가 나라 재정이 큰일 날 것 같다"고 했다.
+
+그러면서	그러/VV+면서/EC
+"FTA를	"/SS+FTA/SL+를/JKO
+할	하/VV+ㄹ/ETM
+때마다	때/NNG+마다/JX
+이렇게	이렇/VA+게/EC
+재정을	재정/NNG+을/JKO
+축내는	축내/VV+는/ETM
+짓을	짓/NNG+을/JKO
+하는데,	하/VV+는데/EC+,/SP
+이러다가	이러/VV+다가/EC
+나라	나라/NNG
+재정이	재정/NNG+이/JKS
+큰일	큰일/NNG
+날	나/VV+ㄹ/ETM
+것	것/NNB
+같다"고	같/VA+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.5.3
+1년에 1000억원씩 기업의 돈을 걷어 농어민을 지원하겠다는 제도를 도입한 것을 두고 하는 말이었다.
+
+1년에	1/SN+년/NNB+에/JKB
+1000억원씩	1000/SN+억/NR+원/NNB+씩/XSN
+기업의	기업/NNG+의/JKG
+돈을	돈/NNG+을/JKO
+걷어	걷/VV+어/EC
+농어민을	농어민/NNG+을/JKO
+지원하겠다는	지원/NNG+하/XSV+겠/EP+다는/ETM
+제도를	제도/NNG+를/JKO
+도입한	도입/NNG+하/XSV+ㄴ/ETM
+것을	것/NNB+을/JKO
+두고	두/VV+고/EC
+하는	하/VX+는/ETM
+말이었다.	말/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.5.4
+김 대표 측 관계자는 "FTA가 수출에 도움이 되고자 하는 것인데, 그걸 계기로 기업에 또 다른 부담을 주는 게 옳은 것이냐는 한탄과 자조의 의미로 이해해 달라"라고 했다.
+
+김	김/NNP
+대표	대표/NNG
+측	측/NNB
+관계자는	관계자/NNG+는/JX
+"FTA가	"/SS+FTA/SL+가/JKS
+수출에	수출/NNG+에/JKB
+도움이	도움/NNG+이/JKC
+되고자	되/VV+고자/EC
+하는	하/VX+는/ETM
+것인데,	것/NNB+이/VCP+ㄴ데/EC+,/SP
+그걸	그거/NP+ㄹ/JKO
+계기로	계기/NNG+로/JKB
+기업에	기업/NNG+에/JKB
+또	또/MAG
+다른	다른/MMD
+부담을	부담/NNG+을/JKO
+주는	주/VV+는/ETM
+게	거/NNB+이/JKS
+옳은	옳/VA+은/ETM
+것이냐는	것/NNB+이/VCP+냐는/ETM
+한탄과	한탄/NNG+과/JC
+자조의	자조/NNG+의/JKG
+의미로	의미/NNG+로/JKB
+이해해	이해/NNG+하/XSV+아/EC
+달라"라고	달/VX+라/EF+"/SS+라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.6.1
+하지만 이 발언에 대해서도 '김 대표 본인이 FTA 비준 동의안 처리에 최종 합의해놓고 마치 남의 얘기하듯 한다'는 비판이 나왔다.
+
+하지만	하지만/MAJ
+이	이/MMD
+발언에	발언/NNG+에/JKB
+대해서도	대하/VV+아서/EC+도/JX
+'김	'/SS+김/NNP
+대표	대표/NNG
+본인이	본인/NNG+이/JKS
+FTA	FTA/SL
+비준	비준/NNG
+동의안	동의안/NNG
+처리에	처리/NNG+에/JKB
+최종	최종/NNG
+합의해놓고	합의/NNG+하/XSV+아/EC+놓/VX+고/EC
+마치	마치/MAG
+남의	남/NNG+의/JKG
+얘기하듯	얘기/NNG+하/XSV+듯/EC
+한다'는	하/VX+ㄴ다/EF+'/SS+는/ETM
+비판이	비판/NNG+이/JKS
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.405.6.2
+새누리당 한 재선 의원은 "김 대표 발언은 결국 대통령의 질책이 무서워서 졸속으로 합의했다는 걸 자인한 셈"이라고 했다.
+
+새누리당	새누리당/NNP
+한	한/MMN
+재선	재선/NNG
+의원은	의원/NNG+은/JX
+"김	"/SS+김/NNP
+대표	대표/NNG
+발언은	발언/NNG+은/JX
+결국	결국/NNG
+대통령의	대통령/NNG+의/JKG
+질책이	질책/NNG+이/JKS
+무서워서	무섭/VA+어서/EC
+졸속으로	졸속/NNG+으로/JKB
+합의했다는	합의/NNG+하/XSV+았/EP+다는/ETM
+걸	거/NNB+ㄹ/JKO
+자인한	자인/NNG+하/XSV+ㄴ/ETM
+셈"이라고	셈/NNB+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

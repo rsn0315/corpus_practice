@@ -1,0 +1,579 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.1
+metadata : {}
+
+
+# id : NWRW1800000041.1.1.1
+[김지현 기자의 2014 CES 현장]두근두근 家電 비밀병기… 올해의 주인공도 삼성-LG
+
+[김지현	[/SS+김지현/NNP
+기자의	기자/NNG+의/JKG
+2014	2014/SN
+CES	CES/SL
+현장]두근두근	현장/NNG+]/SS+두근두근/MAG
+家電	家電/SH
+비밀병기…	비밀/NNG+병기/NNG+…/SE
+올해의	올해/NNG+의/JKG
+주인공도	주인공/NNG+도/JX
+삼성-LG	삼성/NNP+-/SO+LG/SL
+
+
+# id : NWRW1800000041.1.2.1
+150개국 3200여개 업체 참가… 8일 美 라스베이거스서 개막 삼성 ‘커브드 TV’-LG ‘웹 OS TV’… 모바일 기기 연동 스마트카 관심
+
+150개국	150/SN+개국/NNB
+3200여개	3200/SN+여/XSN+개/NNB
+업체	업체/NNG
+참가…	참가/NNG+…/SE
+8일	8/SN+일/NNB
+美	美/SH
+라스베이거스서	라스베이거스/NNP+서/JKB
+개막	개막/NNG
+삼성	삼성/NNP
+‘커브드	‘/SS+커브드/NNG
+TV’-LG	TV/SL+’/SS+-/SO+LG/SL
+‘웹	‘/SS+웹/NNG
+OS	OS/SL
+TV’…	TV/SL+’/SS+…/SE
+모바일	모바일/NNG
+기기	기기/NNG
+연동	연동/NNG
+스마트카	스마트카/NNG
+관심	관심/NNG
+
+
+# id : NWRW1800000041.1.3.1
+7일(현지 시간) 미국 라스베이거스에서 공식 개막하는 소비자 가전전시회(CES)의 삼성전자 전시관에서 모델들이 ‘커브드 초고화질(UHD) TV’를 소개하고 있다(위쪽 사진).
+
+7일(현지	7/SN+일/NNB+(/SS+현지/NNG
+시간)	시간/NNG+)/SS
+미국	미국/NNP
+라스베이거스에서	라스베이거스/NNP+에서/JKB
+공식	공식/NNG
+개막하는	개막/NNG+하/XSV+는/ETM
+소비자	소비자/NNG
+가전전시회(CES)의	가전/NNG+전시회/NNG+(/SS+CES/SL+)/SS+의/JKG
+삼성전자	삼성전자/NNP
+전시관에서	전시관/NNG+에서/JKB
+모델들이	모델/NNG+들/XSN+이/JKS
+‘커브드	‘/SS+커브드/NNG
+초고화질(UHD)	초/XPN+고/XPN+화질/NNG+(/SS+UHD/SL+)/SS
+TV’를	TV/SL+’/SS+를/JKO
+소개하고	소개/NNG+하/XSV+고/EC
+있다(위쪽	있/VX+다/EF+(/SS+위쪽/NNG
+사진).	사진/NNG+)/SS+./SF
+
+
+# id : NWRW1800000041.1.4.1
+새로운 한 해의 전자·정보기술(IT) 산업 동향을 미리 들여다볼 소비자 가전전시회(CES)가 7일(현지 시간) 미국 라스베이거스에서 공식 개막한다.
+
+새로운	새롭/VA+ㄴ/ETM
+한	한/MMN
+해의	해/NNB+의/JKG
+전자·정보기술(IT)	전자/NNG+·/SP+정보/NNG+기술/NNG+(/SS+IT/SL+)/SS
+산업	산업/NNG
+동향을	동향/NNG+을/JKO
+미리	미리/MAG
+들여다볼	들여다보/VV+ㄹ/ETM
+소비자	소비자/NNG
+가전전시회(CES)가	가전/NNG+전시회/NNG+(/SS+CES/SL+)/SS+가/JKS
+7일(현지	7/SN+일/NNB+(/SS+현지/NNG
+시간)	시간/NNG+)/SS
+미국	미국/NNP
+라스베이거스에서	라스베이거스/NNP+에서/JKB
+공식	공식/NNG
+개막한다.	개막/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.5.1
+10일까지 이어지는 CES 2014에는 150개국에서 3200여 개 전자업체가 참가해 TV와 가전제품, 모바일, 자동차 등 신제품 2만여 개를 선보인다.
+
+10일까지	10/SN+일/NNB+까지/JX
+이어지는	이어지/VV+는/ETM
+CES	CES/SL
+2014에는	2014/SN+에/JKB+는/JX
+150개국에서	150/SN+개국/NNB+에서/JKB
+3200여	3200/SN+여/XSN
+개	개/NNB
+전자업체가	전자업체/NNG+가/JKS
+참가해	참가/NNG+하/XSV+아/EC
+TV와	TV/SL+와/JC
+가전제품,	가전제품/NNG+,/SP
+모바일,	모바일/NNG+,/SP
+자동차	자동차/NNG
+등	등/NNB
+신제품	신/XPN+제품/NNG
+2만여	2/SN+만/NR+여/XSN
+개를	개/NNB+를/JKO
+선보인다.	선보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.5.2
+이 기간에 CES를 보기 위해 라스베이거스를 찾는 관람객만 15만3000여 명.
+
+이	이/MMD
+기간에	기간/NNG+에/JKB
+CES를	CES/SL+를/JKO
+보기	보/VV+기/ETN
+위해	위하/VV+아/EC
+라스베이거스를	라스베이거스/NNP+를/JKO
+찾는	찾/VV+는/ETM
+관람객만	관람객/NNG+만/JX
+15만3000여	15/SN+만/NR+3000/SN+여/XSN
+명.	명/NNB+./SF
+
+
+# id : NWRW1800000041.1.5.3
+최고경영자(CEO)를 비롯한 ‘C레벨’급 인원도 4만 명에 이를 것으로 전망된다.
+
+최고경영자(CEO)를	최고/NNG+경영자/NNG+(/SS+CEO/SL+)/SS+를/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+‘C레벨’급	‘/SS+C/SL+레벨/NNG+’/SS+급/NNG
+인원도	인원/NNG+도/JX
+4만	4/SN+만/NR
+명에	명/NNB+에/JKB
+이를	이르/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.6.1
+매년 9월 독일 베를린에서 열리는 가전전시회(IFA)는 제품 판매가 목적이지만 CES는 기업들이 숨겨온 신기술을 공개하는 성격이 강하다.
+
+매년	매년/MAG
+9월	9/SN+월/NNB
+독일	독일/NNP
+베를린에서	베를린/NNP+에서/JKB
+열리는	열리/VV+는/ETM
+가전전시회(IFA)는	가전/NNG+전시회/NNG+(/SS+IFA/SL+)/SS+는/JX
+제품	제품/NNG
+판매가	판매/NNG+가/JKS
+목적이지만	목적/NNG+이/VCP+지만/EC
+CES는	CES/SL+는/JX
+기업들이	기업/NNG+들/XSN+이/JKS
+숨겨온	숨기/VV+어/EC+오/VX+ㄴ/ETM
+신기술을	신/XPN+기술/NNG+을/JKO
+공개하는	공개/NNG+하/XSV+는/ETM
+성격이	성격/NNG+이/JKS
+강하다.	강하/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.1.6.2
+기업들은 혁신 기술을 몽땅 라스베이거스로 들고 와 경쟁사들과 ‘눈치작전’ 끝에 깜짝 공개를 하곤 한다.
+
+기업들은	기업/NNG+들/XSN+은/JX
+혁신	혁신/NNG
+기술을	기술/NNG+을/JKO
+몽땅	몽땅/MAG
+라스베이거스로	라스베이거스/NNP+로/JKB
+들고	들/VV+고/EC
+와	오/VV+아/EC
+경쟁사들과	경쟁사/NNG+들/XSN+과/JC
+‘눈치작전’	‘/SS+눈치작전/NNG+’/SS
+끝에	끝/NNG+에/JKB
+깜짝	깜짝/MAG
+공개를	공개/NNG+를/JKO
+하곤	하/VV+곤/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.6.3
+CES의 가장 큰 묘미다.
+
+CES의	CES/SL+의/JKG
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+묘미다.	묘미/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.7.1
+매년 CES에서 가장 큰 규모의 전시관을 차리는 삼성전자와 LG전자는 올해도 CES의 대표주자로 나선다.
+
+매년	매년/MAG
+CES에서	CES/SL+에서/JKB
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+규모의	규모/NNG+의/JKG
+전시관을	전시관/NNG+을/JKO
+차리는	차리/VV+는/ETM
+삼성전자와	삼성전자/NNP+와/JC
+LG전자는	LG전자/NNP+는/JX
+올해도	올해/NNG+도/JX
+CES의	CES/SL+의/JKG
+대표주자로	대표/NNG+주자/NNG+로/JKB
+나선다.	나서/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.8.1
+삼성전자는 2600m²(약 790평) 규모의 전시관을 마련했다.
+
+삼성전자는	삼성전자/NNP+는/JX
+2600m²(약	2600/SN+m²/SW+(/SS+약/MMA
+790평)	790/SN+평/NNB+)/SS
+규모의	규모/NNG+의/JKG
+전시관을	전시관/NNG+을/JKO
+마련했다.	마련/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.8.2
+지난해까지 8년 연속 세계 TV 시장 1위의 기록을 세운 만큼 이번 CES에서도 TV에 역량을 집중했다.
+
+지난해까지	지난해/NNG+까지/JX
+8년	8/SN+년/NNB
+연속	연속/NNG
+세계	세계/NNG
+TV	TV/SL
+시장	시장/NNG
+1위의	1/SN+위/NNB+의/JKG
+기록을	기록/NNG+을/JKO
+세운	세우/VV+ㄴ/ETM
+만큼	만큼/NNB
+이번	이번/NNG
+CES에서도	CES/SL+에서/JKB+도/JX
+TV에	TV/SL+에/JKB
+역량을	역량/NNG+을/JKO
+집중했다.	집중/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.8.3
+세계 최초 가변형 초고화질(UHD) TV를 내세운 삼성전자는 ‘커브드 UHD TV’ 시대를 여는 데 주력한다.
+
+세계	세계/NNG
+최초	최초/NNG
+가변형	가변/NNG+형/XSN
+초고화질(UHD)	초/XPN+고/XPN+화질/NNG+(/SS+UHD/SL+)/SS
+TV를	TV/SL+를/JKO
+내세운	내세우/VV+ㄴ/ETM
+삼성전자는	삼성전자/NNP+는/JX
+‘커브드	‘/SS+커브드/NNG
+UHD	UHD/SL
+TV’	TV/SL+’/SS
+시대를	시대/NNG+를/JKO
+여는	열/VV+는/ETM
+데	데/NNB
+주력한다.	주력/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.9.1
+삼성전자 관계자는 “올해가 UHD TV가 대중에게 다가가는 원년이 될 것으로 보고 폭넓은 제품군을 준비했다”고 설명했다.
+
+삼성전자	삼성전자/NNP
+관계자는	관계자/NNG+는/JX
+“올해가	“/SS+올해/NNG+가/JKS
+UHD	UHD/SL
+TV가	TV/SL+가/JKS
+대중에게	대중/NNG+에게/JKB
+다가가는	다가가/VV+는/ETM
+원년이	원년/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+폭넓은	폭넓/VA+은/ETM
+제품군을	제품군/NNG+을/JKO
+준비했다”고	준비/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.10.1
+LG전자는 2043m²(약 618평) 규모의 부스에서 700여 개 제품을 전시한다.
+
+LG전자는	LG전자/NNP+는/JX
+2043m²(약	2043/SN+m²/SW+(/SS+약/MMA
+618평)	618/SN+평/NNB+)/SS
+규모의	규모/NNG+의/JKG
+부스에서	부스/NNG+에서/JKB
+700여	700/SN+여/XSN
+개	개/NNB
+제품을	제품/NNG+을/JKO
+전시한다.	전시/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.11.1
+가장 눈에 띄는 제품은 리눅스 기반의 운영체제(OS)인 ‘웹 OS’를 장착한 첫 번째 스마트TV다.
+
+가장	가장/MAG
+눈에	눈/NNG+에/JKB
+띄는	띄/VV+는/ETM
+제품은	제품/NNG+은/JX
+리눅스	리눅스/NNG
+기반의	기반/NNG+의/JKG
+운영체제(OS)인	운영/NNG+체제/NNG+(/SS+OS/SL+)/SS+이/VCP+ㄴ/ETM
+‘웹	‘/SS+웹/NNG
+OS’를	OS/SL+’/SS+를/JKO
+장착한	장착/NNG+하/XSV+ㄴ/ETM
+첫	첫/MMN
+번째	번/NNB+째/XSN
+스마트TV다.	스마트/NNG+TV/SL+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.11.2
+지난해 2월 스마트TV의 소프트웨어 역량을 강화하겠다며 미국 HP로부터 웹 OS를 인수한 이후 선보이는 첫 작품이다.
+
+지난해	지난해/NNG
+2월	2/SN+월/NNB
+스마트TV의	스마트/NNG+TV/SL+의/JKG
+소프트웨어	소프트웨어/NNG
+역량을	역량/NNG+을/JKO
+강화하겠다며	강화/NNG+하/XSV+겠/EP+다며/EC
+미국	미국/NNP
+HP로부터	HP/SL+로부터/JKB
+웹	웹/NNG
+OS를	OS/SL+를/JKO
+인수한	인수/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+선보이는	선보이/VV+는/ETM
+첫	첫/MMN
+작품이다.	작품/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.12.1
+웹 OS가 장착된 LG 스마트 TV의 특징은 연결과 전환, 탐색 등 스마트 TV의 주요 기능이 더 간편해진다는 점이다.
+
+웹	웹/NNG
+OS가	OS/SL+가/JKS
+장착된	장착/NNG+되/XSV+ㄴ/ETM
+LG	LG/SL
+스마트	스마트/NNG
+TV의	TV/SL+의/JKG
+특징은	특징/NNG+은/JX
+연결과	연결/NNG+과/JKB
+전환,	전환/NNG+,/SP
+탐색	탐색/NNG
+등	등/NNB
+주요	주요/NNG
+기능이	기능/NNG+이/JKS
+더	더/MAG
+간편해진다는	간편하/VA+아/EC+지/VX+ㄴ다는/ETM
+점이다.	점/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.12.2
+LG전자는 “올해 선보일 스마트 TV 라인업의 70%에 웹 OS를 장착할 것”이라고 했다.
+
+LG전자는	LG전자/NNP+는/JX
+“올해	“/SS+올해/NNG
+선보일	선보이/VV+ㄹ/ETM
+스마트	스마트/NNG
+TV	TV/SL
+라인업의	라인업/NNG+의/JKG
+70%에	70/SN+%/SW+에/JKB
+웹	웹/NNG
+OS를	OS/SL+를/JKO
+장착할	장착/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.13.1
+손목밴드 형태의 웨어러블 기기인 ‘라이프밴드 터치’도 눈에 띈다.
+
+손목밴드	손목/NNG+밴드/NNG
+형태의	형태/NNG+의/JKG
+웨어러블	웨어러블/NNG
+기기인	기기/NNG+이/VCP+ㄴ/ETM
+‘라이프밴드	‘/SS+라이프밴드/NNG
+터치’도	터치/NNG+’/SS+도/JX
+눈에	눈/NNG+에/JKB
+띈다.	띄/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.13.2
+사용자의 움직임을 추적해 칼로리 소모량, 걸음 수, 거리 등을 체크해주고 스마트폰과도 연동할 수 있다.
+
+사용자의	사용자/NNG+의/JKG
+움직임을	움직임/NNG+을/JKO
+추적해	추적/NNG+하/XSV+아/EC
+칼로리	칼로리/NNG
+소모량,	소모량/NNG+,/SP
+걸음	걸음/NNG
+수,	수/NNG+,/SP
+거리	거리/NNG
+등을	등/NNB+을/JKO
+체크해주고	체크/NNG+하/XSV+아/EC+주/VX+고/EC
+스마트폰과도	스마트폰/NNG+과/JKB+도/JX
+연동할	연동/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.1.13.3
+삼성전자 ‘갤럭시 기어’에 대응하기 위한 기기라는 평이다.
+
+삼성전자	삼성전자/NNP
+‘갤럭시	‘/SS+갤럭시/NNP
+기어’에	기어/NNP+’/SS+에/JKB
+대응하기	대응/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+기기라는	기기/NNG+이/VCP+라는/ETM
+평이다.	평/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.14.1
+일본 업체들의 움직임도 주요 관전 포인트.
+
+일본	일본/NNP
+업체들의	업체/NNG+들/XSN+의/JKG
+움직임도	움직임/NNG+도/JX
+주요	주요/NNG
+관전	관전/NNG
+포인트.	포인트/NNG+./SF
+
+
+# id : NWRW1800000041.1.14.2
+소니는 지난해 CES에서 UHD 화질의 유기발광다이오드(OLED) TV를 세계 최초로 공개했다.
+
+소니는	소니/NNP+는/JX
+지난해	지난해/NNG
+CES에서	CES/SL+에서/JKB
+UHD	UHD/SL
+화질의	화질/NNG+의/JKG
+유기발광다이오드(OLED)	유기/NNG+발광/NNG+다이오드/NNG+(/SS+OLED/SL+)/SS
+TV를	TV/SL+를/JKO
+세계	세계/NNG
+최초로	최초/NNG+로/JKB
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.14.3
+최근 파나소닉과 함께 진행한 OLED TV 공동개발 프로젝트를 중단한 바 있어, 올해 CES에서는 OLED가 아닌 UHD TV 기술에 역량을 집중할지 관심이 모이고 있다.
+
+최근	최근/NNG
+파나소닉과	파나소닉/NNP+과/JKB
+함께	함께/MAG
+진행한	진행/NNG+하/XSV+ㄴ/ETM
+OLED	OLED/SL
+TV	TV/SL
+공동개발	공동/NNG+개발/NNG
+프로젝트를	프로젝트/NNG+를/JKO
+중단한	중단/NNG+하/XSV+ㄴ/ETM
+바	바/NNB
+있어,	있/VA+어/EC+,/SP
+올해	올해/NNG
+CES에서는	CES/SL+에서/JKB+는/JX
+OLED가	OLED/SL+가/JKC
+아닌	아니/VCN+ㄴ/ETM
+UHD	UHD/SL
+기술에	기술/NNG+에/JKB
+역량을	역량/NNG+을/JKO
+집중할지	집중/NNG+하/XSV+ㄹ지/EC
+관심이	관심/NNG+이/JKS
+모이고	모이/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.1.14.4
+‘소니 부활’을 외치며 2012년 취임한 히라이 가즈오 사장의 기조연설도 눈여겨볼 만하다.
+
+‘소니	‘/SS+소니/NNP
+부활’을	부활/NNG+’/SS+을/JKO
+외치며	외치/VV+며/EC
+2012년	2012/SN+년/NNB
+취임한	취임/NNG+하/XSV+ㄴ/ETM
+히라이	히라이/NNP
+가즈오	가즈오/NNP
+사장의	사장/NNG+의/JKG
+기조연설도	기조연설/NNG+도/JX
+눈여겨볼	눈여겨보/VV+ㄹ/ETM
+만하다.	만/NNB+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000041.1.15.1
+올해 CES에는 아우디, BMW, 크라이슬러, 포드, 제너럴모터스(GM), 기아차, 마즈다, 메르세데스벤츠, 도요타 등 9개 자동차 업체가 참가한다.
+
+올해	올해/NNG
+CES에는	CES/SL+에/JKB+는/JX
+아우디,	아우디/NNP+,/SP
+BMW,	BMW/SL+,/SP
+크라이슬러,	크라이슬러/NNP+,/SP
+포드,	포드/NNP+,/SP
+제너럴모터스(GM),	제너럴모터스/NNP+(/SS+GM/SL+)/SS+,/SP
+기아차,	기아차/NNP+,/SP
+마즈다,	마즈다/NNP+,/SP
+메르세데스벤츠,	메르세데스벤츠/NNP+,/SP
+도요타	도요타/NNP
+등	등/NNB
+9개	9/SN+개/NNB
+자동차	자동차/NNG
+업체가	업체/NNG+가/JKS
+참가한다.	참가/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.1.15.2
+역대 최대다.
+
+역대	역대/NNG
+최대다.	최대/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.15.3
+업계에서는 스마트카 시장을 두고 구글과 애플이 또 한번 치열한 경쟁을 벌일 것으로 보고 있다.
+
+업계에서는	업계/NNG+에서/JKB+는/JX
+스마트카	스마트카/NNG
+시장을	시장/NNG+을/JKO
+두고	두/VV+고/EC
+구글과	구글/NNP+과/JKB
+애플이	애플/NNP+이/JKS
+또	또/MAG
+한번	한번/MAG
+치열한	치열/NNG+하/XSA+ㄴ/ETM
+경쟁을	경쟁/NNG+을/JKO
+벌일	벌이/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.1.15.4
+구글은 아우디와 안드로이드 OS를 기반으로 한 스마트카 시스템을 이달 중 선보일 예정이며, 애플도 BMW, 혼다, GM 등과 스마트카 프로젝트를 진행 중이다.
+
+구글은	구글/NNP+은/JX
+아우디와	아우디/NNP+와/JKB
+안드로이드	안드로이드/NNG
+OS를	OS/SL+를/JKO
+기반으로	기반/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+스마트카	스마트카/NNG
+시스템을	시스템/NNG+을/JKO
+이달	이달/NNG
+중	중/NNB
+선보일	선보이/VV+ㄹ/ETM
+예정이며,	예정/NNG+이/VCP+며/EC+,/SP
+애플도	애플/NNP+도/JX
+BMW,	BMW/SL+,/SP
+혼다,	혼다/NNP+,/SP
+GM	GM/SL
+등과	등/NNB+과/JC
+프로젝트를	프로젝트/NNG+를/JKO
+진행	진행/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.1.16.1
+CES를 주관하는 미국소비자가전협회(CEA)의 개리 샤피로 회장은 “모바일 기기와 자가용을 연동시키려는 소비자들이 늘면서 CES 참가 자동차 업체도 늘고 있다”고 했다.
+
+CES를	CES/SL+를/JKO
+주관하는	주관/NNG+하/XSV+는/ETM
+미국소비자가전협회(CEA)의	미국소비자가전협회/NNP+(/SS+CEA/SL+)/SS+의/JKG
+개리	개리/NNP
+샤피로	샤피로/NNP
+회장은	회장/NNG+은/JX
+“모바일	“/SS+모바일/NNG
+기기와	기기/NNG+와/JC
+자가용을	자가/NNG+용/XSN+을/JKO
+연동시키려는	연동/NNG+시키/XSV+려는/ETM
+소비자들이	소비자/NNG+들/XSN+이/JKS
+늘면서	늘/VV+면서/EC
+CES	CES/SL
+참가	참가/NNG
+자동차	자동차/NNG
+업체도	업체/NNG+도/JX
+늘고	늘/VV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

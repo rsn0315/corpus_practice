@@ -1,0 +1,284 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.431
+metadata : {}
+
+
+# id : NWRW1800000022.431.1.1
+우즈 집에 있던 장모, 구급차에 실려 병원으로;장모는 스웨덴 외무부 차관 출신 아내는 아이들 데리고 집 나가
+
+우즈	우즈/NNP
+집에	집/NNG+에/JKB
+있던	있/VA+던/ETM
+장모,	장모/NNG+,/SP
+구급차에	구급차/NNG+에/JKB
+실려	실리/VV+어/EC
+병원으로;장모는	병원/NNG+으로/JKB+;/SW+장모/NNG+는/JX
+스웨덴	스웨덴/NNP
+외무부	외무부/NNG
+차관	차관/NNG
+출신	출신/NNG
+아내는	아내/NNG+는/JX
+아이들	아이/NNG+들/XSN
+데리고	데리/VV+고/EC
+집	집/NNG
+나가	나가/VV+아/EF
+
+
+# id : NWRW1800000022.431.2.1
+골프 황제 타이거 우즈(Woods)의 집에서 그의 장모가 앰뷸런스에 실려 나갔다고, AP 등 주요 언론이 8일 보도했다.
+
+골프	골프/NNG
+황제	황제/NNG
+타이거	타이거/NNP
+우즈(Woods)의	우즈/NNP+(/SS+Woods/SL+)/SS+의/JKG
+집에서	집/NNG+에서/JKB
+그의	그/NP+의/JKG
+장모가	장모/NNG+가/JKS
+앰뷸런스에	앰뷸런스/NNG+에/JKB
+실려	실리/VV+어/EC
+나갔다고,	나가/VX+았/EP+다고/EC+,/SP
+AP	AP/SL
+등	등/NNB
+주요	주요/NNG
+언론이	언론/NNG+이/JKS
+8일	8/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.3.1
+우즈의 자택이 위치한 플로리다주 올랜도의 지역 방송인 WESH TV는 이날 오전 2시 36분 우즈의 집에서 응급 환자가 발생했다는 전화가 접수돼, 앰뷸런스가 출동했다고 보도했다.
+
+우즈의	우즈/NNP+의/JKG
+자택이	자택/NNG+이/JKS
+위치한	위치/NNG+하/XSV+ㄴ/ETM
+플로리다주	플로리다주/NNP
+올랜도의	올랜도/NNP+의/JKG
+지역	지역/NNG
+방송인	방송/NNG+이/VCP+ㄴ/ETM
+WESH	WESH/SL
+TV는	TV/SL+는/JX
+이날	이날/NNG
+오전	오전/NNG
+2시	2/SN+시/NNB
+36분	36/SN+분/NNB
+집에서	집/NNG+에서/JKB
+응급	응급/NNG
+환자가	환자/NNG+가/JKS
+발생했다는	발생/NNG+하/XSV+았/EP+다는/ETM
+전화가	전화/NNG+가/JKS
+접수돼,	접수/NNG+되/XSV+어/EC+,/SP
+앰뷸런스가	앰뷸런스/NNG+가/JKS
+출동했다고	출동/NNG+하/XSV+았/EP+다고/EC
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.3.2
+또 MSNBC방송과 폭스TV는 우즈의 집에서 우즈의 장모 바브로 홀름버그(Holmberg·57)가 들것에 실려 나와 인근 병원에 도착하는 장면을 방영했다.
+
+또	또/MAG
+MSNBC방송과	MSNBC/SL+방송/NNG+과/JC
+폭스TV는	폭스TV/NNP+는/JX
+우즈의	우즈/NNP+의/JKG
+집에서	집/NNG+에서/JKB
+장모	장모/NNG
+바브로	바브로/NNP
+홀름버그(Holmberg·57)가	홀름버그/NNP+(/SS+Holmberg/SL+·/SP+57/SN+)/SS+가/JKS
+들것에	들것/NNG+에/JKB
+실려	실리/VV+어/EC
+나와	나오/VV+아/EC
+인근	인근/NNG
+병원에	병원/NNG+에/JKB
+도착하는	도착/NNG+하/XSV+는/ETM
+장면을	장면/NNG+을/JKO
+방영했다.	방영/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.3.3
+이 방송에는 장모가 앰뷸런스로 병원에 도착, 병원의 비상 출입구로 들어가는 장면이 나왔다.
+
+이	이/MMD
+방송에는	방송/NNG+에/JKB+는/JX
+장모가	장모/NNG+가/JKS
+앰뷸런스로	앰뷸런스/NNG+로/JKB
+병원에	병원/NNG+에/JKB
+도착,	도착/NNG+,/SP
+병원의	병원/NNG+의/JKG
+비상	비상/NNG
+출입구로	출입구/NNG+로/JKB
+들어가는	들어가/VV+는/ETM
+장면이	장면/NNG+이/JKS
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.3.4
+방송은 "우즈의 장모와 쌍둥이 처제가 이날 우즈의 집을 방문했었다"고 보도했다.
+
+방송은	방송/NNG+은/JX
+"우즈의	"/SS+우즈/NNP+의/JKG
+장모와	장모/NNG+와/JC
+쌍둥이	쌍둥이/NNG
+처제가	처제/NNG+가/JKS
+이날	이날/NNG
+우즈의	우즈/NNP+의/JKG
+집을	집/NNG+을/JKO
+방문했었다"고	방문/NNG+하/XSV+았었/EP+다/EF+"/SS+고/JKQ
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.3.5
+목격자들은 "잠시후 우즈의 아내인 엘린 노르데그렌(Nordegren)과 비슷해 보이는 금발의 여성이 검은색 SUV인 캐딜락 에스컬레이드를 타고 잠시 후 병원을 빠져나갔다"고 말했다.
+
+목격자들은	목격자/NNG+들/XSN+은/JX
+"잠시후	"/SS+잠시/NNG+후/NNG
+우즈의	우즈/NNP+의/JKG
+아내인	아내/NNG+이/VCP+ㄴ/ETM
+엘린	엘린/NNP
+노르데그렌(Nordegren)과	노르데그렌/NNP+(/SS+Nordegren/SL+)/SS+과/JKB
+비슷해	비슷하/VA+아/EC
+보이는	보이/VV+는/ETM
+금발의	금발/NNG+의/JKG
+여성이	여성/NNG+이/JKS
+검은색	검은색/NNG
+SUV인	SUV/SL+이/VCP+ㄴ/ETM
+캐딜락	캐딜락/NNP
+에스컬레이드를	에스컬레이드/NNP+를/JKO
+타고	타/VV+고/EC
+잠시	잠시/MAG
+후	후/NNG
+병원을	병원/NNG+을/JKO
+빠져나갔다"고	빠져나가/VV+았/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.4.1
+우즈의 장모 홀름버그씨는 스웨덴 외무부 차관 출신이며, 우즈의 부인 엘린 노르데그렌에게는 쌍둥이 동생 조세핀이 있다.
+
+우즈의	우즈/NNP+의/JKG
+장모	장모/NNG
+홀름버그씨는	홀름버그/NNP+씨/NNB+는/JX
+스웨덴	스웨덴/NNP
+외무부	외무부/NNG
+차관	차관/NNG
+출신이며,	출신/NNG+이/VCP+며/EC+,/SP
+부인	부인/NNG
+엘린	엘린/NNP
+노르데그렌에게는	노르데그렌/NNP+에게/JKB+는/JX
+쌍둥이	쌍둥이/NNG
+동생	동생/NNG
+조세핀이	조세핀/NNP+이/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.431.4.2
+지금까지 드러난 우즈의 여인만도 레스토랑 종업원, 포르노 배우, 이름이 알려지지 않은 섹스 중독자 '쿠거(북미 퓨마)' 등 10명이 됐다.
+
+지금까지	지금/NNG+까지/JX
+드러난	드러나/VV+ㄴ/ETM
+우즈의	우즈/NNP+의/JKG
+여인만도	여인/NNG+만/JX+도/JX
+레스토랑	레스토랑/NNG
+종업원,	종업원/NNG+,/SP
+포르노	포르노/NNG
+배우,	배우/NNG+,/SP
+이름이	이름/NNG+이/JKS
+알려지지	알려지/VV+지/EC
+않은	않/VX+은/ETM
+섹스	섹스/NNG
+중독자	중독자/NNG
+'쿠거(북미	'/SS+쿠거/NNG+(/SS+북미/NNP
+퓨마)'	퓨마/NNG+)/SS+'/SS
+등	등/NNB
+10명이	10/SN+명/NNB+이/JKS
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.4.3
+'쿠거'는 미국 속어로 어린 남자를 찾아다니는 나이 든 독신 여성을 의미한다.
+
+'쿠거'는	'/SS+쿠거/NNG+'/SS+는/JX
+미국	미국/NNP
+속어로	속어/NNG+로/JKB
+어린	어리/VA+ㄴ/ETM
+남자를	남자/NNG+를/JKO
+찾아다니는	찾아다니/VV+는/ETM
+나이	나이/NNG
+든	들/VV+ㄴ/ETM
+독신	독신/NNG
+여성을	여성/NNG+을/JKO
+의미한다.	의미/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.431.5.1
+7일 우즈의 부인 엘린은 애들을 데리고 집을 나갔다.
+
+7일	7/SN+일/NNB
+우즈의	우즈/NNP+의/JKG
+부인	부인/NNG
+엘린은	엘린/NNP+은/JX
+애들을	애/NNG+들/XSN+을/JKO
+데리고	데리/VV+고/EC
+집을	집/NNG+을/JKO
+나갔다.	나가/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.5.2
+뉴욕데일리뉴스는 "엘린이 포르노 배우 출신 샘슨 보도 이후 고향인 스웨덴에 200만달러짜리 집을 구입했다"고 보도하기도 했다.
+
+뉴욕데일리뉴스는	뉴욕데일리뉴스/NNP+는/JX
+"엘린이	"/SS+엘린/NNP+이/JKS
+포르노	포르노/NNG
+배우	배우/NNG
+출신	출신/NNG
+샘슨	샘슨/NNP
+보도	보도/NNG
+이후	이후/NNG
+고향인	고향/NNG+이/VCP+ㄴ/ETM
+스웨덴에	스웨덴/NNP+에/JKB
+200만달러짜리	200/SN+만/NR+달러/NNB+짜리/XSN
+집을	집/NNG+을/JKO
+구입했다"고	구입/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+보도하기도	보도/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.5.3
+영국 언론들은 우즈가 여섯 번째 여인 로튼과는 자신의 집과 교회 주차장에서도 성관계를 맺었다고 보도했다.
+
+영국	영국/NNP
+언론들은	언론/NNG+들/XSN+은/JX
+우즈가	우즈/NNP+가/JKS
+여섯	여섯/NR
+번째	번/NNB+째/XSN
+여인	여인/NNG
+로튼과는	로튼/NNP+과/JKB+는/JX
+자신의	자신/NNG+의/JKG
+집과	집/NNG+과/JC
+교회	교회/NNG
+주차장에서도	주차장/NNG+에서/JKB+도/JX
+성관계를	성관계/NNG+를/JKO
+맺었다고	맺/VV+었/EP+다고/EC
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.431.5.4
+여성 성인잡지 플레이걸은 "우즈의 누드사진을 팔겠다는 제의가 들어와 사실 관계를 확인 중"이라고 발표했다.
+
+여성	여성/NNG
+성인잡지	성인/NNG+잡지/NNG
+플레이걸은	플레이걸/NNP+은/JX
+"우즈의	"/SS+우즈/NNP+의/JKG
+누드사진을	누드/NNG+사진/NNG+을/JKO
+팔겠다는	팔/VV+겠/EP+다는/ETM
+제의가	제의/NNG+가/JKS
+들어와	들어오/VV+아/EC
+사실	사실/NNG
+관계를	관계/NNG+를/JKO
+확인	확인/NNG
+중"이라고	중/NNB+"/SS+이라고/JKQ
+발표했다.	발표/NNG+하/XSV+았/EP+다/EF+./SF
+
+

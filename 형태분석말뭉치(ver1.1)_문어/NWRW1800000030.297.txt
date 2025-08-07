@@ -1,0 +1,360 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.297
+metadata : {}
+
+
+# id : NWRW1800000030.297.1.1
+해적이 2~3m 앞에서 쏜 총탄, 石선장 관통 안한 이유… 다른 곳 맞고 튕겨 맞았을 가능성
+
+해적이	해적/NNG+이/JKS
+2~3m	2/SN+~/SO+3/SN+m/SW
+앞에서	앞/NNG+에서/JKB
+쏜	쏘/VV+ㄴ/ETM
+총탄,	총탄/NNG+,/SP
+石선장	石/SH+선장/NNG
+관통	관통/NNG
+안한	안/MAG+하/VV+ㄴ/ETM
+이유…	이유/NNG+…/SE
+다른	다른/MMD
+곳	곳/NNG
+맞고	맞/VV+고/EC
+튕겨	튕기/VV+어/EC
+맞았을	맞/VV+았/EP+을/ETM
+가능성	가능/NNG+성/XSN
+
+
+# id : NWRW1800000030.297.2.1
+7일 삼호주얼리호 해적사건 수사결과 발표에서 지난달 21일 우리 해군의 진압작전이 시작되자 생포된 해적 한 명이 조타실 바닥에 엎드려 있던 석 선장을 향해 AK소총을 발사한 것으로 드러났다.
+
+7일	7/SN+일/NNB
+삼호주얼리호	삼호주얼리호/NNP
+해적사건	해적/NNG+사건/NNG
+수사결과	수사/NNG+결과/NNG
+발표에서	발표/NNG+에서/JKB
+지난달	지난달/NNG
+21일	21/SN+일/NNB
+우리	우리/NP
+해군의	해군/NNG+의/JKG
+진압작전이	진압/NNG+작전/NNG+이/JKS
+시작되자	시작/NNG+되/XSV+자/EC
+생포된	생포/NNG+되/XSV+ㄴ/ETM
+해적	해적/NNG
+한	한/MMN
+명이	명/NNB+이/JKS
+조타실	조타실/NNG
+바닥에	바닥/NNG+에/JKB
+엎드려	엎드리/VV+어/EC
+있던	있/VX+던/ETM
+석	석/NNP
+선장을	선장/NNG+을/JKO
+향해	향하/VV+아/EC
+AK소총을	AK/SL+소총/NNG+을/JKO
+발사한	발사/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+드러났다.	드러나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.2.2
+당시 해적은 2~3m의 가까운 거리에서 총을 쐈을 것으로 추정된다.
+
+당시	당시/NNG
+해적은	해적/NNG+은/JX
+2~3m의	2/SN+~/SO+3/SN+m/SW+의/JKG
+가까운	가깝/VA+ㄴ/ETM
+거리에서	거리/NNG+에서/JKB
+총을	총/NNG+을/JKO
+쐈을	쏘/VV+았/EP+을/ETM
+것으로	것/NNB+으로/JKB
+추정된다.	추정/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.297.2.3
+또 석 선장의 몸에선 모두 4발의 총알 등이 박혀 있었던 것으로 밝혀졌다.
+
+또	또/MAG
+석	석/NNP
+선장의	선장/NNG+의/JKG
+몸에선	몸/NNG+에서/JKB+ㄴ/JX
+모두	모두/MAG
+4발의	4/SN+발/NNB+의/JKG
+총알	총알/NNG
+등이	등/NNB+이/JKS
+박혀	박히/VV+어/EC
+있었던	있/VX+었/EP+던/ETM
+것으로	것/NNB+으로/JKB
+밝혀졌다.	밝혀지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.3.1
+석 선장은 몸에 6군데의 총상(또는 상처)을 입은 것으로 알려졌다.
+
+석	석/NNP
+선장은	선장/NNG+은/JX
+몸에	몸/NNG+에/JKB
+6군데의	6/SN+군데/NNB+의/JKG
+총상(또는	총상/NNG+(/SS+또는/MAG
+상처)을	상처/NNG+)/SS+을/JKO
+입은	입/VV+은/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.3.2
+하지만 발견된 총알 등은 4발이다.
+
+하지만	하지만/MAJ
+발견된	발견/NNG+되/XSV+ㄴ/ETM
+총알	총알/NNG
+등은	등/NNB+은/JX
+4발이다.	4/SN+발/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.3.3
+군과 아주대병원 안팎에서는 한 발의 총탄이 복수의 총상을 냈거나 총알이 관통상을 내고 빠져나갔을 것으로 보고 있다.
+
+군과	군/NNG+과/JC
+아주대병원	아주대병원/NNP
+안팎에서는	안팎/NNG+에서/JKB+는/JX
+한	한/MMN
+발의	발/NNB+의/JKG
+총탄이	총탄/NNG+이/JKS
+복수의	복수/NNG+의/JKG
+총상을	총상/NNG+을/JKO
+냈거나	내/VV+었/EP+거나/EC
+총알이	총알/NNG+이/JKS
+관통상을	관통상/NNG+을/JKO
+내고	내/VV+고/EC
+빠져나갔을	빠져나가/VV+았/EP+을/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.297.4.1
+해적이 쏜 총알에 대해서는 여러가지 가능성이 제기된다.
+
+해적이	해적/NNG+이/JKS
+쏜	쏘/VV+ㄴ/ETM
+총알에	총알/NNG+에/JKB
+대해서는	대하/VV+아서/EC+는/JX
+여러가지	여러/MMN+가지/NNB
+가능성이	가능/NNG+성/XSN+이/JKS
+제기된다.	제기/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.297.4.2
+미국 케이블 채널 디스커버리가 '지난 100년 동안 생산된 소총 중 세계 최고의 소총'으로 꼽기도 했던 AK-47 자동소총은 직경 7.62㎜, 길이 39㎜의 총탄을 사용한다.
+
+미국	미국/NNP
+케이블	케이블/NNG
+채널	채널/NNG
+디스커버리가	디스커버리/NNP+가/JKS
+'지난	'/SS+지나/VV+ㄴ/ETM
+100년	100/SN+년/NNB
+동안	동안/NNG
+생산된	생산/NNG+되/XSV+ㄴ/ETM
+소총	소총/NNG
+중	중/NNB
+세계	세계/NNG
+최고의	최고/NNG+의/JKG
+소총'으로	소총/NNG+'/SS+으로/JKB
+꼽기도	꼽/VV+기/ETN+도/JX
+했던	하/VX+았/EP+던/ETM
+AK-47	AK/SL+-/SO+47/SN
+자동소총은	자동/NNG+소총/NNG+은/JX
+직경	직경/NNG
+7.62㎜,	7/SN+./SP+62/SN+㎜/SW+,/SP
+길이	길이/NNG
+39㎜의	39/SN+㎜/SW+의/JKG
+총탄을	총탄/NNG+을/JKO
+사용한다.	사용/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.297.4.3
+격발된 총탄은 총구에서 초속 720m 속도로 날아간다.
+
+격발된	격발/NNG+되/XSV+ㄴ/ETM
+총탄은	총탄/NNG+은/JX
+총구에서	총구/NNG+에서/JKB
+초속	초속/NNG
+720m	720/SN+m/SW
+속도로	속도/NNG+로/JKB
+날아간다.	날아가/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.297.4.4
+정면에서 맞았다면 관통상을 입었을 확률이 높다.
+
+정면에서	정면/NNG+에서/JKB
+맞았다면	맞/VV+았/EP+다면/EC
+관통상을	관통상/NNG+을/JKO
+입었을	입/VV+었/EP+을/ETM
+확률이	확률/NNG+이/JKS
+높다.	높/VA+다/EF+./SF
+
+
+# id : NWRW1800000030.297.5.1
+석 선장을 치료하는 아주대병원 의료진이 총탄이 다른 곳에 맞고 튀어나와 2차로 석 선장 몸에 맞았을 가능성이 있다고 보는 것도 이 때문이다.
+
+석	석/NNP
+선장을	선장/NNG+을/JKO
+치료하는	치료/NNG+하/XSV+는/ETM
+아주대병원	아주대병원/NNP
+의료진이	의료진/NNG+이/JKS
+총탄이	총탄/NNG+이/JKS
+다른	다른/MMD
+곳에	곳/NNG+에/JKB
+맞고	맞/VV+고/EC
+튀어나와	튀어나오/VV+아/EC
+2차로	2/SN+차/NNB+로/JKB
+선장	선장/NNG
+몸에	몸/NNG+에/JKB
+맞았을	맞/VV+았/EP+을/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+있다고	있/VA+다고/EC
+보는	보/VV+는/ETM
+것도	것/NNB+도/JX
+이	이/NP
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.6.1
+총기와 탄환의 재질과 상태, 총을 맞는 상황에 따라 총알이 몸에 남아 있을 수도 있다는 지적도 나온다.
+
+총기와	총기/NNG+와/JC
+탄환의	탄환/NNG+의/JKG
+재질과	재질/NNG+과/JC
+상태,	상태/NNG+,/SP
+총을	총/NNG+을/JKO
+맞는	맞/VV+는/ETM
+상황에	상황/NNG+에/JKB
+따라	따르/VV+아/EC
+총알이	총알/NNG+이/JKS
+몸에	몸/NNG+에/JKB
+남아	남/VV+아/EC
+있을	있/VX+을/ETM
+수도	수/NNB+도/JX
+있다는	있/VA+다는/ETM
+지적도	지적/NNG+도/JX
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.297.6.2
+양욱 한국국방안보포럼(KODEF) 연구위원은 "해적이 사용한 소총이 통상적인 기능을 발휘하지 못했을 수도 있고 탄환에 문제가 있었을 수도 있으며, 석 선장이 총을 맞는 순간 몸의 상태와 각도 등에 영향을 받았을 수도 있다"고 말했다.
+
+양욱	양욱/NNP
+한국국방안보포럼(KODEF)	한국국방안보포럼/NNP+(/SS+KODEF/SL+)/SS
+연구위원은	연구/NNG+위원/NNG+은/JX
+"해적이	"/SS+해적/NNG+이/JKS
+사용한	사용/NNG+하/XSV+ㄴ/ETM
+소총이	소총/NNG+이/JKS
+통상적인	통상/NNG+적/XSN+이/VCP+ㄴ/ETM
+기능을	기능/NNG+을/JKO
+발휘하지	발휘/NNG+하/XSV+지/EC
+못했을	못하/VX+았/EP+을/ETM
+수도	수/NNB+도/JX
+있고	있/VA+고/EC
+탄환에	탄환/NNG+에/JKB
+문제가	문제/NNG+가/JKS
+있었을	있/VA+었/EP+을/ETM
+있으며,	있/VA+으며/EC+,/SP
+석	석/NNP
+선장이	선장/NNG+이/JKS
+총을	총/NNG+을/JKO
+맞는	맞/VV+는/ETM
+순간	순간/NNG
+몸의	몸/NNG+의/JKG
+상태와	상태/NNG+와/JC
+각도	각도/NNG
+등에	등/NNB+에/JKB
+영향을	영향/NNG+을/JKO
+받았을	받/VV+았/EP+을/ETM
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.7.1
+한편 우리 해군이 쏜 한 발의 총탄은 권총이나 MP5 기관단총에서 발사된 것으로 추정됐다.
+
+한편	한편/MAG
+우리	우리/NP
+해군이	해군/NNG+이/JKS
+쏜	쏘/VV+ㄴ/ETM
+한	한/MMN
+발의	발/NNB+의/JKG
+총탄은	총탄/NNG+은/JX
+권총이나	권총/NNG+이나/JC
+MP5	MP/SL+5/SN
+기관단총에서	기관/NNG+단총/NNG+에서/JKB
+발사된	발사/NNG+되/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+추정됐다.	추정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.297.7.2
+작전 과정에서 다른 곳에 맞고 튀었거나 유탄이었을 가능성이 나온다.
+
+작전	작전/NNG
+과정에서	과정/NNG+에서/JKB
+다른	다른/MMD
+곳에	곳/NNG+에/JKB
+맞고	맞/VV+고/EC
+튀었거나	튀/VV+었/EP+거나/EC
+유탄이었을	유탄/NNG+이/VCP+었/EP+을/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.297.7.3
+합참은 이날 자료를 내고 "UDT 작전팀이 선교에 진입할 당시 석 선장은 이미 해적이 쏜 총에 의해 총상을 입고 바닥에 쓰러져 있었다"면서 "해경에서 발표한 한 발은 (해적과) 교전하는 사이 발생한 유탄일 가능성을 배제할 수 없지만 정확한 것은 국과수 최종 감식결과가 나와야 확인될 수 있을 것"이라고 말했다.
+
+합참은	합참/NNG+은/JX
+이날	이날/NNG
+자료를	자료/NNG+를/JKO
+내고	내/VV+고/EC
+"UDT	"/SS+UDT/SL
+작전팀이	작전/NNG+팀/NNG+이/JKS
+선교에	선교/NNG+에/JKB
+진입할	진입/NNG+하/XSV+ㄹ/ETM
+당시	당시/NNG
+석	석/NNP
+선장은	선장/NNG+은/JX
+이미	이미/MAG
+해적이	해적/NNG+이/JKS
+쏜	쏘/VV+ㄴ/ETM
+총에	총/NNG+에/JKB
+의해	의하/VV+아/EC
+총상을	총상/NNG+을/JKO
+입고	입/VV+고/EC
+바닥에	바닥/NNG+에/JKB
+쓰러져	쓰러지/VV+어/EC
+있었다"면서	있/VX+었/EP+다/EF+"/SS+면서/EC
+"해경에서	"/SS+해경/NNG+에서/JKB
+발표한	발표/NNG+하/XSV+ㄴ/ETM
+한	한/MMN
+발은	발/NNB+은/JX
+(해적과)	(/SS+해적/NNG+과/JKB+)/SS
+교전하는	교전/NNG+하/XSV+는/ETM
+사이	사이/NNG
+발생한	발생/NNG+하/XSV+ㄴ/ETM
+유탄일	유탄/NNG+이/VCP+ㄹ/ETM
+가능성을	가능/NNG+성/XSN+을/JKO
+배제할	배제/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+없지만	없/VA+지만/EC
+정확한	정확/NNG+하/XSA+ㄴ/ETM
+것은	것/NNB+은/JX
+국과수	국과수/NNP
+최종	최종/NNG
+감식결과가	감식/NNG+결과/NNG+가/JKS
+나와야	나오/VV+아야/EC
+확인될	확인/NNG+되/XSV+ㄹ/ETM
+있을	있/VA+을/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

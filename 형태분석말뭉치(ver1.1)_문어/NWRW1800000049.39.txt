@@ -1,0 +1,485 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.39
+metadata : {}
+
+
+# id : NWRW1800000049.39.1.1
+[중소·중견기업]UPS 분야 등 특수제품 소량 생산으로 차별화된 경쟁력
+
+[중소·중견기업]UPS	[/SS+중소/NNG+·/SP+중견/NNG+기업/NNG+]/SS+UPS/SL
+분야	분야/NNG
+등	등/NNB
+특수제품	특수/NNG+제품/NNG
+소량	소량/NNG
+생산으로	생산/NNG+으로/JKB
+차별화된	차별/NNG+화/XSN+되/XSV+ㄴ/ETM
+경쟁력	경쟁력/NNG
+
+
+# id : NWRW1800000049.39.2.1
+㈜예성엔지니어링
+
+㈜예성엔지니어링	㈜/SW+예성엔지니어링/NNP
+
+
+# id : NWRW1800000049.39.3.1
+기업의 모토는 곧 기업의 철학을 반영한다.
+
+기업의	기업/NNG+의/JKG
+모토는	모토/NNG+는/JX
+곧	곧/MAG
+철학을	철학/NNG+을/JKO
+반영한다.	반영/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.39.3.2
+거기에는 해당 기업이 고객에게 제공하는 가치가 담길 뿐 아니라, 중요하게 여기는 비전과 철학이 반영되기도 한다.
+
+거기에는	거기/NP+에/JKB+는/JX
+해당	해당/NNG
+기업이	기업/NNG+이/JKS
+고객에게	고객/NNG+에게/JKB
+제공하는	제공/NNG+하/XSV+는/ETM
+가치가	가치/NNG+가/JKS
+담길	담기/VV+ㄹ/ETM
+뿐	뿐/NNB
+아니라,	아니/VCN+라/EC+,/SP
+중요하게	중요/NNG+하/XSA+게/EC
+여기는	여기/VV+는/ETM
+비전과	비전/NNG+과/JC
+철학이	철학/NNG+이/JKS
+반영되기도	반영/NNG+되/XSV+기/ETN+도/JX
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.39.3.3
+1994년 케이블방송 토털 솔루션을 시작으로 방송실 시설공사 전문회사로 설립된 ㈜예성엔지니어링(대표 장갑동·www.yesups.co.kr)은 특별한 모토를 내세우며 업계의 주목을 받았다.
+
+1994년	1994/SN+년/NNB
+케이블방송	케이블/NNG+방송/NNG
+토털	토털/NNG
+솔루션을	솔루션/NNG+을/JKO
+시작으로	시작/NNG+으로/JKB
+방송실	방송실/NNG
+시설공사	시설/NNG+공사/NNG
+전문회사로	전문/NNG+회사/NNG+로/JKB
+설립된	설립/NNG+되/XSV+ㄴ/ETM
+㈜예성엔지니어링(대표	㈜/SW+예성엔지니어링/NNP+(/SS+대표/NNG
+장갑동·www.yesups.co.kr)은	장갑동/NNP+·/SP+www/SL+./SP+yesups/SL+./SP+co/SL+./SP+kr/SL+)/SS+은/JX
+특별한	특별/NNG+하/XSA+ㄴ/ETM
+모토를	모토/NNG+를/JKO
+내세우며	내세우/VV+며/EC
+업계의	업계/NNG+의/JKG
+주목을	주목/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.3.4
+바로 ‘천지인물불’.
+
+바로	바로/MAG
+‘천지인물불’.	‘/SS+천지인/NNG+물/NNG+불/NNG+’/SS+./SF
+
+
+# id : NWRW1800000049.39.3.5
+여기서 ‘하늘은 고객, 땅은 최상의 제품, 사람은 인재 육성, 물은 고객과 직원, 제품이 서로 잘 순환하고 화합하는 모습, 그리고 불은 창조와 개발’을 뜻한다.
+
+여기서	여기/NP+서/JKB
+‘하늘은	‘/SS+하늘/NNG+은/JX
+고객,	고객/NNG+,/SP
+땅은	땅/NNG+은/JX
+최상의	최상/NNG+의/JKG
+제품,	제품/NNG+,/SP
+사람은	사람/NNG+은/JX
+인재	인재/NNG
+육성,	육성/NNG+,/SP
+물은	물/NNG+은/JX
+고객과	고객/NNG+과/JC
+직원,	직원/NNG+,/SP
+제품이	제품/NNG+이/JKS
+서로	서로/MAG
+잘	잘/MAG
+순환하고	순환/NNG+하/XSV+고/EC
+화합하는	화합/NNG+하/XSV+는/ETM
+모습,	모습/NNG+,/SP
+그리고	그리고/MAJ
+불은	불/NNG+은/JX
+창조와	창조/NNG+와/JC
+개발’을	개발/NNG+’/SS+을/JKO
+뜻한다.	뜻/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.39.3.6
+이후 무정전 전원장치(UPS) 분야의 제조에 직접 뛰어들며 전력장비 생산을 넘어 각종 엔지니어링 사업까지 사업 범위를 확장한 동사는 최상의 서비스와 품질로 고객들의 신뢰를 쌓아왔다.
+
+이후	이후/NNG
+무정전	무/XPN+정전/NNG
+전원장치(UPS)	전원/NNG+장치/NNG+(/SS+UPS/SL+)/SS
+분야의	분야/NNG+의/JKG
+제조에	제조/NNG+에/JKB
+직접	직접/MAG
+뛰어들며	뛰어들/VV+며/EC
+전력장비	전력/NNG+장비/NNG
+생산을	생산/NNG+을/JKO
+넘어	넘/VV+어/EC
+각종	각종/NNG
+엔지니어링	엔지니어링/NNG
+사업까지	사업/NNG+까지/JX
+사업	사업/NNG
+범위를	범위/NNG+를/JKO
+확장한	확장/NNG+하/XSV+ㄴ/ETM
+동사는	동사/NNG+는/JX
+최상의	최상/NNG+의/JKG
+서비스와	서비스/NNG+와/JC
+품질로	품질/NNG+로/JKB
+고객들의	고객/NNG+들/XSN+의/JKG
+신뢰를	신뢰/NNG+를/JKO
+쌓아왔다.	쌓/VV+아/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.3.7
+오랫동안 안정적인 매출과 거래처를 확보하며 사업을 발전시켜온 예성엔지니어링의 발자취가 이를 증명해주고 있다.
+
+오랫동안	오랫동안/NNG
+안정적인	안정/NNG+적/XSN+이/VCP+ㄴ/ETM
+매출과	매출/NNG+과/JC
+거래처를	거래처/NNG+를/JKO
+확보하며	확보/NNG+하/XSV+며/EC
+사업을	사업/NNG+을/JKO
+발전시켜온	발전/NNG+시키/XSV+어/EC+오/VX+ㄴ/ETM
+예성엔지니어링의	예성엔지니어링/NNP+의/JKG
+발자취가	발자취/NNG+가/JKS
+이를	이/NP+를/JKO
+증명해주고	증명/NNG+하/XSV+아/EC+주/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.4.1
+현재 예성엔지니어링은 주력 제품인 UPS를 비롯해 통신용 정류기, 자동전압조정기, 파워장비, 특수용량의 주문제작 제품 등을 만들고 있다.
+
+현재	현재/MAG
+예성엔지니어링은	예성엔지니어링/NNP+은/JX
+주력	주력/NNG
+제품인	제품/NNG+이/VCP+ㄴ/ETM
+UPS를	UPS/SL+를/JKO
+비롯해	비롯하/VV+아/EC
+통신용	통신/NNG+용/XSN
+정류기,	정류기/NNG+,/SP
+자동전압조정기,	자동/NNG+전압/NNG+조정기/NNG+,/SP
+파워장비,	파워/NNG+장비/NNG+,/SP
+특수용량의	특수/NNG+용량/NNG+의/JKG
+주문제작	주문/NNG+제작/NNG
+제품	제품/NNG
+등을	등/NNB+을/JKO
+만들고	만들/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.4.2
+일반적으로 제조사들은 대량 생산을 추구하는 편이지만, 동사는 고객이 주문하는 특수 제품을 소량으로 제작하고 있다.
+
+일반적으로	일반/NNG+적/XSN+으로/JKB
+제조사들은	제조사/NNG+들/XSN+은/JX
+대량	대량/NNG
+생산을	생산/NNG+을/JKO
+추구하는	추구/NNG+하/XSV+는/ETM
+편이지만,	편/NNB+이/VCP+지만/EC+,/SP
+동사는	동사/NNG+는/JX
+고객이	고객/NNG+이/JKS
+주문하는	주문/NNG+하/XSV+는/ETM
+특수	특수/NNG
+제품을	제품/NNG+을/JKO
+소량으로	소량/NNG+으로/JKB
+제작하고	제작/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.4.3
+이는 까다로운 고객들의 니즈를 반영할 뿐 아니라, 특수 제품으로 차별화한 예성엔지니어링의 경쟁력이 반영된 결과다.
+
+이는	이/NP+는/JX
+까다로운	까다롭/VA+ㄴ/ETM
+고객들의	고객/NNG+들/XSN+의/JKG
+니즈를	니즈/NNG+를/JKO
+반영할	반영/NNG+하/XSV+ㄹ/ETM
+뿐	뿐/NNB
+아니라,	아니/VCN+라/EC+,/SP
+특수	특수/NNG
+제품으로	제품/NNG+으로/JKB
+차별화한	차별/NNG+화/XSN+하/XSV+ㄴ/ETM
+예성엔지니어링의	예성엔지니어링/NNP+의/JKG
+경쟁력이	경쟁력/NNG+이/JKS
+반영된	반영/NNG+되/XSV+ㄴ/ETM
+결과다.	결과/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.5.1
+현재 UPS 시장은 국내 신규 시장이 부족한 탓에 기존 판매 제품의 유지관리가 중점이 되어야 한다.
+
+현재	현재/MAG
+UPS	UPS/SL
+시장은	시장/NNG+은/JX
+국내	국내/NNG
+신규	신규/NNG
+시장이	시장/NNG+이/JKS
+부족한	부족/NNG+하/XSA+ㄴ/ETM
+탓에	탓/NNG+에/JKB
+기존	기존/NNG
+판매	판매/NNG
+제품의	제품/NNG+의/JKG
+유지관리가	유지/NNG+관리/NNG+가/JKS
+중점이	중점/NNG+이/JKC
+되어야	되/VV+어야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.39.5.2
+국내는 여전히 한정된 시장이라 성장이 어려운 아이템이고, 중국의 대량 생산으로 동남아 시장이 잠식되어 해외 시장 공략에도 어려움을 겪고 있다.
+
+국내는	국내/NNG+는/JX
+여전히	여전히/MAG
+한정된	한정/NNG+되/XSV+ㄴ/ETM
+시장이라	시장/NNG+이/VCP+라/EC
+성장이	성장/NNG+이/JKS
+어려운	어렵/VA+ㄴ/ETM
+아이템이고,	아이템/NNG+이/VCP+고/EC+,/SP
+중국의	중국/NNP+의/JKG
+대량	대량/NNG
+생산으로	생산/NNG+으로/JKB
+동남아	동남아/NNP
+시장이	시장/NNG+이/JKS
+잠식되어	잠식/NNG+되/XSV+어/EC
+해외	해외/NNG
+시장	시장/NNG
+공략에도	공략/NNG+에/JKB+도/JX
+어려움을	어려움/NNG+을/JKO
+겪고	겪/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.5.3
+그나마 관수시장이 점유율이 높은데, 예산이 많지 않아 교체, 설치 등이 제 때 잘 이뤄지지 못하고 있다.
+
+그나마	그나마/MAG
+관수시장이	관수/NNG+시장/NNG+이/JKS
+점유율이	점유/NNG+율/XSN+이/JKS
+높은데,	높/VA+은데/EC+,/SP
+예산이	예산/NNG+이/JKS
+많지	많/VA+지/EC
+않아	않/VX+아/EC
+교체,	교체/NNG+,/SP
+설치	설치/NNG
+등이	등/NNB+이/JKS
+제	제/NA
+때	때/NNG
+잘	잘/MAG
+이뤄지지	이뤄지/VV+지/EC
+못하고	못하/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.5.4
+이에 장 대표는 대책을 마련하기 시작해 해외 브랜드와의 제휴, ESS 장비와의 접목, 기존 장비의 유지관리 시스템 강화 등을 적극 강구하고 있다.
+
+이에	이/NP+에/JKB
+장	장/NNP
+대표는	대표/NNG+는/JX
+대책을	대책/NNG+을/JKO
+마련하기	마련/NNG+하/XSV+기/ETN
+시작해	시작/NNG+하/XSV+아/EC
+해외	해외/NNG
+브랜드와의	브랜드/NNG+와/JKB+의/JKG
+제휴,	제휴/NNG+,/SP
+ESS	ESS/SL
+장비와의	장비/NNG+와/JKB+의/JKG
+접목,	접목/NNG+,/SP
+기존	기존/NNG
+장비의	장비/NNG+의/JKG
+유지관리	유지/NNG+관리/NNG
+시스템	시스템/NNG
+강화	강화/NNG
+등을	등/NNB+을/JKO
+적극	적극/NNG
+강구하고	강구/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.6.1
+특히 향후 ESS 시장이 활성화될 것에 대비해 ESS 장비와의 접목을 통한 판매망 확충을 모색하고 있다.
+
+특히	특히/MAG
+향후	향후/NNG
+ESS	ESS/SL
+시장이	시장/NNG+이/JKS
+활성화될	활성/NNG+화/XSN+되/XSV+ㄹ/ETM
+것에	것/NNB+에/JKB
+대비해	대비/NNG+하/XSV+아/EC
+장비와의	장비/NNG+와/JKB+의/JKG
+접목을	접목/NNG+을/JKO
+통한	통하/VV+ㄴ/ETM
+판매망	판매망/NNG
+확충을	확충/NNG+을/JKO
+모색하고	모색/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.6.2
+이미 제품 개발이 완료된 상황에서 내년부터 본격적인 양산화에 들어갈 계획이다.
+
+이미	이미/MAG
+제품	제품/NNG
+개발이	개발/NNG+이/JKS
+완료된	완료/NNG+되/XSV+ㄴ/ETM
+상황에서	상황/NNG+에서/JKB
+내년부터	내년/NNG+부터/JX
+본격적인	본격/NNG+적/XSN+이/VCP+ㄴ/ETM
+양산화에	양산/NNG+화/XSN+에/JKB
+들어갈	들어가/VV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.6.3
+이에 더해 장 대표는 “기존의 UPS가 일정 단위로 출력과 용량을 넓힐 수 있는 모듈형 UPS로 활성화될 것”이라 전망하며, 델타사와의 모듈형 UPS 협력 개발을 추진 중이다.
+
+이에	이/NP+에/JKB
+더해	더/MAG+하/XSV+아/EC
+장	장/NNP
+대표는	대표/NNG+는/JX
+“기존의	“/SS+기존/NNG+의/JKG
+UPS가	UPS/SL+가/JKS
+일정	일정/NNG
+단위로	단위/NNG+로/JKB
+출력과	출력/NNG+과/JC
+용량을	용량/NNG+을/JKO
+넓힐	넓히/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+모듈형	모듈/NNG+형/XSN
+UPS로	UPS/SL+로/JKB
+활성화될	활성/NNG+화/XSN+되/XSV+ㄹ/ETM
+것”이라	것/NNB+”/SS+이라/JKQ
+전망하며,	전망/NNG+하/XSV+며/EC+,/SP
+델타사와의	델타사/NNP+와/JKB+의/JKG
+UPS	UPS/SL
+협력	협력/NNG
+개발을	개발/NNG+을/JKO
+추진	추진/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.6.4
+아울러 기존 장비의 유지 관리를 위해 ‘제품 모니터링 시스템’도 개발하고 있다.
+
+아울러	아울러/MAG
+기존	기존/NNG
+장비의	장비/NNG+의/JKG
+유지	유지/NNG
+관리를	관리/NNG+를/JKO
+위해	위하/VV+아/EC
+‘제품	‘/SS+제품/NNG
+모니터링	모니터링/NNG
+시스템’도	시스템/NNG+’/SS+도/JX
+개발하고	개발/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.39.6.5
+현재 온라인으로 제품을 모니터링 할 수 있는 시스템 개발이 거의 완료된 상태로 품질 개선에 더욱 박차를 가할 예정이다.
+
+현재	현재/MAG
+온라인으로	온라인/NNG+으로/JKB
+제품을	제품/NNG+을/JKO
+모니터링	모니터링/NNG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+시스템	시스템/NNG
+개발이	개발/NNG+이/JKS
+거의	거의/MAG
+완료된	완료/NNG+되/XSV+ㄴ/ETM
+상태로	상태/NNG+로/JKB
+품질	품질/NNG
+개선에	개선/NNG+에/JKB
+더욱	더욱/MAG
+박차를	박차/NNG+를/JKO
+가할	가하/VV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.6.6
+이 모든 건 소프트웨어를 통신과 접목해 돌파구를 찾으려는 장 대표의 생각이 투영된 결과였다.
+
+이	이/MMD
+모든	모든/MMN
+건	거/NNB+ㄴ/JX
+소프트웨어를	소프트웨어/NNG+를/JKO
+통신과	통신/NNG+과/JKB
+접목해	접목/NNG+하/XSV+아/EC
+돌파구를	돌파구/NNG+를/JKO
+찾으려는	찾/VV+으려는/ETM
+장	장/NNP
+대표의	대표/NNG+의/JKG
+생각이	생각/NNG+이/JKS
+투영된	투영/NNG+되/XSV+ㄴ/ETM
+결과였다.	결과/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.7.1
+장 대표는 “앞으로 정부나 관공서 등의 국가기관에서 먼저 국산 제품을 이용해줬으면 한다”는 바람을 밝히며 “많은 기업들이 상생할 수 있도록 한두 개 기업만 이용하지 말고 가급적 여러 기업에 기회를 제공해줬으면 한다”고 덧붙였다.
+
+장	장/NNP
+대표는	대표/NNG+는/JX
+“앞으로	“/SS+앞/NNG+으로/JKB
+정부나	정부/NNG+나/JC
+관공서	관공서/NNG
+등의	등/NNB+의/JKG
+국가기관에서	국가/NNG+기관/NNG+에서/JKB
+먼저	먼저/MAG
+국산	국산/NNG
+제품을	제품/NNG+을/JKO
+이용해줬으면	이용/NNG+하/XSV+아/EC+주/VX+었/EP+으면/EC
+한다”는	하/VX+ㄴ다/EF+”/SS+는/ETM
+바람을	바람/NNG+을/JKO
+밝히며	밝히/VV+며/EC
+“많은	“/SS+많/VA+은/ETM
+기업들이	기업/NNG+들/XSN+이/JKS
+상생할	상생/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+한두	한두/MMN
+개	개/NNB
+기업만	기업/NNG+만/JX
+이용하지	이용/NNG+하/XSV+지/EC
+말고	말/VX+고/EC
+가급적	가급적/MAG
+여러	여러/MMN
+기업에	기업/NNG+에/JKB
+기회를	기회/NNG+를/JKO
+제공해줬으면	제공/NNG+하/XSV+아/EC+주/VX+었/EP+으면/EC
+한다”고	하/VX+ㄴ다/EF+”/SS+고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.39.7.2
+자사 제품을 넘은 그의 관심과 배려가 곧 천지인물불의 기업 모토를 그대로 반영하고 있는 듯했다.
+
+자사	자사/NNG
+제품을	제품/NNG+을/JKO
+넘은	넘/VV+은/ETM
+그의	그/NP+의/JKG
+관심과	관심/NNG+과/JC
+배려가	배려/NNG+가/JKS
+곧	곧/MAG
+천지인물불의	천지인/NNG+물/NNG+불/NNG+의/JKG
+기업	기업/NNG
+모토를	모토/NNG+를/JKO
+그대로	그대로/MAG
+반영하고	반영/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+듯했다.	듯/NNB+하/XSA+았/EP+다/EF+./SF
+
+

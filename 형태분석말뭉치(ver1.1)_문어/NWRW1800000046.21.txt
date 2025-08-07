@@ -1,0 +1,236 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.21
+metadata : {}
+
+
+# id : NWRW1800000046.21.1.1
+[깨알지식] 아시아人 승진 차별의 벽 '대나무 천장(bamboo ceiling)'
+
+[깨알지식]	[/SS+깨알/NNG+지식/NNG+]/SS
+아시아人	아시아/NNP+人/SH
+승진	승진/NNG
+차별의	차별/NNG+의/JKG
+벽	벽/NNG
+'대나무	'/SS+대나무/NNG
+천장(bamboo	천장/NNG+(/SS+bamboo/SL
+ceiling)'	ceiling/SL+)/SS+'/SS
+
+
+# id : NWRW1800000046.21.2.1
+호주 법조계에서 아시아계가 '대나무 천장 (bamboo ceiling)'에 가로막혀 고위직으로 진출하지 못하는 현상이 두드러지고 있다고 영국 일간 가디언이 최근 보도했다.
+
+호주	호주/NNP
+법조계에서	법조/NNG+계/XSN+에서/JKB
+아시아계가	아시아/NNP+계/XSN+가/JKS
+'대나무	'/SS+대나무/NNG
+천장	천장/NNG
+(bamboo	(/SS+bamboo/SL
+ceiling)'에	ceiling/SL+)/SS+'/SS+에/JKB
+가로막혀	가로막히/VV+어/EC
+고위직으로	고위직/NNG+으로/JKB
+진출하지	진출/NNG+하/XSV+지/EC
+못하는	못하/VX+는/ETM
+현상이	현상/NNG+이/JKS
+두드러지고	두드러지/VV+고/EC
+있다고	있/VX+다고/EC
+영국	영국/NNP
+일간	일간/NNG
+가디언이	가디언/NNP+이/JKS
+최근	최근/MAG
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.21.3.1
+'대나무 천장'은 서구 사회에서 아시아 국적이나 아시아계 이민자의 고위직 상승을 막는 보이지 않는 장벽을 일컫는 신조어다.
+
+'대나무	'/SS+대나무/NNG
+천장'은	천장/NNG+'/SS+은/JX
+서구	서구/NNG
+사회에서	사회/NNG+에서/JKB
+아시아	아시아/NNP
+국적이나	국적/NNG+이나/JC
+아시아계	아시아/NNP+계/XSN
+이민자의	이민자/NNG+의/JKG
+고위직	고위직/NNG
+상승을	상승/NNG+을/JKO
+막는	막/VV+는/ETM
+보이지	보이/VV+지/EC
+않는	않/VX+는/ETM
+장벽을	장벽/NNG+을/JKO
+일컫는	일컫/VV+는/ETM
+신조어다.	신조어/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.21.3.2
+한인 이민자 출신으로 JP모건에서 인사 업무를 해온 제인 현(Jane Hyun)이 2005년 발간한 책 '대나무 천장 부수기(Breaking the Bamboo Ceiling)'에 처음 등장한 이후, 아시아계 차별 문제를 논할 때 자주 사용돼왔다.
+
+한인	한인/NNG
+이민자	이민자/NNG
+출신으로	출신/NNG+으로/JKB
+JP모건에서	JP모건/NNP+에서/JKB
+인사	인사/NNG
+업무를	업무/NNG+를/JKO
+해온	하/VV+아/EC+오/VX+ㄴ/ETM
+제인	제인/NNP
+현(Jane	현/NNP+(/SS+Jane/SL
+Hyun)이	Hyun/SL+)/SS+이/JKS
+2005년	2005/SN+년/NNB
+발간한	발간/NNG+하/XSV+ㄴ/ETM
+책	책/NNG
+'대나무	'/SS+대나무/NNG
+천장	천장/NNG
+부수기(Breaking	부수/VV+기/ETN+(/SS+Breaking/SL
+the	the/SL
+Bamboo	Bamboo/SL
+Ceiling)'에	Ceiling/SL+)/SS+'/SS+에/JKB
+처음	처음/NNG
+등장한	등장/NNG+하/XSV+ㄴ/ETM
+이후,	이후/NNG+,/SP
+아시아계	아시아/NNP+계/XSN
+차별	차별/NNG
+문제를	문제/NNG+를/JKO
+논할	논하/VV+ㄹ/ETM
+때	때/NNG
+자주	자주/MAG
+사용돼왔다.	사용/NNG+되/XSV+어/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.21.4.1
+저자는 "아시안은 조용하고 묵묵히 순종하며 강인한 리더십이 부족하다는 편견이 '대나무 천장'을 만든다"고 주장한다.
+
+저자는	저자/NNG+는/JX
+"아시안은	"/SS+아시안/NNG+은/JX
+조용하고	조용하/VA+고/EC
+묵묵히	묵묵히/MAG
+순종하며	순종/NNG+하/XSV+며/EC
+강인한	강인하/VA+ㄴ/ETM
+리더십이	리더십/NNG+이/JKS
+부족하다는	부족/NNG+하/XSA+다는/ETM
+편견이	편견/NNG+이/JKS
+'대나무	'/SS+대나무/NNG
+천장'을	천장/NNG+'/SS+을/JKO
+만든다"고	만들/VV+ㄴ다/EF+"/SS+고/JKQ
+주장한다.	주장/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.21.5.1
+호주 내 아시아계 변호사협회에 따르면, 법조계에서도 고위직에 속하는 로펌 파트너 변호사와 법정변호사(barrister·법정에서 변호 업무를 하는 변호사) 중 아시아계 비율은 각각 3%와 2%, 판사는 단 1%에 그쳤다.
+
+호주	호주/NNP
+내	내/NNB
+아시아계	아시아/NNP+계/XSN
+변호사협회에	변호사/NNG+협회/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+법조계에서도	법조/NNG+계/XSN+에서/JKB+도/JX
+고위직에	고위직/NNG+에/JKB
+속하는	속하/VV+는/ETM
+로펌	로펌/NNG
+파트너	파트너/NNG
+변호사와	변호사/NNG+와/JC
+법정변호사(barrister·법정에서	법정/NNG+변호사/NNG+(/SS+barrister/SL+·/SP+법정/NNG+에서/JKB
+변호	변호/NNG
+업무를	업무/NNG+를/JKO
+하는	하/VV+는/ETM
+변호사)	변호사/NNG+)/SS
+중	중/NNB
+비율은	비율/NNG+은/JX
+각각	각각/MAG
+3%와	3/SN+%/SW+와/JC
+2%,	2/SN+%/SW+,/SP
+판사는	판사/NNG+는/JX
+단	단/MMA
+1%에	1/SN+%/SW+에/JKB
+그쳤다.	그치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.21.5.2
+반면 사무 변호사(solicitor·법정 밖에서 법률 서비스를 하는 변호사)는 10%가 아시아계였다.
+
+반면	반면/NNG
+사무	사무/NNG
+변호사(solicitor·법정	변호사/NNG+(/SS+solicitor/SL+·/SP+법정/NNG
+밖에서	밖/NNG+에서/JKB
+법률	법률/NNG
+서비스를	서비스/NNG+를/JKO
+하는	하/VV+는/ETM
+변호사)는	변호사/NNG+)/SS+는/JX
+10%가	10/SN+%/SW+가/JKS
+아시아계였다.	아시아/NNP+계/XSN+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.21.5.3
+호주에서 아시아계는 전체 인구의 10%를 차지하고 있다.
+
+호주에서	호주/NNP+에서/JKB
+아시아계는	아시아/NNP+계/XSN+는/JX
+전체	전체/NNG
+인구의	인구/NNG+의/JKG
+10%를	10/SN+%/SW+를/JKO
+차지하고	차지/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.21.5.4
+아시안이 법조계에 진출하는 것 자체보다는 고위직으로 승진하는 데 장벽이 있다는 의미로 읽힌다.
+
+아시안이	아시안/NNG+이/JKS
+법조계에	법조/NNG+계/XSN+에/JKB
+진출하는	진출/NNG+하/XSV+는/ETM
+것	것/NNB
+자체보다는	자체/NNG+보다/JKB+는/JX
+고위직으로	고위직/NNG+으로/JKB
+승진하는	승진/NNG+하/XSV+는/ETM
+데	데/NNB
+장벽이	장벽/NNG+이/JKS
+있다는	있/VA+다는/ETM
+의미로	의미/NNG+로/JKB
+읽힌다.	읽히/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.21.6.1
+'대나무 천장'은 여성의 고위직 진출을 막는 보이지 않는 장벽을 뜻하는 '유리 천장(glass ceiling)'에 아시아(중국)의 상징물인 대나무를 붙여 만든 용어다.
+
+'대나무	'/SS+대나무/NNG
+천장'은	천장/NNG+'/SS+은/JX
+여성의	여성/NNG+의/JKG
+고위직	고위직/NNG
+진출을	진출/NNG+을/JKO
+막는	막/VV+는/ETM
+보이지	보이/VV+지/EC
+않는	않/VX+는/ETM
+장벽을	장벽/NNG+을/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+'유리	'/SS+유리/NNG
+천장(glass	천장/NNG+(/SS+glass/SL
+ceiling)'에	ceiling/SL+)/SS+'/SS+에/JKB
+아시아(중국)의	아시아/NNP+(/SS+중국/NNP+)/SS+의/JKG
+상징물인	상징물/NNG+이/VCP+ㄴ/ETM
+대나무를	대나무/NNG+를/JKO
+붙여	붙이/VV+어/EC
+만든	만들/VV+ㄴ/ETM
+용어다.	용어/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.21.6.2
+대나무의 분절된 마디가 서구 사회에서 아시아인의 승진이 위로 갈수록 어려워지는 것을 상징한다는 해석도 있다.
+
+대나무의	대나무/NNG+의/JKG
+분절된	분절/NNG+되/XSV+ㄴ/ETM
+마디가	마디/NNG+가/JKS
+서구	서구/NNG
+사회에서	사회/NNG+에서/JKB
+아시아인의	아시아인/NNG+의/JKG
+승진이	승진/NNG+이/JKS
+위로	위/NNG+로/JKB
+갈수록	갈수록/MAG
+어려워지는	어렵/VA+어/EC+지/VX+는/ETM
+것을	것/NNB+을/JKO
+상징한다는	상징/NNG+하/XSV+ㄴ다는/ETM
+해석도	해석/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+

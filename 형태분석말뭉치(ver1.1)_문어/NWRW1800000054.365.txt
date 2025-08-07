@@ -1,0 +1,579 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.365
+metadata : {}
+
+
+# id : NWRW1800000054.365.1.1
+北, 신형 미사일 3종 공개… 美 압박에 대놓고 'ICBM 시위'
+
+北,	北/SH+,/SP
+신형	신형/NNG
+미사일	미사일/NNG
+3종	3/SN+종/NNG
+공개…	공개/NNG+…/SE
+美	美/SH
+압박에	압박/NNG+에/JKB
+대놓고	대놓고/MAG
+'ICBM	'/SS+ICBM/SL
+시위'	시위/NNG+'/SS
+
+
+# id : NWRW1800000054.365.2.1
+열병식서 발사관 등 공개
+
+열병식서	열병식/NNG+서/JKB
+발사관	발사관/NNG
+등	등/NNB
+공개	공개/NNG
+
+
+# id : NWRW1800000054.365.3.1
+북한은 15일 김일성 생일 105주년 열병식에서 중국·러시아제를 모방한 듯한 신형 ICBM(대륙간탄도미사일)들을 선보였다.
+
+북한은	북한/NNP+은/JX
+15일	15/SN+일/NNB
+김일성	김일성/NNP
+생일	생일/NNG
+105주년	105/SN+주년/NNB
+열병식에서	열병식/NNG+에서/JKB
+중국·러시아제를	중국/NNP+·/SP+러시아제/NNG+를/JKO
+모방한	모방/NNG+하/XSV+ㄴ/ETM
+듯한	듯/NNB+하/XSA+ㄴ/ETM
+신형	신형/NNG
+ICBM(대륙간탄도미사일)들을	ICBM/SL+(/SS+대륙/NNG+간/NNB+탄도/NNG+미사일/NNG+)/SS+들/XSN+을/JKO
+선보였다.	선보이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.3.2
+미국과 중국의 압박에도 ICBM 개발을 포기하지 않겠다는 의지를 보이려는 의도로 분석된다.
+
+미국과	미국/NNP+과/JC
+중국의	중국/NNP+의/JKG
+압박에도	압박/NNG+에/JKB+도/JX
+ICBM	ICBM/SL
+개발을	개발/NNG+을/JKO
+포기하지	포기/NNG+하/XSV+지/EC
+않겠다는	않/VX+겠/EP+다는/ETM
+의지를	의지/NNG+를/JKO
+보이려는	보이/VV+려는/ETM
+의도로	의도/NNG+로/JKB
+분석된다.	분석/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.365.3.3
+북한의 신형 ICBM들이 실제 미 본토를 핵 타격할 수 있는 능력을 갖고 있는지는 검증이 필요하지만, 예상보다 빠른 북한의 개발 속도에 놀란 한·미 군 당국은 정밀 분석에 착수했다.
+
+북한의	북한/NNP+의/JKG
+신형	신형/NNG
+ICBM들이	ICBM/SL+들/XSN+이/JKS
+실제	실제/MAG
+미	미/NNP
+본토를	본토/NNG+를/JKO
+핵	핵/NNG
+타격할	타격/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+능력을	능력/NNG+을/JKO
+갖고	갖/VV+고/EC
+있는지는	있/VX+는지/EF+는/JX
+검증이	검증/NNG+이/JKS
+필요하지만,	필요/NNG+하/XSA+지만/EC+,/SP
+예상보다	예상/NNG+보다/JKB
+빠른	빠르/VA+ㄴ/ETM
+개발	개발/NNG
+속도에	속도/NNG+에/JKB
+놀란	놀라/VV+ㄴ/ETM
+한·미	한·미/NNP
+군	군/NNG
+당국은	당국/NNG+은/JX
+정밀	정밀/NNG
+분석에	분석/NNG+에/JKB
+착수했다.	착수/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.4.1
+①중·러 고체연료 ICBM 모방 능력 과시
+
+①중·러	①/SW+중/NNP+·/SP+러/NNP
+고체연료	고체/NNG+연료/NNG
+ICBM	ICBM/SL
+모방	모방/NNG
+능력	능력/NNG
+과시	과시/NNG
+
+
+# id : NWRW1800000054.365.5.1
+북한이 이날 처음 공개한 ICBM은 ▲중국에서 도입한 바퀴 16개 달린 대형 이동식 발사 차량에 원통형 발사관을 실은 형태 ▲대형 트레일러에 실려 이동하는 발사관을 가진 형태 ▲무수단 미사일 이동식 발사 차량에 기존 KN-08 ICBM 개조형을 실은 형태 등 3종이다.
+
+북한이	북한/NNP+이/JKS
+이날	이날/NNG
+처음	처음/NNG
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+ICBM은	ICBM/SL+은/JX
+▲중국에서	▲/SW+중국/NNP+에서/JKB
+도입한	도입/NNG+하/XSV+ㄴ/ETM
+바퀴	바퀴/NNG
+16개	16/SN+개/NNB
+달린	달리/VV+ㄴ/ETM
+대형	대형/NNG
+이동식	이동식/NNG
+발사	발사/NNG
+차량에	차량/NNG+에/JKB
+원통형	원통/NNG+형/XSN
+발사관을	발사관/NNG+을/JKO
+실은	싣/VV+은/ETM
+형태	형태/NNG
+▲대형	▲/SW+대형/NNG
+트레일러에	트레일러/NNG+에/JKB
+실려	실리/VV+어/EC
+이동하는	이동/NNG+하/XSV+는/ETM
+가진	가지/VV+ㄴ/ETM
+▲무수단	▲/SW+무수단/NNP
+미사일	미사일/NNG
+기존	기존/NNG
+KN-08	KN/SL+-/SO+08/SN
+ICBM	ICBM/SL
+개조형을	개조/NNG+형/XSN+을/JKO
+등	등/NNB
+3종이다.	3/SN+종/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.5.2
+이 중 첫번째는 러시아의 최신형 ICBM인 SS-27 '토폴M'과 비슷한 형태이고, 트레일러형은 중국의 DF-31 ICBM과 유사하다.
+
+이	이/MMD
+중	중/NNB
+첫번째는	첫/MMN+번/NNB+째/XSN+는/JX
+러시아의	러시아/NNP+의/JKG
+최신형	최신/NNG+형/XSN
+ICBM인	ICBM/SL+이/VCP+ㄴ/ETM
+SS-27	SS/SL+-/SO+27/SN
+'토폴M'과	'/SS+토폴/NNG+M/SL+'/SS+과/JKB
+비슷한	비슷하/VA+ㄴ/ETM
+형태이고,	형태/NNG+이/VCP+고/EC+,/SP
+트레일러형은	트레일러/NNG+형/XSN+은/JX
+중국의	중국/NNP+의/JKG
+DF-31	DF/SL+-/SO+31/SN
+ICBM과	ICBM/SL+과/JKB
+유사하다.	유사/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000054.365.5.3
+이들은 모두 미국을 타격할 수 있는 미사일이다.
+
+이들은	이/NP+들/XSN+은/JX
+모두	모두/MAG
+미국을	미국/NNP+을/JKO
+타격할	타격/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+미사일이다.	미사일/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.6.1
+북한 신형 미사일 발사관 안에 실제 어떤 미사일이 들어 있는지, 이 이동식 미사일 발사 시스템들이 제대로 작동하는 것인지는 확인되지 않고 있다.
+
+북한	북한/NNP
+신형	신형/NNG
+미사일	미사일/NNG
+발사관	발사관/NNG
+안에	안/NNG+에/JKB
+실제	실제/MAG
+어떤	어떤/MMD
+미사일이	미사일/NNG+이/JKS
+들어	들/VV+어/EC
+있는지,	있/VX+는지/EF+,/SP
+이	이/MMD
+이동식	이동식/NNG
+발사	발사/NNG
+시스템들이	시스템/NNG+들/XSN+이/JKS
+제대로	제대로/MAG
+작동하는	작동/NNG+하/XSV+는/ETM
+것인지는	것/NNB+이/VCP+ㄴ지/EF+는/JX
+확인되지	확인/NNG+되/XSV+지/EC
+않고	않/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.365.6.2
+군 소식통은 "북한은 실제 작동 여부와 관계없이 '중국·러시아 수준의 이동식 ICBM을 개발했다'는 메시지를 전한 것"이라고 말했다.
+
+군	군/NNG
+소식통은	소식통/NNG+은/JX
+"북한은	"/SS+북한/NNP+은/JX
+실제	실제/NNG
+작동	작동/NNG
+여부와	여부/NNG+와/JKB
+관계없이	관계없이/MAG
+'중국·러시아	'/SS+중국/NNP+·/SP+러시아/NNP
+수준의	수준/NNG+의/JKG
+이동식	이동식/NNG
+ICBM을	ICBM/SL+을/JKO
+개발했다'는	개발/NNG+하/XSV+았/EP+다/EF+'/SS+는/ETM
+메시지를	메시지/NNG+를/JKO
+전한	전하/VV+ㄴ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.7.1
+전문가들은 특히 신형 ICBM들이 고체연료를 사용할 가능성이 높다는 점에 주목하고 있다.
+
+전문가들은	전문가/NNG+들/XSN+은/JX
+특히	특히/MAG
+신형	신형/NNG
+ICBM들이	ICBM/SL+들/XSN+이/JKS
+고체연료를	고체/NNG+연료/NNG+를/JKO
+사용할	사용/NNG+하/XSV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+높다는	높/VA+다는/ETM
+점에	점/NNG+에/JKB
+주목하고	주목/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.365.7.2
+발사관에서 미사일이 솟구친 뒤 점화되는 '콜드 런치'(Cold Launch) 방식으로 쏘려면 액체연료 방식은 사용하기 어렵다.
+
+발사관에서	발사관/NNG+에서/JKB
+미사일이	미사일/NNG+이/JKS
+솟구친	솟구치/VV+ㄴ/ETM
+뒤	뒤/NNG
+점화되는	점화/NNG+되/XSV+는/ETM
+'콜드	'/SS+콜드/NNG
+런치'(Cold	런치/NNG+'/SS+(/SS+Cold/SL
+Launch)	Launch/SL+)/SS
+방식으로	방식/NNG+으로/JKB
+쏘려면	쏘/VV+려면/EC
+액체연료	액체/NNG+연료/NNG
+방식은	방식/NNG+은/JX
+사용하기	사용/NNG+하/XSV+기/ETN
+어렵다.	어렵/VA+다/EF+./SF
+
+
+# id : NWRW1800000054.365.7.3
+고체연료 이동식 ICBM은 기존 액체연료 방식보다 발사 준비 시간이 대폭 줄어들어 미국엔 재앙이 된다.
+
+고체연료	고체/NNG+연료/NNG
+이동식	이동식/NNG
+ICBM은	ICBM/SL+은/JX
+기존	기존/NNG
+액체연료	액체/NNG+연료/NNG
+방식보다	방식/NNG+보다/JKB
+발사	발사/NNG
+준비	준비/NNG
+시간이	시간/NNG+이/JKS
+대폭	대폭/MAG
+줄어들어	줄어들/VV+어/EC
+미국엔	미국/NNP+에/JKB+ㄴ/JX
+재앙이	재앙/NNG+이/JKC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.365.7.4
+신형 ICBM이 고체연료 방식이 맞는다면 지난 2월 시험발사에 성공한 북극성2형 고체연료 중거리 미사일 엔진 2기를 사용했을 가능성이 높다는 분석이다.
+
+신형	신형/NNG
+ICBM이	ICBM/SL+이/JKS
+고체연료	고체/NNG+연료/NNG
+방식이	방식/NNG+이/JKS
+맞는다면	맞/VV+는다면/EC
+지난	지나/VV+ㄴ/ETM
+2월	2/SN+월/NNB
+시험발사에	시험/NNG+발사/NNG+에/JKB
+성공한	성공/NNG+하/XSV+ㄴ/ETM
+북극성2형	북극성2형/NNP
+중거리	중거리/NNG
+미사일	미사일/NNG
+엔진	엔진/NNG
+2기를	2/SN+기/NNB+를/JKO
+사용했을	사용/NNG+하/XSV+았/EP+을/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+높다는	높/VA+다는/ETM
+분석이다.	분석/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.8.1
+②ICBM 등 실전 배치 단계 시사
+
+②ICBM	②/SW+ICBM/SL
+등	등/NNB
+실전	실전/NNG
+배치	배치/NNG
+단계	단계/NNG
+시사	시사/NNG
+
+
+# id : NWRW1800000054.365.9.1
+북한이 무수단 미사일 이동식 발사 차량(12륜형)에 기존 KN-08 ICBM 개조형을 장착한 것도 눈길을 끌었다.
+
+북한이	북한/NNP+이/JKS
+무수단	무수단/NNP
+미사일	미사일/NNG
+이동식	이동식/NNG
+발사	발사/NNG
+차량(12륜형)에	차량/NNG+(/SS+12/SN+륜/NNG+형/XSN+)/SS+에/JKB
+기존	기존/NNG
+KN-08	KN/SL+-/SO+08/SN
+ICBM	ICBM/SL
+개조형을	개조/NNG+형/XSN+을/JKO
+장착한	장착/NNG+하/XSV+ㄴ/ETM
+것도	것/NNB+도/JX
+눈길을	눈길/NNG+을/JKO
+끌었다.	끌/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.9.2
+2012년 4월 김일성 생일 100주년 열병식에서 처음 공개된 KN-08은 원래 중국에서 6대를 밀수입한 바퀴 16개 달린 대형 이동식 발사 차량에 실려 있었다.
+
+2012년	2012/SN+년/NNB
+4월	4/SN+월/NNB
+김일성	김일성/NNP
+생일	생일/NNG
+100주년	100/SN+주년/NNB
+열병식에서	열병식/NNG+에서/JKB
+처음	처음/NNG
+공개된	공개/NNG+되/XSV+ㄴ/ETM
+KN-08은	KN/SL+-/SO+08/SN+은/JX
+원래	원래/MAG
+중국에서	중국/NNP+에서/JKB
+6대를	6/SN+대/NNB+를/JKO
+밀수입한	밀수입/NNG+하/XSV+ㄴ/ETM
+바퀴	바퀴/NNG
+16개	16/SN+개/NNB
+달린	달리/VV+ㄴ/ETM
+대형	대형/NNG
+이동식	이동식/NNG
+발사	발사/NNG
+차량에	차량/NNG+에/JKB
+실려	실리/VV+어/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.9.3
+이번에 탄두(彈頭) 형태도 달라졌다.
+
+이번에	이번/NNG+에/JKB
+탄두(彈頭)	탄두/NNG+(/SS+彈頭/SH+)/SS
+형태도	형태/NNG+도/JX
+달라졌다.	달라지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.9.4
+이는 KN-08이 아직 시험발사도 이뤄지지 않았지만 실전 배치 단계에 있음을 보여준 것으로 군 당국은 판단하고 있다.
+
+이는	이/NP+는/JX
+KN-08이	KN/SL+-/SO+08/SN+이/JKS
+아직	아직/MAG
+시험발사도	시험/NNG+발사/NNG+도/JX
+이뤄지지	이뤄지/VV+지/EC
+않았지만	않/VX+았/EP+지만/EC
+실전	실전/NNG
+배치	배치/NNG
+단계에	단계/NNG+에/JKB
+있음을	있/VA+음/ETN+을/JKO
+보여준	보이/VV+어/EC+주/VX+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+군	군/NNG
+당국은	당국/NNG+은/JX
+판단하고	판단/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.365.9.5
+실제로 한·미 정보 당국은 KN-08이 실전 배치 초기 단계인 것으로 평가하고 있다.
+
+실제로	실제로/MAG
+한·미	한·미/NNP
+정보	정보/NNG
+당국은	당국/NNG+은/JX
+KN-08이	KN/SL+-/SO+08/SN+이/JKS
+실전	실전/NNG
+배치	배치/NNG
+초기	초기/NNG
+단계인	단계/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+평가하고	평가/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.365.9.6
+북한 기존 ICBM 중 KN-08은 최대 사거리 1만2000㎞, KN-14는 9000여㎞로 미 본토를 타격할 수 있는 것으로 알려져 있다.
+
+북한	북한/NNP
+기존	기존/NNG
+ICBM	ICBM/SL
+중	중/NNB
+KN-08은	KN/SL+-/SO+08/SN+은/JX
+최대	최대/NNG
+사거리	사거리/NNG
+1만2000㎞,	1/SN+만/NR+2000/SN+㎞/SW+,/SP
+KN-14는	KN/SL+-/SO+14/SN+는/JX
+9000여㎞로	9000/SN+여/XSN+㎞/SW+로/JKB
+미	미/NNP
+본토를	본토/NNG+를/JKO
+타격할	타격/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+것으로	것/NNB+으로/JKB
+알려져	알려지/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.365.9.7
+일각에선 KN-08이 액체연료에서 고체연료로 추진 방식이 바뀌었을 가능성도 있다고 보고 있다.
+
+일각에선	일각/NNG+에서/JKB+ㄴ/JX
+KN-08이	KN/SL+-/SO+08/SN+이/JKS
+액체연료에서	액체/NNG+연료/NNG+에서/JKB
+고체연료로	고체/NNG+연료/NNG+로/JKB
+추진	추진/NNG
+방식이	방식/NNG+이/JKS
+바뀌었을	바뀌/VV+었/EP+을/ETM
+가능성도	가능/NNG+성/XSN+도/JX
+있다고	있/VA+다고/EC
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.365.10.1
+무수단 발사 차량에 실려 나타난 것은 경제 제재 등으로 중국제 대형 발사 차량을 추가 수입하지 못하더라도 ICBM 이동식 발사대를 만들 수 있음을 과시하는 측면도 있다.
+
+무수단	무수단/NNP
+발사	발사/NNG
+차량에	차량/NNG+에/JKB
+실려	실리/VV+어/EC
+나타난	나타나/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+경제	경제/NNG
+제재	제재/NNG
+등으로	등/NNB+으로/JKB
+중국제	중국제/NNG
+대형	대형/NNG
+차량을	차량/NNG+을/JKO
+추가	추가/NNG
+수입하지	수입/NNG+하/XSV+지/EC
+못하더라도	못하/VX+더라도/EC
+ICBM	ICBM/SL
+이동식	이동식/NNG
+발사대를	발사대/NNG+를/JKO
+만들	만들/VV+ㄹ/ETM
+수	수/NNB
+있음을	있/VA+음/ETN+을/JKO
+과시하는	과시/NNG+하/XSV+는/ETM
+측면도	측면/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000054.365.10.2
+북한은 이날 지난 2월 처음 발사한 북극성 2형 고체연료 이동식 중거리 미사일, 지난해 시험발사에 큰 진전을 이룬 북극성 SLBM(잠수함발사탄도미사일)을 각각 6기씩 등장시켜 이 미사일들이 실전 배치 단계에 있음을 시사했다.
+
+북한은	북한/NNP+은/JX
+이날	이날/NNG
+지난	지나/VV+ㄴ/ETM
+2월	2/SN+월/NNB
+처음	처음/NNG
+발사한	발사/NNG+하/XSV+ㄴ/ETM
+북극성	북극성/NNG
+2형	2/SN+형/NNG
+고체연료	고체/NNG+연료/NNG
+이동식	이동식/NNG
+중거리	중거리/NNG
+미사일,	미사일/NNG+,/SP
+지난해	지난해/NNG
+시험발사에	시험/NNG+발사/NNG+에/JKB
+큰	크/VA+ㄴ/ETM
+진전을	진전/NNG+을/JKO
+이룬	이루/VV+ㄴ/ETM
+SLBM(잠수함발사탄도미사일)을	SLBM/SL+(/SS+잠수함/NNG+발사/NNG+탄도/NNG+미사일/NNG+)/SS+을/JKO
+각각	각각/MAG
+6기씩	6/SN+기/NNB+씩/XSN
+등장시켜	등장/NNG+시키/XSV+어/EC
+이	이/MMD
+미사일들이	미사일/NNG+들/XSN+이/JKS
+실전	실전/NNG
+배치	배치/NNG
+단계에	단계/NNG+에/JKB
+있음을	있/VA+음/ETN+을/JKO
+시사했다.	시사/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.11.1
+③정확도 향상된 신형 미사일
+
+③정확도	③/SW+정확도/NNG
+향상된	향상/NNG+되/XSV+ㄴ/ETM
+신형	신형/NNG
+미사일	미사일/NNG
+
+
+# id : NWRW1800000054.365.12.1
+북한은 스커드-ER(최대 사거리 1000㎞)을 개량한 신형 스커드 미사일도 처음으로 공개했다.
+
+북한은	북한/NNP+은/JX
+스커드-ER(최대	스커드/NNG+-/SO+ER/SL+(/SS+최대/NNG
+사거리	사거리/NNG
+1000㎞)을	1000/SN+㎞/SW+)/SS+을/JKO
+개량한	개량/NNG+하/XSV+ㄴ/ETM
+신형	신형/NNG
+스커드	스커드/NNG
+미사일도	미사일/NNG+도/JX
+처음으로	처음/NNG+으로/JKB
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.12.2
+무한궤도(캐터필러)형 이동식 발사대에 실린 이 미사일은 탄두 부분에 자세를 조정할 수 있는 소형 자세 제어 로켓을 달아 정확도를 크게 높인 것으로 알려졌다.
+
+무한궤도(캐터필러)형	무한궤도/NNG+(/SS+캐터필러/NNG+)/SS+형/XSN
+이동식	이동식/NNG
+발사대에	발사대/NNG+에/JKB
+실린	실리/VV+ㄴ/ETM
+이	이/MMD
+미사일은	미사일/NNG+은/JX
+탄두	탄두/NNG
+부분에	부분/NNG+에/JKB
+자세를	자세/NNG+를/JKO
+조정할	조정/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+소형	소형/NNG
+자세	자세/NNG
+제어	제어/NNG
+로켓을	로켓/NNG+을/JKO
+달아	달/VV+아/EC
+정확도를	정확도/NNG+를/JKO
+크게	크/VA+게/EC
+높인	높이/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.365.12.3
+이날 열병식에선 최대 사거리 130㎞ 이상인 KN-01 대함미사일 4발을 이동식 발사 차량에 탑재한 4연장 지대함(地對艦) 미사일 등도 처음 등장했다.
+
+이날	이날/NNG
+열병식에선	열병식/NNG+에서/JKB+ㄴ/JX
+최대	최대/NNG
+사거리	사거리/NNG
+130㎞	130/SN+㎞/SW
+이상인	이상/NNG+이/VCP+ㄴ/ETM
+KN-01	KN/SL+-/SO+01/SN
+대함미사일	대함/NNG+미사일/NNG
+4발을	4/SN+발/NNB+을/JKO
+이동식	이동식/NNG
+발사	발사/NNG
+차량에	차량/NNG+에/JKB
+탑재한	탑재/NNG+하/XSV+ㄴ/ETM
+4연장	4/SN+연장/NNG
+지대함(地對艦)	지대함/NNG+(/SS+地對艦/SH+)/SS
+미사일	미사일/NNG
+등도	등/NNB+도/JX
+처음	처음/NNG
+등장했다.	등장/NNG+하/XSV+았/EP+다/EF+./SF
+
+

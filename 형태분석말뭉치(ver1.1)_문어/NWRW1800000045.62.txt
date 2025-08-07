@@ -1,0 +1,278 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.62
+metadata : {}
+
+
+# id : NWRW1800000045.62.1.1
+[기업&CEO]디 이그제큐티브 센터, 최고의 글로벌 비즈니스 서비스 제공
+
+[기업&CEO]디	[/SS+기업/NNG+&/SW+CEO/SL+]/SS+디/NNP
+이그제큐티브	이그제큐티브/NNP
+센터,	센터/NNP+,/SP
+최고의	최고/NNG+의/JKG
+글로벌	글로벌/NNG
+비즈니스	비즈니스/NNG
+서비스	서비스/NNG
+제공	제공/NNG
+
+
+# id : NWRW1800000045.62.2.1
+1994년에 오픈한 오피스 서비스 글로벌 기업인 디 이그제큐티브 센터(www.executivecentre.co.kr)는 서울파이낸스센터(SFC), 강남파이낸스센터(GFC), 서울국제금융센터(IFC)에 입주하여 최소의 비용으로 최상의 사무실 시설과 글로벌 비즈니스 서비스를 제공하고 있다.
+
+1994년에	1994/SN+년/NNB+에/JKB
+오픈한	오픈/NNG+하/XSV+ㄴ/ETM
+오피스	오피스/NNG
+서비스	서비스/NNG
+글로벌	글로벌/NNG
+기업인	기업/NNG+이/VCP+ㄴ/ETM
+디	디/NNP
+이그제큐티브	이그제큐티브/NNP
+센터(www.executivecentre.co.kr)는	센터/NNP+(/SS+www/SL+./SP+executivecentre/SL+./SP+co/SL+./SP+kr/SL+)/SS+는/JX
+서울파이낸스센터(SFC),	서울파이낸스센터/NNP+(/SS+SFC/SL+)/SS+,/SP
+강남파이낸스센터(GFC),	강남파이낸스센터/NNP+(/SS+GFC/SL+)/SS+,/SP
+서울국제금융센터(IFC)에	서울국제금융센터/NNP+(/SS+IFC/SL+)/SS+에/JKB
+입주하여	입주/NNG+하/XSV+아/EC
+최소의	최소/NNG+의/JKG
+비용으로	비용/NNG+으로/JKB
+최상의	최상/NNG+의/JKG
+사무실	사무실/NNG
+시설과	시설/NNG+과/JC
+비즈니스	비즈니스/NNG
+서비스를	서비스/NNG+를/JKO
+제공하고	제공/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.62.2.2
+사업을 준비하는 고객들은 두 장의 간단한 계약서와 함께 즉시 비즈니스를 시작할 수 있다.
+
+사업을	사업/NNG+을/JKO
+준비하는	준비/NNG+하/XSV+는/ETM
+고객들은	고객/NNG+들/XSN+은/JX
+두	두/MMN
+장의	장/NNB+의/JKG
+간단한	간단하/VA+ㄴ/ETM
+계약서와	계약서/NNG+와/JKB
+함께	함께/MAG
+즉시	즉시/NNG
+비즈니스를	비즈니스/NNG+를/JKO
+시작할	시작/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000045.62.2.3
+보증금 역시 임대사무실에 비해 훨씬 저렴하며 센터마다 고급스러운 카페와 대기 공간, 미팅룸과 세미나룸이 구비되어 모든 클라이언트에게 제공된다.
+
+보증금	보증금/NNG
+역시	역시/MAG
+임대사무실에	임대/NNG+사무실/NNG+에/JKB
+비해	비/NNG+하/XSV+아/EC
+훨씬	훨씬/MAG
+저렴하며	저렴하/VA+며/EC
+센터마다	센터/NNG+마다/JX
+고급스러운	고급/NNG+스럽/XSA+ㄴ/ETM
+카페와	카페/NNG+와/JC
+대기	대기/NNG
+공간,	공간/NNG+,/SP
+미팅룸과	미팅/NNG+룸/NNG+과/JC
+세미나룸이	세미나/NNG+룸/NNG+이/JKS
+구비되어	구비/NNG+되/XSV+어/EC
+모든	모든/MMN
+클라이언트에게	클라이언트/NNG+에게/JKB
+제공된다.	제공/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.62.3.1
+디 이그제큐티브 센터는 아시아 다국적 기업이다.
+
+디	디/NNP
+이그제큐티브	이그제큐티브/NNP
+센터는	센터/NNP+는/JX
+아시아	아시아/NNP
+다국적	다국적/NNG
+기업이다.	기업/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.62.3.2
+1994년 부동산 투자 사모펀드 매니저로 일하던 폴 살니코우가 창업한 TEC는 국내를 비롯해 중국, 일본, 대만, 홍콩, 싱가포르, 인도, 호주 등 아시아 각국 주요 비즈니스 중심 도시 22곳에 랜드마크형 오피스 빌딩을 임대해 70여 개의 서비스 사무실을 운영 중이다.
+
+1994년	1994/SN+년/NNB
+부동산	부동산/NNG
+투자	투자/NNG
+사모펀드	사모/NNG+펀드/NNG
+매니저로	매니저/NNG+로/JKB
+일하던	일/NNG+하/XSV+던/ETM
+폴	폴/NNP
+살니코우가	살니코우/NNP+가/JKS
+창업한	창업/NNG+하/XSV+ㄴ/ETM
+TEC는	TEC/SL+는/JX
+국내를	국내/NNG+를/JKO
+비롯해	비롯하/VV+아/EC
+중국,	중국/NNP+,/SP
+일본,	일본/NNP+,/SP
+대만,	대만/NNP+,/SP
+홍콩,	홍콩/NNP+,/SP
+싱가포르,	싱가포르/NNP+,/SP
+인도,	인도/NNP+,/SP
+호주	호주/NNP
+등	등/NNB
+아시아	아시아/NNP
+각국	각국/NNG
+주요	주요/NNG
+비즈니스	비즈니스/NNG
+중심	중심/NNG
+도시	도시/NNG
+22곳에	22/SN+곳/NNG+에/JKB
+랜드마크형	랜드마크/NNG+형/XSN
+오피스	오피스/NNG
+빌딩을	빌딩/NNG+을/JKO
+임대해	임대/NNG+하/XSV+아/EC
+70여	70/SN+여/XSN
+개의	개/NNB+의/JKG
+서비스	서비스/NNG
+사무실을	사무실/NNG+을/JKO
+운영	운영/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.62.3.3
+첨단 사무 기자재와 시설, 숙련된 국제 업무 지원 전문 인력과 비서진을 배치해 이용 고객들의 다국적 사무실 지원 서비스 사업을 하고 있다.
+
+첨단	첨단/NNG
+사무	사무/NNG
+기자재와	기자재/NNG+와/JC
+시설,	시설/NNG+,/SP
+숙련된	숙련/NNG+되/XSV+ㄴ/ETM
+국제	국제/NNG
+업무	업무/NNG
+지원	지원/NNG
+전문	전문/NNG
+인력과	인력/NNG+과/JC
+비서진을	비서진/NNG+을/JKO
+배치해	배치/NNG+하/XSV+아/EC
+이용	이용/NNG
+고객들의	고객/NNG+들/XSN+의/JKG
+다국적	다국적/NNG
+사무실	사무실/NNG
+서비스	서비스/NNG
+사업을	사업/NNG+을/JKO
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.62.4.1
+작년 서울여의도 Two IFC 22층에 오픈한 새 비즈니스 센터는 별도의 미팅룸, 화상 회의 장비, 프로젝트용 사무실 등의 시설이 갖추어지지 않은 빌딩 입주사들의 요구를 충족시키고 있다.
+
+작년	작년/NNG
+서울여의도	서울/NNP+여의도/NNP
+Two	Two/SL
+IFC	IFC/SL
+22층에	22/SN+층/NNG+에/JKB
+오픈한	오픈/NNG+하/XSV+ㄴ/ETM
+새	새/MMA
+비즈니스	비즈니스/NNG
+센터는	센터/NNG+는/JX
+별도의	별도/NNG+의/JKG
+미팅룸,	미팅/NNG+룸/NNG+,/SP
+화상	화상/NNG
+회의	회의/NNG
+장비,	장비/NNG+,/SP
+프로젝트용	프로젝트/NNG+용/XSN
+사무실	사무실/NNG
+등의	등/NNB+의/JKG
+시설이	시설/NNG+이/JKS
+갖추어지지	갖추/VV+어/EC+지/VX+지/EC
+않은	않/VX+은/ETM
+빌딩	빌딩/NNG
+입주사들의	입주사/NNG+들/XSN+의/JKG
+요구를	요구/NNG+를/JKO
+충족시키고	충족/NNG+시키/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.62.5.1
+디 이그제큐티브 센터 송인선 지사장은 “디 이그제큐티브 센터는 입주사들이 필요 할 때 곧바로 최상의 서비스와 공간을 이용할 수 있게끔 하며, 고가의 장비를 구입할 필요를 줄이고, 비용을 절약할 수 있도록 최선을 다하고 있다.
+
+디	디/NNP
+이그제큐티브	이그제큐티브/NNP
+센터	센터/NNP
+송인선	송인선/NNP
+지사장은	지사장/NNG+은/JX
+“디	“/SS+디/NNP
+센터는	센터/NNP+는/JX
+입주사들이	입주사/NNG+들/XSN+이/JKS
+필요	필요/NNG
+할	하/XSA+ㄹ/ETM
+때	때/NNG
+곧바로	곧바로/MAG
+최상의	최상/NNG+의/JKG
+서비스와	서비스/NNG+와/JC
+공간을	공간/NNG+을/JKO
+이용할	이용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있게끔	있/VA+게끔/EC
+하며,	하/VX+며/EC+,/SP
+고가의	고가/NNG+의/JKG
+장비를	장비/NNG+를/JKO
+구입할	구입/NNG+하/XSV+ㄹ/ETM
+필요를	필요/NNG+를/JKO
+줄이고,	줄이/VV+고/EC+,/SP
+비용을	비용/NNG+을/JKO
+절약할	절약/NNG+하/XSV+ㄹ/ETM
+있도록	있/VA+도록/EC
+최선을	최선/NNG+을/JKO
+다하고	다/MAG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.62.5.2
+첨단 사무실과 인력 지원 서비스가 필요한 금융, 증권, 투자 관련 업종의 국내외 기업들이 이미 상당수 이용 계약을 체결한 데 이어, 여의도 국회의사당 인근에 업무 공간이 필요한 정부 기관과 부처, 지자체들의 관심과 문의가 잇따르고 있다”고 말했다.
+
+첨단	첨단/NNG
+사무실과	사무실/NNG+과/JC
+인력	인력/NNG
+지원	지원/NNG
+서비스가	서비스/NNG+가/JKS
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+금융,	금융/NNG+,/SP
+증권,	증권/NNG+,/SP
+투자	투자/NNG
+관련	관련/NNG
+업종의	업종/NNG+의/JKG
+국내외	국내외/NNG
+기업들이	기업/NNG+들/XSN+이/JKS
+이미	이미/MAG
+상당수	상당수/NNG
+이용	이용/NNG
+계약을	계약/NNG+을/JKO
+체결한	체결/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+이어,	잇/VV+어/EC+,/SP
+여의도	여의도/NNP
+국회의사당	국회의사당/NNP
+인근에	인근/NNG+에/JKB
+업무	업무/NNG
+공간이	공간/NNG+이/JKS
+정부	정부/NNG
+기관과	기관/NNG+과/JC
+부처,	부처/NNG+,/SP
+지자체들의	지자체/NNG+들/XSN+의/JKG
+관심과	관심/NNG+과/JC
+문의가	문의/NNG+가/JKS
+잇따르고	잇따르/VV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.62.6.1
+문의 Seoul@executivecentre.com
+
+문의	문의/NNG
+Seoul@executivecentre.com	Seoul/SL+@/SW+executivecentre/SL+./SP+com/SL
+
+

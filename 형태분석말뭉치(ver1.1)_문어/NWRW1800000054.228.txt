@@ -1,0 +1,382 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.228
+metadata : {}
+
+
+# id : NWRW1800000054.228.1.1
+몸으로 수류탄 막은 한국계 병사, 평택 미군기지서 '부활'
+
+몸으로	몸/NNG+으로/JKB
+수류탄	수류탄/NNG
+막은	막/VV+은/ETM
+한국계	한국/NNP+계/XSN
+병사,	병사/NNG+,/SP
+평택	평택/NNP
+미군기지서	미군/NNG+기지/NNG+서/JKB
+'부활'	'/SS+부활/NNG+'/SS
+
+
+# id : NWRW1800000054.228.2.1
+김신우 병장 이름 딴 병원 개원… 전 세계 미군 시설 중 처음으로 한국계 병사의 이름 붙여
+
+김신우	김신우/NNP
+병장	병장/NNG
+이름	이름/NNG
+딴	따/VV+ㄴ/ETM
+병원	병원/NNG
+개원…	개원/NNG+…/SE
+전	전/MMN
+세계	세계/NNG
+미군	미군/NNG
+시설	시설/NNG
+중	중/NNB
+처음으로	처음/NNG+으로/JKB
+한국계	한국/NNP+계/XSN
+병사의	병사/NNG+의/JKG
+붙여	붙이/VV+어/EF
+
+
+# id : NWRW1800000054.228.3.1
+2007년 6월 이라크에서 '테러와의 전쟁' 임무를 수행하던 미군 병력이 이동 중 적군의 매복 공격을 받았다.
+
+2007년	2007/SN+년/NNB
+6월	6/SN+월/NNB
+이라크에서	이라크/NNP+에서/JKB
+'테러와의	'/SS+테러/NNG+와/JKB+의/JKG
+전쟁'	전쟁/NNG+'/SS
+임무를	임무/NNG+를/JKO
+수행하던	수행/NNG+하/XSV+던/ETM
+미군	미군/NNG
+병력이	병력/NNG+이/JKS
+이동	이동/NNG
+중	중/NNB
+적군의	적군/NNG+의/JKG
+매복	매복/NNG
+공격을	공격/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.3.2
+그때 의무병이었던 한국계 김신우(23) 병장이 부대원들에게 날아든 수류탄을 향해 몸을 던졌다.
+
+그때	그때/NNG
+의무병이었던	의무병/NNG+이/VCP+었/EP+던/ETM
+한국계	한국/NNP+계/XSN
+김신우(23)	김신우/NNP+(/SS+23/SN+)/SS
+병장이	병장/NNG+이/JKS
+부대원들에게	부대원/NNG+들/XSN+에게/JKB
+날아든	날아들/VV+ㄴ/ETM
+수류탄을	수류탄/NNG+을/JKO
+향해	향하/VV+아/EC
+몸을	몸/NNG+을/JKO
+던졌다.	던지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.3.3
+그는 산화(散華)하면서 전우 여러 명의 목숨을 지켰다.
+
+그는	그/NP+는/JX
+산화(散華)하면서	산화/NNG+(/SS+散華/SH+)/SS+하/XSV+면서/EC
+전우	전우/NNG
+여러	여러/MMN
+명의	명/NNB+의/JKG
+목숨을	목숨/NNG+을/JKO
+지켰다.	지키/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.4.1
+그로부터 10년 뒤 그의 이름을 딴 병원이 경기도 평택 캠프 험프리스 미군기지에 문을 열었다.
+
+그로부터	그/NP+로부터/JKB
+10년	10/SN+년/NNB
+뒤	뒤/NNG
+그의	그/NP+의/JKG
+이름을	이름/NNG+을/JKO
+딴	따/VV+ㄴ/ETM
+병원이	병원/NNG+이/JKS
+경기도	경기도/NNP
+평택	평택/NNP
+캠프	캠프/NNG
+험프리스	험프리스/NNP
+미군기지에	미군/NNG+기지/NNG+에/JKB
+문을	문/NNG+을/JKO
+열었다.	열/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.4.2
+19일 개원식을 한 '김신우 병장 군 응급의료센터·치과 병원(SGT Shin Woo Kim Soldier Centered Medical Home and Dental Clinic)이다.
+
+19일	19/SN+일/NNB
+개원식을	개원식/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+'김신우	'/SS+김신우/NNP
+병장	병장/NNG
+군	군/NNG
+응급의료센터·치과	응급/NNG+의료/NNG+센터/NNG+·/SP+치과/NNG
+병원(SGT	병원/NNG+(/SS+SGT/SL
+Shin	Shin/SL
+Woo	Woo/SL
+Kim	Kim/SL
+Soldier	Soldier/SL
+Centered	Centered/SL
+Medical	Medical/SL
+Home	Home/SL
+and	and/SL
+Dental	Dental/SL
+Clinic)이다.	Clinic/SL+)/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.5.1
+주한미군 관계자는 "전 세계 미군 시설 중 처음으로 한국계 병사의 이름을 따서 명명했다"고 밝혔다.
+
+주한미군	주한/NNG+미군/NNG
+관계자는	관계자/NNG+는/JX
+"전	"/SS+전/MMN
+세계	세계/NNG
+미군	미군/NNG
+시설	시설/NNG
+중	중/NNB
+처음으로	처음/NNG+으로/JKB
+한국계	한국/NNP+계/XSN
+병사의	병사/NNG+의/JKG
+이름을	이름/NNG+을/JKO
+따서	따/VV+아서/EC
+명명했다"고	명명/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.5.2
+미 국방부는 김 병장이 의무병이었고 한국계라는 점 등을 고려해 이런 결정을 했다고 알려졌다.
+
+미	미/NNP
+국방부는	국방부/NNG+는/JX
+김	김/NNP
+병장이	병장/NNG+이/JKS
+의무병이었고	의무병/NNG+이/VCP+었/EP+고/EC
+한국계라는	한국/NNP+계/XSN+이/VCP+라는/ETM
+점	점/NNG
+등을	등/NNB+을/JKO
+고려해	고려/NNG+하/XSV+아/EC
+이런	이런/MMD
+결정을	결정/NNG+을/JKO
+했다고	하/VV+았/EP+다고/EC
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.5.3
+이날 개원식엔 유족과 토머스 반달 주한 미8군 사령관 등 미군 고위 관계자들이 참석했다.
+
+이날	이날/NNG
+개원식엔	개원식/NNG+에/JKB+ㄴ/JX
+유족과	유족/NNG+과/JC
+토머스	토머스/NNP
+반달	반달/NNP
+주한	주한/NNG
+미8군	미/NNP+8/SN+군/NNG
+사령관	사령관/NNG
+등	등/NNB
+미군	미군/NNG
+고위	고위/NNG
+관계자들이	관계자/NNG+들/XSN+이/JKS
+참석했다.	참석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.5.4
+김 병장의 아버지 김유복(67)씨는 "아들의 희생이 결코 헛되지 않았음을 보여주는 뜻깊은 일"이라고 말했다.
+
+김	김/NNP
+병장의	병장/NNG+의/JKG
+아버지	아버지/NNG
+김유복(67)씨는	김유복/NNP+(/SS+67/SN+)/SS+씨/NNB+는/JX
+"아들의	"/SS+아들/NNG+의/JKG
+희생이	희생/NNG+이/JKS
+결코	결코/MAG
+헛되지	헛되/VA+지/EC
+않았음을	않/VX+았/EP+음/ETN+을/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+뜻깊은	뜻깊/VA+은/ETM
+일"이라고	일/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.6.1
+3남매 중 막내였던 김신우 병장은 3세 때 가족과 미국으로 이민을 가서 캘리포니아주 오렌지카운티에 정착했다.
+
+3남매	3/SN+남매/NNG
+중	중/NNB
+막내였던	막내/NNG+이/VCP+었/EP+던/ETM
+김신우	김신우/NNP
+병장은	병장/NNG+은/JX
+3세	3/SN+세/NNB
+때	때/NNG
+가족과	가족/NNG+과/JC
+미국으로	미국/NNP+으로/JKB
+이민을	이민/NNG+을/JKO
+가서	가/VV+아서/EC
+캘리포니아주	캘리포니아주/NNP
+오렌지카운티에	오렌지카운티/NNP+에/JKB
+정착했다.	정착/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.6.2
+둥글둥글한 얼굴에 늘 미소를 머금고 친구들 도와주는 것을 좋아해 '찐빵' '우 대인(大人)'이라는 별명으로 불렸다고 지역신문 오렌지카운티 레지스터는 전했다.
+
+둥글둥글한	둥글둥글/MAG+하/XSA+ㄴ/ETM
+얼굴에	얼굴/NNG+에/JKB
+늘	늘/MAG
+미소를	미소/NNG+를/JKO
+머금고	머금/VV+고/EC
+친구들	친구/NNG+들/XSN
+도와주는	도와주/VV+는/ETM
+것을	것/NNB+을/JKO
+좋아해	좋아하/VV+아/EC
+'찐빵'	'/SS+찐빵/NNG+'/SS
+'우	'/SS+우/NNP
+대인(大人)'이라는	대인/NNG+(/SS+大人/SH+)/SS+'/SS+이/VCP+라는/ETM
+별명으로	별명/NNG+으로/JKB
+불렸다고	불리/VV+었/EP+다고/EC
+지역신문	지역/NNG+신문/NNG
+오렌지카운티	오렌지카운티/NNP
+레지스터는	레지스터/NNG+는/JX
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.7.1
+그는 2005년 입대했다.
+
+그는	그/NP+는/JX
+2005년	2005/SN+년/NNB
+입대했다.	입대/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.7.2
+의무병으로 복무하고 전역한 다음 의료 계통에서 일하며 어려운 사람들을 돌보겠다는 꿈을 키웠다고 한다.
+
+의무병으로	의무병/NNG+으로/JKB
+복무하고	복무/NNG+하/XSV+고/EC
+전역한	전역/NNG+하/XSV+ㄴ/ETM
+다음	다음/NNG
+의료	의료/NNG
+계통에서	계통/NNG+에서/JKB
+일하며	일/NNG+하/XSV+며/EC
+어려운	어렵/VA+ㄴ/ETM
+사람들을	사람/NNG+들/XSN+을/JKO
+돌보겠다는	돌보/VV+겠/EP+다는/ETM
+꿈을	꿈/NNG+을/JKO
+키웠다고	키우/VV+었/EP+다고/EC
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.228.7.3
+어머니 이금옥(63)씨는 "9·11 테러가 일어난 지 얼마 안 되는 시점이라 아들을 극구 말렸지만, 부모 몰래 입대 원서를 제출할 정도로 의지가 강했다"고 했다.
+
+어머니	어머니/NNG
+이금옥(63)씨는	이금옥/NNP+(/SS+63/SN+)/SS+씨/NNB+는/JX
+"9·11	"/SS+9/SN+·/SP+11/SN
+테러가	테러/NNG+가/JKS
+일어난	일어나/VV+ㄴ/ETM
+지	지/NNB
+얼마	얼마/NNG
+안	안/MAG
+되는	되/VV+는/ETM
+시점이라	시점/NNG+이/VCP+라/EC
+아들을	아들/NNG+을/JKO
+극구	극구/MAG
+말렸지만,	말리/VV+었/EP+지만/EC+,/SP
+부모	부모/NNG
+몰래	몰래/MAG
+입대	입대/NNG
+원서를	원서/NNG+를/JKO
+제출할	제출/NNG+하/XSV+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+의지가	의지/NNG+가/JKS
+강했다"고	강하/VA+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.8.1
+김신우 병장은 1년 반을 한국에서 복무한 뒤 이라크로 배치됐고, 파견 종료를 여섯 달 앞두고 숨졌다.
+
+김신우	김신우/NNP
+병장은	병장/NNG+은/JX
+1년	1/SN+년/NNB
+반을	반/NNG+을/JKO
+한국에서	한국/NNP+에서/JKB
+복무한	복무/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+이라크로	이라크/NNP+로/JKB
+배치됐고,	배치/NNG+되/XSV+었/EP+고/EC+,/SP
+파견	파견/NNG
+종료를	종료/NNG+를/JKO
+여섯	여섯/NR
+달	달/NNB
+앞두고	앞두/VV+고/EC
+숨졌다.	숨지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.8.2
+순직 당시 정황이 알려지면서 김신우 병장에게는 미국 정부가 군인에게 주는 훈장 중 셋째로 등급이 높은 '실버 스타 훈장'이 추서됐다.
+
+순직	순직/NNG
+당시	당시/NNG
+정황이	정황/NNG+이/JKS
+알려지면서	알려지/VV+면서/EC
+김신우	김신우/NNP
+병장에게는	병장/NNG+에게/JKB+는/JX
+미국	미국/NNP
+정부가	정부/NNG+가/JKS
+군인에게	군인/NNG+에게/JKB
+주는	주/VV+는/ETM
+훈장	훈장/NNG
+중	중/NNB
+셋째로	셋째/NR+로/JKB
+등급이	등급/NNG+이/JKS
+높은	높/VA+은/ETM
+'실버	'/SS+실버/NNG
+스타	스타/NNG
+훈장'이	훈장/NNG+'/SS+이/JKS
+추서됐다.	추서/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.9.1
+김 병장의 부모는 아들을 잃고 나서 조지 W 부시 당시 대통령이 직접 쓴 위로 편지를 받았다.
+
+김	김/NNP
+병장의	병장/NNG+의/JKG
+부모는	부모/NNG+는/JX
+아들을	아들/NNG+을/JKO
+잃고	잃/VV+고/EC
+나서	나/VX+아서/EC
+조지	조지/NNP
+W	W/SL
+부시	부시/NNP
+당시	당시/NNG
+대통령이	대통령/NNG+이/JKS
+직접	직접/MAG
+쓴	쓰/VV+ㄴ/ETM
+위로	위로/NNG
+편지를	편지/NNG+를/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.228.9.2
+장례식엔 아널드 슈워제네거 당시 캘리포니아 주지사 등 정·관계 인사와 군 장성들이 참석했다.
+
+장례식엔	장례식/NNG+에/JKB+ㄴ/JX
+아널드	아널드/NNP
+슈워제네거	슈워제네거/NNP
+당시	당시/NNG
+캘리포니아	캘리포니아/NNP
+주지사	주지사/NNG
+등	등/NNB
+정·관계	정·관계/NNG
+인사와	인사/NNG+와/JC
+군	군/NNG
+장성들이	장성/NNG+들/XSN+이/JKS
+참석했다.	참석/NNG+하/XSV+았/EP+다/EF+./SF
+
+

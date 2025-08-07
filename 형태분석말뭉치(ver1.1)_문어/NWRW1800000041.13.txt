@@ -1,0 +1,325 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.13
+metadata : {}
+
+
+# id : NWRW1800000041.13.1.1
+LG 전략 스마트폰 G3 5월말 ‘조기 등판’
+
+LG	LG/SL
+전략	전략/NNG
+스마트폰	스마트폰/NNG
+G3	G/SL+3/SN
+5월말	5/SN+월/NNB+말/NNB
+‘조기	‘/SS+조기/NNG
+등판’	등판/NNG+’/SS
+
+
+# id : NWRW1800000041.13.2.1
+삼성 갤S5 6월 론칭 알려지자… 예정보다 두달 이상 출시 앞당겨 QHD 스마트폰 시장 선점 계획
+
+삼성	삼성/NNP
+갤S5	갤S5/NNP
+6월	6/SN+월/NNB
+론칭	론칭/NNG
+알려지자…	알려지/VV+자/EC+…/SE
+예정보다	예정/NNG+보다/JKB
+두달	두/MMN+달/NNB
+이상	이상/NNG
+출시	출시/NNG
+앞당겨	앞당기/VV+어/EC
+QHD	QHD/SL
+스마트폰	스마트폰/NNG
+시장	시장/NNG
+선점	선점/NNG
+계획	계획/NNG
+
+
+# id : NWRW1800000041.13.3.1
+LG전자가 이달 27, 28일 세계 6개 도시에서 전략 스마트폰 ‘LG G3’의 론칭 행사를 연다.
+
+LG전자가	LG전자/NNP+가/JKS
+이달	이달/NNG
+27,	27/SN+,/SP
+28일	28/SN+일/NNB
+세계	세계/NNG
+6개	6/SN+개/NNB
+도시에서	도시/NNG+에서/JKB
+전략	전략/NNG
+스마트폰	스마트폰/NNG
+‘LG	‘/SS+LG/SL
+G3’의	G/SL+3/SN+’/SS+의/JKG
+론칭	론칭/NNG
+행사를	행사/NNG+를/JKO
+연다.	열/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.13.3.2
+지난달 30일 전자업계에 따르면 LG전자는 이달 27일 런던 뉴욕 샌프란시스코에서, 이달 28일 서울 이스탄불 싱가포르에서 각각 론칭 행사를 갖는다.
+
+지난달	지난달/NNG
+30일	30/SN+일/NNB
+전자업계에	전자업/NNG+계/XSN+에/JKB
+따르면	따르/VV+면/EC
+LG전자는	LG전자/NNP+는/JX
+이달	이달/NNG
+27일	27/SN+일/NNB
+런던	런던/NNP
+뉴욕	뉴욕/NNP
+샌프란시스코에서,	샌프란시스코/NNP+에서/JKB+,/SP
+28일	28/SN+일/NNB
+서울	서울/NNP
+이스탄불	이스탄불/NNP
+싱가포르에서	싱가포르/NNP+에서/JKB
+각각	각각/MAG
+론칭	론칭/NNG
+행사를	행사/NNG+를/JKO
+갖는다.	갖/VV+는다/EF+./SF
+
+
+# id : NWRW1800000041.13.3.3
+24시간 이내에 순차적으로 LG G3를 전 세계에 공개하는 것이다.
+
+24시간	24/SN+시간/NNB
+이내에	이내/NNG+에/JKB
+순차적으로	순차/NNG+적/XSN+으로/JKB
+LG	LG/SL
+G3를	G/SL+3/SN+를/JKO
+전	전/MMN
+세계에	세계/NNG+에/JKB
+공개하는	공개/NNG+하/XSV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.13.3.4
+LG전자가 6개 도시에서 스마트폰 신제품 론칭 행사를 여는 것은 이번이 처음이다.
+
+LG전자가	LG전자/NNP+가/JKS
+6개	6/SN+개/NNB
+도시에서	도시/NNG+에서/JKB
+스마트폰	스마트폰/NNG
+신제품	신/XPN+제품/NNG
+론칭	론칭/NNG
+행사를	행사/NNG+를/JKO
+여는	열/VV+는/ETM
+것은	것/NNB+은/JX
+이번이	이번/NNG+이/JKS
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.13.4.1
+LG G3는 기존 고화질(HD)에 비해 4배나 선명한 초고해상도(QHD) 화질의 디스플레이가 적용되는 것으로 알려져 화제를 모으고 있다.
+
+LG	LG/SL
+G3는	G/SL+3/SN+는/JX
+기존	기존/NNG
+고화질(HD)에	고/XPN+화질/NNG+(/SS+HD/SL+)/SS+에/JKB
+비해	비/NNG+하/XSV+아/EC
+4배나	4/SN+배/NNG+나/JX
+선명한	선명/NNG+하/XSA+ㄴ/ETM
+초고해상도(QHD)	초/XPN+고/XPN+해상도/NNG+(/SS+QHD/SL+)/SS
+화질의	화질/NNG+의/JKG
+디스플레이가	디스플레이/NNG+가/JKS
+적용되는	적용/NNG+되/XSV+는/ETM
+것으로	것/NNB+으로/JKB
+알려져	알려지/VV+어/EC
+화제를	화제/NNG+를/JKO
+모으고	모으/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.13.4.2
+전작인 ‘LG G2’를 지난해 8월 공개했던 LG전자는 G3 역시 당초 하반기(7∼12월) 출시를 계획했지만 이번에 전략적으로 출시 시기를 앞당겼다.
+
+전작인	전작/NNG+이/VCP+ㄴ/ETM
+‘LG	‘/SS+LG/SL
+G2’를	G/SL+2/SN+’/SS+를/JKO
+지난해	지난해/NNG
+8월	8/SN+월/NNB
+공개했던	공개/NNG+하/XSV+았/EP+던/ETM
+LG전자는	LG전자/NNP+는/JX
+G3	G/SL+3/SN
+역시	역시/MAG
+당초	당초/NNG
+하반기(7∼12월)	하반기/NNG+(/SS+7/SN+∼/SO+12/SN+월/NNB+)/SS
+출시를	출시/NNG+를/JKO
+계획했지만	계획/NNG+하/XSV+았/EP+지만/EC
+이번에	이번/NNG+에/JKB
+전략적으로	전략/NNG+적/XSN+으로/JKB
+출시	출시/NNG
+시기를	시기/NNG+를/JKO
+앞당겼다.	앞당기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.13.4.3
+6월에 삼성전자가 QHD 디스플레이를 탑재한 갤럭시S5 신규 모델을 출시할 것으로 알려지자 이보다 앞서 G3를 출시해 QHD 스마트폰 시장을 선점하겠다는 전략으로 보인다.
+
+6월에	6/SN+월/NNB+에/JKB
+삼성전자가	삼성전자/NNP+가/JKS
+QHD	QHD/SL
+디스플레이를	디스플레이/NNG+를/JKO
+탑재한	탑재/NNG+하/XSV+ㄴ/ETM
+갤럭시S5	갤럭시S5/NNP
+신규	신규/NNG
+모델을	모델/NNG+을/JKO
+출시할	출시/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+알려지자	알려지/VV+자/EC
+이보다	이/NP+보다/JKB
+앞서	앞서/VV+어/EC
+G3를	G/SL+3/SN+를/JKO
+출시해	출시/NNG+하/XSV+아/EC
+스마트폰	스마트폰/NNG
+시장을	시장/NNG+을/JKO
+선점하겠다는	선점/NNG+하/XSV+겠/EP+다는/ETM
+전략으로	전략/NNG+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.13.5.1
+정도현 LG전자 최고재무책임자(CFO·사장)는 지난달 29일 서울 여의도 트윈타워에서 열린 2014년도 1분기(1∼3월) 실적설명회에서 “시장과 경쟁 상황 등을 고려해 G3의 출시 시기를 전략적으로 당기고자 한다”며 “이르면 5월 말 글로벌 순차 출시를 해 나갈 것”이라고 설명했다.
+
+정도현	정도현/NNP
+LG전자	LG전자/NNP
+최고재무책임자(CFO·사장)는	최고/NNG+재무/NNG+책임자/NNG+(/SS+CFO/SL+·/SP+사장/NNG+)/SS+는/JX
+지난달	지난달/NNG
+29일	29/SN+일/NNB
+서울	서울/NNP
+여의도	여의도/NNP
+트윈타워에서	트윈/NNG+타워/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+2014년도	2014/SN+년도/NNB
+1분기(1∼3월)	1/SN+분기/NNG+(/SS+1/SN+∼/SO+3/SN+월/NNB+)/SS
+실적설명회에서	실적/NNG+설명회/NNG+에서/JKB
+“시장과	“/SS+시장/NNG+과/JC
+경쟁	경쟁/NNG
+상황	상황/NNG
+등을	등/NNB+을/JKO
+고려해	고려/NNG+하/XSV+아/EC
+G3의	G/SL+3/SN+의/JKG
+출시	출시/NNG
+시기를	시기/NNG+를/JKO
+전략적으로	전략/NNG+적/XSN+으로/JKB
+당기고자	당기/VV+고자/EC
+한다”며	하/VX+ㄴ다/EF+”/SS+며/EC
+“이르면	“/SS+이르/VA+면/EC
+5월	5/SN+월/NNB
+말	말/NNB
+글로벌	글로벌/NNG
+순차	순차/NNG
+출시를	출시/NNG+를/JKO
+해	하/VV+아/EC
+나갈	나가/VX+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.13.6.1
+업계에서는 LG전자가 예정보다 2개월 이상 G3의 출시 시점을 앞당기는 것을 두고 승부수라는 해석이 나온다.
+
+업계에서는	업계/NNG+에서/JKB+는/JX
+LG전자가	LG전자/NNP+가/JKS
+예정보다	예정/NNG+보다/JKB
+2개월	2/SN+개월/NNB
+이상	이상/NNG
+G3의	G/SL+3/SN+의/JKG
+출시	출시/NNG
+시점을	시점/NNG+을/JKO
+앞당기는	앞당기/VV+는/ETM
+것을	것/NNB+을/JKO
+두고	두/VV+고/EC
+승부수라는	승부수/NNG+이/VCP+라는/ETM
+해석이	해석/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.13.6.2
+올해 말까지 G3를 판매할 수 있는 기간을 최대로 늘려 매출을 늘리고 브랜드파워를 강화하겠다는 것.
+
+올해	올해/NNG
+말까지	말/NNB+까지/JX
+G3를	G/SL+3/SN+를/JKO
+판매할	판매/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+기간을	기간/NNG+을/JKO
+최대로	최대/NNG+로/JKB
+늘려	늘리/VV+어/EC
+매출을	매출/NNG+을/JKO
+늘리고	늘리/VV+고/EC
+브랜드파워를	브랜드/NNG+파워/NNG+를/JKO
+강화하겠다는	강화/NNG+하/XSV+겠/EP+다는/ETM
+것.	것/NNB+./SF
+
+
+# id : NWRW1800000041.13.6.3
+특히 여름휴가 등이 몰리는 7, 8월에 신제품을 내놓는 것보다 휴대전화 수요가 살아 있는 5월 말이 낫다고 본 것으로 해석된다.
+
+특히	특히/MAG
+여름휴가	여름휴가/NNG
+등이	등/NNB+이/JKS
+몰리는	몰리/VV+는/ETM
+7,	7/SN+,/SP
+8월에	8/SN+월/NNB+에/JKB
+신제품을	신/XPN+제품/NNG+을/JKO
+내놓는	내놓/VV+는/ETM
+것보다	것/NNB+보다/JKB
+휴대전화	휴대/NNG+전화/NNG
+수요가	수요/NNG+가/JKS
+살아	살/VV+아/EC
+있는	있/VX+는/ETM
+5월	5/SN+월/NNB
+말이	말/NNB+이/JKS
+낫다고	낫/VA+다고/EC
+본	보/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+해석된다.	해석/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.13.7.1
+G3는 5.5인치 크기의 QHD 디스플레이 외에도 퀄컴의 스냅드래건801 프로세서에 3기가바이트(GB) 램, 32GB의 저장공간, 1300만 화소 후면 카메라를 장착한 것으로 알려졌다.
+
+G3는	G/SL+3/SN+는/JX
+5.5인치	5/SN+./SP+5/SN+인치/NNB
+크기의	크기/NNG+의/JKG
+QHD	QHD/SL
+디스플레이	디스플레이/NNG
+외에도	외/NNB+에/JKB+도/JX
+퀄컴의	퀄컴/NNP+의/JKG
+스냅드래건801	스냅드래건801/NNP
+프로세서에	프로세서/NNG+에/JKB
+3기가바이트(GB)	3/SN+기가바이트/NNB+(/SS+GB/SW+)/SS
+램,	램/NNG+,/SP
+32GB의	32/SN+GB/SW+의/JKG
+저장공간,	저장/NNG+공간/NNG+,/SP
+1300만	1300/SN+만/NR
+화소	화소/NNG
+후면	후면/NNG
+카메라를	카메라/NNG+를/JKO
+장착한	장착/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.13.7.2
+‘노크코드’와 ‘후면 키’ 등 기존 LG전자 프리미엄 폰에 탑재된 주요 사용자경험(UX)도 그대로 적용된다.
+
+‘노크코드’와	‘/SS+노크/NNG+코드/NNG+’/SS+와/JC
+‘후면	‘/SS+후면/NNG
+키’	키/NNG+’/SS
+등	등/NNB
+기존	기존/NNG
+LG전자	LG전자/NNP
+프리미엄	프리미엄/NNG
+폰에	폰/NNG+에/JKB
+탑재된	탑재/NNG+되/XSV+ㄴ/ETM
+주요	주요/NNG
+사용자경험(UX)도	사용자/NNG+경험/NNG+(/SS+UX/SL+)/SS+도/JX
+그대로	그대로/MAG
+적용된다.	적용/NNG+되/XSV+ㄴ다/EF+./SF
+
+

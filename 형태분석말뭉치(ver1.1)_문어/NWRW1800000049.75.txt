@@ -1,0 +1,289 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.75
+metadata : {}
+
+
+# id : NWRW1800000049.75.1.1
+[사회공헌 Together]SC제일은행, 시각장애인 위한 콘텐츠 개발
+
+[사회공헌	[/SS+사회/NNG+공헌/NNG
+Together]SC제일은행,	Together/SL+]/SS+SC제일은행/NNP+,/SP
+시각장애인	시각/NNG+장애인/NNG
+위한	위하/VV+ㄴ/ETM
+콘텐츠	콘텐츠/NNG
+개발	개발/NNG
+
+
+# id : NWRW1800000049.75.2.1
+SC제일은행은 시각장애인을 위한 오디오 콘텐츠를 개발하고 기부하는 ‘SC제일은행 착한도서관프로젝트’를 6년째 진행하고 있다.
+
+SC제일은행은	SC제일은행/NNP+은/JX
+시각장애인을	시각/NNG+장애인/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+오디오	오디오/NNG
+콘텐츠를	콘텐츠/NNG+를/JKO
+개발하고	개발/NNG+하/XSV+고/EC
+기부하는	기부/NNG+하/XSV+는/ETM
+‘SC제일은행	‘/SS+SC제일은행/NNP
+착한도서관프로젝트’를	착하/VA+ㄴ/ETM+도서관/NNG+프로젝트/NNG+’/SS+를/JKO
+6년째	6/SN+년/NNB+째/XSN
+진행하고	진행/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.75.2.2
+SC제일은행의 모기업인 SC그룹이 전 세계적으로 실시하고 있는 사회공헌활동 ‘Seeing is Believing’의 일환으로 SC제일은행의 대표적인 캠페인이다.
+
+SC제일은행의	SC제일은행/NNP+의/JKG
+모기업인	모기업/NNG+이/VCP+ㄴ/ETM
+SC그룹이	SC그룹/NNP+이/JKS
+전	전/MMN
+세계적으로	세계/NNG+적/XSN+으로/JKB
+실시하고	실시/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+사회공헌활동	사회/NNG+공헌/NNG+활동/NNG
+‘Seeing	‘/SS+Seeing/SL
+is	is/SL
+Believing’의	Believing/SL+’/SS+의/JKG
+일환으로	일환/NNG+으로/JKB
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+캠페인이다.	캠페인/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.2.3
+‘SC제일은행 착한도서관프로젝트’는 한국 내 시각장애인들에게 가장 필요한 것이 다양한 분야의 오디오 콘텐츠 보급이라는 점에 주목했다.
+
+‘SC제일은행	‘/SS+SC제일은행/NNP
+착한도서관프로젝트’는	착하/VA+ㄴ/ETM+도서관/NNG+프로젝트/NNG+’/SS+는/JX
+한국	한국/NNP
+내	내/NNB
+시각장애인들에게	시각/NNG+장애인/NNG+들/XSN+에게/JKB
+가장	가장/MAG
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+것이	것/NNB+이/JKS
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+분야의	분야/NNG+의/JKG
+오디오	오디오/NNG
+콘텐츠	콘텐츠/NNG
+보급이라는	보급/NNG+이/VCP+라는/ETM
+점에	점/NNG+에/JKB
+주목했다.	주목/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.2.4
+또 시각장애에 대한 관심을 높이기 위해 기업의 일방적인 기부 활동이 아닌 일반인들의 재능기부로 진행하고 있다.
+
+또	또/MAG
+시각장애에	시각/NNG+장애/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+관심을	관심/NNG+을/JKO
+높이기	높이/VV+기/ETN
+위해	위하/VV+아/EC
+기업의	기업/NNG+의/JKG
+일방적인	일방/NNG+적/XSN+이/VCP+ㄴ/ETM
+기부	기부/NNG
+활동이	활동/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+일반인들의	일반인/NNG+들/XSN+의/JKG
+재능기부로	재능/NNG+기부/NNG+로/JKB
+진행하고	진행/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.75.2.5
+현재까지 23만 명이 참여했으며 목소리 기부자를 선정하기 위해 오프라인으로 진행되는 ‘목소리 오디션’에는 남녀노소를 가리지 않고 다양한 계층이 참가하고 있다.
+
+현재까지	현재/NNG+까지/JX
+23만	23/SN+만/NR
+명이	명/NNB+이/JKS
+참여했으며	참여/NNG+하/XSV+았/EP+으며/EC
+목소리	목소리/NNG
+기부자를	기부자/NNG+를/JKO
+선정하기	선정/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+오프라인으로	오프라인/NNG+으로/JKB
+진행되는	진행/NNG+되/XSV+는/ETM
+‘목소리	‘/SS+목소리/NNG
+오디션’에는	오디션/NNG+’/SS+에/JKB+는/JX
+남녀노소를	남녀노소/NNG+를/JKO
+가리지	가리/VV+지/EC
+않고	않/VX+고/EC
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+계층이	계층/NNG+이/JKS
+참가하고	참가/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.75.3.1
+또 매년 제작되는 오디오북은 시각장애인에게 필요한 다양한 분야를 개척하고 있다.
+
+또	또/MAG
+매년	매년/MAG
+제작되는	제작/NNG+되/XSV+는/ETM
+오디오북은	오디오북/NNG+은/JX
+시각장애인에게	시각/NNG+장애인/NNG+에게/JKB
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+분야를	분야/NNG+를/JKO
+개척하고	개척/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.75.3.2
+첫해 여행책으로 출발해 전 세계의 유명 미술작품 500점을 묘사·해설한 오디오 콘텐츠를 만들었다.
+
+첫해	첫해/NNG
+여행책으로	여행책/NNG+으로/JKB
+출발해	출발/NNG+하/XSV+아/EC
+전	전/MMN
+세계의	세계/NNG+의/JKG
+유명	유명/NNG
+미술작품	미술/NNG+작품/NNG
+500점을	500/SN+점/NNB+을/JKO
+묘사·해설한	묘사/NNG+·/SP+해설/NNG+하/XSV+ㄴ/ETM
+오디오	오디오/NNG
+콘텐츠를	콘텐츠/NNG+를/JKO
+만들었다.	만들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.3.3
+지난해에는 서울시와의 업무협력을 통해 서울시 문화유산 100점의 생생한 모습을 담은 콘텐츠를 개발했다.
+
+지난해에는	지난해/NNG+에/JKB+는/JX
+서울시와의	서울시/NNP+와/JKB+의/JKG
+업무협력을	업무/NNG+협력/NNG+을/JKO
+통해	통하/VV+아/EC
+서울시	서울시/NNP
+문화유산	문화유산/NNG
+100점의	100/SN+점/NNB+의/JKG
+생생한	생생하/VA+ㄴ/ETM
+모습을	모습/NNG+을/JKO
+담은	담/VV+은/ETM
+콘텐츠를	콘텐츠/NNG+를/JKO
+개발했다.	개발/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.3.4
+이런 성과에 힘입어 ‘SC제일은행 착한도서관프로젝트’는 ‘2015 국제비즈니스대상(International Business Awards)’에서 ‘아시아 지역 올해의 CSR(기업의 사회적책임) 프로그램’ 부문 은상을 수상하며 높은 평가를 받았다.
+
+이런	이런/MMD
+성과에	성과/NNG+에/JKB
+힘입어	힘입/VV+어/EC
+‘SC제일은행	‘/SS+SC제일은행/NNP
+착한도서관프로젝트’는	착하/VA+ㄴ/ETM+도서관/NNG+프로젝트/NNG+’/SS+는/JX
+‘2015	‘/SS+2015/SN
+국제비즈니스대상(International	국제/NNG+비즈니스/NNG+대상/NNG+(/SS+International/SL
+Business	Business/SL
+Awards)’에서	Awards/SL+)/SS+’/SS+에서/JKB
+‘아시아	‘/SS+아시아/NNP
+지역	지역/NNG
+올해의	올해/NNG+의/JKG
+CSR(기업의	CSR/SL+(/SS+기업/NNG+의/JKG
+사회적책임)	사회/NNG+적/XSN+책임/NNG+)/SS
+프로그램’	프로그램/NNG+’/SS
+부문	부문/NNG
+은상을	은상/NNG+을/JKO
+수상하며	수상/NNG+하/XSV+며/EC
+높은	높/VA+은/ETM
+평가를	평가/NNG+를/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.4.1
+올해는 시각장애 청소년을 위한 경제교과서 제작에 나섰다.
+
+올해는	올해/NNG+는/JX
+시각장애	시각/NNG+장애/NNG
+청소년을	청소년/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+경제교과서	경제/NNG+교과서/NNG
+제작에	제작/NNG+에/JKB
+나섰다.	나서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.4.2
+‘문맹은 생활을 불편하게 하지만, 금융문맹은 생존을 못하게 한다’는 말이 있을 정도로 금융교육은 생활에 필수적인 요소이지만 시각장애인들을 위한 경제·금융 관련 콘텐츠는 부족했다.
+
+‘문맹은	‘/SS+문맹/NNG+은/JX
+생활을	생활/NNG+을/JKO
+불편하게	불편/NNG+하/XSA+게/EC
+하지만,	하/VX+지만/EC+,/SP
+금융문맹은	금융/NNG+문맹/NNG+은/JX
+생존을	생존/NNG+을/JKO
+못하게	못/MAG+하/VV+게/EC
+한다’는	하/VX+ㄴ다/EF+’/SS+는/ETM
+말이	말/NNG+이/JKS
+있을	있/VV+을/ETM
+정도로	정도/NNG+로/JKB
+금융교육은	금융/NNG+교육/NNG+은/JX
+생활에	생활/NNG+에/JKB
+필수적인	필수/NNG+적/XSN+이/VCP+ㄴ/ETM
+요소이지만	요소/NNG+이/VCP+지만/EC
+시각장애인들을	시각/NNG+장애인/NNG+들/XSN+을/JKO
+위한	위하/VV+ㄴ/ETM
+경제·금융	경제/NNG+·/SP+금융/NNG
+관련	관련/NNG
+콘텐츠는	콘텐츠/NNG+는/JX
+부족했다.	부족/NNG+하/XSA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.4.3
+SC제일은행은 은행의 역량을 살려 초중학생을 위한 150개 경제교육 키워드를 뽑아내 스토리텔링형 콘텐츠를 제작할 예정이다.
+
+SC제일은행은	SC제일은행/NNP+은/JX
+은행의	은행/NNG+의/JKG
+역량을	역량/NNG+을/JKO
+살려	살리/VV+어/EC
+초중학생을	초중학생/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+150개	150/SN+개/NNB
+경제교육	경제/NNG+교육/NNG
+키워드를	키워드/NNG+를/JKO
+뽑아내	뽑아내/VV+어/EC
+스토리텔링형	스토리텔링/NNG+형/XSN
+콘텐츠를	콘텐츠/NNG+를/JKO
+제작할	제작/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.4.4
+목소리 기부자 모집에만 1만7000명이 몰렸으며 3월 25∼27일 3일간 서울 종로구 SC제일은행 본점에서 ‘착한목소리페스티벌’을 통해 기부자 285명이 최종 선발됐다.
+
+목소리	목소리/NNG
+기부자	기부자/NNG
+모집에만	모집/NNG+에/JKB+만/JX
+1만7000명이	1/SN+만/NR+7000/SN+명/NNB+이/JKS
+몰렸으며	몰리/VV+었/EP+으며/EC
+3월	3/SN+월/NNB
+25∼27일	25/SN+∼/SO+27/SN+일/NNB
+3일간	3/SN+일/NNB+간/XSN
+서울	서울/NNP
+종로구	종로구/NNP
+SC제일은행	SC제일은행/NNP
+본점에서	본점/NNG+에서/JKB
+‘착한목소리페스티벌’을	‘/SS+착하/VA+ㄴ/ETM+목소리/NNG+페스티벌/NNG+’/SS+을/JKO
+통해	통하/VV+아/EC
+285명이	285/SN+명/NNB+이/JKS
+최종	최종/NNG
+선발됐다.	선발/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.75.4.5
+이렇게 제작된 오디오 콘텐츠는 무료 스마트폰 앱으로 개발돼 배포될 예정이다.
+
+이렇게	이렇/VA+게/EC
+제작된	제작/NNG+되/XSV+ㄴ/ETM
+오디오	오디오/NNG
+콘텐츠는	콘텐츠/NNG+는/JX
+무료	무료/NNG
+스마트폰	스마트폰/NNG
+앱으로	앱/NNG+으로/JKB
+개발돼	개발/NNG+되/XSV+어/EC
+배포될	배포/NNG+되/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+

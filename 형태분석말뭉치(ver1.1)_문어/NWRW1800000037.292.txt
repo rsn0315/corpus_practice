@@ -1,0 +1,508 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000037.292
+metadata : {}
+
+
+# id : NWRW1800000037.292.1.1
+[광화문에서/허두영]아이디어는 개구리 알만큼 잘 죽는다
+
+[광화문에서/허두영]아이디어는	[/SS+광화문/NNP+에서/JKB+//SP+허두영/NNP+]/SS+아이디어/NNG+는/JX
+개구리	개구리/NNG
+알만큼	알/NNG+만큼/JKB
+잘	잘/MAG
+죽는다	죽/VV+는다/EF
+
+
+# id : NWRW1800000037.292.2.1
+프랑스의 시인 폴 발레리는 수학과 물리학에도 관심이 많았다.
+
+프랑스의	프랑스/NNP+의/JKG
+시인	시인/NNG
+폴	폴/NNP
+발레리는	발레리/NNP+는/JX
+수학과	수학/NNG+과/JC
+물리학에도	물리학/NNG+에/JKB+도/JX
+관심이	관심/NNG+이/JKS
+많았다.	많/VA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.2.2
+책을 통해 패러데이나 드브로이 같은 과학자의 이론을 이해하고, 맥스웰이나 아인슈타인처럼 유명한 과학자와 사귀는 걸 좋아했다.
+
+책을	책/NNG+을/JKO
+통해	통하/VV+아/EC
+패러데이나	패러데이/NNP+나/JX
+드브로이	드브로이/NNP
+같은	같/VA+은/ETM
+과학자의	과학자/NNG+의/JKG
+이론을	이론/NNG+을/JKO
+이해하고,	이해/NNG+하/XSV+고/EC+,/SP
+맥스웰이나	맥스웰/NNP+이나/JC
+아인슈타인처럼	아인슈타인/NNP+처럼/JKB
+유명한	유명/NNG+하/XSA+ㄴ/ETM
+과학자와	과학자/NNG+와/JKB
+사귀는	사귀/VV+는/ETM
+걸	거/NNB+ㄹ/JKO
+좋아했다.	좋아하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.2.3
+당시 상대성 이론이 발표되어 관심을 끌자, 발레리는 아인슈타인을 만난 자리에서 불쑥 물었다.
+
+당시	당시/NNG
+상대성	상대/NNG+성/XSN
+이론이	이론/NNG+이/JKS
+발표되어	발표/NNG+되/XSV+어/EC
+관심을	관심/NNG+을/JKO
+끌자,	끌/VV+자/EC+,/SP
+발레리는	발레리/NNP+는/JX
+아인슈타인을	아인슈타인/NNP+을/JKO
+만난	만나/VV+ㄴ/ETM
+자리에서	자리/NNG+에서/JKB
+불쑥	불쑥/MAG
+물었다.	묻/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.3.1
+“갑자기 생각이 떠오르면 공책에 적어 둡니까?”
+
+“갑자기	“/SS+갑자기/MAG
+생각이	생각/NNG+이/JKS
+떠오르면	떠오르/VV+면/EC
+공책에	공책/NNG+에/JKB
+적어	적/VV+어/EC
+둡니까?”	두/VX+ㅂ니까/EF+?/SF+”/SS
+
+
+# id : NWRW1800000037.292.4.1
+아인슈타인은 깜짝 놀란 표정으로 그를 바라보더니 퉁명스럽게 답했다.
+
+아인슈타인은	아인슈타인/NNP+은/JX
+깜짝	깜짝/MAG
+놀란	놀라/VV+ㄴ/ETM
+표정으로	표정/NNG+으로/JKB
+그를	그/NP+를/JKO
+바라보더니	바라보/VV+더니/EC
+퉁명스럽게	퉁명/NNG+스럽/XSA+게/EC
+답했다.	답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.5.1
+“아뇨.
+
+“아뇨.	“/SS+아뇨/IC+./SF
+
+
+# id : NWRW1800000037.292.5.2
+전혀 그럴 필요가 없습니다.
+
+전혀	전혀/MAG
+그럴	그러/VV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+없습니다.	없/VA+습니다/EF+./SF
+
+
+# id : NWRW1800000037.292.5.3
+생각이 갑자기 떠오르는 경우는 거의 없답니다.”
+
+생각이	생각/NNG+이/JKS
+갑자기	갑자기/MAG
+떠오르는	떠오르/VV+는/ETM
+경우는	경우/NNG+는/JX
+거의	거의/MAG
+없답니다.”	없/VA+답니다/EF+./SF+”/SS
+
+
+# id : NWRW1800000037.292.6.1
+발레리는 영감을 얻어 독창적인 사유에 이르는 경위를 ‘번갯불의 섬광’이라고 표현했다.
+
+발레리는	발레리/NNP+는/JX
+영감을	영감/NNG+을/JKO
+얻어	얻/VV+어/EC
+독창적인	독창/NNG+적/XSN+이/VCP+ㄴ/ETM
+사유에	사유/NNG+에/JKB
+이르는	이르/VV+는/ETM
+경위를	경위/NNG+를/JKO
+‘번갯불의	‘/SS+번갯불/NNG+의/JKG
+섬광’이라고	섬광/NNG+’/SS+이라고/JKQ
+표현했다.	표현/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.6.2
+천재는 번갯불의 섬광처럼 순식간에 스쳐 지나가는 아이디어를 재빠르게 포착하는, 비범한 능력을 지닌 사람이라는 것이다.
+
+천재는	천재/NNG+는/JX
+번갯불의	번갯불/NNG+의/JKG
+섬광처럼	섬광/NNG+처럼/JKB
+순식간에	순식/NNG+간/XSN+에/JKB
+스쳐	스치/VV+어/EC
+지나가는	지나가/VV+는/ETM
+아이디어를	아이디어/NNG+를/JKO
+재빠르게	재빠르/VA+게/EC
+포착하는,	포착/NNG+하/XSV+는/ETM+,/SP
+비범한	비범하/VA+ㄴ/ETM
+능력을	능력/NNG+을/JKO
+지닌	지니/VV+ㄴ/ETM
+사람이라는	사람/NNG+이/VCP+라는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.7.1
+사고실험(思考實驗)은 실험에 필요한 장치와 조건을 가정한 뒤 일어날 현상을 예측하는 머릿속의 실험이다.
+
+사고실험(思考實驗)은	사고/NNG+실험/NNG+(/SS+思考實驗/SH+)/SS+은/JX
+실험에	실험/NNG+에/JKB
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+장치와	장치/NNG+와/JC
+조건을	조건/NNG+을/JKO
+가정한	가정/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+일어날	일어나/VV+ㄹ/ETM
+현상을	현상/NNG+을/JKO
+예측하는	예측/NNG+하/XSV+는/ETM
+머릿속의	머릿속/NNG+의/JKG
+실험이다.	실험/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.7.2
+사고실험을 통해 갈릴레이는 관성의 개념을 발견했고, 톰슨은 원자 모형을 제시했다.
+
+사고실험을	사고/NNG+실험/NNG+을/JKO
+통해	통하/VV+아/EC
+갈릴레이는	갈릴레이/NNP+는/JX
+관성의	관성/NNG+의/JKG
+개념을	개념/NNG+을/JKO
+발견했고,	발견/NNG+하/XSV+았/EP+고/EC+,/SP
+톰슨은	톰슨/NNP+은/JX
+원자	원자/NNG
+모형을	모형/NNG+을/JKO
+제시했다.	제시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.7.3
+아인슈타인은 ‘번갯불의 섬광’처럼 생각이 갑자기 떠오른다는 말을 이해하지 못했다.
+
+아인슈타인은	아인슈타인/NNP+은/JX
+‘번갯불의	‘/SS+번갯불/NNG+의/JKG
+섬광’처럼	섬광/NNG+’/SS+처럼/JKB
+생각이	생각/NNG+이/JKS
+갑자기	갑자기/MAG
+떠오른다는	떠오르/VV+ㄴ다는/ETM
+말을	말/NNG+을/JKO
+이해하지	이해/NNG+하/XSV+지/EC
+못했다.	못하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.7.4
+사고실험을 통해 항상 생각하고 있었기 때문이다.
+
+사고실험을	사고/NNG+실험/NNG+을/JKO
+통해	통하/VV+아/EC
+항상	항상/MAG
+생각하고	생각/NNG+하/XSV+고/EC
+있었기	있/VX+었/EP+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.8.1
+박근혜 정부가 ‘창조경제’를 국정기조의 핵심 단어로 내세우면서 미래창조과학부와 관련 기관의 조직 명칭에 새로운 접두사들이 추가됐다.
+
+박근혜	박근혜/NNP
+정부가	정부/NNG+가/JKS
+‘창조경제’를	‘/SS+창조/NNG+경제/NNG+’/SS+를/JKO
+국정기조의	국정/NNG+기조/NNG+의/JKG
+핵심	핵심/NNG
+단어로	단어/NNG+로/JKB
+내세우면서	내세우/VV+면서/EC
+미래창조과학부와	미래/NNG+창조/NNG+과학부/NNG+와/JKB
+관련	관련/NNG
+기관의	기관/NNG+의/JKG
+조직	조직/NNG
+명칭에	명칭/NNG+에/JKB
+새로운	새롭/VA+ㄴ/ETM
+접두사들이	접두사/NNG+들/XSN+이/JKS
+추가됐다.	추가/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.8.2
+창조경제, 창의산업, 창의문화, 미래창의, 창의인재, 융합인재, 융합기획 등등 비슷비슷한 접두사로 이름만 바꾼 조직이 여기저기서 탄생했다.
+
+창조경제,	창조/NNG+경제/NNG+,/SP
+창의산업,	창의/NNG+산업/NNG+,/SP
+창의문화,	창의/NNG+문화/NNG+,/SP
+미래창의,	미래/NNG+창의/NNG+,/SP
+창의인재,	창의/NNG+인재/NNG+,/SP
+융합인재,	융합/NNG+인재/NNG+,/SP
+융합기획	융합/NNG+기획/NNG
+등등	등등/NNB
+비슷비슷한	비슷비슷/MAG+하/XSA+ㄴ/ETM
+접두사로	접두사/NNG+로/JKB
+이름만	이름/NNG+만/JX
+바꾼	바꾸/VV+ㄴ/ETM
+조직이	조직/NNG+이/JKS
+여기저기서	여기저기/NNG+서/JKB
+탄생했다.	탄생/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.8.3
+‘창조경제’나 ‘무한상상’ 같은 접두사를 앞세운 행사나 사업이나 모임도 우후죽순처럼 생겨났다.
+
+‘창조경제’나	‘/SS+창조/NNG+경제/NNG+’/SS+나/JC
+‘무한상상’	‘/SS+무한/NNG+상상/NNG+’/SS
+같은	같/VA+은/ETM
+접두사를	접두사/NNG+를/JKO
+앞세운	앞세우/VV+ㄴ/ETM
+행사나	행사/NNG+나/JC
+사업이나	사업/NNG+이나/JC
+모임도	모임/NNG+도/JX
+우후죽순처럼	우후죽순/NNG+처럼/JKB
+생겨났다.	생겨나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.8.4
+갑자기 ‘창조의 제국’이 된 듯하다.
+
+갑자기	갑자기/MAG
+‘창조의	‘/SS+창조/NNG+의/JKG
+제국’이	제국/NNG+’/SS+이/JKC
+된	되/VV+ㄴ/ETM
+듯하다.	듯/NNB+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000037.292.8.5
+그런데 창조, 창의, 상상 같은 단어를 앞세워 아이디어를 개구리 알처럼 마구마구 낳아도 되는 걸까?
+
+그런데	그런데/MAJ
+창조,	창조/NNG+,/SP
+창의,	창의/NNG+,/SP
+상상	상상/NNG
+같은	같/VA+은/ETM
+단어를	단어/NNG+를/JKO
+앞세워	앞세우/VV+어/EC
+아이디어를	아이디어/NNG+를/JKO
+개구리	개구리/NNG
+알처럼	알/NNG+처럼/JKB
+마구마구	마구마구/MAG
+낳아도	낳/VV+아도/EC
+되는	되/VV+는/ETM
+걸까?	거/NNB+이/VCP+ㄹ까/EF+?/SF
+
+
+# id : NWRW1800000037.292.9.1
+‘빛나는 아이디어들의 실패율은 개구리 알의 폐사율만큼이나 높다.’
+
+‘빛나는	‘/SS+빛나/VV+는/ETM
+아이디어들의	아이디어/NNG+들/XSN+의/JKG
+실패율은	실패/NNG+율/XSN+은/JX
+개구리	개구리/NNG
+알의	알/NNG+의/JKG
+폐사율만큼이나	폐사/NNG+율/XSN+만큼/JKB+이나/JX
+높다.’	높/VA+다/EF+./SF+’/SS
+
+
+# id : NWRW1800000037.292.9.2
+세계적인 석학인 피터 드러커는 ‘빛나는 아이디어 가운데 열에 아홉은 분명 말잔치에 지나지 않고, 남은 것들도 대다수는 아무런 결과도 얻지 못한다’고 지적했다.
+
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+석학인	석학/NNG+이/VCP+ㄴ/ETM
+피터	피터/NNP
+드러커는	드러커/NNP+는/JX
+‘빛나는	‘/SS+빛나/VV+는/ETM
+아이디어	아이디어/NNG
+가운데	가운데/NNG
+열에	열/NR+에/JKB
+아홉은	아홉/NR+은/JX
+분명	분명/MAG
+말잔치에	말잔치/NNG+에/JKB
+지나지	지나/VV+지/EC
+않고,	않/VX+고/EC+,/SP
+남은	남/VV+은/ETM
+것들도	것/NNB+들/XSN+도/JX
+대다수는	대/XPN+다수/NNG+는/JX
+아무런	아무런/MMD
+결과도	결과/NNG+도/JX
+얻지	얻/VV+지/EC
+못한다’고	못하/VX+ㄴ다/EF+’/SS+고/JKQ
+지적했다.	지적/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.9.3
+‘연못마다 개구리 알이 넘쳐나듯이 아이디어도 부족한 법이 없다.’
+
+‘연못마다	‘/SS+연못/NNG+마다/JX
+개구리	개구리/NNG
+알이	알/NNG+이/JKS
+넘쳐나듯이	넘치/VV+어/EC+나/VX+듯이/EC
+아이디어도	아이디어/NNG+도/JX
+부족한	부족/NNG+하/XSA+ㄴ/ETM
+법이	법/NNB+이/JKS
+없다.’	없/VA+다/EF+./SF+’/SS
+
+
+# id : NWRW1800000037.292.10.1
+개구리 알처럼 많은 아이디어를 낳아서 번갯불의 섬광처럼 포착하는 능력이 필요한 걸까?
+
+개구리	개구리/NNG
+알처럼	알/NNG+처럼/JKB
+많은	많/VA+은/ETM
+아이디어를	아이디어/NNG+를/JKO
+낳아서	낳/VV+아서/EC
+번갯불의	번갯불/NNG+의/JKG
+섬광처럼	섬광/NNG+처럼/JKB
+포착하는	포착/NNG+하/XSV+는/ETM
+능력이	능력/NNG+이/JKS
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+걸까?	거/NNB+이/VCP+ㄹ까/EF+?/SF
+
+
+# id : NWRW1800000037.292.10.2
+명저 ‘단절의 시대’에서 드러커는 잘라 말한다.
+
+명저	명저/NNG
+‘단절의	‘/SS+단절/NNG+의/JKG
+시대’에서	시대/NNG+’/SS+에서/JKB
+드러커는	드러커/NNP+는/JX
+잘라	자르/VV+아/EC
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.292.10.3
+지금 필요한 것은 많은 사람이 믿고 있는 것과 달리 창의력이 아니다.
+
+지금	지금/MAG
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+것은	것/NNB+은/JX
+많은	많/VA+은/ETM
+사람이	사람/NNG+이/JKS
+믿고	믿/VV+고/EC
+있는	있/VX+는/ETM
+것과	것/NNB+과/JKB
+달리	달리/MAG
+창의력이	창의력/NNG+이/JKC
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000037.292.10.4
+혁신적인 자세가 중요하다.
+
+혁신적인	혁신/NNG+적/XSN+이/VCP+ㄴ/ETM
+자세가	자세/NNG+가/JKS
+중요하다.	중요/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000037.292.10.5
+그것은 고도로 조직되어 있고, 규율이 잡혀 있으며, 체계적인 프로세스다.
+
+그것은	그것/NP+은/JX
+고도로	고도/NNG+로/JKB
+조직되어	조직/NNG+되/XSV+어/EC
+있고,	있/VX+고/EC+,/SP
+규율이	규율/NNG+이/JKS
+잡혀	잡히/VV+어/EC
+있으며,	있/VX+으며/EC+,/SP
+체계적인	체계/NNG+적/XSN+이/VCP+ㄴ/ETM
+프로세스다.	프로세스/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.292.11.1
+전문가들이 설명하는 창조는 4단계로 진행된다.
+
+전문가들이	전문가/NNG+들/XSN+이/JKS
+설명하는	설명/NNG+하/XSV+는/ETM
+창조는	창조/NNG+는/JX
+4단계로	4/SN+단계/NNG+로/JKB
+진행된다.	진행/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.292.11.2
+①Data+System=Information; 데이터를 가공하여 가치 있는 정보(Information)를 만든다.
+
+①Data+System=Information;	①/SW+Data/SL++/SW+System/SL+=/SW+Information/SL+;/SP
+데이터를	데이터/NNG+를/JKO
+가공하여	가공/NNG+하/XSV+아/EC
+가치	가치/NNG
+있는	있/VA+는/ETM
+정보(Information)를	정보/NNG+(/SS+Information/SL+)/SS+를/JKO
+만든다.	만들/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.292.11.3
+②Information+Experience=Knowledge; 정보에 경험을 더해 지식(Knowledge)을 쌓는다.
+
+②Information+Experience=Knowledge;	②/SN+Information/SL++/SW+Experience/SL+=/SW+Knowledge/SL+;/SP
+정보에	정보/NNG+에/JKB
+경험을	경험/NNG+을/JKO
+더해	더/MAG+하/XSV+아/EC
+지식(Knowledge)을	지식/NNG+(/SS+Knowledge/SL+)/SS+을/JKO
+쌓는다.	쌓/VV+는다/EF+./SF
+
+
+# id : NWRW1800000037.292.11.4
+③Knowledge+Intuition=Wisdom; 지식에 직관(융합)을 담아 지혜(Wisdom)를 터득한다.
+
+③Knowledge+Intuition=Wisdom;	③/SN+Knowledge/SL++/SW+Intuition/SL+=/SW+Wisdom/SL+;/SP
+지식에	지식/NNG+에/JKB
+직관(융합)을	직관/NNG+(/SS+융합/NNG+)/SS+을/JKO
+담아	담/VV+아/EC
+지혜(Wisdom)를	지혜/NNG+(/SS+Wisdom/SL+)/SS+를/JKO
+터득한다.	터득/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.292.11.5
+④Wisdom+Imagination=Creation; 지혜에 상상의 나래를 달아 창조(Creation)를 일으킨다.
+
+④Wisdom+Imagination=Creation;	④/SN+Wisdom/SL++/SW+Imagination/SL+=/SW+Creation/SL+;/SP
+지혜에	지혜/NNG+에/JKB
+상상의	상상/NNG+의/JKG
+나래를	나래/NNG+를/JKO
+달아	달/VV+아/EC
+창조(Creation)를	창조/NNG+(/SS+Creation/SL+)/SS+를/JKO
+일으킨다.	일으키/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.292.11.6
+묘하게도 이 순서는 역대 정부의 국정기조를 그대로 따르고 있다.
+
+묘하게도	묘하/VA+게/EC+도/JX
+이	이/MMD
+순서는	순서/NNG+는/JX
+역대	역대/NNG
+정부의	정부/NNG+의/JKG
+국정기조를	국정/NNG+기조/NNG+를/JKO
+그대로	그대로/MAG
+따르고	따르/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.292.12.1
+창조경제의 공식은 데이터를 기반으로 시스템과 경험과 직관과 상상의 과정을 거쳐야 한다.
+
+창조경제의	창조/NNG+경제/NNG+의/JKG
+공식은	공식/NNG+은/JX
+데이터를	데이터/NNG+를/JKO
+기반으로	기반/NNG+으로/JKB
+시스템과	시스템/NNG+과/JC
+경험과	경험/NNG+과/JC
+직관과	직관/NNG+과/JC
+상상의	상상/NNG+의/JKG
+과정을	과정/NNG+을/JKO
+거쳐야	거치/VV+어야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.292.12.2
+마냥 상상만 부풀린다고 창조가 이뤄지는 것은 아니다.
+
+마냥	마냥/MAG
+상상만	상상/NNG+만/JX
+부풀린다고	부풀리/VV+ㄴ다고/EC
+창조가	창조/NNG+가/JKS
+이뤄지는	이뤄지/VV+는/ETM
+것은	것/NNB+은/JX
+아니다.	아니/VCN+다/EF+./SF
+
+

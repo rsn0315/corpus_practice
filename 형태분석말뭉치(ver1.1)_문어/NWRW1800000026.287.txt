@@ -1,0 +1,152 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.287
+metadata : {}
+
+
+# id : NWRW1800000026.287.1.1
+천영우 차관 "가급적 이른 시일 내 이란 제재 시행 방침"
+
+천영우	천영우/NNP
+차관	차관/NNG
+"가급적	"/SS+가급적/MAG
+이른	이르/VA+ㄴ/ETM
+시일	시일/NNG
+내	내/NNB
+이란	이란/NNP
+제재	제재/NNG
+시행	시행/NNG
+방침"	방침/NNG+"/SS
+
+
+# id : NWRW1800000026.287.2.1
+정부가 준비 중인 대(對) 이란 제재가 속도를 낼 전망이다.
+
+정부가	정부/NNG+가/JKS
+준비	준비/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+대(對)	대/NA+(/SS+對/SH+)/SS
+이란	이란/NNP
+제재가	제재/NNG+가/JKS
+속도를	속도/NNG+를/JKO
+낼	내/VV+ㄹ/ETM
+전망이다.	전망/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.287.2.2
+워싱턴 DC를 방문 중인 천영우 외교부 제2차관은 "가급적 이른 시일 내에 준비가 되는 대로 대(對) 이란 제재를 시행한다는 것이 정부의 방침"이라고 말했다.
+
+워싱턴	워싱턴/NNP
+DC를	DC/SL+를/JKO
+방문	방문/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+천영우	천영우/NNP
+외교부	외교부/NNG
+제2차관은	제/XPN+2/SN+차관/NNG+은/JX
+"가급적	"/SS+가급적/MAG
+이른	이르/VA+ㄴ/ETM
+시일	시일/NNG
+내에	내/NNB+에/JKB
+준비가	준비/NNG+가/JKC
+되는	되/VV+는/ETM
+대로	대로/NNB
+대(對)	대/NA+(/SS+對/SH+)/SS
+이란	이란/NNP
+제재를	제재/NNG+를/JKO
+시행한다는	시행/NNG+하/XSV+ㄴ다는/ETM
+것이	것/NNB+이/JKS
+정부의	정부/NNG+의/JKG
+방침"이라고	방침/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.287.3.1
+이란 제재 문제를 협의하기 위해 미국을 방문한 천 차관은 이날 브리핑을 통해 "국제 평화와 안전, 핵 비확산 문제에 중요한 이해관계를 가진 책임 있는 국제사회의 일원으로서 응당한 도리라는 관점에서 접근하고 있다"며 이같이 말했다.
+
+이란	이란/NNP
+제재	제재/NNG
+문제를	문제/NNG+를/JKO
+협의하기	협의/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+미국을	미국/NNP+을/JKO
+방문한	방문/NNG+하/XSV+ㄴ/ETM
+천	천/NNP
+차관은	차관/NNG+은/JX
+이날	이날/NNG
+브리핑을	브리핑/NNG+을/JKO
+통해	통하/VV+아/EC
+"국제	"/SS+국제/NNG
+평화와	평화/NNG+와/JC
+안전,	안전/NNG+,/SP
+핵	핵/NNG
+비확산	비/XPN+확산/NNG
+문제에	문제/NNG+에/JKB
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+이해관계를	이해관계/NNG+를/JKO
+가진	가지/VV+ㄴ/ETM
+책임	책임/NNG
+있는	있/VA+는/ETM
+국제사회의	국제/NNG+사회/NNG+의/JKG
+일원으로서	일원/NNG+으로서/JKB
+응당한	응당/MAG+하/XSA+ㄴ/ETM
+도리라는	도리/NNG+이/VCP+라는/ETM
+관점에서	관점/NNG+에서/JKB
+접근하고	접근/NNG+하/XSV+고/EC
+있다"며	있/VX+다/EF+"/SS+며/EC
+이같이	이/NP+같이/JKB
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.287.3.2
+그는 "관계부처가 모여서 세부 이행지침, 방향 등을 좀 더 논의해서 이란 제재를 발표할 것"이라고 말했다.
+
+그는	그/NP+는/JX
+"관계부처가	"/SS+관계/NNG+부처/NNG+가/JKS
+모여서	모이/VV+어서/EC
+세부	세부/NNG
+이행지침,	이행/NNG+지침/NNG+,/SP
+방향	방향/NNG
+등을	등/NNB+을/JKO
+좀	좀/MAG
+더	더/MAG
+논의해서	논의/NNG+하/XSV+아서/EC
+이란	이란/NNP
+제재를	제재/NNG+를/JKO
+발표할	발표/NNG+하/XSV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.287.3.3
+천 차관은 방미 기간 중 이란 및 대북 제재를 담당하는 로버트 아인혼(Einhorn) 국무부 조정관, 재무부의 스튜어트 레비(Levy) 테러·금융정보담당 차관 등을 만나 이란 제재 방안에 대해 논의했다.
+
+천	천/NNP
+차관은	차관/NNG+은/JX
+방미	방미/NNG
+기간	기간/NNG
+중	중/NNB
+이란	이란/NNP
+및	및/MAG
+대북	대북/NNG
+제재를	제재/NNG+를/JKO
+담당하는	담당/NNG+하/XSV+는/ETM
+로버트	로버트/NNP
+아인혼(Einhorn)	아인혼/NNP+(/SS+Einhorn/SL+)/SS
+국무부	국무부/NNG
+조정관,	조정관/NNG+,/SP
+재무부의	재무부/NNG+의/JKG
+스튜어트	스튜어트/NNP
+레비(Levy)	레비/NNP+(/SS+Levy/SL+)/SS
+테러·금융정보담당	테러/NNG+·/SP+금융/NNG+정보/NNG+담당/NNG
+차관	차관/NNG
+등을	등/NNB+을/JKO
+만나	만나/VV+아/EC
+제재	제재/NNG
+방안에	방안/NNG+에/JKB
+대해	대하/VV+아/EC
+논의했다.	논의/NNG+하/XSV+았/EP+다/EF+./SF
+
+

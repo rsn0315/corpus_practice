@@ -1,0 +1,249 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.439
+metadata : {}
+
+
+# id : NWRW1800000022.439.1.1
+"한국은 세계 5대 자동차 생산국 모터스포츠에도 영향력 넓혀야";정영조 자동차경주협회장, 한국인 첫 F1 상임위원에 뽑혀
+
+"한국은	"/SS+한국/NNP+은/JX
+세계	세계/NNG
+5대	5/SN+대/NNG
+자동차	자동차/NNG
+생산국	생산국/NNG
+모터스포츠에도	모터스포츠/NNG+에/JKB+도/JX
+영향력	영향력/NNG
+넓혀야";정영조	넓히/VV+어야/EC+"/SS+;/SW+정영조/NNP
+자동차경주협회장,	자동차/NNG+경주/NNG+협회장/NNG+,/SP
+한국인	한국인/NNG
+첫	첫/MMN
+F1	F/SL+1/SN
+상임위원에	상임/NNG+위원/NNG+에/JKB
+뽑혀	뽑히/VV+어/EF
+
+
+# id : NWRW1800000022.439.2.1
+세계 5대 자동차 생산국인 한국이 모터스포츠에서도 그 영향력을 넓혀나갈 수 있게 힘을 보태겠습니다.
+
+세계	세계/NNG
+5대	5/SN+대/NNG
+자동차	자동차/NNG
+생산국인	생산국/NNG+이/VCP+ㄴ/ETM
+한국이	한국/NNP+이/JKS
+모터스포츠에서도	모터스포츠/NNG+에서/JKB+도/JX
+그	그/MMD
+영향력을	영향력/NNG+을/JKO
+넓혀나갈	넓히/VV+어/EC+나가/VX+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+힘을	힘/NNG+을/JKO
+보태겠습니다.	보태/VV+겠/EP+습니다/EF+./SF
+
+
+# id : NWRW1800000022.439.3.1
+정영조(48) 한국 자동차경주협회 회장이 최근 FIA(국제자동차연맹) F1 위원회(Formula One Commission) 상임위원으로 선출됐다.
+
+정영조(48)	정영조/NNP+(/SS+48/SN+)/SS
+한국	한국/NNP
+자동차경주협회	자동차/NNG+경주/NNG+협회/NNG
+회장이	회장/NNG+이/JKS
+최근	최근/MAG
+FIA(국제자동차연맹)	FIA/SL+(/SS+국제자동차연맹/NNP+)/SS
+F1	F/SL+1/SN
+위원회(Formula	위원회/NNG+(/SS+Formula/SL
+One	One/SL
+Commission)	Commission/SL+)/SS
+상임위원으로	상임/NNG+위원/NNG+으로/JKB
+선출됐다.	선출/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.439.3.2
+1904년 창설돼 세계 132개국 228개 자동차 관련 조직을 거느린 FIA에서 한국인이 핵심 의사기구 위원으로 뽑힌 것은 이번이 처음이다.
+
+1904년	1904/SN+년/NNB
+창설돼	창설/NNG+되/XSV+어/EC
+세계	세계/NNG
+132개국	132/SN+개국/NNB
+228개	228/SN+개/NNB
+자동차	자동차/NNG
+관련	관련/NNG
+조직을	조직/NNG+을/JKO
+거느린	거느리/VV+ㄴ/ETM
+FIA에서	FIA/SL+에서/JKB
+한국인이	한국인/NNG+이/JKS
+핵심	핵심/NNG
+의사기구	의사/NNG+기구/NNG
+위원으로	위원/NNG+으로/JKB
+뽑힌	뽑히/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+이번이	이번/NNG+이/JKS
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.439.4.1
+F1 위원회는 세계 최고 모터스포츠 이벤트인 F1 그랑프리의 주요 규정과 정책을 논의하는 기구로, FIA의 여러 상임위 가운데 가장 큰 영향력을 갖고 있다.
+
+F1	F/SL+1/SN
+위원회는	위원회/NNG+는/JX
+세계	세계/NNG
+최고	최고/NNG
+모터스포츠	모터스포츠/NNG
+이벤트인	이벤트/NNG+이/VCP+ㄴ/ETM
+그랑프리의	그랑프리/NNG+의/JKG
+주요	주요/NNG
+규정과	규정/NNG+과/JC
+정책을	정책/NNG+을/JKO
+논의하는	논의/NNG+하/XSV+는/ETM
+기구로,	기구/NNG+로/JKB+,/SP
+FIA의	FIA/SL+의/JKG
+여러	여러/MMN
+상임위	상임위/NNG
+가운데	가운데/NNG
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+영향력을	영향력/NNG+을/JKO
+갖고	갖/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.439.4.2
+버니 에클레스턴 FOM(포뮬러 원 매니지먼트) 회장이 의장을 맡고, 페라리·메르세데스 등 F1 팀 대표 13명을 포함해 총 24명의 위원으로 구성돼 있다.
+
+버니	버니/NNP
+에클레스턴	에클레스턴/NNP
+FOM(포뮬러	FOM/SL+(/SS+포뮬러/NNG
+원	원/NNG
+매니지먼트)	매니지먼트/NNG+)/SS
+회장이	회장/NNG+이/JKS
+의장을	의장/NNG+을/JKO
+맡고,	맡/VV+고/EC+,/SP
+페라리·메르세데스	페라리/NNP+·/SP+메르세데스/NNP
+등	등/NNB
+F1	F/SL+1/SN
+팀	팀/NNG
+대표	대표/NNG
+13명을	13/SN+명/NNB+을/JKO
+포함해	포함/NNG+하/XSV+아/EC
+총	총/MMA
+24명의	24/SN+명/NNB+의/JKG
+위원으로	위원/NNG+으로/JKB
+구성돼	구성/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.439.5.1
+정 회장의 F1 위원회 상임위원 선출로 내년 10월 22일부터 24일까지 전남 영암에서 열리는 F1 한국 대회에도 한층 힘이 실리게 됐다.
+
+정	정/NNP
+회장의	회장/NNG+의/JKG
+F1	F/SL+1/SN
+위원회	위원회/NNG
+상임위원	상임/NNG+위원/NNG
+선출로	선출/NNG+로/JKB
+내년	내년/NNG
+10월	10/SN+월/NNB
+22일부터	22/SN+일/NNB+부터/JX
+24일까지	24/SN+일/NNB+까지/JX
+전남	전남/NNP
+영암에서	영암/NNP+에서/JKB
+열리는	열리/VV+는/ETM
+한국	한국/NNP
+대회에도	대회/NNG+에/JKB+도/JX
+한층	한층/MAG
+힘이	힘/NNG+이/JKS
+실리게	실리/VV+게/EC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.439.5.2
+F1 한국그랑프리 운영법인 KAVO 대표이기도 한 정 회장은 "FIA의 영향력을 활용해 영암 대회에 많은 해외 스폰서를 끌어들여 최대한의 경제 효과를 창출하고 싶다"고 말했다.
+
+F1	F/SL+1/SN
+한국그랑프리	한국/NNP+그랑프리/NNG
+운영법인	운영/NNG+법인/NNG
+KAVO	KAVO/SL
+대표이기도	대표/NNG+이/VCP+기/ETN+도/JX
+한	하/VV+ㄴ/ETM
+정	정/NNP
+회장은	회장/NNG+은/JX
+"FIA의	"/SS+FIA/SL+의/JKG
+영향력을	영향력/NNG+을/JKO
+활용해	활용/NNG+하/XSV+아/EC
+영암	영암/NNP
+대회에	대회/NNG+에/JKB
+많은	많/VA+은/ETM
+해외	해외/NNG
+스폰서를	스폰서/NNG+를/JKO
+끌어들여	끌어들이/VV+어/EC
+최대한의	최대한/NNG+의/JKG
+경제	경제/NNG
+효과를	효과/NNG+를/JKO
+창출하고	창출/NNG+하/XSV+고/EC
+싶다"고	싶/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.439.6.1
+내년 7월 완공 예정인 영암 F1 경기장은 공정률 60%를 돌파한 상태다.
+
+내년	내년/NNG
+7월	7/SN+월/NNB
+완공	완공/NNG
+예정인	예정/NNG+이/VCP+ㄴ/ETM
+영암	영암/NNP
+F1	F/SL+1/SN
+경기장은	경기장/NNG+은/JX
+공정률	공정/NNG+률/XSN
+60%를	60/SN+%/SW+를/JKO
+돌파한	돌파/NNG+하/XSV+ㄴ/ETM
+상태다.	상태/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.439.6.2
+'F1 지원 특별법'이 지난 9월 뒤늦게 국회를 통과하면서 준비에 더욱 가속도가 붙었다.
+
+'F1	'/SS+F/SL+1/SN
+지원	지원/NNG
+특별법'이	특별법/NNG+'/SS+이/JKS
+지난	지나/VV+ㄴ/ETM
+9월	9/SN+월/NNB
+뒤늦게	뒤늦/VA+게/EC
+국회를	국회/NNG+를/JKO
+통과하면서	통과/NNG+하/XSV+면서/EC
+준비에	준비/NNG+에/JKB
+더욱	더욱/MAG
+가속도가	가속도/NNG+가/JKS
+붙었다.	붙/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.439.6.3
+정 회장은 "한국이 올림픽, FIFA 월드컵과 함께 세계 3대 스포츠 이벤트인 F1을 성공적으로 치를 수 있게 전 국민적 관심을 부탁하고 싶다"고 말했다.
+
+정	정/NNP
+회장은	회장/NNG+은/JX
+"한국이	"/SS+한국/NNP+이/JKS
+올림픽,	올림픽/NNG+,/SP
+FIFA	FIFA/SL
+월드컵과	월드컵/NNG+과/JKB
+함께	함께/MAG
+세계	세계/NNG
+3대	3/SN+대/NNG
+스포츠	스포츠/NNG
+이벤트인	이벤트/NNG+이/VCP+ㄴ/ETM
+F1을	F/SL+1/SN+을/JKO
+성공적으로	성공/NNG+적/XSN+으로/JKB
+치를	치르/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+전	전/MMN
+국민적	국민/NNG+적/XSN
+관심을	관심/NNG+을/JKO
+부탁하고	부탁/NNG+하/XSV+고/EC
+싶다"고	싶/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

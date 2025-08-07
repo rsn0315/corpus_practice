@@ -1,0 +1,271 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.9
+metadata : {}
+
+
+# id : NWRW1800000054.9.1.1
+"1兆 수면 시장 공략"… SK바이오팜, FDA에 신약 신청
+
+"1兆	"/SS+1/SN+兆/SH
+수면	수면/NNG
+시장	시장/NNG
+공략"…	공략/NNG+"/SS+…/SE
+SK바이오팜,	SK바이오팜/NNP+,/SP
+FDA에	FDA/SL+에/JKB
+신약	신약/NNG
+신청	신청/NNG
+
+
+# id : NWRW1800000054.9.2.1
+기면증·수면무호흡증 같은 수면 장애 치료 'SKL-N05' 이르면 2019년 미국서 판매
+
+기면증·수면무호흡증	기면증/NNG+·/SP+수면/NNG+무호흡증/NNG
+같은	같/VA+은/ETM
+수면	수면/NNG
+장애	장애/NNG
+치료	치료/NNG
+'SKL-N05'	'/SS+SKL/SL+-/SO+N/SL+05/SN+'/SS
+이르면	이르/VA+면/EC
+2019년	2019/SN+년/NNB
+미국서	미국/NNP+서/JKB
+판매	판매/NNG
+
+
+# id : NWRW1800000054.9.3.1
+SK㈜가 지분 100%를 가진 자회사 SK바이오팜이 개발 중인 수면 장애 치료제가 미국 식품의약국(FDA)의 신약 판매 승인 신청을 마쳤다.
+
+SK㈜가	SK/SL+㈜/SW+가/JKS
+지분	지분/NNG
+100%를	100/SN+%/SW+를/JKO
+가진	가지/VV+ㄴ/ETM
+자회사	자회사/NNG
+SK바이오팜이	SK바이오팜/NNP+이/JKS
+개발	개발/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+수면	수면/NNG
+장애	장애/NNG
+치료제가	치료제/NNG+가/JKS
+미국	미국/NNP
+식품의약국(FDA)의	식품/NNG+의약국/NNG+(/SS+FDA/SL+)/SS+의/JKG
+신약	신약/NNG
+판매	판매/NNG
+승인	승인/NNG
+신청을	신청/NNG+을/JKO
+마쳤다.	마치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.9.3.2
+FDA의 판매 허가가 나면 2019년부터 글로벌 1조원 시장 공략에 나선다.
+
+FDA의	FDA/SL+의/JKG
+판매	판매/NNG
+허가가	허가/NNG+가/JKS
+나면	나/VV+면/EC
+2019년부터	2019/SN+년/NNB+부터/JX
+글로벌	글로벌/NNG
+1조원	1/SN+조/NR+원/NNB
+시장	시장/NNG
+공략에	공략/NNG+에/JKB
+나선다.	나서/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.9.4.1
+SK바이오팜은 22일 "FDA에 수면 장애 치료 신약 'SKL-N05'에 대한 신약 판매 승인 신청(NDA)을 완료했다"면서 "이르면 오는 2019년 초 미국에서 판매될 것으로 보인다"고 밝혔다.
+
+SK바이오팜은	SK바이오팜/NNP+은/JX
+22일	22/SN+일/NNB
+"FDA에	"/SS+FDA/SL+에/JKB
+수면	수면/NNG
+장애	장애/NNG
+치료	치료/NNG
+신약	신약/NNG
+'SKL-N05'에	'/SS+SKL/SL+-/SO+N/SL+05/SN+'/SS+에/JKB
+대한	대하/VV+ㄴ/ETM
+판매	판매/NNG
+승인	승인/NNG
+신청(NDA)을	신청/NNG+(/SS+NDA/SL+)/SS+을/JKO
+완료했다"면서	완료/NNG+하/XSV+았/EP+다/EF+"/SS+면서/EC
+"이르면	"/SS+이르/VV+면/EC
+오는	오/VV+는/ETM
+2019년	2019/SN+년/NNB
+초	초/NNB
+미국에서	미국/NNP+에서/JKB
+판매될	판매/NNG+되/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다"고	보이/VV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.9.5.1
+SK바이오팜은 2011년 기면증(병적인 졸음을 유발하는 질환)이나 수면무호흡증과 같은 수면 장애 치료 분야에서 글로벌 1위 제약사인 미국 재즈(JAZZ)사에 기술을 수출해 공동 개발에 나섰고, 지난 6월 환자를 대상으로 한 임상시험을 끝냈다.
+
+SK바이오팜은	SK바이오팜/NNP+은/JX
+2011년	2011/SN+년/NNB
+기면증(병적인	기면증/NNG+(/SS+병/NNG+적/XSN+이/VCP+ㄴ/ETM
+졸음을	졸음/NNG+을/JKO
+유발하는	유발/NNG+하/XSV+는/ETM
+질환)이나	질환/NNG+)/SS+이나/JC
+수면무호흡증과	수면/NNG+무호흡증/NNG+과/JKB
+같은	같/VA+은/ETM
+수면	수면/NNG
+장애	장애/NNG
+치료	치료/NNG
+분야에서	분야/NNG+에서/JKB
+글로벌	글로벌/NNG
+1위	1/SN+위/NNB
+제약사인	제약사/NNG+이/VCP+ㄴ/ETM
+미국	미국/NNP
+재즈(JAZZ)사에	재즈/NNP+(/SS+JAZZ/SL+)/SS+사/NNG+에/JKB
+기술을	기술/NNG+을/JKO
+수출해	수출/NNG+하/XSV+아/EC
+공동	공동/NNG
+개발에	개발/NNG+에/JKB
+나섰고,	나서/VV+었/EP+고/EC+,/SP
+지난	지나/VV+ㄴ/ETM
+6월	6/SN+월/NNB
+환자를	환자/NNG+를/JKO
+대상으로	대상/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+임상시험을	임상/NNG+시험/NNG+을/JKO
+끝냈다.	끝내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.9.5.2
+FDA 판매 승인이 완료되면 미국에서 판매 로열티를 확보하게 된다.
+
+FDA	FDA/SL
+판매	판매/NNG
+승인이	승인/NNG+이/JKS
+완료되면	완료/NNG+되/XSV+면/EC
+미국에서	미국/NNP+에서/JKB
+로열티를	로열티/NNG+를/JKO
+확보하게	확보/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.9.5.3
+또 일본·중국 등 아시아 12개국의 판권을 보유해 추가 수익 확보도 가능하다.
+
+또	또/MAG
+일본·중국	일본/NNP+·/SP+중국/NNP
+등	등/NNB
+아시아	아시아/NNP
+12개국의	12/SN+개국/NNB+의/JKG
+판권을	판권/NNG+을/JKO
+보유해	보유/NNG+하/XSV+아/EC
+추가	추가/NNG
+수익	수익/NNG
+확보도	확보/NNG+도/JX
+가능하다.	가능/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000054.9.6.1
+회사에 따르면 전 세계 중추신경계 질환 치료제 시장은 규모가 2014년 810억달러(약 87조원)로 항암 치료제 분야와 함께 의약품 분야의 양대 시장으로 꼽힌다.
+
+회사에	회사/NNG+에/JKB
+따르면	따르/VV+면/EC
+전	전/MMN
+세계	세계/NNG
+중추신경계	중추/NNG+신경/NNG+계/XSN
+질환	질환/NNG
+치료제	치료제/NNG
+시장은	시장/NNG+은/JX
+규모가	규모/NNG+가/JKS
+2014년	2014/SN+년/NNB
+810억달러(약	810/SN+억/NR+달러/NNB+(/SS+약/MMA
+87조원)로	87/SN+조/NR+원/NNB+)/SS+로/JKB
+항암	항암/NNG
+분야와	분야/NNG+와/JKB
+함께	함께/MAG
+의약품	의약품/NNG
+분야의	분야/NNG+의/JKG
+양대	양대/MMA
+시장으로	시장/NNG+으로/JKB
+꼽힌다.	꼽히/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.9.6.2
+2021년 시장 규모는 920억달러(약 99조원)로 성장할 전망이다.
+
+2021년	2021/SN+년/NNB
+시장	시장/NNG
+규모는	규모/NNG+는/JX
+920억달러(약	920/SN+억/NR+달러/NNB+(/SS+약/MMA
+99조원)로	99/SN+조/NR+원/NNB+)/SS+로/JKB
+성장할	성장/NNG+하/XSV+ㄹ/ETM
+전망이다.	전망/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.9.6.3
+회사는 "판매 승인 신청이 완료되면 국내 중추신경계 신약 개발로는 첫 글로벌 상업화라는 성과를 거두게 된다"고 강조했다.
+
+회사는	회사/NNG+는/JX
+"판매	"/SS+판매/NNG
+승인	승인/NNG
+신청이	신청/NNG+이/JKS
+완료되면	완료/NNG+되/XSV+면/EC
+국내	국내/NNG
+중추신경계	중추/NNG+신경/NNG+계/XSN
+신약	신약/NNG
+개발로는	개발/NNG+로/JKB+는/JX
+첫	첫/MMN
+글로벌	글로벌/NNG
+상업화라는	상업/NNG+화/XSN+이/VCP+라는/ETM
+성과를	성과/NNG+를/JKO
+거두게	거두/VV+게/EC
+된다"고	되/VV+ㄴ다/EF+"/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.9.7.1
+재즈사는 현재 수면 장애 치료제 시장에서 매년 1조원 이상의 매출을 올리는 자이렘을 판매 중이며, SKL-N05를 후속 약물로 육성한다는 계획이다.
+
+재즈사는	재즈사/NNP+는/JX
+현재	현재/MAG
+수면	수면/NNG
+장애	장애/NNG
+치료제	치료제/NNG
+시장에서	시장/NNG+에서/JKB
+매년	매년/MAG
+1조원	1/SN+조/NR+원/NNB
+이상의	이상/NNG+의/JKG
+매출을	매출/NNG+을/JKO
+올리는	올리/VV+는/ETM
+자이렘을	자이렘/NNP+을/JKO
+판매	판매/NNG
+중이며,	중/NNB+이/VCP+며/EC+,/SP
+SKL-N05를	SKL/SL+-/SO+N/SL+05/SN+를/JKO
+후속	후속/NNG
+약물로	약물/NNG+로/JKB
+육성한다는	육성/NNG+하/XSV+ㄴ다는/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.9.7.2
+SK바이오팜은 독자 개발 중인 뇌전증 신약(Cenobamate)에 대해서도 3상 임상시험을 진행 중이고, 이르면 내년 FDA에 판매 승인 신청을 낼 계획이다.
+
+SK바이오팜은	SK바이오팜/NNP+은/JX
+독자	독자/NNG
+개발	개발/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+뇌전증	뇌전증/NNG
+신약(Cenobamate)에	신약/NNG+(/SS+Cenobamate/SL+)/SS+에/JKB
+대해서도	대하/VV+아서/EC+도/JX
+3상	3/SN+상/NNG
+임상시험을	임상/NNG+시험/NNG+을/JKO
+진행	진행/NNG
+중이고,	중/NNB+이/VCP+고/EC+,/SP
+이르면	이르/VA+면/EC
+내년	내년/NNG
+FDA에	FDA/SL+에/JKB
+판매	판매/NNG
+승인	승인/NNG
+신청을	신청/NNG+을/JKO
+낼	내/VV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+

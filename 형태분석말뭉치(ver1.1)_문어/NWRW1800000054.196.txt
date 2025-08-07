@@ -1,0 +1,316 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.196
+metadata : {}
+
+
+# id : NWRW1800000054.196.1.1
+공사비 대납 강요… KAI 실무자들도 협력사에 갑질
+
+공사비	공사비/NNG
+대납	대납/NNG
+강요…	강요/NNG+…/SE
+KAI	KAI/SL
+실무자들도	실무자/NNG+들/XSN+도/JX
+협력사에	협력사/NNG+에/JKB
+갑질	갑/NNG+질/XSN
+
+
+# id : NWRW1800000054.196.2.1
+한국항공우주산업(KAI) 비리 의혹 사건을 수사 중인 서울중앙지검 방위사업수사부(부장 박찬호)는 KAI가 한 협력업체에 관련도 없는 공사 대금 8000만원가량을 대납하게 한 단서를 잡고 수사 중이다.
+
+한국항공우주산업(KAI)	한국항공우주산업/NNP+(/SS+KAI/SL+)/SS
+비리	비리/NNG
+의혹	의혹/NNG
+사건을	사건/NNG+을/JKO
+수사	수사/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+서울중앙지검	서울중앙지검/NNP
+방위사업수사부(부장	방위/NNG+사업/NNG+수사부/NNG+(/SS+부장/NNG
+박찬호)는	박찬호/NNP+)/SS+는/JX
+KAI가	KAI/SL+가/JKS
+한	하/VX+ㄴ/ETM
+협력업체에	협력/NNG+업체/NNG+에/JKB
+관련도	관련/NNG+도/JX
+없는	없/VA+는/ETM
+공사	공사/NNG
+대금	대금/NNG
+8000만원가량을	8000/SN+만/NR+원/NNB+가량/XSN+을/JKO
+대납하게	대납/NNG+하/XSV+게/EC
+단서를	단서/NNG+를/JKO
+잡고	잡/VV+고/EC
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.2.2
+일감 수주에 목을 매는 협력업체에 갑(甲)질을 한 정황이 드러난 것이다.
+
+일감	일감/NNG
+수주에	수주/NNG+에/JKB
+목을	목/NNG+을/JKO
+매는	매/VV+는/ETM
+협력업체에	협력/NNG+업체/NNG+에/JKB
+갑(甲)질을	갑/NNG+(/SS+甲/SH+)/SS+질/XSN+을/JKO
+한	하/VV+ㄴ/ETM
+정황이	정황/NNG+이/JKS
+드러난	드러나/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.1
+검찰은 최근 KAI에 항공기 설비를 납품하는 D사의 자금 흐름을 추적해 2014년 D사가 KAI 측의 요구를 받고 페루에 8000여만원을 송금한 사실을 확인했다.
+
+검찰은	검찰/NNG+은/JX
+최근	최근/MAG
+KAI에	KAI/SL+에/JKB
+항공기	항공기/NNG
+설비를	설비/NNG+를/JKO
+납품하는	납품/NNG+하/XSV+는/ETM
+D사의	D/SL+사/NNG+의/JKG
+자금	자금/NNG
+흐름을	흐름/NNG+을/JKO
+추적해	추적/NNG+하/XSV+아/EC
+2014년	2014/SN+년/NNB
+D사가	D/SL+사/NNG+가/JKS
+KAI	KAI/SL
+측의	측/NNB+의/JKG
+요구를	요구/NNG+를/JKO
+받고	받/VV+고/EC
+페루에	페루/NNP+에/JKB
+8000여만원을	8000/SN+여/XSN+만/NR+원/NNB+을/JKO
+송금한	송금/NNG+하/XSV+ㄴ/ETM
+사실을	사실/NNG+을/JKO
+확인했다.	확인/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.2
+이 돈은 KAI가 페루에 국산 훈련기 KT-1P를 수출하는 조건으로 현지에 지어주기로 한 항공기 생산 공장 건설 비용이었다.
+
+이	이/MMD
+돈은	돈/NNG+은/JX
+KAI가	KAI/SL+가/JKS
+페루에	페루/NNP+에/JKB
+국산	국산/NNG
+훈련기	훈련기/NNG
+KT-1P를	KT/SL+-/SO+1/SN+P/SL+를/JKO
+수출하는	수출/NNG+하/XSV+는/ETM
+조건으로	조건/NNG+으로/JKB
+현지에	현지/NNG+에/JKB
+지어주기로	짓/VV+어/EC+주/VX+기/ETN+로/JKB
+한	하/VV+ㄴ/ETM
+항공기	항공기/NNG
+생산	생산/NNG
+공장	공장/NNG
+건설	건설/NNG
+비용이었다.	비용/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.3
+D사는 현지 공사업체 대표의 아내와 자녀 계좌로 돈을 쪼개서 보냈다고 한다.
+
+D사는	D/SL+사/NNG+는/JX
+현지	현지/NNG
+공사업체	공사/NNG+업체/NNG
+대표의	대표/NNG+의/JKG
+아내와	아내/NNG+와/JC
+자녀	자녀/NNG
+계좌로	계좌/NNG+로/JKB
+돈을	돈/NNG+을/JKO
+쪼개서	쪼개/VV+어서/EC
+보냈다고	보내/VV+었/EP+다고/EC
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.4
+검찰은 지난 18일 D사를 포함해 KAI 협력업체 5곳을 압수 수색했다.
+
+검찰은	검찰/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+18일	18/SN+일/NNB
+D사를	D/SL+사/NNG+를/JKO
+포함해	포함/NNG+하/XSV+아/EC
+KAI	KAI/SL
+협력업체	협력/NNG+업체/NNG
+5곳을	5/SN+곳/NNG+을/JKO
+압수	압수/NNG
+수색했다.	수색/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.5
+검찰은 D사가 페루 대납을 위해 KAI 측과 맺은 허위 계약서를 확보했다.
+
+검찰은	검찰/NNG+은/JX
+D사가	D/SL+사/NNG+가/JKS
+페루	페루/NNP
+대납을	대납/NNG+을/JKO
+위해	위하/VV+아/EC
+KAI	KAI/SL
+측과	측/NNB+과/JKB
+맺은	맺/VV+은/ETM
+허위	허위/NNG
+계약서를	계약서/NNG+를/JKO
+확보했다.	확보/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.6
+검찰 관계자는 "D사가 납품 계약을 유지하기 위해선 무리한 요구라도 들어줄 수밖에 없었을 것"이라고 했다.
+
+검찰	검찰/NNG
+관계자는	관계자/NNG+는/JX
+"D사가	"/SS+D/SL+사/NNG+가/JKS
+납품	납품/NNG
+계약을	계약/NNG+을/JKO
+유지하기	유지/NNG+하/XSV+기/ETN
+위해선	위하/VV+아서/EC+ㄴ/JX
+무리한	무리/NNG+하/XSV+ㄴ/ETM
+요구라도	요구/NNG+이/VCP+라도/EC
+들어줄	들어주/VV+ㄹ/ETM
+수밖에	수/NNB+밖에/JX
+없었을	없/VA+었/EP+을/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.3.7
+이에 대해 KAI 측은 "직원이 해외 거래 절차가 복잡해서 D사의 계좌만 잠시 빌렸을 뿐, 돈을 부담시킨 것은 아니다"며 "협력업체에 부당한 요구를 한 책임을 물어 해당 직원을 직위해제했다"고 했다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+KAI	KAI/SL
+측은	측/NNB+은/JX
+"직원이	"/SS+직원/NNG+이/JKS
+해외	해외/NNG
+거래	거래/NNG
+절차가	절차/NNG+가/JKS
+복잡해서	복잡하/VA+아서/EC
+D사의	D/SL+사/NNG+의/JKG
+계좌만	계좌/NNG+만/JX
+잠시	잠시/MAG
+빌렸을	빌리/VV+었/EP+을/ETM
+뿐,	뿐/NNB+,/SP
+돈을	돈/NNG+을/JKO
+부담시킨	부담/NNG+시키/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+아니다"며	아니/VCN+다/EF+"/SS+며/EC
+"협력업체에	"/SS+협력/NNG+업체/NNG+에/JKB
+부당한	부당/NNG+하/XSA+ㄴ/ETM
+요구를	요구/NNG+를/JKO
+한	하/VV+ㄴ/ETM
+책임을	책임/NNG+을/JKO
+물어	묻/VV+어/EC
+해당	해당/NNG
+직원을	직원/NNG+을/JKO
+직위해제했다"고	직위/NNG+해제/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.4.1
+검찰이 수사 중인 KAI의 비리는 하성용(66) 사장 등 경영진이 친분이 있는 협력업체에 일감을 몰아주고 뒷돈을 받아 비자금을 조성했다는 게 기본 뼈대다.
+
+검찰이	검찰/NNG+이/JKS
+수사	수사/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+KAI의	KAI/SL+의/JKG
+비리는	비리/NNG+는/JX
+하성용(66)	하성용/NNP+(/SS+66/SN+)/SS
+사장	사장/NNG
+등	등/NNB
+경영진이	경영진/NNG+이/JKS
+친분이	친분/NNG+이/JKS
+있는	있/VA+는/ETM
+협력업체에	협력/NNG+업체/NNG+에/JKB
+일감을	일감/NNG+을/JKO
+몰아주고	몰아주/VV+고/EC
+뒷돈을	뒷돈/NNG+을/JKO
+받아	받/VV+아/EC
+비자금을	비자금/NNG+을/JKO
+조성했다는	조성/NNG+하/XSV+았/EP+다는/ETM
+게	거/NNB+이/JKS
+기본	기본/NNG
+뼈대다.	뼈대/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.4.2
+그러나 검찰은 D사의 경우처럼, 실무자들조차 협력업체에 부당한 요구를 하는 등 비리에 연루돼 있는 것으로 보고 KAI의 사업 전반을 살펴보고 있다.
+
+그러나	그러나/MAJ
+검찰은	검찰/NNG+은/JX
+D사의	D/SL+사/NNG+의/JKG
+경우처럼,	경우/NNG+처럼/JKB+,/SP
+실무자들조차	실무자/NNG+들/XSN+조차/JX
+협력업체에	협력/NNG+업체/NNG+에/JKB
+부당한	부당/NNG+하/XSA+ㄴ/ETM
+요구를	요구/NNG+를/JKO
+하는	하/VV+는/ETM
+등	등/NNB
+비리에	비리/NNG+에/JKB
+연루돼	연루/NNG+되/XSV+어/EC
+있는	있/VX+는/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+KAI의	KAI/SL+의/JKG
+사업	사업/NNG
+전반을	전반/NNG+을/JKO
+살펴보고	살펴보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.196.5.1
+이번 검찰 수사의 출발점도 작년 6월부터 행방을 감춰버린 KAI의 전 재무담당 차장 손모씨였다.
+
+이번	이번/NNG
+검찰	검찰/NNG
+수사의	수사/NNG+의/JKG
+출발점도	출발점/NNG+도/JX
+작년	작년/NNG
+6월부터	6/SN+월/NNB+부터/JX
+행방을	행방/NNG+을/JKO
+감춰버린	감추/VV+어/EC+버리/VX+ㄴ/ETM
+KAI의	KAI/SL+의/JKG
+전	전/MMD
+재무담당	재무/NNG+담당/NNG
+차장	차장/NNG
+손모씨였다.	손/NNP+모/NP+씨/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.196.5.2
+손씨는 수리온을 개발하는 과정에서 자신의 처남 명의로 용역업체를 만들어 118억 원어치의 일감을 몰아주고 20여억 원을 받아 챙긴 혐의를 받고 있다.
+
+손씨는	손/NNP+씨/NNB+는/JX
+수리온을	수리온/NNP+을/JKO
+개발하는	개발/NNG+하/XSV+는/ETM
+과정에서	과정/NNG+에서/JKB
+자신의	자신/NNG+의/JKG
+처남	처남/NNG
+명의로	명의/NNG+로/JKB
+용역업체를	용역업체/NNG+를/JKO
+만들어	만들/VV+어/EC
+118억	118/SN+억/NR
+원어치의	원/NNB+어치/XSN+의/JKG
+일감을	일감/NNG+을/JKO
+몰아주고	몰아주/VV+고/EC
+20여억	20/SN+여/XSN+억/NR
+원을	원/NNB+을/JKO
+받아	받/VV+아/EC
+챙긴	챙기/VV+ㄴ/ETM
+혐의를	혐의/NNG+를/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.196.5.3
+2015년 감사원 감사에서 비리가 드러나자 손씨는 종적을 감췄다.
+
+2015년	2015/SN+년/NNB
+감사원	감사원/NNG
+감사에서	감사/NNG+에서/JKB
+비리가	비리/NNG+가/JKS
+드러나자	드러나/VV+자/EC
+손씨는	손/NNP+씨/NNB+는/JX
+종적을	종적/NNG+을/JKO
+감췄다.	감추/VV+었/EP+다/EF+./SF
+
+

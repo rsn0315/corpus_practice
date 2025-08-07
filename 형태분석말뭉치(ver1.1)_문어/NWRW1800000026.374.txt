@@ -1,0 +1,104 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.374
+metadata : {}
+
+
+# id : NWRW1800000026.374.1.1
+[Around the World] 워싱턴 DC… 환태평양경제동반자협정, 오바마 '1년내 타결' 제안
+
+[Around	[/SS+Around/SL
+the	the/SL
+World]	World/SL+]/SS
+워싱턴	워싱턴/NNP
+DC…	DC/SL+…/SE
+환태평양경제동반자협정,	환태평양/NNP+경제/NNG+동반자/NNG+협정/NNG+,/SP
+오바마	오바마/NNP
+'1년내	'/SS+1/SN+년/NNB+내/NNB
+타결'	타결/NNG+'/SS
+제안	제안/NNG
+
+
+# id : NWRW1800000026.374.2.1
+버락 오바마 미국 대통령이 환태평양 지역의 다자간 자유무역협정인 환태평양경제동반자협정(TPP)의 조속한 타결을 제안했다고 마이니치신문이 16일 보도했다.
+
+버락	버락/NNP
+오바마	오바마/NNP
+미국	미국/NNP
+대통령이	대통령/NNG+이/JKS
+환태평양	환태평양/NNP
+지역의	지역/NNG+의/JKG
+다자간	다자/NNG+간/NNB
+자유무역협정인	자유/NNG+무역/NNG+협정/NNG+이/VCP+ㄴ/ETM
+환태평양경제동반자협정(TPP)의	환태평양/NNP+경제/NNG+동반자/NNG+협정/NNG+(/SS+TPP/SL+)/SS+의/JKG
+조속한	조속하/VA+ㄴ/ETM
+타결을	타결/NNG+을/JKO
+제안했다고	제안/NNG+하/XSV+았/EP+다고/EC
+마이니치신문이	마이니치신문/NNP+이/JKS
+16일	16/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.374.2.2
+TPP를 주도하고 있는 오바마 대통령이 협상의 조기 타결 의사를 밝힘에 따라 일본 등 TPP 참여를 추진하고 있는 국가들의 움직임도 빨라질 것으로 보인다.
+
+TPP를	TPP/SL+를/JKO
+주도하고	주도/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+오바마	오바마/NNP
+대통령이	대통령/NNG+이/JKS
+협상의	협상/NNG+의/JKG
+조기	조기/NNG
+타결	타결/NNG
+의사를	의사/NNG+를/JKO
+밝힘에	밝히/VV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+일본	일본/NNP
+등	등/NNB
+TPP	TPP/SL
+참여를	참여/NNG+를/JKO
+추진하고	추진/NNG+하/XSV+고/EC
+국가들의	국가/NNG+들/XSN+의/JKG
+움직임도	움직임/NNG+도/JX
+빨라질	빠르/VA+아/EC+지/VX+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.374.3.1
+오바마 대통령은 내년까지 TPP를 타결한 뒤 2012년 대선에 재출마하려는 의도를 갖고 있다고 전문가들은 분석했다.
+
+오바마	오바마/NNP
+대통령은	대통령/NNG+은/JX
+내년까지	내년/NNG+까지/JX
+TPP를	TPP/SL+를/JKO
+타결한	타결/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+2012년	2012/SN+년/NNB
+대선에	대선/NNG+에/JKB
+재출마하려는	재/XPN+출마/NNG+하/XSV+려는/ETM
+의도를	의도/NNG+를/JKO
+갖고	갖/VV+고/EC
+있다고	있/VX+다고/EC
+전문가들은	전문가/NNG+들/XSN+은/JX
+분석했다.	분석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.374.3.2
+수출 확대를 통한 경제회생을 위해 TPP 진행을 서두르고 있다는 것이다.
+
+수출	수출/NNG
+확대를	확대/NNG+를/JKO
+통한	통하/VV+ㄴ/ETM
+경제회생을	경제/NNG+회생/NNG+을/JKO
+위해	위하/VV+아/EC
+TPP	TPP/SL
+진행을	진행/NNG+을/JKO
+서두르고	서두르/VV+고/EC
+있다는	있/VX+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+

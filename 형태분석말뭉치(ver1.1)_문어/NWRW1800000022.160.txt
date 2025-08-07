@@ -1,0 +1,213 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.160
+metadata : {}
+
+
+# id : NWRW1800000022.160.1.1
+"우주의 과거와 미래를 들여다본다"… 유럽, 망원경 한쌍 발사
+
+"우주의	"/SS+우주/NNG+의/JKG
+과거와	과거/NNG+와/JC
+미래를	미래/NNG+를/JKO
+들여다본다"…	들여다보/VV+ㄴ다/EF+"/SS+…/SE
+유럽,	유럽/NNP+,/SP
+망원경	망원경/NNG
+한쌍	한/MMN+쌍/NNG
+발사	발사/NNG
+
+
+# id : NWRW1800000022.160.2.1
+지구는 어떻게 지금의 상태에 이르게 된 것일까.
+
+지구는	지구/NNG+는/JX
+어떻게	어떻/VA+게/EC
+지금의	지금/NNG+의/JKG
+상태에	상태/NNG+에/JKB
+이르게	이르/VV+게/EC
+된	되/VV+ㄴ/ETM
+것일까.	것/NNB+이/VCP+ㄹ까/EF+./SF
+
+
+# id : NWRW1800000022.160.2.2
+지구의 종말은 어떠할까.
+
+지구의	지구/NNG+의/JKG
+종말은	종말/NNG+은/JX
+어떠할까.	어떠하/VA+ㄹ까/EF+./SF
+
+
+# id : NWRW1800000022.160.3.1
+이런 질문들에 대한 답을 찾기 위해, 유럽우주국(ESA)이 한 쌍의 망원경을 오는 14일 프랑스령(領) 기아나의 쿠루에서 발사한다.
+
+이런	이런/MMD
+질문들에	질문/NNG+들/XSN+에/JKB
+대한	대하/VV+ㄴ/ETM
+답을	답/NNG+을/JKO
+찾기	찾/VV+기/ETN
+위해,	위하/VV+아/EC+,/SP
+유럽우주국(ESA)이	유럽우주국/NNP+(/SS+ESA/SL+)/SS+이/JKS
+한	한/MMN
+쌍의	쌍/NNG+의/JKG
+망원경을	망원경/NNG+을/JKO
+오는	오/VV+는/ETM
+14일	14/SN+일/NNB
+프랑스령(領)	프랑스령/NNG+(/SS+領/SH+)/SS
+기아나의	기아나/NNP+의/JKG
+쿠루에서	쿠루/NNP+에서/JKB
+발사한다.	발사/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.160.4.1
+우주 깊숙이 들여다볼 수 있게 설계된 두 망원경은 약 137억년 전 초기의 우주 모습부터 별과 은하, 행성의 생성까지 관찰하게 된다고, 영국 일간지 인디펜던트가 2일 보도했다.
+
+우주	우주/NNG
+깊숙이	깊숙이/MAG
+들여다볼	들여다보/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+설계된	설계/NNG+되/XSV+ㄴ/ETM
+두	두/MMN
+망원경은	망원경/NNG+은/JX
+약	약/MMA
+137억년	137/SN+억/NR+년/NNB
+전	전/NNG
+초기의	초기/NNG+의/JKG
+모습부터	모습/NNG+부터/JX
+별과	별/NNG+과/JC
+은하,	은하/NNG+,/SP
+행성의	행성/NNG+의/JKG
+생성까지	생성/NNG+까지/JX
+관찰하게	관찰/NNG+하/XSV+게/EC
+된다고,	되/VV+ㄴ다고/EC+,/SP
+영국	영국/NNP
+일간지	일간지/NNG
+인디펜던트가	인디펜던트/NNP+가/JKS
+2일	2/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.160.5.1
+이 중 플랑크(Planck) 망원경은 독일의 물리학자 막스 플랑크에서 이름을 땄으며, 우주 공간의 배경을 이루는 전파인 우주 배경 복사(space background radiation)를 2배 이상 확대해서 관찰이 가능한 장치를 탑재하고 있다.
+
+이	이/MMD
+중	중/NNB
+플랑크(Planck)	플랑크/NNP+(/SS+Planck/SL+)/SS
+망원경은	망원경/NNG+은/JX
+독일의	독일/NNP+의/JKG
+물리학자	물리학자/NNG
+막스	막스/NNP
+플랑크에서	플랑크/NNP+에서/JKB
+이름을	이름/NNG+을/JKO
+땄으며,	따/VV+았/EP+으며/EC+,/SP
+우주	우주/NNG
+공간의	공간/NNG+의/JKG
+배경을	배경/NNG+을/JKO
+이루는	이루/VV+는/ETM
+전파인	전파/NNG+이/VCP+ㄴ/ETM
+배경	배경/NNG
+복사(space	복사/NNG+(/SS+space/SL
+background	background/SL
+radiation)를	radiation/SL+)/SS+를/JKO
+2배	2/SN+배/NNG
+이상	이상/NNG
+확대해서	확대/NNG+하/XSV+아서/EC
+관찰이	관찰/NNG+이/JKS
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+장치를	장치/NNG+를/JKO
+탑재하고	탑재/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.160.6.1
+플랑크 망원경에 탑재된 장치들은 영하 272.2도의 온도에서 관리하며, 빅뱅이 남긴 광선의 흔적을 추적하게 된다.
+
+플랑크	플랑크/NNP
+망원경에	망원경/NNG+에/JKB
+탑재된	탑재/NNG+되/XSV+ㄴ/ETM
+장치들은	장치/NNG+들/XSN+은/JX
+영하	영하/NNG
+272.2도의	272/SN+./SP+2/SN+도/NNB+의/JKG
+온도에서	온도/NNG+에서/JKB
+관리하며,	관리/NNG+하/XSV+며/EC+,/SP
+빅뱅이	빅뱅/NNG+이/JKS
+남긴	남기/VV+ㄴ/ETM
+광선의	광선/NNG+의/JKG
+흔적을	흔적/NNG+을/JKO
+추적하게	추적/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.160.6.2
+영국 케임브리지대의 조지 에프스타시오우 교수는 "이 연구로 우주의 기원과 진화에 관한 기존 이론이 뒤바뀔 수도 있고, 우주의 미래를 예측할 수도 있다"고 말했다.
+
+영국	영국/NNP
+케임브리지대의	케임브리지대/NNP+의/JKG
+조지	조지/NNP
+에프스타시오우	에프스타시오우/NNP
+교수는	교수/NNG+는/JX
+"이	"/SS+이/MMD
+연구로	연구/NNG+로/JKB
+우주의	우주/NNG+의/JKG
+기원과	기원/NNG+과/JC
+진화에	진화/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+기존	기존/NNG
+이론이	이론/NNG+이/JKS
+뒤바뀔	뒤바뀌/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있고,	있/VA+고/EC+,/SP
+미래를	미래/NNG+를/JKO
+예측할	예측/NNG+하/XSV+ㄹ/ETM
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.160.7.1
+또 다른 망원경인 허셀 망원경은 은하들의 별 탄생구역에서 방출되는 적외선을 추적하게 된다.
+
+또	또/MAG
+다른	다른/MMD
+망원경인	망원경/NNG+이/VCP+ㄴ/ETM
+허셀	허셀/NNP
+망원경은	망원경/NNG+은/JX
+은하들의	은하/NNG+들/XSN+의/JKG
+별	별/NNG
+탄생구역에서	탄생/NNG+구역/NNG+에서/JKB
+방출되는	방출/NNG+되/XSV+는/ETM
+적외선을	적외선/NNG+을/JKO
+추적하게	추적/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.160.7.2
+망원경 자체 지름이 3.5m인 허셀은 우주에 설치되는 최대 크기의 망원경으로, 은하의 탄생과 성장, 그리고 우주가스나 먼지, 파편들이 별이나 행성으로 커가는 과정을 파악하게 된다.
+
+망원경	망원경/NNG
+자체	자체/NNG
+지름이	지름/NNG+이/JKS
+3.5m인	3/SN+./SP+5/SN+m/SW+이/VCP+ㄴ/ETM
+허셀은	허셀/NNP+은/JX
+우주에	우주/NNG+에/JKB
+설치되는	설치/NNG+되/XSV+는/ETM
+최대	최대/NNG
+크기의	크기/NNG+의/JKG
+망원경으로,	망원경/NNG+으로/JKB+,/SP
+은하의	은하/NNG+의/JKG
+탄생과	탄생/NNG+과/JC
+성장,	성장/NNG+,/SP
+그리고	그리고/MAJ
+우주가스나	우주/NNG+가스/NNG+나/JC
+먼지,	먼지/NNG+,/SP
+파편들이	파편/NNG+들/XSN+이/JKS
+별이나	별/NNG+이나/JC
+행성으로	행성/NNG+으로/JKB
+커가는	크/VA+어/EC+가/VX+는/ETM
+과정을	과정/NNG+을/JKO
+파악하게	파악/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+

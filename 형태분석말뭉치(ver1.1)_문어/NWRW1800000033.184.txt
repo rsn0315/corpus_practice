@@ -1,0 +1,344 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.184
+metadata : {}
+
+
+# id : NWRW1800000033.184.1.1
+KBS 새노조 석달만에 파업 접는다
+
+KBS	KBS/SL
+새노조	새/MMA+노조/NNG
+석달만에	석/MMN+달/NNB+만/NNB+에/JKB
+파업	파업/NNG
+접는다	접/VV+는다/EF
+
+
+# id : NWRW1800000033.184.2.1
+3월 6일부터 김인규 사장의 퇴진을 요구하며 파업해 온 전국언론노동조합 KBS본부노조(새노조)가 6일 회사와 협상안에 가합의해 이르면 이번 주에 파업이 끝날 것으로 보인다.
+
+3월	3/SN+월/NNB
+6일부터	6/SN+일/NNB+부터/JX
+김인규	김인규/NNP
+사장의	사장/NNG+의/JKG
+퇴진을	퇴진/NNG+을/JKO
+요구하며	요구/NNG+하/XSV+며/EC
+파업해	파업/NNG+하/XSV+아/EC
+온	오/VX+ㄴ/ETM
+전국언론노동조합	전국언론노동조합/NNP
+KBS본부노조(새노조)가	KBS/SL+본부/NNG+노조/NNG+(/SS+새/MMA+노조/NNG+)/SS+가/JKS
+6일	6/SN+일/NNB
+회사와	회사/NNG+와/JC
+협상안에	협상안/NNG+에/JKB
+가합의해	가/XPN+합의/NNG+하/XSV+아/EC
+이르면	이르/VA+면/EC
+이번	이번/NNG
+주에	주/NNG+에/JKB
+파업이	파업/NNG+이/JKS
+끝날	끝나/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.184.2.2
+이에 따라 MBC, YTN, 연합뉴스 등 다른 언론사들의 연대파업 동력도 약화될 것으로 전망된다.
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+MBC,	MBC/SL+,/SP
+YTN,	YTN/SL+,/SP
+연합뉴스	연합뉴스/NNP
+등	등/NNB
+다른	다른/MMD
+언론사들의	언론사/NNG+들/XSN+의/JKG
+연대파업	연대/NNG+파업/NNG
+동력도	동력/NNG+도/JX
+약화될	약화/NNG+되/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.184.3.1
+KBS 새노조는 6일 보도자료를 내 “사장과 노조위원장을 대표로 노사가 같은 수로 참여하는 대선 공정방송위원회를 설치하고, 보도본부 탐사보도팀을 부활하는 것을 골자로 하는 잠정합의안에 사측과 합의했다. 대의원대회(7일)와 조합원총회(8일)를 거쳐 파업을 잠정 중단한다”고 밝혔다.
+
+KBS	KBS/SL
+새노조는	새/MMA+노조/NNG+는/JX
+6일	6/SN+일/NNB
+보도자료를	보도/NNG+자료/NNG+를/JKO
+내	내/VV+어/EC
+“사장과	“/SS+사장/NNG+과/JC
+노조위원장을	노조/NNG+위원장/NNG+을/JKO
+대표로	대표/NNG+로/JKB
+노사가	노사/NNG+가/JKS
+같은	같/VA+은/ETM
+수로	수/NNG+로/JKB
+참여하는	참여/NNG+하/XSV+는/ETM
+대선	대선/NNG
+공정방송위원회를	공정/NNG+방송/NNG+위원회/NNG+를/JKO
+설치하고,	설치/NNG+하/XSV+고/EC+,/SP
+보도본부	보도/NNG+본부/NNG
+탐사보도팀을	탐사/NNG+보도/NNG+팀/NNG+을/JKO
+부활하는	부활/NNG+하/XSV+는/ETM
+것을	것/NNB+을/JKO
+골자로	골자/NNG+로/JKB
+하는	하/VV+는/ETM
+잠정합의안에	잠정/NNG+합의안/NNG+에/JKB
+사측과	사측/NNG+과/JKB
+합의했다.	합의/NNG+하/XSV+았/EP+다/EF+./SF
+대의원대회(7일)와	대의원/NNG+대회/NNG+(/SS+7/SN+일/NNB+)/SS+와/JC
+조합원총회(8일)를	조합원/NNG+총회/NNG+(/SS+8/SN+일/NNB+)/SS+를/JKO
+거쳐	거치/VV+어/EC
+파업을	파업/NNG+을/JKO
+잠정	잠정/NNG
+중단한다”고	중단/NNG+하/XSV+ㄴ다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.3.2
+김현석 새노조 위원장은 이날 기자회견에서 “대통령 라디오 주례연설 폐지에도 노사가 공감했다”고 밝혔다.
+
+김현석	김현석/NNP
+새노조	새/MMA+노조/NNG
+위원장은	위원장/NNG+은/JX
+이날	이날/NNG
+기자회견에서	기자/NNG+회견/NNG+에서/JKB
+“대통령	“/SS+대통령/NNG
+라디오	라디오/NNG
+주례연설	주례/NNG+연설/NNG
+폐지에도	폐지/NNG+에/JKB+도/JX
+노사가	노사/NNG+가/JKS
+공감했다”고	공감/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.4.1
+새노조는 “목표였던 ‘특보사장 퇴진’은 유감스럽게도 이룩하지 못했지만 공정방송을 담보할 강력한 수단을 갖게 됐다”고 덧붙였다.
+
+새노조는	새/MMA+노조/NNG+는/JX
+“목표였던	“/SS+목표/NNG+이/VCP+었/EP+던/ETM
+‘특보사장	‘/SS+특보사장/NNG
+퇴진’은	퇴진/NNG+’/SS+은/JX
+유감스럽게도	유감/NNG+스럽/XSA+게/EC+도/JX
+이룩하지	이룩하/VV+지/EC
+못했지만	못하/VX+았/EP+지만/EC
+공정방송을	공정/NNG+방송/NNG+을/JKO
+담보할	담보/NNG+하/XSV+ㄹ/ETM
+강력한	강력/NNG+하/XSA+ㄴ/ETM
+수단을	수단/NNG+을/JKO
+갖게	갖/VV+게/EC
+됐다”고	되/VV+었/EP+다/EF+”/SS+고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.5.1
+새노조는 1000여 명이 가입해 있으며 최대 노조인 KBS 노동조합에 이은 2대 노조다.
+
+새노조는	새/MMA+노조/NNG+는/JX
+1000여	1000/SN+여/XSN
+명이	명/NNB+이/JKS
+가입해	가입/NNG+하/XSV+아/EC
+있으며	있/VX+으며/EC
+최대	최대/NNG
+노조인	노조/NNG+이/VCP+ㄴ/ETM
+KBS	KBS/SL
+노동조합에	노동조합/NNG+에/JKB
+이은	잇/VV+ㄴ/ETM
+2대	2/SN+대/NNG
+노조다.	노조/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.5.2
+새노조는 파업 도중인 4월 19대 총선을 앞두고 총리실 민간인 사찰의혹 문건을 폭로했지만 문건의 상당수가 전 정권에서 이뤄진 것으로 밝혀져 역풍을 맞기도 했다.
+
+새노조는	새/MMA+노조/NNG+는/JX
+파업	파업/NNG
+도중인	도중/NNG+이/VCP+ㄴ/ETM
+4월	4/SN+월/NNB
+19대	19/SN+대/NNB
+총선을	총선/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+총리실	총리실/NNG
+민간인	민간인/NNG
+사찰의혹	사찰/NNG+의혹/NNG
+문건을	문건/NNG+을/JKO
+폭로했지만	폭로/NNG+하/XSV+았/EP+지만/EC
+문건의	문건/NNG+의/JKG
+상당수가	상당수/NNG+가/JKS
+전	전/MMD
+정권에서	정권/NNG+에서/JKB
+이뤄진	이뤄지/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+밝혀져	밝혀지/VV+어/EC
+역풍을	역풍/NNG+을/JKO
+맞기도	맞/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.6.1
+이번 타결이 이뤄진 접점은 노조에 대한 징계 문제.
+
+이번	이번/NNG
+타결이	타결/NNG+이/JKS
+이뤄진	이뤄지/VV+ㄴ/ETM
+접점은	접점/NNG+은/JX
+노조에	노조/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+징계	징계/NNG
+문제.	문제/NNG+./SF
+
+
+# id : NWRW1800000033.184.6.2
+사측은 노조 집행부와 노조원에 대한 각종 형사고소를 취소하고 사내 징계를 최소화하는 대신 노조가 파업을 푸는 데 양측이 의견을 모은 것으로 전해졌다.
+
+사측은	사측/NNG+은/JX
+노조	노조/NNG
+집행부와	집행부/NNG+와/JC
+노조원에	노조원/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+각종	각종/NNG
+형사고소를	형사/NNG+고소/NNG+를/JKO
+취소하고	취소/NNG+하/XSV+고/EC
+사내	사내/NNG
+징계를	징계/NNG+를/JKO
+최소화하는	최소/NNG+화/XSN+하/XSV+는/ETM
+대신	대신/NNG
+노조가	노조/NNG+가/JKS
+파업을	파업/NNG+을/JKO
+푸는	풀/VV+는/ETM
+데	데/NNB
+양측이	양측/NNG+이/JKS
+의견을	의견/NNG+을/JKO
+모은	모으/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+전해졌다.	전하/VV+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.6.3
+이에 앞서 KBS 사측은 노조 집행부 5명을 업무방해 혐의로 검찰에 고소하고, 인사위원회에 조합원 51명에 대한 징계를 요구한 바 있다.
+
+이에	이/NP+에/JKB
+앞서	앞서/VV+어/EC
+KBS	KBS/SL
+사측은	사측/NNG+은/JX
+노조	노조/NNG
+집행부	집행부/NNG
+5명을	5/SN+명/NNB+을/JKO
+업무방해	업무/NNG+방해/NNG
+혐의로	혐의/NNG+로/JKB
+검찰에	검찰/NNG+에/JKB
+고소하고,	고소/NNG+하/XSV+고/EC+,/SP
+인사위원회에	인사/NNG+위원회/NNG+에/JKB
+조합원	조합원/NNG
+51명에	51/SN+명/NNB+에/JKB
+대한	대하/VV+ㄴ/ETM
+징계를	징계/NNG+를/JKO
+요구한	요구/NNG+하/XSV+ㄴ/ETM
+바	바/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.184.6.4
+새노조 공정방송추진위원회 간사를 맡고 있는 최경영 기자는 인사위원회의 해고조치가 내려진 상태다.
+
+새노조	새/MMA+노조/NNG
+공정방송추진위원회	공정/NNG+방송/NNG+추진/NNG+위원회/NNG
+간사를	간사/NNG+를/JKO
+맡고	맡/VV+고/EC
+있는	있/VX+는/ETM
+최경영	최경영/NNP
+기자는	기자/NNG+는/JX
+인사위원회의	인사/NNG+위원회/NNG+의/JKG
+해고조치가	해고/NNG+조치/NNG+가/JKS
+내려진	내려지/VV+ㄴ/ETM
+상태다.	상태/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.7.1
+KBS가 파업을 종료할 경우 이는 연대파업 중인 다른 언론사에도 영향을 줄 것으로 전망된다.
+
+KBS가	KBS/SL+가/JKS
+파업을	파업/NNG+을/JKO
+종료할	종료/NNG+하/XSV+ㄹ/ETM
+경우	경우/NNG
+이는	이/NP+는/JX
+연대파업	연대/NNG+파업/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+다른	다른/MMD
+언론사에도	언론사/NNG+에/JKB+도/JX
+영향을	영향/NNG+을/JKO
+줄	주/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.184.7.2
+6일로 84일째 파업 중인 연합뉴스 노조는 5월 말 사측에 노조 요구안을 전달한 뒤 5일부터 사측과 협상을 진행하고 있다.
+
+6일로	6/SN+일/NNB+로/JKB
+84일째	84/SN+일/NNB+째/XSN
+파업	파업/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+연합뉴스	연합뉴스/NNP
+노조는	노조/NNG+는/JX
+5월	5/SN+월/NNB
+말	말/NNB
+사측에	사측/NNG+에/JKB
+노조	노조/NNG
+요구안을	요구안/NNG+을/JKO
+전달한	전달/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+5일부터	5/SN+일/NNB+부터/JX
+사측과	사측/NNG+과/JKB
+협상을	협상/NNG+을/JKO
+진행하고	진행/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.184.7.3
+이날 파업 129일째에 접어든 MBC 노조는 1일 양측이 대화를 재개했지만 경찰이 노조 집행부에 대해 구속영장을 재신청해 다시 냉각기에 접어들었다.
+
+이날	이날/NNG
+파업	파업/NNG
+129일째에	129/SN+일/NNB+째/XSN+에/JKB
+접어든	접어들/VV+ㄴ/ETM
+MBC	MBC/SL
+노조는	노조/NNG+는/JX
+1일	1/SN+일/NNB
+양측이	양측/NNG+이/JKS
+대화를	대화/NNG+를/JKO
+재개했지만	재개/NNG+하/XSV+았/EP+지만/EC
+경찰이	경찰/NNG+이/JKS
+노조	노조/NNG
+집행부에	집행부/NNG+에/JKB
+대해	대하/VV+아/EC
+구속영장을	구속/NNG+영장/NNG+을/JKO
+재신청해	재/XPN+신청/NNG+하/XSV+아/EC
+다시	다시/MAG
+냉각기에	냉각기/NNG+에/JKB
+접어들었다.	접어들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.184.7.4
+3월 8일 이후 9차례에 걸쳐 부분파업 중인 YTN 노조도 사측의 노조 집행부 징계로 협상이 중단된 상태다.
+
+3월	3/SN+월/NNB
+8일	8/SN+일/NNB
+이후	이후/NNG
+9차례에	9/SN+차례/NNG+에/JKB
+걸쳐	걸치/VV+어/EC
+부분파업	부분/NNG+파업/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+YTN	YTN/SL
+노조도	노조/NNG+도/JX
+사측의	사측/NNG+의/JKG
+노조	노조/NNG
+집행부	집행부/NNG
+징계로	징계/NNG+로/JKB
+협상이	협상/NNG+이/JKS
+중단된	중단/NNG+되/XSV+ㄴ/ETM
+상태다.	상태/NNG+이/VCP+다/EF+./SF
+
+

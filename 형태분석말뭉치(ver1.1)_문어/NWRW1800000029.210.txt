@@ -1,0 +1,348 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000029.210
+metadata : {}
+
+
+# id : NWRW1800000029.210.1.1
+자살 KAIST 교수 논문 국제학술지 표지논문에
+
+자살	자살/NNG
+KAIST	KAIST/SL
+교수	교수/NNG
+논문	논문/NNG
+국제학술지	국제/NNG+학술지/NNG
+표지논문에	표지/NNG+논문/NNG+에/JKB
+
+
+# id : NWRW1800000029.210.2.1
+‘홍합의 바위 밀착’ 모방
+
+‘홍합의	‘/SS+홍합/NNG+의/JKG
+바위	바위/NNG
+밀착’	밀착/NNG+’/SS
+모방	모방/NNG
+
+
+# id : NWRW1800000029.210.3.1
+초고강도 탄소섬유 개발… “생전 통보받고 기뻐했는데…”
+
+초고강도	초/XPN+고/XPN+강도/NNG
+탄소섬유	탄소/NNG+섬유/NNG
+개발…	개발/NNG+…/SE
+“생전	“/SS+생전/NNG
+통보받고	통보/NNG+받/XSV+고/EC
+기뻐했는데…”	기뻐하/VV+았/EP+는데/EC+…/SE+”/SS
+
+
+# id : NWRW1800000029.210.4.1
+지난달 스스로 목숨을 끊은 KAIST P 교수의 유고(遺稿) 논문이 유명 학술지의 표지논문(사진)으로 게재됐다.
+
+지난달	지난달/NNG
+스스로	스스로/MAG
+목숨을	목숨/NNG+을/JKO
+끊은	끊/VV+은/ETM
+KAIST	KAIST/SL
+P	P/SL
+교수의	교수/NNG+의/JKG
+유고(遺稿)	유고/NNG+(/SS+遺稿/SH+)/SS
+논문이	논문/NNG+이/JKS
+유명	유명/NNG
+학술지의	학술지/NNG+의/JKG
+표지논문(사진)으로	표지/NNG+논문/NNG+(/SS+사진/NNG+)/SS+으로/JKB
+게재됐다.	게재/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.4.2
+이 논문은 3월 초 게재 승인이 떨어져 P 교수는 이 사실을 알고 있었던 것으로 전해졌다.
+
+이	이/MMD
+논문은	논문/NNG+은/JX
+3월	3/SN+월/NNB
+초	초/NNB
+게재	게재/NNG
+승인이	승인/NNG+이/JKS
+떨어져	떨어지/VV+어/EC
+P	P/SL
+교수는	교수/NNG+는/JX
+사실을	사실/NNG+을/JKO
+알고	알/VV+고/EC
+있었던	있/VX+었/EP+던/ETM
+것으로	것/NNB+으로/JKB
+전해졌다.	전하/VV+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.5.1
+P 교수가 KAIST 신소재공학과 홍순형 교수, 화학과 이해신 교수와 함께 연구한 것은 홍합의 생체구조를 모방한 초고강도 전도성 섬유 제조기술이다.
+
+P	P/SL
+교수가	교수/NNG+가/JKS
+KAIST	KAIST/SL
+신소재공학과	신/XPN+소재/NNG+공학과/NNG
+홍순형	홍순형/NNP
+교수,	교수/NNG+,/SP
+화학과	화학과/NNG
+이해신	이해신/NNP
+교수와	교수/NNG+와/JKB
+함께	함께/MAG
+연구한	연구/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+홍합의	홍합/NNG+의/JKG
+생체구조를	생체/NNG+구조/NNG+를/JKO
+모방한	모방/NNG+하/XSV+ㄴ/ETM
+초고강도	초/XPN+고/XPN+강도/NNG
+전도성	전도/NNG+성/XSN
+섬유	섬유/NNG
+제조기술이다.	제조/NNG+기술/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.5.2
+이 내용은 재료분야 유명 학술지인 ‘어드밴스드 머티리얼스(Advanced Materials)’ 3일자 표지논문으로 소개됐다.
+
+이	이/MMD
+내용은	내용/NNG+은/JX
+재료분야	재료/NNG+분야/NNG
+유명	유명/NNG
+학술지인	학술지/NNG+이/VCP+ㄴ/ETM
+‘어드밴스드	‘/SS+어드밴스드/NNG
+머티리얼스(Advanced	머티리얼스/NNG+(/SS+Advanced/SL
+Materials)’	Materials/SL+)/SS+’/SS
+3일자	3/SN+일/NNB+자/NNG
+표지논문으로	표지/NNG+논문/NNG+으로/JKB
+소개됐다.	소개/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.5.3
+P 교수는 이 논문의 연구 책임자로 참여했다.
+
+P	P/SL
+교수는	교수/NNG+는/JX
+이	이/MMD
+논문의	논문/NNG+의/JKG
+연구	연구/NNG
+책임자로	책임자/NNG+로/JKB
+참여했다.	참여/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.6.1
+홍합은 실 같은 조직을 뻗어 바위에 달라붙는다.
+
+홍합은	홍합/NNG+은/JX
+실	실/NNG
+같은	같/VA+은/ETM
+조직을	조직/NNG+을/JKO
+뻗어	뻗/VV+어/EC
+바위에	바위/NNG+에/JKB
+달라붙는다.	달라붙/VV+는다/EF+./SF
+
+
+# id : NWRW1800000029.210.6.2
+콜라겐 섬유와 카테콜아민이라는 성분이 그물처럼 얽혀 있어 태풍에도 떨어지지 않을 정도로 접착력이 강하다.
+
+콜라겐	콜라겐/NNG
+섬유와	섬유/NNG+와/JC
+카테콜아민이라는	카테콜아민/NNG+이/VCP+라는/ETM
+성분이	성분/NNG+이/JKS
+그물처럼	그물/NNG+처럼/JKB
+얽혀	얽히/VV+어/EC
+있어	있/VX+어/EC
+태풍에도	태풍/NNG+에/JKB+도/JX
+떨어지지	떨어지/VV+지/EC
+않을	않/VX+을/ETM
+정도로	정도/NNG+로/JKB
+접착력이	접착력/NNG+이/JKS
+강하다.	강하/VA+다/EF+./SF
+
+
+# id : NWRW1800000029.210.6.3
+연구진은 이를 모방해 콜라겐 섬유 대신 탄소나노튜브를, 카테콜아민 대신 고분자 접착제를 써 새로운 탄소나노튜브 섬유를 개발했다.
+
+연구진은	연구진/NNG+은/JX
+이를	이/NP+를/JKO
+모방해	모방/NNG+하/XSV+아/EC
+콜라겐	콜라겐/NNG
+섬유	섬유/NNG
+대신	대신/NNG
+탄소나노튜브를,	탄소/NNG+나노/NNG+튜브/NNG+를/JKO+,/SP
+카테콜아민	카테콜아민/NNG
+고분자	고/XPN+분자/NNG
+접착제를	접착제/NNG+를/JKO
+써	쓰/VV+어/EC
+새로운	새롭/VA+ㄴ/ETM
+탄소나노튜브	탄소/NNG+나노/NNG+튜브/NNG
+섬유를	섬유/NNG+를/JKO
+개발했다.	개발/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.6.4
+이 교수는 “탄소나노튜브는 길이가 수 나노미터(nm·1nm는 10억분의 1m)에 불과해 상용화가 어렵지만 이번 연구로 수 m로 만들 수 있게 됐다”며 “P 교수가 논문 게재 사실을 알고 매우 기뻐했다”고 말했다.
+
+이	이/MMD
+교수는	교수/NNG+는/JX
+“탄소나노튜브는	“/SS+탄소/NNG+나노/NNG+튜브/NNG+는/JX
+길이가	길이/NNG+가/JKS
+수	수/NNB
+나노미터(nm·1nm는	나노미터/NNB+(/SS+nm/SW+·/SP+1/SN+nm/SW+는/JX
+10억분의	10/SN+억/NR+분/XSN+의/JKG
+1m)에	1/SN+m/SW+)/SS+에/JKB
+불과해	불과/MAG+하/XSA+아/EC
+상용화가	상용/NNG+화/XSN+가/JKS
+어렵지만	어렵/VA+지만/EC
+이번	이번/NNG
+연구로	연구/NNG+로/JKB
+m로	m/SW+로/JKB
+만들	만들/VV+ㄹ/ETM
+있게	있/VA+게/EC
+됐다”며	되/VV+었/EP+다/EF+”/SS+며/EC
+“P	“/SS+P/SL
+교수가	교수/NNG+가/JKS
+논문	논문/NNG
+게재	게재/NNG
+사실을	사실/NNG+을/JKO
+알고	알/VV+고/EC
+매우	매우/MAG
+기뻐했다”고	기뻐하/VV+았/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.7.1
+P 교수는 올해 1월 KAIST로부터 ‘올해의 KAIST인상’을, 2009년에는 미국 생체재료학회로부터 ‘클렘슨상’ 등을 수상해 바이오 재료 분야의 세계 최고 석학으로 평가받았지만 연구비 유용 혐의를 받게 되자 지난달 10일 대전 자택에서 자살했다.
+
+P	P/SL
+교수는	교수/NNG+는/JX
+올해	올해/NNG
+1월	1/SN+월/NNB
+KAIST로부터	KAIST/SL+로부터/JKB
+‘올해의	‘/SS+올해/NNG+의/JKG
+KAIST인상’을,	KAIST인/NNG+상/NNG+’/SS+을/JKO+,/SP
+2009년에는	2009/SN+년/NNB+에/JKB+는/JX
+미국	미국/NNP
+생체재료학회로부터	생체재료학회/NNP+로부터/JKB
+‘클렘슨상’	‘/SS+클렘슨/NNP+상/NNG+’/SS
+등을	등/NNB+을/JKO
+수상해	수상/NNG+하/XSV+아/EC
+바이오	바이오/NNG
+재료	재료/NNG
+분야의	분야/NNG+의/JKG
+세계	세계/NNG
+최고	최고/NNG
+석학으로	석학/NNG+으로/JKB
+평가받았지만	평가/NNG+받/XSV+았/EP+지만/EC
+연구비	연구비/NNG
+유용	유용/NNG
+혐의를	혐의/NNG+를/JKO
+받게	받/VV+게/EC
+되자	되/VV+자/EC
+지난달	지난달/NNG
+10일	10/SN+일/NNB
+대전	대전/NNP
+자택에서	자택/NNG+에서/JKB
+자살했다.	자살/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.8.1
+한편 P 교수의 부인인 S 씨는 11일 학내 커뮤니티 사이트에 올린 ‘총장님을 비롯한 모든 KAIST인들께’라는 A4용지 두 장 분량의 글에서 “학자에게 명예와 자존심은 목숨과 같다.
+
+한편	한편/MAG
+P	P/SL
+교수의	교수/NNG+의/JKG
+부인인	부인/NNG+이/VCP+ㄴ/ETM
+S	S/SL
+씨는	씨/NNB+는/JX
+11일	11/SN+일/NNB
+학내	학내/NNG
+커뮤니티	커뮤니티/NNG
+사이트에	사이트/NNG+에/JKB
+올린	올리/VV+ㄴ/ETM
+‘총장님을	‘/SS+총장/NNG+님/XSN+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+모든	모든/MMN
+KAIST인들께’라는	KAIST인/NNG+들/XSN+께/JKB+’/SS+이/VCP+라는/ETM
+A4용지	A/SL+4/SN+용지/NNG
+두	두/MMN
+장	장/NNB
+분량의	분량/NNG+의/JKG
+글에서	글/NNG+에서/JKB
+“학자에게	“/SS+학자/NNG+에게/JKB
+명예와	명예/NNG+와/JC
+자존심은	자존심/NNG+은/JX
+목숨과	목숨/NNG+과/JKB
+같다.	같/VA+다/EF+./SF
+
+
+# id : NWRW1800000029.210.8.2
+남편이 모욕감에 힘들어했다”며 비통함을 표시했다.
+
+남편이	남편/NNG+이/JKS
+모욕감에	모욕감/NNG+에/JKB
+힘들어했다”며	힘들/VA+어/EC+하/VX+았/EP+다/EF+”/SS+며/EC
+비통함을	비통/NNG+하/XSA+ㅁ/ETN+을/JKO
+표시했다.	표시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.8.3
+그는 이어 “암묵적으로 교수와 학생들의 동의 아래 시행돼 온 랩(Lab)비 문제는 제도적인 것이었다”며 학교의 구조적 문제를 지적했다.
+
+그는	그/NP+는/JX
+이어	이어/MAG
+“암묵적으로	“/SS+암묵/NNG+적/XSN+으로/JKB
+교수와	교수/NNG+와/JC
+학생들의	학생/NNG+들/XSN+의/JKG
+동의	동의/NNG
+아래	아래/NNG
+시행돼	시행/NNG+되/XSV+어/EC
+온	오/VX+ㄴ/ETM
+랩(Lab)비	랩/NNG+(/SS+Lab/SL+)/SS+비/NA
+문제는	문제/NNG+는/JX
+제도적인	제도/NNG+적/XSN+이/VCP+ㄴ/ETM
+것이었다”며	것/NNB+이/VCP+었/EP+다/EF+”/SS+며/EC
+학교의	학교/NNG+의/JKG
+구조적	구조/NNG+적/XSN
+문제를	문제/NNG+를/JKO
+지적했다.	지적/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.8.4
+또 “KAIST로부터 남편의 일과 관련해 어떤 경위 설명도 듣지 못했다”며 비판했다.
+
+또	또/MAG
+“KAIST로부터	“/SS+KAIST/SL+로부터/JKB
+남편의	남편/NNG+의/JKG
+일과	일/NNG+과/JKB
+관련해	관련/NNG+하/XSV+아/EC
+어떤	어떤/MMD
+경위	경위/NNG
+설명도	설명/NNG+도/JX
+듣지	듣/VV+지/EC
+못했다”며	못하/VX+았/EP+다/EF+”/SS+며/EC
+비판했다.	비판/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.210.8.5
+그러면서도 “남편이 학생들과 함께하며 학교에서 인정을 받았을 때 가장 빛나고 행복해 보였기 때문에 KAIST를 원망하며 살고 싶지는 않다”고 끝을 맺었다.
+
+그러면서도	그러/VV+면서/EC+도/JX
+“남편이	“/SS+남편/NNG+이/JKS
+학생들과	학생/NNG+들/XSN+과/JKB
+함께하며	함께/MAG+하/XSV+며/EC
+학교에서	학교/NNG+에서/JKB
+인정을	인정/NNG+을/JKO
+받았을	받/VV+았/EP+을/ETM
+때	때/NNG
+가장	가장/MAG
+빛나고	빛나/VV+고/EC
+행복해	행복/NNG+하/XSA+아/EC
+보였기	보이/VV+었/EP+기/ETN
+때문에	때문/NNB+에/JKB
+KAIST를	KAIST/SL+를/JKO
+원망하며	원망/NNG+하/XSV+며/EC
+살고	살/VV+고/EC
+싶지는	싶/VX+지/EC+는/JX
+않다”고	않/VX+다/EF+”/SS+고/JKQ
+끝을	끝/NNG+을/JKO
+맺었다.	맺/VV+었/EP+다/EF+./SF
+
+

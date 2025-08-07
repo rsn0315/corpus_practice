@@ -1,0 +1,251 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.391
+metadata : {}
+
+
+# id : NWRW1800000054.391.1.1
+"韓·美 대북공조 빛 샐 틈 없어(WSJ)"… "美, 中 제재로 한국에 경고(NYT)"
+
+"韓·美	"/SS+韓/SH+·/SP+美/SH
+대북공조	대북/NNG+공조/NNG
+빛	빛/NNG
+샐	새/VV+ㄹ/ETM
+틈	틈/NNG
+없어(WSJ)"…	없/VA+어/EC+(/SS+WSJ/SL+)/SS+"/SS+…/SE
+"美,	"/SS+美/SH+,/SP
+中	中/SH
+제재로	제재/NNG+로/JKB
+한국에	한국/NNP+에/JKB
+경고(NYT)"	경고/NNG+(/SS+NYT/SL+)/SS+"/SS
+
+
+# id : NWRW1800000054.391.2.1
+美 언론 "한국과 동맹은 재확인… '北과 대화할 때 아니다' 뜻 밝혀"
+
+美	美/SH
+언론	언론/NNG
+"한국과	"/SS+한국/NNP+과/JKB
+동맹은	동맹/NNG+은/JX
+재확인…	재/XPN+확인/NNG+…/SE
+'北과	'/SS+北/SH+과/JKB
+대화할	대화/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+아니다'	아니/VCN+다/EF+'/SS
+뜻	뜻/NNG
+밝혀"	밝히/VV+어/EC+"/SS
+
+
+# id : NWRW1800000054.391.3.1
+문재인 대통령과 도널드 트럼프 미 대통령의 정상회담에 대해 미국 언론들은 "한·미 안보 동맹을 재확인했다"면서 대북 정책 분야에선 대체적으로 긍정적인 평가를 내렸다.
+
+문재인	문재인/NNP
+대통령과	대통령/NNG+과/JC
+도널드	도널드/NNP
+트럼프	트럼프/NNP
+미	미/NNP
+대통령의	대통령/NNG+의/JKG
+정상회담에	정상/NNG+회담/NNG+에/JKB
+대해	대하/VV+아/EC
+미국	미국/NNP
+언론들은	언론/NNG+들/XSN+은/JX
+"한·미	"/SS+한·미/NNP
+안보	안보/NNG
+동맹을	동맹/NNG+을/JKO
+재확인했다"면서	재/XPN+확인/NNG+하/XSV+았/EP+다/EF+"/SS+면서/EC
+대북	대북/NNG
+정책	정책/NNG
+분야에선	분야/NNG+에서/JKB+ㄴ/JX
+대체적으로	대체/NNG+적/XSN+으로/JKB
+긍정적인	긍정/NNG+적/XSN+이/VCP+ㄴ/ETM
+평가를	평가/NNG+를/JKO
+내렸다.	내리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.391.4.1
+월스트리트저널(WSJ)은 30일(현지 시각) '트럼프 대통령과 문 대통령이 북한 문제에 하나가 됐다(unite)'란 제목의 기사에서 "두 정상이 북한 문제 대처에 협조하기로 약속했다"라고 했다.
+
+월스트리트저널(WSJ)은	월스트리트저널/NNP+(/SS+WSJ/SL+)/SS+은/JX
+30일(현지	30/SN+일/NNB+(/SS+현지/NNG
+시각)	시각/NNG+)/SS
+'트럼프	'/SS+트럼프/NNP
+대통령과	대통령/NNG+과/JC
+문	문/NNP
+대통령이	대통령/NNG+이/JKS
+북한	북한/NNP
+문제에	문제/NNG+에/JKB
+하나가	하나/NR+가/JKC
+됐다(unite)'란	되/VV+었/EP+다/EF+(/SS+unite/SL+)/SS+'/SS+이/VCP+란/ETM
+제목의	제목/NNG+의/JKG
+기사에서	기사/NNG+에서/JKB
+"두	"/SS+두/MMN
+정상이	정상/NNG+이/JKS
+문제	문제/NNG
+대처에	대처/NNG+에/JKB
+협조하기로	협조/NNG+하/XSV+기/ETN+로/JKB
+약속했다"라고	약속/NNG+하/XSV+았/EP+다/EF+"/SS+라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.391.4.2
+그러면서 "비록 트럼프 대통령은 대북 강경파이고, 문 대통령은 대화를 주장하고 있지만, 두 정상의 공동성명을 보면 대북 정책에서 '빛 샐 틈도 없는(no daylight)' 공조를 구축했다"고 했다.
+
+그러면서	그러/VV+면서/EC
+"비록	"/SS+비록/MAG
+트럼프	트럼프/NNP
+대통령은	대통령/NNG+은/JX
+대북	대북/NNG
+강경파이고,	강경파/NNG+이/VCP+고/EC+,/SP
+문	문/NNP
+대화를	대화/NNG+를/JKO
+주장하고	주장/NNG+하/XSV+고/EC
+있지만,	있/VX+지만/EC+,/SP
+두	두/MMN
+정상의	정상/NNG+의/JKG
+공동성명을	공동/NNG+성명/NNG+을/JKO
+보면	보/VV+면/EC
+정책에서	정책/NNG+에서/JKB
+'빛	'/SS+빛/NNG
+샐	새/VV+ㄹ/ETM
+틈도	틈/NNG+도/JX
+없는(no	없/VA+는/ETM+(/SS+no/SL
+daylight)'	daylight/SL+)/SS+'/SS
+공조를	공조/NNG+를/JKO
+구축했다"고	구축/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.391.4.3
+WSJ가 여당인 공화당의 정서를 주로 반영하고 있는 것을 감안하면, 대북 정책 엇박자 우려는 상당 부분 씻어낸 것으로 보인다.
+
+WSJ가	WSJ/SL+가/JKS
+여당인	여당/NNG+이/VCP+ㄴ/ETM
+공화당의	공화당/NNP+의/JKG
+정서를	정서/NNG+를/JKO
+주로	주로/MAG
+반영하고	반영/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+것을	것/NNB+을/JKO
+감안하면,	감안/NNG+하/XSV+면/EC+,/SP
+대북	대북/NNG
+정책	정책/NNG
+엇박자	엇박자/NNG
+우려는	우려/NNG+는/JX
+상당	상당/NNG
+부분	부분/NNG
+씻어낸	씻/VV+어/EC+내/VX+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.391.5.1
+워싱턴포스트(WP)는 이날 '한·미 대통령이 북핵을 비판했다'는 기사에서 "문 대통령이 선거 과정에서 남북 대화를 강조하고 사드(고고도 미사일 방어체계)에 의문을 보였지만, 이번 회동에서 (북핵 문제에) 연대를 보여줬다"면서 "두 정상이 북한의 위협에 대한 확실한 대응(determined response)에 합의했다"고 했다.
+
+워싱턴포스트(WP)는	워싱턴포스트/NNP+(/SS+WP/SL+)/SS+는/JX
+이날	이날/NNG
+'한·미	'/SS+한·미/NNP
+대통령이	대통령/NNG+이/JKS
+북핵을	북핵/NNG+을/JKO
+비판했다'는	비판/NNG+하/XSV+았/EP+다/EF+'/SS+는/ETM
+기사에서	기사/NNG+에서/JKB
+"문	"/SS+문/NNP
+선거	선거/NNG
+과정에서	과정/NNG+에서/JKB
+남북	남북/NNP
+대화를	대화/NNG+를/JKO
+강조하고	강조/NNG+하/XSV+고/EC
+사드(고고도	사드/NNG+(/SS+고/XPN+고도/NNG
+미사일	미사일/NNG
+방어체계)에	방어/NNG+체계/NNG+)/SS+에/JKB
+의문을	의문/NNG+을/JKO
+보였지만,	보이/VV+었/EP+지만/EC+,/SP
+이번	이번/NNG
+회동에서	회동/NNG+에서/JKB
+(북핵	(/SS+북핵/NNG
+문제에)	문제/NNG+에/JKB+)/SS
+연대를	연대/NNG+를/JKO
+보여줬다"면서	보이/VV+어/EC+주/VX+었/EP+다/EF+"/SS+면서/EC
+"두	"/SS+두/MMN
+정상이	정상/NNG+이/JKS
+북한의	북한/NNP+의/JKG
+위협에	위협/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+확실한	확실하/VA+ㄴ/ETM
+대응(determined	대응/NNG+(/SS+determined/SL
+response)에	response/SL+)/SS+에/JKB
+합의했다"고	합의/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.391.6.1
+CNN도 "성격에서도 정책에서도 차이가 있는 양국 정상이 북한 문제에서는 공감대를 이뤘다"면서 "북한의 위협에 공동 대처하기로 서약했다"고 전했다.
+
+CNN도	CNN/SL+도/JX
+"성격에서도	"/SS+성격/NNG+에서/JKB+도/JX
+정책에서도	정책/NNG+에서/JKB+도/JX
+차이가	차이/NNG+가/JKS
+있는	있/VV+는/ETM
+양국	양국/NNG
+정상이	정상/NNG+이/JKS
+북한	북한/NNP
+문제에서는	문제/NNG+에서/JKB+는/JX
+공감대를	공감대/NNG+를/JKO
+이뤘다"면서	이루/VV+었/EP+다/EF+"/SS+면서/EC
+"북한의	"/SS+북한/NNP+의/JKG
+위협에	위협/NNG+에/JKB
+공동	공동/NNG
+대처하기로	대처/NNG+하/XSV+기/ETN+로/JKB
+서약했다"고	서약/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.391.7.1
+반면, 뉴욕타임스(NYT)는 지난 29일 트럼프 대통령이 북한과 거래하는 중국 단둥은행을 제재한 결정을 거론하며 "이것은 중국뿐 아니라 문 대통령에 대한 경고"라고 했다.
+
+반면,	반면/NNG+,/SP
+뉴욕타임스(NYT)는	뉴욕타임스/NNP+(/SS+NYT/SL+)/SS+는/JX
+지난	지나/VV+ㄴ/ETM
+29일	29/SN+일/NNB
+트럼프	트럼프/NNP
+대통령이	대통령/NNG+이/JKS
+북한과	북한/NNP+과/JKB
+거래하는	거래/NNG+하/XSV+는/ETM
+중국	중국/NNP
+단둥은행을	단둥은행/NNP+을/JKO
+제재한	제재/NNG+하/XSV+ㄴ/ETM
+결정을	결정/NNG+을/JKO
+거론하며	거론/NNG+하/XSV+며/EC
+"이것은	"/SS+이것/NP+은/JX
+중국뿐	중국/NNP+뿐/JX
+아니라	아니/VCN+라/EC
+문	문/NNP
+대통령에	대통령/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+경고"라고	경고/NNG+"/SS+라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.391.7.2
+트럼프 행정부는 지금은 북한과 대화를 모색하는 단계가 아니라는 뜻을 이번 제재를 통해 한국에 분명히 밝혔다는 것이다.
+
+트럼프	트럼프/NNP
+행정부는	행정부/NNG+는/JX
+지금은	지금/NNG+은/JX
+북한과	북한/NNP+과/JKB
+대화를	대화/NNG+를/JKO
+모색하는	모색/NNG+하/XSV+는/ETM
+단계가	단계/NNG+가/JKC
+아니라는	아니/VCN+라는/ETM
+뜻을	뜻/NNG+을/JKO
+이번	이번/NNG
+제재를	제재/NNG+를/JKO
+통해	통하/VV+아/EC
+한국에	한국/NNP+에/JKB
+분명히	분명히/MAG
+밝혔다는	밝히/VV+었/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+

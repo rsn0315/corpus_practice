@@ -1,0 +1,242 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.392
+metadata : {}
+
+
+# id : NWRW1800000054.392.1.1
+靑 "공동성명 7시간 지연은 'Free' 한 단어 때문"
+
+靑	靑/SH
+"공동성명	"/SS+공동/NNG+성명/NNG
+7시간	7/SN+시간/NNB
+지연은	지연/NNG+은/JX
+'Free'	'/SS+Free/SL+'/SS
+한	한/MMN
+단어	단어/NNG
+때문"	때문/NNB+"/SS
+
+
+# id : NWRW1800000054.392.2.1
+트럼프, 자유무역 文案에 반대
+
+트럼프,	트럼프/NNP+,/SP
+자유무역	자유/NNG+무역/NNG
+文案에	文案/SH+에/JKB
+반대	반대/NNG
+
+
+# id : NWRW1800000054.392.3.1
+청와대는 3일 한·미 정상회담 뒷얘기를 일부 공개했다.
+
+청와대는	청와대/NNP+는/JX
+3일	3/SN+일/NNB
+한·미	한·미/NNP
+정상회담	정상/NNG+회담/NNG
+뒷얘기를	뒷얘기/NNG+를/JKO
+일부	일부/NNG
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.4.1
+정상회담 이후 7시간 동안 공동성명 발표가 지연된 이유는 '경제성장 촉진을 위한 공정한 무역(Advancing Fair Trade to Promote Economic Growth)'이라는 공동성명 문안 조정 때문으로 알려졌다.
+
+정상회담	정상/NNG+회담/NNG
+이후	이후/NNG
+7시간	7/SN+시간/NNB
+동안	동안/NNG
+공동성명	공동/NNG+성명/NNG
+발표가	발표/NNG+가/JKS
+지연된	지연/NNG+되/XSV+ㄴ/ETM
+이유는	이유/NNG+는/JX
+'경제성장	'/SS+경제/NNG+성장/NNG
+촉진을	촉진/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+공정한	공정/NNG+하/XSA+ㄴ/ETM
+무역(Advancing	무역/NNG+(/SS+Advancing/SL
+Fair	Fair/SL
+Trade	Trade/SL
+to	to/SL
+Promote	Promote/SL
+Economic	Economic/SL
+Growth)'이라는	Growth/SL+)/SS+'/SS+이/VCP+라는/ETM
+문안	문안/NNG
+조정	조정/NNG
+때문으로	때문/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.4.2
+당초엔 '공정한 무역(Fair Trade)'이 아니라 '자유롭고 공정한 무역(Free and Fair Trade)'으로 합의했지만, 트럼프 대통령이 'Free'라는 단어의 삭제를 지시한 것으로 알려졌다.
+
+당초엔	당초/NNG+에/JKB+ㄴ/JX
+'공정한	'/SS+공정/NNG+하/XSA+ㄴ/ETM
+무역(Fair	무역/NNG+(/SS+Fair/SL
+Trade)'이	Trade/SL+)/SS+'/SS+이/JKC
+아니라	아니/VCN+라/EC
+'자유롭고	'/SS+자유/NNG+롭/XSA+고/EC
+공정한	공정/NNG+하/XSA+ㄴ/ETM
+무역(Free	무역/NNG+(/SS+Free/SL
+and	and/SL
+Fair	Fair/SL
+Trade)'으로	Trade/SL+)/SS+'/SS+으로/JKB
+합의했지만,	합의/NNG+하/XSV+았/EP+지만/EC+,/SP
+트럼프	트럼프/NNP
+대통령이	대통령/NNG+이/JKS
+'Free'라는	'/SS+Free/SL+'/SS+이/VCP+라는/ETM
+단어의	단어/NNG+의/JKG
+삭제를	삭제/NNG+를/JKO
+지시한	지시/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.4.3
+'자유무역'은 트럼프 대통령의 '보호주의'에 상반되는 개념이라는 것이다.
+
+'자유무역'은	'/SS+자유/NNG+무역/NNG+'/SS+은/JX
+트럼프	트럼프/NNP
+대통령의	대통령/NNG+의/JKG
+'보호주의'에	'/SS+보호주의/NNG+'/SS+에/JKB
+상반되는	상반/NNG+되/XSV+는/ETM
+개념이라는	개념/NNG+이/VCP+라는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.4.4
+결국 'Free'를 삭제하기로 합의하고서야 공동성명이 발표됐다.
+
+결국	결국/MAG
+'Free'를	'/SS+Free/SL+'/SS+를/JKO
+삭제하기로	삭제/NNG+하/XSV+기/ETN+로/JKB
+합의하고서야	합의/NNG+하/XSV+고서/EC+야/JX
+공동성명이	공동/NNG+성명/NNG+이/JKS
+발표됐다.	발표/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.5.1
+트럼프 대통령은 확대 정상회담 시작부터 "한·미 FTA 발효 이후 미국의 대한(對韓) 무역 적자가 2배 이상 늘었다. 미국과 한국의 무역협정이 공정해야 한다"며 분위기를 몰아갔다고 청와대는 설명했다.
+
+트럼프	트럼프/NNP
+대통령은	대통령/NNG+은/JX
+확대	확대/NNG
+정상회담	정상/NNG+회담/NNG
+시작부터	시작/NNG+부터/JX
+"한·미	"/SS+한·미/NNP
+FTA	FTA/SL
+발효	발효/NNG
+이후	이후/NNG
+미국의	미국/NNP+의/JKG
+대한(對韓)	대한/NNG+(/SS+對韓/SH+)/SS
+무역	무역/NNG
+적자가	적자/NNG+가/JKS
+2배	2/SN+배/NNG
+이상	이상/NNG
+늘었다.	늘/VV+었/EP+다/EF+./SF
+미국과	미국/NNP+과/JC
+한국의	한국/NNP+의/JKG
+무역협정이	무역/NNG+협정/NNG+이/JKS
+공정해야	공정/NNG+하/XSA+아야/EC
+한다"며	하/VX+ㄴ다/EF+"/SS+며/EC
+분위기를	분위기/NNG+를/JKO
+몰아갔다고	몰아가/VV+았/EP+다고/EC
+청와대는	청와대/NNP+는/JX
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.5.2
+그러자 문 대통령은 "FTA 문제라면 실무자 간 협의를 하면 된다"며 대응했다.
+
+그러자	그러/VV+자/EC
+문	문/NNP
+대통령은	대통령/NNG+은/JX
+"FTA	"/SS+FTA/SL
+문제라면	문제/NNG+이/VCP+라면/EC
+실무자	실무자/NNG
+간	간/NNB
+협의를	협의/NNG+를/JKO
+하면	하/VV+면/EC
+된다"며	되/VV+ㄴ다/EF+"/SS+며/EC
+대응했다.	대응/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.392.5.3
+그러면서 문 대통령은 "우리 정부가 원자력과 석탄으로부터 LNG(액화천연가스)로 에너지 정책을 전환하기로 했다. 미국이 좋은 조건만 맞추면 이를 공급할 수 있다"며 미국 측에 '당근'을 제시하기도 했다.
+
+그러면서	그러/VV+면서/EC
+문	문/NNP
+대통령은	대통령/NNG+은/JX
+"우리	"/SS+우리/NP
+정부가	정부/NNG+가/JKS
+원자력과	원자력/NNG+과/JC
+석탄으로부터	석탄/NNG+으로부터/JKB
+LNG(액화천연가스)로	LNG/SL+(/SS+액화/NNG+천연가스/NNG+)/SS+로/JKB
+에너지	에너지/NNG
+정책을	정책/NNG+을/JKO
+전환하기로	전환/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VX+았/EP+다/EF+./SF
+미국이	미국/NNP+이/JKS
+좋은	좋/VA+은/ETM
+조건만	조건/NNG+만/JX
+맞추면	맞추/VV+면/EC
+이를	이/NP+를/JKO
+공급할	공급/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다"며	있/VA+다/EF+"/SS+며/EC
+미국	미국/NNP
+측에	측/NNB+에/JKB
+'당근'을	'/SS+당근/NNG+'/SS+을/JKO
+제시하기도	제시/NNG+하/XSV+기/ETN+도/JX
+
+
+# id : NWRW1800000054.392.6.1
+FTA 문제로 공방이 이어질 때 장하성 청와대 정책실장이 "영어로 얘기하겠다"고 하자 트럼프 대통령이 "오! 와튼 스쿨! 똑똑한 분"이라고 농담을 하면서 분위기가 풀어졌다고 한다.
+
+FTA	FTA/SL
+문제로	문제/NNG+로/JKB
+공방이	공방/NNG+이/JKS
+이어질	이어지/VV+ㄹ/ETM
+때	때/NNG
+장하성	장하성/NNP
+청와대	청와대/NNP
+정책실장이	정책실장/NNG+이/JKS
+"영어로	"/SS+영어/NNP+로/JKB
+얘기하겠다"고	얘기/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+하자	하/VV+자/EC
+트럼프	트럼프/NNP
+대통령이	대통령/NNG+이/JKS
+"오!	"/SS+오/IC+!/SF
+와튼	와튼/NNP
+스쿨!	스쿨/NNG+!/SF
+똑똑한	똑똑하/VA+ㄴ/ETM
+분"이라고	분/NNB+"/SS+이라고/JKQ
+농담을	농담/NNG+을/JKO
+하면서	하/VV+면서/EC
+분위기가	분위기/NNG+가/JKS
+풀어졌다고	풀어지/VV+었/EP+다고/EC
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.392.6.2
+장 실장은 미국 펜실베이니아대학 경영대학원인 와튼 스쿨에서 박사 학위를 받았고, 트럼프 대통령도 같은 학교를 나왔다.
+
+장	장/NNP
+실장은	실장/NNG+은/JX
+미국	미국/NNP
+펜실베이니아대학	펜실베이니아대학/NNP
+경영대학원인	경영/NNG+대학원/NNG+이/VCP+ㄴ/ETM
+와튼	와튼/NNP
+스쿨에서	스쿨/NNG+에서/JKB
+박사	박사/NNG
+학위를	학위/NNG+를/JKO
+받았고,	받/VV+았/EP+고/EC+,/SP
+트럼프	트럼프/NNP
+대통령도	대통령/NNG+도/JX
+같은	같/VA+은/ETM
+학교를	학교/NNG+를/JKO
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+

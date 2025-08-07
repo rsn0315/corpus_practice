@@ -1,0 +1,356 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.34
+metadata : {}
+
+
+# id : NWRW1800000049.34.1.1
+[R&D가 희망이다]초기부터 사업화 최종 목표로 연구 개발
+
+[R&D가	[/SS+R/SL+&/SW+D/SL+가/JKS
+희망이다]초기부터	희망/NNG+이/VCP+다/EF+]/SS+초기/NNG+부터/JX
+사업화	사업/NNG+화/XSN
+최종	최종/NNG
+목표로	목표/NNG+로/JKB
+연구	연구/NNG
+개발	개발/NNG
+
+
+# id : NWRW1800000049.34.2.1
+SK그룹이 지속적으로 성장할 수 있던 배경에는 무엇보다 연구개발(R&D) 강화가 큰 역할을 하고 있다.
+
+SK그룹이	SK그룹/NNP+이/JKS
+지속적으로	지속/NNG+적/XSN+으로/JKB
+성장할	성장/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있던	있/VA+던/ETM
+배경에는	배경/NNG+에/JKB+는/JX
+무엇보다	무엇/NP+보다/JKB
+연구개발(R&D)	연구/NNG+개발/NNG+(/SS+R/SL+&/SW+D/SL+)/SS
+강화가	강화/NNG+가/JKS
+큰	크/VA+ㄴ/ETM
+역할을	역할/NNG+을/JKO
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.34.2.2
+SK는 ‘신개념 R&D’를 바탕으로 새로운 부가가치를 창출하기 위한 기술력을 꾸준히 끌어올리고 있다.
+
+SK는	SK/SL+는/JX
+‘신개념	‘/SS+신/XPN+개념/NNG
+R&D’를	R/SL+&/SW+D/SL+’/SS+를/JKO
+바탕으로	바탕/NNG+으로/JKB
+새로운	새롭/VA+ㄴ/ETM
+부가가치를	부가/NNG+가치/NNG+를/JKO
+창출하기	창출/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+기술력을	기술력/NNG+을/JKO
+꾸준히	꾸준히/MAG
+끌어올리고	끌어올리/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.34.2.3
+SK의 신개념 R&D는 ‘연구를 위한 연구’가 아닌 연구개발 초기 단계부터 사업화를 최종 목표로 두고 연구개발을 진행하는 것이 특징이다.
+
+SK의	SK/SL+의/JKG
+신개념	신/XPN+개념/NNG
+R&D는	R/SL+&/SW+D/SL+는/JX
+‘연구를	‘/SS+연구/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+연구’가	연구/NNG+’/SS+가/JKC
+아닌	아니/VCN+ㄴ/ETM
+연구개발	연구/NNG+개발/NNG
+초기	초기/NNG
+단계부터	단계/NNG+부터/JX
+사업화를	사업/NNG+화/XSN+를/JKO
+최종	최종/NNG
+목표로	목표/NNG+로/JKB
+두고	두/VV+고/EC
+연구개발을	연구/NNG+개발/NNG+을/JKO
+진행하는	진행/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+특징이다.	특징/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.3.1
+이는 실제 시장에서 부가가치를 생산할 수 있는 제품과 기술을 개발하는 것이 연구개발 과정에서 가장 중요한 요소임을 강조하는 SK의 철학이다.
+
+이는	이/NP+는/JX
+실제	실제/MAG
+시장에서	시장/NNG+에서/JKB
+부가가치를	부가/NNG+가치/NNG+를/JKO
+생산할	생산/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+제품과	제품/NNG+과/JC
+기술을	기술/NNG+을/JKO
+개발하는	개발/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+연구개발	연구/NNG+개발/NNG
+과정에서	과정/NNG+에서/JKB
+가장	가장/MAG
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+요소임을	요소/NNG+이/VCP+ㅁ/ETN+을/JKO
+강조하는	강조/NNG+하/XSV+는/ETM
+SK의	SK/SL+의/JKG
+철학이다.	철학/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.3.2
+실제로 사업부서 실무자들을 연구개발 과정에도 참여시켜 현장의 비즈니스 감각이 반영된 제품을 개발하기도 한다.
+
+실제로	실제로/MAG
+사업부서	사업/NNG+부서/NNG
+실무자들을	실무자/NNG+들/XSN+을/JKO
+연구개발	연구/NNG+개발/NNG
+과정에도	과정/NNG+에/JKB+도/JX
+참여시켜	참여/NNG+시키/XSV+어/EC
+현장의	현장/NNG+의/JKG
+비즈니스	비즈니스/NNG
+감각이	감각/NNG+이/JKS
+반영된	반영/NNG+되/XSV+ㄴ/ETM
+제품을	제품/NNG+을/JKO
+개발하기도	개발/NNG+하/XSV+기/ETN+도/JX
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.34.4.1
+이러한 SK의 ‘신개념 R&D’는 계열사 각 분야에 적용되고 있다.
+
+이러한	이러하/VA+ㄴ/ETM
+SK의	SK/SL+의/JKG
+‘신개념	‘/SS+신/XPN+개념/NNG
+R&D’는	R/SL+&/SW+D/SL+’/SS+는/JX
+계열사	계열사/NNG
+각	각/MMD
+분야에	분야/NNG+에/JKB
+적용되고	적용/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.34.5.1
+SK이노베이션은 대전 유성구 대덕연구단지 내에 있는 SK이노베이션 글로벌테크놀로지(GT)를 중심으로 에너지, 석유화학, 윤활유, 신소재 분야에서 최고 수준의 신기술을 개발하고 있다.
+
+SK이노베이션은	SK이노베이션/NNP+은/JX
+대전	대전/NNP
+유성구	유성구/NNP
+대덕연구단지	대덕연구단지/NNP
+내에	내/NNB+에/JKB
+있는	있/VV+는/ETM
+SK이노베이션	SK이노베이션/NNP
+글로벌테크놀로지(GT)를	글로벌테크놀로지/NNP+(/SS+GT/SL+)/SS+를/JKO
+중심으로	중심/NNG+으로/JKB
+에너지,	에너지/NNG+,/SP
+석유화학,	석유/NNG+화학/NNG+,/SP
+윤활유,	윤활유/NNG+,/SP
+신소재	신/XPN+소재/NNG
+분야에서	분야/NNG+에서/JKB
+최고	최고/NNG
+수준의	수준/NNG+의/JKG
+신기술을	신/XPN+기술/NNG+을/JKO
+개발하고	개발/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.34.5.2
+GT는 깨끗하고 연료소비효율 높은 휘발유 ‘엔크린’과 옥탄가 높은 고급 휘발유 ‘솔룩스’를 개발하는 등의 성과를 거뒀다.
+
+GT는	GT/SL+는/JX
+깨끗하고	깨끗하/VA+고/EC
+연료소비효율	연료/NNG+소비/NNG+효율/NNG
+높은	높/VA+은/ETM
+휘발유	휘발유/NNG
+‘엔크린’과	‘/SS+엔크린/NNG+’/SS+과/JC
+옥탄가	옥탄/NNG+가/XSN
+고급	고급/NNG
+‘솔룩스’를	‘/SS+솔룩스/NNG+’/SS+를/JKO
+개발하는	개발/NNG+하/XSV+는/ETM
+등의	등/NNB+의/JKG
+성과를	성과/NNG+를/JKO
+거뒀다.	거두/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.6.1
+SK이노베이션은 국내뿐 아니라 중국 베이징(北京)에도 아스팔트 도로 연구소를 설립해 슈퍼팔트를 개발하는 등 시장 맞춤형 기술 개발에 매진하고 있다.
+
+SK이노베이션은	SK이노베이션/NNP+은/JX
+국내뿐	국내/NNG+뿐/JX
+아니라	아니/VCN+라/EC
+중국	중국/NNP
+베이징(北京)에도	베이징/NNP+(/SS+北京/SH+)/SS+에/JKB+도/JX
+아스팔트	아스팔트/NNG
+도로	도로/NNG
+연구소를	연구소/NNG+를/JKO
+설립해	설립/NNG+하/XSV+아/EC
+슈퍼팔트를	슈퍼팔트/NNG+를/JKO
+개발하는	개발/NNG+하/XSV+는/ETM
+등	등/NNB
+시장	시장/NNG
+맞춤형	맞춤/NNG+형/XSN
+기술	기술/NNG
+개발에	개발/NNG+에/JKB
+매진하고	매진/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.34.7.1
+전기차 배터리 부문에서는 지난해 충남 서산에 위치한 배터리 공장 설비를 기존 대비 두 배로 증설했다.
+
+전기차	전기/NNG+차/NNG
+배터리	배터리/NNG
+부문에서는	부문/NNG+에서/JKB+는/JX
+지난해	지난해/NNG
+충남	충남/NNP
+서산에	서산/NNP+에/JKB
+위치한	위치/NNG+하/XSV+ㄴ/ETM
+공장	공장/NNG
+설비를	설비/NNG+를/JKO
+기존	기존/NNG
+대비	대비/NNG
+두	두/MMN
+배로	배/NNG+로/JKB
+증설했다.	증설/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.7.2
+최근에는 프리미엄 자동차 브랜드의 대표격인 벤츠의 차세대 전기차에 대규모 배터리를 공급하는 계약을 체결해 글로벌 마케팅 네트워크를 구축했다.
+
+최근에는	최근/NNG+에/JKB+는/JX
+프리미엄	프리미엄/NNG
+자동차	자동차/NNG
+브랜드의	브랜드/NNG+의/JKG
+대표격인	대표/NNG+격/NNB+이/VCP+ㄴ/ETM
+벤츠의	벤츠/NNP+의/JKG
+차세대	차세대/NNG
+전기차에	전기/NNG+차/NNG+에/JKB
+대규모	대/XPN+규모/NNG
+배터리를	배터리/NNG+를/JKO
+공급하는	공급/NNG+하/XSV+는/ETM
+계약을	계약/NNG+을/JKO
+체결해	체결/NNG+하/XSV+아/EC
+글로벌	글로벌/NNG
+마케팅	마케팅/NNG
+네트워크를	네트워크/NNG+를/JKO
+구축했다.	구축/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.8.1
+SK케미칼은 2008년 바이오 사업을 미래 핵심 동력으로 선정하고 이후 인프라 구축과 R&D에 약 4000억 원의 비용을 투자했다.
+
+SK케미칼은	SK케미칼/NNP+은/JX
+2008년	2008/SN+년/NNB
+바이오	바이오/NNG
+사업을	사업/NNG+을/JKO
+미래	미래/NNG
+핵심	핵심/NNG
+동력으로	동력/NNG+으로/JKB
+선정하고	선정/NNG+하/XSV+고/EC
+이후	이후/NNG
+인프라	인프라/NNG
+구축과	구축/NNG+과/JC
+R&D에	R/SL+&/SW+D/SL+에/JKB
+약	약/MMA
+4000억	4000/SN+억/NR
+원의	원/NNB+의/JKG
+비용을	비용/NNG+을/JKO
+투자했다.	투자/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.8.2
+이후 지난해 성인용으로는 국내 최초, 소아용으로는 세계 최초로 세포배양 독감백신인 ‘스카이셀플루’를 상용화했다.
+
+이후	이후/NNG
+지난해	지난해/NNG
+성인용으로는	성인/NNG+용/XSN+으로/JKB+는/JX
+국내	국내/NNG
+최초,	최초/NNG+,/SP
+소아용으로는	소아/NNG+용/XSN+으로/JKB+는/JX
+세계	세계/NNG
+최초로	최초/NNG+로/JKB
+세포배양	세포/NNG+배양/NNG
+독감백신인	독감/NNG+백신/NNG+이/VCP+ㄴ/ETM
+‘스카이셀플루’를	‘/SS+스카이셀플루/NNG+’/SS+를/JKO
+상용화했다.	상용/NNG+화/XSN+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.9.1
+SK C&C는 지난해 12월 클라우드·스마트팩토리·융합물류 등 신성장 사업의 성과 창출을 본격화하고 솔루션·플랫폼 등 기술 중심 회사로 도약하기 위한 조직개편 및 임원 인사를 단행했다.
+
+SK	SK/SL
+C&C는	C/SL+&/SW+C/SL+는/JX
+지난해	지난해/NNG
+12월	12/SN+월/NNB
+클라우드·스마트팩토리·융합물류	클라우드/NNG+·/SP+스마트팩토리/NNG+·/SP+융합/NNG+물류/NNG
+등	등/NNB
+신성장	신/XPN+성장/NNG
+사업의	사업/NNG+의/JKG
+성과	성과/NNG
+창출을	창출/NNG+을/JKO
+본격화하고	본격/NNG+화/XSN+하/XSV+고/EC
+솔루션·플랫폼	솔루션/NNG+·/SP+플랫폼/NNG
+기술	기술/NNG
+중심	중심/NNG
+회사로	회사/NNG+로/JKB
+도약하기	도약/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+조직개편	조직/NNG+개편/NNG
+및	및/MAG
+임원	임원/NNG
+인사를	인사/NNG+를/JKO
+단행했다.	단행/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.10.1
+가장 눈에 띄는 변화는 최고경영자(CEO) 직속의 ‘ICT(정보통신기술) R&D 센터’를 신설해 기술 중심 회사로의 변모를 꾀했다는 점이다.
+
+가장	가장/MAG
+눈에	눈/NNG+에/JKB
+띄는	띄/VV+는/ETM
+변화는	변화/NNG+는/JX
+최고경영자(CEO)	최고/NNG+경영자/NNG+(/SS+CEO/SL+)/SS
+직속의	직속/NNG+의/JKG
+‘ICT(정보통신기술)	‘/SS+ICT/SL+(/SS+정보/NNG+통신/NNG+기술/NNG+)/SS
+R&D	R/SL+&/SW+D/SL
+센터’를	센터/NNG+’/SS+를/JKO
+신설해	신설/NNG+하/XSV+아/EC
+기술	기술/NNG
+중심	중심/NNG
+회사로의	회사/NNG+로/JKB+의/JKG
+변모를	변모/NNG+를/JKO
+꾀했다는	꾀하/VV+았/EP+다는/ETM
+점이다.	점/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.34.10.2
+ICT R&D 센터는 급변하는 사업과 기술 트렌드에 선제적으로 대응하기 위해 기존에 보유한 ICT 핵심기술을 솔루션화하고, 차세대 신성장 동력으로 머신러닝(기계학습)과 인공지능(AI) 등을 발굴하고 준비하는 조직이다.
+
+ICT	ICT/SL
+R&D	R/SL+&/SW+D/SL
+센터는	센터/NNG+는/JX
+급변하는	급변/NNG+하/XSV+는/ETM
+사업과	사업/NNG+과/JC
+기술	기술/NNG
+트렌드에	트렌드/NNG+에/JKB
+선제적으로	선제/NNG+적/XSN+으로/JKB
+대응하기	대응/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+기존에	기존/NNG+에/JKB
+보유한	보유/NNG+하/XSV+ㄴ/ETM
+핵심기술을	핵심/NNG+기술/NNG+을/JKO
+솔루션화하고,	솔루션/NNG+화/XSN+하/XSV+고/EC+,/SP
+차세대	차세대/NNG
+신성장	신/XPN+성장/NNG
+동력으로	동력/NNG+으로/JKB
+머신러닝(기계학습)과	머신/NNG+러닝/NNG+(/SS+기계/NNG+학습/NNG+)/SS+과/JC
+인공지능(AI)	인공/NNG+지능/NNG+(/SS+AI/SL+)/SS
+등을	등/NNB+을/JKO
+발굴하고	발굴/NNG+하/XSV+고/EC
+준비하는	준비/NNG+하/XSV+는/ETM
+조직이다.	조직/NNG+이/VCP+다/EF+./SF
+
+

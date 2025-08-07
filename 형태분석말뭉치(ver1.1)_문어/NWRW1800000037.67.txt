@@ -1,0 +1,352 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000037.67
+metadata : {}
+
+
+# id : NWRW1800000037.67.1.1
+[Food&Dining 3.0]까다로운 품질 관리기준 적용, 컵 커피 시장의 고급화 주도
+
+[Food&Dining	[/SS+Food/SL+&/SW+Dining/SL
+3.0]까다로운	3/SN+./SP+0/SN+]/SS+까다롭/VA+ㄴ/ETM
+품질	품질/NNG
+관리기준	관리/NNG+기준/NNG
+적용,	적용/NNG+,/SP
+컵	컵/NNG
+커피	커피/NNG
+시장의	시장/NNG+의/JKG
+고급화	고급/NNG+화/XSN
+주도	주도/NNG
+
+
+# id : NWRW1800000037.67.2.1
+매일유업의 프리미엄 RTD 커피 브랜드 ‘바리스타’는 고급 원두와 로스팅, 정교한 맛을 강점으로 내세워 컵 커피 시장의 고급화를 주도하고 있다.
+
+매일유업의	매일유업/NNP+의/JKG
+프리미엄	프리미엄/NNG
+RTD	RTD/SL
+커피	커피/NNG
+브랜드	브랜드/NNG
+‘바리스타’는	‘/SS+바리스타/NNP+’/SS+는/JX
+고급	고급/NNG
+원두와	원두/NNG+와/JC
+로스팅,	로스팅/NNG+,/SP
+정교한	정교하/VA+ㄴ/ETM
+맛을	맛/NNG+을/JKO
+강점으로	강점/NNG+으로/JKB
+내세워	내세우/VV+어/EC
+컵	컵/NNG
+시장의	시장/NNG+의/JKG
+고급화를	고급/NNG+화/XSN+를/JKO
+주도하고	주도/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.67.2.2
+RTD 커피는 ‘ready to drink’의 약자로 구입하자마자 바로 마실 수 있는 커피를 의미한다.
+
+RTD	RTD/SL
+커피는	커피/NNG+는/JX
+‘ready	‘/SS+ready/SL
+to	to/SL
+drink’의	drink/SL+’/SS+의/JKG
+약자로	약자/NNG+로/JKB
+구입하자마자	구입/NNG+하/XSV+자마자/EC
+바로	바로/MAG
+마실	마시/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+커피를	커피/NNG+를/JKO
+의미한다.	의미/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.67.2.3
+주로 편의점에서 완제품 상태로 판매한다.
+
+주로	주로/MAG
+편의점에서	편의점/NNG+에서/JKB
+완제품	완제품/NNG
+상태로	상태/NNG+로/JKB
+판매한다.	판매/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.67.3.1
+바리스타는 고산지역에서 나는 귀한 원두를 맞춤 로스팅해 커피의 풍미를 살린 프리미엄 컵 커피 브랜드다.
+
+바리스타는	바리스타/NNP+는/JX
+고산지역에서	고산/NNG+지역/NNG+에서/JKB
+나는	나/VV+는/ETM
+귀한	귀하/VA+ㄴ/ETM
+원두를	원두/NNG+를/JKO
+맞춤	맞춤/NNG
+로스팅해	로스팅/NNG+하/XSV+아/EC
+커피의	커피/NNG+의/JKG
+풍미를	풍미/NNG+를/JKO
+살린	살리/VV+ㄴ/ETM
+프리미엄	프리미엄/NNG
+컵	컵/NNG
+커피	커피/NNG
+브랜드다.	브랜드/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.3.2
+2011년 소비자의 기호를 반영해 기존 제품에서 용기 디자인과 맛을 개선한 ‘바리스타 에스프레소 라떼’를 리뉴얼 출시했다.
+
+2011년	2011/SN+년/NNB
+소비자의	소비자/NNG+의/JKG
+기호를	기호/NNG+를/JKO
+반영해	반영/NNG+하/XSV+아/EC
+기존	기존/NNG
+제품에서	제품/NNG+에서/JKB
+용기	용기/NNG
+디자인과	디자인/NNG+과/JC
+맛을	맛/NNG+을/JKO
+개선한	개선/NNG+하/XSV+ㄴ/ETM
+‘바리스타	‘/SS+바리스타/NNP
+에스프레소	에스프레소/NNP
+라떼’를	라떼/NNP+’/SS+를/JKO
+리뉴얼	리뉴얼/NNG
+출시했다.	출시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.3.3
+장인의 손도장을 연상시키는 새로운 로고를 부착했다.
+
+장인의	장인/NNG+의/JKG
+손도장을	손도장/NNG+을/JKO
+연상시키는	연상/NNG+시키/XSV+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+로고를	로고/NNG+를/JKO
+부착했다.	부착/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.3.4
+까다로운 자체 품질 관리 기준인 ‘바리스타 프리미엄 3 법칙’도 적용했다.
+
+까다로운	까다롭/VA+ㄴ/ETM
+자체	자체/NNG
+품질	품질/NNG
+관리	관리/NNG
+기준인	기준/NNG+이/VCP+ㄴ/ETM
+‘바리스타	‘/SS+바리스타/NNG
+프리미엄	프리미엄/NNG
+3	3/SN
+법칙’도	법칙/NNG+’/SS+도/JX
+적용했다.	적용/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.4.1
+이 세 가지 법칙은 전 세계 커피 생산량의 1%밖에 안 될 정도로 귀한 고산지역의 고급 원두만을 골라 배합하고, 전문 바리스타와 큐그레이더(커피감정사)가 로스팅해 원두의 풍미를 살리고, 12명의 전문 바리스타의 테스트를 통해 커피맛을 결정하는 과정을 의미한다.
+
+이	이/MMD
+세	세/MMN
+가지	가지/NNB
+법칙은	법칙/NNG+은/JX
+전	전/MMN
+세계	세계/NNG
+커피	커피/NNG
+생산량의	생산량/NNG+의/JKG
+1%밖에	1/SN+%/SW+밖에/JX
+안	안/MAG
+될	되/VV+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+귀한	귀하/VA+ㄴ/ETM
+고산지역의	고산/NNG+지역/NNG+의/JKG
+고급	고급/NNG
+원두만을	원두/NNG+만/JX+을/JKO
+골라	고르/VV+아/EC
+배합하고,	배합/NNG+하/XSV+고/EC+,/SP
+전문	전문/NNG
+바리스타와	바리스타/NNG+와/JC
+큐그레이더(커피감정사)가	큐그레이더/NNG+(/SS+커피/NNG+감정사/NNG+)/SS+가/JKS
+로스팅해	로스팅/NNG+하/XSV+아/EC
+원두의	원두/NNG+의/JKG
+풍미를	풍미/NNG+를/JKO
+살리고,	살리/VV+고/EC+,/SP
+12명의	12/SN+명/NNB+의/JKG
+바리스타의	바리스타/NNG+의/JKG
+테스트를	테스트/NNG+를/JKO
+통해	통하/VV+아/EC
+커피맛을	커피/NNG+맛/NNG+을/JKO
+결정하는	결정/NNG+하/XSV+는/ETM
+과정을	과정/NNG+을/JKO
+의미한다.	의미/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.67.5.1
+매일유업 측은 “2011년 바리스타 브랜드를 새로 출시한 이후 매출이 연평균 2배씩 늘며 RTD 커피 시장에서 가장 큰 성장세를 보이고 있다”고 밝혔다.
+
+매일유업	매일유업/NNP
+측은	측/NNB+은/JX
+“2011년	“/SS+2011/SN+년/NNB
+바리스타	바리스타/NNP
+브랜드를	브랜드/NNG+를/JKO
+새로	새로/MAG
+출시한	출시/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+매출이	매출/NNG+이/JKS
+연평균	연평균/NNG
+2배씩	2/SN+배/NNG+씩/XSN
+늘며	늘/VV+며/EC
+RTD	RTD/SL
+커피	커피/NNG
+시장에서	시장/NNG+에서/JKB
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+성장세를	성장세/NNG+를/JKO
+보이고	보이/VV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.6.1
+이달 초에는 에스프레소의 맛과 향을 더욱 진하게 즐기고자 하는 소비자를 겨냥해 프리미엄 병 커피 ‘바리스타 시그니처’를 선보였다.
+
+이달	이달/NNG
+초에는	초/NNB+에/JKB+는/JX
+에스프레소의	에스프레소/NNG+의/JKG
+맛과	맛/NNG+과/JC
+향을	향/NNG+을/JKO
+더욱	더욱/MAG
+진하게	진하/VA+게/EC
+즐기고자	즐기/VV+고자/EC
+하는	하/VX+는/ETM
+소비자를	소비자/NNG+를/JKO
+겨냥해	겨냥/NNG+하/XSV+아/EC
+프리미엄	프리미엄/NNG
+병	병/NNG
+커피	커피/NNG
+‘바리스타	‘/SS+바리스타/NNP
+시그니처’를	시그니처/NNG+’/SS+를/JKO
+선보였다.	선보이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.6.2
+이 제품은 전문 바리스타로 구성한 자체 바리스타전문가위원회의 엄격한 심사를 거쳐 만들어진다.
+
+이	이/MMD
+제품은	제품/NNG+은/JX
+전문	전문/NNG
+바리스타로	바리스타/NNG+로/JKB
+구성한	구성/NNG+하/XSV+ㄴ/ETM
+자체	자체/NNG
+바리스타전문가위원회의	바리스타/NNG+전문가/NNG+위원회/NNG+의/JKG
+엄격한	엄격/NNG+하/XSA+ㄴ/ETM
+심사를	심사/NNG+를/JKO
+거쳐	거치/VV+어/EC
+만들어진다.	만들/VV+어/EC+지/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.67.6.3
+매일유업은 ‘라떼프레소’와 ‘마끼아또 스위트’ 등 2가지 맛으로 구성된 이 브랜드로 프리미엄 이미지를 강화한다는 계획이다.
+
+매일유업은	매일유업/NNP+은/JX
+‘라떼프레소’와	‘/SS+라떼프레소/NNG+’/SS+와/JC
+‘마끼아또	‘/SS+마끼아또/NNG
+스위트’	스위트/NNG+’/SS
+등	등/NNB
+2가지	2/SN+가지/NNB
+맛으로	맛/NNG+으로/JKB
+구성된	구성/NNG+되/XSV+ㄴ/ETM
+이	이/MMD
+브랜드로	브랜드/NNG+로/JKB
+프리미엄	프리미엄/NNG
+이미지를	이미지/NNG+를/JKO
+강화한다는	강화/NNG+하/XSV+ㄴ다는/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.7.1
+과테말라 안티구아 지역에서 나는 커피 중에서도 해발 1400∼1700m 사이에서 재배되는 최상급 원두인 SHB(strictly hard bean) 원두를 사용해 원두 특유의 진한 풍미와 묵직한 질감을 살린 것이 특징이다.
+
+과테말라	과테말라/NNP
+안티구아	안티구아/NNP
+지역에서	지역/NNG+에서/JKB
+나는	나/VV+는/ETM
+커피	커피/NNG
+중에서도	중/NNB+에서/JKB+도/JX
+해발	해발/NNG
+1400∼1700m	1400/SN+∼/SO+1700/SN+m/SW
+사이에서	사이/NNG+에서/JKB
+재배되는	재배/NNG+되/XSV+는/ETM
+최상급	최/XPN+상급/NNG
+원두인	원두/NNG+이/VCP+ㄴ/ETM
+SHB(strictly	SHB/SL+(/SS+strictly/SL
+hard	hard/SL
+bean)	bean/SL+)/SS
+원두를	원두/NNG+를/JKO
+사용해	사용/NNG+하/XSV+아/EC
+원두	원두/NNG
+특유의	특유/NNG+의/JKG
+진한	진하/VA+ㄴ/ETM
+풍미와	풍미/NNG+와/JC
+묵직한	묵직하/VA+ㄴ/ETM
+질감을	질감/NNG+을/JKO
+살린	살리/VV+ㄴ/ETM
+것이	것/NNB+이/JKS
+특징이다.	특징/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.8.1
+매일유업 관계자는 “바리스타는 지난해 RTD 커피 시장에서 가장 높은 성장률을 기록한 브랜드로 프리미엄 컵 커피 시장에서 독보적 1위를 차지하고 있다”며 “병 커피 2종을 출시한 것을 기점으로 병 커피 시장에서도 시장점유율 1위를 차지하기 위해 노력할 것”이라고 밝혔다.
+
+매일유업	매일유업/NNP
+관계자는	관계자/NNG+는/JX
+“바리스타는	“/SS+바리스타/NNP+는/JX
+지난해	지난해/NNG
+RTD	RTD/SL
+커피	커피/NNG
+시장에서	시장/NNG+에서/JKB
+가장	가장/MAG
+높은	높/VA+은/ETM
+성장률을	성장/NNG+률/XSN+을/JKO
+기록한	기록/NNG+하/XSV+ㄴ/ETM
+브랜드로	브랜드/NNG+로/JKB
+프리미엄	프리미엄/NNG
+컵	컵/NNG
+독보적	독보/NNG+적/XSN
+1위를	1/SN+위/NNB+를/JKO
+차지하고	차지/NNG+하/XSV+고/EC
+있다”며	있/VX+다/EF+”/SS+며/EC
+“병	“/SS+병/NNG
+2종을	2/SN+종/NNG+을/JKO
+출시한	출시/NNG+하/XSV+ㄴ/ETM
+것을	것/NNB+을/JKO
+기점으로	기점/NNG+으로/JKB
+병	병/NNG
+시장에서도	시장/NNG+에서/JKB+도/JX
+시장점유율	시장/NNG+점유/NNG+율/XSN
+차지하기	차지/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+노력할	노력/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.67.8.2
+그는 “바리스타 제품의 프리미엄 이미지와 전문성을 부각할 수 있도록 온오프라인에서 다양한 행사를 마련해 고객들의 적극적인 참여도 유도할 계획”이라고 덧붙였다.
+
+그는	그/NP+는/JX
+“바리스타	“/SS+바리스타/NNP
+제품의	제품/NNG+의/JKG
+프리미엄	프리미엄/NNG
+이미지와	이미지/NNG+와/JC
+전문성을	전문/NNG+성/XSN+을/JKO
+부각할	부각/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+온오프라인에서	온오프라인/NNG+에서/JKB
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+행사를	행사/NNG+를/JKO
+마련해	마련/NNG+하/XSV+아/EC
+고객들의	고객/NNG+들/XSN+의/JKG
+적극적인	적극/NNG+적/XSN+이/VCP+ㄴ/ETM
+참여도	참여/NNG+도/JX
+유도할	유도/NNG+하/XSV+ㄹ/ETM
+계획”이라고	계획/NNG+”/SS+이라고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+

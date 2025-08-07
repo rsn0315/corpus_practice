@@ -1,0 +1,383 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.65
+metadata : {}
+
+
+# id : NWRW1800000046.65.1.1
+시청률 떨어지는 지상파, 深夜에 '승부수'
+
+시청률	시청/NNG+률/XSN
+떨어지는	떨어지/VV+는/ETM
+지상파,	지상파/NNG+,/SP
+深夜에	深夜/SH+에/JKB
+'승부수'	'/SS+승부수/NNG+'/SS
+
+
+# id : NWRW1800000046.65.2.1
+KBS 웹드라마 '프린스의…', SBS 드라마 '심야식당' 등 젊은 층 공략해 주말밤 방송
+
+KBS	KBS/SL
+웹드라마	웹/NNG+드라마/NNG
+'프린스의…',	'/SS+프린스/NNG+의/JKG+…/SE+'/SS+,/SP
+SBS	SBS/SL
+드라마	드라마/NNG
+'심야식당'	'/SS+심야식당/NNP+'/SS
+등	등/NNB
+젊은	젊/VA+은/ETM
+층	층/NNG
+공략해	공략/NNG+하/XSV+아/EC
+주말밤	주말/NNG+밤/NNG
+방송	방송/NNG
+
+
+# id : NWRW1800000046.65.3.1
+지난 13일 오전 1시.
+
+지난	지나/VV+ㄴ/ETM
+13일	13/SN+일/NNB
+오전	오전/NNG
+1시.	1/SN+시/NNB+./SF
+
+
+# id : NWRW1800000046.65.3.2
+도통 잠을 이루지 못하는 시청자들을 편안하게 잠자리로 안내하기 위한 마감뉴스나 애국가가 울려 퍼지는 심야 시간이다.
+
+도통	도통/MAG
+잠을	잠/NNG+을/JKO
+이루지	이루/VV+지/EC
+못하는	못하/VX+는/ETM
+시청자들을	시청자/NNG+들/XSN+을/JKO
+편안하게	편안/NNG+하/XSA+게/EC
+잠자리로	잠자리/NNG+로/JKB
+안내하기	안내/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+마감뉴스나	마감/NNG+뉴스/NNG+나/JC
+애국가가	애국가/NNG+가/JKS
+울려	울리/VV+어/EC
+퍼지는	퍼지/VV+는/ETM
+심야	심야/NNG
+시간이다.	시간/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.3
+하지만 이날 이 시간 KBS 2TV로 채널을 돌린 시청자들은 잘생긴 남자 배우들이 펼치는 코믹 연기에 아닌 밤중에 배꼽을 잡았을지도 모르겠다.
+
+하지만	하지만/MAJ
+이날	이날/NNG
+이	이/MMD
+시간	시간/NNG
+KBS	KBS/SL
+2TV로	2/SN+TV/SL+로/JKB
+채널을	채널/NNG+을/JKO
+돌린	돌리/VV+ㄴ/ETM
+시청자들은	시청자/NNG+들/XSN+은/JX
+잘생긴	잘생기/VV+ㄴ/ETM
+남자	남자/NNG
+배우들이	배우/NNG+들/XSN+이/JKS
+펼치는	펼치/VV+는/ETM
+코믹	코믹/NNG
+연기에	연기/NNG+에/JKB
+아닌	아니/VCN+ㄴ/ETM
+밤중에	밤중/NNG+에/JKB
+배꼽을	배꼽/NNG+을/JKO
+잡았을지도	잡/VV+았/EP+을지/EF+도/JX
+모르겠다.	모르/VV+겠/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.4
+KBS가 이 시간대에 방송을 시작한 웹드라마 '프린스의 왕자'였다.
+
+KBS가	KBS/SL+가/JKS
+이	이/MMD
+시간대에	시간대/NNG+에/JKB
+방송을	방송/NNG+을/JKO
+시작한	시작/NNG+하/XSV+ㄴ/ETM
+웹드라마	웹/NNG+드라마/NNG
+'프린스의	'/SS+프린스/NNG+의/JKG
+왕자'였다.	왕자/NNG+'/SS+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.5
+동명(同名) 웹툰을 원작으로 한 '프린스의 왕자'는 게임 중독자인 동생을 구하기 위해 동성애자로 위장해 게임회사에 잠입한 남자 주인공의 야릇한 '브로맨스(남자 간의 우정)'를 그린 코믹 드라마다.
+
+동명(同名)	동명/NNG+(/SS+同名/SH+)/SS
+웹툰을	웹툰/NNG+을/JKO
+원작으로	원작/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+'프린스의	'/SS+프린스/NNG+의/JKG
+왕자'는	왕자/NNG+'/SS+는/JX
+게임	게임/NNG
+중독자인	중독자/NNG+이/VCP+ㄴ/ETM
+동생을	동생/NNG+을/JKO
+구하기	구하/VV+기/ETN
+위해	위하/VV+아/EC
+동성애자로	동성애자/NNG+로/JKB
+위장해	위장/NNG+하/XSV+아/EC
+게임회사에	게임/NNG+회사/NNG+에/JKB
+잠입한	잠입/NNG+하/XSV+ㄴ/ETM
+남자	남자/NNG
+주인공의	주인공/NNG+의/JKG
+야릇한	야릇하/VA+ㄴ/ETM
+'브로맨스(남자	'/SS+브로맨스/NNG+(/SS+남자/NNG
+간의	간/NNB+의/JKG
+우정)'를	우정/NNG+)/SS+'/SS+를/JKO
+그린	그리/VV+ㄴ/ETM
+코믹	코믹/NNG
+드라마다.	드라마/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.6
+최종훈, 임윤호 같은 연기자들을 주연으로 대거 캐스팅했다.
+
+최종훈,	최종훈/NNP+,/SP
+임윤호	임윤호/NNP
+같은	같/VA+은/ETM
+연기자들을	연기자/NNG+들/XSN+을/JKO
+주연으로	주연/NNG+으로/JKB
+대거	대거/MAG
+캐스팅했다.	캐스팅/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.7
+먼저 포털사이트를 통해 주중 매일 한 편씩 공개한 뒤 5편을 KBS에서 한꺼번에 모아서 심야에 방송하는 파격적인 방식을 도입했다.
+
+먼저	먼저/MAG
+포털사이트를	포털/NNG+사이트/NNG+를/JKO
+통해	통하/VV+아/EC
+주중	주중/NNG
+매일	매일/MAG
+한	한/MMN
+편씩	편/NNB+씩/XSN
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+5편을	5/SN+편/NNB+을/JKO
+KBS에서	KBS/SL+에서/JKB
+한꺼번에	한꺼번에/MAG
+모아서	모으/VV+아서/EC
+심야에	심야/NNG+에/JKB
+방송하는	방송/NNG+하/XSV+는/ETM
+파격적인	파격/NNG+적/XSN+이/VCP+ㄴ/ETM
+방식을	방식/NNG+을/JKO
+도입했다.	도입/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.8
+이 같은 웹드라마는 TV가 아니라 유튜브 등 인터넷 방송을 염두에 두고 제작된 드라마를 통칭한다.
+
+이	이/NP
+같은	같/VA+은/ETM
+웹드라마는	웹/NNG+드라마/NNG+는/JX
+TV가	TV/SL+가/JKS
+아니라	아니/VCN+라/EC
+유튜브	유튜브/NNP
+등	등/NNB
+인터넷	인터넷/NNG
+방송을	방송/NNG+을/JKO
+염두에	염두/NNG+에/JKB
+두고	두/VV+고/EC
+제작된	제작/NNG+되/XSV+ㄴ/ETM
+드라마를	드라마/NNG+를/JKO
+통칭한다.	통칭/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.65.3.9
+보통 한 회가 10분 안팎으로 짧고, 하위 문화를 적극적으로 활용하는 것이 특징이다.
+
+보통	보통/MAG
+한	한/MMN
+회가	회/NNB+가/JKS
+10분	10/SN+분/NNB
+안팎으로	안팎/NNG+으로/JKB
+짧고,	짧/VA+고/EC+,/SP
+하위	하위/NNG
+문화를	문화/NNG+를/JKO
+적극적으로	적극/NNG+적/XSN+으로/JKB
+활용하는	활용/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+특징이다.	특징/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.4.1
+SBS도 비슷한 성격의 드라마 '심야식당'을 27일부터 비슷한 시간대에 방송한다.
+
+SBS도	SBS/SL+도/JX
+비슷한	비슷하/VA+ㄴ/ETM
+성격의	성격/NNG+의/JKG
+드라마	드라마/NNG
+'심야식당'을	'/SS+심야식당/NNP+'/SS+을/JKO
+27일부터	27/SN+일/NNB+부터/JX
+시간대에	시간대/NNG+에/JKB
+방송한다.	방송/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.65.4.2
+인터넷에서 먼저 인기를 끈 먹방(먹는 방송)과 쿡방(요리 방송) 콘텐츠를 적극 활용하는 드라마다.
+
+인터넷에서	인터넷/NNG+에서/JKB
+먼저	먼저/MAG
+인기를	인기/NNG+를/JKO
+끈	끌/VV+ㄴ/ETM
+먹방(먹는	먹방/NNG+(/SS+먹/VV+는/ETM
+방송)과	방송/NNG+)/SS+과/JC
+쿡방(요리	쿡방/NNG+(/SS+요리/NNG
+방송)	방송/NNG+)/SS
+콘텐츠를	콘텐츠/NNG+를/JKO
+적극	적극/NNG
+활용하는	활용/NNG+하/XSV+는/ETM
+드라마다.	드라마/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.4.3
+주말 밤 12시 10분에 방송한다는 점, 인기 만화를 원작으로 했고, 한 회당 30분 정도로 기존 주말 드라마보다 짧다는 점 등이 '프린스의 왕자'와 꼭 닮았다.
+
+주말	주말/NNG
+밤	밤/NNG
+12시	12/SN+시/NNB
+10분에	10/SN+분/NNB+에/JKB
+방송한다는	방송/NNG+하/XSV+ㄴ다는/ETM
+점,	점/NNG+,/SP
+인기	인기/NNG
+만화를	만화/NNG+를/JKO
+원작으로	원작/NNG+으로/JKB
+했고,	하/VV+았/EP+고/EC+,/SP
+한	한/MMN
+회당	회/NNB+당/XSN
+30분	30/SN+분/NNB
+정도로	정도/NNG+로/JKB
+기존	기존/NNG
+드라마보다	드라마/NNG+보다/JKB
+짧다는	짧/VA+다는/ETM
+점	점/NNG
+등이	등/NNB+이/JKS
+'프린스의	'/SS+프린스/NNG+의/JKG
+왕자'와	왕자/NNG+'/SS+와/JKB
+꼭	꼭/MAG
+닮았다.	닮/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.5.1
+지상파 방송사들이 심야 시간대에 이런 시도를 하는 것은 '시청률 부진'을 타개하기 위한 자구책의 성격이 짙다.
+
+지상파	지상파/NNG
+방송사들이	방송사/NNG+들/XSN+이/JKS
+심야	심야/NNG
+시간대에	시간대/NNG+에/JKB
+이런	이런/MMD
+시도를	시도/NNG+를/JKO
+하는	하/VV+는/ETM
+것은	것/NNB+은/JX
+'시청률	'/SS+시청/NNG+률/XSN
+부진'을	부진/NNG+'/SS+을/JKO
+타개하기	타개/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+자구책의	자구책/NNG+의/JKG
+성격이	성격/NNG+이/JKS
+짙다.	짙/VA+다/EF+./SF
+
+
+# id : NWRW1800000046.65.5.2
+1년 넘게 주중 미니시리즈의 시청률이 20%를 넘지 못하고 있는 데다가 SBS는 시청률 하락으로 기존의 주말 드라마를 폐지하는 강수를 뒀다.
+
+1년	1/SN+년/NNB
+넘게	넘/VV+게/EC
+주중	주중/NNG
+미니시리즈의	미니시리즈/NNG+의/JKG
+시청률이	시청/NNG+률/XSN+이/JKS
+20%를	20/SN+%/SW+를/JKO
+넘지	넘/VV+지/EC
+못하고	못하/VX+고/EC
+있는	있/VX+는/ETM
+데다가	데/NNB+다가/JX
+SBS는	SBS/SL+는/JX
+시청률	시청/NNG+률/XSN
+하락으로	하락/NNG+으로/JKB
+기존의	기존/NNG+의/JKG
+주말	주말/NNG
+드라마를	드라마/NNG+를/JKO
+폐지하는	폐지/NNG+하/XSV+는/ETM
+강수를	강수/NNG+를/JKO
+뒀다.	두/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.5.3
+이런 상황에서 심야 시간대에 실험적인 콘텐츠를 배치하는 것은 일종의 '테스트베드(시험대)' 같은 시도다.
+
+이런	이런/MMD
+상황에서	상황/NNG+에서/JKB
+심야	심야/NNG
+시간대에	시간대/NNG+에/JKB
+실험적인	실험/NNG+적/XSN+이/VCP+ㄴ/ETM
+콘텐츠를	콘텐츠/NNG+를/JKO
+배치하는	배치/NNG+하/XSV+는/ETM
+것은	것/NNB+은/JX
+일종의	일종/NNG+의/JKG
+'테스트베드(시험대)'	'/SS+테스트/NNG+베드/NNG+(/SS+시험대/NNG+)/SS+'/SS
+같은	같/VA+은/ETM
+시도다.	시도/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.5.4
+SBS 편성국 관계자는 "유튜브, IPTV 등으로 이탈한 젊은 시청자를 끌어들이기 위해 인터넷에서 인기 있는 문화 코드를 수용한 실험적인 성격의 콘텐츠가 필요하다고 봤다"고 말했다.
+
+SBS	SBS/SL
+편성국	편성국/NNG
+관계자는	관계자/NNG+는/JX
+"유튜브,	"/SS+유튜브/NNP+,/SP
+IPTV	IPTV/SL
+등으로	등/NNB+으로/JKB
+이탈한	이탈/NNG+하/XSV+ㄴ/ETM
+젊은	젊/VA+은/ETM
+시청자를	시청자/NNG+를/JKO
+끌어들이기	끌어들이/VV+기/ETN
+위해	위하/VV+아/EC
+인터넷에서	인터넷/NNG+에서/JKB
+인기	인기/NNG
+있는	있/VA+는/ETM
+문화	문화/NNG
+코드를	코드/NNG+를/JKO
+수용한	수용/NNG+하/XSV+ㄴ/ETM
+실험적인	실험/NNG+적/XSN+이/VCP+ㄴ/ETM
+성격의	성격/NNG+의/JKG
+콘텐츠가	콘텐츠/NNG+가/JKS
+필요하다고	필요/NNG+하/XSA+다고/EC
+봤다"고	보/VV+았/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.65.5.5
+'프린스의 왕자'를 기획한 KBS 고찬수 PD도 "심야 시간대는 젊은 층의 시청 비중이 높고 상대적으로 시청률 부담도 적은 시간대라서 케이블에서나 할 수 있었던 구성과 소재도 과감하게 시도해볼 수 있다"고 말했다.
+
+'프린스의	'/SS+프린스/NNG+의/JKG
+왕자'를	왕자/NNG+'/SS+를/JKO
+기획한	기획/NNG+하/XSV+ㄴ/ETM
+KBS	KBS/SL
+고찬수	고찬수/NNP
+PD도	PD/SL+도/JX
+"심야	"/SS+심야/NNG
+시간대는	시간대/NNG+는/JX
+젊은	젊/VA+은/ETM
+층의	층/NNG+의/JKG
+시청	시청/NNG
+비중이	비중/NNG+이/JKS
+높고	높/VA+고/EC
+상대적으로	상대/NNG+적/XSN+으로/JKB
+시청률	시청/NNG+률/XSN
+부담도	부담/NNG+도/JX
+적은	적/VA+은/ETM
+시간대라서	시간대/NNG+이/VCP+라서/EC
+케이블에서나	케이블/NNG+에서/JKB+나/JX
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있었던	있/VV+었/EP+던/ETM
+구성과	구성/NNG+과/JC
+소재도	소재/NNG+도/JX
+과감하게	과감하/VA+게/EC
+시도해볼	시도/NNG+하/XSV+아/EC+보/VX+ㄹ/ETM
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,318 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000029.159
+metadata : {}
+
+
+# id : NWRW1800000029.159.1.1
+게임 많이 하는 청소년, 뇌가 다르다
+
+게임	게임/NNG
+많이	많이/MAG
+하는	하/VV+는/ETM
+청소년,	청소년/NNG+,/SP
+뇌가	뇌/NNG+가/JKS
+다르다	다르/VA+다/EF
+
+
+# id : NWRW1800000029.159.2.1
+유럽연구팀 154명 조사 “週 9시간 이상 하는 그룹… 중독 연관있는 부위 크다”
+
+유럽연구팀	유럽/NNP+연구/NNG+팀/NNG
+154명	154/SN+명/NNB
+조사	조사/NNG
+“週	“/SS+週/NNP
+9시간	9/SN+시간/NNB
+이상	이상/NNG
+하는	하/VV+는/ETM
+그룹…	그룹/NNG+…/SE
+중독	중독/NNG
+연관있는	연관/NNG+있/VV+는/ETM
+부위	부위/NNG
+크다”	크/VA+다/EF+”/SS
+
+
+# id : NWRW1800000029.159.3.1
+컴퓨터 게임을 자주 오랫동안 하는 사람의 뇌는 구조부터 다르다는 연구결과가 나왔다.
+
+컴퓨터	컴퓨터/NNG
+게임을	게임/NNG+을/JKO
+자주	자주/MAG
+오랫동안	오랫동안/NNG
+하는	하/VV+는/ETM
+사람의	사람/NNG+의/JKG
+뇌는	뇌/NNG+는/JX
+구조부터	구조/NNG+부터/JX
+다르다는	다르/VA+다는/ETM
+연구결과가	연구/NNG+결과/NNG+가/JKS
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.4.1
+영국 BBC방송에 따르면 벨기에 독일 영국 출신 연구팀이 베를린에 거주하는 14세 중학생(남 72명, 여 82명) 154명을 대상으로 게임 시간과 뇌구조의 연관성을 조사한 결과 게임을 자주 하는 사람의 뇌에서 중독에 관여하는 ‘보상 허브(Reward Hub)’의 크기가 큰 것으로 나타났다.
+
+영국	영국/NNP
+BBC방송에	BBC방송/NNP+에/JKB
+따르면	따르/VV+면/EC
+벨기에	벨기에/NNP
+독일	독일/NNP
+출신	출신/NNG
+연구팀이	연구/NNG+팀/NNG+이/JKS
+베를린에	베를린/NNP+에/JKB
+거주하는	거주/NNG+하/XSV+는/ETM
+14세	14/SN+세/NNB
+중학생(남	중학/NNG+생/XSN+(/SS+남/NNG
+72명,	72/SN+명/NNB+,/SP
+여	여/NNG
+82명)	82/SN+명/NNB+)/SS
+154명을	154/SN+명/NNB+을/JKO
+대상으로	대상/NNG+으로/JKB
+게임	게임/NNG
+시간과	시간/NNG+과/JC
+뇌구조의	뇌/NNG+구조/NNG+의/JKG
+연관성을	연관/NNG+성/XSN+을/JKO
+조사한	조사/NNG+하/XSV+ㄴ/ETM
+결과	결과/NNG
+게임을	게임/NNG+을/JKO
+자주	자주/MAG
+하는	하/VV+는/ETM
+사람의	사람/NNG+의/JKG
+뇌에서	뇌/NNG+에서/JKB
+중독에	중독/NNG+에/JKB
+관여하는	관여/NNG+하/XSV+는/ETM
+‘보상	‘/SS+보상/NNG
+허브(Reward	허브/NNG+(/SS+Reward/SL
+Hub)’의	Hub/SL+)/SS+’/SS+의/JKG
+크기가	크기/NNG+가/JKS
+큰	크/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.4.2
+컴퓨터 게임이 주의력과 관련된 시각 능력에 영향을 미치고 추론 능력을 향상시킨다는 점은 입증된 바 있지만 컴퓨터 게임이 뇌 구조와 상관관계가 있다는 연구 결과는 처음이다.
+
+컴퓨터	컴퓨터/NNG
+게임이	게임/NNG+이/JKS
+주의력과	주의력/NNG+과/JKB
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+시각	시각/NNG
+능력에	능력/NNG+에/JKB
+영향을	영향/NNG+을/JKO
+미치고	미치/VV+고/EC
+추론	추론/NNG
+능력을	능력/NNG+을/JKO
+향상시킨다는	향상/NNG+시키/XSV+ㄴ다는/ETM
+점은	점/NNG+은/JX
+입증된	입증/NNG+되/XSV+ㄴ/ETM
+바	바/NNB
+있지만	있/VA+지만/EC
+뇌	뇌/NNG
+구조와	구조/NNG+와/JC
+상관관계가	상관관계/NNG+가/JKS
+있다는	있/VA+다는/ETM
+연구	연구/NNG
+결과는	결과/NNG+는/JX
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.5.1
+연구진은 주당 게임시간의 중간치인 9시간을 기준으로 9시간 이상 게임을 하는 학생(76명)을 ‘자주 오래 게임을 하는 그룹’으로, 9시간 미만(78명)을 ‘그렇지 않은 그룹’으로 분류했다.
+
+연구진은	연구진/NNG+은/JX
+주당	주/NNG+당/XSN
+게임시간의	게임/NNG+시간/NNG+의/JKG
+중간치인	중간/NNG+치/XSN+이/VCP+ㄴ/ETM
+9시간을	9/SN+시간/NNB+을/JKO
+기준으로	기준/NNG+으로/JKB
+9시간	9/SN+시간/NNB
+이상	이상/NNG
+게임을	게임/NNG+을/JKO
+하는	하/VV+는/ETM
+학생(76명)을	학생/NNG+(/SS+76/SN+명/NNB+)/SS+을/JKO
+‘자주	‘/SS+자주/MAG
+오래	오래/MAG
+그룹’으로,	그룹/NNG+’/SS+으로/JKB+,/SP
+미만(78명)을	미만/NNG+(/SS+78/SN+명/NNB+)/SS+을/JKO
+‘그렇지	‘/SS+그렇/VA+지/EC
+않은	않/VX+은/ETM
+그룹’으로	그룹/NNG+’/SS+으로/JKB
+분류했다.	분류/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.5.2
+실험 대상자 154명의 일주일 평균 게임시간은 총 12.1시간으로, 주중에는 하루 1.5시간, 주말에는 하루 2.3시간꼴로 게임을 하는 것으로 나타났다.
+
+실험	실험/NNG
+대상자	대상자/NNG
+154명의	154/SN+명/NNB+의/JKG
+일주일	일주일/NNG
+평균	평균/NNG
+게임시간은	게임/NNG+시간/NNG+은/JX
+총	총/MMA
+12.1시간으로,	12/SN+./SP+1/SN+시간/NNB+으로/JKB+,/SP
+주중에는	주중/NNG+에/JKB+는/JX
+하루	하루/NNG
+1.5시간,	1/SN+./SP+5/SN+시간/NNB+,/SP
+주말에는	주말/NNG+에/JKB+는/JX
+2.3시간꼴로	2/SN+./SP+3/SN+시간/NNB+꼴/XSN+로/JKB
+게임을	게임/NNG+을/JKO
+하는	하/VV+는/ETM
+것으로	것/NNB+으로/JKB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.6.1
+연구 결과 게임을 오래하는 학생은 뇌 속 보상계 중추인 줄무늬체(ventral striatum) 영역이 대조군보다 더 크게 나타났다.
+
+연구	연구/NNG
+결과	결과/NNG
+게임을	게임/NNG+을/JKO
+오래하는	오래/MAG+하/XSV+는/ETM
+학생은	학생/NNG+은/JX
+뇌	뇌/NNG
+속	속/NNG
+보상계	보상/NNG+계/XSN
+중추인	중추/NNG+이/VCP+ㄴ/ETM
+줄무늬체(ventral	줄무늬체/NNG+(/SS+ventral/SL
+striatum)	striatum/SL+)/SS
+영역이	영역/NNG+이/JKS
+대조군보다	대조군/NNG+보다/JKB
+더	더/MAG
+크게	크/VA+게/EC
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.6.2
+연구진은 이 영역이 “주변 환경에 대해 긍정적 영향을 기대하거나 돈, 맛있는 음식, 섹스 같은 즐거움을 경험할 때 활성화되는 부분”이라고 설명했다.
+
+연구진은	연구진/NNG+은/JX
+이	이/MMD
+영역이	영역/NNG+이/JKS
+“주변	“/SS+주변/NNG
+환경에	환경/NNG+에/JKB
+대해	대하/VV+아/EC
+긍정적	긍정/NNG+적/XSN
+영향을	영향/NNG+을/JKO
+기대하거나	기대/NNG+하/XSV+거나/EC
+돈,	돈/NNG+,/SP
+맛있는	맛있/VA+는/ETM
+음식,	음식/NNG+,/SP
+섹스	섹스/NNG
+같은	같/VA+은/ETM
+즐거움을	즐거움/NNG+을/JKO
+경험할	경험/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+활성화되는	활성/NNG+화/XSN+되/XSV+는/ETM
+부분”이라고	부분/NNG+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.6.3
+또 이 영역은 약물 중독과 관련돼 있다고 밝혔다.
+
+또	또/MAG
+이	이/MMD
+영역은	영역/NNG+은/JX
+약물	약물/NNG
+중독과	중독/NNG+과/JKB
+관련돼	관련/NNG+되/XSV+어/EC
+있다고	있/VX+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.7.1
+하지만 이런 뇌구조의 차이가 장시간 게임을 한 결과인지, 더 오랜 시간 게임을 하게 만드는 원인인지는 밝혀지지 않았다.
+
+하지만	하지만/MAJ
+이런	이런/MMD
+뇌구조의	뇌/NNG+구조/NNG+의/JKG
+차이가	차이/NNG+가/JKS
+장시간	장시간/NNG
+게임을	게임/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+결과인지,	결과/NNG+이/VCP+ㄴ지/EF+,/SP
+더	더/MAG
+오랜	오랜/MMA
+시간	시간/NNG
+하게	하/VV+게/EC
+만드는	만들/VV+는/ETM
+원인인지는	원인/NNG+이/VCP+ㄴ지/EF+는/JX
+밝혀지지	밝히/VV+어/EC+지/VX+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.7.2
+연구진은 “이 결과가 의미를 갖기 위해서는 시간을 두고 뇌구조를 관찰해야 한다”고 말했다.
+
+연구진은	연구진/NNG+은/JX
+“이	“/SS+이/MMD
+결과가	결과/NNG+가/JKS
+의미를	의미/NNG+를/JKO
+갖기	갖/VV+기/ETN
+위해서는	위하/VV+아서/EC+는/JX
+시간을	시간/NNG+을/JKO
+두고	두/VV+고/EC
+뇌구조를	뇌/NNG+구조/NNG+를/JKO
+관찰해야	관찰/NNG+하/XSV+아야/EC
+한다”고	하/VX+ㄴ다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.8.1
+연구에 참여한 루크 클라크 영국 케임브리지대 박사는 “마약 사용자는 약물 장기복용 결과 뇌 구조가 바뀌기도 하지만 이런 뇌를 가진 사람이 마약에 빠질 가능성이 클 수 있어 두 가지가 함께 작용하는 것으로 보인다”고 말했다.
+
+연구에	연구/NNG+에/JKB
+참여한	참여/NNG+하/XSV+ㄴ/ETM
+루크	루크/NNP
+클라크	클라크/NNP
+영국	영국/NNP
+케임브리지대	케임브리지대/NNP
+박사는	박사/NNG+는/JX
+“마약	“/SS+마약/NNG
+사용자는	사용자/NNG+는/JX
+약물	약물/NNG
+장기복용	장기/NNG+복용/NNG
+결과	결과/NNG
+뇌	뇌/NNG
+구조가	구조/NNG+가/JKS
+바뀌기도	바뀌/VV+기/ETN+도/JX
+하지만	하/VX+지만/EC
+이런	이런/MMD
+뇌를	뇌/NNG+를/JKO
+가진	가지/VV+ㄴ/ETM
+사람이	사람/NNG+이/JKS
+마약에	마약/NNG+에/JKB
+빠질	빠지/VV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+클	크/VA+ㄹ/ETM
+수	수/NNB
+있어	있/VA+어/EC
+두	두/MMN
+가지가	가지/NNB+가/JKS
+함께	함께/MAG
+작용하는	작용/NNG+하/XSV+는/ETM
+것으로	것/NNB+으로/JKB
+보인다”고	보이/VV+ㄴ다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.159.8.2
+연구 결과는 15일 과학 전문 잡지인 병진정신분석(Translational Psychiatry) 저널 인터넷판에 게재됐다.
+
+연구	연구/NNG
+결과는	결과/NNG+는/JX
+15일	15/SN+일/NNB
+과학	과학/NNG
+전문	전문/NNG
+잡지인	잡지/NNG+이/VCP+ㄴ/ETM
+병진정신분석(Translational	병진/NNG+정신/NNG+분석/NNG+(/SS+Translational/SL
+Psychiatry)	Psychiatry/SL+)/SS
+저널	저널/NNG
+인터넷판에	인터넷판/NNG+에/JKB
+게재됐다.	게재/NNG+되/XSV+었/EP+다/EF+./SF
+
+

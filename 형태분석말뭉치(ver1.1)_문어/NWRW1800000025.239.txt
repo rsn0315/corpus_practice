@@ -1,0 +1,140 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000025.239
+metadata : {}
+
+
+# id : NWRW1800000025.239.1.1
+우리투자증권, 1000억원 규모 ELS 5종 공모
+
+우리투자증권,	우리투자증권/NNP+,/SP
+1000억원	1000/SN+억/NR+원/NNB
+규모	규모/NNG
+ELS	ELS/SL
+5종	5/SN+종/NNG
+공모	공모/NNG
+
+
+# id : NWRW1800000025.239.2.1
+우리투자증권은 최대 연 10%의 수익이 가능한 ELS 3471호를 비롯한 5종을 9월 2일까지 총 1000억 원 규모로 공모한다.
+
+우리투자증권은	우리투자증권/NNP+은/JX
+최대	최대/NNG
+연	연/NNG
+10%의	10/SN+%/SW+의/JKG
+수익이	수익/NNG+이/JKS
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+ELS	ELS/SL
+3471호를	3471/SN+호/NNB+를/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+5종을	5/SN+종/NNG+을/JKO
+9월	9/SN+월/NNB
+2일까지	2/SN+일/NNB+까지/JX
+총	총/MMA
+1000억	1000/SN+억/NR
+원	원/NNB
+규모로	규모/NNG+로/JKB
+공모한다.	공모/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.239.2.2
+이번 ELS 5종은 코스피200, 홍콩항셍중국기업지수(HSCEI), KT, POSCO 등을 기초자산으로 하며 만기는 모두 3년이다.
+
+이번	이번/NNG
+ELS	ELS/SL
+5종은	5/SN+종/NNG+은/JX
+코스피200,	코스피/NNP+200/SN+,/SP
+홍콩항셍중국기업지수(HSCEI),	홍콩/NNP+항셍/NNP+중국/NNP+기업/NNG+지수/NNG+(/SS+HSCEI/SL+)/SS+,/SP
+KT,	KT/SL+,/SP
+POSCO	POSCO/SL
+등을	등/NNB+을/JKO
+기초자산으로	기초/NNG+자산/NNG+으로/JKB
+하며	하/VV+며/EC
+만기는	만기/NNG+는/JX
+모두	모두/MAG
+3년이다.	3/SN+년/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000025.239.3.1
+‘ELS 3471’호는 코스피200, HSCEI를 기초자산으로 하는 만기 3년의 원금 비보장형 스텝다운 구조 상품이다.
+
+‘ELS	‘/SS+ELS/SL
+3471’호는	3471/SN+’/SS+호/NNB+는/JX
+코스피200,	코스피/NNP+200/SN+,/SP
+HSCEI를	HSCEI/SL+를/JKO
+기초자산으로	기초/NNG+자산/NNG+으로/JKB
+하는	하/VV+는/ETM
+만기	만기/NNG
+3년의	3/SN+년/NNB+의/JKG
+원금	원금/NNG
+비보장형	비/XPN+보장/NNG+형/XSN
+스텝다운	스텝다운/NNG
+구조	구조/NNG
+상품이다.	상품/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000025.239.3.2
+6개월마다 자동 조기상환 평가일에 두 종목의 종가가 최초 기준가격의 85%(6개월, 12개월), 80%(18개월, 24개월), 75%(30개월, 만기평가일) 이상인 경우 연 10% 수익률로 자동 조기상환된다.
+
+6개월마다	6/SN+개월/NNB+마다/JX
+자동	자동/NNG
+조기상환	조기/NNG+상환/NNG
+평가일에	평가일/NNG+에/JKB
+두	두/MMN
+종목의	종목/NNG+의/JKG
+종가가	종가/NNG+가/JKS
+최초	최초/NNG
+기준가격의	기준/NNG+가격/NNG+의/JKG
+85%(6개월,	85/SN+%/SW+(/SS+6/SN+개월/NNB+,/SP
+12개월),	12/SN+개월/NNB+)/SS+,/SP
+80%(18개월,	80/SN+%/SW+(/SS+18/SN+개월/NNB+,/SP
+24개월),	24/SN+개월/NNB+)/SS+,/SP
+75%(30개월,	75/SN+%/SW+(/SS+30/SN+개월/NNB+,/SP
+만기평가일)	만기/NNG+평가일/NNG+)/SS
+이상인	이상/NNG+이/VCP+ㄴ/ETM
+경우	경우/NNG
+연	연/NNG
+10%	10/SN+%/SW
+수익률로	수익/NNG+률/XSN+로/JKB
+조기상환된다.	조기/NNG+상환/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.239.3.3
+만기평가일까지 조기상환되지 않은 경우에도 투자 기간 중 최초 기준가격의 50% 미만으로 하락한 기초자산 종목이 없는 경우에는 만기에 상기와 동일한 수익률을 지급한다.
+
+만기평가일까지	만기/NNG+평가일/NNG+까지/JX
+조기상환되지	조기/NNG+상환/NNG+되/XSV+지/EC
+않은	않/VX+은/ETM
+경우에도	경우/NNG+에/JKB+도/JX
+투자	투자/NNG
+기간	기간/NNG
+중	중/NNB
+최초	최초/NNG
+기준가격의	기준/NNG+가격/NNG+의/JKG
+50%	50/SN+%/SW
+미만으로	미만/NNG+으로/JKB
+하락한	하락/NNG+하/XSV+ㄴ/ETM
+기초자산	기초/NNG+자산/NNG
+종목이	종목/NNG+이/JKS
+없는	없/VA+는/ETM
+경우에는	경우/NNG+에/JKB+는/JX
+만기에	만기/NNG+에/JKB
+상기와	상기/NNG+와/JKB
+동일한	동일/NNG+하/XSA+ㄴ/ETM
+수익률을	수익/NNG+률/XSN+을/JKO
+지급한다.	지급/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.239.3.4
+최소 100만 원부터 청약이 가능하다.
+
+최소	최소/NNG
+100만	100/SN+만/NR
+원부터	원/NNB+부터/JX
+청약이	청약/NNG+이/JKS
+가능하다.	가능/NNG+하/XSA+다/EF+./SF
+
+

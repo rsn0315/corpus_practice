@@ -1,0 +1,489 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.335
+metadata : {}
+
+
+# id : NWRW1800000049.335.1.1
+“北 GPS교란 심각한 위협” 국제민항기구, 강력 경고
+
+“北	“/SS+北/SH
+GPS교란	GPS/SL+교란/NNG
+심각한	심각하/VA+ㄴ/ETM
+위협”	위협/NNG+”/SS
+국제민항기구,	국제민항기구/NNP+,/SP
+강력	강력/NNG
+경고	경고/NNG
+
+
+# id : NWRW1800000049.335.2.1
+[수위 높아진 北도발]결의문 채택하고 서한발송 예정… 36개 이사국 공감… 北고립 가속
+
+[수위	[/SS+수위/NNG
+높아진	높아지/VV+ㄴ/ETM
+北도발]결의문	北/SH+도발/NNG+]/SS+결의문/NNG
+채택하고	채택/NNG+하/XSV+고/EC
+서한발송	서한/NNG+발송/NNG
+예정…	예정/NNG+…/SE
+36개	36/SN+개/NNB
+이사국	이사국/NNG
+공감…	공감/NNG+…/SE
+北고립	北/SH+고립/NNG
+가속	가속/NNG
+
+
+# id : NWRW1800000049.335.3.1
+유엔 산하의 특별기구인 국제민간항공기구(ICAO)가 올해 3월 말부터 엿새간 이어진 북한의 위성위치확인시스템(GPS) 신호 교란에 대해 심각한 우려를 나타내고 재발 방지를 강력히 촉구했다.
+
+유엔	유엔/NNP
+산하의	산하/NNG+의/JKG
+특별기구인	특별/NNG+기구/NNG+이/VCP+ㄴ/ETM
+국제민간항공기구(ICAO)가	국제민간항공기구/NNP+(/SS+ICAO/SL+)/SS+가/JKS
+올해	올해/NNG
+3월	3/SN+월/NNB
+말부터	말/NNB+부터/JX
+엿새간	엿새/NNG+간/XSN
+이어진	이어지/VV+ㄴ/ETM
+북한의	북한/NNP+의/JKG
+위성위치확인시스템(GPS)	위성/NNG+위치/NNG+확인/NNG+시스템/NNG+(/SS+GPS/SL+)/SS
+신호	신호/NNG
+교란에	교란/NNG+에/JKB
+대해	대하/VV+아/EC
+심각한	심각하/VA+ㄴ/ETM
+우려를	우려/NNG+를/JKO
+나타내고	나타내/VV+고/EC
+재발	재발/NNG
+방지를	방지/NNG+를/JKO
+강력히	강력히/MAG
+촉구했다.	촉구/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.3.2
+국제 사회가 한국 정부가 제기한 북한의 GPS 신호 교란 책임을 처음으로 공식 인정한 것이다.
+
+국제	국제/NNG
+사회가	사회/NNG+가/JKS
+한국	한국/NNP
+정부가	정부/NNG+가/JKS
+제기한	제기/NNG+하/XSV+ㄴ/ETM
+북한의	북한/NNP+의/JKG
+GPS	GPS/SL
+신호	신호/NNG
+교란	교란/NNG
+책임을	책임/NNG+을/JKO
+처음으로	처음/NNG+으로/JKB
+공식	공식/NNG
+인정한	인정/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.4.1
+23일 외교부 등에 따르면 ICAO는 22일(현지 시간) “2012년 이사회 결정에도 북한에 의한 GPS 교란 행위가 다시 발생한 것에 대해 심각한 우려를 표명하고, ICAO 협정상 의무의 엄격한 이행을 강력히 촉구한다”고 밝혔다.
+
+23일	23/SN+일/NNB
+외교부	외교부/NNG
+등에	등/NNB+에/JKB
+따르면	따르/VV+면/EC
+ICAO는	ICAO/SL+는/JX
+22일(현지	22/SN+일/NNB+(/SS+현지/NNG
+시간)	시간/NNG+)/SS
+“2012년	“/SS+2012/SN+년/NNB
+이사회	이사회/NNG
+결정에도	결정/NNG+에/JKB+도/JX
+북한에	북한/NNP+에/JKB
+의한	의하/VV+ㄴ/ETM
+GPS	GPS/SL
+교란	교란/NNG
+행위가	행위/NNG+가/JKS
+다시	다시/MAG
+발생한	발생/NNG+하/XSV+ㄴ/ETM
+것에	것/NNB+에/JKB
+대해	대하/VV+아/EC
+심각한	심각하/VA+ㄴ/ETM
+우려를	우려/NNG+를/JKO
+표명하고,	표명/NNG+하/XSV+고/EC+,/SP
+ICAO	ICAO/SL
+협정상	협정/NNG+상/XSN
+의무의	의무/NNG+의/JKG
+엄격한	엄격/NNG+하/XSA+ㄴ/ETM
+이행을	이행/NNG+을/JKO
+강력히	강력히/MAG
+촉구한다”고	촉구/NNG+하/XSV+ㄴ다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.5.1
+ICAO는 북한의 GPS 신호 교란을 경고하는 내용의 결의문과 사무총장 명의의 서한을 북한에 보내기로 했다.
+
+ICAO는	ICAO/SL+는/JX
+북한의	북한/NNP+의/JKG
+GPS	GPS/SL
+신호	신호/NNG
+교란을	교란/NNG+을/JKO
+경고하는	경고/NNG+하/XSV+는/ETM
+내용의	내용/NNG+의/JKG
+결의문과	결의문/NNG+과/JC
+사무총장	사무총장/NNG
+명의의	명의/NNG+의/JKG
+서한을	서한/NNG+을/JKO
+북한에	북한/NNP+에/JKB
+보내기로	보내/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.5.2
+ICAO는 2012년에도 GPS 신호 교란 재발 방지를 촉구했지만 사무총장의 서한 없이 결의문만 채택했다.
+
+ICAO는	ICAO/SL+는/JX
+2012년에도	2012/SN+년/NNB+에/JKB+도/JX
+GPS	GPS/SL
+신호	신호/NNG
+교란	교란/NNG
+재발	재발/NNG
+방지를	방지/NNG+를/JKO
+촉구했지만	촉구/NNG+하/XSV+았/EP+지만/EC
+사무총장의	사무총장/NNG+의/JKG
+서한	서한/NNG
+없이	없이/MAG
+결의문만	결의문/NNG+만/JX
+채택했다.	채택/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.5.3
+또 북한이 GPS 신호를 교란하는 전파를 보냈다는 점도 명시하지 않아 북한에 대한 책임을 명시적으로 묻지 않았다.
+
+또	또/MAG
+북한이	북한/NNP+이/JKS
+GPS	GPS/SL
+신호를	신호/NNG+를/JKO
+교란하는	교란/NNG+하/XSV+는/ETM
+전파를	전파/NNG+를/JKO
+보냈다는	보내/VV+었/EP+다는/ETM
+점도	점/NNG+도/JX
+명시하지	명시/NNG+하/XSV+지/EC
+않아	않/VX+아/EC
+북한에	북한/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+책임을	책임/NNG+을/JKO
+명시적으로	명시/NNG+적/XSN+으로/JKB
+묻지	묻/VV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.5.4
+당시 중국 러시아 등이 북한을 지목하는 것에 부정적이었기 때문이다.
+
+당시	당시/NNG
+중국	중국/NNP
+러시아	러시아/NNP
+등이	등/NNB+이/JKS
+북한을	북한/NNP+을/JKO
+지목하는	지목/NNG+하/XSV+는/ETM
+것에	것/NNB+에/JKB
+부정적이었기	부정/NNG+적/XSN+이/VCP+었/EP+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.6.1
+하지만 ICAO는 이번에 북한을 간접적으로 지칭하는 ‘북한 지역’이라는 문구를 넣어 문제의 심각성과 북한에 책임이 있다는 점을 분명히 밝혔다.
+
+하지만	하지만/MAJ
+ICAO는	ICAO/SL+는/JX
+이번에	이번/NNG+에/JKB
+북한을	북한/NNP+을/JKO
+간접적으로	간접/NNG+적/XSN+으로/JKB
+지칭하는	지칭/NNG+하/XSV+는/ETM
+‘북한	‘/SS+북한/NNP
+지역’이라는	지역/NNG+’/SS+이/VCP+라는/ETM
+문구를	문구/NNG+를/JKO
+넣어	넣/VV+어/EC
+문제의	문제/NNG+의/JKG
+심각성과	심각성/NNG+과/JC
+북한에	북한/NNP+에/JKB
+책임이	책임/NNG+이/JKS
+있다는	있/VA+다는/ETM
+점을	점/NNG+을/JKO
+분명히	분명히/MAG
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.6.2
+이번에는 중국과 러시아도 반대하지 않았다.
+
+이번에는	이번/NNG+에/JKB+는/JX
+중국과	중국/NNP+과/JKB
+러시아도	러시아/NNP+도/JX
+반대하지	반대/NNG+하/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.6.3
+이에 대해 외교부는 “북한의 GPS 신호 교란이 14개국 민간 항공기의 안전한 운항을 심각하게 위협하는 국제적 문제라는 점에 대해 36개 ICAO 이사국들이 공감을 표한 것”이라고 평가했다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+외교부는	외교부/NNG+는/JX
+“북한의	“/SS+북한/NNP+의/JKG
+GPS	GPS/SL
+신호	신호/NNG
+교란이	교란/NNG+이/JKS
+14개국	14/SN+개국/NNB
+민간	민간/NNG
+항공기의	항공기/NNG+의/JKG
+안전한	안전/NNG+하/XSA+ㄴ/ETM
+운항을	운항/NNG+을/JKO
+심각하게	심각하/VA+게/EC
+위협하는	위협/NNG+하/XSV+는/ETM
+국제적	국제/NNG+적/XSN
+문제라는	문제/NNG+이/VCP+라는/ETM
+점에	점/NNG+에/JKB
+36개	36/SN+개/NNB
+ICAO	ICAO/SL
+이사국들이	이사국/NNG+들/XSN+이/JKS
+공감을	공감/NNG+을/JKO
+표한	표/NNG+하/XSV+ㄴ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+평가했다.	평가/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.7.1
+북한은 3월 31일부터 4월 5일까지 엿새간 군사분계선(MDL) 북쪽의 해주, 연안, 평강, 금강, 개성 등 5곳에서 남쪽으로 GPS 교란 전파를 보냈다.
+
+북한은	북한/NNP+은/JX
+3월	3/SN+월/NNB
+31일부터	31/SN+일/NNB+부터/JX
+4월	4/SN+월/NNB
+5일까지	5/SN+일/NNB+까지/JX
+엿새간	엿새/NNG+간/XSN
+군사분계선(MDL)	군사/NNG+분계선/NNG+(/SS+MDL/SL+)/SS
+북쪽의	북쪽/NNG+의/JKG
+해주,	해주/NNP+,/SP
+연안,	연안/NNP+,/SP
+평강,	평강/NNP+,/SP
+금강,	금강/NNP+,/SP
+개성	개성/NNP
+등	등/NNB
+5곳에서	5/SN+곳/NNG+에서/JKB
+남쪽으로	남쪽/NNG+으로/JKB
+GPS	GPS/SL
+교란	교란/NNG
+전파를	전파/NNG+를/JKO
+보냈다.	보내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.7.2
+이에 따라 한국을 포함한 14개국의 항공기 1007대가 GPS 신호를 받는 데 장애를 겪었다.
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+한국을	한국/NNP+을/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+14개국의	14/SN+개국/NNB+의/JKG
+항공기	항공기/NNG
+1007대가	1007/SN+대/NNB+가/JKS
+GPS	GPS/SL
+신호를	신호/NNG+를/JKO
+받는	받/VV+는/ETM
+데	데/NNB
+장애를	장애/NNG+를/JKO
+겪었다.	겪/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.7.3
+북한은 2010년과 2011년에도 GPS 신호 교란을 시도했다.
+
+북한은	북한/NNP+은/JX
+2010년과	2010/SN+년/NNB+과/JC
+2011년에도	2011/SN+년/NNB+에/JKB+도/JX
+GPS	GPS/SL
+신호	신호/NNG
+교란을	교란/NNG+을/JKO
+시도했다.	시도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.7.4
+1, 2차 교란 당시에는 휴대전화가 불통이 되는 등 피해가 컸다.
+
+1,	1/SN+,/SP
+2차	2/SN+차/NNB
+교란	교란/NNG
+당시에는	당시/NNG+에/JKB+는/JX
+휴대전화가	휴대/NNG+전화/NNG+가/JKS
+불통이	불통/NNG+이/JKS
+되는	되/VV+는/ETM
+등	등/NNB
+피해가	피해/NNG+가/JKS
+컸다.	크/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.7.5
+올해에는 어선 280여 척이 조업을 중단하는 피해를 봤다.
+
+올해에는	올해/NNG+에/JKB+는/JX
+어선	어선/NNG
+280여	280/SN+여/XSN
+척이	척/NNB+이/JKS
+조업을	조업/NNG+을/JKO
+중단하는	중단/NNG+하/XSV+는/ETM
+피해를	피해/NNG+를/JKO
+봤다.	보/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.8.1
+북한의 GPS 교란 행위가 재발됨에 따라 정부는 5월 16일부터 이달 17일까지 열린 ICAO 정기 이사회에서 북한의 GPS 신호 교란 행위를 공식적으로 문제 삼고 재발 방지를 위한 국제적 조치를 요구했다.
+
+북한의	북한/NNP+의/JKG
+GPS	GPS/SL
+교란	교란/NNG
+행위가	행위/NNG+가/JKS
+재발됨에	재발/NNG+되/XSV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+정부는	정부/NNG+는/JX
+5월	5/SN+월/NNB
+16일부터	16/SN+일/NNB+부터/JX
+이달	이달/NNG
+17일까지	17/SN+일/NNB+까지/JX
+열린	열리/VV+ㄴ/ETM
+ICAO	ICAO/SL
+정기	정기/NNG
+이사회에서	이사회/NNG+에서/JKB
+신호	신호/NNG
+행위를	행위/NNG+를/JKO
+공식적으로	공식/NNG+적/XSN+으로/JKB
+문제	문제/NNG
+삼고	삼/VV+고/EC
+재발	재발/NNG
+방지를	방지/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+국제적	국제/NNG+적/XSN
+조치를	조치/NNG+를/JKO
+요구했다.	요구/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.8.2
+조준혁 외교부 대변인은 이날 정례 브리핑에서 “국제사회가 북한의 국제규범 위반행위에 단호히 대응함으로써 북한이 국제사회에서 더욱 고립되고 있음을 보여주는 사례가 됐다”며 “유엔 안보리뿐 아니라 기술적인 유엔 전문기구에서도 북한의 위반행위를 용납하지 않음을 보여주었다”고 말했다.
+
+조준혁	조준혁/NNP
+외교부	외교부/NNG
+대변인은	대변인/NNG+은/JX
+이날	이날/NNG
+정례	정례/NNG
+브리핑에서	브리핑/NNG+에서/JKB
+“국제사회가	“/SS+국제/NNG+사회/NNG+가/JKS
+북한의	북한/NNP+의/JKG
+국제규범	국제/NNG+규범/NNG
+위반행위에	위반/NNG+행위/NNG+에/JKB
+단호히	단호히/MAG
+대응함으로써	대응/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+북한이	북한/NNP+이/JKS
+국제사회에서	국제/NNG+사회/NNG+에서/JKB
+더욱	더욱/MAG
+고립되고	고립/NNG+되/XSV+고/EC
+있음을	있/VX+음/ETN+을/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+사례가	사례/NNG+가/JKC
+됐다”며	되/VV+었/EP+다/EF+”/SS+며/EC
+“유엔	“/SS+유엔/NNP
+안보리뿐	안보리/NNG+뿐/JX
+아니라	아니/VCN+라/EC
+기술적인	기술/NNG+적/XSN+이/VCP+ㄴ/ETM
+유엔	유엔/NNP
+전문기구에서도	전문/NNG+기구/NNG+에서/JKB+도/JX
+위반행위를	위반/NNG+행위/NNG+를/JKO
+용납하지	용납/NNG+하/XSV+지/EC
+않음을	않/VX+음/ETN+을/JKO
+보여주었다”고	보이/VV+어/EC+주/VX+었/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.9.1
+ICAO의 이번 조치로 북한의 GPS 교란 행위에 대한 국제사회의 대응 수위도 한층 강화될 것으로 보인다.
+
+ICAO의	ICAO/SL+의/JKG
+이번	이번/NNG
+조치로	조치/NNG+로/JKB
+북한의	북한/NNP+의/JKG
+GPS	GPS/SL
+교란	교란/NNG
+행위에	행위/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+국제사회의	국제/NNG+사회/NNG+의/JKG
+대응	대응/NNG
+수위도	수위/NNG+도/JX
+한층	한층/MAG
+강화될	강화/NNG+되/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.335.9.2
+ICAO와 국제전기통신연합(ITU)은 앞으로 GPS 교란 문제가 또 생길 때 피해 국가와 공동으로 조사연구팀을 만들어 조사에 들어갈 예정이다.
+
+ICAO와	ICAO/SL+와/JC
+국제전기통신연합(ITU)은	국제전기통신연합/NNP+(/SS+ITU/SL+)/SS+은/JX
+앞으로	앞/NNG+으로/JKB
+GPS	GPS/SL
+교란	교란/NNG
+문제가	문제/NNG+가/JKS
+또	또/MAG
+생길	생기/VV+ㄹ/ETM
+때	때/NNG
+피해	피해/NNG
+국가와	국가/NNG+와/JKB
+공동으로	공동/NNG+으로/JKB
+조사연구팀을	조사/NNG+연구/NNG+팀/NNG+을/JKO
+만들어	만들/VV+어/EC
+조사에	조사/NNG+에/JKB
+들어갈	들어가/VV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.9.3
+향후 우려되는 북한의 GPS 교란 재발을 제재하기 위한 구체적인 첫 조치다.
+
+향후	향후/NNG
+우려되는	우려/NNG+되/XSV+는/ETM
+북한의	북한/NNP+의/JKG
+GPS	GPS/SL
+교란	교란/NNG
+재발을	재발/NNG+을/JKO
+제재하기	제재/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+구체적인	구체/NNG+적/XSN+이/VCP+ㄴ/ETM
+첫	첫/MMN
+조치다.	조치/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.335.10.1
+장영근 한국항공대 항공우주기계공학부 교수는 “ICAO가 특정 국가에 경고 메시지를 보내는 것은 흔치 않은 일”이라며 “그만큼 GPS 교란이 승객 안전과 직결된 심각한 문제라고 판단한 것”이라고 설명했다.
+
+장영근	장영근/NNP
+한국항공대	한국항공대/NNP
+항공우주기계공학부	항공/NNG+우주/NNG+기계/NNG+공학부/NNG
+교수는	교수/NNG+는/JX
+“ICAO가	“/SS+ICAO/SL+가/JKS
+특정	특정/NNG
+국가에	국가/NNG+에/JKB
+경고	경고/NNG
+메시지를	메시지/NNG+를/JKO
+보내는	보내/VV+는/ETM
+것은	것/NNB+은/JX
+흔치	흔하/VA+지/EC
+않은	않/VX+은/ETM
+일”이라며	일/NNG+”/SS+이/VCP+라며/EC
+“그만큼	“/SS+그만큼/MAG
+GPS	GPS/SL
+교란이	교란/NNG+이/JKS
+승객	승객/NNG
+안전과	안전/NNG+과/JKB
+직결된	직결/NNG+되/XSV+ㄴ/ETM
+심각한	심각하/VA+ㄴ/ETM
+문제라고	문제/NNG+이/VCP+라고/EC
+판단한	판단/NNG+하/XSV+ㄴ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+

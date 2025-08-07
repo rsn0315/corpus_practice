@@ -1,0 +1,228 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.358
+metadata : {}
+
+
+# id : NWRW1800000038.358.1.1
+한국 '사회발전지수' 50개國 중 11위
+
+한국	한국/NNP
+'사회발전지수'	'/SS+사회/NNG+발전/NNG+지수/NNG+'/SS
+50개國	50/SN+개/NNB+國/SH
+중	중/NNB
+11위	11/SN+위/NNB
+
+
+# id : NWRW1800000038.358.2.1
+WSJ 보도… 스웨덴1위·英2위, 의료·정보통신·교육 등 기준
+
+WSJ	WSJ/SL
+보도…	보도/NNG+…/SE
+스웨덴1위·英2위,	스웨덴/NNP+1/SN+위/NNB+·/SP+英/SH+2/SN+위/NNB+,/SP
+의료·정보통신·교육	의료/NNG+·/SP+정보/NNG+통신/NNG+·/SP+교육/NNG
+등	등/NNB
+기준	기준/NNG
+
+
+# id : NWRW1800000038.358.3.1
+국가가 사회·환경적 측면에서 얼마나 발전했는지 평가하는 '사회발전지수(Social Progress Index· SPI)'가 새로 개발됐다고 월스트리트저널(WSJ)이 10일 보도했다.
+
+국가가	국가/NNG+가/JKS
+사회·환경적	사회/NNG+·/SP+환경/NNG+적/XSN
+측면에서	측면/NNG+에서/JKB
+얼마나	얼마나/MAG
+발전했는지	발전/NNG+하/XSV+았/EP+는지/EC
+평가하는	평가/NNG+하/XSV+는/ETM
+'사회발전지수(Social	'/SS+사회/NNG+발전/NNG+지수/NNG+(/SS+Social/SL
+Progress	Progress/SL
+Index·	Index/SL+·/SP
+SPI)'가	SPI/SL+)/SS+'/SS+가/JKS
+새로	새로/MAG
+개발됐다고	개발/NNG+되/XSV+었/EP+다고/EC
+월스트리트저널(WSJ)이	월스트리트저널/NNP+(/SS+WSJ/SL+)/SS+이/JKS
+10일	10/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.4.1
+전 세계 50개국을 대상으로 실시된 첫 SPI 조사에서 한국은 100점 만점에 59.86점을 받아 11위를 기록했다.
+
+전	전/MMN
+세계	세계/NNG
+50개국을	50/SN+개국/NNB+을/JKO
+대상으로	대상/NNG+으로/JKB
+실시된	실시/NNG+되/XSV+ㄴ/ETM
+첫	첫/MMN
+SPI	SPI/SL
+조사에서	조사/NNG+에서/JKB
+한국은	한국/NNP+은/JX
+100점	100/SN+점/NNB
+만점에	만점/NNG+에/JKB
+59.86점을	59/SN+./SP+86/SN+점/NNB+을/JKO
+받아	받/VV+아/EC
+11위를	11/SN+위/NNB+를/JKO
+기록했다.	기록/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.4.2
+SPI는 국가 발전 정도를 가늠할 때 국내총생산(GDP) 등 경제 요소를 제외하고 사회·환경적 측면에서 접근하기 위해 고안된 개념이다.
+
+SPI는	SPI/SL+는/JX
+국가	국가/NNG
+발전	발전/NNG
+정도를	정도/NNG+를/JKO
+가늠할	가늠/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+국내총생산(GDP)	국내/NNG+총생산/NNG+(/SS+GDP/SL+)/SS
+등	등/NNB
+경제	경제/NNG
+요소를	요소/NNG+를/JKO
+제외하고	제외/NNG+하/XSV+고/EC
+사회·환경적	사회/NNG+·/SP+환경/NNG+적/XSN
+측면에서	측면/NNG+에서/JKB
+접근하기	접근/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+고안된	고안/NNG+되/XSV+ㄴ/ETM
+개념이다.	개념/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.5.1
+크게 세 가지 세부 분야인 ▲기본적 인간 욕구(영양 및 기본 의료 지원, 공기·물·위생, 주거, 개인 안전)▲웰빙의 기반(기초 지식 및 정보·통신 접근성, 건강, 생태계 지속가능성)▲기회(개인적 권리, 고등교육 접근성, 개인의 자유와 선택, 평등과 통합) 부문에서 점수를 종합해 결정한다.
+
+크게	크/VA+게/EC
+세	세/MMN
+가지	가지/NNB
+세부	세부/NNG
+분야인	분야/NNG+이/VCP+ㄴ/ETM
+▲기본적	▲/SW+기본/NNG+적/XSN
+인간	인간/NNG
+욕구(영양	욕구/NNG+(/SS+영양/NNG
+및	및/MAG
+기본	기본/NNG
+의료	의료/NNG
+지원,	지원/NNG+,/SP
+공기·물·위생,	공기/NNG+·/SP+물/NNG+·/SP+위생/NNG+,/SP
+주거,	주거/NNG+,/SP
+개인	개인/NNG
+안전)▲웰빙의	안전/NNG+)/SS+▲/SW+웰빙/NNG+의/JKG
+기반(기초	기반/NNG+(/SS+기초/NNG
+지식	지식/NNG
+정보·통신	정보/NNG+·/SP+통신/NNG
+접근성,	접근/NNG+성/XSN+,/SP
+건강,	건강/NNG+,/SP
+생태계	생태/NNG+계/XSN
+지속가능성)▲기회(개인적	지속/NNG+가능/NNG+성/XSN+)/SS+▲/SW+기회/NNG+(/SS+개인/NNG+적/XSN
+권리,	권리/NNG+,/SP
+고등교육	고등/NNG+교육/NNG
+개인의	개인/NNG+의/JKG
+자유와	자유/NNG+와/JC
+선택,	선택/NNG+,/SP
+평등과	평등/NNG+과/JC
+통합)	통합/NNG+)/SS
+부문에서	부문/NNG+에서/JKB
+점수를	점수/NNG+를/JKO
+종합해	종합/NNG+하/XSV+아/EC
+결정한다.	결정/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.358.5.2
+세계보건기구·세계은행 등의 자료를 토대로 마이클 포터 미 하버드 경영대학원 교수와 미 매사추세츠공대(MIT) 경제학자들이 조사·분석에 참여했다.
+
+세계보건기구·세계은행	세계보건기구/NNP+·/SP+세계은행/NNP
+등의	등/NNB+의/JKG
+자료를	자료/NNG+를/JKO
+토대로	토대/NNG+로/JKB
+마이클	마이클/NNP
+포터	포터/NNP
+미	미/NNP
+하버드	하버드/NNP
+경영대학원	경영/NNG+대학원/NNG
+교수와	교수/NNG+와/JC
+매사추세츠공대(MIT)	매사추세츠공대/NNP+(/SS+MIT/SL+)/SS
+경제학자들이	경제학자/NNG+들/XSN+이/JKS
+조사·분석에	조사/NNG+·/SP+분석/NNG+에/JKB
+참여했다.	참여/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.6.1
+올해 SPI 순위에서는 스웨덴(64.81점)이 1위를 차지했다.
+
+올해	올해/NNG
+SPI	SPI/SL
+순위에서는	순위/NNG+에서/JKB+는/JX
+스웨덴(64.81점)이	스웨덴/NNP+(/SS+64/SN+./SP+81/SN+점/NNB+)/SS+이/JKS
+1위를	1/SN+위/NNB+를/JKO
+차지했다.	차지/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.6.2
+2~6위는 영국(63.41점), 스위스(63.28점), 캐나다(62.63점), 독일(62.47점), 미국(61.56점) 순이었다.
+
+2~6위는	2/SN+~/SO+6/SN+위/NNB+는/JX
+영국(63.41점),	영국/NNP+(/SS+63/SN+./SP+41/SN+점/NNB+)/SS+,/SP
+스위스(63.28점),	스위스/NNP+(/SS+63/SN+./SP+28/SN+점/NNB+)/SS+,/SP
+캐나다(62.63점),	캐나다/NNP+(/SS+62/SN+./SP+63/SN+점/NNB+)/SS+,/SP
+독일(62.47점),	독일/NNP+(/SS+62/SN+./SP+47/SN+점/NNB+)/SS+,/SP
+미국(61.56점)	미국/NNP+(/SS+61/SN+./SP+56/SN+점/NNB+)/SS
+순이었다.	순/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.6.3
+일본은 8위(61.01), 중국은 32위(47.92)였다.
+
+일본은	일본/NNP+은/JX
+8위(61.01),	8/SN+위/NNB+(/SS+61/SN+./SP+01/SN+)/SS+,/SP
+중국은	중국/NNP+은/JX
+32위(47.92)였다.	32/SN+위/NNB+(/SS+47/SN+./SP+92/SN+)/SS+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.6.4
+한국은 세부 분야별로 기본적 인간 욕구, 웰빙의 기반 부문에서 각각 8위, 기회 부문에서 12위였다.
+
+한국은	한국/NNP+은/JX
+세부	세부/NNG
+분야별로	분야/NNG+별/XSN+로/JKB
+기본적	기본/NNG+적/XSN
+인간	인간/NNG
+욕구,	욕구/NNG+,/SP
+웰빙의	웰빙/NNG+의/JKG
+기반	기반/NNG
+부문에서	부문/NNG+에서/JKB
+각각	각각/MAG
+8위,	8/SN+위/NNB+,/SP
+기회	기회/NNG
+12위였다.	12/SN+위/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.358.7.1
+한국은 개인 안전, 영양 및 기본의료 지원, 고등교육 접근성 등에서 뛰어난 것으로 평가됐지만 생태계 지속가능성과 개인의 자유·선택 부문 등에서는 전체 평균보다 뒤지는 것으로 조사됐다.
+
+한국은	한국/NNP+은/JX
+개인	개인/NNG
+안전,	안전/NNG+,/SP
+영양	영양/NNG
+및	및/MAG
+기본의료	기본/NNG+의료/NNG
+지원,	지원/NNG+,/SP
+고등교육	고등/NNG+교육/NNG
+접근성	접근/NNG+성/XSN
+등에서	등/NNB+에서/JKB
+뛰어난	뛰어나/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+평가됐지만	평가/NNG+되/XSV+었/EP+지만/EC
+생태계	생태/NNG+계/XSN
+지속가능성과	지속/NNG+가능/NNG+성/XSN+과/JC
+개인의	개인/NNG+의/JKG
+자유·선택	자유/NNG+·/SP+선택/NNG
+부문	부문/NNG
+등에서는	등/NNB+에서/JKB+는/JX
+전체	전체/NNG
+평균보다	평균/NNG+보다/JKB
+뒤지는	뒤지/VV+는/ETM
+조사됐다.	조사/NNG+되/XSV+었/EP+다/EF+./SF
+
+

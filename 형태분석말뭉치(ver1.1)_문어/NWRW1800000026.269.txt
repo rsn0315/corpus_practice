@@ -1,0 +1,143 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.269
+metadata : {}
+
+
+# id : NWRW1800000026.269.1.1
+영어공용화 앞둔 日회사, 식당메뉴도 영어로
+
+영어공용화	영어/NNP+공용/NNG+화/XSN
+앞둔	앞두/VV+ㄴ/ETM
+日회사,	日/SH+회사/NNG+,/SP
+식당메뉴도	식당/NNG+메뉴/NNG+도/JX
+영어로	영어/NNP+로/JKB
+
+
+# id : NWRW1800000026.269.2.1
+일본에서 가장 큰 인터넷 상거래회사 라쿠텐(樂天)의 구내식당 메뉴는 영어로 돼 있다.
+
+일본에서	일본/NNP+에서/JKB
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+인터넷	인터넷/NNG
+상거래회사	상거래/NNG+회사/NNG
+라쿠텐(樂天)의	라쿠텐/NNP+(/SS+樂天/SH+)/SS+의/JKG
+구내식당	구내식당/NNG
+메뉴는	메뉴/NNG+는/JX
+영어로	영어/NNP+로/JKB
+돼	되/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.269.2.2
+직원들은 '화폐로 정하다(monetize)' '기능적인(functional)' 등 '필수 영 단어 5000개'를 외우느라 난리다.
+
+직원들은	직원/NNG+들/XSN+은/JX
+'화폐로	'/SS+화폐/NNG+로/JKB
+정하다(monetize)'	정하/VV+다/EF+(/SS+monetize/SL+)/SS+'/SS
+'기능적인(functional)'	'/SS+기능/NNG+적/XSN+이/VCP+ㄴ/ETM+(/SS+functional/SL+)/SS+'/SS
+등	등/NNB
+'필수	'/SS+필수/NNG
+영	영/NNG
+단어	단어/NNG
+5000개'를	5000/SN+개/NNB+'/SS+를/JKO
+외우느라	외우/VV+느라/EC
+난리다.	난리/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.269.2.3
+회사에서 마련한 퇴근 후 영어 강좌에도 220명이나 등록했다.
+
+회사에서	회사/NNG+에서/JKB
+마련한	마련/NNG+하/XSV+ㄴ/ETM
+퇴근	퇴근/NNG
+후	후/NNG
+영어	영어/NNP
+강좌에도	강좌/NNG+에/JKB+도/JX
+220명이나	220/SN+명/NNB+이나/JX
+등록했다.	등록/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.269.2.4
+월스트리트저널(WSJ)은 6일 "2012년까지 영어를 공용화하겠다는 미키타니 CEO의 방침으로 라쿠텐의 6000여명 직원들이 고전하고 있다"고 전했다.
+
+월스트리트저널(WSJ)은	월스트리트저널/NNP+(/SS+WSJ/SL+)/SS+은/JX
+6일	6/SN+일/NNB
+"2012년까지	"/SS+2012/SN+년/NNB+까지/JX
+영어를	영어/NNP+를/JKO
+공용화하겠다는	공용/NNG+화/XSN+하/XSV+겠/EP+다는/ETM
+미키타니	미키타니/NNP
+CEO의	CEO/SL+의/JKG
+방침으로	방침/NNG+으로/JKB
+라쿠텐의	라쿠텐/NNP+의/JKG
+6000여명	6000/SN+여/XSN+명/NNB
+직원들이	직원/NNG+들/XSN+이/JKS
+고전하고	고전/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.269.3.1
+하버드대 경영대학원을 졸업한 미키타니 CEO는 '미국 인터넷 쇼핑몰 아마존(Amazon)과 경쟁할 만한 일본 사이트를 만들겠다'며 1997년 라쿠텐을 창업, 큰 성공을 거뒀다.
+
+하버드대	하버드대/NNP
+경영대학원을	경영/NNG+대학원/NNG+을/JKO
+졸업한	졸업/NNG+하/XSV+ㄴ/ETM
+미키타니	미키타니/NNP
+CEO는	CEO/SL+는/JX
+'미국	'/SS+미국/NNP
+인터넷	인터넷/NNG
+쇼핑몰	쇼핑몰/NNG
+아마존(Amazon)과	아마존/NNP+(/SS+Amazon/SL+)/SS+과/JKB
+경쟁할	경쟁/NNG+하/XSV+ㄹ/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+일본	일본/NNP
+사이트를	사이트/NNG+를/JKO
+만들겠다'며	만들/VV+겠/EP+다/EF+'/SS+며/EC
+1997년	1997/SN+년/NNB
+라쿠텐을	라쿠텐/NNP+을/JKO
+창업,	창업/NNG+,/SP
+큰	크/VA+ㄴ/ETM
+성공을	성공/NNG+을/JKO
+거뒀다.	거두/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.269.3.2
+그는 "라쿠텐은 이제 글로벌 기업으로 성장해야 하는데 지금의 영어 실력으로는 부족하다"며 지난 6월 영어 공용화를 선언했다.
+
+그는	그/NP+는/JX
+"라쿠텐은	"/SS+라쿠텐/NNP+은/JX
+이제	이제/MAG
+글로벌	글로벌/NNG
+기업으로	기업/NNG+으로/JKB
+성장해야	성장/NNG+하/XSV+아야/EC
+하는데	하/VX+는데/EC
+지금의	지금/NNG+의/JKG
+영어	영어/NNP
+실력으로는	실력/NNG+으로/JKB+는/JX
+부족하다"며	부족/NNG+하/XSA+다/EF+"/SS+며/EC
+지난	지나/VV+ㄴ/ETM
+6월	6/SN+월/NNB
+공용화를	공용/NNG+화/XSN+를/JKO
+선언했다.	선언/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.269.3.3
+일본은 IMF(국제통화기금)가 정한 선진국 34개국 중 토플(TOEFL) 점수가 가장 낮다.
+
+일본은	일본/NNP+은/JX
+IMF(국제통화기금)가	IMF/SL+(/SS+국제통화기금/NNP+)/SS+가/JKS
+정한	정하/VV+ㄴ/ETM
+선진국	선진국/NNG
+34개국	34/SN+개국/NNB
+중	중/NNB
+토플(TOEFL)	토플/NNG+(/SS+TOEFL/SL+)/SS
+점수가	점수/NNG+가/JKS
+가장	가장/MAG
+낮다.	낮/VA+다/EF+./SF
+
+

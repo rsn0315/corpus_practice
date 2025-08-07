@@ -1,0 +1,216 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.296
+metadata : {}
+
+
+# id : NWRW1800000022.296.1.1
+증권사 CMA 고객들 수수료 차별없이 현금입출금기 이용할듯 공정위 "차별하면 위법"
+
+증권사	증권사/NNG
+CMA	CMA/SL
+고객들	고객/NNG+들/XSN
+수수료	수수료/NNG
+차별없이	차별/NNG+없이/MAG
+현금입출금기	현금/NNG+입출금기/NNG
+이용할듯	이용/NNG+하/XSV+ㄹ/ETM+듯/NNB
+공정위	공정위/NNG
+"차별하면	"/SS+차별/NNG+하/XSV+면/EC
+위법"	위법/NNG+"/SS
+
+
+# id : NWRW1800000022.296.2.1
+은행들이 은행 ATM(현금자동입출금기)에서 증권사 종합자산관리계좌(CMA)의 돈을 입출금할 때 은행 계좌보다 높은 수수료를 물리는 방안을 추진하는 것과 관련, 공정거래위원회가 위법 소지가 있다고 밝혔다.
+
+은행들이	은행/NNG+들/XSN+이/JKS
+은행	은행/NNG
+ATM(현금자동입출금기)에서	ATM/SL+(/SS+현금/NNG+자동/NNG+입출금기/NNG+)/SS+에서/JKB
+증권사	증권사/NNG
+종합자산관리계좌(CMA)의	종합/NNG+자산/NNG+관리/NNG+계좌/NNG+(/SS+CMA/SL+)/SS+의/JKG
+돈을	돈/NNG+을/JKO
+입출금할	입출금/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+계좌보다	계좌/NNG+보다/JKB
+높은	높/VA+은/ETM
+수수료를	수수료/NNG+를/JKO
+물리는	물리/VV+는/ETM
+방안을	방안/NNG+을/JKO
+추진하는	추진/NNG+하/XSV+는/ETM
+것과	것/NNB+과/JKB
+관련,	관련/NNG+,/SP
+공정거래위원회가	공정/NNG+거래/NNG+위원회/NNG+가/JKS
+위법	위법/NNG
+소지가	소지/NNG+가/JKS
+있다고	있/VA+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.296.2.2
+본지 8월 18일자 B3면 참조
+
+본지	본지/NNG
+8월	8/SN+월/NNB
+18일자	18/SN+일/NNB+자/NNG
+B3면	B/SL+3/SN+면/NNG
+참조	참조/NNG
+
+
+# id : NWRW1800000022.296.3.1
+따라서 증권사 CMA 고객들도 수수료 차별없이 ATM을 이용할 수 있을 것으로 보인다.
+
+따라서	따라서/MAJ
+증권사	증권사/NNG
+CMA	CMA/SL
+고객들도	고객/NNG+들/XSN+도/JX
+수수료	수수료/NNG
+차별없이	차별/NNG+없이/MAG
+ATM을	ATM/SL+을/JKO
+이용할	이용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.296.4.1
+은행연합회는 지난 12일 은행 계좌와 증권사 CMA의 ATM 이용 수수료를 차등하는 방안에 법적 문제가 없는지 공정위에 유권 해석을 신청했다.
+
+은행연합회는	은행연합회/NNP+는/JX
+지난	지나/VV+ㄴ/ETM
+12일	12/SN+일/NNB
+은행	은행/NNG
+계좌와	계좌/NNG+와/JKB
+증권사	증권사/NNG
+CMA의	CMA/SL+의/JKG
+ATM	ATM/SL
+이용	이용/NNG
+수수료를	수수료/NNG+를/JKO
+차등하는	차등/NNG+하/XSV+는/ETM
+방안에	방안/NNG+에/JKB
+법적	법/NNG+적/XSN
+문제가	문제/NNG+가/JKS
+없는지	없/VA+는지/EC
+공정위에	공정위/NNG+에/JKB
+유권	유권/NNG
+해석을	해석/NNG+을/JKO
+신청했다.	신청/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.296.4.2
+이에 대해 공정위는 26일 "기관별 수수료 차별은 증권사에 대한 비합리적 차별로서 경쟁을 제한할 수 있으므로 공정거래법 위반 가능성이 크다고 회신했다"고 밝혔다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+공정위는	공정위/NNG+는/JX
+26일	26/SN+일/NNB
+"기관별	"/SS+기관/NNG+별/XSN
+수수료	수수료/NNG
+차별은	차별/NNG+은/JX
+증권사에	증권사/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+비합리적	비/XPN+합리/NNG+적/XSN
+차별로서	차별/NNG+로서/JKB
+경쟁을	경쟁/NNG+을/JKO
+제한할	제한/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있으므로	있/VA+으므로/EC
+공정거래법	공정/NNG+거래법/NNG
+위반	위반/NNG
+가능성이	가능/NNG+성/XSN+이/JKS
+크다고	크/VA+다고/EC
+회신했다"고	회신/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.296.4.3
+증권사들은 이달 초부터 증권사 CMA를 통해 계좌이체, 공과금 납부 등 지급결제업무를 시작했다.
+
+증권사들은	증권사/NNG+들/XSN+은/JX
+이달	이달/NNG
+초부터	초/NNB+부터/JX
+증권사	증권사/NNG
+CMA를	CMA/SL+를/JKO
+통해	통하/VV+아/EC
+계좌이체,	계좌/NNG+이체/NNG+,/SP
+공과금	공과금/NNG
+납부	납부/NNG
+등	등/NNB
+지급결제업무를	지급/NNG+결제/NNG+업무/NNG+를/JKO
+시작했다.	시작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.296.5.1
+이에 대해 은행들은 증권사가 CMA 거래를 위해 은행 ATM을 이용할 때 내야 하는 수수료를, 은행이 다른 은행의 ATM을 이용할 때 내야 하는 수수료(건당 450원씩)보다 높게 받는 방안을 추진해왔다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+은행들은	은행/NNG+들/XSN+은/JX
+증권사가	증권사/NNG+가/JKS
+CMA	CMA/SL
+거래를	거래/NNG+를/JKO
+위해	위하/VV+아/EC
+은행	은행/NNG
+ATM을	ATM/SL+을/JKO
+이용할	이용/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+내야	내/VV+어야/EC
+하는	하/VX+는/ETM
+수수료를,	수수료/NNG+를/JKO+,/SP
+은행이	은행/NNG+이/JKS
+다른	다른/MMD
+은행의	은행/NNG+의/JKG
+수수료(건당	수수료/NNG+(/SS+건당/NNG
+450원씩)보다	450/SN+원/NNB+씩/XSN+)/SS+보다/JKB
+높게	높/VA+게/EC
+받는	받/VV+는/ETM
+방안을	방안/NNG+을/JKO
+추진해왔다.	추진/NNG+하/XSV+아/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.296.6.1
+증권사가 은행에 내는 수수료가 높아지면 은행 ATM을 통해 증권사 CMA 거래를 하는 증권사 고객의 수수료 부담도 커진다.
+
+증권사가	증권사/NNG+가/JKS
+은행에	은행/NNG+에/JKB
+내는	내/VV+는/ETM
+수수료가	수수료/NNG+가/JKS
+높아지면	높아지/VV+면/EC
+은행	은행/NNG
+ATM을	ATM/SL+을/JKO
+통해	통하/VV+아/EC
+증권사	증권사/NNG
+CMA	CMA/SL
+거래를	거래/NNG+를/JKO
+하는	하/VV+는/ETM
+고객의	고객/NNG+의/JKG
+수수료	수수료/NNG
+부담도	부담/NNG+도/JX
+커진다.	커지/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.296.7.1
+그러나 공정위는 이날 답변 자료에서 "은행들이 공동으로 증권회사에 대해서만 수수료를 달리 정하기로 합의한다면 공동행위(담합)에 해당할 가능성도 있다"고 경고했다.
+
+그러나	그러나/MAJ
+공정위는	공정위/NNG+는/JX
+이날	이날/NNG
+답변	답변/NNG
+자료에서	자료/NNG+에서/JKB
+"은행들이	"/SS+은행/NNG+들/XSN+이/JKS
+공동으로	공동/NNG+으로/JKB
+증권회사에	증권/NNG+회사/NNG+에/JKB
+대해서만	대하/VV+아서/EC+만/JX
+수수료를	수수료/NNG+를/JKO
+달리	달리/MAG
+정하기로	정하/VV+기/ETN+로/JKB
+합의한다면	합의/NNG+하/XSV+ㄴ다면/EC
+공동행위(담합)에	공동/NNG+행위/NNG+(/SS+담합/NNG+)/SS+에/JKB
+해당할	해당/NNG+하/XSV+ㄹ/ETM
+가능성도	가능/NNG+성/XSN+도/JX
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+경고했다.	경고/NNG+하/XSV+았/EP+다/EF+./SF
+
+

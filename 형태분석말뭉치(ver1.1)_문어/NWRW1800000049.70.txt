@@ -1,0 +1,222 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.70
+metadata : {}
+
+
+# id : NWRW1800000049.70.1.1
+[2016 한국 시니어산업 대상]100세 시대 준비하는 청박병원의 건강관리
+
+[2016	[/SS+2016/SN
+한국	한국/NNP
+시니어산업	시니어/NNG+산업/NNG
+대상]100세	대상/NNG+]/SS+100/SN+세/NNB
+시대	시대/NNG
+준비하는	준비/NNG+하/XSV+는/ETM
+청박병원의	청박병원/NNP+의/JKG
+건강관리	건강/NNG+관리/NNG
+
+
+# id : NWRW1800000049.70.2.1
+웰에이징 클리닉 부문 웰에이징센터
+
+웰에이징	웰에이징/NNG
+클리닉	클리닉/NNG
+부문	부문/NNG
+웰에이징센터	웰에이징센터/NNP
+
+
+# id : NWRW1800000049.70.3.1
+웰에이징센터(원장 유박영)가 ‘2016 한국 시니어산업 대상’의 웰에이징 클리닉 부문 대상을 수상했다.
+
+웰에이징센터(원장	웰에이징센터/NNP+(/SS+원장/NNG
+유박영)가	유박영/NNP+)/SS+가/JKS
+‘2016	‘/SS+2016/SN
+한국	한국/NNP
+시니어산업	시니어/NNG+산업/NNG
+대상’의	대상/NNG+’/SS+의/JKG
+웰에이징	웰에이징/NNG
+클리닉	클리닉/NNG
+부문	부문/NNG
+대상을	대상/NNG+을/JKO
+수상했다.	수상/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.70.3.2
+웰에이징센터는 청박병원 진료의 연장으로 100세 시대를 대비하는 ‘Inner Health, Outer Beauty, Secret Touch 진료’를 추구하고 있다.
+
+웰에이징센터는	웰에이징센터/NNP+는/JX
+청박병원	청박병원/NNP
+진료의	진료/NNG+의/JKG
+연장으로	연장/NNG+으로/JKB
+100세	100/SN+세/NNB
+시대를	시대/NNG+를/JKO
+대비하는	대비/NNG+하/XSV+는/ETM
+‘Inner	‘/SS+Inner/SL
+Health,	Health/SL+,/SP
+Outer	Outer/SL
+Beauty,	Beauty/SL+,/SP
+Secret	Secret/SL
+Touch	Touch/SL
+진료’를	진료/NNG+’/SS+를/JKO
+추구하고	추구/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.70.3.3
+이 함축된 세 가지 진료를 ‘코미모 진료’라 명명하고 집중 진료를 하고 있다.
+
+이	이/MMD
+함축된	함축/NNG+되/XSV+ㄴ/ETM
+세	세/MMN
+가지	가지/NNB
+진료를	진료/NNG+를/JKO
+‘코미모	‘/SS+코미모/NNG
+진료’라	진료/NNG+’/SS+라/EC
+명명하고	명명/NNG+하/XSV+고/EC
+집중	집중/NNG
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.70.4.1
+코미모란 ‘코끼리 터치, 미(美) 터치, 모나리자 터치’의 약자로 그 내용은 100세 시대에 청장년기부터 건강한 시니어가 되기 위한 준비에 꼭 필요한 진료로 구성된 신개념 시니어 웰에이징 건강관리 프로그램이다.
+
+코미모란	코미모/NNG+란/JX
+‘코끼리	‘/SS+코끼리/NNG
+터치,	터치/NNG+,/SP
+미(美)	미/NNG+(/SS+美/SH+)/SS
+모나리자	모나리자/NNP
+터치’의	터치/NNG+’/SS+의/JKG
+약자로	약자/NNG+로/JKB
+그	그/MMD
+내용은	내용/NNG+은/JX
+100세	100/SN+세/NNB
+시대에	시대/NNG+에/JKB
+청장년기부터	청장년기/NNG+부터/JX
+건강한	건강/NNG+하/XSA+ㄴ/ETM
+시니어가	시니어/NNG+가/JKC
+되기	되/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+준비에	준비/NNG+에/JKB
+꼭	꼭/MAG
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+진료로	진료/NNG+로/JKB
+구성된	구성/NNG+되/XSV+ㄴ/ETM
+신개념	신/XPN+개념/NNG
+시니어	시니어/NNG
+웰에이징	웰에이징/NNG
+건강관리	건강/NNG+관리/NNG
+프로그램이다.	프로그램/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.70.4.2
+진료 내용은 주로 비움·채움 대사증후군 치료와 비수술적 심장질환 치료 등의 이너헬스 진료를 뜻하는 코끼리 터치, 색소 탄력 흉터를 레이저로 시술하는 아우터 뷰티를 뜻하는 미 터치, 질타이트닝과 요실금을 치료하는 시크릿 터치를 뜻하는 모나리자 터치로 구성된다.
+
+진료	진료/NNG
+내용은	내용/NNG+은/JX
+주로	주로/MAG
+비움·채움	비우/VV+ㅁ/ETN+·/SP+채우/VV+ㅁ/ETN
+대사증후군	대사/NNG+증후군/NNG
+치료와	치료/NNG+와/JC
+비수술적	비/XPN+수술/NNG+적/XSN
+심장질환	심장/NNG+질환/NNG
+치료	치료/NNG
+등의	등/NNB+의/JKG
+이너헬스	이너헬스/NNG
+진료를	진료/NNG+를/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+코끼리	코끼리/NNG
+터치,	터치/NNG+,/SP
+색소	색소/NNG
+탄력	탄력/NNG
+흉터를	흉터/NNG+를/JKO
+레이저로	레이저/NNG+로/JKB
+시술하는	시술/NNG+하/XSV+는/ETM
+아우터	아우터/NNG
+뷰티를	뷰티/NNG+를/JKO
+미	미/NNG
+질타이트닝과	질/NNG+타이트닝/NNG+과/JC
+요실금을	요실금/NNG+을/JKO
+치료하는	치료/NNG+하/XSV+는/ETM
+시크릿	시크릿/NNG
+터치를	터치/NNG+를/JKO
+모나리자	모나리자/NNP
+터치로	터치/NNG+로/JKB
+구성된다.	구성/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.70.5.1
+이 모든 진료는 서울 강남구 압구정로의 청박병원 빌딩 4∼6층 웰에이징센터에서 운영되고 있다.
+
+이	이/MMD
+모든	모든/MMN
+진료는	진료/NNG+는/JX
+서울	서울/NNP
+강남구	강남구/NNP
+압구정로의	압구정로/NNP+의/JKG
+청박병원	청박병원/NNP
+빌딩	빌딩/NNG
+4∼6층	4/SN+∼/SO+6/SN+층/NNG
+웰에이징센터에서	웰에이징센터/NNP+에서/JKB
+운영되고	운영/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.70.5.2
+코미모 진료와 검사 및 레이저실, EECP센터인 IBF(혈류증진)실, PNT(IVNT, IVC)실, SC(피부재생관리)실 등으로 구성되었다.
+
+코미모	코미모/NNG
+진료와	진료/NNG+와/JC
+검사	검사/NNG
+및	및/MAG
+레이저실,	레이저실/NNG+,/SP
+EECP센터인	EECP/SL+센터/NNG+이/VCP+ㄴ/ETM
+IBF(혈류증진)실,	IBF/SL+(/SS+혈류/NNG+증진/NNG+)/SS+실/NA+,/SP
+PNT(IVNT,	PNT/SL+(/SS+IVNT/SL+,/SP
+IVC)실,	IVC/SL+)/SS+실/NA+,/SP
+SC(피부재생관리)실	SC/SL+(/SS+피부/NNG+재생/NNG+관리/NNG+)/SS+실/NA
+등으로	등/NNB+으로/JKB
+구성되었다.	구성/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.70.5.3
+고객들은 동선이 한층 집약된 공간에서 쾌적한 진료 환경을 제공받을 수 있다.
+
+고객들은	고객/NNG+들/XSN+은/JX
+동선이	동선/NNG+이/JKS
+한층	한층/MAG
+집약된	집약/NNG+되/XSV+ㄴ/ETM
+공간에서	공간/NNG+에서/JKB
+쾌적한	쾌적하/VA+ㄴ/ETM
+진료	진료/NNG
+환경을	환경/NNG+을/JKO
+제공받을	제공/NNG+받/XSV+을/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.70.5.4
+또한 지하 1층에는 100세 시대의 건강 유지에 무엇보다 중요한 음식을 해결하는 공간이 EECP센터 옆에 오픈될 예정이다.
+
+또한	또한/MAG
+지하	지하/NNG
+1층에는	1/SN+층/NNG+에/JKB+는/JX
+100세	100/SN+세/NNB
+시대의	시대/NNG+의/JKG
+건강	건강/NNG
+유지에	유지/NNG+에/JKB
+무엇보다	무엇/NP+보다/JKB
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+음식을	음식/NNG+을/JKO
+해결하는	해결/NNG+하/XSV+는/ETM
+공간이	공간/NNG+이/JKS
+EECP센터	EECP/SL+센터/NNG
+옆에	옆/NNG+에/JKB
+오픈될	오픈/NNG+되/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+

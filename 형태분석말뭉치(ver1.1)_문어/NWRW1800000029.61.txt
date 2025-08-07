@@ -1,0 +1,478 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000029.61
+metadata : {}
+
+
+# id : NWRW1800000029.61.1.1
+軍 사이버병력, 제대후 벤처로 키운다
+
+軍	軍/SH
+사이버병력,	사이버/NNG+병력/NNG+,/SP
+제대후	제대/NNG+후/NNG
+벤처로	벤처/NNG+로/JKB
+키운다	키우/VV+ㄴ다/EF
+
+
+# id : NWRW1800000029.61.2.1
+■ 정부, 산업인력 육성 혁신방안 내놔
+
+■	■/SW
+정부,	정부/NNG+,/SP
+산업인력	산업/NNG+인력/NNG
+육성	육성/NNG
+혁신방안	혁신/NNG+방안/NNG
+내놔	내놓/VV+아/EF
+
+
+# id : NWRW1800000029.61.3.1
+정부가 첨단기술 전공 학생들이 군 복무를 하면서 관련 경력을 이어가고, 제대한 뒤 벤처기업을 창업하도록 유도하는 한국형 ‘탈피오트’ 프로그램을 만들기로 했다.
+
+정부가	정부/NNG+가/JKS
+첨단기술	첨단/NNG+기술/NNG
+전공	전공/NNG
+학생들이	학생/NNG+들/XSN+이/JKS
+군	군/NNG
+복무를	복무/NNG+를/JKO
+하면서	하/VV+면서/EC
+관련	관련/NNG
+경력을	경력/NNG+을/JKO
+이어가고,	잇/VV+어/EC+가/VX+고/EC+,/SP
+제대한	제대/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+벤처기업을	벤처/NNG+기업/NNG+을/JKO
+창업하도록	창업/NNG+하/XSV+도록/EC
+유도하는	유도/NNG+하/XSV+는/ETM
+한국형	한국/NNP+형/XSN
+‘탈피오트’	‘/SS+탈피오트/NNP+’/SS
+프로그램을	프로그램/NNG+을/JKO
+만들기로	만들/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.4.1
+‘탈피오트(Talpiot)’는 히브리어로 ‘최고 중의 최고’를 뜻하는 말로 이스라엘에서 최고의 인재들을 뽑은 뒤 첨단과학기술을 전쟁에 응용하는 엘리트 부대다.
+
+‘탈피오트(Talpiot)’는	‘/SS+탈피오트/NNP+(/SS+Talpiot/SL+)/SS+’/SS+는/JX
+히브리어로	히브리어/NNP+로/JKB
+‘최고	‘/SS+최고/NNG
+중의	중/NNB+의/JKG
+최고’를	최고/NNG+’/SS+를/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+말로	말/NNG+로/JKB
+이스라엘에서	이스라엘/NNP+에서/JKB
+최고의	최고/NNG+의/JKG
+인재들을	인재/NNG+들/XSN+을/JKO
+뽑은	뽑/VV+은/ETM
+뒤	뒤/NNG
+첨단과학기술을	첨단/NNG+과학/NNG+기술/NNG+을/JKO
+전쟁에	전쟁/NNG+에/JKB
+응용하는	응용/NNG+하/XSV+는/ETM
+엘리트	엘리트/NNG
+부대다.	부대/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.4.2
+이곳 출신들은 제대 뒤에 군대에서 익힌 기술과 인적 네트워크로 세계적인 벤처기업을 창업하는 것으로 유명하다.
+
+이곳	이곳/NP
+출신들은	출신/NNG+들/XSN+은/JX
+제대	제대/NNG
+뒤에	뒤/NNG+에/JKB
+군대에서	군대/NNG+에서/JKB
+익힌	익히/VV+ㄴ/ETM
+기술과	기술/NNG+과/JC
+인적	인/NNG+적/XSN
+네트워크로	네트워크/NNG+로/JKB
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+벤처기업을	벤처/NNG+기업/NNG+을/JKO
+창업하는	창업/NNG+하/XSV+는/ETM
+것으로	것/NNB+으로/JKB
+유명하다.	유명/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000029.61.4.3
+정부는 또 기술인에 대한 사회적 존경심을 높이기 위해 ‘명예의 전당’을 만든다.
+
+정부는	정부/NNG+는/JX
+또	또/MAG
+기술인에	기술인/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+사회적	사회/NNG+적/XSN
+존경심을	존경심/NNG+을/JKO
+높이기	높이/VV+기/ETN
+위해	위하/VV+아/EC
+‘명예의	‘/SS+명예/NNG+의/JKG
+전당’을	전당/NNG+’/SS+을/JKO
+만든다.	만들/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000029.61.5.1
+지식경제부와 교육과학기술부는 30일 이 같은 내용의 ‘산업인력 육성·관리시스템 혁신방안’을 발표했다.
+
+지식경제부와	지식/NNG+경제부/NNG+와/JC
+교육과학기술부는	교육/NNG+과학/NNG+기술부/NNG+는/JX
+30일	30/SN+일/NNB
+이	이/NP
+같은	같/VA+은/ETM
+내용의	내용/NNG+의/JKG
+‘산업인력	‘/SS+산업/NNG+인력/NNG
+육성·관리시스템	육성/NNG+·/SP+관리/NNG+시스템/NNG
+혁신방안’을	혁신/NNG+방안/NNG+’/SS+을/JKO
+발표했다.	발표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.5.2
+정부는 이번 대책을 통해 우선적으로 내년도 연구인력 분야에 모두 3만여 개의 일자리를 만들 수 있을 것으로 보고 있다.
+
+정부는	정부/NNG+는/JX
+이번	이번/NNG
+대책을	대책/NNG+을/JKO
+통해	통하/VV+아/EC
+우선적으로	우선/NNG+적/XSN+으로/JKB
+내년도	내년도/NNG
+연구인력	연구/NNG+인력/NNG
+분야에	분야/NNG+에/JKB
+모두	모두/MAG
+3만여	3/SN+만/NR+여/XSN
+개의	개/NNB+의/JKG
+일자리를	일자리/NNG+를/JKO
+만들	만들/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000029.61.6.1
+정부가 이번에 내놓은 한국형 탈피오트 프로그램은 지경부의 소프트웨어(SW) 인력양성 프로그램인 ‘SW 마에스트로’ 연수생이나 현재 국방부가 추진하는 사이버국방학과 졸업생들이 사이버사령부 등에서 군 복무를 마친 뒤에 벤처를 창업하도록 지원하는 것이다.
+
+정부가	정부/NNG+가/JKS
+이번에	이번/NNG+에/JKB
+내놓은	내놓/VV+은/ETM
+한국형	한국/NNP+형/XSN
+탈피오트	탈피오트/NNP
+프로그램은	프로그램/NNG+은/JX
+지경부의	지경부/NNG+의/JKG
+소프트웨어(SW)	소프트웨어/NNG+(/SS+SW/SL+)/SS
+인력양성	인력/NNG+양성/NNG
+프로그램인	프로그램/NNG+이/VCP+ㄴ/ETM
+‘SW	‘/SS+SW/SL
+마에스트로’	마에스트로/NNG+’/SS
+연수생이나	연수/NNG+생/XSN+이나/JC
+현재	현재/MAG
+국방부가	국방부/NNG+가/JKS
+추진하는	추진/NNG+하/XSV+는/ETM
+사이버국방학과	사이버/NNG+국방/NNG+학과/NNG
+졸업생들이	졸업/NNG+생/XSN+들/XSN+이/JKS
+사이버사령부	사이버/NNG+사령부/NNG
+등에서	등/NNB+에서/JKB
+군	군/NNG
+복무를	복무/NNG+를/JKO
+마친	마치/VV+ㄴ/ETM
+뒤에	뒤/NNG+에/JKB
+벤처를	벤처/NNG+를/JKO
+창업하도록	창업/NNG+하/XSV+도록/EC
+지원하는	지원/NNG+하/XSV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.6.2
+지경부 관계자는 “군을 제대한 전문인력에게 벤처 창업 방법 등을 가르치는 미국 ‘싱귤래리티 대학(Singularity University)’의 프로그램과 유사한 교육을 받게 할 예정”이라고 설명했다.
+
+지경부	지경부/NNG
+관계자는	관계자/NNG+는/JX
+“군을	“/SS+군/NNG+을/JKO
+제대한	제대/NNG+하/XSV+ㄴ/ETM
+전문인력에게	전문/NNG+인력/NNG+에게/JKB
+벤처	벤처/NNG
+창업	창업/NNG
+방법	방법/NNG
+등을	등/NNB+을/JKO
+가르치는	가르치/VV+는/ETM
+미국	미국/NNP
+‘싱귤래리티	‘/SS+싱귤래리티/NNP
+대학(Singularity	대학/NNG+(/SS+Singularity/SL
+University)’의	University/SL+)/SS+’/SS+의/JKG
+프로그램과	프로그램/NNG+과/JKB
+유사한	유사/NNG+하/XSA+ㄴ/ETM
+교육을	교육/NNG+을/JKO
+받게	받/VV+게/EC
+할	하/VX+ㄹ/ETM
+예정”이라고	예정/NNG+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.7.1
+또 정부가 추진하는 명예의 전당에는 기존 대기업의 유명 최고경영자(CEO)가 아니라 중견기업 등에서 묵묵히 일하면서 기술적인 성과를 내는 인물을 발굴할 예정이다.
+
+또	또/MAG
+정부가	정부/NNG+가/JKS
+추진하는	추진/NNG+하/XSV+는/ETM
+명예의	명예/NNG+의/JKG
+전당에는	전당/NNG+에/JKB+는/JX
+기존	기존/NNG
+대기업의	대/XPN+기업/NNG+의/JKG
+유명	유명/NNG
+최고경영자(CEO)가	최고/NNG+경영자/NNG+(/SS+CEO/SL+)/SS+가/JKC
+아니라	아니/VCN+라/EC
+중견기업	중견/NNG+기업/NNG
+등에서	등/NNB+에서/JKB
+묵묵히	묵묵히/MAG
+일하면서	일/NNG+하/XSV+면서/EC
+기술적인	기술/NNG+적/XSN+이/VCP+ㄴ/ETM
+성과를	성과/NNG+를/JKO
+내는	내/VV+는/ETM
+인물을	인물/NNG+을/JKO
+발굴할	발굴/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.7.2
+명예의 전당의 첫 인물은 내년에 선발된다.
+
+명예의	명예/NNG+의/JKG
+전당의	전당/NNG+의/JKG
+첫	첫/MMN
+인물은	인물/NNG+은/JX
+내년에	내년/NNG+에/JKB
+선발된다.	선발/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000029.61.7.3
+이 밖에 시스템 반도체 분야의 해외 기업 및 연구소에서 근무하는 한국 출신의 인재를 국내로 데려올 때 정부가 비용의 일부를 지원하는 방안도 검토 중이다.
+
+이	이/MMD
+밖에	밖/NNG+에/JKB
+시스템	시스템/NNG
+반도체	반도체/NNG
+분야의	분야/NNG+의/JKG
+해외	해외/NNG
+기업	기업/NNG
+및	및/MAG
+연구소에서	연구소/NNG+에서/JKB
+근무하는	근무/NNG+하/XSV+는/ETM
+한국	한국/NNP
+출신의	출신/NNG+의/JKG
+인재를	인재/NNG+를/JKO
+국내로	국내/NNG+로/JKB
+데려올	데려오/VV+ㄹ/ETM
+때	때/NNG
+정부가	정부/NNG+가/JKS
+비용의	비용/NNG+의/JKG
+일부를	일부/NNG+를/JKO
+지원하는	지원/NNG+하/XSV+는/ETM
+방안도	방안/NNG+도/JX
+검토	검토/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.8.1
+정부는 △연구개발(R&D) 예산 중 인적자본의 투자 비중을 10%가량 늘리며 △산업계 인력을 교수로 채용하고 △60대 퇴직 기술 인력이 20대 구직자와 함께 개도국에서 기술 컨설팅을 진행하는 ‘60+20 프로젝트’ 등을 통해 내년에 모두 3만 개의 일자리를 만들 수 있을 것으로 내다봤다.
+
+정부는	정부/NNG+는/JX
+△연구개발(R&D)	△/SW+연구/NNG+개발/NNG+(/SS+R/SL+&/SW+D/SL+)/SS
+예산	예산/NNG
+중	중/NNB
+인적자본의	인/NNG+적/XSN+자본/NNG+의/JKG
+투자	투자/NNG
+비중을	비중/NNG+을/JKO
+10%가량	10/SN+%/SW+가량/XSN
+늘리며	늘리/VV+며/EC
+△산업계	△/SW+산업/NNG+계/XSN
+인력을	인력/NNG+을/JKO
+교수로	교수/NNG+로/JKB
+채용하고	채용/NNG+하/XSV+고/EC
+△60대	△/SW+60/SN+대/NNB
+퇴직	퇴직/NNG
+기술	기술/NNG
+인력이	인력/NNG+이/JKS
+20대	20/SN+대/NNB
+구직자와	구직자/NNG+와/JKB
+함께	함께/MAG
+개도국에서	개도국/NNG+에서/JKB
+컨설팅을	컨설팅/NNG+을/JKO
+진행하는	진행/NNG+하/XSV+는/ETM
+‘60+20	‘/SS+60/SN++/SW+20/SN
+프로젝트’	프로젝트/NNG+’/SS
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+내년에	내년/NNG+에/JKB
+모두	모두/MAG
+3만	3/SN+만/NR
+개의	개/NNB+의/JKG
+일자리를	일자리/NNG+를/JKO
+만들	만들/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것으로	것/NNB+으로/JKB
+내다봤다.	내다보/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.9.1
+이공계 인재를 장기적으로 관리하는 방안도 제시했다.
+
+이공계	이공/NNG+계/XSN
+인재를	인재/NNG+를/JKO
+장기적으로	장기/NNG+적/XSN+으로/JKB
+관리하는	관리/NNG+하/XSV+는/ETM
+방안도	방안/NNG+도/JX
+제시했다.	제시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.9.2
+지경부 산하의 산업기술진흥원에 기술인재관리센터를 설치해 국가기술인재를 선발한 뒤 데이터베이스(DB)로 구축할 예정이다.
+
+지경부	지경부/NNG
+산하의	산하/NNG+의/JKG
+산업기술진흥원에	산업기술진흥원/NNP+에/JKB
+기술인재관리센터를	기술/NNG+인재/NNG+관리/NNG+센터/NNG+를/JKO
+설치해	설치/NNG+하/XSV+아/EC
+국가기술인재를	국가/NNG+기술/NNG+인재/NNG+를/JKO
+선발한	선발/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+데이터베이스(DB)로	데이터베이스/NNG+(/SS+DB/SL+)/SS+로/JKB
+구축할	구축/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.9.3
+선발된 우수 인력들은 퇴직 후에도 교수, 교사, 기술·특허 컨설턴트로 활동할 수 있게 정부가 ‘커리어 패스’를 지원한다.
+
+선발된	선발/NNG+되/XSV+ㄴ/ETM
+우수	우수/NNG
+인력들은	인력/NNG+들/XSN+은/JX
+퇴직	퇴직/NNG
+후에도	후/NNG+에/JKB+도/JX
+교수,	교수/NNG+,/SP
+교사,	교사/NNG+,/SP
+기술·특허	기술/NNG+·/SP+특허/NNG
+컨설턴트로	컨설턴트/NNG+로/JKB
+활동할	활동/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+정부가	정부/NNG+가/JKS
+‘커리어	‘/SS+커리어/NNG
+패스’를	패스/NNG+’/SS+를/JKO
+지원한다.	지원/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000029.61.10.1
+이번 대책에서는 저소득층이 전문기술 인력으로 성장할 수 있는 지원책도 포함됐다.
+
+이번	이번/NNG
+대책에서는	대책/NNG+에서/JKB+는/JX
+저소득층이	저/XPN+소득/NNG+층/XSN+이/JKS
+전문기술	전문/NNG+기술/NNG
+인력으로	인력/NNG+으로/JKB
+성장할	성장/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+지원책도	지원책/NNG+도/JX
+포함됐다.	포함/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.10.2
+정부는 기업과 공동으로 취업연계형 산업기술장학금을 연간 1000명 규모로 지원할 예정이다.
+
+정부는	정부/NNG+는/JX
+기업과	기업/NNG+과/JKB
+공동으로	공동/NNG+으로/JKB
+취업연계형	취업/NNG+연계/NNG+형/XSN
+산업기술장학금을	산업/NNG+기술/NNG+장학금/NNG+을/JKO
+연간	연간/NNG
+1000명	1000/SN+명/NNB
+규모로	규모/NNG+로/JKB
+지원할	지원/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.10.3
+정부가 유망 중소기업과 함께 2년간 장학금을 지원한 뒤 졸업 후 해당 중소기업에 취업하는 방식이다.
+
+정부가	정부/NNG+가/JKS
+유망	유망/NNG
+중소기업과	중소기업/NNG+과/JKB
+함께	함께/MAG
+2년간	2/SN+년/NNB+간/XSN
+장학금을	장학금/NNG+을/JKO
+지원한	지원/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+졸업	졸업/NNG
+후	후/NNG
+해당	해당/NNG
+중소기업에	중소기업/NNG+에/JKB
+취업하는	취업/NNG+하/XSV+는/ETM
+방식이다.	방식/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.11.1
+최중경 지경부 장관은 “이번 대책은 정부가 전문기술 인력을 종합적으로 관리하는 방안을 만들었다는 데 의미가 있다”며 “연구개발 분야에서 양질의 신규 일자리를 만들어 청년실업 해소에도 기여하겠다”고 밝혔다.
+
+최중경	최중경/NNP
+지경부	지경부/NNG
+장관은	장관/NNG+은/JX
+“이번	“/SS+이번/NNG
+대책은	대책/NNG+은/JX
+정부가	정부/NNG+가/JKS
+전문기술	전문/NNG+기술/NNG
+인력을	인력/NNG+을/JKO
+종합적으로	종합/NNG+적/XSN+으로/JKB
+관리하는	관리/NNG+하/XSV+는/ETM
+방안을	방안/NNG+을/JKO
+만들었다는	만들/VV+었/EP+다는/ETM
+데	데/NNB
+의미가	의미/NNG+가/JKS
+있다”며	있/VA+다/EF+”/SS+며/EC
+“연구개발	“/SS+연구/NNG+개발/NNG
+분야에서	분야/NNG+에서/JKB
+양질의	양질/NNG+의/JKG
+신규	신규/NNG
+일자리를	일자리/NNG+를/JKO
+만들어	만들/VV+어/EC
+청년실업	청년/NNG+실업/NNG
+해소에도	해소/NNG+에/JKB+도/JX
+기여하겠다”고	기여/NNG+하/XSV+겠/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.61.12.1
+:: 탈피오트(Talpiot) ::
+
+::	:/SP+:/SP
+탈피오트(Talpiot)	탈피오트/NNP+(/SS+Talpiot/SL+)/SS
+
+
+# id : NWRW1800000029.61.13.1
+이스라엘 방위군(IDF)의 대표적인 첨단기술 부대.
+
+이스라엘	이스라엘/NNP
+방위군(IDF)의	방위군/NNG+(/SS+IDF/SL+)/SS+의/JKG
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+첨단기술	첨단/NNG+기술/NNG
+부대.	부대/NNG+./SF
+
+
+# id : NWRW1800000029.61.13.2
+이 부대를 거친 인력들은 군복무 기간 익힌 기술과 인적 네트워크를 활용해 벤처기업을 창업하고 있다.
+
+이	이/MMD
+부대를	부대/NNG+를/JKO
+거친	거치/VV+ㄴ/ETM
+인력들은	인력/NNG+들/XSN+은/JX
+군복무	군/NNG+복무/NNG
+기간	기간/NNG
+익힌	익히/VV+ㄴ/ETM
+기술과	기술/NNG+과/JC
+인적	인/NNG+적/XSN
+네트워크를	네트워크/NNG+를/JKO
+활용해	활용/NNG+하/XSV+아/EC
+벤처기업을	벤처/NNG+기업/NNG+을/JKO
+창업하고	창업/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+

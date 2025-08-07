@@ -1,0 +1,277 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000021.255
+metadata : {}
+
+
+# id : NWRW1800000021.255.1.1
+LG ‘휘센’ 기술 中경쟁사에 넘어갈뻔
+
+LG	LG/SL
+‘휘센’	‘/SS+휘센/NNP+’/SS
+기술	기술/NNG
+中경쟁사에	中/SH+경쟁사/NNG+에/JKB
+넘어갈뻔	넘어가/VV+ㄹ/ETM+뻔/NNB
+
+
+# id : NWRW1800000021.255.2.1
+LG전자 ‘휘센’ 에어컨에 사용된 ‘금속표면처리기술’ 등의 첨단기술을 중국 경쟁업체에 유출하려던 국내 벤처기업의 전 대표와 임원, 연구원 등 4명이 검찰에 적발됐다.
+
+LG전자	LG전자/NNP
+‘휘센’	‘/SS+휘센/NNP+’/SS
+에어컨에	에어컨/NNG+에/JKB
+사용된	사용/NNG+되/XSV+ㄴ/ETM
+‘금속표면처리기술’	‘/SS+금속/NNG+표면/NNG+처리/NNG+기술/NNG+’/SS
+등의	등/NNB+의/JKG
+첨단기술을	첨단/NNG+기술/NNG+을/JKO
+중국	중국/NNP
+경쟁업체에	경쟁업체/NNG+에/JKB
+유출하려던	유출/NNG+하/XSV+려던/ETM
+국내	국내/NNG
+벤처기업의	벤처/NNG+기업/NNG+의/JKG
+전	전/MMD
+대표와	대표/NNG+와/JC
+임원,	임원/NNG+,/SP
+연구원	연구원/NNG
+등	등/NNB
+4명이	4/SN+명/NNB+이/JKS
+검찰에	검찰/NNG+에/JKB
+적발됐다.	적발/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.3.1
+서울중앙지검 첨단범죄수사1부(부장 이혁)는 한국과학기술연구원(KIST)이 설립한 국내 벤처기업 P사에서 기술을 빼낸 혐의(부정경쟁 방지 및 영업비밀보호 등에 관한 법률 위반)로 이 회사 전 대표 고모 씨 등 2명을 구속 기소하고 이 회사 연구원 김모 씨 등 2명을 같은 혐의로 불구속 기소했다고 9일 밝혔다.
+
+서울중앙지검	서울중앙지검/NNP
+첨단범죄수사1부(부장	첨단/NNG+범죄/NNG+수사/NNG+1/SN+부/NNG+(/SS+부장/NNG
+이혁)는	이혁/NNP+)/SS+는/JX
+한국과학기술연구원(KIST)이	한국과학기술연구원/NNP+(/SS+KIST/SL+)/SS+이/JKS
+설립한	설립/NNG+하/XSV+ㄴ/ETM
+국내	국내/NNG
+벤처기업	벤처/NNG+기업/NNG
+P사에서	P/SL+사/NNG+에서/JKB
+기술을	기술/NNG+을/JKO
+빼낸	빼내/VV+ㄴ/ETM
+혐의(부정경쟁	혐의/NNG+(/SS+부정/NNG+경쟁/NNG
+방지	방지/NNG
+및	및/MAG
+영업비밀보호	영업/NNG+비밀/NNG+보호/NNG
+등에	등/NNB+에/JKB
+관한	관하/VV+ㄴ/ETM
+법률	법률/NNG
+위반)로	위반/NNG+)/SS+로/JKB
+이	이/MMD
+회사	회사/NNG
+전	전/MMD
+대표	대표/NNG
+고모	고/NNP+모/NP
+씨	씨/NNB
+등	등/NNB
+2명을	2/SN+명/NNB+을/JKO
+구속	구속/NNG
+기소하고	기소/NNG+하/XSV+고/EC
+연구원	연구원/NNG
+김모	김/NNP+모/NP
+같은	같/VA+은/ETM
+혐의로	혐의/NNG+로/JKB
+불구속	불/XPN+구속/NNG
+기소했다고	기소/NNG+하/XSV+았/EP+다고/EC
+9일	9/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.3.2
+중국으로 도피한 이모 씨 등 이 회사 연구원 2명은 기소중지했다.
+
+중국으로	중국/NNP+으로/JKB
+도피한	도피/NNG+하/XSV+ㄴ/ETM
+이모	이/NNP+모/NP
+씨	씨/NNB
+등	등/NNB
+이	이/MMD
+회사	회사/NNG
+연구원	연구원/NNG
+2명은	2/SN+명/NNB+은/JX
+기소중지했다.	기소/NNG+중지/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.4.1
+검찰에 따르면 미국 박사, 일본 대학 교수, KIST 선임연구원 등의 경력을 지닌 고 씨는 KIST가 특허기술을 상용화하기 위해 세운 P사의 대표를 맡고 있었지만 평소 성과급에 대한 불만이 컸다.
+
+검찰에	검찰/NNG+에/JKB
+따르면	따르/VV+면/EC
+미국	미국/NNP
+박사,	박사/NNG+,/SP
+일본	일본/NNP
+대학	대학/NNG
+교수,	교수/NNG+,/SP
+KIST	KIST/SL
+선임연구원	선임/NNG+연구원/NNG
+등의	등/NNB+의/JKG
+경력을	경력/NNG+을/JKO
+지닌	지니/VV+ㄴ/ETM
+고	고/NNP
+씨는	씨/NNB+는/JX
+KIST가	KIST/SL+가/JKS
+특허기술을	특허/NNG+기술/NNG+을/JKO
+상용화하기	상용/NNG+화/XSN+하/XSV+기/ETN
+위해	위하/VV+아/EC
+세운	세우/VV+ㄴ/ETM
+P사의	P/SL+사/NNG+의/JKG
+대표를	대표/NNG+를/JKO
+맡고	맡/VV+고/EC
+있었지만	있/VX+었/EP+지만/EC
+평소	평소/NNG
+성과급에	성과급/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+불만이	불만/NNG+이/JKS
+컸다.	크/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.4.2
+고 씨는 부하 연구원들과 함께 크게 ‘한탕’하기로 하고 지난해 10월부터 올 4월까지 회사를 차례로 그만두면서 에어컨 기술 관련 자료가 담긴 노트북 컴퓨터를 반납하지 않거나 외장메모리에 자료를 저장해 갖고 나오는 방법으로 ‘나노 파우더’ 등 네 가지 첨단기술을 조직적으로 유출했다.
+
+고	고/NNP
+씨는	씨/NNB+는/JX
+부하	부하/NNG
+연구원들과	연구원/NNG+들/XSN+과/JKB
+함께	함께/MAG
+크게	크/VA+게/EC
+‘한탕’하기로	‘/SS+한탕/NNG+’/SS+하/XSV+기/ETN+로/JKB
+하고	하/VV+고/EC
+지난해	지난해/NNG
+10월부터	10/SN+월/NNB+부터/JX
+올	올/NNG
+4월까지	4/SN+월/NNB+까지/JX
+회사를	회사/NNG+를/JKO
+차례로	차례/NNG+로/JKB
+그만두면서	그만두/VV+면서/EC
+에어컨	에어컨/NNG
+기술	기술/NNG
+관련	관련/NNG
+자료가	자료/NNG+가/JKS
+담긴	담기/VV+ㄴ/ETM
+노트북	노트북/NNG
+컴퓨터를	컴퓨터/NNG+를/JKO
+반납하지	반납/NNG+하/XSV+지/EC
+않거나	않/VX+거나/EC
+외장메모리에	외장/NNG+메모리/NNG+에/JKB
+자료를	자료/NNG+를/JKO
+저장해	저장/NNG+하/XSV+아/EC
+갖고	갖/VV+고/EC
+나오는	나오/VV+는/ETM
+방법으로	방법/NNG+으로/JKB
+‘나노	‘/SS+나노/NNG
+파우더’	파우더/NNG+’/SS
+등	등/NNB
+네	네/MMN
+가지	가지/NNB
+첨단기술을	첨단/NNG+기술/NNG+을/JKO
+조직적으로	조직/NNG+적/XSN+으로/JKB
+유출했다.	유출/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.4.3
+금속을 ‘나노(10억분의 1)’ 크기로 쪼개는 이 기술은 아직 상용화되진 않았지만 세계에서 한국이 유일한 기술보유국일 정도로 미래가치가 큰 첨단기술이다.
+
+금속을	금속/NNG+을/JKO
+‘나노(10억분의	‘/SS+나노/NNG+(/SS+10/SN+억/NR+분/XSN+의/JKG
+1)’	1/SN+)/SS+’/SS
+크기로	크기/NNG+로/JKB
+쪼개는	쪼개/VV+는/ETM
+이	이/MMD
+기술은	기술/NNG+은/JX
+아직	아직/MAG
+상용화되진	상용/NNG+화/XSN+되/XSV+지/EC+ㄴ/JX
+않았지만	않/VX+았/EP+지만/EC
+세계에서	세계/NNG+에서/JKB
+한국이	한국/NNP+이/JKS
+유일한	유일/NNG+하/XSA+ㄴ/ETM
+기술보유국일	기술/NNG+보유국/NNG+이/VCP+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+미래가치가	미래/NNG+가치/NNG+가/JKS
+큰	크/VA+ㄴ/ETM
+첨단기술이다.	첨단/NNG+기술/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.5.1
+지난해 10월 첨단기술을 손에 넣자 이들은 중국으로 곧장 달려가 ‘I사’를 차렸다.
+
+지난해	지난해/NNG
+10월	10/SN+월/NNB
+첨단기술을	첨단/NNG+기술/NNG+을/JKO
+손에	손/NNG+에/JKB
+넣자	넣/VV+자/EC
+이들은	이/NP+들/XSN+은/JX
+중국으로	중국/NNP+으로/JKB
+곧장	곧장/MAG
+달려가	달려가/VV+아/EC
+‘I사’를	‘/SS+I/SL+사/NNG+’/SS+를/JKO
+차렸다.	차리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.5.2
+먼저 관련 제품 상용화를 노렸지만 여의치 않자 이들은 세계적인 에어컨 생산업체인 중국의 한 기업에 이 기술을 넘겨주고 80억 원을 받기로 했다.
+
+먼저	먼저/MAG
+관련	관련/NNG
+제품	제품/NNG
+상용화를	상용/NNG+화/XSN+를/JKO
+노렸지만	노리/VV+었/EP+지만/EC
+여의치	여의하/VA+지/EC
+않자	않/VX+자/EC
+이들은	이/NP+들/XSN+은/JX
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+에어컨	에어컨/NNG
+생산업체인	생산업체/NNG+이/VCP+ㄴ/ETM
+중국의	중국/NNP+의/JKG
+한	한/MMN
+기업에	기업/NNG+에/JKB
+이	이/MMD
+기술을	기술/NNG+을/JKO
+넘겨주고	넘겨주/VV+고/EC
+80억	80/SN+억/NR
+원을	원/NNB+을/JKO
+받기로	받/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.5.3
+하지만 국가정보원과 검찰이 범죄첩보를 입수하면서 이들의 범행은 막을 내렸다.
+
+하지만	하지만/MAJ
+국가정보원과	국가/NNG+정보원/NNG+과/JC
+검찰이	검찰/NNG+이/JKS
+범죄첩보를	범죄/NNG+첩보/NNG+를/JKO
+입수하면서	입수/NNG+하/XSV+면서/EC
+이들의	이/NP+들/XSN+의/JKG
+범행은	범행/NNG+은/JX
+막을	막/NNG+을/JKO
+내렸다.	내리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.255.5.4
+이 부장검사는 “기술이 중국 업체에 유출됐다면 LG전자가 매출 감소 등으로 1200억 원가량의 손실을 볼 것으로 추산됐다”고 말했다.
+
+이	이/NNP
+부장검사는	부장/NNG+검사/NNG+는/JX
+“기술이	“/SS+기술/NNG+이/JKS
+중국	중국/NNP
+업체에	업체/NNG+에/JKB
+유출됐다면	유출/NNG+되/XSV+었/EP+다면/EC
+LG전자가	LG전자/NNP+가/JKS
+매출	매출/NNG
+감소	감소/NNG
+등으로	등/NNB+으로/JKB
+1200억	1200/SN+억/NR
+원가량의	원/NNB+가량/XSN+의/JKG
+손실을	손실/NNG+을/JKO
+볼	보/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+추산됐다”고	추산/NNG+되/XSV+었/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

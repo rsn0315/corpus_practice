@@ -1,0 +1,235 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000029.181
+metadata : {}
+
+
+# id : NWRW1800000029.181.1.1
+[휴지통]만취운전 ‘자동차 판매왕’ 가수 KCM 車 쿵!
+
+[휴지통]만취운전	[/SS+휴지통/NNG+]/SS+만취/NNG+운전/NNG
+‘자동차	‘/SS+자동차/NNG
+판매왕’	판매왕/NNG+’/SS
+가수	가수/NNG
+KCM	KCM/SL
+車	車/SH
+쿵!	쿵/MAG+!/SF
+
+
+# id : NWRW1800000029.181.2.1
+“우리 매형-누나가 판검사” 횡설수설… 채혈거부 면허취소
+
+“우리	“/SS+우리/NP
+매형-누나가	매형/NNG+-/SO+누나/NNG+가/JKS
+판검사”	판검사/NNG+”/SS
+횡설수설…	횡설수설/NNG+…/SE
+채혈거부	채혈/NNG+거부/NNG
+면허취소	면허/NNG+취소/NNG
+
+
+# id : NWRW1800000029.181.3.1
+만취한 ‘자동차 판매왕’이 음주운전을 하다 가수 KCM(본명 강창모)의 BMW 차량을 들이받았다.
+
+만취한	만취/NNG+하/XSV+ㄴ/ETM
+‘자동차	‘/SS+자동차/NNG
+판매왕’이	판매왕/NNG+’/SS+이/JKS
+음주운전을	음주/NNG+운전/NNG+을/JKO
+하다	하/VV+다/EC
+가수	가수/NNG
+KCM(본명	KCM/SL+(/SS+본명/NNG
+강창모)의	강창모/NNP+)/SS+의/JKG
+BMW	BMW/SL
+차량을	차량/NNG+을/JKO
+들이받았다.	들이받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.3.2
+4일 오후 8시경 KCM은 예정돼 있던 행사 스케줄이 취소돼 자신의 BMW X6 차량을 몰고 집으로 돌아가던 중이었다.
+
+4일	4/SN+일/NNB
+오후	오후/NNG
+8시경	8/SN+시/NNB+경/XSN
+KCM은	KCM/SL+은/JX
+예정돼	예정/NNG+되/XSV+어/EC
+있던	있/VX+던/ETM
+행사	행사/NNG
+스케줄이	스케줄/NNG+이/JKS
+취소돼	취소/NNG+되/XSV+어/EC
+자신의	자신/NNG+의/JKG
+BMW	BMW/SL
+X6	X/SL+6/SN
+차량을	차량/NNG+을/JKO
+몰고	몰/VV+고/EC
+집으로	집/NNG+으로/JKB
+돌아가던	돌아가/VV+던/ETM
+중이었다.	중/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.3.3
+서울 서초구 서초동 5차로에서 신호가 바뀌길 기다리고 있었는데 갑자기 뒤에서 알페온 차량 한 대가 50km 속도로 돌진해 왔다.
+
+서울	서울/NNP
+서초구	서초구/NNP
+서초동	서초동/NNP
+5차로에서	5/SN+차로/NNG+에서/JKB
+신호가	신호/NNG+가/JKS
+바뀌길	바뀌/VV+기/ETN+ㄹ/JKO
+기다리고	기다리/VV+고/EC
+있었는데	있/VX+었/EP+는데/EC
+갑자기	갑자기/MAG
+뒤에서	뒤/NNG+에서/JKB
+알페온	알페온/NNP
+차량	차량/NNG
+한	한/MMN
+대가	대/NNB+가/JKS
+50km	50/SN+km/SW
+속도로	속도/NNG+로/JKB
+돌진해	돌진/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.3.4
+이 차는 KCM 차량 뒤에 서 있던 노모 씨(57·여)의 뉴SM5 옆문과 BMW 뒤 범퍼를 잇달아 들이받은 뒤 멈춰 섰다.
+
+이	이/MMD
+차는	차/NNG+는/JX
+KCM	KCM/SL
+차량	차량/NNG
+뒤에	뒤/NNG+에/JKB
+서	서/VV+어/EC
+있던	있/VX+던/ETM
+노모	노/NNP+모/NP
+씨(57·여)의	씨/NNB+(/SS+57/SN+·/SP+여/NNG+)/SS+의/JKG
+뉴SM5	뉴SM5/NNP
+옆문과	옆문/NNG+과/JC
+BMW	BMW/SL
+뒤	뒤/NNG
+범퍼를	범퍼/NNG+를/JKO
+잇달아	잇달/VV+아/EC
+들이받은	들이받/VV+은/ETM
+멈춰	멈추/VV+어/EC
+섰다.	서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.4.1
+사고를 낸 알페온 운전자 원모 씨(36)는 국내 한 자동차업체의 ‘잘나가는’ 영업사원이었다.
+
+사고를	사고/NNG+를/JKO
+낸	내/VV+ㄴ/ETM
+알페온	알페온/NNP
+운전자	운전자/NNG
+원모	원/NNP+모/NP
+씨(36)는	씨/NNB+(/SS+36/SN+)/SS+는/JX
+국내	국내/NNG
+한	한/MMN
+자동차업체의	자동차/NNG+업체/NNG+의/JKG
+‘잘나가는’	‘/SS+잘나가/VV+는/ETM+’/SS
+영업사원이었다.	영업/NNG+사원/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.4.2
+5일 서초경찰서에 따르면 원 씨는 강남구 개포동에서 열린 회사 신년회에 참석해 소주 1병 반을 마신 뒤 자신의 승용차를 운전해 송파구 집으로 돌아가는 길이었다.
+
+5일	5/SN+일/NNB
+서초경찰서에	서초경찰서/NNP+에/JKB
+따르면	따르/VV+면/EC
+원	원/NNP
+씨는	씨/NNB+는/JX
+강남구	강남구/NNP
+개포동에서	개포동/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+회사	회사/NNG
+신년회에	신년회/NNG+에/JKB
+참석해	참석/NNG+하/XSV+아/EC
+소주	소주/NNG
+1병	1/SN+병/NNG
+반을	반/NNG+을/JKO
+마신	마시/VV+ㄴ/ETM
+뒤	뒤/NNG
+자신의	자신/NNG+의/JKG
+승용차를	승용차/NNG+를/JKO
+운전해	운전/NNG+하/XSV+아/EC
+송파구	송파구/NNP
+집으로	집/NNG+으로/JKB
+돌아가는	돌아가/VV+는/ETM
+길이었다.	길/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.5.1
+경찰 관계자는 “원 씨가 지난해 ‘이달의 판매왕상’을 두 차례 받는 등 잘나가는 ‘자동차 판매왕’이라고 자신을 소개했다”며 “워낙 만취한 상태여서 추가로 불러 조사를 할 계획”이라고 말했다.
+
+경찰	경찰/NNG
+관계자는	관계자/NNG+는/JX
+“원	“/SS+원/NNP
+씨가	씨/NNB+가/JKS
+지난해	지난해/NNG
+‘이달의	‘/SS+이달/NNG+의/JKG
+판매왕상’을	판매왕/NNG+상/NNG+’/SS+을/JKO
+두	두/MMN
+차례	차례/NNG
+받는	받/VV+는/ETM
+등	등/NNB
+잘나가는	잘나가/VV+는/ETM
+‘자동차	‘/SS+자동차/NNG
+판매왕’이라고	판매왕/NNG+’/SS+이라고/JKQ
+자신을	자신/NNG+을/JKO
+소개했다”며	소개/NNG+하/XSV+았/EP+다/EF+”/SS+며/EC
+“워낙	“/SS+워낙/MAG
+만취한	만취/NNG+하/XSV+ㄴ/ETM
+상태여서	상태/NNG+이/VCP+어서/EC
+추가로	추가/NNG+로/JKB
+불러	부르/VV+어/EC
+조사를	조사/NNG+를/JKO
+할	하/VV+ㄹ/ETM
+계획”이라고	계획/NNG+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.5.2
+원 씨는 경찰서에서 “우리 누나가 검사고 매형이 판사”라며 음주 측정과 채혈을 거부해 자동으로 면허가 취소됐다.
+
+원	원/NNP
+씨는	씨/NNB+는/JX
+경찰서에서	경찰서/NNG+에서/JKB
+“우리	“/SS+우리/NP
+누나가	누나/NNG+가/JKS
+검사고	검사/NNG+이/VCP+고/EC
+매형이	매형/NNG+이/JKS
+판사”라며	판사/NNG+”/SS+이/VCP+라며/EC
+음주	음주/NNG
+측정과	측정/NNG+과/JC
+채혈을	채혈/NNG+을/JKO
+거부해	거부/NNG+하/XSV+아/EC
+자동으로	자동/NNG+으로/JKB
+면허가	면허/NNG+가/JKS
+취소됐다.	취소/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.181.5.3
+원 씨의 회사 관계자는 “지난해 8월 이직한 원 씨가 4개월여 만에 17대를 판매하는 등 실적이 좋아 내부적으로 ‘에이스’로 인정받아 왔다”고 전했다.
+
+원	원/NNP
+씨의	씨/NNB+의/JKG
+회사	회사/NNG
+관계자는	관계자/NNG+는/JX
+“지난해	“/SS+지난해/NNG
+8월	8/SN+월/NNB
+이직한	이직/NNG+하/XSV+ㄴ/ETM
+씨가	씨/NNB+가/JKS
+4개월여	4/SN+개월/NNB+여/XSN
+만에	만/NNB+에/JKB
+17대를	17/SN+대/NNB+를/JKO
+판매하는	판매/NNG+하/XSV+는/ETM
+등	등/NNB
+실적이	실적/NNG+이/JKS
+좋아	좋/VA+아/EC
+내부적으로	내부/NNG+적/XSN+으로/JKB
+‘에이스’로	‘/SS+에이스/NNG+’/SS+로/JKB
+인정받아	인정/NNG+받/XSV+아/EC
+왔다”고	오/VX+았/EP+다/EF+”/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+

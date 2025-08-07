@@ -1,0 +1,247 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.361
+metadata : {}
+
+
+# id : NWRW1800000038.361.1.1
+YS, 폐렴으로 서울대병원 중환자실에
+
+YS,	YS/SL+,/SP
+폐렴으로	폐렴/NNG+으로/JKB
+서울대병원	서울대병원/NNP
+중환자실에	중환자실/NNG+에/JKB
+
+
+# id : NWRW1800000038.361.2.1
+의식 또렷, 위중상태 아닌 듯
+
+의식	의식/NNG
+또렷,	또렷/XR+,/SP
+위중상태	위중/XR+상태/NNG
+아닌	아니/VCN+ㄴ/ETM
+듯	듯/NNB
+
+
+# id : NWRW1800000038.361.3.1
+지난 5일 감기 증세로 서울대병원에 입원한 김영삼(86·사진) 전 대통령이 중환자실에서 집중 치료를 받고 있는 것으로 알려졌다.
+
+지난	지나/VV+ㄴ/ETM
+5일	5/SN+일/NNB
+감기	감기/NNG
+증세로	증세/NNG+로/JKB
+서울대병원에	서울대병원/NNP+에/JKB
+입원한	입원/NNG+하/XSV+ㄴ/ETM
+김영삼(86·사진)	김영삼/NNP+(/SS+86/SN+·/SP+사진/NNG+)/SS
+전	전/MMD
+대통령이	대통령/NNG+이/JKS
+중환자실에서	중환자실/NNG+에서/JKB
+집중	집중/NNG
+치료를	치료/NNG+를/JKO
+받고	받/VV+고/EC
+있는	있/VX+는/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.361.4.1
+김 전 대통령의 김기수 비서실장은 14일 본지와 통화해 "(김 전 대통령이) 폐렴에 걸렸고 지난 11일 염증 수치가 너무 올라가 중환자실로 옮겨 집중 치료를 계속 받고 있다"며 "맑은 공기를 공급하는 장치를 입과 코에 연결해 말을 하기 어렵다"고 말했다.
+
+김	김/NNP
+전	전/MMD
+대통령의	대통령/NNG+의/JKG
+김기수	김기수/NNP
+비서실장은	비서실장/NNG+은/JX
+14일	14/SN+일/NNB
+본지와	본지/NNG+와/JKB
+통화해	통화/NNG+하/XSV+아/EC
+"(김	"/SS+(/SS+김/NNP
+대통령이)	대통령/NNG+이/JKS+)/SS
+폐렴에	폐렴/NNG+에/JKB
+걸렸고	걸리/VV+었/EP+고/EC
+지난	지나/VV+ㄴ/ETM
+11일	11/SN+일/NNB
+염증	염증/NNG
+수치가	수치/NNG+가/JKS
+너무	너무/MAG
+올라가	올라가/VV+아/EC
+중환자실로	중환자실/NNG+로/JKB
+옮겨	옮기/VV+어/EC
+집중	집중/NNG
+치료를	치료/NNG+를/JKO
+계속	계속/MAG
+받고	받/VV+고/EC
+있다"며	있/VX+다/EF+"/SS+며/EC
+"맑은	"/SS+맑/VA+은/ETM
+공기를	공기/NNG+를/JKO
+공급하는	공급/NNG+하/XSV+는/ETM
+장치를	장치/NNG+를/JKO
+입과	입/NNG+과/JC
+코에	코/NNG+에/JKB
+연결해	연결/NNG+하/XSV+아/EC
+말을	말/NNG+을/JKO
+하기	하/VV+기/ETN
+어렵다"고	어렵/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.361.4.2
+하지만 김 전 대통령이 위중한 상태는 아닌 것으로 전해졌다.
+
+하지만	하지만/MAJ
+김	김/NNP
+전	전/MMD
+대통령이	대통령/NNG+이/JKS
+위중한	위중하/VA+ㄴ/ETM
+상태는	상태/NNG+는/JX
+아닌	아니/VCN+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+전해졌다.	전하/VV+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.361.4.3
+김 실장은 "의식이 또렷하고 기억력도 문제없다"며 "중환자실에서 집중 치료한 효과가 있어 염증 수치가 낮아졌고 호흡도 자력으로 할 수 있다"고 했다.
+
+김	김/NNP
+실장은	실장/NNG+은/JX
+"의식이	"/SS+의식/NNG+이/JKS
+또렷하고	또렷하/VA+고/EC
+기억력도	기억력/NNG+도/JX
+문제없다"며	문제없/VA+다/EF+"/SS+며/EC
+"중환자실에서	"/SS+중환자실/NNG+에서/JKB
+집중	집중/NNG
+치료한	치료/NNG+하/XSV+ㄴ/ETM
+효과가	효과/NNG+가/JKS
+있어	있/VA+어/EC
+염증	염증/NNG
+수치가	수치/NNG+가/JKS
+낮아졌고	낮/VA+아/EC+지/VX+었/EP+고/EC
+호흡도	호흡/NNG+도/JX
+자력으로	자력/NNG+으로/JKB
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.361.5.1
+김 전 대통령은 기침을 동반한 단순 감기로 입원했지만 폐렴으로 번져 고열과 심한 염증이 동반된 상태로 악화됐다.
+
+김	김/NNP
+전	전/MMD
+대통령은	대통령/NNG+은/JX
+기침을	기침/NNG+을/JKO
+동반한	동반/NNG+하/XSV+ㄴ/ETM
+단순	단순/NNG
+감기로	감기/NNG+로/JKB
+입원했지만	입원/NNG+하/XSV+았/EP+지만/EC
+폐렴으로	폐렴/NNG+으로/JKB
+번져	번지/VV+어/EC
+고열과	고열/NNG+과/JC
+심한	심하/VA+ㄴ/ETM
+염증이	염증/NNG+이/JKS
+동반된	동반/NNG+되/XSV+ㄴ/ETM
+상태로	상태/NNG+로/JKB
+악화됐다.	악화/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.361.5.2
+건강한 사람에게 폐렴은 큰 문제가 되지 않지만, 폐렴이 잘 낫지 않고 고열이 지속되면 전신성염증반응증후군(SIRS·Systemic Inflammatory Response Syndrome)으로 진행된다.
+
+건강한	건강/NNG+하/XSA+ㄴ/ETM
+사람에게	사람/NNG+에게/JKB
+폐렴은	폐렴/NNG+은/JX
+큰	크/VA+ㄴ/ETM
+문제가	문제/NNG+가/JKC
+되지	되/VV+지/EC
+않지만,	않/VX+지만/EC+,/SP
+폐렴이	폐렴/NNG+이/JKS
+잘	잘/MAG
+낫지	낫/VV+지/EC
+않고	않/VX+고/EC
+고열이	고열/NNG+이/JKS
+지속되면	지속/NNG+되/XSV+면/EC
+전신성염증반응증후군(SIRS·Systemic	전신/NNG+성/XSN+염증/NNG+반응/NNG+증후군/NNG+(/SS+SIRS/SL+·/SP+Systemic/SL
+Inflammatory	Inflammatory/SL
+Response	Response/SL
+Syndrome)으로	Syndrome/SL+)/SS+으로/JKB
+진행된다.	진행/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.361.5.3
+이는 자칫하면 생명을 위협할 수 있는 '패혈증'으로 순식간에 진행될 수 있어 집중 관찰이 필요하다.
+
+이는	이/NP+는/JX
+자칫하면	자칫/MAG+하/XSV+면/EC
+생명을	생명/NNG+을/JKO
+위협할	위협/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+'패혈증'으로	'/SS+패혈증/NNG+'/SS+으로/JKB
+순식간에	순식/NNG+간/XSN+에/JKB
+진행될	진행/NNG+되/XSV+ㄹ/ETM
+있어	있/VA+어/EC
+집중	집중/NNG
+관찰이	관찰/NNG+이/JKS
+필요하다.	필요/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000038.361.6.1
+김 전 대통령은 이르면 오는 17일 일반 병실로 다시 옮길 전망이다.
+
+김	김/NNP
+전	전/MMD
+대통령은	대통령/NNG+은/JX
+이르면	이르/VA+면/EC
+오는	오/VV+는/ETM
+17일	17/SN+일/NNB
+일반	일반/NNG
+병실로	병실/NNG+로/JKB
+다시	다시/MAG
+옮길	옮기/VV+ㄹ/ETM
+전망이다.	전망/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.361.6.2
+이후 바로 퇴원하지는 않고 어느 정도 원기를 회복한 뒤 귀가할 예정이라 상당 기간 입원해있을 것으로 보인다.
+
+이후	이후/NNG
+바로	바로/MAG
+퇴원하지는	퇴원/NNG+하/XSV+지/EC+는/JX
+않고	않/VX+고/EC
+어느	어느/MMD
+정도	정도/NNG
+원기를	원기/NNG+를/JKO
+회복한	회복/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+귀가할	귀가/NNG+하/XSV+ㄹ/ETM
+예정이라	예정/NNG+이/VCP+라/EC
+상당	상당/NNG
+기간	기간/NNG
+입원해있을	입원/NNG+하/XSV+아/EC+있/VX+을/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.361.7.1
+김 전 대통령은 작년에도 4월과 7월 두 차례 감기 증상으로 서울대병원에 입원한 적이 있다.
+
+김	김/NNP
+전	전/MMD
+대통령은	대통령/NNG+은/JX
+작년에도	작년/NNG+에/JKB+도/JX
+4월과	4/SN+월/NNB+과/JC
+7월	7/SN+월/NNB
+두	두/MMN
+차례	차례/NNG
+감기	감기/NNG
+증상으로	증상/NNG+으로/JKB
+서울대병원에	서울대병원/NNP+에/JKB
+입원한	입원/NNG+하/XSV+ㄴ/ETM
+적이	적/NNB+이/JKS
+있다.	있/VA+다/EF+./SF
+
+

@@ -1,0 +1,269 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.51
+metadata : {}
+
+
+# id : NWRW1800000046.51.1.1
+'아시아 베스트 레스토랑 50'에 한국 음식점 3곳 선정
+
+'아시아	'/SS+아시아/NNP
+베스트	베스트/NNG
+레스토랑	레스토랑/NNG
+50'에	50/SN+'/SS+에/JKB
+한국	한국/NNP
+음식점	음식점/NNG
+3곳	3/SN+곳/NNG
+선정	선정/NNG
+
+
+# id : NWRW1800000046.51.2.1
+'정식당', 지난해 20위서 10위로… '류니끄' 27위·신라호텔 '라연' 38위
+
+'정식당',	'/SS+정식당/NNP+'/SS+,/SP
+지난해	지난해/NNG
+20위서	20/SN+위/NNB+서/JKB
+10위로…	10/SN+위/NNB+로/JKB+…/SE
+'류니끄'	'/SS+류니끄/NNP+'/SS
+27위·신라호텔	27/SN+위/NNB+·/SP+신라호텔/NNP
+'라연'	'/SS+라연/NNP+'/SS
+38위	38/SN+위/NNB
+
+
+# id : NWRW1800000046.51.3.1
+아시아 최고의 음식점을 가리는 '아시아 베스트 레스토랑 50'(Asia's 50 Best Restaurants·이하 A50B)에 한국 음식점 3곳이 선정됐다.
+
+아시아	아시아/NNP
+최고의	최고/NNG+의/JKG
+음식점을	음식점/NNG+을/JKO
+가리는	가리/VV+는/ETM
+'아시아	'/SS+아시아/NNP
+베스트	베스트/NNG
+레스토랑	레스토랑/NNG
+50'(Asia's	50/SN+'/SS+(/SS+Asia/SL+'/SS+s/SL
+50	50/SN
+Best	Best/SL
+Restaurants·이하	Restaurants/SL+·/SP+이하/NNG
+A50B)에	A/SL+50/SN+B/SL+)/SS+에/JKB
+한국	한국/NNP
+음식점	음식점/NNG
+3곳이	3/SN+곳/NNG+이/JKS
+선정됐다.	선정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.3.2
+9일 밤 싱가포르에서 발표된 A50B에서 서울 청담동 '정식당'이 10위, 신사동 '류니끄'가 27위, 신라호텔 '라연'이 38위에 선정됐다.
+
+9일	9/SN+일/NNB
+밤	밤/NNG
+싱가포르에서	싱가포르/NNP+에서/JKB
+발표된	발표/NNG+되/XSV+ㄴ/ETM
+A50B에서	A/SL+50/SN+B/SL+에서/JKB
+서울	서울/NNP
+청담동	청담동/NNP
+'정식당'이	'/SS+정식당/NNP+'/SS+이/JKS
+10위,	10/SN+위/NNB+,/SP
+신사동	신사동/NNP
+'류니끄'가	'/SS+류니끄/NNP+'/SS+가/JKS
+27위,	27/SN+위/NNB+,/SP
+신라호텔	신라호텔/NNP
+'라연'이	'/SS+라연/NNP+'/SS+이/JKS
+38위에	38/SN+위/NNB+에/JKB
+선정됐다.	선정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.3.3
+'정식당'은 지난해 20위에서 순위가 성큼 뛰어올랐다.
+
+'정식당'은	'/SS+정식당/NNP+'/SS+은/JX
+지난해	지난해/NNG
+20위에서	20/SN+위/NNB+에서/JKB
+순위가	순위/NNG+가/JKS
+성큼	성큼/MAG
+뛰어올랐다.	뛰어오르/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.3.4
+'류니끄'와 '라연'은 올해 처음 A50B에 진입했다.
+
+'류니끄'와	'/SS+류니끄/NNP+'/SS+와/JC
+'라연'은	'/SS+라연/NNP+'/SS+은/JX
+올해	올해/NNG
+처음	처음/NNG
+A50B에	A/SL+50/SN+B/SL+에/JKB
+진입했다.	진입/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.4.1
+이번 A50B에 선정된 한국의 음식점 세 곳은 한식과 한국 식재료에 현대적으로 재해석한 음식을 낸다는 공통점을 지녔다.
+
+이번	이번/NNG
+A50B에	A/SL+50/SN+B/SL+에/JKB
+선정된	선정/NNG+되/XSV+ㄴ/ETM
+한국의	한국/NNP+의/JKG
+음식점	음식점/NNG
+세	세/MMN
+곳은	곳/NNG+은/JX
+한식과	한식/NNG+과/JC
+한국	한국/NNP
+식재료에	식재료/NNG+에/JKB
+현대적으로	현대/NNG+적/XSN+으로/JKB
+재해석한	재/XPN+해석/NNG+하/XSV+ㄴ/ETM
+음식을	음식/NNG+을/JKO
+낸다는	내/VV+ㄴ다는/ETM
+공통점을	공통점/NNG+을/JKO
+지녔다.	지니/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.4.2
+서울 본점과 뉴욕점이 있는 '정식당'은 참기름을 살짝 친 김칫국물을 소스로 쓴 '정식 스테이크'로 레스토랑 가이드 미슐랭 뉴욕판으로부터 별 2개를 획득했다.
+
+서울	서울/NNP
+본점과	본점/NNG+과/JC
+뉴욕점이	뉴욕점/NNG+이/JKS
+있는	있/VA+는/ETM
+'정식당'은	'/SS+정식당/NNP+'/SS+은/JX
+참기름을	참기름/NNG+을/JKO
+살짝	살짝/MAG
+친	치/VV+ㄴ/ETM
+김칫국물을	김칫국물/NNG+을/JKO
+소스로	소스/NNG+로/JKB
+쓴	쓰/VV+ㄴ/ETM
+'정식	'/SS+정식/NNG
+스테이크'로	스테이크/NNG+'/SS+로/JKB
+레스토랑	레스토랑/NNG
+가이드	가이드/NNG
+미슐랭	미슐랭/NNP
+뉴욕판으로부터	뉴욕판/NNG+으로부터/JKB
+별	별/NNG
+2개를	2/SN+개/NNB+를/JKO
+획득했다.	획득/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.4.3
+'류니끄'는 첨단 요리기법을 활용한 프랑스 음식을 내지만 간장소스, 새우장, 숙주 같은 한국 재료를 다양하게 사용한다.
+
+'류니끄'는	'/SS+류니끄/NNP+'/SS+는/JX
+첨단	첨단/NNG
+요리기법을	요리/NNG+기법/NNG+을/JKO
+활용한	활용/NNG+하/XSV+ㄴ/ETM
+프랑스	프랑스/NNP
+음식을	음식/NNG+을/JKO
+내지만	내/VV+지만/EC
+간장소스,	간장소스/NNG+,/SP
+새우장,	새우장/NNG+,/SP
+숙주	숙주/NNG
+같은	같/VA+은/ETM
+한국	한국/NNP
+재료를	재료/NNG+를/JKO
+다양하게	다양/NNG+하/XSA+게/EC
+사용한다.	사용/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.51.4.4
+'라연'은 "전통 한식을 흠잡을 데 없이 세련되고 정제된 형태로 내놓는다"는 평가와 함께 '주목할 만한 식당(One to Watch)'상을 받았다.
+
+'라연'은	'/SS+라연/NNP+'/SS+은/JX
+"전통	"/SS+전통/NNG
+한식을	한식/NNG+을/JKO
+흠잡을	흠잡/VV+을/ETM
+데	데/NNB
+없이	없이/MAG
+세련되고	세련/NNG+되/XSA+고/EC
+정제된	정제/NNG+되/XSV+ㄴ/ETM
+형태로	형태/NNG+로/JKB
+내놓는다"는	내놓/VV+는다/EF+"/SS+는/ETM
+평가와	평가/NNG+와/JKB
+함께	함께/MAG
+'주목할	'/SS+주목/NNG+하/XSV+ㄹ/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+식당(One	식당/NNG+(/SS+One/SL
+to	to/SL
+Watch)'상을	Watch/SL+)/SS+'/SS+상/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.5.1
+아시아 최고 레스토랑의 영예는 태국 방콕에 있는 인도 음식점 '가간'이 차지했다.
+
+아시아	아시아/NNP
+최고	최고/NNG
+레스토랑의	레스토랑/NNG+의/JKG
+영예는	영예/NNG+는/JX
+태국	태국/NNP
+방콕에	방콕/NNP+에/JKB
+있는	있/VA+는/ETM
+인도	인도/NNP
+음식점	음식점/NNG
+'가간'이	'/SS+가간/NNP+'/SS+이/JKS
+차지했다.	차지/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.5.2
+일본 도쿄 '나리사와'가 2위, 중국 상하이 '울트라바이올렛'이 3위, 도쿄 '니혼료리 류진'이 4위, 싱가포르 '안드레'가 5위에 올랐다.
+
+일본	일본/NNP
+도쿄	도쿄/NNP
+'나리사와'가	'/SS+나리사와/NNP+'/SS+가/JKS
+2위,	2/SN+위/NNB+,/SP
+중국	중국/NNP
+상하이	상하이/NNP
+'울트라바이올렛'이	'/SS+울트라바이올렛/NNP+'/SS+이/JKS
+3위,	3/SN+위/NNB+,/SP
+'니혼료리	'/SS+니혼료리/NNP
+류진'이	류진/NNP+'/SS+이/JKS
+4위,	4/SN+위/NNB+,/SP
+싱가포르	싱가포르/NNP
+'안드레'가	'/SS+안드레/NNP+'/SS+가/JKS
+5위에	5/SN+위/NNB+에/JKB
+올랐다.	오르/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.5.3
+국가별로는 중국이 16개로 가장 많은 식당이 A50B에 선정됐고, 싱가포르(10개)와 일본(8개)이 뒤를 이었다.
+
+국가별로는	국가/NNG+별/XSN+로/JKB+는/JX
+중국이	중국/NNP+이/JKS
+16개로	16/SN+개/NNB+로/JKB
+가장	가장/MAG
+많은	많/VA+은/ETM
+식당이	식당/NNG+이/JKS
+A50B에	A/SL+50/SN+B/SL+에/JKB
+선정됐고,	선정/NNG+되/XSV+었/EP+고/EC+,/SP
+싱가포르(10개)와	싱가포르/NNP+(/SS+10/SN+개/NNB+)/SS+와/JC
+일본(8개)이	일본/NNP+(/SS+8/SN+개/NNB+)/SS+이/JKS
+뒤를	뒤/NNG+를/JKO
+이었다.	잇/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.51.5.4
+지난해 '정식당' 한 곳에서 3곳으로 늘어난 한국에 대해 A50B를 주최하는 영국 외식 전문지 '레스토랑'은 "아시아 외식계에서 한국의 영향력이 커지고 있음을 반영하고 있다"고 평했다.
+
+지난해	지난해/NNG
+'정식당'	'/SS+정식당/NNP+'/SS
+한	한/MMN
+곳에서	곳/NNG+에서/JKB
+3곳으로	3/SN+곳/NNG+으로/JKB
+늘어난	늘어나/VV+ㄴ/ETM
+한국에	한국/NNP+에/JKB
+대해	대하/VV+아/EC
+A50B를	A/SL+50/SN+B/SL+를/JKO
+주최하는	주최/NNG+하/XSV+는/ETM
+영국	영국/NNP
+외식	외식/NNG
+전문지	전문지/NNG
+'레스토랑'은	'/SS+레스토랑/NNG+'/SS+은/JX
+"아시아	"/SS+아시아/NNP
+외식계에서	외식/NNG+계/XSN+에서/JKB
+한국의	한국/NNP+의/JKG
+영향력이	영향력/NNG+이/JKS
+커지고	커지/VV+고/EC
+있음을	있/VX+음/ETN+을/JKO
+반영하고	반영/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+평했다.	평/NNG+하/XSV+았/EP+다/EF+./SF
+
+

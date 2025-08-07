@@ -1,0 +1,75 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.74
+metadata : {}
+
+
+# id : NWRW1800000026.74.1.1
+LPG 공급가격 최고 5.9% 인상
+
+LPG	LPG/SL
+공급가격	공급/NNG+가격/NNG
+최고	최고/NNG
+5.9%	5/SN+./SP+9/SN+%/SW
+인상	인상/NNG
+
+
+# id : NWRW1800000026.74.2.1
+이달 액화석유가스(LPG) 공급가격이 오른다.
+
+이달	이달/NNG
+액화석유가스(LPG)	액화/NNG+석유/NNG+가스/NNG+(/SS+LPG/SL+)/SS
+공급가격이	공급/NNG+가격/NNG+이/JKS
+오른다.	오르/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.74.2.2
+SK가스가 3월 충전소에 공급하는 가정용 프로판가스 가격은 ㎏당 1150.82원으로 2월보다 65.14원(5.9%) 인상된다.
+
+SK가스가	SK가스/NNP+가/JKS
+3월	3/SN+월/NNB
+충전소에	충전소/NNG+에/JKB
+공급하는	공급/NNG+하/XSV+는/ETM
+가정용	가정/NNG+용/XSN
+프로판가스	프로판/NNG+가스/NNG
+가격은	가격/NNG+은/JX
+㎏당	㎏/SW+당/XSN
+1150.82원으로	1150/SN+./SP+82/SN+원/NNB+으로/JKB
+2월보다	2/SN+월/NNB+보다/JKB
+65.14원(5.9%)	65/SN+./SP+14/SN+원/NNB+(/SS+5/SN+./SP+9/SN+%/SW+)/SS
+인상된다.	인상/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.74.2.3
+차량용 부탄가스 가격은 ㎏당 1545.21원(L당 902.40원)으로 65.14원(4.4%) 오른다.
+
+차량용	차량/NNG+용/XSN
+부탄가스	부탄가스/NNG
+가격은	가격/NNG+은/JX
+㎏당	㎏/SW+당/XSN
+1545.21원(L당	1545/SN+./SP+21/SN+원/NNB+(/SS+L/SW+당/XSN
+902.40원)으로	902/SN+./SP+40/SN+원/NNB+)/SS+으로/JKB
+65.14원(4.4%)	65/SN+./SP+14/SN+원/NNB+(/SS+4/SN+./SP+4/SN+%/SW+)/SS
+오른다.	오르/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.74.2.4
+E1이 공급하는 프로판가스 가격은 kg당 1145원으로 58원(5.07%), 부탄가스 가격은 1539원(L당 898.7원)으로 58원(3.9%) 인상된다.
+
+E1이	E/SL+1/SN+이/JKS
+공급하는	공급/NNG+하/XSV+는/ETM
+프로판가스	프로판/NNG+가스/NNG
+가격은	가격/NNG+은/JX
+kg당	kg/SW+당/XSN
+1145원으로	1145/SN+원/NNB+으로/JKB
+58원(5.07%),	58/SN+원/NNB+(/SS+5/SN+./SP+07/SN+%/SW+)/SS+,/SP
+부탄가스	부탄가스/NNG
+1539원(L당	1539/SN+원/NNB+(/SS+L/SW+당/XSN
+898.7원)으로	898/SN+./SP+7/SN+원/NNB+)/SS+으로/JKB
+58원(3.9%)	58/SN+원/NNB+(/SS+3/SN+./SP+9/SN+%/SW+)/SS
+인상된다.	인상/NNG+되/XSV+ㄴ다/EF+./SF
+
+

@@ -1,0 +1,246 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.264
+metadata : {}
+
+
+# id : NWRW1800000026.264.1.1
+[Around the World] UAE, 反정부활동 우려 블랙베리 중단
+
+[Around	[/SS+Around/SL
+the	the/SL
+World]	World/SL+]/SS
+UAE,	UAE/SL+,/SP
+反정부활동	反/SH+정부/NNG+활동/NNG
+우려	우려/NNG
+블랙베리	블랙베리/NNP
+중단	중단/NNG
+
+
+# id : NWRW1800000026.264.2.1
+아랍에미리트(UAE)가 스마트폰 블랙베리의 인터넷 기반 서비스를 중단키로 했다.
+
+아랍에미리트(UAE)가	아랍에미리트/NNP+(/SS+UAE/SL+)/SS+가/JKS
+스마트폰	스마트폰/NNG
+블랙베리의	블랙베리/NNP+의/JKG
+인터넷	인터넷/NNG
+기반	기반/NNG
+서비스를	서비스/NNG+를/JKO
+중단키로	중단/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.3.1
+UAE 통신감독청(TRA)은 1일 "오는 10월 11일부터 블랙베리의 메신저, 이메일, 웹브라우저 서비스를 중단시킬 것이며, 이번 조치는 UAE의 통신법에 부합하는 해결책이 나올 때까지 계속될 것"이라고 밝혔다고 현지 WAM 통신이 보도했다.
+
+UAE	UAE/SL
+통신감독청(TRA)은	통신/NNG+감독청/NNG+(/SS+TRA/SL+)/SS+은/JX
+1일	1/SN+일/NNB
+"오는	"/SS+오/VV+는/ETM
+10월	10/SN+월/NNB
+11일부터	11/SN+일/NNB+부터/JX
+블랙베리의	블랙베리/NNP+의/JKG
+메신저,	메신저/NNG+,/SP
+이메일,	이메일/NNG+,/SP
+웹브라우저	웹/NNG+브라우저/NNG
+서비스를	서비스/NNG+를/JKO
+중단시킬	중단/NNG+시키/XSV+ㄹ/ETM
+것이며,	것/NNB+이/VCP+며/EC+,/SP
+이번	이번/NNG
+조치는	조치/NNG+는/JX
+UAE의	UAE/SL+의/JKG
+통신법에	통신법/NNG+에/JKB
+부합하는	부합/NNG+하/XSV+는/ETM
+해결책이	해결책/NNG+이/JKS
+나올	나오/VV+ㄹ/ETM
+때까지	때/NNG+까지/JX
+계속될	계속/NNG+되/XSV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+밝혔다고	밝히/VV+었/EP+다고/EC
+현지	현지/NNG
+WAM	WAM/SL
+통신이	통신/NNG+이/JKS
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.3.2
+UAE의 블랙베리 이용자는 약 50만명에 달해 현지 통신사들은 대체 서비스 마련에 비상이 걸렸다.
+
+UAE의	UAE/SL+의/JKG
+블랙베리	블랙베리/NNP
+이용자는	이용자/NNG+는/JX
+약	약/MMA
+50만명에	50/SN+만/NR+명/NNB+에/JKB
+달해	달하/VV+아/EC
+현지	현지/NNG
+통신사들은	통신사/NNG+들/XSN+은/JX
+대체	대체/NNG
+서비스	서비스/NNG
+마련에	마련/NNG+에/JKB
+비상이	비상/NNG+이/JKS
+걸렸다.	걸리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.3.3
+블랙베리는 또 남녀 접촉이 극도로 제한된 이슬람 국가 특성상 젊은 남녀가 남의 이목을 피해 연락을 주고받는 수단으로도 인기가 높았다.
+
+블랙베리는	블랙베리/NNP+는/JX
+또	또/MAG
+남녀	남녀/NNG
+접촉이	접촉/NNG+이/JKS
+극도로	극도/NNG+로/JKB
+제한된	제한/NNG+되/XSV+ㄴ/ETM
+이슬람	이슬람/NNG
+국가	국가/NNG
+특성상	특성/NNG+상/XSN
+젊은	젊/VA+은/ETM
+남녀가	남녀/NNG+가/JKS
+남의	남/NNG+의/JKG
+이목을	이목/NNG+을/JKO
+피해	피하/VV+아/EC
+연락을	연락/NNG+을/JKO
+주고받는	주고받/VV+는/ETM
+수단으로도	수단/NNG+으로/JKB+도/JX
+인기가	인기/NNG+가/JKS
+높았다.	높/VA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.4.1
+뉴욕타임스(NYT)는 이번 UAE의 조치에 대해 "작년 이란 대선 시위사태 뒤 걸프 왕정국가들 사이에 정보통신기술이 반정부 활동에 악용될 가능성을 우려하는 분위기가 확산됐기 때문"으로 해석했다.
+
+뉴욕타임스(NYT)는	뉴욕타임스/NNP+(/SS+NYT/SL+)/SS+는/JX
+이번	이번/NNG
+UAE의	UAE/SL+의/JKG
+조치에	조치/NNG+에/JKB
+대해	대하/VV+아/EC
+"작년	"/SS+작년/NNG
+이란	이란/NNP
+대선	대선/NNG
+시위사태	시위/NNG+사태/NNG
+뒤	뒤/NNG
+걸프	걸프/NNP
+왕정국가들	왕정/NNG+국가/NNG+들/XSN
+사이에	사이/NNG+에/JKB
+정보통신기술이	정보/NNG+통신/NNG+기술/NNG+이/JKS
+반정부	반/XPN+정부/NNG
+활동에	활동/NNG+에/JKB
+악용될	악용/NNG+되/XSV+ㄹ/ETM
+가능성을	가능/NNG+성/XSN+을/JKO
+우려하는	우려/NNG+하/XSV+는/ETM
+분위기가	분위기/NNG+가/JKS
+확산됐기	확산/NNG+되/XSV+었/EP+기/ETN
+때문"으로	때문/NNB+"/SS+으로/JKB
+해석했다.	해석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.4.2
+일반 스마트폰과 달리 블랙베리 제조기업인 캐나다 '리서치 인 모션(RIM)'은 고도로 암호화된 자체 통신망을 사용한다.
+
+일반	일반/NNG
+스마트폰과	스마트폰/NNG+과/JKB
+달리	달리/MAG
+블랙베리	블랙베리/NNP
+제조기업인	제조/NNG+기업/NNG+이/VCP+ㄴ/ETM
+캐나다	캐나다/NNP
+'리서치	'/SS+리서치/NNP
+인	인/NNP
+모션(RIM)'은	모션/NNP+(/SS+RIM/SL+)/SS+'/SS+은/JX
+고도로	고도/NNG+로/JKB
+암호화된	암호/NNG+화/XSN+되/XSV+ㄴ/ETM
+자체	자체/NNG
+통신망을	통신망/NNG+을/JKO
+사용한다.	사용/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.264.4.3
+검열과 도청이 매우 어렵다.
+
+검열과	검열/NNG+과/JC
+도청이	도청/NNG+이/JKS
+매우	매우/MAG
+어렵다.	어렵/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.264.4.4
+특히 UAE는 지난 1월 두바이에서 발생한 팔레스타인 무장단체 하마스 간부 암살 사건 이후 통신 보안에 매우 민감한 상태다.
+
+특히	특히/MAG
+UAE는	UAE/SL+는/JX
+지난	지나/VV+ㄴ/ETM
+1월	1/SN+월/NNB
+두바이에서	두바이/NNP+에서/JKB
+발생한	발생/NNG+하/XSV+ㄴ/ETM
+팔레스타인	팔레스타인/NNP
+무장단체	무장/NNG+단체/NNG
+하마스	하마스/NNP
+간부	간부/NNG
+암살	암살/NNG
+사건	사건/NNG
+이후	이후/NNG
+통신	통신/NNG
+보안에	보안/NNG+에/JKB
+매우	매우/MAG
+민감한	민감/NNG+하/XSA+ㄴ/ETM
+상태다.	상태/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.4.5
+RIM은 2008년 인도에서도 통신 검열 문제로 현지 정부와 마찰을 빚은 바 있다.
+
+RIM은	RIM/SL+은/JX
+2008년	2008/SN+년/NNB
+인도에서도	인도/NNP+에서/JKB+도/JX
+통신	통신/NNG
+검열	검열/NNG
+문제로	문제/NNG+로/JKB
+현지	현지/NNG
+정부와	정부/NNG+와/JKB
+마찰을	마찰/NNG+을/JKO
+빚은	빚/VV+은/ETM
+바	바/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.264.5.1
+AP통신 등은 익명의 소식통을 인용해 "사우디아라비아도 이달 말부터 블랙베리 메신저 서비스 사용을 중단시킬 예정"이라고 보도했다.
+
+AP통신	AP통신/NNP
+등은	등/NNB+은/JX
+익명의	익명/NNG+의/JKG
+소식통을	소식통/NNG+을/JKO
+인용해	인용/NNG+하/XSV+아/EC
+"사우디아라비아도	"/SS+사우디아라비아/NNP+도/JX
+이달	이달/NNG
+말부터	말/NNB+부터/JX
+블랙베리	블랙베리/NNP
+메신저	메신저/NNG
+서비스	서비스/NNG
+사용을	사용/NNG+을/JKO
+중단시킬	중단/NNG+시키/XSV+ㄹ/ETM
+예정"이라고	예정/NNG+"/SS+이라고/JKQ
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.264.5.2
+NYT는 "많은 전문가들이 UAE를 시작으로 다른 걸프 국가들에 블랙베리 서비스 중단조치가 확산될 것으로 전망한다"고 말했다.
+
+NYT는	NYT/SL+는/JX
+"많은	"/SS+많/VA+은/ETM
+전문가들이	전문가/NNG+들/XSN+이/JKS
+UAE를	UAE/SL+를/JKO
+시작으로	시작/NNG+으로/JKB
+다른	다른/MMD
+걸프	걸프/NNP
+국가들에	국가/NNG+들/XSN+에/JKB
+블랙베리	블랙베리/NNP
+서비스	서비스/NNG
+중단조치가	중단/NNG+조치/NNG+가/JKS
+확산될	확산/NNG+되/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망한다"고	전망/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

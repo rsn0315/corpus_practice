@@ -1,0 +1,201 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.222
+metadata : {}
+
+
+# id : NWRW1800000026.222.1.1
+델 컴퓨터 헬스사업 진출 "헬스 사업으로 하드웨어 사업 보강할 것"
+
+델	델/NNP
+컴퓨터	컴퓨터/NNG
+헬스사업	헬스/NNG+사업/NNG
+진출	진출/NNG
+"헬스	"/SS+헬스/NNG
+사업으로	사업/NNG+으로/JKB
+하드웨어	하드웨어/NNG
+사업	사업/NNG
+보강할	보강/NNG+하/XSV+ㄹ/ETM
+것"	것/NNB+"/SS
+
+
+# id : NWRW1800000026.222.2.1
+미국의 대표적인 컴퓨터 기업 '델'이 헬스서비스 사업에 뛰어들었다.
+
+미국의	미국/NNP+의/JKG
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+컴퓨터	컴퓨터/NNG
+기업	기업/NNG
+'델'이	'/SS+델/NNP+'/SS+이/JKS
+헬스서비스	헬스/NNG+서비스/NNG
+사업에	사업/NNG+에/JKB
+뛰어들었다.	뛰어들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.222.3.1
+월스트리트저널은 6일(현지시각) 델이 메소디스트 하스피털 시스템(Methodist Hospital System) 의료법인과 전자 의료 기록 시스템을 구축하고 유지하는 서비스를 실시하기로 계약했다고 보도했다.
+
+월스트리트저널은	월스트리트저널/NNP+은/JX
+6일(현지시각)	6/SN+일/NNB+(/SS+현지/NNG+시각/NNG+)/SS
+델이	델/NNP+이/JKS
+메소디스트	메소디스트/NNG
+하스피털	하스피털/NA
+시스템(Methodist	시스템/NNG+(/SS+Methodist/SL
+Hospital	Hospital/SL
+System)	System/SL+)/SS
+의료법인과	의료/NNG+법인/NNG+과/JC
+전자	전자/NNG
+의료	의료/NNG
+기록	기록/NNG
+시스템을	시스템/NNG+을/JKO
+구축하고	구축/NNG+하/XSV+고/EC
+유지하는	유지/NNG+하/XSV+는/ETM
+서비스를	서비스/NNG+를/JKO
+실시하기로	실시/NNG+하/XSV+기/ETN+로/JKB
+계약했다고	계약/NNG+하/XSV+았/EP+다고/EC
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.222.3.2
+델의 기술자들은 휴스턴 지역에 있는 이 병원 의사 2600명이 다른 병원에 있는 기록을 볼 수 있도록 하는 소프트웨어를 개발하고 있다.
+
+델의	델/NNP+의/JKG
+기술자들은	기술자/NNG+들/XSN+은/JX
+휴스턴	휴스턴/NNP
+지역에	지역/NNG+에/JKB
+있는	있/VA+는/ETM
+이	이/MMD
+병원	병원/NNG
+의사	의사/NNG
+2600명이	2600/SN+명/NNB+이/JKS
+다른	다른/MMD
+병원에	병원/NNG+에/JKB
+기록을	기록/NNG+을/JKO
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하는	하/VX+는/ETM
+소프트웨어를	소프트웨어/NNG+를/JKO
+개발하고	개발/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.222.4.1
+델의 헬스사업 진출은 작년 30억 달러(한화 약3조6000억원)를 투자해 헬스케어 정보기술 기업 '페롯 시스템즈(Perot Systems)'를 인수하면서 이미 예견됐었다.
+
+델의	델/NNP+의/JKG
+헬스사업	헬스/NNG+사업/NNG
+진출은	진출/NNG+은/JX
+작년	작년/NNG
+30억	30/SN+억/NR
+달러(한화	달러/NNB+(/SS+한화/NNG
+약3조6000억원)를	약/MMA+3/SN+조/NR+6000/SN+억/NR+원/NNB+)/SS+를/JKO
+투자해	투자/NNG+하/XSV+아/EC
+헬스케어	헬스케어/NNG
+정보기술	정보/NNG+기술/NNG
+기업	기업/NNG
+'페롯	'/SS+페롯/NNP
+시스템즈(Perot	시스템즈/NNP+(/SS+Perot/SL
+Systems)'를	Systems/SL+)/SS+'/SS+를/JKO
+인수하면서	인수/NNG+하/XSV+면서/EC
+이미	이미/MAG
+예견됐었다.	예견/NNG+되/XSV+었었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.222.4.2
+델은 헬스서비스 사업을 통해 갈수록 이익이 줄어들고 있는 하드웨어 사업을 보강하려는 생각이다.
+
+델은	델/NNP+은/JX
+헬스서비스	헬스/NNG+서비스/NNG
+사업을	사업/NNG+을/JKO
+통해	통하/VV+아/EC
+갈수록	갈수록/MAG
+이익이	이익/NNG+이/JKS
+줄어들고	줄어들/VV+고/EC
+있는	있/VX+는/ETM
+하드웨어	하드웨어/NNG
+보강하려는	보강/NNG+하/XSV+려는/ETM
+생각이다.	생각/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.222.4.3
+피터 알타베프 페롯시스템즈 CEO는 "100억 달러의 현금을 갖고 있는 델의 자본력과 전세계의 고객이 우리의 강점"이라고 자신감을 표시했다.
+
+피터	피터/NNP
+알타베프	알타베프/NNP
+페롯시스템즈	페롯시스템즈/NNP
+CEO는	CEO/SL+는/JX
+"100억	"/SS+100/SN+억/NR
+달러의	달러/NNB+의/JKG
+현금을	현금/NNG+을/JKO
+갖고	갖/VV+고/EC
+있는	있/VX+는/ETM
+델의	델/NNP+의/JKG
+자본력과	자본력/NNG+과/JC
+전세계의	전/MMN+세계/NNG+의/JKG
+고객이	고객/NNG+이/JKS
+우리의	우리/NP+의/JKG
+강점"이라고	강점/NNG+"/SS+이라고/JKQ
+자신감을	자신감/NNG+을/JKO
+표시했다.	표시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.222.5.1
+현지 전문가들은 델처럼 하드웨어에서 IT서비스, 특히 헬스 서비스 분야로 뛰어드는 기업이 더 늘어날 것으로 보고 있다.
+
+현지	현지/NNG
+전문가들은	전문가/NNG+들/XSN+은/JX
+델처럼	델/NNP+처럼/JKB
+하드웨어에서	하드웨어/NNG+에서/JKB
+IT서비스,	IT/SL+서비스/NNG+,/SP
+특히	특히/MAG
+헬스	헬스/NNG
+서비스	서비스/NNG
+분야로	분야/NNG+로/JKB
+뛰어드는	뛰어들/VV+는/ETM
+기업이	기업/NNG+이/JKS
+더	더/MAG
+늘어날	늘어나/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.222.5.2
+오바마 정부가 미국 헬스케어 시스템을 점검하면서 의료 정보화에 엄청난 투자를 약속하고 있기 때문이다.
+
+오바마	오바마/NNP
+정부가	정부/NNG+가/JKS
+미국	미국/NNP
+헬스케어	헬스케어/NNG
+시스템을	시스템/NNG+을/JKO
+점검하면서	점검/NNG+하/XSV+면서/EC
+의료	의료/NNG
+정보화에	정보/NNG+화/XSN+에/JKB
+엄청난	엄청나/VA+ㄴ/ETM
+투자를	투자/NNG+를/JKO
+약속하고	약속/NNG+하/XSV+고/EC
+있기	있/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.222.5.3
+시장조사기관인 IDC에 따르면 미국 의료 정보화사업에 2013년까지 130억 달러 이상이 투입될 전망이다.
+
+시장조사기관인	시장/NNG+조사/NNG+기관/NNG+이/VCP+ㄴ/ETM
+IDC에	IDC/SL+에/JKB
+따르면	따르/VV+면/EC
+미국	미국/NNP
+의료	의료/NNG
+정보화사업에	정보/NNG+화/XSN+사업/NNG+에/JKB
+2013년까지	2013/SN+년/NNB+까지/JX
+130억	130/SN+억/NR
+달러	달러/NNB
+이상이	이상/NNG+이/JKS
+투입될	투입/NNG+되/XSV+ㄹ/ETM
+전망이다.	전망/NNG+이/VCP+다/EF+./SF
+
+

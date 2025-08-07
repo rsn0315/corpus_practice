@@ -1,0 +1,523 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000037.58
+metadata : {}
+
+
+# id : NWRW1800000037.58.1.1
+[봄, 골프세상으로 가자]스푼으로 300야드를?
+
+[봄,	[/SS+봄/NNG+,/SP
+골프세상으로	골프/NNG+세상/NNG+으로/JKB
+가자]스푼으로	가/VV+자/EF+]/SS+스푼/NNG+으로/JKB
+300야드를?	300/SN+야드/NNB+를/JKO+?/SF
+
+
+# id : NWRW1800000037.58.1.2
+아마추어 위한 ‘환상무기’ 등장
+
+아마추어	아마추어/NNG
+위한	위하/VV+ㄴ/ETM
+‘환상무기’	‘/SS+환상/NNG+무기/NNG+’/SS
+등장	등장/NNG
+
+
+# id : NWRW1800000037.58.2.1
+캘러웨이골프 ‘X-Hot’ 시리즈
+
+캘러웨이골프	캘러웨이골프/NNP
+‘X-Hot’	‘/SS+X/SL+-/SO+Hot/SL+’/SS
+시리즈	시리즈/NNG
+
+
+# id : NWRW1800000037.58.3.1
+아마추어도 300야드 이상을 날릴 수 있는 스푼(3번 우드)이 나왔다.
+
+아마추어도	아마추어/NNG+도/JX
+300야드	300/SN+야드/NNB
+이상을	이상/NNG+을/JKO
+날릴	날리/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+스푼(3번	스푼/NNG+(/SS+3/SN+번/NNB
+우드)이	우드/NNG+)/SS+이/JKS
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.3.2
+골프용품 전문 업체 캘러웨이골프에서 내놓은 ‘X-Hot 페어웨이 우드’다.
+
+골프용품	골프용품/NNG
+전문	전문/NNG
+업체	업체/NNG
+캘러웨이골프에서	캘러웨이골프/NNP+에서/JKB
+내놓은	내놓/VV+은/ETM
+‘X-Hot	‘/SS+X/SL+-/SO+Hot/SL
+페어웨이	페어웨이/NNG
+우드’다.	우드/NNG+’/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.3.3
+300야드는 드라이버(1번 우드)를 위협할 만한 비거리다.
+
+300야드는	300/SN+야드/NNB+는/JX
+드라이버(1번	드라이버/NNG+(/SS+1/SN+번/NNB
+우드)를	우드/NNG+)/SS+를/JKO
+위협할	위협/NNG+하/XSV+ㄹ/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+비거리다.	비거리/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.4.1
+캘러웨이골프는 올 1월 이 스푼으로 아마추어가 정말 300야드를 날릴 수 있는지 실험했다.
+
+캘러웨이골프는	캘러웨이골프/NNP+는/JX
+올	올/NNG
+1월	1/SN+월/NNB
+이	이/MMD
+스푼으로	스푼/NNG+으로/JKB
+아마추어가	아마추어/NNG+가/JKS
+정말	정말/MAG
+300야드를	300/SN+야드/NNB+를/JKO
+날릴	날리/VV+ㄹ/ETM
+수	수/NNB
+있는지	있/VA+는지/EF
+실험했다.	실험/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.4.2
+도전자는 캘러웨이골프 클럽 개발 담당자 루크 윌리엄스.
+
+도전자는	도전자/NNG+는/JX
+캘러웨이골프	캘러웨이골프/NNP
+클럽	클럽/NNG
+개발	개발/NNG
+담당자	담당자/NNG
+루크	루크/NNP
+윌리엄스.	윌리엄스/NNP+./SF
+
+
+# id : NWRW1800000037.58.4.3
+그는 1차 시도에서는 272.5야드에 그쳤지만 2차 시도에서 299.6야드로 목표치에 근접했고 3차 시도에서 304야드를 날리는 데 성공했다.
+
+그는	그/NP+는/JX
+1차	1/SN+차/NNB
+시도에서는	시도/NNG+에서/JKB+는/JX
+272.5야드에	272/SN+./SP+5/SN+야드/NNB+에/JKB
+그쳤지만	그치/VV+었/EP+지만/EC
+2차	2/SN+차/NNB
+시도에서	시도/NNG+에서/JKB
+299.6야드로	299/SN+./SP+6/SN+야드/NNB+로/JKB
+목표치에	목표/NNG+치/XSN+에/JKB
+근접했고	근접/NNG+하/XSV+았/EP+고/EC
+3차	3/SN+차/NNB
+304야드를	304/SN+야드/NNB+를/JKO
+날리는	날리/VV+는/ETM
+데	데/NNB
+성공했다.	성공/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.4.4
+같은 실험에서 배상문 프로가 같은 제품으로 기록한 303야드보다 오히려 길었다.
+
+같은	같/VA+은/ETM
+실험에서	실험/NNG+에서/JKB
+배상문	배상문/NNP
+프로가	프로/NNG+가/JKS
+제품으로	제품/NNG+으로/JKB
+기록한	기록/NNG+하/XSV+ㄴ/ETM
+303야드보다	303/SN+야드/NNB+보다/JKB
+오히려	오히려/MAG
+길었다.	길/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.4.5
+이 소식이 알려지면서 일본에서는 출시 2주 만에 X-Hot 페어웨이 우드가 시장 점유을 1위를 차지하기도 했다.
+
+이	이/MMD
+소식이	소식/NNG+이/JKS
+알려지면서	알려지/VV+면서/EC
+일본에서는	일본/NNP+에서/JKB+는/JX
+출시	출시/NNG
+2주	2/SN+주/NNB
+만에	만/NNB+에/JKB
+X-Hot	X/SL+-/SO+Hot/SL
+페어웨이	페어웨이/NNG
+우드가	우드/NNG+가/JKS
+시장	시장/NNG
+점유을	점유/NNG+을/XSN
+1위를	1/SN+위/NNB+를/JKO
+차지하기도	차지/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.5.1
+이 사례에서 보는 것처럼 페어웨이 우드를 비롯한 캘러웨이 ‘X-Hot’ 시리즈는 비거리를 위해 세상에 태어난 제품이다.
+
+이	이/MMD
+사례에서	사례/NNG+에서/JKB
+보는	보/VV+는/ETM
+것처럼	것/NNB+처럼/JKB
+페어웨이	페어웨이/NNG
+우드를	우드/NNG+를/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+캘러웨이	캘러웨이/NNP
+‘X-Hot’	‘/SS+X/SL+-/SO+Hot/SL+’/SS
+시리즈는	시리즈/NNG+는/JX
+비거리를	비거리/NNG+를/JKO
+위해	위하/VV+아/EC
+세상에	세상/NNG+에/JKB
+태어난	태어나/VV+ㄴ/ETM
+제품이다.	제품/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.5.2
+캘러웨이골프에서는 기존의 하이퍼볼릭 페이스 기술과 VFT(Variable Face Thickness) 기술을 결합해 스피드프레임 페이스 기술을 완성시켰다.
+
+캘러웨이골프에서는	캘러웨이골프/NNP+에서/JKB+는/JX
+기존의	기존/NNG+의/JKG
+하이퍼볼릭	하이퍼볼릭/NNG
+페이스	페이스/NNG
+기술과	기술/NNG+과/JC
+VFT(Variable	VFT/SL+(/SS+Variable/SL
+Face	Face/SL
+Thickness)	Thickness/SL+)/SS
+기술을	기술/NNG+을/JKO
+결합해	결합/NNG+하/XSV+아/EC
+스피드프레임	스피드프레임/NNG
+완성시켰다.	완성/NNG+시키/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.5.3
+이 기술 덕에 페이스의 두께를 더 정밀하게 가공할 수 있었고, 스위트 스폿은 더욱 넓어졌다.
+
+이	이/MMD
+기술	기술/NNG
+덕에	덕/NNG+에/JKB
+페이스의	페이스/NNG+의/JKG
+두께를	두께/NNG+를/JKO
+더	더/MAG
+정밀하게	정밀/NNG+하/XSA+게/EC
+가공할	가공/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있었고,	있/VA+었/EP+고/EC+,/SP
+스위트	스위트/NNG
+스폿은	스폿/NNG+은/JX
+더욱	더욱/MAG
+넓어졌다.	넓어지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.5.4
+비거리가 길어진 건 당연한 결과.
+
+비거리가	비거리/NNG+가/JKS
+길어진	길어지/VV+ㄴ/ETM
+건	거/NNB+ㄴ/JX
+당연한	당연/NNG+하/XSA+ㄴ/ETM
+결과.	결과/NNG+./SF
+
+
+# id : NWRW1800000037.58.6.1
+또 최신 워버드 솔(Warbird Sole) 디자인은 어떤 라이에서도 다양한 볼 콘트롤을 가능하게 한다.
+
+또	또/MAG
+최신	최신/NNG
+워버드	워버드/NNG
+솔(Warbird	솔/NNG+(/SS+Warbird/SL
+Sole)	Sole/SL+)/SS
+디자인은	디자인/NNG+은/JX
+어떤	어떤/MMD
+라이에서도	라이/NNG+에서/JKB+도/JX
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+볼	볼/NNG
+콘트롤을	콘트롤/NNG+을/JKO
+가능하게	가능/NNG+하/XSA+게/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.58.6.2
+한국캘러웨이골프는 “이 제품 사용자들은 ‘더욱 다이내믹한 샷을 날릴 수 있게 됐다’고 평가한다”고 전했다.
+
+한국캘러웨이골프는	한국캘러웨이골프/NNP+는/JX
+“이	“/SS+이/MMD
+제품	제품/NNG
+사용자들은	사용자/NNG+들/XSN+은/JX
+‘더욱	‘/SS+더욱/MAG
+다이내믹한	다이내믹/NNG+하/XSA+ㄴ/ETM
+샷을	샷/NNG+을/JKO
+날릴	날리/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+됐다’고	되/VV+었/EP+다/EF+’/SS+고/JKQ
+평가한다”고	평가/NNG+하/XSV+ㄴ다/EF+”/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.6.3
+이외에 X-Hot 시리즈에 속한 제품군 정보는 아래와 같다.
+
+이외에	이외/NNG+에/JKB
+X-Hot	X/SL+-/SO+Hot/SL
+시리즈에	시리즈/NNG+에/JKB
+속한	속하/VV+ㄴ/ETM
+제품군	제품군/NNG
+정보는	정보/NNG+는/JX
+아래와	아래/NNG+와/JKB
+같다.	같/VA+다/EF+./SF
+
+
+# id : NWRW1800000037.58.7.1
+X-Hot 하이브리드
+
+X-Hot	X/SL+-/SO+Hot/SL
+하이브리드	하이브리드/NNG
+
+
+# id : NWRW1800000037.58.8.1
+페어웨이 우드의 장점과 아이언의 정교함을 결합했다.
+
+페어웨이	페어웨이/NNG
+우드의	우드/NNG+의/JKG
+장점과	장점/NNG+과/JC
+아이언의	아이언/NNG+의/JKG
+정교함을	정교하/VA+ㅁ/ETN+을/JKO
+결합했다.	결합/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.8.2
+캘러웨이 골프의 주특기인 ‘워버드 솔 플레이트’를 장착해 비거리를 늘리는 한편 울트라 신(Ultra Think) VFT 페이스를 사용해 볼 스피드를 높였다.
+
+캘러웨이	캘러웨이/NNP
+골프의	골프/NNG+의/JKG
+주특기인	주특기/NNG+이/VCP+ㄴ/ETM
+‘워버드	‘/SS+워버드/NNG
+솔	솔/NNG
+플레이트’를	플레이트/NNG+’/SS+를/JKO
+장착해	장착/NNG+하/XSV+아/EC
+비거리를	비거리/NNG+를/JKO
+늘리는	늘리/VV+는/ETM
+한편	한편/NNG
+울트라	울트라/NNG
+신(Ultra	신/NNG+(/SS+Ultra/SL
+Think)	Think/SL+)/SS
+VFT	VFT/SL
+페이스를	페이스/NNG+를/JKO
+사용해	사용/NNG+하/XSV+아/EC
+볼	볼/NNG
+스피드를	스피드/NNG+를/JKO
+높였다.	높이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.9.1
+이 클럽은 골퍼에게 페어웨이 우드 수준의 비거리와 관용성을 보장하는 동시에 아이언 수준으로 컨트롤과 정확도를 제공한다.
+
+이	이/MMD
+클럽은	클럽/NNG+은/JX
+골퍼에게	골퍼/NNG+에게/JKB
+페어웨이	페어웨이/NNG
+우드	우드/NNG
+수준의	수준/NNG+의/JKG
+비거리와	비거리/NNG+와/JC
+관용성을	관용/NNG+성/XSN+을/JKO
+보장하는	보장/NNG+하/XSV+는/ETM
+동시에	동시/NNG+에/JKB
+아이언	아이언/NNG
+수준으로	수준/NNG+으로/JKB
+컨트롤과	컨트롤/NNG+과/JC
+정확도를	정확도/NNG+를/JKO
+제공한다.	제공/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.58.9.2
+X-Hot 아이언이나 롱 아이언의 이상적인 대체재로 적합한 모델이다.
+
+X-Hot	X/SL+-/SO+Hot/SL
+아이언이나	아이언/NNG+이나/JC
+롱	롱/NNG
+아이언의	아이언/NNG+의/JKG
+이상적인	이상/NNG+적/XSN+이/VCP+ㄴ/ETM
+대체재로	대체재/NNG+로/JKB
+적합한	적합/NNG+하/XSA+ㄴ/ETM
+모델이다.	모델/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.10.1
+X-Hot 드라이버
+
+X-Hot	X/SL+-/SO+Hot/SL
+드라이버	드라이버/NNG
+
+
+# id : NWRW1800000037.58.11.1
+반발력은 높이고 클럽 무게는 줄였다.
+
+반발력은	반발력/NNG+은/JX
+높이고	높이/VV+고/EC
+클럽	클럽/NNG
+무게는	무게/NNG+는/JX
+줄였다.	줄이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.11.2
+옵티핏 호젤 기술을 활용해 골퍼가 간단한 조작만으로 원하는 페이스 각을 만들 수 있도록 한 셀프 튜닝 제품이다.
+
+옵티핏	옵티핏/NNG
+호젤	호젤/NNG
+기술을	기술/NNG+을/JKO
+활용해	활용/NNG+하/XSV+아/EC
+골퍼가	골퍼/NNG+가/JKS
+간단한	간단하/VA+ㄴ/ETM
+조작만으로	조작/NNG+만/JX+으로/JKB
+원하는	원/NNG+하/XSV+는/ETM
+페이스	페이스/NNG
+각을	각/NNG+을/JKO
+만들	만들/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+한	하/VV+ㄴ/ETM
+셀프	셀프/NNG
+튜닝	튜닝/NNG
+제품이다.	제품/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.12.1
+이 드라이버는 울트라 신 월 캐스팅 기술을 활용해 기존의 티타늄 드라이버보다 헤드를 얇게 만들었다.
+
+이	이/MMD
+드라이버는	드라이버/NNG+는/JX
+울트라	울트라/NNG
+신	신/NNG
+월	월/NNG
+캐스팅	캐스팅/NNG
+기술을	기술/NNG+을/JKO
+활용해	활용/NNG+하/XSV+아/EC
+기존의	기존/NNG+의/JKG
+티타늄	티타늄/NNG
+드라이버보다	드라이버/NNG+보다/JKB
+헤드를	헤드/NNG+를/JKO
+얇게	얇/VA+게/EC
+만들었다.	만들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.12.2
+바이어스 프로그레션(Draw Bias Progression) 기술은 자연스럽게 드로 구질을 만들어 내 비거리를 늘리는 건 물론 슬라이스도 줄여준다.
+
+바이어스	바이어스/NNG
+프로그레션(Draw	프로그레션/NNG+(/SS+Draw/SL
+Bias	Bias/SL
+Progression)	Progression/SL+)/SS
+기술은	기술/NNG+은/JX
+자연스럽게	자연/NNG+스럽/XSA+게/EC
+드로	드로/NNG
+구질을	구질/NNG+을/JKO
+만들어	만들/VV+어/EC
+내	내/VV+어/EC
+비거리를	비거리/NNG+를/JKO
+늘리는	늘리/VV+는/ETM
+건	거/NNB+ㄴ/JX
+물론	물론/MAG
+슬라이스도	슬라이스/NNG+도/JX
+줄여준다.	줄이/VV+어/EC+주/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.58.13.1
+X-Hot 아이언
+
+X-Hot	X/SL+-/SO+Hot/SL
+아이언	아이언/NNG
+
+
+# id : NWRW1800000037.58.14.1
+7번 아이언으로 기존 6번 아이언 수준의 비거리를 확보해주는 제품.
+
+7번	7/SN+번/NNB
+아이언으로	아이언/NNG+으로/JKB
+기존	기존/NNG
+6번	6/SN+번/NNB
+아이언	아이언/NNG
+수준의	수준/NNG+의/JKG
+비거리를	비거리/NNG+를/JKO
+확보해주는	확보/NNG+하/XSV+아/EC+주/VX+는/ETM
+제품.	제품/NNG+./SF
+
+
+# id : NWRW1800000037.58.14.2
+1998년 시판 3주 만에 10만 세트가 팔린 X-12의 혈통을 이어 받았다.
+
+1998년	1998/SN+년/NNB
+시판	시판/NNG
+3주	3/SN+주/NNB
+만에	만/NNB+에/JKB
+10만	10/SN+만/NR
+세트가	세트/NNG+가/JKS
+팔린	팔리/VV+ㄴ/ETM
+X-12의	X/SL+-/SO+12/SN+의/JKG
+혈통을	혈통/NNG+을/JKO
+이어	잇/VV+어/EC
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.14.3
+이 아이언 설계에는 스피드프레임페이스 기술과 딥 언더컷 캐비티(Deep Undercut Cavity) 설계 방식이 포함됐다.
+
+이	이/MMD
+아이언	아이언/NNG
+설계에는	설계/NNG+에/JKB+는/JX
+스피드프레임페이스	스피드프레임페이스/NNG
+기술과	기술/NNG+과/JC
+딥	딥/NNG
+언더컷	언더컷/NNG
+캐비티(Deep	캐비티/NNG+(/SS+Deep/SL
+Undercut	Undercut/SL
+Cavity)	Cavity/SL+)/SS
+설계	설계/NNG
+방식이	방식/NNG+이/JKS
+포함됐다.	포함/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.14.4
+디자인, 비거리, 정확성이 최고의 조화를 이루기 위한 설계 방식이다.
+
+디자인,	디자인/NNG+,/SP
+비거리,	비거리/NNG+,/SP
+정확성이	정확/NNG+성/XSN+이/JKS
+최고의	최고/NNG+의/JKG
+조화를	조화/NNG+를/JKO
+이루기	이루/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+설계	설계/NNG
+방식이다.	방식/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.15.1
+한국캘러웨이골프는 “X-Hot 시리즈는 비거리라는 모든 골퍼의 열망을 만족시키려 탄생한 제품이다.
+
+한국캘러웨이골프는	한국캘러웨이골프/NNP+는/JX
+“X-Hot	“/SS+X/SL+-/SO+Hot/SL
+시리즈는	시리즈/NNG+는/JX
+비거리라는	비거리/NNG+이/VCP+라는/ETM
+모든	모든/MMN
+골퍼의	골퍼/NNG+의/JKG
+열망을	열망/NNG+을/JKO
+만족시키려	만족/NNG+시키/XSV+려/EC
+탄생한	탄생/NNG+하/XSV+ㄴ/ETM
+제품이다.	제품/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.58.15.2
+이 시리즈가 비거리에 대한 새로운 기준을 제시할 것”이라고 밝혔다.
+
+이	이/MMD
+시리즈가	시리즈/NNG+가/JKS
+비거리에	비거리/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+새로운	새롭/VA+ㄴ/ETM
+기준을	기준/NNG+을/JKO
+제시할	제시/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

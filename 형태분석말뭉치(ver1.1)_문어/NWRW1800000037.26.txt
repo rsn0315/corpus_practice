@@ -1,0 +1,531 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000037.26
+metadata : {}
+
+
+# id : NWRW1800000037.26.1.1
+SAP 1g이 물 500g 흡수… “세계를 빨아들일 것”
+
+SAP	SAP/SL
+1g이	1/SN+g/SW+이/JKS
+물	물/NNG
+500g	500/SN+g/SW
+흡수…	흡수/NNG+…/SE
+“세계를	“/SS+세계/NNG+를/JKO
+빨아들일	빨아들이/VV+ㄹ/ETM
+것”	것/NNB+”/SS
+
+
+# id : NWRW1800000037.26.2.1
+‘고흡수성수지’에 심혈 기울이는 LG화학
+
+‘고흡수성수지’에	‘/SS+고/XPN+흡수/NNG+성/XSN+수지/NNG+’/SS+에/JKB
+심혈	심혈/NNG
+기울이는	기울이/VV+는/ETM
+LG화학	LG화학/NNP
+
+
+# id : NWRW1800000037.26.3.1
+9일 전남 여수시 용성동 LG화학 여수공장 내 SAP(Super Absorbent Polymer·고흡수성 수지) 생산라인은 인근 시설과는 다른 모습이었다.
+
+9일	9/SN+일/NNB
+전남	전남/NNP
+여수시	여수시/NNP
+용성동	용성동/NNP
+LG화학	LG화학/NNP
+여수공장	여수/NNP+공장/NNG
+내	내/NNB
+SAP(Super	SAP/SL+(/SS+Super/SL
+Absorbent	Absorbent/SL
+Polymer·고흡수성	Polymer/SL+·/SP+고/XPN+흡수/NNG+성/XSN
+수지)	수지/NNG+)/SS
+생산라인은	생산/NNG+라인/NNG+은/JX
+인근	인근/NNG
+시설과는	시설/NNG+과/JKB+는/JX
+다른	다르/VA+ㄴ/ETM
+모습이었다.	모습/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.3.2
+일반적으로 화학공장 설비는 대부분 외벽이 없이 각종 파이프라인이 얽혀 있지만 이 라인은 외벽이 둘러싸고 있었다.
+
+일반적으로	일반/NNG+적/XSN+으로/JKB
+화학공장	화학/NNG+공장/NNG
+설비는	설비/NNG+는/JX
+대부분	대/XPN+부분/NNG
+외벽이	외벽/NNG+이/JKS
+없이	없이/MAG
+각종	각종/NNG
+파이프라인이	파이프라인/NNG+이/JKS
+얽혀	얽히/VV+어/EC
+있지만	있/VX+지만/EC
+이	이/MMD
+라인은	라인/NNG+은/JX
+둘러싸고	둘러싸/VV+고/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.3.3
+마치 공장 내 사무동 건물을 연상케 했다.
+
+마치	마치/MAG
+공장	공장/NNG
+내	내/NNB
+사무동	사무/NNG+동/NNG
+건물을	건물/NNG+을/JKO
+연상케	연상/NNG+하/XSV+게/EC
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.3.4
+임찬기 LG화학 여수공장 SAP생산팀장은 “설비가 외부 습기에 노출되면 안 되기 때문”이라고 설명했다.
+
+임찬기	임찬기/NNP
+LG화학	LG화학/NNP
+여수공장	여수/NNP+공장/NNG
+SAP생산팀장은	SAP/SL+생산/NNG+팀장/NNG+은/JX
+“설비가	“/SS+설비/NNG+가/JKS
+외부	외부/NNG
+습기에	습기/NNG+에/JKB
+노출되면	노출/NNG+되/XSV+면/EC
+안	안/MAG
+되기	되/VV+기/ETN
+때문”이라고	때문/NNB+”/SS+이/VCP+라고/EC
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.4.1
+○ 새로 ‘뜨는’ 제품
+
+○	○/SW
+새로	새로/MAG
+‘뜨는’	‘/SS+뜨/VV+는/ETM+’/SS
+제품	제품/NNG
+
+
+# id : NWRW1800000037.26.5.1
+SAP는 기저귀나 생리대에 들어가는 물 흡수 소재다.
+
+SAP는	SAP/SL+는/JX
+기저귀나	기저귀/NNG+나/JC
+생리대에	생리대/NNG+에/JKB
+들어가는	들어가/VV+는/ETM
+물	물/NNG
+흡수	흡수/NNG
+소재다.	소재/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.5.2
+재료 특성상 주변의 습기를 흡수하는 성질이 있어 불가피하게 생산라인 안팎의 습기를 차단하는 벽이 필요하다.
+
+재료	재료/NNG
+특성상	특성/NNG+상/XSN
+주변의	주변/NNG+의/JKG
+습기를	습기/NNG+를/JKO
+흡수하는	흡수/NNG+하/XSV+는/ETM
+성질이	성질/NNG+이/JKS
+있어	있/VA+어/EC
+불가피하게	불가피하/VA+게/EC
+생산라인	생산/NNG+라인/NNG
+안팎의	안팎/NNG+의/JKG
+차단하는	차단/NNG+하/XSV+는/ETM
+벽이	벽/NNG+이/JKS
+필요하다.	필요/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000037.26.5.3
+임 팀장은 “분말 형태인 SAP는 g당 물 500g을 흡수하는 특수 제품”이라고 말했다.
+
+임	임/NNP
+팀장은	팀장/NNG+은/JX
+“분말	“/SS+분말/NNG
+형태인	형태/NNG+이/VCP+ㄴ/ETM
+SAP는	SAP/SL+는/JX
+g당	g/SW+당/XSN
+물	물/NNG
+500g을	500/SN+g/SW+을/JKO
+흡수하는	흡수/NNG+하/XSV+는/ETM
+특수	특수/NNG
+제품”이라고	제품/NNG+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.6.1
+SAP는 화학업계에서 ‘뜨는’ 소재로 통한다.
+
+SAP는	SAP/SL+는/JX
+화학업계에서	화학업/NNG+계/XSN+에서/JKB
+‘뜨는’	‘/SS+뜨/VV+는/ETM+’/SS
+소재로	소재/NNG+로/JKB
+통한다.	통하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.26.6.2
+중국이 지난달 16일 1가구1자녀 정책 폐지를 발표한 데다 동남아시아와 인도에서 종이 기저귀와 생리대가 급속도로 보급되고 있기 때문이다.
+
+중국이	중국/NNP+이/JKS
+지난달	지난달/NNG
+16일	16/SN+일/NNB
+1가구1자녀	1/SN+가구/NNG+1/SN+자녀/NNG
+정책	정책/NNG
+폐지를	폐지/NNG+를/JKO
+발표한	발표/NNG+하/XSV+ㄴ/ETM
+데다	데/NNB+다/JX
+동남아시아와	동남아시아/NNP+와/JC
+인도에서	인도/NNP+에서/JKB
+종이	종이/NNG
+기저귀와	기저귀/NNG+와/JC
+생리대가	생리대/NNG+가/JKS
+급속도로	급속도/NNG+로/JKB
+보급되고	보급/NNG+되/XSV+고/EC
+있기	있/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.7.1
+국내에선 LG화학이 유일하게 원료부터 완제품까지 모두 생산하고 있다.
+
+국내에선	국내/NNG+에서/JKB+ㄴ/JX
+LG화학이	LG화학/NNP+이/JKS
+유일하게	유일/NNG+하/XSA+게/EC
+원료부터	원료/NNG+부터/JX
+완제품까지	완제품/NNG+까지/JX
+모두	모두/MAG
+생산하고	생산/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.26.7.2
+LG화학은 2008년 9월 코오롱으로부터 경북 김천공장 내 SAP 생산라인(연간 생산량 7만2000t 규모)을 인수하면서 이 사업에 뛰어들었다.
+
+LG화학은	LG화학/NNP+은/JX
+2008년	2008/SN+년/NNB
+9월	9/SN+월/NNB
+코오롱으로부터	코오롱/NNP+으로부터/JKB
+경북	경북/NNP
+김천공장	김천/NNP+공장/NNG
+내	내/NNB
+SAP	SAP/SL
+생산라인(연간	생산/NNG+라인/NNG+(/SS+연간/NNG
+생산량	생산량/NNG
+7만2000t	7/SN+만/NR+2000/SN+t/SW
+규모)을	규모/NNG+)/SS+을/JKO
+인수하면서	인수/NNG+하/XSV+면서/EC
+이	이/MMD
+사업에	사업/NNG+에/JKB
+뛰어들었다.	뛰어들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.7.3
+이후 SAP 수요가 늘어나자 LG화학은 여수공장에 2011년 연 3만6000t 규모의 1생산라인, 2012년 7만2000t 규모의 2생산라인을 각각 설치했다.
+
+이후	이후/NNG
+SAP	SAP/SL
+수요가	수요/NNG+가/JKS
+늘어나자	늘어나/VV+자/EC
+LG화학은	LG화학/NNP+은/JX
+여수공장에	여수/NNP+공장/NNG+에/JKB
+2011년	2011/SN+년/NNB
+연	연/NNG
+3만6000t	3/SN+만/NR+6000/SN+t/SW
+규모의	규모/NNG+의/JKG
+1생산라인,	1/SN+생산/NNG+라인/NNG+,/SP
+2012년	2012/SN+년/NNB
+7만2000t	7/SN+만/NR+2000/SN+t/SW
+2생산라인을	2/SN+생산/NNG+라인/NNG+을/JKO
+각각	각각/MAG
+설치했다.	설치/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.7.4
+또 지난달 준공해 내년 초부터 본격 생산에 돌입하는 3생산라인을 포함하면 연간 SAP생산량은 26만 t에 이른다.
+
+또	또/MAG
+지난달	지난달/NNG
+준공해	준공/NNG+하/XSV+아/EC
+내년	내년/NNG
+초부터	초/NNB+부터/JX
+본격	본격/NNG
+생산에	생산/NNG+에/JKB
+돌입하는	돌입/NNG+하/XSV+는/ETM
+3생산라인을	3/SN+생산/NNG+라인/NNG+을/JKO
+포함하면	포함/NNG+하/XSV+면/EC
+연간	연간/NNG
+SAP생산량은	SAP/SL+생산량/NNG+은/JX
+26만	26/SN+만/NR
+t에	t/SW+에/JKB
+이른다.	이르/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.26.8.1
+○ 세계시장을 선도하는 사업으로
+
+○	○/SW
+세계시장을	세계/NNG+시장/NNG+을/JKO
+선도하는	선도/NNG+하/XSV+는/ETM
+사업으로	사업/NNG+으로/JKB
+
+
+# id : NWRW1800000037.26.9.1
+“지금 우리는 세계 톱 위생용품 기업들에 우리 생산제품의 절반 이상을 판매하고 있다.
+
+“지금	“/SS+지금/MAG
+우리는	우리/NP+는/JX
+세계	세계/NNG
+톱	톱/NNG
+위생용품	위생용품/NNG
+기업들에	기업/NNG+들/XSN+에/JKB
+우리	우리/NP
+생산제품의	생산/NNG+제품/NNG+의/JKG
+절반	절반/NNG
+이상을	이상/NNG+을/JKO
+판매하고	판매/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.26.9.2
+감히 넘볼 수 없을 것이라고 생각했던 미국 독일 일본 회사의 높은 장벽을 연구개발과 생산, 마케팅 역량을 총집결해 마침내 극복할 수 있었다.”
+
+감히	감히/MAG
+넘볼	넘보/VV+ㄹ/ETM
+수	수/NNB
+없을	없/VA+을/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+생각했던	생각/NNG+하/XSV+았/EP+던/ETM
+미국	미국/NNP
+독일	독일/NNP
+일본	일본/NNP
+회사의	회사/NNG+의/JKG
+높은	높/VA+은/ETM
+장벽을	장벽/NNG+을/JKO
+연구개발과	연구/NNG+개발/NNG+과/JC
+생산,	생산/NNG+,/SP
+마케팅	마케팅/NNG
+역량을	역량/NNG+을/JKO
+총집결해	총집결/NNG+하/XSV+아/EC
+마침내	마침내/MAG
+극복할	극복/NNG+하/XSV+ㄹ/ETM
+있었다.”	있/VA+었/EP+다/EF+./SF+”/SS
+
+
+# id : NWRW1800000037.26.10.1
+박진수 LG화학 부회장은 최근 임직원들에게 SAP 사업 추진 성과를 이같이 설명했다.
+
+박진수	박진수/NNP
+LG화학	LG화학/NNP
+부회장은	부회장/NNG+은/JX
+최근	최근/NNG
+임직원들에게	임직원/NNG+들/XSN+에게/JKB
+SAP	SAP/SL
+사업	사업/NNG
+추진	추진/NNG
+성과를	성과/NNG+를/JKO
+이같이	이/NP+같이/JKB
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.10.2
+SAP를 세계 시장을 선도하는 사업으로 키우겠다는 목표를 갖고 치밀하게 전략을 세운 것이 좋은 결과로 이어졌다는 것이다.
+
+SAP를	SAP/SL+를/JKO
+세계	세계/NNG
+시장을	시장/NNG+을/JKO
+선도하는	선도/NNG+하/XSV+는/ETM
+사업으로	사업/NNG+으로/JKB
+키우겠다는	키우/VV+겠/EP+다는/ETM
+목표를	목표/NNG+를/JKO
+갖고	갖/VV+고/EC
+치밀하게	치밀하/VA+게/EC
+전략을	전략/NNG+을/JKO
+세운	세우/VV+ㄴ/ETM
+것이	것/NNB+이/JKS
+좋은	좋/VA+은/ETM
+결과로	결과/NNG+로/JKB
+이어졌다는	이어지/VV+었/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.11.1
+그는 “SAP사업에 대한 도전은 아직도 진행 중”이라며 “세상 어디에도 존재하지 않았던 최고의 고흡수성 특수수지를 만들어서 최종 고객의 삶을 풍요롭게 바꿀 수 있는 새로운 시장을 개척해 나갈 준비도 치밀하게 해야 한다”고 강조했다.
+
+그는	그/NP+는/JX
+“SAP사업에	“/SS+SAP/SL+사업/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+도전은	도전/NNG+은/JX
+아직도	아직/MAG+도/JX
+진행	진행/NNG
+중”이라며	중/NNB+”/SS+이/VCP+라며/EC
+“세상	“/SS+세상/NNG
+어디에도	어디/NP+에/JKB+도/JX
+존재하지	존재/NNG+하/XSV+지/EC
+않았던	않/VX+았/EP+던/ETM
+최고의	최고/NNG+의/JKG
+고흡수성	고/XPN+흡수/NNG+성/XSN
+특수수지를	특수/NNG+수지/NNG+를/JKO
+만들어서	만들/VV+어서/EC
+최종	최종/NNG
+고객의	고객/NNG+의/JKG
+삶을	삶/NNG+을/JKO
+풍요롭게	풍요/NNG+롭/XSA+게/EC
+바꿀	바꾸/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+시장을	시장/NNG+을/JKO
+개척해	개척/NNG+하/XSV+아/EC
+나갈	나가/VX+ㄹ/ETM
+준비도	준비/NNG+도/JX
+치밀하게	치밀하/VA+게/EC
+해야	하/VV+아야/EC
+한다”고	하/VX+ㄴ다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.12.1
+LG화학은 박 부회장 지휘 아래 SAP사업 성공에 심혈을 기울이고 있다.
+
+LG화학은	LG화학/NNP+은/JX
+박	박/NNP
+부회장	부회장/NNG
+지휘	지휘/NNG
+아래	아래/NNG
+SAP사업	SAP/SL+사업/NNG
+성공에	성공/NNG+에/JKB
+심혈을	심혈/NNG+을/JKO
+기울이고	기울이/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.26.12.2
+LG화학은 박 부회장이 본부장을 겸직하고 있는 석유화학사업본부 산하에 ‘기능수지사업부문’을 신설하고 기존 아크릴·가소제 사업부를 내년부터 아크릴·SAP사업부로 명칭을 변경할 계획이다.
+
+LG화학은	LG화학/NNP+은/JX
+박	박/NNP
+부회장이	부회장/NNG+이/JKS
+본부장을	본부장/NNG+을/JKO
+겸직하고	겸직/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+석유화학사업본부	석유/NNG+화학/NNG+사업/NNG+본부/NNG
+산하에	산하/NNG+에/JKB
+‘기능수지사업부문’을	‘/SS+기능/NNG+수지/NNG+사업/NNG+부문/NNG+’/SS+을/JKO
+신설하고	신설/NNG+하/XSV+고/EC
+기존	기존/NNG
+아크릴·가소제	아크릴/NNG+·/SP+가소제/NNG
+사업부를	사업부/NNG+를/JKO
+내년부터	내년/NNG+부터/JX
+아크릴·SAP사업부로	아크릴/NNG+·/SP+SAP/SL+사업부/NNG+로/JKB
+명칭을	명칭/NNG+을/JKO
+변경할	변경/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.13.1
+3생산라인에 이어 내년에 또다시 여수공장에 4생산라인을 만들기로 했다.
+
+3생산라인에	3/SN+생산/NNG+라인/NNG+에/JKB
+이어	잇/VV+어/EC
+내년에	내년/NNG+에/JKB
+또다시	또다시/MAG
+여수공장에	여수/NNP+공장/NNG+에/JKB
+4생산라인을	4/SN+생산/NNG+라인/NNG+을/JKO
+만들기로	만들/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.13.2
+LG화학 관계자는 “내년에 또다시 800억 원을 투입해 SAP 라인을 증설할 계획”이라며 “2015년 8만 t 규모의 이 라인이 가동되면 SAP 생산량은 연간 34만 t 규모로 늘어날 것”이라고 밝혔다.
+
+LG화학	LG화학/NNP
+관계자는	관계자/NNG+는/JX
+“내년에	“/SS+내년/NNG+에/JKB
+또다시	또다시/MAG
+800억	800/SN+억/NR
+원을	원/NNB+을/JKO
+투입해	투입/NNG+하/XSV+아/EC
+SAP	SAP/SL
+라인을	라인/NNG+을/JKO
+증설할	증설/NNG+하/XSV+ㄹ/ETM
+계획”이라며	계획/NNG+”/SS+이/VCP+라며/EC
+“2015년	“/SS+2015/SN+년/NNB
+8만	8/SN+만/NR
+t	t/SW
+규모의	규모/NNG+의/JKG
+이	이/MMD
+라인이	라인/NNG+이/JKS
+가동되면	가동/NNG+되/XSV+면/EC
+생산량은	생산량/NNG+은/JX
+연간	연간/NNG
+34만	34/SN+만/NR
+규모로	규모/NNG+로/JKB
+늘어날	늘어나/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.26.14.1
+세계 SAP 시장은 2012년 200만 t 규모에서 2017년 260만 t으로 매년 6%씩 성장할 것으로 LG화학은 예상하고 있다.
+
+세계	세계/NNG
+SAP	SAP/SL
+시장은	시장/NNG+은/JX
+2012년	2012/SN+년/NNB
+200만	200/SN+만/NR
+t	t/SW
+규모에서	규모/NNG+에서/JKB
+2017년	2017/SN+년/NNB
+260만	260/SN+만/NR
+t으로	t/SW+으로/JKB
+매년	매년/MAG
+6%씩	6/SN+%/SW+씩/XSN
+성장할	성장/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+LG화학은	LG화학/NNP+은/JX
+예상하고	예상/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.26.15.1
+LG화학 관계자는 “세계적인 노령화로 성인용 기저귀 시장이 확대되고 있는 만큼 SAP 시장 전망도 밝다”며 “현재 SAP시장에서 세계 6위인 LG화학은 앞으로 ‘빅3’인 독일 에보닉과 바스프, 일본의 일본촉매화학 가운데 한 회사를 제치고 새로운 ‘빅3’로 도약하겠다는 것이 목표”라고 말했다.
+
+LG화학	LG화학/NNP
+관계자는	관계자/NNG+는/JX
+“세계적인	“/SS+세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+노령화로	노령/NNG+화/XSN+로/JKB
+성인용	성인/NNG+용/XSN
+기저귀	기저귀/NNG
+시장이	시장/NNG+이/JKS
+확대되고	확대/NNG+되/XSV+고/EC
+있는	있/VX+는/ETM
+만큼	만큼/NNB
+SAP	SAP/SL
+시장	시장/NNG
+전망도	전망/NNG+도/JX
+밝다”며	밝/VA+다/EF+”/SS+며/EC
+“현재	“/SS+현재/MAG
+SAP시장에서	SAP/SL+시장/NNG+에서/JKB
+세계	세계/NNG
+6위인	6/SN+위/NNB+이/VCP+ㄴ/ETM
+LG화학은	LG화학/NNP+은/JX
+앞으로	앞/NNG+으로/JKB
+‘빅3’인	‘/SS+빅/NNG+3/SN+’/SS+이/VCP+ㄴ/ETM
+독일	독일/NNP
+에보닉과	에보닉/NNP+과/JC
+바스프,	바스프/NNP+,/SP
+일본의	일본/NNP+의/JKG
+일본촉매화학	일본촉매화학/NNP
+가운데	가운데/NNG
+한	한/MMN
+회사를	회사/NNG+를/JKO
+제치고	제치/VV+고/EC
+새로운	새롭/VA+ㄴ/ETM
+‘빅3’로	‘/SS+빅/NNG+3/SN+’/SS+로/JKB
+도약하겠다는	도약/NNG+하/XSV+겠/EP+다는/ETM
+것이	것/NNB+이/JKS
+목표”라고	목표/NNG+”/SS+라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

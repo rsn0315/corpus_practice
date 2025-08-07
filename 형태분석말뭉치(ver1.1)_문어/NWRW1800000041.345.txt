@@ -1,0 +1,545 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.345
+metadata : {}
+
+
+# id : NWRW1800000041.345.1.1
+2015년초 바다밑 1만km ‘韓流 아우토반’ 뚫린다
+
+2015년초	2015/SN+년/NNB+초/NNB
+바다밑	바다/NNG+밑/NNG
+1만km	1/SN+만/NR+km/SW
+‘韓流	‘/SS+韓流/SH
+아우토반’	아우토반/NNP+’/SS
+뚫린다	뚫리/VV+ㄴ다/EF
+
+
+# id : NWRW1800000041.345.2.1
+KT, 9월 부산에 종합관제센터 열고 운영준비 본격화
+
+KT,	KT/SL+,/SP
+9월	9/SN+월/NNB
+부산에	부산/NNP+에/JKB
+종합관제센터	종합/NNG+관제/NNG+센터/NNG
+열고	열/VV+고/EC
+운영준비	운영/NNG+준비/NNG
+본격화	본격/NNG+화/XSN
+
+
+# id : NWRW1800000041.345.3.1
+중국과 동남아시아, 남미 등의 한류 팬들은 국내 팬들과 거의 동시에 한국 아이돌 가수의 새 뮤직비디오를 감상할 수 있다.
+
+중국과	중국/NNP+과/JC
+동남아시아,	동남아시아/NNP+,/SP
+남미	남미/NNP
+등의	등/NNB+의/JKG
+한류	한류/NNG
+팬들은	팬/NNG+들/XSN+은/JX
+국내	국내/NNG
+팬들과	팬/NNG+들/XSN+과/JKB
+거의	거의/MAG
+동시에	동시/NNG+에/JKB
+한국	한국/NNP
+아이돌	아이돌/NNG
+가수의	가수/NNG+의/JKG
+새	새/MMA
+뮤직비디오를	뮤직비디오/NNG+를/JKO
+감상할	감상/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.345.3.2
+국경 없이 접속 가능한 인터넷 덕분이다.
+
+국경	국경/NNG
+없이	없이/MAG
+접속	접속/NNG
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+인터넷	인터넷/NNG
+덕분이다.	덕분/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.3.3
+하지만 손에 잡히지 않는 이런 디지털 콘텐츠들도 실제로는 먼 길을 빠른 속도로 이동한 끝에 소비자에게 도달된다.
+
+하지만	하지만/MAJ
+손에	손/NNG+에/JKB
+잡히지	잡히/VV+지/EC
+않는	않/VX+는/ETM
+이런	이런/MMD
+디지털	디지털/NNG
+콘텐츠들도	콘텐츠/NNG+들/XSN+도/JX
+실제로는	실제로/MAG+는/JX
+먼	멀/VA+ㄴ/ETM
+길을	길/NNG+을/JKO
+빠른	빠르/VA+ㄴ/ETM
+속도로	속도/NNG+로/JKB
+이동한	이동/NNG+하/XSV+ㄴ/ETM
+끝에	끝/NNG+에/JKB
+소비자에게	소비자/NNG+에게/JKB
+도달된다.	도달/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.3.4
+디지털 상품들이 오가는 ‘도로’는 심해에 구축된 해저케이블이다.
+
+디지털	디지털/NNG
+상품들이	상품/NNG+들/XSN+이/JKS
+오가는	오가/VV+는/ETM
+‘도로’는	‘/SS+도로/NNG+’/SS+는/JX
+심해에	심해/NNG+에/JKB
+구축된	구축/NNG+되/XSV+ㄴ/ETM
+해저케이블이다.	해저/NNG+케이블/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.4.1
+동아시아 지역에 1만 km의 ‘고속도로’가 새롭게 뚫려 국제 인터넷 속도가 훨씬 빨라진다.
+
+동아시아	동아시아/NNP
+지역에	지역/NNG+에/JKB
+1만	1/SN+만/NR
+km의	km/SW+의/JKG
+‘고속도로’가	‘/SS+고속/NNG+도로/NNG+’/SS+가/JKS
+새롭게	새롭/VA+게/EC
+뚫려	뚫리/VV+어/EC
+국제	국제/NNG
+인터넷	인터넷/NNG
+속도가	속도/NNG+가/JKS
+훨씬	훨씬/MAG
+빨라진다.	빠르/VA+아/EC+지/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.4.2
+KT는 자사를 포함한 9개국 13개 통신사가 공동 구축한 ‘APG(Asia Pacific Gateway) 해저 광케이블’이 2015년 초 개통된다고 2일 밝혔다.
+
+KT는	KT/SL+는/JX
+자사를	자사/NNG+를/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+9개국	9/SN+개국/NNB
+13개	13/SN+개/NNB
+통신사가	통신사/NNG+가/JKS
+공동	공동/NNG
+구축한	구축/NNG+하/XSV+ㄴ/ETM
+‘APG(Asia	‘/SS+APG/SL+(/SS+Asia/SL
+Pacific	Pacific/SL
+Gateway)	Gateway/SL+)/SS
+해저	해저/NNG
+광케이블’이	광케이블/NNG+’/SS+이/JKS
+2015년	2015/SN+년/NNB
+초	초/NNB
+개통된다고	개통/NNG+되/XSV+ㄴ다고/EC
+2일	2/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.4.3
+개통에 앞서 APG 해저케이블의 관리와 운용을 맡는 종합관제센터(NOC)는 이달 부산에서 문을 열고 본격적인 운영 준비에 들어간다.
+
+개통에	개통/NNG+에/JKB
+앞서	앞서/VV+어/EC
+APG	APG/SL
+해저케이블의	해저/NNG+케이블/NNG+의/JKG
+관리와	관리/NNG+와/JC
+운용을	운용/NNG+을/JKO
+맡는	맡/VV+는/ETM
+종합관제센터(NOC)는	종합/NNG+관제/NNG+센터/NNG+(/SS+NOC/SL+)/SS+는/JX
+이달	이달/NNG
+부산에서	부산/NNP+에서/JKB
+문을	문/NNG+을/JKO
+열고	열/VV+고/EC
+본격적인	본격/NNG+적/XSN+이/VCP+ㄴ/ETM
+운영	운영/NNG
+준비에	준비/NNG+에/JKB
+들어간다.	들어가/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.5.1
+○ “완공땐 인터넷 속도 2배 이상 빨라져”
+
+○	○/SW
+“완공땐	“/SS+완공/NNG+때/NNG+ㄴ/JX
+인터넷	인터넷/NNG
+속도	속도/NNG
+2배	2/SN+배/NNG
+이상	이상/NNG
+빨라져”	빠르/VA+아/EC+지/VX+어/EF+”/SS
+
+
+# id : NWRW1800000041.345.6.1
+2012년 구축 작업이 시작돼 내년 초 완공되는 APG 해저케이블은 한국과 중국 일본 홍콩 대만 싱가포르 베트남 태국 말레이시아 등 동아시아 지역 9개 국가를 연결한다.
+
+2012년	2012/SN+년/NNB
+구축	구축/NNG
+작업이	작업/NNG+이/JKS
+시작돼	시작/NNG+되/XSV+어/EC
+내년	내년/NNG
+초	초/NNB
+완공되는	완공/NNG+되/XSV+는/ETM
+APG	APG/SL
+해저케이블은	해저/NNG+케이블/NNG+은/JX
+한국과	한국/NNP+과/JC
+중국	중국/NNP
+일본	일본/NNP
+홍콩	홍콩/NNP
+대만	대만/NNP
+싱가포르	싱가포르/NNP
+베트남	베트남/NNP
+태국	태국/NNP
+말레이시아	말레이시아/NNP
+등	등/NNB
+동아시아	동아시아/NNP
+지역	지역/NNG
+9개	9/SN+개/NNB
+국가를	국가/NNG+를/JKO
+연결한다.	연결/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.6.2
+이 지역에는 이미 1만9000km에 달하는 ‘APCN2’를 비롯한 여러 해저케이블이 복잡하게 얽혀 있다.
+
+이	이/MMD
+지역에는	지역/NNG+에/JKB+는/JX
+이미	이미/MAG
+1만9000km에	1/SN+만/NR+9000/SN+km/SW+에/JKB
+달하는	달하/VV+는/ETM
+‘APCN2’를	‘/SS+APCN/SL+2/SN+’/SS+를/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+여러	여러/MMN
+해저케이블이	해저/NNG+케이블/NNG+이/JKS
+복잡하게	복잡하/VA+게/EC
+얽혀	얽히/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.345.6.3
+하지만 해외에서 한국 게임이나 한류 콘텐츠에 대한 접속량이 크게 늘어나는 등 아시아 지역의 데이터 트래픽이 폭증하면서 좀 더 빠르고 안정적인 국제 통신망이 추가로 필요해졌다.
+
+하지만	하지만/MAJ
+해외에서	해외/NNG+에서/JKB
+한국	한국/NNP
+게임이나	게임/NNG+이나/JC
+한류	한류/NNG
+콘텐츠에	콘텐츠/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+접속량이	접속량/NNG+이/JKS
+크게	크/VA+게/EC
+늘어나는	늘어나/VV+는/ETM
+등	등/NNB
+아시아	아시아/NNP
+지역의	지역/NNG+의/JKG
+데이터	데이터/NNG
+트래픽이	트래픽/NNG+이/JKS
+폭증하면서	폭증/NNG+하/XSV+면서/EC
+좀	좀/MAG
+더	더/MAG
+빠르고	빠르/VA+고/EC
+안정적인	안정/NNG+적/XSN+이/VCP+ㄴ/ETM
+국제	국제/NNG
+통신망이	통신망/NNG+이/JKS
+추가로	추가/NNG+로/JKB
+필요해졌다.	필요/NNG+하/XSA+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.7.1
+APG의 전송 속도는 초당 38.4테라비트(Tbps)로 기존 국내에 연결된 해저케이블의 속도(2.56∼7.68Tbps)에 비하면 ‘초고속도로’라고 할 수 있다.
+
+APG의	APG/SL+의/JKG
+전송	전송/NNG
+속도는	속도/NNG+는/JX
+초당	초/NNB+당/XSN
+38.4테라비트(Tbps)로	38/SN+./SP+4/SN+테라비트/NNB+(/SS+Tbps/SW+)/SS+로/JKB
+기존	기존/NNG
+국내에	국내/NNG+에/JKB
+연결된	연결/NNG+되/XSV+ㄴ/ETM
+해저케이블의	해저/NNG+케이블/NNG+의/JKG
+속도(2.56∼7.68Tbps)에	속도/NNG+(/SS+2/SN+./SP+56/SN+∼/SO+7/SN+./SP+68/SN+Tbps/SW+)/SS+에/JKB
+비하면	비/NNG+하/XSV+면/EC
+‘초고속도로’라고	‘/SS+초/XPN+고속/NNG+도로/NNG+’/SS+라고/JKQ
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.345.7.2
+KT 관계자는 “1초에 영화 7200편을 전송할 수 있는 속도”라며 “APG 완공 후부터 국제 인터넷 체감 속도가 2배 이상으로 빨라질 것”이라고 설명했다.
+
+KT	KT/SL
+관계자는	관계자/NNG+는/JX
+“1초에	“/SS+1/SN+초/NNB+에/JKB
+영화	영화/NNG
+7200편을	7200/SN+편/NNB+을/JKO
+전송할	전송/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+속도”라며	속도/NNG+”/SS+이/VCP+라며/EC
+“APG	“/SS+APG/SL
+완공	완공/NNG
+후부터	후/NNG+부터/JX
+국제	국제/NNG
+인터넷	인터넷/NNG
+체감	체감/NNG
+속도가	속도/NNG+가/JKS
+2배	2/SN+배/NNG
+이상으로	이상/NNG+으로/JKB
+빨라질	빠르/VA+아/EC+지/VX+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.8.1
+현재까지 지구상에 구축된 해저케이블 수는 모두 250여 개.
+
+현재까지	현재/NNG+까지/JX
+지구상에	지구/NNG+상/XSN+에/JKB
+구축된	구축/NNG+되/XSV+ㄴ/ETM
+해저케이블	해저/NNG+케이블/NNG
+수는	수/NNG+는/JX
+모두	모두/MAG
+250여	250/SN+여/XSN
+개.	개/NNB+./SF
+
+
+# id : NWRW1800000041.345.8.2
+총 길이는 60만 km가 넘는다.
+
+총	총/MMA
+길이는	길이/NNG+는/JX
+60만	60/SN+만/NR
+km가	km/SW+가/JKS
+넘는다.	넘/VV+는다/EF+./SF
+
+
+# id : NWRW1800000041.345.8.3
+국경을 넘나드는 인터넷 데이터의 99%가 이 해저케이블로 이동한다.
+
+국경을	국경/NNG+을/JKO
+넘나드는	넘나들/VV+는/ETM
+인터넷	인터넷/NNG
+데이터의	데이터/NNG+의/JKG
+99%가	99/SN+%/SW+가/JKS
+이	이/MMD
+해저케이블로	해저/NNG+케이블/NNG+로/JKB
+이동한다.	이동/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.8.4
+한 번 구축하는 데 수천억 원이 들지만 거의 매년 증설이 이뤄지고 있다.
+
+한	한/MMN
+번	번/NNB
+구축하는	구축/NNG+하/XSV+는/ETM
+데	데/NNB
+수천억	수천억/NR
+원이	원/NNB+이/JKS
+들지만	들/VV+지만/EC
+거의	거의/MAG
+매년	매년/MAG
+증설이	증설/NNG+이/JKS
+이뤄지고	이뤄지/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.345.8.5
+물동량이 많아지면 도로를 넓히는 것과 같은 이치다.
+
+물동량이	물동량/NNG+이/JKS
+많아지면	많아지/VV+면/EC
+도로를	도로/NNG+를/JKO
+넓히는	넓히/VV+는/ETM
+것과	것/NNB+과/JKB
+같은	같/VA+은/ETM
+이치다.	이치/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.9.1
+최근에는 세계 최대 인터넷 기업 구글도 직접 해저케이블 구축 사업에 뛰어들었다.
+
+최근에는	최근/NNG+에/JKB+는/JX
+세계	세계/NNG
+최대	최대/NNG
+인터넷	인터넷/NNG
+기업	기업/NNG
+구글도	구글/NNP+도/JX
+직접	직접/MAG
+해저케이블	해저/NNG+케이블/NNG
+구축	구축/NNG
+사업에	사업/NNG+에/JKB
+뛰어들었다.	뛰어들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.9.2
+우르스 휄즐 구글 수석부사장은 “수십억 명으로 늘어난 안드로이드 사용자에게 더 나은 서비스를 제공하기 위한 것”이라고 밝혔다.
+
+우르스	우르스/NNP
+휄즐	휄즐/NNP
+구글	구글/NNP
+수석부사장은	수석/NNG+부사장/NNG+은/JX
+“수십억	“/SS+수십억/NR
+명으로	명/NNB+으로/JKB
+늘어난	늘어나/VV+ㄴ/ETM
+안드로이드	안드로이드/NNG
+사용자에게	사용자/NNG+에게/JKB
+더	더/MAG
+나은	낫/VA+은/ETM
+서비스를	서비스/NNG+를/JKO
+제공하기	제공/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.9.3
+구글이 3000억 원을 들여 중국 차이나텔레콤 5개 통신기업과 함께 2016년까지 구축하기로 한 해저케이블의 이름은 ‘패스터(faster·더 빠른)’.
+
+구글이	구글/NNP+이/JKS
+3000억	3000/SN+억/NR
+원을	원/NNB+을/JKO
+들여	들이/VV+어/EC
+중국	중국/NNP
+차이나텔레콤	차이나텔레콤/NNP
+5개	5/SN+개/NNB
+통신기업과	통신/NNG+기업/NNG+과/JKB
+함께	함께/MAG
+2016년까지	2016/SN+년/NNB+까지/JX
+구축하기로	구축/NNG+하/XSV+기/ETN+로/JKB
+한	하/VV+ㄴ/ETM
+해저케이블의	해저/NNG+케이블/NNG+의/JKG
+이름은	이름/NNG+은/JX
+‘패스터(faster·더	‘/SS+패스터/NNG+(/SS+faster/SL+·/SP+더/MAG
+빠른)’.	빠르/VA+ㄴ/ETM+)/SS+’/SS+./SF
+
+
+# id : NWRW1800000041.345.9.4
+역대 최고인 60Tbps의 속도를 낼 것으로 전망된다.
+
+역대	역대/NNG
+최고인	최고/NNG+이/VCP+ㄴ/ETM
+60Tbps의	60/SN+Tbps/SW+의/JKG
+속도를	속도/NNG+를/JKO
+낼	내/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.10.1
+○ ‘통신허브’, IT산업 경쟁력 발판
+
+○	○/SW
+‘통신허브’,	‘/SS+통신/NNG+허브/NNG+’/SS+,/SP
+IT산업	IT/SL+산업/NNG
+경쟁력	경쟁력/NNG
+발판	발판/NNG
+
+
+# id : NWRW1800000041.345.11.1
+이달 말 부산 KT부산국제센터에 개관하는 종합관제센터는 APG의 회선 구성과 현황 관리, 유지보수, 재난 발생 시 긴급 복구 등 운용 전반을 담당하는 곳이다.
+
+이달	이달/NNG
+말	말/NNB
+부산	부산/NNP
+KT부산국제센터에	KT부산국제센터/NNP+에/JKB
+개관하는	개관/NNG+하/XSV+는/ETM
+종합관제센터는	종합/NNG+관제/NNG+센터/NNG+는/JX
+APG의	APG/SL+의/JKG
+회선	회선/NNG
+구성과	구성/NNG+과/JC
+현황	현황/NNG
+관리,	관리/NNG+,/SP
+유지보수,	유지/NNG+보수/NNG+,/SP
+재난	재난/NNG
+발생	발생/NNG
+시	시/NNB
+긴급	긴급/NNG
+복구	복구/NNG
+등	등/NNB
+운용	운용/NNG
+전반을	전반/NNG+을/JKO
+담당하는	담당/NNG+하/XSV+는/ETM
+곳이다.	곳/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.11.2
+통신망 운용 경험을 통해 해저케이블의 ‘허브 육양국(陸揚局)’ 사업의 성장기반을 닦을 수 있다는 전망이 나온다.
+
+통신망	통신망/NNG
+운용	운용/NNG
+경험을	경험/NNG+을/JKO
+통해	통하/VV+아/EC
+해저케이블의	해저/NNG+케이블/NNG+의/JKG
+‘허브	‘/SS+허브/NNG
+육양국(陸揚局)’	육양/NNG+국/NNG+(/SS+陸揚局/SH+)/SS+’/SS
+사업의	사업/NNG+의/JKG
+성장기반을	성장/NNG+기반/NNG+을/JKO
+닦을	닦/VV+을/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+전망이	전망/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.11.3
+육양국은 해저케이블을 운용 및 관리하기 위해 설치되는 지상의 전화국과 같은 설비를 뜻한다.
+
+육양국은	육양/NNG+국/NNG+은/JX
+해저케이블을	해저/NNG+케이블/NNG+을/JKO
+운용	운용/NNG
+및	및/MAG
+관리하기	관리/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+설치되는	설치/NNG+되/XSV+는/ETM
+지상의	지상/NNG+의/JKG
+전화국과	전화국/NNG+과/JKB
+같은	같/VA+은/ETM
+설비를	설비/NNG+를/JKO
+뜻한다.	뜻/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.345.12.1
+KT 관계자는 “허브 육양국이 늘어나면 자국 콘텐츠나 인터넷 서비스 기업의 해외 진출이 훨씬 용이해지는 부가적 효과를 누릴 수 있다”고 말했다.
+
+KT	KT/SL
+관계자는	관계자/NNG+는/JX
+“허브	“/SS+허브/NNG
+육양국이	육양/NNG+국/NNG+이/JKS
+늘어나면	늘어나/VV+면/EC
+자국	자국/NNG
+콘텐츠나	콘텐츠/NNG+나/JC
+인터넷	인터넷/NNG
+서비스	서비스/NNG
+기업의	기업/NNG+의/JKG
+해외	해외/NNG
+진출이	진출/NNG+이/JKS
+훨씬	훨씬/MAG
+용이해지는	용이하/VA+아/EC+지/VX+는/ETM
+부가적	부가/NNG+적/XSN
+효과를	효과/NNG+를/JKO
+누릴	누리/VV+ㄹ/ETM
+수	수/NNB
+있다”고	있/VA+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.345.12.2
+해외에서도 국내 서비스를 이용하는 서비스가 빨라지니 자연스레 더 많은 사용자가 유입될 수 있는 것이다.
+
+해외에서도	해외/NNG+에서/JKB+도/JX
+국내	국내/NNG
+서비스를	서비스/NNG+를/JKO
+이용하는	이용/NNG+하/XSV+는/ETM
+서비스가	서비스/NNG+가/JKS
+빨라지니	빠르/VA+아/EC+지/VX+니/EC
+자연스레	자연스레/MAG
+더	더/MAG
+많은	많/VA+은/ETM
+사용자가	사용자/NNG+가/JKS
+유입될	유입/NNG+되/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+

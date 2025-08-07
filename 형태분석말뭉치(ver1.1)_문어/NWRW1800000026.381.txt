@@ -1,0 +1,243 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.381
+metadata : {}
+
+
+# id : NWRW1800000026.381.1.1
+SK telecom_국가적 차원의 성장동력 만드는 '7대 플랫폼' 선정
+
+SK	SK/SL
+telecom_국가적	telecom/SL+_/SW+국가/NNG+적/XSN
+차원의	차원/NNG+의/JKG
+성장동력	성장/NNG+동력/NNG
+만드는	만들/VV+는/ETM
+'7대	'/SS+7/SN+대/NNG
+플랫폼'	플랫폼/NNG+'/SS
+선정	선정/NNG
+
+
+# id : NWRW1800000026.381.2.1
+SK텔레콤은 국가적 차원의 성장동력을 창출하기 위해 '글로벌 플랫폼 사업자'를 목표로 '7개 조기 육성 서비스 플랫폼군'을 선정해 추진하고 있다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+국가적	국가/NNG+적/XSN
+차원의	차원/NNG+의/JKG
+성장동력을	성장/NNG+동력/NNG+을/JKO
+창출하기	창출/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+'글로벌	'/SS+글로벌/NNG
+플랫폼	플랫폼/NNG
+사업자'를	사업자/NNG+'/SS+를/JKO
+목표로	목표/NNG+로/JKB
+'7개	'/SS+7/SN+개/NNB
+조기	조기/NNG
+육성	육성/NNG
+서비스	서비스/NNG
+플랫폼군'을	플랫폼군/NNG+'/SS+을/JKO
+선정해	선정/NNG+하/XSV+아/EC
+추진하고	추진/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.381.3.1
+'서비스 플랫폼'이란 글로벌 SNS(소셜네트워크서비스)인 페이스북이나 구글 맵스(지도), 애플의 온라인 응용프로그램 장터인 '아이튠스'처럼 콘텐츠와 서비스, 애플리케이션(응용프로그램)을 고객의 단말기에 전달하는 그릇을 일컫는다.
+
+'서비스	'/SS+서비스/NNG
+플랫폼'이란	플랫폼/NNG+'/SS+이란/JX
+글로벌	글로벌/NNG
+SNS(소셜네트워크서비스)인	SNS/SL+(/SS+소셜/NNG+네트워크/NNG+서비스/NNG+)/SS+이/VCP+ㄴ/ETM
+페이스북이나	페이스북/NNP+이나/JC
+구글	구글/NNP
+맵스(지도),	맵스/NNP+(/SS+지도/NNG+)/SS+,/SP
+애플의	애플/NNP+의/JKG
+온라인	온라인/NNG
+응용프로그램	응용/NNG+프로그램/NNG
+장터인	장터/NNG+이/VCP+ㄴ/ETM
+'아이튠스'처럼	'/SS+아이튠스/NNP+'/SS+처럼/JKB
+콘텐츠와	콘텐츠/NNG+와/JC
+서비스,	서비스/NNG+,/SP
+애플리케이션(응용프로그램)을	애플리케이션/NNG+(/SS+응용/NNG+프로그램/NNG+)/SS+을/JKO
+고객의	고객/NNG+의/JKG
+단말기에	단말기/NNG+에/JKB
+전달하는	전달/NNG+하/XSV+는/ETM
+그릇을	그릇/NNG+을/JKO
+일컫는다.	일컫/VV+는다/EF+./SF
+
+
+# id : NWRW1800000026.381.3.2
+예를 들어 지도만 보여주거나 음악만 틀어주면 응용프로그램에 불과하지만, 이를 외부 개발자와 협력해 생산할 수 있으면 '서비스 플랫폼'이 되는 것.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+지도만	지도/NNG+만/JX
+보여주거나	보이/VV+어/EC+주/VX+거나/EC
+음악만	음악/NNG+만/JX
+틀어주면	틀/VV+어/EC+주/VX+면/EC
+응용프로그램에	응용/NNG+프로그램/NNG+에/JKB
+불과하지만,	불과/MAG+하/XSA+지만/EC+,/SP
+이를	이/NP+를/JKO
+외부	외부/NNG
+개발자와	개발자/NNG+와/JKB
+협력해	협력/NNG+하/XSV+아/EC
+생산할	생산/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있으면	있/VA+으면/EC
+'서비스	'/SS+서비스/NNG
+플랫폼'이	플랫폼/NNG+'/SS+이/JKC
+되는	되/VV+는/ETM
+것.	것/NNB+./SF
+
+
+# id : NWRW1800000026.381.3.3
+SK텔레콤은 지도 서비스인 'T맵'과 문자서비스, 온라인 응용프로그램 장터 'T스토어' 등을 이러한 서비스 플랫폼으로 발전시킨다는 계획이다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+지도	지도/NNG
+서비스인	서비스/NNG+이/VCP+ㄴ/ETM
+'T맵'과	'/SS+T맵/NNP+'/SS+과/JC
+문자서비스,	문자/NNG+서비스/NNG+,/SP
+온라인	온라인/NNG
+응용프로그램	응용/NNG+프로그램/NNG
+장터	장터/NNG
+'T스토어'	'/SS+T스토어/NNP+'/SS
+등을	등/NNB+을/JKO
+이러한	이러하/VA+ㄴ/ETM
+서비스	서비스/NNG
+플랫폼으로	플랫폼/NNG+으로/JKB
+발전시킨다는	발전/NNG+시키/XSV+ㄴ다는/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.381.4.1
+SK텔레콤이 선정한 '7대 플랫폼'은 T맵과 모바일 상업거래, 문자메시지와 메신저, 음악 등의 콘텐츠 유통, 싸이월드 등의 SNS, 스마트오피스 등의 기업거래, 모바일 광고 등 범용 플랫폼이다.
+
+SK텔레콤이	SK텔레콤/NNP+이/JKS
+선정한	선정/NNG+하/XSV+ㄴ/ETM
+'7대	'/SS+7/SN+대/NNG
+플랫폼'은	플랫폼/NNG+'/SS+은/JX
+T맵과	T맵/NNP+과/JC
+모바일	모바일/NNG
+상업거래,	상업/NNG+거래/NNG+,/SP
+문자메시지와	문자/NNG+메시지/NNG+와/JC
+메신저,	메신저/NNG+,/SP
+음악	음악/NNG
+등의	등/NNB+의/JKG
+콘텐츠	콘텐츠/NNG
+유통,	유통/NNG+,/SP
+싸이월드	싸이월드/NNP
+SNS,	SNS/SL+,/SP
+스마트오피스	스마트/NNG+오피스/NNG
+기업거래,	기업/NNG+거래/NNG+,/SP
+광고	광고/NNG
+등	등/NNB
+범용	범용/NNG
+플랫폼이다.	플랫폼/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.381.5.1
+SK텔레콤 이항수 상무는 "서비스플랫폼 육성을 위해 앞으로 3년 동안 총 1조원을 투자할 계획"이라며 "미국과 중국 및 동남아 시장을 대상으로 글로벌 플랫폼 사업을 추진할 것"이라고 밝혔다.
+
+SK텔레콤	SK텔레콤/NNP
+이항수	이항수/NNP
+상무는	상무/NNG+는/JX
+"서비스플랫폼	"/SS+서비스/NNG+플랫폼/NNG
+육성을	육성/NNG+을/JKO
+위해	위하/VV+아/EC
+앞으로	앞/NNG+으로/JKB
+3년	3/SN+년/NNB
+동안	동안/NNG
+총	총/MMA
+1조원을	1/SN+조/NR+원/NNB+을/JKO
+투자할	투자/NNG+하/XSV+ㄹ/ETM
+계획"이라며	계획/NNG+"/SS+이/VCP+라며/EC
+"미국과	"/SS+미국/NNP+과/JC
+중국	중국/NNP
+및	및/MAG
+동남아	동남아/NNP
+시장을	시장/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+글로벌	글로벌/NNG
+플랫폼	플랫폼/NNG
+사업을	사업/NNG+을/JKO
+추진할	추진/NNG+하/XSV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.381.5.2
+이를 위해 SK텔레콤은 콘텐츠와 기기 사업자 및 외부 개발자들과 협력 시스템을 통한 동반성장을 추구한다는 방안이다.
+
+이를	이/NP+를/JKO
+위해	위하/VV+아/EC
+SK텔레콤은	SK텔레콤/NNP+은/JX
+콘텐츠와	콘텐츠/NNG+와/JC
+기기	기기/NNG
+사업자	사업자/NNG
+및	및/MAG
+외부	외부/NNG
+개발자들과	개발자/NNG+들/XSN+과/JKB
+협력	협력/NNG
+시스템을	시스템/NNG+을/JKO
+통한	통하/VV+ㄴ/ETM
+동반성장을	동반/NNG+성장/NNG+을/JKO
+추구한다는	추구/NNG+하/XSV+ㄴ다는/ETM
+방안이다.	방안/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.381.6.1
+이에 따라 T맵과 문자메시지, T스토어 등 시장에서 경쟁력을 가진 플랫폼을 개방할 계획이다.
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+T맵과	T맵/NNP+과/JC
+문자메시지,	문자/NNG+메시지/NNG+,/SP
+T스토어	T스토어/NNP
+등	등/NNB
+시장에서	시장/NNG+에서/JKB
+경쟁력을	경쟁력/NNG+을/JKO
+가진	가지/VV+ㄴ/ETM
+플랫폼을	플랫폼/NNG+을/JKO
+개방할	개방/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.381.6.2
+이를 위해 연내 외부 개발자들이 SK텔레콤의 플랫폼을 활용할 수 있도록 한 '통합 API(Application Programming Interface) 센터'를 열 예정이다.
+
+이를	이/NP+를/JKO
+위해	위하/VV+아/EC
+연내	연내/NNG
+외부	외부/NNG
+개발자들이	개발자/NNG+들/XSN+이/JKS
+SK텔레콤의	SK텔레콤/NNP+의/JKG
+플랫폼을	플랫폼/NNG+을/JKO
+활용할	활용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+한	하/VX+ㄴ/ETM
+'통합	'/SS+통합/NNG
+API(Application	API/SL+(/SS+Application/SL
+Programming	Programming/SL
+Interface)	Interface/SL+)/SS
+센터'를	센터/NNG+'/SS+를/JKO
+열	열/VV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.381.6.3
+앞으로 개발할 모든 플랫폼들 또한 '개방'을 전제로 설계·구축된다.
+
+앞으로	앞/NNG+으로/JKB
+개발할	개발/NNG+하/XSV+ㄹ/ETM
+모든	모든/MMN
+플랫폼들	플랫폼/NNG+들/XSN
+또한	또한/MAG
+'개방'을	'/SS+개방/NNG+'/SS+을/JKO
+전제로	전제/NNG+로/JKB
+설계·구축된다.	설계/NNG+·/SP+구축/NNG+되/XSV+ㄴ다/EF+./SF
+
+

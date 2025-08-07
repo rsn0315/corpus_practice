@@ -1,0 +1,284 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.313
+metadata : {}
+
+
+# id : NWRW1800000030.313.1.1
+정부, '신문 활용 교육(NIE: Newspaper In Education)'에 385억 지원키로
+
+정부,	정부/NNG+,/SP
+'신문	'/SS+신문/NNG
+활용	활용/NNG
+교육(NIE:	교육/NNG+(/SS+NIE/SL+:/SP
+Newspaper	Newspaper/SL
+In	In/SL
+Education)'에	Education/SL+)/SS+'/SS+에/JKB
+385억	385/SN+억/NR
+지원키로	지원/NNG+하/XSV+기/ETN+로/JKB
+
+
+# id : NWRW1800000030.313.2.1
+•"읽기문화 진흥하겠다"
+
+•"읽기문화	•/SW+"/SS+읽기/NNG+문화/NNG
+진흥하겠다"	진흥/NNG+하/XSV+겠/EP+다/EF+"/SS
+
+
+# id : NWRW1800000030.313.3.1
+정부가 신문 활용 교육(NIE: News paper In Education)의 확산을 위해 올해부터 2013년까지 385억원을 지원한다.
+
+정부가	정부/NNG+가/JKS
+신문	신문/NNG
+활용	활용/NNG
+교육(NIE:	교육/NNG+(/SS+NIE/SL+:/SP
+News	News/SL
+paper	paper/SL
+In	In/SL
+Education)의	Education/SL+)/SS+의/JKG
+확산을	확산/NNG+을/JKO
+위해	위하/VV+아/EC
+올해부터	올해/NNG+부터/JX
+2013년까지	2013/SN+년/NNB+까지/JX
+385억원을	385/SN+억/NR+원/NNB+을/JKO
+지원한다.	지원/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.313.4.1
+정병국 문화체육관광부 장관은 20일 서울 창덕여중에서 NIE 특강을 갖고 "읽기문화 진흥을 위해 NIE를 활성화하겠다"며 "초·중·고교 NIE 미디어 교과 과정과 교재를 개발해 학교에서 사용할 수 있도록 하고, 대학생·주부·노인 등을 대상으로 NIE 교육 프로그램을 개발·보급하겠다"고 밝혔다.
+
+정병국	정병국/NNP
+문화체육관광부	문화/NNG+체육/NNG+관광부/NNG
+장관은	장관/NNG+은/JX
+20일	20/SN+일/NNB
+서울	서울/NNP
+창덕여중에서	창덕여중/NNP+에서/JKB
+NIE	NIE/SL
+특강을	특강/NNG+을/JKO
+갖고	갖/VV+고/EC
+"읽기문화	"/SS+읽기/NNG+문화/NNG
+진흥을	진흥/NNG+을/JKO
+위해	위하/VV+아/EC
+NIE를	NIE/SL+를/JKO
+활성화하겠다"며	활성/NNG+화/XSN+하/XSV+겠/EP+다/EF+"/SS+며/EC
+"초·중·고교	"/SS+초·중·고교/NNG
+미디어	미디어/NNG
+교과	교과/NNG
+과정과	과정/NNG+과/JC
+교재를	교재/NNG+를/JKO
+개발해	개발/NNG+하/XSV+아/EC
+학교에서	학교/NNG+에서/JKB
+사용할	사용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하고,	하/VX+고/EC+,/SP
+대학생·주부·노인	대학/NNG+생/XSN+·/SP+주부/NNG+·/SP+노인/NNG
+등을	등/NNB+을/JKO
+대상으로	대상/NNG+으로/JKB
+교육	교육/NNG
+프로그램을	프로그램/NNG+을/JKO
+개발·보급하겠다"고	개발/NNG+·/SP+보급/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.313.5.1
+먼저 교실 속 체계적인 NIE를 위해 3년간 98억8000만원을 투입, 초·중·고교 NIE 미디어 교과 과정과 교재를 2013년까지 개발해 학교 현장에서 사용할 수 있도록 할 계획이다.
+
+먼저	먼저/MAG
+교실	교실/NNG
+속	속/NNG
+체계적인	체계/NNG+적/XSN+이/VCP+ㄴ/ETM
+NIE를	NIE/SL+를/JKO
+위해	위하/VV+아/EC
+3년간	3/SN+년/NNB+간/XSN
+98억8000만원을	98/SN+억/NR+8000/SN+만/NR+원/NNB+을/JKO
+투입,	투입/NNG+,/SP
+초·중·고교	초·중·고교/NNG
+NIE	NIE/SL
+미디어	미디어/NNG
+교과	교과/NNG
+과정과	과정/NNG+과/JC
+교재를	교재/NNG+를/JKO
+2013년까지	2013/SN+년/NNB+까지/JX
+개발해	개발/NNG+하/XSV+아/EC
+학교	학교/NNG
+현장에서	현장/NNG+에서/JKB
+사용할	사용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+할	하/VX+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.313.5.2
+정규 교과목과 방과 후 수업을 위한 다양한 NIE 교재를 만들어 교사들이 NIE 수업에 활용할 수 있도록 돕는다.
+
+정규	정규/NNG
+교과목과	교과목/NNG+과/JC
+방과	방과/NNG
+후	후/NNG
+수업을	수업/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+NIE	NIE/SL
+교재를	교재/NNG+를/JKO
+만들어	만들/VV+어/EC
+교사들이	교사/NNG+들/XSN+이/JKS
+수업에	수업/NNG+에/JKB
+활용할	활용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+돕는다.	돕/VV+는다/EF+./SF
+
+
+# id : NWRW1800000030.313.6.1
+일상 속 신문 활용도를 높이는 '사회 NIE의 활성화'도 추진된다.
+
+일상	일상/NNG
+속	속/NNG
+신문	신문/NNG
+활용도를	활용도/NNG+를/JKO
+높이는	높이/VV+는/ETM
+'사회	'/SS+사회/NNG
+NIE의	NIE/SL+의/JKG
+활성화'도	활성/NNG+화/XSN+'/SS+도/JX
+추진된다.	추진/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.313.6.2
+소외계층 신문 구독료 지원사업에 앞으로 3년간 183억1400만원을 투입하고, 지역 공공시설을 지역 NIE 센터로 활용해 2013년까지 16곳을 지원한다.
+
+소외계층	소외/NNG+계층/NNG
+신문	신문/NNG
+구독료	구독료/NNG
+지원사업에	지원/NNG+사업/NNG+에/JKB
+앞으로	앞/NNG+으로/JKB
+3년간	3/SN+년/NNB+간/XSN
+183억1400만원을	183/SN+억/NR+1400/SN+만/NR+원/NNB+을/JKO
+투입하고,	투입/NNG+하/XSV+고/EC+,/SP
+지역	지역/NNG
+공공시설을	공공시설/NNG+을/JKO
+NIE	NIE/SL
+센터로	센터/NNG+로/JKB
+활용해	활용/NNG+하/XSV+아/EC
+2013년까지	2013/SN+년/NNB+까지/JX
+16곳을	16/SN+곳/NNG+을/JKO
+지원한다.	지원/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.313.6.3
+특히 가정에서도 부모가 신문을 통해 자녀 교육을 할 수 있도록 부모용 NIE 프로그램을 개발하고 상담 서비스를 제공하는 NIE 코디네이터를 운영할 계획이다.
+
+특히	특히/MAG
+가정에서도	가정/NNG+에서/JKB+도/JX
+부모가	부모/NNG+가/JKS
+신문을	신문/NNG+을/JKO
+통해	통하/VV+아/EC
+자녀	자녀/NNG
+교육을	교육/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+부모용	부모/NNG+용/XSN
+NIE	NIE/SL
+프로그램을	프로그램/NNG+을/JKO
+개발하고	개발/NNG+하/XSV+고/EC
+상담	상담/NNG
+서비스를	서비스/NNG+를/JKO
+제공하는	제공/NNG+하/XSV+는/ETM
+코디네이터를	코디네이터/NNG+를/JKO
+운영할	운영/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.313.7.1
+'NIE 인프라 구축' 사업에는 3년간 103억2700만원을 지원한다.
+
+'NIE	'/SS+NIE/SL
+인프라	인프라/NNG
+구축'	구축/NNG+'/SS
+사업에는	사업/NNG+에/JKB+는/JX
+3년간	3/SN+년/NNB+간/XSN
+103억2700만원을	103/SN+억/NR+2700/SN+만/NR+원/NNB+을/JKO
+지원한다.	지원/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.313.7.2
+현직 교사를 대상으로 NIE 연수를 체계화하고 2013년까지 교육대와 사범대 예비교원 과정 등 10개 학교에 NIE 활용 과정 개설을 지원할 방침이다.
+
+현직	현직/NNG
+교사를	교사/NNG+를/JKO
+대상으로	대상/NNG+으로/JKB
+NIE	NIE/SL
+연수를	연수/NNG+를/JKO
+체계화하고	체계/NNG+화/XSN+하/XSV+고/EC
+2013년까지	2013/SN+년/NNB+까지/JX
+교육대와	교육대/NNG+와/JC
+사범대	사범대/NNG
+예비교원	예비/NNG+교원/NNG
+과정	과정/NNG
+등	등/NNB
+10개	10/SN+개/NNB
+학교에	학교/NNG+에/JKB
+활용	활용/NNG
+개설을	개설/NNG+을/JKO
+지원할	지원/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.313.7.3
+또 미디어 강사의 공인 자격증 제도인 '미디어 교육사'를 2013년부터 도입하고, 올해부터 매년 100명씩 전·현직 언론인이 NIE 강사로 나설 수 있도록 재교육 프로그램을 제공할 방침이다.
+
+또	또/MAG
+미디어	미디어/NNG
+강사의	강사/NNG+의/JKG
+공인	공인/NNG
+자격증	자격증/NNG
+제도인	제도/NNG+이/VCP+ㄴ/ETM
+'미디어	'/SS+미디어/NNG
+교육사'를	교육사/NNG+'/SS+를/JKO
+2013년부터	2013/SN+년/NNB+부터/JX
+도입하고,	도입/NNG+하/XSV+고/EC+,/SP
+올해부터	올해/NNG+부터/JX
+매년	매년/MAG
+100명씩	100/SN+명/NNB+씩/XSN
+전·현직	전·현직/NNG
+언론인이	언론인/NNG+이/JKS
+NIE	NIE/SL
+강사로	강사/NNG+로/JKB
+나설	나서/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+재교육	재/XPN+교육/NNG
+프로그램을	프로그램/NNG+을/JKO
+제공할	제공/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.313.7.4
+신문사의 자체적인 NIE 활동과 프로그램 개발 등을 지원하고 16개 시·도에서 신문사 NIE 담당자와 교사들이 참여하는 NIE 산학 협력 포럼도 지원할 계획이다.
+
+신문사의	신문사/NNG+의/JKG
+자체적인	자체/NNG+적/XSN+이/VCP+ㄴ/ETM
+NIE	NIE/SL
+활동과	활동/NNG+과/JC
+프로그램	프로그램/NNG
+개발	개발/NNG
+등을	등/NNB+을/JKO
+지원하고	지원/NNG+하/XSV+고/EC
+16개	16/SN+개/NNB
+시·도에서	시/NNG+·/SP+도/NNG+에서/JKB
+신문사	신문사/NNG
+담당자와	담당자/NNG+와/JC
+교사들이	교사/NNG+들/XSN+이/JKS
+참여하는	참여/NNG+하/XSV+는/ETM
+산학	산학/NNG
+협력	협력/NNG
+포럼도	포럼/NNG+도/JX
+지원할	지원/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+

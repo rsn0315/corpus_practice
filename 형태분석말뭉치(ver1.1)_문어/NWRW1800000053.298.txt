@@ -1,0 +1,448 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000053.298
+metadata : {}
+
+
+# id : NWRW1800000053.298.1.1
+카터 “동맹 위협땐 즉시 격추할것”
+
+카터	카터/NNP
+“동맹	“/SS+동맹/NNG
+위협땐	위협/NNG+때/NNG+ㄴ/JX
+즉시	즉시/MAG
+격추할것”	격추/NNG+하/XSV+ㄹ/ETM+것/NNB+”/SS
+
+
+# id : NWRW1800000053.298.2.1
+北 잇단 ICBM 도발 협박에 美 강력경고 맞불
+
+北	北/SH
+잇단	잇달/VV+ㄴ/ETM
+ICBM	ICBM/SL
+도발	도발/NNG
+협박에	협박/NNG+에/JKB
+美	美/SH
+강력경고	강력/NNG+경고/NNG
+맞불	맞불/NNG
+
+
+# id : NWRW1800000053.298.3.1
+북한이 8일 대륙간탄도미사일(ICBM) 발사를 위협한 것은 20일 출범하는 도널드 트럼프 미국 행정부를 겨냥한 엄포라는 분석이 나온다.
+
+북한이	북한/NNP+이/JKS
+8일	8/SN+일/NNB
+대륙간탄도미사일(ICBM)	대륙/NNG+간/NNB+탄도/NNG+미사일/NNG+(/SS+ICBM/SL+)/SS
+발사를	발사/NNG+를/JKO
+위협한	위협/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+20일	20/SN+일/NNB
+출범하는	출범/NNG+하/XSV+는/ETM
+도널드	도널드/NNP
+트럼프	트럼프/NNP
+미국	미국/NNP
+행정부를	행정부/NNG+를/JKO
+겨냥한	겨냥/NNG+하/XSV+ㄴ/ETM
+엄포라는	엄포/NNG+이/VCP+라는/ETM
+분석이	분석/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.298.3.2
+현재까지 평안북도 동창리 발사장 등에 이상 징후가 없고, 최근 트럼프 미 대통령 당선인의 북한 ICBM 능력의 평가절하 발언에 대한 ‘맞불 조치’라는 것이다.
+
+현재까지	현재/NNG+까지/JX
+평안북도	평안북도/NNP
+동창리	동창리/NNP
+발사장	발사장/NNG
+등에	등/NNB+에/JKB
+이상	이상/NNG
+징후가	징후/NNG+가/JKS
+없고,	없/VA+고/EC+,/SP
+최근	최근/MAG
+트럼프	트럼프/NNP
+미	미/NNP
+대통령	대통령/NNG
+당선인의	당선인/NNG+의/JKG
+북한	북한/NNP
+ICBM	ICBM/SL
+능력의	능력/NNG+의/JKG
+평가절하	평가/NNG+절하/NNG
+발언에	발언/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+‘맞불	‘/SS+맞불/NNG
+조치’라는	조치/NNG+’/SS+이/VCP+라는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.4.1
+하지만 북한이 ‘인공위성 발사’가 아닌 ‘ICBM을 임의의 시각과 장소에서 쏘겠다’고 언급한 것은 이례적 상황으로 군은 보고 있다.
+
+하지만	하지만/MAJ
+북한이	북한/NNP+이/JKS
+‘인공위성	‘/SS+인공위성/NNG
+발사’가	발사/NNG+’/SS+가/JKC
+아닌	아니/VCN+ㄴ/ETM
+‘ICBM을	‘/SS+ICBM/SL+을/JKO
+임의의	임의/NNG+의/JKG
+시각과	시각/NNG+과/JC
+장소에서	장소/NNG+에서/JKB
+쏘겠다’고	쏘/VV+겠/EP+다/EF+’/SS+고/JKQ
+언급한	언급/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+이례적	이례/NNG+적/XSN
+상황으로	상황/NNG+으로/JKB
+군은	군/NNG+은/JX
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.298.4.2
+북한이 트럼프 행정부 출범 직후나 3월 키 리졸브 한미 연합 군사연습 직전 ICBM 기습 발사를 감행할 수 있다는 얘기다.
+
+북한이	북한/NNP+이/JKS
+트럼프	트럼프/NNP
+행정부	행정부/NNG
+출범	출범/NNG
+직후나	직후/NNG+나/JC
+3월	3/SN+월/NNB
+키	키/NNG
+리졸브	리졸브/NNG
+한미	한미/NNP
+연합	연합/NNG
+군사연습	군사/NNG+연습/NNG
+직전	직전/NNG
+ICBM	ICBM/SL
+기습	기습/NNG
+발사를	발사/NNG+를/JKO
+감행할	감행/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+얘기다.	얘기/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.4.3
+문상균 국방부 대변인도 9일 정례 브리핑에서 “(북한이) KN-08과 그 개량형인 KN-14와 같은 (이동식) ICBM을 발사할 가능성에 대해 면밀하게 추적 감시하고 있다”고 말했다.
+
+문상균	문상균/NNP
+국방부	국방부/NNG
+대변인도	대변인/NNG+도/JX
+9일	9/SN+일/NNB
+정례	정례/NNG
+브리핑에서	브리핑/NNG+에서/JKB
+“(북한이)	“/SS+(/SS+북한/NNP+이/JKS+)/SS
+KN-08과	KN/SL+-/SO+08/SN+과/JC
+그	그/MMD
+개량형인	개량/NNG+형/XSN+이/VCP+ㄴ/ETM
+KN-14와	KN/SL+-/SO+14/SN+와/JKB
+같은	같/VA+은/ETM
+(이동식)	(/SS+이동식/NNG+)/SS
+ICBM을	ICBM/SL+을/JKO
+발사할	발사/NNG+하/XSV+ㄹ/ETM
+가능성에	가능/NNG+성/XSN+에/JKB
+대해	대하/VV+아/EC
+면밀하게	면밀하/VA+게/EC
+추적	추적/NNG
+감시하고	감시/NNG+하/XSV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.4.4
+이어서 “(북한에 대해) KN-08 등을 이동식 발사대에서 발사 가능한 수준으로 평가하고 있다”고 설명했다.
+
+이어서	잇/VV+어서/EC
+“(북한에	“/SS+(/SS+북한/NNP+에/JKB
+대해)	대하/VV+아/EC+)/SS
+KN-08	KN/SL+-/SO+08/SN
+등을	등/NNB+을/JKO
+이동식	이동식/NNG
+발사대에서	발사대/NNG+에서/JKB
+발사	발사/NNG
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+수준으로	수준/NNG+으로/JKB
+평가하고	평가/NNG+하/XSV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.5.1
+실제로 북한 김정은 노동당 위원장은 지난해 2월 장거리미사일(광명성호)의 발사 성공 이후 ICBM 관련 기술 개발을 적극 독려해왔다.
+
+실제로	실제로/MAG
+북한	북한/NNP
+김정은	김정은/NNP
+노동당	노동당/NNP
+위원장은	위원장/NNG+은/JX
+지난해	지난해/NNG
+2월	2/SN+월/NNB
+장거리미사일(광명성호)의	장거리/NNG+미사일/NNG+(/SS+광명성호/NNG+)/SS+의/JKG
+발사	발사/NNG
+성공	성공/NNG
+이후	이후/NNG
+ICBM	ICBM/SL
+관련	관련/NNG
+기술	기술/NNG
+개발을	개발/NNG+을/JKO
+적극	적극/NNG
+독려해왔다.	독려/NNG+하/XSV+아/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.5.2
+소형 핵탄두(핵폭발장치) 추정 물체와 ICBM의 대기권 재진입 기술 개발 시험, 대(고)출력 고체연료 로켓 분출 및 단분리 실험 장면을 잇달아 공개하면서 도발 수위를 높인 것이다.
+
+소형	소형/NNG
+핵탄두(핵폭발장치)	핵탄두/NNG+(/SS+핵폭발/NNG+장치/NNG+)/SS
+추정	추정/NNG
+물체와	물체/NNG+와/JC
+ICBM의	ICBM/SL+의/JKG
+대기권	대기/NNG+권/XSN
+재진입	재/XPN+진입/NNG
+기술	기술/NNG
+개발	개발/NNG
+시험,	시험/NNG+,/SP
+대(고)출력	대/XPN+(/SS+고/XPN+)/SS+출력/NNG
+고체연료	고체/NNG+연료/NNG
+로켓	로켓/NNG
+분출	분출/NNG
+및	및/MAG
+단분리	단/NNG+분리/NNG
+실험	실험/NNG
+장면을	장면/NNG+을/JKO
+잇달아	잇달/VV+아/EC
+공개하면서	공개/NNG+하/XSV+면서/EC
+도발	도발/NNG
+수위를	수위/NNG+를/JKO
+높인	높이/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.5.3
+군 관계자는 “북한이 그간의 개발 성과가 결집된 신형 ICBM을 전격적으로 쏴 올릴 가능성을 주시 중”이라고 말했다.
+
+군	군/NNG
+관계자는	관계자/NNG+는/JX
+“북한이	“/SS+북한/NNP+이/JKS
+그간의	그/NP+간/XSN+의/JKG
+개발	개발/NNG
+성과가	성과/NNG+가/JKS
+결집된	결집/NNG+되/XSV+ㄴ/ETM
+신형	신형/NNG
+ICBM을	ICBM/SL+을/JKO
+전격적으로	전격/NNG+적/XSN+으로/JKB
+쏴	쏘/VV+아/EC
+올릴	올리/VV+ㄹ/ETM
+가능성을	가능/NNG+성/XSN+을/JKO
+주시	주시/NNG
+중”이라고	중/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.6.1
+발사 방식도 기습 효과를 극대화하는 전술을 택할 것으로 보인다.
+
+발사	발사/NNG
+방식도	방식/NNG+도/JX
+기습	기습/NNG
+효과를	효과/NNG+를/JKO
+극대화하는	극대/NNG+화/XSN+하/XSV+는/ETM
+전술을	전술/NNG+을/JKO
+택할	택하/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.298.6.2
+동창리 발사장에서 ICBM을 쏠 경우 미사일 추진체의 이동과 조립, 연료 주입 등 발사 전 과정이 미 정찰위성에 노출될 수밖에 없다.
+
+동창리	동창리/NNP
+발사장에서	발사장/NNG+에서/JKB
+ICBM을	ICBM/SL+을/JKO
+쏠	쏘/VV+ㄹ/ETM
+경우	경우/NNG
+미사일	미사일/NNG
+추진체의	추진체/NNG+의/JKG
+이동과	이동/NNG+과/JC
+조립,	조립/NNG+,/SP
+연료	연료/NNG
+주입	주입/NNG
+등	등/NNB
+발사	발사/NNG
+전	전/MMN
+과정이	과정/NNG+이/JKS
+미	미/NNP
+정찰위성에	정찰/NNG+위성/NNG+에/JKB
+노출될	노출/NNG+되/XSV+ㄹ/ETM
+수밖에	수/NNB+밖에/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000053.298.6.3
+이 때문에 KN-08 등 이동식 ICBM이나 지하 발사대(사일로)에서 불시에 쏴 올리는 도발을 감행할 것이라는 관측이 나온다.
+
+이	이/NP
+때문에	때문/NNB+에/JKB
+KN-08	KN/SL+-/SO+08/SN
+등	등/NNB
+이동식	이동식/NNG
+ICBM이나	ICBM/SL+이나/JC
+지하	지하/NNG
+발사대(사일로)에서	발사대/NNG+(/SS+사일로/NNG+)/SS+에서/JKB
+불시에	불시/NNG+에/JKB
+쏴	쏘/VV+아/EC
+올리는	올리/VV+는/ETM
+도발을	도발/NNG+을/JKO
+감행할	감행/NNG+하/XSV+ㄹ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+관측이	관측/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.298.7.1
+군 관계자는 “북한은 미 본토를 겨냥한 핵탑재 ICBM의 기습 발사에 성공할 경우 ‘사실상의 핵보유국’으로서 트럼프 행정부와 핵군축 협상을 할 수 있다고 계산할 것”이라고 말했다.
+
+군	군/NNG
+관계자는	관계자/NNG+는/JX
+“북한은	“/SS+북한/NNP+은/JX
+미	미/NNP
+본토를	본토/NNG+를/JKO
+겨냥한	겨냥/NNG+하/XSV+ㄴ/ETM
+핵탑재	핵/NNG+탑재/NNG
+ICBM의	ICBM/SL+의/JKG
+기습	기습/NNG
+발사에	발사/NNG+에/JKB
+성공할	성공/NNG+하/XSV+ㄹ/ETM
+경우	경우/NNG
+‘사실상의	‘/SS+사실/NNG+상/XSN+의/JKG
+핵보유국’으로서	핵보유국/NNG+’/SS+으로서/JKB
+트럼프	트럼프/NNP
+행정부와	행정부/NNG+와/JC
+핵군축	핵/NNG+군축/NNG
+협상을	협상/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+계산할	계산/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.8.1
+미국은 거듭 대북 경고에 나섰다.
+
+미국은	미국/NNP+은/JX
+거듭	거듭/MAG
+대북	대북/NNG
+경고에	경고/NNG+에/JKB
+나섰다.	나서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.8.2
+북한의 ICBM 위협과 관련해 애슈턴 카터 미 국방장관은 8일(현지 시간) NBC 인터뷰에서 “만약 그것이 우리나 동맹 또는 친구 중 하나를 위협한다면 우리는 (발사 즉시) 격추할 것”이라고 밝혔다.
+
+북한의	북한/NNP+의/JKG
+ICBM	ICBM/SL
+위협과	위협/NNG+과/JKB
+관련해	관련/NNG+하/XSV+아/EC
+애슈턴	애슈턴/NNP
+카터	카터/NNP
+미	미/NNP
+국방장관은	국방/NNG+장관/NNG+은/JX
+8일(현지	8/SN+일/NNB+(/SS+현지/NNG
+시간)	시간/NNG+)/SS
+NBC	NBC/SL
+인터뷰에서	인터뷰/NNG+에서/JKB
+“만약	“/SS+만약/MAG
+그것이	그것/NP+이/JKS
+우리나	우리/NP+나/JC
+동맹	동맹/NNG
+또는	또는/MAG
+친구	친구/NNG
+중	중/NNB
+하나를	하나/NR+를/JKO
+위협한다면	위협/NNG+하/XSV+ㄴ다면/EC
+우리는	우리/NP+는/JX
+(발사	(/SS+발사/NNG
+즉시)	즉시/MAG+)/SS
+격추할	격추/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.8.3
+이어 “오늘날 북한의 핵무기와 탄도미사일은 우리에게 심각한 위협”이라며 “(북한의 미사일 위협에 맞서) 우리는 한발 앞서려 노력하고 있고, 또 앞서 있다”고 강조했다.
+
+이어	이어/MAG
+“오늘날	“/SS+오늘날/NNG
+북한의	북한/NNP+의/JKG
+핵무기와	핵무기/NNG+와/JC
+탄도미사일은	탄도/NNG+미사일/NNG+은/JX
+우리에게	우리/NP+에게/JKB
+심각한	심각하/VA+ㄴ/ETM
+위협”이라며	위협/NNG+”/SS+이/VCP+라며/EC
+“(북한의	“/SS+(/SS+북한/NNP+의/JKG
+미사일	미사일/NNG
+위협에	위협/NNG+에/JKB
+맞서)	맞서/VV+어/EC+)/SS
+우리는	우리/NP+는/JX
+한발	한발/MAG
+앞서려	앞서/VV+려/EC
+노력하고	노력/NNG+하/XSV+고/EC
+있고,	있/VX+고/EC+,/SP
+또	또/MAG
+앞서	앞서/VV+어/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.298.9.1
+카터 장관은 “우리는 스스로 방어할 수 있도록 미사일 방어 시스템의 수를 늘리고 형태를 개선했다”며 “또 (한국에는) 미군 2만8500명이 주둔하고 있다.
+
+카터	카터/NNP
+장관은	장관/NNG+은/JX
+“우리는	“/SS+우리/NP+는/JX
+스스로	스스로/MAG
+방어할	방어/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+미사일	미사일/NNG
+방어	방어/NNG
+시스템의	시스템/NNG+의/JKG
+수를	수/NNG+를/JKO
+늘리고	늘리/VV+고/EC
+형태를	형태/NNG+를/JKO
+개선했다”며	개선/NNG+하/XSV+았/EP+다/EF+”/SS+며/EC
+“또	“/SS+또/MAG
+(한국에는)	(/SS+한국/NNP+에/JKB+는/JX+)/SS
+미군	미군/NNG
+2만8500명이	2/SN+만/NR+8500/SN+명/NNB+이/JKS
+주둔하고	주둔/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.298.9.2
+그들의 슬로건은 ‘파이트 투나이트(Fight Tonight·오늘밤 전투가 벌어져도 승리할 수 있다)’로, 우리는 한반도와 친구를 지킬 준비가 되어 있다”고 덧붙였다.
+
+그들의	그/NP+들/XSN+의/JKG
+슬로건은	슬로건/NNG+은/JX
+‘파이트	‘/SS+파이트/NA
+투나이트(Fight	투나이트/NA+(/SS+Fight/SL
+Tonight·오늘밤	Tonight/SL+·/SP+오늘/NNG+밤/NNG
+전투가	전투/NNG+가/JKS
+벌어져도	벌어지/VV+어도/EC
+승리할	승리/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다)’로,	있/VA+다/EF+)/SS+’/SS+로/JKB+,/SP
+우리는	우리/NP+는/JX
+한반도와	한반도/NNP+와/JKB
+친구를	친구/NNG+를/JKO
+지킬	지키/VV+ㄹ/ETM
+준비가	준비/NNG+가/JKC
+되어	되/VV+어/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+

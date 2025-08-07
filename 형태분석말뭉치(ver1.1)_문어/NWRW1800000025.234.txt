@@ -1,0 +1,143 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000025.234
+metadata : {}
+
+
+# id : NWRW1800000025.234.1.1
+[부산/경남]‘낙동강 사업’ 도민의견 수렴
+
+[부산/경남]‘낙동강	[/SS+부산/NNP+//SP+경남/NNP+]/SS+‘/SS+낙동강/NNP
+사업’	사업/NNG+’/SS
+도민의견	도민/NNG+의견/NNG
+수렴	수렴/NNG
+
+
+# id : NWRW1800000025.234.2.1
+경남도는 4대강 살리기 사업 중 하나인 낙동강 사업(경남구간)에 대한 도민 의견을 듣기로 했다.
+
+경남도는	경남도/NNP+는/JX
+4대강	4/SN+대/NNG+강/NNG
+살리기	살리/VV+기/ETN
+사업	사업/NNG
+중	중/NNB
+하나인	하나/NR+이/VCP+ㄴ/ETM
+낙동강	낙동강/NNP
+사업(경남구간)에	사업/NNG+(/SS+경남/NNP+구간/NNG+)/SS+에/JKB
+대한	대하/VV+ㄴ/ETM
+도민	도민/NNG
+의견을	의견/NNG+을/JKO
+듣기로	듣/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000025.234.2.2
+도는 “26일부터 다음 달 6일까지 홈페이지 등을 통해 낙동강사업에 대한 찬성과 반대 등 의견을 수렴한다”고 23일 밝혔다.
+
+도는	도/NNG+는/JX
+“26일부터	“/SS+26/SN+일/NNB+부터/JX
+다음	다음/NNG
+달	달/NNG
+6일까지	6/SN+일/NNB+까지/JX
+홈페이지	홈페이지/NNG
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+낙동강사업에	낙동강/NNP+사업/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+찬성과	찬성/NNG+과/JC
+반대	반대/NNG
+등	등/NNB
+의견을	의견/NNG+을/JKO
+수렴한다”고	수렴/NNG+하/XSV+ㄴ다/EF+”/SS+고/JKQ
+23일	23/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000025.234.2.3
+의견은 찬성, 반대, 협의 추진, 무관심 등 4가지 가운데 하나를 선택하면 된다.
+
+의견은	의견/NNG+은/JX
+찬성,	찬성/NNG+,/SP
+반대,	반대/NNG+,/SP
+협의	협의/NNG
+추진,	추진/NNG+,/SP
+무관심	무/XPN+관심/NNG
+등	등/NNB
+4가지	4/SN+가지/NNB
+가운데	가운데/NNG
+하나를	하나/NR+를/JKO
+선택하면	선택/NNG+하/XSV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.234.3.1
+경남도 홈페이지(www.gsnd.net)나 e메일(nakdong@feelgn.net) 또는 우편(창원시 의창구 중앙대로 300 경남도청 국책사업지원과)을 통해 참가하면 된다.
+
+경남도	경남도/NNP
+홈페이지(www.gsnd.net)나	홈페이지/NNG+(/SS+www/SL+./SP+gsnd/SL+./SP+net/SL+)/SS+나/JC
+e메일(nakdong@feelgn.net)	e/SL+메일/NNG+(/SS+nakdong/SL+@/SW+feelgn/SL+./SP+net/SL+)/SS
+또는	또는/MAG
+우편(창원시	우편/NNG+(/SS+창원시/NNP
+의창구	의창구/NNP
+중앙대로	중앙대로/NNP
+300	300/SN
+경남도청	경남도청/NNP
+국책사업지원과)을	국책/NNG+사업/NNG+지원과/NNG+)/SS+을/JKO
+통해	통하/VV+아/EC
+참가하면	참가/NNG+하/XSV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.234.3.2
+수렴된 의견은 경남도발전연구원이 분석한 뒤 ‘경남도 낙동강사업 특별위원회’에 전달한다.
+
+수렴된	수렴/NNG+되/XSV+ㄴ/ETM
+의견은	의견/NNG+은/JX
+경남도발전연구원이	경남도발전연구원/NNP+이/JKS
+분석한	분석/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+‘경남도	‘/SS+경남도/NNP
+낙동강사업	낙동강/NNP+사업/NNG
+특별위원회’에	특별/NNG+위원회/NNG+’/SS+에/JKB
+전달한다.	전달/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.234.3.3
+경남도는 분석 결과와 특위 논의 등을 거쳐 최종적인 입장을 정리해 9월 말까지 정부에 제출할 예정이다.
+
+경남도는	경남도/NNP+는/JX
+분석	분석/NNG
+결과와	결과/NNG+와/JC
+특위	특위/NNG
+논의	논의/NNG
+등을	등/NNB+을/JKO
+거쳐	거치/VV+어/EC
+최종적인	최종/NNG+적/XSN+이/VCP+ㄴ/ETM
+입장을	입장/NNG+을/JKO
+정리해	정리/NNG+하/XSV+아/EC
+9월	9/SN+월/NNB
+말까지	말/NNB+까지/JX
+정부에	정부/NNG+에/JKB
+제출할	제출/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000025.234.3.4
+경남도 김정강 건설항만방재국장은 “찬반 의견을 포함해 참신하고 합리적인 대안도 환영한다”고 말했다.
+
+경남도	경남도/NNP
+김정강	김정강/NNP
+건설항만방재국장은	건설/NNG+항만/NNG+방재/NNG+국장/NNG+은/JX
+“찬반	“/SS+찬반/NNG
+의견을	의견/NNG+을/JKO
+포함해	포함/NNG+하/XSV+아/EC
+참신하고	참신하/VA+고/EC
+합리적인	합리/NNG+적/XSN+이/VCP+ㄴ/ETM
+대안도	대안/NNG+도/JX
+환영한다”고	환영/NNG+하/XSV+ㄴ다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

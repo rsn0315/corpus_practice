@@ -1,0 +1,346 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.187
+metadata : {}
+
+
+# id : NWRW1800000026.187.1.1
+더 선명하게 더 얇게… 스포츠 부드럽게 즐긴다;기능 살린 PDP TV
+
+더	더/MAG
+선명하게	선명/NNG+하/XSA+게/EC
+얇게…	얇/VA+게/EC+…/SE
+스포츠	스포츠/NNG
+부드럽게	부드럽/VA+게/EC
+즐긴다;기능	즐기/VV+ㄴ다/EF+;/SW+기능/NNG
+살린	살리/VV+ㄴ/ETM
+PDP	PDP/SL
+TV	TV/SL
+
+
+# id : NWRW1800000026.187.2.1
+삼성전자는 크기와 사양별로 대략 10여종의 PDP TV를 판매하고 있다.
+
+삼성전자는	삼성전자/NNP+는/JX
+크기와	크기/NNG+와/JC
+사양별로	사양/NNG+별/XSN+로/JKB
+대략	대략/MAG
+10여종의	10/SN+여/XSN+종/NNG+의/JKG
+PDP	PDP/SL
+TV를	TV/SL+를/JKO
+판매하고	판매/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.187.2.2
+대표적 제품은 지난 4월에 출시한 '하이브리드 풀HD(초고화질) 3D PDP TV'(모델명: PN50/63C7000YF).
+
+대표적	대표/NNG+적/XSN
+제품은	제품/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+4월에	4/SN+월/NNB+에/JKB
+출시한	출시/NNG+하/XSV+ㄴ/ETM
+'하이브리드	'/SS+하이브리드/NNG
+풀HD(초고화질)	풀/NNG+HD/SL+(/SS+초/XPN+고/XPN+화질/NNG+)/SS
+3D	3/SN+D/SL
+PDP	PDP/SL
+TV'(모델명:	TV/SL+'/SS+(/SS+모델명/NNG+:/SP
+PN50/63C7000YF).	PN/SL+50/SN+//SP+63/SN+C/SL+7000/SN+YF/SL+)/SS+./SF
+
+
+# id : NWRW1800000026.187.2.3
+같은 3D TV지만 가격이 비슷한 크기의 3D LED TV보다 120만원 정도 저렴해 인기다.
+
+같은	같/VA+은/ETM
+3D	3/SN+D/SL
+TV지만	TV/SL+이/VCP+지만/EC
+가격이	가격/NNG+이/JKS
+비슷한	비슷하/VA+ㄴ/ETM
+크기의	크기/NNG+의/JKG
+LED	LED/SL
+TV보다	TV/SL+보다/JKB
+120만원	120/SN+만/NR+원/NNB
+정도	정도/NNG
+저렴해	저렴하/VA+아/EC
+인기다.	인기/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.187.3.1
+가격은 저렴하지만 기능은 고가의 LED 제품과 비교해도 전혀 떨어지지 않는다.
+
+가격은	가격/NNG+은/JX
+저렴하지만	저렴하/VA+지만/EC
+기능은	기능/NNG+은/JX
+고가의	고가/NNG+의/JKG
+LED	LED/SL
+제품과	제품/NNG+과/JKB
+비교해도	비교/NNG+하/XSV+아도/EC
+전혀	전혀/MAG
+떨어지지	떨어지/VV+지/EC
+않는다.	않/VX+는다/EF+./SF
+
+
+# id : NWRW1800000026.187.3.2
+2D 영상을 3D로 변환해 보여주는 기능을 지원하고 '에코센서' 기술을 채용해 TV가 스스로 실내 조명을 측정한 뒤 자동으로 TV 화면 밝기를 조절한다.
+
+2D	2/SN+D/SL
+영상을	영상/NNG+을/JKO
+3D로	3/SN+D/SL+로/JKB
+변환해	변환/NNG+하/XSV+아/EC
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+기능을	기능/NNG+을/JKO
+지원하고	지원/NNG+하/XSV+고/EC
+'에코센서'	'/SS+에코/NNG+센서/NNG+'/SS
+기술을	기술/NNG+을/JKO
+채용해	채용/NNG+하/XSV+아/EC
+TV가	TV/SL+가/JKS
+스스로	스스로/MAG
+실내	실내/NNG
+조명을	조명/NNG+을/JKO
+측정한	측정/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+자동으로	자동/NNG+으로/JKB
+TV	TV/SL
+화면	화면/NNG
+밝기를	밝기/NNG+를/JKO
+조절한다.	조절/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.187.3.3
+이 덕분에 전력 효율이 높고 3D 입체영상을 볼 때 눈이 편안하다.
+
+이	이/MMD
+덕분에	덕분/NNG+에/JKB
+전력	전력/NNG
+효율이	효율/NNG+이/JKS
+높고	높/VA+고/EC
+3D	3/SN+D/SL
+입체영상을	입체/NNG+영상/NNG+을/JKO
+볼	보/VV+ㄹ/ETM
+때	때/NNG
+눈이	눈/NNG+이/JKS
+편안하다.	편안/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000026.187.3.4
+또 USB 메모리에 담아 놓은 동영상을 재생할 수도 있다.
+
+또	또/MAG
+USB	USB/SL
+메모리에	메모리/NNG+에/JKB
+담아	담/VV+아/EC
+놓은	놓/VX+은/ETM
+동영상을	동영상/NNG+을/JKO
+재생할	재생/NNG+하/XSV+ㄹ/ETM
+수도	수/NNB+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.187.4.1
+PC와 휴대폰, 카메라에 저장된 영화·드라마·음악 등을 무선으로 불러와 감상하는 '올쉐어' 기능도 있다.
+
+PC와	PC/SL+와/JC
+휴대폰,	휴대폰/NNG+,/SP
+카메라에	카메라/NNG+에/JKB
+저장된	저장/NNG+되/XSV+ㄴ/ETM
+영화·드라마·음악	영화/NNG+·/SP+드라마/NNG+·/SP+음악/NNG
+등을	등/NNB+을/JKO
+무선으로	무선/NNG+으로/JKB
+불러와	불러오/VV+아/EC
+감상하는	감상/NNG+하/XSV+는/ETM
+'올쉐어'	'/SS+올쉐어/NNG+'/SS
+기능도	기능/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.187.4.2
+두께는 35.9㎜로 가격(인터넷 판매가·스탠드형 기준)은 50인치(127㎝)가 230만원대, 63인치(159㎝)가 430만원대다.
+
+두께는	두께/NNG+는/JX
+35.9㎜로	35/SN+./SP+9/SN+㎜/SW+로/JKB
+가격(인터넷	가격/NNG+(/SS+인터넷/NNG
+판매가·스탠드형	판매/NNG+가/XSN+·/SP+스탠드/NNG+형/XSN
+기준)은	기준/NNG+)/SS+은/JX
+50인치(127㎝)가	50/SN+인치/NNB+(/SS+127/SN+㎝/SW+)/SS+가/JKS
+230만원대,	230/SN+만/NR+원/NNB+대/XSN+,/SP
+63인치(159㎝)가	63/SN+인치/NNB+(/SS+159/SN+㎝/SW+)/SS+가/JKS
+430만원대다.	430/SN+만/NR+원/NNB+대/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.187.5.1
+LG전자도 10여개 종류의 PDP TV를 판매하고 있다.
+
+LG전자도	LG전자/NNP+도/JX
+10여개	10/SN+여/XSN+개/NNB
+종류의	종류/NNG+의/JKG
+PDP	PDP/SL
+TV를	TV/SL+를/JKO
+판매하고	판매/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.187.5.2
+LG전자가 지난 2월 출시한 PDP TV는 일명 '스키니 프레임'을 적용한 제품(모델명 60/ 50PK550)이다.
+
+LG전자가	LG전자/NNP+가/JKS
+지난	지나/VV+ㄴ/ETM
+2월	2/SN+월/NNB
+출시한	출시/NNG+하/XSV+ㄴ/ETM
+PDP	PDP/SL
+TV는	TV/SL+는/JX
+일명	일명/NNG
+'스키니	'/SS+스키니/NNG
+프레임'을	프레임/NNG+'/SS+을/JKO
+적용한	적용/NNG+하/XSV+ㄴ/ETM
+제품(모델명	제품/NNG+(/SS+모델명/NNG
+60/	60/SN+//SP
+50PK550)이다.	50/SN+PK/SL+550/SN+)/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.187.5.3
+TV 테두리 폭이 500원짜리 동전 지름보다 얇은 25㎜에 불과해 화면이 더 커 보인다는 장점이 있다.
+
+TV	TV/SL
+테두리	테두리/NNG
+폭이	폭/NNG+이/JKS
+500원짜리	500/SN+원/NNB+짜리/XSN
+동전	동전/NNG
+지름보다	지름/NNG+보다/JKB
+얇은	얇/VA+은/ETM
+25㎜에	25/SN+㎜/SW+에/JKB
+불과해	불과/MAG+하/XSA+아/EC
+화면이	화면/NNG+이/JKS
+더	더/MAG
+커	크/VA+어/EC
+보인다는	보이/VV+ㄴ다는/ETM
+장점이	장점/NNG+이/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.187.6.1
+207만화소의 영상을 표현하는 풀 HD급으로 기존 HD급(104만 화소)보다 두 배 선명한 영상을 즐길 수 있으며 2010년형 최신 패널을 적용해 화면이 한층 밝고 또렷해졌다.
+
+207만화소의	207/SN+만/NR+화소/NNG+의/JKG
+영상을	영상/NNG+을/JKO
+표현하는	표현/NNG+하/XSV+는/ETM
+풀	풀/NNG
+HD급으로	HD급/NNG+으로/JKB
+기존	기존/NNG
+HD급(104만	HD급/NNG+(/SS+104/SN+만/NR
+화소)보다	화소/NNG+)/SS+보다/JKB
+두	두/MMN
+배	배/NNG
+선명한	선명/NNG+하/XSA+ㄴ/ETM
+즐길	즐기/VV+ㄹ/ETM
+수	수/NNB
+있으며	있/VA+으며/EC
+2010년형	2010/SN+년/NNB+형/XSN
+최신	최신/NNG
+패널을	패널/NNG+을/JKO
+적용해	적용/NNG+하/XSV+아/EC
+화면이	화면/NNG+이/JKS
+한층	한층/MAG
+밝고	밝/VA+고/EC
+또렷해졌다.	또렷하/VA+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.187.6.2
+초당 600장의 사진을 보여주기 때문에 스포츠 경기처럼 빠른 영상도 부드럽게 표현한다.
+
+초당	초/NNG+당/XSN
+600장의	600/SN+장/NNB+의/JKG
+사진을	사진/NNG+을/JKO
+보여주기	보이/VV+어/EC+주/VX+기/ETN
+때문에	때문/NNB+에/JKB
+스포츠	스포츠/NNG
+경기처럼	경기/NNG+처럼/JKB
+빠른	빠르/VA+ㄴ/ETM
+영상도	영상/NNG+도/JX
+부드럽게	부드럽/VA+게/EC
+표현한다.	표현/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.187.7.1
+주변 조명 변화를 감지해 TV 밝기를 조절하는 '아이 케어 센서' 기능으로 시력을 보호하면서 소비 전력을 최대 60%까지 줄였다.
+
+주변	주변/NNG
+조명	조명/NNG
+변화를	변화/NNG+를/JKO
+감지해	감지/NNG+하/XSV+아/EC
+TV	TV/SL
+밝기를	밝기/NNG+를/JKO
+조절하는	조절/NNG+하/XSV+는/ETM
+'아이	'/SS+아이/NNG
+케어	케어/NNG
+센서'	센서/NNG+'/SS
+기능으로	기능/NNG+으로/JKB
+시력을	시력/NNG+을/JKO
+보호하면서	보호/NNG+하/XSV+면서/EC
+소비	소비/NNG
+전력을	전력/NNG+을/JKO
+최대	최대/NNG
+60%까지	60/SN+%/SW+까지/JX
+줄였다.	줄이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.187.7.2
+동영상 파일 재생기능을 내장해 외장 하드나 USB 메모리 같은 저장 매체를 꽂아 영화나 동영상을 즐길 수도 있다.
+
+동영상	동영상/NNG
+파일	파일/NNG
+재생기능을	재생/NNG+기능/NNG+을/JKO
+내장해	내장/NNG+하/XSV+아/EC
+외장	외장/NNG
+하드나	하드/NNG+나/JC
+USB	USB/SL
+메모리	메모리/NNG
+같은	같/VA+은/ETM
+저장	저장/NNG
+매체를	매체/NNG+를/JKO
+꽂아	꽂/VV+아/EC
+영화나	영화/NNG+나/JC
+동영상을	동영상/NNG+을/JKO
+즐길	즐기/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.187.7.3
+인터넷 판매가(스탠드형 기준)는 60인치 339만원대, 50인치 132만원대다.
+
+인터넷	인터넷/NNG
+판매가(스탠드형	판매/NNG+가/XSN+(/SS+스탠드/NNG+형/XSN
+기준)는	기준/NNG+)/SS+는/JX
+60인치	60/SN+인치/NNB
+339만원대,	339/SN+만/NR+원/NNB+대/XSN+,/SP
+50인치	50/SN+인치/NNB
+132만원대다.	132/SN+만/NR+원/NNB+대/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.187.8.1
+LG전자 이태권 마케팅팀장은 "대형 스포츠 이벤트들이 열리는 올해 스포츠 경기에 강한 대형 PDP TV 판매가 늘어날 것으로 기대하고 있다"고 말했다.
+
+LG전자	LG전자/NNP
+이태권	이태권/NNP
+마케팅팀장은	마케팅/NNG+팀장/NNG+은/JX
+"대형	"/SS+대형/NNG
+스포츠	스포츠/NNG
+이벤트들이	이벤트/NNG+들/XSN+이/JKS
+열리는	열리/VV+는/ETM
+올해	올해/NNG
+경기에	경기/NNG+에/JKB
+강한	강하/VA+ㄴ/ETM
+대형	대형/NNG
+PDP	PDP/SL
+TV	TV/SL
+판매가	판매/NNG+가/JKS
+늘어날	늘어나/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+기대하고	기대/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

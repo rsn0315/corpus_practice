@@ -1,0 +1,224 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000037.82
+metadata : {}
+
+
+# id : NWRW1800000037.82.1.1
+1단계 공원, 베를린 마우어파크 벤치마킹
+
+1단계	1/SN+단계/NNG
+공원,	공원/NNG+,/SP
+베를린	베를린/NNP
+마우어파크	마우어파크/NNP
+벤치마킹	벤치마킹/NNG
+
+
+# id : NWRW1800000037.82.2.1
+[통일로 가는 길 DMZ 세계평화공원/준비해야 하나 된다] 獨 장벽 남은 자리에 평화공원 조성
+
+[통일로	[/SS+통일/NNG+로/JKB
+가는	가/VV+는/ETM
+길	길/NNG
+DMZ	DMZ/SL
+세계평화공원/준비해야	세계평화공원/NNP+//SP+준비/NNG+하/XSV+아야/EC
+하나	하나/NR
+된다]	되/VV+ㄴ다/EF+]/SS
+獨	獨/SH
+장벽	장벽/NNG
+남은	남/VV+은/ETM
+자리에	자리/NNG+에/JKB
+평화공원	평화/NNG+공원/NNG
+조성	조성/NNG
+
+
+# id : NWRW1800000037.82.3.1
+박근혜정부가 새 국정과제로 중점 추진하기로 한 비무장지대(DMZ) 세계평화공원이 통일 독일의 사례를 벤치마킹할지 관심이 쏠린다.
+
+박근혜정부가	박근혜/NNP+정부/NNG+가/JKS
+새	새/MMA
+국정과제로	국정/NNG+과제/NNG+로/JKB
+중점	중점/NNG
+추진하기로	추진/NNG+하/XSV+기/ETN+로/JKB
+한	하/VV+ㄴ/ETM
+비무장지대(DMZ)	비/XPN+무장/NNG+지대/NNG+(/SS+DMZ/SL+)/SS
+세계평화공원이	세계평화공원/NNP+이/JKS
+통일	통일/NNG
+독일의	독일/NNP+의/JKG
+사례를	사례/NNG+를/JKO
+벤치마킹할지	벤치마킹/NNG+하/XSV+ㄹ지/EF
+관심이	관심/NNG+이/JKS
+쏠린다.	쏠리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.82.4.1
+정부 관계자는 15일 “정부가 1단계로 조성할 적정 규모의 평화공원은 독일 베를린 장벽이 있었던 곳에 조성된 마우어 파크(Mauer park·장벽 공원)를 떠올리면 될 것”이라고 말했다.
+
+정부	정부/NNG
+관계자는	관계자/NNG+는/JX
+15일	15/SN+일/NNB
+“정부가	“/SS+정부/NNG+가/JKS
+1단계로	1/SN+단계/NNG+로/JKB
+조성할	조성/NNG+하/XSV+ㄹ/ETM
+적정	적정/NNG
+규모의	규모/NNG+의/JKG
+평화공원은	평화/NNG+공원/NNG+은/JX
+독일	독일/NNP
+베를린	베를린/NNP
+장벽이	장벽/NNG+이/JKS
+있었던	있/VA+었/EP+던/ETM
+곳에	곳/NNG+에/JKB
+조성된	조성/NNG+되/XSV+ㄴ/ETM
+마우어	마우어/NNP
+파크(Mauer	파크/NNG+(/SS+Mauer/SL
+park·장벽	park/SL+·/SP+장벽/NNG
+공원)를	공원/NNG+)/SS+를/JKO
+떠올리면	떠올리/VV+면/EC
+될	되/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.82.4.2
+마우어 파크는 베를린 장벽이 무너진 뒤 남은 300m의 장벽이 있는 곳에 조성된 공원으로, 매주 일요일 베를린 최대의 벼룩시장이 열리는 평화공원으로 탈바꿈했다.
+
+마우어	마우어/NNP
+파크는	파크/NNG+는/JX
+베를린	베를린/NNP
+장벽이	장벽/NNG+이/JKS
+무너진	무너지/VV+ㄴ/ETM
+뒤	뒤/NNG
+남은	남/VV+은/ETM
+300m의	300/SN+m/SW+의/JKG
+있는	있/VA+는/ETM
+곳에	곳/NNG+에/JKB
+조성된	조성/NNG+되/XSV+ㄴ/ETM
+공원으로,	공원/NNG+으로/JKB+,/SP
+매주	매주/MAG
+일요일	일요일/NNG
+최대의	최대/NNG+의/JKG
+벼룩시장이	벼룩시장/NNG+이/JKS
+열리는	열리/VV+는/ETM
+평화공원으로	평화/NNG+공원/NNG+으로/JKB
+탈바꿈했다.	탈바꿈/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.82.4.3
+정부가 장기적으로 구상하는 DMZ의 평화지대화는 통일 이후 동·서독 옛 국경지역을 국가적 생태 및 환경교육, 관광 지역으로 발돋움시킨 ‘그뤼네스 반트(Gr¨unes Band)’, 즉 그린벨트로 조성한 사례를 연상시킨다.
+
+정부가	정부/NNG+가/JKS
+장기적으로	장기/NNG+적/XSN+으로/JKB
+구상하는	구상/NNG+하/XSV+는/ETM
+DMZ의	DMZ/SL+의/JKG
+평화지대화는	평화/NNG+지대/NNG+화/XSN+는/JX
+통일	통일/NNG
+이후	이후/NNG
+동·서독	동·서독/NNP
+옛	옛/MMA
+국경지역을	국경/NNG+지역/NNG+을/JKO
+국가적	국가/NNG+적/XSN
+생태	생태/NNG
+및	및/MAG
+환경교육,	환경/NNG+교육/NNG+,/SP
+관광	관광/NNG
+지역으로	지역/NNG+으로/JKB
+발돋움시킨	발돋움/NNG+시키/XSV+ㄴ/ETM
+‘그뤼네스	‘/SS+그뤼네스/NNP
+반트(Gr¨unes	반트/NNP+(/SS+Gr/SL+¨/NA+unes/SL
+Band)’,	Band/SL+)/SS+’/SS+,/SP
+즉	즉/MAG
+그린벨트로	그린벨트/NNG+로/JKB
+조성한	조성/NNG+하/XSV+ㄴ/ETM
+사례를	사례/NNG+를/JKO
+연상시킨다.	연상/NNG+시키/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.82.5.1
+한국 DMZ학회 회장인 손기웅 통일연구원 북한인권연구센터 소장은 세계 최초의 세계평화공원으로 스웨덴과 노르웨이 국경지역에 있는 모로쿨리엔 평화공원(Morokulien Peace Park)을 들었다.
+
+한국	한국/NNP
+DMZ학회	DMZ학회/NNP
+회장인	회장/NNG+이/VCP+ㄴ/ETM
+손기웅	손기웅/NNP
+통일연구원	통일/NNG+연구원/NNG
+북한인권연구센터	북한인권연구센터/NNP
+소장은	소장/NNG+은/JX
+세계	세계/NNG
+최초의	최초/NNG+의/JKG
+세계평화공원으로	세계평화공원/NNP+으로/JKB
+스웨덴과	스웨덴/NNP+과/JC
+노르웨이	노르웨이/NNP
+국경지역에	국경/NNG+지역/NNG+에/JKB
+있는	있/VA+는/ETM
+모로쿨리엔	모로쿨리엔/NNP
+평화공원(Morokulien	평화/NNG+공원/NNG+(/SS+Morokulien/SL
+Peace	Peace/SL
+Park)을	Park/SL+)/SS+을/JKO
+들었다.	들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.82.5.2
+노르웨이와 스웨덴이 1910년대 전투를 벌인 뒤 국경지역에 1914년 평화공원을 조성했고 이후 수많은 평화적 활동의 무대로 활용됐다는 것이다.
+
+노르웨이와	노르웨이/NNP+와/JC
+스웨덴이	스웨덴/NNP+이/JKS
+1910년대	1910/SN+년대/NNB
+전투를	전투/NNG+를/JKO
+벌인	벌이/VV+ㄴ/ETM
+뒤	뒤/NNG
+국경지역에	국경/NNG+지역/NNG+에/JKB
+1914년	1914/SN+년/NNB
+평화공원을	평화/NNG+공원/NNG+을/JKO
+조성했고	조성/NNG+하/XSV+았/EP+고/EC
+이후	이후/NNG
+수많은	수많/VA+은/ETM
+평화적	평화/NNG+적/XSN
+활동의	활동/NNG+의/JKG
+무대로	무대/NNG+로/JKB
+활용됐다는	활용/NNG+되/XSV+었/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.82.5.3
+박 대통령은 ‘약속을 반드시 지키는 북한-독일 관계’를 한반도 신뢰프로세스의 벤치마킹 대상으로 꼽을 만큼 독일 및 유럽에 대한 관심이 각별하다.
+
+박	박/NNP
+대통령은	대통령/NNG+은/JX
+‘약속을	‘/SS+약속/NNG+을/JKO
+반드시	반드시/MAG
+지키는	지키/VV+는/ETM
+북한-독일	북한/NNP+-/SO+독일/NNP
+관계’를	관계/NNG+’/SS+를/JKO
+한반도	한반도/NNP
+신뢰프로세스의	신뢰/NNG+프로세스/NNG+의/JKG
+벤치마킹	벤치마킹/NNG
+대상으로	대상/NNG+으로/JKB
+꼽을	꼽/VV+을/ETM
+만큼	만큼/NNB
+독일	독일/NNP
+및	및/MAG
+유럽에	유럽/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+관심이	관심/NNG+이/JKS
+각별하다.	각별/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000037.82.5.4
+가까운 국제정치 인사로 독일 앙겔라 메르켈 총리를 가장 먼저 꼽기도 했다.
+
+가까운	가깝/VA+ㄴ/ETM
+국제정치	국제/NNG+정치/NNG
+인사로	인사/NNG+로/JKB
+독일	독일/NNP
+앙겔라	앙겔라/NNP
+메르켈	메르켈/NNP
+총리를	총리/NNG+를/JKO
+가장	가장/MAG
+먼저	먼저/MAG
+꼽기도	꼽/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,190 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.336
+metadata : {}
+
+
+# id : NWRW1800000026.336.1.1
+[Around the World] 도쿄_中, 日 국채 대량 매각… 한달간 2조엔 넘게 팔아
+
+[Around	[/SS+Around/SL
+the	the/SL
+World]	World/SL+]/SS
+도쿄_中,	도쿄/NNP+_/SW+中/SH+,/SP
+日	日/SH
+국채	국채/NNG
+대량	대량/NNG
+매각…	매각/NNG+…/SE
+한달간	한/MMN+달/NNB+간/XSN
+2조엔	2/SN+조/NR+엔/NNB
+넘게	넘/VV+게/EC
+팔아	팔/VV+아/EF
+
+
+# id : NWRW1800000026.336.2.1
+중국이 보유하고 있던 일본 국채를 지난 8월 대량 매각했다고 아사히신문이 11일 보도했다.
+
+중국이	중국/NNP+이/JKS
+보유하고	보유/NNG+하/XSV+고/EC
+있던	있/VX+던/ETM
+일본	일본/NNP
+국채를	국채/NNG+를/JKO
+지난	지나/VV+ㄴ/ETM
+8월	8/SN+월/NNB
+대량	대량/NNG
+매각했다고	매각/NNG+하/XSV+았/EP+다고/EC
+아사히신문이	아사히신문/NNP+이/JKS
+11일	11/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.2.2
+중국은 작년부터 미국 국채를 팔고 일본 국채를 대량으로 사들여 일본 정계를 중심으로 일본 경제에 대한 중국의 영향력 확대를 우려하는 목소리가 있었다.
+
+중국은	중국/NNP+은/JX
+작년부터	작년/NNG+부터/JX
+미국	미국/NNP
+국채를	국채/NNG+를/JKO
+팔고	팔/VV+고/EC
+일본	일본/NNP
+대량으로	대량/NNG+으로/JKB
+사들여	사들이/VV+어/EC
+정계를	정계/NNG+를/JKO
+중심으로	중심/NNG+으로/JKB
+경제에	경제/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+중국의	중국/NNP+의/JKG
+영향력	영향력/NNG
+확대를	확대/NNG+를/JKO
+우려하는	우려/NNG+하/XSV+는/ETM
+목소리가	목소리/NNG+가/JKS
+있었다.	있/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.2.3
+중국은 이에 대해 보유 외화를 다각화하려는 경제적 이유라고 설명해 왔다.
+
+중국은	중국/NNP+은/JX
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+보유	보유/NNG
+외화를	외화/NNG+를/JKO
+다각화하려는	다각/NNG+화/XSN+하/XSV+려는/ETM
+경제적	경제/NNG+적/XSN
+이유라고	이유/NNG+이/VCP+라고/EC
+설명해	설명/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.3.1
+이 신문에 따르면 지난 8월 중국이 일본 국채를 매각한 금액에서 매입한 금액을 뺀 매각 초과분은 2조182억엔이었다.
+
+이	이/MMD
+신문에	신문/NNG+에/JKB
+따르면	따르/VV+면/EC
+지난	지나/VV+ㄴ/ETM
+8월	8/SN+월/NNB
+중국이	중국/NNP+이/JKS
+일본	일본/NNP
+국채를	국채/NNG+를/JKO
+매각한	매각/NNG+하/XSV+ㄴ/ETM
+금액에서	금액/NNG+에서/JKB
+매입한	매입/NNG+하/XSV+ㄴ/ETM
+금액을	금액/NNG+을/JKO
+뺀	빼/VV+ㄴ/ETM
+매각	매각/NNG
+초과분은	초과/NNG+분/XSN+은/JX
+2조182억엔이었다.	2/SN+조/NR+182/SN+억/NR+엔/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.3.2
+이 금액은 작년 8월부터 올 7월까지 1년 동안 중국의 일본 국채 매입초과분 2조2383억엔에 육박하는 수준이다.
+
+이	이/MMD
+금액은	금액/NNG+은/JX
+작년	작년/NNG
+8월부터	8/SN+월/NNB+부터/JX
+올	올/NNG
+7월까지	7/SN+월/NNB+까지/JX
+1년	1/SN+년/NNB
+동안	동안/NNG
+중국의	중국/NNP+의/JKG
+일본	일본/NNP
+국채	국채/NNG
+매입초과분	매입/NNG+초과/NNG+분/XSN
+2조2383억엔에	2/SN+조/NR+2383/SN+억/NR+엔/NNB+에/JKB
+육박하는	육박/NNG+하/XSV+는/ETM
+수준이다.	수준/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.3.3
+1년 동안 추가로 사들인 국채를 한 달 동안 대부분 팔았다는 것이다.
+
+1년	1/SN+년/NNB
+동안	동안/NNG
+추가로	추가/NNG+로/JKB
+사들인	사들이/VV+ㄴ/ETM
+국채를	국채/NNG+를/JKO
+한	한/MMN
+달	달/NNB
+대부분	대/XPN+부분/NNG
+팔았다는	팔/VV+았/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.4.1
+이 신문은 '정치적 의도?
+
+이	이/MMD
+신문은	신문/NNG+은/JX
+'정치적	'/SS+정치/NNG+적/XSN
+의도?	의도/NNG+?/SF
+
+
+# id : NWRW1800000026.336.4.2
+이익 확정?'이란 제목을 달았으나 기사에선 "엔화가치 상승으로 차익이 늘어나자 이익을 확정하기 위해 국채를 처분한 듯하다"는 시장 관계자의 분석을 주로 보도했다.
+
+이익	이익/NNG
+확정?'이란	확정/NNG+?/SF+'/SS+이/VCP+란/ETM
+제목을	제목/NNG+을/JKO
+달았으나	달/VV+았/EP+으나/EC
+기사에선	기사/NNG+에서/JKB+ㄴ/JX
+"엔화가치	"/SS+엔화/NNG+가치/NNG
+상승으로	상승/NNG+으로/JKB
+차익이	차익/NNG+이/JKS
+늘어나자	늘어나/VV+자/EC
+이익을	이익/NNG+을/JKO
+확정하기	확정/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+국채를	국채/NNG+를/JKO
+처분한	처분/NNG+하/XSV+ㄴ/ETM
+듯하다"는	듯/NNB+하/XSA+다/EF+"/SS+는/ETM
+시장	시장/NNG
+관계자의	관계자/NNG+의/JKG
+분석을	분석/NNG+을/JKO
+주로	주로/MAG
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.336.4.3
+중·일 관계를 악화시킨 센카쿠(尖閣)열도(중국명 댜오위다오) 갈등도 중국이 일본 국채를 대량 처분한 다음 달(9월)에 시작됐다.
+
+중·일	중·일/NNP
+관계를	관계/NNG+를/JKO
+악화시킨	악화/NNG+시키/XSV+ㄴ/ETM
+센카쿠(尖閣)열도(중국명	센카쿠/NNP+(/SS+尖閣/SH+)/SS+열도/NNG+(/SS+중국/NNP+명/NNG
+댜오위다오)	댜오위다오/NNP+)/SS
+갈등도	갈등/NNG+도/JX
+중국이	중국/NNP+이/JKS
+일본	일본/NNP
+국채를	국채/NNG+를/JKO
+대량	대량/NNG
+처분한	처분/NNG+하/XSV+ㄴ/ETM
+다음	다음/NNG
+달(9월)에	달/NNG+(/SS+9/SN+월/NNB+)/SS+에/JKB
+시작됐다.	시작/NNG+되/XSV+었/EP+다/EF+./SF
+
+

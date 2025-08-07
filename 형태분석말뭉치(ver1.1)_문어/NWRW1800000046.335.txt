@@ -1,0 +1,631 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.335
+metadata : {}
+
+
+# id : NWRW1800000046.335.1.1
+中 주도 AIIB(아시아인프라투자은행)에 47개국 참여… 韓國, 지분율 5% 확보 힘들 듯
+
+中	中/SH
+주도	주도/NNG
+AIIB(아시아인프라투자은행)에	AIIB/SL+(/SS+아시아인프라투자은행/NNP+)/SS+에/JKB
+47개국	47/SN+개국/NNB
+참여…	참여/NNG+…/SE
+韓國,	韓國/SH+,/SP
+지분율	지분/NNG+율/XSN
+5%	5/SN+%/SW
+확보	확보/NNG
+힘들	힘들/VA+ㄹ/ETM
+듯	듯/NNB
+
+
+# id : NWRW1800000046.335.2.1
+美, 불참 뜻 밝혀… 日은 수개월내 합류할 가능성
+
+美,	美/SH+,/SP
+불참	불참/NNG
+뜻	뜻/NNG
+밝혀…	밝히/VV+어/EF+…/SE
+日은	日/SH+은/JX
+수개월내	수개월/NNG+내/NNB
+합류할	합류/NNG+하/XSV+ㄹ/ETM
+가능성	가능/NNG+성/XSN
+
+
+# id : NWRW1800000046.335.3.1
+중국이 주도하는 아시아인프라투자은행(AIIB)의 창립 회원국이 최소 47개국에 달할 것으로 집계됐다.
+
+중국이	중국/NNP+이/JKS
+주도하는	주도/NNG+하/XSV+는/ETM
+아시아인프라투자은행(AIIB)의	아시아인프라투자은행/NNP+(/SS+AIIB/SL+)/SS+의/JKG
+창립	창립/NNG
+회원국이	회원국/NNG+이/JKS
+최소	최소/NNG
+47개국에	47/SN+개국/NNB+에/JKB
+달할	달하/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+집계됐다.	집계/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.4.1
+중국 재정부 홈페이지에 따르면, 신청 마감일인 31일 오후 6시 기준으로 참가 신청서를 제출한 국가는 46개국이다.
+
+중국	중국/NNP
+재정부	재정부/NNG
+홈페이지에	홈페이지/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+신청	신청/NNG
+마감일인	마감일/NNG+이/VCP+ㄴ/ETM
+31일	31/SN+일/NNB
+오후	오후/NNG
+6시	6/SN+시/NNB
+기준으로	기준/NNG+으로/JKB
+참가	참가/NNG
+신청서를	신청서/NNG+를/JKO
+제출한	제출/NNG+하/XSV+ㄴ/ETM
+국가는	국가/NNG+는/JX
+46개국이다.	46/SN+개국/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.4.2
+이 명단에 포함되지는 않았지만, 참가 의사를 밝힌 대만을 합하면 47개국이다.
+
+이	이/MMD
+명단에	명단/NNG+에/JKB
+포함되지는	포함/NNG+되/XSV+지/EC+는/JX
+않았지만,	않/VX+았/EP+지만/EC+,/SP
+참가	참가/NNG
+의사를	의사/NNG+를/JKO
+밝힌	밝히/VV+ㄴ/ETM
+대만을	대만/NNP+을/JKO
+합하면	합/NNG+하/XSV+면/EC
+47개국이다.	47/SN+개국/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.5.1
+일본은 이날 미국과 함께 불참 의사를 밝혔다.
+
+일본은	일본/NNP+은/JX
+이날	이날/NNG
+미국과	미국/NNP+과/JKB
+함께	함께/MAG
+불참	불참/NNG
+의사를	의사/NNG+를/JKO
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.5.2
+하지만, 기테라 마사토(木寺昌人) 중국 주재 일본 대사는 영국 파이낸셜타임스(FT)에 "일본이 수개월 안에 AIIB에 합류할 가능성이 있다"고 말했다.
+
+하지만,	하지만/MAJ+,/SP
+기테라	기테라/NNP
+마사토(木寺昌人)	마사토/NNP+(/SS+木寺昌人/SH+)/SS
+중국	중국/NNP
+주재	주재/NNG
+일본	일본/NNP
+대사는	대사/NNG+는/JX
+영국	영국/NNP
+파이낸셜타임스(FT)에	파이낸셜타임스/NNP+(/SS+FT/SL+)/SS+에/JKB
+"일본이	"/SS+일본/NNP+이/JKS
+수개월	수개월/NNG
+안에	안/NNG+에/JKB
+AIIB에	AIIB/SL+에/JKB
+합류할	합류/NNG+하/XSV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.5.3
+북한도 가입하려 했으나 중국이 거절했다는 보도도 나왔다.
+
+북한도	북한/NNP+도/JX
+가입하려	가입/NNG+하/XSV+려/EC
+했으나	하/VX+았/EP+으나/EC
+중국이	중국/NNP+이/JKS
+거절했다는	거절/NNG+하/XSV+았/EP+다는/ETM
+보도도	보도/NNG+도/JX
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.5.4
+영국의 인터넷 경제매체 '이머징마켓'은 30일 중국 외교 소식통을 인용해 "북한이 지난 2월 AIIB 가입 의사를 전달했으나 가입 불가 통보를 받았다"고 보도했다.
+
+영국의	영국/NNP+의/JKG
+인터넷	인터넷/NNG
+경제매체	경제/NNG+매체/NNG
+'이머징마켓'은	'/SS+이머징마켓/NNP+'/SS+은/JX
+30일	30/SN+일/NNB
+중국	중국/NNP
+외교	외교/NNG
+소식통을	소식통/NNG+을/JKO
+인용해	인용/NNG+하/XSV+아/EC
+"북한이	"/SS+북한/NNP+이/JKS
+지난	지나/VV+ㄴ/ETM
+2월	2/SN+월/NNB
+AIIB	AIIB/SL
+가입	가입/NNG
+의사를	의사/NNG+를/JKO
+전달했으나	전달/NNG+하/XSV+았/EP+으나/EC
+불가	불가/NNG
+통보를	통보/NNG+를/JKO
+받았다"고	받/VV+았/EP+다/EF+"/SS+고/JKQ
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.5.5
+이 소식통은 "북한의 금융·경제 체제가 국제기구에 참여할 수준에 미치지 못했기 때문"이라고 전했다.
+
+이	이/MMD
+소식통은	소식통/NNG+은/JX
+"북한의	"/SS+북한/NNP+의/JKG
+금융·경제	금융/NNG+·/SP+경제/NNG
+체제가	체제/NNG+가/JKS
+국제기구에	국제기구/NNG+에/JKB
+참여할	참여/NNG+하/XSV+ㄹ/ETM
+수준에	수준/NNG+에/JKB
+미치지	미치/VV+지/EC
+못했기	못하/VX+았/EP+기/ETN
+때문"이라고	때문/NNB+"/SS+이라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.6.1
+시진핑(習近平) 중국 국가주석이 2013년 10월 창설을 제안해 작년 말 창립 회원국을 1차 마감했을 때만 해도 AIIB엔 21개국이 참여하겠다고 했는데, 올 들어 가입국이 2배 이상으로 늘어나게 됐다.
+
+시진핑(習近平)	시진핑/NNP+(/SS+習近平/SH+)/SS
+중국	중국/NNP
+국가주석이	국가주석/NNG+이/JKS
+2013년	2013/SN+년/NNB
+10월	10/SN+월/NNB
+창설을	창설/NNG+을/JKO
+제안해	제안/NNG+하/XSV+아/EC
+작년	작년/NNG
+말	말/NNB
+창립	창립/NNG
+회원국을	회원국/NNG+을/JKO
+1차	1/SN+차/NNB
+마감했을	마감/NNG+하/XSV+았/EP+을/ETM
+때만	때/NNG+만/JX
+해도	하/VV+아도/EC
+AIIB엔	AIIB/SL+에/JKB+ㄴ/JX
+21개국이	21/SN+개국/NNB+이/JKS
+참여하겠다고	참여/NNG+하/XSV+겠/EP+다고/EC
+했는데,	하/VV+았/EP+는데/EC+,/SP
+올	올/NNG
+들어	들/VV+어/EC
+가입국이	가입국/NNG+이/JKS
+2배	2/SN+배/NNG
+이상으로	이상/NNG+으로/JKB
+늘어나게	늘어나/VV+게/EC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.6.2
+흥행에 성공한 것이다.
+
+흥행에	흥행/NNG+에/JKB
+성공한	성공/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.7.1
+◇AIIB 참여국 급증 원인
+
+◇AIIB	◇/SW+AIIB/SL
+참여국	참여국/NNG
+급증	급증/NNG
+원인	원인/NNG
+
+
+# id : NWRW1800000046.335.8.1
+AIIB는 도로, 철도, 통신 등 아시아 인프라 사업에 투자하게 된다.
+
+AIIB는	AIIB/SL+는/JX
+도로,	도로/NNG+,/SP
+철도,	철도/NNG+,/SP
+통신	통신/NNG
+등	등/NNB
+아시아	아시아/NNP
+인프라	인프라/NNG
+사업에	사업/NNG+에/JKB
+투자하게	투자/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.8.2
+AIIB의 작동 방식은 기존 국제금융기구와 비슷할 것으로 보인다.
+
+AIIB의	AIIB/SL+의/JKG
+작동	작동/NNG
+방식은	방식/NNG+은/JX
+기존	기존/NNG
+국제금융기구와	국제/NNG+금융/NNG+기구/NNG+와/JKB
+비슷할	비슷하/VA+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.8.3
+우선 아시아 각지의 인프라 투자 수요 중 사업성이 있다고 판단되는 프로젝트에 관해 AIIB가 자체 조사를 한 뒤, 타당성이 입증되면 투자금 유치가 시작된다.
+
+우선	우선/MAG
+아시아	아시아/NNP
+각지의	각지/NNG+의/JKG
+인프라	인프라/NNG
+투자	투자/NNG
+수요	수요/NNG
+중	중/NNB
+사업성이	사업/NNG+성/XSN+이/JKS
+있다고	있/VA+다고/EC
+판단되는	판단/NNG+되/XSV+는/ETM
+프로젝트에	프로젝트/NNG+에/JKB
+관해	관하/VV+아/EC
+AIIB가	AIIB/SL+가/JKS
+자체	자체/NNG
+조사를	조사/NNG+를/JKO
+한	하/VV+ㄴ/ETM
+뒤,	뒤/NNG+,/SP
+타당성이	타당성/NNG+이/JKS
+입증되면	입증/NNG+되/XSV+면/EC
+투자금	투자금/NNG
+유치가	유치/NNG+가/JKS
+시작된다.	시작/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.8.4
+AIIB가 채권을 직접 발행해 자금을 조달하거나, AIIB와 민간 자금이 함께 들어가기도 한다.
+
+AIIB가	AIIB/SL+가/JKS
+채권을	채권/NNG+을/JKO
+직접	직접/MAG
+발행해	발행/NNG+하/XSV+아/EC
+자금을	자금/NNG+을/JKO
+조달하거나,	조달/NNG+하/XSV+거나/EC+,/SP
+AIIB와	AIIB/SL+와/JC
+민간	민간/NNG
+자금이	자금/NNG+이/JKS
+함께	함께/MAG
+들어가기도	들어가/VV+기/ETN+도/JX
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.8.5
+AIIB는 고속도로 통행료나 전기료 등으로 투자금을 회수한다.
+
+AIIB는	AIIB/SL+는/JX
+고속도로	고속/NNG+도로/NNG
+통행료나	통행료/NNG+나/JC
+전기료	전기료/NNG
+등으로	등/NNB+으로/JKB
+투자금을	투자금/NNG+을/JKO
+회수한다.	회수/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.9.1
+지만수 금융연구원 연구위원은 "AIIB가 '인프라 투자'로 목적을 분명하게 제시한 게 참여국 확대라는 흥행에 성공한 요인 가운데 하나"라고 했다.
+
+지만수	지만수/NNP
+금융연구원	금융연구원/NNP
+연구위원은	연구/NNG+위원/NNG+은/JX
+"AIIB가	"/SS+AIIB/SL+가/JKS
+'인프라	'/SS+인프라/NNG
+투자'로	투자/NNG+'/SS+로/JKB
+목적을	목적/NNG+을/JKO
+분명하게	분명/MAG+하/XSA+게/EC
+제시한	제시/NNG+하/XSV+ㄴ/ETM
+게	거/NNB+이/JKS
+참여국	참여국/NNG
+확대라는	확대/NNG+이/VCP+라는/ETM
+흥행에	흥행/NNG+에/JKB
+성공한	성공/NNG+하/XSV+ㄴ/ETM
+요인	요인/NNG
+가운데	가운데/NNG
+하나"라고	하나/NR+"/SS+라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.9.2
+기존 일본 주도 아시아개발은행(ADB) 등은 빈곤 퇴치, 개도국 교육·문화 사업 지원 등의 프로젝트에 힘을 쏟았다면, AIIB는 돈 되는 사업에 투자하겠다고 공언한 것이 먹혔다는 것이다.
+
+기존	기존/NNG
+일본	일본/NNP
+주도	주도/NNG
+아시아개발은행(ADB)	아시아개발은행/NNP+(/SS+ADB/SL+)/SS
+등은	등/NNB+은/JX
+빈곤	빈곤/NNG
+퇴치,	퇴치/NNG+,/SP
+개도국	개도국/NNG
+교육·문화	교육/NNG+·/SP+문화/NNG
+사업	사업/NNG
+지원	지원/NNG
+등의	등/NNB+의/JKG
+프로젝트에	프로젝트/NNG+에/JKB
+힘을	힘/NNG+을/JKO
+쏟았다면,	쏟/VV+았/EP+다면/EC+,/SP
+AIIB는	AIIB/SL+는/JX
+돈	돈/NNG
+되는	되/VV+는/ETM
+사업에	사업/NNG+에/JKB
+투자하겠다고	투자/NNG+하/XSV+겠/EP+다고/EC
+공언한	공언/NNG+하/XSV+ㄴ/ETM
+것이	것/NNB+이/JKS
+먹혔다는	먹히/VV+었/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.10.1
+지난해 말 중국 국가발전개혁위원회가 공개한 통계에 따르면 중국이 서부 대개발 사업에 지난 2000년부터 15년 동안 들인 돈이 4조8390억위안으로 집계됐다.
+
+지난해	지난해/NNG
+말	말/NNB
+중국	중국/NNP
+국가발전개혁위원회가	국가발전개혁위원회/NNP+가/JKS
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+통계에	통계/NNG+에/JKB
+따르면	따르/VV+면/EC
+중국이	중국/NNP+이/JKS
+서부	서부/NNG
+대개발	대/XPN+개발/NNG
+사업에	사업/NNG+에/JKB
+지난	지나/VV+ㄴ/ETM
+2000년부터	2000/SN+년/NNB+부터/JX
+15년	15/SN+년/NNB
+동안	동안/NNG
+들인	들이/VV+ㄴ/ETM
+돈이	돈/NNG+이/JKS
+4조8390억위안으로	4/SN+조/NR+8390/SN+억/NR+위안/NNB+으로/JKB
+집계됐다.	집계/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.10.2
+지금 환율로 계산하면 한 해 평균 500억달러 넘는 돈이다.
+
+지금	지금/NNG
+환율로	환율/NNG+로/JKB
+계산하면	계산/NNG+하/XSV+면/EC
+한	한/MMN
+해	해/NNB
+평균	평균/NNG
+500억달러	500/SN+억/NR+달러/NNB
+넘는	넘/VV+는/ETM
+돈이다.	돈/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.10.3
+자국에 깔린 이 인프라를 유럽과 다른 아시아 국가로 계속 연결한다는 게 중국의 기본 구상이다.
+
+자국에	자국/NNG+에/JKB
+깔린	깔리/VV+ㄴ/ETM
+이	이/MMD
+인프라를	인프라/NNG+를/JKO
+유럽과	유럽/NNP+과/JC
+다른	다른/MMD
+아시아	아시아/NNP
+국가로	국가/NNG+로/JKB
+계속	계속/MAG
+연결한다는	연결/NNG+하/XSV+ㄴ다는/ETM
+게	거/NNB+이/JKS
+중국의	중국/NNP+의/JKG
+기본	기본/NNG
+구상이다.	구상/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.10.4
+향후 아시아 지역 인프라 사업이 중국 주도로 흘러가고, 이 과정에서 AIIB의 역할이 확대될 것으로 우리 정부는 판단하고 있다.
+
+향후	향후/NNG
+아시아	아시아/NNP
+지역	지역/NNG
+인프라	인프라/NNG
+사업이	사업/NNG+이/JKS
+중국	중국/NNP
+주도로	주도/NNG+로/JKB
+흘러가고,	흘러가/VV+고/EC+,/SP
+이	이/MMD
+과정에서	과정/NNG+에서/JKB
+AIIB의	AIIB/SL+의/JKG
+역할이	역할/NNG+이/JKS
+확대될	확대/NNG+되/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+우리	우리/NP
+정부는	정부/NNG+는/JX
+판단하고	판단/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.335.11.1
+◇참여국 늘어 한국 지분율 낮아질 듯
+
+◇참여국	◇/SW+참여국/NNG
+늘어	늘/VV+어/EC
+한국	한국/NNP
+지분율	지분/NNG+율/XSN
+낮아질	낮/VA+아/EC+지/VX+ㄹ/ETM
+듯	듯/NNB
+
+
+# id : NWRW1800000046.335.12.1
+AIIB 참가국들은 아시아 지역 국가가 아닌 역외(域外) 국가에 지분율을 얼마나 떼어 줄지를 오는 6월까지 논의하게 된다.
+
+AIIB	AIIB/SL
+참가국들은	참가국/NNG+들/XSN+은/JX
+아시아	아시아/NNP
+지역	지역/NNG
+국가가	국가/NNG+가/JKC
+아닌	아니/VCN+ㄴ/ETM
+역외(域外)	역외/NNG+(/SS+域外/SH+)/SS
+국가에	국가/NNG+에/JKB
+지분율을	지분/NNG+율/XSN+을/JKO
+얼마나	얼마나/MAG
+떼어	떼/VV+어/EC
+줄지를	주/VX+ㄹ지/EF+를/JKO
+오는	오/VV+는/ETM
+6월까지	6/SN+월/NNB+까지/JX
+논의하게	논의/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.12.2
+전체 지분 중 25%를 떼어 주는 방식이 유력하지만, 독일, 프랑스, 영국 등 역외 국가들의 경제력이 만만치 않아 30%까지 늘어날 가능성도 있다.
+
+전체	전체/NNG
+지분	지분/NNG
+중	중/NNB
+25%를	25/SN+%/SW+를/JKO
+떼어	떼/VV+어/EC
+주는	주/VX+는/ETM
+방식이	방식/NNG+이/JKS
+유력하지만,	유력/NNG+하/XSA+지만/EC+,/SP
+독일,	독일/NNP+,/SP
+프랑스,	프랑스/NNP+,/SP
+영국	영국/NNP
+등	등/NNB
+역외	역외/NNG
+국가들의	국가/NNG+들/XSN+의/JKG
+경제력이	경제력/NNG+이/JKS
+만만치	만만하/VA+지/EC
+않아	않/VX+아/EC
+30%까지	30/SN+%/SW+까지/JX
+늘어날	늘어나/VV+ㄹ/ETM
+가능성도	가능/NNG+성/XSN+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000046.335.12.3
+2013년 국내총생산(GDP)을 두고 단순 계산해 보면 한국의 지분은 4.5~4.9%에 그치게 된다.
+
+2013년	2013/SN+년/NNB
+국내총생산(GDP)을	국내/NNG+총생산/NNG+(/SS+GDP/SL+)/SS+을/JKO
+두고	두/VV+고/EC
+단순	단순/NNG
+계산해	계산/NNG+하/XSV+아/EC
+보면	보/VX+면/EC
+한국의	한국/NNP+의/JKG
+지분은	지분/NNG+은/JX
+4.5~4.9%에	4/SN+./SP+5/SN+~/SO+4/SN+./SP+9/SN+%/SW+에/JKB
+그치게	그치/VV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.13.1
+정부 관계자는 "참여국 숫자가 늘면서 우리가 지분 5%를 확보하기가 어려운 게임이 됐다"면서 "일본이 나중에라도 AIIB에 들어오게 되면, 우리 지분은 더 낮아질 수 있다"고 말했다.
+
+정부	정부/NNG
+관계자는	관계자/NNG+는/JX
+"참여국	"/SS+참여국/NNG
+숫자가	숫자/NNG+가/JKS
+늘면서	늘/VV+면서/EC
+우리가	우리/NP+가/JKS
+지분	지분/NNG
+5%를	5/SN+%/SW+를/JKO
+확보하기가	확보/NNG+하/XSV+기/ETN+가/JKS
+어려운	어렵/VA+ㄴ/ETM
+게임이	게임/NNG+이/JKC
+됐다"면서	되/VV+었/EP+다/EF+"/SS+면서/EC
+"일본이	"/SS+일본/NNP+이/JKS
+나중에라도	나중/NNG+에/JKB+이/VCP+라도/EC
+AIIB에	AIIB/SL+에/JKB
+들어오게	들어오/VV+게/EC
+되면,	되/VV+면/EC+,/SP
+우리	우리/NP
+지분은	지분/NNG+은/JX
+더	더/MAG
+낮아질	낮/VA+아/EC+지/VX+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.13.2
+우리나라는 오는 4월 말로 예정된 AIIB 4차 회의부터 참석, AIIB 설립 협정문 내용을 논의하게 된다.
+
+우리나라는	우리나라/NNG+는/JX
+오는	오/VV+는/ETM
+4월	4/SN+월/NNB
+말로	말/NNB+로/JKB
+예정된	예정/NNG+되/XSV+ㄴ/ETM
+AIIB	AIIB/SL
+4차	4/SN+차/NNB
+회의부터	회의/NNG+부터/JX
+참석,	참석/NNG+,/SP
+설립	설립/NNG
+협정문	협정문/NNG
+내용을	내용/NNG+을/JKO
+논의하게	논의/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.13.3
+정부 관계자는 "최대한 지분을 확보하고, AIIB 상임이사 12명 안에 한국 인사를 배치하는 것이 목표"라고 말했다.
+
+정부	정부/NNG
+관계자는	관계자/NNG+는/JX
+"최대한	"/SS+최대한/MAG
+지분을	지분/NNG+을/JKO
+확보하고,	확보/NNG+하/XSV+고/EC+,/SP
+AIIB	AIIB/SL
+상임이사	상임/NNG+이사/NNG
+12명	12/SN+명/NNB
+안에	안/NNG+에/JKB
+한국	한국/NNP
+인사를	인사/NNG+를/JKO
+배치하는	배치/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+목표"라고	목표/NNG+"/SS+라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.335.14.1
+전문가들은 논의 과정에서 좀 더 실리를 챙겨야 한다고 지적한다.
+
+전문가들은	전문가/NNG+들/XSN+은/JX
+논의	논의/NNG
+과정에서	과정/NNG+에서/JKB
+좀	좀/MAG
+더	더/MAG
+실리를	실리/NNG+를/JKO
+챙겨야	챙기/VV+어야/EC
+한다고	하/VX+ㄴ다고/EC
+지적한다.	지적/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.335.14.2
+전병서 중국경제금융연구소장은 "AIIB 자체 지분율보다는 AIIB가 발주하는 프로젝트에서 우리 기업의 건설 공사 지분을 관철하는 것이 더 중요하고, 서해안에서 중국을 잇는 해저 터널 등을 AIIB 프로젝트에 포함하는 노력을 해야 한다"고 말했다.
+
+전병서	전병서/NNP
+중국경제금융연구소장은	중국경제금융연구소장/NNG+은/JX
+"AIIB	"/SS+AIIB/SL
+자체	자체/NNG
+지분율보다는	지분/NNG+율/XSN+보다/JKB+는/JX
+AIIB가	AIIB/SL+가/JKS
+발주하는	발주/NNG+하/XSV+는/ETM
+프로젝트에서	프로젝트/NNG+에서/JKB
+우리	우리/NP
+기업의	기업/NNG+의/JKG
+건설	건설/NNG
+공사	공사/NNG
+지분을	지분/NNG+을/JKO
+관철하는	관철/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+더	더/MAG
+중요하고,	중요/NNG+하/XSA+고/EC+,/SP
+서해안에서	서해안/NNP+에서/JKB
+중국을	중국/NNP+을/JKO
+잇는	잇/VV+는/ETM
+해저	해저/NNG
+터널	터널/NNG
+등을	등/NNB+을/JKO
+AIIB	AIIB/SL
+프로젝트에	프로젝트/NNG+에/JKB
+포함하는	포함/NNG+하/XSV+는/ETM
+노력을	노력/NNG+을/JKO
+해야	하/VV+아야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,370 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.97
+metadata : {}
+
+
+# id : NWRW1800000026.97.1.1
+'형만한 아우' 허재가 이긴 수싸움;KCC, 4강PO 첫 판서 KT 잡아… 모비스도 동부에 1승
+
+'형만한	'/SS+형/NNG+만/JX+하/VA+ㄴ/ETM
+아우'	아우/NNG+'/SS
+허재가	허재/NNP+가/JKS
+이긴	이기/VV+ㄴ/ETM
+수싸움;KCC,	수/NNG+싸움/NNG+;/SW+KCC/SL+,/SP
+4강PO	4/SN+강/NNB+PO/SL
+첫	첫/MMN
+판서	판/NNB+서/JKB
+KT	KT/SL
+잡아…	잡/VV+아/EC+…/SE
+모비스도	모비스/NNP+도/JX
+동부에	동부/NNP+에/JKB
+1승	1/SN+승/NNB
+
+
+# id : NWRW1800000026.97.2.1
+남자 프로농구 4강 플레이오프에서 격돌한 울산 모비스의 유재학, 부산 KT의 전창진, 전주 KCC의 허재, 원주 동부의 강동희 감독은 현역 시절 소속팀 등에서 한솥밥을 먹으며 '호형호제'했던 사이다.
+
+남자	남자/NNG
+프로농구	프로/NNG+농구/NNG
+4강	4/SN+강/NNB
+플레이오프에서	플레이오프/NNG+에서/JKB
+격돌한	격돌/NNG+하/XSV+ㄴ/ETM
+울산	울산/NNP
+모비스의	모비스/NNP+의/JKG
+유재학,	유재학/NNP+,/SP
+부산	부산/NNP
+KT의	KT/SL+의/JKG
+전창진,	전창진/NNP+,/SP
+전주	전주/NNP
+KCC의	KCC/SL+의/JKG
+허재,	허재/NNP+,/SP
+원주	원주/NNP
+동부의	동부/NNP+의/JKG
+강동희	강동희/NNP
+감독은	감독/NNG+은/JX
+현역	현역/NNG
+시절	시절/NNG
+소속팀	소속/NNG+팀/NNG
+등에서	등/NNB+에서/JKB
+한솥밥을	한솥밥/NNG+을/JKO
+먹으며	먹/VV+으며/EC
+'호형호제'했던	'/SS+호형호제/NNG+'/SS+하/VV+았/EP+던/ETM
+사이다.	사이/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.2.2
+상대를 누구보다 잘 아는 이들의 포스트 시즌 첫 맞대결은 지략싸움에서 승부가 갈렸다.
+
+상대를	상대/NNG+를/JKO
+누구보다	누구/NP+보다/JKB
+잘	잘/MAG
+아는	알/VV+는/ETM
+이들의	이/NP+들/XSN+의/JKG
+포스트	포스트/NNG
+시즌	시즌/NNG
+첫	첫/MMN
+맞대결은	맞대결/NNG+은/JX
+지략싸움에서	지략/NNG+싸움/NNG+에서/JKB
+승부가	승부/NNG+가/JKS
+갈렸다.	갈리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.3.1
+21일 부산 KT와 전주 KCC의 4강 플레이오프 1차전에서 허재 KCC 감독이 KT 전창진 감독에게 판정승을 거두면서 95대89로 승리했다.
+
+21일	21/SN+일/NNB
+부산	부산/NNP
+KT와	KT/SL+와/JC
+전주	전주/NNP
+KCC의	KCC/SL+의/JKG
+4강	4/SN+강/NNB
+플레이오프	플레이오프/NNG
+1차전에서	1/SN+차전/NNB+에서/JKB
+허재	허재/NNP
+KCC	KCC/SL
+감독이	감독/NNG+이/JKS
+KT	KT/SL
+전창진	전창진/NNP
+감독에게	감독/NNG+에게/JKB
+판정승을	판정승/NNG+을/JKO
+거두면서	거두/VV+면서/EC
+95대89로	95/SN+대/NNB+89/SN+로/JKB
+승리했다.	승리/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.4.1
+하승진의 부상 결장으로 높이의 위력이 반감된 KCC의 허 감독은 초반부터 KT가 가장 자신 있어 하는 외곽포로 맞불을 놨다.
+
+하승진의	하승진/NNP+의/JKG
+부상	부상/NNG
+결장으로	결장/NNG+으로/JKB
+높이의	높이/NNG+의/JKG
+위력이	위력/NNG+이/JKS
+반감된	반감/NNG+되/XSV+ㄴ/ETM
+KCC의	KCC/SL+의/JKG
+허	허/NNP
+감독은	감독/NNG+은/JX
+초반부터	초반/NNG+부터/JX
+KT가	KT/SL+가/JKS
+가장	가장/MAG
+자신	자신/NNG
+있어	있/VA+어/EC
+하는	하/VX+는/ETM
+외곽포로	외곽/NNG+포/NNG+로/JKB
+맞불을	맞불/NNG+을/JKO
+놨다.	놓/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.4.2
+KT가 게임 리더인 전태풍에게 2명의 수비를 붙일 것으로 예상해, 찬스가 나면 다른 선수들에게 공격적인 슛을 주문한 게 효과를 봤다.
+
+KT가	KT/SL+가/JKS
+게임	게임/NNG
+리더인	리더/NNG+이/VCP+ㄴ/ETM
+전태풍에게	전태풍/NNP+에게/JKB
+2명의	2/SN+명/NNB+의/JKG
+수비를	수비/NNG+를/JKO
+붙일	붙이/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+예상해,	예상/NNG+하/XSV+아/EC+,/SP
+찬스가	찬스/NNG+가/JKS
+나면	나/VV+면/EC
+다른	다른/MMD
+선수들에게	선수/NNG+들/XSN+에게/JKB
+공격적인	공격/NNG+적/XSN+이/VCP+ㄴ/ETM
+슛을	슛/NNG+을/JKO
+주문한	주문/NNG+하/XSV+ㄴ/ETM
+게	거/NNB+이/JKS
+효과를	효과/NNG+를/JKO
+봤다.	보/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.4.3
+KCC는 접전이 이어지던 3쿼터에 임재현이 3점포 3개를 터트리며 승부의 흐름을 가져왔다.
+
+KCC는	KCC/SL+는/JX
+접전이	접전/NNG+이/JKS
+이어지던	이어지/VV+던/ETM
+3쿼터에	3/SN+쿼터/NNB+에/JKB
+임재현이	임재현/NNP+이/JKS
+3점포	3/SN+점/NNB+포/NNG
+3개를	3/SN+개/NNB+를/JKO
+터트리며	터트리/VV+며/EC
+승부의	승부/NNG+의/JKG
+흐름을	흐름/NNG+을/JKO
+가져왔다.	가져오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.5.1
+허 감독은 4쿼터에는 전태풍과 외국인 선수(테렌스 레더·아이반 존슨)의 콤비 플레이 비중을 높였다.
+
+허	허/NNP
+감독은	감독/NNG+은/JX
+4쿼터에는	4/SN+쿼터/NNB+에/JKB+는/JX
+전태풍과	전태풍/NNP+과/JKB
+외국인	외국인/NNG
+선수(테렌스	선수/NNG+(/SS+테렌스/NNP
+레더·아이반	레더/NNP+·/SP+아이반/NNP
+존슨)의	존슨/NNP+)/SS+의/JKG
+콤비	콤비/NNG
+플레이	플레이/NNG
+비중을	비중/NNG+을/JKO
+높였다.	높이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.5.2
+상대팀 센터 나이젤 딕슨이 제 컨디션이 아니고, KT 제스퍼 존슨의 수비력이 약하다는 점을 감안한 작전이었다.
+
+상대팀	상대/NNG+팀/NNG
+센터	센터/NNG
+나이젤	나이젤/NNP
+딕슨이	딕슨/NNP+이/JKS
+제	저/NP+의/JKG
+컨디션이	컨디션/NNG+이/JKC
+아니고,	아니/VCN+고/EC+,/SP
+KT	KT/SL
+제스퍼	제스퍼/NNP
+존슨의	존슨/NNP+의/JKG
+수비력이	수비력/NNG+이/JKS
+약하다는	약하/VA+다는/ETM
+점을	점/NNG+을/JKO
+감안한	감안/NNG+하/XSV+ㄴ/ETM
+작전이었다.	작전/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.6.1
+전태풍, 존슨, 레더는 4쿼터 팀의 19득점 가운데 15점을 합작했다.
+
+전태풍,	전태풍/NNP+,/SP
+존슨,	존슨/NNP+,/SP
+레더는	레더/NNP+는/JX
+4쿼터	4/SN+쿼터/NNB
+팀의	팀/NNG+의/JKG
+19득점	19/SN+득점/NNG
+가운데	가운데/NNG
+15점을	15/SN+점/NNB+을/JKO
+합작했다.	합작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.6.2
+특히 전태풍(18점 9어시스트)은 종료 1분27초 전 KT 가드 신기성을 개인기로 따돌리고 나서 KT의 제스퍼 존슨이 자신을 막기 위해 앞으로 나오는 틈을 타 아이반 존슨에게 날카로운 패스를 찔러줘 호쾌한 덩크슛을 이끌어내기도 냈다.
+
+특히	특히/MAG
+전태풍(18점	전태풍/NNP+(/SS+18/SN+점/NNB
+9어시스트)은	9/SN+어시스트/NNG+)/SS+은/JX
+종료	종료/NNG
+1분27초	1/SN+분/NNB+27/SN+초/NNB
+전	전/NNG
+KT	KT/SL
+가드	가드/NNG
+신기성을	신기성/NNP+을/JKO
+개인기로	개인기/NNG+로/JKB
+따돌리고	따돌리/VV+고/EC
+나서	나/VX+아서/EC
+KT의	KT/SL+의/JKG
+제스퍼	제스퍼/NNP
+존슨이	존슨/NNP+이/JKS
+자신을	자신/NNG+을/JKO
+막기	막/VV+기/ETN
+위해	위하/VV+아/EC
+앞으로	앞/NNG+으로/JKB
+나오는	나오/VV+는/ETM
+틈을	틈/NNG+을/JKO
+타	타/VV+아/EC
+아이반	아이반/NNP
+존슨에게	존슨/NNP+에게/JKB
+날카로운	날카롭/VA+ㄴ/ETM
+패스를	패스/NNG+를/JKO
+찔러줘	찌르/VV+어/EC+주/VX+어/EC
+호쾌한	호쾌하/VA+ㄴ/ETM
+덩크슛을	덩크/NNG+슛/NNG+을/JKO
+이끌어내기도	이끌/VV+어/EC+내/VX+기/ETN+도/JX
+냈다.	내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.6.3
+KCC는 이 한 방으로 6점차(91―85)로 점수를 벌리며 승부에 쐐기를 박았다.
+
+KCC는	KCC/SL+는/JX
+이	이/MMD
+한	한/MMN
+방으로	방/NNB+으로/JKB
+6점차(91―85)로	6/SN+점/NNB+차/NNG+(/SS+91/SN+―/SS+85/SN+)/SS+로/JKB
+점수를	점수/NNG+를/JKO
+벌리며	벌리/VV+며/EC
+승부에	승부/NNG+에/JKB
+쐐기를	쐐기/NNG+를/JKO
+박았다.	박/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.7.1
+KT 전창진 감독은 "KCC 공격의 핵심인 전태풍을 겹 수비하는 데 주안점을 뒀던 전술이 전혀 먹혀들지 않았다"며 수(手) 싸움에서 완패했다는 것을 인정했다.
+
+KT	KT/SL
+전창진	전창진/NNP
+감독은	감독/NNG+은/JX
+"KCC	"/SS+KCC/SL
+공격의	공격/NNG+의/JKG
+핵심인	핵심/NNG+이/VCP+ㄴ/ETM
+전태풍을	전태풍/NNP+을/JKO
+겹	겹/NA
+수비하는	수비/NNG+하/XSV+는/ETM
+데	데/NNB
+주안점을	주안점/NNG+을/JKO
+뒀던	두/VV+었/EP+던/ETM
+전술이	전술/NNG+이/JKS
+전혀	전혀/MAG
+먹혀들지	먹혀들/VV+지/EC
+않았다"며	않/VX+았/EP+다/EF+"/SS+며/EC
+수(手)	수/NNG+(/SS+手/SH+)/SS
+싸움에서	싸움/NNG+에서/JKB
+완패했다는	완패/NNG+하/XSV+았/EP+다는/ETM
+것을	것/NNB+을/JKO
+인정했다.	인정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.8.1
+한편 유재학 모비스 감독은 원주 동부와의 20일 경기에서 경기 초반부터 전면 압박 수비로 동부 강동희 감독의 허를 찔렀다.
+
+한편	한편/MAG
+유재학	유재학/NNP
+모비스	모비스/NNP
+감독은	감독/NNG+은/JX
+원주	원주/NNP
+동부와의	동부/NNP+와/JKB+의/JKG
+20일	20/SN+일/NNB
+경기에서	경기/NNG+에서/JKB
+경기	경기/NNG
+초반부터	초반/NNG+부터/JX
+전면	전면/NNG
+압박	압박/NNG
+수비로	수비/NNG+로/JKB
+동부	동부/NNP
+강동희	강동희/NNP
+감독의	감독/NNG+의/JKG
+허를	허/NNG+를/JKO
+찔렀다.	찌르/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.8.2
+동부의 기둥인 김주성의 상태가 완전치 않다는 판단에 따라 일찍 지치게 하겠다는 계산이 깔려 있었다.
+
+동부의	동부/NNP+의/JKG
+기둥인	기둥/NNG+이/VCP+ㄴ/ETM
+김주성의	김주성/NNP+의/JKG
+상태가	상태/NNG+가/JKS
+완전치	완전/NNG+하/XSA+지/EC
+않다는	않/VX+다는/ETM
+판단에	판단/NNG+에/JKB
+따라	따르/VV+아/EC
+일찍	일찍/MAG
+지치게	지치/VV+게/EC
+하겠다는	하/VX+겠/EP+다는/ETM
+계산이	계산/NNG+이/JKS
+깔려	깔리/VV+어/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.9.1
+모비스는 1쿼터에서 21―12로 앞섰고, 이후 노련한 경기 운영으로 주도권을 유지한 끝에 74대61로 승리했다.
+
+모비스는	모비스/NNP+는/JX
+1쿼터에서	1/SN+쿼터/NNB+에서/JKB
+21―12로	21/SN+―/SS+12/SN+로/JKB
+앞섰고,	앞서/VV+었/EP+고/EC+,/SP
+이후	이후/NNG
+노련한	노련하/VA+ㄴ/ETM
+경기	경기/NNG
+운영으로	운영/NNG+으로/JKB
+주도권을	주도/NNG+권/XSN+을/JKO
+유지한	유지/NNG+하/XSV+ㄴ/ETM
+끝에	끝/NNG+에/JKB
+74대61로	74/SN+대/NNB+61/SN+로/JKB
+승리했다.	승리/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.97.9.2
+유 감독은 "체력은 자신이 있어 상대의 공격횟수를 최대한 줄이자는 생각에서 초반부터 밀고 나간 게 주효했다"고 했다.
+
+유	유/NNP
+감독은	감독/NNG+은/JX
+"체력은	"/SS+체력/NNG+은/JX
+자신이	자신/NNG+이/JKS
+있어	있/VA+어/EC
+상대의	상대/NNG+의/JKG
+공격횟수를	공격/NNG+횟수/NNG+를/JKO
+최대한	최대한/MAG
+줄이자는	줄이/VV+자는/ETM
+생각에서	생각/NNG+에서/JKB
+초반부터	초반/NNG+부터/JX
+밀고	밀/VV+고/EC
+나간	나가/VV+ㄴ/ETM
+게	거/NNB+이/JKS
+주효했다"고	주효/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

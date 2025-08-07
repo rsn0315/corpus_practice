@@ -1,0 +1,237 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.5
+metadata : {}
+
+
+# id : NWRW1800000030.5.1.1
+현대車, 美 본토서 채용 오디션 연다… 총상금 2만달러
+
+현대車,	현대/NNP+車/SH+,/SP
+美	美/SH
+본토서	본토/NNG+서/JKB
+채용	채용/NNG
+오디션	오디션/NNG
+연다…	열/VV+ㄴ다/EF+…/SE
+총상금	총상금/NNG
+2만달러	2/SN+만/NR+달러/NNB
+
+
+# id : NWRW1800000030.5.2.1
+•정의선 부회장이 직접 면접
+
+•정의선	•/SW+정의선/NNP
+부회장이	부회장/NNG+이/JKS
+직접	직접/NNG
+면접	면접/NNG
+
+
+# id : NWRW1800000030.5.3.1
+현대자동차가 해외 우수 인재를 뽑기 위해 상금 2만달러를 내걸고 미국 현지에서 '채용 오디션'을 연다.
+
+현대자동차가	현대자동차/NNP+가/JKS
+해외	해외/NNG
+우수	우수/NNG
+인재를	인재/NNG+를/JKO
+뽑기	뽑/VV+기/ETN
+위해	위하/VV+아/EC
+상금	상금/NNG
+2만달러를	2/SN+만/NR+달러/NNB+를/JKO
+내걸고	내걸/VV+고/EC
+미국	미국/NNP
+현지에서	현지/NNG+에서/JKB
+'채용	'/SS+채용/NNG
+오디션'을	오디션/NNG+'/SS+을/JKO
+연다.	열/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.5.4.1
+현대차는 11월 4일부터 이틀간 미국 라스베이거스에서 '제1회 현대 글로벌 톱 탤런트 포럼(Global Top Talent Forum)'을 개최한다고 7일 밝혔다.
+
+현대차는	현대차/NNP+는/JX
+11월	11/SN+월/NNB
+4일부터	4/SN+일/NNB+부터/JX
+이틀간	이틀/NNG+간/XSN
+미국	미국/NNP
+라스베이거스에서	라스베이거스/NNP+에서/JKB
+'제1회	'/SS+제/XPN+1/SN+회/NNB
+현대	현대/NNP
+글로벌	글로벌/NNG
+톱	톱/NNG
+탤런트	탤런트/NNG
+포럼(Global	포럼/NNG+(/SS+Global/SL
+Top	Top/SL
+Talent	Talent/SL
+Forum)'을	Forum/SL+)/SS+'/SS+을/JKO
+개최한다고	개최/NNG+하/XSV+ㄴ다고/EC
+7일	7/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.5.5.1
+해외 대학에서 이공계와 경영전략·마케팅 분야 석·박사 학위(MBA 포함)를 땄거나 수료 예정인 학생이 지원 대상이다.
+
+해외	해외/NNG
+대학에서	대학/NNG+에서/JKB
+이공계와	이공/NNG+계/XSN+와/JC
+경영전략·마케팅	경영/NNG+전략/NNG+·/SP+마케팅/NNG
+분야	분야/NNG
+석·박사	석·박사/NNG
+학위(MBA	학위/NNG+(/SS+MBA/SL
+포함)를	포함/NNG+)/SS+를/JKO
+땄거나	따/VV+았/EP+거나/EC
+수료	수료/NNG
+예정인	예정/NNG+이/VCP+ㄴ/ETM
+학생이	학생/NNG+이/JKS
+지원	지원/NNG
+대상이다.	대상/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.5.6.1
+'미래 자동차 산업을 위한 새로운 생각'이라는 주제의 발표 자료를 제출하면 70명을 선발해 라스베이거스에서 오디션을 갖고, 우수 발표자를 뽑아 내년 1월 디트로이트 모터쇼에서 최종 면접을 한다.
+
+'미래	'/SS+미래/NNG
+자동차	자동차/NNG
+산업을	산업/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+새로운	새롭/VA+ㄴ/ETM
+생각'이라는	생각/NNG+'/SS+이/VCP+라는/ETM
+주제의	주제/NNG+의/JKG
+발표	발표/NNG
+자료를	자료/NNG+를/JKO
+제출하면	제출/NNG+하/XSV+면/EC
+70명을	70/SN+명/NNB+을/JKO
+선발해	선발/NNG+하/XSV+아/EC
+라스베이거스에서	라스베이거스/NNP+에서/JKB
+오디션을	오디션/NNG+을/JKO
+갖고,	갖/VV+고/EC+,/SP
+우수	우수/NNG
+발표자를	발표자/NNG+를/JKO
+뽑아	뽑/VV+아/EC
+내년	내년/NNG
+1월	1/SN+월/NNB
+디트로이트	디트로이트/NNP
+모터쇼에서	모터쇼/NNG+에서/JKB
+최종	최종/NNG
+면접을	면접/NNG+을/JKO
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.5.6.2
+면접에는 정의선 현대차 부회장과 양웅철 현대기아차 연구개발총괄 담당 부회장 등 최고경영진이 직접 나설 것으로 알려졌다.
+
+면접에는	면접/NNG+에/JKB+는/JX
+정의선	정의선/NNP
+현대차	현대차/NNP
+부회장과	부회장/NNG+과/JC
+양웅철	양웅철/NNP
+현대기아차	현대기아차/NNP
+연구개발총괄	연구/NNG+개발/NNG+총괄/NNG
+담당	담당/NNG
+부회장	부회장/NNG
+등	등/NNB
+최고경영진이	최고/NNG+경영진/NNG+이/JKS
+직접	직접/MAG
+나설	나서/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.5.7.1
+1등 발표자에게 상금 1만달러를 지급하고, 이공계 전공자 중 박사급 우수 인력에게는 학위 과정을 마칠 때까지 장학금도 준다.
+
+1등	1/SN+등/NNB
+발표자에게	발표자/NNG+에게/JKB
+상금	상금/NNG
+1만달러를	1/SN+만/NR+달러/NNB+를/JKO
+지급하고,	지급/NNG+하/XSV+고/EC+,/SP
+이공계	이공/NNG+계/XSN
+전공자	전공자/NNG
+중	중/NNB
+박사급	박사급/NNG
+우수	우수/NNG
+인력에게는	인력/NNG+에게/JKB+는/JX
+학위	학위/NNG
+과정을	과정/NNG+을/JKO
+마칠	마치/VV+ㄹ/ETM
+때까지	때/NNG+까지/JX
+장학금도	장학금/NNG+도/JX
+준다.	주/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.5.8.1
+이 회사 관계자는 "이제까지는 특별한 체계 없이 동·서부 대학을 돌며 해외 인재를 뽑았다면, 이번에는 뚜렷한 주제와 목표 의식을 갖고 인재를 선별할 계획"이라고 전했다.
+
+이	이/MMD
+회사	회사/NNG
+관계자는	관계자/NNG+는/JX
+"이제까지는	"/SS+이제/NNG+까지/JX+는/JX
+특별한	특별/NNG+하/XSA+ㄴ/ETM
+체계	체계/NNG
+없이	없이/MAG
+동·서부	동·서부/NNG
+대학을	대학/NNG+을/JKO
+돌며	돌/VV+며/EC
+해외	해외/NNG
+인재를	인재/NNG+를/JKO
+뽑았다면,	뽑/VV+았/EP+다면/EC+,/SP
+이번에는	이번/NNG+에/JKB+는/JX
+뚜렷한	뚜렷하/VA+ㄴ/ETM
+주제와	주제/NNG+와/JC
+목표	목표/NNG
+의식을	의식/NNG+을/JKO
+갖고	갖/VV+고/EC
+선별할	선별/NNG+하/XSV+ㄹ/ETM
+계획"이라고	계획/NNG+"/SS+이라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.5.9.1
+해외 우수 인재 채용 지원서 및 포럼 발표 자료는 현대차 온라인 채용 사이트(recruit.hyundai.com)를 통해 이달 17일까지 접수한다.
+
+해외	해외/NNG
+우수	우수/NNG
+인재	인재/NNG
+채용	채용/NNG
+지원서	지원서/NNG
+및	및/MAG
+포럼	포럼/NNG
+발표	발표/NNG
+자료는	자료/NNG+는/JX
+현대차	현대차/NNP
+온라인	온라인/NNG
+사이트(recruit.hyundai.com)를	사이트/NNG+(/SS+recruit/SL+./SP+hyundai/SL+./SP+com/SL+)/SS+를/JKO
+통해	통하/VV+아/EC
+이달	이달/NNG
+17일까지	17/SN+일/NNB+까지/JX
+접수한다.	접수/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.5.10.1
+현대차는 한인 유학생을 대상으로 한 이번 채용 오디션 '시즌1'이 성공적일 경우, 외국인 지원자에게도 문호를 넓히는 '시즌2·시즌3'을 차례로 기획할 것이라고 밝혔다.
+
+현대차는	현대차/NNP+는/JX
+한인	한인/NNG
+유학생을	유학/NNG+생/XSN+을/JKO
+대상으로	대상/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+이번	이번/NNG
+채용	채용/NNG
+오디션	오디션/NNG
+'시즌1'이	'/SS+시즌/NNG+1/SN+'/SS+이/JKS
+성공적일	성공/NNG+적/XSN+이/VCP+ㄹ/ETM
+경우,	경우/NNG+,/SP
+외국인	외국인/NNG
+지원자에게도	지원자/NNG+에게/JKB+도/JX
+문호를	문호/NNG+를/JKO
+넓히는	넓히/VV+는/ETM
+'시즌2·시즌3'을	'/SS+시즌/NNG+2/SN+·/SP+시즌/NNG+3/SN+'/SS+을/JKO
+차례로	차례/NNG+로/JKB
+기획할	기획/NNG+하/XSV+ㄹ/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

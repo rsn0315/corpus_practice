@@ -1,0 +1,131 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.408
+metadata : {}
+
+
+# id : NWRW1800000022.408.1.1
+[호남] 한국광기술원, 美 UL인증 평가기관 지정돼
+
+[호남]	[/SS+호남/NNP+]/SS
+한국광기술원,	한국광기술원/NNP+,/SP
+美	美/SH
+UL인증	UL/SL+인증/NNG
+평가기관	평가/NNG+기관/NNG
+지정돼	지정/NNG+되/XSV+어/EF
+
+
+# id : NWRW1800000022.408.2.1
+한국광기술원(원장 유은영)이 미국의 대표적 안전시험인증기관인 UL(Underwriters Laboratories Inc)의 한국 내 심사기관으로 지정돼 24일 'UL인증 시험평가기관' 현판식을 가졌다.
+
+한국광기술원(원장	한국광기술원/NNP+(/SS+원장/NNG
+유은영)이	유은영/NNP+)/SS+이/JKS
+미국의	미국/NNP+의/JKG
+대표적	대표/NNG+적/XSN
+안전시험인증기관인	안전/NNG+시험/NNG+인증/NNG+기관/NNG+이/VCP+ㄴ/ETM
+UL(Underwriters	UL/SL+(/SS+Underwriters/SL
+Laboratories	Laboratories/SL
+Inc)의	Inc/SL+)/SS+의/JKG
+한국	한국/NNP
+내	내/NNB
+심사기관으로	심사/NNG+기관/NNG+으로/JKB
+지정돼	지정/NNG+되/XSV+어/EC
+24일	24/SN+일/NNB
+'UL인증	'/SS+UL/SL+인증/NNG
+시험평가기관'	시험/NNG+평가/NNG+기관/NNG+'/SS
+현판식을	현판식/NNG+을/JKO
+가졌다.	가지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.408.2.2
+현판식에는 송주홍 'UL코리아' 대표와 김용환 광주광역시 경제산업국장, 광산업체 대표자 및 유관기관 임직원 등 50여명이 참석했다.
+
+현판식에는	현판식/NNG+에/JKB+는/JX
+송주홍	송주홍/NNP
+'UL코리아'	'/SS+UL코리아/NNP+'/SS
+대표와	대표/NNG+와/JC
+김용환	김용환/NNP
+광주광역시	광주광역시/NNP
+경제산업국장,	경제/NNG+산업/NNG+국장/NNG+,/SP
+광산업체	광산업체/NNG
+대표자	대표자/NNG
+및	및/MAG
+유관기관	유관/NNG+기관/NNG
+임직원	임직원/NNG
+등	등/NNB
+50여명이	50/SN+여/XSN+명/NNB+이/JKS
+참석했다.	참석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.408.3.1
+이번 UL인증 시험평가기관 지정으로 UL 규격에 따라 LED램프를 비롯, 컨버터내장형 LED램프, LED드라이버 등의 UL인증과 CE인증시험이 가능해져 북미나 유럽에 수출을 준비 중인 광주지역 광(光) 업체들에게 도움을 줄 수 있게 됐다.
+
+이번	이번/NNG
+UL인증	UL/SL+인증/NNG
+시험평가기관	시험/NNG+평가/NNG+기관/NNG
+지정으로	지정/NNG+으로/JKB
+UL	UL/SL
+규격에	규격/NNG+에/JKB
+따라	따르/VV+아/EC
+LED램프를	LED/SL+램프/NNG+를/JKO
+비롯,	비롯/XR+,/SP
+컨버터내장형	컨버터/NNG+내장/NNG+형/XSN
+LED램프,	LED/SL+램프/NNG+,/SP
+LED드라이버	LED/SL+드라이버/NNG
+등의	등/NNB+의/JKG
+UL인증과	UL/SL+인증/NNG+과/JC
+CE인증시험이	CE/SL+인증/NNG+시험/NNG+이/JKS
+가능해져	가능/NNG+하/XSA+아/EC+지/VX+어/EC
+북미나	북미/NNP+나/JC
+유럽에	유럽/NNP+에/JKB
+수출을	수출/NNG+을/JKO
+준비	준비/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+광주지역	광주/NNP+지역/NNG
+광(光)	광/NNG+(/SS+光/SH+)/SS
+업체들에게	업체/NNG+들/XSN+에게/JKB
+도움을	도움/NNG+을/JKO
+줄	주/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.408.4.1
+박종혁 한국광기술원 시험인증팀장은 "UL인증 시험평가기관 지정으로 UL인증 및 CE인증을 획득하고자 하는 업체들이 인증비용을 절감하고, 획득기간을 단축할 수 있게 됐다"며 "일본의 PSE인증과 중국의 CCC인증 등 해외 인증 범위를 늘려나갈 계획"이라고 말했다.
+
+박종혁	박종혁/NNP
+한국광기술원	한국광기술원/NNP
+시험인증팀장은	시험/NNG+인증/NNG+팀장/NNG+은/JX
+"UL인증	"/SS+UL/SL+인증/NNG
+시험평가기관	시험/NNG+평가/NNG+기관/NNG
+지정으로	지정/NNG+으로/JKB
+UL인증	UL/SL+인증/NNG
+및	및/MAG
+CE인증을	CE/SL+인증/NNG+을/JKO
+획득하고자	획득/NNG+하/XSV+고자/EC
+하는	하/VX+는/ETM
+업체들이	업체/NNG+들/XSN+이/JKS
+인증비용을	인증/NNG+비용/NNG+을/JKO
+절감하고,	절감/NNG+하/XSV+고/EC+,/SP
+획득기간을	획득/NNG+기간/NNG+을/JKO
+단축할	단축/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+됐다"며	되/VV+었/EP+다/EF+"/SS+며/EC
+"일본의	"/SS+일본/NNP+의/JKG
+PSE인증과	PSE/SL+인증/NNG+과/JC
+중국의	중국/NNP+의/JKG
+CCC인증	CCC/SL+인증/NNG
+등	등/NNB
+해외	해외/NNG
+인증	인증/NNG
+범위를	범위/NNG+를/JKO
+늘려나갈	늘리/VV+어/EC+나가/VX+ㄹ/ETM
+계획"이라고	계획/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

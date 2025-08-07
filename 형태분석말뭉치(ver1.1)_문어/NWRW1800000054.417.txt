@@ -1,0 +1,240 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.417
+metadata : {}
+
+
+# id : NWRW1800000054.417.1.1
+文정부 들어 11차례 핵·미사일 쏜 북한, NLL 침범은 '0건'
+
+文정부	文/SH+정부/NNG
+들어	들/VV+어/EC
+11차례	11/SN+차례/NNG
+핵·미사일	핵/NNG+·/SP+미사일/NNG
+쏜	쏘/VV+ㄴ/ETM
+북한,	북한/NNP+,/SP
+NLL	NLL/SL
+침범은	침범/NNG+은/JX
+'0건'	'/SS+0/SN+건/NNB+'/SS
+
+
+# id : NWRW1800000054.417.2.1
+국제적인 고강도 도발에만 집중
+
+국제적인	국제/NNG+적/XSN+이/VCP+ㄴ/ETM
+고강도	고/XPN+강도/NNG
+도발에만	도발/NNG+에/JKB+만/JX
+집중	집중/NNG
+
+
+# id : NWRW1800000054.417.3.1
+북한이 문재인 정부 들어 북방한계선(NLL)을 단 한 차례도 침범하지 않은 것으로 1일 나타났다.
+
+북한이	북한/NNP+이/JKS
+문재인	문재인/NNP
+정부	정부/NNG
+들어	들/VV+어/EC
+북방한계선(NLL)을	북방/NNG+한계선/NNG+(/SS+NLL/SL+)/SS+을/JKO
+단	단/MMA
+한	한/MMN
+차례도	차례/NNG+도/JX
+침범하지	침범/NNG+하/XSV+지/EC
+않은	않/VX+은/ETM
+것으로	것/NNB+으로/JKB
+1일	1/SN+일/NNB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.3.2
+대신 북한은 이 기간에 11차례의 핵·미사일 고강도 도발 행위를 벌였다.
+
+대신	대신/NNG
+북한은	북한/NNP+은/JX
+이	이/MMD
+기간에	기간/NNG+에/JKB
+11차례의	11/SN+차례/NNG+의/JKG
+핵·미사일	핵/NNG+·/SP+미사일/NNG
+고강도	고/XPN+강도/NNG
+도발	도발/NNG
+행위를	행위/NNG+를/JKO
+벌였다.	벌이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.3.3
+군 안팎에서는 "북한이 한국을 상대로 한 저강도 도발은 아예 하지 않는 대신 국제적인 고강도 도발에 집중하는 '선택과 집중' 전략을 벌이고 있다"는 말이 나왔다.
+
+군	군/NNG
+안팎에서는	안팎/NNG+에서/JKB+는/JX
+"북한이	"/SS+북한/NNP+이/JKS
+한국을	한국/NNP+을/JKO
+상대로	상대/NNG+로/JKB
+한	하/VV+ㄴ/ETM
+저강도	저/XPN+강도/NNG
+도발은	도발/NNG+은/JX
+아예	아예/MAG
+하지	하/VV+지/EC
+않는	않/VX+는/ETM
+대신	대신/NNG
+국제적인	국제/NNG+적/XSN+이/VCP+ㄴ/ETM
+고강도	고/XPN+강도/NNG
+도발에	도발/NNG+에/JKB
+집중하는	집중/NNG+하/XSV+는/ETM
+'선택과	'/SS+선택/NNG+과/JC
+집중'	집중/NNG+'/SS
+전략을	전략/NNG+을/JKO
+벌이고	벌이/VV+고/EC
+있다"는	있/VX+다/EF+"/SS+는/ETM
+말이	말/NNG+이/JKS
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.4.1
+자유한국당 김학용 의원이 합동참모본부로부터 제출받은 자료에 따르면, 북한은 올해 1월 상선이 강원도 고성군 거진읍 동방 NLL을 11㎞가량 침범한 이후로 단 한 차례도 NLL을 넘어오지 않았다.
+
+자유한국당	자유한국당/NNP
+김학용	김학용/NNP
+의원이	의원/NNG+이/JKS
+합동참모본부로부터	합동/NNG+참모/NNG+본부/NNG+로부터/JKB
+제출받은	제출/NNG+받/XSV+은/ETM
+자료에	자료/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+북한은	북한/NNP+은/JX
+올해	올해/NNG
+1월	1/SN+월/NNB
+상선이	상선/NNG+이/JKS
+강원도	강원도/NNP
+고성군	고성군/NNP
+거진읍	거진읍/NNP
+동방	동방/NNG
+NLL을	NLL/SL+을/JKO
+11㎞가량	11/SN+㎞/SW+가량/XSN
+침범한	침범/NNG+하/XSV+ㄴ/ETM
+이후로	이후/NNG+로/JKB
+단	단/MMA
+한	한/MMN
+차례도	차례/NNG+도/JX
+넘어오지	넘어오/VV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.4.2
+접적 지역으로 긴장이 계속됐던 서해 NLL 지역의 경우 올해는 침투한 적이 한 번도 없었다.
+
+접적	접적/NNG
+지역으로	지역/NNG+으로/JKB
+긴장이	긴장/NNG+이/JKS
+계속됐던	계속/NNG+되/XSV+었/EP+던/ETM
+서해	서해/NNP
+NLL	NLL/SL
+지역의	지역/NNG+의/JKG
+경우	경우/NNG
+올해는	올해/NNG+는/JX
+침투한	침투/NNG+하/XSV+ㄴ/ETM
+적이	적/NNB+이/JKS
+한	한/MMN
+번도	번/NNB+도/JX
+없었다.	없/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.5.1
+북한은 지난 2014년에는 경비정만 13번 NLL을 넘어오는 등 총 30차례의 도발을 했고, 2015년에도 15번 NLL을 침범했다.
+
+북한은	북한/NNP+은/JX
+지난	지나/VV+ㄴ/ETM
+2014년에는	2014/SN+년/NNB+에/JKB+는/JX
+경비정만	경비정/NNG+만/JX
+13번	13/SN+번/NNB
+NLL을	NLL/SL+을/JKO
+넘어오는	넘어오/VV+는/ETM
+등	등/NNB
+총	총/MMA
+30차례의	30/SN+차례/NNG+의/JKG
+도발을	도발/NNG+을/JKO
+했고,	하/VV+았/EP+고/EC+,/SP
+2015년에도	2015/SN+년/NNB+에/JKB+도/JX
+15번	15/SN+번/NNB
+침범했다.	침범/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.5.2
+당시 NLL 대치 상황에서 우리 군은 북한군을 향해 경고 사격을 넘어 '조준 사격'을 하기도 했다.
+
+당시	당시/NNG
+NLL	NLL/SL
+대치	대치/NNG
+상황에서	상황/NNG+에서/JKB
+우리	우리/NP
+군은	군/NNG+은/JX
+북한군을	북한군/NNG+을/JKO
+향해	향하/VV+아/EC
+경고	경고/NNG
+사격을	사격/NNG+을/JKO
+넘어	넘/VV+어/EC
+'조준	'/SS+조준/NNG
+사격'을	사격/NNG+'/SS+을/JKO
+하기도	하/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.5.3
+2016년엔 북한의 NLL 침범이 5건으로 줄었지만, 역시 경비정과 단속정이 넘어오는 등 군사적 도발이 있었다.
+
+2016년엔	2016/SN+년/NNB+에/JKB+ㄴ/JX
+북한의	북한/NNP+의/JKG
+NLL	NLL/SL
+침범이	침범/NNG+이/JKS
+5건으로	5/SN+건/NNB+으로/JKB
+줄었지만,	줄/VV+었/EP+지만/EC+,/SP
+역시	역시/MAG
+경비정과	경비정/NNG+과/JC
+단속정이	단속정/NNG+이/JKS
+넘어오는	넘어오/VV+는/ETM
+등	등/NNB
+군사적	군사/NNG+적/XSN
+도발이	도발/NNG+이/JKS
+있었다.	있/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.6.1
+지난 2015년 목함 지뢰 도발로 포격전까지 벌어졌던 군사분계선(MDL)에서의 침투 역시 최근 들어 자취를 감췄다.
+
+지난	지나/VV+ㄴ/ETM
+2015년	2015/SN+년/NNB
+목함	목함/NNG
+지뢰	지뢰/NNG
+도발로	도발/NNG+로/JKB
+포격전까지	포격전/NNG+까지/JX
+벌어졌던	벌어지/VV+었/EP+던/ETM
+군사분계선(MDL)에서의	군사/NNG+분계선/NNG+(/SS+MDL/SL+)/SS+에서/JKB+의/JKG
+침투	침투/NNG
+역시	역시/MAG
+최근	최근/MAG
+들어	들/VV+어/EC
+자취를	자취/NNG+를/JKO
+감췄다.	감추/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.417.6.2
+문재인 정부 출범 이후 유일하게 관측된 국지 도발은 지난 6월 강원도 인제 부근에서 발견된 무인기 침투뿐이었다.
+
+문재인	문재인/NNP
+정부	정부/NNG
+출범	출범/NNG
+이후	이후/NNG
+유일하게	유일/NNG+하/XSA+게/EC
+관측된	관측/NNG+되/XSV+ㄴ/ETM
+국지	국지/NNG
+도발은	도발/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+6월	6/SN+월/NNB
+강원도	강원도/NNP
+인제	인제/NNP
+부근에서	부근/NNG+에서/JKB
+발견된	발견/NNG+되/XSV+ㄴ/ETM
+무인기	무인기/NNG
+침투뿐이었다.	침투/NNG+뿐/JX+이/VCP+었/EP+다/EF+./SF
+
+

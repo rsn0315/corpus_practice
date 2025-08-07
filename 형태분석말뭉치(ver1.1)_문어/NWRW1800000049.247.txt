@@ -1,0 +1,443 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.247
+metadata : {}
+
+
+# id : NWRW1800000049.247.1.1
+“날 버려?”
+
+“날	“/SS+나/NP+ㄹ/JKO
+버려?”	버리/VV+어/EF+?/SF+”/SS
+
+
+# id : NWRW1800000049.247.1.2
+친정팀에 비수 꽂는 선수들
+
+친정팀에	친정/NNG+팀/NNG+에/JKB
+비수	비수/NNG
+꽂는	꽂/VV+는/ETM
+선수들	선수/NNG+들/XSN
+
+
+# id : NWRW1800000049.247.2.1
+SK서 전자랜드로 트레이드 이대헌, SK전서 첫 두자릿수 득점 친정 울려
+
+SK서	SK/SL+서/JKB
+전자랜드로	전자랜드/NNP+로/JKB
+트레이드	트레이드/NNG
+이대헌,	이대헌/NNP+,/SP
+SK전서	SK전/NNG+서/JKB
+첫	첫/MMN
+두자릿수	두/MMN+자릿수/NNG
+득점	득점/NNG
+친정	친정/NNG
+울려	울리/VV+어/EF
+
+
+# id : NWRW1800000049.247.3.1
+박찬희, KGC전 도움 평균 7개… 다른 8개팀과의 경기보다 1개 많아
+
+박찬희,	박찬희/NNP+,/SP
+KGC전	KGC전/NNG
+도움	도움/NNG
+평균	평균/NNG
+7개…	7/SN+개/NNB+…/SE
+다른	다른/MMD
+8개팀과의	8/SN+개/NNB+팀/NNG+과/JKB+의/JKG
+경기보다	경기/NNG+보다/JKB
+1개	1/SN+개/NNB
+많아	많/VA+아/EF
+
+
+# id : NWRW1800000049.247.4.1
+27일 전자랜드와 올 시즌 두 번째 대결을 앞두고 SK 문경은 감독은 여유로웠다.
+
+27일	27/SN+일/NNB
+전자랜드와	전자랜드/NNP+와/JKB
+올	올/NNG
+시즌	시즌/NNG
+두	두/MMN
+번째	번/NNB+째/XSN
+대결을	대결/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+SK	SK/SL
+문경은	문경은/NNP
+감독은	감독/NNG+은/JX
+여유로웠다.	여유/NNG+롭/XSA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.5.1
+“우리가 전자랜드에 세트오펜스(팀플레이를 통한 공격)로 질 부분은 없습니다.
+
+“우리가	“/SS+우리/NP+가/JKS
+전자랜드에	전자랜드/NNP+에/JKB
+세트오펜스(팀플레이를	세트/NNG+오펜스/NNG+(/SS+팀플레이/NNG+를/JKO
+통한	통하/VV+ㄴ/ETM
+공격)로	공격/NNG+)/SS+로/JKB
+질	지/VV+ㄹ/ETM
+부분은	부분/NNG+은/JX
+없습니다.	없/VA+습니다/EF+./SF
+
+
+# id : NWRW1800000049.247.5.2
+포지션별로 봐도 질 데가 없죠.”
+
+포지션별로	포지션/NNG+별/XSN+로/JKB
+봐도	보/VV+아도/EC
+질	지/VV+ㄹ/ETM
+데가	데/NNB+가/JKS
+없죠.”	없/VA+죠/EF+./SF+”/SS
+
+
+# id : NWRW1800000049.247.6.1
+하지만 결과는 12점 차 패배(66-78)였다.
+
+하지만	하지만/MAJ
+결과는	결과/NNG+는/JX
+12점	12/SN+점/NNB
+차	차/NNG
+패배(66-78)였다.	패배/NNG+(/SS+66/SN+-/SO+78/SN+)/SS+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.6.2
+올 시즌 첫 번째 맞대결에서도 11점 차로 전자랜드에 패했던 SK로서는 자존심을 단단히 구겼다.
+
+올	올/NNG
+시즌	시즌/NNG
+첫	첫/MMN
+번째	번/NNB+째/XSN
+맞대결에서도	맞대결/NNG+에서/JKB+도/JX
+11점	11/SN+점/NNB
+차로	차/NNG+로/JKB
+전자랜드에	전자랜드/NNP+에/JKB
+패했던	패/NNG+하/XSV+았/EP+던/ETM
+SK로서는	SK/SL+로서/JKB+는/JX
+자존심을	자존심/NNG+을/JKO
+단단히	단단히/MAG
+구겼다.	구기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.7.1
+이날 전자랜드의 승리에는 전 시즌까지 SK에서 뛰다 함준후와 트레이드된 이대헌의 활약이 컸다.
+
+이날	이날/NNG
+전자랜드의	전자랜드/NNP+의/JKG
+승리에는	승리/NNG+에/JKB+는/JX
+전	전/MMD
+시즌까지	시즌/NNG+까지/JX
+SK에서	SK/SL+에서/JKB
+뛰다	뛰/VV+다/EC
+함준후와	함준후/NNP+와/JKB
+트레이드된	트레이드/NNG+되/XSV+ㄴ/ETM
+이대헌의	이대헌/NNP+의/JKG
+활약이	활약/NNG+이/JKS
+컸다.	크/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.7.2
+지난해 SK에서 경기당 평균 2.7득점에 그쳤던 이대헌은 이날 올 시즌 처음으로 두 자릿수 득점(10점)을 기록하며 유도훈 전자랜드 감독을 흐뭇하게 했다.
+
+지난해	지난해/NNG
+SK에서	SK/SL+에서/JKB
+경기당	경기/NNG+당/XSN
+평균	평균/NNG
+2.7득점에	2/SN+./SP+7/SN+득점/NNG+에/JKB
+그쳤던	그치/VV+었/EP+던/ETM
+이대헌은	이대헌/NNP+은/JX
+이날	이날/NNG
+올	올/NNG
+시즌	시즌/NNG
+처음으로	처음/NNG+으로/JKB
+두	두/MMN
+자릿수	자릿수/NNG
+득점(10점)을	득점/NNG+(/SS+10/SN+점/NNB+)/SS+을/JKO
+기록하며	기록/NNG+하/XSV+며/EC
+유도훈	유도훈/NNP
+전자랜드	전자랜드/NNP
+감독을	감독/NNG+을/JKO
+흐뭇하게	흐뭇하/VA+게/EC
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.8.1
+이대헌은 “지난번 인천에서 SK와 경기할 때는 출전 기회를 못 받았지만 오늘은 기회가 주어지면 죽기 살기로 자신감 있게 해야겠다고 생각했다”고 말했다.
+
+이대헌은	이대헌/NNP+은/JX
+“지난번	“/SS+지난번/NNG
+인천에서	인천/NNP+에서/JKB
+SK와	SK/SL+와/JKB
+경기할	경기/NNG+하/XSV+ㄹ/ETM
+때는	때/NNG+는/JX
+출전	출전/NNG
+기회를	기회/NNG+를/JKO
+못	못/MAG
+받았지만	받/VV+았/EP+지만/EC
+오늘은	오늘/NNG+은/JX
+기회가	기회/NNG+가/JKS
+주어지면	주어지/VV+면/EC
+죽기	죽/VV+기/ETN
+살기로	살/VV+기/ETN+로/JKB
+자신감	자신감/NNG
+있게	있/VA+게/EC
+해야겠다고	하/VX+아야/EC+하/VX+겠/EP+다고/EC
+생각했다”고	생각/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.8.2
+유 감독은 “상대가 적극적으로 수비하지 않을 때 골 결정력이 좋았다.
+
+유	유/NNP
+감독은	감독/NNG+은/JX
+“상대가	“/SS+상대/NNG+가/JKS
+적극적으로	적극/NNG+적/XSN+으로/JKB
+수비하지	수비/NNG+하/XSV+지/EC
+않을	않/VX+을/ETM
+때	때/NNG
+골	골/NNG
+결정력이	결정력/NNG+이/JKS
+좋았다.	좋/VA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.8.3
+대헌이가 중거리 슛이 좋은 데다 골밑에서도 밀리지 않아 자신감 있게 플레이한 게 좋은 결과를 낸 것 같다”고 말했다.
+
+대헌이가	대헌이/NNP+가/JKS
+중거리	중거리/NNG
+슛이	슛/NNG+이/JKS
+좋은	좋/VA+은/ETM
+데다	데/NNB+다/JX
+골밑에서도	골/NNG+밑/NNG+에서/JKB+도/JX
+밀리지	밀리/VV+지/EC
+않아	않/VX+아/EC
+자신감	자신감/NNG
+있게	있/VA+게/EC
+플레이한	플레이/NNG+하/XSV+ㄴ/ETM
+게	거/NNB+이/JKS
+결과를	결과/NNG+를/JKO
+낸	내/VV+ㄴ/ETM
+것	것/NNB
+같다”고	같/VA+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.8.4
+SK로서는 얕잡아 본 이대헌에게 큰코다친 셈이다.
+
+SK로서는	SK/SL+로서/JKB+는/JX
+얕잡아	얕잡/VV+아/EC
+본	보/VV+ㄴ/ETM
+이대헌에게	이대헌/NNP+에게/JKB
+큰코다친	큰코다치/VV+ㄴ/ETM
+셈이다.	셈/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.9.1
+역시 올 시즌을 앞두고 맞트레이드로 전자랜드 유니폼을 입은 박찬희는 친정인 KGC전을 앞두고 “이제 전자랜드에 왔으니 전자랜드를 제외한 9팀(KGC 포함)을 상대하는 마음은 다 같다”면서도 “KGC 선수들의 습관을 다 알고 있다”고 말했다.
+
+역시	역시/MAG
+올	올/NNG
+시즌을	시즌/NNG+을/JKO
+앞두고	앞두/VV+고/EC
+맞트레이드로	맞트레이드/NNG+로/JKB
+전자랜드	전자랜드/NNP
+유니폼을	유니폼/NNG+을/JKO
+입은	입/VV+은/ETM
+박찬희는	박찬희/NNP+는/JX
+친정인	친정/NNG+이/VCP+ㄴ/ETM
+KGC전을	KGC전/NNG+을/JKO
+“이제	“/SS+이제/MAG
+전자랜드에	전자랜드/NNP+에/JKB
+왔으니	오/VV+았/EP+으니/EC
+전자랜드를	전자랜드/NNP+를/JKO
+제외한	제외/NNG+하/XSV+ㄴ/ETM
+9팀(KGC	9/SN+팀/NNG+(/SS+KGC/SL
+포함)을	포함/NNG+)/SS+을/JKO
+상대하는	상대/NNG+하/XSV+는/ETM
+마음은	마음/NNG+은/JX
+다	다/MAG
+같다”면서도	같/VA+다/EF+”/SS+면서/EC+도/JX
+“KGC	“/SS+KGC/SL
+선수들의	선수/NNG+들/XSN+의/JKG
+습관을	습관/NNG+을/JKO
+알고	알/VV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.9.2
+KGC에서 5시즌 동안 주전으로 뛰며 옛 동료들의 경기 방식을 누구보다 속속들이 파악하고 있는 그는 올 시즌 KGC전에서 경기당 평균 7개의 도움을 기록하고 있다.
+
+KGC에서	KGC/SL+에서/JKB
+5시즌	5/SN+시즌/NNG
+동안	동안/NNG
+주전으로	주전/NNG+으로/JKB
+뛰며	뛰/VV+며/EC
+옛	옛/MMA
+동료들의	동료/NNG+들/XSN+의/JKG
+경기	경기/NNG
+방식을	방식/NNG+을/JKO
+누구보다	누구/NP+보다/JKB
+속속들이	속속들이/MAG
+파악하고	파악/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+그는	그/NP+는/JX
+올	올/NNG
+시즌	시즌/NNG
+KGC전에서	KGC전/NNG+에서/JKB
+경기당	경기/NNG+당/XSN
+평균	평균/NNG
+7개의	7/SN+개/NNB+의/JKG
+도움을	도움/NNG+을/JKO
+기록하고	기록/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.247.9.3
+나머지 8팀과의 경기(평균 5.9도움)에서보다 경기당 도움을 최소 1개는 더 하고 있는 것이다.
+
+나머지	나머지/NNG
+8팀과의	8/SN+팀/NNG+과/JKB+의/JKG
+경기(평균	경기/NNG+(/SS+평균/NNG
+5.9도움)에서보다	5/SN+./SP+9/SN+도움/NNG+)/SS+에서/JKB+보다/JKB
+경기당	경기/NNG+당/XSN
+도움을	도움/NNG+을/JKO
+최소	최소/NNG
+1개는	1/SN+개/NNB+는/JX
+더	더/MAG
+하고	하/VV+고/EC
+있는	있/VX+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.9.4
+김승기 KGC 감독도 “유도훈 감독이 거의 박찬희를 위한 팀을 만들어 놨다”고 그의 활약을 인정했다.
+
+김승기	김승기/NNP
+KGC	KGC/SL
+감독도	감독/NNG+도/JX
+“유도훈	“/SS+유도훈/NNP
+감독이	감독/NNG+이/JKS
+거의	거의/MAG
+박찬희를	박찬희/NNP+를/JKO
+위한	위하/VV+ㄴ/ETM
+팀을	팀/NNG+을/JKO
+만들어	만들/VV+어/EC
+놨다”고	놓/VX+았/EP+다/EF+”/SS+고/JKQ
+그의	그/NP+의/JKG
+활약을	활약/NNG+을/JKO
+인정했다.	인정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.10.1
+KCC에서 이현민과 트레이드되며 삼성의 유니폼을 입은 김태술은 ‘태술매직’이라고 불릴 만큼 전성기 기량을 완벽히 되찾았다는 평가를 받는다.
+
+KCC에서	KCC/SL+에서/JKB
+이현민과	이현민/NNP+과/JKB
+트레이드되며	트레이드/NNG+되/XSV+며/EC
+삼성의	삼성/NNP+의/JKG
+유니폼을	유니폼/NNG+을/JKO
+입은	입/VV+은/ETM
+김태술은	김태술/NNP+은/JX
+‘태술매직’이라고	‘/SS+태술/NNP+매직/NNG+’/SS+이라고/JKQ
+불릴	불리/VV+ㄹ/ETM
+만큼	만큼/NNB
+전성기	전성기/NNG
+기량을	기량/NNG+을/JKO
+완벽히	완벽히/MAG
+되찾았다는	되찾/VV+았/EP+다는/ETM
+평가를	평가/NNG+를/JKO
+받는다.	받/VV+는다/EF+./SF
+
+
+# id : NWRW1800000049.247.10.2
+지난해 KCC에서 평균 27분을 뛰며 4.52득점, 3.1어시스트를 기록했던 김태술은 올 시즌 삼성에서 같은 출전 시간 동안 두 배(10득점, 6.1어시스트)의 결과를 내고 있다.
+
+지난해	지난해/NNG
+KCC에서	KCC/SL+에서/JKB
+평균	평균/NNG
+27분을	27/SN+분/NNB+을/JKO
+뛰며	뛰/VV+며/EC
+4.52득점,	4/SN+./SP+52/SN+득점/NNG+,/SP
+3.1어시스트를	3/SN+./SP+1/SN+어시스트/NNG+를/JKO
+기록했던	기록/NNG+하/XSV+았/EP+던/ETM
+김태술은	김태술/NNP+은/JX
+올	올/NNG
+시즌	시즌/NNG
+삼성에서	삼성/NNP+에서/JKB
+같은	같/VA+은/ETM
+출전	출전/NNG
+시간	시간/NNG
+동안	동안/NNG
+두	두/MMN
+배(10득점,	배/NNG+(/SS+10/SN+득점/NNG+,/SP
+6.1어시스트)의	6/SN+./SP+1/SN+어시스트/NNG+)/SS+의/JKG
+결과를	결과/NNG+를/JKO
+내고	내/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.247.10.3
+그 역시 “KCC전이라고 더 잘해야 한다는 생각은 없지만 잘 아는 선수들이 있어 더 편하다”고 말했다.
+
+그	그/NP
+역시	역시/MAG
+“KCC전이라고	“/SS+KCC전/NNG+이/VCP+라고/EC
+더	더/MAG
+잘해야	잘/MAG+하/XSV+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+생각은	생각/NNG+은/JX
+없지만	없/VA+지만/EC
+잘	잘/MAG
+아는	알/VV+는/ETM
+선수들이	선수/NNG+들/XSN+이/JKS
+있어	있/VA+어/EC
+편하다”고	편하/VA+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.247.10.4
+다만 부상 선수들이 속출한 KCC전마다 삼성이 점수차를 크게 리드할 때가 많아 그의 KCC전 출전시간은 평소보다 적다(25분 4초).
+
+다만	다만/MAG
+부상	부상/NNG
+선수들이	선수/NNG+들/XSN+이/JKS
+속출한	속출/NNG+하/XSV+ㄴ/ETM
+KCC전마다	KCC전/NNG+마다/JX
+삼성이	삼성/NNP+이/JKS
+점수차를	점수/NNG+차/NNG+를/JKO
+크게	크/VA+게/EC
+리드할	리드/NNG+하/XSV+ㄹ/ETM
+때가	때/NNG+가/JKS
+많아	많/VA+아/EC
+그의	그/NP+의/JKG
+KCC전	KCC전/NNG
+출전시간은	출전/NNG+시간/NNG+은/JX
+평소보다	평소/NNG+보다/JKB
+적다(25분	적/VA+다/EF+(/SS+25/SN+분/NNB
+4초).	4/SN+초/NNB+)/SS+./SF
+
+
+# id : NWRW1800000049.247.10.5
+그러다 보니 KCC전 개인기록도 평균보다 낮은 9득점, 4도움으로 ‘친정팀 효과’는 크게 못 보고 있다.
+
+그러다	그러/VV+다/EC
+보니	보/VX+니/EC
+KCC전	KCC전/NNG
+개인기록도	개인/NNG+기록/NNG+도/JX
+평균보다	평균/NNG+보다/JKB
+낮은	낮/VA+은/ETM
+9득점,	9/SN+득점/NNG+,/SP
+4도움으로	4/SN+도움/NNG+으로/JKB
+‘친정팀	‘/SS+친정/NNG+팀/NNG
+효과’는	효과/NNG+’/SS+는/JX
+크게	크/VA+게/EC
+못	못/MAG
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+

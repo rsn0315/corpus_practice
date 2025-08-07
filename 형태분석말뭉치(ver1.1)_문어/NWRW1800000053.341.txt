@@ -1,0 +1,240 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000053.341
+metadata : {}
+
+
+# id : NWRW1800000053.341.1.1
+北, 한미훈련에 민감반응… 줄곧 중단 요구
+
+北,	北/SH+,/SP
+한미훈련에	한미/NNP+훈련/NNG+에/JKB
+민감반응…	민감/NNG+반응/NNG+…/SE
+줄곧	줄곧/MAG
+중단	중단/NNG
+요구	요구/NNG
+
+
+# id : NWRW1800000053.341.2.1
+제네바합의땐 ‘팀스피릿 훈련’ 중단
+
+제네바합의땐	제네바/NNP+합의/NNG+때/NNG+ㄴ/JX
+‘팀스피릿	‘/SS+팀/NNG+스피릿/NNG
+훈련’	훈련/NNG+’/SS
+중단	중단/NNG
+
+
+# id : NWRW1800000053.341.3.1
+한미 양국은 매년 3∼4월 미군 2만 명, 한국군 30만 명 안팎이 참가하는 야외 기동훈련인 독수리 훈련(FE)과 컴퓨터 시뮬레이션 훈련인 키리졸브 연습(KR)을 실시하고 있다.
+
+한미	한미/NNP
+양국은	양국/NNG+은/JX
+매년	매년/MAG
+3∼4월	3/SN+∼/SO+4/SN+월/NNB
+미군	미군/NNG
+2만	2/SN+만/NR
+명,	명/NNB+,/SP
+한국군	한국군/NNG
+30만	30/SN+만/NR
+명	명/NNB
+안팎이	안팎/NNG+이/JKS
+참가하는	참가/NNG+하/XSV+는/ETM
+야외	야외/NNG
+기동훈련인	기동/NNG+훈련/NNG+이/VCP+ㄴ/ETM
+독수리	독수리/NNG
+훈련(FE)과	훈련/NNG+(/SS+FE/SL+)/SS+과/JC
+컴퓨터	컴퓨터/NNG
+시뮬레이션	시뮬레이션/NNG
+훈련인	훈련/NNG+이/VCP+ㄴ/ETM
+키리졸브	키리졸브/NNG
+연습(KR)을	연습/NNG+(/SS+KR/SL+)/SS+을/JKO
+실시하고	실시/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.341.3.2
+이 밖에도 을지프리덤가디언(UFG), 공군 ‘맥스선더’ 등 다양한 훈련을 연중 진행한다.
+
+이	이/MMD
+밖에도	밖/NNG+에/JKB+도/JX
+을지프리덤가디언(UFG),	을지/NNP+프리덤가디언/NNG+(/SS+UFG/SL+)/SS+,/SP
+공군	공군/NNG
+‘맥스선더’	‘/SS+맥스선더/NNP+’/SS
+등	등/NNB
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+훈련을	훈련/NNG+을/JKO
+연중	연중/NNG
+진행한다.	진행/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.341.4.1
+북한이 가장 민감하게 여기는 훈련은 FE와 KR다.
+
+북한이	북한/NNP+이/JKS
+가장	가장/MAG
+민감하게	민감/NNG+하/XSA+게/EC
+여기는	여기/VV+는/ETM
+훈련은	훈련/NNG+은/JX
+FE와	FE/SL+와/JC
+KR다.	KR/SL+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.4.2
+올해 두 훈련이 진행되는 기간에 미군은 핵항공모함 칼빈슨함 등 최첨단 전략자산과 미군 최정예 특수부대를 투입했다.
+
+올해	올해/NNG
+두	두/MMN
+훈련이	훈련/NNG+이/JKS
+진행되는	진행/NNG+되/XSV+는/ETM
+기간에	기간/NNG+에/JKB
+미군은	미군/NNG+은/JX
+핵항공모함	핵/NNG+항공/NNG+모함/NNG
+칼빈슨함	칼빈슨함/NNP
+등	등/NNB
+최첨단	최/XPN+첨단/NNG
+전략자산과	전략/NNG+자산/NNG+과/JC
+미군	미군/NNG
+최정예	최/XPN+정예/NNG
+특수부대를	특수/NNG+부대/NNG+를/JKO
+투입했다.	투입/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.4.3
+이에 북한은 ‘북침 핵전쟁 연습’이라고 맹비난하며 훈련을 중단하지 않으면 ‘초강경 대응조치’로 맞서겠다고 반발했다.
+
+이에	이/NP+에/JKB
+북한은	북한/NNP+은/JX
+‘북침	‘/SS+북침/NNG
+핵전쟁	핵전쟁/NNG
+연습’이라고	연습/NNG+’/SS+이라고/JKQ
+맹비난하며	맹비난/NNG+하/XSV+며/EC
+훈련을	훈련/NNG+을/JKO
+중단하지	중단/NNG+하/XSV+지/EC
+않으면	않/VX+으면/EC
+‘초강경	‘/SS+초/XPN+강경/NNG
+대응조치’로	대응/NNG+조치/NNG+’/SS+로/JKB
+맞서겠다고	맞서/VV+겠/EP+다고/EC
+반발했다.	반발/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.4.4
+문정인 대통령통일외교안보특별보좌관도 FE와 KR 축소를 언급한 것으로 보인다.
+
+문정인	문정인/NNP
+대통령통일외교안보특별보좌관도	대통령/NNG+통일/NNG+외교/NNG+안보/NNG+특별/NNG+보좌관/NNG+도/JX
+FE와	FE/SL+와/JC
+KR	KR/SL
+축소를	축소/NNG+를/JKO
+언급한	언급/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.341.5.1
+한미는 1961년부터 FE라는 이름으로 후방지역 방어 훈련을 소규모로 진행했고, 1976년부터 매년 ‘팀 스피릿(Team Spirit)’이라는 이름으로 대규모 연합 훈련을 했다.
+
+한미는	한미/NNP+는/JX
+1961년부터	1961/SN+년/NNB+부터/JX
+FE라는	FE/SL+이/VCP+라는/ETM
+이름으로	이름/NNG+으로/JKB
+후방지역	후방/NNG+지역/NNG
+방어	방어/NNG
+훈련을	훈련/NNG+을/JKO
+소규모로	소/XPN+규모/NNG+로/JKB
+진행했고,	진행/NNG+하/XSV+았/EP+고/EC+,/SP
+1976년부터	1976/SN+년/NNB+부터/JX
+매년	매년/MAG
+‘팀	‘/SS+팀/NNG
+스피릿(Team	스피릿/NNG+(/SS+Team/SL
+Spirit)’이라는	Spirit/SL+)/SS+’/SS+이/VCP+라는/ETM
+대규모	대/XPN+규모/NNG
+연합	연합/NNG
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.5.2
+다만 1994년 제네바 합의로 1차 북핵 위기가 가라앉으면서 ‘팀 스피릿’은 중단됐다.
+
+다만	다만/MAG
+1994년	1994/SN+년/NNB
+제네바	제네바/NNP
+합의로	합의/NNG+로/JKB
+1차	1/SN+차/NNB
+북핵	북핵/NNG
+위기가	위기/NNG+가/JKS
+가라앉으면서	가라앉/VV+으면서/EC
+‘팀	‘/SS+팀/NNG
+스피릿’은	스피릿/NNG+’/SS+은/JX
+중단됐다.	중단/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.5.3
+그러나 합의와 달리 북한은 핵 개발을 포기하지 않았다.
+
+그러나	그러나/MAJ
+합의와	합의/NNG+와/JKB
+달리	달리/MAG
+북한은	북한/NNP+은/JX
+핵	핵/NNG
+개발을	개발/NNG+을/JKO
+포기하지	포기/NNG+하/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.5.4
+이에 한미는 당시 팀 스피릿과 별개로 연대급 규모로 진행하던 FE와 크고 작은 상륙 훈련들을 통합한 ‘확장판 FE’로 대응했다.
+
+이에	이/NP+에/JKB
+한미는	한미/NNP+는/JX
+당시	당시/NNG
+팀	팀/NNG
+스피릿과	스피릿/NNG+과/JKB
+별개로	별개/NNG+로/JKB
+연대급	연대급/NNG
+규모로	규모/NNG+로/JKB
+진행하던	진행/NNG+하/XSV+던/ETM
+FE와	FE/SL+와/JC
+크고	크/VA+고/EC
+작은	작/VA+은/ETM
+상륙	상륙/NNG
+훈련들을	훈련/NNG+들/XSN+을/JKO
+통합한	통합/NNG+하/XSV+ㄴ/ETM
+‘확장판	‘/SS+확장판/NNG
+FE’로	FE/SL+’/SS+로/JKB
+대응했다.	대응/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.5.5
+2002년부터는 컴퓨터 시뮬레이션 훈련인 한미연합전시증원(RSOI) 연습과 FE를 함께 실시하며 훈련 규모를 대폭 확대했다.
+
+2002년부터는	2002/SN+년/NNB+부터/JX+는/JX
+컴퓨터	컴퓨터/NNG
+시뮬레이션	시뮬레이션/NNG
+훈련인	훈련/NNG+이/VCP+ㄴ/ETM
+한미연합전시증원(RSOI)	한미/NNP+연합/NNG+전시/NNG+증원/NNG+(/SS+RSOI/SL+)/SS
+연습과	연습/NNG+과/JC
+FE를	FE/SL+를/JKO
+함께	함께/MAG
+실시하며	실시/NNG+하/XSV+며/EC
+훈련	훈련/NNG
+규모를	규모/NNG+를/JKO
+대폭	대폭/MAG
+확대했다.	확대/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.341.5.6
+2008년부터는 RSOI를 KR로 이름을 바꿔 훈련을 진행하고 있다.
+
+2008년부터는	2008/SN+년/NNB+부터/JX+는/JX
+RSOI를	RSOI/SL+를/JKO
+KR로	KR/SL+로/JKB
+이름을	이름/NNG+을/JKO
+바꿔	바꾸/VV+어/EC
+훈련을	훈련/NNG+을/JKO
+진행하고	진행/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+

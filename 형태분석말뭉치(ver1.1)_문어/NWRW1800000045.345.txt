@@ -1,0 +1,425 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.345
+metadata : {}
+
+
+# id : NWRW1800000045.345.1.1
+오바마, 만찬서 일본어로 ‘하이쿠’ 낭송… 아베 극진대접
+
+오바마,	오바마/NNP+,/SP
+만찬서	만찬/NNG+서/JKB
+일본어로	일본어/NNP+로/JKB
+‘하이쿠’	‘/SS+하이쿠/NNG+’/SS
+낭송…	낭송/NNG+…/SE
+아베	아베/NNP
+극진대접	극진/XR+대접/NNG
+
+
+# id : NWRW1800000045.345.2.1
+美-日 밀월… 글로벌동맹으로
+
+美-日	美/SH+-/SO+日/SH
+밀월…	밀월/NNG+…/SE
+글로벌동맹으로	글로벌/NNG+동맹/NNG+으로/JKB
+
+
+# id : NWRW1800000045.345.3.1
+아베 신조 일본 총리의 미국 의회 상하원 합동 연설 전날 열린 미일 정상회담은 양국 밀월의 현주소를 극명하게 보여줬다.
+
+아베	아베/NNP
+신조	신조/NNP
+일본	일본/NNP
+총리의	총리/NNG+의/JKG
+미국	미국/NNP
+의회	의회/NNG
+상하원	상하원/NNG
+합동	합동/NNG
+연설	연설/NNG
+전날	전날/NNG
+열린	열리/VV+ㄴ/ETM
+미일	미일/NNP
+정상회담은	정상/NNG+회담/NNG+은/JX
+양국	양국/NNG
+밀월의	밀월/NNG+의/JKG
+현주소를	현주소/NNG+를/JKO
+극명하게	극명/NNG+하/XSA+게/EC
+보여줬다.	보이/VV+어/EC+주/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.4.1
+28일 정상회담 후 백악관 로즈가든에서 열린 기자회견에서는 통상의 외교적 표현을 뛰어넘는 이례적인 수사와 평가가 잇따랐다.
+
+28일	28/SN+일/NNB
+정상회담	정상/NNG+회담/NNG
+후	후/NNG
+백악관	백악관/NNP
+로즈가든에서	로즈가든/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+기자회견에서는	기자/NNG+회견/NNG+에서/JKB+는/JX
+통상의	통상/NNG+의/JKG
+외교적	외교/NNG+적/XSN
+표현을	표현/NNG+을/JKO
+뛰어넘는	뛰어넘/VV+는/ETM
+이례적인	이례/NNG+적/XSN+이/VCP+ㄴ/ETM
+수사와	수사/NNG+와/JC
+평가가	평가/NNG+가/JKS
+잇따랐다.	잇따르/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.4.2
+두 정상은 회담 후 발표한 공동비전성명에서 미일 관계를 ‘부동의 동맹(unshakable alliance)’이자 ‘글로벌 협력을 위한 플랫폼’으로 규정했다.
+
+두	두/MMN
+정상은	정상/NNG+은/JX
+회담	회담/NNG
+후	후/NNG
+발표한	발표/NNG+하/XSV+ㄴ/ETM
+공동비전성명에서	공동/NNG+비전/NNG+성명/NNG+에서/JKB
+미일	미일/NNP
+관계를	관계/NNG+를/JKO
+‘부동의	‘/SS+부동/NNG+의/JKG
+동맹(unshakable	동맹/NNG+(/SS+unshakable/SL
+alliance)’이자	alliance/SL+)/SS+’/SS+이/VCP+자/EC
+‘글로벌	‘/SS+글로벌/NNG
+협력을	협력/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+플랫폼’으로	플랫폼/NNG+’/SS+으로/JKB
+규정했다.	규정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.4.3
+또 “미일 양국의 안보와 번영은 서로 얽혀 있으며(intertwined) 떼어놓을 수 없고(inseparable) 국경을 초월한다(not defined by national border)”고도 했다.
+
+또	또/MAG
+“미일	“/SS+미일/NNP
+양국의	양국/NNG+의/JKG
+안보와	안보/NNG+와/JC
+번영은	번영/NNG+은/JX
+서로	서로/MAG
+얽혀	얽히/VV+어/EC
+있으며(intertwined)	있/VX+으며/EC+(/SS+intertwined/SL+)/SS
+떼어놓을	떼/VV+어/EC+놓/VX+을/ETM
+수	수/NNB
+없고(inseparable)	없/VA+고/EC+(/SS+inseparable/SL+)/SS
+국경을	국경/NNG+을/JKO
+초월한다(not	초월/NNG+하/XSV+ㄴ다/EF+(/SS+not/SL
+defined	defined/SL
+by	by/SL
+national	national/SL
+border)”고도	border/SL+)/SS+”/SS+고/JKQ+도/JX
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.5.1
+버락 오바마 미 대통령은 미일 방위협력지침(가이드라인) 개정 등 정상회담 성과를 설명하면서 아베 총리 이름을 부르며 일본말로 “신조, 아리가토 고자이마스(ありがとうございます·감사합니다)”라고 말했다.
+
+버락	버락/NNP
+오바마	오바마/NNP
+미	미/NNP
+대통령은	대통령/NNG+은/JX
+미일	미일/NNP
+방위협력지침(가이드라인)	방위/NNG+협력/NNG+지침/NNG+(/SS+가이드라인/NNG+)/SS
+개정	개정/NNG
+등	등/NNB
+정상회담	정상/NNG+회담/NNG
+성과를	성과/NNG+를/JKO
+설명하면서	설명/NNG+하/XSV+면서/EC
+아베	아베/NNP
+총리	총리/NNG
+이름을	이름/NNG+을/JKO
+부르며	부르/VV+며/EC
+일본말로	일본/NNP+말/NNG+로/JKB
+“신조,	“/SS+신조/NNP+,/SP
+아리가토	아리가토/NA
+고자이마스(ありがとうございます·감사합니다)”라고	고자이마스/NA+(/SS+ありがとうございます/SL+·/SP+감사/NNG+하/XSV+ㅂ니다/EF+)/SS+”/SS+라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.5.2
+아베 총리는 “버락, 생큐”라고 화답했다.
+
+아베	아베/NNP
+총리는	총리/NNG+는/JX
+“버락,	“/SS+버락/NNP+,/SP
+생큐”라고	생큐/NA+”/SS+라고/JKQ
+화답했다.	화답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.6.1
+오바마 대통령은 서툰 일본어로 “오타가이노 다메니(お互いのために·서로를 위해)”라고 말한 뒤 “바로 이런 정신이야말로 미일 동맹의 근간이며 전 세계에 본보기가 될 수 있는 동맹의 정신”이라고 말했다.
+
+오바마	오바마/NNP
+대통령은	대통령/NNG+은/JX
+서툰	서툴/VA+ㄴ/ETM
+일본어로	일본어/NNP+로/JKB
+“오타가이노	“/SS+오타가이노/NA
+다메니(お互いのために·서로를	다메니/NA+(/SS+お互いのために/SL+·/SP+서로/NNG+를/JKO
+위해)”라고	위하/VV+아/EC+)/SS+”/SS+라고/JKQ
+말한	말/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+“바로	“/SS+바로/MAG
+이런	이런/MMD
+정신이야말로	정신/NNG+이야말로/JX
+미일	미일/NNP
+동맹의	동맹/NNG+의/JKG
+근간이며	근간/NNG+이/VCP+며/EC
+전	전/MMN
+세계에	세계/NNG+에/JKB
+본보기가	본보기/NNG+가/JKC
+될	되/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+정신”이라고	정신/NNG+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.6.2
+오바마 대통령이 일본어로 말하는 모습은 NHK 등 일본 방송을 통해 반복적으로 방영되기도 했다.
+
+오바마	오바마/NNP
+대통령이	대통령/NNG+이/JKS
+일본어로	일본어/NNP+로/JKB
+말하는	말/NNG+하/XSV+는/ETM
+모습은	모습/NNG+은/JX
+NHK	NHK/SL
+등	등/NNB
+일본	일본/NNP
+방송을	방송/NNG+을/JKO
+통해	통하/VV+아/EC
+반복적으로	반복/NNG+적/XSN+으로/JKB
+방영되기도	방영/NNG+되/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.7.1
+밀월 분위기는 이날 저녁 백악관 이스트룸에서 열린 국빈 만찬에서 절정에 달했다.
+
+밀월	밀월/NNG
+분위기는	분위기/NNG+는/JX
+이날	이날/NNG
+저녁	저녁/NNG
+백악관	백악관/NNP
+이스트룸에서	이스트룸/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+국빈	국빈/NNG
+만찬에서	만찬/NNG+에서/JKB
+절정에	절정/NNG+에/JKB
+달했다.	달하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.7.2
+3000여 명이 참석한 만찬에서 오바마 대통령은 건배사를 하며 일본의 전통 단시(短詩)인 ‘하이쿠(俳句)’를 읊조리는 파격을 선보였다.
+
+3000여	3000/SN+여/XSN
+명이	명/NNB+이/JKS
+참석한	참석/NNG+하/XSV+ㄴ/ETM
+만찬에서	만찬/NNG+에서/JKB
+오바마	오바마/NNP
+대통령은	대통령/NNG+은/JX
+건배사를	건배사/NNG+를/JKO
+하며	하/VV+며/EC
+일본의	일본/NNP+의/JKG
+전통	전통/NNG
+단시(短詩)인	단시/NNG+(/SS+短詩/SH+)/SS+이/VCP+ㄴ/ETM
+‘하이쿠(俳句)’를	‘/SS+하이쿠/NNG+(/SS+俳句/SH+)/SS+’/SS+를/JKO
+읊조리는	읊조리/VV+는/ETM
+파격을	파격/NNG+을/JKO
+선보였다.	선보이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.8.1
+그는 “어린 시절을 보낸 하와이에서 유독 일본계 친구가 많았다”고 말한 뒤 “봄, 녹색 그리고 우정/미국과 일본/조화로운 감정”이라고 낭송했다.
+
+그는	그/NP+는/JX
+“어린	“/SS+어리/VA+ㄴ/ETM
+시절을	시절/NNG+을/JKO
+보낸	보내/VV+ㄴ/ETM
+하와이에서	하와이/NNP+에서/JKB
+유독	유독/MAG
+일본계	일본/NNP+계/XSN
+친구가	친구/NNG+가/JKS
+많았다”고	많/VA+았/EP+다/EF+”/SS+고/JKQ
+말한	말/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+“봄,	“/SS+봄/NNG+,/SP
+녹색	녹색/NNG
+그리고	그리고/MAJ
+우정/미국과	우정/NNG+//SP+미국/NNP+과/JC
+일본/조화로운	일본/NNP+//SP+조화/NNG+롭/XSA+ㄴ/ETM
+감정”이라고	감정/NNG+”/SS+이라고/JKQ
+낭송했다.	낭송/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.8.2
+마지막 대목은 일본어로 말했다.
+
+마지막	마지막/NNG
+대목은	대목/NNG+은/JX
+일본어로	일본어/NNP+로/JKB
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.8.3
+이어 “찬란한 동맹(magnificent alliance)이 사계절 내내 오래가기를 바란다”며 건배를 제의했다.
+
+이어	이어/MAG
+“찬란한	“/SS+찬란하/VA+ㄴ/ETM
+동맹(magnificent	동맹/NNG+(/SS+magnificent/SL
+alliance)이	alliance/SL+)/SS+이/JKS
+사계절	사계절/NNG
+내내	내내/MAG
+오래가기를	오래가/VV+기/ETN+를/JKO
+바란다”며	바라/VV+ㄴ다/EF+”/SS+며/EC
+건배를	건배/NNG+를/JKO
+제의했다.	제의/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.8.4
+백악관 측은 이스트룸을 벚꽃 생화로 장식했고 일본 술인 사케를 건배주로 선택했다.
+
+백악관	백악관/NNP
+측은	측/NNB+은/JX
+이스트룸을	이스트룸/NNG+을/JKO
+벚꽃	벚꽃/NNG
+생화로	생화/NNG+로/JKB
+장식했고	장식/NNG+하/XSV+았/EP+고/EC
+일본	일본/NNP
+술인	술/NNG+이/VCP+ㄴ/ETM
+사케를	사케/NNG+를/JKO
+건배주로	건배주/NNG+로/JKB
+선택했다.	선택/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.9.1
+아베 총리도 시종일관 여유로 가득했다.
+
+아베	아베/NNP
+총리도	총리/NNG+도/JX
+시종일관	시종일관/NNG
+여유로	여유/NNG+로/JKB
+가득했다.	가득/MAG+하/XSA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.9.2
+그는 “어제도 숙소에서 의회 연설을 연습했다.
+
+그는	그/NP+는/JX
+“어제도	“/SS+어제/NNG+도/JX
+숙소에서	숙소/NNG+에서/JKB
+의회	의회/NNG
+연설을	연설/NNG+을/JKO
+연습했다.	연습/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.9.3
+하도 많이 하니까 아내가 짜증을 내서 다른 방에서 잤다”며 좌중의 웃음을 유도한 뒤 “전 세계 어디에도 미일동맹과 같은 양자 관계는 없다.
+
+하도	하도/MAG
+많이	많이/MAG
+하니까	하/VV+니까/EC
+아내가	아내/NNG+가/JKS
+짜증을	짜증/NNG+을/JKO
+내서	내/VV+어서/EC
+다른	다른/MMD
+방에서	방/NNG+에서/JKB
+잤다”며	자/VV+았/EP+다/EF+”/SS+며/EC
+좌중의	좌중/NNG+의/JKG
+웃음을	웃음/NNG+을/JKO
+유도한	유도/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+“전	“/SS+전/MMN
+세계	세계/NNG
+어디에도	어디/NP+에/JKB+도/JX
+미일동맹과	미일/NNP+동맹/NNG+과/JKB
+같은	같/VA+은/ETM
+양자	양자/NNG
+관계는	관계/NNG+는/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000045.345.9.4
+미국과 버락이 어떤 도전에 직면해도 일본이 함께할 것”이라고 화답했다.
+
+미국과	미국/NNP+과/JC
+버락이	버락/NNP+이/JKS
+어떤	어떤/MMD
+도전에	도전/NNG+에/JKB
+직면해도	직면/NNG+하/XSV+아도/EC
+일본이	일본/NNP+이/JKS
+함께할	함께/MAG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+화답했다.	화답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.10.1
+그러고는 미국 여가수 다이애나 로스의 노래 ‘그 어떤 산도 높지 않아요(Ain‘t No Mountain High Enough)’의 한 대목을 인용하겠다면서 “그 어떤 높은 산도, 그 어떤 깊은 계곡도 내가 미국에 다가서려는 것을 막을 수 없다”고 말하기도 했다.
+
+그러고는	그러/VV+고는/EC
+미국	미국/NNP
+여가수	여가수/NNG
+다이애나	다이애나/NNP
+로스의	로스/NNP+의/JKG
+노래	노래/NNG
+‘그	‘/SS+그/MMD
+어떤	어떤/MMD
+산도	산/NNG+도/JX
+높지	높/VA+지/EC
+않아요(Ain‘t	않/VX+아요/EF+(/SS+Ain/SL+‘/SS+t/SL
+No	No/SL
+Mountain	Mountain/SL
+High	High/SL
+Enough)’의	Enough/SL+)/SS+’/SS+의/JKG
+한	한/MMN
+대목을	대목/NNG+을/JKO
+인용하겠다면서	인용/NNG+하/XSV+겠/EP+다면서/EC
+“그	“/SS+그/MMD
+높은	높/VA+은/ETM
+산도,	산/NNG+도/JX+,/SP
+그	그/MMD
+깊은	깊/VA+은/ETM
+계곡도	계곡/NNG+도/JX
+내가	내/NP+가/JKS
+미국에	미국/NNP+에/JKB
+다가서려는	다가서/VV+려는/ETM
+것을	것/NNB+을/JKO
+막을	막/VV+을/ETM
+수	수/NNB
+없다”고	없/VA+다/EF+”/SS+고/JKQ
+말하기도	말/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.345.11.1
+워싱턴 외교 소식통은 “두 정상은 매우 친밀한 모습을 연출했다”며 “미일 양국은 이번 회담을 통해 양국 관계가 역내 동맹을 넘어 글로벌 동맹으로 격상되고 있음을 보여줬다”고 평가했다.
+
+워싱턴	워싱턴/NNP
+외교	외교/NNG
+소식통은	소식통/NNG+은/JX
+“두	“/SS+두/MMN
+정상은	정상/NNG+은/JX
+매우	매우/MAG
+친밀한	친밀/NNG+하/XSA+ㄴ/ETM
+모습을	모습/NNG+을/JKO
+연출했다”며	연출/NNG+하/XSV+았/EP+다/EF+”/SS+며/EC
+“미일	“/SS+미일/NNP
+양국은	양국/NNG+은/JX
+이번	이번/NNG
+회담을	회담/NNG+을/JKO
+통해	통하/VV+아/EC
+양국	양국/NNG
+관계가	관계/NNG+가/JKS
+역내	역내/NNG
+동맹을	동맹/NNG+을/JKO
+넘어	넘/VV+어/EC
+글로벌	글로벌/NNG
+동맹으로	동맹/NNG+으로/JKB
+격상되고	격상/NNG+되/XSV+고/EC
+있음을	있/VX+음/ETN+을/JKO
+보여줬다”고	보이/VV+어/EC+주/VX+었/EP+다/EF+”/SS+고/JKQ
+평가했다.	평가/NNG+하/XSV+았/EP+다/EF+./SF
+
+

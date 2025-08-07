@@ -1,0 +1,363 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.338
+metadata : {}
+
+
+# id : NWRW1800000026.338.1.1
+美 FRB, 추가 '양적 완화' 초읽기;최대 1조달러 규모 내달 초 발표할 듯
+
+美	美/SH
+FRB,	FRB/SL+,/SP
+추가	추가/NNG
+'양적	'/SS+양/NNG+적/XSN
+완화'	완화/NNG+'/SS
+초읽기;최대	초읽기/NNG+;/SW+최대/NNG
+1조달러	1/SN+조/NR+달러/NNB
+규모	규모/NNG
+내달	내달/NNG
+초	초/NNB
+발표할	발표/NNG+하/XSV+ㄹ/ETM
+듯	듯/NNB
+
+
+# id : NWRW1800000026.338.2.1
+미국 연방준비제도이사회(FRB)가 조만간 경기 부양을 위한 2차 '양적 완화'에 나설 것이 확실시되고 있다.
+
+미국	미국/NNP
+연방준비제도이사회(FRB)가	연방준비제도이사회/NNP+(/SS+FRB/SL+)/SS+가/JKS
+조만간	조만간/MAG
+경기	경기/NNG
+부양을	부양/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+2차	2/SN+차/NNB
+'양적	'/SS+양/NNG+적/XSN
+완화'에	완화/NNG+'/SS+에/JKB
+나설	나서/VV+ㄹ/ETM
+것이	것/NNB+이/JKS
+확실시되고	확실시/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.338.2.2
+양적 완화(Quantitative Easing)는 중앙은행이 국채 매입 등을 통해 시중에 유동성(流動性·자금)을 공급하는 것을 말한다.
+
+양적	양/NNG+적/XSN
+완화(Quantitative	완화/NNG+(/SS+Quantitative/SL
+Easing)는	Easing/SL+)/SS+는/JX
+중앙은행이	중앙은행/NNG+이/JKS
+국채	국채/NNG
+매입	매입/NNG
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+시중에	시중/NNG+에/JKB
+유동성(流動性·자금)을	유동/NNG+성/XSN+(/SS+流動性/SH+·/SP+자금/NNG+)/SS+을/JKO
+공급하는	공급/NNG+하/XSV+는/ETM
+것을	것/NNB+을/JKO
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.338.3.1
+12일(현지시각) 미국 FRB가 공개한 9월 연방공개시장위원회(FOMC) 회의록에 따르면, 통화 정책을 결정하는 FOMC 위원들은 조만간 2차 양적 완화 조치에 나서기로 의견을 모은 것으로 확인됐다.
+
+12일(현지시각)	12/SN+일/NNB+(/SS+현지/NNG+시각/NNG+)/SS
+미국	미국/NNP
+FRB가	FRB/SL+가/JKS
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+9월	9/SN+월/NNB
+연방공개시장위원회(FOMC)	연방공개시장위원회/NNP+(/SS+FOMC/SL+)/SS
+회의록에	회의록/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+통화	통화/NNG
+정책을	정책/NNG+을/JKO
+결정하는	결정/NNG+하/XSV+는/ETM
+FOMC	FOMC/SL
+위원들은	위원/NNG+들/XSN+은/JX
+조만간	조만간/MAG
+2차	2/SN+차/NNB
+양적	양/NNG+적/XSN
+완화	완화/NNG
+조치에	조치/NNG+에/JKB
+나서기로	나서/VV+기/ETN+로/JKB
+의견을	의견/NNG+을/JKO
+모은	모으/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+확인됐다.	확인/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.4.1
+상당수 FOMC 위원은 지난달 회의에서 "현재 미국 경제의 물가 상승률이 지나치게 낮고 실업률이 너무 높다"면서 "경기 회복을 위한 새로운 조치가 필요한 상황"이라고 말했다.
+
+상당수	상당수/NNG
+FOMC	FOMC/SL
+위원은	위원/NNG+은/JX
+지난달	지난달/NNG
+회의에서	회의/NNG+에서/JKB
+"현재	"/SS+현재/MAG
+미국	미국/NNP
+경제의	경제/NNG+의/JKG
+물가	물가/NNG
+상승률이	상승/NNG+률/XSN+이/JKS
+지나치게	지나치/VA+게/EC
+낮고	낮/VA+고/EC
+실업률이	실업/NNG+률/XSN+이/JKS
+너무	너무/MAG
+높다"면서	높/VA+다/EF+"/SS+면서/EC
+"경기	"/SS+경기/NNG
+회복을	회복/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+새로운	새롭/VA+ㄴ/ETM
+조치가	조치/NNG+가/JKS
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+상황"이라고	상황/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.4.2
+미국 월가(街)에선 FRB가 다음 달 2~3일 열리는 FOMC에서 최대 1조달러(약 1100조원) 규모의 양적 완화 조치를 발표할 가능성이 큰 것으로 보고 있다.
+
+미국	미국/NNP
+월가(街)에선	월가/NNP+(/SS+街/SH+)/SS+에서/JKB+ㄴ/JX
+FRB가	FRB/SL+가/JKS
+다음	다음/NNG
+달	달/NNG
+2~3일	2/SN+~/SO+3/SN+일/NNB
+열리는	열리/VV+는/ETM
+FOMC에서	FOMC/SL+에서/JKB
+최대	최대/NNG
+1조달러(약	1/SN+조/NR+달러/NNB+(/SS+약/MMA
+1100조원)	1100/SN+조/NR+원/NNB+)/SS
+규모의	규모/NNG+의/JKG
+양적	양/NNG+적/XSN
+완화	완화/NNG
+조치를	조치/NNG+를/JKO
+발표할	발표/NNG+하/XSV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+큰	크/VA+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.338.5.1
+FRB가 이처럼 양적 완화에 나서는 것은 최근 미국 경제에 디플레이션(물가가 지속적으로 내리는 현상) 위험이 고조되고 있기 때문이다.
+
+FRB가	FRB/SL+가/JKS
+이처럼	이/NP+처럼/JKB
+양적	양/NNG+적/XSN
+완화에	완화/NNG+에/JKB
+나서는	나서/VV+는/ETM
+것은	것/NNB+은/JX
+최근	최근/MAG
+미국	미국/NNP
+경제에	경제/NNG+에/JKB
+디플레이션(물가가	디플레이션/NNG+(/SS+물가/NNG+가/JKS
+지속적으로	지속/NNG+적/XSN+으로/JKB
+내리는	내리/VV+는/ETM
+현상)	현상/NNG+)/SS
+위험이	위험/NNG+이/JKS
+고조되고	고조/NNG+되/XSV+고/EC
+있기	있/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.5.2
+FRB가 정한 장기 인플레이션 관리 목표는 1.7~2%인데, 지난 8월 근원 소비자물가지수는 지난해 같은 달에 비해 1.4% 상승하는 데 그쳤다.
+
+FRB가	FRB/SL+가/JKS
+정한	정하/VV+ㄴ/ETM
+장기	장기/NNG
+인플레이션	인플레이션/NNG
+관리	관리/NNG
+목표는	목표/NNG+는/JX
+1.7~2%인데,	1/SN+./SP+7/SN+~/SO+2/SN+%/SW+이/VCP+ㄴ데/EC+,/SP
+지난	지나/VV+ㄴ/ETM
+8월	8/SN+월/NNB
+근원	근원/NNG
+소비자물가지수는	소비자/NNG+물가/NNG+지수/NNG+는/JX
+지난해	지난해/NNG
+같은	같/VA+은/ETM
+달에	달/NNG+에/JKB
+비해	비/NNG+하/XSV+아/EC
+1.4%	1/SN+./SP+4/SN+%/SW
+상승하는	상승/NNG+하/XSV+는/ETM
+데	데/NNB
+그쳤다.	그치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.5.3
+미국 실업률도 9% 중반대에서 좀처럼 떨어지지 않는 상황이다.
+
+미국	미국/NNP
+실업률도	실업/NNG+률/XSN+도/JX
+9%	9/SN+%/SW
+중반대에서	중반/NNG+대/XSN+에서/JKB
+좀처럼	좀처럼/MAG
+떨어지지	떨어지/VV+지/EC
+않는	않/VX+는/ETM
+상황이다.	상황/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.6.1
+이에 따라 FRB는 올 하반기와 내년 경제 성장률 전망치를 하향 조정했으며, 인플레를 유발할 특단의 대책도 검토하고 있다.
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+FRB는	FRB/SL+는/JX
+올	올/NNG
+하반기와	하반기/NNG+와/JC
+내년	내년/NNG
+경제	경제/NNG
+성장률	성장/NNG+률/XSN
+전망치를	전망/NNG+치/XSN+를/JKO
+하향	하향/NNG
+조정했으며,	조정/NNG+하/XSV+았/EP+으며/EC+,/SP
+인플레를	인플레/NNG+를/JKO
+유발할	유발/NNG+하/XSV+ㄹ/ETM
+특단의	특단/NNG+의/JKG
+대책도	대책/NNG+도/JX
+검토하고	검토/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.338.6.2
+특단의 대책이란 FRB가 물가 수준 목표제를 도입한 뒤 끊임없이 자금을 공급해 시장에 인플레 기대 심리를 불러일으키는 것을 말한다.
+
+특단의	특단/NNG+의/JKG
+대책이란	대책/NNG+이란/JX
+FRB가	FRB/SL+가/JKS
+물가	물가/NNG
+수준	수준/NNG
+목표제를	목표/NNG+제/XSN+를/JKO
+도입한	도입/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+끊임없이	끊임없이/MAG
+자금을	자금/NNG+을/JKO
+공급해	공급/NNG+하/XSV+아/EC
+시장에	시장/NNG+에/JKB
+인플레	인플레/NNG
+기대	기대/NNG
+심리를	심리/NNG+를/JKO
+불러일으키는	불러일으키/VV+는/ETM
+것을	것/NNB+을/JKO
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.338.7.1
+하지만 추가 양적 완화가 역효과를 가져올 것이라는 시각도 없지 않다.
+
+하지만	하지만/MAJ
+추가	추가/NNG
+양적	양/NNG+적/XSN
+완화가	완화/NNG+가/JKS
+역효과를	역효과/NNG+를/JKO
+가져올	가져오/VV+ㄹ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+시각도	시각/NNG+도/JX
+없지	없/VA+지/EC
+않다.	않/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.338.7.2
+리처드 피셔(Fisher) 댈러스 연방준비은행 총재는 지난 7일 "양적 완화가 고용을 촉진시킬 것이라는 주장에 회의적"이라고 밝혔다.
+
+리처드	리처드/NNP
+피셔(Fisher)	피셔/NNP+(/SS+Fisher/SL+)/SS
+댈러스	댈러스/NNP
+연방준비은행	연방준비은행/NNP
+총재는	총재/NNG+는/JX
+지난	지나/VV+ㄴ/ETM
+7일	7/SN+일/NNB
+"양적	"/SS+양/NNG+적/XSN
+완화가	완화/NNG+가/JKS
+고용을	고용/NNG+을/JKO
+촉진시킬	촉진/NNG+시키/XSV+ㄹ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+주장에	주장/NNG+에/JKB
+회의적"이라고	회의/NNG+적/XSN+"/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.7.3
+토머스 호니그(Hoenig) 캔자스시티 연방준비은행 총재도 12일 "양적 완화는 금융시장에 불확실성만 더해줄 뿐 이득은 별로 없는 매우 위험한 전략"이라고 말했다.
+
+토머스	토머스/NNP
+호니그(Hoenig)	호니그/NNP+(/SS+Hoenig/SL+)/SS
+캔자스시티	캔자스시티/NNP
+연방준비은행	연방준비은행/NNP
+총재도	총재/NNG+도/JX
+12일	12/SN+일/NNB
+"양적	"/SS+양/NNG+적/XSN
+완화는	완화/NNG+는/JX
+금융시장에	금융/NNG+시장/NNG+에/JKB
+불확실성만	불확실/NNG+성/XSN+만/JX
+더해줄	더/MAG+하/XSV+아/EC+주/VX+ㄹ/ETM
+뿐	뿐/NNB
+이득은	이득/NNG+은/JX
+별로	별로/MAG
+없는	없/VA+는/ETM
+매우	매우/MAG
+위험한	위험/NNG+하/XSA+ㄴ/ETM
+전략"이라고	전략/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.338.8.1
+☞ 양적 완화(量的緩和·Quantitative Easing)
+
+☞	☞/SW
+양적	양/NNG+적/XSN
+완화(量的緩和·Quantitative	완화/NNG+(/SS+量的緩和/SH+·/SP+Quantitative/SL
+Easing)	Easing/SL+)/SS
+
+
+# id : NWRW1800000026.338.9.1
+중앙은행이 고유의 기능인 발권력을 동원해 화폐를 찍어낸 뒤 국채나 회사채를 매입하는 방식으로 시중에 유동성(流動性·자금)을 공급하는 정책을 말한다.
+
+중앙은행이	중앙은행/NNG+이/JKS
+고유의	고유/NNG+의/JKG
+기능인	기능/NNG+이/VCP+ㄴ/ETM
+발권력을	발권력/NNG+을/JKO
+동원해	동원/NNG+하/XSV+아/EC
+화폐를	화폐/NNG+를/JKO
+찍어낸	찍/VV+어/EC+내/VX+ㄴ/ETM
+뒤	뒤/NNG
+국채나	국채/NNG+나/JC
+회사채를	회사채/NNG+를/JKO
+매입하는	매입/NNG+하/XSV+는/ETM
+방식으로	방식/NNG+으로/JKB
+시중에	시중/NNG+에/JKB
+유동성(流動性·자금)을	유동/NNG+성/XSN+(/SS+流動性/SH+·/SP+자금/NNG+)/SS+을/JKO
+공급하는	공급/NNG+하/XSV+는/ETM
+정책을	정책/NNG+을/JKO
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.338.9.2
+기준금리가 제로에 근접한 상황에선 더 이상 금리 인하를 통해 자금을 풀기 어렵기 때문에 경기 부양을 위한 각종 양적 완화정책이 동원된다.
+
+기준금리가	기준/NNG+금리/NNG+가/JKS
+제로에	제로/NNG+에/JKB
+근접한	근접/NNG+하/XSV+ㄴ/ETM
+상황에선	상황/NNG+에서/JKB+ㄴ/JX
+더	더/MAG
+이상	이상/NNG
+금리	금리/NNG
+인하를	인하/NNG+를/JKO
+통해	통하/VV+아/EC
+자금을	자금/NNG+을/JKO
+풀기	풀/VV+기/ETN
+어렵기	어렵/VA+기/ETN
+때문에	때문/NNB+에/JKB
+경기	경기/NNG
+부양을	부양/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+각종	각종/NNG
+양적	양/NNG+적/XSN
+완화정책이	완화/NNG+정책/NNG+이/JKS
+동원된다.	동원/NNG+되/XSV+ㄴ다/EF+./SF
+
+

@@ -1,0 +1,518 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.187
+metadata : {}
+
+
+# id : NWRW1800000030.187.1.1
+CCTV에 잡힌 절도현장, 어느새 뜬 경찰 "꼼짝마"
+
+CCTV에	CCTV/SL+에/JKB
+잡힌	잡히/VV+ㄴ/ETM
+절도현장,	절도/NNG+현장/NNG+,/SP
+어느새	어느새/MAG
+뜬	뜨/VV+ㄴ/ETM
+경찰	경찰/NNG
+"꼼짝마"	"/SS+꼼짝/MAG+말/VV+아/EF+"/SS
+
+
+# id : NWRW1800000030.187.2.1
+•모니터 요원과 합작, 이젠 실시간으로 현행범 잡는 CCTV
+
+•모니터	•/SW+모니터/NNG
+요원과	요원/NNG+과/JKB
+합작,	합작/NNG+,/SP
+이젠	이제/NNG+ㄴ/JX
+실시간으로	실시간/NNG+으로/JKB
+현행범	현행범/NNG
+잡는	잡/VV+는/ETM
+CCTV	CCTV/SL
+
+
+# id : NWRW1800000030.187.3.1
+지난 9월 서울 강남구 대치동에서 길가에 세워진 오토바이의 자물쇠를 끊고 훔쳐 가려던 일당 4명이 갑자기 나타난 경찰관들에게 체포됐다.
+
+지난	지나/VV+ㄴ/ETM
+9월	9/SN+월/NNB
+서울	서울/NNP
+강남구	강남구/NNP
+대치동에서	대치동/NNP+에서/JKB
+길가에	길가/NNG+에/JKB
+세워진	세우/VV+어/EC+지/VX+ㄴ/ETM
+오토바이의	오토바이/NNG+의/JKG
+자물쇠를	자물쇠/NNG+를/JKO
+끊고	끊/VV+고/EC
+훔쳐	훔치/VV+어/EC
+가려던	가/VV+려던/ETM
+일당	일당/NNG
+4명이	4/SN+명/NNB+이/JKS
+갑자기	갑자기/MAG
+나타난	나타나/VV+ㄴ/ETM
+경찰관들에게	경찰관/NNG+들/XSN+에게/JKB
+체포됐다.	체포/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.3.2
+이들은 경찰관들에게 "어떻게 알고 출동했느냐"고 어리둥절해했다.
+
+이들은	이/NP+들/XSN+은/JX
+경찰관들에게	경찰관/NNG+들/XSN+에게/JKB
+"어떻게	"/SS+어떻/VA+게/EC
+알고	알/VV+고/EC
+출동했느냐"고	출동/NNG+하/XSV+았/EP+느냐/EF+"/SS+고/JKQ
+어리둥절해했다.	어리둥절하/VA+아/EC+하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.4.1
+이들을 현장에서 체포할 수 있었던 것은 인근에 설치된 방범용 CC(폐쇄회로)TV로 범행을 지켜보던 강남구청 관제센터 직원이 곧바로 신고했기 때문이었다.
+
+이들을	이/NP+들/XSN+을/JKO
+현장에서	현장/NNG+에서/JKB
+체포할	체포/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있었던	있/VA+었/EP+던/ETM
+것은	것/NNB+은/JX
+인근에	인근/NNG+에/JKB
+설치된	설치/NNG+되/XSV+ㄴ/ETM
+방범용	방범/NNG+용/XSN
+CC(폐쇄회로)TV로	CC/SL+(/SS+폐쇄/NNG+회로/NNG+)/SS+TV/SL+로/JKB
+범행을	범행/NNG+을/JKO
+지켜보던	지켜보/VV+던/ETM
+강남구청	강남구청/NNP
+관제센터	관제/NNG+센터/NNG
+직원이	직원/NNG+이/JKS
+곧바로	곧바로/MAG
+신고했기	신고/NNG+하/XSV+았/EP+기/ETN
+때문이었다.	때문/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.5.1
+지난 10월에는 강남구 도곡동에서 옷 5벌을 훔쳐 가려던 범인이 똑같은 방식으로 경찰에 붙잡혔고, 지난 8월 강남구 대치동에서는 지나가는 여성에게 자기 나체를 보여주던 '바바리맨'이 CCTV 관제센터의 신고로 경찰에 덜미를 잡혔다.
+
+지난	지나/VV+ㄴ/ETM
+10월에는	10/SN+월/NNB+에/JKB+는/JX
+강남구	강남구/NNP
+도곡동에서	도곡동/NNP+에서/JKB
+옷	옷/NNG
+5벌을	5/SN+벌/NNB+을/JKO
+훔쳐	훔치/VV+어/EC
+가려던	가/VV+려던/ETM
+범인이	범인/NNG+이/JKS
+똑같은	똑같/VA+은/ETM
+방식으로	방식/NNG+으로/JKB
+경찰에	경찰/NNG+에/JKB
+붙잡혔고,	붙잡히/VV+었/EP+고/EC+,/SP
+8월	8/SN+월/NNB
+대치동에서는	대치동/NNP+에서/JKB+는/JX
+지나가는	지나가/VV+는/ETM
+여성에게	여성/NNG+에게/JKB
+자기	자기/NP
+나체를	나체/NNG+를/JKO
+보여주던	보이/VV+어/EC+주/VX+던/ETM
+'바바리맨'이	'/SS+바바리/NNG+맨/NNG+'/SS+이/JKS
+CCTV	CCTV/SL
+관제센터의	관제/NNG+센터/NNG+의/JKG
+신고로	신고/NNG+로/JKB
+덜미를	덜미/NNG+를/JKO
+잡혔다.	잡히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.6.1
+범죄 예방과 증거 채집에 주로 이용되는 CCTV가 올 들어 현행범 체포에 효과를 내고 있다.
+
+범죄	범죄/NNG
+예방과	예방/NNG+과/JC
+증거	증거/NNG
+채집에	채집/NNG+에/JKB
+주로	주로/MAG
+이용되는	이용/NNG+되/XSV+는/ETM
+CCTV가	CCTV/SL+가/JKS
+올	올/NNG
+들어	들/VV+어/EC
+현행범	현행범/NNG
+체포에	체포/NNG+에/JKB
+효과를	효과/NNG+를/JKO
+내고	내/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.187.6.2
+CCTV 감시 요원들이 원격 감시로 범죄를 잡아내는 것이다.
+
+CCTV	CCTV/SL
+감시	감시/NNG
+요원들이	요원/NNG+들/XSN+이/JKS
+원격	원격/NNG
+감시로	감시/NNG+로/JKB
+범죄를	범죄/NNG+를/JKO
+잡아내는	잡아내/VV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.7.1
+반면 전셋집이 많아 방범비를 늘리지 않고 있는 대규모 아파트 단지들은 CCTV가 부족해 좀도둑에 시달린다.
+
+반면	반면/NNG
+전셋집이	전셋집/NNG+이/JKS
+많아	많/VA+아/EC
+방범비를	방범비/NNG+를/JKO
+늘리지	늘리/VV+지/EC
+않고	않/VX+고/EC
+있는	있/VX+는/ETM
+대규모	대/XPN+규모/NNG
+아파트	아파트/NNG
+단지들은	단지/NNG+들/XSN+은/JX
+CCTV가	CCTV/SL+가/JKS
+부족해	부족/NNG+하/XSA+아/EC
+좀도둑에	좀도둑/NNG+에/JKB
+시달린다.	시달리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.187.7.2
+이런 현상은 공교롭게도 서울 시내 '교육 특구'로 불리는 강남구 대치동, 노원구 상계동, 양천구 목동 일대에서 벌어진다.
+
+이런	이런/MMD
+현상은	현상/NNG+은/JX
+공교롭게도	공교롭/VA+게/EC+도/JX
+서울	서울/NNP
+시내	시내/NNG
+'교육	'/SS+교육/NNG
+특구'로	특구/NNG+'/SS+로/JKB
+불리는	불리/VV+는/ETM
+강남구	강남구/NNP
+대치동,	대치동/NNP+,/SP
+노원구	노원구/NNP
+상계동,	상계동/NNP+,/SP
+양천구	양천구/NNP
+목동	목동/NNP
+일대에서	일대/NNG+에서/JKB
+벌어진다.	벌어지/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.187.7.3
+자녀 교육을 위해 전세로 온 사람들이 보안에 상대적으로 신경을 덜 쓰기 때문이다.
+
+자녀	자녀/NNG
+교육을	교육/NNG+을/JKO
+위해	위하/VV+아/EC
+전세로	전세/NNG+로/JKB
+온	오/VV+ㄴ/ETM
+사람들이	사람/NNG+들/XSN+이/JKS
+보안에	보안/NNG+에/JKB
+상대적으로	상대/NNG+적/XSN+으로/JKB
+신경을	신경/NNG+을/JKO
+덜	덜/MAG
+쓰기	쓰/VV+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.8.1
+◇강남 일대 현행범 8명 검거
+
+◇강남	◇/SW+강남/NNP
+일대	일대/NNG
+현행범	현행범/NNG
+8명	8/SN+명/NNB
+검거	검거/NNG
+
+
+# id : NWRW1800000030.187.9.1
+서울 수서경찰서는 20일 CCTV를 감시하는 구청 관제센터의 실시간 감시로 특수절도·절도 현행범 8명과 벌금 수배자 1명을 체포했다고 밝혔다.
+
+서울	서울/NNP
+수서경찰서는	수서경찰서/NNP+는/JX
+20일	20/SN+일/NNB
+CCTV를	CCTV/SL+를/JKO
+감시하는	감시/NNG+하/XSV+는/ETM
+구청	구청/NNG
+관제센터의	관제/NNG+센터/NNG+의/JKG
+실시간	실시간/NNG
+감시로	감시/NNG+로/JKB
+특수절도·절도	특수/NNG+절도/NNG+·/SP+절도/NNG
+현행범	현행범/NNG
+8명과	8/SN+명/NNB+과/JC
+벌금	벌금/NNG
+수배자	수배자/NNG
+1명을	1/SN+명/NNB+을/JKO
+체포했다고	체포/NNG+하/XSV+았/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.9.2
+경찰은 이런 공로를 인정해 지난 9월과 10월에는 방범용 CCTV 실시간 모니터 요원 3명에게 신고 포상금을 지급하기도 했다.
+
+경찰은	경찰/NNG+은/JX
+이런	이런/MMD
+공로를	공로/NNG+를/JKO
+인정해	인정/NNG+하/XSV+아/EC
+지난	지나/VV+ㄴ/ETM
+9월과	9/SN+월/NNB+과/JC
+10월에는	10/SN+월/NNB+에/JKB+는/JX
+방범용	방범/NNG+용/XSN
+CCTV	CCTV/SL
+실시간	실시간/NNG
+모니터	모니터/NNG
+요원	요원/NNG
+3명에게	3/SN+명/NNB+에게/JKB
+신고	신고/NNG
+포상금을	포상금/NNG+을/JKO
+지급하기도	지급/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.10.1
+앞으로는 CCTV의 활약이 더 커지게 된다.
+
+앞으로는	앞/NNG+으로/JKB+는/JX
+CCTV의	CCTV/SL+의/JKG
+활약이	활약/NNG+이/JKS
+더	더/MAG
+커지게	커지/VV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.187.10.2
+강남경찰서와 강남구청이 지난 19일 가동한 U-강남 도시관제센터가 방범용, 재해재난 감시용 등으로 경찰과 구청 등이 분산 관리하던 CCTV 1065대의 관리를 통합한 것이다.
+
+강남경찰서와	강남경찰서/NNP+와/JC
+강남구청이	강남구청/NNP+이/JKS
+지난	지나/VV+ㄴ/ETM
+19일	19/SN+일/NNB
+가동한	가동/NNG+하/XSV+ㄴ/ETM
+U-강남	U/SL+-/SO+강남/NNP
+도시관제센터가	도시/NNG+관제/NNG+센터/NNG+가/JKS
+방범용,	방범/NNG+용/XSN+,/SP
+재해재난	재해/NNG+재난/NNG
+감시용	감시/NNG+용/XSN
+등으로	등/NNB+으로/JKB
+경찰과	경찰/NNG+과/JC
+구청	구청/NNG
+등이	등/NNB+이/JKS
+분산	분산/NNG
+관리하던	관리/NNG+하/XSV+던/ETM
+CCTV	CCTV/SL
+1065대의	1065/SN+대/NNB+의/JKG
+관리를	관리/NNG+를/JKO
+통합한	통합/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.11.1
+서울 강남경찰서 박장길 생활안전과장은 "CCTV가 범죄를 예방하고 범죄자를 잡아내는 도시의 파수꾼이 될 것으로 기대하고 있다"고 말했다.
+
+서울	서울/NNP
+강남경찰서	강남경찰서/NNP
+박장길	박장길/NNP
+생활안전과장은	생활/NNG+안전과장/NNG+은/JX
+"CCTV가	"/SS+CCTV/SL+가/JKS
+범죄를	범죄/NNG+를/JKO
+예방하고	예방/NNG+하/XSV+고/EC
+범죄자를	범죄자/NNG+를/JKO
+잡아내는	잡아내/VV+는/ETM
+도시의	도시/NNG+의/JKG
+파수꾼이	파수/NNG+꾼/XSN+이/JKC
+될	되/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+기대하고	기대/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.12.1
+◇CCTV 부족한 전세단지 좀도둑 만연
+
+◇CCTV	◇/SW+CCTV/SL
+부족한	부족/NNG+하/XSA+ㄴ/ETM
+전세단지	전세/NNG+단지/NNG
+좀도둑	좀도둑/NNG
+만연	만연/NNG
+
+
+# id : NWRW1800000030.187.13.1
+지난 2일 오후 서울 노원구 상계동의 한 아파트 1층에 도둑이 들었다.
+
+지난	지나/VV+ㄴ/ETM
+2일	2/SN+일/NNB
+오후	오후/NNG
+서울	서울/NNP
+노원구	노원구/NNP
+상계동의	상계동/NNP+의/JKG
+한	한/MMN
+아파트	아파트/NNG
+1층에	1/SN+층/NNG+에/JKB
+도둑이	도둑/NNG+이/JKS
+들었다.	들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.13.2
+대담하게 현관문을 따고 빈집을 털었다.
+
+대담하게	대담/NNG+하/XSA+게/EC
+현관문을	현관문/NNG+을/JKO
+따고	따/VV+고/EC
+빈집을	빈집/NNG+을/JKO
+털었다.	털/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.13.3
+범인은 오리무중이다.
+
+범인은	범인/NNG+은/JX
+오리무중이다.	오리무중/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.13.4
+단지에 CCTV가 제대로 설치돼 있지 않기 때문이다.
+
+단지에	단지/NNG+에/JKB
+CCTV가	CCTV/SL+가/JKS
+제대로	제대로/MAG
+설치돼	설치/NNG+되/XSV+어/EC
+있지	있/VX+지/EC
+않기	않/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.13.5
+2500여 가구의 단지지만, CCTV는 100대에 불과해 25가구당 1대꼴이다.
+
+2500여	2500/SN+여/XSN
+가구의	가구/NNG+의/JKG
+단지지만,	단지/NNG+이/VCP+지만/EC+,/SP
+CCTV는	CCTV/SL+는/JX
+100대에	100/SN+대/NNB+에/JKB
+불과해	불과/MAG+하/XSA+아/EC
+25가구당	25/SN+가구/NNG+당/XSN
+1대꼴이다.	1/SN+대/NNB+꼴/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.14.1
+경찰이나 관리업체들은 "아파트 500가구당 CCTV 30대가 기준이라 17가구에 1대 정도는 필요하다"고 말한다.
+
+경찰이나	경찰/NNG+이나/JC
+관리업체들은	관리/NNG+업체/NNG+들/XSN+은/JX
+"아파트	"/SS+아파트/NNG
+500가구당	500/SN+가구/NNG+당/XSN
+CCTV	CCTV/SL
+30대가	30/SN+대/NNB+가/JKS
+기준이라	기준/NNG+이/VCP+라/EC
+17가구에	17/SN+가구/NNG+에/JKB
+1대	1/SN+대/NNB
+정도는	정도/NNG+는/JX
+필요하다"고	필요/NNG+하/XSA+다/EF+"/SS+고/JKQ
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.187.14.2
+그러나 강남구 대치동 은마아파트는 4424가구 규모에 CCTV는 84대에 불과하다.
+
+그러나	그러나/MAJ
+강남구	강남구/NNP
+대치동	대치동/NNP
+은마아파트는	은마아파트/NNP+는/JX
+4424가구	4424/SN+가구/NNG
+규모에	규모/NNG+에/JKB
+CCTV는	CCTV/SL+는/JX
+84대에	84/SN+대/NNB+에/JKB
+불과하다.	불과/MAG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000030.187.14.3
+53가구당 1대꼴이다.
+
+53가구당	53/SN+가구/NNG+당/XSN
+1대꼴이다.	1/SN+대/NNB+꼴/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.14.4
+양천구 목동 8단지(1300여 가구·CCTV 48대)도 27가구에 1대 수준이다.
+
+양천구	양천구/NNP
+목동	목동/NNP
+8단지(1300여	8/SN+단지/NNG+(/SS+1300/SN+여/XSN
+가구·CCTV	가구/NNG+·/SP+CCTV/SL
+48대)도	48/SN+대/NNB+)/SS+도/JX
+27가구에	27/SN+가구/NNG+에/JKB
+1대	1/SN+대/NNB
+수준이다.	수준/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.15.1
+이 지역에 CCTV가 부족한 것은 주민 상당수가 전세 거주자이기 때문이다.
+
+이	이/MMD
+지역에	지역/NNG+에/JKB
+CCTV가	CCTV/SL+가/JKS
+부족한	부족/NNG+하/XSA+ㄴ/ETM
+것은	것/NNB+은/JX
+주민	주민/NNG
+상당수가	상당수/NNG+가/JKS
+전세	전세/NNG
+거주자이기	거주자/NNG+이/VCP+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.15.2
+자녀들이 대학에 진학할 때까지만 살 계획이라 CCTV 설치 등 방범 대책 마련에 관심이 적을 수밖에 없다.
+
+자녀들이	자녀/NNG+들/XSN+이/JKS
+대학에	대학/NNG+에/JKB
+진학할	진학/NNG+하/XSV+ㄹ/ETM
+때까지만	때/NNG+까지/JX+만/JX
+살	살/VV+ㄹ/ETM
+계획이라	계획/NNG+이/VCP+라/EC
+CCTV	CCTV/SL
+설치	설치/NNG
+등	등/NNB
+방범	방범/NNG
+대책	대책/NNG
+마련에	마련/NNG+에/JKB
+관심이	관심/NNG+이/JKS
+적을	적/VA+을/ETM
+수밖에	수/NNB+밖에/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000030.187.15.3
+대치동의 한 부동산업체 관계자는 "은마아파트는 70% 이상이 전세 거주자일 것"이라고 말했다.
+
+대치동의	대치동/NNP+의/JKG
+한	한/MMN
+부동산업체	부동산업체/NNG
+관계자는	관계자/NNG+는/JX
+"은마아파트는	"/SS+은마아파트/NNP+는/JX
+70%	70/SN+%/SW
+이상이	이상/NNG+이/JKS
+전세	전세/NNG
+거주자일	거주자/NNG+이/VCP+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.187.16.1
+경찰 관계자는 "아파트 단지 규모에 따라서 CCTV 설치 대수를 규정하는 방안 등이 마련돼야 절도 예방에 도움이 될 것"이라고 말했다.
+
+경찰	경찰/NNG
+관계자는	관계자/NNG+는/JX
+"아파트	"/SS+아파트/NNG
+단지	단지/MAG
+규모에	규모/NNG+에/JKB
+따라서	따르/VV+아서/EC
+CCTV	CCTV/SL
+설치	설치/NNG
+대수를	대수/NNG+를/JKO
+규정하는	규정/NNG+하/XSV+는/ETM
+방안	방안/NNG
+등이	등/NNB+이/JKS
+마련돼야	마련/NNG+되/XSV+어야/EC
+절도	절도/NNG
+예방에	예방/NNG+에/JKB
+도움이	도움/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,491 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000028.28
+metadata : {}
+
+
+# id : NWRW1800000028.28.1.1
+동영상 소들 광우병 가능성 없다고 단정 못해 /아레사 어머니 vCJD 발언 허위사실 아니다 /한국인 유전적 광우병 취약 객관적 사실 일치
+
+동영상	동영상/NNG
+소들	소/NNG+들/XSN
+광우병	광우병/NNG
+가능성	가능/NNG+성/XSN
+없다고	없/VA+다고/EC
+단정	단정/NNG
+못해	못/MAG+하/VV+아/EC
+/아레사	//SP+아레사/NNP
+어머니	어머니/NNG
+vCJD	vCJD/SL
+발언	발언/NNG
+허위사실	허위/NNG+사실/NNG
+아니다	아니/VCN+다/EF
+/한국인	//SP+한국인/NNG
+유전적	유전/NNG+적/XSN
+취약	취약/NNG
+객관적	객관/NNG+적/XSN
+사실	사실/NNG
+일치	일치/NNG
+
+
+# id : NWRW1800000028.28.2.1
+법원 판결 내용 분석 <문화방송> ‘피디수첩’ 제작진에게 무죄를 선고한 1심 법원은 허위·왜곡보도라며 검찰이 기소한 내용을 모두 “허위사실로 볼 수 없다”며 보도의 객관성을 인정했다.
+
+법원	법원/NNG
+판결	판결/NNG
+내용	내용/NNG
+분석	분석/NNG
+<문화방송>	</SS+문화방송/NNP+>/SS
+‘피디수첩’	‘/SS+피디/NNG+수첩/NNG+’/SS
+제작진에게	제작진/NNG+에게/JKB
+무죄를	무죄/NNG+를/JKO
+선고한	선고/NNG+하/XSV+ㄴ/ETM
+1심	1심/NNG
+법원은	법원/NNG+은/JX
+허위·왜곡보도라며	허위/NNG+·/SP+왜곡/NNG+보도/NNG+이/VCP+라며/EC
+검찰이	검찰/NNG+이/JKS
+기소한	기소/NNG+하/XSV+ㄴ/ETM
+내용을	내용/NNG+을/JKO
+모두	모두/MAG
+“허위사실로	“/SS+허위/NNG+사실/NNG+로/JKB
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+없다”며	없/VA+다/EF+”/SS+며/EC
+보도의	보도/NNG+의/JKG
+객관성을	객관/NNG+성/XSN+을/JKO
+인정했다.	인정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.2.2
+법원은 세부 내용 중에 일부 과장된 부분이 있더라도 의도적 왜곡이나 허위가 아닌 이상 보도의 정당성이 인정된다고 강조했다.
+
+법원은	법원/NNG+은/JX
+세부	세부/NNG
+내용	내용/NNG
+중에	중/NNB+에/JKB
+일부	일부/NNG
+과장된	과장/NNG+되/XSV+ㄴ/ETM
+부분이	부분/NNG+이/JKS
+있더라도	있/VA+더라도/EC
+의도적	의도/NNG+적/XSN
+왜곡이나	왜곡/NNG+이나/JC
+허위가	허위/NNG+가/JKC
+아닌	아니/VCN+ㄴ/ETM
+이상	이상/NNG
+보도의	보도/NNG+의/JKG
+정당성이	정당성/NNG+이/JKS
+인정된다고	인정/NNG+되/XSV+ㄴ다고/EC
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.2.3
+재판부는 검찰이 ‘의도적인 번역과 악의적 왜곡’이라며 처벌을 요구한 사안들을 합리적 사실에 근거한 비판 보도로 인정했다.
+
+재판부는	재판부/NNG+는/JX
+검찰이	검찰/NNG+이/JKS
+‘의도적인	‘/SS+의도/NNG+적/XSN+이/VCP+ㄴ/ETM
+번역과	번역/NNG+과/JC
+악의적	악의/NNG+적/XSN
+왜곡’이라며	왜곡/NNG+’/SS+이/VCP+라며/EC
+처벌을	처벌/NNG+을/JKO
+요구한	요구/NNG+하/XSV+ㄴ/ETM
+사안들을	사안/NNG+들/XSN+을/JKO
+합리적	합리/NNG+적/XSN
+사실에	사실/NNG+에/JKB
+근거한	근거/NNG+하/XSV+ㄴ/ETM
+비판	비판/NNG
+보도로	보도/NNG+로/JKB
+인정했다.	인정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.2.4
+검찰이 “대표적인 왜곡 사례”로 내세운 ‘주저앉는 소’(다우너 소) 동영상에 대해 △광우병 소는 주저앉는 것 외에 다른 특이 증상을 보이지 않고 △미국 스스로 1997년 사료금지 조처만으로는 광우병 위험 통제에 한계가 있다고 인정했으며 △낮은 광우병 검사비율 때문에 1997년 이후 미국에서 태어난 소에서 광우병이 발견되지 않고 있다고 의심할 여지가 있는 점 등을 근거로 “동영상 속의 다우너 소들이 (검찰의 주장처럼) ‘광우병에 걸렸을 가능성이 거의 없다’고 단정할 수는 없다”고 판단했다.
+
+검찰이	검찰/NNG+이/JKS
+“대표적인	“/SS+대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+왜곡	왜곡/NNG
+사례”로	사례/NNG+”/SS+로/JKB
+내세운	내세우/VV+ㄴ/ETM
+‘주저앉는	‘/SS+주저앉/VV+는/ETM
+소’(다우너	소/NNG+’/SS+(/SS+다우너/NNG
+소)	소/NNG+)/SS
+동영상에	동영상/NNG+에/JKB
+대해	대하/VV+아/EC
+△광우병	△/SW+광우병/NNG
+소는	소/NNG+는/JX
+주저앉는	주저앉/VV+는/ETM
+것	것/NNB
+외에	외/NNB+에/JKB
+다른	다른/MMD
+특이	특이/NNG
+증상을	증상/NNG+을/JKO
+보이지	보이/VV+지/EC
+않고	않/VX+고/EC
+△미국	△/SW+미국/NNP
+스스로	스스로/MAG
+1997년	1997/SN+년/NNB
+사료금지	사료/NNG+금지/NNG
+조처만으로는	조처/NNG+만/JX+으로/JKB+는/JX
+광우병	광우병/NNG
+위험	위험/NNG
+통제에	통제/NNG+에/JKB
+한계가	한계/NNG+가/JKS
+있다고	있/VX+다고/EC
+인정했으며	인정/NNG+하/XSV+았/EP+으며/EC
+△낮은	△/SW+낮/VA+은/ETM
+검사비율	검사/NNG+비율/NNG
+때문에	때문/NNB+에/JKB
+이후	이후/NNG
+미국에서	미국/NNP+에서/JKB
+태어난	태어나/VV+ㄴ/ETM
+소에서	소/NNG+에서/JKB
+광우병이	광우병/NNG+이/JKS
+발견되지	발견/NNG+되/XSV+지/EC
+의심할	의심/NNG+하/XSV+ㄹ/ETM
+여지가	여지/NNB+가/JKS
+있는	있/VA+는/ETM
+점	점/NNG
+등을	등/NNB+을/JKO
+근거로	근거/NNG+로/JKB
+“동영상	“/SS+동영상/NNG
+속의	속/NNG+의/JKG
+다우너	다우너/NNG
+소들이	소/NNG+들/XSN+이/JKS
+(검찰의	(/SS+검찰/NNG+의/JKG
+주장처럼)	주장/NNG+처럼/JKB+)/SS
+‘광우병에	‘/SS+광우병/NNG+에/JKB
+걸렸을	걸리/VV+었/EP+을/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+거의	거의/MAG
+없다’고	없/VA+다/EF+’/SS+고/JKQ
+단정할	단정/NNG+하/XSV+ㄹ/ETM
+수는	수/NNB+는/JX
+없다”고	없/VA+다/EF+”/SS+고/JKQ
+판단했다.	판단/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.3.1
+또다른 주요 쟁점인 미국인 아레사 빈슨의 사인과 관련한 공방에서도 피디수첩이 이겼다.
+
+또다른	또/MAG+다른/MMD
+주요	주요/NNG
+쟁점인	쟁점/NNG+이/VCP+ㄴ/ETM
+미국인	미국인/NNG
+아레사	아레사/NNP
+빈슨의	빈슨/NNP+의/JKG
+사인과	사인/NNG+과/JKB
+관련한	관련/NNG+하/XSV+ㄴ/ETM
+공방에서도	공방/NNG+에서/JKB+도/JX
+피디수첩이	피디/NNG+수첩/NNG+이/JKS
+이겼다.	이기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.3.2
+빈슨의 어머니가 딸의 사인이 크로이츠펠트야코프병(CJD)일 가능성이 있다고 말했지만, 피디수첩은 ‘인간광우병’(vCJD)으로 의도적 오역을 했다는 게 검찰의 주장이었다.
+
+빈슨의	빈슨/NNP+의/JKG
+어머니가	어머니/NNG+가/JKS
+딸의	딸/NNG+의/JKG
+사인이	사인/NNG+이/JKS
+크로이츠펠트야코프병(CJD)일	크로이츠펠트야코프병/NNG+(/SS+CJD/SL+)/SS+이/VCP+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+있다고	있/VA+다고/EC
+말했지만,	말/NNG+하/XSV+았/EP+지만/EC+,/SP
+피디수첩은	피디/NNG+수첩/NNG+은/JX
+‘인간광우병’(vCJD)으로	‘/SS+인간/NNG+광우병/NNG+’/SS+(/SS+vCJD/SL+)/SS+으로/JKB
+의도적	의도/NNG+적/XSN
+오역을	오역/NNG+을/JKO
+했다는	하/VV+았/EP+다는/ETM
+게	거/NNB+이/JKS
+검찰의	검찰/NNG+의/JKG
+주장이었다.	주장/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.3.3
+그러나 재판부는 “빈슨의 어머니가 말한 ‘a variant of CJD’, ‘CJD, the variant’는 미국 농무부 관보나 미질병통제센터 자료를 보면 vCJD를 뜻하고, 유족들이 제기한 소송의 소장에도 ‘빈슨이 엠아르아이 촬영 뒤 vCJD 진단을 받고 퇴원했다’고 기재돼 있다”며 허위사실이 아니라고 밝혔다.
+
+그러나	그러나/MAJ
+재판부는	재판부/NNG+는/JX
+“빈슨의	“/SS+빈슨/NNP+의/JKG
+어머니가	어머니/NNG+가/JKS
+말한	말/NNG+하/XSV+ㄴ/ETM
+‘a	‘/SS+a/SL
+variant	variant/SL
+of	of/SL
+CJD’,	CJD/SL+’/SS+,/SP
+‘CJD,	‘/SS+CJD/SL+,/SP
+the	the/SL
+variant’는	variant/SL+’/SS+는/JX
+미국	미국/NNP
+농무부	농무부/NNG
+관보나	관보/NNG+나/JC
+미질병통제센터	미질병통제센터/NNP
+자료를	자료/NNG+를/JKO
+보면	보/VV+면/EC
+vCJD를	vCJD/SL+를/JKO
+뜻하고,	뜻/NNG+하/XSV+고/EC+,/SP
+유족들이	유족/NNG+들/XSN+이/JKS
+제기한	제기/NNG+하/XSV+ㄴ/ETM
+소송의	소송/NNG+의/JKG
+소장에도	소장/NNG+에/JKB+도/JX
+‘빈슨이	‘/SS+빈슨/NNP+이/JKS
+엠아르아이	엠아르아이/NNG
+촬영	촬영/NNG
+뒤	뒤/NNG
+vCJD	vCJD/SL
+진단을	진단/NNG+을/JKO
+받고	받/VV+고/EC
+퇴원했다’고	퇴원/NNG+하/XSV+았/EP+다/EF+’/SS+고/JKQ
+기재돼	기재/NNG+되/XSV+어/EC
+있다”며	있/VX+다/EF+”/SS+며/EC
+허위사실이	허위/NNG+사실/NNG+이/JKC
+아니라고	아니/VCN+라고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.4.1
+법원은 ‘한국인이 유전적으로 광우병에 취약하다’는 보도는 “‘광우병이 국내에서 발생한다면 변종 환자의 발생 가능성이 세계에서 가장 높은 나라가 될 가능성이 있음’을 암시하는 논문이 2004년 발표됐고, 그런 연구 결과가 별다른 비판 없이 받아들여졌다”며 “과장되거나 잘못된 표현이 있지만 전체 취지나 중요 부분이 객관적 사실과 일치된다”고 판단했다.
+
+법원은	법원/NNG+은/JX
+‘한국인이	‘/SS+한국인/NNG+이/JKS
+유전적으로	유전/NNG+적/XSN+으로/JKB
+광우병에	광우병/NNG+에/JKB
+취약하다’는	취약/NNG+하/XSA+다/EF+’/SS+는/ETM
+보도는	보도/NNG+는/JX
+“‘광우병이	“/SS+‘/SS+광우병/NNG+이/JKS
+국내에서	국내/NNG+에서/JKB
+발생한다면	발생/NNG+하/XSV+ㄴ다면/EC
+변종	변종/NNG
+환자의	환자/NNG+의/JKG
+발생	발생/NNG
+가능성이	가능/NNG+성/XSN+이/JKS
+세계에서	세계/NNG+에서/JKB
+가장	가장/MAG
+높은	높/VA+은/ETM
+나라가	나라/NNG+가/JKC
+될	되/VV+ㄹ/ETM
+있음’을	있/VA+음/ETN+’/SS+을/JKO
+암시하는	암시/NNG+하/XSV+는/ETM
+논문이	논문/NNG+이/JKS
+2004년	2004/SN+년/NNB
+발표됐고,	발표/NNG+되/XSV+었/EP+고/EC+,/SP
+그런	그런/MMD
+연구	연구/NNG
+결과가	결과/NNG+가/JKS
+별다른	별다르/VA+ㄴ/ETM
+비판	비판/NNG
+없이	없이/MAG
+받아들여졌다”며	받아들이/VV+어/EC+지/VX+었/EP+다/EF+”/SS+며/EC
+“과장되거나	“/SS+과장/NNG+되/XSV+거나/EC
+잘못된	잘못/MAG+되/XSV+ㄴ/ETM
+표현이	표현/NNG+이/JKS
+있지만	있/VA+지만/EC
+전체	전체/NNG
+취지나	취지/NNG+나/JC
+중요	중요/NNG
+부분이	부분/NNG+이/JKS
+객관적	객관/NNG+적/XSN
+사실과	사실/NNG+과/JKB
+일치된다”고	일치/NNG+되/XSV+ㄴ다/EF+”/SS+고/JKQ
+판단했다.	판단/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.4.2
+“‘특정 위험물질(SRM) 7가지 중 5가지가 수입된다’고 허위보도했다”는 검찰의 주장에 대해서는 “우리 정부의 종전 분류 기준에 따른 것으로 허위라고 볼 수 없다”고 판단했다.
+
+“‘특정	“/SS+‘/SS+특정/NNG
+위험물질(SRM)	위험/NNG+물질/NNG+(/SS+SRM/SL+)/SS
+7가지	7/SN+가지/NNB
+중	중/NNB
+5가지가	5/SN+가지/NNB+가/JKS
+수입된다’고	수입/NNG+되/XSV+ㄴ다/EF+’/SS+고/JKQ
+허위보도했다”는	허위/NNG+보도/NNG+하/XSV+았/EP+다/EF+”/SS+는/JX
+검찰의	검찰/NNG+의/JKG
+주장에	주장/NNG+에/JKB
+대해서는	대하/VV+아서/EC+는/JX
+“우리	“/SS+우리/NP
+정부의	정부/NNG+의/JKG
+종전	종전/NNG
+분류	분류/NNG
+기준에	기준/NNG+에/JKB
+따른	따르/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+허위라고	허위/NNG+이/VCP+라고/EC
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+없다”고	없/VA+다/EF+”/SS+고/JKQ
+판단했다.	판단/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.5.1
+이런 세부적 판단에 바탕해 재판부는 “정부가 쇠고기 수입협상 체결 전에 독자적 위험분석 절차를 거쳤지만, 그 이후 미국 도축 시스템의 문제점이 제기되고, 사상 최대 규모의 쇠고기 리콜 사태가 있었으며, 미국의 광우병 위험통제정책의 문제점이 국내외 전문가들로부터 제기되고 있었다”며 피디수첩의 문제제기는 언론의 정당한 비판 활동이라고 평가했다.
+
+이런	이런/MMD
+세부적	세부/NNG+적/XSN
+판단에	판단/NNG+에/JKB
+바탕해	바탕/NNG+하/XSV+아/EC
+재판부는	재판부/NNG+는/JX
+“정부가	“/SS+정부/NNG+가/JKS
+쇠고기	쇠고기/NNG
+수입협상	수입/NNG+협상/NNG
+체결	체결/NNG
+전에	전/NNG+에/JKB
+독자적	독자/NNG+적/XSN
+위험분석	위험/NNG+분석/NNG
+절차를	절차/NNG+를/JKO
+거쳤지만,	거치/VV+었/EP+지만/EC+,/SP
+그	그/MMD
+이후	이후/NNG
+미국	미국/NNP
+도축	도축/NNG
+시스템의	시스템/NNG+의/JKG
+문제점이	문제점/NNG+이/JKS
+제기되고,	제기/NNG+되/XSV+고/EC+,/SP
+사상	사상/NNG
+최대	최대/NNG
+규모의	규모/NNG+의/JKG
+리콜	리콜/NNG
+사태가	사태/NNG+가/JKS
+있었으며,	있/VA+었/EP+으며/EC+,/SP
+미국의	미국/NNP+의/JKG
+광우병	광우병/NNG
+위험통제정책의	위험/NNG+통제/NNG+정책/NNG+의/JKG
+국내외	국내외/NNG
+전문가들로부터	전문가/NNG+들/XSN+로부터/JKB
+제기되고	제기/NNG+되/XSV+고/EC
+있었다”며	있/VX+었/EP+다/EF+”/SS+며/EC
+피디수첩의	피디/NNG+수첩/NNG+의/JKG
+문제제기는	문제/NNG+제기/NNG+는/JX
+언론의	언론/NNG+의/JKG
+정당한	정당하/VA+ㄴ/ETM
+비판	비판/NNG
+활동이라고	활동/NNG+이/VCP+라고/EC
+평가했다.	평가/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.6.1
+검찰은 그동안 피디수첩이 무려 30여 군데에서 고의성 있는 번역 오류 등을 범하며 허위사실을 보도한 것은 분명히 정부 당국자들의 명예를 훼손한 것이라는 논리를 펴왔다.
+
+검찰은	검찰/NNG+은/JX
+그동안	그동안/NNG
+피디수첩이	피디/NNG+수첩/NNG+이/JKS
+무려	무려/MAG
+30여	30/SN+여/XSN
+군데에서	군데/NNB+에서/JKB
+고의성	고의/NNG+성/XSN
+있는	있/VA+는/ETM
+번역	번역/NNG
+오류	오류/NNG
+등을	등/NNB+을/JKO
+범하며	범하/VV+며/EC
+허위사실을	허위/NNG+사실/NNG+을/JKO
+보도한	보도/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+분명히	분명히/MAG
+정부	정부/NNG
+당국자들의	당국자/NNG+들/XSN+의/JKG
+명예를	명예/NNG+를/JKO
+훼손한	훼손/NNG+하/XSV+ㄴ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+논리를	논리/NNG+를/JKO
+펴왔다.	펴/VV+어/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.6.2
+그러나 재판부는 결국 검찰이 결정적 허위사실이라고 주장한 대목들이 모두 정당한 보도라는 판단을 내리면서, 일부 과장이 있더라도 처벌 가치가 없는 것으로 판단했다.
+
+그러나	그러나/MAJ
+재판부는	재판부/NNG+는/JX
+결국	결국/NNG
+검찰이	검찰/NNG+이/JKS
+결정적	결정/NNG+적/XSN
+허위사실이라고	허위/NNG+사실/NNG+이/VCP+라고/EC
+주장한	주장/NNG+하/XSV+ㄴ/ETM
+대목들이	대목/NNG+들/XSN+이/JKS
+모두	모두/MAG
+정당한	정당하/VA+ㄴ/ETM
+보도라는	보도/NNG+이/VCP+라는/ETM
+판단을	판단/NNG+을/JKO
+내리면서,	내리/VV+면서/EC+,/SP
+일부	일부/NNG
+과장이	과장/NNG+이/JKS
+있더라도	있/VA+더라도/EC
+처벌	처벌/NNG
+가치가	가치/NNG+가/JKS
+없는	없/VA+는/ETM
+것으로	것/NNB+으로/JKB
+판단했다.	판단/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.6.3
+그러면서 “공직자들의 사회적 평가가 저하됐다고 해서 바로 그들의 명예를 훼손했다거나 명예훼손의 고의가 있었다고 볼 수는 없다”고 설명했다.
+
+그러면서	그러/VV+면서/EC
+“공직자들의	“/SS+공직자/NNG+들/XSN+의/JKG
+사회적	사회/NNG+적/XSN
+평가가	평가/NNG+가/JKS
+저하됐다고	저하/NNG+되/XSV+었/EP+다고/EC
+해서	하/VV+아서/EC
+바로	바로/MAG
+그들의	그/NP+들/XSN+의/JKG
+명예를	명예/NNG+를/JKO
+훼손했다거나	훼손/NNG+하/XSV+았/EP+다/EF+거나/JX
+명예훼손의	명예/NNG+훼손/NNG+의/JKG
+고의가	고의/NNG+가/JKS
+있었다고	있/VA+었/EP+다고/EC
+볼	보/VV+ㄹ/ETM
+수는	수/NNB+는/JX
+없다”고	없/VA+다/EF+”/SS+고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.6.4
+명예훼손죄를 적용하려면 엄격한 입증이 필요하다는 것이다.
+
+명예훼손죄를	명예/NNG+훼손죄/NNG+를/JKO
+적용하려면	적용/NNG+하/XSV+려면/EC
+엄격한	엄격/NNG+하/XSA+ㄴ/ETM
+입증이	입증/NNG+이/JKS
+필요하다는	필요/NNG+하/XSA+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000028.28.7.1
+이와 함께 재판부는 “보도 내용 중 피해자들을 지칭해 사회적 평가를 저하시킬 만한 구체적 사실을 적시한 바 없다”며, 정책에 초점을 맞춘 보도를 개인에 대한 명예훼손으로 쉽게 연결시킨 검찰의 자의적 행태를 지적하기도 했다.
+
+이와	이/NP+와/JKB
+함께	함께/MAG
+재판부는	재판부/NNG+는/JX
+“보도	“/SS+보도/NNG
+내용	내용/NNG
+중	중/NNB
+피해자들을	피해자/NNG+들/XSN+을/JKO
+지칭해	지칭/NNG+하/XSV+아/EC
+사회적	사회/NNG+적/XSN
+평가를	평가/NNG+를/JKO
+저하시킬	저하/NNG+시키/XSV+ㄹ/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+구체적	구체/NNG+적/XSN
+사실을	사실/NNG+을/JKO
+적시한	적시/NNG+하/XSV+ㄴ/ETM
+바	바/NNB
+없다”며,	없/VA+다/EF+”/SS+며/EC+,/SP
+정책에	정책/NNG+에/JKB
+초점을	초점/NNG+을/JKO
+맞춘	맞추/VV+ㄴ/ETM
+보도를	보도/NNG+를/JKO
+개인에	개인/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+명예훼손으로	명예/NNG+훼손/NNG+으로/JKB
+쉽게	쉽/VA+게/EC
+연결시킨	연결/NNG+시키/XSV+ㄴ/ETM
+검찰의	검찰/NNG+의/JKG
+자의적	자의/NNG+적/XSN
+행태를	행태/NNG+를/JKO
+지적하기도	지적/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+

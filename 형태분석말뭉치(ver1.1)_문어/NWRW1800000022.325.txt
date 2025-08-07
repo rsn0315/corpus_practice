@@ -1,0 +1,238 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.325
+metadata : {}
+
+
+# id : NWRW1800000022.325.1.1
+MLB 올스타팀 방한경기 무산 KBO 반대로
+
+MLB	MLB/SL
+올스타팀	올스타/NNG+팀/NNG
+방한경기	방한/NNG+경기/NNG
+무산	무산/NNG
+KBO	KBO/SL
+반대로	반대/NNG+로/JKB
+
+
+# id : NWRW1800000022.325.2.1
+미국 프로야구 메이저리그(MLB) 올스타팀의 방한 경기가 한국측의 반대로 또다시 무산됐다.
+
+미국	미국/NNP
+프로야구	프로/NNG+야구/NNG
+메이저리그(MLB)	메이저리그/NNG+(/SS+MLB/SL+)/SS
+올스타팀의	올스타/NNG+팀/NNG+의/JKG
+방한	방한/NNG
+경기가	경기/NNG+가/JKS
+한국측의	한국/NNP+측/NNB+의/JKG
+반대로	반대/NNG+로/JKB
+또다시	또다시/MAG
+무산됐다.	무산/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.2.2
+한국야구위원회(KBO)는 지난 15일 이사회에서 MLB측이 최근 제안한 올스타팀 방한경기 요청을 일정과 경기장 문제, 그리고 수익성 등의 이유로 받아들이기 어렵다는 결론을 내렸다.
+
+한국야구위원회(KBO)는	한국야구위원회/NNP+(/SS+KBO/SL+)/SS+는/JX
+지난	지나/VV+ㄴ/ETM
+15일	15/SN+일/NNB
+이사회에서	이사회/NNG+에서/JKB
+MLB측이	MLB/SL+측/NNB+이/JKS
+최근	최근/MAG
+제안한	제안/NNG+하/XSV+ㄴ/ETM
+올스타팀	올스타/NNG+팀/NNG
+방한경기	방한/NNG+경기/NNG
+요청을	요청/NNG+을/JKO
+일정과	일정/NNG+과/JC
+경기장	경기장/NNG
+문제,	문제/NNG+,/SP
+그리고	그리고/MAJ
+수익성	수익/NNG+성/XSN
+등의	등/NNB+의/JKG
+이유로	이유/NNG+로/JKB
+받아들이기	받아들이/VV+기/ETN
+어렵다는	어렵/VA+다는/ETM
+결론을	결론/NNG+을/JKO
+내렸다.	내리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.3.1
+MLB 사무국은 지난 7월 MLB 올스타전 기간에 미국을 방문한 유영구 KBO 총재에게 MLB 올스타의 한국 방문 경기를 제의한 바 있다.
+
+MLB	MLB/SL
+사무국은	사무국/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+7월	7/SN+월/NNB
+올스타전	올스타전/NNG
+기간에	기간/NNG+에/JKB
+미국을	미국/NNP+을/JKO
+방문한	방문/NNG+하/XSV+ㄴ/ETM
+유영구	유영구/NNP
+KBO	KBO/SL
+총재에게	총재/NNG+에게/JKB
+올스타의	올스타/NNG+의/JKG
+한국	한국/NNP
+방문	방문/NNG
+경기를	경기/NNG+를/JKO
+제의한	제의/NNG+하/XSV+ㄴ/ETM
+바	바/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.325.3.2
+MLB 국제업무를 관장하는 MLBI(MLB International)는 한국과 대만을 연결하는 아시아 투어를 계획, MLB 선수노조(MLBPA)의 동의까지 얻은 것으로 알려졌다.
+
+MLB	MLB/SL
+국제업무를	국제/NNG+업무/NNG+를/JKO
+관장하는	관장/NNG+하/XSV+는/ETM
+MLBI(MLB	MLBI/SL+(/SS+MLB/SL
+International)는	International/SL+)/SS+는/JX
+한국과	한국/NNP+과/JC
+대만을	대만/NNP+을/JKO
+연결하는	연결/NNG+하/XSV+는/ETM
+아시아	아시아/NNP
+투어를	투어/NNG+를/JKO
+계획,	계획/NNG+,/SP
+선수노조(MLBPA)의	선수/NNG+노조/NNG+(/SS+MLBPA/SL+)/SS+의/JKG
+동의까지	동의/NNG+까지/JX
+얻은	얻/VV+은/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.4.1
+특히 이번 방한계획에는 추신수(클리블랜드 인디언스)와 박찬호(필라델피아 필리스)가 포함됐다.
+
+특히	특히/MAG
+이번	이번/NNG
+방한계획에는	방한/NNG+계획/NNG+에/JKB+는/JX
+추신수(클리블랜드	추신수/NNP+(/SS+클리블랜드/NNP
+인디언스)와	인디언스/NNP+)/SS+와/JC
+박찬호(필라델피아	박찬호/NNP+(/SS+필라델피아/NNP
+필리스)가	필리스/NNP+)/SS+가/JKS
+포함됐다.	포함/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.4.2
+두 선수는 한국 방문시 MLB 올스타팀으로 한 경기를 뛰고, 다음 경기는 한국 올스타 소속으로 뛰고 싶다는 뜻을 나타내기도 했다.
+
+두	두/MMN
+선수는	선수/NNG+는/JX
+한국	한국/NNP
+방문시	방문/NNG+시/NNB
+MLB	MLB/SL
+올스타팀으로	올스타/NNG+팀/NNG+으로/JKB
+한	한/MMN
+경기를	경기/NNG+를/JKO
+뛰고,	뛰/VV+고/EC+,/SP
+다음	다음/NNG
+경기는	경기/NNG+는/JX
+올스타	올스타/NNG
+소속으로	소속/NNG+으로/JKB
+뛰고	뛰/VV+고/EC
+싶다는	싶/VX+다는/ETM
+뜻을	뜻/NNG+을/JKO
+나타내기도	나타내/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.4.3
+하지만 MLB 올스타의 한국 투어가 무산되면서 대만 방문도 없던 일이 됐다.
+
+하지만	하지만/MAJ
+MLB	MLB/SL
+올스타의	올스타/NNG+의/JKG
+한국	한국/NNP
+투어가	투어/NNG+가/JKS
+무산되면서	무산/NNG+되/XSV+면서/EC
+대만	대만/NNP
+방문도	방문/NNG+도/JX
+없던	없/VA+던/ETM
+일이	일/NNG+이/JKC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.5.1
+이를 둘러싸고 야구계에선 "MLB 올스타팀의 방한은 프로야구 붐을 이어갈 수 있는 좋은 이벤트"라는 의견과 "한국이 MLB의 장삿속에 꼭두각시 노릇을 할 필요가 있느냐"는 의견이 엇갈렸다.
+
+이를	이/NP+를/JKO
+둘러싸고	둘러싸/VV+고/EC
+야구계에선	야구/NNG+계/XSN+에서/JKB+ㄴ/JX
+"MLB	"/SS+MLB/SL
+올스타팀의	올스타/NNG+팀/NNG+의/JKG
+방한은	방한/NNG+은/JX
+프로야구	프로/NNG+야구/NNG
+붐을	붐/NNG+을/JKO
+이어갈	잇/VV+어/EC+가/VX+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+좋은	좋/VA+은/ETM
+이벤트"라는	이벤트/NNG+"/SS+이/VCP+라는/ETM
+의견과	의견/NNG+과/JC
+"한국이	"/SS+한국/NNP+이/JKS
+MLB의	MLB/SL+의/JKG
+장삿속에	장삿속/NNG+에/JKB
+꼭두각시	꼭두각시/NNG
+노릇을	노릇/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+있느냐"는	있/VA+느냐/EF+"/SS+는/ETM
+의견이	의견/NNG+이/JKS
+엇갈렸다.	엇갈리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.5.2
+KBO 이사회에 참석했던 모 구단 사장은 "KBO 이사회의 분위기가 이상하리만큼 부정적으로 흘렀다"고 전했다.
+
+KBO	KBO/SL
+이사회에	이사회/NNG+에/JKB
+참석했던	참석/NNG+하/XSV+았/EP+던/ETM
+모	모/MMD
+구단	구단/NNG
+사장은	사장/NNG+은/JX
+"KBO	"/SS+KBO/SL
+이사회의	이사회/NNG+의/JKG
+분위기가	분위기/NNG+가/JKS
+이상하리만큼	이상/NNG+하/XSA+리만큼/EC
+부정적으로	부정/NNG+적/XSN+으로/JKB
+흘렀다"고	흐르/VV+었/EP+다/EF+"/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.325.6.1
+MLB가 한국 고교생들을 무차별 스카우트하는 문제, 11월 14일 한일 프로야구 챔피언전이 예정돼 있다는 일정상의 문제, MLB 선수들의 출전료 등 최소 30억원 이상의 수입을 확보해야 하는 문제 등이 걸림돌로 작용했다는 것이다.
+
+MLB가	MLB/SL+가/JKS
+한국	한국/NNP
+고교생들을	고교/NNG+생/XSN+들/XSN+을/JKO
+무차별	무/XPN+차별/NNG
+스카우트하는	스카우트/NNG+하/XSV+는/ETM
+문제,	문제/NNG+,/SP
+11월	11/SN+월/NNB
+14일	14/SN+일/NNB
+한일	한일/NNP
+프로야구	프로/NNG+야구/NNG
+챔피언전이	챔피언전/NNG+이/JKS
+예정돼	예정/NNG+되/XSV+어/EC
+있다는	있/VX+다는/ETM
+일정상의	일정/NNG+상/XSN+의/JKG
+MLB	MLB/SL
+선수들의	선수/NNG+들/XSN+의/JKG
+출전료	출전료/NNG
+등	등/NNB
+최소	최소/NNG
+30억원	30/SN+억/NR+원/NNB
+이상의	이상/NNG+의/JKG
+수입을	수입/NNG+을/JKO
+확보해야	확보/NNG+하/XSV+아야/EC
+하는	하/VX+는/ETM
+문제	문제/NNG
+등이	등/NNB+이/JKS
+걸림돌로	걸림돌/NNG+로/JKB
+작용했다는	작용/NNG+하/XSV+았/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+

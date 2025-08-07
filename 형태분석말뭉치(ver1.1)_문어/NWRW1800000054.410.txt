@@ -1,0 +1,259 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.410
+metadata : {}
+
+
+# id : NWRW1800000054.410.1.1
+WP "세계최강 무기가 33세 독재자 손에 들어가나"
+
+WP	WP/SL
+"세계최강	"/SS+세계/NNG+최강/NNG
+무기가	무기/NNG+가/JKS
+33세	33/SN+세/NNB
+독재자	독재자/NNG
+손에	손/NNG+에/JKB
+들어가나"	들어가/VV+나/EF+"/SS
+
+
+# id : NWRW1800000054.410.2.1
+美전문가들 "수소탄 특징 갖춰… ICBM 장착엔 2~3년 필요할 것"
+
+美전문가들	美/SH+전문가/NNG+들/XSN
+"수소탄	"/SS+수소탄/NNG
+특징	특징/NNG
+갖춰…	갖추/VV+어/EF+…/SE
+ICBM	ICBM/SL
+장착엔	장착/NNG+에/JKB+ㄴ/JX
+2~3년	2/SN+~/SO+3/SN+년/NNB
+필요할	필요/NNG+하/XSA+ㄹ/ETM
+것"	것/NNB+"/SS
+
+
+# id : NWRW1800000054.410.3.1
+미국 군사 전문가들은 4일(현지 시각) 북한의 6차 핵실험에 대해 "기술적으로 상당히 진전했다"고 평가하면서도 "대륙간탄도미사일(ICBM) 장착용 수소탄 시험에 성공했다"는 북한 주장에 대해선 신중한 반응을 보였다.
+
+미국	미국/NNP
+군사	군사/NNG
+전문가들은	전문가/NNG+들/XSN+은/JX
+4일(현지	4/SN+일/NNB+(/SS+현지/NNG
+시각)	시각/NNG+)/SS
+북한의	북한/NNP+의/JKG
+6차	6/SN+차/NNB
+핵실험에	핵/NNG+실험/NNG+에/JKB
+대해	대하/VV+아/EC
+"기술적으로	"/SS+기술/NNG+적/XSN+으로/JKB
+상당히	상당히/MAG
+진전했다"고	진전/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+평가하면서도	평가/NNG+하/XSV+면서/EC+도/JX
+"대륙간탄도미사일(ICBM)	"/SS+대륙/NNG+간/NNB+탄도/NNG+미사일/NNG+(/SS+ICBM/SL+)/SS
+장착용	장착/NNG+용/XSN
+수소탄	수소탄/NNG
+시험에	시험/NNG+에/JKB
+성공했다"는	성공/NNG+하/XSV+았/EP+다/EF+"/SS+는/ETM
+북한	북한/NNP
+주장에	주장/NNG+에/JKB
+대해선	대하/VV+아서/EC+ㄴ/JX
+신중한	신중/NNG+하/XSA+ㄴ/ETM
+반응을	반응/NNG+을/JKO
+보였다.	보이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.410.4.1
+워싱턴포스트는 이날 "미국 내 다수 핵 전문가는 북한이 공개한 핵탄두는 미국과 소련이 보유한 것과 모양은 다르지만 수소탄의 특징을 갖춘 것으로 보인다"며 "5차 핵실험보다 최소 5배 이상의 폭발력을 보여준 이번 핵실험은 북한 핵 능력의 비약적 발전(quantum leap)을 보여주었다"고 했다.
+
+워싱턴포스트는	워싱턴포스트/NNP+는/JX
+이날	이날/NNG
+"미국	"/SS+미국/NNP
+내	내/NNB
+다수	다수/NNG
+핵	핵/NNG
+전문가는	전문가/NNG+는/JX
+북한이	북한/NNP+이/JKS
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+핵탄두는	핵탄두/NNG+는/JX
+미국과	미국/NNP+과/JC
+소련이	소련/NNP+이/JKS
+보유한	보유/NNG+하/XSV+ㄴ/ETM
+것과	것/NNB+과/JKB
+모양은	모양/NNG+은/JX
+다르지만	다르/VA+지만/EC
+수소탄의	수소탄/NNG+의/JKG
+특징을	특징/NNG+을/JKO
+갖춘	갖추/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보인다"며	보이/VV+ㄴ다/EF+"/SS+며/EC
+"5차	"/SS+5/SN+차/NNB
+핵실험보다	핵/NNG+실험/NNG+보다/JKB
+최소	최소/NNG
+5배	5/SN+배/NNG
+이상의	이상/NNG+의/JKG
+폭발력을	폭발력/NNG+을/JKO
+보여준	보이/VV+어/EC+주/VX+ㄴ/ETM
+이번	이번/NNG
+핵실험은	핵/NNG+실험/NNG+은/JX
+북한	북한/NNP
+능력의	능력/NNG+의/JKG
+비약적	비약/NNG+적/XSN
+발전(quantum	발전/NNG+(/SS+quantum/SL
+leap)을	leap/SL+)/SS+을/JKO
+보여주었다"고	보이/VV+어/EC+주/VX+었/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.410.4.2
+신문은 이어 "북한 함경북도 길주군 풍계리 핵실험장에서 실험한 것이 북한 주장대로 수소폭탄으로 확인되면 이는 종전과는 차원이 다른 (북한의) 승리이며, 세계 최강의 파괴 무기가 서른세 살 독재자(김정은) 손에 들어가는 것"이라고 했다.
+
+신문은	신문/NNG+은/JX
+이어	이어/MAG
+"북한	"/SS+북한/NNP
+함경북도	함경북도/NNP
+길주군	길주군/NNP
+풍계리	풍계리/NNP
+핵실험장에서	핵/NNG+실험장/NNG+에서/JKB
+실험한	실험/NNG+하/XSV+ㄴ/ETM
+것이	것/NNB+이/JKS
+북한	북한/NNP
+주장대로	주장/NNG+대로/JX
+수소폭탄으로	수소/NNG+폭탄/NNG+으로/JKB
+확인되면	확인/NNG+되/XSV+면/EC
+이는	이/NP+는/JX
+종전과는	종전/NNG+과/JKB+는/JX
+차원이	차원/NNG+이/JKS
+다른	다르/VA+ㄴ/ETM
+(북한의)	(/SS+북한/NNP+의/JKG+)/SS
+승리이며,	승리/NNG+이/VCP+며/EC+,/SP
+세계	세계/NNG
+최강의	최강/NNG+의/JKG
+파괴	파괴/NNG
+무기가	무기/NNG+가/JKS
+서른세	서른세/MMN
+살	살/NNB
+독재자(김정은)	독재자/NNG+(/SS+김정은/NNP+)/SS
+손에	손/NNG+에/JKB
+들어가는	들어가/VV+는/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.410.5.1
+미 상원 외교위원회 수석 과학자를 지낸 피터 짐머만 박사는 "북한이 공개한 탄두 생김새는 북한 핵 과학자와 기술자들이 핵융합 반응 장치 설계의 핵심을 이해하고 있다는 걸 보여준다"고 했다.
+
+미	미/NNP
+상원	상원/NNG
+외교위원회	외교/NNG+위원회/NNG
+수석	수석/NNG
+과학자를	과학자/NNG+를/JKO
+지낸	지내/VV+ㄴ/ETM
+피터	피터/NNP
+짐머만	짐머만/NNP
+박사는	박사/NNG+는/JX
+"북한이	"/SS+북한/NNP+이/JKS
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+탄두	탄두/NNG
+생김새는	생김새/NNG+는/JX
+북한	북한/NNP
+핵	핵/NNG
+과학자와	과학자/NNG+와/JC
+기술자들이	기술자/NNG+들/XSN+이/JKS
+핵융합	핵융합/NNG
+반응	반응/NNG
+장치	장치/NNG
+설계의	설계/NNG+의/JKG
+핵심을	핵심/NNG+을/JKO
+이해하고	이해/NNG+하/XSV+고/EC
+있다는	있/VX+다는/ETM
+걸	거/NNB+ㄹ/JKO
+보여준다"고	보이/VV+어/EC+주/VX+ㄴ다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.410.5.2
+제프리 루이스 '제임스 마틴 비확산센터' 동아시아 국장도 "북한이 경제난과 외교적 고립 속에서도 이 정도를 과시한 것을 보면 기술적 장애는 극복했다고 봐야 한다"며 "북한이 미국·소련·중국 같이 핵실험을 거듭하며 핵무기 보유의 길을 걷지 못할 것이라고 생각할 이유가 없다"고 했다.
+
+제프리	제프리/NNP
+루이스	루이스/NNP
+'제임스	'/SS+제임스/NNP
+마틴	마틴/NNP
+비확산센터'	비/XPN+확산/NNG+센터/NNG+'/SS
+동아시아	동아시아/NNP
+국장도	국장/NNG+도/JX
+"북한이	"/SS+북한/NNP+이/JKS
+경제난과	경제난/NNG+과/JC
+외교적	외교/NNG+적/XSN
+고립	고립/NNG
+속에서도	속/NNG+에서/JKB+도/JX
+이	이/MMD
+정도를	정도/NNG+를/JKO
+과시한	과시/NNG+하/XSV+ㄴ/ETM
+것을	것/NNB+을/JKO
+보면	보/VV+면/EC
+기술적	기술/NNG+적/XSN
+장애는	장애/NNG+는/JX
+극복했다고	극복/NNG+하/XSV+았/EP+다고/EC
+봐야	보/VV+아야/EC
+한다"며	하/VX+ㄴ다/EF+"/SS+며/EC
+미국·소련·중국	미국/NNP+·/SP+소련/NNP+·/SP+중국/NNP
+같이	같이/MAG
+핵실험을	핵/NNG+실험/NNG+을/JKO
+거듭하며	거듭/MAG+하/XSV+며/EC
+핵무기	핵무기/NNG
+보유의	보유/NNG+의/JKG
+길을	길/NNG+을/JKO
+걷지	걷/VV+지/EC
+못할	못하/VX+ㄹ/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+생각할	생각/NNG+하/XSV+ㄹ/ETM
+이유가	이유/NNG+가/JKS
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.410.6.1
+다만 북한이 ICBM에 핵탄두를 장착하는 완성 단계까지는 2~3년이 더 필요할 것이란 분석이 나온다.
+
+다만	다만/MAG
+북한이	북한/NNP+이/JKS
+ICBM에	ICBM/SL+에/JKB
+핵탄두를	핵탄두/NNG+를/JKO
+장착하는	장착/NNG+하/XSV+는/ETM
+완성	완성/NNG
+단계까지는	단계/NNG+까지/JX+는/JX
+2~3년이	2/SN+~/SO+3/SN+년/NNB+이/JKS
+더	더/MAG
+필요할	필요/NNG+하/XSA+ㄹ/ETM
+것이란	것/NNB+이/VCP+란/ETM
+분석이	분석/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.410.6.2
+로버트 매닝 애틀랜틱 카운슬 선임 연구원은 "북한이 수소폭탄을 실험했는지 아직 확실하지 않고, (실험에 성공했더라도) 실전용 ICBM을 보유하기까지는 2~3년 정도 걸릴 것"이라고 했다.
+
+로버트	로버트/NNP
+매닝	매닝/NNP
+애틀랜틱	애틀랜틱/NNP
+카운슬	카운슬/NNP
+선임	선임/NNG
+연구원은	연구원/NNG+은/JX
+"북한이	"/SS+북한/NNP+이/JKS
+수소폭탄을	수소/NNG+폭탄/NNG+을/JKO
+실험했는지	실험/NNG+하/XSV+았/EP+는지/EC
+아직	아직/MAG
+확실하지	확실하/VA+지/EC
+않고,	않/VX+고/EC+,/SP
+(실험에	(/SS+실험/NNG+에/JKB
+성공했더라도)	성공/NNG+하/XSV+았/EP+더라도/EC+)/SS
+실전용	실전/NNG+용/XSN
+ICBM을	ICBM/SL+을/JKO
+보유하기까지는	보유/NNG+하/XSV+기/ETN+까지/JX+는/JX
+2~3년	2/SN+~/SO+3/SN+년/NNB
+정도	정도/NNG
+걸릴	걸리/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,836 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.244
+metadata : {}
+
+
+# id : NWRW1800000026.244.1.1
+말하면 검색 결과 좌르르, 몇초 전 트위터 글까지 실시간으로 찾아…;인터넷 검색서비스 놀라운 진화
+
+말하면	말/NNG+하/XSV+면/EC
+검색	검색/NNG
+결과	결과/NNG
+좌르르,	좌르르/MAG+,/SP
+몇초	몇/NR+초/NNB
+전	전/NNG
+트위터	트위터/NNP
+글까지	글/NNG+까지/JX
+실시간으로	실시간/NNG+으로/JKB
+찾아…;인터넷	찾/VV+아/EC+…/SE+;/SP+인터넷/NNG
+검색서비스	검색/NNG+서비스/NNG
+놀라운	놀랍/VA+ㄴ/ETM
+진화	진화/NNG
+
+
+# id : NWRW1800000026.244.2.1
+김모씨가 인터넷을 켜고 검색 사이트에 로그인하자 화면 가득하게 그날의 검색 결과가 펼쳐진다.
+
+김모씨가	김/NNP+모/NP+씨/NNB+가/JKS
+인터넷을	인터넷/NNG+을/JKO
+켜고	켜/VV+고/EC
+검색	검색/NNG
+사이트에	사이트/NNG+에/JKB
+로그인하자	로그인/NNG+하/XSV+자/EC
+화면	화면/NNG
+가득하게	가득/MAG+하/XSA+게/EC
+그날의	그날/NNG+의/JKG
+결과가	결과/NNG+가/JKS
+펼쳐진다.	펼쳐지/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.2.2
+먼저 며칠 앞으로 다가온 아내의 생일이 화면 맨 위에 떠 있다.
+
+먼저	먼저/MAG
+며칠	며칠/NNG
+앞으로	앞/NNG+으로/JKB
+다가온	다가오/VV+ㄴ/ETM
+아내의	아내/NNG+의/JKG
+생일이	생일/NNG+이/JKS
+화면	화면/NNG
+맨	맨/MMA
+위에	위/NNG+에/JKB
+떠	뜨/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.244.2.3
+컴퓨터 앞 마이크에 대고 "생일 선물"이라고 말하자 적당한 선물 목록이 펼쳐진다.
+
+컴퓨터	컴퓨터/NNG
+앞	앞/NNG
+마이크에	마이크/NNG+에/JKB
+대고	대/VV+고/EC
+"생일	"/SS+생일/NNG
+선물"이라고	선물/NNG+"/SS+이라고/JKQ
+말하자	말/NNG+하/XSV+자/EC
+적당한	적당하/VA+ㄴ/ETM
+선물	선물/NNG
+목록이	목록/NNG+이/JKS
+펼쳐진다.	펼쳐지/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.2.4
+가장 싼 가격으로 제품을 살 만한 인터넷 쇼핑몰은 물론 가장 가까운 제품 매장도 나온다.
+
+가장	가장/MAG
+싼	싸/VA+ㄴ/ETM
+가격으로	가격/NNG+으로/JKB
+제품을	제품/NNG+을/JKO
+살	사/VV+ㄹ/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+인터넷	인터넷/NNG
+쇼핑몰은	쇼핑몰/NNG+은/JX
+물론	물론/MAG
+가까운	가깝/VA+ㄴ/ETM
+제품	제품/NNG
+매장도	매장/NNG+도/JX
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.2.5
+심지어 몇 초 전 아내가 올린 트위터 메시지까지 검색해 아내의 취향을 보여주기도 한다.
+
+심지어	심지어/MAG
+몇	몇/NR
+초	초/NNB
+전	전/NNG
+아내가	아내/NNG+가/JKS
+올린	올리/VV+ㄴ/ETM
+트위터	트위터/NNP
+메시지까지	메시지/NNG+까지/JX
+검색해	검색/NNG+하/XSV+아/EC
+아내의	아내/NNG+의/JKG
+취향을	취향/NNG+을/JKO
+보여주기도	보이/VV+어/EC+주/VX+기/ETN+도/JX
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.3.1
+먼 미래의 이야기가 아니다.
+
+먼	멀/VA+ㄴ/ETM
+미래의	미래/NNG+의/JKG
+이야기가	이야기/NNG+가/JKC
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000026.244.3.2
+최근 인터넷 검색 서비스의 눈부신 진화는 이런 풍경을 곧 실현할 추세다.
+
+최근	최근/NNG
+인터넷	인터넷/NNG
+검색	검색/NNG
+서비스의	서비스/NNG+의/JKG
+눈부신	눈부시/VA+ㄴ/ETM
+진화는	진화/NNG+는/JX
+이런	이런/MMD
+풍경을	풍경/NNG+을/JKO
+곧	곧/MAG
+실현할	실현/NNG+하/XSV+ㄹ/ETM
+추세다.	추세/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.3.3
+과학뿐 아니라 언어학 등 인문학적 지식을 융합해 검색 서비스를 뒷받침하는 새로운 검색 시스템(검색 엔진)이 잇달아 개발되고 있기 때문이다.
+
+과학뿐	과학/NNG+뿐/JX
+아니라	아니/VCN+라/EC
+언어학	언어학/NNG
+등	등/NNB
+인문학적	인문학/NNG+적/XSN
+지식을	지식/NNG+을/JKO
+융합해	융합/NNG+하/XSV+아/EC
+검색	검색/NNG
+서비스를	서비스/NNG+를/JKO
+뒷받침하는	뒷받침/NNG+하/XSV+는/ETM
+새로운	새롭/VA+ㄴ/ETM
+시스템(검색	시스템/NNG+(/SS+검색/NNG
+엔진)이	엔진/NNG+)/SS+이/JKS
+잇달아	잇달/VV+아/EC
+개발되고	개발/NNG+되/XSV+고/EC
+있기	있/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.4.1
+◆내게 꼭 맞는 검색, 어떻게 찾나
+
+◆내게	◆/SW+나/NP+에게/JKB
+꼭	꼭/MAG
+맞는	맞/VV+는/ETM
+검색,	검색/NNG+,/SP
+어떻게	어떻/VA+게/EC
+찾나	찾/VV+나/EF
+
+
+# id : NWRW1800000026.244.5.1
+최근 검색업계의 흐름은 사용자의 '의도'를 파악하는 것이다.
+
+최근	최근/NNG
+검색업계의	검색/NNG+업계/NNG+의/JKG
+흐름은	흐름/NNG+은/JX
+사용자의	사용자/NNG+의/JKG
+'의도'를	'/SS+의도/NNG+'/SS+를/JKO
+파악하는	파악/NNG+하/XSV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.5.2
+구글의 검색 전문가 아밋 싱할(Singhal)은 최근 영국의 과학전문지 뉴사이언티스트와의 인터뷰를 통해 "사용자의 의도를 미리 파악해 검색결과를 내놓는 게 우리의 꿈"이라며 "그 단계를 '검색 없는 검색(searching without searching·SWS)'이라 부른다"고 말했다.
+
+구글의	구글/NNP+의/JKG
+검색	검색/NNG
+전문가	전문가/NNG
+아밋	아밋/NNP
+싱할(Singhal)은	싱할/NNP+(/SS+Singhal/SL+)/SS+은/JX
+최근	최근/NNG
+영국의	영국/NNP+의/JKG
+과학전문지	과학/NNG+전문지/NNG
+뉴사이언티스트와의	뉴사이언티스트/NNP+와/JKB+의/JKG
+인터뷰를	인터뷰/NNG+를/JKO
+통해	통하/VV+아/EC
+"사용자의	"/SS+사용자/NNG+의/JKG
+의도를	의도/NNG+를/JKO
+미리	미리/MAG
+파악해	파악/NNG+하/XSV+아/EC
+검색결과를	검색/NNG+결과/NNG+를/JKO
+내놓는	내놓/VV+는/ETM
+게	거/NNB+이/JKS
+우리의	우리/NP+의/JKG
+꿈"이라며	꿈/NNG+"/SS+이/VCP+라며/EC
+"그	"/SS+그/MMD
+단계를	단계/NNG+를/JKO
+'검색	'/SS+검색/NNG
+없는	없/VA+는/ETM
+검색(searching	검색/NNG+(/SS+searching/SL
+without	without/SL
+searching·SWS)'이라	searching/SL+·/SP+SWS/SL+)/SS+'/SS+이/VCP+라/EC
+부른다"고	부르/VV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.5.3
+이른바 '시맨틱(semantic) 검색'이라고도 한다.
+
+이른바	이른바/MAG
+'시맨틱(semantic)	'/SS+시맨틱/NNG+(/SS+semantic/SL+)/SS
+검색'이라고도	검색/NNG+'/SS+이/VCP+라고/EC+도/JX
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.6.1
+구글(Google)을 비롯해 검색엔진의 초기 원리는 매우 간단했다.
+
+구글(Google)을	구글/NNP+(/SS+Google/SL+)/SS+을/JKO
+비롯해	비롯하/VV+아/EC
+검색엔진의	검색/NNG+엔진/NNG+의/JKG
+초기	초기/NNG
+원리는	원리/NNG+는/JX
+매우	매우/MAG
+간단했다.	간단하/VA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.6.2
+입력된 검색어가 포함된 사이트를 찾고, 중요도에 따라 사이트를 순서대로 보여주기만 하면 됐다.
+
+입력된	입력/NNG+되/XSV+ㄴ/ETM
+검색어가	검색어/NNG+가/JKS
+포함된	포함/NNG+되/XSV+ㄴ/ETM
+사이트를	사이트/NNG+를/JKO
+찾고,	찾/VV+고/EC+,/SP
+중요도에	중요도/NNG+에/JKB
+따라	따르/VV+아/EC
+순서대로	순서/NNG+대로/JX
+보여주기만	보이/VV+어/EC+주/VX+기/ETN+만/JX
+하면	하/VX+면/EC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.6.3
+그러나 지금은 초기와는 비교도 하기 어려울 정도로 검색 기능이 진화하고 있다.
+
+그러나	그러나/MAJ
+지금은	지금/NNG+은/JX
+초기와는	초기/NNG+와/JKB+는/JX
+비교도	비교/NNG+도/JX
+하기	하/VV+기/ETN
+어려울	어렵/VA+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+검색	검색/NNG
+기능이	기능/NNG+이/JKS
+진화하고	진화/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.244.6.4
+검색업체들은 사용자가 입력한 검색어가 내포한 진정한 '의미'를 파악해 검색 결과를 보여주는 시스템 개발에 집중한다.
+
+검색업체들은	검색/NNG+업체/NNG+들/XSN+은/JX
+사용자가	사용자/NNG+가/JKS
+입력한	입력/NNG+하/XSV+ㄴ/ETM
+검색어가	검색어/NNG+가/JKS
+내포한	내포/NNG+하/XSV+ㄴ/ETM
+진정한	진정하/VA+ㄴ/ETM
+'의미'를	'/SS+의미/NNG+'/SS+를/JKO
+파악해	파악/NNG+하/XSV+아/EC
+검색	검색/NNG
+결과를	결과/NNG+를/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+시스템	시스템/NNG
+개발에	개발/NNG+에/JKB
+집중한다.	집중/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.7.1
+구글의 경우 200개 이상의 시스템(신호)을 초기 검색시스템에 추가했다.
+
+구글의	구글/NNP+의/JKG
+경우	경우/NNG
+200개	200/SN+개/NNB
+이상의	이상/NNG+의/JKG
+시스템(신호)을	시스템/NNG+(/SS+신호/NNG+)/SS+을/JKO
+초기	초기/NNG
+검색시스템에	검색/NNG+시스템/NNG+에/JKB
+추가했다.	추가/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.7.2
+대표적인 추가시스템은 동의어 처리 시스템, 단어 분절(Bi-gram breakage) 시스템, 어근 처리 시스템 등이다.
+
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+추가시스템은	추가/NNG+시스템/NNG+은/JX
+동의어	동의어/NNG
+처리	처리/NNG
+시스템,	시스템/NNG+,/SP
+단어	단어/NNG
+분절(Bi-gram	분절/NNG+(/SS+Bi/SL+-/SO+gram/SL
+breakage)	breakage/SL+)/SS
+어근	어근/NNG
+시스템	시스템/NNG
+등이다.	등/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.7.3
+언어학적 지식을 과학으로 연결시킨 게 대부분이다.
+
+언어학적	언어학/NNG+적/XSN
+지식을	지식/NNG+을/JKO
+과학으로	과학/NNG+으로/JKB
+연결시킨	연결/NNG+시키/XSV+ㄴ/ETM
+게	거/NNB+이/JKS
+대부분이다.	대/XPN+부분/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.8.1
+동의어 처리 시스템이란 사람들이 검색어를 입력하는 양상을 관찰해 특정 단어와 다른 단어 간의 관계를 기억하는 시스템이다.
+
+동의어	동의어/NNG
+처리	처리/NNG
+시스템이란	시스템/NNG+이/VCP+란/ETM
+사람들이	사람/NNG+들/XSN+이/JKS
+검색어를	검색어/NNG+를/JKO
+입력하는	입력/NNG+하/XSV+는/ETM
+양상을	양상/NNG+을/JKO
+관찰해	관찰/NNG+하/XSV+아/EC
+특정	특정/NNG
+단어와	단어/NNG+와/JC
+다른	다른/MMD
+단어	단어/NNG
+간의	간/NNB+의/JKG
+관계를	관계/NNG+를/JKO
+기억하는	기억/NNG+하/XSV+는/ETM
+시스템이다.	시스템/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.8.2
+예를 들어 'hot dog(핫도그)'라는 검색어는 실생활에서 'bread(빵)'나 'mustard(겨자)'라는 단어와 연관이 높고 'boiling puppy(끓는 강아지)' 같은 단어와는 연관이 낮다.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+'hot	'/SS+hot/SL
+dog(핫도그)'라는	dog/SL+(/SS+핫도그/NNG+)/SS+'/SS+이/VCP+라는/ETM
+검색어는	검색어/NNG+는/JX
+실생활에서	실생활/NNG+에서/JKB
+'bread(빵)'나	'/SS+bread/SL+(/SS+빵/NNG+)/SS+'/SS+나/JC
+'mustard(겨자)'라는	'/SS+mustard/SL+(/SS+겨자/NNG+)/SS+'/SS+이/VCP+라는/ETM
+단어와	단어/NNG+와/JKB
+연관이	연관/NNG+이/JKS
+높고	높/VA+고/EC
+'boiling	'/SS+boiling/SL
+puppy(끓는	puppy/SL+(/SS+끓/VV+는/ETM
+강아지)'	강아지/NNG+)/SS+'/SS
+같은	같/VA+은/ETM
+단어와는	단어/NNG+와/JKB+는/JX
+낮다.	낮/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.8.3
+이런 단어들의 연관관계를 사용자들이 검색할 때마다 기억해 시스템으로 구축하는 것이다.
+
+이런	이런/MMD
+단어들의	단어/NNG+들/XSN+의/JKG
+연관관계를	연관/NNG+관계/NNG+를/JKO
+사용자들이	사용자/NNG+들/XSN+이/JKS
+검색할	검색/NNG+하/XSV+ㄹ/ETM
+때마다	때/NNG+마다/JX
+기억해	기억/NNG+하/XSV+아/EC
+시스템으로	시스템/NNG+으로/JKB
+구축하는	구축/NNG+하/XSV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.8.4
+그 결과 'hot dog'를 검색하면 보신탕 사진을 보여주는 게 아니라 겨자 소스나 빵 사진이 나온다.
+
+그	그/MMD
+결과	결과/NNG
+'hot	'/SS+hot/SL
+dog'를	dog/SL+'/SS+를/JKO
+검색하면	검색/NNG+하/XSV+면/EC
+보신탕	보신탕/NNG
+사진을	사진/NNG+을/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+게	거/NNB+이/JKC
+아니라	아니/VCN+라/EC
+겨자	겨자/NNG
+소스나	소스/NNG+나/JC
+빵	빵/NNG
+사진이	사진/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.9.1
+단어 분절 시스템은 여러개의 단어 중 중요한 의미 요소를 가려내고 묶는 기술이다.
+
+단어	단어/NNG
+분절	분절/NNG
+시스템은	시스템/NNG+은/JX
+여러개의	여러/MMN+개/NNB+의/JKG
+중	중/NNB
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+의미	의미/NNG
+요소를	요소/NNG+를/JKO
+가려내고	가려내/VV+고/EC
+묶는	묶/VV+는/ETM
+기술이다.	기술/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.9.2
+예를 들어 사용자가 'New York Times(뉴욕타임스)' 'New York Times Square(뉴욕 타임스퀘어)' 등의 검색어를 입력한다고 하자.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+사용자가	사용자/NNG+가/JKS
+'New	'/SS+New/SL
+York	York/SL
+Times(뉴욕타임스)'	Times/SL+(/SS+뉴욕타임스/NNP+)/SS+'/SS
+Times	Times/SL
+Square(뉴욕	Square/SL+(/SS+뉴욕/NNP
+타임스퀘어)'	타임스퀘어/NNP+)/SS+'/SS
+등의	등/NNB+의/JKG
+검색어를	검색어/NNG+를/JKO
+입력한다고	입력/NNG+하/XSV+ㄴ다고/EC
+하자.	하/VV+자/EF+./SF
+
+
+# id : NWRW1800000026.244.9.3
+사용자의 입력 양상을 오랫동안 지켜보면 'New York'이라는 단어를 묶어서 의미로 파악해야 한다는 사실을 알 수 있다.
+
+사용자의	사용자/NNG+의/JKG
+입력	입력/NNG
+양상을	양상/NNG+을/JKO
+오랫동안	오랫동안/NNG
+지켜보면	지켜보/VV+면/EC
+'New	'/SS+New/SL
+York'이라는	York/SL+'/SS+이/VCP+라는/ETM
+단어를	단어/NNG+를/JKO
+묶어서	묶/VV+어서/EC
+의미로	의미/NNG+로/JKB
+파악해야	파악/NNG+하/XSV+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+사실을	사실/NNG+을/JKO
+알	알/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.9.4
+실제로 이런 시스템 구축을 위해 검색 업체들은 네티즌들을 대상으로 한 해에만 수천회의 실험을 벌인다.
+
+실제로	실제로/MAG
+이런	이런/MMD
+시스템	시스템/NNG
+구축을	구축/NNG+을/JKO
+위해	위하/VV+아/EC
+검색	검색/NNG
+업체들은	업체/NNG+들/XSN+은/JX
+네티즌들을	네티즌/NNG+들/XSN+을/JKO
+대상으로	대상/NNG+으로/JKB
+한	한/MMN
+해에만	해/NNB+에/JKB+만/JX
+수천회의	수천/NR+회/NNB+의/JKG
+실험을	실험/NNG+을/JKO
+벌인다.	벌이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.9.5
+이런 끊임없는 실험의 결과로 사용자의 진정한 의도를 파악해 검색결과를 보여주는 일이 점차 가능해지고 있다.
+
+이런	이런/MMD
+끊임없는	끊임없/VA+는/ETM
+실험의	실험/NNG+의/JKG
+결과로	결과/NNG+로/JKB
+사용자의	사용자/NNG+의/JKG
+진정한	진정하/VA+ㄴ/ETM
+의도를	의도/NNG+를/JKO
+파악해	파악/NNG+하/XSV+아/EC
+검색결과를	검색/NNG+결과/NNG+를/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+일이	일/NNG+이/JKS
+점차	점차/MAG
+가능해지고	가능/NNG+하/XSA+아/EC+지/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.244.10.1
+◆이제는 차세대 검색으로
+
+◆이제는	◆/SW+이제/NNG+는/JX
+차세대	차세대/NNG
+검색으로	검색/NNG+으로/JKB
+
+
+# id : NWRW1800000026.244.11.1
+음성 검색, 실시간 검색 등 아예 기존 검색과 차원이 다른 '차세대 검색' 개발도 최근 활발하다.
+
+음성	음성/NNG
+검색,	검색/NNG+,/SP
+실시간	실시간/NNG
+검색	검색/NNG
+등	등/NNB
+아예	아예/MAG
+기존	기존/NNG
+검색과	검색/NNG+과/JKB
+차원이	차원/NNG+이/JKS
+다른	다른/MMD
+'차세대	'/SS+차세대/NNG
+검색'	검색/NNG+'/SS
+개발도	개발/NNG+도/JX
+최근	최근/NNG
+활발하다.	활발하/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.11.2
+예를 들어 최근 네이버·다음·구글 등에서 내놓은 실시간 검색은 수초 전까지 뉴스·블로그·트위터 등에 올라온 다양한 인터넷 정보를 보여주는 서비스다.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+최근	최근/NNG
+네이버·다음·구글	네이버/NNP+·/SP+다음/NNP+·/SP+구글/NNP
+등에서	등/NNB+에서/JKB
+내놓은	내놓/VV+은/ETM
+실시간	실시간/NNG
+검색은	검색/NNG+은/JX
+수초	수/MMN+초/NNB
+전까지	전/NNG+까지/JX
+뉴스·블로그·트위터	뉴스/NNG+·/SP+블로그/NNG+·/SP+트위터/NNP
+등에	등/NNB+에/JKB
+올라온	올라오/VV+ㄴ/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+인터넷	인터넷/NNG
+정보를	정보/NNG+를/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+서비스다.	서비스/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.11.3
+수분에서 수십분 단위로 정보가 갱신되는 기존 인터넷 검색 서비스보다 훨씬 발 빠르다.
+
+수분에서	수/MMN+분/NNB+에서/JKB
+수십분	수십/NR+분/NNB
+단위로	단위/NNG+로/JKB
+정보가	정보/NNG+가/JKS
+갱신되는	갱신/NNG+되/XSV+는/ETM
+기존	기존/NNG
+인터넷	인터넷/NNG
+검색	검색/NNG
+서비스보다	서비스/NNG+보다/JKB
+훨씬	훨씬/MAG
+발	발/NNG
+빠르다.	빠르/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.12.1
+실시간 검색은 기존 검색과는 검색방식이 다르다.
+
+실시간	실시간/NNG
+검색은	검색/NNG+은/JX
+기존	기존/NNG
+검색과는	검색/NNG+과/JKB+는/JX
+검색방식이	검색/NNG+방식/NNG+이/JKS
+다르다.	다르/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.12.2
+방대한 인터넷상의 정보 중 사용자가 '빨리' 보고 싶어하는 정보를 가려내 제공해야 하기 때문이다.
+
+방대한	방대하/VA+ㄴ/ETM
+인터넷상의	인터넷/NNG+상/XSN+의/JKG
+정보	정보/NNG
+중	중/NNB
+사용자가	사용자/NNG+가/JKS
+'빨리'	'/SS+빨리/MAG+'/SS
+보고	보/VV+고/EC
+싶어하는	싶/VX+어/EC+하/VX+는/ETM
+정보를	정보/NNG+를/JKO
+가려내	가려내/VV+어/EC
+제공해야	제공/NNG+하/XSV+아야/EC
+하기	하/VX+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.13.1
+예를 들어 사용자가 'History of Renaissance(르네상스의 역사)'라는 검색어를 실시간 검색 서비스에 입력하면 블로그나 인터넷상에 올려진 문서 파일에서 결과를 찾는 게 적절하다.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+사용자가	사용자/NNG+가/JKS
+'History	'/SS+History/SL
+of	of/SL
+Renaissance(르네상스의	Renaissance/SL+(/SS+르네상스/NNG+의/JKG
+역사)'라는	역사/NNG+)/SS+'/SS+이/VCP+라는/ETM
+검색어를	검색어/NNG+를/JKO
+실시간	실시간/NNG
+검색	검색/NNG
+서비스에	서비스/NNG+에/JKB
+입력하면	입력/NNG+하/XSV+면/EC
+블로그나	블로그/NNG+나/JC
+인터넷상에	인터넷/NNG+상/XSN+에/JKB
+올려진	올리/VV+어/EC+지/VX+ㄴ/ETM
+문서	문서/NNG
+파일에서	파일/NNG+에서/JKB
+결과를	결과/NNG+를/JKO
+찾는	찾/VV+는/ETM
+게	거/NNB+이/JKS
+적절하다.	적절하/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.13.2
+급박한 주제가 아니기 때문이다.
+
+급박한	급박/NNG+하/XSA+ㄴ/ETM
+주제가	주제/NNG+가/JKC
+아니기	아니/VCN+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.13.3
+반면 'earthquake(지진)'라는 단어가 입력되면 뉴스나 트위터에서 찾은 검색결과가 사용자에게 더 먼저 보여진다.
+
+반면	반면/NNG
+'earthquake(지진)'라는	'/SS+earthquake/SL+(/SS+지진/NNG+)/SS+'/SS+이/VCP+라는/ETM
+단어가	단어/NNG+가/JKS
+입력되면	입력/NNG+되/XSV+면/EC
+뉴스나	뉴스/NNG+나/JC
+트위터에서	트위터/NNP+에서/JKB
+찾은	찾/VV+은/ETM
+검색결과가	검색/NNG+결과/NNG+가/JKS
+사용자에게	사용자/NNG+에게/JKB
+더	더/MAG
+먼저	먼저/MAG
+보여진다.	보이/VV+어/EC+지/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.244.13.4
+시간이 매우 중요한 주제이기 때문이다.
+
+시간이	시간/NNG+이/JKS
+매우	매우/MAG
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+주제이기	주제/NNG+이/VCP+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.13.5
+류한나 NHN 과장은 "단순히 검색결과를 많이 찾는 게 아니라 정보를 얼마나 만족도 높게 보여주느냐에서 경쟁력이 갈린다"고 말했다.
+
+류한나	류한나/NNP
+NHN	NHN/SL
+과장은	과장/NNG+은/JX
+"단순히	"/SS+단순히/MAG
+검색결과를	검색/NNG+결과/NNG+를/JKO
+많이	많이/MAG
+찾는	찾/VV+는/ETM
+게	거/NNB+이/JKC
+아니라	아니/VCN+라/EC
+정보를	정보/NNG+를/JKO
+얼마나	얼마나/MAG
+만족도	만족도/NNG
+높게	높/VA+게/EC
+보여주느냐에서	보이/VV+어/EC+주/VX+느냐/EF+에서/JKB
+경쟁력이	경쟁력/NNG+이/JKS
+갈린다"고	갈리/VV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.14.1
+구글, 다음 등이 선보인 음성 검색 서비스도 최근 주목을 받는다.
+
+구글,	구글/NNP+,/SP
+다음	다음/NNP
+등이	등/NNB+이/JKS
+선보인	선보이/VV+ㄴ/ETM
+음성	음성/NNG
+검색	검색/NNG
+서비스도	서비스/NNG+도/JX
+최근	최근/NNG
+주목을	주목/NNG+을/JKO
+받는다.	받/VV+는다/EF+./SF
+
+
+# id : NWRW1800000026.244.14.2
+음성 검색은 문자 검색보다 훨씬 복잡하다.
+
+음성	음성/NNG
+검색은	검색/NNG+은/JX
+문자	문자/NNG
+검색보다	검색/NNG+보다/JKB
+훨씬	훨씬/MAG
+복잡하다.	복잡하/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.244.14.3
+컴퓨터가 인식할 때 사투리, 억양, 띄어쓰기 등 보다 다양한 요소가 포함되기 때문이다.
+
+컴퓨터가	컴퓨터/NNG+가/JKS
+인식할	인식/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+사투리,	사투리/NNG+,/SP
+억양,	억양/NNG+,/SP
+띄어쓰기	띄어쓰기/NNG
+등	등/NNB
+보다	보다/MAG
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+요소가	요소/NNG+가/JKS
+포함되기	포함/NNG+되/XSV+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.15.1
+기술진들은 음성검색 특유의 시스템을 추가로 개발 중이다.
+
+기술진들은	기술진/NNG+들/XSN+은/JX
+음성검색	음성/NNG+검색/NNG
+특유의	특유/NNG+의/JKG
+시스템을	시스템/NNG+을/JKO
+추가로	추가/NNG+로/JKB
+개발	개발/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.15.2
+예를 들어 구글 기술진은 발음하는 단어가 너무 길다 싶으면 자동으로 끊어서 의미를 해석하는 시스템을 만들었다.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+구글	구글/NNP
+기술진은	기술진/NNG+은/JX
+발음하는	발음/NNG+하/XSV+는/ETM
+단어가	단어/NNG+가/JKS
+너무	너무/MAG
+길다	길/VA+다/EC
+싶으면	싶/VX+으면/EC
+자동으로	자동/NNG+으로/JKB
+끊어서	끊/VV+어서/EC
+의미를	의미/NNG+를/JKO
+해석하는	해석/NNG+하/XSV+는/ETM
+시스템을	시스템/NNG+을/JKO
+만들었다.	만들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.15.3
+원래 발음과 다르게 읽는 경우도 자동적으로 변환해 인식하도록 했다.
+
+원래	원래/NNG
+발음과	발음/NNG+과/JKB
+다르게	다르/VA+게/EC
+읽는	읽/VV+는/ETM
+경우도	경우/NNG+도/JX
+자동적으로	자동/NNG+적/XSN+으로/JKB
+변환해	변환/NNG+하/XSV+아/EC
+인식하도록	인식/NNG+하/XSV+도록/EC
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.15.4
+예를 들어 '2010'일 경우 '이천십', '이공일공' 등의 발음을 모두 '2010'으로 변환하도록 하는 식이다.
+
+예를	예/NNG+를/JKO
+들어	들/VV+어/EC
+'2010'일	'/SS+2010/SN+'/SS+이/VCP+ㄹ/ETM
+경우	경우/NNG
+'이천십',	'/SS+이천십/NR+'/SS+,/SP
+'이공일공'	'/SS+이/NR+공/NNG+일/NR+공/NNG+'/SS
+등의	등/NNB+의/JKG
+발음을	발음/NNG+을/JKO
+모두	모두/MAG
+'2010'으로	'/SS+2010/SN+'/SS+으로/JKB
+변환하도록	변환/NNG+하/XSV+도록/EC
+하는	하/VX+는/ETM
+식이다.	식/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.15.5
+또 '삼성 TV' 등 영문자와 한국어가 혼합된 경우 한국에서 관행적으로 읽는 발음을 표준 발음으로 인식하도록 했다.
+
+또	또/MAG
+'삼성	'/SS+삼성/NNP
+TV'	TV/SL+'/SS
+등	등/NNB
+영문자와	영문자/NNG+와/JC
+한국어가	한국어/NNP+가/JKS
+혼합된	혼합/NNG+되/XSV+ㄴ/ETM
+경우	경우/NNG
+한국에서	한국/NNP+에서/JKB
+관행적으로	관행/NNG+적/XSN+으로/JKB
+읽는	읽/VV+는/ETM
+발음을	발음/NNG+을/JKO
+표준	표준/NNG
+발음으로	발음/NNG+으로/JKB
+인식하도록	인식/NNG+하/XSV+도록/EC
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.244.16.1
+마이크 슈스터(Schuster) 구글 연구원은 "음성 검색 사용자는 일반 인터넷 검색 사용자와 검색하는 단어부터가 다르다"며 "더 많은 데이터를 축적해 빠르고 사용자 친화적인 서비스로 만들 계획"이라고 말했다.
+
+마이크	마이크/NNP
+슈스터(Schuster)	슈스터/NNP+(/SS+Schuster/SL+)/SS
+구글	구글/NNP
+연구원은	연구원/NNG+은/JX
+"음성	"/SS+음성/NNG
+검색	검색/NNG
+사용자는	사용자/NNG+는/JX
+일반	일반/NNG
+인터넷	인터넷/NNG
+사용자와	사용자/NNG+와/JKB
+검색하는	검색/NNG+하/XSV+는/ETM
+단어부터가	단어/NNG+부터/JX+가/JKS
+다르다"며	다르/VA+다/EF+"/SS+며/EC
+"더	"/SS+더/MAG
+많은	많/VA+은/ETM
+데이터를	데이터/NNG+를/JKO
+축적해	축적/NNG+하/XSV+아/EC
+빠르고	빠르/VA+고/EC
+사용자	사용자/NNG
+친화적인	친화/NNG+적/XSN+이/VCP+ㄴ/ETM
+서비스로	서비스/NNG+로/JKB
+만들	만들/VV+ㄹ/ETM
+계획"이라고	계획/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

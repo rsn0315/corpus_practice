@@ -1,0 +1,269 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.271
+metadata : {}
+
+
+# id : NWRW1800000054.271.1.1
+'빠른 발'로 만들어낸 사이클링 히트
+
+'빠른	'/SS+빠르/VA+ㄴ/ETM
+발'로	발/NNG+'/SS+로/JKB
+만들어낸	만들/VV+어/EC+내/VX+ㄴ/ETM
+사이클링	사이클링/NNG
+히트	히트/NNG
+
+
+# id : NWRW1800000054.271.2.1
+KIA 버나디나 역대 24번째 기록… 단타성 타구로 2루타 만들어내
+
+KIA	KIA/SL
+버나디나	버나디나/NNP
+역대	역대/NNG
+24번째	24/SN+번/NNB+째/XSN
+기록…	기록/NNG+…/SE
+단타성	단타/NNG+성/XSN
+타구로	타구/NNG+로/JKB
+2루타	2루타/NNG
+만들어내	만들/VV+어/EC+내/VX+어/EC
+
+
+# id : NWRW1800000054.271.3.1
+KIA의 외국인 타자 로저 버나디나(33·사진)가 3일 KT와의 홈 경기에서 KBO리그 올 시즌 3번째이자 역대 24번째 사이클링 히트(Hit for the Cycle·한 경기에서 단타·2루타·3루타·홈런을 모두 친 경우)를 기록했다.
+
+KIA의	KIA/SL+의/JKG
+외국인	외국인/NNG
+타자	타자/NNG
+로저	로저/NNP
+버나디나(33·사진)가	버나디나/NNP+(/SS+33/SN+·/SP+사진/NNG+)/SS+가/JKS
+3일	3/SN+일/NNB
+KT와의	KT/SL+와/JKB+의/JKG
+홈	홈/NNG
+경기에서	경기/NNG+에서/JKB
+KBO리그	KBO/SL+리그/NNG
+올	올/NNG
+시즌	시즌/NNG
+3번째이자	3/SN+번/NNB+째/XSN+이/VCP+자/EC
+역대	역대/NNG
+24번째	24/SN+번/NNB+째/XSN
+사이클링	사이클링/NNG
+히트(Hit	히트/NNG+(/SS+Hit/SL
+for	for/SL
+the	the/SL
+Cycle·한	Cycle/SL+·/SP+한/MMN
+단타·2루타·3루타·홈런을	단타/NNG+·/SP+2루타/NNG+·/SP+3루타/NNG+·/SP+홈런/NNG+을/JKO
+모두	모두/MAG
+친	치/VV+ㄴ/ETM
+경우)를	경우/NNG+)/SS+를/JKO
+기록했다.	기록/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.3.2
+외국인 선수로는 매니 마르티네스(2001년·삼성)와 에릭 테임즈(2015년·2회·NC)에 이어 역대 3번째이다.
+
+외국인	외국인/NNG
+선수로는	선수/NNG+로/JKB+는/JX
+매니	매니/NNP
+마르티네스(2001년·삼성)와	마르티네스/NNP+(/SS+2001/SN+년/NNB+·/SP+삼성/NNP+)/SS+와/JC
+에릭	에릭/NNP
+테임즈(2015년·2회·NC)에	테임즈/NNP+(/SS+2015/SN+년/NNB+·/SP+2/SN+회/NNB+·/SP+NC/SL+)/SS+에/JKB
+이어	잇/VV+어/EC
+역대	역대/NNG
+3번째이다.	3/SN+번/NNB+째/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.4.1
+3번 타자 겸 중견수로 선발 출장한 그는 1회말 첫 타석에서 우익수 오른쪽 깊숙이 떨어지는 3루타로 산뜻하게 출발했다.
+
+3번	3/SN+번/NNB
+타자	타자/NNG
+겸	겸/NNB
+중견수로	중견수/NNG+로/JKB
+선발	선발/NNG
+출장한	출장/NNG+하/XSV+ㄴ/ETM
+그는	그/NP+는/JX
+1회말	1/SN+회/NNB+말/NNB
+첫	첫/MMN
+타석에서	타석/NNG+에서/JKB
+우익수	우익수/NNG
+오른쪽	오른쪽/NNG
+깊숙이	깊숙이/MAG
+떨어지는	떨어지/VV+는/ETM
+3루타로	3루타/NNG+로/JKB
+산뜻하게	산뜻/MAG+하/XSA+게/EC
+출발했다.	출발/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.4.2
+3회말엔 중견수 쪽 짧은 타구 때 전력으로 2루까지 달려 가까스로 세이프 판정을 받았고, 5회말 단타로 출루했다.
+
+3회말엔	3/SN+회/NNB+말/NNB+에/JKB+ㄴ/JX
+중견수	중견수/NNG
+쪽	쪽/NNB
+짧은	짧/VA+은/ETM
+타구	타구/NNG
+때	때/NNG
+전력으로	전력/NNG+으로/JKB
+2루까지	2루/NNG+까지/JX
+달려	달리/VV+어/EC
+가까스로	가까스로/MAG
+세이프	세이프/NNG
+판정을	판정/NNG+을/JKO
+받았고,	받/VV+았/EP+고/EC+,/SP
+5회말	5/SN+회/NNB+말/NNB
+단타로	단타/NNG+로/JKB
+출루했다.	출루/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.4.3
+그는 8회말 마지막 타석에서 오른쪽 담장을 훌쩍 넘기는 솔로포(시즌 19호)로 진기록을 완성했다.
+
+그는	그/NP+는/JX
+8회말	8/SN+회/NNB+말/NNB
+마지막	마지막/NNG
+타석에서	타석/NNG+에서/JKB
+오른쪽	오른쪽/NNG
+담장을	담장/NNG+을/JKO
+훌쩍	훌쩍/MAG
+넘기는	넘기/VV+는/ETM
+솔로포(시즌	솔로포/NNG+(/SS+시즌/NNG
+19호)로	19/SN+호/NNB+)/SS+로/JKB
+진기록을	진기록/NNG+을/JKO
+완성했다.	완성/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.5.1
+시즌 초반 '버려지나'로 불릴 만큼 부진했던 그는 이날 4타수 4안타 1사구(死球) 2타점으로, 팀의 9대3 승리를 이끄는 공격 첨병 역할을 했다.
+
+시즌	시즌/NNG
+초반	초반/NNG
+'버려지나'로	'/SS+버려지/VV+나/EF+'/SS+로/JKB
+불릴	불리/VV+ㄹ/ETM
+만큼	만큼/NNB
+부진했던	부진/NNG+하/XSA+았/EP+던/ETM
+그는	그/NP+는/JX
+이날	이날/NNG
+4타수	4/SN+타수/NNG
+4안타	4/SN+안타/NNG
+1사구(死球)	1/SN+사구/NNG+(/SS+死球/SH+)/SS
+2타점으로,	2/SN+타점/NNG+으로/JKB+,/SP
+팀의	팀/NNG+의/JKG
+9대3	9/SN+대/NNB+3/SN
+승리를	승리/NNG+를/JKO
+이끄는	이끌/VV+는/ETM
+공격	공격/NNG
+첨병	첨병/NNG
+역할을	역할/NNG+을/JKO
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.5.2
+딱 두 달 전(6월 3일) 0.273에 그쳤던 시즌 타율이 어느새 0.320까지 올랐다.
+
+딱	딱/MAG
+두	두/MMN
+달	달/NNB
+전(6월	전/NNG+(/SS+6/SN+월/NNB
+3일)	3/SN+일/NNB+)/SS
+0.273에	0/SN+./SP+273/SN+에/JKB
+그쳤던	그치/VV+었/EP+던/ETM
+시즌	시즌/NNG
+타율이	타율/NNG+이/JKS
+어느새	어느새/MAG
+0.320까지	0/SN+./SP+320/SN+까지/JX
+올랐다.	오르/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.5.3
+그는 '호타준족'의 상징인 '20홈런-20도루' 달성에 홈런 1개만을 남겼다.
+
+그는	그/NP+는/JX
+'호타준족'의	'/SS+호타준족/NNG+'/SS+의/JKG
+상징인	상징/NNG+이/VCP+ㄴ/ETM
+'20홈런-20도루'	'/SS+20/SN+홈런/NNG+-/SO+20/SN+도루/NNG+'/SS
+달성에	달성/NNG+에/JKB
+홈런	홈런/NNG
+1개만을	1/SN+개/NNB+만/JX+을/JKO
+남겼다.	남기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.5.4
+도루는 이미 21개를 성공했다.
+
+도루는	도루/NNG+는/JX
+이미	이미/MAG
+21개를	21/SN+개/NNB+를/JKO
+성공했다.	성공/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.6.1
+KIA 에이스 양현종(29)은 6이닝 7피안타 3실점으로 시즌 15승째를 따냈다.
+
+KIA	KIA/SL
+에이스	에이스/NNG
+양현종(29)은	양현종/NNP+(/SS+29/SN+)/SS+은/JX
+6이닝	6/SN+이닝/NNG
+7피안타	7/SN+피/XPN+안타/NNG
+3실점으로	3/SN+실점/NNG+으로/JKB
+시즌	시즌/NNG
+15승째를	15/SN+승/NNB+째/XSN+를/JKO
+따냈다.	따내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.6.2
+팀 동료 헥터 노에시(15승1패)와 함께 다승 공동 선두다.
+
+팀	팀/NNG
+동료	동료/NNG
+헥터	헥터/NNP
+노에시(15승1패)와	노에시/NNP+(/SS+15/SN+승/NNB+1/SN+패/NNB+)/SS+와/JKB
+함께	함께/MAG
+다승	다승/NNG
+공동	공동/NNG
+선두다.	선두/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.7.1
+3위 두산은 삼성을 14대4로 누르고 4연승 했다.
+
+3위	3/SN+위/NNB
+두산은	두산/NNP+은/JX
+삼성을	삼성/NNP+을/JKO
+14대4로	14/SN+대/NNB+4/SN+로/JKB
+누르고	누르/VV+고/EC
+4연승	4/SN+연승/NNG
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.7.2
+5위 LG는 롯데를 9대6, 넥센은 SK를 11대3으로 누르고 나란히 5연승을 달렸다.
+
+5위	5/SN+위/NNB
+LG는	LG/SL+는/JX
+롯데를	롯데/NNP+를/JKO
+9대6,	9/SN+대/NNB+6/SN+,/SP
+넥센은	넥센/NNP+은/JX
+SK를	SK/SL+를/JKO
+11대3으로	11/SN+대/NNB+3/SN+으로/JKB
+누르고	누르/VV+고/EC
+나란히	나란히/MAG
+5연승을	5/SN+연승/NNG+을/JKO
+달렸다.	달리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.271.7.3
+5위 넥센과 6위 SK의 게임 차는 4게임으로 벌어졌다.
+
+5위	5/SN+위/NNB
+넥센과	넥센/NNP+과/JKB
+6위	6/SN+위/NNB
+SK의	SK/SL+의/JKG
+게임	게임/NNG
+차는	차/NNG+는/JX
+4게임으로	4/SN+게임/NNG+으로/JKB
+벌어졌다.	벌어지/VV+었/EP+다/EF+./SF
+
+

@@ -1,0 +1,457 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.18
+metadata : {}
+
+
+# id : NWRW1800000045.18.1.1
+SKT, 사물인터넷 中시장 공략… 현지 브랜드 ‘롄유’ 선보여
+
+SKT,	SKT/SL+,/SP
+사물인터넷	사물/NNG+인터넷/NNG
+中시장	中/SH+시장/NNG
+공략…	공략/NNG+…/SE
+현지	현지/NNG
+브랜드	브랜드/NNG
+‘롄유’	‘/SS+롄유/NNP+’/SS
+선보여	선보이/VV+어/EC
+
+
+# id : NWRW1800000045.18.2.1
+MWC 상하이 2015
+
+MWC	MWC/SL
+상하이	상하이/NNP
+2015	2015/SN
+
+
+# id : NWRW1800000045.18.3.1
+SK텔레콤이 중국어로 ‘특별한 연결(聯尤·롄유)’이라는 뜻을 가진 스마트 기기 브랜드를 앞세워 중국 시장 공략에 나선다.
+
+SK텔레콤이	SK텔레콤/NNP+이/JKS
+중국어로	중국어/NNP+로/JKB
+‘특별한	‘/SS+특별/NNG+하/XSA+ㄴ/ETM
+연결(聯尤·롄유)’이라는	연결/NNG+(/SS+聯尤/SH+·/SP+롄유/NNP+)/SS+’/SS+이/VCP+라는/ETM
+뜻을	뜻/NNG+을/JKO
+가진	가지/VV+ㄴ/ETM
+스마트	스마트/NNG
+기기	기기/NNG
+브랜드를	브랜드/NNG+를/JKO
+앞세워	앞세우/VV+어/EC
+중국	중국/NNP
+시장	시장/NNG
+공략에	공략/NNG+에/JKB
+나선다.	나서/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.18.3.2
+SK텔레콤이 새 중국어 브랜드까지 만든 것은 모든 것이 연결되는 사물인터넷(IoT) 기기 보급을 통해 IoT 서비스 플랫폼 기업으로 도약하겠다는 의지를 반영한 것이라는 분석이 나온다.
+
+SK텔레콤이	SK텔레콤/NNP+이/JKS
+새	새/MMA
+중국어	중국어/NNP
+브랜드까지	브랜드/NNG+까지/JX
+만든	만들/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+모든	모든/MMN
+것이	것/NNB+이/JKS
+연결되는	연결/NNG+되/XSV+는/ETM
+사물인터넷(IoT)	사물/NNG+인터넷/NNG+(/SS+IoT/SL+)/SS
+기기	기기/NNG
+보급을	보급/NNG+을/JKO
+통해	통하/VV+아/EC
+IoT	IoT/SL
+서비스	서비스/NNG
+플랫폼	플랫폼/NNG
+기업으로	기업/NNG+으로/JKB
+도약하겠다는	도약/NNG+하/XSV+겠/EP+다는/ETM
+의지를	의지/NNG+를/JKO
+반영한	반영/NNG+하/XSV+ㄴ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+분석이	분석/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.18.4.1
+SK텔레콤은 15일 중국 상하이(上海)에서 열린 아시아 최대 이동통신 박람회 ‘모바일 월드 콩그레스(MWC) 상하이 2015’에서 중국어 ‘라이프웨어(Lifeware)’ 제품 브랜드인 롄유를 공개했다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+15일	15/SN+일/NNB
+중국	중국/NNP
+상하이(上海)에서	상하이/NNP+(/SS+上海/SH+)/SS+에서/JKB
+열린	열리/VV+ㄴ/ETM
+아시아	아시아/NNP
+최대	최대/NNG
+이동통신	이동/NNG+통신/NNG
+박람회	박람회/NNG
+‘모바일	‘/SS+모바일/NNG
+월드	월드/NNG
+콩그레스(MWC)	콩그레스/NNG+(/SS+MWC/SL+)/SS
+상하이	상하이/NNP
+2015’에서	2015/SN+’/SS+에서/JKB
+중국어	중국어/NNP
+‘라이프웨어(Lifeware)’	‘/SS+라이프/NNG+웨어/NNG+(/SS+Lifeware/SL+)/SS+’/SS
+제품	제품/NNG
+브랜드인	브랜드/NNG+이/VCP+ㄴ/ETM
+롄유를	롄유/NNP+를/JKO
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.4.2
+라이프웨어는 일상생활을 뜻하는 라이프(Life)와 하드웨어·소프트웨어의 웨어(Ware)를 합친 신조어로 이용자의 삶에 새로운 가치를 더해 주는 스마트 기기를 뜻한다.
+
+라이프웨어는	라이프/NNG+웨어/NNG+는/JX
+일상생활을	일상생활/NNG+을/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+라이프(Life)와	라이프/NNG+(/SS+Life/SL+)/SS+와/JC
+하드웨어·소프트웨어의	하드웨어/NNG+·/SP+소프트웨어/NNG+의/JKG
+웨어(Ware)를	웨어/NNG+(/SS+Ware/SL+)/SS+를/JKO
+합친	합치/VV+ㄴ/ETM
+신조어로	신조어/NNG+로/JKB
+이용자의	이용자/NNG+의/JKG
+삶에	삶/NNG+에/JKB
+새로운	새롭/VA+ㄴ/ETM
+가치를	가치/NNG+를/JKO
+더해	더/MAG+하/XSV+아/EC
+주는	주/VX+는/ETM
+스마트	스마트/NNG
+기기를	기기/NNG+를/JKO
+뜻한다.	뜻/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.18.4.3
+한국에서는 ‘연결된 사물’이라는 의미의 브랜드 UO(United Object)로 알려져 있다.
+
+한국에서는	한국/NNP+에서/JKB+는/JX
+‘연결된	‘/SS+연결/NNG+되/XSV+ㄴ/ETM
+사물’이라는	사물/NNG+’/SS+이/VCP+라는/ETM
+의미의	의미/NNG+의/JKG
+브랜드	브랜드/NNG
+UO(United	UO/SL+(/SS+United/SL
+Object)로	Object/SL+)/SS+로/JKB
+알려져	알려지/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.18.5.1
+SK텔레콤 관계자는 “중국어 브랜드를 만든 것은 중국 소비자들에게 더 친근하게 다가가기 위한 전략”이라며 “우선 초소형 빔 프로젝터인 ‘UO스마트빔 레이저’부터 시작해 제품을 점차 늘려 나갈 것”이라고 설명했다.
+
+SK텔레콤	SK텔레콤/NNP
+관계자는	관계자/NNG+는/JX
+“중국어	“/SS+중국어/NNP
+브랜드를	브랜드/NNG+를/JKO
+만든	만들/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+중국	중국/NNP
+소비자들에게	소비자/NNG+들/XSN+에게/JKB
+더	더/MAG
+친근하게	친근하/VA+게/EC
+다가가기	다가가/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+전략”이라며	전략/NNG+”/SS+이/VCP+라며/EC
+“우선	“/SS+우선/MAG
+초소형	초/XPN+소형/NNG
+빔	빔/NNG
+프로젝터인	프로젝터/NNG+이/VCP+ㄴ/ETM
+‘UO스마트빔	‘/SS+UO스마트빔/NNP
+레이저’부터	레이저/NNG+’/SS+부터/JX
+시작해	시작/NNG+하/XSV+아/EC
+제품을	제품/NNG+을/JKO
+점차	점차/MAG
+늘려	늘리/VV+어/EC
+나갈	나가/VX+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.5.2
+SK텔레콤은 이날 중국 내 애플 프리미엄 유통사인 드래건스타와 매장 내 UO스마트빔 레이저의 전시 및 판매 대행을 주 내용으로 하는 계약도 체결했다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+이날	이날/NNG
+중국	중국/NNP
+내	내/NNB
+애플	애플/NNP
+프리미엄	프리미엄/NNG
+유통사인	유통사/NNG+이/VCP+ㄴ/ETM
+드래건스타와	드래건스타/NNP+와/JC
+매장	매장/NNG
+UO스마트빔	UO스마트빔/NNP
+레이저의	레이저/NNG+의/JKG
+전시	전시/NNG
+및	및/MAG
+판매	판매/NNG
+대행을	대행/NNG+을/JKO
+주	주/MMA
+내용으로	내용/NNG+으로/JKB
+하는	하/VV+는/ETM
+계약도	계약/NNG+도/JX
+체결했다.	체결/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.5.3
+SK텔레콤은 드래건스타가 중국 내 인지도가 높고 프리미엄 제품 중심으로 판매하고 있기 때문에 롄유라는 브랜드를 알리는 데 큰 도움이 될 것으로 기대하고 있다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+드래건스타가	드래건스타/NNP+가/JKS
+중국	중국/NNP
+내	내/NNB
+인지도가	인지도/NNG+가/JKS
+높고	높/VA+고/EC
+프리미엄	프리미엄/NNG
+제품	제품/NNG
+중심으로	중심/NNG+으로/JKB
+판매하고	판매/NNG+하/XSV+고/EC
+있기	있/VX+기/ETN
+때문에	때문/NNB+에/JKB
+롄유라는	롄유/NNP+이/VCP+라는/ETM
+브랜드를	브랜드/NNG+를/JKO
+알리는	알리/VV+는/ETM
+데	데/NNB
+큰	크/VA+ㄴ/ETM
+도움이	도움/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+기대하고	기대/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.18.6.1
+SK텔레콤은 또 중국전자상회와 포괄적 협력에 대한 양해각서(MOU)도 체결하고 롄유 브랜드 제품의 마케팅 지원 및 홍보 등 다양한 협력 방안을 모색하기로 했다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+또	또/MAG
+중국전자상회와	중국전자상회/NNP+와/JKB
+포괄적	포괄/NNG+적/XSN
+협력에	협력/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+양해각서(MOU)도	양해/NNG+각서/NNG+(/SS+MOU/SL+)/SS+도/JX
+체결하고	체결/NNG+하/XSV+고/EC
+롄유	롄유/NNP
+브랜드	브랜드/NNG
+제품의	제품/NNG+의/JKG
+마케팅	마케팅/NNG
+지원	지원/NNG
+및	및/MAG
+홍보	홍보/NNG
+등	등/NNB
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+협력	협력/NNG
+방안을	방안/NNG+을/JKO
+모색하기로	모색/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.6.2
+중국전자상회는 1988년 설립된 중국 정부 공업정보화부 산하 전자제조회사 및 유통회사의 연합 단체다.
+
+중국전자상회는	중국전자상회/NNP+는/JX
+1988년	1988/SN+년/NNB
+설립된	설립/NNG+되/XSV+ㄴ/ETM
+중국	중국/NNP
+정부	정부/NNG
+공업정보화부	공업/NNG+정보/NNG+화/XSN+부/NNG
+산하	산하/NNG
+전자제조회사	전자/NNG+제조/NNG+회사/NNG
+및	및/MAG
+유통회사의	유통/NNG+회사/NNG+의/JKG
+연합	연합/NNG
+단체다.	단체/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.6.3
+중국 내 전자제조사 및 유통회사 4000곳이 가입해 있다.
+
+중국	중국/NNP
+내	내/NNB
+전자제조사	전자/NNG+제조사/NNG
+및	및/MAG
+유통회사	유통/NNG+회사/NNG
+4000곳이	4000/SN+곳/NNG+이/JKS
+가입해	가입/NNG+하/XSV+아/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.18.7.1
+이번 MWC 상하이 2015에서 SK텔레콤이 공격적인 행보를 보이는 것은 장동현 사장이 4월 “SK텔레콤은 플랫폼 기업”이라고 선언한 것과 무관하지 않다.
+
+이번	이번/NNG
+MWC	MWC/SL
+상하이	상하이/NNP
+2015에서	2015/SN+에서/JKB
+SK텔레콤이	SK텔레콤/NNP+이/JKS
+공격적인	공격/NNG+적/XSN+이/VCP+ㄴ/ETM
+행보를	행보/NNG+를/JKO
+보이는	보이/VV+는/ETM
+것은	것/NNB+은/JX
+장동현	장동현/NNP
+사장이	사장/NNG+이/JKS
+4월	4/SN+월/NNB
+“SK텔레콤은	“/SS+SK텔레콤/NNP+은/JX
+플랫폼	플랫폼/NNG
+기업”이라고	기업/NNG+”/SS+이라고/JKQ
+선언한	선언/NNG+하/XSV+ㄴ/ETM
+것과	것/NNB+과/JKB
+무관하지	무관하/VA+지/EC
+않다.	않/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.18.7.2
+장 사장은 올해 초 취임한 뒤 SK텔레콤을 플랫폼 기업으로 바꾸기 위한 각종 방안을 내놓고 있다.
+
+장	장/NNP
+사장은	사장/NNG+은/JX
+올해	올해/NNG
+초	초/NNB
+취임한	취임/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+SK텔레콤을	SK텔레콤/NNP+을/JKO
+플랫폼	플랫폼/NNG
+기업으로	기업/NNG+으로/JKB
+바꾸기	바꾸/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+각종	각종/NNG
+방안을	방안/NNG+을/JKO
+내놓고	내놓/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.18.8.1
+5월에는 자체 개발한 개방형 스마트홈 플랫폼에 기반한 스마트홈 서비스를 상용화했다.
+
+5월에는	5/SN+월/NNB+에/JKB+는/JX
+자체	자체/NNG
+개발한	개발/NNG+하/XSV+ㄴ/ETM
+개방형	개방/NNG+형/XSN
+스마트홈	스마트홈/NNG
+플랫폼에	플랫폼/NNG+에/JKB
+기반한	기반/NNG+하/XSV+ㄴ/ETM
+서비스를	서비스/NNG+를/JKO
+상용화했다.	상용/NNG+화/XSN+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.8.2
+당시 위닉스, 아이레보 등 25개 이상의 업체와 파트너 관계를 맺고 가전과 비(非)가전을 아우르는 서비스를 제공했다.
+
+당시	당시/NNG
+위닉스,	위닉스/NNP+,/SP
+아이레보	아이레보/NNP
+등	등/NNB
+25개	25/SN+개/NNB
+이상의	이상/NNG+의/JKG
+업체와	업체/NNG+와/JKB
+파트너	파트너/NNG
+관계를	관계/NNG+를/JKO
+맺고	맺/VV+고/EC
+가전과	가전/NNG+과/JC
+비(非)가전을	비/XPN+(/SS+非/SH+)/SS+가전/NNG+을/JKO
+아우르는	아우르/VV+는/ETM
+서비스를	서비스/NNG+를/JKO
+제공했다.	제공/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.8.3
+SK텔레콤은 또 어린이 전용 폰인 T키즈, 반려견 건강 상태까지 측정해 주는 T펫 등 소비자들이 일상생활 전반에서 경험하지 못한 새로운 가치를 제공하는 ‘생활 가치 플랫폼’을 강화하기 위한 시도도 진행해 왔다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+또	또/MAG
+어린이	어린이/NNG
+전용	전용/NNG
+폰인	폰/NNG+이/VCP+ㄴ/ETM
+T키즈,	T키즈/NNP+,/SP
+반려견	반려견/NNG
+건강	건강/NNG
+상태까지	상태/NNG+까지/JX
+측정해	측정/NNG+하/XSV+아/EC
+주는	주/VX+는/ETM
+T펫	T펫/NNP
+등	등/NNB
+소비자들이	소비자/NNG+들/XSN+이/JKS
+일상생활	일상생활/NNG
+전반에서	전반/NNG+에서/JKB
+경험하지	경험/NNG+하/XSV+지/EC
+못한	못하/VX+ㄴ/ETM
+새로운	새롭/VA+ㄴ/ETM
+가치를	가치/NNG+를/JKO
+제공하는	제공/NNG+하/XSV+는/ETM
+‘생활	‘/SS+생활/NNG
+가치	가치/NNG
+플랫폼’을	플랫폼/NNG+’/SS+을/JKO
+강화하기	강화/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+시도도	시도/NNG+도/JX
+진행해	진행/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.8.4
+지난달에는 누구나 쉽게 IoT 서비스를 개발하고 실생활에 적용할 수 있도록 지원하는 통합형 IoT 플랫폼인 싱플러그(ThingPlug)를 개발자들에게 전면 공개했다.
+
+지난달에는	지난달/NNG+에/JKB+는/JX
+누구나	누구/NP+나/JX
+쉽게	쉽/VA+게/EC
+IoT	IoT/SL
+서비스를	서비스/NNG+를/JKO
+개발하고	개발/NNG+하/XSV+고/EC
+실생활에	실생활/NNG+에/JKB
+적용할	적용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+지원하는	지원/NNG+하/XSV+는/ETM
+통합형	통합/NNG+형/XSN
+플랫폼인	플랫폼/NNG+이/VCP+ㄴ/ETM
+싱플러그(ThingPlug)를	싱플러그/NNP+(/SS+ThingPlug/SL+)/SS+를/JKO
+개발자들에게	개발자/NNG+들/XSN+에게/JKB
+전면	전면/NNG
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.8.5
+SK텔레콤은 연말까지 조성 예정인 부산 스마트시티 실증 단지에도 싱플러그를 기반으로 한 IoT 플랫폼을 적용할 방침이다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+연말까지	연말/NNG+까지/JX
+조성	조성/NNG
+예정인	예정/NNG+이/VCP+ㄴ/ETM
+부산	부산/NNP
+스마트시티	스마트시티/NNG
+실증	실증/NNG
+단지에도	단지/NNG+에/JKB+도/JX
+싱플러그를	싱플러그/NNP+를/JKO
+기반으로	기반/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+IoT	IoT/SL
+플랫폼을	플랫폼/NNG+을/JKO
+적용할	적용/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.18.8.6
+장 사장은 “차세대 플랫폼 혁신을 통해 새로운 방식으로 새로운 성장을 이뤄 낼 수 있는 새 길을 개척하는 데 SK텔레콤이 앞장서야 한다”고 강조했다.
+
+장	장/NNP
+사장은	사장/NNG+은/JX
+“차세대	“/SS+차세대/NNG
+플랫폼	플랫폼/NNG
+혁신을	혁신/NNG+을/JKO
+통해	통하/VV+아/EC
+새로운	새롭/VA+ㄴ/ETM
+방식으로	방식/NNG+으로/JKB
+성장을	성장/NNG+을/JKO
+이뤄	이루/VV+어/EC
+낼	내/VX+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+새	새/MMA
+길을	길/NNG+을/JKO
+개척하는	개척/NNG+하/XSV+는/ETM
+데	데/NNB
+SK텔레콤이	SK텔레콤/NNP+이/JKS
+앞장서야	앞장서/VV+어야/EC
+한다”고	하/VX+ㄴ다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+

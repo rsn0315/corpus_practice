@@ -1,0 +1,127 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.35
+metadata : {}
+
+
+# id : NWRW1800000026.35.1.1
+李대통령, 印 '최대 국경일' 주빈으로 참석;딸·외손녀 동행 논란에 청와대 "인도서 요청"
+
+李대통령,	李/SH+대통령/NNG+,/SP
+印	印/SH
+'최대	'/SS+최대/NNG
+국경일'	국경일/NNG+'/SS
+주빈으로	주빈/NNG+으로/JKB
+참석;딸·외손녀	참석/NNG+;/SW+딸/NNG+·/SP+외손녀/NNG
+동행	동행/NNG
+논란에	논란/NNG+에/JKB
+청와대	청와대/NNP
+"인도서	"/SS+인도/NNP+서/JKS
+요청"	요청/NNG+"/SS
+
+
+# id : NWRW1800000026.35.2.1
+이명박 대통령은 26일 뉴델리에서 2시간 동안 퍼레이드 등이 펼쳐진 '공화국 선포기념일' 행사에 주빈(chief guest)으로 참석했다.
+
+이명박	이명박/NNP
+대통령은	대통령/NNG+은/JX
+26일	26/SN+일/NNB
+뉴델리에서	뉴델리/NNP+에서/JKB
+2시간	2/SN+시간/NNB
+동안	동안/NNG
+퍼레이드	퍼레이드/NNG
+등이	등/NNB+이/JKS
+펼쳐진	펼쳐지/VV+ㄴ/ETM
+'공화국	'/SS+공화국/NNG
+선포기념일'	선포/NNG+기념일/NNG+'/SS
+행사에	행사/NNG+에/JKB
+주빈(chief	주빈/NNG+(/SS+chief/SL
+guest)으로	guest/SL+)/SS+으로/JKB
+참석했다.	참석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.35.2.2
+인도는 최대 국경일인 이 행사에 매년 한 국가의 정상을 주빈으로 초청함으로써 해당국과의 전략적인 관계 강화 의지를 대내외에 표방한다고 청와대는 밝혔다.
+
+인도는	인도/NNP+는/JX
+최대	최대/NNG
+국경일인	국경일/NNG+이/VCP+ㄴ/ETM
+이	이/MMD
+행사에	행사/NNG+에/JKB
+매년	매년/MAG
+한	한/MMN
+국가의	국가/NNG+의/JKG
+정상을	정상/NNG+을/JKO
+주빈으로	주빈/NNG+으로/JKB
+초청함으로써	초청/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+해당국과의	해당국/NNG+과/JKB+의/JKG
+전략적인	전략/NNG+적/XSN+이/VCP+ㄴ/ETM
+관계	관계/NNG
+강화	강화/NNG
+의지를	의지/NNG+를/JKO
+대내외에	대내외/NNG+에/JKB
+표방한다고	표방/NNG+하/XSV+ㄴ다고/EC
+청와대는	청와대/NNP+는/JX
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.35.3.1
+인도 정부는 25일엔 마하트마 간디 묘소를 참배한 이 대통령에게 간디 서적 3권과 간디의 청동 흉상을 선물했다.
+
+인도	인도/NNP
+정부는	정부/NNG+는/JX
+25일엔	25/SN+일/NNB+에/JKB+ㄴ/JX
+마하트마	마하트마/NNP
+간디	간디/NNP
+묘소를	묘소/NNG+를/JKO
+참배한	참배/NNG+하/XSV+ㄴ/ETM
+이	이/NNP
+대통령에게	대통령/NNG+에게/JKB
+서적	서적/NNG
+3권과	3/SN+권/NNB+과/JC
+간디의	간디/NNP+의/JKG
+청동	청동/NNG
+흉상을	흉상/NNG+을/JKO
+선물했다.	선물/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.35.3.2
+청와대 홈페이지에 존경하는 인물로 도산 안창호 선생, 잭 웰치 전 GE 회장과 함께 간디를 꼽은 이 대통령은 최근 간디가 주장한 사회의 7대악(惡) 중 '도덕성 없는 상거래'를 언급하면서 "세계경제에 시사하는 바가 크다"고 말했다.
+
+청와대	청와대/NNP
+홈페이지에	홈페이지/NNG+에/JKB
+존경하는	존경/NNG+하/XSV+는/ETM
+인물로	인물/NNG+로/JKB
+도산	도산/NNP
+안창호	안창호/NNP
+선생,	선생/NNG+,/SP
+잭	잭/NNP
+웰치	웰치/NNP
+전	전/MMD
+GE	GE/SL
+회장과	회장/NNG+과/JKB
+함께	함께/MAG
+간디를	간디/NNP+를/JKO
+꼽은	꼽/VV+은/ETM
+이	이/NNP
+대통령은	대통령/NNG+은/JX
+최근	최근/MAG
+간디가	간디/NNP+가/JKS
+주장한	주장/NNG+하/XSV+ㄴ/ETM
+사회의	사회/NNG+의/JKG
+7대악(惡)	7/SN+대/NNG+악/NNG+(/SS+惡/SH+)/SS
+중	중/NNB
+'도덕성	'/SS+도덕/NNG+성/XSN
+없는	없/VA+는/ETM
+상거래'를	상거래/NNG+'/SS+를/JKO
+언급하면서	언급/NNG+하/XSV+면서/EC
+"세계경제에	"/SS+세계/NNG+경제/NNG+에/JKB
+시사하는	시사/NNG+하/XSV+는/ETM
+바가	바/NNB+가/JKS
+크다"고	크/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

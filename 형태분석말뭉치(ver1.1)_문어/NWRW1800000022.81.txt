@@ -1,0 +1,195 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.81
+metadata : {}
+
+
+# id : NWRW1800000022.81.1.1
+한국화학시험硏, 화순으로 옮겨온다
+
+한국화학시험硏,	한국화학시험硏/NNP+,/SP
+화순으로	화순/NNP+으로/JKB
+옮겨온다	옮기/VV+어/EC+오/VV+ㄴ다/EF
+
+
+# id : NWRW1800000022.81.2.1
+세계적 종합시험인증기관인 한국화학시험연구원(KTR)이 전남 화순으로 부분 이전한다.
+
+세계적	세계/NNG+적/XSN
+종합시험인증기관인	종합/NNG+시험/NNG+인증/NNG+기관/NNG+이/VCP+ㄴ/ETM
+한국화학시험연구원(KTR)이	한국화학시험연구원/NNP+(/SS+KTR/SL+)/SS+이/JKS
+전남	전남/NNP
+화순으로	화순/NNP+으로/JKB
+부분	부분/NNG
+이전한다.	이전/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.81.3.1
+전남도는 9일 오전 도청 정약용실에서 박준영 지사와 전완준 화순군수, 조기성 한국화학시험연구원장 등이 참석한 가운데 370억원 규모의 한국화학시험연구원 안전성평가본부 이전 설립을 위한 협약을 맺었다.
+
+전남도는	전남도/NNP+는/JX
+9일	9/SN+일/NNB
+오전	오전/NNG
+도청	도청/NNG
+정약용실에서	정약용실/NNG+에서/JKB
+박준영	박준영/NNP
+지사와	지사/NNG+와/JC
+전완준	전완준/NNP
+화순군수,	화순군수/NNG+,/SP
+조기성	조기성/NNP
+한국화학시험연구원장	한국/NNP+화학/NNG+시험/NNG+연구원장/NNG
+등이	등/NNB+이/JKS
+참석한	참석/NNG+하/XSV+ㄴ/ETM
+가운데	가운데/NNG
+370억원	370/SN+억/NR+원/NNB
+규모의	규모/NNG+의/JKG
+한국화학시험연구원	한국화학시험연구원/NNP
+안전성평가본부	안전/NNG+성/XSN+평가/NNG+본부/NNG
+이전	이전/NNG
+설립을	설립/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+협약을	협약/NNG+을/JKO
+맺었다.	맺/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.81.4.1
+한국화학시험연구원은 본원과 3개의 시험본부, 14개의 지원, 2개의 해외 지사에 340여명의 임직원이 일하는 기관으로 매년 2만5000여개의 기업이 이용하며, 연간 20만여건의 시험을 수행하는 국제적 공인시험기관이다.
+
+한국화학시험연구원은	한국화학시험연구원/NNP+은/JX
+본원과	본원/NNG+과/JC
+3개의	3/SN+개/NNB+의/JKG
+시험본부,	시험/NNG+본부/NNG+,/SP
+14개의	14/SN+개/NNB+의/JKG
+지원,	지원/NNG+,/SP
+2개의	2/SN+개/NNB+의/JKG
+해외	해외/NNG
+지사에	지사/NNG+에/JKB
+340여명의	340/SN+여/XSN+명/NNB+의/JKG
+임직원이	임직원/NNG+이/JKS
+일하는	일/NNG+하/XSV+는/ETM
+기관으로	기관/NNG+으로/JKB
+매년	매년/MAG
+2만5000여개의	2/SN+만/NR+5000/SN+여/XSN+개/NNB+의/JKG
+기업이	기업/NNG+이/JKS
+이용하며,	이용/NNG+하/XSV+며/EC+,/SP
+연간	연간/NNG
+20만여건의	20/SN+만/NR+여/XSN+건/NNB+의/JKG
+시험을	시험/NNG+을/JKO
+수행하는	수행/NNG+하/XSV+는/ETM
+국제적	국제/NNG+적/XSN
+공인시험기관이다.	공인/NNG+시험/NNG+기관/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.81.5.1
+전남 화순에 이전 설립하게 될 안전성평가본부는 환경분야·정밀화학분야·생물자원의 효능평가와 독성시험, 농약 잔류성 검사 등 수요가 매년 급증하고 있다.
+
+전남	전남/NNP
+화순에	화순/NNP+에/JKB
+이전	이전/NNG
+설립하게	설립/NNG+하/XSV+게/EC
+될	되/VV+ㄹ/ETM
+안전성평가본부는	안전/NNG+성/XSN+평가/NNG+본부/NNG+는/JX
+환경분야·정밀화학분야·생물자원의	환경/NNG+분야/NNG+·/SP+정밀/NNG+화학/NNG+분야/NNG+·/SP+생물/NNG+자원/NNG+의/JKG
+효능평가와	효능/NNG+평가/NNG+와/JC
+독성시험,	독성/NNG+시험/NNG+,/SP
+농약	농약/NNG
+잔류성	잔류/NNG+성/XSN
+검사	검사/NNG
+등	등/NNB
+수요가	수요/NNG+가/JKS
+매년	매년/MAG
+급증하고	급증/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.81.6.1
+국내 대표적인 시험평가인증기관 이전으로 전남에는 5년 내 관련 인력의 10%인 4000여명이 유입되고, 전남지역 이용 기업 수도 지난 2000년 2933개에서 2014년 7000여개로 증가할 것으로 도는 전망했다.
+
+국내	국내/NNG
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+시험평가인증기관	시험/NNG+평가/NNG+인증/NNG+기관/NNG
+이전으로	이전/NNG+으로/JKB
+전남에는	전남/NNP+에/JKB+는/JX
+5년	5/SN+년/NNB
+내	내/NNB
+관련	관련/NNG
+인력의	인력/NNG+의/JKG
+10%인	10/SN+%/SW+이/VCP+ㄴ/ETM
+4000여명이	4000/SN+여/XSN+명/NNB+이/JKS
+유입되고,	유입/NNG+되/XSV+고/EC+,/SP
+전남지역	전남지역/NNP
+이용	이용/NNG
+기업	기업/NNG
+수도	수/NNG+도/JX
+지난	지나/VV+ㄴ/ETM
+2000년	2000/SN+년/NNB
+2933개에서	2933/SN+개/NNB+에서/JKB
+2014년	2014/SN+년/NNB
+7000여개로	7000/SN+여/XSN+개/NNB+로/JKB
+증가할	증가/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+도는	도/NNG+는/JX
+전망했다.	전망/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.81.7.1
+전남도는 "식품·의약·해양·한방 등 생물산업에서 기능성 평가 및 안전성 검증에 대한 요구가 갈수록 늘어나는 현실에서, 시험분석 데이터 제공과 각종 생산품에 대한 시험 인증평가 등을 지원함으로써 기업 경쟁력 강화에 도움을 줄 것"이라고 기대했다.
+
+전남도는	전남도/NNP+는/JX
+"식품·의약·해양·한방	"/SS+식품/NNG+·/SP+의약/NNG+·/SP+해양/NNG+·/SP+한방/NNG
+등	등/NNB
+생물산업에서	생물/NNG+산업/NNG+에서/JKB
+기능성	기능/NNG+성/XSN
+평가	평가/NNG
+및	및/MAG
+안전성	안전/NNG+성/XSN
+검증에	검증/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+요구가	요구/NNG+가/JKS
+갈수록	갈수록/MAG
+늘어나는	늘어나/VV+는/ETM
+현실에서,	현실/NNG+에서/JKB+,/SP
+시험분석	시험/NNG+분석/NNG
+데이터	데이터/NNG
+제공과	제공/NNG+과/JKB
+각종	각종/NNG
+생산품에	생산품/NNG+에/JKB
+시험	시험/NNG
+인증평가	인증/NNG+평가/NNG
+등을	등/NNB+을/JKO
+지원함으로써	지원/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+기업	기업/NNG
+경쟁력	경쟁력/NNG
+강화에	강화/NNG+에/JKB
+도움을	도움/NNG+을/JKO
+줄	주/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+기대했다.	기대/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.81.8.1
+GLP(Good Laboratory Practice ·비임상시험관리기준)는 시험기관에서 수행하는 시험의 계획·실행·점검·기록과 보고되는 체계적인 과정 및 이와 관련된 전반적 사항을 정한 기준이다.
+
+GLP(Good	GLP/SL+(/SS+Good/SL
+Laboratory	Laboratory/SL
+Practice	Practice/SL
+·비임상시험관리기준)는	·/SP+비/XPN+임상/NNG+시험/NNG+관리/NNG+기준/NNG+)/SS+는/JX
+시험기관에서	시험/NNG+기관/NNG+에서/JKB
+수행하는	수행/NNG+하/XSV+는/ETM
+시험의	시험/NNG+의/JKG
+계획·실행·점검·기록과	계획/NNG+·/SP+실행/NNG+·/SP+점검/NNG+·/SP+기록/NNG+과/JKB
+보고되는	보고/NNG+되/XSV+는/ETM
+체계적인	체계/NNG+적/XSN+이/VCP+ㄴ/ETM
+과정	과정/NNG
+및	및/MAG
+이와	이/NP+와/JKB
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+전반적	전반/NNG+적/XSN
+사항을	사항/NNG+을/JKO
+정한	정하/VV+ㄴ/ETM
+기준이다.	기준/NNG+이/VCP+다/EF+./SF
+
+

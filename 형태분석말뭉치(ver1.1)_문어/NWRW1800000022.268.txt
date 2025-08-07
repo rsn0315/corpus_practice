@@ -1,0 +1,252 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.268
+metadata : {}
+
+
+# id : NWRW1800000022.268.1.1
+[도서] 주식회사 대한민국 이제 다시 시작이다
+
+[도서]	[/SS+도서/NNG+]/SS
+주식회사	주식회사/NNG
+대한민국	대한민국/NNP
+이제	이제/MAG
+다시	다시/MAG
+시작이다	시작/NNG+이/VCP+다/EF
+
+
+# id : NWRW1800000022.268.2.1
+● 삼정KPMG경제연구원 지음|원앤원북스|267쪽|1만3000원
+
+●	●/SW
+삼정KPMG경제연구원	삼정KPMG경제연구원/NNP
+지음|원앤원북스|267쪽|1만3000원	짓/VV+음/ETN+|/SW+원앤원북스/NNP+|/SW+267/SN+쪽/NNG+|/SW+1/SN+만/NR+3000/SN+원/NNB
+
+
+# id : NWRW1800000022.268.3.1
+굳이 경제전문가의 도움말이 없어도 한국 경제가 위험과 기회의 기로에 있다는 것은 알 수 있다.
+
+굳이	굳이/MAG
+경제전문가의	경제/NNG+전문가/NNG+의/JKG
+도움말이	도움말/NNG+이/JKS
+없어도	없/VA+어도/EC
+한국	한국/NNP
+경제가	경제/NNG+가/JKS
+위험과	위험/NNG+과/JC
+기회의	기회/NNG+의/JKG
+기로에	기로/NNG+에/JKB
+있다는	있/VA+다는/ETM
+것은	것/NNB+은/JX
+알	알/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.268.3.2
+문제는 2009년 현재 한국경제의 실상과 잠재력을 정확히 평가한 바탕 위에서 어디로 가야 하는지에 대한 합의가 분명치 않다는 점이다.
+
+문제는	문제/NNG+는/JX
+2009년	2009/SN+년/NNB
+현재	현재/MAG
+한국경제의	한국/NNP+경제/NNG+의/JKG
+실상과	실상/NNG+과/JC
+잠재력을	잠재력/NNG+을/JKO
+정확히	정확히/MAG
+평가한	평가/NNG+하/XSV+ㄴ/ETM
+바탕	바탕/NNG
+위에서	위/NNG+에서/JKB
+어디로	어디/NP+로/JKB
+가야	가/VV+아야/EC
+하는지에	하/VX+는지/EF+에/JKB
+대한	대하/VV+ㄴ/ETM
+합의가	합의/NNG+가/JKS
+분명치	분명/MAG+하/XSA+지/EC
+않다는	않/VX+다는/ETM
+점이다.	점/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.268.4.1
+적어도 이 책은 어떤 문제들을 해결할 때 한국 경제가 위험에서 벗어나 기회의 땅으로 접어들 수 있는지를 명료하게 제시한다.
+
+적어도	적어도/MAG
+이	이/MMD
+책은	책/NNG+은/JX
+어떤	어떤/MMD
+문제들을	문제/NNG+들/XSN+을/JKO
+해결할	해결/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+한국	한국/NNP
+경제가	경제/NNG+가/JKS
+위험에서	위험/NNG+에서/JKB
+벗어나	벗어나/VV+아/EC
+기회의	기회/NNG+의/JKG
+땅으로	땅/NNG+으로/JKB
+접어들	접어들/VV+ㄹ/ETM
+수	수/NNB
+있는지를	있/VA+는지/EF+를/JKO
+명료하게	명료하/VA+게/EC
+제시한다.	제시/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.268.4.2
+경제분석서임과 동시에 기업인들에게는 어디서 새로운 비즈니스의 기회를 찾아야 하는지, 일반인들에게는 한국경제를 바라보는 포인트가 무엇인지 등을 간략하면서도 깊이 있게 보여주는 한국경제 출구전략에 관한 핸드북이다.
+
+경제분석서임과	경제/NNG+분석서/NNG+이/VCP+ㅁ/ETN+과/JKB
+동시에	동시/NNG+에/JKB
+기업인들에게는	기업인/NNG+들/XSN+에게/JKB+는/JX
+어디서	어디/NP+서/JKB
+새로운	새롭/VA+ㄴ/ETM
+비즈니스의	비즈니스/NNG+의/JKG
+기회를	기회/NNG+를/JKO
+찾아야	찾/VV+아야/EC
+하는지,	하/VX+는지/EF+,/SP
+일반인들에게는	일반인/NNG+들/XSN+에게/JKB+는/JX
+한국경제를	한국/NNP+경제/NNG+를/JKO
+바라보는	바라보/VV+는/ETM
+포인트가	포인트/NNG+가/JKS
+무엇인지	무엇/NP+이/VCP+ㄴ지/EF
+등을	등/NNB+을/JKO
+간략하면서도	간략하/VA+면서/EC+도/JX
+깊이	깊이/NNG
+있게	있/VA+게/EC
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+한국경제	한국/NNP+경제/NNG
+출구전략에	출구/NNG+전략/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+핸드북이다.	핸드북/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.268.5.1
+저자들은 CHANGE, 즉 C(Crisis 위기), H(Help 구제금융 및 경기부양), A(Acquisition 국경 간 M&A), N(New Trade 신 국제통상환경), G(Green 녹색성장), E(Energy 에너지와 자원)라는 패러다임을 통해 한국경제의 나아갈 방향을 명확히 제시한다.
+
+저자들은	저자/NNG+들/XSN+은/JX
+CHANGE,	CHANGE/SL+,/SP
+즉	즉/MAG
+C(Crisis	C/SL+(/SS+Crisis/SL
+위기),	위기/NNG+)/SS+,/SP
+H(Help	H/SL+(/SS+Help/SL
+구제금융	구제/NNG+금융/NNG
+및	및/MAG
+경기부양),	경기/NNG+부양/NNG+)/SS+,/SP
+A(Acquisition	A/SL+(/SS+Acquisition/SL
+국경	국경/NNG
+간	간/NNB
+M&A),	M/SL+&/SW+A/SL+)/SS+,/SP
+N(New	N/SL+(/SS+New/SL
+Trade	Trade/SL
+신	신/XPN
+국제통상환경),	국제/NNG+통상/NNG+환경/NNG+)/SS+,/SP
+G(Green	G/SL+(/SS+Green/SL
+녹색성장),	녹색/NNG+성장/NNG+)/SS+,/SP
+E(Energy	E/SL+(/SS+Energy/SL
+에너지와	에너지/NNG+와/JC
+자원)라는	자원/NNG+)/SS+이/VCP+라는/ETM
+패러다임을	패러다임/NNG+을/JKO
+통해	통하/VV+아/EC
+한국경제의	한국/NNP+경제/NNG+의/JKG
+나아갈	나아가/VV+ㄹ/ETM
+방향을	방향/NNG+을/JKO
+명확히	명확히/MAG
+제시한다.	제시/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.268.5.2
+저자들은 우리가 우선 관심을 가져야 할 문제는 글로벌 경제위기로 인해 기업가치가 폭락한 선진국 기업 중 한국기업과 시너지 효과를 낼 수 있는 산업분야에 대한 전략적 투자라고 말한다.
+
+저자들은	저자/NNG+들/XSN+은/JX
+우리가	우리/NP+가/JKS
+우선	우선/MAG
+관심을	관심/NNG+을/JKO
+가져야	가지/VV+어야/EC
+할	하/VX+ㄹ/ETM
+문제는	문제/NNG+는/JX
+글로벌	글로벌/NNG
+경제위기로	경제/NNG+위기/NNG+로/JKB
+인해	인/NNG+하/XSV+아/EC
+기업가치가	기업/NNG+가치/NNG+가/JKS
+폭락한	폭락/NNG+하/XSV+ㄴ/ETM
+선진국	선진국/NNG
+기업	기업/NNG
+중	중/NNB
+한국기업과	한국/NNP+기업/NNG+과/JKB
+시너지	시너지/NNG
+효과를	효과/NNG+를/JKO
+낼	내/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+산업분야에	산업/NNG+분야/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+전략적	전략/NNG+적/XSN
+투자라고	투자/NNG+이/VCP+라고/EC
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.268.5.3
+구체적으로 말하면 금융 신기술 물류 건설 녹색성장 에너지자원 6개 분야다.
+
+구체적으로	구체/NNG+적/XSN+으로/JKB
+말하면	말/NNG+하/XSV+면/EC
+금융	금융/NNG
+신기술	신/XPN+기술/NNG
+물류	물류/NNG
+건설	건설/NNG
+녹색성장	녹색/NNG+성장/NNG
+에너지자원	에너지/NNG+자원/NNG
+6개	6/SN+개/NNB
+분야다.	분야/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.268.6.1
+저자들은 한국인들의 자신감을 믿는다.
+
+저자들은	저자/NNG+들/XSN+은/JX
+한국인들의	한국인/NNG+들/XSN+의/JKG
+자신감을	자신감/NNG+을/JKO
+믿는다.	믿/VV+는다/EF+./SF
+
+
+# id : NWRW1800000022.268.6.2
+급속한 경제발전 외에 외환위기의 성공적 극복 경험도 다른 나라 사람들은 갖지 못한 정신적 자산이다.
+
+급속한	급속/NNG+하/XSA+ㄴ/ETM
+경제발전	경제/NNG+발전/NNG
+외에	외/NNB+에/JKB
+외환위기의	외환/NNG+위기/NNG+의/JKG
+성공적	성공/NNG+적/XSN
+극복	극복/NNG
+경험도	경험/NNG+도/JX
+다른	다른/MMD
+나라	나라/NNG
+사람들은	사람/NNG+들/XSN+은/JX
+갖지	갖/VV+지/EC
+못한	못하/VX+ㄴ/ETM
+정신적	정신/NNG+적/XSN
+자산이다.	자산/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.268.6.3
+한국 경제의 현재와 미래를 점검하는 데 필수적인 책이다.
+
+한국	한국/NNP
+경제의	경제/NNG+의/JKG
+현재와	현재/NNG+와/JC
+미래를	미래/NNG+를/JKO
+점검하는	점검/NNG+하/XSV+는/ETM
+데	데/NNB
+필수적인	필수/NNG+적/XSN+이/VCP+ㄴ/ETM
+책이다.	책/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.268.6.4
+무엇보다 우리에게 자신감을 주는 책이다.
+
+무엇보다	무엇/NP+보다/JKB
+우리에게	우리/NP+에게/JKB
+자신감을	자신감/NNG+을/JKO
+주는	주/VV+는/ETM
+책이다.	책/NNG+이/VCP+다/EF+./SF
+
+

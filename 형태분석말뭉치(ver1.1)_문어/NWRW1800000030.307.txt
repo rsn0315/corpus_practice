@@ -1,0 +1,354 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.307
+metadata : {}
+
+
+# id : NWRW1800000030.307.1.1
+국토부·LH 합동 워크숍에서 무슨 일이… "보금자리주택 더 지어라" 정부 주문에 이지송 사장, 돌부처처럼 5시간 침묵
+
+국토부·LH	국토부/NNG+·/SP+LH/SL
+합동	합동/NNG
+워크숍에서	워크숍/NNG+에서/JKB
+무슨	무슨/MMD
+일이…	일/NNG+이/JKS+…/SE
+"보금자리주택	"/SS+보금자리/NNG+주택/NNG
+더	더/MAG
+지어라"	짓/VV+어라/EF+"/SS
+정부	정부/NNG
+주문에	주문/NNG+에/JKB
+이지송	이지송/NNP
+사장,	사장/NNG+,/SP
+돌부처처럼	돌부처/NNG+처럼/JKB
+5시간	5/SN+시간/NNB
+침묵	침묵/NNG
+
+
+# id : NWRW1800000030.307.2.1
+•정부 "20조 들여 16만호"… LH "9만호만…" 절충안
+
+•정부	•/SW+정부/NNG
+"20조	"/SS+20/SN+조/NR
+들여	들이/VV+어/EC
+16만호"…	16/SN+만/NR+호/NNB+"/SS+…/SE
+LH	LH/SL
+"9만호만…"	"/SS+9/SN+만/NR+호/NNB+만/JX+…/SE+"/SS
+절충안	절충안/NNG
+
+
+# id : NWRW1800000030.307.3.1
+지난 27일 경기도 성남 분당 LH 본사에서 열린 '국토해양부·LH(한국토지주택공사) 합동 워크숍'에는 국토해양부 정종환 장관과 정창수 1차관 등 국토부와 LH 고위 관계자 90여명이 참석했다.
+
+지난	지나/VV+ㄴ/ETM
+27일	27/SN+일/NNB
+경기도	경기도/NNP
+성남	성남/NNP
+분당	분당/NNP
+LH	LH/SL
+본사에서	본사/NNG+에서/JKB
+열린	열리/VV+ㄴ/ETM
+'국토해양부·LH(한국토지주택공사)	'/SS+국토/NNG+해양부/NNG+·/SP+LH/SL+(/SS+한국토지주택공사/NNP+)/SS
+합동	합동/NNG
+워크숍'에는	워크숍/NNG+'/SS+에/JKB+는/JX
+국토해양부	국토/NNG+해양부/NNG
+정종환	정종환/NNP
+장관과	장관/NNG+과/JC
+정창수	정창수/NNP
+1차관	1/SN+차관/NNG
+등	등/NNB
+국토부와	국토부/NNG+와/JC
+고위	고위/NNG
+관계자	관계자/NNG
+90여명이	90/SN+여/XSN+명/NNB+이/JKS
+참석했다.	참석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.3.2
+5시간 이어진 이 워크숍에선 부채만 125조원에 이르는 LH 경영 정상화 등 각종 현안이 논의됐으나 LH의 이지송 사장은 줄곧 눈을 감은 채 자리에 앉아 거의 한마디도 하지 않았다고 한다.
+
+5시간	5/SN+시간/NNB
+이어진	이어지/VV+ㄴ/ETM
+이	이/MMD
+워크숍에선	워크숍/NNG+에서/JKB+ㄴ/JX
+부채만	부채/NNG+만/JX
+125조원에	125/SN+조/NR+원/NNB+에/JKB
+이르는	이르/VV+는/ETM
+LH	LH/SL
+경영	경영/NNG
+정상화	정상/NNG+화/XSN
+등	등/NNB
+각종	각종/NNG
+현안이	현안/NNG+이/JKS
+논의됐으나	논의/NNG+되/XSV+었/EP+으나/EC
+LH의	LH/SL+의/JKG
+이지송	이지송/NNP
+사장은	사장/NNG+은/JX
+줄곧	줄곧/MAG
+눈을	눈/NNG+을/JKO
+감은	감/VV+은/ETM
+채	채/NNB
+자리에	자리/NNG+에/JKB
+앉아	앉/VV+아/EC
+거의	거의/MAG
+한마디도	한마디/NNG+도/JX
+하지	하/VV+지/EC
+않았다고	않/VX+았/EP+다고/EC
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.307.3.3
+한 참석자는 "가끔 눈을 떠 주위를 돌아볼 뿐 돌부처가 된 것 같았다"고 했다.
+
+한	한/MMN
+참석자는	참석자/NNG+는/JX
+"가끔	"/SS+가끔/MAG
+눈을	눈/NNG+을/JKO
+떠	뜨/VV+어/EC
+주위를	주위/NNG+를/JKO
+돌아볼	돌아보/VV+ㄹ/ETM
+뿐	뿐/NNB
+돌부처가	돌부처/NNG+가/JKC
+된	되/VV+ㄴ/ETM
+것	것/NNB
+같았다"고	같/VA+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.4.1
+이 사장의 침묵은 "전세난 해결을 위해 LH가 빚을 더 내 보금자리주택을 지어달라"는 국토부의 요구 때문이었다.
+
+이	이/NNP
+사장의	사장/NNG+의/JKG
+침묵은	침묵/NNG+은/JX
+"전세난	"/SS+전세난/NNG
+해결을	해결/NNG+을/JKO
+위해	위하/VV+아/EC
+LH가	LH/SL+가/JKS
+빚을	빚/NNG+을/JKO
+더	더/MAG
+내	내/VV+어/EC
+보금자리주택을	보금자리/NNG+주택/NNG+을/JKO
+지어달라"는	짓/VV+어/EC+달/VX+라/EF+"/SS+는/ETM
+국토부의	국토부/NNG+의/JKG
+요구	요구/NNG
+때문이었다.	때문/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.4.2
+올 들어 심각해진 전세난 대책을 찾고 있는 청와대와 정치권은 국토부에 싼 주택 공급을 늘리라고 압박하고 있다.
+
+올	올/NNG
+들어	들/VV+어/EC
+심각해진	심각하/VA+아/EC+지/VX+ㄴ/ETM
+전세난	전세난/NNG
+대책을	대책/NNG+을/JKO
+찾고	찾/VV+고/EC
+있는	있/VX+는/ETM
+청와대와	청와대/NNP+와/JC
+정치권은	정치/NNG+권/XSN+은/JX
+국토부에	국토부/NNG+에/JKB
+싼	싸/VA+ㄴ/ETM
+주택	주택/NNG
+공급을	공급/NNG+을/JKO
+늘리라고	늘리/VV+라고/EC
+압박하고	압박/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.307.4.3
+이날 국토부는 공기업인 LH가 싼 주택 공급에 앞장서달라고 주문했다.
+
+이날	이날/NNG
+국토부는	국토부/NNG+는/JX
+공기업인	공기업/NNG+이/VCP+ㄴ/ETM
+LH가	LH/SL+가/JKS
+싼	싸/VA+ㄴ/ETM
+주택	주택/NNG
+공급에	공급/NNG+에/JKB
+앞장서달라고	앞장서/VV+어/EC+달/VX+라고/EC
+주문했다.	주문/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.4.4
+국토부는 "올해 보금자리주택 건설 목표 21만호 중 약 80%인 16만7000호 정도를 LH가 맡아달라"며 "건설비 조달을 위해 정부의 LH에 대한 유동성 추가 지원과 LH 채권의 정부 보증 확대를 추진하겠다"고 말했다.
+
+국토부는	국토부/NNG+는/JX
+"올해	"/SS+올해/NNG
+보금자리주택	보금자리/NNG+주택/NNG
+건설	건설/NNG
+목표	목표/NNG
+21만호	21/SN+만/NR+호/NNB
+중	중/NNB
+약	약/MMA
+80%인	80/SN+%/SW+이/VCP+ㄴ/ETM
+16만7000호	16/SN+만/NR+7000/SN+호/NNB
+정도를	정도/NNG+를/JKO
+LH가	LH/SL+가/JKS
+맡아달라"며	맡/VV+아/EC+달/VX+라/EF+"/SS+며/EC
+"건설비	"/SS+건설비/NNG
+조달을	조달/NNG+을/JKO
+위해	위하/VV+아/EC
+정부의	정부/NNG+의/JKG
+LH에	LH/SL+에/JKB
+대한	대하/VV+ㄴ/ETM
+유동성	유동/NNG+성/XSN
+추가	추가/NNG
+지원과	지원/NNG+과/JC
+LH	LH/SL
+채권의	채권/NNG+의/JKG
+정부	정부/NNG
+보증	보증/NNG
+확대를	확대/NNG+를/JKO
+추진하겠다"고	추진/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.4.5
+16만7000호의 보금자리주택을 짓는 데는 20조원 정도가 든다.
+
+16만7000호의	16/SN+만/NR+7000/SN+호/NNB+의/JKG
+보금자리주택을	보금자리/NNG+주택/NNG+을/JKO
+짓는	짓/VV+는/ETM
+데는	데/NNB+는/JX
+20조원	20/SN+조/NR+원/NNB
+정도가	정도/NNG+가/JKS
+든다.	들/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.307.5.1
+LH는 과거 정부부터 시작된 세종시와 혁신도시 등의 개발사업으로 떠안은 빚이 125조원에 이르며 하루 이자만 약 100억원을 내고 있다.
+
+LH는	LH/SL+는/JX
+과거	과거/NNG
+정부부터	정부/NNG+부터/JX
+시작된	시작/NNG+되/XSV+ㄴ/ETM
+세종시와	세종시/NNP+와/JKB
+혁신도시	혁신/NNG+도시/NNG
+등의	등/NNB+의/JKG
+개발사업으로	개발/NNG+사업/NNG+으로/JKB
+떠안은	떠안/VV+은/ETM
+빚이	빚/NNG+이/JKS
+125조원에	125/SN+조/NR+원/NNB+에/JKB
+이르며	이르/VV+며/EC
+하루	하루/NNG
+이자만	이자/NNG+만/JX
+약	약/MMA
+100억원을	100/SN+억/NR+원/NNB+을/JKO
+내고	내/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.307.5.2
+정부는 이런 회사에다 공기업이란 이유로 20조원의 공사비를 더 부담해달라고 주문한 것이다.
+
+정부는	정부/NNG+는/JX
+이런	이런/MMD
+회사에다	회사/NNG+에다/JKB
+공기업이란	공기업/NNG+이/VCP+란/ETM
+이유로	이유/NNG+로/JKB
+20조원의	20/SN+조/NR+원/NNB+의/JKG
+공사비를	공사비/NNG+를/JKO
+더	더/MAG
+부담해달라고	부담/NNG+하/XSV+아/EC+달/VX+라고/EC
+주문한	주문/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.5.3
+국토부는 "재정난으로 힘든 것은 알지만 공기업인 LH가 좀 더 적극적으로 나서야 한다"고 주장했다.
+
+국토부는	국토부/NNG+는/JX
+"재정난으로	"/SS+재정난/NNG+으로/JKB
+힘든	힘들/VA+ㄴ/ETM
+것은	것/NNB+은/JX
+알지만	알/VV+지만/EC
+공기업인	공기업/NNG+이/VCP+ㄴ/ETM
+LH가	LH/SL+가/JKS
+좀	좀/MAG
+더	더/MAG
+적극적으로	적극/NNG+적/XSN+으로/JKB
+나서야	나서/VV+어야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.6.1
+지난 2009년 취임 후 LH 부채문제 해결을 위해 동분서주하고 있는 이 사장은 이런 국토부의 질문에 사실상 침묵으로 맞섰다는 것이다.
+
+지난	지나/VV+ㄴ/ETM
+2009년	2009/SN+년/NNB
+취임	취임/NNG
+후	후/NNG
+LH	LH/SL
+부채문제	부채/NNG+문제/NNG
+해결을	해결/NNG+을/JKO
+위해	위하/VV+아/EC
+동분서주하고	동분서주/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+이	이/NNP
+사장은	사장/NNG+은/JX
+이런	이런/MMD
+국토부의	국토부/NNG+의/JKG
+질문에	질문/NNG+에/JKB
+사실상	사실/NNG+상/XSN
+침묵으로	침묵/NNG+으로/JKB
+맞섰다는	맞서/VV+었/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.6.2
+그러나 LH측은 결국 국토부측에 "사용 가능한 자금을 최대한 동원해 8만~9만호 정도의 보금자리주택 건설을 추진하겠다"는 의사를 전한 것으로 알려졌다.
+
+그러나	그러나/MAJ
+LH측은	LH/SL+측/NNB+은/JX
+결국	결국/MAG
+국토부측에	국토부/NNG+측/NNB+에/JKB
+"사용	"/SS+사용/NNG
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+자금을	자금/NNG+을/JKO
+최대한	최대한/MAG
+동원해	동원/NNG+하/XSV+아/EC
+8만~9만호	8/SN+만/NR+~/SO+9/SN+만/NR+호/NNB
+정도의	정도/NNG+의/JKG
+보금자리주택	보금자리/NNG+주택/NNG
+건설을	건설/NNG+을/JKO
+추진하겠다"는	추진/NNG+하/XSV+겠/EP+다/EF+"/SS+는/ETM
+의사를	의사/NNG+를/JKO
+전한	전하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.307.7.1
+이 사장은 "LH가 공기업으로 국민들의 주거 복지에 최선을 다해야 하는 것은 맞지만 지금은 LH의 생존이 최대의 화두"라며 "LH 회생이란 틀 내에서 정부정책을 따를 것"이라고 말했다.
+
+이	이/NNP
+사장은	사장/NNG+은/JX
+"LH가	"/SS+LH/SL+가/JKS
+공기업으로	공기업/NNG+으로/JKB
+국민들의	국민/NNG+들/XSN+의/JKG
+주거	주거/NNG
+복지에	복지/NNG+에/JKB
+최선을	최선/NNG+을/JKO
+다해야	다/MAG+하/XSV+아야/EC
+하는	하/VX+는/ETM
+것은	것/NNB+은/JX
+맞지만	맞/VV+지만/EC
+지금은	지금/NNG+은/JX
+LH의	LH/SL+의/JKG
+생존이	생존/NNG+이/JKS
+최대의	최대/NNG+의/JKG
+화두"라며	화두/NNG+"/SS+이/VCP+라며/EC
+"LH	"/SS+LH/SL
+회생이란	회생/NNG+이/VCP+란/ETM
+틀	틀/NNG
+내에서	내/NNB+에서/JKB
+정부정책을	정부/NNG+정책/NNG+을/JKO
+따를	따르/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,207 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.186
+metadata : {}
+
+
+# id : NWRW1800000026.186.1.1
+[World Topics] "승부차기때 골 넣으려면 골키퍼 무시하라"
+
+[World	[/SS+World/SL
+Topics]	Topics/SL+]/SS
+"승부차기때	"/SS+승부차기/NNG+때/NNG
+골	골/NNG
+넣으려면	넣/VV+으려면/EC
+골키퍼	골키퍼/NNG
+무시하라"	무시/NNG+하/XSV+라/EF+"/SS
+
+
+# id : NWRW1800000026.186.2.1
+남아공 월드컵에 출전하는 축구선수들은 승부차기에 나서기 전, 한 과학자의 조언을 명심해야 할 듯하다.
+
+남아공	남아공/NNP
+월드컵에	월드컵/NNG+에/JKB
+출전하는	출전/NNG+하/XSV+는/ETM
+축구선수들은	축구/NNG+선수/NNG+들/XSN+은/JX
+승부차기에	승부차기/NNG+에/JKB
+나서기	나서/VV+기/ETN
+전,	전/NNG+,/SP
+한	한/MMN
+과학자의	과학자/NNG+의/JKG
+조언을	조언/NNG+을/JKO
+명심해야	명심/NNG+하/XSV+아야/EC
+할	하/VX+ㄹ/ETM
+듯하다.	듯/NNB+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000026.186.2.2
+"골을 넣으려면 골키퍼를 무시하고 네트에 시선을 맞춰라."
+
+"골을	"/SS+골/NNG+을/JKO
+넣으려면	넣/VV+으려면/EC
+골키퍼를	골키퍼/NNG+를/JKO
+무시하고	무시/NNG+하/XSV+고/EC
+네트에	네트/NNG+에/JKB
+시선을	시선/NNG+을/JKO
+맞춰라."	맞추/VV+어라/EF+./SF+"/SS
+
+
+# id : NWRW1800000026.186.3.1
+영국 인디펜던트는 8일 엑스터대 스포츠 의과학과 그레그 우드(Wood) 연구원의 논문을 인용, "축구선수들은 심리적 압박이 심할수록 골키퍼를 골똘히 쳐다보는 것으로 밝혀졌다. 우리 몸은 본능적으로 시선이 향한 곳을 향해 움직이기 때문에 골키퍼에서 시선이 멀어질수록 골을 넣을 가능성이 크다"고 보도했다.
+
+영국	영국/NNP
+인디펜던트는	인디펜던트/NNP+는/JX
+8일	8/SN+일/NNB
+엑스터대	엑스터대/NNP
+스포츠	스포츠/NNG
+의과학과	의과학과/NNG
+그레그	그레그/NNP
+우드(Wood)	우드/NNP+(/SS+Wood/SL+)/SS
+연구원의	연구원/NNG+의/JKG
+논문을	논문/NNG+을/JKO
+인용,	인용/NNG+,/SP
+"축구선수들은	"/SS+축구/NNG+선수/NNG+들/XSN+은/JX
+심리적	심리/NNG+적/XSN
+압박이	압박/NNG+이/JKS
+심할수록	심하/VA+ㄹ수록/EC
+골키퍼를	골키퍼/NNG+를/JKO
+골똘히	골똘히/MAG
+쳐다보는	쳐다보/VV+는/ETM
+것으로	것/NNB+으로/JKB
+밝혀졌다.	밝혀지/VV+었/EP+다/EF+./SF
+우리	우리/NP
+몸은	몸/NNG+은/JX
+본능적으로	본능/NNG+적/XSN+으로/JKB
+시선이	시선/NNG+이/JKS
+향한	향하/VV+ㄴ/ETM
+곳을	곳/NNG+을/JKO
+향해	향하/VV+아/EC
+움직이기	움직이/VV+기/ETN
+때문에	때문/NNB+에/JKB
+골키퍼에서	골키퍼/NNG+에서/JKB
+멀어질수록	멀어지/VV+ㄹ수록/EC
+골을	골/NNG+을/JKO
+넣을	넣/VV+을/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+크다"고	크/VA+다/EF+"/SS+고/JKQ
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.186.4.1
+연구팀은 영국 대학생 축구선수 18명에게 연습과 실전 상황으로 나눠 페널티킥을 시켰다.
+
+연구팀은	연구/NNG+팀/NNG+은/JX
+영국	영국/NNP
+대학생	대학/NNG+생/XSN
+축구선수	축구/NNG+선수/NNG
+18명에게	18/SN+명/NNB+에게/JKB
+연습과	연습/NNG+과/JC
+실전	실전/NNG
+상황으로	상황/NNG+으로/JKB
+나눠	나누/VV+어/EC
+페널티킥을	페널티/NNG+킥/NNG+을/JKO
+시켰다.	시키/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.186.4.2
+그 결과 선수들의 시선은 실전 상황에서 연습 게임 때보다 골키퍼에게 더 고정됐다.
+
+그	그/MMD
+결과	결과/NNG
+선수들의	선수/NNG+들/XSN+의/JKG
+시선은	시선/NNG+은/JX
+실전	실전/NNG
+상황에서	상황/NNG+에서/JKB
+연습	연습/NNG
+게임	게임/NNG
+때보다	때/NNG+보다/JKB
+골키퍼에게	골키퍼/NNG+에게/JKB
+더	더/MAG
+고정됐다.	고정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.186.4.3
+연구 결과를 '스포츠 사이언스 저널'(Journal of Sports Sciences)에 게재한 우드 연구원은 "긴장해 골키퍼를 쳐다볼수록 공은 골키퍼를 향해 날아갈 가능성이 커진다. 오른쪽을 쳐다보면서 운전할 때 무의식적으로 차가 우측으로 기우는 것과 같은 원리"라고 설명했다.
+
+연구	연구/NNG
+결과를	결과/NNG+를/JKO
+'스포츠	'/SS+스포츠/NNG
+사이언스	사이언스/NNP
+저널'(Journal	저널/NNP+'/SS+(/SS+Journal/SL
+of	of/SL
+Sports	Sports/SL
+Sciences)에	Sciences/SL+)/SS+에/JKB
+게재한	게재/NNG+하/XSV+ㄴ/ETM
+우드	우드/NNP
+연구원은	연구원/NNG+은/JX
+"긴장해	"/SS+긴장/NNG+하/XSV+아/EC
+골키퍼를	골키퍼/NNG+를/JKO
+쳐다볼수록	쳐다보/VV+ㄹ수록/EC
+공은	공/NNG+은/JX
+향해	향하/VV+아/EC
+날아갈	날아가/VV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+커진다.	커지/VV+ㄴ다/EF+./SF
+오른쪽을	오른쪽/NNG+을/JKO
+쳐다보면서	쳐다보/VV+면서/EC
+운전할	운전/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+무의식적으로	무/XPN+의식/NNG+적/XSN+으로/JKB
+차가	차/NNG+가/JKS
+우측으로	우측/NNG+으로/JKB
+기우는	기울/VV+는/ETM
+것과	것/NNB+과/JKB
+같은	같/VA+은/ETM
+원리"라고	원리/NNG+"/SS+라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.186.5.1
+골키퍼 입장에선 최대한 눈길을 끌어야 유리하다.
+
+골키퍼	골키퍼/NNG
+입장에선	입장/NNG+에서/JKB+ㄴ/JX
+최대한	최대한/MAG
+눈길을	눈길/NNG+을/JKO
+끌어야	끌/VV+어야/EC
+유리하다.	유리/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000026.186.6.1
+인디펜던트는 "1984년 UEFA(유럽축구연맹) 챔피언스리그 결승전에서 '개다리춤'을 춰 팀을 우승으로 이끈 리버풀의 전설적 골키퍼 브루스 그로블라(Grobbelaar)의 전략이 현명한 것이었음이 드러났다. 골키퍼들은 수단과 방법을 가리지 말고 최대한 시선을 잡아둬야 할 것"이라고 전했다.
+
+인디펜던트는	인디펜던트/NNP+는/JX
+"1984년	"/SS+1984/SN+년/NNB
+UEFA(유럽축구연맹)	UEFA/SL+(/SS+유럽축구연맹/NNP+)/SS
+챔피언스리그	챔피언스리그/NNG
+결승전에서	결승전/NNG+에서/JKB
+'개다리춤'을	'/SS+개다리춤/NNG+'/SS+을/JKO
+춰	추/VV+어/EC
+팀을	팀/NNG+을/JKO
+우승으로	우승/NNG+으로/JKB
+이끈	이끌/VV+ㄴ/ETM
+리버풀의	리버풀/NNP+의/JKG
+전설적	전설/NNG+적/XSN
+골키퍼	골키퍼/NNG
+브루스	브루스/NNP
+그로블라(Grobbelaar)의	그로블라/NNP+(/SS+Grobbelaar/SL+)/SS+의/JKG
+전략이	전략/NNG+이/JKS
+현명한	현명/NNG+하/XSA+ㄴ/ETM
+것이었음이	것/NNB+이/VCP+었/EP+음/ETN+이/JKS
+드러났다.	드러나/VV+았/EP+다/EF+./SF
+골키퍼들은	골키퍼/NNG+들/XSN+은/JX
+수단과	수단/NNG+과/JC
+방법을	방법/NNG+을/JKO
+가리지	가리/VV+지/EC
+말고	말/VX+고/EC
+최대한	최대한/MAG
+시선을	시선/NNG+을/JKO
+잡아둬야	잡/VV+아/EC+두/VX+어야/EC
+할	하/VX+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+

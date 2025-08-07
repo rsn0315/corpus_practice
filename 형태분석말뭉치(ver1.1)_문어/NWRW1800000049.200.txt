@@ -1,0 +1,347 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.200
+metadata : {}
+
+
+# id : NWRW1800000049.200.1.1
+“왜 라면 안끓여”… 동료 선원 바다로 떠밀어
+
+“왜	“/SS+왜/MAG
+라면	라면/NNG
+안끓여”…	안/MAG+끓이/VV+어/EF+”/SS+…/SE
+동료	동료/NNG
+선원	선원/NNG
+바다로	바다/NNG+로/JKB
+떠밀어	떠밀/VV+어/EF
+
+
+# id : NWRW1800000049.200.2.1
+2m파도속 떨어진 50대 실종… 30대 범인, 살려달라는 절규도 외면 선장이 신고… 살인혐의 구속
+
+2m파도속	2/SN+m/SW+파도/NNG+속/NNG
+떨어진	떨어지/VV+ㄴ/ETM
+50대	50/SN+대/NNB
+실종…	실종/NNG+…/SE
+30대	30/SN+대/NNB
+범인,	범인/NNG+,/SP
+살려달라는	살리/VV+어/EC+달/VX+라는/ETM
+절규도	절규/NNG+도/JX
+외면	외면/NNG
+선장이	선장/NNG+이/JKS
+신고…	신고/NNG+…/SE
+살인혐의	살인/NNG+혐의/NNG
+구속	구속/NNG
+
+
+# id : NWRW1800000049.200.3.1
+15일 오후 11시 반 전남 신안군 임자면 재원도 앞 400m 해상에는 기상악화로 피항한 9.77t급 어선 S호가 정박돼 있었다.
+
+15일	15/SN+일/NNB
+오후	오후/NNG
+11시	11/SN+시/NNB
+반	반/NNG
+전남	전남/NNP
+신안군	신안군/NNP
+임자면	임자면/NNP
+재원도	재원도/NNP
+앞	앞/NNG
+400m	400/SN+m/SW
+해상에는	해상/NNG+에/JKB+는/JX
+기상악화로	기상/NNG+악화/NNG+로/JKB
+피항한	피항/NNG+하/XSV+ㄴ/ETM
+9.77t급	9/SN+./SP+77/SN+t/SW+급/NNG
+어선	어선/NNG
+S호가	S호/NNP+가/JKS
+정박돼	정박/NNG+되/XSV+어/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.3.2
+선원 A 씨(34)는 7m² 넓이의 좁은 선실에서 잠을 자다 깼다.
+
+선원	선원/NNG
+A	A/SL
+씨(34)는	씨/NNB+(/SS+34/SN+)/SS+는/JX
+7m²	7/SN+m²/SW
+넓이의	넓이/NNG+의/JKG
+좁은	좁/VA+은/ETM
+선실에서	선실/NNG+에서/JKB
+잠을	잠/NNG+을/JKO
+자다	자/VV+다/EC
+깼다.	깨/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.3.3
+배가 고팠던 그는 취침 중이던 동료 B 씨(51)와 C 씨(46)에게 욕설을 하며 깨운 뒤 ‘라면을 끓이라’고 했다.
+
+배가	배/NNG+가/JKS
+고팠던	고프/VA+았/EP+던/ETM
+그는	그/NP+는/JX
+취침	취침/NNG
+중이던	중/NNB+이/VCP+던/ETM
+동료	동료/NNG
+B	B/SL
+씨(51)와	씨/NNB+(/SS+51/SN+)/SS+와/JC
+C	C/SL
+씨(46)에게	씨/NNB+(/SS+46/SN+)/SS+에게/JKB
+욕설을	욕설/NNG+을/JKO
+하며	하/VV+며/EC
+깨운	깨우/VV+ㄴ/ETM
+뒤	뒤/NNG
+‘라면을	‘/SS+라면/NNG+을/JKO
+끓이라’고	끓이/VV+라/EF+’/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.3.4
+A 씨는 나이는 어렸지만 덩치가 커 B, C 씨에게 함부로 했다.
+
+A	A/SL
+씨는	씨/NNB+는/JX
+나이는	나이/NNG+는/JX
+어렸지만	어리/VA+었/EP+지만/EC
+덩치가	덩치/NNG+가/JKS
+커	크/VA+어/EC
+B,	B/SL+,/SP
+C	C/SL
+씨에게	씨/NNB+에게/JKB
+함부로	함부로/MAG
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.4.1
+A 씨는 B 씨가 선실 밖으로 나가자 ‘빨리 라면을 끓이지 않는다’며 C 씨를 수차례 때렸다.
+
+A	A/SL
+씨는	씨/NNB+는/JX
+B	B/SL
+씨가	씨/NNB+가/JKS
+선실	선실/NNG
+밖으로	밖/NNG+으로/JKB
+나가자	나가/VV+자/EC
+‘빨리	‘/SS+빨리/MAG
+라면을	라면/NNG+을/JKO
+끓이지	끓이/VV+지/EC
+않는다’며	않/VX+는다/EF+’/SS+며/EC
+C	C/SL
+씨를	씨/NNB+를/JKO
+수차례	수차례/NNG
+때렸다.	때리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.4.2
+그는 이후 갑판 뒤쪽 화장실에서 나오던 B 씨를 보고 ‘라면을 왜 끓이지 않느냐.
+
+그는	그/NP+는/JX
+이후	이후/NNG
+갑판	갑판/NNG
+뒤쪽	뒤쪽/NNG
+화장실에서	화장실/NNG+에서/JKB
+나오던	나오/VV+던/ETM
+B	B/SL
+씨를	씨/NNB+를/JKO
+보고	보/VV+고/EC
+‘라면을	‘/SS+라면/NNG+을/JKO
+왜	왜/MAG
+끓이지	끓이/VV+지/EC
+않느냐.	않/VX+느냐/EF+./SF
+
+
+# id : NWRW1800000049.200.4.3
+죽여 버리겠다’며 손바닥으로 가슴을 3, 4차례 밀었다.
+
+죽여	죽이/VV+어/EC
+버리겠다’며	버리/VX+겠/EP+다/EF+’/SS+며/EC
+손바닥으로	손바닥/NNG+으로/JKB
+가슴을	가슴/NNG+을/JKO
+3,	3/SN+,/SP
+4차례	4/SN+차례/NNG
+밀었다.	밀/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.4.4
+신장 185cm에 건장한 체격인 A 씨가 거세게 밀자 신장 160cm로 상대적으로 왜소한 B 씨는 바다에 떨어졌다.
+
+신장	신장/NNG
+185cm에	185/SN+cm/SW+에/JKB
+건장한	건장하/VA+ㄴ/ETM
+체격인	체격/NNG+이/VCP+ㄴ/ETM
+A	A/SL
+씨가	씨/NNB+가/JKS
+거세게	거세/VA+게/EC
+밀자	밀/VV+자/EC
+160cm로	160/SN+cm/SW+로/JKB
+상대적으로	상대/NNG+적/XSN+으로/JKB
+왜소한	왜소하/VA+ㄴ/ETM
+B	B/SL
+씨는	씨/NNB+는/JX
+바다에	바다/NNG+에/JKB
+떨어졌다.	떨어지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.4.5
+당시 바다는 칠흑같이 어둡고 2m 높이의 파도가 일었다.
+
+당시	당시/NNG
+바다는	바다/NNG+는/JX
+칠흑같이	칠흑/NNG+같이/JKB
+어둡고	어둡/VA+고/EC
+2m	2/SN+m/SW
+높이의	높이/NNG+의/JKG
+파도가	파도/NNG+가/JKS
+일었다.	일/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.4.6
+A 씨는 B 씨가 허우적대며 ‘살려 달라’고 절규했지만 시커먼 바다로 떠내려가는 것을 지켜만 봤다.
+
+A	A/SL
+씨는	씨/NNB+는/JX
+B	B/SL
+씨가	씨/NNB+가/JKS
+허우적대며	허우적대/VV+며/EC
+‘살려	‘/SS+살리/VV+어/EC
+달라’고	달/VX+라/EF+’/SS+고/JKQ
+절규했지만	절규/NNG+하/XSV+았/EP+지만/EC
+시커먼	시커멓/VA+ㄴ/ETM
+바다로	바다/NNG+로/JKB
+떠내려가는	떠내려가/VV+는/ETM
+것을	것/NNB+을/JKO
+지켜만	지키/VV+어/EC+만/JX
+봤다.	보/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.5.1
+C 씨 등이 비명을 듣고 갑판으로 나와 ‘무슨 일이냐’고 묻자 A 씨는 ‘모른다’며 시치미를 뗐다.
+
+C	C/SL
+씨	씨/NNB
+등이	등/NNB+이/JKS
+비명을	비명/NNG+을/JKO
+듣고	듣/VV+고/EC
+갑판으로	갑판/NNG+으로/JKB
+나와	나오/VV+아/EC
+‘무슨	‘/SS+무슨/MMD
+일이냐’고	일/NNG+이/VCP+냐/EF+’/SS+고/JKQ
+묻자	묻/VV+자/EC
+A	A/SL
+씨는	씨/NNB+는/JX
+‘모른다’며	‘/SS+모르/VV+ㄴ다/EF+’/SS+며/EC
+시치미를	시치미/NNG+를/JKO
+뗐다.	떼/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.5.2
+사고 소식을 듣고 자택에서 돌아온 선장(38)은 다음 날 오전 3시에 A 씨의 범행을 눈치채고 신고했다.
+
+사고	사고/NNG
+소식을	소식/NNG+을/JKO
+듣고	듣/VV+고/EC
+자택에서	자택/NNG+에서/JKB
+돌아온	돌아오/VV+ㄴ/ETM
+선장(38)은	선장/NNG+(/SS+38/SN+)/SS+은/JX
+다음	다음/NNG
+날	날/NNG
+오전	오전/NNG
+3시에	3/SN+시/NNB+에/JKB
+A	A/SL
+씨의	씨/NNB+의/JKG
+범행을	범행/NNG+을/JKO
+눈치채고	눈치채/VV+고/EC
+신고했다.	신고/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.6.1
+전남 목포해양경비안전서는 A 씨를 살인 혐의로 구속했다고 19일 밝혔다.
+
+전남	전남/NNP
+목포해양경비안전서는	목포해양경비안전서/NNP+는/JX
+A	A/SL
+씨를	씨/NNB+를/JKO
+살인	살인/NNG
+혐의로	혐의/NNG+로/JKB
+구속했다고	구속/NNG+하/XSV+았/EP+다고/EC
+19일	19/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.6.2
+A 씨는 “B 씨에게 라면을 끓이라고 했는데 끓이지 않자 화가 났다.
+
+A	A/SL
+씨는	씨/NNB+는/JX
+“B	“/SS+B/SL
+씨에게	씨/NNB+에게/JKB
+라면을	라면/NNG+을/JKO
+끓이라고	끓이/VV+라고/EC
+했는데	하/VV+았/EP+는데/EC
+끓이지	끓이/VV+지/EC
+않자	않/VX+자/EC
+화가	화/NNG+가/JKS
+났다.	나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.6.3
+평소에도 짜증을 나게 해 죽였다”고 자백했다.
+
+평소에도	평소/NNG+에/JKB+도/JX
+짜증을	짜증/NNG+을/JKO
+나게	나/VV+게/EC
+해	하/VX+아/EC
+죽였다”고	죽이/VV+었/EP+다/EF+”/SS+고/JKQ
+자백했다.	자백/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.6.4
+폭력 전과 10여 범인 A 씨는 선원 7명 가운데 체격이 왜소한 B 씨 등을 괴롭혔다.
+
+폭력	폭력/NNG
+전과	전과/NNG
+10여	10/SN+여/XSN
+범인	범/NNB+이/VCP+ㄴ/ETM
+A	A/SL
+씨는	씨/NNB+는/JX
+선원	선원/NNG
+7명	7/SN+명/NNB
+가운데	가운데/NNG
+체격이	체격/NNG+이/JKS
+왜소한	왜소하/VA+ㄴ/ETM
+B	B/SL
+씨	씨/NNB
+등을	등/NNB+을/JKO
+괴롭혔다.	괴롭히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.200.6.5
+해경은 실종된 B 씨를 찾기 위해 3일 넘게 수색 작업을 이어가고 있지만 사고 해역의 조류가 거세고 수심이 20여 m에 달해 숨진 것으로 판단하고 있다.
+
+해경은	해경/NNG+은/JX
+실종된	실종/NNG+되/XSV+ㄴ/ETM
+B	B/SL
+씨를	씨/NNB+를/JKO
+찾기	찾/VV+기/ETN
+위해	위하/VV+아/EC
+3일	3/SN+일/NNB
+넘게	넘/VV+게/EC
+수색	수색/NNG
+작업을	작업/NNG+을/JKO
+이어가고	잇/VV+어/EC+가/VX+고/EC
+있지만	있/VX+지만/EC
+사고	사고/NNG
+해역의	해역/NNG+의/JKG
+조류가	조류/NNG+가/JKS
+거세고	거세/VA+고/EC
+수심이	수심/NNG+이/JKS
+20여	20/SN+여/XSN
+m에	m/SW+에/JKB
+달해	달하/VV+아/EC
+숨진	숨지/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+판단하고	판단/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+

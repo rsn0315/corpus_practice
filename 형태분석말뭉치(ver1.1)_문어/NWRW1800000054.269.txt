@@ -1,0 +1,362 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.269
+metadata : {}
+
+
+# id : NWRW1800000054.269.1.1
+OB(아웃오브바운즈) 많은 한국서 단련된 선수들… US여자오픈의 '개미허리 페어웨이'쯤이야
+
+OB(아웃오브바운즈)	OB/SL+(/SS+아웃오브바운즈/NNG+)/SS
+많은	많/VA+은/ETM
+한국서	한국/NNP+서/JKB
+단련된	단련/NNG+되/XSV+ㄴ/ETM
+선수들…	선수/NNG+들/XSN+…/SE
+US여자오픈의	US/SL+여자/NNG+오픈/NNG+의/JKG
+'개미허리	'/SS+개미허리/NNG
+페어웨이'쯤이야	페어웨이/NNG+'/SS+쯤/XSN+이야/JX
+
+
+# id : NWRW1800000054.269.2.1
+한국 선수들 왜 이렇게 강한가
+
+한국	한국/NNP
+선수들	선수/NNG+들/XSN
+왜	왜/MAG
+이렇게	이렇/VA+게/EC
+강한가	강하/VA+ㄴ가/EF
+
+
+# id : NWRW1800000054.269.3.1
+올해도 US여자오픈 리더보드 상위권은 태극 물결이었다.
+
+올해도	올해/NNG+도/JX
+US여자오픈	US/SL+여자/NNG+오픈/NNG
+리더보드	리더/NNG+보드/NNG
+상위권은	상위/NNG+권/XSN+은/JX
+태극	태극/NNG
+물결이었다.	물결/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.4.1
+우승 박성현, 2위 최혜진, 공동 3위 유소연·허미정, 공동 5위 이정은, 공동 8위 김세영·양희영·이미림.
+
+우승	우승/NNG
+박성현,	박성현/NNP+,/SP
+2위	2/SN+위/NNB
+최혜진,	최혜진/NNP+,/SP
+공동	공동/NNG
+3위	3/SN+위/NNB
+유소연·허미정,	유소연/NNP+·/SP+허미정/NNP+,/SP
+5위	5/SN+위/NNB
+이정은,	이정은/NNP+,/SP
+8위	8/SN+위/NNB
+김세영·양희영·이미림.	김세영/NNP+·/SP+양희영/NNP+·/SP+이미림/NNP+./SF
+
+
+# id : NWRW1800000054.269.4.2
+상위 10명 중 8명이 한국 선수다.
+
+상위	상위/NNG
+10명	10/SN+명/NNB
+중	중/NNB
+8명이	8/SN+명/NNB+이/JKS
+한국	한국/NNP
+선수다.	선수/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.4.3
+지난 10년간 한국 선수가 US여자오픈에서 우승한 것은 7차례.
+
+지난	지나/VV+ㄴ/ETM
+10년간	10/SN+년/NNB+간/XSN
+한국	한국/NNP
+선수가	선수/NNG+가/JKS
+US여자오픈에서	US/SL+여자/NNG+오픈/NNG+에서/JKB
+우승한	우승/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+7차례.	7/SN+차례/NNG+./SF
+
+
+# id : NWRW1800000054.269.4.4
+이 정도면 'US여자오픈'인지 '코리아 여자오픈'인지 헷갈릴 지경이다.
+
+이	이/MMD
+정도면	정도/NNG+이/VCP+면/EC
+'US여자오픈'인지	'/SS+US/SL+여자/NNG+오픈/NNG+'/SS+이/VCP+ㄴ지/EF
+'코리아	'/SS+코리아/NNP
+여자오픈'인지	여자/NNG+오픈/NNG+'/SS+이/VCP+ㄴ지/EF
+헷갈릴	헷갈리/VV+ㄹ/ETM
+지경이다.	지경/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.4.5
+현장에서 US여자오픈을 지켜본 도널드 트럼프 미국 대통령이 FTA 재협상에서 LPGA 투어의 한국 선수 숫자를 제한하자는 제안을 할지도 모른다는 우스갯소리까지 나온다.
+
+현장에서	현장/NNG+에서/JKB
+US여자오픈을	US/SL+여자/NNG+오픈/NNG+을/JKO
+지켜본	지켜보/VV+ㄴ/ETM
+도널드	도널드/NNP
+트럼프	트럼프/NNP
+미국	미국/NNP
+대통령이	대통령/NNG+이/JKS
+FTA	FTA/SL
+재협상에서	재/XPN+협상/NNG+에서/JKB
+LPGA	LPGA/SL
+투어의	투어/NNG+의/JKG
+한국	한국/NNP
+선수	선수/NNG
+숫자를	숫자/NNG+를/JKO
+제한하자는	제한/NNG+하/XSV+자는/ETM
+제안을	제안/NNG+을/JKO
+할지도	하/VV+ㄹ지/EF+도/JX
+모른다는	모르/VV+ㄴ다는/ETM
+우스갯소리까지	우스갯소리/NNG+까지/JX
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.269.4.6
+한국 선수들이 LPGA 투어를 압도한 것은 어제오늘의 일은 아니지만 그중에서도 가장 전통 있고 권위 있는 US여자오픈에서 유달리 한국의 강세가 이어지는 이유는 무엇일까?
+
+한국	한국/NNP
+선수들이	선수/NNG+들/XSN+이/JKS
+LPGA	LPGA/SL
+투어를	투어/NNG+를/JKO
+압도한	압도/NNG+하/XSV+ㄴ/ETM
+것은	것/NNB+은/JX
+어제오늘의	어제오늘/NNG+의/JKG
+일은	일/NNG+은/JX
+아니지만	아니/VCN+지만/EC
+그중에서도	그중/NNG+에서/JKB+도/JX
+가장	가장/MAG
+전통	전통/NNG
+있고	있/VA+고/EC
+권위	권위/NNG
+있는	있/VA+는/ETM
+US여자오픈에서	US/SL+여자/NNG+오픈/NNG+에서/JKB
+유달리	유달리/MAG
+한국의	한국/NNP+의/JKG
+강세가	강세/NNG+가/JKS
+이어지는	이어지/VV+는/ETM
+이유는	이유/NNG+는/JX
+무엇일까?	무엇/NP+이/VCP+ㄹ까/EF+?/SF
+
+
+# id : NWRW1800000054.269.5.1
+미국골프협회(USGA)는 US여자오픈의 코스를 세팅할 때 '긴 코스와 좁은 페어웨이'를 조성하는 것이 특징이다.
+
+미국골프협회(USGA)는	미국골프협회/NNP+(/SS+USGA/SL+)/SS+는/JX
+US여자오픈의	US/SL+여자/NNG+오픈/NNG+의/JKG
+코스를	코스/NNG+를/JKO
+세팅할	세팅/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+'긴	'/SS+길/VA+ㄴ/ETM
+코스와	코스/NNG+와/JC
+좁은	좁/VA+은/ETM
+페어웨이'를	페어웨이/NNG+'/SS+를/JKO
+조성하는	조성/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+특징이다.	특징/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.5.2
+전문가들은 USGA 의 코스 세팅 원칙이 한국 선수들의 장점을 살려주는 측면이 있다고 본다.
+
+전문가들은	전문가/NNG+들/XSN+은/JX
+USGA	USGA/SL
+의	의/JKG
+코스	코스/NNG
+세팅	세팅/NNG
+원칙이	원칙/NNG+이/JKS
+한국	한국/NNP
+선수들의	선수/NNG+들/XSN+의/JKG
+장점을	장점/NNG+을/JKO
+살려주는	살리/VV+어/EC+주/VX+는/ETM
+측면이	측면/NNG+이/JKS
+있다고	있/VA+다고/EC
+본다.	보/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.269.5.3
+한국 골프장은 외국 선수들이 "너무한다"고 비명을 올릴 정도로 OB(아웃오브바운즈) 지역이 많은 것이 특징이다.
+
+한국	한국/NNP
+골프장은	골프장/NNG+은/JX
+외국	외국/NNG
+선수들이	선수/NNG+들/XSN+이/JKS
+"너무한다"고	"/SS+너무/MAG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+비명을	비명/NNG+을/JKO
+올릴	올리/VV+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+OB(아웃오브바운즈)	OB/SL+(/SS+아웃오브바운즈/NNG+)/SS
+지역이	지역/NNG+이/JKS
+많은	많/VA+은/ETM
+것이	것/NNB+이/JKS
+특징이다.	특징/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.5.4
+반면 외국의 주요 골프장 중에는 OB가 거의 없는 곳도 많다.
+
+반면	반면/NNG
+외국의	외국/NNG+의/JKG
+주요	주요/NNG
+골프장	골프장/NNG
+중에는	중/NNB+에/JKB+는/JX
+OB가	OB/SL+가/JKS
+거의	거의/MAG
+없는	없/VA+는/ETM
+곳도	곳/NNG+도/JX
+많다.	많/VA+다/EF+./SF
+
+
+# id : NWRW1800000054.269.5.5
+한국 골프장의 수많은 'OB 지뢰지대'에서 단련된 선수들이 어렵지 않게 US여자오픈의 '개미허리 페어웨이'를 지켜낸다는 것이다.
+
+한국	한국/NNP
+골프장의	골프장/NNG+의/JKG
+수많은	수많/VA+은/ETM
+'OB	'/SS+OB/SL
+지뢰지대'에서	지뢰/NNG+지대/NNG+'/SS+에서/JKB
+단련된	단련/NNG+되/XSV+ㄴ/ETM
+선수들이	선수/NNG+들/XSN+이/JKS
+어렵지	어렵/VA+지/EC
+않게	않/VX+게/EC
+US여자오픈의	US/SL+여자/NNG+오픈/NNG+의/JKG
+'개미허리	'/SS+개미허리/NNG
+페어웨이'를	페어웨이/NNG+'/SS+를/JKO
+지켜낸다는	지키/VV+어/EC+내/VX+ㄴ다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.6.1
+또 한국은 주니어 대회의 경우 코스 길이를 미국보다 길게 조성하는 경우도 많다.
+
+또	또/MAG
+한국은	한국/NNP+은/JX
+주니어	주니어/NNG
+대회의	대회/NNG+의/JKG
+경우	경우/NNG
+코스	코스/NNG
+길이를	길이/NNG+를/JKO
+미국보다	미국/NNP+보다/JKB
+길게	길/VA+게/EC
+조성하는	조성/NNG+하/XSV+는/ETM
+경우도	경우/NNG+도/JX
+많다.	많/VA+다/EF+./SF
+
+
+# id : NWRW1800000054.269.6.2
+이 때문에 상당수 선수가 어릴 적부터 240~250야드 안팎을 칠 수 있고 하이브리드클럽을 능숙하게 다룬다.
+
+이	이/MMD
+때문에	때문/NNB+에/JKB
+상당수	상당수/NNG
+선수가	선수/NNG+가/JKS
+어릴	어리/VA+ㄹ/ETM
+적부터	적/NNB+부터/JX
+240~250야드	240/SN+~/SO+250/SN+야드/NNB
+안팎을	안팎/NNG+을/JKO
+칠	치/VV+ㄹ/ETM
+수	수/NNB
+있고	있/VA+고/EC
+하이브리드클럽을	하이브리드/NNG+클럽/NNG+을/JKO
+능숙하게	능숙하/VA+게/EC
+다룬다.	다루/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.269.6.3
+USGA는 "코스 세팅을 통해 기본적으로 선수가 14개의 클럽을 모두 능숙하게 사용하는지, 다양한 구질과 탄도를 구사할 수 있는지를 묻는다"고 했다.
+
+USGA는	USGA/SL+는/JX
+"코스	"/SS+코스/NNG
+세팅을	세팅/NNG+을/JKO
+통해	통하/VV+아/EC
+기본적으로	기본/NNG+적/XSN+으로/JKB
+선수가	선수/NNG+가/JKS
+14개의	14/SN+개/NNB+의/JKG
+클럽을	클럽/NNG+을/JKO
+모두	모두/MAG
+능숙하게	능숙하/VA+게/EC
+사용하는지,	사용/NNG+하/XSV+는지/EF+,/SP
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+구질과	구질/NNG+과/JC
+탄도를	탄도/NNG+를/JKO
+구사할	구사/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는지를	있/VA+는지/EF+를/JKO
+묻는다"고	묻/VV+는다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.7.1
+US여자오픈은 러프도 억세게 유지한다.
+
+US여자오픈은	US/SL+여자/NNG+오픈/NNG+은/JX
+러프도	러프/NNG+도/JX
+억세게	억세/VA+게/EC
+유지한다.	유지/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.269.7.2
+박세리와 박인비 등 우승 경험이 있는 선수들은 "US여자오픈에선 러프에 들어가면 사실상 벌타를 받는 것이나 다름없다"며 "샷 정확성이 뛰어난 한국 선수들이 다른 대회보다 더 좋은 성적을 낼 수 있는 비결"이라고 했다.
+
+박세리와	박세리/NNP+와/JKB
+박인비	박인비/NNP
+등	등/NNB
+우승	우승/NNG
+경험이	경험/NNG+이/JKS
+있는	있/VA+는/ETM
+선수들은	선수/NNG+들/XSN+은/JX
+"US여자오픈에선	"/SS+US/SL+여자/NNG+오픈/NNG+에서/JKB+ㄴ/JX
+러프에	러프/NNG+에/JKB
+들어가면	들어가/VV+면/EC
+사실상	사실/NNG+상/XSN
+벌타를	벌타/NNG+를/JKO
+받는	받/VV+는/ETM
+것이나	것/NNB+이나/JX
+다름없다"며	다름없/VA+다/EF+"/SS+며/EC
+"샷	"/SS+샷/NNG
+정확성이	정확/NNG+성/XSN+이/JKS
+뛰어난	뛰어나/VA+ㄴ/ETM
+한국	한국/NNP
+선수들이	선수/NNG+들/XSN+이/JKS
+다른	다른/MMD
+대회보다	대회/NNG+보다/JKB
+더	더/MAG
+좋은	좋/VA+은/ETM
+성적을	성적/NNG+을/JKO
+낼	내/VV+ㄹ/ETM
+수	수/NNB
+비결"이라고	비결/NNG+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.269.8.1
+1998년 박세리의 '맨발 투혼' 이후 US여자오픈이 한국 선수들의 '성지(聖地)'가 됐고, 선수들이 이 대회를 목표로 총력을 기울이는 것도 한국 강세의 이유로 꼽힌다.
+
+1998년	1998/SN+년/NNB
+박세리의	박세리/NNP+의/JKG
+'맨발	'/SS+맨/XPN+발/NNG
+투혼'	투혼/NNG+'/SS
+이후	이후/NNG
+US여자오픈이	US/SL+여자/NNG+오픈/NNG+이/JKS
+한국	한국/NNP
+선수들의	선수/NNG+들/XSN+의/JKG
+'성지(聖地)'가	'/SS+성지/NNG+(/SS+聖地/SH+)/SS+'/SS+가/JKC
+됐고,	되/VV+었/EP+고/EC+,/SP
+선수들이	선수/NNG+들/XSN+이/JKS
+이	이/MMD
+대회를	대회/NNG+를/JKO
+목표로	목표/NNG+로/JKB
+총력을	총력/NNG+을/JKO
+기울이는	기울이/VV+는/ETM
+것도	것/NNB+도/JX
+강세의	강세/NNG+의/JKG
+이유로	이유/NNG+로/JKB
+꼽힌다.	꼽히/VV+ㄴ다/EF+./SF
+
+

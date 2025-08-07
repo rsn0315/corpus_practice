@@ -1,0 +1,93 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.245
+metadata : {}
+
+
+# id : NWRW1800000026.245.1.1
+[부산·경남] STX그룹 종합기술원 준공
+
+[부산·경남]	[/SS+부산/NNP+·/SP+경남/NNP+]/SS
+STX그룹	STX그룹/NNP
+종합기술원	종합/NNG+기술원/NNG
+준공	준공/NNG
+
+
+# id : NWRW1800000026.245.2.1
+STX그룹의 R&D 전략을 진두지휘할 STX종합기술원 준공식이 22일 경남 창원시 중앙동 종합기술원에서 STX그룹 강덕수 회장, 김두관 경남지사, 박완수 창원시장 등이 참석한 가운데 열렸다.
+
+STX그룹의	STX그룹/NNP+의/JKG
+R&D	R/SL+&/SW+D/SL
+전략을	전략/NNG+을/JKO
+진두지휘할	진두지휘/NNG+하/XSV+ㄹ/ETM
+STX종합기술원	STX종합기술원/NNP
+준공식이	준공식/NNG+이/JKS
+22일	22/SN+일/NNB
+경남	경남/NNP
+창원시	창원시/NNP
+중앙동	중앙동/NNP
+종합기술원에서	종합/NNG+기술원/NNG+에서/JKB
+STX그룹	STX그룹/NNP
+강덕수	강덕수/NNP
+회장,	회장/NNG+,/SP
+김두관	김두관/NNP
+경남지사,	경남/NNP+지사/NNG+,/SP
+박완수	박완수/NNP
+창원시장	창원시장/NNG
+등이	등/NNB+이/JKS
+참석한	참석/NNG+하/XSV+ㄴ/ETM
+가운데	가운데/NNG
+열렸다.	열리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.245.2.2
+종합기술원은 3000여㎡의 대지에 지하 8층, 지상 21층 연면적 4만3000여㎡ 규모로, 750억원의 사업비가 투입됐다.
+
+종합기술원은	종합/NNG+기술원/NNG+은/JX
+3000여㎡의	3000/SN+여/XSN+㎡/SW+의/JKG
+대지에	대지/NNG+에/JKB
+지하	지하/NNG
+8층,	8/SN+층/NNG+,/SP
+지상	지상/NNG
+21층	21/SN+층/NNG
+연면적	연면적/NNG
+4만3000여㎡	4/SN+만/NR+3000/SN+여/XSN+㎡/SW
+규모로,	규모/NNG+로/JKB+,/SP
+750억원의	750/SN+억/NR+원/NNB+의/JKG
+사업비가	사업비/NNG+가/JKS
+투입됐다.	투입/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.245.3.1
+STX그룹 강덕수 회장은 "주요 생산시설이 있는 창원·마산·진해시의 통합으로 STX가 통합 창원시의 대표 기업으로 우뚝 서게 됐다"며 "종합기술원 설립으로 품질경영에 박차를 가해 세계수준의 기술경영을 펼쳐나가겠다"고 밝혔다.
+
+STX그룹	STX그룹/NNP
+강덕수	강덕수/NNP
+회장은	회장/NNG+은/JX
+"주요	"/SS+주요/NNG
+생산시설이	생산/NNG+시설/NNG+이/JKS
+있는	있/VA+는/ETM
+창원·마산·진해시의	창원/NNP+·/SP+마산/NNP+·/SP+진해시/NNP+의/JKG
+통합으로	통합/NNG+으로/JKB
+STX가	STX/SL+가/JKS
+통합	통합/NNG
+창원시의	창원시/NNP+의/JKG
+대표	대표/NNG
+기업으로	기업/NNG+으로/JKB
+우뚝	우뚝/MAG
+서게	서/VV+게/EC
+됐다"며	되/VV+었/EP+다/EF+"/SS+며/EC
+"종합기술원	"/SS+종합/NNG+기술원/NNG
+설립으로	설립/NNG+으로/JKB
+품질경영에	품질/NNG+경영/NNG+에/JKB
+박차를	박차/NNG+를/JKO
+가해	가하/VV+아/EC
+세계수준의	세계/NNG+수준/NNG+의/JKG
+기술경영을	기술/NNG+경영/NNG+을/JKO
+펼쳐나가겠다"고	펼치/VV+어/EC+나가/VX+겠/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

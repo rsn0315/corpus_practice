@@ -1,0 +1,150 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.208
+metadata : {}
+
+
+# id : NWRW1800000026.208.1.1
+[수도권III] 시내버스 행선지 LED로 교체
+
+[수도권III]	[/SS+수도/NNG+권/XSN+III/SL+]/SS
+시내버스	시내버스/NNG
+행선지	행선지/NNG
+LED로	LED/SL+로/JKB
+교체	교체/NNG
+
+
+# id : NWRW1800000026.208.2.1
+밤은 깊은데, 멀리서 달려오는 버스 번호는 가물가물 잘 보이질 않고….
+
+밤은	밤/NNG+은/JX
+깊은데,	깊/VA+은데/EC+,/SP
+멀리서	멀리/MAG+서/JKB
+달려오는	달려오/VV+는/ETM
+버스	버스/NNG
+번호는	번호/NNG+는/JX
+가물가물	가물가물/MAG
+잘	잘/MAG
+보이질	보이/VV+지/EC+ㄹ/JX
+않고….	않/VX+고/EC+…/SE+./SF
+
+
+# id : NWRW1800000026.208.2.2
+어디 가는 버스인지 살펴보다가 차를 놓친 경험은 누구에게나 한 두 번쯤 있을 법하다.
+
+어디	어디/NP
+가는	가/VV+는/ETM
+버스인지	버스/NNG+이/VCP+ㄴ지/EC
+살펴보다가	살펴보/VV+다가/EC
+차를	차/NNG+를/JKO
+놓친	놓치/VV+ㄴ/ETM
+경험은	경험/NNG+은/JX
+누구에게나	누구/NP+에게/JKB+나/JX
+한	한/MMN
+두	두/MMN
+번쯤	번/NNB+쯤/XSN
+있을	있/VA+을/ETM
+법하다.	법/NNB+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000026.208.2.3
+이런 문제를 해소하기 위해 경기도는 모든 시내버스의 행선지 표시장치를 LED(발광다이오드)로 교체한다고 28일 밝혔다.
+
+이런	이런/MMD
+문제를	문제/NNG+를/JKO
+해소하기	해소/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+경기도는	경기도/NNP+는/JX
+모든	모든/MMN
+시내버스의	시내버스/NNG+의/JKG
+행선지	행선지/NNG
+표시장치를	표시/NNG+장치/NNG+를/JKO
+LED(발광다이오드)로	LED/SL+(/SS+발광/NNG+다이오드/NNG+)/SS+로/JKB
+교체한다고	교체/NNG+하/XSV+ㄴ다고/EC
+28일	28/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.208.2.4
+LED 불빛은 멀리서도 선명하게 보여, 버스 상단에 LED로 행선지 정보를 표시하면 야간에도 알아보기 쉽다.
+
+LED	LED/SL
+불빛은	불빛/NNG+은/JX
+멀리서도	멀리/MAG+서/JKB+도/JX
+선명하게	선명/NNG+하/XSA+게/EC
+보여,	보이/VV+어/EC+,/SP
+버스	버스/NNG
+상단에	상단/NNG+에/JKB
+LED로	LED/SL+로/JKB
+행선지	행선지/NNG
+정보를	정보/NNG+를/JKO
+표시하면	표시/NNG+하/XSV+면/EC
+야간에도	야간/NNG+에/JKB+도/JX
+알아보기	알아보/VV+기/ETN
+쉽다.	쉽/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.208.2.5
+노선번호·행선지와 시점·종점 방향을 모두 LED로 표시하기 때문에, 해당 버스를 타야 할지 말지 빨리 결정하는 데 도움을 준다.
+
+노선번호·행선지와	노선/NNG+번호/NNG+·/SP+행선지/NNG+와/JC
+시점·종점	시점/NNG+·/SP+종점/NNG
+방향을	방향/NNG+을/JKO
+모두	모두/MAG
+LED로	LED/SL+로/JKB
+표시하기	표시/NNG+하/XSV+기/ETN
+때문에,	때문/NNB+에/JKB+,/SP
+해당	해당/NNG
+버스를	버스/NNG+를/JKO
+타야	타/VV+아야/EC
+할지	하/VX+ㄹ지/EF
+말지	말/VX+지/EC
+빨리	빨리/MAG
+결정하는	결정/NNG+하/XSV+는/ETM
+데	데/NNB
+도움을	도움/NNG+을/JKO
+준다.	주/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.208.3.1
+경기도는 이미 지난 2007년부터 LED 표시장치 도입을 시작했다.
+
+경기도는	경기도/NNP+는/JX
+이미	이미/MAG
+지난	지나/VV+ㄴ/ETM
+2007년부터	2007/SN+년/NNB+부터/JX
+LED	LED/SL
+표시장치	표시/NNG+장치/NNG
+도입을	도입/NNG+을/JKO
+시작했다.	시작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.208.3.2
+올해는 7~11월 미처 대상에 오르지 않았던 시내버스 2684대에 LED 표시장치를 설치해, 도내 8329대 시내버스 중 한 대도 빠짐없이 LED 표시를 부착하도록 할 예정이다.
+
+올해는	올해/NNG+는/JX
+7~11월	7/SN+~/SO+11/SN+월/NNB
+미처	미처/MAG
+대상에	대상/NNG+에/JKB
+오르지	오르/VV+지/EC
+않았던	않/VX+았/EP+던/ETM
+시내버스	시내버스/NNG
+2684대에	2684/SN+대/NNB+에/JKB
+LED	LED/SL
+표시장치를	표시/NNG+장치/NNG+를/JKO
+설치해,	설치/NNG+하/XSV+아/EC+,/SP
+도내	도내/NNG
+8329대	8329/SN+대/NNB
+중	중/NNB
+한	한/MMN
+대도	대/NNB+도/JX
+빠짐없이	빠짐없이/MAG
+표시를	표시/NNG+를/JKO
+부착하도록	부착/NNG+하/XSV+도록/EC
+할	하/VX+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+

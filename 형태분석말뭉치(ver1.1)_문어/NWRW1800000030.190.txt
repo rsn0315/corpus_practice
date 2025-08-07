@@ -1,0 +1,394 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.190
+metadata : {}
+
+
+# id : NWRW1800000030.190.1.1
+아시아 없이 美LPGA 투어 없다?
+
+아시아	아시아/NNP
+없이	없이/MAG
+美LPGA	美/SH+LPGA/SL
+투어	투어/NNG
+없다?	없/VA+다/EF+?/SF
+
+
+# id : NWRW1800000030.190.2.1
+•올해 정규대회 25회 중 본토서 13, 아시아서 7회
+
+•올해	•/SW+올해/NNG
+정규대회	정규/NNG+대회/NNG
+25회	25/SN+회/NNB
+중	중/NNB
+본토서	본토/NNG+서/JKB
+13,	13/SN+,/SP
+아시아서	아시아/NNP+서/JKB
+7회	7/SN+회/NNB
+
+
+# id : NWRW1800000030.190.3.1
+신지애·최나연이 2년 연속 상금왕을 거머쥔 미국여자프로골프(LP GA) 투어가 다음 달 17일부터 태국 촌부리에서 열리는 혼다 LPGA 타일랜드를 개막전으로 2011년 시즌에 돌입한다.
+
+신지애·최나연이	신지애/NNP+·/SP+최나연/NNP+이/JKS
+2년	2/SN+년/NNB
+연속	연속/NNG
+상금왕을	상금왕/NNG+을/JKO
+거머쥔	거머쥐/VV+ㄴ/ETM
+미국여자프로골프(LP	미국/NNP+여자/NNG+프로/NNG+골프/NNG+(/SS+LP/SL
+GA)	GA/SL+)/SS
+투어가	투어/NNG+가/JKS
+다음	다음/NNG
+달	달/NNG
+17일부터	17/SN+일/NNB+부터/JX
+태국	태국/NNP
+촌부리에서	촌부리/NNP+에서/JKB
+열리는	열리/VV+는/ETM
+혼다	혼다/NNP
+LPGA	LPGA/SL
+타일랜드를	타일랜드/NNP+를/JKO
+개막전으로	개막전/NNG+으로/JKB
+2011년	2011/SN+년/NNB
+시즌에	시즌/NNG+에/JKB
+돌입한다.	돌입/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.4.1
+LPGA투어는 25개의 정규 대회와 미국과 유럽 대항전인 솔하임컵 등 3개 이벤트를 포함해 모두 28차례 열린다.
+
+LPGA투어는	LPGA/SL+투어/NNG+는/JX
+25개의	25/SN+개/NNB+의/JKG
+정규	정규/NNG
+대회와	대회/NNG+와/JC
+미국과	미국/NNP+과/JC
+유럽	유럽/NNP
+대항전인	대항전/NNG+이/VCP+ㄴ/ETM
+솔하임컵	솔하임컵/NNG
+등	등/NNB
+3개	3/SN+개/NNB
+이벤트를	이벤트/NNG+를/JKO
+포함해	포함/NNG+하/XSV+아/EC
+모두	모두/MAG
+28차례	28/SN+차례/NNG
+열린다.	열리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.4.2
+작년보다 정규 대회 수가 한 개 늘었지만 일정표와 대회 요강을 들여다보면 고육지책(苦肉之策)이라는 게 느껴진다.
+
+작년보다	작년/NNG+보다/JKB
+정규	정규/NNG
+대회	대회/NNG
+수가	수/NNG+가/JKS
+한	한/MMN
+개	개/NNB
+늘었지만	늘/VV+었/EP+지만/EC
+일정표와	일정표/NNG+와/JC
+요강을	요강/NNG+을/JKO
+들여다보면	들여다보/VV+면/EC
+고육지책(苦肉之策)이라는	고육지책/NNG+(/SS+苦肉之策/SH+)/SS+이/VCP+라는/ETM
+게	거/NNB+이/JKS
+느껴진다.	느끼/VV+어/EC+지/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.5.1
+25개 정규 대회 중 미국에서 열리는 대회는 13개뿐이다.
+
+25개	25/SN+개/NNB
+정규	정규/NNG
+대회	대회/NNG
+중	중/NNB
+미국에서	미국/NNP+에서/JKB
+열리는	열리/VV+는/ETM
+대회는	대회/NNG+는/JX
+13개뿐이다.	13/SN+개/NNB+뿐/JX+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.5.2
+나머지 12개 중 7개가 아시아에서 열리며 유럽과 멕시코에서 각각 2개, 캐나다에서 1개가 열린다.
+
+나머지	나머지/NNG
+12개	12/SN+개/NNB
+중	중/NNB
+7개가	7/SN+개/NNB+가/JKS
+아시아에서	아시아/NNP+에서/JKB
+열리며	열리/VV+며/EC
+유럽과	유럽/NNP+과/JC
+멕시코에서	멕시코/NNP+에서/JKB
+각각	각각/MAG
+2개,	2/SN+개/NNB+,/SP
+캐나다에서	캐나다/NNP+에서/JKB
+1개가	1/SN+개/NNB+가/JKS
+열린다.	열리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.5.3
+투어측은 "LPGA를 글로벌 투어로 만들겠다는 전략"이라고 말했다.
+
+투어측은	투어/NNG+측/NNB+은/JX
+"LPGA를	"/SS+LPGA/SL+를/JKO
+글로벌	글로벌/NNG
+투어로	투어/NNG+로/JKB
+만들겠다는	만들/VV+겠/EP+다는/ETM
+전략"이라고	전략/NNG+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.6.1
+진짜 이유는 2008년 글로벌 금융위기 이후 미국 스폰서들이 LPGA 후원에 시큰둥한 반응을 보이기 때문이다.
+
+진짜	진짜/NNG
+이유는	이유/NNG+는/JX
+2008년	2008/SN+년/NNB
+글로벌	글로벌/NNG
+금융위기	금융/NNG+위기/NNG
+이후	이후/NNG
+미국	미국/NNP
+스폰서들이	스폰서/NNG+들/XSN+이/JKS
+LPGA	LPGA/SL
+후원에	후원/NNG+에/JKB
+시큰둥한	시큰둥하/VA+ㄴ/ETM
+반응을	반응/NNG+을/JKO
+보이기	보이/VV+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.6.2
+PGA투어는 거의 변화가 없었지만 LPGA는 존립 기반이 흔들릴 정도로 타격을 받았다.
+
+PGA투어는	PGA/SL+투어/NNG+는/JX
+거의	거의/MAG
+변화가	변화/NNG+가/JKS
+없었지만	없/VA+었/EP+지만/EC
+LPGA는	LPGA/SL+는/JX
+존립	존립/NNG
+기반이	기반/NNG+이/JKS
+흔들릴	흔들리/VV+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+타격을	타격/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.7.1
+2008년 LPGA는 34개 정규 대회 중 24번이 미국에서 열렸고 나머지가 해외에서 열렸다.
+
+2008년	2008/SN+년/NNB
+LPGA는	LPGA/SL+는/JX
+34개	34/SN+개/NNB
+정규	정규/NNG
+대회	대회/NNG
+중	중/NNB
+24번이	24/SN+번/NNB+이/JKS
+미국에서	미국/NNP+에서/JKB
+열렸고	열리/VV+었/EP+고/EC
+나머지가	나머지/NNG+가/JKS
+해외에서	해외/NNG+에서/JKB
+열렸다.	열리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.7.2
+하지만 LPGA는 2009년 대회 수가 28개로, 2010년 24개로 줄어들면서도 해외 대회 수는 10개를 유지했다.
+
+하지만	하지만/MAJ
+LPGA는	LPGA/SL+는/JX
+2009년	2009/SN+년/NNB
+대회	대회/NNG
+수가	수/NNG+가/JKS
+28개로,	28/SN+개/NNB+로/JKB+,/SP
+2010년	2010/SN+년/NNB
+24개로	24/SN+개/NNB+로/JKB
+줄어들면서도	줄어들/VV+면서/EC+도/JX
+해외	해외/NNG
+수는	수/NNG+는/JX
+10개를	10/SN+개/NNB+를/JKO
+유지했다.	유지/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.8.1
+올해는 중국이 임페리얼 스프링스 LPGA(8월 4~7일), 대만이 LPGA 타이완 챔피언십(10월 20~23일)을 창설했다.
+
+올해는	올해/NNG+는/JX
+중국이	중국/NNP+이/JKS
+임페리얼	임페리얼/NNP
+스프링스	스프링스/NNP
+LPGA(8월	LPGA/SL+(/SS+8/SN+월/NNB
+4~7일),	4/SN+~/SO+7/SN+일/NNB+)/SS+,/SP
+대만이	대만/NNP+이/JKS
+LPGA	LPGA/SL
+타이완	타이완/NNP
+챔피언십(10월	챔피언십/NNG+(/SS+10/SN+월/NNB
+20~23일)을	20/SN+~/SO+23/SN+일/NNB+)/SS+을/JKO
+창설했다.	창설/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.8.2
+LPGA에서 상금만 따간다고 비판을 받았던 아시아가 구원투수 역할을 하는 것이다.
+
+LPGA에서	LPGA/SL+에서/JKB
+상금만	상금/NNG+만/JX
+따간다고	따/VV+아/EC+가/VX+ㄴ다고/EC
+비판을	비판/NNG+을/JKO
+받았던	받/VV+았/EP+던/ETM
+아시아가	아시아/NNP+가/JKS
+구원투수	구원/NNG+투수/NNG
+역할을	역할/NNG+을/JKO
+하는	하/VV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.9.1
+연간 34개 정규 대회가 열리는 일본투어와 비교하면 초라한 규모다.
+
+연간	연간/NNG
+34개	34/SN+개/NNB
+정규	정규/NNG
+대회가	대회/NNG+가/JKS
+열리는	열리/VV+는/ETM
+일본투어와	일본/NNP+투어/NNG+와/JKB
+비교하면	비교/NNG+하/XSV+면/EC
+초라한	초라하/VA+ㄴ/ETM
+규모다.	규모/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.9.2
+한국 투어도 지난해 22개 대회가 열렸다.
+
+한국	한국/NNP
+투어도	투어/NNG+도/JX
+지난해	지난해/NNG
+22개	22/SN+개/NNB
+대회가	대회/NNG+가/JKS
+열렸다.	열리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.9.3
+LPGA 한국 골퍼 중 상당수가 미국·일본 투어를 겸하거나 아예 둥지를 옮기고 있다.
+
+LPGA	LPGA/SL
+한국	한국/NNP
+골퍼	골퍼/NNG
+중	중/NNB
+상당수가	상당수/NNG+가/JKS
+미국·일본	미국/NNP+·/SP+일본/NNP
+투어를	투어/NNG+를/JKO
+겸하거나	겸/NNB+하/XSV+거나/EC
+아예	아예/MAG
+둥지를	둥지/NNG+를/JKO
+옮기고	옮기/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.190.10.1
+그러자 LPGA가 내놓은 궁여지책이 '상금은 있지만 상금을 타갈 수는 없는 대회'를 신설한 것이다.
+
+그러자	그러/VV+자/EC
+LPGA가	LPGA/SL+가/JKS
+내놓은	내놓/VV+은/ETM
+궁여지책이	궁여지책/NNG+이/JKS
+'상금은	'/SS+상금/NNG+은/JX
+있지만	있/VA+지만/EC
+상금을	상금/NNG+을/JKO
+타갈	타/VV+아/EC+가/VX+ㄹ/ETM
+수는	수/NNB+는/JX
+없는	없/VA+는/ETM
+대회'를	대회/NNG+'/SS+를/JKO
+신설한	신설/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.10.2
+3월 18일 애리조나주 피닉스에서 열리는 RR도넬리 LPGA 파운더스컵이 바로 그 대회다.
+
+3월	3/SN+월/NNB
+18일	18/SN+일/NNB
+애리조나주	애리조나주/NNP
+피닉스에서	피닉스/NNP+에서/JKB
+열리는	열리/VV+는/ETM
+RR도넬리	RR도넬리/NNP
+LPGA	LPGA/SL
+파운더스컵이	파운더스컵/NNG+이/JKS
+바로	바로/MAG
+그	그/MMD
+대회다.	대회/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.190.11.1
+아직 상금 규모도 확정하지 못했지만 선수들은 상금 전액을 기부해야 한다는 전제가 있다.
+
+아직	아직/MAG
+상금	상금/NNG
+규모도	규모/NNG+도/JX
+확정하지	확정/NNG+하/XSV+지/EC
+못했지만	못하/VX+았/EP+지만/EC
+선수들은	선수/NNG+들/XSN+은/JX
+전액을	전액/NNG+을/JKO
+기부해야	기부/NNG+하/XSV+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+전제가	전제/NNG+가/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000030.190.11.2
+이 대회에서 받은 상금과 각종 포인트는 상금 랭킹이나 올해의 선수 포인트에 적용되지만 실제로 가져가진 못한다.
+
+이	이/MMD
+대회에서	대회/NNG+에서/JKB
+받은	받/VV+은/ETM
+상금과	상금/NNG+과/JC
+각종	각종/NNG
+포인트는	포인트/NNG+는/JX
+상금	상금/NNG
+랭킹이나	랭킹/NNG+이나/JC
+올해의	올해/NNG+의/JKG
+선수	선수/NNG
+포인트에	포인트/NNG+에/JKB
+적용되지만	적용/NNG+되/XSV+지만/EC
+실제로	실제로/MAG
+가져가진	가져가/VV+지/EC+ㄴ/JX
+못한다.	못하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.11.3
+대신 여자 골프 활성화를 위한 'LPGA재단'에 전액 기부해야 한다.
+
+대신	대신/NNG
+여자	여자/NNG
+골프	골프/NNG
+활성화를	활성/NNG+화/XSN+를/JKO
+위한	위하/VV+ㄴ/ETM
+'LPGA재단'에	'/SS+LPGA/SL+재단/NNG+'/SS+에/JKB
+전액	전액/NNG
+기부해야	기부/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.11.4
+대회 이름에 붙는 파운더스(Founders)는 1950년 LPGA를 창립한 13명의 여자 골퍼를 뜻한다.
+
+대회	대회/NNG
+이름에	이름/NNG+에/JKB
+붙는	붙/VV+는/ETM
+파운더스(Founders)는	파운더스/NNG+(/SS+Founders/SL+)/SS+는/JX
+1950년	1950/SN+년/NNB
+LPGA를	LPGA/SL+를/JKO
+창립한	창립/NNG+하/XSV+ㄴ/ETM
+13명의	13/SN+명/NNB+의/JKG
+여자	여자/NNG
+골퍼를	골퍼/NNG+를/JKO
+뜻한다.	뜻/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.190.11.5
+LPGA 프로선수들이 창립자 정신으로 동참해달라는 뜻이다.
+
+LPGA	LPGA/SL
+프로선수들이	프로/NNG+선수/NNG+들/XSN+이/JKS
+창립자	창립자/NNG
+정신으로	정신/NNG+으로/JKB
+동참해달라는	동참/NNG+하/XSV+아/EC+달/VX+라는/ETM
+뜻이다.	뜻/NNG+이/VCP+다/EF+./SF
+
+

@@ -1,0 +1,155 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000028.208
+metadata : {}
+
+
+# id : NWRW1800000028.208.1.1
+백화점 소비경향 ‘스위트’
+
+백화점	백화점/NNG
+소비경향	소비/NNG+경향/NNG
+‘스위트’	‘/SS+스위트/NNG+’/SS
+
+
+# id : NWRW1800000028.208.2.1
+올해 상반기 백화점 소비 경향의 열쇳말은 ‘스위트’?
+
+올해	올해/NNG
+상반기	상반기/NNG
+백화점	백화점/NNG
+소비	소비/NNG
+경향의	경향/NNG+의/JKG
+열쇳말은	열쇳말/NNG+은/JX
+‘스위트’?	‘/SS+스위트/NNG+’/SS+?/SF
+
+
+# id : NWRW1800000028.208.3.1
+신세계백화점이 올해들어 지난 13일까지 전국 점포 8곳의 매출과 120만명의 자사 카드(씨티·삼성카드) 활동고객 상품군과, 유통산업연구소의 분석 결과를 종합해 ‘2010년 상반기 백화점 소비 트렌드’의 열쇳말을 ‘스위트’(S.W.E.E.T)로 정했다고 20일 밝혔다.
+
+신세계백화점이	신세계백화점/NNP+이/JKS
+올해들어	올해/NNG+들/VV+어/EC
+지난	지나/VV+ㄴ/ETM
+13일까지	13/SN+일/NNB+까지/JX
+전국	전국/NNG
+점포	점포/NNG
+8곳의	8/SN+곳/NNG+의/JKG
+매출과	매출/NNG+과/JC
+120만명의	120/SN+만/NR+명/NNB+의/JKG
+자사	자사/NNG
+카드(씨티·삼성카드)	카드/NNG+(/SS+씨티/NNP+·/SP+삼성카드/NNP+)/SS
+활동고객	활동/NNG+고객/NNG
+상품군과,	상품군/NNG+과/JC+,/SP
+유통산업연구소의	유통/NNG+산업/NNG+연구소/NNG+의/JKG
+분석	분석/NNG
+결과를	결과/NNG+를/JKO
+종합해	종합/NNG+하/XSV+아/EC
+‘2010년	‘/SS+2010/SN+년/NNB
+상반기	상반기/NNG
+백화점	백화점/NNG
+소비	소비/NNG
+트렌드’의	트렌드/NNG+’/SS+의/JKG
+열쇳말을	열쇳말/NNG+을/JKO
+‘스위트’(S.W.E.E.T)로	‘/SS+스위트/NNG+’/SS+(/SS+S/SL+./SP+W/SL+./SP+E/SL+./SP+E/SL+./SP+T/SL+)/SS+로/JKB
+정했다고	정하/VV+았/EP+다고/EC
+20일	20/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.208.3.2
+스포티즘(Sportism)과 날씨(Weather), 체험(Experience), 온라인 소비(E-consumer), 다용도(Transformer) 등 다섯 가지 항목의 앞글자를 딴 말이다.
+
+스포티즘(Sportism)과	스포티즘/NNG+(/SS+Sportism/SL+)/SS+과/JC
+날씨(Weather),	날씨/NNG+(/SS+Weather/SL+)/SS+,/SP
+체험(Experience),	체험/NNG+(/SS+Experience/SL+)/SS+,/SP
+온라인	온라인/NNG
+소비(E-consumer),	소비/NNG+(/SS+E/SL+-/SO+consumer/SL+)/SS+,/SP
+다용도(Transformer)	다용도/NNG+(/SS+Transformer/SL+)/SS
+등	등/NNB
+다섯	다섯/NR
+가지	가지/NNB
+항목의	항목/NNG+의/JKG
+앞글자를	앞/NNG+글자/NNG+를/JKO
+딴	따/VV+ㄴ/ETM
+말이다.	말/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000028.208.4.1
+‘스포티즘’은 밴쿠버 겨울 올림픽과 남아공 월드컵 등 스포츠 행사 등에 영향을 받아 패션업계도 스포츠 트렌드를 반영한 의류가 인기를 끌었다는 것을 의미한다.
+
+‘스포티즘’은	‘/SS+스포티즘/NNG+’/SS+은/JX
+밴쿠버	밴쿠버/NNP
+겨울	겨울/NNG
+올림픽과	올림픽/NNG+과/JC
+남아공	남아공/NNP
+월드컵	월드컵/NNG
+등	등/NNB
+스포츠	스포츠/NNG
+행사	행사/NNG
+등에	등/NNB+에/JKB
+영향을	영향/NNG+을/JKO
+받아	받/VV+아/EC
+패션업계도	패션업/NNG+계/XSN+도/JX
+트렌드를	트렌드/NNG+를/JKO
+반영한	반영/NNG+하/XSV+ㄴ/ETM
+의류가	의류/NNG+가/JKS
+인기를	인기/NNG+를/JKO
+끌었다는	끌/VV+었/EP+다는/ETM
+것을	것/NNB+을/JKO
+의미한다.	의미/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000028.208.4.2
+올봄 변덕스러운 ‘날씨’ 탓에 니트·재킷 등 간절기 의류가 잘 팔린 것도 주요 트렌드였다.
+
+올봄	올봄/NNG
+변덕스러운	변덕/NNG+스럽/XSA+ㄴ/ETM
+‘날씨’	‘/SS+날씨/NNG+’/SS
+탓에	탓/NNG+에/JKB
+니트·재킷	니트/NNG+·/SP+재킷/NNG
+등	등/NNB
+간절기	간절기/NNG
+의류가	의류/NNG+가/JKS
+잘	잘/MAG
+팔린	팔리/VV+ㄴ/ETM
+것도	것/NNB+도/JX
+주요	주요/NNG
+트렌드였다.	트렌드/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.208.4.3
+셰프·바리스타 등이 매장에서 제조 과정을 보여주는 ‘체험’형 식품관 매출도 높아졌다.
+
+셰프·바리스타	셰프/NNG+·/SP+바리스타/NNG
+등이	등/NNB+이/JKS
+매장에서	매장/NNG+에서/JKB
+제조	제조/NNG
+과정을	과정/NNG+을/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+‘체험’형	‘/SS+체험/NNG+’/SS+형/XSN
+식품관	식품관/NNG
+매출도	매출/NNG+도/JX
+높아졌다.	높아지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000028.208.4.4
+‘온라인’ 소비가 크게 늘고, 용도에 따라 형태를 바꾸는 변신형 ‘다용도’ 상품의 인기도 높았다.
+
+‘온라인’	‘/SS+온라인/NNG+’/SS
+소비가	소비/NNG+가/JKS
+크게	크/VA+게/EC
+늘고,	늘/VV+고/EC+,/SP
+용도에	용도/NNG+에/JKB
+따라	따르/VV+아/EC
+형태를	형태/NNG+를/JKO
+바꾸는	바꾸/VV+는/ETM
+변신형	변신/NNG+형/XSN
+‘다용도’	‘/SS+다용도/NNG+’/SS
+상품의	상품/NNG+의/JKG
+인기도	인기/NNG+도/JX
+높았다.	높/VA+았/EP+다/EF+./SF
+
+

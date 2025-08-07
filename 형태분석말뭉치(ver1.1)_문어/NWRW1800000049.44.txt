@@ -1,0 +1,268 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.44
+metadata : {}
+
+
+# id : NWRW1800000049.44.1.1
+애플보다 한 수 위 ‘3D 터치’ 기술 국내서 개발
+
+애플보다	애플/NNP+보다/JKB
+한	한/MMN
+수	수/NNG
+위	위/NNG
+‘3D	‘/SS+3/SN+D/SL
+터치’	터치/NNG+’/SS
+기술	기술/NNG
+국내서	국내/NNG+서/JKB
+개발	개발/NNG
+
+
+# id : NWRW1800000049.44.2.1
+표준연, 투명 촉각센서 선보여… 여러 손가락의 힘 동시에 인식
+
+표준연,	표준연/NNP+,/SP
+투명	투명/NNG
+촉각센서	촉각/NNG+센서/NNG
+선보여…	선보이/VV+어/EF+…/SE
+여러	여러/MMN
+손가락의	손가락/NNG+의/JKG
+힘	힘/NNG
+동시에	동시/NNG+에/JKB
+인식	인식/NNG
+
+
+# id : NWRW1800000049.44.3.1
+여러 손가락의 힘을 동시에 인식하는 투명한 3차원(3D) 촉각센서가 개발됐다.
+
+여러	여러/MMN
+손가락의	손가락/NNG+의/JKG
+힘을	힘/NNG+을/JKO
+동시에	동시/NNG+에/JKB
+인식하는	인식/NNG+하/XSV+는/ETM
+투명한	투명/NNG+하/XSA+ㄴ/ETM
+3차원(3D)	3/SN+차원/NNG+(/SS+3/SN+D/SL+)/SS
+촉각센서가	촉각/NNG+센서/NNG+가/JKS
+개발됐다.	개발/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.44.3.2
+액정표시장치(LCD) 위에서 손가락의 압력을 감지하는 기술은 이미 실용화돼 있지만 여러 군데를 동시에 감지하는 기술이 개발된 건 처음이다.
+
+액정표시장치(LCD)	액정/NNG+표시/NNG+장치/NNG+(/SS+LCD/SL+)/SS
+위에서	위/NNG+에서/JKB
+손가락의	손가락/NNG+의/JKG
+압력을	압력/NNG+을/JKO
+감지하는	감지/NNG+하/XSV+는/ETM
+기술은	기술/NNG+은/JX
+이미	이미/MAG
+실용화돼	실용/NNG+화/XSN+되/XSV+어/EC
+있지만	있/VX+지만/EC
+여러	여러/MMN
+군데를	군데/NNB+를/JKO
+동시에	동시/NNG+에/JKB
+기술이	기술/NNG+이/JKS
+개발된	개발/NNG+되/XSV+ㄴ/ETM
+건	거/NNB+ㄴ/JX
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.44.4.1
+김종호 한국표준과학연구원 책임연구원은 두 곳 이상의 지점에서 3차원 터치를 동시에 인식할 수 있는 투명 촉각센서를 개발했다고 21일 밝혔다.
+
+김종호	김종호/NNP
+한국표준과학연구원	한국표준과학연구원/NNP
+책임연구원은	책임/NNG+연구원/NNG+은/JX
+두	두/MMN
+곳	곳/NNG
+이상의	이상/NNG+의/JKG
+지점에서	지점/NNG+에서/JKB
+3차원	3/SN+차원/NNG
+터치를	터치/NNG+를/JKO
+동시에	동시/NNG+에/JKB
+인식할	인식/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+투명	투명/NNG
+촉각센서를	촉각/NNG+센서/NNG+를/JKO
+개발했다고	개발/NNG+하/XSV+았/EP+다고/EC
+21일	21/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.44.5.1
+지난해 애플은 화면을 누르는 힘을 인식해 다양한 기능을 작동시키는 ‘3D 터치’ 기술을 처음 공개한 바 있다.
+
+지난해	지난해/NNG
+애플은	애플/NNP+은/JX
+화면을	화면/NNG+을/JKO
+누르는	누르/VV+는/ETM
+힘을	힘/NNG+을/JKO
+인식해	인식/NNG+하/XSV+아/EC
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+기능을	기능/NNG+을/JKO
+작동시키는	작동/NNG+시키/XSV+는/ETM
+‘3D	‘/SS+3/SN+D/SL
+터치’	터치/NNG+’/SS
+기술을	기술/NNG+을/JKO
+처음	처음/NNG
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+바	바/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.44.5.2
+이번 연구는 여러 지점을 동시에 인식할 수 있다는 점에서 한 군데만 인식하는 애플 기술보다 한 단계 더 발전했다.
+
+이번	이번/NNG
+연구는	연구/NNG+는/JX
+여러	여러/MMN
+지점을	지점/NNG+을/JKO
+동시에	동시/NNG+에/JKB
+인식할	인식/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+점에서	점/NNG+에서/JKB
+한	한/MMN
+군데만	군데/NNB+만/JX
+인식하는	인식/NNG+하/XSV+는/ETM
+애플	애플/NNP
+기술보다	기술/NNG+보다/JKB
+단계	단계/NNG
+더	더/MAG
+발전했다.	발전/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.44.6.1
+연구진은 말랑하면서도 투명한 필름을 0.2mm 이하로 얇게 만들어 투명 전극판 2장 사이에 집어넣는 방식으로 센서를 만들었다.
+
+연구진은	연구진/NNG+은/JX
+말랑하면서도	말랑하/VA+면서/EC+도/JX
+투명한	투명/NNG+하/XSA+ㄴ/ETM
+필름을	필름/NNG+을/JKO
+0.2mm	0/SN+./SP+2/SN+mm/SW
+이하로	이하/NNG+로/JKB
+얇게	얇/VA+게/EC
+만들어	만들/VV+어/EC
+투명	투명/NNG
+전극판	전극/NNG+판/NNG
+2장	2/SN+장/NNB
+사이에	사이/NNG+에/JKB
+집어넣는	집어넣/VV+는/ETM
+방식으로	방식/NNG+으로/JKB
+센서를	센서/NNG+를/JKO
+만들었다.	만들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.44.6.2
+전극판을 누르면 안에 들어있는 필름의 두께가 달라지면서 힘의 세기를 인식한다.
+
+전극판을	전극/NNG+판/NNG+을/JKO
+누르면	누르/VV+면/EC
+안에	안/NNG+에/JKB
+들어있는	들/VV+어/EC+있/VX+는/ETM
+필름의	필름/NNG+의/JKG
+두께가	두께/NNG+가/JKS
+달라지면서	달라지/VV+면서/EC
+힘의	힘/NNG+의/JKG
+세기를	세기/NNG+를/JKO
+인식한다.	인식/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.44.6.3
+센서는 가시광선 투과율이 87%에 이를 정도로 높고 두께가 0.5mm로 얇아 현재 시판 중인 다양한 모바일 기기에 바로 적용할 수 있다.
+
+센서는	센서/NNG+는/JX
+가시광선	가시광선/NNG
+투과율이	투과/NNG+율/XSN+이/JKS
+87%에	87/SN+%/SW+에/JKB
+이를	이르/VV+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+높고	높/VA+고/EC
+두께가	두께/NNG+가/JKS
+0.5mm로	0/SN+./SP+5/SN+mm/SW+로/JKB
+얇아	얇/VA+아/EC
+현재	현재/MAG
+시판	시판/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+모바일	모바일/NNG
+기기에	기기/NNG+에/JKB
+바로	바로/MAG
+적용할	적용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.44.7.1
+이 기술을 피아노 게임에 적용할 경우 동시에 여러 손가락이 가하는 힘을 한꺼번에 인식해 훨씬 현실감 있게 연주할 수 있다.
+
+이	이/MMD
+기술을	기술/NNG+을/JKO
+피아노	피아노/NNG
+게임에	게임/NNG+에/JKB
+적용할	적용/NNG+하/XSV+ㄹ/ETM
+경우	경우/NNG
+동시에	동시/NNG+에/JKB
+여러	여러/MMN
+손가락이	손가락/NNG+이/JKS
+가하는	가하/VV+는/ETM
+힘을	힘/NNG+을/JKO
+한꺼번에	한꺼번에/MAG
+인식해	인식/NNG+하/XSV+아/EC
+훨씬	훨씬/MAG
+현실감	현실감/NNG
+있게	있/VA+게/EC
+연주할	연주/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.44.7.2
+또 터치패드를 누르는 힘의 차이로 비밀번호를 만들 경우 보안이 한층 강화된 신개념 도어록을 개발할 수 있다.
+
+또	또/MAG
+터치패드를	터치패드/NNG+를/JKO
+누르는	누르/VV+는/ETM
+힘의	힘/NNG+의/JKG
+차이로	차이/NNG+로/JKB
+비밀번호를	비밀번호/NNG+를/JKO
+만들	만들/VV+ㄹ/ETM
+경우	경우/NNG
+보안이	보안/NNG+이/JKS
+한층	한층/MAG
+강화된	강화/NNG+되/XSV+ㄴ/ETM
+신개념	신/XPN+개념/NNG
+도어록을	도어록/NNG+을/JKO
+개발할	개발/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.44.8.1
+김 연구원은 “멀티 3D 터치 기술이 실용화되면 스마트폰은 물론이고 보안, 게임 등 다양한 콘텐츠와 결합할 수 있을 것”이라고 말했다.
+
+김	김/NNP
+연구원은	연구원/NNG+은/JX
+“멀티	“/SS+멀티/NNG
+3D	3/SN+D/SL
+터치	터치/NNG
+기술이	기술/NNG+이/JKS
+실용화되면	실용/NNG+화/XSN+되/XSV+면/EC
+스마트폰은	스마트폰/NNG+은/JX
+물론이고	물론/NNG+이/VCP+고/EC
+보안,	보안/NNG+,/SP
+게임	게임/NNG
+등	등/NNB
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+콘텐츠와	콘텐츠/NNG+와/JKB
+결합할	결합/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

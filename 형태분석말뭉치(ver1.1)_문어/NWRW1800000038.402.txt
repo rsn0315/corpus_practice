@@ -1,0 +1,226 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.402
+metadata : {}
+
+
+# id : NWRW1800000038.402.1.1
+검찰, 국정원 댓글 관련 '경찰 CCTV 녹취록' 일부 왜곡
+
+검찰,	검찰/NNG+,/SP
+국정원	국정원/NNG
+댓글	댓글/NNG
+관련	관련/NNG
+'경찰	'/SS+경찰/NNG
+CCTV	CCTV/SL
+녹취록'	녹취록/NNG+'/SS
+일부	일부/NNG
+왜곡	왜곡/NNG
+
+
+# id : NWRW1800000038.402.2.1
+'경찰이 수사결과 은폐했다'는 인상 주도록 변형·과장 편집
+
+'경찰이	'/SS+경찰/NNG+이/JKS
+수사결과	수사/NNG+결과/NNG
+은폐했다'는	은폐/NNG+하/XSV+았/EP+다/EF+'/SS+는/ETM
+인상	인상/NNG
+주도록	주/VV+도록/EC
+변형·과장	변형/NNG+·/SP+과장/NNG
+편집	편집/NNG
+
+
+# id : NWRW1800000038.402.3.1
+검찰이 지난 6월 '경찰이 국가정보원 댓글 사건 중간수사 결과를 은폐했다'고 발표하면서 관련 증거물인 서울경찰청 사이버수사대 CCTV 녹취록을 변형·과장 편집해 공개했다는 의혹이 제기됐다.
+
+검찰이	검찰/NNG+이/JKS
+지난	지나/VV+ㄴ/ETM
+6월	6/SN+월/NNB
+'경찰이	'/SS+경찰/NNG+이/JKS
+국가정보원	국가/NNG+정보원/NNG
+댓글	댓글/NNG
+사건	사건/NNG
+중간수사	중간/NNG+수사/NNG
+결과를	결과/NNG+를/JKO
+은폐했다'고	은폐/NNG+하/XSV+았/EP+다/EF+'/SS+고/JKQ
+발표하면서	발표/NNG+하/XSV+면서/EC
+관련	관련/NNG
+증거물인	증거물/NNG+이/VCP+ㄴ/ETM
+서울경찰청	서울경찰청/NNP
+사이버수사대	사이버/NNG+수사대/NNG
+CCTV	CCTV/SL
+녹취록을	녹취록/NNG+을/JKO
+변형·과장	변형/NNG+·/SP+과장/NNG
+편집해	편집/NNG+하/XSV+아/EC
+공개했다는	공개/NNG+하/XSV+았/EP+다는/ETM
+의혹이	의혹/NNG+이/JKS
+제기됐다.	제기/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.402.3.2
+지난 16일 국정원 사건 국회 국정조사에서 새누리당 의원들이 검찰의 녹취록 왜곡 사실을 일부 공개했지만, 경찰은 검찰이 최소 15곳 이상 왜곡했다고 주장했다.
+
+지난	지나/VV+ㄴ/ETM
+16일	16/SN+일/NNB
+국정원	국정원/NNG
+사건	사건/NNG
+국회	국회/NNG
+국정조사에서	국정/NNG+조사/NNG+에서/JKB
+새누리당	새누리당/NNP
+의원들이	의원/NNG+들/XSN+이/JKS
+검찰의	검찰/NNG+의/JKG
+녹취록	녹취록/NNG
+왜곡	왜곡/NNG
+사실을	사실/NNG+을/JKO
+일부	일부/NNG
+공개했지만,	공개/NNG+하/XSV+았/EP+지만/EC+,/SP
+경찰은	경찰/NNG+은/JX
+검찰이	검찰/NNG+이/JKS
+최소	최소/NNG
+15곳	15/SN+곳/NNG
+이상	이상/NNG
+왜곡했다고	왜곡/NNG+하/XSV+았/EP+다고/EC
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.402.4.1
+본지가 경찰의 자체 녹취록과 검찰 수사결과 발표문을 비교·분석한 자료, CCTV 동영상을 입수해 핵심 대목을 비교한 결과, 일부 왜곡 주장은 사실로 확인됐다.
+
+본지가	본지/NNG+가/JKS
+경찰의	경찰/NNG+의/JKG
+자체	자체/NNG
+녹취록과	녹취록/NNG+과/JC
+검찰	검찰/NNG
+수사결과	수사/NNG+결과/NNG
+발표문을	발표문/NNG+을/JKO
+비교·분석한	비교/NNG+·/SP+분석/NNG+하/XSV+ㄴ/ETM
+자료,	자료/NNG+,/SP
+CCTV	CCTV/SL
+동영상을	동영상/NNG+을/JKO
+입수해	입수/NNG+하/XSV+아/EC
+핵심	핵심/NNG
+대목을	대목/NNG+을/JKO
+비교한	비교/NNG+하/XSV+ㄴ/ETM
+결과,	결과/NNG+,/SP
+일부	일부/NNG
+왜곡	왜곡/NNG
+주장은	주장/NNG+은/JX
+사실로	사실/NNG+로/JKB
+확인됐다.	확인/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.402.4.2
+검찰이 공식 수사발표문을 일부 왜곡한 것으로 확인될 경우 향후 재판에서 검찰의 증거 조작 논란이 일 것으로 보인다.
+
+검찰이	검찰/NNG+이/JKS
+공식	공식/NNG
+수사발표문을	수사/NNG+발표문/NNG+을/JKO
+일부	일부/NNG
+왜곡한	왜곡/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+확인될	확인/NNG+되/XSV+ㄹ/ETM
+경우	경우/NNG
+향후	향후/NNG
+재판에서	재판/NNG+에서/JKB
+검찰의	검찰/NNG+의/JKG
+증거	증거/NNG
+조작	조작/NNG
+논란이	논란/NNG+이/JKS
+일	일/VV+ㄹ/ETM
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000038.402.5.1
+검찰은 특히 "저는 이번에 박근혜 찍습니다"라는 게시글을 국정원 직원이 열람한 사실을 경찰이 확인하는 과정을, 마치 경찰이 국정원 직원의 선거 관련 글을 발견하는 장면으로 오해되도록 편집했다.
+
+검찰은	검찰/NNG+은/JX
+특히	특히/MAG
+"저는	"/SS+저/NP+는/JX
+이번에	이번/NNG+에/JKB
+박근혜	박근혜/NNP
+찍습니다"라는	찍/VV+습니다/EF+"/SS+이/VCP+라는/ETM
+게시글을	게시/NNG+글/NNG+을/JKO
+국정원	국정원/NNG
+직원이	직원/NNG+이/JKS
+열람한	열람/NNG+하/XSV+ㄴ/ETM
+사실을	사실/NNG+을/JKO
+경찰이	경찰/NNG+이/JKS
+확인하는	확인/NNG+하/XSV+는/ETM
+과정을,	과정/NNG+을/JKO+,/SP
+마치	마치/MAG
+직원의	직원/NNG+의/JKG
+선거	선거/NNG
+관련	관련/NNG
+글을	글/NNG+을/JKO
+발견하는	발견/NNG+하/XSV+는/ETM
+장면으로	장면/NNG+으로/JKB
+오해되도록	오해/NNG+되/XSV+도록/EC
+편집했다.	편집/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.402.5.2
+경찰이 대선 직전 국정원이 선거 관련 글을 썼다는 사실을 확인하고도 이를 은폐한 것처럼 발표했다는 것이다.
+
+경찰이	경찰/NNG+이/JKS
+대선	대선/NNG
+직전	직전/NNG
+국정원이	국정원/NNG+이/JKS
+선거	선거/NNG
+관련	관련/NNG
+글을	글/NNG+을/JKO
+썼다는	쓰/VV+었/EP+다는/ETM
+사실을	사실/NNG+을/JKO
+확인하고도	확인/NNG+하/XSV+고/EC+도/JX
+이를	이/NP+를/JKO
+은폐한	은폐/NNG+하/XSV+ㄴ/ETM
+것처럼	것/NNB+처럼/JKB
+발표했다는	발표/NNG+하/XSV+았/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.402.5.3
+경찰은 "오, 오. Got it(찾았다)" 등의 발언은 녹취록에서 찾아볼 수 없는 발언인데 검찰이 끼워넣었다고 주장했다.
+
+경찰은	경찰/NNG+은/JX
+"오,	"/SS+오/IC+,/SP
+오.	오/IC+./SF
+Got	Got/SL
+it(찾았다)"	it/SL+(/SS+찾/VV+았/EP+다/EF+)/SS+"/SS
+등의	등/NNB+의/JKG
+발언은	발언/NNG+은/JX
+녹취록에서	녹취록/NNG+에서/JKB
+찾아볼	찾/VV+아/EC+보/VV+ㄹ/ETM
+수	수/NNB
+없는	없/VA+는/ETM
+발언인데	발언/NNG+이/VCP+ㄴ데/EC
+검찰이	검찰/NNG+이/JKS
+끼워넣었다고	끼우/VV+어/EC+넣/VV+었/EP+다고/EC
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.402.6.1
+이에 대해 검찰은 "CCTV 녹취록 일부를 왈가왈부하는 대목은 앞으로 진행될 형사재판의 큰 흐름에는 문제가 없는 사소한 부분들"이라고 반박했다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+검찰은	검찰/NNG+은/JX
+"CCTV	"/SS+CCTV/SL
+녹취록	녹취록/NNG
+일부를	일부/NNG+를/JKO
+왈가왈부하는	왈가왈부/NNG+하/XSV+는/ETM
+대목은	대목/NNG+은/JX
+앞으로	앞/NNG+으로/JKB
+진행될	진행/NNG+되/XSV+ㄹ/ETM
+형사재판의	형사/NNG+재판/NNG+의/JKG
+큰	크/VA+ㄴ/ETM
+흐름에는	흐름/NNG+에/JKB+는/JX
+문제가	문제/NNG+가/JKS
+없는	없/VA+는/ETM
+사소한	사소하/VA+ㄴ/ETM
+부분들"이라고	부분/NNG+들/XSN+"/SS+이라고/JKQ
+반박했다.	반박/NNG+하/XSV+았/EP+다/EF+./SF
+
+

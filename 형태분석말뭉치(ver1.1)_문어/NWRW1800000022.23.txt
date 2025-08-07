@@ -1,0 +1,149 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.23
+metadata : {}
+
+
+# id : NWRW1800000022.23.1.1
+北, 미국의 정권교체기마다…;오바마 취임 3일前 성명 클린턴·부시 때에도 엄포
+
+北,	北/SH+,/SP
+미국의	미국/NNP+의/JKG
+정권교체기마다…;오바마	정권/NNG+교체기/NNG+마다/JX+…/SE+;/SW+오바마/NNP
+취임	취임/NNG
+3일前	3/SN+일/NNB+前/SH
+성명	성명/NNG
+클린턴·부시	클린턴/NNP+·/SP+부시/NNP
+때에도	때/NNG+에/JKB+도/JX
+엄포	엄포/NNG
+
+
+# id : NWRW1800000022.23.2.1
+북한의 이번 총참모부 대변인 성명은 미국 버락 오바마(Obama) 대통령 취임식을 불과 3일 앞두고 나왔다.
+
+북한의	북한/NNP+의/JKG
+이번	이번/NNG
+총참모부	총참모부/NNG
+대변인	대변인/NNG
+성명은	성명/NNG+은/JX
+미국	미국/NNP
+버락	버락/NNP
+오바마(Obama)	오바마/NNP+(/SS+Obama/SL+)/SS
+대통령	대통령/NNG
+취임식을	취임식/NNG+을/JKO
+불과	불과/MAG
+3일	3/SN+일/NNB
+앞두고	앞두/VV+고/EC
+나왔다.	나오/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.23.3.1
+이처럼 정권 교체기 등 미국의 중요 시점마다 액션을 취하는 건 북한의 오래된 압박전술이다.
+
+이처럼	이/NP+처럼/JKB
+정권	정권/NNG
+교체기	교체기/NNG
+등	등/NNB
+미국의	미국/NNP+의/JKG
+중요	중요/NNG
+시점마다	시점/NNG+마다/JX
+액션을	액션/NNG+을/JKO
+취하는	취하/VV+는/ETM
+건	거/NNB+ㄴ/JX
+북한의	북한/NNP+의/JKG
+오래된	오래/MAG+되/XSA+ㄴ/ETM
+압박전술이다.	압박/NNG+전술/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.23.3.2
+북한은 핵사찰 문제로 국제원자력기구(IAEA)와 마찰을 빚고 있던 1993년 1월 클린턴(Clinton) 행정부가 출범하자 핵무기확산금지조약(NPT) 탈퇴를 경고했고, 결국 3월 공식 탈퇴해 '1차 핵 위기'를 일으켰다.
+
+북한은	북한/NNP+은/JX
+핵사찰	핵/NNG+사찰/NNG
+문제로	문제/NNG+로/JKB
+국제원자력기구(IAEA)와	국제원자력기구/NNP+(/SS+IAEA/SL+)/SS+와/JKB
+마찰을	마찰/NNG+을/JKO
+빚고	빚/VV+고/EC
+있던	있/VX+던/ETM
+1993년	1993/SN+년/NNB
+1월	1/SN+월/NNB
+클린턴(Clinton)	클린턴/NNP+(/SS+Clinton/SL+)/SS
+행정부가	행정부/NNG+가/JKS
+출범하자	출범/NNG+하/XSV+자/EC
+핵무기확산금지조약(NPT)	핵무기/NNG+확산/NNG+금지/NNG+조약/NNG+(/SS+NPT/SL+)/SS
+탈퇴를	탈퇴/NNG+를/JKO
+경고했고,	경고/NNG+하/XSV+았/EP+고/EC+,/SP
+결국	결국/MAG
+3월	3/SN+월/NNB
+공식	공식/NNG
+탈퇴해	탈퇴/NNG+하/XSV+아/EC
+'1차	'/SS+1/SN+차/NNB
+핵	핵/NNG
+위기'를	위기/NNG+'/SS+를/JKO
+일으켰다.	일으키/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.23.4.1
+6자회담이 진행 중이던 2005년 1월 부시(Bush) 2기 행정부가 출범할 때도 마찬가지였다.
+
+6자회담이	6/SN+자/NNB+회담/NNG+이/JKS
+진행	진행/NNG
+중이던	중/NNB+이/VCP+던/ETM
+2005년	2005/SN+년/NNB
+1월	1/SN+월/NNB
+부시(Bush)	부시/NNP+(/SS+Bush/SL+)/SS
+2기	2/SN+기/NNG
+행정부가	행정부/NNG+가/JKS
+출범할	출범/NNG+하/XSV+ㄹ/ETM
+때도	때/NNG+도/JX
+마찬가지였다.	마찬가지/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.23.4.2
+북한은 당시 내심 미 대선에서 대북 강경 성향인 공화당 정부의 패배를 기대하고 있었던 것으로 알려졌다.
+
+북한은	북한/NNP+은/JX
+당시	당시/NNG
+내심	내심/NNG
+미	미/NNP
+대선에서	대선/NNG+에서/JKB
+대북	대북/NNG
+강경	강경/NNG
+성향인	성향/NNG+이/VCP+ㄴ/ETM
+공화당	공화당/NNP
+정부의	정부/NNG+의/JKG
+패배를	패배/NNG+를/JKO
+기대하고	기대/NNG+하/XSV+고/EC
+있었던	있/VX+었/EP+던/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.23.4.3
+그러나 부시가 재선에 성공하자 2월 외무성 성명을 통해 6자회담의 무기한 중단을 선언하고 "자위를 위해 핵무기를 제조했다"며 처음으로 핵무기 보유도 공식화했다.
+
+그러나	그러나/MAJ
+부시가	부시/NNP+가/JKS
+재선에	재선/NNG+에/JKB
+성공하자	성공/NNG+하/XSV+자/EC
+2월	2/SN+월/NNB
+외무성	외무성/NNG
+성명을	성명/NNG+을/JKO
+통해	통하/VV+아/EC
+6자회담의	6/SN+자/NNB+회담/NNG+의/JKG
+무기한	무/XPN+기한/NNG
+중단을	중단/NNG+을/JKO
+선언하고	선언/NNG+하/XSV+고/EC
+"자위를	"/SS+자위/NNG+를/JKO
+위해	위하/VV+아/EC
+핵무기를	핵무기/NNG+를/JKO
+제조했다"며	제조/NNG+하/XSV+았/EP+다/EF+"/SS+며/EC
+처음으로	처음/NNG+으로/JKB
+핵무기	핵무기/NNG
+보유도	보유/NNG+도/JX
+공식화했다.	공식/NNG+화/XSN+하/XSV+았/EP+다/EF+./SF
+
+

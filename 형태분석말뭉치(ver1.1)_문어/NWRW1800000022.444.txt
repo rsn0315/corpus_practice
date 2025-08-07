@@ -1,0 +1,203 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.444
+metadata : {}
+
+
+# id : NWRW1800000022.444.1.1
+[NCSI] 이해선 CJ오쇼핑 대표;"차별화된 '오 트렌드' 서비스로 월평균 방문자 10% 증가"
+
+[NCSI]	[/SS+NCSI/SL+]/SS
+이해선	이해선/NNP
+CJ오쇼핑	CJ오쇼핑/NNP
+대표;"차별화된	대표/NNG+;/SW+"/SS+차별/NNG+화/XSN+되/XSV+ㄴ/ETM
+'오	'/SS+오/NNP
+트렌드'	트렌드/NNP+'/SS
+서비스로	서비스/NNG+로/JKB
+월평균	월평균/NNG
+방문자	방문자/NNG
+10%	10/SN+%/SW
+증가"	증가/NNG+"/SS
+
+
+# id : NWRW1800000022.444.2.1
+그 어떤 업태보다 경쟁이 치열한 TV홈쇼핑과 온라인쇼핑몰 업계에서 꾸준히 진행해온 차별화 노력을 고객이 평가해준 것 같습니다.
+
+그	그/MMD
+어떤	어떤/MMD
+업태보다	업태/NNG+보다/JKB
+경쟁이	경쟁/NNG+이/JKS
+치열한	치열/NNG+하/XSA+ㄴ/ETM
+TV홈쇼핑과	TV/SL+홈쇼핑/NNG+과/JC
+온라인쇼핑몰	온라인/NNG+쇼핑몰/NNG
+업계에서	업계/NNG+에서/JKB
+꾸준히	꾸준히/MAG
+진행해온	진행/NNG+하/XSV+아/EC+오/VX+ㄴ/ETM
+차별화	차별/NNG+화/XSN
+노력을	노력/NNG+을/JKO
+고객이	고객/NNG+이/JKS
+평가해준	평가/NNG+하/XSV+아/EC+주/VX+ㄴ/ETM
+것	것/NNB
+같습니다.	같/VA+습니다/EF+./SF
+
+
+# id : NWRW1800000022.444.3.1
+CJ몰을 운영하는 CJ오쇼핑의 이해선<사진> 대표는 "올해로 CJ오쇼핑은 8년 연속, CJ몰은 6년 연속으로 1위를 차지해 매우 영광스럽다"며 이렇게 말했다.
+
+CJ몰을	CJ몰/NNP+을/JKO
+운영하는	운영/NNG+하/XSV+는/ETM
+CJ오쇼핑의	CJ오쇼핑/NNP+의/JKG
+이해선<사진>	이해선/NNP+</SS+사진/NNG+>/SS
+대표는	대표/NNG+는/JX
+"올해로	"/SS+올해/NNG+로/JKB
+CJ오쇼핑은	CJ오쇼핑/NNP+은/JX
+8년	8/SN+년/NNB
+연속,	연속/NNG+,/SP
+CJ몰은	CJ몰/NNP+은/JX
+6년	6/SN+년/NNB
+연속으로	연속/NNG+으로/JKB
+1위를	1/SN+위/NNB+를/JKO
+차지해	차지/NNG+하/XSV+아/EC
+매우	매우/MAG
+영광스럽다"며	영광/NNG+스럽/XSA+다/EF+"/SS+며/EC
+이렇게	이렇/VA+게/EC
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.444.4.1
+올해 CJ몰은 다른 인터넷쇼핑몰에서 시도하지 않았던 다양한 서비스를 선보이며 월평균 순 방문자 수가 지난해보다 10% 정도 늘었다.
+
+올해	올해/NNG
+CJ몰은	CJ몰/NNP+은/JX
+다른	다른/MMD
+인터넷쇼핑몰에서	인터넷/NNG+쇼핑몰/NNG+에서/JKB
+시도하지	시도/NNG+하/XSV+지/EC
+않았던	않/VX+았/EP+던/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+서비스를	서비스/NNG+를/JKO
+선보이며	선보이/VV+며/EC
+월평균	월평균/NNG
+순	순/MMA
+방문자	방문자/NNG
+수가	수/NNG+가/JKS
+지난해보다	지난해/NNG+보다/JKB
+10%	10/SN+%/SW
+정도	정도/NNG
+늘었다.	늘/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.444.4.2
+'오 트렌드(O'Trend)'라는 새로운 쇼핑 서비스가 공신이었다.
+
+'오	'/SS+오/NNP
+트렌드(O'Trend)'라는	트렌드/NNP+(/SS+O/SL+'/SS+Trend/SL+)/SS+'/SS+이/VCP+라는/ETM
+새로운	새롭/VA+ㄴ/ETM
+쇼핑	쇼핑/NNG
+서비스가	서비스/NNG+가/JKS
+공신이었다.	공신/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.444.4.3
+'오 트렌드'는 의·식·주·유(遊) 네 개의 범주를 갖추고 25~34세 생활 전반에 걸친 최신 유행 정보를 제공하고, 소비자가 원할 경우 관련 상품을 CJ몰에서 살 수 있도록 인터넷으로 연결했다.
+
+'오	'/SS+오/NNP
+트렌드'는	트렌드/NNP+'/SS+는/JX
+의·식·주·유(遊)	의·식·주·유/NNG+(/SS+遊/SH+)/SS
+네	네/MMN
+개의	개/NNB+의/JKG
+범주를	범주/NNG+를/JKO
+갖추고	갖추/VV+고/EC
+25~34세	25/SN+~/SO+34/SN+세/NNB
+생활	생활/NNG
+전반에	전반/NNG+에/JKB
+걸친	걸치/VV+ㄴ/ETM
+최신	최신/NNG
+유행	유행/NNG
+정보를	정보/NNG+를/JKO
+제공하고,	제공/NNG+하/XSV+고/EC+,/SP
+소비자가	소비자/NNG+가/JKS
+원할	원/NNG+하/XSV+ㄹ/ETM
+경우	경우/NNG
+관련	관련/NNG
+상품을	상품/NNG+을/JKO
+CJ몰에서	CJ몰/NNP+에서/JKB
+살	살/VV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+인터넷으로	인터넷/NNG+으로/JKB
+연결했다.	연결/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.444.5.1
+이해선 대표는 "고객에게 필요한 것을 찾아서 권해주는 '라이프스타일 쇼퍼'로 자리매김하기 위한 노력의 일환"이라며 "최근에는 선물을 구매하려는 이들을 위한 쇼핑 제안형 매장인 '오 기프트'를 열어 호응을 얻고 있다"고 밝혔다.
+
+이해선	이해선/NNP
+대표는	대표/NNG+는/JX
+"고객에게	"/SS+고객/NNG+에게/JKB
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+것을	것/NNB+을/JKO
+찾아서	찾/VV+아서/EC
+권해주는	권/NNG+하/XSV+아/EC+주/VX+는/ETM
+'라이프스타일	'/SS+라이프스타일/NNG
+쇼퍼'로	쇼퍼/NNG+'/SS+로/JKB
+자리매김하기	자리매김/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+노력의	노력/NNG+의/JKG
+일환"이라며	일환/NNG+"/SS+이/VCP+라며/EC
+"최근에는	"/SS+최근/NNG+에/JKB+는/JX
+선물을	선물/NNG+을/JKO
+구매하려는	구매/NNG+하/XSV+려는/ETM
+이들을	이/NNB+들/XSN+을/JKO
+쇼핑	쇼핑/NNG
+제안형	제안/NNG+형/XSN
+매장인	매장/NNG+이/VCP+ㄴ/ETM
+'오	'/SS+오/NNP
+기프트'를	기프트/NNP+'/SS+를/JKO
+열어	열/VV+어/EC
+호응을	호응/NNG+을/JKO
+얻고	얻/VV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.444.6.1
+CJ몰은 대구백화점, AK플라자와 제휴해 백화점 몰도 운영하고 있다.
+
+CJ몰은	CJ몰/NNP+은/JX
+대구백화점,	대구백화점/NNP+,/SP
+AK플라자와	AK플라자/NNP+와/JKB
+제휴해	제휴/NNG+하/XSV+아/EC
+백화점	백화점/NNG
+몰도	몰/NNG+도/JX
+운영하고	운영/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.444.7.1
+이 대표는 "고객의 작은 불만 사항 하나하나를 새겨듣고 개선할 수 있는 방안을 모색해야 장기 성장이 가능하다는 점을 잊지 않겠다"고 말했다.
+
+이	이/NNP
+대표는	대표/NNG+는/JX
+"고객의	"/SS+고객/NNG+의/JKG
+작은	작/VA+은/ETM
+불만	불만/NNG
+사항	사항/NNG
+하나하나를	하나하나/NNG+를/JKO
+새겨듣고	새겨듣/VV+고/EC
+개선할	개선/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+방안을	방안/NNG+을/JKO
+모색해야	모색/NNG+하/XSV+아야/EC
+장기	장기/NNG
+성장이	성장/NNG+이/JKS
+가능하다는	가능/NNG+하/XSA+다는/ETM
+점을	점/NNG+을/JKO
+잊지	잊/VV+지/EC
+않겠다"고	않/VX+겠/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

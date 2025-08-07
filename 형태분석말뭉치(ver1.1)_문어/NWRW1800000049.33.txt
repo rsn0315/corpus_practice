@@ -1,0 +1,360 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.33
+metadata : {}
+
+
+# id : NWRW1800000049.33.1.1
+그룹내 ‘전산담당’ SI업체들, ICT 선봉대로 나선다
+
+그룹내	그룹/NNG+내/NNB
+‘전산담당’	‘/SS+전산/NNG+담당/NNG+’/SS
+SI업체들,	SI/SL+업체/NNG+들/XSN+,/SP
+ICT	ICT/SL
+선봉대로	선봉대/NNG+로/JKB
+나선다	나서/VV+ㄴ다/EF
+
+
+# id : NWRW1800000049.33.2.1
+SK C&C-한화 S&C-삼성 SDS 등 인공지능-빅데이터 대응력 빨라 벤처투자 펀드조성 중책맡아
+
+SK	SK/SL
+C&C-한화	C/SL+&/SW+C/SL+-/SO+한화/NNP
+S&C-삼성	S/SL+&/SW+C/SL+-/SO+삼성/NNP
+SDS	SDS/SL
+등	등/NNB
+인공지능-빅데이터	인공/NNG+지능/NNG+-/SO+빅데이터/NNG
+대응력	대응력/NNG
+빨라	빠르/VA+아/EC
+벤처투자	벤처/NNG+투자/NNG
+펀드조성	펀드/NNG+조성/NNG
+중책맡아	중책/NNG+맡/VV+아/EF
+
+
+# id : NWRW1800000049.33.3.1
+대기업 계열사로 전산 관련 솔루션 사업을 벌였던 SK 주식회사 C&C와 한화 S&C, 삼성SDS 등 시스템통합(SI) 업체들이 최근 들어 벤처투자 펀드를 조성하는 등 창업 생태계 조성에 앞장서고 있다.
+
+대기업	대/XPN+기업/NNG
+계열사로	계열사/NNG+로/JKB
+전산	전산/NNG
+관련	관련/NNG
+솔루션	솔루션/NNG
+사업을	사업/NNG+을/JKO
+벌였던	벌이/VV+었/EP+던/ETM
+SK	SK/SL
+주식회사	주식회사/NNG
+C&C와	C/SL+&/SW+C/SL+와/JC
+한화	한화/NNP
+S&C,	S/SL+&/SW+C/SL+,/SP
+삼성SDS	삼성SDS/NNP
+등	등/NNB
+시스템통합(SI)	시스템/NNG+통합/NNG+(/SS+SI/SL+)/SS
+업체들이	업체/NNG+들/XSN+이/JKS
+최근	최근/MAG
+들어	들/VV+어/EC
+벤처투자	벤처/NNG+투자/NNG
+펀드를	펀드/NNG+를/JKO
+조성하는	조성/NNG+하/XSV+는/ETM
+창업	창업/NNG
+생태계	생태/NNG+계/XSN
+조성에	조성/NNG+에/JKB
+앞장서고	앞장서/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.33.3.2
+그룹 관계사들로부터 하는 수주로는 성장의 한계를 느끼면서 인공지능(AI)과 빅데이터 등 유망 정보통신기술(ICT) 분야에서 새로운 성장 동력을 찾는 행보로 보인다.
+
+그룹	그룹/NNG
+관계사들로부터	관계사/NNG+들/XSN+로부터/JKB
+하는	하/VV+는/ETM
+수주로는	수주/NNG+로/JKB+는/JX
+성장의	성장/NNG+의/JKG
+한계를	한계/NNG+를/JKO
+느끼면서	느끼/VV+면서/EC
+인공지능(AI)과	인공/NNG+지능/NNG+(/SS+AI/SL+)/SS+과/JC
+빅데이터	빅데이터/NNG
+등	등/NNB
+유망	유망/NNG
+정보통신기술(ICT)	정보/NNG+통신/NNG+기술/NNG+(/SS+ICT/SL+)/SS
+분야에서	분야/NNG+에서/JKB
+새로운	새롭/VA+ㄴ/ETM
+성장	성장/NNG
+동력을	동력/NNG+을/JKO
+찾는	찾/VV+는/ETM
+행보로	행보/NNG+로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.33.3.3
+유망 분야를 발굴해 투자함으로써 투자 수익뿐만 아니라 새로운 시장도 창출하겠다는 전략이다.
+
+유망	유망/NNG
+분야를	분야/NNG+를/JKO
+발굴해	발굴/NNG+하/XSV+아/EC
+투자함으로써	투자/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+투자	투자/NNG
+수익뿐만	수익/NNG+뿐/JX+만/JX
+아니라	아니/VCN+라/EC
+새로운	새롭/VA+ㄴ/ETM
+시장도	시장/NNG+도/JX
+창출하겠다는	창출/NNG+하/XSV+겠/EP+다는/ETM
+전략이다.	전략/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.4.1
+SK㈜ C&C는 올해 1분기(1∼3월) 중소·벤처기업의 체계적인 발굴, 육성을 위해 자회사 SK인포섹에 ‘SK강소기업벤처스 프로그램’을 만들고, 국내 네트워크 보안 전문업체 ‘아토리서치’에 20억 원을 투자했다.
+
+SK㈜	SK/SL+㈜/SW
+C&C는	C/SL+&/SW+C/SL+는/JX
+올해	올해/NNG
+1분기(1∼3월)	1/SN+분기/NNG+(/SS+1/SN+∼/SO+3/SN+월/NNB+)/SS
+중소·벤처기업의	중소/NNG+·/SP+벤처/NNG+기업/NNG+의/JKG
+체계적인	체계/NNG+적/XSN+이/VCP+ㄴ/ETM
+발굴,	발굴/NNG+,/SP
+육성을	육성/NNG+을/JKO
+위해	위하/VV+아/EC
+자회사	자회사/NNG
+SK인포섹에	SK인포섹/NNP+에/JKB
+‘SK강소기업벤처스	‘/SS+SK/SL+강소기업/NNG+벤처스/NNG
+프로그램’을	프로그램/NNG+’/SS+을/JKO
+만들고,	만들/VV+고/EC+,/SP
+국내	국내/NNG
+네트워크	네트워크/NNG
+보안	보안/NNG
+전문업체	전문/NNG+업체/NNG
+‘아토리서치’에	‘/SS+아토리서치/NNP+’/SS+에/JKB
+20억	20/SN+억/NR
+원을	원/NNB+을/JKO
+투자했다.	투자/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.5.1
+SK강소기업벤처스는 2019년까지 스마트팩토리 핀테크 AI 로보틱스 헬스케어 등 미래 유망 ICT 분야 벤처회사에 약 1000억 원을 투자할 방침이다.
+
+SK강소기업벤처스는	SK/SL+강소기업/NNG+벤처스/NNG+는/JX
+2019년까지	2019/SN+년/NNB+까지/JX
+스마트팩토리	스마트팩토리/NNG
+핀테크	핀테크/NNG
+AI	AI/SL
+로보틱스	로보틱스/NNG
+헬스케어	헬스케어/NNG
+등	등/NNB
+미래	미래/NNG
+유망	유망/NNG
+ICT	ICT/SL
+분야	분야/NNG
+벤처회사에	벤처/NNG+회사/NNG+에/JKB
+약	약/MMA
+1000억	1000/SN+억/NR
+원을	원/NNB+을/JKO
+투자할	투자/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.6.1
+박정호 SK㈜ C&C 사장은 “미래 신성장 영역에 해당하는 중소·벤처기업에 투자해 사업연계를 하는 등 동반 성장하는 모델을 추구할 것”이라고 말했다.
+
+박정호	박정호/NNP
+SK㈜	SK/SL+㈜/SW
+C&C	C/SL+&/SW+C/SL
+사장은	사장/NNG+은/JX
+“미래	“/SS+미래/NNG
+신성장	신/XPN+성장/NNG
+영역에	영역/NNG+에/JKB
+해당하는	해당/NNG+하/XSV+는/ETM
+중소·벤처기업에	중소/NNG+·/SP+벤처/NNG+기업/NNG+에/JKB
+투자해	투자/NNG+하/XSV+아/EC
+사업연계를	사업/NNG+연계/NNG+를/JKO
+하는	하/VV+는/ETM
+등	등/NNB
+동반	동반/NNG
+성장하는	성장/NNG+하/XSV+는/ETM
+모델을	모델/NNG+을/JKO
+추구할	추구/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.7.1
+아울러 한화 S&C는 2014년부터 액셀러레이터(창업 보육기관) ‘드림플러스’를 만들어 스타트업 육성 및 투자에 나서고 있다.
+
+아울러	아울러/MAG
+한화	한화/NNP
+S&C는	S/SL+&/SW+C/SL+는/JX
+2014년부터	2014/SN+년/NNB+부터/JX
+액셀러레이터(창업	액셀러레이터/NNG+(/SS+창업/NNG
+보육기관)	보육/NNG+기관/NNG+)/SS
+‘드림플러스’를	‘/SS+드림플러스/NNP+’/SS+를/JKO
+만들어	만들/VV+어/EC
+스타트업	스타트업/NNG
+육성	육성/NNG
+및	및/MAG
+투자에	투자/NNG+에/JKB
+나서고	나서/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.33.7.2
+이 회사는 현재까지 미국 중국 일본 동남아시아 등 국내외 25개 스타트업에 총 100억 원을 투자했으며, 10년간 총 350억 원을 소진할 계획이다.
+
+이	이/MMD
+회사는	회사/NNG+는/JX
+현재까지	현재/NNG+까지/JX
+미국	미국/NNP
+중국	중국/NNP
+일본	일본/NNP
+동남아시아	동남아시아/NNP
+등	등/NNB
+국내외	국내외/NNG
+25개	25/SN+개/NNB
+스타트업에	스타트업/NNG+에/JKB
+총	총/MMA
+100억	100/SN+억/NR
+원을	원/NNB+을/JKO
+투자했으며,	투자/NNG+하/XSV+았/EP+으며/EC+,/SP
+10년간	10/SN+년/NNB+간/XSN
+350억	350/SN+억/NR
+소진할	소진/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.8.1
+드림플러스는 대기업의 글로벌 인프라를 활용해 스타트업들이 해외에서 사무실을 손쉽게 임차할 수 있도록 하는 내용의 ‘글로벌 확장 프로그램(GEP)’을 운영하면서 창업자들의 가려운 곳을 긁어주고 있다.
+
+드림플러스는	드림플러스/NNP+는/JX
+대기업의	대/XPN+기업/NNG+의/JKG
+글로벌	글로벌/NNG
+인프라를	인프라/NNG+를/JKO
+활용해	활용/NNG+하/XSV+아/EC
+스타트업들이	스타트업/NNG+들/XSN+이/JKS
+해외에서	해외/NNG+에서/JKB
+사무실을	사무실/NNG+을/JKO
+손쉽게	손쉽/VA+게/EC
+임차할	임차/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+하는	하/VX+는/ETM
+내용의	내용/NNG+의/JKG
+‘글로벌	‘/SS+글로벌/NNG
+확장	확장/NNG
+프로그램(GEP)’을	프로그램/NNG+(/SS+GEP/SL+)/SS+’/SS+을/JKO
+운영하면서	운영/NNG+하/XSV+면서/EC
+창업자들의	창업자/NNG+들/XSN+의/JKG
+가려운	가렵/VA+ㄴ/ETM
+곳을	곳/NNG+을/JKO
+긁어주고	긁/VV+어/EC+주/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.33.8.2
+벤처기업 육성 기관 스타트업얼라이언스가 13일 발간한 ‘스타트업 트렌드 리포트 2016’에서 드림플러스는 창업자가 투자받고 싶어 하는 초기투자회사 1순위로 손꼽히기도 했다.
+
+벤처기업	벤처/NNG+기업/NNG
+육성	육성/NNG
+기관	기관/NNG
+스타트업얼라이언스가	스타트업얼라이언스/NNP+가/JKS
+13일	13/SN+일/NNB
+발간한	발간/NNG+하/XSV+ㄴ/ETM
+‘스타트업	‘/SS+스타트업/NNG
+트렌드	트렌드/NNG
+리포트	리포트/NNG
+2016’에서	2016/SN+’/SS+에서/JKB
+드림플러스는	드림플러스/NNP+는/JX
+창업자가	창업자/NNG+가/JKS
+투자받고	투자/NNG+받/XSV+고/EC
+싶어	싶/VX+어/EC
+하는	하/VX+는/ETM
+초기투자회사	초기/NNG+투자/NNG+회사/NNG
+1순위로	1/SN+순위/NNG+로/JKB
+손꼽히기도	손꼽히/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.9.1
+삼성SDS는 2015년 7월 삼성벤처투자와 신기술사업투자조합 펀드를 조성해 AI, 사물인터넷(IoT) 분야 등 유망 벤처회사에 100억 원을 투자한다는 계획을 밝혔다.
+
+삼성SDS는	삼성SDS/NNP+는/JX
+2015년	2015/SN+년/NNB
+7월	7/SN+월/NNB
+삼성벤처투자와	삼성벤처투자/NNP+와/JC
+신기술사업투자조합	신/XPN+기술/NNG+사업/NNG+투자/NNG+조합/NNG
+펀드를	펀드/NNG+를/JKO
+조성해	조성/NNG+하/XSV+아/EC
+AI,	AI/SL+,/SP
+사물인터넷(IoT)	사물/NNG+인터넷/NNG+(/SS+IoT/SL+)/SS
+분야	분야/NNG
+등	등/NNB
+유망	유망/NNG
+벤처회사에	벤처/NNG+회사/NNG+에/JKB
+100억	100/SN+억/NR
+원을	원/NNB+을/JKO
+투자한다는	투자/NNG+하/XSV+ㄴ다는/ETM
+계획을	계획/NNG+을/JKO
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.9.2
+올해 7월에는 사이버보안 업체 다크트레이스, 블록체인 전문 기술업체 블로코 등에 투자했다.
+
+올해	올해/NNG
+7월에는	7/SN+월/NNB+에/JKB+는/JX
+사이버보안	사이버/NNG+보안/NNG
+업체	업체/NNG
+다크트레이스,	다크트레이스/NNP+,/SP
+블록체인	블록체인/NNG
+전문	전문/NNG
+기술업체	기술업체/NNG
+블로코	블로코/NNP
+등에	등/NNB+에/JKB
+투자했다.	투자/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.33.10.1
+함재춘 한국IT서비스산업협회(ITSA) 정책연구팀장은 “계열사 물량의 감소, 공공소프트웨어(SW) 사업의 대기업 참여 제한 등으로 위기를 맞은 SI업체들이 신성장동력을 찾기 위해 스타트업에 적극 지원하고 있다”며 “기술력을 가진 스타트업이 IT 인프라를 가진 SI 업체와 만나면 훨씬 빠른 속도로 관련 시장을 키울 수 있을 것”이라고 말했다.
+
+함재춘	함재춘/NNP
+한국IT서비스산업협회(ITSA)	한국IT서비스산업협회/NNP+(/SS+ITSA/SL+)/SS
+정책연구팀장은	정책/NNG+연구/NNG+팀장/NNG+은/JX
+“계열사	“/SS+계열사/NNG
+물량의	물량/NNG+의/JKG
+감소,	감소/NNG+,/SP
+공공소프트웨어(SW)	공공/NNG+소프트웨어/NNG+(/SS+SW/SL+)/SS
+사업의	사업/NNG+의/JKG
+대기업	대/XPN+기업/NNG
+참여	참여/NNG
+제한	제한/NNG
+등으로	등/NNB+으로/JKB
+위기를	위기/NNG+를/JKO
+맞은	맞/VV+은/ETM
+SI업체들이	SI/SL+업체/NNG+들/XSN+이/JKS
+신성장동력을	신/XPN+성장/NNG+동력/NNG+을/JKO
+찾기	찾/VV+기/ETN
+위해	위하/VV+아/EC
+스타트업에	스타트업/NNG+에/JKB
+적극	적극/NNG
+지원하고	지원/NNG+하/XSV+고/EC
+있다”며	있/VX+다/EF+”/SS+며/EC
+“기술력을	“/SS+기술력/NNG+을/JKO
+가진	가지/VV+ㄴ/ETM
+스타트업이	스타트업/NNG+이/JKS
+IT	IT/SL
+인프라를	인프라/NNG+를/JKO
+SI	SI/SL
+업체와	업체/NNG+와/JKB
+만나면	만나/VV+면/EC
+훨씬	훨씬/MAG
+빠른	빠르/VA+ㄴ/ETM
+속도로	속도/NNG+로/JKB
+관련	관련/NNG
+시장을	시장/NNG+을/JKO
+키울	키우/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,424 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.23
+metadata : {}
+
+
+# id : NWRW1800000030.23.1.1
+오바마 'CIA같은 軍, 軍같은 CIA' 만든다
+
+오바마	오바마/NNP
+'CIA같은	'/SS+CIA/SL+같/VA+은/ETM
+軍,	軍/SH+,/SP
+軍같은	軍/SH+같/VA+은/ETM
+CIA'	CIA/SL+'/SS
+만든다	만들/VV+ㄴ다/EF
+
+
+# id : NWRW1800000030.23.2.1
+?집권 후반기 국방·안보팀 진용
+
+?집권	?/SF+집권/NNG
+후반기	후반기/NNG
+국방·안보팀	국방/NNG+·/SP+안보/NNG+팀/NNG
+진용	진용/NNG
+
+
+# id : NWRW1800000030.23.3.1
+집권 후반기에 접어든 버락 오바마 미국 대통령이 지난달 30일 마틴 뎀프시 육군참모총장을 합참의장에 지명함으로써 '제2기 국방·안보팀' 편성을 완료했다.
+
+집권	집권/NNG
+후반기에	후반기/NNG+에/JKB
+접어든	접어들/VV+ㄴ/ETM
+버락	버락/NNP
+오바마	오바마/NNP
+미국	미국/NNP
+대통령이	대통령/NNG+이/JKS
+지난달	지난달/NNG
+30일	30/SN+일/NNB
+마틴	마틴/NNP
+뎀프시	뎀프시/NNP
+육군참모총장을	육군/NNG+참모/NNG+총장/NNG+을/JKO
+합참의장에	합참/NNG+의장/NNG+에/JKB
+지명함으로써	지명/NNG+하/XSV+ㅁ/ETN+으로써/JKB
+'제2기	'/SS+제/XPN+2/SN+기/NNG
+국방·안보팀'	국방/NNG+·/SP+안보/NNG+팀/NNG+'/SS
+편성을	편성/NNG+을/JKO
+완료했다.	완료/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.3.2
+뉴욕타임스는 "오바마의 새 국방·안보팀은 올해 7월 시작될 아프가니스탄 철군, 막대한 재정 적자로 인한 국방 예산 삭감, 나날이 확대되는 사이버전 등 전쟁의 양상과 작전 환경이 급변하는 시기에 미국의 안보를 책임지게 된다"고 전했다.
+
+뉴욕타임스는	뉴욕타임스/NNP+는/JX
+"오바마의	"/SS+오바마/NNP+의/JKG
+새	새/MMA
+국방·안보팀은	국방/NNG+·/SP+안보/NNG+팀/NNG+은/JX
+올해	올해/NNG
+7월	7/SN+월/NNB
+시작될	시작/NNG+되/XSV+ㄹ/ETM
+아프가니스탄	아프가니스탄/NNP
+철군,	철군/NNG+,/SP
+막대한	막대하/VA+ㄴ/ETM
+재정	재정/NNG
+적자로	적자/NNG+로/JKB
+인한	인/NNG+하/XSV+ㄴ/ETM
+국방	국방/NNG
+예산	예산/NNG
+삭감,	삭감/NNG+,/SP
+나날이	나날이/MAG
+확대되는	확대/NNG+되/XSV+는/ETM
+사이버전	사이버전/NNG
+등	등/NNB
+전쟁의	전쟁/NNG+의/JKG
+양상과	양상/NNG+과/JKB
+작전	작전/NNG
+환경이	환경/NNG+이/JKS
+급변하는	급변/NNG+하/XSV+는/ETM
+시기에	시기/NNG+에/JKB
+미국의	미국/NNP+의/JKG
+안보를	안보/NNG+를/JKO
+책임지게	책임지/VV+게/EC
+된다"고	되/VV+ㄴ다/EF+"/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.3.3
+오바마는 지난 4월 리언 파네타 중앙정보국(CIA) 국장을 국방장관에, 데이비드 퍼트레이어스 아프간 주둔 미군 사령관을 CIA 국장에 임명했다.
+
+오바마는	오바마/NNP+는/JX
+지난	지나/VV+ㄴ/ETM
+4월	4/SN+월/NNB
+리언	리언/NNP
+파네타	파네타/NNP
+중앙정보국(CIA)	중앙정보국/NNP+(/SS+CIA/SL+)/SS
+국장을	국장/NNG+을/JKO
+국방장관에,	국방/NNG+장관/NNG+에/JKB+,/SP
+데이비드	데이비드/NNP
+퍼트레이어스	퍼트레이어스/NNP
+아프간	아프간/NNP
+주둔	주둔/NNG
+미군	미군/NNG
+사령관을	사령관/NNG+을/JKO
+CIA	CIA/SL
+국장에	국장/NNG+에/JKB
+임명했다.	임명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.4.1
+◆정보수집과 전투, 경계를 허물다
+
+◆정보수집과	◆/SW+정보/NNG+수집/NNG+과/JC
+전투,	전투/NNG+,/SP
+경계를	경계/NNG+를/JKO
+허물다	허물/VV+다/EF
+
+
+# id : NWRW1800000030.23.5.1
+오바마 국방·안보팀의 주요 임무 중 하나는 정보와 전투의 결합이다.
+
+오바마	오바마/NNP
+국방·안보팀의	국방/NNG+·/SP+안보/NNG+팀/NNG+의/JKG
+주요	주요/NNG
+임무	임무/NNG
+중	중/NNB
+하나는	하나/NR+는/JX
+정보와	정보/NNG+와/JC
+전투의	전투/NNG+의/JKG
+결합이다.	결합/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.5.2
+이번 인사에서 오바마는 CIA 수장에 아프간전과 이라크전을 수행한 베테랑 군인 퍼트레이어스를 임명했다.
+
+이번	이번/NNG
+인사에서	인사/NNG+에서/JKB
+오바마는	오바마/NNP+는/JX
+CIA	CIA/SL
+수장에	수장/NNG+에/JKB
+아프간전과	아프간전/NNG+과/JC
+이라크전을	이라크전/NNG+을/JKO
+수행한	수행/NNG+하/XSV+ㄴ/ETM
+베테랑	베테랑/NNG
+군인	군인/NNG
+퍼트레이어스를	퍼트레이어스/NNP+를/JKO
+임명했다.	임명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.5.3
+군사 정책을 수립할 국방장관 자리엔 CIA 출신 파네타를 앉혔다.
+
+군사	군사/NNG
+정책을	정책/NNG+을/JKO
+수립할	수립/NNG+하/XSV+ㄹ/ETM
+국방장관	국방/NNG+장관/NNG
+자리엔	자리/NNG+에/JKB+ㄴ/JX
+CIA	CIA/SL
+출신	출신/NNG
+파네타를	파네타/NNP+를/JKO
+앉혔다.	앉히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.5.4
+영국 파이낸셜타임스(FT)는 "전투와 대(對)테러로 양분돼 온 군과 CIA의 기능이 융합되고 있다는 상징적 조치"라고 전했다.
+
+영국	영국/NNP
+파이낸셜타임스(FT)는	파이낸셜타임스/NNP+(/SS+FT/SL+)/SS+는/JX
+"전투와	"/SS+전투/NNG+와/JC
+대(對)테러로	대/NA+(/SS+對/SH+)/SS+테러/NNG+로/JKB
+양분돼	양분/NNG+되/XSV+어/EC
+온	오/VX+ㄴ/ETM
+군과	군/NNG+과/JC
+CIA의	CIA/SL+의/JKG
+기능이	기능/NNG+이/JKS
+융합되고	융합/NNG+되/XSV+고/EC
+있다는	있/VX+다는/ETM
+상징적	상징/NNG+적/XSN
+조치"라고	조치/NNG+"/SS+라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.5.5
+합참의장에 임명된 뎀프시는 전쟁터에서 뼈가 굵은 실전형 군인인 동시에 세미나를 즐기는, '공부하는 장군'으로 알려졌다.
+
+합참의장에	합참/NNG+의장/NNG+에/JKB
+임명된	임명/NNG+되/XSV+ㄴ/ETM
+뎀프시는	뎀프시/NNP+는/JX
+전쟁터에서	전쟁터/NNG+에서/JKB
+뼈가	뼈/NNG+가/JKS
+굵은	굵/VA+은/ETM
+실전형	실전/NNG+형/XSN
+군인인	군인/NNG+이/VCP+ㄴ/ETM
+동시에	동시/NNG+에/JKB
+세미나를	세미나/NNG+를/JKO
+즐기는,	즐기/VV+는/ETM+,/SP
+'공부하는	'/SS+공부/NNG+하/XSV+는/ETM
+장군'으로	장군/NNG+'/SS+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.6.1
+그동안 첩보 요원을 비밀리에 투입해 적의 정보를 캐내는 CIA와 전장에서 군사 작전을 수행하는 군 사이의 교류는 많지 않았다.
+
+그동안	그동안/NNG
+첩보	첩보/NNG
+요원을	요원/NNG+을/JKO
+비밀리에	비밀/NNG+리/XSN+에/JKB
+투입해	투입/NNG+하/XSV+아/EC
+적의	적/NNG+의/JKG
+정보를	정보/NNG+를/JKO
+캐내는	캐내/VV+는/ETM
+CIA와	CIA/SL+와/JC
+전장에서	전장/NNG+에서/JKB
+군사	군사/NNG
+작전을	작전/NNG+을/JKO
+수행하는	수행/NNG+하/XSV+는/ETM
+군	군/NNG
+사이의	사이/NNG+의/JKG
+교류는	교류/NNG+는/JX
+많지	많/VA+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.6.2
+그러나 알카에다·탈레반 등 게릴라식 공격을 주요 전략으로 사용하는 이슬람 근본주의 무장조직들로부터 미국을 보호하기 위해선 군 같은 CIA, CIA 같은 군이 절실해졌다는 분석이다.
+
+그러나	그러나/MAJ
+알카에다·탈레반	알카에다/NNP+·/SP+탈레반/NNP
+등	등/NNB
+게릴라식	게릴라식/NNG
+공격을	공격/NNG+을/JKO
+주요	주요/NNG
+전략으로	전략/NNG+으로/JKB
+사용하는	사용/NNG+하/XSV+는/ETM
+이슬람	이슬람/NNG
+근본주의	근본주의/NNG
+무장조직들로부터	무장/NNG+조직/NNG+들/XSN+로부터/JKB
+미국을	미국/NNP+을/JKO
+보호하기	보호/NNG+하/XSV+기/ETN
+위해선	위하/VV+아서/EC+ㄴ/JX
+군	군/NNG
+같은	같/VA+은/ETM
+CIA,	CIA/SL+,/SP
+CIA	CIA/SL
+군이	군/NNG+이/JKS
+절실해졌다는	절실하/VA+아/EC+지/VX+었/EP+다는/ETM
+분석이다.	분석/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.7.1
+◆수적으로 압도적인 군의 시대는 끝
+
+◆수적으로	◆/SW+수/NNG+적/XSN+으로/JKB
+압도적인	압도/NNG+적/XSN+이/VCP+ㄴ/ETM
+군의	군/NNG+의/JKG
+시대는	시대/NNG+는/JX
+끝	끝/NNG
+
+
+# id : NWRW1800000030.23.8.1
+FT는 "콜린 파월 전 국방장관이 주장하던 '수적(數的)으로 압도적인 군'의 시대는 끝났다. 최대한 많은 정보를 수집·분석한 후 특정 목표물을 겨냥해 정교한 작전을 수행하는 타깃형 특수부대가 훨씬 유리하다"고 전했다.
+
+FT는	FT/SL+는/JX
+"콜린	"/SS+콜린/NNP
+파월	파월/NNP
+전	전/MMD
+국방장관이	국방/NNG+장관/NNG+이/JKS
+주장하던	주장/NNG+하/XSV+던/ETM
+'수적(數的)으로	'/SS+수/NNG+적/XSN+(/SS+數的/SH+)/SS+으로/JKB
+압도적인	압도/NNG+적/XSN+이/VCP+ㄴ/ETM
+군'의	군/NNG+'/SS+의/JKG
+시대는	시대/NNG+는/JX
+끝났다.	끝나/VV+았/EP+다/EF+./SF
+최대한	최대한/MAG
+많은	많/VA+은/ETM
+정보를	정보/NNG+를/JKO
+수집·분석한	수집/NNG+·/SP+분석/NNG+하/XSV+ㄴ/ETM
+후	후/NNG
+특정	특정/NNG
+목표물을	목표물/NNG+을/JKO
+겨냥해	겨냥/NNG+하/XSV+아/EC
+정교한	정교하/VA+ㄴ/ETM
+작전을	작전/NNG+을/JKO
+수행하는	수행/NNG+하/XSV+는/ETM
+타깃형	타깃/NNG+형/XSN
+특수부대가	특수/NNG+부대/NNG+가/JKS
+훨씬	훨씬/MAG
+유리하다"고	유리/NNG+하/XSA+다/EF+"/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.9.1
+지난달 2일 미군 대테러 특수부대 네이비실 '팀 식스(Team 6)'가 수년간의 정보 수집을 거친 후 20여명의 부대원만으로 40분 만에 작전을 완료한 것이 대표적인 예다.
+
+지난달	지난달/NNG
+2일	2/SN+일/NNB
+미군	미군/NNG
+대테러	대테러/NNG
+특수부대	특수/NNG+부대/NNG
+네이비실	네이비실/NNG
+'팀	'/SS+팀/NNG
+식스(Team	식스/NNG+(/SS+Team/SL
+6)'가	6/SN+)/SS+'/SS+가/JKS
+수년간의	수년/NNG+간/XSN+의/JKG
+정보	정보/NNG
+수집을	수집/NNG+을/JKO
+거친	거치/VV+ㄴ/ETM
+후	후/NNG
+20여명의	20/SN+여/XSN+명/NNB+의/JKG
+부대원만으로	부대원/NNG+만/JX+으로/JKB
+40분	40/SN+분/NNB
+만에	만/NNB+에/JKB
+작전을	작전/NNG+을/JKO
+완료한	완료/NNG+하/XSV+ㄴ/ETM
+것이	것/NNB+이/JKS
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+예다.	예/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.10.1
+아프간전과 파키스탄 대테러 작전 등에 광범위하게 사용되는 무인폭격기는 'CIA의 군사화'를 상징한다.
+
+아프간전과	아프간전/NNG+과/JC
+파키스탄	파키스탄/NNP
+대테러	대테러/NNG
+작전	작전/NNG
+등에	등/NNB+에/JKB
+광범위하게	광범위/NNG+하/XSA+게/EC
+사용되는	사용/NNG+되/XSV+는/ETM
+무인폭격기는	무인/NNG+폭격기/NNG+는/JX
+'CIA의	'/SS+CIA/SL+의/JKG
+군사화'를	군사/NNG+화/XSN+'/SS+를/JKO
+상징한다.	상징/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.23.10.2
+독재자 무아마르 카다피를 겨냥한 나토(NATO·북대서양조약기구)의 리비아 공습엔 미군의 최첨단 무인폭격기 프레데터가 투입된 상태다.
+
+독재자	독재자/NNG
+무아마르	무아마르/NNP
+카다피를	카다피/NNP+를/JKO
+겨냥한	겨냥/NNG+하/XSV+ㄴ/ETM
+나토(NATO·북대서양조약기구)의	나토/NNP+(/SS+NATO/SL+·/SP+북대서양조약기구/NNP+)/SS+의/JKG
+리비아	리비아/NNP
+공습엔	공습/NNG+에/JKB+ㄴ/JX
+미군의	미군/NNG+의/JKG
+최첨단	최/XPN+첨단/NNG
+무인폭격기	무인/NNG+폭격기/NNG
+프레데터가	프레데터/NNP+가/JKS
+투입된	투입/NNG+되/XSV+ㄴ/ETM
+상태다.	상태/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.10.3
+무인폭격기는 군이 아닌 CIA 관할이다.
+
+무인폭격기는	무인/NNG+폭격기/NNG+는/JX
+군이	군/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+CIA	CIA/SL
+관할이다.	관할/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.23.10.4
+이 무인폭격기들의 조종석은 CIA 본부인 버지니아주(州) 랭리에 있으며 조종사들은 게임을 하듯 폭격기를 통제한다.
+
+이	이/MMD
+무인폭격기들의	무인/NNG+폭격기/NNG+들/XSN+의/JKG
+조종석은	조종석/NNG+은/JX
+CIA	CIA/SL
+본부인	본부/NNG+이/VCP+ㄴ/ETM
+버지니아주(州)	버지니아주/NNP+(/SS+州/SH+)/SS
+랭리에	랭리/NNP+에/JKB
+있으며	있/VA+으며/EC
+조종사들은	조종사/NNG+들/XSN+은/JX
+게임을	게임/NNG+을/JKO
+하듯	하/VV+듯/EC
+폭격기를	폭격기/NNG+를/JKO
+통제한다.	통제/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.23.11.1
+독일 슈피겔은 "21세기 전장에선 전투기보다 값이 싸고 위험도가 낮은 CIA의 무인폭격기에 대한 의존도가 나날이 높아지고 있다. 오바마 취임 후 2년 동안 발사된 무인폭격기 미사일은 조지 W 부시 전 대통령의 임기 8년 동안 발사된 무인폭격기 미사일 수를 넘어선 상태"라고 전했다.
+
+독일	독일/NNP
+슈피겔은	슈피겔/NNP+은/JX
+"21세기	"/SS+21/SN+세기/NNG
+전장에선	전장/NNG+에서/JKB+ㄴ/JX
+전투기보다	전투기/NNG+보다/JKB
+값이	값/NNG+이/JKS
+싸고	싸/VA+고/EC
+위험도가	위험도/NNG+가/JKS
+낮은	낮/VA+은/ETM
+CIA의	CIA/SL+의/JKG
+무인폭격기에	무인/NNG+폭격기/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+의존도가	의존도/NNG+가/JKS
+나날이	나날이/MAG
+높아지고	높아지/VV+고/EC
+있다.	있/VX+다/EF+./SF
+오바마	오바마/NNP
+취임	취임/NNG
+후	후/NNG
+2년	2/SN+년/NNB
+동안	동안/NNG
+발사된	발사/NNG+되/XSV+ㄴ/ETM
+무인폭격기	무인/NNG+폭격기/NNG
+미사일은	미사일/NNG+은/JX
+조지	조지/NNP
+W	W/SL
+부시	부시/NNP
+전	전/MMD
+대통령의	대통령/NNG+의/JKG
+임기	임기/NNG
+8년	8/SN+년/NNB
+미사일	미사일/NNG
+수를	수/NNG+를/JKO
+넘어선	넘어서/VV+ㄴ/ETM
+상태"라고	상태/NNG+"/SS+라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+

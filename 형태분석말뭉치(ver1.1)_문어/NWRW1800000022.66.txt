@@ -1,0 +1,147 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.66
+metadata : {}
+
+
+# id : NWRW1800000022.66.1.1
+[청년취업 10000명] 노동부 사이트 '워크넷' 本紙 취업 캠페인 동참
+
+[청년취업	[/SS+청년/NNG+취업/NNG
+10000명]	10000/SN+명/NNB+]/SS
+노동부	노동부/NNG
+사이트	사이트/NNG
+'워크넷'	'/SS+워크넷/NNP+'/SS
+本紙	本紙/SH
+취업	취업/NNG
+캠페인	캠페인/NNG
+동참	동참/NNG
+
+
+# id : NWRW1800000022.66.2.1
+신용등급이 중상위권에 속하는 우수 중소기업들과 청년 구직자들을 연결해주기 위해 조선일보와 기업은행이 함께 펼치고 있는 '청년 취업 1만명 프로젝트'에 노동부의 취업 전문 사이트 '워크넷'이 동참하기로 했다.
+
+신용등급이	신용/NNG+등급/NNG+이/JKS
+중상위권에	중상위/NNG+권/XSN+에/JKB
+속하는	속하/VV+는/ETM
+우수	우수/NNG
+중소기업들과	중소기업/NNG+들/XSN+과/JC
+청년	청년/NNG
+구직자들을	구직자/NNG+들/XSN+을/JKO
+연결해주기	연결/NNG+하/XSV+아/EC+주/VX+기/ETN
+위해	위하/VV+아/EC
+조선일보와	조선일보/NNP+와/JC
+기업은행이	기업은행/NNP+이/JKS
+함께	함께/MAG
+펼치고	펼치/VV+고/EC
+있는	있/VX+는/ETM
+'청년	'/SS+청년/NNG
+취업	취업/NNG
+1만명	1/SN+만/NR+명/NNB
+프로젝트'에	프로젝트/NNG+'/SS+에/JKB
+노동부의	노동부/NNG+의/JKG
+전문	전문/NNG
+사이트	사이트/NNG
+'워크넷'이	'/SS+워크넷/NNP+'/SS+이/JKS
+동참하기로	동참/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.66.2.2
+▶관련기사 A6면
+
+▶관련기사	▶/SW+관련/NNG+기사/NNG
+A6면	A/SL+6/SN+면/NNG
+
+
+# id : NWRW1800000022.66.3.1
+워크넷은 '청년 취업 1만명 프로젝트'가 운영하는 중소기업 취업 전문 사이트인 '잡월드'(www.ibkcsjob.co.kr)에 취업 컨설팅 서비스, 진로 지도, 직업 정보 등 각종 취업 관련 콘텐츠를 제공하기로 했다.
+
+워크넷은	워크넷/NNP+은/JX
+'청년	'/SS+청년/NNG
+취업	취업/NNG
+1만명	1/SN+만/NR+명/NNB
+프로젝트'가	프로젝트/NNG+'/SS+가/JKS
+운영하는	운영/NNG+하/XSV+는/ETM
+중소기업	중소기업/NNG
+전문	전문/NNG
+사이트인	사이트/NNG+이/VCP+ㄴ/ETM
+'잡월드'(www.ibkcsjob.co.kr)에	'/SS+잡월드/NNP+'/SS+(/SS+www/SL+./SP+ibkcsjob/SL+./SP+co/SL+./SP+kr/SL+)/SS+에/JKB
+컨설팅	컨설팅/NNG
+서비스,	서비스/NNG+,/SP
+진로	진로/NNG
+지도,	지도/NNG+,/SP
+직업	직업/NNG
+정보	정보/NNG
+등	등/NNB
+각종	각종/NNG
+관련	관련/NNG
+콘텐츠를	콘텐츠/NNG+를/JKO
+제공하기로	제공/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.66.4.1
+'워크넷'(www.work.go.kr)은 정부가 1998년부터 운영해온 구인·구직 사이트로 공공 부문을 비롯해 각 분야의 취업 정보를 다룬다.
+
+'워크넷'(www.work.go.kr)은	'/SS+워크넷/NNP+'/SS+(/SS+www/SL+./SP+work/SL+./SP+go/SL+./SP+kr/SL+)/SS+은/JX
+정부가	정부/NNG+가/JKS
+1998년부터	1998/SN+년/NNB+부터/JX
+운영해온	운영/NNG+하/XSV+아/EC+오/VX+ㄴ/ETM
+구인·구직	구인/NNG+·/SP+구직/NNG
+사이트로	사이트/NNG+로/JKB
+공공	공공/NNG
+부문을	부문/NNG+을/JKO
+비롯해	비롯하/VV+아/EC
+각	각/MMD
+분야의	분야/NNG+의/JKG
+취업	취업/NNG
+정보를	정보/NNG+를/JKO
+다룬다.	다루/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.66.4.2
+2007년 워크넷을 통해 취업한 사람은 59만3573명이다.
+
+2007년	2007/SN+년/NNB
+워크넷을	워크넷/NNP+을/JKO
+통해	통하/VV+아/EC
+취업한	취업/NNG+하/XSV+ㄴ/ETM
+사람은	사람/NNG+은/JX
+59만3573명이다.	59/SN+만/NR+3573/SN+명/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.66.4.3
+워크넷을 운영하는 한국고용정보원 정인수 원장은 "중소기업 취업 전문 사이트로 특화된 잡월드와 방대한 취업 관련 콘텐츠를 보유한 워크넷이 상호 보완하면 실업난 극복에 큰 도움을 줄 것으로 기대된다"고 말했다.
+
+워크넷을	워크넷/NNP+을/JKO
+운영하는	운영/NNG+하/XSV+는/ETM
+한국고용정보원	한국고용정보원/NNP
+정인수	정인수/NNP
+원장은	원장/NNG+은/JX
+"중소기업	"/SS+중소기업/NNG
+취업	취업/NNG
+전문	전문/NNG
+사이트로	사이트/NNG+로/JKB
+특화된	특화/NNG+되/XSV+ㄴ/ETM
+잡월드와	잡월드/NNP+와/JC
+방대한	방대하/VA+ㄴ/ETM
+관련	관련/NNG
+콘텐츠를	콘텐츠/NNG+를/JKO
+보유한	보유/NNG+하/XSV+ㄴ/ETM
+워크넷이	워크넷/NNP+이/JKS
+상호	상호/NNG
+보완하면	보완/NNG+하/XSV+면/EC
+실업난	실업난/NNG
+극복에	극복/NNG+에/JKB
+큰	크/VA+ㄴ/ETM
+도움을	도움/NNG+을/JKO
+줄	주/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+기대된다"고	기대/NNG+되/XSV+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

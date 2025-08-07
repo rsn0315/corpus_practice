@@ -1,0 +1,215 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.383
+metadata : {}
+
+
+# id : NWRW1800000030.383.1.1
+[호남] "KTX 김제에 하루 3회만 세워달라"
+
+[호남]	[/SS+호남/NNP+]/SS
+"KTX	"/SS+KTX/SL
+김제에	김제/NNP+에/JKB
+하루	하루/NNG
+3회만	3/SN+회/NNB+만/JX
+세워달라"	세우/VV+어/EC+달/VX+라/EF+"/SS
+
+
+# id : NWRW1800000030.383.2.1
+•'驛舍 이전' 서명운동
+
+•'驛舍	•/SW+'/SS+驛舍/SH
+이전'	이전/NNG+'/SS
+서명운동	서명/NNG+운동/NNG
+
+
+# id : NWRW1800000030.383.3.1
+2015년 개통되는 오송~광주 송정역 호남고속철(KTX)은 전북 김제역을 그냥 통과할 예정이다.
+
+2015년	2015/SN+년/NNB
+개통되는	개통/NNG+되/XSV+는/ETM
+오송~광주	오송/NNP+~/SO+광주/NNP
+송정역	송정역/NNP
+호남고속철(KTX)은	호남고속철/NNP+(/SS+KTX/SL+)/SS+은/JX
+전북	전북/NNP
+김제역을	김제역/NNP+을/JKO
+그냥	그냥/MAG
+통과할	통과/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.383.4.1
+김제시와 지역 사회단체들이 "KTX 개통과 함께 김제가 철도교통 오지로 전락, 불편이 심화될 위기에 놓였다"며 "김제역을 시가지 동부 순동으로 이전해 KTX 정차역으로 만들어달라"고 요구하고 있다.
+
+김제시와	김제시/NNP+와/JC
+지역	지역/NNG
+사회단체들이	사회단체/NNG+들/XSN+이/JKS
+"KTX	"/SS+KTX/SL
+개통과	개통/NNG+과/JKB
+함께	함께/MAG
+김제가	김제/NNP+가/JKS
+철도교통	철도/NNG+교통/NNG
+오지로	오지/NNG+로/JKB
+전락,	전락/NNG+,/SP
+불편이	불편/NNG+이/JKS
+심화될	심화/NNG+되/XSV+ㄹ/ETM
+위기에	위기/NNG+에/JKB
+놓였다"며	놓이/VV+었/EP+다/EF+"/SS+며/EC
+"김제역을	"/SS+김제역/NNP+을/JKO
+시가지	시가지/NNG
+동부	동부/NNG
+순동으로	순동/NNP+으로/JKB
+이전해	이전/NNG+하/XSV+아/EC
+KTX	KTX/SL
+정차역으로	정차/NNG+역/NNG+으로/JKB
+만들어달라"고	만들/VV+어/EC+달/VX+라/EF+"/SS+고/JKQ
+요구하고	요구/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000030.383.5.1
+김제지역 기관·단체장들의 모임인 모악회와 지평선봉사대, 새마을회 등 20여 단체가 최근 이 주장을 관계부처 등에 전달키 위해 '범도민 서명운동'에 나섰다.
+
+김제지역	김제/NNP+지역/NNG
+기관·단체장들의	기관/NNG+·/SP+단체장/NNG+들/XSN+의/JKG
+모임인	모임/NNG+이/VCP+ㄴ/ETM
+모악회와	모악회/NNP+와/JC
+지평선봉사대,	지평선봉사대/NNP+,/SP
+새마을회	새마을회/NNG
+등	등/NNB
+20여	20/SN+여/XSN
+단체가	단체/NNG+가/JKS
+최근	최근/MAG
+이	이/MMD
+주장을	주장/NNG+을/JKO
+관계부처	관계/NNG+부처/NNG
+등에	등/NNB+에/JKB
+전달키	전달/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+'범도민	'/SS+범/XPN+도민/NNG
+서명운동'에	서명/NNG+운동/NNG+'/SS+에/JKB
+나섰다.	나서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.383.6.1
+시와 이들 단체는 "김제역을 순동 사거리 옆으로 옮긴 뒤 충남 공주역 다음 정차역으로 하루 3회쯤만 KTX를 세워도 그 운행 효율을 크게 떨어뜨리지 않고 전북 서부지역 발전의 새 전기를 만들 수 있다"고 주장한다.
+
+시와	시/NNG+와/JC
+이들	이/NP+들/XSN
+단체는	단체/NNG+는/JX
+"김제역을	"/SS+김제역/NNP+을/JKO
+순동	순동/NNP
+사거리	사거리/NNG
+옆으로	옆/NNG+으로/JKB
+옮긴	옮기/VV+ㄴ/ETM
+뒤	뒤/NNG
+충남	충남/NNP
+공주역	공주역/NNP
+다음	다음/NNG
+정차역으로	정차/NNG+역/NNG+으로/JKB
+하루	하루/NNG
+3회쯤만	3/SN+회/NNB+쯤/XSN+만/JX
+KTX를	KTX/SL+를/JKO
+세워도	세우/VV+어도/EC
+그	그/MMD
+운행	운행/NNG
+효율을	효율/NNG+을/JKO
+크게	크/VA+게/EC
+떨어뜨리지	떨어뜨리/VV+지/EC
+않고	않/VX+고/EC
+전북	전북/NNP
+서부지역	서부/NNG+지역/NNG
+발전의	발전/NNG+의/JKG
+새	새/MMA
+전기를	전기/NNG+를/JKO
+만들	만들/VV+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+주장한다.	주장/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000030.383.7.1
+또 "순동사거리는 전북혁신도시 및 전주 서부신시가지, 지평선산업단지에서 15분 이내 거리에 위치, 이 일대 인구 54만명이 편리하게 KTX를 이용할 수 있다"며 "새만금 개발 및 변산반도 관광을 위해서도 KTX 정차는 절실하다"고 말했다.
+
+또	또/MAG
+"순동사거리는	"/SS+순동/NNP+사거리/NNG+는/JX
+전북혁신도시	전북/NNP+혁신/NNG+도시/NNG
+및	및/MAG
+전주	전주/NNP
+서부신시가지,	서부/NNG+신/XPN+시가지/NNG+,/SP
+지평선산업단지에서	지평선산업단지/NNP+에서/JKB
+15분	15/SN+분/NNB
+이내	이내/NNG
+거리에	거리/NNG+에/JKB
+위치,	위치/NNG+,/SP
+이	이/MMD
+일대	일대/NNG
+인구	인구/NNG
+54만명이	54/SN+만/NR+명/NNB+이/JKS
+편리하게	편리/NNG+하/XSA+게/EC
+KTX를	KTX/SL+를/JKO
+이용할	이용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다"며	있/VA+다/EF+"/SS+며/EC
+"새만금	"/SS+새만금/NNP
+개발	개발/NNG
+변산반도	변산반도/NNP
+관광을	관광/NNG+을/JKO
+위해서도	위하/VV+아서/EC+도/JX
+KTX	KTX/SL
+정차는	정차/NNG+는/JX
+절실하다"고	절실하/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.383.8.1
+시는 "새 KTX역사는 현 김제역 서쪽 고가교인 용동교 확장 사업비로 건설비 일부를 충당하고 두월천 '고향의 강 정비'와도 연계하면 최소한의 비용으로 세울 수 있다"고 했다.
+
+시는	시/NNG+는/JX
+"새	"/SS+새/MMA
+KTX역사는	KTX/SL+역사/NNG+는/JX
+현	현/MMD
+김제역	김제역/NNP
+서쪽	서쪽/NNG
+고가교인	고가교/NNG+이/VCP+ㄴ/ETM
+용동교	용동교/NNP
+확장	확장/NNG
+사업비로	사업비/NNG+로/JKB
+건설비	건설비/NNG
+일부를	일부/NNG+를/JKO
+충당하고	충당/NNG+하/XSV+고/EC
+두월천	두월천/NNP
+'고향의	'/SS+고향/NNG+의/JKG
+강	강/NNG
+정비'와도	정비/NNG+'/SS+와/JKB+도/JX
+연계하면	연계/NNG+하/XSV+면/EC
+최소한의	최소한/NNG+의/JKG
+비용으로	비용/NNG+으로/JKB
+세울	세우/VV+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.383.9.1
+김제시와 이들 단체는 "5월 초까지 도민 10만명의 서명을 받아 국토부와 코레일 등에 전달하겠다"고 밝혔다.
+
+김제시와	김제시/NNP+와/JC
+이들	이/NP+들/XSN
+단체는	단체/NNG+는/JX
+"5월	"/SS+5/SN+월/NNB
+초까지	초/NNB+까지/JX
+도민	도민/NNG
+10만명의	10/SN+만/NR+명/NNB+의/JKG
+서명을	서명/NNG+을/JKO
+받아	받/VV+아/EC
+국토부와	국토부/NNG+와/JC
+코레일	코레일/NNP
+등에	등/NNB+에/JKB
+전달하겠다"고	전달/NNG+하/XSV+겠/EP+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

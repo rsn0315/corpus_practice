@@ -1,0 +1,489 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.128
+metadata : {}
+
+
+# id : NWRW1800000041.128.1.1
+[책의 향기/책 vs 책]3박자 갖춰야 ‘시청률의 마술사’
+
+[책의	[/SS+책/NNG+의/JKG
+향기/책	향기/NNG+//SP+책/NNG
+vs	vs/SL
+책]3박자	책/NNG+]/SS+3/SN+박자/NNG
+갖춰야	갖추/VV+어야/EC
+‘시청률의	‘/SS+시청/NNG+률/XSN+의/JKG
+마술사’	마술사/NNG+’/SS
+
+
+# id : NWRW1800000041.128.2.1
+◇피디란 무엇인가/이정식 외 41인 지음/한국PD연합회 엮음/484쪽·2만2000원·김영사ON ◇확장하는 PD와의 대화/홍경수 지음/352쪽·1만5000원·사람in
+
+◇피디란	◇/SW+피디/NNG+란/JX
+무엇인가/이정식	무엇/NP+이/VCP+ㄴ가/EF+//SP+이정식/NNP
+외	외/NNB
+41인	41/SN+인/NNG
+지음/한국PD연합회	짓/VV+음/ETN+//SP+한국PD연합회/NNP
+엮음/484쪽·2만2000원·김영사ON	엮/VV+음/ETN+//SP+484/SN+쪽/NNG+·/SP+2/SN+만/NR+2000/SN+원/NNB+·/SP+김영사/NNP+ON/SL
+◇확장하는	◇/SW+확장/NNG+하/XSV+는/ETM
+PD와의	PD/SL+와/JKB+의/JKG
+대화/홍경수	대화/NNG+//SP+홍경수/NNP
+지음/352쪽·1만5000원·사람in	짓/VV+음/ETN+//SP+352/SN+쪽/NNG+·/SP+1/SN+만/NR+5000/SN+원/NNB+·/SP+사람in/NNP
+
+
+# id : NWRW1800000041.128.3.1
+MBC ‘무한도전’의 김태호 PD는 진행자 유재석 못지않은 유명 인사다.
+
+MBC	MBC/SL
+‘무한도전’의	‘/SS+무한/NNG+도전/NNG+’/SS+의/JKG
+김태호	김태호/NNP
+PD는	PD/SL+는/JX
+진행자	진행자/NNG
+유재석	유재석/NNP
+못지않은	못지않/VA+은/ETM
+유명	유명/NNG
+인사다.	인사/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.3.2
+그의 트위터 팔로어는 60만 명이 넘고 연예매체들은 그의 발언과 행보를 주목한다.
+
+그의	그/NP+의/JKG
+트위터	트위터/NNP
+팔로어는	팔로어/NNG+는/JX
+60만	60/SN+만/NR
+명이	명/NNB+이/JKS
+넘고	넘/VV+고/EC
+연예매체들은	연예/NNG+매체/NNG+들/XSN+은/JX
+발언과	발언/NNG+과/JC
+행보를	행보/NNG+를/JKO
+주목한다.	주목/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.3.3
+채널A 이영돈 전무는 진행자로서도 인기를 누린다.
+
+채널A	채널A/NNP
+이영돈	이영돈/NNP
+전무는	전무/NNG+는/JX
+진행자로서도	진행자/NNG+로서/JKB+도/JX
+인기를	인기/NNG+를/JKO
+누린다.	누리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.3.4
+그는 ‘이영돈 PD의 먹거리 X파일’ ‘이영돈·신동엽 젠틀맨’의 MC이자 프로그램의 최종 결정권자다.
+
+그는	그/NP+는/JX
+‘이영돈	‘/SS+이영돈/NNP
+PD의	PD/SL+의/JKG
+먹거리	먹거리/NNG
+X파일’	X/SL+파일/NNG+’/SS
+‘이영돈·신동엽	‘/SS+이영돈/NNP+·/SP+신동엽/NNP
+젠틀맨’의	젠틀맨/NNG+’/SS+의/JKG
+MC이자	MC/SL+이/VCP+자/EC
+프로그램의	프로그램/NNG+의/JKG
+최종	최종/NNG
+결정권자다.	결정권자/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.3.5
+이 밖에도 KBS ‘개그콘서트’로 유명한 서수민 ‘1박2일’ CP, tvN ‘꽃보다 할배’의 나영석 PD처럼 대중적 인기를 누리는 PD도 많다.
+
+이	이/MMD
+밖에도	밖/NNG+에/JKB+도/JX
+KBS	KBS/SL
+‘개그콘서트’로	‘/SS+개그/NNG+콘서트/NNG+’/SS+로/JKB
+유명한	유명/NNG+하/XSA+ㄴ/ETM
+서수민	서수민/NNP
+‘1박2일’	‘/SS+1/SN+박/NNB+2/SN+일/NNB+’/SS
+CP,	CP/SL+,/SP
+tvN	tvN/SL
+‘꽃보다	‘/SS+꽃/NNG+보다/JKB
+할배’의	할배/NNG+’/SS+의/JKG
+나영석	나영석/NNP
+PD처럼	PD/SL+처럼/JKB
+대중적	대중/NNG+적/XSN
+인기를	인기/NNG+를/JKO
+누리는	누리/VV+는/ETM
+PD도	PD/SL+도/JX
+많다.	많/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.128.4.1
+프로그램이 뜨면 PD도 스타가 된다.
+
+프로그램이	프로그램/NNG+이/JKS
+뜨면	뜨/VV+면/EC
+PD도	PD/SL+도/JX
+스타가	스타/NNG+가/JKC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.4.2
+프로그램을 만든 PD가 누구냐가 프로그램의 흥행 요소로 여겨질 정도다.
+
+프로그램을	프로그램/NNG+을/JKO
+만든	만들/VV+ㄴ/ETM
+PD가	PD/SL+가/JKS
+누구냐가	누구/NP+이/VCP+냐/EF+가/JKS
+프로그램의	프로그램/NNG+의/JKG
+흥행	흥행/NNG
+요소로	요소/NNG+로/JKB
+여겨질	여기/VV+어/EC+지/VX+ㄹ/ETM
+정도다.	정도/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.4.3
+대중문화에서 PD의 비중이 커지는 가운데 PD를 제목으로 내세운 두 권의 책이 발간됐다.
+
+대중문화에서	대중문화/NNG+에서/JKB
+PD의	PD/SL+의/JKG
+비중이	비중/NNG+이/JKS
+커지는	커지/VV+는/ETM
+가운데	가운데/NNG
+PD를	PD/SL+를/JKO
+제목으로	제목/NNG+으로/JKB
+내세운	내세우/VV+ㄴ/ETM
+두	두/MMN
+권의	권/NNB+의/JKG
+책이	책/NNG+이/JKS
+발간됐다.	발간/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.5.1
+‘피디란 무엇인가’는 실무서에 가깝다.
+
+‘피디란	‘/SS+피디/NNG+란/JX
+무엇인가’는	무엇/NP+이/VCP+ㄴ가/EF+’/SS+는/JX
+실무서에	실무서/NNG+에/JKB
+가깝다.	가깝/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.128.5.2
+‘PD를 꿈꾸는 젊은 친구들에게’라는 제목의 프롤로그부터 이 책이 PD 지망생을 겨냥해 쓰였음을 알 수 있다.
+
+‘PD를	‘/SS+PD/SL+를/JKO
+꿈꾸는	꿈꾸/VV+는/ETM
+젊은	젊/VA+은/ETM
+친구들에게’라는	친구/NNG+들/XSN+에게/JKB+’/SS+이/VCP+라는/ETM
+제목의	제목/NNG+의/JKG
+프롤로그부터	프롤로그/NNG+부터/JX
+이	이/MMD
+책이	책/NNG+이/JKS
+PD	PD/SL
+지망생을	지망/NNG+생/XSN+을/JKO
+겨냥해	겨냥/NNG+하/XSV+아/EC
+쓰였음을	쓰이/VV+었/EP+음/ETN+을/JKO
+알	알/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.128.5.3
+책의 절반 이상이 지상파 방송사 PD 입사를 위한 준비과정에 할애됐다.
+
+책의	책/NNG+의/JKG
+절반	절반/NNG
+이상이	이상/NNG+이/JKS
+지상파	지상파/NNG
+방송사	방송사/NNG
+PD	PD/SL
+입사를	입사/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+준비과정에	준비/NNG+과정/NNG+에/JKB
+할애됐다.	할애/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.5.4
+기획안과 큐시트 짜는 법, 연출 십계명처럼 실무와 관련된 글, 비교적 최근 입사한 새내기 PD들의 합격 비법 같은 글도 담겼다.
+
+기획안과	기획안/NNG+과/JC
+큐시트	큐시트/NNG
+짜는	짜/VV+는/ETM
+법,	법/NNB+,/SP
+연출	연출/NNG
+십계명처럼	십계명/NNG+처럼/JKB
+실무와	실무/NNG+와/JKB
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+글,	글/NNG+,/SP
+비교적	비교/NNG+적/XSN
+최근	최근/NNG
+입사한	입사/NNG+하/XSV+ㄴ/ETM
+새내기	새내기/NNG
+PD들의	PD/SL+들/XSN+의/JKG
+합격	합격/NNG
+비법	비법/NNG
+같은	같/VA+은/ETM
+글도	글/NNG+도/JX
+담겼다.	담기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.6.1
+다만 현직에 몸담고 있는 선배 PD들이 프로그램을 만들며 느끼는 고민과 철학을 엿보는 재미가 있다.
+
+다만	다만/MAG
+현직에	현직/NNG+에/JKB
+몸담고	몸담/VV+고/EC
+있는	있/VX+는/ETM
+선배	선배/NNG
+PD들이	PD/SL+들/XSN+이/JKS
+프로그램을	프로그램/NNG+을/JKO
+만들며	만들/VV+며/EC
+느끼는	느끼/VV+는/ETM
+고민과	고민/NNG+과/JC
+철학을	철학/NNG+을/JKO
+엿보는	엿보/VV+는/ETM
+재미가	재미/NNG+가/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.128.6.2
+서수민 CP는 예능 프로그램의 시사풍자에 대해 “메시지를 꽂으면 안 된다.
+
+서수민	서수민/NNP
+CP는	CP/SL+는/JX
+예능	예능/NNG
+프로그램의	프로그램/NNG+의/JKG
+시사풍자에	시사/NNG+풍자/NNG+에/JKB
+대해	대하/VV+아/EC
+“메시지를	“/SS+메시지/NNG+를/JKO
+꽂으면	꽂/VV+으면/EC
+안	안/MAG
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.6.3
+코미디는 철저히 시청자의 발밑에 있어야 한다.
+
+코미디는	코미디/NNG+는/JX
+철저히	철저히/MAG
+시청자의	시청자/NNG+의/JKG
+발밑에	발밑/NNG+에/JKB
+있어야	있/VA+어야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.6.4
+‘밑바닥 감성’이라고 할 수 있는 숨겨진 여러 감정을 그저 ‘담아서 보여줘야’ 성공하는 장르”라고 말한다.
+
+‘밑바닥	‘/SS+밑바닥/NNG
+감성’이라고	감성/NNG+’/SS+이라고/JKQ
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+숨겨진	숨기/VV+어/EC+지/VX+ㄴ/ETM
+여러	여러/MMN
+감정을	감정/NNG+을/JKO
+그저	그저/MAG
+‘담아서	‘/SS+담/VV+아서/EC
+보여줘야’	보이/VV+어/EC+주/VX+어야/EC+’/SS
+성공하는	성공/NNG+하/XSV+는/ETM
+장르”라고	장르/NNG+”/SS+라고/JKQ
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.7.1
+‘확장하는 PD와의 대화’는 학술서라는 문패를 달았지만 일반 독자도 흥미롭게 볼 수 있는 책이다.
+
+‘확장하는	‘/SS+확장/NNG+하/XSV+는/ETM
+PD와의	PD/SL+와/JKB+의/JKG
+대화’는	대화/NNG+’/SS+는/JX
+학술서라는	학술서/NNG+이/VCP+라는/ETM
+문패를	문패/NNG+를/JKO
+달았지만	달/VV+았/EP+지만/EC
+일반	일반/NNG
+독자도	독자/NNG+도/JX
+흥미롭게	흥미/NNG+롭/XSA+게/EC
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+책이다.	책/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.7.2
+KBS 교양 PD 출신의 언론학자인 저자는 주철환 이영돈 송창의 최승호 윤석호 박해선 이병훈 등 한국 방송계에서 일가를 이룬 7명의 PD를 인터뷰했다.
+
+KBS	KBS/SL
+교양	교양/NNG
+PD	PD/SL
+출신의	출신/NNG+의/JKG
+언론학자인	언론학자/NNG+이/VCP+ㄴ/ETM
+저자는	저자/NNG+는/JX
+주철환	주철환/NNP
+이영돈	이영돈/NNP
+송창의	송창의/NNP
+최승호	최승호/NNP
+윤석호	윤석호/NNP
+박해선	박해선/NNP
+이병훈	이병훈/NNP
+등	등/NNB
+한국	한국/NNP
+방송계에서	방송/NNG+계/XSN+에서/JKB
+일가를	일가/NNG+를/JKO
+이룬	이루/VV+ㄴ/ETM
+7명의	7/SN+명/NNB+의/JKG
+PD를	PD/SL+를/JKO
+인터뷰했다.	인터뷰/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.7.3
+이들은 지상파 방송의 영향력이 급성장한 1980년대 전후 지상파 방송사에 입사해 1990년대 왕성한 활동을 펼쳐왔으며 현재는 지상파를 떠나 다른 매체로 옮겨왔다.
+
+이들은	이/NP+들/XSN+은/JX
+지상파	지상파/NNG
+방송의	방송/NNG+의/JKG
+영향력이	영향력/NNG+이/JKS
+급성장한	급성장/NNG+하/XSV+ㄴ/ETM
+1980년대	1980/SN+년대/NNB
+전후	전후/NNG
+방송사에	방송사/NNG+에/JKB
+입사해	입사/NNG+하/XSV+아/EC
+1990년대	1990/SN+년대/NNB
+왕성한	왕성/NNG+하/XSA+ㄴ/ETM
+활동을	활동/NNG+을/JKO
+펼쳐왔으며	펼치/VV+어/EC+오/VX+았/EP+으며/EC
+현재는	현재/NNG+는/JX
+지상파를	지상파/NNG+를/JKO
+떠나	떠나/VV+아/EC
+다른	다른/MMD
+매체로	매체/NNG+로/JKB
+옮겨왔다.	옮기/VV+어/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.7.4
+이 때문에 이들과의 인터뷰는 과거부터 현재까지 한국 방송의 제작과정 변화를 두루 살펴보는 길잡이가 된다.
+
+이	이/MMD
+때문에	때문/NNB+에/JKB
+이들과의	이/NP+들/XSN+과/JKB+의/JKG
+인터뷰는	인터뷰/NNG+는/JX
+과거부터	과거/NNG+부터/JX
+현재까지	현재/NNG+까지/JX
+한국	한국/NNP
+방송의	방송/NNG+의/JKG
+제작과정	제작/NNG+과정/NNG
+변화를	변화/NNG+를/JKO
+두루	두루/MAG
+살펴보는	살펴보/VV+는/ETM
+길잡이가	길잡이/NNG+가/JKC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.8.1
+대중문화의 최전선에서 대중의 기호를 재빨리 감지하고 이끌기도 한 ‘창의력의 달인들’의 비법을 훔쳐보는 재미도 있다.
+
+대중문화의	대중문화/NNG+의/JKG
+최전선에서	최/XPN+전선/NNG+에서/JKB
+대중의	대중/NNG+의/JKG
+기호를	기호/NNG+를/JKO
+재빨리	재빨리/MAG
+감지하고	감지/NNG+하/XSV+고/EC
+이끌기도	이끌/VV+기/ETN+도/JX
+한	하/VX+ㄴ/ETM
+‘창의력의	‘/SS+창의력/NNG+의/JKG
+달인들’의	달인/NNG+들/XSN+’/SS+의/JKG
+비법을	비법/NNG+을/JKO
+훔쳐보는	훔쳐보/VV+는/ETM
+재미도	재미/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.128.8.2
+이영돈 채널A 전무는 추리소설과 공포영화에서 ‘그것이 알고 싶다’ ‘먹거리 X파일’의 연출 아이디어를 얻고, ‘대장금’을 만든 이병훈 전 MBC PD는 역사 드라마 속 사실과 허구의 간극을 극복하기 위해서는 “상식을 지켜야 한다”고 설명한다.
+
+이영돈	이영돈/NNP
+채널A	채널A/NNP
+전무는	전무/NNG+는/JX
+추리소설과	추리/NNG+소설/NNG+과/JC
+공포영화에서	공포/NNG+영화/NNG+에서/JKB
+‘그것이	‘/SS+그것/NP+이/JKS
+알고	알/VV+고/EC
+싶다’	싶/VX+다/EF+’/SS
+‘먹거리	‘/SS+먹거리/NNG
+X파일’의	X/SL+파일/NNG+’/SS+의/JKG
+연출	연출/NNG
+아이디어를	아이디어/NNG+를/JKO
+얻고,	얻/VV+고/EC+,/SP
+‘대장금’을	‘/SS+대장금/NNP+’/SS+을/JKO
+만든	만들/VV+ㄴ/ETM
+이병훈	이병훈/NNP
+전	전/MMD
+MBC	MBC/SL
+PD는	PD/SL+는/JX
+역사	역사/NNG
+드라마	드라마/NNG
+속	속/NNG
+사실과	사실/NNG+과/JC
+허구의	허구/NNG+의/JKG
+간극을	간극/NNG+을/JKO
+극복하기	극복/NNG+하/XSV+기/ETN
+위해서는	위하/VV+아서/EC+는/JX
+“상식을	“/SS+상식/NNG+을/JKO
+지켜야	지키/VV+어야/EC
+한다”고	하/VX+ㄴ다/EF+”/SS+고/JKQ
+설명한다.	설명/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.9.1
+결은 다르지만 두 책 모두 사회에서 PD가 하는 역할에 대한 고민을 담았다는 점에서는 닮았다.
+
+결은	결/NNG+은/JX
+다르지만	다르/VA+지만/EC
+두	두/MMN
+책	책/NNG
+모두	모두/MAG
+사회에서	사회/NNG+에서/JKB
+PD가	PD/SL+가/JKS
+하는	하/VV+는/ETM
+역할에	역할/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+고민을	고민/NNG+을/JKO
+담았다는	담/VV+았/EP+다는/ETM
+점에서는	점/NNG+에서/JKB+는/JX
+닮았다.	닮/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.128.9.2
+‘일요일 일요일 밤에’를 만든 송창의 현 tvN 부사장은 PD의 세 가지 덕목을 ‘창의성, 열정, 관계’라고 강조한다.
+
+‘일요일	‘/SS+일요일/NNG
+일요일	일요일/NNG
+밤에’를	밤/NNG+에/JKB+’/SS+를/JKO
+만든	만들/VV+ㄴ/ETM
+송창의	송창의/NNP
+현	현/MMD
+tvN	tvN/SL
+부사장은	부사장/NNG+은/JX
+PD의	PD/SL+의/JKG
+세	세/MMN
+가지	가지/NNB
+덕목을	덕목/NNG+을/JKO
+‘창의성,	‘/SS+창의/NNG+성/XSN+,/SP
+열정,	열정/NNG+,/SP
+관계’라고	관계/NNG+’/SS+라고/JKQ
+강조한다.	강조/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.128.9.3
+두 책을 읽다 보면 결국 돌고 돌아 어느 분야에서나 요구되는 덕목은 비슷하다는 생각도 든다.
+
+두	두/MMN
+책을	책/NNG+을/JKO
+읽다	읽/VV+다/EC
+보면	보/VX+면/EC
+결국	결국/MAG
+돌고	돌/VV+고/EC
+돌아	돌/VV+아/EC
+어느	어느/MMD
+분야에서나	분야/NNG+에서/JKB+나/JX
+요구되는	요구/NNG+되/XSV+는/ETM
+덕목은	덕목/NNG+은/JX
+비슷하다는	비슷하/VA+다는/ETM
+생각도	생각/NNG+도/JX
+든다.	들/VV+ㄴ다/EF+./SF
+
+

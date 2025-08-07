@@ -1,0 +1,437 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.204
+metadata : {}
+
+
+# id : NWRW1800000022.204.1.1
+'對北 금수품' 실은 선박 公海서 검색 가능;안보리 제재안 골격 합의 세부사항 놓고 막판 절충
+
+'對北	'/SS+對北/SH
+금수품'	금수품/NNG+'/SS
+실은	싣/VV+은/ETM
+선박	선박/NNG
+公海서	公海/SH+서/JKB
+검색	검색/NNG
+가능;안보리	가능/NNG+;/SW+안보리/NNG
+제재안	제재안/NNG
+골격	골격/NNG
+합의	합의/NNG
+세부사항	세부/NNG+사항/NNG
+놓고	놓/VV+고/EC
+막판	막판/NNG
+절충	절충/NNG
+
+
+# id : NWRW1800000022.204.2.1
+유엔 안보리 대북 주요내용(잠정안)
+
+유엔	유엔/NNP
+안보리	안보리/NNG
+대북	대북/NNG
+주요내용(잠정안)	주요/NNG+내용/NNG+(/SS+잠정/NNG+안/NNG+)/SS
+
+
+# id : NWRW1800000022.204.3.1
+▲북한에 대한 수출입 금지 품목을 선적했다는 증거가 있을 경우 공해상에서 해당 선박 검색 요청 가능
+
+▲북한에	▲/SW+북한/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+수출입	수출입/NNG
+금지	금지/NNG
+품목을	품목/NNG+을/JKO
+선적했다는	선적/NNG+하/XSV+았/EP+다는/ETM
+증거가	증거/NNG+가/JKS
+있을	있/VA+을/ETM
+경우	경우/NNG
+공해상에서	공해/NNG+상/XSN+에서/JKB
+해당	해당/NNG
+선박	선박/NNG
+검색	검색/NNG
+요청	요청/NNG
+가능	가능/NNG
+
+
+# id : NWRW1800000022.204.4.1
+▲인도적 목적이나 비핵화 촉진 목적 이외 대북 금융 지원 금지
+
+▲인도적	▲/SW+인도/NNG+적/XSN
+목적이나	목적/NNG+이나/JC
+비핵화	비핵/NNG+화/XSN
+촉진	촉진/NNG
+목적	목적/NNG
+이외	이외/NNG
+대북	대북/NNG
+금융	금융/NNG
+지원	지원/NNG
+금지	금지/NNG
+
+
+# id : NWRW1800000022.204.5.1
+▲북한에 대한 모든 무기, 모든 관련 물자 금수(禁輸)
+
+▲북한에	▲/SW+북한/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+모든	모든/MMN
+무기,	무기/NNG+,/SP
+관련	관련/NNG
+물자	물자/NNG
+금수(禁輸)	금수/NNG+(/SS+禁輸/SH+)/SS
+
+
+# id : NWRW1800000022.204.6.1
+▲북한의 2차 핵실험 가장 강력하게 규탄
+
+▲북한의	▲/SW+북한/NNP+의/JKG
+2차	2/SN+차/NNB
+핵실험	핵/NNG+실험/NNG
+가장	가장/MAG
+강력하게	강력/NNG+하/XSA+게/EC
+규탄	규탄/NNG
+
+
+# id : NWRW1800000022.204.7.1
+북한의 2차 핵실험에 대응하는 유엔 안전보장이사회의 대북 제재 결의안 협상이 9일(현지 시각) 타결됐다.
+
+북한의	북한/NNP+의/JKG
+2차	2/SN+차/NNB
+핵실험에	핵/NNG+실험/NNG+에/JKB
+대응하는	대응/NNG+하/XSV+는/ETM
+유엔	유엔/NNP
+안전보장이사회의	안전/NNG+보장/NNG+이사회/NNG+의/JKG
+대북	대북/NNG
+제재	제재/NNG
+결의안	결의안/NNG
+협상이	협상/NNG+이/JKS
+9일(현지	9/SN+일/NNB+(/SS+현지/NNG
+시각)	시각/NNG+)/SS
+타결됐다.	타결/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.8.1
+유엔 소식통은 "미국, 영국, 프랑스, 중국, 러시아 등 안보리 5개 상임이사국과 한국 및 일본을 포함한 주요 7개국(P5+2)이 이날 오전 유엔본부에서 회의를 열어 북한의 2차 핵실험에 대한 안보리 차원의 제재 결의안 초안에 최종 합의했다"고 했다.
+
+유엔	유엔/NNP
+소식통은	소식통/NNG+은/JX
+"미국,	"/SS+미국/NNP+,/SP
+영국,	영국/NNP+,/SP
+프랑스,	프랑스/NNP+,/SP
+중국,	중국/NNP+,/SP
+러시아	러시아/NNP
+등	등/NNB
+안보리	안보리/NNG
+5개	5/SN+개/NNB
+상임이사국과	상임/NNG+이사국/NNG+과/JC
+한국	한국/NNP
+및	및/MAG
+일본을	일본/NNP+을/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+주요	주요/NNG
+7개국(P5+2)이	7/SN+개국/NNB+(/SS+P/SL+5/SN++/SW+2/SN+)/SS+이/JKS
+이날	이날/NNG
+오전	오전/NNG
+유엔본부에서	유엔/NNP+본부/NNG+에서/JKB
+회의를	회의/NNG+를/JKO
+열어	열/VV+어/EC
+북한의	북한/NNP+의/JKG
+2차	2/SN+차/NNB
+핵실험에	핵/NNG+실험/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+차원의	차원/NNG+의/JKG
+제재	제재/NNG
+결의안	결의안/NNG
+초안에	초안/NNG+에/JKB
+최종	최종/NNG
+합의했다"고	합의/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.8.2
+그는 "그동안 서방측이 제시한 초안 중 일부 내용에 거부감을 보이던 중국이 기존 입장을 양보해 미국과 서방 진영이 제시한 절충안을 수용했다"고 했다.
+
+그는	그/NP+는/JX
+"그동안	"/SS+그동안/NNG
+서방측이	서방측/NNG+이/JKS
+제시한	제시/NNG+하/XSV+ㄴ/ETM
+초안	초안/NNG
+중	중/NNB
+일부	일부/NNG
+내용에	내용/NNG+에/JKB
+거부감을	거부감/NNG+을/JKO
+보이던	보이/VV+던/ETM
+중국이	중국/NNP+이/JKS
+기존	기존/NNG
+입장을	입장/NNG+을/JKO
+양보해	양보/NNG+하/XSV+아/EC
+미국과	미국/NNP+과/JC
+서방	서방/NNG
+진영이	진영/NNG+이/JKS
+절충안을	절충안/NNG+을/JKO
+수용했다"고	수용/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.8.3
+주요국들이 제재안에 합의함에 따라 안보리는 이날 중 전체회의를 소집해 이사국들에 결의안 초안을 회람한 뒤 이르면 10일 결의안을 채택할 것으로 알려졌다.
+
+주요국들이	주요국/NNG+들/XSN+이/JKS
+제재안에	제재안/NNG+에/JKB
+합의함에	합의/NNG+하/XSV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+안보리는	안보리/NNG+는/JX
+이날	이날/NNG
+중	중/NNB
+전체회의를	전체/NNG+회의/NNG+를/JKO
+소집해	소집/NNG+하/XSV+아/EC
+이사국들에	이사국/NNG+들/XSN+에/JKB
+결의안	결의안/NNG
+초안을	초안/NNG+을/JKO
+회람한	회람/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+이르면	이르/VA+면/EC
+10일	10/SN+일/NNB
+결의안을	결의안/NNG+을/JKO
+채택할	채택/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.9.1
+안보리는 2주가 넘게 진행된 전체 협의와 개별 접촉 등을 통해 2006년 채택된 결의안 1718호를 근간으로 추가 제재를 담은 결의안을 확정지었다.
+
+안보리는	안보리/NNG+는/JX
+2주가	2/SN+주/NNB+가/JKS
+넘게	넘/VV+게/EC
+진행된	진행/NNG+되/XSV+ㄴ/ETM
+전체	전체/NNG
+협의와	협의/NNG+와/JC
+개별	개별/NNG
+접촉	접촉/NNG
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+2006년	2006/SN+년/NNB
+채택된	채택/NNG+되/XSV+ㄴ/ETM
+결의안	결의안/NNG
+1718호를	1718/SN+호/NNB+를/JKO
+근간으로	근간/NNG+으로/JKB
+추가	추가/NNG
+제재를	제재/NNG+를/JKO
+담은	담/VV+은/ETM
+결의안을	결의안/NNG+을/JKO
+확정지었다.	확정/NNG+짓/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.10.1
+가장 쟁점이 됐던 '의심 선박에 대한 공해상 검색' 조항은 강제성을 부여하지 않는 방식으로 절충된 것으로 알려졌다.
+
+가장	가장/MAG
+쟁점이	쟁점/NNG+이/JKC
+됐던	되/VV+었/EP+던/ETM
+'의심	'/SS+의심/NNG
+선박에	선박/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+공해상	공해/NNG+상/XSN
+검색'	검색/NNG+'/SS
+조항은	조항/NNG+은/JX
+강제성을	강제/NNG+성/XSN+을/JKO
+부여하지	부여/NNG+하/XSV+지/EC
+않는	않/VX+는/ETM
+방식으로	방식/NNG+으로/JKB
+절충된	절충/NNG+되/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.10.2
+당초 미·일이 주도한 초안에는 '모든 회원국이 합리적인 이유가 있을 경우 선적국의 동의하에 공해상에서 북한에 대한 수출입 금지 품목을 포함했다고 판단되는 화물을 실은 선박을 조사할 권리를 갖는다'는 내용이 포함됐다.
+
+당초	당초/NNG
+미·일이	미/NNP+·/SP+일/NNP+이/JKS
+주도한	주도/NNG+하/XSV+ㄴ/ETM
+초안에는	초안/NNG+에/JKB+는/JX
+'모든	'/SS+모든/MMN
+회원국이	회원국/NNG+이/JKS
+합리적인	합리/NNG+적/XSN+이/VCP+ㄴ/ETM
+이유가	이유/NNG+가/JKS
+있을	있/VA+을/ETM
+경우	경우/NNG
+선적국의	선적국/NNG+의/JKG
+동의하에	동의/NNG+하/XSN+에/JKB
+공해상에서	공해/NNG+상/XSN+에서/JKB
+북한에	북한/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+수출입	수출입/NNG
+금지	금지/NNG
+품목을	품목/NNG+을/JKO
+포함했다고	포함/NNG+하/XSV+았/EP+다고/EC
+판단되는	판단/NNG+되/XSV+는/ETM
+화물을	화물/NNG+을/JKO
+실은	싣/VV+은/ETM
+선박을	선박/NNG+을/JKO
+조사할	조사/NNG+하/XSV+ㄹ/ETM
+권리를	권리/NNG+를/JKO
+갖는다'는	갖/VV+는다/EF+'/SS+는/ETM
+내용이	내용/NNG+이/JKS
+포함됐다.	포함/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.10.3
+하지만 중국측은 북한의 반발로 인한 공해상의 충돌 등을 우려하고 "북한의 주권을 침해할 우려가 있다"며 난색을 표명했고, 결국 최종안에는 '증거가 있을 경우 화물 검색을 요청할 수 있다'는 정도로 수위가 낮아진 것으로 알려졌다.
+
+하지만	하지만/MAJ
+중국측은	중국/NNP+측/NNB+은/JX
+북한의	북한/NNP+의/JKG
+반발로	반발/NNG+로/JKB
+인한	인/NNG+하/XSV+ㄴ/ETM
+공해상의	공해/NNG+상/XSN+의/JKG
+충돌	충돌/NNG
+등을	등/NNB+을/JKO
+우려하고	우려/NNG+하/XSV+고/EC
+"북한의	"/SS+북한/NNP+의/JKG
+주권을	주권/NNG+을/JKO
+침해할	침해/NNG+하/XSV+ㄹ/ETM
+우려가	우려/NNG+가/JKS
+있다"며	있/VA+다/EF+"/SS+며/EC
+난색을	난색/NNG+을/JKO
+표명했고,	표명/NNG+하/XSV+았/EP+고/EC+,/SP
+결국	결국/MAG
+최종안에는	최종안/NNG+에/JKB+는/JX
+'증거가	'/SS+증거/NNG+가/JKS
+있을	있/VA+을/ETM
+경우	경우/NNG
+화물	화물/NNG
+검색을	검색/NNG+을/JKO
+요청할	요청/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다'는	있/VA+다/EF+'/SS+는/ETM
+정도로	정도/NNG+로/JKB
+수위가	수위/NNG+가/JKS
+낮아진	낮/VA+아/EC+지/VX+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.11.1
+북한의 금융 거래 제재와 무기 수출입 관련 제재는 대부분 미·일의 주장이 받아들여진 것으로 전해졌다.
+
+북한의	북한/NNP+의/JKG
+금융	금융/NNG
+거래	거래/NNG
+제재와	제재/NNG+와/JC
+무기	무기/NNG
+수출입	수출입/NNG
+관련	관련/NNG
+제재는	제재/NNG+는/JX
+대부분	대/XPN+부분/NNG
+미·일의	미/NNP+·/SP+일/NNP+의/JKG
+주장이	주장/NNG+이/JKS
+받아들여진	받아들이/VV+어/EC+지/VX+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+전해졌다.	전하/VV+아/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.11.2
+대북 금융 지원을 인도적 목적이나 비핵화 촉진 목적을 제외하고는 할 수 없도록 했고, 북한에 대한 무기 금수 품목도 기존 1718호상에서는 미사일이나 핵무기 등 대량살상무기(WMD)에 한정됐으나 이번 결의안에는 '모든 무기, 모든 관련된 물자'로 범위가 대폭 확대됐다.
+
+대북	대북/NNG
+금융	금융/NNG
+지원을	지원/NNG+을/JKO
+인도적	인도/NNG+적/XSN
+목적이나	목적/NNG+이나/JC
+비핵화	비핵/NNG+화/XSN
+촉진	촉진/NNG
+목적을	목적/NNG+을/JKO
+제외하고는	제외/NNG+하/XSV+고/EC+는/JX
+할	하/VV+ㄹ/ETM
+수	수/NNB
+없도록	없/VA+도록/EC
+했고,	하/VX+았/EP+고/EC+,/SP
+북한에	북한/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+무기	무기/NNG
+금수	금수/NNG
+품목도	품목/NNG+도/JX
+기존	기존/NNG
+1718호상에서는	1718/SN+호/NNB+상/XSN+에서/JKB+는/JX
+미사일이나	미사일/NNG+이나/JC
+핵무기	핵무기/NNG
+등	등/NNB
+대량살상무기(WMD)에	대량/NNG+살상/NNG+무기/NNG+(/SS+WMD/SL+)/SS+에/JKB
+한정됐으나	한정/NNG+되/XSV+었/EP+으나/EC
+이번	이번/NNG
+결의안에는	결의안/NNG+에/JKB+는/JX
+'모든	'/SS+모든/MMN
+무기,	무기/NNG+,/SP
+모든	모든/MMN
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+물자'로	물자/NNG+'/SS+로/JKB
+범위가	범위/NNG+가/JKS
+대폭	대폭/MAG
+확대됐다.	확대/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.12.1
+또 결의안은 북한의 2차 핵실험을 '가장 강력하게 규탄한다'(condemn in the strongest terms)고 했다.
+
+또	또/MAG
+결의안은	결의안/NNG+은/JX
+북한의	북한/NNP+의/JKG
+2차	2/SN+차/NNB
+핵실험을	핵/NNG+실험/NNG+을/JKO
+'가장	'/SS+가장/MAG
+강력하게	강력/NNG+하/XSA+게/EC
+규탄한다'(condemn	규탄/NNG+하/XSV+ㄴ다/EF+'/SS+(/SS+condemn/SL
+in	in/SL
+the	the/SL
+strongest	strongest/SL
+terms)고	terms/SL+)/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.12.2
+이 표현은 안보리에서 특정 사안을 비난할 때 사용할 수 있는 가장 높은 수위다.
+
+이	이/MMD
+표현은	표현/NNG+은/JX
+안보리에서	안보리/NNG+에서/JKB
+특정	특정/NNG
+사안을	사안/NNG+을/JKO
+비난할	비난/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+사용할	사용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+가장	가장/MAG
+높은	높/VA+은/ETM
+수위다.	수위/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.204.13.1
+정부 당국자는 "중국의 반대로 일부 조항에서 수위가 낮아지기는 했지만 이번 결의안은 여전히 기존의 어떤 결의안보다 강력한 제재 내용을 포함하고 있다"고 했다.
+
+정부	정부/NNG
+당국자는	당국자/NNG+는/JX
+"중국의	"/SS+중국/NNP+의/JKG
+반대로	반대/NNG+로/JKB
+일부	일부/NNG
+조항에서	조항/NNG+에서/JKB
+수위가	수위/NNG+가/JKS
+낮아지기는	낮/VA+아/EC+지/VX+기/ETN+는/JX
+했지만	하/VX+았/EP+지만/EC
+이번	이번/NNG
+결의안은	결의안/NNG+은/JX
+여전히	여전히/MAG
+기존의	기존/NNG+의/JKG
+어떤	어떤/MMD
+결의안보다	결의안/NNG+보다/JKB
+강력한	강력/NNG+하/XSA+ㄴ/ETM
+제재	제재/NNG
+내용을	내용/NNG+을/JKO
+포함하고	포함/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

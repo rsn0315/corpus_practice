@@ -1,0 +1,276 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.78
+metadata : {}
+
+
+# id : NWRW1800000033.78.1.1
+[2012지구촌 새권력]3차례 美대선후보 TV 토론… 中 53 vs 日 0
+
+[2012지구촌	[/SS+2012/SN+지구촌/NNG
+새권력]3차례	새/MMA+권력/NNG+]/SS+3/SN+차례/NNG
+美대선후보	美/SH+대선/NNG+후보/NNG
+TV	TV/SL
+토론…	토론/NNG+…/SE
+中	中/SH
+53	53/SN
+vs	vs/SL
+日	日/SH
+0	0/SN
+
+
+# id : NWRW1800000033.78.2.1
+中 최다언급… 日 한번도 없어
+
+中	中/SH
+최다언급…	최다/NNG+언급/NNG+…/SE
+日	日/SH
+한번도	한번/NNG+도/JX
+없어	없/VA+어/EF
+
+
+# id : NWRW1800000033.78.3.1
+10월 3, 16, 22일 세 차례 열린 미국 대통령 후보의 TV 대선 토론회에서 버락 오바마 대통령과 밋 롬니 공화당 대선후보가 가장 많이 언급한 나라는 중국(53회)인 것으로 집계됐다.
+
+10월	10/SN+월/NNB
+3,	3/SN+,/SP
+16,	16/SN+,/SP
+22일	22/SN+일/NNB
+세	세/MMN
+차례	차례/NNG
+열린	열리/VV+ㄴ/ETM
+미국	미국/NNP
+대통령	대통령/NNG
+후보의	후보/NNG+의/JKG
+TV	TV/SL
+대선	대선/NNG
+토론회에서	토론회/NNG+에서/JKB
+버락	버락/NNP
+오바마	오바마/NNP
+대통령과	대통령/NNG+과/JC
+밋	밋/NNP
+롬니	롬니/NNP
+공화당	공화당/NNP
+대선후보가	대선/NNG+후보/NNG+가/JKS
+가장	가장/MAG
+많이	많이/MAG
+언급한	언급/NNG+하/XSV+ㄴ/ETM
+나라는	나라/NNG+는/JX
+중국(53회)인	중국/NNP+(/SS+53/SN+회/NNB+)/SS+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+집계됐다.	집계/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.3.2
+이는 중국의 환율 조작 의혹과 인권 문제 등에 대한 미국 유권자들의 높은 관심을 반영하는 것이라고 월스트리트저널(WSJ)이 23일 보도했다.
+
+이는	이/NP+는/JX
+중국의	중국/NNP+의/JKG
+환율	환율/NNG
+조작	조작/NNG
+의혹과	의혹/NNG+과/JC
+인권	인권/NNG
+문제	문제/NNG
+등에	등/NNB+에/JKB
+대한	대하/VV+ㄴ/ETM
+미국	미국/NNP
+유권자들의	유권자/NNG+들/XSN+의/JKG
+높은	높/VA+은/ETM
+관심을	관심/NNG+을/JKO
+반영하는	반영/NNG+하/XSV+는/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+월스트리트저널(WSJ)이	월스트리트저널/NNP+(/SS+WSJ/SL+)/SS+이/JKS
+23일	23/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.4.1
+반면 일본에 대한 언급은 단 한 번도 없었다.
+
+반면	반면/NNG
+일본에	일본/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+언급은	언급/NNG+은/JX
+단	단/MMA
+한	한/MMN
+번도	번/NNB+도/JX
+없었다.	없/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.4.2
+22일 열린 3차 토론에서 미국과 아시아 동맹국들의 협력 방안을 얘기할 때 등 두 후보가 일본을 언급할 기회는 두 번 정도 있었지만 끝내 일본이라는 단어를 입에 올리지 않았다.
+
+22일	22/SN+일/NNB
+열린	열리/VV+ㄴ/ETM
+3차	3/SN+차/NNB
+토론에서	토론/NNG+에서/JKB
+미국과	미국/NNP+과/JC
+아시아	아시아/NNP
+동맹국들의	동맹국/NNG+들/XSN+의/JKG
+협력	협력/NNG
+방안을	방안/NNG+을/JKO
+얘기할	얘기/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+등	등/NNB
+두	두/MMN
+후보가	후보/NNG+가/JKS
+일본을	일본/NNP+을/JKO
+언급할	언급/NNG+하/XSV+ㄹ/ETM
+기회는	기회/NNG+는/JX
+번	번/NNB
+정도	정도/NNG
+있었지만	있/VA+었/EP+지만/EC
+끝내	끝내/MAG
+일본이라는	일본/NNP+이/VCP+라는/ETM
+단어를	단어/NNG+를/JKO
+입에	입/NNG+에/JKB
+올리지	올리/VV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.5.1
+미 대선 토론회에서 특정 국가가 언급된 횟수가 미국의 외교정책 우선순위를 가장 정확히 반영하는 것은 아니다.
+
+미	미/NNP
+대선	대선/NNG
+토론회에서	토론회/NNG+에서/JKB
+특정	특정/NNG
+국가가	국가/NNG+가/JKS
+언급된	언급/NNG+되/XSV+ㄴ/ETM
+횟수가	횟수/NNG+가/JKS
+미국의	미국/NNP+의/JKG
+외교정책	외교/NNG+정책/NNG
+우선순위를	우선순위/NNG+를/JKO
+가장	가장/MAG
+정확히	정확히/MAG
+반영하는	반영/NNG+하/XSV+는/ETM
+것은	것/NNB+은/JX
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000033.78.5.2
+그러나 외교 문제에 관한 미 유권자들의 관심을 보여주는 척도로 여겨져 왔다.
+
+그러나	그러나/MAJ
+외교	외교/NNG
+문제에	문제/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+미	미/NNP
+유권자들의	유권자/NNG+들/XSN+의/JKG
+관심을	관심/NNG+을/JKO
+보여주는	보이/VV+어/EC+주/VX+는/ETM
+척도로	척도/NNG+로/JKB
+여겨져	여기/VV+어/EC+지/VX+어/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.5.3
+일본의 경제력에 대해 많은 미국민이 경계심을 갖고 있었을 때인 1992년 대선 토론회에선 일본이 9차례나 언급됐다.
+
+일본의	일본/NNP+의/JKG
+경제력에	경제력/NNG+에/JKB
+대해	대하/VV+아/EC
+많은	많/VA+은/ETM
+미국민이	미/NNP+국민/NNG+이/JKS
+경계심을	경계심/NNG+을/JKO
+갖고	갖/VV+고/EC
+있었을	있/VX+었/EP+을/ETM
+때인	때/NNG+이/VCP+ㄴ/ETM
+1992년	1992/SN+년/NNB
+대선	대선/NNG
+토론회에선	토론회/NNG+에서/JKB+ㄴ/JX
+일본이	일본/NNP+이/JKS
+9차례나	9/SN+차례/NNG+나/JX
+언급됐다.	언급/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.5.4
+WSJ는 미국 유권자들의 마음속에서 일본의 위상이 최근 30년 이래 가장 낮아졌기 때문이라고 분석했다.
+
+WSJ는	WSJ/SL+는/JX
+미국	미국/NNP
+유권자들의	유권자/NNG+들/XSN+의/JKG
+마음속에서	마음속/NNG+에서/JKB
+일본의	일본/NNP+의/JKG
+위상이	위상/NNG+이/JKS
+최근	최근/MAG
+30년	30/SN+년/NNB
+이래	이래/NNB
+가장	가장/MAG
+낮아졌기	낮/VA+아/EC+지/VX+었/EP+기/ETN
+때문이라고	때문/NNB+이/VCP+라고/EC
+분석했다.	분석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.6.1
+한편 남북한에 대해서는 3차 토론에서 롬니 후보가 오바마 행정부의 외교정책을 비판하면서 ‘김정일’과 ‘북한’을 한 차례씩 언급한 것이 전부다.
+
+한편	한편/MAG
+남북한에	남북한/NNP+에/JKB
+대해서는	대하/VV+아서/EC+는/JX
+3차	3/SN+차/NNB
+토론에서	토론/NNG+에서/JKB
+롬니	롬니/NNP
+후보가	후보/NNG+가/JKS
+오바마	오바마/NNP
+행정부의	행정부/NNG+의/JKG
+외교정책을	외교/NNG+정책/NNG+을/JKO
+비판하면서	비판/NNG+하/XSV+면서/EC
+‘김정일’과	‘/SS+김정일/NNP+’/SS+과/JC
+‘북한’을	‘/SS+북한/NNP+’/SS+을/JKO
+한	한/MMN
+차례씩	차례/NNG+씩/XSN
+언급한	언급/NNG+하/XSV+ㄴ/ETM
+것이	것/NNB+이/JKS
+전부다.	전부/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.6.2
+평소 유세현장에서 단골처럼 ‘한국(South Korea)’을 거론하던 오바마 대통령은 세 차례 토론에서 한국에 대한 발언을 한 번도 하지 않았다.
+
+평소	평소/NNG
+유세현장에서	유세/NNG+현장/NNG+에서/JKB
+단골처럼	단골/NNG+처럼/JKB
+‘한국(South	‘/SS+한국/NNP+(/SS+South/SL
+Korea)’을	Korea/SL+)/SS+’/SS+을/JKO
+거론하던	거론/NNG+하/XSV+던/ETM
+오바마	오바마/NNP
+대통령은	대통령/NNG+은/JX
+세	세/MMN
+차례	차례/NNG
+토론에서	토론/NNG+에서/JKB
+한국에	한국/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+발언을	발언/NNG+을/JKO
+한	한/MMN
+번도	번/NNB+도/JX
+하지	하/VV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.78.6.3
+백악관 측은 “한국이나 북한에 대한 질문을 받지 않았기 때문”이라며 “한국은 여전히 더할 나위 없이 가까운 미국의 동맹”이라고 설명했다.
+
+백악관	백악관/NNP
+측은	측/NNB+은/JX
+“한국이나	“/SS+한국/NNP+이나/JC
+북한에	북한/NNP+에/JKB
+대한	대하/VV+ㄴ/ETM
+질문을	질문/NNG+을/JKO
+받지	받/VV+지/EC
+않았기	않/VX+았/EP+기/ETN
+때문”이라며	때문/NNB+”/SS+이/VCP+라며/EC
+“한국은	“/SS+한국/NNP+은/JX
+여전히	여전히/MAG
+더할	더/MAG+하/XSV+ㄹ/ETM
+나위	나위/NNB
+없이	없이/MAG
+가까운	가깝/VA+ㄴ/ETM
+미국의	미국/NNP+의/JKG
+동맹”이라고	동맹/NNG+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+

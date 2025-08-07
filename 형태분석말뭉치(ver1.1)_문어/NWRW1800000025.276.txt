@@ -1,0 +1,98 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000025.276
+metadata : {}
+
+
+# id : NWRW1800000025.276.1.1
+페이스북, 악성코드 주의보… ‘Hello’등 메시지 통해 유포
+
+페이스북,	페이스북/NNP+,/SP
+악성코드	악성/NNG+코드/NNG
+주의보…	주의보/NNG+…/SE
+‘Hello’등	‘/SS+Hello/SL+’/SS+등/NNB
+메시지	메시지/NNG
+통해	통하/VV+아/EC
+유포	유포/NNG
+
+
+# id : NWRW1800000025.276.2.1
+소셜네트워크서비스(SNS) ‘페이스북’의 쪽지를 통해 악성코드가 유포되고 있다.
+
+소셜네트워크서비스(SNS)	소셜/NNG+네트워크/NNG+서비스/NNG+(/SS+SNS/SL+)/SS
+‘페이스북’의	‘/SS+페이스북/NNP+’/SS+의/JKG
+쪽지를	쪽지/NNG+를/JKO
+통해	통하/VV+아/EC
+악성코드가	악성/NNG+코드/NNG+가/JKS
+유포되고	유포/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000025.276.2.2
+27일 안철수연구소 등에 따르면 페이스북에서 쪽지로 악성코드를 유포하는 단축 인터넷주소(URL)가 전달되고 있다.
+
+27일	27/SN+일/NNB
+안철수연구소	안철수연구소/NNP
+등에	등/NNB+에/JKB
+따르면	따르/VV+면/EC
+페이스북에서	페이스북/NNP+에서/JKB
+쪽지로	쪽지/NNG+로/JKB
+악성코드를	악성/NNG+코드/NNG+를/JKO
+유포하는	유포/NNG+하/XSV+는/ETM
+단축	단축/NNG
+인터넷주소(URL)가	인터넷/NNG+주소/NNG+(/SS+URL/SL+)/SS+가/JKS
+전달되고	전달/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000025.276.2.3
+페이스북 쪽지로 ‘Aloha’, ‘:-D’, ‘Hello’ 등의 메시지와 함께 단축 URL이 전달되는데 이 URL을 클릭하면 동영상을 볼 수 있는 웹 페이지로 접속된다.
+
+페이스북	페이스북/NNP
+쪽지로	쪽지/NNG+로/JKB
+‘Aloha’,	‘/SS+Aloha/SL+’/SS+,/SP
+‘:-D’,	‘/SS+:/SP+-/SO+D/SL+’/SS+,/SP
+‘Hello’	‘/SS+Hello/SL+’/SS
+등의	등/NNB+의/JKG
+메시지와	메시지/NNG+와/JKB
+함께	함께/MAG
+단축	단축/NNG
+URL이	URL/SL+이/JKS
+전달되는데	전달/NNG+되/XSV+는데/EC
+이	이/MMD
+URL을	URL/SL+을/JKO
+클릭하면	클릭/NNG+하/XSV+면/EC
+동영상을	동영상/NNG+을/JKO
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+웹	웹/NNG
+페이지로	페이지/NNG+로/JKB
+접속된다.	접속/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.276.2.4
+이때 동영상을 보기 위해 코덱을 설치하라고 메시지가 뜨는데, 이 프로그램을 설치하면 가짜 백신 등의 파일을 내려받게 된다.
+
+이때	이때/NNG
+동영상을	동영상/NNG+을/JKO
+보기	보/VV+기/ETN
+위해	위하/VV+아/EC
+코덱을	코덱/NNG+을/JKO
+설치하라고	설치/NNG+하/XSV+라고/EC
+메시지가	메시지/NNG+가/JKS
+뜨는데,	뜨/VV+는데/EC+,/SP
+이	이/MMD
+프로그램을	프로그램/NNG+을/JKO
+설치하면	설치/NNG+하/XSV+면/EC
+가짜	가짜/NNG
+백신	백신/NNG
+등의	등/NNB+의/JKG
+파일을	파일/NNG+을/JKO
+내려받게	내려받/VV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+

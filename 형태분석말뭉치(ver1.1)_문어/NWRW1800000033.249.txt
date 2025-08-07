@@ -1,0 +1,314 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.249
+metadata : {}
+
+
+# id : NWRW1800000033.249.1.1
+양승호감독 떠난 롯데… 홍성흔도 떠나나
+
+양승호감독	양승호/NNP+감독/NNG
+떠난	떠나/VV+ㄴ/ETM
+롯데…	롯데/NNP+…/SE
+홍성흔도	홍성흔/NNP+도/JX
+떠나나	떠나/VV+나/EF
+
+
+# id : NWRW1800000033.249.2.1
+FA자격선수 11명에 포함… 정성훈 등 알짜 많아 몸값 관심
+
+FA자격선수	FA/SL+자격/NNG+선수/NNG
+11명에	11/SN+명/NNB+에/JKB
+포함…	포함/NNG+…/SE
+정성훈	정성훈/NNP
+등	등/NNB
+알짜	알짜/NNG
+많아	많/VA+아/EC
+몸값	몸값/NNG
+관심	관심/NNG
+
+
+# id : NWRW1800000033.249.3.1
+프로야구 자유계약선수(FA) 시장이 문을 열었다.
+
+프로야구	프로/NNG+야구/NNG
+자유계약선수(FA)	자유/NNG+계약/NNG+선수/NNG+(/SS+FA/SL+)/SS
+시장이	시장/NNG+이/JKS
+문을	문/NNG+을/JKO
+열었다.	열/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.249.4.1
+한국야구위원회(KBO)는 2013년도 FA 자격 선수 21명 가운데 권리를 행사하겠다고 신청한 선수들의 명단을 9일 공시했다.
+
+한국야구위원회(KBO)는	한국야구위원회/NNP+(/SS+KBO/SL+)/SS+는/JX
+2013년도	2013/SN+년도/NNB
+FA	FA/SL
+자격	자격/NNG
+선수	선수/NNG
+21명	21/SN+명/NNB
+가운데	가운데/NNG
+권리를	권리/NNG+를/JKO
+행사하겠다고	행사/NNG+하/XSV+겠/EP+다고/EC
+신청한	신청/NNG+하/XSV+ㄴ/ETM
+선수들의	선수/NNG+들/XSN+의/JKG
+명단을	명단/NNG+을/JKO
+9일	9/SN+일/NNB
+공시했다.	공시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.249.4.2
+홍성흔(사진) 김주찬(이상 롯데), 이진영 정성훈(이상 LG), 이호준(SK), 정현욱(삼성), 유동훈 이현곤 김원섭(이상 KIA), 이정훈(넥센), 마일영(한화) 등 11명.
+
+홍성흔(사진)	홍성흔/NNP+(/SS+사진/NNG+)/SS
+김주찬(이상	김주찬/NNP+(/SS+이상/NNG
+롯데),	롯데/NNP+)/SS+,/SP
+이진영	이진영/NNP
+정성훈(이상	정성훈/NNP+(/SS+이상/NNG
+LG),	LG/SL+)/SS+,/SP
+이호준(SK),	이호준/NNP+(/SS+SK/SL+)/SS+,/SP
+정현욱(삼성),	정현욱/NNP+(/SS+삼성/NNP+)/SS+,/SP
+유동훈	유동훈/NNP
+이현곤	이현곤/NNP
+김원섭(이상	김원섭/NNP+(/SS+이상/NNG
+KIA),	KIA/SL+)/SS+,/SP
+이정훈(넥센),	이정훈/NNP+(/SS+넥센/NNP+)/SS+,/SP
+마일영(한화)	마일영/NNP+(/SS+한화/NNP+)/SS
+등	등/NNB
+11명.	11/SN+명/NNB+./SF
+
+
+# id : NWRW1800000033.249.4.3
+역대 최대 규모였던 지난해(17명)보다는 6명이 줄었다.
+
+역대	역대/NNG
+최대	최대/NNG
+규모였던	규모/NNG+이/VCP+었/EP+던/ETM
+지난해(17명)보다는	지난해/NNG+(/SS+17/SN+명/NNB+)/SS+보다/JKB+는/JX
+6명이	6/SN+명/NNB+이/JKS
+줄었다.	줄/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.249.5.1
+지난해의 이대호(오릭스)만 한 초대어급은 아니지만 홍성흔 김주찬 이진영 정성훈 정현욱 등 알짜배기 준척이 많아 구단과 선수들의 힘겨루기가 볼 만할 것으로 전망된다.
+
+지난해의	지난해/NNG+의/JKG
+이대호(오릭스)만	이대호/NNP+(/SS+오릭스/NNP+)/SS+만/JX
+한	하/VA+ㄴ/ETM
+초대어급은	초/XPN+대어급/NNG+은/JX
+아니지만	아니/VCN+지만/EC
+홍성흔	홍성흔/NNP
+김주찬	김주찬/NNP
+이진영	이진영/NNP
+정성훈	정성훈/NNP
+정현욱	정현욱/NNP
+등	등/NNB
+알짜배기	알짜배기/NNG
+준척이	준척/NNG+이/JKS
+많아	많/VA+아/EC
+구단과	구단/NNG+과/JC
+선수들의	선수/NNG+들/XSN+의/JKG
+힘겨루기가	힘겨루기/NNG+가/JKS
+볼	보/VV+ㄹ/ETM
+만할	만/NNB+하/XSA+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.1
+이대호가 떠난 뒤 롯데의 ‘얼굴’로 자리 잡은 홍성흔은 “팀 잔류가 1순위”라면서도 자신을 시장에 내놨다.
+
+이대호가	이대호/NNP+가/JKS
+떠난	떠나/VV+ㄴ/ETM
+뒤	뒤/NNG
+롯데의	롯데/NNP+의/JKG
+‘얼굴’로	‘/SS+얼굴/NNG+’/SS+로/JKB
+자리	자리/NNG
+잡은	잡/VV+은/ETM
+홍성흔은	홍성흔/NNP+은/JX
+“팀	“/SS+팀/NNG
+잔류가	잔류/NNG+가/JKS
+1순위”라면서도	1/SN+순위/NNG+”/SS+이/VCP+라면서/EC+도/JX
+자신을	자신/NNG+을/JKO
+시장에	시장/NNG+에/JKB
+내놨다.	내놓/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.2
+방망이와 수비를 고루 갖춘 내야수 정성훈과 발이 빠른 외야수 김주찬의 몸값이 얼마나 될지도 관심거리다.
+
+방망이와	방망이/NNG+와/JC
+수비를	수비/NNG+를/JKO
+고루	고루/MAG
+갖춘	갖추/VV+ㄴ/ETM
+내야수	내야수/NNG
+정성훈과	정성훈/NNP+과/JC
+발이	발/NNG+이/JKS
+빠른	빠르/VA+ㄴ/ETM
+외야수	외야수/NNG
+김주찬의	김주찬/NNP+의/JKG
+몸값이	몸값/NNG+이/JKS
+얼마나	얼마나/MAG
+될지도	되/VV+ㄹ지/EF+도/JX
+관심거리다.	관심거리/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.3
+하지만 현재로서는 이들의 잔류 가능성이 높게 점쳐지고 있다.
+
+하지만	하지만/MAJ
+현재로서는	현재/NNG+로서/JKB+는/JX
+이들의	이/NP+들/XSN+의/JKG
+잔류	잔류/NNG
+가능성이	가능/NNG+성/XSN+이/JKS
+높게	높/VA+게/EC
+점쳐지고	점치/VV+어/EC+지/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.4
+롯데와 LG가 이들을 놓치지 않겠다고 선언한 데다 올해는 NC의 특별지명 절차를 놓고 기존 구단이 선수들의 FA 신청을 전략적으로 유도한 부분도 있기 때문이다.
+
+롯데와	롯데/NNP+와/JC
+LG가	LG/SL+가/JKS
+이들을	이/NP+들/XSN+을/JKO
+놓치지	놓치/VV+지/EC
+않겠다고	않/VX+겠/EP+다고/EC
+선언한	선언/NNG+하/XSV+ㄴ/ETM
+데다	데/NNB+다/JX
+올해는	올해/NNG+는/JX
+NC의	NC/SL+의/JKG
+특별지명	특별/NNG+지명/NNG
+절차를	절차/NNG+를/JKO
+놓고	놓/VV+고/EC
+기존	기존/NNG
+구단이	구단/NNG+이/JKS
+선수들의	선수/NNG+들/XSN+의/JKG
+FA	FA/SL
+신청을	신청/NNG+을/JKO
+전략적으로	전략/NNG+적/XSN+으로/JKB
+유도한	유도/NNG+하/XSV+ㄴ/ETM
+부분도	부분/NNG+도/JX
+있기	있/VA+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.5
+8개 구단은 12일까지 보호 선수 20명의 명단을 NC에 제출해야 한다.
+
+8개	8/SN+개/NNB
+구단은	구단/NNG+은/JX
+12일까지	12/SN+일/NNB+까지/JX
+보호	보호/NNG
+선수	선수/NNG
+20명의	20/SN+명/NNB+의/JKG
+명단을	명단/NNG+을/JKO
+NC에	NC/SL+에/JKB
+제출해야	제출/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.6
+NC는 이 20명을 제외한 선수를 구단별로 1명씩 지명해 데려올 수 있다.
+
+NC는	NC/SL+는/JX
+이	이/MMD
+20명을	20/SN+명/NNB+을/JKO
+제외한	제외/NNG+하/XSV+ㄴ/ETM
+선수를	선수/NNG+를/JKO
+구단별로	구단/NNG+별/XSN+로/JKB
+1명씩	1/SN+명/NNB+씩/XSN
+지명해	지명/NNG+하/XSV+아/EC
+데려올	데려오/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.7
+이 과정에서 FA는 보호선수에서 제외될 뿐 아니라 NC도 지명할 수 없기에 기존 구단으로서는 보호 선수를 늘리는 효과가 있다.
+
+이	이/MMD
+과정에서	과정/NNG+에서/JKB
+FA는	FA/SL+는/JX
+보호선수에서	보호/NNG+선수/NNG+에서/JKB
+제외될	제외/NNG+되/XSV+ㄹ/ETM
+뿐	뿐/NNB
+아니라	아니/VCN+라/EC
+NC도	NC/SL+도/JX
+지명할	지명/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+없기에	없/VA+기에/EC
+기존	기존/NNG
+구단으로서는	구단/NNG+으로서/JKB+는/JX
+보호	보호/NNG
+선수를	선수/NNG+를/JKO
+늘리는	늘리/VV+는/ETM
+효과가	효과/NNG+가/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.249.6.8
+하지만 한화와 KIA가 적극적으로 FA 영입 경쟁에 나설 것을 선언한 상황에서 FA 시장이 과열될 경우 의외의 결과가 나올 수도 있다.
+
+하지만	하지만/MAJ
+한화와	한화/NNP+와/JC
+KIA가	KIA/SL+가/JKS
+적극적으로	적극/NNG+적/XSN+으로/JKB
+FA	FA/SL
+영입	영입/NNG
+경쟁에	경쟁/NNG+에/JKB
+나설	나서/VV+ㄹ/ETM
+것을	것/NNB+을/JKO
+선언한	선언/NNG+하/XSV+ㄴ/ETM
+상황에서	상황/NNG+에서/JKB
+시장이	시장/NNG+이/JKS
+과열될	과열/NNG+되/XSV+ㄹ/ETM
+경우	경우/NNG
+의외의	의외/NNG+의/JKG
+결과가	결과/NNG+가/JKS
+나올	나오/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.249.7.1
+각 구단은 최대 2명까지 FA를 영입할 수 있고 NC는 신생팀 자격으로 3명까지 가능하다.
+
+각	각/MMD
+구단은	구단/NNG+은/JX
+최대	최대/NNG
+2명까지	2/SN+명/NNB+까지/JX
+FA를	FA/SL+를/JKO
+영입할	영입/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있고	있/VA+고/EC
+NC는	NC/SL+는/JX
+신생팀	신생/NNG+팀/NNG
+자격으로	자격/NNG+으로/JKB
+3명까지	3/SN+명/NNB+까지/JX
+가능하다.	가능/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000033.249.7.2
+FA를 선언한 선수는 10일부터 16일까지 원소속 구단과, 17일부터 23일까지 나머지 8개 구단과 계약할 수 있다.
+
+FA를	FA/SL+를/JKO
+선언한	선언/NNG+하/XSV+ㄴ/ETM
+선수는	선수/NNG+는/JX
+10일부터	10/SN+일/NNB+부터/JX
+16일까지	16/SN+일/NNB+까지/JX
+원소속	원소속/NNG
+구단과,	구단/NNG+과/JKB+,/SP
+17일부터	17/SN+일/NNB+부터/JX
+23일까지	23/SN+일/NNB+까지/JX
+나머지	나머지/NNG
+8개	8/SN+개/NNB
+구단과	구단/NNG+과/JKB
+계약할	계약/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+

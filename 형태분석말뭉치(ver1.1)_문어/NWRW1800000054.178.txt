@@ -1,0 +1,333 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.178
+metadata : {}
+
+
+# id : NWRW1800000054.178.1.1
+[해도해도 너무한 '님비'] (中) "선진국에선 'NIMBY(Not In My Back Yard·우리 지역엔 안돼)'를 'NIMBI(Now I Must Be Involved·나도 이제 참여)'로 해결"
+
+[해도해도	[/SS+하/VV+아도/EC+하/VV+아도/EC
+너무한	너무/MAG+하/XSA+ㄴ/ETM
+'님비']	'/SS+님비/NNG+'/SS+]/SS
+(中)	(/SS+中/SH+)/SS
+"선진국에선	"/SS+선진국/NNG+에서/JKB+ㄴ/JX
+'NIMBY(Not	'/SS+NIMBY/SL+(/SS+Not/SL
+In	In/SL
+My	My/SL
+Back	Back/SL
+Yard·우리	Yard/SL+·/SP+우리/NP
+지역엔	지역/NNG+에/JKB+ㄴ/JX
+안돼)'를	안/MAG+되/XSV+어/EC+)/SS+'/SS+를/JKO
+'NIMBI(Now	'/SS+NIMBI/SL+(/SS+Now/SL
+I	I/SL
+Must	Must/SL
+Be	Be/SL
+Involved·나도	Involved/SL+·/SP+나/NP+도/JX
+이제	이제/MAG
+참여)'로	참여/NNG+)/SS+'/SS+로/JKB
+해결"	해결/NNG+"/SS
+
+
+# id : NWRW1800000054.178.2.1
+강영진 갈등해결연구원장
+
+강영진	강영진/NNP
+갈등해결연구원장	갈등/NNG+해결/NNG+연구원장/NNG
+
+
+# id : NWRW1800000054.178.3.1
+"님비 분쟁을 막기 위해 선진국은 무엇보다 '예방적 접근'을 중요시합니다."
+
+"님비	"/SS+님비/NNG
+분쟁을	분쟁/NNG+을/JKO
+막기	막/VV+기/ETN
+위해	위하/VV+아/EC
+선진국은	선진국/NNG+은/JX
+무엇보다	무엇/NP+보다/JKB
+'예방적	'/SS+예방/NNG+적/XSN
+접근'을	접근/NNG+'/SS+을/JKO
+중요시합니다."	중요/NNG+시/XSN+하/XSV+ㅂ니다/EF+./SF+"/SS
+
+
+# id : NWRW1800000054.178.4.1
+국내 유일의 '갈등해결학 박사'인 강영진〈사진〉 한국갈등해결연구원장은 지난달 27일 본지 인터뷰에서 "우리보다 먼저 님비(NIMBY·Not In My Back Yard·내 뒷마당에는 안 된다)를 겪은 미국은 이제 님비를 '새로운 님비(NIMBI)'로 해결하고 있다"고 말했다.
+
+국내	국내/NNG
+유일의	유일/NNG+의/JKG
+'갈등해결학	'/SS+갈등/NNG+해결학/NNG
+박사'인	박사/NNG+'/SS+이/VCP+ㄴ/ETM
+강영진〈사진〉	강영진/NNP+〈/SS+사진/NNG+〉/SS
+한국갈등해결연구원장은	한국갈등해결연구원장/NNG+은/JX
+지난달	지난달/NNG
+27일	27/SN+일/NNB
+본지	본지/NNG
+인터뷰에서	인터뷰/NNG+에서/JKB
+"우리보다	"/SS+우리/NP+보다/JKB
+먼저	먼저/MAG
+님비(NIMBY·Not	님비/NNG+(/SS+NIMBY/SL+·/SP+Not/SL
+In	In/SL
+My	My/SL
+Back	Back/SL
+Yard·내	Yard/SL+·/SP+나/NP+의/JKG
+뒷마당에는	뒷마당/NNG+에/JKB+는/JX
+안	안/MAG
+된다)를	되/VV+ㄴ다/EF+)/SS+를/JKO
+겪은	겪/VV+은/ETM
+미국은	미국/NNP+은/JX
+이제	이제/MAG
+님비를	님비/NNG+를/JKO
+'새로운	'/SS+새롭/VA+ㄴ/ETM
+님비(NIMBI)'로	님비/NNG+(/SS+NIMBI/SL+)/SS+'/SS+로/JKB
+해결하고	해결/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.5.1
+새로운 님비란 주민들의 편을 가른다는 뜻은 아니다.
+
+새로운	새롭/VA+ㄴ/ETM
+님비란	님비/NNG+란/JX
+주민들의	주민/NNG+들/XSN+의/JKG
+편을	편/NNG+을/JKO
+가른다는	가르/VV+ㄴ다는/ETM
+뜻은	뜻/NNG+은/JX
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000054.178.5.2
+'Now I Must Be Involved (나도 이제 참여해야만 한다)'의 줄임말로, 정부가 기피 시설을 지을 부지를 선정하는 절차에 주민들을 적극적으로 참여시킨다는 뜻이다.
+
+'Now	'/SS+Now/SL
+I	I/SL
+Must	Must/SL
+Be	Be/SL
+Involved	Involved/SL
+(나도	(/SS+나/NP+도/JX
+이제	이제/MAG
+참여해야만	참여/NNG+하/XSV+아야/EC+만/JX
+한다)'의	하/VX+ㄴ다/EF+)/SS+'/SS+의/JKG
+줄임말로,	줄임/NNG+말/NNG+로/JKB+,/SP
+정부가	정부/NNG+가/JKS
+기피	기피/NNG
+시설을	시설/NNG+을/JKO
+지을	짓/VV+을/ETM
+부지를	부지/NNG+를/JKO
+선정하는	선정/NNG+하/XSV+는/ETM
+절차에	절차/NNG+에/JKB
+주민들을	주민/NNG+들/XSN+을/JKO
+적극적으로	적극/NNG+적/XSN+으로/JKB
+참여시킨다는	참여/NNG+시키/XSV+ㄴ다는/ETM
+뜻이다.	뜻/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.5.3
+강 박사는 "님비 갈등은 '왜 하필 우리 동네냐'라는 심리에서 비롯된 것"이라며 "주민들이 정책 결정 과정에 직접 참여하면 결과가 자기에게 불리해도 쉽게 반발하지 못한다"고 말했다.
+
+강	강/NNP
+박사는	박사/NNG+는/JX
+"님비	"/SS+님비/NNG
+갈등은	갈등/NNG+은/JX
+'왜	'/SS+왜/MAG
+하필	하필/MAG
+우리	우리/NP
+동네냐'라는	동네/NNG+이/VCP+냐/EF+'/SS+이/VCP+라는/ETM
+심리에서	심리/NNG+에서/JKB
+비롯된	비롯되/VV+ㄴ/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+"주민들이	"/SS+주민/NNG+들/XSN+이/JKS
+정책	정책/NNG
+결정	결정/NNG
+과정에	과정/NNG+에/JKB
+직접	직접/MAG
+참여하면	참여/NNG+하/XSV+면/EC
+결과가	결과/NNG+가/JKS
+자기에게	자기/NNG+에게/JKB
+불리해도	불리/NNG+하/XSA+아도/EC
+쉽게	쉽/VA+게/EC
+반발하지	반발/NNG+하/XSV+지/EC
+못한다"고	못하/VX+ㄴ다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.6.1
+강 박사는 지난 2007년 미 조지메이슨대학에서 갈등해결학으로 박사 학위를 받았다.
+
+강	강/NNP
+박사는	박사/NNG+는/JX
+지난	지나/VV+ㄴ/ETM
+2007년	2007/SN+년/NNB
+미	미/NNP
+조지메이슨대학에서	조지메이슨대학/NNP+에서/JKB
+갈등해결학으로	갈등/NNG+해결학/NNG+으로/JKB
+박사	박사/NNG
+학위를	학위/NNG+를/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.6.2
+그는 서울 금천구 소방서 설립 갈등처럼 님비 때문에 빚어진 국내 주요 갈등 해결에 참여하고 있다.
+
+그는	그/NP+는/JX
+서울	서울/NNP
+금천구	금천구/NNP
+소방서	소방서/NNG
+설립	설립/NNG
+갈등처럼	갈등/NNG+처럼/JKB
+님비	님비/NNG
+때문에	때문/NNB+에/JKB
+빚어진	빚어지/VV+ㄴ/ETM
+국내	국내/NNG
+주요	주요/NNG
+갈등	갈등/NNG
+해결에	해결/NNG+에/JKB
+참여하고	참여/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000054.178.7.1
+강 박사는 "선진국에도 '결정하고, 발표하고, 방어하고' 식의 일방통행식 행정이 남아 있어 님비 갈등이 여전히 발생하고 있다"고 말했다.
+
+강	강/NNP
+박사는	박사/NNG+는/JX
+"선진국에도	"/SS+선진국/NNG+에/JKB+도/JX
+'결정하고,	'/SS+결정/NNG+하/XSV+고/EC+,/SP
+발표하고,	발표/NNG+하/XSV+고/EC+,/SP
+방어하고'	방어/NNG+하/XSV+고/EC+'/SS
+식의	식/NNB+의/JKG
+일방통행식	일방통행식/NNG
+행정이	행정/NNG+이/JKS
+남아	남/VV+아/EC
+있어	있/VX+어/EC
+님비	님비/NNG
+갈등이	갈등/NNG+이/JKS
+여전히	여전히/MAG
+발생하고	발생/NNG+하/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.7.2
+미국 매사추세츠주 브루클라인시 교육위원회는 작년 10월 학교 수요가 늘어남에 따라 초등학교를 신설하기로 했다.
+
+미국	미국/NNP
+매사추세츠주	매사추세츠주/NNP
+브루클라인시	브루클라인시/NNP
+교육위원회는	교육/NNG+위원회/NNG+는/JX
+작년	작년/NNG
+10월	10/SN+월/NNB
+학교	학교/NNG
+수요가	수요/NNG+가/JKS
+늘어남에	늘어나/VV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+초등학교를	초등학교/NNG+를/JKO
+신설하기로	신설/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.7.3
+하지만 해당 지역 주민들이 "교통량이 증가하고 공사로 인한 공해가 우려된다"며 반발해 무산됐다.
+
+하지만	하지만/MAJ
+해당	해당/NNG
+지역	지역/NNG
+주민들이	주민/NNG+들/XSN+이/JKS
+"교통량이	"/SS+교통량/NNG+이/JKS
+증가하고	증가/NNG+하/XSV+고/EC
+공사로	공사/NNG+로/JKB
+인한	인/NNG+하/XSV+ㄴ/ETM
+공해가	공해/NNG+가/JKS
+우려된다"며	우려/NNG+되/XSV+ㄴ다/EF+"/SS+며/EC
+반발해	반발/NNG+하/XSV+아/EC
+무산됐다.	무산/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.8.1
+일본도 비슷하다.
+
+일본도	일본/NNP+도/JX
+비슷하다.	비슷하/VA+다/EF+./SF
+
+
+# id : NWRW1800000054.178.8.2
+교도통신에 따르면 2015년 4월부터 작년 4월까지 1년간 주민들의 반대로 어린이집 설립이 무산된 사례가 10건에 달했다.
+
+교도통신에	교도통신/NNP+에/JKB
+따르면	따르/VV+면/EC
+2015년	2015/SN+년/NNB
+4월부터	4/SN+월/NNB+부터/JX
+작년	작년/NNG
+4월까지	4/SN+월/NNB+까지/JX
+1년간	1/SN+년/NNB+간/XSN
+주민들의	주민/NNG+들/XSN+의/JKG
+반대로	반대/NNG+로/JKB
+어린이집	어린이집/NNG
+설립이	설립/NNG+이/JKS
+무산된	무산/NNG+되/XSV+ㄴ/ETM
+사례가	사례/NNG+가/JKS
+10건에	10/SN+건/NNB+에/JKB
+달했다.	달하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.9.1
+강 박사는 "미국의 경우 연방정부 부처마다 갈등을 전문적으로 대처하는 전문 기구가 설치돼 있다"며 "일방적인 결정 후에 주민 반발을 막느라 큰돈을 쓰는 악순환을 끊기 위해서 예방법을 개발하고 활용하기 시작한 것"이라고 말했다.
+
+강	강/NNP
+박사는	박사/NNG+는/JX
+"미국의	"/SS+미국/NNP+의/JKG
+경우	경우/NNG
+연방정부	연방/NNG+정부/NNG
+부처마다	부처/NNG+마다/JX
+갈등을	갈등/NNG+을/JKO
+전문적으로	전문/NNG+적/XSN+으로/JKB
+대처하는	대처/NNG+하/XSV+는/ETM
+전문	전문/NNG
+기구가	기구/NNG+가/JKS
+설치돼	설치/NNG+되/XSV+어/EC
+있다"며	있/VX+다/EF+"/SS+며/EC
+"일방적인	"/SS+일방/NNG+적/XSN+이/VCP+ㄴ/ETM
+결정	결정/NNG
+후에	후/NNG+에/JKB
+주민	주민/NNG
+반발을	반발/NNG+을/JKO
+막느라	막/VV+느라/EC
+큰돈을	큰돈/NNG+을/JKO
+쓰는	쓰/VV+는/ETM
+악순환을	악순환/NNG+을/JKO
+끊기	끊/VV+기/ETN
+위해서	위하/VV+아서/EC
+예방법을	예방법/NNG+을/JKO
+개발하고	개발/NNG+하/XSV+고/EC
+활용하기	활용/NNG+하/XSV+기/ETN
+시작한	시작/NNG+하/XSV+ㄴ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.178.9.2
+그는 "특히 한국처럼 불신이 많은 사회에서 정부가 주민들의 신뢰를 얻으려면 시민을 결정 과정에 참여시키는 방법밖에 없을 것"이라고 말했다.
+
+그는	그/NP+는/JX
+"특히	"/SS+특히/MAG
+한국처럼	한국/NNP+처럼/JKB
+불신이	불신/NNG+이/JKS
+많은	많/VA+은/ETM
+사회에서	사회/NNG+에서/JKB
+정부가	정부/NNG+가/JKS
+주민들의	주민/NNG+들/XSN+의/JKG
+신뢰를	신뢰/NNG+를/JKO
+얻으려면	얻/VV+으려면/EC
+시민을	시민/NNG+을/JKO
+결정	결정/NNG
+과정에	과정/NNG+에/JKB
+참여시키는	참여/NNG+시키/XSV+는/ETM
+방법밖에	방법/NNG+밖에/JX
+없을	없/VA+을/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

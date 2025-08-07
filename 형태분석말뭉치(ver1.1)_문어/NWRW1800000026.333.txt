@@ -1,0 +1,204 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.333
+metadata : {}
+
+
+# id : NWRW1800000026.333.1.1
+15개국 참가 PSI 훈련(대량살상무기확산방지구상), 13일 부산 앞바다서 실시;천안함 폭침 관련 對北조치… 우리나라 주관으론 첫 훈련
+
+15개국	15/SN+개국/NNB
+참가	참가/NNG
+PSI	PSI/SL
+훈련(대량살상무기확산방지구상),	훈련/NNG+(/SS+대량/NNG+살상/NNG+무기/NNG+확산/NNG+방지/NNG+구상/NNG+)/SS+,/SP
+13일	13/SN+일/NNB
+부산	부산/NNP
+앞바다서	앞바다/NNG+서/JKB
+실시;천안함	실시/NNG+;/SW+천안함/NNP
+폭침	폭침/NNG
+관련	관련/NNG
+對北조치…	對北/SH+조치/NNG+…/SE
+우리나라	우리나라/NNG
+주관으론	주관/NNG+으로/JKB+ㄴ/JX
+첫	첫/MMN
+훈련	훈련/NNG
+
+
+# id : NWRW1800000026.333.2.1
+천안함 폭침(爆沈)사건에 대한 대북 군사 조치의 하나로 계획됐던 한국 주관 PSI(대량살상무기확산방지구상) 훈련인 '이스턴 앤데버 10(동방의 노력 10)'이 13일부터 이틀간 부산 앞바다에서 실시된다.
+
+천안함	천안함/NNP
+폭침(爆沈)사건에	폭침/NNG+(/SS+爆沈/SH+)/SS+사건/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+대북	대북/NNG
+군사	군사/NNG
+조치의	조치/NNG+의/JKG
+하나로	하나/NR+로/JKB
+계획됐던	계획/NNG+되/XSV+었/EP+던/ETM
+한국	한국/NNP
+주관	주관/NNG
+PSI(대량살상무기확산방지구상)	PSI/SL+(/SS+대량/NNG+살상/NNG+무기/NNG+확산/NNG+방지/NNG+구상/NNG+)/SS
+훈련인	훈련/NNG+이/VCP+ㄴ/ETM
+'이스턴	'/SS+이스턴/NNG
+앤데버	앤데버/NNG
+10(동방의	10/SN+(/SS+동방/NNG+의/JKG
+노력	노력/NNG
+10)'이	10/SN+)/SS+'/SS+이/JKS
+13일부터	13/SN+일/NNB+부터/JX
+이틀간	이틀/NNG+간/XSN
+부산	부산/NNP
+앞바다에서	앞바다/NNG+에서/JKB
+실시된다.	실시/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.333.3.1
+국방부는 6일 이번 훈련에 우리나라를 비롯해 미국, 일본, 호주, 프랑스, 캐나다 등 15개 국가가 참여할 예정이며 함정, 항공기 등 실제 전력(戰力)이 참가하는 해상 차단훈련과 외교, 정보, 법 집행, 관세, 수출 통제, 재정, 해양법 분야의 전문가가 참석해 PSI 의사 결정 과정을 토의하는 세미나로 나눠 진행된다고 밝혔다.
+
+국방부는	국방부/NNG+는/JX
+6일	6/SN+일/NNB
+이번	이번/NNG
+훈련에	훈련/NNG+에/JKB
+우리나라를	우리나라/NNG+를/JKO
+비롯해	비롯하/VV+아/EC
+미국,	미국/NNP+,/SP
+일본,	일본/NNP+,/SP
+호주,	호주/NNP+,/SP
+프랑스,	프랑스/NNP+,/SP
+캐나다	캐나다/NNP
+등	등/NNB
+15개	15/SN+개/NNB
+국가가	국가/NNG+가/JKS
+참여할	참여/NNG+하/XSV+ㄹ/ETM
+예정이며	예정/NNG+이/VCP+며/EC
+함정,	함정/NNG+,/SP
+항공기	항공기/NNG
+실제	실제/NNG
+전력(戰力)이	전력/NNG+(/SS+戰力/SH+)/SS+이/JKS
+참가하는	참가/NNG+하/XSV+는/ETM
+해상	해상/NNG
+차단훈련과	차단/NNG+훈련/NNG+과/JC
+외교,	외교/NNG+,/SP
+정보,	정보/NNG+,/SP
+법	법/NNG
+집행,	집행/NNG+,/SP
+관세,	관세/NNG+,/SP
+수출	수출/NNG
+통제,	통제/NNG+,/SP
+재정,	재정/NNG+,/SP
+해양법	해양법/NNG
+분야의	분야/NNG+의/JKG
+전문가가	전문가/NNG+가/JKS
+참석해	참석/NNG+하/XSV+아/EC
+PSI	PSI/SL
+의사	의사/NNG
+결정	결정/NNG
+과정을	과정/NNG+을/JKO
+토의하는	토의/NNG+하/XSV+는/ETM
+세미나로	세미나/NNG+로/JKB
+나눠	나누/VV+어/EC
+진행된다고	진행/NNG+되/XSV+ㄴ다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.333.3.2
+우리나라가 주관하는 PSI 훈련 실시는 처음으로 해상 차단훈련에는 우리나라와 미국, 일본, 호주가 참여한다.
+
+우리나라가	우리나라/NNG+가/JKS
+주관하는	주관/NNG+하/XSV+는/ETM
+PSI	PSI/SL
+훈련	훈련/NNG
+실시는	실시/NNG+는/JX
+처음으로	처음/NNG+으로/JKB
+해상	해상/NNG
+차단훈련에는	차단/NNG+훈련/NNG+에/JKB+는/JX
+우리나라와	우리나라/NNG+와/JC
+미국,	미국/NNP+,/SP
+일본,	일본/NNP+,/SP
+호주가	호주/NNP+가/JKS
+참여한다.	참여/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.333.4.1
+PSI는 대량살상무기(WMD) 확산 우려국 또는 비(非)국가행위자의 WMD, 운반 수단, 관련 물질 등의 불법 거래를 차단하기 위한 국제적 공동 협력체로 PSI 참여국들이 주기적으로 훈련을 주관한다.
+
+PSI는	PSI/SL+는/JX
+대량살상무기(WMD)	대량/NNG+살상/NNG+무기/NNG+(/SS+WMD/SL+)/SS
+확산	확산/NNG
+우려국	우려국/NNG
+또는	또는/MAG
+비(非)국가행위자의	비/XPN+(/SS+非/SH+)/SS+국가/NNG+행위자/NNG+의/JKG
+WMD,	WMD/SL+,/SP
+운반	운반/NNG
+수단,	수단/NNG+,/SP
+관련	관련/NNG
+물질	물질/NNG
+등의	등/NNB+의/JKG
+불법	불법/NNG
+거래를	거래/NNG+를/JKO
+차단하기	차단/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+국제적	국제/NNG+적/XSN
+공동	공동/NNG
+협력체로	협력체/NNG+로/JKB
+PSI	PSI/SL
+참여국들이	참여국/NNG+들/XSN+이/JKS
+주기적으로	주기/NNG+적/XSN+으로/JKB
+훈련을	훈련/NNG+을/JKO
+주관한다.	주관/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.333.4.2
+이번 훈련에는 4500t급 한국형 구축함(KDX-Ⅱ) 2척과 상륙함(LST) 2척을 비롯한 우리 해군 함정 4척, 미국의 9000t급 이지스함, 일본의 4000t급 구축함, 호주의 P-3C 해상초계기 등이 참가한다.
+
+이번	이번/NNG
+훈련에는	훈련/NNG+에/JKB+는/JX
+4500t급	4500/SN+t/SW+급/NNG
+한국형	한국/NNP+형/XSN
+구축함(KDX-Ⅱ)	구축함/NNG+(/SS+KDX/SL+-/SO+Ⅱ/SL+)/SS
+2척과	2/SN+척/NNB+과/JC
+상륙함(LST)	상륙함/NNG+(/SS+LST/SL+)/SS
+2척을	2/SN+척/NNB+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+우리	우리/NP
+해군	해군/NNG
+함정	함정/NNG
+4척,	4/SN+척/NNB+,/SP
+미국의	미국/NNP+의/JKG
+9000t급	9000/SN+t/SW+급/NNG
+이지스함,	이지스함/NNG+,/SP
+일본의	일본/NNP+의/JKG
+4000t급	4000/SN+t/SW+급/NNG
+구축함,	구축함/NNG+,/SP
+호주의	호주/NNP+의/JKG
+P-3C	P/SL+-/SO+3/SN+C/SL
+해상초계기	해상/NNG+초계기/NNG
+등이	등/NNB+이/JKS
+참가한다.	참가/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.333.5.1
+국방부 관계자는 "훈련 시나리오가 북한 등 특정 국가를 겨냥하지는 않고 있다"고 말했으나 실제로는 북한을 겨냥해 실시되는 것으로 분석된다.
+
+국방부	국방부/NNG
+관계자는	관계자/NNG+는/JX
+"훈련	"/SS+훈련/NNG
+시나리오가	시나리오/NNG+가/JKS
+북한	북한/NNP
+등	등/NNB
+특정	특정/NNG
+국가를	국가/NNG+를/JKO
+겨냥하지는	겨냥/NNG+하/XSV+지/EC+는/JX
+않고	않/VX+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+말했으나	말/NNG+하/XSV+았/EP+으나/EC
+실제로는	실제로/MAG+는/JX
+북한을	북한/NNP+을/JKO
+겨냥해	겨냥/NNG+하/XSV+아/EC
+실시되는	실시/NNG+되/XSV+는/ETM
+것으로	것/NNB+으로/JKB
+분석된다.	분석/NNG+되/XSV+ㄴ다/EF+./SF
+
+

@@ -1,0 +1,267 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.49
+metadata : {}
+
+
+# id : NWRW1800000038.49.1.1
+'시리아 전자軍'의 반격… NYT·WP 등 美언론 해킹
+
+'시리아	'/SS+시리아/NNP
+전자軍'의	전자/NNG+軍/SH+'/SS+의/JKG
+반격…	반격/NNG+…/SE
+NYT·WP	NYT/SL+·/SP+WP/SL
+등	등/NNB
+美언론	美/SH+언론/NNG
+해킹	해킹/NNG
+
+
+# id : NWRW1800000038.49.2.1
+시리아 親정부 해커 그룹… 오바마 페이스북도 공격
+
+시리아	시리아/NNP
+親정부	親/SH+정부/NNG
+해커	해커/NNG
+그룹…	그룹/NNG+…/SE
+오바마	오바마/NNP
+페이스북도	페이스북/NNP+도/JX
+공격	공격/NNG
+
+
+# id : NWRW1800000038.49.3.1
+미국 유력 일간지 뉴욕타임스(NYT) 웹사이트가 27일(현지 시각) 해킹을 당해 접속이 일시 중단됐다고 NYT가 보도했다.
+
+미국	미국/NNP
+유력	유력/NNG
+일간지	일간지/NNG
+뉴욕타임스(NYT)	뉴욕타임스/NNP+(/SS+NYT/SL+)/SS
+웹사이트가	웹/NNG+사이트/NNG+가/JKS
+27일(현지	27/SN+일/NNB+(/SS+현지/NNG
+시각)	시각/NNG+)/SS
+해킹을	해킹/NNG+을/JKO
+당해	당하/VV+아/EC
+접속이	접속/NNG+이/JKS
+일시	일시/MAG
+중단됐다고	중단/NNG+되/XSV+었/EP+다고/EC
+NYT가	NYT/SL+가/JKS
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.3.2
+NYT는 시리아 친(親)정부 해커 그룹인 '시리아 전자군(SEA)' 소행으로 보고 있다.
+
+NYT는	NYT/SL+는/JX
+시리아	시리아/NNP
+친(親)정부	친/XPN+(/SS+親/SH+)/SS+정부/NNG
+해커	해커/NNG
+그룹인	그룹/NNG+이/VCP+ㄴ/ETM
+'시리아	'/SS+시리아/NNP
+전자군(SEA)'	전자군/NNP+(/SS+SEA/SL+)/SS+'/SS
+소행으로	소행/NNG+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000038.49.4.1
+마크 프론스 NYT 최고정보책임자(CIO)는 이날 "웹사이트가 오후 3시쯤 접속이 불가능해졌고 잠시 복구됐지만 해커들이 공격을 재개해 오후 6시를 넘겨서야 완전히 복구됐다"며 "이번 공격은 시리아 전자군 또는 시리아 전자군이 되기를 간절히 원하는 누군가의 소행으로 보인다"고 밝혔다.
+
+마크	마크/NNP
+프론스	프론스/NNP
+NYT	NYT/SL
+최고정보책임자(CIO)는	최고/NNG+정보/NNG+책임자/NNG+(/SS+CIO/SL+)/SS+는/JX
+이날	이날/NNG
+"웹사이트가	"/SS+웹/NNG+사이트/NNG+가/JKS
+오후	오후/NNG
+3시쯤	3/SN+시/NNB+쯤/XSN
+접속이	접속/NNG+이/JKS
+불가능해졌고	불/XPN+가능/NNG+하/XSA+아/EC+지/VX+었/EP+고/EC
+잠시	잠시/MAG
+복구됐지만	복구/NNG+되/XSV+었/EP+지만/EC
+해커들이	해커/NNG+들/XSN+이/JKS
+공격을	공격/NNG+을/JKO
+재개해	재개/NNG+하/XSV+아/EC
+6시를	6/SN+시/NNB+를/JKO
+넘겨서야	넘기/VV+어서/EC+야/JX
+완전히	완전히/MAG
+복구됐다"며	복구/NNG+되/XSV+었/EP+다/EF+"/SS+며/EC
+"이번	"/SS+이번/NNG
+공격은	공격/NNG+은/JX
+시리아	시리아/NNP
+전자군	전자군/NNP
+또는	또는/MAG
+전자군이	전자군/NNP+이/JKC
+되기를	되/VV+기/ETN+를/JKO
+간절히	간절히/MAG
+원하는	원/NNG+하/XSV+는/ETM
+누군가의	누구/NP+이/VCP+ㄴ가/EF+의/JKG
+소행으로	소행/NNG+으로/JKB
+보인다"고	보이/VV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.4.2
+이들은 NYT 도메인(인터넷 주소)을 공격해 접속을 불가능하게 만드는 방식을 사용했다.
+
+이들은	이/NP+들/XSN+은/JX
+NYT	NYT/SL
+도메인(인터넷	도메인/NNG+(/SS+인터넷/NNG
+주소)을	주소/NNG+)/SS+을/JKO
+공격해	공격/NNG+하/XSV+아/EC
+접속을	접속/NNG+을/JKO
+불가능하게	불/XPN+가능/NNG+하/XSA+게/EC
+만드는	만들/VV+는/ETM
+방식을	방식/NNG+을/JKO
+사용했다.	사용/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.4.3
+같은 날 소셜네트워킹서비스(SNS) 트위터의 이미지 서비스를 담당하는 도메인도 이들의 해킹 공격을 받아 서비스에 차질이 생겼다.
+
+같은	같/VA+은/ETM
+날	날/NNG
+소셜네트워킹서비스(SNS)	소셜/NNG+네트워킹/NNG+서비스/NNG+(/SS+SNS/SL+)/SS
+트위터의	트위터/NNP+의/JKG
+이미지	이미지/NNG
+서비스를	서비스/NNG+를/JKO
+담당하는	담당/NNG+하/XSV+는/ETM
+도메인도	도메인/NNG+도/JX
+이들의	이/NP+들/XSN+의/JKG
+해킹	해킹/NNG
+공격을	공격/NNG+을/JKO
+받아	받/VV+아/EC
+서비스에	서비스/NNG+에/JKB
+차질이	차질/NNG+이/JKS
+생겼다.	생기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.5.1
+시리아 전자군은 시리아 내전 발발 두 달 뒤인 2011년 5월 처음 모습을 드러냈다고 NYT는 전했다.
+
+시리아	시리아/NNP
+전자군은	전자군/NNP+은/JX
+내전	내전/NNG
+발발	발발/NNG
+두	두/MMN
+달	달/NNB
+뒤인	뒤/NNG+이/VCP+ㄴ/ETM
+2011년	2011/SN+년/NNB
+5월	5/SN+월/NNB
+처음	처음/NNG
+모습을	모습/NNG+을/JKO
+드러냈다고	드러내/VV+었/EP+다고/EC
+NYT는	NYT/SL+는/JX
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.5.2
+바샤르 알아사드 시리아 대통령을 지지하는 이들은 그동안 서방 언론 및 비영리단체 웹사이트, 버락 오바마 미국 대통령·오프라 윈프리의 페이스북 페이지 등을 공격해왔다.
+
+바샤르	바샤르/NNP
+알아사드	알아사드/NNP
+시리아	시리아/NNP
+대통령을	대통령/NNG+을/JKO
+지지하는	지지/NNG+하/XSV+는/ETM
+이들은	이/NP+들/XSN+은/JX
+그동안	그동안/NNG
+서방	서방/NNG
+언론	언론/NNG
+및	및/MAG
+비영리단체	비/XPN+영리/NNG+단체/NNG
+웹사이트,	웹/NNG+사이트/NNG+,/SP
+버락	버락/NNP
+오바마	오바마/NNP
+미국	미국/NNP
+대통령·오프라	대통령/NNG+·/SP+오프라/NNP
+윈프리의	윈프리/NNP+의/JKG
+페이스북	페이스북/NNP
+페이지	페이지/NNG
+등을	등/NNB+을/JKO
+공격해왔다.	공격/NNG+하/XSV+아/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.5.3
+지난 15일에는 워싱턴포스트(WP) 웹사이트를 해킹하고 CNN 웹사이트 해킹을 시도했다.
+
+지난	지나/VV+ㄴ/ETM
+15일에는	15/SN+일/NNB+에/JKB+는/JX
+워싱턴포스트(WP)	워싱턴포스트/NNP+(/SS+WP/SL+)/SS
+웹사이트를	웹/NNG+사이트/NNG+를/JKO
+해킹하고	해킹/NNG+하/XSV+고/EC
+CNN	CNN/SL
+웹사이트	웹/NNG+사이트/NNG
+해킹을	해킹/NNG+을/JKO
+시도했다.	시도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.5.4
+지난 4월에도 AP통신 공식 트위터 계정을 해킹해 '백악관 폭발, 오바마 대통령 부상'이라는 가짜 긴급 뉴스를 전송하기도 했다.
+
+지난	지나/VV+ㄴ/ETM
+4월에도	4/SN+월/NNB+에/JKB+도/JX
+AP통신	AP통신/NNP
+공식	공식/NNG
+트위터	트위터/NNP
+계정을	계정/NNG+을/JKO
+해킹해	해킹/NNG+하/XSV+아/EC
+'백악관	'/SS+백악관/NNP
+폭발,	폭발/NNG+,/SP
+오바마	오바마/NNP
+대통령	대통령/NNG
+부상'이라는	부상/NNG+'/SS+이/VCP+라는/ETM
+가짜	가짜/NNG
+긴급	긴급/NNG
+뉴스를	뉴스/NNG+를/JKO
+전송하기도	전송/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.5.5
+영국 일간 파이낸셜타임스(FT) 웹사이트도 지난 5월 해킹당했고 AFP, CBS뉴스, 미 공영 라디오 방송(NPR) 등도 이들의 공격을 받았다.
+
+영국	영국/NNP
+일간	일간/NNG
+파이낸셜타임스(FT)	파이낸셜타임스/NNP+(/SS+FT/SL+)/SS
+웹사이트도	웹/NNG+사이트/NNG+도/JX
+지난	지나/VV+ㄴ/ETM
+5월	5/SN+월/NNB
+해킹당했고	해킹/NNG+당하/XSV+았/EP+고/EC
+AFP,	AFP/SL+,/SP
+CBS뉴스,	CBS뉴스/NNP+,/SP
+미	미/NNP
+공영	공영/NNG
+라디오	라디오/NNG
+방송(NPR)	방송/NNG+(/SS+NPR/SL+)/SS
+등도	등/NNB+도/JX
+이들의	이/NP+들/XSN+의/JKG
+공격을	공격/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.49.6.1
+시리아 전자군은 해킹을 통해 언론의 주목을 받고 알아사드에 비판적인 기사를 싣는 서방 언론에 보복하려는 목적을 갖고 있다고 WP가 27일 전했다.
+
+시리아	시리아/NNP
+전자군은	전자군/NNP+은/JX
+해킹을	해킹/NNG+을/JKO
+통해	통하/VV+아/EC
+언론의	언론/NNG+의/JKG
+주목을	주목/NNG+을/JKO
+받고	받/VV+고/EC
+알아사드에	알아사드/NNP+에/JKB
+비판적인	비판/NNG+적/XSN+이/VCP+ㄴ/ETM
+기사를	기사/NNG+를/JKO
+싣는	싣/VV+는/ETM
+서방	서방/NNG
+언론에	언론/NNG+에/JKB
+보복하려는	보복/NNG+하/XSV+려는/ETM
+목적을	목적/NNG+을/JKO
+갖고	갖/VV+고/EC
+있다고	있/VX+다고/EC
+WP가	WP/SL+가/JKS
+27일	27/SN+일/NNB
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+

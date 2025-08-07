@@ -1,0 +1,141 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000025.312
+metadata : {}
+
+
+# id : NWRW1800000025.312.1.1
+원전 도입 UAE에 특전부대 130여명 파병
+
+원전	원전/NNG
+도입	도입/NNG
+UAE에	UAE/SL+에/JKB
+특전부대	특전/NNG+부대/NNG
+130여명	130/SN+여/XSN+명/NNB
+파병	파병/NNG
+
+
+# id : NWRW1800000025.312.2.1
+한국 특수전부대의 ‘전투 노하우’를 아랍에미리트(UAE) 특수전부대에 전수하기 위한 파병이 올해 안에 이뤄질 것으로 보인다.
+
+한국	한국/NNP
+특수전부대의	특수전/NNG+부대/NNG+의/JKG
+‘전투	‘/SS+전투/NNG
+노하우’를	노하우/NNG+’/SS+를/JKO
+아랍에미리트(UAE)	아랍에미리트/NNP+(/SS+UAE/SL+)/SS
+특수전부대에	특수전/NNG+부대/NNG+에/JKB
+전수하기	전수/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+파병이	파병/NNG+이/JKS
+올해	올해/NNG
+안에	안/NNG+에/JKB
+이뤄질	이뤄지/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.312.2.2
+유엔 평화유지활동(PKO)이 아닌 ‘소프트웨어’ 수출을 위한 비(非)분쟁 지역으로의 한국군 파병은 처음이다.
+
+유엔	유엔/NNP
+평화유지활동(PKO)이	평화/NNG+유지/NNG+활동/NNG+(/SS+PKO/SL+)/SS+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+‘소프트웨어’	‘/SS+소프트웨어/NNG+’/SS
+수출을	수출/NNG+을/JKO
+위한	위하/VV+ㄴ/ETM
+비(非)분쟁	비/XPN+(/SS+非/SH+)/SS+분쟁/NNG
+지역으로의	지역/NNG+으로/JKB+의/JKG
+한국군	한국군/NNG
+파병은	파병/NNG+은/JX
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000025.312.3.1
+장광일 국방부 국방정책실장은 3일 “정부는 특전부대 130여 명을 국회 동의를 받아 금년 말까지 UAE에 파견할 계획”이라며 “UAE 측은 자국의 특수전부대를 세계 수준의 부대로 발전시키기 위해 한국군 특전부대의 파견 및 긴밀한 훈련 협력을 요청했다”고 밝혔다.
+
+장광일	장광일/NNP
+국방부	국방부/NNG
+국방정책실장은	국방/NNG+정책실장/NNG+은/JX
+3일	3/SN+일/NNB
+“정부는	“/SS+정부/NNG+는/JX
+특전부대	특전/NNG+부대/NNG
+130여	130/SN+여/XSN
+명을	명/NNB+을/JKO
+국회	국회/NNG
+동의를	동의/NNG+를/JKO
+받아	받/VV+아/EC
+금년	금년/NNG
+말까지	말/NNB+까지/JX
+UAE에	UAE/SL+에/JKB
+파견할	파견/NNG+하/XSV+ㄹ/ETM
+계획”이라며	계획/NNG+”/SS+이/VCP+라며/EC
+“UAE	“/SS+UAE/SL
+측은	측/NNB+은/JX
+자국의	자국/NNG+의/JKG
+특수전부대를	특수전/NNG+부대/NNG+를/JKO
+세계	세계/NNG
+수준의	수준/NNG+의/JKG
+부대로	부대/NNG+로/JKB
+발전시키기	발전/NNG+시키/XSV+기/ETN
+위해	위하/VV+아/EC
+한국군	한국군/NNG
+특전부대의	특전/NNG+부대/NNG+의/JKG
+파견	파견/NNG
+및	및/MAG
+긴밀한	긴밀하/VA+ㄴ/ETM
+훈련	훈련/NNG
+협력을	협력/NNG+을/JKO
+요청했다”고	요청/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000025.312.3.2
+파견부대의 임무는 UAE군 특수전부대에 대한 교육훈련 지원, 연합훈련, 유사시 한국민 보호 등이다.
+
+파견부대의	파견/NNG+부대/NNG+의/JKG
+임무는	임무/NNG+는/JX
+UAE군	UAE/SL+군/NNG
+특수전부대에	특수전/NNG+부대/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+교육훈련	교육/NNG+훈련/NNG
+지원,	지원/NNG+,/SP
+연합훈련,	연합/NNG+훈련/NNG+,/SP
+유사시	유사시/NNG
+한국민	한국민/NNG
+보호	보호/NNG
+등이다.	등/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000025.312.3.3
+주둔기간은 올해 12월부터 2012년 12월까지 2년간이며 병력은 4∼6개월 주기로 교대한다.
+
+주둔기간은	주둔/NNG+기간/NNG+은/JX
+올해	올해/NNG
+12월부터	12/SN+월/NNB+부터/JX
+2012년	2012/SN+년/NNB
+12월까지	12/SN+월/NNB+까지/JX
+2년간이며	2/SN+년/NNB+간/XSN+이/VCP+며/EC
+병력은	병력/NNG+은/JX
+4∼6개월	4/SN+∼/SO+6/SN+개월/NNB
+주기로	주기/NNG+로/JKB
+교대한다.	교대/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000025.312.3.4
+부대 파견 동의안은 9일 국무회의 의결을 거쳐 국회에 제출될 예정이다.
+
+부대	부대/NNG
+파견	파견/NNG
+동의안은	동의안/NNG+은/JX
+9일	9/SN+일/NNB
+국무회의	국무/NNG+회의/NNG
+의결을	의결/NNG+을/JKO
+거쳐	거치/VV+어/EC
+국회에	국회/NNG+에/JKB
+제출될	제출/NNG+되/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+

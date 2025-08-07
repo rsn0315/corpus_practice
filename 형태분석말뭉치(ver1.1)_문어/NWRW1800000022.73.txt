@@ -1,0 +1,251 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.73
+metadata : {}
+
+
+# id : NWRW1800000022.73.1.1
+짐 로저스 "미국 살리려면 AIG 파산시켜라"
+
+짐	짐/NNP
+로저스	로저스/NNP
+"미국	"/SS+미국/NNP
+살리려면	살리/VV+려면/EC
+AIG	AIG/SL
+파산시켜라"	파산/NNG+시키/XSV+어라/EF+"/SS
+
+
+# id : NWRW1800000022.73.2.1
+'월가의 전설'로 불리는 세계적인 투자자 짐 로저스(Rogers)가 "미국 경제를 살리려면 AIG를 파산시켜야 한다"고 오바마 정부에 쓴소리를 했다.
+
+'월가의	'/SS+월가/NNP+의/JKG
+전설'로	전설/NNG+'/SS+로/JKB
+불리는	불리/VV+는/ETM
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+투자자	투자자/NNG
+짐	짐/NNP
+로저스(Rogers)가	로저스/NNP+(/SS+Rogers/SL+)/SS+가/JKS
+"미국	"/SS+미국/NNP
+경제를	경제/NNG+를/JKO
+살리려면	살리/VV+려면/EC
+AIG를	AIG/SL+를/JKO
+파산시켜야	파산/NNG+시키/XSV+어야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+오바마	오바마/NNP
+정부에	정부/NNG+에/JKB
+쓴소리를	쓴소리/NNG+를/JKO
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.2.2
+로저스는 3일(현지 시각) 미국 CNBC방송과 인터뷰에서 "미국 전체가 망하는 것보다는 AIG가 망하고 우리가 혹독한 2~3년을 보내는 것이 낫다"면서 이같이 말했다.
+
+로저스는	로저스/NNP+는/JX
+3일(현지	3/SN+일/NNB+(/SS+현지/NNG
+시각)	시각/NNG+)/SS
+미국	미국/NNP
+CNBC방송과	CNBC방송/NNP+과/JKB
+인터뷰에서	인터뷰/NNG+에서/JKB
+"미국	"/SS+미국/NNP
+전체가	전체/NNG+가/JKS
+망하는	망하/VV+는/ETM
+것보다는	것/NNB+보다/JKB+는/JX
+AIG가	AIG/SL+가/JKS
+망하고	망하/VV+고/EC
+우리가	우리/NP+가/JKS
+혹독한	혹독하/VA+ㄴ/ETM
+2~3년을	2/SN+~/SO+3/SN+년/NNB+을/JKO
+보내는	보내/VV+는/ETM
+것이	것/NNB+이/JKS
+낫다"면서	낫/VA+다/EF+"/SS+면서/EC
+이같이	이/NP+같이/JKB
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.3.1
+그는 "AIG를 망하게 하고 법원이 AIG의 채무 몇조달러를 선별해서 다시 시작하게 해야 한다"면서 "그렇지 않으면 우리는 다시 시작하지 못할 것"이라고 덧붙였다.
+
+그는	그/NP+는/JX
+"AIG를	"/SS+AIG/SL+를/JKO
+망하게	망하/VV+게/EC
+하고	하/VX+고/EC
+법원이	법원/NNG+이/JKS
+AIG의	AIG/SL+의/JKG
+채무	채무/NNG
+몇조달러를	몇/NR+조/NR+달러/NNB+를/JKO
+선별해서	선별/NNG+하/XSV+아서/EC
+다시	다시/MAG
+시작하게	시작/NNG+하/XSV+게/EC
+해야	하/VX+아야/EC
+한다"면서	하/VX+ㄴ다/EF+"/SS+면서/EC
+"그렇지	"/SS+그렇/VA+지/EC
+않으면	않/VX+으면/EC
+우리는	우리/NP+는/JX
+시작하지	시작/NNG+하/XSV+지/EC
+못할	못하/VX+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+덧붙였다.	덧붙이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.4.1
+세계 최대보험사인 AIG는 작년 4분기(10~12월)에 미국 기업 역대 최대규모인 617억달러의 손실을 냈다.
+
+세계	세계/NNG
+최대보험사인	최대/NNG+보험사/NNG+이/VCP+ㄴ/ETM
+AIG는	AIG/SL+는/JX
+작년	작년/NNG
+4분기(10~12월)에	4/SN+분기/NNG+(/SS+10/SN+~/SO+12/SN+월/NNB+)/SS+에/JKB
+미국	미국/NNP
+기업	기업/NNG
+역대	역대/NNG
+최대규모인	최대/NNG+규모/NNG+이/VCP+ㄴ/ETM
+617억달러의	617/SN+억/NR+달러/NNB+의/JKG
+손실을	손실/NNG+을/JKO
+냈다.	내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.4.2
+미국 정부는 AIG 파산을 막기 위해 지난해 1500억달러를 투입했지만 별 효과가 없자 최근 우선주 매입 등을 통해 추가로 300억달러를 지원하기로 했다.
+
+미국	미국/NNP
+정부는	정부/NNG+는/JX
+AIG	AIG/SL
+파산을	파산/NNG+을/JKO
+막기	막/VV+기/ETN
+위해	위하/VV+아/EC
+지난해	지난해/NNG
+1500억달러를	1500/SN+억/NR+달러/NNB+를/JKO
+투입했지만	투입/NNG+하/XSV+았/EP+지만/EC
+별	별/MMA
+효과가	효과/NNG+가/JKS
+없자	없/VA+자/EC
+최근	최근/MAG
+우선주	우선주/NNG
+매입	매입/NNG
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+추가로	추가/NNG+로/JKB
+300억달러를	300/SN+억/NR+달러/NNB+를/JKO
+지원하기로	지원/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.5.1
+로저스는 "(AIG 등 부실금융회사가) 미국경제와 정부, 중앙은행, 달러를 망하게 하고 있다"면서 "은행에 대한 구제금융은 부채의 악순환을 확산시켜 마침내 세계 최대 경제국(미국)의 파괴를 불러올 것"이라고 말했다.
+
+로저스는	로저스/NNP+는/JX
+"(AIG	"/SS+(/SS+AIG/SL
+등	등/NNB
+부실금융회사가)	부실/NNG+금융/NNG+회사/NNG+가/JKS+)/SS
+미국경제와	미국/NNP+경제/NNG+와/JC
+정부,	정부/NNG+,/SP
+중앙은행,	중앙은행/NNG+,/SP
+달러를	달러/NNG+를/JKO
+망하게	망하/VV+게/EC
+하고	하/VX+고/EC
+있다"면서	있/VX+다/EF+"/SS+면서/EC
+"은행에	"/SS+은행/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+구제금융은	구제/NNG+금융/NNG+은/JX
+부채의	부채/NNG+의/JKG
+악순환을	악순환/NNG+을/JKO
+확산시켜	확산/NNG+시키/XSV+어/EC
+마침내	마침내/MAG
+세계	세계/NNG
+최대	최대/NNG
+경제국(미국)의	경제국/NNG+(/SS+미국/NNP+)/SS+의/JKG
+파괴를	파괴/NNG+를/JKO
+불러올	불러오/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.5.2
+그는 "일본의 장기불황도 은행을 살리려던 시도에서 비롯됐다"면서 "서방국가들이 부실은행을 망하게 두지 않으면 자금이 바닥날 위험이 있다"고 말했다.
+
+그는	그/NP+는/JX
+"일본의	"/SS+일본/NNP+의/JKG
+장기불황도	장기/NNG+불황/NNG+도/JX
+은행을	은행/NNG+을/JKO
+살리려던	살리/VV+려던/ETM
+시도에서	시도/NNG+에서/JKB
+비롯됐다"면서	비롯되/VV+었/EP+다/EF+"/SS+면서/EC
+"서방국가들이	"/SS+서방/NNG+국가/NNG+들/XSN+이/JKS
+부실은행을	부실/NNG+은행/NNG+을/JKO
+망하게	망하/VV+게/EC
+두지	두/VV+지/EC
+않으면	않/VX+으면/EC
+자금이	자금/NNG+이/JKS
+바닥날	바닥나/VV+ㄹ/ETM
+위험이	위험/NNG+이/JKS
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.6.1
+벤 버냉키(Bernanke) 미 연방준비제도이사회(FRB) 의장도 이날 상원 청문회에서 "18개월 동안 나를 화나게 한 하나의 사건이 있다면 AIG 말고는 생각할 수 없다"며 AIG에 대해 유감을 표시했다.
+
+벤	벤/NNP
+버냉키(Bernanke)	버냉키/NNP+(/SS+Bernanke/SL+)/SS
+미	미/NNP
+연방준비제도이사회(FRB)	연방준비제도이사회/NNP+(/SS+FRB/SL+)/SS
+의장도	의장/NNG+도/JX
+이날	이날/NNG
+상원	상원/NNG
+청문회에서	청문회/NNG+에서/JKB
+"18개월	"/SS+18/SN+개월/NNB
+동안	동안/NNG
+나를	나/NP+를/JKO
+화나게	화나/VV+게/EC
+한	하/VX+ㄴ/ETM
+하나의	하나/NR+의/JKG
+사건이	사건/NNG+이/JKS
+있다면	있/VA+다면/EC
+AIG	AIG/SL
+말고는	말/VV+고/EC+는/JX
+생각할	생각/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+없다"며	없/VA+다/EF+"/SS+며/EC
+AIG에	AIG/SL+에/JKB
+대해	대하/VV+아/EC
+유감을	유감/NNG+을/JKO
+표시했다.	표시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.6.2
+그는 "어떤 금융회사보다 보수적이고 철저해야 할 보험사 AIG가 헤지펀드처럼 운영돼 왔다"고 비판했다.
+
+그는	그/NP+는/JX
+"어떤	"/SS+어떤/MMD
+금융회사보다	금융/NNG+회사/NNG+보다/JKB
+보수적이고	보수/NNG+적/XSN+이/VCP+고/EC
+철저해야	철저/NNG+하/XSA+아야/EC
+할	하/VX+ㄹ/ETM
+보험사	보험사/NNG
+AIG가	AIG/SL+가/JKS
+헤지펀드처럼	헤지/NNG+펀드/NNG+처럼/JKB
+운영돼	운영/NNG+되/XSV+어/EC
+왔다"고	오/VX+았/EP+다/EF+"/SS+고/JKQ
+비판했다.	비판/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.73.6.3
+하지만 버냉키 의장은 "AIG를 지원해 금융시스템을 안정화시키는 방법밖에 선택의 여지가 없었다"고 털어놓았다.
+
+하지만	하지만/MAJ
+버냉키	버냉키/NNP
+의장은	의장/NNG+은/JX
+"AIG를	"/SS+AIG/SL+를/JKO
+지원해	지원/NNG+하/XSV+아/EC
+금융시스템을	금융/NNG+시스템/NNG+을/JKO
+안정화시키는	안정/NNG+화/XSN+시키/XSV+는/ETM
+방법밖에	방법/NNG+밖에/JX
+선택의	선택/NNG+의/JKG
+여지가	여지/NNB+가/JKS
+없었다"고	없/VA+었/EP+다/EF+"/SS+고/JKQ
+털어놓았다.	털어놓/VV+았/EP+다/EF+./SF
+
+

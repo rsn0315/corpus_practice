@@ -1,0 +1,254 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.56
+metadata : {}
+
+
+# id : NWRW1800000022.56.1.1
+'광우병 PD수첩' 손배소송 기각 천정배 의원 딸이 주심판사 맡아;법조계 "부친이 촛불 옹호… 재판 회피 했어야" 논란
+
+'광우병	'/SS+광우병/NNG
+PD수첩'	PD/SL+수첩/NNG+'/SS
+손배소송	손배/NNG+소송/NNG
+기각	기각/NNG
+천정배	천정배/NNP
+의원	의원/NNG
+딸이	딸/NNG+이/JKS
+주심판사	주심/NNG+판사/NNG
+맡아;법조계	맡/VV+아/EC+;/SW+법조/NNG+계/XSN
+"부친이	"/SS+부친/NNG+이/JKS
+촛불	촛불/NNG
+옹호…	옹호/NNG+…/SE
+재판	재판/NNG
+회피	회피/NNG
+했어야"	하/VV+았/EP+어야/EC+"/SS
+논란	논란/NNG
+
+
+# id : NWRW1800000022.56.2.1
+광우병 공포를 왜곡·과장보도한 MBC PD수첩 제작진을 상대로 시청자 2400여명이 정신적 고통을 입었다며 낸 손해배상청구소송이 기각됐다.
+
+광우병	광우병/NNG
+공포를	공포/NNG+를/JKO
+왜곡·과장보도한	왜곡/NNG+·/SP+과장/NNG+보도/NNG+하/XSV+ㄴ/ETM
+MBC	MBC/SL
+PD수첩	PD/SL+수첩/NNG
+제작진을	제작진/NNG+을/JKO
+상대로	상대/NNG+로/JKB
+시청자	시청자/NNG
+2400여명이	2400/SN+여/XSN+명/NNB+이/JKS
+정신적	정신/NNG+적/XSN
+고통을	고통/NNG+을/JKO
+입었다며	입/VV+었/EP+다며/EC
+낸	내/VV+ㄴ/ETM
+손해배상청구소송이	손해/NNG+배상/NNG+청구/NNG+소송/NNG+이/JKS
+기각됐다.	기각/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.56.3.1
+서울남부지법 민사16부(재판장 양현주)는 17일 "PD수첩은 시사고발 프로그램으로 다소 과장되고 선정적일 수 있으나 국민의 알 권리를 보장하는 역할을 한다는 점을 고려할 때, 내용에 부정확한 부분이 있고 다수의 시청자가 정신적 고통을 겪었다 하더라도 책임을 물을 수는 없다"고 판결했다.
+
+서울남부지법	서울남부지법/NNP
+민사16부(재판장	민사/NNG+16/SN+부/NNG+(/SS+재판장/NNG
+양현주)는	양현주/NNP+)/SS+는/JX
+17일	17/SN+일/NNB
+"PD수첩은	"/SS+PD/SL+수첩/NNG+은/JX
+시사고발	시사/NNG+고발/NNG
+프로그램으로	프로그램/NNG+으로/JKB
+다소	다소/MAG
+과장되고	과장/NNG+되/XSV+고/EC
+선정적일	선정/NNG+적/XSN+이/VCP+ㄹ/ETM
+수	수/NNB
+있으나	있/VA+으나/EC
+국민의	국민/NNG+의/JKG
+알	알/VV+ㄹ/ETM
+권리를	권리/NNG+를/JKO
+보장하는	보장/NNG+하/XSV+는/ETM
+역할을	역할/NNG+을/JKO
+한다는	하/VV+ㄴ다는/ETM
+점을	점/NNG+을/JKO
+고려할	고려/NNG+하/XSV+ㄹ/ETM
+때,	때/NNG+,/SP
+내용에	내용/NNG+에/JKB
+부정확한	부/XPN+정확/NNG+하/XSA+ㄴ/ETM
+부분이	부분/NNG+이/JKS
+있고	있/VA+고/EC
+다수의	다수/NNG+의/JKG
+시청자가	시청자/NNG+가/JKS
+정신적	정신/NNG+적/XSN
+고통을	고통/NNG+을/JKO
+겪었다	겪/VV+었/EP+다/EF
+하더라도	하/VV+더라도/EC
+책임을	책임/NNG+을/JKO
+물을	묻/VV+을/ETM
+수는	수/NNB+는/JX
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+판결했다.	판결/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.56.4.1
+시청자들은 '국민 소송단'을 구성해 작년 9월 "PD수첩의 허위·왜곡방송으로 엄청난 사회 혼란이 초래돼 행복추구권을 침해당했다"며 1인당 100만원씩 배상하라는 소송을 냈다.
+
+시청자들은	시청자/NNG+들/XSN+은/JX
+'국민	'/SS+국민/NNG
+소송단'을	소송단/NNG+'/SS+을/JKO
+구성해	구성/NNG+하/XSV+아/EC
+작년	작년/NNG
+9월	9/SN+월/NNB
+"PD수첩의	"/SS+PD/SL+수첩/NNG+의/JKG
+허위·왜곡방송으로	허위/NNG+·/SP+왜곡/NNG+방송/NNG+으로/JKB
+엄청난	엄청나/VA+ㄴ/ETM
+사회	사회/NNG
+혼란이	혼란/NNG+이/JKS
+초래돼	초래/NNG+되/XSV+어/EC
+행복추구권을	행복/NNG+추구/NNG+권/XSN+을/JKO
+침해당했다"며	침해/NNG+당하/XSV+았/EP+다/EF+"/SS+며/EC
+1인당	1/SN+인/NNG+당/XSN
+100만원씩	100/SN+만/NR+원/NNB+씩/XSN
+배상하라는	배상/NNG+하/XSV+라는/ETM
+소송을	소송/NNG+을/JKO
+냈다.	내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.56.5.1
+재판부는 그러나 "PD수첩이 촛불시위를 유도했다는 증거가 없다"고 밝혔다.
+
+재판부는	재판부/NNG+는/JX
+그러나	그러나/MAJ
+"PD수첩이	"/SS+PD/SL+수첩/NNG+이/JKS
+촛불시위를	촛불/NNG+시위/NNG+를/JKO
+유도했다는	유도/NNG+하/XSV+았/EP+다는/ETM
+증거가	증거/NNG+가/JKS
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.56.6.1
+이 소송을 대리한 '시민과 함께하는 변호사 모임'(시변)은 "불법 촛불시위를 옹호한 민주당 천정배 의원의 딸(32)이 주심판사를 맡아 변론 기회도 충분히 주지 않는 등 불공정 재판을 하고 있다"며 지난 12일 '재판부 기피신청'을 냈으나, 이 역시 기각됐다.
+
+이	이/NP
+소송을	소송/NNG+을/JKO
+대리한	대리/NNG+하/XSV+ㄴ/ETM
+'시민과	'/SS+시민/NNG+과/JKB
+함께하는	함께/MAG+하/XSV+는/ETM
+변호사	변호사/NNG
+모임'(시변)은	모임/NNG+'/SS+(/SS+시변/NNG+)/SS+은/JX
+"불법	"/SS+불법/NNG
+촛불시위를	촛불/NNG+시위/NNG+를/JKO
+옹호한	옹호/NNG+하/XSV+ㄴ/ETM
+민주당	민주당/NNP
+천정배	천정배/NNP
+의원의	의원/NNG+의/JKG
+딸(32)이	딸/NNG+(/SS+32/SN+)/SS+이/JKS
+주심판사를	주심/NNG+판사/NNG+를/JKO
+맡아	맡/VV+아/EC
+변론	변론/NNG
+기회도	기회/NNG+도/JX
+충분히	충분히/MAG
+주지	주/VV+지/EC
+않는	않/VX+는/ETM
+등	등/NNB
+불공정	불/XPN+공정/NNG
+재판을	재판/NNG+을/JKO
+하고	하/VV+고/EC
+있다"며	있/VX+다/EF+"/SS+며/EC
+지난	지나/VV+ㄴ/ETM
+12일	12/SN+일/NNB
+'재판부	'/SS+재판부/NNG
+기피신청'을	기피/NNG+신청/NNG+'/SS+을/JKO
+냈으나,	내/VV+었/EP+으나/EC+,/SP
+역시	역시/MAG
+기각됐다.	기각/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.56.7.1
+법조계에선 재판부의 주심판사 부친인 천 의원이 지난해 5월 광화문 촛불시위에 참여하고 촛불시위 합법화를 위해 집시법 개정안을 발의한 사실이 널리 알려진 만큼, 주심판사 스스로 사건을 맡지 않았어야 했다는 의견이 우세하다.
+
+법조계에선	법조/NNG+계/XSN+에서/JKB+ㄴ/JX
+재판부의	재판부/NNG+의/JKG
+주심판사	주심/NNG+판사/NNG
+부친인	부친/NNG+이/VCP+ㄴ/ETM
+천	천/NNP
+의원이	의원/NNG+이/JKS
+지난해	지난해/NNG
+5월	5/SN+월/NNB
+광화문	광화문/NNP
+촛불시위에	촛불/NNG+시위/NNG+에/JKB
+참여하고	참여/NNG+하/XSV+고/EC
+촛불시위	촛불/NNG+시위/NNG
+합법화를	합법/NNG+화/XSN+를/JKO
+위해	위하/VV+아/EC
+집시법	집시법/NNG
+개정안을	개정안/NNG+을/JKO
+발의한	발의/NNG+하/XSV+ㄴ/ETM
+사실이	사실/NNG+이/JKS
+널리	널리/MAG
+알려진	알려지/VV+ㄴ/ETM
+만큼,	만큼/NNB+,/SP
+스스로	스스로/MAG
+사건을	사건/NNG+을/JKO
+맡지	맡/VV+지/EC
+않았어야	않/VX+았/EP+어야/EC
+했다는	하/VX+았/EP+다는/ETM
+의견이	의견/NNG+이/JKS
+우세하다.	우세/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000022.56.8.1
+지난 9일 개정된 대법원 '법관 행동강령'에도 '이해관계의 직무 회피' 기준을 확대하는 등 '회피'를 더 적극적으로 활용토록 하고 있다.
+
+지난	지나/VV+ㄴ/ETM
+9일	9/SN+일/NNB
+개정된	개정/NNG+되/XSV+ㄴ/ETM
+대법원	대/XPN+법원/NNG
+'법관	'/SS+법관/NNG
+행동강령'에도	행동/NNG+강령/NNG+'/SS+에/JKB+도/JX
+'이해관계의	'/SS+이해관계/NNG+의/JKG
+직무	직무/NNG
+회피'	회피/NNG+'/SS
+기준을	기준/NNG+을/JKO
+확대하는	확대/NNG+하/XSV+는/ETM
+등	등/NNB
+'회피'를	'/SS+회피/NNG+'/SS+를/JKO
+더	더/MAG
+적극적으로	적극/NNG+적/XSN+으로/JKB
+활용토록	활용/NNG+하/XSV+도록/EC
+하고	하/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.56.9.1
+이에 대해 주심판사는 "우려하고 있다는 이야기는 들었지만, 아버지가 직접 관련된 사건도 아니고 'PD수첩'의 옳고 그름을 판단하는 사건도 아니어서 사건을 '회피'할 필요를 느끼지 못했다"며 "법률과 양심에 따라 판결했다"고 주장했다.
+
+이에	이/NP+에/JKB
+대해	대하/VV+아/EC
+주심판사는	주심/NNG+판사/NNG+는/JX
+"우려하고	"/SS+우려/NNG+하/XSV+고/EC
+있다는	있/VX+다는/ETM
+이야기는	이야기/NNG+는/JX
+들었지만,	듣/VV+었/EP+지만/EC+,/SP
+아버지가	아버지/NNG+가/JKS
+직접	직접/MAG
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+사건도	사건/NNG+도/JX
+아니고	아니/VCN+고/EC
+'PD수첩'의	'/SS+PD/SL+수첩/NNG+'/SS+의/JKG
+옳고	옳/VA+고/EC
+그름을	그르/VA+ㅁ/ETN+을/JKO
+판단하는	판단/NNG+하/XSV+는/ETM
+아니어서	아니/VCN+어서/EC
+사건을	사건/NNG+을/JKO
+'회피'할	'/SS+회피/NNG+'/SS+하/VV+ㄹ/ETM
+필요를	필요/NNG+를/JKO
+느끼지	느끼/VV+지/EC
+못했다"며	못하/VX+았/EP+다/EF+"/SS+며/EC
+"법률과	"/SS+법률/NNG+과/JC
+양심에	양심/NNG+에/JKB
+따라	따르/VV+아/EC
+판결했다"고	판결/NNG+하/XSV+았/EP+다/EF+"/SS+고/JKQ
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+

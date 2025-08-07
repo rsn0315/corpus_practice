@@ -1,0 +1,461 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000033.40
+metadata : {}
+
+
+# id : NWRW1800000033.40.1.1
+[Global Economy]글로벌 금융시장 ‘격동의 가을’
+
+[Global	[/SS+Global/SL
+Economy]글로벌	Economy/SL+]/SS+글로벌/NNG
+금융시장	금융/NNG+시장/NNG
+‘격동의	‘/SS+격동/NNG+의/JKG
+가을’	가을/NNG+’/SS
+
+
+# id : NWRW1800000033.40.2.1
+유로존 위기대책 논의할 ECB 정책회의 내일 시작
+
+유로존	유로존/NNG
+위기대책	위기/NNG+대책/NNG
+논의할	논의/NNG+하/XSV+ㄹ/ETM
+ECB	ECB/SL
+정책회의	정책/NNG+회의/NNG
+내일	내일/NNG
+시작	시작/NNG
+
+
+# id : NWRW1800000033.40.3.1
+ESM 관련 獨 헌재 결정과 중국-미국 권력교체 등… 대형 일정 줄줄이 이어져
+
+ESM	ESM/SL
+관련	관련/NNG
+獨	獨/SH
+헌재	헌재/NNG
+결정과	결정/NNG+과/JC
+중국-미국	중국/NNP+-/SO+미국/NNP
+권력교체	권력/NNG+교체/NNG
+등…	등/NNB+…/SE
+대형	대형/NNG
+일정	일정/NNG
+줄줄이	줄줄이/MAG
+이어져	이어지/VV+어/EF
+
+
+# id : NWRW1800000033.40.4.1
+놀라우리만큼 조용한 8월을 보냈던 글로벌 금융시장이 9월의 빅 이벤트를 앞두고 긴장 모드로 접어들고 있다.
+
+놀라우리만큼	놀랍/VA+으리만큼/EC
+조용한	조용하/VA+ㄴ/ETM
+8월을	8/SN+월/NNB+을/JKO
+보냈던	보내/VV+었/EP+던/ETM
+글로벌	글로벌/NNG
+금융시장이	금융/NNG+시장/NNG+이/JKS
+9월의	9/SN+월/NNB+의/JKG
+빅	빅/NNG
+이벤트를	이벤트/NNG+를/JKO
+앞두고	앞두/VV+고/EC
+긴장	긴장/NNG
+모드로	모드/NNG+로/JKB
+접어들고	접어들/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.40.5.1
+3일 월스트리트저널(WSJ) 등 주요 외신에 따르면 유로존 위기 대책을 논의할 6일 유럽중앙은행(ECB) 통화정책결정회의를 시작으로 이번 가을은 어느 해보다 격동의 계절이 될 것으로 전망된다.
+
+3일	3/SN+일/NNB
+월스트리트저널(WSJ)	월스트리트저널/NNP+(/SS+WSJ/SL+)/SS
+등	등/NNB
+주요	주요/NNG
+외신에	외신/NNG+에/JKB
+따르면	따르/VV+면/EC
+유로존	유로존/NNG
+위기	위기/NNG
+대책을	대책/NNG+을/JKO
+논의할	논의/NNG+하/XSV+ㄹ/ETM
+6일	6/SN+일/NNB
+유럽중앙은행(ECB)	유럽중앙은행/NNP+(/SS+ECB/SL+)/SS
+통화정책결정회의를	통화/NNG+정책/NNG+결정/NNG+회의/NNG+를/JKO
+시작으로	시작/NNG+으로/JKB
+이번	이번/NNG
+가을은	가을/NNG+은/JX
+어느	어느/MMD
+해보다	해/NNG+보다/JKB
+격동의	격동/NNG+의/JKG
+계절이	계절/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+전망된다.	전망/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.40.5.2
+주요국 정책결정자들이 내놓을 대책의 강도는 물론이고 주요 2개국(G2)인 미국과 중국의 국가리더십 교체 등 대형 정치일정도 세계 경제에 상당한 영향을 미칠 것으로 보인다.
+
+주요국	주요국/NNG
+정책결정자들이	정책/NNG+결정자/NNG+들/XSN+이/JKS
+내놓을	내놓/VV+을/ETM
+대책의	대책/NNG+의/JKG
+강도는	강도/NNG+는/JX
+물론이고	물론/NNG+이/VCP+고/EC
+주요	주요/NNG
+2개국(G2)인	2/SN+개국/NNB+(/SS+G/SL+2/SN+)/SS+이/VCP+ㄴ/ETM
+미국과	미국/NNP+과/JC
+중국의	중국/NNP+의/JKG
+국가리더십	국가/NNG+리더십/NNG
+교체	교체/NNG
+등	등/NNB
+대형	대형/NNG
+정치일정도	정치/NNG+일정/NNG+도/JX
+세계	세계/NNG
+경제에	경제/NNG+에/JKB
+상당한	상당/NNG+하/XSA+ㄴ/ETM
+영향을	영향/NNG+을/JKO
+미칠	미치/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.40.6.1
+ECB 통화정책결정회의에서는 금리인하 문제보다는 마리오 드라기 ECB 총재가 꺼내 들 유로존 위기 해결책에 관심이 집중되고 있다.
+
+ECB	ECB/SL
+통화정책결정회의에서는	통화/NNG+정책/NNG+결정/NNG+회의/NNG+에서/JKB+는/JX
+금리인하	금리/NNG+인하/NNG
+문제보다는	문제/NNG+보다/JKB+는/JX
+마리오	마리오/NNP
+드라기	드라기/NNP
+총재가	총재/NNG+가/JKS
+꺼내	꺼내/VV+어/EC
+들	들/VV+ㄹ/ETM
+유로존	유로존/NNG
+위기	위기/NNG
+해결책에	해결책/NNG+에/JKB
+관심이	관심/NNG+이/JKS
+집중되고	집중/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.40.6.2
+스페인 이탈리아 그리스 등 재정위기국들은 ECB가 국채를 다시 사줄 것을 강력히 희망해왔다.
+
+스페인	스페인/NNP
+이탈리아	이탈리아/NNP
+그리스	그리스/NNP
+등	등/NNB
+재정위기국들은	재정/NNG+위기국/NNG+들/XSN+은/JX
+ECB가	ECB/SL+가/JKS
+국채를	국채/NNG+를/JKO
+다시	다시/MAG
+사줄	사/VV+아/EC+주/VX+ㄹ/ETM
+것을	것/NNB+을/JKO
+강력히	강력히/MAG
+희망해왔다.	희망/NNG+하/XSV+아/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.40.6.3
+드라기 총재는 지난달 초 국채 매입 가능성을 언급한 데 이어 3일 유럽의회(EC) 고위 관계자들과의 비공개회의에서도 재정위기국의 단기국채 매입 가능성을 시사했다고 WSJ가 전했다.
+
+드라기	드라기/NNP
+총재는	총재/NNG+는/JX
+지난달	지난달/NNG
+초	초/NNB
+국채	국채/NNG
+매입	매입/NNG
+가능성을	가능/NNG+성/XSN+을/JKO
+언급한	언급/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+이어	잇/VV+어/EC
+3일	3/SN+일/NNB
+유럽의회(EC)	유럽의회/NNP+(/SS+EC/SL+)/SS
+고위	고위/NNG
+관계자들과의	관계자/NNG+들/XSN+과/JKB+의/JKG
+비공개회의에서도	비/XPN+공개회의/NNG+에서/JKB+도/JX
+재정위기국의	재정/NNG+위기국/NNG+의/JKG
+단기국채	단기/NNG+국채/NNG
+시사했다고	시사/NNG+하/XSV+았/EP+다고/EC
+WSJ가	WSJ/SL+가/JKS
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.40.6.4
+드라기 총재는 이번 ECB 회의에서 스페인과 이탈리아 등 위기국 국채 매입 방식에 대한 세부사항을 제시할 것으로 시장은 내다보고 있다.
+
+드라기	드라기/NNP
+총재는	총재/NNG+는/JX
+이번	이번/NNG
+ECB	ECB/SL
+회의에서	회의/NNG+에서/JKB
+스페인과	스페인/NNP+과/JC
+이탈리아	이탈리아/NNP
+등	등/NNB
+위기국	위기국/NNG
+국채	국채/NNG
+매입	매입/NNG
+방식에	방식/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+세부사항을	세부/NNG+사항/NNG+을/JKO
+제시할	제시/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+시장은	시장/NNG+은/JX
+내다보고	내다보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.40.6.5
+또 현재 0.75%인 기준금리를 0.5%로 인하할 것으로 예상하고 있다.
+
+또	또/MAG
+현재	현재/MAG
+0.75%인	0/SN+./SP+75/SN+%/SW+이/VCP+ㄴ/ETM
+기준금리를	기준/NNG+금리/NNG+를/JKO
+0.5%로	0/SN+./SP+5/SN+%/SW+로/JKB
+인하할	인하/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+예상하고	예상/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.40.7.1
+하지만 시장은 ECB가 재정위기국의 단기국채 매입을 결정하더라도 최후의 방어벽인 유럽안정화기구(ESM)가 출범해야 안정을 유지할 것으로 보고 있다.
+
+하지만	하지만/MAJ
+시장은	시장/NNG+은/JX
+ECB가	ECB/SL+가/JKS
+재정위기국의	재정/NNG+위기국/NNG+의/JKG
+단기국채	단기/NNG+국채/NNG
+매입을	매입/NNG+을/JKO
+결정하더라도	결정/NNG+하/XSV+더라도/EC
+최후의	최후/NNG+의/JKG
+방어벽인	방어벽/NNG+이/VCP+ㄴ/ETM
+유럽안정화기구(ESM)가	유럽안정화기구/NNP+(/SS+ESM/SL+)/SS+가/JKS
+출범해야	출범/NNG+하/XSV+아야/EC
+안정을	안정/NNG+을/JKO
+유지할	유지/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.40.7.2
+ESM은 7월에 출범할 예정이었으나 가장 큰 지분을 가진 독일의 야당이 “ESM 설립과 재정통합을 뼈대로 하는 신(新)재정협약이 재정에 대한 독일 의회의 권한을 침해할 수 있다”며 헌법재판소에 위헌소송을 제기하면서 벽에 부닥쳤다.
+
+ESM은	ESM/SL+은/JX
+7월에	7/SN+월/NNB+에/JKB
+출범할	출범/NNG+하/XSV+ㄹ/ETM
+예정이었으나	예정/NNG+이/VCP+었/EP+으나/EC
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+지분을	지분/NNG+을/JKO
+가진	가지/VV+ㄴ/ETM
+독일의	독일/NNP+의/JKG
+야당이	야당/NNG+이/JKS
+“ESM	“/SS+ESM/SL
+설립과	설립/NNG+과/JC
+재정통합을	재정/NNG+통합/NNG+을/JKO
+뼈대로	뼈대/NNG+로/JKB
+하는	하/VV+는/ETM
+신(新)재정협약이	신/XPN+(/SS+新/SH+)/SS+재정/NNG+협약/NNG+이/JKS
+재정에	재정/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+독일	독일/NNP
+의회의	의회/NNG+의/JKG
+권한을	권한/NNG+을/JKO
+침해할	침해/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다”며	있/VA+다/EF+”/SS+며/EC
+헌법재판소에	헌법/NNG+재판소/NNG+에/JKB
+위헌소송을	위헌/NNG+소송/NNG+을/JKO
+제기하면서	제기/NNG+하/XSV+면서/EC
+벽에	벽/NNG+에/JKB
+부닥쳤다.	부닥치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000033.40.7.3
+독일 헌재는 12일 위헌 여부를 가린다.
+
+독일	독일/NNP
+헌재는	헌재/NNG+는/JX
+12일	12/SN+일/NNB
+위헌	위헌/NNG
+여부를	여부/NNG+를/JKO
+가린다.	가리/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.40.7.4
+이 결정에 따라 유로존이 출렁거릴 가능성이 높다.
+
+이	이/MMD
+결정에	결정/NNG+에/JKB
+따라	따르/VV+아/EC
+유로존이	유로존/NNG+이/JKS
+출렁거릴	출렁거리/VV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+높다.	높/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.40.8.1
+독일 헌재의 판결 직후인 12, 13일 대서양 건너편의 미국에서는 연방준비제도이사회(FRB)가 통화정책을 결정하는 연방공개시장위원회(FOMC)를 연다.
+
+독일	독일/NNP
+헌재의	헌재/NNG+의/JKG
+판결	판결/NNG
+직후인	직후/NNG+이/VCP+ㄴ/ETM
+12,	12/SN+,/SP
+13일	13/SN+일/NNB
+대서양	대서양/NNP
+건너편의	건너편/NNG+의/JKG
+미국에서는	미국/NNP+에서/JKB+는/JX
+연방준비제도이사회(FRB)가	연방준비제도이사회/NNP+(/SS+FRB/SL+)/SS+가/JKS
+통화정책을	통화/NNG+정책/NNG+을/JKO
+결정하는	결정/NNG+하/XSV+는/ETM
+연방공개시장위원회(FOMC)를	연방공개시장위원회/NNP+(/SS+FOMC/SL+)/SS+를/JKO
+연다.	열/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000033.40.8.2
+지난달 31일 FRB 연례경제회의(잭슨홀 미팅)에서 3차 양적 완화조치에 대해 이전보다 강도 높은 발언을 내 놓았던 벤 버냉키 의장이 실제 카드를 빼어들지가 관심사다.
+
+지난달	지난달/NNG
+31일	31/SN+일/NNB
+FRB	FRB/SL
+연례경제회의(잭슨홀	연례/NNG+경제/NNG+회의/NNG+(/SS+잭슨홀/NNP
+미팅)에서	미팅/NNG+)/SS+에서/JKB
+3차	3/SN+차/NNB
+양적	양/NNG+적/XSN
+완화조치에	완화/NNG+조치/NNG+에/JKB
+대해	대하/VV+아/EC
+이전보다	이전/NNG+보다/JKB
+강도	강도/NNG
+높은	높/VA+은/ETM
+발언을	발언/NNG+을/JKO
+내	내/VV+어/EC
+놓았던	놓/VX+았/EP+던/ETM
+벤	벤/NNP
+버냉키	버냉키/NNP
+의장이	의장/NNG+이/JKS
+실제	실제/NNG
+카드를	카드/NNG+를/JKO
+빼어들지가	빼/VV+어/EC+들/VX+지/EC+가/JX
+관심사다.	관심사/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.40.8.3
+시장에서는 9월에 돈을 풀어 경기를 살리는 3차 양적완화 조치를 시행하지 않으면 11월 미국 대선 등의 일정을 감안할 때 올해는 ‘물 건너간’ 것으로 봐야 한다는 분석이 지배적이다.
+
+시장에서는	시장/NNG+에서/JKB+는/JX
+9월에	9/SN+월/NNB+에/JKB
+돈을	돈/NNG+을/JKO
+풀어	풀/VV+어/EC
+경기를	경기/NNG+를/JKO
+살리는	살리/VV+는/ETM
+3차	3/SN+차/NNB
+양적완화	양/NNG+적/XSN+완화/NNG
+조치를	조치/NNG+를/JKO
+시행하지	시행/NNG+하/XSV+지/EC
+않으면	않/VX+으면/EC
+11월	11/SN+월/NNB
+미국	미국/NNP
+대선	대선/NNG
+등의	등/NNB+의/JKG
+일정을	일정/NNG+을/JKO
+감안할	감안/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+올해는	올해/NNG+는/JX
+‘물	‘/SS+물/NNG
+건너간’	건너가/VV+ㄴ/ETM+’/SS
+것으로	것/NNB+으로/JKB
+봐야	보/VV+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+분석이	분석/NNG+이/JKS
+지배적이다.	지배/NNG+적/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.40.9.1
+10월에는 최근 제조업 침체로 세계 경제에 위협을 던지고 있는 중국이 국가지도부를 교체하는 공산당 18차 전국대표대회를 열 예정이다.
+
+10월에는	10/SN+월/NNB+에/JKB+는/JX
+최근	최근/MAG
+제조업	제조업/NNG
+침체로	침체/NNG+로/JKB
+세계	세계/NNG
+경제에	경제/NNG+에/JKB
+위협을	위협/NNG+을/JKO
+던지고	던지/VV+고/EC
+있는	있/VX+는/ETM
+중국이	중국/NNP+이/JKS
+국가지도부를	국가/NNG+지도부/NNG+를/JKO
+교체하는	교체/NNG+하/XSV+는/ETM
+공산당	공산당/NNP
+18차	18/SN+차/NNB
+전국대표대회를	전국/NNG+대표/NNG+대회/NNG+를/JKO
+열	열/VV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000033.40.9.2
+지도부의 성격에 따라 중국의 경제위기 해법도 달라질 것이라는 점에서 글로벌 금융시장은 이번 정치 이벤트를 주목하고 있다.
+
+지도부의	지도부/NNG+의/JKG
+성격에	성격/NNG+에/JKB
+따라	따르/VV+아/EC
+중국의	중국/NNP+의/JKG
+경제위기	경제/NNG+위기/NNG
+해법도	해법/NNG+도/JX
+달라질	달라지/VV+ㄹ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+점에서	점/NNG+에서/JKB
+글로벌	글로벌/NNG
+금융시장은	금융/NNG+시장/NNG+은/JX
+이번	이번/NNG
+정치	정치/NNG
+이벤트를	이벤트/NNG+를/JKO
+주목하고	주목/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000033.40.9.3
+11월 6일 미국 대선이 세계 경제에 미칠 영향은 두말할 나위도 없다.
+
+11월	11/SN+월/NNB
+6일	6/SN+일/NNB
+미국	미국/NNP
+대선이	대선/NNG+이/JKS
+세계	세계/NNG
+경제에	경제/NNG+에/JKB
+미칠	미치/VV+ㄹ/ETM
+영향은	영향/NNG+은/JX
+두말할	두말/NNG+하/XSV+ㄹ/ETM
+나위도	나위/NNB+도/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000033.40.9.4
+WSJ는 전문가들을 인용해 “G2의 권력 향배가 강화된 부양책으로 연결될 수 있는 가능성이 높기 때문에 전 세계 투자자들이 주목하고 있다”고 분석했다.
+
+WSJ는	WSJ/SL+는/JX
+전문가들을	전문가/NNG+들/XSN+을/JKO
+인용해	인용/NNG+하/XSV+아/EC
+“G2의	“/SS+G/SL+2/SN+의/JKG
+권력	권력/NNG
+향배가	향배/NNG+가/JKS
+강화된	강화/NNG+되/XSV+ㄴ/ETM
+부양책으로	부양책/NNG+으로/JKB
+연결될	연결/NNG+되/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+높기	높/VA+기/ETN
+때문에	때문/NNB+에/JKB
+전	전/MMN
+세계	세계/NNG
+투자자들이	투자자/NNG+들/XSN+이/JKS
+주목하고	주목/NNG+하/XSV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+분석했다.	분석/NNG+하/XSV+았/EP+다/EF+./SF
+
+

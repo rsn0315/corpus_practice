@@ -1,0 +1,366 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.69
+metadata : {}
+
+
+# id : NWRW1800000046.69.1.1
+TV는 재방송… 인터넷 '본방'이 뜬다
+
+TV는	TV/SL+는/JX
+재방송…	재/XPN+방송/NNG+…/SE
+인터넷	인터넷/NNG
+'본방'이	'/SS+본방/NNG+'/SS+이/JKS
+뜬다	뜨/VV+ㄴ다/EF
+
+
+# id : NWRW1800000046.69.2.1
+'마리텔' 인기에 '예띠…' '18초' 인터넷 기반 프로그램 쏟아져
+
+'마리텔'	'/SS+마리텔/NNG+'/SS
+인기에	인기/NNG+에/JKB
+'예띠…'	'/SS+예띠/NA+…/SE+'/SS
+'18초'	'/SS+18/SN+초/NNB+'/SS
+인터넷	인터넷/NNG
+기반	기반/NNG
+프로그램	프로그램/NNG
+쏟아져	쏟아지/VV+어/EF
+
+
+# id : NWRW1800000046.69.3.1
+TV 방송국 PD가 만드는 프로그램을 TV로 볼 필요가 없는 시대가 오고 있다.
+
+TV	TV/SL
+방송국	방송국/NNG
+PD가	PD/SL+가/JKS
+만드는	만들/VV+는/ETM
+프로그램을	프로그램/NNG+을/JKO
+TV로	TV/SL+로/JKB
+볼	보/VV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+없는	없/VA+는/ETM
+시대가	시대/NNG+가/JKS
+오고	오/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.69.3.2
+'흥행불패' 나영석 PD의 새 예능 '신(新)서유기' 얘기다.
+
+'흥행불패'	'/SS+흥행/NNG+불패/NNG+'/SS
+나영석	나영석/NNP
+PD의	PD/SL+의/JKG
+새	새/MMA
+예능	예능/NNG
+'신(新)서유기'	'/SS+신/XPN+(/SS+新/SH+)/SS+서유기/NNP+'/SS
+얘기다.	얘기/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.3.3
+강호동, 이승기, 이수근 등이 나오고 이들이 중국 여행하는 모습을 담은 '1박2일' 중국 버전인 셈인데 TV가 아니라 인터넷으로만 방송될 예정이다.
+
+강호동,	강호동/NNP+,/SP
+이승기,	이승기/NNP+,/SP
+이수근	이수근/NNP
+등이	등/NNB+이/JKS
+나오고	나오/VV+고/EC
+이들이	이/NP+들/XSN+이/JKS
+중국	중국/NNP
+여행하는	여행/NNG+하/XSV+는/ETM
+모습을	모습/NNG+을/JKO
+담은	담/VV+은/ETM
+'1박2일'	'/SS+1/SN+박/NNB+2/SN+일/NNB+'/SS
+버전인	버전/NNG+이/VCP+ㄴ/ETM
+셈인데	셈/NNB+이/VCP+ㄴ데/EC
+TV가	TV/SL+가/JKC
+아니라	아니/VCN+라/EC
+인터넷으로만	인터넷/NNG+으로/JKB+만/JX
+방송될	방송/NNG+되/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.3.4
+tvN 관계자는 "기획 단계부터 아예 인터넷과 모바일 전용 콘텐츠를 염두에 두고 제작에 들어가는 것"이라고 말했다.
+
+tvN	tvN/SL
+관계자는	관계자/NNG+는/JX
+"기획	"/SS+기획/NNG
+단계부터	단계/NNG+부터/JX
+아예	아예/MAG
+인터넷과	인터넷/NNG+과/JC
+모바일	모바일/NNG
+전용	전용/NNG
+콘텐츠를	콘텐츠/NNG+를/JKO
+염두에	염두/NNG+에/JKB
+두고	두/VV+고/EC
+제작에	제작/NNG+에/JKB
+들어가는	들어가/VV+는/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.4.1
+1인 인터넷 방송 포맷을 가져온 MBC '마이리틀텔레비전'(마리텔)이 인기를 끌면서 지상파 방송국들도 인터넷을 기반으로 한 콘텐츠 제작에 뛰어들고 있다.
+
+1인	1/SN+인/NNG
+인터넷	인터넷/NNG
+방송	방송/NNG
+포맷을	포맷/NNG+을/JKO
+가져온	가져오/VV+ㄴ/ETM
+MBC	MBC/SL
+'마이리틀텔레비전'(마리텔)이	'/SS+마이리틀텔레비전/NNG+'/SS+(/SS+마리텔/NNG+)/SS+이/JKS
+인기를	인기/NNG+를/JKO
+끌면서	끌/VV+면서/EC
+지상파	지상파/NNG
+방송국들도	방송국/NNG+들/XSN+도/JX
+인터넷을	인터넷/NNG+을/JKO
+기반으로	기반/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+콘텐츠	콘텐츠/NNG
+제작에	제작/NNG+에/JKB
+뛰어들고	뛰어들/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.69.4.2
+지난 8일 KBS는 유튜브에서 최고의 인기 BJ(인터넷 방송 진행자)인 양띵(본명 양지영)과 악어(본명 진동민)를 MC로 내세운 '미래스타스쿨 예띠TV'를 첫 방송 했다.
+
+지난	지나/VV+ㄴ/ETM
+8일	8/SN+일/NNB
+KBS는	KBS/SL+는/JX
+유튜브에서	유튜브/NNP+에서/JKB
+최고의	최고/NNG+의/JKG
+인기	인기/NNG
+BJ(인터넷	BJ/SL+(/SS+인터넷/NNG
+방송	방송/NNG
+진행자)인	진행자/NNG+)/SS+이/VCP+ㄴ/ETM
+양띵(본명	양띵/NNP+(/SS+본명/NNG
+양지영)과	양지영/NNP+)/SS+과/JC
+악어(본명	악어/NNP+(/SS+본명/NNG
+진동민)를	진동민/NNP+)/SS+를/JKO
+MC로	MC/SL+로/JKB
+내세운	내세우/VV+ㄴ/ETM
+'미래스타스쿨	'/SS+미래/NNG+스타/NNG+스쿨/NNG
+예띠TV'를	예띠/NA+TV/SL+'/SS+를/JKO
+첫	첫/MMN
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.5.1
+SBS도 아이돌 가수 찬열과 소유, 에로 영화 감독으로 유명한 봉만대, 인터넷에서 '영국남자'라는 한국 관련 UCC 영상 제작자로 유명한 조쉬 등을 내세운 예능 '18초'를 시작했다.
+
+SBS도	SBS/SL+도/JX
+아이돌	아이돌/NNG
+가수	가수/NNG
+찬열과	찬열/NNP+과/JC
+소유,	소유/NNP+,/SP
+에로	에로/NNG
+영화	영화/NNG
+감독으로	감독/NNG+으로/JKB
+유명한	유명/NNG+하/XSA+ㄴ/ETM
+봉만대,	봉만대/NNP+,/SP
+인터넷에서	인터넷/NNG+에서/JKB
+'영국남자'라는	'/SS+영국/NNP+남자/NNG+'/SS+이/VCP+라는/ETM
+한국	한국/NNP
+관련	관련/NNG
+UCC	UCC/SL
+영상	영상/NNG
+제작자로	제작자/NNG+로/JKB
+조쉬	조쉬/NNP
+등을	등/NNB+을/JKO
+내세운	내세우/VV+ㄴ/ETM
+예능	예능/NNG
+'18초'를	'/SS+18/SN+초/NNB+'/SS+를/JKO
+시작했다.	시작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.5.2
+출연자들이 직접 기획한 18초짜리 인터넷 동영상을 만들어 올린 뒤 조회 수 대결을 하는 프로그램이다.
+
+출연자들이	출연자/NNG+들/XSN+이/JKS
+직접	직접/MAG
+기획한	기획/NNG+하/XSV+ㄴ/ETM
+18초짜리	18/SN+초/NNB+짜리/XSN
+인터넷	인터넷/NNG
+동영상을	동영상/NNG+을/JKO
+만들어	만들/VV+어/EC
+올린	올리/VV+ㄴ/ETM
+뒤	뒤/NNG
+조회	조회/NNG
+수	수/NNG
+대결을	대결/NNG+을/JKO
+하는	하/VV+는/ETM
+프로그램이다.	프로그램/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.5.3
+이런 프로그램들은 사실상 본방송이 인터넷에 먼저 올라오고, TV 방영은 그 내용을 편집해 내보내는 재방송에 가깝다.
+
+이런	이런/MMD
+프로그램들은	프로그램/NNG+들/XSN+은/JX
+사실상	사실/NNG+상/XSN
+본방송이	본방송/NNG+이/JKS
+인터넷에	인터넷/NNG+에/JKB
+먼저	먼저/MAG
+올라오고,	올라오/VV+고/EC+,/SP
+TV	TV/SL
+방영은	방영/NNG+은/JX
+그	그/MMD
+내용을	내용/NNG+을/JKO
+편집해	편집/NNG+하/XSV+아/EC
+내보내는	내보내/VV+는/ETM
+재방송에	재/XPN+방송/NNG+에/JKB
+가깝다.	가깝/VA+다/EF+./SF
+
+
+# id : NWRW1800000046.69.6.1
+이런 형식의 프로그램은 TV로 잡지 못한 시청자들을 끌어올 수 있다는 장점을 지니고 있다.
+
+이런	이런/MMD
+형식의	형식/NNG+의/JKG
+프로그램은	프로그램/NNG+은/JX
+TV로	TV/SL+로/JKB
+잡지	잡/VV+지/EC
+못한	못하/VX+ㄴ/ETM
+시청자들을	시청자/NNG+들/XSN+을/JKO
+끌어올	끌어오/VV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+장점을	장점/NNG+을/JKO
+지니고	지니/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.69.6.2
+마리텔의 경우 TV 시청률이 6~7% 정도인데 인터넷 본방송 접속자는 수십만명이다.
+
+마리텔의	마리텔/NNG+의/JKG
+경우	경우/NNG
+TV	TV/SL
+시청률이	시청/NNG+률/XSN+이/JKS
+6~7%	6/SN+~/SO+7/SN+%/SW
+정도인데	정도/NNG+이/VCP+ㄴ데/EC
+인터넷	인터넷/NNG
+본방송	본방송/NNG
+접속자는	접속자/NNG+는/JX
+수십만명이다.	수십만/NR+명/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.6.3
+점점 TV를 보지 않는 시청자들을 공략하면서 기존의 TV 방송 포맷도 유지하는 일종의 투트랙(two-track) 전략으로 볼 수 있다.
+
+점점	점점/MAG
+TV를	TV/SL+를/JKO
+보지	보/VV+지/EC
+않는	않/VX+는/ETM
+시청자들을	시청자/NNG+들/XSN+을/JKO
+공략하면서	공략/NNG+하/XSV+면서/EC
+기존의	기존/NNG+의/JKG
+TV	TV/SL
+방송	방송/NNG
+포맷도	포맷/NNG+도/JX
+유지하는	유지/NNG+하/XSV+는/ETM
+일종의	일종/NNG+의/JKG
+투트랙(two-track)	투트랙/NNG+(/SS+two/SL+-/SO+track/SL+)/SS
+전략으로	전략/NNG+으로/JKB
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000046.69.7.1
+변화된 시장 상황에 맞게 좀 더 자유롭게 콘텐츠를 만들 수 있다는 것도 인터넷 기반 방송의 장점으로 꼽힌다.
+
+변화된	변화/NNG+되/XSV+ㄴ/ETM
+시장	시장/NNG
+상황에	상황/NNG+에/JKB
+맞게	맞/VV+게/EC
+좀	좀/MAG
+더	더/MAG
+자유롭게	자유/NNG+롭/XSA+게/EC
+콘텐츠를	콘텐츠/NNG+를/JKO
+만들	만들/VV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+것도	것/NNB+도/JX
+인터넷	인터넷/NNG
+기반	기반/NNG
+방송의	방송/NNG+의/JKG
+장점으로	장점/NNG+으로/JKB
+꼽힌다.	꼽히/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.69.7.2
+'신서유기'는 중국의 포털사이트 등을 통해서도 동시 방영하는 방안을 추진 중이다.
+
+'신서유기'는	'/SS+신/XPN+서유기/NNP+'/SS+는/JX
+중국의	중국/NNP+의/JKG
+포털사이트	포털/NNG+사이트/NNG
+등을	등/NNB+을/JKO
+통해서도	통하/VV+아서/EC+도/JX
+동시	동시/NNG
+방영하는	방영/NNG+하/XSV+는/ETM
+방안을	방안/NNG+을/JKO
+추진	추진/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.7.3
+중국의 규제 때문에 TV를 통해 프로그램 방영이 힘든 대신 상대적으로 규제가 느슨한 인터넷 방송을 통해 시장 진출을 노리는 것이다.
+
+중국의	중국/NNP+의/JKG
+규제	규제/NNG
+때문에	때문/NNB+에/JKB
+TV를	TV/SL+를/JKO
+통해	통하/VV+아/EC
+프로그램	프로그램/NNG
+방영이	방영/NNG+이/JKS
+힘든	힘들/VA+ㄴ/ETM
+대신	대신/NNG
+상대적으로	상대/NNG+적/XSN+으로/JKB
+규제가	규제/NNG+가/JKS
+느슨한	느슨하/VA+ㄴ/ETM
+인터넷	인터넷/NNG
+방송을	방송/NNG+을/JKO
+시장	시장/NNG
+진출을	진출/NNG+을/JKO
+노리는	노리/VV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.69.7.4
+나영석 PD는 "현지 포털사이트와 손잡고 프로그램에 중국 자막을 덧입혀 서비스할 예정"이라며 "(방송 관련) 규제를 덜 받는 예능을 제작해 새로운 가능성을 시험하는 게 '신서유기'를 시도하는 이유 중 하나"라고 말했다.
+
+나영석	나영석/NNP
+PD는	PD/SL+는/JX
+"현지	"/SS+현지/NNG
+포털사이트와	포털/NNG+사이트/NNG+와/JKB
+손잡고	손잡/VV+고/EC
+프로그램에	프로그램/NNG+에/JKB
+중국	중국/NNP
+자막을	자막/NNG+을/JKO
+덧입혀	덧입히/VV+어/EC
+서비스할	서비스/NNG+하/XSV+ㄹ/ETM
+예정"이라며	예정/NNG+"/SS+이/VCP+라며/EC
+"(방송	"/SS+(/SS+방송/NNG
+관련)	관련/NNG+)/SS
+규제를	규제/NNG+를/JKO
+덜	덜/MAG
+받는	받/VV+는/ETM
+예능을	예능/NNG+을/JKO
+제작해	제작/NNG+하/XSV+아/EC
+새로운	새롭/VA+ㄴ/ETM
+가능성을	가능/NNG+성/XSN+을/JKO
+시험하는	시험/NNG+하/XSV+는/ETM
+게	거/NNB+이/JKS
+'신서유기'를	'/SS+신/XPN+서유기/NNP+'/SS+를/JKO
+시도하는	시도/NNG+하/XSV+는/ETM
+이유	이유/NNG
+중	중/NNB
+하나"라고	하나/NR+"/SS+라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

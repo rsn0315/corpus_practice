@@ -1,0 +1,397 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000029.280
+metadata : {}
+
+
+# id : NWRW1800000029.280.1.1
+[프로야구]또 이긴 SK - KIA - LG 숨막히는 선두권 기싸움
+
+[프로야구]또	[/SS+프로/NNG+야구/NNG+]/SS+또/MAG
+이긴	이기/VV+ㄴ/ETM
+SK	SK/SL
+-	-/SO
+KIA	KIA/SL
+LG	LG/SL
+숨막히는	숨/NNG+막히/VV+는/ETM
+선두권	선두/NNG+권/XSN
+기싸움	기/NNG+싸움/NNG
+
+
+# id : NWRW1800000029.280.2.1
+한화 9회 홈스틸 때 LG 보크
+
+한화	한화/NNP
+9회	9/SN+회/NNB
+홈스틸	홈/NNG+스틸/NNG
+때	때/NNG
+LG	LG/SL
+보크	보크/NNG
+
+
+# id : NWRW1800000029.280.3.1
+심판 아무도 못봐 억울한 패배
+
+심판	심판/NNG
+아무도	아무/NP+도/JX
+못봐	못/MAG+보/VV+아/EC
+억울한	억울/NNG+하/XSA+ㄴ/ETM
+패배	패배/NNG
+
+
+# id : NWRW1800000029.280.4.1
+최근 2년 사이 KIA는 두산만 만나면 기를 못 폈다.
+
+최근	최근/NNG
+2년	2/SN+년/NNB
+사이	사이/NNG
+KIA는	KIA/SL+는/JX
+두산만	두산/NNP+만/JX
+만나면	만나/VV+면/EC
+기를	기/NNG+를/JKO
+못	못/MAG
+폈다.	펴/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.4.2
+2009년 통합 우승을 할 때도 두산에 7승 12패로 뒤졌다.
+
+2009년	2009/SN+년/NNB
+통합	통합/NNG
+우승을	우승/NNG+을/JKO
+할	하/VV+ㄹ/ETM
+때도	때/NNG+도/JX
+두산에	두산/NNP+에/JKB
+7승	7/SN+승/NNB
+12패로	12/SN+패/NNB+로/JKB
+뒤졌다.	뒤지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.4.3
+그해 KIA가 상대 전적에서 두 자릿수 승리를 거두지 못한 팀은 두산이 유일했다.
+
+그해	그해/NNG
+KIA가	KIA/SL+가/JKS
+상대	상대/NNG
+전적에서	전적/NNG+에서/JKB
+두	두/MMN
+자릿수	자릿수/NNG
+승리를	승리/NNG+를/JKO
+거두지	거두/VV+지/EC
+못한	못하/VX+ㄴ/ETM
+팀은	팀/NNG+은/JX
+두산이	두산/NNP+이/JKS
+유일했다.	유일/NNG+하/XSA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.4.4
+포스트시즌 진출에 실패했던 지난해는 6승(13패)을 거두는 데 그쳤다.
+
+포스트시즌	포스트시즌/NNG
+진출에	진출/NNG+에/JKB
+실패했던	실패/NNG+하/XSV+았/EP+던/ETM
+지난해는	지난해/NNG+는/JX
+6승(13패)을	6/SN+승/NNB+(/SS+13/SN+패/NNB+)/SS+을/JKO
+거두는	거두/VV+는/ETM
+데	데/NNB
+그쳤다.	그치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.5.1
+올해도 이런 양상은 계속되는 듯했다.
+
+올해도	올해/NNG+도/JX
+이런	이런/MMD
+양상은	양상/NNG+은/JX
+계속되는	계속/NNG+되/XSV+는/ETM
+듯했다.	듯/NNB+하/XSA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.5.2
+4월 8, 9일 2연패를 당할 때까지는 그렇게 보였다.
+
+4월	4/SN+월/NNB
+8,	8/SN+,/SP
+9일	9/SN+일/NNB
+2연패를	2/SN+연패/NNG+를/JKO
+당할	당하/VV+ㄹ/ETM
+때까지는	때/NNG+까지/JX+는/JX
+그렇게	그렇/VA+게/EC
+보였다.	보이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.5.3
+그러나 4월 10일 3번째 맞대결에서 8-0 완승을 거둔 뒤 상황은 180도 달라졌다.
+
+그러나	그러나/MAJ
+4월	4/SN+월/NNB
+10일	10/SN+일/NNB
+3번째	3/SN+번/NNB+째/XSN
+맞대결에서	맞대결/NNG+에서/JKB
+8-0	8/SN+-/SO+0/SN
+완승을	완승/NNG+을/JKO
+거둔	거두/VV+ㄴ/ETM
+뒤	뒤/NNG
+상황은	상황/NNG+은/JX
+180도	180/SN+도/NNB
+달라졌다.	달라지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.5.4
+이제는 KIA가 두산의 천적이 됐다.
+
+이제는	이제/NNG+는/JX
+KIA가	KIA/SL+가/JKS
+두산의	두산/NNP+의/JKG
+천적이	천적/NNG+이/JKC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.6.1
+KIA가 8일 광주에서 두산을 6-2로 꺾고 올 시즌 한 팀 최다 연승 기록을 ‘7’로 늘렸다.
+
+KIA가	KIA/SL+가/JKS
+8일	8/SN+일/NNB
+광주에서	광주/NNP+에서/JKB
+두산을	두산/NNP+을/JKO
+6-2로	6/SN+-/SO+2/SN+로/JKB
+꺾고	꺾/VV+고/EC
+올	올/NNG
+시즌	시즌/NNG
+한	한/MMN
+팀	팀/NNG
+최다	최다/NNG
+연승	연승/NNG
+기록을	기록/NNG+을/JKO
+‘7’로	‘/SS+7/SN+’/SS+로/JKB
+늘렸다.	늘리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.6.2
+KIA가 7연승을 거둔 건 2009년 9월 25일 광주에서 당시 히어로즈(현 넥센)를 꺾고 정규시즌 7연승한 뒤 처음이다.
+
+KIA가	KIA/SL+가/JKS
+7연승을	7/SN+연승/NNG+을/JKO
+거둔	거두/VV+ㄴ/ETM
+건	거/NNB+ㄴ/JX
+2009년	2009/SN+년/NNB
+9월	9/SN+월/NNB
+25일	25/SN+일/NNB
+광주에서	광주/NNP+에서/JKB
+당시	당시/NNG
+히어로즈(현	히어로즈/NNP+(/SS+현/MMD
+넥센)를	넥센/NNP+)/SS+를/JKO
+꺾고	꺾/VV+고/EC
+정규시즌	정규/NNG+시즌/NNG
+7연승한	7/SN+연승/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.6.3
+올 시즌 두산과의 맞대결에서는 2연패 뒤 5연승을 달렸다.
+
+올	올/NNG
+시즌	시즌/NNG
+두산과의	두산/NNP+과/JKB+의/JKG
+맞대결에서는	맞대결/NNG+에서/JKB+는/JX
+2연패	2/SN+연패/NNG
+뒤	뒤/NNG
+5연승을	5/SN+연승/NNG+을/JKO
+달렸다.	달리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.7.1
+KIA 선발 로페즈는 7이닝을 6안타 2실점으로 막고 2009년 9월 4일부터 계속된 두산전 5연패에서 탈출했다.
+
+KIA	KIA/SL
+선발	선발/NNG
+로페즈는	로페즈/NNP+는/JX
+7이닝을	7/SN+이닝/NNG+을/JKO
+6안타	6/SN+안타/NNG
+2실점으로	2/SN+실점/NNG+으로/JKB
+막고	막/VV+고/EC
+2009년	2009/SN+년/NNB
+9월	9/SN+월/NNB
+4일부터	4/SN+일/NNB+부터/JX
+계속된	계속/NNG+되/XSV+ㄴ/ETM
+두산전	두산전/NNG
+5연패에서	5/SN+연패/NNG+에서/JKB
+탈출했다.	탈출/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.7.2
+KIA는 2회 두산 선발 페르난도를 상대로 4점을 뽑고 일찌감치 승부를 갈랐다.
+
+KIA는	KIA/SL+는/JX
+2회	2/SN+회/NNB
+두산	두산/NNP
+선발	선발/NNG
+페르난도를	페르난도/NNP+를/JKO
+상대로	상대/NNG+로/JKB
+4점을	4/SN+점/NNB+을/JKO
+뽑고	뽑/VV+고/EC
+일찌감치	일찌감치/MAG
+승부를	승부/NNG+를/JKO
+갈랐다.	가르/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.7.3
+두산은 4연패.
+
+두산은	두산/NNP+은/JX
+4연패.	4/SN+연패/NNG+./SF
+
+
+# id : NWRW1800000029.280.8.1
+삼성은 대구에서 롯데를 12-4로 대파하고 4연승을 달렸다.
+
+삼성은	삼성/NNP+은/JX
+대구에서	대구/NNP+에서/JKB
+롯데를	롯데/NNP+를/JKO
+12-4로	12/SN+-/SO+4/SN+로/JKB
+대파하고	대파/NNG+하/XSV+고/EC
+4연승을	4/SN+연승/NNG+을/JKO
+달렸다.	달리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.8.2
+지난달 25일 롯데 이대호에게 3연타석 홈런을 내줬던 삼성 선발 정인욱은 삼진 7개를 솎아내며 7이닝을 홈런 없이 6안타 2실점으로 막고 2승(1패)째를 올렸다.
+
+지난달	지난달/NNG
+25일	25/SN+일/NNB
+롯데	롯데/NNP
+이대호에게	이대호/NNP+에게/JKB
+3연타석	3/SN+연타석/NNG
+홈런을	홈런/NNG+을/JKO
+내줬던	내주/VV+었/EP+던/ETM
+삼성	삼성/NNP
+선발	선발/NNG
+정인욱은	정인욱/NNP+은/JX
+삼진	삼진/NNG
+7개를	7/SN+개/NNB+를/JKO
+솎아내며	솎/VV+아/EC+내/VX+며/EC
+7이닝을	7/SN+이닝/NNG+을/JKO
+홈런	홈런/NNG
+없이	없이/MAG
+6안타	6/SN+안타/NNG
+2실점으로	2/SN+실점/NNG+으로/JKB
+막고	막/VV+고/EC
+2승(1패)째를	2/SN+승/NNB+(/SS+1/SN+패/NNB+)/SS+째/XSN+를/JKO
+올렸다.	올리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.1
+잠실에서는 LG와 한화가 각각 안타 14개, 16개를 때리는 난타전 끝에 LG가 6-5로 이겼다.
+
+잠실에서는	잠실/NNP+에서/JKB+는/JX
+LG와	LG/SL+와/JC
+한화가	한화/NNP+가/JKS
+각각	각각/MAG
+안타	안타/NNG
+14개,	14/SN+개/NNB+,/SP
+16개를	16/SN+개/NNB+를/JKO
+때리는	때리/VV+는/ETM
+난타전	난타전/NNG
+끝에	끝/NNG+에/JKB
+LG가	LG/SL+가/JKS
+6-5로	6/SN+-/SO+5/SN+로/JKB
+이겼다.	이기/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.2
+한화는 5-6으로 뒤진 9회 2사에서 3루에 있던 대주자 정원석이 이대수의 타석 때 홈 스틸을 시도했지만 아웃됐다.
+
+한화는	한화/NNP+는/JX
+5-6으로	5/SN+-/SO+6/SN+으로/JKB
+뒤진	뒤지/VV+ㄴ/ETM
+9회	9/SN+회/NNB
+2사에서	2/SN+사/NNG+에서/JKB
+3루에	3루/NNG+에/JKB
+있던	있/VA+던/ETM
+대주자	대주자/NNG
+정원석이	정원석/NNP+이/JKS
+이대수의	이대수/NNP+의/JKG
+타석	타석/NNG
+때	때/NNG
+홈	홈/NNG
+스틸을	스틸/NNG+을/JKO
+시도했지만	시도/NNG+하/XSV+았/EP+지만/EC
+아웃됐다.	아웃/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.3
+한화는 LG 투수 임찬규가 보크를 했다고 항의했고 실제로 보크였지만 판정은 번복되지 않았다.
+
+한화는	한화/NNP+는/JX
+LG	LG/SL
+투수	투수/NNG
+임찬규가	임찬규/NNP+가/JKS
+보크를	보크/NNG+를/JKO
+했다고	하/VV+았/EP+다고/EC
+항의했고	항의/NNG+하/XSV+았/EP+고/EC
+실제로	실제로/MAG
+보크였지만	보크/NNG+이/VCP+었/EP+지만/EC
+판정은	판정/NNG+은/JX
+번복되지	번복/NNG+되/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.4
+4명의 심판이 모두 보크 상황을 인지하지 못해 콜을 하지 않은 게 문제였다.
+
+4명의	4/SN+명/NNB+의/JKG
+심판이	심판/NNG+이/JKS
+모두	모두/MAG
+보크	보크/NNG
+상황을	상황/NNG+을/JKO
+인지하지	인지/NNG+하/XSV+지/EC
+못해	못하/VX+아/EC
+콜을	콜/NNG+을/JKO
+하지	하/VV+지/EC
+않은	않/VX+은/ETM
+게	거/NNB+이/JKS
+문제였다.	문제/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.5
+한화는 9일 대책회의를 열기로 했다.
+
+한화는	한화/NNP+는/JX
+9일	9/SN+일/NNB
+대책회의를	대책/NNG+회의/NNG+를/JKO
+열기로	열/VV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.6
+경기 결과는 뒤집을 수 없지만 오심을 한 심판진은 징계를 받을 것으로 보인다.
+
+경기	경기/NNG
+결과는	결과/NNG+는/JX
+뒤집을	뒤집/VV+을/ETM
+수	수/NNB
+없지만	없/VA+지만/EC
+오심을	오심/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+심판진은	심판진/NNG+은/JX
+징계를	징계/NNG+를/JKO
+받을	받/VV+을/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000029.280.9.7
+선두 SK는 목동에서 넥센을 4-1로 눌렀다.
+
+선두	선두/NNG
+SK는	SK/SL+는/JX
+목동에서	목동/NNP+에서/JKB
+넥센을	넥센/NNP+을/JKO
+4-1로	4/SN+-/SO+1/SN+로/JKB
+눌렀다.	누르/VV+었/EP+다/EF+./SF
+
+

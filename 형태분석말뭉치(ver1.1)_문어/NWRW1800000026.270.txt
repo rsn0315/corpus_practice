@@ -1,0 +1,555 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.270
+metadata : {}
+
+
+# id : NWRW1800000026.270.1.1
+[태평로] 모두가 조금씩 잘못한 전쟁이었다고?
+
+[태평로]	[/SS+태평로/NNP+]/SS
+모두가	모두/NNG+가/JKS
+조금씩	조금/NNG+씩/XSN
+잘못한	잘못/MAG+하/XSV+ㄴ/ETM
+전쟁이었다고?	전쟁/NNG+이/VCP+었/EP+다고/EF+?/SF
+
+
+# id : NWRW1800000026.270.2.1
+해리 트루먼(Truman) 대통령은 망설였다.
+
+해리	해리/NNP
+트루먼(Truman)	트루먼/NNP+(/SS+Truman/SL+)/SS
+대통령은	대통령/NNG+은/JX
+망설였다.	망설이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.2.2
+원폭을 투하하는 대신 일본 본토에 상륙작전을 개시하는 것이 정답 아닐까.
+
+원폭을	원폭/NNG+을/JKO
+투하하는	투하/NNG+하/XSV+는/ETM
+대신	대신/NNG
+일본	일본/NNP
+본토에	본토/NNG+에/JKB
+상륙작전을	상륙/NNG+작전/NNG+을/JKO
+개시하는	개시/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+정답	정답/NNG
+아닐까.	아니/VCN+ㄹ까/EF+./SF
+
+
+# id : NWRW1800000026.270.2.3
+그러나 백악관 전쟁 참모들이 말렸다.
+
+그러나	그러나/MAJ
+백악관	백악관/NNP
+전쟁	전쟁/NNG
+참모들이	참모/NNG+들/XSN+이/JKS
+말렸다.	말리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.2.4
+일본 본토를 육상으로 쳐들어갈 경우 미국 쪽 사상자 100만명, 일본 쪽 사상자 최소 200만명이 발생한다는 것이었다.
+
+일본	일본/NNP
+본토를	본토/NNG+를/JKO
+육상으로	육상/NNG+으로/JKB
+쳐들어갈	쳐들어가/VV+ㄹ/ETM
+경우	경우/NNG
+미국	미국/NNP
+쪽	쪽/NNB
+사상자	사상자/NNG
+100만명,	100/SN+만/NR+명/NNB+,/SP
+최소	최소/NNG
+200만명이	200/SN+만/NR+명/NNB+이/JKS
+발생한다는	발생/NNG+하/XSV+ㄴ다는/ETM
+것이었다.	것/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.2.5
+결국 1945년 8월 6일 히로시마에 원자폭탄 '리틀 보이'가 투하됐고, 사흘 뒤 나가사키 원폭 투하 그리고 8월 15일 일본의 무조건 항복으로 이어졌다.
+
+결국	결국/MAG
+1945년	1945/SN+년/NNB
+8월	8/SN+월/NNB
+6일	6/SN+일/NNB
+히로시마에	히로시마/NNP+에/JKB
+원자폭탄	원자/NNG+폭탄/NNG
+'리틀	'/SS+리틀/NNG
+보이'가	보이/NNG+'/SS+가/JKS
+투하됐고,	투하/NNG+되/XSV+었/EP+고/EC+,/SP
+사흘	사흘/NNG
+뒤	뒤/NNG
+나가사키	나가사키/NNP
+원폭	원폭/NNG
+투하	투하/NNG
+그리고	그리고/MAJ
+15일	15/SN+일/NNB
+일본의	일본/NNP+의/JKG
+무조건	무/XPN+조건/NNG
+항복으로	항복/NNG+으로/JKB
+이어졌다.	이어지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.2.6
+물론 원폭 후유증은 지금까지 수없이 많은 사람들에게 고통을 안겨주고 있지만 당시 숨진 사람은 12만명이었다.
+
+물론	물론/MAG
+원폭	원폭/NNG
+후유증은	후유증/NNG+은/JX
+지금까지	지금/NNG+까지/JX
+수없이	수없이/MAG
+많은	많/VA+은/ETM
+사람들에게	사람/NNG+들/XSN+에게/JKB
+고통을	고통/NNG+을/JKO
+안겨주고	안기/VV+어/EC+주/VX+고/EC
+있지만	있/VX+지만/EC
+당시	당시/NNG
+숨진	숨지/VV+ㄴ/ETM
+사람은	사람/NNG+은/JX
+12만명이었다.	12/SN+만/NR+명/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.3.1
+지난주 금요일(6일).
+
+지난주	지난주/NNG
+금요일(6일).	금요일/NNG+(/SS+6/SN+일/NNB+)/SS+./SF
+
+
+# id : NWRW1800000026.270.3.2
+일본 히로시마 평화기념공원에서는 원폭 희생자 위령제가 열렸다.
+
+일본	일본/NNP
+히로시마	히로시마/NNP
+평화기념공원에서는	평화/NNG+기념/NNG+공원/NNG+에서/JKB+는/JX
+원폭	원폭/NNG
+희생자	희생자/NNG
+위령제가	위령제/NNG+가/JKS
+열렸다.	열리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.3.3
+사상 처음으로 주일 미국대사 존 루스(Roos)가 이 행사에 참석했다.
+
+사상	사상/NNG
+처음으로	처음/NNG+으로/JKB
+주일	주일/NNG
+미국대사	미국/NNP+대사/NNG
+존	존/NNP
+루스(Roos)가	루스/NNP+(/SS+Roos/SL+)/SS+가/JKS
+이	이/MMD
+행사에	행사/NNG+에/JKB
+참석했다.	참석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.3.4
+해마다 미국 대사에게 초청장이 갔지만 매번 거절당했다.
+
+해마다	해마다/MAG
+미국	미국/NNP
+대사에게	대사/NNG+에게/JKB
+초청장이	초청장/NNG+이/JKS
+갔지만	가/VV+았/EP+지만/EC
+매번	매번/MAG
+거절당했다.	거절/NNG+당하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.3.5
+루스 대사는 무거운 표정으로 침묵을 지켰다.
+
+루스	루스/NNP
+대사는	대사/NNG+는/JX
+무거운	무겁/VA+ㄴ/ETM
+표정으로	표정/NNG+으로/JKB
+침묵을	침묵/NNG+을/JKO
+지켰다.	지키/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.3.6
+필립 크롤리(Crowley) 미 국무부 대변인은 "제2차 대전의 희생자에 대한 경의(respect)를 표하려는 것"이라고 말했다.
+
+필립	필립/NNP
+크롤리(Crowley)	크롤리/NNP+(/SS+Crowley/SL+)/SS
+미	미/NNP
+국무부	국무부/NNG
+대변인은	대변인/NNG+은/JX
+"제2차	"/SS+제/XPN+2/SN+차/NNB
+대전의	대전/NNG+의/JKG
+희생자에	희생자/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+경의(respect)를	경의/NNG+(/SS+respect/SL+)/SS+를/JKO
+표하려는	표/NNG+하/XSV+려는/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.4.1
+원폭 폭격기 조종사 폴 티베츠는 죽을 때까지 "후회한다"고 말한 적이 없다.
+
+원폭	원폭/NNG
+폭격기	폭격기/NNG
+조종사	조종사/NNG
+폴	폴/NNP
+티베츠는	티베츠/NNP+는/JX
+죽을	죽/VV+을/ETM
+때까지	때/NNG+까지/JX
+"후회한다"고	"/SS+후회/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+말한	말/NNG+하/XSV+ㄴ/ETM
+적이	적/NNB+이/JKS
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.270.4.2
+그의 아들 제임스 티베츠도 루스 대사의 위령제 참석이 "무언의 사죄(an unsaid apology)"로 보이면 안 된다고 말했다.
+
+그의	그/NP+의/JKG
+아들	아들/NNG
+제임스	제임스/NNP
+티베츠도	티베츠/NNP+도/JX
+루스	루스/NNP
+대사의	대사/NNG+의/JKG
+위령제	위령제/NNG
+참석이	참석/NNG+이/JKS
+"무언의	"/SS+무언/NNG+의/JKG
+사죄(an	사죄/NNG+(/SS+an/SL
+unsaid	unsaid/SL
+apology)"로	apology/SL+)/SS+"/SS+로/JKB
+보이면	보이/VV+면/EC
+안	안/MAG
+된다고	되/VV+ㄴ다고/EC
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.4.3
+참전 군인 18만명을 대표하는 단체 AMVETS도 성명을 냈다.
+
+참전	참전/NNG
+군인	군인/NNG
+18만명을	18/SN+만/NR+명/NNB+을/JKO
+대표하는	대표/NNG+하/XSV+는/ETM
+단체	단체/NNG
+AMVETS도	AMVETS/SL+도/JX
+성명을	성명/NNG+을/JKO
+냈다.	내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.4.4
+"루스 대사가 참석하는 것은 반대하지 않지만 사죄로 오인돼서는 안 될 것"이라고 말했다.
+
+"루스	"/SS+루스/NNP
+대사가	대사/NNG+가/JKS
+참석하는	참석/NNG+하/XSV+는/ETM
+것은	것/NNB+은/JX
+반대하지	반대/NNG+하/XSV+지/EC
+않지만	않/VX+지만/EC
+사죄로	사죄/NNG+로/JKB
+오인돼서는	오인/NNG+되/XSV+어서/EC+는/JX
+안	안/MAG
+될	되/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.5.1
+여기서 루스 대사에게 위령제 참석을 지시한 버락 오바마(Obama) 대통령이 잊지 말아야 할 '사건'이 있다.
+
+여기서	여기/NP+서/JKB
+루스	루스/NNP
+대사에게	대사/NNG+에게/JKB
+위령제	위령제/NNG
+참석을	참석/NNG+을/JKO
+지시한	지시/NNG+하/XSV+ㄴ/ETM
+버락	버락/NNP
+오바마(Obama)	오바마/NNP+(/SS+Obama/SL+)/SS
+대통령이	대통령/NNG+이/JKS
+잊지	잊/VV+지/EC
+말아야	말/VX+아야/EC
+할	하/VX+ㄹ/ETM
+'사건'이	'/SS+사건/NNG+'/SS+이/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.270.5.2
+1985년 5월 5일 로널드 레이건(Reagan) 대통령이 독일 비트버그에 있는 콜메쇼헤 독일군 공동묘지에 헌화했던 일이다.
+
+1985년	1985/SN+년/NNB
+5월	5/SN+월/NNB
+5일	5/SN+일/NNB
+로널드	로널드/NNP
+레이건(Reagan)	레이건/NNP+(/SS+Reagan/SL+)/SS
+대통령이	대통령/NNG+이/JKS
+독일	독일/NNP
+비트버그에	비트버그/NNP+에/JKB
+있는	있/VA+는/ETM
+콜메쇼헤	콜메쇼헤/NNP
+독일군	독일군/NNG
+공동묘지에	공동묘지/NNG+에/JKB
+헌화했던	헌화/NNG+하/XSV+았/EP+던/ETM
+일이다.	일/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.5.3
+레이건은 "강제 수용소 희생자들 못지않은 나치의 희생자들"에 대해 경의를 표했다.
+
+레이건은	레이건/NNP+은/JX
+"강제	"/SS+강제/NNG
+수용소	수용소/NNG
+희생자들	희생자/NNG+들/XSN
+못지않은	못지않/VA+은/ETM
+나치의	나치/NNP+의/JKG
+희생자들"에	희생자/NNG+들/XSN+"/SS+에/JKB
+대해	대하/VV+아/EC
+경의를	경의/NNG+를/JKO
+표했다.	표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.5.4
+아마도 레이건은 당시 헬무트 콜(Kohl) 총리에게 힘을 실어주고 싶었거나 아니면 40년이란 충분한 시간이 흘렀다고 생각했을 수도 있다.
+
+아마도	아마도/MAG
+레이건은	레이건/NNP+은/JX
+당시	당시/NNG
+헬무트	헬무트/NNP
+콜(Kohl)	콜/NNP+(/SS+Kohl/SL+)/SS
+총리에게	총리/NNG+에게/JKB
+힘을	힘/NNG+을/JKO
+실어주고	싣/VV+어/EC+주/VX+고/EC
+싶었거나	싶/VX+었/EP+거나/EC
+아니면	아니/VCN+면/EC
+40년이란	40/SN+년/NNB+이/VCP+란/ETM
+충분한	충분하/VA+ㄴ/ETM
+시간이	시간/NNG+이/JKS
+흘렀다고	흐르/VV+었/EP+다고/EC
+생각했을	생각/NNG+하/XSV+았/EP+을/ETM
+수도	수/NNB+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.270.6.1
+그러나 비트버그 묘역에는 SS친위대원들까지 묻혀 있다는 것이 나중에 밝혀졌다.
+
+그러나	그러나/MAJ
+비트버그	비트버그/NNP
+묘역에는	묘역/NNG+에/JKB+는/JX
+SS친위대원들까지	SS/SL+친위대원/NNG+들/XSN+까지/JX
+묻혀	묻히/VV+어/EC
+있다는	있/VX+다는/ETM
+것이	것/NNB+이/JKS
+나중에	나중/NNG+에/JKB
+밝혀졌다.	밝혀지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.6.2
+미국 여론이 발칵 뒤집혔다.
+
+미국	미국/NNP
+여론이	여론/NNG+이/JKS
+발칵	발칵/MAG
+뒤집혔다.	뒤집히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.6.3
+레이건의 헌화는 미국의 참전용사들은 물론이고 홀로코스트의 유대인 희생자들의 명예까지 한꺼번에 유린하는 실수였던 것이다.
+
+레이건의	레이건/NNP+의/JKG
+헌화는	헌화/NNG+는/JX
+미국의	미국/NNP+의/JKG
+참전용사들은	참전/NNG+용사/NNG+들/XSN+은/JX
+물론이고	물론/NNG+이/VCP+고/EC
+홀로코스트의	홀로코스트/NNG+의/JKG
+유대인	유대인/NNP
+희생자들의	희생자/NNG+들/XSN+의/JKG
+명예까지	명예/NNG+까지/JX
+한꺼번에	한꺼번에/MAG
+유린하는	유린/NNG+하/XSV+는/ETM
+실수였던	실수/NNG+이/VCP+었/EP+던/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.6.4
+레이건이 나중에 이 사태를 벗어나기까지는 케데스 비알킨, 헨리 키신저 같은 이들의 변호가 컸다.
+
+레이건이	레이건/NNP+이/JKS
+나중에	나중/NNG+에/JKB
+이	이/MMD
+사태를	사태/NNG+를/JKO
+벗어나기까지는	벗어나/VV+기/ETN+까지/JX+는/JX
+케데스	케데스/NNP
+비알킨,	비알킨/NNP+,/SP
+헨리	헨리/NNP
+키신저	키신저/NNP
+같은	같/VA+은/ETM
+이들의	이/NNB+들/XSN+의/JKG
+변호가	변호/NNG+가/JKS
+컸다.	크/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.6.5
+워싱턴 기념박물관관장 마이클 베렌바움(Berenbaum)은 레이건의 실수를 "순진한 미국의 낙관주의"라고 말했다.
+
+워싱턴	워싱턴/NNP
+기념박물관관장	기념/NNG+박물관/NNG+관장/NNG
+마이클	마이클/NNP
+베렌바움(Berenbaum)은	베렌바움/NNP+(/SS+Berenbaum/SL+)/SS+은/JX
+레이건의	레이건/NNP+의/JKG
+실수를	실수/NNG+를/JKO
+"순진한	"/SS+순진/NNG+하/XSA+ㄴ/ETM
+미국의	미국/NNP+의/JKG
+낙관주의"라고	낙관주의/NNG+"/SS+라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.7.1
+루스 대사의 위령제 참석에 대해 일본 언론들은 머지않아 미국 대통령이 참석하는 날도 올 것이라는 목소리를 전달하고 있다.
+
+루스	루스/NNP
+대사의	대사/NNG+의/JKG
+위령제	위령제/NNG
+참석에	참석/NNG+에/JKB
+대해	대하/VV+아/EC
+일본	일본/NNP
+언론들은	언론/NNG+들/XSN+은/JX
+머지않아	머지않/VA+아/EC
+미국	미국/NNP
+대통령이	대통령/NNG+이/JKS
+참석하는	참석/NNG+하/XSV+는/ETM
+날도	날/NNG+도/JX
+올	오/VV+ㄹ/ETM
+것이라는	것/NNB+이/VCP+라는/ETM
+목소리를	목소리/NNG+를/JKO
+전달하고	전달/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.270.7.2
+원폭 투하를 지휘한 커티스 러메이 장군에 대해 책을 내기도 했던 워런 코작(Kozak)은 어제 월스트리트저널에 쓴 글에서 '도덕적 등가성(等價性)'(moral equivalence)이란 생각을 경계했다.
+
+원폭	원폭/NNG
+투하를	투하/NNG+를/JKO
+지휘한	지휘/NNG+하/XSV+ㄴ/ETM
+커티스	커티스/NNP
+러메이	러메이/NNP
+장군에	장군/NNG+에/JKB
+대해	대하/VV+아/EC
+책을	책/NNG+을/JKO
+내기도	내/VV+기/ETN+도/JX
+했던	하/VX+았/EP+던/ETM
+워런	워런/NNP
+코작(Kozak)은	코작/NNP+(/SS+Kozak/SL+)/SS+은/JX
+어제	어제/NNG
+월스트리트저널에	월스트리트저널/NNP+에/JKB
+쓴	쓰/VV+ㄴ/ETM
+글에서	글/NNG+에서/JKB
+'도덕적	'/SS+도덕/NNG+적/XSN
+등가성(等價性)'(moral	등가/NNG+성/XSN+(/SS+等價性/SH+)/SS+'/SS+(/SS+moral/SL
+equivalence)이란	equivalence/SL+)/SS+이/VCP+란/ETM
+생각을	생각/NNG+을/JKO
+경계했다.	경계/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.7.3
+요즘 일부 미디어와 대학들은 젊은 세대를 잘못 가르치고 있다는 것이다.
+
+요즘	요즘/NNG
+일부	일부/NNG
+미디어와	미디어/NNG+와/JC
+대학들은	대학/NNG+들/XSN+은/JX
+젊은	젊/VA+은/ETM
+세대를	세대/NNG+를/JKO
+잘못	잘못/MAG
+가르치고	가르치/VV+고/EC
+있다는	있/VX+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.7.4
+"전쟁?
+
+"전쟁?	"/SS+전쟁/NNG+?/SF
+
+
+# id : NWRW1800000026.270.7.5
+참혹하긴 했지.
+
+참혹하긴	참혹/NNG+하/XSA+기/ETN+ㄴ/JX
+했지.	하/VX+았/EP+지/EF+./SF
+
+
+# id : NWRW1800000026.270.7.6
+그렇지만 어느 한쪽이 일방적으로 잘했다거나 일방적으로 잘못했다고 할 순 없어.
+
+그렇지만	그렇지만/MAJ
+어느	어느/MMD
+한쪽이	한쪽/NNG+이/JKS
+일방적으로	일방/NNG+적/XSN+으로/JKB
+잘했다거나	잘/MAG+하/XSV+았/EP+다/EF+거나/JX
+잘못했다고	잘못/MAG+하/XSV+았/EP+다고/EC
+할	하/VV+ㄹ/ETM
+순	수/NNB+ㄴ/JX
+없어.	없/VA+어/EF+./SF
+
+
+# id : NWRW1800000026.270.7.7
+다들 조금씩 비난받을 만한 측면이 있는 거야."
+
+다들	다/MAG+들/XSN
+조금씩	조금/NNG+씩/XSN
+비난받을	비난/NNG+받/XSV+을/ETM
+만한	만/NNB+하/XSA+ㄴ/ETM
+측면이	측면/NNG+이/JKS
+있는	있/VA+는/ETM
+거야."	거/NNB+이/VCP+야/EF+./SF+"/SS
+
+
+# id : NWRW1800000026.270.8.1
+한국은 대학뿐만 아니라 초·중·고가 다 문제다.
+
+한국은	한국/NNP+은/JX
+대학뿐만	대학/NNG+뿐/JX+만/JX
+아니라	아니/VCN+라/EC
+초·중·고가	초·중·고/NNG+가/JKS
+다	다/MAG
+문제다.	문제/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.270.8.2
+'제2차 대전 희생자'란 포괄적이고도 순진한 표현 속에 일본군 전범들과 1700만 아시아 희생자들이 한데 뭉뚱그려지는 날이 오지 않는다고 누가 장담하겠는가.
+
+'제2차	'/SS+제/XPN+2/SN+차/NNB
+대전	대전/NNG
+희생자'란	희생자/NNG+'/SS+이/VCP+란/ETM
+포괄적이고도	포괄/NNG+적/XSN+이/VCP+고/EC+도/JX
+순진한	순진/NNG+하/XSA+ㄴ/ETM
+표현	표현/NNG
+속에	속/NNG+에/JKB
+일본군	일본군/NNG
+전범들과	전범/NNG+들/XSN+과/JC
+1700만	1700/SN+만/NR
+아시아	아시아/NNP
+희생자들이	희생자/NNG+들/XSN+이/JKS
+한데	한데/NNG
+뭉뚱그려지는	뭉뚱그리/VV+어/EC+지/VX+는/ETM
+날이	날/NNG+이/JKS
+오지	오/VV+지/EC
+않는다고	않/VX+는다고/EC
+누가	누구/NP+가/JKS
+장담하겠는가.	장담/NNG+하/XSV+겠/EP+는가/EF+./SF
+
+
+# id : NWRW1800000026.270.8.3
+더구나 '순진한 대한민국의 낙관주의'가 전성기를 맞고 있지 않은가.
+
+더구나	더구나/MAG
+'순진한	'/SS+순진/NNG+하/XSA+ㄴ/ETM
+대한민국의	대한민국/NNP+의/JKG
+낙관주의'가	낙관주의/NNG+'/SS+가/JKS
+전성기를	전성기/NNG+를/JKO
+맞고	맞/VV+고/EC
+있지	있/VX+지/EC
+않은가.	않/VX+은가/EF+./SF
+
+

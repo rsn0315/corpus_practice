@@ -1,0 +1,222 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000046.204
+metadata : {}
+
+
+# id : NWRW1800000046.204.1.1
+LPGA 개막전부터 2연속 정상… 태극 낭자 '초대형 태풍' 분다
+
+LPGA	LPGA/SL
+개막전부터	개막전/NNG+부터/JX
+2연속	2/SN+연속/NNG
+정상…	정상/NNG+…/SE
+태극	태극/NNG
+낭자	낭자/NNG
+'초대형	'/SS+초/XPN+대형/NNG
+태풍'	태풍/NNG+'/SS
+분다	불/VV+ㄴ다/EF
+
+
+# id : NWRW1800000046.204.2.1
+김효주·백규정·장하나 등 스타들 올해 동시에 美무대로 옮겨 관심
+
+김효주·백규정·장하나	김효주/NNP+·/SP+백규정/NNP+·/SP+장하나/NNP
+등	등/NNB
+스타들	스타/NNG+들/XSN
+올해	올해/NNG
+동시에	동시/NNG+에/JKB
+美무대로	美/SH+무대/NNG+로/JKB
+옮겨	옮기/VV+어/EC
+관심	관심/NNG
+
+
+# id : NWRW1800000046.204.3.1
+지난주 미국여자프로골프(LPGA) 투어 개막전인 코츠골프챔피언십에서 최나연(28)이 우승한 데 이어 루키인 김세영(22)이 두 번째 대회까지 우승하면서 올해 한국 여자선수들이 일으킬 초대형 태풍을 예고했다.
+
+지난주	지난주/NNG
+미국여자프로골프(LPGA)	미국/NNP+여자/NNG+프로/NNG+골프/NNG+(/SS+LPGA/SL+)/SS
+투어	투어/NNG
+개막전인	개막전/NNG+이/VCP+ㄴ/ETM
+코츠골프챔피언십에서	코츠/NNP+골프/NNG+챔피언십/NNG+에서/JKB
+최나연(28)이	최나연/NNP+(/SS+28/SN+)/SS+이/JKS
+우승한	우승/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+이어	잇/VV+어/EC
+루키인	루키/NNG+이/VCP+ㄴ/ETM
+김세영(22)이	김세영/NNP+(/SS+22/SN+)/SS+이/JKS
+두	두/MMN
+번째	번/NNB+째/XSN
+대회까지	대회/NNG+까지/JX
+우승하면서	우승/NNG+하/XSV+면서/EC
+올해	올해/NNG
+한국	한국/NNP
+여자선수들이	여자/NNG+선수/NNG+들/XSN+이/JKS
+일으킬	일으키/VV+ㄹ/ETM
+초대형	초/XPN+대형/NNG
+태풍을	태풍/NNG+을/JKO
+예고했다.	예고/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.204.3.2
+지난주에는 장하나가 이번 주에는 유선영이 각각 공동 2위에 이름을 올리는 등 한국 선수들이 계속해서 상위권을 점령하고 있다.
+
+지난주에는	지난주/NNG+에/JKB+는/JX
+장하나가	장하나/NNP+가/JKS
+이번	이번/NNG
+주에는	주/NNG+에/JKB+는/JX
+유선영이	유선영/NNP+이/JKS
+각각	각각/MAG
+공동	공동/NNG
+2위에	2/SN+위/NNB+에/JKB
+이름을	이름/NNG+을/JKO
+올리는	올리/VV+는/ETM
+등	등/NNB
+한국	한국/NNP
+선수들이	선수/NNG+들/XSN+이/JKS
+계속해서	계속/NNG+하/XSV+아서/EC
+상위권을	상위/NNG+권/XSN+을/JKO
+점령하고	점령/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.204.3.3
+1998년 박세리가 LPGA투어에 진출한 이후 한국 선수들의 강세가 꾸준히 이어져 왔지만 올해처럼 김효주와 백규정, 장하나, 김세영 등 한국 여자 프로골프의 대형 스타들이 동시에 미국 무대로 옮긴 것은 처음 있는 일이다.
+
+1998년	1998/SN+년/NNB
+박세리가	박세리/NNP+가/JKS
+LPGA투어에	LPGA/SL+투어/NNG+에/JKB
+진출한	진출/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+한국	한국/NNP
+선수들의	선수/NNG+들/XSN+의/JKG
+강세가	강세/NNG+가/JKS
+꾸준히	꾸준히/MAG
+이어져	이어지/VV+어/EC
+왔지만	오/VX+았/EP+지만/EC
+올해처럼	올해/NNG+처럼/JKB
+김효주와	김효주/NNP+와/JC
+백규정,	백규정/NNP+,/SP
+장하나,	장하나/NNP+,/SP
+김세영	김세영/NNP
+등	등/NNB
+여자	여자/NNG
+프로골프의	프로/NNG+골프/NNG+의/JKG
+대형	대형/NNG
+스타들이	스타/NNG+들/XSN+이/JKS
+동시에	동시/NNG+에/JKB
+미국	미국/NNP
+무대로	무대/NNG+로/JKB
+옮긴	옮기/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+처음	처음/NNG
+있는	있/VA+는/ETM
+일이다.	일/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000046.204.4.1
+이런 심상치 않은 분위기를 미국 언론도 전하고 있다.
+
+이런	이런/MMD
+심상치	심상하/VA+지/EC
+않은	않/VX+은/ETM
+분위기를	분위기/NNG+를/JKO
+미국	미국/NNP
+언론도	언론/NNG+도/JX
+전하고	전하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.204.4.2
+미국 골프 채널은 김세영의 우승 소식을 전하며 1996년 타이거 우즈가 프로 전향을 선언하면서 했던 인사말 'Hello, World'를 제목으로 달았다.
+
+미국	미국/NNP
+골프	골프/NNG
+채널은	채널/NNG+은/JX
+김세영의	김세영/NNP+의/JKG
+우승	우승/NNG
+소식을	소식/NNG+을/JKO
+전하며	전하/VV+며/EC
+1996년	1996/SN+년/NNB
+타이거	타이거/NNP
+우즈가	우즈/NNP+가/JKS
+프로	프로/NNG
+전향을	전향/NNG+을/JKO
+선언하면서	선언/NNG+하/XSV+면서/EC
+했던	하/VV+았/EP+던/ETM
+인사말	인사말/NNG
+'Hello,	'/SS+Hello/SL+,/SP
+World'를	World/SL+'/SS+를/JKO
+제목으로	제목/NNG+으로/JKB
+달았다.	달/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000046.204.4.3
+이 기사는 "이번에 오는 한국 선수들은 기존 LPGA투어 선수들과 비교해도 전혀 손색없는 기량과 경험을 갖춘 선수들"이라는 한국 골프의 간판스타 박인비의 말을 전하며 LPGA투어의 판도가 근본적으로 바뀔 수 있다는 전망을 하고 있다.
+
+이	이/MMD
+기사는	기사/NNG+는/JX
+"이번에	"/SS+이번/NNG+에/JKB
+오는	오/VV+는/ETM
+한국	한국/NNP
+선수들은	선수/NNG+들/XSN+은/JX
+기존	기존/NNG
+LPGA투어	LPGA/SL+투어/NNG
+선수들과	선수/NNG+들/XSN+과/JKB
+비교해도	비교/NNG+하/XSV+아도/EC
+전혀	전혀/MAG
+손색없는	손색없/VA+는/ETM
+기량과	기량/NNG+과/JC
+경험을	경험/NNG+을/JKO
+갖춘	갖추/VV+ㄴ/ETM
+선수들"이라는	선수/NNG+들/XSN+"/SS+이/VCP+라는/ETM
+골프의	골프/NNG+의/JKG
+간판스타	간판스타/NNG
+박인비의	박인비/NNP+의/JKG
+말을	말/NNG+을/JKO
+전하며	전하/VV+며/EC
+LPGA투어의	LPGA/SL+투어/NNG+의/JKG
+판도가	판도/NNG+가/JKS
+근본적으로	근본/NNG+적/XSN+으로/JKB
+바뀔	바뀌/VV+ㄹ/ETM
+수	수/NNB
+있다는	있/VA+다는/ETM
+전망을	전망/NNG+을/JKO
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000046.204.5.1
+LPGA 투어는 오는 19일 호주 멜버른에서 개막하는 ISPS 한다 호주여자오픈으로 재개된다.
+
+LPGA	LPGA/SL
+투어는	투어/NNG+는/JX
+오는	오/VV+는/ETM
+19일	19/SN+일/NNB
+호주	호주/NNP
+멜버른에서	멜버른/NNP+에서/JKB
+개막하는	개막/NNG+하/XSV+는/ETM
+ISPS	ISPS/SL
+한다	한다/NNP
+호주여자오픈으로	호주/NNP+여자/NNG+오픈/NNG+으로/JKB
+재개된다.	재개/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000046.204.5.2
+'수퍼 루키' 김효주는 26일 개막하는 혼다 LPGA 타일랜드에서 첫선을 보인다.
+
+'수퍼	'/SS+수퍼/NNG
+루키'	루키/NNG+'/SS
+김효주는	김효주/NNP+는/JX
+26일	26/SN+일/NNB
+개막하는	개막/NNG+하/XSV+는/ETM
+혼다	혼다/NNP
+LPGA	LPGA/SL
+타일랜드에서	타일랜드/NNP+에서/JKB
+첫선을	첫선/NNG+을/JKO
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+

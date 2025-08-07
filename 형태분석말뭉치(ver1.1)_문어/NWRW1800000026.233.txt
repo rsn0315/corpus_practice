@@ -1,0 +1,184 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.233
+metadata : {}
+
+
+# id : NWRW1800000026.233.1.1
+[Around the World] 아프간 주둔군 최대 위협은 '비료폭탄'
+
+[Around	[/SS+Around/SL
+the	the/SL
+World]	World/SL+]/SS
+아프간	아프간/NNP
+주둔군	주둔군/NNG
+최대	최대/NNG
+위협은	위협/NNG+은/JX
+'비료폭탄'	'/SS+비료/NNG+폭탄/NNG+'/SS
+
+
+# id : NWRW1800000026.233.2.1
+아프가니스탄(아프간) 탈레반이 사용하는 사제폭탄의 80%는 비료로 만들어진다고 AFP통신이 13일 보도했다.
+
+아프가니스탄(아프간)	아프가니스탄/NNP+(/SS+아프간/NNP+)/SS
+탈레반이	탈레반/NNP+이/JKS
+사용하는	사용/NNG+하/XSV+는/ETM
+사제폭탄의	사제/NNG+폭탄/NNG+의/JKG
+80%는	80/SN+%/SW+는/JX
+비료로	비료/NNG+로/JKB
+만들어진다고	만들/VV+어/EC+지/VX+ㄴ다고/EC
+AFP통신이	AFP통신/NNP+이/JKS
+13일	13/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.233.2.2
+아프간 국방부는 "탈레반의 공습과 자살 공격에 사용되는 급조폭발물(IEDs)은 질산암모늄 및 질산칼륨 성분의 비료를 이용해 제조된다"며 비료 유통을 강력히 차단하겠다고 밝혔다.
+
+아프간	아프간/NNP
+국방부는	국방부/NNG+는/JX
+"탈레반의	"/SS+탈레반/NNP+의/JKG
+공습과	공습/NNG+과/JC
+자살	자살/NNG
+공격에	공격/NNG+에/JKB
+사용되는	사용/NNG+되/XSV+는/ETM
+급조폭발물(IEDs)은	급조/NNG+폭발물/NNG+(/SS+IEDs/SL+)/SS+은/JX
+질산암모늄	질산/NNG+암모늄/NNG
+및	및/MAG
+질산칼륨	질산/NNG+칼륨/NNG
+성분의	성분/NNG+의/JKG
+비료를	비료/NNG+를/JKO
+이용해	이용/NNG+하/XSV+아/EC
+제조된다"며	제조/NNG+되/XSV+ㄴ다/EF+"/SS+며/EC
+비료	비료/NNG
+유통을	유통/NNG+을/JKO
+강력히	강력히/MAG
+차단하겠다고	차단/NNG+하/XSV+겠/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.233.3.1
+탈레반이 사용하는 폭발물은 2007년까지만 해도 옛 소련 침공 당시 사용됐던 폭탄과 로켓포 등이었지만, 2008년부터 비료를 이용한 IEDs가 급증하면서 나토 국제안보지원군(ISAF)을 위협하는 최대 무기로 등장했다.
+
+탈레반이	탈레반/NNP+이/JKS
+사용하는	사용/NNG+하/XSV+는/ETM
+폭발물은	폭발물/NNG+은/JX
+2007년까지만	2007/SN+년/NNB+까지/JX+만/JX
+해도	하/VV+아도/EC
+옛	옛/MMA
+소련	소련/NNP
+침공	침공/NNG
+당시	당시/NNG
+사용됐던	사용/NNG+되/XSV+었/EP+던/ETM
+폭탄과	폭탄/NNG+과/JC
+로켓포	로켓포/NNG
+등이었지만,	등/NNB+이/VCP+었/EP+지만/EC+,/SP
+2008년부터	2008/SN+년/NNB+부터/JX
+비료를	비료/NNG+를/JKO
+이용한	이용/NNG+하/XSV+ㄴ/ETM
+IEDs가	IEDs/SL+가/JKS
+급증하면서	급증/NNG+하/XSV+면서/EC
+나토	나토/NNP
+국제안보지원군(ISAF)을	국제안보지원군/NNP+(/SS+ISAF/SL+)/SS+을/JKO
+위협하는	위협/NNG+하/XSV+는/ETM
+최대	최대/NNG
+무기로	무기/NNG+로/JKB
+등장했다.	등장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.233.3.2
+최근 유엔의 아프간전 보고서는 1분기 IEDs 사용이 전년 동기에 비해 94%나 증가했으며, 이로 인한 희생자도 급증했다고 말했다.
+
+최근	최근/MAG
+유엔의	유엔/NNP+의/JKG
+아프간전	아프간전/NNG
+보고서는	보고서/NNG+는/JX
+1분기	1/SN+분기/NNG
+IEDs	IEDs/SL
+사용이	사용/NNG+이/JKS
+전년	전년/NNG
+동기에	동기/NNG+에/JKB
+비해	비/NNG+하/XSV+아/EC
+94%나	94/SN+%/SW+나/JX
+증가했으며,	증가/NNG+하/XSV+았/EP+으며/EC+,/SP
+이로	이/NP+로/JKB
+인한	인/NNG+하/XSV+ㄴ/ETM
+희생자도	희생자/NNG+도/JX
+급증했다고	급증/NNG+하/XSV+았/EP+다고/EC
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.233.4.1
+아프간 정부는 탈레반이 비료를 이용해 사제폭탄을 제조하자 다국적군의 요청을 받아들여 작년 12월 질산암모늄 성분 비료의 제조와 사용, 수입을 금지했다.
+
+아프간	아프간/NNP
+정부는	정부/NNG+는/JX
+탈레반이	탈레반/NNP+이/JKS
+비료를	비료/NNG+를/JKO
+이용해	이용/NNG+하/XSV+아/EC
+사제폭탄을	사제/NNG+폭탄/NNG+을/JKO
+제조하자	제조/NNG+하/XSV+자/EC
+다국적군의	다국적군/NNG+의/JKG
+요청을	요청/NNG+을/JKO
+받아들여	받아들이/VV+어/EC
+작년	작년/NNG
+12월	12/SN+월/NNB
+질산암모늄	질산/NNG+암모늄/NNG
+성분	성분/NNG
+비료의	비료/NNG+의/JKG
+제조와	제조/NNG+와/JC
+사용,	사용/NNG+,/SP
+수입을	수입/NNG+을/JKO
+금지했다.	금지/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.233.4.2
+미국은 아프간 주둔군에게 최대 위협이 되고 있는 IEDs 방어를 위해 유선정찰 장비와 방폭차량, 폭탄 검색용 로봇 등 30억달러(약 3조6000억원) 규모의 장비를 투입하기로 이미 결정했다.
+
+미국은	미국/NNP+은/JX
+아프간	아프간/NNP
+주둔군에게	주둔군/NNG+에게/JKB
+최대	최대/NNG
+위협이	위협/NNG+이/JKC
+되고	되/VV+고/EC
+있는	있/VX+는/ETM
+IEDs	IEDs/SL
+방어를	방어/NNG+를/JKO
+위해	위하/VV+아/EC
+유선정찰	유선/NNG+정찰/NNG
+장비와	장비/NNG+와/JC
+방폭차량,	방폭/NNG+차량/NNG+,/SP
+폭탄	폭탄/NNG
+검색용	검색/NNG+용/XSN
+로봇	로봇/NNG
+등	등/NNB
+30억달러(약	30/SN+억/NR+달러/NNB+(/SS+약/MMA
+3조6000억원)	3/SN+조/NR+6000/SN+억/NR+원/NNB+)/SS
+규모의	규모/NNG+의/JKG
+장비를	장비/NNG+를/JKO
+투입하기로	투입/NNG+하/XSV+기/ETN+로/JKB
+이미	이미/MAG
+결정했다.	결정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.233.4.3
+애시튼 카터(Carter) 미 국방부 구매담당 차관은 "대부분의 질산암모늄과 IEDs가 파키스탄으로부터 유입되고 있다"고 말했다.
+
+애시튼	애시튼/NNP
+카터(Carter)	카터/NNP+(/SS+Carter/SL+)/SS
+미	미/NNP
+국방부	국방부/NNG
+구매담당	구매/NNG+담당/NNG
+차관은	차관/NNG+은/JX
+"대부분의	"/SS+대/XPN+부분/NNG+의/JKG
+질산암모늄과	질산/NNG+암모늄/NNG+과/JC
+IEDs가	IEDs/SL+가/JKS
+파키스탄으로부터	파키스탄/NNP+으로부터/JKB
+유입되고	유입/NNG+되/XSV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

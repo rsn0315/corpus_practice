@@ -1,0 +1,404 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000053.45
+metadata : {}
+
+
+# id : NWRW1800000053.45.1.1
+“국가간 AI 경쟁이 3차대전 불러올 것”
+
+“국가간	“/SS+국가/NNG+간/NNB
+AI	AI/SL
+경쟁이	경쟁/NNG+이/JKS
+3차대전	3/SN+차/NNB+대전/NNG
+불러올	불러오/VV+ㄹ/ETM
+것”	것/NNB+”/SS
+
+
+# id : NWRW1800000053.45.2.1
+머스크 테슬라 CEO 주장 눈길 푸틴 “AI가 인류미래” 발언 반박 머스크 “AI가 전쟁결정 내릴수도 북한보다 훨씬 더 위험한 존재” 영화 ‘터미네이터’ 현실화 우려
+
+머스크	머스크/NNP
+테슬라	테슬라/NNP
+CEO	CEO/SL
+주장	주장/NNG
+눈길	눈길/NNG
+푸틴	푸틴/NNP
+“AI가	“/SS+AI/SL+가/JKS
+인류미래”	인류/NNG+미래/NNG+”/SS
+발언	발언/NNG
+반박	반박/NNG
+전쟁결정	전쟁/NNG+결정/NNG
+내릴수도	내리/VV+ㄹ/ETM+수/NNB+도/JX
+북한보다	북한/NNP+보다/JKB
+훨씬	훨씬/MAG
+더	더/MAG
+위험한	위험/NNG+하/XSA+ㄴ/ETM
+존재”	존재/NNG+”/SS
+영화	영화/NNG
+‘터미네이터’	‘/SS+터미네이터/NNP+’/SS
+현실화	현실/NNG+화/XSN
+우려	우려/NNG
+
+
+# id : NWRW1800000053.45.3.1
+일론 머스크 테슬라 최고경영자(CEO·사진)가 제3차 세계대전이 일어난다면 북핵보다는 인공지능(AI) 때문일 것이라고 경고했다.
+
+일론	일론/NNP
+머스크	머스크/NNP
+테슬라	테슬라/NNP
+최고경영자(CEO·사진)가	최고/NNG+경영자/NNG+(/SS+CEO/SL+·/SP+사진/NNG+)/SS+가/JKS
+제3차	제/XPN+3/SN+차/NNB
+세계대전이	세계/NNG+대전/NNG+이/JKS
+일어난다면	일어나/VV+ㄴ다면/EC
+북핵보다는	북핵/NNG+보다/JKB+는/JX
+인공지능(AI)	인공/NNG+지능/NNG+(/SS+AI/SL+)/SS
+때문일	때문/NNB+이/VCP+ㄹ/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+경고했다.	경고/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.4.1
+대표적인 ‘AI 회의론자’로 꼽히는 머스크 CEO는 4일 새벽 자신의 트위터에 “북한 핵실험은 현존하는 문명 위기 우려 목록의 아래쪽에 위치해야 할 것”이라며 “국가 차원에서 진행되고 있는 AI 우월성 경쟁이 3차 대전의 원인이 될 가능성이 크다”고 주장했다.
+
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+‘AI	‘/SS+AI/SL
+회의론자’로	회의론자/NNG+’/SS+로/JKB
+꼽히는	꼽히/VV+는/ETM
+머스크	머스크/NNP
+CEO는	CEO/SL+는/JX
+4일	4/SN+일/NNB
+새벽	새벽/NNG
+자신의	자신/NNG+의/JKG
+트위터에	트위터/NNP+에/JKB
+“북한	“/SS+북한/NNP
+핵실험은	핵/NNG+실험/NNG+은/JX
+현존하는	현존/NNG+하/XSV+는/ETM
+문명	문명/NNG
+위기	위기/NNG
+우려	우려/NNG
+목록의	목록/NNG+의/JKG
+아래쪽에	아래쪽/NNG+에/JKB
+위치해야	위치/NNG+하/XSV+아야/EC
+할	하/VX+ㄹ/ETM
+것”이라며	것/NNB+”/SS+이/VCP+라며/EC
+“국가	“/SS+국가/NNG
+차원에서	차원/NNG+에서/JKB
+진행되고	진행/NNG+되/XSV+고/EC
+있는	있/VX+는/ETM
+AI	AI/SL
+우월성	우월/NNG+성/XSN
+경쟁이	경쟁/NNG+이/JKS
+3차	3/SN+차/NNB
+대전의	대전/NNG+의/JKG
+원인이	원인/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+크다”고	크/VA+다/EF+”/SS+고/JKQ
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.4.2
+3일 북한의 6차 핵실험으로 글로벌 안보 위기가 고조된 상황을 빗대 자신의 ‘AI 개발 경쟁의 위험론’을 강조하고 나선 것이다.
+
+3일	3/SN+일/NNB
+북한의	북한/NNP+의/JKG
+6차	6/SN+차/NNB
+핵실험으로	핵/NNG+실험/NNG+으로/JKB
+글로벌	글로벌/NNG
+안보	안보/NNG
+위기가	위기/NNG+가/JKS
+고조된	고조/NNG+되/XSV+ㄴ/ETM
+상황을	상황/NNG+을/JKO
+빗대	빗대/VV+어/EC
+자신의	자신/NNG+의/JKG
+‘AI	‘/SS+AI/SL
+개발	개발/NNG
+경쟁의	경쟁/NNG+의/JKG
+위험론’을	위험/NNG+론/XSN+’/SS+을/JKO
+강조하고	강조/NNG+하/XSV+고/EC
+나선	나서/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.4.3
+한 트위터 사용자가 전쟁 발발 가능성을 우려하자 머스크는 “국가 지도자들에 의해 전쟁이 시작되기보다는 AI에 의해 전쟁이 발발할 수 있다.
+
+한	한/MMN
+트위터	트위터/NNP
+사용자가	사용자/NNG+가/JKS
+전쟁	전쟁/NNG
+발발	발발/NNG
+가능성을	가능/NNG+성/XSN+을/JKO
+우려하자	우려/NNG+하/XSV+자/EC
+머스크는	머스크/NNP+는/JX
+“국가	“/SS+국가/NNG
+지도자들에	지도자/NNG+들/XSN+에/JKB
+의해	의하/VV+아/EC
+전쟁이	전쟁/NNG+이/JKS
+시작되기보다는	시작/NNG+되/XSV+기/ETN+보다/JKB+는/JX
+AI에	AI/SL+에/JKB
+발발할	발발/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000053.45.4.4
+AI가 ‘선제공격이 승리를 위한 가장 좋은 방안’이라고 결정한다면 전쟁이 나게 될 것”이라고 답했다.
+
+AI가	AI/SL+가/JKS
+‘선제공격이	‘/SS+선제공격/NNG+이/JKS
+승리를	승리/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+가장	가장/MAG
+좋은	좋/VA+은/ETM
+방안’이라고	방안/NNG+’/SS+이라고/JKQ
+결정한다면	결정/NNG+하/XSV+ㄴ다면/EC
+전쟁이	전쟁/NNG+이/JKS
+나게	나/VV+게/EC
+될	되/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+답했다.	답/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.5.1
+그는 “현재 미국 중국 인도가 AI 개발 경쟁을 이끌고 있지만 다른 국가들도 어떻게 해서든 따라잡으려 할 것”이라며 국가들이 통상적인 법을 따를 필요가 없고, 관련 회사들을 협박해 원하는 AI를 얻을 수 있다고 우려했다.
+
+그는	그/NP+는/JX
+“현재	“/SS+현재/MAG
+미국	미국/NNP
+중국	중국/NNP
+인도가	인도/NNP+가/JKS
+AI	AI/SL
+개발	개발/NNG
+경쟁을	경쟁/NNG+을/JKO
+이끌고	이끌/VV+고/EC
+있지만	있/VX+지만/EC
+다른	다른/MMD
+국가들도	국가/NNG+들/XSN+도/JX
+어떻게	어떻/VA+게/EC
+해서든	하/VV+아서/EC+든/JX
+따라잡으려	따라잡/VV+으려/EC
+할	하/VX+ㄹ/ETM
+것”이라며	것/NNB+”/SS+이/VCP+라며/EC
+국가들이	국가/NNG+들/XSN+이/JKS
+통상적인	통상/NNG+적/XSN+이/VCP+ㄴ/ETM
+법을	법/NNG+을/JKO
+따를	따르/VV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+없고,	없/VA+고/EC+,/SP
+관련	관련/NNG
+회사들을	회사/NNG+들/XSN+을/JKO
+협박해	협박/NNG+하/XSV+아/EC
+원하는	원/NNG+하/XSV+는/ETM
+AI를	AI/SL+를/JKO
+얻을	얻/VV+을/ETM
+수	수/NNB
+있다고	있/VA+다고/EC
+우려했다.	우려/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.6.1
+CNN 등 외신들은 머스크가 갑작스럽게 3차 대전 발언을 꺼낸 것은 1일 나온 블라디미르 푸틴 러시아 대통령의 AI 발언을 반박하기 위해서라고 풀이했다.
+
+CNN	CNN/SL
+등	등/NNB
+외신들은	외신/NNG+들/XSN+은/JX
+머스크가	머스크/NNP+가/JKS
+갑작스럽게	갑작스럽/VA+게/EC
+3차	3/SN+차/NNB
+대전	대전/NNG
+발언을	발언/NNG+을/JKO
+꺼낸	꺼내/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+1일	1/SN+일/NNB
+나온	나오/VV+ㄴ/ETM
+블라디미르	블라디미르/NNP
+푸틴	푸틴/NNP
+러시아	러시아/NNP
+대통령의	대통령/NNG+의/JKG
+AI	AI/SL
+반박하기	반박/NNG+하/XSV+기/ETN
+위해서라고	위하/VV+아서/EC+이/VCP+라고/EC
+풀이했다.	풀이/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.6.2
+푸틴 대통령은 대학생을 대상으로 한 진로 포럼에서 “AI는 러시아뿐만 아니라 모든 인류의 미래”라며 “이 영역에서 지도자가 되는 사람이 세계의 통치자가 될 것”이라고 주장해 머스크를 자극했다.
+
+푸틴	푸틴/NNP
+대통령은	대통령/NNG+은/JX
+대학생을	대학/NNG+생/XSN+을/JKO
+대상으로	대상/NNG+으로/JKB
+한	하/VV+ㄴ/ETM
+진로	진로/NNG
+포럼에서	포럼/NNG+에서/JKB
+“AI는	“/SS+AI/SL+는/JX
+러시아뿐만	러시아/NNP+뿐/JX+만/JX
+아니라	아니/VCN+라/EC
+모든	모든/MMN
+인류의	인류/NNG+의/JKG
+미래”라며	미래/NNG+”/SS+이/VCP+라며/EC
+“이	“/SS+이/MMD
+영역에서	영역/NNG+에서/JKB
+지도자가	지도자/NNG+가/JKC
+되는	되/VV+는/ETM
+사람이	사람/NNG+이/JKS
+세계의	세계/NNG+의/JKG
+통치자가	통치자/NNG+가/JKC
+될	되/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+주장해	주장/NNG+하/XSV+아/EC
+머스크를	머스크/NNP+를/JKO
+자극했다.	자극/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.7.1
+머스크는 기술 기반 기업인 ‘테슬라’와 ‘스페이스X’ 등의 창립자 겸 최고경영자이지만 유독 AI에 대해 깊은 회의를 표명해 왔다.
+
+머스크는	머스크/NNP+는/JX
+기술	기술/NNG
+기반	기반/NNG
+기업인	기업/NNG+이/VCP+ㄴ/ETM
+‘테슬라’와	‘/SS+테슬라/NNP+’/SS+와/JC
+‘스페이스X’	‘/SS+스페이스X/NNP+’/SS
+등의	등/NNB+의/JKG
+창립자	창립자/NNG
+겸	겸/NNB
+최고경영자이지만	최고/NNG+경영자/NNG+이/VCP+지만/EC
+유독	유독/MAG
+AI에	AI/SL+에/JKB
+대해	대하/VV+아/EC
+깊은	깊/VA+은/ETM
+회의를	회의/NNG+를/JKO
+표명해	표명/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.7.2
+7월 말엔 대표적인 AI 찬성론자인 마크 저커버그 페이스북 CEO와 AI의 위험성을 놓고 공개 설전을 벌였다.
+
+7월	7/SN+월/NNB
+말엔	말/NNB+에/JKB+ㄴ/JX
+대표적인	대표/NNG+적/XSN+이/VCP+ㄴ/ETM
+AI	AI/SL
+찬성론자인	찬성론자/NNG+이/VCP+ㄴ/ETM
+마크	마크/NNP
+저커버그	저커버그/NNP
+페이스북	페이스북/NNP
+CEO와	CEO/SL+와/JC
+AI의	AI/SL+의/JKG
+위험성을	위험/NNG+성/XSN+을/JKO
+놓고	놓/VV+고/EC
+공개	공개/NNG
+설전을	설전/NNG+을/JKO
+벌였다.	벌이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.7.3
+그는 AI를 적절히 규제하지 않으면 영화 ‘터미네이터’처럼 인류의 미래가 위협당하는 상황이 벌어질 것이라고 주장했다.
+
+그는	그/NP+는/JX
+AI를	AI/SL+를/JKO
+적절히	적절히/MAG
+규제하지	규제/NNG+하/XSV+지/EC
+않으면	않/VX+으면/EC
+영화	영화/NNG
+‘터미네이터’처럼	‘/SS+터미네이터/NNP+’/SS+처럼/JKB
+인류의	인류/NNG+의/JKG
+미래가	미래/NNG+가/JKS
+위협당하는	위협/NNG+당하/XSV+는/ETM
+상황이	상황/NNG+이/JKS
+벌어질	벌어지/VV+ㄹ/ETM
+것이라고	것/NNB+이/VCP+라고/EC
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.8.1
+머스크는 AI의 지능이 인간의 지능을 추월하는 날에 대비해 다양한 기술을 구비해야 한다고 강조한다.
+
+머스크는	머스크/NNP+는/JX
+AI의	AI/SL+의/JKG
+지능이	지능/NNG+이/JKS
+인간의	인간/NNG+의/JKG
+지능을	지능/NNG+을/JKO
+추월하는	추월/NNG+하/XSV+는/ETM
+날에	날/NNG+에/JKB
+대비해	대비/NNG+하/XSV+아/EC
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+기술을	기술/NNG+을/JKO
+구비해야	구비/NNG+하/XSV+아야/EC
+한다고	하/VX+ㄴ다고/EC
+강조한다.	강조/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.45.8.2
+우주개발업체 ‘스페이스X’를 통해 화성 식민지를 개발하고, 바이오 기술회사 ‘뉴로링크’를 설립해 뇌 임플란트(뇌와 컴퓨터를 연결해 인간 지능 향상)를 연구하는 것도 이런 대비책 중 하나다.
+
+우주개발업체	우주/NNG+개발업체/NNG
+‘스페이스X’를	‘/SS+스페이스X/NNP+’/SS+를/JKO
+통해	통하/VV+아/EC
+화성	화성/NNP
+식민지를	식민지/NNG+를/JKO
+개발하고,	개발/NNG+하/XSV+고/EC+,/SP
+바이오	바이오/NNG
+기술회사	기술/NNG+회사/NNG
+‘뉴로링크’를	‘/SS+뉴로링크/NNP+’/SS+를/JKO
+설립해	설립/NNG+하/XSV+아/EC
+뇌	뇌/NNG
+임플란트(뇌와	임플란트/NNG+(/SS+뇌/NNG+와/JC
+컴퓨터를	컴퓨터/NNG+를/JKO
+연결해	연결/NNG+하/XSV+아/EC
+인간	인간/NNG
+지능	지능/NNG
+향상)를	향상/NNG+)/SS+를/JKO
+연구하는	연구/NNG+하/XSV+는/ETM
+것도	것/NNB+도/JX
+이런	이런/MMD
+대비책	대비책/NNG
+중	중/NNB
+하나다.	하나/NR+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.45.9.1
+머스크와 함께 AI의 발전을 경계하는 인물로는 스티븐 호킹 박사와 빌 게이츠 마이크로소프트(MS) 창업자가 있다.
+
+머스크와	머스크/NNP+와/JKB
+함께	함께/MAG
+AI의	AI/SL+의/JKG
+발전을	발전/NNG+을/JKO
+경계하는	경계/NNG+하/XSV+는/ETM
+인물로는	인물/NNG+로/JKB+는/JX
+스티븐	스티븐/NNP
+호킹	호킹/NNP
+박사와	박사/NNG+와/JC
+빌	빌/NNP
+게이츠	게이츠/NNP
+마이크로소프트(MS)	마이크로소프트/NNP+(/SS+MS/SL+)/SS
+창업자가	창업자/NNG+가/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000053.45.9.2
+게이츠 역시 최근 AI 로봇으로 인한 일자리 파괴의 심각성을 경고하며 ‘로봇세(Robot Tax)’ 도입을 주장하기도 했다.
+
+게이츠	게이츠/NNP
+역시	역시/MAG
+최근	최근/MAG
+AI	AI/SL
+로봇으로	로봇/NNG+으로/JKB
+인한	인/NNG+하/XSV+ㄴ/ETM
+일자리	일자리/NNG
+파괴의	파괴/NNG+의/JKG
+심각성을	심각성/NNG+을/JKO
+경고하며	경고/NNG+하/XSV+며/EC
+‘로봇세(Robot	‘/SS+로봇/NNG+세/NNG+(/SS+Robot/SL
+Tax)’	Tax/SL+)/SS+’/SS
+도입을	도입/NNG+을/JKO
+주장하기도	주장/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+

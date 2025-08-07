@@ -1,0 +1,407 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.17
+metadata : {}
+
+
+# id : NWRW1800000041.17.1.1
+하성민 SK텔레콤 사장 “평창올림픽때 5G 첫선… 착한 ICT노믹스 주도”
+
+하성민	하성민/NNP
+SK텔레콤	SK텔레콤/NNP
+사장	사장/NNG
+“평창올림픽때	“/SS+평창/NNP+올림픽/NNG+때/NNG
+5G	5/SN+G/SL
+첫선…	첫선/NNG+…/SE
+착한	착하/VA+ㄴ/ETM
+ICT노믹스	ICT노믹스/NNG
+주도”	주도/NNG+”/SS
+
+
+# id : NWRW1800000041.17.2.1
+“앞으로 30년간 세계 경제는 ‘ICT(정보통신기술)노믹스(ICT+economics)’에 의해 움직일 것입니다.
+
+“앞으로	“/SS+앞/NNG+으로/JKB
+30년간	30/SN+년/NNB+간/XSN
+세계	세계/NNG
+경제는	경제/NNG+는/JX
+‘ICT(정보통신기술)노믹스(ICT+economics)’에	‘/SS+ICT/SL+(/SS+정보/NNG+통신/NNG+기술/NNG+)/SS+노믹스/NNG+(/SS+ICT/SL++/SW+economics/SL+)/SS+’/SS+에/JKB
+의해	의하/VV+아/EC
+움직일	움직이/VV+ㄹ/ETM
+것입니다.	것/NNB+이/VCP+ㅂ니다/EF+./SF
+
+
+# id : NWRW1800000041.17.2.2
+ICT로 인간과 모든 사물이 연결되고 산업도 재편되면서 ICT가 사회의 혁명적 변화에 촉매가 될 거란 뜻입니다.”
+
+ICT로	ICT/SL+로/JKB
+인간과	인간/NNG+과/JC
+모든	모든/MMN
+사물이	사물/NNG+이/JKS
+연결되고	연결/NNG+되/XSV+고/EC
+산업도	산업/NNG+도/JX
+재편되면서	재편/NNG+되/XSV+면서/EC
+ICT가	ICT/SL+가/JKS
+사회의	사회/NNG+의/JKG
+혁명적	혁명/NNG+적/XSN
+변화에	변화/NNG+에/JKB
+촉매가	촉매/NNG+가/JKC
+될	되/VV+ㄹ/ETM
+거란	거/NNB+이/VCP+란/ETM
+뜻입니다.”	뜻/NNG+이/VCP+ㅂ니다/EF+./SF+”/SS
+
+
+# id : NWRW1800000041.17.3.1
+하성민 SK텔레콤 사장이 29일 서울 중구 명동 전국은행연합회관에서 열린 ‘ICT 발전 대토론회’에 기조연설자로 참석해 미래 30년의 ICT 발전을 화두로 ‘ICT노믹스’를 제시했다.
+
+하성민	하성민/NNP
+SK텔레콤	SK텔레콤/NNP
+사장이	사장/NNG+이/JKS
+29일	29/SN+일/NNB
+서울	서울/NNP
+중구	중구/NNP
+명동	명동/NNP
+전국은행연합회관에서	전국은행연합회관/NNP+에서/JKB
+열린	열리/VV+ㄴ/ETM
+‘ICT	‘/SS+ICT/SL
+발전	발전/NNG
+대토론회’에	대/XPN+토론회/NNG+’/SS+에/JKB
+기조연설자로	기조/NNG+연설자/NNG+로/JKB
+참석해	참석/NNG+하/XSV+아/EC
+미래	미래/NNG
+30년의	30/SN+년/NNB+의/JKG
+ICT	ICT/SL
+발전을	발전/NNG+을/JKO
+화두로	화두/NNG+로/JKB
+‘ICT노믹스’를	‘/SS+ICT노믹스/NNG+’/SS+를/JKO
+제시했다.	제시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.3.2
+‘ICT 노믹스’는 3월 말 창립 30주년을 맞은 SK텔레콤이 그리는 미래 청사진이다.
+
+‘ICT	‘/SS+ICT/SL
+노믹스’는	노믹스/NNG+’/SS+는/JX
+3월	3/SN+월/NNB
+말	말/NNB
+창립	창립/NNG
+30주년을	30/SN+주년/NNB+을/JKO
+맞은	맞/VV+은/ETM
+SK텔레콤이	SK텔레콤/NNP+이/JKS
+그리는	그리/VV+는/ETM
+미래	미래/NNG
+청사진이다.	청사진/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.4.1
+하 사장은 “ICT노믹스 시대에는 변화의 속도만큼이나 변화의 방향성이 중요하다”고 말했다.
+
+하	하/NNP
+사장은	사장/NNG+은/JX
+“ICT노믹스	“/SS+ICT노믹스/NNG
+시대에는	시대/NNG+에/JKB+는/JX
+변화의	변화/NNG+의/JKG
+속도만큼이나	속도/NNG+만큼/JKB+이나/JX
+방향성이	방향/NNG+성/XSN+이/JKS
+중요하다”고	중요/NNG+하/XSA+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.4.2
+SK텔레콤은 이를 위해 ‘착한 ICT 연구소’를 만들고 ‘착한 ICT노믹스’ 프로젝트를 추진할 계획이다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+이를	이/NP+를/JKO
+위해	위하/VV+아/EC
+‘착한	‘/SS+착하/VA+ㄴ/ETM
+ICT	ICT/SL
+연구소’를	연구소/NNG+’/SS+를/JKO
+만들고	만들/VV+고/EC
+ICT노믹스’	ICT노믹스/NNG+’/SS
+프로젝트를	프로젝트/NNG+를/JKO
+추진할	추진/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.5.1
+2020년까지 본격적인 5세대(5G) 이동통신 시대를 여는 세계 최초의 이동통신사로 도약한다는 것이 SK텔레콤의 비전이다.
+
+2020년까지	2020/SN+년/NNB+까지/JX
+본격적인	본격/NNG+적/XSN+이/VCP+ㄴ/ETM
+5세대(5G)	5/SN+세대/NNG+(/SS+5/SN+G/SL+)/SS
+이동통신	이동/NNG+통신/NNG
+시대를	시대/NNG+를/JKO
+여는	열/VV+는/ETM
+세계	세계/NNG
+최초의	최초/NNG+의/JKG
+이동통신사로	이동/NNG+통신사/NNG+로/JKB
+도약한다는	도약/NNG+하/XSV+ㄴ다는/ETM
+것이	것/NNB+이/JKS
+SK텔레콤의	SK텔레콤/NNP+의/JKG
+비전이다.	비전/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.5.2
+SK텔레콤은 5G통신망의 목표 속도로 현재 롱텀에볼루션(LTE) 속도보다 약 1000배 빠른 100Gbps를 제시하고 있다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+5G통신망의	5/SN+G/SL+통신망/NNG+의/JKG
+목표	목표/NNG
+속도로	속도/NNG+로/JKB
+현재	현재/MAG
+롱텀에볼루션(LTE)	롱텀에볼루션/NNG+(/SS+LTE/SL+)/SS
+속도보다	속도/NNG+보다/JKB
+약	약/MMA
+1000배	1000/SN+배/NNG
+빠른	빠르/VA+ㄴ/ETM
+100Gbps를	100/SN+Gbps/SW+를/JKO
+제시하고	제시/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.17.5.3
+SK텔레콤은 2018년 평창 겨울올림픽에서 5G 기술을 시연해 보일 예정이다.
+
+SK텔레콤은	SK텔레콤/NNP+은/JX
+2018년	2018/SN+년/NNB
+평창	평창/NNP
+겨울올림픽에서	겨울/NNG+올림픽/NNG+에서/JKB
+5G	5/SN+G/SL
+기술을	기술/NNG+을/JKO
+시연해	시연/NNG+하/XSV+아/EC
+보일	보이/VV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.6.1
+하 사장은 “빠른 변화만큼이나 중요한 것이 바른 변화”라며 “연내에 ‘착한 ICT 연구소’를 설립하려는 취지는 속도에 매몰돼 기술 변화의 올바른 방향을 놓치지 않겠다는 것”이라고 설명했다.
+
+하	하/NNP
+사장은	사장/NNG+은/JX
+“빠른	“/SS+빠르/VA+ㄴ/ETM
+변화만큼이나	변화/NNG+만큼/JKB+이나/JX
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+것이	것/NNB+이/JKS
+바른	바르/VA+ㄴ/ETM
+변화”라며	변화/NNG+”/SS+이/VCP+라며/EC
+“연내에	“/SS+연내/NNG+에/JKB
+‘착한	‘/SS+착하/VA+ㄴ/ETM
+ICT	ICT/SL
+연구소’를	연구소/NNG+’/SS+를/JKO
+설립하려는	설립/NNG+하/XSV+려는/ETM
+취지는	취지/NNG+는/JX
+속도에	속도/NNG+에/JKB
+매몰돼	매몰/NNG+되/XSV+어/EC
+기술	기술/NNG
+변화의	변화/NNG+의/JKG
+올바른	올바르/VA+ㄴ/ETM
+방향을	방향/NNG+을/JKO
+놓치지	놓치/VV+지/EC
+않겠다는	않/VX+겠/EP+다는/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.6.2
+착한 ICT 연구소는 디지털 세대격차, 청소년의 스마트폰 중독 문제 등 ICT 발전의 부작용을 줄이기 위한 방법을 연구할 예정이다.
+
+착한	착하/VA+ㄴ/ETM
+ICT	ICT/SL
+연구소는	연구소/NNG+는/JX
+디지털	디지털/NNG
+세대격차,	세대/NNG+격차/NNG+,/SP
+청소년의	청소년/NNG+의/JKG
+스마트폰	스마트폰/NNG
+중독	중독/NNG
+문제	문제/NNG
+등	등/NNB
+발전의	발전/NNG+의/JKG
+부작용을	부작용/NNG+을/JKO
+줄이기	줄이/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+방법을	방법/NNG+을/JKO
+연구할	연구/NNG+하/XSV+ㄹ/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.6.3
+하 사장은 “연구소에는 ICT 산업에 대해 채찍질과 쓴소리를 해 줄 수 있는 자문단도 여럿 모실 것”이라고 밝혔다.
+
+하	하/NNP
+사장은	사장/NNG+은/JX
+“연구소에는	“/SS+연구소/NNG+에/JKB+는/JX
+ICT	ICT/SL
+산업에	산업/NNG+에/JKB
+대해	대하/VV+아/EC
+채찍질과	채찍/NNG+질/XSN+과/JC
+쓴소리를	쓴소리/NNG+를/JKO
+해	하/VV+아/EC
+줄	주/VX+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+자문단도	자문단/NNG+도/JX
+여럿	여럿/NNG
+모실	모시/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.7.1
+하 사장은 ICT노믹스 사회의 미래를 조명하며 △사물인터넷(IoT·Internet of Things) △빅데이터 △인공지능 △3차원(3D)프린터 등 4대 분야를 향후 10년간 가장 치열한 경쟁이 벌어질 최대 격전 산업으로 꼽았다.
+
+하	하/NNP
+사장은	사장/NNG+은/JX
+ICT노믹스	ICT노믹스/NNG
+사회의	사회/NNG+의/JKG
+미래를	미래/NNG+를/JKO
+조명하며	조명/NNG+하/XSV+며/EC
+△사물인터넷(IoT·Internet	△/SW+사물/NNG+인터넷/NNG+(/SS+IoT/SL+·/SP+Internet/SL
+of	of/SL
+Things)	Things/SL+)/SS
+△빅데이터	△/SW+빅데이터/NNG
+△인공지능	△/SW+인공/NNG+지능/NNG
+△3차원(3D)프린터	△/SW+3/SN+차원/NNG+(/SS+3/SN+D/SL+)/SS+프린터/NNG
+등	등/NNB
+4대	4/SN+대/NNG
+분야를	분야/NNG+를/JKO
+향후	향후/NNG
+10년간	10/SN+년/NNB+간/XSN
+가장	가장/MAG
+치열한	치열/NNG+하/XSA+ㄴ/ETM
+경쟁이	경쟁/NNG+이/JKS
+벌어질	벌어지/VV+ㄹ/ETM
+최대	최대/NNG
+격전	격전/NNG
+산업으로	산업/NNG+으로/JKB
+꼽았다.	꼽/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.8.1
+그는 “사물인터넷은 글로벌 경제가 한 번 더 도약할 수 있는 핵심 기술 중 하나가 될 것이며 빅데이터는 기업 경영의 핵심 인프라로 부상할 것”이라고 말했다.
+
+그는	그/NP+는/JX
+“사물인터넷은	“/SS+사물/NNG+인터넷/NNG+은/JX
+글로벌	글로벌/NNG
+경제가	경제/NNG+가/JKS
+한	한/MMN
+번	번/NNB
+더	더/MAG
+도약할	도약/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+핵심	핵심/NNG
+기술	기술/NNG
+중	중/NNB
+하나가	하나/NR+가/JKC
+될	되/VV+ㄹ/ETM
+것이며	것/NNB+이/VCP+며/EC
+빅데이터는	빅데이터/NNG+는/JX
+기업	기업/NNG
+경영의	경영/NNG+의/JKG
+인프라로	인프라/NNG+로/JKB
+부상할	부상/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.8.2
+또 “인공지능 기술은 인간의 라이프스타일 전반을 변화시킬 것”이라고 기대했다.
+
+또	또/MAG
+“인공지능	“/SS+인공/NNG+지능/NNG
+기술은	기술/NNG+은/JX
+인간의	인간/NNG+의/JKG
+라이프스타일	라이프스타일/NNG
+전반을	전반/NNG+을/JKO
+변화시킬	변화/NNG+시키/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+기대했다.	기대/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.8.3
+실제 SK텔레콤은 최근 네이버 등에서 외부 인재를 영입해 사물인터넷 및 빅데이터 역량을 키우고 있다.
+
+실제	실제/MAG
+SK텔레콤은	SK텔레콤/NNP+은/JX
+최근	최근/MAG
+네이버	네이버/NNP
+등에서	등/NNB+에서/JKB
+외부	외부/NNG
+인재를	인재/NNG+를/JKO
+영입해	영입/NNG+하/XSV+아/EC
+사물인터넷	사물/NNG+인터넷/NNG
+및	및/MAG
+빅데이터	빅데이터/NNG
+역량을	역량/NNG+을/JKO
+키우고	키우/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.17.9.1
+또 3D프린팅에 대해 그는 “디자인·설계·제조 전 과정에서 엄청난 속도의 혁신이 일어날 것”이라며 “동시에 누구나 제조에 참여할 수 있게 되면서 다양한 산업분야의 변화를 이끌 것”이라고 내다봤다.
+
+또	또/MAG
+3D프린팅에	3/SN+D/SL+프린팅/NNG+에/JKB
+대해	대하/VV+아/EC
+그는	그/NP+는/JX
+“디자인·설계·제조	“/SS+디자인/NNG+·/SP+설계/NNG+·/SP+제조/NNG
+전	전/MMN
+과정에서	과정/NNG+에서/JKB
+엄청난	엄청나/VA+ㄴ/ETM
+속도의	속도/NNG+의/JKG
+혁신이	혁신/NNG+이/JKS
+일어날	일어나/VV+ㄹ/ETM
+것”이라며	것/NNB+”/SS+이/VCP+라며/EC
+“동시에	“/SS+동시/NNG+에/JKB
+누구나	누구/NP+나/JX
+제조에	제조/NNG+에/JKB
+참여할	참여/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+되면서	되/VV+면서/EC
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+산업분야의	산업/NNG+분야/NNG+의/JKG
+변화를	변화/NNG+를/JKO
+이끌	이끌/VV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+내다봤다.	내다보/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.10.1
+하 사장은 ICT가 ‘Innovation(혁신)·Cooperation(협력)·Transformation(새로운 전환)’으로도 해석 가능하다고 말했다.
+
+하	하/NNP
+사장은	사장/NNG+은/JX
+ICT가	ICT/SL+가/JKS
+‘Innovation(혁신)·Cooperation(협력)·Transformation(새로운	‘/SS+Innovation/SL+(/SS+혁신/NNG+)/SS+·/SP+Cooperation/SL+(/SS+협력/NNG+)/SS+·/SP+Transformation/SL+(/SS+새롭/VA+ㄴ/ETM
+전환)’으로도	전환/NNG+)/SS+’/SS+으로/JKB+도/JX
+해석	해석/NNG
+가능하다고	가능/NNG+하/XSA+다고/EC
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.17.10.2
+그는 “19세기에는 석탄과 철을 지배하는 국가가 산업혁명을 주도했지만 미래에는 ICT 기술을 가진 자가 세계를 주도할 것”이라고 역설했다.
+
+그는	그/NP+는/JX
+“19세기에는	“/SS+19/SN+세기/NNG+에/JKB+는/JX
+석탄과	석탄/NNG+과/JC
+철을	철/NNG+을/JKO
+지배하는	지배/NNG+하/XSV+는/ETM
+국가가	국가/NNG+가/JKS
+산업혁명을	산업/NNG+혁명/NNG+을/JKO
+주도했지만	주도/NNG+하/XSV+았/EP+지만/EC
+미래에는	미래/NNG+에/JKB+는/JX
+ICT	ICT/SL
+기술을	기술/NNG+을/JKO
+가진	가지/VV+ㄴ/ETM
+자가	자/NNB+가/JKS
+세계를	세계/NNG+를/JKO
+주도할	주도/NNG+하/XSV+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+역설했다.	역설/NNG+하/XSV+았/EP+다/EF+./SF
+
+

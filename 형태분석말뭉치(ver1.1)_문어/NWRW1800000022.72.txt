@@ -1,0 +1,324 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.72
+metadata : {}
+
+
+# id : NWRW1800000022.72.1.1
+[기업 미래 전략] 친환경 지향하는 신한은행;태양광 발전소 등 환경 사업에 2920억원 지원
+
+[기업	[/SS+기업/NNG
+미래	미래/NNG
+전략]	전략/NNG+]/SS
+친환경	친/XPN+환경/NNG
+지향하는	지향/NNG+하/XSV+는/ETM
+신한은행;태양광	신한은행/NNP+;/SW+태양광/NNG
+발전소	발전소/NNG
+등	등/NNB
+환경	환경/NNG
+사업에	사업/NNG+에/JKB
+2920억원	2920/SN+억/NR+원/NNB
+지원	지원/NNG
+
+
+# id : NWRW1800000022.72.2.1
+'은행도 환경 보호에 책임을 진다.'
+
+'은행도	'/SS+은행/NNG+도/JX
+환경	환경/NNG
+보호에	보호/NNG+에/JKB
+책임을	책임/NNG+을/JKO
+진다.'	지/VV+ㄴ다/EF+./SF+'/SS
+
+
+# id : NWRW1800000022.72.3.1
+신한은행이 은행 본연의 업무와 함께 사회적 책임을 다하기 위해 '환경'에 역점을 두고 있다.
+
+신한은행이	신한은행/NNP+이/JKS
+은행	은행/NNG
+본연의	본연/NNG+의/JKG
+업무와	업무/NNG+와/JKB
+함께	함께/MAG
+사회적	사회/NNG+적/XSN
+책임을	책임/NNG+을/JKO
+다하기	다/MAG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+'환경'에	'/SS+환경/NNG+'/SS+에/JKB
+역점을	역점/NNG+을/JKO
+두고	두/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.3.2
+특히 작년 초 사회적 책임을 다하기 위한 은행의 4대 전략을 세우면서 '환경 지향'을 하나로 선정했다.
+
+특히	특히/MAG
+작년	작년/NNG
+초	초/NNB
+사회적	사회/NNG+적/XSN
+책임을	책임/NNG+을/JKO
+다하기	다/MAG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+은행의	은행/NNG+의/JKG
+4대	4/SN+대/NNG
+전략을	전략/NNG+을/JKO
+세우면서	세우/VV+면서/EC
+'환경	'/SS+환경/NNG
+지향'을	지향/NNG+'/SS+을/JKO
+하나로	하나/NR+로/JKB
+선정했다.	선정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.4.1
+신한은행은 작년 초 환경재단의 기후변화센터 설립을 후원하면서 환경재단의 회원이 됐다.
+
+신한은행은	신한은행/NNP+은/JX
+작년	작년/NNG
+초	초/NNB
+환경재단의	환경/NNG+재단/NNG+의/JKG
+기후변화센터	기후/NNG+변화/NNG+센터/NNG
+설립을	설립/NNG+을/JKO
+후원하면서	후원/NNG+하/XSV+면서/EC
+회원이	회원/NNG+이/JKC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.4.2
+기후변화센터의 '스톱 CO₂' 캠페인에도 참여하고 있다.
+
+기후변화센터의	기후/NNG+변화/NNG+센터/NNG+의/JKG
+'스톱	'/SS+스톱/NNG
+CO₂'	CO₂/SW+'/SS
+캠페인에도	캠페인/NNG+에/JKB+도/JX
+참여하고	참여/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.5.1
+신한은행은 환경 지키기를 위한 국제적인 활동에도 참여하고 있다.
+
+신한은행은	신한은행/NNP+은/JX
+환경	환경/NNG
+지키기를	지키/VV+기/ETN+를/JKO
+위한	위하/VV+ㄴ/ETM
+국제적인	국제/NNG+적/XSN+이/VCP+ㄴ/ETM
+활동에도	활동/NNG+에/JKB+도/JX
+참여하고	참여/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.5.2
+2007년 한국 금융회사 가운데 최초로 CDP(Cargon Disclosure Project·탄소공개프로젝트)를 지지하는 서명을 했다.
+
+2007년	2007/SN+년/NNB
+한국	한국/NNP
+금융회사	금융/NNG+회사/NNG
+가운데	가운데/NNG
+최초로	최초/NNG+로/JKB
+CDP(Cargon	CDP/SL+(/SS+Cargon/SL
+Disclosure	Disclosure/SL
+Project·탄소공개프로젝트)를	Project/SL+·/SP+탄소/NNG+공개/NNG+프로젝트/NNG+)/SS+를/JKO
+지지하는	지지/NNG+하/XSV+는/ETM
+서명을	서명/NNG+을/JKO
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.5.3
+CDP는 세계 주요 상장회사들이 탄소 배출과 저감에 관련된 정보를 일정 수준으로 공개하길 요구하는 글로벌 프로젝트다.
+
+CDP는	CDP/SL+는/JX
+세계	세계/NNG
+주요	주요/NNG
+상장회사들이	상장/NNG+회사/NNG+들/XSN+이/JKS
+탄소	탄소/NNG
+배출과	배출/NNG+과/JC
+저감에	저감/NNG+에/JKB
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+정보를	정보/NNG+를/JKO
+일정	일정/NNG
+수준으로	수준/NNG+으로/JKB
+공개하길	공개/NNG+하/XSV+기/ETN+ㄹ/JKO
+요구하는	요구/NNG+하/XSV+는/ETM
+글로벌	글로벌/NNG
+프로젝트다.	프로젝트/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.6.1
+작년 1월엔 '국제연합환경계획 금융이니셔티브(UNEP FI)'에도 가입했다.
+
+작년	작년/NNG
+1월엔	1/SN+월/NNB+에/JKB+ㄴ/JX
+'국제연합환경계획	'/SS+국제연합/NNP+환경/NNG+계획/NNG
+금융이니셔티브(UNEP	금융/NNG+이니셔티브/NNG+(/SS+UNEP/SL
+FI)'에도	FI/SL+)/SS+'/SS+에/JKB+도/JX
+가입했다.	가입/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.6.2
+이 기구는 환경 기준 미달 기업에 대한 대출 제한 등을 요구하고 있다.
+
+이	이/MMD
+기구는	기구/NNG+는/JX
+환경	환경/NNG
+기준	기준/NNG
+미달	미달/NNG
+기업에	기업/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+대출	대출/NNG
+제한	제한/NNG
+등을	등/NNB+을/JKO
+요구하고	요구/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.7.1
+신한은행은 환경과 관련된 사회공헌 사업도 지속적으로 확대하고 있다.
+
+신한은행은	신한은행/NNP+은/JX
+환경과	환경/NNG+과/JKB
+관련된	관련/NNG+되/XSV+ㄴ/ETM
+사회공헌	사회/NNG+공헌/NNG
+사업도	사업/NNG+도/JX
+지속적으로	지속/NNG+적/XSN+으로/JKB
+확대하고	확대/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.7.2
+2005년부터 시작한 '한 평 공원 만들기'는 동네의 버려진 땅을 놀이터나 노인들을 위한 쉼터로 바꾸는 사업이다.
+
+2005년부터	2005/SN+년/NNB+부터/JX
+시작한	시작/NNG+하/XSV+ㄴ/ETM
+'한	'/SS+한/MMN
+평	평/NNB
+공원	공원/NNG
+만들기'는	만들/VV+기/ETN+'/SS+는/JX
+동네의	동네/NNG+의/JKG
+버려진	버려지/VV+ㄴ/ETM
+땅을	땅/NNG+을/JKO
+놀이터나	놀이터/NNG+나/JC
+노인들을	노인/NNG+들/XSN+을/JKO
+위한	위하/VV+ㄴ/ETM
+쉼터로	쉼터/NNG+로/JKB
+바꾸는	바꾸/VV+는/ETM
+사업이다.	사업/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.8.1
+신한은행은 친(親)환경 관련 예금과 대출도 적극 개발하고 있다.
+
+신한은행은	신한은행/NNP+은/JX
+친(親)환경	친/XPN+(/SS+親/SH+)/SS+환경/NNG
+관련	관련/NNG
+예금과	예금/NNG+과/JC
+대출도	대출/NNG+도/JX
+적극	적극/NNG
+개발하고	개발/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.8.2
+고객이 에너지 절약을 실천하겠다는 서명을 한 후에 거래 실적에 따라 가산금리를 받는 '신한 희망애(愛)너지 적금', 물·에너지·폐기물 처리 등 기업에 투자하는 '신한 BNPP 봉쥬르 클린월드 주식투자신탁', 환경 책임을 다하는 기업에 선별 투자하는 '톱스(Tops) 아름다운 SRI 주식투자신탁 1호 클래스 A' 등을 판매하고 있다.
+
+고객이	고객/NNG+이/JKS
+에너지	에너지/NNG
+절약을	절약/NNG+을/JKO
+실천하겠다는	실천/NNG+하/XSV+겠/EP+다는/ETM
+서명을	서명/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+후에	후/NNG+에/JKB
+거래	거래/NNG
+실적에	실적/NNG+에/JKB
+따라	따르/VV+아/EC
+가산금리를	가산/NNG+금리/NNG+를/JKO
+받는	받/VV+는/ETM
+'신한	'/SS+신한/NNP
+희망애(愛)너지	희망/NNG+애/NA+(/SS+愛/SH+)/SS+너지/NA
+적금',	적금/NNG+'/SS+,/SP
+물·에너지·폐기물	물/NNG+·/SP+에너지/NNG+·/SP+폐기물/NNG
+처리	처리/NNG
+등	등/NNB
+기업에	기업/NNG+에/JKB
+투자하는	투자/NNG+하/XSV+는/ETM
+BNPP	BNPP/SL
+봉쥬르	봉쥬르/NNG
+클린월드	클린/NNG+월드/NNG
+주식투자신탁',	주식/NNG+투자/NNG+신탁/NNG+'/SS+,/SP
+환경	환경/NNG
+책임을	책임/NNG+을/JKO
+다하는	다/MAG+하/XSV+는/ETM
+선별	선별/NNG
+'톱스(Tops)	'/SS+톱스/NNG+(/SS+Tops/SL+)/SS
+아름다운	아름답/VA+ㄴ/ETM
+SRI	SRI/SL
+주식투자신탁	주식/NNG+투자/NNG+신탁/NNG
+1호	1/SN+호/NNB
+클래스	클래스/NNG
+A'	A/SL+'/SS
+등을	등/NNB+을/JKO
+판매하고	판매/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.72.9.1
+신한은행은 이미 태양광 발전소 33곳 건설에 2000억원을, 연료전지 발전사업, 생활·음식물류 폐기물 처리시설, 풍력발전사업 등에 920억원을 각각 지원했다.
+
+신한은행은	신한은행/NNP+은/JX
+이미	이미/MAG
+태양광	태양광/NNG
+발전소	발전소/NNG
+33곳	33/SN+곳/NNG
+건설에	건설/NNG+에/JKB
+2000억원을,	2000/SN+억/NR+원/NNB+을/JKO+,/SP
+연료전지	연료/NNG+전지/NNG
+발전사업,	발전/NNG+사업/NNG+,/SP
+생활·음식물류	생활/NNG+·/SP+음식물/NNG+류/XSN
+폐기물	폐기물/NNG
+처리시설,	처리/NNG+시설/NNG+,/SP
+풍력발전사업	풍력/NNG+발전/NNG+사업/NNG
+등에	등/NNB+에/JKB
+920억원을	920/SN+억/NR+원/NNB+을/JKO
+각각	각각/MAG
+지원했다.	지원/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.9.2
+신한은행은 작년 5월 '환경 및 에너지 관련 녹색성장 여신 운용 로드맵'을 만들었다.
+
+신한은행은	신한은행/NNP+은/JX
+작년	작년/NNG
+5월	5/SN+월/NNB
+'환경	'/SS+환경/NNG
+및	및/MAG
+에너지	에너지/NNG
+관련	관련/NNG
+녹색성장	녹색/NNG+성장/NNG
+여신	여신/NNG
+운용	운용/NNG
+로드맵'을	로드맵/NNG+'/SS+을/JKO
+만들었다.	만들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.72.9.3
+로드맵에 따르면 녹색 성장 관련 기업이나 친환경 산업 중 고부가가치 사업에 대해 집중적으로 지원할 계획이다.
+
+로드맵에	로드맵/NNG+에/JKB
+따르면	따르/VV+면/EC
+녹색	녹색/NNG
+성장	성장/NNG
+관련	관련/NNG
+기업이나	기업/NNG+이나/JC
+친환경	친/XPN+환경/NNG
+산업	산업/NNG
+중	중/NNB
+고부가가치	고/XPN+부가/NNG+가치/NNG
+사업에	사업/NNG+에/JKB
+대해	대하/VV+아/EC
+집중적으로	집중/NNG+적/XSN+으로/JKB
+지원할	지원/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+

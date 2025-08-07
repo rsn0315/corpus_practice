@@ -1,0 +1,111 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000025.185
+metadata : {}
+
+
+# id : NWRW1800000025.185.1.1
+구태회 LS전선 명예회장 미수연
+
+구태회	구태회/NNP
+LS전선	LS전선/NNP
+명예회장	명예/NNG+회장/NNG
+미수연	미수연/NNG
+
+
+# id : NWRW1800000025.185.2.1
+구태회 LS전선 명예회장의 88세 생일을 축하하는 미수연(米壽宴)이 24일 서울 강남구 삼성동 코엑스 인터컨티넨탈호텔에서 열렸다.
+
+구태회	구태회/NNP
+LS전선	LS전선/NNP
+명예회장의	명예/NNG+회장/NNG+의/JKG
+88세	88/SN+세/NNB
+생일을	생일/NNG+을/JKO
+축하하는	축하/NNG+하/XSV+는/ETM
+미수연(米壽宴)이	미수연/NNG+(/SS+米壽宴/SH+)/SS+이/JKS
+24일	24/SN+일/NNB
+서울	서울/NNP
+강남구	강남구/NNP
+삼성동	삼성동/NNP
+코엑스	코엑스/NNP
+인터컨티넨탈호텔에서	인터컨티넨탈호텔/NNP+에서/JKB
+열렸다.	열리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000025.185.2.2
+구 명예회장은 LG그룹 창업주인 고 구인회 전 회장의 셋째 동생으로 1958년 4대 국회의원을 시작으로 6선 국회의원과 국회부의장 등을 지냈다.
+
+구	구/NNP
+명예회장은	명예/NNG+회장/NNG+은/JX
+LG그룹	LG그룹/NNP
+창업주인	창업주/NNG+이/VCP+ㄴ/ETM
+고	고/MMA
+구인회	구인회/NNP
+전	전/MMD
+회장의	회장/NNG+의/JKG
+셋째	셋째/NR
+동생으로	동생/NNG+으로/JKB
+1958년	1958/SN+년/NNB
+4대	4/SN+대/NNB
+국회의원을	국회/NNG+의원/NNG+을/JKO
+시작으로	시작/NNG+으로/JKB
+6선	6/SN+선/NNB
+국회의원과	국회/NNG+의원/NNG+과/JC
+국회부의장	국회/NNG+부의장/NNG
+등을	등/NNB+을/JKO
+지냈다.	지내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000025.185.2.3
+금성사와 럭키금성에서 경영인으로 활동했고 LG그룹 창업고문도 맡았다.
+
+금성사와	금성사/NNP+와/JC
+럭키금성에서	럭키금성/NNP+에서/JKB
+경영인으로	경영인/NNG+으로/JKB
+활동했고	활동/NNG+하/XSV+았/EP+고/EC
+LG그룹	LG그룹/NNP
+창업고문도	창업/NNG+고문/NNG+도/JX
+맡았다.	맡/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000025.185.3.1
+이날 미수연에는 구 명예회장의 아들인 구자홍 LS그룹 회장과 구자엽 LS산전 회장, 구자명 LS-Nikko동제련 회장, 구자철 한성 회장 등 직계 가족과 구평회 E1 명예회장, 구두회 예스코 명예회장, 구자경 LG 명예회장, 구본무 LG 회장 등 일가친척 130여 명이 참석했다고 LS그룹 측이 밝혔다.
+
+이날	이날/NNG
+미수연에는	미수연/NNG+에/JKB+는/JX
+구	구/NNP
+명예회장의	명예/NNG+회장/NNG+의/JKG
+아들인	아들/NNG+이/VCP+ㄴ/ETM
+구자홍	구자홍/NNP
+LS그룹	LS그룹/NNP
+회장과	회장/NNG+과/JC
+구자엽	구자엽/NNP
+LS산전	LS산전/NNP
+회장,	회장/NNG+,/SP
+구자명	구자명/NNP
+LS-Nikko동제련	LS-Nikko동제련/NNP
+구자철	구자철/NNP
+한성	한성/NNP
+회장	회장/NNG
+등	등/NNB
+직계	직계/NNG
+가족과	가족/NNG+과/JC
+구평회	구평회/NNP
+E1	E/SL+1/SN
+명예회장,	명예/NNG+회장/NNG+,/SP
+구두회	구두회/NNP
+예스코	예스코/NNP
+구자경	구자경/NNP
+LG	LG/SL
+구본무	구본무/NNP
+일가친척	일가친척/NNG
+130여	130/SN+여/XSN
+명이	명/NNB+이/JKS
+참석했다고	참석/NNG+하/XSV+았/EP+다고/EC
+측이	측/NNB+이/JKS
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+

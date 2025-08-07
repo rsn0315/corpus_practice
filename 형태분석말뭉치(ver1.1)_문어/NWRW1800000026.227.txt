@@ -1,0 +1,436 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.227
+metadata : {}
+
+
+# id : NWRW1800000026.227.1.1
+오바마·구본무 15일 '배터리 미팅';LG화학 美공장 기공식에 오바마 파격적으로 참석 具회장도 일정 바꿔 출국
+
+오바마·구본무	오바마/NNP+·/SP+구본무/NNP
+15일	15/SN+일/NNB
+'배터리	'/SS+배터리/NNG
+미팅';LG화학	미팅/NNG+'/SS+;/SW+LG화학/NNP
+美공장	美/SH+공장/NNG
+기공식에	기공식/NNG+에/JKB
+오바마	오바마/NNP
+파격적으로	파격/NNG+적/XSN+으로/JKB
+참석	참석/NNG
+具회장도	具/SH+회장/NNG+도/JX
+일정	일정/NNG
+바꿔	바꾸/VV+어/EC
+출국	출국/NNG
+
+
+# id : NWRW1800000026.227.2.1
+LG화학이 미국 미시간주에 짓는 전기자동차용 배터리 공장 기공식에 미국 버락 오바마(Obama) 대통령이 참석한다.
+
+LG화학이	LG화학/NNP+이/JKS
+미국	미국/NNP
+미시간주에	미시간주/NNP+에/JKB
+짓는	짓/VV+는/ETM
+전기자동차용	전기/NNG+자동차/NNG+용/XSN
+배터리	배터리/NNG
+공장	공장/NNG
+기공식에	기공식/NNG+에/JKB
+버락	버락/NNP
+오바마(Obama)	오바마/NNP+(/SS+Obama/SL+)/SS
+대통령이	대통령/NNG+이/JKS
+참석한다.	참석/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000026.227.3.1
+LG화학은 11일 "오바마 대통령이 15일(현지시각) 미국 미시간주 홀랜드(Holland)에 건설하는 2차전지 생산공장 기공식에 참석한다"고 밝혔다.
+
+LG화학은	LG화학/NNP+은/JX
+11일	11/SN+일/NNB
+"오바마	"/SS+오바마/NNP
+대통령이	대통령/NNG+이/JKS
+15일(현지시각)	15/SN+일/NNB+(/SS+현지/NNG+시각/NNG+)/SS
+미국	미국/NNP
+미시간주	미시간주/NNP
+홀랜드(Holland)에	홀랜드/NNP+(/SS+Holland/SL+)/SS+에/JKB
+건설하는	건설/NNG+하/XSV+는/ETM
+2차전지	2/SN+차/NNB+전지/NNG
+생산공장	생산/NNG+공장/NNG
+기공식에	기공식/NNG+에/JKB
+참석한다"고	참석/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.3.2
+AP통신 등 미국 언론도 백악관 발표를 인용해 오바마 대통령이 LG화학 공장의 기공식에 참석한다고 보도했다.
+
+AP통신	AP통신/NNP
+등	등/NNB
+미국	미국/NNP
+언론도	언론/NNG+도/JX
+백악관	백악관/NNP
+발표를	발표/NNG+를/JKO
+인용해	인용/NNG+하/XSV+아/EC
+오바마	오바마/NNP
+대통령이	대통령/NNG+이/JKS
+LG화학	LG화학/NNP
+공장의	공장/NNG+의/JKG
+기공식에	기공식/NNG+에/JKB
+참석한다고	참석/NNG+하/XSV+ㄴ다고/EC
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.4.1
+미국 현직 대통령이 외국 기업 공장 기공식이나 준공식에 참석하는 것은 매우 이례적인 일이며, 특히 한국 공장을 방문하는 것은 처음이다.
+
+미국	미국/NNP
+현직	현직/NNG
+대통령이	대통령/NNG+이/JKS
+외국	외국/NNG
+기업	기업/NNG
+공장	공장/NNG
+기공식이나	기공식/NNG+이나/JC
+준공식에	준공식/NNG+에/JKB
+참석하는	참석/NNG+하/XSV+는/ETM
+것은	것/NNB+은/JX
+매우	매우/MAG
+이례적인	이례/NNG+적/XSN+이/VCP+ㄴ/ETM
+일이며,	일/NNG+이/VCP+며/EC+,/SP
+특히	특히/MAG
+한국	한국/NNP
+공장을	공장/NNG+을/JKO
+방문하는	방문/NNG+하/XSV+는/ETM
+처음이다.	처음/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.5.1
+LG화학의 '홀랜드 공장'은 전기자동차에 들어가는 리튬 2차전지를 생산하는 곳이다.
+
+LG화학의	LG화학/NNP+의/JKG
+'홀랜드	'/SS+홀랜드/NNP
+공장'은	공장/NNG+'/SS+은/JX
+전기자동차에	전기/NNG+자동차/NNG+에/JKB
+들어가는	들어가/VV+는/ETM
+리튬	리튬/NNG
+2차전지를	2/SN+차/NNB+전지/NNG+를/JKO
+생산하는	생산/NNG+하/XSV+는/ETM
+곳이다.	곳/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.5.2
+LG화학은 이곳에 2013년까지 총 3억달러(3590억원)를 투자해 6만㎡(약 1만8000평) 규모의 전기자동차용 2차전지 생산공장을 짓는다.
+
+LG화학은	LG화학/NNP+은/JX
+이곳에	이곳/NP+에/JKB
+2013년까지	2013/SN+년/NNB+까지/JX
+총	총/MMA
+3억달러(3590억원)를	3/SN+억/NR+달러/NNB+(/SS+3590/SN+억/NR+원/NNB+)/SS+를/JKO
+투자해	투자/NNG+하/XSV+아/EC
+6만㎡(약	6/SN+만/NR+㎡/SW+(/SS+약/MMA
+1만8000평)	1/SN+만/NR+8000/SN+평/NNB+)/SS
+규모의	규모/NNG+의/JKG
+전기자동차용	전기/NNG+자동차/NNG+용/XSN
+2차전지	2/SN+차/NNB+전지/NNG
+생산공장을	생산/NNG+공장/NNG+을/JKO
+짓는다.	짓/VV+는다/EF+./SF
+
+
+# id : NWRW1800000026.227.5.3
+2012년 상반기에 1차 상업생산을 시작하고, 2013년 최종 완공되면 연간 약 20만대(하이브리드 자동차 기준) 분량의 2차전지를 생산할 계획이다.
+
+2012년	2012/SN+년/NNB
+상반기에	상반기/NNG+에/JKB
+1차	1/SN+차/NNB
+상업생산을	상업/NNG+생산/NNG+을/JKO
+시작하고,	시작/NNG+하/XSV+고/EC+,/SP
+2013년	2013/SN+년/NNB
+최종	최종/NNG
+완공되면	완공/NNG+되/XSV+면/EC
+연간	연간/NNG
+약	약/MMA
+20만대(하이브리드	20/SN+만/NR+대/NNB+(/SS+하이브리드/NNG
+자동차	자동차/NNG
+기준)	기준/NNG+)/SS
+분량의	분량/NNG+의/JKG
+2차전지를	2/SN+차/NNB+전지/NNG+를/JKO
+생산할	생산/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.5.4
+홀랜드는 미시간주 오대호 연안에 있으며, 미국 자동차의 중심인 디트로이트에서 차로 약 3시간 거리에 있다.
+
+홀랜드는	홀랜드/NNP+는/JX
+미시간주	미시간주/NNP
+오대호	오대호/NNP
+연안에	연안/NNG+에/JKB
+있으며,	있/VA+으며/EC+,/SP
+미국	미국/NNP
+자동차의	자동차/NNG+의/JKG
+중심인	중심/NNG+이/VCP+ㄴ/ETM
+디트로이트에서	디트로이트/NNP+에서/JKB
+차로	차/NNG+로/JKB
+약	약/MMA
+3시간	3/SN+시간/NNB
+거리에	거리/NNG+에/JKB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000026.227.6.1
+오바마 대통령이 LG화학 공장 기공식에 참석하기로 한 것은 LG화학의 전기자동차용 2차 전지가 미국 자동차 산업에서 갖는 의미가 남다르기 때문이라고 업계 관계자들은 보고 있다.
+
+오바마	오바마/NNP
+대통령이	대통령/NNG+이/JKS
+LG화학	LG화학/NNP
+공장	공장/NNG
+기공식에	기공식/NNG+에/JKB
+참석하기로	참석/NNG+하/XSV+기/ETN+로/JKB
+한	하/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+LG화학의	LG화학/NNP+의/JKG
+전기자동차용	전기/NNG+자동차/NNG+용/XSN
+2차	2/SN+차/NNB
+전지가	전지/NNG+가/JKS
+미국	미국/NNP
+자동차	자동차/NNG
+산업에서	산업/NNG+에서/JKB
+갖는	갖/VV+는/ETM
+의미가	의미/NNG+가/JKS
+남다르기	남다르/VA+기/ETN
+때문이라고	때문/NNB+이/VCP+라고/EC
+업계	업계/NNG
+관계자들은	관계자/NNG+들/XSN+은/JX
+보고	보/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.227.7.1
+오바마 대통령은 2009년 2월 상·하원 합동회의 연설에서 "신형 하이브리드카가 모두 한국산 배터리로 작동한다"고 말하기도 했다.
+
+오바마	오바마/NNP
+대통령은	대통령/NNG+은/JX
+2009년	2009/SN+년/NNB
+2월	2/SN+월/NNB
+상·하원	상·하원/NNG
+합동회의	합동/NNG+회의/NNG
+연설에서	연설/NNG+에서/JKB
+"신형	"/SS+신형/NNG
+하이브리드카가	하이브리드카/NNG+가/JKS
+모두	모두/MAG
+한국산	한국/NNP+산/XSN
+배터리로	배터리/NNG+로/JKB
+작동한다"고	작동/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+말하기도	말/NNG+하/XSV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.7.2
+당시 제너럴모터스(GM)와 전기자동차를 공동 개발하던 LG화학을 염두에 둔 발언이었다.
+
+당시	당시/NNG
+제너럴모터스(GM)와	제너럴모터스/NNP+(/SS+GM/SL+)/SS+와/JKB
+전기자동차를	전기/NNG+자동차/NNG+를/JKO
+공동	공동/NNG
+개발하던	개발/NNG+하/XSV+던/ETM
+LG화학을	LG화학/NNP+을/JKO
+염두에	염두/NNG+에/JKB
+둔	두/VV+ㄴ/ETM
+발언이었다.	발언/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.7.3
+극심한 경영난에 내몰린 GM이 지난해 야심 차게 발표한 하이브리드 전기자동차 '볼트(Volt)'에 들어갈 리튬이온 전지 공급자가 LG화학이다.
+
+극심한	극심하/VA+ㄴ/ETM
+경영난에	경영난/NNG+에/JKB
+내몰린	내몰리/VV+ㄴ/ETM
+GM이	GM/SL+이/JKS
+지난해	지난해/NNG
+야심	야심/NNG
+차게	차/VV+게/EC
+발표한	발표/NNG+하/XSV+ㄴ/ETM
+하이브리드	하이브리드/NNG
+전기자동차	전기/NNG+자동차/NNG
+'볼트(Volt)'에	'/SS+볼트/NNP+(/SS+Volt/SL+)/SS+'/SS+에/JKB
+들어갈	들어가/VV+ㄹ/ETM
+리튬이온	리튬/NNG+이온/NNG
+전지	전지/NNG
+공급자가	공급자/NNG+가/JKS
+LG화학이다.	LG화학/NNP+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.7.4
+미국 자동차 2위 회사인 포드(Ford)도 전기자동차용 2차전지 납품업체로 LG화학을 유력하게 검토 중인 것으로 알려졌다.
+
+미국	미국/NNP
+자동차	자동차/NNG
+2위	2/SN+위/NNB
+회사인	회사/NNG+이/VCP+ㄴ/ETM
+포드(Ford)도	포드/NNP+(/SS+Ford/SL+)/SS+도/JX
+전기자동차용	전기/NNG+자동차/NNG+용/XSN
+2차전지	2/SN+차/NNB+전지/NNG
+납품업체로	납품업체/NNG+로/JKB
+LG화학을	LG화학/NNP+을/JKO
+유력하게	유력/NNG+하/XSA+게/EC
+검토	검토/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알리/VV+어/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.7.5
+미국 자동차 산업이 경쟁력 회복의 후원군으로 선택한 핵심 파트너가 LG화학인 셈이다.
+
+미국	미국/NNP
+자동차	자동차/NNG
+산업이	산업/NNG+이/JKS
+경쟁력	경쟁력/NNG
+회복의	회복/NNG+의/JKG
+후원군으로	후원군/NNG+으로/JKB
+선택한	선택/NNG+하/XSV+ㄴ/ETM
+핵심	핵심/NNG
+파트너가	파트너/NNG+가/JKS
+LG화학인	LG화학/NNP+이/VCP+ㄴ/ETM
+셈이다.	셈/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.8.1
+이 때문에 미국 정부도 LG화학의 '홀랜드 공장' 건설을 전폭적으로 지원하고 있다.
+
+이	이/MMD
+때문에	때문/NNB+에/JKB
+미국	미국/NNP
+정부도	정부/NNG+도/JX
+LG화학의	LG화학/NNP+의/JKG
+'홀랜드	'/SS+홀랜드/NNP
+공장'	공장/NNG+'/SS
+건설을	건설/NNG+을/JKO
+전폭적으로	전폭/NNG+적/XSN+으로/JKB
+지원하고	지원/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.227.8.2
+미국 연방정부는 LG화학에 공장 건설자금으로 1억5000만달러를 지원하고, 미시간 주정부는 1억3000만달러에 달하는 세금을 감면해주기로 했다.
+
+미국	미국/NNP
+연방정부는	연방/NNG+정부/NNG+는/JX
+LG화학에	LG화학/NNP+에/JKB
+공장	공장/NNG
+건설자금으로	건설/NNG+자금/NNG+으로/JKB
+1억5000만달러를	1/SN+억/NR+5000/SN+만/NR+달러/NNB+를/JKO
+지원하고,	지원/NNG+하/XSV+고/EC+,/SP
+미시간	미시간/NNP
+주정부는	주/NNG+정부/NNG+는/JX
+1억3000만달러에	1/SN+억/NR+3000/SN+만/NR+달러/NNB+에/JKB
+달하는	달하/VV+는/ETM
+세금을	세금/NNG+을/JKO
+감면해주기로	감면/NNG+하/XSV+아/EC+주/VX+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.8.3
+LG 측의 투자금이 3억달러인 것을 감안하면 거의 공짜로 공장을 짓는 셈이다.
+
+LG	LG/SL
+측의	측/NNB+의/JKG
+투자금이	투자금/NNG+이/JKS
+3억달러인	3/SN+억/NR+달러/NNB+이/VCP+ㄴ/ETM
+것을	것/NNB+을/JKO
+감안하면	감안/NNG+하/XSV+면/EC
+거의	거의/MAG
+공짜로	공짜/NNG+로/JKB
+공장을	공장/NNG+을/JKO
+짓는	짓/VV+는/ETM
+셈이다.	셈/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.8.4
+미국 현지 언론은 "LG화학 공장이 400명의 인력을 고용해 실업난 해소에 도움이 될 것"이라고 전했다.
+
+미국	미국/NNP
+현지	현지/NNG
+언론은	언론/NNG+은/JX
+"LG화학	"/SS+LG화학/NNP
+공장이	공장/NNG+이/JKS
+400명의	400/SN+명/NNB+의/JKG
+인력을	인력/NNG+을/JKO
+고용해	고용/NNG+하/XSV+아/EC
+실업난	실업난/NNG
+해소에	해소/NNG+에/JKB
+도움이	도움/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.9.1
+오바마 대통령이 참석하기로 함에 따라 LG그룹 구본무 회장은 급히 일정을 바꿔 미국을 직접 방문하기로 했다.
+
+오바마	오바마/NNP
+대통령이	대통령/NNG+이/JKS
+참석하기로	참석/NNG+하/XSV+기/ETN+로/JKB
+함에	하/VV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+LG그룹	LG그룹/NNP
+구본무	구본무/NNP
+회장은	회장/NNG+은/JX
+급히	급히/MAG
+일정을	일정/NNG+을/JKO
+바꿔	바꾸/VV+어/EC
+미국을	미국/NNP+을/JKO
+직접	직접/MAG
+방문하기로	방문/NNG+하/XSV+기/ETN+로/JKB
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.9.2
+구 회장과 LG화학 김반석 부회장은 오바마 대통령과 별도 면담도 진행할 예정인 것으로 알려졌다.
+
+구	구/NNP
+회장과	회장/NNG+과/JC
+LG화학	LG화학/NNP
+김반석	김반석/NNP
+부회장은	부회장/NNG+은/JX
+오바마	오바마/NNP
+대통령과	대통령/NNG+과/JKB
+별도	별도/NNG
+면담도	면담/NNG+도/JX
+진행할	진행/NNG+하/XSV+ㄹ/ETM
+예정인	예정/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알리/VV+어/EC+지/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.227.10.1
+LG화학 관계자는 "오바마 대통령의 기공식 참석은 우리의 요청에 의한 것이 아니라 백악관 측의 주도적인 결정이라서 우리도 전혀 예상치 못했다"며 "LG화학의 브랜드와 기술력을 확실히 알릴 기회로 삼겠다"고 말했다.
+
+LG화학	LG화학/NNP
+관계자는	관계자/NNG+는/JX
+"오바마	"/SS+오바마/NNP
+대통령의	대통령/NNG+의/JKG
+기공식	기공식/NNG
+참석은	참석/NNG+은/JX
+우리의	우리/NP+의/JKG
+요청에	요청/NNG+에/JKB
+의한	의하/VV+ㄴ/ETM
+것이	것/NNB+이/JKC
+아니라	아니/VCN+라/EC
+백악관	백악관/NNP
+측의	측/NNB+의/JKG
+주도적인	주도/NNG+적/XSN+이/VCP+ㄴ/ETM
+결정이라서	결정/NNG+이/VCP+라서/EC
+우리도	우리/NP+도/JX
+전혀	전혀/MAG
+예상치	예상/NNG+하/XSV+지/EC
+못했다"며	못하/VX+았/EP+다/EF+"/SS+며/EC
+"LG화학의	"/SS+LG화학/NNP+의/JKG
+브랜드와	브랜드/NNG+와/JC
+기술력을	기술력/NNG+을/JKO
+확실히	확실히/MAG
+알릴	알리/VV+ㄹ/ETM
+기회로	기회/NNG+로/JKB
+삼겠다"고	삼/VV+겠/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

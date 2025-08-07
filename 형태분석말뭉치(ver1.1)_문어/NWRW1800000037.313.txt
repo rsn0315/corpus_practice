@@ -1,0 +1,317 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000037.313
+metadata : {}
+
+
+# id : NWRW1800000037.313.1.1
+[횡설수설/김순덕]제2의 ‘무즙’ 파동
+
+[횡설수설/김순덕]제2의	[/SS+횡설수설/NNG+//SP+김순덕/NNP+]/SS+제/XPN+2/SN+의/JKG
+‘무즙’	‘/SS+무즙/NNG+’/SS
+파동	파동/NNG
+
+
+# id : NWRW1800000037.313.2.1
+한중일 자유무역협정(FTA) 제3차 협상이 26일부터 열린다고 정부가 그제 발표했다.
+
+한중일	한중일/NNP
+자유무역협정(FTA)	자유/NNG+무역/NNG+협정/NNG+(/SS+FTA/SL+)/SS
+제3차	제/XPN+3/SN+차/NNB
+협상이	협상/NNG+이/JKS
+26일부터	26/SN+일/NNB+부터/JX
+열린다고	열리/VV+ㄴ다고/EC
+정부가	정부/NNG+가/JKS
+그제	그제/MAG
+발표했다.	발표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.2.2
+“한중일 FTA가 체결되면 북미자유무역협정(NAFTA·총생산액 18조 달러), 유럽연합(EU·17조6000억 달러)의 뒤를 잇는 세계 3위 지역통합 시장이 된다”고 몇몇 신문은 보도했다.
+
+“한중일	“/SS+한중일/NNP
+FTA가	FTA/SL+가/JKS
+체결되면	체결/NNG+되/XSV+면/EC
+북미자유무역협정(NAFTA·총생산액	북미/NNP+자유/NNG+무역/NNG+협정/NNG+(/SS+NAFTA/SL+·/SP+총생산액/NNG
+18조	18/SN+조/NR
+달러),	달러/NNB+)/SS+,/SP
+유럽연합(EU·17조6000억	유럽연합/NNP+(/SS+EU/SL+·/SP+17/SN+조/NR+6000/SN+억/NR
+달러)의	달러/NNB+)/SS+의/JKG
+뒤를	뒤/NNG+를/JKO
+잇는	잇/VV+는/ETM
+세계	세계/NNG
+3위	3/SN+위/NNB
+지역통합	지역/NNG+통합/NNG
+시장이	시장/NNG+이/JKC
+된다”고	되/VV+ㄴ다/EF+”/SS+고/JKQ
+몇몇	몇몇/NR
+신문은	신문/NNG+은/JX
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.2.3
+근거는 국책연구기관인 대외경제정책연구소와 국제통화기금(IMF)의 2011년 통계다.
+
+근거는	근거/NNG+는/JX
+국책연구기관인	국책/NNG+연구/NNG+기관/NNG+이/VCP+ㄴ/ETM
+대외경제정책연구소와	대외/NNG+경제/NNG+정책/NNG+연구소/NNG+와/JC
+국제통화기금(IMF)의	국제통화기금/NNP+(/SS+IMF/SL+)/SS+의/JKG
+2011년	2011/SN+년/NNB
+통계다.	통계/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.2.4
+동아일보도 지난해 같은 통계를 소개했다.
+
+동아일보도	동아일보/NNP+도/JX
+지난해	지난해/NNG
+같은	같/VA+은/ETM
+통계를	통계/NNG+를/JKO
+소개했다.	소개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.2.5
+그러나 이번 대학수학능력시험에서 NAFTA의 규모가 EU보다 크다고 응답한 수험생들은 낭패를 볼 판이다.
+
+그러나	그러나/MAJ
+이번	이번/NNG
+대학수학능력시험에서	대학/NNG+수학/NNG+능력/NNG+시험/NNG+에서/JKB
+NAFTA의	NAFTA/SL+의/JKG
+규모가	규모/NNG+가/JKS
+EU보다	EU/SL+보다/JKB
+크다고	크/VA+다고/EC
+응답한	응답/NNG+하/XSV+ㄴ/ETM
+수험생들은	수험/NNG+생/XSN+들/XSN+은/JX
+낭패를	낭패/NNG+를/JKO
+볼	보/VV+ㄹ/ETM
+판이다.	판/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.3.1
+▷세계지리 8번 문항은 NAFTA와 EU의 지도와 함께 2012라는 숫자를 제시했다.
+
+▷세계지리	▷/SW+세계/NNG+지리/NNG
+8번	8/SN+번/NNB
+문항은	문항/NNG+은/JX
+NAFTA와	NAFTA/SL+와/JC
+EU의	EU/SL+의/JKG
+지도와	지도/NNG+와/JKB
+함께	함께/MAG
+2012라는	2012/SN+이/VCP+라는/ETM
+숫자를	숫자/NNG+를/JKO
+제시했다.	제시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.3.2
+2012년 두 경제 블록을 비교한 질문이라면 ‘NAFTA 총생산액이 EU보다 크다’가 사실에 부합한다.
+
+2012년	2012/SN+년/NNB
+두	두/MMN
+경제	경제/NNG
+블록을	블록/NNG+을/JKO
+비교한	비교/NNG+하/XSV+ㄴ/ETM
+질문이라면	질문/NNG+이/VCP+라면/EC
+‘NAFTA	‘/SS+NAFTA/SL
+총생산액이	총생산액/NNG+이/JKS
+EU보다	EU/SL+보다/JKB
+크다’가	크/VA+다/EF+’/SS+가/JKS
+사실에	사실/NNG+에/JKB
+부합한다.	부합/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.313.3.3
+그런데 교육과정평가원은 ‘EU의 총생산액이 NAFTA보다 크다’가 옳다고 밝혔다.
+
+그런데	그런데/MAJ
+교육과정평가원은	교육과정평가원/NNP+은/JX
+‘EU의	‘/SS+EU/SL+의/JKG
+총생산액이	총생산액/NNG+이/JKS
+NAFTA보다	NAFTA/SL+보다/JKB
+크다’가	크/VA+다/EF+’/SS+가/JKS
+옳다고	옳/VA+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.3.4
+2009년 국제통계연감에 근거한 교학사와 천재교육 교과서, EBS 교재에 그렇게 기술돼 있기 때문이라는 거다.
+
+2009년	2009/SN+년/NNB
+국제통계연감에	국제통계연감/NNP+에/JKB
+근거한	근거/NNG+하/XSV+ㄴ/ETM
+교학사와	교학사/NNP+와/JC
+천재교육	천재교육/NNP
+교과서,	교과서/NNG+,/SP
+EBS	EBS/SL
+교재에	교재/NNG+에/JKB
+그렇게	그렇/VA+게/EC
+기술돼	기술/NNG+되/XSV+어/EC
+있기	있/VX+기/ETN
+때문이라는	때문/NNB+이/VCP+라는/ETM
+거다.	거/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.4.1
+▷국내 통계청과 IMF 통계 역시 NAFTA의 총생산액이 2010년 EU를 추월해 2012년엔 격차를 더 벌린 것으로 돼 있다.
+
+▷국내	▷/SW+국내/NNG
+통계청과	통계청/NNG+과/JC
+IMF	IMF/SL
+통계	통계/NNG
+역시	역시/MAG
+NAFTA의	NAFTA/SL+의/JKG
+총생산액이	총생산액/NNG+이/JKS
+2010년	2010/SN+년/NNB
+EU를	EU/SL+를/JKO
+추월해	추월/NNG+하/XSV+아/EC
+2012년엔	2012/SN+년/NNB+에/JKB+ㄴ/JX
+격차를	격차/NNG+를/JKO
+더	더/MAG
+벌린	벌리/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+돼	되/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000037.313.4.2
+평소 신문 읽기와 시사에 관심을 가져 온 학생이라면 구체적 숫자까지는 못 외운다 해도 2010년 유럽 재정위기 이후 유럽 경제가 추락하고 있다는 건 ‘상식’으로 안다.
+
+평소	평소/NNG
+신문	신문/NNG
+읽기와	읽/VV+기/ETN+와/JC
+시사에	시사/NNG+에/JKB
+관심을	관심/NNG+을/JKO
+가져	가지/VV+어/EC
+온	오/VX+ㄴ/ETM
+학생이라면	학생/NNG+이/VCP+라면/EC
+구체적	구체/NNG+적/XSN
+숫자까지는	숫자/NNG+까지/JX+는/JX
+못	못/MAG
+외운다	외우/VV+ㄴ다/EF
+해도	하/VV+아도/EC
+2010년	2010/SN+년/NNB
+유럽	유럽/NNP
+재정위기	재정/NNG+위기/NNG
+이후	이후/NNG
+경제가	경제/NNG+가/JKS
+추락하고	추락/NNG+하/XSV+고/EC
+있다는	있/VX+다는/ETM
+건	거/NNB+ㄴ/JX
+‘상식’으로	‘/SS+상식/NNG+’/SS+으로/JKB
+안다.	알/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000037.313.4.3
+그래서 신문활용교육(NIE)은 사고력을 키워 주고 창의적 문제 해결에 도움을 준다는 평가를 받는다.
+
+그래서	그래서/MAJ
+신문활용교육(NIE)은	신문/NNG+활용/NNG+교육/NNG+(/SS+NIE/SL+)/SS+은/JX
+사고력을	사고력/NNG+을/JKO
+키워	키우/VV+어/EC
+주고	주/VX+고/EC
+창의적	창의/NNG+적/XSN
+문제	문제/NNG
+해결에	해결/NNG+에/JKB
+도움을	도움/NNG+을/JKO
+준다는	주/VV+ㄴ다는/ETM
+평가를	평가/NNG+를/JKO
+받는다.	받/VV+는다/EF+./SF
+
+
+# id : NWRW1800000037.313.5.1
+▷평가원은 한국경제지리학회 등에 자문했다며 “정·오답 판단은 교과서 내용만이 유일한 근거”라고 밝혔다.
+
+▷평가원은	▷/SW+평가원/NNG+은/JX
+한국경제지리학회	한국경제지리학회/NNP
+등에	등/NNB+에/JKB
+자문했다며	자문/NNG+하/XSV+았/EP+다며/EC
+“정·오답	“/SS+정·오답/NNG
+판단은	판단/NNG+은/JX
+교과서	교과서/NNG
+내용만이	내용/NNG+만/JX+이/JKS
+유일한	유일/NNG+하/XSA+ㄴ/ETM
+근거”라고	근거/NNG+”/SS+라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.5.2
+교과서 통계는 시간이 흘러도 불변의 진실이라는 말인가.
+
+교과서	교과서/NNG
+통계는	통계/NNG+는/JX
+시간이	시간/NNG+이/JKS
+흘러도	흐르/VV+어도/EC
+불변의	불변/NNG+의/JKG
+진실이라는	진실/NNG+이/VCP+라는/ETM
+말인가.	말/NNG+이/VCP+ㄴ가/EF+./SF
+
+
+# id : NWRW1800000037.313.5.3
+이들은 1964년 12월 중학교 입시 때 출제 잘못으로 일어난 ‘무즙 파동’을 모르는 것 같다.
+
+이들은	이/NP+들/XSN+은/JX
+1964년	1964/SN+년/NNB
+12월	12/SN+월/NNB
+중학교	중학교/NNG
+입시	입시/NNG
+때	때/NNG
+출제	출제/NNG
+잘못으로	잘못/NNG+으로/JKB
+일어난	일어나/VV+ㄴ/ETM
+‘무즙	‘/SS+무즙/NNG
+파동’을	파동/NNG+’/SS+을/JKO
+모르는	모르/VV+는/ETM
+것	것/NNB
+같다.	같/VA+다/EF+./SF
+
+
+# id : NWRW1800000037.313.5.4
+학부모들은 법원에 제소해도 소용없자 무즙으로 만든 엿을 솥째 들고 나와 “엿 먹어라”라고 외쳤다.
+
+학부모들은	학부모/NNG+들/XSN+은/JX
+법원에	법원/NNG+에/JKB
+제소해도	제소/NNG+하/XSV+아도/EC
+소용없자	소용없/VA+자/EC
+무즙으로	무즙/NNG+으로/JKB
+만든	만들/VV+ㄴ/ETM
+엿을	엿/NNG+을/JKO
+솥째	솥/NNG+째/XSN
+들고	들/VV+고/EC
+나와	나오/VV+아/EC
+“엿	“/SS+엿/NNG
+먹어라”라고	먹/VV+어라/EF+”/SS+라고/JKQ
+외쳤다.	외치/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000037.313.5.5
+최근 역사 교과서 파동에서 드러났듯 교과서라고 오류가 없는 게 아니다.
+
+최근	최근/MAG
+역사	역사/NNG
+교과서	교과서/NNG
+파동에서	파동/NNG+에서/JKB
+드러났듯	드러나/VV+았/EP+듯/EC
+교과서라고	교과서/NNG+이/VCP+라고/EC
+오류가	오류/NNG+가/JKS
+없는	없/VA+는/ETM
+게	거/NNB+이/JKC
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000037.313.5.6
+평가원이 섣불리 결정했다간 무즙 파동 때처럼 줄소송을 당할 수도 있다.
+
+평가원이	평가원/NNG+이/JKS
+섣불리	섣불리/MAG
+결정했다간	결정/NNG+하/XSV+았/EP+다가/EC+ㄴ/JX
+무즙	무즙/NNG
+파동	파동/NNG
+때처럼	때/NNG+처럼/JKB
+줄소송을	줄소송/NNG+을/JKO
+당할	당하/VV+ㄹ/ETM
+수도	수/NNB+도/JX
+있다.	있/VA+다/EF+./SF
+
+

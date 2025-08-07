@@ -1,0 +1,490 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.66
+metadata : {}
+
+
+# id : NWRW1800000041.66.1.1
+IS, 시리아 요충지 함락 눈앞… 터키 군사개입 잰걸음
+
+IS,	IS/SL+,/SP
+시리아	시리아/NNP
+요충지	요충지/NNG
+함락	함락/NNG
+눈앞…	눈앞/NNG+…/SE
+터키	터키/NNP
+군사개입	군사/NNG+개입/NNG
+잰걸음	잰걸음/NNG
+
+
+# id : NWRW1800000041.66.2.1
+IS, 중화기로 쿠르드軍과 격전… 터키 “모든 수단 동원 함락 막을것” IS, 네번째 인질 참수 동영상 공개… 美-아랍국, 시리아 공습 지속
+
+IS,	IS/SL+,/SP
+중화기로	중화기/NNG+로/JKB
+쿠르드軍과	쿠르드/NNP+軍/SH+과/JKB
+격전…	격전/NNG+…/SE
+터키	터키/NNP
+“모든	“/SS+모든/MMN
+수단	수단/NNG
+동원	동원/NNG
+함락	함락/NNG
+막을것”	막/VV+을/ETM+것/NNB+”/SS
+네번째	네/MMN+번/NNB+째/XSN
+인질	인질/NNG
+참수	참수/NNG
+동영상	동영상/NNG
+공개…	공개/NNG+…/SE
+美-아랍국,	美/SH+-/SO+아랍국/NNG+,/SP
+시리아	시리아/NNP
+공습	공습/NNG
+지속	지속/NNG
+
+
+# id : NWRW1800000041.66.3.1
+이슬람 수니파 무장세력인 ‘이슬람국가(IS)’가 미국과 동맹국들의 시리아 공습에도 불구하고 쿠르드족 거점도시인 코바니(아랍어명 아인알아랍)로 진입해 일부 지역을 장악했다고 5일 CNN이 보도했다.
+
+이슬람	이슬람/NNG
+수니파	수니파/NNG
+무장세력인	무장/NNG+세력/NNG+이/VCP+ㄴ/ETM
+‘이슬람국가(IS)’가	‘/SS+이슬람국가/NNP+(/SS+IS/SL+)/SS+’/SS+가/JKS
+미국과	미국/NNP+과/JC
+동맹국들의	동맹국/NNG+들/XSN+의/JKG
+시리아	시리아/NNP
+공습에도	공습/NNG+에/JKB+도/JX
+불구하고	불구하/VV+고/EC
+쿠르드족	쿠르드족/NNP
+거점도시인	거점/NNG+도시/NNG+이/VCP+ㄴ/ETM
+코바니(아랍어명	코바니/NNP+(/SS+아랍어/NNP+명/NNG
+아인알아랍)로	아인알아랍/NNP+)/SS+로/JKB
+진입해	진입/NNG+하/XSV+아/EC
+일부	일부/NNG
+지역을	지역/NNG+을/JKO
+장악했다고	장악/NNG+하/XSV+았/EP+다고/EC
+5일	5/SN+일/NNB
+CNN이	CNN/SL+이/JKS
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.4.1
+IS는 지난달 15일부터 터키와 접경한 코바니를 점령하기 위해 탱크와 대포 등 중화기를 대거 동원한 공격에 나서 쿠르드족 민병대인 인민수비대(YPG)와 격전을 벌이고 있다.
+
+IS는	IS/SL+는/JX
+지난달	지난달/NNG
+15일부터	15/SN+일/NNB+부터/JX
+터키와	터키/NNP+와/JKB
+접경한	접경/NNG+하/XSV+ㄴ/ETM
+코바니를	코바니/NNP+를/JKO
+점령하기	점령/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+탱크와	탱크/NNG+와/JC
+대포	대포/NNG
+등	등/NNB
+중화기를	중화기/NNG+를/JKO
+대거	대거/MAG
+동원한	동원/NNG+하/XSV+ㄴ/ETM
+공격에	공격/NNG+에/JKB
+나서	나서/VV+어/EC
+쿠르드족	쿠르드족/NNP
+민병대인	민병대/NNG+이/VCP+ㄴ/ETM
+인민수비대(YPG)와	인민/NNG+수비대/NNG+(/SS+YPG/SL+)/SS+와/JKB
+격전을	격전/NNG+을/JKO
+벌이고	벌이/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.66.4.2
+IS가 코바니를 장악하면 IS는 수도로 선포한 락까에서 터키 국경까지 이어지는 유프라테스 강 주변의 시리아 북동부 전체를 점령하게 된다.
+
+IS가	IS/SL+가/JKS
+코바니를	코바니/NNP+를/JKO
+장악하면	장악/NNG+하/XSV+면/EC
+IS는	IS/SL+는/JX
+수도로	수도/NNG+로/JKB
+선포한	선포/NNG+하/XSV+ㄴ/ETM
+락까에서	락까/NNP+에서/JKB
+터키	터키/NNP
+국경까지	국경/NNG+까지/JX
+이어지는	이어지/VV+는/ETM
+유프라테스	유프라테스/NNP
+강	강/NNG
+주변의	주변/NNG+의/JKG
+시리아	시리아/NNP
+북동부	북동부/NNG
+전체를	전체/NNG+를/JKO
+점령하게	점령/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.66.5.1
+YPG의 전사인 앨런 민빅은 “코바니 동부지역에서는 YPG가 IS의 탱크를 파괴했으나 서부지역에서는 IS가 비공식 국경검문소가 있는 탈샤이르 지역을 장악했다.
+
+YPG의	YPG/SL+의/JKG
+전사인	전사/NNG+이/VCP+ㄴ/ETM
+앨런	앨런/NNP
+민빅은	민빅/NNP+은/JX
+“코바니	“/SS+코바니/NNP
+동부지역에서는	동부/NNG+지역/NNG+에서/JKB+는/JX
+YPG가	YPG/SL+가/JKS
+IS의	IS/SL+의/JKG
+탱크를	탱크/NNG+를/JKO
+파괴했으나	파괴/NNG+하/XSV+았/EP+으나/EC
+서부지역에서는	서부/NNG+지역/NNG+에서/JKB+는/JX
+IS가	IS/SL+가/JKS
+비공식	비/XPN+공식/NNG
+국경검문소가	국경/NNG+검문소/NNG+가/JKS
+있는	있/VA+는/ETM
+탈샤이르	탈샤이르/NNP
+지역을	지역/NNG+을/JKO
+장악했다.	장악/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.5.2
+YPG는 코바니 외곽 방어선을 포기하고 도심으로 물러나 게릴라식 시가전을 벌이고 있다”고 말했다.
+
+YPG는	YPG/SL+는/JX
+코바니	코바니/NNP
+외곽	외곽/NNG
+방어선을	방어선/NNG+을/JKO
+포기하고	포기/NNG+하/XSV+고/EC
+도심으로	도심/NNG+으로/JKB
+물러나	물러나/VV+아/EC
+게릴라식	게릴라식/NNG
+시가전을	시가전/NNG+을/JKO
+벌이고	벌이/VV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.5.3
+코바니 수비 지원에 나선 시리아의 온건 반군인 자유시리아군(FSA)도 IS의 진격에 맞서 시내 곳곳에 저격수를 배치했다.
+
+코바니	코바니/NNP
+수비	수비/NNG
+지원에	지원/NNG+에/JKB
+나선	나서/VV+ㄴ/ETM
+시리아의	시리아/NNP+의/JKG
+온건	온건/NNG
+반군인	반군/NNG+이/VCP+ㄴ/ETM
+자유시리아군(FSA)도	자유시리아군/NNG+(/SS+FSA/SL+)/SS+도/JX
+IS의	IS/SL+의/JKG
+진격에	진격/NNG+에/JKB
+맞서	맞서/VV+어/EC
+시내	시내/NNG
+곳곳에	곳곳/NNG+에/JKB
+저격수를	저격수/NNG+를/JKO
+배치했다.	배치/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.6.1
+IS가 코바니 함락을 눈앞에 두자 의회에서 IS에 대한 군사행동 동의안을 통과시킨 터키는 군사 개입을 서두르고 있다.
+
+IS가	IS/SL+가/JKS
+코바니	코바니/NNP
+함락을	함락/NNG+을/JKO
+눈앞에	눈앞/NNG+에/JKB
+두자	두/VV+자/EC
+의회에서	의회/NNG+에서/JKB
+IS에	IS/SL+에/JKB
+대한	대하/VV+ㄴ/ETM
+군사행동	군사/NNG+행동/NNG
+동의안을	동의안/NNG+을/JKO
+통과시킨	통과/NNG+시키/XSV+ㄴ/ETM
+터키는	터키/NNP+는/JX
+군사	군사/NNG
+개입을	개입/NNG+을/JKO
+서두르고	서두르/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.66.6.2
+IS 공격을 피해 국경을 넘어 터키로 피신한 쿠르드족 난민도 18만6000여 명에 이른다.
+
+IS	IS/SL
+공격을	공격/NNG+을/JKO
+피해	피하/VV+아/EC
+국경을	국경/NNG+을/JKO
+넘어	넘/VV+어/EC
+터키로	터키/NNP+로/JKB
+피신한	피신/NNG+하/XSV+ㄴ/ETM
+쿠르드족	쿠르드족/NNP
+난민도	난민/NNG+도/JX
+18만6000여	18/SN+만/NR+6000/SN+여/XSN
+명에	명/NNB+에/JKB
+이른다.	이르/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.66.6.3
+아흐메트 다부토을루 터키 총리는 “모든 수단을 다해 코바니의 함락을 막을 것”이라고 밝혔다.
+
+아흐메트	아흐메트/NNP
+다부토을루	다부토을루/NNP
+터키	터키/NNP
+총리는	총리/NNG+는/JX
+“모든	“/SS+모든/MMN
+수단을	수단/NNG+을/JKO
+다해	다/MAG+하/XSV+아/EC
+코바니의	코바니/NNP+의/JKG
+함락을	함락/NNG+을/JKO
+막을	막/VV+을/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.1
+IS는 3일 영국인 인질 앨런 헤닝 씨(47)의 참수 동영상을 공개했다.
+
+IS는	IS/SL+는/JX
+3일	3/SN+일/NNB
+영국인	영국인/NNG
+인질	인질/NNG
+앨런	앨런/NNP
+헤닝	헤닝/NNP
+씨(47)의	씨/NNB+(/SS+47/SN+)/SS+의/JKG
+참수	참수/NNG
+동영상을	동영상/NNG+을/JKO
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.2
+미국인 기자 제임스 폴리와 스티븐 소틀로프, 영국인 구호단체 직원 데이비드 헤인스에 이어 IS가 공개한 네 번째 참수 동영상이다.
+
+미국인	미국인/NNG
+기자	기자/NNG
+제임스	제임스/NNP
+폴리와	폴리/NNP+와/JC
+스티븐	스티븐/NNP
+소틀로프,	소틀로프/NNP+,/SP
+영국인	영국인/NNG
+구호단체	구호/NNG+단체/NNG
+직원	직원/NNG
+데이비드	데이비드/NNP
+헤인스에	헤인스/NNP+에/JKB
+이어	잇/VV+어/EC
+IS가	IS/SL+가/JKS
+공개한	공개/NNG+하/XSV+ㄴ/ETM
+네	네/MMN
+번째	번/NNB+째/XSN
+참수	참수/NNG
+동영상이다.	동영상/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.3
+헤닝 씨는 영국 그레이터맨체스터 주 에클스에서 두 아이를 키우던 택시 운전사였다.
+
+헤닝	헤닝/NNP
+씨는	씨/NNB+는/JX
+영국	영국/NNP
+그레이터맨체스터	그레이터맨체스터/NNP
+주	주/NNG
+에클스에서	에클스/NNP+에서/JKB
+두	두/MMN
+아이를	아이/NNG+를/JKO
+키우던	키우/VV+던/ETM
+택시	택시/NNG
+운전사였다.	운전사/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.4
+지난해 12월 시리아 내전으로 고통 받는 난민에게 의료물자를 전달하고 구급차를 운전하는 봉사활동에 나섰다가 납치됐다.
+
+지난해	지난해/NNG
+12월	12/SN+월/NNB
+시리아	시리아/NNP
+내전으로	내전/NNG+으로/JKB
+고통	고통/NNG
+받는	받/VV+는/ETM
+난민에게	난민/NNG+에게/JKB
+의료물자를	의료/NNG+물자/NNG+를/JKO
+전달하고	전달/NNG+하/XSV+고/EC
+구급차를	구급차/NNG+를/JKO
+운전하는	운전/NNG+하/XSV+는/ETM
+봉사활동에	봉사/NNG+활동/NNG+에/JKB
+나섰다가	나서/VV+었/EP+다가/EC
+납치됐다.	납치/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.5
+그는 자신의 팔에 ‘시리아를 위한 원조(Aid4Syria)’라는 문신을 하고 다니기도 했다.
+
+그는	그/NP+는/JX
+자신의	자신/NNG+의/JKG
+팔에	팔/NNG+에/JKB
+‘시리아를	‘/SS+시리아/NNP+를/JKO
+위한	위하/VV+ㄴ/ETM
+원조(Aid4Syria)’라는	원조/NNG+(/SS+Aid/SL+4/SN+Syria/SL+)/SS+’/SS+이/VCP+라는/ETM
+문신을	문신/NNG+을/JKO
+하고	하/VV+고/EC
+다니기도	다니/VV+기/ETN+도/JX
+했다.	하/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.6
+데이비드 캐머런 영국 총리는 “헤닝 참수 동영상은 IS가 얼마나 야만적이고 역겨운 테러 집단인지 보여준다.
+
+데이비드	데이비드/NNP
+캐머런	캐머런/NNP
+영국	영국/NNP
+총리는	총리/NNG+는/JX
+“헤닝	“/SS+헤닝/NNP
+참수	참수/NNG
+동영상은	동영상/NNG+은/JX
+IS가	IS/SL+가/JKS
+얼마나	얼마나/MAG
+야만적이고	야만/NNG+적/XSN+이/VCP+고/EC
+역겨운	역겹/VA+ㄴ/ETM
+테러	테러/NNG
+집단인지	집단/NNG+이/VCP+ㄴ지/EC
+보여준다.	보이/VV+어/EC+주/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.66.7.7
+이 살인자들을 뒤쫓아 법의 심판을 받게 할 것”이라고 밝혔다.
+
+이	이/MMD
+살인자들을	살인자/NNG+들/XSN+을/JKO
+뒤쫓아	뒤쫓/VV+아/EC
+법의	법/NNG+의/JKG
+심판을	심판/NNG+을/JKO
+받게	받/VV+게/EC
+할	하/VX+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.8.1
+IS는 다음 참수 대상자로 미국인 자원봉사자 피터 캐식 씨(26)를 지목했다.
+
+IS는	IS/SL+는/JX
+다음	다음/NNG
+참수	참수/NNG
+대상자로	대상자/NNG+로/JKB
+미국인	미국인/NNG
+자원봉사자	자원봉사자/NNG
+피터	피터/NNP
+캐식	캐식/NNP
+씨(26)를	씨/NNB+(/SS+26/SN+)/SS+를/JKO
+지목했다.	지목/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.8.2
+미 육군 특수부대 출신 구호활동가인 캐식 씨는 시리아 난민을 돕는 ‘특수긴급대응지원(SERA)’이란 비정부 단체를 직접 만들었으며 지난해 10월 레바논에서 시리아 동부로 넘어가다 IS에 납치됐다.
+
+미	미/NNP
+육군	육군/NNG
+특수부대	특수/NNG+부대/NNG
+출신	출신/NNG
+구호활동가인	구호/NNG+활동가/NNG+이/VCP+ㄴ/ETM
+캐식	캐식/NNP
+씨는	씨/NNB+는/JX
+시리아	시리아/NNP
+난민을	난민/NNG+을/JKO
+돕는	돕/VV+는/ETM
+‘특수긴급대응지원(SERA)’이란	‘/SS+특수긴급대응지원/NNG+(/SS+SERA/SL+)/SS+’/SS+이/VCP+란/ETM
+비정부	비/XPN+정부/NNG
+단체를	단체/NNG+를/JKO
+직접	직접/MAG
+만들었으며	만들/VV+었/EP+으며/EC
+지난해	지난해/NNG
+10월	10/SN+월/NNB
+레바논에서	레바논/NNP+에서/JKB
+동부로	동부/NNG+로/JKB
+넘어가다	넘어가/VV+다/EC
+IS에	IS/SL+에/JKB
+납치됐다.	납치/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.8.3
+미 백악관 국가안보회의(NSC)는 이날 성명을 내고 캐식 씨를 구하기 위해 군사 외교 정보 등 모든 수단을 강구하겠다고 밝혔다.
+
+미	미/NNP
+백악관	백악관/NNP
+국가안보회의(NSC)는	국가안보회의/NNP+(/SS+NSC/SL+)/SS+는/JX
+이날	이날/NNG
+성명을	성명/NNG+을/JKO
+내고	내/VV+고/EC
+캐식	캐식/NNP
+씨를	씨/NNB+를/JKO
+구하기	구하/VV+기/ETN
+위해	위하/VV+아/EC
+군사	군사/NNG
+외교	외교/NNG
+정보	정보/NNG
+등	등/NNB
+모든	모든/MMN
+수단을	수단/NNG+을/JKO
+강구하겠다고	강구/NNG+하/XSV+겠/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.9.1
+미국과 아랍 연합국들은 IS의 네 번째 인질 참수에도 시리아 공습작전을 계속했다.
+
+미국과	미국/NNP+과/JC
+아랍	아랍/NNP
+연합국들은	연합국/NNG+들/XSN+은/JX
+IS의	IS/SL+의/JKG
+네	네/MMN
+번째	번/NNB+째/XSN
+인질	인질/NNG
+참수에도	참수/NNG+에/JKB+도/JX
+시리아	시리아/NNP
+공습작전을	공습/NNG+작전/NNG+을/JKO
+계속했다.	계속/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.9.2
+미국과 요르단 사우디아라비아 아랍에미리트(UAE)는 전날 밤 전투기와 폭격기, 무인기(드론) 등을 동원해 코바니 등 IS 근거지에 9차례 공습을 단행했다.
+
+미국과	미국/NNP+과/JC
+요르단	요르단/NNP
+사우디아라비아	사우디아라비아/NNP
+아랍에미리트(UAE)는	아랍에미리트/NNP+(/SS+UAE/SL+)/SS+는/JX
+전날	전날/NNG
+밤	밤/NNG
+전투기와	전투기/NNG+와/JC
+폭격기,	폭격기/NNG+,/SP
+무인기(드론)	무인기/NNG+(/SS+드론/NNG+)/SS
+등을	등/NNB+을/JKO
+동원해	동원/NNG+하/XSV+아/EC
+코바니	코바니/NNP
+등	등/NNB
+IS	IS/SL
+근거지에	근거지/NNG+에/JKB
+9차례	9/SN+차례/NNG
+공습을	공습/NNG+을/JKO
+단행했다.	단행/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.66.10.1
+한편 미 해병대 소속 조던 스피어스 상병(21)이 4일 해안에서 MV-22 오스프리 수송기 사고로 실종돼 미국의 IS 격퇴작전이 시작된 뒤 첫 번째 미군 희생자로 기록됐다.
+
+한편	한편/MAG
+미	미/NNP
+해병대	해병대/NNG
+소속	소속/NNG
+조던	조던/NNP
+스피어스	스피어스/NNP
+상병(21)이	상병/NNG+(/SS+21/SN+)/SS+이/JKS
+4일	4/SN+일/NNB
+해안에서	해안/NNG+에서/JKB
+MV-22	MV/SL+-/SO+22/SN
+오스프리	오스프리/NNG
+수송기	수송기/NNG
+사고로	사고/NNG+로/JKB
+실종돼	실종/NNG+되/XSV+어/EC
+미국의	미국/NNP+의/JKG
+IS	IS/SL
+격퇴작전이	격퇴/NNG+작전/NNG+이/JKS
+시작된	시작/NNG+되/XSV+ㄴ/ETM
+뒤	뒤/NNG
+첫	첫/MMN
+번째	번/NNB+째/XSN
+미군	미군/NNG
+희생자로	희생자/NNG+로/JKB
+기록됐다.	기록/NNG+되/XSV+었/EP+다/EF+./SF
+
+

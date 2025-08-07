@@ -1,0 +1,401 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.338
+metadata : {}
+
+
+# id : NWRW1800000022.338.1.1
+한인 출신 첫 美國 주지사 되겠다;임용근 前 美의원, 오리건 주지사 출마 선언…20년 만의 재도전
+
+한인	한인/NNG
+출신	출신/NNG
+첫	첫/MMN
+美國	美國/SH
+주지사	주지사/NNG
+되겠다;임용근	되/VV+겠/EP+다/EF+;/SW+임용근/NNP
+前	前/SH
+美의원,	美/SH+의원/NNG+,/SP
+오리건	오리건/NNP
+출마	출마/NNG
+선언…20년	선언/NNG+…/SE+20/SN+년/NNB
+만의	만/NNB+의/JKG
+재도전	재/XPN+도전/NNG
+
+
+# id : NWRW1800000022.338.2.1
+미국 주(州)지사 선거는 내 아메리칸 드림(American Dream)의 끝이자, 한국인의 자부심을 높이는 꿈의 시작입니다.
+
+미국	미국/NNP
+주(州)지사	주/NNG+(/SS+州/SH+)/SS+지사/NNG
+선거는	선거/NNG+는/JX
+내	나/NP+의/JKG
+아메리칸	아메리칸/NNP
+드림(American	드림/NNG+(/SS+American/SL
+Dream)의	Dream/SL+)/SS+의/JKG
+끝이자,	끝/NNG+이/VCP+자/EC+,/SP
+한국인의	한국인/NNG+의/JKG
+자부심을	자부심/NNG+을/JKO
+높이는	높이/VV+는/ETM
+꿈의	꿈/NNG+의/JKG
+시작입니다.	시작/NNG+이/VCP+ㅂ니다/EF+./SF
+
+
+# id : NWRW1800000022.338.2.2
+기필코 선거에서 승리하겠습니다.
+
+기필코	기필코/MAG
+선거에서	선거/NNG+에서/JKB
+승리하겠습니다.	승리/NNG+하/XSV+겠/EP+습니다/EF+./SF
+
+
+# id : NWRW1800000022.338.3.1
+2010년 실시되는 미 서부 오리건(Oregon)주지사 선거에 출마를 선언한 임용근(73·미국명 존 림)씨.
+
+2010년	2010/SN+년/NNB
+실시되는	실시/NNG+되/XSV+는/ETM
+미	미/NNP
+서부	서부/NNG
+오리건(Oregon)주지사	오리건/NNP+(/SS+Oregon/SL+)/SS+주지사/NNG
+선거에	선거/NNG+에/JKB
+출마를	출마/NNG+를/JKO
+선언한	선언/NNG+하/XSV+ㄴ/ETM
+임용근(73·미국명	임용근/NNP+(/SS+73/SN+·/SP+미국/NNP+명/NNG
+존	존/NNP
+림)씨.	림/NNP+)/SS+씨/NNB+./SF
+
+
+# id : NWRW1800000022.338.3.2
+제3회 세계한인정치인협의회 참석차 방한한 임씨는 지난 1일 본지와의 인터뷰에서 이렇게 말했다.
+
+제3회	제/XPN+3/SN+회/NNB
+세계한인정치인협의회	세계한인정치인협의회/NNP
+참석차	참석차/NNG
+방한한	방한/NNG+하/XSV+ㄴ/ETM
+임씨는	임/NNP+씨/NNB+는/JX
+지난	지나/VV+ㄴ/ETM
+1일	1/SN+일/NNB
+본지와의	본지/NNG+와/JKB+의/JKG
+인터뷰에서	인터뷰/NNG+에서/JKB
+이렇게	이렇/VA+게/EC
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.3.3
+그는 1992년부터 오리건주 하원의원을 세 차례, 상원의원을 두 차례나 지낸 재미(在美) 한인 정치인들의 원로다.
+
+그는	그/NP+는/JX
+1992년부터	1992/SN+년/NNB+부터/JX
+오리건주	오리건주/NNP
+하원의원을	하원/NNG+의원/NNG+을/JKO
+세	세/MMN
+차례,	차례/NNG+,/SP
+상원의원을	상원/NNG+의원/NNG+을/JKO
+두	두/MMN
+차례나	차례/NNG+나/JX
+지낸	지내/VV+ㄴ/ETM
+재미(在美)	재미/NNG+(/SS+在美/SH+)/SS
+한인	한인/NNG
+정치인들의	정치인/NNG+들/XSN+의/JKG
+원로다.	원로/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.4.1
+임 전(前) 의원의 주지사 도전은 이번이 두 번째다.
+
+임	임/NNP
+전(前)	전/MMD+(/SS+前/SH+)/SS
+의원의	의원/NNG+의/JKG
+주지사	주지사/NNG
+도전은	도전/NNG+은/JX
+이번이	이번/NNG+이/JKS
+두	두/MMN
+번째다.	번/NNB+째/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.4.2
+1990년 정치에 입문할 때 주지사 선거에 출마했다가 2위를 했고, 꼭 20년 만의 재도전이다.
+
+1990년	1990/SN+년/NNB
+정치에	정치/NNG+에/JKB
+입문할	입문/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+주지사	주지사/NNG
+선거에	선거/NNG+에/JKB
+출마했다가	출마/NNG+하/XSV+았/EP+다가/EC
+2위를	2/SN+위/NNB+를/JKO
+했고,	하/VV+았/EP+고/EC+,/SP
+꼭	꼭/MAG
+20년	20/SN+년/NNB
+만의	만/NNB+의/JKG
+재도전이다.	재/XPN+도전/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.4.3
+당선되면 최초의 한인 주지사로 기록된다.
+
+당선되면	당선/NNG+되/XSV+면/EC
+최초의	최초/NNG+의/JKG
+한인	한인/NNG
+주지사로	주지사/NNG+로/JKB
+기록된다.	기록/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.338.4.4
+그만큼 애착이 많다.
+
+그만큼	그만큼/MAG
+애착이	애착/NNG+이/JKS
+많다.	많/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.338.4.5
+"우리 한민족의 위상을 높이는 데 주지사만큼 중요한 자리는 없어요.
+
+"우리	"/SS+우리/NP
+한민족의	한민족/NNP+의/JKG
+위상을	위상/NNG+을/JKO
+높이는	높이/VV+는/ETM
+데	데/NNB
+주지사만큼	주지사/NNG+만큼/JKB
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+자리는	자리/NNG+는/JX
+없어요.	없/VA+어요/EF+./SF
+
+
+# id : NWRW1800000022.338.4.6
+1992년 주 상원의원에 당선될 때 운동화 다섯 켤레가 닳도록 뛰어다녔는데 이번에도 그때의 자세로 돌아가 열심히 하겠다"는 게 출사표다.
+
+1992년	1992/SN+년/NNB
+주	주/NNG
+상원의원에	상원/NNG+의원/NNG+에/JKB
+당선될	당선/NNG+되/XSV+ㄹ/ETM
+때	때/NNG
+운동화	운동화/NNG
+다섯	다섯/NR
+켤레가	켤레/NNB+가/JKS
+닳도록	닳/VV+도록/EC
+뛰어다녔는데	뛰어다니/VV+었/EP+는데/EC
+이번에도	이번/NNG+에/JKB+도/JX
+그때의	그때/NNG+의/JKG
+자세로	자세/NNG+로/JKB
+돌아가	돌아가/VV+아/EC
+열심히	열심히/MAG
+하겠다"는	하/VV+겠/EP+다/EF+"/SS+는/ETM
+게	거/NNB+이/JKS
+출사표다.	출사표/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.4.7
+사냥시 목표물을 한 번 물면 끝까지 놓지 않는 '진돗개'의 정신으로 마지막 도전을 해보겠다는 것이다.
+
+사냥시	사냥/NNG+시/NNB
+목표물을	목표물/NNG+을/JKO
+한	한/MMN
+번	번/NNB
+물면	물/VV+면/EC
+끝까지	끝/NNG+까지/JX
+놓지	놓/VV+지/EC
+않는	않/VX+는/ETM
+'진돗개'의	'/SS+진돗개/NNG+'/SS+의/JKG
+정신으로	정신/NNG+으로/JKB
+마지막	마지막/NNG
+도전을	도전/NNG+을/JKO
+해보겠다는	해보/VV+겠/EP+다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.5.1
+임 전 의원이 그리는 주지사의 모습은 '퍼블릭 서번트(public servant)'.
+
+임	임/NNP
+전	전/MMD
+의원이	의원/NNG+이/JKS
+그리는	그리/VV+는/ETM
+주지사의	주지사/NNG+의/JKG
+모습은	모습/NNG+은/JX
+'퍼블릭	'/SS+퍼블릭/NNG
+서번트(public	서번트/NNG+(/SS+public/SL
+servant)'.	servant/SL+)/SS+'/SS+./SF
+
+
+# id : NWRW1800000022.338.5.2
+말 그대로 공복(公僕)이다.
+
+말	말/NNG
+그대로	그대로/MAG
+공복(公僕)이다.	공복/NNG+(/SS+公僕/SH+)/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.5.3
+그는 "1966년 성공하기 위해 미국으로 간 이후 세탁공·페인트공 등 갖은 고생을 거치며 여러 면에서 아메리칸 드림을 이뤘지만 이제 마지막으로 주지사라는 공복으로서 봉사하고 싶다"고 말했다.
+
+그는	그/NP+는/JX
+"1966년	"/SS+1966/SN+년/NNB
+성공하기	성공/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+미국으로	미국/NNP+으로/JKB
+간	가/VV+ㄴ/ETM
+이후	이후/NNG
+세탁공·페인트공	세탁공/NNG+·/SP+페인트공/NNG
+등	등/NNB
+갖은	갖은/MMN
+고생을	고생/NNG+을/JKO
+거치며	거치/VV+며/EC
+여러	여러/MMN
+면에서	면/NNG+에서/JKB
+아메리칸	아메리칸/NNP
+드림을	드림/NNG+을/JKO
+이뤘지만	이루/VV+었/EP+지만/EC
+이제	이제/MAG
+마지막으로	마지막/NNG+으로/JKB
+주지사라는	주지사/NNG+이/VCP+라는/ETM
+공복으로서	공복/NNG+으로서/JKB
+봉사하고	봉사/NNG+하/XSV+고/EC
+싶다"고	싶/VX+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.6.1
+그는 전략이 풍부한 정치인으로 꼽힌 적도 있다.
+
+그는	그/NP+는/JX
+전략이	전략/NNG+이/JKS
+풍부한	풍부하/VA+ㄴ/ETM
+정치인으로	정치인/NNG+으로/JKB
+꼽힌	꼽히/VV+ㄴ/ETM
+적도	적/NNB+도/JX
+있다.	있/VV+다/EF+./SF
+
+
+# id : NWRW1800000022.338.6.2
+1999년 주 상원 경제개발·통상위원장으로 재직할 때의 일화 하나.
+
+1999년	1999/SN+년/NNB
+주	주/NNG
+상원	상원/NNG
+경제개발·통상위원장으로	경제/NNG+개발/NNG+·/SP+통상/NNG+위원장/NNG+으로/JKB
+재직할	재직/NNG+하/XSV+ㄹ/ETM
+때의	때/NNG+의/JKG
+일화	일화/NNG
+하나.	하나/NR+./SF
+
+
+# id : NWRW1800000022.338.6.3
+주 경계에 'You are welcome to visit Oregon, but please don't stay(오리건주를 방문하는 것은 환영하지만 머무르지는 마세요)'라는 광고판을 붙이게 한 이가 바로 임 전 의원이다.
+
+주	주/NNG
+경계에	경계/NNG+에/JKB
+'You	'/SS+You/SL
+are	are/SL
+welcome	welcome/SL
+to	to/SL
+visit	visit/SL
+Oregon,	Oregon/SL+,/SP
+but	but/SL
+please	please/SL
+don't	don/SL+'/SS+t/SL
+stay(오리건주를	stay/SL+(/SS+오리건주/NNP+를/JKO
+방문하는	방문/NNG+하/XSV+는/ETM
+것은	것/NNB+은/JX
+환영하지만	환영/NNG+하/XSV+지만/EC
+머무르지는	머무르/VV+지/EC+는/JX
+마세요)'라는	말/VX+시/EP+어요/EF+)/SS+'/SS+이/VCP+라는/ETM
+광고판을	광고판/NNG+을/JKO
+붙이게	붙이/VV+게/EC
+한	하/VX+ㄴ/ETM
+이가	이/NNB+가/JKS
+바로	바로/MAG
+임	임/NNP
+전	전/MMD
+의원이다.	의원/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.6.4
+일각에서는 "토착 미국인도 아닌 사람이 국수주의적 행동을 한다"고 비판했지만, 그는 "내 진의는 오리건주의 환경보호"라고 설득하며 주 안팎에서 폭넓은 지지를 이끌어냈다고 한다.
+
+일각에서는	일각/NNG+에서/JKB+는/JX
+"토착	"/SS+토착/NNG
+미국인도	미국인/NNG+도/JX
+아닌	아니/VCN+ㄴ/ETM
+사람이	사람/NNG+이/JKS
+국수주의적	국수주의/NNG+적/XSN
+행동을	행동/NNG+을/JKO
+한다"고	하/VV+ㄴ다/EF+"/SS+고/JKQ
+비판했지만,	비판/NNG+하/XSV+았/EP+지만/EC+,/SP
+그는	그/NP+는/JX
+"내	"/SS+나/NP+의/JKG
+진의는	진의/NNG+는/JX
+오리건주의	오리건주/NNP+의/JKG
+환경보호"라고	환경/NNG+보호/NNG+"/SS+라고/JKQ
+설득하며	설득/NNG+하/XSV+며/EC
+주	주/NNG
+안팎에서	안팎/NNG+에서/JKB
+폭넓은	폭넓/VA+은/ETM
+지지를	지지/NNG+를/JKO
+이끌어냈다고	이끌/VV+어/EC+내/VX+었/EP+다고/EC
+한다.	하/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.338.7.1
+43년째 미국생활을 하지만 임 전 의원은 단 한순간도 손에서 신문과 책을 떼어놓은 적이 없다고 했다.
+
+43년째	43/SN+년/NNB+째/XSN
+미국생활을	미국/NNP+생활/NNG+을/JKO
+하지만	하/VV+지만/EC
+임	임/NNP
+전	전/MMD
+의원은	의원/NNG+은/JX
+단	단/MMA
+한순간도	한순간/NNG+도/JX
+손에서	손/NNG+에서/JKB
+신문과	신문/NNG+과/JC
+책을	책/NNG+을/JKO
+떼어놓은	떼/VV+어/EC+놓/VX+은/ETM
+적이	적/NNB+이/JKS
+없다고	없/VA+다고/EC
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.7.2
+이유를 물었더니 "영어를 배우고 미국 사회를 이해하기 위해서"라고 했다.
+
+이유를	이유/NNG+를/JKO
+물었더니	묻/VV+었/EP+더니/EC
+"영어를	"/SS+영어/NNP+를/JKO
+배우고	배우/VV+고/EC
+미국	미국/NNP
+사회를	사회/NNG+를/JKO
+이해하기	이해/NNG+하/XSV+기/ETN
+위해서"라고	위하/VV+아서/EC+"/SS+라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.338.7.3
+신문과 책에는 늘 새로운 단어와 지식이 나오는데, 이를 놓치지 않아야만 시대에 뒤떨어지지 않고 발전할 수 있다는 게 임 전 의원의 생각이다.
+
+신문과	신문/NNG+과/JC
+책에는	책/NNG+에/JKB+는/JX
+늘	늘/MAG
+새로운	새롭/VA+ㄴ/ETM
+단어와	단어/NNG+와/JC
+지식이	지식/NNG+이/JKS
+나오는데,	나오/VV+는데/EC+,/SP
+이를	이/NP+를/JKO
+놓치지	놓치/VV+지/EC
+않아야만	않/VX+아야/EC+만/JX
+시대에	시대/NNG+에/JKB
+뒤떨어지지	뒤떨어지/VV+지/EC
+않고	않/VX+고/EC
+발전할	발전/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다는	있/VV+다는/ETM
+게	거/NNB+이/JKS
+임	임/NNP
+전	전/MMD
+의원의	의원/NNG+의/JKG
+생각이다.	생각/NNG+이/VCP+다/EF+./SF
+
+

@@ -1,0 +1,353 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.123
+metadata : {}
+
+
+# id : NWRW1800000026.123.1.1
+'친환경 교통 大家' 스펄링 소장;"차·연료·사고방식 '그린 3요소' 중 사고방식이 가장 바꾸기 어려워…"
+
+'친환경	'/SS+친/XPN+환경/NNG
+교통	교통/NNG
+大家'	大家/SH+'/SS
+스펄링	스펄링/NNP
+소장;"차·연료·사고방식	소장/NNG+;/SW+"/SS+차/NNG+·/SP+연료/NNG+·/SP+사고방식/NNG
+'그린	'/SS+그린/NNG
+3요소'	3/SN+요소/NNG+'/SS
+중	중/NNB
+사고방식이	사고방식/NNG+이/JKS
+가장	가장/MAG
+바꾸기	바꾸/VV+기/ETN
+어려워…"	어렵/VA+어/EF+…/SE+"/SS
+
+
+# id : NWRW1800000026.123.2.1
+교통 부문에서 탄소배출을 줄이려면 차, 연료, 사람들의 사고방식이라는 세 가지 요소가 필요합니다.
+
+교통	교통/NNG
+부문에서	부문/NNG+에서/JKB
+탄소배출을	탄소/NNG+배출/NNG+을/JKO
+줄이려면	줄이/VV+려면/EC
+차,	차/NNG+,/SP
+연료,	연료/NNG+,/SP
+사람들의	사람/NNG+들/XSN+의/JKG
+사고방식이라는	사고방식/NNG+이/VCP+라는/ETM
+세	세/MMN
+가지	가지/NNB
+요소가	요소/NNG+가/JKS
+필요합니다.	필요/NNG+하/XSA+ㅂ니다/EF+./SF
+
+
+# id : NWRW1800000026.123.2.2
+(미국을 보면) 이중 사고방식을 바꾸기가 가장 어렵습니다.
+
+(미국을	(/SS+미국/NNP+을/JKO
+보면)	보/VV+면/EC+)/SS
+이중	이/NP+중/NNB
+사고방식을	사고방식/NNG+을/JKO
+바꾸기가	바꾸/VV+기/ETN+가/JKS
+가장	가장/MAG
+어렵습니다.	어렵/VA+습니다/EF+./SF
+
+
+# id : NWRW1800000026.123.3.1
+다니엘 스펄링(Sperling) UC 데이비스 교통학연구소(ITS-Davis) 소장(교수)은 미국에서 '친환경 교통'을 대표하는 학자다.
+
+다니엘	다니엘/NNP
+스펄링(Sperling)	스펄링/NNP+(/SS+Sperling/SL+)/SS
+UC	UC/SL
+데이비스	데이비스/NNP
+교통학연구소(ITS-Davis)	교통학/NNG+연구소/NNG+(/SS+ITS/SL+-/SO+Davis/SL+)/SS
+소장(교수)은	소장/NNG+(/SS+교수/NNG+)/SS+은/JX
+미국에서	미국/NNP+에서/JKB
+'친환경	'/SS+친/XPN+환경/NNG
+교통'을	교통/NNG+'/SS+을/JKO
+대표하는	대표/NNG+하/XSV+는/ETM
+학자다.	학자/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.3.2
+그가 총괄하는 UC 데이비스 교통학연구소는 캘리포니아 주 정부의 친환경 '싱크 탱크(Think Tank)'이다.
+
+그가	그/NP+가/JKS
+총괄하는	총괄/NNG+하/XSV+는/ETM
+UC	UC/SL
+데이비스	데이비스/NNP
+교통학연구소는	교통학/NNG+연구소/NNG+는/JX
+캘리포니아	캘리포니아/NNP
+주	주/NNG
+정부의	정부/NNG+의/JKG
+친환경	친/XPN+환경/NNG
+'싱크	'/SS+싱크/NNG
+탱크(Think	탱크/NNG+(/SS+Think/SL
+Tank)'이다.	Tank/SL+)/SS+'/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.4.1
+캘리포니아주는 자동차의 연비를 규제하고, 전기차를 비롯해 탄소를 배출하지 않는 차량을 의무적으로 출시하도록 하는 등 미국을 선도하는 친환경 교통 규제를 쏟아내고 있다.
+
+캘리포니아주는	캘리포니아주/NNP+는/JX
+자동차의	자동차/NNG+의/JKG
+연비를	연비/NNG+를/JKO
+규제하고,	규제/NNG+하/XSV+고/EC+,/SP
+전기차를	전기/NNG+차/NNG+를/JKO
+비롯해	비롯하/VV+아/EC
+탄소를	탄소/NNG+를/JKO
+배출하지	배출/NNG+하/XSV+지/EC
+않는	않/VX+는/ETM
+차량을	차량/NNG+을/JKO
+의무적으로	의무/NNG+적/XSN+으로/JKB
+출시하도록	출시/NNG+하/XSV+도록/EC
+하는	하/VX+는/ETM
+등	등/NNB
+미국을	미국/NNP+을/JKO
+선도하는	선도/NNG+하/XSV+는/ETM
+친환경	친/XPN+환경/NNG
+교통	교통/NNG
+규제를	규제/NNG+를/JKO
+쏟아내고	쏟/VV+아/EC+내/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000026.123.4.2
+이 교통 규제들이 모두 스펄링 교수 휘하 연구팀의 '작품'이다.
+
+이	이/MMD
+교통	교통/NNG
+규제들이	규제/NNG+들/XSN+이/JKS
+모두	모두/MAG
+스펄링	스펄링/NNP
+교수	교수/NNG
+휘하	휘하/NNG
+연구팀의	연구/NNG+팀/NNG+의/JKG
+'작품'이다.	'/SS+작품/NNG+'/SS+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.5.1
+UC데이비스에서 만난 그는 미국이 친환경적으로 변화하는 데 어려움이 많다고 털어놨다.
+
+UC데이비스에서	UC데이비스/NNP+에서/JKB
+만난	만나/VV+ㄴ/ETM
+그는	그/NP+는/JX
+미국이	미국/NNP+이/JKS
+친환경적으로	친/XPN+환경/NNG+적/XSN+으로/JKB
+변화하는	변화/NNG+하/XSV+는/ETM
+데	데/NNB
+어려움이	어려움/NNG+이/JKS
+많다고	많/VA+다고/EC
+털어놨다.	털어놓/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.5.2
+그는 "좀 비관적으로 이야기하면 한쪽 길은 절망(despair), 다른 길은 파괴(destruction)일 정도로 둘 다 가기 싫은 갈림길"이라고 했다.
+
+그는	그/NP+는/JX
+"좀	"/SS+좀/MAG
+비관적으로	비관/NNG+적/XSN+으로/JKB
+이야기하면	이야기/NNG+하/XSV+면/EC
+한쪽	한쪽/NNG
+길은	길/NNG+은/JX
+절망(despair),	절망/NNG+(/SS+despair/SL+)/SS+,/SP
+다른	다른/MMD
+파괴(destruction)일	파괴/NNG+(/SS+destruction/SL+)/SS+이/VCP+ㄹ/ETM
+정도로	정도/NNG+로/JKB
+둘	둘/NR
+다	다/MAG
+가기	가/VV+기/ETN
+싫은	싫/VA+은/ETM
+갈림길"이라고	갈림길/NNG+"/SS+이라고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.5.3
+그는 특히 최근 경제 위기로 변화가 더 어려워졌다고 했다.
+
+그는	그/NP+는/JX
+특히	특히/MAG
+최근	최근/MAG
+경제	경제/NNG
+위기로	위기/NNG+로/JKB
+변화가	변화/NNG+가/JKS
+더	더/MAG
+어려워졌다고	어렵/VA+어/EC+지/VX+었/EP+다고/EC
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.5.4
+친환경에는 무엇보다 '돈'이 들기 때문이라는 것이다.
+
+친환경에는	친/XPN+환경/NNG+에/JKB+는/JX
+무엇보다	무엇/NP+보다/JKB
+'돈'이	'/SS+돈/NNG+'/SS+이/JKS
+들기	들/VV+기/ETN
+때문이라는	때문/NNB+이/VCP+라는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.5.5
+"아마도 2035년까지 전기차나 수소차는 휘발유 자동차보다 가격이 비쌀 겁니다.
+
+"아마도	"/SS+아마도/MAG
+2035년까지	2035/SN+년/NNB+까지/JX
+전기차나	전기/NNG+차/NNG+나/JC
+수소차는	수소/NNG+차/NNG+는/JX
+휘발유	휘발유/NNG
+자동차보다	자동차/NNG+보다/JKB
+가격이	가격/NNG+이/JKS
+비쌀	비싸/VA+ㄹ/ETM
+겁니다.	거/NNB+이/VCP+ㅂ니다/EF+./SF
+
+
+# id : NWRW1800000026.123.5.6
+기존 방식이 새로 개발되는 방식보다는 비용면에서는 훨씬 효율적이기 때문이죠."
+
+기존	기존/NNG
+방식이	방식/NNG+이/JKS
+새로	새로/MAG
+개발되는	개발/NNG+되/XSV+는/ETM
+방식보다는	방식/NNG+보다/JKB+는/JX
+비용면에서는	비용/NNG+면/NNG+에서/JKB+는/JX
+훨씬	훨씬/MAG
+효율적이기	효율/NNG+적/XSN+이/VCP+기/ETN
+때문이죠."	때문/NNB+이/VCP+죠/EF+./SF+"/SS
+
+
+# id : NWRW1800000026.123.6.1
+그는 "경제위기 이후 이제 정치인들이 더는 '친환경적이 되자'는 구호만으로 일반 소비자에게 친환경을 설득할 수 없다"고 말했다.
+
+그는	그/NP+는/JX
+"경제위기	"/SS+경제/NNG+위기/NNG
+이후	이후/NNG
+이제	이제/MAG
+정치인들이	정치인/NNG+들/XSN+이/JKS
+더는	더/MAG+는/JX
+'친환경적이	'/SS+친/XPN+환경/NNG+적/XSN+이/JKC
+되자'는	되/VV+자/EF+'/SS+는/ETM
+구호만으로	구호/NNG+만/JX+으로/JKB
+일반	일반/NNG
+소비자에게	소비자/NNG+에게/JKB
+친환경을	친/XPN+환경/NNG+을/JKO
+설득할	설득/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.6.2
+친환경 정책에 대한 접근을 근본부터 바꿔야 한다는 것이다.
+
+친환경	친/XPN+환경/NNG
+정책에	정책/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+접근을	접근/NNG+을/JKO
+근본부터	근본/NNG+부터/JX
+바꿔야	바꾸/VV+어야/EC
+한다는	하/VX+ㄴ다는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.6.3
+그는 자동차 연료를 예로 들었다.
+
+그는	그/NP+는/JX
+자동차	자동차/NNG
+연료를	연료/NNG+를/JKO
+예로	예/NNG+로/JKB
+들었다.	들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.6.4
+"30년 전부터 정치인들은 마치 식당에서 내놓는 '오늘의 음식'처럼 혼합연료, 메탄올, 수소연료전지, 에탄올 등을 번갈아 홍보했습니다.
+
+"30년	"/SS+30/SN+년/NNB
+전부터	전/NNG+부터/JX
+정치인들은	정치인/NNG+들/XSN+은/JX
+마치	마치/MAG
+식당에서	식당/NNG+에서/JKB
+내놓는	내놓/VV+는/ETM
+'오늘의	'/SS+오늘/NNG+의/JKG
+음식'처럼	음식/NNG+'/SS+처럼/JKB
+혼합연료,	혼합/NNG+연료/NNG+,/SP
+메탄올,	메탄올/NNG+,/SP
+수소연료전지,	수소/NNG+연료/NNG+전지/NNG+,/SP
+에탄올	에탄올/NNG
+등을	등/NNB+을/JKO
+번갈아	번갈/VV+아/EC
+홍보했습니다.	홍보/NNG+하/XSV+았/EP+습니다/EF+./SF
+
+
+# id : NWRW1800000026.123.6.5
+이런 식의 일희일비하는 정책으로는 소비자를 바꿀 수 없어요."
+
+이런	이런/MMD
+식의	식/NNB+의/JKG
+일희일비하는	일희일비/NNG+하/XSV+는/ETM
+정책으로는	정책/NNG+으로/JKB+는/JX
+소비자를	소비자/NNG+를/JKO
+바꿀	바꾸/VV+ㄹ/ETM
+수	수/NNB
+없어요."	없/VA+어요/EF+./SF+"/SS
+
+
+# id : NWRW1800000026.123.7.1
+그는 탄소배출권 거래제를 지속적으로 시행하는 게 유력한 대안으로 보인다고 말했다.
+
+그는	그/NP+는/JX
+탄소배출권	탄소/NNG+배출/NNG+권/XSN
+거래제를	거래/NNG+제/XSN+를/JKO
+지속적으로	지속/NNG+적/XSN+으로/JKB
+시행하는	시행/NNG+하/XSV+는/ETM
+게	거/NNB+이/JKS
+유력한	유력/NNG+하/XSA+ㄴ/ETM
+대안으로	대안/NNG+으로/JKB
+보인다고	보이/VV+ㄴ다고/EC
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.123.7.2
+화석 연료 대신 특정 연료를 사용하고 절감한 탄소배출량을 거래하면, 정부가 개입하지 않아도 저절로 시장에서 효율적인 연료가 정해진다는 것.
+
+화석	화석/NNG
+연료	연료/NNG
+대신	대신/NNG
+특정	특정/NNG
+연료를	연료/NNG+를/JKO
+사용하고	사용/NNG+하/XSV+고/EC
+절감한	절감/NNG+하/XSV+ㄴ/ETM
+탄소배출량을	탄소/NNG+배출량/NNG+을/JKO
+거래하면,	거래/NNG+하/XSV+면/EC+,/SP
+정부가	정부/NNG+가/JKS
+개입하지	개입/NNG+하/XSV+지/EC
+않아도	않/VX+아도/EC
+저절로	저절로/MAG
+시장에서	시장/NNG+에서/JKB
+효율적인	효율/NNG+적/XSN+이/VCP+ㄴ/ETM
+연료가	연료/NNG+가/JKS
+정해진다는	정하/VV+아/EC+지/VX+ㄴ다는/ETM
+것.	것/NNB+./SF
+
+
+# id : NWRW1800000026.123.7.3
+그는 또 "각 도시에서 일정 수 이상의 자동차 사용을 규제하는 방안도 적극적으로 검토할 필요가 있다"고 주장했다.
+
+그는	그/NP+는/JX
+또	또/MAG
+"각	"/SS+각/MMD
+도시에서	도시/NNG+에서/JKB
+일정	일정/NNG
+수	수/NNG
+이상의	이상/NNG+의/JKG
+자동차	자동차/NNG
+사용을	사용/NNG+을/JKO
+규제하는	규제/NNG+하/XSV+는/ETM
+방안도	방안/NNG+도/JX
+적극적으로	적극/NNG+적/XSN+으로/JKB
+검토할	검토/NNG+하/XSV+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+주장했다.	주장/NNG+하/XSV+았/EP+다/EF+./SF
+
+

@@ -1,0 +1,170 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000021.143
+metadata : {}
+
+
+# id : NWRW1800000021.143.1.1
+韓-加 쇠고기 수입금지 관련 7일 양자협의
+
+韓-加	韓/SH+-/SO+加/SH
+쇠고기	쇠고기/NNG
+수입금지	수입/NNG+금지/NNG
+관련	관련/NNG
+7일	7/SN+일/NNB
+양자협의	양자/NNG+협의/NNG
+
+
+# id : NWRW1800000021.143.2.1
+한국과 캐나다는 캐나다산 쇠고기의 한국 수입과 관련한 문제를 논의하기 위해 7일 스위스 제네바에서 양자협의를 개최한다고 외교통상부가 4일 밝혔다.
+
+한국과	한국/NNP+과/JC
+캐나다는	캐나다/NNP+는/JX
+캐나다산	캐나다/NNP+산/XSN
+쇠고기의	쇠고기/NNG+의/JKG
+한국	한국/NNP
+수입과	수입/NNG+과/JKB
+관련한	관련/NNG+하/XSV+ㄴ/ETM
+문제를	문제/NNG+를/JKO
+논의하기	논의/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+7일	7/SN+일/NNB
+스위스	스위스/NNP
+제네바에서	제네바/NNP+에서/JKB
+양자협의를	양자/NNG+협의/NNG+를/JKO
+개최한다고	개최/NNG+하/XSV+ㄴ다고/EC
+외교통상부가	외교/NNG+통상부/NNG+가/JKS
+4일	4/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.143.3.1
+이는 캐나다 측이 “한국의 캐나다산 쇠고기 및 쇠고기 제품에 대한 수입금지 조치 및 ‘가축전염병예방법’이 세계무역기구(WTO) 협정에 위배된다”며 한국을 WTO에 제소한 데 따른 것이다.
+
+이는	이/NP+는/JX
+캐나다	캐나다/NNP
+측이	측/NNB+이/JKS
+“한국의	“/SS+한국/NNP+의/JKG
+캐나다산	캐나다/NNP+산/XSN
+쇠고기	쇠고기/NNG
+및	및/MAG
+제품에	제품/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+수입금지	수입/NNG+금지/NNG
+조치	조치/NNG
+‘가축전염병예방법’이	‘/SS+가축/NNG+전염병/NNG+예방법/NNG+’/SS+이/JKS
+세계무역기구(WTO)	세계무역기구/NNP+(/SS+WTO/SL+)/SS
+협정에	협정/NNG+에/JKB
+위배된다”며	위배/NNG+되/XSV+ㄴ다/EF+”/SS+며/EC
+한국을	한국/NNP+을/JKO
+WTO에	WTO/SL+에/JKB
+제소한	제소/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+따른	따르/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000021.143.3.2
+양자협의는 WTO 분쟁 해결의 첫 절차로 60일 이내에 합의에 실패하면 WTO 회원국들로 구성된 분쟁 해결 패널이 본격적인 분쟁 해결 절차에 착수하게 된다.
+
+양자협의는	양자/NNG+협의/NNG+는/JX
+WTO	WTO/SL
+분쟁	분쟁/NNG
+해결의	해결/NNG+의/JKG
+첫	첫/MMN
+절차로	절차/NNG+로/JKB
+60일	60/SN+일/NNB
+이내에	이내/NNG+에/JKB
+합의에	합의/NNG+에/JKB
+실패하면	실패/NNG+하/XSV+면/EC
+회원국들로	회원국/NNG+들/XSN+로/JKB
+구성된	구성/NNG+되/XSV+ㄴ/ETM
+해결	해결/NNG
+패널이	패널/NNG+이/JKS
+본격적인	본격/NNG+적/XSN+이/VCP+ㄴ/ETM
+절차에	절차/NNG+에/JKB
+착수하게	착수/NNG+하/XSV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000021.143.4.1
+한국은 2003년 5월 캐나다에서 광우병(BSE)에 감염된 소가 발견된 직후부터 캐나다산 쇠고기 등 관련 제품의 수입을 금지해 왔다.
+
+한국은	한국/NNP+은/JX
+2003년	2003/SN+년/NNB
+5월	5/SN+월/NNB
+캐나다에서	캐나다/NNP+에서/JKB
+광우병(BSE)에	광우병/NNG+(/SS+BSE/SL+)/SS+에/JKB
+감염된	감염/NNG+되/XSV+ㄴ/ETM
+소가	소/NNG+가/JKS
+발견된	발견/NNG+되/XSV+ㄴ/ETM
+직후부터	직후/NNG+부터/JX
+캐나다산	캐나다/NNP+산/XSN
+쇠고기	쇠고기/NNG
+등	등/NNB
+관련	관련/NNG
+제품의	제품/NNG+의/JKG
+수입을	수입/NNG+을/JKO
+금지해	금지/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000021.143.4.2
+캐나다에서는 지난해 11월에도 광우병 감염 소가 발견됐지만 캐나다 정부는 국제수역사무국(OIE)이 캐나다를 미국과 같은 ‘광우병 위험통제국’으로 분류하고 있다는 점을 들어 한국 정부에 쇠고기 수입 재개를 요구하고 있다.
+
+캐나다에서는	캐나다/NNP+에서/JKB+는/JX
+지난해	지난해/NNG
+11월에도	11/SN+월/NNB+에/JKB+도/JX
+광우병	광우병/NNG
+감염	감염/NNG
+소가	소/NNG+가/JKS
+발견됐지만	발견/NNG+되/XSV+었/EP+지만/EC
+캐나다	캐나다/NNP
+정부는	정부/NNG+는/JX
+국제수역사무국(OIE)이	국제/NNG+수역/NNG+사무국/NNG+(/SS+OIE/SL+)/SS+이/JKS
+캐나다를	캐나다/NNP+를/JKO
+미국과	미국/NNP+과/JKB
+같은	같/VA+은/ETM
+‘광우병	‘/SS+광우병/NNG
+위험통제국’으로	위험/NNG+통제국/NNG+’/SS+으로/JKB
+분류하고	분류/NNG+하/XSV+고/EC
+있다는	있/VX+다는/ETM
+점을	점/NNG+을/JKO
+들어	들/VV+어/EC
+한국	한국/NNP
+정부에	정부/NNG+에/JKB
+쇠고기	쇠고기/NNG
+수입	수입/NNG
+재개를	재개/NNG+를/JKO
+요구하고	요구/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000021.143.5.1
+외교부 관계자는 “이번 양자협의에서 캐나다 측이 제기한 사항에 대해 WTO 협정 등 관련 규정을 토대로 적극 대응해 나갈 것”이라고 말했다.
+
+외교부	외교부/NNG
+관계자는	관계자/NNG+는/JX
+“이번	“/SS+이번/NNG
+양자협의에서	양자/NNG+협의/NNG+에서/JKB
+캐나다	캐나다/NNP
+측이	측/NNB+이/JKS
+제기한	제기/NNG+하/XSV+ㄴ/ETM
+사항에	사항/NNG+에/JKB
+대해	대하/VV+아/EC
+WTO	WTO/SL
+협정	협정/NNG
+등	등/NNB
+관련	관련/NNG
+규정을	규정/NNG+을/JKO
+토대로	토대/NNG+로/JKB
+적극	적극/NNG
+대응해	대응/NNG+하/XSV+아/EC
+나갈	나가/VX+ㄹ/ETM
+것”이라고	것/NNB+”/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

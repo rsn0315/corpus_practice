@@ -1,0 +1,124 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.30
+metadata : {}
+
+
+# id : NWRW1800000026.30.1.1
+KT, 협력사도 퇴출;177곳… 내년까지 67곳 더
+
+KT,	KT/SL+,/SP
+협력사도	협력사/NNG+도/JX
+퇴출;177곳…	퇴출/NNG+;/SW+177/SN+곳/NNG+…/SE
+내년까지	내년/NNG+까지/JX
+67곳	67/SN+곳/NNG
+더	더/MAG
+
+
+# id : NWRW1800000026.30.2.1
+KT가 최근 창사 이래 최대 규모의 명예퇴직을 시행한 데 이어 협력업체도 대폭 퇴출했다.
+
+KT가	KT/SL+가/JKS
+최근	최근/MAG
+창사	창사/NNG
+이래	이래/NNB
+최대	최대/NNG
+규모의	규모/NNG+의/JKG
+명예퇴직을	명예퇴직/NNG+을/JKO
+시행한	시행/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+이어	잇/VV+어/EC
+협력업체도	협력/NNG+업체/NNG+도/JX
+대폭	대폭/MAG
+퇴출했다.	퇴출/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.30.3.1
+KT는 "선로공사와 전원·전송장비 지원 등을 담당해온 KT의 통신네트워크 구축 공사 협력업체 가운데 177개 사를 1차로 퇴출한다"고 21일 밝혔다.
+
+KT는	KT/SL+는/JX
+"선로공사와	"/SS+선로/NNG+공사/NNG+와/JC
+전원·전송장비	전원/NNG+·/SP+전송/NNG+장비/NNG
+지원	지원/NNG
+등을	등/NNB+을/JKO
+담당해온	담당/NNG+하/XSV+아/EC+오/VX+ㄴ/ETM
+KT의	KT/SL+의/JKG
+통신네트워크	통신/NNG+네트워크/NNG
+구축	구축/NNG
+공사	공사/NNG
+협력업체	협력/NNG+업체/NNG
+가운데	가운데/NNG
+177개	177/SN+개/NNB
+사를	사/NNG+를/JKO
+1차로	1/SN+차/NNB+로/JKB
+퇴출한다"고	퇴출/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+21일	21/SN+일/NNB
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.30.3.2
+이에 따라 KT의 공사 협력업체는 484개에서 307개로 36% 줄었다.
+
+이에	이/NP+에/JKB
+따라	따르/VV+아/EC
+KT의	KT/SL+의/JKG
+공사	공사/NNG
+협력업체는	협력/NNG+업체/NNG+는/JX
+484개에서	484/SN+개/NNB+에서/JKB
+307개로	307/SN+개/NNB+로/JKB
+36%	36/SN+%/SW
+줄었다.	줄/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.30.3.3
+KT는 내년 말까지 67개 협력사를 추가로 퇴출할 방침이다.
+
+KT는	KT/SL+는/JX
+내년	내년/NNG
+말까지	말/NNB+까지/JX
+67개	67/SN+개/NNB
+협력사를	협력사/NNG+를/JKO
+추가로	추가/NNG+로/JKB
+퇴출할	퇴출/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.30.4.1
+KT가 이처럼 대규모로 협력사 퇴출에 나선 것은 그동안 연간 공사물량이 10억원 미만의 영세 시공사들이 원가를 절감하기 위해 재(再)하도급을 주는 구조로 공사를 진행하면서, 공사 품질이 떨어지고 각종 비리에 노출됐다는 판단에 따른 것이다.
+
+KT가	KT/SL+가/JKS
+이처럼	이/NP+처럼/JKB
+대규모로	대/XPN+규모/NNG+로/JKB
+협력사	협력사/NNG
+퇴출에	퇴출/NNG+에/JKB
+나선	나서/VV+ㄴ/ETM
+것은	것/NNB+은/JX
+그동안	그동안/NNG
+연간	연간/NNG
+공사물량이	공사/NNG+물량/NNG+이/JKS
+10억원	10/SN+억/NR+원/NNB
+미만의	미만/NNG+의/JKG
+영세	영세/NNG
+시공사들이	시공사/NNG+들/XSN+이/JKS
+원가를	원가/NNG+를/JKO
+절감하기	절감/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+재(再)하도급을	재/XPN+(/SS+再/SH+)/SS+하도급/NNG+을/JKO
+주는	주/VV+는/ETM
+구조로	구조/NNG+로/JKB
+공사를	공사/NNG+를/JKO
+진행하면서,	진행/NNG+하/XSV+면서/EC+,/SP
+공사	공사/NNG
+품질이	품질/NNG+이/JKS
+떨어지고	떨어지/VV+고/EC
+각종	각종/NNG
+비리에	비리/NNG+에/JKB
+노출됐다는	노출/NNG+되/XSV+었/EP+다는/ETM
+판단에	판단/NNG+에/JKB
+따른	따르/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+

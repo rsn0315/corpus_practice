@@ -1,0 +1,815 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.339
+metadata : {}
+
+
+# id : NWRW1800000022.339.1.1
+재방송만 틀면서… MBC·SBS, 케이블 채널 각각 7개로 늘려;"뜨는 프로, 채널만 바꿔' 돌림 편성'하면 돈벌이 돼 "지상파 '채널 독과점' 심화 방송 콘텐츠 다양성도 훼손
+
+재방송만	재/XPN+방송/NNG+만/JX
+틀면서…	틀/VV+면서/EC+…/SE
+MBC·SBS,	MBC/SL+·/SP+SBS/SL+,/SP
+케이블	케이블/NNG
+채널	채널/NNG
+각각	각각/MAG
+7개로	7/SN+개/NNB+로/JKB
+늘려;"뜨는	늘리/VV+어/EC+;/SP+"/SS+뜨/VV+는/ETM
+프로,	프로/NNG+,/SP
+채널만	채널/NNG+만/JX
+바꿔'	바꾸/VV+어/EC+'/SS
+돌림	돌림/NNG
+편성'하면	편성/NNG+'/SS+하/VV+면/EC
+돈벌이	돈벌이/NNG
+돼	되/VV+어/EC
+"지상파	"/SS+지상파/NNG
+'채널	'/SS+채널/NNG
+독과점'	독과점/NNG+'/SS
+심화	심화/NNG
+방송	방송/NNG
+콘텐츠	콘텐츠/NNG
+다양성도	다양/NNG+성/XSN+도/JX
+훼손	훼손/NNG
+
+
+# id : NWRW1800000022.339.2.1
+이강민(38·서울 마포구)씨는 최근 주말 저녁 케이블 TV를 보다가 한숨을 내쉬었다.
+
+이강민(38·서울	이강민/NNP+(/SS+38/SN+·/SP+서울/NNP
+마포구)씨는	마포구/NNP+)/SS+씨/NNB+는/JX
+최근	최근/NNG
+주말	주말/NNG
+저녁	저녁/NNG
+케이블	케이블/NNG
+TV를	TV/SL+를/JKO
+보다가	보/VV+다가/EC
+한숨을	한/XPN+숨/NNG+을/JKO
+내쉬었다.	내쉬/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.2.2
+MBC의 오락 프로그램인 '세바퀴(세상을 바꾸는 퀴즈)'가 저녁 무렵에는 MBC계열 케이블채널인 'MBC에브리원'에서 방송되더니 이어서 같은 MBC 계열 채널 'MBC드라마넷'에서 재방송이 나오고 다시 MBC 본 방송에서 '세바퀴'가 방송되더라는 것.
+
+MBC의	MBC/SL+의/JKG
+오락	오락/NNG
+프로그램인	프로그램/NNG+이/VCP+ㄴ/ETM
+'세바퀴(세상을	'/SS+세/MMN+바퀴/NNG+(/SS+세상/NNG+을/JKO
+바꾸는	바꾸/VV+는/ETM
+퀴즈)'가	퀴즈/NNG+)/SS+'/SS+가/JKS
+저녁	저녁/NNG
+무렵에는	무렵/NNB+에/JKB+는/JX
+MBC계열	MBC/SL+계열/NNG
+케이블채널인	케이블/NNG+채널/NNG+이/VCP+ㄴ/ETM
+'MBC에브리원'에서	'/SS+MBC에브리원/NNP+'/SS+에서/JKB
+방송되더니	방송/NNG+되/XSV+더니/EC
+이어서	이어서/MAG
+같은	같/VA+은/ETM
+MBC	MBC/SL
+계열	계열/NNG
+채널	채널/NNG
+'MBC드라마넷'에서	'/SS+MBC드라마넷/NNP+'/SS+에서/JKB
+재방송이	재/XPN+방송/NNG+이/JKS
+나오고	나오/VV+고/EC
+다시	다시/MAG
+본	본/NA
+방송에서	방송/NNG+에서/JKB
+'세바퀴'가	'/SS+세/MMN+바퀴/NNG+'/SS+가/JKS
+방송되더라는	방송/NNG+되/XSV+더라는/ETM
+것.	것/NNB+./SF
+
+
+# id : NWRW1800000022.339.2.3
+이날 저녁 무렵부터 3시간 넘게 '세바퀴' 본방·재방송이 채널을 바꿔가며 나온 것이다.
+
+이날	이날/NNG
+저녁	저녁/NNG
+무렵부터	무렵/NNB+부터/JX
+3시간	3/SN+시간/NNB
+넘게	넘/VV+게/EC
+'세바퀴'	'/SS+세/MMN+바퀴/NNG+'/SS
+본방·재방송이	본방/NNG+·/SP+재/XPN+방송/NNG+이/JKS
+채널을	채널/NNG+을/JKO
+바꿔가며	바꾸/VV+어/EC+가/VX+며/EC
+나온	나오/VV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.3.1
+이처럼 주말 황금 시간에 MBC는 채널 11번과 계열 케이블·위성 채널 등에서 인기 프로그램 재방송을 집중 편성, 시청자들을 잡아 두고 있다.
+
+이처럼	이/NP+처럼/JKB
+주말	주말/NNG
+황금	황금/NNG
+시간에	시간/NNG+에/JKB
+MBC는	MBC/SL+는/JX
+채널	채널/NNG
+11번과	11/SN+번/NNB+과/JC
+계열	계열/NNG
+케이블·위성	케이블/NNG+·/SP+위성/NNG
+등에서	등/NNB+에서/JKB
+인기	인기/NNG
+프로그램	프로그램/NNG
+재방송을	재/XPN+방송/NNG+을/JKO
+집중	집중/NNG
+편성,	편성/NNG+,/SP
+시청자들을	시청자/NNG+들/XSN+을/JKO
+잡아	잡/VV+아/EC
+두고	두/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.3.2
+뿐만 아니라 지상파 KBS·SBS도 경쟁적으로 자사 계열의 케이블 채널 숫자를 늘려가고 있어, '지상파의 케이블 채널 독점' 현상은 심화되고 있다.
+
+뿐만	뿐/NNB+만/JX
+아니라	아니/VCN+라/EC
+지상파	지상파/NNG
+KBS·SBS도	KBS/SL+·/SP+SBS/SL+도/JX
+경쟁적으로	경쟁/NNG+적/XSN+으로/JKB
+자사	자사/NNG
+계열의	계열/NNG+의/JKG
+케이블	케이블/NNG
+채널	채널/NNG
+숫자를	숫자/NNG+를/JKO
+늘려가고	늘리/VV+어/EC+가/VX+고/EC
+있어,	있/VX+어/EC+,/SP
+'지상파의	'/SS+지상파/NNG+의/JKG
+독점'	독점/NNG+'/SS
+현상은	현상/NNG+은/JX
+심화되고	심화/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.3.3
+시청자들은 "케이블 채널이 외견상 숫자는 많지만 실제로는 지상파 재방송 프로그램들로 채워지고 있는 느낌"이라고 불만을 터뜨리고 있다.
+
+시청자들은	시청자/NNG+들/XSN+은/JX
+"케이블	"/SS+케이블/NNG
+채널이	채널/NNG+이/JKS
+외견상	외견/NNG+상/XSN
+숫자는	숫자/NNG+는/JX
+많지만	많/VA+지만/EC
+실제로는	실제로/MAG+는/JX
+지상파	지상파/NNG
+재방송	재/XPN+방송/NNG
+프로그램들로	프로그램/NNG+들/XSN+로/JKB
+채워지고	채우/VV+어/EC+지/VX+고/EC
+있는	있/VX+는/ETM
+느낌"이라고	느낌/NNG+"/SS+이라고/JKQ
+불만을	불만/NNG+을/JKO
+터뜨리고	터뜨리/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.4.1
+◆지상파 재방송 채널로 전락한 케이블TV
+
+◆지상파	◆/SW+지상파/NNG
+재방송	재/XPN+방송/NNG
+채널로	채널/NNG+로/JKB
+전락한	전락/NNG+하/XSV+ㄴ/ETM
+케이블TV	케이블/NNG+TV/SL
+
+
+# id : NWRW1800000022.339.5.1
+지상파의 케이블 계열 채널들은 지상파의 '재방송 채널'로 전락한 지 오래다.
+
+지상파의	지상파/NNG+의/JKG
+케이블	케이블/NNG
+계열	계열/NNG
+채널들은	채널/NNG+들/XSN+은/JX
+'재방송	'/SS+재/XPN+방송/NNG
+채널'로	채널/NNG+'/SS+로/JKB
+전락한	전락/NNG+하/XSV+ㄴ/ETM
+지	지/NNB
+오래다.	오래/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.339.5.2
+이들 방송사의 편성표를 나란히 놓고 비교해보면 이런 사실을 쉽게 알 수 있다.
+
+이들	이/NP+들/XSN
+방송사의	방송사/NNG+의/JKG
+편성표를	편성표/NNG+를/JKO
+나란히	나란히/MAG
+놓고	놓/VV+고/EC
+비교해보면	비교/NNG+하/XSV+아/EC+보/VX+면/EC
+이런	이런/MMD
+사실을	사실/NNG+을/JKO
+쉽게	쉽/VA+게/EC
+알	알/VV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.339.5.3
+지난달 26일 MBC드라마넷과 MBC에브리원, MBC 3개 채널의 편성표에서 '세바퀴'를 찾아보면, '세바퀴'는 먼저 오후 5시5분부터 7시15분까지 MBC에브리원 채널에서 재방송 2회분이 방송된 것으로 나타났다.
+
+지난달	지난달/NNG
+26일	26/SN+일/NNB
+MBC드라마넷과	MBC드라마넷/NNP+과/JC
+MBC에브리원,	MBC에브리원/NNP+,/SP
+MBC	MBC/SL
+3개	3/SN+개/NNB
+채널의	채널/NNG+의/JKG
+편성표에서	편성표/NNG+에서/JKB
+'세바퀴'를	'/SS+세/MMN+바퀴/NNG+'/SS+를/JKO
+찾아보면,	찾아보/VV+면/EC+,/SP
+'세바퀴'는	'/SS+세/MMN+바퀴/NNG+'/SS+는/JX
+먼저	먼저/MAG
+오후	오후/NNG
+5시5분부터	5/SN+시/NNB+5/SN+분/NNB+부터/JX
+7시15분까지	7/SN+시/NNB+15/SN+분/NNB+까지/JX
+MBC에브리원	MBC에브리원/NNP
+채널에서	채널/NNG+에서/JKB
+재방송	재/XPN+방송/NNG
+2회분이	2/SN+회/NNB+분/XSN+이/JKS
+방송된	방송/NNG+되/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.5.4
+바로 이어서 7시20분부터는 MBC드라마넷이 바통을 이어받아 재방송을 2회 방송했다.
+
+바로	바로/MAG
+이어서	이어서/MAG
+7시20분부터는	7/SN+시/NNB+20/SN+분/NNB+부터/JX+는/JX
+MBC드라마넷이	MBC드라마넷/NNP+이/JKS
+바통을	바통/NNG+을/JKO
+이어받아	이어받/VV+아/EC
+재방송을	재/XPN+방송/NNG+을/JKO
+2회	2/SN+회/NNB
+방송했다.	방송/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.5.5
+그리고 밤 10시40분부터는 MBC 본방에서 정규 프로그램이 방송되는 식이었다.
+
+그리고	그리고/MAJ
+밤	밤/NNG
+10시40분부터는	10/SN+시/NNB+40/SN+분/NNB+부터/JX+는/JX
+MBC	MBC/SL
+본방에서	본방/NNG+에서/JKB
+정규	정규/NNG
+프로그램이	프로그램/NNG+이/JKS
+방송되는	방송/NNG+되/XSV+는/ETM
+식이었다.	식/NNB+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.6.1
+이는 다른 방송사들도 별반 다르지 않다.
+
+이는	이/NP+는/JX
+다른	다른/MMD
+방송사들도	방송사/NNG+들/XSN+도/JX
+별반	별반/MAG
+다르지	다르/VA+지/EC
+않다.	않/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.6.2
+지상파들은 소위 '뜨는' 프로그램이다 하면, 아침 저녁을 가리지 않고 '돌림 편성'을 하고 있다.
+
+지상파들은	지상파/NNG+들/XSN+은/JX
+소위	소위/MAG
+'뜨는'	'/SS+뜨/VV+는/ETM+'/SS
+프로그램이다	프로그램/NNG+이/VCP+다/EC
+하면,	하/VV+면/EC+,/SP
+아침	아침/NNG
+저녁을	저녁/NNG+을/JKO
+가리지	가리/VV+지/EC
+않고	않/VX+고/EC
+'돌림	'/SS+돌림/NNG
+편성'을	편성/NNG+'/SS+을/JKO
+하고	하/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.6.3
+시청률조사기관 TNS가 지난 7월 조사한 자료에 따르면, KBS드라마와 KBS JOY 2개 채널에서만 '강호동의 1박2일'을 한 달간 223회 방송한 것으로 나타났다.
+
+시청률조사기관	시청/NNG+률/XSN+조사/NNG+기관/NNG
+TNS가	TNS/SL+가/JKS
+지난	지나/VV+ㄴ/ETM
+7월	7/SN+월/NNB
+조사한	조사/NNG+하/XSV+ㄴ/ETM
+자료에	자료/NNG+에/JKB
+따르면,	따르/VV+면/EC+,/SP
+KBS드라마와	KBS드라마/NNP+와/JC
+KBS	KBS/SL
+JOY	JOY/SL
+2개	2/SN+개/NNB
+채널에서만	채널/NNG+에서/JKB+만/JX
+'강호동의	'/SS+강호동/NNP+의/JKG
+1박2일'을	1/SN+박/NNB+2/SN+일/NNB+'/SS+을/JKO
+한	한/MMN
+달간	달/NNB+간/XSN
+223회	223/SN+회/NNB
+방송한	방송/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.6.4
+'무한도전'의 경우도 MBC드라마넷과 에브리원, MBC ESPN 3개 채널에서 177회나 방송했다.
+
+'무한도전'의	'/SS+무한/NNG+도전/NNG+'/SS+의/JKG
+경우도	경우/NNG+도/JX
+MBC드라마넷과	MBC드라마넷/NNP+과/JC
+에브리원,	에브리원/NNP+,/SP
+MBC	MBC/SL
+ESPN	ESPN/SL
+3개	3/SN+개/NNB
+채널에서	채널/NNG+에서/JKB
+177회나	177/SN+회/NNB+나/JX
+방송했다.	방송/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.6.5
+SBS 계열 채널의 경우 주말이면 '패밀리가 떴다'를 집중 편성하고 있었다.
+
+SBS	SBS/SL
+계열	계열/NNG
+채널의	채널/NNG+의/JKG
+경우	경우/NNG
+주말이면	주말/NNG+이/VCP+면/EC
+'패밀리가	'/SS+패밀리/NNG+가/JKS
+떴다'를	뜨/VV+었/EP+다/EF+'/SS+를/JKO
+집중	집중/NNG
+편성하고	편성/NNG+하/XSV+고/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.6.6
+케이블채널인 온미디어 관계자는 "지상파 방송사들이 케이블까지 진출해 자사 계열 채널에서 계속 같은 프로그램만 틀어대다 보니 애초에 케이블·위성TV를 도입한 취지라고 할 수 있는 방송 콘텐츠의 다양성은 찾아볼 수 없다"고 말했다.
+
+케이블채널인	케이블/NNG+채널/NNG+이/VCP+ㄴ/ETM
+온미디어	온미디어/NNP
+관계자는	관계자/NNG+는/JX
+"지상파	"/SS+지상파/NNG
+방송사들이	방송사/NNG+들/XSN+이/JKS
+케이블까지	케이블/NNG+까지/JX
+진출해	진출/NNG+하/XSV+아/EC
+자사	자사/NNG
+계열	계열/NNG
+채널에서	채널/NNG+에서/JKB
+계속	계속/MAG
+같은	같/VA+은/ETM
+프로그램만	프로그램/NNG+만/JX
+틀어대다	틀/VV+어/EC+대/VX+다/EC
+보니	보/VX+니/EC
+애초에	애초/NNG+에/JKB
+케이블·위성TV를	케이블/NNG+·/SP+위성/NNG+TV/SL+를/JKO
+도입한	도입/NNG+하/XSV+ㄴ/ETM
+취지라고	취지/NNG+이/VCP+라고/EC
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+방송	방송/NNG
+콘텐츠의	콘텐츠/NNG+의/JKG
+다양성은	다양/NNG+성/XSN+은/JX
+찾아볼	찾아보/VV+ㄹ/ETM
+없다"고	없/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.7.1
+◆끊임없이 늘어나는 지상파 계열 방송채널
+
+◆끊임없이	◆/SW+끊임없이/MAG
+늘어나는	늘어나/VV+는/ETM
+지상파	지상파/NNG
+계열	계열/NNG
+방송채널	방송/NNG+채널/NNG
+
+
+# id : NWRW1800000022.339.8.1
+지상파 방송사들은 이런 상황에서도 자사 계열 PP를 확대하는 데 혈안이 돼 있다.
+
+지상파	지상파/NNG
+방송사들은	방송사/NNG+들/XSN+은/JX
+이런	이런/MMD
+상황에서도	상황/NNG+에서/JKB+도/JX
+자사	자사/NNG
+계열	계열/NNG
+PP를	PP/SL+를/JKO
+확대하는	확대/NNG+하/XSV+는/ETM
+데	데/NNB
+혈안이	혈안/NNG+이/JKC
+돼	되/VV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.8.2
+MBC는 이달 5일 생활문화채널을 표방하는 'MBC라이프'를 개국한다.
+
+MBC는	MBC/SL+는/JX
+이달	이달/NNG
+5일	5/SN+일/NNB
+생활문화채널을	생활/NNG+문화/NNG+채널/NNG+을/JKO
+표방하는	표방/NNG+하/XSV+는/ETM
+'MBC라이프'를	'/SS+MBC/SL+라이프/NNP+'/SS+를/JKO
+개국한다.	개국/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.339.8.3
+MBC는 지난 3월 자회사 MBC플러스미디어를 통해 중소 규모인 앨리스TV를 인수했고, 여기에 'MBC' 문패를 달아 재개국하는 것이다.
+
+MBC는	MBC/SL+는/JX
+지난	지나/VV+ㄴ/ETM
+3월	3/SN+월/NNB
+자회사	자회사/NNG
+MBC플러스미디어를	MBC플러스미디어/NNP+를/JKO
+통해	통하/VV+아/EC
+중소	중소/NNG
+규모인	규모/NNG+이/VCP+ㄴ/ETM
+앨리스TV를	앨리스TV/NNP+를/JKO
+인수했고,	인수/NNG+하/XSV+았/EP+고/EC+,/SP
+여기에	여기/NP+에/JKB
+'MBC'	'/SS+MBC/SL+'/SS
+문패를	문패/NNG+를/JKO
+달아	달/VV+아/EC
+재개국하는	재/XPN+개국/NNG+하/XSV+는/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.8.4
+같은 시기 함께 인수한 '채널텐'도 조만간 MBC의 방송 채널 확장 전략에 따라 재개국할 전망이다.
+
+같은	같/VA+은/ETM
+시기	시기/NNG
+함께	함께/MAG
+인수한	인수/NNG+하/XSV+ㄴ/ETM
+'채널텐'도	'/SS+채널텐/NNP+'/SS+도/JX
+조만간	조만간/MAG
+MBC의	MBC/SL+의/JKG
+방송	방송/NNG
+채널	채널/NNG
+확장	확장/NNG
+전략에	전략/NNG+에/JKB
+따라	따르/VV+아/EC
+재개국할	재/XPN+개국/NNG+하/XSV+ㄹ/ETM
+전망이다.	전망/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.9.1
+SBS도 올 초 위성방송에서만 나오던 'UTV'를 'E! 엔터테인먼트TV'로 재개국했으며, 최근에는 CJ그룹으로부터 스포츠채널 '엑스포츠'를 인수해, 계열 채널로 재론칭할 계획을 세우고 있다.
+
+SBS도	SBS/SL+도/JX
+올	올/NNG
+초	초/NNB
+위성방송에서만	위성/NNG+방송/NNG+에서/JKB+만/JX
+나오던	나오/VV+던/ETM
+'UTV'를	'/SS+UTV/SL+'/SS+를/JKO
+'E!	'/SS+E/SL+!/SF
+엔터테인먼트TV'로	엔터테인먼트/NNG+TV/SL+'/SS+로/JKB
+재개국했으며,	재/XPN+개국/NNG+하/XSV+았/EP+으며/EC+,/SP
+최근에는	최근/NNG+에/JKB+는/JX
+CJ그룹으로부터	CJ그룹/NNP+으로부터/JKB
+스포츠채널	스포츠/NNG+채널/NNG
+'엑스포츠'를	'/SS+엑스포츠/NNG+'/SS+를/JKO
+인수해,	인수/NNG+하/XSV+아/EC+,/SP
+계열	계열/NNG
+채널로	채널/NNG+로/JKB
+재론칭할	재/XPN+론칭/NNG+하/XSV+ㄹ/ETM
+계획을	계획/NNG+을/JKO
+세우고	세우/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.9.2
+KBS도 다른 지상파의 추이를 지켜보며, 내년쯤 추가 채널 론칭 여부를 고심하고 있다.
+
+KBS도	KBS/SL+도/JX
+다른	다른/MMD
+지상파의	지상파/NNG+의/JKG
+추이를	추이/NNG+를/JKO
+지켜보며,	지켜보/VV+며/EC+,/SP
+내년쯤	내년/NNG+쯤/XSN
+추가	추가/NNG
+채널	채널/NNG
+론칭	론칭/NNG
+여부를	여부/NNG+를/JKO
+고심하고	고심/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.10.1
+지상파들이 앞다퉈 채널 확장에 나서는 이유는 한마디로 '돈벌이'를 위해서다.
+
+지상파들이	지상파/NNG+들/XSN+이/JKS
+앞다퉈	앞다투/VV+어/EC
+채널	채널/NNG
+확장에	확장/NNG+에/JKB
+나서는	나서/VV+는/ETM
+이유는	이유/NNG+는/JX
+한마디로	한마디/NNG+로/JKB
+'돈벌이'를	'/SS+돈벌이/NNG+'/SS+를/JKO
+위해서다.	위하/VV+아서/EC+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.10.2
+지난해 KBS·MBC·SBS 계열 채널들은 각각 45억·50억·168억원 흑자를 냈다.
+
+지난해	지난해/NNG
+KBS·MBC·SBS	KBS/SL+·/SP+MBC/SL+·/SP+SBS/SL
+계열	계열/NNG
+채널들은	채널/NNG+들/XSN+은/JX
+각각	각각/MAG
+45억·50억·168억원	45/SN+억/NR+·/SP+50/SN+억/NR+·/SP+168/SN+억/NR+원/NNB
+흑자를	흑자/NNG+를/JKO
+냈다.	내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.10.3
+재방송만 틀어서 별도의 제작비가 들지 않기 때문에 가능한 일이다.
+
+재방송만	재/XPN+방송/NNG+만/JX
+틀어서	틀/VV+어서/EC
+별도의	별도/NNG+의/JKG
+제작비가	제작비/NNG+가/JKS
+들지	들/VV+지/EC
+않기	않/VX+기/ETN
+때문에	때문/NNB+에/JKB
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+일이다.	일/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.11.1
+반면 일반 케이블TV 채널은 막대한 제작비를 쏟아붓고도 적자에 허덕이고 있다.
+
+반면	반면/NNG
+일반	일반/NNG
+케이블TV	케이블/NNG+TV/SL
+채널은	채널/NNG+은/JX
+막대한	막대하/VA+ㄴ/ETM
+제작비를	제작비/NNG+를/JKO
+쏟아붓고도	쏟아붓/VV+고/EC+도/JX
+적자에	적자/NNG+에/JKB
+허덕이고	허덕이/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.11.2
+CJ미디어(계열 채널 포함)는 지난해 3618억원의 매출을 올렸지만, 1110억원의 대규모 적자를 기록했다.
+
+CJ미디어(계열	CJ미디어/NNP+(/SS+계열/NNG
+채널	채널/NNG
+포함)는	포함/NNG+)/SS+는/JX
+지난해	지난해/NNG
+3618억원의	3618/SN+억/NR+원/NNB+의/JKG
+매출을	매출/NNG+을/JKO
+올렸지만,	올리/VV+었/EP+지만/EC+,/SP
+1110억원의	1110/SN+억/NR+원/NNB+의/JKG
+대규모	대/XPN+규모/NNG
+적자를	적자/NNG+를/JKO
+기록했다.	기록/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.11.3
+방송 프로그램 제작에만 1226억원을 쏟아붓고 나온 결과다.
+
+방송	방송/NNG
+프로그램	프로그램/NNG
+제작에만	제작/NNG+에/JKB+만/JX
+1226억원을	1226/SN+억/NR+원/NNB+을/JKO
+쏟아붓고	쏟아붓/VV+고/EC
+나온	나오/VV+ㄴ/ETM
+결과다.	결과/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.11.4
+반면 SBS계열 채널들을 보면, 방송프로그램 제작비로 106억원을 쓰고서도 매출 1433억원에 순이익 168억원을 낸 것으로 나타났다.
+
+반면	반면/NNG
+SBS계열	SBS/SL+계열/NNG
+채널들을	채널/NNG+들/XSN+을/JKO
+보면,	보/VV+면/EC+,/SP
+방송프로그램	방송/NNG+프로그램/NNG
+제작비로	제작비/NNG+로/JKB
+106억원을	106/SN+억/NR+원/NNB+을/JKO
+쓰고서도	쓰/VV+고서/EC+도/JX
+매출	매출/NNG
+1433억원에	1433/SN+억/NR+원/NNB+에/JKB
+순이익	순이익/NNG
+168억원을	168/SN+억/NR+원/NNB+을/JKO
+낸	내/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+나타났다.	나타나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.12.1
+케이블TV 업계의 한 관계자는 "지상파가 재방송으로 케이블채널 시장을 장악하는 바람에 비(非) 지상파 계열의 채널들이 설 땅을 잃었다"면서 "엄청난 제작비를 쏟아붓는데도 지상파의 시장 독점을 뛰어넘기 힘들다"고 말했다.
+
+케이블TV	케이블/NNG+TV/SL
+업계의	업계/NNG+의/JKG
+한	한/MMN
+관계자는	관계자/NNG+는/JX
+"지상파가	"/SS+지상파/NNG+가/JKS
+재방송으로	재/XPN+방송/NNG+으로/JKB
+케이블채널	케이블/NNG+채널/NNG
+시장을	시장/NNG+을/JKO
+장악하는	장악/NNG+하/XSV+는/ETM
+바람에	바람/NNB+에/JKB
+비(非)	비/XPN+(/SS+非/SH+)/SS
+지상파	지상파/NNG
+계열의	계열/NNG+의/JKG
+채널들이	채널/NNG+들/XSN+이/JKS
+설	서/VV+ㄹ/ETM
+땅을	땅/NNG+을/JKO
+잃었다"면서	잃/VV+었/EP+다/EF+"/SS+면서/EC
+"엄청난	"/SS+엄청나/VA+ㄴ/ETM
+제작비를	제작비/NNG+를/JKO
+쏟아붓는데도	쏟아붓/VV+는데/EC+도/JX
+지상파의	지상파/NNG+의/JKG
+시장	시장/NNG
+독점을	독점/NNG+을/JKO
+뛰어넘기	뛰어넘/VV+기/ETN
+힘들다"고	힘들/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.13.1
+◆유명무실한 규제 조항
+
+◆유명무실한	◆/SW+유명무실/NNG+하/XSA+ㄴ/ETM
+규제	규제/NNG
+조항	조항/NNG
+
+
+# id : NWRW1800000022.339.14.1
+방송법 시행령은 지상파 방송사가 국내 전체 방송채널 수의 3%를 초과해 채널을 보유하지 못하도록 하고 있지만, 유명무실한 규정이라는 지적을 받고 있다.
+
+방송법	방송법/NNG
+시행령은	시행령/NNG+은/JX
+지상파	지상파/NNG
+방송사가	방송사/NNG+가/JKS
+국내	국내/NNG
+전체	전체/NNG
+방송채널	방송/NNG+채널/NNG
+수의	수/NNG+의/JKG
+3%를	3/SN+%/SW+를/JKO
+초과해	초과/NNG+하/XSV+아/EC
+채널을	채널/NNG+을/JKO
+보유하지	보유/NNG+하/XSV+지/EC
+못하도록	못하/VX+도록/EC
+하고	하/VX+고/EC
+있지만,	있/VX+지만/EC+,/SP
+유명무실한	유명무실/NNG+하/XSA+ㄴ/ETM
+규정이라는	규정/NNG+이/VCP+라는/ETM
+지적을	지적/NNG+을/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.14.2
+지상파 방송사는 국내에 등록된 방송채널 수 239개(6월 말 기준)의 3%를 넘지 않는 한도 내에서 최대 7개까지 계열 채널을 보유할 수 있다.
+
+지상파	지상파/NNG
+방송사는	방송사/NNG+는/JX
+국내에	국내/NNG+에/JKB
+등록된	등록/NNG+되/XSV+ㄴ/ETM
+방송채널	방송/NNG+채널/NNG
+수	수/NNB
+239개(6월	239/SN+개/NNB+(/SS+6/SN+월/NNB
+말	말/NNB
+기준)의	기준/NNG+)/SS+의/JKG
+3%를	3/SN+%/SW+를/JKO
+넘지	넘/VV+지/EC
+않는	않/VX+는/ETM
+한도	한도/NNG
+내에서	내/NNB+에서/JKB
+최대	최대/NNG
+7개까지	7/SN+개/NNB+까지/JX
+계열	계열/NNG
+채널을	채널/NNG+을/JKO
+보유할	보유/NNG+하/XSV+ㄹ/ETM
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.339.14.3
+하지만 이는 실제 현실과는 다소 동떨어져 있다는 지적이다.
+
+하지만	하지만/MAJ
+이는	이/NP+는/JX
+실제	실제/NNG
+현실과는	현실/NNG+과/JKB+는/JX
+다소	다소/MAG
+동떨어져	동떨어지/VA+어/EC
+있다는	있/VX+다는/ETM
+지적이다.	지적/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.15.1
+최성진 산업대 교수는 "방송채널로 등록만 해놓고 실제로는 방송을 내보내지 않는 채널(휴면채널)도 많다"며 "서류상의 채널을 기준으로 '3%룰'을 적용하면 허점이 생길 수 있다"고 말했다.
+
+최성진	최성진/NNP
+산업대	산업대/NNP
+교수는	교수/NNG+는/JX
+"방송채널로	"/SS+방송/NNG+채널/NNG+로/JKB
+등록만	등록/NNG+만/JX
+해놓고	하/VV+아/EC+놓/VX+고/EC
+실제로는	실제로/MAG+는/JX
+방송을	방송/NNG+을/JKO
+내보내지	내보내/VV+지/EC
+않는	않/VX+는/ETM
+채널(휴면채널)도	채널/NNG+(/SS+휴면/NNG+채널/NNG+)/SS+도/JX
+많다"며	많/VA+다/EF+"/SS+며/EC
+"서류상의	"/SS+서류/NNG+상/XSN+의/JKG
+채널을	채널/NNG+을/JKO
+기준으로	기준/NNG+으로/JKB
+'3%룰'을	'/SS+3/SN+%/SW+룰/NNG+'/SS+을/JKO
+적용하면	적용/NNG+하/XSV+면/EC
+허점이	허점/NNG+이/JKS
+생길	생기/VV+ㄹ/ETM
+수	수/NNB
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000022.339.15.2
+국내에서 실제로 방송을 하고 있는 채널의 숫자는 160여개.
+
+국내에서	국내/NNG+에서/JKB
+실제로	실제로/MAG
+방송을	방송/NNG+을/JKO
+하고	하/VV+고/EC
+있는	있/VX+는/ETM
+채널의	채널/NNG+의/JKG
+숫자는	숫자/NNG+는/JX
+160여개.	160/SN+여/XSN+개/NNB+./SF
+
+
+# id : NWRW1800000022.339.15.3
+여기에 3%룰을 적용해 지상파에는 4개 정도의 채널만 허용해야 한다는 주장도 있다.
+
+여기에	여기/NP+에/JKB
+3%룰을	3/SN+%/SW+룰/NNG+을/JKO
+적용해	적용/NNG+하/XSV+아/EC
+지상파에는	지상파/NNG+에/JKB+는/JX
+4개	4/SN+개/NNB
+정도의	정도/NNG+의/JKG
+채널만	채널/NNG+만/JX
+허용해야	허용/NNG+하/XSV+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+주장도	주장/NNG+도/JX
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.339.16.1
+게다가 케이블·위성 방송채널에서 지상파방송 프로그램의 재방송 횟수나 비율에 대한 규제는 없다.
+
+게다가	게다가/MAG
+케이블·위성	케이블/NNG+·/SP+위성/NNG
+방송채널에서	방송/NNG+채널/NNG+에서/JKB
+지상파방송	지상파/NNG+방송/NNG
+프로그램의	프로그램/NNG+의/JKG
+재방송	재/XPN+방송/NNG
+횟수나	횟수/NNG+나/JC
+비율에	비율/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+규제는	규제/NNG+는/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.339.16.2
+박천일 숙명여대 교수는 "지상파의 과도한 방송 채널 과점을 막으려는 법 제정의 취지가 현실에서는 힘을 발휘하지 못하고 있다"며 "지상파 계열 PP의 재방송 비율을 제한하고 자체 제작 비율을 늘리도록 의무화하는 강제적 수단까지 고려해볼 만하다"고 말했다.
+
+박천일	박천일/NNP
+숙명여대	숙명여대/NNP
+교수는	교수/NNG+는/JX
+"지상파의	"/SS+지상파/NNG+의/JKG
+과도한	과도/NNG+하/XSA+ㄴ/ETM
+방송	방송/NNG
+채널	채널/NNG
+과점을	과점/NNG+을/JKO
+막으려는	막/VV+으려는/ETM
+법	법/NNG
+제정의	제정/NNG+의/JKG
+취지가	취지/NNG+가/JKS
+현실에서는	현실/NNG+에서/JKB+는/JX
+힘을	힘/NNG+을/JKO
+발휘하지	발휘/NNG+하/XSV+지/EC
+못하고	못하/VX+고/EC
+있다"며	있/VX+다/EF+"/SS+며/EC
+"지상파	"/SS+지상파/NNG
+계열	계열/NNG
+PP의	PP/SL+의/JKG
+재방송	재/XPN+방송/NNG
+비율을	비율/NNG+을/JKO
+제한하고	제한/NNG+하/XSV+고/EC
+자체	자체/NNG
+제작	제작/NNG
+늘리도록	늘리/VV+도록/EC
+의무화하는	의무/NNG+화/XSN+하/XSV+는/ETM
+강제적	강제/NNG+적/XSN
+수단까지	수단/NNG+까지/JX
+고려해볼	고려/NNG+하/XSV+아/EC+보/VX+ㄹ/ETM
+만하다"고	만/NNB+하/XSA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

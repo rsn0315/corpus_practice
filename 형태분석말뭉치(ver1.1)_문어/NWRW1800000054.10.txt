@@ -1,0 +1,251 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000054.10
+metadata : {}
+
+
+# id : NWRW1800000054.10.1.1
+反 성소수자 행정명령, 이방카 부부가 막았다
+
+反	反/SH
+성소수자	성/NNG+소수자/NNG
+행정명령,	행정/NNG+명령/NNG+,/SP
+이방카	이방카/NNP
+부부가	부부/NNG+가/JKS
+막았다	막/VV+았/EP+다/EF
+
+
+# id : NWRW1800000054.10.2.1
+트럼프 설득해 '권리 보호' 유지
+
+트럼프	트럼프/NNP
+설득해	설득/NNG+하/XSV+아/EC
+'권리	'/SS+권리/NNG
+보호'	보호/NNG+'/SS
+유지	유지/NNG
+
+
+# id : NWRW1800000054.10.3.1
+도널드 트럼프 미국 대통령이 성소수자(LGBTQ) 보호조치를 박탈하는 '반(反)성소수자' 행정명령에 서명할 예정이었으나 맏딸 이방카와 사위 재러드 쿠슈너가 이를 적극 막았던 것으로 알려졌다.
+
+도널드	도널드/NNP
+트럼프	트럼프/NNP
+미국	미국/NNP
+대통령이	대통령/NNG+이/JKS
+성소수자(LGBTQ)	성/NNG+소수자/NNG+(/SS+LGBTQ/SL+)/SS
+보호조치를	보호/NNG+조치/NNG+를/JKO
+박탈하는	박탈/NNG+하/XSV+는/ETM
+'반(反)성소수자'	'/SS+반/XPN+(/SS+反/SH+)/SS+성/NNG+소수자/NNG+'/SS
+행정명령에	행정/NNG+명령/NNG+에/JKB
+서명할	서명/NNG+하/XSV+ㄹ/ETM
+예정이었으나	예정/NNG+이/VCP+었/EP+으나/EC
+맏딸	맏/XPN+딸/NNG
+이방카와	이방카/NNP+와/JC
+사위	사위/NNG
+재러드	재러드/NNP
+쿠슈너가	쿠슈너/NNP+가/JKS
+이를	이/NP+를/JKO
+적극	적극/NNG
+막았던	막/VV+았/EP+던/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.3.2
+성소수자는 레즈비언(Lesbian), 게이(Gay), 양성애자(Bisexual), 성전환자(Transgender), 동성애자(Queer) 등을 말한다.
+
+성소수자는	성/NNG+소수자/NNG+는/JX
+레즈비언(Lesbian),	레즈비언/NNG+(/SS+Lesbian/SL+)/SS+,/SP
+게이(Gay),	게이/NNG+(/SS+Gay/SL+)/SS+,/SP
+양성애자(Bisexual),	양성애자/NNG+(/SS+Bisexual/SL+)/SS+,/SP
+성전환자(Transgender),	성전환자/NNG+(/SS+Transgender/SL+)/SS+,/SP
+동성애자(Queer)	동성애자/NNG+(/SS+Queer/SL+)/SS
+등을	등/NNB+을/JKO
+말한다.	말/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000054.10.4.1
+뉴욕타임스(NYT)와 폴리티코는 막후 실세로 주목받고 있는 두 사람이 버락 오바마 전 대통령이 서명한 '성소수자 권리 보호 행정명령' 존치를 주장했다고 4일(현지 시각) 보도했다.
+
+뉴욕타임스(NYT)와	뉴욕타임스/NNP+(/SS+NYT/SL+)/SS+와/JC
+폴리티코는	폴리티코/NNP+는/JX
+막후	막후/NNG
+실세로	실세/NNG+로/JKB
+주목받고	주목/NNG+받/XSV+고/EC
+있는	있/VX+는/ETM
+두	두/MMN
+사람이	사람/NNG+이/JKS
+버락	버락/NNP
+오바마	오바마/NNP
+전	전/MMD
+대통령이	대통령/NNG+이/JKS
+서명한	서명/NNG+하/XSV+ㄴ/ETM
+'성소수자	'/SS+성/NNG+소수자/NNG
+권리	권리/NNG
+보호	보호/NNG
+행정명령'	행정/NNG+명령/NNG+'/SS
+존치를	존치/NNG+를/JKO
+주장했다고	주장/NNG+하/XSV+았/EP+다고/EC
+4일(현지	4/SN+일/NNB+(/SS+현지/NNG
+시각)	시각/NNG+)/SS
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.5.1
+트럼프 대통령은 대선 기간 오바마 전 대통령이 지난 2014년 서명한 성소수자 권리 보호 행정명령을 폐기하겠다고 공약했다.
+
+트럼프	트럼프/NNP
+대통령은	대통령/NNG+은/JX
+대선	대선/NNG
+기간	기간/NNG
+오바마	오바마/NNP
+전	전/MMD
+대통령이	대통령/NNG+이/JKS
+지난	지나/VV+ㄴ/ETM
+2014년	2014/SN+년/NNB
+서명한	서명/NNG+하/XSV+ㄴ/ETM
+성소수자	성/NNG+소수자/NNG
+권리	권리/NNG
+보호	보호/NNG
+행정명령을	행정/NNG+명령/NNG+을/JKO
+폐기하겠다고	폐기/NNG+하/XSV+겠/EP+다고/EC
+공약했다.	공약/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.5.2
+그러나 지난달 31일 성명에서는 180도 바뀐 입장을 발표해 주목을 받았다.
+
+그러나	그러나/MAJ
+지난달	지난달/NNG
+31일	31/SN+일/NNB
+성명에서는	성명/NNG+에서/JKB+는/JX
+180도	180/SN+도/NNB
+바뀐	바뀌/VV+ㄴ/ETM
+입장을	입장/NNG+을/JKO
+발표해	발표/NNG+하/XSV+아/EC
+주목을	주목/NNG+을/JKO
+받았다.	받/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.5.3
+백악관은 성명에서 "트럼프 대통령은 성소수자의 권리를 계속 존중하고 지지해 나갈 것"이라며 "성소수자를 비롯한 모든 미국인의 권리를 보호하며, 지난 선거에서도 그랬듯 이들의 권리를 존중하며 지지한다"고 밝혔다.
+
+백악관은	백악관/NNP+은/JX
+성명에서	성명/NNG+에서/JKB
+"트럼프	"/SS+트럼프/NNP
+대통령은	대통령/NNG+은/JX
+성소수자의	성/NNG+소수자/NNG+의/JKG
+권리를	권리/NNG+를/JKO
+계속	계속/MAG
+존중하고	존중/NNG+하/XSV+고/EC
+지지해	지지/NNG+하/XSV+아/EC
+나갈	나가/VX+ㄹ/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+"성소수자를	"/SS+성/NNG+소수자/NNG+를/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+모든	모든/MMN
+미국인의	미국인/NNG+의/JKG
+보호하며,	보호/NNG+하/XSV+며/EC+,/SP
+지난	지나/VV+ㄴ/ETM
+선거에서도	선거/NNG+에서/JKB+도/JX
+그랬듯	그렇/VA+었/EP+듯/EC
+이들의	이/NP+들/XSN+의/JKG
+존중하며	존중/NNG+하/XSV+며/EC
+지지한다"고	지지/NNG+하/XSV+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.6.1
+NYT는 "이방카와 쿠슈너가 반성소수자 행정명령에 강한 반대 의사를 표시했으며, 막판에는 트럼프 대통령과 논의에 직접 개입해 이를 막았다"고 보도했다.
+
+NYT는	NYT/SL+는/JX
+"이방카와	"/SS+이방카/NNP+와/JC
+쿠슈너가	쿠슈너/NNP+가/JKS
+반성소수자	반/XPN+성/NNG+소수자/NNG
+행정명령에	행정/NNG+명령/NNG+에/JKB
+강한	강하/VA+ㄴ/ETM
+반대	반대/NNG
+의사를	의사/NNG+를/JKO
+표시했으며,	표시/NNG+하/XSV+았/EP+으며/EC+,/SP
+막판에는	막판/NNG+에/JKB+는/JX
+트럼프	트럼프/NNP
+대통령과	대통령/NNG+과/JKB
+논의에	논의/NNG+에/JKB
+직접	직접/MAG
+개입해	개입/NNG+하/XSV+아/EC
+이를	이/NP+를/JKO
+막았다"고	막/VV+았/EP+다/EF+"/SS+고/JKQ
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.6.2
+신문은 또 이 부부가 종교 단체의 정치 활동을 허용하도록 '존슨 수정헌법'을 고치겠다는 트럼프의 방침에 대해서도 강력히 반대 의사를 밝혔다고 전했다.
+
+신문은	신문/NNG+은/JX
+또	또/MAG
+이	이/MMD
+부부가	부부/NNG+가/JKS
+종교	종교/NNG
+단체의	단체/NNG+의/JKG
+정치	정치/NNG
+활동을	활동/NNG+을/JKO
+허용하도록	허용/NNG+하/XSV+도록/EC
+'존슨	'/SS+존슨/NNP
+수정헌법'을	수정/NNG+헌법/NNG+'/SS+을/JKO
+고치겠다는	고치/VV+겠/EP+다는/ETM
+트럼프의	트럼프/NNP+의/JKG
+방침에	방침/NNG+에/JKB
+대해서도	대하/VV+아서/EC+도/JX
+강력히	강력히/MAG
+반대	반대/NNG
+의사를	의사/NNG+를/JKO
+밝혔다고	밝히/VV+었/EP+다고/EC
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.7.1
+이방카 부부는 자신들의 정치 성향을 공개적으로 드러낸 적은 없지만, 유대인인 쿠슈너는 전통적으로 민주당을 지지하는 집안 출신인 것으로 알려졌다.
+
+이방카	이방카/NNP
+부부는	부부/NNG+는/JX
+자신들의	자신/NNG+들/XSN+의/JKG
+정치	정치/NNG
+성향을	성향/NNG+을/JKO
+공개적으로	공개/NNG+적/XSN+으로/JKB
+드러낸	드러내/VV+ㄴ/ETM
+적은	적/NNB+은/JX
+없지만,	없/VA+지만/EC+,/SP
+유대인인	유대인/NNP+이/VCP+ㄴ/ETM
+쿠슈너는	쿠슈너/NNP+는/JX
+전통적으로	전통/NNG+적/XSN+으로/JKB
+민주당을	민주당/NNP+을/JKO
+지지하는	지지/NNG+하/XSV+는/ETM
+집안	집안/NNG
+출신인	출신/NNG+이/VCP+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000054.10.7.2
+이 부부는 지난 2013년 민주당 코리 부커 상원 의원(뉴저지)을 지지하는 자선 모금 행사를 열기도 했다.
+
+이	이/MMD
+부부는	부부/NNG+는/JX
+지난	지나/VV+ㄴ/ETM
+2013년	2013/SN+년/NNB
+민주당	민주당/NNP
+코리	코리/NNP
+부커	부커/NNP
+상원	상원/NNG
+의원(뉴저지)을	의원/NNG+(/SS+뉴저지/NNP+)/SS+을/JKO
+지지하는	지지/NNG+하/XSV+는/ETM
+자선	자선/NNG
+모금	모금/NNG
+행사를	행사/NNG+를/JKO
+열기도	열/VV+기/ETN+도/JX
+했다.	하/VV+았/EP+다/EF+./SF
+
+

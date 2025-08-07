@@ -1,0 +1,251 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000026.230
+metadata : {}
+
+
+# id : NWRW1800000026.230.1.1
+"한국, 금리 추가 인상해야";아눕 싱 IMF 아·태국장
+
+"한국,	"/SS+한국/NNP+,/SP
+금리	금리/NNG
+추가	추가/NNG
+인상해야";아눕	인상/NNG+하/XSV+아야/EC+"/SS+;/SW+아눕/NNP
+싱	싱/NNP
+IMF	IMF/SL
+아·태국장	아·태국장/NNG
+
+
+# id : NWRW1800000026.230.2.1
+IMF(국제통화기금)의 아눕 싱(Anoop Singh) 아시아·태평양 국장은 13일 "한국의 금리 인상이 추가적으로 이뤄져야 한다"고 밝혔다.
+
+IMF(국제통화기금)의	IMF/SL+(/SS+국제통화기금/NNP+)/SS+의/JKG
+아눕	아눕/NNP
+싱(Anoop	싱/NNP+(/SS+Anoop/SL
+Singh)	Singh/SL+)/SS
+아시아·태평양	아시아/NNP+·/SP+태평양/NNP
+국장은	국장/NNG+은/JX
+13일	13/SN+일/NNB
+"한국의	"/SS+한국/NNP+의/JKG
+금리	금리/NNG
+인상이	인상/NNG+이/JKS
+추가적으로	추가/NNG+적/XSN+으로/JKB
+이뤄져야	이뤄지/VV+어야/EC
+한다"고	하/VX+ㄴ다/EF+"/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.3.1
+이날 기획재정부와 IMF가 공동 주최한 'IMF·아시아 콘퍼런스'에 참석한 싱 국장은 본지와의 인터뷰에서 "세계 경제가 유럽의 재정위기 등으로 불안정하기 때문에 구체적인 인상 폭을 예단할 수 없지만 (한국의) 금리가 정상 수준을 되찾기엔 아직 멀었다"고 말했다.
+
+이날	이날/NNG
+기획재정부와	기획/NNG+재정부/NNG+와/JC
+IMF가	IMF/SL+가/JKS
+공동	공동/NNG
+주최한	주최/NNG+하/XSV+ㄴ/ETM
+'IMF·아시아	'/SS+IMF/SL+·/SP+아시아/NNP
+콘퍼런스'에	콘퍼런스/NNG+'/SS+에/JKB
+참석한	참석/NNG+하/XSV+ㄴ/ETM
+싱	싱/NNP
+국장은	국장/NNG+은/JX
+본지와의	본지/NNG+와/JKB+의/JKG
+인터뷰에서	인터뷰/NNG+에서/JKB
+"세계	"/SS+세계/NNG
+경제가	경제/NNG+가/JKS
+유럽의	유럽/NNP+의/JKG
+재정위기	재정/NNG+위기/NNG
+등으로	등/NNB+으로/JKB
+불안정하기	불/XPN+안정/NNG+하/XSA+기/ETN
+때문에	때문/NNB+에/JKB
+구체적인	구체/NNG+적/XSN+이/VCP+ㄴ/ETM
+인상	인상/NNG
+폭을	폭/NNG+을/JKO
+예단할	예단/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+없지만	없/VA+지만/EC
+(한국의)	(/SS+한국/NNP+의/JKG+)/SS
+금리가	금리/NNG+가/JKS
+정상	정상/NNG
+수준을	수준/NNG+을/JKO
+되찾기엔	되찾/VV+기/ETN+에/JKB+ㄴ/JX
+아직	아직/MAG
+멀었다"고	멀/VA+었/EP+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.3.2
+재작년 9월 발생한 글로벌 금융위기 이후 사상 최저 수준인 연 2%까지 떨어졌다가 최근 연 2.25%로 올라간 한국의 기준 금리가 큰 폭으로 더 높아져야 한다는 얘기다.
+
+재작년	재/XPN+작년/NNG
+9월	9/SN+월/NNB
+발생한	발생/NNG+하/XSV+ㄴ/ETM
+글로벌	글로벌/NNG
+금융위기	금융/NNG+위기/NNG
+이후	이후/NNG
+사상	사상/NNG
+최저	최저/NNG
+수준인	수준/NNG+이/VCP+ㄴ/ETM
+연	연/NNG
+2%까지	2/SN+%/SW+까지/JX
+떨어졌다가	떨어지/VV+었/EP+다가/EC
+최근	최근/MAG
+2.25%로	2/SN+./SP+25/SN+%/SW+로/JKB
+올라간	올라가/VV+ㄴ/ETM
+한국의	한국/NNP+의/JKG
+기준	기준/NNG
+금리가	금리/NNG+가/JKS
+큰	크/VA+ㄴ/ETM
+폭으로	폭/NNG+으로/JKB
+더	더/MAG
+높아져야	높아지/VV+어야/EC
+한다는	하/VX+ㄴ다는/ETM
+얘기다.	얘기/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.4.1
+그 근거로 싱 국장은 한국의 경기가 완연히 살아나고 있는 점을 들었다.
+
+그	그/MMD
+근거로	근거/NNG+로/JKB
+싱	싱/NNP
+국장은	국장/NNG+은/JX
+한국의	한국/NNP+의/JKG
+경기가	경기/NNG+가/JKS
+완연히	완연히/MAG
+살아나고	살아나/VV+고/EC
+있는	있/VX+는/ETM
+점을	점/NNG+을/JKO
+들었다.	들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.4.2
+최근 세계적으로 불거진 더블딥(double dip·경기 이중 침체) 가능성 논란에 대해서도 "한국은 (더블딥에 빠질 나라에)해당하지 않는다. 한국은 수출 성과가 내수 시장에까지 이어지고 있다"고 낙관적 전망을 했다.
+
+최근	최근/MAG
+세계적으로	세계/NNG+적/XSN+으로/JKB
+불거진	불거지/VV+ㄴ/ETM
+더블딥(double	더블딥/NNG+(/SS+double/SL
+dip·경기	dip/SL+·/SP+경기/NNG
+이중	이중/NNG
+침체)	침체/NNG+)/SS
+가능성	가능/NNG+성/XSN
+논란에	논란/NNG+에/JKB
+대해서도	대하/VV+아서/EC+도/JX
+"한국은	"/SS+한국/NNP+은/JX
+(더블딥에	(/SS+더블딥/NNG+에/JKB
+빠질	빠지/VV+ㄹ/ETM
+나라에)해당하지	나라/NNG+에/JKB+)/SS+해당/NNG+하/XSV+지/EC
+않는다.	않/VX+는다/EF+./SF
+한국은	한국/NNP+은/JX
+수출	수출/NNG
+성과가	성과/NNG+가/JKS
+내수	내수/NNG
+시장에까지	시장/NNG+에/JKB+까지/JX
+이어지고	이어지/VV+고/EC
+있다"고	있/VX+다/EF+"/SS+고/JKQ
+낙관적	낙관/NNG+적/XSN
+전망을	전망/NNG+을/JKO
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.5.1
+다만 싱 국장은 한국을 비롯한 아시아 국가들이 성장을 지속하려면 역내(域內) 교역을 강화해야 한다고 강조했다.
+
+다만	다만/MAG
+싱	싱/NNP
+국장은	국장/NNG+은/JX
+한국을	한국/NNP+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+아시아	아시아/NNP
+국가들이	국가/NNG+들/XSN+이/JKS
+성장을	성장/NNG+을/JKO
+지속하려면	지속/NNG+하/XSV+려면/EC
+역내(域內)	역내/NNG+(/SS+域內/SH+)/SS
+교역을	교역/NNG+을/JKO
+강화해야	강화/NNG+하/XSV+아야/EC
+한다고	하/VX+ㄴ다고/EC
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.5.2
+그는 "아시아 국가들은 미국·유럽과의 무역에 지나치게 많이 의존하고 있다"며 "아시아 내부에서 수요를 더 키워나갈 필요가 있다"고 말했다.
+
+그는	그/NP+는/JX
+"아시아	"/SS+아시아/NNP
+국가들은	국가/NNG+들/XSN+은/JX
+미국·유럽과의	미국/NNP+·/SP+유럽/NNP+과/JKB+의/JKG
+무역에	무역/NNG+에/JKB
+지나치게	지나치/VA+게/EC
+많이	많이/MAG
+의존하고	의존/NNG+하/XSV+고/EC
+있다"며	있/VX+다/EF+"/SS+며/EC
+내부에서	내부/NNG+에서/JKB
+수요를	수요/NNG+를/JKO
+더	더/MAG
+키워나갈	키우/VV+어/EC+나가/VX+ㄹ/ETM
+필요가	필요/NNG+가/JKS
+있다"고	있/VA+다/EF+"/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.6.1
+최근 한국에서 논란이 되고 있는 은행의 초대형화에 대해선 "지난 10년 동안 아시아의 금융 부문은 성장이 정체된 면이 있었다"며 "이미 한국의 많은 기업이 세계 50위권 안에 포함된 만큼 금융권에서도 세계 50위권 내 기업이 머지않아 나올 것"이라고 말했다.
+
+최근	최근/MAG
+한국에서	한국/NNP+에서/JKB
+논란이	논란/NNG+이/JKC
+되고	되/VV+고/EC
+있는	있/VX+는/ETM
+은행의	은행/NNG+의/JKG
+초대형화에	초/XPN+대형/NNG+화/XSN+에/JKB
+대해선	대하/VV+아서/EC+ㄴ/JX
+"지난	"/SS+지나/VV+ㄴ/ETM
+10년	10/SN+년/NNB
+동안	동안/NNG
+아시아의	아시아/NNP+의/JKG
+금융	금융/NNG
+부문은	부문/NNG+은/JX
+성장이	성장/NNG+이/JKS
+정체된	정체/NNG+되/XSV+ㄴ/ETM
+면이	면/NNG+이/JKS
+있었다"며	있/VV+었/EP+다/EF+"/SS+며/EC
+"이미	"/SS+이미/MAG
+한국의	한국/NNP+의/JKG
+많은	많/VA+은/ETM
+기업이	기업/NNG+이/JKS
+세계	세계/NNG
+50위권	50/SN+위/NNB+권/XSN
+안에	안/NNG+에/JKB
+포함된	포함/NNG+되/XSV+ㄴ/ETM
+만큼	만큼/NNB
+금융권에서도	금융/NNG+권/XSN+에서/JKB+도/JX
+내	내/NNB
+머지않아	머지않/VA+아/EC
+나올	나오/VV+ㄹ/ETM
+것"이라고	것/NNB+"/SS+이라고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000026.230.7.1
+싱 국장은 IMF 총재실 특별운용담당 국장, 정책개발·평가팀 선임자문관 등을 거쳐 2008년부터 아·태 국장을 맡고 있다.
+
+싱	싱/NNP
+국장은	국장/NNG+은/JX
+IMF	IMF/SL
+총재실	총재실/NNG
+특별운용담당	특별/NNG+운용/NNG+담당/NNG
+국장,	국장/NNG+,/SP
+정책개발·평가팀	정책/NNG+개발/NNG+·/SP+평가/NNG+팀/NNG
+선임자문관	선임/NNG+자문관/NNG
+등을	등/NNB+을/JKO
+거쳐	거치/VV+어/EC
+2008년부터	2008/SN+년/NNB+부터/JX
+아·태	아·태/NNP
+국장을	국장/NNG+을/JKO
+맡고	맡/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+

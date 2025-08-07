@@ -1,0 +1,265 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000053.236
+metadata : {}
+
+
+# id : NWRW1800000053.236.1.1
+양손에 MVP… ‘양’의 새 역사?
+
+양손에	양손/NNG+에/JKB
+MVP…	MVP/SL+…/SE
+‘양’의	‘/SS+양/NNP+’/SS+의/JKG
+새	새/MMA
+역사?	역사/NNG+?/SF
+
+
+# id : NWRW1800000053.236.2.1
+6일 프로야구 정규시즌 시상식 양현종 최우수선수 강력한 후보… 사상 첫 ‘KS와 동시 석권’ 관심 신인왕은 넥센 이정후 확실시
+
+6일	6/SN+일/NNB
+프로야구	프로/NNG+야구/NNG
+정규시즌	정규/NNG+시즌/NNG
+시상식	시상식/NNG
+양현종	양현종/NNP
+최우수선수	최/XPN+우수/NNG+선수/NNG
+강력한	강력/NNG+하/XSA+ㄴ/ETM
+후보…	후보/NNG+…/SE
+사상	사상/NNG
+첫	첫/MMN
+‘KS와	‘/SS+KS/SL+와/JKB
+동시	동시/NNG
+석권’	석권/NNG+’/SS
+관심	관심/NNG
+신인왕은	신인왕/NNG+은/JX
+넥센	넥센/NNP
+이정후	이정후/NNP
+확실시	확실시/NNG
+
+
+# id : NWRW1800000053.236.3.1
+올 시즌 KIA의 통합 우승을 이끈 에이스 양현종이 KBO리그 사상 첫 한국시리즈-정규시즌 최우수선수(MVP) 동시 석권에 도전한다.
+
+올	올/NNG
+시즌	시즌/NNG
+KIA의	KIA/SL+의/JKG
+통합	통합/NNG
+우승을	우승/NNG+을/JKO
+이끈	이끌/VV+ㄴ/ETM
+에이스	에이스/NNG
+양현종이	양현종/NNP+이/JKS
+KBO리그	KBO/SL+리그/NNG
+사상	사상/NNG
+첫	첫/MMN
+한국시리즈-정규시즌	한국/NNP+시리즈/NNG+-/SO+정규/NNG+시즌/NNG
+최우수선수(MVP)	최/XPN+우수/NNG+선수/NNG+(/SS+MVP/SL+)/SS
+동시	동시/NNG
+석권에	석권/NNG+에/JKB
+도전한다.	도전/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.236.4.1
+6일 서울 강남구 코엑스 하모니볼룸에서 열리는 ‘2017 타이어뱅크 KBO’ 시상식에서 양현종은 강력한 정규시즌 MVP 후보로 꼽히고 있다.
+
+6일	6/SN+일/NNB
+서울	서울/NNP
+강남구	강남구/NNP
+코엑스	코엑스/NNP
+하모니볼룸에서	하모니볼룸/NNP+에서/JKB
+열리는	열리/VV+는/ETM
+‘2017	‘/SS+2017/SN
+타이어뱅크	타이어뱅크/NNP
+KBO’	KBO/SL+’/SS
+시상식에서	시상식/NNG+에서/JKB
+양현종은	양현종/NNP+은/JX
+강력한	강력/NNG+하/XSA+ㄴ/ETM
+정규시즌	정규/NNG+시즌/NNG
+MVP	MVP/SL
+후보로	후보/NNG+로/JKB
+꼽히고	꼽히/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.236.4.2
+앞서 한국시리즈에서 양현종은 2차전 완봉승에 이어 KIA가 우승을 확정지은 5차전에서 세이브를 기록해 시리즈 MVP에 선정됐다.
+
+앞서	앞서/MAG
+한국시리즈에서	한국/NNP+시리즈/NNG+에서/JKB
+양현종은	양현종/NNP+은/JX
+2차전	2/SN+차전/NNB
+완봉승에	완봉/NNG+승/NNG+에/JKB
+이어	잇/VV+어/EC
+KIA가	KIA/SL+가/JKS
+우승을	우승/NNG+을/JKO
+확정지은	확정/NNG+짓/VV+은/ETM
+5차전에서	5/SN+차전/NNB+에서/JKB
+세이브를	세이브/NNG+를/JKO
+기록해	기록/NNG+하/XSV+아/EC
+시리즈	시리즈/NNG
+MVP에	MVP/SL+에/JKB
+선정됐다.	선정/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.236.4.3
+KBO리그 역사상 한 해에 정규시즌과 한국시리즈 MVP를 휩쓴 경우는 없어 양현종이 새 역사를 쓸 수 있을지 관심이 집중된다.
+
+KBO리그	KBO/SL+리그/NNG
+역사상	역사/NNG+상/XSN
+한	한/MMN
+해에	해/NNB+에/JKB
+정규시즌과	정규/NNG+시즌/NNG+과/JC
+한국시리즈	한국/NNP+시리즈/NNG
+MVP를	MVP/SL+를/JKO
+휩쓴	휩쓸/VV+ㄴ/ETM
+경우는	경우/NNG+는/JX
+없어	없/VA+어/EC
+양현종이	양현종/NNP+이/JKS
+새	새/MMA
+역사를	역사/NNG+를/JKO
+쓸	쓰/VV+ㄹ/ETM
+수	수/NNB
+있을지	있/VA+을지/EF
+관심이	관심/NNG+이/JKS
+집중된다.	집중/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.236.4.4
+양현종이 MVP 싹쓸이에 성공한 뒤 다음 달 발표되는 골든글러브까지 차지한다면 물론 사상 처음이 될 트리플 크라운의 영광까지 안게 된다.
+
+양현종이	양현종/NNP+이/JKS
+MVP	MVP/SL
+싹쓸이에	싹쓸이/NNG+에/JKB
+성공한	성공/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+다음	다음/NNG
+달	달/NNG
+발표되는	발표/NNG+되/XSV+는/ETM
+골든글러브까지	골든글러브/NNG+까지/JX
+차지한다면	차지/NNG+하/XSV+ㄴ다면/EC
+물론	물론/MAG
+사상	사상/NNG
+처음이	처음/NNG+이/JKC
+될	되/VV+ㄹ/ETM
+트리플	트리플/NNG
+크라운의	크라운/NNG+의/JKG
+영광까지	영광/NNG+까지/JX
+안게	안/VV+게/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.236.5.1
+양현종은 정규시즌에 1995년 이상훈(LG) 이후 22년 만의 토종 선발 20승을 달성해 팀 동료 헥터와 공동 다승왕이 됐으며 승률 2위(0.769), 평균자책점 5위(3.44)에 이름을 올렸다.
+
+양현종은	양현종/NNP+은/JX
+정규시즌에	정규/NNG+시즌/NNG+에/JKB
+1995년	1995/SN+년/NNB
+이상훈(LG)	이상훈/NNP+(/SS+LG/SL+)/SS
+이후	이후/NNG
+22년	22/SN+년/NNB
+만의	만/NNB+의/JKG
+토종	토종/NNG
+선발	선발/NNG
+20승을	20/SN+승/NNB+을/JKO
+달성해	달성/NNG+하/XSV+아/EC
+팀	팀/NNG
+동료	동료/NNG
+헥터와	헥터/NNP+와/JKB
+공동	공동/NNG
+다승왕이	다승왕/NNG+이/JKC
+됐으며	되/VV+었/EP+으며/EC
+승률	승률/NNG
+2위(0.769),	2/SN+위/NNB+(/SS+0/SN+./SP+769/SN+)/SS+,/SP
+평균자책점	평균/NNG+자책점/NNG
+5위(3.44)에	5/SN+위/NNB+(/SS+3/SN+./SP+44/SN+)/SS+에/JKB
+이름을	이름/NNG+을/JKO
+올렸다.	올리/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.236.5.2
+MVP를 다투는 헥터는 승률 1위(0.800)지만 양현종은 토종 프리미엄을 누리고 있다는 평가다.
+
+MVP를	MVP/SL+를/JKO
+다투는	다투/VV+는/ETM
+헥터는	헥터/NNP+는/JX
+승률	승률/NNG
+1위(0.800)지만	1/SN+위/NNB+(/SS+0/SN+./SP+800/SN+)/SS+이/VCP+지만/EC
+양현종은	양현종/NNP+은/JX
+토종	토종/NNG
+프리미엄을	프리미엄/NNG+을/JKO
+누리고	누리/VV+고/EC
+있다는	있/VX+다는/ETM
+평가다.	평가/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.236.5.3
+이들 KIA의 ‘20승 듀오’는 2년 연속 홈런왕에 오른 최정(SK·46홈런)과 함께 최고 선수 3파전을 펼치고 있다.
+
+이들	이/NP+들/XSN
+KIA의	KIA/SL+의/JKG
+‘20승	‘/SS+20/SN+승/NNB
+듀오’는	듀오/NNG+’/SS+는/JX
+2년	2/SN+년/NNB
+연속	연속/NNG
+홈런왕에	홈런왕/NNG+에/JKB
+오른	오르/VV+ㄴ/ETM
+최정(SK·46홈런)과	최정/NNP+(/SS+SK/SL+·/SP+46/SN+홈런/NNG+)/SS+과/JKB
+함께	함께/MAG
+최고	최고/NNG
+선수	선수/NNG
+3파전을	3파전/NNG+을/JKO
+펼치고	펼치/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.236.6.1
+신인왕은 이변이 없는 한 ‘바람의 손자’ 이정후(넥센)가 차지할 것으로 보인다.
+
+신인왕은	신인왕/NNG+은/JX
+이변이	이변/NNG+이/JKS
+없는	없/VA+는/ETM
+한	한/NNG
+‘바람의	‘/SS+바람/NNG+의/JKG
+손자’	손자/NNG+’/SS
+이정후(넥센)가	이정후/NNP+(/SS+넥센/NNP+)/SS+가/JKS
+차지할	차지/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.236.6.2
+그는 이번 시즌 고졸 신인 최초로 전 경기(144경기)에 출전하며 타율 0.324에 111득점으로 역대 신인 최다안타와 최다득점 기록을 갈아 치웠다.
+
+그는	그/NP+는/JX
+이번	이번/NNG
+시즌	시즌/NNG
+고졸	고졸/NNG
+신인	신인/NNG
+최초로	최초/NNG+로/JKB
+전	전/MMN
+경기(144경기)에	경기/NNG+(/SS+144/SN+경기/NNG+)/SS+에/JKB
+출전하며	출전/NNG+하/XSV+며/EC
+타율	타율/NNG
+0.324에	0/SN+./SP+324/SN+에/JKB
+111득점으로	111/SN+득점/NNG+으로/JKB
+역대	역대/NNG
+최다안타와	최다/NNG+안타/NNG+와/JC
+최다득점	최다/NNG+득점/NNG
+기록을	기록/NNG+을/JKO
+갈아	갈/VV+아/EC
+치웠다.	치우/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.236.7.1
+MVP와 신인왕은 KBO 취재기자 투표로 결정된다.
+
+MVP와	MVP/SL+와/JC
+신인왕은	신인왕/NNG+은/JX
+KBO	KBO/SL
+취재기자	취재/NNG+기자/NNG
+투표로	투표/NNG+로/JKB
+결정된다.	결정/NNG+되/XSV+ㄴ다/EF+./SF
+
+

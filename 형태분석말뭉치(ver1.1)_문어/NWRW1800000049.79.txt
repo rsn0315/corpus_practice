@@ -1,0 +1,372 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.79
+metadata : {}
+
+
+# id : NWRW1800000049.79.1.1
+[기업人]트레인공조, 3400USRT급 대용량 칠러 공급… 공조시장 공략
+
+[기업人]트레인공조,	[/SS+기업/NNG+人/SH+]/SS+트레인공조/NNP+,/SP
+3400USRT급	3400/SN+USRT/SW+급/NNG
+대용량	대/XPN+용량/NNG
+칠러	치르/VV+어/EC
+공급…	공급/NNG+…/SE
+공조시장	공조/NNG+시장/NNG
+공략	공략/NNG
+
+
+# id : NWRW1800000049.79.2.1
+트레인공조㈜
+
+트레인공조㈜	트레인공조/NNP+㈜/SW
+
+
+# id : NWRW1800000049.79.3.1
+트레인공조㈜(대표 김진기)가 에너지 효율을 높인 대용량 제품으로 공조시장 공략에 적극적으로 나섰다.
+
+트레인공조㈜(대표	트레인공조/NNP+㈜/SW+(/SS+대표/NNG
+김진기)가	김진기/NNP+)/SS+가/JKS
+에너지	에너지/NNG
+효율을	효율/NNG+을/JKO
+높인	높이/VV+ㄴ/ETM
+대용량	대/XPN+용량/NNG
+제품으로	제품/NNG+으로/JKB
+공조시장	공조/NNG+시장/NNG
+공략에	공략/NNG+에/JKB
+적극적으로	적극/NNG+적/XSN+으로/JKB
+나섰다.	나서/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.3.2
+트레인공조는 최근 냉동 공조 산업의 본고장인 미국에서 제작한 대용량 ‘칠러(Chiller·대형 건물 및 제조설비 냉방용 냉각장비)’를 수입해 올 하반기부터 선보일 계획이라고 밝혔다.
+
+트레인공조는	트레인공조/NNP+는/JX
+최근	최근/MAG
+냉동	냉동/NNG
+공조	공조/NNG
+산업의	산업/NNG+의/JKG
+본고장인	본고장/NNG+이/VCP+ㄴ/ETM
+미국에서	미국/NNP+에서/JKB
+제작한	제작/NNG+하/XSV+ㄴ/ETM
+대용량	대/XPN+용량/NNG
+‘칠러(Chiller·대형	‘/SS+칠러/NNG+(/SS+Chiller/SL+·/SP+대형/NNG
+건물	건물/NNG
+및	및/MAG
+제조설비	제조/NNG+설비/NNG
+냉방용	냉방/NNG+용/XSN
+냉각장비)’를	냉각/NNG+장비/NNG+)/SS+’/SS+를/JKO
+수입해	수입/NNG+하/XSV+아/EC
+올	올/NNG
+하반기부터	하반기/NNG+부터/JX
+선보일	선보이/VV+ㄹ/ETM
+계획이라고	계획/NNG+이/VCP+라고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.4.1
+미국 트레인사에서 공급받는 이 장비는 대온도차 저유량시스템 설계 방식을 채택해 국내 최초로 3400USRT급의 대용량을 갖춘 것이 특징이다.
+
+미국	미국/NNP
+트레인사에서	트레인사/NNP+에서/JKB
+공급받는	공급/NNG+받/XSV+는/ETM
+이	이/MMD
+장비는	장비/NNG+는/JX
+대온도차	대/XPN+온도/NNG+차/NNG
+저유량시스템	저/XPN+유량/NNG+시스템/NNG
+설계	설계/NNG
+방식을	방식/NNG+을/JKO
+채택해	채택/NNG+하/XSV+아/EC
+국내	국내/NNG
+최초로	최초/NNG+로/JKB
+3400USRT급의	3400/SN+USRT/SW+급/NNG+의/JKG
+대용량을	대/XPN+용량/NNG+을/JKO
+갖춘	갖추/VV+ㄴ/ETM
+것이	것/NNB+이/JKS
+특징이다.	특징/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.5.1
+트레인공조는 이와 별도로 전기에너지 소비 및 환경 변화를 최소화하기 위한 국가 시책에 적극 동참하기 위해 고효율을 지속 가능하게 유지할 수 있는 ‘비전기식(Non-Electric)’ 칠러 도입도 적극 검토 중이다.
+
+트레인공조는	트레인공조/NNP+는/JX
+이와	이/NP+와/JKB
+별도로	별도/NNG+로/JKB
+전기에너지	전기/NNG+에너지/NNG
+소비	소비/NNG
+및	및/MAG
+환경	환경/NNG
+변화를	변화/NNG+를/JKO
+최소화하기	최소/NNG+화/XSN+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+국가	국가/NNG
+시책에	시책/NNG+에/JKB
+적극	적극/NNG
+동참하기	동참/NNG+하/XSV+기/ETN
+위해	위하/VV+아/EC
+고효율을	고/XPN+효율/NNG+을/JKO
+지속	지속/NNG
+가능하게	가능/NNG+하/XSA+게/EC
+유지할	유지/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+‘비전기식(Non-Electric)’	‘/SS+비/XPN+전기식/NNG+(/SS+Non/SL+-/SO+Electric/SL+)/SS+’/SS
+칠러	칠러/NNG
+도입도	도입/NNG+도/JX
+검토	검토/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.6.1
+전기 대신 가스나 증기로 운전되는 비전기식 칠러는 가동시간이 오래 걸리고 효율이 떨어지는 기존 제품의 단점을 보완한 것이다.
+
+전기	전기/NNG
+대신	대신/NNG
+가스나	가스/NNG+나/JC
+증기로	증기/NNG+로/JKB
+운전되는	운전/NNG+되/XSV+는/ETM
+비전기식	비/XPN+전기식/NNG
+칠러는	칠러/NNG+는/JX
+가동시간이	가동/NNG+시간/NNG+이/JKS
+오래	오래/MAG
+걸리고	걸리/VV+고/EC
+효율이	효율/NNG+이/JKS
+떨어지는	떨어지/VV+는/ETM
+기존	기존/NNG
+제품의	제품/NNG+의/JKG
+단점을	단점/NNG+을/JKO
+보완한	보완/NNG+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.6.2
+국가적 에너지 절약 시책에 맞춰 고효율을 실현한 제품으로, 최근 이슈로 부각한 전력수급 문제에도 기여할 것으로 보인다.
+
+국가적	국가/NNG+적/XSN
+에너지	에너지/NNG
+절약	절약/NNG
+시책에	시책/NNG+에/JKB
+맞춰	맞추/VV+어/EC
+고효율을	고/XPN+효율/NNG+을/JKO
+실현한	실현/NNG+하/XSV+ㄴ/ETM
+제품으로,	제품/NNG+으로/JKB+,/SP
+최근	최근/MAG
+이슈로	이슈/NNG+로/JKB
+부각한	부각/NNG+하/XSV+ㄴ/ETM
+전력수급	전력/NNG+수급/NNG
+문제에도	문제/NNG+에/JKB+도/JX
+기여할	기여/NNG+하/XSV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.79.7.1
+트레인공조는 이처럼 범세계적 기후협약에 부응할 수 있는 다양한 신개념 냉동 공조기기들을 보급해 경쟁사보다 성장의 고삐를 바짝 죈다는 방침이다.
+
+트레인공조는	트레인공조/NNP+는/JX
+이처럼	이/NP+처럼/JKB
+범세계적	범/XPN+세계/NNG+적/XSN
+기후협약에	기후/NNG+협약/NNG+에/JKB
+부응할	부응/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+신개념	신/XPN+개념/NNG
+냉동	냉동/NNG
+공조기기들을	공조/NNG+기기/NNG+들/XSN+을/JKO
+보급해	보급/NNG+하/XSV+아/EC
+경쟁사보다	경쟁사/NNG+보다/JKB
+성장의	성장/NNG+의/JKG
+고삐를	고삐/NNG+를/JKO
+바짝	바짝/MAG
+죈다는	죄/VV+ㄴ다는/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.8.1
+경기 성남 수정구에 위치한 트레인공조는 중대형 냉동 공조기를 공급하고 설치·유지하는 회사다.
+
+경기	경기/NNP
+성남	성남/NNP
+수정구에	수정구/NNP+에/JKB
+위치한	위치/NNG+하/XSV+ㄴ/ETM
+트레인공조는	트레인공조/NNP+는/JX
+중대형	중대형/NNG
+냉동	냉동/NNG
+공조기를	공조기/NNG+를/JKO
+공급하고	공급/NNG+하/XSV+고/EC
+설치·유지하는	설치/NNG+·/SP+유지/NNG+하/XSV+는/ETM
+회사다.	회사/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.8.2
+현대건설 해외설비부서에서 근무하다 만도기계 냉동사업부를 거친 김진기 대표가 2000년 설립했다.
+
+현대건설	현대건설/NNP
+해외설비부서에서	해외/NNG+설비/NNG+부서/NNG+에서/JKB
+근무하다	근무/NNG+하/XSV+다/EC
+만도기계	만도기계/NNP
+냉동사업부를	냉동/NNG+사업부/NNG+를/JKO
+거친	거치/VV+ㄴ/ETM
+김진기	김진기/NNP
+대표가	대표/NNG+가/JKS
+2000년	2000/SN+년/NNB
+설립했다.	설립/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.9.1
+트레인공조의 경쟁력은 에너지 효율이 높고 지속적으로 안정적인 운전이 가능한 냉난방공조(HVAC) 제품을 발굴해 선보인다는 점이다.
+
+트레인공조의	트레인공조/NNP+의/JKG
+경쟁력은	경쟁력/NNG+은/JX
+에너지	에너지/NNG
+효율이	효율/NNG+이/JKS
+높고	높/VA+고/EC
+지속적으로	지속/NNG+적/XSN+으로/JKB
+안정적인	안정/NNG+적/XSN+이/VCP+ㄴ/ETM
+운전이	운전/NNG+이/JKS
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+냉난방공조(HVAC)	냉난방/NNG+공조/NNG+(/SS+HVAC/SL+)/SS
+제품을	제품/NNG+을/JKO
+발굴해	발굴/NNG+하/XSV+아/EC
+선보인다는	선보이/VV+ㄴ다는/ETM
+점이다.	점/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.9.2
+특히 설계 및 엔지니어링에서부터 AS에 이르기까지 전 과정을 원스톱 시스템으로 제공한다.
+
+특히	특히/MAG
+설계	설계/NNG
+및	및/MAG
+엔지니어링에서부터	엔지니어링/NNG+에서부터/JKB
+AS에	AS/SL+에/JKB
+이르기까지	이르/VV+기/ETN+까지/JX
+전	전/MMN
+과정을	과정/NNG+을/JKO
+원스톱	원스톱/NNG
+시스템으로	시스템/NNG+으로/JKB
+제공한다.	제공/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.79.10.1
+김 대표는 “냉매의 오존파괴지수(ODP)와 지구온난화지수(GWP)가 기후변화 협약에서 규정하고 있는 기준치에 부합될 수 있도록 연구개발에 박차를 가하고 있다”며 “기존의 HVAC 제품과 결합해 시너지효과를 낼 수 있는 새로운 형태의 제품들을 속속 선보일 예정”이라고 밝혔다.
+
+김	김/NNP
+대표는	대표/NNG+는/JX
+“냉매의	“/SS+냉매/NNG+의/JKG
+오존파괴지수(ODP)와	오존/NNG+파괴/NNG+지수/NNG+(/SS+ODP/SL+)/SS+와/JC
+지구온난화지수(GWP)가	지구/NNG+온난/NNG+화/XSN+지수/NNG+(/SS+GWP/SL+)/SS+가/JKS
+기후변화	기후/NNG+변화/NNG
+협약에서	협약/NNG+에서/JKB
+규정하고	규정/NNG+하/XSV+고/EC
+있는	있/VA+는/ETM
+기준치에	기준/NNG+치/XSN+에/JKB
+부합될	부합/NNG+되/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+연구개발에	연구/NNG+개발/NNG+에/JKB
+박차를	박차/NNG+를/JKO
+가하고	가하/VV+고/EC
+있다”며	있/VX+다/EF+”/SS+며/EC
+“기존의	“/SS+기존/NNG+의/JKG
+HVAC	HVAC/SL
+제품과	제품/NNG+과/JKB
+결합해	결합/NNG+하/XSV+아/EC
+시너지효과를	시너지/NNG+효과/NNG+를/JKO
+낼	내/VV+ㄹ/ETM
+새로운	새롭/VA+ㄴ/ETM
+형태의	형태/NNG+의/JKG
+제품들을	제품/NNG+들/XSN+을/JKO
+속속	속속/MAG
+선보일	선보이/VV+ㄹ/ETM
+예정”이라고	예정/NNG+”/SS+이라고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.10.2
+그는 공조기기 도입에 있어서도 현명한 선택을 강조했다.
+
+그는	그/NP+는/JX
+공조기기	공조/NNG+기기/NNG
+도입에	도입/NNG+에/JKB
+있어서도	있/VA+어서/EC+도/JX
+현명한	현명/NNG+하/XSA+ㄴ/ETM
+선택을	선택/NNG+을/JKO
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.11.1
+김 대표는 “중·대형 칠러를 포함한 HVAC 제품은 보통 15∼20년의 생애주기를 갖고 있다”며 “시간이 흐름에 따라 주변의 제반환경에 의해 장비효율이 저하되는 만큼 초기 투자비보다는 생애주기 동안 지속 가능하게 운전비용을 대폭 절감할 수 있는 고효율 제품을 선택하는 것이 바람직하다”고 강조했다.
+
+김	김/NNP
+대표는	대표/NNG+는/JX
+“중·대형	“/SS+중/NNG+·/SP+대/NNG+형/XSN
+칠러를	칠러/NNG+를/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+HVAC	HVAC/SL
+제품은	제품/NNG+은/JX
+보통	보통/MAG
+15∼20년의	15/SN+∼/SO+20/SN+년/NNB+의/JKG
+생애주기를	생애/NNG+주기/NNG+를/JKO
+갖고	갖/VV+고/EC
+있다”며	있/VX+다/EF+”/SS+며/EC
+“시간이	“/SS+시간/NNG+이/JKS
+흐름에	흐름/NNG+에/JKB
+따라	따르/VV+아/EC
+주변의	주변/NNG+의/JKG
+제반환경에	제반/NNG+환경/NNG+에/JKB
+의해	의하/VV+아/EC
+장비효율이	장비/NNG+효율/NNG+이/JKS
+저하되는	저하/NNG+되/XSV+는/ETM
+만큼	만큼/NNB
+초기	초기/NNG
+투자비보다는	투자비/NNG+보다/JKB+는/JX
+생애주기	생애/NNG+주기/NNG
+동안	동안/NNG
+지속	지속/NNG
+가능하게	가능/NNG+하/XSA+게/EC
+운전비용을	운전/NNG+비용/NNG+을/JKO
+대폭	대폭/MAG
+절감할	절감/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+고효율	고/XPN+효율/NNG
+제품을	제품/NNG+을/JKO
+선택하는	선택/NNG+하/XSV+는/ETM
+것이	것/NNB+이/JKS
+바람직하다”고	바람직하/VA+다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.79.11.2
+1년 동안 각 상업·산업현장에서 냉동 공조기기를 작동하는 데 적게는 수백만 원에서 많게는 억 단위의 차이가 남에 따라 경제성 측면에서 꼭 따져봐야 한다는 조언이다.
+
+1년	1/SN+년/NNB
+동안	동안/NNG
+각	각/MMD
+상업·산업현장에서	상업/NNG+·/SP+산업/NNG+현장/NNG+에서/JKB
+냉동	냉동/NNG
+공조기기를	공조/NNG+기기/NNG+를/JKO
+작동하는	작동/NNG+하/XSV+는/ETM
+데	데/NNB
+적게는	적/VA+게/EC+는/JX
+수백만	수백만/NR
+원에서	원/NNB+에서/JKB
+많게는	많/VA+게/EC+는/JX
+억	억/NR
+단위의	단위/NNG+의/JKG
+차이가	차이/NNG+가/JKS
+남에	나/VV+ㅁ/ETN+에/JKB
+따라	따르/VV+아/EC
+경제성	경제/NNG+성/XSN
+측면에서	측면/NNG+에서/JKB
+꼭	꼭/MAG
+따져봐야	따지/VV+어/EC+보/VX+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+조언이다.	조언/NNG+이/VCP+다/EF+./SF
+
+

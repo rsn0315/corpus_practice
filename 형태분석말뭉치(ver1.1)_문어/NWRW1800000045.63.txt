@@ -1,0 +1,352 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.63
+metadata : {}
+
+
+# id : NWRW1800000045.63.1.1
+[기업&CEO]㈜다비치안경체인, 新경영 운영체계 ‘VM’… 창조경영 1등 안경체인
+
+[기업&CEO]㈜다비치안경체인,	[/SS+기업/NNG+&/SW+CEO/SL+]/SS+㈜/SW+다비치안경/NNP+체인/NNG+,/SP
+新경영	新/SH+경영/NNG
+운영체계	운영/NNG+체계/NNG
+‘VM’…	‘/SS+VM/SL+’/SS+…/SE
+창조경영	창조/NNG+경영/NNG
+1등	1/SN+등/NNB
+안경체인	안경/NNG+체인/NNG
+
+
+# id : NWRW1800000045.63.2.1
+“힘들수록 드러내라!”
+
+“힘들수록	“/SS+힘들/VA+ㄹ수록/EC
+드러내라!”	드러내/VV+어라/EF+!/SF+”/SS
+
+
+# id : NWRW1800000045.63.3.1
+1월 16일 금요일.
+
+1월	1/SN+월/NNB
+16일	16/SN+일/NNB
+금요일.	금요일/NNG+./SF
+
+
+# id : NWRW1800000045.63.3.2
+서울 명동 ㈜다비치안경체인(www.davich.com·대표 김인규) 본사에는 국내 8개 전도유망한 중소기업 22명의 대표 및 경영진들이 한자리에 모였다.
+
+서울	서울/NNP
+명동	명동/NNP
+㈜다비치안경체인(www.davich.com·대표	㈜/SW+다비치안경/NNP+체인/NNG+(/SS+www/SL+./SP+davich/SL+./SP+com/SL+·/SP+대표/NNG
+김인규)	김인규/NNP+)/SS
+본사에는	본사/NNG+에/JKB+는/JX
+국내	국내/NNG
+8개	8/SN+개/NNB
+전도유망한	전도유망/NNG+하/XSA+ㄴ/ETM
+중소기업	중소기업/NNG
+22명의	22/SN+명/NNB+의/JKG
+대표	대표/NNG
+및	및/MAG
+경영진들이	경영진/NNG+들/XSN+이/JKS
+한자리에	한자리/NNG+에/JKB
+모였다.	모이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.3.3
+국내 최대 안경체인 기업 ㈜다비치안경체인의 ‘VM(Visual Management)’ 경영시스템에 대한 견학이 열린 이날 다비치의 ‘신(新)’ 경영 운영체계를 접한 참석자들의 반응은 뜨거웠다.
+
+국내	국내/NNG
+최대	최대/NNG
+안경체인	안경/NNG+체인/NNG
+기업	기업/NNG
+㈜다비치안경체인의	㈜/SW+다비치안경/NNP+체인/NNG+의/JKG
+‘VM(Visual	‘/SS+VM/SL+(/SS+Visual/SL
+Management)’	Management/SL+)/SS+’/SS
+경영시스템에	경영/NNG+시스템/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+견학이	견학/NNG+이/JKS
+열린	열리/VV+ㄴ/ETM
+이날	이날/NNG
+다비치의	다비치/NNP+의/JKG
+‘신(新)’	‘/SS+신/XPN+(/SS+新/SH+)/SS+’/SS
+경영	경영/NNG
+운영체계를	운영/NNG+체계/NNG+를/JKO
+접한	접하/VV+ㄴ/ETM
+참석자들의	참석자/NNG+들/XSN+의/JKG
+반응은	반응/NNG+은/JX
+뜨거웠다.	뜨겁/VA+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.3.4
+VM은 국가 정책기조인 ‘창조경영’에 부합해 최고경영자나 임직원들이 자신이 해야 할 일의 가치와 하려는 일을 보드판에 적고, 공식적으로 선언하게 해 내적 동기와 책임감을 가지고 실천력을 키우는 경영 방법론이다.
+
+VM은	VM/SL+은/JX
+국가	국가/NNG
+정책기조인	정책/NNG+기조/NNG+이/VCP+ㄴ/ETM
+‘창조경영’에	‘/SS+창조/NNG+경영/NNG+’/SS+에/JKB
+부합해	부합/NNG+하/XSV+아/EC
+최고경영자나	최고/NNG+경영자/NNG+나/JC
+임직원들이	임직원/NNG+들/XSN+이/JKS
+자신이	자신/NNG+이/JKS
+해야	하/VV+아야/EC
+할	하/VX+ㄹ/ETM
+일의	일/NNG+의/JKG
+가치와	가치/NNG+와/JC
+하려는	하/VV+려는/ETM
+일을	일/NNG+을/JKO
+보드판에	보드/NNG+판/NNG+에/JKB
+적고,	적/VV+고/EC+,/SP
+공식적으로	공식/NNG+적/XSN+으로/JKB
+선언하게	선언/NNG+하/XSV+게/EC
+해	하/VX+아/EC
+내적	내/NNB+적/XSN
+동기와	동기/NNG+와/JC
+책임감을	책임감/NNG+을/JKO
+가지고	가지/VV+고/EC
+실천력을	실천력/NNG+을/JKO
+키우는	키우/VV+는/ETM
+경영	경영/NNG
+방법론이다.	방법/NNG+론/XSN+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.3.5
+이 경영방식은 도요타, 캐논 등 해외에서 시작돼 국내에서는 포스코, LG전자, 웅진그룹 등의 대기업에서도 ‘VP’라는 이름으로 진행됐으나 지속성이 부족하다는 단점을 안고 있었다.
+
+이	이/MMD
+경영방식은	경영/NNG+방식/NNG+은/JX
+도요타,	도요타/NNP+,/SP
+캐논	캐논/NNP
+등	등/NNB
+해외에서	해외/NNG+에서/JKB
+시작돼	시작/NNG+되/XSV+어/EC
+국내에서는	국내/NNG+에서/JKB+는/JX
+포스코,	포스코/NNP+,/SP
+LG전자,	LG전자/NNP+,/SP
+웅진그룹	웅진그룹/NNP
+등의	등/NNB+의/JKG
+대기업에서도	대/XPN+기업/NNG+에서/JKB+도/JX
+‘VP’라는	‘/SS+VP/SL+’/SS+이/VCP+라는/ETM
+이름으로	이름/NNG+으로/JKB
+진행됐으나	진행/NNG+되/XSV+었/EP+으나/EC
+지속성이	지속/NNG+성/XSN+이/JKS
+부족하다는	부족/NNG+하/XSA+다는/ETM
+단점을	단점/NNG+을/JKO
+안고	안/VV+고/EC
+있었다.	있/VX+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.4.1
+다비치는 지난해 6월부터 기존 시스템의 단점을 보완한 정철화 박사의 VM시스템을 도입해 현재까지 7개월간 지속하고 있다.
+
+다비치는	다비치/NNP+는/JX
+지난해	지난해/NNG
+6월부터	6/SN+월/NNB+부터/JX
+기존	기존/NNG
+시스템의	시스템/NNG+의/JKG
+단점을	단점/NNG+을/JKO
+보완한	보완/NNG+하/XSV+ㄴ/ETM
+정철화	정철화/NNP
+박사의	박사/NNG+의/JKG
+VM시스템을	VM/SL+시스템/NNG+을/JKO
+도입해	도입/NNG+하/XSV+아/EC
+현재까지	현재/NNG+까지/JX
+7개월간	7/SN+개월/NNB+간/XSN
+지속하고	지속/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.63.4.2
+조이테크 김인성 대표, 제이미크론 김미숙 이사 등 참석자들은 하나같이 “정말 놀랐다” “감동 그 자체” “많이 배웠다”는 메시지를 담아 다비치 경영진에 전달했다.
+
+조이테크	조이테크/NNP
+김인성	김인성/NNP
+대표,	대표/NNG+,/SP
+제이미크론	제이미크론/NNP
+김미숙	김미숙/NNP
+이사	이사/NNG
+등	등/NNB
+참석자들은	참석자/NNG+들/XSN+은/JX
+하나같이	하나같이/MAG
+“정말	“/SS+정말/MAG
+놀랐다”	놀라/VV+았/EP+다/EF+”/SS
+“감동	“/SS+감동/NNG
+그	그/MMD
+자체”	자체/NNG+”/SS
+“많이	“/SS+많이/MAG
+배웠다”는	배우/VV+었/EP+다/EF+”/SS+는/ETM
+메시지를	메시지/NNG+를/JKO
+담아	담/VV+아/EC
+다비치	다비치/NNP
+경영진에	경영진/NNG+에/JKB
+전달했다.	전달/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.4.3
+돈 주고도 얻을 수 없는 값진 경험이었다는 후문이다.
+
+돈	돈/NNG
+주고도	주/VV+고/EC+도/JX
+얻을	얻/VV+을/ETM
+수	수/NNB
+없는	없/VA+는/ETM
+값진	값지/VA+ㄴ/ETM
+경험이었다는	경험/NNG+이/VCP+었/EP+다는/ETM
+후문이다.	후문/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.5.1
+이번 견학은 오전 9시 명동 매장 앞에서 ‘다비치 아침 인사’로 시작됐으며, 다비치는 팀별 VM 보드판 회의, 서울(본사) &대전(아카데미) &대구(물류) &미국(LA매장)이 하루 1회 화상회의를 통해 업무를 공유하고 이와 더불어 부서장 미팅 등 팀 및 부서 간 소통하는 모습을 공개했다.
+
+이번	이번/NNG
+견학은	견학/NNG+은/JX
+오전	오전/NNG
+9시	9/SN+시/NNB
+명동	명동/NNP
+매장	매장/NNG
+앞에서	앞/NNG+에서/JKB
+‘다비치	‘/SS+다비치/NNP
+아침	아침/NNG
+인사’로	인사/NNG+’/SS+로/JKB
+시작됐으며,	시작/NNG+되/XSV+었/EP+으며/EC+,/SP
+다비치는	다비치/NNP+는/JX
+팀별	팀/NNG+별/XSN
+VM	VM/SL
+보드판	보드/NNG+판/NNG
+회의,	회의/NNG+,/SP
+서울(본사)	서울/NNP+(/SS+본사/NNG+)/SS
+&대전(아카데미)	&/SW+대전/NNP+(/SS+아카데미/NNG+)/SS
+&대구(물류)	&/SW+대구/NNP+(/SS+물류/NNG+)/SS
+&미국(LA매장)이	&/SW+미국/NNP+(/SS+LA/SL+매장/NNG+)/SS+이/JKS
+하루	하루/NNG
+1회	1/SN+회/NNB
+화상회의를	화상/NNG+회의/NNG+를/JKO
+통해	통하/VV+아/EC
+업무를	업무/NNG+를/JKO
+공유하고	공유/NNG+하/XSV+고/EC
+이와	이/NP+와/JKB
+더불어	더불/VV+어/EC
+부서장	부서장/NNG
+미팅	미팅/NNG
+등	등/NNB
+팀	팀/NNG
+및	및/MAG
+부서	부서/NNG
+간	간/NNB
+소통하는	소통/NNG+하/XSV+는/ETM
+모습을	모습/NNG+을/JKO
+공개했다.	공개/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.5.2
+참석자들은 이를 통해 진정한 고객감동을 일궈내고 있는 다비치의 모습을 담아가느라 분주했다.
+
+참석자들은	참석자/NNG+들/XSN+은/JX
+이를	이/NP+를/JKO
+통해	통하/VV+아/EC
+진정한	진정하/VA+ㄴ/ETM
+고객감동을	고객/NNG+감동/NNG+을/JKO
+일궈내고	일구/VV+어/EC+내/VX+고/EC
+있는	있/VX+는/ETM
+다비치의	다비치/NNP+의/JKG
+모습을	모습/NNG+을/JKO
+담아가느라	담/VV+아/EC+가/VV+느라/EC
+분주했다.	분주/NNG+하/XSA+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.5.3
+견학에 참가한 한 최고경영자는 “다비치는 안경 업계의 삼성으로 불릴 만하다”며 “이번 견학을 통해 우리 직원들과도 솔직한 이야기를 나누고 속마음을 드러내는 시간을 가졌다”며 다비치 임직원에게 감사를 표했다.
+
+견학에	견학/NNG+에/JKB
+참가한	참가/NNG+하/XSV+ㄴ/ETM
+한	한/MMN
+최고경영자는	최고/NNG+경영자/NNG+는/JX
+“다비치는	“/SS+다비치/NNP+는/JX
+안경	안경/NNG
+업계의	업계/NNG+의/JKG
+삼성으로	삼성/NNP+으로/JKB
+불릴	불리/VV+ㄹ/ETM
+만하다”며	만/NNB+하/XSA+다/EF+”/SS+며/EC
+“이번	“/SS+이번/NNG
+견학을	견학/NNG+을/JKO
+통해	통하/VV+아/EC
+우리	우리/NP
+직원들과도	직원/NNG+들/XSN+과/JKB+도/JX
+솔직한	솔직하/VA+ㄴ/ETM
+이야기를	이야기/NNG+를/JKO
+나누고	나누/VV+고/EC
+속마음을	속마음/NNG+을/JKO
+드러내는	드러내/VV+는/ETM
+시간을	시간/NNG+을/JKO
+가졌다”며	가지/VV+었/EP+다/EF+”/SS+며/EC
+다비치	다비치/NNP
+임직원에게	임직원/NNG+에게/JKB
+감사를	감사/NNG+를/JKO
+표했다.	표/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.63.6.1
+안경&렌즈 업계 매출 규모 및 브랜드파워 국내 1위를 자부하는 ㈜다비치안경체인 김인규 대표는 “회사의 자산인 직원들이 같은 시간에 자신의 능력을 100% 발휘하고 성과를 내기 위해서 어떤 방법이 있을까 고민한 끝에 VM을 하기로 결정했다”며 “처음에는 과중한 업무에 VM시스템 정리까지 하느라 어려움도 있었지만 서서히 자신이 해야 할 일의 가치와 하려는 일이 분명히 드러나 업무를 놓치지 않고 서로 공유할 수 있게 됐다”고 말했다.
+
+안경&렌즈	안경/NNG+&/SW+렌즈/NNG
+업계	업계/NNG
+매출	매출/NNG
+규모	규모/NNG
+및	및/MAG
+브랜드파워	브랜드/NNG+파워/NNG
+국내	국내/NNG
+1위를	1/SN+위/NNB+를/JKO
+자부하는	자부/NNG+하/XSV+는/ETM
+㈜다비치안경체인	㈜/SW+다비치안경/NNP+체인/NNG
+김인규	김인규/NNP
+대표는	대표/NNG+는/JX
+“회사의	“/SS+회사/NNG+의/JKG
+자산인	자산/NNG+이/VCP+ㄴ/ETM
+직원들이	직원/NNG+들/XSN+이/JKS
+같은	같/VA+은/ETM
+시간에	시간/NNG+에/JKB
+자신의	자신/NNG+의/JKG
+능력을	능력/NNG+을/JKO
+100%	100/SN+%/SW
+발휘하고	발휘/NNG+하/XSV+고/EC
+성과를	성과/NNG+를/JKO
+내기	내/VV+기/ETN
+위해서	위하/VV+아서/EC
+어떤	어떤/MMD
+방법이	방법/NNG+이/JKS
+있을까	있/VA+을까/EF
+고민한	고민/NNG+하/XSV+ㄴ/ETM
+끝에	끝/NNG+에/JKB
+VM을	VM/SL+을/JKO
+하기로	하/VV+기/ETN+로/JKB
+결정했다”며	결정/NNG+하/XSV+았/EP+다/EF+”/SS+며/EC
+“처음에는	“/SS+처음/NNG+에/JKB+는/JX
+과중한	과중하/VA+ㄴ/ETM
+업무에	업무/NNG+에/JKB
+VM시스템	VM/SL+시스템/NNG
+정리까지	정리/NNG+까지/JX
+하느라	하/VV+느라/EC
+어려움도	어려움/NNG+도/JX
+있었지만	있/VV+었/EP+지만/EC
+서서히	서서히/MAG
+자신이	자신/NNG+이/JKS
+해야	하/VV+아야/EC
+할	하/VX+ㄹ/ETM
+일의	일/NNG+의/JKG
+가치와	가치/NNG+와/JC
+하려는	하/VV+려는/ETM
+일이	일/NNG+이/JKS
+분명히	분명히/MAG
+드러나	드러나/VV+아/EC
+업무를	업무/NNG+를/JKO
+놓치지	놓치/VV+지/EC
+않고	않/VX+고/EC
+서로	서로/MAG
+공유할	공유/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+됐다”고	되/VV+었/EP+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+

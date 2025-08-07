@@ -1,0 +1,233 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000022.88
+metadata : {}
+
+
+# id : NWRW1800000022.88.1.1
+'UCC 이력서 콘테스트'서 뽑히면… 조선일보 전광판서 UCC 소개해줍니다
+
+'UCC	'/SS+UCC/SL
+이력서	이력서/NNG
+콘테스트'서	콘테스트/NNG+'/SS+서/JKB
+뽑히면…	뽑히/VV+면/EC+…/SE
+조선일보	조선일보/NNP
+전광판서	전광판/NNG+서/JKB
+UCC	UCC/SL
+소개해줍니다	소개/NNG+하/XSV+아/EC+주/VX+ㅂ니다/EF
+
+
+# id : NWRW1800000022.88.2.1
+조선일보와 기업은행이 '청년 취업 1만명 프로젝트'의 일환으로 개최하는 'UCC 이력서 콘테스트'에 참여하려면 우선 30초~1분 분량의 UCC 이력서를 만들어 콘테스트 메인 페이지(http://uccup.chosun.com)에 올려야 한다.
+
+조선일보와	조선일보/NNP+와/JC
+기업은행이	기업은행/NNP+이/JKS
+'청년	'/SS+청년/NNG
+취업	취업/NNG
+1만명	1/SN+만/NR+명/NNB
+프로젝트'의	프로젝트/NNG+'/SS+의/JKG
+일환으로	일환/NNG+으로/JKB
+개최하는	개최/NNG+하/XSV+는/ETM
+'UCC	'/SS+UCC/SL
+이력서	이력서/NNG
+콘테스트'에	콘테스트/NNG+'/SS+에/JKB
+참여하려면	참여/NNG+하/XSV+려면/EC
+우선	우선/MAG
+30초~1분	30/SN+초/NNB+~/SO+1/SN+분/NNB
+분량의	분량/NNG+의/JKG
+UCC	UCC/SL
+이력서를	이력서/NNG+를/JKO
+만들어	만들/VV+어/EC
+콘테스트	콘테스트/NNG
+메인	메인/NNG
+페이지(http://uccup.chosun.com)에	페이지/NNG+(/SS+http/SL+:/SP+//SP+//SP+uccup/SL+./SP+chosun/SL+./SP+com/SL+)/SS+에/JKB
+올려야	올리/VV+어야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.3.1
+다음 순서는 '잡월드(www.ibkcsjob.co.kr )' 사이트에 개인회원으로 가입하면 된다.
+
+다음	다음/NNG
+순서는	순서/NNG+는/JX
+'잡월드(www.ibkcsjob.co.kr	'/SS+잡월드/NNP+(/SS+www/SL+./SP+ibkcsjob/SL+./SP+co/SL+./SP+kr/SL
+)'	)/SS+'/SS
+사이트에	사이트/NNG+에/JKB
+개인회원으로	개인/NNG+회원/NNG+으로/JKB
+가입하면	가입/NNG+하/XSV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.3.2
+잡월드에 가입된 2만여 중소기업의 인사 담당자들이 UCC 이력서를 볼 수 있게 하기 위해서다.
+
+잡월드에	잡월드/NNP+에/JKB
+가입된	가입/NNG+되/XSV+ㄴ/ETM
+2만여	2/SN+만/NR+여/XSN
+중소기업의	중소기업/NNG+의/JKG
+인사	인사/NNG
+담당자들이	담당자/NNG+들/XSN+이/JKS
+UCC	UCC/SL
+이력서를	이력서/NNG+를/JKO
+볼	보/VV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+하기	하/VX+기/ETN
+위해서다.	위하/VV+아서/EC+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000022.88.3.3
+잡월드 회원 가입비는 없다.
+
+잡월드	잡월드/NNP
+회원	회원/NNG
+가입비는	가입비/NNG+는/JX
+없다.	없/VA+다/EF+./SF
+
+
+# id : NWRW1800000022.88.4.1
+가입 후 잡월드 안에서 '인터넷 공개 이력서'를 작성한다.
+
+가입	가입/NNG
+후	후/NNG
+잡월드	잡월드/NNP
+안에서	안/NNG+에서/JKB
+'인터넷	'/SS+인터넷/NNG
+공개	공개/NNG
+이력서'를	이력서/NNG+'/SS+를/JKO
+작성한다.	작성/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.4.2
+원하는 직종, 취업 희망지역, 경력 등을 적는다.
+
+원하는	원/NNG+하/XSV+는/ETM
+직종,	직종/NNG+,/SP
+취업	취업/NNG
+희망지역,	희망/NNG+지역/NNG+,/SP
+경력	경력/NNG
+등을	등/NNB+을/JKO
+적는다.	적/VV+는다/EF+./SF
+
+
+# id : NWRW1800000022.88.4.3
+공개 이력서 메뉴 안에 '내 UCC(my UCC)' 코너가 마련되어 있다.
+
+공개	공개/NNG
+이력서	이력서/NNG
+메뉴	메뉴/NNG
+안에	안/NNG+에/JKB
+'내	'/SS+나/NP+의/JKG
+UCC(my	UCC/SL+(/SS+my/SL
+UCC)'	UCC/SL+)/SS+'/SS
+코너가	코너/NNG+가/JKS
+마련되어	마련/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000022.88.4.4
+'내 UCC' 코너에 자신의 UCC 이력서가 떠 있는 인터넷 사이트의 주소를 복사해 입력하면 된다.
+
+'내	'/SS+나/NP+의/JKG
+UCC'	UCC/SL+'/SS
+코너에	코너/NNG+에/JKB
+자신의	자신/NNG+의/JKG
+UCC	UCC/SL
+이력서가	이력서/NNG+가/JKS
+떠	뜨/VV+어/EC
+있는	있/VX+는/ETM
+인터넷	인터넷/NNG
+사이트의	사이트/NNG+의/JKG
+주소를	주소/NNG+를/JKO
+복사해	복사/NNG+하/XSV+아/EC
+입력하면	입력/NNG+하/XSV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.5.1
+잡월드에 가입한 인사 담당자들이 구직자들의 UCC 이력서를 보려면, 구직자들이 올린 '인터넷 공개 이력서' 메뉴 중 '내 UCC' 코너에 등록되어 있는 인터넷 주소를 누르면 된다.
+
+잡월드에	잡월드/NNP+에/JKB
+가입한	가입/NNG+하/XSV+ㄴ/ETM
+인사	인사/NNG
+담당자들이	담당자/NNG+들/XSN+이/JKS
+구직자들의	구직자/NNG+들/XSN+의/JKG
+UCC	UCC/SL
+이력서를	이력서/NNG+를/JKO
+보려면,	보/VV+려면/EC+,/SP
+구직자들이	구직자/NNG+들/XSN+이/JKS
+올린	올리/VV+ㄴ/ETM
+'인터넷	'/SS+인터넷/NNG
+공개	공개/NNG
+이력서'	이력서/NNG+'/SS
+메뉴	메뉴/NNG
+중	중/NNB
+'내	'/SS+나/NP+의/JKG
+UCC'	UCC/SL+'/SS
+코너에	코너/NNG+에/JKB
+등록되어	등록/NNG+되/XSV+어/EC
+있는	있/VX+는/ETM
+인터넷	인터넷/NNG
+주소를	주소/NNG+를/JKO
+누르면	누르/VV+면/EC
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.6.1
+응모된 UCC 이력서 가운데 완성도와 네티즌의 인기도 등을 반영해 뽑힌 작품은 서울 광화문을 포함, 전국 주요 지역 10곳에 설치된 조선일보 전광판에 소개된다.
+
+응모된	응모/NNG+되/XSV+ㄴ/ETM
+UCC	UCC/SL
+이력서	이력서/NNG
+가운데	가운데/NNG
+완성도와	완성도/NNG+와/JC
+네티즌의	네티즌/NNG+의/JKG
+인기도	인기/NNG+도/JX
+등을	등/NNB+을/JKO
+반영해	반영/NNG+하/XSV+아/EC
+뽑힌	뽑히/VV+ㄴ/ETM
+작품은	작품/NNG+은/JX
+서울	서울/NNP
+광화문을	광화문/NNP+을/JKO
+포함,	포함/NNG+,/SP
+전국	전국/NNG
+주요	주요/NNG
+지역	지역/NNG
+10곳에	10/SN+곳/NNG+에/JKB
+설치된	설치/NNG+되/XSV+ㄴ/ETM
+조선일보	조선일보/NNP
+전광판에	전광판/NNG+에/JKB
+소개된다.	소개/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.6.2
+전광판 방영 대상으로 선정된 UCC 이력서의 주인공에겐 방영 시간이 개별 통지된다.
+
+전광판	전광판/NNG
+방영	방영/NNG
+대상으로	대상/NNG+으로/JKB
+선정된	선정/NNG+되/XSV+ㄴ/ETM
+UCC	UCC/SL
+이력서의	이력서/NNG+의/JKG
+주인공에겐	주인공/NNG+에게/JKB+ㄴ/JX
+시간이	시간/NNG+이/JKS
+개별	개별/NNG
+통지된다.	통지/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000022.88.6.3
+디지틀조선일보의 케이블TV 비즈니스앤(Business&)을 통해서도 UCC 이력서가 방영될 계획이다.
+
+디지틀조선일보의	디지틀조선일보/NNP+의/JKG
+케이블TV	케이블/NNG+TV/SL
+비즈니스앤(Business&)을	비즈니스앤/NNP+(/SS+Business/SL+&/SW+)/SS+을/JKO
+통해서도	통하/VV+아서/EC+도/JX
+UCC	UCC/SL
+이력서가	이력서/NNG+가/JKS
+방영될	방영/NNG+되/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+

@@ -1,0 +1,246 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000030.7
+metadata : {}
+
+
+# id : NWRW1800000030.7.1.1
+[World Hot Point] "신종플루 걸리면 평생 독감걱정 끝"
+
+[World	[/SS+World/SL
+Hot	Hot/SL
+Point]	Point/SL+]/SS
+"신종플루	"/SS+신종/NNG+플루/NNG
+걸리면	걸리/VV+면/EC
+평생	평생/NNG
+독감걱정	독감/NNG+걱정/NNG
+끝"	끝/NNG+"/SS
+
+
+# id : NWRW1800000030.7.2.1
+•모든 변종에 면역 항체 발견
+
+•모든	•/SW+모든/MMN
+변종에	변종/NNG+에/JKB
+면역	면역/NNG
+항체	항체/NNG
+발견	발견/NNG
+
+
+# id : NWRW1800000030.7.3.1
+한 번 신종플루를 앓았던 사람은 평생 독감에 걸리지 않는다?
+
+한	한/MMN
+번	번/NNB
+신종플루를	신종/NNG+플루/NNG+를/JKO
+앓았던	앓/VV+았/EP+던/ETM
+사람은	사람/NNG+은/JX
+평생	평생/NNG
+독감에	독감/NNG+에/JKB
+걸리지	걸리/VV+지/EC
+않는다?	않/VX+는다/EF+?/SF
+
+
+# id : NWRW1800000030.7.4.1
+신종플루에 감염됐었던 환자에게서 모든 독감 바이러스 변종에 대해 면역반응을 나타내는 특이항체가 발견됐다고 로이터통신 등이 10일 보도했다.
+
+신종플루에	신종/NNG+플루/NNG+에/JKB
+감염됐었던	감염/NNG+되/XSV+었었/EP+던/ETM
+환자에게서	환자/NNG+에게서/JKB
+모든	모든/MMN
+독감	독감/NNG
+바이러스	바이러스/NNG
+변종에	변종/NNG+에/JKB
+대해	대하/VV+아/EC
+면역반응을	면역/NNG+반응/NNG+을/JKO
+나타내는	나타내/VV+는/ETM
+특이항체가	특이/NNG+항체/NNG+가/JKS
+발견됐다고	발견/NNG+되/XSV+었/EP+다고/EC
+로이터통신	로이터통신/NNP
+등이	등/NNB+이/JKS
+10일	10/SN+일/NNB
+보도했다.	보도/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.4.2
+로이터는 미국 시카고 대학의 패트릭 윌슨(Wilson) 박사 연구팀이 '실험 의학 저널' 최신호에 게재한 연구 결과를 인용해 "만능백신의 탄생이 한 발짝 가까이 다가왔다"고 전했다.
+
+로이터는	로이터/NNP+는/JX
+미국	미국/NNP
+시카고	시카고/NNP
+대학의	대학/NNG+의/JKG
+패트릭	패트릭/NNP
+윌슨(Wilson)	윌슨/NNP+(/SS+Wilson/SL+)/SS
+박사	박사/NNG
+연구팀이	연구/NNG+팀/NNG+이/JKS
+'실험	'/SS+실험/NNG
+의학	의학/NNG
+저널'	저널/NNG+'/SS
+최신호에	최신/NNG+호/NNB+에/JKB
+게재한	게재/NNG+하/XSV+ㄴ/ETM
+연구	연구/NNG
+결과를	결과/NNG+를/JKO
+인용해	인용/NNG+하/XSV+아/EC
+"만능백신의	"/SS+만능/NNG+백신/NNG+의/JKG
+탄생이	탄생/NNG+이/JKS
+한	한/MMN
+발짝	발짝/NNB
+가까이	가까이/MAG
+다가왔다"고	다가오/VV+았/EP+다/EF+"/SS+고/JKQ
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.1
+통신에 따르면 학계는 "단 한 번 접종으로 모든 종류의 독감예방이 가능한 보편적 백신 개발의 길이 열린 것"이라며 환호했다.
+
+통신에	통신/NNG+에/JKB
+따르면	따르/VV+면/EC
+학계는	학계/NNG+는/JX
+"단	"/SS+단/MMA
+한	한/MMN
+번	번/NNB
+접종으로	접종/NNG+으로/JKB
+모든	모든/MMN
+종류의	종류/NNG+의/JKG
+독감예방이	독감/NNG+예방/NNG+이/JKS
+가능한	가능/NNG+하/XSA+ㄴ/ETM
+보편적	보편/NNG+적/XSN
+백신	백신/NNG
+개발의	개발/NNG+의/JKG
+길이	길/NNG+이/JKS
+열린	열리/VV+ㄴ/ETM
+것"이라며	것/NNB+"/SS+이/VCP+라며/EC
+환호했다.	환호/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.2
+연구팀 조사 결과 2009년 신종플루(H1N1) 감염 환자 9명에게서 발견된 항체는 특이하게도 지난 10년간 나타난 모든 계절성 독감바이러스는 물론, 1918년 세계를 휩쓸었던 스페인 독감과 심지어 조류인플루엔자(H5N1) 바이러스에까지 면역반응을 나타냈다.
+
+연구팀	연구/NNG+팀/NNG
+조사	조사/NNG
+결과	결과/NNG
+2009년	2009/SN+년/NNB
+신종플루(H1N1)	신종/NNG+플루/NNG+(/SS+H/SL+1/SN+N/SL+1/SN+)/SS
+감염	감염/NNG
+환자	환자/NNG
+9명에게서	9/SN+명/NNB+에게서/JKB
+발견된	발견/NNG+되/XSV+ㄴ/ETM
+항체는	항체/NNG+는/JX
+특이하게도	특이/NNG+하/XSA+게/EC+도/JX
+지난	지나/VV+ㄴ/ETM
+10년간	10/SN+년/NNB+간/XSN
+나타난	나타나/VV+ㄴ/ETM
+모든	모든/MMN
+계절성	계절/NNG+성/XSN
+독감바이러스는	독감/NNG+바이러스/NNG+는/JX
+물론,	물론/MAG+,/SP
+1918년	1918/SN+년/NNB
+세계를	세계/NNG+를/JKO
+휩쓸었던	휩쓸/VV+었/EP+던/ETM
+스페인	스페인/NNP
+독감과	독감/NNG+과/JC
+심지어	심지어/MAG
+조류인플루엔자(H5N1)	조류/NNG+인플루엔자/NNG+(/SS+H/SL+5/SN+N/SL+1/SN+)/SS
+바이러스에까지	바이러스/NNG+에/JKB+까지/JX
+면역반응을	면역/NNG+반응/NNG+을/JKO
+나타냈다.	나타내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.3
+2009년은 신종플루 유행 초기라 백신이 개발되지 않았던 시기다.
+
+2009년은	2009/SN+년/NNB+은/JX
+신종플루	신종/NNG+플루/NNG
+유행	유행/NNG
+초기라	초기/NNG+이/VCP+라/EC
+백신이	백신/NNG+이/JKS
+개발되지	개발/NNG+되/XSV+지/EC
+않았던	않/VX+았/EP+던/ETM
+시기다.	시기/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.4
+윌슨 박사는 이들의 백혈구에서 분리한 유전자들을 분석한 결과 모두 86가지 항체가 발견됐으며, 이 중 5가지가 교차방어적 면역성(cross-protective immunity)을 갖고 있었다고 밝혔다.
+
+윌슨	윌슨/NNP
+박사는	박사/NNG+는/JX
+이들의	이/NP+들/XSN+의/JKG
+백혈구에서	백혈구/NNG+에서/JKB
+분리한	분리/NNG+하/XSV+ㄴ/ETM
+유전자들을	유전자/NNG+들/XSN+을/JKO
+분석한	분석/NNG+하/XSV+ㄴ/ETM
+결과	결과/NNG
+모두	모두/MAG
+86가지	86/SN+가지/NNB
+항체가	항체/NNG+가/JKS
+발견됐으며,	발견/NNG+되/XSV+었/EP+으며/EC+,/SP
+이	이/NP
+중	중/NNB
+5가지가	5/SN+가지/NNB+가/JKS
+교차방어적	교차/NNG+방어/NNG+적/XSN
+면역성(cross-protective	면역/NNG+성/XSN+(/SS+cross/SL+-/SO+protective/SL
+immunity)을	immunity/SL+)/SS+을/JKO
+갖고	갖/VV+고/EC
+있었다고	있/VX+었/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.5
+그중에서도 특히 3가지를 쥐에 투여한 결과, 쥐들이 독감에 대한 면역반응을 나타냈다고 연구팀은 전했다.
+
+그중에서도	그중/NNG+에서/JKB+도/JX
+특히	특히/MAG
+3가지를	3/SN+가지/NNB+를/JKO
+쥐에	쥐/NNG+에/JKB
+투여한	투여/NNG+하/XSV+ㄴ/ETM
+결과,	결과/NNG+,/SP
+쥐들이	쥐/NNG+들/XSN+이/JKS
+독감에	독감/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+면역반응을	면역/NNG+반응/NNG+을/JKO
+나타냈다고	나타내/VV+었/EP+다고/EC
+연구팀은	연구/NNG+팀/NNG+은/JX
+전했다.	전하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.6
+특이항체의 발견은 모든 종류의 독감 바이러스에 일률적으로 효과가 있는 만능백신 개발에 영향을 미칠 전망이다.
+
+특이항체의	특이/NNG+항체/NNG+의/JKG
+발견은	발견/NNG+은/JX
+모든	모든/MMN
+종류의	종류/NNG+의/JKG
+독감	독감/NNG
+바이러스에	바이러스/NNG+에/JKB
+일률적으로	일률/NNG+적/XSN+으로/JKB
+효과가	효과/NNG+가/JKS
+있는	있/VA+는/ETM
+만능백신	만능/NNG+백신/NNG
+개발에	개발/NNG+에/JKB
+영향을	영향/NNG+을/JKO
+미칠	미치/VV+ㄹ/ETM
+전망이다.	전망/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000030.7.5.7
+특이항체 중 일부는 현재 개발 단계에 있는 만능 독감백신의 항체와 그 구조가 유사하기 때문이다.
+
+특이항체	특이/NNG+항체/NNG
+중	중/NNB
+일부는	일부/NNG+는/JX
+현재	현재/MAG
+개발	개발/NNG
+단계에	단계/NNG+에/JKB
+있는	있/VA+는/ETM
+만능	만능/NNG
+독감백신의	독감/NNG+백신/NNG+의/JKG
+항체와	항체/NNG+와/JC
+그	그/MMD
+구조가	구조/NNG+가/JKS
+유사하기	유사/NNG+하/XSA+기/ETN
+때문이다.	때문/NNB+이/VCP+다/EF+./SF
+
+

@@ -1,0 +1,556 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.88
+metadata : {}
+
+
+# id : NWRW1800000041.88.1.1
+[Bio 의약]영국산 고품질 비타민C 원료 사용하는 ‘名品 비타민C’
+
+[Bio	[/SS+Bio/SL
+의약]영국산	의약/NNG+]/SS+영국/NNP+산/XSN
+고품질	고/XPN+품질/NNG
+비타민C	비타민/NNG+C/SL
+원료	원료/NNG
+사용하는	사용/NNG+하/XSV+는/ETM
+‘名品	‘/SS+名品/SH
+비타민C’	비타민/NNG+C/SL+’/SS
+
+
+# id : NWRW1800000041.88.2.1
+고려은단 철저한 품질 관리로 유명한 영국 DSM社와 독점 계약 고함량 비타민C 판매율 1위
+
+고려은단	고려은단/NNP
+철저한	철저/NNG+하/XSA+ㄴ/ETM
+품질	품질/NNG
+관리로	관리/NNG+로/JKB
+유명한	유명/NNG+하/XSA+ㄴ/ETM
+영국	영국/NNP
+DSM社와	DSM/SL+社/SH+와/JKB
+독점	독점/NNG
+계약	계약/NNG
+고함량	고/XPN+함량/NNG
+비타민C	비타민/NNG+C/SL
+판매율	판매/NNG+율/XSN
+1위	1/SN+위/NNB
+
+
+# id : NWRW1800000041.88.3.1
+고려은단(대표 조영조)은 1일 세계적인 비타민 원료 생산 업체인 DSM사와 영국산 비타민C(Ascorbic Acid 97%) 원료 독점 공급을 2년 연장하는 계약을 체결했다.
+
+고려은단(대표	고려은단/NNP+(/SS+대표/NNG
+조영조)은	조영조/NNP+)/SS+은/JX
+1일	1/SN+일/NNB
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+비타민	비타민/NNG
+원료	원료/NNG
+생산	생산/NNG
+업체인	업체/NNG+이/VCP+ㄴ/ETM
+DSM사와	DSM/SL+사/NNG+와/JKB
+영국산	영국/NNP+산/XSN
+비타민C(Ascorbic	비타민/NNG+C/SL+(/SS+Ascorbic/SL
+Acid	Acid/SL
+97%)	97/SN+%/SW+)/SS
+독점	독점/NNG
+공급을	공급/NNG+을/JKO
+2년	2/SN+년/NNB
+연장하는	연장/NNG+하/XSV+는/ETM
+계약을	계약/NNG+을/JKO
+체결했다.	체결/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.88.3.2
+이 계약을 통해 고려은단은 2016년 6월 30일까지 향후 2년간 비타민C 원료를 독점적으로 사용할 수 있게 됐다.
+
+이	이/MMD
+계약을	계약/NNG+을/JKO
+통해	통하/VV+아/EC
+고려은단은	고려은단/NNP+은/JX
+2016년	2016/SN+년/NNB
+6월	6/SN+월/NNB
+30일까지	30/SN+일/NNB+까지/JX
+향후	향후/NNG
+2년간	2/SN+년/NNB+간/XSN
+비타민C	비타민/NNG+C/SL
+원료를	원료/NNG+를/JKO
+독점적으로	독점/NNG+적/XSN+으로/JKB
+사용할	사용/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있게	있/VA+게/EC
+됐다.	되/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.88.4.1
+고려은단은 2009년 국내에서 유일하게 DSM사와 첫 독점 공급 계약을 체결한 이후 믿을 수 있는 재료 확보와 안정적인 품질 보증을 위해 계약 기간을 연장하면서 소비자 만족도와 신뢰도를 높이고 있다.
+
+고려은단은	고려은단/NNP+은/JX
+2009년	2009/SN+년/NNB
+국내에서	국내/NNG+에서/JKB
+유일하게	유일/NNG+하/XSA+게/EC
+DSM사와	DSM/SL+사/NNG+와/JKB
+첫	첫/MMN
+독점	독점/NNG
+공급	공급/NNG
+계약을	계약/NNG+을/JKO
+체결한	체결/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+믿을	믿/VV+을/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+재료	재료/NNG
+확보와	확보/NNG+와/JC
+안정적인	안정/NNG+적/XSN+이/VCP+ㄴ/ETM
+품질	품질/NNG
+보증을	보증/NNG+을/JKO
+위해	위하/VV+아/EC
+계약	계약/NNG
+기간을	기간/NNG+을/JKO
+연장하면서	연장/NNG+하/XSV+면서/EC
+소비자	소비자/NNG
+만족도와	만족도/NNG+와/JC
+신뢰도를	신뢰도/NNG+를/JKO
+높이고	높이/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.5.1
+DSM사는 건강식품 및 영양제 성분의 세계적인 생산업체로 1934년 세계 최초로 비타민C 원료를 생산한 이후 80여 년간 전 세계에서 꾸준히 판매되며 신뢰성과 안정성을 인정받고 있는 기업이다.
+
+DSM사는	DSM/SL+사/NNG+는/JX
+건강식품	건강식품/NNG
+및	및/MAG
+영양제	영양제/NNG
+성분의	성분/NNG+의/JKG
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+생산업체로	생산업체/NNG+로/JKB
+1934년	1934/SN+년/NNB
+세계	세계/NNG
+최초로	최초/NNG+로/JKB
+비타민C	비타민/NNG+C/SL
+원료를	원료/NNG+를/JKO
+생산한	생산/NNG+하/XSV+ㄴ/ETM
+이후	이후/NNG
+80여	80/SN+여/XSN
+년간	년/NNB+간/XSN
+전	전/MMN
+세계에서	세계/NNG+에서/JKB
+꾸준히	꾸준히/MAG
+판매되며	판매/NNG+되/XSV+며/EC
+신뢰성과	신뢰/NNG+성/XSN+과/JC
+안정성을	안정/NNG+성/XSN+을/JKO
+인정받고	인정/NNG+받/XSV+고/EC
+있는	있/VX+는/ETM
+기업이다.	기업/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.88.6.1
+비타민C 원료는 현재 전 세계적으로 영국과 중국 단 두 나라만이 생산하고 있다.
+
+비타민C	비타민/NNG+C/SL
+원료는	원료/NNG+는/JX
+현재	현재/MAG
+전	전/MMN
+세계적으로	세계/NNG+적/XSN+으로/JKB
+영국과	영국/NNP+과/JC
+중국	중국/NNP
+단	단/MMA
+두	두/MMN
+나라만이	나라/NNG+만/JX+이/JKS
+생산하고	생산/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.6.2
+과거 일본과 미국 등지에서도 비타민C 원료를 생산했지만 중국의 저가 정책에 밀려 비타민 생산시설이 문을 닫는 바람에 원료 생산 국가가 2개국으로 줄어들었다.
+
+과거	과거/NNG
+일본과	일본/NNP+과/JC
+미국	미국/NNP
+등지에서도	등지/NNB+에서/JKB+도/JX
+비타민C	비타민/NNG+C/SL
+원료를	원료/NNG+를/JKO
+생산했지만	생산/NNG+하/XSV+았/EP+지만/EC
+중국의	중국/NNP+의/JKG
+저가	저가/NNG
+정책에	정책/NNG+에/JKB
+밀려	밀리/VV+어/EC
+비타민	비타민/NNG
+생산시설이	생산/NNG+시설/NNG+이/JKS
+문을	문/NNG+을/JKO
+닫는	닫/VV+는/ETM
+바람에	바람/NNB+에/JKB
+원료	원료/NNG
+생산	생산/NNG
+국가가	국가/NNG+가/JKS
+2개국으로	2/SN+개국/NNB+으로/JKB
+줄어들었다.	줄어들/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.88.7.1
+시장 점유율에서도 90%를 차지하는 중국에 비해 영국산 비타민C 원료는 약 10%의 시장 점유율을 갖고 있지만 자사 품질 보증 제도인 Quali-C(퀄리씨) 제도를 통해 철저하게 품질을 관리하고 있어 전 세계 유수의 업체에서 판매되고 있다.
+
+시장	시장/NNG
+점유율에서도	점유/NNG+율/XSN+에서/JKB+도/JX
+90%를	90/SN+%/SW+를/JKO
+차지하는	차지/NNG+하/XSV+는/ETM
+중국에	중국/NNP+에/JKB
+비해	비/NNG+하/XSV+아/EC
+영국산	영국/NNP+산/XSN
+비타민C	비타민/NNG+C/SL
+원료는	원료/NNG+는/JX
+약	약/MMA
+10%의	10/SN+%/SW+의/JKG
+점유율을	점유/NNG+율/XSN+을/JKO
+갖고	갖/VV+고/EC
+있지만	있/VX+지만/EC
+자사	자사/NNG
+품질	품질/NNG
+보증	보증/NNG
+제도인	제도/NNG+이/VCP+ㄴ/ETM
+Quali-C(퀄리씨)	Quali/SL+-/SO+C/SL+(/SS+퀄리씨/NNG+)/SS
+제도를	제도/NNG+를/JKO
+통해	통하/VV+아/EC
+철저하게	철저/NNG+하/XSA+게/EC
+품질을	품질/NNG+을/JKO
+관리하고	관리/NNG+하/XSV+고/EC
+있어	있/VX+어/EC
+전	전/MMN
+세계	세계/NNG
+유수의	유수/NNG+의/JKG
+업체에서	업체/NNG+에서/JKB
+판매되고	판매/NNG+되/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.8.1
+오늘날 DSM사가 품질 관리에 철저한 회사로 인식되게 한 Quali-C 제도는 품질 관리 인증 제도로 일관성 있게 최고 품질을 유지하는 비타민C 제품을 상징하는 마크로 GMP, HACCP, CEP, ISO 등의 보증 표시로 증명된다.
+
+오늘날	오늘날/NNG
+DSM사가	DSM/SL+사/NNG+가/JKS
+품질	품질/NNG
+관리에	관리/NNG+에/JKB
+철저한	철저/NNG+하/XSA+ㄴ/ETM
+회사로	회사/NNG+로/JKB
+인식되게	인식/NNG+되/XSV+게/EC
+한	하/VX+ㄴ/ETM
+Quali-C	Quali/SL+-/SO+C/SL
+제도는	제도/NNG+는/JX
+관리	관리/NNG
+인증	인증/NNG
+제도로	제도/NNG+로/JKB
+일관성	일관/NNG+성/XSN
+있게	있/VA+게/EC
+최고	최고/NNG
+품질을	품질/NNG+을/JKO
+유지하는	유지/NNG+하/XSV+는/ETM
+비타민C	비타민/NNG+C/SL
+제품을	제품/NNG+을/JKO
+상징하는	상징/NNG+하/XSV+는/ETM
+마크로	마크/NNG+로/JKB
+GMP,	GMP/SL+,/SP
+HACCP,	HACCP/SL+,/SP
+CEP,	CEP/SL+,/SP
+ISO	ISO/SL
+등의	등/NNB+의/JKG
+보증	보증/NNG
+표시로	표시/NNG+로/JKB
+증명된다.	증명/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.88.9.1
+Quali-C가 부착된 제품은 통합 공급망 접근 방식을 통해 모든 생산 및 공급단계를 관리, 일관성 있고 적시적인 공급을 보장한다.
+
+Quali-C가	Quali/SL+-/SO+C/SL+가/JKS
+부착된	부착/NNG+되/XSV+ㄴ/ETM
+제품은	제품/NNG+은/JX
+통합	통합/NNG
+공급망	공급망/NNG
+접근	접근/NNG
+방식을	방식/NNG+을/JKO
+통해	통하/VV+아/EC
+모든	모든/MMN
+생산	생산/NNG
+및	및/MAG
+공급단계를	공급/NNG+단계/NNG+를/JKO
+관리,	관리/NNG+,/SP
+일관성	일관/NNG+성/XSN
+있고	있/VA+고/EC
+적시적인	적시/NNG+적/XSN+이/VCP+ㄴ/ETM
+공급을	공급/NNG+을/JKO
+보장한다.	보장/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.88.9.2
+또한 모든 원료부터 최종 생산 제품까지 이력을 추적할 수 있도록 해 내가 먹는 비타민C 원료가 어디에서 왔는지 확인이 가능하다.
+
+또한	또한/MAG
+모든	모든/MMN
+원료부터	원료/NNG+부터/JX
+최종	최종/NNG
+생산	생산/NNG
+제품까지	제품/NNG+까지/JX
+이력을	이력/NNG+을/JKO
+추적할	추적/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있도록	있/VA+도록/EC
+해	하/VX+아/EC
+내가	내/NP+가/JKS
+먹는	먹/VV+는/ETM
+비타민C	비타민/NNG+C/SL
+원료가	원료/NNG+가/JKS
+어디에서	어디/NP+에서/JKB
+왔는지	오/VV+았/EP+는지/EC
+확인이	확인/NNG+이/JKS
+가능하다.	가능/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000041.88.10.1
+이처럼 Quali-C 표시를 한다는 것은 최고 품질의 비타민C 원료라는 사실을 증명하는 동시에 고객들이 신뢰할 수 있는 원료를 생산한다는 것을 의미하기 때문에 영국산 원료가 전 세계적으로 신뢰를 받고 있다.
+
+이처럼	이/NP+처럼/JKB
+Quali-C	Quali/SL+-/SO+C/SL
+표시를	표시/NNG+를/JKO
+한다는	하/VV+ㄴ다는/ETM
+것은	것/NNB+은/JX
+최고	최고/NNG
+품질의	품질/NNG+의/JKG
+비타민C	비타민/NNG+C/SL
+원료라는	원료/NNG+이/VCP+라는/ETM
+사실을	사실/NNG+을/JKO
+증명하는	증명/NNG+하/XSV+는/ETM
+동시에	동시/NNG+에/JKB
+고객들이	고객/NNG+들/XSN+이/JKS
+신뢰할	신뢰/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+원료를	원료/NNG+를/JKO
+생산한다는	생산/NNG+하/XSV+ㄴ다는/ETM
+것을	것/NNB+을/JKO
+의미하기	의미/NNG+하/XSV+기/ETN
+때문에	때문/NNB+에/JKB
+영국산	영국/NNP+산/XSN
+원료가	원료/NNG+가/JKS
+전	전/MMN
+세계적으로	세계/NNG+적/XSN+으로/JKB
+신뢰를	신뢰/NNG+를/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.11.1
+현재 국내 고함량 비타민C의 판매량은 이마트 비타민C 출시 이후 원산지에 따라 뚜렷한 차이를 보이고 있는 추세다.
+
+현재	현재/MAG
+국내	국내/NNG
+고함량	고/XPN+함량/NNG
+비타민C의	비타민/NNG+C/SL+의/JKG
+판매량은	판매량/NNG+은/JX
+이마트	이마트/NNP
+비타민C	비타민/NNG+C/SL
+출시	출시/NNG
+이후	이후/NNG
+원산지에	원산지/NNG+에/JKB
+따라	따르/VV+아/EC
+뚜렷한	뚜렷하/VA+ㄴ/ETM
+차이를	차이/NNG+를/JKO
+보이고	보이/VV+고/EC
+있는	있/VX+는/ETM
+추세다.	추세/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.88.11.2
+중국산 비타민C 제품과 영국산 비타민C 제품을 모두 판매하고 있는 이마트의 경우 출시 초반 영국산과 중국산의 판매량 비중이 5 대 5에서 원산지를 적극 알린 이후 7 대 3으로 영국산 제품이 크게 늘었으며, 일선 약국과 비타민 제조업체에도 소비자들의 원산지 문의가 급증하고 있다.
+
+중국산	중국/NNP+산/XSN
+비타민C	비타민/NNG+C/SL
+제품과	제품/NNG+과/JC
+영국산	영국/NNP+산/XSN
+제품을	제품/NNG+을/JKO
+모두	모두/MAG
+판매하고	판매/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+이마트의	이마트/NNP+의/JKG
+경우	경우/NNG
+출시	출시/NNG
+초반	초반/NNG
+영국산과	영국/NNP+산/XSN+과/JC
+중국산의	중국/NNP+산/XSN+의/JKG
+판매량	판매량/NNG
+비중이	비중/NNG+이/JKS
+5	5/SN
+대	대/NNB
+5에서	5/SN+에서/JKB
+원산지를	원산지/NNG+를/JKO
+적극	적극/NNG
+알린	알리/VV+ㄴ/ETM
+이후	이후/NNG
+7	7/SN
+3으로	3/SN+으로/JKB
+제품이	제품/NNG+이/JKS
+크게	크/VA+게/EC
+늘었으며,	늘/VV+었/EP+으며/EC+,/SP
+일선	일선/NNG
+약국과	약국/NNG+과/JC
+비타민	비타민/NNG
+제조업체에도	제조업체/NNG+에/JKB+도/JX
+소비자들의	소비자/NNG+들/XSN+의/JKG
+원산지	원산지/NNG
+문의가	문의/NNG+가/JKS
+급증하고	급증/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.12.1
+이는 소비자들이 중국산보다는 영국산이 기술과 품질관리면에서 뛰어나고 브랜드적인 부분에서도 고급스럽다고 인식하고 있기 때문으로 분석된다.
+
+이는	이/NP+는/JX
+소비자들이	소비자/NNG+들/XSN+이/JKS
+중국산보다는	중국/NNP+산/XSN+보다/JKB+는/JX
+영국산이	영국/NNP+산/XSN+이/JKS
+기술과	기술/NNG+과/JC
+품질관리면에서	품질/NNG+관리/NNG+면/NNG+에서/JKB
+뛰어나고	뛰어나/VA+고/EC
+브랜드적인	브랜드/NNG+적/XSN+이/VCP+ㄴ/ETM
+부분에서도	부분/NNG+에서/JKB+도/JX
+고급스럽다고	고급/NNG+스럽/XSA+다고/EC
+인식하고	인식/NNG+하/XSV+고/EC
+있기	있/VX+기/ETN
+때문으로	때문/NNB+으로/JKB
+분석된다.	분석/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.88.13.1
+따라서 고려은단은 이번 계약 연장을 통해 기업 이미지 제고와 제품 품질 신뢰도 향상이라는 긍정적인 효과를 얻게 됨으로써 고함량 비타민C 시장에서 브랜드 우위를 더욱 확고히 할 수 있을 것으로 기대된다.
+
+따라서	따라서/MAJ
+고려은단은	고려은단/NNP+은/JX
+이번	이번/NNG
+계약	계약/NNG
+연장을	연장/NNG+을/JKO
+통해	통하/VV+아/EC
+기업	기업/NNG
+이미지	이미지/NNG
+제고와	제고/NNG+와/JC
+제품	제품/NNG
+품질	품질/NNG
+신뢰도	신뢰도/NNG
+향상이라는	향상/NNG+이/VCP+라는/ETM
+긍정적인	긍정/NNG+적/XSN+이/VCP+ㄴ/ETM
+효과를	효과/NNG+를/JKO
+얻게	얻/VV+게/EC
+됨으로써	되/VV+ㅁ/ETN+으로써/JKB
+고함량	고/XPN+함량/NNG
+비타민C	비타민/NNG+C/SL
+시장에서	시장/NNG+에서/JKB
+브랜드	브랜드/NNG
+우위를	우위/NNG+를/JKO
+더욱	더욱/MAG
+확고히	확고히/MAG
+할	하/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것으로	것/NNB+으로/JKB
+기대된다.	기대/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.88.14.1
+고려은단은 고가의 영국산 원료를 사용함에도 불구하고 원료의 대량 구매 및 최신 자동화 설비를 통한 원가 절감으로 가격 대비 퀄리티가 높다는 평가를 받고 있다.
+
+고려은단은	고려은단/NNP+은/JX
+고가의	고가/NNG+의/JKG
+영국산	영국/NNP+산/XSN
+원료를	원료/NNG+를/JKO
+사용함에도	사용/NNG+하/XSV+ㅁ/ETN+에/JKB+도/JX
+불구하고	불구하/VV+고/EC
+원료의	원료/NNG+의/JKG
+대량	대량/NNG
+구매	구매/NNG
+및	및/MAG
+최신	최신/NNG
+자동화	자동/NNG+화/XSN
+설비를	설비/NNG+를/JKO
+통한	통하/VV+ㄴ/ETM
+원가	원가/NNG
+절감으로	절감/NNG+으로/JKB
+가격	가격/NNG
+대비	대비/NNG
+퀄리티가	퀄리티/NNG+가/JKS
+높다는	높/VA+다는/ETM
+평가를	평가/NNG+를/JKO
+받고	받/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.14.2
+또한 원료 원산지를 100% 공개, 소비자들의 알 권리를 충족시킴으로써 브랜드에 대한 신뢰성이 높다.
+
+또한	또한/MAG
+원료	원료/NNG
+원산지를	원산지/NNG+를/JKO
+100%	100/SN+%/SW
+공개,	공개/NNG+,/SP
+소비자들의	소비자/NNG+들/XSN+의/JKG
+알	알/VV+ㄹ/ETM
+권리를	권리/NNG+를/JKO
+충족시킴으로써	충족/NNG+시키/XSV+ㅁ/ETN+으로써/JKB
+브랜드에	브랜드/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+신뢰성이	신뢰/NNG+성/XSN+이/JKS
+높다.	높/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.88.14.3
+이로 인해 ‘고려은단 비타민C 1000’은 국내 고함량 비타민C 제품 시장에서 10년 연속 국내 판매율 1위를 기록하는 등 지난 1995년 출시 이후 대한민국을 대표하는 비타민C 제품으로 자리매김하고 있다.
+
+이로	이/NP+로/JKB
+인해	인/NNG+하/XSV+아/EC
+‘고려은단	‘/SS+고려은단/NNP
+비타민C	비타민/NNG+C/SL
+1000’은	1000/SN+’/SS+은/JX
+국내	국내/NNG
+고함량	고/XPN+함량/NNG
+제품	제품/NNG
+시장에서	시장/NNG+에서/JKB
+10년	10/SN+년/NNB
+연속	연속/NNG
+판매율	판매/NNG+율/XSN
+1위를	1/SN+위/NNB+를/JKO
+기록하는	기록/NNG+하/XSV+는/ETM
+등	등/NNB
+지난	지나/VV+ㄴ/ETM
+1995년	1995/SN+년/NNB
+출시	출시/NNG
+이후	이후/NNG
+대한민국을	대한민국/NNP+을/JKO
+대표하는	대표/NNG+하/XSV+는/ETM
+제품으로	제품/NNG+으로/JKB
+자리매김하고	자리매김/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.88.15.1
+최근에는 한국능률협회컨설팅(KMAC)에서 주관하는 ‘2014 THE PROUD 대한민국 100대 상품’에 2년 연속 ‘고객가치 최우수상품’으로 선정되면서 명품 비타민으로서의 저력을 입증했다.
+
+최근에는	최근/NNG+에/JKB+는/JX
+한국능률협회컨설팅(KMAC)에서	한국능률협회컨설팅/NNP+(/SS+KMAC/SL+)/SS+에서/JKB
+주관하는	주관/NNG+하/XSV+는/ETM
+‘2014	‘/SS+2014/SN
+THE	THE/SL
+PROUD	PROUD/SL
+대한민국	대한민국/NNP
+100대	100/SN+대/NNG
+상품’에	상품/NNG+’/SS+에/JKB
+2년	2/SN+년/NNB
+연속	연속/NNG
+‘고객가치	‘/SS+고객/NNG+가치/NNG
+최우수상품’으로	최/XPN+우수/NNG+상품/NNG+’/SS+으로/JKB
+선정되면서	선정/NNG+되/XSV+면서/EC
+명품	명품/NNG
+비타민으로서의	비타민/NNG+으로서/JKB+의/JKG
+저력을	저력/NNG+을/JKO
+입증했다.	입증/NNG+하/XSV+았/EP+다/EF+./SF
+
+

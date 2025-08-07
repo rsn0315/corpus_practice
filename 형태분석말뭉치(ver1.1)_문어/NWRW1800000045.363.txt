@@ -1,0 +1,410 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.363
+metadata : {}
+
+
+# id : NWRW1800000045.363.1.1
+[단독] 6·25 영웅 밴 플리트 美8군 사령관의 전시 자필 메모 첫 공개
+
+[단독]	[/SS+단독/NNG+]/SS
+6·25	6/SN+·/SP+25/SN
+영웅	영웅/NNG
+밴	밴/NNP
+플리트	플리트/NNP
+美8군	美/SH+8/SN+군/NNG
+사령관의	사령관/NNG+의/JKG
+전시	전시/NNG
+자필	자필/NNG
+메모	메모/NNG
+첫	첫/MMN
+공개	공개/NNG
+
+
+# id : NWRW1800000045.363.2.1
+“백마고지 전투 승리로 전세 전환… 적군 앞으로 두달밖에 못버틸 것”
+
+“백마고지	“/SS+백마고지/NNP
+전투	전투/NNG
+승리로	승리/NNG+로/JKB
+전세	전세/NNG
+전환…	전환/NNG+…/SE
+적군	적군/NNG
+앞으로	앞/NNG+으로/JKB
+두달밖에	두/MMN+달/NNB+밖에/JX
+못버틸	못/MAG+버티/VV+ㄹ/ETM
+것”	것/NNB+”/SS
+
+
+# id : NWRW1800000045.363.3.1
+미8군 사령관으로서 6·25전쟁을 이끈 제임스 밴 플리트 장군(1892∼1992)이 한국 정부에 당시 전황을 알린 것으로 추정되는 자필 메모가 24일 처음으로 공개됐다.
+
+미8군	미/NNP+8/SN+군/NNG
+사령관으로서	사령관/NNG+으로서/JKB
+6·25전쟁을	6/SN+·/SP+25/SN+전쟁/NNG+을/JKO
+이끈	이끌/VV+ㄴ/ETM
+제임스	제임스/NNP
+밴	밴/NNP
+플리트	플리트/NNP
+장군(1892∼1992)이	장군/NNG+(/SS+1892/SN+∼/SO+1992/SN+)/SS+이/JKS
+한국	한국/NNP
+정부에	정부/NNG+에/JKB
+당시	당시/NNG
+전황을	전황/NNG+을/JKO
+알린	알리/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+추정되는	추정/NNG+되/XSV+는/ETM
+자필	자필/NNG
+메모가	메모/NNG+가/JKS
+24일	24/SN+일/NNB
+처음으로	처음/NNG+으로/JKB
+공개됐다.	공개/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.3.2
+메모 작성 시기로 추정되는 1953년 초 밴 플리트 장군은 전쟁이 두 달이면 끝날 것으로 분석했던 것으로 드러났다.
+
+메모	메모/NNG
+작성	작성/NNG
+시기로	시기/NNG+로/JKB
+추정되는	추정/NNG+되/XSV+는/ETM
+1953년	1953/SN+년/NNB
+초	초/NNB
+밴	밴/NNP
+플리트	플리트/NNP
+장군은	장군/NNG+은/JX
+전쟁이	전쟁/NNG+이/JKS
+두	두/MMN
+달이면	달/NNB+이/VCP+면/EC
+끝날	끝나/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+분석했던	분석/NNG+하/XSV+았/EP+던/ETM
+드러났다.	드러나/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.4.1
+국방부 군사편찬연구소 등에 따르면 동아일보가 입수한 2장의 메모는 밴 플리트 장군이 사령관으로서 전체적인 전쟁 판세를 파악한 메모의 일부로 보인다.
+
+국방부	국방부/NNG
+군사편찬연구소	군사/NNG+편찬/NNG+연구소/NNG
+등에	등/NNB+에/JKB
+따르면	따르/VV+면/EC
+동아일보가	동아일보/NNP+가/JKS
+입수한	입수/NNG+하/XSV+ㄴ/ETM
+2장의	2/SN+장/NNB+의/JKG
+메모는	메모/NNG+는/JX
+밴	밴/NNP
+플리트	플리트/NNP
+장군이	장군/NNG+이/JKS
+사령관으로서	사령관/NNG+으로서/JKB
+전체적인	전체/NNG+적/XSN+이/VCP+ㄴ/ETM
+전쟁	전쟁/NNG
+판세를	판세/NNG+를/JKO
+파악한	파악/NNG+하/XSV+ㄴ/ETM
+메모의	메모/NNG+의/JKG
+일부로	일부/NNG+로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.363.4.2
+연필로 쓴 것으로 보이는 이 메모의 맨 윗부분에는 ‘육군 사령관 메모(Army Commander Memo)’라는 표시가 인쇄돼 있다.
+
+연필로	연필/NNG+로/JKB
+쓴	쓰/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+보이는	보이/VV+는/ETM
+이	이/MMD
+메모의	메모/NNG+의/JKG
+맨	맨/MMN
+윗부분에는	윗부분/NNG+에/JKB+는/JX
+‘육군	‘/SS+육군/NNG
+사령관	사령관/NNG
+메모(Army	메모/NNG+(/SS+Army/SL
+Commander	Commander/SL
+Memo)’라는	Memo/SL+)/SS+’/SS+이/VCP+라는/ETM
+표시가	표시/NNG+가/JKS
+인쇄돼	인쇄/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.363.4.3
+메모 한 장의 좌측 상단에는 ‘외부용(ON)’, 다른 메모지의 좌측 상단에는 ‘내부용(OFF)’이라는 표시가 있다.
+
+메모	메모/NNG
+한	한/MMN
+장의	장/NNB+의/JKG
+좌측	좌측/NNG
+상단에는	상단/NNG+에/JKB+는/JX
+‘외부용(ON)’,	‘/SS+외부/NNG+용/XSN+(/SS+ON/SL+)/SS+’/SS+,/SP
+다른	다른/MMD
+메모지의	메모지/NNG+의/JKG
+‘내부용(OFF)’이라는	‘/SS+내부/NNG+용/XSN+(/SS+OFF/SL+)/SS+’/SS+이/VCP+라는/ETM
+표시가	표시/NNG+가/JKS
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000045.363.4.4
+‘ON’이라고 표시된 메모에는 밴 플리트 장군이 한국 정부에 알리고자 하려던 것으로 보이는 내용들이 포함돼 있다.
+
+‘ON’이라고	‘/SS+ON/SL+’/SS+이라고/JKQ
+표시된	표시/NNG+되/XSV+ㄴ/ETM
+메모에는	메모/NNG+에/JKB+는/JX
+밴	밴/NNP
+플리트	플리트/NNP
+장군이	장군/NNG+이/JKS
+한국	한국/NNP
+정부에	정부/NNG+에/JKB
+알리고자	알리/VV+고자/EC
+하려던	하/VV+려던/ETM
+것으로	것/NNB+으로/JKB
+보이는	보이/VV+는/ETM
+내용들이	내용/NNG+들/XSN+이/JKS
+포함돼	포함/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.363.5.1
+외부용으로 보이는 메모는 미8군을 뜻하는 단어인 ‘EUSAK(Eighth U.S Army in KOREA)’로 시작된다.
+
+외부용으로	외부/NNG+용/XSN+으로/JKB
+보이는	보이/VV+는/ETM
+메모는	메모/NNG+는/JX
+미8군을	미/NNP+8/SN+군/NNG+을/JKO
+뜻하는	뜻/NNG+하/XSV+는/ETM
+단어인	단어/NNG+이/VCP+ㄴ/ETM
+‘EUSAK(Eighth	‘/SS+EUSAK/SL+(/SS+Eighth/SL
+U.S	U/SL+./SP+S/SL
+Army	Army/SL
+in	in/SL
+KOREA)’로	KOREA/SL+)/SS+’/SS+로/JKB
+시작된다.	시작/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.363.5.2
+밴 플리트 장군은 이어 “또 한 달 (성과가) 아주 좋은 타격이었다.
+
+밴	밴/NNP
+플리트	플리트/NNP
+장군은	장군/NNG+은/JX
+이어	이어/MAG
+“또	“/SS+또/MAG
+한	한/MMN
+달	달/NNB
+(성과가)	(/SS+성과/NNG+가/JKS+)/SS
+아주	아주/MAG
+좋은	좋/VA+은/ETM
+타격이었다.	타격/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.5.3
+적군 상황은 훨씬 더 나쁘다(Reds in a much worse condition).
+
+적군	적군/NNG
+상황은	상황/NNG+은/JX
+훨씬	훨씬/MAG
+더	더/MAG
+나쁘다(Reds	나쁘/VA+다/EF+(/SS+Reds/SL
+in	in/SL
+a	a/SL
+much	much/SL
+worse	worse/SL
+condition).	condition/SL+)/SS+./SF
+
+
+# id : NWRW1800000045.363.5.4
+현 전황이 유엔군에 가장 좋다”라고 썼다.
+
+현	현/MMD
+전황이	전황/NNG+이/JKS
+유엔군에	유엔군/NNG+에/JKB
+가장	가장/MAG
+좋다”라고	좋/VA+다/EF+”/SS+라고/JKQ
+썼다.	쓰/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.5.5
+메모 아래에는 한국군 이름 2명과 ‘훈장(medal)’이라고 적었다.
+
+메모	메모/NNG
+아래에는	아래/NNG+에/JKB+는/JX
+한국군	한국군/NNG
+이름	이름/NNG
+2명과	2/SN+명/NNB+과/JC
+‘훈장(medal)’이라고	‘/SS+훈장/NNG+(/SS+medal/SL+)/SS+’/SS+이라고/JKQ
+적었다.	적/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.5.6
+그중 한 사람은 6·25전쟁 당시 초대 12사단장을 맡았던 윤춘근 장군이다.
+
+그중	그중/NNG
+한	한/MMN
+사람은	사람/NNG+은/JX
+6·25전쟁	6/SN+·/SP+25/SN+전쟁/NNG
+당시	당시/NNG
+초대	초대/NNG
+12사단장을	12/SN+사단장/NNG+을/JKO
+맡았던	맡/VV+았/EP+던/ETM
+윤춘근	윤춘근/NNP
+장군이다.	장군/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.5.7
+이 같은 내용을 종합해 볼 때 당시 한국 정부 관계자에게 알리기 위한 메모일 가능성이 높다는 게 군사편찬연구소 측의 설명이다.
+
+이	이/NP
+같은	같/VA+은/ETM
+내용을	내용/NNG+을/JKO
+종합해	종합/NNG+하/XSV+아/EC
+볼	보/VX+ㄹ/ETM
+때	때/NNG
+당시	당시/NNG
+한국	한국/NNP
+정부	정부/NNG
+관계자에게	관계자/NNG+에게/JKB
+알리기	알리/VV+기/ETN
+위한	위하/VV+ㄴ/ETM
+메모일	메모/NNG+이/VCP+ㄹ/ETM
+가능성이	가능/NNG+성/XSN+이/JKS
+높다는	높/VA+다는/ETM
+게	거/NNB+이/JKS
+군사편찬연구소	군사/NNG+편찬/NNG+연구소/NNG
+측의	측/NNB+의/JKG
+설명이다.	설명/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.6.1
+내부용으로 보이는 문건에서 밴 플리트 장군은 6가지 이유에서 적군이 앞으로 버틸 수 있는 기간을 60일로 분석했다.
+
+내부용으로	내부/NNG+용/XSN+으로/JKB
+보이는	보이/VV+는/ETM
+문건에서	문건/NNG+에서/JKB
+밴	밴/NNP
+플리트	플리트/NNP
+장군은	장군/NNG+은/JX
+6가지	6/SN+가지/NNB
+이유에서	이유/NNG+에서/JKB
+적군이	적군/NNG+이/JKS
+앞으로	앞/NNG+으로/JKB
+버틸	버티/VV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+기간을	기간/NNG+을/JKO
+60일로	60/SN+일/NNB+로/JKB
+분석했다.	분석/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.7.1
+6가지 이유를 다 제시하지는 않았지만 △정치적인(Political) 변수와 △점령한 고지(Hills) △포병(artillery)과 보병(infantry)의 합동 작전(Try Art. Inf. team) 등을 꼽았다.
+
+6가지	6/SN+가지/NNB
+이유를	이유/NNG+를/JKO
+다	다/MAG
+제시하지는	제시/NNG+하/XSV+지/EC+는/JX
+않았지만	않/VX+았/EP+지만/EC
+△정치적인(Political)	△/SW+정치/NNG+적/XSN+이/VCP+ㄴ/ETM+(/SS+Political/SL+)/SS
+변수와	변수/NNG+와/JC
+△점령한	△/SW+점령/NNG+하/XSV+ㄴ/ETM
+고지(Hills)	고지/NNG+(/SS+Hills/SL+)/SS
+△포병(artillery)과	△/SW+포병/NNG+(/SS+artillery/SL+)/SS+과/JC
+보병(infantry)의	보병/NNG+(/SS+infantry/SL+)/SS+의/JKG
+합동	합동/NNG
+작전(Try	작전/NNG+(/SS+Try/SL
+Art.	Art/SL+./SF
+Inf.	Inf/SL+./SF
+team)	team/SL+)/SS
+등을	등/NNB+을/JKO
+꼽았다.	꼽/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.7.2
+이어서 강원도 철원 지역에서 벌어진 대표적 전투였던 켈리(Kelly)고지 전투와 백마(Whitehorse)고지 전투를 표시한 뒤 ‘전환(Diversions)’이라고 적었다.
+
+이어서	이어서/MAG
+강원도	강원도/NNP
+철원	철원/NNP
+지역에서	지역/NNG+에서/JKB
+벌어진	벌어지/VV+ㄴ/ETM
+대표적	대표/NNG+적/XSN
+전투였던	전투/NNG+이/VCP+었/EP+던/ETM
+켈리(Kelly)고지	켈리/NNP+(/SS+Kelly/SL+)/SS+고지/NNG
+전투와	전투/NNG+와/JC
+백마(Whitehorse)고지	백마/NNG+(/SS+Whitehorse/SL+)/SS+고지/NNG
+전투를	전투/NNG+를/JKO
+표시한	표시/NNG+하/XSV+ㄴ/ETM
+뒤	뒤/NNG
+‘전환(Diversions)’이라고	‘/SS+전환/NNG+(/SS+Diversions/SL+)/SS+’/SS+이라고/JKQ
+적었다.	적/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.363.7.3
+이들 고지전으로 국면 전환을 이뤘다는 뜻으로 보인다.
+
+이들	이/NP+들/XSN
+고지전으로	고지전/NNG+으로/JKB
+국면	국면/NNG
+전환을	전환/NNG+을/JKO
+이뤘다는	이루/VV+었/EP+다는/ETM
+뜻으로	뜻/NNG+으로/JKB
+보인다.	보이/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.363.7.4
+백마고지 전투가 1952년 10월이었던 만큼 이 메모를 쓴 시기는 1953년 초로 추정된다.
+
+백마고지	백마고지/NNP
+전투가	전투/NNG+가/JKS
+1952년	1952/SN+년/NNB
+10월이었던	10/SN+월/NNB+이/VCP+었/EP+던/ETM
+만큼	만큼/NNB
+이	이/MMD
+메모를	메모/NNG+를/JKO
+쓴	쓰/VV+ㄴ/ETM
+시기는	시기/NNG+는/JX
+1953년	1953/SN+년/NNB
+초로	초/NNB+로/JKB
+추정된다.	추정/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.363.8.1
+군사편찬연구소 남보람 소령은 “연합군을 지휘했던 밴 플리트 장군이 직접 전황을 분석한 기록은 역사적으로 매우 의미 있는 사료”라며 “메모광으로 알려진 그가 6·25전쟁 관련 기록을 더 많이 남겼을 것으로 예상되는 만큼 적극적인 사료 발굴이 필요하다”고 했다.
+
+군사편찬연구소	군사/NNG+편찬/NNG+연구소/NNG
+남보람	남보람/NNP
+소령은	소령/NNG+은/JX
+“연합군을	“/SS+연합군/NNG+을/JKO
+지휘했던	지휘/NNG+하/XSV+았/EP+던/ETM
+밴	밴/NNP
+플리트	플리트/NNP
+장군이	장군/NNG+이/JKS
+직접	직접/MAG
+전황을	전황/NNG+을/JKO
+분석한	분석/NNG+하/XSV+ㄴ/ETM
+기록은	기록/NNG+은/JX
+역사적으로	역사/NNG+적/XSN+으로/JKB
+매우	매우/MAG
+의미	의미/NNG
+있는	있/VA+는/ETM
+사료”라며	사료/NNG+”/SS+이/VCP+라며/EC
+“메모광으로	“/SS+메모/NNG+광/XSN+으로/JKB
+알려진	알려지/VV+ㄴ/ETM
+그가	그/NP+가/JKS
+6·25전쟁	6/SN+·/SP+25/SN+전쟁/NNG
+관련	관련/NNG
+기록을	기록/NNG+을/JKO
+더	더/MAG
+많이	많이/MAG
+남겼을	남기/VV+었/EP+을/ETM
+것으로	것/NNB+으로/JKB
+예상되는	예상/NNG+되/XSV+는/ETM
+만큼	만큼/NNB
+적극적인	적극/NNG+적/XSN+이/VCP+ㄴ/ETM
+사료	사료/NNG
+발굴이	발굴/NNG+이/JKS
+필요하다”고	필요/NNG+하/XSA+다/EF+”/SS+고/JKQ
+했다.	하/VV+았/EP+다/EF+./SF
+
+

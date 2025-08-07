@@ -1,0 +1,346 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000041.328
+metadata : {}
+
+
+# id : NWRW1800000041.328.1.1
+軍 “7월까지 全부대 정밀진단”
+
+軍	軍/SH
+“7월까지	“/SS+7/SN+월/NNB+까지/JX
+全부대	全/SH+부대/NNG
+정밀진단”	정밀/NNG+진단/NNG+”/SS
+
+
+# id : NWRW1800000041.328.2.1
+[GOP 총기난사 병장 검거] 22사단 경계선, 다른 사단의 6배… 北위협 가중되며 근무강도 악화 “무인경계시스템 등 확대” 지적도
+
+[GOP	[/SS+GOP/SL
+총기난사	총기/NNG+난사/NNG
+병장	병장/NNG
+검거]	검거/NNG+]/SS
+22사단	22/SN+사단/NNG
+경계선,	경계선/NNG+,/SP
+다른	다른/MMD
+사단의	사단/NNG+의/JKG
+6배…	6/SN+배/NNG+…/SE
+北위협	北/SH+위협/NNG
+가중되며	가중/NNG+되/XSV+며/EC
+근무강도	근무/NNG+강도/NNG
+악화	악화/NNG
+“무인경계시스템	“/SS+무인/NNG+경계/NNG+시스템/NNG
+등	등/NNB
+확대”	확대/NNG+”/SS
+지적도	지적/NNG+도/JX
+
+
+# id : NWRW1800000041.328.3.1
+백승주 국방부 차관은 23일 동부전선 일반전방소초(GOP)에서 발생한 총기 난사 사건과 관련해 “7월을 기한으로 전군에 대한 부대 정밀진단을 실시하겠다”고 밝혔다.
+
+백승주	백승주/NNP
+국방부	국방부/NNG
+차관은	차관/NNG+은/JX
+23일	23/SN+일/NNB
+동부전선	동부/NNG+전선/NNG
+일반전방소초(GOP)에서	일반/NNG+전방/NNG+소초/NNG+(/SS+GOP/SL+)/SS+에서/JKB
+발생한	발생/NNG+하/XSV+ㄴ/ETM
+총기	총기/NNG
+난사	난사/NNG
+사건과	사건/NNG+과/JKB
+관련해	관련/NNG+하/XSV+아/EC
+“7월을	“/SS+7/SN+월/NNB+을/JKO
+기한으로	기한/NNG+으로/JKB
+전군에	전군/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+부대	부대/NNG
+정밀진단을	정밀/NNG+진단/NNG+을/JKO
+실시하겠다”고	실시/NNG+하/XSV+겠/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.3.2
+백 차관은 이날 국회에서 이완구 비대위원장 겸 원내대표 등 새누리당 지도부를 만나 사고 상황을 보고하면서 이같이 말했다.
+
+백	백/NNP
+차관은	차관/NNG+은/JX
+이날	이날/NNG
+국회에서	국회/NNG+에서/JKB
+이완구	이완구/NNP
+비대위원장	비대위원장/NNG
+겸	겸/NNB
+원내대표	원내/NNG+대표/NNG
+등	등/NNB
+새누리당	새누리당/NNP
+지도부를	지도부/NNG+를/JKO
+만나	만나/VV+아/EC
+사고	사고/NNG
+상황을	상황/NNG+을/JKO
+보고하면서	보고/NNG+하/XSV+면서/EC
+이같이	이/NP+같이/JKB
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.4.1
+백 차관은 “총기 사건이 발생한 데 무거운 책임감을 느낀다”며 “총기 난사 원인과 관련해서는 사고자와 (동료) 병사 등을 정밀하게 조사하겠다”고 강조했다.
+
+백	백/NNP
+차관은	차관/NNG+은/JX
+“총기	“/SS+총기/NNG
+사건이	사건/NNG+이/JKS
+발생한	발생/NNG+하/XSV+ㄴ/ETM
+데	데/NNB
+무거운	무겁/VA+ㄴ/ETM
+책임감을	책임감/NNG+을/JKO
+느낀다”며	느끼/VV+ㄴ다/EF+”/SS+며/EC
+난사	난사/NNG
+원인과	원인/NNG+과/JKB
+관련해서는	관련/NNG+하/XSV+아서/EC+는/JX
+사고자와	사고자/NNG+와/JC
+(동료)	(/SS+동료/NNG+)/SS
+병사	병사/NNG
+등을	등/NNB+을/JKO
+정밀하게	정밀/NNG+하/XSA+게/EC
+조사하겠다”고	조사/NNG+하/XSV+겠/EP+다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.4.2
+국방부는 2011년 해병대 총기 난사 사건 직후 전군에 내놓은 ‘병영생활 행동강령’을 보완해 관심병사 문제에 관한 추가적인 대책을 내놓을 예정이다.
+
+국방부는	국방부/NNG+는/JX
+2011년	2011/SN+년/NNB
+해병대	해병대/NNG
+총기	총기/NNG
+난사	난사/NNG
+사건	사건/NNG
+직후	직후/NNG
+전군에	전군/NNG+에/JKB
+내놓은	내놓/VV+은/ETM
+‘병영생활	‘/SS+병영/NNG+생활/NNG
+행동강령’을	행동/NNG+강령/NNG+’/SS+을/JKO
+보완해	보완/NNG+하/XSV+아/EC
+관심병사	관심/NNG+병사/NNG
+문제에	문제/NNG+에/JKB
+관한	관하/VV+ㄴ/ETM
+추가적인	추가/NNG+적/XSN+이/VCP+ㄴ/ETM
+대책을	대책/NNG+을/JKO
+내놓을	내놓/VV+을/ETM
+예정이다.	예정/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.5.1
+하지만 군 당국이 의례적인 대책을 발표하기보다는 GOP 근무 형태를 바꾸는 등 근본적인 대책을 고민해야 한다는 지적이 나온다.
+
+하지만	하지만/MAJ
+군	군/NNG
+당국이	당국/NNG+이/JKS
+의례적인	의례/NNG+적/XSN+이/VCP+ㄴ/ETM
+대책을	대책/NNG+을/JKO
+발표하기보다는	발표/NNG+하/XSV+기/ETN+보다/JKB+는/JX
+GOP	GOP/SL
+근무	근무/NNG
+형태를	형태/NNG+를/JKO
+바꾸는	바꾸/VV+는/ETM
+등	등/NNB
+근본적인	근본/NNG+적/XSN+이/VCP+ㄴ/ETM
+고민해야	고민/NNG+하/XSV+아야/EC
+한다는	하/VX+ㄴ다는/ETM
+지적이	지적/NNG+이/JKS
+나온다.	나오/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.328.6.1
+최전방 GOP 경계근무를 서는 병사들은 불과 1km 앞에 북한군 초소를 둔 일촉즉발의 초긴장 상태에서 낮과 밤이 뒤바뀌는 격무에 시달리고 있다.
+
+최전방	최/XPN+전방/NNG
+GOP	GOP/SL
+경계근무를	경계/NNG+근무/NNG+를/JKO
+서는	서/VV+는/ETM
+병사들은	병사/NNG+들/XSN+은/JX
+불과	불과/MAG
+1km	1/SN+km/SW
+앞에	앞/NNG+에/JKB
+북한군	북한군/NNG
+초소를	초소/NNG+를/JKO
+둔	두/VV+ㄴ/ETM
+일촉즉발의	일촉즉발/NNG+의/JKG
+초긴장	초/XPN+긴장/NNG
+상태에서	상태/NNG+에서/JKB
+낮과	낮/NNG+과/JC
+밤이	밤/NNG+이/JKS
+뒤바뀌는	뒤바뀌/VV+는/ETM
+격무에	격무/NNG+에/JKB
+시달리고	시달리/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.328.6.2
+새벽에 근무를 서고 오전에 취침하는 뒤바뀐 생활 패턴을 짧게는 7개월, 길게는 1년간 지속해야 한다.
+
+새벽에	새벽/NNG+에/JKB
+근무를	근무/NNG+를/JKO
+서고	서/VV+고/EC
+오전에	오전/NNG+에/JKB
+취침하는	취침/NNG+하/XSV+는/ETM
+뒤바뀐	뒤바뀌/VV+ㄴ/ETM
+생활	생활/NNG
+패턴을	패턴/NNG+을/JKO
+짧게는	짧/VA+게/EC+는/JX
+7개월,	7/SN+개월/NNB+,/SP
+길게는	길/VA+게/EC+는/JX
+1년간	1/SN+년/NNB+간/XSN
+지속해야	지속/NNG+하/XSV+아야/EC
+한다.	하/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.328.7.1
+특히 각종 대형 사고가 빈번하게 벌어진 22사단은 휴전선과 맞닿은 전방뿐 아니라 동해의 해안 경계도 맡고 있다.
+
+특히	특히/MAG
+각종	각종/NNG
+대형	대형/NNG
+사고가	사고/NNG+가/JKS
+빈번하게	빈번하/VA+게/EC
+벌어진	벌어지/VV+ㄴ/ETM
+22사단은	22/SN+사단/NNG+은/JX
+휴전선과	휴전선/NNG+과/JKB
+맞닿은	맞닿/VV+은/ETM
+전방뿐	전방/NNG+뿐/JX
+아니라	아니/VCN+라/EC
+동해의	동해/NNP+의/JKG
+해안	해안/NNG
+경계도	경계/NNG+도/JX
+맡고	맡/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000041.328.7.2
+양쪽 경계를 모두 수행하는 건 22사단뿐이다.
+
+양쪽	양쪽/NNG
+경계를	경계/NNG+를/JKO
+모두	모두/MAG
+수행하는	수행/NNG+하/XSV+는/ETM
+건	거/NNB+ㄴ/JX
+22사단뿐이다.	22/SN+사단/NNG+뿐/JX+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.7.3
+총 경계선이 97km(전방 28km, 해안 69km)로, 경계선이 다른 사단의 6배가량이나 된다.
+
+총	총/MMA
+경계선이	경계선/NNG+이/JKS
+97km(전방	97/SN+km/SW+(/SS+전방/NNG
+28km,	28/SN+km/SW+,/SP
+해안	해안/NNG
+69km)로,	69/SN+km/SW+)/SS+로/JKB+,/SP
+다른	다른/MMD
+사단의	사단/NNG+의/JKG
+6배가량이나	6/SN+배/NNG+가량/XSN+이나/JX
+된다.	되/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000041.328.7.4
+1개 GOP가 맡는 철책 길이가 1km 이상이나 돼 소초원 40여 명만으로 24시간 경계를 하기가 힘들다.
+
+1개	1/SN+개/NNB
+GOP가	GOP/SL+가/JKS
+맡는	맡/VV+는/ETM
+철책	철책/NNG
+길이가	길이/NNG+가/JKS
+1km	1/SN+km/SW
+이상이나	이상/NNG+이나/JX
+돼	되/VV+어/EC
+소초원	소초원/NNG
+40여	40/SN+여/XSN
+명만으로	명/NNB+만/JX+으로/JKB
+24시간	24/SN+시간/NNB
+경계를	경계/NNG+를/JKO
+하기가	하/VV+기/ETN+가/JKS
+힘들다.	힘들/VA+다/EF+./SF
+
+
+# id : NWRW1800000041.328.8.1
+군 고위 관계자는 “동부전선을 관할하는 1군사령부 예하에서만 1만 명 가까이 병력이 줄어든 데다 북한의 도발 위협이 가중되면서 근무교대 주기 단축과 근무시간 연장 등으로 GOP 근무 강도가 급격히 높아졌다”고 지적했다.
+
+군	군/NNG
+고위	고위/NNG
+관계자는	관계자/NNG+는/JX
+“동부전선을	“/SS+동부/NNG+전선/NNG+을/JKO
+관할하는	관할/NNG+하/XSV+는/ETM
+1군사령부	1/SN+군사령부/NNG
+예하에서만	예하/NNG+에서/JKB+만/JX
+1만	1/SN+만/NR
+명	명/NNB
+가까이	가까이/MAG
+병력이	병력/NNG+이/JKS
+줄어든	줄어들/VV+ㄴ/ETM
+데다	데/NNB+다/JX
+북한의	북한/NNP+의/JKG
+도발	도발/NNG
+위협이	위협/NNG+이/JKS
+가중되면서	가중/NNG+되/XSV+면서/EC
+근무교대	근무/NNG+교대/NNG
+주기	주기/NNG
+단축과	단축/NNG+과/JC
+근무시간	근무/NNG+시간/NNG
+연장	연장/NNG
+등으로	등/NNB+으로/JKB
+GOP	GOP/SL
+근무	근무/NNG
+강도가	강도/NNG+가/JKS
+급격히	급격히/MAG
+높아졌다”고	높아지/VV+었/EP+다/EF+”/SS+고/JKQ
+지적했다.	지적/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.9.1
+군 당국은 2006년부터 최전방 GOP 사단에 적의 침투를 감시하는 폐쇄회로(CC)TV와 철책 절단을 감지하는 장비를 설치하는 과학화경계사업을 추진해 왔다.
+
+군	군/NNG
+당국은	당국/NNG+은/JX
+2006년부터	2006/SN+년/NNB+부터/JX
+최전방	최/XPN+전방/NNG
+GOP	GOP/SL
+사단에	사단/NNG+에/JKB
+적의	적/NNG+의/JKG
+침투를	침투/NNG+를/JKO
+감시하는	감시/NNG+하/XSV+는/ETM
+폐쇄회로(CC)TV와	폐쇄/NNG+회로/NNG+(/SS+CC/SL+)/SS+TV/SL+와/JC
+철책	철책/NNG
+절단을	절단/NNG+을/JKO
+감지하는	감지/NNG+하/XSV+는/ETM
+장비를	장비/NNG+를/JKO
+설치하는	설치/NNG+하/XSV+는/ETM
+과학화경계사업을	과학/NNG+화/XSN+경계/NNG+사업/NNG+을/JKO
+추진해	추진/NNG+하/XSV+아/EC
+왔다.	오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000041.328.9.2
+하지만 장비 부적합, 기술 미흡 등으로 여러 차례 연기돼 당초 올해 말까지 완료하려던 계획이 2년 이상 연기된 상황이다.
+
+하지만	하지만/MAJ
+장비	장비/NNG
+부적합,	부/XPN+적합/NNG+,/SP
+기술	기술/NNG
+미흡	미흡/NNG
+등으로	등/NNB+으로/JKB
+여러	여러/MMN
+차례	차례/NNG
+연기돼	연기/NNG+되/XSV+어/EC
+당초	당초/NNG
+올해	올해/NNG
+말까지	말/NNB+까지/JX
+완료하려던	완료/NNG+하/XSV+려던/ETM
+계획이	계획/NNG+이/JKS
+2년	2/SN+년/NNB
+이상	이상/NNG
+연기된	연기/NNG+되/XSV+ㄴ/ETM
+상황이다.	상황/NNG+이/VCP+다/EF+./SF
+
+

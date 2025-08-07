@@ -1,0 +1,351 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000045.26
+metadata : {}
+
+
+# id : NWRW1800000045.26.1.1
+[Money&Life]투자성향과 목적 분석한 포트폴리오 제공
+
+[Money&Life]투자성향과	[/SS+Money/SL+&/SW+Life/SL+]/SS+투자/NNG+성향/NNG+과/JC
+목적	목적/NNG
+분석한	분석/NNG+하/XSV+ㄴ/ETM
+포트폴리오	포트폴리오/NNG
+제공	제공/NNG
+
+
+# id : NWRW1800000045.26.2.1
+NH투자증권 ‘NH 트리플 A’
+
+NH투자증권	NH투자증권/NNP
+‘NH	‘/SS+NH/SL
+트리플	트리플/NNP
+A’	A/SL+’/SS
+
+
+# id : NWRW1800000045.26.3.1
+국내외 증시 변동성이 커지자 증권사의 ‘맞춤형 랩어카운트(종합자산관리계좌)’ 상품에 눈길을 주는 투자자가 늘고 있다.
+
+국내외	국내외/NNG
+증시	증시/NNG
+변동성이	변동/NNG+성/XSN+이/JKS
+커지자	커지/VV+자/EC
+증권사의	증권사/NNG+의/JKG
+‘맞춤형	‘/SS+맞춤/NNG+형/XSN
+랩어카운트(종합자산관리계좌)’	랩/NNG+어카운트/NNG+(/SS+종합/NNG+자산/NNG+관리/NNG+계좌/NNG+)/SS+’/SS
+상품에	상품/NNG+에/JKB
+눈길을	눈길/NNG+을/JKO
+주는	주/VV+는/ETM
+투자자가	투자자/NNG+가/JKS
+늘고	늘/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.26.4.1
+증권사의 투자 포트폴리오를 기반으로 자산을 운용하며, 사후 관리까지 해줌으로써 개인 투자자들이 대내외 변수에 일일이 대응하지 않아도 된다는 장점이 부각되고 있다는 분석이다.
+
+증권사의	증권사/NNG+의/JKG
+투자	투자/NNG
+포트폴리오를	포트폴리오/NNG+를/JKO
+기반으로	기반/NNG+으로/JKB
+자산을	자산/NNG+을/JKO
+운용하며,	운용/NNG+하/XSV+며/EC+,/SP
+사후	사후/NNG
+관리까지	관리/NNG+까지/JX
+해줌으로써	하/VV+아/EC+주/VX+ㅁ/ETN+으로써/JKB
+개인	개인/NNG
+투자자들이	투자자/NNG+들/XSN+이/JKS
+대내외	대내외/NNG
+변수에	변수/NNG+에/JKB
+일일이	일일이/MAG
+대응하지	대응/NNG+하/XSV+지/EC
+않아도	않/VX+아도/EC
+된다는	되/VV+ㄴ다는/ETM
+장점이	장점/NNG+이/JKS
+부각되고	부각/NNG+되/XSV+고/EC
+있다는	있/VX+다는/ETM
+분석이다.	분석/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.5.1
+NH투자증권이 내놓은 랩어카운트 상품 ‘NH 트리플 A(Asset Allocation Account)’도 개인투자자들이 변동성 높은 증시에서도 안정적 자산관리가 가능하다는 점을 내세우고 있다.
+
+NH투자증권이	NH투자증권/NNP+이/JKS
+내놓은	내놓/VV+은/ETM
+랩어카운트	랩/NNG+어카운트/NNG
+상품	상품/NNG
+‘NH	‘/SS+NH/SL
+트리플	트리플/NNP
+A(Asset	A/SL+(/SS+Asset/SL
+Allocation	Allocation/SL
+Account)’도	Account/SL+)/SS+’/SS+도/JX
+개인투자자들이	개인/NNG+투자자/NNG+들/XSN+이/JKS
+변동성	변동/NNG+성/XSN
+높은	높/VA+은/ETM
+증시에서도	증시/NNG+에서/JKB+도/JX
+안정적	안정/NNG+적/XSN
+자산관리가	자산/NNG+관리/NNG+가/JKS
+가능하다는	가능/NNG+하/XSA+다는/ETM
+점을	점/NNG+을/JKO
+내세우고	내세우/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000045.26.5.2
+최소가입금액은 5000만 원이다.
+
+최소가입금액은	최소/NNG+가입/NNG+금액/NNG+은/JX
+5000만	5000/SN+만/NR
+원이다.	원/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.6.1
+우선 자산관리 전문가가 고객의 투자성향과 목적을 분석해 개별 투자자 성향에 맞는 포트폴리오를 제공한다.
+
+우선	우선/MAG
+자산관리	자산/NNG+관리/NNG
+전문가가	전문가/NNG+가/JKS
+고객의	고객/NNG+의/JKG
+투자성향과	투자/NNG+성향/NNG+과/JC
+목적을	목적/NNG+을/JKO
+분석해	분석/NNG+하/XSV+아/EC
+개별	개별/NNG
+투자자	투자자/NNG
+성향에	성향/NNG+에/JKB
+맞는	맞/VV+는/ETM
+포트폴리오를	포트폴리오/NNG+를/JKO
+제공한다.	제공/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.26.6.2
+투자 시작과 동시에 1 대 1 상담을 통해 고객 맞춤형 운용전략을 세부적으로 수립한다.
+
+투자	투자/NNG
+시작과	시작/NNG+과/JKB
+동시에	동시/NNG+에/JKB
+1	1/SN
+대	대/NNB
+상담을	상담/NNG+을/JKO
+통해	통하/VV+아/EC
+고객	고객/NNG
+맞춤형	맞춤/NNG+형/XSN
+운용전략을	운용/NNG+전략/NNG+을/JKO
+세부적으로	세부/NNG+적/XSN+으로/JKB
+수립한다.	수립/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.26.6.3
+이후 자산관리 전문가는 운용전략 및 시장상황에 따라 포트폴리오 편입비중 및 투자자산을 변경한다.
+
+이후	이후/NNG
+자산관리	자산/NNG+관리/NNG
+전문가는	전문가/NNG+는/JX
+운용전략	운용/NNG+전략/NNG
+및	및/MAG
+시장상황에	시장/NNG+상황/NNG+에/JKB
+따라	따르/VV+아/EC
+포트폴리오	포트폴리오/NNG
+편입비중	편입/NNG+비중/NNG
+투자자산을	투자/NNG+자산/NNG+을/JKO
+변경한다.	변경/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.26.6.4
+투자자산으로는 국내외 주식, 주가연계증권(ELS), 펀드, 채권, 상장지수펀드(ETF) 등 국내외 대부분 상품을 활용한다.
+
+투자자산으로는	투자/NNG+자산/NNG+으로/JKB+는/JX
+국내외	국내외/NNG
+주식,	주식/NNG+,/SP
+주가연계증권(ELS),	주가/NNG+연계/NNG+증권/NNG+(/SS+ELS/SL+)/SS+,/SP
+펀드,	펀드/NNG+,/SP
+채권,	채권/NNG+,/SP
+상장지수펀드(ETF)	상장/NNG+지수/NNG+펀드/NNG+(/SS+ETF/SL+)/SS
+등	등/NNB
+대부분	대/XPN+부분/NNG
+상품을	상품/NNG+을/JKO
+활용한다.	활용/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.26.7.1
+랩어카운트 상품의 목적이 위험 분산과 자산 배분에 있는 만큼, 시스템을 활용해 특정 자산 쏠림 현상을 방지하고 있다고 NH투자증권 측은 설명했다.
+
+랩어카운트	랩/NNG+어카운트/NNG
+상품의	상품/NNG+의/JKG
+목적이	목적/NNG+이/JKS
+위험	위험/NNG
+분산과	분산/NNG+과/JC
+자산	자산/NNG
+배분에	배분/NNG+에/JKB
+있는	있/VA+는/ETM
+만큼,	만큼/NNB+,/SP
+시스템을	시스템/NNG+을/JKO
+활용해	활용/NNG+하/XSV+아/EC
+특정	특정/NNG
+쏠림	쏠리/VV+ㅁ/ETN
+현상을	현상/NNG+을/JKO
+방지하고	방지/NNG+하/XSV+고/EC
+있다고	있/VX+다고/EC
+NH투자증권	NH투자증권/NNP
+측은	측/NNB+은/JX
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.7.2
+가입자는 추가 수수료 없이 투자자산 리밸런싱을 자유롭게 실행할 수 있다.
+
+가입자는	가입자/NNG+는/JX
+추가	추가/NNG
+수수료	수수료/NNG
+없이	없이/MAG
+투자자산	투자/NNG+자산/NNG
+리밸런싱을	리밸런싱/NNG+을/JKO
+자유롭게	자유/NNG+롭/XSA+게/EC
+실행할	실행/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000045.26.8.1
+NH투자증권 측은 고객이 수익을 얻지 못하면 회사도 손해라는 개념에서 수수료 체계를 3가지로 만들었다고 설명했다.
+
+NH투자증권	NH투자증권/NNP
+측은	측/NNB+은/JX
+고객이	고객/NNG+이/JKS
+수익을	수익/NNG+을/JKO
+얻지	얻/VV+지/EC
+못하면	못하/VX+면/EC
+회사도	회사/NNG+도/JX
+손해라는	손해/NNG+이/VCP+라는/ETM
+개념에서	개념/NNG+에서/JKB
+수수료	수수료/NNG
+체계를	체계/NNG+를/JKO
+3가지로	3/SN+가지/NNB+로/JKB
+만들었다고	만들/VV+었/EP+다고/EC
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.8.2
+일반형수수료 체계는 원금에 대해 연 1.5% 수수료를 부과하며, 이익 발생분에는 따로 수수료를 책정하지 않는다.
+
+일반형수수료	일반/NNG+형/XSN+수수료/NNG
+체계는	체계/NNG+는/JX
+원금에	원금/NNG+에/JKB
+대해	대하/VV+아/EC
+연	연/NNG
+1.5%	1/SN+./SP+5/SN+%/SW
+수수료를	수수료/NNG+를/JKO
+부과하며,	부과/NNG+하/XSV+며/EC+,/SP
+이익	이익/NNG
+발생분에는	발생/NNG+분/XSN+에/JKB+는/JX
+따로	따로/MAG
+책정하지	책정/NNG+하/XSV+지/EC
+않는다.	않/VX+는다/EF+./SF
+
+
+# id : NWRW1800000045.26.9.1
+‘성과형수수료Ⅰ’은 원금에 대해 연 0.8% 수수료를 받으며, 성과가 발생하면 보수로 일정 비율을 가져간다.
+
+‘성과형수수료Ⅰ’은	‘/SS+성과/NNG+형/XSN+수수료/NNG+Ⅰ/SL+’/SS+은/JX
+원금에	원금/NNG+에/JKB
+대해	대하/VV+아/EC
+연	연/NNG
+0.8%	0/SN+./SP+8/SN+%/SW
+수수료를	수수료/NNG+를/JKO
+받으며,	받/VV+으며/EC+,/SP
+성과가	성과/NNG+가/JKS
+발생하면	발생/NNG+하/XSV+면/EC
+보수로	보수/NNG+로/JKB
+일정	일정/NNG
+비율을	비율/NNG+을/JKO
+가져간다.	가져가/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000045.26.9.2
+‘성과형수수료Ⅱ’는 수수료율을 연 0.01%로 대폭 낮추고 성과보수를 일부 가져가도록 설계됐다.
+
+‘성과형수수료Ⅱ’는	‘/SS+성과/NNG+형/XSN+수수료/NNG+Ⅱ/SL+’/SS+는/JX
+수수료율을	수수료/NNG+율/XSN+을/JKO
+연	열/VV+ㄴ/ETM
+0.01%로	0/SN+./SP+01/SN+%/SW+로/JKB
+대폭	대폭/MAG
+낮추고	낮추/VV+고/EC
+성과보수를	성과/NNG+보수/NNG+를/JKO
+일부	일부/NNG
+가져가도록	가져가/VV+도록/EC
+설계됐다.	설계/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.9.3
+NH투자증권 측은 “성과형수수료Ⅱ는 고객의 수익 없이는 회사 이익도 없다는 신념으로 만든 체계”라며 “고객의 신뢰를 회복하는 경영 철학이 담겼다”고 강조했다.
+
+NH투자증권	NH투자증권/NNP
+측은	측/NNB+은/JX
+“성과형수수료Ⅱ는	“/SS+성과/NNG+형/XSN+수수료/NNG+Ⅱ/SL+는/JX
+고객의	고객/NNG+의/JKG
+수익	수익/NNG
+없이는	없이/MAG+는/JX
+회사	회사/NNG
+이익도	이익/NNG+도/JX
+없다는	없/VA+다는/ETM
+신념으로	신념/NNG+으로/JKB
+만든	만들/VV+ㄴ/ETM
+체계”라며	체계/NNG+”/SS+이/VCP+라며/EC
+“고객의	“/SS+고객/NNG+의/JKG
+신뢰를	신뢰/NNG+를/JKO
+회복하는	회복/NNG+하/XSV+는/ETM
+경영	경영/NNG
+철학이	철학/NNG+이/JKS
+담겼다”고	담기/VV+었/EP+다/EF+”/SS+고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.10.1
+NH투자증권은 최근 영업직원의 평가항목 가운데 고객 수익률 비중을 높이고, 자기매매 수익을 평가항목에서 제외해 직원들이 고객 수익률에 더욱 집중할 수 있는 환경을 마련했다고 밝혔다.
+
+NH투자증권은	NH투자증권/NNP+은/JX
+최근	최근/MAG
+영업직원의	영업/NNG+직원/NNG+의/JKG
+평가항목	평가/NNG+항목/NNG
+가운데	가운데/NNG
+고객	고객/NNG
+수익률	수익/NNG+률/XSN
+비중을	비중/NNG+을/JKO
+높이고,	높이/VV+고/EC+,/SP
+자기매매	자기/NNG+매매/NNG
+수익을	수익/NNG+을/JKO
+평가항목에서	평가/NNG+항목/NNG+에서/JKB
+제외해	제외/NNG+하/XSV+아/EC
+직원들이	직원/NNG+들/XSN+이/JKS
+수익률에	수익/NNG+률/XSN+에/JKB
+더욱	더욱/MAG
+집중할	집중/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+환경을	환경/NNG+을/JKO
+마련했다고	마련/NNG+하/XSV+았/EP+다고/EC
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000045.26.10.2
+박득현 NH투자증권 랩운용부장은 “NH 트리플 A는 개별 투자자의 투자성향과 투자목적을 철저히 반영한 맞춤형 상품”이라고 강조했다.
+
+박득현	박득현/NNP
+NH투자증권	NH투자증권/NNP
+랩운용부장은	랩/NNG+운용/NNG+부장/NNG+은/JX
+“NH	“/SS+NH/SL
+트리플	트리플/NNP
+A는	A/SL+는/JX
+개별	개별/NNG
+투자자의	투자자/NNG+의/JKG
+투자성향과	투자/NNG+성향/NNG+과/JC
+투자목적을	투자/NNG+목적/NNG+을/JKO
+철저히	철저히/MAG
+반영한	반영/NNG+하/XSV+ㄴ/ETM
+맞춤형	맞춤/NNG+형/XSN
+상품”이라고	상품/NNG+”/SS+이라고/JKQ
+강조했다.	강조/NNG+하/XSV+았/EP+다/EF+./SF
+
+

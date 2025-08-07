@@ -1,0 +1,341 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.319
+metadata : {}
+
+
+# id : NWRW1800000049.319.1.1
+北, 수도권 GPS 신호 교란
+
+北,	北/SH+,/SP
+수도권	수도/NNG+권/XSN
+GPS	GPS/SL
+신호	신호/NNG
+교란	교란/NNG
+
+
+# id : NWRW1800000049.319.2.1
+강화 등서 감지… ‘주의’ 경보 발령 항공기-선박 등 직접 피해는 없어… 北의 非군사적 도발 우려 현실화
+
+강화	강화/NNP
+등서	등/NNB+서/JKB
+감지…	감지/NNG+…/SE
+‘주의’	‘/SS+주의/NNG+’/SS
+경보	경보/NNG
+발령	발령/NNG
+항공기-선박	항공기/NNG+-/SO+선박/NNG
+등	등/NNB
+직접	직접/MAG
+피해는	피해/NNG+는/JX
+없어…	없/VA+어/EF+…/SE
+北의	北/SH+의/JKG
+非군사적	非/SH+군사/NNG+적/XSN
+도발	도발/NNG
+우려	우려/NNG
+현실화	현실/NNG+화/XSN
+
+
+# id : NWRW1800000049.319.3.1
+북한 지역에서 발신한 전파가 수도권 위성위치확인시스템(GPS) 신호를 교란시켰다.
+
+북한	북한/NNP
+지역에서	지역/NNG+에서/JKB
+발신한	발신/NNG+하/XSV+ㄴ/ETM
+전파가	전파/NNG+가/JKS
+수도권	수도/NNG+권/XSN
+위성위치확인시스템(GPS)	위성/NNG+위치/NNG+확인/NNG+시스템/NNG+(/SS+GPS/SL+)/SS
+신호를	신호/NNG+를/JKO
+교란시켰다.	교란/NNG+시키/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.3.2
+올 1월 북한의 핵실험 이후 비(非)군사적인 방법으로 공격할 것이란 우려가 현실화한 것이다.
+
+올	올/NNG
+1월	1/SN+월/NNB
+북한의	북한/NNP+의/JKG
+핵실험	핵/NNG+실험/NNG
+이후	이후/NNG
+비(非)군사적인	비/XPN+(/SS+非/SH+)/SS+군사/NNG+적/XSN+이/VCP+ㄴ/ETM
+방법으로	방법/NNG+으로/JKB
+공격할	공격/NNG+하/XSV+ㄹ/ETM
+것이란	것/NNB+이/VCP+란/ETM
+우려가	우려/NNG+가/JKS
+현실화한	현실/NNG+화/XSN+하/XSV+ㄴ/ETM
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.3.3
+정보 당국은 박근혜 대통령이 이날 미국으로 출국한 직후 북한이 GPS 교란작전에 나선 의도를 분석하고 있다.
+
+정보	정보/NNG
+당국은	당국/NNG+은/JX
+박근혜	박근혜/NNP
+대통령이	대통령/NNG+이/JKS
+이날	이날/NNG
+미국으로	미국/NNP+으로/JKB
+출국한	출국/NNG+하/XSV+ㄴ/ETM
+직후	직후/NNG
+북한이	북한/NNP+이/JKS
+GPS	GPS/SL
+교란작전에	교란/NNG+작전/NNG+에/JKB
+나선	나서/VV+ㄴ/ETM
+의도를	의도/NNG+를/JKO
+분석하고	분석/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.319.4.1
+31일 미래창조과학부와 국방부에 따르면 이날 오후 7시 36분부터 북한 해주와 금강산 일대에서 발신된 GPS 교란신호가 인천 강화군(70dB)과 강원 화천군 대성산(100dB) 일대에서 감지됐다.
+
+31일	31/SN+일/NNB
+미래창조과학부와	미래/NNG+창조/NNG+과학부/NNG+와/JC
+국방부에	국방부/NNG+에/JKB
+따르면	따르/VV+면/EC
+이날	이날/NNG
+오후	오후/NNG
+7시	7/SN+시/NNB
+36분부터	36/SN+분/NNB+부터/JX
+북한	북한/NNP
+해주와	해주/NNP+와/JC
+금강산	금강산/NNP
+일대에서	일대/NNG+에서/JKB
+발신된	발신/NNG+되/XSV+ㄴ/ETM
+GPS	GPS/SL
+교란신호가	교란/NNG+신호/NNG+가/JKS
+인천	인천/NNP
+강화군(70dB)과	강화군/NNP+(/SS+70/SN+dB/SW+)/SS+과/JC
+강원	강원/NNP
+화천군	화천군/NNP
+대성산(100dB)	대성산/NNP+(/SS+100/SN+dB/SW+)/SS
+감지됐다.	감지/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.4.2
+정부는 오후 7시 40분 GPS 혼신 단계를 기존 ‘관심’에서 ‘주의’로 상향조정했다.
+
+정부는	정부/NNG+는/JX
+오후	오후/NNG
+7시	7/SN+시/NNB
+40분	40/SN+분/NNB
+GPS	GPS/SL
+혼신	혼신/NNG
+단계를	단계/NNG+를/JKO
+기존	기존/NNG
+‘관심’에서	‘/SS+관심/NNG+’/SS+에서/JKB
+‘주의’로	‘/SS+주의/NNG+’/SS+로/JKB
+상향조정했다.	상향/NNG+조정/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.4.3
+GPS 교란이 발생하면 ‘정상’ ‘관심’ ‘주의’ ‘심각’ 4단계 경보가 발령된다.
+
+GPS	GPS/SL
+교란이	교란/NNG+이/JKS
+발생하면	발생/NNG+하/XSV+면/EC
+‘정상’	‘/SS+정상/NNG+’/SS
+‘관심’	‘/SS+관심/NNG+’/SS
+‘주의’	‘/SS+주의/NNG+’/SS
+‘심각’	‘/SS+심각/XR+’/SS
+4단계	4/SN+단계/NNG
+경보가	경보/NNG+가/JKS
+발령된다.	발령/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.319.4.4
+국방부 관계자는 “북한이 1월 부터 시험 전파를 발사하다가 오늘은 최대 출력으로 교란 전파를 발사했다”고 밝혔다.
+
+국방부	국방부/NNG
+관계자는	관계자/NNG+는/JX
+“북한이	“/SS+북한/NNP+이/JKS
+1월	1/SN+월/NNB
+부터	부터/JX
+시험	시험/NNG
+전파를	전파/NNG+를/JKO
+발사하다가	발사/NNG+하/XSV+다가/EC
+오늘은	오늘/NNG+은/JX
+최대	최대/NNG
+출력으로	출력/NNG+으로/JKB
+교란	교란/NNG
+발사했다”고	발사/NNG+하/XSV+았/EP+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.4.5
+북한이 시험 단계를 넘어 실제 GPS 교란 공격을 감행한 것으로 정보 당국은 판단하고 있다.
+
+북한이	북한/NNP+이/JKS
+시험	시험/NNG
+단계를	단계/NNG+를/JKO
+넘어	넘/VV+어/EC
+실제	실제/NNG
+GPS	GPS/SL
+교란	교란/NNG
+공격을	공격/NNG+을/JKO
+감행한	감행/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+정보	정보/NNG
+당국은	당국/NNG+은/JX
+판단하고	판단/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.319.5.1
+이날 GPS 교란신호로 항공기 14대 어선 9대(오후 9시 10분 기준)에서 GPS 교란신호가 감지됐지만 직접적인 피해는 발생하지 않았다.
+
+이날	이날/NNG
+GPS	GPS/SL
+교란신호로	교란/NNG+신호/NNG+로/JKB
+항공기	항공기/NNG
+14대	14/SN+대/NNB
+어선	어선/NNG
+9대(오후	9/SN+대/NNB+(/SS+오후/NNG
+9시	9/SN+시/NNB
+10분	10/SN+분/NNB
+기준)에서	기준/NNG+)/SS+에서/JKB
+교란신호가	교란/NNG+신호/NNG+가/JKS
+감지됐지만	감지/NNG+되/XSV+었/EP+지만/EC
+직접적인	직접/NNG+적/XSN+이/VCP+ㄴ/ETM
+피해는	피해/NNG+는/JX
+발생하지	발생/NNG+하/XSV+지/EC
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.5.2
+현재 국내 이동통신사들이 운영하는 기지국에서는 GPS 교란을 방지할 수 있는 장치가 설치돼 있다.
+
+현재	현재/MAG
+국내	국내/NNG
+이동통신사들이	이동/NNG+통신사/NNG+들/XSN+이/JKS
+운영하는	운영/NNG+하/XSV+는/ETM
+기지국에서는	기지국/NNG+에서/JKB+는/JX
+GPS	GPS/SL
+교란을	교란/NNG+을/JKO
+방지할	방지/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VA+는/ETM
+장치가	장치/NNG+가/JKS
+설치돼	설치/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.319.5.3
+항공기와 선박이 운항할 때 관성항법장치를 메인 수단으로 사용하고 GPS 장치를 보조 수단으로 사용해 피해가 발생하진 않았다.
+
+항공기와	항공기/NNG+와/JC
+선박이	선박/NNG+이/JKS
+운항할	운항/NNG+하/XSV+ㄹ/ETM
+때	때/NNG
+관성항법장치를	관성/NNG+항법/NNG+장치/NNG+를/JKO
+메인	메인/NNG
+수단으로	수단/NNG+으로/JKB
+사용하고	사용/NNG+하/XSV+고/EC
+GPS	GPS/SL
+장치를	장치/NNG+를/JKO
+보조	보조/NNG
+사용해	사용/NNG+하/XSV+아/EC
+피해가	피해/NNG+가/JKS
+발생하진	발생/NNG+하/XSV+지/EC+ㄴ/JX
+않았다.	않/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.5.4
+국방부 관계자는 “군이 운용하는 GPS에는 문제가 없다”고 밝혔다.
+
+국방부	국방부/NNG
+관계자는	관계자/NNG+는/JX
+“군이	“/SS+군/NNG+이/JKS
+운용하는	운용/NNG+하/XSV+는/ETM
+GPS에는	GPS/SL+에/JKB+는/JX
+문제가	문제/NNG+가/JKS
+없다”고	없/VA+다/EF+”/SS+고/JKQ
+밝혔다.	밝히/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.6.1
+하지만 GPS 교란신호가 강해지면 일부 피해가 발생할 가능성은 남아 있다.
+
+하지만	하지만/MAJ
+GPS	GPS/SL
+교란신호가	교란/NNG+신호/NNG+가/JKS
+강해지면	강하/VA+아/EC+지/VX+면/EC
+일부	일부/NNG
+피해가	피해/NNG+가/JKS
+발생할	발생/NNG+하/XSV+ㄹ/ETM
+가능성은	가능/NNG+성/XSN+은/JX
+남아	남/VV+아/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.319.6.2
+미래부 관계자는 “북한 측 발생 지역과 인접한 곳에서는 자동차 내비게이션에 문제가 발생할 수 있어 상황을 지켜보고 있다”고 말했다.
+
+미래부	미래부/NNG
+관계자는	관계자/NNG+는/JX
+“북한	“/SS+북한/NNP
+측	측/NNB
+발생	발생/NNG
+지역과	지역/NNG+과/JKB
+인접한	인접/NNG+하/XSV+ㄴ/ETM
+곳에서는	곳/NNG+에서/JKB+는/JX
+자동차	자동차/NNG
+내비게이션에	내비게이션/NNG+에/JKB
+문제가	문제/NNG+가/JKS
+발생할	발생/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있어	있/VA+어/EC
+상황을	상황/NNG+을/JKO
+지켜보고	지켜보/VV+고/EC
+있다”고	있/VX+다/EF+”/SS+고/JKQ
+말했다.	말/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.7.1
+북한은 2010년 8월 처음으로 개성에서 발신된 것으로 추정되는 교란신호를 보냈다.
+
+북한은	북한/NNP+은/JX
+2010년	2010/SN+년/NNB
+8월	8/SN+월/NNB
+처음으로	처음/NNG+으로/JKB
+개성에서	개성/NNP+에서/JKB
+발신된	발신/NNG+되/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+추정되는	추정/NNG+되/XSV+는/ETM
+교란신호를	교란/NNG+신호/NNG+를/JKO
+보냈다.	보내/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.7.2
+당시 이동통신 기지국과 항공기 15대, 해군함정 한 척이 GPS 수신불량 피해를 당했다.
+
+당시	당시/NNG
+이동통신	이동/NNG+통신/NNG
+기지국과	기지국/NNG+과/JC
+항공기	항공기/NNG
+15대,	15/SN+대/NNB+,/SP
+해군함정	해군/NNG+함정/NNG
+한	한/MMN
+척이	척/NNB+이/JKS
+GPS	GPS/SL
+수신불량	수신/NNG+불량/NNG
+피해를	피해/NNG+를/JKO
+당했다.	당하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.319.7.3
+2011년 3월, 2012년 4월에도 GPS 교란신호가 감지됐으며 이번이 4번째다.
+
+2011년	2011/SN+년/NNB
+3월,	3/SN+월/NNB+,/SP
+2012년	2012/SN+년/NNB
+4월에도	4/SN+월/NNB+에/JKB+도/JX
+GPS	GPS/SL
+교란신호가	교란/NNG+신호/NNG+가/JKS
+감지됐으며	감지/NNG+되/XSV+었/EP+으며/EC
+이번이	이번/NNG+이/JKS
+4번째다.	4/SN+번/NNB+째/XSN+이/VCP+다/EF+./SF
+
+

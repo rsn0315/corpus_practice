@@ -1,0 +1,552 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000053.77
+metadata : {}
+
+
+# id : NWRW1800000053.77.1.1
+[IT&Game]PC시장 넘어 모바일-콘솔… 글로벌 흥행 IP ‘검은사막’
+
+[IT&Game]PC시장	[/SS+IT/SL+&/SW+Game/SL+]/SS+PC/SL+시장/NNG
+넘어	넘/VV+어/EC
+모바일-콘솔…	모바일/NNG+-/SO+콘솔/NNG+…/SE
+글로벌	글로벌/NNG
+흥행	흥행/NNG
+IP	IP/SL
+‘검은사막’	‘/SS+검/VA+은/ETM+사막/NNG+’/SS
+
+
+# id : NWRW1800000053.77.2.1
+펄어비스
+
+펄어비스	펄어비스/NNP
+
+
+# id : NWRW1800000053.77.3.1
+MMORPG ‘검은사막’을 앞세워 고속 성장 중인 펄어비스(대표 정경인)는 뛰어난 개발력으로 인정받는 게임 개발사다.
+
+MMORPG	MMORPG/SL
+‘검은사막’을	‘/SS+검/VA+은/ETM+사막/NNG+’/SS+을/JKO
+앞세워	앞세우/VV+어/EC
+고속	고속/NNG
+성장	성장/NNG
+중인	중/NNB+이/VCP+ㄴ/ETM
+펄어비스(대표	펄어비스/NNP+(/SS+대표/NNG
+정경인)는	정경인/NNP+)/SS+는/JX
+뛰어난	뛰어나/VA+ㄴ/ETM
+개발력으로	개발력/NNG+으로/JKB
+인정받는	인정/NNG+받/XSV+는/ETM
+게임	게임/NNG
+개발사다.	개발사/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.3.2
+R2, C9을 개발한 김대일 의장을 필두로 업계 최고의 인재들이 모여 2010년 펄어비스를 설립했다.
+
+R2,	R/SL+2/SN+,/SP
+C9을	C/SL+9/SN+을/JKO
+개발한	개발/NNG+하/XSV+ㄴ/ETM
+김대일	김대일/NNP
+의장을	의장/NNG+을/JKO
+필두로	필두/NNG+로/JKB
+업계	업계/NNG
+최고의	최고/NNG+의/JKG
+인재들이	인재/NNG+들/XSN+이/JKS
+모여	모이/VV+어/EC
+2010년	2010/SN+년/NNB
+펄어비스를	펄어비스/NNP+를/JKO
+설립했다.	설립/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.3.3
+작품성 높은 MMORPG를 만들자는 목표로 약 4년의 개발기간을 거쳐 글로벌 히트작 ‘검은사막’을 국내 처음 선보였다.
+
+작품성	작품/NNG+성/XSN
+높은	높/VA+은/ETM
+MMORPG를	MMORPG/SL+를/JKO
+만들자는	만들/VV+자는/ETM
+목표로	목표/NNG+로/JKB
+약	약/MMA
+4년의	4/SN+년/NNB+의/JKG
+개발기간을	개발/NNG+기간/NNG+을/JKO
+거쳐	거치/VV+어/EC
+글로벌	글로벌/NNG
+히트작	히트작/NNG
+‘검은사막’을	‘/SS+검/VA+은/ETM+사막/NNG+’/SS+을/JKO
+국내	국내/NNG
+처음	처음/NNG
+선보였다.	선보이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.4.1
+검은사막은 어떤 지역에서도 로딩이 없는 심리스 방식의 오픈월드를 배경으로, 뛰어난 액션성과 실사에 가까운 높은 그래픽 퀄리티를 구현하며 MMORPG 본연의 재미를 모두 갖춘 게임이다.
+
+검은사막은	검/VA+은/ETM+사막/NNG+은/JX
+어떤	어떤/MMD
+지역에서도	지역/NNG+에서/JKB+도/JX
+로딩이	로딩/NNG+이/JKS
+없는	없/VA+는/ETM
+심리스	심리스/NNG
+방식의	방식/NNG+의/JKG
+오픈월드를	오픈/NNG+월드/NNG+를/JKO
+배경으로,	배경/NNG+으로/JKB+,/SP
+뛰어난	뛰어나/VA+ㄴ/ETM
+액션성과	액션/NNG+성/XSN+과/JC
+실사에	실사/NNG+에/JKB
+가까운	가깝/VA+ㄴ/ETM
+높은	높/VA+은/ETM
+그래픽	그래픽/NNG
+퀄리티를	퀄리티/NNG+를/JKO
+구현하며	구현/NNG+하/XSV+며/EC
+MMORPG	MMORPG/SL
+본연의	본연/NNG+의/JKG
+재미를	재미/NNG+를/JKO
+모두	모두/MAG
+갖춘	갖추/VV+ㄴ/ETM
+게임이다.	게임/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.4.2
+무엇보다 대부분의 게임개발업체가 사용하는 상용 엔진을 택하지 않고 자체 엔진을 개발해 ‘검은사막’만의 퀄리티를 완성했다.
+
+무엇보다	무엇/NP+보다/JKB
+대부분의	대/XPN+부분/NNG+의/JKG
+게임개발업체가	게임/NNG+개발업체/NNG+가/JKS
+사용하는	사용/NNG+하/XSV+는/ETM
+상용	상용/NNG
+엔진을	엔진/NNG+을/JKO
+택하지	택하/VV+지/EC
+않고	않/VX+고/EC
+자체	자체/NNG
+개발해	개발/NNG+하/XSV+아/EC
+‘검은사막’만의	‘/SS+검/VA+은/ETM+사막/NNG+’/SS+만/JX+의/JKG
+퀄리티를	퀄리티/NNG+를/JKO
+완성했다.	완성/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.4.3
+자체 엔진은 게임 개발에 필요한 기술력의 집합체와 같아 뛰어난 기술력과 오랜 개발기간이 요구되지만 일단 개발을 마치고 나면 높은 생산성과 빠른 개발속도, 개발의 유연성을 제공해 주는 장점을 갖는다.
+
+자체	자체/NNG
+엔진은	엔진/NNG+은/JX
+게임	게임/NNG
+개발에	개발/NNG+에/JKB
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+기술력의	기술력/NNG+의/JKG
+집합체와	집합체/NNG+와/JKB
+같아	같/VA+아/EC
+뛰어난	뛰어나/VA+ㄴ/ETM
+기술력과	기술력/NNG+과/JC
+오랜	오랜/MMA
+개발기간이	개발/NNG+기간/NNG+이/JKS
+요구되지만	요구/NNG+되/XSV+지만/EC
+일단	일단/MAG
+개발을	개발/NNG+을/JKO
+마치고	마치/VV+고/EC
+나면	나/VX+면/EC
+높은	높/VA+은/ETM
+생산성과	생산/NNG+성/XSN+과/JC
+빠른	빠르/VA+ㄴ/ETM
+개발속도,	개발/NNG+속도/NNG+,/SP
+개발의	개발/NNG+의/JKG
+유연성을	유연성/NNG+을/JKO
+제공해	제공/NNG+하/XSV+아/EC
+주는	주/VX+는/ETM
+장점을	장점/NNG+을/JKO
+갖는다.	갖/VV+는다/EF+./SF
+
+
+# id : NWRW1800000053.77.4.4
+특히 MMORPG 업계에서 잔뼈가 굵은 김 의장이 개발한 검은사막 엔진(Black Desert Engine)은 그 어떤 상용 엔진보다도 높은 수준의 그래픽 구현 능력과 자유도를 갖추었다고 평가받고 있다.
+
+특히	특히/MAG
+MMORPG	MMORPG/SL
+업계에서	업계/NNG+에서/JKB
+잔뼈가	잔뼈/NNG+가/JKS
+굵은	굵/VA+은/ETM
+김	김/NNP
+의장이	의장/NNG+이/JKS
+개발한	개발/NNG+하/XSV+ㄴ/ETM
+검은사막	검/VA+은/ETM+사막/NNG
+엔진(Black	엔진/NNG+(/SS+Black/SL
+Desert	Desert/SL
+Engine)은	Engine/SL+)/SS+은/JX
+그	그/MMD
+어떤	어떤/MMD
+상용	상용/NNG
+엔진보다도	엔진/NNG+보다/JKB+도/JX
+높은	높/VA+은/ETM
+수준의	수준/NNG+의/JKG
+그래픽	그래픽/NNG
+구현	구현/NNG
+능력과	능력/NNG+과/JC
+자유도를	자유도/NNG+를/JKO
+갖추었다고	갖추/VV+었/EP+다고/EC
+평가받고	평가/NNG+받/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.5.1
+검은사막은 출시 후 국내에서 찾아보기 힘든 높은 자유도와 몰입감을 구현해 글로벌 시장 성적이 기대되는 게임으로 조명받았다.
+
+검은사막은	검/VA+은/ETM+사막/NNG+은/JX
+출시	출시/NNG
+후	후/NNG
+국내에서	국내/NNG+에서/JKB
+찾아보기	찾아보/VV+기/ETN
+힘든	힘들/VA+ㄴ/ETM
+높은	높/VA+은/ETM
+자유도와	자유도/NNG+와/JC
+몰입감을	몰입감/NNG+을/JKO
+구현해	구현/NNG+하/XSV+아/EC
+글로벌	글로벌/NNG
+시장	시장/NNG
+성적이	성적/NNG+이/JKS
+기대되는	기대/NNG+되/XSV+는/ETM
+게임으로	게임/NNG+으로/JKB
+조명받았다.	조명/NNG+받/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.5.2
+2015년 5월 일본, 같은 해 10월 러시아에 진출해 유저와 언론의 호평을 받으며 흥행에 성공했다.
+
+2015년	2015/SN+년/NNB
+5월	5/SN+월/NNB
+일본,	일본/NNP+,/SP
+같은	같/VA+은/ETM
+해	해/NNG
+10월	10/SN+월/NNB
+러시아에	러시아/NNP+에/JKB
+진출해	진출/NNG+하/XSV+아/EC
+유저와	유저/NNG+와/JC
+언론의	언론/NNG+의/JKG
+호평을	호평/NNG+을/JKO
+받으며	받/VV+으며/EC
+흥행에	흥행/NNG+에/JKB
+성공했다.	성공/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.5.3
+이후 2016년 3월 게임의 본고장 북미·유럽에 진출해 한국 최초로 북미 최대 게임사이트 MMORPG 닷컴에서 2016년 한 해 동안 최고의 인기게임 1위를 지켰다.
+
+이후	이후/NNG
+2016년	2016/SN+년/NNB
+3월	3/SN+월/NNB
+게임의	게임/NNG+의/JKG
+본고장	본고장/NNG
+북미·유럽에	북미/NNP+·/SP+유럽/NNP+에/JKB
+진출해	진출/NNG+하/XSV+아/EC
+한국	한국/NNP
+최초로	최초/NNG+로/JKB
+북미	북미/NNP
+최대	최대/NNG
+게임사이트	게임/NNG+사이트/NNG
+MMORPG	MMORPG/SL
+닷컴에서	닷컴/NNG+에서/JKB
+한	한/MMN
+해	해/NNB
+동안	동안/NNG
+최고의	최고/NNG+의/JKG
+인기게임	인기/NNG+게임/NNG
+1위를	1/SN+위/NNB+를/JKO
+지켰다.	지키/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.5.4
+현재까지 북미·유럽 가입자 수 200만 명 돌파했으며 최고 동시 접속자 수 11만 명을 기록했다.
+
+현재까지	현재/NNG+까지/JX
+북미·유럽	북미/NNP+·/SP+유럽/NNP
+가입자	가입자/NNG
+수	수/NNG
+200만	200/SN+만/NR
+명	명/NNB
+돌파했으며	돌파/NNG+하/XSV+았/EP+으며/EC
+최고	최고/NNG
+동시	동시/NNG
+접속자	접속자/NNG
+11만	11/SN+만/NR
+명을	명/NNB+을/JKO
+기록했다.	기록/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.6.1
+펄어비스는 올해 1월 자회사를 통해 자체적으로 대만에 ‘검은사막’ 서비스를 시작했으며, 출시 직후 인기게임 1위를 차지했다.
+
+펄어비스는	펄어비스/NNP+는/JX
+올해	올해/NNG
+1월	1/SN+월/NNB
+자회사를	자회사/NNG+를/JKO
+통해	통하/VV+아/EC
+자체적으로	자체/NNG+적/XSN+으로/JKB
+대만에	대만/NNP+에/JKB
+‘검은사막’	‘/SS+검/VA+은/ETM+사막/NNG+’/SS
+서비스를	서비스/NNG+를/JKO
+시작했으며,	시작/NNG+하/XSV+았/EP+으며/EC+,/SP
+출시	출시/NNG
+직후	직후/NNG
+인기게임	인기/NNG+게임/NNG
+1위를	1/SN+위/NNB+를/JKO
+차지했다.	차지/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.6.2
+첫 자체 서비스임에도 불구하고 안정적인 운영 능력을 보여주며 현재까지 대만 인기게임 순위 TOP3를 지키고 있다.
+
+첫	첫/MMN
+자체	자체/NNG
+서비스임에도	서비스/NNG+이/VCP+ㅁ/ETN+에/JKB+도/JX
+불구하고	불구하/VV+고/EC
+안정적인	안정/NNG+적/XSN+이/VCP+ㄴ/ETM
+운영	운영/NNG
+능력을	능력/NNG+을/JKO
+보여주며	보이/VV+어/EC+주/VX+며/EC
+현재까지	현재/NNG+까지/JX
+대만	대만/NNP
+인기게임	인기/NNG+게임/NNG
+순위	순위/NNG
+TOP3를	TOP/SL+3/SN+를/JKO
+지키고	지키/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.6.3
+이어 7월엔 남미 지역으로 서비스 시장을 확대했다.
+
+이어	이어/MAG
+7월엔	7/SN+월/NNB+에/JKB+ㄴ/JX
+남미	남미/NNP
+지역으로	지역/NNG+으로/JKB
+서비스	서비스/NNG
+시장을	시장/NNG+을/JKO
+확대했다.	확대/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.6.4
+글로벌 12위권 게임시장인 브라질을 포함한 남미시장은 연평균 20.1%의 높은 성장세를 기록하고 있다.
+
+글로벌	글로벌/NNG
+12위권	12/SN+위/NNB+권/XSN
+게임시장인	게임/NNG+시장/NNG+이/VCP+ㄴ/ETM
+브라질을	브라질/NNP+을/JKO
+포함한	포함/NNG+하/XSV+ㄴ/ETM
+남미시장은	남미/NNP+시장/NNG+은/JX
+연평균	연평균/NNG
+20.1%의	20/SN+./SP+1/SN+%/SW+의/JKG
+높은	높/VA+은/ETM
+성장세를	성장세/NNG+를/JKO
+기록하고	기록/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.6.5
+최근 ‘검은사막’은 남미 최대 게임쇼인 ‘BGS 2017’에 단독 부스로 참가해 ‘Best of Show Winner’ 에 선정되며 현지의 인기를 증명했다.
+
+최근	최근/NNG
+‘검은사막’은	‘/SS+검/VA+은/ETM+사막/NNG+’/SS+은/JX
+남미	남미/NNP
+최대	최대/NNG
+게임쇼인	게임/NNG+쇼/NNG+이/VCP+ㄴ/ETM
+‘BGS	‘/SS+BGS/SL
+2017’에	2017/SN+’/SS+에/JKB
+단독	단독/NNG
+부스로	부스/NNG+로/JKB
+참가해	참가/NNG+하/XSV+아/EC
+‘Best	‘/SS+Best/SL
+of	of/SL
+Show	Show/SL
+Winner’	Winner/SL+’/SS
+에	에/JKB
+선정되며	선정/NNG+되/XSV+며/EC
+현지의	현지/NNG+의/JKG
+인기를	인기/NNG+를/JKO
+증명했다.	증명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.7.1
+올 3월에는 중국 Snail Games와 퍼블리싱 계약을 체결해 세계 최대 게임 시장인 중국 진출을 눈앞에 두고 있다.
+
+올	올/NNG
+3월에는	3/SN+월/NNB+에/JKB+는/JX
+중국	중국/NNP
+Snail	Snail/SL
+Games와	Games/SL+와/JKB
+퍼블리싱	퍼블리싱/NNG
+계약을	계약/NNG+을/JKO
+체결해	체결/NNG+하/XSV+아/EC
+세계	세계/NNG
+최대	최대/NNG
+게임	게임/NNG
+시장인	시장/NNG+이/VCP+ㄴ/ETM
+진출을	진출/NNG+을/JKO
+눈앞에	눈앞/NNG+에/JKB
+두고	두/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.7.2
+이 외에도 서비스 역량을 강화하여 9월부터 터키, 중동, 아프리카 지역에서 별도 퍼블리셔 없이 사전판매 서비스를 시작했다.
+
+이	이/MMD
+외에도	외/NNB+에/JKB+도/JX
+서비스	서비스/NNG
+역량을	역량/NNG+을/JKO
+강화하여	강화/NNG+하/XSV+아/EC
+9월부터	9/SN+월/NNB+부터/JX
+터키,	터키/NNP+,/SP
+중동,	중동/NNP+,/SP
+아프리카	아프리카/NNP
+지역에서	지역/NNG+에서/JKB
+별도	별도/NNG
+퍼블리셔	퍼블리셔/NNG
+없이	없이/MAG
+사전판매	사전/NNG+판매/NNG
+서비스를	서비스/NNG+를/JKO
+시작했다.	시작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.7.3
+태국을 비롯한 잠재력 높은 동남아 시장도 연내 자체 서비스 하는 것이 목표다.
+
+태국을	태국/NNP+을/JKO
+비롯한	비롯하/VV+ㄴ/ETM
+잠재력	잠재력/NNG
+높은	높/VA+은/ETM
+동남아	동남아/NNP
+시장도	시장/NNG+도/JX
+연내	연내/NNG
+자체	자체/NNG
+서비스	서비스/NNG
+하는	하/VV+는/ETM
+것이	것/NNB+이/JKS
+목표다.	목표/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.8.1
+펄어비스는 PC MMORPG 장르에서 성공한 개발, 운영 노하우 및 자체 엔진을 바탕으로 플랫폼 다각화에 도전할 계획이다.
+
+펄어비스는	펄어비스/NNP+는/JX
+PC	PC/SL
+MMORPG	MMORPG/SL
+장르에서	장르/NNG+에서/JKB
+성공한	성공/NNG+하/XSV+ㄴ/ETM
+개발,	개발/NNG+,/SP
+운영	운영/NNG
+노하우	노하우/NNG
+및	및/MAG
+자체	자체/NNG
+엔진을	엔진/NNG+을/JKO
+바탕으로	바탕/NNG+으로/JKB
+플랫폼	플랫폼/NNG
+다각화에	다각/NNG+화/XSN+에/JKB
+도전할	도전/NNG+하/XSV+ㄹ/ETM
+계획이다.	계획/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.8.2
+전 세계 7개 권역, 100여개 국가에서 서비스되는 게임인 만큼 글로벌 IP 효과를 톡톡히 누릴 것으로 예상된다.
+
+전	전/MMN
+세계	세계/NNG
+7개	7/SN+개/NNB
+권역,	권역/NNG+,/SP
+100여개	100/SN+여/XSN+개/NNB
+국가에서	국가/NNG+에서/JKB
+서비스되는	서비스/NNG+되/XSV+는/ETM
+게임인	게임/NNG+이/VCP+ㄴ/ETM
+만큼	만큼/NNB
+글로벌	글로벌/NNG
+IP	IP/SL
+효과를	효과/NNG+를/JKO
+톡톡히	톡톡히/MAG
+누릴	누리/VV+ㄹ/ETM
+것으로	것/NNB+으로/JKB
+예상된다.	예상/NNG+되/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000053.77.9.1
+또한 전 세계 게임시장에서 가장 큰 비중을 차지하는 콘솔 시장 진출도 준비하고 있다.
+
+또한	또한/MAG
+전	전/MMN
+세계	세계/NNG
+게임시장에서	게임/NNG+시장/NNG+에서/JKB
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+비중을	비중/NNG+을/JKO
+차지하는	차지/NNG+하/XSV+는/ETM
+콘솔	콘솔/NNG
+시장	시장/NNG
+진출도	진출/NNG+도/JX
+준비하고	준비/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.9.2
+콘솔게임 시장은 지난해 기준 전 세계 게임시장의 35%를 차지하고 있다.
+
+콘솔게임	콘솔/NNG+게임/NNG
+시장은	시장/NNG+은/JX
+지난해	지난해/NNG
+기준	기준/NNG
+전	전/MMN
+세계	세계/NNG
+게임시장의	게임/NNG+시장/NNG+의/JKG
+35%를	35/SN+%/SW+를/JKO
+차지하고	차지/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.10.1
+기존의 solo play에서 Multi-play 방식으로 변화하고 있어, MMORPG 장르에 대한 인기가 높아지고 있다.
+
+기존의	기존/NNG+의/JKG
+solo	solo/SL
+play에서	play/SL+에서/JKB
+Multi-play	Multi/SL+-/SO+play/SL
+방식으로	방식/NNG+으로/JKB
+변화하고	변화/NNG+하/XSV+고/EC
+있어,	있/VX+어/EC+,/SP
+MMORPG	MMORPG/SL
+장르에	장르/NNG+에/JKB
+대한	대하/VV+ㄴ/ETM
+인기가	인기/NNG+가/JKS
+높아지고	높아지/VV+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000053.77.10.2
+검은사막은 내년 상반기 북미·유럽 지역 출시를 목표로 개발 중이다.
+
+검은사막은	검/VA+은/ETM+사막/NNG+은/JX
+내년	내년/NNG
+상반기	상반기/NNG
+북미·유럽	북미/NNP+·/SP+유럽/NNP
+지역	지역/NNG
+출시를	출시/NNG+를/JKO
+목표로	목표/NNG+로/JKB
+개발	개발/NNG
+중이다.	중/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000053.77.10.3
+서양권에서 가장 큰 시장성을 갖고 있는 콘솔 게임기 ‘Xbox’를 개발한 마이크로소프트를 파트너사로 선정했다.
+
+서양권에서	서양/NNG+권/XSN+에서/JKB
+가장	가장/MAG
+큰	크/VA+ㄴ/ETM
+시장성을	시장/NNG+성/XSN+을/JKO
+갖고	갖/VV+고/EC
+있는	있/VX+는/ETM
+콘솔	콘솔/NNG
+게임기	게임기/NNG
+‘Xbox’를	‘/SS+Xbox/SL+’/SS+를/JKO
+개발한	개발/NNG+하/XSV+ㄴ/ETM
+마이크로소프트를	마이크로소프트/NNP+를/JKO
+파트너사로	파트너사/NNG+로/JKB
+선정했다.	선정/NNG+하/XSV+았/EP+다/EF+./SF
+
+

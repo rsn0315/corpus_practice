@@ -1,0 +1,322 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.128
+metadata : {}
+
+
+# id : NWRW1800000049.128.1.1
+[Health&Beauty]“내가 먹는 약, 이거 제대로 먹는 거야?”
+
+[Health&Beauty]“내가	[/SS+Health/SL+&/SW+Beauty/SL+]/SS+“/SS+내/NP+가/JKS
+먹는	먹/VV+는/ETM
+약,	약/NNG+,/SP
+이거	이거/NP
+제대로	제대로/MAG
+거야?”	거/NNB+이/VCP+야/EF+?/SF+”/SS
+
+
+# id : NWRW1800000049.128.2.1
+정보 과잉의 시대다.
+
+정보	정보/NNG
+과잉의	과잉/NNG+의/JKG
+시대다.	시대/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.128.2.2
+의약 및 건강 정보도 예외는 아니다.
+
+의약	의약/NNG
+및	및/MAG
+건강	건강/NNG
+정보도	정보/NNG+도/JX
+예외는	예외/NNG+는/JX
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000049.128.2.3
+이런저런 이론과 주장들이 넘쳐난다.
+
+이런저런	이런저런/MMD
+이론과	이론/NNG+과/JC
+주장들이	주장/NNG+들/XSN+이/JKS
+넘쳐난다.	넘치/VV+어/EC+나/VV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.128.2.4
+영양제부터 시작해 각종 치료약까지 하루에 몇 가지씩 약을 먹는 사람도 주변에 흔하다.
+
+영양제부터	영양제/NNG+부터/JX
+시작해	시작/NNG+하/XSV+아/EC
+각종	각종/NNG
+치료약까지	치료/NNG+약/NNG+까지/JX
+하루에	하루/NNG+에/JKB
+몇	몇/NR
+가지씩	가지/NNB+씩/XSN
+약을	약/NNG+을/JKO
+먹는	먹/VV+는/ETM
+사람도	사람/NNG+도/JX
+주변에	주변/NNG+에/JKB
+흔하다.	흔하/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.128.2.5
+안전한 약 사용의 가이드가 필요하다.
+
+안전한	안전/NNG+하/XSA+ㄴ/ETM
+약	약/NNG
+사용의	사용/NNG+의/JKG
+가이드가	가이드/NNG+가/JKS
+필요하다.	필요/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000049.128.3.1
+‘내 약 사용설명서’는 우리가 지금까지 무관심했던 약 부작용과 상호작용에 대해 경종을 울리는 책이다.
+
+‘내	‘/SS+나/NP+의/JKG
+약	약/NNG
+사용설명서’는	사용/NNG+설명서/NNG+’/SS+는/JX
+우리가	우리/NP+가/JKS
+지금까지	지금/NNG+까지/JX
+무관심했던	무/XPN+관심/NNG+하/XSA+았/EP+던/ETM
+부작용과	부작용/NNG+과/JC
+상호작용에	상호/NNG+작용/NNG+에/JKB
+대해	대하/VV+아/EC
+경종을	경종/NNG+을/JKO
+울리는	울리/VV+는/ETM
+책이다.	책/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.128.3.2
+특히 의사나 약사 등 특정한 사람들만이 아닌, 우리 스스로가 자신이 먹고 사용하는 약 성분에 대해 정확히 알고 있어야 한다는 중요한 기본수칙을 알려준다.
+
+특히	특히/MAG
+의사나	의사/NNG+나/JC
+약사	약사/NNG
+등	등/NNB
+특정한	특정/NNG+하/XSA+ㄴ/ETM
+사람들만이	사람/NNG+들/XSN+만/JX+이/JKC
+아닌,	아니/VCN+ㄴ/ETM+,/SP
+우리	우리/NP
+스스로가	스스로/NNG+가/JKS
+자신이	자신/NNG+이/JKS
+먹고	먹/VV+고/EC
+사용하는	사용/NNG+하/XSV+는/ETM
+약	약/NNG
+성분에	성분/NNG+에/JKB
+대해	대하/VV+아/EC
+정확히	정확히/MAG
+알고	알/VV+고/EC
+있어야	있/VX+어야/EC
+한다는	하/VX+ㄴ다는/ETM
+중요한	중요/NNG+하/XSA+ㄴ/ETM
+기본수칙을	기본/NNG+수칙/NNG+을/JKO
+알려준다.	알리/VV+어/EC+주/VX+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.128.4.1
+부작용에 쉽게 노출되는 노년기와 어린이, 만성질환 치료제를 복용하는 사람의 경우 특히 약 사용에 주의해야 하며, 하루에 두 가지 이상의 약을 꾸준히 먹거나 특정 연고 한 가지를 자주 사용하는 사람이라면 반드시 나만의 ‘복약 레시피’가 필요하다.
+
+부작용에	부작용/NNG+에/JKB
+쉽게	쉽/VA+게/EC
+노출되는	노출/NNG+되/XSV+는/ETM
+노년기와	노년기/NNG+와/JC
+어린이,	어린이/NNG+,/SP
+만성질환	만성/NNG+질환/NNG
+치료제를	치료제/NNG+를/JKO
+복용하는	복용/NNG+하/XSV+는/ETM
+사람의	사람/NNG+의/JKG
+경우	경우/NNG
+특히	특히/MAG
+약	약/NNG
+사용에	사용/NNG+에/JKB
+주의해야	주의/NNG+하/XSV+아야/EC
+하며,	하/VX+며/EC+,/SP
+하루에	하루/NNG+에/JKB
+두	두/MMN
+가지	가지/NNB
+이상의	이상/NNG+의/JKG
+약을	약/NNG+을/JKO
+꾸준히	꾸준히/MAG
+먹거나	먹/VV+거나/EC
+특정	특정/NNG
+연고	연고/NNG
+한	한/MMN
+가지를	가지/NNB+를/JKO
+자주	자주/MAG
+사용하는	사용/NNG+하/XSV+는/ETM
+사람이라면	사람/NNG+이/VCP+라면/EC
+반드시	반드시/MAG
+나만의	나/NP+만/JX+의/JKG
+‘복약	‘/SS+복약/NNG
+레시피’가	레시피/NNG+’/SS+가/JKS
+필요하다.	필요/NNG+하/XSA+다/EF+./SF
+
+
+# id : NWRW1800000049.128.5.1
+‘약사 교육하는 약사’로 유명한 저자는 이 책을 통해 ‘개인 약물 이력관리(Medication Review, Medication Therapy Management)’의 필요성을 조언하며 건강한 복약 해법을 제시한다.
+
+‘약사	‘/SS+약사/NNG
+교육하는	교육/NNG+하/XSV+는/ETM
+약사’로	약사/NNG+’/SS+로/JKB
+유명한	유명/NNG+하/XSA+ㄴ/ETM
+저자는	저자/NNG+는/JX
+이	이/MMD
+책을	책/NNG+을/JKO
+통해	통하/VV+아/EC
+‘개인	‘/SS+개인/NNG
+약물	약물/NNG
+이력관리(Medication	이력/NNG+관리/NNG+(/SS+Medication/SL
+Review,	Review/SL+,/SP
+Medication	Medication/SL
+Therapy	Therapy/SL
+Management)’의	Management/SL+)/SS+’/SS+의/JKG
+필요성을	필요/NNG+성/XSN+을/JKO
+조언하며	조언/NNG+하/XSV+며/EC
+건강한	건강/NNG+하/XSA+ㄴ/ETM
+복약	복약/NNG
+해법을	해법/NNG+을/JKO
+제시한다.	제시/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.128.5.2
+또한 의사, 약사와 소비자 간의 커뮤니케이션을 중요하게 다루며, 그것이 약의 부작용을 피하고 최선의 약물 치료를 위해 꼭 필요한 핵심 포인트라 강조한다.
+
+또한	또한/MAG
+의사,	의사/NNG+,/SP
+약사와	약사/NNG+와/JC
+소비자	소비자/NNG
+간의	간/NNB+의/JKG
+커뮤니케이션을	커뮤니케이션/NNG+을/JKO
+중요하게	중요/NNG+하/XSA+게/EC
+다루며,	다루/VV+며/EC+,/SP
+그것이	그것/NP+이/JKS
+약의	약/NNG+의/JKG
+부작용을	부작용/NNG+을/JKO
+피하고	피하/VV+고/EC
+최선의	최선/NNG+의/JKG
+약물	약물/NNG
+치료를	치료/NNG+를/JKO
+위해	위하/VV+아/EC
+꼭	꼭/MAG
+필요한	필요/NNG+하/XSA+ㄴ/ETM
+핵심	핵심/NNG
+포인트라	포인트/NNG+이/VCP+라/EC
+강조한다.	강조/NNG+하/XSV+ㄴ다/EF+./SF
+
+
+# id : NWRW1800000049.128.6.1
+이 책은 일반 독자는 물론이고 의사나 약사에게도 환자를 위한 ‘복약지도 매뉴얼’로서 활용도가 높다.
+
+이	이/MMD
+책은	책/NNG+은/JX
+일반	일반/NNG
+독자는	독자/NNG+는/JX
+물론이고	물론/NNG+이/VCP+고/EC
+의사나	의사/NNG+나/JC
+약사에게도	약사/NNG+에게/JKB+도/JX
+환자를	환자/NNG+를/JKO
+위한	위하/VV+ㄴ/ETM
+‘복약지도	‘/SS+복약/NNG+지도/NNG
+매뉴얼’로서	매뉴얼/NNG+’/SS+로서/JKB
+활용도가	활용도/NNG+가/JKS
+높다.	높/VA+다/EF+./SF
+
+
+# id : NWRW1800000049.128.6.2
+책에 소개된 다양한 약물 사용의 문제점과 셀프케어 및 복약 가이드는 단순히 약국이나 병원에서 소비자가 임의대로 약을 선택하는 데 도움을 주기 위함이 아니다.
+
+책에	책/NNG+에/JKB
+소개된	소개/NNG+되/XSV+ㄴ/ETM
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+약물	약물/NNG
+사용의	사용/NNG+의/JKG
+문제점과	문제점/NNG+과/JC
+셀프케어	셀프케어/NNG
+및	및/MAG
+복약	복약/NNG
+가이드는	가이드/NNG+는/JX
+단순히	단순히/MAG
+약국이나	약국/NNG+이나/JC
+병원에서	병원/NNG+에서/JKB
+소비자가	소비자/NNG+가/JKS
+임의대로	임의/NNG+대로/JX
+약을	약/NNG+을/JKO
+선택하는	선택/NNG+하/XSV+는/ETM
+데	데/NNB
+도움을	도움/NNG+을/JKO
+주기	주/VV+기/ETN
+위함이	위하/VV+ㅁ/ETN+이/JKC
+아니다.	아니/VCN+다/EF+./SF
+
+
+# id : NWRW1800000049.128.6.3
+약을 독이 아닌 진정한 약으로 쓰기 위해 의사, 약사, 독자 모두에게 제대로 소통할 수 있는 가이드라인을 알려주고 있는 것이다.
+
+약을	약/NNG+을/JKO
+독이	독/NNG+이/JKC
+아닌	아니/VCN+ㄴ/ETM
+진정한	진정하/VA+ㄴ/ETM
+약으로	약/NNG+으로/JKB
+쓰기	쓰/VV+기/ETN
+위해	위하/VV+아/EC
+의사,	의사/NNG+,/SP
+약사,	약사/NNG+,/SP
+독자	독자/NNG
+모두에게	모두/NNG+에게/JKB
+제대로	제대로/MAG
+소통할	소통/NNG+하/XSV+ㄹ/ETM
+수	수/NNB
+있는	있/VX+는/ETM
+가이드라인을	가이드라인/NNG+을/JKO
+알려주고	알리/VV+어/EC+주/VX+고/EC
+것이다.	것/NNB+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.128.7.1
+책 마지막 부분에는 제약시장 및 약국을 대상으로 조사한 일반의약품 판매순위가 소개돼 있다.
+
+책	책/NNG
+마지막	마지막/NNG
+부분에는	부분/NNG+에/JKB+는/JX
+제약시장	제약/NNG+시장/NNG
+및	및/MAG
+약국을	약국/NNG+을/JKO
+대상으로	대상/NNG+으로/JKB
+조사한	조사/NNG+하/XSV+ㄴ/ETM
+일반의약품	일반/NNG+의약품/NNG
+판매순위가	판매/NNG+순위/NNG+가/JKS
+소개돼	소개/NNG+되/XSV+어/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.128.7.2
+이를 보면서 독자들은 ‘혹시 나도 그냥 남들이 많이 먹으니까 따라 먹은 것은 아닐까’ 하는 의심의 시간을 가져본다면 그것만으로도 이 책의 가치는 충분하다.
+
+이를	이/NP+를/JKO
+보면서	보/VV+면서/EC
+독자들은	독자/NNG+들/XSN+은/JX
+‘혹시	‘/SS+혹시/MAG
+나도	나/NP+도/JX
+그냥	그냥/MAG
+남들이	남/NNG+들/XSN+이/JKS
+많이	많이/MAG
+먹으니까	먹/VV+으니까/EC
+따라	따르/VV+아/EC
+먹은	먹/VV+은/ETM
+것은	것/NNB+은/JX
+아닐까’	아니/VCN+ㄹ까/EF+’/SS
+하는	하/VV+는/ETM
+의심의	의심/NNG+의/JKG
+시간을	시간/NNG+을/JKO
+가져본다면	가지/VV+어/EC+보/VX+ㄴ다면/EC
+그것만으로도	그것/NP+만/JX+으로/JKB+도/JX
+이	이/MMD
+책의	책/NNG+의/JKG
+가치는	가치/NNG+는/JX
+충분하다.	충분하/VA+다/EF+./SF
+
+

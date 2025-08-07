@@ -1,0 +1,245 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000049.80
+metadata : {}
+
+
+# id : NWRW1800000049.80.1.1
+[2016 한국산업대상/기술혁신 부문]첨단 의료기기 전문 제조업체, 세계가 주목
+
+[2016	[/SS+2016/SN
+한국산업대상/기술혁신	한국/NNP+산업/NNG+대상/NNG+//SP+기술/NNG+혁신/NNG
+부문]첨단	부문/NNG+]/SS+첨단/NNG
+의료기기	의료/NNG+기기/NNG
+전문	전문/NNG
+제조업체,	제조업체/NNG+,/SP
+세계가	세계/NNG+가/JKS
+주목	주목/NNG
+
+
+# id : NWRW1800000049.80.2.1
+1998년에 설립된 ㈜비엠텍월드와이드(대표 한승무·이하 비엠텍)는 ‘초음파·X레이 골밀도 진단기기’ 분야의 끊임없는 기술개발과 품질혁신을 선도하며 초음파 뇌혈류 측정기, 초음파 통증 및 피부치료기, 디지털 X레이 포터블 디텍터 등을 출시한 의료기기 전문 제조기업이다.
+
+1998년에	1998/SN+년/NNB+에/JKB
+설립된	설립/NNG+되/XSV+ㄴ/ETM
+㈜비엠텍월드와이드(대표	㈜/SW+비엠텍월드와이드/NNP+(/SS+대표/NNG
+한승무·이하	한승무/NNP+·/SP+이하/NNG
+비엠텍)는	비엠텍/NNP+)/SS+는/JX
+‘초음파·X레이	‘/SS+초/XPN+음파/NNG+·/SP+X/SL+레이/NNG
+골밀도	골밀도/NNG
+진단기기’	진단/NNG+기기/NNG+’/SS
+분야의	분야/NNG+의/JKG
+끊임없는	끊임없/VA+는/ETM
+기술개발과	기술/NNG+개발/NNG+과/JC
+품질혁신을	품질/NNG+혁신/NNG+을/JKO
+선도하며	선도/NNG+하/XSV+며/EC
+초음파	초/XPN+음파/NNG
+뇌혈류	뇌/NNG+혈류/NNG
+측정기,	측정기/NNG+,/SP
+통증	통증/NNG
+및	및/MAG
+피부치료기,	피부/NNG+치료기/NNG+,/SP
+디지털	디지털/NNG
+X레이	X/SL+레이/NNG
+포터블	포터블/NNG
+디텍터	디텍터/NNG
+등을	등/NNB+을/JKO
+출시한	출시/NNG+하/XSV+ㄴ/ETM
+의료기기	의료/NNG+기기/NNG
+전문	전문/NNG
+제조기업이다.	제조/NNG+기업/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000049.80.2.2
+비엠텍은 세계 최초의 초음파 골다공증 영상 진단기 개발에 성공했고, 다양한 종류의 초음파 및 덱사 골밀도 측정기 등 신제품을 지속적으로 출시했다.
+
+비엠텍은	비엠텍/NNP+은/JX
+세계	세계/NNG
+최초의	최초/NNG+의/JKG
+초음파	초/XPN+음파/NNG
+골다공증	골다공증/NNG
+영상	영상/NNG
+진단기	진단기/NNG
+개발에	개발/NNG+에/JKB
+성공했고,	성공/NNG+하/XSV+았/EP+고/EC+,/SP
+다양한	다양/NNG+하/XSA+ㄴ/ETM
+종류의	종류/NNG+의/JKG
+및	및/MAG
+덱사	덱사/NNG
+골밀도	골밀도/NNG
+측정기	측정기/NNG
+등	등/NNB
+신제품을	신/XPN+제품/NNG+을/JKO
+지속적으로	지속/NNG+적/XSN+으로/JKB
+출시했다.	출시/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.80.2.3
+현재는 독일-이탈리아-일본 등 전 세계 70여개국에 수출하고 있으며, 축적된 양산기술 및 우수한 국제 인증시스템을 바탕으로 제품모델의 다양화, 가격경쟁력 확보, 시장확대 전략 등을 통해 사업영역을 확대해 나가고 있다.
+
+현재는	현재/NNG+는/JX
+독일-이탈리아-일본	독일/NNP+-/SO+이탈리아/NNP+-/SO+일본/NNP
+등	등/NNB
+전	전/MMN
+세계	세계/NNG
+70여개국에	70/SN+여/XSN+개국/NNB+에/JKB
+수출하고	수출/NNG+하/XSV+고/EC
+있으며,	있/VX+으며/EC+,/SP
+축적된	축적/NNG+되/XSV+ㄴ/ETM
+양산기술	양산/NNG+기술/NNG
+및	및/MAG
+우수한	우수/NNG+하/XSA+ㄴ/ETM
+국제	국제/NNG
+인증시스템을	인증/NNG+시스템/NNG+을/JKO
+바탕으로	바탕/NNG+으로/JKB
+제품모델의	제품/NNG+모델/NNG+의/JKG
+다양화,	다양/NNG+화/XSN+,/SP
+가격경쟁력	가격/NNG+경쟁력/NNG
+확보,	확보/NNG+,/SP
+시장확대	시장/NNG+확대/NNG
+전략	전략/NNG
+등을	등/NNB+을/JKO
+통해	통하/VV+아/EC
+사업영역을	사업/NNG+영역/NNG+을/JKO
+확대해	확대/NNG+하/XSV+아/EC
+나가고	나가/VX+고/EC
+있다.	있/VX+다/EF+./SF
+
+
+# id : NWRW1800000049.80.3.1
+비엠텍은 DEXA(Dual Energy X-ray Absorptiometry) 기술이 결집된 ‘환자 친화형 X레이 골밀도 측정기 OSTEOpro DEXA 시리즈’를 출시하며 업계의 이목을 집중시켜왔다.
+
+비엠텍은	비엠텍/NNP+은/JX
+DEXA(Dual	DEXA/SL+(/SS+Dual/SL
+Energy	Energy/SL
+X-ray	X/SL+-/SO+ray/SL
+Absorptiometry)	Absorptiometry/SL+)/SS
+기술이	기술/NNG+이/JKS
+결집된	결집/NNG+되/XSV+ㄴ/ETM
+‘환자	‘/SS+환자/NNG
+친화형	친화/NNG+형/XSN
+X레이	X/SL+레이/NNG
+골밀도	골밀도/NNG
+측정기	측정기/NNG
+OSTEOpro	OSTEOpro/SL
+DEXA	DEXA/SL
+시리즈’를	시리즈/NNG+’/SS+를/JKO
+출시하며	출시/NNG+하/XSV+며/EC
+업계의	업계/NNG+의/JKG
+이목을	이목/NNG+을/JKO
+집중시켜왔다.	집중/NNG+시키/XSV+어/EC+오/VX+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.80.3.2
+동사의 주력제품이자 기존 DEXA 시리즈를 업그레이드한 ‘OSTEOpro MAX’는 전신스캐닝 방식을 구현해 뛰어난 정밀성·신속성과 환자편의성, 낮은 방사 선양, 안정적인 영상보정 등의 장점을 두루 탑재했으며 어떤 상황에서도 동일한 결과 값을 갖도록 재현성을 높여 장비 간의 편차를 줄였다.
+
+동사의	동사/NNG+의/JKG
+주력제품이자	주력/NNG+제품/NNG+이/VCP+자/EC
+기존	기존/NNG
+DEXA	DEXA/SL
+시리즈를	시리즈/NNG+를/JKO
+업그레이드한	업그레이드/NNG+하/XSV+ㄴ/ETM
+‘OSTEOpro	‘/SS+OSTEOpro/SL
+MAX’는	MAX/SL+’/SS+는/JX
+전신스캐닝	전신/NNG+스캐닝/NNG
+방식을	방식/NNG+을/JKO
+구현해	구현/NNG+하/XSV+아/EC
+뛰어난	뛰어나/VA+ㄴ/ETM
+정밀성·신속성과	정밀/NNG+성/XSN+·/SP+신속/NNG+성/XSN+과/JC
+환자편의성,	환자/NNG+편의/NNG+성/XSN+,/SP
+낮은	낮/VA+은/ETM
+방사	방사/NNG
+선양,	선/NNG+양/NNG+,/SP
+안정적인	안정/NNG+적/XSN+이/VCP+ㄴ/ETM
+영상보정	영상/NNG+보정/NNG
+등의	등/NNB+의/JKG
+장점을	장점/NNG+을/JKO
+두루	두루/MAG
+탑재했으며	탑재/NNG+하/XSV+았/EP+으며/EC
+어떤	어떤/MMD
+상황에서도	상황/NNG+에서/JKB+도/JX
+동일한	동일/NNG+하/XSA+ㄴ/ETM
+결과	결과/NNG
+값을	값/NNG+을/JKO
+갖도록	갖/VV+도록/EC
+재현성을	재현/NNG+성/XSN+을/JKO
+높여	높이/VV+어/EC
+장비	장비/NNG
+간의	간/NNB+의/JKG
+편차를	편차/NNG+를/JKO
+줄였다.	줄이/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.80.4.1
+한편 비엠텍은 현재 세계적인 기업 GE헬스케어와 2년여에 걸친 개발 프로젝트를 성공적으로 완료, 세계 각국에 골다공증 진단기 판매를 시작했다.
+
+한편	한편/MAG
+비엠텍은	비엠텍/NNP+은/JX
+현재	현재/MAG
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+기업	기업/NNG
+GE헬스케어와	GE헬스케어/NNP+와/JC
+2년여에	2/SN+년/NNB+여/XSN+에/JKB
+걸친	걸치/VV+ㄴ/ETM
+개발	개발/NNG
+프로젝트를	프로젝트/NNG+를/JKO
+성공적으로	성공/NNG+적/XSN+으로/JKB
+완료,	완료/NNG+,/SP
+세계	세계/NNG
+각국에	각국/NNG+에/JKB
+골다공증	골다공증/NNG
+진단기	진단기/NNG
+판매를	판매/NNG+를/JKO
+시작했다.	시작/NNG+하/XSV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.80.4.2
+중소기업으로서 세계적인 대기업과 합작 제품(제품명 Aria)을 이루어 낸 데는 우수한 연구개발 능력이 뒷받침됐다.
+
+중소기업으로서	중소기업/NNG+으로서/JKB
+세계적인	세계/NNG+적/XSN+이/VCP+ㄴ/ETM
+대기업과	대/XPN+기업/NNG+과/JC
+합작	합작/NNG
+제품(제품명	제품/NNG+(/SS+제품명/NNG
+Aria)을	Aria/SL+)/SS+을/JKO
+이루어	이루/VV+어/EC
+낸	내/VX+ㄴ/ETM
+데는	데/NNB+는/JX
+우수한	우수/NNG+하/XSA+ㄴ/ETM
+연구개발	연구/NNG+개발/NNG
+능력이	능력/NNG+이/JKS
+뒷받침됐다.	뒷받침/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000049.80.4.3
+우수 연구인력들로 구성되어 ‘시장 Needs형 R&D중심 의료기기 기업’으로 성장하고 있는 비엠텍은 다수의 특허와 지식재산권 등을 보유하고 있으며 국제공동기술개발사업 및 제품 다각화 등을 위해 노력하고 있다.
+
+우수	우수/NNG
+연구인력들로	연구/NNG+인력/NNG+들/XSN+로/JKB
+구성되어	구성/NNG+되/XSV+어/EC
+‘시장	‘/SS+시장/NNG
+Needs형	Needs/SL+형/XSN
+R&D중심	R/SL+&/SW+D/SL+중심/NNG
+의료기기	의료/NNG+기기/NNG
+기업’으로	기업/NNG+’/SS+으로/JKB
+성장하고	성장/NNG+하/XSV+고/EC
+있는	있/VX+는/ETM
+비엠텍은	비엠텍/NNP+은/JX
+다수의	다수/NNG+의/JKG
+특허와	특허/NNG+와/JKB
+지식재산권	지식/NNG+재산/NNG+권/XSN
+등을	등/NNB+을/JKO
+보유하고	보유/NNG+하/XSV+고/EC
+있으며	있/VX+으며/EC
+국제공동기술개발사업	국제/NNG+공동/NNG+기술/NNG+개발/NNG+사업/NNG
+및	및/MAG
+제품	제품/NNG
+다각화	다각/NNG+화/XSN
+위해	위하/VV+아/EC
+노력하고	노력/NNG+하/XSV+고/EC
+있다.	있/VX+다/EF+./SF
+
+

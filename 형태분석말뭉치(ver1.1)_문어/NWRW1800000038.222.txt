@@ -1,0 +1,309 @@
+# FILE DATA
+id : NXMP1902008040
+metadata : {}
+
+# SENTENCE DATA
+id : NWRW1800000038.222
+metadata : {}
+
+
+# id : NWRW1800000038.222.1.1
+이석기 RO 경호팀, 戰爭상황 가정해 산악훈련
+
+이석기	이석기/NNP
+RO	RO/SL
+경호팀,	경호/NNG+팀/NNG+,/SP
+戰爭상황	戰爭/SH+상황/NNG
+가정해	가정/NNG+하/XSV+아/EC
+산악훈련	산악/NNG+훈련/NNG
+
+
+# id : NWRW1800000038.222.2.1
+20여명 지난 4월 설악산서 "V님 육탄 보위" 12.6㎞ 행군
+
+20여명	20/SN+여/XSN+명/NNB
+지난	지나/VV+ㄴ/ETM
+4월	4/SN+월/NNB
+설악산서	설악산/NNP+서/JKB
+"V님	"/SS+V/SL+님/XSN
+육탄	육탄/NNG
+보위"	보위/NNG+"/SS
+12.6㎞	12/SN+./SP+6/SN+㎞/SW
+행군	행군/NNG
+
+
+# id : NWRW1800000038.222.3.1
+비밀 혁명 조직 'RO(Revolutionary Organization)'의 총책인 이석기(51) 통합진보당 의원의 경호를 맡은 RO 조직원 20여명이 올봄 설악산에서 전쟁 상황을 가정한 혹한기 산악훈련을 한 것으로 조사됐다.
+
+비밀	비밀/NNG
+혁명	혁명/NNG
+조직	조직/NNG
+'RO(Revolutionary	'/SS+RO/SL+(/SS+Revolutionary/SL
+Organization)'의	Organization/SL+)/SS+'/SS+의/JKG
+총책인	총책/NNG+이/VCP+ㄴ/ETM
+이석기(51)	이석기/NNP+(/SS+51/SN+)/SS
+통합진보당	통합진보당/NNP
+의원의	의원/NNG+의/JKG
+경호를	경호/NNG+를/JKO
+맡은	맡/VV+은/ETM
+RO	RO/SL
+조직원	조직원/NNG
+20여명이	20/SN+여/XSN+명/NNB+이/JKS
+올봄	올봄/NNG
+설악산에서	설악산/NNP+에서/JKB
+전쟁	전쟁/NNG
+상황을	상황/NNG+을/JKO
+가정한	가정/NNG+하/XSV+ㄴ/ETM
+혹한기	혹한기/NNG
+산악훈련을	산악/NNG+훈련/NNG+을/JKO
+한	하/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+조사됐다.	조사/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.4.1
+공안 당국에 따르면 '이석기 경호팀'은 4월 초 조직돼 4월 5일부터 이틀간 설악산 대승령에서 한계령으로 이어지는 12.6㎞ 구간을 행군하며 혹한기 훈련을 했다.
+
+공안	공안/NNG
+당국에	당국/NNG+에/JKB
+따르면	따르/VV+면/EC
+'이석기	'/SS+이석기/NNP
+경호팀'은	경호/NNG+팀/NNG+'/SS+은/JX
+4월	4/SN+월/NNB
+초	초/NNB
+조직돼	조직/NNG+되/XSV+어/EC
+5일부터	5/SN+일/NNB+부터/JX
+이틀간	이틀/NNG+간/XSN
+설악산	설악산/NNP
+대승령에서	대승령/NNP+에서/JKB
+한계령으로	한계령/NNP+으로/JKB
+이어지는	이어지/VV+는/ETM
+12.6㎞	12/SN+./SP+6/SN+㎞/SW
+구간을	구간/NNG+을/JKO
+행군하며	행군/NNG+하/XSV+며/EC
+혹한기	혹한기/NNG
+훈련을	훈련/NNG+을/JKO
+했다.	하/VV+았/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.4.2
+지난 3월 북한 조선인민군 최고사령부에서 정전협정 폐기를 선언한 직후 한반도에 전쟁의 위기감이 고조될 때였다.
+
+지난	지나/VV+ㄴ/ETM
+3월	3/SN+월/NNB
+북한	북한/NNP
+조선인민군	조선/NNP+인민군/NNG
+최고사령부에서	최고/NNG+사령부/NNG+에서/JKB
+정전협정	정전/NNG+협정/NNG
+폐기를	폐기/NNG+를/JKO
+선언한	선언/NNG+하/XSV+ㄴ/ETM
+직후	직후/NNG
+한반도에	한반도/NNP+에/JKB
+전쟁의	전쟁/NNG+의/JKG
+위기감이	위기감/NNG+이/JKS
+고조될	고조/NNG+되/XSV+ㄹ/ETM
+때였다.	때/NNG+이/VCP+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.4.3
+강원도 인제군 북면에 속하는 이 지역은 설악산에서도 특히 산세가 험준한 곳인 데다 당시에는 눈이 무릎까지 쌓여 있었던 것으로 알려졌다.
+
+강원도	강원도/NNP
+인제군	인제군/NNP
+북면에	북면/NNP+에/JKB
+속하는	속하/VV+는/ETM
+이	이/MMD
+지역은	지역/NNG+은/JX
+설악산에서도	설악산/NNP+에서/JKB+도/JX
+특히	특히/MAG
+산세가	산세/NNG+가/JKS
+험준한	험준하/VA+ㄴ/ETM
+곳인	곳/NNG+이/VCP+ㄴ/ETM
+데다	데/NNB+다/JX
+당시에는	당시/NNG+에/JKB+는/JX
+눈이	눈/NNG+이/JKS
+무릎까지	무릎/NNG+까지/JX
+쌓여	쌓이/VV+어/EC
+있었던	있/VX+었/EP+던/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.4.4
+이 시기 해당 지역은 산불을 예방하느라 입산을 통제하고 있어, 경호팀이 훈련을 마치고 하산하던 중 공단 측에 적발돼 입산 금지 위반 과태료(1인당 10만원)도 낸 것으로 조사됐다.
+
+이	이/MMD
+시기	시기/NNG
+해당	해당/NNG
+지역은	지역/NNG+은/JX
+산불을	산불/NNG+을/JKO
+예방하느라	예방/NNG+하/XSV+느라/EC
+입산을	입산/NNG+을/JKO
+통제하고	통제/NNG+하/XSV+고/EC
+있어,	있/VX+어/EC+,/SP
+경호팀이	경호/NNG+팀/NNG+이/JKS
+훈련을	훈련/NNG+을/JKO
+마치고	마치/VV+고/EC
+하산하던	하산/NNG+하/XSV+던/ETM
+중	중/NNB
+공단	공단/NNG
+측에	측/NNB+에/JKB
+적발돼	적발/NNG+되/XSV+어/EC
+입산	입산/NNG
+금지	금지/NNG
+위반	위반/NNG
+과태료(1인당	과태료/NNG+(/SS+1/SN+인/NNG+당/XSN
+10만원)도	10/SN+만/NR+원/NNB+)/SS+도/JX
+낸	내/VV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+조사됐다.	조사/NNG+되/XSV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.4.5
+이러한 내용은 공안 당국이 이 의원 등으로부터 압수한 '총화서' 등의 문건을 통해 확인한 것으로 알려졌다.
+
+이러한	이러하/VA+ㄴ/ETM
+내용은	내용/NNG+은/JX
+공안	공안/NNG
+당국이	당국/NNG+이/JKS
+이	이/NNP
+의원	의원/NNG
+등으로부터	등/NNB+으로부터/JKB
+압수한	압수/NNG+하/XSV+ㄴ/ETM
+'총화서'	'/SS+총화서/NNG+'/SS
+등의	등/NNB+의/JKG
+문건을	문건/NNG+을/JKO
+통해	통하/VV+아/EC
+확인한	확인/NNG+하/XSV+ㄴ/ETM
+것으로	것/NNB+으로/JKB
+알려졌다.	알려지/VV+었/EP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.5.1
+당국은 북한의 정전협정 폐기 선언→전쟁 임박 판단→경호팀 조직 및 훈련 등 일련의 움직임이 이 의원과 RO의 내란 음모 혐의를 입증하는 증거가 될 수 있을 것으로 판단하고 12일부터 시작되는 이 의원의 내란 음모 사건 재판에서 관련 문건을 증거로 제출할 방침이다.
+
+당국은	당국/NNG+은/JX
+북한의	북한/NNP+의/JKG
+정전협정	정전/NNG+협정/NNG
+폐기	폐기/NNG
+선언→전쟁	선언/NNG+→/SW+전쟁/NNG
+임박	임박/NNG
+판단→경호팀	판단/NNG+→/SW+경호/NNG+팀/NNG
+조직	조직/NNG
+및	및/MAG
+훈련	훈련/NNG
+등	등/NNB
+일련의	일련/NNG+의/JKG
+움직임이	움직임/NNG+이/JKS
+이	이/NNP
+의원과	의원/NNG+과/JC
+RO의	RO/SL+의/JKG
+내란	내란/NNG
+음모	음모/NNG
+혐의를	혐의/NNG+를/JKO
+입증하는	입증/NNG+하/XSV+는/ETM
+증거가	증거/NNG+가/JKC
+될	되/VV+ㄹ/ETM
+수	수/NNB
+있을	있/VA+을/ETM
+것으로	것/NNB+으로/JKB
+판단하고	판단/NNG+하/XSV+고/EC
+12일부터	12/SN+일/NNB+부터/JX
+시작되는	시작/NNG+되/XSV+는/ETM
+의원의	의원/NNG+의/JKG
+사건	사건/NNG
+재판에서	재판/NNG+에서/JKB
+관련	관련/NNG
+문건을	문건/NNG+을/JKO
+증거로	증거/NNG+로/JKB
+제출할	제출/NNG+하/XSV+ㄹ/ETM
+방침이다.	방침/NNG+이/VCP+다/EF+./SF
+
+
+# id : NWRW1800000038.222.6.1
+앞서 검찰은 지난 9월 이 의원과 RO의 내란 음모 혐의 등 사건 중간 수사 결과 발표에서 "이들은 상부 호출 시 100% 수행 능력을 갖추기 위해 주 3일 체력 단련과 월 1회 산악 훈련을 시행하고, 매달 세 차례 사상 학습도 했다"고 밝힌 바 있다.
+
+앞서	앞서/MAG
+검찰은	검찰/NNG+은/JX
+지난	지나/VV+ㄴ/ETM
+9월	9/SN+월/NNB
+이	이/NNP
+의원과	의원/NNG+과/JC
+RO의	RO/SL+의/JKG
+내란	내란/NNG
+음모	음모/NNG
+혐의	혐의/NNG
+등	등/NNB
+사건	사건/NNG
+중간	중간/NNG
+수사	수사/NNG
+결과	결과/NNG
+발표에서	발표/NNG+에서/JKB
+"이들은	"/SS+이/NP+들/XSN+은/JX
+상부	상부/NNG
+호출	호출/NNG
+시	시/NNB
+100%	100/SN+%/SW
+수행	수행/NNG
+능력을	능력/NNG+을/JKO
+갖추기	갖추/VV+기/ETN
+위해	위하/VV+아/EC
+주	주/NNG
+3일	3/SN+일/NNB
+체력	체력/NNG
+단련과	단련/NNG+과/JC
+월	월/NNG
+1회	1/SN+회/NNB
+산악	산악/NNG
+훈련을	훈련/NNG+을/JKO
+시행하고,	시행/NNG+하/XSV+고/EC+,/SP
+매달	매달/MAG
+세	세/MMN
+차례	차례/NNG
+사상	사상/NNG
+학습도	학습/NNG+도/JX
+했다"고	하/VV+았/EP+다/EF+"/SS+고/JKQ
+밝힌	밝히/VV+ㄴ/ETM
+바	바/NNB
+있다.	있/VA+다/EF+./SF
+
+
+# id : NWRW1800000038.222.7.1
+당시 검찰은 경호팀이 훈련을 마친 뒤 "전시에 'V님'(이석기 지칭)을 보위하기 위한 구체적 활동이었다" "서북 능선에서 한 훈련이 가장 기억에 남았다" "어떠한 어려운 난관이 조성되더라도 웃으면서 'V님'을 육탄으로 보위하겠다는 마음으로…" 같은 소감을 발표하기도 했다고 설명했다.
+
+당시	당시/NNG
+검찰은	검찰/NNG+은/JX
+경호팀이	경호/NNG+팀/NNG+이/JKS
+훈련을	훈련/NNG+을/JKO
+마친	마치/VV+ㄴ/ETM
+뒤	뒤/NNG
+"전시에	"/SS+전시/NNG+에/JKB
+'V님'(이석기	'/SS+V/SL+님/XSN+'/SS+(/SS+이석기/NNP
+지칭)을	지칭/NNG+)/SS+을/JKO
+보위하기	보위/NNG+하/XSV+기/ETN
+위한	위하/VV+ㄴ/ETM
+구체적	구체/NNG+적/XSN
+활동이었다"	활동/NNG+이/VCP+었/EP+다/EF+"/SS
+"서북	"/SS+서북/NNG
+능선에서	능선/NNG+에서/JKB
+한	하/VV+ㄴ/ETM
+훈련이	훈련/NNG+이/JKS
+가장	가장/MAG
+기억에	기억/NNG+에/JKB
+남았다"	남/VV+았/EP+다/EF+"/SS
+"어떠한	"/SS+어떠하/VA+ㄴ/ETM
+어려운	어렵/VA+ㄴ/ETM
+난관이	난관/NNG+이/JKS
+조성되더라도	조성/NNG+되/XSV+더라도/EC
+웃으면서	웃/VV+으면서/EC
+'V님'을	'/SS+V/SL+님/XSN+'/SS+을/JKO
+육탄으로	육탄/NNG+으로/JKB
+보위하겠다는	보위/NNG+하/XSV+겠/EP+다는/ETM
+마음으로…"	마음/NNG+으로/JKB+…/SE+"/SS
+같은	같/VA+은/ETM
+소감을	소감/NNG+을/JKO
+발표하기도	발표/NNG+하/XSV+기/ETN+도/JX
+했다고	하/VX+았/EP+다고/EC
+설명했다.	설명/NNG+하/XSV+았/EP+다/EF+./SF
+
+
